@@ -1,0 +1,49 @@
+# 附带文档:东方封魔录/1st
+
+<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\61\ns506%3A%E4%B8%9C%E6%96%B9%E5%B0%81%E9%AD%94%E5%BD%95%2F1st.html -->
+
+1st | 东方封魔录 | 使用了翻译表的页面 | 附带文档
+
+  
+  
+
+  
+
+- 本词条内容为官方游戏TH02 **[东方封魔录](./东方封魔录.md)** 的附带文档之一
+- 如果发现翻译问题可进行改正
+- 纯文本格式（Wiki系统将从本页面下方的翻译表中自动获取内容并拼接成纯文本格式的页面）
+
+: [日文版](http://omake.thwiki.cc/translate.php?u=附带文档:东方封魔录/1st&amp;t=ja)
+: [汉化版](http://omake.thwiki.cc/translate.php?u=附带文档:东方封魔录/1st&amp;t=zh)
+
+  
+  
+
+  
+
+
+<table><tbody><tr class="tt-content-header" id="=-1" data-pos="&#91;&quot;=&quot;,1&#93;"><td class="tt-jah" lang="ja"><div class="poem">東方Ｐｒｏｊｅｃｔ第２弾<br>東方封魔録</div></td><td class="tt-zhh" lang="zh"><div class="poem">东方Ｐｒｏｊｅｃｔ第２作<br>东方封魔录</div></td></tr><tr class="tt-content-header" id="=-2" data-pos="&#91;&quot;=&quot;,2&#93;"><td class="tt-jah" lang="ja"><div class="poem">■０．はじめに</div></td><td class="tt-zhh" lang="zh"><div class="poem">■０．首先</div></td></tr><tr class="tt-content" id="=-3" data-pos="&#91;&quot;=&quot;,3&#93;"><td class="tt-ja" lang="ja"><div class="poem">　　この度は、<br>　　　　巫女さん縦スクロールシューティング<br> 　　　　　　　　　東方封魔録<br>　　をお買上頂きまことにありがとうございます。<br>　このマニュアルをよ～く読んで、かなり変わった<br>　巫女さん世界を楽しんで下さいね</div></td><td class="tt-zh" lang="zh"><div class="poem">　　感谢购买此次的<br>       巫女纵版卷轴射击游戏<br>             东方封魔录<br>    请好好～阅读本Manual，并尽情享受这与众不同的<br>    巫女世界吧。</div></td></tr><tr class="tt-content-header" id="=-4" data-pos="&#91;&quot;=&quot;,4&#93;"><td class="tt-jah" lang="ja"><div class="poem">■１．動作環境</div></td><td class="tt-zhh" lang="zh"><div class="poem">■１．运行环境</div></td></tr><tr class="tt-content" id="=-5" data-pos="&#91;&quot;=&quot;,5&#93;"><td class="tt-ja" lang="ja"><div class="poem">　●pc98 / EPSON PC でＥＧＣ搭載機種（ＶＸ以降）<br>　●要３８６以上（４８６（３３ＭＨｚ）以上推奨）<br>　●空きメインメモリ５２０ｋ以上<br>　●ＦＭ音源（８６相当）対応<br>　●ＭＩＤＩ音源（ＭＰＵ）対応<br>　（ＭＩＤＩはＳＣ－８８相当のものでないと音が、<br>  こちらの意図するものではなくなってしまうかも）</div></td><td class="tt-zh" lang="zh"><div class="poem">　●pc98 / EPSON PC中 ＥＧＣ装配机型（VX之后）<br>　●CPU需要８６以上（推荐４８６（３３ＭＨｚ）以上）<br>　●空闲内存５２０ｋ<br>　●支持ＦＭ音源（相当于８６）<br>　●对应的ＭＩＤＩ音源（ＭＰＵ）<br>  （MIDI不是像SC-88这样程度的声音的话，<br>   这边的意图可能无法达到了）</div></td></tr><tr class="tt-content-header" id="=-6" data-pos="&#91;&quot;=&quot;,6&#93;"><td class="tt-jah" lang="ja"><div class="poem">■２．インストール方法</div></td><td class="tt-zhh" lang="zh"><div class="poem">■２．安装方法</div></td></tr><tr class="tt-content" id="=-7" data-pos="&#91;&quot;=&quot;,7&#93;"><td class="tt-ja" lang="ja"><div class="poem">　フロッピーディスクをドライブにいれ、そのドライ<br>　ブをカレントドライブにして、コマンドラインから<br><br>      INSTALL インストール先のドライブ名:<br><br>  例）INSTALL A:   （Ａドライブにインストール）<br><br>　と入力しリターンキーを押して実行して下さい。<br>　インストール先ドライブの空き容量が、作業中も<br>　含めて、約２メガ必要ですので、注意して下さい。<br><br>　（手動でインストールする場合）<br>　HUMAROKU.EXE を、インストール先へコピーし実行し<br>  て下さい。HUMARIKU.EXE は不要ですので、削除して<br>  いいです。</div></td><td class="tt-zh" lang="zh"><div class="poem">　把软盘驱动器放入驱动，设置该驱动器为当前驱动器，<br>  在命令行内输入<br><br>      INSTALL 想要安装的驱动器号：<br><br>  例）INSTALL A：（安装到A盘）<br><br>  然后按回车键运行。<br>  请注意目标驱动器的剩余容量，<br>  包括运行中的时候，需要约２MB。<br><br>  （如果你想手动安装）<br>  把HUMAROKU.EXE ，复制到想要安装的文件夹运行。<br>  运行游戏时不需要HUMAROKU.EXE ，安装完可删除。</div></td></tr><tr class="tt-content-header" id="=-8" data-pos="&#91;&quot;=&quot;,8&#93;"><td class="tt-jah" lang="ja"><div class="poem">■３．起動方法</div></td><td class="tt-zhh" lang="zh"><div class="poem">■３．启动方法</div></td></tr><tr class="tt-content" id="=-9" data-pos="&#91;&quot;=&quot;,9&#93;"><td class="tt-ja" lang="ja"><div class="poem">　インストール先のディレクトリをカレントにして、<br>　コマンドラインより、<br> 　　GAME<br>  と入力して下さい。<br>　タイトル画面が表示され選択肢が６項目表示され<br>　ます。<br>　　ＳＴＡＲＴ　　　···　ゲームを始めます。<br>　　ＥＸＴＲＡ　ＳＴＡＲＴ　<br>　　　　　　　　　　···　エキストラステージを<br>　　　　　　　　　　　　　　始めます。（条件あり）<br>　　ＨＩＳＣＯＲＥ　···　ハイスコアを見ます。<br>　　ＯＰＴＩＯＮ　　···　各種設定の変更。<br>　　ＭＵＳＩＣ　ＭＯＤＥ　 <br>　　　　　　　　　　···　音楽を聞いたりコメン<br>　　　　　　　　　　　　　　トを読んだり出来ます。<br>　　ＱＵＩＴ　　　　···　Ｄｏｓに戻ります。</div></td><td class="tt-zh" lang="zh"><div class="poem">　设置安装目录为当前目录，<br>  在命令行中，<br>  输入<br>  GAME。<br>  标题中显示６个选项。<br>　　ＳＴＡＲＴ　　　···　开始游戏<br>　　ＥＸＴＲＡ　ＳＴＡＲＴ　<br>　　　　　　　　　　···　开始Extra Stage。（有条件）<br>　　ＨＩＳＣＯＲＥ　···　查看最高得分。<br>　　ＯＰＴＩＯＮ　　···　设定变更。<br>　　ＭＵＳＩＣ　ＭＯＤＥ　 <br>　　　　　　　　　　···　边听音乐边读评论。<br>　　ＱＵＩＴ　　　　···　返回Ｄｏｓ。</div></td></tr><tr class="tt-content-header" id="=-10" data-pos="&#91;&quot;=&quot;,10&#93;"><td class="tt-jah" lang="ja"><div class="poem">■４．キャラ紹介</div></td><td class="tt-zhh" lang="zh"><div class="poem">■４．人物介绍</div></td></tr><tr class="tt-content" id="=-11" data-pos="&#91;&quot;=&quot;,11&#93;"><td class="tt-ja" lang="ja"><div class="poem">　★　主人公　···　博麗　靈夢<br><br>　博麗神社の巫女、生まれ付き霊力はあるが修業不足。<br>　性格は楽天家で、今回の様な非常時でも全然心配など<br>　しておらず、自分の霊力で何とかなると思っている。<br><br>　★　　亀　　···　　玄爺<br><br>　長い間生きているうちに、色々な神力を身につけた亀。<br>　飛行仙を使い、空を自由に飛べる能力をもつ。<br><br>　★　陰陽玉　···　博麗神社最大の秘宝<br><br>　霊力のこもった不思議な鉱石で出来た玉。<br>　今回は、２個の陰陽玉が靈夢の左右に付いている。</div></td><td class="tt-zh" lang="zh"><div class="poem">　★　主人公　　···　　博丽灵梦<br>　博丽神社的巫女，天生具有灵力，但是修行不足。<br>　性格上相当乐天，即使是像现在这样的非常时期也完全不担心，<br>  认为凭着自己的灵力总会有办法的。<br><br>　★　龟　　···　　玄爷<br>　在长时间活着的过程中，掌握了各种神力的乌龟。<br>  拥有使用飞行仙，自由在空中飞翔的能力。<br><br>　★　阴阳玉　　···　　博丽神社最大的秘宝<br>　从蕴藏着灵力的不可思议的矿石中获得的玉。<br>　这一次，两个阴阳玉跟在灵梦左右。</div></td></tr><tr class="tt-content-header" id="=-12" data-pos="&#91;&quot;=&quot;,12&#93;"><td class="tt-jah" lang="ja"><div class="poem">■５．ゲーム内容</div></td><td class="tt-zhh" lang="zh"><div class="poem">■５．游戏内容</div></td></tr><tr class="tt-content" id="=-13" data-pos="&#91;&quot;=&quot;,13&#93;"><td class="tt-ja" lang="ja"><div class="poem">　　巫女さんを取り巻く、不思議な世界観の縦スクロー<br>　ルシューティングです。<br>　　怒首○蜂もびっくりの弾の量と判定の小ささを持つ<br>　シューティング。弾の量に圧倒されないように···<br>　　全５面（＋１面）です。</div></td><td class="tt-zh" lang="zh"><div class="poem">　　这是围绕巫女而展开的有着不可思议的世界观的<br>  纵版卷轴射击游戏。<br>    有着令玩过怒首领蜂的人也感到惊讶的弹幕数量<br>  和小判定点的射击游戏。不要被弹幕数量给压倒啊···<br>    全部５面（＋１面）</div></td></tr><tr class="tt-content-header" id="=-14" data-pos="&#91;&quot;=&quot;,14&#93;"><td class="tt-jah" lang="ja"><div class="poem">■６．操作方法</div></td><td class="tt-zhh" lang="zh"><div class="poem">■６．操作方法</div></td></tr><tr class="tt-content" id="=-15" data-pos="&#91;&quot;=&quot;,15&#93;"><td class="tt-ja" lang="ja"><div class="poem">　●それぞれ自機移動です。<br>　　　　カーソル　　　　　　　　　テンキー<br>　　　　　 ↑　　　　　　　　　　 ７ ８ ９<br>　　　　　←→　　　　　　　　　  ４　　６<br>　　　　　 ↓　　　　　　　　　　 １ ２ ３<br><br>　●Ｚキー　　　お札ショットを撃ちます。<br>　　　　　　　　連打することによってすこし連射力を<br>                あげることができます。<br>　　　　　　　　ボスなど、早く倒すことができます。<br><br>　●Ｘキー　　　霊撃を使います。<br>　　　　        霊撃の回数分だけ使えます。<br><br>　●ＥＳＣキー　ポーズをかけます。<br>　　　　　　　　ポーズ中にもう一度ＥＳＣキーを押す<br>                と、解除します。</div></td><td class="tt-zh" lang="zh"><div class="poem">　●自机移动的各种方法　　<br>          方向键　　　　　　　　　数字键<br>　　　　　 ↑　　　　　　　　　　 ７ ８ ９<br>　　　　　←→　　　　　　　　　  ４　　６<br>　　　　　 ↓　　　　　　　　　　 １ ２ ３<br><br>  ●Ｚ键　　　符札攻击。<br>              造成连击的话，可以提高一些连射力。<br>              可以加快打倒Boss。<br><br>  ●Ｘ键　　　使用灵击。<br>              只能使用画面上显示的灵击数。<br><br>　●ＥＳＣ键  游戏暂停。<br>              在暂停时，再按一次ＥＳＣ键，<br>              解除暂停。</div></td></tr><tr class="tt-content-header" id="=-16" data-pos="&#91;&quot;=&quot;,16&#93;"><td class="tt-jah" lang="ja"><div class="poem">■７．アイテムについて</div></td><td class="tt-zhh" lang="zh"><div class="poem">■７．关于道具</div></td></tr><tr class="tt-content" id="=-17" data-pos="&#91;&quot;=&quot;,17&#93;"><td class="tt-ja" lang="ja"><div class="poem">　Ｐ　···　パワーアップです。たくさん出ます。<br>　　　　　　　取ることによって霊力が上がります。<br>　点　···　得点です。画面の上方で取れば取るほど<br>　　　　　　　点が高くなります。（51200 ～　2000）<br>　　　　　　　ＨＡＲＤ、ＬＵＮＡＴＩＣ、ＥＸＴＲＡ<br>　　　　　　　時はそれぞれ２、４、８倍となります。<br>　Ｂ　···　霊撃です。５個までもてます。<br>　Ｓ　···　大幅に霊力が増えます。<br>１ｕｐ···　靈夢が一人増えます。５人まで増えます。</div></td><td class="tt-zh" lang="zh"><div class="poem">　Ｐ　···　提高火力。有很多。<br>              取得越多，灵力越多。<br>　点　···　得分。越在画面上方取得的话，<br>              其得分也就越高。（51200 ～　2000）<br>              在ＨＡＲＤ、ＬＵＮＡＴＩＣ、ＥＸＴＲＡ<br>              等难度时，可以增加２、４、８倍。<br>　Ｂ　···　灵击。可以增加到５个。<br>　Ｓ　···　灵力大幅增加。<br>１ｕｐ···　灵梦人数加一。可以增加到５人。</div></td></tr><tr class="tt-content-header" id="=-18" data-pos="&#91;&quot;=&quot;,18&#93;"><td class="tt-jah" lang="ja"><div class="poem">■８．その他</div></td><td class="tt-zhh" lang="zh"><div class="poem">■８．其他</div></td></tr><tr class="tt-content" id="=-19" data-pos="&#91;&quot;=&quot;,19&#93;"><td class="tt-ja" lang="ja"><div class="poem">　１００万、２００万、３００万、５００万、８００万<br>　でエクステンドします。<br><br>　残り人数がゼロになったら時、霊撃の使用回数が２回<br>　多くなります。あきらめないで。</div></td><td class="tt-zh" lang="zh"><div class="poem">&#160;&#160;得分到１００万、２００万、３００万、５００万、８００万，<br>  残机加一。<br><br>  残机变成0时，灵击使用数增加２次。<br>  不要放弃。</div></td></tr><tr class="tt-content-header" id="=-20" data-pos="&#91;&quot;=&quot;,20&#93;"><td class="tt-jah" lang="ja"><div class="poem">■９．あとがき</div></td><td class="tt-zhh" lang="zh"><div class="poem">■９．后记</div></td></tr><tr class="tt-content" id="=-21" data-pos="&#91;&quot;=&quot;,21&#93;"><td class="tt-ja" lang="ja"><div class="poem">　　ストーリーや、細かな操作方法などは、<br>  インストール後　封魔録.TXTを、お読みください。<br><br>　　万一、インストール出来ない、とかディスク不良<br>　とかが原因でゲームが出来ない、といった困った事<br>　が在りましたら、お手数ですが下記の所へご連絡を<br>　してください。<br>－－－－－－－－－－－－－－－－－－－－－－－－</div></td><td class="tt-zh" lang="zh"><div class="poem">&#160;&#160;&#160;&#160;故事和具体操作方法，<br>  请看安装后的 封魔録.TXT。<br><br>    万一，由于不能安装，或者磁盘故障等<br>    原因，造成不能运行游戏，给您造成<br>    麻烦的话，劳烦您联络下记地址。<br>－－－－－－－－－－－－－－－－－－－－－－－－</div></td></tr><tr class="tt-content" id="=-22" data-pos="&#91;&quot;=&quot;,22&#93;"><td class="tt-ja" lang="ja"><div class="poem">３５５　<br>埼玉県　東松山市　元宿　1-6-5　中村ビル 208号室<br>　　　　　　　　　太田順也（ＺＵＮ）<br><br>　　竹本ライクな巫女さんで、ゲーム内容は硬派に<br>　いきたい···　　　　　　　　　うじゃうじゃ&lt;</div></td><td class="tt-zh" lang="zh"><div class="poem">３５５<br>埼玉县  东松山市  元宿　1-6-5　中村大厦 208号室<br>　　　　　　　　　太田顺也（ＺＵＮ）<br><br>    想要做出喜欢竹本<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">1</a></sup>的巫女，<br>  并且硬派的游戏内容···　　　　　　　　嘀嘀咕咕</div></td></tr></tbody></table>
+
+
+
+[^cite_note-1]: 指zun 喜欢的漫画家，竹本泉。
+
+  
+  
+
+  
+
+
+
+
+
+---
+
+此文档由 [THBWiki-Markdown-Builder](https://github.com/Delsin-Yu/THBWiki-Markdown-Builder) 构建。
+
+文档中的所有内容除特殊注明外，均在 [**知识共享(Creative Commons) 署名-非商业性使用-相同方式共享 3.0 协议**](https://creativecommons.org/licenses/by-sa/3.0/deed.zh-hans) 下提供，附加条款亦可能应用。
+
+引用类型与其他类型作品版权归原作者所有，如有作者授权则遵照授权协议使用。
+
+详细请查阅 [THBWiki：免责声明](https://thbwiki.cc/THBWiki:%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E)。
+

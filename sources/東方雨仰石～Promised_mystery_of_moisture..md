@@ -1,0 +1,137 @@
+# 東方雨仰石～Promised_mystery_of_moisture.
+
+<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\f6\ns0%3A%E6%9D%B1%E6%96%B9%E9%9B%A8%E4%BB%B0%E7%9F%B3%EF%BD%9EPromised_mystery_of_moisture%2E.html -->
+
+2017年7月17日 由 遊色高楼  发布的STG同人游戏，可在 Windows 系统上运行，游戏人数为 单人模式，分级为 一般向
+
+本页是关于东方Project  
+ **二次创作同人软件 (未找到链接)** 的词条
+## 目录
+
+- [1 软件信息](#软件信息)
+- [2 Staff](#Staff)
+- [3 作品介绍](#作品介绍)
+- [4 内容页面](#内容页面)
+- [5 评论](#评论)
+- [6 视频](#视频)
+- [7 下载](#下载)
+- [8 词条导航](#词条导航)
+
+
+
+
+## 软件信息
+
+<table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-東方雨仰石～Promised_mystery_of_moisture.封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/c/c0/%E6%9D%B1%E6%96%B9%E9%9B%A8%E4%BB%B0%E7%9F%B3%EF%BD%9EPromised_mystery_of_moisture.%E5%B0%81%E9%9D%A2.png/224px-%E6%9D%B1%E6%96%B9%E9%9B%A8%E4%BB%B0%E7%9F%B3%EF%BD%9EPromised_mystery_of_moisture.%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="224" height="75" srcset="https://upload.thwiki.cc/thumb/c/c0/%E6%9D%B1%E6%96%B9%E9%9B%A8%E4%BB%B0%E7%9F%B3%EF%BD%9EPromised_mystery_of_moisture.%E5%B0%81%E9%9D%A2.png/336px-%E6%9D%B1%E6%96%B9%E9%9B%A8%E4%BB%B0%E7%9F%B3%EF%BD%9EPromised_mystery_of_moisture.%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/c/c0/%E6%9D%B1%E6%96%B9%E9%9B%A8%E4%BB%B0%E7%9F%B3%EF%BD%9EPromised_mystery_of_moisture.%E5%B0%81%E9%9D%A2.png/448px-%E6%9D%B1%E6%96%B9%E9%9B%A8%E4%BB%B0%E7%9F%B3%EF%BD%9EPromised_mystery_of_moisture.%E5%B0%81%E9%9D%A2.png 2x" data-file-width="600" data-file-height="200"></a></td>
+</tr><tr><td class="label">名称</td><td colspan="2"> 東方雨仰石～Promised mystery of moisture. </td></tr><tr><td class="label">译名</td><td colspan="2"> 东方雨仰石 ～ Promised mystery of moisture. </td></tr><tr><td class="label">制作方</td><td><a href="./遊色高楼.md" title="遊色高楼">遊色高楼</a></td><td class="cover-artwork" rowspan="8" style="min-width:224px;"><a href="./文件-東方雨仰石～Promised_mystery_of_moisture.封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/c/c0/%E6%9D%B1%E6%96%B9%E9%9B%A8%E4%BB%B0%E7%9F%B3%EF%BD%9EPromised_mystery_of_moisture.%E5%B0%81%E9%9D%A2.png/224px-%E6%9D%B1%E6%96%B9%E9%9B%A8%E4%BB%B0%E7%9F%B3%EF%BD%9EPromised_mystery_of_moisture.%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="224" height="75" srcset="https://upload.thwiki.cc/thumb/c/c0/%E6%9D%B1%E6%96%B9%E9%9B%A8%E4%BB%B0%E7%9F%B3%EF%BD%9EPromised_mystery_of_moisture.%E5%B0%81%E9%9D%A2.png/336px-%E6%9D%B1%E6%96%B9%E9%9B%A8%E4%BB%B0%E7%9F%B3%EF%BD%9EPromised_mystery_of_moisture.%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/c/c0/%E6%9D%B1%E6%96%B9%E9%9B%A8%E4%BB%B0%E7%9F%B3%EF%BD%9EPromised_mystery_of_moisture.%E5%B0%81%E9%9D%A2.png/448px-%E6%9D%B1%E6%96%B9%E9%9B%A8%E4%BB%B0%E7%9F%B3%EF%BD%9EPromised_mystery_of_moisture.%E5%B0%81%E9%9D%A2.png 2x" data-file-width="600" data-file-height="200"></a></td>
+</tr><tr><td class="label">首发日期</td><td>2017-07-17</td></tr><tr><td class="label">类型</td><td>游戏</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">游戏人数</td><td>单人模式</td></tr><tr><td class="label">游戏类型</td><td>STG</td></tr><tr><td class="label">运行平台</td><td>Windows</td></tr><tr><td class="label">语言</td><td>日文</td></tr><tr><td class="label">售价</td><td>免费</td></tr>
+<tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://pocskyscraper.jp/th_PMM/index.html">http://pocskyscraper.jp/th_PMM/index.html</a></td></tr></tbody></table>
+
+東方雨仰石～Promised mystery of moisture.（同人游戏，遊色高楼，2017） - 2017年7月17日 由 遊色高楼  发布的STG同人游戏，可在 Windows 系统上运行，游戏人数为 单人模式，分级为 一般向
+## Staff
+企划
+: 蒼天
+
+程序
+: 蒼天
+
+剧本
+: 蒼天
+
+等级设置
+: 蒼天
+
+人设
+: 斬舞滅貴
+
+系统图标
+: 斬舞滅貴
+
+角色构图设计（一面以外）
+: さやかた
+
+角色构图设计（一面）
+: ゆずな
+
+点绘
+: めいす
+
+3D效果
+: EWIO2
+
+效果音
+: Pesot.jp/
+
+音乐
+: Pesot.jp/、Wanwan、リュウオウ
+
+## 作品介绍
+- 本作为东方二次同人STG。
+- 目前已放出PV（包括前三面）和体验版（只有一面）。
+
+## 内容页面
+- [游戏设定与剧情](./東方雨仰石～Promised_mystery_of_moisture.-设定与剧情.md)
+- 机体特性与系统说明 (未找到链接)
+- [角色设定](./東方雨仰石～Promised_mystery_of_moisture.-角色设定.md)
+- 音乐 (未找到链接)
+- 其他相关资料 (未找到链接)
+
+## 评论
+## 视频
+  
+请注意：  
+ **所有的相关视频地址均为站外链接，本站并不保证其来源的合法性以及链接的有效性和安全性**   
+
+体验版PV1  
+
+[niconico](http://acg.tv/sm30083486)，[bilibili](https://www.bilibili.com/video/av7186730/?from=search&amp;seid=7345818160155535955)  
+
+体验版PV2  
+
+[niconico](http://acg.tv/sm31459361)，[bilibili](https://www.bilibili.com/video/av11623482/?from=search&amp;seid=14242057899200185849)
+  
+
+## 下载
+  
+请注意：  
+ **所有的二次同人软件的下载地址均为站外资源，本站并不保证其来源的合法性以及资源的有效性和安全性**   
+
+  
+
+
+<table>
+
+<tbody><tr>
+<th>下载地址（站外资源）
+</th></tr>
+<tr>
+<td><a rel="nofollow" class="external text" href="https://pocskyscraper.jp/th_PMM/download/software/th_PMM_Val.zip">動作確認版 ver0.01f</a>
+</td></tr></tbody></table>
+
+
+## 词条导航
+  
+  
+
+<table><tbody><tr><td><table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;;;"><tbody><tr><th style=";" colspan="3" class="navbox-title"><div class="navbar"><div class="noprint plainlinksneverexpand" style="background-color:transparent; padding:0; font-weight:normal; font-size:80%; white-space:nowrap;"><a href="./東方雨仰石～Promised_mystery_of_moisture.-导航.md" title="東方雨仰石～Promised mystery of moisture./导航"><span style=";;border:none;" title="查看这个模板">查</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<a href="/index.php?title=%E6%9D%B1%E6%96%B9%E9%9B%A8%E4%BB%B0%E7%9F%B3%EF%BD%9EPromised_mystery_of_moisture./%E5%AF%BC%E8%88%AA&amp;action=edit"><span style=";;border:none;" title="您可以编辑这个模板。请在储存变更之前先预览">编</span></a></div></div><span><a href="./東方雨仰石～Promised_mystery_of_moisture..md" title="東方雨仰石～Promised mystery of moisture." unred="">東方雨仰石 ～ Promised mystery of moisture.</a></span></th></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="/index.php?title=%E4%B8%9C%E6%96%B9%E9%9B%A8%E4%BB%B0%E7%9F%B3/%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A&amp;action=edit&amp;redlink=1" class="new" title="东方雨仰石/角色设定（页面不存在）">角色</a></td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>自机</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="/index.php?title=%E4%B8%9C%E6%96%B9%E9%9B%A8%E4%BB%B0%E7%9F%B3/%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A&amp;action=edit&amp;redlink=1" class="new" title="东方雨仰石/角色设定（页面不存在）">博丽灵梦</a> &#8226; <a href="/index.php?title=%E4%B8%9C%E6%96%B9%E9%9B%A8%E4%BB%B0%E7%9F%B3/%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A&amp;action=edit&amp;redlink=1" class="new" title="东方雨仰石/角色设定（页面不存在）">雾雨魔理沙</a> &#8226; <a href="/index.php?title=%E4%B8%9C%E6%96%B9%E9%9B%A8%E4%BB%B0%E7%9F%B3/%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A&amp;action=edit&amp;redlink=1" class="new" title="东方雨仰石/角色设定（页面不存在）">少名针妙丸</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>BOSS</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./多多良小伞（雨仰石）.md" title="多多良小伞（雨仰石）">多多良小伞</a> &#8226; <a href="./雨满河.md" title="雨满河">雨满河</a> &#8226; <a href="./若鹭姬（雨仰石）.md" title="若鹭姬（雨仰石）">若鹭姬</a> &#8226; <a href="./白波瑞池.md" title="白波瑞池">白波瑞池</a></div></td></tr></tbody></table><div></div></td><td class="navbox-image" style="" rowspan="11"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E4%B8%9C%E6%96%B9%E9%9B%A8%E4%BB%B0%E7%9F%B3%E5%B0%81%E9%9D%A2.jpg" class="new" title="文件:东方雨仰石封面.jpg">文件:东方雨仰石封面.jpg</a></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="/index.php?title=%E4%B8%9C%E6%96%B9%E9%9B%A8%E4%BB%B0%E7%9F%B3/%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85&amp;action=edit&amp;redlink=1" class="new" title="东方雨仰石/设定与剧情（页面不存在）">剧情</a></td><td style=";;" class="navbox-list navbox-even"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>剧情文本</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./東方雨仰石～Promised_mystery_of_moisture.-设定与剧情.md" title="東方雨仰石～Promised mystery of moisture./设定与剧情" unred="">故事背景</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>游戏对话&amp;结局</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="/index.php?title=%E4%B8%9C%E6%96%B9%E9%9B%A8%E4%BB%B0%E7%9F%B3/%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6&amp;action=edit&amp;redlink=1" class="new" title="东方雨仰石/设定与剧情/博丽灵梦（页面不存在）">博丽灵梦</a> &#8226; <a href="/index.php?title=%E4%B8%9C%E6%96%B9%E9%9B%A8%E4%BB%B0%E7%9F%B3/%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85/%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99&amp;action=edit&amp;redlink=1" class="new" title="东方雨仰石/设定与剧情/雾雨魔理沙（页面不存在）">雾雨魔理沙</a> &#8226; <a href="/index.php?title=%E4%B8%9C%E6%96%B9%E9%9B%A8%E4%BB%B0%E7%9F%B3/%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85/%E5%B0%91%E5%90%8D%E9%92%88%E5%A6%99%E4%B8%B8&amp;action=edit&amp;redlink=1" class="new" title="东方雨仰石/设定与剧情/少名针妙丸（页面不存在）">少名针妙丸</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>EX游戏对话</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="/index.php?title=%E4%B8%9C%E6%96%B9%E9%9B%A8%E4%BB%B0%E7%9F%B3/%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6EX&amp;action=edit&amp;redlink=1" class="new" title="东方雨仰石/设定与剧情/博丽灵梦EX（页面不存在）">博丽灵梦</a> &#8226; <a href="/index.php?title=%E4%B8%9C%E6%96%B9%E9%9B%A8%E4%BB%B0%E7%9F%B3/%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85/%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99EX&amp;action=edit&amp;redlink=1" class="new" title="东方雨仰石/设定与剧情/雾雨魔理沙EX（页面不存在）">雾雨魔理沙</a> &#8226; <a href="/index.php?title=%E4%B8%9C%E6%96%B9%E9%9B%A8%E4%BB%B0%E7%9F%B3/%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85/%E5%B0%91%E5%90%8D%E9%92%88%E5%A6%99%E4%B8%B8EX&amp;action=edit&amp;redlink=1" class="new" title="东方雨仰石/设定与剧情/少名针妙丸EX（页面不存在）">少名针妙丸</a></div></td></tr></tbody></table><div></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">场景</td><td style=";;" class="navbox-list navbox-odd"><div><a href="/index.php?title=%E4%BA%BA%E7%B1%BB%E6%9D%91%E8%90%BD%E9%99%84%E8%BF%91%E7%9A%84%E6%B9%BF%E5%9C%B0&amp;action=edit&amp;redlink=1" class="new" title="人类村落附近的湿地（页面不存在）">人类村落附近的湿地</a> &#8226; <a href="/index.php?title=%E9%9B%A8%E4%B9%8B%E6%BA%90%E6%B3%89&amp;action=edit&amp;redlink=1" class="new" title="雨之源泉（页面不存在）">雨之源泉</a> &#8226; <a href="./雾之湖.md" title="雾之湖">被淹没的原野</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">音乐</td><td style=";;" class="navbox-list navbox-even"><div><a href="/index.php?title=%E4%B8%9C%E6%96%B9%E9%9B%A8%E4%BB%B0%E7%9F%B3/%E9%9F%B3%E4%B9%90&amp;action=edit&amp;redlink=1" class="new" title="东方雨仰石/音乐（页面不存在）">Music Room</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="/index.php?title=%E4%B8%9C%E6%96%B9%E9%9B%A8%E4%BB%B0%E7%9F%B3/%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85&amp;action=edit&amp;redlink=1" class="new" title="东方雨仰石/设定与剧情（页面不存在）" unred="">附带文档</a></td><td style=";;" class="navbox-list navbox-odd"><div><a href="/index.php?title=%E4%B8%9C%E6%96%B9%E9%9B%A8%E4%BB%B0%E7%9F%B3/%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85/readme&amp;action=edit&amp;redlink=1" class="new" title="东方雨仰石/设定与剧情/readme（页面不存在）">Readme</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="/index.php?title=%E4%B8%9C%E6%96%B9%E9%9B%A8%E4%BB%B0%E7%9F%B3/%E7%B3%BB%E7%BB%9F&amp;action=edit&amp;redlink=1" class="new" title="东方雨仰石/系统（页面不存在）">系统</a></td><td style=";;" class="navbox-list navbox-even"><div><a href="/index.php?title=%E4%B8%9C%E6%96%B9%E9%9B%A8%E4%BB%B0%E7%9F%B3/%E7%B3%BB%E7%BB%9F&amp;action=edit&amp;redlink=1" class="new" title="东方雨仰石/系统（页面不存在）">系统</a> &#8226; <a href="/index.php?title=%E4%B8%9C%E6%96%B9%E9%9B%A8%E4%BB%B0%E7%9F%B3/%E5%85%B6%E4%BB%96&amp;action=edit&amp;redlink=1" class="new" title="东方雨仰石/其他（页面不存在）">其他资料</a></div></td></tr></tbody></table></td></tr></tbody></table>
+
+
+  
+  
+
+  
+
+
+
+
+
+---
+
+此文档由 [THBWiki-Markdown-Builder](https://github.com/Delsin-Yu/THBWiki-Markdown-Builder) 构建。
+
+文档中的所有内容除特殊注明外，均在 [**知识共享(Creative Commons) 署名-非商业性使用-相同方式共享 3.0 协议**](https://creativecommons.org/licenses/by-sa/3.0/deed.zh-hans) 下提供，附加条款亦可能应用。
+
+引用类型与其他类型作品版权归原作者所有，如有作者授权则遵照授权协议使用。
+
+详细请查阅 [THBWiki：免责声明](https://thbwiki.cc/THBWiki:%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E)。
+

@@ -1,0 +1,34 @@
+# 草の根vs妖精の塔～危険な遊戯は死の香り～
+
+<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\63\ns0%3A%E8%8D%89%E3%81%AE%E6%A0%B9vs%E5%A6%96%E7%B2%BE%E3%81%AE%E5%A1%94%EF%BD%9E%E5%8D%B1%E9%99%BA%E3%81%AA%E9%81%8A%E6%88%AF%E3%81%AF%E6%AD%BB%E3%81%AE%E9%A6%99%E3%82%8A%EF%BD%9E.html -->
+
+2019年2月10日 由 ふたつまみ 于 东方辉针祭2 发布的漫画同人志，A5尺寸一共21页，分级为 一般向
+
+本页是关于东方Project  
+ **二次创作同人志 (未找到链接)** 的词条
+## 作品信息
+
+<table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-草の根vs妖精の塔～危険な遊戯は死の香り～封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/f/f4/%E8%8D%89%E3%81%AE%E6%A0%B9vs%E5%A6%96%E7%B2%BE%E3%81%AE%E5%A1%94%EF%BD%9E%E5%8D%B1%E9%99%BA%E3%81%AA%E9%81%8A%E6%88%AF%E3%81%AF%E6%AD%BB%E3%81%AE%E9%A6%99%E3%82%8A%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg/123px-%E8%8D%89%E3%81%AE%E6%A0%B9vs%E5%A6%96%E7%B2%BE%E3%81%AE%E5%A1%94%EF%BD%9E%E5%8D%B1%E9%99%BA%E3%81%AA%E9%81%8A%E6%88%AF%E3%81%AF%E6%AD%BB%E3%81%AE%E9%A6%99%E3%82%8A%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="123" height="168" srcset="https://upload.thwiki.cc/thumb/f/f4/%E8%8D%89%E3%81%AE%E6%A0%B9vs%E5%A6%96%E7%B2%BE%E3%81%AE%E5%A1%94%EF%BD%9E%E5%8D%B1%E9%99%BA%E3%81%AA%E9%81%8A%E6%88%AF%E3%81%AF%E6%AD%BB%E3%81%AE%E9%A6%99%E3%82%8A%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg/185px-%E8%8D%89%E3%81%AE%E6%A0%B9vs%E5%A6%96%E7%B2%BE%E3%81%AE%E5%A1%94%EF%BD%9E%E5%8D%B1%E9%99%BA%E3%81%AA%E9%81%8A%E6%88%AF%E3%81%AF%E6%AD%BB%E3%81%AE%E9%A6%99%E3%82%8A%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/f/f4/%E8%8D%89%E3%81%AE%E6%A0%B9vs%E5%A6%96%E7%B2%BE%E3%81%AE%E5%A1%94%EF%BD%9E%E5%8D%B1%E9%99%BA%E3%81%AA%E9%81%8A%E6%88%AF%E3%81%AF%E6%AD%BB%E3%81%AE%E9%A6%99%E3%82%8A%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg/247px-%E8%8D%89%E3%81%AE%E6%A0%B9vs%E5%A6%96%E7%B2%BE%E3%81%AE%E5%A1%94%EF%BD%9E%E5%8D%B1%E9%99%BA%E3%81%AA%E9%81%8A%E6%88%AF%E3%81%AF%E6%AD%BB%E3%81%AE%E9%A6%99%E3%82%8A%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="531" data-file-height="723"></a><div class="cover-char">角色：<a href="./若鹭姬.md" title="若鹭姬">若鹭姬</a>，<a href="./赤蛮奇.md" title="赤蛮奇">赤蛮奇</a>，<a href="./今泉影狼.md" title="今泉影狼">今泉影狼</a></div></td>
+</tr><tr><td class="label">名称</td><td colspan="2"> 草の根vs妖精の塔～危険な遊戯は死の香り～ </td></tr><tr><td class="label">制作方</td><td><a href="./ふたつまみ.md" title="ふたつまみ">ふたつまみ</a></td><td class="cover-artwork" rowspan="6" style="min-width:168px;"><a href="./文件-草の根vs妖精の塔～危険な遊戯は死の香り～封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/f/f4/%E8%8D%89%E3%81%AE%E6%A0%B9vs%E5%A6%96%E7%B2%BE%E3%81%AE%E5%A1%94%EF%BD%9E%E5%8D%B1%E9%99%BA%E3%81%AA%E9%81%8A%E6%88%AF%E3%81%AF%E6%AD%BB%E3%81%AE%E9%A6%99%E3%82%8A%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg/123px-%E8%8D%89%E3%81%AE%E6%A0%B9vs%E5%A6%96%E7%B2%BE%E3%81%AE%E5%A1%94%EF%BD%9E%E5%8D%B1%E9%99%BA%E3%81%AA%E9%81%8A%E6%88%AF%E3%81%AF%E6%AD%BB%E3%81%AE%E9%A6%99%E3%82%8A%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="123" height="168" srcset="https://upload.thwiki.cc/thumb/f/f4/%E8%8D%89%E3%81%AE%E6%A0%B9vs%E5%A6%96%E7%B2%BE%E3%81%AE%E5%A1%94%EF%BD%9E%E5%8D%B1%E9%99%BA%E3%81%AA%E9%81%8A%E6%88%AF%E3%81%AF%E6%AD%BB%E3%81%AE%E9%A6%99%E3%82%8A%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg/185px-%E8%8D%89%E3%81%AE%E6%A0%B9vs%E5%A6%96%E7%B2%BE%E3%81%AE%E5%A1%94%EF%BD%9E%E5%8D%B1%E9%99%BA%E3%81%AA%E9%81%8A%E6%88%AF%E3%81%AF%E6%AD%BB%E3%81%AE%E9%A6%99%E3%82%8A%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/f/f4/%E8%8D%89%E3%81%AE%E6%A0%B9vs%E5%A6%96%E7%B2%BE%E3%81%AE%E5%A1%94%EF%BD%9E%E5%8D%B1%E9%99%BA%E3%81%AA%E9%81%8A%E6%88%AF%E3%81%AF%E6%AD%BB%E3%81%AE%E9%A6%99%E3%82%8A%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg/247px-%E8%8D%89%E3%81%AE%E6%A0%B9vs%E5%A6%96%E7%B2%BE%E3%81%AE%E5%A1%94%EF%BD%9E%E5%8D%B1%E9%99%BA%E3%81%AA%E9%81%8A%E6%88%AF%E3%81%AF%E6%AD%BB%E3%81%AE%E9%A6%99%E3%82%8A%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="531" data-file-height="723"></a><div class="cover-char">角色：<a href="./若鹭姬.md" title="若鹭姬">若鹭姬</a>，<a href="./赤蛮奇.md" title="赤蛮奇">赤蛮奇</a>，<a href="./今泉影狼.md" title="今泉影狼">今泉影狼</a></div></td>
+</tr><tr><td class="label">首发日期</td><td>2019-02-10&#160;（<a href="/展会作品列表?e=%E4%B8%9C%E6%96%B9%E8%BE%89%E9%92%88%E7%A5%AD%232">東方輝針祭2</a>）</td></tr><tr><td class="label">类型</td><td>漫画</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>A5</td></tr><tr><td class="label">页数</td><td>21P</td></tr>
+<tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/73056226">https://www.pixiv.net/artworks/73056226</a></td></tr></tbody></table>
+
+草の根vs妖精の塔～危険な遊戯は死の香り～（同人志，ふたつまみ，2019） - 2019年2月10日 由 ふたつまみ 于 东方辉针祭2 发布的漫画同人志，A5尺寸一共21页，分级为 一般向
+## Staff
+: しお (未找到链接)
+
+## 评论
+
+
+
+
+---
+
+此文档由 [THBWiki-Markdown-Builder](https://github.com/Delsin-Yu/THBWiki-Markdown-Builder) 构建。
+
+文档中的所有内容除特殊注明外，均在 [**知识共享(Creative Commons) 署名-非商业性使用-相同方式共享 3.0 协议**](https://creativecommons.org/licenses/by-sa/3.0/deed.zh-hans) 下提供，附加条款亦可能应用。
+
+引用类型与其他类型作品版权归原作者所有，如有作者授权则遵照授权协议使用。
+
+详细请查阅 [THBWiki：免责声明](https://thbwiki.cc/THBWiki:%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E)。
+

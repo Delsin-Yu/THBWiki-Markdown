@@ -1,0 +1,139 @@
+# 未知物Ｘ_～_Unfound_Adventure
+
+<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\6b\ns0%3A%E6%9C%AA%E7%9F%A5%E7%89%A9%EF%BC%B8_%EF%BD%9E_Unfound_Adventure.html -->
+
+由 ZUN 创作的官方曲目，原名 アンノウンＸ　～ Unfound Adventure
+
+本页是关于东方Project  
+ **原作音乐** 的词条
+## 目录
+
+- [1 基本信息](#基本信息)
+- [2 出现作品](#出现作品)
+- [3 音乐文件](#音乐文件)
+
+  - [3.1 核热造神非想天则](#核热造神非想天则)
+  - [3.2 伊奘诺物质](#伊奘诺物质)
+  - [3.3 深秘乐曲集·补](#深秘乐曲集·补)
+
+
+
+- [4 说明文本](#说明文本)
+
+  - [4.1 核热造神非想天则](#核热造神非想天则_2)
+
+
+
+- [5 其他资料](#其他资料)
+
+  - [5.1 乐理资讯](#乐理资讯)
+  - [5.2 分析考据](#分析考据)
+  - [5.3 二次同人数据](#二次同人数据)
+
+
+
+
+
+
+
+## 基本信息
+
+<table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">アンノウンＸ　～ Unfound Adventure</td></tr><tr><td><b>译名</b></td><td>未知物Ｘ ～ Unfound Adventure</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
+
+未知物Ｘ ～ Unfound Adventure（曲目） - 由 ZUN 创作的官方曲目，原名 アンノウンＸ　～ Unfound Adventure
+## 出现作品
+
+<table>
+<tbody><tr><td>2009年8月15日（Comic Market 76）</td><td><b><a href="./东方非想天则.md" title="东方非想天则">东方非想天则</a>正式版</b></td><td>最终BOSS的主题曲</td><td style="padding-left:5px;">アンノウンＸ　～ Unfound Adventure（未知物Ｘ ～ Unfound Adventure）</td><td style="padding-left:10px;">作曲：ZUN</td></tr>
+<tr><td>2009年12月31日（Comic Market 77）</td><td><b><a href="./核热造神非想天则.md" title="核热造神非想天则">核热造神非想天则</a></b></td><td>第8轨</td><td style="padding-left:5px;">アンノウンＸ　～ Unfound Adventure（未知物Ｘ　～ Unfound Adventure）</td><td style="padding-left:10px;">作曲：ZUN</td></tr>
+<tr><td>2009年12月31日（Comic Market 77）</td><td><b><a href="./核热造神非想天则.md" title="核热造神非想天则">核热造神非想天则</a></b></td><td>第18轨</td><td style="padding-left:5px;">アンノウンＸ　～ Unfound Adventure（未知物Ｘ　～ Unfound Adventure）</td><td style="padding-left:10px;">编曲：あきやまうに</td></tr>
+<tr><td>2012年8月11日（Comic Market 82）</td><td><b><a href="./伊奘诺物质.md" title="伊奘诺物质">伊奘诺物质</a></b></td><td>第8轨</td><td style="padding-left:5px;">アンノウンＸ　～ Unfound Adventure（未知物Ｘ　～ Unfound Adventure）</td><td style="padding-left:10px;">编曲：ZUN</td></tr>
+<tr><td>2016年12月8日（非展会）</td><td><b><a href="./东方深秘录.md" title="东方深秘录">东方深秘录</a>PS4版</b></td><td>Extra故事模式战斗曲</td><td style="padding-left:5px;">アンノウンＸ　～ Occultly Madness（未知物Ｘ　～ Occultly Madness）</td><td style="padding-left:10px;">编曲：ZUN</td></tr>
+<tr><td>2016年12月8日（非展会）</td><td><b><a href="/%E6%B7%B1%E7%A7%98%E4%B9%90%E6%9B%B2%E9%9B%86%C2%B7%E8%A1%A5" class="mw-redirect" title="深秘乐曲集·补">深秘乐曲集·补</a></b></td><td>EXTRA DISC 第6轨</td><td style="padding-left:5px;">アンノウンＸ　～ Occultly Madness（未知物Ｘ　～ Occultly Madness）</td><td style="padding-left:10px;">编曲：ZUN</td></tr>
+<tr><td>2017年12月29日（Comic Market 93）</td><td><b><a href="./东方凭依华.md" title="东方凭依华">东方凭依华</a>正式版</b></td><td>故事模式战斗曲</td><td style="padding-left:5px;">アンノウンX　～ Occultly Madness（未知物X　～ Occultly Madness）</td><td style="padding-left:10px;">编曲：ZUN</td></tr>
+</tbody></table>
+
+
+## 音乐文件
+### 核热造神非想天则
+
+<table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-TFM-004_08.mp3.md" title="文件:TFM-004 08.mp3">TFM-004_08.mp3</a><br><audio src="https://upload.thwiki.cc/b/bb/TFM-004_08.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track08.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>5:20</td></tr></tbody></table>
+
+	
+
+<table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-TFM-004_18.mp3.md" title="文件:TFM-004 18.mp3">TFM-004_18.mp3</a><br><audio src="https://upload.thwiki.cc/8/82/TFM-004_18.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track18.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>4:00</td></tr></tbody></table>
+
+
+### 伊奘诺物质
+
+<table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-hr08_08.mp3.md" title="文件:hr08 08.mp3">hr08_08.mp3</a><br><audio src="https://upload.thwiki.cc/f/fe/hr08_08.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track08.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>5:18</td></tr></tbody></table>
+
+
+### 深秘乐曲集·补
+
+<table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-TFM-008_06.mp3.md" title="文件:TFM-008 06.mp3">TFM-008_06.mp3</a><br><audio src="https://upload.thwiki.cc/1/1f/TFM-008_06.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track06.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>5:41</td></tr></tbody></table>
+
+
+## 说明文本
+### 核热造神非想天则
+- あきやまうに的文本 (未找到链接)
+
+·未知物Ｘ　～ Unfound Adventure  
+  
+用了不太熟悉的作曲风格创作了一下。其实参考了一个曲子但是暂且保密。
+## 其他资料
+### 乐理资讯
+### 分析考据
+  
+ **アンノウンＸ　～ Unfound Adventure**  未知物Ｘ　～ Unfound Adventure
+  
+
+- アンノウンＸ
+  - unknown X,未知物X。
+    - 早苗和琪露诺寻找的巨大人偶物体。
+      - 非想天则和爱丽丝的巨大化人偶。
+
+    - 梅莉从梦中带回来的未知的人工物。
+
+
+- Unfound Adventure
+  - 未知的旅程。
+    - 探索未知之物的旅程。
+
+
+
+### 二次同人数据
+
+<table><tbody><tr><th colspan="2">统计</th></tr>
+<tr><td>名称</td><td>未知物Ｘ ～ Unfound Adventure</td></tr>
+<tr><td>别名</td><td>アンノウンＸ ～ Unfound Adventure<br>未知物X ～ Unfound Adventure<br>未知物Ｘ<br>未知物X<br>未知物Ｘ ～ Occultly Madness<br>アンノウンＸ ～ Occultly Madness<br>アンノウンＸ</td></tr>
+<tr><td>首发作品</td><td>东方非想天则</td></tr>
+<tr><td>首发日期</td><td>2009-08-15</td></tr>
+<tr><td>总数</td><td>139</td></tr>
+<tr><td>Vocal</td><td>22</td></tr>
+<tr><td>Arrange</td><td>117</td></tr>
+<tr><td>Vocal率</td><td>15.83%</td></tr>
+</tbody></table>
+
+
+
+
+  
+  
+
+  
+
+
+
+
+
+---
+
+此文档由 [THBWiki-Markdown-Builder](https://github.com/Delsin-Yu/THBWiki-Markdown-Builder) 构建。
+
+文档中的所有内容除特殊注明外，均在 [**知识共享(Creative Commons) 署名-非商业性使用-相同方式共享 3.0 协议**](https://creativecommons.org/licenses/by-sa/3.0/deed.zh-hans) 下提供，附加条款亦可能应用。
+
+引用类型与其他类型作品版权归原作者所有，如有作者授权则遵照授权协议使用。
+
+详细请查阅 [THBWiki：免责声明](https://thbwiki.cc/THBWiki:%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E)。
+

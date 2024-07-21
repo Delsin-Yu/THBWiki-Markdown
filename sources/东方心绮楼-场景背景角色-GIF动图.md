@@ -1,0 +1,816 @@
+# 东方心绮楼/场景背景角色/GIF动图
+
+<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\2d\ns0%3A%E4%B8%9C%E6%96%B9%E5%BF%83%E7%BB%AE%E6%A5%BC%2F%E5%9C%BA%E6%99%AF%E8%83%8C%E6%99%AF%E8%A7%92%E8%89%B2%2FGIF%E5%8A%A8%E5%9B%BE.html -->
+
+东方心绮楼 | 官方游戏像素绘 | 待完成页面
+
+<center>
+
+<table>
+<tbody><tr>
+<td class="mbox-image"><div style="width: 52px;">
+  <a href="./文件-ConstructionClock.png.md" class="image"><img alt="ConstructionClock.png" src="https://upload.thwiki.cc/thumb/f/f1/ConstructionClock.png/50px-ConstructionClock.png" decoding="async" loading="lazy" width="50" height="43" srcset="https://upload.thwiki.cc/thumb/f/f1/ConstructionClock.png/75px-ConstructionClock.png 1.5x, https://upload.thwiki.cc/thumb/f/f1/ConstructionClock.png/100px-ConstructionClock.png 2x" data-file-width="689" data-file-height="587"></a></div></td>
+<td class="mbox-text" style=""><br>本页面词条尚未完工。<br><br></td>
+</tr>
+</tbody></table>
+
+
+</center>
+- 为方便社交分享，老旧设备查看等，本页面动态图使用 GIF 格式。
+  - 为获得更好的观看效果以及方便提取逐帧图，推荐查看 APNG 格式的动态图。
+
+- 由于GIF格式不支持透明通道，图片边缘阴影、色彩等一些细节将会损失。
+- 拥有翅膀等特殊部件的角色留待以后更新像素绘：露娜切露德（翅膀）、桑尼米尔克（翅膀）、斯塔萨菲雅（翅膀）、琪露诺（翅膀）、妖梦（半灵）、梅露兰·普莉兹姆利巴（小号）、露娜萨·普莉兹姆利巴（小提琴）
+
+## 目录
+
+- [1 博丽神社](#博丽神社)
+
+  - [1.1 角色](#角色)
+  - [1.2 妖精女仆](#妖精女仆)
+
+
+
+- [2 人类村落](#人类村落)
+
+  - [2.1 角色](#角色_2)
+  - [2.2 村民](#村民)
+
+
+
+- [3 云上的宝船](#云上的宝船)
+- [4 命莲寺](#命莲寺)
+
+  - [4.1 角色](#角色_3)
+  - [4.2 村民](#村民_2)
+
+
+
+- [5 梦殿大祀庙](#梦殿大祀庙)
+- [6 神灵庙](#神灵庙)
+- [7 玄武涧](#玄武涧)
+
+  - [7.1 角色](#角色_4)
+  - [7.2 河童](#河童)
+
+
+
+- [8 地灵殿](#地灵殿)
+
+  - [8.1 角色](#角色_5)
+  - [8.2 动物](#动物)
+  - [8.3 其他](#其他)
+
+
+
+- [9 妖怪狸森林](#妖怪狸森林)
+- [10 妖怪狸森林（夜）](#妖怪狸森林（夜）)
+- [11 人类村落（夜）](#人类村落（夜）)
+- [12 注释](#注释)
+
+
+
+
+## [博丽神社](./博丽神社.md)
+[](./文件-博丽神社（心绮楼场景）有人物.png.md)  [](./文件-博丽神社（心绮楼场景）有人物.png.md)博丽神社
+
+### 角色
+
+<table>
+  <tbody><tr>
+    <th>角色（9个）</th>
+    <th><a href="./帕秋莉·诺蕾姬.md" title="帕秋莉·诺蕾姬">帕秋莉·诺蕾姬</a></th>
+    <th><a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a></th>
+    <th><a href="/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C" title="十六夜咲夜">十六夜咲夜</a></th>
+    <th><a href="./八云紫.md" title="八云紫">八云紫</a></th>
+    <th><a href="./八云蓝.md" title="八云蓝">八云蓝</a></th>
+    <th><a href="./橙.md" title="橙">橙</a></th>
+    <th><a href="./露娜切露德.md" title="露娜切露德">露娜切露德</a></th>
+    <th><a href="./桑尼米尔克.md" title="桑尼米尔克">桑尼米尔克</a></th>
+    <th><a href="./斯塔萨菲雅.md" title="斯塔萨菲雅">斯塔萨菲雅</a></th>
+  </tr>
+  <tr>
+    <th>像素绘</th>
+    <td><a href="./文件-帕秋莉·诺蕾姬（心绮楼背景像素绘）.png.md" class="image"><img alt="帕秋莉·诺蕾姬（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/c/ce/%E5%B8%95%E7%A7%8B%E8%8E%89%C2%B7%E8%AF%BA%E8%95%BE%E5%A7%AC%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="55" height="90" data-file-width="55" data-file-height="90"></a></td>
+    <td><a href="./文件-蕾米莉亚·斯卡蕾特（心绮楼背景像素绘）.png.md" class="image"><img alt="蕾米莉亚·斯卡蕾特（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/3/3a/%E8%95%BE%E7%B1%B3%E8%8E%89%E4%BA%9A%C2%B7%E6%96%AF%E5%8D%A1%E8%95%BE%E7%89%B9%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="60" height="91" data-file-width="60" data-file-height="91"></a></td>
+    <td><a href="./文件-十六夜咲夜（心绮楼背景像素绘）.png.md" class="image"><img alt="十六夜咲夜（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/f/f3/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="55" height="132" data-file-width="55" data-file-height="132"></a></td>
+    <td><a href="./文件-八云紫（心绮楼背景像素绘）.png.md" class="image"><img alt="八云紫（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/0/09/%E5%85%AB%E4%BA%91%E7%B4%AB%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="60" height="73" data-file-width="60" data-file-height="73"></a></td>
+    <td><a href="./文件-八云蓝（心绮楼背景像素绘）.png.md" class="image"><img alt="八云蓝（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/4/45/%E5%85%AB%E4%BA%91%E8%93%9D%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="91" height="141" data-file-width="91" data-file-height="141"></a></td>
+    <td><a href="./文件-橙（心绮楼背景像素绘）.png.md" class="image"><img alt="橙（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/6/66/%E6%A9%99%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="68" height="112" data-file-width="68" data-file-height="112"></a></td>
+    <td><a href="./文件-露娜切露德（心绮楼背景像素绘）.png.md" class="image"><img alt="露娜切露德（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/c/cb/%E9%9C%B2%E5%A8%9C%E5%88%87%E9%9C%B2%E5%BE%B7%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="90" data-file-width="50" data-file-height="90"></a></td>
+    <td><a href="./文件-桑尼米尔克（心绮楼背景像素绘）.png.md" class="image"><img alt="桑尼米尔克（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/9/9f/%E6%A1%91%E5%B0%BC%E7%B1%B3%E5%B0%94%E5%85%8B%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="49" height="92" data-file-width="49" data-file-height="92"></a></td>
+    <td><a href="./文件-斯塔萨菲雅（心绮楼背景像素绘）.png.md" class="image"><img alt="斯塔萨菲雅（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/8/8b/%E6%96%AF%E5%A1%94%E8%90%A8%E8%8F%B2%E9%9B%85%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="46" height="89" data-file-width="46" data-file-height="89"></a></td>
+  </tr>
+  <tr>
+    <th>像素绘（动态）</th>
+    <td><a href="./文件-帕秋莉·诺蕾姬（心绮楼背景像素绘）.gif.md" class="image"><img alt="帕秋莉·诺蕾姬（心绮楼背景像素绘）.gif" src="https://upload.thwiki.cc/7/73/%E5%B8%95%E7%A7%8B%E8%8E%89%C2%B7%E8%AF%BA%E8%95%BE%E5%A7%AC%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.gif" decoding="async" loading="lazy" width="55" height="90" data-file-width="55" data-file-height="90"></a></td>
+    <td><a href="./文件-蕾米莉亚·斯卡蕾特（心绮楼背景像素绘）.gif.md" class="image"><img alt="蕾米莉亚·斯卡蕾特（心绮楼背景像素绘）.gif" src="https://upload.thwiki.cc/8/86/%E8%95%BE%E7%B1%B3%E8%8E%89%E4%BA%9A%C2%B7%E6%96%AF%E5%8D%A1%E8%95%BE%E7%89%B9%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.gif" decoding="async" loading="lazy" width="60" height="91" data-file-width="60" data-file-height="91"></a></td>
+    <td><a href="./文件-十六夜咲夜（心绮楼背景像素绘）.gif.md" class="image"><img alt="十六夜咲夜（心绮楼背景像素绘）.gif" src="https://upload.thwiki.cc/c/ce/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.gif" decoding="async" loading="lazy" width="55" height="132" data-file-width="55" data-file-height="132"></a></td>
+    <td><a href="./文件-八云紫（心绮楼背景像素绘）.gif.md" class="image"><img alt="八云紫（心绮楼背景像素绘）.gif" src="https://upload.thwiki.cc/7/72/%E5%85%AB%E4%BA%91%E7%B4%AB%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.gif" decoding="async" loading="lazy" width="60" height="73" data-file-width="60" data-file-height="73"></a></td>
+    <td><a href="./文件-八云蓝（心绮楼背景像素绘）.gif.md" class="image"><img alt="八云蓝（心绮楼背景像素绘）.gif" src="https://upload.thwiki.cc/1/12/%E5%85%AB%E4%BA%91%E8%93%9D%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.gif" decoding="async" loading="lazy" width="91" height="141" data-file-width="91" data-file-height="141"></a></td>
+    <td><a href="./文件-橙（心绮楼背景像素绘）.gif.md" class="image"><img alt="橙（心绮楼背景像素绘）.gif" src="https://upload.thwiki.cc/d/db/%E6%A9%99%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.gif" decoding="async" loading="lazy" width="68" height="112" data-file-width="68" data-file-height="112"></a></td>
+    <td><a href="./文件-露娜切露德（心绮楼背景像素绘）.gif.md" class="image"><img alt="露娜切露德（心绮楼背景像素绘）.gif" src="https://upload.thwiki.cc/a/af/%E9%9C%B2%E5%A8%9C%E5%88%87%E9%9C%B2%E5%BE%B7%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.gif" decoding="async" loading="lazy" width="50" height="90" data-file-width="50" data-file-height="90"></a></td>
+    <td><a href="./文件-桑尼米尔克（心绮楼背景像素绘）.gif.md" class="image"><img alt="桑尼米尔克（心绮楼背景像素绘）.gif" src="https://upload.thwiki.cc/0/09/%E6%A1%91%E5%B0%BC%E7%B1%B3%E5%B0%94%E5%85%8B%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.gif" decoding="async" loading="lazy" width="49" height="92" data-file-width="49" data-file-height="92"></a></td>
+    <td><a href="./文件-斯塔萨菲雅（心绮楼背景像素绘）.gif.md" class="image"><img alt="斯塔萨菲雅（心绮楼背景像素绘）.gif" src="https://upload.thwiki.cc/1/1b/%E6%96%AF%E5%A1%94%E8%90%A8%E8%8F%B2%E9%9B%85%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.gif" decoding="async" loading="lazy" width="46" height="89" data-file-width="46" data-file-height="89"></a></td>
+  </tr>
+</tbody></table>
+
+
+### 妖精女仆
+
+<table>
+  <tbody><tr>
+    <th colspan="3">妖精女仆（2种）</th>
+  </tr>
+  <tr>
+    <th rowspan="2">像素绘</th>
+    <th>妖精女仆A<sup id="cite_ref-yousei_1-0" class="reference"><a href="#cite_note-yousei-1">1</a></sup></th>
+    <th>妖精女仆B<sup id="cite_ref-yousei_1-1" class="reference"><a href="#cite_note-yousei-1">1</a></sup></th>
+  </tr>
+  <tr>
+    <td><a href="./文件-妖精女仆A（心绮楼背景像素绘）.png.md" class="image"><img alt="妖精女仆A（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/7/75/%E5%A6%96%E7%B2%BE%E5%A5%B3%E4%BB%86A%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="75" height="88" data-file-width="75" data-file-height="88"></a></td>
+    <td><a href="./文件-妖精女仆B（心绮楼背景像素绘）.png.md" class="image"><img alt="妖精女仆B（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/f/f4/%E5%A6%96%E7%B2%BE%E5%A5%B3%E4%BB%86B%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="101" height="121" data-file-width="101" data-file-height="121"></a></td>
+  </tr>
+</tbody></table>
+
+
+## [人类村落](./人类村落.md)
+[](./文件-人类村落（心绮楼场景）有人物.png.md)  [](./文件-人类村落（心绮楼场景）有人物.png.md)人类村落
+
+### 角色
+
+<table>
+  <tbody><tr>
+    <th>角色（11个）</th>
+    <th><a href="./本居小铃.md" title="本居小铃">本居小铃</a></th>
+    <th><a href="./森近霖之助.md" title="森近霖之助">森近霖之助</a></th>
+    <th><a href="/%E5%9B%A0%E5%B9%A1%E5%A4%A9%E4%B8%BA" class="mw-redirect" title="因幡天为">因幡天为</a></th>
+    <th><a href="./八意永琳.md" title="八意永琳">八意永琳</a></th>
+    <th><a href="./蓬莱山辉夜.md" title="蓬莱山辉夜">蓬莱山辉夜</a></th>
+    <th><a href="./铃仙·优昙华院·因幡.md" title="铃仙·优昙华院·因幡">铃仙·优昙华院·因幡</a></th>
+    <th><a href="./星熊勇仪.md" title="星熊勇仪">星熊勇仪</a></th>
+    <th><a href="./伊吹萃香.md" title="伊吹萃香">伊吹萃香</a></th>
+    <th><a href="./藤原妹红.md" title="藤原妹红">藤原妹红</a></th>
+    <th><a href="./上白泽慧音.md" title="上白泽慧音">上白泽慧音</a></th>
+    <th><a href="./爱丽丝·玛格特洛依德.md" title="爱丽丝·玛格特洛依德">爱丽丝·玛格特洛依德</a></th>
+  </tr>
+  <tr>
+    <th>像素绘</th>
+    <td><a href="./文件-本居小铃（心绮楼背景像素绘）.png.md" class="image"><img alt="本居小铃（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/1/16/%E6%9C%AC%E5%B1%85%E5%B0%8F%E9%93%83%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="93" height="94" data-file-width="93" data-file-height="94"></a></td>
+    <td><a href="./文件-森近霖之助（心绮楼背景像素绘）.png.md" class="image"><img alt="森近霖之助（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/a/ab/%E6%A3%AE%E8%BF%91%E9%9C%96%E4%B9%8B%E5%8A%A9%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="46" height="109" data-file-width="46" data-file-height="109"></a></td>
+    <td><a href="./文件-因幡天为（心绮楼背景像素绘）.png.md" class="image"><img alt="因幡天为（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/0/04/%E5%9B%A0%E5%B9%A1%E5%A4%A9%E4%B8%BA%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="52" height="86" data-file-width="52" data-file-height="86"></a></td>
+    <td><a href="./文件-八意永琳（心绮楼背景像素绘）.png.md" class="image"><img alt="八意永琳（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/2/24/%E5%85%AB%E6%84%8F%E6%B0%B8%E7%90%B3%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="54" height="113" data-file-width="54" data-file-height="113"></a></td>
+    <td><a href="./文件-蓬莱山辉夜（心绮楼背景像素绘）.png.md" class="image"><img alt="蓬莱山辉夜（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/b/b2/%E8%93%AC%E8%8E%B1%E5%B1%B1%E8%BE%89%E5%A4%9C%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="95" data-file-width="50" data-file-height="95"></a></td>
+    <td><a href="./文件-铃仙·优昙华院·因幡（心绮楼背景像素绘）.png.md" class="image"><img alt="铃仙·优昙华院·因幡（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/0/05/%E9%93%83%E4%BB%99%C2%B7%E4%BC%98%E6%98%99%E5%8D%8E%E9%99%A2%C2%B7%E5%9B%A0%E5%B9%A1%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="65" height="93" data-file-width="65" data-file-height="93"></a></td>
+    <td><a href="./文件-星熊勇仪（心绮楼背景像素绘）.png.md" class="image"><img alt="星熊勇仪（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/4/4e/%E6%98%9F%E7%86%8A%E5%8B%87%E4%BB%AA%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="73" height="61" data-file-width="73" data-file-height="61"></a></td>
+    <td><a href="./文件-伊吹萃香（心绮楼背景像素绘）.png.md" class="image"><img alt="伊吹萃香（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/6/6e/%E4%BC%8A%E5%90%B9%E8%90%83%E9%A6%99%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="71" height="55" data-file-width="71" data-file-height="55"></a></td>
+    <td><a href="./文件-藤原妹红（心绮楼背景像素绘）.png.md" class="image"><img alt="藤原妹红（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/d/dd/%E8%97%A4%E5%8E%9F%E5%A6%B9%E7%BA%A2%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="81" height="106" data-file-width="81" data-file-height="106"></a></td>
+    <td><a href="./文件-上白泽慧音（心绮楼背景像素绘）.png.md" class="image"><img alt="上白泽慧音（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/3/3b/%E4%B8%8A%E7%99%BD%E6%B3%BD%E6%85%A7%E9%9F%B3%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="60" height="114" data-file-width="60" data-file-height="114"></a></td>
+    <td><a href="./文件-爱丽丝·玛格特洛依德（心绮楼背景像素绘）.png.md" class="image"><img alt="爱丽丝·玛格特洛依德（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/a/a6/%E7%88%B1%E4%B8%BD%E4%B8%9D%C2%B7%E7%8E%9B%E6%A0%BC%E7%89%B9%E6%B4%9B%E4%BE%9D%E5%BE%B7%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="65" height="107" data-file-width="65" data-file-height="107"></a></td>
+  </tr>
+  <tr>
+    <th>像素绘（动态）</th>
+    <td>无</td>
+    <td><a href="./文件-森近霖之助（心绮楼背景像素绘）.gif.md" class="image"><img alt="森近霖之助（心绮楼背景像素绘）.gif" src="https://upload.thwiki.cc/3/30/%E6%A3%AE%E8%BF%91%E9%9C%96%E4%B9%8B%E5%8A%A9%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.gif" decoding="async" loading="lazy" width="46" height="109" data-file-width="46" data-file-height="109"></a></td>
+    <td><a href="./文件-因幡天为（心绮楼背景像素绘）.gif.md" class="image"><img alt="因幡天为（心绮楼背景像素绘）.gif" src="https://upload.thwiki.cc/2/23/%E5%9B%A0%E5%B9%A1%E5%A4%A9%E4%B8%BA%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.gif" decoding="async" loading="lazy" width="52" height="86" data-file-width="52" data-file-height="86"></a></td>
+    <td><a href="./文件-八意永琳（心绮楼背景像素绘）.gif.md" class="image"><img alt="八意永琳（心绮楼背景像素绘）.gif" src="https://upload.thwiki.cc/a/a6/%E5%85%AB%E6%84%8F%E6%B0%B8%E7%90%B3%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.gif" decoding="async" loading="lazy" width="54" height="113" data-file-width="54" data-file-height="113"></a></td>
+    <td><a href="./文件-蓬莱山辉夜（心绮楼背景像素绘）.gif.md" class="image"><img alt="蓬莱山辉夜（心绮楼背景像素绘）.gif" src="https://upload.thwiki.cc/1/17/%E8%93%AC%E8%8E%B1%E5%B1%B1%E8%BE%89%E5%A4%9C%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.gif" decoding="async" loading="lazy" width="50" height="95" data-file-width="50" data-file-height="95"></a></td>
+    <td><a href="./文件-铃仙·优昙华院·因幡（心绮楼背景像素绘）.gif.md" class="image"><img alt="铃仙·优昙华院·因幡（心绮楼背景像素绘）.gif" src="https://upload.thwiki.cc/9/97/%E9%93%83%E4%BB%99%C2%B7%E4%BC%98%E6%98%99%E5%8D%8E%E9%99%A2%C2%B7%E5%9B%A0%E5%B9%A1%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.gif" decoding="async" loading="lazy" width="65" height="93" data-file-width="65" data-file-height="93"></a></td>
+    <td><a href="./文件-星熊勇仪（心绮楼背景像素绘）.gif.md" class="image"><img alt="星熊勇仪（心绮楼背景像素绘）.gif" src="https://upload.thwiki.cc/d/da/%E6%98%9F%E7%86%8A%E5%8B%87%E4%BB%AA%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.gif" decoding="async" loading="lazy" width="73" height="61" data-file-width="73" data-file-height="61"></a></td>
+    <td><a href="./文件-伊吹萃香（心绮楼背景像素绘）.gif.md" class="image"><img alt="伊吹萃香（心绮楼背景像素绘）.gif" src="https://upload.thwiki.cc/e/ef/%E4%BC%8A%E5%90%B9%E8%90%83%E9%A6%99%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.gif" decoding="async" loading="lazy" width="71" height="55" data-file-width="71" data-file-height="55"></a></td>
+    <td><a href="./文件-藤原妹红（心绮楼背景像素绘）.gif.md" class="image"><img alt="藤原妹红（心绮楼背景像素绘）.gif" src="https://upload.thwiki.cc/1/15/%E8%97%A4%E5%8E%9F%E5%A6%B9%E7%BA%A2%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.gif" decoding="async" loading="lazy" width="81" height="106" data-file-width="81" data-file-height="106"></a></td>
+    <td><a href="./文件-上白泽慧音（心绮楼背景像素绘）.gif.md" class="image"><img alt="上白泽慧音（心绮楼背景像素绘）.gif" src="https://upload.thwiki.cc/4/48/%E4%B8%8A%E7%99%BD%E6%B3%BD%E6%85%A7%E9%9F%B3%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.gif" decoding="async" loading="lazy" width="60" height="114" data-file-width="60" data-file-height="114"></a></td>
+    <td><a href="./文件-爱丽丝·玛格特洛依德（心绮楼背景像素绘）.gif.md" class="image"><img alt="爱丽丝·玛格特洛依德（心绮楼背景像素绘）.gif" src="https://upload.thwiki.cc/4/4b/%E7%88%B1%E4%B8%BD%E4%B8%9D%C2%B7%E7%8E%9B%E6%A0%BC%E7%89%B9%E6%B4%9B%E4%BE%9D%E5%BE%B7%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.gif" decoding="async" loading="lazy" width="65" height="107" data-file-width="65" data-file-height="107"></a></td>
+  </tr>
+</tbody></table>
+
+
+### 村民
+
+<table>
+  <tbody><tr>
+    <th colspan="5">村民（11人）</th>
+  </tr>
+  <tr>
+    <th rowspan="6">像素绘</th>
+    <th>村民A</th>
+    <th>村民B</th>
+    <th>村民C</th>
+    <th>村民D</th>
+  </tr>
+  <tr>
+    <td><a href="./文件-村民A（心绮楼背景像素绘）.png.md" class="image"><img alt="村民A（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/5/5f/%E6%9D%91%E6%B0%91A%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="34" height="73" data-file-width="34" data-file-height="73"></a></td>
+    <td><a href="./文件-村民B（心绮楼背景像素绘）.png.md" class="image"><img alt="村民B（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/f/fb/%E6%9D%91%E6%B0%91B%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="56" height="130" data-file-width="56" data-file-height="130"></a></td>
+    <td><a href="./文件-村民C（心绮楼背景像素绘）.png.md" class="image"><img alt="村民C（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/8/82/%E6%9D%91%E6%B0%91C%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="74" height="127" data-file-width="74" data-file-height="127"></a></td>
+    <td><a href="./文件-村民D（心绮楼背景像素绘）.png.md" class="image"><img alt="村民D（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/a/a3/%E6%9D%91%E6%B0%91D%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="84" height="122" data-file-width="84" data-file-height="122"></a></td>
+  </tr>
+  <tr>
+    <th>村民E</th>
+    <th>村民F</th>
+    <th>村民G</th>
+    <th>村民H</th>
+  </tr>
+  <tr>
+    <td><a href="./文件-村民E（心绮楼背景像素绘）.png.md" class="image"><img alt="村民E（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/f/f2/%E6%9D%91%E6%B0%91E%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="69" height="123" data-file-width="69" data-file-height="123"></a></td>
+    <td><a href="./文件-村民F（心绮楼背景像素绘）.png.md" class="image"><img alt="村民F（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/f/fd/%E6%9D%91%E6%B0%91F%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="87" height="150" data-file-width="87" data-file-height="150"></a></td>
+    <td><a href="./文件-村民G（心绮楼背景像素绘）.png.md" class="image"><img alt="村民G（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/8/80/%E6%9D%91%E6%B0%91G%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="69" height="123" data-file-width="69" data-file-height="123"></a></td>
+    <td><a href="./文件-村民H（心绮楼背景像素绘）.png.md" class="image"><img alt="村民H（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/0/0d/%E6%9D%91%E6%B0%91H%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="70" height="110" data-file-width="70" data-file-height="110"></a></td>
+  </tr>
+  <tr>
+    <th>村民I</th>
+    <th>村民J</th>
+    <th>村民K</th>
+  </tr>
+  <tr>
+    <td><a href="./文件-村民I（心绮楼背景像素绘）.png.md" class="image"><img alt="村民I（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/6/64/%E6%9D%91%E6%B0%91I%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="63" height="96" data-file-width="63" data-file-height="96"></a></td>
+    <td><a href="./文件-村民J（心绮楼背景像素绘）.png.md" class="image"><img alt="村民J（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/d/df/%E6%9D%91%E6%B0%91J%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="91" height="123" data-file-width="91" data-file-height="123"></a></td>
+    <td><a href="./文件-村民K（心绮楼背景像素绘）.png.md" class="image"><img alt="村民K（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/9/99/%E6%9D%91%E6%B0%91K%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="59" height="117" data-file-width="59" data-file-height="117"></a></td>
+  </tr>
+</tbody></table>
+
+
+## [云上的宝船](./圣辇船.md)
+[](./文件-云上的宝船（心绮楼场景）有人物.png.md)  [](./文件-云上的宝船（心绮楼场景）有人物.png.md)圣辇船
+
+
+<table>
+  <tbody><tr>
+    <th>角色（9个）</th>
+    <th><a href="./封兽鵺.md" title="封兽鵺">封兽鵺</a></th>
+    <th><a href="./比那名居天子.md" title="比那名居天子">比那名居天子</a></th>
+    <th><a href="./永江衣玖.md" title="永江衣玖">永江衣玖</a></th>
+    <th><a href="./莉莉霍瓦特.md" title="莉莉霍瓦特">莉莉霍瓦特</a></th>
+    <th><a href="./村纱水蜜.md" title="村纱水蜜">村纱水蜜</a></th>
+    <th><a href="./娜兹玲.md" title="娜兹玲">娜兹玲</a></th>
+    <th><a href="./梅露兰·普莉兹姆利巴.md" title="梅露兰·普莉兹姆利巴">梅露兰·普莉兹姆利巴</a></th>
+    <th><a href="./莉莉卡·普莉兹姆利巴.md" title="莉莉卡·普莉兹姆利巴">莉莉卡·普莉兹姆利巴</a></th>
+    <th><a href="./露娜萨·普莉兹姆利巴.md" title="露娜萨·普莉兹姆利巴">露娜萨·普莉兹姆利巴</a></th>
+  </tr>
+  <tr>
+    <th>像素绘</th>
+    <td><a href="./文件-封兽鵺（心绮楼背景像素绘）.png.md" class="image"><img alt="封兽鵺（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/b/b3/%E5%B0%81%E5%85%BD%E9%B5%BA%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="178" height="124" data-file-width="178" data-file-height="124"></a></td>
+    <td><a href="./文件-比那名居天子（心绮楼背景像素绘）.png.md" class="image"><img alt="比那名居天子（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/6/67/%E6%AF%94%E9%82%A3%E5%90%8D%E5%B1%85%E5%A4%A9%E5%AD%90%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="77" height="147" data-file-width="77" data-file-height="147"></a></td>
+    <td><a href="./文件-永江衣玖（心绮楼背景像素绘）.png.md" class="image"><img alt="永江衣玖（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/e/ef/%E6%B0%B8%E6%B1%9F%E8%A1%A3%E7%8E%96%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="117" height="165" data-file-width="117" data-file-height="165"></a></td>
+    <td><a href="./文件-莉莉霍瓦特（心绮楼背景像素绘）.png.md" class="image"><img alt="莉莉霍瓦特（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/1/11/%E8%8E%89%E8%8E%89%E9%9C%8D%E7%93%A6%E7%89%B9%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="89" height="85" data-file-width="89" data-file-height="85"></a></td>
+    <td><a href="./文件-村纱水蜜（心绮楼背景像素绘）.png.md" class="image"><img alt="村纱水蜜（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/e/e6/%E6%9D%91%E7%BA%B1%E6%B0%B4%E8%9C%9C%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="115" height="124" data-file-width="115" data-file-height="124"></a></td>
+    <td><a href="./文件-娜兹玲（心绮楼背景像素绘）.png.md" class="image"><img alt="娜兹玲（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/8/8e/%E5%A8%9C%E5%85%B9%E7%8E%B2%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="116" height="126" data-file-width="116" data-file-height="126"></a></td>
+    <td><a href="./文件-梅露兰·普莉兹姆利巴（心绮楼背景像素绘）.png.md" class="image"><img alt="梅露兰·普莉兹姆利巴（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/5/59/%E6%A2%85%E9%9C%B2%E5%85%B0%C2%B7%E6%99%AE%E8%8E%89%E5%85%B9%E5%A7%86%E5%88%A9%E5%B7%B4%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="67" height="131" data-file-width="67" data-file-height="131"></a></td>
+    <td><a href="./文件-莉莉卡·普莉兹姆利巴（心绮楼背景像素绘）.png.md" class="image"><img alt="莉莉卡·普莉兹姆利巴（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/c/c5/%E8%8E%89%E8%8E%89%E5%8D%A1%C2%B7%E6%99%AE%E8%8E%89%E5%85%B9%E5%A7%86%E5%88%A9%E5%B7%B4%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="59" height="124" data-file-width="59" data-file-height="124"></a></td>
+    <td><a href="./文件-露娜萨·普莉兹姆利巴（心绮楼背景像素绘）.png.md" class="image"><img alt="露娜萨·普莉兹姆利巴（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/8/85/%E9%9C%B2%E5%A8%9C%E8%90%A8%C2%B7%E6%99%AE%E8%8E%89%E5%85%B9%E5%A7%86%E5%88%A9%E5%B7%B4%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="78" height="127" data-file-width="78" data-file-height="127"></a></td>
+  </tr>
+  <tr>
+    <th>像素绘（动态）</th>
+    <td><a href="./文件-封兽鵺（心绮楼背景像素绘）.gif.md" class="image"><img alt="封兽鵺（心绮楼背景像素绘）.gif" src="https://upload.thwiki.cc/9/90/%E5%B0%81%E5%85%BD%E9%B5%BA%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.gif" decoding="async" loading="lazy" width="178" height="124" data-file-width="178" data-file-height="124"></a></td>
+    <td><a href="./文件-比那名居天子（心绮楼背景像素绘）.gif.md" class="image"><img alt="比那名居天子（心绮楼背景像素绘）.gif" src="https://upload.thwiki.cc/e/eb/%E6%AF%94%E9%82%A3%E5%90%8D%E5%B1%85%E5%A4%A9%E5%AD%90%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.gif" decoding="async" loading="lazy" width="77" height="147" data-file-width="77" data-file-height="147"></a></td>
+    <td><a href="./文件-永江衣玖（心绮楼背景像素绘）.gif.md" class="image"><img alt="永江衣玖（心绮楼背景像素绘）.gif" src="https://upload.thwiki.cc/8/8c/%E6%B0%B8%E6%B1%9F%E8%A1%A3%E7%8E%96%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.gif" decoding="async" loading="lazy" width="117" height="165" data-file-width="117" data-file-height="165"></a></td>
+    <td><a href="./文件-莉莉霍瓦特（心绮楼背景像素绘）.gif.md" class="image"><img alt="莉莉霍瓦特（心绮楼背景像素绘）.gif" src="https://upload.thwiki.cc/a/a8/%E8%8E%89%E8%8E%89%E9%9C%8D%E7%93%A6%E7%89%B9%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.gif" decoding="async" loading="lazy" width="89" height="85" data-file-width="89" data-file-height="85"></a></td>
+    <td><a href="./文件-村纱水蜜（心绮楼背景像素绘）.gif.md" class="image"><img alt="村纱水蜜（心绮楼背景像素绘）.gif" src="https://upload.thwiki.cc/0/0a/%E6%9D%91%E7%BA%B1%E6%B0%B4%E8%9C%9C%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.gif" decoding="async" loading="lazy" width="115" height="124" data-file-width="115" data-file-height="124"></a></td>
+    <td><a href="./文件-娜兹玲（心绮楼背景像素绘）.gif.md" class="image"><img alt="娜兹玲（心绮楼背景像素绘）.gif" src="https://upload.thwiki.cc/8/85/%E5%A8%9C%E5%85%B9%E7%8E%B2%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.gif" decoding="async" loading="lazy" width="116" height="126" data-file-width="116" data-file-height="126"></a></td>
+    <td><a href="./文件-梅露兰·普莉兹姆利巴（心绮楼背景像素绘）.gif.md" class="image"><img alt="梅露兰·普莉兹姆利巴（心绮楼背景像素绘）.gif" src="https://upload.thwiki.cc/2/21/%E6%A2%85%E9%9C%B2%E5%85%B0%C2%B7%E6%99%AE%E8%8E%89%E5%85%B9%E5%A7%86%E5%88%A9%E5%B7%B4%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.gif" decoding="async" loading="lazy" width="67" height="131" data-file-width="67" data-file-height="131"></a></td>
+    <td><a href="./文件-莉莉卡·普莉兹姆利巴（心绮楼背景像素绘）.gif.md" class="image"><img alt="莉莉卡·普莉兹姆利巴（心绮楼背景像素绘）.gif" src="https://upload.thwiki.cc/5/5f/%E8%8E%89%E8%8E%89%E5%8D%A1%C2%B7%E6%99%AE%E8%8E%89%E5%85%B9%E5%A7%86%E5%88%A9%E5%B7%B4%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.gif" decoding="async" loading="lazy" width="59" height="124" data-file-width="59" data-file-height="124"></a></td>
+    <td><a href="./文件-露娜萨·普莉兹姆利巴（心绮楼背景像素绘）.gif.md" class="image"><img alt="露娜萨·普莉兹姆利巴（心绮楼背景像素绘）.gif" src="https://upload.thwiki.cc/4/4d/%E9%9C%B2%E5%A8%9C%E8%90%A8%C2%B7%E6%99%AE%E8%8E%89%E5%85%B9%E5%A7%86%E5%88%A9%E5%B7%B4%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.gif" decoding="async" loading="lazy" width="78" height="127" data-file-width="78" data-file-height="127"></a></td>
+  </tr>
+</tbody></table>
+
+
+## [命莲寺](./命莲寺.md)
+[](./文件-命莲寺（心绮楼场景）有人物.png.md)  [](./文件-命莲寺（心绮楼场景）有人物.png.md)命莲寺
+
+### 角色
+
+<table>
+  <tbody><tr>
+    <th>角色（5个）</th>
+    <th><a href="./多多良小伞.md" title="多多良小伞">多多良小伞</a></th>
+    <th><a href="./寅丸星.md" title="寅丸星">寅丸星</a></th>
+    <th><a href="./幽谷响子.md" title="幽谷响子">幽谷响子</a></th>
+    <th><a href="./姬海棠果.md" title="姬海棠果">姬海棠果</a></th>
+    <th><a href="./射命丸文.md" title="射命丸文">射命丸文</a></th>
+  </tr>
+  <tr>
+    <th>像素绘</th>
+    <td><a href="./文件-多多良小伞（心绮楼背景像素绘）.png.md" class="image"><img alt="多多良小伞（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/7/78/%E5%A4%9A%E5%A4%9A%E8%89%AF%E5%B0%8F%E4%BC%9E%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="216" height="201" data-file-width="216" data-file-height="201"></a></td>
+    <td><a href="./文件-寅丸星（心绮楼背景像素绘）.png.md" class="image"><img alt="寅丸星（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/c/ce/%E5%AF%85%E4%B8%B8%E6%98%9F%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="150" height="177" data-file-width="150" data-file-height="177"></a></td>
+    <td><a href="./文件-幽谷响子（心绮楼背景像素绘）.png.md" class="image"><img alt="幽谷响子（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/8/87/%E5%B9%BD%E8%B0%B7%E5%93%8D%E5%AD%90%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="121" height="139" data-file-width="121" data-file-height="139"></a></td>
+    <td><a href="./文件-姬海棠果（心绮楼背景像素绘）.png.md" class="image"><img alt="姬海棠果（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/2/26/%E5%A7%AC%E6%B5%B7%E6%A3%A0%E6%9E%9C%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="124" height="148" data-file-width="124" data-file-height="148"></a></td>
+    <td><a href="./文件-射命丸文（心绮楼背景像素绘）.png.md" class="image"><img alt="射命丸文（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/a/ad/%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="96" height="146" data-file-width="96" data-file-height="146"></a></td>
+  </tr>
+  <tr>
+    <th>像素绘（动态）</th>
+    <td><a href="./文件-多多良小伞（心绮楼背景像素绘）.gif.md" class="image"><img alt="多多良小伞（心绮楼背景像素绘）.gif" src="https://upload.thwiki.cc/3/3e/%E5%A4%9A%E5%A4%9A%E8%89%AF%E5%B0%8F%E4%BC%9E%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.gif" decoding="async" loading="lazy" width="216" height="201" data-file-width="216" data-file-height="201"></a></td>
+    <td><a href="./文件-寅丸星（心绮楼背景像素绘）.gif.md" class="image"><img alt="寅丸星（心绮楼背景像素绘）.gif" src="https://upload.thwiki.cc/4/48/%E5%AF%85%E4%B8%B8%E6%98%9F%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.gif" decoding="async" loading="lazy" width="150" height="177" data-file-width="150" data-file-height="177"></a></td>
+    <td><a href="./文件-幽谷响子（心绮楼背景像素绘）.gif.md" class="image"><img alt="幽谷响子（心绮楼背景像素绘）.gif" src="https://upload.thwiki.cc/e/ee/%E5%B9%BD%E8%B0%B7%E5%93%8D%E5%AD%90%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.gif" decoding="async" loading="lazy" width="121" height="139" data-file-width="121" data-file-height="139"></a></td>
+    <td><a href="./文件-姬海棠果（心绮楼背景像素绘）.gif.md" class="image"><img alt="姬海棠果（心绮楼背景像素绘）.gif" src="https://upload.thwiki.cc/8/87/%E5%A7%AC%E6%B5%B7%E6%A3%A0%E6%9E%9C%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.gif" decoding="async" loading="lazy" width="124" height="148" data-file-width="124" data-file-height="148"></a></td>
+    <td><a href="./文件-射命丸文（心绮楼背景像素绘）.gif.md" class="image"><img alt="射命丸文（心绮楼背景像素绘）.gif" src="https://upload.thwiki.cc/7/76/%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.gif" decoding="async" loading="lazy" width="96" height="146" data-file-width="96" data-file-height="146"></a></td>
+  </tr>
+</tbody></table>
+
+
+### 村民
+
+<table>
+  <tbody><tr>
+    <th colspan="4">村民（3人）</th>
+  </tr>
+  <tr>
+    <th rowspan="2">像素绘</th>
+    <th>村民B</th>
+    <th>村民C</th>
+    <th>村民K</th>
+  </tr>
+  <tr>
+    <td><a href="./文件-村民B（心绮楼背景像素绘）.png.md" class="image"><img alt="村民B（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/f/fb/%E6%9D%91%E6%B0%91B%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="56" height="130" data-file-width="56" data-file-height="130"></a></td>
+    <td><a href="./文件-村民C（心绮楼背景像素绘）.png.md" class="image"><img alt="村民C（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/8/82/%E6%9D%91%E6%B0%91C%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="74" height="127" data-file-width="74" data-file-height="127"></a></td>
+    <td><a href="./文件-村民K（心绮楼背景像素绘）.png.md" class="image"><img alt="村民K（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/9/99/%E6%9D%91%E6%B0%91K%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="59" height="117" data-file-width="59" data-file-height="117"></a></td>
+  </tr>
+</tbody></table>
+
+
+## [梦殿大祀庙](./梦殿大祀庙（场景）.md)
+[](./文件-梦殿大祀庙（心绮楼场景）有人物.png.md)  [](./文件-梦殿大祀庙（心绮楼场景）有人物.png.md)梦殿大祀庙
+
+
+<table>
+  <tbody><tr>
+    <th>角色（11个）</th>
+    <th><a href="./莉莉霍瓦特.md" title="莉莉霍瓦特">莉莉霍瓦特</a></th>
+    <th><a href="./露米娅.md" title="露米娅">露米娅</a></th>
+    <th><a href="./蕾蒂·霍瓦特洛克.md" title="蕾蒂·霍瓦特洛克">蕾蒂·霍瓦特洛克</a></th>
+    <th><a href="./琪露诺.md" title="琪露诺">琪露诺</a></th>
+    <th><a href="./梅蒂欣·梅兰可莉.md" title="梅蒂欣·梅兰可莉">梅蒂欣·梅兰可莉</a></th>
+    <th><a href="./风见幽香.md" title="风见幽香">风见幽香</a></th>
+    <th><a href="./米斯蒂娅·萝蕾拉.md" title="米斯蒂娅·萝蕾拉">米斯蒂娅·萝蕾拉</a></th>
+    <th><a href="./露娜切露德.md" title="露娜切露德">露娜切露德</a></th>
+    <th><a href="./桑尼米尔克.md" title="桑尼米尔克">桑尼米尔克</a></th>
+    <th><a href="./斯塔萨菲雅.md" title="斯塔萨菲雅">斯塔萨菲雅</a></th>
+    <th><a href="./莉格露·奈特巴格.md" title="莉格露·奈特巴格">莉格露·奈特巴格</a></th>
+  </tr>
+  <tr>
+    <th>像素绘</th>
+    <td><a href="./文件-莉莉霍瓦特（心绮楼背景像素绘）.png.md" class="image"><img alt="莉莉霍瓦特（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/1/11/%E8%8E%89%E8%8E%89%E9%9C%8D%E7%93%A6%E7%89%B9%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="89" height="85" data-file-width="89" data-file-height="85"></a></td>
+    <td><a href="./文件-露米娅（心绮楼背景像素绘）.png.md" class="image"><img alt="露米娅（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/b/bc/%E9%9C%B2%E7%B1%B3%E5%A8%85%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="99" height="125" data-file-width="99" data-file-height="125"></a></td>
+    <td><a href="./文件-蕾蒂·霍瓦特洛克（心绮楼背景像素绘）.png.md" class="image"><img alt="蕾蒂·霍瓦特洛克（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/8/86/%E8%95%BE%E8%92%82%C2%B7%E9%9C%8D%E7%93%A6%E7%89%B9%E6%B4%9B%E5%85%8B%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="80" height="112" data-file-width="80" data-file-height="112"></a></td>
+    <td><a href="./文件-琪露诺（心绮楼背景像素绘）.png.md" class="image"><img alt="琪露诺（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/4/43/%E7%90%AA%E9%9C%B2%E8%AF%BA%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="95" height="96" data-file-width="95" data-file-height="96"></a></td>
+    <td><a href="./文件-梅蒂欣·梅兰可莉（心绮楼背景像素绘）.png.md" class="image"><img alt="梅蒂欣·梅兰可莉（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/4/44/%E6%A2%85%E8%92%82%E6%AC%A3%C2%B7%E6%A2%85%E5%85%B0%E5%8F%AF%E8%8E%89%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="91" height="99" data-file-width="91" data-file-height="99"></a></td>
+    <td><a href="./文件-风见幽香（心绮楼背景像素绘）.png.md" class="image"><img alt="风见幽香（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/a/a1/%E9%A3%8E%E8%A7%81%E5%B9%BD%E9%A6%99%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="92" height="143" data-file-width="92" data-file-height="143"></a></td>
+    <td><a href="./文件-米斯蒂娅·萝蕾拉（心绮楼背景像素绘）.png.md" class="image"><img alt="米斯蒂娅·萝蕾拉（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/6/66/%E7%B1%B3%E6%96%AF%E8%92%82%E5%A8%85%C2%B7%E8%90%9D%E8%95%BE%E6%8B%89%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="88" height="125" data-file-width="88" data-file-height="125"></a></td>
+    <td><a href="./文件-露娜切露德（心绮楼背景像素绘）.png.md" class="image"><img alt="露娜切露德（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/c/cb/%E9%9C%B2%E5%A8%9C%E5%88%87%E9%9C%B2%E5%BE%B7%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="90" data-file-width="50" data-file-height="90"></a></td>
+    <td><a href="./文件-桑尼米尔克（心绮楼背景像素绘）.png.md" class="image"><img alt="桑尼米尔克（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/9/9f/%E6%A1%91%E5%B0%BC%E7%B1%B3%E5%B0%94%E5%85%8B%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="49" height="92" data-file-width="49" data-file-height="92"></a></td>
+    <td><a href="./文件-斯塔萨菲雅（心绮楼背景像素绘）.png.md" class="image"><img alt="斯塔萨菲雅（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/8/8b/%E6%96%AF%E5%A1%94%E8%90%A8%E8%8F%B2%E9%9B%85%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="46" height="89" data-file-width="46" data-file-height="89"></a></td>
+    <td><a href="./文件-莉格露·奈特巴格（心绮楼背景像素绘）.png.md" class="image"><img alt="莉格露·奈特巴格（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/d/d5/%E8%8E%89%E6%A0%BC%E9%9C%B2%C2%B7%E5%A5%88%E7%89%B9%E5%B7%B4%E6%A0%BC%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="103" height="116" data-file-width="103" data-file-height="116"></a></td>
+  </tr>
+  <tr>
+    <th>像素绘（动态）</th>
+    <td><a href="./文件-莉莉霍瓦特（心绮楼背景像素绘）.gif.md" class="image"><img alt="莉莉霍瓦特（心绮楼背景像素绘）.gif" src="https://upload.thwiki.cc/a/a8/%E8%8E%89%E8%8E%89%E9%9C%8D%E7%93%A6%E7%89%B9%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.gif" decoding="async" loading="lazy" width="89" height="85" data-file-width="89" data-file-height="85"></a></td>
+    <td><a href="./文件-露米娅（心绮楼背景像素绘）.gif.md" class="image"><img alt="露米娅（心绮楼背景像素绘）.gif" src="https://upload.thwiki.cc/1/1c/%E9%9C%B2%E7%B1%B3%E5%A8%85%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.gif" decoding="async" loading="lazy" width="99" height="125" data-file-width="99" data-file-height="125"></a></td>
+    <td><a href="./文件-蕾蒂·霍瓦特洛克（心绮楼背景像素绘）.gif.md" class="image"><img alt="蕾蒂·霍瓦特洛克（心绮楼背景像素绘）.gif" src="https://upload.thwiki.cc/7/72/%E8%95%BE%E8%92%82%C2%B7%E9%9C%8D%E7%93%A6%E7%89%B9%E6%B4%9B%E5%85%8B%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.gif" decoding="async" loading="lazy" width="80" height="112" data-file-width="80" data-file-height="112"></a></td>
+    <td><a href="./文件-琪露诺（心绮楼背景像素绘）.gif.md" class="image"><img alt="琪露诺（心绮楼背景像素绘）.gif" src="https://upload.thwiki.cc/d/dd/%E7%90%AA%E9%9C%B2%E8%AF%BA%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.gif" decoding="async" loading="lazy" width="95" height="96" data-file-width="95" data-file-height="96"></a></td>
+    <td><a href="./文件-梅蒂欣·梅兰可莉（心绮楼背景像素绘）.gif.md" class="image"><img alt="梅蒂欣·梅兰可莉（心绮楼背景像素绘）.gif" src="https://upload.thwiki.cc/c/c1/%E6%A2%85%E8%92%82%E6%AC%A3%C2%B7%E6%A2%85%E5%85%B0%E5%8F%AF%E8%8E%89%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.gif" decoding="async" loading="lazy" width="91" height="99" data-file-width="91" data-file-height="99"></a></td>
+    <td><a href="./文件-风见幽香（心绮楼背景像素绘）.gif.md" class="image"><img alt="风见幽香（心绮楼背景像素绘）.gif" src="https://upload.thwiki.cc/3/39/%E9%A3%8E%E8%A7%81%E5%B9%BD%E9%A6%99%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.gif" decoding="async" loading="lazy" width="92" height="143" data-file-width="92" data-file-height="143"></a></td>
+    <td><a href="./文件-米斯蒂娅·萝蕾拉（心绮楼背景像素绘）.gif.md" class="image"><img alt="米斯蒂娅·萝蕾拉（心绮楼背景像素绘）.gif" src="https://upload.thwiki.cc/4/48/%E7%B1%B3%E6%96%AF%E8%92%82%E5%A8%85%C2%B7%E8%90%9D%E8%95%BE%E6%8B%89%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.gif" decoding="async" loading="lazy" width="88" height="125" data-file-width="88" data-file-height="125"></a></td>
+    <td><a href="./文件-露娜切露德（心绮楼背景像素绘）.gif.md" class="image"><img alt="露娜切露德（心绮楼背景像素绘）.gif" src="https://upload.thwiki.cc/a/af/%E9%9C%B2%E5%A8%9C%E5%88%87%E9%9C%B2%E5%BE%B7%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.gif" decoding="async" loading="lazy" width="50" height="90" data-file-width="50" data-file-height="90"></a></td>
+    <td><a href="./文件-桑尼米尔克（心绮楼背景像素绘）.gif.md" class="image"><img alt="桑尼米尔克（心绮楼背景像素绘）.gif" src="https://upload.thwiki.cc/0/09/%E6%A1%91%E5%B0%BC%E7%B1%B3%E5%B0%94%E5%85%8B%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.gif" decoding="async" loading="lazy" width="49" height="92" data-file-width="49" data-file-height="92"></a></td>
+    <td><a href="./文件-斯塔萨菲雅（心绮楼背景像素绘）.gif.md" class="image"><img alt="斯塔萨菲雅（心绮楼背景像素绘）.gif" src="https://upload.thwiki.cc/1/1b/%E6%96%AF%E5%A1%94%E8%90%A8%E8%8F%B2%E9%9B%85%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.gif" decoding="async" loading="lazy" width="46" height="89" data-file-width="46" data-file-height="89"></a></td>
+    <td><a href="./文件-莉格露·奈特巴格（心绮楼背景像素绘）.gif.md" class="image"><img alt="莉格露·奈特巴格（心绮楼背景像素绘）.gif" src="https://upload.thwiki.cc/2/25/%E8%8E%89%E6%A0%BC%E9%9C%B2%C2%B7%E5%A5%88%E7%89%B9%E5%B7%B4%E6%A0%BC%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.gif" decoding="async" loading="lazy" width="103" height="116" data-file-width="103" data-file-height="116"></a></td>
+  </tr>
+</tbody></table>
+
+
+## [神灵庙](./神灵庙（场景）.md)
+[](./文件-神灵庙（心绮楼场景）有人物.png.md)  [](./文件-神灵庙（心绮楼场景）有人物.png.md)神灵庙
+
+
+<table>
+  <tbody><tr>
+    <th>角色（10个）</th>
+    <th><a href="./西行寺幽幽子.md" title="西行寺幽幽子">西行寺幽幽子</a></th>
+    <th><a href="./魂魄妖梦.md" title="魂魄妖梦">魂魄妖梦</a></th>
+    <th><a href="./四季映姬·夜摩仙那度.md" title="四季映姬·夜摩仙那度">四季映姬·夜摩仙那度</a></th>
+    <th><a href="./小野塚小町.md" title="小野塚小町">小野塚小町</a></th>
+    <th><a href="./梅露兰·普莉兹姆利巴.md" title="梅露兰·普莉兹姆利巴">梅露兰·普莉兹姆利巴</a></th>
+    <th><a href="./莉莉卡·普莉兹姆利巴.md" title="莉莉卡·普莉兹姆利巴">莉莉卡·普莉兹姆利巴</a></th>
+    <th><a href="./露娜萨·普莉兹姆利巴.md" title="露娜萨·普莉兹姆利巴">露娜萨·普莉兹姆利巴</a></th>
+    <th><a href="./霍青娥.md" title="霍青娥">霍青娥</a></th>
+    <th><a href="./宫古芳香.md" title="宫古芳香">宫古芳香</a></th>
+    <th><a href="./苏我屠自古.md" title="苏我屠自古">苏我屠自古</a></th>
+  </tr>
+  <tr>
+    <th>像素绘</th>
+    <td><a href="./文件-西行寺幽幽子（心绮楼背景像素绘）.png.md" class="image"><img alt="西行寺幽幽子（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/b/bc/%E8%A5%BF%E8%A1%8C%E5%AF%BA%E5%B9%BD%E5%B9%BD%E5%AD%90%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="62" height="122" data-file-width="62" data-file-height="122"></a></td>
+    <td><a href="./文件-魂魄妖梦（心绮楼背景像素绘）.png.md" class="image"><img alt="魂魄妖梦（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/2/24/%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="69" height="105" data-file-width="69" data-file-height="105"></a></td>
+    <td><a href="./文件-四季映姬·夜摩仙那度（心绮楼背景像素绘）.png.md" class="image"><img alt="四季映姬·夜摩仙那度（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/5/56/%E5%9B%9B%E5%AD%A3%E6%98%A0%E5%A7%AC%C2%B7%E5%A4%9C%E6%91%A9%E4%BB%99%E9%82%A3%E5%BA%A6%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="72" height="134" data-file-width="72" data-file-height="134"></a></td>
+    <td><a href="./文件-小野塚小町（心绮楼背景像素绘）.png.md" class="image"><img alt="小野塚小町（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/9/9f/%E5%B0%8F%E9%87%8E%E5%A1%9A%E5%B0%8F%E7%94%BA%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="131" height="79" data-file-width="131" data-file-height="79"></a></td>
+    <td><a href="./文件-梅露兰·普莉兹姆利巴（心绮楼背景像素绘）.png.md" class="image"><img alt="梅露兰·普莉兹姆利巴（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/5/59/%E6%A2%85%E9%9C%B2%E5%85%B0%C2%B7%E6%99%AE%E8%8E%89%E5%85%B9%E5%A7%86%E5%88%A9%E5%B7%B4%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="67" height="131" data-file-width="67" data-file-height="131"></a></td>
+    <td><a href="./文件-莉莉卡·普莉兹姆利巴（心绮楼背景像素绘）.png.md" class="image"><img alt="莉莉卡·普莉兹姆利巴（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/c/c5/%E8%8E%89%E8%8E%89%E5%8D%A1%C2%B7%E6%99%AE%E8%8E%89%E5%85%B9%E5%A7%86%E5%88%A9%E5%B7%B4%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="59" height="124" data-file-width="59" data-file-height="124"></a></td>
+    <td><a href="./文件-露娜萨·普莉兹姆利巴（心绮楼背景像素绘）.png.md" class="image"><img alt="露娜萨·普莉兹姆利巴（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/8/85/%E9%9C%B2%E5%A8%9C%E8%90%A8%C2%B7%E6%99%AE%E8%8E%89%E5%85%B9%E5%A7%86%E5%88%A9%E5%B7%B4%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="78" height="127" data-file-width="78" data-file-height="127"></a></td>
+    <td><a href="./文件-霍青娥（心绮楼背景像素绘）.png.md" class="image"><img alt="霍青娥（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/d/da/%E9%9C%8D%E9%9D%92%E5%A8%A5%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="110" height="107" data-file-width="110" data-file-height="107"></a></td>
+    <td><a href="./文件-宫古芳香（心绮楼背景像素绘）.png.md" class="image"><img alt="宫古芳香（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/f/f8/%E5%AE%AB%E5%8F%A4%E8%8A%B3%E9%A6%99%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="157" height="169" data-file-width="157" data-file-height="169"></a></td>
+    <td><a href="./文件-苏我屠自古（心绮楼背景像素绘）.png.md" class="image"><img alt="苏我屠自古（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/0/08/%E8%8B%8F%E6%88%91%E5%B1%A0%E8%87%AA%E5%8F%A4%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="151" height="129" data-file-width="151" data-file-height="129"></a></td>
+  </tr>
+  <tr>
+    <th>像素绘（动态）</th>
+    <td><a href="./文件-西行寺幽幽子（心绮楼背景像素绘）.gif.md" class="image"><img alt="西行寺幽幽子（心绮楼背景像素绘）.gif" src="https://upload.thwiki.cc/5/5d/%E8%A5%BF%E8%A1%8C%E5%AF%BA%E5%B9%BD%E5%B9%BD%E5%AD%90%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.gif" decoding="async" loading="lazy" width="62" height="122" data-file-width="62" data-file-height="122"></a></td>
+    <td><a href="./文件-魂魄妖梦（心绮楼背景像素绘）.gif.md" class="image"><img alt="魂魄妖梦（心绮楼背景像素绘）.gif" src="https://upload.thwiki.cc/c/cc/%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.gif" decoding="async" loading="lazy" width="75" height="101" data-file-width="75" data-file-height="101"></a></td>
+    <td><a href="./文件-四季映姬·夜摩仙那度（心绮楼背景像素绘）.gif.md" class="image"><img alt="四季映姬·夜摩仙那度（心绮楼背景像素绘）.gif" src="https://upload.thwiki.cc/c/c6/%E5%9B%9B%E5%AD%A3%E6%98%A0%E5%A7%AC%C2%B7%E5%A4%9C%E6%91%A9%E4%BB%99%E9%82%A3%E5%BA%A6%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.gif" decoding="async" loading="lazy" width="72" height="134" data-file-width="72" data-file-height="134"></a></td>
+    <td>无</td>
+    <td><a href="./文件-梅露兰·普莉兹姆利巴（心绮楼背景像素绘）.gif.md" class="image"><img alt="梅露兰·普莉兹姆利巴（心绮楼背景像素绘）.gif" src="https://upload.thwiki.cc/2/21/%E6%A2%85%E9%9C%B2%E5%85%B0%C2%B7%E6%99%AE%E8%8E%89%E5%85%B9%E5%A7%86%E5%88%A9%E5%B7%B4%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.gif" decoding="async" loading="lazy" width="67" height="131" data-file-width="67" data-file-height="131"></a></td>
+    <td><a href="./文件-莉莉卡·普莉兹姆利巴（心绮楼背景像素绘）.gif.md" class="image"><img alt="莉莉卡·普莉兹姆利巴（心绮楼背景像素绘）.gif" src="https://upload.thwiki.cc/5/5f/%E8%8E%89%E8%8E%89%E5%8D%A1%C2%B7%E6%99%AE%E8%8E%89%E5%85%B9%E5%A7%86%E5%88%A9%E5%B7%B4%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.gif" decoding="async" loading="lazy" width="59" height="124" data-file-width="59" data-file-height="124"></a></td>
+    <td><a href="./文件-露娜萨·普莉兹姆利巴（心绮楼背景像素绘）.gif.md" class="image"><img alt="露娜萨·普莉兹姆利巴（心绮楼背景像素绘）.gif" src="https://upload.thwiki.cc/4/4d/%E9%9C%B2%E5%A8%9C%E8%90%A8%C2%B7%E6%99%AE%E8%8E%89%E5%85%B9%E5%A7%86%E5%88%A9%E5%B7%B4%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.gif" decoding="async" loading="lazy" width="78" height="127" data-file-width="78" data-file-height="127"></a></td>
+    <td><a href="./文件-霍青娥（心绮楼背景像素绘）.gif.md" class="image"><img alt="霍青娥（心绮楼背景像素绘）.gif" src="https://upload.thwiki.cc/c/c7/%E9%9C%8D%E9%9D%92%E5%A8%A5%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.gif" decoding="async" loading="lazy" width="110" height="107" data-file-width="110" data-file-height="107"></a></td>
+    <td><a href="./文件-宫古芳香（心绮楼背景像素绘）.gif.md" class="image"><img alt="宫古芳香（心绮楼背景像素绘）.gif" src="https://upload.thwiki.cc/0/09/%E5%AE%AB%E5%8F%A4%E8%8A%B3%E9%A6%99%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.gif" decoding="async" loading="lazy" width="157" height="169" data-file-width="157" data-file-height="169"></a></td>
+    <td><a href="./文件-苏我屠自古（心绮楼背景像素绘）.gif.md" class="image"><img alt="苏我屠自古（心绮楼背景像素绘）.gif" src="https://upload.thwiki.cc/9/95/%E8%8B%8F%E6%88%91%E5%B1%A0%E8%87%AA%E5%8F%A4%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.gif" decoding="async" loading="lazy" width="151" height="129" data-file-width="151" data-file-height="129"></a></td>
+  </tr>
+</tbody></table>
+
+
+## [玄武涧](./玄武涧.md)
+[](./文件-玄武涧（心绮楼场景）有人物.png.md)  [](./文件-玄武涧（心绮楼场景）有人物.png.md)玄武涧
+
+### 角色
+
+<table>
+  <tbody><tr>
+    <th>角色（8个）</th>
+    <th><a href="./八坂神奈子.md" title="八坂神奈子">八坂神奈子</a></th>
+    <th><a href="./洩矢诹访子.md" title="洩矢诹访子">洩矢诹访子</a></th>
+    <th><a href="./东风谷早苗.md" title="东风谷早苗">东风谷早苗</a></th>
+    <th><a href="./射命丸文.md" title="射命丸文">射命丸文</a></th>
+    <th><a href="./姬海棠果.md" title="姬海棠果">姬海棠果</a></th>
+    <th><a href="./秋穰子.md" title="秋穰子">秋穰子</a></th>
+    <th><a href="./秋静叶.md" title="秋静叶">秋静叶</a></th>
+    <th><a href="./键山雏.md" title="键山雏">键山雏</a></th>
+  </tr>
+  <tr>
+    <th>像素绘</th>
+    <td><a href="./文件-八坂神奈子（心绮楼背景像素绘）.png.md" class="image"><img alt="八坂神奈子（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/e/eb/%E5%85%AB%E5%9D%82%E7%A5%9E%E5%A5%88%E5%AD%90%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="70" height="92" data-file-width="70" data-file-height="92"></a></td>
+    <td><a href="./文件-洩矢诹访子（心绮楼背景像素绘）.png.md" class="image"><img alt="洩矢诹访子（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/c/c6/%E6%B4%A9%E7%9F%A2%E8%AF%B9%E8%AE%BF%E5%AD%90%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="71" height="113" data-file-width="71" data-file-height="113"></a></td>
+    <td><a href="./文件-东风谷早苗（心绮楼背景像素绘）.png.md" class="image"><img alt="东风谷早苗（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/0/0e/%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="105" height="149" data-file-width="105" data-file-height="149"></a></td>
+    <td><a href="./文件-射命丸文（心绮楼背景像素绘）.png.md" class="image"><img alt="射命丸文（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/a/ad/%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="96" height="146" data-file-width="96" data-file-height="146"></a></td>
+    <td><a href="./文件-姬海棠果（心绮楼背景像素绘）.png.md" class="image"><img alt="姬海棠果（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/2/26/%E5%A7%AC%E6%B5%B7%E6%A3%A0%E6%9E%9C%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="124" height="148" data-file-width="124" data-file-height="148"></a></td>
+    <td><a href="./文件-秋穰子（心绮楼背景像素绘）.png.md" class="image"><img alt="秋穰子（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/6/6c/%E7%A7%8B%E7%A9%B0%E5%AD%90%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="68" height="128" data-file-width="68" data-file-height="128"></a></td>
+    <td><a href="./文件-秋静叶（心绮楼背景像素绘）.png.md" class="image"><img alt="秋静叶（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/5/54/%E7%A7%8B%E9%9D%99%E5%8F%B6%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="64" height="128" data-file-width="64" data-file-height="128"></a></td>
+    <td><a href="./文件-键山雏（心绮楼背景像素绘）.png.md" class="image"><img alt="键山雏（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/8/8a/%E9%94%AE%E5%B1%B1%E9%9B%8F%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="62" height="128" data-file-width="62" data-file-height="128"></a></td>
+  </tr>
+  <tr>
+    <th>像素绘（动态）</th>
+    <td><a href="./文件-八坂神奈子（心绮楼背景像素绘）.gif.md" class="image"><img alt="八坂神奈子（心绮楼背景像素绘）.gif" src="https://upload.thwiki.cc/1/16/%E5%85%AB%E5%9D%82%E7%A5%9E%E5%A5%88%E5%AD%90%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.gif" decoding="async" loading="lazy" width="70" height="92" data-file-width="70" data-file-height="92"></a></td>
+    <td><a href="./文件-洩矢诹访子（心绮楼背景像素绘）.gif.md" class="image"><img alt="洩矢诹访子（心绮楼背景像素绘）.gif" src="https://upload.thwiki.cc/c/c3/%E6%B4%A9%E7%9F%A2%E8%AF%B9%E8%AE%BF%E5%AD%90%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.gif" decoding="async" loading="lazy" width="71" height="113" data-file-width="71" data-file-height="113"></a></td>
+    <td><a href="./文件-东风谷早苗（心绮楼背景像素绘）.gif.md" class="image"><img alt="东风谷早苗（心绮楼背景像素绘）.gif" src="https://upload.thwiki.cc/6/65/%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.gif" decoding="async" loading="lazy" width="105" height="149" data-file-width="105" data-file-height="149"></a></td>
+    <td><a href="./文件-射命丸文（心绮楼背景像素绘）.gif.md" class="image"><img alt="射命丸文（心绮楼背景像素绘）.gif" src="https://upload.thwiki.cc/7/76/%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.gif" decoding="async" loading="lazy" width="96" height="146" data-file-width="96" data-file-height="146"></a></td>
+    <td><a href="./文件-姬海棠果（心绮楼背景像素绘）.gif.md" class="image"><img alt="姬海棠果（心绮楼背景像素绘）.gif" src="https://upload.thwiki.cc/8/87/%E5%A7%AC%E6%B5%B7%E6%A3%A0%E6%9E%9C%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.gif" decoding="async" loading="lazy" width="124" height="148" data-file-width="124" data-file-height="148"></a></td>
+    <td><a href="./文件-秋穰子（心绮楼背景像素绘）.gif.md" class="image"><img alt="秋穰子（心绮楼背景像素绘）.gif" src="https://upload.thwiki.cc/d/d6/%E7%A7%8B%E7%A9%B0%E5%AD%90%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.gif" decoding="async" loading="lazy" width="68" height="128" data-file-width="68" data-file-height="128"></a></td>
+    <td><a href="./文件-秋静叶（心绮楼背景像素绘）.gif.md" class="image"><img alt="秋静叶（心绮楼背景像素绘）.gif" src="https://upload.thwiki.cc/6/6b/%E7%A7%8B%E9%9D%99%E5%8F%B6%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.gif" decoding="async" loading="lazy" width="64" height="128" data-file-width="64" data-file-height="128"></a></td>
+    <td><a href="./文件-键山雏（心绮楼背景像素绘）.gif.md" class="image"><img alt="键山雏（心绮楼背景像素绘）.gif" src="https://upload.thwiki.cc/7/7a/%E9%94%AE%E5%B1%B1%E9%9B%8F%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.gif" decoding="async" loading="lazy" width="62" height="128" data-file-width="62" data-file-height="128"></a></td>
+  </tr>
+</tbody></table>
+
+
+### 河童
+
+<table>
+  <tbody><tr>
+    <th colspan="6">河童（5人）</th>
+  </tr>
+  <tr>
+    <th rowspan="2">像素绘</th>
+    <th>河童A</th>
+    <th>河童B</th>
+    <th>河童C</th>
+    <th>河童D</th>
+    <th>河童E</th>
+  </tr>
+  <tr>
+    <td><a href="./文件-河童A（心绮楼背景像素绘）.png.md" class="image"><img alt="河童A（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/7/7e/%E6%B2%B3%E7%AB%A5A%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="58" height="37" data-file-width="58" data-file-height="37"></a></td>
+    <td><a href="./文件-河童B（心绮楼背景像素绘）.png.md" class="image"><img alt="河童B（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/c/c1/%E6%B2%B3%E7%AB%A5B%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="45" height="31" data-file-width="45" data-file-height="31"></a></td>
+    <td><a href="./文件-河童C（心绮楼背景像素绘）.png.md" class="image"><img alt="河童C（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/f/f3/%E6%B2%B3%E7%AB%A5C%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="41" height="25" data-file-width="41" data-file-height="25"></a></td>
+    <td><a href="./文件-河童D（心绮楼背景像素绘）.png.md" class="image"><img alt="河童D（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/6/6f/%E6%B2%B3%E7%AB%A5D%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="46" height="36" data-file-width="46" data-file-height="36"></a></td>
+    <td><a href="./文件-河童E（心绮楼背景像素绘）.png.md" class="image"><img alt="河童E（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/f/f8/%E6%B2%B3%E7%AB%A5E%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="53" height="41" data-file-width="53" data-file-height="41"></a></td>
+  </tr>
+</tbody></table>
+
+
+## [地灵殿](./地灵殿（场景）.md)
+[](./文件-地灵殿（心绮楼场景）有人物.png.md)  [](./文件-地灵殿（心绮楼场景）有人物.png.md)地灵殿
+
+### 角色
+
+<table>
+  <tbody><tr>
+    <th>角色（5个）</th>
+    <th><a href="./水桥帕露西.md" title="水桥帕露西">水桥帕露西</a></th>
+    <th><a href="./黑谷山女.md" title="黑谷山女">黑谷山女</a></th>
+    <th><a href="./古明地觉.md" title="古明地觉">古明地觉</a></th>
+    <th><a href="./灵乌路空.md" title="灵乌路空">灵乌路空</a></th>
+    <th><a href="./火焰猫燐.md" title="火焰猫燐">火焰猫燐</a></th>
+  </tr>
+  <tr>
+    <th>像素绘</th>
+    <td><a href="./文件-水桥帕露西（心绮楼背景像素绘）.png.md" class="image"><img alt="水桥帕露西（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/8/83/%E6%B0%B4%E6%A1%A5%E5%B8%95%E9%9C%B2%E8%A5%BF%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="69" height="103" data-file-width="69" data-file-height="103"></a></td>
+    <td><a href="./文件-黑谷山女（心绮楼背景像素绘）.png.md" class="image"><img alt="黑谷山女（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/4/4a/%E9%BB%91%E8%B0%B7%E5%B1%B1%E5%A5%B3%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="65" height="136" data-file-width="65" data-file-height="136"></a></td>
+    <td><a href="./文件-古明地觉（心绮楼背景像素绘）.png.md" class="image"><img alt="古明地觉（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/e/ea/%E5%8F%A4%E6%98%8E%E5%9C%B0%E8%A7%89%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="73" height="128" data-file-width="73" data-file-height="128"></a></td>
+    <td><a href="./文件-灵乌路空（心绮楼背景像素绘）.png.md" class="image"><img alt="灵乌路空（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/1/1f/%E7%81%B5%E4%B9%8C%E8%B7%AF%E7%A9%BA%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="153" height="153" data-file-width="153" data-file-height="153"></a></td>
+    <td><a href="./文件-火焰猫燐（心绮楼背景像素绘）.png.md" class="image"><img alt="火焰猫燐（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/1/10/%E7%81%AB%E7%84%B0%E7%8C%AB%E7%87%90%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="100" height="123" data-file-width="100" data-file-height="123"></a></td>
+  </tr>
+  <tr>
+    <th>像素绘（动态）</th>
+    <td>无</td>
+    <td>无</td>
+    <td><a href="./文件-古明地觉（心绮楼背景像素绘）.gif.md" class="image"><img alt="古明地觉（心绮楼背景像素绘）.gif" src="https://upload.thwiki.cc/5/51/%E5%8F%A4%E6%98%8E%E5%9C%B0%E8%A7%89%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.gif" decoding="async" loading="lazy" width="73" height="128" data-file-width="73" data-file-height="128"></a></td>
+    <td><a href="./文件-灵乌路空（心绮楼背景像素绘）.gif.md" class="image"><img alt="灵乌路空（心绮楼背景像素绘）.gif" src="https://upload.thwiki.cc/a/af/%E7%81%B5%E4%B9%8C%E8%B7%AF%E7%A9%BA%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.gif" decoding="async" loading="lazy" width="153" height="153" data-file-width="153" data-file-height="153"></a></td>
+    <td><a href="./文件-火焰猫燐（心绮楼背景像素绘）.gif.md" class="image"><img alt="火焰猫燐（心绮楼背景像素绘）.gif" src="https://upload.thwiki.cc/e/e3/%E7%81%AB%E7%84%B0%E7%8C%AB%E7%87%90%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.gif" decoding="async" loading="lazy" width="100" height="123" data-file-width="100" data-file-height="123"></a></td>
+  </tr>
+</tbody></table>
+
+
+### 动物
+
+<table>
+  <tbody><tr>
+    <th colspan="4">动物（11种）</th>
+  </tr>
+  <tr>
+    <th rowspan="8">像素绘</th>
+    <th>豹A</th>
+    <th colspan="2">豹B</th>
+  </tr>
+  <tr>
+    <td><a href="./文件-豹A（心绮楼背景像素绘）.png.md" class="image"><img alt="豹A（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/2/2a/%E8%B1%B9A%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="124" height="60" data-file-width="124" data-file-height="60"></a></td>
+    <td colspan="2"><a href="./文件-豹B（心绮楼背景像素绘）.png.md" class="image"><img alt="豹B（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/f/ff/%E8%B1%B9B%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="153" height="66" data-file-width="153" data-file-height="66"></a></td>
+  </tr>
+  <tr>
+    <th>犬A</th>
+    <th>犬B</th>
+    <th>犬C</th>
+  </tr>
+  <tr>
+    <td><a href="./文件-犬A（心绮楼背景像素绘）.png.md" class="image"><img alt="犬A（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/6/69/%E7%8A%ACA%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="72" height="62" data-file-width="72" data-file-height="62"></a></td>
+    <td><a href="./文件-犬B（心绮楼背景像素绘）.png.md" class="image"><img alt="犬B（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/a/a4/%E7%8A%ACB%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="45" height="60" data-file-width="45" data-file-height="60"></a></td>
+    <td><a href="./文件-犬C（心绮楼背景像素绘）.png.md" class="image"><img alt="犬C（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/f/f7/%E7%8A%ACC%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="70" height="61" data-file-width="70" data-file-height="61"></a></td>
+  </tr>
+  <tr>
+    <th>猫A</th>
+    <th>猫B</th>
+    <th>猫C</th>
+  </tr>
+  <tr>
+    <td><a href="./文件-猫A（心绮楼背景像素绘）.png.md" class="image"><img alt="猫A（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/3/33/%E7%8C%ABA%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="52" height="38" data-file-width="52" data-file-height="38"></a></td>
+    <td><a href="./文件-猫B（心绮楼背景像素绘）.png.md" class="image"><img alt="猫B（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/2/24/%E7%8C%ABB%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="35" height="43" data-file-width="35" data-file-height="43"></a></td>
+    <td><a href="./文件-猫C（心绮楼背景像素绘）.png.md" class="image"><img alt="猫C（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/8/85/%E7%8C%ABC%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="44" height="43" data-file-width="44" data-file-height="43"></a></td>
+  </tr>
+  <tr>
+    <th>浣熊</th>
+    <th>鲸头鹳</th>
+    <th>科莫多巨蜥</th>
+  </tr>
+  <tr>
+    <td><a href="./文件-浣熊（心绮楼背景像素绘）.png.md" class="image"><img alt="浣熊（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/6/6f/%E6%B5%A3%E7%86%8A%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="67" height="51" data-file-width="67" data-file-height="51"></a></td>
+    <td><a href="./文件-鸟A（心绮楼背景像素绘）.png.md" class="image"><img alt="鸟A（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/d/d0/%E9%B8%9FA%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="73" height="89" data-file-width="73" data-file-height="89"></a></td>
+    <td><a href="./文件-蜥蜴A（心绮楼背景像素绘）.png.md" class="image"><img alt="蜥蜴A（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/6/64/%E8%9C%A5%E8%9C%B4A%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="142" height="54" data-file-width="142" data-file-height="54"></a></td>
+  </tr>
+</tbody></table>
+
+
+### 其他
+
+<table>
+  <tbody><tr>
+    <th colspan="3">骷髅（2种）</th>
+  </tr>
+  <tr>
+    <th rowspan="2">像素绘</th>
+    <th>骷髅A</th>
+    <th>骷髅B</th>
+  </tr>
+  <tr>
+    <td><a href="./文件-骷髅A（心绮楼背景像素绘）.png.md" class="image"><img alt="骷髅A（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/f/fc/%E9%AA%B7%E9%AB%85A%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="43" height="51" data-file-width="43" data-file-height="51"></a></td>
+    <td><a href="./文件-骷髅B（心绮楼背景像素绘）.png.md" class="image"><img alt="骷髅B（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/f/ff/%E9%AA%B7%E9%AB%85B%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="45" height="46" data-file-width="45" data-file-height="46"></a></td>
+  </tr>
+</tbody></table>
+
+
+## [妖怪狸森林](./妖怪狸森林.md)
+[](./文件-妖怪狸森林（心绮楼场景）有人物.png.md)  [](./文件-妖怪狸森林（心绮楼场景）有人物.png.md)妖怪狸森林
+
+- 出现的角色都是狸猫变化而成的。
+
+
+<table>
+  <tbody><tr>
+    <th>角色（空中）（8个）</th>
+    <th><a href="./莉格露·奈特巴格.md" title="莉格露·奈特巴格">莉格露·奈特巴格</a></th>
+    <th><a href="./桑尼米尔克.md" title="桑尼米尔克">桑尼米尔克</a></th>
+    <th><a href="./斯塔萨菲雅.md" title="斯塔萨菲雅">斯塔萨菲雅</a></th>
+    <th><a href="./露娜切露德.md" title="露娜切露德">露娜切露德</a></th>
+    <th><a href="./琪露诺.md" title="琪露诺">琪露诺</a></th>
+    <th><a href="./莉莉霍瓦特.md" title="莉莉霍瓦特">莉莉霍瓦特</a></th>
+    <th><a href="./比那名居天子.md" title="比那名居天子">比那名居天子</a></th>
+    <th><a href="./永江衣玖.md" title="永江衣玖">永江衣玖</a></th>
+  </tr>
+  <tr>
+    <th>像素绘</th>
+    <td><a href="./文件-莉格露·奈特巴格（心绮楼背景像素绘）.png.md" class="image"><img alt="莉格露·奈特巴格（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/d/d5/%E8%8E%89%E6%A0%BC%E9%9C%B2%C2%B7%E5%A5%88%E7%89%B9%E5%B7%B4%E6%A0%BC%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="103" height="116" data-file-width="103" data-file-height="116"></a></td>
+    <td><a href="./文件-桑尼米尔克（心绮楼背景像素绘）.png.md" class="image"><img alt="桑尼米尔克（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/9/9f/%E6%A1%91%E5%B0%BC%E7%B1%B3%E5%B0%94%E5%85%8B%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="49" height="92" data-file-width="49" data-file-height="92"></a></td>
+    <td><a href="./文件-斯塔萨菲雅（心绮楼背景像素绘）.png.md" class="image"><img alt="斯塔萨菲雅（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/8/8b/%E6%96%AF%E5%A1%94%E8%90%A8%E8%8F%B2%E9%9B%85%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="46" height="89" data-file-width="46" data-file-height="89"></a></td>
+    <td><a href="./文件-露娜切露德（心绮楼背景像素绘）.png.md" class="image"><img alt="露娜切露德（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/c/cb/%E9%9C%B2%E5%A8%9C%E5%88%87%E9%9C%B2%E5%BE%B7%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="50" height="90" data-file-width="50" data-file-height="90"></a></td>
+    <td><a href="./文件-琪露诺（心绮楼背景像素绘）.png.md" class="image"><img alt="琪露诺（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/4/43/%E7%90%AA%E9%9C%B2%E8%AF%BA%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="95" height="96" data-file-width="95" data-file-height="96"></a></td>
+    <td><a href="./文件-莉莉霍瓦特（心绮楼背景像素绘）.png.md" class="image"><img alt="莉莉霍瓦特（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/1/11/%E8%8E%89%E8%8E%89%E9%9C%8D%E7%93%A6%E7%89%B9%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="89" height="85" data-file-width="89" data-file-height="85"></a></td>
+    <td><a href="./文件-比那名居天子（心绮楼背景像素绘）.png.md" class="image"><img alt="比那名居天子（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/6/67/%E6%AF%94%E9%82%A3%E5%90%8D%E5%B1%85%E5%A4%A9%E5%AD%90%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="77" height="147" data-file-width="77" data-file-height="147"></a></td>
+    <td><a href="./文件-永江衣玖（心绮楼背景像素绘）.png.md" class="image"><img alt="永江衣玖（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/e/ef/%E6%B0%B8%E6%B1%9F%E8%A1%A3%E7%8E%96%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="117" height="165" data-file-width="117" data-file-height="165"></a></td>
+  </tr>
+  <tr>
+    <th>像素绘（动态）</th>
+    <td><a href="./文件-莉格露·奈特巴格（心绮楼背景像素绘）.gif.md" class="image"><img alt="莉格露·奈特巴格（心绮楼背景像素绘）.gif" src="https://upload.thwiki.cc/2/25/%E8%8E%89%E6%A0%BC%E9%9C%B2%C2%B7%E5%A5%88%E7%89%B9%E5%B7%B4%E6%A0%BC%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.gif" decoding="async" loading="lazy" width="103" height="116" data-file-width="103" data-file-height="116"></a></td>
+    <td><a href="./文件-桑尼米尔克（心绮楼背景像素绘）.gif.md" class="image"><img alt="桑尼米尔克（心绮楼背景像素绘）.gif" src="https://upload.thwiki.cc/0/09/%E6%A1%91%E5%B0%BC%E7%B1%B3%E5%B0%94%E5%85%8B%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.gif" decoding="async" loading="lazy" width="49" height="92" data-file-width="49" data-file-height="92"></a></td>
+    <td><a href="./文件-斯塔萨菲雅（心绮楼背景像素绘）.gif.md" class="image"><img alt="斯塔萨菲雅（心绮楼背景像素绘）.gif" src="https://upload.thwiki.cc/1/1b/%E6%96%AF%E5%A1%94%E8%90%A8%E8%8F%B2%E9%9B%85%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.gif" decoding="async" loading="lazy" width="46" height="89" data-file-width="46" data-file-height="89"></a></td>
+    <td><a href="./文件-露娜切露德（心绮楼背景像素绘）.gif.md" class="image"><img alt="露娜切露德（心绮楼背景像素绘）.gif" src="https://upload.thwiki.cc/a/af/%E9%9C%B2%E5%A8%9C%E5%88%87%E9%9C%B2%E5%BE%B7%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.gif" decoding="async" loading="lazy" width="50" height="90" data-file-width="50" data-file-height="90"></a></td>
+    <td><a href="./文件-琪露诺（心绮楼背景像素绘）.gif.md" class="image"><img alt="琪露诺（心绮楼背景像素绘）.gif" src="https://upload.thwiki.cc/d/dd/%E7%90%AA%E9%9C%B2%E8%AF%BA%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.gif" decoding="async" loading="lazy" width="95" height="96" data-file-width="95" data-file-height="96"></a></td>
+    <td><a href="./文件-莉莉霍瓦特（心绮楼背景像素绘）.gif.md" class="image"><img alt="莉莉霍瓦特（心绮楼背景像素绘）.gif" src="https://upload.thwiki.cc/a/a8/%E8%8E%89%E8%8E%89%E9%9C%8D%E7%93%A6%E7%89%B9%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.gif" decoding="async" loading="lazy" width="89" height="85" data-file-width="89" data-file-height="85"></a></td>
+    <td><a href="./文件-比那名居天子（心绮楼背景像素绘）.gif.md" class="image"><img alt="比那名居天子（心绮楼背景像素绘）.gif" src="https://upload.thwiki.cc/e/eb/%E6%AF%94%E9%82%A3%E5%90%8D%E5%B1%85%E5%A4%A9%E5%AD%90%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.gif" decoding="async" loading="lazy" width="77" height="147" data-file-width="77" data-file-height="147"></a></td>
+    <td><a href="./文件-永江衣玖（心绮楼背景像素绘）.gif.md" class="image"><img alt="永江衣玖（心绮楼背景像素绘）.gif" src="https://upload.thwiki.cc/8/8c/%E6%B0%B8%E6%B1%9F%E8%A1%A3%E7%8E%96%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.gif" decoding="async" loading="lazy" width="117" height="165" data-file-width="117" data-file-height="165"></a></td>
+  </tr>
+</tbody></table>
+
+
+
+<table>
+  <tbody><tr>
+    <th>角色（地面）（12个）</th>
+    <th><a href="./多多良小伞.md" title="多多良小伞">多多良小伞</a></th>
+    <th><a href="./寅丸星.md" title="寅丸星">寅丸星</a></th>
+    <th><a href="./火焰猫燐.md" title="火焰猫燐">火焰猫燐</a></th>
+    <th><a href="./秋穰子.md" title="秋穰子">秋穰子</a></th>
+    <th><a href="./秋静叶.md" title="秋静叶">秋静叶</a></th>
+    <th><a href="./灵乌路空.md" title="灵乌路空">灵乌路空</a></th>
+    <th><a href="./水桥帕露西.md" title="水桥帕露西">水桥帕露西</a></th>
+    <th><a href="./幽谷响子.md" title="幽谷响子">幽谷响子</a></th>
+    <th><a href="./古明地觉.md" title="古明地觉">古明地觉</a></th>
+    <th><a href="./东风谷早苗.md" title="东风谷早苗">东风谷早苗</a></th>
+    <th><a href="./洩矢诹访子.md" title="洩矢诹访子">洩矢诹访子</a></th>
+    <th><a href="./键山雏.md" title="键山雏">键山雏</a></th>
+  </tr>
+  <tr>
+    <th>像素绘</th>
+    <td><a href="./文件-多多良小伞（心绮楼背景像素绘）.png.md" class="image"><img alt="多多良小伞（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/7/78/%E5%A4%9A%E5%A4%9A%E8%89%AF%E5%B0%8F%E4%BC%9E%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="216" height="201" data-file-width="216" data-file-height="201"></a></td>
+    <td><a href="./文件-寅丸星（心绮楼背景像素绘）.png.md" class="image"><img alt="寅丸星（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/c/ce/%E5%AF%85%E4%B8%B8%E6%98%9F%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="150" height="177" data-file-width="150" data-file-height="177"></a></td>
+    <td><a href="./文件-火焰猫燐（心绮楼背景像素绘）.png.md" class="image"><img alt="火焰猫燐（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/1/10/%E7%81%AB%E7%84%B0%E7%8C%AB%E7%87%90%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="100" height="123" data-file-width="100" data-file-height="123"></a></td>
+    <td><a href="./文件-秋穰子（心绮楼背景像素绘）.png.md" class="image"><img alt="秋穰子（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/6/6c/%E7%A7%8B%E7%A9%B0%E5%AD%90%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="68" height="128" data-file-width="68" data-file-height="128"></a></td>
+    <td><a href="./文件-秋静叶（心绮楼背景像素绘）.png.md" class="image"><img alt="秋静叶（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/5/54/%E7%A7%8B%E9%9D%99%E5%8F%B6%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="64" height="128" data-file-width="64" data-file-height="128"></a></td>
+    <td><a href="./文件-灵乌路空（心绮楼背景像素绘）.png.md" class="image"><img alt="灵乌路空（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/1/1f/%E7%81%B5%E4%B9%8C%E8%B7%AF%E7%A9%BA%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="153" height="153" data-file-width="153" data-file-height="153"></a></td>
+    <td><a href="./文件-水桥帕露西（心绮楼背景像素绘）.png.md" class="image"><img alt="水桥帕露西（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/8/83/%E6%B0%B4%E6%A1%A5%E5%B8%95%E9%9C%B2%E8%A5%BF%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="69" height="103" data-file-width="69" data-file-height="103"></a></td>
+    <td><a href="./文件-幽谷响子（心绮楼背景像素绘）.png.md" class="image"><img alt="幽谷响子（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/8/87/%E5%B9%BD%E8%B0%B7%E5%93%8D%E5%AD%90%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="121" height="139" data-file-width="121" data-file-height="139"></a></td>
+    <td><a href="./文件-古明地觉（心绮楼背景像素绘）.png.md" class="image"><img alt="古明地觉（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/e/ea/%E5%8F%A4%E6%98%8E%E5%9C%B0%E8%A7%89%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="73" height="128" data-file-width="73" data-file-height="128"></a></td>
+    <td><a href="./文件-东风谷早苗（心绮楼背景像素绘）.png.md" class="image"><img alt="东风谷早苗（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/0/0e/%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="105" height="149" data-file-width="105" data-file-height="149"></a></td>
+    <td><a href="./文件-洩矢诹访子（心绮楼背景像素绘）.png.md" class="image"><img alt="洩矢诹访子（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/c/c6/%E6%B4%A9%E7%9F%A2%E8%AF%B9%E8%AE%BF%E5%AD%90%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="71" height="113" data-file-width="71" data-file-height="113"></a></td>
+    <td><a href="./文件-键山雏（心绮楼背景像素绘）.png.md" class="image"><img alt="键山雏（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/8/8a/%E9%94%AE%E5%B1%B1%E9%9B%8F%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="62" height="128" data-file-width="62" data-file-height="128"></a></td>
+  </tr>
+  <tr>
+    <th>像素绘（动态）</th>
+    <td><a href="./文件-多多良小伞（心绮楼背景像素绘）.gif.md" class="image"><img alt="多多良小伞（心绮楼背景像素绘）.gif" src="https://upload.thwiki.cc/3/3e/%E5%A4%9A%E5%A4%9A%E8%89%AF%E5%B0%8F%E4%BC%9E%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.gif" decoding="async" loading="lazy" width="216" height="201" data-file-width="216" data-file-height="201"></a></td>
+    <td><a href="./文件-寅丸星（心绮楼背景像素绘）.gif.md" class="image"><img alt="寅丸星（心绮楼背景像素绘）.gif" src="https://upload.thwiki.cc/4/48/%E5%AF%85%E4%B8%B8%E6%98%9F%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.gif" decoding="async" loading="lazy" width="150" height="177" data-file-width="150" data-file-height="177"></a></td>
+    <td><a href="./文件-火焰猫燐（心绮楼背景像素绘）.gif.md" class="image"><img alt="火焰猫燐（心绮楼背景像素绘）.gif" src="https://upload.thwiki.cc/e/e3/%E7%81%AB%E7%84%B0%E7%8C%AB%E7%87%90%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.gif" decoding="async" loading="lazy" width="100" height="123" data-file-width="100" data-file-height="123"></a></td>
+    <td><a href="./文件-秋穰子（心绮楼背景像素绘）.gif.md" class="image"><img alt="秋穰子（心绮楼背景像素绘）.gif" src="https://upload.thwiki.cc/d/d6/%E7%A7%8B%E7%A9%B0%E5%AD%90%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.gif" decoding="async" loading="lazy" width="68" height="128" data-file-width="68" data-file-height="128"></a></td>
+    <td><a href="./文件-秋静叶（心绮楼背景像素绘）.gif.md" class="image"><img alt="秋静叶（心绮楼背景像素绘）.gif" src="https://upload.thwiki.cc/6/6b/%E7%A7%8B%E9%9D%99%E5%8F%B6%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.gif" decoding="async" loading="lazy" width="64" height="128" data-file-width="64" data-file-height="128"></a></td>
+    <td><a href="./文件-灵乌路空（心绮楼背景像素绘）.gif.md" class="image"><img alt="灵乌路空（心绮楼背景像素绘）.gif" src="https://upload.thwiki.cc/a/af/%E7%81%B5%E4%B9%8C%E8%B7%AF%E7%A9%BA%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.gif" decoding="async" loading="lazy" width="153" height="153" data-file-width="153" data-file-height="153"></a></td>
+    <td>无</td>
+    <td><a href="./文件-幽谷响子（心绮楼背景像素绘）.gif.md" class="image"><img alt="幽谷响子（心绮楼背景像素绘）.gif" src="https://upload.thwiki.cc/e/ee/%E5%B9%BD%E8%B0%B7%E5%93%8D%E5%AD%90%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.gif" decoding="async" loading="lazy" width="121" height="139" data-file-width="121" data-file-height="139"></a></td>
+    <td><a href="./文件-古明地觉（心绮楼背景像素绘）.gif.md" class="image"><img alt="古明地觉（心绮楼背景像素绘）.gif" src="https://upload.thwiki.cc/5/51/%E5%8F%A4%E6%98%8E%E5%9C%B0%E8%A7%89%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.gif" decoding="async" loading="lazy" width="73" height="128" data-file-width="73" data-file-height="128"></a></td>
+    <td><a href="./文件-东风谷早苗（心绮楼背景像素绘）.gif.md" class="image"><img alt="东风谷早苗（心绮楼背景像素绘）.gif" src="https://upload.thwiki.cc/6/65/%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.gif" decoding="async" loading="lazy" width="105" height="149" data-file-width="105" data-file-height="149"></a></td>
+    <td><a href="./文件-洩矢诹访子（心绮楼背景像素绘）.gif.md" class="image"><img alt="洩矢诹访子（心绮楼背景像素绘）.gif" src="https://upload.thwiki.cc/c/c3/%E6%B4%A9%E7%9F%A2%E8%AF%B9%E8%AE%BF%E5%AD%90%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.gif" decoding="async" loading="lazy" width="71" height="113" data-file-width="71" data-file-height="113"></a></td>
+    <td><a href="./文件-键山雏（心绮楼背景像素绘）.gif.md" class="image"><img alt="键山雏（心绮楼背景像素绘）.gif" src="https://upload.thwiki.cc/7/7a/%E9%94%AE%E5%B1%B1%E9%9B%8F%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.gif" decoding="async" loading="lazy" width="62" height="128" data-file-width="62" data-file-height="128"></a></td>
+  </tr>
+</tbody></table>
+
+
+## [妖怪狸森林](./妖怪狸森林.md)（夜）
+[](./文件-妖怪狸森林（心绮楼场景）有人物_夜.png.md)  [](./文件-妖怪狸森林（心绮楼场景）有人物_夜.png.md)妖怪狸森林（夜）
+
+- 这里出现的20只狸猫对应白天的妖怪狸森林的20个角色。
+
+
+<table>
+  <tbody><tr>
+    <th colspan="6">狸猫（20只）</th>
+  </tr>
+  <tr>
+    <th rowspan="8">像素绘</th>
+    <th>狸A</th>
+    <th>狸B</th>
+    <th>狸C</th>
+    <th>狸D</th>
+    <th>狸E</th>
+  </tr>
+  <tr>
+    <td><a href="./文件-狸A（心绮楼背景像素绘）.png.md" class="image"><img alt="狸A（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/e/ec/%E7%8B%B8A%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="79" height="71" data-file-width="79" data-file-height="71"></a></td>
+    <td><a href="./文件-狸B（心绮楼背景像素绘）.png.md" class="image"><img alt="狸B（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/5/55/%E7%8B%B8B%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="67" height="69" data-file-width="67" data-file-height="69"></a></td>
+    <td><a href="./文件-狸C（心绮楼背景像素绘）.png.md" class="image"><img alt="狸C（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/e/e7/%E7%8B%B8C%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="70" height="59" data-file-width="70" data-file-height="59"></a></td>
+    <td><a href="./文件-狸D（心绮楼背景像素绘）.png.md" class="image"><img alt="狸D（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/e/ed/%E7%8B%B8D%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="70" height="67" data-file-width="70" data-file-height="67"></a></td>
+    <td><a href="./文件-狸E（心绮楼背景像素绘）.png.md" class="image"><img alt="狸E（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/b/b8/%E7%8B%B8E%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="62" height="55" data-file-width="62" data-file-height="55"></a></td>
+  </tr>
+  <tr>
+    <th>狸F</th>
+    <th>狸G</th>
+    <th>狸H</th>
+    <th>狸I</th>
+    <th>狸J</th>
+  </tr>
+  <tr>
+    <td><a href="./文件-狸F（心绮楼背景像素绘）.png.md" class="image"><img alt="狸F（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/7/7d/%E7%8B%B8F%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="54" height="52" data-file-width="54" data-file-height="52"></a></td>
+    <td><a href="./文件-狸G（心绮楼背景像素绘）.png.md" class="image"><img alt="狸G（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/e/e1/%E7%8B%B8G%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="83" height="77" data-file-width="83" data-file-height="77"></a></td>
+    <td><a href="./文件-狸H（心绮楼背景像素绘）.png.md" class="image"><img alt="狸H（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/b/b9/%E7%8B%B8H%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="77" height="74" data-file-width="77" data-file-height="74"></a></td>
+    <td><a href="./文件-狸I（心绮楼背景像素绘）.png.md" class="image"><img alt="狸I（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/b/b3/%E7%8B%B8I%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="85" height="82" data-file-width="85" data-file-height="82"></a></td>
+    <td><a href="./文件-狸J（心绮楼背景像素绘）.png.md" class="image"><img alt="狸J（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/8/8f/%E7%8B%B8J%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="72" height="57" data-file-width="72" data-file-height="57"></a></td>
+  </tr>
+  <tr>
+    <th>狸K</th>
+    <th>狸L</th>
+    <th>狸M</th>
+    <th>狸N</th>
+    <th>狸O</th>
+  </tr>
+  <tr>
+    <td><a href="./文件-狸K（心绮楼背景像素绘）.png.md" class="image"><img alt="狸K（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/3/3d/%E7%8B%B8K%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="83" height="67" data-file-width="83" data-file-height="67"></a></td>
+    <td><a href="./文件-狸L（心绮楼背景像素绘）.png.md" class="image"><img alt="狸L（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/4/4d/%E7%8B%B8L%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="64" height="53" data-file-width="64" data-file-height="53"></a></td>
+    <td><a href="./文件-狸M（心绮楼背景像素绘）.png.md" class="image"><img alt="狸M（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/f/fc/%E7%8B%B8M%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="80" height="39" data-file-width="80" data-file-height="39"></a></td>
+    <td><a href="./文件-狸N（心绮楼背景像素绘）.png.md" class="image"><img alt="狸N（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/3/31/%E7%8B%B8N%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="84" height="48" data-file-width="84" data-file-height="48"></a></td>
+    <td><a href="./文件-狸O（心绮楼背景像素绘）.png.md" class="image"><img alt="狸O（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/a/ad/%E7%8B%B8O%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="62" height="47" data-file-width="62" data-file-height="47"></a></td>
+  </tr>
+  <tr>
+    <th>狸P</th>
+    <th>狸Q</th>
+    <th>狸R</th>
+    <th>狸S</th>
+    <th>狸T</th>
+  </tr>
+  <tr>
+    <td><a href="./文件-狸P（心绮楼背景像素绘）.png.md" class="image"><img alt="狸P（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/1/12/%E7%8B%B8P%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="70" height="52" data-file-width="70" data-file-height="52"></a></td>
+    <td><a href="./文件-狸Q（心绮楼背景像素绘）.png.md" class="image"><img alt="狸Q（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/9/9d/%E7%8B%B8Q%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="62" height="48" data-file-width="62" data-file-height="48"></a></td>
+    <td><a href="./文件-狸R（心绮楼背景像素绘）.png.md" class="image"><img alt="狸R（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/c/ce/%E7%8B%B8R%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="72" height="49" data-file-width="72" data-file-height="49"></a></td>
+    <td><a href="./文件-狸S（心绮楼背景像素绘）.png.md" class="image"><img alt="狸S（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/a/ac/%E7%8B%B8S%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="64" height="50" data-file-width="64" data-file-height="50"></a></td>
+    <td><a href="./文件-狸T（心绮楼背景像素绘）.png.md" class="image"><img alt="狸T（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/1/19/%E7%8B%B8T%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="54" height="51" data-file-width="54" data-file-height="51"></a></td>
+  </tr>
+</tbody></table>
+
+
+## [人类村落](./人类村落.md)（夜）
+[](./文件-人类村落（心绮楼场景）有人物_夜.png.md)  [](./文件-人类村落（心绮楼场景）有人物_夜.png.md)人类村落（夜）
+
+
+<table>
+  <tbody><tr>
+    <th colspan="5">村民（面具）（11人）</th>
+  </tr>
+  <tr>
+    <th rowspan="6">像素绘</th>
+    <th>村民A（面具）</th>
+    <th>村民B（面具）</th>
+    <th>村民C（面具）</th>
+    <th>村民D（面具）</th>
+  </tr>
+  <tr>
+    <td><a href="./文件-村民A（面具）（心绮楼背景像素绘）.png.md" class="image"><img alt="村民A（面具）（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/e/eb/%E6%9D%91%E6%B0%91A%EF%BC%88%E9%9D%A2%E5%85%B7%EF%BC%89%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="34" height="73" data-file-width="34" data-file-height="73"></a></td>
+    <td><a href="./文件-村民B（面具）（心绮楼背景像素绘）.png.md" class="image"><img alt="村民B（面具）（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/2/24/%E6%9D%91%E6%B0%91B%EF%BC%88%E9%9D%A2%E5%85%B7%EF%BC%89%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="56" height="124" data-file-width="56" data-file-height="124"></a></td>
+    <td><a href="./文件-村民C（面具）（心绮楼背景像素绘）.png.md" class="image"><img alt="村民C（面具）（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/e/e5/%E6%9D%91%E6%B0%91C%EF%BC%88%E9%9D%A2%E5%85%B7%EF%BC%89%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="74" height="127" data-file-width="74" data-file-height="127"></a></td>
+    <td><a href="./文件-村民D（面具）（心绮楼背景像素绘）.png.md" class="image"><img alt="村民D（面具）（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/e/e6/%E6%9D%91%E6%B0%91D%EF%BC%88%E9%9D%A2%E5%85%B7%EF%BC%89%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="84" height="122" data-file-width="84" data-file-height="122"></a></td>
+  </tr>
+  <tr>
+    <th>村民E（面具）</th>
+    <th>村民F（面具）</th>
+    <th>村民G（面具）</th>
+    <th>村民H（面具）</th>
+  </tr>
+  <tr>
+    <td><a href="./文件-村民E（面具）（心绮楼背景像素绘）.png.md" class="image"><img alt="村民E（面具）（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/9/91/%E6%9D%91%E6%B0%91E%EF%BC%88%E9%9D%A2%E5%85%B7%EF%BC%89%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="69" height="123" data-file-width="69" data-file-height="123"></a></td>
+    <td><a href="./文件-村民F（面具）（心绮楼背景像素绘）.png.md" class="image"><img alt="村民F（面具）（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/7/76/%E6%9D%91%E6%B0%91F%EF%BC%88%E9%9D%A2%E5%85%B7%EF%BC%89%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="87" height="150" data-file-width="87" data-file-height="150"></a></td>
+    <td><a href="./文件-村民G（面具）（心绮楼背景像素绘）.png.md" class="image"><img alt="村民G（面具）（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/f/fb/%E6%9D%91%E6%B0%91G%EF%BC%88%E9%9D%A2%E5%85%B7%EF%BC%89%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="69" height="123" data-file-width="69" data-file-height="123"></a></td>
+    <td><a href="./文件-村民H（面具）（心绮楼背景像素绘）.png.md" class="image"><img alt="村民H（面具）（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/d/df/%E6%9D%91%E6%B0%91H%EF%BC%88%E9%9D%A2%E5%85%B7%EF%BC%89%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="70" height="110" data-file-width="70" data-file-height="110"></a></td>
+  </tr>
+  <tr>
+    <th>村民I（面具）</th>
+    <th>村民J（面具）</th>
+    <th>村民K（面具）</th>
+  </tr>
+  <tr>
+    <td><a href="./文件-村民I（面具）（心绮楼背景像素绘）.png.md" class="image"><img alt="村民I（面具）（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/6/63/%E6%9D%91%E6%B0%91I%EF%BC%88%E9%9D%A2%E5%85%B7%EF%BC%89%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="63" height="96" data-file-width="63" data-file-height="96"></a></td>
+    <td><a href="./文件-村民J（面具）（心绮楼背景像素绘）.png.md" class="image"><img alt="村民J（面具）（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/e/e5/%E6%9D%91%E6%B0%91J%EF%BC%88%E9%9D%A2%E5%85%B7%EF%BC%89%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="91" height="123" data-file-width="91" data-file-height="123"></a></td>
+    <td><a href="./文件-村民K（面具）（心绮楼背景像素绘）.png.md" class="image"><img alt="村民K（面具）（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/d/df/%E6%9D%91%E6%B0%91K%EF%BC%88%E9%9D%A2%E5%85%B7%EF%BC%89%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="59" height="117" data-file-width="59" data-file-height="117"></a></td>
+  </tr>
+</tbody></table>
+
+
+
+[^cite_note-yousei-1]: 妖精女仆A/B：游戏数据包中，贴图的命名为youseiA(B)000X(编号).png（yousei为妖精的日语读音）
+
+
+
+
+
+---
+
+此文档由 [THBWiki-Markdown-Builder](https://github.com/Delsin-Yu/THBWiki-Markdown-Builder) 构建。
+
+文档中的所有内容除特殊注明外，均在 [**知识共享(Creative Commons) 署名-非商业性使用-相同方式共享 3.0 协议**](https://creativecommons.org/licenses/by-sa/3.0/deed.zh-hans) 下提供，附加条款亦可能应用。
+
+引用类型与其他类型作品版权归原作者所有，如有作者授权则遵照授权协议使用。
+
+详细请查阅 [THBWiki：免责声明](https://thbwiki.cc/THBWiki:%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E)。
+

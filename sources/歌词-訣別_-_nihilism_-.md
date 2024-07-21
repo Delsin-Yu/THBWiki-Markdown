@@ -1,0 +1,35 @@
+# 歌词:訣別_-_nihilism_-
+
+<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\3\36\ns512%3A%E8%A8%A3%E5%88%A5_-_nihilism_-.html -->
+
+使用了翻译表的页面 | 日文歌词 | 有翻译的歌词 | 歌词 | 流派未月亭
+
+
+<table><tbody><tr><th colspan="2">曲目信息</th></tr><tr><td colspan="2" style="padding-left: 1em;"><div class="floatright"><a href="./文件-月読-blue_moon-封面.jpg.md" class="image" title="月読-blue moon-"><img alt="月読-blue moon-" src="https://upload.thwiki.cc/thumb/3/31/%E6%9C%88%E8%AA%AD-blue_moon-%E5%B0%81%E9%9D%A2.jpg/200px-%E6%9C%88%E8%AA%AD-blue_moon-%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="200" height="197" srcset="https://upload.thwiki.cc/thumb/3/31/%E6%9C%88%E8%AA%AD-blue_moon-%E5%B0%81%E9%9D%A2.jpg/300px-%E6%9C%88%E8%AA%AD-blue_moon-%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/3/31/%E6%9C%88%E8%AA%AD-blue_moon-%E5%B0%81%E9%9D%A2.jpg/400px-%E6%9C%88%E8%AA%AD-blue_moon-%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="450" data-file-height="443"></a></div><b><a href="/%E6%9C%88%E8%AA%AD-blue_moon-#4" title="月読-blue moon-">訣別 - nihilism -</a></b> &#91;04:18&#93;<dl><dd><a href="./月読-blue_moon-.md" title="月読-blue moon-">月読-blue moon-</a> （2015-05-10）<br>社团：<a href="./流派未月亭.md" title="流派未月亭">流派未月亭</a><br>编曲：<a href="./漉餡.md" title="漉餡">漉餡</a><br>演唱：<a href="/index.php?title=Laco.&amp;action=edit&amp;redlink=1" class="new" title="Laco.（页面不存在）">Laco.</a><br>作词：<a href="/index.php?title=%E9%B7%B9%E9%87%8E%E5%8F%8B%E7%B4%80&amp;action=edit&amp;redlink=1" class="new" title="鷹野友紀（页面不存在）">鷹野友紀</a><br>原曲：<a href="./千年幻想乡_～_History_of_the_Moon.md" title="千年幻想乡 ～ History of the Moon" unred="">千年幻想郷　～ History of the Moon</a><br></dd></dl></td></tr></tbody></table>
+
+- 歌词语言：日文- 歌词翻译：[穣静葉](https://music.163.com/user/home?id=45379341)@网易云音乐 （中文）
+
+  
+  
+
+  
+
+
+<table><tbody><tr class="tt-lyrics-header" id="=-1" data-pos="&#91;&quot;=&quot;,1&#93;"><td class="tt-lyrics" lang="zh"><div class="poem"></div></td><td class="tt-mainh" lang="zh"><div class="poem"></div></td><td class="tt-tranh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-main-ja" id="=-2" data-pos="&#91;&quot;=&quot;,2&#93;"><td class="tt-time" lang="zh"><div class="poem">00:05.53</div></td><td class="tt-ja" lang="ja"><div class="poem">全ては偽りの　生きる意味なくした</div></td><td class="tt-zh" lang="zh"><div class="poem">一切尽为虚伪 生存的意义早已不再<br></div></td></tr><tr class="tt-main-ja" id="=-3" data-pos="&#91;&quot;=&quot;,3&#93;"><td class="tt-time" lang="zh"><div class="poem">00:17.44</div></td><td class="tt-ja" lang="ja"><div class="poem">それでも生きてみるかと　聞かれた気がした</div></td><td class="tt-zh" lang="zh"><div class="poem">刹那间 却隐约有人对我诉说道 活下去吧<br></div></td></tr><tr class="tt-lyrics-sep" id="=-4" data-pos="&#91;&quot;=&quot;,4&#93;"><td class="tt-sep" lang="zh"><div class="poem">00:50.30<br></div></td><td class="tt-text" lang="zh"><div class="poem"></div></td><td class="tt-tran" lang="zh"><div class="poem"></div></td></tr><tr class="tt-main-ja" id="=-5" data-pos="&#91;&quot;=&quot;,5&#93;"><td class="tt-time" lang="zh"><div class="poem">00:54.17</div></td><td class="tt-ja" lang="ja"><div class="poem">けれどもこの身は　永遠に逃げた哀れで</div></td><td class="tt-zh" lang="zh"><div class="poem">只是这副身躯 背负着叛离永恒的伤痛<br></div></td></tr><tr class="tt-main-ja" id="=-6" data-pos="&#91;&quot;=&quot;,6&#93;"><td class="tt-time" lang="zh"><div class="poem">01:06.22</div></td><td class="tt-ja" lang="ja"><div class="poem">愚かな咎人　その全てが　絵空事</div></td><td class="tt-zh" lang="zh"><div class="poem">愚妄的罪人呵 眼前一切 不过镜花水月<br></div></td></tr><tr class="tt-main-ja" id="=-7" data-pos="&#91;&quot;=&quot;,7&#93;"><td class="tt-time" lang="zh"><div class="poem">01:19.67</div></td><td class="tt-ja" lang="ja"><div class="poem">見下ろす月の　灯りに照らされて</div></td><td class="tt-zh" lang="zh"><div class="poem">俯身垂眉 皎洁月下 怡然自若<br></div></td></tr><tr class="tt-main-ja" id="=-8" data-pos="&#91;&quot;=&quot;,8&#93;"><td class="tt-time" lang="zh"><div class="poem">01:30.17</div></td><td class="tt-ja" lang="ja"><div class="poem">笑われて　謗られて　この空に溺れ墜ちるこの身よ</div></td><td class="tt-zh" lang="zh"><div class="poem">冷嘲热讽 流言蜚语 继而自九天沉沦的这副身躯呵<br></div></td></tr><tr class="tt-main-ja" id="=-9" data-pos="&#91;&quot;=&quot;,9&#93;"><td class="tt-time" lang="zh"><div class="poem">01:44.43</div></td><td class="tt-ja" lang="ja"><div class="poem">果てなく流れる時の砂　それは紅き雫　君の涙</div></td><td class="tt-zh" lang="zh"><div class="poem">时光之沙 奔流不息 那朱红的雨点 正是你的泪花<br></div></td></tr><tr class="tt-main-ja" id="=-10" data-pos="&#91;&quot;=&quot;,10&#93;"><td class="tt-time" lang="zh"><div class="poem">02:02.40</div></td><td class="tt-ja" lang="ja"><div class="poem">でも　もう遅い</div></td><td class="tt-zh" lang="zh"><div class="poem">悲然怆然 为时已晚<br></div></td></tr><tr class="tt-main-ja" id="=-11" data-pos="&#91;&quot;=&quot;,11&#93;"><td class="tt-time" lang="zh"><div class="poem">02:08.47</div></td><td class="tt-ja" lang="ja"><div class="poem">時の流れは　戻らぬ理</div></td><td class="tt-zh" lang="zh"><div class="poem">岁月流转 无可悔返<br></div></td></tr><tr class="tt-main-ja" id="=-12" data-pos="&#91;&quot;=&quot;,12&#93;"><td class="tt-time" lang="zh"><div class="poem">02:20.40</div></td><td class="tt-ja" lang="ja"><div class="poem">ならば永遠を歌うよ　君の御為に</div></td><td class="tt-zh" lang="zh"><div class="poem">既然如此 不妨为你献上 永恒的歌谣<br></div></td></tr><tr class="tt-main-ja" id="=-13" data-pos="&#91;&quot;=&quot;,13&#93;"><td class="tt-time" lang="zh"><div class="poem">02:59.48</div></td><td class="tt-ja" lang="ja"><div class="poem">愛おしき　月の灯り</div></td><td class="tt-zh" lang="zh"><div class="poem">触景生怜 月光如沐<br></div></td></tr><tr class="tt-main-ja" id="=-14" data-pos="&#91;&quot;=&quot;,14&#93;"><td class="tt-time" lang="zh"><div class="poem">03:07.21</div></td><td class="tt-ja" lang="ja"><div class="poem">二度とは戻れぬ　この身だからこそ</div></td><td class="tt-zh" lang="zh"><div class="poem">正因此身 长绝故土<br></div></td></tr><tr class="tt-main-ja" id="=-15" data-pos="&#91;&quot;=&quot;,15&#93;"><td class="tt-time" lang="zh"><div class="poem">03:17.38</div></td><td class="tt-ja" lang="ja"><div class="poem">愛しき君を　守りたい</div></td><td class="tt-zh" lang="zh"><div class="poem">我会誓死守护 深爱的你<br></div></td></tr><tr class="tt-main-ja" id="=-16" data-pos="&#91;&quot;=&quot;,16&#93;"><td class="tt-time" lang="zh"><div class="poem">03:26.31</div></td><td class="tt-ja" lang="ja"><div class="poem">ずっと最後のときまで</div></td><td class="tt-zh" lang="zh"><div class="poem">直到 终末的一刻来临<br></div></td></tr><tr class="tt-main-ja" id="=-17" data-pos="&#91;&quot;=&quot;,17&#93;"><td class="tt-time" lang="zh"><div class="poem">03:35.40</div></td><td class="tt-ja" lang="ja"><div class="poem">愛しき君の　瞳が閉じられる　それまで</div></td><td class="tt-zh" lang="zh"><div class="poem">我的爱人呵 直到你的眼眸 再也不会为我闪耀</div></td></tr></tbody></table>
+
+
+
+
+
+
+
+---
+
+此文档由 [THBWiki-Markdown-Builder](https://github.com/Delsin-Yu/THBWiki-Markdown-Builder) 构建。
+
+文档中的所有内容除特殊注明外，均在 [**知识共享(Creative Commons) 署名-非商业性使用-相同方式共享 3.0 协议**](https://creativecommons.org/licenses/by-sa/3.0/deed.zh-hans) 下提供，附加条款亦可能应用。
+
+引用类型与其他类型作品版权归原作者所有，如有作者授权则遵照授权协议使用。
+
+详细请查阅 [THBWiki：免责声明](https://thbwiki.cc/THBWiki:%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E)。
+

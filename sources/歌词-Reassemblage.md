@@ -1,0 +1,35 @@
+# 歌词:Reassemblage
+
+<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\c3\ns512%3AReassemblage.html -->
+
+Alstroemeria_Records | DiGiTAL_WiNG | 使用了翻译表的页面 | 日文歌词 | 有翻译的歌词 | 歌词
+
+
+<table><tbody><tr><th colspan="2">曲目信息</th></tr><tr><td colspan="2" style="padding-left: 1em;"><div class="floatright"><a href="./文件-POP｜CULTURE_9封面.jpg.md" class="image" title="POP｜CULTURE 9"><img alt="POP｜CULTURE 9" src="https://upload.thwiki.cc/thumb/f/f3/POP%EF%BD%9CCULTURE_9%E5%B0%81%E9%9D%A2.jpg/200px-POP%EF%BD%9CCULTURE_9%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="200" height="200" srcset="https://upload.thwiki.cc/thumb/f/f3/POP%EF%BD%9CCULTURE_9%E5%B0%81%E9%9D%A2.jpg/300px-POP%EF%BD%9CCULTURE_9%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/f/f3/POP%EF%BD%9CCULTURE_9%E5%B0%81%E9%9D%A2.jpg/400px-POP%EF%BD%9CCULTURE_9%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1760" data-file-height="1760"></a></div><b><a href="/POP%EF%BD%9CCULTURE_9#2" title="POP｜CULTURE 9">Reassemblage</a></b> &#91;03:48&#93;<dl><dd><a href="./POP｜CULTURE_9.md" title="POP｜CULTURE 9">POP｜CULTURE 9</a> （2018-08-10）<br>社团：<a href="./Alstroemeria_Records.md" title="Alstroemeria Records">Alstroemeria Records</a><br>编曲：<a href="/index.php?title=Polyphonix&amp;action=edit&amp;redlink=1" class="new" title="Polyphonix（页面不存在）">Polyphonix</a><br>演唱：<a href="./ayame.md" title="ayame">ayame</a><br>作词：<a href="./ayame.md" title="ayame">ayame</a><br>原曲：<a href="./法界之火.md" title="法界之火" unred="">法界の火</a><br></dd></dl></td></tr><tr><th colspan="2" class="mw-customtoggle-othervers-2">其他版本（点击展开/隐藏）</th></tr><tr class="mw-collapsible mw-collapsed" id="mw-customcollapsible-othervers-2"><td style="width: 44px;"><div class="center"><div class="floatnone"><a href="./文件-NONSTOP_INTERCEPT_phase_two封面.jpg.md" class="image" title="NONSTOP INTERCEPT phase two"><img alt="NONSTOP INTERCEPT phase two" src="https://upload.thwiki.cc/thumb/5/54/NONSTOP_INTERCEPT_phase_two%E5%B0%81%E9%9D%A2.jpg/40px-NONSTOP_INTERCEPT_phase_two%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="40" height="40" srcset="https://upload.thwiki.cc/thumb/5/54/NONSTOP_INTERCEPT_phase_two%E5%B0%81%E9%9D%A2.jpg/60px-NONSTOP_INTERCEPT_phase_two%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/5/54/NONSTOP_INTERCEPT_phase_two%E5%B0%81%E9%9D%A2.jpg/80px-NONSTOP_INTERCEPT_phase_two%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="450" data-file-height="450"></a></div></div></td><td style="padding-left: 1em;"><b><a href="/NONSTOP_INTERCEPT_phase_two#16" title="NONSTOP INTERCEPT phase two">Reassemblage</a></b> &#91;01:47&#93;<dl><dd><a href="./NONSTOP_INTERCEPT_phase_two.md" title="NONSTOP INTERCEPT phase two">NONSTOP INTERCEPT phase two</a> （2019-10-06）<br>社团：<a href="./DiGiTAL_WiNG.md" title="DiGiTAL WiNG">DiGiTAL WiNG</a><br></dd></dl></td></tr></tbody></table>
+
+- 歌词语言：日文- 歌词翻译：司总田冲 （中文）
+
+  
+  
+
+  
+
+
+<table><tbody><tr class="tt-lyrics-header" id="=-1" data-pos="&#91;&quot;=&quot;,1&#93;"><td class="tt-lyrics" lang="zh"><div class="poem"></div></td><td class="tt-mainh" lang="zh"><div class="poem"></div></td><td class="tt-tranh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-main-ja" id="=-2" data-pos="&#91;&quot;=&quot;,2&#93;"><td class="tt-time" lang="zh"><div class="poem">00:39.151</div></td><td class="tt-ja" lang="ja"><div class="poem">交わった運命 まるで</div></td><td class="tt-zh" lang="zh"><div class="poem">交错的命运 就像是<br></div></td></tr><tr class="tt-main-ja" id="=-3" data-pos="&#91;&quot;=&quot;,3&#93;"><td class="tt-time" lang="zh"><div class="poem">00:44.577</div></td><td class="tt-ja" lang="ja"><div class="poem">永遠に空けない夜 夢みたい</div></td><td class="tt-zh" lang="zh"><div class="poem">永不天明的夜晚 如梦似幻<br></div></td></tr><tr class="tt-main-ja" id="=-4" data-pos="&#91;&quot;=&quot;,4&#93;"><td class="tt-time" lang="zh"><div class="poem">00:51.259</div></td><td class="tt-ja" lang="ja"><div class="poem">君は踊るステージの上で</div></td><td class="tt-zh" lang="zh"><div class="poem">起舞于舞台之上的你<br></div></td></tr><tr class="tt-main-ja" id="=-5" data-pos="&#91;&quot;=&quot;,5&#93;"><td class="tt-time" lang="zh"><div class="poem">00:57.808</div></td><td class="tt-ja" lang="ja"><div class="poem">息を呑むように舞う 目が難せない</div></td><td class="tt-zh" lang="zh"><div class="poem">震撼令人窒息的舞蹈 让我难以移开视线<br></div></td></tr><tr class="tt-main-ja" id="=-6" data-pos="&#91;&quot;=&quot;,6&#93;"><td class="tt-time" lang="zh"><div class="poem">01:55.987</div></td><td class="tt-ja" lang="ja"><div class="poem">揺れる奥底の焔</div></td><td class="tt-zh" lang="zh"><div class="poem">飘忽不定的心之火<br></div></td></tr><tr class="tt-main-ja" id="=-7" data-pos="&#91;&quot;=&quot;,7&#93;"><td class="tt-time" lang="zh"><div class="poem">02:02.162</div></td><td class="tt-ja" lang="ja"><div class="poem">誰も寄せ付けない 未来予想図</div></td><td class="tt-zh" lang="zh"><div class="poem">不寄托给任何人 只属于我的 未来预想图<br></div></td></tr><tr class="tt-main-ja" id="=-8" data-pos="&#91;&quot;=&quot;,8&#93;"><td class="tt-time" lang="zh"><div class="poem">02:08.114</div></td><td class="tt-ja" lang="ja"><div class="poem">僕のこの手で何を掴むか</div></td><td class="tt-zh" lang="zh"><div class="poem">我这双手能抓住什么呢<br></div></td></tr><tr class="tt-main-ja" id="=-9" data-pos="&#91;&quot;=&quot;,9&#93;"><td class="tt-time" lang="zh"><div class="poem">02:14.560</div></td><td class="tt-ja" lang="ja"><div class="poem">それはまだ分からない 期待して待て</div></td><td class="tt-zh" lang="zh"><div class="poem">如今还不知道 但我会满怀希望的等待着<br></div></td></tr><tr class="tt-main-ja" id="=-10" data-pos="&#91;&quot;=&quot;,10&#93;"><td class="tt-time" lang="zh"><div class="poem">02:33.783</div></td><td class="tt-ja" lang="ja"><div class="poem">君は踊るステージの上で</div></td><td class="tt-zh" lang="zh"><div class="poem">你于舞台上绽放<br></div></td></tr><tr class="tt-main-ja" id="=-11" data-pos="&#91;&quot;=&quot;,11&#93;"><td class="tt-time" lang="zh"><div class="poem">02:40.152</div></td><td class="tt-ja" lang="ja"><div class="poem">息を呑むように舞う 目が難せない</div></td><td class="tt-zh" lang="zh"><div class="poem">震撼令人窒息的舞蹈 让我难以移开视线<br></div></td></tr><tr class="tt-main-ja" id="=-12" data-pos="&#91;&quot;=&quot;,12&#93;"><td class="tt-time" lang="zh"><div class="poem">02:59.335</div></td><td class="tt-ja" lang="ja"><div class="poem">僕のこの手で何を掴むか</div></td><td class="tt-zh" lang="zh"><div class="poem">我这双手能抓住什么呢<br></div></td></tr><tr class="tt-main-ja" id="=-13" data-pos="&#91;&quot;=&quot;,13&#93;"><td class="tt-time" lang="zh"><div class="poem">03:05.765</div></td><td class="tt-ja" lang="ja"><div class="poem">それはまだ分からない 期待して待て</div></td><td class="tt-zh" lang="zh"><div class="poem">如今还不知道 但我会满怀希望的等待着</div></td></tr></tbody></table>
+
+
+
+
+
+
+
+---
+
+此文档由 [THBWiki-Markdown-Builder](https://github.com/Delsin-Yu/THBWiki-Markdown-Builder) 构建。
+
+文档中的所有内容除特殊注明外，均在 [**知识共享(Creative Commons) 署名-非商业性使用-相同方式共享 3.0 协议**](https://creativecommons.org/licenses/by-sa/3.0/deed.zh-hans) 下提供，附加条款亦可能应用。
+
+引用类型与其他类型作品版权归原作者所有，如有作者授权则遵照授权协议使用。
+
+详细请查阅 [THBWiki：免责声明](https://thbwiki.cc/THBWiki:%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E)。
+

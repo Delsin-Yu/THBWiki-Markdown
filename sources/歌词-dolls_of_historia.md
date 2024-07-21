@@ -1,0 +1,35 @@
+# 歌词:dolls_of_historia
+
+<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\9\95\ns512%3Adolls_of_historia.html -->
+
+SWING_HOLIC | 使用了翻译表的页面 | 日文歌词 | 歌词 | 没有翻译的歌词 | 英文歌词
+
+
+<table><tbody><tr><th colspan="2">曲目信息</th></tr><tr><td colspan="2" style="padding-left: 1em;"><div class="floatright"><a href="./文件-SWING_HOLIC_VOL.16封面.jpg.md" class="image" title="SWING HOLIC VOL.16"><img alt="SWING HOLIC VOL.16" src="https://upload.thwiki.cc/thumb/2/28/SWING_HOLIC_VOL.16%E5%B0%81%E9%9D%A2.jpg/200px-SWING_HOLIC_VOL.16%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="200" height="200" srcset="https://upload.thwiki.cc/thumb/2/28/SWING_HOLIC_VOL.16%E5%B0%81%E9%9D%A2.jpg/300px-SWING_HOLIC_VOL.16%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/2/28/SWING_HOLIC_VOL.16%E5%B0%81%E9%9D%A2.jpg/400px-SWING_HOLIC_VOL.16%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="600" data-file-height="600"></a></div><b><a href="/SWING_HOLIC_VOL.16#5" title="SWING HOLIC VOL.16">dolls of historia</a></b> &#91;04:02&#93;<dl><dd><a href="./SWING_HOLIC_VOL.16.md" title="SWING HOLIC VOL.16">SWING HOLIC VOL.16</a> （2015-12-30）<br>社团：<a href="./SWING_HOLIC.md" title="SWING HOLIC">SWING HOLIC</a><br>编曲：<a href="/index.php?title=atabo&amp;action=edit&amp;redlink=1" class="new" title="atabo（页面不存在）">atabo</a><br>演唱：<a href="/index.php?title=MEG_NATLEY&amp;action=edit&amp;redlink=1" class="new" title="MEG NATLEY（页面不存在）">MEG NATLEY</a><br>作词：<a href="/index.php?title=TETRA%E5%A1%BE&amp;action=edit&amp;redlink=1" class="new" title="TETRA塾（页面不存在）">TETRA塾</a><br>原曲：<a href="/%E6%82%B2%E3%81%97%E3%81%8D%E4%BA%BA%E5%BD%A2_%EF%BD%9E_Doll_of_Misery" class="mw-redirect" title="悲しき人形 ～ Doll of Misery">悲しき人形　～ Doll of Misery</a>，<a href="./the_Last_Judgement.md" title="the Last Judgement">the Last Judgement</a><br></dd></dl></td></tr></tbody></table>
+
+- 歌词语言：日文，英文
+
+  
+  
+
+  
+
+
+<table><tbody><tr class="tt-lyrics-header" id="=-1" data-pos="&#91;&quot;=&quot;,1&#93;"><td class="tt-lyrics" lang="zh"><div class="poem"></div></td><td class="tt-mainh" lang="zh"><div class="poem"></div></td><td class="tt-tranh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-main-ja" id="=-2" data-pos="&#91;&quot;=&quot;,2&#93;"><td class="tt-time" lang="zh"><div class="poem">00:24.020</div></td><td class="tt-ja" lang="ja"><div class="poem">Call my dears,dolls of love,maid for you 慕う人</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-main-ja" id="=-3" data-pos="&#91;&quot;=&quot;,3&#93;"><td class="tt-time" lang="zh"><div class="poem">00:39.000</div></td><td class="tt-ja" lang="ja"><div class="poem">Secret dreams,dolls of hate,devil's world 哀しく</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-main-ja" id="=-4" data-pos="&#91;&quot;=&quot;,4&#93;"><td class="tt-time" lang="zh"><div class="poem">00:54.000</div></td><td class="tt-ja" lang="ja"><div class="poem">さあ パンデモニウムヘ Pride 懸けて剣を取り</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-main-ja" id="=-5" data-pos="&#91;&quot;=&quot;,5&#93;"><td class="tt-time" lang="zh"><div class="poem">01:01.000</div></td><td class="tt-ja" lang="ja"><div class="poem">ああ 神話の輝き Days 護り抜くだけ</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-main-ja" id="=-6" data-pos="&#91;&quot;=&quot;,6&#93;"><td class="tt-time" lang="zh"><div class="poem">01:10.820</div></td><td class="tt-ja" lang="ja"><div class="poem">魔界メイド 黄金の髮 なびかせて</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-main-ja" id="=-7" data-pos="&#91;&quot;=&quot;,7&#93;"><td class="tt-time" lang="zh"><div class="poem">01:17.320</div></td><td class="tt-ja" lang="ja"><div class="poem">エキゾチツク 音紡ぐ Phantasia lady</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-main-ja" id="=-8" data-pos="&#91;&quot;=&quot;,8&#93;"><td class="tt-time" lang="zh"><div class="poem">01:25.000</div></td><td class="tt-ja" lang="ja"><div class="poem">魔界ソード 白銀の刄が 微笑んで</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-main-ja" id="=-9" data-pos="&#91;&quot;=&quot;,9&#93;"><td class="tt-time" lang="zh"><div class="poem">01:32.000</div></td><td class="tt-ja" lang="ja"><div class="poem">エキゾチツク 音弾く刹那 遥か Historia</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-main-ja" id="=-10" data-pos="&#91;&quot;=&quot;,10&#93;"><td class="tt-time" lang="zh"><div class="poem">02:53.900</div></td><td class="tt-ja" lang="ja"><div class="poem">さあ パンデモニウムヘ Blood 染めた剣を抜き</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-main-ja" id="=-11" data-pos="&#91;&quot;=&quot;,11&#93;"><td class="tt-time" lang="zh"><div class="poem">03:01.000</div></td><td class="tt-ja" lang="ja"><div class="poem">ああ 記憶の迷路で Sign 刻まれるだけ</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-main-ja" id="=-12" data-pos="&#91;&quot;=&quot;,12&#93;"><td class="tt-time" lang="zh"><div class="poem">03:10.890</div></td><td class="tt-ja" lang="ja"><div class="poem">魔界メイド 黄金の髮 なびかせて</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-main-ja" id="=-13" data-pos="&#91;&quot;=&quot;,13&#93;"><td class="tt-time" lang="zh"><div class="poem">03:17.000</div></td><td class="tt-ja" lang="ja"><div class="poem">エキゾチツク 音繋ぐ Symphonia lady</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-main-ja" id="=-14" data-pos="&#91;&quot;=&quot;,14&#93;"><td class="tt-time" lang="zh"><div class="poem">03:25.020</div></td><td class="tt-ja" lang="ja"><div class="poem">魔界ソード 白銀の刄が 微笑んで</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-main-ja" id="=-15" data-pos="&#91;&quot;=&quot;,15&#93;"><td class="tt-time" lang="zh"><div class="poem">03:31.980</div></td><td class="tt-ja" lang="ja"><div class="poem">エキゾチツク 音散す世界 永遠の Historia</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-main-ja" id="=-16" data-pos="&#91;&quot;=&quot;,16&#93;"><td class="tt-time" lang="zh"><div class="poem">03:45.900</div></td><td class="tt-ja" lang="ja"><div class="poem">何時までも</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-main-ja" id="=-17" data-pos="&#91;&quot;=&quot;,17&#93;"><td class="tt-time" lang="zh"><div class="poem">03:53.000</div></td><td class="tt-ja" lang="ja"><div class="poem">果て無く</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr></tbody></table>
+
+
+
+
+
+
+
+---
+
+此文档由 [THBWiki-Markdown-Builder](https://github.com/Delsin-Yu/THBWiki-Markdown-Builder) 构建。
+
+文档中的所有内容除特殊注明外，均在 [**知识共享(Creative Commons) 署名-非商业性使用-相同方式共享 3.0 协议**](https://creativecommons.org/licenses/by-sa/3.0/deed.zh-hans) 下提供，附加条款亦可能应用。
+
+引用类型与其他类型作品版权归原作者所有，如有作者授权则遵照授权协议使用。
+
+详细请查阅 [THBWiki：免责声明](https://thbwiki.cc/THBWiki:%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E)。
+

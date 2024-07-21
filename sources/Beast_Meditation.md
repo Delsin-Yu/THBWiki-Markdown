@@ -1,0 +1,85 @@
+# Beast_Meditation
+
+<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\1\18\ns0%3ABeast_Meditation.html -->
+
+2020年3月15日 由 ジェリコの法則 于 博丽神社例大祭17 发布的全长同人专辑，曲目主要风格是 其他电子、House，内容以 东方鬼形兽为题材，分级为 一般向
+
+本页是关于东方Project  
+ **二次创作同人专辑 (未找到链接)** 的词条
+## 专辑信息
+
+<table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Beast_Meditation封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/e/e6/Beast_Meditation%E5%B0%81%E9%9D%A2.jpg/280px-Beast_Meditation%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="280" height="275" srcset="https://upload.thwiki.cc/thumb/e/e6/Beast_Meditation%E5%B0%81%E9%9D%A2.jpg/420px-Beast_Meditation%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/e/e6/Beast_Meditation%E5%B0%81%E9%9D%A2.jpg/560px-Beast_Meditation%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="962" data-file-height="945"></a><div class="cover-char">角色：<a href="./庭渡久侘歌.md" title="庭渡久侘歌">庭渡久侘歌</a></div></td>
+</tr><tr><td class="label">名称</td><td colspan="2"> Beast Meditation </td></tr><tr><td class="label">制作方</td><td><a href="./ジェリコの法則.md" title="ジェリコの法則">ジェリコの法則</a></td><td class="cover-artwork" rowspan="10" style="min-width:280px;"><a href="./文件-Beast_Meditation封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/e/e6/Beast_Meditation%E5%B0%81%E9%9D%A2.jpg/280px-Beast_Meditation%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="280" height="275" srcset="https://upload.thwiki.cc/thumb/e/e6/Beast_Meditation%E5%B0%81%E9%9D%A2.jpg/420px-Beast_Meditation%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/e/e6/Beast_Meditation%E5%B0%81%E9%9D%A2.jpg/560px-Beast_Meditation%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="962" data-file-height="945"></a><div class="cover-char">角色：<a href="./庭渡久侘歌.md" title="庭渡久侘歌">庭渡久侘歌</a></div></td>
+</tr><tr><td class="label">首发日期</td><td>2020-03-15&#160;（<a href="/展会作品列表?e=%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD%2317">第十七回 博麗神社例大祭</a>，非实际参与展会首发）</td></tr><tr><td class="label">类型</td><td>全长</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>10</td></tr><tr><td class="label">总时长</td><td>34:02</td></tr><tr><td class="label">风格类型</td><td>其他电子，House</td></tr><tr><td class="label">特定选材</td><td>东方鬼形兽</td></tr><tr><td class="label">售价</td><td>会场售价：1000日元<br>通贩售价：1200日元</td></tr>
+<tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://beastmeditation.tumblr.com/">https://beastmeditation.tumblr.com/</a></td></tr></tbody></table>
+
+Beast Meditation（同人专辑，ジェリコの法則，2020） - 2020年3月15日 由 ジェリコの法則 于 博丽神社例大祭17 发布的全长同人专辑，曲目主要风格是 其他电子、House，内容以 东方鬼形兽为题材，分级为 一般向
+
+<table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=641503">蜜瓜</a>，<a rel="nofollow" class="external text" href="https://diverse.direct/ジェリコの法則/jerl-0028/">DIVERSE DIRECT</a>，<a rel="nofollow" class="external text" href="https://shop.akbh.jp/products/detail/15333">AkibaHOBBY（新）</a>，<a rel="nofollow" class="external text" href="http://www.akibaoo.com/c/item/2500020493038/">Akibaoo</a></td></tr></tbody></table>
+
+
+## Staff
+  
+ **Compose**   
+
+<table><tbody><tr><td><a href="./Jerico.md" title="Jerico">Jerico</a></td><td></td><td>Tr.1/10</td></tr></tbody></table>
+
+  
+ **Arrangement**   
+
+<table><tbody><tr><td><a href="./Jerico.md" title="Jerico">Jerico</a></td><td></td><td>Tr.2-9</td></tr></tbody></table>
+
+
+Design
+: RUON （[ESQUARIA](./ESQUARIA.md)）
+Illustration
+: たま蔵 （[Pixiv](https://www.pixiv.net/member.php?id=285527)）
+
+## 试听
+  
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/772025236&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=false"></iframe>
+
+<iframe width="100%" height="180" src="https://ext.nicovideo.jp/thumb/sm36472765" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/watch/sm36472765">,</a></iframe>
+
+  
+
+
+<table>
+
+<tbody><tr>
+<th>Youtube<span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到需要翻墙网页">（需要翻墙）</span>
+</th></tr>
+<tr>
+<td><iframe width="560" height="315" src="//www.youtube-nocookie.com/embed/dELqlMyB-f4?" frameborder="0" allowfullscreen=""></iframe>
+</td></tr></tbody></table>
+
+
+## 曲目列表
+
+<table><tbody><tr><td id="1" class="infoYL"><b>01</b></td><td id="Intro" colspan="2" class="title">Intro<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Jerico&amp;fromwiki=Beast_Meditation"><span title="搜索相似同人曲"></span></a></span></td><td class="time">01:46</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./Jerico.md" title="Jerico">Jerico</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Jerico&amp;fromwiki=Beast_Meditation"><span></span></a></span></td></tr>
+<tr><td id="2" class="infoYD"><b>02</b></td><td id="Seraphic_Weapon" colspan="2" class="title">Seraphic Weapon<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Jerico&amp;ogmusic=セラフィックチキン&amp;fromwiki=Beast_Meditation"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:24</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Jerico.md" title="Jerico">Jerico</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Jerico&amp;fromwiki=Beast_Meditation"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=セラフィックチキン&amp;fromwiki=Beast_Meditation"><span></span></a></span><div class="ogmusic"><a href="/%E3%82%BB%E3%83%A9%E3%83%95%E3%82%A3%E3%83%83%E3%82%AF%E3%83%81%E3%82%AD%E3%83%B3" class="mw-redirect" title="セラフィックチキン">セラフィックチキン</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E9%AC%BC%E5%BD%A2%E5%85%BD_%EF%BD%9E_Wily_Beast_and_Weakest_Creature." class="mw-redirect" title="东方鬼形兽 ～ Wily Beast and Weakest Creature.">东方鬼形兽　～ Wily Beast and Weakest Creature.</a></div></td></tr>
+<tr><td id="3" class="infoYD"><b>03</b></td><td id="Infinity_Step" colspan="2" class="title">Infinity Step<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Jerico&amp;ogmusic=地蔵だけが知る哀嘆&amp;fromwiki=Beast_Meditation"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:34</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Jerico.md" title="Jerico">Jerico</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Jerico&amp;fromwiki=Beast_Meditation"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=地蔵だけが知る哀嘆&amp;fromwiki=Beast_Meditation"><span></span></a></span><div class="ogmusic"><a href="/%E5%9C%B0%E8%94%B5%E3%81%A0%E3%81%91%E3%81%8C%E7%9F%A5%E3%82%8B%E5%93%80%E5%98%86" class="mw-redirect" title="地蔵だけが知る哀嘆">地蔵だけが知る哀嘆</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E9%AC%BC%E5%BD%A2%E5%85%BD_%EF%BD%9E_Wily_Beast_and_Weakest_Creature." class="mw-redirect" title="东方鬼形兽 ～ Wily Beast and Weakest Creature.">东方鬼形兽　～ Wily Beast and Weakest Creature.</a></div></td></tr>
+<tr><td id="4" class="infoYD"><b>04</b></td><td id="Lost_in_Vaporwave" colspan="2" class="title">Lost in Vaporwave<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Jerico&amp;ogmusic=ロストリバー&amp;fromwiki=Beast_Meditation"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:27</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Jerico.md" title="Jerico">Jerico</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Jerico&amp;fromwiki=Beast_Meditation"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=ロストリバー&amp;fromwiki=Beast_Meditation"><span></span></a></span><div class="ogmusic"><a href="/%E3%83%AD%E3%82%B9%E3%83%88%E3%83%AA%E3%83%90%E3%83%BC" class="mw-redirect" title="ロストリバー">ロストリバー</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E9%AC%BC%E5%BD%A2%E5%85%BD_%EF%BD%9E_Wily_Beast_and_Weakest_Creature." class="mw-redirect" title="东方鬼形兽 ～ Wily Beast and Weakest Creature.">东方鬼形兽　～ Wily Beast and Weakest Creature.</a></div></td></tr>
+<tr><td id="5" class="infoYD"><b>05</b></td><td id="Fortune_or_Misfortune" colspan="2" class="title">Fortune or Misfortune<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Jerico&amp;ogmusic=トータスドラゴン　～ 幸運と不運&amp;fromwiki=Beast_Meditation"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:05</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Jerico.md" title="Jerico">Jerico</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Jerico&amp;fromwiki=Beast_Meditation"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=トータスドラゴン　～ 幸運と不運&amp;fromwiki=Beast_Meditation"><span></span></a></span><div class="ogmusic"><a href="/%E3%83%88%E3%83%BC%E3%82%BF%E3%82%B9%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3_%EF%BD%9E_%E5%B9%B8%E9%81%8B%E3%81%A8%E4%B8%8D%E9%81%8B" class="mw-redirect" title="トータスドラゴン ～ 幸運と不運">トータスドラゴン　～ 幸運と不運</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E9%AC%BC%E5%BD%A2%E5%85%BD_%EF%BD%9E_Wily_Beast_and_Weakest_Creature." class="mw-redirect" title="东方鬼形兽 ～ Wily Beast and Weakest Creature.">东方鬼形兽　～ Wily Beast and Weakest Creature.</a></div></td></tr>
+<tr><td id="6" class="infoYD"><b>06</b></td><td id="Toro_Bravostep" colspan="2" class="title">Toro Bravostep<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Jerico&amp;ogmusic=石の赤子と水中の牛&amp;fromwiki=Beast_Meditation"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:29</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Jerico.md" title="Jerico">Jerico</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Jerico&amp;fromwiki=Beast_Meditation"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=石の赤子と水中の牛&amp;fromwiki=Beast_Meditation"><span></span></a></span><div class="ogmusic"><a href="/%E7%9F%B3%E3%81%AE%E8%B5%A4%E5%AD%90%E3%81%A8%E6%B0%B4%E4%B8%AD%E3%81%AE%E7%89%9B" class="mw-redirect" title="石の赤子と水中の牛">石の赤子と水中の牛</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E9%AC%BC%E5%BD%A2%E5%85%BD_%EF%BD%9E_Wily_Beast_and_Weakest_Creature." class="mw-redirect" title="东方鬼形兽 ～ Wily Beast and Weakest Creature.">东方鬼形兽　～ Wily Beast and Weakest Creature.</a></div></td></tr>
+<tr><td id="7" class="infoYD"><b>07</b></td><td id="Unlocated_Hell_Fire" colspan="2" class="title">Unlocated Hell Fire<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Jerico&amp;ogmusic=アンロケイテッドヘル&amp;fromwiki=Beast_Meditation"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:58</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Jerico.md" title="Jerico">Jerico</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Jerico&amp;fromwiki=Beast_Meditation"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=アンロケイテッドヘル&amp;fromwiki=Beast_Meditation"><span></span></a></span><div class="ogmusic"><a href="/%E3%82%A2%E3%83%B3%E3%83%AD%E3%82%B1%E3%82%A4%E3%83%86%E3%83%83%E3%83%89%E3%83%98%E3%83%AB" class="mw-redirect" title="アンロケイテッドヘル">アンロケイテッドヘル</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E9%AC%BC%E5%BD%A2%E5%85%BD_%EF%BD%9E_Wily_Beast_and_Weakest_Creature." class="mw-redirect" title="东方鬼形兽 ～ Wily Beast and Weakest Creature.">东方鬼形兽　～ Wily Beast and Weakest Creature.</a></div></td></tr>
+<tr><td id="8" class="infoYD"><b>08</b></td><td id="Phoenixian" colspan="2" class="title">Phoenixian<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Jerico&amp;ogmusic=不朽の曼珠沙華&amp;fromwiki=Beast_Meditation"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:21</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Jerico.md" title="Jerico">Jerico</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Jerico&amp;fromwiki=Beast_Meditation"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=不朽の曼珠沙華&amp;fromwiki=Beast_Meditation"><span></span></a></span><div class="ogmusic"><a href="/%E4%B8%8D%E6%9C%BD%E3%81%AE%E6%9B%BC%E7%8F%A0%E6%B2%99%E8%8F%AF" class="mw-redirect" title="不朽の曼珠沙華">不朽の曼珠沙華</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E9%AC%BC%E5%BD%A2%E5%85%BD_%EF%BD%9E_Wily_Beast_and_Weakest_Creature." class="mw-redirect" title="东方鬼形兽 ～ Wily Beast and Weakest Creature.">东方鬼形兽　～ Wily Beast and Weakest Creature.</a></div></td></tr>
+<tr><td id="9" class="infoYD"><b>09</b></td><td id="Into_The_Unknown" colspan="2" class="title">Into The Unknown<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Jerico&amp;ogmusic=U.N.オーエンは彼女なのか？&amp;fromwiki=Beast_Meditation"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:27</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Jerico.md" title="Jerico">Jerico</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Jerico&amp;fromwiki=Beast_Meditation"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=U.N.オーエンは彼女なのか？&amp;fromwiki=Beast_Meditation"><span></span></a></span><div class="ogmusic"><a href="/U.N.%E3%82%AA%E3%83%BC%E3%82%A8%E3%83%B3%E3%81%AF%E5%BD%BC%E5%A5%B3%E3%81%AA%E3%81%AE%E3%81%8B%EF%BC%9F" class="mw-redirect" title="U.N.オーエンは彼女なのか？">U.N.オーエンは彼女なのか？</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E7%BA%A2%E9%AD%94%E4%B9%A1_%EF%BD%9E_the_Embodiment_of_Scarlet_Devil." class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr>
+<tr><td id="10" class="infoYL"><b>10</b></td><td id="Outro" colspan="2" class="title">Outro<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Jerico&amp;fromwiki=Beast_Meditation"><span title="搜索相似同人曲"></span></a></span></td><td class="time">01:31</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./Jerico.md" title="Jerico">Jerico</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Jerico&amp;fromwiki=Beast_Meditation"><span></span></a></span></td></tr></tbody></table>
+
+
+## 评论
+
+
+
+
+---
+
+此文档由 [THBWiki-Markdown-Builder](https://github.com/Delsin-Yu/THBWiki-Markdown-Builder) 构建。
+
+文档中的所有内容除特殊注明外，均在 [**知识共享(Creative Commons) 署名-非商业性使用-相同方式共享 3.0 协议**](https://creativecommons.org/licenses/by-sa/3.0/deed.zh-hans) 下提供，附加条款亦可能应用。
+
+引用类型与其他类型作品版权归原作者所有，如有作者授权则遵照授权协议使用。
+
+详细请查阅 [THBWiki：免责声明](https://thbwiki.cc/THBWiki:%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E)。
+

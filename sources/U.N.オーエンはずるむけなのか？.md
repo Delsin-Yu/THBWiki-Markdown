@@ -1,0 +1,49 @@
+# U.N.オーエンはずるむけなのか？
+
+<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\a\ac\ns0%3AU%2EN%2E%E3%82%AA%E3%83%BC%E3%82%A8%E3%83%B3%E3%81%AF%E3%81%9A%E3%82%8B%E3%82%80%E3%81%91%E3%81%AA%E3%81%AE%E3%81%8B%EF%BC%9F.html -->
+
+2011年4月18日 由 電開製作所  发布的全长同人专辑，分级为 一般向
+
+本页是关于东方Project  
+ **二次创作同人专辑 (未找到链接)** 的词条
+## 专辑信息
+
+<table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-U.N.オーエンはずるむけなのか？封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/5/5e/U.N.%E3%82%AA%E3%83%BC%E3%82%A8%E3%83%B3%E3%81%AF%E3%81%9A%E3%82%8B%E3%82%80%E3%81%91%E3%81%AA%E3%81%AE%E3%81%8B%EF%BC%9F%E5%B0%81%E9%9D%A2.jpg/223px-U.N.%E3%82%AA%E3%83%BC%E3%82%A8%E3%83%B3%E3%81%AF%E3%81%9A%E3%82%8B%E3%82%80%E3%81%91%E3%81%AA%E3%81%AE%E3%81%8B%EF%BC%9F%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="223" height="224" srcset="https://upload.thwiki.cc/thumb/5/5e/U.N.%E3%82%AA%E3%83%BC%E3%82%A8%E3%83%B3%E3%81%AF%E3%81%9A%E3%82%8B%E3%82%80%E3%81%91%E3%81%AA%E3%81%AE%E3%81%8B%EF%BC%9F%E5%B0%81%E9%9D%A2.jpg/334px-U.N.%E3%82%AA%E3%83%BC%E3%82%A8%E3%83%B3%E3%81%AF%E3%81%9A%E3%82%8B%E3%82%80%E3%81%91%E3%81%AA%E3%81%AE%E3%81%8B%EF%BC%9F%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/5/5e/U.N.%E3%82%AA%E3%83%BC%E3%82%A8%E3%83%B3%E3%81%AF%E3%81%9A%E3%82%8B%E3%82%80%E3%81%91%E3%81%AA%E3%81%AE%E3%81%8B%EF%BC%9F%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="382" data-file-height="384"></a><div class="cover-char">角色：<a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a></div></td>
+</tr><tr><td class="label">名称</td><td colspan="2"> U.N.オーエンはずるむけなのか？ </td></tr><tr><td class="label">制作方</td><td><a href="./電開製作所.md" title="電開製作所">電開製作所</a></td><td class="cover-artwork" rowspan="8" style="min-width:224px;"><a href="./文件-U.N.オーエンはずるむけなのか？封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/5/5e/U.N.%E3%82%AA%E3%83%BC%E3%82%A8%E3%83%B3%E3%81%AF%E3%81%9A%E3%82%8B%E3%82%80%E3%81%91%E3%81%AA%E3%81%AE%E3%81%8B%EF%BC%9F%E5%B0%81%E9%9D%A2.jpg/223px-U.N.%E3%82%AA%E3%83%BC%E3%82%A8%E3%83%B3%E3%81%AF%E3%81%9A%E3%82%8B%E3%82%80%E3%81%91%E3%81%AA%E3%81%AE%E3%81%8B%EF%BC%9F%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="223" height="224" srcset="https://upload.thwiki.cc/thumb/5/5e/U.N.%E3%82%AA%E3%83%BC%E3%82%A8%E3%83%B3%E3%81%AF%E3%81%9A%E3%82%8B%E3%82%80%E3%81%91%E3%81%AA%E3%81%AE%E3%81%8B%EF%BC%9F%E5%B0%81%E9%9D%A2.jpg/334px-U.N.%E3%82%AA%E3%83%BC%E3%82%A8%E3%83%B3%E3%81%AF%E3%81%9A%E3%82%8B%E3%82%80%E3%81%91%E3%81%AA%E3%81%AE%E3%81%8B%EF%BC%9F%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/5/5e/U.N.%E3%82%AA%E3%83%BC%E3%82%A8%E3%83%B3%E3%81%AF%E3%81%9A%E3%82%8B%E3%82%80%E3%81%91%E3%81%AA%E3%81%AE%E3%81%8B%EF%BC%9F%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="382" data-file-height="384"></a><div class="cover-char">角色：<a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a></div></td>
+</tr><tr><td class="label">首发日期</td><td>2011-04-18</td></tr><tr><td class="label">类型</td><td>全长</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>4</td></tr><tr><td class="label">总时长</td><td>15:59</td></tr><tr><td class="label">售价</td><td>通贩售价：免费网络免费发布</td></tr>
+<tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://denkai.net/">http://denkai.net/</a></td></tr></tbody></table>
+
+U.N.オーエンはずるむけなのか？（同人专辑，電開製作所，2011） - 2011年4月18日 由 電開製作所  发布的全长同人专辑，分级为 一般向
+## Staff
+  
+ **Arrangement**   
+
+<table><tbody><tr><td><a href="/index.php?title=U-MAZLA&amp;action=edit&amp;redlink=1" class="new" title="U-MAZLA（页面不存在）">U-MAZLA</a></td><td><a href="./電開製作所.md" title="電開製作所">電開製作所</a></td><td>Tr.1-4</td></tr></tbody></table>
+
+
+Illustration
+: U-MAZLA （[電開製作所](./電開製作所.md)）
+
+## 曲目列表
+
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="U.N.オーエンはずるむけなのか？" colspan="2" class="title">U.N.オーエンはずるむけなのか？<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=U-MAZLA&amp;ogmusic=U.N.オーエンは彼女なのか？&amp;fromwiki=U.N.オーエンはずるむけなのか？"><span title="搜索相似同人曲"></span></a></span></td><td class="time">02:46</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=U-MAZLA&amp;action=edit&amp;redlink=1" class="new" title="U-MAZLA（页面不存在）">U-MAZLA</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，U-MAZLA&amp;fromwiki=U.N.オーエンはずるむけなのか？"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=U.N.オーエンは彼女なのか？&amp;fromwiki=U.N.オーエンはずるむけなのか？"><span></span></a></span><div class="ogmusic"><a href="/U.N.%E3%82%AA%E3%83%BC%E3%82%A8%E3%83%B3%E3%81%AF%E5%BD%BC%E5%A5%B3%E3%81%AA%E3%81%AE%E3%81%8B%EF%BC%9F" class="mw-redirect" title="U.N.オーエンは彼女なのか？">U.N.オーエンは彼女なのか？</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E7%BA%A2%E9%AD%94%E4%B9%A1_%EF%BD%9E_the_Embodiment_of_Scarlet_Devil." class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr>
+<tr><td id="2" class="infoYD"><b>02</b></td><td id="123_is_not_forgotten" colspan="2" class="title">123 is not forgotten<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=U-MAZLA&amp;ogmusic=法界の火&amp;fromwiki=U.N.オーエンはずるむけなのか？"><span title="搜索相似同人曲"></span></a></span></td><td class="time">06:54</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=U-MAZLA&amp;action=edit&amp;redlink=1" class="new" title="U-MAZLA（页面不存在）">U-MAZLA</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，U-MAZLA&amp;fromwiki=U.N.オーエンはずるむけなのか？"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=法界の火&amp;fromwiki=U.N.オーエンはずるむけなのか？"><span></span></a></span><div class="ogmusic"><a href="/%E6%B3%95%E7%95%8C%E3%81%AE%E7%81%AB" class="mw-redirect" title="法界の火">法界の火</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E6%98%9F%E8%8E%B2%E8%88%B9_%EF%BD%9E_Undefined_Fantastic_Object." class="mw-redirect" title="东方星莲船 ～ Undefined Fantastic Object.">东方星莲船　～ Undefined Fantastic Object.</a></div></td></tr>
+<tr><td id="3" class="infoYD"><b>03</b></td><td id="In_the_Dead_of_The_Touhou" colspan="2" class="title">In the Dead of The Touhou<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=U-MAZLA&amp;ogmusic=年中夢中の好奇心&amp;fromwiki=U.N.オーエンはずるむけなのか？"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:55</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=U-MAZLA&amp;action=edit&amp;redlink=1" class="new" title="U-MAZLA（页面不存在）">U-MAZLA</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，U-MAZLA&amp;fromwiki=U.N.オーエンはずるむけなのか？"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=年中夢中の好奇心&amp;fromwiki=U.N.オーエンはずるむけなのか？"><span></span></a></span><div class="ogmusic"><a href="/%E5%B9%B4%E4%B8%AD%E5%A4%A2%E4%B8%AD%E3%81%AE%E5%A5%BD%E5%A5%87%E5%BF%83" class="mw-redirect" title="年中夢中の好奇心">年中夢中の好奇心</a></div><div class="source"><a href="/%E5%A6%96%E7%B2%BE%E5%A4%A7%E6%88%98%E4%BA%89_%EF%BD%9E_%E4%B8%9C%E6%96%B9%E4%B8%89%E6%9C%88%E7%B2%BE" class="mw-redirect" title="妖精大战争 ～ 东方三月精">妖精大战争　～ 东方三月精</a></div></td></tr>
+<tr><td id="4" class="infoYD"><b>04</b></td><td id="亡きゴリラの為のセプテット" colspan="2" class="title">亡きゴリラの為のセプテット<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=U-MAZLA&amp;ogmusic=亡き王女の為のセプテット&amp;fromwiki=U.N.オーエンはずるむけなのか？"><span title="搜索相似同人曲"></span></a></span></td><td class="time">02:24</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=U-MAZLA&amp;action=edit&amp;redlink=1" class="new" title="U-MAZLA（页面不存在）">U-MAZLA</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，U-MAZLA&amp;fromwiki=U.N.オーエンはずるむけなのか？"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=亡き王女の為のセプテット&amp;fromwiki=U.N.オーエンはずるむけなのか？"><span></span></a></span><div class="ogmusic"><a href="/%E4%BA%A1%E3%81%8D%E7%8E%8B%E5%A5%B3%E3%81%AE%E7%82%BA%E3%81%AE%E3%82%BB%E3%83%97%E3%83%86%E3%83%83%E3%83%88" class="mw-redirect" title="亡き王女の為のセプテット">亡き王女の為のセプテット</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E7%BA%A2%E9%AD%94%E4%B9%A1_%EF%BD%9E_the_Embodiment_of_Scarlet_Devil." class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr></tbody></table>
+
+
+## 评论
+
+
+
+
+---
+
+此文档由 [THBWiki-Markdown-Builder](https://github.com/Delsin-Yu/THBWiki-Markdown-Builder) 构建。
+
+文档中的所有内容除特殊注明外，均在 [**知识共享(Creative Commons) 署名-非商业性使用-相同方式共享 3.0 协议**](https://creativecommons.org/licenses/by-sa/3.0/deed.zh-hans) 下提供，附加条款亦可能应用。
+
+引用类型与其他类型作品版权归原作者所有，如有作者授权则遵照授权协议使用。
+
+详细请查阅 [THBWiki：免责声明](https://thbwiki.cc/THBWiki:%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E)。
+

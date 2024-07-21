@@ -1,0 +1,35 @@
+# 歌词:蒼影～Ancient_Unicorn～
+
+<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\b7\ns512%3A%E8%92%BC%E5%BD%B1%EF%BD%9EAncient_Unicorn%EF%BD%9E.html -->
+
+EastNewSound | 使用了翻译表的页面 | 日文歌词 | 歌词 | 没有翻译的歌词
+
+
+<table><tbody><tr><th colspan="2">曲目信息</th></tr><tr><td colspan="2" style="padding-left: 1em;"><div class="floatright"><a href="./文件-Scattered_Destiny封面.jpg.md" class="image" title="Scattered Destiny"><img alt="Scattered Destiny" src="https://upload.thwiki.cc/thumb/0/0c/Scattered_Destiny%E5%B0%81%E9%9D%A2.jpg/200px-Scattered_Destiny%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="200" height="200" srcset="https://upload.thwiki.cc/thumb/0/0c/Scattered_Destiny%E5%B0%81%E9%9D%A2.jpg/300px-Scattered_Destiny%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/0/0c/Scattered_Destiny%E5%B0%81%E9%9D%A2.jpg/400px-Scattered_Destiny%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="450" data-file-height="450"></a></div><b><a href="/Scattered_Destiny#12" title="Scattered Destiny">蒼影～Ancient Unicorn～</a></b> &#91;05:51&#93;<dl><dd><a href="./Scattered_Destiny.md" title="Scattered Destiny">Scattered Destiny</a> （2009-03-08）<br>社团：<a href="./EastNewSound.md" title="EastNewSound">EastNewSound</a><br>编曲：<a href="./黒鳥.md" title="黒鳥">黒鳥</a><br>演唱：<a href="/index.php?title=%E5%89%8D%E8%8F%9C&amp;action=edit&amp;redlink=1" class="new" title="前菜（页面不存在）">前菜</a><br>作词：<a href="./くまりす.md" title="くまりす">くまりす</a><br>原曲：<a href="./红楼_～_Eastern_Dream....md" title="红楼 ～ Eastern Dream..." unred="">紅楼　～ Eastern Dream...</a><br></dd></dl></td></tr></tbody></table>
+
+- 歌词语言：日文
+
+  
+  
+
+  
+
+
+<table><tbody><tr class="tt-lyrics-header" id="=-1" data-pos="&#91;&quot;=&quot;,1&#93;"><td class="tt-lyrics" lang="zh"><div class="poem"></div></td><td class="tt-mainh" lang="zh"><div class="poem"></div></td><td class="tt-tranh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-main-ja" id="=-2" data-pos="&#91;&quot;=&quot;,2&#93;"><td class="tt-time" lang="zh"><div class="poem">01:07.17</div></td><td class="tt-ja" lang="ja"><div class="poem">月が詠う悲愴慈愛にも似た青</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-main-ja" id="=-3" data-pos="&#91;&quot;=&quot;,3&#93;"><td class="tt-time" lang="zh"><div class="poem">01:20.68</div></td><td class="tt-ja" lang="ja"><div class="poem">禊清めど消えぬ咎に憂う古の巫女</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-main-ja" id="=-4" data-pos="&#91;&quot;=&quot;,4&#93;"><td class="tt-time" lang="zh"><div class="poem">01:34.18</div></td><td class="tt-ja" lang="ja"><div class="poem">嵩み癒えぬ闇に贖罪の名で封</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-main-ja" id="=-5" data-pos="&#91;&quot;=&quot;,5&#93;"><td class="tt-time" lang="zh"><div class="poem">01:47.71</div></td><td class="tt-ja" lang="ja"><div class="poem">勇み踏まえど震う腕に刺さる孤高なる呪符</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-lyrics-sep" id="=-6" data-pos="&#91;&quot;=&quot;,6&#93;"><td class="tt-sep" lang="zh"><div class="poem">02:01.28<br></div></td><td class="tt-text" lang="zh"><div class="poem"></div></td><td class="tt-tran" lang="zh"><div class="poem"></div></td></tr><tr class="tt-main-ja" id="=-7" data-pos="&#91;&quot;=&quot;,7&#93;"><td class="tt-time" lang="zh"><div class="poem">02:29.18</div></td><td class="tt-ja" lang="ja"><div class="poem">幾度も重ねてく　人ならざる業</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-main-ja" id="=-8" data-pos="&#91;&quot;=&quot;,8&#93;"><td class="tt-time" lang="zh"><div class="poem">02:35.87</div></td><td class="tt-ja" lang="ja"><div class="poem">落ちぬ涙に浮かぶ　泥の船</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-main-ja" id="=-9" data-pos="&#91;&quot;=&quot;,9&#93;"><td class="tt-time" lang="zh"><div class="poem">02:42.57</div></td><td class="tt-ja" lang="ja"><div class="poem">神をも仇となし　穢れた身で撃つ</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-main-ja" id="=-10" data-pos="&#91;&quot;=&quot;,10&#93;"><td class="tt-time" lang="zh"><div class="poem">02:49.36</div></td><td class="tt-ja" lang="ja"><div class="poem">紙切れにも刻んだ嘆きの音</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-lyrics-sep" id="=-11" data-pos="&#91;&quot;=&quot;,11&#93;"><td class="tt-sep" lang="zh"><div class="poem">02:55.06<br></div></td><td class="tt-text" lang="zh"><div class="poem"></div></td><td class="tt-tran" lang="zh"><div class="poem"></div></td></tr><tr class="tt-main-ja" id="=-12" data-pos="&#91;&quot;=&quot;,12&#93;"><td class="tt-time" lang="zh"><div class="poem">03:22.30</div></td><td class="tt-ja" lang="ja"><div class="poem">月が詠う悲愴慈愛にも似た青</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-main-ja" id="=-13" data-pos="&#91;&quot;=&quot;,13&#93;"><td class="tt-time" lang="zh"><div class="poem">03:35.86</div></td><td class="tt-ja" lang="ja"><div class="poem">禊清めど消えぬ咎に憂う古の巫女</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-lyrics-sep" id="=-14" data-pos="&#91;&quot;=&quot;,14&#93;"><td class="tt-sep" lang="zh"><div class="poem">03:48.62<br></div></td><td class="tt-text" lang="zh"><div class="poem"></div></td><td class="tt-tran" lang="zh"><div class="poem"></div></td></tr><tr class="tt-main-ja" id="=-15" data-pos="&#91;&quot;=&quot;,15&#93;"><td class="tt-time" lang="zh"><div class="poem">03:49.44</div></td><td class="tt-ja" lang="ja"><div class="poem">己が腕に握る堕罪せし邪の符に</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-main-ja" id="=-16" data-pos="&#91;&quot;=&quot;,16&#93;"><td class="tt-time" lang="zh"><div class="poem">04:02.91</div></td><td class="tt-ja" lang="ja"><div class="poem">放てど費えぬ空の罪を加え筆で認む</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-lyrics-sep" id="=-17" data-pos="&#91;&quot;=&quot;,17&#93;"><td class="tt-sep" lang="zh"><div class="poem">04:16.00<br></div></td><td class="tt-text" lang="zh"><div class="poem"></div></td><td class="tt-tran" lang="zh"><div class="poem"></div></td></tr><tr class="tt-main-ja" id="=-18" data-pos="&#91;&quot;=&quot;,18&#93;"><td class="tt-time" lang="zh"><div class="poem">04:16.50</div></td><td class="tt-ja" lang="ja"><div class="poem">月が笑う喜劇　神に牙向く巫女</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-main-ja" id="=-19" data-pos="&#91;&quot;=&quot;,19&#93;"><td class="tt-time" lang="zh"><div class="poem">04:29.93</div></td><td class="tt-ja" lang="ja"><div class="poem">黄泉に見放され行き場を無くし　独り幻想を舞う</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr></tbody></table>
+
+
+
+
+
+
+
+---
+
+此文档由 [THBWiki-Markdown-Builder](https://github.com/Delsin-Yu/THBWiki-Markdown-Builder) 构建。
+
+文档中的所有内容除特殊注明外，均在 [**知识共享(Creative Commons) 署名-非商业性使用-相同方式共享 3.0 协议**](https://creativecommons.org/licenses/by-sa/3.0/deed.zh-hans) 下提供，附加条款亦可能应用。
+
+引用类型与其他类型作品版权归原作者所有，如有作者授权则遵照授权协议使用。
+
+详细请查阅 [THBWiki：免责声明](https://thbwiki.cc/THBWiki:%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E)。
+

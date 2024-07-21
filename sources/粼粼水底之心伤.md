@@ -1,0 +1,177 @@
+# 粼粼水底之心伤
+
+<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\6d\ns0%3A%E7%B2%BC%E7%B2%BC%E6%B0%B4%E5%BA%95%E4%B9%8B%E5%BF%83%E4%BC%A4.html -->
+
+官方符卡
+
+本页是关于 **符卡 (未找到链接)（SpellCard）** 的词条粼粼水底之心伤（符卡） - 官方符卡
+
+<table>
+
+<tbody><tr>
+<th>中文名</th>
+<th>日文名
+</th></tr>
+<tr>
+<td>洪水「Ooze Flooding」</td>
+<td>洪水「ウーズフラッディング」
+</td></tr>
+<tr>
+<td>洪水「Diluvial Mare」</td>
+<td>洪水「デリューヴィアルメア」
+</td></tr>
+<tr>
+<td>漂溺「粼粼水底之心伤」</td>
+<td>漂溺「光り輝く水底のトラウマ」
+</td></tr>
+<tr>
+<td>回忆「粼粼水底之心伤」</td>
+<td>想起「光り輝く水底のトラウマ」
+</td></tr></tbody></table>
+
+
+  
+  
+
+  
+
+## 目录
+
+- [1 登场](#登场)
+
+  - [1.1 东方风神录](#东方风神录)
+  - [1.2 东方地灵殿](#东方地灵殿)
+
+
+
+- [2 符卡说明](#符卡说明)
+
+  - [2.1 The Grimoire of Marisa](#The_Grimoire_of_Marisa)
+
+
+
+- [3 其他内容](#其他内容)
+
+  - [3.1 游戏资料](#游戏资料)
+  - [3.2 分析考据](#分析考据)
+
+
+
+- [4 导航](#导航)
+
+
+
+
+## 登场
+### 东方风神录
+
+<table>
+
+<tbody><tr>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:302px;"><a href="./文件-洪水「Ooze_Flooding」（风神录）.JPG.md" class="image"><img alt="" src="https://upload.thwiki.cc/thumb/d/dd/%E6%B4%AA%E6%B0%B4%E3%80%8COoze_Flooding%E3%80%8D%EF%BC%88%E9%A3%8E%E7%A5%9E%E5%BD%95%EF%BC%89.JPG/300px-%E6%B4%AA%E6%B0%B4%E3%80%8COoze_Flooding%E3%80%8D%EF%BC%88%E9%A3%8E%E7%A5%9E%E5%BD%95%EF%BC%89.JPG" decoding="async" loading="lazy" width="300" height="351" class="thumbimage" srcset="https://upload.thwiki.cc/d/dd/%E6%B4%AA%E6%B0%B4%E3%80%8COoze_Flooding%E3%80%8D%EF%BC%88%E9%A3%8E%E7%A5%9E%E5%BD%95%EF%BC%89.JPG 1.5x" data-file-width="383" data-file-height="448"></a>  <div class="thumbcaption"><div class="magnify"><a href="./文件-洪水「Ooze_Flooding」（风神录）.JPG.md" class="internal" title="放大"></a></div>洪水「Ooze Flooding」</div></div></div>
+</td>
+<td>
+<p>3面BOSS河城荷取Easy / Normal难度符卡。
+</p>
+</td></tr></tbody></table>
+
+
+
+  
+  
+
+  
+
+
+<table>
+
+<tbody><tr>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:302px;"><a href="./文件-洪水「Diluvial_Mare」（风神录）.JPG.md" class="image"><img alt="" src="https://upload.thwiki.cc/thumb/3/37/%E6%B4%AA%E6%B0%B4%E3%80%8CDiluvial_Mare%E3%80%8D%EF%BC%88%E9%A3%8E%E7%A5%9E%E5%BD%95%EF%BC%89.JPG/300px-%E6%B4%AA%E6%B0%B4%E3%80%8CDiluvial_Mare%E3%80%8D%EF%BC%88%E9%A3%8E%E7%A5%9E%E5%BD%95%EF%BC%89.JPG" decoding="async" loading="lazy" width="300" height="351" class="thumbimage" srcset="https://upload.thwiki.cc/3/37/%E6%B4%AA%E6%B0%B4%E3%80%8CDiluvial_Mare%E3%80%8D%EF%BC%88%E9%A3%8E%E7%A5%9E%E5%BD%95%EF%BC%89.JPG 1.5x" data-file-width="383" data-file-height="448"></a>  <div class="thumbcaption"><div class="magnify"><a href="./文件-洪水「Diluvial_Mare」（风神录）.JPG.md" class="internal" title="放大"></a></div>洪水「Diluvial Mare」</div></div></div>
+</td>
+<td>
+<p>3面BOSS河城荷取Hard难度符卡。
+</p>
+</td></tr></tbody></table>
+
+
+
+  
+  
+
+  
+
+
+<table>
+
+<tbody><tr>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:302px;"><a href="./文件-漂溺「粼粼水底之心伤」（风神录）.png.md" class="image"><img alt="" src="https://upload.thwiki.cc/thumb/8/89/%E6%BC%82%E6%BA%BA%E3%80%8C%E7%B2%BC%E7%B2%BC%E6%B0%B4%E5%BA%95%E4%B9%8B%E5%BF%83%E4%BC%A4%E3%80%8D%EF%BC%88%E9%A3%8E%E7%A5%9E%E5%BD%95%EF%BC%89.png/300px-%E6%BC%82%E6%BA%BA%E3%80%8C%E7%B2%BC%E7%B2%BC%E6%B0%B4%E5%BA%95%E4%B9%8B%E5%BF%83%E4%BC%A4%E3%80%8D%EF%BC%88%E9%A3%8E%E7%A5%9E%E5%BD%95%EF%BC%89.png" decoding="async" loading="lazy" width="300" height="351" class="thumbimage" srcset="https://upload.thwiki.cc/8/89/%E6%BC%82%E6%BA%BA%E3%80%8C%E7%B2%BC%E7%B2%BC%E6%B0%B4%E5%BA%95%E4%B9%8B%E5%BF%83%E4%BC%A4%E3%80%8D%EF%BC%88%E9%A3%8E%E7%A5%9E%E5%BD%95%EF%BC%89.png 1.5x" data-file-width="383" data-file-height="448"></a>  <div class="thumbcaption"><div class="magnify"><a href="./文件-漂溺「粼粼水底之心伤」（风神录）.png.md" class="internal" title="放大"></a></div>漂溺「粼粼水底之心伤」</div></div></div>
+</td>
+<td>
+<p>3面BOSS河城荷取Lunatic难度符卡。
+</p>
+</td></tr></tbody></table>
+
+
+
+### 东方地灵殿
+
+<table>
+
+<tbody><tr>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:302px;"><a href="./文件-回忆「粼粼水底之心伤」（地灵殿）.jpg.md" class="image"><img alt="" src="https://upload.thwiki.cc/thumb/7/71/%E5%9B%9E%E5%BF%86%E3%80%8C%E7%B2%BC%E7%B2%BC%E6%B0%B4%E5%BA%95%E4%B9%8B%E5%BF%83%E4%BC%A4%E3%80%8D%EF%BC%88%E5%9C%B0%E7%81%B5%E6%AE%BF%EF%BC%89.jpg/300px-%E5%9B%9E%E5%BF%86%E3%80%8C%E7%B2%BC%E7%B2%BC%E6%B0%B4%E5%BA%95%E4%B9%8B%E5%BF%83%E4%BC%A4%E3%80%8D%EF%BC%88%E5%9C%B0%E7%81%B5%E6%AE%BF%EF%BC%89.jpg" decoding="async" loading="lazy" width="300" height="351" class="thumbimage" srcset="https://upload.thwiki.cc/7/71/%E5%9B%9E%E5%BF%86%E3%80%8C%E7%B2%BC%E7%B2%BC%E6%B0%B4%E5%BA%95%E4%B9%8B%E5%BF%83%E4%BC%A4%E3%80%8D%EF%BC%88%E5%9C%B0%E7%81%B5%E6%AE%BF%EF%BC%89.jpg 1.5x" data-file-width="383" data-file-height="448"></a>  <div class="thumbcaption"><div class="magnify"><a href="./文件-回忆「粼粼水底之心伤」（地灵殿）.jpg.md" class="internal" title="放大"></a></div>回忆「粼粼水底之心伤」</div></div></div>
+</td>
+<td>
+<p>4面BOSS古明地觉Easy / Normal / Hard / Lunatic难度符卡。
+</p>
+</td></tr></tbody></table>
+
+
+
+## 符卡说明
+### The Grimoire of Marisa
+
+<table><tbody><tr class="tt-content-header" id="=-1" data-pos="&#91;&quot;=&quot;,1&#93;"><td class="tt-jah" lang="ja"><div class="poem">漂溺「光り輝く水底のトラウマ」</div></td><td class="tt-zhh" lang="zh"><div class="poem"><a href="./粼粼水底之心伤.md" title="粼粼水底之心伤" unred="">漂溺「粼粼水底之心伤」</a><br></div></td></tr><tr class="tt-content" id="=-2" data-pos="&#91;&quot;=&quot;,2&#93;"><td class="tt-ja" lang="ja"><div class="poem">使用者　　　　河城にとり</div></td><td class="tt-zh" lang="zh"><div class="poem">使用者　　　　<a href="./河城荷取.md" title="河城荷取">河城荷取</a><br></div></td></tr><tr class="tt-content" id="=-3" data-pos="&#91;&quot;=&quot;,3&#93;"><td class="tt-ja" lang="ja"><div class="poem">備考　　　　　トラウマ、ストレスタイプ</div></td><td class="tt-zh" lang="zh"><div class="poem">备考　　　　　心理阴影，压迫类<br></div></td></tr><tr class="tt-content" id="=-4" data-pos="&#91;&quot;=&quot;,4&#93;"><td class="tt-ja" lang="ja"><div class="poem">ストレス度　　★★★</div></td><td class="tt-zh" lang="zh"><div class="poem">有压力度　　　★★★<br></div></td></tr><tr class="tt-content" id="=-5" data-pos="&#91;&quot;=&quot;,5&#93;"><td class="tt-ja" lang="ja"><div class="poem">溺れたという明確な記憶は残っていないが、このスペルカードは水底から見た景色を想起させる。</div></td><td class="tt-zh" lang="zh"><div class="poem">虽然在我的脑海里没有明确的留下过溺水的记忆，但这张符卡却会让人回忆起从水底看到的景色。<br><br></div></td></tr><tr class="tt-content" id="=-6" data-pos="&#91;&quot;=&quot;,6&#93;"><td class="tt-ja" lang="ja"><div class="poem">小さい頃に溺れた記憶は、思い出される事を拒んでいるという事かも知れない。</div></td><td class="tt-zh" lang="zh"><div class="poem">也许，那是我现在的大脑拒绝回忆起小时候曾经溺水的记忆也说不定。<br></div></td></tr><tr class="tt-content" id="=-7" data-pos="&#91;&quot;=&quot;,7&#93;"><td class="tt-ja" lang="ja"><div class="poem">ちなみに、こういう弾幕は真似しようと思わない。私がイライラしそうだ。</div></td><td class="tt-zh" lang="zh"><div class="poem">顺便一提，这种<a href="/%E6%B8%B8%E6%88%8F%E6%94%BB%E7%95%A5/STG%E6%9C%AF%E8%AF%AD#弹幕" title="游戏攻略/STG术语" unred="">弹幕</a>我是不会想去模仿的。绝对会让我先心神不宁。<br></div></td></tr></tbody></table>
+
+
+## 其他内容
+### 游戏资料
+  
+<big>
+</big>  
+<big>- 游戏资料 (未找到链接)
+</big><big></big>  
+<big></big>
+  
+
+### 分析考据
+  
+<big>
+</big>  
+<big>- [分析与考据](./粼粼水底之心伤-分析与考据.md)
+</big><big></big>  
+<big></big>
+  
+
+## 导航
+
+<table><tbody><tr><td><table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;;;"><tbody><tr><th style=";" colspan="3" class="navbox-title"><div class="navbar"><div class="noprint plainlinksneverexpand" style="background-color:transparent; padding:0; font-weight:normal; font-size:80%; white-space:nowrap;"><a href="./模板-河城荷取符卡导航.md" title="模板:河城荷取符卡导航"><span style=";;border:none;" title="查看这个模板">查</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<a href="/index.php?title=%E6%A8%A1%E6%9D%BF:%E6%B2%B3%E5%9F%8E%E8%8D%B7%E5%8F%96%E7%AC%A6%E5%8D%A1%E5%AF%BC%E8%88%AA&amp;action=edit"><span style=";;border:none;" title="您可以编辑这个模板。请在储存变更之前先预览">编</span></a></div></div><span><a href="./河城荷取.md" title="河城荷取">河城荷取</a>符卡</span></th></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">射击游戏</td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div><a href="./东方风神录.md" title="东方风神录">东方风神录</a></div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./Optical_Camouflage.md" title="Optical Camouflage" unred="">光学「Optical Camouflage」</a> &#8226; <a href="./Optical_Camouflage.md" title="Optical Camouflage" unred="">光学「Hydro-Camouflage」</a> &#8226; <a href="./粼粼水底之心伤.md" title="粼粼水底之心伤" unred="">洪水「Ooze Flooding」</a> &#8226; <a href="./粼粼水底之心伤.md" title="粼粼水底之心伤" unred="">洪水「Diluvial Mare」</a> &#8226; <a href="./粼粼水底之心伤.md" title="粼粼水底之心伤" unred="">漂溺「粼粼水底之心伤」</a> &#8226; <a href="./河童之河口浪潮.md" title="河童之河口浪潮" unred="">水符「河童之河口浪潮」</a> &#8226; <a href="./河童之河口浪潮.md" title="河童之河口浪潮" unred="">水符「河童之山洪暴发」</a> &#8226; <a href="./河童之河口浪潮.md" title="河童之河口浪潮" unred="">水符「河童之幻想大瀑布」</a> &#8226; <a href="./妖怪黄瓜.md" title="妖怪黄瓜" unred="">河童「妖怪黄瓜」</a> &#8226; <a href="./妖怪黄瓜.md" title="妖怪黄瓜" unred="">河童「延展手臂」</a> &#8226; <a href="./Spin_the_Cephalic_Plate.md" title="Spin the Cephalic Plate" unred="">河童「Spin the Cephalic Plate」</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div><a href="./东方地灵殿.md" title="东方地灵殿">东方地灵殿</a></div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./Optical_Camouflage.md" title="Optical Camouflage" unred="">「Optical Camouflage」</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div><a href="./东方文花帖DS.md" title="东方文花帖DS">东方文花帖DS</a></div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./Water_Carpet.md" title="Water Carpet" unred="">水符「Water Carpet」</a> &#8226; <a href="./Dividing_Edge.md" title="Dividing Edge" unred="">河符「Dividing Edge」</a> &#8226; <a href="./干燥尻子玉.md" title="干燥尻子玉" unred="">河童「干燥尻子玉」</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div><a href="./弹幕天邪鬼.md" title="弹幕天邪鬼">弹幕天邪鬼</a></div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./Shiraito_Fall.md" title="Shiraito Fall" unred="">瀑符「Shiraito Fall」</a> &#8226; <a href="./Kegon_Gun.md" title="Kegon Gun" unred="">瀑符「Kegon Gun」</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div><a href="./弹幕狂们的黑市.md" title="弹幕狂们的黑市">弹幕狂们的黑市</a></div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./Kegon_Gun.md" title="Kegon Gun" unred="">兵器「清水火焰喷射器」</a> &#8226; <a href="./涧流不息.md" title="涧流不息" unred="">「涧流不息」</a></div></td></tr></tbody></table><div></div></td><td class="navbox-image" style="" rowspan="5"><a href="./文件-河城荷取（Q版立绘）.png.md" class="image"><img alt="河城荷取（Q版立绘）.png" src="https://upload.thwiki.cc/thumb/e/e7/%E6%B2%B3%E5%9F%8E%E8%8D%B7%E5%8F%96%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png/160px-%E6%B2%B3%E5%9F%8E%E8%8D%B7%E5%8F%96%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="160" height="160" srcset="https://upload.thwiki.cc/thumb/e/e7/%E6%B2%B3%E5%9F%8E%E8%8D%B7%E5%8F%96%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png/240px-%E6%B2%B3%E5%9F%8E%E8%8D%B7%E5%8F%96%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/e/e7/%E6%B2%B3%E5%9F%8E%E8%8D%B7%E5%8F%96%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png/320px-%E6%B2%B3%E5%9F%8E%E8%8D%B7%E5%8F%96%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="500" data-file-height="500"></a></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">格斗游戏</td><td style=";;" class="navbox-list navbox-even"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div><a href="./东方心绮楼.md" title="东方心绮楼">东方心绮楼</a></div></td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>对战符卡</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./河底大战争.md" title="河底大战争" unred="">暴雨「河底大战争」</a> &#8226; <a href="./射击吧！泡泡龙.md" title="射击吧！泡泡龙" unred="">泡符「射击吧！泡泡龙」</a> &#8226; <a href="./飞翔吧！三平加油.md" title="飞翔吧！三平加油" unred="">战机「飞翔吧！三平加油」</a> &#8226; <a href="./Super_Scope_3D.md" title="Super Scope 3D" unred="">「Super Scope 3D」</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>故事符卡</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./夏天的塑料瓶火箭.md" title="夏天的塑料瓶火箭" unred="">水符「夏天的塑料瓶火箭」</a> &#8226; <a href="./三平战机.md" title="三平战机" unred="">妖怪战舰「三平战机」</a></div></td></tr></tbody></table><div></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div><a href="./东方深秘录.md" title="东方深秘录">东方深秘录</a></div></td><td style=";;" class="navbox-list navbox-even"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>对战符卡</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./河底大战争.md" title="河底大战争" unred="">暴雨「河底大战争」</a> &#8226; <a href="./射击吧！泡泡龙.md" title="射击吧！泡泡龙" unred="">泡符「射击吧！泡泡龙」</a> &#8226; <a href="./飞翔吧！三平加油.md" title="飞翔吧！三平加油" unred="">战机「飞翔吧！三平加油」</a> &#8226; <a href="./尼斯湖现在就在这里！.md" title="尼斯湖现在就在这里！" unred="">＊尼斯湖现在就在这里！＊</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>故事符卡</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./尼西的完全养殖技术.md" title="尼西的完全养殖技术" unred="">＊尼西的完全养殖技术＊</a></div></td></tr></tbody></table><div></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div><a href="./东方凭依华.md" title="东方凭依华">东方凭依华</a></div></td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>对战符卡</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./河底大战争.md" title="河底大战争" unred="">暴雨「河底大战争」</a> &#8226; <a href="./射击吧！泡泡龙.md" title="射击吧！泡泡龙" unred="">泡符「射击吧！泡泡龙」</a> &#8226; <a href="./飞翔吧！三平加油.md" title="飞翔吧！三平加油" unred="">战机「飞翔吧！三平加油」</a> &#8226; <a href="./尼斯湖现在就在这里！.md" title="尼斯湖现在就在这里！" unred="">＊尼斯湖现在就在这里！＊</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>故事符卡</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./水泡弹假面舞会.md" title="水泡弹假面舞会" unred="">水面符「水泡弹假面舞会」</a> &#8226; <a href="./入道丛云水泡弹拳.md" title="入道丛云水泡弹拳" unred="">拳水符「入道丛云水泡弹拳」</a></div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">出版物</td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div><a href="./The_Grimoire_of_Marisa.md" title="The Grimoire of Marisa" unred="">魔理沙的魔法书</a></div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./粼粼水底之心伤.md" title="粼粼水底之心伤" unred="">漂溺「粼粼水底之心伤」</a> &#8226; <a href="./河童之河口浪潮.md" title="河童之河口浪潮" unred="">水符「河童之河口浪潮」</a> &#8226; <a href="./妖怪黄瓜.md" title="妖怪黄瓜" unred="">河童「妖怪黄瓜」</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div><a href="./The_Grimoire_of_Usami.md" title="The Grimoire of Usami" unred="">宇佐见的魔法书</a></div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./Shiraito_Fall.md" title="Shiraito Fall" unred="">瀑符「Shiraito Fall」</a></div></td></tr></tbody></table><div></div></td></tr></tbody></table></td></tr></tbody></table>
+
+
+
+<table><tbody><tr><td><table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;;;"><tbody><tr><th style=";" colspan="3" class="navbox-title"><div class="navbar"><div class="noprint plainlinksneverexpand" style="background-color:transparent; padding:0; font-weight:normal; font-size:80%; white-space:nowrap;"><a href="./模板-古明地觉符卡导航.md" title="模板:古明地觉符卡导航"><span style=";;border:none;" title="查看这个模板">查</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<a href="/index.php?title=%E6%A8%A1%E6%9D%BF:%E5%8F%A4%E6%98%8E%E5%9C%B0%E8%A7%89%E7%AC%A6%E5%8D%A1%E5%AF%BC%E8%88%AA&amp;action=edit"><span style=";;border:none;" title="您可以编辑这个模板。请在储存变更之前先预览">编</span></a></div></div><span><a href="./古明地觉.md" title="古明地觉">古明地觉</a>符卡</span></th></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">射击游戏</td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div><a href="./东方地灵殿.md" title="东方地灵殿">东方地灵殿</a></div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./Terrible_Souvenir.md" title="Terrible Souvenir" unred="">回忆「Terrible Souvenir」</a> &#8226; <a href="./Terrible_Souvenir.md" title="Terrible Souvenir" unred="">回忆「恐怖催眠术」</a> &#8226; <a href="./二重黑死蝶.md" title="二重黑死蝶" unred="">回忆「二重黑死蝶」</a> &#8226; <a href="./飞光虫之巢.md" title="飞光虫之巢" unred="">回忆「飞行虫之巢」</a> &#8226; <a href="./波与粒的境界.md" title="波与粒的境界" unred="">回忆「波与粒的境界」</a> &#8226; <a href="./户隐山之投.md" title="户隐山之投" unred="">回忆「户隐山之投」</a> &#8226; <a href="./百万鬼夜行.md" title="百万鬼夜行" unred="">回忆「百万鬼夜行」</a> &#8226; <a href="./蒙蒙迷雾.md" title="蒙蒙迷雾" unred="">回忆「蒙蒙迷雾」</a> &#8226; <a href="./风神木叶隐身术.md" title="风神木叶隐身术" unred="">回忆「风神木叶隐身术」</a> &#8226; <a href="./天狗巨暴流.md" title="天狗巨暴流" unred="">回忆「天狗巨暴流」</a> &#8226; <a href="./鸟居旋风.md" title="鸟居旋风" unred="">回忆「鸟居旋风」</a> &#8226; <a href="./春之京都人偶.md" title="春之京都人偶" unred="">回忆「春之京都人偶」</a> &#8226; <a href="./Straw_Doll_Kamikaze.md" title="Straw Doll Kamikaze" unred="">回忆「Straw Doll Kamikaze」</a> &#8226; <a href="./Artful_Sacrifice.md" title="Artful Sacrifice" unred="">回忆「Return Inanimateness」</a> &#8226; <a href="./Mercury_Poison.md" title="Mercury Poison" unred="">回忆「Mercury Poison」</a> &#8226; <a href="./Princess_Undine.md" title="Princess Undine" unred="">回忆「Princess Undine」</a> &#8226; <a href="./贤者之石.md" title="贤者之石" unred="">回忆「贤者之石」</a> &#8226; <a href="./妖怪黄瓜.md" title="妖怪黄瓜" unred="">回忆「延展手臂」</a> &#8226; <a href="./河童之河口浪潮.md" title="河童之河口浪潮" unred="">回忆「河童之河口浪潮」</a> &#8226; <a href="./粼粼水底之心伤.md" title="粼粼水底之心伤" unred="">回忆「粼粼水底之心伤」</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div><a href="./东方文花帖DS.md" title="东方文花帖DS">东方文花帖DS</a></div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./Brain_Fingerprint.md" title="Brain Fingerprint" unred="">脑符「Brain Fingerprint」</a> &#8226; <a href="./Camera-Shy_Rose.md" title="Camera-Shy Rose" unred="">心花「Camera-Shy Rose」</a> &#8226; <a href="./金阁寺的整块天花板.md" title="金阁寺的整块天花板" unred="">回忆「朦胧记忆中的金阁寺」</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div><a href="./秘封噩梦日记.md" title="秘封噩梦日记">秘封噩梦日记</a></div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./Mind_Stellar_Steal.md" title="Mind Stellar Steal" unred="">地灵符「Mind Stellar Steal」</a> &#8226; <a href="./Perfect_Mind_Control.md" title="Perfect Mind Control" unred="">「Perfect Mind Control」</a> &#8226; <a href="./自我的式神.md" title="自我的式神" unred="">地妖符「自我的式神」</a></div></td></tr></tbody></table><div></div></td><td class="navbox-image" style="" rowspan="3"><a href="./文件-古明地觉（Q版立绘）.png.md" class="image"><img alt="古明地觉（Q版立绘）.png" src="https://upload.thwiki.cc/thumb/6/6c/%E5%8F%A4%E6%98%8E%E5%9C%B0%E8%A7%89%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png/160px-%E5%8F%A4%E6%98%8E%E5%9C%B0%E8%A7%89%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="160" height="160" srcset="https://upload.thwiki.cc/thumb/6/6c/%E5%8F%A4%E6%98%8E%E5%9C%B0%E8%A7%89%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png/240px-%E5%8F%A4%E6%98%8E%E5%9C%B0%E8%A7%89%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/6/6c/%E5%8F%A4%E6%98%8E%E5%9C%B0%E8%A7%89%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png/320px-%E5%8F%A4%E6%98%8E%E5%9C%B0%E8%A7%89%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="500" data-file-height="500"></a></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">出版物</td><td style=";;" class="navbox-list navbox-even"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div><a href="./The_Grimoire_of_Marisa.md" title="The Grimoire of Marisa" unred="">魔理沙的魔法书</a></div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./Terrible_Souvenir.md" title="Terrible Souvenir" unred="">回忆「Terrible Souvenir」</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div><a href="./The_Grimoire_of_Usami.md" title="The Grimoire of Usami" unred="">宇佐见的魔法书</a></div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./Brain_Fingerprint.md" title="Brain Fingerprint" unred="">脑符「Brain Fingerprint」</a></div></td></tr></tbody></table><div></div></td></tr></tbody></table></td></tr></tbody></table>
+
+
+
+
+
+
+---
+
+此文档由 [THBWiki-Markdown-Builder](https://github.com/Delsin-Yu/THBWiki-Markdown-Builder) 构建。
+
+文档中的所有内容除特殊注明外，均在 [**知识共享(Creative Commons) 署名-非商业性使用-相同方式共享 3.0 协议**](https://creativecommons.org/licenses/by-sa/3.0/deed.zh-hans) 下提供，附加条款亦可能应用。
+
+引用类型与其他类型作品版权归原作者所有，如有作者授权则遵照授权协议使用。
+
+详细请查阅 [THBWiki：免责声明](https://thbwiki.cc/THBWiki:%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E)。
+

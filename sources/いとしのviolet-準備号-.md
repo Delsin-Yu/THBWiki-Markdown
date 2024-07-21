@@ -1,0 +1,34 @@
+# いとしのviolet-準備号-
+
+<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\3\3c\ns0%3A%E3%81%84%E3%81%A8%E3%81%97%E3%81%AEviolet-%E6%BA%96%E5%82%99%E5%8F%B7-.html -->
+
+2018年10月14日 由 poprication 于 博丽神社秋季例大祭5 发布的漫画同人志，登场人物有 八云紫、宇佐见堇子，分级为 一般向
+
+本页是关于东方Project  
+ **二次创作同人志 (未找到链接)** 的词条
+## 作品信息
+
+<table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-いとしのviolet-準備号-封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/b/be/%E3%81%84%E3%81%A8%E3%81%97%E3%81%AEviolet-%E6%BA%96%E5%82%99%E5%8F%B7-%E5%B0%81%E9%9D%A2.jpg/117px-%E3%81%84%E3%81%A8%E3%81%97%E3%81%AEviolet-%E6%BA%96%E5%82%99%E5%8F%B7-%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="117" height="168" srcset="https://upload.thwiki.cc/thumb/b/be/%E3%81%84%E3%81%A8%E3%81%97%E3%81%AEviolet-%E6%BA%96%E5%82%99%E5%8F%B7-%E5%B0%81%E9%9D%A2.jpg/176px-%E3%81%84%E3%81%A8%E3%81%97%E3%81%AEviolet-%E6%BA%96%E5%82%99%E5%8F%B7-%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/b/be/%E3%81%84%E3%81%A8%E3%81%97%E3%81%AEviolet-%E6%BA%96%E5%82%99%E5%8F%B7-%E5%B0%81%E9%9D%A2.jpg/235px-%E3%81%84%E3%81%A8%E3%81%97%E3%81%AEviolet-%E6%BA%96%E5%82%99%E5%8F%B7-%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="358" data-file-height="512"></a><div class="cover-char">角色：<a href="./八云紫.md" title="八云紫">八云紫</a>，<a href="./宇佐见堇子.md" title="宇佐见堇子">宇佐见堇子</a>，<a href="./摩多罗隐岐奈.md" title="摩多罗隐岐奈">摩多罗隐岐奈</a></div></td>
+</tr><tr><td class="label">名称</td><td colspan="2"> いとしのviolet-準備号- </td></tr><tr><td class="label">制作方</td><td><a href="./poprication.md" title="poprication">poprication</a></td><td class="cover-artwork" rowspan="6" style="min-width:168px;"><a href="./文件-いとしのviolet-準備号-封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/b/be/%E3%81%84%E3%81%A8%E3%81%97%E3%81%AEviolet-%E6%BA%96%E5%82%99%E5%8F%B7-%E5%B0%81%E9%9D%A2.jpg/117px-%E3%81%84%E3%81%A8%E3%81%97%E3%81%AEviolet-%E6%BA%96%E5%82%99%E5%8F%B7-%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="117" height="168" srcset="https://upload.thwiki.cc/thumb/b/be/%E3%81%84%E3%81%A8%E3%81%97%E3%81%AEviolet-%E6%BA%96%E5%82%99%E5%8F%B7-%E5%B0%81%E9%9D%A2.jpg/176px-%E3%81%84%E3%81%A8%E3%81%97%E3%81%AEviolet-%E6%BA%96%E5%82%99%E5%8F%B7-%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/b/be/%E3%81%84%E3%81%A8%E3%81%97%E3%81%AEviolet-%E6%BA%96%E5%82%99%E5%8F%B7-%E5%B0%81%E9%9D%A2.jpg/235px-%E3%81%84%E3%81%A8%E3%81%97%E3%81%AEviolet-%E6%BA%96%E5%82%99%E5%8F%B7-%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="358" data-file-height="512"></a><div class="cover-char">角色：<a href="./八云紫.md" title="八云紫">八云紫</a>，<a href="./宇佐见堇子.md" title="宇佐见堇子">宇佐见堇子</a>，<a href="./摩多罗隐岐奈.md" title="摩多罗隐岐奈">摩多罗隐岐奈</a></div></td>
+</tr><tr><td class="label">首发日期</td><td>2018-10-14&#160;（<a href="/展会作品列表?e=%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E7%A7%8B%E5%AD%A3%E4%BE%8B%E5%A4%A7%E7%A5%AD%235">第五回 博麗神社秋季例大祭</a>）</td></tr><tr><td class="label">类型</td><td>漫画</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">登场人物</td><td><a href="./八云紫.md" title="八云紫">八云紫</a>，<a href="./宇佐见堇子.md" title="宇佐见堇子">宇佐见堇子</a></td></tr><tr><td class="label">售价</td><td>200日元</td></tr>
+<tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://bs.ricecake.moo.jp/?eid=190">http://bs.ricecake.moo.jp/?eid=190</a></td></tr><tr><td class="label">备注</td><td colspan="2">预告版</td></tr></tbody></table>
+
+いとしのviolet-準備号-（同人志，poprication，2018） - 2018年10月14日 由 poprication 于 博丽神社秋季例大祭5 发布的漫画同人志，登场人物有 八云紫、宇佐见堇子，分级为 一般向
+## Staff
+- [べにしゃけ](./べにしゃけ.md)
+
+## 评论
+
+
+
+
+---
+
+此文档由 [THBWiki-Markdown-Builder](https://github.com/Delsin-Yu/THBWiki-Markdown-Builder) 构建。
+
+文档中的所有内容除特殊注明外，均在 [**知识共享(Creative Commons) 署名-非商业性使用-相同方式共享 3.0 协议**](https://creativecommons.org/licenses/by-sa/3.0/deed.zh-hans) 下提供，附加条款亦可能应用。
+
+引用类型与其他类型作品版权归原作者所有，如有作者授权则遵照授权协议使用。
+
+详细请查阅 [THBWiki：免责声明](https://thbwiki.cc/THBWiki:%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E)。
+

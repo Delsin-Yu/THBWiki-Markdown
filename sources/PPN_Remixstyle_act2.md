@@ -1,0 +1,57 @@
+# PPN_Remixstyle_act2
+
+<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\b1\ns0%3APPN_Remixstyle_act2.html -->
+
+2018年5月6日 由 ぽこぽこぷぺぺぺのんてぃあす 于 博丽神社例大祭15 发布的EP同人专辑，分级为 一般向
+
+本页是关于东方Project  
+ **二次创作同人专辑 (未找到链接)** 的词条
+## 专辑信息
+
+<table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-PPN_Remixstyle_act2封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/e/ef/PPN_Remixstyle_act2%E5%B0%81%E9%9D%A2.png/196px-PPN_Remixstyle_act2%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="196" height="191" srcset="https://upload.thwiki.cc/thumb/e/ef/PPN_Remixstyle_act2%E5%B0%81%E9%9D%A2.png/294px-PPN_Remixstyle_act2%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/e/ef/PPN_Remixstyle_act2%E5%B0%81%E9%9D%A2.png/392px-PPN_Remixstyle_act2%E5%B0%81%E9%9D%A2.png 2x" data-file-width="521" data-file-height="509"></a><div class="cover-char">角色：<a href="./宇佐见莲子.md" title="宇佐见莲子">宇佐见莲子</a>，<a href="./玛艾露贝莉·赫恩.md" title="玛艾露贝莉·赫恩">玛艾露贝莉·赫恩</a></div></td>
+</tr><tr><td class="label">名称</td><td colspan="2"> PPN Remixstyle act2 </td></tr><tr><td class="label">制作方</td><td><a href="./ぽこぽこぷぺぺぺのんてぃあす.md" title="ぽこぽこぷぺぺぺのんてぃあす">ぽこぽこぷぺぺぺのんてぃあす</a></td><td class="cover-artwork" rowspan="7" style="min-width:196px;"><a href="./文件-PPN_Remixstyle_act2封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/e/ef/PPN_Remixstyle_act2%E5%B0%81%E9%9D%A2.png/196px-PPN_Remixstyle_act2%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="196" height="191" srcset="https://upload.thwiki.cc/thumb/e/ef/PPN_Remixstyle_act2%E5%B0%81%E9%9D%A2.png/294px-PPN_Remixstyle_act2%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/e/ef/PPN_Remixstyle_act2%E5%B0%81%E9%9D%A2.png/392px-PPN_Remixstyle_act2%E5%B0%81%E9%9D%A2.png 2x" data-file-width="521" data-file-height="509"></a><div class="cover-char">角色：<a href="./宇佐见莲子.md" title="宇佐见莲子">宇佐见莲子</a>，<a href="./玛艾露贝莉·赫恩.md" title="玛艾露贝莉·赫恩">玛艾露贝莉·赫恩</a></div></td>
+</tr><tr><td class="label">首发日期</td><td>2018-05-06&#160;（<a href="/展会作品列表?e=%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD%2315">第十五回 博麗神社例大祭</a>）</td></tr><tr><td class="label">类型</td><td>EP</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>5</td></tr><tr><td class="label">总时长</td><td>00:00</td></tr></tbody></table>
+
+PPN Remixstyle act2（同人专辑，ぽこぽこぷぺぺぺのんてぃあす，2018） - 2018年5月6日 由 ぽこぽこぷぺぺぺのんてぃあす 于 博丽神社例大祭15 发布的EP同人专辑，分级为 一般向
+## Staff
+  
+ **Arrangement**   
+
+<table><tbody><tr><td><a href="/index.php?title=%E3%81%BE%E3%81%BB%E3%81%9E%E3%81%86&amp;action=edit&amp;redlink=1" class="new" title="まほぞう（页面不存在）">まほぞう</a></td><td></td><td>Tr.1-4</td></tr></tbody></table>
+
+
+Design
+: まほぞう
+Illustration
+: 画师 （[网址 社团]）
+
+## 试听
+  
+<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/511753500&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=false"></iframe>
+
+  
+
+## 曲目列表
+
+<table><tbody><tr><td id="1" class="infoO"><b>01</b></td><td id="再稼働_（EURO_EDM）" colspan="2" class="title">再稼働 （EURO EDM）<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=まほぞう，まほぞう&amp;ogmusic=博麗　～Eastern Wind&amp;fromwiki=PPN_Remixstyle_act2"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E3%81%BE%E3%81%BB%E3%81%9E%E3%81%86&amp;action=edit&amp;redlink=1" class="new" title="まほぞう（页面不存在）">まほぞう</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，まほぞう&amp;fromwiki=PPN_Remixstyle_act2"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">再编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E3%81%BE%E3%81%BB%E3%81%9E%E3%81%86&amp;action=edit&amp;redlink=1" class="new" title="まほぞう（页面不存在）">まほぞう</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=まほぞう&amp;fromwiki=PPN_Remixstyle_act2"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">初发布</td><td class="text" colspan="2"><a href="/Alcoholic_GENESIS#9" title="Alcoholic GENESIS">再稼働</a><div class="source"><a href="./Alcoholic_GENESIS.md" title="Alcoholic GENESIS">Alcoholic GENESIS</a></div></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=博麗　～Eastern Wind&amp;fromwiki=PPN_Remixstyle_act2"><span></span></a></span><div class="ogmusic"><a href="/%E5%8D%9A%E9%BA%97_%EF%BD%9EEastern_Wind" class="mw-redirect" title="博麗 ～Eastern Wind">博麗　～Eastern Wind</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E5%B0%81%E9%AD%94%E5%BD%95_%EF%BD%9E_the_Story_of_Eastern_Wonderland." class="mw-redirect" title="东方封魔录 ～ the Story of Eastern Wonderland.">东方封魔录　～ the Story of Eastern Wonderland.</a></div></td></tr>
+<tr><td id="2" class="infoYD"><b>02</b></td><td id="夕影の想い出" colspan="2" class="title">夕影の想い出<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=まほぞう&amp;ogmusic=The Legend of KAGE&amp;fromwiki=PPN_Remixstyle_act2"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E3%81%BE%E3%81%BB%E3%81%9E%E3%81%86&amp;action=edit&amp;redlink=1" class="new" title="まほぞう（页面不存在）">まほぞう</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，まほぞう&amp;fromwiki=PPN_Remixstyle_act2"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=The Legend of KAGE&amp;fromwiki=PPN_Remixstyle_act2"><span></span></a></span><div class="ogmusic"><a href="./The_Legend_of_KAGE.md" title="The Legend of KAGE">The Legend of KAGE</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E7%81%B5%E5%BC%82%E4%BC%A0_%EF%BD%9E_Highly_Responsive_to_Prayers." class="mw-redirect" title="东方灵异传 ～ Highly Responsive to Prayers.">东方灵异传　～ Highly Responsive to Prayers.</a></div></td></tr>
+<tr><td id="3" class="infoO"><b>03</b></td><td id="旧約都市伝説_（to_Fortune_city）" colspan="2" class="title">旧約都市伝説 （to Fortune city）<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=まほぞう，まほぞう&amp;ogmusic=旧世界の冒険酒場&amp;fromwiki=PPN_Remixstyle_act2"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E3%81%BE%E3%81%BB%E3%81%9E%E3%81%86&amp;action=edit&amp;redlink=1" class="new" title="まほぞう（页面不存在）">まほぞう</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，まほぞう&amp;fromwiki=PPN_Remixstyle_act2"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">再编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E3%81%BE%E3%81%BB%E3%81%9E%E3%81%86&amp;action=edit&amp;redlink=1" class="new" title="まほぞう（页面不存在）">まほぞう</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=まほぞう&amp;fromwiki=PPN_Remixstyle_act2"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">初发布</td><td class="text" colspan="2"><a href="/Alcoholic_GENESIS#1" title="Alcoholic GENESIS">旧約都市伝説</a><div class="source"><a href="./Alcoholic_GENESIS.md" title="Alcoholic GENESIS">Alcoholic GENESIS</a></div></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=旧世界の冒険酒場&amp;fromwiki=PPN_Remixstyle_act2"><span></span></a></span><div class="ogmusic"><a href="/%E6%97%A7%E4%B8%96%E7%95%8C%E3%81%AE%E5%86%92%E9%99%BA%E9%85%92%E5%A0%B4" class="mw-redirect" title="旧世界の冒険酒場">旧世界の冒険酒場</a></div><div class="source"><a href="/%E6%97%A7%E7%BA%A6%E9%85%92%E9%A6%86_%EF%BD%9E_Dateless_Bar_%22Old_Adam%22." class="mw-redirect" title="旧约酒馆 ～ Dateless Bar &quot;Old Adam&quot;.">旧约酒馆　～ Dateless Bar "Old Adam".</a></div></td></tr>
+<tr><td id="4" class="infoO"><b>04</b></td><td id="少女達の源神話_（jazzy_mix）" colspan="2" class="title">少女達の源神話 （jazzy mix）<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=まほぞう，まほぞう&amp;ogmusic=大神神話伝&amp;fromwiki=PPN_Remixstyle_act2"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E3%81%BE%E3%81%BB%E3%81%9E%E3%81%86&amp;action=edit&amp;redlink=1" class="new" title="まほぞう（页面不存在）">まほぞう</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，まほぞう&amp;fromwiki=PPN_Remixstyle_act2"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">再编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E3%81%BE%E3%81%BB%E3%81%9E%E3%81%86&amp;action=edit&amp;redlink=1" class="new" title="まほぞう（页面不存在）">まほぞう</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=まほぞう&amp;fromwiki=PPN_Remixstyle_act2"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">初发布</td><td class="text" colspan="2"><a href="/Alcoholic_GENESIS#6" title="Alcoholic GENESIS">少女達の源神話</a><div class="source"><a href="./Alcoholic_GENESIS.md" title="Alcoholic GENESIS">Alcoholic GENESIS</a></div></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=大神神話伝&amp;fromwiki=PPN_Remixstyle_act2"><span></span></a></span><div class="ogmusic"><a href="/%E5%A4%A7%E7%A5%9E%E7%A5%9E%E8%A9%B1%E4%BC%9D" class="mw-redirect" title="大神神話伝">大神神話伝</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E7%A5%9E%E7%81%B5%E5%BA%99_%EF%BD%9E_Ten_Desires." class="mw-redirect" title="东方神灵庙 ～ Ten Desires.">东方神灵庙　～ Ten Desires.</a></div></td></tr>
+<tr><td id="5" class="info"><b>05</b></td><td id="???????????????" colspan="2" class="title">???????????????<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=PPN_Remixstyle_act2"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr></tbody></table>
+
+
+## 评论
+
+
+
+
+---
+
+此文档由 [THBWiki-Markdown-Builder](https://github.com/Delsin-Yu/THBWiki-Markdown-Builder) 构建。
+
+文档中的所有内容除特殊注明外，均在 [**知识共享(Creative Commons) 署名-非商业性使用-相同方式共享 3.0 协议**](https://creativecommons.org/licenses/by-sa/3.0/deed.zh-hans) 下提供，附加条款亦可能应用。
+
+引用类型与其他类型作品版权归原作者所有，如有作者授权则遵照授权协议使用。
+
+详细请查阅 [THBWiki：免责声明](https://thbwiki.cc/THBWiki:%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E)。
+

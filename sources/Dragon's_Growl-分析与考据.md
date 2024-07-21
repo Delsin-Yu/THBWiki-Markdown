@@ -1,0 +1,37 @@
+# Dragon's_Growl/分析与考据
+
+<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\5\5b\ns0%3ADragon%27s_Growl%2F%E5%88%86%E6%9E%90%E4%B8%8E%E8%80%83%E6%8D%AE.html -->
+
+符卡 | 茨木华扇
+
+## 分析与考据
+  
+ **龍符「ドラゴンズグロウル」**  龙符「Dragon's Growl」（巨龙之啸）
+  
+
+- ドラゴン（dragon）
+  - 英语：龙。
+
+- グロウル（growl）
+  - 英语：咆哮。
+
+
+## 导航
+
+<table><tbody><tr><td><table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;;;"><tbody><tr><th style=";" colspan="3" class="navbox-title"><div class="navbar"><div class="noprint plainlinksneverexpand" style="background-color:transparent; padding:0; font-weight:normal; font-size:80%; white-space:nowrap;"><a href="./模板-茨木华扇符卡导航.md" title="模板:茨木华扇符卡导航"><span style=";;border:none;" title="查看这个模板">查</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<a href="/index.php?title=%E6%A8%A1%E6%9D%BF:%E8%8C%A8%E6%9C%A8%E5%8D%8E%E6%89%87%E7%AC%A6%E5%8D%A1%E5%AF%BC%E8%88%AA&amp;action=edit"><span style=";;border:none;" title="您可以编辑这个模板。请在储存变更之前先预览">编</span></a></div></div><span><a href="./茨木华扇.md" title="茨木华扇">茨木华扇</a>符卡</span></th></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">格斗游戏</td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div><a href="./东方深秘录.md" title="东方深秘录">东方深秘录</a></div></td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>对战符卡</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./假肢变形.md" title="假肢变形" unred="">包符「假肢变形」</a> &#8226; <a href="./Dragon's_Growl.md" title="Dragon&#39;s Growl" unred="">龙符「Dragon's Growl」</a> &#8226; <a href="./Hawk_Beacon.md" title="Hawk Beacon" unred="">鹰符「Hawk Beacon」</a> &#8226; <a href="./猿之手啊！捏碎敌人！.md" title="猿之手啊！捏碎敌人！" unred="">＊猿之手啊！捏碎敌人！＊</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>故事符卡</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./低速的务光.md" title="低速的务光" unred="">雷符「低速的务光」</a> &#8226; <a href="./两门的彭祖.md" title="两门的彭祖" unred="">虎符「两门的彭祖」</a> &#8226; <a href="./到死都会实现愿望的猴爪.md" title="到死都会实现愿望的猴爪" unred="">＊到死都会实现愿望的猴爪＊</a> &#8226; <a href="./猿之手会做一个神秘的梦.md" title="猿之手会做一个神秘的梦" unred="">＊猿之手会做一个神秘的梦＊</a></div></td></tr></tbody></table><div></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div><a href="./东方凭依华.md" title="东方凭依华">东方凭依华</a></div></td><td style=";;" class="navbox-list navbox-even"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>对战符卡</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./假肢变形.md" title="假肢变形" unred="">包符「假肢变形」</a> &#8226; <a href="./Dragon's_Growl.md" title="Dragon&#39;s Growl" unred="">龙符「Dragon's Growl」</a> &#8226; <a href="./Hawk_Beacon.md" title="Hawk Beacon" unred="">鹰符「Hawk Beacon」</a> &#8226; <a href="./猿之手啊！捏碎敌人！.md" title="猿之手啊！捏碎敌人！" unred="">＊猿之手啊！捏碎敌人！＊</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>故事符卡</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./飞鹰的梦想封印狩猎.md" title="飞鹰的梦想封印狩猎" unred="">灵鹰符「飞鹰的梦想封印狩猎」</a> &#8226; <a href="./务光的雷弹梦想封印.md" title="务光的雷弹梦想封印" unred="">雷灵符「务光的雷弹梦想封印」</a> &#8226; <a href="./巨龙飞鸟井之踢.md" title="巨龙飞鸟井之踢" unred="">龙蹴符「巨龙飞鸟井之踢」</a> &#8226; <a href="./务光与叶叶的弹幕变化.md" title="务光与叶叶的弹幕变化" unred="">雷化符「务光与叶叶的弹幕变化」</a> &#8226; <a href="./Dragon's_Alien_Capsule.md" title="Dragon&#39;s Alien Capsule" unred="">龙化符「Dragon's Alien Capsule」</a> &#8226; <a href="./务光的雷霆闪光梦幻弹.md" title="务光的雷霆闪光梦幻弹" unred="">雷符「务光的雷霆闪光梦幻弹」</a> &#8226; <a href="./Dragon's_Optical_Dream.md" title="Dragon&#39;s Optical Dream" unred="">龙符「Dragon's Optical Dream」</a></div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td><td class="navbox-image" style="" rowspan="1"><a href="./文件-茨木华扇（Q版立绘）.png.md" class="image"><img alt="茨木华扇（Q版立绘）.png" src="https://upload.thwiki.cc/thumb/3/3a/%E8%8C%A8%E6%9C%A8%E5%8D%8E%E6%89%87%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png/160px-%E8%8C%A8%E6%9C%A8%E5%8D%8E%E6%89%87%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="160" height="160" srcset="https://upload.thwiki.cc/thumb/3/3a/%E8%8C%A8%E6%9C%A8%E5%8D%8E%E6%89%87%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png/240px-%E8%8C%A8%E6%9C%A8%E5%8D%8E%E6%89%87%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/3/3a/%E8%8C%A8%E6%9C%A8%E5%8D%8E%E6%89%87%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png/320px-%E8%8C%A8%E6%9C%A8%E5%8D%8E%E6%89%87%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="500" data-file-height="500"></a></td></tr></tbody></table></td></tr></tbody></table>
+
+
+
+
+
+
+---
+
+此文档由 [THBWiki-Markdown-Builder](https://github.com/Delsin-Yu/THBWiki-Markdown-Builder) 构建。
+
+文档中的所有内容除特殊注明外，均在 [**知识共享(Creative Commons) 署名-非商业性使用-相同方式共享 3.0 协议**](https://creativecommons.org/licenses/by-sa/3.0/deed.zh-hans) 下提供，附加条款亦可能应用。
+
+引用类型与其他类型作品版权归原作者所有，如有作者授权则遵照授权协议使用。
+
+详细请查阅 [THBWiki：免责声明](https://thbwiki.cc/THBWiki:%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E)。
+

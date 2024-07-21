@@ -1,0 +1,27 @@
+# 文件:Absolute_Blue_四面疏歌_～_追イ詰メラレタ賢シキ少女ハ封面.jpg
+
+<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\file\9\91\ns6%3AAbsolute_Blue_%E5%9B%9B%E9%9D%A2%E7%96%8F%E6%AD%8C_%EF%BD%9E_%E8%BF%BD%E3%82%A4%E8%A9%B0%E3%83%A1%E3%83%A9%E3%83%AC%E3%82%BF%E8%B3%A2%E3%82%B7%E3%82%AD%E5%B0%91%E5%A5%B3%E3%83%8F%E5%B0%81%E9%9D%A2%2Ejpg.html -->
+
+Re：Volte | 专辑封面 | 封面图片
+
+  
+使用了本文件作封面图片的作品：
+  
+
+- [Absolute Blue 四面疏歌 ～ 追イ詰メラレタ賢シキ少女ハ](./Absolute_Blue_四面疏歌_～_追イ詰メラレタ賢シキ少女ハ.md)  
+该封面包含的角色：- [稀神探女](./稀神探女.md)
+
+
+
+
+
+---
+
+此文档由 [THBWiki-Markdown-Builder](https://github.com/Delsin-Yu/THBWiki-Markdown-Builder) 构建。
+
+文档中的所有内容除特殊注明外，均在 [**知识共享(Creative Commons) 署名-非商业性使用-相同方式共享 3.0 协议**](https://creativecommons.org/licenses/by-sa/3.0/deed.zh-hans) 下提供，附加条款亦可能应用。
+
+引用类型与其他类型作品版权归原作者所有，如有作者授权则遵照授权协议使用。
+
+详细请查阅 [THBWiki：免责声明](https://thbwiki.cc/THBWiki:%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E)。
+

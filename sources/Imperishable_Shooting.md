@@ -1,0 +1,116 @@
+# Imperishable_Shooting
+
+<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\bb\ns0%3AImperishable_Shooting.html -->
+
+官方符卡
+
+本页是关于 **符卡 (未找到链接)（SpellCard）** 的词条Imperishable Shooting（符卡） - 官方符卡
+
+<table>
+
+<tbody><tr>
+<th>中文名</th>
+<th>日文名
+</th></tr>
+<tr>
+<td>「Imperishable Shooting」（不朽的弹幕）</td>
+<td>「インペリシャブルシューティング」
+</td></tr></tbody></table>
+
+
+  
+  
+
+  
+
+## 目录
+
+- [1 登场](#登场)
+
+  - [1.1 东方永夜抄](#东方永夜抄)
+
+
+
+- [2 符卡说明](#符卡说明)
+
+  - [2.1 东方永夜抄](#东方永夜抄_2)
+  - [2.2 The Grimoire of Marisa](#The_Grimoire_of_Marisa)
+
+
+
+- [3 其他内容](#其他内容)
+
+  - [3.1 游戏资料](#游戏资料)
+  - [3.2 分析考据](#分析考据)
+
+
+
+- [4 导航](#导航)
+
+
+
+
+## 登场
+### 东方永夜抄
+
+<table>
+
+<tbody><tr>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:302px;"><a href="./文件-「Imperishable_Shooting」（永夜抄）.jpg.md" class="image"><img alt="" src="https://upload.thwiki.cc/thumb/0/0a/%E3%80%8CImperishable_Shooting%E3%80%8D%EF%BC%88%E6%B0%B8%E5%A4%9C%E6%8A%84%EF%BC%89.jpg/300px-%E3%80%8CImperishable_Shooting%E3%80%8D%EF%BC%88%E6%B0%B8%E5%A4%9C%E6%8A%84%EF%BC%89.jpg" decoding="async" loading="lazy" width="300" height="350" class="thumbimage" srcset="https://upload.thwiki.cc/0/0a/%E3%80%8CImperishable_Shooting%E3%80%8D%EF%BC%88%E6%B0%B8%E5%A4%9C%E6%8A%84%EF%BC%89.jpg 1.5x" data-file-width="384" data-file-height="448"></a>  <div class="thumbcaption"><div class="magnify"><a href="./文件-「Imperishable_Shooting」（永夜抄）.jpg.md" class="internal" title="放大"></a></div>「Imperishable Shooting」</div></div></div>
+</td>
+<td>
+<p>Extra面BOSS藤原妹红符卡。
+</p>
+</td></tr></tbody></table>
+
+
+
+## 符卡说明
+### 东方永夜抄
+
+<table><tbody><tr class="tt-content-header" id="Extra-27" data-pos="&#91;&quot;Extra&quot;,27&#93;"><td class="tt-jah" lang="ja"><div class="poem">No.205 「インペリシャブルシューティング」</div></td><td class="tt-zhh" lang="zh"><div class="poem">No.205 <a href="/%E3%80%8CImperishable_Shooting%E3%80%8D" class="mw-redirect" title="「Imperishable Shooting」">「Imperishable Shooting」</a></div></td></tr><tr class="tt-content" id="Extra-28" data-pos="&#91;&quot;Extra&quot;,28&#93;"><td class="tt-ja" lang="ja"><div class="poem">シューティングは終わらない。でもこの攻撃はシュートしていない。<br>そんな攻撃にこの名前を付けたのには意味がある（ここに書けよ）。</div></td><td class="tt-zh" lang="zh"><div class="poem">射击游戏不会终结。不过这个攻击并没有射击。<br>给那样的攻击赋予这个名字是有它的意义的。（在这里写清楚啊）<br></div></td></tr></tbody></table>
+
+
+### The Grimoire of Marisa
+
+<table><tbody><tr class="tt-content-header" id="=-41" data-pos="&#91;&quot;=&quot;,41&#93;"><td class="tt-jah" lang="ja"><div class="poem">「インペリシャブルシューティング」</div></td><td class="tt-zhh" lang="zh"><div class="poem"><a href="/%E3%80%8CImperishable_Shooting%E3%80%8D" class="mw-redirect" title="「Imperishable Shooting」">「Imperishable Shooting」</a>（不朽的弹幕）<br></div></td></tr><tr class="tt-content" id="=-42" data-pos="&#91;&quot;=&quot;,42&#93;"><td class="tt-ja" lang="ja"><div class="poem">使用者　　　　藤原妹紅</div></td><td class="tt-zh" lang="zh"><div class="poem">使用者　　　　<a href="./藤原妹红.md" title="藤原妹红">藤原妹红</a><br></div></td></tr><tr class="tt-content" id="=-43" data-pos="&#91;&quot;=&quot;,43&#93;"><td class="tt-ja" lang="ja"><div class="poem">備考　　　　　演劇タイプ</div></td><td class="tt-zh" lang="zh"><div class="poem">备考　　　　　表演类<br></div></td></tr><tr class="tt-content" id="=-44" data-pos="&#91;&quot;=&quot;,44&#93;"><td class="tt-ja" lang="ja"><div class="poem">感慨深さ　　　★★★★★★</div></td><td class="tt-zh" lang="zh"><div class="poem">深深感慨度　　★★★★★★<br></div></td></tr><tr class="tt-content" id="=-45" data-pos="&#91;&quot;=&quot;,45&#93;"><td class="tt-ja" lang="ja"><div class="poem">破滅と再生を繰り返す弾幕。究極の弾幕だ。</div></td><td class="tt-zh" lang="zh"><div class="poem">重复破灭与再生的弹幕。究极的弹幕啊。<br></div></td></tr><tr class="tt-content" id="=-46" data-pos="&#91;&quot;=&quot;,46&#93;"><td class="tt-ja" lang="ja"><div class="poem">ある形状から派生していくのだが、最終的には元の形に戻る。その間に避ける道を見つけなければならない。私はこの弾幕を形状記憶弾幕と呼んでいる。</div></td><td class="tt-zh" lang="zh"><div class="poem">虽然会从一个形状逐渐的衍生，但最终还是会回到原来的形状。如果不在此之间找到回避的方法就玩完了。我将这个弹幕叫形状记忆弹幕。<br></div></td></tr><tr class="tt-content" id="=-47" data-pos="&#91;&quot;=&quot;,47&#93;"><td class="tt-ja" lang="ja"><div class="poem">死んでは蘇る妹紅らしい弾幕である。弾幕も死んでは蘇る、そんな事を繰り返していくんだろうな。再生の度に人間を弾幕の中に閉じ込める。もし入る隙間が用意されていなければ、弾幕は存在意義を失い、後は幽霊だけが住む墓場となるだけだろう。みんな色んな事を考えてスペルカードを生み出しているんだな。</div></td><td class="tt-zh" lang="zh"><div class="poem">这个弹幕就和会死而复生的妹红一样。弹幕也会死而复生，而且还能反复地进行。每当再生，都会将人关入弹幕中。如果不在进入缝隙前做好准备的话，弹幕就让你失去存在的意义，到最后就会变成只有幽灵居住的墓地了。大家都在创造出符卡的时候考虑了很多东西嘛。<br></div></td></tr></tbody></table>
+
+
+## 其他内容
+### 游戏资料
+  
+<big>
+</big>  
+<big>- 游戏资料 (未找到链接)
+</big><big></big>  
+<big></big>
+  
+
+### 分析考据
+  
+<big>
+</big>  
+<big>- [分析与考据](./Imperishable_Shooting-分析与考据.md)
+</big><big></big>  
+<big></big>
+  
+
+## 导航
+
+<table><tbody><tr><td><table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;;;"><tbody><tr><th style=";" colspan="3" class="navbox-title"><div class="navbar"><div class="noprint plainlinksneverexpand" style="background-color:transparent; padding:0; font-weight:normal; font-size:80%; white-space:nowrap;"><a href="./模板-藤原妹红符卡导航.md" title="模板:藤原妹红符卡导航"><span style=";;border:none;" title="查看这个模板">查</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<a href="/index.php?title=%E6%A8%A1%E6%9D%BF:%E8%97%A4%E5%8E%9F%E5%A6%B9%E7%BA%A2%E7%AC%A6%E5%8D%A1%E5%AF%BC%E8%88%AA&amp;action=edit"><span style=";;border:none;" title="您可以编辑这个模板。请在储存变更之前先预览">编</span></a></div></div><span><a href="./藤原妹红.md" title="藤原妹红">藤原妹红</a>符卡</span></th></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">射击游戏</td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div><a href="./东方永夜抄.md" title="东方永夜抄">东方永夜抄</a></div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="/%E6%97%B6%E6%95%88%E3%80%8C%E6%9C%88%E5%B2%A9%E7%AC%A0%E7%9A%84%E8%AF%85%E5%92%92%E3%80%8D" class="mw-redirect" title="时效「月岩笠的诅咒」">时效「月岩笠的诅咒」</a> &#8226; <a href="/%E4%B8%8D%E6%AD%BB%E3%80%8C%E7%81%AB%E9%B8%9F_-%E5%87%A4%E7%BF%BC%E5%A4%A9%E7%BF%94-%E3%80%8D" class="mw-redirect" title="不死「火鸟 -凤翼天翔-」">不死「火鸟　-凤翼天翔-」</a> &#8226; <a href="/%E8%97%A4%E5%8E%9F%E3%80%8C%E7%81%AD%E7%BD%AA%E5%AF%BA%E9%99%A2%E4%BC%A4%E3%80%8D" class="mw-redirect" title="藤原「灭罪寺院伤」">藤原「灭罪寺院伤」</a> &#8226; <a href="/%E4%B8%8D%E6%AD%BB%E3%80%8C%E5%BE%90%E7%A6%8F%E6%97%B6%E7%A9%BA%E3%80%8D" class="mw-redirect" title="不死「徐福时空」">不死「徐福时空」</a> &#8226; <a href="/%E7%81%AD%E7%BD%AA%E3%80%8C%E6%AD%A3%E7%9B%B4%E8%80%85%E4%B9%8B%E6%AD%BB%E3%80%8D" class="mw-redirect" title="灭罪「正直者之死」">灭罪「正直者之死」</a> &#8226; <a href="/%E8%99%9A%E4%BA%BA%E3%80%8C%E6%97%A0%E3%80%8D" class="mw-redirect" title="虚人「无」">虚人「无」</a> &#8226; <a href="/%E4%B8%8D%E7%81%AD%E3%80%8C%E4%B8%8D%E6%AD%BB%E9%B8%9F%E4%B9%8B%E5%B0%BE%E3%80%8D" class="mw-redirect" title="不灭「不死鸟之尾」">不灭「不死鸟之尾」</a> &#8226; <a href="/%E8%93%AC%E8%8E%B1%E3%80%8C%E5%87%AF%E9%A3%8E%E5%BF%AB%E6%99%B4_-Fujiyama_Volcano-%E3%80%8D" class="mw-redirect" title="蓬莱「凯风快晴 -Fujiyama Volcano-」">蓬莱「凯风快晴　-Fujiyama Volcano-」</a> &#8226; <a href="/%E3%80%8CPossessed_by_Phoenix%E3%80%8D" class="mw-redirect" title="「Possessed by Phoenix」">「Possessed by Phoenix」</a> &#8226; <a href="/%E3%80%8C%E8%93%AC%E8%8E%B1%E4%BA%BA%E5%BD%A2%E3%80%8D" class="mw-redirect" title="「蓬莱人形」">「蓬莱人形」</a> &#8226; <a href="/%E3%80%8CImperishable_Shooting%E3%80%8D" class="mw-redirect" title="「Imperishable Shooting」">「Imperishable Shooting」</a> &#8226; <a href="/%E3%80%8C%E4%B8%8D%E6%AD%BB%E9%B8%9F%E9%87%8D%E7%94%9F%E3%80%8D" class="mw-redirect" title="「不死鸟重生」">「不死鸟重生」</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div><a href="./东方文花帖.md" title="东方文花帖">东方文花帖</a></div></td><td style=";;" class="navbox-list navbox-even"><div><a href="/%E8%B4%B5%E4%BA%BA%E3%80%8C%E5%9C%A3%E6%97%A5%E8%80%B3%E6%9B%BC%E7%9A%84%E5%BF%A0%E5%91%8A%E3%80%8D" class="mw-redirect" title="贵人「圣日耳曼的忠告」">贵人「圣日耳曼的忠告」</a> &#8226; <a href="/%E8%93%AC%E8%8E%B1%E3%80%8C%E7%91%9E%E6%B1%9F%E6%B5%A6%E5%B2%9B%E5%AD%90%E4%B8%8E%E4%BA%94%E8%89%B2%E7%9A%84%E7%91%9E%E9%BE%9F%E3%80%8D" class="mw-redirect" title="蓬莱「瑞江浦岛子与五色的瑞龟」">蓬莱「瑞江浦岛子与五色的瑞龟」</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div><a href="./弹幕天邪鬼.md" title="弹幕天邪鬼">弹幕天邪鬼</a></div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="/%E6%83%9C%E5%91%BD%E3%80%8C%E4%B8%8D%E6%AD%BB%E4%B9%8B%E8%BA%AB%E7%9A%84%E8%88%8D%E8%BA%AB%E5%87%BB%E3%80%8D" class="mw-redirect" title="惜命「不死之身的舍身击」">惜命「不死之身的舍身击」</a> &#8226; <a href="/%E3%80%8C%E7%81%AB%E9%B8%9F_%E2%80%90%E4%B8%8D%E6%AD%BB%E4%BC%A0%E8%AF%B4%E2%80%90%E3%80%8D" class="mw-redirect" title="「火鸟 ‐不死传说‐」">「火鸟 ‐不死传说‐」</a> &#8226; <a href="/%E3%80%8CResurrection%E3%80%8D" class="mw-redirect" title="「Resurrection」">「Resurrection」</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div><a href="./秘封噩梦日记.md" title="秘封噩梦日记">秘封噩梦日记</a></div></td><td style=";;" class="navbox-list navbox-even"><div><a href="/%E8%90%83%E5%A4%9C%E7%AC%A6%E3%80%8C%E8%BA%AB%E5%91%BD%E9%9B%BE%E6%95%A3%E3%80%8D" class="mw-redirect" title="萃夜符「身命雾散」">萃夜符「身命雾散」</a> &#8226; <a href="/%E6%B0%B8%E7%8F%A0%E7%AC%A6%E3%80%8C%E8%88%8D%E8%BA%AB%E4%B9%8B%E5%8F%8D%E5%B0%84%E3%80%8D" class="mw-redirect" title="永珠符「舍身之反射」">永珠符「舍身之反射」</a> &#8226; <a href="/%E6%B0%B8%E7%8F%A0%E7%AC%A6%E3%80%8C%E6%97%A0%E7%A7%BD%E4%B9%8B%E7%8F%A0%E4%B8%8E%E5%A4%9A%E7%A7%BD%E4%B9%8B%E7%81%B5%E3%80%8D" class="mw-redirect" title="永珠符「无秽之珠与多秽之灵」">永珠符「无秽之珠与多秽之灵」</a></div></td></tr></tbody></table><div></div></td><td class="navbox-image" style="" rowspan="5"><a href="./文件-藤原妹红（Q版立绘）.png.md" class="image"><img alt="藤原妹红（Q版立绘）.png" src="https://upload.thwiki.cc/thumb/f/f4/%E8%97%A4%E5%8E%9F%E5%A6%B9%E7%BA%A2%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png/160px-%E8%97%A4%E5%8E%9F%E5%A6%B9%E7%BA%A2%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="160" height="160" srcset="https://upload.thwiki.cc/thumb/f/f4/%E8%97%A4%E5%8E%9F%E5%A6%B9%E7%BA%A2%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png/240px-%E8%97%A4%E5%8E%9F%E5%A6%B9%E7%BA%A2%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/f/f4/%E8%97%A4%E5%8E%9F%E5%A6%B9%E7%BA%A2%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png/320px-%E8%97%A4%E5%8E%9F%E5%A6%B9%E7%BA%A2%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="500" data-file-height="500"></a></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">格斗游戏</td><td style=";;" class="navbox-list navbox-even"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div><a href="./东方深秘录.md" title="东方深秘录">东方深秘录</a></div></td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>对战符卡</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="/%E7%84%B0%E7%AC%A6%E3%80%8C%E8%87%AA%E7%81%AD%E7%81%AB%E7%84%B0%E5%A4%A7%E6%97%8B%E9%A3%8E%E3%80%8D" class="mw-redirect" title="焰符「自灭火焰大旋风」">焰符「自灭火焰大旋风」</a> &#8226; <a href="/%E4%B8%8D%E6%AD%BB%E3%80%8C%E5%87%AF%E9%A3%8E%E5%BF%AB%E6%99%B4%E9%A3%9E%E7%BF%94%E8%B9%B4%E3%80%8D" class="mw-redirect" title="不死「凯风快晴飞翔蹴」">不死「凯风快晴飞翔蹴」</a> &#8226; <a href="/%E5%92%92%E6%9C%AD%E3%80%8C%E6%97%A0%E5%B7%AE%E5%88%AB%E8%B5%B7%E7%81%AB%E4%B9%8B%E7%AC%A6%E3%80%8D" class="mw-redirect" title="咒札「无差别起火之符」">咒札「无差别起火之符」</a> &#8226; <a href="/%EF%BC%8A%E8%BF%99%E7%A7%8D%E4%B8%96%E9%81%93%E8%B5%B6%E7%B4%A7%E7%83%A7%E4%B8%AA%E7%B2%BE%E5%85%89%E5%90%A7%EF%BC%81%EF%BC%8A" class="mw-redirect" title="＊这种世道赶紧烧个精光吧！＊">＊这种世道赶紧烧个精光吧！＊</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>故事符卡</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="/%E7%82%8E%E7%AC%A6%E3%80%8C%E4%B8%8D%E6%AD%BB%E9%B8%9F%E7%9A%84%E8%B6%85%E9%AB%98%E6%B8%A9%E7%BE%BD%E6%AF%9B%E3%80%8D" class="mw-redirect" title="炎符「不死鸟的超高温羽毛」">炎符「不死鸟的超高温羽毛」</a> &#8226; <a href="/%EF%BC%8A%E5%87%AF%E9%A3%8E%E6%99%B4%E5%A4%A9%E5%BF%AB%E6%99%B4%E8%84%9A%EF%BC%8A" class="mw-redirect" title="＊凯风晴天快晴脚＊">＊凯风晴天快晴脚＊</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>Extra故事符卡</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="/%E7%82%8E%E7%AC%A6%E3%80%8C%E4%B8%8D%E6%AD%BB%E9%B8%9F%E4%B9%8B%E7%BE%BD%E3%80%8D" class="mw-redirect" title="炎符「不死鸟之羽」">炎符「不死鸟之羽」</a> &#8226; <a href="/%E7%88%AA%E7%AC%A6%E3%80%8CDesperate_Claw%E3%80%8D" class="mw-redirect" title="爪符「Desperate Claw」">爪符「Desperate Claw」</a> &#8226; <a href="/%E6%83%9C%E5%91%BD%E3%80%8C%E4%B8%8D%E6%AD%BB%E4%B9%8B%E8%BA%AB%E7%9A%84%E8%88%8D%E8%BA%AB%E5%87%BB%E3%80%8D" class="mw-redirect" title="惜命「不死之身的舍身击」">惜命「不死之身的舍身击」</a> &#8226; <a href="/%E3%80%8C%E8%BF%99%E4%B8%8D%E7%9F%A5%E6%98%AF%E7%AC%AC%E5%87%A0%E6%AC%A1%E7%9A%84%E7%94%9F%E5%91%BD%EF%BC%8C%E7%87%83%E7%83%A7%E6%AE%86%E5%B0%BD%E5%90%A7%E3%80%8D" class="mw-redirect" title="「这不知是第几次的生命，燃烧殆尽吧」">「这不知是第几次的生命，燃烧殆尽吧」</a></div></td></tr></tbody></table><div></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div><a href="./东方凭依华.md" title="东方凭依华">东方凭依华</a></div></td><td style=";;" class="navbox-list navbox-even"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>对战符卡</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="/%E7%84%B0%E7%AC%A6%E3%80%8C%E8%87%AA%E7%81%AD%E7%81%AB%E7%84%B0%E5%A4%A7%E6%97%8B%E9%A3%8E%E3%80%8D" class="mw-redirect" title="焰符「自灭火焰大旋风」">焰符「自灭火焰大旋风」</a> &#8226; <a href="/%E4%B8%8D%E6%AD%BB%E3%80%8C%E5%87%AF%E9%A3%8E%E5%BF%AB%E6%99%B4%E9%A3%9E%E7%BF%94%E8%B9%B4%E3%80%8D" class="mw-redirect" title="不死「凯风快晴飞翔蹴」">不死「凯风快晴飞翔蹴」</a> &#8226; <a href="/%E5%92%92%E6%9C%AD%E3%80%8C%E6%97%A0%E5%B7%AE%E5%88%AB%E8%B5%B7%E7%81%AB%E4%B9%8B%E7%AC%A6%E3%80%8D" class="mw-redirect" title="咒札「无差别起火之符」">咒札「无差别起火之符」</a>&#8226; <a href="/%EF%BC%8A%E8%BF%99%E7%A7%8D%E4%B8%96%E9%81%93%E8%B5%B6%E7%B4%A7%E7%83%A7%E4%B8%AA%E7%B2%BE%E5%85%89%E5%90%A7%EF%BC%81%EF%BC%8A" class="mw-redirect" title="＊这种世道赶紧烧个精光吧！＊">＊这种世道赶紧烧个精光吧！＊</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>故事符卡</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="/%E5%8C%96%E7%81%AB%E7%AC%A6%E3%80%8C%E5%A6%96%E6%80%AA%E5%BC%B9%E5%B9%95%E5%8F%98%E5%8C%96_%E5%8F%B6%E5%8F%B6%E7%83%A8%E7%83%A8%E3%80%8D" class="mw-redirect" title="化火符「妖怪弹幕变化 叶叶烨烨」">化火符「妖怪弹幕变化 叶叶烨烨」</a> &#8226; <a href="/%E7%81%AB%E7%8B%82%E7%AC%A6%E3%80%8C%E4%BA%BA%E4%BD%93%E7%87%83%E7%83%A7%E7%A7%98%E5%8C%BF%E5%BC%B9%E5%B9%95%EF%BC%88Burning_Hidden_Bullet%EF%BC%89%E3%80%8D" class="mw-redirect" title="火狂符「人体燃烧秘匿弹幕（Burning Hidden Bullet）」">火狂符「人体燃烧秘匿弹幕（Burning Hidden Bullet）」</a> &#8226; <a href="/%E3%80%8C%E8%BF%99%E4%B8%8D%E7%9F%A5%E6%98%AF%E7%AC%AC%E5%87%A0%E6%AC%A1%E7%9A%84%E7%94%9F%E5%91%BD%EF%BC%8C%E6%A2%A6%E6%83%B3%E5%B0%81%E5%8D%B0%E5%90%A7%E3%80%8D" class="mw-redirect" title="「这不知是第几次的生命，梦想封印吧」">「这不知是第几次的生命，梦想封印吧」</a></div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">出版物</td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div><a href="/%E9%AD%94%E7%90%86%E6%B2%99%E7%9A%84%E9%AD%94%E6%B3%95%E4%B9%A6" class="mw-redirect" title="魔理沙的魔法书">魔理沙的魔法书</a></div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="/%E4%B8%8D%E6%AD%BB%E3%80%8C%E7%81%AB%E9%B8%9F_-%E5%87%A4%E7%BF%BC%E5%A4%A9%E7%BF%94-%E3%80%8D" class="mw-redirect" title="不死「火鸟 -凤翼天翔-」">不死「火鸟　-凤翼天翔-」</a> &#8226; <a href="/%E8%99%9A%E4%BA%BA%E3%80%8C%E6%97%A0%E3%80%8D" class="mw-redirect" title="虚人「无」">虚人「无」</a> &#8226; <a href="/%E4%B8%8D%E7%81%AD%E3%80%8C%E4%B8%8D%E6%AD%BB%E9%B8%9F%E4%B9%8B%E5%B0%BE%E3%80%8D" class="mw-redirect" title="不灭「不死鸟之尾」">不灭「不死鸟之尾」</a> &#8226; <a href="/%E8%93%AC%E8%8E%B1%E3%80%8C%E5%87%AF%E9%A3%8E%E5%BF%AB%E6%99%B4_-Fujiyama_Volcano-%E3%80%8D" class="mw-redirect" title="蓬莱「凯风快晴 -Fujiyama Volcano-」">蓬莱「凯风快晴　-Fujiyama Volcano-」</a> &#8226; <a href="/%E3%80%8CPossessed_by_Phoenix%E3%80%8D" class="mw-redirect" title="「Possessed by Phoenix」">「Possessed by Phoenix」</a> &#8226; <a href="/%E3%80%8CImperishable_Shooting%E3%80%8D" class="mw-redirect" title="「Imperishable Shooting」">「Imperishable Shooting」</a></div></td></tr></tbody></table><div></div></td></tr></tbody></table></td></tr></tbody></table>
+
+
+
+
+
+
+---
+
+此文档由 [THBWiki-Markdown-Builder](https://github.com/Delsin-Yu/THBWiki-Markdown-Builder) 构建。
+
+文档中的所有内容除特殊注明外，均在 [**知识共享(Creative Commons) 署名-非商业性使用-相同方式共享 3.0 协议**](https://creativecommons.org/licenses/by-sa/3.0/deed.zh-hans) 下提供，附加条款亦可能应用。
+
+引用类型与其他类型作品版权归原作者所有，如有作者授权则遵照授权协议使用。
+
+详细请查阅 [THBWiki：免责声明](https://thbwiki.cc/THBWiki:%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E)。
+

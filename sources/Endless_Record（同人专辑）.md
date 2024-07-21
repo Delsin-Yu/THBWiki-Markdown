@@ -1,0 +1,53 @@
+# Endless_Record（同人专辑）
+
+<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\b8\ns0%3AEndless_Record%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89.html -->
+
+2018年10月21日 由 TUMENECO 于 东方红楼梦14 发布的单曲同人专辑，分级为 一般向
+
+本页是关于东方Project  
+ **二次创作同人专辑 (未找到链接)** 的词条
+## 专辑信息
+
+<table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Endless_Record（同人专辑）封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/a/a6/Endless_Record%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/252px-Endless_Record%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="252" srcset="https://upload.thwiki.cc/thumb/a/a6/Endless_Record%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/378px-Endless_Record%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/a/a6/Endless_Record%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/504px-Endless_Record%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="999" data-file-height="999"></a><div class="cover-char">角色：<a href="./宇佐见莲子.md" title="宇佐见莲子">宇佐见莲子</a>，<a href="./玛艾露贝莉·赫恩.md" title="玛艾露贝莉·赫恩">玛艾露贝莉·赫恩</a></div></td>
+</tr><tr><td class="label">名称</td><td colspan="2"> Endless Record </td></tr><tr><td class="label">制作方</td><td><a href="./TUMENECO.md" title="TUMENECO">TUMENECO</a></td><td class="cover-artwork" rowspan="9" style="min-width:252px;"><a href="./文件-Endless_Record（同人专辑）封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/a/a6/Endless_Record%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/252px-Endless_Record%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="252" srcset="https://upload.thwiki.cc/thumb/a/a6/Endless_Record%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/378px-Endless_Record%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/a/a6/Endless_Record%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/504px-Endless_Record%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="999" data-file-height="999"></a><div class="cover-char">角色：<a href="./宇佐见莲子.md" title="宇佐见莲子">宇佐见莲子</a>，<a href="./玛艾露贝莉·赫恩.md" title="玛艾露贝莉·赫恩">玛艾露贝莉·赫恩</a></div></td>
+</tr><tr><td class="label">发行方</td><td><a href="/%E3%83%AD%E3%83%BC%E3%83%AA%E3%82%A3*%E3%83%9D%E3%83%83%E3%83%97" class="mw-redirect" title="ローリィ*ポップ">ローリィ*ポップ</a></td></tr><tr><td class="label">首发日期</td><td>2018-10-21&#160;（<a href="/展会作品列表?e=%E4%B8%9C%E6%96%B9%E7%BA%A2%E6%A5%BC%E6%A2%A6%2314">東方紅楼夢14</a>）</td></tr><tr><td class="label">类型</td><td>单曲</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>1</td></tr><tr><td class="label">总时长</td><td>00:00</td></tr><tr><td class="label">售价</td><td>会场售价：1000日元</td></tr>
+<tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://sakura1017.wixsite.com/koromu14">https://sakura1017.wixsite.com/koromu14</a></td></tr></tbody></table>
+
+Endless Record（同人专辑，TUMENECO，2018） - 2018年10月21日 由 TUMENECO 于 东方红楼梦14 发布的单曲同人专辑，分级为 一般向
+## Staff
+  
+ **Arrangement**   
+
+<table><tbody><tr><td><a href="./tomoya.md" title="tomoya">tomoya</a></td><td></td><td>Tr.1</td></tr></tbody></table>
+
+  
+ **Vocal**   
+
+<table><tbody><tr><td><a href="./yukina.md" title="yukina">yukina</a></td><td><a href="./TUMENECO.md" title="TUMENECO">TUMENECO</a></td><td>Tr.1</td></tr></tbody></table>
+
+  
+ **Lyrics**   
+
+<table><tbody><tr><td><a href="/index.php?title=%E6%A1%9C%E3%82%8A%E3%81%9B&amp;action=edit&amp;redlink=1" class="new" title="桜りせ（页面不存在）">桜りせ</a></td><td></td><td>Tr.1</td></tr></tbody></table>
+
+
+## 曲目列表
+
+<table><tbody><tr><td id="1" class="infoRD"><b>01</b></td><td id="Endless_Record" colspan="2" class="title"><a href="./歌词-Endless_Record.md" title="歌词:Endless Record">Endless Record</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=tomoya&amp;vocal=yukina&amp;lyric=桜りせ&amp;ogmusic=日本中の不思議を集めて，竹取飛翔　～ Lunatic Princess，ヴワル魔法図書館，ラクトガール　～ 少女密室&amp;fromwiki=Endless_Record（同人专辑）"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./tomoya.md" title="tomoya">tomoya</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，tomoya&amp;fromwiki=Endless_Record（同人专辑）"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="./yukina.md" title="yukina">yukina</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=yukina&amp;fromwiki=Endless_Record（同人专辑）"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="/index.php?title=%E6%A1%9C%E3%82%8A%E3%81%9B&amp;action=edit&amp;redlink=1" class="new" title="桜りせ（页面不存在）">桜りせ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?lyric=桜りせ&amp;fromwiki=Endless_Record（同人专辑）"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=日本中の不思議を集めて，竹取飛翔　～ Lunatic Princess，ヴワル魔法図書館，ラクトガール　～ 少女密室&amp;fromwiki=Endless_Record（同人专辑）"><span></span></a></span><div class="ogmusic"><a href="/%E6%97%A5%E6%9C%AC%E4%B8%AD%E3%81%AE%E4%B8%8D%E6%80%9D%E8%AD%B0%E3%82%92%E9%9B%86%E3%82%81%E3%81%A6" class="mw-redirect" title="日本中の不思議を集めて">日本中の不思議を集めて</a></div><div class="source"><a href="/%E4%BC%8A%E5%A5%98%E8%AF%BA%E7%89%A9%E8%B4%A8_%EF%BD%9E_Neo-traditionalism_of_Japan." class="mw-redirect" title="伊奘诺物质 ～ Neo-traditionalism of Japan.">伊奘诺物质　～ Neo-traditionalism of Japan.</a></div><hr><div class="ogmusic"><a href="/%E7%AB%B9%E5%8F%96%E9%A3%9B%E7%BF%94_%EF%BD%9E_Lunatic_Princess" class="mw-redirect" title="竹取飛翔 ～ Lunatic Princess">竹取飛翔　～ Lunatic Princess</a></div><div class="source"><a href="/%E5%8D%AF%E9%85%89%E4%B8%9C%E6%B5%B7%E9%81%93_%EF%BD%9E_Retrospective_53_minutes" class="mw-redirect" title="卯酉东海道 ～ Retrospective 53 minutes">卯酉东海道　～ Retrospective 53 minutes</a></div><hr><div class="ogmusic"><a href="/%E3%83%B4%E3%83%AF%E3%83%AB%E9%AD%94%E6%B3%95%E5%9B%B3%E6%9B%B8%E9%A4%A8" class="mw-redirect" title="ヴワル魔法図書館">ヴワル魔法図書館</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E7%BA%A2%E9%AD%94%E4%B9%A1_%EF%BD%9E_the_Embodiment_of_Scarlet_Devil." class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div><hr><div class="ogmusic"><a href="/%E3%83%A9%E3%82%AF%E3%83%88%E3%82%AC%E3%83%BC%E3%83%AB_%EF%BD%9E_%E5%B0%91%E5%A5%B3%E5%AF%86%E5%AE%A4" class="mw-redirect" title="ラクトガール ～ 少女密室">ラクトガール　～ 少女密室</a></div><div class="source"><a href="/%E5%8D%AF%E9%85%89%E4%B8%9C%E6%B5%B7%E9%81%93_%EF%BD%9E_Retrospective_53_minutes" class="mw-redirect" title="卯酉东海道 ～ Retrospective 53 minutes">卯酉东海道　～ Retrospective 53 minutes</a></div></td></tr></tbody></table>
+
+
+## 评论
+
+
+
+
+---
+
+此文档由 [THBWiki-Markdown-Builder](https://github.com/Delsin-Yu/THBWiki-Markdown-Builder) 构建。
+
+文档中的所有内容除特殊注明外，均在 [**知识共享(Creative Commons) 署名-非商业性使用-相同方式共享 3.0 协议**](https://creativecommons.org/licenses/by-sa/3.0/deed.zh-hans) 下提供，附加条款亦可能应用。
+
+引用类型与其他类型作品版权归原作者所有，如有作者授权则遵照授权协议使用。
+
+详细请查阅 [THBWiki：免责声明](https://thbwiki.cc/THBWiki:%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E)。
+

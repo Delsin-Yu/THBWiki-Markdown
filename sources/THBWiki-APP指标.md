@@ -1,0 +1,68 @@
+# THBWiki:APP指标
+
+<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\other\7\77\ns4%3AAPP%E6%8C%87%E6%A0%87.html -->
+
+规范文档
+
+本页是THBWiki的[编写规范文档](./分类-规范文档.md)
+
+<table><tbody><tr><td><table cellspacing="0" class="nowraplinks mw-collapsible uncollapsed" style="width:100%;;;"><tbody><tr><th style=";" colspan="3" class="navbox-title"><div class="navbar"><div class="noprint plainlinksneverexpand" style="background-color:transparent; padding:0; font-weight:normal; font-size:80%; white-space:nowrap;"><a href="./模板-帮助页面导航.md" title="模板:帮助页面导航"><span style=";;border:none;" title="查看这个模板">查</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<a href="/index.php?title=%E6%A8%A1%E6%9D%BF:%E5%B8%AE%E5%8A%A9%E9%A1%B5%E9%9D%A2%E5%AF%BC%E8%88%AA&amp;action=edit"><span style=";;border:none;" title="您可以编辑这个模板。请在储存变更之前先预览">编</span></a></div></div><span><a href="./分类-帮助文档.md" title="分类:帮助文档">帮助页面导航</a></span></th></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="./分类-规范文档.md" title="分类:规范文档">编辑规范</a></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./THBWiki-收录方针.md" title="THBWiki:收录方针">THBWiki收录方针</a> &#8226; <a href="./帮助-词条命名规范.md" title="帮助:词条命名规范">词条命名规范</a> &#8226; <a href="./帮助-词条编写规范.md" title="帮助:词条编写规范">词条编写规范</a> &#8226; <a href="./帮助-符卡截图规范.md" title="帮助:符卡截图规范">符卡截图规范</a> &#8226; <a href="./帮助-同人社团.md" title="帮助:同人社团">同人社团编写规范</a> &#8226; <a href="./帮助-封面图片.md" title="帮助:封面图片">封面图片规范</a> &#8226; <a href="./帮助-同人专辑.md" title="帮助:同人专辑">同人专辑编写规范</a> &#8226; <a href="/index.php?title=%E5%B8%AE%E5%8A%A9:%E5%90%8C%E4%BA%BA%E5%BF%97&amp;action=edit&amp;redlink=1" class="new" title="帮助:同人志（页面不存在）">同人志编写规范</a> &#8226; <a href="/index.php?title=%E5%B8%AE%E5%8A%A9:%E5%90%8C%E4%BA%BA%E8%BD%AF%E4%BB%B6&amp;action=edit&amp;redlink=1" class="new" title="帮助:同人软件（页面不存在）">同人软件编写规范</a> &#8226; <a href="./帮助-活动.md" title="帮助:活动">活动编写规范</a> &#8226; <a href="./帮助-官方角色二次设定页面.md" title="帮助:官方角色二次设定页面">官方角色二次设定页面编写规范</a> &#8226; <a href="./帮助-官作新作词条.md" title="帮助:官作新作词条">官方新作词条编写规范</a> &#8226; <a href="./帮助-官方漫画文字版.md" title="帮助:官方漫画文字版">官方漫画文字版编写规范</a> &#8226;  <a href="./帮助-歌词.md" title="帮助:歌词">歌词编写规范</a> &#8226;  <a href="./帮助-角色介绍可读化.md" title="帮助:角色介绍可读化">角色介绍可读化编写规范</a> &#8226;  <a href="./帮助-地点词条.md" title="帮助:地点词条">地点词条编写规范</a> &#8226;  <a href="./帮助-种族词条.md" title="帮助:种族词条">种族词条编写规范</a></div></td><td class="navbox-image" style="" rowspan="9"><img src="https://static.thwiki.cc/template/info.png" alt="info.png"></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">基础帮助</td><td style=";;" class="navbox-list navbox-even"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>编辑代码</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./帮助-常用代码.md" title="帮助:常用代码">常用代码</a> &#8226; <a href="./帮助-常用模板.md" title="帮助:常用模板">常用模板</a> &#8226; <a href="./帮助-特殊代码.md" title="帮助:特殊代码">进阶代码</a> &#8226; <a href="./帮助-插入视频.md" title="帮助:插入视频">插入视频</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>功能性</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./帮助-强刷新.md" title="帮助:强刷新">强刷新</a> &#8226; <a href="./帮助-颜色表.md" title="帮助:颜色表">颜色表</a> &#8226; <a href="./帮助-跨站链接前缀.md" title="帮助:跨站链接前缀">跨站链接前缀</a> &#8226; <a href="./帮助-样式类别.md" title="帮助:样式类别">样式类用法</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div><a href="./分类-标准名称模板.md" title="分类:标准名称模板">标准名称模板</a></div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./帮助-角色名模板.md" title="帮助:角色名模板">角色名模板</a> &#8226;<a href="./帮助-音乐名模板.md" title="帮助:音乐名模板">音乐名模板</a>（<a href="./音乐名模板目录.md" title="音乐名模板目录">模板目录</a>） &#8226; <a href="./帮助-称号模板.md" title="帮助:称号模板">称号模板</a>（<a href="./称号模板目录.md" title="称号模板目录">模板目录</a>） &#8226; <a href="./帮助-符卡名模板.md" title="帮助:符卡名模板">符卡名模板</a>（<a href="./符卡名模板目录.md" title="符卡名模板目录">模板目录</a>/<a href="./符卡名模板目录1.md" title="符卡名模板目录1">1</a>/<a href="./符卡名模板目录2.md" title="符卡名模板目录2">2</a>/<a href="./符卡名模板目录3.md" title="符卡名模板目录3">3</a>）  &#8226; <a href="./帮助-能力模板.md" title="帮助:能力模板">能力模板</a>（<a href="./能力模板目录.md" title="能力模板目录">模板目录</a>）&#8226; <a href="./帮助-活动名模板.md" title="帮助:活动名模板">活动名模板</a>（<a href="./活动名模板目录.md" title="活动名模板目录">模板目录</a>/<a href="./活动名模板目录-主要展会.md" title="活动名模板目录/主要展会">主要</a>/<a href="./活动名模板目录-东方Only-东日本地区1限定.md" title="活动名模板目录/东方Only/东日本地区1限定">东日本1</a>/<a href="./活动名模板目录-东方Only-东日本地区限定（关东地方）.md" title="活动名模板目录/东方Only/东日本地区限定（关东地方）">东日本（关东）</a>/<a href="./活动名模板目录-东方Only-东日本地区限定（关东地方2）.md" title="活动名模板目录/东方Only/东日本地区限定（关东地方2）">东日本（关东2）</a>/<a href="./活动名模板目录-东方Only-东日本地区限定（中部地方）.md" title="活动名模板目录/东方Only/东日本地区限定（中部地方）">东日本（中部）</a>/<a href="./活动名模板目录-东方Only-西日本地区限定.md" title="活动名模板目录/东方Only/西日本地区限定">西日本</a>/<a href="./活动名模板目录-东方Only-多地方地区限定.md" title="活动名模板目录/东方Only/多地方地区限定">多地区</a>/<a href="./活动名模板目录-东方Only-作品限定.md" title="活动名模板目录/东方Only/作品限定">作品</a>/<a href="./活动名模板目录-东方Only-角色限定.md" title="活动名模板目录/东方Only/角色限定">角色</a>/<a href="./活动名模板目录-非东方Only.md" title="活动名模板目录/非东方Only">非东方</a>/<a href="./活动名模板目录-中国展会.md" title="活动名模板目录/中国展会">中国</a>/<a href="./活动名模板目录-中国展会2.md" title="活动名模板目录/中国展会2">中国2</a>/<a href="./活动名模板目录-其他地区展会.md" title="活动名模板目录/其他地区展会">其他地区</a>/<a href="./活动名模板目录-未分类.md" title="活动名模板目录/未分类">未分类</a>）</div></td></tr></tbody></table><div></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="./分类-扩展帮助文档.md" title="分类:扩展帮助文档">扩展功能</a></td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>简单功能文档</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./帮助-翻译表.md" title="帮助:翻译表">翻译表</a> &#8226; <a href="./帮助-固定标题扩展.md" title="帮助:固定标题扩展">固定标题扩展</a> &#8226; <a href="./帮助-时长扩展.md" title="帮助:时长扩展">时长扩展</a> &#8226; <a href="./帮助-汉字数字扩展.md" title="帮助:汉字数字扩展">汉字数字扩展</a> &#8226; <a href="./帮助-货币扩展.md" title="帮助:货币扩展">货币扩展</a> &#8226; <a href="./帮助-转置扩展.md" title="帮助:转置扩展">转置扩展</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>复杂功能文档</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./帮助-解析函数.md" title="帮助:解析函数">解析函数</a> &#8226; <a href="./帮助-SMW.md" title="帮助:SMW">语义维基（SMW）</a> &#8226; <a href="./帮助-管理映射方案.md" title="帮助:管理映射方案">管理映射方案</a> &#8226; <a href="./帮助-管理碰撞.md" title="帮助:管理碰撞">管理碰撞</a> &#8226; <a href="./帮助-编写扩展.md" title="帮助:编写扩展">编写扩展</a> &#8226; <a href="./帮助-音乐资料API.md" title="帮助:音乐资料API">音乐资料API</a></div></td></tr></tbody></table><div></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">辅助工具</td><td style=";;" class="navbox-list navbox-even"><div><span class="plainlinks"><a rel="nofollow" class="external text" href="https://tool.thwiki.cc/textcolor">渐变色文字生成</a> &#8226; <a rel="nofollow" class="external text" href="https://tool.thwiki.cc/calline">图片边长计算</a> &#8226; <a rel="nofollow" class="external text" href="https://tool.thwiki.cc/sort">模板列表排序</a> &#8226; <a rel="nofollow" class="external text" href="https://tool.thwiki.cc/tracks">曲目时长填写工具</a> &#8226; <a rel="nofollow" class="external text" href="https://tool.thwiki.cc/tags/">用音频文件编写词条</a> &#8226; <a rel="nofollow" class="external text" href="https://tool.thwiki.cc/circlelyrics">社团歌词进度</a> &#8226; <a rel="nofollow" class="external text" href="https://tool.thwiki.cc/lrctowiki">歌词文本转换</a></span> &#8226; <a href="./帮助-Gadget-HotCat.md" title="帮助:Gadget-HotCat">HotCat小工具</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">测试沙盒</td><td style=";;" class="navbox-list navbox-odd"><div><a href="/%E6%B2%99%E7%9B%92" title="沙盒">沙盒</a> &#8226; <a href="./沙盒-高级功能.md" title="沙盒/高级功能">进阶沙盒</a> &#8226; <a href="./模板-沙盒.md" title="模板:沙盒">模板沙盒‎</a> &#8226; <a href="./沙盒-SMW.md" title="沙盒/SMW">SMW‎沙盒‎</a> &#8226; <a href="./沙盒-乐谱.md" title="沙盒/乐谱">乐谱沙盒‎</a> &#8226; <a href="./帮助-皮肤.md" title="帮助:皮肤">皮肤‎‎</a></div></td></tr></tbody></table></td></tr></tbody></table>
+
+
+## 目录
+
+- [1 简介](#简介)
+- [2 相关标准](#相关标准)
+
+  - [2.1 图标](#图标)
+  - [2.2 标题](#标题)
+  - [2.3 内容及声明](#内容及声明)
+  - [2.4 平台及技术要求](#平台及技术要求)
+
+
+
+
+
+
+
+## 简介
+  
+[THBWiki](./THBWiki-关于.md)建立于2012年，初期网站主要针对PC端用户进行优化，后来随着移动设备的普及，也进行了移动端的适配工作。然而，使用手机浏览器访问网站在某些方面仍然存在不便。因此，有一些热心的爱好者尝试开发移动端应用程序（APP），以提升在移动设备上的浏览体验。
+  
+
+<unsupported html=blockquote>
+  
+本站并不反对用户自行开发客户端，但是本站不建议第三方开发一些 **单纯套浏览器壳** 、 **体验比手机浏览器差** 的APP。因此本站为第三方客户端的开发者制定了一套指导性的指标，以助于他们开发出更优秀的应用程序，提供给用户更好的服务。
+  
+
+## 相关标准
+### 图标
+- 图标设计应避免直接使用THBWiki的官方LOGO，以免造成混淆，误导用户认为该应用是由THBWiki官方推出的。
+- 图标应当在保持辨识度的同时，适当体现THBWiki的特色元素，以便用户能够轻松识别出该应用与THBWiki的关联性。
+
+### 标题
+- 应用的标题不应简单模仿官方网站的命名，例如“THBWiki”、“东方维基”、“THB手机客户端”、“THB扩展”等，这样的命名缺乏创意，容易与其他应用混淆，且显得不够专业。
+- 标题设计应具有一定的创意性和引导性，可以结合东方Project的特色或者与THBWiki有关联的要素，使用户一眼就能看出这是一个与东方和THBWiki相关的应用。
+
+### 内容及声明
+- 开发者必须在应用的显著位置（如启动画面、关于页面等）明确标注“此APP由第三方自行开发”的声明，确保用户清楚了解应用的来源。
+- 应用的内容应以浏览THBWiki为主，同时可以包含一些辅助性的小功能，增强用户体验。鉴于MediaWiki的特性，原则上不建议开发具有编辑功能的应用，除非这样的功能能够实质性地提升用户的编辑体验。
+
+### 平台及技术要求
+- 原则上本站不会强制要求开发者支持特定的平台，但考虑到网站的技术更新和内容兼容性，开发者需要注意旧平台（如Android L及更早版本、iOS 13及更早版本、Windows 7及更早版本）可能面临的兼容性问题。
+- 本站不推荐简单地将网站封装成浏览器套壳应用，但如果开发者能够利用如UniApp、小程序、鸿蒙应用等技术，创造出更加丰富和流畅的网页应用体验，本站也是支持的。
+
+
+
+
+
+---
+
+此文档由 [THBWiki-Markdown-Builder](https://github.com/Delsin-Yu/THBWiki-Markdown-Builder) 构建。
+
+文档中的所有内容除特殊注明外，均在 [**知识共享(Creative Commons) 署名-非商业性使用-相同方式共享 3.0 协议**](https://creativecommons.org/licenses/by-sa/3.0/deed.zh-hans) 下提供，附加条款亦可能应用。
+
+引用类型与其他类型作品版权归原作者所有，如有作者授权则遵照授权协议使用。
+
+详细请查阅 [THBWiki：免责声明](https://thbwiki.cc/THBWiki:%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E)。
+

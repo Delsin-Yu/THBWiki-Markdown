@@ -1,0 +1,116 @@
+# Gold_Rush
+
+<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\9\90\ns0%3AGold_Rush.html -->
+
+官方符卡
+
+本页是关于 **符卡 (未找到链接)（SpellCard）** 的词条Gold Rush（符卡） - 官方符卡
+
+<table>
+
+<tbody><tr>
+<th>中文名</th>
+<th>日文名
+</th></tr>
+<tr>
+<td>财宝「Gold Rush」（淘金潮）</td>
+<td>財宝「ゴールドラッシュ」
+</td></tr></tbody></table>
+
+
+  
+  
+
+  
+
+## 目录
+
+- [1 登场](#登场)
+
+  - [1.1 东方文花帖DS](#东方文花帖DS)
+
+
+
+- [2 符卡说明](#符卡说明)
+
+  - [2.1 东方文花帖DS](#东方文花帖DS_2)
+  - [2.2 宇佐见的魔法书](#宇佐见的魔法书)
+
+
+
+- [3 其他内容](#其他内容)
+
+  - [3.1 游戏资料](#游戏资料)
+  - [3.2 分析考据](#分析考据)
+
+
+
+- [4 导航](#导航)
+
+
+
+
+## 登场
+### 东方文花帖DS
+
+<table>
+
+<tbody><tr>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:302px;"><a href="./文件-财宝「Gold_Rush」（DS文花帖）.jpg.md" class="image"><img alt="" src="https://upload.thwiki.cc/thumb/2/21/%E8%B4%A2%E5%AE%9D%E3%80%8CGold_Rush%E3%80%8D%EF%BC%88DS%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89.jpg/300px-%E8%B4%A2%E5%AE%9D%E3%80%8CGold_Rush%E3%80%8D%EF%BC%88DS%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89.jpg" decoding="async" loading="lazy" width="300" height="350" class="thumbimage" srcset="https://upload.thwiki.cc/2/21/%E8%B4%A2%E5%AE%9D%E3%80%8CGold_Rush%E3%80%8D%EF%BC%88DS%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89.jpg 1.5x" data-file-width="384" data-file-height="448"></a>  <div class="thumbcaption"><div class="magnify"><a href="./文件-财宝「Gold_Rush」（DS文花帖）.jpg.md" class="internal" title="放大"></a></div>财宝「Gold Rush」</div></div></div>
+</td>
+<td>
+<p>Level 7BOSS娜兹玲7-6符卡。
+</p>
+</td></tr></tbody></table>
+
+
+
+## 符卡说明
+### 东方文花帖DS
+
+<table><tbody><tr class="tt-content-header" id="Level_7-36" data-pos="&#91;&quot;Level 7&quot;,36&#93;"><td class="tt-jah" lang="ja"><div class="poem">財宝「ゴールドラッシュ」</div></td><td class="tt-zhh" lang="zh"><div class="poem"><a href="/%E8%B4%A2%E5%AE%9D%E3%80%8CGold_Rush%E3%80%8D" class="mw-redirect" title="财宝「Gold Rush」">财宝「Gold Rush」</a></div></td></tr><tr class="tt-header" id="Level_7-37" data-pos="&#91;&quot;Level 7&quot;,37&#93;"><td colspan="2" id="射命丸文的评价" class="tt-header" lang="zh"><div class="poem">射命丸文的评价</div></td></tr><tr class="tt-content" id="Level_7-38" data-pos="&#91;&quot;Level 7&quot;,38&#93;"><td class="tt-ja" lang="ja"><div class="poem">古銭を掘り当てたことを褒めたら今度は金を掘り当てて<br>くれました！　ネズミの認識も改めないといけませんね<br>次はネタを掘り当てて頂きたいです！</div></td><td class="tt-zh" lang="zh"><div class="poem">才夸她挖到了古钱币，这次又挖到黄金啦！<br>看来不得不对老鼠重新做评价了呢<br>请帮我挖出下一个新闻材料吧！</div></td></tr><tr class="tt-header" id="Level_7-39" data-pos="&#91;&quot;Level 7&quot;,39&#93;"><td colspan="2" id="姬海棠的评价" class="tt-header" lang="zh"><div class="poem">姬海棠果的评价</div></td></tr><tr class="tt-content" id="Level_7-40" data-pos="&#91;&quot;Level 7&quot;,40&#93;"><td class="tt-ja" lang="ja"><div class="poem">え？　マジで？　小銭どころか金塊まで掘り当てちゃうの？<br>ちょっと目を疑っちゃったわ<br>うーん。記事にしないで飼い慣らした方が得……</div></td><td class="tt-zh" lang="zh"><div class="poem">嗯？真的吗？不止是零钱连金块都给挖出来了？<br>我都有点怀疑自己的眼睛了啊<br>嗯——别做啥新闻了把她驯养起来更赚吧……</div></td></tr><tr class="tt-header" id="Level_7-41" data-pos="&#91;&quot;Level 7&quot;,41&#93;"><td colspan="2" id="符卡信息" class="tt-header" lang="zh"><div class="poem">符卡信息</div></td></tr><tr class="tt-text-header" id="Level_7-42" data-pos="&#91;&quot;Level 7&quot;,42&#93;"><td colspan="2" class="tt-text" lang="zh"><div class="poem">Level 7 BOSS娜兹玲7-6符卡。<br></div></td></tr></tbody></table>
+
+
+### 宇佐见的魔法书
+
+<table><tbody><tr class="tt-content-header" id="=-18" data-pos="&#91;&quot;=&quot;,18&#93;"><td class="tt-jah" lang="ja"><div class="poem">財宝「ゴールドラッシュ」</div></td><td class="tt-zhh" lang="zh"><div class="poem"><a href="/%E8%B4%A2%E5%AE%9D%E3%80%8CGold_Rush%E3%80%8D" class="mw-redirect" title="财宝「Gold Rush」">财宝「Gold Rush」</a></div></td></tr><tr class="tt-content" id="=-19" data-pos="&#91;&quot;=&quot;,19&#93;"><td class="tt-ja" lang="ja"><div class="poem">使用者：ナズーリン</div></td><td class="tt-zh" lang="zh"><div class="poem">使用者：<a href="./娜兹玲.md" title="娜兹玲">娜兹玲</a></div></td></tr><tr class="tt-content-header" id="=-20" data-pos="&#91;&quot;=&quot;,20&#93;"><td class="tt-jah" lang="ja"><div class="poem">使用者より</div></td><td class="tt-zhh" lang="zh"><div class="poem">使用者自述</div></td></tr><tr class="tt-content" id="=-21" data-pos="&#91;&quot;=&quot;,21&#93;"><td class="tt-ja" lang="ja"><div class="poem">財宝が沢山見つかったわ！　大量の妖気ってこれだったのかなぁ。まあいいや、正直財宝なんていつでも見つかるし、これは弾幕に使っちゃおうっと。金のばらまきに勝る魅力は存在しない、ってご主人様も言ってたからね！</div></td><td class="tt-zh" lang="zh"><div class="poem">找到了好多财宝啊！大量的妖气是这个缘故吗。无所谓了，说实话财宝随时都能找到，把这些用在弹幕上吧。主人也说过，没有什么可以胜过抛撒金钱的魅力！</div></td></tr><tr class="tt-header" id="=-22" data-pos="&#91;&quot;=&quot;,22&#93;"><td colspan="2" id="博丽灵梦（8）" class="tt-header" lang="zh"><div class="poem">博丽灵梦（8）</div></td></tr><tr class="tt-content" id="=-23" data-pos="&#91;&quot;=&quot;,23&#93;"><td class="tt-ja" lang="ja"><div class="poem">金をばらまくなんて何とも輝かしい、いや品のない弾幕ね！</div></td><td class="tt-zh" lang="zh"><div class="poem">抛撒金钱，这是何等璀璨、不对、没有品味的弹幕！</div></td></tr><tr class="tt-header" id="=-24" data-pos="&#91;&quot;=&quot;,24&#93;"><td colspan="2" id="雾雨魔理沙（8）" class="tt-header" lang="zh"><div class="poem">雾雨魔理沙（8）</div></td></tr><tr class="tt-content" id="=-25" data-pos="&#91;&quot;=&quot;,25&#93;"><td class="tt-ja" lang="ja"><div class="poem">さすがに本物の金ってことは無いだろう……。でもこれって、いやまさかね。</div></td><td class="tt-zh" lang="zh"><div class="poem">总不能是真的黄金吧……可是这个，呃、不会吧。</div></td></tr><tr class="tt-header" id="=-26" data-pos="&#91;&quot;=&quot;,26&#93;"><td colspan="2" id="宇佐见堇子（8）" class="tt-header" lang="zh"><div class="poem">宇佐见堇子（8）</div></td></tr><tr class="tt-content" id="=-27" data-pos="&#91;&quot;=&quot;,27&#93;"><td class="tt-ja" lang="ja"><div class="poem">金もこんなに降って来ちゃったらありがたみがないですねぇ。でもこの圧迫感は迫力があります。</div></td><td class="tt-zh" lang="zh"><div class="poem">就算是金钱，这样撒下来的话也让人全无感激呢。不过这种压迫感还是很有魄力的。</div></td></tr><tr class="tt-header" id="=-28" data-pos="&#91;&quot;=&quot;,28&#93;"><td colspan="2" id="十六夜咲夜（8）" class="tt-header" lang="zh"><div class="poem">十六夜咲夜（8）</div></td></tr><tr class="tt-content" id="=-29" data-pos="&#91;&quot;=&quot;,29&#93;"><td class="tt-ja" lang="ja"><div class="poem">金の輝きがそのまま細かい弾となっているんですね。金には近づき難い魔力が宿っているようです。</div></td><td class="tt-zh" lang="zh"><div class="poem">黄金的光辉直接变成了那些细小的弹幕呢。感觉黄金上寄宿着一种难以接近的魔力。</div></td></tr><tr class="tt-header" id="=-30" data-pos="&#91;&quot;=&quot;,30&#93;"><td colspan="2" id="东风谷早苗（8）" class="tt-header" lang="zh"><div class="poem">东风谷早苗（8）</div></td></tr><tr class="tt-content" id="=-31" data-pos="&#91;&quot;=&quot;,31&#93;"><td class="tt-ja" lang="ja"><div class="poem">財宝が見つかったって言うけど、どうやらそれ河童の財宝みたいですよ？　多分ボコボコにされると思います。</div></td><td class="tt-zh" lang="zh"><div class="poem">说是找到了财宝，但那些似乎是河童的财宝哦？我猜多半会被她们收拾一顿。</div></td></tr><tr class="tt-content-header" id="=-32" data-pos="&#91;&quot;=&quot;,32&#93;"><td class="tt-jah" lang="ja"><div class="poem">総合評価（4）</div></td><td class="tt-zhh" lang="zh"><div class="poem">综合评价（4）</div></td></tr><tr class="tt-content" id="=-33" data-pos="&#91;&quot;=&quot;,33&#93;"><td class="tt-ja" lang="ja"><div class="poem">ついつい金色の魔力で正確な判断が出来なくて高得点連発してしまったが、冷静に考えると大きな金属が落下して溜まっていくだけの弾幕である。財宝は審査員に配られるのでもなく、河童達に回収されたので評価減。</div></td><td class="tt-zh" lang="zh"><div class="poem">不小心就被金色的魔力蛊惑了，无法正确判断而连续打出高分。但冷静下来想想，这只是个巨大金属不断掉落、堆积的弹幕罢了。财宝也没有分给评委，而是被河童回收，所以降低了评价。</div></td></tr></tbody></table>
+
+
+## 其他内容
+### 游戏资料
+  
+<big>
+</big>  
+<big>- 游戏资料 (未找到链接)
+</big><big></big>  
+<big></big>
+  
+
+### 分析考据
+  
+<big>
+</big>  
+<big>- [分析与考据](./Gold_Rush-分析与考据.md)
+</big><big></big>  
+<big></big>
+  
+
+## 导航
+
+<table><tbody><tr><td><table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;;;"><tbody><tr><th style=";" colspan="3" class="navbox-title"><div class="navbar"><div class="noprint plainlinksneverexpand" style="background-color:transparent; padding:0; font-weight:normal; font-size:80%; white-space:nowrap;"><a href="./模板-naz符卡导航.md" title="模板:naz符卡导航"><span style=";;border:none;" title="查看这个模板">查</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<a href="/index.php?title=%E6%A8%A1%E6%9D%BF:naz%E7%AC%A6%E5%8D%A1%E5%AF%BC%E8%88%AA&amp;action=edit"><span style=";;border:none;" title="您可以编辑这个模板。请在储存变更之前先预览">编</span></a></div></div><span><a href="./娜兹玲.md" title="娜兹玲">娜兹玲</a>符卡</span></th></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">射击游戏</td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div><a href="./东方星莲船.md" title="东方星莲船">东方星莲船</a></div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="/%E6%A3%92%E7%AC%A6%E3%80%8CBusy_Rod%E3%80%8D" class="mw-redirect" title="棒符「Busy Rod」">棒符「Busy Rod」</a> &#8226; <a href="/%E6%90%9C%E7%AC%A6%E3%80%8CRare_Metal_Detector%E3%80%8D" class="mw-redirect" title="搜符「Rare Metal Detector」">搜符「Rare Metal Detector」</a> &#8226; <a href="/%E6%90%9C%E7%AC%A6%E3%80%8CGold_Detector%E3%80%8D" class="mw-redirect" title="搜符「Gold Detector」">搜符「Gold Detector」</a> &#8226; <a href="/%E8%A7%86%E7%AC%A6%E3%80%8CNazrin_Pendulum%E3%80%8D" class="mw-redirect" title="视符「Nazrin Pendulum」">视符「Nazrin Pendulum」</a> &#8226; <a href="/%E8%A7%86%E7%AC%A6%E3%80%8C%E9%AB%98%E6%84%9F%E5%BA%A6%E5%A8%9C%E5%85%B9%E7%8E%B2%E7%81%B5%E6%91%86%E3%80%8D" class="mw-redirect" title="视符「高感度娜兹玲灵摆」">视符「高感度娜兹玲灵摆」</a> &#8226; <a href="/%E5%AE%88%E7%AC%A6%E3%80%8CPendulum_Guard%E3%80%8D" class="mw-redirect" title="守符「Pendulum Guard」">守符「Pendulum Guard」</a> &#8226; <a href="/%E5%AE%9D%E5%A1%94%E3%80%8CGreatest_Treasure%E3%80%8D" class="mw-redirect" title="宝塔「Greatest Treasure」">宝塔「Greatest Treasure」</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div><a href="./东方文花帖DS.md" title="东方文花帖DS">东方文花帖DS</a></div></td><td style=";;" class="navbox-list navbox-even"><div><a href="/%E6%A3%92%E7%AC%A6%E3%80%8CNazrin_Rod%E3%80%8D" class="mw-redirect" title="棒符「Nazrin Rod」">棒符「Nazrin Rod」</a> &#8226; <a href="/%E8%B4%A2%E5%AE%9D%E3%80%8CGold_Rush%E3%80%8D" class="mw-redirect" title="财宝「Gold Rush」">财宝「Gold Rush」</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div><a href="./东方兽王园.md" title="东方兽王园">东方兽王园</a></div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="/%E5%AE%9D%E7%9F%B3%E3%80%8CJewel_Rain%E3%80%8D" class="mw-redirect" title="宝石「Jewel Rain」">宝石「Jewel Rain」</a></div></td></tr></tbody></table><div></div></td><td class="navbox-image" style="" rowspan="3"><a href="./文件-娜兹玲（Q版立绘）.png.md" class="image"><img alt="娜兹玲（Q版立绘）.png" src="https://upload.thwiki.cc/thumb/4/44/%E5%A8%9C%E5%85%B9%E7%8E%B2%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png/160px-%E5%A8%9C%E5%85%B9%E7%8E%B2%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="160" height="160" srcset="https://upload.thwiki.cc/thumb/4/44/%E5%A8%9C%E5%85%B9%E7%8E%B2%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png/240px-%E5%A8%9C%E5%85%B9%E7%8E%B2%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/4/44/%E5%A8%9C%E5%85%B9%E7%8E%B2%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png/320px-%E5%A8%9C%E5%85%B9%E7%8E%B2%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="500" data-file-height="500"></a></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">出版物</td><td style=";;" class="navbox-list navbox-even"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div><a href="/%E5%AE%87%E4%BD%90%E8%A7%81%E7%9A%84%E9%AD%94%E6%B3%95%E4%B9%A6" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a></div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="/%E5%AE%88%E7%AC%A6%E3%80%8CPendulum_Guard%E3%80%8D" class="mw-redirect" title="守符「Pendulum Guard」">守符「Pendulum Guard」</a> &#8226; <a href="/%E8%B4%A2%E5%AE%9D%E3%80%8CGold_Rush%E3%80%8D" class="mw-redirect" title="财宝「Gold Rush」">财宝「Gold Rush」</a></div></td></tr></tbody></table><div></div></td></tr></tbody></table></td></tr></tbody></table>
+
+
+
+
+
+
+---
+
+此文档由 [THBWiki-Markdown-Builder](https://github.com/Delsin-Yu/THBWiki-Markdown-Builder) 构建。
+
+文档中的所有内容除特殊注明外，均在 [**知识共享(Creative Commons) 署名-非商业性使用-相同方式共享 3.0 协议**](https://creativecommons.org/licenses/by-sa/3.0/deed.zh-hans) 下提供，附加条款亦可能应用。
+
+引用类型与其他类型作品版权归原作者所有，如有作者授权则遵照授权协议使用。
+
+详细请查阅 [THBWiki：免责声明](https://thbwiki.cc/THBWiki:%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E)。
+

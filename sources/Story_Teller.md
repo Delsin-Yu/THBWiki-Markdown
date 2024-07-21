@@ -1,0 +1,69 @@
+# Story_Teller
+
+<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\01\ns0%3AStory_Teller.html -->
+
+2024年6月22日 由 Magical☆Shrine Maiden  发布的全长同人专辑，曲目主要风格是 Jpop，分级为 一般向
+
+本页是关于东方Project  
+ **二次创作同人专辑 (未找到链接)** 的词条
+<center>
+
+<table>
+<tbody><tr>
+<td class="mbox-image"><div style="width: 52px;">
+  <a href="./文件-MissingInformation.svg.md" class="image"><img alt="MissingInformation.svg" src="https://upload.thwiki.cc/thumb/8/85/MissingInformation.svg/50px-MissingInformation.svg.png" decoding="async" loading="lazy" width="50" height="50" srcset="https://upload.thwiki.cc/thumb/8/85/MissingInformation.svg/75px-MissingInformation.svg.png 1.5x, https://upload.thwiki.cc/thumb/8/85/MissingInformation.svg/100px-MissingInformation.svg.png 2x" data-file-width="500" data-file-height="500"></a></div></td>
+<td class="mbox-text" style=""><br><b>本专辑页面缺少以下信息：</b>首发日期（2015年以前发布），演唱，确认曲目信息<br><br></td>
+</tr>
+</tbody></table>
+
+
+</center>
+## 专辑信息
+
+<table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Story_Teller封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/e/ec/Story_Teller%E5%B0%81%E9%9D%A2.jpg/224px-Story_Teller%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="224" srcset="https://upload.thwiki.cc/thumb/e/ec/Story_Teller%E5%B0%81%E9%9D%A2.jpg/336px-Story_Teller%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/e/ec/Story_Teller%E5%B0%81%E9%9D%A2.jpg/448px-Story_Teller%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="700" data-file-height="700"></a></td>
+</tr><tr><td class="label">名称</td><td colspan="2"> Story Teller </td></tr><tr><td class="label">制作方</td><td><a href="./Magical☆Shrine_Maiden.md" title="Magical☆Shrine Maiden">Magical☆Shrine Maiden</a></td><td class="cover-artwork" rowspan="8" style="min-width:224px;"><a href="./文件-Story_Teller封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/e/ec/Story_Teller%E5%B0%81%E9%9D%A2.jpg/224px-Story_Teller%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="224" srcset="https://upload.thwiki.cc/thumb/e/ec/Story_Teller%E5%B0%81%E9%9D%A2.jpg/336px-Story_Teller%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/e/ec/Story_Teller%E5%B0%81%E9%9D%A2.jpg/448px-Story_Teller%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="700" data-file-height="700"></a></td>
+</tr><tr><td class="label">首发日期</td><td>未知</td></tr><tr><td class="label">类型</td><td>全长</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>6</td></tr><tr><td class="label">总时长</td><td>21:40</td></tr><tr><td class="label">风格类型</td><td>Jpop</td></tr></tbody></table>
+
+Story Teller（同人专辑，Magical☆Shrine Maiden） - 2024年6月22日 由 Magical☆Shrine Maiden  发布的全长同人专辑，曲目主要风格是 Jpop，分级为 一般向
+## Staff
+  
+ **Arrangement**   
+
+<table><tbody><tr><td><a href="./Magical☆Shrine_Maiden.md" title="Magical☆Shrine Maiden">Magical☆Shrine Maiden</a></td><td></td><td>Tr.1/3-6</td></tr><tr><td><a href="/index.php?title=KaenbyouRinchan&amp;action=edit&amp;redlink=1" class="new" title="KaenbyouRinchan（页面不存在）">KaenbyouRinchan</a></td><td><a rel="nofollow" class="external text" href="https://www.youtube.com/user/KaenbyouRinchan">Youtube user: KaenbyouRinchan</a></td><td>Tr.2</td></tr></tbody></table>
+
+  
+ **Vocal**   
+
+<table><tbody><tr><td><a href="/index.php?title=%E5%A4%A7%E5%9B%BD%E6%98%A5%E7%A9%BA&amp;action=edit&amp;redlink=1" class="new" title="大国春空（页面不存在）">大国春空</a></td><td></td><td>Tr.2</td></tr></tbody></table>
+
+  
+ **Lyrics**   
+
+<table><tbody><tr><td><a href="/index.php?title=%E5%A4%A7%E5%9B%BD%E6%98%A5%E7%A9%BA&amp;action=edit&amp;redlink=1" class="new" title="大国春空（页面不存在）">大国春空</a></td><td></td><td>Tr.2</td></tr></tbody></table>
+
+
+## 曲目列表
+
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Prelude_~Once_Upon_A_Scarlet_Night~" colspan="2" class="title">Prelude ~Once Upon A Scarlet Night~<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Magical☆Shrine Maiden&amp;ogmusic=U.N.オーエンは彼女なのか？&amp;fromwiki=Story_Teller"><span title="搜索相似同人曲"></span></a></span></td><td class="time">00:38</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Magical☆Shrine_Maiden.md" title="Magical☆Shrine Maiden">Magical☆Shrine Maiden</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Magical☆Shrine Maiden&amp;fromwiki=Story_Teller"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=U.N.オーエンは彼女なのか？&amp;fromwiki=Story_Teller"><span></span></a></span><div class="ogmusic"><a href="/U.N.%E3%82%AA%E3%83%BC%E3%82%A8%E3%83%B3%E3%81%AF%E5%BD%BC%E5%A5%B3%E3%81%AA%E3%81%AE%E3%81%8B%EF%BC%9F" class="mw-redirect" title="U.N.オーエンは彼女なのか？">U.N.オーエンは彼女なのか？</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E7%BA%A2%E9%AD%94%E4%B9%A1_%EF%BD%9E_the_Embodiment_of_Scarlet_Devil." class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr>
+<tr><td id="2" class="infoRD"><b>02</b></td><td id="Remilia&#39;s_Nostalgia_~フランのため~" colspan="2" class="title"><span class="new" title="（歌词页面不存在）"><a href="/index.php?title=%E6%AD%8C%E8%AF%8D:Remilia%27s_Nostalgia_~%E3%83%95%E3%83%A9%E3%83%B3%E3%81%AE%E3%81%9F%E3%82%81~&amp;boilerplate=模板:页面模板/曲目歌词&amp;action=edit">Remilia&#39;s Nostalgia ~フランのため~</a></span><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=KaenbyouRinchan&amp;vocal=大国春空&amp;lyric=大国春空&amp;ogmusic=亡き王女の為のセプテット&amp;fromwiki=Story_Teller"><span title="搜索相似同人曲"></span></a></span></td><td class="time">02:23</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=KaenbyouRinchan&amp;action=edit&amp;redlink=1" class="new" title="KaenbyouRinchan（页面不存在）">KaenbyouRinchan</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，KaenbyouRinchan&amp;fromwiki=Story_Teller"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="/index.php?title=%E5%A4%A7%E5%9B%BD%E6%98%A5%E7%A9%BA&amp;action=edit&amp;redlink=1" class="new" title="大国春空（页面不存在）">大国春空</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=大国春空&amp;fromwiki=Story_Teller"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="/index.php?title=%E5%A4%A7%E5%9B%BD%E6%98%A5%E7%A9%BA&amp;action=edit&amp;redlink=1" class="new" title="大国春空（页面不存在）">大国春空</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?lyric=大国春空&amp;fromwiki=Story_Teller"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=亡き王女の為のセプテット&amp;fromwiki=Story_Teller"><span></span></a></span><div class="ogmusic"><a href="/%E4%BA%A1%E3%81%8D%E7%8E%8B%E5%A5%B3%E3%81%AE%E7%82%BA%E3%81%AE%E3%82%BB%E3%83%97%E3%83%86%E3%83%83%E3%83%88" class="mw-redirect" title="亡き王女の為のセプテット">亡き王女の為のセプテット</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E7%BA%A2%E9%AD%94%E4%B9%A1_%EF%BD%9E_the_Embodiment_of_Scarlet_Devil." class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr>
+<tr><td id="3" class="infoYD"><b>03</b></td><td id="サラワレタインダひめさまのおはなし" colspan="2" class="title">サラワレタインダひめさまのおはなし<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Magical☆Shrine Maiden&amp;ogmusic=柳の下のデュラハン&amp;fromwiki=Story_Teller"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:16</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Magical☆Shrine_Maiden.md" title="Magical☆Shrine Maiden">Magical☆Shrine Maiden</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Magical☆Shrine Maiden&amp;fromwiki=Story_Teller"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=柳の下のデュラハン&amp;fromwiki=Story_Teller"><span></span></a></span><div class="ogmusic"><a href="/%E6%9F%B3%E3%81%AE%E4%B8%8B%E3%81%AE%E3%83%87%E3%83%A5%E3%83%A9%E3%83%8F%E3%83%B3" class="mw-redirect" title="柳の下のデュラハン">柳の下のデュラハン</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E8%BE%89%E9%92%88%E5%9F%8E_%EF%BD%9E_Double_Dealing_Character." class="mw-redirect" title="东方辉针城 ～ Double Dealing Character.">东方辉针城　～ Double Dealing Character.</a></div></td></tr>
+<tr><td id="4" class="infoYD"><b>04</b></td><td id="Mermaid_Princess_and_Dullahan_Knight" colspan="2" class="title">Mermaid Princess and Dullahan Knight<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Magical☆Shrine Maiden&amp;ogmusic=ミストレイク&amp;fromwiki=Story_Teller"><span title="搜索相似同人曲"></span></a></span></td><td class="time">06:50</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Magical☆Shrine_Maiden.md" title="Magical☆Shrine Maiden">Magical☆Shrine Maiden</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Magical☆Shrine Maiden&amp;fromwiki=Story_Teller"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=ミストレイク&amp;fromwiki=Story_Teller"><span></span></a></span><div class="ogmusic"><a href="/%E3%83%9F%E3%82%B9%E3%83%88%E3%83%AC%E3%82%A4%E3%82%AF" class="mw-redirect" title="ミストレイク">ミストレイク</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E8%BE%89%E9%92%88%E5%9F%8E_%EF%BD%9E_Double_Dealing_Character." class="mw-redirect" title="东方辉针城 ～ Double Dealing Character.">东方辉针城　～ Double Dealing Character.</a></div></td></tr>
+<tr><td id="5" class="infoYD"><b>05</b></td><td id="Everlasting_Memories!_(vocal_ver)" colspan="2" class="title">Everlasting Memories! (vocal ver)<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Magical☆Shrine Maiden&amp;ogmusic=ネクロファンタジア&amp;fromwiki=Story_Teller"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:13</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Magical☆Shrine_Maiden.md" title="Magical☆Shrine Maiden">Magical☆Shrine Maiden</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Magical☆Shrine Maiden&amp;fromwiki=Story_Teller"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=ネクロファンタジア&amp;fromwiki=Story_Teller"><span></span></a></span><div class="ogmusic"><a href="/%E3%83%8D%E3%82%AF%E3%83%AD%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%82%A2" class="mw-redirect" title="ネクロファンタジア">ネクロファンタジア</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E5%A6%96%E5%A6%96%E6%A2%A6_%EF%BD%9E_Perfect_Cherry_Blossom." class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr><tr><td class="left"></td><td class="label">曲风</td><td class="text" colspan="2">House，Jpop</td></tr>
+<tr><td id="6" class="infoYD"><b>06</b></td><td id="小惑星６６４" colspan="2" class="title">小惑星６６４<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Magical☆Shrine Maiden&amp;ogmusic=アリスマエステラ&amp;fromwiki=Story_Teller"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:20</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Magical☆Shrine_Maiden.md" title="Magical☆Shrine Maiden">Magical☆Shrine Maiden</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Magical☆Shrine Maiden&amp;fromwiki=Story_Teller"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=アリスマエステラ&amp;fromwiki=Story_Teller"><span></span></a></span><div class="ogmusic"><a href="/%E3%82%A2%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%A8%E3%82%B9%E3%83%86%E3%83%A9" class="mw-redirect" title="アリスマエステラ">アリスマエステラ</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E5%B9%BB%E6%83%B3%E4%B9%A1_%EF%BD%9E_Lotus_Land_Story." class="mw-redirect" title="东方幻想乡 ～ Lotus Land Story.">东方幻想乡　～ Lotus Land Story.</a></div></td></tr><tr><td class="left"></td><td class="label">曲风</td><td class="text" colspan="2">House</td></tr></tbody></table>
+
+
+## 评论
+
+
+
+
+---
+
+此文档由 [THBWiki-Markdown-Builder](https://github.com/Delsin-Yu/THBWiki-Markdown-Builder) 构建。
+
+文档中的所有内容除特殊注明外，均在 [**知识共享(Creative Commons) 署名-非商业性使用-相同方式共享 3.0 协议**](https://creativecommons.org/licenses/by-sa/3.0/deed.zh-hans) 下提供，附加条款亦可能应用。
+
+引用类型与其他类型作品版权归原作者所有，如有作者授权则遵照授权协议使用。
+
+详细请查阅 [THBWiki：免责声明](https://thbwiki.cc/THBWiki:%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E)。
+

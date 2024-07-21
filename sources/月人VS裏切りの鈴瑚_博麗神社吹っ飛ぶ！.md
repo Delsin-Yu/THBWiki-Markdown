@@ -1,0 +1,34 @@
+# 月人VS裏切りの鈴瑚_博麗神社吹っ飛ぶ！
+
+<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\0\01\ns0%3A%E6%9C%88%E4%BA%BAVS%E8%A3%8F%E5%88%87%E3%82%8A%E3%81%AE%E9%88%B4%E7%91%9A_%E5%8D%9A%E9%BA%97%E7%A5%9E%E7%A4%BE%E5%90%B9%E3%81%A3%E9%A3%9B%E3%81%B6%EF%BC%81.html -->
+
+2016年5月8日 由 ゆっくり魂 于 博丽神社例大祭13 发布的漫画同人志，一共36页，分级为 一般向
+
+本页是关于东方Project  
+ **二次创作同人志 (未找到链接)** 的词条
+## 作品信息
+
+<table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-月人VS裏切りの鈴瑚_博麗神社吹っ飛ぶ！封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/9/95/%E6%9C%88%E4%BA%BAVS%E8%A3%8F%E5%88%87%E3%82%8A%E3%81%AE%E9%88%B4%E7%91%9A_%E5%8D%9A%E9%BA%97%E7%A5%9E%E7%A4%BE%E5%90%B9%E3%81%A3%E9%A3%9B%E3%81%B6%EF%BC%81%E5%B0%81%E9%9D%A2.jpg/98px-%E6%9C%88%E4%BA%BAVS%E8%A3%8F%E5%88%87%E3%82%8A%E3%81%AE%E9%88%B4%E7%91%9A_%E5%8D%9A%E9%BA%97%E7%A5%9E%E7%A4%BE%E5%90%B9%E3%81%A3%E9%A3%9B%E3%81%B6%EF%BC%81%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="98" height="140" srcset="https://upload.thwiki.cc/thumb/9/95/%E6%9C%88%E4%BA%BAVS%E8%A3%8F%E5%88%87%E3%82%8A%E3%81%AE%E9%88%B4%E7%91%9A_%E5%8D%9A%E9%BA%97%E7%A5%9E%E7%A4%BE%E5%90%B9%E3%81%A3%E9%A3%9B%E3%81%B6%EF%BC%81%E5%B0%81%E9%9D%A2.jpg/148px-%E6%9C%88%E4%BA%BAVS%E8%A3%8F%E5%88%87%E3%82%8A%E3%81%AE%E9%88%B4%E7%91%9A_%E5%8D%9A%E9%BA%97%E7%A5%9E%E7%A4%BE%E5%90%B9%E3%81%A3%E9%A3%9B%E3%81%B6%EF%BC%81%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/9/95/%E6%9C%88%E4%BA%BAVS%E8%A3%8F%E5%88%87%E3%82%8A%E3%81%AE%E9%88%B4%E7%91%9A_%E5%8D%9A%E9%BA%97%E7%A5%9E%E7%A4%BE%E5%90%B9%E3%81%A3%E9%A3%9B%E3%81%B6%EF%BC%81%E5%B0%81%E9%9D%A2.jpg/197px-%E6%9C%88%E4%BA%BAVS%E8%A3%8F%E5%88%87%E3%82%8A%E3%81%AE%E9%88%B4%E7%91%9A_%E5%8D%9A%E9%BA%97%E7%A5%9E%E7%A4%BE%E5%90%B9%E3%81%A3%E9%A3%9B%E3%81%B6%EF%BC%81%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="845" data-file-height="1200"></a><div class="cover-char">角色：<a href="./克劳恩皮丝.md" title="克劳恩皮丝">克劳恩皮丝</a>，<a href="./铃瑚.md" title="铃瑚">铃瑚</a>，<a href="./赫卡提亚·拉碧斯拉祖利.md" title="赫卡提亚·拉碧斯拉祖利">赫卡提亚·拉碧斯拉祖利</a>，<a href="./纯狐.md" title="纯狐">纯狐</a>，<a href="./铃仙·优昙华院·因幡.md" title="铃仙·优昙华院·因幡">铃仙·优昙华院·因幡</a>，<a href="./清兰.md" title="清兰">清兰</a>，<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>，<a href="./稀神探女.md" title="稀神探女">稀神探女</a></div></td>
+</tr><tr><td class="label">名称</td><td colspan="2"> 月人VS裏切りの鈴瑚 博麗神社吹っ飛ぶ！ </td></tr><tr><td class="label">制作方</td><td><a href="./ゆっくり魂.md" title="ゆっくり魂">ゆっくり魂</a></td><td class="cover-artwork" rowspan="5" style="min-width:140px;"><a href="./文件-月人VS裏切りの鈴瑚_博麗神社吹っ飛ぶ！封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/9/95/%E6%9C%88%E4%BA%BAVS%E8%A3%8F%E5%88%87%E3%82%8A%E3%81%AE%E9%88%B4%E7%91%9A_%E5%8D%9A%E9%BA%97%E7%A5%9E%E7%A4%BE%E5%90%B9%E3%81%A3%E9%A3%9B%E3%81%B6%EF%BC%81%E5%B0%81%E9%9D%A2.jpg/98px-%E6%9C%88%E4%BA%BAVS%E8%A3%8F%E5%88%87%E3%82%8A%E3%81%AE%E9%88%B4%E7%91%9A_%E5%8D%9A%E9%BA%97%E7%A5%9E%E7%A4%BE%E5%90%B9%E3%81%A3%E9%A3%9B%E3%81%B6%EF%BC%81%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="98" height="140" srcset="https://upload.thwiki.cc/thumb/9/95/%E6%9C%88%E4%BA%BAVS%E8%A3%8F%E5%88%87%E3%82%8A%E3%81%AE%E9%88%B4%E7%91%9A_%E5%8D%9A%E9%BA%97%E7%A5%9E%E7%A4%BE%E5%90%B9%E3%81%A3%E9%A3%9B%E3%81%B6%EF%BC%81%E5%B0%81%E9%9D%A2.jpg/148px-%E6%9C%88%E4%BA%BAVS%E8%A3%8F%E5%88%87%E3%82%8A%E3%81%AE%E9%88%B4%E7%91%9A_%E5%8D%9A%E9%BA%97%E7%A5%9E%E7%A4%BE%E5%90%B9%E3%81%A3%E9%A3%9B%E3%81%B6%EF%BC%81%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/9/95/%E6%9C%88%E4%BA%BAVS%E8%A3%8F%E5%88%87%E3%82%8A%E3%81%AE%E9%88%B4%E7%91%9A_%E5%8D%9A%E9%BA%97%E7%A5%9E%E7%A4%BE%E5%90%B9%E3%81%A3%E9%A3%9B%E3%81%B6%EF%BC%81%E5%B0%81%E9%9D%A2.jpg/197px-%E6%9C%88%E4%BA%BAVS%E8%A3%8F%E5%88%87%E3%82%8A%E3%81%AE%E9%88%B4%E7%91%9A_%E5%8D%9A%E9%BA%97%E7%A5%9E%E7%A4%BE%E5%90%B9%E3%81%A3%E9%A3%9B%E3%81%B6%EF%BC%81%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="845" data-file-height="1200"></a><div class="cover-char">角色：<a href="./克劳恩皮丝.md" title="克劳恩皮丝">克劳恩皮丝</a>，<a href="./铃瑚.md" title="铃瑚">铃瑚</a>，<a href="./赫卡提亚·拉碧斯拉祖利.md" title="赫卡提亚·拉碧斯拉祖利">赫卡提亚·拉碧斯拉祖利</a>，<a href="./纯狐.md" title="纯狐">纯狐</a>，<a href="./铃仙·优昙华院·因幡.md" title="铃仙·优昙华院·因幡">铃仙·优昙华院·因幡</a>，<a href="./清兰.md" title="清兰">清兰</a>，<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>，<a href="./稀神探女.md" title="稀神探女">稀神探女</a></div></td>
+</tr><tr><td class="label">首发日期</td><td>2016-05-08&#160;（<a href="/展会作品列表?e=%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD%2313">第十三回 博麗神社例大祭</a>）</td></tr><tr><td class="label">类型</td><td>漫画</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">页数</td><td>36P</td></tr>
+<tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/56743903">https://www.pixiv.net/artworks/56743903</a></td></tr></tbody></table>
+
+月人VS裏切りの鈴瑚 博麗神社吹っ飛ぶ！（同人志，ゆっくり魂，2016） - 2016年5月8日 由 ゆっくり魂 于 博丽神社例大祭13 发布的漫画同人志，一共36页，分级为 一般向
+## Staff
+: 覇王 (未找到链接)
+
+## 评论
+
+
+
+
+---
+
+此文档由 [THBWiki-Markdown-Builder](https://github.com/Delsin-Yu/THBWiki-Markdown-Builder) 构建。
+
+文档中的所有内容除特殊注明外，均在 [**知识共享(Creative Commons) 署名-非商业性使用-相同方式共享 3.0 协议**](https://creativecommons.org/licenses/by-sa/3.0/deed.zh-hans) 下提供，附加条款亦可能应用。
+
+引用类型与其他类型作品版权归原作者所有，如有作者授权则遵照授权协议使用。
+
+详细请查阅 [THBWiki：免责声明](https://thbwiki.cc/THBWiki:%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E)。
+

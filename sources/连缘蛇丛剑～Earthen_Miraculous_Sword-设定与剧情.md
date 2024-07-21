@@ -1,0 +1,56 @@
+# 连缘蛇丛剑～Earthen_Miraculous_Sword/设定与剧情
+
+<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\7\73\ns0%3A%E8%BF%9E%E7%BC%98%E8%9B%87%E4%B8%9B%E5%89%91%EF%BD%9EEarthen_Miraculous_Sword%2F%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85.html -->
+
+トリック・ノスタルジー
+
+## 目录
+
+- [1 附带文档](#附带文档)
+- [2 故事背景](#故事背景)
+- [3 游戏对话](#游戏对话)
+- [4 词条导航](#词条导航)
+
+
+
+
+## 附带文档
+- [readme](./连缘蛇丛剑～Earthen_Miraculous_Sword-设定与剧情-readme.md)
+
+## 故事背景
+- [故事背景](./连缘蛇丛剑～Earthen_Miraculous_Sword-设定与剧情-故事背景.md)
+- [Ex故事背景](./连缘蛇丛剑～Earthen_Miraculous_Sword-设定与剧情-Ex故事背景.md)
+
+## 游戏对话
+- [凤联薮雨 游戏对话/结局](./游戏对话-连缘蛇丛剑～Earthen_Miraculous_Sword-凤联薮雨.md)
+- [燕乐玄鸟 游戏对话/结局](./游戏对话-连缘蛇丛剑～Earthen_Miraculous_Sword-燕乐玄鸟.md)
+- [鹀黑巫鸟 游戏对话/结局](./游戏对话-连缘蛇丛剑～Earthen_Miraculous_Sword-鹀黑巫鸟.md)
+- [国主雀巳 游戏对话/结局](./游戏对话-连缘蛇丛剑～Earthen_Miraculous_Sword-国主雀巳.md)
+
+- [凤联薮雨 Ex游戏对话](./游戏对话-连缘蛇丛剑～Earthen_Miraculous_Sword-凤联薮雨_ExStory.md)
+- [燕乐玄鸟 Ex游戏对话](./游戏对话-连缘蛇丛剑～Earthen_Miraculous_Sword-燕乐玄鸟_ExStory.md)
+- [鹀黑巫鸟 Ex游戏对话](./游戏对话-连缘蛇丛剑～Earthen_Miraculous_Sword-鹀黑巫鸟_ExStory.md)
+- [国主雀巳 Ex游戏对话](./游戏对话-连缘蛇丛剑～Earthen_Miraculous_Sword-国主雀巳_ExStory.md)
+
+## 词条导航
+  
+  
+
+<table><tbody><tr><td><table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;;;"><tbody><tr><th style=";" colspan="3" class="navbox-title"><div class="navbar"><div class="noprint plainlinksneverexpand" style="background-color:transparent; padding:0; font-weight:normal; font-size:80%; white-space:nowrap;"><a href="./模板-连缘蛇丛剑导航.md" title="模板:连缘蛇丛剑导航"><span style=";;border:none;" title="查看这个模板">查</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<a href="/index.php?title=%E6%A8%A1%E6%9D%BF:%E8%BF%9E%E7%BC%98%E8%9B%87%E4%B8%9B%E5%89%91%E5%AF%BC%E8%88%AA&amp;action=edit"><span style=";;border:none;" title="您可以编辑这个模板。请在储存变更之前先预览">编</span></a></div></div><span><a href="./连缘蛇丛剑～Earthen_Miraculous_Sword.md" title="连缘蛇丛剑～Earthen Miraculous Sword">连缘蛇丛剑～Earthen Miraculous Sword</a></span></th></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="./连缘蛇丛剑～Earthen_Miraculous_Sword-角色设定.md" title="连缘蛇丛剑～Earthen Miraculous Sword/角色设定">角色</a></td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>自机</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./凤联薮雨.md" title="凤联薮雨">凤联薮雨</a> &#8226; <a href="./燕乐玄鸟.md" title="燕乐玄鸟">燕乐玄鸟</a> &#8226; <a href="./鹀黑巫鸟.md" title="鹀黑巫鸟">鹀黑巫鸟</a> &#8226; <a href="./国主雀巳.md" title="国主雀巳">国主雀巳</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>BOSS</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./天宫润.md" title="天宫润">天宫润</a> &#8226; <a href="./雨杏宵.md" title="雨杏宵">雨杏宵</a> &#8226; <a href="./凯勒里塔斯·流明.md" title="凯勒里塔斯·流明">凯勒里塔斯·流明</a> &#8226; <a href="./旭天子云雀流.md" title="旭天子云雀流">旭天子云雀流</a> &#8226; <a href="./片野宿祢.md" title="片野宿祢">片野宿祢</a> &#8226; <a href="./徒云八尾吕智.md" title="徒云八尾吕智">徒云八尾吕智</a> &#8226; <a href="./徒云蛇穴丸.md" title="徒云蛇穴丸">徒云蛇穴丸</a></div></td></tr></tbody></table><div></div></td><td class="navbox-image" style="" rowspan="9"><a href="./文件-连缘蛇丛剑～Earthen_Miraculous_Sword封面.jpg.md" class="image"><img alt="连缘蛇丛剑～Earthen Miraculous Sword封面.jpg" src="https://upload.thwiki.cc/thumb/8/88/%E8%BF%9E%E7%BC%98%E8%9B%87%E4%B8%9B%E5%89%91%EF%BD%9EEarthen_Miraculous_Sword%E5%B0%81%E9%9D%A2.jpg/160px-%E8%BF%9E%E7%BC%98%E8%9B%87%E4%B8%9B%E5%89%91%EF%BD%9EEarthen_Miraculous_Sword%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="160" height="120" srcset="https://upload.thwiki.cc/thumb/8/88/%E8%BF%9E%E7%BC%98%E8%9B%87%E4%B8%9B%E5%89%91%EF%BD%9EEarthen_Miraculous_Sword%E5%B0%81%E9%9D%A2.jpg/240px-%E8%BF%9E%E7%BC%98%E8%9B%87%E4%B8%9B%E5%89%91%EF%BD%9EEarthen_Miraculous_Sword%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/8/88/%E8%BF%9E%E7%BC%98%E8%9B%87%E4%B8%9B%E5%89%91%EF%BD%9EEarthen_Miraculous_Sword%E5%B0%81%E9%9D%A2.jpg/320px-%E8%BF%9E%E7%BC%98%E8%9B%87%E4%B8%9B%E5%89%91%EF%BD%9EEarthen_Miraculous_Sword%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="550" data-file-height="413"></a></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a class="mw-selflink selflink">剧情</a></td><td style=";;" class="navbox-list navbox-even"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>剧情文本</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./连缘蛇丛剑～Earthen_Miraculous_Sword-设定与剧情-故事背景.md" title="连缘蛇丛剑～Earthen Miraculous Sword/设定与剧情/故事背景">故事背景</a> &#8226; <a href="./连缘蛇丛剑～Earthen_Miraculous_Sword-设定与剧情-Ex故事背景.md" title="连缘蛇丛剑～Earthen Miraculous Sword/设定与剧情/Ex故事背景">Ex故事背景</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>游戏对话&amp;结局</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./游戏对话-连缘蛇丛剑～Earthen_Miraculous_Sword-凤联薮雨.md" title="游戏对话:连缘蛇丛剑～Earthen Miraculous Sword/凤联薮雨" unred="">凤联薮雨</a> &#8226; <a href="./游戏对话-连缘蛇丛剑～Earthen_Miraculous_Sword-燕乐玄鸟.md" title="游戏对话:连缘蛇丛剑～Earthen Miraculous Sword/燕乐玄鸟" unred="">燕乐玄鸟</a> &#8226; <a href="./游戏对话-连缘蛇丛剑～Earthen_Miraculous_Sword-鹀黑巫鸟.md" title="游戏对话:连缘蛇丛剑～Earthen Miraculous Sword/鹀黑巫鸟" unred="">鹀黑巫鸟</a> &#8226; <a href="./游戏对话-连缘蛇丛剑～Earthen_Miraculous_Sword-国主雀巳.md" title="游戏对话:连缘蛇丛剑～Earthen Miraculous Sword/国主雀巳" unred="">国主雀巳</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>Ex游戏对话</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./游戏对话-连缘蛇丛剑～Earthen_Miraculous_Sword-凤联薮雨_ExStory.md" title="游戏对话:连缘蛇丛剑～Earthen Miraculous Sword/凤联薮雨 ExStory" unred="">凤联薮雨Ex</a> &#8226; <a href="./游戏对话-连缘蛇丛剑～Earthen_Miraculous_Sword-燕乐玄鸟_ExStory.md" title="游戏对话:连缘蛇丛剑～Earthen Miraculous Sword/燕乐玄鸟 ExStory" unred="">燕乐玄鸟Ex</a> &#8226; <a href="./游戏对话-连缘蛇丛剑～Earthen_Miraculous_Sword-鹀黑巫鸟_ExStory.md" title="游戏对话:连缘蛇丛剑～Earthen Miraculous Sword/鹀黑巫鸟 ExStory" unred="">鹀黑巫鸟Ex</a> &#8226; <a href="./游戏对话-连缘蛇丛剑～Earthen_Miraculous_Sword-国主雀巳_ExStory.md" title="游戏对话:连缘蛇丛剑～Earthen Miraculous Sword/国主雀巳 ExStory" unred="">国主雀巳Ex</a></div></td></tr></tbody></table><div></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">场景</td><td style=";;" class="navbox-list navbox-odd"><div><a href="/index.php?title=%E9%98%90%E9%87%8C%E7%A5%9E%E7%A4%BE%E5%8F%82%E9%81%93&amp;action=edit&amp;redlink=1" class="new" title="阐里神社参道（页面不存在）">阐里神社参道</a> &#8226; <a href="/index.php?title=%E4%B8%8D%E8%BF%B7%E4%B9%8B%E6%A3%AE&amp;action=edit&amp;redlink=1" class="new" title="不迷之森（页面不存在）">不迷之森</a> &#8226; <a href="/index.php?title=%E9%80%9A%E5%90%91%E4%BA%BA%E7%B1%BB%E6%9D%91%E8%90%BD%E7%9A%84%E9%81%93%E8%B7%AF&amp;action=edit&amp;redlink=1" class="new" title="通向人类村落的道路（页面不存在）">通向人类村落的道路</a> &#8226; <a href="/index.php?title=%E4%BA%91%E4%B8%AD&amp;action=edit&amp;redlink=1" class="new" title="云中（页面不存在）">云中</a> &#8226; <a href="/index.php?title=%E5%9F%B4%E8%BD%AE%E8%A1%97%E9%81%93&amp;action=edit&amp;redlink=1" class="new" title="埴轮街道（页面不存在）">埴轮街道</a> &#8226; <a href="/index.php?title=%E4%BB%AA%E5%BC%8F%E5%9C%BA&amp;action=edit&amp;redlink=1" class="new" title="仪式场（页面不存在）">仪式场</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">音乐</td><td style=";;" class="navbox-list navbox-even"><div><a href="./连缘蛇丛剑～Earthen_Miraculous_Sword-Music.md" title="连缘蛇丛剑～Earthen Miraculous Sword/Music">Music Room</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="/%E8%BF%9E%E7%BC%98%E8%9B%87%E4%B8%9B%E5%89%91%EF%BD%9EEarthen_Miraculous_Sword/%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85#附带文档" title="连缘蛇丛剑～Earthen Miraculous Sword/设定与剧情">附带文档</a></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./连缘蛇丛剑～Earthen_Miraculous_Sword-设定与剧情-readme.md" title="连缘蛇丛剑～Earthen Miraculous Sword/设定与剧情/readme">Readme</a></div></td></tr></tbody></table></td></tr></tbody></table>
+
+
+
+
+
+
+
+---
+
+此文档由 [THBWiki-Markdown-Builder](https://github.com/Delsin-Yu/THBWiki-Markdown-Builder) 构建。
+
+文档中的所有内容除特殊注明外，均在 [**知识共享(Creative Commons) 署名-非商业性使用-相同方式共享 3.0 协议**](https://creativecommons.org/licenses/by-sa/3.0/deed.zh-hans) 下提供，附加条款亦可能应用。
+
+引用类型与其他类型作品版权归原作者所有，如有作者授权则遵照授权协议使用。
+
+详细请查阅 [THBWiki：免责声明](https://thbwiki.cc/THBWiki:%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E)。
+

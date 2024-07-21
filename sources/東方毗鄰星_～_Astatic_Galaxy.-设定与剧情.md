@@ -1,0 +1,288 @@
+# 東方毗鄰星_～_Astatic_Galaxy./设定与剧情
+
+<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\2a\ns0%3A%E6%9D%B1%E6%96%B9%E6%AF%97%E9%84%B0%E6%98%9F_%EF%BD%9E_Astatic_Galaxy%2E%2F%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85.html -->
+
+彣影杉
+
+## 目录
+
+- [1 故事背景](#故事背景)
+- [2 角色设定](#角色设定)
+
+  - [2.1 自机势力角色](#自机势力角色)
+  - [2.2 敌机角色介绍](#敌机角色介绍)
+
+
+
+- [3 游戏对话](#游戏对话)
+- [4 词条导航](#词条导航)
+
+
+
+
+## 故事背景
+
+  
+暂无  
+
+  
+
+
+## 角色设定
+### 自机势力角色
+
+  
+　○乐园的巫女  
+
+　　博丽　灵梦  
+
+Hakurei Reimu  
+
+  
+
+　　种族：人类  
+
+　　能力：主要是飞翔的能力  
+
+  
+
+　　大家熟知的巫女。博丽神社的巫女。  
+
+  
+
+　　不管对任何人，都能平等相待的性格。因为工作是妖怪退治，  
+
+　　会严厉地对待妖怪，实际上，对人类和妖怪都不感兴趣。  
+
+  
+
+　　对天空中出现的三颗太阳并没有多大兴趣。  
+
+&#160;&#160;&#160;&#160;只是本着解决异变的心理，踏上了前往太空的路途。  
+
+  
+
+　○普通的魔法师  
+
+　　雾雨　魔理沙  
+
+Kirisame Marisa  
+
+  
+
+　　种族：人类  
+
+　　能力：使用魔法的能力  
+
+  
+
+　　居住在幻想乡的魔法师。  
+
+  
+
+　　外表像个不老实的家伙，实际上性格相当直来直去。  
+
+&#160;&#160;&#160;&#160;这次穿着蓝色的衣服，似乎是怀念起过去的时光。  
+
+  
+
+　　对天空中的三颗太阳怀有极大好奇。毕竟星☆星之类的东西还是很喜欢的。  
+
+  
+
+　○山上的新手神  
+
+　　东风谷　早苗  
+
+Kotiya Sanae  
+
+  
+
+　　种族：人类  
+
+　　能力：引发奇迹的能力  
+
+  
+
+　　居住在妖怪之山守矢神社的巫女。妖怪退治的经验还不够。  
+
+  
+
+　　平常与神和妖怪生活在一起，很想与人类交谈，  
+
+　　可是山下的人类却都像妖怪一样。  
+
+　　于是，她有些担心自己也会变成那样。  
+
+　　作为现人神被景仰着，也不见得比妖怪差嘛。这样想着，她有些自我陶醉了。  
+
+  
+
+　　神奈子命令她尝试做妖怪退治……她也希望能够适应幻想乡的生活，于是为此努力着。
+  
+
+
+### 敌机角色介绍
+
+  
+○１面BOSS　广场也为之恐惧的舞者  
+
+　　斯佩思·格拉维提  
+
+&#160;Space Gravity  
+
+　　种族：未知  
+
+　　能力：（自称）改变物体间引力程度的能力  
+
+  
+
+似乎是很久以前就居住在幻想乡的谜之人物。很少有人见过她。  
+
+自称能改变引力，让选中者永远无法挣脱。  
+
+（其实是杂鱼）  
+
+  
+
+偶然有目击者看到她在跳舞。  
+
+似乎十分热衷于平庸的吸引之舞。  
+
+  
+
+受到这次异变影响，悄悄地出来寻找能够欣赏她的观众。  
+
+  
+
+  
+
+○２面BOSS　知晓一切的伯乐  
+
+　　高悟 千音  
+
+&#160;Kousato Sen'on  
+
+　　种族：鹰  
+
+　　能力：观测事物程度的能力  
+
+  
+
+作为观测者的存在。  
+
+曾经跌落山崖，垂死之际被一位和服少女拯救。  
+
+自此获得监听万物的能力。  
+
+  
+
+而所付出的代价，  
+
+是知晓一切的阴暗面。  
+
+一瞬，虚无将她吞没。  
+
+那颗跳动的心已经没有了余温。  
+
+  
+
+但她永远不会知道和服少女向她隐藏的秘密。  
+
+受到异变的影响，似乎揭开了终极面纱的一角。  
+
+  
+
+不知何时，她的第三眼似乎变得柔和了。  
+
+  
+
+○３面中BOSS FJK之姐  
+
+　　信取Pica  
+
+&#160;Sintori Pica  
+
+　　种族：恶魔  
+
+　　能力：传递错误信息程度的能力  
+
+　○３面BOSS　FJK之妹  
+
+　　信取Coro  
+
+&#160;Sintori Coro  
+
+　　种族：天使  
+
+　　能力：传递正确信息程度的能力  
+
+  
+
+恶魔之姐，天使之妹。  
+
+两种性格完全相反的人，却依存于一体。  
+
+似乎有谁将黑与白的境界模糊了。妖怪闲者也望尘莫及。  
+
+  
+
+妹妹除了姐姐，对任何事物毫不关心。  
+
+如果她抬起被禁忌的右手。  
+
+后果是姐姐的人格，将赋予到妹妹身上。  
+
+  
+
+而姐姐将永远消失。  
+
+  
+
+——天使的折翼是恶魔。  
+
+恶魔的折翼是天使。  
+
+  
+
+两颗毗邻之心，似乎要相见了。
+  
+
+
+## 游戏对话
+- 博丽灵梦 游戏对话/结局 (未找到链接)
+- 雾雨魔理沙 游戏对话/结局 (未找到链接)
+- 东风谷早苗 游戏对话/结局 (未找到链接)
+
+- 博丽灵梦 Extra游戏对话/结局 (未找到链接)
+- 雾雨魔理沙 Extra游戏对话/结局 (未找到链接)
+- 东风谷早苗 Extra游戏对话/结局 (未找到链接)
+
+  
+本作有三个自机可以选择，根据玩家所选的不同游戏角色，所发生的对话、剧情与结局也有所不同。
+  
+  
+具体的故事背景与游戏剧情请参照上面的词条或到游戏中亲自体验。
+  
+
+## 词条导航
+  
+  
+
+<table><tbody><tr><td><table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;;;"><tbody><tr><th style=";" colspan="2" class="navbox-title"><div class="navbar"><div class="noprint plainlinksneverexpand" style="background-color:transparent; padding:0; font-weight:normal; font-size:80%; white-space:nowrap;"><a href="./東方毗鄰星_～_Astatic_Galaxy.-导航.md" title="東方毗鄰星 ～ Astatic Galaxy./导航"><span style=";;border:none;" title="查看这个模板">查</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<a href="/index.php?title=%E6%9D%B1%E6%96%B9%E6%AF%97%E9%84%B0%E6%98%9F_%EF%BD%9E_Astatic_Galaxy./%E5%AF%BC%E8%88%AA&amp;action=edit"><span style=";;border:none;" title="您可以编辑这个模板。请在储存变更之前先预览">编</span></a></div></div><span><a href="./東方毗鄰星_～_Astatic_Galaxy..md" title="東方毗鄰星 ～ Astatic Galaxy." unred="">东方毗邻星</a></span></th></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="/index.php?title=%E4%B8%9C%E6%96%B9%E6%AF%97%E9%82%BB%E6%98%9F/%E8%A7%92%E8%89%B2&amp;action=edit&amp;redlink=1" class="new" title="东方毗邻星/角色（页面不存在）">角色</a></td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>自机</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="/index.php?title=%E4%B8%9C%E6%96%B9%E6%AF%97%E9%82%BB%E6%98%9F/%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85/%E8%AE%BE%E5%AE%9A%E6%96%87%E6%A1%A3&amp;action=edit&amp;redlink=1" class="new" title="东方毗邻星/设定与剧情/设定文档（页面不存在）">博丽灵梦</a> &#8226; <a href="/index.php?title=%E4%B8%9C%E6%96%B9%E6%AF%97%E9%82%BB%E6%98%9F/%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85/%E8%AE%BE%E5%AE%9A%E6%96%87%E6%A1%A3&amp;action=edit&amp;redlink=1" class="new" title="东方毗邻星/设定与剧情/设定文档（页面不存在）">雾雨魔理沙</a> &#8226; <a href="/index.php?title=%E4%B8%9C%E6%96%B9%E6%AF%97%E9%82%BB%E6%98%9F/%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85/%E8%AE%BE%E5%AE%9A%E6%96%87%E6%A1%A3&amp;action=edit&amp;redlink=1" class="new" title="东方毗邻星/设定与剧情/设定文档（页面不存在）">东风谷早苗</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>BOSS</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./斯佩思·格拉维提.md" title="斯佩思·格拉维提">斯佩思·格拉维提</a> &#8226; <a href="./高悟千音.md" title="高悟千音">高悟千音</a> &#8226; <a href="./信取Pica.md" title="信取Pica">信取Pica</a> &#8226; <a href="./信取Coro.md" title="信取Coro">信取Coro</a></div></td></tr></tbody></table><div></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="/index.php?title=%E4%B8%9C%E6%96%B9%E6%AF%97%E9%82%BB%E6%98%9F/%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85&amp;action=edit&amp;redlink=1" class="new" title="东方毗邻星/设定与剧情（页面不存在）">剧情</a></td><td style=";;" class="navbox-list navbox-even"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>剧情文本</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="/index.php?title=%E4%B8%9C%E6%96%B9%E6%AF%97%E9%82%BB%E6%98%9F/%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85/%E8%AE%BE%E5%AE%9A%E6%96%87%E6%A1%A3&amp;action=edit&amp;redlink=1" class="new" title="东方毗邻星/设定与剧情/设定文档（页面不存在）">故事背景</a> &#8226; <a href="/index.php?title=%E4%B8%9C%E6%96%B9%E6%AF%97%E9%82%BB%E6%98%9F/%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85/%E8%AE%BE%E5%AE%9A%E6%96%87%E6%A1%A3&amp;action=edit&amp;redlink=1" class="new" title="东方毗邻星/设定与剧情/设定文档（页面不存在）">Ex 故事背景</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>游戏对话&amp;结局</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="/index.php?title=%E4%B8%9C%E6%96%B9%E6%AF%97%E9%82%BB%E6%98%9F/%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6&amp;action=edit&amp;redlink=1" class="new" title="东方毗邻星/设定与剧情/博丽灵梦（页面不存在）">博丽灵梦</a> &#8226; <a href="/index.php?title=%E4%B8%9C%E6%96%B9%E6%AF%97%E9%82%BB%E6%98%9F/%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85/%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99&amp;action=edit&amp;redlink=1" class="new" title="东方毗邻星/设定与剧情/雾雨魔理沙（页面不存在）">雾雨魔理沙</a> &#8226; <a href="/index.php?title=%E4%B8%9C%E6%96%B9%E6%AF%97%E9%82%BB%E6%98%9F/%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85/%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97&amp;action=edit&amp;redlink=1" class="new" title="东方毗邻星/设定与剧情/东风谷早苗（页面不存在）">东风谷早苗</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>Ex游戏对话</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="/index.php?title=%E4%B8%9C%E6%96%B9%E6%AF%97%E9%82%BB%E6%98%9F/%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6Ex&amp;action=edit&amp;redlink=1" class="new" title="东方毗邻星/设定与剧情/博丽灵梦Ex（页面不存在）">博丽灵梦</a> &#8226; <a href="/index.php?title=%E4%B8%9C%E6%96%B9%E6%AF%97%E9%82%BB%E6%98%9F/%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85/%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99Ex&amp;action=edit&amp;redlink=1" class="new" title="东方毗邻星/设定与剧情/雾雨魔理沙Ex（页面不存在）">雾雨魔理沙</a> &#8226; <a href="/index.php?title=%E4%B8%9C%E6%96%B9%E6%AF%97%E9%82%BB%E6%98%9F/%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85/%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97Ex&amp;action=edit&amp;redlink=1" class="new" title="东方毗邻星/设定与剧情/东风谷早苗Ex（页面不存在）">东风谷早苗</a></div></td></tr></tbody></table><div></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">音乐</td><td style=";;" class="navbox-list navbox-even"><div><a href="/index.php?title=%E4%B8%9C%E6%96%B9%E6%AF%97%E9%82%BB%E6%98%9F/%E9%9F%B3%E4%B9%90&amp;action=edit&amp;redlink=1" class="new" title="东方毗邻星/音乐（页面不存在）">Music Room</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">系统</td><td style=";;" class="navbox-list navbox-odd"><div><a href="/index.php?title=%E4%B8%9C%E6%96%B9%E6%AF%97%E9%82%BB%E6%98%9F/%E7%B3%BB%E7%BB%9F&amp;action=edit&amp;redlink=1" class="new" title="东方毗邻星/系统（页面不存在）">机体特性与系统说明</a></div></td></tr></tbody></table></td></tr></tbody></table>
+
+
+
+
+
+
+---
+
+此文档由 [THBWiki-Markdown-Builder](https://github.com/Delsin-Yu/THBWiki-Markdown-Builder) 构建。
+
+文档中的所有内容除特殊注明外，均在 [**知识共享(Creative Commons) 署名-非商业性使用-相同方式共享 3.0 协议**](https://creativecommons.org/licenses/by-sa/3.0/deed.zh-hans) 下提供，附加条款亦可能应用。
+
+引用类型与其他类型作品版权归原作者所有，如有作者授权则遵照授权协议使用。
+
+详细请查阅 [THBWiki：免责声明](https://thbwiki.cc/THBWiki:%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E)。
+

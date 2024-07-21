@@ -1,0 +1,78 @@
+# THB梦缘社
+
+<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\b9\ns0%3ATHB%E6%A2%A6%E7%BC%98%E7%A4%BE.html -->
+
+THB梦缘编辑部 ，于 2018 年成立，主要制作 同人志，周边 的中国大陆同人社团，主催是 用户:Voyage1970，当前状态为 活动
+
+本页是关于 **同人社团 (未找到链接)** 的词条
+## 目录
+
+- [1 社团信息](#社团信息)
+- [2 成员名单](#成员名单)
+- [3 作品列表](#作品列表)
+
+  - [3.1 同人志](#同人志)
+
+
+
+- [4 参展信息](#参展信息)
+- [5 其他信息](#其他信息)
+
+
+
+
+## 社团信息
+[](./文件-THB梦缘社banner.png.md)  [](./文件-THB梦缘社banner.png.md)banner
+
+<table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> THB梦缘编辑部 </td></tr><tr><td><b>中文名称</b></td><td>THB梦缘编辑部</td></tr><tr><td><b>主要作品类型</b></td><td>同人志，周边</td></tr><tr><td><b>成立时间</b></td><td>2018</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="/%E7%94%A8%E6%88%B7:Voyage1970" title="用户:Voyage1970"><img class="useravatar" src="https://avatar.thwiki.cc/thwikicc_wiki_3870_m.png?r=1690785353">用户:Voyage1970</a> </td></tr><tr><td><b>地区</b></td><td>中国大陆</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="https://dream.thwiki.cc/">https://dream.thwiki.cc/</a> </td></tr></tbody></table>
+
+THB梦缘社（同人社团，同人志社团，周边社团） - THB梦缘编辑部 ，于 2018 年成立，主要制作 同人志，周边 的中国大陆同人社团，主催是 用户:Voyage1970，当前状态为 活动
+## 成员名单
+- Cio (未找到链接)
+- [玊玉_kizutama](https://weibo.com/u/5474906690)
+- 七弦剑歌 (未找到链接)
+- voyage1970 (未找到链接)
+- Yokar (未找到链接)
+- ZzTel (未找到链接)
+- 桜有海 (未找到链接)
+- [卯月](https://mao-yue.github.io/)
+- 来姐 (未找到链接)
+- 月珩_涙 (未找到链接)
+- 人鱼兄贵 (未找到链接)
+- 烤鼠子 (未找到链接)
+
+## 作品列表
+- 征稿信息 (未找到链接)
+
+### 同人志
+[](./华胥三绝_礼.md)[华胥三绝 礼](./华胥三绝_礼.md)首发日期：2018-08-18 （第九届上海THONLY 東方蛍灯筏～ほたるびにいかだ (未找到链接)）评论志、​漫画、​小说 （一般向）变形B5&#160;尺寸 316&#160;页登场人物众多，此处不予详细列出[](./华胥三绝_一.md)[华胥三绝 一](./华胥三绝_一.md)首发日期：2018-12-15 （COMICUP23 (未找到链接)）评论志、​漫画、​小说 （一般向）B5&#160;尺寸 248&#160;页登场人物众多，此处不予详细列出[](./华胥三绝_尔.md)[华胥三绝 尔](./华胥三绝_尔.md)首发日期：2019-10-03 （幻奏盛宴·幻想交响音乐会 ～ 流连的九河潮音2019 (未找到链接)）评论志、​漫画、​小说 （一般向）B5&#160;尺寸 196&#160;页登场人物众多，此处不予详细列出[](./华胥三绝_未.md)[华胥三绝 未](./华胥三绝_未.md)首发日期：2022-10-03 （深圳THONLY-东方鹏徙谣2022 (未找到链接)）评论志、​漫画、​小说 （一般向）16开&#160;尺寸 90&#160;页登场人物众多，此处不予详细列出
+<table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
+
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
+
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
+
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
+</table>
+
+
+## 参展信息
+
+<table><tbody><tr><th class="活动页面">活动页面</th><th class="活动名称">活动名称</th><th class="日期">日期</th><th class="举办地点">举办地点</th><th class="摊位编号">摊位编号</th><th class="宣传页面">宣传页面</th><th class="备注">备注</th></tr><tr data-row-number="1" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E4%B8%9C%E5%B9%BB%E8%81%9A#1" title="东幻聚">东幻聚#1</a></span></td><td class="活动名称 smwtype_txt">东幻聚2023上海场·星虹澄空SP</td><td class="日期 smwtype_dat" data-sort-value="2460302.5">2023-12-24</td><td class="举办地点 smwtype_txt">上海市闵行区 诺宝中心体育馆</td><td class="摊位编号 smwtype_txt">聚-06</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="2" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E6%B5%99%E6%B1%9FTHO#3" title="浙江THO">浙江THO#3</a></span></td><td class="活动名称 smwtype_txt">浙江THO-東方永月曲</td><td class="日期 smwtype_dat" data-sort-value="2460245.5">2023-10-28</td><td class="举办地点 smwtype_txt">杭州 上城区九环路7号桔子酒店</td><td class="摊位编号 smwtype_txt">E9</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="3" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E4%B8%9C%E6%96%B9%E6%A2%A6%E5%8D%8E%E8%83%A5#7" title="东方梦华胥">武汉THONLY#7</a></span></td><td class="活动名称 smwtype_txt">第七届武漢THONLY-楚韵九歌</td><td class="日期 smwtype_dat" data-sort-value="2460221.5">2023-10-04</td><td class="举办地点 smwtype_txt">武汉 巴山夜雨大酒店</td><td class="摊位编号 smwtype_txt" data-sort-value="38">38</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="4" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E9%9B%BE%E4%B9%8B%E5%BC%82%E5%8F%98#4" title="雾之异变">重庆THONLY#4</a></span></td><td class="活动名称 smwtype_txt">重庆THO·肆·丰饶异变</td><td class="日期 smwtype_dat" data-sort-value="2460219.5">2023-10-02</td><td class="举办地点 smwtype_txt">重庆市 大渡口区 顺祥壹街B馆</td><td class="摊位编号 smwtype_txt">魅知区</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="5" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E9%AD%85%E7%9F%A5%E5%B9%BB%E6%83%B3%E5%8D%9A%E8%A7%88%E4%BC%9A#8" title="魅知幻想博览会">魅知幻想博览会#8</a></span></td><td class="活动名称 smwtype_txt">魅知幻想博览会 2023 星虹澄空</td><td class="日期 smwtype_dat" data-sort-value="2460175.5">2023-08-19</td><td class="举办地点 smwtype_txt">上海 上海世贸商城 1F 展览厅</td><td class="摊位编号 smwtype_txt">魅18</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="6" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%B9%BF%E8%A5%BFTHO#3" title="广西THO">广西THO#3</a></span></td><td class="活动名称 smwtype_txt">广西THO-幻想桂风颂3</td><td class="日期 smwtype_dat" data-sort-value="2460148.5">2023-07-23</td><td class="举办地点 smwtype_txt"><small><span style="color:grey;">Day1 即卖会</span></small><br>广西壮族自治区 南宁市 青秀区 广西建设五象大酒店 4F多功能厅<br><small><span style="color:grey;">Day2 EXTRA 交流会</span></small><br>广西壮族自治区 南宁市 江南区 凯里亚德酒店（五一立交地铁站店）东方多功能会议室</td><td class="摊位编号 smwtype_txt">F3</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="7" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E4%B8%9C%E6%96%B9%E5%8D%8E%E6%9C%88%E5%AE%B4%C2%B7%E6%A7%90%E5%BA%8F%E7%BB%AE%E6%83%B3#7" title="东方华月宴·槐序绮想">郑州THO#7</a></span></td><td class="活动名称 smwtype_txt">鄭州THO-東方夕夜花</td><td class="日期 smwtype_dat" data-sort-value="2460147.5">2023-07-22</td><td class="举办地点 smwtype_txt">郑州 涵唐酒店（原天泉大酒店）</td><td class="摊位编号 smwtype_txt">B-5</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="8" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E6%B1%9F%E8%A5%BFTHO-%E6%A2%A6%E8%BF%9D%E8%B5%A3%E9%84%B1%E8%8D%9F%E8%90%83#2" title="江西THO-梦违赣鄱荟萃">江西THO-梦违赣鄱荟萃#2</a></span></td><td class="活动名称 smwtype_txt">江西THO-梦违赣鄱荟萃·贰~落霞梦绘市集</td><td class="日期 smwtype_dat" data-sort-value="2460140.5">2023-07-15</td><td class="举办地点 smwtype_txt"><small><span style="color:grey;">7月15日 即卖会 落霞梦绘市集</span></small><br>南昌市 东方豪景花园酒店 二楼多功能厅<br><small><span style="color:grey;">7月16日 演奏会 秋水幻音盛宴</span></small><br>南昌市 南昌剧场</td><td class="摊位编号 smwtype_txt">落 09</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="9" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E6%9D%B1%E6%96%B9%E5%86%B4%E6%A8%82%E5%87%9C#4" title="東方冴樂凜">沈阳THONLY#4</a></span></td><td class="活动名称 smwtype_txt">沈陽THONLY 东方大新文</td><td class="日期 smwtype_dat" data-sort-value="2460000.5">2023-02-25</td><td class="举办地点 smwtype_txt">沈阳 沈河区青年大街52号高登大酒店</td><td class="摊位编号 smwtype_txt">D3</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="10" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E4%B8%9C%E6%96%B9%E8%8E%AB%E6%96%AF%E7%A7%91#1" title="东方莫斯科">哈尔滨THO#1</a></span></td><td class="活动名称 smwtype_txt">哈尔滨THO-东方莫斯科</td><td class="日期 smwtype_dat" data-sort-value="2459987.5">2023-02-12</td><td class="举办地点 smwtype_txt">黑龙江省哈尔滨市 悦筵宴会酒店</td><td class="摊位编号 smwtype_txt">T-2</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr class="smwfooter row-odd"><td class="sortbottom" colspan="7"><span class="smw-broadtable-furtherresults"><a href="/%E7%89%B9%E6%AE%8A:%E8%AF%A2%E9%97%AE/-5B-5B%E6%91%8A%E4%BD%8D%E7%A4%BE%E5%9B%A2::THB%E6%A2%A6%E7%BC%98%E7%A4%BE-5D-5D/-3F%E6%91%8A%E4%BD%8D%E6%B4%BB%E5%8A%A8%3D%E6%B4%BB%E5%8A%A8%E9%A1%B5%E9%9D%A2/-3F%E6%91%8A%E4%BD%8D%E6%B4%BB%E5%8A%A8.%E5%B1%95%E4%BC%9A%E5%90%8D%E7%A7%B0%3D%E6%B4%BB%E5%8A%A8%E5%90%8D%E7%A7%B0/-3F%E6%91%8A%E4%BD%8D%E6%B4%BB%E5%8A%A8.%E5%B1%95%E4%BC%9A%E6%97%A5%E6%9C%9F%3D%E6%97%A5%E6%9C%9F/-3F%E6%91%8A%E4%BD%8D%E6%B4%BB%E5%8A%A8.%E5%9C%B0%E7%82%B9%3D%E4%B8%BE%E5%8A%9E%E5%9C%B0%E7%82%B9/-3F%E6%91%8A%E4%BD%8D%E7%BC%96%E5%8F%B7/-3F%E6%91%8A%E4%BD%8D%E5%AE%A3%E4%BC%A0%E9%A1%B5%E9%9D%A2%3D%E5%AE%A3%E4%BC%A0%E9%A1%B5%E9%9D%A2-7C%2Bmany%3D-3Cbr-20-2F-3E/-3F%E6%91%8A%E4%BD%8D%E5%A4%87%E6%B3%A8%3D%E5%A4%87%E6%B3%A8/mainlabel%3D-20-2D/limit%3D10/order%3D-20descending/sort%3D-20%E6%91%8A%E4%BD%8D%E6%B4%BB%E5%8A%A8.%E5%B1%95%E4%BC%9A%E6%97%A5%E6%9C%9F/offset%3D10/format%3D-20broadtable/headers%3D-20plain" title="特殊:询问/-5B-5B摊位社团::THB梦缘社-5D-5D/-3F摊位活动=活动页面/-3F摊位活动.展会名称=活动名称/-3F摊位活动.展会日期=日期/-3F摊位活动.地点=举办地点/-3F摊位编号/-3F摊位宣传页面=宣传页面-7C+many=-3Cbr-20-2F-3E/-3F摊位备注=备注/mainlabel=-20-2D/limit=10/order=-20descending/sort=-20摊位活动.展会日期/offset=10/format=-20broadtable/headers=-20plain">...更多结果</a></span></td></tr></tbody></table>
+
+
+## 其他信息
+
+
+
+
+---
+
+此文档由 [THBWiki-Markdown-Builder](https://github.com/Delsin-Yu/THBWiki-Markdown-Builder) 构建。
+
+文档中的所有内容除特殊注明外，均在 [**知识共享(Creative Commons) 署名-非商业性使用-相同方式共享 3.0 协议**](https://creativecommons.org/licenses/by-sa/3.0/deed.zh-hans) 下提供，附加条款亦可能应用。
+
+引用类型与其他类型作品版权归原作者所有，如有作者授权则遵照授权协议使用。
+
+详细请查阅 [THBWiki：免责声明](https://thbwiki.cc/THBWiki:%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E)。
+

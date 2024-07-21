@@ -1,0 +1,97 @@
+# Spleen_Eater/分析与考据
+
+<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\2d\ns0%3ASpleen_Eater%2F%E5%88%86%E6%9E%90%E4%B8%8E%E8%80%83%E6%8D%AE.html -->
+
+火焰猫燐 | 符卡
+
+## 目录
+
+- [1 分析与考据](#分析与考据)
+
+  - [1.1 恨霊「スプリーンイーター」](#恨霊「スプリーンイーター」)
+  - [1.2 屍霊「食人怨霊」](#屍霊「食人怨霊」)
+
+
+
+- [2 注释](#注释)
+- [3 参见](#参见)
+- [4 导航](#导航)
+
+
+
+
+## 分析与考据
+### 恨霊「スプリーンイーター」
+  
+ **恨霊「スプリーンイーター」**  恨灵「Spleen Eater」（脾脏蛀食者）
+  
+
+- <ruby lang="ja"><rb>恨霊</rb><rp> (</rp><rt>こんれい</rt><rp>) </rp></ruby>
+（恨灵）
+  - 抱有怨恨的灵，意近「怨灵」。
+
+- スプリーン（spleen）
+  - 英语：脾脏；怒气。
+  - 汉语「脾气」，本义是中医理论中的脾脏之气，现在指人的习性或怒气。
+  - 根据古希腊人的体液学说，脾脏分泌黑胆汁，对应抑郁气质。
+    - 现代英语中仍有“to vent one's spleen”的说法，意为「发泄怒气」。
+    - 莎士比亚悲剧《凯撒大帝》中，以「脾脏之毒液」（venom of your spleen）代指卡西乌斯（Cassius）的怒气。
+
+
+
+<img alt="Open Iconic double quote sans left.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Open_Iconic_double_quote_sans_left.svg/langzh-25px-Open_Iconic_double_quote_sans_left.svg.png" decoding="async" loading="lazy" width="25" height="25" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Open_Iconic_double_quote_sans_left.svg/langzh-38px-Open_Iconic_double_quote_sans_left.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Open_Iconic_double_quote_sans_left.svg/langzh-50px-Open_Iconic_double_quote_sans_left.svg.png 2x" data-file-width="8" data-file-height="8">
+
+  
+Must I observe you? Must I stand and crouch  
+
+Under your testy humour? By the gods  
+
+You shall  **digest the venom of your spleen** ,  
+
+Though it do split you; for, from this day forth,  
+
+I'll use you for my mirth, yea, for my laughter,  
+
+When you are waspish.
+  
+
+<img alt="Open Iconic double quote sans right.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Open_Iconic_double_quote_sans_right.svg/langzh-25px-Open_Iconic_double_quote_sans_right.svg.png" decoding="async" loading="lazy" width="25" height="25" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Open_Iconic_double_quote_sans_right.svg/langzh-38px-Open_Iconic_double_quote_sans_right.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Open_Iconic_double_quote_sans_right.svg/langzh-50px-Open_Iconic_double_quote_sans_right.svg.png 2x" data-file-width="8" data-file-height="8">
+——莎士比亚《凯撒大帝》第四幕第三场[^cite_note-1]
+- イーター（eater）
+  - 英语：吞食者。
+
+- スプリーンイーター（spleen-eater）
+  - 英语：吞食脾脏者。
+  - 有说法认为阿燐的种族「火车」和中国的「魍魎」是同一种妖怪，而魍魎会吃尸体的肝脏[^cite_note-2]。
+
+
+### 屍霊「食人怨霊」
+  
+ **屍霊「食人怨霊」**  尸灵「食人怨灵」
+  
+
+
+[^cite_note-1]: 英文维基文库：[The Tragedy of Julius Caesar (unsourced edition)/Act IV#SCENE III. within the tent of Brutus.](http://wikisource.org/wiki/en:The_Tragedy_of_Julius_Caesar_(unsourced_edition)/Act_IV#SCENE_III._within_the_tent_of_Brutus.)
+
+## 参见
+- [火焰猫燐/分析考据](./火焰猫燐-分析考据.md)
+
+## 导航
+
+<table><tbody><tr><td><table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;;;"><tbody><tr><th style=";" colspan="3" class="navbox-title"><div class="navbar"><div class="noprint plainlinksneverexpand" style="background-color:transparent; padding:0; font-weight:normal; font-size:80%; white-space:nowrap;"><a href="./模板-火焰猫燐符卡导航.md" title="模板:火焰猫燐符卡导航"><span style=";;border:none;" title="查看这个模板">查</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<a href="/index.php?title=%E6%A8%A1%E6%9D%BF:%E7%81%AB%E7%84%B0%E7%8C%AB%E7%87%90%E7%AC%A6%E5%8D%A1%E5%AF%BC%E8%88%AA&amp;action=edit"><span style=";;border:none;" title="您可以编辑这个模板。请在储存变更之前先预览">编</span></a></div></div><span><a href="./火焰猫燐.md" title="火焰猫燐">火焰猫燐</a>符卡</span></th></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">射击游戏</td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div><a href="./东方地灵殿.md" title="东方地灵殿">东方地灵殿</a></div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./Cat's_Walk.md" title="Cat&#39;s Walk" unred="">猫符「Cat's Walk」</a> &#8226; <a href="./Cat's_Walk.md" title="Cat&#39;s Walk" unred="">猫符「怨灵猫乱步」</a> &#8226; <a href="./Zombie_Fairy.md" title="Zombie Fairy" unred="">咒精「Zombie Fairy」</a> &#8226; <a href="./Zombie_Fairy.md" title="Zombie Fairy" unred="">咒精「怨灵凭依妖精」</a> &#8226; <a href="./Spleen_Eater.md" title="Spleen Eater" unred="">恨灵「Spleen Eater」</a> &#8226; <a href="./Spleen_Eater.md" title="Spleen Eater" unred="">尸灵「食人怨灵」</a> &#8226; <a href="./旧地狱的针山.md" title="旧地狱的针山" unred="">赎罪「旧地狱的针山」</a> &#8226; <a href="./旧地狱的针山.md" title="旧地狱的针山" unred="">赎罪「古时之针与痛楚的怨灵」</a> &#8226; <a href="./死灰复燃.md" title="死灰复燃" unred="">「死灰复燃」</a> &#8226; <a href="./死灰复燃.md" title="死灰复燃" unred="">「小恶灵复活」</a> &#8226; <a href="./火焰的车轮.md" title="火焰的车轮" unred="">妖怪「火焰的车轮」</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div><a href="./东方文花帖DS.md" title="东方文花帖DS">东方文花帖DS</a></div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./Ghost_Town.md" title="Ghost Town" unred="">死符「Ghost Town」</a> &#8226; <a href="./尸体繁华街.md" title="尸体繁华街" unred="">「尸体繁华街」</a> &#8226; <a href="./Cat's_Walk.md" title="Cat&#39;s Walk" unred="">醉步「Cat Random Walk」</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div><a href="./东方兽王园.md" title="东方兽王园">东方兽王园</a></div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./Fairy_of_Dead.md" title="Fairy of Dead" unred="">死灵「Fairy of Dead」</a></div></td></tr></tbody></table><div></div></td><td class="navbox-image" style="" rowspan="3"><a href="./文件-火焰猫燐（Q版立绘）.png.md" class="image"><img alt="火焰猫燐（Q版立绘）.png" src="https://upload.thwiki.cc/thumb/6/65/%E7%81%AB%E7%84%B0%E7%8C%AB%E7%87%90%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png/160px-%E7%81%AB%E7%84%B0%E7%8C%AB%E7%87%90%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="160" height="160" srcset="https://upload.thwiki.cc/thumb/6/65/%E7%81%AB%E7%84%B0%E7%8C%AB%E7%87%90%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png/240px-%E7%81%AB%E7%84%B0%E7%8C%AB%E7%87%90%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/6/65/%E7%81%AB%E7%84%B0%E7%8C%AB%E7%87%90%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png/320px-%E7%81%AB%E7%84%B0%E7%8C%AB%E7%87%90%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="500" data-file-height="500"></a></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">出版物</td><td style=";;" class="navbox-list navbox-even"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div><a href="./The_Grimoire_of_Marisa.md" title="The Grimoire of Marisa" unred="">魔理沙的魔法书</a></div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./Cat's_Walk.md" title="Cat&#39;s Walk" unred="">猫符「Cat's Walk」</a> &#8226; <a href="./Spleen_Eater.md" title="Spleen Eater" unred="">恨灵「Spleen Eater」</a> &#8226; <a href="./旧地狱的针山.md" title="旧地狱的针山" unred="">赎罪「旧地狱的针山」</a> &#8226; <a href="./Zombie_Fairy.md" title="Zombie Fairy" unred="">咒精「Zombie Fairy」</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div><a href="./The_Grimoire_of_Usami.md" title="The Grimoire of Usami" unred="">宇佐见的魔法书</a></div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./尸体繁华街.md" title="尸体繁华街" unred="">「尸体繁华街」</a></div></td></tr></tbody></table><div></div></td></tr></tbody></table></td></tr></tbody></table>
+
+
+
+
+
+
+---
+
+此文档由 [THBWiki-Markdown-Builder](https://github.com/Delsin-Yu/THBWiki-Markdown-Builder) 构建。
+
+文档中的所有内容除特殊注明外，均在 [**知识共享(Creative Commons) 署名-非商业性使用-相同方式共享 3.0 协议**](https://creativecommons.org/licenses/by-sa/3.0/deed.zh-hans) 下提供，附加条款亦可能应用。
+
+引用类型与其他类型作品版权归原作者所有，如有作者授权则遵照授权协议使用。
+
+详细请查阅 [THBWiki：免责声明](https://thbwiki.cc/THBWiki:%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E)。
+

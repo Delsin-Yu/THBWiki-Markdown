@@ -1,0 +1,60 @@
+# 米线战术频道/米线士气章/博丽符卡东方project主题魔术贴士气章
+
+<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\6e\ns0%3A%E7%B1%B3%E7%BA%BF%E6%88%98%E6%9C%AF%E9%A2%91%E9%81%93%2F%E7%B1%B3%E7%BA%BF%E5%A3%AB%E6%B0%94%E7%AB%A0%2F%E5%8D%9A%E4%B8%BD%E7%AC%A6%E5%8D%A1%E4%B8%9C%E6%96%B9project%E4%B8%BB%E9%A2%98%E9%AD%94%E6%9C%AF%E8%B4%B4%E5%A3%AB%E6%B0%94%E7%AB%A0.html -->
+
+2024年6月22日 由 米线战术频道  发布的徽章/饰品周边，分级为 一般向
+
+本页是关于东方Project  
+ **相关实体周边 (未找到链接)** 的词条
+## 目录
+
+- [1 周边信息](#周边信息)
+- [2 参考图](#参考图)
+
+  - [2.1 预览图](#预览图)
+  - [2.2 实物图](#实物图)
+
+
+
+- [3 Staff](#Staff)
+- [4 评论](#评论)
+
+
+
+
+## 周边信息
+
+<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 博丽符卡东方project主题魔术贴士气章 </td></tr><tr><td class="label">系列</td><td> 米线士气章 </td></tr><tr><td class="label">制作方</td><td><a href="./米线战术频道.md" title="米线战术频道">米线战术频道</a></td></tr><tr><td class="label">首发日期</td><td>2023年</td></tr><tr><td class="label">类型</td><td>徽章，饰品</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>9cm×3cm</td></tr><tr><td class="label">材质</td><td>织唛</td></tr><tr><td class="label">售价</td><td>9.9人民币</td></tr></tbody></table>
+
+米线战术频道/米线士气章/博丽符卡东方project主题魔术贴士气章（周边，米线战术频道，2023） - 2024年6月22日 由 米线战术频道  发布的徽章/饰品周边，分级为 一般向
+
+<table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://item.taobao.com/item.htm?id=736759816008">淘宝</a></td></tr></tbody></table>
+
+
+## 参考图
+  
+周边宣传、售卖时使用的作为参考图的预览图或实物图的图片。
+  
+
+### 预览图
+-  (未找到链接)
+
+### 实物图
+-  (未找到链接)
+
+## Staff
+## 评论
+
+
+
+
+---
+
+此文档由 [THBWiki-Markdown-Builder](https://github.com/Delsin-Yu/THBWiki-Markdown-Builder) 构建。
+
+文档中的所有内容除特殊注明外，均在 [**知识共享(Creative Commons) 署名-非商业性使用-相同方式共享 3.0 协议**](https://creativecommons.org/licenses/by-sa/3.0/deed.zh-hans) 下提供，附加条款亦可能应用。
+
+引用类型与其他类型作品版权归原作者所有，如有作者授权则遵照授权协议使用。
+
+详细请查阅 [THBWiki：免责声明](https://thbwiki.cc/THBWiki:%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E)。
+

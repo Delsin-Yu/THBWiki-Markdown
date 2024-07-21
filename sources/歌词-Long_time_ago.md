@@ -1,0 +1,35 @@
+# 歌词:Long_time_ago
+
+<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\b9\ns512%3ALong_time_ago.html -->
+
+EastNewSound | 使用了翻译表的页面 | 日文歌词 | 歌词 | 没有翻译的歌词
+
+
+<table><tbody><tr><th colspan="2">曲目信息</th></tr><tr><td colspan="2" style="padding-left: 1em;"><div class="floatright"><a href="./文件-Dione_Aggregation封面.jpg.md" class="image" title="Dione Aggregation"><img alt="Dione Aggregation" src="https://upload.thwiki.cc/thumb/9/91/Dione_Aggregation%E5%B0%81%E9%9D%A2.jpg/200px-Dione_Aggregation%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="200" height="200" srcset="https://upload.thwiki.cc/thumb/9/91/Dione_Aggregation%E5%B0%81%E9%9D%A2.jpg/300px-Dione_Aggregation%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/9/91/Dione_Aggregation%E5%B0%81%E9%9D%A2.jpg/400px-Dione_Aggregation%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1200" data-file-height="1200"></a></div><b><a href="/Dione_Aggregation#2" title="Dione Aggregation">Long time ago</a></b> &#91;06:13&#93;<dl><dd><a href="./Dione_Aggregation.md" title="Dione Aggregation">Dione Aggregation</a> （2011-12-30）<br>社团：<a href="./EastNewSound.md" title="EastNewSound">EastNewSound</a><br>编曲：<a href="/index.php?title=MiYAMO&amp;action=edit&amp;redlink=1" class="new" title="MiYAMO（页面不存在）">MiYAMO</a><br>演唱：<a href="./紫咲ほたる.md" title="紫咲ほたる">紫咲ほたる</a><br>作词：<a href="./海兎.md" title="海兎">海兎</a><br>原曲：<a href="./小小欲望的星空.md" title="小小欲望的星空" unred="">小さな欲望の星空</a><br></dd></dl></td></tr></tbody></table>
+
+- 歌词语言：日文
+
+  
+  
+
+  
+
+
+<table><tbody><tr class="tt-lyrics-header" id="=-1" data-pos="&#91;&quot;=&quot;,1&#93;"><td class="tt-lyrics" lang="zh"><div class="poem"></div></td><td class="tt-mainh" lang="zh"><div class="poem"></div></td><td class="tt-tranh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-main-ja" id="=-2" data-pos="&#91;&quot;=&quot;,2&#93;"><td class="tt-time" lang="zh"><div class="poem">00:58.38</div></td><td class="tt-ja" lang="ja"><div class="poem">零れゆく願いは星屑　夜を遮って輝き</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-main-ja" id="=-3" data-pos="&#91;&quot;=&quot;,3&#93;"><td class="tt-time" lang="zh"><div class="poem">01:11.07</div></td><td class="tt-ja" lang="ja"><div class="poem">何時までも其処にあるとそんな気がしたの</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-main-ja" id="=-4" data-pos="&#91;&quot;=&quot;,4&#93;"><td class="tt-time" lang="zh"><div class="poem">01:16.82</div></td><td class="tt-ja" lang="ja"><div class="poem">ずっと夢にみたよなお話</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-main-ja" id="=-5" data-pos="&#91;&quot;=&quot;,5&#93;"><td class="tt-time" lang="zh"><div class="poem">01:22.71</div></td><td class="tt-ja" lang="ja"><div class="poem">遠い目をした君は今なにをみてる？</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-lyrics-sep" id="=-6" data-pos="&#91;&quot;=&quot;,6&#93;"><td class="tt-sep" lang="zh"><div class="poem">01:28.65<br></div></td><td class="tt-text" lang="zh"><div class="poem"></div></td><td class="tt-tran" lang="zh"><div class="poem"></div></td></tr><tr class="tt-main-ja" id="=-7" data-pos="&#91;&quot;=&quot;,7&#93;"><td class="tt-time" lang="zh"><div class="poem">01:42.16</div></td><td class="tt-ja" lang="ja"><div class="poem">闇の中照らした光は　想いの数だけ満たした</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-main-ja" id="=-8" data-pos="&#91;&quot;=&quot;,8&#93;"><td class="tt-time" lang="zh"><div class="poem">01:54.43</div></td><td class="tt-ja" lang="ja"><div class="poem">どちらも必要なのと君は歌うように</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-main-ja" id="=-9" data-pos="&#91;&quot;=&quot;,9&#93;"><td class="tt-time" lang="zh"><div class="poem">02:00.37</div></td><td class="tt-ja" lang="ja"><div class="poem">そっと涙　その意味解らず</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-main-ja" id="=-10" data-pos="&#91;&quot;=&quot;,10&#93;"><td class="tt-time" lang="zh"><div class="poem">02:06.42</div></td><td class="tt-ja" lang="ja"><div class="poem">瞳映した空は星屑だらけで</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-lyrics-sep" id="=-11" data-pos="&#91;&quot;=&quot;,11&#93;"><td class="tt-sep" lang="zh"><div class="poem">02:06.40<br></div></td><td class="tt-text" lang="zh"><div class="poem"></div></td><td class="tt-tran" lang="zh"><div class="poem"></div></td></tr><tr class="tt-main-ja" id="=-12" data-pos="&#91;&quot;=&quot;,12&#93;"><td class="tt-time" lang="zh"><div class="poem">02:11.34</div></td><td class="tt-ja" lang="ja"><div class="poem">懐かしさ覚え　切なく胸を締め付けて　何か聞こえた</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-lyrics-sep" id="=-13" data-pos="&#91;&quot;=&quot;,13&#93;"><td class="tt-sep" lang="zh"><div class="poem">02:41.18<br></div></td><td class="tt-text" lang="zh"><div class="poem"></div></td><td class="tt-tran" lang="zh"><div class="poem"></div></td></tr><tr class="tt-main-ja" id="=-14" data-pos="&#91;&quot;=&quot;,14&#93;"><td class="tt-time" lang="zh"><div class="poem">03:09.21</div></td><td class="tt-ja" lang="ja"><div class="poem">光さえ飲み込む暗闇　続かないように照らした</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-main-ja" id="=-15" data-pos="&#91;&quot;=&quot;,15&#93;"><td class="tt-time" lang="zh"><div class="poem">03:22.03</div></td><td class="tt-ja" lang="ja"><div class="poem">君が迷わないように　ずっと遠い記憶は輝いて</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-main-ja" id="=-16" data-pos="&#91;&quot;=&quot;,16&#93;"><td class="tt-time" lang="zh"><div class="poem">03:29.92</div></td><td class="tt-ja" lang="ja"><div class="poem">空へと浮かんでそっと囁く</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-main-ja" id="=-17" data-pos="&#91;&quot;=&quot;,17&#93;"><td class="tt-time" lang="zh"><div class="poem">03:35.57</div></td><td class="tt-ja" lang="ja"><div class="poem">願い叶いますように</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-lyrics-sep" id="=-18" data-pos="&#91;&quot;=&quot;,18&#93;"><td class="tt-sep" lang="zh"><div class="poem">03:38.67<br></div></td><td class="tt-text" lang="zh"><div class="poem"></div></td><td class="tt-tran" lang="zh"><div class="poem"></div></td></tr><tr class="tt-main-ja" id="=-19" data-pos="&#91;&quot;=&quot;,19&#93;"><td class="tt-time" lang="zh"><div class="poem">03:38.69</div></td><td class="tt-ja" lang="ja"><div class="poem">流れてく時に　いつしか慣れてゆくけれど　忘れたくない…</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr></tbody></table>
+
+
+
+
+
+
+
+---
+
+此文档由 [THBWiki-Markdown-Builder](https://github.com/Delsin-Yu/THBWiki-Markdown-Builder) 构建。
+
+文档中的所有内容除特殊注明外，均在 [**知识共享(Creative Commons) 署名-非商业性使用-相同方式共享 3.0 协议**](https://creativecommons.org/licenses/by-sa/3.0/deed.zh-hans) 下提供，附加条款亦可能应用。
+
+引用类型与其他类型作品版权归原作者所有，如有作者授权则遵照授权协议使用。
+
+详细请查阅 [THBWiki：免责声明](https://thbwiki.cc/THBWiki:%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E)。
+

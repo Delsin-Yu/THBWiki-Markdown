@@ -1,0 +1,46 @@
+# Syncopation_Shot_＃02
+
+<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\c\cc\ns0%3ASyncopation_Shot_%EF%BC%8302.html -->
+
+2011年5月8日 由 rythmique 于 博丽神社例大祭8 发布的EP同人专辑，分级为 一般向
+
+本页是关于东方Project  
+ **二次创作同人专辑 (未找到链接)** 的词条
+## 专辑信息
+
+<table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Syncopation_Shot_＃02封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/6/65/Syncopation_Shot_%EF%BC%8302%E5%B0%81%E9%9D%A2.jpg/252px-Syncopation_Shot_%EF%BC%8302%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="252" srcset="https://upload.thwiki.cc/thumb/6/65/Syncopation_Shot_%EF%BC%8302%E5%B0%81%E9%9D%A2.jpg/378px-Syncopation_Shot_%EF%BC%8302%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/6/65/Syncopation_Shot_%EF%BC%8302%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="500" data-file-height="500"></a><div class="cover-char">角色：<a href="./神绮.md" title="神绮">神绮</a>，<a href="./梦子.md" title="梦子">梦子</a></div></td>
+</tr><tr><td class="label">名称</td><td colspan="2"> Syncopation Shot ＃02 </td></tr><tr><td class="label">制作方</td><td><a href="./rythmique.md" title="rythmique">rythmique</a></td><td class="cover-artwork" rowspan="9" style="min-width:252px;"><a href="./文件-Syncopation_Shot_＃02封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/6/65/Syncopation_Shot_%EF%BC%8302%E5%B0%81%E9%9D%A2.jpg/252px-Syncopation_Shot_%EF%BC%8302%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="252" srcset="https://upload.thwiki.cc/thumb/6/65/Syncopation_Shot_%EF%BC%8302%E5%B0%81%E9%9D%A2.jpg/378px-Syncopation_Shot_%EF%BC%8302%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/6/65/Syncopation_Shot_%EF%BC%8302%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="500" data-file-height="500"></a><div class="cover-char">角色：<a href="./神绮.md" title="神绮">神绮</a>，<a href="./梦子.md" title="梦子">梦子</a></div></td>
+</tr><tr><td class="label">首发日期</td><td>2011-05-08&#160;（<a href="/展会作品列表?e=%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD%238">第八回 博麗神社例大祭</a>）</td></tr><tr><td class="label">类型</td><td>EP</td></tr><tr><td class="label">编号</td><td>RQCD-009</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>4</td></tr><tr><td class="label">总时长</td><td>16:14</td></tr><tr><td class="label">售价</td><td>会场售价：300日元</td></tr>
+<tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://rythmique.info/RQCD009/">http://rythmique.info/RQCD009/</a></td></tr></tbody></table>
+
+Syncopation Shot ＃02（同人专辑，rythmique，2011） - 2011年5月8日 由 rythmique 于 博丽神社例大祭8 发布的EP同人专辑，分级为 一般向
+## Staff
+  
+ **Arrangement**   
+
+<table><tbody><tr><td><a href="/index.php?title=%E7%AB%B9%E5%86%85%E5%8F%8B%E8%B2%B4(Brian)&amp;action=edit&amp;redlink=1" class="new" title="竹内友貴(Brian)（页面不存在）">竹内友貴(Brian)</a></td><td></td><td>Tr.1/3</td></tr><tr><td><a href="/index.php?title=Wai.k&amp;action=edit&amp;redlink=1" class="new" title="Wai.k（页面不存在）">Wai.k</a></td><td></td><td>Tr.2/4</td></tr></tbody></table>
+
+
+## 曲目列表
+
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="怪綺談_～_Mystic_Square" colspan="2" class="title">怪綺談　～ Mystic Square<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=竹内友貴(Brian)&amp;ogmusic=怪綺談　～ Mystic Square&amp;fromwiki=Syncopation_Shot_＃02"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:32</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E7%AB%B9%E5%86%85%E5%8F%8B%E8%B2%B4(Brian)&amp;action=edit&amp;redlink=1" class="new" title="竹内友貴(Brian)（页面不存在）">竹内友貴(Brian)</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，竹内友貴(Brian)&amp;fromwiki=Syncopation_Shot_＃02"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=怪綺談　～ Mystic Square&amp;fromwiki=Syncopation_Shot_＃02"><span></span></a></span><div class="ogmusic"><a href="/%E6%80%AA%E7%B6%BA%E8%AB%87_%EF%BD%9E_Mystic_Square" class="mw-redirect" title="怪綺談 ～ Mystic Square">怪綺談　～ Mystic Square</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E6%80%AA%E7%BB%AE%E8%B0%88_%EF%BD%9E_Mystic_Square." class="mw-redirect" title="东方怪绮谈 ～ Mystic Square.">东方怪绮谈　～ Mystic Square.</a></div></td></tr>
+<tr><td id="2" class="infoYD"><b>02</b></td><td id="禁断の魔法_～_Forbidden_Magic" colspan="2" class="title">禁断の魔法　～ Forbidden Magic<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Wai.k&amp;ogmusic=禁断の魔法　～ Forbidden Magic&amp;fromwiki=Syncopation_Shot_＃02"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:27</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=Wai.k&amp;action=edit&amp;redlink=1" class="new" title="Wai.k（页面不存在）">Wai.k</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Wai.k，&amp;fromwiki=Syncopation_Shot_＃02"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=禁断の魔法　～ Forbidden Magic&amp;fromwiki=Syncopation_Shot_＃02"><span></span></a></span><div class="ogmusic"><a href="/%E7%A6%81%E6%96%AD%E3%81%AE%E9%AD%94%E6%B3%95_%EF%BD%9E_Forbidden_Magic" class="mw-redirect" title="禁断の魔法 ～ Forbidden Magic">禁断の魔法　～ Forbidden Magic</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E6%80%AA%E7%BB%AE%E8%B0%88_%EF%BD%9E_Mystic_Square." class="mw-redirect" title="东方怪绮谈 ～ Mystic Square.">东方怪绮谈　～ Mystic Square.</a></div></td></tr>
+<tr><td id="3" class="infoYD"><b>03</b></td><td id="悲しき人形_～_Doll_of_Misery" colspan="2" class="title">悲しき人形　～ Doll of Misery<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=竹内友貴(Brian)&amp;ogmusic=悲しき人形　～ Doll of Misery&amp;fromwiki=Syncopation_Shot_＃02"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:06</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E7%AB%B9%E5%86%85%E5%8F%8B%E8%B2%B4(Brian)&amp;action=edit&amp;redlink=1" class="new" title="竹内友貴(Brian)（页面不存在）">竹内友貴(Brian)</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，竹内友貴(Brian)&amp;fromwiki=Syncopation_Shot_＃02"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=悲しき人形　～ Doll of Misery&amp;fromwiki=Syncopation_Shot_＃02"><span></span></a></span><div class="ogmusic"><a href="/%E6%82%B2%E3%81%97%E3%81%8D%E4%BA%BA%E5%BD%A2_%EF%BD%9E_Doll_of_Misery" class="mw-redirect" title="悲しき人形 ～ Doll of Misery">悲しき人形　～ Doll of Misery</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E6%80%AA%E7%BB%AE%E8%B0%88_%EF%BD%9E_Mystic_Square." class="mw-redirect" title="东方怪绮谈 ～ Mystic Square.">东方怪绮谈　～ Mystic Square.</a></div></td></tr>
+<tr><td id="4" class="infoYD"><b>04</b></td><td id="神話幻想_～_Infinite_Being" colspan="2" class="title">神話幻想　～ Infinite Being<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Wai.k&amp;ogmusic=神話幻想　～ Infinite Being&amp;fromwiki=Syncopation_Shot_＃02"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:09</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=Wai.k&amp;action=edit&amp;redlink=1" class="new" title="Wai.k（页面不存在）">Wai.k</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Wai.k，&amp;fromwiki=Syncopation_Shot_＃02"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=神話幻想　～ Infinite Being&amp;fromwiki=Syncopation_Shot_＃02"><span></span></a></span><div class="ogmusic"><a href="/%E7%A5%9E%E8%A9%B1%E5%B9%BB%E6%83%B3_%EF%BD%9E_Infinite_Being" class="mw-redirect" title="神話幻想 ～ Infinite Being">神話幻想　～ Infinite Being</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E6%80%AA%E7%BB%AE%E8%B0%88_%EF%BD%9E_Mystic_Square." class="mw-redirect" title="东方怪绮谈 ～ Mystic Square.">东方怪绮谈　～ Mystic Square.</a></div></td></tr></tbody></table>
+
+
+## 评论
+
+
+
+
+---
+
+此文档由 [THBWiki-Markdown-Builder](https://github.com/Delsin-Yu/THBWiki-Markdown-Builder) 构建。
+
+文档中的所有内容除特殊注明外，均在 [**知识共享(Creative Commons) 署名-非商业性使用-相同方式共享 3.0 协议**](https://creativecommons.org/licenses/by-sa/3.0/deed.zh-hans) 下提供，附加条款亦可能应用。
+
+引用类型与其他类型作品版权归原作者所有，如有作者授权则遵照授权协议使用。
+
+详细请查阅 [THBWiki：免责声明](https://thbwiki.cc/THBWiki:%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E)。
+

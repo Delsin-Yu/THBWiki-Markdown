@@ -1,0 +1,160 @@
+# 东方谜缘塔_～_Forsaken_Labyrinth.
+
+<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\d\d0\ns0%3A%E4%B8%9C%E6%96%B9%E8%B0%9C%E7%BC%98%E5%A1%94_%EF%BD%9E_Forsaken_Labyrinth%2E.html -->
+
+2022年12月7日 由 阐幽赜书房  发布的STG同人游戏，可在 Windows 系统上运行，游戏人数为 单人模式，分级为 一般向
+
+<center>
+
+<table>
+<tbody><tr>
+<td class="mbox-image"><div style="width: 52px;">
+  <a href="./文件-ConstructionClock.png.md" class="image"><img alt="ConstructionClock.png" src="https://upload.thwiki.cc/thumb/f/f1/ConstructionClock.png/50px-ConstructionClock.png" decoding="async" loading="lazy" width="50" height="43" srcset="https://upload.thwiki.cc/thumb/f/f1/ConstructionClock.png/75px-ConstructionClock.png 1.5x, https://upload.thwiki.cc/thumb/f/f1/ConstructionClock.png/100px-ConstructionClock.png 2x" data-file-width="689" data-file-height="587"></a></div></td>
+<td class="mbox-text" style=""><br>本页面词条尚未完工。<br><br></td>
+</tr>
+</tbody></table>
+
+
+</center>
+本页是关于东方Project  
+ **二次创作同人软件 (未找到链接)** 的词条
+## 目录
+
+- [1 软件信息](#软件信息)
+- [2 Staff](#Staff)
+- [3 游戏介绍](#游戏介绍)
+- [4 角色](#角色)
+
+  - [4.1 自机](#自机)
+  - [4.2 BOSS](#BOSS)
+
+
+
+- [5 附带文档](#附带文档)
+- [6 其他资料](#其他资料)
+- [7 评论](#评论)
+
+
+
+
+## 软件信息
+
+<table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-东方谜缘塔_～_Forsaken_Labyrinth.封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/c/ca/%E4%B8%9C%E6%96%B9%E8%B0%9C%E7%BC%98%E5%A1%94_%EF%BD%9E_Forsaken_Labyrinth.%E5%B0%81%E9%9D%A2.jpg/196px-%E4%B8%9C%E6%96%B9%E8%B0%9C%E7%BC%98%E5%A1%94_%EF%BD%9E_Forsaken_Labyrinth.%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="196" height="196" srcset="https://upload.thwiki.cc/thumb/c/ca/%E4%B8%9C%E6%96%B9%E8%B0%9C%E7%BC%98%E5%A1%94_%EF%BD%9E_Forsaken_Labyrinth.%E5%B0%81%E9%9D%A2.jpg/294px-%E4%B8%9C%E6%96%B9%E8%B0%9C%E7%BC%98%E5%A1%94_%EF%BD%9E_Forsaken_Labyrinth.%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/c/ca/%E4%B8%9C%E6%96%B9%E8%B0%9C%E7%BC%98%E5%A1%94_%EF%BD%9E_Forsaken_Labyrinth.%E5%B0%81%E9%9D%A2.jpg/392px-%E4%B8%9C%E6%96%B9%E8%B0%9C%E7%BC%98%E5%A1%94_%EF%BD%9E_Forsaken_Labyrinth.%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1410" data-file-height="1410"></a><div class="cover-char">角色：<a href="/index.php?title=%E5%8E%9F%E5%88%9B%E8%A7%92%E8%89%B2&amp;action=edit&amp;redlink=1" class="new" title="原创角色（页面不存在）">原创角色</a></div></td>
+</tr><tr><td class="label">名称</td><td colspan="2"> 东方谜缘塔 ～ Forsaken Labyrinth. </td></tr><tr><td class="label">译名</td><td colspan="2"> 東方謎縁塔 ～ Forsaken Labyrinth. </td></tr><tr><td class="label">制作方</td><td><a href="./阐幽赜书房.md" title="阐幽赜书房">阐幽赜书房</a></td><td class="cover-artwork" rowspan="7" style="min-width:196px;"><a href="./文件-东方谜缘塔_～_Forsaken_Labyrinth.封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/c/ca/%E4%B8%9C%E6%96%B9%E8%B0%9C%E7%BC%98%E5%A1%94_%EF%BD%9E_Forsaken_Labyrinth.%E5%B0%81%E9%9D%A2.jpg/196px-%E4%B8%9C%E6%96%B9%E8%B0%9C%E7%BC%98%E5%A1%94_%EF%BD%9E_Forsaken_Labyrinth.%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="196" height="196" srcset="https://upload.thwiki.cc/thumb/c/ca/%E4%B8%9C%E6%96%B9%E8%B0%9C%E7%BC%98%E5%A1%94_%EF%BD%9E_Forsaken_Labyrinth.%E5%B0%81%E9%9D%A2.jpg/294px-%E4%B8%9C%E6%96%B9%E8%B0%9C%E7%BC%98%E5%A1%94_%EF%BD%9E_Forsaken_Labyrinth.%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/c/ca/%E4%B8%9C%E6%96%B9%E8%B0%9C%E7%BC%98%E5%A1%94_%EF%BD%9E_Forsaken_Labyrinth.%E5%B0%81%E9%9D%A2.jpg/392px-%E4%B8%9C%E6%96%B9%E8%B0%9C%E7%BC%98%E5%A1%94_%EF%BD%9E_Forsaken_Labyrinth.%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1410" data-file-height="1410"></a><div class="cover-char">角色：<a href="/index.php?title=%E5%8E%9F%E5%88%9B%E8%A7%92%E8%89%B2&amp;action=edit&amp;redlink=1" class="new" title="原创角色（页面不存在）">原创角色</a></div></td>
+</tr><tr><td class="label">首发日期</td><td>2022-12-07</td></tr><tr><td class="label">类型</td><td>游戏</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">游戏人数</td><td>单人模式</td></tr><tr><td class="label">游戏类型</td><td>STG</td></tr><tr><td class="label">运行平台</td><td>Windows</td></tr><tr><td class="label">语言</td><td>简体中文</td></tr></tbody></table>
+
+东方谜缘塔 ～ Forsaken Labyrinth.（同人游戏，阐幽赜书房，2022） - 2022年12月7日 由 阐幽赜书房  发布的STG同人游戏，可在 Windows 系统上运行，游戏人数为 单人模式，分级为 一般向
+
+<table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://store.steampowered.com/app/2227170">Steam</a></td></tr></tbody></table>
+
+
+
+<table>
+<tbody><tr><th colspan="2">配置需求</th></tr>
+<tr><td style="width:120px;padding-left:7px;"><b>操作系统</b></td><td>Windows 7 SP1 with platform update (KB2670838)</td></tr><tr><td style="width:120px;padding-left:7px;"><b>DirectX</b></td><td>11</td></tr><tr><td style="width:120px;padding-left:7px;"><b>CPU</b></td><td>Core 2 Duo or faster</td></tr><tr><td style="width:120px;padding-left:7px;"><b>内存</b></td><td>1 GB RAM</td></tr><tr><td style="width:120px;padding-left:7px;"><b>显示卡</b></td><td>Direct3D 11 compatible and support D3D_FEATURE_LEVEL_10_0</td></tr><tr><td style="width:120px;padding-left:7px;"><b>硬盘需求</b></td><td>需要 500 MB 可用空间</td></tr><tr><td style="width:120px;padding-left:7px;"><b>声卡</b></td><td>XAudio2 compatible</td></tr>
+</tbody></table>
+
+
+## Staff
+主催
+: Aya (未找到链接)
+美术
+: Aya (未找到链接)、狸糕绒布团 (未找到链接)
+联系卡片设计
+: 狸糕绒布团 (未找到链接)
+弹幕
+: 林柏海、讲究の末云、杨之鱼、SSWTLZZ (未找到链接)、0xequals1-无解、Raw、可爱光子、Sunf、小皮
+程序
+: SSWTLZZ (未找到链接)、讲究の末云、璀境石 (未找到链接)
+音乐
+: 远东幻想、arplane、Hyper-獭、RickyRister、magicalccy、SD (未找到链接)
+考据提供
+: 上饶人形 (未找到链接)
+特别感谢
+: Houraisan Kaguya、WQ无球、铃帝文椛、RTN (未找到链接)、哈斯塔
+
+## 游戏介绍
+- [故事背景](./东方谜缘塔_～_Forsaken_Labyrinth.-故事背景.md)
+- EX故事背景 (未找到链接)
+
+## 角色
+### 自机
+
+<table><tbody><tr><td style="min-width:40px;" rowspan=""><div class="center"><div class="floatnone"><a href="./文件-博丽灵梦（谜缘塔）.png.md" class="image" title="博丽灵梦"><img alt="博丽灵梦" src="https://upload.thwiki.cc/thumb/f/fd/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E8%B0%9C%E7%BC%98%E5%A1%94%EF%BC%89.png/37px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E8%B0%9C%E7%BC%98%E5%A1%94%EF%BC%89.png" decoding="async" loading="lazy" width="37" height="40" srcset="https://upload.thwiki.cc/thumb/f/fd/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E8%B0%9C%E7%BC%98%E5%A1%94%EF%BC%89.png/55px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E8%B0%9C%E7%BC%98%E5%A1%94%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/f/fd/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E8%B0%9C%E7%BC%98%E5%A1%94%EF%BC%89.png/73px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E8%B0%9C%E7%BC%98%E5%A1%94%EF%BC%89.png 2x" data-file-width="839" data-file-height="913"></a></div></div></td> <td style="width:150px;padding:3px 9px 3px 7px;" rowspan="">乐园的奇妙巫女 </td><td style="width:180px;padding:3px 9px 3px 7px;"><a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></td><td><a href="./东方谜缘塔_～_Forsaken_Labyrinth.-博丽灵梦.md" title="东方谜缘塔 ～ Forsaken Labyrinth./博丽灵梦">游戏对话/结局</a><br><a href="/index.php?title=%E4%B8%9C%E6%96%B9%E8%B0%9C%E7%BC%98%E5%A1%94_%EF%BD%9E_Forsaken_Labyrinth./%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6_ExStory&amp;action=edit&amp;redlink=1" class="new" title="东方谜缘塔 ～ Forsaken Labyrinth./博丽灵梦 ExStory（页面不存在）">Extra游戏对话</a></td></tr>
+<tr><td style="min-width:40px;" rowspan=""><div class="center"><div class="floatnone"><a href="./文件-雾雨魔理沙（谜缘塔）.png.md" class="image" title="雾雨魔理沙"><img alt="雾雨魔理沙" src="https://upload.thwiki.cc/thumb/5/5d/%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%EF%BC%88%E8%B0%9C%E7%BC%98%E5%A1%94%EF%BC%89.png/22px-%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%EF%BC%88%E8%B0%9C%E7%BC%98%E5%A1%94%EF%BC%89.png" decoding="async" loading="lazy" width="22" height="40" srcset="https://upload.thwiki.cc/thumb/5/5d/%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%EF%BC%88%E8%B0%9C%E7%BC%98%E5%A1%94%EF%BC%89.png/33px-%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%EF%BC%88%E8%B0%9C%E7%BC%98%E5%A1%94%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/5/5d/%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%EF%BC%88%E8%B0%9C%E7%BC%98%E5%A1%94%EF%BC%89.png/44px-%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%EF%BC%88%E8%B0%9C%E7%BC%98%E5%A1%94%EF%BC%89.png 2x" data-file-width="503" data-file-height="916"></a></div></div></td> <td style="width:150px;padding:3px 9px 3px 7px;" rowspan="">连通光与热的魔法使 </td><td style="width:180px;padding:3px 9px 3px 7px;"><a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a></td><td><a href="./东方谜缘塔_～_Forsaken_Labyrinth.-雾雨魔理沙.md" title="东方谜缘塔 ～ Forsaken Labyrinth./雾雨魔理沙">游戏对话/结局</a><br><a href="/index.php?title=%E4%B8%9C%E6%96%B9%E8%B0%9C%E7%BC%98%E5%A1%94_%EF%BD%9E_Forsaken_Labyrinth./%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99_ExStory&amp;action=edit&amp;redlink=1" class="new" title="东方谜缘塔 ～ Forsaken Labyrinth./雾雨魔理沙 ExStory（页面不存在）">Extra游戏对话</a></td></tr>
+<tr><td style="min-width:40px;" rowspan=""><div class="center"><div class="floatnone"><a href="./文件-十六夜咲夜（谜缘塔）.png.md" class="image" title="十六夜咲夜"><img alt="十六夜咲夜" src="https://upload.thwiki.cc/thumb/5/54/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C%EF%BC%88%E8%B0%9C%E7%BC%98%E5%A1%94%EF%BC%89.png/28px-%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C%EF%BC%88%E8%B0%9C%E7%BC%98%E5%A1%94%EF%BC%89.png" decoding="async" loading="lazy" width="28" height="40" srcset="https://upload.thwiki.cc/thumb/5/54/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C%EF%BC%88%E8%B0%9C%E7%BC%98%E5%A1%94%EF%BC%89.png/42px-%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C%EF%BC%88%E8%B0%9C%E7%BC%98%E5%A1%94%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/5/54/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C%EF%BC%88%E8%B0%9C%E7%BC%98%E5%A1%94%EF%BC%89.png/57px-%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C%EF%BC%88%E8%B0%9C%E7%BC%98%E5%A1%94%EF%BC%89.png 2x" data-file-width="620" data-file-height="875"></a></div></div></td> <td style="width:150px;padding:3px 9px 3px 7px;" rowspan="">绯红恶魔的女仆长 </td><td style="width:180px;padding:3px 9px 3px 7px;"><a href="/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C" title="十六夜咲夜">十六夜咲夜</a></td><td><a href="./东方谜缘塔_～_Forsaken_Labyrinth.-十六夜咲夜.md" title="东方谜缘塔 ～ Forsaken Labyrinth./十六夜咲夜">游戏对话/结局</a><br><a href="/index.php?title=%E4%B8%9C%E6%96%B9%E8%B0%9C%E7%BC%98%E5%A1%94_%EF%BD%9E_Forsaken_Labyrinth./%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C_ExStory&amp;action=edit&amp;redlink=1" class="new" title="东方谜缘塔 ～ Forsaken Labyrinth./十六夜咲夜 ExStory（页面不存在）">Extra游戏对话</a></td></tr></tbody></table>
+
+
+### BOSS
+
+<table><tbody><tr><td rowspan="1" class="bg-color-info-10" style="min-width:100px"><b>一面道中</b><br><i><a href="/index.php?title=%E6%B7%96%E5%B0%94%E6%B8%B8%E8%AE%B0&amp;action=edit&amp;redlink=1" class="new" title="淖尔游记（页面不存在）">淖尔游记</a></i></td><td style="min-width:35px" rowspan="1"><div class="center"><div class="floatnone"><a href="./文件-琪露诺（谜缘塔）.png.md" class="image"><img alt="琪露诺（谜缘塔）.png" src="https://upload.thwiki.cc/thumb/5/5d/%E7%90%AA%E9%9C%B2%E8%AF%BA%EF%BC%88%E8%B0%9C%E7%BC%98%E5%A1%94%EF%BC%89.png/24px-%E7%90%AA%E9%9C%B2%E8%AF%BA%EF%BC%88%E8%B0%9C%E7%BC%98%E5%A1%94%EF%BC%89.png" decoding="async" loading="lazy" width="24" height="40" srcset="https://upload.thwiki.cc/thumb/5/5d/%E7%90%AA%E9%9C%B2%E8%AF%BA%EF%BC%88%E8%B0%9C%E7%BC%98%E5%A1%94%EF%BC%89.png/37px-%E7%90%AA%E9%9C%B2%E8%AF%BA%EF%BC%88%E8%B0%9C%E7%BC%98%E5%A1%94%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/5/5d/%E7%90%AA%E9%9C%B2%E8%AF%BA%EF%BC%88%E8%B0%9C%E7%BC%98%E5%A1%94%EF%BC%89.png/49px-%E7%90%AA%E9%9C%B2%E8%AF%BA%EF%BC%88%E8%B0%9C%E7%BC%98%E5%A1%94%EF%BC%89.png 2x" data-file-width="511" data-file-height="834"></a></div></div></td>  <td style="width:150px;padding:3px 9px 3px 7px;" rowspan="1"> 湖中的冰精</td><td style="width:180px;padding:3px 9px 3px 7px;" rowspan="1"> <a href="./琪露诺.md" title="琪露诺">琪露诺</a> </td></tr><tr><td rowspan="1" class="bg-color-info-10" style="min-width:100px"><b>一面BOSS</b><br><i><a href="/index.php?title=%E4%B8%8D%E7%9F%A5%E7%81%AB%E5%9C%86%E8%88%9E%E6%9B%B2&amp;action=edit&amp;redlink=1" class="new" title="不知火圆舞曲（页面不存在）">不知火圆舞曲</a></i></td><td style="min-width:35px" rowspan="1"><div class="center"><div class="floatnone"><a href="./文件-不知火米兰（谜缘塔）.png.md" class="image"><img alt="不知火米兰（谜缘塔）.png" src="https://upload.thwiki.cc/thumb/b/b1/%E4%B8%8D%E7%9F%A5%E7%81%AB%E7%B1%B3%E5%85%B0%EF%BC%88%E8%B0%9C%E7%BC%98%E5%A1%94%EF%BC%89.png/22px-%E4%B8%8D%E7%9F%A5%E7%81%AB%E7%B1%B3%E5%85%B0%EF%BC%88%E8%B0%9C%E7%BC%98%E5%A1%94%EF%BC%89.png" decoding="async" loading="lazy" width="22" height="40" srcset="https://upload.thwiki.cc/thumb/b/b1/%E4%B8%8D%E7%9F%A5%E7%81%AB%E7%B1%B3%E5%85%B0%EF%BC%88%E8%B0%9C%E7%BC%98%E5%A1%94%EF%BC%89.png/32px-%E4%B8%8D%E7%9F%A5%E7%81%AB%E7%B1%B3%E5%85%B0%EF%BC%88%E8%B0%9C%E7%BC%98%E5%A1%94%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/b/b1/%E4%B8%8D%E7%9F%A5%E7%81%AB%E7%B1%B3%E5%85%B0%EF%BC%88%E8%B0%9C%E7%BC%98%E5%A1%94%EF%BC%89.png/43px-%E4%B8%8D%E7%9F%A5%E7%81%AB%E7%B1%B3%E5%85%B0%EF%BC%88%E8%B0%9C%E7%BC%98%E5%A1%94%EF%BC%89.png 2x" data-file-width="465" data-file-height="853"></a></div></div></td>  <td style="width:150px;padding:3px 9px 3px 7px;" rowspan="1"> 祭火的水之民</td><td style="width:180px;padding:3px 9px 3px 7px;" rowspan="1"> <a href="./不知火米兰.md" title="不知火米兰">不知火米兰</a> </td></tr>
+<tr> <td class="bg-color-info-10" style="min-width:100px"><b>二面道中</b><br><i><a href="/index.php?title=%E8%BD%BB%E5%80%9A%E5%B4%87%E9%98%BF%E7%9A%84%E9%BE%99%E9%A1%BB%E6%B0%B4&amp;action=edit&amp;redlink=1" class="new" title="轻倚崇阿的龙须水（页面不存在）">轻倚崇阿的龙须水</a></i></td> <td rowspan="2"><div class="center"><div class="floatnone"><a href="./文件-角旗天一（谜缘塔）.png.md" class="image" title="角旗天一"><img alt="角旗天一" src="https://upload.thwiki.cc/thumb/f/fa/%E8%A7%92%E6%97%97%E5%A4%A9%E4%B8%80%EF%BC%88%E8%B0%9C%E7%BC%98%E5%A1%94%EF%BC%89.png/24px-%E8%A7%92%E6%97%97%E5%A4%A9%E4%B8%80%EF%BC%88%E8%B0%9C%E7%BC%98%E5%A1%94%EF%BC%89.png" decoding="async" loading="lazy" width="24" height="40" srcset="https://upload.thwiki.cc/thumb/f/fa/%E8%A7%92%E6%97%97%E5%A4%A9%E4%B8%80%EF%BC%88%E8%B0%9C%E7%BC%98%E5%A1%94%EF%BC%89.png/37px-%E8%A7%92%E6%97%97%E5%A4%A9%E4%B8%80%EF%BC%88%E8%B0%9C%E7%BC%98%E5%A1%94%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/f/fa/%E8%A7%92%E6%97%97%E5%A4%A9%E4%B8%80%EF%BC%88%E8%B0%9C%E7%BC%98%E5%A1%94%EF%BC%89.png/49px-%E8%A7%92%E6%97%97%E5%A4%A9%E4%B8%80%EF%BC%88%E8%B0%9C%E7%BC%98%E5%A1%94%EF%BC%89.png 2x" data-file-width="543" data-file-height="882"></a></div></div></td> <td style="width:150px;padding:3px 9px 3px 7px;" rowspan="2"> 饮露沐风之圣</td><td style="width:180px;padding:3px 9px 3px 7px;" rowspan="2"> <a href="./角旗天一.md" title="角旗天一">角旗天一</a></td></tr><tr><td class="bg-color-info-10" style="min-width:100px"><b>二面BOSS</b><br><i><a href="/index.php?title=Informal_Duellum&amp;action=edit&amp;redlink=1" class="new" title="Informal Duellum（页面不存在）">Informal Duellum</a></i></td></tr>
+<tr> <td class="bg-color-info-10" style="min-width:100px"><b>三面道中</b><br><i><a href="/index.php?title=%E5%B1%B1%E9%AB%98%E7%A3%90%E6%A0%B9%E6%A8%B1%E6%95%A3%E6%97%B6&amp;action=edit&amp;redlink=1" class="new" title="山高磐根樱散时（页面不存在）">山高磐根樱散时</a></i></td> <td rowspan="2"><div class="center"><div class="floatnone"><a href="./文件-荣术丸樱（谜缘塔）.png.md" class="image" title="荣术丸樱"><img alt="荣术丸樱" src="https://upload.thwiki.cc/thumb/6/6b/%E8%8D%A3%E6%9C%AF%E4%B8%B8%E6%A8%B1%EF%BC%88%E8%B0%9C%E7%BC%98%E5%A1%94%EF%BC%89.png/29px-%E8%8D%A3%E6%9C%AF%E4%B8%B8%E6%A8%B1%EF%BC%88%E8%B0%9C%E7%BC%98%E5%A1%94%EF%BC%89.png" decoding="async" loading="lazy" width="29" height="40" srcset="https://upload.thwiki.cc/thumb/6/6b/%E8%8D%A3%E6%9C%AF%E4%B8%B8%E6%A8%B1%EF%BC%88%E8%B0%9C%E7%BC%98%E5%A1%94%EF%BC%89.png/44px-%E8%8D%A3%E6%9C%AF%E4%B8%B8%E6%A8%B1%EF%BC%88%E8%B0%9C%E7%BC%98%E5%A1%94%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/6/6b/%E8%8D%A3%E6%9C%AF%E4%B8%B8%E6%A8%B1%EF%BC%88%E8%B0%9C%E7%BC%98%E5%A1%94%EF%BC%89.png/59px-%E8%8D%A3%E6%9C%AF%E4%B8%B8%E6%A8%B1%EF%BC%88%E8%B0%9C%E7%BC%98%E5%A1%94%EF%BC%89.png 2x" data-file-width="667" data-file-height="908"></a></div></div></td> <td style="width:150px;padding:3px 9px 3px 7px;" rowspan="2"> 鸦天狗的决策师</td><td style="width:180px;padding:3px 9px 3px 7px;" rowspan="2"> <a href="./荣术丸樱.md" title="荣术丸樱">荣术丸樱</a></td></tr><tr><td class="bg-color-info-10" style="min-width:100px"><b>三面BOSS</b><br><i><a href="/index.php?title=%E6%8B%9F%E7%AD%96%E6%80%9D%E7%95%A5%E7%9A%84%E5%A4%A7%E6%9D%83%E7%8E%B0&amp;action=edit&amp;redlink=1" class="new" title="拟策思略的大权现（页面不存在）">拟策思略的大权现</a></i></td></tr></tbody></table>
+
+
+## 附带文档
+
+<table><tbody><tr>
+<th>正式版附带文档</th><th>体验版附带文档</th>
+</tr>
+<tr valign="top"><td style="width:250px">
+<ul><li><a href="./东方谜缘塔_～_Forsaken_Labyrinth.-游戏内Manual.md" title="东方谜缘塔 ～ Forsaken Labyrinth./游戏内Manual">游戏内Manual</a></li>
+<li><a href="/index.php?title=%E4%B8%9C%E6%96%B9%E8%B0%9C%E7%BC%98%E5%A1%94_%EF%BD%9E_Forsaken_Labyrinth./Readme&amp;action=edit&amp;redlink=1" class="new" title="东方谜缘塔 ～ Forsaken Labyrinth./Readme（页面不存在）">Readme</a></li>
+<li><a href="/index.php?title=%E4%B8%9C%E6%96%B9%E8%B0%9C%E7%BC%98%E5%A1%94_%EF%BD%9E_Forsaken_Labyrinth./Omake&amp;action=edit&amp;redlink=1" class="new" title="东方谜缘塔 ～ Forsaken Labyrinth./Omake（页面不存在）">Omake</a></li></ul>
+</td>
+
+<td style="width:250px">
+<ul><li><a href="./东方谜缘塔_～_Forsaken_Labyrinth.体验版-游戏内Manual.md" title="东方谜缘塔 ～ Forsaken Labyrinth.体验版/游戏内Manual">游戏内Manual</a></li>
+<li><a href="./东方谜缘塔_～_Forsaken_Labyrinth.体验版-Readme.md" title="东方谜缘塔 ～ Forsaken Labyrinth.体验版/Readme">Readme</a></li>
+<li><a href="./东方谜缘塔_～_Forsaken_Labyrinth.体验版-Omake.md" title="东方谜缘塔 ～ Forsaken Labyrinth.体验版/Omake">Omake</a></li></ul>
+</td></tr></tbody></table>
+
+
+## 其他资料
+
+<table>
+<tbody><tr>
+<th>音乐</th>
+<th>图片</th>
+<th>其他
+</th></tr>
+<tr valign="top">
+<td>
+<ul><li><a href="./东方谜缘塔_～_Forsaken_Labyrinth.-Music.md" title="东方谜缘塔 ～ Forsaken Labyrinth./Music">Music Room</a></li></ul>
+</td>
+<td>
+<ul><li><a href="./东方谜缘塔_～_Forsaken_Labyrinth.-角色立绘.md" title="东方谜缘塔 ～ Forsaken Labyrinth./角色立绘">角色立绘</a></li></ul>
+</td>
+<td>
+<ul><li><a href="./东方谜缘塔_～_Forsaken_Labyrinth.-其他.md" title="东方谜缘塔 ～ Forsaken Labyrinth./其他">其他相关资料</a></li>
+<li><a href="./东方谜缘塔_～_Forsaken_Labyrinth.-系统.md" title="东方谜缘塔 ～ Forsaken Labyrinth./系统">机体特性与系统说明</a></li>
+<li><a href="/index.php?title=%E4%B8%9C%E6%96%B9%E8%B0%9C%E7%BC%98%E5%A1%94_%EF%BD%9E_Forsaken_Labyrinth./%E8%B0%9C%E7%BC%98%E5%A1%94%E8%AE%BF%E8%B0%88&amp;action=edit&amp;redlink=1" class="new" title="东方谜缘塔 ～ Forsaken Labyrinth./谜缘塔访谈（页面不存在）">谜缘塔访谈</a></li></ul>
+</td></tr></tbody></table>
+
+
+## 评论
+  
+  
+
+<table><tbody><tr><td><table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;;;"><tbody><tr><th style=";" colspan="3" class="navbox-title"><div class="navbar"><div class="noprint plainlinksneverexpand" style="background-color:transparent; padding:0; font-weight:normal; font-size:80%; white-space:nowrap;"><a href="./东方谜缘塔_～_Forsaken_Labyrinth.-导航.md" title="东方谜缘塔 ～ Forsaken Labyrinth./导航"><span style=";;border:none;" title="查看这个模板">查</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<a href="/index.php?title=%E4%B8%9C%E6%96%B9%E8%B0%9C%E7%BC%98%E5%A1%94_%EF%BD%9E_Forsaken_Labyrinth./%E5%AF%BC%E8%88%AA&amp;action=edit"><span style=";;border:none;" title="您可以编辑这个模板。请在储存变更之前先预览">编</span></a></div></div><span><a class="mw-selflink selflink">东方谜缘塔</a></span></th></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">角色</td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>自机</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a> &#8226; <a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a> &#8226; <a href="/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C" title="十六夜咲夜">十六夜咲夜</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>BOSS</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./琪露诺.md" title="琪露诺">琪露诺</a> &#8226; <a href="./不知火米兰.md" title="不知火米兰">不知火米兰</a> &#8226; <a href="./角旗天一.md" title="角旗天一">角旗天一</a> &#8226; <a href="./荣术丸樱.md" title="荣术丸樱">荣术丸樱</a></div></td></tr></tbody></table><div></div></td><td class="navbox-image" style="" rowspan="7"><a href="./文件-东方谜缘塔_～_Forsaken_Labyrinth.封面.jpg.md" class="image"><img alt="东方谜缘塔 ～ Forsaken Labyrinth.封面.jpg" src="https://upload.thwiki.cc/thumb/c/ca/%E4%B8%9C%E6%96%B9%E8%B0%9C%E7%BC%98%E5%A1%94_%EF%BD%9E_Forsaken_Labyrinth.%E5%B0%81%E9%9D%A2.jpg/160px-%E4%B8%9C%E6%96%B9%E8%B0%9C%E7%BC%98%E5%A1%94_%EF%BD%9E_Forsaken_Labyrinth.%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="160" height="160" srcset="https://upload.thwiki.cc/thumb/c/ca/%E4%B8%9C%E6%96%B9%E8%B0%9C%E7%BC%98%E5%A1%94_%EF%BD%9E_Forsaken_Labyrinth.%E5%B0%81%E9%9D%A2.jpg/240px-%E4%B8%9C%E6%96%B9%E8%B0%9C%E7%BC%98%E5%A1%94_%EF%BD%9E_Forsaken_Labyrinth.%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/c/ca/%E4%B8%9C%E6%96%B9%E8%B0%9C%E7%BC%98%E5%A1%94_%EF%BD%9E_Forsaken_Labyrinth.%E5%B0%81%E9%9D%A2.jpg/320px-%E4%B8%9C%E6%96%B9%E8%B0%9C%E7%BC%98%E5%A1%94_%EF%BD%9E_Forsaken_Labyrinth.%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1410" data-file-height="1410"></a></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">剧情</td><td style=";;" class="navbox-list navbox-even"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>剧情文本</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./东方谜缘塔_～_Forsaken_Labyrinth.-故事背景.md" title="东方谜缘塔 ～ Forsaken Labyrinth./故事背景">故事背景</a> &#8226; <a href="/index.php?title=%E4%B8%9C%E6%96%B9%E8%B0%9C%E7%BC%98%E5%A1%94_%EF%BD%9E_Forsaken_Labyrinth./ExStory&amp;action=edit&amp;redlink=1" class="new" title="东方谜缘塔 ～ Forsaken Labyrinth./ExStory（页面不存在）">EX故事背景</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>游戏对话&amp;结局</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./东方谜缘塔_～_Forsaken_Labyrinth.-博丽灵梦.md" title="东方谜缘塔 ～ Forsaken Labyrinth./博丽灵梦">博丽灵梦</a> &#8226; <a href="./东方谜缘塔_～_Forsaken_Labyrinth.-雾雨魔理沙.md" title="东方谜缘塔 ～ Forsaken Labyrinth./雾雨魔理沙">雾雨魔理沙</a> &#8226; <a href="./东方谜缘塔_～_Forsaken_Labyrinth.-十六夜咲夜.md" title="东方谜缘塔 ～ Forsaken Labyrinth./十六夜咲夜">十六夜咲夜</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>Ex游戏对话</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="/index.php?title=%E4%B8%9C%E6%96%B9%E8%B0%9C%E7%BC%98%E5%A1%94_%EF%BD%9E_Forsaken_Labyrinth./%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6_ExStory&amp;action=edit&amp;redlink=1" class="new" title="东方谜缘塔 ～ Forsaken Labyrinth./博丽灵梦 ExStory（页面不存在）">博丽灵梦</a> &#8226; <a href="/index.php?title=%E4%B8%9C%E6%96%B9%E8%B0%9C%E7%BC%98%E5%A1%94_%EF%BD%9E_Forsaken_Labyrinth./%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99_ExStory&amp;action=edit&amp;redlink=1" class="new" title="东方谜缘塔 ～ Forsaken Labyrinth./雾雨魔理沙 ExStory（页面不存在）">雾雨魔理沙</a> &#8226; <a href="/index.php?title=%E4%B8%9C%E6%96%B9%E8%B0%9C%E7%BC%98%E5%A1%94_%EF%BD%9E_Forsaken_Labyrinth./%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C_ExStory&amp;action=edit&amp;redlink=1" class="new" title="东方谜缘塔 ～ Forsaken Labyrinth./十六夜咲夜 ExStory（页面不存在）">十六夜咲夜</a></div></td></tr></tbody></table><div></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="/%E4%B8%9C%E6%96%B9%E8%B0%9C%E7%BC%98%E5%A1%94_%EF%BD%9E_Forsaken_Labyrinth.#其他资料" title="东方谜缘塔 ～ Forsaken Labyrinth.">其他资料</a></td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>音乐</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./东方谜缘塔_～_Forsaken_Labyrinth.-Music.md" title="东方谜缘塔 ～ Forsaken Labyrinth./Music">Music Room</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>其他</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./东方谜缘塔_～_Forsaken_Labyrinth.-其他.md" title="东方谜缘塔 ～ Forsaken Labyrinth./其他">其他相关资料</a> &#8226; <a href="./东方谜缘塔_～_Forsaken_Labyrinth.-系统.md" title="东方谜缘塔 ～ Forsaken Labyrinth./系统">机体特性与系统说明</a></div></td></tr></tbody></table><div></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="/%E4%B8%9C%E6%96%B9%E8%B0%9C%E7%BC%98%E5%A1%94_%EF%BD%9E_Forsaken_Labyrinth.#附带文档" title="东方谜缘塔 ～ Forsaken Labyrinth.">附带文档</a></td><td style=";;" class="navbox-list navbox-even"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>体验版</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./东方谜缘塔_～_Forsaken_Labyrinth.体验版-游戏内Manual.md" title="东方谜缘塔 ～ Forsaken Labyrinth.体验版/游戏内Manual">Manual</a> &#8226; <a href="./东方谜缘塔_～_Forsaken_Labyrinth.体验版-Readme.md" title="东方谜缘塔 ～ Forsaken Labyrinth.体验版/Readme">Readme</a> &#8226; <a href="./东方谜缘塔_～_Forsaken_Labyrinth.体验版-Omake.md" title="东方谜缘塔 ～ Forsaken Labyrinth.体验版/Omake">Omake</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>正式版</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./东方谜缘塔_～_Forsaken_Labyrinth.-游戏内Manual.md" title="东方谜缘塔 ～ Forsaken Labyrinth./游戏内Manual">Manual</a> &#8226; <a href="/index.php?title=%E4%B8%9C%E6%96%B9%E8%B0%9C%E7%BC%98%E5%A1%94_%EF%BD%9E_Forsaken_Labyrinth./Readme&amp;action=edit&amp;redlink=1" class="new" title="东方谜缘塔 ～ Forsaken Labyrinth./Readme（页面不存在）">Readme</a> &#8226; <a href="/index.php?title=%E4%B8%9C%E6%96%B9%E8%B0%9C%E7%BC%98%E5%A1%94_%EF%BD%9E_Forsaken_Labyrinth./Omake&amp;action=edit&amp;redlink=1" class="new" title="东方谜缘塔 ～ Forsaken Labyrinth./Omake（页面不存在）">Omake</a></div></td></tr></tbody></table><div></div></td></tr></tbody></table></td></tr></tbody></table>
+
+
+  
+  
+
+  
+
+
+
+
+
+---
+
+此文档由 [THBWiki-Markdown-Builder](https://github.com/Delsin-Yu/THBWiki-Markdown-Builder) 构建。
+
+文档中的所有内容除特殊注明外，均在 [**知识共享(Creative Commons) 署名-非商业性使用-相同方式共享 3.0 协议**](https://creativecommons.org/licenses/by-sa/3.0/deed.zh-hans) 下提供，附加条款亦可能应用。
+
+引用类型与其他类型作品版权归原作者所有，如有作者授权则遵照授权协议使用。
+
+详细请查阅 [THBWiki：免责声明](https://thbwiki.cc/THBWiki:%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E)。
+

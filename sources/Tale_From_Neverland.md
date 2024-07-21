@@ -1,0 +1,60 @@
+# Tale_From_Neverland
+
+<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\b\b8\ns0%3ATale_From_Neverland.html -->
+
+2023年5月7日 由 Undefined Field 于 博丽神社例大祭20 发布的EP同人专辑，分级为 一般向
+
+本页是关于东方Project  
+ **二次创作同人专辑 (未找到链接)** 的词条
+## 专辑信息
+
+<table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Tale_From_Neverland封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/f/ff/Tale_From_Neverland%E5%B0%81%E9%9D%A2.jpg/252px-Tale_From_Neverland%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="252" srcset="https://upload.thwiki.cc/thumb/f/ff/Tale_From_Neverland%E5%B0%81%E9%9D%A2.jpg/378px-Tale_From_Neverland%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/f/ff/Tale_From_Neverland%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="400" data-file-height="400"></a><div class="cover-char">角色：<a href="./莉莉霍瓦特.md" title="莉莉霍瓦特">莉莉霍瓦特</a></div></td>
+</tr><tr><td class="label">名称</td><td colspan="2"> Tale From Neverland </td></tr><tr><td class="label">制作方</td><td><a href="./Undefined_Field.md" title="Undefined Field">Undefined Field</a></td><td class="cover-artwork" rowspan="9" style="min-width:252px;"><a href="./文件-Tale_From_Neverland封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/f/ff/Tale_From_Neverland%E5%B0%81%E9%9D%A2.jpg/252px-Tale_From_Neverland%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="252" srcset="https://upload.thwiki.cc/thumb/f/ff/Tale_From_Neverland%E5%B0%81%E9%9D%A2.jpg/378px-Tale_From_Neverland%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/f/ff/Tale_From_Neverland%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="400" data-file-height="400"></a><div class="cover-char">角色：<a href="./莉莉霍瓦特.md" title="莉莉霍瓦特">莉莉霍瓦特</a></div></td>
+</tr><tr><td class="label">首发日期</td><td>2023-05-07&#160;（<a href="/展会作品列表?e=%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD%2320">第二十回 博麗神社例大祭</a>）</td></tr><tr><td class="label">类型</td><td>EP</td></tr><tr><td class="label">编号</td><td>UFCD-0056</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>6</td></tr><tr><td class="label">总时长</td><td>00:00</td></tr><tr><td class="label">售价</td><td>会场售价：500日元<br>通贩售价：700日元（DL）</td></tr>
+<tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/heric_lily/status/1654853247541342208">https://twitter.com/heric_lily/status/1654853247541342208</a></td></tr></tbody></table>
+
+Tale From Neverland（同人专辑，Undefined Field，2023） - 2023年5月7日 由 Undefined Field 于 博丽神社例大祭20 发布的EP同人专辑，分级为 一般向
+
+<table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="http://www.dlsite.com/home/work/=/product_id/RJ01088843.html">DLsite</a></td></tr></tbody></table>
+
+
+## Staff
+  
+ **Arrangement**   
+
+<table><tbody><tr><td><a href="./heric.md" title="heric">heric</a></td><td><a href="./Undefined_Field.md" title="Undefined Field">Undefined Field</a></td><td>Tr.1-6</td></tr></tbody></table>
+
+
+Illustration
+: ギンケイ (未找到链接)
+
+## 试听
+  
+[Twitter XFD](https://twitter.com/heric_lily/status/1654853247541342208)
+  
+
+## 曲目列表
+
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="はじまりの予感" colspan="2" class="title">はじまりの予感<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=heric&amp;ogmusic=虹の架かる幻想郷&amp;fromwiki=Tale_From_Neverland"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./heric.md" title="heric">heric</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，heric&amp;fromwiki=Tale_From_Neverland"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=虹の架かる幻想郷&amp;fromwiki=Tale_From_Neverland"><span></span></a></span><div class="ogmusic"><a href="/%E8%99%B9%E3%81%AE%E6%9E%B6%E3%81%8B%E3%82%8B%E5%B9%BB%E6%83%B3%E9%83%B7" class="mw-redirect" title="虹の架かる幻想郷">虹の架かる幻想郷</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E8%99%B9%E9%BE%99%E6%B4%9E_%EF%BD%9E_Unconnected_Marketeers." class="mw-redirect" title="东方虹龙洞 ～ Unconnected Marketeers.">东方虹龙洞　～ Unconnected Marketeers.</a></div></td></tr>
+<tr><td id="2" class="infoYD"><b>02</b></td><td id="街中の演奏団" colspan="2" class="title">街中の演奏団<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=heric&amp;ogmusic=フラワリングナイト&amp;fromwiki=Tale_From_Neverland"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./heric.md" title="heric">heric</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，heric&amp;fromwiki=Tale_From_Neverland"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=フラワリングナイト&amp;fromwiki=Tale_From_Neverland"><span></span></a></span><div class="ogmusic"><a href="/%E3%83%95%E3%83%A9%E3%83%AF%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%8A%E3%82%A4%E3%83%88" class="mw-redirect" title="フラワリングナイト">フラワリングナイト</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E8%8A%B1%E6%98%A0%E5%A1%9A_%EF%BD%9E_Phantasmagoria_of_Flower_View." class="mw-redirect" title="东方花映塚 ～ Phantasmagoria of Flower View.">东方花映塚　～ Phantasmagoria of Flower View.</a></div></td></tr>
+<tr><td id="3" class="infoYD"><b>03</b></td><td id="空飛ぶ船を見上げて" colspan="2" class="title">空飛ぶ船を見上げて<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=heric&amp;ogmusic=幽霊楽団　～ Phantom Ensemble&amp;fromwiki=Tale_From_Neverland"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./heric.md" title="heric">heric</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，heric&amp;fromwiki=Tale_From_Neverland"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=幽霊楽団　～ Phantom Ensemble&amp;fromwiki=Tale_From_Neverland"><span></span></a></span><div class="ogmusic"><a href="/%E5%B9%BD%E9%9C%8A%E6%A5%BD%E5%9B%A3_%EF%BD%9E_Phantom_Ensemble" class="mw-redirect" title="幽霊楽団 ～ Phantom Ensemble">幽霊楽団　～ Phantom Ensemble</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E5%A6%96%E5%A6%96%E6%A2%A6_%EF%BD%9E_Perfect_Cherry_Blossom." class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr>
+<tr><td id="4" class="infoYD"><b>04</b></td><td id="迷路のような路地裏" colspan="2" class="title">迷路のような路地裏<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=heric&amp;ogmusic=明治十七年の上海アリス&amp;fromwiki=Tale_From_Neverland"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./heric.md" title="heric">heric</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，heric&amp;fromwiki=Tale_From_Neverland"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=明治十七年の上海アリス&amp;fromwiki=Tale_From_Neverland"><span></span></a></span><div class="ogmusic"><a href="/%E6%98%8E%E6%B2%BB%E5%8D%81%E4%B8%83%E5%B9%B4%E3%81%AE%E4%B8%8A%E6%B5%B7%E3%82%A2%E3%83%AA%E3%82%B9" class="mw-redirect" title="明治十七年の上海アリス">明治十七年の上海アリス</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E7%BA%A2%E9%AD%94%E4%B9%A1_%EF%BD%9E_the_Embodiment_of_Scarlet_Devil." class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr>
+<tr><td id="5" class="infoYD"><b>05</b></td><td id="酒場から聴こえる旋律" colspan="2" class="title">酒場から聴こえる旋律<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=heric&amp;ogmusic=クレイジーバックダンサーズ&amp;fromwiki=Tale_From_Neverland"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./heric.md" title="heric">heric</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，heric&amp;fromwiki=Tale_From_Neverland"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=クレイジーバックダンサーズ&amp;fromwiki=Tale_From_Neverland"><span></span></a></span><div class="ogmusic"><a href="/%E3%82%AF%E3%83%AC%E3%82%A4%E3%82%B8%E3%83%BC%E3%83%90%E3%83%83%E3%82%AF%E3%83%80%E3%83%B3%E3%82%B5%E3%83%BC%E3%82%BA" class="mw-redirect" title="クレイジーバックダンサーズ">クレイジーバックダンサーズ</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E5%A4%A9%E7%A9%BA%E7%92%8B_%EF%BD%9E_Hidden_Star_in_Four_Seasons." class="mw-redirect" title="东方天空璋 ～ Hidden Star in Four Seasons.">东方天空璋　～ Hidden Star in Four Seasons.</a></div></td></tr>
+<tr><td id="6" class="infoYD"><b>06</b></td><td id="夢の終わり" colspan="2" class="title">夢の終わり<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=heric&amp;ogmusic=天空の花の都，六十年目の東方裁判　～ Fate of Sixty Years&amp;fromwiki=Tale_From_Neverland"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./heric.md" title="heric">heric</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，heric&amp;fromwiki=Tale_From_Neverland"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=天空の花の都，六十年目の東方裁判　～ Fate of Sixty Years&amp;fromwiki=Tale_From_Neverland"><span></span></a></span><div class="ogmusic"><a href="/%E5%A4%A9%E7%A9%BA%E3%81%AE%E8%8A%B1%E3%81%AE%E9%83%BD" class="mw-redirect" title="天空の花の都">天空の花の都</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E5%A6%96%E5%A6%96%E6%A2%A6_%EF%BD%9E_Perfect_Cherry_Blossom." class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div><hr><div class="ogmusic"><a href="/%E5%85%AD%E5%8D%81%E5%B9%B4%E7%9B%AE%E3%81%AE%E6%9D%B1%E6%96%B9%E8%A3%81%E5%88%A4_%EF%BD%9E_Fate_of_Sixty_Years" class="mw-redirect" title="六十年目の東方裁判 ～ Fate of Sixty Years">六十年目の東方裁判　～ Fate of Sixty Years</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E8%8A%B1%E6%98%A0%E5%A1%9A_%EF%BD%9E_Phantasmagoria_of_Flower_View." class="mw-redirect" title="东方花映塚 ～ Phantasmagoria of Flower View.">东方花映塚　～ Phantasmagoria of Flower View.</a></div></td></tr></tbody></table>
+
+
+## 评论
+
+
+
+
+---
+
+此文档由 [THBWiki-Markdown-Builder](https://github.com/Delsin-Yu/THBWiki-Markdown-Builder) 构建。
+
+文档中的所有内容除特殊注明外，均在 [**知识共享(Creative Commons) 署名-非商业性使用-相同方式共享 3.0 协议**](https://creativecommons.org/licenses/by-sa/3.0/deed.zh-hans) 下提供，附加条款亦可能应用。
+
+引用类型与其他类型作品版权归原作者所有，如有作者授权则遵照授权协议使用。
+
+详细请查阅 [THBWiki：免责声明](https://thbwiki.cc/THBWiki:%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E)。
+

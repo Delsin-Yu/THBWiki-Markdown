@@ -1,0 +1,35 @@
+# 歌词:「_I_」
+
+<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\9\9f\ns512%3A%E3%80%8C_I_%E3%80%8D.html -->
+
+AniPix | 使用了翻译表的页面 | 日文歌词 | 歌词 | 没有翻译的歌词
+
+
+<table><tbody><tr><th colspan="2">曲目信息</th></tr><tr><td colspan="2" style="padding-left: 1em;"><div class="floatright"><a href="./文件-Sensitive_Moment封面.jpg.md" class="image" title="Sensitive Moment"><img alt="Sensitive Moment" src="https://upload.thwiki.cc/thumb/6/6d/Sensitive_Moment%E5%B0%81%E9%9D%A2.jpg/200px-Sensitive_Moment%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="200" height="199" srcset="https://upload.thwiki.cc/thumb/6/6d/Sensitive_Moment%E5%B0%81%E9%9D%A2.jpg/300px-Sensitive_Moment%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/6/6d/Sensitive_Moment%E5%B0%81%E9%9D%A2.jpg/400px-Sensitive_Moment%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="2832" data-file-height="2818"></a></div><b><a href="/Sensitive_Moment#5" title="Sensitive Moment">「 I 」</a></b> &#91;04:40&#93;<dl><dd><a href="./Sensitive_Moment.md" title="Sensitive Moment">Sensitive Moment</a> （2009-08-15）<br>社团：<a href="./AniPix.md" title="AniPix">AniPix</a><br>编曲：<a href="./Syrufit.md" title="Syrufit">Syrufit</a><br>演唱：<a href="/index.php?title=RYO&amp;action=edit&amp;redlink=1" class="new" title="RYO（页面不存在）">RYO</a><br>作词：<a href="./綾倉盟.md" title="綾倉盟">綾倉盟</a><br>原曲：<a href="./人偶裁判_～_玩弄人形的少女.md" title="人偶裁判 ～ 玩弄人形的少女" unred="">人形裁判　～ 人の形弄びし少女</a><br></dd></dl></td></tr></tbody></table>
+
+- 歌词语言：日文
+
+  
+  
+
+  
+
+
+<table><tbody><tr class="tt-lyrics-header" id="=-1" data-pos="&#91;&quot;=&quot;,1&#93;"><td class="tt-lyrics" lang="zh"><div class="poem"></div></td><td class="tt-mainh" lang="zh"><div class="poem"></div></td><td class="tt-tranh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-main-ja" id="=-2" data-pos="&#91;&quot;=&quot;,2&#93;"><td class="tt-time" lang="zh"><div class="poem"></div></td><td class="tt-ja" lang="ja"><div class="poem">あなたの全て　見透かせるような　温かな手</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-main-ja" id="=-3" data-pos="&#91;&quot;=&quot;,3&#93;"><td class="tt-time" lang="zh"><div class="poem"></div></td><td class="tt-ja" lang="ja"><div class="poem">誰のものでも　ないような自由　あなた次第</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-main-ja" id="=-4" data-pos="&#91;&quot;=&quot;,4&#93;"><td class="tt-time" lang="zh"><div class="poem"></div></td><td class="tt-ja" lang="ja"><div class="poem">最後のひとり　選ばれるのなら　わたしであれ</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-main-ja" id="=-5" data-pos="&#91;&quot;=&quot;,5&#93;"><td class="tt-time" lang="zh"><div class="poem"></div></td><td class="tt-ja" lang="ja"><div class="poem">他の誰かを　見ないでお願い　途切れる声</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-lyrics-sep" id="=-6" data-pos="&#91;&quot;=&quot;,6&#93;"><td class="tt-sep" lang="zh"><div class="poem"></div></td><td class="tt-text" lang="zh"><div class="poem"></div></td><td class="tt-tran" lang="zh"><div class="poem"></div></td></tr><tr class="tt-main-ja" id="=-7" data-pos="&#91;&quot;=&quot;,7&#93;"><td class="tt-time" lang="zh"><div class="poem"></div></td><td class="tt-ja" lang="ja"><div class="poem">糸が切れた　あぁ</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-main-ja" id="=-8" data-pos="&#91;&quot;=&quot;,8&#93;"><td class="tt-time" lang="zh"><div class="poem"></div></td><td class="tt-ja" lang="ja"><div class="poem">何が　正しいの教えて</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-main-ja" id="=-9" data-pos="&#91;&quot;=&quot;,9&#93;"><td class="tt-time" lang="zh"><div class="poem"></div></td><td class="tt-ja" lang="ja"><div class="poem">解けたリボン　舞い</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-main-ja" id="=-10" data-pos="&#91;&quot;=&quot;,10&#93;"><td class="tt-time" lang="zh"><div class="poem"></div></td><td class="tt-ja" lang="ja"><div class="poem">こぼれ落ちるビーズ　溢れる「I」</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-lyrics-sep" id="=-11" data-pos="&#91;&quot;=&quot;,11&#93;"><td class="tt-sep" lang="zh"><div class="poem"></div></td><td class="tt-text" lang="zh"><div class="poem"></div></td><td class="tt-tran" lang="zh"><div class="poem"></div></td></tr><tr class="tt-main-ja" id="=-12" data-pos="&#91;&quot;=&quot;,12&#93;"><td class="tt-time" lang="zh"><div class="poem"></div></td><td class="tt-ja" lang="ja"><div class="poem">あなたの全て　見届けるのなら　この瞳で</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-main-ja" id="=-13" data-pos="&#91;&quot;=&quot;,13&#93;"><td class="tt-time" lang="zh"><div class="poem"></div></td><td class="tt-ja" lang="ja"><div class="poem">誰かに触れる　姿は鏡に　仕舞い込んで</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-main-ja" id="=-14" data-pos="&#91;&quot;=&quot;,14&#93;"><td class="tt-time" lang="zh"><div class="poem"></div></td><td class="tt-ja" lang="ja"><div class="poem">崩れる心　終わらせるのなら　わたしの手で</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-main-ja" id="=-15" data-pos="&#91;&quot;=&quot;,15&#93;"><td class="tt-time" lang="zh"><div class="poem"></div></td><td class="tt-ja" lang="ja"><div class="poem">他には何も　言葉は要らない</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-lyrics-sep" id="=-16" data-pos="&#91;&quot;=&quot;,16&#93;"><td class="tt-sep" lang="zh"><div class="poem"></div></td><td class="tt-text" lang="zh"><div class="poem"></div></td><td class="tt-tran" lang="zh"><div class="poem"></div></td></tr><tr class="tt-main-ja" id="=-17" data-pos="&#91;&quot;=&quot;,17&#93;"><td class="tt-time" lang="zh"><div class="poem"></div></td><td class="tt-ja" lang="ja"><div class="poem">糸が切れた　あぁ</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-main-ja" id="=-18" data-pos="&#91;&quot;=&quot;,18&#93;"><td class="tt-time" lang="zh"><div class="poem"></div></td><td class="tt-ja" lang="ja"><div class="poem">何が　愛しいの教えて</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-main-ja" id="=-19" data-pos="&#91;&quot;=&quot;,19&#93;"><td class="tt-time" lang="zh"><div class="poem"></div></td><td class="tt-ja" lang="ja"><div class="poem">解けたリボン　舞い</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-main-ja" id="=-20" data-pos="&#91;&quot;=&quot;,20&#93;"><td class="tt-time" lang="zh"><div class="poem"></div></td><td class="tt-ja" lang="ja"><div class="poem">こぼれ落ちるビーズ　溢れる「I」</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr></tbody></table>
+
+
+
+
+
+
+
+---
+
+此文档由 [THBWiki-Markdown-Builder](https://github.com/Delsin-Yu/THBWiki-Markdown-Builder) 构建。
+
+文档中的所有内容除特殊注明外，均在 [**知识共享(Creative Commons) 署名-非商业性使用-相同方式共享 3.0 协议**](https://creativecommons.org/licenses/by-sa/3.0/deed.zh-hans) 下提供，附加条款亦可能应用。
+
+引用类型与其他类型作品版权归原作者所有，如有作者授权则遵照授权协议使用。
+
+详细请查阅 [THBWiki：免责声明](https://thbwiki.cc/THBWiki:%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E)。
+

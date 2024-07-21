@@ -1,0 +1,52 @@
+# 東方雨仰石～Promised_mystery_of_moisture./设定与剧情
+
+<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\4e\ns0%3A%E6%9D%B1%E6%96%B9%E9%9B%A8%E4%BB%B0%E7%9F%B3%EF%BD%9EPromised_mystery_of_moisture%2E%2F%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85.html -->
+
+含有受损文件链接的页面 | 遊色高楼
+
+## 目录
+
+- [1 附带文档](#附带文档)
+- [2 故事背景](#故事背景)
+- [3 游戏对话](#游戏对话)
+- [4 词条导航](#词条导航)
+
+
+
+
+## 附带文档
+- readme (未找到链接)
+
+## 故事背景
+- [故事背景](./東方雨仰石～Promised_mystery_of_moisture.-设定与剧情-故事背景.md)
+
+## 游戏对话
+- 博丽灵梦 游戏对话/结局 (未找到链接)
+- 雾雨魔理沙 游戏对话/结局 (未找到链接)
+- 少名针妙丸 游戏对话/结局 (未找到链接)
+
+- 博丽灵梦 Extra游戏对话 (未找到链接)
+- 雾雨魔理沙 Extra游戏对话 (未找到链接)
+- 少名针妙丸 Extra游戏对话 (未找到链接)
+
+## 词条导航
+  
+  
+
+<table><tbody><tr><td><table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;;;"><tbody><tr><th style=";" colspan="3" class="navbox-title"><div class="navbar"><div class="noprint plainlinksneverexpand" style="background-color:transparent; padding:0; font-weight:normal; font-size:80%; white-space:nowrap;"><a href="./東方雨仰石～Promised_mystery_of_moisture.-导航.md" title="東方雨仰石～Promised mystery of moisture./导航"><span style=";;border:none;" title="查看这个模板">查</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<a href="/index.php?title=%E6%9D%B1%E6%96%B9%E9%9B%A8%E4%BB%B0%E7%9F%B3%EF%BD%9EPromised_mystery_of_moisture./%E5%AF%BC%E8%88%AA&amp;action=edit"><span style=";;border:none;" title="您可以编辑这个模板。请在储存变更之前先预览">编</span></a></div></div><span><a href="./東方雨仰石～Promised_mystery_of_moisture..md" title="東方雨仰石～Promised mystery of moisture." unred="">東方雨仰石 ～ Promised mystery of moisture.</a></span></th></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="/index.php?title=%E4%B8%9C%E6%96%B9%E9%9B%A8%E4%BB%B0%E7%9F%B3/%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A&amp;action=edit&amp;redlink=1" class="new" title="东方雨仰石/角色设定（页面不存在）">角色</a></td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>自机</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="/index.php?title=%E4%B8%9C%E6%96%B9%E9%9B%A8%E4%BB%B0%E7%9F%B3/%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A&amp;action=edit&amp;redlink=1" class="new" title="东方雨仰石/角色设定（页面不存在）">博丽灵梦</a> &#8226; <a href="/index.php?title=%E4%B8%9C%E6%96%B9%E9%9B%A8%E4%BB%B0%E7%9F%B3/%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A&amp;action=edit&amp;redlink=1" class="new" title="东方雨仰石/角色设定（页面不存在）">雾雨魔理沙</a> &#8226; <a href="/index.php?title=%E4%B8%9C%E6%96%B9%E9%9B%A8%E4%BB%B0%E7%9F%B3/%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A&amp;action=edit&amp;redlink=1" class="new" title="东方雨仰石/角色设定（页面不存在）">少名针妙丸</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>BOSS</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./多多良小伞（雨仰石）.md" title="多多良小伞（雨仰石）">多多良小伞</a> &#8226; <a href="./雨满河.md" title="雨满河">雨满河</a> &#8226; <a href="./若鹭姬（雨仰石）.md" title="若鹭姬（雨仰石）">若鹭姬</a> &#8226; <a href="./白波瑞池.md" title="白波瑞池">白波瑞池</a></div></td></tr></tbody></table><div></div></td><td class="navbox-image" style="" rowspan="11"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E4%B8%9C%E6%96%B9%E9%9B%A8%E4%BB%B0%E7%9F%B3%E5%B0%81%E9%9D%A2.jpg" class="new" title="文件:东方雨仰石封面.jpg">文件:东方雨仰石封面.jpg</a></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="/index.php?title=%E4%B8%9C%E6%96%B9%E9%9B%A8%E4%BB%B0%E7%9F%B3/%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85&amp;action=edit&amp;redlink=1" class="new" title="东方雨仰石/设定与剧情（页面不存在）">剧情</a></td><td style=";;" class="navbox-list navbox-even"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>剧情文本</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./東方雨仰石～Promised_mystery_of_moisture.-设定与剧情.md" title="東方雨仰石～Promised mystery of moisture./设定与剧情" unred="">故事背景</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>游戏对话&amp;结局</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="/index.php?title=%E4%B8%9C%E6%96%B9%E9%9B%A8%E4%BB%B0%E7%9F%B3/%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6&amp;action=edit&amp;redlink=1" class="new" title="东方雨仰石/设定与剧情/博丽灵梦（页面不存在）">博丽灵梦</a> &#8226; <a href="/index.php?title=%E4%B8%9C%E6%96%B9%E9%9B%A8%E4%BB%B0%E7%9F%B3/%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85/%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99&amp;action=edit&amp;redlink=1" class="new" title="东方雨仰石/设定与剧情/雾雨魔理沙（页面不存在）">雾雨魔理沙</a> &#8226; <a href="/index.php?title=%E4%B8%9C%E6%96%B9%E9%9B%A8%E4%BB%B0%E7%9F%B3/%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85/%E5%B0%91%E5%90%8D%E9%92%88%E5%A6%99%E4%B8%B8&amp;action=edit&amp;redlink=1" class="new" title="东方雨仰石/设定与剧情/少名针妙丸（页面不存在）">少名针妙丸</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>EX游戏对话</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="/index.php?title=%E4%B8%9C%E6%96%B9%E9%9B%A8%E4%BB%B0%E7%9F%B3/%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6EX&amp;action=edit&amp;redlink=1" class="new" title="东方雨仰石/设定与剧情/博丽灵梦EX（页面不存在）">博丽灵梦</a> &#8226; <a href="/index.php?title=%E4%B8%9C%E6%96%B9%E9%9B%A8%E4%BB%B0%E7%9F%B3/%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85/%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99EX&amp;action=edit&amp;redlink=1" class="new" title="东方雨仰石/设定与剧情/雾雨魔理沙EX（页面不存在）">雾雨魔理沙</a> &#8226; <a href="/index.php?title=%E4%B8%9C%E6%96%B9%E9%9B%A8%E4%BB%B0%E7%9F%B3/%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85/%E5%B0%91%E5%90%8D%E9%92%88%E5%A6%99%E4%B8%B8EX&amp;action=edit&amp;redlink=1" class="new" title="东方雨仰石/设定与剧情/少名针妙丸EX（页面不存在）">少名针妙丸</a></div></td></tr></tbody></table><div></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">场景</td><td style=";;" class="navbox-list navbox-odd"><div><a href="/index.php?title=%E4%BA%BA%E7%B1%BB%E6%9D%91%E8%90%BD%E9%99%84%E8%BF%91%E7%9A%84%E6%B9%BF%E5%9C%B0&amp;action=edit&amp;redlink=1" class="new" title="人类村落附近的湿地（页面不存在）">人类村落附近的湿地</a> &#8226; <a href="/index.php?title=%E9%9B%A8%E4%B9%8B%E6%BA%90%E6%B3%89&amp;action=edit&amp;redlink=1" class="new" title="雨之源泉（页面不存在）">雨之源泉</a> &#8226; <a href="./雾之湖.md" title="雾之湖">被淹没的原野</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">音乐</td><td style=";;" class="navbox-list navbox-even"><div><a href="/index.php?title=%E4%B8%9C%E6%96%B9%E9%9B%A8%E4%BB%B0%E7%9F%B3/%E9%9F%B3%E4%B9%90&amp;action=edit&amp;redlink=1" class="new" title="东方雨仰石/音乐（页面不存在）">Music Room</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="/index.php?title=%E4%B8%9C%E6%96%B9%E9%9B%A8%E4%BB%B0%E7%9F%B3/%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85&amp;action=edit&amp;redlink=1" class="new" title="东方雨仰石/设定与剧情（页面不存在）" unred="">附带文档</a></td><td style=";;" class="navbox-list navbox-odd"><div><a href="/index.php?title=%E4%B8%9C%E6%96%B9%E9%9B%A8%E4%BB%B0%E7%9F%B3/%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85/readme&amp;action=edit&amp;redlink=1" class="new" title="东方雨仰石/设定与剧情/readme（页面不存在）">Readme</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="/index.php?title=%E4%B8%9C%E6%96%B9%E9%9B%A8%E4%BB%B0%E7%9F%B3/%E7%B3%BB%E7%BB%9F&amp;action=edit&amp;redlink=1" class="new" title="东方雨仰石/系统（页面不存在）">系统</a></td><td style=";;" class="navbox-list navbox-even"><div><a href="/index.php?title=%E4%B8%9C%E6%96%B9%E9%9B%A8%E4%BB%B0%E7%9F%B3/%E7%B3%BB%E7%BB%9F&amp;action=edit&amp;redlink=1" class="new" title="东方雨仰石/系统（页面不存在）">系统</a> &#8226; <a href="/index.php?title=%E4%B8%9C%E6%96%B9%E9%9B%A8%E4%BB%B0%E7%9F%B3/%E5%85%B6%E4%BB%96&amp;action=edit&amp;redlink=1" class="new" title="东方雨仰石/其他（页面不存在）">其他资料</a></div></td></tr></tbody></table></td></tr></tbody></table>
+
+
+
+
+
+
+---
+
+此文档由 [THBWiki-Markdown-Builder](https://github.com/Delsin-Yu/THBWiki-Markdown-Builder) 构建。
+
+文档中的所有内容除特殊注明外，均在 [**知识共享(Creative Commons) 署名-非商业性使用-相同方式共享 3.0 协议**](https://creativecommons.org/licenses/by-sa/3.0/deed.zh-hans) 下提供，附加条款亦可能应用。
+
+引用类型与其他类型作品版权归原作者所有，如有作者授权则遵照授权协议使用。
+
+详细请查阅 [THBWiki：免责声明](https://thbwiki.cc/THBWiki:%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E)。
+

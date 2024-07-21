@@ -1,0 +1,74 @@
+# Salvia
+
+<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\5\59\ns0%3ASalvia.html -->
+
+2014年10月26日 由 LOVEマシーン 于 M3-2014秋 发布的EP同人专辑，分级为 一般向
+
+本页是关于东方Project  
+ **二次创作同人专辑 (未找到链接)** 的词条
+## 专辑信息
+
+<table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Salvia封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/6/65/Salvia%E5%B0%81%E9%9D%A2.jpg/252px-Salvia%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="252" srcset="https://upload.thwiki.cc/thumb/6/65/Salvia%E5%B0%81%E9%9D%A2.jpg/378px-Salvia%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/6/65/Salvia%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="450" data-file-height="450"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></div></td>
+</tr><tr><td class="label">名称</td><td colspan="2"> Salvia </td></tr><tr><td class="label">制作方</td><td><a href="./LOVEマシーン.md" title="LOVEマシーン">LOVEマシーン</a></td><td class="cover-artwork" rowspan="9" style="min-width:252px;"><a href="./文件-Salvia封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/6/65/Salvia%E5%B0%81%E9%9D%A2.jpg/252px-Salvia%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="252" srcset="https://upload.thwiki.cc/thumb/6/65/Salvia%E5%B0%81%E9%9D%A2.jpg/378px-Salvia%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/6/65/Salvia%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="450" data-file-height="450"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></div></td>
+</tr><tr><td class="label">首发日期</td><td>2014-10-26&#160;（<a href="/展会作品列表?e=M3%2334">M3-2014秋</a>）</td></tr><tr><td class="label">类型</td><td>EP</td></tr><tr><td class="label">编号</td><td>LMCD-0015</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>5</td></tr><tr><td class="label">总时长</td><td>00:00</td></tr><tr><td class="label">售价</td><td>会场售价：756日元</td></tr>
+<tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://lovemachine.sakura.ne.jp/lmcd-0015.html">http://lovemachine.sakura.ne.jp/lmcd-0015.html</a></td></tr></tbody></table>
+
+Salvia（同人专辑，LOVEマシーン，2014） - 2014年10月26日 由 LOVEマシーン 于 M3-2014秋 发布的EP同人专辑，分级为 一般向
+
+<table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=220996">蜜瓜</a></td></tr></tbody></table>
+
+
+## Staff
+  
+ **Arrangement**   
+
+<table><tbody><tr><td><a href="/index.php?title=%E3%81%BF%E3%81%9A%E3%81%8D%E3%81%A8%E3%82%82%E3%81%88&amp;action=edit&amp;redlink=1" class="new" title="みずきともえ（页面不存在）">みずきともえ</a></td><td></td><td>Tr.1-5</td></tr></tbody></table>
+
+  
+ **Vocal**   
+
+<table><tbody><tr><td><a href="/index.php?title=%E5%A4%A9%E6%88%B8%E5%B1%8B%E6%88%90&amp;action=edit&amp;redlink=1" class="new" title="天戸屋成（页面不存在）">天戸屋成</a></td><td></td><td>Tr.1/5</td></tr></tbody></table>
+
+  
+ **Lyrics**   
+
+<table><tbody><tr><td><a href="/index.php?title=%E5%A4%A9%E6%88%B8%E5%B1%8B%E6%88%90&amp;action=edit&amp;redlink=1" class="new" title="天戸屋成（页面不存在）">天戸屋成</a></td><td></td><td>Tr.1</td></tr><tr><td><a href="/index.php?title=%E6%BC%82%E6%B5%81%E3%81%84%E3%81%8B%E3%81%A0&amp;action=edit&amp;redlink=1" class="new" title="漂流いかだ（页面不存在）">漂流いかだ</a></td><td></td><td>Tr.5</td></tr></tbody></table>
+
+  
+ **Instrument**   
+
+<table><tbody><tr><td><a href="/index.php?title=%E5%A4%A9%E6%88%B8%E5%B1%8B%E6%88%90&amp;action=edit&amp;redlink=1" class="new" title="天戸屋成（页面不存在）">天戸屋成</a></td><td></td><td>Tr.2</td></tr></tbody></table>
+
+
+Illustration
+: 天芽
+
+## 试听
+  
+暂不支援此类型
+  
+
+## 曲目列表
+
+<table><tbody><tr><td id="1" class="infoRD"><b>01</b></td><td id="博麗" colspan="2" class="title"><span class="new" title="（歌词页面不存在）"><a href="/index.php?title=%E6%AD%8C%E8%AF%8D:%E5%8D%9A%E9%BA%97&amp;boilerplate=模板:页面模板/曲目歌词&amp;action=edit">博麗</a></span><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=みずきともえ&amp;vocal=天戸屋成&amp;lyric=天戸屋成，&amp;ogmusic=博麗　～Eastern Wind&amp;fromwiki=Salvia"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E3%81%BF%E3%81%9A%E3%81%8D%E3%81%A8%E3%82%82%E3%81%88&amp;action=edit&amp;redlink=1" class="new" title="みずきともえ（页面不存在）">みずきともえ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，みずきともえ，&amp;fromwiki=Salvia"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="/index.php?title=%E5%A4%A9%E6%88%B8%E5%B1%8B%E6%88%90&amp;action=edit&amp;redlink=1" class="new" title="天戸屋成（页面不存在）">天戸屋成</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=天戸屋成，&amp;fromwiki=Salvia"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="/index.php?title=%E5%A4%A9%E6%88%B8%E5%B1%8B%E6%88%90&amp;action=edit&amp;redlink=1" class="new" title="天戸屋成（页面不存在）">天戸屋成</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?lyric=天戸屋成，&amp;fromwiki=Salvia"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=博麗　～Eastern Wind&amp;fromwiki=Salvia"><span></span></a></span><div class="ogmusic"><a href="/%E5%8D%9A%E9%BA%97_%EF%BD%9EEastern_Wind" class="mw-redirect" title="博麗 ～Eastern Wind">博麗　～Eastern Wind</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E5%B0%81%E9%AD%94%E5%BD%95_%EF%BD%9E_the_Story_of_Eastern_Wonderland." class="mw-redirect" title="东方封魔录 ～ the Story of Eastern Wonderland.">东方封魔录　～ the Story of Eastern Wonderland.</a></div></td></tr>
+<tr><td id="2" class="infoYD"><b>02</b></td><td id="風神少女" colspan="2" class="title">風神少女<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=みずきともえ&amp;ogmusic=風神少女(Short Version)&amp;fromwiki=Salvia"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E3%81%BF%E3%81%9A%E3%81%8D%E3%81%A8%E3%82%82%E3%81%88&amp;action=edit&amp;redlink=1" class="new" title="みずきともえ（页面不存在）">みずきともえ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，みずきともえ，&amp;fromwiki=Salvia"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演奏</td><td class="text" colspan="2">Chorus：<a href="/index.php?title=%E5%A4%A9%E6%88%B8%E5%B1%8B%E6%88%90&amp;action=edit&amp;redlink=1" class="new" title="天戸屋成（页面不存在）">天戸屋成</a></td></tr><tr><td class="left"></td><td class="label">社团</td><td class="text" colspan="2"><a href="./Cis-Trance.md" title="Cis-Trance">Cis-Trance</a></td></tr><tr><td class="left"></td><td class="label">初发布</td><td class="text" colspan="2"><a href="/100%EF%BC%85%E6%9D%B1%E6%96%B9%E3%82%AB%E3%83%BC%E3%83%8B%E3%83%90%E3%83%AB#2" title="100％東方カーニバル">Phantasmagoria of Flower View</a><div class="source"><a href="./100％東方カーニバル.md" title="100％東方カーニバル">100％東方カーニバル</a></div></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=風神少女(Short Version)&amp;fromwiki=Salvia"><span></span></a></span><div class="ogmusic"><a href="/%E9%A2%A8%E7%A5%9E%E5%B0%91%E5%A5%B3(Short_Version)" class="mw-redirect" title="風神少女(Short Version)">風神少女(Short Version)</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E8%8A%B1%E6%98%A0%E5%A1%9A_%EF%BD%9E_Phantasmagoria_of_Flower_View." class="mw-redirect" title="东方花映塚 ～ Phantasmagoria of Flower View.">东方花映塚　～ Phantasmagoria of Flower View.</a></div></td></tr>
+<tr><td id="3" class="infoYD"><b>03</b></td><td id="アルティメットトゥルース" colspan="2" class="title">アルティメットトゥルース<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=みずきともえ&amp;ogmusic=アルティメットトゥルース&amp;fromwiki=Salvia"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E3%81%BF%E3%81%9A%E3%81%8D%E3%81%A8%E3%82%82%E3%81%88&amp;action=edit&amp;redlink=1" class="new" title="みずきともえ（页面不存在）">みずきともえ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，みずきともえ，&amp;fromwiki=Salvia"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">社团</td><td class="text" colspan="2"><a href="./Cis-Trance.md" title="Cis-Trance">Cis-Trance</a></td></tr><tr><td class="left"></td><td class="label">初发布</td><td class="text" colspan="2"><a href="/100%EF%BC%85%E6%9D%B1%E6%96%B9%E3%82%AB%E3%83%BC%E3%83%8B%E3%83%90%E3%83%AB#7" title="100％東方カーニバル">Perfect Cherry Blossom</a><div class="source"><a href="./100％東方カーニバル.md" title="100％東方カーニバル">100％東方カーニバル</a></div></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=アルティメットトゥルース&amp;fromwiki=Salvia"><span></span></a></span><div class="ogmusic"><a href="/%E3%82%A2%E3%83%AB%E3%83%86%E3%82%A3%E3%83%A1%E3%83%83%E3%83%88%E3%83%88%E3%82%A5%E3%83%AB%E3%83%BC%E3%82%B9" class="mw-redirect" title="アルティメットトゥルース">アルティメットトゥルース</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E5%A6%96%E5%A6%96%E6%A2%A6_%EF%BD%9E_Perfect_Cherry_Blossom." class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr>
+<tr><td id="4" class="infoYD"><b>04</b></td><td id="フラワリングナイト" colspan="2" class="title">フラワリングナイト<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=みずきともえ&amp;ogmusic=フラワリングナイト&amp;fromwiki=Salvia"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E3%81%BF%E3%81%9A%E3%81%8D%E3%81%A8%E3%82%82%E3%81%88&amp;action=edit&amp;redlink=1" class="new" title="みずきともえ（页面不存在）">みずきともえ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，みずきともえ，&amp;fromwiki=Salvia"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">社团</td><td class="text" colspan="2"><a href="./CODE_ZTS_LABEL.md" title="CODE ZTS LABEL">CODE ZTS LABEL</a></td></tr><tr><td class="left"></td><td class="label">初发布</td><td class="text" colspan="2"><a href="/VAGUE_extend#8" title="VAGUE extend">フラワリングナイト</a><div class="source"><a href="./VAGUE_extend.md" title="VAGUE extend">VAGUE extend</a></div></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=フラワリングナイト&amp;fromwiki=Salvia"><span></span></a></span><div class="ogmusic"><a href="/%E3%83%95%E3%83%A9%E3%83%AF%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%8A%E3%82%A4%E3%83%88" class="mw-redirect" title="フラワリングナイト">フラワリングナイト</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E8%8A%B1%E6%98%A0%E5%A1%9A_%EF%BD%9E_Phantasmagoria_of_Flower_View." class="mw-redirect" title="东方花映塚 ～ Phantasmagoria of Flower View.">东方花映塚　～ Phantasmagoria of Flower View.</a></div></td></tr>
+<tr><td id="5" class="infoRD"><b>05</b></td><td id="無何有の郷リマスター" colspan="2" class="title"><a href="./歌词-無何有の郷（LOVEマシーン）.md" title="歌词:無何有の郷（LOVEマシーン）">無何有の郷リマスター</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=みずきともえ&amp;vocal=天戸屋成&amp;lyric=漂流いかだ，&amp;ogmusic=無何有の郷　～ Deep Mountain&amp;fromwiki=Salvia"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E3%81%BF%E3%81%9A%E3%81%8D%E3%81%A8%E3%82%82%E3%81%88&amp;action=edit&amp;redlink=1" class="new" title="みずきともえ（页面不存在）">みずきともえ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，みずきともえ，&amp;fromwiki=Salvia"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="/index.php?title=%E5%A4%A9%E6%88%B8%E5%B1%8B%E6%88%90&amp;action=edit&amp;redlink=1" class="new" title="天戸屋成（页面不存在）">天戸屋成</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=天戸屋成，&amp;fromwiki=Salvia"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="/index.php?title=%E6%BC%82%E6%B5%81%E3%81%84%E3%81%8B%E3%81%A0&amp;action=edit&amp;redlink=1" class="new" title="漂流いかだ（页面不存在）">漂流いかだ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?lyric=漂流いかだ，&amp;fromwiki=Salvia"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">初发布</td><td class="text" colspan="2"><a href="/Strawberry_Cranberry#13" title="Strawberry Cranberry">無何有の郷 （Vocal Ver.1.01）</a><div class="source"><a href="./Strawberry_Cranberry.md" title="Strawberry Cranberry">Strawberry Cranberry</a></div></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=無何有の郷　～ Deep Mountain&amp;fromwiki=Salvia"><span></span></a></span><div class="ogmusic"><a href="/%E7%84%A1%E4%BD%95%E6%9C%89%E3%81%AE%E9%83%B7_%EF%BD%9E_Deep_Mountain" class="mw-redirect" title="無何有の郷 ～ Deep Mountain">無何有の郷　～ Deep Mountain</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E5%A6%96%E5%A6%96%E6%A2%A6_%EF%BD%9E_Perfect_Cherry_Blossom." class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr></tbody></table>
+
+
+## 评论
+
+
+
+
+---
+
+此文档由 [THBWiki-Markdown-Builder](https://github.com/Delsin-Yu/THBWiki-Markdown-Builder) 构建。
+
+文档中的所有内容除特殊注明外，均在 [**知识共享(Creative Commons) 署名-非商业性使用-相同方式共享 3.0 协议**](https://creativecommons.org/licenses/by-sa/3.0/deed.zh-hans) 下提供，附加条款亦可能应用。
+
+引用类型与其他类型作品版权归原作者所有，如有作者授权则遵照授权协议使用。
+
+详细请查阅 [THBWiki：免责声明](https://thbwiki.cc/THBWiki:%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E)。
+

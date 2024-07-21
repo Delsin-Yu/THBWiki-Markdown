@@ -1,0 +1,35 @@
+# 歌词:Cherish_Days
+
+<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\7\7b\ns512%3ACherish_Days.html -->
+
+EastNewSound | 使用了翻译表的页面 | 日文歌词 | 有翻译的歌词 | 歌词
+
+
+<table><tbody><tr><th colspan="2">曲目信息</th></tr><tr><td colspan="2" style="padding-left: 1em;"><div class="floatright"><a href="./文件-Innocent_Abyss封面.jpg.md" class="image" title="Innocent Abyss"><img alt="Innocent Abyss" src="https://upload.thwiki.cc/thumb/7/79/Innocent_Abyss%E5%B0%81%E9%9D%A2.jpg/200px-Innocent_Abyss%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="200" height="198" srcset="https://upload.thwiki.cc/thumb/7/79/Innocent_Abyss%E5%B0%81%E9%9D%A2.jpg/300px-Innocent_Abyss%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/7/79/Innocent_Abyss%E5%B0%81%E9%9D%A2.jpg/400px-Innocent_Abyss%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="900" data-file-height="889"></a></div><b><a href="/Innocent_Abyss#9" title="Innocent Abyss">Cherish Days</a></b> &#91;03:58&#93;<dl><dd><a href="./Innocent_Abyss.md" title="Innocent Abyss">Innocent Abyss</a> （2015-12-30）<br>社团：<a href="./EastNewSound.md" title="EastNewSound">EastNewSound</a><br>编曲：<a href="./黒鳥.md" title="黒鳥">黒鳥</a><br>演唱：<a href="./夕月椿.md" title="夕月椿">夕月椿</a><br>作词：<a href="./夕月椿.md" title="夕月椿">夕月椿</a><br>原曲：<a href="./死灵的夜樱.md" title="死灵的夜樱" unred="">死霊の夜桜</a><br></dd></dl></td></tr></tbody></table>
+
+- 歌词语言：日文- 歌词翻译：三宅栞奈 （中文）
+
+  
+  
+
+  
+
+
+<table><tbody><tr class="tt-lyrics-header" id="=-1" data-pos="&#91;&quot;=&quot;,1&#93;"><td class="tt-lyrics" lang="zh"><div class="poem"></div></td><td class="tt-mainh" lang="zh"><div class="poem"></div></td><td class="tt-tranh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-main-ja" id="=-2" data-pos="&#91;&quot;=&quot;,2&#93;"><td class="tt-time" lang="zh"><div class="poem">00:46.01</div></td><td class="tt-ja" lang="ja"><div class="poem">春の香り漂うあの夜に</div></td><td class="tt-zh" lang="zh"><div class="poem">春伴花香 轻拂着彼岸<br></div></td></tr><tr class="tt-main-ja" id="=-3" data-pos="&#91;&quot;=&quot;,3&#93;"><td class="tt-time" lang="zh"><div class="poem">01:01.22</div></td><td class="tt-ja" lang="ja"><div class="poem">誰？導く名前を呼ぶ声</div></td><td class="tt-zh" lang="zh"><div class="poem">是谁 轻吟我名引 我接近？<br></div></td></tr><tr class="tt-lyrics-sep" id="=-4" data-pos="&#91;&quot;=&quot;,4&#93;"><td class="tt-sep" lang="zh"><div class="poem">01:15.29<br></div></td><td class="tt-text" lang="zh"><div class="poem"></div></td><td class="tt-tran" lang="zh"><div class="poem"></div></td></tr><tr class="tt-main-ja" id="=-5" data-pos="&#91;&quot;=&quot;,5&#93;"><td class="tt-time" lang="zh"><div class="poem">01:16.03</div></td><td class="tt-ja" lang="ja"><div class="poem">そう覚えてる？桜舞い散る花弁が</div></td><td class="tt-zh" lang="zh"><div class="poem">樱花霎时纷飞飘舞<br></div></td></tr><tr class="tt-main-ja" id="=-6" data-pos="&#91;&quot;=&quot;,6&#93;"><td class="tt-time" lang="zh"><div class="poem">01:24.34</div></td><td class="tt-ja" lang="ja"><div class="poem">突然の訪れ背中押してくれた</div></td><td class="tt-zh" lang="zh"><div class="poem">闯入我的思绪 如同推我前行<br></div></td></tr><tr class="tt-main-ja" id="=-7" data-pos="&#91;&quot;=&quot;,7&#93;"><td class="tt-time" lang="zh"><div class="poem">01:32.32</div></td><td class="tt-ja" lang="ja"><div class="poem">階段をかけて手を振るあなたから</div></td><td class="tt-zh" lang="zh"><div class="poem">登上彼岸的台阶 我向挥着手的你走去 <br></div></td></tr><tr class="tt-main-ja" id="=-8" data-pos="&#91;&quot;=&quot;,8&#93;"><td class="tt-time" lang="zh"><div class="poem">01:39.17</div></td><td class="tt-ja" lang="ja"><div class="poem">ただいまの言葉を聴きたくて待った</div></td><td class="tt-zh" lang="zh"><div class="poem">变得仅想辨清 你现在的话语<br></div></td></tr><tr class="tt-lyrics-sep" id="=-9" data-pos="&#91;&quot;=&quot;,9&#93;"><td class="tt-sep" lang="zh"><div class="poem">01:45.43<br></div></td><td class="tt-text" lang="zh"><div class="poem"></div></td><td class="tt-tran" lang="zh"><div class="poem"></div></td></tr><tr class="tt-main-ja" id="=-10" data-pos="&#91;&quot;=&quot;,10&#93;"><td class="tt-time" lang="zh"><div class="poem">01:46.17</div></td><td class="tt-ja" lang="ja"><div class="poem">月の照らす綺麗なあの夜に</div></td><td class="tt-zh" lang="zh"><div class="poem">月色朦胧 斑斓着彼岸<br></div></td></tr><tr class="tt-main-ja" id="=-11" data-pos="&#91;&quot;=&quot;,11&#93;"><td class="tt-time" lang="zh"><div class="poem">02:01.11</div></td><td class="tt-ja" lang="ja"><div class="poem">誰？旅立つ足音寂しい</div></td><td class="tt-zh" lang="zh"><div class="poem">又是谁 脚踏孤独 杳然启程？<br></div></td></tr><tr class="tt-lyrics-sep" id="=-12" data-pos="&#91;&quot;=&quot;,12&#93;"><td class="tt-sep" lang="zh"><div class="poem">02:28.53<br></div></td><td class="tt-text" lang="zh"><div class="poem"></div></td><td class="tt-tran" lang="zh"><div class="poem"></div></td></tr><tr class="tt-main-ja" id="=-13" data-pos="&#91;&quot;=&quot;,13&#93;"><td class="tt-time" lang="zh"><div class="poem">02:30.34</div></td><td class="tt-ja" lang="ja"><div class="poem">こんなの笑われちゃう</div></td><td class="tt-zh" lang="zh"><div class="poem">这般支离破碎的瑰色<br></div></td></tr><tr class="tt-main-ja" id="=-14" data-pos="&#91;&quot;=&quot;,14&#93;"><td class="tt-time" lang="zh"><div class="poem">02:38.00</div></td><td class="tt-ja" lang="ja"><div class="poem">でもあなたらしいから</div></td><td class="tt-zh" lang="zh"><div class="poem">恍如你沉眠的模样<br></div></td></tr><tr class="tt-lyrics-sep" id="=-15" data-pos="&#91;&quot;=&quot;,15&#93;"><td class="tt-sep" lang="zh"><div class="poem">02:45.32<br></div></td><td class="tt-text" lang="zh"><div class="poem"></div></td><td class="tt-tran" lang="zh"><div class="poem"></div></td></tr><tr class="tt-main-ja" id="=-16" data-pos="&#91;&quot;=&quot;,16&#93;"><td class="tt-time" lang="zh"><div class="poem">02:46.01</div></td><td class="tt-ja" lang="ja"><div class="poem">そう覚えてる？光満ちゆく幻想が</div></td><td class="tt-zh" lang="zh"><div class="poem">光影转瞬渐入幻想<br></div></td></tr><tr class="tt-main-ja" id="=-17" data-pos="&#91;&quot;=&quot;,17&#93;"><td class="tt-time" lang="zh"><div class="poem">02:54.11</div></td><td class="tt-ja" lang="ja"><div class="poem">突然の訪れ期待しちゃうからね</div></td><td class="tt-zh" lang="zh"><div class="poem">闯入我的思绪 令我开始期望<br></div></td></tr><tr class="tt-main-ja" id="=-18" data-pos="&#91;&quot;=&quot;,18&#93;"><td class="tt-time" lang="zh"><div class="poem">03:02.03</div></td><td class="tt-ja" lang="ja"><div class="poem">階段をかけて手を振るあなたから</div></td><td class="tt-zh" lang="zh"><div class="poem">登上彼岸的台阶 我向挥着手的你走去<br></div></td></tr><tr class="tt-main-ja" id="=-19" data-pos="&#91;&quot;=&quot;,19&#93;"><td class="tt-time" lang="zh"><div class="poem">03:09.27</div></td><td class="tt-ja" lang="ja"><div class="poem">大好きの言葉を聴きたくて待った</div></td><td class="tt-zh" lang="zh"><div class="poem">变得愈发想听 你说出「喜欢」的话语</div></td></tr></tbody></table>
+
+
+
+
+
+
+
+---
+
+此文档由 [THBWiki-Markdown-Builder](https://github.com/Delsin-Yu/THBWiki-Markdown-Builder) 构建。
+
+文档中的所有内容除特殊注明外，均在 [**知识共享(Creative Commons) 署名-非商业性使用-相同方式共享 3.0 协议**](https://creativecommons.org/licenses/by-sa/3.0/deed.zh-hans) 下提供，附加条款亦可能应用。
+
+引用类型与其他类型作品版权归原作者所有，如有作者授权则遵照授权协议使用。
+
+详细请查阅 [THBWiki：免责声明](https://thbwiki.cc/THBWiki:%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E)。
+

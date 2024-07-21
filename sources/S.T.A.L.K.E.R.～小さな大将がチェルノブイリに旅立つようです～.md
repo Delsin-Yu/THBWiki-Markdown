@@ -1,0 +1,50 @@
+# S.T.A.L.K.E.R.～小さな大将がチェルノブイリに旅立つようです～
+
+<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\f7\ns0%3AS%2ET%2EA%2EL%2EK%2EE%2ER%2E%EF%BD%9E%E5%B0%8F%E3%81%95%E3%81%AA%E5%A4%A7%E5%B0%86%E3%81%8C%E3%83%81%E3%82%A7%E3%83%AB%E3%83%8E%E3%83%96%E3%82%A4%E3%83%AA%E3%81%AB%E6%97%85%E7%AB%8B%E3%81%A4%E3%82%88%E3%81%86%E3%81%A7%E3%81%99%EF%BD%9E.html -->
+
+2010年9月19日 由 Five-seveN 于 博丽神社例大祭SP1 发布的全长同人专辑，分级为 一般向
+
+本页是关于东方Project  
+ **二次创作同人专辑 (未找到链接)** 的词条
+## 专辑信息
+
+<table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="/%E6%96%87%E4%BB%B6:S.T.A.L.K.E.R.%EF%BD%9E%E5%B0%8F%E3%81%95%E3%81%AA%E5%A4%A7%E5%B0%86%E3%81%8C%E3%83%81%E3%82%A7%E3%83%AB%E3%83%8E%E3%83%96%E3%82%A4%E3%83%AA%E3%81%AB%E6%97%85%E7%AB%8B%E3%81%A4%E3%82%88%E3%81%86%E3%81%A7%E3%81%99%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/5/5c/S.T.A.L.K.E.R.%EF%BD%9E%E5%B0%8F%E3%81%95%E3%81%AA%E5%A4%A7%E5%B0%86%E3%81%8C%E3%83%81%E3%82%A7%E3%83%AB%E3%83%8E%E3%83%96%E3%82%A4%E3%83%AA%E3%81%AB%E6%97%85%E7%AB%8B%E3%81%A4%E3%82%88%E3%81%86%E3%81%A7%E3%81%99%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg/196px-S.T.A.L.K.E.R.%EF%BD%9E%E5%B0%8F%E3%81%95%E3%81%AA%E5%A4%A7%E5%B0%86%E3%81%8C%E3%83%81%E3%82%A7%E3%83%AB%E3%83%8E%E3%83%96%E3%82%A4%E3%83%AA%E3%81%AB%E6%97%85%E7%AB%8B%E3%81%A4%E3%82%88%E3%81%86%E3%81%A7%E3%81%99%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="196" height="195" srcset="https://upload.thwiki.cc/thumb/5/5c/S.T.A.L.K.E.R.%EF%BD%9E%E5%B0%8F%E3%81%95%E3%81%AA%E5%A4%A7%E5%B0%86%E3%81%8C%E3%83%81%E3%82%A7%E3%83%AB%E3%83%8E%E3%83%96%E3%82%A4%E3%83%AA%E3%81%AB%E6%97%85%E7%AB%8B%E3%81%A4%E3%82%88%E3%81%86%E3%81%A7%E3%81%99%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg/294px-S.T.A.L.K.E.R.%EF%BD%9E%E5%B0%8F%E3%81%95%E3%81%AA%E5%A4%A7%E5%B0%86%E3%81%8C%E3%83%81%E3%82%A7%E3%83%AB%E3%83%8E%E3%83%96%E3%82%A4%E3%83%AA%E3%81%AB%E6%97%85%E7%AB%8B%E3%81%A4%E3%82%88%E3%81%86%E3%81%A7%E3%81%99%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/5/5c/S.T.A.L.K.E.R.%EF%BD%9E%E5%B0%8F%E3%81%95%E3%81%AA%E5%A4%A7%E5%B0%86%E3%81%8C%E3%83%81%E3%82%A7%E3%83%AB%E3%83%8E%E3%83%96%E3%82%A4%E3%83%AA%E3%81%AB%E6%97%85%E7%AB%8B%E3%81%A4%E3%82%88%E3%81%86%E3%81%A7%E3%81%99%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg/392px-S.T.A.L.K.E.R.%EF%BD%9E%E5%B0%8F%E3%81%95%E3%81%AA%E5%A4%A7%E5%B0%86%E3%81%8C%E3%83%81%E3%82%A7%E3%83%AB%E3%83%8E%E3%83%96%E3%82%A4%E3%83%AA%E3%81%AB%E6%97%85%E7%AB%8B%E3%81%A4%E3%82%88%E3%81%86%E3%81%A7%E3%81%99%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="512" data-file-height="510"></a><div class="cover-char">角色：<a href="./娜兹玲.md" title="娜兹玲">娜兹玲</a></div></td>
+</tr><tr><td class="label">名称</td><td colspan="2"> S.T.A.L.K.E.R.～小さな大将がチェルノブイリに旅立つようです～ </td></tr><tr><td class="label">制作方</td><td><a href="./Five-seveN.md" title="Five-seveN">Five-seveN</a></td><td class="cover-artwork" rowspan="7" style="min-width:196px;"><a href="/%E6%96%87%E4%BB%B6:S.T.A.L.K.E.R.%EF%BD%9E%E5%B0%8F%E3%81%95%E3%81%AA%E5%A4%A7%E5%B0%86%E3%81%8C%E3%83%81%E3%82%A7%E3%83%AB%E3%83%8E%E3%83%96%E3%82%A4%E3%83%AA%E3%81%AB%E6%97%85%E7%AB%8B%E3%81%A4%E3%82%88%E3%81%86%E3%81%A7%E3%81%99%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/5/5c/S.T.A.L.K.E.R.%EF%BD%9E%E5%B0%8F%E3%81%95%E3%81%AA%E5%A4%A7%E5%B0%86%E3%81%8C%E3%83%81%E3%82%A7%E3%83%AB%E3%83%8E%E3%83%96%E3%82%A4%E3%83%AA%E3%81%AB%E6%97%85%E7%AB%8B%E3%81%A4%E3%82%88%E3%81%86%E3%81%A7%E3%81%99%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg/196px-S.T.A.L.K.E.R.%EF%BD%9E%E5%B0%8F%E3%81%95%E3%81%AA%E5%A4%A7%E5%B0%86%E3%81%8C%E3%83%81%E3%82%A7%E3%83%AB%E3%83%8E%E3%83%96%E3%82%A4%E3%83%AA%E3%81%AB%E6%97%85%E7%AB%8B%E3%81%A4%E3%82%88%E3%81%86%E3%81%A7%E3%81%99%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="196" height="195" srcset="https://upload.thwiki.cc/thumb/5/5c/S.T.A.L.K.E.R.%EF%BD%9E%E5%B0%8F%E3%81%95%E3%81%AA%E5%A4%A7%E5%B0%86%E3%81%8C%E3%83%81%E3%82%A7%E3%83%AB%E3%83%8E%E3%83%96%E3%82%A4%E3%83%AA%E3%81%AB%E6%97%85%E7%AB%8B%E3%81%A4%E3%82%88%E3%81%86%E3%81%A7%E3%81%99%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg/294px-S.T.A.L.K.E.R.%EF%BD%9E%E5%B0%8F%E3%81%95%E3%81%AA%E5%A4%A7%E5%B0%86%E3%81%8C%E3%83%81%E3%82%A7%E3%83%AB%E3%83%8E%E3%83%96%E3%82%A4%E3%83%AA%E3%81%AB%E6%97%85%E7%AB%8B%E3%81%A4%E3%82%88%E3%81%86%E3%81%A7%E3%81%99%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/5/5c/S.T.A.L.K.E.R.%EF%BD%9E%E5%B0%8F%E3%81%95%E3%81%AA%E5%A4%A7%E5%B0%86%E3%81%8C%E3%83%81%E3%82%A7%E3%83%AB%E3%83%8E%E3%83%96%E3%82%A4%E3%83%AA%E3%81%AB%E6%97%85%E7%AB%8B%E3%81%A4%E3%82%88%E3%81%86%E3%81%A7%E3%81%99%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg/392px-S.T.A.L.K.E.R.%EF%BD%9E%E5%B0%8F%E3%81%95%E3%81%AA%E5%A4%A7%E5%B0%86%E3%81%8C%E3%83%81%E3%82%A7%E3%83%AB%E3%83%8E%E3%83%96%E3%82%A4%E3%83%AA%E3%81%AB%E6%97%85%E7%AB%8B%E3%81%A4%E3%82%88%E3%81%86%E3%81%A7%E3%81%99%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="512" data-file-height="510"></a><div class="cover-char">角色：<a href="./娜兹玲.md" title="娜兹玲">娜兹玲</a></div></td>
+</tr><tr><td class="label">首发日期</td><td>2010-09-19&#160;（<a href="/展会作品列表?e=%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%ADSP%231">博麗神社例大祭SP1</a>）</td></tr><tr><td class="label">类型</td><td>全长</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>11</td></tr><tr><td class="label">总时长</td><td>00:00</td></tr>
+<tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/12946801">https://www.pixiv.net/artworks/12946801</a></td></tr></tbody></table>
+
+S.T.A.L.K.E.R.～小さな大将がチェルノブイリに旅立つようです～（同人专辑，Five-seveN，2010） - 2010年9月19日 由 Five-seveN 于 博丽神社例大祭SP1 发布的全长同人专辑，分级为 一般向
+## Staff
+Jacket illustration
+: [Five-seveN](./Five-seveN.md)
+
+## 曲目列表
+
+<table><tbody><tr><td id="1" class="info"><b>01</b></td><td id="WHIRLWIG" colspan="2" class="title">WHIRLWIG<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=S.T.A.L.K.E.R.～小さな大将がチェルノブイリに旅立つようです～"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr>
+<tr><td id="2" class="info"><b>02</b></td><td id="RETURN_FROM_&quot;RED_FOREST&quot;" colspan="2" class="title">RETURN FROM &#34;RED FOREST&#34;<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=S.T.A.L.K.E.R.～小さな大将がチェルノブイリに旅立つようです～"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr>
+<tr><td id="3" class="info"><b>03</b></td><td id="THREE_STOOGES" colspan="2" class="title">THREE STOOGES<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=S.T.A.L.K.E.R.～小さな大将がチェルノブイリに旅立つようです～"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr>
+<tr><td id="4" class="info"><b>04</b></td><td id="LITTLE_UMBRELLA" colspan="2" class="title">LITTLE UMBRELLA<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=S.T.A.L.K.E.R.～小さな大将がチェルノブイリに旅立つようです～"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr>
+<tr><td id="5" class="info"><b>05</b></td><td id="BLOWOUT" colspan="2" class="title">BLOWOUT<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=S.T.A.L.K.E.R.～小さな大将がチェルノブイリに旅立つようです～"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr>
+<tr><td id="6" class="info"><b>06</b></td><td id="ONE_SHOT,_ONE_KILL" colspan="2" class="title">ONE SHOT, ONE KILL<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=S.T.A.L.K.E.R.～小さな大将がチェルノブイリに旅立つようです～"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr>
+<tr><td id="7" class="info"><b>07</b></td><td id="WHITE_WOLF" colspan="2" class="title">WHITE WOLF<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=S.T.A.L.K.E.R.～小さな大将がチェルノブイリに旅立つようです～"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr>
+<tr><td id="8" class="info"><b>08</b></td><td id="MERCS&#39;_AMBUSH" colspan="2" class="title">MERCS&#39; AMBUSH<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=S.T.A.L.K.E.R.～小さな大将がチェルノブイリに旅立つようです～"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr>
+<tr><td id="9" class="info"><b>09</b></td><td id="SAFEHOUSE_LABRATORY" colspan="2" class="title">SAFEHOUSE LABRATORY<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=S.T.A.L.K.E.R.～小さな大将がチェルノブイリに旅立つようです～"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr>
+<tr><td id="10" class="info"><b>10</b></td><td id="WILD_ROSE" colspan="2" class="title">WILD ROSE<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=S.T.A.L.K.E.R.～小さな大将がチェルノブイリに旅立つようです～"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr>
+<tr><td id="11" class="info"><b>11</b></td><td id="THE_TINE_TINE_CLEVER_COMMANDER_～_&quot;FIREDRAKE&quot;_REMIX" colspan="2" class="title">THE TINE TINE CLEVER COMMANDER ～ &#34;FIREDRAKE&#34; REMIX<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=S.T.A.L.K.E.R.～小さな大将がチェルノブイリに旅立つようです～"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr></tbody></table>
+
+
+## 评论
+
+
+
+
+---
+
+此文档由 [THBWiki-Markdown-Builder](https://github.com/Delsin-Yu/THBWiki-Markdown-Builder) 构建。
+
+文档中的所有内容除特殊注明外，均在 [**知识共享(Creative Commons) 署名-非商业性使用-相同方式共享 3.0 协议**](https://creativecommons.org/licenses/by-sa/3.0/deed.zh-hans) 下提供，附加条款亦可能应用。
+
+引用类型与其他类型作品版权归原作者所有，如有作者授权则遵照授权协议使用。
+
+详细请查阅 [THBWiki：免责声明](https://thbwiki.cc/THBWiki:%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E)。
+

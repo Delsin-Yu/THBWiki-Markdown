@@ -1,0 +1,56 @@
+# 连缘灵烈传～Reactivate_majestical_imperial/设定与剧情
+
+<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\4\47\ns0%3A%E8%BF%9E%E7%BC%98%E7%81%B5%E7%83%88%E4%BC%A0%EF%BD%9EReactivate_majestical_imperial%2F%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85.html -->
+
+トリック・ノスタルジー
+
+## 目录
+
+- [1 附带文档](#附带文档)
+- [2 故事背景](#故事背景)
+- [3 游戏对话](#游戏对话)
+- [4 词条导航](#词条导航)
+
+
+
+
+## 附带文档
+- [readme](./连缘灵烈传～Reactivate_majestical_imperial-设定与剧情-readme.md)
+
+## 故事背景
+- [故事背景](./连缘灵烈传～Reactivate_majestical_imperial-设定与剧情-故事背景.md)
+- [Ex故事背景](./连缘灵烈传～Reactivate_majestical_imperial-设定与剧情-Ex故事背景.md)
+
+## 游戏对话
+- [神社组 游戏对话/结局](./游戏对话-连缘灵烈传～Reactivate_majestical_imperial-神社组.md)
+- [开瓶组 游戏对话/结局](./游戏对话-连缘灵烈传～Reactivate_majestical_imperial-开瓶器组.md)
+- [奴隶商人组 游戏对话/结局](./游戏对话-连缘灵烈传～Reactivate_majestical_imperial-奴隶商人组.md)
+- [？？？？？ 游戏对话/结局](./游戏对话-连缘灵烈传～Reactivate_majestical_imperial-？？？组.md)
+
+- [神社组 Ex游戏对话](./游戏对话-连缘灵烈传～Reactivate_majestical_imperial-神社组_ExStory.md)
+- [开瓶组 Ex游戏对话](./游戏对话-连缘灵烈传～Reactivate_majestical_imperial-开瓶器组_ExStory.md)
+- [奴隶商人组 Ex游戏对话](./游戏对话-连缘灵烈传～Reactivate_majestical_imperial-奴隶商人组_ExStory.md)
+- [？？？？？ Ex游戏对话](./游戏对话-连缘灵烈传～Reactivate_majestical_imperial-？？？组_ExStory.md)
+
+## 词条导航
+  
+  
+
+<table><tbody><tr><td><table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;;;"><tbody><tr><th style=";" colspan="3" class="navbox-title"><div class="navbar"><div class="noprint plainlinksneverexpand" style="background-color:transparent; padding:0; font-weight:normal; font-size:80%; white-space:nowrap;"><a href="./模板-连缘灵烈传导航.md" title="模板:连缘灵烈传导航"><span style=";;border:none;" title="查看这个模板">查</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<a href="/index.php?title=%E6%A8%A1%E6%9D%BF:%E8%BF%9E%E7%BC%98%E7%81%B5%E7%83%88%E4%BC%A0%E5%AF%BC%E8%88%AA&amp;action=edit"><span style=";;border:none;" title="您可以编辑这个模板。请在储存变更之前先预览">编</span></a></div></div><span><a href="./连缘灵烈传～Reactivate_majestical_imperial.md" title="连缘灵烈传～Reactivate majestical imperial">连缘灵烈传～Reactivate majestical imperial</a></span></th></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="./连缘灵烈传～Reactivate_majestical_imperial-角色设定.md" title="连缘灵烈传～Reactivate majestical imperial/角色设定">角色</a></td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>自机</div></td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>神社组</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./凤联薮雨.md" title="凤联薮雨">凤联薮雨</a> &#8226; <a href="./燕乐玄鸟.md" title="燕乐玄鸟">燕乐玄鸟</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>开瓶组</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./徒云八尾吕智.md" title="徒云八尾吕智">徒云八尾吕智</a> &#8226; <a href="./片野宿祢.md" title="片野宿祢">片野宿祢</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>奴隶商人组</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./鹀黑巫鸟.md" title="鹀黑巫鸟">鹀黑巫鸟</a> &#8226; <a href="./徒云蛇穴丸.md" title="徒云蛇穴丸">徒云蛇穴丸</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>？？？组</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./国主雀巳.md" title="国主雀巳">国主雀巳</a></div></td></tr></tbody></table><div></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>BOSS</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./乞骸让让.md" title="乞骸让让">乞骸让让</a> &#8226; <a href="./马立噤美.md" title="马立噤美">马立噤美</a> &#8226; <a href="./藤原伊代真.md" title="藤原伊代真">藤原伊代真</a> &#8226; <a href="./凤联薮雨.md" title="凤联薮雨">凤联薮雨</a> &#8226; <a href="./燕乐玄鸟.md" title="燕乐玄鸟">燕乐玄鸟</a> &#8226; <a href="./徒云八尾吕智.md" title="徒云八尾吕智">徒云八尾吕智</a> &#8226; <a href="./片野宿祢.md" title="片野宿祢">片野宿祢</a> &#8226; <a href="./鹀黑巫鸟.md" title="鹀黑巫鸟">鹀黑巫鸟</a> &#8226; <a href="./徒云蛇穴丸.md" title="徒云蛇穴丸">徒云蛇穴丸</a> &#8226; <a href="./平文门.md" title="平文门">平文门</a> &#8226; <a href="./死宛.md" title="死宛">死宛</a> &#8226; <a href="./瑞风天堺.md" title="瑞风天堺">瑞风天堺</a></div></td></tr></tbody></table><div></div></td><td class="navbox-image" style="" rowspan="9"><a href="./文件-连缘灵烈传～Reactivate_majestical_imperial封面.jpg.md" class="image"><img alt="连缘灵烈传～Reactivate majestical imperial封面.jpg" src="https://upload.thwiki.cc/thumb/8/82/%E8%BF%9E%E7%BC%98%E7%81%B5%E7%83%88%E4%BC%A0%EF%BD%9EReactivate_majestical_imperial%E5%B0%81%E9%9D%A2.jpg/160px-%E8%BF%9E%E7%BC%98%E7%81%B5%E7%83%88%E4%BC%A0%EF%BD%9EReactivate_majestical_imperial%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="160" height="120" srcset="https://upload.thwiki.cc/thumb/8/82/%E8%BF%9E%E7%BC%98%E7%81%B5%E7%83%88%E4%BC%A0%EF%BD%9EReactivate_majestical_imperial%E5%B0%81%E9%9D%A2.jpg/240px-%E8%BF%9E%E7%BC%98%E7%81%B5%E7%83%88%E4%BC%A0%EF%BD%9EReactivate_majestical_imperial%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/8/82/%E8%BF%9E%E7%BC%98%E7%81%B5%E7%83%88%E4%BC%A0%EF%BD%9EReactivate_majestical_imperial%E5%B0%81%E9%9D%A2.jpg/320px-%E8%BF%9E%E7%BC%98%E7%81%B5%E7%83%88%E4%BC%A0%EF%BD%9EReactivate_majestical_imperial%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="560" data-file-height="420"></a></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a class="mw-selflink selflink">剧情</a></td><td style=";;" class="navbox-list navbox-even"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>剧情文本</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./连缘灵烈传～Reactivate_majestical_imperial-设定与剧情-故事背景.md" title="连缘灵烈传～Reactivate majestical imperial/设定与剧情/故事背景">故事背景</a> &#8226; <a href="./连缘灵烈传～Reactivate_majestical_imperial-设定与剧情-Ex故事背景.md" title="连缘灵烈传～Reactivate majestical imperial/设定与剧情/Ex故事背景">Ex故事背景</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>游戏对话&amp;结局</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./游戏对话-连缘灵烈传～Reactivate_majestical_imperial-神社组.md" title="游戏对话:连缘灵烈传～Reactivate majestical imperial/神社组" unred="">神社组</a> &#8226; <a href="./游戏对话-连缘灵烈传～Reactivate_majestical_imperial-开瓶器组.md" title="游戏对话:连缘灵烈传～Reactivate majestical imperial/开瓶器组" unred="">开瓶组</a> &#8226; <a href="./游戏对话-连缘灵烈传～Reactivate_majestical_imperial-奴隶商人组.md" title="游戏对话:连缘灵烈传～Reactivate majestical imperial/奴隶商人组" unred="">奴隶商人组</a> &#8226; <a href="./游戏对话-连缘灵烈传～Reactivate_majestical_imperial-？？？组.md" title="游戏对话:连缘灵烈传～Reactivate majestical imperial/？？？组" unred="">？？？组</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>Ex游戏对话</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./游戏对话-连缘灵烈传～Reactivate_majestical_imperial-神社组_ExStory.md" title="游戏对话:连缘灵烈传～Reactivate majestical imperial/神社组 ExStory" unred="">神社组Ex</a> &#8226; <a href="./游戏对话-连缘灵烈传～Reactivate_majestical_imperial-开瓶器组_ExStory.md" title="游戏对话:连缘灵烈传～Reactivate majestical imperial/开瓶器组 ExStory" unred="">开瓶组Ex</a> &#8226; <a href="./游戏对话-连缘灵烈传～Reactivate_majestical_imperial-奴隶商人组_ExStory.md" title="游戏对话:连缘灵烈传～Reactivate majestical imperial/奴隶商人组 ExStory" unred="">奴隶商人组Ex</a> &#8226; <a href="./游戏对话-连缘灵烈传～Reactivate_majestical_imperial-？？？组_ExStory.md" title="游戏对话:连缘灵烈传～Reactivate majestical imperial/？？？组 ExStory" unred="">？？？组Ex</a></div></td></tr></tbody></table><div></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">场景</td><td style=";;" class="navbox-list navbox-odd"><div><a href="/index.php?title=%E9%98%90%E9%87%8C%E7%A5%9E%E7%A4%BE%E5%8F%82%E9%81%93&amp;action=edit&amp;redlink=1" class="new" title="阐里神社参道（页面不存在）">阐里神社参道</a> &#8226; <a href="/index.php?title=%E5%9D%9A%E5%86%B0%E5%B0%81%E9%94%81%E7%9A%84%E6%B2%B3%E6%B5%81&amp;action=edit&amp;redlink=1" class="new" title="坚冰封锁的河流（页面不存在）">坚冰封锁的河流</a> &#8226; <a href="/index.php?title=%E5%B7%A8%E4%BA%BA%E8%97%8F%E8%BA%AB%E7%9A%84%E5%AD%94%E7%A9%B4&amp;action=edit&amp;redlink=1" class="new" title="巨人藏身的孔穴（页面不存在）">巨人藏身的孔穴</a> &#8226; <a href="/index.php?title=%E7%BB%93%E5%86%B0%E4%BA%A7%E7%94%9F%E7%9A%84%E6%B4%9E%E7%AA%9F&amp;action=edit&amp;redlink=1" class="new" title="结冰产生的洞窟（页面不存在）">结冰产生的洞窟</a> &#8226; <a href="/index.php?title=%E4%B8%8D%E8%BF%B7%E4%B9%8B%E6%A3%AE&amp;action=edit&amp;redlink=1" class="new" title="不迷之森（页面不存在）">不迷之森</a> &#8226; <a href="/index.php?title=%E6%9E%AF%E8%90%8E%E7%9A%84%E5%BA%AD%E5%9B%AD&amp;action=edit&amp;redlink=1" class="new" title="枯萎的庭园（页面不存在）">枯萎的庭园</a> &#8226; <a href="/index.php?title=%E7%BB%93%E7%95%8C%E7%A0%B4%E6%B4%9E&amp;action=edit&amp;redlink=1" class="new" title="结界破洞（页面不存在）">结界破洞</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">音乐</td><td style=";;" class="navbox-list navbox-even"><div><a href="./连缘灵烈传～Reactivate_majestical_imperial-Music.md" title="连缘灵烈传～Reactivate majestical imperial/Music">Music Room</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="/%E8%BF%9E%E7%BC%98%E7%81%B5%E7%83%88%E4%BC%A0%EF%BD%9EReactivate_majestical_imperial/%E8%AE%BE%E5%AE%9A%E4%B8%8E%E5%89%A7%E6%83%85#附带文档" title="连缘灵烈传～Reactivate majestical imperial/设定与剧情">附带文档</a></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./连缘灵烈传～Reactivate_majestical_imperial-设定与剧情-readme.md" title="连缘灵烈传～Reactivate majestical imperial/设定与剧情/readme">Readme</a></div></td></tr></tbody></table></td></tr></tbody></table>
+
+
+
+
+
+
+
+---
+
+此文档由 [THBWiki-Markdown-Builder](https://github.com/Delsin-Yu/THBWiki-Markdown-Builder) 构建。
+
+文档中的所有内容除特殊注明外，均在 [**知识共享(Creative Commons) 署名-非商业性使用-相同方式共享 3.0 协议**](https://creativecommons.org/licenses/by-sa/3.0/deed.zh-hans) 下提供，附加条款亦可能应用。
+
+引用类型与其他类型作品版权归原作者所有，如有作者授权则遵照授权协议使用。
+
+详细请查阅 [THBWiki：免责声明](https://thbwiki.cc/THBWiki:%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E)。
+

@@ -1,0 +1,60 @@
+# Re：End_of_a_Dream_-秘封倶楽部編-
+
+<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\3\37\ns0%3ARe%EF%BC%9AEnd_of_a_Dream_-%E7%A7%98%E5%B0%81%E5%80%B6%E6%A5%BD%E9%83%A8%E7%B7%A8-.html -->
+
+2016年10月9日 由 Astral Sky，非可逆リズム 于 东方红楼梦12 发布的EP/合作同人专辑，曲目主要风格是 House、Dance，内容以 秘封俱乐部为题材，分级为 一般向
+
+本页是关于东方Project  
+ **二次创作同人专辑 (未找到链接)** 的词条
+## 专辑信息
+
+<table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Re：End_of_a_Dream_-秘封倶楽部編-封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/1/18/Re%EF%BC%9AEnd_of_a_Dream_-%E7%A7%98%E5%B0%81%E5%80%B6%E6%A5%BD%E9%83%A8%E7%B7%A8-%E5%B0%81%E9%9D%A2.jpg/308px-Re%EF%BC%9AEnd_of_a_Dream_-%E7%A7%98%E5%B0%81%E5%80%B6%E6%A5%BD%E9%83%A8%E7%B7%A8-%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="308" height="308" srcset="https://upload.thwiki.cc/thumb/1/18/Re%EF%BC%9AEnd_of_a_Dream_-%E7%A7%98%E5%B0%81%E5%80%B6%E6%A5%BD%E9%83%A8%E7%B7%A8-%E5%B0%81%E9%9D%A2.jpg/462px-Re%EF%BC%9AEnd_of_a_Dream_-%E7%A7%98%E5%B0%81%E5%80%B6%E6%A5%BD%E9%83%A8%E7%B7%A8-%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/1/18/Re%EF%BC%9AEnd_of_a_Dream_-%E7%A7%98%E5%B0%81%E5%80%B6%E6%A5%BD%E9%83%A8%E7%B7%A8-%E5%B0%81%E9%9D%A2.jpg/616px-Re%EF%BC%9AEnd_of_a_Dream_-%E7%A7%98%E5%B0%81%E5%80%B6%E6%A5%BD%E9%83%A8%E7%B7%A8-%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="800" data-file-height="800"></a><div class="cover-char">角色：<a href="./宇佐见莲子.md" title="宇佐见莲子">宇佐见莲子</a>，<a href="./玛艾露贝莉·赫恩.md" title="玛艾露贝莉·赫恩">玛艾露贝莉·赫恩</a></div></td>
+</tr><tr><td class="label">名称</td><td colspan="2"> Re：End of a Dream -秘封倶楽部編- </td></tr><tr><td class="label">制作方</td><td><a href="./Astral_Sky.md" title="Astral Sky">Astral Sky</a><br><a href="./非可逆リズム.md" title="非可逆リズム">非可逆リズム</a></td><td class="cover-artwork" rowspan="11" style="min-width:308px;"><a href="./文件-Re：End_of_a_Dream_-秘封倶楽部編-封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/1/18/Re%EF%BC%9AEnd_of_a_Dream_-%E7%A7%98%E5%B0%81%E5%80%B6%E6%A5%BD%E9%83%A8%E7%B7%A8-%E5%B0%81%E9%9D%A2.jpg/308px-Re%EF%BC%9AEnd_of_a_Dream_-%E7%A7%98%E5%B0%81%E5%80%B6%E6%A5%BD%E9%83%A8%E7%B7%A8-%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="308" height="308" srcset="https://upload.thwiki.cc/thumb/1/18/Re%EF%BC%9AEnd_of_a_Dream_-%E7%A7%98%E5%B0%81%E5%80%B6%E6%A5%BD%E9%83%A8%E7%B7%A8-%E5%B0%81%E9%9D%A2.jpg/462px-Re%EF%BC%9AEnd_of_a_Dream_-%E7%A7%98%E5%B0%81%E5%80%B6%E6%A5%BD%E9%83%A8%E7%B7%A8-%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/1/18/Re%EF%BC%9AEnd_of_a_Dream_-%E7%A7%98%E5%B0%81%E5%80%B6%E6%A5%BD%E9%83%A8%E7%B7%A8-%E5%B0%81%E9%9D%A2.jpg/616px-Re%EF%BC%9AEnd_of_a_Dream_-%E7%A7%98%E5%B0%81%E5%80%B6%E6%A5%BD%E9%83%A8%E7%B7%A8-%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="800" data-file-height="800"></a><div class="cover-char">角色：<a href="./宇佐见莲子.md" title="宇佐见莲子">宇佐见莲子</a>，<a href="./玛艾露贝莉·赫恩.md" title="玛艾露贝莉·赫恩">玛艾露贝莉·赫恩</a></div></td>
+</tr><tr><td class="label">首发日期</td><td>2016-10-09&#160;（<a href="/展会作品列表?e=%E4%B8%9C%E6%96%B9%E7%BA%A2%E6%A5%BC%E6%A2%A6%2312">東方紅楼夢12</a>）</td></tr><tr><td class="label">类型</td><td>EP，合作</td></tr><tr><td class="label">编号</td><td>ASRR-0001</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>5</td></tr><tr><td class="label">总时长</td><td>20:21</td></tr><tr><td class="label">风格类型</td><td>House，Dance</td></tr><tr><td class="label">特定选材</td><td>秘封俱乐部</td></tr><tr><td class="label">售价</td><td>会场售价：500日元<br>通贩售价：800日元</td></tr>
+<tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://sound.jp/nrr/ASRR-0001/">http://sound.jp/nrr/ASRR-0001/</a></td></tr></tbody></table>
+
+Re：End of a Dream -秘封倶楽部編-（同人专辑，Astral Sky，非可逆リズム，2016） - 2016年10月9日 由 Astral Sky，非可逆リズム 于 东方红楼梦12 发布的EP/合作同人专辑，曲目主要风格是 House、Dance，内容以 秘封俱乐部为题材，分级为 一般向
+
+<table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://itunes.apple.com/album/re-end-of-a-dream-ghostly-field-club-edition-ep/1455454090">Apple Music</a>，<a rel="nofollow" class="external text" href="https://play.google.com/store/music/album?id=Bniiu2pshecxd4ljdruyf5g2lhe">Google Play Music</a></td></tr></tbody></table>
+
+
+## Staff
+  
+ **Arrangement**   
+
+<table><tbody><tr><td><a href="./uma.md" title="uma">uma</a></td><td><a href="./Astral_Sky.md" title="Astral Sky">Astral Sky</a></td><td>Tr.1/3/5</td></tr><tr><td><a href="./モリモリあつし.md" title="モリモリあつし">モリモリあつし</a></td><td><a href="./非可逆リズム.md" title="非可逆リズム">非可逆リズム</a></td><td>Tr.2/4/5</td></tr></tbody></table>
+
+
+Illustration
+: [ZYANNA](http://www.pixiv.net/member.php?id=3860956)
+
+## 试听
+  
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/285938725&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=false"></iframe>
+
+  
+
+## 曲目列表
+
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="他愛のない二人の博物誌(uma_Remix)" colspan="2" class="title">他愛のない二人の博物誌(uma Remix)<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=uma&amp;ogmusic=他愛も無い二人の博物誌&amp;fromwiki=Re：End_of_a_Dream_-秘封倶楽部編-"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:06</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./uma.md" title="uma">uma</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，uma&amp;fromwiki=Re：End_of_a_Dream_-秘封倶楽部編-"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=他愛も無い二人の博物誌&amp;fromwiki=Re：End_of_a_Dream_-秘封倶楽部編-"><span></span></a></span><div class="ogmusic"><a href="/%E4%BB%96%E6%84%9B%E3%82%82%E7%84%A1%E3%81%84%E4%BA%8C%E4%BA%BA%E3%81%AE%E5%8D%9A%E7%89%A9%E8%AA%8C" class="mw-redirect" title="他愛も無い二人の博物誌">他愛も無い二人の博物誌</a></div><div class="source"><a href="/%E7%87%95%E7%9F%B3%E5%8D%9A%E7%89%A9%E5%BF%97_%EF%BD%9E_Dr.Latency%27s_Freak_Report." class="mw-redirect" title="燕石博物志 ～ Dr.Latency&#39;s Freak Report.">燕石博物志　～ Dr.Latency's Freak Report.</a></div></td></tr>
+<tr><td id="2" class="infoYD"><b>02</b></td><td id="牛に引かれて善光寺参り(MRM_REMIX)" colspan="2" class="title">牛に引かれて善光寺参り(MRM REMIX)<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=モリモリあつし&amp;ogmusic=牛に引かれて善光寺参り&amp;fromwiki=Re：End_of_a_Dream_-秘封倶楽部編-"><span title="搜索相似同人曲"></span></a></span></td><td class="time">05:34</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./モリモリあつし.md" title="モリモリあつし">モリモリあつし</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，モリモリあつし&amp;fromwiki=Re：End_of_a_Dream_-秘封倶楽部編-"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=牛に引かれて善光寺参り&amp;fromwiki=Re：End_of_a_Dream_-秘封倶楽部編-"><span></span></a></span><div class="ogmusic"><a href="/%E7%89%9B%E3%81%AB%E5%BC%95%E3%81%8B%E3%82%8C%E3%81%A6%E5%96%84%E5%85%89%E5%AF%BA%E5%8F%82%E3%82%8A" class="mw-redirect" title="牛に引かれて善光寺参り">牛に引かれて善光寺参り</a></div><div class="source"><a href="/%E4%BC%8A%E5%A5%98%E8%AF%BA%E7%89%A9%E8%B4%A8_%EF%BD%9E_Neo-traditionalism_of_Japan." class="mw-redirect" title="伊奘诺物质 ～ Neo-traditionalism of Japan.">伊奘诺物质　～ Neo-traditionalism of Japan.</a></div></td></tr>
+<tr><td id="3" class="infoYD"><b>03</b></td><td id="Zero-G_SensualBounce" colspan="2" class="title">Zero-G_SensualBounce<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=uma&amp;ogmusic=G Free&amp;fromwiki=Re：End_of_a_Dream_-秘封倶楽部編-"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:14</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./uma.md" title="uma">uma</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，uma&amp;fromwiki=Re：End_of_a_Dream_-秘封倶楽部編-"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=G Free&amp;fromwiki=Re：End_of_a_Dream_-秘封倶楽部編-"><span></span></a></span><div class="ogmusic"><a href="./G_Free.md" title="G Free">G Free</a></div><div class="source"><a href="/%E5%A4%A7%E7%A9%BA%E9%AD%94%E6%9C%AF_%EF%BD%9E_Magical_Astronomy" class="mw-redirect" title="大空魔术 ～ Magical Astronomy">大空魔术　～ Magical Astronomy</a></div></td></tr>
+<tr><td id="4" class="infoYD"><b>04</b></td><td id="秘封倶楽部の治安悪い曲にハマってる方" colspan="2" class="title">秘封倶楽部の治安悪い曲にハマってる方<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=モリモリあつし&amp;ogmusic=天空のグリニッジ&amp;fromwiki=Re：End_of_a_Dream_-秘封倶楽部編-"><span title="搜索相似同人曲"></span></a></span></td><td class="time">02:56</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./モリモリあつし.md" title="モリモリあつし">モリモリあつし</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，モリモリあつし&amp;fromwiki=Re：End_of_a_Dream_-秘封倶楽部編-"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=天空のグリニッジ&amp;fromwiki=Re：End_of_a_Dream_-秘封倶楽部編-"><span></span></a></span><div class="ogmusic"><a href="/%E5%A4%A9%E7%A9%BA%E3%81%AE%E3%82%B0%E3%83%AA%E3%83%8B%E3%83%83%E3%82%B8" class="mw-redirect" title="天空のグリニッジ">天空のグリニッジ</a></div><div class="source"><a href="/%E5%A4%A7%E7%A9%BA%E9%AD%94%E6%9C%AF_%EF%BD%9E_Magical_Astronomy" class="mw-redirect" title="大空魔术 ～ Magical Astronomy">大空魔术　～ Magical Astronomy</a></div></td></tr>
+<tr><td id="5" class="infoYD"><b>05</b></td><td id="Gemini_Star" colspan="2" class="title">Gemini Star<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=uma，モリモリあつし&amp;ogmusic=少女秘封倶楽部&amp;fromwiki=Re：End_of_a_Dream_-秘封倶楽部編-"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:31</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./uma.md" title="uma">uma</a>，<a href="./モリモリあつし.md" title="モリモリあつし">モリモリあつし</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，uma，モリモリあつし&amp;fromwiki=Re：End_of_a_Dream_-秘封倶楽部編-"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=少女秘封倶楽部&amp;fromwiki=Re：End_of_a_Dream_-秘封倶楽部編-"><span></span></a></span><div class="ogmusic"><a href="/%E5%B0%91%E5%A5%B3%E7%A7%98%E5%B0%81%E5%80%B6%E6%A5%BD%E9%83%A8" class="mw-redirect" title="少女秘封倶楽部">少女秘封倶楽部</a></div><div class="source"><a href="/%E8%8E%B2%E5%8F%B0%E9%87%8E%E5%A4%9C%E8%A1%8C_%EF%BD%9E_Ghostly_Field_Club." class="mw-redirect" title="莲台野夜行 ～ Ghostly Field Club.">莲台野夜行　～ Ghostly Field Club.</a></div></td></tr></tbody></table>
+
+
+## 评论
+
+
+
+
+---
+
+此文档由 [THBWiki-Markdown-Builder](https://github.com/Delsin-Yu/THBWiki-Markdown-Builder) 构建。
+
+文档中的所有内容除特殊注明外，均在 [**知识共享(Creative Commons) 署名-非商业性使用-相同方式共享 3.0 协议**](https://creativecommons.org/licenses/by-sa/3.0/deed.zh-hans) 下提供，附加条款亦可能应用。
+
+引用类型与其他类型作品版权归原作者所有，如有作者授权则遵照授权协议使用。
+
+详细请查阅 [THBWiki：免责声明](https://thbwiki.cc/THBWiki:%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E)。
+
