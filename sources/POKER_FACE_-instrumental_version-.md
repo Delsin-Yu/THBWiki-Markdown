@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2">无封面</td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://zytokine.fanbox.cc/posts/3246205?utm_campaign=manage_post_page&amp;utm_medium=share&amp;utm_source=twitter">https://zytokine.fanbox.cc/posts/3246205?utm_campaign=manage_post_page&amp;utm_medium=share&amp;utm_source=twitter</a></td></tr><tr><td class="label">备注</td><td colspan="2">pixivFANBOX limited</td></tr></tbody></table>
 
 POKER FACE -instrumental version-（同人专辑，ZYTOKINE，2022） - 2022年1月8日 由 ZYTOKINE  发布的单曲同人专辑，分级为 一般向
+
 ## Staff
   
  **Arrangement**   
@@ -21,9 +23,11 @@ POKER FACE -instrumental version-（同人专辑，ZYTOKINE，2022） - 2022年1
 <table><tbody><tr><td><a href="./隣人.md" title="隣人">隣人</a></td><td><a href="./ZYTOKINE.md" title="ZYTOKINE">ZYTOKINE</a></td><td>Tr.1</td></tr></tbody></table>
 
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="POKER_FACE_-instrumental_version-" colspan="2" class="title">POKER FACE -instrumental version-<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=隣人&amp;ogmusic=亡失のエモーション&amp;fromwiki=POKER_FACE_-instrumental_version-"><span title="搜索相似同人曲"></span></a></span></td><td class="time">06:21</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./隣人.md" title="隣人">隣人</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，隣人&amp;fromwiki=POKER_FACE_-instrumental_version-"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">初发布</td><td class="text" colspan="2"><a href="/%EF%BC%9E%EF%BC%9E%EF%BC%9E%EF%BC%9E#4" title="＞＞＞＞">POKER FACE</a><div class="source"><a href="./＞＞＞＞.md" title="＞＞＞＞">＞＞＞＞</a></div></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=亡失のエモーション&amp;fromwiki=POKER_FACE_-instrumental_version-"><span></span></a></span><div class="ogmusic"><a href="/%E4%BA%A1%E5%A4%B1%E3%81%AE%E3%82%A8%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3" class="mw-redirect" title="亡失のエモーション">亡失のエモーション</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E5%BF%83%E7%BB%AE%E6%A5%BC_%EF%BD%9E_Hopeless_Masquerade." class="mw-redirect" title="东方心绮楼 ～ Hopeless Masquerade.">东方心绮楼　～ Hopeless Masquerade.</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="POKER_FACE_-instrumental_version-" colspan="2" class="title">POKER FACE -instrumental version-<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=隣人&amp;ogmusic=亡失のエモーション&amp;fromwiki=POKER_FACE_-instrumental_version-"><span title="搜索相似同人曲"></span></a></span></td><td class="time">06:21</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./隣人.md" title="隣人">隣人</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，隣人&amp;fromwiki=POKER_FACE_-instrumental_version-"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">初发布</td><td class="text" colspan="2"><a href="/%EF%BC%9E%EF%BC%9E%EF%BC%9E%EF%BC%9E#4" title="＞＞＞＞">POKER FACE</a><div class="source"><a href="./＞＞＞＞.md" title="＞＞＞＞">＞＞＞＞</a></div></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=亡失のエモーション&amp;fromwiki=POKER_FACE_-instrumental_version-"><span></span></a></span><div class="ogmusic"><a href="./亡失のエモーション.md" class="mw-redirect" title="亡失のエモーション">亡失のエモーション</a></div><div class="source"><a href="./东方心绮楼_～_Hopeless_Masquerade..md" class="mw-redirect" title="东方心绮楼 ～ Hopeless Masquerade.">东方心绮楼　～ Hopeless Masquerade.</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-第N種接近遭遇封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/a/a0/%E7%AC%ACN%E7%A8%AE%E6%8E%A5%E8%BF%91%E9%81%AD%E9%81%87%E5%B0%81%E9%9D%A2.jpg/138px-%E7%AC%ACN%E7%A8%AE%E6%8E%A5%E8%BF%91%E9%81%AD%E9%81%87%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="138" height="196" srcset="https://upload.thwiki.cc/thumb/a/a0/%E7%AC%ACN%E7%A8%AE%E6%8E%A5%E8%BF%91%E9%81%AD%E9%81%87%E5%B0%81%E9%9D%A2.jpg/207px-%E7%AC%ACN%E7%A8%AE%E6%8E%A5%E8%BF%91%E9%81%AD%E9%81%87%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/a/a0/%E7%AC%ACN%E7%A8%AE%E6%8E%A5%E8%BF%91%E9%81%AD%E9%81%87%E5%B0%81%E9%9D%A2.jpg/276px-%E7%AC%ACN%E7%A8%AE%E6%8E%A5%E8%BF%91%E9%81%AD%E9%81%87%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="699" data-file-height="991"></a><div class="cover-char">角色：<a href="./封兽鵺.md" title="封兽鵺">封兽鵺</a>，<a href="./玛艾露贝莉·赫恩.md" title="玛艾露贝莉·赫恩">玛艾露贝莉·赫恩</a>，<a href="./宇佐见莲子.md" title="宇佐见莲子">宇佐见莲子</a></div></td>
@@ -14,11 +15,13 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/en/artworks/39405299">https://www.pixiv.net/en/artworks/39405299</a></td></tr></tbody></table>
 
 第N種接近遭遇（同人志，黒豆屋，2014） - 2014年11月2日 由 黒豆屋 于 科学世纪的露天咖啡座4 发布的漫画同人志，一共20页，登场人物有 封兽鵺、玛艾露贝莉·赫恩、宇佐见莲子，分级为 一般向
+
 ## Staff
 Writer
 : カズナ (未找到链接)
 Illustration
 : カズナ (未找到链接)
+
 
 ## 评论
 

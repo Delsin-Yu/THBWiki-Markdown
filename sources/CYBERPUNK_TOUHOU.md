@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=CYBERPUNK_TOUHOU%E5%B0%81%E9%9D%A2.jpg" class="new" title="文件:CYBERPUNK TOUHOU封面.jpg">封面图片</a><div class="cover-char">角色：<a href="./藤原妹红.md" title="藤原妹红">藤原妹红</a></div></td>
@@ -14,9 +15,12 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/horaemon03/status/1576508673416867840">https://twitter.com/horaemon03/status/1576508673416867840</a><br><a rel="nofollow" class="external free" href="https://twitter.com/horaemon03/status/1578353363023904769">https://twitter.com/horaemon03/status/1578353363023904769</a></td></tr><tr><td class="label">备注</td><td colspan="2">也有B5正方形尺寸的版本；内容同样</td></tr></tbody></table>
 
 CYBERPUNK TOUHOU（同人志，サイコロデンノウ，2022） - 2022年10月9日 由 サイコロデンノウ 于 东方红楼梦18 发布的画集同人志，B5尺寸一共42页，分级为 一般向
+
 ## 预览
+
 ## Staff
 - [サイコロデンノウ](./サイコロデンノウ.md)
+
 
 ## 评论
 

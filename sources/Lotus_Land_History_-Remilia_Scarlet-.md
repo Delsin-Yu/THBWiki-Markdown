@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Lotus_Land_History_-Remilia_Scarlet-封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/3/34/Lotus_Land_History_-Remilia_Scarlet-%E5%B0%81%E9%9D%A2.jpg/280px-Lotus_Land_History_-Remilia_Scarlet-%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="280" height="280" srcset="https://upload.thwiki.cc/thumb/3/34/Lotus_Land_History_-Remilia_Scarlet-%E5%B0%81%E9%9D%A2.jpg/420px-Lotus_Land_History_-Remilia_Scarlet-%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/3/34/Lotus_Land_History_-Remilia_Scarlet-%E5%B0%81%E9%9D%A2.jpg/560px-Lotus_Land_History_-Remilia_Scarlet-%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="600" data-file-height="600"></a><div class="cover-char">角色：<a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a></div></td>
@@ -18,6 +19,7 @@ Lotus Land History -Remilia Scarlet-（同人专辑，趣味工房にんじん�
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=271996">蜜瓜</a>，<a rel="nofollow" class="external text" href="https://ec.toranoana.jp/tora_r/ec/item/040030559174">虎穴</a>，<a rel="nofollow" class="external text" href="http://www.akibaoo.com/c/item/2500020429440/">Akibaoo</a>，<a rel="nofollow" class="external text" href="http://www.grep-shop.com/tsuhan/products/detail.php?product_id=25782">Grep</a></td></tr></tbody></table>
 
 
+
 ## Staff
   
  **Arrangement**   
@@ -27,6 +29,7 @@ Lotus Land History -Remilia Scarlet-（同人专辑，趣味工房にんじん�
 
 Illustration
 : Laruha
+
 
 ## 试听
   
@@ -56,9 +59,11 @@ Illustration
 </td></tr></tbody></table>
 
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="幻想交響曲_第一番_紅魔郷〔緋槍〕" colspan="2" class="title">幻想交響曲　第一番　紅魔郷〔緋槍〕<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=ARA&amp;ogmusic=亡き王女の為のセプテット&amp;fromwiki=Lotus_Land_History_-Remilia_Scarlet-"><span title="搜索相似同人曲"></span></a></span></td><td class="time">20:35</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=ARA&amp;action=edit&amp;redlink=1" class="new" title="ARA（页面不存在）">ARA</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，ARA，&amp;fromwiki=Lotus_Land_History_-Remilia_Scarlet-"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=亡き王女の為のセプテット&amp;fromwiki=Lotus_Land_History_-Remilia_Scarlet-"><span></span></a></span><div class="ogmusic"><a href="/%E4%BA%A1%E3%81%8D%E7%8E%8B%E5%A5%B3%E3%81%AE%E7%82%BA%E3%81%AE%E3%82%BB%E3%83%97%E3%83%86%E3%83%83%E3%83%88" class="mw-redirect" title="亡き王女の為のセプテット">亡き王女の為のセプテット</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E7%BA%A2%E9%AD%94%E4%B9%A1_%EF%BD%9E_the_Embodiment_of_Scarlet_Devil." class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">还有其他多首红魔乡的原曲短暂出现</td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="幻想交響曲_第一番_紅魔郷〔緋槍〕" colspan="2" class="title">幻想交響曲　第一番　紅魔郷〔緋槍〕<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=ARA&amp;ogmusic=亡き王女の為のセプテット&amp;fromwiki=Lotus_Land_History_-Remilia_Scarlet-"><span title="搜索相似同人曲"></span></a></span></td><td class="time">20:35</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=ARA&amp;action=edit&amp;redlink=1" class="new" title="ARA（页面不存在）">ARA</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，ARA，&amp;fromwiki=Lotus_Land_History_-Remilia_Scarlet-"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=亡き王女の為のセプテット&amp;fromwiki=Lotus_Land_History_-Remilia_Scarlet-"><span></span></a></span><div class="ogmusic"><a href="./亡き王女の為のセプテット.md" class="mw-redirect" title="亡き王女の為のセプテット">亡き王女の為のセプテット</a></div><div class="source"><a href="./东方红魔乡_～_the_Embodiment_of_Scarlet_Devil..md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">还有其他多首红魔乡的原曲短暂出现</td></tr></tbody></table>
+
 
 
 ## 评论

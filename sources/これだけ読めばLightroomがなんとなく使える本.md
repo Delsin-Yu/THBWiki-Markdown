@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-これだけ読めばLightroomがなんとなく使える本封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/8/87/%E3%81%93%E3%82%8C%E3%81%A0%E3%81%91%E8%AA%AD%E3%82%81%E3%81%B0Lightroom%E3%81%8C%E3%81%AA%E3%82%93%E3%81%A8%E3%81%AA%E3%81%8F%E4%BD%BF%E3%81%88%E3%82%8B%E6%9C%AC%E5%B0%81%E9%9D%A2.jpg/224px-%E3%81%93%E3%82%8C%E3%81%A0%E3%81%91%E8%AA%AD%E3%82%81%E3%81%B0Lightroom%E3%81%8C%E3%81%AA%E3%82%93%E3%81%A8%E3%81%AA%E3%81%8F%E4%BD%BF%E3%81%88%E3%82%8B%E6%9C%AC%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="158" srcset="https://upload.thwiki.cc/thumb/8/87/%E3%81%93%E3%82%8C%E3%81%A0%E3%81%91%E8%AA%AD%E3%82%81%E3%81%B0Lightroom%E3%81%8C%E3%81%AA%E3%82%93%E3%81%A8%E3%81%AA%E3%81%8F%E4%BD%BF%E3%81%88%E3%82%8B%E6%9C%AC%E5%B0%81%E9%9D%A2.jpg/336px-%E3%81%93%E3%82%8C%E3%81%A0%E3%81%91%E8%AA%AD%E3%82%81%E3%81%B0Lightroom%E3%81%8C%E3%81%AA%E3%82%93%E3%81%A8%E3%81%AA%E3%81%8F%E4%BD%BF%E3%81%88%E3%82%8B%E6%9C%AC%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/8/87/%E3%81%93%E3%82%8C%E3%81%A0%E3%81%91%E8%AA%AD%E3%82%81%E3%81%B0Lightroom%E3%81%8C%E3%81%AA%E3%82%93%E3%81%A8%E3%81%AA%E3%81%8F%E4%BD%BF%E3%81%88%E3%82%8B%E6%9C%AC%E5%B0%81%E9%9D%A2.jpg/448px-%E3%81%93%E3%82%8C%E3%81%A0%E3%81%91%E8%AA%AD%E3%82%81%E3%81%B0Lightroom%E3%81%8C%E3%81%AA%E3%82%93%E3%81%A8%E3%81%AA%E3%81%8F%E4%BD%BF%E3%81%88%E3%82%8B%E6%9C%AC%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1920" data-file-height="1354"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>，<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a>，<a href="./古明地恋.md" title="古明地恋">古明地恋</a>，<a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a>，<a href="./魂魄妖梦.md" title="魂魄妖梦">魂魄妖梦</a>，<a href="./洩矢诹访子.md" title="洩矢诹访子">洩矢诹访子</a></div></td>
@@ -17,8 +18,10 @@
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://nyuma.booth.pm/items/3526068">Booth</a></td></tr></tbody></table>
 
 
+
 ## 预览
 - [](./文件-これだけ読めばLightroomがなんとなく使える本预览图1.jpg.md)- [](./文件-これだけ読めばLightroomがなんとなく使える本预览图2.jpg.md)
+
 
 ## Staff
 模特
@@ -32,6 +35,7 @@
 : 九条きう （[Twitter：@kiu_chaa](https://twitter.com/kiu_chaa)）
 : ちぃ太 （[Twitter：@tiita132155](https://twitter.com/tiita132155)）
 : 色莉 （[Twitter：@irori777](https://twitter.com/irori777)）
+
 
 ## 评论
 

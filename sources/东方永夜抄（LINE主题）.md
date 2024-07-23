@@ -7,10 +7,10 @@
 本页是关于东方Project  
  **相关实体周边 (未找到链接)** 的词条
 东方永夜抄（LINE主题） - 东方Project「东方永夜抄　～ Imperishable Night.」的LINE主题皮肤
+
 ## 概述
   
-<big> **东方永夜抄**   
-</big>
+<big> **东方永夜抄** </big>
 東方永夜抄  
 
   
@@ -31,6 +31,7 @@
   
 东方Project「东方永夜抄 ～ Imperishable Night.」的主题皮肤。用夜晚的竹林来装点你的LINE吧！
   
+
 
 ## 主题展示
 

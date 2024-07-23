@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -35,11 +36,13 @@
 
 
 
+
 ## 基本信息
 
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">無間の鐘　～ Infinite Nightmare</td></tr><tr><td><b>译名</b></td><td>无间之钟 ～ Infinite Nightmare</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 无间之钟 ～ Infinite Nightmare（曲目） - 由 ZUN 创作的官方曲目，原名 無間の鐘　～ Infinite Nightmare
+
 ## 出现作品
 
 <table>
@@ -48,7 +51,9 @@
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 东方文花帖DS
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th12.5_05.mp3.md" title="文件:th12.5 05.mp3">th12.5_05.mp3</a><br><audio src="https://upload.thwiki.cc/6/6e/th12.5_05.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>BGM\th12.5_05.wav</td></tr><tr><td><b>BGMForAll</b></td><td><div class="mw-collapsible mw-collapsed">
@@ -59,12 +64,15 @@
 </td></tr></tbody></table>
 
 
+
 ### 未知之花 魅知之旅
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-hr06_02.mp3.md" title="文件:hr06 02.mp3">hr06_02.mp3</a><br><audio src="https://upload.thwiki.cc/4/42/hr06_02.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track02.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>4:01</td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 东方文花帖DS
 - Music Room (未找到链接)
 
@@ -74,8 +82,11 @@
 　大概是，压迫着大部分人鼓膜时间最长的曲子  
 　所以削弱了曲子中的落差从而听起来不易产生疲劳。  
 　真可谓无间地狱。呵哈哈哈，就给我好好努力吧！
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
   
  **無間の鐘　～ Infinite Nightmare**  无间之钟　～ Infinite Nightmare
@@ -104,6 +115,7 @@
   - 无尽的梦魇。
     - 《文花帖》的挑战。
     - 可能指本曲出现在赈灾专辑《未知之花，魅知之旅》中，象征日本饱受地震的灾祸。
+
 
 
 

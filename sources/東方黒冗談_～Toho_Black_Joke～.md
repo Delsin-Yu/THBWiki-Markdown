@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-東方黒冗談_～Toho_Black_Joke～封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/b/b9/%E6%9D%B1%E6%96%B9%E9%BB%92%E5%86%97%E8%AB%87_%EF%BD%9EToho_Black_Joke%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg/147px-%E6%9D%B1%E6%96%B9%E9%BB%92%E5%86%97%E8%AB%87_%EF%BD%9EToho_Black_Joke%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="147" height="196" srcset="https://upload.thwiki.cc/thumb/b/b9/%E6%9D%B1%E6%96%B9%E9%BB%92%E5%86%97%E8%AB%87_%EF%BD%9EToho_Black_Joke%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg/220px-%E6%9D%B1%E6%96%B9%E9%BB%92%E5%86%97%E8%AB%87_%EF%BD%9EToho_Black_Joke%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/b/b9/%E6%9D%B1%E6%96%B9%E9%BB%92%E5%86%97%E8%AB%87_%EF%BD%9EToho_Black_Joke%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg/294px-%E6%9D%B1%E6%96%B9%E9%BB%92%E5%86%97%E8%AB%87_%EF%BD%9EToho_Black_Joke%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="300" data-file-height="400"></a><div class="cover-char">角色：<a href="./铃仙·优昙华院·因幡.md" title="铃仙·优昙华院·因幡">铃仙·优昙华院·因幡</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://kontohboh.wiki.fc2.com/wiki/東方黒冗談">http://kontohboh.wiki.fc2.com/wiki/%E6%9D%B1%E6%96%B9%E9%BB%92%E5%86%97%E8%AB%87</a></td></tr></tbody></table>
 
 東方黒冗談 ～Toho Black Joke～（同人志，痕桃梦，2006） - 2006年5月21日 由 痕桃梦 于 博丽神社例大祭3 发布的漫画同人志，B6尺寸一共12页，分级为 一般向
+
 ## Staff
 : 縛 (未找到链接)
+
 
 ## 评论
 

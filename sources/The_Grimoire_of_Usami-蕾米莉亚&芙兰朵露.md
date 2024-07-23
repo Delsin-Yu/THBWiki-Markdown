@@ -14,7 +14,7 @@ The_Grimoire_of_Usami | 使用了翻译表的页面 | 宇佐见的魔法书 | �
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./The_Grimoire_of_Usami-大会结束记录.md" title="The Grimoire of Usami/大会结束记录">大会结束记录</a>&#160;
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="/%E5%AE%87%E4%BD%90%E8%A7%81%E7%9A%84%E9%AD%94%E6%B3%95%E4%B9%A6" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a>&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="./宇佐见的魔法书.md" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a>&#160;
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">&#160;<a href="./The_Grimoire_of_Usami-永琳&辉夜.md" title="The Grimoire of Usami/永琳&amp;辉夜">永琳&amp;辉夜</a>
 </td>
@@ -25,7 +25,7 @@ The_Grimoire_of_Usami | 使用了翻译表的页面 | 宇佐见的魔法书 | �
 </center>
 <center>第152页</center>
 
-<table><tbody><tr align="left" valign="top"><td style="min-width:200px;"><div class="tt-zhh tt-type-setting" lang="zh"><div class="poem"><a href="/%E7%BA%A2%E9%AD%94%E7%AC%A6%E3%80%8CBloody_Catastrophe%E3%80%8D" class="mw-redirect" title="红魔符「Bloody Catastrophe」">红魔符「Bloody Catastrophe」</a></div></div><div class="tt-zh tt-type-setting" lang="zh"><div class="poem">使用者：<a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚</a>&amp;<a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露</a></div></div><div class="tt-header tt-type-setting" lang="zh"><div class="poem">十六夜咲夜</div></div><div class="tt-zh tt-type-setting" lang="zh"><div class="poem">哎呀呀，这两位也来了呢。虽然出水的弹幕很多比较危险……</div></div><div class="tt-header tt-type-setting" lang="zh"><div class="poem">雾雨魔理沙</div></div><div class="tt-zh tt-type-setting" lang="zh"><div class="poem">那对姐妹，感情有那么好的吗？</div></div></td><td width="200px"><div class="thumb tleft"><div class="thumbinner" style="width:202px;"><a href="./文件-The_Grimoire_of_Usami（蕾米莉亚&芙兰朵露1）.jpg.md" class="image"><img alt="" src="https://upload.thwiki.cc/thumb/b/b9/The_Grimoire_of_Usami%EF%BC%88%E8%95%BE%E7%B1%B3%E8%8E%89%E4%BA%9A%26%E8%8A%99%E5%85%B0%E6%9C%B5%E9%9C%B21%EF%BC%89.jpg/200px-The_Grimoire_of_Usami%EF%BC%88%E8%95%BE%E7%B1%B3%E8%8E%89%E4%BA%9A%26%E8%8A%99%E5%85%B0%E6%9C%B5%E9%9C%B21%EF%BC%89.jpg" decoding="async" loading="lazy" width="200" height="284" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/b/b9/The_Grimoire_of_Usami%EF%BC%88%E8%95%BE%E7%B1%B3%E8%8E%89%E4%BA%9A%26%E8%8A%99%E5%85%B0%E6%9C%B5%E9%9C%B21%EF%BC%89.jpg/300px-The_Grimoire_of_Usami%EF%BC%88%E8%95%BE%E7%B1%B3%E8%8E%89%E4%BA%9A%26%E8%8A%99%E5%85%B0%E6%9C%B5%E9%9C%B21%EF%BC%89.jpg 1.5x, https://upload.thwiki.cc/thumb/b/b9/The_Grimoire_of_Usami%EF%BC%88%E8%95%BE%E7%B1%B3%E8%8E%89%E4%BA%9A%26%E8%8A%99%E5%85%B0%E6%9C%B5%E9%9C%B21%EF%BC%89.jpg/400px-The_Grimoire_of_Usami%EF%BC%88%E8%95%BE%E7%B1%B3%E8%8E%89%E4%BA%9A%26%E8%8A%99%E5%85%B0%E6%9C%B5%E9%9C%B21%EF%BC%89.jpg 2x" data-file-width="1266" data-file-height="1800"></a>  <div class="thumbcaption"><div class="magnify"><a href="./文件-The_Grimoire_of_Usami（蕾米莉亚&芙兰朵露1）.jpg.md" class="internal" title="放大"></a></div>P152</div></div></div></td></tr></tbody></table>
+<table><tbody><tr align="left" valign="top"><td style="min-width:200px;"><div class="tt-zhh tt-type-setting" lang="zh"><div class="poem"><a href="./红魔符「Bloody_Catastrophe」.md" class="mw-redirect" title="红魔符「Bloody Catastrophe」">红魔符「Bloody Catastrophe」</a></div></div><div class="tt-zh tt-type-setting" lang="zh"><div class="poem">使用者：<a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚</a>&amp;<a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露</a></div></div><div class="tt-header tt-type-setting" lang="zh"><div class="poem">十六夜咲夜</div></div><div class="tt-zh tt-type-setting" lang="zh"><div class="poem">哎呀呀，这两位也来了呢。虽然出水的弹幕很多比较危险……</div></div><div class="tt-header tt-type-setting" lang="zh"><div class="poem">雾雨魔理沙</div></div><div class="tt-zh tt-type-setting" lang="zh"><div class="poem">那对姐妹，感情有那么好的吗？</div></div></td><td width="200px"><div class="thumb tleft"><div class="thumbinner" style="width:202px;"><a href="./文件-The_Grimoire_of_Usami（蕾米莉亚&芙兰朵露1）.jpg.md" class="image"><img alt="" src="https://upload.thwiki.cc/thumb/b/b9/The_Grimoire_of_Usami%EF%BC%88%E8%95%BE%E7%B1%B3%E8%8E%89%E4%BA%9A%26%E8%8A%99%E5%85%B0%E6%9C%B5%E9%9C%B21%EF%BC%89.jpg/200px-The_Grimoire_of_Usami%EF%BC%88%E8%95%BE%E7%B1%B3%E8%8E%89%E4%BA%9A%26%E8%8A%99%E5%85%B0%E6%9C%B5%E9%9C%B21%EF%BC%89.jpg" decoding="async" loading="lazy" width="200" height="284" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/b/b9/The_Grimoire_of_Usami%EF%BC%88%E8%95%BE%E7%B1%B3%E8%8E%89%E4%BA%9A%26%E8%8A%99%E5%85%B0%E6%9C%B5%E9%9C%B21%EF%BC%89.jpg/300px-The_Grimoire_of_Usami%EF%BC%88%E8%95%BE%E7%B1%B3%E8%8E%89%E4%BA%9A%26%E8%8A%99%E5%85%B0%E6%9C%B5%E9%9C%B21%EF%BC%89.jpg 1.5x, https://upload.thwiki.cc/thumb/b/b9/The_Grimoire_of_Usami%EF%BC%88%E8%95%BE%E7%B1%B3%E8%8E%89%E4%BA%9A%26%E8%8A%99%E5%85%B0%E6%9C%B5%E9%9C%B21%EF%BC%89.jpg/400px-The_Grimoire_of_Usami%EF%BC%88%E8%95%BE%E7%B1%B3%E8%8E%89%E4%BA%9A%26%E8%8A%99%E5%85%B0%E6%9C%B5%E9%9C%B21%EF%BC%89.jpg 2x" data-file-width="1266" data-file-height="1800"></a>  <div class="thumbcaption"><div class="magnify"><a href="./文件-The_Grimoire_of_Usami（蕾米莉亚&芙兰朵露1）.jpg.md" class="internal" title="放大"></a></div>P152</div></div></div></td></tr></tbody></table>
 
 
 
@@ -37,7 +37,7 @@ The_Grimoire_of_Usami | 使用了翻译表的页面 | 宇佐见的魔法书 | �
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./The_Grimoire_of_Usami-大会结束记录.md" title="The Grimoire of Usami/大会结束记录">大会结束记录</a>&#160;
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="/%E5%AE%87%E4%BD%90%E8%A7%81%E7%9A%84%E9%AD%94%E6%B3%95%E4%B9%A6" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a>&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="./宇佐见的魔法书.md" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a>&#160;
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">&#160;<a href="./The_Grimoire_of_Usami-永琳&辉夜.md" title="The Grimoire of Usami/永琳&amp;辉夜">永琳&amp;辉夜</a>
 </td>
@@ -46,6 +46,7 @@ The_Grimoire_of_Usami | 使用了翻译表的页面 | 宇佐见的魔法书 | �
 
   
 </center>
+
 
 ## 词条导航
   

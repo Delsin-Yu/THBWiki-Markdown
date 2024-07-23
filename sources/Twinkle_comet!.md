@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Twinkle_comet!封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/4/40/Twinkle_comet%21%E5%B0%81%E9%9D%A2.jpg/252px-Twinkle_comet%21%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="252" srcset="https://upload.thwiki.cc/thumb/4/40/Twinkle_comet%21%E5%B0%81%E9%9D%A2.jpg/378px-Twinkle_comet%21%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/4/40/Twinkle_comet%21%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="500" data-file-height="500"></a><div class="cover-char">角色：<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a></div></td>
@@ -18,6 +19,7 @@ Twinkle comet!（同人专辑，Rigune，2019） - 2019年8月12日 由 Rigune �
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">授权代理</td><td colspan="2"><a rel="nofollow" class="external text" href="https://booth.pm/zh-cn/items/1507372">Booth</a></td></tr></tbody></table>
 
 
+
 ## Staff
   
  **Arrangement**   
@@ -28,16 +30,19 @@ Twinkle comet!（同人专辑，Rigune，2019） - 2019年8月12日 由 Rigune �
 Illustration
 : よぽん男爵
 
+
 ## 试听
   
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/662828909&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=false"></iframe>
 
   
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Swinging_Wing" colspan="2" class="title">Swinging Wing<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Palon&amp;ogmusic=風神少女&amp;fromwiki=Twinkle_comet!"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:07</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=Palon&amp;action=edit&amp;redlink=1" class="new" title="Palon（页面不存在）">Palon</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Palon&amp;fromwiki=Twinkle_comet!"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=風神少女&amp;fromwiki=Twinkle_comet!"><span></span></a></span><div class="ogmusic"><a href="/%E9%A2%A8%E7%A5%9E%E5%B0%91%E5%A5%B3" class="mw-redirect" title="風神少女">風神少女</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E6%96%87%E8%8A%B1%E5%B8%96_%EF%BD%9E_Shoot_the_Bullet." class="mw-redirect" title="东方文花帖 ～ Shoot the Bullet.">东方文花帖　～ Shoot the Bullet.</a></div></td></tr>
-<tr><td id="2" class="infoYD"><b>02</b></td><td id="Twinkle_comet!" colspan="2" class="title">Twinkle comet!<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Palon&amp;ogmusic=恋色マスタースパーク&amp;fromwiki=Twinkle_comet!"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:30</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=Palon&amp;action=edit&amp;redlink=1" class="new" title="Palon（页面不存在）">Palon</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Palon&amp;fromwiki=Twinkle_comet!"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=恋色マスタースパーク&amp;fromwiki=Twinkle_comet!"><span></span></a></span><div class="ogmusic"><a href="/%E6%81%8B%E8%89%B2%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%B9%E3%83%91%E3%83%BC%E3%82%AF" class="mw-redirect" title="恋色マスタースパーク">恋色マスタースパーク</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E6%B0%B8%E5%A4%9C%E6%8A%84_%EF%BD%9E_Imperishable_Night." class="mw-redirect" title="东方永夜抄 ～ Imperishable Night.">东方永夜抄　～ Imperishable Night.</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Swinging_Wing" colspan="2" class="title">Swinging Wing<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Palon&amp;ogmusic=風神少女&amp;fromwiki=Twinkle_comet!"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:07</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=Palon&amp;action=edit&amp;redlink=1" class="new" title="Palon（页面不存在）">Palon</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Palon&amp;fromwiki=Twinkle_comet!"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=風神少女&amp;fromwiki=Twinkle_comet!"><span></span></a></span><div class="ogmusic"><a href="./風神少女.md" class="mw-redirect" title="風神少女">風神少女</a></div><div class="source"><a href="./东方文花帖_～_Shoot_the_Bullet..md" class="mw-redirect" title="东方文花帖 ～ Shoot the Bullet.">东方文花帖　～ Shoot the Bullet.</a></div></td></tr>
+<tr><td id="2" class="infoYD"><b>02</b></td><td id="Twinkle_comet!" colspan="2" class="title">Twinkle comet!<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Palon&amp;ogmusic=恋色マスタースパーク&amp;fromwiki=Twinkle_comet!"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:30</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=Palon&amp;action=edit&amp;redlink=1" class="new" title="Palon（页面不存在）">Palon</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Palon&amp;fromwiki=Twinkle_comet!"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=恋色マスタースパーク&amp;fromwiki=Twinkle_comet!"><span></span></a></span><div class="ogmusic"><a href="./恋色マスタースパーク.md" class="mw-redirect" title="恋色マスタースパーク">恋色マスタースパーク</a></div><div class="source"><a href="./东方永夜抄_～_Imperishable_Night..md" class="mw-redirect" title="东方永夜抄 ～ Imperishable Night.">东方永夜抄　～ Imperishable Night.</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

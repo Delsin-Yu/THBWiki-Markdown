@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Snowdrop（アオイツキヲミテタ）封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/b/b5/Snowdrop%EF%BC%88%E3%82%A2%E3%82%AA%E3%82%A4%E3%83%84%E3%82%AD%E3%83%B2%E3%83%9F%E3%83%86%E3%82%BF%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/224px-Snowdrop%EF%BC%88%E3%82%A2%E3%82%AA%E3%82%A4%E3%83%84%E3%82%AD%E3%83%B2%E3%83%9F%E3%83%86%E3%82%BF%EF%BC%89%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="148" srcset="https://upload.thwiki.cc/thumb/b/b5/Snowdrop%EF%BC%88%E3%82%A2%E3%82%AA%E3%82%A4%E3%83%84%E3%82%AD%E3%83%B2%E3%83%9F%E3%83%86%E3%82%BF%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/336px-Snowdrop%EF%BC%88%E3%82%A2%E3%82%AA%E3%82%A4%E3%83%84%E3%82%AD%E3%83%B2%E3%83%9F%E3%83%86%E3%82%BF%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/b/b5/Snowdrop%EF%BC%88%E3%82%A2%E3%82%AA%E3%82%A4%E3%83%84%E3%82%AD%E3%83%B2%E3%83%9F%E3%83%86%E3%82%BF%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/448px-Snowdrop%EF%BC%88%E3%82%A2%E3%82%AA%E3%82%A4%E3%83%84%E3%82%AD%E3%83%B2%E3%83%9F%E3%83%86%E3%82%BF%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="620" data-file-height="410"></a></td>
@@ -18,7 +19,9 @@ Snowdrop（同人专辑，アオイツキヲミテタ，2016） - 2016年4月2�
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://363.booth.pm/items/226165">Booth（数字版）</a></td></tr></tbody></table>
 
 
+
 ## Staff
+
 ## 试听
   
 BOOTH试听   
@@ -26,10 +29,12 @@ BOOTH试听
 
   
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="info"><b>01</b></td><td id="Snowdrop" colspan="2" class="title">Snowdrop<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=無何有の郷　～ Deep Mountain&amp;fromwiki=Snowdrop（アオイツキヲミテタ）"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=無何有の郷　～ Deep Mountain&amp;fromwiki=Snowdrop（アオイツキヲミテタ）"><span></span></a></span><div class="ogmusic"><a href="/%E7%84%A1%E4%BD%95%E6%9C%89%E3%81%AE%E9%83%B7_%EF%BD%9E_Deep_Mountain" class="mw-redirect" title="無何有の郷 ～ Deep Mountain">無何有の郷　～ Deep Mountain</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E5%A6%96%E5%A6%96%E6%A2%A6_%EF%BD%9E_Perfect_Cherry_Blossom." class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr>
-<tr><td id="2" class="info"><b>02</b></td><td id="破鏡重ねて照らさず、落花枝に上り難し。" colspan="2" class="title">破鏡重ねて照らさず、落花枝に上り難し。<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=フォールオブフォール　～ 秋めく滝&amp;fromwiki=Snowdrop（アオイツキヲミテタ）"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=フォールオブフォール　～ 秋めく滝&amp;fromwiki=Snowdrop（アオイツキヲミテタ）"><span></span></a></span><div class="ogmusic"><a href="/%E3%83%95%E3%82%A9%E3%83%BC%E3%83%AB%E3%82%AA%E3%83%96%E3%83%95%E3%82%A9%E3%83%BC%E3%83%AB_%EF%BD%9E_%E7%A7%8B%E3%82%81%E3%81%8F%E6%BB%9D" class="mw-redirect" title="フォールオブフォール ～ 秋めく滝">フォールオブフォール　～ 秋めく滝</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E9%A3%8E%E7%A5%9E%E5%BD%95_%EF%BD%9E_Mountain_of_Faith." class="mw-redirect" title="东方风神录 ～ Mountain of Faith.">东方风神录　～ Mountain of Faith.</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="info"><b>01</b></td><td id="Snowdrop" colspan="2" class="title">Snowdrop<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=無何有の郷　～ Deep Mountain&amp;fromwiki=Snowdrop（アオイツキヲミテタ）"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=無何有の郷　～ Deep Mountain&amp;fromwiki=Snowdrop（アオイツキヲミテタ）"><span></span></a></span><div class="ogmusic"><a href="./無何有の郷_～_Deep_Mountain.md" class="mw-redirect" title="無何有の郷 ～ Deep Mountain">無何有の郷　～ Deep Mountain</a></div><div class="source"><a href="./东方妖妖梦_～_Perfect_Cherry_Blossom..md" class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr>
+<tr><td id="2" class="info"><b>02</b></td><td id="破鏡重ねて照らさず、落花枝に上り難し。" colspan="2" class="title">破鏡重ねて照らさず、落花枝に上り難し。<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=フォールオブフォール　～ 秋めく滝&amp;fromwiki=Snowdrop（アオイツキヲミテタ）"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=フォールオブフォール　～ 秋めく滝&amp;fromwiki=Snowdrop（アオイツキヲミテタ）"><span></span></a></span><div class="ogmusic"><a href="./フォールオブフォール_～_秋めく滝.md" class="mw-redirect" title="フォールオブフォール ～ 秋めく滝">フォールオブフォール　～ 秋めく滝</a></div><div class="source"><a href="./东方风神录_～_Mountain_of_Faith..md" class="mw-redirect" title="东方风神录 ～ Mountain of Faith.">东方风神录　～ Mountain of Faith.</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

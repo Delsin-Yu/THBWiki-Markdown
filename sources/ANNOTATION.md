@@ -9,6 +9,7 @@
 本作品部分内容由 **人工智能辅助创作** ，  
 可能存在准确性及知识产权等问题，请注意甄别。  
 涉及部分： **插画** 
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-ANNOTATION封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/b/be/ANNOTATION%E5%B0%81%E9%9D%A2.jpg/139px-ANNOTATION%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="139" height="196" srcset="https://upload.thwiki.cc/thumb/b/be/ANNOTATION%E5%B0%81%E9%9D%A2.jpg/208px-ANNOTATION%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/b/be/ANNOTATION%E5%B0%81%E9%9D%A2.jpg/277px-ANNOTATION%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="849" data-file-height="1200"></a><div class="cover-char">角色：<a href="./古明地恋.md" title="古明地恋">古明地恋</a></div></td>
@@ -21,10 +22,13 @@ ANNOTATION（同人志，朱山羊サクリファイス，2022） - 2022年10月
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=1682094">蜜瓜</a></td></tr></tbody></table>
 
 
+
 ## 预览
+
 ## Staff
 - 朱崎 紫童 (未找到链接) (* with Midjourney assistance)
 - L4ID_B4CK (未找到链接) （guest; [Twitter: @L4ID_B4CK](https://twitter.com/L4ID_B4CK)）
+
 
 ## 评论
 

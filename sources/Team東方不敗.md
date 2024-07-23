@@ -4,7 +4,8 @@
 
 Team東方不敗 ，主要制作 同人志 的日本同人社团，主催是 小龍，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -20,17 +21,21 @@ Team東方不敗 ，主要制作 同人志 的日本同人社团，主催是 小
 
 
 
+
 ## 社团信息
 文件:Team東方不敗banner.jpg (未找到链接)  banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Team東方不敗 </td></tr><tr><td><b>主要作品类型</b></td><td>同人志</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="./小龍.md" title="小龍">小龍</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="https://twitter.com/xiaolong_TTF">https://twitter.com/xiaolong_TTF</a> <br><a rel="nofollow" class="external free" href="http://benikawa.official.jp/">http://benikawa.official.jp/</a> <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span></td></tr></tbody></table>
 
 Team東方不敗（同人社团，同人志社团） - Team東方不敗 ，主要制作 同人志 的日本同人社团，主催是 小龍，当前状态为 活动
+
 ## 成员名单
 - [小龍](./小龍.md)
 - 紅川寅丸 (未找到链接)（共同组成社团[紅川寅丸とTeam東方不敗](./紅川寅丸とTeam東方不敗.md)）
 
+
 ## 作品列表
+
 ### 同人志
 美鈴とメイド妖精りびるど 封面图片 (未找到链接)美鈴とメイド妖精りびるど (未找到链接)首发日期：未知 - 小鼠奮闘記 封面图片 (未找到链接)小鼠奮闘記 (未找到链接)首发日期：未知 - 宝塔の精ナズリンちゃん 封面图片 (未找到链接)宝塔の精ナズリンちゃん (未找到链接)首发日期：未知 - クラウンピースの学園天国 封面图片 (未找到链接)クラウンピースの学園天国 (未找到链接)首发日期：未知 - ったく妖精って奴らは！ 封面图片 (未找到链接)ったく妖精って奴らは！ (未找到链接)首发日期：未知 - 大ちゃんとレティ姉さん 封面图片 (未找到链接)大ちゃんとレティ姉さん (未找到链接)首发日期：未知 - おかいものびより 封面图片 (未找到链接)おかいものびより (未找到链接)首发日期：未知 - だから妖精って奴らは・・・ 封面图片 (未找到链接)だから妖精って奴らは・・・ (未找到链接)首发日期：未知 - やっぱり妖精って奴らは！！ 封面图片 (未找到链接)やっぱり妖精って奴らは！！ (未找到链接)首发日期：未知 - やっぱり大妖精って　春夏編 封面图片 (未找到链接)やっぱり大妖精って 春夏編 (未找到链接)首发日期：未知 - 宵闇妖怪奇譚 封面图片 (未找到链接)宵闇妖怪奇譚 (未找到链接)首发日期：未知 - 大ちゃんえぶりでい 封面图片 (未找到链接)大ちゃんえぶりでい (未找到链接)首发日期：未知 - 小ちゃんとシロちゃんとフランちゃん 封面图片 (未找到链接)小ちゃんとシロちゃんとフランちゃん (未找到链接)首发日期：未知 - 大妖精三姉妹の日常 封面图片 (未找到链接)大妖精三姉妹の日常 (未找到链接)首发日期：未知 - 小さな大妖精と春告精 封面图片 (未找到链接)小さな大妖精と春告精 (未找到链接)首发日期：未知 - 妖精達は会議中 封面图片 (未找到链接)妖精達は会議中 (未找到链接)首发日期：未知 - フランちゃんとシロちゃんと小ちゃんと美鈴さん 封面图片 (未找到链接)フランちゃんとシロちゃんと小ちゃんと美鈴さん (未找到链接)首发日期：未知 - それでも妖精って奴らは！ 封面图片 (未找到链接)それでも妖精って奴らは！ (未找到链接)首发日期：未知 - 有閑少女隊　総集編4 封面图片 (未找到链接)有閑少女隊 総集編4 (未找到链接)首发日期：未知 - すすめ！！　春告隊 封面图片 (未找到链接)すすめ！！ 春告隊 (未找到链接)首发日期：未知 - 大妖精s'合同誌発行準備号 封面图片 (未找到链接)大妖精s'合同誌発行準備号 (未找到链接)首发日期：未知 - お嬢さまとところてん 封面图片 (未找到链接)お嬢さまとところてん (未找到链接)首发日期：未知 - 大妖精s'三姉妹は今日も元気！！ 封面图片 (未找到链接)大妖精s'三姉妹は今日も元気！！ (未找到链接)首发日期：未知 - Three Lunate Elves 封面图片 (未找到链接)Three Lunate Elves (未找到链接)首发日期：未知 - お嬢さまは休暇中 封面图片 (未找到链接)お嬢さまは休暇中 (未找到链接)首发日期：未知 - 幻想郷に四季が来る！ 封面图片 (未找到链接)幻想郷に四季が来る！ (未找到链接)首发日期：未知 - 秋神さまと妖精と 封面图片 (未找到链接)秋神さまと妖精と (未找到链接)首发日期：未知 - 
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -60,6 +65,7 @@ Team東方不敗（同人社团，同人志社团） - Team東方不敗 ，主�
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458"></table>
+
 
 
 ## 参展信息

@@ -4,7 +4,8 @@
 
 Mundi renovatio ，于 2009 年成立，主要制作 同人音乐 的日本同人社团，主催是 潤 (じゅん)，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -15,12 +16,14 @@ Mundi renovatio ，于 2009 年成立，主要制作 同人音乐 的日本同�
 
 
 
+
 ## 社团信息
 [](./文件-Mundi_renovatiobanner.jpg.md)  [](./文件-Mundi_renovatiobanner.jpg.md)banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Mundi renovatio </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2009</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=%E6%BD%A4_(%E3%81%98%E3%82%85%E3%82%93)&amp;action=edit&amp;redlink=1" class="new" title="潤 (じゅん)（页面不存在）">潤 (じゅん)</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://mundirenovatio.com">http://mundirenovatio.com</a> </td></tr></tbody></table>
 
 Mundi renovatio（同人社团，同人音乐社团） - Mundi renovatio ，于 2009 年成立，主要制作 同人音乐 的日本同人社团，主催是 潤 (じゅん)，当前状态为 活动
+
 ## 成员名单
 低音部
 : 潤 (じゅん)
@@ -28,6 +31,7 @@ Mundi renovatio（同人社团，同人音乐社团） - Mundi renovatio ，于 
 : あいしゃ
 高音部
 : はじめ
+
 
 ## 作品列表
 [](./to_the_deep.md)[to the deep](./to_the_deep.md)首发日期：2010-07-11 Demo （一般向）[](./ecclesia_magarum.md)[ecclesia magarum](./ecclesia_magarum.md)首发日期：2010-08-14 （Comic Market 78 (未找到链接)）全长、​配音作品 （一般向）[](./チルドレンズコーナー.md)[チルドレンズコーナー](./チルドレンズコーナー.md)首发日期：2011-04-03 （新潟東方祭⑨ (未找到链接)）全长、​配音作品 （一般向）
@@ -37,6 +41,7 @@ Mundi renovatio（同人社团，同人音乐社团） - Mundi renovatio ，于 
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 其他信息

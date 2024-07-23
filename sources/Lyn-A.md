@@ -6,11 +6,13 @@
 
 本页是关于东方Project  
  **二次同人创作者** 的词条
+
 ## 基本信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="label"><b>名称</b></td><td> Lyn-A </td></tr><tr><td class="label"><b>别名</b></td><td>りんあ</td></tr><tr><td class="label"><b>所属社团</b></td><td><b>当前</b><div style="margin-left:2em;"><a href="./Crest.md" title="Crest">Crest</a></div></td></tr><tr><td class="label"><b>职位</b></td><td>演唱，作词</td></tr><tr><td class="label"><b>参与社团</b></td><td><a href="./Applice.md" title="Applice">Applice</a> （演唱）<br><a href="./Crest.md" title="Crest">Crest</a> （演唱，作词）<br><a href="./DDBY.md" title="DDBY">DDBY</a> （演唱，作词）<br><a href="./領域ZERO.md" title="領域ZERO">領域ZERO</a> （演唱）</td></tr><tr><td class="label"><b>性别</b></td><td>女</td></tr><tr><td class="label"><b>个人页面</b></td><td><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><b>Blog</b></td><td><a rel="nofollow" class="external free" href="https://ameblo.jp/lyn-a/">https://ameblo.jp/lyn-a/</a></td></tr><tr><td><b>Twitter</b></td><td><a rel="nofollow" class="external free" href="https://twitter.com/oolyn_aoo">https://twitter.com/oolyn_aoo</a></td></tr></tbody></table></td></tr></tbody></table>
 
 Lyn-A（人物） - 现实人物
+
 ## 介绍
 - 在[Crest](./Crest.md)担任演唱和法语作词。
 

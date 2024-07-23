@@ -4,7 +4,8 @@
 
 CLOCKWORKS TRACER ，于 2012 年成立，主要制作 同人音乐 的日本同人社团，主催是 やーぱん，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -16,15 +17,18 @@ CLOCKWORKS TRACER ，于 2012 年成立，主要制作 同人音乐 的日本同
 
 
 
+
 ## 社团信息
 [](./文件-CLOCKWORKS_TRACERbanner.jpg.md)  [](./文件-CLOCKWORKS_TRACERbanner.jpg.md)banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> CLOCKWORKS TRACER </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2012</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=%E3%82%84%E3%83%BC%E3%81%B1%E3%82%93&amp;action=edit&amp;redlink=1" class="new" title="やーぱん（页面不存在）">やーぱん</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://clockworkstracer.com">http://clockworkstracer.com</a> </td></tr></tbody></table>
 
 CLOCKWORKS TRACER（同人社团，同人音乐社团） - CLOCKWORKS TRACER ，于 2012 年成立，主要制作 同人音乐 的日本同人社团，主催是 やーぱん，当前状态为 活动
+
 ## 成员名单
 - やーぱん (未找到链接)
 - WeatherH (未找到链接)
+
 
 ## 作品列表
 [](./my_sweet_DYSTOPIA.md)[my sweet DYSTOPIA](./my_sweet_DYSTOPIA.md)首发日期：2012-05-27 （第九回 博麗神社例大祭 (未找到链接)）CLST-0001全长 （一般向）[](./Ephemeria_e.p..md)[Ephemeria e.p.](./Ephemeria_e.p..md)首发日期：2012-08-11 （Comic Market 82 (未找到链接)）CLST-0002EP （一般向）[](./Disharmonized_Genesis.md)[Disharmonized Genesis](./Disharmonized_Genesis.md)首发日期：2012-10-28 （M3-2012秋 (未找到链接)）CTFA-0001合作 （一般向）该作品是与 [Further Ahead Of Warp](./Further_Ahead_Of_Warp.md) 合作创作的[](./Shangri-la_In_Bloom.md)[Shangri-la In Bloom](./Shangri-la_In_Bloom.md)首发日期：2013-05-26 （第十回 博麗神社例大祭 (未找到链接)）CLST-0003全长 （一般向）[](./Serenitia_e.p..md)[Serenitia e.p.](./Serenitia_e.p..md)首发日期：2013-08-12 （Comic Market 84 (未找到链接)）CLST-0004EP （一般向）[](./Over_The_Mythologia.md)[Over The Mythologia](./Over_The_Mythologia.md)首发日期：2013-12-30 （Comic Market 85 (未找到链接)）CLST-0005全长 （一般向）[](./Eschatologia_e.p..md)[Eschatologia e.p.](./Eschatologia_e.p..md)首发日期：2014-05-11 （第十一回 博麗神社例大祭 (未找到链接)）CLST-0006EP （一般向）[](./Return_To_Forsetia.md)[Return To Forsetia](./Return_To_Forsetia.md)首发日期：2015-05-10 （第十二回 博麗神社例大祭 (未找到链接)）CLST-0007全长 （一般向）[](./My_Shatterd_Circles.md)[My Shatterd Circles](./My_Shatterd_Circles.md)首发日期：2015-12-30 （Comic Market 89 (未找到链接)）单曲 （一般向）[](./Perish_In_Polaritia.md)[Perish In Polaritia](./Perish_In_Polaritia.md)首发日期：2016-08-13 （Comic Market 90 (未找到链接)）CLST-0009全长 （一般向）[](./第十四回博麗神社例大祭_Exclusive_Demo_CD.md)[第十四回博麗神社例大祭 Exclusive Demo CD](./第十四回博麗神社例大祭_Exclusive_Demo_CD.md)首发日期：2017-05-07 （第十四回 博麗神社例大祭 (未找到链接)）Demo （一般向）
@@ -52,9 +56,11 @@ CLOCKWORKS TRACER（同人社团，同人音乐社团） - CLOCKWORKS TRACER ，
 </table>
 
 
+
 ## 相关社团
 Further Ahead Of Warp
 : 两个社团的主催组成了社团[Masterpieces For Our Struggle](./Masterpieces_For_Our_Struggle.md)。
+
 
 ## 参展信息
 

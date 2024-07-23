@@ -9,6 +9,7 @@ Dream_Compass | 使用了翻译表的页面
 
   
 
+
 ## 目录
 
 - [1 自机](#自机)
@@ -26,7 +27,9 @@ Dream_Compass | 使用了翻译表的页面
 
 
 
+
 ## 自机
+
 ### 博丽灵梦
 
 
@@ -45,6 +48,7 @@ Focused<b></b></td></tr><tr><td style="min-width:125px">通常射击<b></b></td>
 追踪型<b></b></td><td style="min-width:150px" colspan="2" align="center" lang="ja">Type B<br>
 Homing<b></b></td></tr><tr><td style="min-width:125px">通常射击<b></b></td><td style="min-width:125px">追踪护符</td><td style="min-width:100px" lang="ja">Homing Amulet</td></tr><tr><td style="min-width:125px">符卡<b></b></td><td style="min-width:125px">灵符「梦想封印」</td><td style="min-width:100px" lang="ja">Spirit Sign「Fantasy Seal」</td></tr>
 <tr><td style="min-width:200px" colspan="2" align="center"><b>特殊符卡</b></td><td style="min-width:150px" colspan="2" align="center" lang="ja"><b>Overdrive</b></td></tr><tr><td style="min-width:125px"><b>Overdrive</b></td><td style="min-width:125px">化灵「梦想封印 儚」</td><td style="min-width:100px" lang="ja">Changing Spirit「Fantasy Seal -Transient-」</td></tr></tbody></table>
+
 
 
 ### 雾雨魔理沙
@@ -66,6 +70,7 @@ Piercing<b></b></td></tr><tr><td style="min-width:125px">通常射击<b></b></td
 <tr><td style="min-width:200px" colspan="2" align="center"><b>特殊符卡</b></td><td style="min-width:150px" colspan="2" align="center" lang="ja"><b>Overdrive</b></td></tr><tr><td style="min-width:125px"><b>Overdrive</b></td><td style="min-width:125px">超星「银河之愿」</td><td style="min-width:100px" lang="ja">Super Star「Milky Way Wish」</td></tr></tbody></table>
 
 
+
 ### 东风谷早苗
 
 <table><tbody><tr><td><div class="center"><div class="floatnone"><a href="./文件-东风谷早苗（催狐谭）.png.md" class="image" title="大地维系的现人神 东风谷早苗"><img alt="大地维系的现人神 东风谷早苗" src="https://upload.thwiki.cc/thumb/8/81/%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97%EF%BC%88%E5%82%AC%E7%8B%90%E8%B0%AD%EF%BC%89.png/40px-%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97%EF%BC%88%E5%82%AC%E7%8B%90%E8%B0%AD%EF%BC%89.png" decoding="async" loading="lazy" width="40" height="40" srcset="https://upload.thwiki.cc/thumb/8/81/%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97%EF%BC%88%E5%82%AC%E7%8B%90%E8%B0%AD%EF%BC%89.png/60px-%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97%EF%BC%88%E5%82%AC%E7%8B%90%E8%B0%AD%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/8/81/%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97%EF%BC%88%E5%82%AC%E7%8B%90%E8%B0%AD%EF%BC%89.png/80px-%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97%EF%BC%88%E5%82%AC%E7%8B%90%E8%B0%AD%EF%BC%89.png 2x" data-file-width="512" data-file-height="512"></a></div></div></td> <td style="width:150px;padding:3px 9px 3px 7px;">大地维系的现人神</td><td style="width:180px;padding:3px 9px 3px 7px;" rowspan="1"><a href="./东风谷早苗.md" title="东风谷早苗">东风谷早苗</a></td></tr></tbody></table>
@@ -83,6 +88,7 @@ Pivoting<b></b></td></tr><tr><td style="min-width:125px">通常射击<b></b></td
 广泛型<b></b></td><td style="min-width:150px" colspan="2" align="center" lang="ja">Type B<br>
 Wildspread<b></b></td></tr><tr><td style="min-width:125px">通常射击<b></b></td><td style="min-width:125px">钴蓝散射</td><td style="min-width:100px" lang="ja">Cobalt Spread</td></tr><tr><td style="min-width:125px">符卡<b></b></td><td style="min-width:125px">蛙符「操纵蛤蟆」</td><td style="min-width:100px" lang="ja">Frog Sigh「Wily Toad」</td></tr>
 <tr><td style="min-width:200px" colspan="2" align="center"><b>特殊符卡</b></td><td style="min-width:150px" colspan="2" align="center" lang="ja"><b>Overdrive</b></td></tr><tr><td style="min-width:125px"><b>Overdrive</b></td><td style="min-width:125px">对神「狡诈飞蛇与操纵蛤蟆」</td><td style="min-width:100px" lang="ja">Rival Gods「The Crafty Snake and the Wily Toad」</td></tr></tbody></table>
+
 
 
 ### 龙子
@@ -106,6 +112,7 @@ Unique<b></b></td></tr><tr><td style="min-width:125px">通常射击<b></b></td><
 
 
 [^cite_note-1]: 捏他游戏《口袋妖怪》龙系技能“流星群”（Draco Meteor）。
+
 
 ## 词条导航
 

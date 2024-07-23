@@ -18,6 +18,7 @@
 </center>
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 软件信息](#软件信息)
@@ -34,6 +35,7 @@
 - [6 其他资料](#其他资料)
 - [7 评论](#评论)
 - [8 词条导航](#词条导航)
+
 
 
 
@@ -56,7 +58,9 @@
 </tbody></table>
 
 
+
 ## Staff
+
 ## 游戏介绍
 
   
@@ -75,7 +79,9 @@
 - 本作目前仅发布体验版，正式版正在制作中。
 - 详细剧情参见故事背景 (未找到链接)
 
+
 ## 角色
+
 ### 自机
 
 <table><tbody><tr><td style="min-width:40px;" rowspan="2"><div class="center"><div class="floatnone"><a href="./文件-博丽灵梦&稗田阿求（资志疏）.png.md" class="image" title="令人安心的守护者「金」"><img alt="令人安心的守护者「金」" src="https://upload.thwiki.cc/thumb/a/a1/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%26%E7%A8%97%E7%94%B0%E9%98%BF%E6%B1%82%EF%BC%88%E8%B5%84%E5%BF%97%E7%96%8F%EF%BC%89.png/40px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%26%E7%A8%97%E7%94%B0%E9%98%BF%E6%B1%82%EF%BC%88%E8%B5%84%E5%BF%97%E7%96%8F%EF%BC%89.png" decoding="async" loading="lazy" width="40" height="40" srcset="https://upload.thwiki.cc/thumb/a/a1/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%26%E7%A8%97%E7%94%B0%E9%98%BF%E6%B1%82%EF%BC%88%E8%B5%84%E5%BF%97%E7%96%8F%EF%BC%89.png/60px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%26%E7%A8%97%E7%94%B0%E9%98%BF%E6%B1%82%EF%BC%88%E8%B5%84%E5%BF%97%E7%96%8F%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/a/a1/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%26%E7%A8%97%E7%94%B0%E9%98%BF%E6%B1%82%EF%BC%88%E8%B5%84%E5%BF%97%E7%96%8F%EF%BC%89.png/80px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%26%E7%A8%97%E7%94%B0%E9%98%BF%E6%B1%82%EF%BC%88%E8%B5%84%E5%BF%97%E7%96%8F%EF%BC%89.png 2x" data-file-width="1024" data-file-height="1024"></a></div></div></td> <td style="width:150px;padding:3px 9px 3px 7px;" rowspan="2">令人安心的守护者「金」</td><td style="width:180px;padding:3px 9px 3px 7px;"> <a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></td><td rowspan="2"><a href="./东方资志疏_~_Immortal_Immanuel-令人安心的守护者「金」.md" title="东方资志疏 ~ Immortal Immanuel/令人安心的守护者「金」">游戏对话/结局</a><br><a href="/index.php?title=%E4%B8%9C%E6%96%B9%E8%B5%84%E5%BF%97%E7%96%8F_~_Immortal_Immanuel/%E4%BB%A4%E4%BA%BA%E5%AE%89%E5%BF%83%E7%9A%84%E5%AE%88%E6%8A%A4%E8%80%85%E3%80%8C%E9%87%91%E3%80%8D_ExStory&amp;action=edit&amp;redlink=1" class="new" title="东方资志疏 ~ Immortal Immanuel/令人安心的守护者「金」 ExStory（页面不存在）">Extra游戏对话</a></td></tr><tr><td style="width:150px;padding:3px 9px 3px 7px;"><a href="./稗田阿求.md" title="稗田阿求">稗田阿求</a></td></tr>
@@ -85,11 +91,13 @@
 <tr><td style="min-width:40px;" rowspan="2"><div class="center"><div class="floatnone"><a href="./文件-雾雨威&罗菈（资志疏）.png.md" class="image" title="鲁道夫般清澈的拜访者「水」"><img alt="鲁道夫般清澈的拜访者「水」" src="https://upload.thwiki.cc/thumb/3/37/%E9%9B%BE%E9%9B%A8%E5%A8%81%26%E7%BD%97%E8%8F%88%EF%BC%88%E8%B5%84%E5%BF%97%E7%96%8F%EF%BC%89.png/40px-%E9%9B%BE%E9%9B%A8%E5%A8%81%26%E7%BD%97%E8%8F%88%EF%BC%88%E8%B5%84%E5%BF%97%E7%96%8F%EF%BC%89.png" decoding="async" loading="lazy" width="40" height="40" srcset="https://upload.thwiki.cc/thumb/3/37/%E9%9B%BE%E9%9B%A8%E5%A8%81%26%E7%BD%97%E8%8F%88%EF%BC%88%E8%B5%84%E5%BF%97%E7%96%8F%EF%BC%89.png/60px-%E9%9B%BE%E9%9B%A8%E5%A8%81%26%E7%BD%97%E8%8F%88%EF%BC%88%E8%B5%84%E5%BF%97%E7%96%8F%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/3/37/%E9%9B%BE%E9%9B%A8%E5%A8%81%26%E7%BD%97%E8%8F%88%EF%BC%88%E8%B5%84%E5%BF%97%E7%96%8F%EF%BC%89.png/80px-%E9%9B%BE%E9%9B%A8%E5%A8%81%26%E7%BD%97%E8%8F%88%EF%BC%88%E8%B5%84%E5%BF%97%E7%96%8F%EF%BC%89.png 2x" data-file-width="1024" data-file-height="1024"></a></div></div></td> <td style="width:150px;padding:3px 9px 3px 7px;" rowspan="2">鲁道夫般清澈的拜访者「水」</td><td style="width:180px;padding:3px 9px 3px 7px;"> <a href="./雾雨威.md" title="雾雨威">雾雨威</a></td><td rowspan="2"><a href="./东方资志疏_~_Immortal_Immanuel-鲁道夫般清澈的拜访者「水」.md" title="东方资志疏 ~ Immortal Immanuel/鲁道夫般清澈的拜访者「水」">游戏对话/结局</a><br><a href="/index.php?title=%E4%B8%9C%E6%96%B9%E8%B5%84%E5%BF%97%E7%96%8F_~_Immortal_Immanuel/%E9%B2%81%E9%81%93%E5%A4%AB%E8%88%AC%E6%B8%85%E6%BE%88%E7%9A%84%E6%8B%9C%E8%AE%BF%E8%80%85%E3%80%8C%E6%B0%B4%E3%80%8D_ExStory&amp;action=edit&amp;redlink=1" class="new" title="东方资志疏 ~ Immortal Immanuel/鲁道夫般清澈的拜访者「水」 ExStory（页面不存在）">Extra游戏对话</a></td></tr><tr><td style="width:150px;padding:3px 9px 3px 7px;"><a href="/index.php?title=%E7%BD%97%E8%8F%88&amp;action=edit&amp;redlink=1" class="new" title="罗菈（页面不存在）">罗菈</a></td></tr></tbody></table>
 
 
+
 ### BOSS
 
 <table><tbody><tr> <td class="bg-color-info-10" style="min-width:100px"><b>一面道中</b><br><i><a href="/index.php?title=%E8%8A%B1%E5%BE%84%E9%86%89%E5%B0%98%EF%BC%8C%E9%85%92%E9%A6%99%E7%BF%A9%E8%B7%B9&amp;action=edit&amp;redlink=1" class="new" title="花径醉尘，酒香翩跹（页面不存在）">花径醉尘，酒香翩跹</a></i></td> <td rowspan="2"><div class="center"><div class="floatnone"><a href="./文件-曲药赤蛊.png.md" class="image" title="曲药赤蛊"><img alt="曲药赤蛊" src="https://upload.thwiki.cc/thumb/d/d8/%E6%9B%B2%E8%8D%AF%E8%B5%A4%E8%9B%8A.png/40px-%E6%9B%B2%E8%8D%AF%E8%B5%A4%E8%9B%8A.png" decoding="async" loading="lazy" width="40" height="40" srcset="https://upload.thwiki.cc/thumb/d/d8/%E6%9B%B2%E8%8D%AF%E8%B5%A4%E8%9B%8A.png/60px-%E6%9B%B2%E8%8D%AF%E8%B5%A4%E8%9B%8A.png 1.5x, https://upload.thwiki.cc/thumb/d/d8/%E6%9B%B2%E8%8D%AF%E8%B5%A4%E8%9B%8A.png/80px-%E6%9B%B2%E8%8D%AF%E8%B5%A4%E8%9B%8A.png 2x" data-file-width="1754" data-file-height="1754"></a></div></div></td> <td style="width:150px;padding:3px 9px 3px 7px;" rowspan="2"> 腹中酒匠</td><td style="width:180px;padding:3px 9px 3px 7px;" rowspan="2"> <a href="./曲药赤蛊.md" title="曲药赤蛊">曲药赤蛊</a></td></tr><tr><td class="bg-color-info-10" style="min-width:100px"><b>一面BOSS</b><br><i><a href="/index.php?title=%E7%93%BF%E4%B8%AD%E6%B8%B8%E9%BE%99&amp;action=edit&amp;redlink=1" class="new" title="瓿中游龙（页面不存在）">瓿中游龙</a></i></td></tr>
 <tr> <td class="bg-color-info-10" style="min-width:100px"><b>二面道中</b><br><i><a href="/index.php?title=%E5%8B%BF%E5%BF%98%E8%8D%89%E4%BA%8E%E5%8E%9F%E9%87%8E%E7%9B%9B%E5%BC%80&amp;action=edit&amp;redlink=1" class="new" title="勿忘草于原野盛开（页面不存在）">勿忘草于原野盛开</a></i></td> <td rowspan="2"><div class="center"><div class="floatnone"><a href="./文件-逍遥山弥生.png.md" class="image" title="逍遥山弥生"><img alt="逍遥山弥生" src="https://upload.thwiki.cc/thumb/1/14/%E9%80%8D%E9%81%A5%E5%B1%B1%E5%BC%A5%E7%94%9F.png/40px-%E9%80%8D%E9%81%A5%E5%B1%B1%E5%BC%A5%E7%94%9F.png" decoding="async" loading="lazy" width="40" height="40" srcset="https://upload.thwiki.cc/thumb/1/14/%E9%80%8D%E9%81%A5%E5%B1%B1%E5%BC%A5%E7%94%9F.png/60px-%E9%80%8D%E9%81%A5%E5%B1%B1%E5%BC%A5%E7%94%9F.png 1.5x, https://upload.thwiki.cc/thumb/1/14/%E9%80%8D%E9%81%A5%E5%B1%B1%E5%BC%A5%E7%94%9F.png/80px-%E9%80%8D%E9%81%A5%E5%B1%B1%E5%BC%A5%E7%94%9F.png 2x" data-file-width="1754" data-file-height="1754"></a></div></div></td> <td style="width:150px;padding:3px 9px 3px 7px;" rowspan="2"> 通晓世事的逍遥客</td><td style="width:180px;padding:3px 9px 3px 7px;" rowspan="2"> <a href="./逍遥山弥生.md" title="逍遥山弥生">逍遥山弥生</a></td></tr><tr><td class="bg-color-info-10" style="min-width:100px"><b>二面BOSS</b><br><i><a href="/index.php?title=%E4%B8%96%E7%95%8C%E7%9A%84%E8%83%8C%E9%9D%A2_~_Truth_in_the_Mirror&amp;action=edit&amp;redlink=1" class="new" title="世界的背面 ~ Truth in the Mirror（页面不存在）">世界的背面 ~ Truth in the Mirror</a></i></td></tr>
 <tr> <td class="bg-color-info-10" style="min-width:100px"><b>三面道中</b><br><i><a href="/index.php?title=%E4%B8%9B%E4%BA%91%E4%B9%8B%E4%B8%8A%E6%97%A0%E9%A1%B6%E5%A4%A9&amp;action=edit&amp;redlink=1" class="new" title="丛云之上无顶天（页面不存在）">丛云之上无顶天</a></i></td> <td rowspan="2"><div class="center"><div class="floatnone"><a href="./文件-雾笛霞.png.md" class="image" title="雾笛霞"><img alt="雾笛霞" src="https://upload.thwiki.cc/thumb/3/37/%E9%9B%BE%E7%AC%9B%E9%9C%9E.png/40px-%E9%9B%BE%E7%AC%9B%E9%9C%9E.png" decoding="async" loading="lazy" width="40" height="40" srcset="https://upload.thwiki.cc/thumb/3/37/%E9%9B%BE%E7%AC%9B%E9%9C%9E.png/60px-%E9%9B%BE%E7%AC%9B%E9%9C%9E.png 1.5x, https://upload.thwiki.cc/thumb/3/37/%E9%9B%BE%E7%AC%9B%E9%9C%9E.png/80px-%E9%9B%BE%E7%AC%9B%E9%9C%9E.png 2x" data-file-width="1754" data-file-height="1754"></a></div></div></td> <td style="width:150px;padding:3px 9px 3px 7px;" rowspan="2"> 白云间的彩羽</td><td style="width:180px;padding:3px 9px 3px 7px;" rowspan="2"> <a href="./雾笛霞.md" title="雾笛霞">雾笛霞</a></td></tr><tr><td class="bg-color-info-10" style="min-width:100px"><b>三面BOSS</b><br><i><a href="/index.php?title=%E4%BA%91%E6%B5%B7%E7%AC%99%E6%AD%8C&amp;action=edit&amp;redlink=1" class="new" title="云海笙歌（页面不存在）">云海笙歌</a></i></td></tr></tbody></table>
+
 
 
 ## 附带文档
@@ -101,6 +109,7 @@
 <ul><li><a href="./东方资志疏_~_Immortal_Immanuel-游戏内Manual.md" title="东方资志疏 ~ Immortal Immanuel/游戏内Manual">游戏内Manual</a></li>
 <li><a href="./东方资志疏_~_Immortal_Immanuel-Omake.md" title="东方资志疏 ~ Immortal Immanuel/Omake">Omake</a></li></ul>
 </td></tr></tbody></table>
+
 
 
 ## 其他资料
@@ -120,7 +129,9 @@
 </td></tr></tbody></table>
 
 
+
 ## 评论
+
 ## 词条导航
   
 东方资志疏 ~ Immortal Immanuel/导航 (未找到链接)

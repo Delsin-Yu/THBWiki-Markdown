@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-HD軽量化封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/0/0b/HD%E8%BB%BD%E9%87%8F%E5%8C%96%E5%B0%81%E9%9D%A2.jpg/138px-HD%E8%BB%BD%E9%87%8F%E5%8C%96%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="138" height="196" srcset="https://upload.thwiki.cc/thumb/0/0b/HD%E8%BB%BD%E9%87%8F%E5%8C%96%E5%B0%81%E9%9D%A2.jpg/207px-HD%E8%BB%BD%E9%87%8F%E5%8C%96%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/0/0b/HD%E8%BB%BD%E9%87%8F%E5%8C%96%E5%B0%81%E9%9D%A2.jpg/276px-HD%E8%BB%BD%E9%87%8F%E5%8C%96%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="633" data-file-height="900"></a><div class="cover-char">角色：<a href="./古明地觉.md" title="古明地觉">古明地觉</a>，<a href="./圣白莲.md" title="圣白莲">圣白莲</a>，<a href="./风见幽香.md" title="风见幽香">风见幽香</a>，<a href="./火焰猫燐.md" title="火焰猫燐">火焰猫燐</a>，<a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a></div></td>
@@ -13,8 +14,10 @@
 </tr><tr><td class="label">首发日期</td><td>2014-08-16&#160;（<a href="/展会作品列表?e=Comic+Market%2386">Comic Market 86</a>）</td></tr><tr><td class="label">类型</td><td>漫画，总集</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>B5</td></tr><tr><td class="label">页数</td><td>252P</td></tr><tr><td class="label">售价</td><td>会场售价：1000日元<br>通贩售价：1477日元</td></tr></tbody></table>
 
 HD軽量化（同人志，徒歩二分，2014） - 2014年8月16日 由 徒歩二分 于 Comic Market 86 发布的漫画/总集同人志，B5尺寸一共252页，分级为 一般向
+
 ## Staff
 - [茶戸](./茶戸.md)
+
 
 ## 收录作品
 - [主神の一撃](./主神の一撃.md)
@@ -23,6 +26,7 @@ HD軽量化（同人志，徒歩二分，2014） - 2014年8月16日 由 徒歩�
 - [第零地獄](./第零地獄.md)
 - [平安京デロリアン](./平安京デロリアン.md)
 - 描き下ろし
+
 
 ## 评论
   

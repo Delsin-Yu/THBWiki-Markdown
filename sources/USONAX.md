@@ -4,7 +4,8 @@
 
 USONAX ，主要制作 同人志 的日本同人社团，主催是 山崎つくね，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -20,17 +21,21 @@ USONAX ，主要制作 同人志 的日本同人社团，主催是 山崎つく�
 
 
 
+
 ## 社团信息
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> USONAX </td></tr><tr><td><b>主要作品类型</b></td><td>同人志</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=%E5%B1%B1%E5%B4%8E%E3%81%A4%E3%81%8F%E3%81%AD&amp;action=edit&amp;redlink=1" class="new" title="山崎つくね（页面不存在）">山崎つくね</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="https://moocop.booth.pm/">https://moocop.booth.pm/</a> </td></tr></tbody></table>
 
 USONAX（同人社团，同人志社团） - USONAX ，主要制作 同人志 的日本同人社团，主催是 山崎つくね，当前状态为 活动
+
 ## 成员名单
 - 山崎つくね (未找到链接)
 
 : [Twitter: @2qune](https://twitter.com/2qune), [Pixiv ID: 11736258](https://www.pixiv.net/users/11736258)
 
+
 ## 作品列表
+
 ### 同人志
 [](./電奇SHOCK.md)[電奇SHOCK](./電奇SHOCK.md)首发日期：2021-10-24 （第八回 博麗神社秋季例大祭 (未找到链接)）画集 （一般向）A5&#160;尺寸 20&#160;页[](./アンビヴァレンツ.md)[アンビヴァレンツ](./アンビヴァレンツ.md)首发日期：2021-11-28 （東方紅楼夢17 (未找到链接)）漫画 （一般向）A5&#160;尺寸 32&#160;页[](./USONAKI.md)[USONAKI](./USONAKI.md)首发日期：2022-03-06 （マイフレンド7 (未找到链接)）画集 （一般向）B5&#160;尺寸 12&#160;页[](./dope..md)[dope.](./dope..md)首发日期：2022-05-08 （第十九回 博麗神社例大祭 (未找到链接)）画集 （一般向）B5&#160;尺寸 28&#160;页yummy! 封面图片 (未找到链接)yummy! (未找到链接)首发日期：未知 - Hanamuke 封面图片 (未找到链接)Hanamuke (未找到链接)首发日期：未知 - [](./210_IT!.md)[210 IT!](./210_IT!.md)首发日期：2023-05-07 （第二十回 博麗神社例大祭 (未找到链接)）画集 （一般向）A5&#160;尺寸 20&#160;页
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -49,6 +54,7 @@ USONAX（同人社团，同人志社团） - USONAX ，主要制作 同人志 �
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 参展信息

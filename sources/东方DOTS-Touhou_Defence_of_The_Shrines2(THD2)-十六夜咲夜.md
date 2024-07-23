@@ -164,6 +164,7 @@ AvalonStudioOfficial
 [](./文件-THD2十六夜咲夜.png.md)
   
 
+
 ## 目录
 
 - [1 角色定位](#角色定位)
@@ -184,10 +185,12 @@ AvalonStudioOfficial
 
 
 
+
 ## 角色定位
   
 核心 - 爆发 - 逃生 - 控制
   
+
 
 ## 技能介绍
 
@@ -782,6 +785,7 @@ AvalonStudioOfficial
 </td></tr></tbody></table>
 
 
+
 ## 天赋树
 
 
@@ -820,25 +824,30 @@ AvalonStudioOfficial
 </td></tr></tbody></table>
 
 
+
 ### 出门装备
 ```
 [](./文件-THD2爱人卡.png.md) [](./文件-THD2衰人卡.png.md) [](./文件-THD2妖精护符.png.md) [](./文件-THD2思兼生命药.png.md) [](./文件-THD2雾雨魔力瓶.png.md)
 ```
+
 
 ### 前期装备
 ```
 [](./文件-THD2元素秘法石.png.md) [](./文件-THD2魔法使扫把.png.md)
 ```
 
+
 ### 核心装备
 ```
 [](./文件-THD2迅捷扫把.png.md) [](./文件-THD2亡灵送行提灯.png.md) [](./文件-THD2神枪冈格尼尔.png.md) [](./文件-THD2油库里之杖.png.md)
 ```
 
+
 ### 可选装备
 ```
 [](./文件-THD2博丽神社护身符.png.md) [](./文件-THD2魔人经卷.png.md) [](./文件-THD2速融的核聚变棒.png.md) [](./文件-THD2月曜秘石.png.md) [](./文件-THD2迷你八卦炉.png.md) [](./文件-THD2破魔净灵札.png.md) [](./文件-THD2思兼生命智慧.png.md)
 ```
+
 
 ## 技能加点
 
@@ -984,6 +993,7 @@ AvalonStudioOfficial
 <td bgcolor="black" width="40px"><span style="color:black;"></span></td>
 <td bgcolor="gray" width="40px"><center><span style="color:white;"><b>25</b></span></center>
 </td></tr></tbody></table>
+
 
 
 ## 台词
@@ -1133,6 +1143,7 @@ AvalonStudioOfficial
 <td>申（もう）し訳（わけ）ございません、お嬢様（じょうさま）<br>[十分抱歉，大小姐]
 </td></tr>
 </tbody></table>
+
 
 
 ## 教学视频

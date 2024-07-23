@@ -4,6 +4,7 @@
 
 东方永夜抄 | 蠢蠢的秋月_～_Mooned_Insect
 
+
 ## 文件说明
   
 蠢々秋月　～ Mooned Insect 东方永夜抄1面Bossリグル・ナイトバグ的主题曲MIDI版。由Roland Sound Canvas 88Pro实机录制；MP3采样率44.1KHz，码率192Kbps。  

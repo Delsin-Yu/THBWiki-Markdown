@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=Gensokyophonie%E5%B0%81%E9%9D%A2.jpg" class="new" title="文件:Gensokyophonie封面.jpg">封面图片</a><div class="cover-char">角色：<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a>，<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></div></td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.deviantart.com/strobolights/art/GENSOKYOPHONIE-Fanbook-Touhou-184150503">https://www.deviantart.com/strobolights/art/GENSOKYOPHONIE-Fanbook-Touhou-184150503</a></td></tr></tbody></table>
 
 Gensokyophonie（同人志，Explosante-Fixe，2010） - 2010年10月29日 由 Explosante-Fixe 于 Chibi Japan Expo 2010 发布的画集/漫画/合同志同人志，分级为 一般向
+
 ## Staff
 Illustration &amp; Design (Explosante-Fixe)
 : Mio （[DeviantArt: xxmioxx](https://www.deviantart.com/xxmioxx)）
@@ -34,6 +36,7 @@ Illustration (guest)
 : Ninamo （[DeviantArt: ninamo-chan](https://www.deviantart.com/ninamo-chan)）
 : Namie-Kun （[DeviantArt: namie-kun](https://www.deviantart.com/namie-kun)（已经失效））
 : Eternal S. （[DeviantArt: eternal-s](https://www.deviantart.com/eternal-s)）
+
 
 ## 评论
 

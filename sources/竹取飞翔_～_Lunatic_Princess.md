@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -44,11 +45,13 @@
 
 
 
+
 ## 基本信息
 
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">竹取飛翔　～ Lunatic Princess</td></tr><tr><td><b>译名</b></td><td>竹取飞翔 ～ Lunatic Princess</td></tr><tr><td><b>英文译名</b></td><td>Flight of the Bamboo Cutter ~ Lunatic Princess</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 竹取飞翔 ～ Lunatic Princess（曲目） - 由 ZUN 创作的官方曲目，原名 竹取飛翔　～ Lunatic Princess
+
 ## 出现作品
 
 <table>
@@ -58,8 +61,11 @@
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 东方永夜抄
+
 #### WAV
   
 WAV版是游戏的原声带。
@@ -74,6 +80,7 @@ WAV版是游戏的原声带。
 </td></tr></tbody></table>
 
 
+
 #### MIDI
   
 MIDI版由Roland Sound Canvas 88Pro实机录音得到。
@@ -83,9 +90,11 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td><a href="./文件-th08_15.mid.md" title="文件:th08 15.mid">th08_15.mid</a></td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th08_15_SC88Pro.mp3.md" title="文件:th08 15 SC88Pro.mp3">th08_15_SC88Pro.mp3</a><br><audio src="https://upload.thwiki.cc/2/26/th08_15_SC88Pro.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>th08_15.mid</td></tr><tr><td><b>音轨时长</b></td><td>2:37</td></tr></tbody></table>
 
 
+
 ### 东方紫香花
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-TORA-00009_01.mp3.md" title="文件:TORA-00009 01.mp3">TORA-00009_01.mp3</a><br><audio src="https://upload.thwiki.cc/2/2b/TORA-00009_01.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track01.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>6:00</td></tr></tbody></table>
+
 
 
 ### 卯酉东海道
@@ -93,7 +102,9 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-hr04_03.mp3.md" title="文件:hr04 03.mp3">hr04_03.mp3</a><br><audio src="https://upload.thwiki.cc/f/f6/hr04_03.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track03.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>5:25</td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 东方永夜抄
 - Music Room (未找到链接)
 
@@ -109,19 +120,24 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
 　　月之公主。  
 　　但是这位公主做了相当坏的事。然后在地上隐居生活。  
 　　附带一提，曲名不是说老翁在天上飞。为了慎重起见。
+
 ### 东方紫香花
 - 曲目说明 (未找到链接)
 
 各位好，我是琦玉最终兵器。  
 因为这首曲子并非是用旋律带动曲子的那种类型，而是以调子来带动曲子的，我有点烦恼是该遵从原曲的编曲方法还是另辟蹊径。最后，我想着做出来后听了就知道了，制作的过程也很有趣。原曲是ABC型也就是说曲调有些薄弱，我完成的这首曲子相反很强调曲调。
+
 ### 东方文花帖（书籍）
 - 幻想的音觉 (未找到链接)
 
 （『[东方永夜抄](./东方永夜抄.md)』收录曲）　　目前仍未亲眼见过辉夜姬的我，只能靠着竹取物语去想象了，也就是说这是试着从我的角度来解读竹取物语结束之后的曲子。  
 　　满月中出现的月之使者，然后是作出抵抗的地上的人类。不过在月之使者的面前也毫无还手之力。在就快没有动力抵抗下去之时，地上的竹子开始发出光辉…出现的就是月之公主，辉夜姬。辉夜姬觉得如果再这样给人类添麻烦的话，就下决定一个人去战斗。  
 　　在这样的妄想以外，把在很久以前的日本的天空中的月亮，以及在天空中飞翔的公主们想象出来以做下此曲。当然不会忘记游戏的心态，也加入了懂的人自然会懂的复古风，我会努力让它成为几十年后直到最后仍然留在心中的曲子的。
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
   
  **竹取飛翔　～ Lunatic Princess**  竹取飞翔　～ Lunatic Princess
@@ -130,9 +146,9 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
 - 竹取
   - 《竹取物语》。
     - 主角辉夜姬为竹取翁伐竹时于竹心发现并起名，对应角色[蓬莱山辉夜](./蓬莱山辉夜.md)。
-    - 永夜抄 (未找到链接)的背景故事原型为《竹取物语》。
+    - [永夜抄](./永夜抄.md)的背景故事原型为《竹取物语》。
 
-  - [卯酉东海道](./卯酉东海道.md)本曲目的故事中出现的“虚伪的满月”和永夜抄 (未找到链接)故事也许有联系。
+  - [卯酉东海道](./卯酉东海道.md)本曲目的故事中出现的“虚伪的满月”和[永夜抄](./永夜抄.md)故事也许有联系。
 
 - 飞翔
   - 本曲目有“飞翔的公主”的印象。
@@ -160,6 +176,7 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
 　　在这样的妄想以外，把在很久以前的日本的天空中的月亮，以及在天空中飞翔的公主们想象出来以做下此曲。当然不会忘记游戏的心态，也加入了懂的人自然会懂的复古风，我会努力让它成为几十年后直到最后仍然留在心中的曲子的。<img alt="Corner bracket right sh1.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Corner_bracket_right_sh1.svg/langzh-20px-Corner_bracket_right_sh1.svg.png" decoding="async" loading="lazy" width="20" height="29" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Corner_bracket_right_sh1.svg/langzh-30px-Corner_bracket_right_sh1.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Corner_bracket_right_sh1.svg/langzh-40px-Corner_bracket_right_sh1.svg.png 2x" data-file-width="220" data-file-height="320">
 ——幻想的音觉 (未找到链接)
 - [](./文件-辉夜姬在天人簇拥下归天（竹取物语绘卷）.jpg.md)辉夜姬在天人簇拥下归天（竹取物语绘卷）
+
 
 ### 二次同人数据
 

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -36,11 +37,13 @@
 
 
 
+
 ## 基本信息
 
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">霊天　～ Spiritual Heaven</td></tr><tr><td><b>译名</b></td><td>灵天 ～ Spiritual Heaven</td></tr><tr><td><b>英文译名</b></td><td>Spiritual Heaven</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 灵天 ～ Spiritual Heaven（曲目） - 由 ZUN 创作的官方曲目，原名 霊天　～ Spiritual Heaven
+
 ## 出现作品
 
 <table>
@@ -49,7 +52,9 @@
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 东方怪绮谈
   
 YM2203(OPN)，FM26K音源版。
@@ -67,12 +72,15 @@ YM2608(OPNA)，FM86音源版。
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th05_05_86.ogg.md" title="文件:th05 05 86.ogg">th05_05_86.ogg</a><br><audio src="https://upload.thwiki.cc/7/7e/th05_05_86.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>ST01B.M2</td></tr><tr><td><b>音轨时长</b></td><td>1:33.619</td></tr></tbody></table>
 
 
+
 ### 幺乐团的历史 vol.2
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-ha02_05.mp3.md" title="文件:ha02 05.mp3">ha02_05.mp3</a><br><audio src="https://upload.thwiki.cc/5/50/ha02_05.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track05.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>1:58</td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 东方怪绮谈
 - Music Room (未找到链接)
 
@@ -85,8 +93,11 @@ YM2608(OPNA)，FM86音源版。
 ＺＵＮ（太田）  
 怪绮谈的2面boss曲  
 这个也不错嘛
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
   
  **霊天　～ Spiritual Heaven** 
@@ -99,6 +110,7 @@ YM2608(OPNA)，FM86音源版。
 
 - 灵天
   - 魔界？
+
 
 
 ### 二次同人数据

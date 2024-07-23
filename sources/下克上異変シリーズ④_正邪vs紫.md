@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-下克上異変シリーズ④_正邪vs紫封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/6/6c/%E4%B8%8B%E5%85%8B%E4%B8%8A%E7%95%B0%E5%A4%89%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%E2%91%A3_%E6%AD%A3%E9%82%AAvs%E7%B4%AB%E5%B0%81%E9%9D%A2.jpg/99px-%E4%B8%8B%E5%85%8B%E4%B8%8A%E7%95%B0%E5%A4%89%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%E2%91%A3_%E6%AD%A3%E9%82%AAvs%E7%B4%AB%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="99" height="140" srcset="https://upload.thwiki.cc/thumb/6/6c/%E4%B8%8B%E5%85%8B%E4%B8%8A%E7%95%B0%E5%A4%89%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%E2%91%A3_%E6%AD%A3%E9%82%AAvs%E7%B4%AB%E5%B0%81%E9%9D%A2.jpg/148px-%E4%B8%8B%E5%85%8B%E4%B8%8A%E7%95%B0%E5%A4%89%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%E2%91%A3_%E6%AD%A3%E9%82%AAvs%E7%B4%AB%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/6/6c/%E4%B8%8B%E5%85%8B%E4%B8%8A%E7%95%B0%E5%A4%89%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%E2%91%A3_%E6%AD%A3%E9%82%AAvs%E7%B4%AB%E5%B0%81%E9%9D%A2.jpg/197px-%E4%B8%8B%E5%85%8B%E4%B8%8A%E7%95%B0%E5%A4%89%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%E2%91%A3_%E6%AD%A3%E9%82%AAvs%E7%B4%AB%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="846" data-file-height="1200"></a><div class="cover-char">角色：<a href="./鬼人正邪.md" title="鬼人正邪">鬼人正邪</a>，<a href="./八云紫.md" title="八云紫">八云紫</a></div></td>
@@ -14,11 +15,13 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/59299877">https://www.pixiv.net/artworks/59299877</a></td></tr></tbody></table>
 
 下克上異変シリーズ④ 正邪vs紫（同人志，黒豆屋，2016） - 2016年10月9日 由 黒豆屋 于 东方红楼梦12 发布的漫画同人志，登场人物有 鬼人正邪、八云紫，分级为 一般向
+
 ## Staff
 Writer
 : カズナ (未找到链接)
 Illustration
 : カズナ (未找到链接)
+
 
 ## 评论
 

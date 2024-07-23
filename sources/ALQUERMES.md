@@ -4,7 +4,8 @@
 
 ALQUERMES ，主要制作 周边，同人志 的日本同人社团，主催是 みーか，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -21,17 +22,21 @@ ALQUERMES ，主要制作 周边，同人志 的日本同人社团，主催是 �
 
 
 
+
 ## 社团信息
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> ALQUERMES </td></tr><tr><td><b>主要作品类型</b></td><td>周边，同人志</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=%E3%81%BF%E3%83%BC%E3%81%8B&amp;action=edit&amp;redlink=1" class="new" title="みーか（页面不存在）">みーか</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="https://hdnlkwai.booth.pm/">https://hdnlkwai.booth.pm/</a> </td></tr></tbody></table>
 
 ALQUERMES（同人社团，周边社团，同人志社团） - ALQUERMES ，主要制作 周边，同人志 的日本同人社团，主催是 みーか，当前状态为 活动
+
 ## 成员名单
 - みーか (未找到链接)
 
 : [Twitter: @alquermes](https://twitter.com/alquermes), [Pixiv ID: 30003113](https://www.pixiv.net/users/30003113)
 
+
 ## 作品列表
+
 ### 同人志
 [](./Collection_de_photos_de_lucioles.md)[Collection de photos de lucioles](./Collection_de_photos_de_lucioles.md)首发日期：2018-06-24 （東方蛍光祭2 (未找到链接)）摄影集 （一般向） 10&#160;页Wriggle doll photo album[](./夢見心地.md)[夢見心地](./夢見心地.md)首发日期：2018-10-14 （第五回 博麗神社秋季例大祭 (未找到链接)）摄影集 （一般向）A5&#160;尺寸 12&#160;页Hifuu dolls photo album (未找到链接)お嬢様が新しいドレスをご所望なので私がお仕立て致します！ (未找到链接)首发日期：2022-01-30 （紅のひろば20 (未找到链接)）漫画 （一般向）B5&#160;尺寸 14&#160;页[](./Cherry_Blossom（ALQUERMES）.md)[Cherry Blossom](./Cherry_Blossom（ALQUERMES）.md)首发日期：2022-03-20 （夢幻鯢呑祭 (未找到链接)）摄影集 （一般向）A5&#160;尺寸 14&#160;页
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -44,6 +49,7 @@ ALQUERMES（同人社团，周边社团，同人志社团） - ALQUERMES ，主�
 </table>
 
 
+
 ### 周边
 リグルドール (未找到链接)首发日期：未知 - 博麗霊夢ドール (未找到链接)首发日期：未知 - 八雲紫ドール (未找到链接)首发日期：未知 - Schedule Book 2020 R2.3~R3.4 (未找到链接)首发日期：未知 - マエリベリー·ハーンのドール (未找到链接)首发日期：未知 - 宇佐見蓮子のドール (未找到链接)首发日期：未知 - 
 <table><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
@@ -52,6 +58,7 @@ ALQUERMES（同人社团，周边社团，同人志社团） - ALQUERMES ，主�
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458"></table>
+
 
 
 ## 参展信息

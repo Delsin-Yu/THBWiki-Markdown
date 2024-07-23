@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Amazing_Miracle！封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/5/58/Amazing_Miracle%EF%BC%81%E5%B0%81%E9%9D%A2.jpg/100px-Amazing_Miracle%EF%BC%81%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="100" height="140" srcset="https://upload.thwiki.cc/thumb/5/58/Amazing_Miracle%EF%BC%81%E5%B0%81%E9%9D%A2.jpg/150px-Amazing_Miracle%EF%BC%81%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/5/58/Amazing_Miracle%EF%BC%81%E5%B0%81%E9%9D%A2.jpg/200px-Amazing_Miracle%EF%BC%81%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="666" data-file-height="931"></a><div class="cover-char">角色：<a href="./多多良小伞.md" title="多多良小伞">多多良小伞</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/22248172">https://www.pixiv.net/artworks/22248172</a></td></tr></tbody></table>
 
 Amazing Miracle！（同人志，荒巻シェイカー，2011） - 2011年10月16日 由 荒巻シェイカー 于 东方红楼梦7 发布的漫画同人志，登场人物有 多多良小伞、东风谷早苗，分级为 一般向
+
 ## Staff
 - あー麺 (未找到链接)
+
 
 ## 评论
 

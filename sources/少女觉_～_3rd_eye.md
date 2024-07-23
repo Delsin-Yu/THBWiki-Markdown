@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -34,11 +35,13 @@
 
 
 
+
 ## 基本信息
 
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">少女さとり　～ 3rd eye</td></tr><tr><td><b>译名</b></td><td>少女觉 ～ 3rd eye</td></tr><tr><td><b>英文译名</b></td><td>Satori Maiden ~ 3rd eye</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 少女觉 ～ 3rd eye（曲目） - 由 ZUN 创作的官方曲目，原名 少女さとり　～ 3rd eye
+
 ## 出现作品
 
 <table>
@@ -46,7 +49,9 @@
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 东方地灵殿
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th11_09.mp3.md" title="文件:th11 09.mp3">th11_09.mp3</a><br><audio src="https://upload.thwiki.cc/a/a1/th11_09.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>BGM\th11_09.wav</td></tr><tr><td><b>BGMForAll</b></td><td><div class="mw-collapsible mw-collapsed">
@@ -57,7 +62,9 @@
 </td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 东方地灵殿
 - Music Room (未找到链接)
 
@@ -67,7 +74,9 @@
 　其实是这次地灵殿中的最大牌人物，然而  
 　并不怎么擅长战斗的样子。  
 　曲风也展现出大人物的以及阴森的感觉。
+
 ## 其他资料
+
 ### 乐理资讯
 - 使用乐器
   - SD-90 :Ocarina Vib.
@@ -80,6 +89,7 @@
   - Virtual Guitarist :Heavy Chords
   - Virtual Guitarist :Ultra I
   - LM-4 Mark II :Gator Kit
+
 
 
 ### 分析考据
@@ -101,6 +111,7 @@
 
 - 相关曲目
   - 动画《新世纪福音战士》的插曲 *She said, "Don't make others suffer for your personal hatred."*  0:28处开始的旋律，和本曲的主旋律非常相似。
+
 
 
 ### 二次同人数据

@@ -42,6 +42,7 @@
 
   
 </center>
+
 ## 注解
 [^cite_note-1]: 与东方儚月抄 ～ Silent Sinner in Blue.第8话《贤者的密信》相对。
 

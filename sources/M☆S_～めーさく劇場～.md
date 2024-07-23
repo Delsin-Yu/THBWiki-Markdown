@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-M☆S_～めーさく劇場～封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/2/25/M%E2%98%86S_%EF%BD%9E%E3%82%81%E3%83%BC%E3%81%95%E3%81%8F%E5%8A%87%E5%A0%B4%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg/158px-M%E2%98%86S_%EF%BD%9E%E3%82%81%E3%83%BC%E3%81%95%E3%81%8F%E5%8A%87%E5%A0%B4%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="158" height="224" srcset="https://upload.thwiki.cc/thumb/2/25/M%E2%98%86S_%EF%BD%9E%E3%82%81%E3%83%BC%E3%81%95%E3%81%8F%E5%8A%87%E5%A0%B4%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg/237px-M%E2%98%86S_%EF%BD%9E%E3%82%81%E3%83%BC%E3%81%95%E3%81%8F%E5%8A%87%E5%A0%B4%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/2/25/M%E2%98%86S_%EF%BD%9E%E3%82%81%E3%83%BC%E3%81%95%E3%81%8F%E5%8A%87%E5%A0%B4%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg/316px-M%E2%98%86S_%EF%BD%9E%E3%82%81%E3%83%BC%E3%81%95%E3%81%8F%E5%8A%87%E5%A0%B4%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="318" data-file-height="450"></a><div class="cover-char">角色：<a href="/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C" title="十六夜咲夜">十六夜咲夜</a>，<a href="./红美铃.md" title="红美铃">红美铃</a></div></td>
@@ -13,9 +14,11 @@
 </tr><tr><td class="label">首发日期</td><td>2016-10-09&#160;（<a href="/展会作品列表?e=%E4%B8%9C%E6%96%B9%E7%BA%A2%E6%A5%BC%E6%A2%A6%2312">東方紅楼夢12</a>）</td></tr><tr><td class="label">类型</td><td>漫画</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>B5</td></tr><tr><td class="label">页数</td><td>32P</td></tr><tr><td class="label">登场人物</td><td><a href="./红美铃.md" title="红美铃">红美铃</a>，<a href="/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C" title="十六夜咲夜">十六夜咲夜</a>，<a href="./帕秋莉·诺蕾姬.md" title="帕秋莉·诺蕾姬">帕秋莉·诺蕾姬</a>，<a href="./小恶魔.md" title="小恶魔">小恶魔</a></td></tr><tr><td class="label">售价</td><td>会场售价：500日元<br>通贩售价：600日元</td></tr></tbody></table>
 
 M☆S ～めーさく劇場～（同人志，ふすま喫茶，あさつき堂，2016） - 2016年10月9日 由 ふすま喫茶，あさつき堂 于 东方红楼梦12 发布的漫画同人志，B5尺寸一共32页，登场人物有 红美铃、十六夜咲夜、帕秋莉·诺蕾姬、小恶魔，分级为 一般向
+
 ## Staff
 - [水中花火](./水中花火.md)
 - うがつまつき (未找到链接)
+
 
 ## 评论
 

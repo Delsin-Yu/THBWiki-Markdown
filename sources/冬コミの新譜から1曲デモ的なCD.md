@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E5%86%AC%E3%82%B3%E3%83%9F%E3%81%AE%E6%96%B0%E8%AD%9C%E3%81%8B%E3%82%891%E6%9B%B2%E3%83%87%E3%83%A2%E7%9A%84%E3%81%AACD%E5%B0%81%E9%9D%A2.jpg" class="new" title="文件:冬コミの新譜から1曲デモ的なCD封面.jpg">封面图片</a></td>
@@ -14,10 +15,13 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/9888/status/1583403118909304832">https://twitter.com/9888/status/1583403118909304832</a></td></tr></tbody></table>
 
 冬コミの新譜から1曲デモ的なCD（同人专辑，Siestail，2022） - 2022年10月23日 由 Siestail 于 博丽神社秋季例大祭9 发布的Demo同人专辑，分级为 一般向
+
 ## Staff
+
 ## 曲目列表
 
 <table></table>
+
 
 
 ## 评论

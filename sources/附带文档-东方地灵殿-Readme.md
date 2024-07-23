@@ -11,6 +11,7 @@ Readme | 东方地灵殿 | 使用了翻译表的页面 | 附带文档
 : [日文版](http://omake.thwiki.cc/translate.php?u=附带文档:东方地灵殿/Readme&amp;t=ja)
 : [汉化版](http://omake.thwiki.cc/translate.php?u=附带文档:东方地灵殿/Readme&amp;t=zh)
 
+
 ## 目录
 
 - [1 问候](#问候)
@@ -34,10 +35,12 @@ Readme | 东方地灵殿 | 使用了翻译表的页面 | 附带文档
 
 
 
+
 ###### 问候
 
 
 <table><tbody><tr class="tt-content" id="=-3" data-pos="&#91;&quot;=&quot;,3&#93;"><td class="tt-ja" lang="ja"><div class="poem">■１．挨拶<br>　　この度は、「東方地霊殿　～ Subterranean Animism. 」を手に取って<br>　頂き、まことに有難う御座います。<br><br>　　何処か懐かしい世界に何処かゆるいキャラ達が、とてつもなく激し<br>　い弾幕を繰り広げるシューティングゲームになっています。<br><br>　　弾幕シューティングに不慣れな方は難易度ノーマルでも苦戦するか<br>　と思います。ですが、一つ一つの弾幕には攻略法が存在しますので、<br>　順番に攻略し、どうしても無理なら霊撃を使っていけばば確実にクリ<br>　アできる様になるはずです（ノーマルくらいまでなら）<br><br>　　それでは健闘を祈ります。</div></td><td class="tt-zh" lang="zh"><div class="poem">■１．问候<br>　　非常感谢您入手本次的「东方地灵殿　～ Subterranean Animism. 」。<br><br>　　这是一个描写在某个令人怀念的世界里、某些优哉游哉的角色们进行<br>  着无比激烈的弹幕对决的纵版射击游戏。<br><br>　　不习惯弹幕射击游戏的人也许感觉难易度Normal都是一场苦战。<br>　不过，对于一个个弹幕都存在着攻略法，按照顺序进行攻略就行了，<br>　不管怎样都不行的话，只要使用灵击，也应该能通关。（到Normal左右的话）<br><br>　　那么，祝君武运昌隆。</div></td></tr></tbody></table>
+
 
 
 
@@ -48,10 +51,12 @@ Readme | 东方地灵殿 | 使用了翻译表的页面 | 附带文档
 
 
 
+
 ###### 卸载方法
 
 
 <table><tbody><tr class="tt-content" id="=-7" data-pos="&#91;&quot;=&quot;,7&#93;"><td class="tt-ja" lang="ja"><div class="poem">■３．アンインストール方法<br><br>　インストールでスタートメニューにアイコンを登録した場合は、<br>　上海アリス幻樂団＞東方地霊殿＞アンインストール<br>　をクリックしてください。<br><br>　登録しなかった場合は、コントロールパネルの「プログラムの変更と削除」<br>　で東方地霊殿を選択してください。</div></td><td class="tt-zh" lang="zh"><div class="poem">■３．卸载方法<br><br>  在安装过程中添加到了开始菜单，<br>  请点击上海爱丽丝幻乐团＞东方地灵殿＞卸载程序。<br><br>  如果没有添加，请打开控制面板中的「卸载或更改程序」，<br>  选择东方地灵殿。</div></td></tr></tbody></table>
+
 
 
 
@@ -62,6 +67,7 @@ Readme | 东方地灵殿 | 使用了翻译表的页面 | 附带文档
 
 
 
+
 ###### 有问题的话
 
 
@@ -69,10 +75,12 @@ Readme | 东方地灵殿 | 使用了翻译表的页面 | 附带文档
 
 
 
+
 ###### 没问题的话
 
 
 <table><tbody><tr class="tt-content" id="=-13" data-pos="&#91;&quot;=&quot;,13&#93;"><td class="tt-ja" lang="ja"><div class="poem">■６．困ったことが無かったら<br>　お楽しみ下さい。</div></td><td class="tt-zh" lang="zh"><div class="poem">■６．没问题的话<br>　请尽情享受吧。</div></td></tr></tbody></table>
+
 
 
 

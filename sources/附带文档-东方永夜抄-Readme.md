@@ -11,6 +11,7 @@ Readme | 东方永夜抄 | 使用了翻译表的页面 | 附带文档
 : [日文版](http://omake.thwiki.cc/translate.php?u=附带文档:东方永夜抄/Readme&amp;t=ja)
 : [汉化版](http://omake.thwiki.cc/translate.php?u=附带文档:东方永夜抄/Readme&amp;t=zh)
 
+
 ## 目录
 
 - [1 问候](#问候)
@@ -32,10 +33,12 @@ Readme | 东方永夜抄 | 使用了翻译表的页面 | 附带文档
 
 
 
+
 ###### 问候
 
 
 <table><tbody><tr class="tt-content" id="=-3" data-pos="&#91;&quot;=&quot;,3&#93;"><td class="tt-ja" lang="ja"><div class="poem">■１．挨拶<br>　　この度は、「東方永夜抄　～ Imperishable Night.」を手に取って<br>　頂き、まことに有難う御座います。<br><br>　　このゲームは、一風変った東方世界でのまったり弾幕シューティン<br>　グゲームです。ああまったりで狂っている。<br><br>　　東方ならではの狂弾幕は、現実世界では忘れ去られた幻想の具現で<br>　もあります。まずは弾幕の狂いっぷりに酔い、そして世界のまったり<br>　さにまったり、ああまったり。<br><br><br>　　詳しいゲームシステムに付いては、htmlマニュアルをお読みくださ<br>　い。割と複雑かも知れませんが、やることは一緒です。やっぱり、弾<br>　は絶対に当たってはいけない物で、避けなければいけません。基本概<br>　念に変更はありませんので。</div></td><td class="tt-zh" lang="zh"><div class="poem">■ 1．问候<br>　　衷心感谢您购买此次的「东方永夜抄　～ Imperishable Night.」。<br><br>    这是一款悠闲的弹幕射击游戏, 以奇妙的东方世界为背景。 <br>    是那么悠闲，又是那么疯狂。<br><br>    东方独有的狂弹幕, 也是在现实世界中被忘却的幻想的具现。<br>    先沉醉于弹幕的狂态，然后在世界的悠闲感中悠闲，<br>    那么的悠闲。<br><br>    关于游戏系统的详细介绍, 请读html格式的Manual。<br>    也许看起来很复杂, 但要做的事都是一样的。<br>    归根到底，就是绝对不能中弹，必须进行避弹。<br>    基本概念没有变更。</div></td></tr></tbody></table>
+
 
 
 
@@ -46,6 +49,7 @@ Readme | 东方永夜抄 | 使用了翻译表的页面 | 附带文档
 
 
 
+
 ###### 有困惑的话
 
 
@@ -53,10 +57,12 @@ Readme | 东方永夜抄 | 使用了翻译表的页面 | 附带文档
 
 
 
+
 ###### 没困惑的话
 
 
 <table><tbody><tr class="tt-content" id="=-9" data-pos="&#91;&quot;=&quot;,9&#93;"><td class="tt-ja" lang="ja"><div class="poem">■４．困ったことが無かったら<br>　お楽しみ下さい。</div></td><td class="tt-zh" lang="zh"><div class="poem">■４．没疑问的话<br>　 请尽情享受吧。</div></td></tr></tbody></table>
+
 
 
 

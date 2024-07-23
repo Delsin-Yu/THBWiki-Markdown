@@ -4,6 +4,7 @@
 
 Metaluna | 社团LOGO
 
+
 ## 摘要
   
 源地址：[direct image link (original size)](https://stat.ameba.jp/user_images/20091231/19/metalwasabi/d2/1a/j/o0740040210359787307.jpg), [source page](https://ameblo.jp/metalwasabi/entry-10423736930.html)

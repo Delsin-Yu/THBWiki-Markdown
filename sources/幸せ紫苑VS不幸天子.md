@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-幸せ紫苑VS不幸天子封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/6/67/%E5%B9%B8%E3%81%9B%E7%B4%AB%E8%8B%91VS%E4%B8%8D%E5%B9%B8%E5%A4%A9%E5%AD%90%E5%B0%81%E9%9D%A2.jpg/158px-%E5%B9%B8%E3%81%9B%E7%B4%AB%E8%8B%91VS%E4%B8%8D%E5%B9%B8%E5%A4%A9%E5%AD%90%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="158" height="224" srcset="https://upload.thwiki.cc/thumb/6/67/%E5%B9%B8%E3%81%9B%E7%B4%AB%E8%8B%91VS%E4%B8%8D%E5%B9%B8%E5%A4%A9%E5%AD%90%E5%B0%81%E9%9D%A2.jpg/237px-%E5%B9%B8%E3%81%9B%E7%B4%AB%E8%8B%91VS%E4%B8%8D%E5%B9%B8%E5%A4%A9%E5%AD%90%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/6/67/%E5%B9%B8%E3%81%9B%E7%B4%AB%E8%8B%91VS%E4%B8%8D%E5%B9%B8%E5%A4%A9%E5%AD%90%E5%B0%81%E9%9D%A2.jpg/315px-%E5%B9%B8%E3%81%9B%E7%B4%AB%E8%8B%91VS%E4%B8%8D%E5%B9%B8%E5%A4%A9%E5%AD%90%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="317" data-file-height="450"></a><div class="cover-char">角色：<a href="./依神紫苑.md" title="依神紫苑">依神紫苑</a>，<a href="./比那名居天子.md" title="比那名居天子">比那名居天子</a>，<a href="./少名针妙丸.md" title="少名针妙丸">少名针妙丸</a></div></td>
@@ -18,8 +19,10 @@
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=499878">蜜瓜</a></td></tr></tbody></table>
 
 
+
 ## Staff
 : しょぺ (未找到链接)
+
 
 ## 评论
 

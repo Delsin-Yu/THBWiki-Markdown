@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-東方Project_2018_卓上カレンダー封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/d/d4/%E6%9D%B1%E6%96%B9Project_2018_%E5%8D%93%E4%B8%8A%E3%82%AB%E3%83%AC%E3%83%B3%E3%83%80%E3%83%BC%E5%B0%81%E9%9D%A2.jpg/224px-%E6%9D%B1%E6%96%B9Project_2018_%E5%8D%93%E4%B8%8A%E3%82%AB%E3%83%AC%E3%83%B3%E3%83%80%E3%83%BC%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="174" srcset="https://upload.thwiki.cc/thumb/d/d4/%E6%9D%B1%E6%96%B9Project_2018_%E5%8D%93%E4%B8%8A%E3%82%AB%E3%83%AC%E3%83%B3%E3%83%80%E3%83%BC%E5%B0%81%E9%9D%A2.jpg/336px-%E6%9D%B1%E6%96%B9Project_2018_%E5%8D%93%E4%B8%8A%E3%82%AB%E3%83%AC%E3%83%B3%E3%83%80%E3%83%BC%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/d/d4/%E6%9D%B1%E6%96%B9Project_2018_%E5%8D%93%E4%B8%8A%E3%82%AB%E3%83%AC%E3%83%B3%E3%83%80%E3%83%BC%E5%B0%81%E9%9D%A2.jpg/448px-%E6%9D%B1%E6%96%B9Project_2018_%E5%8D%93%E4%B8%8A%E3%82%AB%E3%83%AC%E3%83%B3%E3%83%80%E3%83%BC%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="450" data-file-height="350"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></div></td>
@@ -18,8 +19,10 @@
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=288888">蜜瓜</a></td></tr></tbody></table>
 
 
+
 ## Staff
-- 詩韻 (未找到链接) (ice*berry (未找到链接))
+- 詩韻 (未找到链接) ([ice*berry](./ice-berry.md))
+
 
 ## 评论
 ```

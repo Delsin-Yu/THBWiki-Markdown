@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Purple_Curious_Babies封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/d/de/Purple_Curious_Babies%E5%B0%81%E9%9D%A2.jpg/99px-Purple_Curious_Babies%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="99" height="140" srcset="https://upload.thwiki.cc/thumb/d/de/Purple_Curious_Babies%E5%B0%81%E9%9D%A2.jpg/149px-Purple_Curious_Babies%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/d/de/Purple_Curious_Babies%E5%B0%81%E9%9D%A2.jpg/198px-Purple_Curious_Babies%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="430" data-file-height="607"></a><div class="cover-char">角色：<a href="./八云紫.md" title="八云紫">八云紫</a>，<a href="./八云蓝.md" title="八云蓝">八云蓝</a>，<a href="./橙.md" title="橙">橙</a></div></td>
@@ -14,7 +15,9 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://keiohewhoclub.blog.fc2.com/blog-entry-2.html">http://keiohewhoclub.blog.fc2.com/blog-entry-2.html</a></td></tr></tbody></table>
 
 Purple Curious Babies（同人志，東方慶庵郷，2014） - 2014年5月11日 由 東方慶庵郷 于 博丽神社例大祭11 发布的绘本同人志，分级为 一般向
+
 ## Staff
+
 ## 评论
 
 

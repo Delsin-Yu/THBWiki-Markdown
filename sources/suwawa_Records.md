@@ -4,7 +4,8 @@
 
 suwawa Records ，主要制作 同人音乐 的日本同人社团，主催是 Elle，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -22,21 +23,26 @@ suwawa Records ，主要制作 同人音乐 的日本同人社团，主催是 El
 
 
 
+
 ## 社团信息
 [](./文件-suwawa_Recordslogo.jpg.md)  [](./文件-suwawa_Recordslogo.jpg.md)logo
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> suwawa Records </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="./Elle.md" title="Elle">Elle</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="https://suwawa.booth.pm/">https://suwawa.booth.pm/</a> </td></tr></tbody></table>
 
 suwawa Records（同人社团，同人音乐社团） - suwawa Records ，主要制作 同人音乐 的日本同人社团，主催是 Elle，当前状态为 活动
+
 ## 社团简介
   
 由Elle组织的bass music社团。
   
 
+
 ## 成员名单
 - [Elle](./Elle.md) - [Twitter: @Elle_suwawa](https://twitter.com/Elle_suwawa/)，[SoundCloud: elminaty](https://soundcloud.com/elminaty)
 
+
 ## 作品列表
+
 ### 同人专辑
 [](./Magi_～東方三魔女コンピレーション.md)[Magi　～東方三魔女コンピレーション](./Magi_～東方三魔女コンピレーション.md)首发日期：2016-11-18 （APOLLO 第5回 (未找到链接)）全长 （一般向）[](./Extra_Party!.md)[Extra Party!](./Extra_Party!.md)首发日期：2017-10-22 （東方紅楼夢13 (未找到链接)）全长 （一般向）[](./Lunatic_AriA.md)[Lunatic AriA](./Lunatic_AriA.md)首发日期：2017-05-07 （第十四回 博麗神社例大祭 (未找到链接)）全长 （一般向）[](./POSSESSING_ENSEMBLE.md)[POSSESSING ENSEMBLE](./POSSESSING_ENSEMBLE.md)首发日期：2018-08-10 （Comic Market 94 (未找到链接)）全长 （一般向）[](./PROJECT_D：01.md)[PROJECT D:01](./PROJECT_D：01.md)首发日期：2018-10-21 （東方紅楼夢14 (未找到链接)）EP （一般向）[](./PROJECT_D_：_02.md)[PROJECT D&#160;: 02](./PROJECT_D_：_02.md)首发日期：2019-05-05 （第十六回 博麗神社例大祭 (未找到链接)）全长 （一般向）[](./Fictional_Fiction.md)[Fictional Fiction](./Fictional_Fiction.md)首发日期：2019-08-12 （Comic Market 96 (未找到链接)）全长 （一般向）[](./PROJECT_D：03.md)[PROJECT D:03](./PROJECT_D：03.md)首发日期：2019-10-13 （東方紅楼夢15 (未找到链接)）EP （一般向）[](./PROJECT_D：04.md)[PROJECT D:04](./PROJECT_D：04.md)首发日期：2020-10-11 （東方紅楼夢16 (未找到链接)）全长 （一般向）[](./PROJECT_D：05.md)[PROJECT D:05](./PROJECT_D：05.md)首发日期：2021-10-24 （第八回 博麗神社秋季例大祭 (未找到链接)）全长 （一般向）
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -61,9 +67,11 @@ suwawa Records（同人社团，同人音乐社团） - suwawa Records ，主要
 </table>
 
 
+
 ## 参展信息
 
 <table><tbody><tr><th class="活动页面">活动页面</th><th class="活动名称">活动名称</th><th class="日期">日期</th><th class="举办地点">举办地点</th><th class="摊位编号">摊位编号</th><th class="宣传页面">宣传页面</th><th class="备注">备注</th></tr><tr data-row-number="1" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E7%A7%8B%E5%AD%A3%E4%BE%8B%E5%A4%A7%E7%A5%AD#8" title="博丽神社秋季例大祭">博丽神社秋季例大祭#8</a></span></td><td class="活动名称 smwtype_txt">第八回 博麗神社秋季例大祭</td><td class="日期 smwtype_dat" data-sort-value="2459511.5">2021-10-24</td><td class="举办地点 smwtype_txt">东京Big Sight 青海展示厅</td><td class="摊位编号 smwtype_txt">と04ab</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="2" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E7%A7%8B%E5%AD%A3%E4%BE%8B%E5%A4%A7%E7%A5%AD#7" title="博丽神社秋季例大祭">博丽神社秋季例大祭#7</a></span></td><td class="活动名称 smwtype_txt">第七回 博麗神社秋季例大祭</td><td class="日期 smwtype_dat" data-sort-value="2459140.5">2020-10-18</td><td class="举办地点 smwtype_txt">东京Big Sight 西展厅</td><td class="摊位编号 smwtype_txt">え16ab</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="3" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E4%B8%9C%E6%96%B9%E7%BA%A2%E6%A5%BC%E6%A2%A6#16" title="东方红楼梦">东方红楼梦#16</a></span></td><td class="活动名称 smwtype_txt">東方紅楼夢16</td><td class="日期 smwtype_dat" data-sort-value="2459133.5">2020-10-11</td><td class="举办地点 smwtype_txt">大阪国际展览中心</td><td class="摊位编号 smwtype_txt">し09</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="4" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#17" title="博丽神社例大祭">博丽神社例大祭#17</a></span></td><td class="活动名称 smwtype_txt">第十七回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2458986.5">2020-05-17</td><td class="举办地点 smwtype_txt">静冈双子展览馆</td><td class="摊位编号 smwtype_txt">M09a</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="5" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E4%B8%9C%E6%96%B9%E7%BA%A2%E6%A5%BC%E6%A2%A6#15" title="东方红楼梦">东方红楼梦#15</a></span></td><td class="活动名称 smwtype_txt">東方紅楼夢15</td><td class="日期 smwtype_dat" data-sort-value="2458769.5">2019-10-13</td><td class="举办地点 smwtype_txt">大阪国际展览中心</td><td class="摊位编号 smwtype_txt">い-10a</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="6" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#16" title="博丽神社例大祭">博丽神社例大祭#16</a></span></td><td class="活动名称 smwtype_txt">第十六回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2458608.5">2019-05-05</td><td class="举办地点 smwtype_txt">东京Big Sight</td><td class="摊位编号 smwtype_txt">H02a</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="7" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E4%B8%9C%E6%96%B9%E7%BA%A2%E6%A5%BC%E6%A2%A6#14" title="东方红楼梦">东方红楼梦#14</a></span></td><td class="活动名称 smwtype_txt">東方紅楼夢14</td><td class="日期 smwtype_dat" data-sort-value="2458412.5">2018-10-21</td><td class="举办地点 smwtype_txt">大阪国际展览中心</td><td class="摊位编号 smwtype_txt">K-05b</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="8" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E4%B8%9C%E6%96%B9%E7%BA%A2%E6%A5%BC%E6%A2%A6#13" title="东方红楼梦">东方红楼梦#13</a></span></td><td class="活动名称 smwtype_txt">東方紅楼夢13</td><td class="日期 smwtype_dat" data-sort-value="2458048.5">2017-10-22</td><td class="举办地点 smwtype_txt">大阪国际展览中心 4号馆・6号馆B区</td><td class="摊位编号 smwtype_txt">K-06a</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="9" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#14" title="博丽神社例大祭">博丽神社例大祭#14</a></span></td><td class="活动名称 smwtype_txt">第十四回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2457880.5">2017-05-07</td><td class="举办地点 smwtype_txt">东京Big Sight 东123456展厅</td><td class="摊位编号 smwtype_txt">え48b</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr></tbody></table>
+
 
 
 ## 其他信息

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=Triple_magic_%E4%B8%89%E9%87%8D%E9%AD%94%E6%B3%95%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2.jpg" class="new" title="文件:Triple magic 三重魔法（同人志）封面.jpg">封面图片</a></td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://blog.sina.com.cn/s/blog_721753bb0100p47y.html">http://blog.sina.com.cn/s/blog_721753bb0100p47y.html</a><br><a rel="nofollow" class="external free" href="https://tieba.baidu.com/p/1046285915">https://tieba.baidu.com/p/1046285915</a></td></tr><tr><td class="label">备注</td><td colspan="2"><a href="./Triple_magic_三重魔法（同人专辑）.md" title="Triple magic 三重魔法（同人专辑）">CD</a></td></tr></tbody></table>
 
 Triple magic 三重魔法（同人志，白梗组，2011） - 2011年4月24日 由 白梗组 于 Rainbow Gala7 发布的绘本同人志，分级为 一般向
+
 ## Staff
 绘图
 : Sinku (未找到链接)
@@ -24,6 +26,7 @@ Triple magic 三重魔法（同人志，白梗组，2011） - 2011年4月24日 �
 : 佐又 (未找到链接) （[微博: tennet](https://weibo.com/tennet)）
 : Flelincw (未找到链接) （[Pixiv ID: 23002](https://www.pixiv.net/users/23002)）
 : sola7764 (未找到链接) （[Pixiv ID: 2702224](https://www.pixiv.net/users/2702224)）
+
 
 ## 评论
 

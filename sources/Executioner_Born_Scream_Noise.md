@@ -18,6 +18,7 @@
 
 
 </center>
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><div class="cover-char">角色：<a href="./米斯蒂娅·萝蕾拉.md" title="米斯蒂娅·萝蕾拉">米斯蒂娅·萝蕾拉</a>，<a href="./幽谷响子.md" title="幽谷响子">幽谷响子</a></div></td>
@@ -26,9 +27,11 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://0463drake.novel.wox.cc/cate4-1.html">http://0463drake.novel.wox.cc/cate4-1.html</a></td></tr></tbody></table>
 
 Executioner Born Scream Noise（同人专辑，River Mist，2013） - 2013年8月12日 由 River Mist 于 Comic Market 84 发布的全长同人专辑，曲目主要风格是 金属，分级为 一般向
+
 ## Staff
 Illustration
 : 原崎 （[02](http://kihyahya.sakura.ne.jp/)（已经失效））
+
 
 ## 试听
   
@@ -36,9 +39,11 @@ Illustration
 
   
 
+
 ## 曲目列表
 
 <table></table>
+
 
 
 ## 评论

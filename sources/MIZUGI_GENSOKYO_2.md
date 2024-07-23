@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-MIZUGI_GENSOKYO_2封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/8/80/MIZUGI_GENSOKYO_2%E5%B0%81%E9%9D%A2.jpg/139px-MIZUGI_GENSOKYO_2%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="139" height="196" srcset="https://upload.thwiki.cc/thumb/8/80/MIZUGI_GENSOKYO_2%E5%B0%81%E9%9D%A2.jpg/208px-MIZUGI_GENSOKYO_2%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/8/80/MIZUGI_GENSOKYO_2%E5%B0%81%E9%9D%A2.jpg/278px-MIZUGI_GENSOKYO_2%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1076" data-file-height="1519"></a><div class="cover-char">角色：<a href="./少名针妙丸.md" title="少名针妙丸">少名针妙丸</a>，<a href="./鬼人正邪.md" title="鬼人正邪">鬼人正邪</a>，<a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a>，<a href="./灵乌路空.md" title="灵乌路空">灵乌路空</a>，<a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a>，<a href="./多多良小伞.md" title="多多良小伞">多多良小伞</a>，<a href="./洩矢诹访子.md" title="洩矢诹访子">洩矢诹访子</a>，<a href="./本居小铃.md" title="本居小铃">本居小铃</a>，<a href="./稗田阿求.md" title="稗田阿求">稗田阿求</a>，<a href="./蓬莱山辉夜.md" title="蓬莱山辉夜">蓬莱山辉夜</a>，<a href="./丁礼田舞.md" title="丁礼田舞">丁礼田舞</a>，<a href="./藤原妹红.md" title="藤原妹红">藤原妹红</a>，<a href="./上白泽慧音.md" title="上白泽慧音">上白泽慧音</a>，<a href="./尔子田里乃.md" title="尔子田里乃">尔子田里乃</a>，<a href="./伊吹萃香.md" title="伊吹萃香">伊吹萃香</a>，<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>，<a href="./四季映姬·夜摩仙那度.md" title="四季映姬·夜摩仙那度">四季映姬·夜摩仙那度</a></div></td>
@@ -18,8 +19,10 @@ MIZUGI GENSOKYO 2（同人志，Rainbow Vanilla，2018） - 2018年5月6日 由 
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=361056">蜜瓜</a>，<a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=361072">蜜瓜（含特典）</a></td></tr></tbody></table>
 
 
+
 ## Staff
 - [祭唄](./祭唄.md)
+
 
 ## 评论
 

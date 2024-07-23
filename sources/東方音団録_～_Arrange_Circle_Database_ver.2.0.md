@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 软件信息](#软件信息)
@@ -13,6 +14,7 @@
 - [3 Data](#Data)
 - [4 内容页面](#内容页面)
 - [5 评论](#评论)
+
 
 
 
@@ -37,11 +39,13 @@
 </tbody></table>
 
 
+
 ## Staff
 Cover Art
 : Atsuko.K （[鶉画帖](http://uzura-cg.net/)）
 Essay
 : Black （[BlackAsh](./BlackAsh.md)）
+
 
 ## Data
 - 東方音楽アレンジサークルについて纏めたデータベース
@@ -49,12 +53,14 @@ Essay
 - エッセイ『レトロスペクティブ音団録』
 
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Magical_Physics-Astronomy_Frontier" colspan="2" class="title">Magical Physics-Astronomy Frontier<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Golden City Factory&amp;ogmusic=大空魔術　～ Magical Astronomy&amp;fromwiki=東方音団録_～_Arrange_Circle_Database_ver.2.0"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Golden_City_Factory.md" title="Golden City Factory">Golden City Factory</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Golden City Factory&amp;fromwiki=東方音団録_～_Arrange_Circle_Database_ver.2.0"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=大空魔術　～ Magical Astronomy&amp;fromwiki=東方音団録_～_Arrange_Circle_Database_ver.2.0"><span></span></a></span><div class="ogmusic"><a href="/%E5%A4%A7%E7%A9%BA%E9%AD%94%E8%A1%93_%EF%BD%9E_Magical_Astronomy" class="mw-redirect" title="大空魔術 ～ Magical Astronomy">大空魔術　～ Magical Astronomy</a></div><div class="source"><a href="/%E5%A4%A7%E7%A9%BA%E9%AD%94%E6%9C%AF_%EF%BD%9E_Magical_Astronomy" class="mw-redirect" title="大空魔术 ～ Magical Astronomy">大空魔术　～ Magical Astronomy</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Magical_Physics-Astronomy_Frontier" colspan="2" class="title">Magical Physics-Astronomy Frontier<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Golden City Factory&amp;ogmusic=大空魔術　～ Magical Astronomy&amp;fromwiki=東方音団録_～_Arrange_Circle_Database_ver.2.0"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Golden_City_Factory.md" title="Golden City Factory">Golden City Factory</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Golden City Factory&amp;fromwiki=東方音団録_～_Arrange_Circle_Database_ver.2.0"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=大空魔術　～ Magical Astronomy&amp;fromwiki=東方音団録_～_Arrange_Circle_Database_ver.2.0"><span></span></a></span><div class="ogmusic"><a href="./大空魔術_～_Magical_Astronomy.md" class="mw-redirect" title="大空魔術 ～ Magical Astronomy">大空魔術　～ Magical Astronomy</a></div><div class="source"><a href="./大空魔术_～_Magical_Astronomy.md" class="mw-redirect" title="大空魔术 ～ Magical Astronomy">大空魔术　～ Magical Astronomy</a></div></td></tr></tbody></table>
+
 
 
 ## 内容页面
 - 使用说明 (未找到链接)
 - 其他信息 (未找到链接)
+
 
 ## 评论
 

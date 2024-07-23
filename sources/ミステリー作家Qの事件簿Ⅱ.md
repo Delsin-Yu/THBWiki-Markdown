@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-ミステリー作家Qの事件簿Ⅱ封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/3/39/%E3%83%9F%E3%82%B9%E3%83%86%E3%83%AA%E3%83%BC%E4%BD%9C%E5%AE%B6Q%E3%81%AE%E4%BA%8B%E4%BB%B6%E7%B0%BF%E2%85%A1%E5%B0%81%E9%9D%A2.jpg/139px-%E3%83%9F%E3%82%B9%E3%83%86%E3%83%AA%E3%83%BC%E4%BD%9C%E5%AE%B6Q%E3%81%AE%E4%BA%8B%E4%BB%B6%E7%B0%BF%E2%85%A1%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="139" height="196" srcset="https://upload.thwiki.cc/thumb/3/39/%E3%83%9F%E3%82%B9%E3%83%86%E3%83%AA%E3%83%BC%E4%BD%9C%E5%AE%B6Q%E3%81%AE%E4%BA%8B%E4%BB%B6%E7%B0%BF%E2%85%A1%E5%B0%81%E9%9D%A2.jpg/208px-%E3%83%9F%E3%82%B9%E3%83%86%E3%83%AA%E3%83%BC%E4%BD%9C%E5%AE%B6Q%E3%81%AE%E4%BA%8B%E4%BB%B6%E7%B0%BF%E2%85%A1%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/3/39/%E3%83%9F%E3%82%B9%E3%83%86%E3%83%AA%E3%83%BC%E4%BD%9C%E5%AE%B6Q%E3%81%AE%E4%BA%8B%E4%BB%B6%E7%B0%BF%E2%85%A1%E5%B0%81%E9%9D%A2.jpg/278px-%E3%83%9F%E3%82%B9%E3%83%86%E3%83%AA%E3%83%BC%E4%BD%9C%E5%AE%B6Q%E3%81%AE%E4%BA%8B%E4%BB%B6%E7%B0%BF%E2%85%A1%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1446" data-file-height="2039"></a><div class="cover-char">角色：<a href="./稗田阿求.md" title="稗田阿求">稗田阿求</a></div></td>
@@ -18,7 +19,9 @@
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=909441">蜜瓜</a></td></tr></tbody></table>
 
 
+
 ## 预览
+
 ## Staff
 作者
 : てんのうみ （[Parallel Station](./Parallel_Station.md)）
@@ -26,6 +29,7 @@
 : thkani （[カニムスビ](./カニムスビ.md)）
 校准
 : 辻堂基信 （[Twitter: @m_tsujidou](https://twitter.com/m_tsujidou)）
+
 
 ## 评论
 

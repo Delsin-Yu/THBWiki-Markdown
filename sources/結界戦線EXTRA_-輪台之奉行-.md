@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-結界戦線EXTRA_-輪台之奉行-封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/0/09/%E7%B5%90%E7%95%8C%E6%88%A6%E7%B7%9AEXTRA_-%E8%BC%AA%E5%8F%B0%E4%B9%8B%E5%A5%89%E8%A1%8C-%E5%B0%81%E9%9D%A2.jpg/119px-%E7%B5%90%E7%95%8C%E6%88%A6%E7%B7%9AEXTRA_-%E8%BC%AA%E5%8F%B0%E4%B9%8B%E5%A5%89%E8%A1%8C-%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="119" height="168" srcset="https://upload.thwiki.cc/thumb/0/09/%E7%B5%90%E7%95%8C%E6%88%A6%E7%B7%9AEXTRA_-%E8%BC%AA%E5%8F%B0%E4%B9%8B%E5%A5%89%E8%A1%8C-%E5%B0%81%E9%9D%A2.jpg/179px-%E7%B5%90%E7%95%8C%E6%88%A6%E7%B7%9AEXTRA_-%E8%BC%AA%E5%8F%B0%E4%B9%8B%E5%A5%89%E8%A1%8C-%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/0/09/%E7%B5%90%E7%95%8C%E6%88%A6%E7%B7%9AEXTRA_-%E8%BC%AA%E5%8F%B0%E4%B9%8B%E5%A5%89%E8%A1%8C-%E5%B0%81%E9%9D%A2.jpg/238px-%E7%B5%90%E7%95%8C%E6%88%A6%E7%B7%9AEXTRA_-%E8%BC%AA%E5%8F%B0%E4%B9%8B%E5%A5%89%E8%A1%8C-%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="568" data-file-height="800"></a><div class="cover-char">角色：<a href="./宇佐见莲子.md" title="宇佐见莲子">宇佐见莲子</a>，<a href="./玛艾露贝莉·赫恩.md" title="玛艾露贝莉·赫恩">玛艾露贝莉·赫恩</a></div></td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://sirakamisanti.sblo.jp/article/176358561.html">http://sirakamisanti.sblo.jp/article/176358561.html</a></td></tr></tbody></table>
 
 結界戦線EXTRA -輪台之奉行-（同人志，白上さん家，2016） - 2016年8月13日 由 白上さん家 于 Comic Market 90 发布的小说同人志，一共64页，分级为 一般向
+
 ## Staff
 小说
 
@@ -22,6 +24,7 @@
 封面绘制
 
 - [菊壱モンジ](./菊壱モンジ.md)
+
 
 ## 评论
 

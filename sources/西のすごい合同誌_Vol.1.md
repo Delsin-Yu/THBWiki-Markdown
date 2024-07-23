@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-西のすごい合同誌_Vol.1封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/c/c8/%E8%A5%BF%E3%81%AE%E3%81%99%E3%81%94%E3%81%84%E5%90%88%E5%90%8C%E8%AA%8C_Vol.1%E5%B0%81%E9%9D%A2.jpg/120px-%E8%A5%BF%E3%81%AE%E3%81%99%E3%81%94%E3%81%84%E5%90%88%E5%90%8C%E8%AA%8C_Vol.1%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="120" height="168" srcset="https://upload.thwiki.cc/thumb/c/c8/%E8%A5%BF%E3%81%AE%E3%81%99%E3%81%94%E3%81%84%E5%90%88%E5%90%8C%E8%AA%8C_Vol.1%E5%B0%81%E9%9D%A2.jpg/180px-%E8%A5%BF%E3%81%AE%E3%81%99%E3%81%94%E3%81%84%E5%90%88%E5%90%8C%E8%AA%8C_Vol.1%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/c/c8/%E8%A5%BF%E3%81%AE%E3%81%99%E3%81%94%E3%81%84%E5%90%88%E5%90%8C%E8%AA%8C_Vol.1%E5%B0%81%E9%9D%A2.jpg/240px-%E8%A5%BF%E3%81%AE%E3%81%99%E3%81%94%E3%81%84%E5%90%88%E5%90%8C%E8%AA%8C_Vol.1%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="732" data-file-height="1024"></a><div class="cover-char">角色：<a href="./玛艾露贝莉·赫恩.md" title="玛艾露贝莉·赫恩">玛艾露贝莉·赫恩</a>，<a href="./宇佐见莲子.md" title="宇佐见莲子">宇佐见莲子</a></div></td>
@@ -18,8 +19,10 @@
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://sweetest.booth.pm/items/1454939">Booth</a></td></tr></tbody></table>
 
 
+
 ## 预览
 - [リグルM@ster 1st stage“私のPはやペーやっ”](https://www.pixiv.net/novel/show.php?id=10211842)
+
 
 ## Staff
   
@@ -106,6 +109,7 @@ Quiz
 : 心心心 （[Twitter: @igoloedy](https://twitter.com/igoloedy)）
 Organizer
 : 甘雲 柑曇 （[Twitter: @tsuttsu_toho](https://twitter.com/tsuttsu_toho)）
+
 
 ## 评论
 

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Grausam_Existentialismus封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/1/1b/Grausam_Existentialismus%E5%B0%81%E9%9D%A2.jpg/99px-Grausam_Existentialismus%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="99" height="140" srcset="https://upload.thwiki.cc/thumb/1/1b/Grausam_Existentialismus%E5%B0%81%E9%9D%A2.jpg/149px-Grausam_Existentialismus%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/1/1b/Grausam_Existentialismus%E5%B0%81%E9%9D%A2.jpg/198px-Grausam_Existentialismus%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="709" data-file-height="1000"></a><div class="cover-char">角色：<a href="./犬走椛.md" title="犬走椛">犬走椛</a></div></td>
@@ -14,9 +15,11 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://hbtd16.sakura.ne.jp/web/kyoto2016/TNG/">http://hbtd16.sakura.ne.jp/web/kyoto2016/TNG/</a></td></tr></tbody></table>
 
 Grausam Existentialismus（同人志，TNG文庫，2016） - 2016年10月30日 由 TNG文庫 于 文文。新闻友人集会7 发布的小说同人志，分级为 一般向
+
 ## Staff
 : 挿絵 (未找到链接)
 : [竜（人物）](./竜（人物）.md) （[つきのゆき](./つきのゆき.md)）
+
 
 ## 评论
 

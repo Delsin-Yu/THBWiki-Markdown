@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-favoritism.封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/e/ef/favoritism.%E5%B0%81%E9%9D%A2.jpg/120px-favoritism.%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="120" height="168" srcset="https://upload.thwiki.cc/thumb/e/ef/favoritism.%E5%B0%81%E9%9D%A2.jpg/180px-favoritism.%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/e/ef/favoritism.%E5%B0%81%E9%9D%A2.jpg/240px-favoritism.%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1295" data-file-height="1812"></a><div class="cover-char">角色：<a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a>，<a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a></div></td>
@@ -14,9 +15,12 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/2988505">https://www.pixiv.net/artworks/2988505</a></td></tr></tbody></table>
 
 favoritism.（同人志，かぜはふり。，2009） - 2009年3月8日 由 かぜはふり。 于 博丽神社例大祭6 发布的同人志，一共24页，登场人物有 蕾米莉亚·斯卡蕾特、芙兰朵露·斯卡蕾特、十六夜咲夜，分级为 一般向
+
 ## 预览
+
 ## Staff
 - 祥樹丸 (未找到链接)
+
 
 ## 评论
 

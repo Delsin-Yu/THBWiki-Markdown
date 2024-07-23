@@ -6,11 +6,13 @@
 
 本页是关于东方Project  
  **二次同人创作者** 的词条
+
 ## 基本信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="label"><b>名称</b></td><td> NJune六月 </td></tr><tr><td class="label"><b>别名</b></td><td>Tsuki Sukuna<br>水無月<br><span class="inside" title="你知道的太多了">sb0445sb</span></td></tr><tr><td class="label"><b>所属社团</b></td><td><b>当前</b><div style="margin-left:2em;">NFT conFuoco Orchestra</div><b>过往</b><div style="margin-left:2em;">NFT Lab/南风亭工作室</div></td></tr><tr><td class="label"><b>职位</b></td><td>主催，作曲，编曲，演奏</td></tr><tr><td class="label"><b>参与社团</b></td><td><a href="./NFT_conFuoco_orchestra.md" title="NFT conFuoco orchestra">NFT conFuoco orchestra</a> （作曲，编曲）<br><a href="./东方鹏徙谣.md" title="东方鹏徙谣">东方鹏徙谣</a> （作曲）<br><a href="./幻响诗篇.md" title="幻响诗篇">幻响诗篇</a> （作曲）<br><a href="./梦现彼岸结界社.md" title="梦现彼岸结界社">梦现彼岸结界社</a> （作曲）<br><a href="./槐安超特急.md" title="槐安超特急">槐安超特急</a> （编曲）<br><a href="./诹访云奏.md" title="诹访云奏">诹访云奏</a> （演奏）</td></tr><tr><td class="label"><b>生日</b></td><td>1998.2.20（26岁）</td></tr><tr><td class="label"><b>个人页面</b></td><td><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><b>bilibili</b></td><td><a rel="nofollow" class="external free" href="https://space.bilibili.com/32262433">https://space.bilibili.com/32262433</a></td></tr><tr><td><b>Weibo</b></td><td><a rel="nofollow" class="external free" href="https://weibo.com/u/6547172130">https://weibo.com/u/6547172130</a></td></tr><tr><td><b>NetEaseCloudMusic</b></td><td><a rel="nofollow" class="external free" href="https://music.163.com/#/artist?id=13286486">https://music.163.com/#/artist?id=13286486</a></td></tr><tr><td><b>Email</b></td><td>njujune@qq.com</td></tr></tbody></table></td></tr></tbody></table>
 
 NJune六月（人物） - 现实人物
+
 ## 介绍
 [](./文件-NJune头像.jpg.md)  [](./文件-NJune头像.jpg.md)六月姐姐
   
@@ -42,7 +44,9 @@ NJune六月（人物） - 现实人物
 
 - 2019年8月，成立秋叶室内乐团。
 
+
 ## 参与作品
+
 ### 同人音乐
 - [幻想与未来之始~Future Fantasy](./幻想与未来之始~Future_Fantasy.md)
 
@@ -63,6 +67,7 @@ NJune六月（人物） - 现实人物
 - 南冥拾音（管弦组曲：逍遥游）
 
 - [鯨飲濺亭花](./鯨飲濺亭花.md)
+
 
 ### 同人志
 - [幻想音符集～F.Notes](./幻想音符集～F.Notes.md)

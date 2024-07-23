@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-KMR_香霖堂ミステリー調査班封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/e/e6/KMR_%E9%A6%99%E9%9C%96%E5%A0%82%E3%83%9F%E3%82%B9%E3%83%86%E3%83%AA%E3%83%BC%E8%AA%BF%E6%9F%BB%E7%8F%AD%E5%B0%81%E9%9D%A2.jpg/141px-KMR_%E9%A6%99%E9%9C%96%E5%A0%82%E3%83%9F%E3%82%B9%E3%83%86%E3%83%AA%E3%83%BC%E8%AA%BF%E6%9F%BB%E7%8F%AD%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="141" height="196" srcset="https://upload.thwiki.cc/thumb/e/e6/KMR_%E9%A6%99%E9%9C%96%E5%A0%82%E3%83%9F%E3%82%B9%E3%83%86%E3%83%AA%E3%83%BC%E8%AA%BF%E6%9F%BB%E7%8F%AD%E5%B0%81%E9%9D%A2.jpg/211px-KMR_%E9%A6%99%E9%9C%96%E5%A0%82%E3%83%9F%E3%82%B9%E3%83%86%E3%83%AA%E3%83%BC%E8%AA%BF%E6%9F%BB%E7%8F%AD%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/e/e6/KMR_%E9%A6%99%E9%9C%96%E5%A0%82%E3%83%9F%E3%82%B9%E3%83%86%E3%83%AA%E3%83%BC%E8%AA%BF%E6%9F%BB%E7%8F%AD%E5%B0%81%E9%9D%A2.jpg/282px-KMR_%E9%A6%99%E9%9C%96%E5%A0%82%E3%83%9F%E3%82%B9%E3%83%86%E3%83%AA%E3%83%BC%E8%AA%BF%E6%9F%BB%E7%8F%AD%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="544" data-file-height="757"></a><div class="cover-char">角色：<a href="./森近霖之助.md" title="森近霖之助">森近霖之助</a>，<a href="./伊吹萃香.md" title="伊吹萃香">伊吹萃香</a>，<a href="./上白泽慧音.md" title="上白泽慧音">上白泽慧音</a>，<a href="./射命丸文.md" title="射命丸文">射命丸文</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://mondps.blog107.fc2.com/blog-entry-57.html">http://mondps.blog107.fc2.com/blog-entry-57.html</a></td></tr></tbody></table>
 
 KMR 香霖堂ミステリー調査班（同人志，DPSの奴隷達，2009） - 2009年8月15日 由 DPSの奴隷達 于 Comic Market 76 发布的漫画同人志，B5尺寸一共20页，分级为 一般向
+
 ## Staff
 - もんじ (未找到链接)
+
 
 ## 评论
 

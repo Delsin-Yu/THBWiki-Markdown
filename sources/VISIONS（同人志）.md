@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-VISIONS（同人志）封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/0/0d/VISIONS%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/140px-VISIONS%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="140" height="140" srcset="https://upload.thwiki.cc/thumb/0/0d/VISIONS%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/210px-VISIONS%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/0/0d/VISIONS%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/280px-VISIONS%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1500" data-file-height="1500"></a></td>
@@ -16,6 +17,7 @@
 VISIONS（同人志，VA，2017） - 2017年5月7日 由 VA 于 博丽神社例大祭14 发布的画集同人志，分级为 一般向
 
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://aoishiba.booth.pm/items/722610">Booth（+2000）</a></td></tr></tbody></table>
+
 
 
 ## Staff
@@ -30,6 +32,7 @@ Guests
 - ききう (未找到链接) ([Pixiv ID: 15644322](https://www.pixiv.net/member.php?id=15644322))
 - すだこ (未找到链接) ([Pixiv ID: 1603882](https://www.pixiv.net/member.php?id=1603882))
 - Justinhsu (未找到链接) ([Pixiv ID: 117124](https://www.pixiv.net/member.php?id=117124))
+
 
 ## 评论
 

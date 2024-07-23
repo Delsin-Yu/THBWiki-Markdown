@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-i++封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/7/7e/i%2B%2B%E5%B0%81%E9%9D%A2.jpg/137px-i%2B%2B%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="137" height="224" srcset="https://upload.thwiki.cc/thumb/7/7e/i%2B%2B%E5%B0%81%E9%9D%A2.jpg/205px-i%2B%2B%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/7/7e/i%2B%2B%E5%B0%81%E9%9D%A2.jpg/274px-i%2B%2B%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1475" data-file-height="2412"></a><div class="cover-char">角色：<a href="./宇佐见莲子.md" title="宇佐见莲子">宇佐见莲子</a>，<a href="./玛艾露贝莉·赫恩.md" title="玛艾露贝莉·赫恩">玛艾露贝莉·赫恩</a></div></td>
@@ -14,7 +15,9 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/101550178">https://www.pixiv.net/artworks/101550178</a><br><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/102070586">https://www.pixiv.net/artworks/102070586</a><br><a rel="nofollow" class="external free" href="https://twitter.com/kago_tozenn/status/1580508640062373889">https://twitter.com/kago_tozenn/status/1580508640062373889</a><br><a rel="nofollow" class="external free" href="https://twitter.com/kago_tozenn/status/1580526152153993216">https://twitter.com/kago_tozenn/status/1580526152153993216</a></td></tr></tbody></table>
 
 i++（同人志，ゆとりデカダンス，2022） - 2022年10月23日 由 ゆとりデカダンス 于 博丽神社秋季例大祭9 发布的小说同人志，新书尺寸一共324页，登场人物有 宇佐见莲子、玛艾露贝莉·赫恩、宇佐见堇子，分级为 一般向
+
 ## 预览
+
 ## 目录
 - 『真夜中マヨヒガ水族館』
 - 『宇佐見菫子と現国の吉岡』
@@ -22,11 +25,13 @@ i++（同人志，ゆとりデカダンス，2022） - 2022年10月23日 由 ゆ
 - 『セルトラダートの吸血鬼』
 - 『variable i』
 
+
 ## Staff
 Author
 : 夏後冬前 （[ゆとりデカダンス](./ゆとりデカダンス.md)）
 Illustration
 : 桜居春斗 （[Pixiv ID: 1356715](https://www.pixiv.net/users/1356715)）
+
 
 ## 评论
 

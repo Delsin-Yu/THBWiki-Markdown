@@ -9,6 +9,7 @@
 <table><tbody><tr><td><table cellspacing="0" class="nowraplinks mw-collapsible uncollapsed" style="width:100%;;;"><tbody><tr><th style=";" colspan="3" class="navbox-title"><div class="navbar"><div class="noprint plainlinksneverexpand" style="background-color:transparent; padding:0; font-weight:normal; font-size:80%; white-space:nowrap;"><a href="./模板-帮助页面导航.md" title="模板:帮助页面导航"><span style=";;border:none;" title="查看这个模板">查</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<a href="/index.php?title=%E6%A8%A1%E6%9D%BF:%E5%B8%AE%E5%8A%A9%E9%A1%B5%E9%9D%A2%E5%AF%BC%E8%88%AA&amp;action=edit"><span style=";;border:none;" title="您可以编辑这个模板。请在储存变更之前先预览">编</span></a></div></div><span><a href="./分类-帮助文档.md" title="分类:帮助文档">帮助页面导航</a></span></th></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="./分类-规范文档.md" title="分类:规范文档">编辑规范</a></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./THBWiki-收录方针.md" title="THBWiki:收录方针">THBWiki收录方针</a> &#8226; <a href="./帮助-词条命名规范.md" title="帮助:词条命名规范">词条命名规范</a> &#8226; <a href="./帮助-词条编写规范.md" title="帮助:词条编写规范">词条编写规范</a> &#8226; <a href="./帮助-符卡截图规范.md" title="帮助:符卡截图规范">符卡截图规范</a> &#8226; <a href="./帮助-同人社团.md" title="帮助:同人社团">同人社团编写规范</a> &#8226; <a href="./帮助-封面图片.md" title="帮助:封面图片">封面图片规范</a> &#8226; <a href="./帮助-同人专辑.md" title="帮助:同人专辑">同人专辑编写规范</a> &#8226; <a href="/index.php?title=%E5%B8%AE%E5%8A%A9:%E5%90%8C%E4%BA%BA%E5%BF%97&amp;action=edit&amp;redlink=1" class="new" title="帮助:同人志（页面不存在）">同人志编写规范</a> &#8226; <a href="/index.php?title=%E5%B8%AE%E5%8A%A9:%E5%90%8C%E4%BA%BA%E8%BD%AF%E4%BB%B6&amp;action=edit&amp;redlink=1" class="new" title="帮助:同人软件（页面不存在）">同人软件编写规范</a> &#8226; <a href="./帮助-活动.md" title="帮助:活动">活动编写规范</a> &#8226; <a href="./帮助-官方角色二次设定页面.md" title="帮助:官方角色二次设定页面">官方角色二次设定页面编写规范</a> &#8226; <a href="./帮助-官作新作词条.md" title="帮助:官作新作词条">官方新作词条编写规范</a> &#8226; <a href="./帮助-官方漫画文字版.md" title="帮助:官方漫画文字版">官方漫画文字版编写规范</a> &#8226;  <a href="./帮助-歌词.md" title="帮助:歌词">歌词编写规范</a> &#8226;  <a href="./帮助-角色介绍可读化.md" title="帮助:角色介绍可读化">角色介绍可读化编写规范</a> &#8226;  <a href="./帮助-地点词条.md" title="帮助:地点词条">地点词条编写规范</a> &#8226;  <a href="./帮助-种族词条.md" title="帮助:种族词条">种族词条编写规范</a></div></td><td class="navbox-image" style="" rowspan="9"><img src="https://static.thwiki.cc/template/info.png" alt="info.png"></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">基础帮助</td><td style=";;" class="navbox-list navbox-even"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>编辑代码</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./帮助-常用代码.md" title="帮助:常用代码">常用代码</a> &#8226; <a href="./帮助-常用模板.md" title="帮助:常用模板">常用模板</a> &#8226; <a href="./帮助-特殊代码.md" title="帮助:特殊代码">进阶代码</a> &#8226; <a href="./帮助-插入视频.md" title="帮助:插入视频">插入视频</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>功能性</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./帮助-强刷新.md" title="帮助:强刷新">强刷新</a> &#8226; <a href="./帮助-颜色表.md" title="帮助:颜色表">颜色表</a> &#8226; <a href="./帮助-跨站链接前缀.md" title="帮助:跨站链接前缀">跨站链接前缀</a> &#8226; <a href="./帮助-样式类别.md" title="帮助:样式类别">样式类用法</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div><a href="./分类-标准名称模板.md" title="分类:标准名称模板">标准名称模板</a></div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./帮助-角色名模板.md" title="帮助:角色名模板">角色名模板</a> &#8226;<a href="./帮助-音乐名模板.md" title="帮助:音乐名模板">音乐名模板</a>（<a href="./音乐名模板目录.md" title="音乐名模板目录">模板目录</a>） &#8226; <a href="./帮助-称号模板.md" title="帮助:称号模板">称号模板</a>（<a href="./称号模板目录.md" title="称号模板目录">模板目录</a>） &#8226; <a href="./帮助-符卡名模板.md" title="帮助:符卡名模板">符卡名模板</a>（<a href="./符卡名模板目录.md" title="符卡名模板目录">模板目录</a>/<a href="./符卡名模板目录1.md" title="符卡名模板目录1">1</a>/<a href="./符卡名模板目录2.md" title="符卡名模板目录2">2</a>/<a href="./符卡名模板目录3.md" title="符卡名模板目录3">3</a>）  &#8226; <a href="./帮助-能力模板.md" title="帮助:能力模板">能力模板</a>（<a href="./能力模板目录.md" title="能力模板目录">模板目录</a>）&#8226; <a href="./帮助-活动名模板.md" title="帮助:活动名模板">活动名模板</a>（<a href="./活动名模板目录.md" title="活动名模板目录">模板目录</a>/<a href="./活动名模板目录-主要展会.md" title="活动名模板目录/主要展会">主要</a>/<a href="./活动名模板目录-东方Only-东日本地区1限定.md" title="活动名模板目录/东方Only/东日本地区1限定">东日本1</a>/<a href="./活动名模板目录-东方Only-东日本地区限定（关东地方）.md" title="活动名模板目录/东方Only/东日本地区限定（关东地方）">东日本（关东）</a>/<a href="./活动名模板目录-东方Only-东日本地区限定（关东地方2）.md" title="活动名模板目录/东方Only/东日本地区限定（关东地方2）">东日本（关东2）</a>/<a href="./活动名模板目录-东方Only-东日本地区限定（中部地方）.md" title="活动名模板目录/东方Only/东日本地区限定（中部地方）">东日本（中部）</a>/<a href="./活动名模板目录-东方Only-西日本地区限定.md" title="活动名模板目录/东方Only/西日本地区限定">西日本</a>/<a href="./活动名模板目录-东方Only-多地方地区限定.md" title="活动名模板目录/东方Only/多地方地区限定">多地区</a>/<a href="./活动名模板目录-东方Only-作品限定.md" title="活动名模板目录/东方Only/作品限定">作品</a>/<a class="mw-selflink selflink">角色</a>/<a href="./活动名模板目录-非东方Only.md" title="活动名模板目录/非东方Only">非东方</a>/<a href="./活动名模板目录-中国展会.md" title="活动名模板目录/中国展会">中国</a>/<a href="./活动名模板目录-中国展会2.md" title="活动名模板目录/中国展会2">中国2</a>/<a href="./活动名模板目录-其他地区展会.md" title="活动名模板目录/其他地区展会">其他地区</a>/<a href="./活动名模板目录-未分类.md" title="活动名模板目录/未分类">未分类</a>）</div></td></tr></tbody></table><div></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="./分类-扩展帮助文档.md" title="分类:扩展帮助文档">扩展功能</a></td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>简单功能文档</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./帮助-翻译表.md" title="帮助:翻译表">翻译表</a> &#8226; <a href="./帮助-固定标题扩展.md" title="帮助:固定标题扩展">固定标题扩展</a> &#8226; <a href="./帮助-时长扩展.md" title="帮助:时长扩展">时长扩展</a> &#8226; <a href="./帮助-汉字数字扩展.md" title="帮助:汉字数字扩展">汉字数字扩展</a> &#8226; <a href="./帮助-货币扩展.md" title="帮助:货币扩展">货币扩展</a> &#8226; <a href="./帮助-转置扩展.md" title="帮助:转置扩展">转置扩展</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>复杂功能文档</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./帮助-解析函数.md" title="帮助:解析函数">解析函数</a> &#8226; <a href="./帮助-SMW.md" title="帮助:SMW">语义维基（SMW）</a> &#8226; <a href="./帮助-管理映射方案.md" title="帮助:管理映射方案">管理映射方案</a> &#8226; <a href="./帮助-管理碰撞.md" title="帮助:管理碰撞">管理碰撞</a> &#8226; <a href="./帮助-编写扩展.md" title="帮助:编写扩展">编写扩展</a> &#8226; <a href="./帮助-音乐资料API.md" title="帮助:音乐资料API">音乐资料API</a></div></td></tr></tbody></table><div></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">辅助工具</td><td style=";;" class="navbox-list navbox-even"><div><span class="plainlinks"><a rel="nofollow" class="external text" href="https://tool.thwiki.cc/textcolor">渐变色文字生成</a> &#8226; <a rel="nofollow" class="external text" href="https://tool.thwiki.cc/calline">图片边长计算</a> &#8226; <a rel="nofollow" class="external text" href="https://tool.thwiki.cc/sort">模板列表排序</a> &#8226; <a rel="nofollow" class="external text" href="https://tool.thwiki.cc/tracks">曲目时长填写工具</a> &#8226; <a rel="nofollow" class="external text" href="https://tool.thwiki.cc/tags/">用音频文件编写词条</a> &#8226; <a rel="nofollow" class="external text" href="https://tool.thwiki.cc/circlelyrics">社团歌词进度</a> &#8226; <a rel="nofollow" class="external text" href="https://tool.thwiki.cc/lrctowiki">歌词文本转换</a></span> &#8226; <a href="./帮助-Gadget-HotCat.md" title="帮助:Gadget-HotCat">HotCat小工具</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">测试沙盒</td><td style=";;" class="navbox-list navbox-odd"><div><a href="/%E6%B2%99%E7%9B%92" title="沙盒">沙盒</a> &#8226; <a href="./沙盒-高级功能.md" title="沙盒/高级功能">进阶沙盒</a> &#8226; <a href="./模板-沙盒.md" title="模板:沙盒">模板沙盒‎</a> &#8226; <a href="./沙盒-SMW.md" title="沙盒/SMW">SMW‎沙盒‎</a> &#8226; <a href="./沙盒-乐谱.md" title="沙盒/乐谱">乐谱沙盒‎</a> &#8226; <a href="./帮助-皮肤.md" title="帮助:皮肤">皮肤‎‎</a></div></td></tr></tbody></table></td></tr></tbody></table>
 
 
+
 ## 目录
 
 - [1 博丽灵梦](#博丽灵梦)
@@ -65,12 +66,14 @@
 本页记录在 **日本** 举办的、 **限定角色** 的 **东方Only** 活动。其他活动参见[活动名模板目录](./活动名模板目录.md)。
   
 
+
 ## 博丽灵梦
 小春小径
 : [模板:小春小径](./模板-小春小径.md) | [模板:小春小径/届名](./模板-小春小径-届名.md)
 
 
 <table><tbody><tr><th colspan="3" align="center">编号内</th></tr><tr><th align="center">编号</th><th align="center">日文</th><th align="center">中文</th></tr><tr><td>1</td><td>小春小径・一</td><td>小春小径・一</td></tr><tr><td>2</td><td>小春小径・二</td><td>小春小径・二</td></tr><tr><td>3</td><td>小春小径・参</td><td>小春小径・参</td></tr><tr><td>4</td><td>小春小径・四</td><td>小春小径・四</td></tr><tr><td>5</td><td>小春小径・伍</td><td>小春小径・伍</td></tr><tr><td>6</td><td>小春小径・陸</td><td>小春小径・陸</td></tr><tr><td>7</td><td>小春小径・漆</td><td>小春小径・漆</td></tr><tr><td>8</td><td>小春小径・八</td><td>小春小径・八</td></tr><tr><td>9</td><td>小春小径・九</td><td>小春小径・九</td></tr><tr><td>10</td><td>小春小径・拾</td><td>小春小径・拾</td></tr><tr><td>11</td><td>小春小径・拾壱</td><td>小春小径・拾壱</td></tr><tr><td>12</td><td>小春小径・拾弐</td><td>小春小径・拾弐</td></tr><tr><td>13</td><td>小春小径・拾参</td><td>小春小径・拾参</td></tr><tr><td>14</td><td>小春小径・拾肆</td><td>小春小径・拾肆</td></tr></tbody></table>
+
 
 
 ## 雾雨魔理沙
@@ -88,6 +91,7 @@
 <table><tbody><tr><th colspan="3" align="center">编号内</th></tr><tr><th align="center">编号</th><th align="center">日文</th><th align="center">中文</th></tr><tr><td>1</td><td>恋色マジック1</td><td>恋色Magic1</td></tr></tbody></table>
 
 
+
 ## 露米娅
 东方想七日
 : [模板:想七日](./模板-想七日.md)
@@ -103,12 +107,14 @@
 <table><tbody><tr><th colspan="3" align="center">编号内</th></tr><tr><th align="center">编号</th><th align="center">日文</th><th align="center">中文</th></tr><tr><td>1</td><td>新月幼魔夜行</td><td>新月幼魔夜行</td></tr><tr><td>2</td><td>新月幼魔夜行 2喰目</td><td>新月幼魔夜行 2喰目</td></tr><tr><td>3</td><td>新月幼魔夜行 3喰目</td><td>新月幼魔夜行 3喰目</td></tr><tr><td>4</td><td>新月幼魔夜行 4喰目</td><td>新月幼魔夜行 4喰目</td></tr></tbody></table>
 
 
+
 ## 大妖精
 Lunate Garden
 : [模板:Lunate Garden](./模板-Lunate_Garden.md)
 
 
 <table><tbody><tr><th colspan="3" align="center">编号内</th></tr><tr><th align="center">编号</th><th align="center">日文</th><th align="center">中文</th></tr><tr><td>1</td><td>ルーネイトガーデン1</td><td>Lunate Garden 1</td></tr></tbody></table>
+
 
 
 ## 琪露诺
@@ -140,6 +146,7 @@ Lunate Garden
 <table><tbody><tr><th colspan="3" align="center">编号内</th></tr><tr><th align="center">编号</th><th align="center">日文</th><th align="center">中文</th></tr><tr><td>1</td><td>あ大祭1</td><td>阿大祭1</td></tr><tr><td>2</td><td>あ大祭2</td><td>阿大祭2</td></tr><tr><td>3</td><td>あ大祭3</td><td>阿大祭3</td></tr></tbody></table>
 
 
+
 ## 小恶魔
 给小恶魔的情歌
 : [模板:给小恶魔的情歌](./模板-给小恶魔的情歌.md)
@@ -153,6 +160,7 @@ Lunate Garden
 
 
 <table><tbody><tr><th colspan="3" align="center">编号内</th></tr><tr><th align="center">编号</th><th align="center">日文</th><th align="center">中文</th></tr><tr><td>1</td><td>司書のお仕事1</td><td>图书管理员的工作1</td></tr><tr><td>2</td><td>司書のお仕事2</td><td>图书管理员的工作2</td></tr></tbody></table>
+
 
 
 ## 帕秋莉·诺蕾姬
@@ -184,6 +192,7 @@ Lunate Garden
 <table><tbody><tr><th colspan="3" align="center">编号内</th></tr><tr><th align="center">编号</th><th align="center">日文</th><th align="center">中文</th></tr><tr><td>1</td><td>年中むきゅーの大図書館1</td><td>年中姆Q的大图书馆1</td></tr></tbody></table>
 
 
+
 ## 十六夜咲夜
 Private Service
 : [模板:PrivateService](./模板-PrivateService.md)
@@ -199,6 +208,7 @@ Private Service
 <table><tbody><tr><th colspan="3" align="center">编号内</th></tr><tr><th align="center">编号</th><th align="center">日文</th><th align="center">中文</th></tr><tr><td>1</td><td>このはな咲夜1</td><td>此花咲夜1</td></tr><tr><td>2</td><td>このはな咲夜2</td><td>此花咲夜2</td></tr><tr><td>3</td><td>このはな咲夜3</td><td>此花咲夜3</td></tr><tr><td colspan="3" align="center">&#8942;</td></tr><tr><td>16</td><td>このはな咲夜16</td><td>此花咲夜16</td></tr><tr><td>17</td><td>このはな咲夜17</td><td>此花咲夜17</td></tr></tbody></table>
 
 
+
 ## 红美铃
 笑龙来福
 : [模板:笑龙来福](./模板-笑龙来福.md)
@@ -207,12 +217,14 @@ Private Service
 <table><tbody><tr><th colspan="3" align="center">编号内</th></tr><tr><th align="center">编号</th><th align="center">日文</th><th align="center">中文</th></tr><tr><td>1</td><td>笑龍来福1</td><td>笑龙来福1</td></tr></tbody></table>
 
 
+
 ## 蕾蒂·霍瓦特洛克
 冬天的遗忘之物
 : [模板:冬天的遗忘之物](./模板-冬天的遗忘之物.md)
 
 
 <table><tbody><tr><th colspan="3" align="center">编号内</th></tr><tr><th align="center">编号</th><th align="center">日文</th><th align="center">中文</th></tr><tr><td>1</td><td>冬の忘れ物1</td><td>冬天的遗忘之物1</td></tr></tbody></table>
+
 
 
 ## 橙
@@ -228,6 +240,7 @@ Private Service
 
 
 <table><tbody><tr><th colspan="3" align="center">编号内</th></tr><tr><th align="center">编号</th><th align="center">日文</th><th align="center">中文</th></tr><tr><td>1</td><td>炬燵の蜜柑と橙と1</td><td>与在被炉的蜜柑和橙一起1</td></tr></tbody></table>
+
 
 
 ## 爱丽丝·玛格特洛依德
@@ -259,12 +272,14 @@ Private Service
 <table><tbody><tr><th colspan="3" align="center">编号内</th></tr><tr><th align="center">编号</th><th align="center">日文</th><th align="center">中文</th></tr><tr><td>1</td><td>東方愛麗絲祭1</td><td>东方爱丽丝祭1</td></tr></tbody></table>
 
 
+
 ## 露娜萨·普莉兹姆利巴
 Luna Petit。
 : [模板:Luna Petit。](./模板-Luna_Petit。.md)
 
 
 <table><tbody><tr><th colspan="3" align="center">编号内</th></tr><tr><th align="center">编号</th><th align="center">日文</th><th align="center">中文</th></tr><tr><td>1</td><td>るなぷち。1</td><td>Luna Petit。1</td></tr></tbody></table>
+
 
 
 ## 魂魄妖梦
@@ -275,12 +290,14 @@ Luna Petit。
 <table><tbody><tr><th colspan="3" align="center">编号内</th></tr><tr><th align="center">编号</th><th align="center">日文</th><th align="center">中文</th></tr><tr><td>1</td><td>みょんな一日1</td><td>莫名其Myon的一日1</td></tr><tr><td>2</td><td>みょんな一日2</td><td>莫名其Myon的一日2</td></tr><tr><td>3</td><td>みょんな一日3</td><td>莫名其Myon的一日3</td></tr><tr><td>4</td><td>みょんな一日4</td><td>莫名其Myon的一日4</td></tr></tbody></table>
 
 
+
 ## 八云紫
 八云纷涌
 : [模板:八云纷涌](./模板-八云纷涌.md)
 
 
 <table><tbody><tr><th colspan="3" align="center">编号内</th></tr><tr><th align="center">编号</th><th align="center">日文</th><th align="center">中文</th></tr><tr><td>1</td><td>八雲立つ1</td><td>八云纷涌1</td></tr></tbody></table>
+
 
 
 ## 八云蓝
@@ -298,6 +315,7 @@ Luna Petit。
 <table><tbody><tr><th colspan="3" align="center">编号内</th></tr><tr><th align="center">编号</th><th align="center">日文</th><th align="center">中文</th></tr><tr><td>1</td><td>仙狐乃祠1</td><td>仙狐乃祠1</td></tr><tr><td>2</td><td>仙狐乃祠2</td><td>仙狐乃祠2</td></tr><tr><td>3</td><td>仙狐乃祠3</td><td>仙狐乃祠3</td></tr></tbody></table>
 
 
+
 ## 伊吹萃香
 萃香粹醉
 : [模板:萃香粹醉](./模板-萃香粹醉.md)
@@ -311,6 +329,7 @@ Luna Petit。
 
 
 <table><tbody><tr><th colspan="3" align="center">编号内</th></tr><tr><th align="center">编号</th><th align="center">日文</th><th align="center">中文</th></tr><tr><td>1</td><td>すいかといっしょ</td><td>跟萃香一起</td></tr><tr><td>2</td><td>すいかといっしょ 弐</td><td>跟萃香一起 弐</td></tr><tr><td>3</td><td>すいかといっしょ 参</td><td>跟萃香一起 参</td></tr><tr><td>4</td><td>すいかといっしょ 肆</td><td>跟萃香一起 肆</td></tr><tr><td>5</td><td>すいかといっしょ 伍</td><td>跟萃香一起 伍</td></tr><tr><td>6</td><td>すいかといっしょ 陸</td><td>跟萃香一起 陸</td></tr><tr><td>7</td><td>すいかといっしょ 漆</td><td>跟萃香一起 漆</td></tr><tr><td>8</td><td>すいかといっしょ 捌</td><td>跟萃香一起 捌</td></tr></tbody></table>
+
 
 
 ## 莉格露·奈特巴格
@@ -328,6 +347,7 @@ Luna Petit。
 <table><tbody><tr><th colspan="3" align="center">编号内</th></tr><tr><th align="center">编号</th><th align="center">日文</th><th align="center">中文</th></tr><tr><td>1</td><td>幻想郷ほたる祭り1</td><td>幻想乡萤火虫祭1</td></tr></tbody></table>
 
 
+
 ## 米斯蒂娅·萝蕾拉
 东方游宴雀
 : [模板:游宴雀](./模板-游宴雀.md)
@@ -336,12 +356,14 @@ Luna Petit。
 <table><tbody><tr><th colspan="3" align="center">编号内</th></tr><tr><th align="center">编号</th><th align="center">日文</th><th align="center">中文</th></tr><tr><td>1</td><td>東方遊宴雀</td><td>东方游宴雀</td></tr><tr><td>2</td><td>東方遊宴雀 2雀</td><td>东方游宴雀 2雀</td></tr><tr><td>3</td><td>東方遊宴雀 3雀</td><td>东方游宴雀 3雀</td></tr></tbody></table>
 
 
+
 ## 因幡天为
 永远亭帝乐园
 : [模板:永远亭帝乐园](./模板-永远亭帝乐园.md)
 
 
 <table><tbody><tr><th colspan="3" align="center">编号内</th></tr><tr><th align="center">编号</th><th align="center">日文</th><th align="center">中文</th></tr><tr><td>1</td><td>永遠亭てゐパラダイス1</td><td>永远亭帝乐园1</td></tr></tbody></table>
+
 
 
 ## 铃仙·优昙华院·因幡
@@ -366,12 +388,14 @@ Luna Petit。
 <table><tbody><tr><th colspan="3" align="center">编号内</th></tr><tr><th align="center">编号</th><th align="center">日文</th><th align="center">中文</th></tr><tr><td>1</td><td>東方玉兎祭1</td><td>东方玉兔祭1</td></tr></tbody></table>
 
 
+
 ## 蓬莱山辉夜
 竹取物语
 : [模板:竹取物语](./模板-竹取物语.md) | [模板:竹取物语/届名](./模板-竹取物语-届名.md)
 
 
 <table><tbody><tr><th colspan="3" align="center">编号内</th></tr><tr><th align="center">编号</th><th align="center">日文</th><th align="center">中文</th></tr><tr><td>1</td><td>竹取物語</td><td>竹取物语</td></tr><tr><td>2</td><td>竹取物語弐卷</td><td>竹取物语贰卷</td></tr><tr><td>3</td><td>竹取物語参卷</td><td>竹取物语参卷</td></tr><tr><td>4</td><td>竹取物語肆卷</td><td>竹取物语肆卷</td></tr><tr><td>5</td><td>竹取物語伍卷</td><td>竹取物语伍卷</td></tr><tr><td>6</td><td>竹取物語陸卷</td><td>竹取物语陸卷</td></tr><tr><td>7</td><td>竹取物語漆卷</td><td>竹取物语柒卷</td></tr><tr><td>8</td><td>竹取物語捌卷</td><td>竹取物语捌卷</td></tr></tbody></table>
+
 
 
 ## 上白泽慧音
@@ -382,12 +406,14 @@ Luna Petit。
 <table><tbody><tr><th colspan="3" align="center">编号内</th></tr><tr><th align="center">编号</th><th align="center">日文</th><th align="center">中文</th></tr><tr><td>1</td><td>寺子屋の学園祭 1</td><td>寺子屋的学园祭 1</td></tr></tbody></table>
 
 
+
 ## 藤原妹红
 灭罪寺院Volcano
 : [模板:灭罪寺院Volcano](./模板-灭罪寺院Volcano.md)
 
 
 <table><tbody><tr><th colspan="3" align="center">编号内</th></tr><tr><th align="center">编号</th><th align="center">日文</th><th align="center">中文</th></tr><tr><td>1</td><td>滅罪寺院ヴォルケイノ 1</td><td>灭罪寺院Volcano 1</td></tr></tbody></table>
+
 
 
 ## 风见幽香
@@ -403,6 +429,7 @@ Luna Petit。
 
 
 <table><tbody><tr><th colspan="3" align="center">编号外</th></tr><tr><th align="center">名称</th><th align="center">日文</th><th align="center">中文</th></tr><tr><td>A</td><td>ゆうかりん祭り 初夏</td><td>幽香香祭 初夏</td></tr></tbody></table>
+
 
 
 ## 河城荷取
@@ -434,12 +461,14 @@ Nitoripia
 <table><tbody><tr><th colspan="3" align="center">编号内</th></tr><tr><th align="center">编号</th><th align="center">日文</th><th align="center">中文</th></tr><tr><td>1</td><td>にとり♡ポケット1</td><td>荷取♡Pocket 1</td></tr><tr><td>2</td><td>にとり♡ポケット2</td><td>荷取♡Pocket 2</td></tr><tr><td>3</td><td>にとり♡ポケット3</td><td>荷取♡Pocket 3</td></tr><tr><td>4</td><td>にとり♡ポケット4</td><td>荷取♡Pocket 4</td></tr></tbody></table>
 
 
+
 ## 犬走椛
 妖怪之山的警卫
 : [模板:妖怪之山的警卫](./模板-妖怪之山的警卫.md)
 
 
 <table><tbody><tr><th colspan="3" align="center">编号内</th></tr><tr><th align="center">编号</th><th align="center">日文</th><th align="center">中文</th></tr><tr><td>1</td><td>妖怪の山の見張り役1</td><td>妖怪之山的警卫1</td></tr><tr><td>2</td><td>妖怪の山の見張り役2</td><td>妖怪之山的警卫2</td></tr></tbody></table>
+
 
 
 ## 东风谷早苗
@@ -450,12 +479,14 @@ Miracle Days
 <table><tbody><tr><th colspan="3" align="center">编号内</th></tr><tr><th align="center">编号</th><th align="center">日文</th><th align="center">中文</th></tr><tr><td>1</td><td>ミラクルデイズ1</td><td>Miracle Days 1</td></tr><tr><td>2</td><td>ミラクルデイズ2</td><td>Miracle Days 2</td></tr><tr><td>3</td><td>ミラクルデイズ3</td><td>Miracle Days 3</td></tr><tr><td>4</td><td>ミラクルデイズ4</td><td>Miracle Days 4</td></tr></tbody></table>
 
 
+
 ## 洩矢诹访子
 诹访子乐园
 : [模板:诹访子乐园](./模板-诹访子乐园.md)
 
 
 <table><tbody><tr><th colspan="3" align="center">编号内</th></tr><tr><th align="center">编号</th><th align="center">日文</th><th align="center">中文</th></tr><tr><td>1</td><td>諏訪子ランド 一</td><td>诹访子乐园 一</td></tr><tr><td>2</td><td>諏訪子ランド 二</td><td>诹访子乐园 二</td></tr><tr><td>3</td><td>諏訪子ランド 三</td><td>诹访子乐园 三</td></tr><tr><td colspan="3" align="center">&#8942;</td></tr><tr><td>5</td><td>諏訪子ランド 五</td><td>诹访子乐园 五</td></tr><tr><td>6</td><td>諏訪子ランド 六</td><td>诹访子乐园 六</td></tr></tbody></table>
+
 
 
 ## 永江衣玖
@@ -473,12 +504,14 @@ Saturday Night Fever
 <table><tbody><tr><th colspan="3" align="center">编号内</th></tr><tr><th align="center">编号</th><th align="center">日文</th><th align="center">中文</th></tr><tr><td>1</td><td>Saturday Night Fever 1</td><td>Saturday Night Fever 1</td></tr></tbody></table>
 
 
+
 ## 比那名居天子
 为美好的天子献上祝福！
 : [模板:为美好的天子献上祝福](./模板-为美好的天子献上祝福.md)
 
 
 <table><tbody><tr><th colspan="3" align="center">编号内</th></tr><tr><th align="center">编号</th><th align="center">日文</th><th align="center">中文</th></tr><tr><td>1</td><td>この素晴らしい天子に祝福を！1</td><td>为美好的天子献上祝福！1</td></tr></tbody></table>
+
 
 
 ## 火焰猫燐
@@ -489,12 +522,14 @@ Saturday Night Fever
 <table><tbody><tr><th colspan="3" align="center">编号内</th></tr><tr><th align="center">编号</th><th align="center">日文</th><th align="center">中文</th></tr><tr><td>1</td><td>旧地獄温泉 お燐の湯 1</td><td>旧地狱温泉 阿燐的浴场 1</td></tr><tr><td>2</td><td>旧地獄温泉 お燐の湯 2泊目</td><td>旧地狱温泉 阿燐的浴场 2泊目</td></tr><tr><td>3</td><td>旧地獄温泉 お燐の湯 3泊目</td><td>旧地狱温泉 阿燐的浴场 3泊目</td></tr><tr><td>4</td><td>旧地獄温泉 お燐の湯 4</td><td>旧地狱温泉 阿燐的浴场 4</td></tr><tr><td>5</td><td>旧地獄温泉 お燐の湯 5</td><td>旧地狱温泉 阿燐的浴场 5</td></tr><tr><td>6</td><td>旧地獄温泉 お燐の湯 6</td><td>旧地狱温泉 阿燐的浴场 6</td></tr><tr><td>7</td><td>旧地獄温泉 お燐の湯 7</td><td>旧地狱温泉 阿燐的浴场 7</td></tr><tr><td>8</td><td>旧地獄温泉 お燐の湯 8</td><td>旧地狱温泉 阿燐的浴场 8</td></tr><tr><td>9</td><td>旧地獄温泉 お燐の湯 9</td><td>旧地狱温泉 阿燐的浴场 9</td></tr><tr><td>10</td><td>旧地獄温泉 お燐の湯 10</td><td>旧地狱温泉 阿燐的浴场 10</td></tr><tr><td>11</td><td>旧地獄温泉 お燐の湯 11</td><td>旧地狱温泉 阿燐的浴场 11</td></tr><tr><td>12</td><td>旧地獄温泉 お燐の湯 12</td><td>旧地狱温泉 阿燐的浴场 12</td></tr><tr><td>13</td><td>旧地獄温泉 お燐の湯 13</td><td>旧地狱温泉 阿燐的浴场 13</td></tr></tbody></table>
 
 
+
 ## 娜兹玲
 东京娜兹玲乐园
 : [模板:东京娜兹玲乐园](./模板-东京娜兹玲乐园.md)
 
 
 <table><tbody><tr><th colspan="3" align="center">编号内</th></tr><tr><th align="center">编号</th><th align="center">日文</th><th align="center">中文</th></tr><tr><td>1</td><td>東京ナズーリンランド1</td><td>东京娜兹玲乐园1</td></tr><tr><td>2</td><td>東京ナズーリンランド2</td><td>东京娜兹玲乐园2</td></tr><tr><td>3</td><td>東京ナズーリンランド3</td><td>东京娜兹玲乐园3</td></tr><tr><td colspan="3" align="center">&#8942;</td></tr><tr><td>9</td><td>東京ナズーリンランド9</td><td>东京娜兹玲乐园9</td></tr><tr><td>10</td><td>東京ナズーリンランド10</td><td>东京娜兹玲乐园10</td></tr></tbody></table>
+
 
 
 ## 云山
@@ -505,12 +540,14 @@ Saturday Night Fever
 <table><tbody><tr><th colspan="3" align="center">编号内</th></tr><tr><th align="center">编号</th><th align="center">日文</th><th align="center">中文</th></tr><tr><td>1</td><td>華麗なる親父時代1</td><td>华丽的老爹时代1</td></tr></tbody></table>
 
 
+
 ## 寅丸星
 Universal Shou Japan
 : [模板:Universal Shou Japan](./模板-Universal_Shou_Japan.md)
 
 
 <table><tbody><tr><th colspan="3" align="center">编号内</th></tr><tr><th align="center">编号</th><th align="center">日文</th><th align="center">中文</th></tr><tr><td>1</td><td>ユニバーサル・ショウ・ジャパン1</td><td>Universal Shou Japan 1</td></tr></tbody></table>
+
 
 
 ## 秦心
@@ -528,6 +565,7 @@ Cocoro Communication
 <table><tbody><tr><th colspan="3" align="center">编号内</th></tr><tr><th align="center">编号</th><th align="center">日文</th><th align="center">中文</th></tr><tr><td>1</td><td>こころ仮面舞踏会1</td><td>心假面舞会1</td></tr></tbody></table>
 
 
+
 ## 鬼人正邪
 鬼人正邪感谢祭
 : [模板:鬼人正邪感谢祭](./模板-鬼人正邪感谢祭.md)
@@ -543,12 +581,14 @@ Cocoro Communication
 <table><tbody><tr><th colspan="3" align="center">编号内</th></tr><tr><th align="center">编号</th><th align="center">日文</th><th align="center">中文</th></tr><tr><td>1</td><td>反逆しようぜ！！1</td><td>叛逆吧！！1</td></tr></tbody></table>
 
 
+
 ## 菅牧典
 菅狐乃社
 : [模板:菅狐乃社](./模板-菅狐乃社.md)
 
 
 <table><tbody><tr><th colspan="3" align="center">编号内</th></tr><tr><th align="center">编号</th><th align="center">日文</th><th align="center">中文</th></tr><tr><td>1</td><td>菅狐乃社1</td><td>菅狐乃社1</td></tr></tbody></table>
+
 
 
 ## 稗田阿求
@@ -559,12 +599,14 @@ Cocoro Communication
 <table><tbody><tr><th colspan="3" align="center">编号内</th></tr><tr><th align="center">编号</th><th align="center">日文</th><th align="center">中文</th></tr><tr><td>1</td><td>求代目の紅茶会（第1回）</td><td>求代目的红茶会（第1回）</td></tr><tr><td>2</td><td>求代目の紅茶会（第2回）</td><td>求代目的红茶会（第2回）</td></tr><tr><td>3</td><td>求代目の紅茶会（第3回）</td><td>求代目的红茶会（第3回）</td></tr><tr><td colspan="3" align="center">&#8942;</td></tr><tr><td>11</td><td>求代目の紅茶会（第11回）</td><td>求代目的红茶会（第11回）</td></tr><tr><td>12</td><td>求代目の紅茶会（第12回）</td><td>求代目的红茶会（第12回）</td></tr></tbody></table>
 
 
+
 ## 茨木华扇
 华扇浪漫
 : [模板:华扇浪漫](./模板-华扇浪漫.md)
 
 
 <table><tbody><tr><th colspan="3" align="center">编号内</th></tr><tr><th align="center">编号</th><th align="center">日文</th><th align="center">中文</th></tr><tr><td>1</td><td>華扇浪漫1</td><td>华扇浪漫1</td></tr><tr><td>2</td><td>華扇浪漫2</td><td>华扇浪漫2</td></tr></tbody></table>
+
 
 
 ## 本居小铃
@@ -575,6 +617,7 @@ Cocoro Communication
 <table><tbody><tr><th colspan="3" align="center">编号内</th></tr><tr><th align="center">编号</th><th align="center">日文</th><th align="center">中文</th></tr><tr><td>1</td><td>東方铃奈祭1</td><td>东方铃奈祭1</td></tr></tbody></table>
 
 
+
 ## 宇佐见堇子
 东深见市祭
 : [模板:东深见市祭](./模板-东深见市祭.md)
@@ -583,12 +626,14 @@ Cocoro Communication
 <table><tbody><tr><th colspan="3" align="center">编号内</th></tr><tr><th align="center">编号</th><th align="center">日文</th><th align="center">中文</th></tr><tr><td>1</td><td>東深見市まつり1</td><td>东深见市祭1</td></tr></tbody></table>
 
 
+
 ## 奥野田美宵
 梦幻鲵吞祭
 : [模板:梦幻鲵吞祭](./模板-梦幻鲵吞祭.md) | [模板:梦幻鲵吞祭/届名](./模板-梦幻鲵吞祭-届名.md)
 
 
 <table><tbody><tr><th colspan="3" align="center">编号内</th></tr><tr><th align="center">编号</th><th align="center">日文</th><th align="center">中文</th></tr><tr><td>1</td><td>夢幻鯢呑祭</td><td>梦幻鲵吞祭</td></tr><tr><td>2</td><td>蚕喰夢幻鯢呑祭</td><td>蚕食梦幻鲵吞祭</td></tr><tr><td>3</td><td>蚕喰夢幻鯢呑祭 三杯目</td><td>蚕食梦幻鲵吞祭 三杯目</td></tr></tbody></table>
+
 
 
 ## 秘封俱乐部
@@ -632,6 +677,7 @@ Cocoro Communication
 
 
 <table><tbody><tr><th colspan="3" align="center">编号内</th></tr><tr><th align="center">编号</th><th align="center">日文</th><th align="center">中文</th></tr><tr><td>1</td><td>秘封蓮花蝶読書会1</td><td>秘封莲花蝶读书会1</td></tr><tr><td>2</td><td>秘封蓮花蝶読書会2</td><td>秘封莲花蝶读书会2</td></tr></tbody></table>
+
 
 
 ## 多角色
@@ -927,6 +973,7 @@ ODANGO🍡CAFE
 
 
 <table><tbody><tr><th colspan="3" align="center">编号内</th></tr><tr><th align="center">编号</th><th align="center">日文</th><th align="center">中文</th></tr><tr><td>1</td><td>ODANGO🍡CAFE 1</td><td>ODANGO🍡CAFE 1</td></tr></tbody></table>
+
 
 
 ## 其他

@@ -6,6 +6,7 @@ ZUN
 
 - 节目观看地址：[https://www.bilibili.com/video/BV19Z4y1F7XM/](https://www.bilibili.com/video/BV19Z4y1F7XM/)
 
+
 ## 目录
 
 - [1 书籍](#书籍)
@@ -27,9 +28,11 @@ ZUN
 
 
 
+
 ## 书籍
 - 以下为节目中出现的ZUN的书籍及部分ISBN编号。
 - 括弧内容为不确认或难以判断的内容。
+
 
 ### 键盘后方的书籍
 [](./文件-CREATIVE_TRAIN书架1.png.md)  [](./文件-CREATIVE_TRAIN书架1.png.md)出自视频10:03处
@@ -74,6 +77,7 @@ ZUN
 
 
 
+
 ### 书架
 
 [](./文件-CREATIVE_TRAIN书架2.png.md)[](./文件-CREATIVE_TRAIN书架2.png.md)出自视频12:54处
@@ -91,6 +95,7 @@ ZUN
 <td>4787585401</td>
 <td>978-4787585400
 </td></tr></tbody></table>
+
 
 
 #### 左侧书架 第一层
@@ -112,6 +117,7 @@ ZUN
 <td>486152329X</td>
 <td>978-4861523298
 </td></tr></tbody></table>
+
 
 
 #### 左侧书架 第二层
@@ -144,6 +150,7 @@ ZUN
 <td>4331653951</td>
 <td>978-4331653951
 </td></tr></tbody></table>
+
 
 
 #### 左侧书架 第三层

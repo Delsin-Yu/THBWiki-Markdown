@@ -23,6 +23,7 @@ KONAMI | 东方相关商业游戏 | 待完成页面
 <big> **MÚSECA** </big>，是[KONAMI](./KONAMI.md)制作的音乐游戏，第一代于2015年12月10日推出。
   
 
+
 ## 目录
 
 - [1 介绍](#介绍)
@@ -33,15 +34,18 @@ KONAMI | 东方相关商业游戏 | 待完成页面
 
 
 
+
 ## 介绍
   
 待补
   
 
+
 ## 与东方Project的关联
   
 待补
   
+
 
 ## 游戏内收录的东方同人曲目
 
@@ -59,6 +63,7 @@ KONAMI | 东方相关商业游戏 | 待完成页面
 <tr><th colspan="2"></th></tr><tr><td colspan="2" style="padding-left: 1em;"><div class="floatright"><a href="./文件-仙酌绝唱的幻想曲封面.png.md" class="image" title="仙酌绝唱的幻想曲"><img alt="仙酌绝唱的幻想曲" src="https://upload.thwiki.cc/thumb/b/ba/%E4%BB%99%E9%85%8C%E7%BB%9D%E5%94%B1%E7%9A%84%E5%B9%BB%E6%83%B3%E6%9B%B2%E5%B0%81%E9%9D%A2.png/100px-%E4%BB%99%E9%85%8C%E7%BB%9D%E5%94%B1%E7%9A%84%E5%B9%BB%E6%83%B3%E6%9B%B2%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="100" height="100" srcset="https://upload.thwiki.cc/thumb/b/ba/%E4%BB%99%E9%85%8C%E7%BB%9D%E5%94%B1%E7%9A%84%E5%B9%BB%E6%83%B3%E6%9B%B2%E5%B0%81%E9%9D%A2.png/150px-%E4%BB%99%E9%85%8C%E7%BB%9D%E5%94%B1%E7%9A%84%E5%B9%BB%E6%83%B3%E6%9B%B2%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/b/ba/%E4%BB%99%E9%85%8C%E7%BB%9D%E5%94%B1%E7%9A%84%E5%B9%BB%E6%83%B3%E6%9B%B2%E5%B0%81%E9%9D%A2.png/200px-%E4%BB%99%E9%85%8C%E7%BB%9D%E5%94%B1%E7%9A%84%E5%B9%BB%E6%83%B3%E6%9B%B2%E5%B0%81%E9%9D%A2.png 2x" data-file-width="340" data-file-height="340"></a></div><b><a href="/%E4%BB%99%E9%85%8C%E7%BB%9D%E5%94%B1%E7%9A%84%E5%B9%BB%E6%83%B3%E6%9B%B2#1" title="仙酌绝唱的幻想曲">仙酌絶唱のファンタジア</a></b> &#91;04:47&#93;<dl><dd><a href="./仙酌绝唱的幻想曲.md" title="仙酌绝唱的幻想曲">仙酌绝唱的幻想曲</a> （2016-06-19）<br>社团：<a href="/index.php?title=%E5%8D%9A%E9%BA%97%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD%E3%82%B3%E3%83%A9%E3%83%9C%E3%83%A6%E3%83%8B%E3%83%83%E3%83%88&amp;action=edit&amp;redlink=1" class="new" title="博麗神社例大祭コラボユニット（页面不存在）">博麗神社例大祭コラボユニット</a><br>编曲：<a href="/index.php?title=%E5%8D%9A%E9%BA%97%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD%E3%82%B3%E3%83%A9%E3%83%9C%E3%83%A6%E3%83%8B%E3%83%83%E3%83%88&amp;action=edit&amp;redlink=1" class="new" title="博麗神社例大祭コラボユニット（页面不存在）">博麗神社例大祭コラボユニット</a><br>演唱：<a href="./ランコ.md" title="ランコ">ランコ</a>，<a href="./綾倉盟.md" title="綾倉盟">綾倉盟</a>，<a href="./あき.md" title="あき">あき</a>，<a href="./ビートまりお.md" title="ビートまりお">ビートまりお</a>，<a href="./ichigo.md" title="ichigo">ichigo</a>，<a href="./senya.md" title="senya">senya</a>，<a href="./Rute.md" title="Rute">Rute</a><br>作词：<a href="/index.php?title=%E5%8D%9A%E9%BA%97%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD%E3%82%B3%E3%83%A9%E3%83%9C%E3%83%A6%E3%83%8B%E3%83%83%E3%83%88&amp;action=edit&amp;redlink=1" class="new" title="博麗神社例大祭コラボユニット（页面不存在）">博麗神社例大祭コラボユニット</a><br>原曲：<a href="./恋色Magic.md" title="恋色Magic" unred="">恋色マジック</a>，<a href="./少女绮想曲_～_Capriccio.md" title="少女绮想曲 ～ Capriccio" unred="">少女綺想曲　～ Capriccio</a>，<a href="./比赤色更红的梦.md" title="比赤色更红的梦" unred="">赤より紅い夢</a>，<a href="./U.N.OWEN就是她吗？.md" title="U.N.OWEN就是她吗？" unred="">U.N.オーエンは彼女なのか？</a>，<a href="./Necro-Fantasia.md" title="Necro-Fantasia" unred="">ネクロファンタジア</a>，<a href="./飘上月球，不死之烟.md" title="飘上月球，不死之烟" unred="">月まで届け、不死の煙</a>，<a href="./第六十年的东方审判_～_Fate_of_Sixty_Years.md" title="第六十年的东方审判 ～ Fate of Sixty Years" unred="">六十年目の東方裁判　～ Fate of Sixty Years</a>，<a href="./Native_Faith.md" title="Native Faith" unred="">ネイティブフェイス</a>，<a href="./哈德曼的妖怪少女.md" title="哈德曼的妖怪少女" unred="">ハルトマンの妖怪少女</a>，<a href="./平安时代的外星人.md" title="平安时代的外星人" unred="">平安のエイリアン</a>，<a href="./佐渡的二岩.md" title="佐渡的二岩" unred="">佐渡の二ッ岩</a>，<a href="./原初的节拍_～_Pristine_Beat.md" title="原初的节拍 ～ Pristine Beat" unred="">始原のビート　～ Pristine Beat</a>，<a href="./Pandemonic_Planet.md" title="Pandemonic Planet" unred="">パンデモニックプラネット</a><br></dd></dl></td></tr>
 <tr><th colspan="2"></th></tr><tr><td colspan="2" style="padding-left: 1em;"><div class="floatright"><a href="./文件-東方小曲集_-唯我独尊-封面.png.md" class="image" title="東方小曲集 -唯我独尊-"><img alt="東方小曲集 -唯我独尊-" src="https://upload.thwiki.cc/thumb/a/af/%E6%9D%B1%E6%96%B9%E5%B0%8F%E6%9B%B2%E9%9B%86_-%E5%94%AF%E6%88%91%E7%8B%AC%E5%B0%8A-%E5%B0%81%E9%9D%A2.png/100px-%E6%9D%B1%E6%96%B9%E5%B0%8F%E6%9B%B2%E9%9B%86_-%E5%94%AF%E6%88%91%E7%8B%AC%E5%B0%8A-%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="100" height="100" srcset="https://upload.thwiki.cc/thumb/a/af/%E6%9D%B1%E6%96%B9%E5%B0%8F%E6%9B%B2%E9%9B%86_-%E5%94%AF%E6%88%91%E7%8B%AC%E5%B0%8A-%E5%B0%81%E9%9D%A2.png/150px-%E6%9D%B1%E6%96%B9%E5%B0%8F%E6%9B%B2%E9%9B%86_-%E5%94%AF%E6%88%91%E7%8B%AC%E5%B0%8A-%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/a/af/%E6%9D%B1%E6%96%B9%E5%B0%8F%E6%9B%B2%E9%9B%86_-%E5%94%AF%E6%88%91%E7%8B%AC%E5%B0%8A-%E5%B0%81%E9%9D%A2.png/200px-%E6%9D%B1%E6%96%B9%E5%B0%8F%E6%9B%B2%E9%9B%86_-%E5%94%AF%E6%88%91%E7%8B%AC%E5%B0%8A-%E5%B0%81%E9%9D%A2.png 2x" data-file-width="1500" data-file-height="1500"></a></div><b><a href="/%E6%9D%B1%E6%96%B9%E5%B0%8F%E6%9B%B2%E9%9B%86_-%E5%94%AF%E6%88%91%E7%8B%AC%E5%B0%8A-#7" title="東方小曲集 -唯我独尊-">ほおずきみたいに紅い魂 ～情熱style～</a></b> &#91;04:54&#93;<dl><dd><a href="./東方小曲集_-唯我独尊-.md" title="東方小曲集 -唯我独尊-">東方小曲集 -唯我独尊-</a> （2005-12-30）<br>社团：<a href="./苍天之雪.md" title="苍天之雪">苍天之雪</a><br>编曲：<a href="/index.php?title=%E6%9F%B3%E8%8B%B1%E4%B8%80%E9%83%8E&amp;action=edit&amp;redlink=1" class="new" title="柳英一郎（页面不存在）">柳英一郎</a><br>原曲：<a href="./如鬼灯般的红色之魂.md" title="如鬼灯般的红色之魂" unred="">ほおずきみたいに紅い魂</a><br></dd></dl></td></tr>
 <tr><th colspan="2"></th></tr><tr><td colspan="2" style="padding-left: 1em;"><div class="floatright"><a href="./文件-Cradle_Re：BOOT_-_東方幻樂祀典封面.jpg.md" class="image" title="Cradle Re：BOOT - 東方幻樂祀典"><img alt="Cradle Re：BOOT - 東方幻樂祀典" src="https://upload.thwiki.cc/thumb/a/ac/Cradle_Re%EF%BC%9ABOOT_-_%E6%9D%B1%E6%96%B9%E5%B9%BB%E6%A8%82%E7%A5%80%E5%85%B8%E5%B0%81%E9%9D%A2.jpg/100px-Cradle_Re%EF%BC%9ABOOT_-_%E6%9D%B1%E6%96%B9%E5%B9%BB%E6%A8%82%E7%A5%80%E5%85%B8%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="100" height="85" srcset="https://upload.thwiki.cc/thumb/a/ac/Cradle_Re%EF%BC%9ABOOT_-_%E6%9D%B1%E6%96%B9%E5%B9%BB%E6%A8%82%E7%A5%80%E5%85%B8%E5%B0%81%E9%9D%A2.jpg/150px-Cradle_Re%EF%BC%9ABOOT_-_%E6%9D%B1%E6%96%B9%E5%B9%BB%E6%A8%82%E7%A5%80%E5%85%B8%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/a/ac/Cradle_Re%EF%BC%9ABOOT_-_%E6%9D%B1%E6%96%B9%E5%B9%BB%E6%A8%82%E7%A5%80%E5%85%B8%E5%B0%81%E9%9D%A2.jpg/200px-Cradle_Re%EF%BC%9ABOOT_-_%E6%9D%B1%E6%96%B9%E5%B9%BB%E6%A8%82%E7%A5%80%E5%85%B8%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="420" data-file-height="358"></a></div><b><a href="/Cradle_Re%EF%BC%9ABOOT_-_%E6%9D%B1%E6%96%B9%E5%B9%BB%E6%A8%82%E7%A5%80%E5%85%B8#44" title="Cradle Re：BOOT - 東方幻樂祀典">天空の花の都</a></b> &#91;03:34&#93;<dl><dd><a href="./Cradle_Re：BOOT_-_東方幻樂祀典.md" title="Cradle Re：BOOT - 東方幻樂祀典">Cradle Re:BOOT - 東方幻樂祀典</a> （2014-08-16）<br>社团：<a href="./sound_sepher.md" title="sound sepher">sound sepher</a><br>编曲：<a href="./埼玉最終兵器.md" title="埼玉最終兵器">埼玉最終兵器</a><br>原曲：<a href="./天空的花都.md" title="天空的花都" unred="">天空の花の都</a><br></dd></dl></td></tr></tbody></table>
+
 
 
 ## 参考资料

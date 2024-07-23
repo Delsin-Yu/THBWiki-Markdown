@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Touhou_Artbook_by_Vietnamese_Artists封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/f/f4/Touhou_Artbook_by_Vietnamese_Artists%E5%B0%81%E9%9D%A2.png/99px-Touhou_Artbook_by_Vietnamese_Artists%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="99" height="140" srcset="https://upload.thwiki.cc/thumb/f/f4/Touhou_Artbook_by_Vietnamese_Artists%E5%B0%81%E9%9D%A2.png/148px-Touhou_Artbook_by_Vietnamese_Artists%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/f/f4/Touhou_Artbook_by_Vietnamese_Artists%E5%B0%81%E9%9D%A2.png/198px-Touhou_Artbook_by_Vietnamese_Artists%E5%B0%81%E9%9D%A2.png 2x" data-file-width="495" data-file-height="700"></a></td>
@@ -14,7 +15,9 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.facebook.com/TouhouVNFanshop/posts/pfbid02UKYmn4MB54aXwz3Dr4e4FqwCk6sR1SMgDkYcefSD3nQBYRBoLSNBneqx7wnL51FVl">https://www.facebook.com/TouhouVNFanshop/posts/pfbid02UKYmn4MB54aXwz3Dr4e4FqwCk6sR1SMgDkYcefSD3nQBYRBoLSNBneqx7wnL51FVl</a><br><a rel="nofollow" class="external free" href="https://thvnfb.tumblr.com/post/128230137701/demo-nhỏ-cho-mặt-hàng-sắp-tới-sẽ-ra-mắt-vào-tháng">https://thvnfb.tumblr.com/post/128230137701/demo-nhỏ-cho-mặt-hàng-sắp-tới-sẽ-ra-mắt-vào-tháng</a></td></tr></tbody></table>
 
 Touhou Artbook by Vietnamese Artists（同人志，Touhou VN Fanbase，2015） - 2015年10月25日 由 Touhou VN Fanbase  发布的合同志/画集同人志，A4尺寸，分级为 一般向
+
 ## 预览
+
 ## PV
 
 <table>
@@ -25,6 +28,7 @@ Touhou Artbook by Vietnamese Artists（同人志，Touhou VN Fanbase，2015） -
 <tr>
 <td><iframe width="560" height="315" src="//www.youtube-nocookie.com/embed/JxraBQFy7d4?" frameborder="0" allowfullscreen=""></iframe>
 </td></tr></tbody></table>
+
 
 
 ## Staff
@@ -59,6 +63,7 @@ Participating Artists
 : R-A （[Pixiv ID: 4680672](https://www.pixiv.net/users/4680672), [DeviantArt: Rokudo-Aurora](https://www.deviantart.com/rokudo-aurora)）
 : Velger96 （[Pixiv ID: 6990038](https://www.pixiv.net/users/6990038), [DeviantArt: Velger96](https://www.deviantart.com/velger96)）
 : Vương Diệu （[Pixiv ID: 5591957](https://www.pixiv.net/users/5591957), [DeviantArt: vuongdieu](https://www.deviantart.com/vuongdieu)）
+
 
 ## 评论
 

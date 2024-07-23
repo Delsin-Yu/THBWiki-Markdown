@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-夢幻都市_VIOLET_METROPOLIS_VOL.3A封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/3/39/%E5%A4%A2%E5%B9%BB%E9%83%BD%E5%B8%82_VIOLET_METROPOLIS_VOL.3A%E5%B0%81%E9%9D%A2.jpg/161px-%E5%A4%A2%E5%B9%BB%E9%83%BD%E5%B8%82_VIOLET_METROPOLIS_VOL.3A%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="161" height="224" srcset="https://upload.thwiki.cc/thumb/3/39/%E5%A4%A2%E5%B9%BB%E9%83%BD%E5%B8%82_VIOLET_METROPOLIS_VOL.3A%E5%B0%81%E9%9D%A2.jpg/241px-%E5%A4%A2%E5%B9%BB%E9%83%BD%E5%B8%82_VIOLET_METROPOLIS_VOL.3A%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/3/39/%E5%A4%A2%E5%B9%BB%E9%83%BD%E5%B8%82_VIOLET_METROPOLIS_VOL.3A%E5%B0%81%E9%9D%A2.jpg/322px-%E5%A4%A2%E5%B9%BB%E9%83%BD%E5%B8%82_VIOLET_METROPOLIS_VOL.3A%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1134" data-file-height="1577"></a><div class="cover-char">角色：<a href="./茨木华扇.md" title="茨木华扇">茨木华扇</a></div></td>
@@ -18,12 +19,15 @@
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=1924109">蜜瓜</a>，<a rel="nofollow" class="external text" href="https://booth.pm/ja/items/4703894">Booth</a></td></tr></tbody></table>
 
 
+
 ## Staff
 - 砂(s73d) (未找到链接)
 
+
 ## 乐曲
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Title" colspan="2" class="title">Title<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=RD-Sounds&amp;ogmusic=テーマ・オブ・イースタンストーリー&amp;fromwiki=夢幻都市_VIOLET_METROPOLIS_VOL.3A"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./RD-Sounds.md" title="RD-Sounds">RD-Sounds</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，RD-Sounds&amp;fromwiki=夢幻都市_VIOLET_METROPOLIS_VOL.3A"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=テーマ・オブ・イースタンストーリー&amp;fromwiki=夢幻都市_VIOLET_METROPOLIS_VOL.3A"><span></span></a></span><div class="ogmusic"><a href="/%E3%83%86%E3%83%BC%E3%83%9E%E3%83%BB%E3%82%AA%E3%83%96%E3%83%BB%E3%82%A4%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC" class="mw-redirect" title="テーマ・オブ・イースタンストーリー">テーマ・オブ・イースタンストーリー</a></div><div class="source"><a href="/%E5%B9%BA%E4%B9%90%E5%9B%A2%E7%9A%84%E5%8E%86%E5%8F%B2_%EF%BD%9E_Akyu%27s_Untouched_Score_vol.5" class="mw-redirect" title="幺乐团的历史 ～ Akyu&#39;s Untouched Score vol.5">幺乐团的历史　～ Akyu's Untouched Score vol.5</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Title" colspan="2" class="title">Title<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=RD-Sounds&amp;ogmusic=テーマ・オブ・イースタンストーリー&amp;fromwiki=夢幻都市_VIOLET_METROPOLIS_VOL.3A"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./RD-Sounds.md" title="RD-Sounds">RD-Sounds</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，RD-Sounds&amp;fromwiki=夢幻都市_VIOLET_METROPOLIS_VOL.3A"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=テーマ・オブ・イースタンストーリー&amp;fromwiki=夢幻都市_VIOLET_METROPOLIS_VOL.3A"><span></span></a></span><div class="ogmusic"><a href="./テーマ・オブ・イースタンストーリー.md" class="mw-redirect" title="テーマ・オブ・イースタンストーリー">テーマ・オブ・イースタンストーリー</a></div><div class="source"><a href="./幺乐团的历史_～_Akyu's_Untouched_Score_vol.5.md" class="mw-redirect" title="幺乐团的历史 ～ Akyu&#39;s Untouched Score vol.5">幺乐团的历史　～ Akyu's Untouched Score vol.5</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

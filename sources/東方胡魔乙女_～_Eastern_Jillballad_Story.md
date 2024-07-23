@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-東方胡魔乙女_～_Eastern_Jillballad_Story封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/3/32/%E6%9D%B1%E6%96%B9%E8%83%A1%E9%AD%94%E4%B9%99%E5%A5%B3_%EF%BD%9E_Eastern_Jillballad_Story%E5%B0%81%E9%9D%A2.jpg/252px-%E6%9D%B1%E6%96%B9%E8%83%A1%E9%AD%94%E4%B9%99%E5%A5%B3_%EF%BD%9E_Eastern_Jillballad_Story%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="250" srcset="https://upload.thwiki.cc/thumb/3/32/%E6%9D%B1%E6%96%B9%E8%83%A1%E9%AD%94%E4%B9%99%E5%A5%B3_%EF%BD%9E_Eastern_Jillballad_Story%E5%B0%81%E9%9D%A2.jpg/378px-%E6%9D%B1%E6%96%B9%E8%83%A1%E9%AD%94%E4%B9%99%E5%A5%B3_%EF%BD%9E_Eastern_Jillballad_Story%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/3/32/%E6%9D%B1%E6%96%B9%E8%83%A1%E9%AD%94%E4%B9%99%E5%A5%B3_%EF%BD%9E_Eastern_Jillballad_Story%E5%B0%81%E9%9D%A2.jpg/504px-%E6%9D%B1%E6%96%B9%E8%83%A1%E9%AD%94%E4%B9%99%E5%A5%B3_%EF%BD%9E_Eastern_Jillballad_Story%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="660" data-file-height="655"></a><div class="cover-char">角色：<a href="/index.php?title=%E5%8E%9F%E5%88%9B%E8%A7%92%E8%89%B2&amp;action=edit&amp;redlink=1" class="new" title="原创角色（页面不存在）">原创角色</a></div></td>
@@ -18,12 +19,15 @@
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://ned.booth.pm/items/886894">Booth</a></td></tr></tbody></table>
 
 
+
 ## Staff
+
 ### Disc 1
   
  **Compose**   
 
 <table><tbody><tr><td><a href="./NED.md" title="NED">NED</a></td><td><a href="./ねどふる.md" title="ねどふる">ねどふる</a></td><td>Tr.1-16</td></tr></tbody></table>
+
 
 
 ### Disc 2
@@ -36,7 +40,9 @@
 Illustration
 : 斬舞滅貴 （[Twitter: @kiribu50mekki](https://twitter.com/kiribu50mekki)）
 
+
 ## 曲目列表
+
 ### Disc 1
 
 <table><tbody><tr><td id="1" class="infoYL"><b>01</b></td><td id="胡魔乙女之詩" colspan="2" class="title">胡魔乙女之詩<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=NED&amp;fromwiki=東方胡魔乙女_～_Eastern_Jillballad_Story"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./NED.md" title="NED">NED</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，NED&amp;fromwiki=東方胡魔乙女_～_Eastern_Jillballad_Story"><span></span></a></span></td></tr>
@@ -57,6 +63,7 @@ Illustration
 <tr><td id="16" class="infoYL"><b>16</b></td><td id="終天胡魔乙女" colspan="2" class="title">終天胡魔乙女<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=NED&amp;fromwiki=東方胡魔乙女_～_Eastern_Jillballad_Story"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./NED.md" title="NED">NED</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，NED&amp;fromwiki=東方胡魔乙女_～_Eastern_Jillballad_Story"><span></span></a></span></td></tr></tbody></table>
 
 
+
 ### Disc 2
 
 <table><tbody><tr><td id="17" class="infoYL"><b>01</b></td><td id="私達魔法乙女です☆(Happy_Summer_Edit)" colspan="2" class="title">私達魔法乙女です☆(Happy Summer Edit)<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=NED&amp;fromwiki=東方胡魔乙女_～_Eastern_Jillballad_Story"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./NED.md" title="NED">NED</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，NED&amp;fromwiki=東方胡魔乙女_～_Eastern_Jillballad_Story"><span></span></a></span></td></tr>
@@ -74,6 +81,7 @@ Illustration
 <tr><td id="29" class="infoYL"><b>13</b></td><td id="天地蹂躪オイルシャクソン" colspan="2" class="title">天地蹂躪オイルシャクソン<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=NED&amp;fromwiki=東方胡魔乙女_～_Eastern_Jillballad_Story"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./NED.md" title="NED">NED</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，NED&amp;fromwiki=東方胡魔乙女_～_Eastern_Jillballad_Story"><span></span></a></span></td></tr>
 <tr><td id="30" class="infoYL"><b>14</b></td><td id="20_Rains(Extended_Guild_Edit)" colspan="2" class="title">20 Rains(Extended Guild Edit)<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=NED&amp;fromwiki=東方胡魔乙女_～_Eastern_Jillballad_Story"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./NED.md" title="NED">NED</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，NED&amp;fromwiki=東方胡魔乙女_～_Eastern_Jillballad_Story"><span></span></a></span></td></tr>
 <tr><td id="31" class="infoYL"><b>15</b></td><td id="真少年の日の思い出" colspan="2" class="title">真少年の日の思い出<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=NED&amp;fromwiki=東方胡魔乙女_～_Eastern_Jillballad_Story"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./NED.md" title="NED">NED</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，NED&amp;fromwiki=東方胡魔乙女_～_Eastern_Jillballad_Story"><span></span></a></span></td></tr></tbody></table>
+
 
 
 ## 评论

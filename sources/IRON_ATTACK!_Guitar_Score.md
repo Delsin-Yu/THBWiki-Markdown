@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-IRON_ATTACK!_Guitar_Score封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/d/d1/IRON_ATTACK%21_Guitar_Score%E5%B0%81%E9%9D%A2.jpg/120px-IRON_ATTACK%21_Guitar_Score%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="120" height="168" srcset="https://upload.thwiki.cc/thumb/d/d1/IRON_ATTACK%21_Guitar_Score%E5%B0%81%E9%9D%A2.jpg/179px-IRON_ATTACK%21_Guitar_Score%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/d/d1/IRON_ATTACK%21_Guitar_Score%E5%B0%81%E9%9D%A2.jpg/239px-IRON_ATTACK%21_Guitar_Score%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1442" data-file-height="2024"></a><div class="cover-char">角色：<a href="./八云紫.md" title="八云紫">八云紫</a></div></td>
@@ -18,8 +19,10 @@ IRON ATTACK! Guitar Score（同人志，IRON ATTACK!，2020） - 2020年8月9日
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://ironattack.theshop.jp/items/32277999">其他平台</a>，<a rel="nofollow" class="external text" href="https://ironattack.booth.pm/items/2287436">Booth</a></td></tr></tbody></table>
 
 
+
 ## Staff
 - [IRON-CHINO](./IRON-CHINO.md)
+
 
 ## 评论
 

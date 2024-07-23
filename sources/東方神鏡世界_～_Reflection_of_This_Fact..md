@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 软件信息](#软件信息)
@@ -13,6 +14,7 @@
 - [3 内容页面](#内容页面)
 - [4 相关作品](#相关作品)
 - [5 评论](#评论)
+
 
 
 
@@ -35,6 +37,7 @@
 <tbody><tr><th colspan="2">配置需求</th></tr>
 <tr><td style="width:120px;padding-left:7px;"><b>操作系统</b></td><td>WindowsXP/Vista/7</td></tr><tr><td style="width:120px;padding-left:7px;"><b>CPU</b></td><td>1GHz</td></tr><tr><td style="width:120px;padding-left:7px;"><b>内存</b></td><td>512MB</td></tr>
 </tbody></table>
+
 
 
 ## Staff
@@ -64,14 +67,17 @@
 主题曲与BGM的Staff：参考游戏原声带[デコヒーレンスの神鏡解釈](./デコヒーレンスの神鏡解釈.md)。
   
 
+
 ## 内容页面
 - 游戏设定与剧情 (未找到链接)
 - 攻略 (未找到链接)
 - 其他信息 (未找到链接)
 
+
 ## 相关作品
 - 游戏原声带：[デコヒーレンスの神鏡解釈](./デコヒーレンスの神鏡解釈.md)
 - 续集：[VANISHED MAIDEN](./VANISHED_MAIDEN.md)
+
 
 ## 评论
 

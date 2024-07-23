@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Touhou_project_illustration_collection_-彻-封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/1/18/Touhou_project_illustration_collection_-%E5%BD%BB-%E5%B0%81%E9%9D%A2.jpg/196px-Touhou_project_illustration_collection_-%E5%BD%BB-%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="196" height="138" srcset="https://upload.thwiki.cc/thumb/1/18/Touhou_project_illustration_collection_-%E5%BD%BB-%E5%B0%81%E9%9D%A2.jpg/294px-Touhou_project_illustration_collection_-%E5%BD%BB-%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/1/18/Touhou_project_illustration_collection_-%E5%BD%BB-%E5%B0%81%E9%9D%A2.jpg/392px-Touhou_project_illustration_collection_-%E5%BD%BB-%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1280" data-file-height="900"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></div></td>
@@ -13,11 +14,13 @@
 </tr><tr><td class="label">首发日期</td><td>2011-01-23&#160;（<a href="/展会作品列表?e=%E4%B8%8A%E6%B5%B7ComiCon%238">上海ComiCon8</a>）</td></tr><tr><td class="label">类型</td><td>绘本</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>B5</td></tr><tr><td class="label">页数</td><td>28P</td></tr><tr><td class="label">售价</td><td>40人民币</td></tr><tr><td class="label">备注</td><td colspan="2">附带A3海报</td></tr></tbody></table>
 
 Touhou project illustration collection -彻-（同人志，弐維鏡像，2011） - 2011年1月23日 由 弐維鏡像 于 上海ComiCon8 发布的绘本同人志，B5尺寸一共28页，分级为 一般向
+
 ## Staff
 Illustration
 : 唯 （[弐維鏡像](./弐維鏡像.md)）
 Printing
 : 舞咲
+
 
 ## 评论
 ```

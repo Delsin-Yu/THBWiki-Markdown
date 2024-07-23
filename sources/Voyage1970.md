@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -40,11 +41,13 @@
 
 
 
+
 ## 基本信息
 
-<table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">ヴォヤージュ1970</td></tr><tr><td><b>译名</b></td><td>Voyage1970</td></tr><tr><td><b>英文译名</b></td><td>Voyage 1970</td></tr><tr><td><b>其他译名</b></td><td>旅人1970</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>关联</td></tr><tr><td style="padding-left:15px"><b>相关曲</b></td><td><a href="/%E3%83%B4%E3%82%A9%E3%83%A4%E3%83%BC%E3%82%B8%E3%83%A51969" class="mw-redirect" title="ヴォヤージュ1969">ヴォヤージュ1969</a></td></tr><tr><td style="padding-left:15px"><b>　来源</b></td><td>东方永夜抄　～ Imperishable Night.</td></tr></tbody></table>
+<table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">ヴォヤージュ1970</td></tr><tr><td><b>译名</b></td><td>Voyage1970</td></tr><tr><td><b>英文译名</b></td><td>Voyage 1970</td></tr><tr><td><b>其他译名</b></td><td>旅人1970</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>关联</td></tr><tr><td style="padding-left:15px"><b>相关曲</b></td><td><a href="./ヴォヤージュ1969.md" class="mw-redirect" title="ヴォヤージュ1969">ヴォヤージュ1969</a></td></tr><tr><td style="padding-left:15px"><b>　来源</b></td><td>东方永夜抄　～ Imperishable Night.</td></tr></tbody></table>
 
 Voyage1970（曲目） - 由 ZUN 创作的官方曲目，原名 ヴォヤージュ1970
+
 ## 出现作品
 
 <table>
@@ -52,8 +55,11 @@ Voyage1970（曲目） - 由 ZUN 创作的官方曲目，原名 ヴォヤージ�
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 东方永夜抄
+
 #### WAV
   
 WAV版是游戏的原声带。
@@ -68,6 +74,7 @@ WAV版是游戏的原声带。
 </td></tr></tbody></table>
 
 
+
 #### MIDI
   
 MIDI版由Roland Sound Canvas 88Pro实机录音得到。
@@ -77,7 +84,9 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td><a href="./文件-th08_13b.mid.md" title="文件:th08 13b.mid">th08_13b.mid</a></td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th08_16_SC88Pro.mp3.md" title="文件:th08 16 SC88Pro.mp3">th08_16_SC88Pro.mp3</a><br><audio src="https://upload.thwiki.cc/1/15/th08_16_SC88Pro.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>th08_13b.mid</td></tr><tr><td><b>音轨时长</b></td><td>1:29</td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 东方永夜抄
 - Music Room (未找到链接)
 
@@ -91,8 +100,11 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
 　16.Voyage1970  
 　　旅人。  
 　　但是人类在旅行。妖怪一直都是看家的，是人类旅行的纪念品。
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
   
  **ヴォヤージュ1970**  Voyage1970
@@ -105,7 +117,8 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
   - 阿波罗13号于1970年发射，但是在发射后发生爆炸，放弃登月。地球的科学家以及工程师们解决了无数的难题终于让宇航员成功返航。
     - 自机们解决辉夜的五难题，最终解决异变。
 
-  - 关于阿波罗13号可参见八意永琳的符卡天咒「Apollo 13」 (未找到链接)的[分析考据](./Apollo_13-分析与考据.md)。
+  - 关于阿波罗13号可参见八意永琳的符卡[天咒「Apollo 13」](./天咒「Apollo_13」.md)的[分析考据](./Apollo_13-分析与考据.md)。
+
 
 
 ### 二次同人数据

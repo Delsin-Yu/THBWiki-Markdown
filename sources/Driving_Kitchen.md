@@ -4,7 +4,8 @@
 
 Driving Kitchen ，于 2008 年成立，主要制作 同人音乐 的日本同人社团，主催是 Pepe，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -15,16 +16,19 @@ Driving Kitchen ，于 2008 年成立，主要制作 同人音乐 的日本同�
 
 
 
+
 ## 社团信息
 [](./文件-Driving_Kitchen_banner.jpg.md)  [](./文件-Driving_Kitchen_banner.jpg.md)Banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Driving Kitchen </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2008</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=Pepe&amp;action=edit&amp;redlink=1" class="new" title="Pepe（页面不存在）">Pepe</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://www.dkweb.org/">http://www.dkweb.org/</a> <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><br><a rel="nofollow" class="external free" href="http://drivingkitchen.blog.shinobi.jp">http://drivingkitchen.blog.shinobi.jp</a> (blog)</td></tr></tbody></table>
 
 Driving Kitchen（同人社团，同人音乐社团） - Driving Kitchen ，于 2008 年成立，主要制作 同人音乐 的日本同人社团，主催是 Pepe，当前状态为 活动
+
 ## 成员名单
 - Pepe (未找到链接)
 - Kalche (未找到链接)
 - かんま (未找到链接)
+
 
 ## 作品列表
 [](./東方熱帯夜.md)[東方熱帯夜](./東方熱帯夜.md)首发日期：2008-08-16 （Comic Market 74 (未找到链接)）DKCD-0001全长 （一般向）[](./東方冬将軍.md)[東方冬将軍](./東方冬将軍.md)首发日期：2008-12-29 （Comic Market 75 (未找到链接)）DKCD-0002全长 （一般向）[](./東方切裂魔.md)[東方切裂魔](./東方切裂魔.md)首发日期：2009-08-15 （Comic Market 76 (未找到链接)）DKCD-0003全长 （一般向）[](./Doomsday_Clock_demo.md)[Doomsday Clock demo](./Doomsday_Clock_demo.md)首发日期：2010-03-14 （第七回 博麗神社例大祭 (未找到链接)）Demo （一般向）[](./スタイリッシュ!!.md)[スタイリッシュ!!](./スタイリッシュ!!.md)首发日期：2010-08-14 （Comic Market 78 (未找到链接)）STYL-0001全长 （一般向）该作品是与 [Sun Flower Field](./Sun_Flower_Field.md)、​[クラゲノボーン](./クラゲノボーン.md)、​[オリエンス](./オリエンス.md) 合作创作的[](./Bound_in_Blood.md)[Bound in Blood](./Bound_in_Blood.md)首发日期：2012-05-27 （第九回 博麗神社例大祭 (未找到链接)）DKCD-0004全长 （一般向）
@@ -40,6 +44,7 @@ Driving Kitchen（同人社团，同人音乐社团） - Driving Kitchen ，于 
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 其他信息

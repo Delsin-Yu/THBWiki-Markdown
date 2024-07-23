@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **相关实体周边 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 周边信息](#周边信息)
@@ -21,23 +22,28 @@
 
 
 
+
 ## 周边信息
 
 <table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 会長のメガネパスケース </td></tr><tr><td class="label">译名</td><td> 会长的眼镜卡套 </td></tr><tr><td class="label">系列</td><td> 1569×メガネcafeコラボ </td></tr><tr><td class="label">制作方</td><td><a href="./1569.md" title="1569">1569</a><br><a href="./メガネcafe.md" title="メガネcafe">メガネcafe</a></td></tr><tr><td class="label">发行方</td><td><a href="./Boundary_Satellite_Cafe.md" title="Boundary Satellite Cafe">Boundary Satellite Cafe</a><br><a href="./メガネcafe.md" title="メガネcafe">メガネcafe</a></td></tr><tr><td class="label">首发日期</td><td>2018-05-05&#160;（<a href="/展会作品列表?e=Boundary+Satellite+Cafe%231">Boundary Satellite Cafe</a>）</td></tr><tr><td class="label">类型</td><td>物品套，挂件</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>10.5cm × 7cm（不包括金属链部分）</td></tr><tr><td class="label">材质</td><td>皮革（人造皮革），塑料（PVC），金属</td></tr><tr><td class="label">角色</td><td><a href="./宇佐见堇子.md" title="宇佐见堇子">宇佐见堇子</a></td></tr>
 <tr><td class="label">官网页面</td><td><a rel="nofollow" class="external free" href="http://meganenote.blog.jp/archives/51931687.html">http://meganenote.blog.jp/archives/51931687.html</a></td></tr><tr><td class="label">备注</td><td>为<a href="/Boundary_Satellite_Cafe#1" title="Boundary Satellite Cafe">Boundary Satellite Cafe</a>现场限定的合作周边。</td></tr></tbody></table>
 
 Boundary Satellite Cafe/1569×メガネcafeコラボ/会長のメガネパスケース（周边，1569，メガネcafe，2018） - 2018年5月5日 由 1569，メガネcafe 于 Boundary Satellite Cafe1 发布的物品套/挂件周边，分级为 一般向
+
 ## 参考图
   
 周边宣传、售卖时使用的作为参考图的预览图或实物图的图片。
   
 
+
 ### 实物图
 -  (未找到链接)-  (未找到链接)-  (未找到链接)-  (未找到链接)-  (未找到链接)-  (未找到链接)
+
 
 ## Staff
 Design
 : 山田メガネ (未找到链接)
+
 
 ## 评论
 

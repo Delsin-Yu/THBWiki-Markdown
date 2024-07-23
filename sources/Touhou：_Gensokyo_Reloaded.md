@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 软件信息](#软件信息)
@@ -14,6 +15,7 @@
 - [4 评论](#评论)
 - [5 外部链接](#外部链接)
 - [6 注释](#注释)
+
 
 
 
@@ -37,17 +39,21 @@ Touhou： Gensokyo Reloaded（同人软件，GR Dev Team，2015） - 2024年6月
 </tbody></table>
 
 
+
 ## Staff
 - RicePigeon (未找到链接)&#160;: main character creator
 - Traweezie (未找到链接)
 - Midori Margatroid (未找到链接)
+
 
 ## 内容页面
 - 游戏设定与剧情 (未找到链接)
 - 攻略 (未找到链接)
 - 其他信息 (未找到链接)
 
+
 ## 评论
+
 ## 外部链接
 - [Touhou: Gensokyo Reloaded on the MUGEN Database Fandom Wiki](https://mugen.fandom.com/wiki/Touhou:_Gensokyo_Reloaded)
 - [Touhou: Gensokyo Reloaded on the Touhou RP Series Fandom Wiki](https://thrp.fandom.com/wiki/Touhou:_Gensokyo_Reloaded)

@@ -8,6 +8,7 @@ PoriPori☆Club
 - 本文为概括转述，并非完整记录。
 - IBM Cloud Video上PoriPori☆Club频道已删除，2013/02/24及以前放送链接均已失效
 
+
 ## 目录
 
 - [1 2012/06/30 游戏与情色](#2012/06/30_游戏与情色)
@@ -42,6 +43,7 @@ PoriPori☆Club
 
 
 
+
 ## 2012/06/30 游戏与情色
   
 正式成员：[木村祥朗](./木村祥朗.md)、[丹泽悠一](./丹泽悠一.md)、杉山圭一、吉永龙树、藤川洋一、Yoko  
@@ -51,6 +53,7 @@ PoriPori☆Club
   
 放送记录：[http://www.ustream.tv/recorded/23666634](http://www.ustream.tv/recorded/23666634)
   
+
 
 ## 2012/07/28 室内VS室外
   
@@ -62,6 +65,7 @@ PoriPori☆Club
 放送记录：[前篇](http://www.ustream.tv/recorded/24303163) 、[后篇](http://www.ustream.tv/recorded/24303360)
   
 
+
 ## 2012/08/25 游戏VS电影
   
 正式成员：木村祥朗、丹泽悠一、杉山圭一、吉永龙树、藤川洋一、Yoko  
@@ -71,6 +75,7 @@ PoriPori☆Club
   
 放送记录：[http://www.ustream.tv/recorded/24952454](http://www.ustream.tv/recorded/24952454)
   
+
 
 ## 2012/09/23 随随便便就举行电玩SHOW 2012
   
@@ -82,6 +87,7 @@ PoriPori☆Club
 放送地址：[http://live.nicovideo.jp/watch/lv109113227](http://live.nicovideo.jp/watch/lv109113227)
   
 
+
 ## 2012/10/21 单人游戏VS多人游戏
   
 正式成员：木村祥朗、丹泽悠一、杉山圭一、吉永龙树、藤川洋一、Yoko  
@@ -91,6 +97,7 @@ PoriPori☆Club
   
 放送记录：[前篇](http://www.ustream.tv/recorded/26331074) 、[后篇](http://www.ustream.tv/recorded/26331704)
   
+
 
 ## 2012/11/23 肉食系＆草食系游戏
   
@@ -102,6 +109,7 @@ PoriPori☆Club
 放送记录：[前篇](http://www.ustream.tv/recorded/27219857) 、[后篇](http://www.ustream.tv/recorded/27220287)
   
 
+
 ## 2012/12/29 虽然很抱歉 但是2012年消失了
   
 正式成员：木村祥朗、丹泽悠一、杉山圭一、吉永龙树、藤川洋一、Yoko  
@@ -111,6 +119,7 @@ PoriPori☆Club
   
 放送记录：[http://www.ustream.tv/recorded/28111544](http://www.ustream.tv/recorded/28111544)
   
+
 
 ## 2013/01/27 情人节完全攻略？
   
@@ -122,6 +131,7 @@ PoriPori☆Club
 放送记录：[http://www.ustream.tv/recorded/28847464](http://www.ustream.tv/recorded/28847464)
   
 
+
 ## 2013/02/24 有用的游戏VS没用的游戏
   
 正式成员：木村祥朗、丹泽悠一、杉山圭一、吉永龙树、藤川洋一、Yoko  
@@ -131,6 +141,7 @@ PoriPori☆Club
   
 放送记录：[http://www.ustream.tv/recorded/29529095](http://www.ustream.tv/recorded/29529095)
   
+
 
 ## 2013/03/30 独立游戏与同人游戏
   
@@ -142,6 +153,7 @@ PoriPori☆Club
 放送地址：[http://live.nicovideo.jp/watch/lv132182730](http://live.nicovideo.jp/watch/lv132182730)
   
 
+
 ## 2013/04/13 ～两小时的iPhone游戏制作Night☆～
   
 正式成员：木村祥朗、丹泽悠一、杉山圭一、吉永龙树、藤川洋一、Yoko、Pori☆Anna  
@@ -151,6 +163,7 @@ PoriPori☆Club
   
 放送记录：[前篇](http://www.ustream.tv/recorded/31386991) 、[后篇](http://www.ustream.tv/recorded/31389075)
   
+
 
 ## 2013/06/29 触摸与快感
   
@@ -174,6 +187,7 @@ ZUN
 : 有意思的游戏光是摆弄标题菜单都有意思。
 ZUN
 : 为什么玩游戏按按钮会觉得爽？ 因为自己按完按钮就会让游戏发生变化 所以会觉得爽。
+
 
 ## 2013/08/31 独立游戏世代交替 ～清醒者 vs 酒鬼 无仁义之战！～
   
@@ -211,6 +225,7 @@ ZUN
   
 ZUN认为CC代表技术的交流，从这个角度来看CC没有意义。
   
+
 
 ## 2013/09/21-22 从东京电玩展ZUN的小屋悄悄地直播！
   
@@ -325,10 +340,12 @@ ZUN采访了我们的大革命的制作者。
 ZUN采访了独立游戏开发者，澳大利亚人Boggs Joshua、游戏制作者，瑞士人Mario. Von Rickenbach。
   
 
+
 ## 2013/10/20 独立游戏·脱口秀现场番外篇 「接着东京电玩展继续说！」
   
 直播成员：木村祥朗、ZUN、大前广树、吉永龙树、远藤琢磨、南治一德、楢村匠、饭田和敏、Nicolai
   
+
 
 ## 2013/10/26 游戏开发看不见的敌人！？ ～万圣节的怪物们～
   
@@ -339,6 +356,7 @@ ZUN采访了独立游戏开发者，澳大利亚人Boggs Joshua、游戏制作�
 放送地址：[http://live.nicovideo.jp/watch/lv156797676](http://live.nicovideo.jp/watch/lv156797676)
   
 
+
 ## 2013/12/30 ～大忘年会·残机为零 中弹判定擦边故事～
   
 嘉宾：ZUN、镜饼小太郎、和田康宏、平田真、高木谦一郎、饭田和敏、EndlessShirafu、大前广树、池谷勇人
@@ -346,6 +364,7 @@ ZUN采访了独立游戏开发者，澳大利亚人Boggs Joshua、游戏制作�
   
 放送地址：[http://live.nicovideo.jp/watch/lv162267342](http://live.nicovideo.jp/watch/lv162267342)
   
+
 
 ## 2014/03/08 PoriPori☆Club番外篇 in 京都
   
@@ -374,6 +393,7 @@ ZUN
 : 不不，我对国外本土化的要求可是很高的，我建议你找个这样的代理。
 ZUN
 : 但是，我的粉丝翻译的都是非常非常细的，正因为他们是粉丝，所以才更了解作品啊，当然也因此他们很可怕就是了。
+
 
 ## 2014/04/26 PoriPori超会议 ~贩卖小众游戏的方法~
   
@@ -409,6 +429,7 @@ ZUN
 普遍认为在中国卖不出去，盗版会淹没正版。
   
 
+
 ## 2014/08/31 主编会来哦！ ~不要紧。Fami通改版啦。~
   
 正式成员：木村祥朗、丹泽悠一、杉山圭一、吉永龙树、藤川洋一、Yoko  
@@ -418,6 +439,7 @@ ZUN
   
 放送地址：[http://live.nicovideo.jp/gate/lv190169441](http://live.nicovideo.jp/gate/lv190169441)
   
+
 
 ## 2014/09/20 TGS VS Indie Stream Fes ～四千日元的收费晚会，不来看一下吗？～
   
@@ -429,6 +451,7 @@ ZUN
 放送地址：[http://live.nicovideo.jp/watch/lv192683063](http://live.nicovideo.jp/watch/lv192683063)
   
 
+
 ## 2014/11/24 游戏节今后怎样办～ 庆祝第二届数游博举办特别节目～
   
 正式成员：木村祥朗、丹泽悠一、杉山圭一、吉永龙树、藤川洋一、Yoko  
@@ -438,6 +461,7 @@ ZUN
   
 放送地址：[http://live.nicovideo.jp/watch/lv198278432](http://live.nicovideo.jp/watch/lv198278432)
   
+
 
 ## 2014/12/28 PoriPori☆Club忘年会特别篇
   
@@ -449,6 +473,7 @@ ZUN
 放送地址：[http://live.nicovideo.jp/watch/lv204418269](http://live.nicovideo.jp/watch/lv204418269)
   
 
+
 ## 2015/02/22 街机厅补完计划：序
   
 正式成员：木村祥朗、丹泽悠一、杉山圭一、吉永龙树、藤川洋一、Yoko、Pori☆Anna  
@@ -458,6 +483,7 @@ ZUN
   
 放送地址：[http://live.nicovideo.jp/watch/lv210917376](http://live.nicovideo.jp/watch/lv210917376)
   
+
 
 ## 2015/06/14 随便开个Game Show 2015
   
@@ -469,6 +495,7 @@ ZUN
 放送地址：[http://live.nicovideo.jp/watch/lv224763479](http://live.nicovideo.jp/watch/lv224763479)
   
 
+
 ## 2015/09/19 INDIE STREAM FES 2015 ～边喝酒边畅谈吧～
   
 正式成员：木村祥朗、丹泽悠一、杉山圭一、吉永龙树、藤川洋一、Yoko、Pori☆Anna  
@@ -479,6 +506,7 @@ ZUN
 放送地址：[http://live.nicovideo.jp/watch/lv234776673](http://live.nicovideo.jp/watch/lv234776673)
   
 
+
 ## 2015/12/27 PoriPori☆Club忘年会特别篇
   
 正式成员：木村祥朗、丹泽悠一、杉山圭一、吉永龙树、藤川洋一、Yoko、Pori☆Anna  
@@ -488,6 +516,7 @@ ZUN
   
 放送地址：[http://live.nicovideo.jp/watch/lv246753981](http://live.nicovideo.jp/watch/lv246753981)
   
+
 
 ## 2016/01/31 游戏制作快感的瞬间！嗯
   

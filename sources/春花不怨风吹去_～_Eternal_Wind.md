@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **东方风自作曲** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -28,11 +29,13 @@
 
 
 
+
 ## 基本信息
 
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">風な恨みそ花の春　～ Eternal Wind</td></tr><tr><td><b>译名</b></td><td>春花不怨风吹去 ～ Eternal Wind</td></tr><tr><td><b>作曲</b></td><td><a href="./古山キリヲ.md" title="古山キリヲ" unred="">古山智之</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>再编</td></tr><tr><td style="padding-left:15px"><b>原曲</b></td><td><a href="./言语的大魔法_～_Starry_Wisdom.md" title="言语的大魔法 ～ Starry Wisdom" unred="">言ノ葉ノ大魔法　～ Starry Wisdom</a></td></tr><tr><td style="padding-left:15px"><b>　来源</b></td><td>东方魔宝城　～ Book of Star Mythology.</td></tr></tbody></table>
 
 春花不怨风吹去 ～ Eternal Wind（曲目） - 由 古山智之 创作的东方风自作曲，原名 風な恨みそ花の春　～ Eternal Wind
+
 ## 出现作品
 
 <table>
@@ -41,8 +44,11 @@
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ## 说明文本
+
 ### 东方魔宝城
 - Music Room (未找到链接)
 
@@ -56,8 +62,11 @@
 这种感觉…大概？所谓精神就是心中的宇宙啦。
   
 
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
 
 

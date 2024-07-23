@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-咲夜VS菫子封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/e/ed/%E5%92%B2%E5%A4%9CVS%E8%8F%AB%E5%AD%90%E5%B0%81%E9%9D%A2.jpg/139px-%E5%92%B2%E5%A4%9CVS%E8%8F%AB%E5%AD%90%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="139" height="196" srcset="https://upload.thwiki.cc/thumb/e/ed/%E5%92%B2%E5%A4%9CVS%E8%8F%AB%E5%AD%90%E5%B0%81%E9%9D%A2.jpg/208px-%E5%92%B2%E5%A4%9CVS%E8%8F%AB%E5%AD%90%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/e/ed/%E5%92%B2%E5%A4%9CVS%E8%8F%AB%E5%AD%90%E5%B0%81%E9%9D%A2.jpg/277px-%E5%92%B2%E5%A4%9CVS%E8%8F%AB%E5%AD%90%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="708" data-file-height="1000"></a><div class="cover-char">角色：<a href="/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C" title="十六夜咲夜">十六夜咲夜</a>，<a href="./宇佐见堇子.md" title="宇佐见堇子">宇佐见堇子</a>，<a href="./少名针妙丸.md" title="少名针妙丸">少名针妙丸</a></div></td>
@@ -14,9 +15,12 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/59437824">https://www.pixiv.net/artworks/59437824</a></td></tr></tbody></table>
 
 咲夜VS菫子（同人志，海之天切，2016） - 2016年10月16日 由 海之天切 于 博丽神社秋季例大祭3 发布的漫画同人志，一共24页，登场人物有 十六夜咲夜、宇佐见堇子、少名针妙丸、森近霖之助、博丽灵梦、茨木华扇，分级为 一般向
+
 ## 预览
+
 ## Staff
 - 海野プリン (未找到链接)
+
 
 ## 评论
 

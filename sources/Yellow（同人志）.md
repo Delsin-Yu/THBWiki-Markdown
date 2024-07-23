@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Yellow（同人志）封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/8/8d/Yellow%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/159px-Yellow%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="159" height="224" srcset="https://upload.thwiki.cc/thumb/8/8d/Yellow%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/238px-Yellow%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/8/8d/Yellow%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/317px-Yellow%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="709" data-file-height="1001"></a><div class="cover-char">角色：<a href="./灵乌路空.md" title="灵乌路空">灵乌路空</a></div></td>
@@ -14,18 +15,22 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/27366401">https://www.pixiv.net/artworks/27366401</a></td></tr></tbody></table>
 
 Yellow（同人志，ドリル乳繰り，2012） - 2012年5月27日 由 ドリル乳繰り 于 博丽神社例大祭9 发布的漫画同人志，一共68页，登场人物有 灵乌路空、古明地觉、原创角色，分级为 一般向
+
 ## 预览
 - [Pixiv（悪餓鬼）](https://www.pixiv.net/artworks/27366401)
 - [Pixiv（竜一，前篇）](https://www.pixiv.net/artworks/27364790)
 - [Pixiv（竜一，后篇）](https://www.pixiv.net/artworks/27366100)
 - [Pixiv（ベガス）](https://www.pixiv.net/artworks/27369017)
 
+
 ## Staff
 - [悪餓鬼](./悪餓鬼.md)
 - [竜一](./竜一.md)
 - [ベガス](./ベガス.md)
 
+
 ## 评论
+
 ## 其他
   
 剧情上连续的续作：[Orange](./Orange.md)

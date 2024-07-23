@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-BEAST_GIRLS封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/6/62/BEAST_GIRLS%E5%B0%81%E9%9D%A2.jpg/158px-BEAST_GIRLS%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="158" height="224" srcset="https://upload.thwiki.cc/thumb/6/62/BEAST_GIRLS%E5%B0%81%E9%9D%A2.jpg/238px-BEAST_GIRLS%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/6/62/BEAST_GIRLS%E5%B0%81%E9%9D%A2.jpg/317px-BEAST_GIRLS%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="725" data-file-height="1024"></a><div class="cover-char">角色：<a href="./骊驹早鬼.md" title="骊驹早鬼">骊驹早鬼</a>，<a href="./吉吊八千慧.md" title="吉吊八千慧">吉吊八千慧</a>，<a href="./埴安神袿姬.md" title="埴安神袿姬">埴安神袿姬</a>，<a href="/index.php?title=%E9%87%8E%E7%8B%BC%E7%81%B5&amp;action=edit&amp;redlink=1" class="new" title="野狼灵（页面不存在）">野狼灵</a></div></td>
@@ -18,8 +19,10 @@ BEAST GIRLS（同人志，ちょこふぁん，2020） - 2020年5月5日 由 ち
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://subachoco.booth.pm/items/2005377">Booth</a></td></tr></tbody></table>
 
 
+
 ## Staff
 : [すばる](./すばる.md)
+
 
 ## 评论
 

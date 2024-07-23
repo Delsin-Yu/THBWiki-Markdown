@@ -4,6 +4,7 @@
 
 天弓千亦 | 符卡
 
+
 ## 目录
 
 - [1 分析考据](#分析考据)
@@ -20,7 +21,9 @@
 
 
 
+
 ## 分析考据
+
 ### 「バレットドミニオン」
   
  **「バレットドミニオン」**  「Bullet Dominion」
@@ -51,6 +54,7 @@
 <img alt="Corner bracket left sh1.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Corner_bracket_left_sh1.svg/langzh-20px-Corner_bracket_left_sh1.svg.png" decoding="async" loading="lazy" width="20" height="29" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Corner_bracket_left_sh1.svg/langzh-30px-Corner_bracket_left_sh1.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Corner_bracket_left_sh1.svg/langzh-40px-Corner_bracket_left_sh1.svg.png 2x" data-file-width="220" data-file-height="320">
 遂肆意酒色， **暴虐无道** ，多所残害<img alt="Corner bracket right sh1.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Corner_bracket_right_sh1.svg/langzh-20px-Corner_bracket_right_sh1.svg.png" decoding="async" loading="lazy" width="20" height="29" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Corner_bracket_right_sh1.svg/langzh-30px-Corner_bracket_right_sh1.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Corner_bracket_right_sh1.svg/langzh-40px-Corner_bracket_right_sh1.svg.png 2x" data-file-width="220" data-file-height="320">
 ——晋书·桓彝传
+
 ### 「闇市場のミシガンロール」
   
  **「闇市場のミシガンロール」**  「黑市的密歇根卷」
@@ -70,8 +74,10 @@
 
 [^cite_note-1]: （英文）英文维基百科：[Dominion (card game)](https://en.wikipedia.org/wiki/en:Dominion_(card_game))
 
+
 ## 参见
 - [天弓千亦/分析考据](./天弓千亦-分析考据.md)
+
 
 ## 导航
 

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **相关实体周边 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 周边信息](#周边信息)
@@ -22,6 +23,7 @@
 
 
 
+
 ## 周边信息
 
 <table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 古明地姐妹手缝胸针3rd eye </td></tr><tr><td class="label">制作方</td><td><a href="./异想少女秘语集.md" title="异想少女秘语集">异想少女秘语集</a></td></tr><tr><td class="label">首发日期</td><td>2019-11-23</td></tr><tr><td class="label">类型</td><td>徽章，饰品</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>7cm</td></tr><tr><td class="label">材质</td><td>不织布</td></tr><tr><td class="label">角色</td><td><a href="./古明地觉.md" title="古明地觉">古明地觉</a><br><a href="./古明地恋.md" title="古明地恋">古明地恋</a></td></tr><tr><td class="label">售价</td><td>通贩售价：25人民币（觉）22人民币（恋）</td></tr>
@@ -32,12 +34,17 @@
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://item.taobao.com/item.htm?id=671017189432">淘宝</a></td></tr></tbody></table>
 
 
+
 ## 参考图
+
 ### 预览图
+
 ### 实物图
 - [](./文件-古明地姐妹手缝胸针3rd_eye实物图1.jpg.md)- [](./文件-古明地姐妹手缝胸针3rd_eye实物图2.jpg.md)- [](./文件-古明地姐妹手缝胸针3rd_eye实物图3.jpg.md)
 
+
 ## Staff
+
 ## 评论
 
 

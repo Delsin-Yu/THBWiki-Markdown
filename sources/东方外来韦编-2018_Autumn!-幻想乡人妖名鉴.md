@@ -9,6 +9,7 @@
   
 
 
+
 ## 目录
 
 - [1 比那名居天子](#比那名居天子)
@@ -16,6 +17,7 @@
 - [3 上白泽慧音](#上白泽慧音)
 - [4 莉莉霍瓦特&amp;小恶魔&amp;大妖精](#莉莉霍瓦特&amp;小恶魔&amp;大妖精)
 - [5 注释](#注释)
+
 
 
 
@@ -33,6 +35,7 @@
 <table><tbody><tr class="tt-content-header" id="比那名居天子-12" data-pos="&#91;&quot;\u6bd4\u90a3\u540d\u5c45\u5929\u5b50&quot;,12&#93;"><td class="tt-jah" lang="ja"><div class="poem">Comment from ZUN</div></td><td class="tt-zhh" lang="zh"><div class="poem">Comment from ZUN</div></td></tr><tr class="tt-content" id="比那名居天子-13" data-pos="&#91;&quot;\u6bd4\u90a3\u540d\u5c45\u5929\u5b50&quot;,13&#93;"><td class="tt-ja" lang="ja"><div class="poem">　「緋想天」のテーマが天気で、で天に上ることが決まってたので、じゃあ天人を作ろうと。天人は人間的に成熟した聖人君子である、という設定だったから本来とは違って尊大な態度に見えるようなキャラとして生まれました。イメージとしては「西遊記」の孫悟空が、近いところがあると思います。要石は「源平討魔伝」ネタです（笑）。</div></td><td class="tt-zh" lang="zh"><div class="poem">　因为「绯想天」的主题是天气，而登天的情节又已敲定，既然如此那就设计个天人角色吧。天人在设定上是集人类之大成的圣人君子，于是天子便作为一个与之乖离的态度妄自尊大的角色诞生了。我认为在形象上，比较接近的是「西游记」里的孙悟空。要石是「源平讨魔传」的梗（笑）<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">1</a></sup>。</div></td></tr></tbody></table>
 
 
+
 ## 永江衣玖
 
 <table><tbody><tr class="tt-content-header" id="永江衣玖-1" data-pos="&#91;&quot;\u6c38\u6c5f\u8863\u7396&quot;,1&#93;"><td class="tt-jah" lang="ja"><div class="poem">幻想郷人妖名鑑<br><ruby lang="ja"><rb>永</rb><rp> (</rp><rt>なが</rt><rp>) </rp></ruby><ruby lang="ja"><rb>江</rb><rp> (</rp><rt>え</rt><rp>) </rp></ruby><ruby lang="ja"><rb>衣</rb><rp> (</rp><rt>い</rt><rp>) </rp></ruby><ruby lang="ja"><rb>玖</rb><rp> (</rp><rt>く</rt><rp>) </rp></ruby></div></td><td class="tt-zhh" lang="zh"><div class="poem">幻想乡人妖名鉴<br><a href="./永江衣玖.md" title="永江衣玖">永江衣玖</a></div></td></tr><tr class="tt-content" id="永江衣玖-2" data-pos="&#91;&quot;\u6c38\u6c5f\u8863\u7396&quot;,2&#93;"><td class="tt-ja" lang="ja"><div class="poem"><b>種族</b>　　　　　　　　　竜宮の使い<br><b>活動範囲</b>　　　　　　　雲の中<br><b>主な能力</b>　　　　　　　空気を読む程度の能力<br><b>活動</b>　　　　　　　　　地震の予告</div></td><td class="tt-zh" lang="zh"><div class="poem"><b>种族</b>　　　　　　　　　龙宫使者<br><b>活动范围</b>　　　　　　　云中<br><b>主要能力</b>　　　　　　　解读周遭程度的能力<br><b>活动</b>　　　　　　　　　预报地震</div></td></tr></tbody></table>
@@ -44,6 +47,7 @@
 
 
 <table><tbody><tr class="tt-content-header" id="永江衣玖-8" data-pos="&#91;&quot;\u6c38\u6c5f\u8863\u7396&quot;,8&#93;"><td class="tt-jah" lang="ja"><div class="poem">Comment from ZUN</div></td><td class="tt-zhh" lang="zh"><div class="poem">Comment from ZUN</div></td></tr><tr class="tt-content" id="永江衣玖-9" data-pos="&#91;&quot;\u6c38\u6c5f\u8863\u7396&quot;,9&#93;"><td class="tt-ja" lang="ja"><div class="poem">　魚の「リュウグウノツカイ」は謎が多くて地震と合わせて語られますが、「天に龍が住む」というイメージと天女をかけあわせて。羽衣と魚のヒレとを重ねていたり。ちょうど開発していたころに魚の研究が進んで、生きている姿が初めて撮影されたりして。生きてる時は赤いとか、泳いでいる時は垂直だとかが取り入れられています。</div></td><td class="tt-zh" lang="zh"><div class="poem">　「龙宫使者<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">2</a></sup>」这种神秘重重的鱼经常被拿来和地震一起谈论，于是便把「龙居住在天上」这一印象和天女结合起来。拿羽衣象征鱼鳍之类的。正好在制作途中关于这种鱼的研究有了进展，首次拍摄到了活体的照片。把还活着时是红色的、垂直地游动之类的点都糅合了进去。</div></td></tr></tbody></table>
+
 
 
 ## 上白泽慧音
@@ -61,6 +65,7 @@
 
 
 <table><tbody><tr class="tt-content-header" id="上白泽慧音-10" data-pos="&#91;&quot;\u4e0a\u767d\u6cfd\u6167\u97f3&quot;,10&#93;"><td class="tt-jah" lang="ja"><div class="poem">Comment from ZUN</div></td><td class="tt-zhh" lang="zh"><div class="poem">Comment from ZUN</div></td></tr><tr class="tt-content" id="上白泽慧音-11" data-pos="&#91;&quot;\u4e0a\u767d\u6cfd\u6167\u97f3&quot;,11&#93;"><td class="tt-ja" lang="ja"><div class="poem">　人間の里に居る妖怪のイメージが先にあって、普段は人間の姿でいてほしかったから、じゃあ半獣半人かなと。なんの獣との半分こだったら面白いかというのと、歴史を絡めたかったのもあって賢い妖怪が望ましかったので、ハクタクとの組み合わせになりました。完全にネタ優先ですね。</div></td><td class="tt-zh" lang="zh"><div class="poem">　先是有了居住在人类村落里的妖怪这一形象，又希望她平时的外表是人类，于是就有了半兽半人的想法。这一半的兽要是什么才有意思呢，因为我想牵扯上历史方面所以拥有智慧的妖怪就很理想，所以就选了白泽。完全是优先考虑梗啊。</div></td></tr></tbody></table>
+
 
 
 ## 莉莉霍瓦特&amp;小恶魔&amp;大妖精

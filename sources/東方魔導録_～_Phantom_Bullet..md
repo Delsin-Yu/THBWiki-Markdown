@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 软件信息](#软件信息)
@@ -30,6 +31,7 @@
 
 
 
+
 ## 软件信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-東方魔導録_～_Phantom_Bullet.封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/6/61/%E6%9D%B1%E6%96%B9%E9%AD%94%E5%B0%8E%E9%8C%B2_%EF%BD%9E_Phantom_Bullet.%E5%B0%81%E9%9D%A2.png/224px-%E6%9D%B1%E6%96%B9%E9%AD%94%E5%B0%8E%E9%8C%B2_%EF%BD%9E_Phantom_Bullet.%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="224" height="224" srcset="https://upload.thwiki.cc/thumb/6/61/%E6%9D%B1%E6%96%B9%E9%AD%94%E5%B0%8E%E9%8C%B2_%EF%BD%9E_Phantom_Bullet.%E5%B0%81%E9%9D%A2.png/336px-%E6%9D%B1%E6%96%B9%E9%AD%94%E5%B0%8E%E9%8C%B2_%EF%BD%9E_Phantom_Bullet.%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/6/61/%E6%9D%B1%E6%96%B9%E9%AD%94%E5%B0%8E%E9%8C%B2_%EF%BD%9E_Phantom_Bullet.%E5%B0%81%E9%9D%A2.png/448px-%E6%9D%B1%E6%96%B9%E9%AD%94%E5%B0%8E%E9%8C%B2_%EF%BD%9E_Phantom_Bullet.%E5%B0%81%E9%9D%A2.png 2x" data-file-width="512" data-file-height="512"></a><div class="cover-char">角色：<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a></div></td>
@@ -42,25 +44,32 @@
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://play.google.com/store/apps/details?id=com.whiteboard.touhou">其他平台（Google Play）</a>，<a rel="nofollow" class="external text" href="https://apps.apple.com/app/id1595309646">其他平台（Apple App Store）</a></td></tr></tbody></table>
 
 
+
 ## Staff
+
 ### 作者
 -  Wb siro (未找到链接)
+
 
 ### 使用素材来源
   
 （待补充）
   
 
+
 ### 多语言翻译
+
 #### 西班牙语
   
 Ignacio Mardones G
   
 
+
 #### 英语
   
 Touhou wiki
   
+
 
 #### 简体中文
 -  林清旖 (未找到链接)
@@ -71,11 +80,13 @@ Touhou wiki
 -  咕咕咕 (未找到链接)
 - 汐
 
+
 ## 内容页面
 - [游戏系统](./東方魔導録_～_Phantom_Bullet.-系统.md)
 - [敌机符卡列表](./東方魔導録_～_Phantom_Bullet.-敌机符卡.md)
 - 其他信息 (未找到链接)
 - 游戏攻略 (未找到链接)
+
 
 ## 评论
 

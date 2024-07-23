@@ -6,11 +6,13 @@
 
 本页是关于东方Project  
  **相关实体周边 (未找到链接)** 的词条
+
 ## 模型信息
 
 <table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 爱丽丝·玛格特洛依德 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>无</td></tr><tr><td class="label">角色</td><td><a href="./爱丽丝·玛格特洛依德.md" title="爱丽丝·玛格特洛依德">爱丽丝·玛格特洛依德</a></td></tr><tr><td class="label">原型师</td><td><a href="/index.php?title=%E5%AE%AB%E5%B7%9D_%E6%AD%A6&amp;action=edit&amp;redlink=1" class="new" title="宫川 武（页面不存在）">宫川 武</a></td></tr><tr><td class="label">比例</td><td>1/6</td></tr><tr><td class="label">尺寸</td><td>230mm</td></tr><tr><td class="label">状态</td><td>已发售</td></tr><tr><td class="label">售价</td><td>8500日元</td></tr><tr><td class="label">首发日期</td><td>2010-06</td></tr><tr><td class="label">发售方</td><td><a href="/index.php?title=T%27s_System&amp;action=edit&amp;redlink=1" class="new" title="T&#39;s System（页面不存在）">T&#39;s System</a></td></tr></tbody></table>
 
 T's System/爱丽丝·玛格特洛依德（周边） - 爱丽丝·玛格特洛依德PVCFigure手办模型
+
 ## 参考图片
 
 

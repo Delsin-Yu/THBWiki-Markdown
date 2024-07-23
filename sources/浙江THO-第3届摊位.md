@@ -49,7 +49,7 @@
 <tr><td id="六角亭戒酒协助会">B9</td><td><a href="/index.php?title=%E5%85%AD%E8%A7%92%E4%BA%AD%E6%88%92%E9%85%92%E5%8D%8F%E5%8A%A9%E4%BC%9A&amp;action=edit&amp;redlink=1" class="new" title="六角亭戒酒协助会（页面不存在）">六角亭戒酒协助会</a></td><td></td><td></td><td></td></tr>
 <tr><td id="XP社">B10-13</td><td><a href="./XP社.md" title="XP社">XP社</a></td><td><a rel="nofollow" class="external text" href="http://www.xptcg.icoc.me/">官网</a><br><a rel="nofollow" class="external text" href="http://xptcg.moe/">官网</a><br><a rel="nofollow" class="external text" href="https://weibo.com/u/6012292186">微博</a></td><td></td><td></td></tr>
 <tr><td id="冰精的冰屋">C1</td><td><a href="./冰精的冰屋.md" title="冰精的冰屋">冰精的冰屋</a></td><td><a rel="nofollow" class="external text" href="https://space.bilibili.com/1494973673">哔哩哔哩</a></td><td></td><td></td></tr>
-<tr><td id="江西THO">C2</td><td><a href="/%E6%B1%9F%E8%A5%BFTHO" class="mw-redirect mw-disambig" title="江西THO">江西THO</a></td><td></td><td></td><td></td></tr>
+<tr><td id="江西THO">C2</td><td><a href="./江西THO.md" class="mw-redirect mw-disambig" title="江西THO">江西THO</a></td><td></td><td></td><td></td></tr>
 <tr><td id="此幻社">C3</td><td><a href="./此幻社.md" title="此幻社">此幻社</a></td><td><a rel="nofollow" class="external text" href="http://www.gensou.cc/">官网</a><br><a rel="nofollow" class="external text" href="https://weibo.com/u/6459386141">微博</a><br><a rel="nofollow" class="external text" href="https://space.bilibili.com/290055745">哔哩哔哩</a></td><td></td><td></td></tr>
 <tr><td id="土蛛居">C4</td><td><a href="/index.php?title=%E5%9C%9F%E8%9B%9B%E5%B1%85&amp;action=edit&amp;redlink=1" class="new" title="土蛛居（页面不存在）">土蛛居</a></td><td></td><td></td><td></td></tr>
 <tr><td id="幻想心幽">C5</td><td><a href="/index.php?title=%E5%B9%BB%E6%83%B3%E5%BF%83%E5%B9%BD&amp;action=edit&amp;redlink=1" class="new" title="幻想心幽（页面不存在）">幻想心幽</a></td><td></td><td></td><td></td></tr>
@@ -79,7 +79,7 @@
 <tr><td id="梦缘社">E5</td><td><a href="/index.php?title=%E6%A2%A6%E7%BC%98%E7%A4%BE&amp;action=edit&amp;redlink=1" class="new" title="梦缘社（页面不存在）">梦缘社</a></td><td></td><td></td><td></td></tr>
 <tr><td id="魅知印象">E6</td><td><a href="/index.php?title=%E9%AD%85%E7%9F%A5%E5%8D%B0%E8%B1%A1&amp;action=edit&amp;redlink=1" class="new" title="魅知印象（页面不存在）">魅知印象</a></td><td></td><td></td><td></td></tr>
 <tr><td id="囧仙子通贩">E7</td><td><a href="./囧仙子通贩.md" title="囧仙子通贩">囧仙子通贩</a></td><td><a rel="nofollow" class="external text" href="https://doujin.taobao.com/">淘宝</a></td><td></td><td></td></tr>
-<tr><td id="上海红茶馆">E8</td><td><a href="/%E4%B8%8A%E6%B5%B7%E7%BA%A2%E8%8C%B6%E9%A6%86" class="mw-redirect" title="上海红茶馆">上海红茶馆</a></td><td></td><td></td><td></td></tr>
+<tr><td id="上海红茶馆">E8</td><td><a href="./上海红茶馆.md" class="mw-redirect" title="上海红茶馆">上海红茶馆</a></td><td></td><td></td><td></td></tr>
 <tr><td id="THB梦缘社">E9</td><td><a href="./THB梦缘社.md" title="THB梦缘社">THB梦缘社</a></td><td><a rel="nofollow" class="external text" href="https://dream.thwiki.cc/">官网</a></td><td></td><td></td></tr>
 <tr><td id="梦幻泡影">E10-12</td><td><a href="./梦幻泡影.md" title="梦幻泡影">梦幻泡影</a></td><td><a rel="nofollow" class="external text" href="https://space.bilibili.com/627487437">哔哩哔哩</a></td><td></td><td></td></tr>
 <tr><td id="斑驳的轮唱团">官1-8</td><td><a href="./斑驳的轮唱团.md" title="斑驳的轮唱团">斑驳的轮唱团</a></td><td></td><td></td><td>官摊寄售</td></tr>
@@ -88,7 +88,7 @@
 <tr><td id="十六面花灯">官1-8</td><td><a href="/index.php?title=%E5%8D%81%E5%85%AD%E9%9D%A2%E8%8A%B1%E7%81%AF&amp;action=edit&amp;redlink=1" class="new" title="十六面花灯（页面不存在）">十六面花灯</a></td><td></td><td></td><td>官摊寄售</td></tr>
 <tr><td id="MZ次元">官1-8</td><td><a href="./MZ次元.md" title="MZ次元">MZ次元</a></td><td><a rel="nofollow" class="external text" href="https://weibo.com/u/2570093571">微博</a></td><td></td><td>官摊寄售</td></tr>
 <tr><td id="织月社">官1-8</td><td><a href="/index.php?title=%E7%BB%87%E6%9C%88%E7%A4%BE&amp;action=edit&amp;redlink=1" class="new" title="织月社（页面不存在）">织月社</a></td><td></td><td></td><td>官摊寄售</td></tr>
-<tr><td id="树莓派">官1-8</td><td><a href="/%E6%A0%91%E8%8E%93%E6%B4%BE" class="mw-redirect" title="树莓派">树莓派</a></td><td><a rel="nofollow" class="external text" href="https://space.bilibili.com/207268661">哔哩哔哩</a></td><td></td><td>官摊寄售</td></tr>
+<tr><td id="树莓派">官1-8</td><td><a href="./树莓派.md" class="mw-redirect" title="树莓派">树莓派</a></td><td><a rel="nofollow" class="external text" href="https://space.bilibili.com/207268661">哔哩哔哩</a></td><td></td><td>官摊寄售</td></tr>
 <tr><td id="大猫社">官1-8</td><td><a href="/index.php?title=%E5%A4%A7%E7%8C%AB%E7%A4%BE&amp;action=edit&amp;redlink=1" class="new" title="大猫社（页面不存在）">大猫社</a></td><td></td><td></td><td>官摊寄售</td></tr>
 <tr><td id="惟希咖啡馆">官1-8</td><td><a href="/index.php?title=%E6%83%9F%E5%B8%8C%E5%92%96%E5%95%A1%E9%A6%86&amp;action=edit&amp;redlink=1" class="new" title="惟希咖啡馆（页面不存在）">惟希咖啡馆</a></td><td></td><td></td><td>官摊寄售</td></tr>
 <tr><td id="Static_World">官1-8</td><td><a href="./Static_World.md" title="Static World">Static World</a></td><td><a rel="nofollow" class="external text" href="https://weibo.com/u/2246753633">微博</a><br><a rel="nofollow" class="external text" href="https://space.bilibili.com/371385">哔哩哔哩</a><br><a rel="nofollow" class="external text" href="http://blog.sina.com.cn/u/2246753633">官网</a></td><td></td><td>官摊寄售</td></tr>

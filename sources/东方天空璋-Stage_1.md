@@ -23,6 +23,7 @@
 </center>
 - 本词条内容为官方游戏TH16 **东方天空璋** 的敌机符卡
 
+
 ## 目录
 
 - [1 爱塔妮缇拉尔瓦](#爱塔妮缇拉尔瓦)
@@ -59,7 +60,9 @@
 
 
 
+
 ## 爱塔妮缇拉尔瓦
+
 ### 蝶符「Minute Scales」
 
 <table>
@@ -76,6 +79,7 @@
 <p><a href="./Minute_Scales.md" title="Minute Scales" unred="">蝶符「Minute Scales」</a>
 </p>
 </th></tr></tbody></table>
+
 
 
 #### 符卡信息
@@ -97,6 +101,7 @@
 
   
 
+
 ### 蝶符「凤蝶的鳞粉」
 
 <table>
@@ -113,6 +118,7 @@
 <p><a href="./Minute_Scales.md" title="Minute Scales" unred="">蝶符「凤蝶的鳞粉」</a>
 </p>
 </th></tr></tbody></table>
+
 
 
 #### 符卡信息
@@ -134,6 +140,7 @@
 
   
 
+
 ### 蝶符「Fluttering Summer」
 
 <table>
@@ -150,6 +157,7 @@
 <p><a href="./Fluttering_Summer.md" title="Fluttering Summer" unred="">蝶符「Fluttering Summer」</a>
 </p>
 </th></tr></tbody></table>
+
 
 
 #### 符卡信息
@@ -171,6 +179,7 @@
 
   
 
+
 ### 蝶符「盛夏振翅」
 
 <table>
@@ -187,6 +196,7 @@
 <p><a href="./Fluttering_Summer.md" title="Fluttering Summer" unred="">蝶符「盛夏振翅」</a>
 </p>
 </th></tr></tbody></table>
+
 
 
 #### 符卡信息
@@ -207,6 +217,7 @@
   
 
   
+
 
 ## 导航
   

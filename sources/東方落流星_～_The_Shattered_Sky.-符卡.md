@@ -8,6 +8,7 @@ Dream_Compass
 本页面用于收录东方落流星中出现的符卡。
   
 
+
 ## 目录
 
 - [1 一面](#一面)
@@ -78,12 +79,15 @@ Dream_Compass
 
 
 
+
 ## 一面
+
 ### 琪露诺
 
 <table><tbody><tr><th><b>中文名</b></th><th><b>英文名</b></th><th><b>出现位置</b></th></tr><tr><td style="width:200px">冰符「Beautiful Snowflake Scattered Away」（散落的美丽雪花）</td><td style="width:200px">Ice Sign「Beautiful Snowflake Scattered Away」</td><td style="width:180px">Hard</td></tr>
 <tr><td style="width:200px">冰符「Deadly Snowflake Dance」（死亡雪花舞）</td><td style="width:200px">Ice Sign「Deadly Snowflake Dance」</td><td style="width:180px">Lunatic</td></tr>
 <tr><td style="width:200px">URA「Permafrost Blizzard」（永冻暴雪）</td><td style="width:200px">URA「Permafrost Blizzard」</td><td style="width:180px">URA</td></tr></tbody></table>
+
 
 
 ### 铃仙·优昙华院·因幡
@@ -108,7 +112,9 @@ Dream_Compass
 <tr><td style="width:200px">URA「Illusionary Mindgames」</td><td style="width:200px">URA「Illusionary Mindgames」</td><td style="width:180px">URA</td></tr></tbody></table>
 
 
+
 ## 二面
+
 ### 火月小百合
 
 <table><tbody><tr><th><b>中文名</b></th><th><b>英文名</b></th><th><b>出现位置</b></th></tr><tr><td style="width:200px">游火「Hidden Water Magic」（隐匿水魔法）</td><td style="width:200px">Furaribi Sign「Hidden Water Magic」</td><td style="width:180px">Easy</td></tr>
@@ -135,7 +141,9 @@ Dream_Compass
 <tr><td style="width:200px">URA「Withering Flower Spell」（残花诅咒）</td><td style="width:200px">URA「Withering Flower Spell」</td><td style="width:180px">URA</td></tr></tbody></table>
 
 
+
 ## 三面
+
 ### 木灵
 
 <table><tbody><tr><th><b>中文名</b></th><th><b>英文名</b></th><th><b>出现位置</b></th></tr><tr><td style="width:200px">樱符「Sweet Flower」（香花）</td><td style="width:200px">Cherry Sign「Sweet Flower」</td><td style="width:180px">Easy</td></tr>
@@ -143,6 +151,7 @@ Dream_Compass
 <tr><td style="width:200px">樱符「Blooming Beauty」（花开烂漫）</td><td style="width:200px">Cherry Sign「Blooming Beauty」</td><td style="width:180px">Hard</td></tr>
 <tr><td style="width:200px">「Deadly Blossom」（死樱）</td><td style="width:200px">「Deadly Blossom」</td><td style="width:180px">Lunatic</td></tr>
 <tr><td style="width:200px">URA「Rafflesia Leaf」（大王花花瓣）</td><td style="width:200px">URA「Rafflesia Leaf」</td><td style="width:180px">URA</td></tr></tbody></table>
+
 
 
 ### 八重咲杏
@@ -171,7 +180,9 @@ Dream_Compass
 <tr><td style="width:200px">URA「Sakura Hanami」（赏樱会）</td><td style="width:200px">URA「Sakura Hanami」</td><td style="width:180px">URA</td></tr></tbody></table>
 
 
+
 ## 四面
+
 ### 暗水早
 
 <table><tbody><tr><th><b>中文名</b></th><th><b>英文名</b></th><th><b>出现位置</b></th></tr><tr><td style="width:200px">灭魂「Endless Rain」（无尽之雨）</td><td style="width:200px">Broken Soul「Endless Rain」</td><td style="width:180px">Easy</td></tr>
@@ -179,6 +190,7 @@ Dream_Compass
 <tr><td style="width:200px">无望「Blaming the Wrong Person」（错责他人）</td><td style="width:200px">Broken Will「Blaming the Wrong Person」</td><td style="width:180px">Hard</td></tr>
 <tr><td style="width:200px">辞别「Never Ending Pain of Love」（无尽爱之痛）</td><td style="width:200px">Resignation「Never Ending Pain of Love」</td><td style="width:180px">Lunatic</td></tr>
 <tr><td style="width:200px">URA「Blasting Heart Dance of 12 Resignated Gods」（十二恶灵的碎心之舞）</td><td style="width:200px">URA「Blasting Heart Dance of 12 Resignated Gods」</td><td style="width:180px">URA</td></tr></tbody></table>
+
 
 
 ### 黑塚赤实
@@ -240,7 +252,9 @@ Dream_Compass
 <tr><td style="width:200px">URA「Shadow Creeping Closer」（蠕行逼近的暗影）</td><td style="width:200px">URA「Shadow Creeping Closer」</td><td style="width:180px">URA</td></tr></tbody></table>
 
 
+
 ## 五面
+
 ### 火月小百合
 
 <table><tbody><tr><th><b>中文名</b></th><th><b>英文名</b></th><th><b>出现位置</b></th></tr><tr><td style="width:200px">陨符「Stardust Meteor」（星尘陨石）</td><td style="width:200px">Meteor Sign「Stardust Meteor」</td><td style="width:180px">Easy</td></tr>
@@ -248,6 +262,7 @@ Dream_Compass
 <tr><td style="width:200px">陨符「Asteroid Shower」（小行星雨）</td><td style="width:200px">Meteor Sign「Asteroid Shower」</td><td style="width:180px">Hard</td></tr>
 <tr><td style="width:200px">「Meteor Punch」（流星拳）</td><td style="width:200px">「Meteor Punch」</td><td style="width:180px">Lunatic</td></tr>
 <tr><td style="width:200px">URA「Falling Meteor Shadow Punch」（急坠流星暗影拳）</td><td style="width:200px">URA「Falling Meteor Shadow Punch」</td><td style="width:180px">URA</td></tr></tbody></table>
+
 
 
 ### 龙子
@@ -275,7 +290,9 @@ Dream_Compass
 <tr><td style="width:200px">URA「Meteor Rain Through Dark Sky」（暗夜流星雨）</td><td style="width:200px">URA「Meteor Rain Through Dark Sky」</td><td style="width:180px">URA</td></tr></tbody></table>
 
 
+
 ## 六面
+
 ### 僧正子
 
 <table><tbody><tr><th><b>中文名</b></th><th><b>英文名</b></th><th><b>出现位置</b></th></tr><tr><td style="width:200px">灾难「Volcanic Surprise」（火山惊喜）</td><td style="width:200px">Disaster「Volcanic Surprise」</td><td style="width:180px">Easy</td></tr>
@@ -310,12 +327,15 @@ Dream_Compass
 <tr><td style="width:200px">「Flying Tengu God」（飞翔天狗之神）</td><td style="width:200px">「Flying Tengu God」</td><td style="width:180px">URA</td></tr></tbody></table>
 
 
+
 ## EX面
+
 ### 火月小百合
 
 <table><tbody><tr><th><b>中文名</b></th><th><b>英文名</b></th><th><b>出现位置</b></th></tr><tr><td style="width:200px">曲符「Flaming Whirl」（燃烧漩涡）</td><td style="width:200px">Twisting Sign「Flaming Whirl」</td><td style="width:180px">Extra</td></tr>
 <tr><td style="width:200px">火球「Meteor Maze」（流星迷宫）</td><td style="width:200px">Burning Fireball「Meteor Maze」</td><td style="width:180px">Extra</td></tr>
 <tr><td style="width:200px">日符「Burning Sunray Cage」（燃烧阳光笼）</td><td style="width:200px">Sun Sign「Burning Sunray Cage」</td><td style="width:180px">Extra</td></tr></tbody></table>
+
 
 
 ### 星蛇月子
@@ -332,12 +352,15 @@ Dream_Compass
 <tr><td style="width:200px">「Demented Universe」（错乱的宇宙）</td><td style="width:200px">「Demented Universe」</td><td style="width:180px">Extra</td></tr></tbody></table>
 
 
+
 ## PH面
+
 ### 星蛇月子
 
 <table><tbody><tr><th><b>中文名</b></th><th><b>英文名</b></th><th><b>出现位置</b></th></tr><tr><td style="width:200px">弯月「Seeing Stars」（观星）</td><td style="width:200px">Twisting Moon「Seeing Stars」</td><td style="width:180px">Phantom</td></tr>
 <tr><td style="width:200px">月迷宫「Slithering Madness」（游动的疯狂）</td><td style="width:200px">Moon Maze「Slithering Madness」</td><td style="width:180px">Phantom</td></tr>
 <tr><td style="width:200px">月符「Tsukiko Moonray Mysterium」（月子的月光谜团）</td><td style="width:200px">Moon Sign「Tsukiko Moonray Mysterium」</td><td style="width:180px">Phantom</td></tr></tbody></table>
+
 
 
 ### 魅魔
@@ -355,12 +378,15 @@ Dream_Compass
 <tr><td style="width:200px">「Shooting Star of the Darkness」（暗黑流星）</td><td style="width:200px">「Shooting Star of the Darkness」</td><td style="width:180px">Phantom</td></tr></tbody></table>
 
 
+
 ## Heaven面
+
 ### 八云紫
 
 <table><tbody><tr><th><b>中文名</b></th><th><b>英文名</b></th><th><b>出现位置</b></th></tr><tr><td style="width:200px">理性人「Border of Point and Line」（点与线的境界）</td><td style="width:200px">Rational Human Being「Border of Point and Line」</td><td style="width:180px">Heaven</td></tr>
 <tr><td style="width:200px">低语者「Balance of Sound and Movement」（声与动的均衡）</td><td style="width:200px">Silent Whisperer「Balance of Sound and Movement」</td><td style="width:180px">Heaven</td></tr>
 <tr><td style="width:200px">境界线「Yokari's 5 Hidden Arcanums」（紫的五种奥秘）</td><td style="width:200px">Boundary「Yokari's 5 Hidden Arcanums」</td><td style="width:180px">Heaven</td></tr></tbody></table>
+
 
 
 ### 见神铃鹿
@@ -380,6 +406,7 @@ Dream_Compass
 <tr><td style="width:200px">魔力「Staroust Lightray」（星辰光线）<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">16</a></sup></td><td style="width:200px">Magic Force「Staroust Lightray」</td><td style="width:180px">Heaven</td></tr>
 <tr><td style="width:200px">「Lunatic Land of Great Challenges」（巨大挑战的狂气大地）<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">17</a></sup></td><td style="width:200px">「Lunatic Land of Great Challenges」</td><td style="width:180px">Heaven</td></tr>
 <tr><td style="width:200px">「Homo Proponit Sed Deus Disponit」（谋事在人，成事上主）<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">18</a></sup></td><td style="width:200px">「Homo Proponit Sed Deus Disponit」</td><td style="width:180px">Heaven</td></tr></tbody></table>
+
 
 
 ## Last Word
@@ -403,6 +430,7 @@ Dream_Compass
 
 
 [^cite_note-1]: 捏他游戏《口袋妖怪》龙系技能“流星群”（Draco Meteor）。
+
 
 ## 词条导航
   

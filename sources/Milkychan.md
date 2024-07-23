@@ -6,21 +6,27 @@
 
 本页是关于东方Project  
  **二次同人创作者** 的词条
+
 ## 基本信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="label"><b>名称</b></td><td> Milkychan </td></tr><tr><td class="label"><b>别名</b></td><td>Milky</td></tr><tr><td class="label"><b>所属社团</b></td><td><b>当前</b><div style="margin-left:2em;"><a href="./Norowareta_Night.md" title="Norowareta Night">Norowareta Night</a>，<a href="./Frozen_Starfall.md" title="Frozen Starfall">Frozen Starfall</a></div><b>过往</b><div style="margin-left:2em;"><a href="./Babbe_Music.md" title="Babbe Music">Babbe Music</a>，<a href="./Last_Dream.md" title="Last Dream">Last Dream</a></div></td></tr><tr><td class="label"><b>职位</b></td><td>作曲，编曲，演唱，作词</td></tr><tr><td class="label"><b>参与社团</b></td><td><a href="./Alstroemeria_Records.md" title="Alstroemeria Records">Alstroemeria Records</a> （演唱）<br><a href="./Babbe_Music.md" title="Babbe Music">Babbe Music</a> （演唱，作词）<br><a href="./BlossomNightfall.md" title="BlossomNightfall">BlossomNightfall</a> （编曲，演唱，作词）<br><a href="./Distant_Phantasm（同人社团）.md" title="Distant Phantasm（同人社团）">Distant Phantasm（同人社团）</a> （演唱）<br><a href="./Frozen_Starfall.md" title="Frozen Starfall">Frozen Starfall</a> （演唱，作词）<br><a href="./Higan_Daybreak.md" title="Higan Daybreak">Higan Daybreak</a> （演唱）<br><a href="./Holmgang_Ov_Gensokyo.md" title="Holmgang Ov Gensokyo">Holmgang Ov Gensokyo</a> （演唱）<br><a href="./KodamaSounds.md" title="KodamaSounds">KodamaSounds</a> （编曲，演唱，作词）<br><a href="./Last_Dream.md" title="Last Dream">Last Dream</a> （编曲，演唱，作词）<br><a href="./Matutinum_Miserabilis.md" title="Matutinum Miserabilis">Matutinum Miserabilis</a> （演唱）<br><a href="./Norowareta_Night.md" title="Norowareta Night">Norowareta Night</a> （作曲，编曲，演唱，作词）<br><a href="./Saga_Infinity.md" title="Saga Infinity">Saga Infinity</a> （编曲）<br><a href="./Sieudiver.md" title="Sieudiver">Sieudiver</a> （编曲，演唱，作词）<br><a href="./Studio_“Syrup_Comfiture”.md" title="Studio “Syrup Comfiture”">Studio “Syrup Comfiture”</a> （演唱）<br><a href="./Takamachi_Walk.md" title="Takamachi Walk">Takamachi Walk</a> （编曲，演唱，作词）</td></tr><tr><td class="label"><b>性别</b></td><td>女</td></tr><tr><td class="label"><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="https://norowaretanight.bandcamp.com/">https://norowaretanight.bandcamp.com/</a></td></tr><tr><td class="label"><b>个人页面</b></td><td><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><b>Twitter</b></td><td><a rel="nofollow" class="external free" href="https://twitter.com/Milkeechan">https://twitter.com/Milkeechan</a></td></tr><tr><td><b>Soundcloud</b></td><td><a rel="nofollow" class="external free" href="https://soundcloud.com/milkychan">https://soundcloud.com/milkychan</a></td></tr><tr><td><b>Youtube</b></td><td><a rel="nofollow" class="external free" href="http://youtube.com/xXMilkychanXx">http://youtube.com/xXMilkychanXx</a></td></tr></tbody></table></td></tr></tbody></table>
 
 Milkychan（人物） - 现实人物
+
 ## 介绍
+
 ## 参与曲目
   
 模板:人物曲目列表 (未找到链接)
   
 
+
 ## 作品列表
+
 ### 同人专辑
 .with loving eyes 封面图片 (未找到链接).with loving eyes (未找到链接)首发日期：未知 - 
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style></table>
+
 
 
 ## 人际关系

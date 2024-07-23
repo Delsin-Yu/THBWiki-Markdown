@@ -4,6 +4,7 @@
 
 あんどんカンテラ | 社团LOGO
 
+
 ## 摘要
   
 源地址：[direct image link](https://web.archive.org/web/20110424101535if_/http://orange.ap.teacup.com/andon-kandelaar/img/1250754723.png), [source page](https://web.archive.org/web/20100223013102/http://orange.ap.teacup.com/andon-kandelaar/)

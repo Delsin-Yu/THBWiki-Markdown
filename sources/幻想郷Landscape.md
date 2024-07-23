@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-幻想郷Landscape封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/b/bf/%E5%B9%BB%E6%83%B3%E9%83%B7Landscape%E5%B0%81%E9%9D%A2.jpg/224px-%E5%B9%BB%E6%83%B3%E9%83%B7Landscape%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="223" srcset="https://upload.thwiki.cc/thumb/b/bf/%E5%B9%BB%E6%83%B3%E9%83%B7Landscape%E5%B0%81%E9%9D%A2.jpg/336px-%E5%B9%BB%E6%83%B3%E9%83%B7Landscape%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/b/bf/%E5%B9%BB%E6%83%B3%E9%83%B7Landscape%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="384" data-file-height="382"></a></td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://silentsphere.blog110.fc2.com/blog-date-201012.html">http://silentsphere.blog110.fc2.com/blog-date-201012.html</a></td></tr></tbody></table>
 
 幻想郷Landscape（同人专辑，Silent Sphere，2010） - 2010年12月30日 由 Silent Sphere 于 Comic Market 79 发布的单曲同人专辑，分级为 一般向
+
 ## Staff
   
  **Arrangement**   
@@ -24,16 +26,19 @@
 Design
 : acple
 
+
 ## 试听
   
 <iframe width="100%" height="180" src="https://ext.nicovideo.jp/thumb/sm14364680" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/watch/sm14364680">,</a></iframe>
 
   
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="雲の向こう" colspan="2" class="title">雲の向こう<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=acple&amp;ogmusic=幽霊楽団　～ Phantom Ensemble&amp;fromwiki=幻想郷Landscape"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=acple&amp;action=edit&amp;redlink=1" class="new" title="acple（页面不存在）">acple</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，acple&amp;fromwiki=幻想郷Landscape"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=幽霊楽団　～ Phantom Ensemble&amp;fromwiki=幻想郷Landscape"><span></span></a></span><div class="ogmusic"><a href="/%E5%B9%BD%E9%9C%8A%E6%A5%BD%E5%9B%A3_%EF%BD%9E_Phantom_Ensemble" class="mw-redirect" title="幽霊楽団 ～ Phantom Ensemble">幽霊楽団　～ Phantom Ensemble</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E5%A6%96%E5%A6%96%E6%A2%A6_%EF%BD%9E_Perfect_Cherry_Blossom." class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr>
-<tr><td id="2" class="infoYD"><b>02</b></td><td id="暗闇の中へ" colspan="2" class="title">暗闇の中へ<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=acple&amp;ogmusic=ハートフェルトファンシー&amp;fromwiki=幻想郷Landscape"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=acple&amp;action=edit&amp;redlink=1" class="new" title="acple（页面不存在）">acple</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，acple&amp;fromwiki=幻想郷Landscape"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=ハートフェルトファンシー&amp;fromwiki=幻想郷Landscape"><span></span></a></span><div class="ogmusic"><a href="/%E3%83%8F%E3%83%BC%E3%83%88%E3%83%95%E3%82%A7%E3%83%AB%E3%83%88%E3%83%95%E3%82%A1%E3%83%B3%E3%82%B7%E3%83%BC" class="mw-redirect" title="ハートフェルトファンシー">ハートフェルトファンシー</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E5%9C%B0%E7%81%B5%E6%AE%BF_%EF%BD%9E_Subterranean_Animism." class="mw-redirect" title="东方地灵殿 ～ Subterranean Animism.">东方地灵殿　～ Subterranean Animism.</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="雲の向こう" colspan="2" class="title">雲の向こう<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=acple&amp;ogmusic=幽霊楽団　～ Phantom Ensemble&amp;fromwiki=幻想郷Landscape"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=acple&amp;action=edit&amp;redlink=1" class="new" title="acple（页面不存在）">acple</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，acple&amp;fromwiki=幻想郷Landscape"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=幽霊楽団　～ Phantom Ensemble&amp;fromwiki=幻想郷Landscape"><span></span></a></span><div class="ogmusic"><a href="./幽霊楽団_～_Phantom_Ensemble.md" class="mw-redirect" title="幽霊楽団 ～ Phantom Ensemble">幽霊楽団　～ Phantom Ensemble</a></div><div class="source"><a href="./东方妖妖梦_～_Perfect_Cherry_Blossom..md" class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr>
+<tr><td id="2" class="infoYD"><b>02</b></td><td id="暗闇の中へ" colspan="2" class="title">暗闇の中へ<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=acple&amp;ogmusic=ハートフェルトファンシー&amp;fromwiki=幻想郷Landscape"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=acple&amp;action=edit&amp;redlink=1" class="new" title="acple（页面不存在）">acple</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，acple&amp;fromwiki=幻想郷Landscape"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=ハートフェルトファンシー&amp;fromwiki=幻想郷Landscape"><span></span></a></span><div class="ogmusic"><a href="./ハートフェルトファンシー.md" class="mw-redirect" title="ハートフェルトファンシー">ハートフェルトファンシー</a></div><div class="source"><a href="./东方地灵殿_～_Subterranean_Animism..md" class="mw-redirect" title="东方地灵殿 ～ Subterranean Animism.">东方地灵殿　～ Subterranean Animism.</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

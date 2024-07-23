@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **相关实体周边 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 周边信息](#周边信息)
@@ -21,18 +22,23 @@
 
 
 
+
 ## 周边信息
 
 <table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> LiLi×2 - RETURNED -クリアファイル </td></tr><tr><td class="label">译名</td><td> LiLi×2 - RETURNED -透明文件夹 </td></tr><tr><td class="label">制作方</td><td><a href="./夢見里.md" title="夢見里">夢見里</a></td></tr><tr><td class="label">首发日期</td><td>2018-05-06&#160;（<a href="/展会作品列表?e=%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD%2315">第十五回 博麗神社例大祭</a>）</td></tr><tr><td class="label">类型</td><td>文具，袋</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>A4</td></tr><tr><td class="label">角色</td><td><a href="./莉莉霍瓦特.md" title="莉莉霍瓦特">莉莉霍瓦特</a></td></tr><tr><td class="label">售价</td><td>300日元</td></tr>
 <tr><td class="label">官网页面</td><td><a rel="nofollow" class="external free" href="https://twitter.com/bakuPA/status/992416536848560129">https://twitter.com/bakuPA/status/992416536848560129</a></td></tr></tbody></table>
 
 夢見里/LiLi×2 - RETURNED -クリアファイル（周边，夢見里，2018） - 2018年5月6日 由 夢見里 于 博丽神社例大祭15 发布的文具/袋周边，分级为 一般向
+
 ## 参考图
+
 ### 预览图
 - [](./文件-夢見里／LiLi×2_-_RETURNED_-クリアファイル预览图1.jpg.md)- [](./文件-夢見里／LiLi×2_-_RETURNED_-クリアファイル预览图2.jpg.md)- [](./文件-夢見里／LiLi×2_-_RETURNED_-クリアファイル预览图3.jpg.md)
 
+
 ### 实物图
 - [](./文件-夢見里／LiLi×2_-_RETURNED_-クリアファイル实物图1.jpg.md)
+
 
 ## Staff
 Illustration

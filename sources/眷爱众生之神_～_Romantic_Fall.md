@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -34,11 +35,13 @@
 
 
 
+
 ## 基本信息
 
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">人恋し神様　～ Romantic Fall</td></tr><tr><td><b>译名</b></td><td>眷爱众生之神 ～ Romantic Fall</td></tr><tr><td><b>英文译名</b></td><td>A God That Misses People ~ Romantic Fall</td></tr><tr><td><b>其他译名</b></td><td>喜爱人类的神明　～ Romantic Fall<br>眷恋众人之神　～ Romantic Fall</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 眷爱众生之神 ～ Romantic Fall（曲目） - 由 ZUN 创作的官方曲目，原名 人恋し神様　～ Romantic Fall
+
 ## 出现作品
 
 <table>
@@ -47,7 +50,9 @@
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 东方风神录
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th10_02.mp3.md" title="文件:th10 02.mp3">th10_02.mp3</a><br><audio src="https://upload.thwiki.cc/6/60/th10_02.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>BGM\th10_02.wav</td></tr><tr><td><b>BGMForAll</b></td><td><div class="mw-collapsible mw-collapsed">
@@ -58,7 +63,9 @@
 </td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 东方风神录
 - Music Room (未找到链接)
 
@@ -68,8 +75,11 @@
 　还是毫无紧张感的曲调也好……  
 　这真是至今为止在东方中数一数二有第一面感觉的曲子了，  
 　大家觉得怎么样呢？
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
   
  **人恋し神様　～ Romantic Fall**  眷爱众生之神　～ Romantic Fall
@@ -85,6 +95,7 @@
 - Romantic Fall
   - 浪漫之秋。
   - 秋姐妹。
+
 
 
 ### 二次同人数据

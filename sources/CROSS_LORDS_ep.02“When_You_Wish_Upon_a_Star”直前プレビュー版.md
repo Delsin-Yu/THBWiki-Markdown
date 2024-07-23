@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-CROSS_LORDS_ep.02“When_You_Wish_Upon_a_Star”直前プレビュー版封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/4/49/CROSS_LORDS_ep.02%E2%80%9CWhen_You_Wish_Upon_a_Star%E2%80%9D%E7%9B%B4%E5%89%8D%E3%83%97%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E7%89%88%E5%B0%81%E9%9D%A2.jpg/140px-CROSS_LORDS_ep.02%E2%80%9CWhen_You_Wish_Upon_a_Star%E2%80%9D%E7%9B%B4%E5%89%8D%E3%83%97%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E7%89%88%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="140" height="196" srcset="https://upload.thwiki.cc/thumb/4/49/CROSS_LORDS_ep.02%E2%80%9CWhen_You_Wish_Upon_a_Star%E2%80%9D%E7%9B%B4%E5%89%8D%E3%83%97%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E7%89%88%E5%B0%81%E9%9D%A2.jpg/210px-CROSS_LORDS_ep.02%E2%80%9CWhen_You_Wish_Upon_a_Star%E2%80%9D%E7%9B%B4%E5%89%8D%E3%83%97%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E7%89%88%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/4/49/CROSS_LORDS_ep.02%E2%80%9CWhen_You_Wish_Upon_a_Star%E2%80%9D%E7%9B%B4%E5%89%8D%E3%83%97%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E7%89%88%E5%B0%81%E9%9D%A2.jpg/280px-CROSS_LORDS_ep.02%E2%80%9CWhen_You_Wish_Upon_a_Star%E2%80%9D%E7%9B%B4%E5%89%8D%E3%83%97%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E7%89%88%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="900" data-file-height="1259"></a><div class="cover-char">角色：<a href="/index.php?title=%E5%8D%9A%E5%A3%AB_(%E7%A5%9E%E7%A7%98%E5%8D%9A%E5%A3%AB)&amp;action=edit&amp;redlink=1" class="new" title="博士 (神秘博士)（页面不存在）">博士 (神秘博士)</a>，<a href="./宇佐见莲子.md" title="宇佐见莲子">宇佐见莲子</a>，<a href="./玛艾露贝莉·赫恩.md" title="玛艾露贝莉·赫恩">玛艾露贝莉·赫恩</a></div></td>
@@ -14,9 +15,12 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/101093095">https://www.pixiv.net/artworks/101093095</a><br><a rel="nofollow" class="external free" href="https://twitter.com/uterus666/status/1567907148449091585">https://twitter.com/uterus666/status/1567907148449091585</a></td></tr><tr><td class="label">备注</td><td colspan="2">秘封俱乐部×<a href="https://zh.wikipedia.org/wiki/異世奇人" class="extiw" title="wzh:異世奇人">神秘博士</a></td></tr></tbody></table>
 
 CROSS LORDS ep.02“When You Wish Upon a Star”直前プレビュー版（同人志，AbyssDragon，2022） - 2022年9月11日 由 AbyssDragon 于 科学世纪的露天咖啡座11 发布的漫画同人志，一共46页，登场人物有 宇佐见莲子、玛艾露贝莉·赫恩、博士 (神秘博士)、蕾米莉亚·斯卡蕾特，分级为 一般向
+
 ## 预览
+
 ## Staff
 - エンジェルダスト (未找到链接)
+
 
 ## 评论
 

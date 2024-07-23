@@ -18,6 +18,7 @@
 
 
 </center>
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-ZUNが描いた東北封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/c/c6/ZUN%E3%81%8C%E6%8F%8F%E3%81%84%E3%81%9F%E6%9D%B1%E5%8C%97%E5%B0%81%E9%9D%A2.jpg/118px-ZUN%E3%81%8C%E6%8F%8F%E3%81%84%E3%81%9F%E6%9D%B1%E5%8C%97%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="118" height="168" srcset="https://upload.thwiki.cc/thumb/c/c6/ZUN%E3%81%8C%E6%8F%8F%E3%81%84%E3%81%9F%E6%9D%B1%E5%8C%97%E5%B0%81%E9%9D%A2.jpg/177px-ZUN%E3%81%8C%E6%8F%8F%E3%81%84%E3%81%9F%E6%9D%B1%E5%8C%97%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/c/c6/ZUN%E3%81%8C%E6%8F%8F%E3%81%84%E3%81%9F%E6%9D%B1%E5%8C%97%E5%B0%81%E9%9D%A2.jpg/236px-ZUN%E3%81%8C%E6%8F%8F%E3%81%84%E3%81%9F%E6%9D%B1%E5%8C%97%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="901" data-file-height="1280"></a></td>
@@ -30,8 +31,10 @@ ZUNが描いた東北（同人志，五花八門，2014） - 2014年3月2日 由
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://circle-goka.booth.pm/items/434256">Booth</a></td></tr></tbody></table>
 
 
+
 ## Staff
 - 上條紗智 (未找到链接)
+
 
 ## 评论
 ```

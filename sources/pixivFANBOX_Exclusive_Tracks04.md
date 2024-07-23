@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=pixivFANBOX_Exclusive_Tracks04%E5%B0%81%E9%9D%A2.jpg" class="new" title="文件:pixivFANBOX Exclusive Tracks04封面.jpg">封面图片</a></td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/Hydra_BAND_/status/1805174286304645162">https://twitter.com/Hydra_BAND_/status/1805174286304645162</a></td></tr></tbody></table>
 
 pixivFANBOX Exclusive Tracks04（同人专辑，玲瓏のHydrangea，2024） - 2024年6月25日 由 玲瓏のHydrangea  发布的单曲同人专辑，分级为 一般向
+
 ## Staff
   
  **Arrangement**   
@@ -31,6 +33,7 @@ pixivFANBOX Exclusive Tracks04（同人专辑，玲瓏のHydrangea，2024） - 2
 <table><tbody><tr><td><a href="./一咲美葵.md" title="一咲美葵">一咲美葵</a></td><td><a href="./玲瓏のHydrangea.md" title="玲瓏のHydrangea">玲瓏のHydrangea</a></td><td>Tr.1</td></tr></tbody></table>
 
 
+
 ## 试听
 
 <table>
@@ -43,9 +46,11 @@ pixivFANBOX Exclusive Tracks04（同人专辑，玲瓏のHydrangea，2024） - 2
 </td></tr></tbody></table>
 
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoRD"><b>01</b></td><td id="落ちた雫の水鏡" colspan="2" class="title"><span class="new" title="（歌词页面不存在）"><a href="/index.php?title=%E6%AD%8C%E8%AF%8D:%E8%90%BD%E3%81%A1%E3%81%9F%E9%9B%AB%E3%81%AE%E6%B0%B4%E9%8F%A1&amp;boilerplate=模板:页面模板/曲目歌词&amp;action=edit">落ちた雫の水鏡</a></span><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=あみた，日高真夢&amp;vocal=一咲美葵&amp;lyric=一咲美葵&amp;ogmusic=タイニーシャングリラ&amp;fromwiki=pixivFANBOX_Exclusive_Tracks04"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./あみた.md" title="あみた">あみた</a>，<a href="./日高真夢.md" title="日高真夢">日高真夢</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，あみた，日高真夢&amp;fromwiki=pixivFANBOX_Exclusive_Tracks04"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="./一咲美葵.md" title="一咲美葵">一咲美葵</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=一咲美葵&amp;fromwiki=pixivFANBOX_Exclusive_Tracks04"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="./一咲美葵.md" title="一咲美葵">一咲美葵</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?lyric=一咲美葵&amp;fromwiki=pixivFANBOX_Exclusive_Tracks04"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=タイニーシャングリラ&amp;fromwiki=pixivFANBOX_Exclusive_Tracks04"><span></span></a></span><div class="ogmusic"><a href="/%E3%82%BF%E3%82%A4%E3%83%8B%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%B3%E3%82%B0%E3%83%AA%E3%83%A9" class="mw-redirect" title="タイニーシャングリラ">タイニーシャングリラ</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E5%85%BD%E7%8E%8B%E5%9B%AD_%EF%BD%9E_Unfinished_Dream_of_All_Living_Ghost." class="mw-redirect" title="东方兽王园 ～ Unfinished Dream of All Living Ghost.">东方兽王园　～ Unfinished Dream of All Living Ghost.</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoRD"><b>01</b></td><td id="落ちた雫の水鏡" colspan="2" class="title"><span class="new" title="（歌词页面不存在）"><a href="/index.php?title=%E6%AD%8C%E8%AF%8D:%E8%90%BD%E3%81%A1%E3%81%9F%E9%9B%AB%E3%81%AE%E6%B0%B4%E9%8F%A1&amp;boilerplate=模板:页面模板/曲目歌词&amp;action=edit">落ちた雫の水鏡</a></span><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=あみた，日高真夢&amp;vocal=一咲美葵&amp;lyric=一咲美葵&amp;ogmusic=タイニーシャングリラ&amp;fromwiki=pixivFANBOX_Exclusive_Tracks04"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./あみた.md" title="あみた">あみた</a>，<a href="./日高真夢.md" title="日高真夢">日高真夢</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，あみた，日高真夢&amp;fromwiki=pixivFANBOX_Exclusive_Tracks04"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="./一咲美葵.md" title="一咲美葵">一咲美葵</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=一咲美葵&amp;fromwiki=pixivFANBOX_Exclusive_Tracks04"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="./一咲美葵.md" title="一咲美葵">一咲美葵</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?lyric=一咲美葵&amp;fromwiki=pixivFANBOX_Exclusive_Tracks04"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=タイニーシャングリラ&amp;fromwiki=pixivFANBOX_Exclusive_Tracks04"><span></span></a></span><div class="ogmusic"><a href="./タイニーシャングリラ.md" class="mw-redirect" title="タイニーシャングリラ">タイニーシャングリラ</a></div><div class="source"><a href="./东方兽王园_～_Unfinished_Dream_of_All_Living_Ghost..md" class="mw-redirect" title="东方兽王园 ～ Unfinished Dream of All Living Ghost.">东方兽王园　～ Unfinished Dream of All Living Ghost.</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

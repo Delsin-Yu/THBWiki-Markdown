@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-PARTY_IN_STYLE!封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/c/ce/PARTY_IN_STYLE%21%E5%B0%81%E9%9D%A2.jpg/160px-PARTY_IN_STYLE%21%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="160" height="196" srcset="https://upload.thwiki.cc/thumb/c/ce/PARTY_IN_STYLE%21%E5%B0%81%E9%9D%A2.jpg/240px-PARTY_IN_STYLE%21%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/c/ce/PARTY_IN_STYLE%21%E5%B0%81%E9%9D%A2.jpg/320px-PARTY_IN_STYLE%21%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="926" data-file-height="1134"></a><div class="cover-char">角色：<a href="./西行寺幽幽子.md" title="西行寺幽幽子">西行寺幽幽子</a>，<a href="./圣白莲.md" title="圣白莲">圣白莲</a>，<a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a>，<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>，<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a></div></td>
@@ -14,10 +15,12 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.facebook.com/wintercannelle/posts/1144742382278610">https://www.facebook.com/wintercannelle/posts/1144742382278610</a><br><a rel="nofollow" class="external free" href="https://www.deviantart.com/tanuma-san/journal/TOUHOU-PROJECT-ARTBOOK-ON-SALE-635529890">https://www.deviantart.com/tanuma-san/journal/TOUHOU-PROJECT-ARTBOOK-ON-SALE-635529890</a><br><a rel="nofollow" class="external free" href="https://furude.tumblr.com/post/150438082085/i-and-two-of-my-friends-made-touhou-project">https://furude.tumblr.com/post/150438082085/i-and-two-of-my-friends-made-touhou-project</a></td></tr></tbody></table>
 
 PARTY IN STYLE!（同人志，Winter Cannelle，2016） - 2016年9月16日 由 Winter Cannelle 于 Anime Festival Asia 2016 Indonesia 发布的画集同人志，B5尺寸一共32页，分级为 一般向
+
 ## Staff
 - tan (未找到链接) （[DeviantArt: tanuma-san](https://www.deviantart.com/tanuma-san)）
 - Fukutan (未找到链接) （[DeviantArt: fukutan](https://www.deviantart.com/fukutan)）
 - Vermeith (未找到链接) （[DeviantArt: vermeith](https://www.deviantart.com/vermeith)）
+
 
 ## 评论
 

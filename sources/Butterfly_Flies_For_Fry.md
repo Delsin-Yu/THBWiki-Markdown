@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 软件信息](#软件信息)
@@ -13,6 +14,7 @@
 - [3 内容页面](#内容页面)
 - [4 下载](#下载)
 - [5 参考资料](#参考资料)
+
 
 
 
@@ -37,17 +39,20 @@ Butterfly Flies For Fry（同人游戏，yu-ki，2007） - 2007年6月11日 由 
 </tbody></table>
 
 
+
 ## Staff
 制作，编程，美术，音乐
 : yu-ki
 音效
 : [ザ・マッチメイカァズ](http://osabisi.sakura.ne.jp/m2/)
 
+
 ## 内容页面
 - [简介](./Butterfly_Flies_For_Fry-简介.md)
 - [攻略](./Butterfly_Flies_For_Fry-攻略.md)
 - 使用说明 (未找到链接)
 - 其他信息 (未找到链接)
+
 
 ## 下载
   
@@ -64,6 +69,7 @@ Butterfly Flies For Fry（同人游戏，yu-ki，2007） - 2007年6月11日 由 
 <tr>
 <td><a rel="nofollow" class="external text" href="http://dagobah.net/flash/Butterfly_Flies_for_Fry.swf">Butterfly Flies For Fry</a>
 </td></tr></tbody></table>
+
 
 
 ## 参考资料

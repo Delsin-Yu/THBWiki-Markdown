@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **东方风自作曲** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -27,11 +28,13 @@
 
 
 
+
 ## 基本信息
 
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">守矢の杜　～ Eastern Beanstalk</td></tr><tr><td><b>译名</b></td><td>守矢之杜 ～ Eastern Beanstalk</td></tr><tr><td><b>常见误译</b></td><td><s><i>守矢之社 ～ Eastern Beanstalk</i></s></td></tr><tr><td><b>作曲</b></td><td><a href="./Wanwan.md" title="Wanwan">Wanwan</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>关联</td></tr><tr><td style="padding-left:15px"><b>相关曲</b></td><td><a href="./Theme_of_Eastern_Story.md" title="Theme of Eastern Story" unred="">テーマ・オブ・イースタンストーリー</a></td></tr><tr><td style="padding-left:15px"><b>　来源</b></td><td>幺乐团的历史　～ Akyu's Untouched Score vol.5</td></tr></tbody></table>
 
 守矢之杜 ～ Eastern Beanstalk（曲目） - 由 Wanwan 创作的东方风自作曲，原名 守矢の杜　～ Eastern Beanstalk
+
 ## 出现作品
 
 <table>
@@ -39,7 +42,9 @@
 </tbody></table>
 
 
+
 ## 说明文本
+
 ### 东方导命树
 - [Music Room](./東方導命樹_～_Mystical_Power_Plant.-音乐.md)
 
@@ -55,8 +60,11 @@
 写成神杜之类也绝不会发现的，我有自信。
   
 
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
 
 

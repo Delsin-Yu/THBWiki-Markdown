@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -44,11 +45,13 @@
 
 
 
+
 ## 基本信息
 
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">広有射怪鳥事　～ Till When?</td></tr><tr><td><b>译名</b></td><td>广有射怪鸟事 ～ Till When?</td></tr><tr><td><b>英文译名</b></td><td>Hiroari Shoots a Strange Bird ~ Till When?</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 广有射怪鸟事 ～ Till When?（曲目） - 由 ZUN 创作的官方曲目，原名 広有射怪鳥事　～ Till When?
+
 ## 出现作品
 
 <table>
@@ -62,8 +65,11 @@
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 东方妖妖梦
+
 #### WAV
   
 WAV版是游戏的原声带。
@@ -78,6 +84,7 @@ WAV版是游戏的原声带。
 </td></tr></tbody></table>
 
 
+
 #### MIDI
   
 MIDI版由Roland Sound Canvas 88Pro实机录音得到。
@@ -85,6 +92,7 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
 
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td><a href="./文件-th07_11.mid.md" title="文件:th07 11.mid">th07_11.mid</a></td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th07_11_SC88Pro.mp3.md" title="文件:th07 11 SC88Pro.mp3">th07_11_SC88Pro.mp3</a><br><audio src="https://upload.thwiki.cc/5/55/th07_11_SC88Pro.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>th07_11.mid</td></tr><tr><td><b>音轨时长</b></td><td>1:45</td></tr></tbody></table>
+
 
 
 ### 幻想曲拔萃
@@ -100,12 +108,15 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-TFM-001a_23.mp3.md" title="文件:TFM-001a 23.mp3">TFM-001a_23.mp3</a><br><audio src="https://upload.thwiki.cc/8/8f/TFM-001a_23.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track23.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>3:16</td></tr></tbody></table>
 
 
+
 ### 全人类的天乐录
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-TFM-003A_06.mp3.md" title="文件:TFM-003A 06.mp3">TFM-003A_06.mp3</a><br><audio src="https://upload.thwiki.cc/1/1c/TFM-003A_06.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track06.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>2:57</td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 东方妖妖梦
 - Music Room (未找到链接)
 
@@ -118,19 +129,24 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
 １１．广有射怪鸟事　～ Till When?  
     广有自不必说，指的是以降伏怪鸟闻名的隐岐次郎左卫门广有。形象成谜的妖怪，因为是这种感觉所以是这种标题。  
     Till When? 只是个冷笑话而已，不用在意（汗）
+
 ### 东方萃梦想
 - Music Room (未找到链接)
 
 由东方妖妖梦中妖梦的主题曲改编而来。  
 因为背景是墓地，就做成了飘忽不定的感觉。  
 顺带一提，比起冥土还是更喜欢女仆。[^cite_note-1]（喂
+
 ### 幻想曲拔萃
 - NKZ的文本 (未找到链接)
 
 ●广有射怪鸟事 二符Arrange  
 在毫无任何印象的空间中，激烈的风格非常不合适，因此费了不少功夫。虽然最终是这种感觉，但在最近的编曲中还算是比较喜欢的。
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
   
  **広有射怪鳥事　～ Till When?**  广有射怪鸟事　～ Till When?
@@ -189,6 +205,7 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
 
 
 - [](./文件-以津真天（鸟山石燕）.jpg.md)以津真天（鸟山石燕）
+
 
 ### 二次同人数据
 

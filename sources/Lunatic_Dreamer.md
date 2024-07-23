@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -37,11 +38,13 @@
 
 
 
+
 ## 基本信息
 
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">ルナティックドリーマー</td></tr><tr><td><b>译名</b></td><td>Lunatic Dreamer</td></tr><tr><td><b>其他译名</b></td><td>疯狂的梦中人</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 Lunatic Dreamer（曲目） - 由 ZUN 创作的官方曲目，原名 ルナティックドリーマー
+
 ## 出现作品
 
 <table>
@@ -50,7 +53,9 @@ Lunatic Dreamer（曲目） - 由 ZUN 创作的官方曲目，原名 ルナテ�
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 秘封噩梦日记
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th16.5_03.mp3.md" title="文件:th16.5 03.mp3">th16.5_03.mp3</a><br><audio src="https://upload.thwiki.cc/8/8f/th16.5_03.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>BGM\th16.5_03.wav</td></tr><tr><td><b>BGMForAll</b></td><td><div class="mw-collapsible mw-collapsed">
@@ -59,6 +64,7 @@ Lunatic Dreamer（曲目） - 由 ZUN 创作的官方曲目，原名 ルナテ�
 <div class="mw-collapsible-content">BGM = ルナティックドリーマー, 0x4251E50, 0x1EB2C0, 0x443D110, 0x11F1980</div>
 </div>
 </td></tr></tbody></table>
+
 
 
 ### 弹幕狂们的黑市
@@ -71,7 +77,9 @@ Lunatic Dreamer（曲目） - 由 ZUN 创作的官方曲目，原名 ルナテ�
 </td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 秘封噩梦日记
 - Music Room (未找到链接)
 
@@ -80,6 +88,7 @@ Lunatic Dreamer（曲目） - 由 ZUN 创作的官方曲目，原名 ルナテ�
 　梦的内容逐渐远离现实，单单只剩下疲劳感  
 　我作曲时以这种令人焦躁的梦为印象。  
 　偶尔会做这种梦吧。忘了发生了什么却累得不行的梦。
+
 ### 弹幕狂们的黑市
 - Music Room (未找到链接)
 
@@ -88,8 +97,11 @@ Lunatic Dreamer（曲目） - 由 ZUN 创作的官方曲目，原名 ルナテ�
 　  
 　我在游戏的测试版本里用了这支曲子结果发现简直浑然一体，  
 　所以就直接沿用到正式版的教程里了（笑）
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
   
  **ルナティックドリーマー**  Lunatic Dreamer
@@ -100,6 +112,7 @@ Lunatic Dreamer（曲目） - 由 ZUN 创作的官方曲目，原名 ルナテ�
 
 - Lunatic Dreamer
   - 与第一周的主题曲 [Lucid Dreamer](./Lucid_Dreamer.md) 对应。
+
 
 
 ### 二次同人数据

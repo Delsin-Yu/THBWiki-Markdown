@@ -27,6 +27,7 @@ Find_Your_Way | 使用Tabber解析器标签的页面 | 使用了翻译表的页�
 
 [^cite_note-1]: 以下歌词来自μ's的歌曲《Snow halation》。
 
+
 ## 歌词来源
   
 [BANDCAMP](https://youwillfindyourway.bandcamp.com/album/fresh-ep)

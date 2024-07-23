@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-幻想郷_SECRET_WARS_1封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/1/1d/%E5%B9%BB%E6%83%B3%E9%83%B7_SECRET_WARS_1%E5%B0%81%E9%9D%A2.jpg/116px-%E5%B9%BB%E6%83%B3%E9%83%B7_SECRET_WARS_1%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="116" height="168" srcset="https://upload.thwiki.cc/thumb/1/1d/%E5%B9%BB%E6%83%B3%E9%83%B7_SECRET_WARS_1%E5%B0%81%E9%9D%A2.jpg/173px-%E5%B9%BB%E6%83%B3%E9%83%B7_SECRET_WARS_1%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/1/1d/%E5%B9%BB%E6%83%B3%E9%83%B7_SECRET_WARS_1%E5%B0%81%E9%9D%A2.jpg/231px-%E5%B9%BB%E6%83%B3%E9%83%B7_SECRET_WARS_1%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="800" data-file-height="1161"></a><div class="cover-char">角色：<a href="./伊吹萃香.md" title="伊吹萃香">伊吹萃香</a>，<a href="./琪露诺.md" title="琪露诺">琪露诺</a>，<a href="./莉格露·奈特巴格.md" title="莉格露·奈特巴格">莉格露·奈特巴格</a>，<a href="./爱丽丝·玛格特洛依德.md" title="爱丽丝·玛格特洛依德">爱丽丝·玛格特洛依德</a>，<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a>，<a href="./橙.md" title="橙">橙</a></div></td>
@@ -14,9 +15,12 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/18610159">https://www.pixiv.net/artworks/18610159</a></td></tr></tbody></table>
 
 幻想郷 SECRET WARS 1（同人志，羊箱，2011） - 2011年5月8日 由 羊箱 于 博丽神社例大祭8 发布的漫画同人志，一共42页，登场人物有 伊吹萃香、琪露诺、莉格露·奈特巴格、爱丽丝·玛格特洛依德、雾雨魔理沙、橙，分级为 一般向
+
 ## 预览
+
 ## Staff
 - [羊箱](./羊箱.md)
+
 
 ## 评论
 

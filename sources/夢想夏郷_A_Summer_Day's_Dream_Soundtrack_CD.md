@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-夢想夏郷_A_Summer_Day's_Dream_Soundtrack_CD封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/a/ab/%E5%A4%A2%E6%83%B3%E5%A4%8F%E9%83%B7_A_Summer_Day%27s_Dream_Soundtrack_CD%E5%B0%81%E9%9D%A2.jpg/178px-%E5%A4%A2%E6%83%B3%E5%A4%8F%E9%83%B7_A_Summer_Day%27s_Dream_Soundtrack_CD%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="178" height="252" srcset="https://upload.thwiki.cc/thumb/a/ab/%E5%A4%A2%E6%83%B3%E5%A4%8F%E9%83%B7_A_Summer_Day%27s_Dream_Soundtrack_CD%E5%B0%81%E9%9D%A2.jpg/267px-%E5%A4%A2%E6%83%B3%E5%A4%8F%E9%83%B7_A_Summer_Day%27s_Dream_Soundtrack_CD%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/a/ab/%E5%A4%A2%E6%83%B3%E5%A4%8F%E9%83%B7_A_Summer_Day%27s_Dream_Soundtrack_CD%E5%B0%81%E9%9D%A2.jpg/356px-%E5%A4%A2%E6%83%B3%E5%A4%8F%E9%83%B7_A_Summer_Day%27s_Dream_Soundtrack_CD%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="500" data-file-height="707"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>，<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a>，<a href="/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C" title="十六夜咲夜">十六夜咲夜</a>，<a href="./帕秋莉·诺蕾姬.md" title="帕秋莉·诺蕾姬">帕秋莉·诺蕾姬</a></div></td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://maikaze.com/mkdv-0801">http://maikaze.com/mkdv-0801</a></td></tr><tr><td class="label">备注</td><td colspan="2">该CD包含在<a href="./夢想夏郷－A_Summer_Day's_Dream－1話DVD(初回限定版DVD-BOX).md" title="夢想夏郷－A Summer Day&#39;s Dream－1話DVD(初回限定版DVD-BOX)">初回限定版DVD-BOX</a>内</td></tr></tbody></table>
 
 夢想夏郷 A Summer Day's Dream Soundtrack CD（同人专辑，舞风，2008） - 2008年12月29日 由 舞风 于 Comic Market 75 发布的全长/原声集同人专辑，分级为 一般向
+
 ## Staff
   
  **Compose**   
@@ -34,6 +36,7 @@
 Cover Artwork
 : 時音
 
+
 ## 曲目列表
 
 <table><tbody><tr><td id="1" class="infoYL"><b>01</b></td><td id="幻想郷" colspan="2" class="title">幻想郷<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=時音&amp;fromwiki=夢想夏郷_A_Summer_Day's_Dream_Soundtrack_CD"><span title="搜索相似同人曲"></span></a></span></td><td class="time">01:04</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./時音.md" title="時音">時音</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，時音&amp;fromwiki=夢想夏郷_A_Summer_Day's_Dream_Soundtrack_CD"><span></span></a></span></td></tr>
@@ -48,6 +51,7 @@ Cover Artwork
 <tr><td id="10" class="infoRL"><b>10</b></td><td id="廻り巡る(ショートサイズ)" colspan="2" class="title"><a href="./歌词-廻り巡る.md" title="歌词:廻り巡る">廻り巡る(ショートサイズ)</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=時音&amp;vocal=沙紗飛鳥&amp;lyric=時音&amp;fromwiki=夢想夏郷_A_Summer_Day's_Dream_Soundtrack_CD"><span title="搜索相似同人曲"></span></a></span></td><td class="time">02:24</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./時音.md" title="時音">時音</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，時音&amp;fromwiki=夢想夏郷_A_Summer_Day's_Dream_Soundtrack_CD"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="./沙紗飛鳥.md" title="沙紗飛鳥">沙紗飛鳥</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=沙紗飛鳥&amp;fromwiki=夢想夏郷_A_Summer_Day's_Dream_Soundtrack_CD"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="./時音.md" title="時音">時音</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?lyric=時音&amp;fromwiki=夢想夏郷_A_Summer_Day's_Dream_Soundtrack_CD"><span></span></a></span></td></tr>
 <tr><td id="11" class="infoYL"><b>11</b></td><td id="DVDメニュー曲・博麗神社" colspan="2" class="title">DVDメニュー曲・博麗神社<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=時音&amp;fromwiki=夢想夏郷_A_Summer_Day's_Dream_Soundtrack_CD"><span title="搜索相似同人曲"></span></a></span></td><td class="time">01:35</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./時音.md" title="時音">時音</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，時音&amp;fromwiki=夢想夏郷_A_Summer_Day's_Dream_Soundtrack_CD"><span></span></a></span></td></tr>
 <tr><td id="12" class="infoYL"><b>12</b></td><td id="DVDメニュー曲・紅魔館" colspan="2" class="title">DVDメニュー曲・紅魔館<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=時音&amp;fromwiki=夢想夏郷_A_Summer_Day's_Dream_Soundtrack_CD"><span title="搜索相似同人曲"></span></a></span></td><td class="time">02:49</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./時音.md" title="時音">時音</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，時音&amp;fromwiki=夢想夏郷_A_Summer_Day's_Dream_Soundtrack_CD"><span></span></a></span></td></tr></tbody></table>
+
 
 
 ## 评论

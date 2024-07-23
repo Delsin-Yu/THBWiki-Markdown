@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Scarlet&scarleT封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/9/92/Scarlet%26scarleT%E5%B0%81%E9%9D%A2.jpg/137px-Scarlet%26scarleT%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="137" height="196" srcset="https://upload.thwiki.cc/thumb/9/92/Scarlet%26scarleT%E5%B0%81%E9%9D%A2.jpg/205px-Scarlet%26scarleT%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/9/92/Scarlet%26scarleT%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="268" data-file-height="384"></a><div class="cover-char">角色：<a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a>，<a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a></div></td>
@@ -14,10 +15,12 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://aozoramarket00.blog115.fc2.com/">http://aozoramarket00.blog115.fc2.com/</a></td></tr></tbody></table>
 
 Scarlet&amp;scarleT（同人志，蒼空市場，2007） - 2007年11月4日 由 蒼空市場 于 东方红楼梦3 发布的漫画同人志，一共92页，登场人物有 雾雨魔理沙、芙兰朵露·斯卡蕾特、蕾米莉亚·斯卡蕾特、帕秋莉·诺蕾姬、红美铃、小恶魔，分级为 一般向
+
 ## Staff
   
 蒼
   
+
 
 ## 评论
 

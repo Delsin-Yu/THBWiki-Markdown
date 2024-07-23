@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-CAMELLIA_Ⅱ封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/4/41/CAMELLIA_%E2%85%A1%E5%B0%81%E9%9D%A2.jpg/99px-CAMELLIA_%E2%85%A1%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="99" height="140" srcset="https://upload.thwiki.cc/thumb/4/41/CAMELLIA_%E2%85%A1%E5%B0%81%E9%9D%A2.jpg/148px-CAMELLIA_%E2%85%A1%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/4/41/CAMELLIA_%E2%85%A1%E5%B0%81%E9%9D%A2.jpg/198px-CAMELLIA_%E2%85%A1%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="565" data-file-height="800"></a><div class="cover-char">角色：<a href="./火焰猫燐.md" title="火焰猫燐">火焰猫燐</a>，<a href="./赤蛮奇.md" title="赤蛮奇">赤蛮奇</a></div></td>
@@ -14,12 +15,14 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/P_C_B/status/989466802840219648">https://twitter.com/P_C_B/status/989466802840219648</a></td></tr></tbody></table>
 
 CAMELLIA Ⅱ（同人志，P＿C＿B，2018） - 2018年5月6日 由 P＿C＿B 于 博丽神社例大祭15 发布的摄影集同人志，B5尺寸，分级为 一般向
+
 ## Staff
 Model
 : 赤蛮奇：椎果
 : 火焰猫燐&#160;: 中谷
 Photo
 : 銀寺 (未找到链接)
+
 
 ## 评论
 

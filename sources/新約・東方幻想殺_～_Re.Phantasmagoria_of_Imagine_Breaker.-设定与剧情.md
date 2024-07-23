@@ -4,10 +4,12 @@
 
 Gore
 
+
 ## 附带文档
 - [readme](./新約・東方幻想殺_～_Re.Phantasmagoria_of_Imagine_Breaker.-设定与剧情-readme.md)
 - [readme(Imagine)](./新約・東方幻想殺_～_Re.Phantasmagoria_of_Imagine_Breaker.-设定与剧情-readme(Imagine).md)
 - [角色设定文档](./新約・東方幻想殺_～_Re.Phantasmagoria_of_Imagine_Breaker.-设定与剧情-设定文档.md)
+
 
 ## 游戏对话
 - [神净的结界组（博丽灵梦&amp;上条当麻） 游戏对话/结局](./新約・東方幻想殺_～_Re.Phantasmagoria_of_Imagine_Breaker.-设定与剧情-神净的结界组.md)

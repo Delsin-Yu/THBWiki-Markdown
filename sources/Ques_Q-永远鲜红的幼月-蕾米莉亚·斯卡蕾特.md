@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **相关实体周边 (未找到链接)** 的词条
+
 ## 模型信息
 
 <table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 東方Project　“永遠に紅い幼き月” レミリア・スカーレット </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>永远鲜红的幼月</td></tr><tr><td class="label">角色</td><td><a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a></td></tr><tr><td class="label">原型师</td><td><a href="/index.php?title=Noin&amp;action=edit&amp;redlink=1" class="new" title="Noin（页面不存在）">Noin</a></td></tr><tr><td class="label">原画师</td><td><a href="/index.php?title=%E3%82%B7%E3%83%B3%E3%82%B4&amp;action=edit&amp;redlink=1" class="new" title="シンゴ（页面不存在）">シンゴ</a></td></tr><tr><td class="label">比例</td><td>1/8</td></tr><tr><td class="label">尺寸</td><td>180mm</td></tr><tr><td class="label">状态</td><td>未发售</td></tr><tr><td class="label">售价</td><td>16200日元</td></tr><tr><td class="label">首发日期</td><td>2021年4月</td></tr><tr><td class="label">发售方</td><td><a href="/index.php?title=Ques_Q&amp;action=edit&amp;redlink=1" class="new" title="Ques Q（页面不存在）">Ques Q</a></td></tr><tr><td class="label">备注</td><td><a rel="nofollow" class="external free" href="http://www.quesq.net/products/touhou_remilia_the_childish_moon_red_forever/index.html">http://www.quesq.net/products/touhou_remilia_the_childish_moon_red_forever/index.html</a></td></tr></tbody></table>
@@ -13,6 +14,7 @@
 Ques Q/永远鲜红的幼月/蕾米莉亚·斯卡蕾特（周边） - 蕾米莉亚·斯卡蕾特PVCFigure手办模型
 
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="http://www.amiami.jp/top/detail/detail?gcode=FIGURE-057423">amiami</a>，<a rel="nofollow" class="external text" href="http://www.amiami.jp/top/detail/detail?gcode=FIGURE-057424">amiami【あみあみ限定特典】</a></td></tr></tbody></table>
+
 
 
 ## 参考图片

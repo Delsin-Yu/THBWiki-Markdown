@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Dear（型K式）封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/7/79/Dear%EF%BC%88%E5%9E%8BK%E5%BC%8F%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/118px-Dear%EF%BC%88%E5%9E%8BK%E5%BC%8F%EF%BC%89%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="118" height="168" srcset="https://upload.thwiki.cc/thumb/7/79/Dear%EF%BC%88%E5%9E%8BK%E5%BC%8F%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/177px-Dear%EF%BC%88%E5%9E%8BK%E5%BC%8F%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/7/79/Dear%EF%BC%88%E5%9E%8BK%E5%BC%8F%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/236px-Dear%EF%BC%88%E5%9E%8BK%E5%BC%8F%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="270" data-file-height="384"></a><div class="cover-char">角色：<a href="/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C" title="十六夜咲夜">十六夜咲夜</a>，<a href="./红美铃.md" title="红美铃">红美铃</a></div></td>
@@ -18,9 +19,12 @@ Dear（同人志，型K式，2012） - 2012年12月30日 由 型K式 于 Comic M
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://wagocolo.booth.pm/items/4619751">Booth</a></td></tr></tbody></table>
 
 
+
 ## 预览
+
 ## Staff
 - [カタケイ](./カタケイ.md)
+
 
 ## 评论
 

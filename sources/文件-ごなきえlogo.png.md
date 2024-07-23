@@ -4,6 +4,7 @@
 
 ごなきえ | 社团LOGO
 
+
 ## 摘要
   
 源地址：[direct image link](https://web.archive.org/web/20180426160532im_/http://gonakie.net/wp-content/uploads/2015/10/cropped-gonakietoumei-e14453001878662.png), [source page](https://web.archive.org/web/20181104033148/http://gonakie.net/)

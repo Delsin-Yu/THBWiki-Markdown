@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Incarnation2_LAST_MOMENT封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/4/4c/Incarnation2_LAST_MOMENT%E5%B0%81%E9%9D%A2.jpg/137px-Incarnation2_LAST_MOMENT%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="137" height="196" srcset="https://upload.thwiki.cc/thumb/4/4c/Incarnation2_LAST_MOMENT%E5%B0%81%E9%9D%A2.jpg/206px-Incarnation2_LAST_MOMENT%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/4/4c/Incarnation2_LAST_MOMENT%E5%B0%81%E9%9D%A2.jpg/275px-Incarnation2_LAST_MOMENT%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="625" data-file-height="892"></a><div class="cover-char">角色：<a href="./小恶魔.md" title="小恶魔">小恶魔</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://kano12456.web.fc2.com/incarnation2.html">http://kano12456.web.fc2.com/incarnation2.html</a></td></tr></tbody></table>
 
 Incarnation2 LAST MOMENT（同人志，しぐれえび，2011） - 2011年10月16日 由 しぐれえび 于 东方红楼梦7 发布的漫画同人志，B5尺寸一共36页，分级为 一般向
+
 ## Staff
 - [レフトハンド](./レフトハンド.md)
+
 
 ## 评论
 

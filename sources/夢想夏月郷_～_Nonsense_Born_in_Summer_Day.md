@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-夢想夏月郷_～_Nonsense_Born_in_Summer_Day封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/4/42/%E5%A4%A2%E6%83%B3%E5%A4%8F%E6%9C%88%E9%83%B7_%EF%BD%9E_Nonsense_Born_in_Summer_Day%E5%B0%81%E9%9D%A2.jpg/280px-%E5%A4%A2%E6%83%B3%E5%A4%8F%E6%9C%88%E9%83%B7_%EF%BD%9E_Nonsense_Born_in_Summer_Day%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="280" height="280" srcset="https://upload.thwiki.cc/thumb/4/42/%E5%A4%A2%E6%83%B3%E5%A4%8F%E6%9C%88%E9%83%B7_%EF%BD%9E_Nonsense_Born_in_Summer_Day%E5%B0%81%E9%9D%A2.jpg/420px-%E5%A4%A2%E6%83%B3%E5%A4%8F%E6%9C%88%E9%83%B7_%EF%BD%9E_Nonsense_Born_in_Summer_Day%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/4/42/%E5%A4%A2%E6%83%B3%E5%A4%8F%E6%9C%88%E9%83%B7_%EF%BD%9E_Nonsense_Born_in_Summer_Day%E5%B0%81%E9%9D%A2.jpg/560px-%E5%A4%A2%E6%83%B3%E5%A4%8F%E6%9C%88%E9%83%B7_%EF%BD%9E_Nonsense_Born_in_Summer_Day%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1736" data-file-height="1736"></a></td>
@@ -15,6 +16,7 @@
 夢想夏月郷 ～ Nonsense Born in Summer Day（同人专辑，夢想夏月郷，2018） - 2018年5月6日 由 夢想夏月郷 于 博丽神社例大祭15 发布的全长/印象集同人专辑，曲目主要风格是 民族、古典，分级为 一般向
 
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">授权代理</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=369251">蜜瓜</a>，<a rel="nofollow" class="external text" href="https://mazyu.booth.pm/items/1997375">Booth</a></td></tr></tbody></table>
+
 
 
 ## Staff
@@ -31,6 +33,7 @@
 
 Design
 : [翡翠（人物）](./翡翠（人物）.md)
+
 
 ## 试听
   
@@ -51,6 +54,7 @@ Design
 </td></tr></tbody></table>
 
 
+
 ## 曲目列表
 
 <table><tbody><tr><td id="1" class="infoYL"><b>01</b></td><td id="the_Golden_Afternoon" colspan="2" class="title">the Golden Afternoon<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=翡翠（人物）&amp;fromwiki=夢想夏月郷_～_Nonsense_Born_in_Summer_Day"><span title="搜索相似同人曲"></span></a></span></td><td class="time">02:08</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./翡翠（人物）.md" title="翡翠（人物）">翡翠（人物）</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，翡翠（人物）&amp;fromwiki=夢想夏月郷_～_Nonsense_Born_in_Summer_Day"><span></span></a></span></td></tr>
@@ -62,9 +66,10 @@ Design
 <tr><td id="7" class="infoYL"><b>07</b></td><td id="the_Misty_Summer_Rain" colspan="2" class="title">the Misty Summer Rain<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=翡翠（人物）&amp;fromwiki=夢想夏月郷_～_Nonsense_Born_in_Summer_Day"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:47</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./翡翠（人物）.md" title="翡翠（人物）">翡翠（人物）</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，翡翠（人物）&amp;fromwiki=夢想夏月郷_～_Nonsense_Born_in_Summer_Day"><span></span></a></span></td></tr>
 <tr><td id="8" class="infoYL"><b>08</b></td><td id="Eternal_Killer_Queen" colspan="2" class="title">Eternal Killer Queen<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=翡翠（人物）&amp;fromwiki=夢想夏月郷_～_Nonsense_Born_in_Summer_Day"><span title="搜索相似同人曲"></span></a></span></td><td class="time">02:59</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./翡翠（人物）.md" title="翡翠（人物）">翡翠（人物）</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，翡翠（人物）&amp;fromwiki=夢想夏月郷_～_Nonsense_Born_in_Summer_Day"><span></span></a></span></td></tr>
 <tr><td id="9" class="infoYL"><b>09</b></td><td id="メヌエッティパーティ" colspan="2" class="title">メヌエッティパーティ<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=翡翠（人物）&amp;fromwiki=夢想夏月郷_～_Nonsense_Born_in_Summer_Day"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:23</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./翡翠（人物）.md" title="翡翠（人物）">翡翠（人物）</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，翡翠（人物）&amp;fromwiki=夢想夏月郷_～_Nonsense_Born_in_Summer_Day"><span></span></a></span></td></tr>
-<tr><td id="10" class="infoYD"><b>10</b></td><td id="シルクロードアリス" colspan="2" class="title">シルクロードアリス<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=翡翠（人物）&amp;ogmusic=シルクロードアリス&amp;fromwiki=夢想夏月郷_～_Nonsense_Born_in_Summer_Day"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:39</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./翡翠（人物）.md" title="翡翠（人物）">翡翠（人物）</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，翡翠（人物）&amp;fromwiki=夢想夏月郷_～_Nonsense_Born_in_Summer_Day"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=シルクロードアリス&amp;fromwiki=夢想夏月郷_～_Nonsense_Born_in_Summer_Day"><span></span></a></span><div class="ogmusic"><a href="/%E3%82%B7%E3%83%AB%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%89%E3%82%A2%E3%83%AA%E3%82%B9" class="mw-redirect" title="シルクロードアリス">シルクロードアリス</a></div><div class="source"><a href="./秋霜玉.md" title="秋霜玉">秋霜玉</a></div></td></tr>
+<tr><td id="10" class="infoYD"><b>10</b></td><td id="シルクロードアリス" colspan="2" class="title">シルクロードアリス<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=翡翠（人物）&amp;ogmusic=シルクロードアリス&amp;fromwiki=夢想夏月郷_～_Nonsense_Born_in_Summer_Day"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:39</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./翡翠（人物）.md" title="翡翠（人物）">翡翠（人物）</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，翡翠（人物）&amp;fromwiki=夢想夏月郷_～_Nonsense_Born_in_Summer_Day"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=シルクロードアリス&amp;fromwiki=夢想夏月郷_～_Nonsense_Born_in_Summer_Day"><span></span></a></span><div class="ogmusic"><a href="./シルクロードアリス.md" class="mw-redirect" title="シルクロードアリス">シルクロードアリス</a></div><div class="source"><a href="./秋霜玉.md" title="秋霜玉">秋霜玉</a></div></td></tr>
 <tr><td id="11" class="infoYL"><b>11</b></td><td id="郷夢_～_Language_of_Jade_Vine" colspan="2" class="title">郷夢 ～ Language of Jade Vine<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=翡翠（人物）&amp;fromwiki=夢想夏月郷_～_Nonsense_Born_in_Summer_Day"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:05</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./翡翠（人物）.md" title="翡翠（人物）">翡翠（人物）</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，翡翠（人物）&amp;fromwiki=夢想夏月郷_～_Nonsense_Born_in_Summer_Day"><span></span></a></span></td></tr>
 <tr><td id="12" class="infoYL"><b>12</b></td><td id="雨月夜のほおずき" colspan="2" class="title">雨月夜のほおずき<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=翡翠（人物）&amp;fromwiki=夢想夏月郷_～_Nonsense_Born_in_Summer_Day"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:44</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./翡翠（人物）.md" title="翡翠（人物）">翡翠（人物）</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，翡翠（人物）&amp;fromwiki=夢想夏月郷_～_Nonsense_Born_in_Summer_Day"><span></span></a></span></td></tr></tbody></table>
+
 
 
 ## 评论

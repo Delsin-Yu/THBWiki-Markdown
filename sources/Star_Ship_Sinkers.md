@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Star_Ship_Sinkers封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/d/dc/Star_Ship_Sinkers%E5%B0%81%E9%9D%A2.jpg/160px-Star_Ship_Sinkers%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="160" height="224" srcset="https://upload.thwiki.cc/thumb/d/dc/Star_Ship_Sinkers%E5%B0%81%E9%9D%A2.jpg/240px-Star_Ship_Sinkers%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/d/dc/Star_Ship_Sinkers%E5%B0%81%E9%9D%A2.jpg/320px-Star_Ship_Sinkers%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="700" data-file-height="979"></a><div class="cover-char">角色：<a href="./圣白莲.md" title="圣白莲">圣白莲</a>，<a href="./封兽鵺.md" title="封兽鵺">封兽鵺</a>，<a href="./寅丸星.md" title="寅丸星">寅丸星</a>，<a href="./娜兹玲.md" title="娜兹玲">娜兹玲</a>，<a href="./云居一轮.md" title="云居一轮">云居一轮</a>，<a href="./村纱水蜜.md" title="村纱水蜜">村纱水蜜</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://fsm-cafe.jugem.jp/?eid=16">http://fsm-cafe.jugem.jp/?eid=16</a></td></tr></tbody></table>
 
 Star Ship Sinkers（同人志，ふすま喫茶，2010） - 2010年8月14日 由 ふすま喫茶 于 Comic Market 78 发布的漫画同人志，B5尺寸一共24页，登场人物有 圣白莲、寅丸星、封兽鵺、云居一轮、村纱水蜜、娜兹玲，分级为 一般向
+
 ## Staff
 - [水中花火](./水中花火.md)
+
 
 ## 评论
 

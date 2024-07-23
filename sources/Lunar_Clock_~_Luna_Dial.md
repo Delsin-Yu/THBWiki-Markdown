@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Lunar_Clock_~_Luna_Dial封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/e/e5/Lunar_Clock_~_Luna_Dial%E5%B0%81%E9%9D%A2.jpg/252px-Lunar_Clock_~_Luna_Dial%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="252" srcset="https://upload.thwiki.cc/thumb/e/e5/Lunar_Clock_~_Luna_Dial%E5%B0%81%E9%9D%A2.jpg/378px-Lunar_Clock_~_Luna_Dial%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/e/e5/Lunar_Clock_~_Luna_Dial%E5%B0%81%E9%9D%A2.jpg/504px-Lunar_Clock_~_Luna_Dial%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1000" data-file-height="1000"></a></td>
@@ -15,6 +16,7 @@
 Lunar Clock ~ Luna Dial（同人专辑，YaboiMatoi，2022） - 2022年9月15日 由 YaboiMatoi  发布的单曲同人专辑，曲目主要风格是 金属，分级为 一般向
 
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://yaboimatoi.bandcamp.com/track/lunar-clock-luna-dial">bandcamp</a>，<a rel="nofollow" class="external text" href="https://www.dizzylab.net/d/YM10">dizzylab</a></td></tr></tbody></table>
+
 
 
 ## Staff
@@ -31,6 +33,7 @@ Lunar Clock ~ Luna Dial（同人专辑，YaboiMatoi，2022） - 2022年9月15日
 
 Artwork
 : YaboiMatoi
+
 
 ## 试听
 
@@ -58,9 +61,11 @@ Artwork
 
 
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Lunar_Clock_~_Luna_Dial" colspan="2" class="title">Lunar Clock ~ Luna Dial<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=YaboiMatoi&amp;ogmusic=月時計　～ ルナ・ダイアル，亡き王女の為のセプテット&amp;fromwiki=Lunar_Clock_~_Luna_Dial"><span title="搜索相似同人曲"></span></a></span></td><td class="time">02:48</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./YaboiMatoi.md" title="YaboiMatoi">YaboiMatoi</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，YaboiMatoi&amp;fromwiki=Lunar_Clock_~_Luna_Dial"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演奏</td><td class="text" colspan="2">guitar：<a href="./YaboiMatoi.md" title="YaboiMatoi">YaboiMatoi</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=月時計　～ ルナ・ダイアル，亡き王女の為のセプテット&amp;fromwiki=Lunar_Clock_~_Luna_Dial"><span></span></a></span><div class="ogmusic"><a href="/%E6%9C%88%E6%99%82%E8%A8%88_%EF%BD%9E_%E3%83%AB%E3%83%8A%E3%83%BB%E3%83%80%E3%82%A4%E3%82%A2%E3%83%AB" class="mw-redirect" title="月時計 ～ ルナ・ダイアル">月時計　～ ルナ・ダイアル</a></div><div class="ogmusic"><a href="/%E4%BA%A1%E3%81%8D%E7%8E%8B%E5%A5%B3%E3%81%AE%E7%82%BA%E3%81%AE%E3%82%BB%E3%83%97%E3%83%86%E3%83%83%E3%83%88" class="mw-redirect" title="亡き王女の為のセプテット">亡き王女の為のセプテット</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E7%BA%A2%E9%AD%94%E4%B9%A1_%EF%BD%9E_the_Embodiment_of_Scarlet_Devil." class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Lunar_Clock_~_Luna_Dial" colspan="2" class="title">Lunar Clock ~ Luna Dial<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=YaboiMatoi&amp;ogmusic=月時計　～ ルナ・ダイアル，亡き王女の為のセプテット&amp;fromwiki=Lunar_Clock_~_Luna_Dial"><span title="搜索相似同人曲"></span></a></span></td><td class="time">02:48</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./YaboiMatoi.md" title="YaboiMatoi">YaboiMatoi</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，YaboiMatoi&amp;fromwiki=Lunar_Clock_~_Luna_Dial"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演奏</td><td class="text" colspan="2">guitar：<a href="./YaboiMatoi.md" title="YaboiMatoi">YaboiMatoi</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=月時計　～ ルナ・ダイアル，亡き王女の為のセプテット&amp;fromwiki=Lunar_Clock_~_Luna_Dial"><span></span></a></span><div class="ogmusic"><a href="./月時計_～_ルナ・ダイアル.md" class="mw-redirect" title="月時計 ～ ルナ・ダイアル">月時計　～ ルナ・ダイアル</a></div><div class="ogmusic"><a href="./亡き王女の為のセプテット.md" class="mw-redirect" title="亡き王女の為のセプテット">亡き王女の為のセプテット</a></div><div class="source"><a href="./东方红魔乡_～_the_Embodiment_of_Scarlet_Devil..md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

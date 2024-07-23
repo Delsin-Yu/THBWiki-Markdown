@@ -4,7 +4,8 @@
 
 Xenoglossy ，于 2012 年成立，主要制作 同人音乐 的日本同人社团，主催是 Xe，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -16,14 +17,17 @@ Xenoglossy ，于 2012 年成立，主要制作 同人音乐 的日本同人社�
 
 
 
+
 ## 社团信息
 [](./文件-Xenoglossybanner.png.md)  [](./文件-Xenoglossybanner.png.md)Xenoglossybanner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Xenoglossy </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2012年3月18日</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=Xe&amp;action=edit&amp;redlink=1" class="new" title="Xe（页面不存在）">Xe</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://xenoglossy.hariko.com/index.html">http://xenoglossy.hariko.com/index.html</a> </td></tr></tbody></table>
 
 Xenoglossy（同人社团，同人音乐社团） - Xenoglossy ，于 2012 年成立，主要制作 同人音乐 的日本同人社团，主催是 Xe，当前状态为 活动
+
 ## 成员名单
 - Xe (未找到链接)
+
 
 ## 作品列表
 [](./ParaBox.md)[ParaBox](./ParaBox.md)首发日期：2012-05-27 （第九回 博麗神社例大祭 (未找到链接)）全长 （一般向）[](./Jointly_Ride.md)[Jointly Ride](./Jointly_Ride.md)首发日期：2012-05-27 （第九回 博麗神社例大祭 (未找到链接)）全长 （一般向）该作品是与 [刹那パラドックス](./刹那パラドックス.md) 合作创作的[](./distorted_incident.md)[distorted incident](./distorted_incident.md)首发日期：2012-12-30 （Comic Market 83 (未找到链接)）全长 （一般向）[](./chromatograph.md)[chromatograph](./chromatograph.md)首发日期：2013-05-26 （第十回 博麗神社例大祭 (未找到链接)）全长 （一般向）[](./ELECTRET.md)[ELECTRET](./ELECTRET.md)首发日期：2013-10-13 （東方紅楼夢9 (未找到链接)）EP （一般向）[](./Bracing_Sky_Blue.md)[Bracing Sky Blue](./Bracing_Sky_Blue.md)首发日期：2014-05-11 （第十一回 博麗神社例大祭 (未找到链接)）全长 （一般向）[](./ぐろ～り～ふぁんたずむ.md)[ぐろ～り～ふぁんたずむ](./ぐろ～り～ふぁんたずむ.md)首发日期：2014-12-29 （Comic Market 87 (未找到链接)）EP （一般向）[](./clarity_pastel.md)[clarity pastel](./clarity_pastel.md)首发日期：2016-05-08 （第十三回 博麗神社例大祭 (未找到链接)）EP （一般向）[](./Chip_On_Nightmare.md)[Chip On Nightmare](./Chip_On_Nightmare.md)首发日期：2017-12-29 （Comic Market 93 (未找到链接)）全长 （一般向）[](./Pop_Rock_Lolli_Poppinng.md)[Pop Rock Lolli Poppinng](./Pop_Rock_Lolli_Poppinng.md)首发日期：2018-12-30 （Comic Market 95 (未找到链接)）全长 （一般向）[](./C95おまけCD.md)[C95おまけCD](./C95おまけCD.md)首发日期：2018-12-30 （Comic Market 95 (未找到链接)）Omake （一般向）该作品是与 [悦楽舎](./悦楽舎.md) 合作创作的[](./しめきりまであと1しゅうかんすらない!!.md)[しめきりまであと1しゅうかんすらない!!](./しめきりまであと1しゅうかんすらない!!.md)首发日期：2019-08-12 （Comic Market 96 (未找到链接)）全长 （一般向）该作品是与 [悦楽舎](./悦楽舎.md) 合作创作的[](./nostos_algos_hallucinate.md)[nostos algos hallucinate](./nostos_algos_hallucinate.md)首发日期：2022-08-14 （Comic Market 100 (未找到链接)）全长 （一般向）
@@ -55,9 +59,11 @@ Xenoglossy（同人社团，同人音乐社团） - Xenoglossy ，于 2012 年�
 </table>
 
 
+
 ## 参展信息
 
 <table><tbody><tr><th class="活动页面">活动页面</th><th class="活动名称">活动名称</th><th class="日期">日期</th><th class="举办地点">举办地点</th><th class="摊位编号">摊位编号</th><th class="宣传页面">宣传页面</th><th class="备注">备注</th></tr><tr data-row-number="1" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#16" title="博丽神社例大祭">博丽神社例大祭#16</a></span></td><td class="活动名称 smwtype_txt">第十六回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2458608.5">2019-05-05</td><td class="举办地点 smwtype_txt">东京Big Sight</td><td class="摊位编号 smwtype_txt">H18a</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt">与<a href="./悦楽舎.md" title="悦楽舎">悦楽舎</a>合摊</td></tr><tr data-row-number="2" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/Comic_Market#95" title="Comic Market">Comic Market#95</a></span></td><td class="活动名称 smwtype_txt">Comic Market 95</td><td class="日期 smwtype_dat" data-sort-value="2458482.5">2018-12-30</td><td class="举办地点 smwtype_txt">东京都 东京国际展示场 东1-8展厅、西1-4展厅</td><td class="摊位编号 smwtype_txt">東ロ-25b</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="3" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#15" title="博丽神社例大祭">博丽神社例大祭#15</a></span></td><td class="活动名称 smwtype_txt">第十五回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2458244.5">2018-05-06</td><td class="举办地点 smwtype_txt">东京Big Sight 东123456展厅</td><td class="摊位编号 smwtype_txt">I23a</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="4" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#13" title="博丽神社例大祭">博丽神社例大祭#13</a></span></td><td class="活动名称 smwtype_txt">第十三回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2457516.5">2016-05-08</td><td class="举办地点 smwtype_txt">东京Big Sight 东123456展厅</td><td class="摊位编号 smwtype_txt">L08a</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="5" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E4%B8%9C%E6%96%B9%E7%BA%A2%E6%A5%BC%E6%A2%A6#10" title="东方红楼梦">东方红楼梦#10</a></span></td><td class="活动名称 smwtype_txt">東方紅楼夢10</td><td class="日期 smwtype_dat" data-sort-value="2456942.5">2014-10-12</td><td class="举办地点 smwtype_txt">大阪国际展览中心 4号馆・6号馆B区</td><td class="摊位编号 smwtype_txt">え-2a</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="6" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#11" title="博丽神社例大祭">博丽神社例大祭#11</a></span></td><td class="活动名称 smwtype_txt">第十一回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2456788.5">2014-05-11</td><td class="举办地点 smwtype_txt">东京Big Sight 东123456展厅</td><td class="摊位编号 smwtype_txt">い42b</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="7" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#10" title="博丽神社例大祭">博丽神社例大祭#10</a></span></td><td class="活动名称 smwtype_txt">第十回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2456438.5">2013-05-26</td><td class="举办地点 smwtype_txt">东京Big Sight 东123456展厅</td><td class="摊位编号 smwtype_txt">E27a</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="8" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#9" title="博丽神社例大祭">博丽神社例大祭#9</a></span></td><td class="活动名称 smwtype_txt">第九回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2456074.5">2012-05-27</td><td class="举办地点 smwtype_txt">东京Big Sight 东123456展厅</td><td class="摊位编号 smwtype_txt">お-10a</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr></tbody></table>
+
 
 
 ## 其他信息

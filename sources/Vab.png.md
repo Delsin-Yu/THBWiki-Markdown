@@ -6,12 +6,15 @@
 
 本页是关于东方Project  
  **二次同人创作者** 的词条
+
 ## 基本信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="label"><b>名称</b></td><td> Vab.png </td></tr><tr><td class="label"><b>所属社团</b></td><td><b>当前</b><div style="margin-left:2em;"><a href="./DOT重工出張所.md" title="DOT重工出張所">DOT重工出張所</a></div></td></tr><tr><td class="label"><b>职位</b></td><td></td></tr><tr><td class="label"><b>个人页面</b></td><td><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><b>Twitter</b></td><td><a rel="nofollow" class="external free" href="https://twitter.com/Vab0118">https://twitter.com/Vab0118</a></td></tr><tr><td><b>Pixiv</b></td><td><a rel="nofollow" class="external free" href="http://www.pixiv.net/member.php?id=19932345">http://www.pixiv.net/member.php?id=19932345</a></td></tr></tbody></table></td></tr></tbody></table>
 
 Vab.png（人物） - 现实人物
+
 ## 介绍
+
 ## 参与作品
 
 

@@ -164,6 +164,7 @@
 [](./文件-THD2东风谷早苗.png.md)
   
 
+
 ## 目录
 
 - [1 角色定位](#角色定位)
@@ -184,10 +185,12 @@
 
 
 
+
 ## 角色定位
   
 控制 - 先手 - 辅助
   
+
 
 ## 技能介绍
 
@@ -788,6 +791,7 @@
 </td></tr></tbody></table>
 
 
+
 ## 天赋树
 
 
@@ -826,11 +830,13 @@
 </td></tr></tbody></table>
 
 
+
 ## 玩法参考
   
 一般来说，东风谷早苗这名少女是作为辅助来选出来的，她拥有不错的线上消耗能力和补充经济的能力，也会为团队带来源源不断的魔法，其终极技能在团战中的保护能力更是无人能比。缺点是腿短身板脆，再加上拥有强力大招，很容易成为对方集火的对象，非常需要保命装备的支持。  
 
   
+
 
 ### 对线阶段
 
@@ -879,6 +885,7 @@
 6级学习R<a href="./文件-THD2东风谷早苗_04_new.png.md" class="image"><img alt="THD2东风谷早苗 04 new.png" src="https://upload.thwiki.cc/thumb/1/14/THD2%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97_04_new.png/60px-THD2%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97_04_new.png" decoding="async" loading="lazy" width="60" height="60" srcset="https://upload.thwiki.cc/thumb/1/14/THD2%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97_04_new.png/90px-THD2%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97_04_new.png 1.5x, https://upload.thwiki.cc/thumb/1/14/THD2%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97_04_new.png/120px-THD2%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97_04_new.png 2x" data-file-width="128" data-file-height="128"></a>（由于让经验或者被压制到不了6的情况下吃经验书），这时的早苗拥有很强的团战能力，但是机动性仍然很差，跟随队友打团时要时刻注意自身站位。大招不一定要队友残血才开，队友扑上去的时候也可以先开启大招让对手失去反扑机会，但要注意早苗开大的时候自己走的很慢，最好先到比较好的位置再开大。<br>
 </p>
 </td></tr></tbody></table>
+
 
 
 ### 游戏中期
@@ -935,6 +942,7 @@
 </td></tr></tbody></table>
 
 
+
 ### 游戏后期
 
 <table>
@@ -965,6 +973,7 @@
 由于20级200<a href="./文件-THD2东风谷早苗_02_new.png.md" class="image"><img alt="THD2东风谷早苗 02 new.png" src="https://upload.thwiki.cc/thumb/3/3a/THD2%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97_02_new.png/60px-THD2%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97_02_new.png" decoding="async" loading="lazy" width="60" height="60" srcset="https://upload.thwiki.cc/thumb/3/3a/THD2%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97_02_new.png/90px-THD2%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97_02_new.png 1.5x, https://upload.thwiki.cc/thumb/3/3a/THD2%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97_02_new.png/120px-THD2%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97_02_new.png 2x" data-file-width="128" data-file-height="128"></a>伤害和25级100<a href="./文件-THD2东风谷早苗_01_new.png.md" class="image"><img alt="THD2东风谷早苗 01 new.png" src="https://upload.thwiki.cc/thumb/1/17/THD2%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97_01_new.png/60px-THD2%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97_01_new.png" decoding="async" loading="lazy" width="60" height="60" srcset="https://upload.thwiki.cc/thumb/1/17/THD2%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97_01_new.png/90px-THD2%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97_01_new.png 1.5x, https://upload.thwiki.cc/thumb/1/17/THD2%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97_01_new.png/120px-THD2%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97_01_new.png 2x" data-file-width="128" data-file-height="128"></a>伤害的天赋和<a href="./文件-THD2万宝槌.png.md" class="image" title="万宝槌"><img alt="万宝槌" src="https://upload.thwiki.cc/thumb/1/15/THD2%E4%B8%87%E5%AE%9D%E6%A7%8C.png/100px-THD2%E4%B8%87%E5%AE%9D%E6%A7%8C.png" decoding="async" loading="lazy" width="100" height="38" srcset="https://upload.thwiki.cc/thumb/1/15/THD2%E4%B8%87%E5%AE%9D%E6%A7%8C.png/150px-THD2%E4%B8%87%E5%AE%9D%E6%A7%8C.png 1.5x, https://upload.thwiki.cc/1/15/THD2%E4%B8%87%E5%AE%9D%E6%A7%8C.png 2x" data-file-width="168" data-file-height="64"></a>的存在，早苗是有转法核的潜力的（25级有万宝槌的情况下，Q对少女打满会造成1200法术伤害，W对少女会造成690法术伤害），但要注意早苗不太适合<a href="./文件-THD2迷你八卦炉.png.md" class="image" title="迷你八卦炉"><img alt="迷你八卦炉" src="https://upload.thwiki.cc/thumb/9/96/THD2%E8%BF%B7%E4%BD%A0%E5%85%AB%E5%8D%A6%E7%82%89.png/60px-THD2%E8%BF%B7%E4%BD%A0%E5%85%AB%E5%8D%A6%E7%82%89.png" decoding="async" loading="lazy" width="60" height="44" srcset="https://upload.thwiki.cc/9/96/THD2%E8%BF%B7%E4%BD%A0%E5%85%AB%E5%8D%A6%E7%82%89.png 1.5x" data-file-width="88" data-file-height="64"></a>，因为除了技能增强以外的属性早苗拿来都没用。如果是正常打法的早苗，还是点0.8秒<a href="./文件-THD2东风谷早苗_02_new.png.md" class="image"><img alt="THD2东风谷早苗 02 new.png" src="https://upload.thwiki.cc/thumb/3/3a/THD2%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97_02_new.png/60px-THD2%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97_02_new.png" decoding="async" loading="lazy" width="60" height="60" srcset="https://upload.thwiki.cc/thumb/3/3a/THD2%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97_02_new.png/90px-THD2%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97_02_new.png 1.5x, https://upload.thwiki.cc/thumb/3/3a/THD2%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97_02_new.png/120px-THD2%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97_02_new.png 2x" data-file-width="128" data-file-height="128"></a>眩晕和-30秒<a href="./文件-THD2东风谷早苗_04_new.png.md" class="image"><img alt="THD2东风谷早苗 04 new.png" src="https://upload.thwiki.cc/thumb/1/14/THD2%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97_04_new.png/60px-THD2%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97_04_new.png" decoding="async" loading="lazy" width="60" height="60" srcset="https://upload.thwiki.cc/thumb/1/14/THD2%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97_04_new.png/90px-THD2%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97_04_new.png 1.5x, https://upload.thwiki.cc/thumb/1/14/THD2%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97_04_new.png/120px-THD2%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97_04_new.png 2x" data-file-width="128" data-file-height="128"></a>冷却比较好。
 </p>
 </td></tr></tbody></table>
+
 
 
 ## 技能加点
@@ -1027,6 +1036,7 @@
 <td><a href="./文件-DOTA黄点.png.md" class="image" title="+2 全属性"><img alt="+2 全属性" src="https://upload.thwiki.cc/thumb/d/da/DOTA%E9%BB%84%E7%82%B9.png/40px-DOTA%E9%BB%84%E7%82%B9.png" decoding="async" loading="lazy" width="40" height="40" srcset="https://upload.thwiki.cc/thumb/d/da/DOTA%E9%BB%84%E7%82%B9.png/60px-DOTA%E9%BB%84%E7%82%B9.png 1.5x, https://upload.thwiki.cc/thumb/d/da/DOTA%E9%BB%84%E7%82%B9.png/80px-DOTA%E9%BB%84%E7%82%B9.png 2x" data-file-width="128" data-file-height="128"></a></td>
 <td><a href="./文件-THD2天赋树25右.png.md" class="image" title="-30秒 神德「五谷丰登」冷却时间"><img alt="-30秒 神德「五谷丰登」冷却时间" src="https://upload.thwiki.cc/thumb/5/5b/THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%8F%B3.png/40px-THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%8F%B3.png" decoding="async" loading="lazy" width="40" height="40" srcset="https://upload.thwiki.cc/thumb/5/5b/THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%8F%B3.png/60px-THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%8F%B3.png 1.5x, https://upload.thwiki.cc/thumb/5/5b/THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%8F%B3.png/80px-THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%8F%B3.png 2x" data-file-width="103" data-file-height="103"></a>
 </td></tr></tbody></table>
+
 
 
 ## 台词
@@ -1103,6 +1113,7 @@
 </td>
 <td>わわ　おバゲ　悪霊退散<br>[哇哇 妖怪 恶灵退散]
 </td></tr></tbody></table>
+
 
 
 ## 教学视频

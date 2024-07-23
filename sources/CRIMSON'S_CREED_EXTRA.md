@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-CRIMSON'S_CREED_EXTRA封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/8/85/CRIMSON%27S_CREED_EXTRA%E5%B0%81%E9%9D%A2.jpg/139px-CRIMSON%27S_CREED_EXTRA%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="139" height="196" srcset="https://upload.thwiki.cc/thumb/8/85/CRIMSON%27S_CREED_EXTRA%E5%B0%81%E9%9D%A2.jpg/209px-CRIMSON%27S_CREED_EXTRA%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/8/85/CRIMSON%27S_CREED_EXTRA%E5%B0%81%E9%9D%A2.jpg/278px-CRIMSON%27S_CREED_EXTRA%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="763" data-file-height="1074"></a><div class="cover-char">角色：<a href="./爱丽丝·玛格特洛依德.md" title="爱丽丝·玛格特洛依德">爱丽丝·玛格特洛依德</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=59482128">https://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=59482128</a></td></tr></tbody></table>
 
 CRIMSON'S CREED EXTRA（同人志，Fifiruu.FIF，2016） - 2016年10月16日 由 Fifiruu.FIF 于 博丽神社秋季例大祭3 发布的漫画同人志，一共68页，登场人物有 原创角色、蕾米莉亚·斯卡蕾特、爱丽丝·玛格特洛依德、雾雨魔理沙、芙兰朵露·斯卡蕾特、红美铃、八云蓝、八云紫、梅蒂欣·梅兰可莉、帕秋莉·诺蕾姬、十六夜咲夜、小恶魔、黑谷山女，分级为 一般向
+
 ## Staff
 - [Fifiruu](./Fifiruu.md)
+
 
 ## 评论
   

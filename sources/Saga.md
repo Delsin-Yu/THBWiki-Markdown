@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=Saga%E5%B0%81%E9%9D%A2.jpg" class="new" title="文件:Saga封面.jpg">封面图片</a></td>
@@ -13,6 +14,7 @@
 </tr><tr><td class="label">首发日期</td><td>2010-04-18&#160;（<a href="/展会作品列表?e=Bunbunmaru+EXTRA%231">Bunbunmaru Extra 1</a>）</td></tr><tr><td class="label">类型</td><td>单曲</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>1</td></tr><tr><td class="label">总时长</td><td>03:24</td></tr><tr><td class="label">售价</td><td>通贩售价：免费（随<a href="./Bunbunmaru_EXTRA.md" title="Bunbunmaru EXTRA">Bunbunmaru Extra 1</a>杂志赠送）</td></tr></tbody></table>
 
 Saga（同人专辑，Saga Rebellion，2010） - 2010年4月18日 由 Saga Rebellion 于 Bunbunmaru Extra 1 发布的单曲同人专辑，分级为 一般向
+
 ## Staff
   
  **Compose**   
@@ -20,14 +22,17 @@ Saga（同人专辑，Saga Rebellion，2010） - 2010年4月18日 由 Saga Rebel
 <table><tbody><tr><td><a href="/index.php?title=Wildflame&amp;action=edit&amp;redlink=1" class="new" title="Wildflame（页面不存在）">Wildflame</a></td><td></td><td>Tr.1</td></tr></tbody></table>
 
 
+
 ## 试听
   
 暂不支援此类型
   
 
+
 ## 曲目列表
 
 <table><tbody><tr><td id="1" class="infoYL"><b>01</b></td><td id="Children_of_the_Fantasy_~_不思議の国のアリス" colspan="2" class="title">Children of the Fantasy ~ 不思議の国のアリス<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Wildflame&amp;fromwiki=Saga"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:24</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=Wildflame&amp;action=edit&amp;redlink=1" class="new" title="Wildflame（页面不存在）">Wildflame</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Wildflame&amp;fromwiki=Saga"><span></span></a></span></td></tr></tbody></table>
+
 
 
 ## 评论

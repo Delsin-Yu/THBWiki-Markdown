@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-frame封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/d/de/frame%E5%B0%81%E9%9D%A2.png/158px-frame%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="158" height="224" srcset="https://upload.thwiki.cc/thumb/d/de/frame%E5%B0%81%E9%9D%A2.png/237px-frame%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/d/de/frame%E5%B0%81%E9%9D%A2.png/316px-frame%E5%B0%81%E9%9D%A2.png 2x" data-file-width="1846" data-file-height="2618"></a><div class="cover-char">角色：<a href="./玛艾露贝莉·赫恩.md" title="玛艾露贝莉·赫恩">玛艾露贝莉·赫恩</a></div></td>
@@ -18,14 +19,17 @@ frame（同人志，35.8℃，2022） - 2022年6月5日 由 35.8℃ 于 秘封�
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://whenmk.booth.pm/items/3904053">Booth（无附赠明信片）</a></td></tr></tbody></table>
 
 
+
 ## 预览
 - [](./文件-frame预览图1.png.md)- [](./文件-frame预览图2.png.md)- [](./文件-frame预览图3.png.md)- [](./文件-frame预览图4.png.md)
+
 
 ## Staff
 漫画
 : 泆 (未找到链接)
 剧本
 : 夜旅人ジャック (未找到链接)（[Twitter](https://twitter.com/Jack_Archbishop)）
+
 
 ## 评论
 

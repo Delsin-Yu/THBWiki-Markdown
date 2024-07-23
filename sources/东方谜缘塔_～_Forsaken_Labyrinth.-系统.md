@@ -9,6 +9,7 @@
 
   
 
+
 ## 目录
 
 - [1 机体特性](#机体特性)
@@ -51,10 +52,13 @@
 
 
 
+
 ## 机体特性
+
 ### 博丽灵梦
 
 <table><tbody><tr class="tt-content-header" id="博丽灵梦-1" data-pos="&#91;&quot;\u535a\u4e3d\u7075\u68a6&quot;,1&#93;"><td class="tt-zhh" lang="zh"><div class="poem">幻想乡的和平再次被打破，<br>异变的到来困扰着红白的巫女。<br>放任不管不是博丽的作风，巫女亦有在意的事物。<br>那么现在就出发，终结这次异变吧——<br>「到处乱糟糟的，很令人困扰啊！」</div></td></tr></tbody></table>
+
 
 
 #### 诱导装备
@@ -62,9 +66,11 @@
 <table><tbody><tr class="tt-content" id="诱导装备-1" data-pos="&#91;&quot;\u8bf1\u5bfc\u88c5\u5907&quot;,1&#93;"><td class="tt-zh" lang="zh"><div class="poem">具有反规则的诱导符札，有时需要尝试靠近猛攻。<br><br>扩散攻击：Homing Amulet<br>集中攻击：妖怪破坏者<br>SpellCard：灵符「梦想封印」</div></td></tr></tbody></table>
 
 
+
 #### 速攻装备
 
 <table><tbody><tr class="tt-content" id="速攻装备-1" data-pos="&#91;&quot;\u901f\u653b\u88c5\u5907&quot;,1&#93;"><td class="tt-zh" lang="zh"><div class="poem">兼具群体打击和高威力集中的装备，适合初见者。<br><br>扩散攻击：Hakurei Amulet<br>集中攻击：Persuasion Needle<br>SpellCard：梦符「封魔阵」</div></td></tr></tbody></table>
+
 
 
 ### 雾雨魔理沙
@@ -72,9 +78,11 @@
 <table><tbody><tr class="tt-content-header" id="雾雨魔理沙-1" data-pos="&#91;&quot;\u96fe\u96e8\u9b54\u7406\u6c99&quot;,1&#93;"><td class="tt-zhh" lang="zh"><div class="poem">幻想乡的和平再次被打破，<br>异变的先兆甚至传入偏僻的森林。<br>「有异变的地方就有冒险，有冒险的地方就有宝藏！」<br>既然巫女已经着手解决，那就稍后动身吧。<br>有人负责解决，那毫不顾忌的寻宝吧！</div></td></tr></tbody></table>
 
 
+
 #### 贯通装备
 
 <table><tbody><tr class="tt-content" id="贯通装备-1" data-pos="&#91;&quot;\u8d2f\u901a\u88c5\u5907&quot;,1&#93;"><td class="tt-zh" lang="zh"><div class="poem">贯通激光与强力导弹的绝妙搭配，伤害较可观。<br><br>扩散攻击：Illusion Laser<br>集中攻击：Magical Drain Missile<br>SpellCard：恋符「Master Spark」</div></td></tr></tbody></table>
+
 
 
 #### 固定装备
@@ -82,9 +90,11 @@
 <table><tbody><tr class="tt-content" id="固定装备-1" data-pos="&#91;&quot;\u56fa\u5b9a\u88c5\u5907&quot;,1&#93;"><td class="tt-zh" lang="zh"><div class="poem">可以将部分攻击固定在某处，适合两路出击。<br><br>扩散攻击：Frozen Icicle<br>集中攻击：Frozen Icicle（固定）<br>SpellCard：魔符「非定向光线」</div></td></tr></tbody></table>
 
 
+
 ### 十六夜咲夜
 
 <table><tbody><tr class="tt-content-header" id="十六夜咲夜-1" data-pos="&#91;&quot;\u5341\u516d\u591c\u54b2\u591c&quot;,1&#93;"><td class="tt-zhh" lang="zh"><div class="poem">幻想乡的和平再次被打破，<br>而异变迟早会波及到洋馆的姐妹。<br>既然巫女都已经出动，西洋的恶魔自然要有所表示。<br>那么不要犹豫，像往常一样解决吧！<br>「请不要干扰扫除，不然大小姐会生气的哦~」</div></td></tr></tbody></table>
+
 
 
 #### 偏移装备
@@ -92,9 +102,11 @@
 <table><tbody><tr class="tt-content" id="偏移装备-1" data-pos="&#91;&quot;\u504f\u79fb\u88c5\u5907&quot;,1&#93;"><td class="tt-zh" lang="zh"><div class="poem">部分攻击会根据移动方向偏移，适合挑战者。<br><br>扩散攻击：女仆飞刀<br>集中攻击：Focused Blade<br>SpellCard：幻世「The World」</div></td></tr></tbody></table>
 
 
+
 #### 广域装备
 
 <table><tbody><tr class="tt-content" id="广域装备-1" data-pos="&#91;&quot;\u5e7f\u57df\u88c5\u5907&quot;,1&#93;"><td class="tt-zh" lang="zh"><div class="poem">使用追踪妖刀协同作战，适合诱导爱好者。<br><br>扩散攻击：Metallic Knife<br>集中攻击：一寸法师的妖刀<br>SpellCard：女仆秘技「杀人玩偶」</div></td></tr></tbody></table>
+
 
 
 ## 系统说明
@@ -102,9 +114,11 @@
 <table><tbody><tr class="tt-content-header" id="系统说明-1" data-pos="&#91;&quot;\u7cfb\u7edf\u8bf4\u660e&quot;,1&#93;"><td class="tt-zhh" lang="zh"><div class="poem">本系统是以卡片和商店形式，根据玩家个人水平<br>提供不同资源或加成的策略向系统。<br>系统所需的特殊道具通过射击和擦弹获取。</div></td></tr></tbody></table>
 
 
+
 ### 联系回归
 
 <table><tbody><tr class="tt-content" id="联系回归-1" data-pos="&#91;&quot;\u8054\u7cfb\u56de\u5f52&quot;,1&#93;"><td class="tt-zh" lang="zh"><div class="poem">联系回归为游戏中商店的名称。在游戏Manual、商店画面中均有提及。（以下简称商店）<br>一般来说，商店安排在每个关卡之后，但也有可能存在例外。<br><br>对本商店而言，货币或抵押品均为联系力。</div></td></tr></tbody></table>
+
 
 
 ### 联系力
@@ -112,9 +126,11 @@
 <table><tbody><tr class="tt-content" id="联系力-1" data-pos="&#91;&quot;\u8054\u7cfb\u529b&quot;,1&#93;"><td class="tt-zh" lang="zh"><div class="poem">联系力为本游戏系统携带的特殊道具，获取可以获得得分、提高PointValue（最大得点），<br>也可以用作商店货币、商店抵押品。<br><br>联系力的获取有三种方式：<br>①击破小怪/BOSS获得：击破会掉落完整联系力，每个这样的道具可以使联系力计数加一；<br>②擦弹获得：非无敌状态下的擦弹会产生联系力晶片并自动回收，除E难度外，其他难度<br>　　　　　　下均需要多个联系力晶片才能使联系力计数加一。<br>　　　　　　（例如，E难度一个晶片增加1.5联系力，而N难度只增加0.8联系力。）<br>　　　　　　难度越高，晶片价值就越小；<br>③卡片加成：有些卡片会增加联系力，或提升以上两种方式的获取效率。<br><br>联系力的使用有三种方式：<br>①购买资源：用于在商店中支付，购买一次性道具（残机、符卡等）；<br>②交换加成：达到阈值后，可以不消耗联系力换取能力卡片；<br>③承受扣除：MISS或其他特殊情况下会扣除联系力。</div></td></tr></tbody></table>
 
 
+
 ### 能力卡片
 
 <table><tbody><tr class="tt-content" id="能力卡片-1" data-pos="&#91;&quot;\u80fd\u529b\u5361\u7247&quot;,1&#93;"><td class="tt-zh" lang="zh"><div class="poem">能力卡片不消耗联系力即可获取，可以提供各种加成。<br>但是，能力卡片存在联系力阈值。<br><br>联系力阈值有关能力卡片的获取和生效。（阈值显示为Threshold n，n为数字）<br>①获取：持有的联系力（画面右侧会显示）高于联系力阈值，才可以换取该卡片；<br>　　　　（例如，我持有530联系力，可以换取阈值520的卡片，但不能换取阈值745的卡片。）<br>②生效：只有保证持有的联系力一直在阈值以上，该卡片才会存在并生效，<br>　　　　否则本轮游戏中会永久消失。<br>　　　　（例如，我换取了阈值520的卡片，但在三面时我的联系力掉到了500，则该卡片失效；<br>　　　　并且，即使之后我的联系力回涨到了760，该卡片也不会再出现和生效了。）<br><br>获取资源或能力卡片的时候，如果联系力不足，可以用灵力补充联系力。<br>灵力补充联系力以1.00灵力为最小单位，每单位兑换100联系力。<br>（例如，我持有510联系力，想要换取阈值520的卡片，则我可以扣除1.00灵力，增加联系力至<br>620，然后换取该卡片。）<br><br>能力卡片有三条「符文」（即选择能力卡片时存在三条选项的次级菜单），<br>每条「符文」即一类BUFF的不同加成效果。<br>每个能力卡片只能选取一条「符文」。</div></td></tr></tbody></table>
+
 
 
 

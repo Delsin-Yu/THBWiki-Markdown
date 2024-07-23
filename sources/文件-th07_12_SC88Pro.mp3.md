@@ -4,6 +4,7 @@
 
 Ultimate_Truth | 东方妖妖梦
 
+
 ## 文件说明
   
 アルティメットトゥルース 东方妖妖梦6面道中曲MIDI版。由Roland Sound Canvas 88Pro实机录制；MP3采样率44.1KHz，码率192Kbps。  

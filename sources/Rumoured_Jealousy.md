@@ -18,6 +18,7 @@
 
 
 </center>
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=Rumoured_Jealousy%E5%B0%81%E9%9D%A2.jpg" class="new" title="文件:Rumoured Jealousy封面.jpg">封面图片</a><div class="cover-char">角色：<a href="./水桥帕露西.md" title="水桥帕露西">水桥帕露西</a>，<a href="./星熊勇仪.md" title="星熊勇仪">星熊勇仪</a>，<a href="./琪斯美.md" title="琪斯美">琪斯美</a></div></td>
@@ -26,9 +27,11 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.deviantart.com/noirioko/art/Rumoured-Jealousy-175281874">https://www.deviantart.com/noirioko/art/Rumoured-Jealousy-175281874</a><br><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/12583957">https://www.pixiv.net/artworks/12583957</a></td></tr></tbody></table>
 
 Rumoured Jealousy（同人志，蓬莱Sugar，2010） - 2024年6月22日 由 蓬莱Sugar 于 Animania 2010 发布的同人志，登场人物有 水桥帕露西、星熊勇仪，分级为 一般向
+
 ## Staff
 封面
 : norioko （[蓬莱Sugar](./蓬莱Sugar.md)）
+
 
 ## 评论
 

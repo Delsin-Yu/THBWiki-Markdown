@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-東方冴月麟_～_In_Search_of_the_Epitaph封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/1/10/%E6%9D%B1%E6%96%B9%E5%86%B4%E6%9C%88%E9%BA%9F_%EF%BD%9E_In_Search_of_the_Epitaph%E5%B0%81%E9%9D%A2.jpg/99px-%E6%9D%B1%E6%96%B9%E5%86%B4%E6%9C%88%E9%BA%9F_%EF%BD%9E_In_Search_of_the_Epitaph%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="99" height="140" srcset="https://upload.thwiki.cc/thumb/1/10/%E6%9D%B1%E6%96%B9%E5%86%B4%E6%9C%88%E9%BA%9F_%EF%BD%9E_In_Search_of_the_Epitaph%E5%B0%81%E9%9D%A2.jpg/149px-%E6%9D%B1%E6%96%B9%E5%86%B4%E6%9C%88%E9%BA%9F_%EF%BD%9E_In_Search_of_the_Epitaph%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/1/10/%E6%9D%B1%E6%96%B9%E5%86%B4%E6%9C%88%E9%BA%9F_%EF%BD%9E_In_Search_of_the_Epitaph%E5%B0%81%E9%9D%A2.jpg/198px-%E6%9D%B1%E6%96%B9%E5%86%B4%E6%9C%88%E9%BA%9F_%EF%BD%9E_In_Search_of_the_Epitaph%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="708" data-file-height="1000"></a><div class="cover-char">角色：<a href="./博丽灵梦（旧作角色）.md" title="博丽灵梦（旧作角色）">博丽灵梦（旧作角色）</a>，<a href="./冴月麟.md" title="冴月麟">冴月麟</a></div></td>
@@ -14,9 +15,11 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://cynthia.cc/asakura/doujin/rin2.html">http://cynthia.cc/asakura/doujin/rin2.html</a></td></tr></tbody></table>
 
 東方冴月麟 ～ In Search of the Epitaph（同人志，Cynthia，2014） - 2014年9月14日 由 Cynthia 于 幺乐团嘉年华！5 发布的漫画同人志，登场人物有 雾雨魔理沙、冴月麟，分级为 一般向
+
 ## Staff
 Illustration
 : 桜木李杏 （[Cynthia](./Cynthia.md)）
+
 
 ## 评论
 

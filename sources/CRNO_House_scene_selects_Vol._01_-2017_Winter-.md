@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-CRNO_House_scene_selects_Vol._01_-2017_Winter-封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/7/74/CRNO_House_scene_selects_Vol._01_-2017_Winter-%E5%B0%81%E9%9D%A2.jpg/252px-CRNO_House_scene_selects_Vol._01_-2017_Winter-%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="252" srcset="https://upload.thwiki.cc/thumb/7/74/CRNO_House_scene_selects_Vol._01_-2017_Winter-%E5%B0%81%E9%9D%A2.jpg/378px-CRNO_House_scene_selects_Vol._01_-2017_Winter-%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/7/74/CRNO_House_scene_selects_Vol._01_-2017_Winter-%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="500" data-file-height="500"></a></td>
@@ -14,11 +15,13 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://chrono-rec.net/works/crex-0006">http://chrono-rec.net/works/crex-0006</a></td></tr></tbody></table>
 
 CRNO House scene selects Vol. 01 -2017 Winter-（同人专辑，Chronographic Records，2017） - 2017年1月15日 由 Chronographic Records 于 大⑨州东方祭21 发布的单曲同人专辑，分级为 一般向
+
 ## Staff
   
  **Arrangement**   
 
 <table><tbody><tr><td><a href="/index.php?title=Yuun&amp;action=edit&amp;redlink=1" class="new" title="Yuun（页面不存在）">Yuun</a></td><td><a href="./Chronographic_Records.md" title="Chronographic Records">Chronographic Records</a></td><td>Tr.1/2</td></tr></tbody></table>
+
 
 
 ## 试听
@@ -27,10 +30,12 @@ CRNO House scene selects Vol. 01 -2017 Winter-（同人专辑，Chronographic Re
 
   
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="碧色のユメ" colspan="2" class="title">碧色のユメ<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Yuun&amp;ogmusic=デザイアドライブ&amp;fromwiki=CRNO_House_scene_selects_Vol._01_-2017_Winter-"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=Yuun&amp;action=edit&amp;redlink=1" class="new" title="Yuun（页面不存在）">Yuun</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Yuun，&amp;fromwiki=CRNO_House_scene_selects_Vol._01_-2017_Winter-"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=デザイアドライブ&amp;fromwiki=CRNO_House_scene_selects_Vol._01_-2017_Winter-"><span></span></a></span><div class="ogmusic"><a href="/%E3%83%87%E3%82%B6%E3%82%A4%E3%82%A2%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96" class="mw-redirect" title="デザイアドライブ">デザイアドライブ</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E7%A5%9E%E7%81%B5%E5%BA%99_%EF%BD%9E_Ten_Desires." class="mw-redirect" title="东方神灵庙 ～ Ten Desires.">东方神灵庙　～ Ten Desires.</a></div></td></tr>
-<tr><td id="2" class="infoYD"><b>02</b></td><td id="雲との境界線" colspan="2" class="title">雲との境界線<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Yuun&amp;ogmusic=東方緋想天&amp;fromwiki=CRNO_House_scene_selects_Vol._01_-2017_Winter-"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=Yuun&amp;action=edit&amp;redlink=1" class="new" title="Yuun（页面不存在）">Yuun</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Yuun，&amp;fromwiki=CRNO_House_scene_selects_Vol._01_-2017_Winter-"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=東方緋想天&amp;fromwiki=CRNO_House_scene_selects_Vol._01_-2017_Winter-"><span></span></a></span><div class="ogmusic"><a href="/%E6%9D%B1%E6%96%B9%E7%B7%8B%E6%83%B3%E5%A4%A9" class="mw-redirect" title="東方緋想天">東方緋想天</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E7%BB%AF%E6%83%B3%E5%A4%A9_%EF%BD%9E_Scarlet_Weather_Rhapsody." class="mw-redirect" title="东方绯想天 ～ Scarlet Weather Rhapsody.">东方绯想天　～ Scarlet Weather Rhapsody.</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="碧色のユメ" colspan="2" class="title">碧色のユメ<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Yuun&amp;ogmusic=デザイアドライブ&amp;fromwiki=CRNO_House_scene_selects_Vol._01_-2017_Winter-"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=Yuun&amp;action=edit&amp;redlink=1" class="new" title="Yuun（页面不存在）">Yuun</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Yuun，&amp;fromwiki=CRNO_House_scene_selects_Vol._01_-2017_Winter-"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=デザイアドライブ&amp;fromwiki=CRNO_House_scene_selects_Vol._01_-2017_Winter-"><span></span></a></span><div class="ogmusic"><a href="./デザイアドライブ.md" class="mw-redirect" title="デザイアドライブ">デザイアドライブ</a></div><div class="source"><a href="./东方神灵庙_～_Ten_Desires..md" class="mw-redirect" title="东方神灵庙 ～ Ten Desires.">东方神灵庙　～ Ten Desires.</a></div></td></tr>
+<tr><td id="2" class="infoYD"><b>02</b></td><td id="雲との境界線" colspan="2" class="title">雲との境界線<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Yuun&amp;ogmusic=東方緋想天&amp;fromwiki=CRNO_House_scene_selects_Vol._01_-2017_Winter-"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=Yuun&amp;action=edit&amp;redlink=1" class="new" title="Yuun（页面不存在）">Yuun</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Yuun，&amp;fromwiki=CRNO_House_scene_selects_Vol._01_-2017_Winter-"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=東方緋想天&amp;fromwiki=CRNO_House_scene_selects_Vol._01_-2017_Winter-"><span></span></a></span><div class="ogmusic"><a href="./東方緋想天.md" class="mw-redirect" title="東方緋想天">東方緋想天</a></div><div class="source"><a href="./东方绯想天_～_Scarlet_Weather_Rhapsody..md" class="mw-redirect" title="东方绯想天 ～ Scarlet Weather Rhapsody.">东方绯想天　～ Scarlet Weather Rhapsody.</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

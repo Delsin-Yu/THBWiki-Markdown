@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=Ma-Hi-Te%E3%81%8A%E8%A9%A6%E3%81%97CD_2021%E5%B0%81%E9%9D%A2.jpg" class="new" title="文件:Ma-Hi-Teお試しCD 2021封面.jpg">封面图片</a></td>
@@ -14,11 +15,13 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://ma-hi-te.com/395">https://ma-hi-te.com/395</a></td></tr></tbody></table>
 
 Ma-Hi-Teお試しCD 2021（同人专辑，Ma-Hi-Te，2021） - 2021年11月28日 由 Ma-Hi-Te 于 东方红楼梦17 发布的单曲同人专辑，分级为 一般向
+
 ## Staff
   
  **Arrangement**   
 
 <table><tbody><tr><td><a href="/index.php?title=hiiiima&amp;action=edit&amp;redlink=1" class="new" title="hiiiima（页面不存在）">hiiiima</a></td><td></td><td>Tr.1/2</td></tr></tbody></table>
+
 
 
 ## 试听
@@ -27,10 +30,12 @@ Ma-Hi-Teお試しCD 2021（同人专辑，Ma-Hi-Te，2021） - 2021年11月28日
 
   
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="未知との遭遇" colspan="2" class="title">未知との遭遇<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=hiiiima&amp;ogmusic=ハルトマンの妖怪少女&amp;fromwiki=Ma-Hi-Teお試しCD_2021"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=hiiiima&amp;action=edit&amp;redlink=1" class="new" title="hiiiima（页面不存在）">hiiiima</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，hiiiima&amp;fromwiki=Ma-Hi-Teお試しCD_2021"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=ハルトマンの妖怪少女&amp;fromwiki=Ma-Hi-Teお試しCD_2021"><span></span></a></span><div class="ogmusic"><a href="/%E3%83%8F%E3%83%AB%E3%83%88%E3%83%9E%E3%83%B3%E3%81%AE%E5%A6%96%E6%80%AA%E5%B0%91%E5%A5%B3" class="mw-redirect" title="ハルトマンの妖怪少女">ハルトマンの妖怪少女</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E5%9C%B0%E7%81%B5%E6%AE%BF_%EF%BD%9E_Subterranean_Animism." class="mw-redirect" title="东方地灵殿 ～ Subterranean Animism.">东方地灵殿　～ Subterranean Animism.</a></div></td></tr>
-<tr><td id="2" class="infoYD"><b>02</b></td><td id="ハルトマン※ウッド" colspan="2" class="title">ハルトマン※ウッド<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=hiiiima&amp;ogmusic=ハルトマンの妖怪少女&amp;fromwiki=Ma-Hi-Teお試しCD_2021"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=hiiiima&amp;action=edit&amp;redlink=1" class="new" title="hiiiima（页面不存在）">hiiiima</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，hiiiima&amp;fromwiki=Ma-Hi-Teお試しCD_2021"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">初发布</td><td class="text" colspan="2"><a href="/%E3%83%8F%E3%83%83%E3%83%94%E3%83%BC%C3%97%E3%82%A6%E3%83%83%E3%83%89%C3%97%E3%82%A4%E3%83%AA%E3%83%BC%E3%82%AC%E3%83%AB#4" title="ハッピー×ウッド×イリーガル">ハルトマン※ウッド</a><div class="source"><a href="./ハッピー×ウッド×イリーガル.md" title="ハッピー×ウッド×イリーガル">ハッピー×ウッド×イリーガル</a></div></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=ハルトマンの妖怪少女&amp;fromwiki=Ma-Hi-Teお試しCD_2021"><span></span></a></span><div class="ogmusic"><a href="/%E3%83%8F%E3%83%AB%E3%83%88%E3%83%9E%E3%83%B3%E3%81%AE%E5%A6%96%E6%80%AA%E5%B0%91%E5%A5%B3" class="mw-redirect" title="ハルトマンの妖怪少女">ハルトマンの妖怪少女</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E5%9C%B0%E7%81%B5%E6%AE%BF_%EF%BD%9E_Subterranean_Animism." class="mw-redirect" title="东方地灵殿 ～ Subterranean Animism.">东方地灵殿　～ Subterranean Animism.</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="未知との遭遇" colspan="2" class="title">未知との遭遇<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=hiiiima&amp;ogmusic=ハルトマンの妖怪少女&amp;fromwiki=Ma-Hi-Teお試しCD_2021"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=hiiiima&amp;action=edit&amp;redlink=1" class="new" title="hiiiima（页面不存在）">hiiiima</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，hiiiima&amp;fromwiki=Ma-Hi-Teお試しCD_2021"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=ハルトマンの妖怪少女&amp;fromwiki=Ma-Hi-Teお試しCD_2021"><span></span></a></span><div class="ogmusic"><a href="./ハルトマンの妖怪少女.md" class="mw-redirect" title="ハルトマンの妖怪少女">ハルトマンの妖怪少女</a></div><div class="source"><a href="./东方地灵殿_～_Subterranean_Animism..md" class="mw-redirect" title="东方地灵殿 ～ Subterranean Animism.">东方地灵殿　～ Subterranean Animism.</a></div></td></tr>
+<tr><td id="2" class="infoYD"><b>02</b></td><td id="ハルトマン※ウッド" colspan="2" class="title">ハルトマン※ウッド<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=hiiiima&amp;ogmusic=ハルトマンの妖怪少女&amp;fromwiki=Ma-Hi-Teお試しCD_2021"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=hiiiima&amp;action=edit&amp;redlink=1" class="new" title="hiiiima（页面不存在）">hiiiima</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，hiiiima&amp;fromwiki=Ma-Hi-Teお試しCD_2021"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">初发布</td><td class="text" colspan="2"><a href="/%E3%83%8F%E3%83%83%E3%83%94%E3%83%BC%C3%97%E3%82%A6%E3%83%83%E3%83%89%C3%97%E3%82%A4%E3%83%AA%E3%83%BC%E3%82%AC%E3%83%AB#4" title="ハッピー×ウッド×イリーガル">ハルトマン※ウッド</a><div class="source"><a href="./ハッピー×ウッド×イリーガル.md" title="ハッピー×ウッド×イリーガル">ハッピー×ウッド×イリーガル</a></div></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=ハルトマンの妖怪少女&amp;fromwiki=Ma-Hi-Teお試しCD_2021"><span></span></a></span><div class="ogmusic"><a href="./ハルトマンの妖怪少女.md" class="mw-redirect" title="ハルトマンの妖怪少女">ハルトマンの妖怪少女</a></div><div class="source"><a href="./东方地灵殿_～_Subterranean_Animism..md" class="mw-redirect" title="东方地灵殿 ～ Subterranean Animism.">东方地灵殿　～ Subterranean Animism.</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

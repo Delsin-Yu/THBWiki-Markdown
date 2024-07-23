@@ -23,6 +23,7 @@
 </center>
 - 本词条内容为官方游戏TH18.5 **弹幕狂们的黑市** 的敌机符卡
 
+
 ## 目录
 
 - [1 菅牧典](#菅牧典)
@@ -98,7 +99,9 @@
 
 
 
+
 ## 菅牧典
+
 ### 狐符「延迟性管狐弹」
 
 <table>
@@ -112,9 +115,10 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="/%E7%8B%90%E7%AC%A6%E3%80%8C%E5%BB%B6%E8%BF%9F%E6%80%A7%E7%AE%A1%E7%8B%90%E5%BC%B9%E3%80%8D" class="mw-redirect" title="狐符「延迟性管狐弹」">狐符「延迟性管狐弹」</a>
+<p><a href="./狐符「延迟性管狐弹」.md" class="mw-redirect" title="狐符「延迟性管狐弹」">狐符「延迟性管狐弹」</a>
 </p>
 </th></tr></tbody></table>
+
 
 
 #### 符卡信息
@@ -136,6 +140,7 @@
 
   
 
+
 ### 狐符「管中的邪恶」
 
 <table>
@@ -149,9 +154,10 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="/%E7%8B%90%E7%AC%A6%E3%80%8C%E7%AE%A1%E4%B8%AD%E7%9A%84%E9%82%AA%E6%81%B6%E3%80%8D" class="mw-redirect" title="狐符「管中的邪恶」">狐符「管中的邪恶」</a>
+<p><a href="./狐符「管中的邪恶」.md" class="mw-redirect" title="狐符「管中的邪恶」">狐符「管中的邪恶」</a>
 </p>
 </th></tr></tbody></table>
+
 
 
 #### 符卡信息
@@ -173,7 +179,9 @@
 
   
 
+
 ## 饭纲丸龙
+
 ### 星符「天真烂漫之星」
 
 <table>
@@ -187,9 +195,10 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="/%E6%98%9F%E7%AC%A6%E3%80%8C%E5%A4%A9%E7%9C%9F%E7%83%82%E6%BC%AB%E4%B9%8B%E6%98%9F%E3%80%8D" class="mw-redirect" title="星符「天真烂漫之星」">星符「天真烂漫之星」</a>
+<p><a href="./星符「天真烂漫之星」.md" class="mw-redirect" title="星符「天真烂漫之星」">星符「天真烂漫之星」</a>
 </p>
 </th></tr></tbody></table>
+
 
 
 #### 符卡信息
@@ -211,6 +220,7 @@
 
   
 
+
 ### 风符「空空寂寂之风」
 
 <table>
@@ -224,9 +234,10 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="/%E9%A3%8E%E7%AC%A6%E3%80%8C%E7%A9%BA%E7%A9%BA%E5%AF%82%E5%AF%82%E4%B9%8B%E9%A3%8E%E3%80%8D" class="mw-redirect" title="风符「空空寂寂之风」">风符「空空寂寂之风」</a>
+<p><a href="./风符「空空寂寂之风」.md" class="mw-redirect" title="风符「空空寂寂之风」">风符「空空寂寂之风」</a>
 </p>
 </th></tr></tbody></table>
+
 
 
 #### 符卡信息
@@ -248,7 +259,9 @@
 
   
 
+
 ## 克劳恩皮丝
+
 ### 极炎「地狱釜底之底」
 
 <table>
@@ -262,9 +275,10 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="/%E6%9E%81%E7%82%8E%E3%80%8C%E5%9C%B0%E7%8B%B1%E9%87%9C%E5%BA%95%E4%B9%8B%E5%BA%95%E3%80%8D" class="mw-redirect" title="极炎「地狱釜底之底」">极炎「地狱釜底之底」</a>
+<p><a href="./极炎「地狱釜底之底」.md" class="mw-redirect" title="极炎「地狱釜底之底」">极炎「地狱釜底之底」</a>
 </p>
 </th></tr></tbody></table>
+
 
 
 #### 符卡信息
@@ -286,6 +300,7 @@
 
   
 
+
 ### 「Lunatic Torch Relay」（月狂火炬传递）
 
 <table>
@@ -299,9 +314,10 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="/%E3%80%8CLunatic_Torch_Relay%E3%80%8D" class="mw-redirect" title="「Lunatic Torch Relay」">「Lunatic Torch Relay」</a>
+<p><a href="./「Lunatic_Torch_Relay」.md" class="mw-redirect" title="「Lunatic Torch Relay」">「Lunatic Torch Relay」</a>
 </p>
 </th></tr></tbody></table>
+
 
 
 #### 符卡信息
@@ -323,7 +339,9 @@
 
   
 
+
 ## 比那名居天子
+
 ### 要石「乾坤鸣动炮」
 
 <table>
@@ -337,9 +355,10 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="/%E8%A6%81%E7%9F%B3%E3%80%8C%E4%B9%BE%E5%9D%A4%E9%B8%A3%E5%8A%A8%E7%82%AE%E3%80%8D" class="mw-redirect" title="要石「乾坤鸣动炮」">要石「乾坤鸣动炮」</a>
+<p><a href="./要石「乾坤鸣动炮」.md" class="mw-redirect" title="要石「乾坤鸣动炮」">要石「乾坤鸣动炮」</a>
 </p>
 </th></tr></tbody></table>
+
 
 
 #### 符卡信息
@@ -361,6 +380,7 @@
 
   
 
+
 ### 要石「扩散乾坤鸣动炮」
 
 <table>
@@ -374,9 +394,10 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="/%E8%A6%81%E7%9F%B3%E3%80%8C%E6%89%A9%E6%95%A3%E4%B9%BE%E5%9D%A4%E9%B8%A3%E5%8A%A8%E7%82%AE%E3%80%8D" class="mw-redirect" title="要石「扩散乾坤鸣动炮」">要石「扩散乾坤鸣动炮」</a>
+<p><a href="./要石「扩散乾坤鸣动炮」.md" class="mw-redirect" title="要石「扩散乾坤鸣动炮」">要石「扩散乾坤鸣动炮」</a>
 </p>
 </th></tr></tbody></table>
+
 
 
 #### 符卡信息
@@ -397,6 +418,7 @@
   
 
   
+
 
 ## 导航
   

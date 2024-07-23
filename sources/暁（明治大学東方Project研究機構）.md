@@ -18,6 +18,7 @@
 
 
 </center>
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-暁（明治大学東方Project研究機構）封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/6/6d/%E6%9A%81%EF%BC%88%E6%98%8E%E6%B2%BB%E5%A4%A7%E5%AD%A6%E6%9D%B1%E6%96%B9Project%E7%A0%94%E7%A9%B6%E6%A9%9F%E6%A7%8B%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/252px-%E6%9A%81%EF%BC%88%E6%98%8E%E6%B2%BB%E5%A4%A7%E5%AD%A6%E6%9D%B1%E6%96%B9Project%E7%A0%94%E7%A9%B6%E6%A9%9F%E6%A7%8B%EF%BC%89%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="252" srcset="https://upload.thwiki.cc/thumb/6/6d/%E6%9A%81%EF%BC%88%E6%98%8E%E6%B2%BB%E5%A4%A7%E5%AD%A6%E6%9D%B1%E6%96%B9Project%E7%A0%94%E7%A9%B6%E6%A9%9F%E6%A7%8B%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/378px-%E6%9A%81%EF%BC%88%E6%98%8E%E6%B2%BB%E5%A4%A7%E5%AD%A6%E6%9D%B1%E6%96%B9Project%E7%A0%94%E7%A9%B6%E6%A9%9F%E6%A7%8B%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/6/6d/%E6%9A%81%EF%BC%88%E6%98%8E%E6%B2%BB%E5%A4%A7%E5%AD%A6%E6%9D%B1%E6%96%B9Project%E7%A0%94%E7%A9%B6%E6%A9%9F%E6%A7%8B%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/504px-%E6%9A%81%EF%BC%88%E6%98%8E%E6%B2%BB%E5%A4%A7%E5%AD%A6%E6%9D%B1%E6%96%B9Project%E7%A0%94%E7%A9%B6%E6%A9%9F%E6%A7%8B%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="647" data-file-height="647"></a><div class="cover-char">角色：<a href="./西行寺幽幽子.md" title="西行寺幽幽子">西行寺幽幽子</a></div></td>
@@ -26,15 +27,18 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://www.muart.info/newfolder3/mcp03.html">http://www.muart.info/newfolder3/mcp03.html</a><br><span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span></td></tr></tbody></table>
 
 暁（同人专辑，明治大学東方Project研究機構，2013） - 2013年5月26日 由 明治大学東方Project研究機構 于 博丽神社例大祭10 发布的全长同人专辑，分级为 一般向
+
 ## Staff
 Illustration
 : ぐらたんキッチン
+
 
 ## 试听
   
 <iframe width="100%" height="180" src="https://ext.nicovideo.jp/thumb/sm20887184" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/watch/sm20887184">,</a></iframe>
 
   
+
 
 ## 曲目列表
 
@@ -48,6 +52,7 @@ Illustration
 <tr><td id="8" class="info"><b>08</b></td><td id="回る空の向こうに" colspan="2" class="title">回る空の向こうに<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=暁（明治大学東方Project研究機構）"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr>
 <tr><td id="9" class="info"><b>09</b></td><td id="宴を飾れ、贖罪の桜" colspan="2" class="title">宴を飾れ、贖罪の桜<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=暁（明治大学東方Project研究機構）"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr>
 <tr><td id="10" class="info"><b>10</b></td><td id="明星" colspan="2" class="title">明星<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=暁（明治大学東方Project研究機構）"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr></tbody></table>
+
 
 
 ## 评论

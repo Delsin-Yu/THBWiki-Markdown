@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Dream_Carousel_～Merry_go_Araound～封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/9/92/Dream_Carousel_%EF%BD%9EMerry_go_Araound%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg/121px-Dream_Carousel_%EF%BD%9EMerry_go_Araound%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="121" height="168" srcset="https://upload.thwiki.cc/thumb/9/92/Dream_Carousel_%EF%BD%9EMerry_go_Araound%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg/181px-Dream_Carousel_%EF%BD%9EMerry_go_Araound%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/9/92/Dream_Carousel_%EF%BD%9EMerry_go_Araound%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg/241px-Dream_Carousel_%EF%BD%9EMerry_go_Araound%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="800" data-file-height="1114"></a><div class="cover-char">角色：<a href="./宇佐见莲子.md" title="宇佐见莲子">宇佐见莲子</a>，<a href="./玛艾露贝莉·赫恩.md" title="玛艾露贝莉·赫恩">玛艾露贝莉·赫恩</a></div></td>
@@ -14,9 +15,12 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/43323331">https://www.pixiv.net/artworks/43323331</a></td></tr></tbody></table>
 
 Dream Carousel ～Merry go Araound～（同人志，サウスネバダ，2014） - 2014年5月11日 由 サウスネバダ 于 博丽神社例大祭11 发布的漫画同人志，一共40页，分级为 一般向
+
 ## 预览
+
 ## Staff
 - [ベガス](./ベガス.md)
+
 
 ## 评论
 

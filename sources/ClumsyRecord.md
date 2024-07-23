@@ -4,7 +4,8 @@
 
 ClumsyRecord ，于 2018 年成立，主要制作 同人音乐 的日本同人社团，主催是 taKu，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -21,16 +22,20 @@ ClumsyRecord ，于 2018 年成立，主要制作 同人音乐 的日本同人�
 
 
 
+
 ## 社团信息
 [](./文件-ClumsyRecordlogo.jpg.md)  [](./文件-ClumsyRecordlogo.jpg.md)Logo
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> ClumsyRecord </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2018</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=taKu&amp;action=edit&amp;redlink=1" class="new" title="taKu（页面不存在）">taKu</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="https://clumsyrecord.tumblr.com/">https://clumsyrecord.tumblr.com/</a> <br><a rel="nofollow" class="external free" href="https://twitter.com/clumsy_record">https://twitter.com/clumsy_record</a></td></tr></tbody></table>
 
 ClumsyRecord（同人社团，同人音乐社团） - ClumsyRecord ，于 2018 年成立，主要制作 同人音乐 的日本同人社团，主催是 taKu，当前状态为 活动
+
 ## 成员名单
 - taKu (未找到链接)
 
+
 ## 作品列表
+
 ### 同人专辑
 [](./駄work_。.md)[駄work。](./駄work_。.md)首发日期：2018-06-01 （BOOTH Festival APOLLO 第8回 (未找到链接)）全长 （一般向）[](./DARU＊EX.md)[DARU*EX](./DARU＊EX.md)首发日期：2019-08-06 EP （一般向）[](./the_TOHO_Creation_01.md)[the TOHO Creation 01](./the_TOHO_Creation_01.md)首发日期：2020-03-22 （第十七回 博麗神社例大祭 (未找到链接)）全长 （一般向）[](./the_TOHO_Creation_EP_~Mountain_of_Faith~.md)[the TOHO Creation EP ~Mountain of Faith~](./the_TOHO_Creation_EP_~Mountain_of_Faith~.md)首发日期：2020-12-21 （エアコミケ2 (未找到链接)）EP、​合作 （一般向）[](./TH_Boxxxxx.md)[TH Boxxxxx](./TH_Boxxxxx.md)首发日期：2020-12-21 （エアコミケ2 (未找到链接)）全长 （一般向）[](./Naughty_kitten.md)[Naughty kitten](./Naughty_kitten.md)首发日期：2021-08-14 （東方同人音楽流通 夏の三週連続リリース祭り（1/3） (未找到链接)）单曲 （一般向）[](./TH_Boxxxxx_2.md)[TH Boxxxxx 2](./TH_Boxxxxx_2.md)首发日期：2021-10-24 （第八回 博麗神社秋季例大祭 (未找到链接)）全长 （一般向）[](./the_TOHO_Creation_02.md)[the TOHO Creation 02](./the_TOHO_Creation_02.md)首发日期：2022-05-08 （第十九回 博麗神社例大祭 (未找到链接)）全长 （一般向）[](./TOHO_DROP_ZONE.md)[TOHO DROP ZONE](./TOHO_DROP_ZONE.md)首发日期：2022-10-23 （第九回 博麗神社秋季例大祭 (未找到链接)）全长 （一般向）[](./SUWASUWA_SYNDROME.md)[SUWASUWA SYNDROME](./SUWASUWA_SYNDROME.md)首发日期：2023-05-07 （第二十回 博麗神社例大祭 (未找到链接)）全长 （一般向）[](./TOHO_DROP_ZONE_2.md)[TOHO DROP ZONE 2](./TOHO_DROP_ZONE_2.md)首发日期：2023-11-12 （第十回 博麗神社秋季例大祭 (未找到链接)）全长 （一般向）
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -57,9 +62,11 @@ ClumsyRecord（同人社团，同人音乐社团） - ClumsyRecord ，于 2018 �
 </table>
 
 
+
 ## 参展信息
 
 <table><tbody><tr><th class="活动页面">活动页面</th><th class="活动名称">活动名称</th><th class="日期">日期</th><th class="举办地点">举办地点</th><th class="摊位编号">摊位编号</th><th class="宣传页面">宣传页面</th><th class="备注">备注</th></tr><tr data-row-number="1" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E7%A7%8B%E5%AD%A3%E4%BE%8B%E5%A4%A7%E7%A5%AD#10" title="博丽神社秋季例大祭">博丽神社秋季例大祭#10</a></span></td><td class="活动名称 smwtype_txt">第十回 博麗神社秋季例大祭</td><td class="日期 smwtype_dat" data-sort-value="2460260.5">2023-11-12</td><td class="举办地点 smwtype_txt">东京Big Sight 東展厅</td><td class="摊位编号 smwtype_txt">た06a</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="2" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E6%9D%9C%E4%B9%8B%E5%A5%87%E8%BF%B9#29" title="杜之奇迹">杜之奇迹#29</a></span></td><td class="活动名称 smwtype_txt">杜の奇跡29</td><td class="日期 smwtype_dat" data-sort-value="2460099.5">2023-06-04</td><td class="举办地点 smwtype_txt">AER 仙台市中小企业活性化中心 5层大厅</td><td class="摊位编号 smwtype_txt">E-20</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="3" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#20" title="博丽神社例大祭">博丽神社例大祭#20</a></span></td><td class="活动名称 smwtype_txt">第二十回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2460071.5">2023-05-07</td><td class="举办地点 smwtype_txt">东京Big Sight 东展厅</td><td class="摊位编号 smwtype_txt">ち50a</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="4" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E7%A7%8B%E5%AD%A3%E4%BE%8B%E5%A4%A7%E7%A5%AD#9" title="博丽神社秋季例大祭">博丽神社秋季例大祭#9</a></span></td><td class="活动名称 smwtype_txt">第九回 博麗神社秋季例大祭</td><td class="日期 smwtype_dat" data-sort-value="2459875.5">2022-10-23</td><td class="举办地点 smwtype_txt">东京Big Sight 西展厅</td><td class="摊位编号 smwtype_txt">い23a</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="5" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#19" title="博丽神社例大祭">博丽神社例大祭#19</a></span></td><td class="活动名称 smwtype_txt">第十九回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2459707.5">2022-05-08</td><td class="举办地点 smwtype_txt">东京Big Sight 东展厅</td><td class="摊位编号 smwtype_txt">う15b</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="6" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E7%A7%8B%E5%AD%A3%E4%BE%8B%E5%A4%A7%E7%A5%AD#8" title="博丽神社秋季例大祭">博丽神社秋季例大祭#8</a></span></td><td class="活动名称 smwtype_txt">第八回 博麗神社秋季例大祭</td><td class="日期 smwtype_dat" data-sort-value="2459511.5">2021-10-24</td><td class="举办地点 smwtype_txt">东京Big Sight 青海展示厅</td><td class="摊位编号 smwtype_txt">と16b</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="7" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#17" title="博丽神社例大祭">博丽神社例大祭#17</a></span></td><td class="活动名称 smwtype_txt">第十七回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2458986.5">2020-05-17</td><td class="举办地点 smwtype_txt">静冈双子展览馆</td><td class="摊位编号 smwtype_txt">ぬ08b</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr></tbody></table>
+
 
 
 ## 其他信息

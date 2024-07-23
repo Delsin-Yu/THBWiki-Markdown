@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -35,11 +36,13 @@
 
 
 
+
 ## 基本信息
 
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">パンデモニックプラネット</td></tr><tr><td><b>译名</b></td><td>Pandemonic Planet</td></tr><tr><td><b>其他译名</b></td><td>万魔星球<br>潘地漫尼克星球</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 Pandemonic Planet（曲目） - 由 ZUN 创作的官方曲目，原名 パンデモニックプラネット
+
 ## 出现作品
 
 <table>
@@ -48,7 +51,9 @@ Pandemonic Planet（曲目） - 由 ZUN 创作的官方曲目，原名 パンデ
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 东方绀珠传
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th15_17.mp3.md" title="文件:th15 17.mp3">th15_17.mp3</a><br><audio src="https://upload.thwiki.cc/c/c1/th15_17.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>BGM\th15_17.wav</td></tr><tr><td><b>BGMForAll</b></td><td><div class="mw-collapsible mw-collapsed">
@@ -59,12 +64,15 @@ Pandemonic Planet（曲目） - 由 ZUN 创作的官方曲目，原名 パンデ
 </td></tr></tbody></table>
 
 
+
 ### 旧约酒馆
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-hr10_06.mp3.md" title="文件:hr10 06.mp3">hr10_06.mp3</a><br><audio src="https://upload.thwiki.cc/c/cd/hr10_06.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track06.cda（CD）</td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 东方绀珠传
 - Music Room (未找到链接)
 
@@ -74,8 +82,11 @@ Pandemonic Planet（曲目） - 由 ZUN 创作的官方曲目，原名 パンデ
 　实际上我是想用一些金属感觉的曲子的来着，但我没那方面的造诣，  
 　而且感觉又不符合世界观，结果就这样子了。  
 　地狱－＞死神－＞死亡－＞死亡金属，这种贫瘠的想法。
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
   
  **パンデモニックプラネット**  Pandemonic Planet
@@ -106,6 +117,7 @@ Pandemonic Planet（曲目） - 由 ZUN 创作的官方曲目，原名 パンデ
   - 地球？
     - 在《旧约酒馆》中保留着「头发信仰」的村落相对于正常的世界就是「异界」。
     - 参考[旧约酒馆附带故事](./旧约酒馆-附带故事.md)及[分析考据](./旧约酒馆-分析考据.md)。
+
 
 
 

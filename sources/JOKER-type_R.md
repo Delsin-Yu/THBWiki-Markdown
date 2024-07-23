@@ -4,7 +4,8 @@
 
 JOKER-type R ，主要制作 同人志 的日本同人社团，主催是 りゅうか，当前状态为 休止
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -20,15 +21,19 @@ JOKER-type R ，主要制作 同人志 的日本同人社团，主催是 りゅ�
 
 
 
+
 ## 社团信息
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> JOKER-type R </td></tr><tr><td><b>主要作品类型</b></td><td>同人志</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=%E3%82%8A%E3%82%85%E3%81%86%E3%81%8B&amp;action=edit&amp;redlink=1" class="new" title="りゅうか（页面不存在）">りゅうか</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://jokertype09.web.fc2.com/">http://jokertype09.web.fc2.com/</a> <br><a rel="nofollow" class="external free" href="http://colorfuldays09.blog9.fc2.com/">http://colorfuldays09.blog9.fc2.com/</a></td></tr></tbody></table>
 
 JOKER-type R（同人社团，同人志社团） - JOKER-type R ，主要制作 同人志 的日本同人社团，主催是 りゅうか，当前状态为 休止
+
 ## 成员名单
 - りゅうか (未找到链接)
 
+
 ## 作品列表
+
 ### 同人志
 [](./東方星導夜～壊れた世界にさよなら～.md)[東方星導夜～壊れた世界にさよなら～](./東方星導夜～壊れた世界にさよなら～.md)首发日期：2011-12-30 （Comic Market 81 (未找到链接)）摄影集 （一般向）A5&#160;尺寸 20&#160;页[](./絵空事メルヘン.md)[絵空事メルヘン](./絵空事メルヘン.md)首发日期：2012-08-11 （Comic Market 82 (未找到链接)）摄影集 （一般向）A5&#160;尺寸 20&#160;页[](./東方幻想寫眞集.md)[東方幻想寫眞集](./東方幻想寫眞集.md)首发日期：2012-12-30 （Comic Market 83 (未找到链接)）摄影集 （一般向）[](./毒人形.md)[毒人形](./毒人形.md)首发日期：2013-05-26 （第十回 博麗神社例大祭 (未找到链接)）摄影集 （一般向）A5&#160;尺寸 12&#160;页[](./空想少女_-Close_your_heart_to_every_love_but_mine-.md)[空想少女 -Close your heart to every love but mine-](./空想少女_-Close_your_heart_to_every_love_but_mine-.md)首发日期：2017-05-07 （第十四回 博麗神社例大祭 (未找到链接)）摄影集 （一般向）A5&#160;尺寸 20&#160;页
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -41,6 +46,7 @@ JOKER-type R（同人社团，同人志社团） - JOKER-type R ，主要制作 
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 参展信息

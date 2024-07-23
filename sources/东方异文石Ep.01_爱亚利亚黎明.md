@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 软件信息](#软件信息)
@@ -13,6 +14,7 @@
 - [3 游戏剧情](#游戏剧情)
 - [4 游戏帮助](#游戏帮助)
 - [5 评论](#评论)
+
 
 
 
@@ -25,6 +27,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://tieba.baidu.com/p/4703116889">https://tieba.baidu.com/p/4703116889</a><br><a rel="nofollow" class="external free" href="http://moetouhou.blog.sohu.com/">http://moetouhou.blog.sohu.com/</a></td></tr></tbody></table>
 
 东方异文石Ep.01 爱亚利亚黎明（同人游戏，萌东方兄弟会，2016） - 2016年7月31日 由 萌东方兄弟会  发布的PUZ同人游戏，可在 Windows 系统上运行，游戏人数为 单人模式，多人模式，分级为 一般向
+
 ## Staff
 CAST
 : 博丽 灵梦 - 草摩里纱   
@@ -127,6 +130,7 @@ BUG
 望山羊
   
 
+
 ## 游戏剧情
 - [Chapter0 从零开始](./东方异文石Ep.01_爱亚利亚黎明-Chapter0.md)
 - Chapter1 一夜暴富 (未找到链接)
@@ -138,6 +142,7 @@ BUG
 - Chapter7 七丈浓烟 (未找到链接)
 - Chapter8 三灾八难 (未找到链接)
 - Chapter9 爱亚利亚黎明 (未找到链接)
+
 
 ## 游戏帮助
 - 游戏中按F1可以查看，ESC消除。
@@ -225,6 +230,7 @@ F4可以全屏。
 注意：
 目前存在一个BUG，尚未解决。过于频繁的读档会导致游戏报错，重启游戏就能解决。我们在尽力分析解决这个问题，但是正常频率的读档应该不会引发这个问题。
   
+
 
 ## 评论
 - 重制版为[东方异文石 - 爱亚利亚黎明：再造](./东方异文石_-_爱亚利亚黎明：再造.md)

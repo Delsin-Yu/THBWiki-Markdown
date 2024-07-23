@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-東方胡魔乙女_～_Eastern_Jillballad_Story_Vol.2封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/9/96/%E6%9D%B1%E6%96%B9%E8%83%A1%E9%AD%94%E4%B9%99%E5%A5%B3_%EF%BD%9E_Eastern_Jillballad_Story_Vol.2%E5%B0%81%E9%9D%A2.png/224px-%E6%9D%B1%E6%96%B9%E8%83%A1%E9%AD%94%E4%B9%99%E5%A5%B3_%EF%BD%9E_Eastern_Jillballad_Story_Vol.2%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="224" height="224" srcset="https://upload.thwiki.cc/thumb/9/96/%E6%9D%B1%E6%96%B9%E8%83%A1%E9%AD%94%E4%B9%99%E5%A5%B3_%EF%BD%9E_Eastern_Jillballad_Story_Vol.2%E5%B0%81%E9%9D%A2.png/336px-%E6%9D%B1%E6%96%B9%E8%83%A1%E9%AD%94%E4%B9%99%E5%A5%B3_%EF%BD%9E_Eastern_Jillballad_Story_Vol.2%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/9/96/%E6%9D%B1%E6%96%B9%E8%83%A1%E9%AD%94%E4%B9%99%E5%A5%B3_%EF%BD%9E_Eastern_Jillballad_Story_Vol.2%E5%B0%81%E9%9D%A2.png/448px-%E6%9D%B1%E6%96%B9%E8%83%A1%E9%AD%94%E4%B9%99%E5%A5%B3_%EF%BD%9E_Eastern_Jillballad_Story_Vol.2%E5%B0%81%E9%9D%A2.png 2x" data-file-width="614" data-file-height="614"></a><div class="cover-char">角色：<a href="/index.php?title=%E5%8E%9F%E5%88%9B%E8%A7%92%E8%89%B2&amp;action=edit&amp;redlink=1" class="new" title="原创角色（页面不存在）">原创角色</a></div></td>
@@ -18,11 +19,13 @@
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://ned.booth.pm/items/1090777">Booth</a></td></tr></tbody></table>
 
 
+
 ## Staff
   
  **Compose**   
 
 <table><tbody><tr><td><a href="./NED.md" title="NED">NED</a></td><td><a href="./ねどふる.md" title="ねどふる">ねどふる</a></td><td>Tr.1-13</td></tr></tbody></table>
+
 
 
 ## 曲目列表
@@ -40,6 +43,7 @@
 <tr><td id="11" class="infoYL"><b>11</b></td><td id="妖魔のインターセプション" colspan="2" class="title">妖魔のインターセプション<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=NED&amp;fromwiki=東方胡魔乙女_～_Eastern_Jillballad_Story_Vol.2"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./NED.md" title="NED">NED</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，NED&amp;fromwiki=東方胡魔乙女_～_Eastern_Jillballad_Story_Vol.2"><span></span></a></span></td></tr>
 <tr><td id="12" class="infoYL"><b>12</b></td><td id="冥界城MasqμerAde" colspan="2" class="title">冥界城MasqμerAde<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=NED&amp;fromwiki=東方胡魔乙女_～_Eastern_Jillballad_Story_Vol.2"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./NED.md" title="NED">NED</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，NED&amp;fromwiki=東方胡魔乙女_～_Eastern_Jillballad_Story_Vol.2"><span></span></a></span></td></tr>
 <tr><td id="13" class="infoYL"><b>13</b></td><td id="空夢胡魔乙女" colspan="2" class="title">空夢胡魔乙女<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=NED&amp;fromwiki=東方胡魔乙女_～_Eastern_Jillballad_Story_Vol.2"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./NED.md" title="NED">NED</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，NED&amp;fromwiki=東方胡魔乙女_～_Eastern_Jillballad_Story_Vol.2"><span></span></a></span></td></tr></tbody></table>
+
 
 
 ## 评论

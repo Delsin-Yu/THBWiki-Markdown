@@ -4,7 +4,8 @@
 
 封魏RM ，主要制作 同人志 的日本同人社团，主催是 弱音ロモア，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -20,21 +21,26 @@
 
 
 
+
 ## 社团信息
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> 封魏RM </td></tr><tr><td><b>主要作品类型</b></td><td>同人志</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=%E5%BC%B1%E9%9F%B3%E3%83%AD%E3%83%A2%E3%82%A2&amp;action=edit&amp;redlink=1" class="new" title="弱音ロモア（页面不存在）">弱音ロモア</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="https://fu-ghirm.booth.pm/">https://fu-ghirm.booth.pm/</a> </td></tr></tbody></table>
 
 封魏RM（同人社团，同人志社团） - 封魏RM ，主要制作 同人志 的日本同人社团，主催是 弱音ロモア，当前状态为 活动
+
 ## 成员名单
 - 弱音ロモア (未找到链接)
 
 : [Twitter: @romoa89](https://twitter.com/romoa89), [Pixiv ID: 6985400](https://www.pixiv.net/users/6985400)
 
+
 ## 作品列表
+
 ### 同人志
 [](./星を識る者_-_God_hiDe_ordeR_ahead_-.md)[星を識る者　- God hiDe ordeR ahead -](./星を識る者_-_God_hiDe_ordeR_ahead_-.md)首发日期：2021-09-17 小说 （一般向） 170&#160;页秘封俱乐部×[基多拉](https://zh.wikipedia.org/wiki/基多拉)
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
 </table>
+
 
 
 ## 参展信息

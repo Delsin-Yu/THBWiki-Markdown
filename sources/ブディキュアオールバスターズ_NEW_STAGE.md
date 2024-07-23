@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-ブディキュアオールバスターズ_NEW_STAGE封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/7/75/%E3%83%96%E3%83%87%E3%82%A3%E3%82%AD%E3%83%A5%E3%82%A2%E3%82%AA%E3%83%BC%E3%83%AB%E3%83%90%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA_NEW_STAGE%E5%B0%81%E9%9D%A2.jpg/224px-%E3%83%96%E3%83%87%E3%82%A3%E3%82%AD%E3%83%A5%E3%82%A2%E3%82%AA%E3%83%BC%E3%83%AB%E3%83%90%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA_NEW_STAGE%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="159" srcset="https://upload.thwiki.cc/thumb/7/75/%E3%83%96%E3%83%87%E3%82%A3%E3%82%AD%E3%83%A5%E3%82%A2%E3%82%AA%E3%83%BC%E3%83%AB%E3%83%90%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA_NEW_STAGE%E5%B0%81%E9%9D%A2.jpg/336px-%E3%83%96%E3%83%87%E3%82%A3%E3%82%AD%E3%83%A5%E3%82%A2%E3%82%AA%E3%83%BC%E3%83%AB%E3%83%90%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA_NEW_STAGE%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/7/75/%E3%83%96%E3%83%87%E3%82%A3%E3%82%AD%E3%83%A5%E3%82%A2%E3%82%AA%E3%83%BC%E3%83%AB%E3%83%90%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA_NEW_STAGE%E5%B0%81%E9%9D%A2.jpg/448px-%E3%83%96%E3%83%87%E3%82%A3%E3%82%AD%E3%83%A5%E3%82%A2%E3%82%AA%E3%83%BC%E3%83%AB%E3%83%90%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA_NEW_STAGE%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1200" data-file-height="852"></a><div class="cover-char">角色：<a href="./丰聪耳神子.md" title="丰聪耳神子">丰聪耳神子</a>，<a href="./物部布都.md" title="物部布都">物部布都</a>，<a href="./苏我屠自古.md" title="苏我屠自古">苏我屠自古</a>，<a href="./宫古芳香.md" title="宫古芳香">宫古芳香</a>，<a href="./寅丸星.md" title="寅丸星">寅丸星</a>，<a href="./村纱水蜜.md" title="村纱水蜜">村纱水蜜</a>，<a href="./封兽鵺.md" title="封兽鵺">封兽鵺</a>，<a href="./幽谷响子.md" title="幽谷响子">幽谷响子</a>，<a href="./比那名居天子.md" title="比那名居天子">比那名居天子</a>，<a href="./秋静叶.md" title="秋静叶">秋静叶</a>，<a href="./秋穰子.md" title="秋穰子">秋穰子</a>，<a href="./风见幽香.md" title="风见幽香">风见幽香</a></div></td>
@@ -18,9 +19,12 @@
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://ec.toranoana.jp/tora_r/ec/item/040030047870">虎穴</a></td></tr></tbody></table>
 
 
+
 ## 预览
+
 ## Staff
 - 狛 (未找到链接)
+
 
 ## 评论
 

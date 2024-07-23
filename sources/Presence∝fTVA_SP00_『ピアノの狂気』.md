@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Presence∝fTVA_SP00_『ピアノの狂気』封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/4/4a/Presence%E2%88%9DfTVA_SP00_%E3%80%8E%E3%83%94%E3%82%A2%E3%83%8E%E3%81%AE%E7%8B%82%E6%B0%97%E3%80%8F%E5%B0%81%E9%9D%A2.jpg/252px-Presence%E2%88%9DfTVA_SP00_%E3%80%8E%E3%83%94%E3%82%A2%E3%83%8E%E3%81%AE%E7%8B%82%E6%B0%97%E3%80%8F%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="252" srcset="https://upload.thwiki.cc/thumb/4/4a/Presence%E2%88%9DfTVA_SP00_%E3%80%8E%E3%83%94%E3%82%A2%E3%83%8E%E3%81%AE%E7%8B%82%E6%B0%97%E3%80%8F%E5%B0%81%E9%9D%A2.jpg/378px-Presence%E2%88%9DfTVA_SP00_%E3%80%8E%E3%83%94%E3%82%A2%E3%83%8E%E3%81%AE%E7%8B%82%E6%B0%97%E3%80%8F%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/4/4a/Presence%E2%88%9DfTVA_SP00_%E3%80%8E%E3%83%94%E3%82%A2%E3%83%8E%E3%81%AE%E7%8B%82%E6%B0%97%E3%80%8F%E5%B0%81%E9%9D%A2.jpg/504px-Presence%E2%88%9DfTVA_SP00_%E3%80%8E%E3%83%94%E3%82%A2%E3%83%8E%E3%81%AE%E7%8B%82%E6%B0%97%E3%80%8F%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="768" data-file-height="768"></a></td>
@@ -13,11 +14,13 @@
 </tr><tr><td class="label">首发日期</td><td>2019-08-12&#160;（<a href="/展会作品列表?e=Comic+Market%2396">Comic Market 96</a>）</td></tr><tr><td class="label">类型</td><td>全长</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>0</td></tr><tr><td class="label">总时长</td><td>00:00</td></tr><tr><td class="label">风格类型</td><td>古典</td></tr><tr><td class="label">售价</td><td>会场售价：700日元</td></tr></tbody></table>
 
 Presence∝fTVA SP00 『ピアノの狂気』（同人专辑，Presence∝fTVA，2019） - 2019年8月12日 由 Presence∝fTVA 于 Comic Market 96 发布的全长同人专辑，曲目主要风格是 古典，分级为 一般向
+
 ## Staff
 Design
 : 设计师 （[网址 社团]）
 Illustration
 : 画师 （[网址 社团]）
+
 
 ## 试听
 
@@ -31,9 +34,11 @@ Illustration
 </td></tr></tbody></table>
 
 
+
 ## 曲目列表
 
 <table></table>
+
 
 
 ## 评论

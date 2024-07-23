@@ -4,7 +4,8 @@
 
 DUO/Waltz ，主要制作 同人志 的日本同人社团，主催是 SAIFISU，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -20,17 +21,21 @@ DUO/Waltz ，主要制作 同人志 的日本同人社团，主催是 SAIFISU，
 
 
 
+
 ## 社团信息
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> DUO/Waltz </td></tr><tr><td><b>主要作品类型</b></td><td>同人志</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=SAIFISU&amp;action=edit&amp;redlink=1" class="new" title="SAIFISU（页面不存在）">SAIFISU</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr></tbody></table>
 
 DUO／Waltz（同人社团，同人志社团） - DUO/Waltz ，主要制作 同人志 的日本同人社团，主催是 SAIFISU，当前状态为 活动
+
 ## 成员名单
 - SAIFISU (未找到链接) (a.k.a. サイフィス)
 
 : [Twitter: @saifisu](https://twitter.com/saifisu), [Pixiv ID: 470289](https://www.pixiv.net/users/470289)
 
+
 ## 作品列表
+
 ### 同人志
 禁域と禁忌の二重奏 封面图片 (未找到链接)禁域と禁忌の二重奏 (未找到链接)首发日期：未知 - 禁域と禁忌の円舞曲 封面图片 (未找到链接)禁域と禁忌の円舞曲 (未找到链接)首发日期：未知 - 禁域と禁忌の譚詩歌 封面图片 (未找到链接)禁域と禁忌の譚詩歌 (未找到链接)首发日期：未知 - 禁域と禁忌の鎮魂歌 封面图片 (未找到链接)禁域と禁忌の鎮魂歌 (未找到链接)首发日期：未知 - 禁域と禁忌の葬送曲 封面图片 (未找到链接)禁域と禁忌の葬送曲 (未找到链接)首发日期：未知 - 禁域と禁忌の狂想曲 封面图片 (未找到链接)禁域と禁忌の狂想曲 (未找到链接)首发日期：未知 - [](./禁域と禁忌の聖譚歌.md)[禁域と禁忌の聖譚歌](./禁域と禁忌の聖譚歌.md)首发日期：2021-03-21 （第十八回 博麗神社例大祭 (未找到链接)）小说 （一般向）B5&#160;尺寸 218&#160;页[](./異界を繋ぐ即興奏.md)[異界を繋ぐ即興奏](./異界を繋ぐ即興奏.md)首发日期：2023-05-07 （第二十回 博麗神社例大祭 (未找到链接)）小说 （一般向）
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -43,6 +48,7 @@ DUO／Waltz（同人社团，同人志社团） - DUO/Waltz ，主要制作 同�
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 参展信息

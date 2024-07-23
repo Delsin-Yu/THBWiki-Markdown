@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Locked封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/d/de/Locked%E5%B0%81%E9%9D%A2.png/252px-Locked%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="252" height="252" srcset="https://upload.thwiki.cc/thumb/d/de/Locked%E5%B0%81%E9%9D%A2.png/378px-Locked%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/d/de/Locked%E5%B0%81%E9%9D%A2.png/504px-Locked%E5%B0%81%E9%9D%A2.png 2x" data-file-width="1400" data-file-height="1400"></a><div class="cover-char">角色：<a href="./帕秋莉·诺蕾姬.md" title="帕秋莉·诺蕾姬">帕秋莉·诺蕾姬</a></div></td>
@@ -15,6 +16,7 @@
 Locked（同人专辑，Higan Daybreak，2022） - 2022年10月23日 由 Higan Daybreak 于 博丽神社秋季例大祭9 发布的单曲同人专辑，曲目主要风格是 Rock，分级为 一般向
 
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://higandaybreak.bandcamp.com/track/locked-feat-manten-hanamaru">bandcamp</a></td></tr></tbody></table>
+
 
 
 ## Staff
@@ -37,9 +39,11 @@ Locked（同人专辑，Higan Daybreak，2022） - 2022年10月23日 由 Higan D
 Album art
 : KiryuuSoma （[Twitter](https://twitter.com/Kiryuu_Soma) [Pixiv](http://pixiv.me/somarize)）
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoRD"><b>01</b></td><td id="Locked" colspan="2" class="title"><a href="./歌词-Locked.md" title="歌词:Locked">Locked</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=JDxanadu&amp;vocal=Manten Hanamaru&amp;lyric=Amen&amp;ogmusic=ラクトガール　～ 少女密室&amp;fromwiki=Locked"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:34</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=JDxanadu&amp;action=edit&amp;redlink=1" class="new" title="JDxanadu（页面不存在）">JDxanadu</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，JDxanadu&amp;fromwiki=Locked"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="/index.php?title=Manten_Hanamaru&amp;action=edit&amp;redlink=1" class="new" title="Manten Hanamaru（页面不存在）">Manten Hanamaru</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=Manten Hanamaru&amp;fromwiki=Locked"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="./あめん.md" title="あめん" unred="">Amen</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?lyric=Amen&amp;fromwiki=Locked"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=ラクトガール　～ 少女密室&amp;fromwiki=Locked"><span></span></a></span><div class="ogmusic"><a href="/%E3%83%A9%E3%82%AF%E3%83%88%E3%82%AC%E3%83%BC%E3%83%AB_%EF%BD%9E_%E5%B0%91%E5%A5%B3%E5%AF%86%E5%AE%A4" class="mw-redirect" title="ラクトガール ～ 少女密室">ラクトガール　～ 少女密室</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E7%BA%A2%E9%AD%94%E4%B9%A1_%EF%BD%9E_the_Embodiment_of_Scarlet_Devil." class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoRD"><b>01</b></td><td id="Locked" colspan="2" class="title"><a href="./歌词-Locked.md" title="歌词:Locked">Locked</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=JDxanadu&amp;vocal=Manten Hanamaru&amp;lyric=Amen&amp;ogmusic=ラクトガール　～ 少女密室&amp;fromwiki=Locked"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:34</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=JDxanadu&amp;action=edit&amp;redlink=1" class="new" title="JDxanadu（页面不存在）">JDxanadu</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，JDxanadu&amp;fromwiki=Locked"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="/index.php?title=Manten_Hanamaru&amp;action=edit&amp;redlink=1" class="new" title="Manten Hanamaru（页面不存在）">Manten Hanamaru</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=Manten Hanamaru&amp;fromwiki=Locked"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="./あめん.md" title="あめん" unred="">Amen</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?lyric=Amen&amp;fromwiki=Locked"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=ラクトガール　～ 少女密室&amp;fromwiki=Locked"><span></span></a></span><div class="ogmusic"><a href="./ラクトガール_～_少女密室.md" class="mw-redirect" title="ラクトガール ～ 少女密室">ラクトガール　～ 少女密室</a></div><div class="source"><a href="./东方红魔乡_～_the_Embodiment_of_Scarlet_Devil..md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

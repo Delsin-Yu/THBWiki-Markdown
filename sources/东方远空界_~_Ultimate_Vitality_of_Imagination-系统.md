@@ -4,6 +4,7 @@
 
 神心飘游堂
 
+
 ## 目录
 
 - [1 自机](#自机)
@@ -39,7 +40,9 @@
 
 
 
+
 ## 自机
+
 ### 博丽灵梦
 
 <table><tbody><tr><td><div class="center"><div class="floatnone"><a href="./文件-博丽灵梦（远空界）.png.md" class="image" title="优哉游哉的乐园巫女 博丽灵梦"><img alt="优哉游哉的乐园巫女 博丽灵梦" src="https://upload.thwiki.cc/thumb/c/c7/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E8%BF%9C%E7%A9%BA%E7%95%8C%EF%BC%89.png/28px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E8%BF%9C%E7%A9%BA%E7%95%8C%EF%BC%89.png" decoding="async" loading="lazy" width="28" height="40" srcset="https://upload.thwiki.cc/thumb/c/c7/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E8%BF%9C%E7%A9%BA%E7%95%8C%EF%BC%89.png/43px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E8%BF%9C%E7%A9%BA%E7%95%8C%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/c/c7/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E8%BF%9C%E7%A9%BA%E7%95%8C%EF%BC%89.png/57px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E8%BF%9C%E7%A9%BA%E7%95%8C%EF%BC%89.png 2x" data-file-width="1024" data-file-height="1440"></a></div></div></td> <td style="width:150px;padding:3px 9px 3px 7px;">优哉游哉的乐园巫女</td><td style="width:180px;padding:3px 9px 3px 7px;"> <a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></td></tr></tbody></table>
@@ -111,6 +114,7 @@ B配置
   
 
 
+
 ### 雾雨魔理沙
 
 <table><tbody><tr><td><div class="center"><div class="floatnone"><a href="./文件-雾雨魔理沙（远空界）.png.md" class="image" title="心直口快的魔法使 雾雨魔理沙"><img alt="心直口快的魔法使 雾雨魔理沙" src="https://upload.thwiki.cc/thumb/9/9d/%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%EF%BC%88%E8%BF%9C%E7%A9%BA%E7%95%8C%EF%BC%89.png/26px-%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%EF%BC%88%E8%BF%9C%E7%A9%BA%E7%95%8C%EF%BC%89.png" decoding="async" loading="lazy" width="26" height="40" srcset="https://upload.thwiki.cc/thumb/9/9d/%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%EF%BC%88%E8%BF%9C%E7%A9%BA%E7%95%8C%EF%BC%89.png/40px-%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%EF%BC%88%E8%BF%9C%E7%A9%BA%E7%95%8C%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/9/9d/%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%EF%BC%88%E8%BF%9C%E7%A9%BA%E7%95%8C%EF%BC%89.png/53px-%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%EF%BC%88%E8%BF%9C%E7%A9%BA%E7%95%8C%EF%BC%89.png 2x" data-file-width="1024" data-file-height="1537"></a></div></div></td> <td style="width:150px;padding:3px 9px 3px 7px;">心直口快的魔法使</td><td style="width:180px;padding:3px 9px 3px 7px;"> <a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a></td></tr></tbody></table>
@@ -180,6 +184,7 @@ B配置
   
 
 
+
 ### 射命丸文
 
 <table><tbody><tr><td><div class="center"><div class="floatnone"><a href="./文件-射命丸文（远空界）.png.md" class="image" title="和颜悦色的幻想记者 射命丸文"><img alt="和颜悦色的幻想记者 射命丸文" src="https://upload.thwiki.cc/thumb/d/d2/%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87%EF%BC%88%E8%BF%9C%E7%A9%BA%E7%95%8C%EF%BC%89.png/28px-%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87%EF%BC%88%E8%BF%9C%E7%A9%BA%E7%95%8C%EF%BC%89.png" decoding="async" loading="lazy" width="28" height="40" srcset="https://upload.thwiki.cc/thumb/d/d2/%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87%EF%BC%88%E8%BF%9C%E7%A9%BA%E7%95%8C%EF%BC%89.png/43px-%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87%EF%BC%88%E8%BF%9C%E7%A9%BA%E7%95%8C%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/d/d2/%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87%EF%BC%88%E8%BF%9C%E7%A9%BA%E7%95%8C%EF%BC%89.png/57px-%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87%EF%BC%88%E8%BF%9C%E7%A9%BA%E7%95%8C%EF%BC%89.png 2x" data-file-width="1024" data-file-height="1440"></a></div></div></td> <td style="width:150px;padding:3px 9px 3px 7px;">和颜悦色的幻想记者</td><td style="width:180px;padding:3px 9px 3px 7px;"> <a href="./射命丸文.md" title="射命丸文">射命丸文</a></td></tr></tbody></table>
@@ -207,7 +212,9 @@ B配置
   
 
 
+
 ## 系统说明
+
 ### 概述
 
   
@@ -223,6 +230,7 @@ B配置
 
 超越之道，就在其中。
   
+
 
 
 ### 背景故事
@@ -254,6 +262,7 @@ B配置
   
 
 
+
 ### 基本操作
 
   
@@ -283,6 +292,7 @@ Replay减速播放：按住shift键
   
 
 
+
 ### 游戏界面
 
   
@@ -300,6 +310,7 @@ Mark：表示使用标记系统所需的擦弹数目
 
 极限模式（位于左下角）：表示当前极限模式的数值
   
+
 
 
 ### 道具
@@ -321,7 +332,9 @@ Mark：表示使用标记系统所需的擦弹数目
   
 
 
+
 ### 特殊系统
+
 #### 极限模式
 
   
@@ -393,6 +406,7 @@ Mark：表示使用标记系统所需的擦弹数目
   
 
 
+
 #### 标记系统（Mark）
 
   
@@ -412,6 +426,7 @@ Mark：表示使用标记系统所需的擦弹数目
 
 击破被标记的敌人将掉落双倍极限点和蓝点。
   
+
 
 
 ### 游戏攻略
@@ -475,6 +490,7 @@ Hard 1.5
 
 Lunatic 2.0
   
+
 
 
 ### Staff
@@ -563,6 +579,7 @@ Xiliusha
 
 
 [^cite_note-1]: 在游戏Manual界面按右方向键可以查看隐藏的说明
+
 
 ## 词条导航
   

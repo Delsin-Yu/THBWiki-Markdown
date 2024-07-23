@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-La_Vie_en_Fleurs封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/d/da/La_Vie_en_Fleurs%E5%B0%81%E9%9D%A2.jpg/100px-La_Vie_en_Fleurs%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="100" height="140" srcset="https://upload.thwiki.cc/thumb/d/da/La_Vie_en_Fleurs%E5%B0%81%E9%9D%A2.jpg/150px-La_Vie_en_Fleurs%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/d/da/La_Vie_en_Fleurs%E5%B0%81%E9%9D%A2.jpg/200px-La_Vie_en_Fleurs%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1200" data-file-height="1678"></a><div class="cover-char">角色：<a href="./风见幽香.md" title="风见幽香">风见幽香</a>，<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>，<a href="./爱丽丝·玛格特洛依德.md" title="爱丽丝·玛格特洛依德">爱丽丝·玛格特洛依德</a></div></td>
@@ -14,12 +15,15 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/25546430">https://www.pixiv.net/artworks/25546430</a><br><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/2559730">https://www.pixiv.net/artworks/2559730</a></td></tr></tbody></table>
 
 La Vie en Fleurs（同人志，るるる，よぬりめ，2012） - 2012年3月11日 由 るるる，よぬりめ 于 华激之宴1 发布的漫画同人志，B5尺寸，分级为 一般向
+
 ## 预览
 - [Pixiv](https://www.pixiv.net/artworks/25546430)
+
 
 ## Staff
 - よぬ (未找到链接)
 - しじみ (未找到链接)（[pu:285386](https://www.pixiv.net/users/285386)）
+
 
 ## 评论
 

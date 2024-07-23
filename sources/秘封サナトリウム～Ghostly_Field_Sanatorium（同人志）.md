@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-秘封サナトリウム～Ghostly_Field_Sanatorium（同人志）封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/3/31/%E7%A7%98%E5%B0%81%E3%82%B5%E3%83%8A%E3%83%88%E3%83%AA%E3%82%A6%E3%83%A0%EF%BD%9EGhostly_Field_Sanatorium%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2.png/178px-%E7%A7%98%E5%B0%81%E3%82%B5%E3%83%8A%E3%83%88%E3%83%AA%E3%82%A6%E3%83%A0%EF%BD%9EGhostly_Field_Sanatorium%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="178" height="252" srcset="https://upload.thwiki.cc/thumb/3/31/%E7%A7%98%E5%B0%81%E3%82%B5%E3%83%8A%E3%83%88%E3%83%AA%E3%82%A6%E3%83%A0%EF%BD%9EGhostly_Field_Sanatorium%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2.png/267px-%E7%A7%98%E5%B0%81%E3%82%B5%E3%83%8A%E3%83%88%E3%83%AA%E3%82%A6%E3%83%A0%EF%BD%9EGhostly_Field_Sanatorium%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/3/31/%E7%A7%98%E5%B0%81%E3%82%B5%E3%83%8A%E3%83%88%E3%83%AA%E3%82%A6%E3%83%A0%EF%BD%9EGhostly_Field_Sanatorium%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2.png/356px-%E7%A7%98%E5%B0%81%E3%82%B5%E3%83%8A%E3%83%88%E3%83%AA%E3%82%A6%E3%83%A0%EF%BD%9EGhostly_Field_Sanatorium%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2.png 2x" data-file-width="424" data-file-height="600"></a><div class="cover-char">角色：<a href="./宇佐见莲子.md" title="宇佐见莲子">宇佐见莲子</a>，<a href="./玛艾露贝莉·赫恩.md" title="玛艾露贝莉·赫恩">玛艾露贝莉·赫恩</a></div></td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://222.chaso.net/HH2S0001/">http://222.chaso.net/HH2S0001/</a><br><span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span></td></tr><tr><td class="label">备注</td><td colspan="2"><a href="./秘封サナトリウム_～_Ghostly_Field_Sanatorium（同人专辑）.md" title="秘封サナトリウム ～ Ghostly Field Sanatorium（同人专辑）" unred="">同人专辑</a></td></tr></tbody></table>
 
 秘封サナトリウム～Ghostly Field Sanatorium（同人志，世界秘封病学会，2010） - 2010年11月28日 由 世界秘封病学会 于 境界所见到的外界1 发布的合同志/画集/漫画/小说同人志，A5尺寸一共236页，登场人物有 宇佐见莲子、玛艾露贝莉·赫恩，分级为 一般向
+
 ## Staff
 - [](./文件-秘封サナトリウム_～_Ghostly_Field_Sanatorium封面（漫画插画）.png.md)
 			
@@ -41,6 +43,7 @@
 : さくらでんぶ（[[2]](http://www16.plala.or.jp/escm/)）
 : ミカン（[[3]](http://hitenroku.com/)）
 
+
 ### 插画、漫画
 : 百景（[快微動](http://kaibido.blog94.fc2.com/)）
 : 梗（[[4]](http://pixiv.cc/kikyou32/)）
@@ -60,7 +63,7 @@
 : 蓬屋ふらん（[フランソワさんのよもぎ畑](./フランソワさんのよもぎ畑.md)）
 : 秋坂たくみ（[彼之庵](http://kanoan.com/)）
 : KAZU（[夢中界](./夢中界.md)）
-: 白兎（らびすたー (未找到链接)）
+: 白兎（[らびすたー](./らびすたー.md)）
 : 春日沙生（[ゆめいろごろも](./ゆめいろごろも.md)）
 : ギロチン（[ギロチン銀座](./ギロチン銀座.md)）
 : 怠（[怠飯庵](http://darudaruma.blog19.fc2.com/)）
@@ -77,6 +80,7 @@
 : 風鳴鴉（[[13]](http://pixiv.cc/carbona/)）
 : 彩社長（[極彩色](./極彩色.md)）
 
+
 ### 小说
 : 反魂（[[14]](http://hangon.karakasa.com)）
 : 鬼灯ナシカ（[夏色緑茶](http://natsuiroryokutya.web.fc2.com/)）
@@ -92,6 +96,7 @@
 : 酔狂（[傾き屋](./傾き屋.md)）
 : 青時（[[16]](http://trs.iza-yoi.net/)）
 : 久樹輝幸（[久幸繙文](http://www.akyu.info/)）
+
 
 ## 评论
 

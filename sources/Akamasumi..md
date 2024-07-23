@@ -6,13 +6,16 @@
 
 本页是关于东方Project  
  **二次同人创作者** 的词条
+
 ## 基本信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="label"><b>名称</b></td><td> Akamasumi. </td></tr><tr><td class="label"><b>别名</b></td><td>赤间墨</td></tr><tr><td class="label"><b>所属社团</b></td><td><b>当前</b><div style="margin-left:2em;"><a href="./もふ学園.md" title="もふ学園">もふ学園</a></div></td></tr><tr><td class="label"><b>职位</b></td><td>主催，编曲</td></tr><tr><td class="label"><b>参与社团</b></td><td><a href="./もふ学園.md" title="もふ学園">もふ学園</a> （编曲）</td></tr><tr><td class="label"><b>生日</b></td><td>01-02</td></tr><tr><td class="label"><b>个人页面</b></td><td><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><b>bilibili</b></td><td><a rel="nofollow" class="external free" href="https://space.bilibili.com/21655056/">https://space.bilibili.com/21655056/</a></td></tr><tr><td><b>NetEaseCloudMusic</b></td><td><a rel="nofollow" class="external free" href="https://music.163.com/#/user/home?id=1563087235">https://music.163.com/#/user/home?id=1563087235</a></td></tr></tbody></table></td></tr></tbody></table>
 
 Akamasumi.（人物） - 现实人物
+
 ## 介绍
 - 业余做做音乐，什么曲风都在尝试！
+
 
 ## 参与作品
 

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-オモイト_Zwei封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/4/43/%E3%82%AA%E3%83%A2%E3%82%A4%E3%83%88_Zwei%E5%B0%81%E9%9D%A2.jpg/119px-%E3%82%AA%E3%83%A2%E3%82%A4%E3%83%88_Zwei%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="119" height="168" srcset="https://upload.thwiki.cc/thumb/4/43/%E3%82%AA%E3%83%A2%E3%82%A4%E3%83%88_Zwei%E5%B0%81%E9%9D%A2.jpg/178px-%E3%82%AA%E3%83%A2%E3%82%A4%E3%83%88_Zwei%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/4/43/%E3%82%AA%E3%83%A2%E3%82%A4%E3%83%88_Zwei%E5%B0%81%E9%9D%A2.jpg/238px-%E3%82%AA%E3%83%A2%E3%82%A4%E3%83%88_Zwei%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="827" data-file-height="1169"></a><div class="cover-char">角色：<a href="/%E7%88%B1%E4%B8%BD%E4%B8%9D%C2%B7%E7%8E%9B%E6%A0%BC%E7%89%B9%E6%B4%9B%E4%BE%9D%E5%BE%B7#上海人偶" title="爱丽丝·玛格特洛依德">上海人偶</a></div></td>
@@ -14,9 +15,11 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://morinohon.blog66.fc2.com/blog-entry-117.html">http://morinohon.blog66.fc2.com/blog-entry-117.html</a></td></tr></tbody></table>
 
 オモイト Zwei（同人志，森の蟲，2011） - 2011年5月8日 由 森の蟲 于 博丽神社例大祭8 发布的漫画同人志，登场人物有 爱丽丝·玛格特洛依德、雾雨魔理沙、帕秋莉·诺蕾姬、蓬莱人偶、上海人偶，分级为 一般向
+
 ## Staff
 - [もりのほん](./もりのほん.md)
 - N2FC (未找到链接)
+
 
 ## 评论
 

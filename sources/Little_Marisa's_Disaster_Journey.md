@@ -6,12 +6,14 @@
 
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 软件信息](#软件信息)
 - [2 Staff](#Staff)
 - [3 内容页面](#内容页面)
 - [4 评论](#评论)
+
 
 
 
@@ -34,6 +36,7 @@ Little Marisa's Disaster Journey（同人游戏，Dark Sky Empire，2018） - 20
 </tbody></table>
 
 
+
 ## Staff
   
 本游戏由“飞越无尽暗空”设计与开发，作为Steam开发者的名字是Dark Sky Empire。
@@ -42,11 +45,13 @@ Little Marisa's Disaster Journey（同人游戏，Dark Sky Empire，2018） - 20
 此信息仅记录在游戏的中文版制作人员名单里。
   
 
+
 ## 内容页面
 - [游戏设定与剧情](./Little_Marisa's_Disaster_Journey-设定与剧情.md)
 - [攻略](./Little_Marisa's_Disaster_Journey-攻略.md)
 - [使用说明](./Little_Marisa's_Disaster_Journey-说明.md)
 - [其他信息](./Little_Marisa's_Disaster_Journey-杂项.md)
+
 
 ## 评论
 

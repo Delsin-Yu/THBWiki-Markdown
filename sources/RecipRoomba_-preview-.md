@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-RecipRoomba_-preview-封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/4/42/RecipRoomba_-preview-%E5%B0%81%E9%9D%A2.jpg/115px-RecipRoomba_-preview-%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="115" height="168" srcset="https://upload.thwiki.cc/thumb/4/42/RecipRoomba_-preview-%E5%B0%81%E9%9D%A2.jpg/173px-RecipRoomba_-preview-%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/4/42/RecipRoomba_-preview-%E5%B0%81%E9%9D%A2.jpg/231px-RecipRoomba_-preview-%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="933" data-file-height="1358"></a><div class="cover-char">角色：<a href="./红美铃.md" title="红美铃">红美铃</a></div></td>
@@ -14,9 +15,12 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/37429016">https://www.pixiv.net/artworks/37429016</a></td></tr></tbody></table>
 
 RecipRoomba -preview-（同人志，IMINIC，2013） - 2013年8月12日 由 IMINIC 于 Comic Market 84 发布的漫画同人志，一共39页，登场人物有 红美铃、雾雨魔理沙、十六夜咲夜、蕾米莉亚·斯卡蕾特、琪露诺、大妖精，分级为 一般向
+
 ## 预览
+
 ## Staff
 - [威未図](./威未図.md)
+
 
 ## 评论
 

@@ -23,6 +23,7 @@
 </center>
 - 本词条内容为官方游戏TH18.5 **弹幕狂们的黑市** 的敌机符卡
 
+
 ## 目录
 
 - [1 东风谷早苗](#东风谷早苗)
@@ -91,7 +92,9 @@
 
 
 
+
 ## 东风谷早苗
+
 ### 奇迹「Miracle Pentacle」（奇迹五角星）
 
 <table>
@@ -105,9 +108,10 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="/%E5%A5%87%E8%BF%B9%E3%80%8CMiracle_Pentacle%E3%80%8D" class="mw-redirect" title="奇迹「Miracle Pentacle」">奇迹「Miracle Pentacle」</a>
+<p><a href="./奇迹「Miracle_Pentacle」.md" class="mw-redirect" title="奇迹「Miracle Pentacle」">奇迹「Miracle Pentacle」</a>
 </p>
 </th></tr></tbody></table>
+
 
 
 #### 符卡信息
@@ -129,7 +133,9 @@
 
   
 
+
 ## 十六夜咲夜
+
 ### 时符「Eye-wink Knife Hell」（眨眼飞刀地狱）
 
 <table>
@@ -143,9 +149,10 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="/%E6%97%B6%E7%AC%A6%E3%80%8CEye-wink_Knife_Hell%E3%80%8D" class="mw-redirect" title="时符「Eye-wink Knife Hell」">时符「Eye-wink Knife Hell」</a>
+<p><a href="./时符「Eye-wink_Knife_Hell」.md" class="mw-redirect" title="时符「Eye-wink Knife Hell」">时符「Eye-wink Knife Hell」</a>
 </p>
 </th></tr></tbody></table>
+
 
 
 #### 符卡信息
@@ -167,7 +174,9 @@
 
   
 
+
 ## 魂魄妖梦
+
 ### 剑技「血振魍魉」
 
 <table>
@@ -181,9 +190,10 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="/%E5%89%91%E6%8A%80%E3%80%8C%E8%A1%80%E6%8C%AF%E9%AD%8D%E9%AD%89%E3%80%8D" class="mw-redirect" title="剑技「血振魍魉」">剑技「血振魍魉」</a>
+<p><a href="./剑技「血振魍魉」.md" class="mw-redirect" title="剑技「血振魍魉」">剑技「血振魍魉」</a>
 </p>
 </th></tr></tbody></table>
+
 
 
 #### 符卡信息
@@ -205,7 +215,9 @@
 
   
 
+
 ## 博丽灵梦
+
 ### 「满员御礼 弹币红包」
 
 <table>
@@ -219,9 +231,10 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="/%E3%80%8C%E6%BB%A1%E5%91%98%E5%BE%A1%E7%A4%BC_%E5%BC%B9%E5%B8%81%E7%BA%A2%E5%8C%85%E3%80%8D" class="mw-redirect" title="「满员御礼 弹币红包」">「满员御礼 弹币红包」</a>
+<p><a href="./「满员御礼_弹币红包」.md" class="mw-redirect" title="「满员御礼 弹币红包」">「满员御礼 弹币红包」</a>
 </p>
 </th></tr></tbody></table>
+
 
 
 #### 符卡信息
@@ -243,7 +256,9 @@
 
   
 
+
 ## 河城荷取
+
 ### 兵器「清水火焰喷射器」
 
 <table>
@@ -257,9 +272,10 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="/%E5%85%B5%E5%99%A8%E3%80%8C%E6%B8%85%E6%B0%B4%E7%81%AB%E7%84%B0%E5%96%B7%E5%B0%84%E5%99%A8%E3%80%8D" class="mw-redirect" title="兵器「清水火焰喷射器」">兵器「清水火焰喷射器」</a>
+<p><a href="./兵器「清水火焰喷射器」.md" class="mw-redirect" title="兵器「清水火焰喷射器」">兵器「清水火焰喷射器」</a>
 </p>
 </th></tr></tbody></table>
+
 
 
 #### 符卡信息
@@ -281,6 +297,7 @@
 
   
 
+
 ### 「涧流不息」
 
 <table>
@@ -294,9 +311,10 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="/%E3%80%8C%E6%B6%A7%E6%B5%81%E4%B8%8D%E6%81%AF%E3%80%8D" class="mw-redirect" title="「涧流不息」">「涧流不息」</a>
+<p><a href="./「涧流不息」.md" class="mw-redirect" title="「涧流不息」">「涧流不息」</a>
 </p>
 </th></tr></tbody></table>
+
 
 
 #### 符卡信息
@@ -317,6 +335,7 @@
   
 
   
+
 
 ## 导航
   

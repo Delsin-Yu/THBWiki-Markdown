@@ -18,6 +18,7 @@
 
 
 </center>
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-TOUHOU_EARTHLY_PARADISE_1封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/e/ea/TOUHOU_EARTHLY_PARADISE_1%E5%B0%81%E9%9D%A2.jpg/142px-TOUHOU_EARTHLY_PARADISE_1%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="142" height="196" srcset="https://upload.thwiki.cc/thumb/e/ea/TOUHOU_EARTHLY_PARADISE_1%E5%B0%81%E9%9D%A2.jpg/213px-TOUHOU_EARTHLY_PARADISE_1%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/e/ea/TOUHOU_EARTHLY_PARADISE_1%E5%B0%81%E9%9D%A2.jpg/284px-TOUHOU_EARTHLY_PARADISE_1%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="620" data-file-height="856"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>，<a href="./九十九弁弁.md" title="九十九弁弁">九十九弁弁</a>，<a href="./九十九八桥.md" title="九十九八桥">九十九八桥</a>，<a href="./少名针妙丸.md" title="少名针妙丸">少名针妙丸</a></div></td>
@@ -30,8 +31,10 @@ TOUHOU EARTHLY PARADISE 1（同人志，乌有社，2020） - 2024年6月22日 �
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://item.taobao.com/item.htm?id=613280599171">淘宝</a></td></tr></tbody></table>
 
 
+
 ## Staff
 - [amibazh](./Amibazh.md)
+
 
 ## 评论
 

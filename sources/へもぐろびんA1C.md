@@ -6,11 +6,13 @@
 
 本页是关于东方Project  
  **二次同人创作者** 的词条
+
 ## 基本信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="label"><b>名称</b></td><td> へもぐろびんA1C </td></tr><tr><td class="label"><b>译名</b></td><td>HemoglobinA1C</td></tr><tr><td class="label"><b>所属社团</b></td><td><b>当前</b><div style="margin-left:2em;"><a href="/index.php?title=%E5%87%BA%E8%A1%80%E8%A6%B3%E5%AF%9F%E6%97%A5%E8%A8%98&amp;action=edit&amp;redlink=1" class="new" title="出血観察日記（页面不存在）">出血観察日記</a></div><b>过往</b><div style="margin-left:2em;"><a href="./星海月.md" title="星海月">星海月</a></div></td></tr><tr><td class="label"><b>职位</b></td><td>游戏制作，绘画</td></tr><tr><td class="label"><b>个人页面</b></td><td><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><b>Blog</b></td><td><a rel="nofollow" class="external free" href="http://hemoa1c.blog22.fc2.com/">http://hemoa1c.blog22.fc2.com/</a></td></tr><tr><td><b>Twitter</b></td><td><a rel="nofollow" class="external free" href="https://twitter.com/hemogurobin_a1c">https://twitter.com/hemogurobin_a1c</a></td></tr><tr><td><b>Pixiv</b></td><td><a rel="nofollow" class="external free" href="https://www.pixiv.net/users/465582">https://www.pixiv.net/users/465582</a></td></tr></tbody></table></td></tr></tbody></table>
 
 へもぐろびんA1C（人物） - 现实人物
+
 ## 简介
   
  **へもぐろびんA1C** ，名字中文意思是糖基化血红蛋白。 **[东方人形剧](./東方人形劇.md)** 的作者，同时也是个画师。

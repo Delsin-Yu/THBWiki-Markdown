@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-SENPAI&KAWASHIRO_Vol.1封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/d/d4/SENPAI%26KAWASHIRO_Vol.1%E5%B0%81%E9%9D%A2.jpg/196px-SENPAI%26KAWASHIRO_Vol.1%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="196" height="138" srcset="https://upload.thwiki.cc/thumb/d/d4/SENPAI%26KAWASHIRO_Vol.1%E5%B0%81%E9%9D%A2.jpg/294px-SENPAI%26KAWASHIRO_Vol.1%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/d/d4/SENPAI%26KAWASHIRO_Vol.1%E5%B0%81%E9%9D%A2.jpg/392px-SENPAI%26KAWASHIRO_Vol.1%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="600" data-file-height="421"></a><div class="cover-char">角色：<a href="./森近霖之助.md" title="森近霖之助">森近霖之助</a>，<a href="/index.php?title=%E5%8E%9F%E5%88%9B%E8%A7%92%E8%89%B2&amp;action=edit&amp;redlink=1" class="new" title="原创角色（页面不存在）">原创角色</a></div></td>
@@ -18,11 +19,14 @@ SENPAI&amp;KAWASHIRO Vol.1（同人志，矢本堂落書市，2011） - 2011年1
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=238185">蜜瓜DL</a></td></tr></tbody></table>
 
 
+
 ## 预览
+
 ## Staff
 - yamoto (未找到链接)
 - しゃもじ (未找到链接)
 - はらち (未找到链接)
+
 
 ## 评论
 

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Bura-Koishi封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/8/84/Bura-Koishi%E5%B0%81%E9%9D%A2.png/159px-Bura-Koishi%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="159" height="224" srcset="https://upload.thwiki.cc/thumb/8/84/Bura-Koishi%E5%B0%81%E9%9D%A2.png/238px-Bura-Koishi%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/8/84/Bura-Koishi%E5%B0%81%E9%9D%A2.png/317px-Bura-Koishi%E5%B0%81%E9%9D%A2.png 2x" data-file-width="850" data-file-height="1200"></a><div class="cover-char">角色：<a href="./古明地恋.md" title="古明地恋">古明地恋</a></div></td>
@@ -18,11 +19,14 @@ Bura-Koishi（同人志，IMINIC，2017） - 2017年12月29日 由 IMINIC 于 Co
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=323132">蜜瓜</a></td></tr></tbody></table>
 
 
+
 ## 预览
 - [](./文件-Bura-Koishi预览图1.png.md)- [](./文件-Bura-Koishi预览图2.png.md)
 
+
 ## Staff
 - [威未図](./威未図.md)
+
 
 ## 评论
 

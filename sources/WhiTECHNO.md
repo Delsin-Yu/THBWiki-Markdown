@@ -4,7 +4,8 @@
 
 WhiTECHNO ，于 2009 年成立，主要制作 同人音乐 的日本同人社团，主催是 nekutsu，当前状态为 休止
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -15,14 +16,17 @@ WhiTECHNO ，于 2009 年成立，主要制作 同人音乐 的日本同人社�
 
 
 
+
 ## 社团信息
 [](./文件-WhiTECHNObanner.jpg.md)  [](./文件-WhiTECHNObanner.jpg.md)banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> WhiTECHNO </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2009</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=nekutsu&amp;action=edit&amp;redlink=1" class="new" title="nekutsu（页面不存在）">nekutsu</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://www.whitechno.org/">http://www.whitechno.org/</a> </td></tr></tbody></table>
 
 WhiTECHNO（同人社团，同人音乐社团） - WhiTECHNO ，于 2009 年成立，主要制作 同人音乐 的日本同人社团，主催是 nekutsu，当前状态为 休止
+
 ## 成员名单
 - nekutsu (未找到链接)
+
 
 ## 作品列表
 [](./東方OVERDRIVE.md)[東方OVERDRIVE](./東方OVERDRIVE.md)首发日期：2009-03-08 （第六回 博麗神社例大祭 (未找到链接)）WHTC-0001全长 （一般向）[](./東方DayDream.md)[東方DayDream](./東方DayDream.md)首发日期：2009-08-15 （Comic Market 76 (未找到链接)）WHTC-0002全长 （一般向）[](./C77_無料配布CD.md)[C77 無料配布CD](./C77_無料配布CD.md)首发日期：2009-12-30 （Comic Market 77 (未找到链接)）Demo （一般向）[](./東方SAMPLINGVOICE.md)[東方SAMPLINGVOICE](./東方SAMPLINGVOICE.md)首发日期：2010-03-14 （第七回 博麗神社例大祭 (未找到链接)）WHTC-0003全长 （一般向）[](./東方UnderDrive.md)[東方UnderDrive](./東方UnderDrive.md)首发日期：2010-08-14 （Comic Market 78 (未找到链接)）WHTC-0004全长 （一般向）[](./東方CLUBTRONICA.md)[東方CLUBTRONICA](./東方CLUBTRONICA.md)首发日期：2011-05-08 （第八回 博麗神社例大祭 (未找到链接)）WHTC-0005全长 （一般向）[](./Fairy_Trance_EP.md)[Fairy Trance EP](./Fairy_Trance_EP.md)首发日期：2011-08-13 （Comic Market 80 (未找到链接)）WHTC-0006EP （一般向）[](./東方SAMPLINGPARTY.md)[東方SAMPLINGPARTY](./東方SAMPLINGPARTY.md)首发日期：2011-12-30 （Comic Market 81 (未找到链接)）WHTC-0007全长 （一般向）[](./東方UnderTronica.md)[東方UnderTronica](./東方UnderTronica.md)首发日期：2012-05-27 （第九回 博麗神社例大祭 (未找到链接)）WHTC-0008全长 （一般向）[](./東方ULTRADRIVE.md)[東方ULTRADRIVE](./東方ULTRADRIVE.md)首发日期：2012-12-30 （Comic Market 83 (未找到链接)）WHTC-0009全长、​精选集 （一般向）[](./東方WhiBEST_-OVER_Edition-.md)[東方WhiBEST -OVER Edition-](./東方WhiBEST_-OVER_Edition-.md)首发日期：2013-05-26 （第十回 博麗神社例大祭 (未找到链接)）WHTC-0010精选集 （一般向）[](./東方CLUBBEATS.md)[東方CLUBBEATS](./東方CLUBBEATS.md)首发日期：2013-12-30 （Comic Market 85 (未找到链接)）WHTC-0011全长 （一般向）[](./東方UnderDream.md)[東方UnderDream](./東方UnderDream.md)首发日期：2014-08-16 （Comic Market 86 (未找到链接)）WHTC-0012全长 （一般向）[](./東方UPPERDRIVE.md)[東方UPPERDRIVE](./東方UPPERDRIVE.md)首发日期：2015-08-14 （Comic Market 88 (未找到链接)）WHTC-0014全长 （一般向）
@@ -54,6 +58,7 @@ WhiTECHNO（同人社团，同人音乐社团） - WhiTECHNO ，于 2009 年成�
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 其他信息

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-幻想郷の☆プリンスさまっ♪マジLOVE２０００％封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/a/ae/%E5%B9%BB%E6%83%B3%E9%83%B7%E3%81%AE%E2%98%86%E3%83%97%E3%83%AA%E3%83%B3%E3%82%B9%E3%81%95%E3%81%BE%E3%81%A3%E2%99%AA%E3%83%9E%E3%82%B8LOVE%EF%BC%92%EF%BC%90%EF%BC%90%EF%BC%90%EF%BC%85%E5%B0%81%E9%9D%A2.jpg/79px-%E5%B9%BB%E6%83%B3%E9%83%B7%E3%81%AE%E2%98%86%E3%83%97%E3%83%AA%E3%83%B3%E3%82%B9%E3%81%95%E3%81%BE%E3%81%A3%E2%99%AA%E3%83%9E%E3%82%B8LOVE%EF%BC%92%EF%BC%90%EF%BC%90%EF%BC%90%EF%BC%85%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="79" height="112" srcset="https://upload.thwiki.cc/thumb/a/ae/%E5%B9%BB%E6%83%B3%E9%83%B7%E3%81%AE%E2%98%86%E3%83%97%E3%83%AA%E3%83%B3%E3%82%B9%E3%81%95%E3%81%BE%E3%81%A3%E2%99%AA%E3%83%9E%E3%82%B8LOVE%EF%BC%92%EF%BC%90%EF%BC%90%EF%BC%90%EF%BC%85%E5%B0%81%E9%9D%A2.jpg/119px-%E5%B9%BB%E6%83%B3%E9%83%B7%E3%81%AE%E2%98%86%E3%83%97%E3%83%AA%E3%83%B3%E3%82%B9%E3%81%95%E3%81%BE%E3%81%A3%E2%99%AA%E3%83%9E%E3%82%B8LOVE%EF%BC%92%EF%BC%90%EF%BC%90%EF%BC%90%EF%BC%85%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/a/ae/%E5%B9%BB%E6%83%B3%E9%83%B7%E3%81%AE%E2%98%86%E3%83%97%E3%83%AA%E3%83%B3%E3%82%B9%E3%81%95%E3%81%BE%E3%81%A3%E2%99%AA%E3%83%9E%E3%82%B8LOVE%EF%BC%92%EF%BC%90%EF%BC%90%EF%BC%90%EF%BC%85%E5%B0%81%E9%9D%A2.jpg/158px-%E5%B9%BB%E6%83%B3%E9%83%B7%E3%81%AE%E2%98%86%E3%83%97%E3%83%AA%E3%83%B3%E3%82%B9%E3%81%95%E3%81%BE%E3%81%A3%E2%99%AA%E3%83%9E%E3%82%B8LOVE%EF%BC%92%EF%BC%90%EF%BC%90%EF%BC%90%EF%BC%85%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="516" data-file-height="729"></a><div class="cover-char">角色：<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a>，<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/35900457">https://www.pixiv.net/artworks/35900457</a></td></tr></tbody></table>
 
 幻想郷の☆プリンスさまっ♪マジLOVE２０００％（同人志，カスタムサイズ，2013） - 2013年5月26日 由 カスタムサイズ 于 博丽神社例大祭10 发布的漫画同人志，分级为 一般向
+
 ## Staff
 - 櫻井マコト (未找到链接)
+
 
 ## 评论
 

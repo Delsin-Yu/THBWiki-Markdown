@@ -4,6 +4,7 @@
 
 trickster.jam | 社团LOGO
 
+
 ## 摘要
   
 源地址：[direct image link](https://web.archive.org/web/20181124184252im_/http://tsubu.ath.cx/~tamajam/img/tj_banner.jpg), [source page](https://web.archive.org/web/20210326154440/http://tsubu.ath.cx/~tamajam/)

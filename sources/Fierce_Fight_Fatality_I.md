@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Fierce_Fight_Fatality_I封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/e/ed/Fierce_Fight_Fatality_I%E5%B0%81%E9%9D%A2.jpg/140px-Fierce_Fight_Fatality_I%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="140" height="196" srcset="https://upload.thwiki.cc/thumb/e/ed/Fierce_Fight_Fatality_I%E5%B0%81%E9%9D%A2.jpg/210px-Fierce_Fight_Fatality_I%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/e/ed/Fierce_Fight_Fatality_I%E5%B0%81%E9%9D%A2.jpg/280px-Fierce_Fight_Fatality_I%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="2928" data-file-height="4096"></a><div class="cover-char">角色：<a href="./秦心.md" title="秦心">秦心</a>，<a href="./堀川雷鼓.md" title="堀川雷鼓">堀川雷鼓</a></div></td>
@@ -14,9 +15,12 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/88633467">https://www.pixiv.net/artworks/88633467</a></td></tr></tbody></table>
 
 Fierce Fight Fatality I（同人志，八寺発電所，2021） - 2021年3月21日 由 八寺発電所 于 博丽神社例大祭18 发布的小说同人志，B6尺寸一共84页，登场人物有 秦心、堀川雷鼓、九十九弁弁、九十九八桥、多多良小伞、露娜萨·普莉兹姆利巴、梅露兰·普莉兹姆利巴、莉莉卡·普莉兹姆利巴、魂魄妖梦、云居一轮、风见幽香、摩多罗隐岐奈、射命丸文、朝仓理香子，分级为 一般向
+
 ## 预览
+
 ## Staff
 - 8y (未找到链接)
+
 
 ## 评论
 

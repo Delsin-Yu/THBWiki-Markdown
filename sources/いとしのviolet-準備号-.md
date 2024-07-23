@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-いとしのviolet-準備号-封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/b/be/%E3%81%84%E3%81%A8%E3%81%97%E3%81%AEviolet-%E6%BA%96%E5%82%99%E5%8F%B7-%E5%B0%81%E9%9D%A2.jpg/117px-%E3%81%84%E3%81%A8%E3%81%97%E3%81%AEviolet-%E6%BA%96%E5%82%99%E5%8F%B7-%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="117" height="168" srcset="https://upload.thwiki.cc/thumb/b/be/%E3%81%84%E3%81%A8%E3%81%97%E3%81%AEviolet-%E6%BA%96%E5%82%99%E5%8F%B7-%E5%B0%81%E9%9D%A2.jpg/176px-%E3%81%84%E3%81%A8%E3%81%97%E3%81%AEviolet-%E6%BA%96%E5%82%99%E5%8F%B7-%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/b/be/%E3%81%84%E3%81%A8%E3%81%97%E3%81%AEviolet-%E6%BA%96%E5%82%99%E5%8F%B7-%E5%B0%81%E9%9D%A2.jpg/235px-%E3%81%84%E3%81%A8%E3%81%97%E3%81%AEviolet-%E6%BA%96%E5%82%99%E5%8F%B7-%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="358" data-file-height="512"></a><div class="cover-char">角色：<a href="./八云紫.md" title="八云紫">八云紫</a>，<a href="./宇佐见堇子.md" title="宇佐见堇子">宇佐见堇子</a>，<a href="./摩多罗隐岐奈.md" title="摩多罗隐岐奈">摩多罗隐岐奈</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://bs.ricecake.moo.jp/?eid=190">http://bs.ricecake.moo.jp/?eid=190</a></td></tr><tr><td class="label">备注</td><td colspan="2">预告版</td></tr></tbody></table>
 
 いとしのviolet-準備号-（同人志，poprication，2018） - 2018年10月14日 由 poprication 于 博丽神社秋季例大祭5 发布的漫画同人志，登场人物有 八云紫、宇佐见堇子，分级为 一般向
+
 ## Staff
 - [べにしゃけ](./べにしゃけ.md)
+
 
 ## 评论
 

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 软件信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Sakuya_Izayoi_Gives_You_Advice_And_Dabs封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/5/51/Sakuya_Izayoi_Gives_You_Advice_And_Dabs%E5%B0%81%E9%9D%A2.jpg/224px-Sakuya_Izayoi_Gives_You_Advice_And_Dabs%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="105" srcset="https://upload.thwiki.cc/thumb/5/51/Sakuya_Izayoi_Gives_You_Advice_And_Dabs%E5%B0%81%E9%9D%A2.jpg/336px-Sakuya_Izayoi_Gives_You_Advice_And_Dabs%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/5/51/Sakuya_Izayoi_Gives_You_Advice_And_Dabs%E5%B0%81%E9%9D%A2.jpg/448px-Sakuya_Izayoi_Gives_You_Advice_And_Dabs%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="460" data-file-height="215"></a><div class="cover-char">角色：<a href="/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C" title="十六夜咲夜">十六夜咲夜</a></div></td>
@@ -25,11 +26,13 @@ Sakuya Izayoi Gives You Advice And Dabs（同人游戏，Sigyaad Team，2020） 
 </tbody></table>
 
 
+
 ## 内容页面
 - [游戏介绍](./Sakuya_Izayoi_Gives_You_Advice_And_Dabs-游戏介绍.md)
 - 游戏设定与剧情 (未找到链接)
 - 使用说明 (未找到链接)
 - 其他信息 (未找到链接)
+
 
 ## 外部链接
   

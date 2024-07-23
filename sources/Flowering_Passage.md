@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **东方风自作曲** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -28,11 +29,13 @@
 
 
 
+
 ## 基本信息
 
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">フラワリングパッセージ</td></tr><tr><td><b>译名</b></td><td>Flowering Passage</td></tr><tr><td><b>作曲</b></td><td><a href="/index.php?title=%E3%81%97%E3%82%83%E3%82%8F&amp;action=edit&amp;redlink=1" class="new" title="しゃわ（页面不存在）">しゃわ</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 Flowering Passage（曲目） - 由 しゃわ 创作的东方风自作曲，原名 フラワリングパッセージ
+
 ## 出现作品
 
 <table>
@@ -41,8 +44,11 @@ Flowering Passage（曲目） - 由 しゃわ 创作的东方风自作曲，原�
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ## 说明文本
+
 ### 东方魔宝城
 - Music Room (未找到链接)
 
@@ -58,8 +64,11 @@ Flowering Passage（曲目） - 由 しゃわ 创作的东方风自作曲，原�
 正因为花朵畅快淋漓地绽开着啊。
   
 
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
 
 

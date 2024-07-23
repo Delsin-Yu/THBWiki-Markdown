@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-虹色_MASTER_Scarlet封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/7/70/%E8%99%B9%E8%89%B2_MASTER_Scarlet%E5%B0%81%E9%9D%A2.jpg/159px-%E8%99%B9%E8%89%B2_MASTER_Scarlet%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="159" height="224" srcset="https://upload.thwiki.cc/thumb/7/70/%E8%99%B9%E8%89%B2_MASTER_Scarlet%E5%B0%81%E9%9D%A2.jpg/238px-%E8%99%B9%E8%89%B2_MASTER_Scarlet%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/7/70/%E8%99%B9%E8%89%B2_MASTER_Scarlet%E5%B0%81%E9%9D%A2.jpg/317px-%E8%99%B9%E8%89%B2_MASTER_Scarlet%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="516" data-file-height="728"></a><div class="cover-char">角色：<a href="/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C" title="十六夜咲夜">十六夜咲夜</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://sichirin.blog45.fc2.com/blog-entry-101.html">http://sichirin.blog45.fc2.com/blog-entry-101.html</a></td></tr></tbody></table>
 
 虹色 MASTER Scarlet（同人志，七輪大社，2011） - 2011年9月19日 由 七輪大社 于 此花咲夜1 发布的漫画同人志，B5尺寸一共56页，登场人物有 十六夜咲夜、红美铃、雾雨魔理沙、帕秋莉·诺蕾姬、小恶魔、蕾米莉亚·斯卡蕾特、博丽灵梦、芙兰朵露·斯卡蕾特，分级为 一般向
+
 ## 预览
 - [](./文件-虹色_MASTER_Scarlet预览图1.jpg.md)- [](./文件-虹色_MASTER_Scarlet预览图2.jpg.md)- [](./文件-虹色_MASTER_Scarlet预览图3.jpg.md)- [](./文件-虹色_MASTER_Scarlet预览图4.jpg.md)
+
 
 ## Staff
   
@@ -27,6 +30,7 @@
 
 （作画顺序）
   
+
 
 ## 评论
 

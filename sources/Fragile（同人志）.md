@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Fragile（同人志）封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/0/0c/Fragile%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/106px-Fragile%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="106" height="168" srcset="https://upload.thwiki.cc/thumb/0/0c/Fragile%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/160px-Fragile%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/0/0c/Fragile%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/213px-Fragile%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="762" data-file-height="1200"></a><div class="cover-char">角色：<a href="./风见幽香.md" title="风见幽香">风见幽香</a>，<a href="./爱丽丝·玛格特洛依德.md" title="爱丽丝·玛格特洛依德">爱丽丝·玛格特洛依德</a></div></td>
@@ -14,7 +15,9 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://blog.livedoor.jp/kago_tozenn/archives/8709887.html">http://blog.livedoor.jp/kago_tozenn/archives/8709887.html</a><br><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/59408227">https://www.pixiv.net/artworks/59408227</a></td></tr><tr><td class="label">备注</td><td colspan="2">在Pixiv上再录（<a href="https://www.pixiv.net/artworks/72574920" class="extiw" title="p:72574920">上篇</a>, <a href="https://www.pixiv.net/artworks/72575078" class="extiw" title="p:72575078">下篇</a>）</td></tr></tbody></table>
 
 Fragile（同人志，ゆとりデカダンス，2016） - 2016年10月16日 由 ゆとりデカダンス 于 博丽神社秋季例大祭3 发布的小说同人志，登场人物有 风见幽香、爱丽丝·玛格特洛依德，分级为 一般向
+
 ## 预览
+
 ## Staff
 Author
 : 夏後冬前 （[ゆとりデカダンス](./ゆとりデカダンス.md)）
@@ -22,6 +25,7 @@ Cover &amp; Illustration
 : 桜居春斗 （[MONOCHROME](./MONOCHROME（同人专辑）.md)）
 Arrangement
 : [中迫酒菜](./中迫酒菜.md)
+
 
 ## 评论
 

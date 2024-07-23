@@ -4,6 +4,7 @@
 
 BirdStrike | 社团LOGO
 
+
 ## 摘要
   
 源地址：[direct image link](https://web.archive.org/web/20200526033705im_/http://bird-strike.net/imgs/index/bs_logo.png), [source page](https://web.archive.org/web/20210125204934/http://bird-strike.net/)

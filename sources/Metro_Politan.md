@@ -18,6 +18,7 @@
 
 
 </center>
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=Metro_Politan%E5%B0%81%E9%9D%A2.jpg" class="new" title="文件:Metro Politan封面.jpg">封面图片</a></td>
@@ -26,10 +27,13 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/ogiharu334/status/946064293597872128">https://twitter.com/ogiharu334/status/946064293597872128</a><br><a rel="nofollow" class="external free" href="https://twitter.com/ogiharu334/status/946374163853221888">https://twitter.com/ogiharu334/status/946374163853221888</a></td></tr></tbody></table>
 
 Metro Politan（同人专辑，Starlight Syndrome，2017） - 2017年12月29日 由 Starlight Syndrome 于 Comic Market 93 发布的全长同人专辑，分级为 一般向
+
 ## Staff
+
 ## 曲目列表
 
 <table></table>
+
 
 
 ## 评论

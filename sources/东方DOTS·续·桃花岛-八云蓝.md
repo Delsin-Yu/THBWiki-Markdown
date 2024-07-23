@@ -169,6 +169,7 @@
 [](./文件-THD2八云蓝.png.md)
   
 
+
 ## 目录
 
 - [1 角色定位](#角色定位)
@@ -189,10 +190,12 @@
 
 
 
+
 ## 角色定位
   
 爆发 - 推进 - 逃生 - 辅助
   
+
 
 ## 技能介绍
 
@@ -789,6 +792,7 @@
 </td></tr></tbody></table>
 
 
+
 ## 天赋树
 
 
@@ -827,25 +831,30 @@
 </td></tr></tbody></table>
 
 
+
 ### 出门装备
 ```
 [](./文件-THD2爱人卡.png.md) [](./文件-THD2秘银戒指.png.md) [](./文件-THD2雾雨魔力瓶.png.md) [](./文件-THD2思兼生命药.png.md)
 ```
+
 
 ### 前期装备
 ```
 [](./文件-THD2元素秘法石.png.md) [](./文件-THD2魔法使扫把.png.md)
 ```
 
+
 ### 核心装备
 ```
 [](./文件-THD2冰精跳跃装置.png.md) [](./文件-THD2奇迹之星.png.md) [](./文件-THD2香霖的礼服.png.md) [](./文件-THD2岗哨守卫.png.md) [](./文件-THD2侦查守卫.png.md)
 ```
 
+
 ### 可选装备
 ```
 [](./文件-THD2油库里之杖.png.md) [](./文件-THD2魔法使的帽子.png.md) [](./文件-THD2碎骨笛.png.md) [](./文件-THD2思兼生命智慧.png.md) [](./文件-THD2亡灵送行提灯.png.md) [](./文件-THD2博丽神社护身符.png.md) [](./文件-THD2速融的核聚变棒.png.md) [](./文件-THD2月面之弓弦.png.md) [](./文件-THD2魔人经卷.png.md)
 ```
+
 
 ## 技能加点
 
@@ -907,6 +916,7 @@
 <td><a href="./文件-DOTA黄点.png.md" class="image" title="+2 全属性"><img alt="+2 全属性" src="https://upload.thwiki.cc/thumb/d/da/DOTA%E9%BB%84%E7%82%B9.png/40px-DOTA%E9%BB%84%E7%82%B9.png" decoding="async" loading="lazy" width="40" height="40" srcset="https://upload.thwiki.cc/thumb/d/da/DOTA%E9%BB%84%E7%82%B9.png/60px-DOTA%E9%BB%84%E7%82%B9.png 1.5x, https://upload.thwiki.cc/thumb/d/da/DOTA%E9%BB%84%E7%82%B9.png/80px-DOTA%E9%BB%84%E7%82%B9.png 2x" data-file-width="128" data-file-height="128"></a></td>
 <td><a href="./文件-THD2天赋树25左.png.md" class="image" title="+2倍 激光弹射次数"><img alt="+2倍 激光弹射次数" src="https://upload.thwiki.cc/thumb/a/aa/THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%B7%A6.png/40px-THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%B7%A6.png" decoding="async" loading="lazy" width="40" height="40" srcset="https://upload.thwiki.cc/thumb/a/aa/THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%B7%A6.png/60px-THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%B7%A6.png 1.5x, https://upload.thwiki.cc/thumb/a/aa/THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%B7%A6.png/80px-THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%B7%A6.png 2x" data-file-width="103" data-file-height="103"></a>
 </td></tr></tbody></table>
+
 
 
 ## 台词
@@ -973,6 +983,7 @@
 </td>
 <td>集まってくる、こうして強大な力が集まってくる！<br>[正在聚集…这股强大的力量正在聚集！]
 </td></tr></tbody></table>
+
 
 
 ## 教学视频

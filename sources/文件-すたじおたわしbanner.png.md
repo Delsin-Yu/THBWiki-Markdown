@@ -4,6 +4,7 @@
 
 すたじおたわし | 社团LOGO
 
+
 ## 文件说明
   
 源地址：[direct image link](https://web.archive.org/web/20140107030638im_/http://www.studiotawashi.com/img/banner-studiotawashi.png), [source page](https://web.archive.org/web/20160827103246/http://www.studiotawashi.com/about.html)

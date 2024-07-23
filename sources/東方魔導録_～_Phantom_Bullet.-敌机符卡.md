@@ -4,6 +4,7 @@
 
 whiteboard
 
+
 ## 符卡列表
 - 列表中符卡未必出现在全部难度中
 - 符卡翻译以游戏内翻译为准
@@ -539,7 +540,7 @@ whiteboard
 <tr>
 <td>62
 </td>
-<td rowspan="5"><a href="/%E8%95%BE%E7%B1%B3%E8%8E%89%E4%BA%9A%C2%B7%E6%96%AF%E5%8D%A1%E9%9B%B7%E7%89%B9" class="mw-redirect" title="蕾米莉亚·斯卡雷特">蕾米莉亚·斯卡雷特</a>
+<td rowspan="5"><a href="./蕾米莉亚·斯卡雷特.md" class="mw-redirect" title="蕾米莉亚·斯卡雷特">蕾米莉亚·斯卡雷特</a>
 </td>
 <td>神槍「エンシェントカタクリズム」</td>
 <td>Divine Spear "Ancient Cataclysm"</td>
@@ -833,7 +834,7 @@ whiteboard
 <tr>
 <td>97
 </td>
-<td rowspan="4"><a href="/%E9%93%83%E4%BB%99" class="mw-redirect" title="铃仙">铃仙</a>
+<td rowspan="4"><a href="./铃仙.md" class="mw-redirect" title="铃仙">铃仙</a>
 </td>
 <td>波符「赤眼催眠(マインドシエイカー)」</td>
 <td>lllusion Wave "Mind Blowing (Red-Eyed Hypnosis)"</td>
@@ -1103,7 +1104,7 @@ whiteboard
 <tr>
 <td>129
 </td>
-<td rowspan="3"><a href="/%E8%8A%99%E5%85%B0%E6%9C%B5%E9%9C%B2%C2%B7%E6%96%AF%E5%8D%A1%E9%9B%B7%E7%89%B9" class="mw-redirect" title="芙兰朵露·斯卡雷特">芙兰朵露·斯卡雷特</a>
+<td rowspan="3"><a href="./芙兰朵露·斯卡雷特.md" class="mw-redirect" title="芙兰朵露·斯卡雷特">芙兰朵露·斯卡雷特</a>
 </td>
 <td>禁忌「クランベリートラップ」</td>
 <td>Taboo "Cranberry Trap"</td>

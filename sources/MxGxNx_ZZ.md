@@ -18,6 +18,7 @@
 
 
 </center>
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=MxGxNx_ZZ%E5%B0%81%E9%9D%A2.jpg" class="new" title="文件:MxGxNx ZZ封面.jpg">封面图片</a></td>
@@ -26,6 +27,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://rnohito.blog.shinobi.jp/お知らせ/m3春">http://rnohito.blog.shinobi.jp/お知らせ/m3春</a></td></tr></tbody></table>
 
 MxGxNx ZZ（同人专辑，River Mist，2012） - 2012年4月30日 由 River Mist 于 M3-2012春 发布的Demo同人专辑，曲目主要风格是 Rock，分级为 一般向
+
 ## Staff
   
  **Compose**   
@@ -43,15 +45,18 @@ MxGxNx ZZ（同人专辑，River Mist，2012） - 2012年4月30日 由 River Mis
 <table><tbody><tr><td><a href="/index.php?title=%E3%83%89%E3%83%AC%E3%82%A4%E3%82%AF&amp;action=edit&amp;redlink=1" class="new" title="ドレイク（页面不存在）">ドレイク</a></td><td><a href="./River_Mist.md" title="River Mist">River Mist</a></td><td>Tr.1</td></tr><tr><td><a href="/index.php?title=S.T&amp;action=edit&amp;redlink=1" class="new" title="S.T（页面不存在）">S.T</a></td><td><a href="./River_Mist.md" title="River Mist">River Mist</a></td><td>Tr.1</td></tr><tr><td><a href="/index.php?title=Hocker&amp;action=edit&amp;redlink=1" class="new" title="Hocker（页面不存在）">Hocker</a></td><td><a href="./River_Mist.md" title="River Mist">River Mist</a></td><td>Tr.1</td></tr></tbody></table>
 
 
+
 ## 试听
   
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/39095880&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=false"></iframe>
 
   
 
+
 ## 曲目列表
 
 <table><tbody><tr><td id="1" class="infoRL"><b>01</b></td><td id="Twice" colspan="2" class="title">Twice<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=River Mist&amp;vocal=UC，ドレイク&amp;fromwiki=MxGxNx_ZZ"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./River_Mist.md" title="River Mist">River Mist</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，River Mist&amp;fromwiki=MxGxNx_ZZ"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="/index.php?title=UC&amp;action=edit&amp;redlink=1" class="new" title="UC（页面不存在）">UC</a>，<a href="/index.php?title=%E3%83%89%E3%83%AC%E3%82%A4%E3%82%AF&amp;action=edit&amp;redlink=1" class="new" title="ドレイク（页面不存在）">ドレイク</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=UC，ドレイク&amp;fromwiki=MxGxNx_ZZ"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演奏</td><td class="text" colspan="2">Guitar：Hocker <br>Bass：ドレイク <br>Drums：S.T</td></tr></tbody></table>
+
 
 
 ## 评论

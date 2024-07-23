@@ -6,12 +6,14 @@
 
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 软件信息](#软件信息)
 - [2 Staff](#Staff)
 - [3 内容页面](#内容页面)
 - [4 评论](#评论)
+
 
 
 
@@ -40,6 +42,7 @@ Touhou： Sealing Song（同人游戏，Megapig9001，Kalcicat，Wookywok，JaCo
 </tbody></table>
 
 
+
 ## Staff
 Directing, Programming, Writing
 : Megapig9001 （[itch.io: megapig9001](https://megapig9001.itch.io/)）
@@ -59,10 +62,12 @@ Target Reticle Art
 Magatama Art
 : CaptainDiz （[itch.io: captaindiz](https://captaindiz.itch.io/)）
 
+
 ## 内容页面
 - 游戏设定与剧情 (未找到链接)
 - 攻略 (未找到链接)
 - 其他信息 (未找到链接)
+
 
 ## 评论
 

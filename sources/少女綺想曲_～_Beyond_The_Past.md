@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E5%B0%91%E5%A5%B3%E7%B6%BA%E6%83%B3%E6%9B%B2_%EF%BD%9E_Beyond_The_Past%E5%B0%81%E9%9D%A2.jpg" class="new" title="文件:少女綺想曲 ～ Beyond The Past封面.jpg">封面图片</a></td>
@@ -14,11 +15,13 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/exorcist_guitar/status/1738880437748154829">https://twitter.com/exorcist_guitar/status/1738880437748154829</a></td></tr><tr><td class="label">备注</td><td colspan="2">DL Card</td></tr></tbody></table>
 
 少女綺想曲 ～ Beyond The Past（同人专辑，Sworn To The Black，2023） - 2023年12月31日 由 Sworn To The Black 于 Comic Market 103 发布的单曲同人专辑，分级为 一般向
+
 ## Staff
   
  **Arrangement**   
 
 <table><tbody><tr><td><a href="/index.php?title=%E9%80%80%E9%AD%94&amp;action=edit&amp;redlink=1" class="new" title="退魔（页面不存在）">退魔</a></td><td><a href="./Sworn_To_The_Black.md" title="Sworn To The Black">Sworn To The Black</a></td><td>Tr.1</td></tr></tbody></table>
+
 
 
 ## 试听
@@ -33,9 +36,11 @@
 </td></tr></tbody></table>
 
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="少女綺想曲_～_Beyond_The_Past" colspan="2" class="title">少女綺想曲 ～ Beyond The Past<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=退魔&amp;ogmusic=少女綺想曲　～ Dream Battle&amp;fromwiki=少女綺想曲_～_Beyond_The_Past"><span title="搜索相似同人曲"></span></a></span></td><td class="time">05:27</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E9%80%80%E9%AD%94&amp;action=edit&amp;redlink=1" class="new" title="退魔（页面不存在）">退魔</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，退魔&amp;fromwiki=少女綺想曲_～_Beyond_The_Past"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=少女綺想曲　～ Dream Battle&amp;fromwiki=少女綺想曲_～_Beyond_The_Past"><span></span></a></span><div class="ogmusic"><a href="/%E5%B0%91%E5%A5%B3%E7%B6%BA%E6%83%B3%E6%9B%B2_%EF%BD%9E_Dream_Battle" class="mw-redirect" title="少女綺想曲 ～ Dream Battle">少女綺想曲　～ Dream Battle</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E6%B0%B8%E5%A4%9C%E6%8A%84_%EF%BD%9E_Imperishable_Night." class="mw-redirect" title="东方永夜抄 ～ Imperishable Night.">东方永夜抄　～ Imperishable Night.</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="少女綺想曲_～_Beyond_The_Past" colspan="2" class="title">少女綺想曲 ～ Beyond The Past<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=退魔&amp;ogmusic=少女綺想曲　～ Dream Battle&amp;fromwiki=少女綺想曲_～_Beyond_The_Past"><span title="搜索相似同人曲"></span></a></span></td><td class="time">05:27</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E9%80%80%E9%AD%94&amp;action=edit&amp;redlink=1" class="new" title="退魔（页面不存在）">退魔</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，退魔&amp;fromwiki=少女綺想曲_～_Beyond_The_Past"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=少女綺想曲　～ Dream Battle&amp;fromwiki=少女綺想曲_～_Beyond_The_Past"><span></span></a></span><div class="ogmusic"><a href="./少女綺想曲_～_Dream_Battle.md" class="mw-redirect" title="少女綺想曲 ～ Dream Battle">少女綺想曲　～ Dream Battle</a></div><div class="source"><a href="./东方永夜抄_～_Imperishable_Night..md" class="mw-redirect" title="东方永夜抄 ～ Imperishable Night.">东方永夜抄　～ Imperishable Night.</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

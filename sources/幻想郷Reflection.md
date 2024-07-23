@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-幻想郷Reflection封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/a/ac/%E5%B9%BB%E6%83%B3%E9%83%B7Reflection%E5%B0%81%E9%9D%A2.jpg/223px-%E5%B9%BB%E6%83%B3%E9%83%B7Reflection%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="223" height="224" srcset="https://upload.thwiki.cc/thumb/a/ac/%E5%B9%BB%E6%83%B3%E9%83%B7Reflection%E5%B0%81%E9%9D%A2.jpg/335px-%E5%B9%BB%E6%83%B3%E9%83%B7Reflection%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/a/ac/%E5%B9%BB%E6%83%B3%E9%83%B7Reflection%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="383" data-file-height="384"></a></td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://silentsphere.blog110.fc2.com/blog-date-201103.html">http://silentsphere.blog110.fc2.com/blog-date-201103.html</a><br><a rel="nofollow" class="external free" href="http://silentsphere.blog110.fc2.com/blog-entry-31.html">http://silentsphere.blog110.fc2.com/blog-entry-31.html</a></td></tr></tbody></table>
 
 幻想郷Reflection（同人专辑，Silent Sphere，2011） - 2011年5月8日 由 Silent Sphere 于 博丽神社例大祭8 发布的单曲同人专辑，分级为 一般向
+
 ## Staff
   
  **Arrangement**   
@@ -24,16 +26,19 @@
 Design
 : acple (未找到链接)（[Silent Sphere](./Silent_Sphere.md)）
 
+
 ## 试听
   
 <iframe width="100%" height="180" src="https://ext.nicovideo.jp/thumb/sm13783621" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/watch/sm13783621">,</a></iframe>
 
   
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Singular" colspan="2" class="title">Singular<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=acple&amp;ogmusic=妖々夢　～ Snow or Cherry Petal&amp;fromwiki=幻想郷Reflection"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=acple&amp;action=edit&amp;redlink=1" class="new" title="acple（页面不存在）">acple</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，acple&amp;fromwiki=幻想郷Reflection"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=妖々夢　～ Snow or Cherry Petal&amp;fromwiki=幻想郷Reflection"><span></span></a></span><div class="ogmusic"><a href="/%E5%A6%96%E3%80%85%E5%A4%A2_%EF%BD%9E_Snow_or_Cherry_Petal" class="mw-redirect" title="妖々夢 ～ Snow or Cherry Petal">妖々夢　～ Snow or Cherry Petal</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E5%A6%96%E5%A6%96%E6%A2%A6_%EF%BD%9E_Perfect_Cherry_Blossom." class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr>
-<tr><td id="2" class="infoYD"><b>02</b></td><td id="Onedromancy" colspan="2" class="title">Onedromancy<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=acple&amp;ogmusic=ラクトガール　～ 少女密室&amp;fromwiki=幻想郷Reflection"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=acple&amp;action=edit&amp;redlink=1" class="new" title="acple（页面不存在）">acple</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，acple&amp;fromwiki=幻想郷Reflection"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=ラクトガール　～ 少女密室&amp;fromwiki=幻想郷Reflection"><span></span></a></span><div class="ogmusic"><a href="/%E3%83%A9%E3%82%AF%E3%83%88%E3%82%AC%E3%83%BC%E3%83%AB_%EF%BD%9E_%E5%B0%91%E5%A5%B3%E5%AF%86%E5%AE%A4" class="mw-redirect" title="ラクトガール ～ 少女密室">ラクトガール　～ 少女密室</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E7%BA%A2%E9%AD%94%E4%B9%A1_%EF%BD%9E_the_Embodiment_of_Scarlet_Devil." class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Singular" colspan="2" class="title">Singular<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=acple&amp;ogmusic=妖々夢　～ Snow or Cherry Petal&amp;fromwiki=幻想郷Reflection"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=acple&amp;action=edit&amp;redlink=1" class="new" title="acple（页面不存在）">acple</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，acple&amp;fromwiki=幻想郷Reflection"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=妖々夢　～ Snow or Cherry Petal&amp;fromwiki=幻想郷Reflection"><span></span></a></span><div class="ogmusic"><a href="./妖々夢_～_Snow_or_Cherry_Petal.md" class="mw-redirect" title="妖々夢 ～ Snow or Cherry Petal">妖々夢　～ Snow or Cherry Petal</a></div><div class="source"><a href="./东方妖妖梦_～_Perfect_Cherry_Blossom..md" class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr>
+<tr><td id="2" class="infoYD"><b>02</b></td><td id="Onedromancy" colspan="2" class="title">Onedromancy<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=acple&amp;ogmusic=ラクトガール　～ 少女密室&amp;fromwiki=幻想郷Reflection"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=acple&amp;action=edit&amp;redlink=1" class="new" title="acple（页面不存在）">acple</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，acple&amp;fromwiki=幻想郷Reflection"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=ラクトガール　～ 少女密室&amp;fromwiki=幻想郷Reflection"><span></span></a></span><div class="ogmusic"><a href="./ラクトガール_～_少女密室.md" class="mw-redirect" title="ラクトガール ～ 少女密室">ラクトガール　～ 少女密室</a></div><div class="source"><a href="./东方红魔乡_～_the_Embodiment_of_Scarlet_Devil..md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

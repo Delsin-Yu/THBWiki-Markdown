@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Starry★Night封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/7/7d/Starry%E2%98%85Night%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="161" height="224" data-file-width="158" data-file-height="220"></a><div class="cover-char">角色：<a href="/index.php?title=%E9%BB%91%E5%B2%A9%E5%B0%84%E6%89%8B&amp;action=edit&amp;redlink=1" class="new" title="黑岩射手（页面不存在）">黑岩射手</a></div></td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.deviantart.com/xephonia/journal/CDS0022-Starry-Night-245564300">https://www.deviantart.com/xephonia/journal/CDS0022-Starry-Night-245564300</a><br><a rel="nofollow" class="external free" href="http://www.collateralds.com/news/cds0022-starry-night/">http://www.collateralds.com/news/cds0022-starry-night/</a><br><a rel="nofollow" class="external free" href="http://www.collateralds.com/news/random/cosfest-x-i-or-comicsworld/">http://www.collateralds.com/news/random/cosfest-x-i-or-comicsworld/</a><br><span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span>x2<small>（<a rel="nofollow" class="external text" href="https://web.archive.org/web/20140716212047/http://www.collateralds.com/news/cds0022-starry-night/">缓存页面1</a>，<a rel="nofollow" class="external text" href="https://web.archive.org/web/20111223111852/http://www.collateralds.com/news/random/cosfest-x-i-or-comicsworld/">缓存页面2</a>）</small></td></tr><tr><td class="label">备注</td><td colspan="2">东方×<a href="https://zh.wikipedia.org/wiki/黑岩射手" class="extiw" title="wzh:黑岩射手">黑岩射手</a></td></tr></tbody></table>
 
 Starry★Night（同人志，Collateral Damage Studios，2011） - 2011年6月25日 由 Collateral Damage Studios 于 Cosfest 10.1 发布的漫画同人志，B5尺寸一共62页，分级为 一般向
+
 ## Staff
 Story
 : Komicer
@@ -36,6 +38,7 @@ Guest artists
 : Suzumiya Saito （[DeviantArt: suzumiyasaito](https://www.deviantart.com/suzumiyasaito)）
 : Jianran Pan （[Ichi-Graphics Studio](http://ichi-graphics.blogspot.com/) / [DeviantArt: ichitakaseto](https://www.deviantart.com/ichitakaseto)）
 : Radiantdreamer （[Radiant Dreamer](https://radiantdreamer.net/)）
+
 
 ## 评论
   

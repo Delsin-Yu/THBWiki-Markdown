@@ -5,6 +5,7 @@
 FRONTIER CREATE ，主要制作 其他 的日本同人社团，当前状态为 休止
 
 本页是关于 **同人社团 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -15,16 +16,19 @@ FRONTIER CREATE ，主要制作 其他 的日本同人社团，当前状态为 �
 
 
 
+
 ## 社团信息
 [](./文件-FRONTIER_CREATElogo.gif.md)  [](./文件-FRONTIER_CREATElogo.gif.md)logo
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> FRONTIER CREATE </td></tr><tr><td><b>主要作品类型</b></td><td>其他</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://www.frontier-create.com/">http://www.frontier-create.com/</a> <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><small>（<a rel="nofollow" class="external text" href="https://web.archive.org/web/20110906022340/http://www.frontier-create.com/">缓存页面</a>）</small></td></tr></tbody></table>
 
 FRONTIER CREATE（同人社团，其他社团） - FRONTIER CREATE ，主要制作 其他 的日本同人社团，当前状态为 休止
+
 ## 社团简介
   
  **FRONTIER CREATE** 是由多个同人社团组织的厂牌，主要出版音乐CD和周边。
   
+
 
 ## 社团名单
 子社团
@@ -52,6 +56,7 @@ FRONTIER CREATE（同人社团，其他社团） - FRONTIER CREATE ，主要制�
 - フロンティア編集部 (未找到链接)
 - 藍染工房 (未找到链接)
 - [ゆめいろ企画](./ゆめいろ企画.md)
+
 
 ## 参展信息
 

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E8%8D%89%E3%81%AE%E6%A0%B9_SOUL_LIKE_2%EF%BC%9A%E4%BA%BA%E9%96%93%E3%81%AE%E9%87%8C%E5%B0%81%E9%9D%A2.jpg" class="new" title="文件:草の根 SOUL LIKE 2：人間の里封面.jpg">封面图片</a><div class="cover-char">角色：<a href="./本居小铃.md" title="本居小铃">本居小铃</a>，<a href="./赤蛮奇.md" title="赤蛮奇">赤蛮奇</a>，<a href="./今泉影狼.md" title="今泉影狼">今泉影狼</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/border_of_life3/status/1578577755251560448">https://twitter.com/border_of_life3/status/1578577755251560448</a></td></tr></tbody></table>
 
 草の根 SOUL LIKE 2：人間の里（同人志，カサガミサン，2022） - 2022年10月9日 由 カサガミサン 于 东方红楼梦18 发布的漫画同人志，分级为 一般向
+
 ## Staff
 - 九十九五十六 (未找到链接)
+
 
 ## 评论
 

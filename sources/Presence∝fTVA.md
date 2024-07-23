@@ -4,7 +4,8 @@
 
 Presence∝fTVA (P-fTVA) ，于 2008 年成立，主要制作 同人音乐 的日本同人社团，主催是 chiquchoo，Denko，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -37,29 +38,37 @@ Presence∝fTVA (P-fTVA) ，于 2008 年成立，主要制作 同人音乐 的�
 
 
 
+
 ## 社团信息
 [](./文件-Presence∝fTVAbanner.gif.md)  [](./文件-Presence∝fTVAbanner.gif.md)banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Presence∝fTVA (P-fTVA) </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2008-06-24</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="./chiquchoo.md" title="chiquchoo">chiquchoo</a> <br> <a href="./Denko.md" title="Denko">Denko</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://p-ftva.liblo.jp/">http://p-ftva.liblo.jp/</a> <br><a rel="nofollow" class="external free" href="https://twitter.com/Presence_fTVA">https://twitter.com/Presence_fTVA</a><br><a rel="nofollow" class="external free" href="http://www3.to/presence">http://www3.to/presence</a> （旧官网，2019年10月停更）<span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><br><a rel="nofollow" class="external free" href="https://denko-laboratory.ddo.jp/pftva/">https://denko-laboratory.ddo.jp/pftva/</a> （旧官网，2015年12月停更）</td></tr></tbody></table>
 
 Presence∝fTVA（同人社团，同人音乐社团） - Presence∝fTVA (P-fTVA) ，于 2008 年成立，主要制作 同人音乐 的日本同人社团，主催是 chiquchoo，Denko，当前状态为 活动
+
 ## 社团简介
 - [Team fTVA](http://blog.livedoor.jp/ftva/)的成员之一。
 - 主要作品为对东方Project、07th Expansion作品和Key作品的钢琴改编。
 - chiquchoo和冴月レン一同创作时，使用的名义是Len-choo。
 
+
 ## 成员名单
+
 ### 主要成员
 - [chiquchoo](./chiquchoo.md)（别名：ちくちゅー）（[博客](http://blog.livedoor.jp/chiquchoo/)）
 - [Denko](./Denko.md)
 - 冴月レン (未找到链接)（别名：さつきレン）
 
+
 ### 副成员
 - らん (未找到链接)
 - [朋夜](./朋夜.md)
 
+
 ## 作品列表
+
 ### 同人专辑
+
 #### 期刊系列
 [](./Presence∝fTVA_2007_winter.md)[Presence∝fTVA 2007 winter](./Presence∝fTVA_2007_winter.md)首发日期：2007-12-31 （Comic Market 73 (未找到链接)）Omake （一般向）Presence∝fTVA 2008 summer 封面图片 (未找到链接)[Presence∝fTVA 2008 summer](./Presence∝fTVA_2008_summer.md)首发日期：2008-08-16 （Comic Market 74 (未找到链接)）全长 （一般向）重制版[Presence∝fTVA 2008 summer +](./Presence∝fTVA_2008_summer_+.md)[](./Presence∝fTVA_2008_summer_+.md)[Presence∝fTVA 2008 summer +](./Presence∝fTVA_2008_summer_+.md)首发日期：2008-11-02 （東方紅楼夢4 (未找到链接)）全长 （一般向）[](./Presence∝fTVA_2009_spring.md)[Presence∝fTVA 2009 spring](./Presence∝fTVA_2009_spring.md)首发日期：2009-03-08 （第六回 博麗神社例大祭 (未找到链接)）全长 （一般向）[](./Presence∝fTVA_2009_summer.md)[Presence∝fTVA 2009 summer](./Presence∝fTVA_2009_summer.md)首发日期：2009-08-15 （Comic Market 76 (未找到链接)）全长 （一般向）[](./Presence∝fTVA_2009_winter.md)[Presence∝fTVA 2009 winter](./Presence∝fTVA_2009_winter.md)首发日期：2009-12-30 （Comic Market 77 (未找到链接)）全长 （一般向）[](./Presence∝fTVA_2010_autumn.md)[Presence∝fTVA 2010 autumn](./Presence∝fTVA_2010_autumn.md)首发日期：2010-10-31 （M3-2010秋 (未找到链接)）全长 （一般向）[](./Presence∝fTVA_the_6th.md)[Presence∝fTVA the 6th](./Presence∝fTVA_the_6th.md)首发日期：2012-05-27 （第九回 博麗神社例大祭 (未找到链接)）全长 （一般向）[](./Presence∝fTVA_the_7th.md)[Presence∝fTVA the 7th](./Presence∝fTVA_the_7th.md)首发日期：2012-08-11 （Comic Market 82 (未找到链接)）全长 （一般向）[](./Presence∝fTVA_the_8th.md)[Presence∝fTVA the 8th](./Presence∝fTVA_the_8th.md)首发日期：2013-12-30 （Comic Market 85 (未找到链接)）全长 （一般向）[](./Presence∝fTVA_the_9th.md)[Presence∝fTVA the 9th](./Presence∝fTVA_the_9th.md)首发日期：2015-08-14 （Comic Market 88 (未找到链接)）全长 （一般向）[](./Presence∝fTVA_the_9th_Ⅱ.md)[Presence∝fTVA the 9th Ⅱ](./Presence∝fTVA_the_9th_Ⅱ.md)首发日期：2016-08-13 （Comic Market 90 (未找到链接)）全长、​重制 （一般向）[](./Presence∝fTVA_the_10th.md)[Presence∝fTVA the 10th](./Presence∝fTVA_the_10th.md)首发日期：2017-12-29 （Comic Market 93 (未找到链接)）全长 （一般向）
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -90,6 +99,7 @@ Presence∝fTVA（同人社团，同人音乐社团） - Presence∝fTVA (P-fTVA
 </table>
 
 
+
 #### SP系列
 [](./Presence∝fTVA_SP1_『ソナタの流儀』.md)[Presence∝fTVA SP1 『ソナタの流儀』](./Presence∝fTVA_SP1_『ソナタの流儀』.md)首发日期：2013-08-12 （Comic Market 84 (未找到链接)）EP （一般向）[](./Presence∝fTVA_SP2_『for_Concert』.md)[Presence∝fTVA SP2 『for Concert』](./Presence∝fTVA_SP2_『for_Concert』.md)首发日期：2013-12-30 （Comic Market 85 (未找到链接)）全长 （一般向）[](./Presence∝fTVA_SP3_『東方_POWER_PIANO』.md)[Presence∝fTVA SP3 『東方 POWER PIANO』](./Presence∝fTVA_SP3_『東方_POWER_PIANO』.md)首发日期：2014-12-29 （Comic Market 87 (未找到链接)）全长 （一般向）[](./Presence∝fTVA_SP5_『東方_THEME_PUZZLING』.md)[Presence∝fTVA SP5 『東方 THEME PUZZLING』](./Presence∝fTVA_SP5_『東方_THEME_PUZZLING』.md)首发日期：2015-12-30 （Comic Market 89 (未找到链接)）全长 （一般向）[](./Presence∝fTVA_SP6_『上海紅茶館』.md)[Presence∝fTVA SP6 『上海紅茶館』](./Presence∝fTVA_SP6_『上海紅茶館』.md)首发日期：2016-08-13 （Comic Market 90 (未找到链接)）全长 （一般向）[](./Presence∝fTVA_SP7_『RPA』.md)[Presence∝fTVA SP7 『RPA』](./Presence∝fTVA_SP7_『RPA』.md)首发日期：2016-12-29 （Comic Market 91 (未找到链接)）全长 （一般向）[](./Presence∝fTVA_SP10_『東方ピアノエチュード』.md)[Presence∝fTVA SP10 『東方ピアノエチュード』](./Presence∝fTVA_SP10_『東方ピアノエチュード』.md)首发日期：2018-12-30 （Comic Market 95 (未找到链接)）全长 （一般向）[](./Presence∝fTVA_SP00_『ピアノの狂気』.md)[Presence∝fTVA SP00 『ピアノの狂気』](./Presence∝fTVA_SP00_『ピアノの狂気』.md)首发日期：2019-08-12 （Comic Market 96 (未找到链接)）全长 （一般向）Presence∝fTVA SP3.1 『東方文花帖 連弾 HEAVY PIANO』 封面图片 (未找到链接)[Presence∝fTVA SP3.1 『東方文花帖 連弾 HEAVY PIANO』](./Presence∝fTVA_SP3.1_『東方文花帖_連弾_HEAVY_PIANO』.md)首发日期：2019-08-12 （Comic Market 96 (未找到链接)）全长 （一般向）SP3.1[](./Presence∝fTVA_SP2.1_『for_STREET_PIANO』.md)[Presence∝fTVA SP2.1 『for STREET PIANO』](./Presence∝fTVA_SP2.1_『for_STREET_PIANO』.md)首发日期：2019-12-31 （Comic Market 97 (未找到链接)）全长 （一般向）[](./Presence∝fTVA_SP5.1_『東方_THEME_PUZZLING_Ⅱ』.md)[Presence∝fTVA SP5.1 『東方 THEME PUZZLING Ⅱ』](./Presence∝fTVA_SP5.1_『東方_THEME_PUZZLING_Ⅱ』.md)首发日期：2019-12-31 （Comic Market 97 (未找到链接)）全长 （一般向）
 <table><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
@@ -116,6 +126,7 @@ Presence∝fTVA（同人社团，同人音乐社团） - Presence∝fTVA (P-fTVA
 </table>
 
 
+
 #### the Best系列
 [](./Presence∝fTVA_the_Best_Ⅰ.md)[Presence∝fTVA the Best Ⅰ](./Presence∝fTVA_the_Best_Ⅰ.md)首发日期：2009-03-08 （第六回 博麗神社例大祭 (未找到链接)）精选集 （一般向）Presence∝fTVA the Best Ⅱ side A 封面图片 (未找到链接)[Presence∝fTVA the Best Ⅱ side A](./Presence∝fTVA_the_Best_Ⅱ_side_A.md)首发日期：2010-12-30 （Comic Market 79 (未找到链接)）全长 （一般向）Presence∝fTVA the Best Ⅱ side B 封面图片 (未找到链接)[Presence∝fTVA the Best Ⅱ side B](./Presence∝fTVA_the_Best_Ⅱ_side_B.md)首发日期：2011-05-08 （第八回 博麗神社例大祭 (未找到链接)）全长 （一般向）
 <table><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
@@ -126,10 +137,12 @@ Presence∝fTVA（同人社团，同人音乐社团） - Presence∝fTVA (P-fTVA
 </table>
 
 
+
 #### 其他
 [](./Presence∝fTVA_the_Vocal_1_“Distortion_of_the_SCARLET.”.md)[Presence∝fTVA the Vocal 1 “Distortion of the SCARLET.”](./Presence∝fTVA_the_Vocal_1_“Distortion_of_the_SCARLET.”.md)首发日期：2018-08-10 （Comic Market 94 (未找到链接)）EP （一般向）
 <table><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ### 同人志
@@ -138,10 +151,12 @@ Presence∝fTVA 楽譜集Ⅰ 封面图片 (未找到链接)[Presence∝fTVA 楽�
 </table>
 
 
+
 ## 相关社团
 Eurystomus
 光と闇の協奏曲
 : 同属[Team fTVA](http://blog.livedoor.jp/ftva/)。
+
 
 ## 参展信息
 

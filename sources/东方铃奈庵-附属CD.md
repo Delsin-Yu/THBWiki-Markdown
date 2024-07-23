@@ -9,7 +9,7 @@
 ## 概述
 [](./文件-东方铃奈庵（CD）封面.png.md)  [](./文件-东方铃奈庵（CD）封面.png.md)东方铃奈庵 ～ Forbidden Scrollery.
   
-官方出版物 **东方铃奈庵 ～ Forbidden Scrollery. (未找到链接)** 的附属CD。
+官方出版物 **[东方铃奈庵 ～ Forbidden Scrollery.](./东方铃奈庵_～_Forbidden_Scrollery..md)** 的附属CD。
   
 
 
@@ -18,9 +18,9 @@
 东方铃奈庵/附属CD（官方专辑） - 官方专辑
 ## 曲目
 
-<table><tbody><tr><td class="infoYD"><b>01</b></td><td colspan="2" class="title"><a href="./识文解意的爱书人.md" title="识文解意的爱书人">识文解意的爱书人</a></td><td class="time">03:40</td></tr><tr><td class="left"></td><td colspan="3" class="bigtext"><a href="/%E5%88%A4%E8%AA%AD%E7%9C%BC%E3%81%AE%E3%83%93%E3%83%96%E3%83%AD%E3%83%95%E3%82%A3%E3%83%AA%E3%82%A2" class="mw-redirect" title="判読眼のビブロフィリア">判読眼のビブロフィリア</a></td></tr>
-<tr><td class="infoRD"><b>02</b></td><td colspan="2" class="title"><a href="./往来于运河的人与妖.md" title="往来于运河的人与妖">往来于运河的人与妖</a></td><td class="time">03:03</td></tr><tr><td class="left"></td><td colspan="3" class="bigtext"><a href="/%E9%81%8B%E6%B2%B3%E3%82%92%E8%A1%8C%E3%81%8D%E4%BA%A4%E3%81%86%E4%BA%BA%E5%A6%96" class="mw-redirect" title="運河を行き交う人妖">運河を行き交う人妖</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2">運河を行き交う人妖</td></tr><tr><td class="left"></td><td class="label">来源</td><td class="text" colspan="2"><a href="/%E4%B8%9C%E6%96%B9%E8%BE%89%E9%92%88%E5%9F%8E_%EF%BD%9E_Double_Dealing_Character." class="mw-redirect" title="东方辉针城 ～ Double Dealing Character.">东方辉针城　～ Double Dealing Character.</a></td></tr>
-<tr><td class="infoRD"><b>03</b></td><td colspan="2" class="title"><a href="./兔已着陆.md" title="兔已着陆">兔已着陆</a></td><td class="time">03:30</td></tr><tr><td class="left"></td><td colspan="3" class="bigtext"><a href="/%E5%85%8E%E3%81%AF%E8%88%9E%E3%81%84%E9%99%8D%E3%82%8A%E3%81%9F" class="mw-redirect" title="兎は舞い降りた">兎は舞い降りた</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2">兎は舞い降りた</td></tr><tr><td class="left"></td><td class="label">来源</td><td class="text" colspan="2"><a href="/%E4%B8%9C%E6%96%B9%E7%BB%80%E7%8F%A0%E4%BC%A0_%EF%BD%9E_Legacy_of_Lunatic_Kingdom." class="mw-redirect" title="东方绀珠传 ～ Legacy of Lunatic Kingdom.">东方绀珠传　～ Legacy of Lunatic Kingdom.</a></td></tr></tbody></table>
+<table><tbody><tr><td class="infoYD"><b>01</b></td><td colspan="2" class="title"><a href="./识文解意的爱书人.md" title="识文解意的爱书人">识文解意的爱书人</a></td><td class="time">03:40</td></tr><tr><td class="left"></td><td colspan="3" class="bigtext"><a href="./判読眼のビブロフィリア.md" class="mw-redirect" title="判読眼のビブロフィリア">判読眼のビブロフィリア</a></td></tr>
+<tr><td class="infoRD"><b>02</b></td><td colspan="2" class="title"><a href="./往来于运河的人与妖.md" title="往来于运河的人与妖">往来于运河的人与妖</a></td><td class="time">03:03</td></tr><tr><td class="left"></td><td colspan="3" class="bigtext"><a href="./運河を行き交う人妖.md" class="mw-redirect" title="運河を行き交う人妖">運河を行き交う人妖</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2">運河を行き交う人妖</td></tr><tr><td class="left"></td><td class="label">来源</td><td class="text" colspan="2"><a href="./东方辉针城_～_Double_Dealing_Character..md" class="mw-redirect" title="东方辉针城 ～ Double Dealing Character.">东方辉针城　～ Double Dealing Character.</a></td></tr>
+<tr><td class="infoRD"><b>03</b></td><td colspan="2" class="title"><a href="./兔已着陆.md" title="兔已着陆">兔已着陆</a></td><td class="time">03:30</td></tr><tr><td class="left"></td><td colspan="3" class="bigtext"><a href="./兎は舞い降りた.md" class="mw-redirect" title="兎は舞い降りた">兎は舞い降りた</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2">兎は舞い降りた</td></tr><tr><td class="left"></td><td class="label">来源</td><td class="text" colspan="2"><a href="./东方绀珠传_～_Legacy_of_Lunatic_Kingdom..md" class="mw-redirect" title="东方绀珠传 ～ Legacy of Lunatic Kingdom.">东方绀珠传　～ Legacy of Lunatic Kingdom.</a></td></tr></tbody></table>
 
 
   

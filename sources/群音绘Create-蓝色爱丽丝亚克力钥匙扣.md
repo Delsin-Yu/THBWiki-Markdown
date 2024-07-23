@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **相关实体周边 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 周边信息](#周边信息)
@@ -22,25 +23,31 @@
 
 
 
+
 ## 周边信息
 
 <table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 蓝色爱丽丝亚克力钥匙扣 </td></tr><tr><td class="label">制作方</td><td><a href="./群音绘Create.md" title="群音绘Create">群音绘Create</a></td></tr><tr><td class="label">首发日期</td><td>2020-05-10&#160;（<a href="/展会作品列表?e=COMICUP%2326">COMICUP26</a>，非实际参与展会首发）</td></tr><tr><td class="label">类型</td><td>挂件，钥匙扣</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>7cm</td></tr><tr><td class="label">材质</td><td>亚克力，闪片</td></tr><tr><td class="label">角色</td><td><a href="./爱丽丝·玛格特洛依德.md" title="爱丽丝·玛格特洛依德">爱丽丝·玛格特洛依德</a><br><a href="./爱丽丝（旧作角色）.md" title="爱丽丝（旧作角色）">爱丽丝（旧作角色）</a></td></tr><tr><td class="label">售价</td><td>15人民币</td></tr></tbody></table>
 
 群音绘Create/蓝色爱丽丝亚克力钥匙扣（周边，群音绘Create，2020） - 2020年5月10日 由 群音绘Create 于 COMICUP26 发布的挂件/钥匙扣周边，分级为 一般向
+
 ## 参考图
   
 周边宣传、售卖时使用的作为参考图的预览图或实物图的图片。
   
 
+
 ### 预览图
 - [](./文件-群音绘Create／蓝色爱丽丝亚克力钥匙扣预览图1.jpg.md)- [](./文件-群音绘Create／蓝色爱丽丝亚克力钥匙扣预览图2.jpg.md)
+
 
 ### 实物图
 - [](./文件-群音绘Create／蓝色爱丽丝亚克力钥匙扣实物图1.jpg.md)- [](./文件-群音绘Create／蓝色爱丽丝亚克力钥匙扣实物图2.jpg.md)
 
+
 ## Staff
 画师
 : [Renka](./Renka.md)
+
 
 ## 评论
 

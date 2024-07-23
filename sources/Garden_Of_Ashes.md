@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Garden_Of_Ashes封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/f/f0/Garden_Of_Ashes%E5%B0%81%E9%9D%A2.jpg/224px-Garden_Of_Ashes%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="224" srcset="https://upload.thwiki.cc/thumb/f/f0/Garden_Of_Ashes%E5%B0%81%E9%9D%A2.jpg/336px-Garden_Of_Ashes%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/f/f0/Garden_Of_Ashes%E5%B0%81%E9%9D%A2.jpg/448px-Garden_Of_Ashes%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="3000" data-file-height="3000"></a><div class="cover-char">角色：<a href="/index.php?title=%E5%8E%9F%E5%88%9B%E8%A7%92%E8%89%B2&amp;action=edit&amp;redlink=1" class="new" title="原创角色（页面不存在）">原创角色</a></div></td>
@@ -18,7 +19,9 @@ Garden Of Ashes（同人专辑，Border Of Nightmares，2023） - 2023年4月20�
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://borderofnightmares.bandcamp.com/album/garden-of-ashes">bandcamp</a></td></tr></tbody></table>
 
 
+
 ## Staff
+
 ## 试听
 
 <table>
@@ -31,10 +34,11 @@ Garden Of Ashes（同人专辑，Border Of Nightmares，2023） - 2023年4月20�
 </td></tr></tbody></table>
 
 
+
 ## 曲目列表
 
 <table><tbody><tr><td id="1" class="info"><b>01</b></td><td id="Drink_Sake_After_the_War" colspan="2" class="title">Drink Sake After the War<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=Garden_Of_Ashes"><span title="搜索相似同人曲"></span></a></span></td><td class="time">02:58</td></tr>
-<tr><td id="2" class="info"><b>02</b></td><td id="Naughty_Amanojaku" colspan="2" class="title">Naughty Amanojaku<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=不可能弾幕には反則を&amp;fromwiki=Garden_Of_Ashes"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:20</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=不可能弾幕には反則を&amp;fromwiki=Garden_Of_Ashes"><span></span></a></span><div class="ogmusic"><a href="/%E4%B8%8D%E5%8F%AF%E8%83%BD%E5%BC%BE%E5%B9%95%E3%81%AB%E3%81%AF%E5%8F%8D%E5%89%87%E3%82%92" class="mw-redirect" title="不可能弾幕には反則を">不可能弾幕には反則を</a></div><div class="source"><a href="/%E5%BC%B9%E5%B9%95%E5%A4%A9%E9%82%AA%E9%AC%BC_%EF%BD%9E_Impossible_Spell_Card." class="mw-redirect" title="弹幕天邪鬼 ～ Impossible Spell Card.">弹幕天邪鬼　～ Impossible Spell Card.</a></div></td></tr>
+<tr><td id="2" class="info"><b>02</b></td><td id="Naughty_Amanojaku" colspan="2" class="title">Naughty Amanojaku<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=不可能弾幕には反則を&amp;fromwiki=Garden_Of_Ashes"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:20</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=不可能弾幕には反則を&amp;fromwiki=Garden_Of_Ashes"><span></span></a></span><div class="ogmusic"><a href="./不可能弾幕には反則を.md" class="mw-redirect" title="不可能弾幕には反則を">不可能弾幕には反則を</a></div><div class="source"><a href="./弹幕天邪鬼_～_Impossible_Spell_Card..md" class="mw-redirect" title="弹幕天邪鬼 ～ Impossible Spell Card.">弹幕天邪鬼　～ Impossible Spell Card.</a></div></td></tr>
 <tr><td id="3" class="info"><b>03</b></td><td id="Forgotten_Fantasia" colspan="2" class="title">Forgotten Fantasia<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=Garden_Of_Ashes"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:51</td></tr>
 <tr><td id="4" class="info"><b>04</b></td><td id="Dead_Sonata" colspan="2" class="title">Dead Sonata<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=Garden_Of_Ashes"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:10</td></tr>
 <tr><td id="5" class="info"><b>05</b></td><td id="Dragon_Eater" colspan="2" class="title">Dragon Eater<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=Garden_Of_Ashes"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:44</td></tr>
@@ -44,6 +48,7 @@ Garden Of Ashes（同人专辑，Border Of Nightmares，2023） - 2023年4月20�
 <tr><td id="9" class="info"><b>09</b></td><td id="Operation_Cirno" colspan="2" class="title">Operation Cirno<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=Garden_Of_Ashes"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:40</td></tr>
 <tr><td id="10" class="info"><b>10</b></td><td id="Red_Insanity" colspan="2" class="title">Red Insanity<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=Garden_Of_Ashes"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:04</td></tr>
 <tr><td id="11" class="info"><b>11</b></td><td id="Anxiety_to_the_Past" colspan="2" class="title">Anxiety to the Past<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=Garden_Of_Ashes"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:25</td></tr></tbody></table>
+
 
 
 ## 评论

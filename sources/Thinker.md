@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2">无封面</td>
@@ -14,14 +15,17 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://alibrarytime.web.fc2.com/thinker.html">http://alibrarytime.web.fc2.com/thinker.html</a></td></tr></tbody></table>
 
 Thinker（同人志，としょかんのじかん，2011） - 2011年10月16日 由 としょかんのじかん 于 东方红楼梦7 发布的小说同人志，一共24页，登场人物有 米斯蒂娅·萝蕾拉、村纱水蜜，分级为 一般向
+
 ## 预览
   
 [Pixiv](http://www.pixiv.net/novel/show.php?id=552577)
   
 
+
 ## Staff
 文
 : 蒼風涼 (未找到链接)
+
 
 ## 评论
 

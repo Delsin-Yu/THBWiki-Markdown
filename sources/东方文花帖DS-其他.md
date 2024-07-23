@@ -4,6 +4,7 @@
 
 东方文花帖DS
 
+
 ## 目录
 
 - [1 游戏内标题及说明文字](#游戏内标题及说明文字)
@@ -17,6 +18,7 @@
 
 
 - [5 其他细节](#其他细节)
+
 
 
 
@@ -82,6 +84,7 @@
 </td></tr></tbody></table>
 
 
+
 ## 游戏内滚动按键说明
 
 <table>
@@ -116,6 +119,7 @@
 <td><center>暂停键或[C]键 切换角色</center></td>
 <td><center>ポーズボタンor[C]キー キャラ切り替え</center>
 </td></tr></tbody></table>
+
 
 
 ## Game Over界面提示文字
@@ -272,7 +276,9 @@
 </td></tr></tbody></table>
 
 
+
 ## ED和Staff
+
 ### 姬海棠果机体解锁
 
 - <font color="Red"> **剧透提示:  *以下内容包含详细故事情节，请自行决定是否继续阅读* ** </font>
@@ -298,6 +304,7 @@
 
 
 
+
 ### 全场景通关
 
 - <font color="Red"> **剧透提示:  *以下内容包含详细故事情节，请自行决定是否继续阅读* ** </font>
@@ -320,6 +327,7 @@
 <tr> 
 <td>  <center>称号：天狗Master</center> </td><td>  <center>称号：天狗マスター</center></td></tr>
 </tbody></table>
+
 
 
 

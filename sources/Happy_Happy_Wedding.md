@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Happy_Happy_Wedding封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/6/61/Happy_Happy_Wedding%E5%B0%81%E9%9D%A2.jpg/112px-Happy_Happy_Wedding%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="112" height="80" srcset="https://upload.thwiki.cc/thumb/6/61/Happy_Happy_Wedding%E5%B0%81%E9%9D%A2.jpg/168px-Happy_Happy_Wedding%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/6/61/Happy_Happy_Wedding%E5%B0%81%E9%9D%A2.jpg/224px-Happy_Happy_Wedding%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="703" data-file-height="500"></a><div class="cover-char">角色：<a href="./魂魄妖梦.md" title="魂魄妖梦">魂魄妖梦</a>，<a href="/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C" title="十六夜咲夜">十六夜咲夜</a>，<a href="./东风谷早苗.md" title="东风谷早苗">东风谷早苗</a>，<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>，<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a></div></td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://mukoumizu.web.fc2.com/toho_bridal/index.html">http://mukoumizu.web.fc2.com/toho_bridal/index.html</a></td></tr><tr><td class="label">备注</td><td colspan="2">全彩</td></tr></tbody></table>
 
 Happy Happy Wedding（同人志，金魚オリジン，2012） - 2012年5月27日 由 金魚オリジン 于 博丽神社例大祭9 发布的画集同人志，分级为 一般向
+
 ## Staff
 Organizer
 : すむろ水 (未找到链接)
@@ -53,6 +55,7 @@ kichibell (未找到链接) （[Pixiv ID&#160;: 372055](https://www.pixiv.net/us
 
 白豆けい (未找到链接) （[豆猫の隙間](http://mamenekonosukima.web.fc2.com/index.html)）
   
+
 
 ## 评论
 ```

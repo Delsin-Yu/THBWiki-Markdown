@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-CASE_Frill封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/9/91/CASE_Frill%E5%B0%81%E9%9D%A2.jpg/168px-CASE_Frill%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="168" height="164" srcset="https://upload.thwiki.cc/thumb/9/91/CASE_Frill%E5%B0%81%E9%9D%A2.jpg/252px-CASE_Frill%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/9/91/CASE_Frill%E5%B0%81%E9%9D%A2.jpg/336px-CASE_Frill%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1694" data-file-height="1655"></a><div class="cover-char">角色：<a href="./玛艾露贝莉·赫恩.md" title="玛艾露贝莉·赫恩">玛艾露贝莉·赫恩</a></div></td>
@@ -14,11 +15,13 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/sr_mineka/status/1048194334976139265">https://twitter.com/sr_mineka/status/1048194334976139265</a></td></tr></tbody></table>
 
 CASE Frill（同人志，まいとびみんと，2018） - 2018年10月14日 由 まいとびみんと 于 博丽神社秋季例大祭5 发布的小说同人志，一共20页，分级为 一般向
+
 ## Staff
 绘
 : [マイナス](./マイナス.md)
 文
 : [人比良](./人比良.md)
+
 
 ## 评论
 

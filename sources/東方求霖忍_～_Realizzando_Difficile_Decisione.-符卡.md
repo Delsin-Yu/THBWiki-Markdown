@@ -4,6 +4,7 @@
 
 遊色高楼
 
+
 ## 目录
 
 - [1 Stage 1](#Stage_1)
@@ -60,10 +61,13 @@
 
 
 
+
 ## Stage 1
+
 ### 道中
 
 <table><tbody><tr><th><b>中文名</b></th><th><b>日文名</b></th><th><b>出现位置</b></th></tr><tr><td style="width:200px">忍术「Art of Envy」（嫉妒之术）</td><td style="width:200px">忍術「アートオブエンヴィー」</td><td style="width:180px">Hard/Lunatic（水桥帕露西）</td></tr></tbody></table>
+
 
 
 ### 关底
@@ -74,11 +78,14 @@
 <tr><td style="width:200px">「穷极料理」</td><td style="width:200px">「窮極<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">2</a></sup>料理」</td><td style="width:180px">Lunatic（水桥帕露西）</td></tr></tbody></table>
 
 
+
 ## Stage 2
+
 ### 道中
 
 <table><tbody><tr><th><b>中文名</b></th><th><b>日文名</b></th><th><b>出现位置</b></th></tr><tr><td style="width:200px">声符「诗人的夜想曲」</td><td style="width:200px">声符「詩人の夜想曲」</td><td style="width:180px">Easy/Normal（米斯蒂娅·萝蕾拉）</td></tr>
 <tr><td style="width:200px">唱符「暗之挽歌<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">3</a></sup>」</td><td style="width:200px">唱符「闇のスレノディ」</td><td style="width:180px">Hard/Lunatic（米斯蒂娅·萝蕾拉）</td></tr></tbody></table>
+
 
 
 ### 关底
@@ -93,11 +100,14 @@
 <tr><td style="width:200px">「某龙骑士和夜雀的羁绊」</td><td style="width:200px">「ある竜騎士と夜雀の絆<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">8</a></sup>」</td><td style="width:180px">Hard/Lunatic（米斯蒂娅·萝蕾拉&amp;龙桑）</td></tr></tbody></table>
 
 
+
 ## Stage 3
+
 ### 道中
 
 <table><tbody><tr><th><b>中文名</b></th><th><b>日文名</b></th><th><b>出现位置</b></th></tr><tr><td style="width:200px">刃符「Spinning Scythe<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">9</a></sup>」（旋转大镰）</td><td style="width:200px">刃符「スピニングサイス」</td><td style="width:180px">Easy/Normal（艾丽）</td></tr>
 <tr><td style="width:200px">连投「暗黑先生<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">10</a></sup>的大宴席」</td><td style="width:200px">連投「暗黒さん大盤振舞」</td><td style="width:180px">Hard/Lunatic（艾丽）</td></tr></tbody></table>
+
 
 
 ### 关底
@@ -109,7 +119,9 @@
 <tr><td style="width:200px">死神「迫近的Nightmare Scythe<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">14</a></sup>」（迫近的噩梦大镰）</td><td style="width:200px">死神「迫りくるナイトメアサイス」</td><td style="width:180px">Hard/Lunatic（艾丽）</td></tr></tbody></table>
 
 
+
 ## Stage 4
+
 ### 关底
 
 <table><tbody><tr><th><b>中文名</b></th><th><b>日文名</b></th><th><b>出现位置</b></th></tr><tr><td style="width:200px">花瓶「Clumped Terrarium」（成簇生态瓶）</td><td style="width:200px">花瓶<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">15</a></sup>「クランプトテラリウム」</td><td style="width:180px">Easy（幽香）</td></tr>
@@ -125,11 +137,14 @@
 <tr><td style="width:200px">「Ultimate Sadi-spark」（究极施虐火花）<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">22</a></sup></td><td style="width:200px">「アルティメットサディスパーク」</td><td style="width:180px">Lunatic（幽香）</td></tr></tbody></table>
 
 
+
 ## Stage 5
+
 ### 道中
 
 <table><tbody><tr><th><b>中文名</b></th><th><b>日文名</b></th><th><b>出现位置</b></th></tr><tr><td style="width:200px">记忆「幻想乡深处的细道」</td><td style="width:200px">記憶「幻想郷奥の細道」</td><td style="width:180px">Easy/Normal（稗田阿求）</td></tr>
 <tr><td style="width:200px">篡改「虚伪道中膝栗毛」</td><td style="width:200px">改竄「虚偽道中膝栗毛」<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">23</a></sup></td><td style="width:180px">Hard/Lunatic（稗田阿求）</td></tr></tbody></table>
+
 
 
 ### 关底第一次
@@ -138,6 +153,7 @@
 <tr><td style="width:200px">水符「忘川<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">25</a></sup>激流逆走」</td><td style="width:200px">水符「レテ川激流逆走」</td><td style="width:180px">Hard/Lunatic（稗田阿求：河城荷取）</td></tr>
 <tr><td style="width:200px">禁符「Denied Sympathy」（被拒绝的同情）</td><td style="width:200px">禁符「ディナイドシンパシー」</td><td style="width:180px">Easy/Normal（稗田阿求：河城见取）</td></tr>
 <tr><td style="width:200px">禁符「铸蔷薇式妨碍」<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">26</a></sup></td><td style="width:200px">禁符「鋳薔薇式妨害」</td><td style="width:180px">Hard/Lunatic（稗田阿求：河城见取）</td></tr></tbody></table>
+
 
 
 ### 关底第二次
@@ -160,7 +176,9 @@
 <tr><td style="width:200px">篡改「Fenrir's Hunt-edge」（芬里尔的猎刃）</td><td style="width:200px">改竄「フェンリルズハントエッジ」</td><td style="width:180px">Hard/Lunatic（稗田阿求：梦子）</td></tr></tbody></table>
 
 
+
 ## Stage 6
+
 ### 关底
 
 <table><tbody><tr><th><b>中文名</b></th><th><b>日文名</b></th><th><b>出现位置</b></th></tr><tr><td style="width:200px">魔水「潜藏于神殿的魔发」<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">29</a></sup></td><td style="width:200px">魔水「神殿に潜むモーファ」</td><td style="width:180px">Easy（森近霖之助）</td></tr>
@@ -185,12 +203,15 @@
 <tr><td style="width:200px">「Absolute Virtue」（绝对美德）<sup id="cite_ref-47" class="reference"><a href="#cite_note-47">47</a></sup></td><td style="width:200px">「Absolute Virtue」</td><td style="width:180px">Lunatic（森近霖之助）</td></tr></tbody></table>
 
 
+
 ## Extra
+
 ### 道中
 
 <table><tbody><tr><th><b>中文名</b></th><th><b>日文名</b></th><th><b>出现位置</b></th></tr><tr><td style="width:200px">形代「须磨曲水宴」<sup id="cite_ref-48" class="reference"><a href="#cite_note-48">48</a></sup></td><td style="width:200px">形代「須磨曲水宴」</td><td style="width:180px">Extra（键山雏）</td></tr>
 <tr><td style="width:200px">仇符「灾祸变恨」</td><td style="width:200px">讐符「災禍変恨」</td><td style="width:180px">Extra（键山雏）</td></tr>
 <tr><td style="width:200px">厄涡「Hydra Sweeper」（许德拉吸尘器）<sup id="cite_ref-49" class="reference"><a href="#cite_note-49">49</a></sup></td><td style="width:200px">厄渦「シルドラスイーパー」</td><td style="width:180px">Extra（键山雏）</td></tr></tbody></table>
+
 
 
 ### 关底
@@ -205,6 +226,7 @@
 <tr><td style="width:200px">灭符「梦想阿修罗拳」<sup id="cite_ref-56" class="reference"><a href="#cite_note-56">56</a></sup></td><td style="width:200px">滅符「夢想阿修羅拳」</td><td style="width:180px">Extra（马特）</td></tr>
 <tr><td style="width:200px">「■眷恋的巴纳迪尔」<sup id="cite_ref-57" class="reference"><a href="#cite_note-57">57</a></sup></td><td style="width:200px">「■の恋したヴァナ・ディール」</td><td style="width:180px">Extra（马特）</td></tr>
 <tr><td style="width:200px">最终试炼「满手星星的光辉」<sup id="cite_ref-58" class="reference"><a href="#cite_note-58">58</a></sup></td><td style="width:200px">最終試練「星の輝きを手に」</td><td style="width:180px">Extra（马特）</td></tr></tbody></table>
+
 
 
 ## Last Word

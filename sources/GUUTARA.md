@@ -4,7 +4,8 @@
 
 GUUTARA ，于 2011 年成立，主要制作 同人志 的日本同人社团，主催是 魔朗，当前状态为 休止
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -20,24 +21,29 @@ GUUTARA ，于 2011 年成立，主要制作 同人志 的日本同人社团，�
 
 
 
+
 ## 社团信息
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> GUUTARA </td></tr><tr><td><b>主要作品类型</b></td><td>同人志</td></tr><tr><td><b>成立时间</b></td><td>2011-09</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=%E9%AD%94%E6%9C%97&amp;action=edit&amp;redlink=1" class="new" title="魔朗（页面不存在）">魔朗</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://guutara.ifdef.jp/">http://guutara.ifdef.jp/</a> </td></tr></tbody></table>
 
 GUUTARA（同人社团，同人志社团） - GUUTARA ，于 2011 年成立，主要制作 同人志 的日本同人社团，主催是 魔朗，当前状态为 休止
+
 ## 成员名单
 - 魔朗 (未找到链接) (a.k.a.  **まろお** )
 - XZX (未找到链接) (a.k.a.  **ｿﾞﾉ** ,  **zono** ,  **＜Ｚ＞** )
 
 : Blog： [http://zonogrs.blog62.fc2.com/](http://zonogrs.blog62.fc2.com/)
 
+
 ## 作品列表
+
 ### 同人志
 秘止歌 封面图片 (未找到链接)[秘止歌](./秘止歌.md)首发日期：2011-09-11 （博麗神社例大祭SP2 (未找到链接)）摄影集 （一般向）B5&#160;尺寸 まどろみのそこ 封面图片 (未找到链接)[まどろみのそこ](./まどろみのそこ.md)首发日期：2012-03-18 摄影集 （一般向）A5&#160;尺寸 
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 参展信息

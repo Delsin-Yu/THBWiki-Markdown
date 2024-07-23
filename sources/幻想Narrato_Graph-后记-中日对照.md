@@ -31,11 +31,13 @@
 <table><tbody><tr class="tt-content-header" id="=-1" data-pos="&#91;&quot;=&quot;,1&#93;"><td class="tt-jah" lang="ja"><div class="poem"><big><big>あとがき</big></big></div></td><td class="tt-zhh" lang="zh"><div class="poem"><big><big>后记</big></big></div></td></tr></tbody></table>
 
 
+
 ## ZUN的后记
 - 本章节于书中页数：第318页。
 
 
 <table><tbody><tr class="tt-content" id="ZUN的后记-1" data-pos="&#91;&quot;ZUN\u7684\u540e\u8bb0&quot;,1&#93;"><td class="tt-ja" lang="ja"><div class="poem">　どうもZUNです。スポットのフレーバーテキストを描きました。情報を並べた設定資料というよりは、その場所の空気感を感じられるようなテキストになるように注意して書きました。TRPGのシナリオを楽しんで作れるような感じになっているといいな、と思っています。<br><br>　TRPGというと、遥か昔（30年以上前）に色々やってたのですが、その頃よりもシステム的に進化していて、遊びやすくなっているもんですね。東方のキャラに成りきって遊ぶというのは中々恥ずかしいものもありますが、キャラの性格に引きずられてシナリオが面白い方に進むのは新鮮でした。<br>　どうもおっさん世代には、名前も自画像も性格から何まで、一からキャラメイクして、キャラメイクが終わったときにはもうお腹いっぱい……、なんてイメージがあるんですがね（笑）。遊びやすく進化してたんですねぇ。<br><br>　あと、キャラのセリフ例も書きました。セリフに困ったらこれを使ってください、みたいのを用意して……、て言われたんですが、殆どのセリフ、どんな場面で使えば良いのか判りませんね。何ならどんな場面で発した台詞なのかも全く判りません（笑）。ま、気にせず好きにロールプレイしてくださいね。<br><br>　それでは、TRPG初心者の方も上級者の方も楽しんで下さいね。</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-content-right" id="ZUN的后记-2" data-pos="&#91;&quot;ZUN\u7684\u540e\u8bb0&quot;,2&#93;"><td class="tt-jar" lang="ja"><div class="poem">ZUN</div></td><td class="tt-zhr" lang="zh"><div class="poem">ZUN</div></td></tr></tbody></table>
+
 
 
 ## 中西咏介／冒险企划局的后记

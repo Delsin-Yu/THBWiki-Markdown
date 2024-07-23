@@ -164,6 +164,7 @@
 [](./文件-THD2比那名居天子.png.md)
   
 
+
 ## 目录
 
 - [1 角色定位](#角色定位)
@@ -184,10 +185,12 @@
 
 
 
+
 ## 角色定位
   
 先手 - 控制 - 辅助 - 耐久
   
+
 
 ## 技能介绍
 
@@ -783,6 +786,7 @@
 </td></tr></tbody></table>
 
 
+
 ## 天赋树
 
 
@@ -821,6 +825,7 @@
 </td></tr></tbody></table>
 
 
+
 ### 出门装备
 ```
 [](./文件-THD2思兼生命药.png.md) [](./文件-THD2雾雨魔力瓶.png.md) [](./文件-THD2雾雨魔力瓶.png.md) [](./文件-THD2西尔芙灵纹.png.md) [](./文件-THD2爱人卡.png.md) [](./文件-THD2好人卡.png.md)
@@ -846,6 +851,7 @@
 
 - 天子分为核心与辅助两种玩法，核心玩法需要一定的发育时间，鉴于大部分新手并不清楚打钱节奏，这里只介绍目前版本的辅助玩法
 
+
 ### 前期装备
 ```
 [](./文件-THD2冰精跳跃装置.png.md) [](./文件-THD2博丽御币.png.md) [](./文件-THD2侦查守卫.png.md) [](./文件-THD2岗哨守卫.png.md) [](./文件-THD2贤者之石.png.md)
@@ -858,6 +864,7 @@
   
 基本玩法就是和队友打架，一技能[](./文件-THD2比那名居天子_01.png.md)在缺乏先手能力时可以用来先手，有更好的先手情况下可以拿来补控制时间，也可以反蹲救收线的队友，大招[](./文件-THD2比那名居天子_04.png.md)用来关键时刻查看对手位置，全图补充伤害，在队友伤害不足对方丝血逃跑时及时击杀对方。
   
+
 
 ### 核心装备
 ```
@@ -879,10 +886,12 @@
 - 一技能[](./文件-THD2比那名居天子_01.png.md)在你需要保人的时候未必拿来开团更好，捏住关键时刻限制对方突脸也是一种选择
 - 需要注意的是，万宝槌技能的100%减伤会被[](./文件-THD2光龙雷云钻.png.md)驱散
 
+
 ### 可选装备
   
 [](./文件-THD2七曜魔女斗篷.png.md) [](./文件-THD2奇迹之星.png.md) [](./文件-THD2油库里之杖.png.md) [](./文件-THD2花之领主阳伞.png.md) [](./文件-THD2思兼生命智慧.png.md) [](./文件-THD2鬼神镣铐.png.md) [](./文件-THD2花毒的连衣裙.png.md) [](./文件-THD2魔人经卷.png.md) [](./文件-THD2碎骨笛.png.md) [](./文件-THD2灾厄之主人形.png.md)
   
+
 
 ## 技能加点
 
@@ -944,6 +953,7 @@
 <td><a href="./文件-DOTA黄点.png.md" class="image" title="+2 全属性"><img alt="+2 全属性" src="https://upload.thwiki.cc/thumb/d/da/DOTA%E9%BB%84%E7%82%B9.png/40px-DOTA%E9%BB%84%E7%82%B9.png" decoding="async" loading="lazy" width="40" height="40" srcset="https://upload.thwiki.cc/thumb/d/da/DOTA%E9%BB%84%E7%82%B9.png/60px-DOTA%E9%BB%84%E7%82%B9.png 1.5x, https://upload.thwiki.cc/thumb/d/da/DOTA%E9%BB%84%E7%82%B9.png/80px-DOTA%E9%BB%84%E7%82%B9.png 2x" data-file-width="128" data-file-height="128"></a></td>
 <td><a href="./文件-THD2天赋树25左.png.md" class="image" title="30% 冷却时间减少"><img alt="30% 冷却时间减少" src="https://upload.thwiki.cc/thumb/a/aa/THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%B7%A6.png/40px-THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%B7%A6.png" decoding="async" loading="lazy" width="40" height="40" srcset="https://upload.thwiki.cc/thumb/a/aa/THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%B7%A6.png/60px-THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%B7%A6.png 1.5x, https://upload.thwiki.cc/thumb/a/aa/THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%B7%A6.png/80px-THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%B7%A6.png 2x" data-file-width="103" data-file-height="103"></a>
 </td></tr></tbody></table>
+
 
 
 ## 台词
@@ -1027,6 +1037,7 @@
 
 基本是固定的加点R→Q→W→E，一技能[](./文件-THD2比那名居天子_01.png.md)先手配合非指向性技能在线上能打出不错的效果，线上对拼较多可以多带回蓝或者直接出御币
   
+
 
 ## 教学视频
   

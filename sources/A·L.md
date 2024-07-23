@@ -4,7 +4,8 @@
 
 A·L ，主要制作 同人志 的日本同人社团，主催是 殿様，当前状态为 休止
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -20,17 +21,21 @@ A·L ，主要制作 同人志 的日本同人社团，主催是 殿様，当前
 
 
 
+
 ## 社团信息
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> A·L </td></tr><tr><td><b>主要作品类型</b></td><td>同人志</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=%E6%AE%BF%E6%A7%98&amp;action=edit&amp;redlink=1" class="new" title="殿様（页面不存在）">殿様</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://46200.blog115.fc2.com/">http://46200.blog115.fc2.com/</a> <br><a rel="nofollow" class="external free" href="http://tonosa.hp.infoseek.co.jp/altop.htm">http://tonosa.hp.infoseek.co.jp/altop.htm</a> （旧官网）<span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><small>（<a rel="nofollow" class="external text" href="https://web.archive.org/web/20090205012157/http://tonosa.hp.infoseek.co.jp/altop.htm">缓存页面</a>）</small></td></tr></tbody></table>
 
 A·L（同人社团，同人志社团） - A·L ，主要制作 同人志 的日本同人社团，主催是 殿様，当前状态为 休止
+
 ## 成员名单
 - 殿様 (未找到链接) (f.k.a.  **との** )
 
 : [Twitter: @cea46200](https://twitter.com/cea46200), [Pixiv ID: 5120](https://www.pixiv.net/users/5120)
 
+
 ## 作品列表
+
 ### 同人志
 五十歩百歩 封面图片 (未找到链接)五十歩百歩 (未找到链接)首发日期：未知 - 八雲家の食卓 封面图片 (未找到链接)八雲家の食卓 (未找到链接)首发日期：未知 - HELLSING? 封面图片 (未找到链接)HELLSING? (未找到链接)首发日期：未知 - アルコール度数16% 封面图片 (未找到链接)アルコール度数16% (未找到链接)首发日期：未知 - 災厄祭 封面图片 (未找到链接)災厄祭 (未找到链接)首发日期：未知 - B·C 封面图片 (未找到链接)B·C (未找到链接)首发日期：未知 - 逝く年来る年 封面图片 (未找到链接)逝く年来る年 (未找到链接)首发日期：未知 - 仕置きの時間 封面图片 (未找到链接)仕置きの時間 (未找到链接)首发日期：未知 - 必襲事項 封面图片 (未找到链接)必襲事項 (未找到链接)首发日期：未知 - 趣味の強制園芸 封面图片 (未找到链接)趣味の強制園芸 (未找到链接)首发日期：未知 - 死亡遊戯 封面图片 (未找到链接)死亡遊戯 (未找到链接)首发日期：未知 - トレスしないで! 封面图片 (未找到链接)トレスしないで! (未找到链接)首发日期：未知 - Dirty Bunny 封面图片 (未找到链接)Dirty Bunny (未找到链接)首发日期：未知 - コピー&amp;ペースト 封面图片 (未找到链接)コピー&amp;ペースト (未找到链接)首发日期：未知 - めしたきばばあ 封面图片 (未找到链接)めしたきばばあ (未找到链接)首发日期：未知 - 信じる者はバカを見る（2007） 封面图片 (未找到链接)信じる者はバカを見る（2007） (未找到链接)首发日期：未知 - ふたり馬鹿 封面图片 (未找到链接)ふたり馬鹿 (未找到链接)首发日期：未知 - あるべき姿へ 封面图片 (未找到链接)あるべき姿へ (未找到链接)首发日期：未知 - 冬の寒さと体面と 封面图片 (未找到链接)冬の寒さと体面と (未找到链接)首发日期：未知 - GP 封面图片 (未找到链接)GP (未找到链接)首发日期：未知 - あれが悪例だ 封面图片 (未找到链接)あれが悪例だ (未找到链接)首发日期：未知 - 信じる者はバカを見る（2008） 封面图片 (未找到链接)信じる者はバカを見る（2008） (未找到链接)首发日期：未知 - 新参ホイホイ 封面图片 (未找到链接)新参ホイホイ (未找到链接)首发日期：未知 - 犯人はヤ○ 封面图片 (未找到链接)犯人はヤ○ (未找到链接)首发日期：未知 - てめえの許可がいるのかよ 封面图片 (未找到链接)てめえの許可がいるのかよ (未找到链接)首发日期：未知 - GP02 封面图片 (未找到链接)GP02 (未找到链接)首发日期：未知 - からかさ! 封面图片 (未找到链接)からかさ! (未找到链接)首发日期：未知 - 赤だの青だの 封面图片 (未找到链接)赤だの青だの (未找到链接)首发日期：未知 - 聖☆おねえさん 封面图片 (未找到链接)聖☆おねえさん（A·L） (未找到链接)首发日期：未知 - ここ掘れわんわん 封面图片 (未找到链接)ここ掘れわんわん (未找到链接)首发日期：未知 - 契約更改 封面图片 (未找到链接)契約更改 (未找到链接)首发日期：未知 - BORDER BREAK 封面图片 (未找到链接)BORDER BREAK (未找到链接)首发日期：未知 - 聖☆おねえさん2 封面图片 (未找到链接)聖☆おねえさん2 (未找到链接)首发日期：未知 - 聖☆おねえさん3 封面图片 (未找到链接)聖☆おねえさん3 (未找到链接)首发日期：未知 - Poor&amp;Violence with Belief 封面图片 (未找到链接)Poor&amp;Violence with Belief (未找到链接)首发日期：未知 - 官製談合お食事券 封面图片 (未找到链接)官製談合お食事券 (未找到链接)首发日期：未知 - SWITCH! 封面图片 (未找到链接)SWITCH! (未找到链接)首发日期：未知 - KISS MY ASS 封面图片 (未找到链接)KISS MY ASS (未找到链接)首发日期：未知 - 赤いきつねと緑のたぬき 封面图片 (未找到链接)赤いきつねと緑のたぬき (未找到链接)首发日期：未知 - [](./藪を突付けば蛇が出る.md)[藪を突付けば蛇が出る](./藪を突付けば蛇が出る.md)首发日期：2012-05-27 （第九回 博麗神社例大祭 (未找到链接)）漫画 （一般向）[](./馬小屋よりはまだマシだ.md)[馬小屋よりはまだマシだ](./馬小屋よりはまだマシだ.md)首发日期：2012-08-11 （Comic Market 82 (未找到链接)）漫画 （一般向）[](./コタツ_灼熱地獄たち.md)[コタツ 灼熱地獄たち](./コタツ_灼熱地獄たち.md)首发日期：2012-12-30 （Comic Market 83 (未找到链接)）漫画 （一般向）[](./仮初の胸.md)[仮初の胸](./仮初の胸.md)首发日期：2013-05-26 （第十回 博麗神社例大祭 (未找到链接)）漫画 （一般向）[](./君が見た希望.md)[君が見た希望](./君が見た希望.md)首发日期：2013-08-12 （Comic Market 84 (未找到链接)）漫画 （一般向）[](./HIT_POINT.md)[HIT POINT](./HIT_POINT.md)首发日期：2013-12-30 （Comic Market 85 (未找到链接)）漫画 （一般向）[](./Revengers.md)[Revengers](./Revengers.md)首发日期：2014-05-11 （第十一回 博麗神社例大祭 (未找到链接)）漫画 （一般向）[](./あなたの街のべんりやさん.md)[あなたの街のべんりやさん](./あなたの街のべんりやさん.md)首发日期：2014-12-29 （Comic Market 87 (未找到链接)）漫画 （一般向）お菓子はそんなに甘くない 封面图片 (未找到链接)お菓子はそんなに甘くない (未找到链接)首发日期：未知 - [](./チョット本気出してみようか.md)[チョット本気出してみようか](./チョット本気出してみようか.md)首发日期：2015-12-30 （Comic Market 89 (未找到链接)）漫画 （一般向）
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -91,6 +96,7 @@ A·L（同人社团，同人志社团） - A·L ，主要制作 同人志 的日
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 参展信息

@@ -4,6 +4,7 @@
 
 さくらんぼ亭 | 社团LOGO
 
+
 ## 摘要
   
 源地址：[direct image link](https://light-of-moe.ddo.jp/~skrtei/img/banner.png), [source page](https://light-of-moe.ddo.jp/~skrtei/info.php)

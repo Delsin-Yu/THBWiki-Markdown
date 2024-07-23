@@ -6,6 +6,7 @@ JynX作曲 | 埴轮相扑_～_End_of_immolation | 引用了翻译表的页面 | 
 
 本页是关于 **向[东方Project](./东方Project.md)  
 致敬、形式类似的作品** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -28,6 +29,7 @@ JynX作曲 | 埴轮相扑_～_End_of_immolation | 引用了翻译表的页面 | 
 
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
+
 
 
 
@@ -59,6 +61,7 @@ JynX作曲 | 埴轮相扑_～_End_of_immolation | 引用了翻译表的页面 | 
 </td></tr></tbody></table>
 
 
+
 ## 出现作品
 
 <table>
@@ -68,10 +71,13 @@ JynX作曲 | 埴轮相扑_～_End_of_immolation | 引用了翻译表的页面 | 
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 连缘蛇丛剑
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>MIDI格式</b></td><td>无播放信息</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-le02_11.mp3.md" title="文件:le02 11.mp3">le02_11.mp3</a><br><audio src="https://upload.thwiki.cc/2/25/le02_11.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>未填写</td></tr></tbody></table>
+
 
 
 ### 连缘天影战记
@@ -79,7 +85,9 @@ JynX作曲 | 埴轮相扑_～_End_of_immolation | 引用了翻译表的页面 | 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>MIDI格式</b></td><td>无播放信息</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-le04_BOSS_Sukune.mp3.md" title="文件:le04 BOSS Sukune.mp3">le04_BOSS_Sukune.mp3</a><br><audio src="https://upload.thwiki.cc/b/b9/le04_BOSS_Sukune.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>未填写</td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 连缘蛇丛剑
 - Music Room (未找到链接)
 
@@ -91,6 +99,7 @@ JynX作曲 | 埴轮相扑_～_End_of_immolation | 引用了翻译表的页面 | 
 话说回来，我也很喜欢宿祢这样的角色，特别是埴轮这方面。  
 史前的东西难道不浪漫吗？因为只能靠想象啊。  
 埴轮什么的最喜欢了。改天想自己做一个。
+
 ### 连缘天影战记
 - Music Room (未找到链接)
 
@@ -105,8 +114,11 @@ JynX作曲 | 埴轮相扑_～_End_of_immolation | 引用了翻译表的页面 | 
 虽然有趣的并不是弹幕部分  
   
 超人合金究极埴轮，Super Haniwa！
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
 - 埴轮
   - [片野宿祢](./片野宿祢.md)原型为野见宿祢，他提出使用埴轮代替人来殉葬，被认为是埴轮的创造者。

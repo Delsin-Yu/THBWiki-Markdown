@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Scarlet_Chronicle_Requiem封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/8/81/Scarlet_Chronicle_Requiem%E5%B0%81%E9%9D%A2.jpg/140px-Scarlet_Chronicle_Requiem%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="140" height="196" srcset="https://upload.thwiki.cc/thumb/8/81/Scarlet_Chronicle_Requiem%E5%B0%81%E9%9D%A2.jpg/210px-Scarlet_Chronicle_Requiem%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/8/81/Scarlet_Chronicle_Requiem%E5%B0%81%E9%9D%A2.jpg/280px-Scarlet_Chronicle_Requiem%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="322" data-file-height="450"></a><div class="cover-char">角色：<a href="./小恶魔.md" title="小恶魔">小恶魔</a>，<a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a>，<a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a></div></td>
@@ -18,11 +19,13 @@ Scarlet Chronicle Requiem（同人志，すいはんじゃー，2019） - 2019�
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=622841">蜜瓜</a></td></tr></tbody></table>
 
 
+
 ## Staff
 作者
 : キィ （[すいはんじゃー](./すいはんじゃー.md)）
 封面，插画
 : 雪 （[ぽぽぽ](./ぽぽぽ.md)）
+
 
 ## 评论
 

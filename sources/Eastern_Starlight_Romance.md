@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 软件信息](#软件信息)
@@ -13,6 +14,7 @@
 - [3 内容页面](#内容页面)
 - [4 评论](#评论)
 - [5 下载](#下载)
+
 
 
 
@@ -34,6 +36,7 @@ Eastern Starlight Romance（同人游戏，Dai-Sukima Dan，2011） - 2011年7�
 <table>
 <tbody><tr><th colspan="2">配置需求</th></tr>
 </tbody></table>
+
 
 
 ## Staff
@@ -60,12 +63,15 @@ Eastern Starlight Romance（同人游戏，Dai-Sukima Dan，2011） - 2011年7�
 游戏类型
 : 文字冒险类
 
+
 ## 内容页面
 - [游戏设定与剧情](./Eastern_Starlight_Romance-设定与剧情.md)
 - 攻略 (未找到链接)
 - [其他信息](./Eastern_Starlight_Romance-杂项.md)
 
+
 ## 评论
+
 ## 下载
   
 请注意：  

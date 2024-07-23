@@ -18,6 +18,7 @@
 
 
 </center>
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-ORIENT_vol.4_Unconnected_Marketeers.封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/c/c5/ORIENT_vol.4_Unconnected_Marketeers.%E5%B0%81%E9%9D%A2.jpg/99px-ORIENT_vol.4_Unconnected_Marketeers.%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="99" height="140" srcset="https://upload.thwiki.cc/thumb/c/c5/ORIENT_vol.4_Unconnected_Marketeers.%E5%B0%81%E9%9D%A2.jpg/149px-ORIENT_vol.4_Unconnected_Marketeers.%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/c/c5/ORIENT_vol.4_Unconnected_Marketeers.%E5%B0%81%E9%9D%A2.jpg/198px-ORIENT_vol.4_Unconnected_Marketeers.%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="2508" data-file-height="3541"></a><div class="cover-char">角色：<a href="./豪德寺三花.md" title="豪德寺三花">豪德寺三花</a></div></td>
@@ -26,11 +27,13 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/maru_ya/status/1448242809106882565">https://twitter.com/maru_ya/status/1448242809106882565</a></td></tr></tbody></table>
 
 ORIENT vol.4 Unconnected Marketeers.（同人志，まっとかん。，2021） - 2021年10月24日 由 まっとかん。 于 博丽神社秋季例大祭8 发布的画集同人志，登场人物有 豪德寺三花、河城荷取、山城高岭、天弓千亦，分级为 一般向
+
 ## Staff
 绘画
 : マール （[まっとかん。](./まっとかん。.md)）
 : あきかん。 （[Twitter: @Ikuranokanzume](https://twitter.com/Ikuranokanzume)）
 : P.rat （[Twitter: @prat_rat](https://twitter.com/prat_rat)）
+
 
 ## 评论
 

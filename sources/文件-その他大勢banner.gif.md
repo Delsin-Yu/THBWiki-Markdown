@@ -4,6 +4,7 @@
 
 その他大勢 | 社团LOGO
 
+
 ## 摘要
   
 源地址：[direct image link](https://web.archive.org/web/20181119123253im_/http://soz.noob.jp/bn.gif), [source page](https://web.archive.org/web/20191228143938/http://soz.noob.jp/about.html)

@@ -4,7 +4,8 @@
 
 Alice in the hole! ，于 2012 年成立，主要制作 同人音乐 的日本同人社团，主催是 ワザマっち，当前状态为 休止
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -20,6 +21,7 @@ Alice in the hole! ，于 2012 年成立，主要制作 同人音乐 的日本�
 
 
 
+
 ## 社团信息
 [](./文件-Alice_in_the_hole!banner.png.md)  [](./文件-Alice_in_the_hole!banner.png.md)banner
 [](./文件-Alice_in_the_hole!logo.jpg.md)  [](./文件-Alice_in_the_hole!logo.jpg.md)logo
@@ -27,10 +29,13 @@ Alice in the hole! ，于 2012 年成立，主要制作 同人音乐 的日本�
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Alice in the hole! </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2012</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=%E3%83%AF%E3%82%B6%E3%83%9E%E3%81%A3%E3%81%A1&amp;action=edit&amp;redlink=1" class="new" title="ワザマっち（页面不存在）">ワザマっち</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="https://aith.booth.pm/">https://aith.booth.pm/</a> <br><a rel="nofollow" class="external free" href="https://wazama.bandcamp.com/">https://wazama.bandcamp.com/</a><br><a rel="nofollow" class="external free" href="http://wazama.xsrv.jp">http://wazama.xsrv.jp</a> <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><br><a rel="nofollow" class="external free" href="http://aith.ninja-x.jp/">http://aith.ninja-x.jp/</a> <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span></td></tr></tbody></table>
 
 Alice in the hole!（同人社团，同人音乐社团） - Alice in the hole! ，于 2012 年成立，主要制作 同人音乐 的日本同人社团，主催是 ワザマっち，当前状态为 休止
+
 ## 成员名单
 - ワザマ： （[Twitter](https://twitter.com/a_i_t_h) [SoundCloud](https://soundcloud.com/wazamasan) [Niconico](http://www.nicovideo.jp/user/289575/)）
 
+
 ## 作品列表
+
 ### 同人专辑
 実際安い 封面图片 (未找到链接)[実際安い](./実際安い.md)首发日期：2012-07-01 （遊音ファンタジウム1 (未找到链接)）EP （一般向）[](./Perpetual_Burn.md)[Perpetual Burn](./Perpetual_Burn.md)首发日期：2012-10-28 （M3-2012秋 (未找到链接)）AITH-0003全长 （一般向）[](./Storm_Bringer（Alice_in_the_hole!）.md)[Storm Bringer](./Storm_Bringer（Alice_in_the_hole!）.md)首发日期：2012-12-30 （Comic Market 83 (未找到链接)）EP （一般向）[](./Spiritualized_Steel.md)[Spiritualized Steel](./Spiritualized_Steel.md)首发日期：2013-04-29 （M3-2013春 (未找到链接)）EP （一般向）[](./T.F.C.md)[T.F.C](./T.F.C.md)首发日期：2013-05-26 （第十回 博麗神社例大祭 (未找到链接)）单曲 （一般向）[](./Quadrophenia_Pt.1.md)[Quadrophenia Pt.1](./Quadrophenia_Pt.1.md)首发日期：2013-08-12 （Comic Market 84 (未找到链接)）EP （一般向）Now Painting 封面图片 (未找到链接)Now Painting (未找到链接)首发日期：未知 - [](./Quadrophenia_Pt.2.md)[Quadrophenia Pt.2](./Quadrophenia_Pt.2.md)首发日期：2013-12-30 （Comic Market 85 (未找到链接)）EP （一般向）[](./Alice_in_the_hole!（同人专辑）.md)[Alice in the hole!](./Alice_in_the_hole!（同人专辑）.md)首发日期：2014-05-11 （第十一回 博麗神社例大祭 (未找到链接)）精选集 （一般向）[](./東方宴会鬼～神社で格闘ドンジャラホイ～.md)[東方宴会鬼～神社で格闘ドンジャラホイ～](./東方宴会鬼～神社で格闘ドンジャラホイ～.md)首发日期：2014-11-24 （第一回 博麗神社秋季例大祭 (未找到链接)）全长 （一般向）Oracle.ver0.3 封面图片 (未找到链接)Oracle.ver0.3 (未找到链接)首发日期：未知 - 
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -53,6 +58,7 @@ Alice in the hole!（同人社团，同人音乐社团） - Alice in the hole! �
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458"></table>
+
 
 
 ## 参展信息

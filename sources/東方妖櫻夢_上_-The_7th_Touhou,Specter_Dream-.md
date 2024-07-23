@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-東方妖櫻夢_上_-The_7th_Touhou,Specter_Dream-封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/5/50/%E6%9D%B1%E6%96%B9%E5%A6%96%E6%AB%BB%E5%A4%A2_%E4%B8%8A_-The_7th_Touhou%2CSpecter_Dream-%E5%B0%81%E9%9D%A2.jpg/139px-%E6%9D%B1%E6%96%B9%E5%A6%96%E6%AB%BB%E5%A4%A2_%E4%B8%8A_-The_7th_Touhou%2CSpecter_Dream-%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="139" height="196" srcset="https://upload.thwiki.cc/thumb/5/50/%E6%9D%B1%E6%96%B9%E5%A6%96%E6%AB%BB%E5%A4%A2_%E4%B8%8A_-The_7th_Touhou%2CSpecter_Dream-%E5%B0%81%E9%9D%A2.jpg/208px-%E6%9D%B1%E6%96%B9%E5%A6%96%E6%AB%BB%E5%A4%A2_%E4%B8%8A_-The_7th_Touhou%2CSpecter_Dream-%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/5/50/%E6%9D%B1%E6%96%B9%E5%A6%96%E6%AB%BB%E5%A4%A2_%E4%B8%8A_-The_7th_Touhou%2CSpecter_Dream-%E5%B0%81%E9%9D%A2.jpg/277px-%E6%9D%B1%E6%96%B9%E5%A6%96%E6%AB%BB%E5%A4%A2_%E4%B8%8A_-The_7th_Touhou%2CSpecter_Dream-%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="787" data-file-height="1112"></a><div class="cover-char">角色：<a href="./魂魄妖梦.md" title="魂魄妖梦">魂魄妖梦</a>，<a href="./西行寺幽幽子.md" title="西行寺幽幽子">西行寺幽幽子</a></div></td>
@@ -14,9 +15,12 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://90idream.blog.fc2.com/blog-entry-42.html">http://90idream.blog.fc2.com/blog-entry-42.html</a><br><span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><small>（<a rel="nofollow" class="external text" href="https://web.archive.org/web/20131008121705/http://90idream.blog.fc2.com/blog-entry-42.html">缓存页面</a>）</small></td></tr></tbody></table>
 
 東方妖櫻夢 上 -The 7th Touhou,Specter Dream-（同人志，久夢界，2012） - 2012年7月28日 由 久夢界 于 Fancy Frontier20 发布的画集同人志，B5尺寸一共28页，分级为 一般向
+
 ## 预览
+
 ## Staff
 - 九十i (未找到链接)
+
 
 ## 评论
 

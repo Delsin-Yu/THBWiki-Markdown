@@ -23,6 +23,7 @@
 </center>
 - 本词条内容为官方游戏TH15 **东方绀珠传** 的敌机符卡
 
+
 ## 目录
 
 - [1 清兰](#清兰)
@@ -59,6 +60,7 @@
 
 
 # 清兰
+
 ## 凶弹「Speed Strike」
 
 <table>
@@ -77,6 +79,7 @@
 </th></tr></tbody></table>
 
 
+
 ### 符卡信息
 
 <table>
@@ -88,6 +91,7 @@
 <p>1面BOSS清兰 Hard / Lunatic难度符卡。
 </p>
 </td></tr></tbody></table>
+
 
 
 
@@ -109,6 +113,7 @@
 </th></tr></tbody></table>
 
 
+
 ### 符卡信息
 
 <table>
@@ -120,6 +125,7 @@
 <p>1面BOSS清兰Easy / Normal / Hard难度符卡。
 </p>
 </td></tr></tbody></table>
+
 
 
 
@@ -141,6 +147,7 @@
 </th></tr></tbody></table>
 
 
+
 ### 符卡信息
 
 <table>
@@ -152,6 +159,7 @@
 <p>1面BOSS清兰Lunatic难度符卡。
 </p>
 </td></tr></tbody></table>
+
 
 
 
@@ -171,6 +179,7 @@
 <p><a href="./Lunatic_Gun.md" title="Lunatic Gun" unred="">铳符「Lunatic Gun」</a>
 </p>
 </th></tr></tbody></table>
+
 
 
 ### 符卡信息

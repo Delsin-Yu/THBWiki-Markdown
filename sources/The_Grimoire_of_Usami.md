@@ -5,6 +5,7 @@
 由ZUN原作的官方Fanbook。
 
 本页是关于东方Project **[官方书籍](./官方出版物.md)** 的词条
+
 ## 目录
 
 - [1 概述](#概述)
@@ -17,6 +18,7 @@
 - [8 外部链接](#外部链接)
 - [9 注释](#注释)
 - [10 词条导航](#词条导航)
+
 
 
 
@@ -44,8 +46,7 @@
 
 
   
-<big> **The Grimoire of Usami 秘封俱乐部异界摄影记录**   
-</big>
+<big> **The Grimoire of Usami 秘封俱乐部异界摄影记录** </big>
 The Grimoire of Usami 秘封倶楽部異界撮影記録<small>（ザ　グリモワール　オブ　ウサミ　ひふうクラブいかいさつえいきろく， *The Grimoire of Usami* ，宇佐见的魔法书）</small>  
 
 本书是东方Project的官方Fanbook，由ZUN编写，使用角色[宇佐见堇子](./宇佐见堇子.md)的视角介绍幻想乡内角色们的符卡等内容。  
@@ -60,9 +61,10 @@ The Grimoire of Usami 秘封倶楽部異界撮影記録<small>（ザ　グリモ
 </tr>
 <tr>
 <td style="width:140px"><b>出版方</b></td><td style="min-width:300px">角川集团</td>
-</tr><tr><td><b>单行本出版社</b></td><td>角川集团</td></tr><tr><td><b>文字</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><td><b>封面</b></td><td><a href="./哑采弦二.md" title="哑采弦二">哑采弦二</a></td></tr><tr><td><b>插画</b></td><td><a href="./べにしゃけ.md" title="べにしゃけ">べにしゃけ</a></td></tr><tr><td><b>漫画</b></td><td><a href="/azmaya" class="mw-redirect" title="azmaya">azmaya</a></td></tr><tr><td><b>类型</b></td><td>插画设定集</td></tr></tbody></table>
+</tr><tr><td><b>单行本出版社</b></td><td>角川集团</td></tr><tr><td><b>文字</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><td><b>封面</b></td><td><a href="./哑采弦二.md" title="哑采弦二">哑采弦二</a></td></tr><tr><td><b>插画</b></td><td><a href="./べにしゃけ.md" title="べにしゃけ">べにしゃけ</a></td></tr><tr><td><b>漫画</b></td><td><a href="./azmaya.md" class="mw-redirect" title="azmaya">azmaya</a></td></tr><tr><td><b>类型</b></td><td>插画设定集</td></tr></tbody></table>
 
 The Grimoire of Usami（官方书籍） - 由ZUN原作的官方Fanbook。
+
 ## 预览版本
   
  **预览版本由[东方外来韦编 Strange Creators of Outer World. 2018 Autumn!](./东方外来韦编.md)附赠。** 包含由[あずまあや](./あずまあや.md)负责绘制的剧情漫画，及分别由[雾雨魔理沙](./雾雨魔理沙.md)、[多多良小伞](./多多良小伞.md)、[幽谷响子](./幽谷响子.md)、[爱塔妮缇拉尔瓦](./爱塔妮缇拉尔瓦.md)使用的一张符卡的介绍。
@@ -70,6 +72,7 @@ The Grimoire of Usami（官方书籍） - 由ZUN原作的官方Fanbook。
 
 - [预览漫画](https://bbs.nyasama.com/forum.php?mod=viewthread&amp;tid=158537)
 - [预览版本](./The_Grimoire_of_Usami-预览.md)
+
 
 ## 官方宣传词
   
@@ -84,6 +87,7 @@ The Grimoire of Usami（官方书籍） - 由ZUN原作的官方Fanbook。
 
 东方Project的作者ZUN先生亲笔撰写全书，粉丝必备的一本！
   
+
 
 ## 官方宣传PV
   
@@ -105,6 +109,7 @@ The Grimoire of Usami（官方书籍） - 由ZUN原作的官方Fanbook。
 
 - [Youtube](https://www.youtube.com/watch?v=7SqAEfxhf24) （需要翻墙）
 - [小此木的推特说明](https://twitter.com/_nyogi/status/1122063129347629057) （已经失效）<small>（[页面存档](http://web.archive.org/web/20190616142225/https://twitter.com/_nyogi/status/1122063129347629057)）</small>
+
 
 ## 目录
 - 封面
@@ -209,6 +214,7 @@ The Grimoire of Usami（官方书籍） - 由ZUN原作的官方Fanbook。
 - 第160页：版权页
 - 封底
 
+
 ## 附带漫画文字版
 
 <table>
@@ -228,13 +234,16 @@ The Grimoire of Usami（官方书籍） - 由ZUN原作的官方Fanbook。
 </tbody></table>
 
 
+
 ## 其他
 - 单行本设计 (未找到链接)
 - 其他相关信息 (未找到链接)
 - 考据与分析 (未找到链接)
 
+
 ## 外部链接
 - [书籍勘误](http://moeoh.dengeki.com/archives/11042)
+
 
 
 ## 词条导航

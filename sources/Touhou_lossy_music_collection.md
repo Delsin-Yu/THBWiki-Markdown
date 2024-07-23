@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 软件信息](#软件信息)
@@ -22,6 +23,7 @@
 
 
 
+
 ## 软件信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2">无封面</td>
@@ -29,6 +31,7 @@
 </tr><tr><td class="label">首发日期</td><td>2008-08-16</td></tr><tr><td class="label">类型</td><td>实用工具</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">运行平台</td><td>通用</td></tr><tr><td class="label">语言</td><td>英文</td></tr><tr><td class="label">售价</td><td>免费<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">1</a></sup></td></tr></tbody></table>
 
 Touhou lossy music collection（同人软件，rwx，2008） - 2008年8月16日 由 rwx  发布的实用工具软件，可在 通用 系统上运行，分级为 一般向
+
 ## 简介
   
 <big> **东方有损音乐合集** </big><small>（英文：Touhou lossy music collection）</small>
@@ -40,6 +43,7 @@ Touhou lossy music collection（同人软件，rwx，2008） - 2008年8月16日 
 
 此种子的制作是自由的，任何人也可以制作并发布自己的版本。同时此种子的制作也不是任何特定人士的责任，所以更新时间不可预测。唯一可以确定的是，此种子更新必定会在 **神种** 更新之后。
   
+
 
 ## 制作者
   
@@ -62,10 +66,12 @@ Touhou lossy music collection（同人软件，rwx，2008） - 2008年8月16日 
 
   
 
+
 ## 常见误会
   
 此系列种子全称为Touhou lossy music collection，与原版无损种子Touhou lossless music collection相差只有几个字母。如果不仔细看或是不知道有lossy版的存在的话，很容易会把lossy当成了lossless，即使是中文翻译也是只相差一个字。另外两个种子系列名称的英语缩写都是“TLMC”，也是造成误会的原因之一。
   
+
 
 ## 版本资讯
   
@@ -296,6 +302,7 @@ Touhou lossy music collection（同人软件，rwx，2008） - 2008年8月16日 
 </tbody></table>
 
 
+
 ## 内容说明
 - 基本和无损版相同，只是TTA文件均经过分轨和压缩。  
   
@@ -312,12 +319,15 @@ Touhou lossy music collection（同人软件，rwx，2008） - 2008年8月16日 
 [Dark PHOENiX]/2009.12.30 Arrow Realize [C77]/Dark PHOENiX - クリスタライズシルバー.mp3
 
 
+
 ## 收录文件列表
   
 基本和无损版相同，只是TTA文件均经过分轨和压缩，列表大概可以参照Touhou lossless music collection#收录文件列表 (未找到链接)
   
 
+
 ## 评论
+
 ## 下载
   
 请注意：  

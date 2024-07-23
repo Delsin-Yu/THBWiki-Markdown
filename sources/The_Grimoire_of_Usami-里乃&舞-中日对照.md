@@ -12,7 +12,7 @@ The_Grimoire_of_Usami | 丁礼田舞 | 使用了翻译表的页面 | 宇佐见�
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./The_Grimoire_of_Usami-尔子田里乃-中日对照.md" title="The Grimoire of Usami/尔子田里乃/中日对照">尔子田里乃</a>&#160;
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="/%E5%AE%87%E4%BD%90%E8%A7%81%E7%9A%84%E9%AD%94%E6%B3%95%E4%B9%A6" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a>&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="./宇佐见的魔法书.md" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a>&#160;
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">&#160;<a href="./The_Grimoire_of_Usami-摩多罗隐岐奈-中日对照.md" title="The Grimoire of Usami/摩多罗隐岐奈/中日对照">摩多罗隐岐奈</a>
 </td>
@@ -25,7 +25,7 @@ The_Grimoire_of_Usami | 丁礼田舞 | 使用了翻译表的页面 | 宇佐见�
 - 翻译：奈良津茂野
 
 
-<table><tbody><tr class="tt-content-header" id="=-1" data-pos="&#91;&quot;=&quot;,1&#93;"><td class="tt-jah" lang="ja"><div class="poem">狂舞「狂乱天狗怖吓」</div></td><td class="tt-zhh" lang="zh"><div class="poem"><a href="/%E7%8B%82%E8%88%9E%E3%80%8C%E7%8B%82%E4%B9%B1%E5%A4%A9%E7%8B%97%E6%80%96%E5%90%93%E3%80%8D" class="mw-redirect" title="狂舞「狂乱天狗怖吓」">狂舞「狂乱天狗怖吓」</a></div></td></tr><tr class="tt-content" id="=-2" data-pos="&#91;&quot;=&quot;,2&#93;"><td class="tt-ja" lang="ja"><div class="poem">使用者：里乃&amp;舞</div></td><td class="tt-zh" lang="zh"><div class="poem">使用者：<a href="./尔子田里乃.md" title="尔子田里乃">里乃</a>&amp;<a href="./丁礼田舞.md" title="丁礼田舞">舞</a></div></td></tr><tr class="tt-content" id="=-3" data-pos="&#91;&quot;=&quot;,3&#93;"><td class="tt-ja" lang="ja"><div class="poem">竹のように<br>真っ直ぐ狂う舞とー？<br>茗荷のように<br>爽やかに狂う里乃！<br>そんな二人は<br><big>クレイジーダンサーズ！<br>評価<br>よろしくね！</big></div></td><td class="tt-zh" lang="zh"><div class="poem">如同竖竹一般<br>笔直发狂的舞和——？<br>如同茗荷一般<br>飒爽发狂的里乃！<br>这两位就是<br><big>疯狂的舞者！<br>请进行<br>评价！</big></div></td></tr><tr class="tt-header" id="=-4" data-pos="&#91;&quot;=&quot;,4&#93;"><td colspan="2" id="摩多罗隐岐奈" class="tt-header" lang="zh"><div class="poem">摩多罗隐岐奈</div></td></tr><tr class="tt-content" id="=-5" data-pos="&#91;&quot;=&quot;,5&#93;"><td class="tt-ja" lang="ja"><div class="poem">おお、意外と良いかも知れない。弾幕はまだまだだが、頭は狂っているのかもしれん。</div></td><td class="tt-zh" lang="zh"><div class="poem">噢噢，这搞不好还意外的有些看头。弹幕虽然还差得远，但脑袋多半是真疯了。</div></td></tr><tr class="tt-header" id="=-6" data-pos="&#91;&quot;=&quot;,6&#93;"><td colspan="2" id="八云紫" class="tt-header" lang="zh"><div class="poem">八云紫</div></td></tr><tr class="tt-content" id="=-7" data-pos="&#91;&quot;=&quot;,7&#93;"><td class="tt-ja" lang="ja"><div class="poem">彼女達、人間と妖怪の狭間にいるわね。私がその境界を決めてやろうかな。私って親切だわ。</div></td><td class="tt-zh" lang="zh"><div class="poem">她们俩，算是身处介于人类和妖怪的缝隙当中。我要不要就划分一下那两者的界线呢。我可真是亲切。</div></td></tr><tr class="tt-header" id="=-8" data-pos="&#91;&quot;=&quot;,8&#93;"><td colspan="2" id="宇佐见堇子" class="tt-header" lang="zh"><div class="poem">宇佐见堇子</div></td></tr><tr class="tt-content" id="=-9" data-pos="&#91;&quot;=&quot;,9&#93;"><td class="tt-ja" lang="ja"><div class="poem">緑と紫がなんとも言えない独特な色彩感覚になっていて、キモカワイイ感じです。</div></td><td class="tt-zh" lang="zh"><div class="poem">这又绿又紫的色彩搭配有种让人哑口无言的独特感，真是怪恶心萌的。</div></td></tr></tbody></table>
+<table><tbody><tr class="tt-content-header" id="=-1" data-pos="&#91;&quot;=&quot;,1&#93;"><td class="tt-jah" lang="ja"><div class="poem">狂舞「狂乱天狗怖吓」</div></td><td class="tt-zhh" lang="zh"><div class="poem"><a href="./狂舞「狂乱天狗怖吓」.md" class="mw-redirect" title="狂舞「狂乱天狗怖吓」">狂舞「狂乱天狗怖吓」</a></div></td></tr><tr class="tt-content" id="=-2" data-pos="&#91;&quot;=&quot;,2&#93;"><td class="tt-ja" lang="ja"><div class="poem">使用者：里乃&amp;舞</div></td><td class="tt-zh" lang="zh"><div class="poem">使用者：<a href="./尔子田里乃.md" title="尔子田里乃">里乃</a>&amp;<a href="./丁礼田舞.md" title="丁礼田舞">舞</a></div></td></tr><tr class="tt-content" id="=-3" data-pos="&#91;&quot;=&quot;,3&#93;"><td class="tt-ja" lang="ja"><div class="poem">竹のように<br>真っ直ぐ狂う舞とー？<br>茗荷のように<br>爽やかに狂う里乃！<br>そんな二人は<br><big>クレイジーダンサーズ！<br>評価<br>よろしくね！</big></div></td><td class="tt-zh" lang="zh"><div class="poem">如同竖竹一般<br>笔直发狂的舞和——？<br>如同茗荷一般<br>飒爽发狂的里乃！<br>这两位就是<br><big>疯狂的舞者！<br>请进行<br>评价！</big></div></td></tr><tr class="tt-header" id="=-4" data-pos="&#91;&quot;=&quot;,4&#93;"><td colspan="2" id="摩多罗隐岐奈" class="tt-header" lang="zh"><div class="poem">摩多罗隐岐奈</div></td></tr><tr class="tt-content" id="=-5" data-pos="&#91;&quot;=&quot;,5&#93;"><td class="tt-ja" lang="ja"><div class="poem">おお、意外と良いかも知れない。弾幕はまだまだだが、頭は狂っているのかもしれん。</div></td><td class="tt-zh" lang="zh"><div class="poem">噢噢，这搞不好还意外的有些看头。弹幕虽然还差得远，但脑袋多半是真疯了。</div></td></tr><tr class="tt-header" id="=-6" data-pos="&#91;&quot;=&quot;,6&#93;"><td colspan="2" id="八云紫" class="tt-header" lang="zh"><div class="poem">八云紫</div></td></tr><tr class="tt-content" id="=-7" data-pos="&#91;&quot;=&quot;,7&#93;"><td class="tt-ja" lang="ja"><div class="poem">彼女達、人間と妖怪の狭間にいるわね。私がその境界を決めてやろうかな。私って親切だわ。</div></td><td class="tt-zh" lang="zh"><div class="poem">她们俩，算是身处介于人类和妖怪的缝隙当中。我要不要就划分一下那两者的界线呢。我可真是亲切。</div></td></tr><tr class="tt-header" id="=-8" data-pos="&#91;&quot;=&quot;,8&#93;"><td colspan="2" id="宇佐见堇子" class="tt-header" lang="zh"><div class="poem">宇佐见堇子</div></td></tr><tr class="tt-content" id="=-9" data-pos="&#91;&quot;=&quot;,9&#93;"><td class="tt-ja" lang="ja"><div class="poem">緑と紫がなんとも言えない独特な色彩感覚になっていて、キモカワイイ感じです。</div></td><td class="tt-zh" lang="zh"><div class="poem">这又绿又紫的色彩搭配有种让人哑口无言的独特感，真是怪恶心萌的。</div></td></tr></tbody></table>
 
 
 <center>
@@ -36,7 +36,7 @@ The_Grimoire_of_Usami | 丁礼田舞 | 使用了翻译表的页面 | 宇佐见�
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./The_Grimoire_of_Usami-尔子田里乃-中日对照.md" title="The Grimoire of Usami/尔子田里乃/中日对照">尔子田里乃</a>&#160;
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="/%E5%AE%87%E4%BD%90%E8%A7%81%E7%9A%84%E9%AD%94%E6%B3%95%E4%B9%A6" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a>&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="./宇佐见的魔法书.md" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a>&#160;
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">&#160;<a href="./The_Grimoire_of_Usami-摩多罗隐岐奈-中日对照.md" title="The Grimoire of Usami/摩多罗隐岐奈/中日对照">摩多罗隐岐奈</a>
 </td>
@@ -45,6 +45,7 @@ The_Grimoire_of_Usami | 丁礼田舞 | 使用了翻译表的页面 | 宇佐见�
 
   
 </center>
+
 
 ## 词条导航
   

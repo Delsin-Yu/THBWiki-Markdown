@@ -4,7 +4,8 @@
 
 COM僧.com ，主要制作 同人志 的日本同人社团，主催是 ジェット虚無僧，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -20,15 +21,19 @@ COM僧.com ，主要制作 同人志 的日本同人社团，主催是 ジェッ
 
 
 
+
 ## 社团信息
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> COM僧.com </td></tr><tr><td><b>主要作品类型</b></td><td>同人志</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88%E8%99%9A%E7%84%A1%E5%83%A7&amp;action=edit&amp;redlink=1" class="new" title="ジェット虚無僧（页面不存在）">ジェット虚無僧</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr></tbody></table>
 
 COM僧.com（同人社团，同人志社团） - COM僧.com ，主要制作 同人志 的日本同人社团，主催是 ジェット虚無僧，当前状态为 活动
+
 ## 成员名单
 - ジェット虚無僧 (未找到链接)
 
+
 ## 作品列表
+
 ### 同人志
 4コマLIVE幻想郷!1 封面图片 (未找到链接)4コマLIVE幻想郷!1 (未找到链接)首发日期：未知 - [](./4コマLIVE幻想郷2.md)[4コマLIVE幻想郷2](./4コマLIVE幻想郷2.md)首发日期：2016-05-08 （第十三回 博麗神社例大祭 (未找到链接)）漫画 （一般向）B5&#160;尺寸 22&#160;页四コマLIVE幻想郷3 封面图片 (未找到链接)四コマLIVE幻想郷3 (未找到链接)首发日期：未知 - 四コマLIVE幻想郷4 封面图片 (未找到链接)四コマLIVE幻想郷4 (未找到链接)首发日期：未知 - 四コマLIVE幻想郷5 封面图片 (未找到链接)四コマLIVE幻想郷5 (未找到链接)首发日期：未知 - 四コマLIVE幻想郷6 封面图片 (未找到链接)四コマLIVE幻想郷6 (未找到链接)首发日期：未知 - 四コマLIVE幻想郷7 封面图片 (未找到链接)四コマLIVE幻想郷7 (未找到链接)首发日期：未知 - [](./四コマLIVE幻想郷8.md)[四コマLIVE幻想郷8](./四コマLIVE幻想郷8.md)首发日期：2017-12-29 （Comic Market 93 (未找到链接)）漫画 （一般向）B5&#160;尺寸 20&#160;页[](./四コマLIVE幻想郷9.md)[四コマLIVE幻想郷9](./四コマLIVE幻想郷9.md)首发日期：2018-05-06 （第十五回 博麗神社例大祭 (未找到链接)）漫画 （一般向）B5&#160;尺寸 20&#160;页[](./四コマLIVE幻想郷10.md)[四コマLIVE幻想郷10](./四コマLIVE幻想郷10.md)首发日期：2018-08-10 （Comic Market 94 (未找到链接)）漫画 （一般向）B5&#160;尺寸 20&#160;页[](./4コマLIVE幻想郷11.md)[4コマLIVE幻想郷11](./4コマLIVE幻想郷11.md)首发日期：2018-12-30 （Comic Market 95 (未找到链接)）漫画 （一般向）B5&#160;尺寸 22&#160;页
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -47,6 +52,7 @@ COM僧.com（同人社团，同人志社团） - COM僧.com ，主要制作 同�
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 其他信息

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 软件信息](#软件信息)
@@ -13,6 +14,7 @@
 - [3 内容页面](#内容页面)
 - [4 评论](#评论)
 - [5 词条导航](#词条导航)
+
 
 
 
@@ -37,6 +39,7 @@ Immortality Paradox（同人游戏，EasternMouse，2023） - 2023年9月4日 �
 </tbody></table>
 
 
+
 ## Staff
 Project Manager
 : [EasternMouse](./EasternMouse.md)
@@ -53,13 +56,16 @@ Music
 Game Testing &amp; Special Thanks
 : 3rdTrumpet
 
+
 ## 内容页面
 - 游戏设定与剧情 (未找到链接)
 - 攻略 (未找到链接)
 - 其他信息 (未找到链接)
 - 原声集：[Immortality Paradox - Official OST](./Immortality_Paradox_-_Official_OST.md)
 
+
 ## 评论
+
 ## 词条导航
   
 Immortality Paradox/导航 (未找到链接)

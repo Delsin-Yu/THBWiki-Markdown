@@ -4,7 +4,8 @@
 
 Windbreaker ，于 2010 年成立，主要制作 同人音乐 的日本同人社团，主催是 もりげん，当前状态为 休止
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -15,13 +16,16 @@ Windbreaker ，于 2010 年成立，主要制作 同人音乐 的日本同人社
 
 
 
+
 ## 社团信息
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Windbreaker </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2010</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=%E3%82%82%E3%82%8A%E3%81%92%E3%82%93&amp;action=edit&amp;redlink=1" class="new" title="もりげん（页面不存在）">もりげん</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://profile.ameba.jp/windbreaker-dkmn/">http://profile.ameba.jp/windbreaker-dkmn/</a> </td></tr></tbody></table>
 
 Windbreaker（同人社团，同人音乐社团） - Windbreaker ，于 2010 年成立，主要制作 同人音乐 的日本同人社团，主催是 もりげん，当前状态为 休止
+
 ## 成员名单
 - もりげん (未找到链接)
+
 
 ## 作品列表
 [](./あーやややや_やややぁ！.md)[あーやややや やややぁ！](./あーやややや_やややぁ！.md)首发日期：2010-05-16 （第四回東方崇敬祭 (未找到链接)）全长 （一般向）[](./f(x)=うにゅ.md)[f(x)=うにゅ](./f(x)=うにゅ.md)首发日期：2010-08-14 （Comic Market 78 (未找到链接)）EP （一般向）[](./ずもももももも_もみじです！.md)[ずもももももも もみじです！](./ずもももももも_もみじです！.md)首发日期：2010-08-14 （Comic Market 78 (未找到链接)）全长 （一般向）[](./スカーレットおくだけ.md)[スカーレットおくだけ](./スカーレットおくだけ.md)首发日期：2010-10-11 （東方紅楼夢6 (未找到链接)）全长 （一般向）[](./Second_Stage.md)[Second Stage](./Second_Stage.md)首发日期：2011-01-23 （東方絢文禄 尾張の卷 第三弾 (未找到链接)）全长 （一般向）
@@ -35,6 +39,7 @@ Windbreaker（同人社团，同人音乐社团） - Windbreaker ，于 2010 年
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 其他信息

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Ears_Gazing_On封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/c/ce/Ears_Gazing_On%E5%B0%81%E9%9D%A2.jpg/139px-Ears_Gazing_On%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="139" height="196" srcset="https://upload.thwiki.cc/thumb/c/ce/Ears_Gazing_On%E5%B0%81%E9%9D%A2.jpg/208px-Ears_Gazing_On%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/c/ce/Ears_Gazing_On%E5%B0%81%E9%9D%A2.jpg/277px-Ears_Gazing_On%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1254" data-file-height="1771"></a><div class="cover-char">角色：<a href="./秦心.md" title="秦心">秦心</a>，<a href="./丰聪耳神子.md" title="丰聪耳神子">丰聪耳神子</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/59424619">https://www.pixiv.net/artworks/59424619</a></td></tr></tbody></table>
 
 Ears Gazing On（同人志，AZUKI SHOT，2016） - 2016年10月16日 由 AZUKI SHOT 于 博丽神社秋季例大祭3 发布的漫画同人志，B5尺寸一共50页，分级为 一般向
+
 ## Staff
 : [アズキ](./azuki.md)
+
 
 ## 评论
 

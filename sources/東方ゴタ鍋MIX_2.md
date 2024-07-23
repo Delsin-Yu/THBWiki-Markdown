@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-東方ゴタ鍋MIX_2封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/8/8f/%E6%9D%B1%E6%96%B9%E3%82%B4%E3%82%BF%E9%8D%8BMIX_2%E5%B0%81%E9%9D%A2.jpg/142px-%E6%9D%B1%E6%96%B9%E3%82%B4%E3%82%BF%E9%8D%8BMIX_2%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="142" height="196" srcset="https://upload.thwiki.cc/thumb/8/8f/%E6%9D%B1%E6%96%B9%E3%82%B4%E3%82%BF%E9%8D%8BMIX_2%E5%B0%81%E9%9D%A2.jpg/214px-%E6%9D%B1%E6%96%B9%E3%82%B4%E3%82%BF%E9%8D%8BMIX_2%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/8/8f/%E6%9D%B1%E6%96%B9%E3%82%B4%E3%82%BF%E9%8D%8BMIX_2%E5%B0%81%E9%9D%A2.jpg/285px-%E6%9D%B1%E6%96%B9%E3%82%B4%E3%82%BF%E9%8D%8BMIX_2%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="654" data-file-height="900"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>，<a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a>，<a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a>，<a href="/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C" title="十六夜咲夜">十六夜咲夜</a>，<a href="./露米娅.md" title="露米娅">露米娅</a>，<a href="./因幡帝.md" title="因幡帝">因幡天为</a></div></td>
@@ -18,8 +19,10 @@
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=26013">蜜瓜</a></td></tr></tbody></table>
 
 
+
 ## Staff
 - [ノヤマコト](./ノヤマコト.md)
+
 
 ## 评论
 

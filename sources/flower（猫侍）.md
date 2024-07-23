@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-flower（猫侍）封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/e/ee/flower%EF%BC%88%E7%8C%AB%E4%BE%8D%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/224px-flower%EF%BC%88%E7%8C%AB%E4%BE%8D%EF%BC%89%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="223" srcset="https://upload.thwiki.cc/thumb/e/ee/flower%EF%BC%88%E7%8C%AB%E4%BE%8D%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/336px-flower%EF%BC%88%E7%8C%AB%E4%BE%8D%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/e/ee/flower%EF%BC%88%E7%8C%AB%E4%BE%8D%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="384" data-file-height="382"></a><div class="cover-char">角色：<a href="/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C" title="十六夜咲夜">十六夜咲夜</a></div></td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://tohonekosamurai.web.fc2.com/disco.html">http://tohonekosamurai.web.fc2.com/disco.html</a></td></tr></tbody></table>
 
 flower（同人专辑，猫侍，2009） - 2009年3月8日 由 猫侍 于 博丽神社例大祭6 发布的单曲同人专辑，分级为 一般向
+
 ## Staff
   
  **Arrangement**   
@@ -31,14 +33,17 @@ Design
 Illustration
 : 画师 （[网址 社团]）
 
+
 ## 试听
   
 暂不支援此类型
   
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoRD"><b>01</b></td><td id="flower" colspan="2" class="title"><span class="new" title="（歌词页面不存在）"><a href="/index.php?title=%E6%AD%8C%E8%AF%8D:flower&amp;boilerplate=模板:页面模板/曲目歌词&amp;action=edit">flower</a></span><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=猫侍&amp;vocal=あさの&amp;ogmusic=フラワリングナイト&amp;fromwiki=flower（猫侍）"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:52</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./猫侍.md" title="猫侍">猫侍</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，猫侍&amp;fromwiki=flower（猫侍）"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="/index.php?title=%E3%81%82%E3%81%95%E3%81%AE&amp;action=edit&amp;redlink=1" class="new" title="あさの（页面不存在）">あさの</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=あさの&amp;fromwiki=flower（猫侍）"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=フラワリングナイト&amp;fromwiki=flower（猫侍）"><span></span></a></span><div class="ogmusic"><a href="/%E3%83%95%E3%83%A9%E3%83%AF%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%8A%E3%82%A4%E3%83%88" class="mw-redirect" title="フラワリングナイト">フラワリングナイト</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E8%8A%B1%E6%98%A0%E5%A1%9A_%EF%BD%9E_Phantasmagoria_of_Flower_View." class="mw-redirect" title="东方花映塚 ～ Phantasmagoria of Flower View.">东方花映塚　～ Phantasmagoria of Flower View.</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoRD"><b>01</b></td><td id="flower" colspan="2" class="title"><span class="new" title="（歌词页面不存在）"><a href="/index.php?title=%E6%AD%8C%E8%AF%8D:flower&amp;boilerplate=模板:页面模板/曲目歌词&amp;action=edit">flower</a></span><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=猫侍&amp;vocal=あさの&amp;ogmusic=フラワリングナイト&amp;fromwiki=flower（猫侍）"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:52</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./猫侍.md" title="猫侍">猫侍</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，猫侍&amp;fromwiki=flower（猫侍）"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="/index.php?title=%E3%81%82%E3%81%95%E3%81%AE&amp;action=edit&amp;redlink=1" class="new" title="あさの（页面不存在）">あさの</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=あさの&amp;fromwiki=flower（猫侍）"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=フラワリングナイト&amp;fromwiki=flower（猫侍）"><span></span></a></span><div class="ogmusic"><a href="./フラワリングナイト.md" class="mw-redirect" title="フラワリングナイト">フラワリングナイト</a></div><div class="source"><a href="./东方花映塚_～_Phantasmagoria_of_Flower_View..md" class="mw-redirect" title="东方花映塚 ～ Phantasmagoria of Flower View.">东方花映塚　～ Phantasmagoria of Flower View.</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

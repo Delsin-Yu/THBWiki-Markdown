@@ -6,11 +6,13 @@
 
 本页是关于东方Project  
  **二次同人创作者** 的词条
+
 ## 基本信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="label"><b>名称</b></td><td> A' </td></tr><tr><td class="label"><b>真实名</b></td><td>酒井亮</td></tr><tr><td class="label"><b>别名</b></td><td>A-dash</td></tr><tr><td class="label"><b>所属社团</b></td><td><b>当前</b><div style="margin-left:2em;"><a href="/index.php?title=ANastasia&amp;action=edit&amp;redlink=1" class="new" title="ANastasia（页面不存在）">ANastasia</a></div><b>过往</b><div style="margin-left:2em;"><a href="/index.php?title=StudioA%27&amp;action=edit&amp;redlink=1" class="new" title="StudioA&#39;（页面不存在）">StudioA'</a></div></td></tr><tr><td class="label"><b>职位</b></td><td>编曲，演奏</td></tr><tr><td class="label"><b>性别</b></td><td>男</td></tr><tr><td class="label"><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://www.a-dash.net/">http://www.a-dash.net/</a><span< td=""></span<></td></tr><tr><td class="label"><b>个人页面</b></td><td><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><b>Blog</b></td><td><a rel="nofollow" class="external free" href="https://ameblo.jp/adash1/">https://ameblo.jp/adash1/</a></td></tr><tr><td><b>Twitter</b></td><td><a rel="nofollow" class="external free" href="https://twitter.com/a_sakai0309">https://twitter.com/a_sakai0309</a></td></tr><tr><td><b>Facebook</b></td><td><a rel="nofollow" class="external free" href="https://www.facebook.com/profile.php?id=100033374282307">https://www.facebook.com/profile.php?id=100033374282307</a></td></tr><tr><td><b>Email</b></td><td>adash000111@ki.gmobb.jp</td></tr><tr><td><b>Youtube</b></td><td><a rel="nofollow" class="external free" href="https://www.youtube.com/@A-dash-andante-wind">https://www.youtube.com/@A-dash-andante-wind</a></td></tr></tbody></table></td></tr></tbody></table>
 
 A'（人物） - 现实人物
+
 ## 介绍
   
 A-dash，同人社团Studio A’主催，2001年开始活动。
@@ -28,11 +30,14 @@ Studio A’解散后，他同原先社团中的吉他手Namihei创建了ANastasi
 目前不再参与同人活动，转为线下Live。
   
 
+
 ## 参与作品
+
 ### 同人音乐
   
 模板:人物曲目列表 (未找到链接)
   
+
 
 ## 人际关系
 

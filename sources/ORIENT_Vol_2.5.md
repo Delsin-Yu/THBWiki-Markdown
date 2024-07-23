@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=ORIENT_Vol_2.5%E5%B0%81%E9%9D%A2.jpg" class="new" title="文件:ORIENT Vol 2.5封面.jpg">封面图片</a><div class="cover-char">角色：<a href="./梅蒂欣·梅兰可莉.md" title="梅蒂欣·梅兰可莉">梅蒂欣·梅兰可莉</a>，<a href="./物部布都.md" title="物部布都">物部布都</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/maru_ya/status/1286482788099567616">https://twitter.com/maru_ya/status/1286482788099567616</a></td></tr></tbody></table>
 
 ORIENT Vol 2.5（同人志，まっとかん。，2020） - 2020年7月24日 由 まっとかん。 于 新潟东方祭21 发布的画集同人志，分级为 一般向
+
 ## Staff
 - マール (未找到链接)
+
 
 ## 评论
 

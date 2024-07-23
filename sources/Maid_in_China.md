@@ -4,7 +4,8 @@
 
 Maid in China ，于 2006 年成立，主要制作 同人志 的香港同人社团，主催是 Yo，当前状态为 休止
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -21,12 +22,14 @@ Maid in China ，于 2006 年成立，主要制作 同人志 的香港同人社�
 
 
 
+
 ## 社团信息
 文件:Maid in Chinalogo.png (未找到链接)  logo
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Maid in China </td></tr><tr><td><b>主要作品类型</b></td><td>同人志</td></tr><tr><td><b>成立时间</b></td><td>2006</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=Yo&amp;action=edit&amp;redlink=1" class="new" title="Yo（页面不存在）">Yo</a> </td></tr><tr><td><b>地区</b></td><td>香港</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://maidinchina.cc/">http://maidinchina.cc/</a> <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><small>（<a rel="nofollow" class="external text" href="https://web.archive.org/web/20090414104454/http://maidinchina.cc/">缓存页面</a>）</small><br><a rel="nofollow" class="external free" href="http://blog.yam.com/maidinchina">http://blog.yam.com/maidinchina</a> （旧官网）<span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><small>（<a rel="nofollow" class="external text" href="https://web.archive.org/web/20130907121015/http://blog.yam.com/maidinchina">缓存页面</a>）</small><br><a rel="nofollow" class="external free" href="http://blog.qooza.hk/maidinchina">http://blog.qooza.hk/maidinchina</a></td></tr></tbody></table>
 
 Maid in China（同人社团，同人志社团） - Maid in China ，于 2006 年成立，主要制作 同人志 的香港同人社团，主催是 Yo，当前状态为 休止
+
 ## 成员名单
 - Yo (未找到链接) (a.k.a. yo-chaosangel)
 
@@ -36,7 +39,9 @@ Maid in China（同人社团，同人志社团） - Maid in China ，于 2006 �
 
 : [DeviantArt: billy-bluelight](https://www.deviantart.com/billy-bluelight)
 
+
 ## 作品列表
+
 ### 同人志
 [](./東方咲華戦_~Sakuya_Combat_Butler~.md)[東方咲華戦 ~Sakuya Combat Butler~](./東方咲華戦_~Sakuya_Combat_Butler~.md)首发日期：2007-08-26 （Comic World HK24 (未找到链接)）漫画 （一般向）B5&#160;尺寸 24&#160;页[](./Touhou_Mecha_Girl_Series_Beta.md)[Touhou Mecha Girl Series Beta](./Touhou_Mecha_Girl_Series_Beta.md)首发日期：2007-12-30 （Rainbow Gala1 (未找到链接)）画集 （一般向）B5&#160;尺寸 [Mecha Girl Touhou Series](./Mecha_Girl_Touhou_Series.md)首发日期：2008-02-10 （Comic World HK25 (未找到链接)）画集 （一般向）B5&#160;尺寸 20&#160;页[](./Touhou_Maid_Girls_Series.md)[Touhou Maid Girls Series](./Touhou_Maid_Girls_Series.md)首发日期：2008-07-26 （Fancy Frontier 12 (未找到链接)）画集 （一般向）B5&#160;尺寸 20&#160;页東方炎夏劇 封面图片 (未找到链接)[東方炎夏劇](./東方炎夏劇（同人志）.md)首发日期：2008-08-24 （Comic World HK26 (未找到链接)）漫画、​画集 （一般向）该作品是与 [F.M](./F.M.md) 合作创作的[广播剧](./東方炎夏劇（同人专辑）.md)[](./東方天地變.md)[東方天地變](./東方天地變.md)首发日期：2008-12-28 （Rainbow Gala2 (未找到链接)）画集 （一般向）B5&#160;尺寸 20&#160;页[](./東方幻機娘.md)[東方幻機娘](./東方幻機娘.md)首发日期：2009-08-22 （Comic World HK28 (未找到链接)）画集 （一般向） (未找到链接)絆 (未找到链接)首发日期：未知 - 
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -56,7 +61,9 @@ Maid in China（同人社团，同人志社团） - Maid in China ，于 2006 �
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458"></table>
 
 
+
 ## 参展信息
+
 ## 相关社团
 Brio
 :  **Yo** 的个人社团。

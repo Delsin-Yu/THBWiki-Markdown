@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Touhou_illusions封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/0/0f/Touhou_illusions%E5%B0%81%E9%9D%A2.jpg/252px-Touhou_illusions%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="252" srcset="https://upload.thwiki.cc/thumb/0/0f/Touhou_illusions%E5%B0%81%E9%9D%A2.jpg/378px-Touhou_illusions%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/0/0f/Touhou_illusions%E5%B0%81%E9%9D%A2.jpg/504px-Touhou_illusions%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="717" data-file-height="716"></a><div class="cover-char">角色：<a href="/index.php?title=%E5%8E%9F%E5%88%9B%E8%A7%92%E8%89%B2&amp;action=edit&amp;redlink=1" class="new" title="原创角色（页面不存在）">原创角色</a></div></td>
@@ -18,6 +19,7 @@ Touhou illusions（同人专辑，Meteoroid，2022） - 2022年7月8日 由 Mete
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.dizzylab.net/d/seoger-1">dizzylab</a></td></tr></tbody></table>
 
 
+
 ## Staff
   
  **Arrangement**   
@@ -25,9 +27,11 @@ Touhou illusions（同人专辑，Meteoroid，2022） - 2022年7月8日 由 Mete
 <table><tbody><tr><td><a href="/index.php?title=SEOGER&amp;action=edit&amp;redlink=1" class="new" title="SEOGER（页面不存在）">SEOGER</a></td><td><a href="./Meteoroid.md" title="Meteoroid" unred="">Meteoroid（同人社团）</a></td><td>Tr.1</td></tr></tbody></table>
 
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Touhou_illusions" colspan="2" class="title">Touhou illusions<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=SEOGER&amp;ogmusic=デザイアドライブ&amp;fromwiki=Touhou_illusions"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:28</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=SEOGER&amp;action=edit&amp;redlink=1" class="new" title="SEOGER（页面不存在）">SEOGER</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，SEOGER&amp;fromwiki=Touhou_illusions"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=デザイアドライブ&amp;fromwiki=Touhou_illusions"><span></span></a></span><div class="ogmusic"><a href="/%E3%83%87%E3%82%B6%E3%82%A4%E3%82%A2%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96" class="mw-redirect" title="デザイアドライブ">デザイアドライブ</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E7%A5%9E%E7%81%B5%E5%BA%99_%EF%BD%9E_Ten_Desires." class="mw-redirect" title="东方神灵庙 ～ Ten Desires.">东方神灵庙　～ Ten Desires.</a></div></td></tr><tr><td class="left"></td><td class="label">曲风</td><td class="text" colspan="2">House，Dance（complextro, neurohop）</td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Touhou_illusions" colspan="2" class="title">Touhou illusions<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=SEOGER&amp;ogmusic=デザイアドライブ&amp;fromwiki=Touhou_illusions"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:28</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=SEOGER&amp;action=edit&amp;redlink=1" class="new" title="SEOGER（页面不存在）">SEOGER</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，SEOGER&amp;fromwiki=Touhou_illusions"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=デザイアドライブ&amp;fromwiki=Touhou_illusions"><span></span></a></span><div class="ogmusic"><a href="./デザイアドライブ.md" class="mw-redirect" title="デザイアドライブ">デザイアドライブ</a></div><div class="source"><a href="./东方神灵庙_～_Ten_Desires..md" class="mw-redirect" title="东方神灵庙 ～ Ten Desires.">东方神灵庙　～ Ten Desires.</a></div></td></tr><tr><td class="left"></td><td class="label">曲风</td><td class="text" colspan="2">House，Dance（complextro, neurohop）</td></tr></tbody></table>
+
 
 
 ## 评论

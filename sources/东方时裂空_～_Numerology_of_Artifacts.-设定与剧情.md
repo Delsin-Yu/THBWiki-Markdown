@@ -4,6 +4,7 @@
 
 顺毛犬制作组
 
+
 ## 目录
 
 - [1 附带文档](#附带文档)
@@ -14,12 +15,15 @@
 
 
 
+
 ## 附带文档
 - [omake](./东方时裂空_～_Numerology_of_Artifacts.-设定与剧情-omake.md)
 - [游戏内manual](./东方时裂空_～_Numerology_of_Artifacts.-设定与剧情-manual.md)
 
+
 ## 故事背景
 - [故事背景](./东方时裂空_～_Numerology_of_Artifacts.-设定与剧情-故事背景.md)
+
 
 ## 游戏对话
 - [博丽灵梦 游戏对话/结局](./东方时裂空_～_Numerology_of_Artifacts.-设定与剧情-博丽灵梦.md)
@@ -38,6 +42,7 @@
   
 具体的故事背景与游戏剧情请参照上面的词条或到游戏中亲自体验。
   
+
 
 ## 词条导航
   

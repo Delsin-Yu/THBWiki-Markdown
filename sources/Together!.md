@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Together!封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/9/9e/Together%21%E5%B0%81%E9%9D%A2.jpg/143px-Together%21%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="143" height="196" srcset="https://upload.thwiki.cc/thumb/9/9e/Together%21%E5%B0%81%E9%9D%A2.jpg/215px-Together%21%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/9/9e/Together%21%E5%B0%81%E9%9D%A2.jpg/287px-Together%21%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="546" data-file-height="746"></a><div class="cover-char">角色：<a href="./物部布都.md" title="物部布都">物部布都</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/49826896">https://www.pixiv.net/artworks/49826896</a></td></tr></tbody></table>
 
 Together!（同人志，有袋類X，2015） - 2015年4月19日 由 有袋類X 于 东方名华祭9 发布的漫画同人志，B5尺寸一共64页，分级为 一般向
+
 ## Staff
 : 史甫美 (未找到链接)
+
 
 ## 评论
 

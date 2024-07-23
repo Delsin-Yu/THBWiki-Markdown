@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-MORTAL_ENEMY封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/f/fe/MORTAL_ENEMY%E5%B0%81%E9%9D%A2.jpg/196px-MORTAL_ENEMY%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="196" height="135" srcset="https://upload.thwiki.cc/thumb/f/fe/MORTAL_ENEMY%E5%B0%81%E9%9D%A2.jpg/294px-MORTAL_ENEMY%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/f/fe/MORTAL_ENEMY%E5%B0%81%E9%9D%A2.jpg/392px-MORTAL_ENEMY%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1200" data-file-height="829"></a><div class="cover-char">角色：<a href="./纯狐.md" title="纯狐">纯狐</a>，<a href="./稀神探女.md" title="稀神探女">稀神探女</a>，<a href="./丰聪耳神子.md" title="丰聪耳神子">丰聪耳神子</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/58278906">https://www.pixiv.net/artworks/58278906</a></td></tr></tbody></table>
 
 MORTAL ENEMY（同人志，カカオ加工場，2016） - 2016年8月13日 由 カカオ加工場 于 Comic Market 90 发布的漫画同人志，B5尺寸一共50页，分级为 一般向
+
 ## Staff
 : かかお (未找到链接)
+
 
 ## 评论
 

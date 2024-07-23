@@ -4,6 +4,7 @@
 
 弹幕天邪鬼
 
+
 ## 目录
 
 - [1 概述](#概述)
@@ -26,11 +27,11 @@
 
 
 
+
 ## 概述
 [](./文件-弹幕天邪鬼_Gold_Rush标题画面.png.md)  [](./文件-弹幕天邪鬼_Gold_Rush标题画面.png.md)弹幕天邪鬼 Gold Rush标题画面
   
-<big> **弹幕天邪鬼 Gold Rush 数游博得分挑战专用游戏**   
-</big>
+<big> **弹幕天邪鬼 Gold Rush 数游博得分挑战专用游戏** </big>
 弾幕アマノジャク　ゴールドラッシュ デジゲー博スコアアタック専用ゲーム<small>（だんまくあまのじゃく， *Danmaku Amanojaku* ）</small>  
 
 弹幕天邪鬼 Gold Rush是ZUN于2014年11月15日公开信息并在2014年11月16日的[数码游戏博览会2014](./数码游戏博览会.md)上公开提供给游客试玩的弹幕天邪鬼额外关卡，非卖品。  
@@ -40,6 +41,7 @@
 这是得到了第10种犯规道具的天邪鬼破坏犯规风格弹幕的游戏。游戏的难度低、时间短，是专用于得分挑战的。[博丽神主Twitter]
 
   
+
 
 
 ## 游戏内容
@@ -53,6 +55,7 @@ Gold Rush关卡多出了第10种道具 **万宝槌（本体）** （ *打ち出�
   
 
   
+
 
 
 ### 场景标题
@@ -73,10 +76,13 @@ Gold Rush关卡多出了第10种道具 **万宝槌（本体）** （ *打ち出�
 </td></tr></tbody></table>
 
 
+
 ### 登场角色
+
 #### 自机
 
 <table><tbody><tr><td style="min-width:40px;" rowspan=""><div class="center"><div class="floatnone"><a href="./文件-鬼人正邪（天邪鬼GR像素绘）.png.md" class="image" title="鬼人正邪"><img alt="鬼人正邪" src="https://upload.thwiki.cc/thumb/0/0c/%E9%AC%BC%E4%BA%BA%E6%AD%A3%E9%82%AA%EF%BC%88%E5%A4%A9%E9%82%AA%E9%AC%BCGR%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png/21px-%E9%AC%BC%E4%BA%BA%E6%AD%A3%E9%82%AA%EF%BC%88%E5%A4%A9%E9%82%AA%E9%AC%BCGR%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="21" height="40" srcset="https://upload.thwiki.cc/0/0c/%E9%AC%BC%E4%BA%BA%E6%AD%A3%E9%82%AA%EF%BC%88%E5%A4%A9%E9%82%AA%E9%AC%BCGR%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png 1.5x" data-file-width="22" data-file-height="41"></a></div></div></td> <td style="width:150px;padding:3px 9px 3px 7px;" rowspan=""><a href="./鬼人正邪.md" title="鬼人正邪">鬼人正邪</a></td></tr></tbody></table>
+
 
 
 #### BOSS
@@ -103,6 +109,7 @@ Gold Rush关卡多出了第10种道具 **万宝槌（本体）** （ *打ち出�
 <td>「だんまく長者」</td>
 <td><a href="./弹幕富翁.md" title="弹幕富翁" unred="">「弹幕富翁」</a>
 </td></tr></tbody></table>
+
 
 
 

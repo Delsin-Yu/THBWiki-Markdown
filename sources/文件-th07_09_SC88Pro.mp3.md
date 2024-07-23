@@ -4,6 +4,7 @@
 
 东方妖妖梦 | 幽灵乐团_～_Phantom_Ensemble
 
+
 ## 文件说明
   
 幽霊楽団　～ Phantom Ensemble 东方妖妖梦4面Bossルナサ・プリズムリバー、メルラン・プリズムリバー和リリカ・プリズムリバー的主题曲MIDI版。由Roland Sound Canvas 88Pro实机录制；MP3采样率44.1KHz，码率192Kbps。  

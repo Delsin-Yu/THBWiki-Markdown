@@ -9,6 +9,7 @@
 
   
 
+
 ## 目录
 
 - [1 官方勘误](#官方勘误)
@@ -40,13 +41,17 @@
 
 
 
+
 ## 官方勘误
+
 ### 关于配图及原文中的记载错误的道歉和订正
 
 <table><tbody><tr class="tt-content" id="关于配图及原文中的记载错误的道歉和订正-1" data-pos="&#91;&quot;\u5173\u4e8e\u914d\u56fe\u53ca\u539f\u6587\u4e2d\u7684\u8bb0\u8f7d\u9519\u8bef\u7684\u9053\u6b49\u548c\u8ba2\u6b63&quot;,1&#93;"><td class="tt-ja" lang="ja"><div class="poem"><big><b>画像及び本文中の記載間違いに関するお詫びと訂正</b><br></big><br>　2007年1月26日に発売致しました「東方三月精　Eastern and Little Nature Deity」の画像及び本文中の記載に間違いがありました。<br><br>　修正箇所につきましては、原作者監修のもと正誤表を作成致しましたので、ホームページにて掲載させていただきます。<br><br>　読者の皆様はじめ、関係各位にはご迷惑をおかけしましたことをお詫びすると共に、ここに訂正させていただきます。<br><br>コンプエース編集部</div></td><td class="tt-zh" lang="zh"><div class="poem"><big><b>关于配图及原文中的记载错误的道歉和订正</b><br></big><br>　在2007年1月26日发售的「东方三月精　Eastern and Little Nature Deity」中，配图及原文的记载存在着错误。<br><br>　关于修正之处，我们已经在原作者监修之下编写了份正误表，请允许我们在主页里刊载。<br><br>　我们为给读者们和有关各位造成的麻烦而深表歉意，同时，请允许我们在此进行订正。<br><br>Comp-Ace编辑部</div></td></tr></tbody></table>
 
 
+
 ### 东方三月精 ～ Eastern and Little Nature Deity  正误表
+
 #### 角色介绍配图出错[^cite_note-1]
 
 <table>
@@ -71,6 +76,7 @@
 <td><a href="./文件-三月精正误表3_1.jpg.md" class="image"><img alt="三月精正误表3 1.jpg" src="https://upload.thwiki.cc/a/a6/%E4%B8%89%E6%9C%88%E7%B2%BE%E6%AD%A3%E8%AF%AF%E8%A1%A83_1.jpg" decoding="async" loading="lazy" width="100" height="195" data-file-width="100" data-file-height="195"></a></td>
 <td><div class="center"><div class="floatnone"><a href="./文件-三月精正误表3_2.jpg.md" class="image"><img alt="三月精正误表3 2.jpg" src="https://upload.thwiki.cc/5/55/%E4%B8%89%E6%9C%88%E7%B2%BE%E6%AD%A3%E8%AF%AF%E8%A1%A83_2.jpg" decoding="async" loading="lazy" width="143" height="195" data-file-width="143" data-file-height="195"></a></div></div>
 </td></tr></tbody></table>
+
 
 
 #### 原文错字
@@ -122,6 +128,7 @@
 <td>森近霖之助（もりちかしんのすけ）</td>
 <td>森近霖之助（もりちかりんのすけ）
 </td></tr></tbody></table>
+
 
 
 #### 角色名英文误记
@@ -190,17 +197,20 @@
 </td></tr></tbody></table>
 
 
+
 ## 官方未列出的错误
   
 <big> **这里所列的不一定正确，请自行辨别。此处只列出部分可靠的，更多的请看参考资料。** </big>  
 
   
 
+
 ### 配图出错
   
 第99页，芙兰的翅膀只有骨架。  
 
   
+
 
 ### 错字
   
@@ -214,6 +224,7 @@
 
   
 
+
 ### 混入二设和表述不明
   
 1.第98页，介绍妖梦时，提到“手上的双刀「楼观剑」和「白楼剑」分别具有切开妖怪与人类的迷惘的能力”，这里表述有误。  
@@ -225,6 +236,7 @@
 4.第101页，慧音是“继承妖怪白泽和人类血统的半人半妖”，但慧音是后天变成妖怪的，而且“半人半妖”也不正确，应该说是“半兽”。  
 
   
+
 
 ### 角色英文变更
   
@@ -238,6 +250,7 @@
 
 
 [^cite_note-1]: 原书里配图都为黑白色。
+
 
 ## 参考资料
 - [官方勘误](http://www.comptiq.com/release/comic/55touhou_owabi.html)（只能通过存档和快照方式查看）

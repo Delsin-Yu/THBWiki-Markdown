@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Naughty_kitten封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/d/d4/Naughty_kitten%E5%B0%81%E9%9D%A2.jpg/196px-Naughty_kitten%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="196" height="196" srcset="https://upload.thwiki.cc/thumb/d/d4/Naughty_kitten%E5%B0%81%E9%9D%A2.jpg/294px-Naughty_kitten%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/d/d4/Naughty_kitten%E5%B0%81%E9%9D%A2.jpg/392px-Naughty_kitten%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1280" data-file-height="1280"></a><div class="cover-char">角色：<a href="./豪德寺三花.md" title="豪德寺三花">豪德寺三花</a></div></td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://sites.google.com/ban-dai.co.jp/2021summer/ホーム/clumsyrecord">https://sites.google.com/ban-dai.co.jp/2021summer/ホーム/clumsyrecord</a></td></tr></tbody></table>
 
 Naughty kitten（同人专辑，ClumsyRecord，2021） - 2021年8月14日 由 ClumsyRecord 于 东方同人音乐流通 夏日三周连续发布祭典1 发布的单曲同人专辑，分级为 一般向
+
 ## Staff
   
  **Arrangement**   
@@ -21,14 +23,17 @@ Naughty kitten（同人专辑，ClumsyRecord，2021） - 2021年8月14日 由 Cl
 <table><tbody><tr><td><a href="/index.php?title=taKu&amp;action=edit&amp;redlink=1" class="new" title="taKu（页面不存在）">taKu</a></td><td></td><td>Tr.1</td></tr></tbody></table>
 
 
+
 ## 试听
   
 暂不支援此类型
   
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Naughty_kitten" colspan="2" class="title">Naughty kitten<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=taKu&amp;ogmusic=大吉キトゥン&amp;fromwiki=Naughty_kitten"><span title="搜索相似同人曲"></span></a></span></td><td class="time">02:35</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=taKu&amp;action=edit&amp;redlink=1" class="new" title="taKu（页面不存在）">taKu</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，taKu&amp;fromwiki=Naughty_kitten"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=大吉キトゥン&amp;fromwiki=Naughty_kitten"><span></span></a></span><div class="ogmusic"><a href="/%E5%A4%A7%E5%90%89%E3%82%AD%E3%83%88%E3%82%A5%E3%83%B3" class="mw-redirect" title="大吉キトゥン">大吉キトゥン</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E8%99%B9%E9%BE%99%E6%B4%9E_%EF%BD%9E_Unconnected_Marketeers." class="mw-redirect" title="东方虹龙洞 ～ Unconnected Marketeers.">东方虹龙洞　～ Unconnected Marketeers.</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Naughty_kitten" colspan="2" class="title">Naughty kitten<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=taKu&amp;ogmusic=大吉キトゥン&amp;fromwiki=Naughty_kitten"><span title="搜索相似同人曲"></span></a></span></td><td class="time">02:35</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=taKu&amp;action=edit&amp;redlink=1" class="new" title="taKu（页面不存在）">taKu</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，taKu&amp;fromwiki=Naughty_kitten"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=大吉キトゥン&amp;fromwiki=Naughty_kitten"><span></span></a></span><div class="ogmusic"><a href="./大吉キトゥン.md" class="mw-redirect" title="大吉キトゥン">大吉キトゥン</a></div><div class="source"><a href="./东方虹龙洞_～_Unconnected_Marketeers..md" class="mw-redirect" title="东方虹龙洞 ～ Unconnected Marketeers.">东方虹龙洞　～ Unconnected Marketeers.</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

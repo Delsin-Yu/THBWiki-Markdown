@@ -6,12 +6,14 @@
 
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 软件信息](#软件信息)
 - [2 Staff](#Staff)
 - [3 内容页面](#内容页面)
 - [4 评论](#评论)
+
 
 
 
@@ -39,6 +41,7 @@ Cards, Dates and Inseparable Love（同人游戏，Iced＿Lemon，2021） - 2021
 </tbody></table>
 
 
+
 ## Staff
 Lead Design, Programming, Writing, Card Illustrations
 : Iced_Lemon （[itch.io: iced-lemon](https://iced-lemon.itch.io/)）
@@ -60,10 +63,12 @@ Playtesting
 : Jacoder23 （[Twitter: @Jacoder234](https://twitter.com/Jacoder234)）
 : Raigetsu K （[itch.io: raigetsu](https://raigetsu.itch.io/)）
 
+
 ## 内容页面
 - 游戏设定与剧情 (未找到链接)
 - 攻略 (未找到链接)
 - 其他信息 (未找到链接)
+
 
 ## 评论
 

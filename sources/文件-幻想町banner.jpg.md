@@ -4,6 +4,7 @@
 
 幻想町 | 社团LOGO
 
+
 ## 摘要
   
 源地址：[direct image link (original size)](http://blog.cnobi.jp/v1/blog/user/0c16402d7fad8f807e582629cc931eaf/1220666722), [source page](https://web.archive.org/web/20151105025937/http://gensouchou.blog.shinobi.jp/)

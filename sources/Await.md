@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Await封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/c/ce/Await%E5%B0%81%E9%9D%A2.png/252px-Await%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="252" height="252" srcset="https://upload.thwiki.cc/thumb/c/ce/Await%E5%B0%81%E9%9D%A2.png/378px-Await%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/c/ce/Await%E5%B0%81%E9%9D%A2.png/504px-Await%E5%B0%81%E9%9D%A2.png 2x" data-file-width="1000" data-file-height="1000"></a><div class="cover-char">角色：<a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a></div></td>
@@ -18,6 +19,7 @@ Await（同人专辑，Reset All Controllers，2020） - 2020年12月20日 由 R
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://r-a-c.booth.pm/items/2613186">Booth</a></td></tr></tbody></table>
 
 
+
 ## Staff
   
  **Arrangement**   
@@ -27,6 +29,7 @@ Await（同人专辑，Reset All Controllers，2020） - 2020年12月20日 由 R
 
 Illustration
 : [京田スズカ](./京田スズカ.md) （[京田モータース](./京田モータース.md)）
+
 
 ## 试听
 
@@ -40,10 +43,12 @@ Illustration
 </td></tr></tbody></table>
 
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Await" colspan="2" class="title">Await<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=徒桜&amp;ogmusic=魔法少女達の百年祭，U.N.オーエンは彼女なのか？&amp;fromwiki=Await"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:45</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./徒桜.md" title="徒桜">徒桜</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，徒桜，&amp;fromwiki=Await"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=魔法少女達の百年祭，U.N.オーエンは彼女なのか？&amp;fromwiki=Await"><span></span></a></span><div class="ogmusic"><a href="/%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E9%81%94%E3%81%AE%E7%99%BE%E5%B9%B4%E7%A5%AD" class="mw-redirect" title="魔法少女達の百年祭">魔法少女達の百年祭</a></div><div class="ogmusic"><a href="/U.N.%E3%82%AA%E3%83%BC%E3%82%A8%E3%83%B3%E3%81%AF%E5%BD%BC%E5%A5%B3%E3%81%AA%E3%81%AE%E3%81%8B%EF%BC%9F" class="mw-redirect" title="U.N.オーエンは彼女なのか？">U.N.オーエンは彼女なのか？</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E7%BA%A2%E9%AD%94%E4%B9%A1_%EF%BD%9E_the_Embodiment_of_Scarlet_Devil." class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr>
-<tr><td id="2" class="infoYD"><b>02</b></td><td id="Red_Thread" colspan="2" class="title">Red Thread<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=徒桜&amp;ogmusic=亡き王女の為のセプテット&amp;fromwiki=Await"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:40</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./徒桜.md" title="徒桜">徒桜</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，徒桜，&amp;fromwiki=Await"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=亡き王女の為のセプテット&amp;fromwiki=Await"><span></span></a></span><div class="ogmusic"><a href="/%E4%BA%A1%E3%81%8D%E7%8E%8B%E5%A5%B3%E3%81%AE%E7%82%BA%E3%81%AE%E3%82%BB%E3%83%97%E3%83%86%E3%83%83%E3%83%88" class="mw-redirect" title="亡き王女の為のセプテット">亡き王女の為のセプテット</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E7%BA%A2%E9%AD%94%E4%B9%A1_%EF%BD%9E_the_Embodiment_of_Scarlet_Devil." class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Await" colspan="2" class="title">Await<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=徒桜&amp;ogmusic=魔法少女達の百年祭，U.N.オーエンは彼女なのか？&amp;fromwiki=Await"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:45</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./徒桜.md" title="徒桜">徒桜</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，徒桜，&amp;fromwiki=Await"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=魔法少女達の百年祭，U.N.オーエンは彼女なのか？&amp;fromwiki=Await"><span></span></a></span><div class="ogmusic"><a href="./魔法少女達の百年祭.md" class="mw-redirect" title="魔法少女達の百年祭">魔法少女達の百年祭</a></div><div class="ogmusic"><a href="./U.N.オーエンは彼女なのか？.md" class="mw-redirect" title="U.N.オーエンは彼女なのか？">U.N.オーエンは彼女なのか？</a></div><div class="source"><a href="./东方红魔乡_～_the_Embodiment_of_Scarlet_Devil..md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr>
+<tr><td id="2" class="infoYD"><b>02</b></td><td id="Red_Thread" colspan="2" class="title">Red Thread<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=徒桜&amp;ogmusic=亡き王女の為のセプテット&amp;fromwiki=Await"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:40</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./徒桜.md" title="徒桜">徒桜</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，徒桜，&amp;fromwiki=Await"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=亡き王女の為のセプテット&amp;fromwiki=Await"><span></span></a></span><div class="ogmusic"><a href="./亡き王女の為のセプテット.md" class="mw-redirect" title="亡き王女の為のセプテット">亡き王女の為のセプテット</a></div><div class="source"><a href="./东方红魔乡_～_the_Embodiment_of_Scarlet_Devil..md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

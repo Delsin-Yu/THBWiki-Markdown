@@ -6,11 +6,13 @@
 
 本页是关于东方Project  
  **相关实体周边 (未找到链接)** 的词条
+
 ## 模型信息
 
 <table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 博丽灵梦 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>坐姿娘</td></tr><tr><td class="label">角色</td><td><a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></td></tr><tr><td class="label">原型师</td><td><a href="/index.php?title=%E6%9D%91%E4%B8%8A%E5%8F%8B%E5%AE%8F&amp;action=edit&amp;redlink=1" class="new" title="村上友宏（页面不存在）">村上友宏</a></td></tr><tr><td class="label">尺寸</td><td>70mm</td></tr><tr><td class="label">状态</td><td>已发售</td></tr><tr><td class="label">售价</td><td>2500日元</td></tr><tr><td class="label">首发日期</td><td>2012-04-27</td></tr><tr><td class="label">发售方</td><td><a href="/index.php?title=Penguin_Parade&amp;action=edit&amp;redlink=1" class="new" title="Penguin Parade（页面不存在）">Penguin Parade</a></td></tr></tbody></table>
 
 Penguin Parade/坐姿娘/博丽灵梦（周边） - 博丽灵梦PVCFigure手办模型
+
 ## 参考图片
 
 

@@ -4,7 +4,8 @@
 
 fumoism ，于 2022 年成立，主要制作 周边，同人游戏 的中国大陆同人社团，主催是 睡觉帕秋莉，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -21,12 +22,14 @@ fumoism ，于 2022 年成立，主要制作 周边，同人游戏 的中国大�
 
 
 
+
 ## 社团信息
 [](./文件-fumoismlogo.jpg.md)  [](./文件-fumoismlogo.jpg.md)logo
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> fumoism </td></tr><tr><td><b>中文名称</b></td><td>fumo主义</td></tr><tr><td><b>主要作品类型</b></td><td>周边，同人游戏</td></tr><tr><td><b>成立时间</b></td><td>2022</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=%E7%9D%A1%E8%A7%89%E5%B8%95%E7%A7%8B%E8%8E%89&amp;action=edit&amp;redlink=1" class="new" title="睡觉帕秋莉（页面不存在）">睡觉帕秋莉</a> </td></tr><tr><td><b>地区</b></td><td>中国大陆</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="https://space.bilibili.com/385125246/">https://space.bilibili.com/385125246/</a> 哔哩哔哩<br><a rel="nofollow" class="external free" href="https://fumoism.com/">https://fumoism.com/</a></td></tr></tbody></table>
 
 fumoism（同人社团，周边社团，同人游戏社团） - fumoism ，于 2022 年成立，主要制作 周边，同人游戏 的中国大陆同人社团，主催是 睡觉帕秋莉，当前状态为 活动
+
 ## 成员名单
 主催
 : 睡觉帕秋莉 (未找到链接)
@@ -35,11 +38,14 @@ fumoism（同人社团，周边社团，同人游戏社团） - fumoism ，于 2
 画师
 : 银酒 (未找到链接)
 
+
 ## 作品列表
+
 ### 同人游戏
 F.U.M.O. Somniumism Archive 封面图片 (未找到链接)[F.U.M.O. Somniumism Archive](./F.U.M.O._Somniumism_Archive.md)首发日期：未知 视觉小说、​第三人称STG （一般向）游戏内容包含10个故事叙述篇章，预期游玩时间约40分钟；2个异变解决篇章，预期游玩时间约20分钟。
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
 </table>
+
 
 
 ### 周边
@@ -49,6 +55,7 @@ F.U.M.O. Somniumism Archive 封面图片 (未找到链接)[F.U.M.O. Somniumism A
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458"></table>
+
 
 
 ## 参展信息

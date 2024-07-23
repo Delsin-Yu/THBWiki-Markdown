@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-幻想再読YELLOW封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/2/23/%E5%B9%BB%E6%83%B3%E5%86%8D%E8%AA%ADYELLOW%E5%B0%81%E9%9D%A2.jpg/158px-%E5%B9%BB%E6%83%B3%E5%86%8D%E8%AA%ADYELLOW%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="158" height="224" srcset="https://upload.thwiki.cc/thumb/2/23/%E5%B9%BB%E6%83%B3%E5%86%8D%E8%AA%ADYELLOW%E5%B0%81%E9%9D%A2.jpg/237px-%E5%B9%BB%E6%83%B3%E5%86%8D%E8%AA%ADYELLOW%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/2/23/%E5%B9%BB%E6%83%B3%E5%86%8D%E8%AA%ADYELLOW%E5%B0%81%E9%9D%A2.jpg/316px-%E5%B9%BB%E6%83%B3%E5%86%8D%E8%AA%ADYELLOW%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="769" data-file-height="1091"></a><div class="cover-char">角色：<a href="/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C" title="十六夜咲夜">十六夜咲夜</a>，<a href="./物部布都.md" title="物部布都">物部布都</a>，<a href="./寅丸星.md" title="寅丸星">寅丸星</a>，<a href="./云居一轮.md" title="云居一轮">云居一轮</a>，<a href="./古明地觉.md" title="古明地觉">古明地觉</a>，<a href="./爱丽丝·玛格特洛依德.md" title="爱丽丝·玛格特洛依德">爱丽丝·玛格特洛依德</a>，<a href="./露米娅.md" title="露米娅">露米娅</a></div></td>
@@ -18,11 +19,14 @@
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=124117">蜜瓜</a>，<a rel="nofollow" class="external text" href="https://www.melonbooks.com/index.php?main_page=product_info&amp;products_id=IT0000210077">蜜瓜DL</a>，<a rel="nofollow" class="external text" href="https://ec.toranoana.jp/tora_r/ec/item/040030298519">虎穴</a></td></tr></tbody></table>
 
 
+
 ## 预览
 - [](./文件-幻想再読YELLOW预览图1.jpg.md)
 
+
 ## Staff
 - [是乃](./是乃.md)
+
 
 ## 评论
   

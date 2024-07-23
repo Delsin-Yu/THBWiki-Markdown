@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-东方远空界_~_Ultimate_Vitality_of_Imagination_Soundtrack封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/7/76/%E4%B8%9C%E6%96%B9%E8%BF%9C%E7%A9%BA%E7%95%8C_~_Ultimate_Vitality_of_Imagination_Soundtrack%E5%B0%81%E9%9D%A2.jpg/252px-%E4%B8%9C%E6%96%B9%E8%BF%9C%E7%A9%BA%E7%95%8C_~_Ultimate_Vitality_of_Imagination_Soundtrack%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="145" srcset="https://upload.thwiki.cc/thumb/7/76/%E4%B8%9C%E6%96%B9%E8%BF%9C%E7%A9%BA%E7%95%8C_~_Ultimate_Vitality_of_Imagination_Soundtrack%E5%B0%81%E9%9D%A2.jpg/378px-%E4%B8%9C%E6%96%B9%E8%BF%9C%E7%A9%BA%E7%95%8C_~_Ultimate_Vitality_of_Imagination_Soundtrack%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/7/76/%E4%B8%9C%E6%96%B9%E8%BF%9C%E7%A9%BA%E7%95%8C_~_Ultimate_Vitality_of_Imagination_Soundtrack%E5%B0%81%E9%9D%A2.jpg/504px-%E4%B8%9C%E6%96%B9%E8%BF%9C%E7%A9%BA%E7%95%8C_~_Ultimate_Vitality_of_Imagination_Soundtrack%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="589" data-file-height="338"></a><div class="cover-char">角色：<a href="./晶耀泛纱.md" title="晶耀泛纱">晶耀泛纱</a>，<a href="./梦行远游.md" title="梦行远游">梦行远游</a></div></td>
@@ -23,6 +24,7 @@
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://store.steampowered.com/app/1866050">Steam</a></td></tr></tbody></table>
 
 
+
 ## Staff
   
  **Compose**   
@@ -32,6 +34,7 @@
 
 Illustration
 : [飘游轻风旅](https://space.bilibili.com/33266404)
+
 
 ## 曲目列表
 
@@ -57,6 +60,7 @@ Illustration
 <tr><td id="20" class="infoYL"><b>20</b></td><td id="Bonus_Track_无名神祗的世界探索" colspan="2" class="title">Bonus Track 无名神祗的世界探索<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=飘游轻风旅&amp;fromwiki=东方远空界_~_Ultimate_Vitality_of_Imagination_Soundtrack"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:48</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=%E9%A3%98%E6%B8%B8%E8%BD%BB%E9%A3%8E%E6%97%85&amp;action=edit&amp;redlink=1" class="new" title="飘游轻风旅（页面不存在）">飘游轻风旅</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，飘游轻风旅&amp;fromwiki=东方远空界_~_Ultimate_Vitality_of_Imagination_Soundtrack"><span></span></a></span></td></tr></tbody></table>
 
 
+
 ## 评论
   
 本专辑收录了「东方远空界 ～ Ultimate Vitality of Imagination」的全部19首音乐以及一首附加的Bonus Track，均为风格近似于东方原作的游戏音乐。  
@@ -66,6 +70,7 @@ Illustration
 适合喜爱本游戏音乐的人，或者是喜爱游戏本体，愿意进一步支持的人购买。
 ﻿
   
+
 
 ## 词条导航
   

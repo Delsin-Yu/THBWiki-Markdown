@@ -9,6 +9,7 @@
 
   
 
+
 ## 目录
 
 - [1 特殊系统](#特殊系统)
@@ -19,9 +20,11 @@
 
 
 
+
 ## 特殊系统
 
 <table><tbody><tr class="tt-content" id="特殊系统-1" data-pos="&#91;&quot;\u7279\u6b8a\u7cfb\u7edf&quot;,1&#93;"><td class="tt-ja" lang="ja"><div class="poem">ステージのほとんどが暗い綺麗の夜空です。<br>そのため、敵の姿がぼんやりとしか映りません。<br>（弾幕は普通に見えます）<br></div></td><td class="tt-zh" lang="zh"><div class="poem">关卡基本是黑暗而美丽的夜空。<br>为此，仅能模糊地看出敌方的样子。<br>（弹幕可以普通地看见）<br></div></td></tr><tr class="tt-content" id="特殊系统-2" data-pos="&#91;&quot;\u7279\u6b8a\u7cfb\u7edf&quot;,2&#93;"><td class="tt-ja" lang="ja"><div class="poem">「宝天灯ライトアツプ」<br><br>道中、七色に光る中型のアイテムを一定数灯ると、<br>自分が点灯します。<br>点灯している間、暗い道が明るくたります。<br>ショツトが少し強化&amp;喰らいボムの時間が僅かに伸びますが、<br><br>点灯時間が終了する時の光の色合いにより、<br>アイテムかもらえます。<br></div></td><td class="tt-zh" lang="zh"><div class="poem">「宝天灯Light Up」<br><br>在道中部分，点亮一定数量七彩光芒的中型道具，<br>自机就会亮灯。<br>在亮灯期间，黑暗的道路会变亮。<br>射击强化稍许＆决死Bomb的时间稍许延长，<br><br>亮灯时间结束根据灯光色调，<br>得到道具。<br></div></td></tr><tr class="tt-content" id="特殊系统-3" data-pos="&#91;&quot;\u7279\u6b8a\u7cfb\u7edf&quot;,3&#93;"><td class="tt-ja" lang="ja"><div class="poem">赤に近に灯…エクステソドの欠片<br><br>水色に近に灯…ボイソトアイテム<br><br>緑色に近に灯…スペルカードの欠片<br></div></td><td class="tt-zh" lang="zh"><div class="poem">接近红色的灯…残机碎片<br><br>接近蓝色的灯…得点道具<br><br>接近绿色的灯…符卡碎片<br></div></td></tr></tbody></table>
+
 
 
 ## 机体说明
@@ -31,7 +34,9 @@
 
 - [东风谷早苗&amp;物部布都](./東方宝天京_～_Treasure_Castle_Labyrinth.-系统-东风谷早苗.md)
 
+
 ## 其他
+
 ## 词条导航
   
   

@@ -12,6 +12,7 @@ LORD_of_VERMILION | 东方相关商业游戏 | 使用了翻译表的页面
 
   
 
+
 ## 目录
 
 - [1 概述](#概述)
@@ -23,6 +24,7 @@ LORD_of_VERMILION | 东方相关商业游戏 | 使用了翻译表的页面
 
 
 - [3 注释](#注释)
+
 
 
 
@@ -60,7 +62,9 @@ LORD_of_VERMILION | 东方相关商业游戏 | 使用了翻译表的页面
 本作已动画化，于2018年7月放送，全12话已完结。
   
 
+
 ## 东方Project角色卡牌
+
 ### LORD of VERMILION Re:2
   
 <big> **博丽灵梦** </big>
@@ -109,6 +113,7 @@ LORD_of_VERMILION | 东方相关商业游戏 | 使用了翻译表的页面
 
 
 <table><tbody><tr class="tt-content" id="LORD_of_VERMILION_Re:2-12" data-pos="&#91;&quot;LORD of VERMILION Re:2&quot;,12&#93;"><td class="tt-ja" lang="ja"><div class="poem"><b>職業：</b>亡霊</div></td><td class="tt-zh" lang="zh"><div class="poem"><b>职业：</b>亡灵</div></td></tr><tr class="tt-content" id="LORD_of_VERMILION_Re:2-13" data-pos="&#91;&quot;LORD of VERMILION Re:2&quot;,13&#93;"><td class="tt-ja" lang="ja"><div class="poem"><b>出身地？：</b>冥界</div></td><td class="tt-zh" lang="zh"><div class="poem"><b>出身地？：</b>冥界</div></td></tr><tr class="tt-content" id="LORD_of_VERMILION_Re:2-14" data-pos="&#91;&quot;LORD of VERMILION Re:2&quot;,14&#93;"><td class="tt-ja" lang="ja"><div class="poem"><b>住処：</b>白玉楼</div></td><td class="tt-zh" lang="zh"><div class="poem"><b>住处：</b>白玉楼</div></td></tr><tr class="tt-content" id="LORD_of_VERMILION_Re:2-15" data-pos="&#91;&quot;LORD of VERMILION Re:2&quot;,15&#93;"><td class="tt-ja" lang="ja"><div class="poem"><b>能力：</b>死を操る程度の能力</div></td><td class="tt-zh" lang="zh"><div class="poem"><b>能力：</b>操纵死亡程度的能力</div></td></tr><tr class="tt-content" id="LORD_of_VERMILION_Re:2-16" data-pos="&#91;&quot;LORD of VERMILION Re:2&quot;,16&#93;"><td class="tt-ja" lang="ja"><div class="poem"><b>趣味：</b>アンチエイジング</div></td><td class="tt-zh" lang="zh"><div class="poem"><b>兴趣：</b>抗衰老</div></td></tr><tr class="tt-content" id="LORD_of_VERMILION_Re:2-17" data-pos="&#91;&quot;LORD of VERMILION Re:2&quot;,17&#93;"><td class="tt-ja" lang="ja"><div class="poem"><b>生前の夢：</b>安らかな死</div></td><td class="tt-zh" lang="zh"><div class="poem"><b>生前的梦：</b>安详地死去</div></td></tr><tr class="tt-content" id="LORD_of_VERMILION_Re:2-18" data-pos="&#91;&quot;LORD of VERMILION Re:2&quot;,18&#93;"><td class="tt-ja" lang="ja"><div class="poem">死んでから何度目の桜だろうか。<br>９回で数えるのが面倒になり一桁でカンストという事にした。<br>しかし今は９９９９回くらいまで数えても良かったと後悔し、<br>カウントしていなかった期間を補うように、毎年ランダムに<br>数え上げている。<br>「妖夢。今年で５８７３回目の桜だわ～、綺麗ね」<br>「いくら何でも盛りすぎじゃないですか？　幽々子様」</div></td><td class="tt-zh" lang="zh"><div class="poem">从死去到现在，樱花已经开放过多少回了？<br>她数到第9次时已经没了耐心，把计数停在了个位数上。<br>可是现在她又后悔，心想要是能数到9999那里也很好啊。<br>为了补上以前没数的，她每年用一个随机数作为次数。<br>「妖梦，今年樱花已经是第5873次开放了哟～，多美呀」<br>「您不觉得无论怎样都数过头了吗，幽幽子大人？」</div></td></tr></tbody></table>
+
 
 
 

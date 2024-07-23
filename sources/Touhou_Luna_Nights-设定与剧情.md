@@ -4,6 +4,7 @@
 
 Team_Ladybug | Vaka_Game_Magazine
 
+
 ## 游戏背景
   
 “――来吧，开始我的世界”
@@ -18,9 +19,11 @@ Team_Ladybug | Vaka_Game_Magazine
 蕾米莉亚的目的到底是什么･･･？
   
 
+
 ## 游戏剧情
 - [游戏对话](./Touhou_Luna_Nights-设定与剧情-游戏对话.md)
 - 提示语 (未找到链接)
+
 
 ## 游戏地图
 - 地图 (未找到链接)

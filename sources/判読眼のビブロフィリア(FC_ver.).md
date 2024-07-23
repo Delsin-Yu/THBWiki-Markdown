@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E5%88%A4%E8%AA%AD%E7%9C%BC%E3%81%AE%E3%83%93%E3%83%96%E3%83%AD%E3%83%95%E3%82%A3%E3%83%AA%E3%82%A2(FC_ver.)%E5%B0%81%E9%9D%A2.jpg" class="new" title="文件:判読眼のビブロフィリア(FC ver.)封面.jpg">封面图片</a><div class="cover-char">角色：<a href="./稗田阿求.md" title="稗田阿求">稗田阿求</a></div></td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/99407157">https://www.pixiv.net/artworks/99407157</a><br><a rel="nofollow" class="external free" href="https://twitter.com/Sketch_Haru/status/1542108700629864449">https://twitter.com/Sketch_Haru/status/1542108700629864449</a></td></tr></tbody></table>
 
 判読眼のビブロフィリア(FC ver.)（同人专辑，柑橘の峰，2022） - 2022年7月3日 由 柑橘の峰 于 铃奈幻想绘卷4 发布的单曲同人专辑，曲目主要风格是 游戏音乐，分级为 一般向
+
 ## Staff
   
  **Arrangement**   
@@ -24,9 +26,11 @@
 Illustration
 : ハルミネハル （[柑橘の峰](./柑橘の峰.md)）
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="判読眼のビブロフィリア(FC_ver.)" colspan="2" class="title">判読眼のビブロフィリア(FC ver.)<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=ハルミネハル&amp;ogmusic=判読眼のビブロフィリア&amp;fromwiki=判読眼のビブロフィリア(FC_ver.)"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E3%83%8F%E3%83%AB%E3%83%9F%E3%83%8D%E3%83%8F%E3%83%AB&amp;action=edit&amp;redlink=1" class="new" title="ハルミネハル（页面不存在）">ハルミネハル</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，ハルミネハル&amp;fromwiki=判読眼のビブロフィリア(FC_ver.)"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=判読眼のビブロフィリア&amp;fromwiki=判読眼のビブロフィリア(FC_ver.)"><span></span></a></span><div class="ogmusic"><a href="/%E5%88%A4%E8%AA%AD%E7%9C%BC%E3%81%AE%E3%83%93%E3%83%96%E3%83%AD%E3%83%95%E3%82%A3%E3%83%AA%E3%82%A2" class="mw-redirect" title="判読眼のビブロフィリア">判読眼のビブロフィリア</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E9%93%83%E5%A5%88%E5%BA%B5_%EF%BD%9E_Forbidden_Scrollery._%E9%99%84%E5%B1%9ECD" class="mw-redirect" title="东方铃奈庵 ～ Forbidden Scrollery. 附属CD">东方铃奈庵 ～ Forbidden Scrollery. 附属CD</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="判読眼のビブロフィリア(FC_ver.)" colspan="2" class="title">判読眼のビブロフィリア(FC ver.)<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=ハルミネハル&amp;ogmusic=判読眼のビブロフィリア&amp;fromwiki=判読眼のビブロフィリア(FC_ver.)"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E3%83%8F%E3%83%AB%E3%83%9F%E3%83%8D%E3%83%8F%E3%83%AB&amp;action=edit&amp;redlink=1" class="new" title="ハルミネハル（页面不存在）">ハルミネハル</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，ハルミネハル&amp;fromwiki=判読眼のビブロフィリア(FC_ver.)"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=判読眼のビブロフィリア&amp;fromwiki=判読眼のビブロフィリア(FC_ver.)"><span></span></a></span><div class="ogmusic"><a href="./判読眼のビブロフィリア.md" class="mw-redirect" title="判読眼のビブロフィリア">判読眼のビブロフィリア</a></div><div class="source"><a href="./东方铃奈庵_～_Forbidden_Scrollery._附属CD.md" class="mw-redirect" title="东方铃奈庵 ～ Forbidden Scrollery. 附属CD">东方铃奈庵 ～ Forbidden Scrollery. 附属CD</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

@@ -21,12 +21,14 @@
 
   
 </center>
+
 ## 目录
 
 - [1 概述](#概述)
 - [2 目录](#目录)
 - [3 其他](#其他)
 - [4 注释](#注释)
+
 
 
 
@@ -46,7 +48,7 @@
 <tr><th class="titleH2" height="20">话数</th></tr>
 <tr><td height="20">无</td></tr>
 <tr><th class="titleH2" height="20">附带附赠</th></tr>
-<tr><td height="20"><a href="/%E4%B8%9C%E6%96%B9%E5%A4%96%E6%9D%A5%E9%9F%A6%E7%BC%96/2018_Spring!/%E9%99%84%E5%B1%9ECD5" class="mw-redirect" title="东方外来韦编/2018 Spring!/附属CD5">音乐CD</a></td></tr>
+<tr><td height="20"><a href="./东方外来韦编-2018_Spring!-附属CD5.md" class="mw-redirect" title="东方外来韦编/2018 Spring!/附属CD5">音乐CD</a></td></tr>
 <tr><td></td></tr>
 </tbody></table>
 </td></tr><tr><th colspan="4" class="titleH1">东方外来韦编 2018 Spring!</th></tr>
@@ -54,12 +56,12 @@
 
 
   
-<big> **东方外来韦编 Strange Creators of Outer World. 2018 Spring!**   
-</big>
+<big> **东方外来韦编 Strange Creators of Outer World. 2018 Spring!** </big>
 東方外來韋編 Strange Creators of Outer World. 2018 Spring!<small>（とうほうがいらいいへん よん， *Touhou Gairaiihen* ）</small>  
 
 本杂志是[东方外来韦编](./东方外来韦编.md)系列杂志的第五号，发售于2018年3月30日。
   
+
 
 ## 目录
 - 封面
@@ -130,6 +132,7 @@
 - 第160页：出版信息
 - 特别附录（CD） 东方Project Arrange Album
 - 封底
+
 
 ## 其他
 - 其他相关信息 (未找到链接)

@@ -4,7 +4,8 @@
 
 ComeThrough ，主要制作 同人志 的日本同人社团，主催是 あづみ一樹，当前状态为 转入非东方
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -20,6 +21,7 @@ ComeThrough ，主要制作 同人志 的日本同人社团，主催是 あづ�
 
 
 
+
 ## 社团信息
 文件:ComeThroughbanner.jpg (未找到链接)  banner
 文件:ComeThroughbanner2.gif (未找到链接)  banner
@@ -27,12 +29,15 @@ ComeThrough ，主要制作 同人志 的日本同人社团，主催是 あづ�
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> ComeThrough </td></tr><tr><td><b>主要作品类型</b></td><td>同人志</td></tr><tr><td><b>当前状态</b></td><td>转入非东方</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=%E3%81%82%E3%81%A5%E3%81%BF%E4%B8%80%E6%A8%B9&amp;action=edit&amp;redlink=1" class="new" title="あづみ一樹（页面不存在）">あづみ一樹</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="https://cross-cage.wixsite.com/comethrough">https://cross-cage.wixsite.com/comethrough</a> <br><a rel="nofollow" class="external free" href="http://members3.jcom.home.ne.jp/cross-cage1">http://members3.jcom.home.ne.jp/cross-cage1</a> （旧官网）<span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><small>（<a rel="nofollow" class="external text" href="https://web.archive.org/web/20161227082347/http://members3.jcom.home.ne.jp/cross-cage1/">缓存页面</a>）</small></td></tr></tbody></table>
 
 ComeThrough（同人社团，同人志社团） - ComeThrough ，主要制作 同人志 的日本同人社团，主催是 あづみ一樹，当前状态为 转入非东方
+
 ## 成员名单
 - あづみ一樹 (未找到链接) (a.k.a.  **Adumi Kazuki** )
 
 : [Pixiv ID: 326359](https://www.pixiv.net/users/326359), [Nico Seiga ID: 1475277](https://seiga.nicovideo.jp/user/illust/1475277), [Twitter: @kazukiadumi](https://twitter.com/kazukiadumi)
 
+
 ## 作品列表
+
 ### 同人志
 泡沫の宴 封面图片 (未找到链接)泡沫の宴 (未找到链接)首发日期：未知 - cross cage 2.5 封面图片 (未找到链接)cross cage 2.5 (未找到链接)首发日期：未知 - 命長し恋せぬ乙女 封面图片 (未找到链接)命長し恋せぬ乙女 (未找到链接)首发日期：未知 - 私と24時の物語 封面图片 (未找到链接)私と24時の物語 (未找到链接)首发日期：未知 - No Pain, No Gain 封面图片 (未找到链接)No Pain, No Gain (未找到链接)首发日期：未知 - やわらかレイマリ 封面图片 (未找到链接)やわらかレイマリ (未找到链接)首发日期：未知 - 迷宮ノスタルジア 封面图片 (未找到链接)迷宮ノスタルジア (未找到链接)首发日期：未知 - sweet day 封面图片 (未找到链接)sweet day (未找到链接)首发日期：未知 - secret note 封面图片 (未找到链接)secret note (未找到链接)首发日期：未知 - MilkyWay 封面图片 (未找到链接)MilkyWay（ComeThrough） (未找到链接)首发日期：未知 - 反転蝶々 封面图片 (未找到链接)反転蝶々 (未找到链接)首发日期：未知 - honey candy 封面图片 (未找到链接)honey candy (未找到链接)首发日期：未知 - LOLLIPOP 封面图片 (未找到链接)LOLLIPOP (未找到链接)首发日期：未知 - 光と闇の法則 封面图片 (未找到链接)光と闇の法則 (未找到链接)首发日期：未知 - just friends? 封面图片 (未找到链接)just friends? (未找到链接)首发日期：未知 - 幻想デイドリーム 封面图片 (未找到链接)幻想デイドリーム (未找到链接)首发日期：未知 - My Sweet Knight 封面图片 (未找到链接)My Sweet Knight (未找到链接)首发日期：未知 - Candy Pop Colors 封面图片 (未找到链接)Candy Pop Colors (未找到链接)首发日期：未知 - 幻想デイドリーム #2 封面图片 (未找到链接)幻想デイドリーム ＃2 (未找到链接)首发日期：未知 - Adumix #1 封面图片 (未找到链接)Adumix ＃1 (未找到链接)首发日期：未知 - scarlet fate 封面图片 (未找到链接)scarlet fate (未找到链接)首发日期：未知 - 茜色スケッチ 封面图片 (未找到链接)茜色スケッチ (未找到链接)首发日期：未知 - 魔女と吸血鬼の夜は長い？ 封面图片 (未找到链接)魔女と吸血鬼の夜は長い？ (未找到链接)首发日期：未知 - Crystal Drop 封面图片 (未找到链接)Crystal Drop (未找到链接)首发日期：未知 - 私立東方学園へようこそ! 封面图片 (未找到链接)私立東方学園へようこそ! (未找到链接)首发日期：未知 - My little seven sisters 封面图片 (未找到链接)My little seven sisters (未找到链接)首发日期：未知 - 私立東方学園へようこそ! 2 封面图片 (未找到链接)私立東方学園へようこそ! 2 (未找到链接)首发日期：未知 - 私立東方学園へようこそ! 3 封面图片 (未找到链接)私立東方学園へようこそ! 3 (未找到链接)首发日期：未知 - Sweet Wonderland 封面图片 (未找到链接)Sweet Wonderland (未找到链接)首发日期：未知 - 私立東方学園へようこそ! EXTRA 封面图片 (未找到链接)私立東方学園へようこそ! EXTRA (未找到链接)首发日期：未知 - おやすみなさい　幽々子さま。 封面图片 (未找到链接)おやすみなさい 幽々子さま。 (未找到链接)首发日期：未知 - SAKURA 封面图片 (未找到链接)SAKURA（ComeThrough） (未找到链接)首发日期：未知 - FLYING STAR 封面图片 (未找到链接)FLYING STAR (未找到链接)首发日期：未知 - 私立東方学園へようこそ! in summer 封面图片 (未找到链接)私立東方学園へようこそ! in summer (未找到链接)首发日期：未知 - Cross Cage #4 封面图片 (未找到链接)Cross Cage ＃4 (未找到链接)首发日期：未知 - innocent maiden 封面图片 (未找到链接)innocent maiden (未找到链接)首发日期：未知 - ADUMIX #07 封面图片 (未找到链接)ADUMIX ＃07 (未找到链接)首发日期：未知 - RECOLLECTION 封面图片 (未找到链接)RECOLLECTION（ComeThrough） (未找到链接)首发日期：未知 - Calamelia Parfait 封面图片 (未找到链接)Calamelia Parfait (未找到链接)首发日期：未知 - SWEETEonderland 封面图片 (未找到链接)SWEETEonderland (未找到链接)首发日期：未知 - 
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -75,6 +80,7 @@ ComeThrough（同人社团，同人志社团） - ComeThrough ，主要制作 �
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458"></table>
+
 
 
 ## 参展信息

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-38万キロメートルの軌跡_ClearBook自選再録集封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/7/7f/38%E4%B8%87%E3%82%AD%E3%83%AD%E3%83%A1%E3%83%BC%E3%83%88%E3%83%AB%E3%81%AE%E8%BB%8C%E8%B7%A1_ClearBook%E8%87%AA%E9%81%B8%E5%86%8D%E9%8C%B2%E9%9B%86%E5%B0%81%E9%9D%A2.jpg/119px-38%E4%B8%87%E3%82%AD%E3%83%AD%E3%83%A1%E3%83%BC%E3%83%88%E3%83%AB%E3%81%AE%E8%BB%8C%E8%B7%A1_ClearBook%E8%87%AA%E9%81%B8%E5%86%8D%E9%8C%B2%E9%9B%86%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="119" height="168" srcset="https://upload.thwiki.cc/thumb/7/7f/38%E4%B8%87%E3%82%AD%E3%83%AD%E3%83%A1%E3%83%BC%E3%83%88%E3%83%AB%E3%81%AE%E8%BB%8C%E8%B7%A1_ClearBook%E8%87%AA%E9%81%B8%E5%86%8D%E9%8C%B2%E9%9B%86%E5%B0%81%E9%9D%A2.jpg/179px-38%E4%B8%87%E3%82%AD%E3%83%AD%E3%83%A1%E3%83%BC%E3%83%88%E3%83%AB%E3%81%AE%E8%BB%8C%E8%B7%A1_ClearBook%E8%87%AA%E9%81%B8%E5%86%8D%E9%8C%B2%E9%9B%86%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/7/7f/38%E4%B8%87%E3%82%AD%E3%83%AD%E3%83%A1%E3%83%BC%E3%83%88%E3%83%AB%E3%81%AE%E8%BB%8C%E8%B7%A1_ClearBook%E8%87%AA%E9%81%B8%E5%86%8D%E9%8C%B2%E9%9B%86%E5%B0%81%E9%9D%A2.jpg/238px-38%E4%B8%87%E3%82%AD%E3%83%AD%E3%83%A1%E3%83%BC%E3%83%88%E3%83%AB%E3%81%AE%E8%BB%8C%E8%B7%A1_ClearBook%E8%87%AA%E9%81%B8%E5%86%8D%E9%8C%B2%E9%9B%86%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="600" data-file-height="845"></a><div class="cover-char">角色：<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=20008767">https://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=20008767</a></td></tr></tbody></table>
 
 38万キロメートルの軌跡 ClearBook自選再録集（同人志，ClearBook，2011） - 2011年8月13日 由 ClearBook 于 Comic Market 80 发布的漫画/总集同人志，B5尺寸一共120页，分级为 一般向
+
 ## Staff
 - 山口悠 (未找到链接)
+
 
 ## 评论
 

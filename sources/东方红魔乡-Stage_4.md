@@ -23,6 +23,7 @@
 </center>
 - 本词条内容为官方游戏TH06 **东方红魔乡** 的敌机符卡
 
+
 ## 目录
 
 - [1 帕秋莉·诺蕾姬](#帕秋莉·诺蕾姬)
@@ -157,7 +158,9 @@
 
 
 # 帕秋莉·诺蕾姬
+
 ## 以机体顺序排列
+
 ### Easy
 
 <table>
@@ -172,31 +175,32 @@
 <td>灵符</td>
 <td>1非</td>
 <td>2非</td>
-<td><a href="/%E7%81%AB%E7%AC%A6%E3%80%8CAgni_Shine%E3%80%8D" class="mw-redirect" title="火符「Agni Shine」">火符「Agni Shine」</a></td>
-<td><a href="/%E7%81%AB%26%E5%9C%9F%E7%AC%A6%E3%80%8CLava_Cromlech%E3%80%8D" class="mw-redirect" title="火&amp;土符「Lava Cromlech」">火&amp;土符「Lava Cromlech」</a>
+<td><a href="./火符「Agni_Shine」.md" class="mw-redirect" title="火符「Agni Shine」">火符「Agni Shine」</a></td>
+<td><a href="./火&土符「Lava_Cromlech」.md" class="mw-redirect" title="火&amp;土符「Lava Cromlech」">火&amp;土符「Lava Cromlech」</a>
 </td></tr>
 <tr>
 <td>梦符</td>
 <td>1非</td>
 <td>2非</td>
-<td><a href="/%E6%B0%B4%E7%AC%A6%E3%80%8CPrincess_Undine%E3%80%8D" class="mw-redirect" title="水符「Princess Undine」">水符「Princess Undine」</a></td>
-<td><a href="/%E6%B0%B4%26%E6%9C%A8%E7%AC%A6%E3%80%8CWater_Elf%E3%80%8D" class="mw-redirect" title="水&amp;木符「Water Elf」">水&amp;木符「Water Elf」</a>
+<td><a href="./水符「Princess_Undine」.md" class="mw-redirect" title="水符「Princess Undine」">水符「Princess Undine」</a></td>
+<td><a href="./水&木符「Water_Elf」.md" class="mw-redirect" title="水&amp;木符「Water Elf」">水&amp;木符「Water Elf」</a>
 </td></tr>
 <tr>
 <td>魔符</td>
 <td>1非</td>
 <td>2非</td>
-<td><a href="/%E6%9C%A8%E7%AC%A6%E3%80%8CSylphy_Horn%E3%80%8D" class="mw-redirect" title="木符「Sylphy Horn」">木符「Sylphy Horn」</a></td>
-<td><a href="/%E6%9C%A8%26%E7%81%AB%E7%AC%A6%E3%80%8CForest_Blaze%E3%80%8D" class="mw-redirect" title="木&amp;火符「Forest Blaze」">木&amp;火符「Forest Blaze」</a>
+<td><a href="./木符「Sylphy_Horn」.md" class="mw-redirect" title="木符「Sylphy Horn」">木符「Sylphy Horn」</a></td>
+<td><a href="./木&火符「Forest_Blaze」.md" class="mw-redirect" title="木&amp;火符「Forest Blaze」">木&amp;火符「Forest Blaze」</a>
 </td></tr>
 <tr>
 <td>恋符</td>
 <td>1非</td>
 <td>2非</td>
-<td><a href="/%E5%9C%9F%E7%AC%A6%E3%80%8CLazy_Trilithon%E3%80%8D" class="mw-redirect" title="土符「Lazy Trilithon」">土符「Lazy Trilithon」</a></td>
-<td><a href="/%E5%9C%9F%26%E9%87%91%E7%AC%A6%E3%80%8CEmerald_Megalith%E3%80%8D" class="mw-redirect" title="土&amp;金符「Emerald Megalith」">土&amp;金符「Emerald Megalith」</a>
+<td><a href="./土符「Lazy_Trilithon」.md" class="mw-redirect" title="土符「Lazy Trilithon」">土符「Lazy Trilithon」</a></td>
+<td><a href="./土&金符「Emerald_Megalith」.md" class="mw-redirect" title="土&amp;金符「Emerald Megalith」">土&amp;金符「Emerald Megalith」</a>
 </td></tr>
 </tbody></table>
+
 
 
 ### Normal
@@ -212,40 +216,41 @@
 <tr>
 <td>灵符</td>
 <td>1非</td>
-<td><a href="/%E7%81%AB%E7%AC%A6%E3%80%8CAgni_Shine%E3%80%8D" class="mw-redirect" title="火符「Agni Shine」">火符「Agni Shine」</a></td>
+<td><a href="./火符「Agni_Shine」.md" class="mw-redirect" title="火符「Agni Shine」">火符「Agni Shine」</a></td>
 <td>2非</td>
-<td><a href="/%E5%9C%9F%E7%AC%A6%E3%80%8CLazy_Trilithon%E4%B8%8A%E7%BA%A7%E3%80%8D" class="mw-redirect" title="土符「Lazy Trilithon上级」">土符「Lazy Trilithon上级」</a></td>
-<td><a href="/%E7%81%AB%26%E5%9C%9F%E7%AC%A6%E3%80%8CLava_Cromlech%E3%80%8D" class="mw-redirect" title="火&amp;土符「Lava Cromlech」">火&amp;土符「Lava Cromlech」</a></td>
-<td><a href="/%E9%87%91%26%E6%B0%B4%E7%AC%A6%E3%80%8CMercury_Poison%E3%80%8D" class="mw-redirect" title="金&amp;水符「Mercury Poison」">金&amp;水符「Mercury Poison」</a>
+<td><a href="./土符「Lazy_Trilithon上级」.md" class="mw-redirect" title="土符「Lazy Trilithon上级」">土符「Lazy Trilithon上级」</a></td>
+<td><a href="./火&土符「Lava_Cromlech」.md" class="mw-redirect" title="火&amp;土符「Lava Cromlech」">火&amp;土符「Lava Cromlech」</a></td>
+<td><a href="./金&水符「Mercury_Poison」.md" class="mw-redirect" title="金&amp;水符「Mercury Poison」">金&amp;水符「Mercury Poison」</a>
 </td></tr>
 <tr>
 <td>梦符</td>
 <td>1非</td>
-<td><a href="/%E6%B0%B4%E7%AC%A6%E3%80%8CPrincess_Undine%E3%80%8D" class="mw-redirect" title="水符「Princess Undine」">水符「Princess Undine」</a></td>
+<td><a href="./水符「Princess_Undine」.md" class="mw-redirect" title="水符「Princess Undine」">水符「Princess Undine」</a></td>
 <td>2非</td>
-<td><a href="/%E6%9C%A8%E7%AC%A6%E3%80%8CSylphy_Horn%E4%B8%8A%E7%BA%A7%E3%80%8D" class="mw-redirect" title="木符「Sylphy Horn上级」">木符「Sylphy Horn上级」</a></td>
-<td><a href="/%E6%B0%B4%26%E6%9C%A8%E7%AC%A6%E3%80%8CWater_Elf%E3%80%8D" class="mw-redirect" title="水&amp;木符「Water Elf」">水&amp;木符「Water Elf」</a></td>
-<td><a href="/%E9%87%91%26%E6%B0%B4%E7%AC%A6%E3%80%8CMercury_Poison%E3%80%8D" class="mw-redirect" title="金&amp;水符「Mercury Poison」">金&amp;水符「Mercury Poison」</a>
+<td><a href="./木符「Sylphy_Horn上级」.md" class="mw-redirect" title="木符「Sylphy Horn上级」">木符「Sylphy Horn上级」</a></td>
+<td><a href="./水&木符「Water_Elf」.md" class="mw-redirect" title="水&amp;木符「Water Elf」">水&amp;木符「Water Elf」</a></td>
+<td><a href="./金&水符「Mercury_Poison」.md" class="mw-redirect" title="金&amp;水符「Mercury Poison」">金&amp;水符「Mercury Poison」</a>
 </td></tr>
 <tr>
 <td>魔符</td>
 <td>1非</td>
-<td><a href="/%E6%9C%A8%E7%AC%A6%E3%80%8CSylphy_Horn%E3%80%8D" class="mw-redirect" title="木符「Sylphy Horn」">木符「Sylphy Horn」</a></td>
+<td><a href="./木符「Sylphy_Horn」.md" class="mw-redirect" title="木符「Sylphy Horn」">木符「Sylphy Horn」</a></td>
 <td>2非</td>
-<td><a href="/%E7%81%AB%E7%AC%A6%E3%80%8CAgni_Shine%E4%B8%8A%E7%BA%A7%E3%80%8D" class="mw-redirect" title="火符「Agni Shine上级」">火符「Agni Shine上级」</a></td>
-<td><a href="/%E6%9C%A8%26%E7%81%AB%E7%AC%A6%E3%80%8CForest_Blaze%E3%80%8D" class="mw-redirect" title="木&amp;火符「Forest Blaze」">木&amp;火符「Forest Blaze」</a></td>
-<td><a href="/%E5%9C%9F%26%E9%87%91%E7%AC%A6%E3%80%8CEmerald_Megalith%E3%80%8D" class="mw-redirect" title="土&amp;金符「Emerald Megalith」">土&amp;金符「Emerald Megalith」</a>
+<td><a href="./火符「Agni_Shine上级」.md" class="mw-redirect" title="火符「Agni Shine上级」">火符「Agni Shine上级」</a></td>
+<td><a href="./木&火符「Forest_Blaze」.md" class="mw-redirect" title="木&amp;火符「Forest Blaze」">木&amp;火符「Forest Blaze」</a></td>
+<td><a href="./土&金符「Emerald_Megalith」.md" class="mw-redirect" title="土&amp;金符「Emerald Megalith」">土&amp;金符「Emerald Megalith」</a>
 </td></tr>
 <tr>
 <td>恋符</td>
 <td>1非</td>
-<td><a href="/%E5%9C%9F%E7%AC%A6%E3%80%8CLazy_Trilithon%E3%80%8D" class="mw-redirect" title="土符「Lazy Trilithon」">土符「Lazy Trilithon」</a></td>
+<td><a href="./土符「Lazy_Trilithon」.md" class="mw-redirect" title="土符「Lazy Trilithon」">土符「Lazy Trilithon」</a></td>
 <td>2非</td>
-<td><a href="/%E9%87%91%E7%AC%A6%E3%80%8CMetal_Fatigue%E3%80%8D" class="mw-redirect" title="金符「Metal Fatigue」">金符「Metal Fatigue」</a></td>
-<td><a href="/%E5%9C%9F%26%E9%87%91%E7%AC%A6%E3%80%8CEmerald_Megalith%E3%80%8D" class="mw-redirect" title="土&amp;金符「Emerald Megalith」">土&amp;金符「Emerald Megalith」</a></td>
-<td><a href="/%E6%B0%B4%26%E6%9C%A8%E7%AC%A6%E3%80%8CWater_Elf%E3%80%8D" class="mw-redirect" title="水&amp;木符「Water Elf」">水&amp;木符「Water Elf」</a>
+<td><a href="./金符「Metal_Fatigue」.md" class="mw-redirect" title="金符「Metal Fatigue」">金符「Metal Fatigue」</a></td>
+<td><a href="./土&金符「Emerald_Megalith」.md" class="mw-redirect" title="土&amp;金符「Emerald Megalith」">土&amp;金符「Emerald Megalith」</a></td>
+<td><a href="./水&木符「Water_Elf」.md" class="mw-redirect" title="水&amp;木符「Water Elf」">水&amp;木符「Water Elf」</a>
 </td></tr>
 </tbody></table>
+
 
 
 ### Hard/Lunatic
@@ -261,47 +266,49 @@
 <tr>
 <td>灵符</td>
 <td>1非</td>
-<td><a href="/%E7%81%AB%E7%AC%A6%E3%80%8CAgni_Shine%E4%B8%8A%E7%BA%A7%E3%80%8D" class="mw-redirect" title="火符「Agni Shine上级」">火符「Agni Shine上级」</a></td>
+<td><a href="./火符「Agni_Shine上级」.md" class="mw-redirect" title="火符「Agni Shine上级」">火符「Agni Shine上级」</a></td>
 <td>2非</td>
-<td><a href="/%E5%9C%9F%E7%AC%A6%E3%80%8CTrilithon_Shake%E3%80%8D" class="mw-redirect" title="土符「Trilithon Shake」">土符「Trilithon Shake」</a></td>
-<td><a href="/%E7%81%AB%26%E5%9C%9F%E7%AC%A6%E3%80%8CLava_Cromlech%E3%80%8D" class="mw-redirect" title="火&amp;土符「Lava Cromlech」">火&amp;土符「Lava Cromlech」</a></td>
-<td><a href="/%E9%87%91%26%E6%B0%B4%E7%AC%A6%E3%80%8CMercury_Poison%E3%80%8D" class="mw-redirect" title="金&amp;水符「Mercury Poison」">金&amp;水符「Mercury Poison」</a></td>
-<td><a href="/%E6%9C%A8%26%E7%81%AB%E7%AC%A6%E3%80%8CForest_Blaze%E3%80%8D" class="mw-redirect" title="木&amp;火符「Forest Blaze」">木&amp;火符「Forest Blaze」</a>
+<td><a href="./土符「Trilithon_Shake」.md" class="mw-redirect" title="土符「Trilithon Shake」">土符「Trilithon Shake」</a></td>
+<td><a href="./火&土符「Lava_Cromlech」.md" class="mw-redirect" title="火&amp;土符「Lava Cromlech」">火&amp;土符「Lava Cromlech」</a></td>
+<td><a href="./金&水符「Mercury_Poison」.md" class="mw-redirect" title="金&amp;水符「Mercury Poison」">金&amp;水符「Mercury Poison」</a></td>
+<td><a href="./木&火符「Forest_Blaze」.md" class="mw-redirect" title="木&amp;火符「Forest Blaze」">木&amp;火符「Forest Blaze」</a>
 </td></tr>
 <tr>
 <td>梦符</td>
 <td>1非</td>
-<td><a href="/%E6%B0%B4%E7%AC%A6%E3%80%8CBury_in_Lake%E3%80%8D" class="mw-redirect" title="水符「Bury in Lake」">水符「Bury in Lake」</a></td>
+<td><a href="./水符「Bury_in_Lake」.md" class="mw-redirect" title="水符「Bury in Lake」">水符「Bury in Lake」</a></td>
 <td>2非</td>
-<td><a href="/%E6%9C%A8%E7%AC%A6%E3%80%8CGreen_Storm%E3%80%8D" class="mw-redirect" title="木符「Green Storm」">木符「Green Storm」</a></td>
-<td><a href="/%E6%B0%B4%26%E6%9C%A8%E7%AC%A6%E3%80%8CWater_Elf%E3%80%8D" class="mw-redirect" title="水&amp;木符「Water Elf」">水&amp;木符「Water Elf」</a></td>
-<td><a href="/%E9%87%91%26%E6%B0%B4%E7%AC%A6%E3%80%8CMercury_Poison%E3%80%8D" class="mw-redirect" title="金&amp;水符「Mercury Poison」">金&amp;水符「Mercury Poison」</a></td>
-<td><a href="/%E5%9C%9F%26%E9%87%91%E7%AC%A6%E3%80%8CEmerald_Megalith%E3%80%8D" class="mw-redirect" title="土&amp;金符「Emerald Megalith」">土&amp;金符「Emerald Megalith」</a>
+<td><a href="./木符「Green_Storm」.md" class="mw-redirect" title="木符「Green Storm」">木符「Green Storm」</a></td>
+<td><a href="./水&木符「Water_Elf」.md" class="mw-redirect" title="水&amp;木符「Water Elf」">水&amp;木符「Water Elf」</a></td>
+<td><a href="./金&水符「Mercury_Poison」.md" class="mw-redirect" title="金&amp;水符「Mercury Poison」">金&amp;水符「Mercury Poison」</a></td>
+<td><a href="./土&金符「Emerald_Megalith」.md" class="mw-redirect" title="土&amp;金符「Emerald Megalith」">土&amp;金符「Emerald Megalith」</a>
 </td></tr>
 <tr>
 <td>魔符</td>
 <td>1非</td>
-<td><a href="/%E6%9C%A8%E7%AC%A6%E3%80%8CSylphy_Horn%E4%B8%8A%E7%BA%A7%E3%80%8D" class="mw-redirect" title="木符「Sylphy Horn上级」">木符「Sylphy Horn上级」</a></td>
+<td><a href="./木符「Sylphy_Horn上级」.md" class="mw-redirect" title="木符「Sylphy Horn上级」">木符「Sylphy Horn上级」</a></td>
 <td>2非</td>
-<td><a href="/%E7%81%AB%E7%AC%A6%E3%80%8CAgni_Radiance%E3%80%8D" class="mw-redirect" title="火符「Agni Radiance」">火符「Agni Radiance」</a></td>
-<td><a href="/%E6%9C%A8%26%E7%81%AB%E7%AC%A6%E3%80%8CForest_Blaze%E3%80%8D" class="mw-redirect" title="木&amp;火符「Forest Blaze」">木&amp;火符「Forest Blaze」</a></td>
-<td><a href="/%E5%9C%9F%26%E9%87%91%E7%AC%A6%E3%80%8CEmerald_Megalith%E3%80%8D" class="mw-redirect" title="土&amp;金符「Emerald Megalith」">土&amp;金符「Emerald Megalith」</a></td>
-<td><a href="/%E7%81%AB%26%E5%9C%9F%E7%AC%A6%E3%80%8CLava_Cromlech%E3%80%8D" class="mw-redirect" title="火&amp;土符「Lava Cromlech」">火&amp;土符「Lava Cromlech」</a>
+<td><a href="./火符「Agni_Radiance」.md" class="mw-redirect" title="火符「Agni Radiance」">火符「Agni Radiance」</a></td>
+<td><a href="./木&火符「Forest_Blaze」.md" class="mw-redirect" title="木&amp;火符「Forest Blaze」">木&amp;火符「Forest Blaze」</a></td>
+<td><a href="./土&金符「Emerald_Megalith」.md" class="mw-redirect" title="土&amp;金符「Emerald Megalith」">土&amp;金符「Emerald Megalith」</a></td>
+<td><a href="./火&土符「Lava_Cromlech」.md" class="mw-redirect" title="火&amp;土符「Lava Cromlech」">火&amp;土符「Lava Cromlech」</a>
 </td></tr>
 <tr>
 <td>恋符</td>
 <td>1非</td>
-<td><a href="/%E5%9C%9F%E7%AC%A6%E3%80%8CLazy_Trilithon%E4%B8%8A%E7%BA%A7%E3%80%8D" class="mw-redirect" title="土符「Lazy Trilithon上级」">土符「Lazy Trilithon上级」</a></td>
+<td><a href="./土符「Lazy_Trilithon上级」.md" class="mw-redirect" title="土符「Lazy Trilithon上级」">土符「Lazy Trilithon上级」</a></td>
 <td>2非</td>
-<td><a href="/%E9%87%91%E7%AC%A6%E3%80%8CSilver_Dragon%E3%80%8D" class="mw-redirect" title="金符「Silver Dragon」">金符「Silver Dragon」</a></td>
-<td><a href="/%E5%9C%9F%26%E9%87%91%E7%AC%A6%E3%80%8CEmerald_Megalith%E3%80%8D" class="mw-redirect" title="土&amp;金符「Emerald Megalith」">土&amp;金符「Emerald Megalith」</a></td>
-<td><a href="/%E6%B0%B4%26%E6%9C%A8%E7%AC%A6%E3%80%8CWater_Elf%E3%80%8D" class="mw-redirect" title="水&amp;木符「Water Elf」">水&amp;木符「Water Elf」</a></td>
-<td><a href="/%E9%87%91%26%E6%B0%B4%E7%AC%A6%E3%80%8CMercury_Poison%E3%80%8D" class="mw-redirect" title="金&amp;水符「Mercury Poison」">金&amp;水符「Mercury Poison」</a>
+<td><a href="./金符「Silver_Dragon」.md" class="mw-redirect" title="金符「Silver Dragon」">金符「Silver Dragon」</a></td>
+<td><a href="./土&金符「Emerald_Megalith」.md" class="mw-redirect" title="土&amp;金符「Emerald Megalith」">土&amp;金符「Emerald Megalith」</a></td>
+<td><a href="./水&木符「Water_Elf」.md" class="mw-redirect" title="水&amp;木符「Water Elf」">水&amp;木符「Water Elf」</a></td>
+<td><a href="./金&水符「Mercury_Poison」.md" class="mw-redirect" title="金&amp;水符「Mercury Poison」">金&amp;水符「Mercury Poison」</a>
 </td></tr>
 </tbody></table>
 
 
+
 ## 以序号顺序排列
+
 ### No.15
 
 <table>
@@ -315,9 +322,10 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="/%E7%81%AB%E7%AC%A6%E3%80%8CAgni_Shine%E3%80%8D" class="mw-redirect" title="火符「Agni Shine」">火符「Agni Shine」</a>
+<p><a href="./火符「Agni_Shine」.md" class="mw-redirect" title="火符「Agni Shine」">火符「Agni Shine」</a>
 </p>
 </th></tr></tbody></table>
+
 
 
 #### 符卡信息
@@ -334,6 +342,7 @@
 
 
 
+
 ### No.16
 
 <table>
@@ -347,9 +356,10 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="/%E6%B0%B4%E7%AC%A6%E3%80%8CPrincess_Undine%E3%80%8D" class="mw-redirect" title="水符「Princess Undine」">水符「Princess Undine」</a>
+<p><a href="./水符「Princess_Undine」.md" class="mw-redirect" title="水符「Princess Undine」">水符「Princess Undine」</a>
 </p>
 </th></tr></tbody></table>
+
 
 
 #### 符卡信息
@@ -377,6 +387,7 @@
 
 
 
+
 ### No.17
 
 <table>
@@ -390,9 +401,10 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="/%E6%9C%A8%E7%AC%A6%E3%80%8CSylphy_Horn%E3%80%8D" class="mw-redirect" title="木符「Sylphy Horn」">木符「Sylphy Horn」</a>
+<p><a href="./木符「Sylphy_Horn」.md" class="mw-redirect" title="木符「Sylphy Horn」">木符「Sylphy Horn」</a>
 </p>
 </th></tr></tbody></table>
+
 
 
 #### 符卡信息
@@ -409,6 +421,7 @@
 
 
 
+
 ### No.18
 
 <table>
@@ -422,9 +435,10 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="/%E5%9C%9F%E7%AC%A6%E3%80%8CLazy_Trilithon%E3%80%8D" class="mw-redirect" title="土符「Lazy Trilithon」">土符「Lazy Trilithon」</a>
+<p><a href="./土符「Lazy_Trilithon」.md" class="mw-redirect" title="土符「Lazy Trilithon」">土符「Lazy Trilithon」</a>
 </p>
 </th></tr></tbody></table>
+
 
 
 #### 符卡信息
@@ -441,6 +455,7 @@
 
 
 
+
 ### No.19
 
 <table>
@@ -454,9 +469,10 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="/%E9%87%91%E7%AC%A6%E3%80%8CMetal_Fatigue%E3%80%8D" class="mw-redirect" title="金符「Metal Fatigue」">金符「Metal Fatigue」</a>
+<p><a href="./金符「Metal_Fatigue」.md" class="mw-redirect" title="金符「Metal Fatigue」">金符「Metal Fatigue」</a>
 </p>
 </th></tr></tbody></table>
+
 
 
 #### 符卡信息
@@ -473,6 +489,7 @@
 
 
 
+
 ### No.20
 
 <table>
@@ -486,9 +503,10 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="/%E7%81%AB%E7%AC%A6%E3%80%8CAgni_Shine%E4%B8%8A%E7%BA%A7%E3%80%8D" class="mw-redirect" title="火符「Agni Shine上级」">火符「Agni Shine上级」</a>
+<p><a href="./火符「Agni_Shine上级」.md" class="mw-redirect" title="火符「Agni Shine上级」">火符「Agni Shine上级」</a>
 </p>
 </th></tr></tbody></table>
+
 
 
 #### 符卡信息
@@ -505,6 +523,7 @@
 
 
 
+
 ### No.21
 
 <table>
@@ -518,9 +537,10 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="/%E6%9C%A8%E7%AC%A6%E3%80%8CSylphy_Horn%E4%B8%8A%E7%BA%A7%E3%80%8D" class="mw-redirect" title="木符「Sylphy Horn上级」">木符「Sylphy Horn上级」</a>
+<p><a href="./木符「Sylphy_Horn上级」.md" class="mw-redirect" title="木符「Sylphy Horn上级」">木符「Sylphy Horn上级」</a>
 </p>
 </th></tr></tbody></table>
+
 
 
 #### 符卡信息
@@ -537,6 +557,7 @@
 
 
 
+
 ### No.22
 
 <table>
@@ -550,9 +571,10 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="/%E5%9C%9F%E7%AC%A6%E3%80%8CLazy_Trilithon%E4%B8%8A%E7%BA%A7%E3%80%8D" class="mw-redirect" title="土符「Lazy Trilithon上级」">土符「Lazy Trilithon上级」</a>
+<p><a href="./土符「Lazy_Trilithon上级」.md" class="mw-redirect" title="土符「Lazy Trilithon上级」">土符「Lazy Trilithon上级」</a>
 </p>
 </th></tr></tbody></table>
+
 
 
 #### 符卡信息
@@ -569,6 +591,7 @@
 
 
 
+
 ### No.23
 
 <table>
@@ -582,9 +605,10 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="/%E7%81%AB%E7%AC%A6%E3%80%8CAgni_Radiance%E3%80%8D" class="mw-redirect" title="火符「Agni Radiance」">火符「Agni Radiance」</a>
+<p><a href="./火符「Agni_Radiance」.md" class="mw-redirect" title="火符「Agni Radiance」">火符「Agni Radiance」</a>
 </p>
 </th></tr></tbody></table>
+
 
 
 #### 符卡信息
@@ -601,6 +625,7 @@
 
 
 
+
 ### No.24
 
 <table>
@@ -614,9 +639,10 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="/%E6%B0%B4%E7%AC%A6%E3%80%8CBury_in_Lake%E3%80%8D" class="mw-redirect" title="水符「Bury in Lake」">水符「Bury in Lake」</a>
+<p><a href="./水符「Bury_in_Lake」.md" class="mw-redirect" title="水符「Bury in Lake」">水符「Bury in Lake」</a>
 </p>
 </th></tr></tbody></table>
+
 
 
 #### 符卡信息
@@ -644,6 +670,7 @@
 
 
 
+
 ### No.25
 
 <table>
@@ -657,9 +684,10 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="/%E6%9C%A8%E7%AC%A6%E3%80%8CGreen_Storm%E3%80%8D" class="mw-redirect" title="木符「Green Storm」">木符「Green Storm」</a>
+<p><a href="./木符「Green_Storm」.md" class="mw-redirect" title="木符「Green Storm」">木符「Green Storm」</a>
 </p>
 </th></tr></tbody></table>
+
 
 
 #### 符卡信息
@@ -676,6 +704,7 @@
 
 
 
+
 ### No.26
 
 <table>
@@ -689,9 +718,10 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="/%E5%9C%9F%E7%AC%A6%E3%80%8CTrilithon_Shake%E3%80%8D" class="mw-redirect" title="土符「Trilithon Shake」">土符「Trilithon Shake」</a>
+<p><a href="./土符「Trilithon_Shake」.md" class="mw-redirect" title="土符「Trilithon Shake」">土符「Trilithon Shake」</a>
 </p>
 </th></tr></tbody></table>
+
 
 
 #### 符卡信息
@@ -708,6 +738,7 @@
 
 
 
+
 ### No.27
 
 <table>
@@ -721,9 +752,10 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="/%E9%87%91%E7%AC%A6%E3%80%8CSilver_Dragon%E3%80%8D" class="mw-redirect" title="金符「Silver Dragon」">金符「Silver Dragon」</a>
+<p><a href="./金符「Silver_Dragon」.md" class="mw-redirect" title="金符「Silver Dragon」">金符「Silver Dragon」</a>
 </p>
 </th></tr></tbody></table>
+
 
 
 #### 符卡信息
@@ -740,6 +772,7 @@
 
 
 
+
 ### No.28
 
 <table>
@@ -753,9 +786,10 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="/%E7%81%AB%26%E5%9C%9F%E7%AC%A6%E3%80%8CLava_Cromlech%E3%80%8D" class="mw-redirect" title="火&amp;土符「Lava Cromlech」">火&amp;土符「Lava Cromlech」</a>
+<p><a href="./火&土符「Lava_Cromlech」.md" class="mw-redirect" title="火&amp;土符「Lava Cromlech」">火&amp;土符「Lava Cromlech」</a>
 </p>
 </th></tr></tbody></table>
+
 
 
 #### 符卡信息
@@ -772,6 +806,7 @@
 
 
 
+
 ### No.29
 
 <table>
@@ -785,9 +820,10 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="/%E6%9C%A8%26%E7%81%AB%E7%AC%A6%E3%80%8CForest_Blaze%E3%80%8D" class="mw-redirect" title="木&amp;火符「Forest Blaze」">木&amp;火符「Forest Blaze」</a>
+<p><a href="./木&火符「Forest_Blaze」.md" class="mw-redirect" title="木&amp;火符「Forest Blaze」">木&amp;火符「Forest Blaze」</a>
 </p>
 </th></tr></tbody></table>
+
 
 
 #### 符卡信息
@@ -804,6 +840,7 @@
 
 
 
+
 ### No.30
 
 <table>
@@ -817,9 +854,10 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="/%E6%B0%B4%26%E6%9C%A8%E7%AC%A6%E3%80%8CWater_Elf%E3%80%8D" class="mw-redirect" title="水&amp;木符「Water Elf」">水&amp;木符「Water Elf」</a>
+<p><a href="./水&木符「Water_Elf」.md" class="mw-redirect" title="水&amp;木符「Water Elf」">水&amp;木符「Water Elf」</a>
 </p>
 </th></tr></tbody></table>
+
 
 
 #### 符卡信息
@@ -836,6 +874,7 @@
 
 
 
+
 ### No.31
 
 <table>
@@ -849,9 +888,10 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="/%E9%87%91%26%E6%B0%B4%E7%AC%A6%E3%80%8CMercury_Poison%E3%80%8D" class="mw-redirect" title="金&amp;水符「Mercury Poison」">金&amp;水符「Mercury Poison」</a>
+<p><a href="./金&水符「Mercury_Poison」.md" class="mw-redirect" title="金&amp;水符「Mercury Poison」">金&amp;水符「Mercury Poison」</a>
 </p>
 </th></tr></tbody></table>
+
 
 
 #### 符卡信息
@@ -868,6 +908,7 @@
 
 
 
+
 ### No.32
 
 <table>
@@ -881,9 +922,10 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="/%E5%9C%9F%26%E9%87%91%E7%AC%A6%E3%80%8CEmerald_Megalith%E3%80%8D" class="mw-redirect" title="土&amp;金符「Emerald Megalith」">土&amp;金符「Emerald Megalith」</a>
+<p><a href="./土&金符「Emerald_Megalith」.md" class="mw-redirect" title="土&amp;金符「Emerald Megalith」">土&amp;金符「Emerald Megalith」</a>
 </p>
 </th></tr></tbody></table>
+
 
 
 #### 符卡信息
@@ -904,7 +946,7 @@
   
   
 
-<table><tbody><tr><td><table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;;;"><tbody><tr><th style=";" colspan="3" class="navbox-title"><div class="navbar"><div class="noprint plainlinksneverexpand" style="background-color:transparent; padding:0; font-weight:normal; font-size:80%; white-space:nowrap;"><a href="./模板-东方红魔乡导航.md" title="模板:东方红魔乡导航"><span style=";;border:none;" title="查看这个模板">查</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<a href="/index.php?title=%E6%A8%A1%E6%9D%BF:%E4%B8%9C%E6%96%B9%E7%BA%A2%E9%AD%94%E4%B9%A1%E5%AF%BC%E8%88%AA&amp;action=edit"><span style=";;border:none;" title="您可以编辑这个模板。请在储存变更之前先预览">编</span></a></div></div><span><a href="./东方红魔乡.md" title="东方红魔乡">东方红魔乡</a></span></th></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">角色</td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>自机</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a> &#8226; <a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>BOSS</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./露米娅.md" title="露米娅">露米娅</a> &#8226; <a href="./大妖精.md" title="大妖精">大妖精</a> &#8226; <a href="./琪露诺.md" title="琪露诺">琪露诺</a> &#8226; <a href="./红美铃.md" title="红美铃">红美铃</a> &#8226; <a href="./小恶魔.md" title="小恶魔">小恶魔</a> &#8226; <a href="./帕秋莉·诺蕾姬.md" title="帕秋莉·诺蕾姬">帕秋莉·诺蕾姬</a> &#8226; <a href="/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C" title="十六夜咲夜">十六夜咲夜</a> &#8226; <a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a> &#8226; <a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>其他角色</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./冴月麟.md" title="冴月麟">冴月麟</a></div></td></tr></tbody></table><div></div></td><td class="navbox-image" style="" rowspan="11"><a href="./文件-红魔乡载入界面.jpg.md" class="image"><img alt="红魔乡载入界面.jpg" src="https://upload.thwiki.cc/thumb/0/08/%E7%BA%A2%E9%AD%94%E4%B9%A1%E8%BD%BD%E5%85%A5%E7%95%8C%E9%9D%A2.jpg/160px-%E7%BA%A2%E9%AD%94%E4%B9%A1%E8%BD%BD%E5%85%A5%E7%95%8C%E9%9D%A2.jpg" decoding="async" loading="lazy" width="160" height="120" srcset="https://upload.thwiki.cc/thumb/0/08/%E7%BA%A2%E9%AD%94%E4%B9%A1%E8%BD%BD%E5%85%A5%E7%95%8C%E9%9D%A2.jpg/240px-%E7%BA%A2%E9%AD%94%E4%B9%A1%E8%BD%BD%E5%85%A5%E7%95%8C%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/0/08/%E7%BA%A2%E9%AD%94%E4%B9%A1%E8%BD%BD%E5%85%A5%E7%95%8C%E9%9D%A2.jpg/320px-%E7%BA%A2%E9%AD%94%E4%B9%A1%E8%BD%BD%E5%85%A5%E7%95%8C%E9%9D%A2.jpg 2x" data-file-width="640" data-file-height="480"></a></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">剧情</td><td style=";;" class="navbox-list navbox-even"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>剧情文本</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="/%E6%B8%B8%E6%88%8F%E5%AF%B9%E8%AF%9D:%E4%B8%9C%E6%96%B9%E7%BA%A2%E9%AD%94%E4%B9%A1/%E6%95%85%E4%BA%8B%E8%83%8C%E6%99%AF" class="mw-redirect" title="游戏对话:东方红魔乡/故事背景">故事背景</a> &#8226; <a href="/%E9%99%84%E5%B8%A6%E6%96%87%E6%A1%A3:%E4%B8%9C%E6%96%B9%E7%BA%A2%E9%AD%94%E4%B9%A1/Omake#Extra_Story" title="附带文档:东方红魔乡/Omake">Ex 故事背景</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>游戏对话&amp;结局</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./游戏对话-东方红魔乡-博丽灵梦.md" title="游戏对话:东方红魔乡/博丽灵梦">博丽灵梦</a> &#8226; <a href="./游戏对话-东方红魔乡-雾雨魔理沙.md" title="游戏对话:东方红魔乡/雾雨魔理沙">雾雨魔理沙</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>Ex游戏对话</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./游戏对话-东方红魔乡-博丽灵梦_ExStory.md" title="游戏对话:东方红魔乡/博丽灵梦 ExStory">博丽灵梦</a> &#8226; <a href="./游戏对话-东方红魔乡-雾雨魔理沙_ExStory.md" title="游戏对话:东方红魔乡/雾雨魔理沙 ExStory">雾雨魔理沙</a></div></td></tr></tbody></table><div></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">场景</td><td style=";;" class="navbox-list navbox-odd"><div><a href="./博丽神社.md" title="博丽神社">博丽神社</a> &#8226; <a href="./妖怪兽道.md" title="妖怪兽道">妖怪兽道</a> &#8226; <a href="./雾之湖.md" title="雾之湖">雾之湖</a> &#8226; <a href="./红魔馆.md" title="红魔馆">红魔馆</a> &#8226; <a href="/%E7%BA%A2%E9%AD%94%E9%A6%86#红魔馆大图书馆" title="红魔馆">红魔馆大图书馆</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">音乐</td><td style=";;" class="navbox-list navbox-even"><div><a href="/%E4%B8%9C%E6%96%B9%E7%BA%A2%E9%AD%94%E4%B9%A1/Music#Music_Room" title="东方红魔乡/Music">Music Room</a> &#8226; <a href="/%E9%99%84%E5%B8%A6%E6%96%87%E6%A1%A3:%E4%B8%9C%E6%96%B9%E7%BA%A2%E9%AD%94%E4%B9%A1/Omake#里音乐评论" title="附带文档:东方红魔乡/Omake">里音乐评论</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="/%E4%B8%9C%E6%96%B9%E7%BA%A2%E9%AD%94%E4%B9%A1#附带文档" title="东方红魔乡">附带文档</a></td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>体验版</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./附带文档-东方红魔乡体验版-Manual.md" title="附带文档:东方红魔乡体验版/Manual">Manual</a> &#8226; <a href="./附带文档-东方红魔乡体验版-Taiken.md" title="附带文档:东方红魔乡体验版/Taiken">Taiken</a> &#8226; <a href="./附带文档-东方红魔乡体验版-Custom.md" title="附带文档:东方红魔乡体验版/Custom">Custom</a> &#8226; <a href="./附带文档-东方红魔乡体验版-Readme.md" title="附带文档:东方红魔乡体验版/Readme">Readme</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>正式版</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./附带文档-东方红魔乡-Manual.md" title="附带文档:东方红魔乡/Manual">Manual</a> &#8226; <a href="./附带文档-东方红魔乡-Omake.md" title="附带文档:东方红魔乡/Omake">Omake</a> &#8226; <a href="./附带文档-东方红魔乡-Custom.md" title="附带文档:东方红魔乡/Custom">Custom</a>  &#8226; <a href="./附带文档-东方红魔乡-Readme.md" title="附带文档:东方红魔乡/Readme">Readme</a> &#8226; <a href="./附带文档-东方红魔乡-光盘说明书.md" title="附带文档:东方红魔乡/光盘说明书">光盘说明书</a></div></td></tr></tbody></table><div></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="/%E7%AC%A6%E5%8D%A1%E5%88%97%E8%A1%A8#东方红魔乡" title="符卡列表">符卡</a></td><td style=";;" class="navbox-list navbox-even"><div><a href="./东方红魔乡-自机符卡.md" title="东方红魔乡/自机符卡">自机符卡</a> &#8226; <a href="./东方红魔乡-Stage_1.md" title="东方红魔乡/Stage 1">Stage 1</a> &#8226; <a href="./东方红魔乡-Stage_2.md" title="东方红魔乡/Stage 2">Stage 2</a> &#8226; <a href="./东方红魔乡-Stage_3.md" title="东方红魔乡/Stage 3">Stage 3</a> &#8226; <a class="mw-selflink selflink">Stage 4</a> &#8226; <a href="./东方红魔乡-Stage_5.md" title="东方红魔乡/Stage 5">Stage 5</a> &#8226; <a href="./东方红魔乡-Stage_6.md" title="东方红魔乡/Stage 6">Stage 6</a> &#8226; <a href="./东方红魔乡-Extra.md" title="东方红魔乡/Extra">Extra</a></div></td></tr></tbody></table></td></tr></tbody></table>
+<table><tbody><tr><td><table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;;;"><tbody><tr><th style=";" colspan="3" class="navbox-title"><div class="navbar"><div class="noprint plainlinksneverexpand" style="background-color:transparent; padding:0; font-weight:normal; font-size:80%; white-space:nowrap;"><a href="./模板-东方红魔乡导航.md" title="模板:东方红魔乡导航"><span style=";;border:none;" title="查看这个模板">查</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<a href="/index.php?title=%E6%A8%A1%E6%9D%BF:%E4%B8%9C%E6%96%B9%E7%BA%A2%E9%AD%94%E4%B9%A1%E5%AF%BC%E8%88%AA&amp;action=edit"><span style=";;border:none;" title="您可以编辑这个模板。请在储存变更之前先预览">编</span></a></div></div><span><a href="./东方红魔乡.md" title="东方红魔乡">东方红魔乡</a></span></th></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">角色</td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>自机</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a> &#8226; <a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>BOSS</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./露米娅.md" title="露米娅">露米娅</a> &#8226; <a href="./大妖精.md" title="大妖精">大妖精</a> &#8226; <a href="./琪露诺.md" title="琪露诺">琪露诺</a> &#8226; <a href="./红美铃.md" title="红美铃">红美铃</a> &#8226; <a href="./小恶魔.md" title="小恶魔">小恶魔</a> &#8226; <a href="./帕秋莉·诺蕾姬.md" title="帕秋莉·诺蕾姬">帕秋莉·诺蕾姬</a> &#8226; <a href="/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C" title="十六夜咲夜">十六夜咲夜</a> &#8226; <a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a> &#8226; <a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>其他角色</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./冴月麟.md" title="冴月麟">冴月麟</a></div></td></tr></tbody></table><div></div></td><td class="navbox-image" style="" rowspan="11"><a href="./文件-红魔乡载入界面.jpg.md" class="image"><img alt="红魔乡载入界面.jpg" src="https://upload.thwiki.cc/thumb/0/08/%E7%BA%A2%E9%AD%94%E4%B9%A1%E8%BD%BD%E5%85%A5%E7%95%8C%E9%9D%A2.jpg/160px-%E7%BA%A2%E9%AD%94%E4%B9%A1%E8%BD%BD%E5%85%A5%E7%95%8C%E9%9D%A2.jpg" decoding="async" loading="lazy" width="160" height="120" srcset="https://upload.thwiki.cc/thumb/0/08/%E7%BA%A2%E9%AD%94%E4%B9%A1%E8%BD%BD%E5%85%A5%E7%95%8C%E9%9D%A2.jpg/240px-%E7%BA%A2%E9%AD%94%E4%B9%A1%E8%BD%BD%E5%85%A5%E7%95%8C%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/0/08/%E7%BA%A2%E9%AD%94%E4%B9%A1%E8%BD%BD%E5%85%A5%E7%95%8C%E9%9D%A2.jpg/320px-%E7%BA%A2%E9%AD%94%E4%B9%A1%E8%BD%BD%E5%85%A5%E7%95%8C%E9%9D%A2.jpg 2x" data-file-width="640" data-file-height="480"></a></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">剧情</td><td style=";;" class="navbox-list navbox-even"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>剧情文本</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./游戏对话-东方红魔乡-故事背景.md#故事背景" class="mw-redirect" title="游戏对话:东方红魔乡/故事背景">故事背景</a> &#8226; <a href="/%E9%99%84%E5%B8%A6%E6%96%87%E6%A1%A3:%E4%B8%9C%E6%96%B9%E7%BA%A2%E9%AD%94%E4%B9%A1/Omake#Extra_Story" title="附带文档:东方红魔乡/Omake">Ex 故事背景</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>游戏对话&amp;结局</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./游戏对话-东方红魔乡-博丽灵梦.md" title="游戏对话:东方红魔乡/博丽灵梦">博丽灵梦</a> &#8226; <a href="./游戏对话-东方红魔乡-雾雨魔理沙.md" title="游戏对话:东方红魔乡/雾雨魔理沙">雾雨魔理沙</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>Ex游戏对话</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./游戏对话-东方红魔乡-博丽灵梦_ExStory.md" title="游戏对话:东方红魔乡/博丽灵梦 ExStory">博丽灵梦</a> &#8226; <a href="./游戏对话-东方红魔乡-雾雨魔理沙_ExStory.md" title="游戏对话:东方红魔乡/雾雨魔理沙 ExStory">雾雨魔理沙</a></div></td></tr></tbody></table><div></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">场景</td><td style=";;" class="navbox-list navbox-odd"><div><a href="./博丽神社.md" title="博丽神社">博丽神社</a> &#8226; <a href="./妖怪兽道.md" title="妖怪兽道">妖怪兽道</a> &#8226; <a href="./雾之湖.md" title="雾之湖">雾之湖</a> &#8226; <a href="./红魔馆.md" title="红魔馆">红魔馆</a> &#8226; <a href="/%E7%BA%A2%E9%AD%94%E9%A6%86#红魔馆大图书馆" title="红魔馆">红魔馆大图书馆</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">音乐</td><td style=";;" class="navbox-list navbox-even"><div><a href="/%E4%B8%9C%E6%96%B9%E7%BA%A2%E9%AD%94%E4%B9%A1/Music#Music_Room" title="东方红魔乡/Music">Music Room</a> &#8226; <a href="/%E9%99%84%E5%B8%A6%E6%96%87%E6%A1%A3:%E4%B8%9C%E6%96%B9%E7%BA%A2%E9%AD%94%E4%B9%A1/Omake#里音乐评论" title="附带文档:东方红魔乡/Omake">里音乐评论</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="/%E4%B8%9C%E6%96%B9%E7%BA%A2%E9%AD%94%E4%B9%A1#附带文档" title="东方红魔乡">附带文档</a></td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>体验版</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./附带文档-东方红魔乡体验版-Manual.md" title="附带文档:东方红魔乡体验版/Manual">Manual</a> &#8226; <a href="./附带文档-东方红魔乡体验版-Taiken.md" title="附带文档:东方红魔乡体验版/Taiken">Taiken</a> &#8226; <a href="./附带文档-东方红魔乡体验版-Custom.md" title="附带文档:东方红魔乡体验版/Custom">Custom</a> &#8226; <a href="./附带文档-东方红魔乡体验版-Readme.md" title="附带文档:东方红魔乡体验版/Readme">Readme</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>正式版</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./附带文档-东方红魔乡-Manual.md" title="附带文档:东方红魔乡/Manual">Manual</a> &#8226; <a href="./附带文档-东方红魔乡-Omake.md" title="附带文档:东方红魔乡/Omake">Omake</a> &#8226; <a href="./附带文档-东方红魔乡-Custom.md" title="附带文档:东方红魔乡/Custom">Custom</a>  &#8226; <a href="./附带文档-东方红魔乡-Readme.md" title="附带文档:东方红魔乡/Readme">Readme</a> &#8226; <a href="./附带文档-东方红魔乡-光盘说明书.md" title="附带文档:东方红魔乡/光盘说明书">光盘说明书</a></div></td></tr></tbody></table><div></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="/%E7%AC%A6%E5%8D%A1%E5%88%97%E8%A1%A8#东方红魔乡" title="符卡列表">符卡</a></td><td style=";;" class="navbox-list navbox-even"><div><a href="./东方红魔乡-自机符卡.md" title="东方红魔乡/自机符卡">自机符卡</a> &#8226; <a href="./东方红魔乡-Stage_1.md" title="东方红魔乡/Stage 1">Stage 1</a> &#8226; <a href="./东方红魔乡-Stage_2.md" title="东方红魔乡/Stage 2">Stage 2</a> &#8226; <a href="./东方红魔乡-Stage_3.md" title="东方红魔乡/Stage 3">Stage 3</a> &#8226; <a class="mw-selflink selflink">Stage 4</a> &#8226; <a href="./东方红魔乡-Stage_5.md" title="东方红魔乡/Stage 5">Stage 5</a> &#8226; <a href="./东方红魔乡-Stage_6.md" title="东方红魔乡/Stage 6">Stage 6</a> &#8226; <a href="./东方红魔乡-Extra.md" title="东方红魔乡/Extra">Extra</a></div></td></tr></tbody></table></td></tr></tbody></table>
 
 
 

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-黒猫館モンプチ東方project総集編_大覚醒・壱封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/2/2f/%E9%BB%92%E7%8C%AB%E9%A4%A8%E3%83%A2%E3%83%B3%E3%83%97%E3%83%81%E6%9D%B1%E6%96%B9project%E7%B7%8F%E9%9B%86%E7%B7%A8_%E5%A4%A7%E8%A6%9A%E9%86%92%E3%83%BB%E5%A3%B1%E5%B0%81%E9%9D%A2.jpg/139px-%E9%BB%92%E7%8C%AB%E9%A4%A8%E3%83%A2%E3%83%B3%E3%83%97%E3%83%81%E6%9D%B1%E6%96%B9project%E7%B7%8F%E9%9B%86%E7%B7%A8_%E5%A4%A7%E8%A6%9A%E9%86%92%E3%83%BB%E5%A3%B1%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="139" height="196" srcset="https://upload.thwiki.cc/thumb/2/2f/%E9%BB%92%E7%8C%AB%E9%A4%A8%E3%83%A2%E3%83%B3%E3%83%97%E3%83%81%E6%9D%B1%E6%96%B9project%E7%B7%8F%E9%9B%86%E7%B7%A8_%E5%A4%A7%E8%A6%9A%E9%86%92%E3%83%BB%E5%A3%B1%E5%B0%81%E9%9D%A2.jpg/208px-%E9%BB%92%E7%8C%AB%E9%A4%A8%E3%83%A2%E3%83%B3%E3%83%97%E3%83%81%E6%9D%B1%E6%96%B9project%E7%B7%8F%E9%9B%86%E7%B7%A8_%E5%A4%A7%E8%A6%9A%E9%86%92%E3%83%BB%E5%A3%B1%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/2/2f/%E9%BB%92%E7%8C%AB%E9%A4%A8%E3%83%A2%E3%83%B3%E3%83%97%E3%83%81%E6%9D%B1%E6%96%B9project%E7%B7%8F%E9%9B%86%E7%B7%A8_%E5%A4%A7%E8%A6%9A%E9%86%92%E3%83%BB%E5%A3%B1%E5%B0%81%E9%9D%A2.jpg/278px-%E9%BB%92%E7%8C%AB%E9%A4%A8%E3%83%A2%E3%83%B3%E3%83%97%E3%83%81%E6%9D%B1%E6%96%B9project%E7%B7%8F%E9%9B%86%E7%B7%A8_%E5%A4%A7%E8%A6%9A%E9%86%92%E3%83%BB%E5%A3%B1%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="600" data-file-height="847"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>，<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a></div></td>
@@ -18,9 +19,11 @@
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=261926">蜜瓜</a></td></tr></tbody></table>
 
 
+
 ## Staff
 - [ニリ姉](./ニリ姉.md)
 - [ヤミザワ](./ヤミザワ.md)
+
 
 ## 评论
 

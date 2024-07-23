@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Qの模倣子封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/a/af/Q%E3%81%AE%E6%A8%A1%E5%80%A3%E5%AD%90%E5%B0%81%E9%9D%A2.jpg/158px-Q%E3%81%AE%E6%A8%A1%E5%80%A3%E5%AD%90%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="158" height="224" srcset="https://upload.thwiki.cc/thumb/a/af/Q%E3%81%AE%E6%A8%A1%E5%80%A3%E5%AD%90%E5%B0%81%E9%9D%A2.jpg/238px-Q%E3%81%AE%E6%A8%A1%E5%80%A3%E5%AD%90%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/a/af/Q%E3%81%AE%E6%A8%A1%E5%80%A3%E5%AD%90%E5%B0%81%E9%9D%A2.jpg/317px-Q%E3%81%AE%E6%A8%A1%E5%80%A3%E5%AD%90%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="400" data-file-height="565"></a><div class="cover-char">角色：<a href="./本居小铃.md" title="本居小铃">本居小铃</a>，<a href="./稗田阿求.md" title="稗田阿求">稗田阿求</a></div></td>
@@ -17,8 +18,10 @@ Qの模倣子（同人志，リレバ，2017） - 2017年8月11日 由 リレバ
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://bookwalker.jp/de45dfde1b-61a6-410d-b2df-e5397a0632a3">Bookwalker</a></td></tr></tbody></table>
 
 
+
 ## Staff
 - 仲谷鳰
+
 
 ## 评论
   

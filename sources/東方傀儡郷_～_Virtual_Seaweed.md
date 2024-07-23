@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 软件信息](#软件信息)
@@ -25,6 +26,7 @@
 
 
 
+
 ## 软件信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-東方傀儡郷_～_Virtual_Seaweed封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/a/aa/%E6%9D%B1%E6%96%B9%E5%82%80%E5%84%A1%E9%83%B7_%EF%BD%9E_Virtual_Seaweed%E5%B0%81%E9%9D%A2.png/224px-%E6%9D%B1%E6%96%B9%E5%82%80%E5%84%A1%E9%83%B7_%EF%BD%9E_Virtual_Seaweed%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="224" height="162" srcset="https://upload.thwiki.cc/thumb/a/aa/%E6%9D%B1%E6%96%B9%E5%82%80%E5%84%A1%E9%83%B7_%EF%BD%9E_Virtual_Seaweed%E5%B0%81%E9%9D%A2.png/336px-%E6%9D%B1%E6%96%B9%E5%82%80%E5%84%A1%E9%83%B7_%EF%BD%9E_Virtual_Seaweed%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/a/aa/%E6%9D%B1%E6%96%B9%E5%82%80%E5%84%A1%E9%83%B7_%EF%BD%9E_Virtual_Seaweed%E5%B0%81%E9%9D%A2.png/448px-%E6%9D%B1%E6%96%B9%E5%82%80%E5%84%A1%E9%83%B7_%EF%BD%9E_Virtual_Seaweed%E5%B0%81%E9%9D%A2.png 2x" data-file-width="936" data-file-height="679"></a></td>
@@ -33,9 +35,11 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.freem.ne.jp/win/game/27606">https://www.freem.ne.jp/win/game/27606</a></td></tr></tbody></table>
 
 東方傀儡郷 ～ Virtual Seaweed（同人游戏，まりもmarimoチャンネル，2021） - 2021年1月26日 由 まりもmarimoチャンネル  发布的STG同人游戏，可在 Windows 系统上运行，游戏人数为 单人模式，分级为 一般向
+
 ## Staff
 - 東方前線おすろ
 - まりもmarimoチャンネル
+
 
 ## 游戏简介
 
@@ -46,10 +50,13 @@
   
 
 
+
 ## 角色
+
 ### 自机
 
 <table><tbody><tr><td style="min-width:40px;" rowspan=""><div class="center"><div class="floatnone"><a href="./文件-博丽灵梦（傀儡乡）.png.md" class="image" title="博丽灵梦"><img alt="博丽灵梦" src="https://upload.thwiki.cc/thumb/4/4c/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E5%82%80%E5%84%A1%E4%B9%A1%EF%BC%89.png/40px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E5%82%80%E5%84%A1%E4%B9%A1%EF%BC%89.png" decoding="async" loading="lazy" width="40" height="40" srcset="https://upload.thwiki.cc/thumb/4/4c/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E5%82%80%E5%84%A1%E4%B9%A1%EF%BC%89.png/60px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E5%82%80%E5%84%A1%E4%B9%A1%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/4/4c/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E5%82%80%E5%84%A1%E4%B9%A1%EF%BC%89.png/80px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E5%82%80%E5%84%A1%E4%B9%A1%EF%BC%89.png 2x" data-file-width="512" data-file-height="512"></a></div></div></td> <td style="width:150px;padding:3px 9px 3px 7px;" rowspan="">乐园里美丽的巫女 </td><td style="width:180px;padding:3px 9px 3px 7px;"><a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></td><td><a href="/index.php?title=%E6%9D%B1%E6%96%B9%E5%82%80%E5%84%A1%E9%83%B7_%EF%BD%9E_Virtual_Seaweed/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6&amp;action=edit&amp;redlink=1" class="new" title="東方傀儡郷 ～ Virtual Seaweed/博丽灵梦（页面不存在）">游戏对话/结局</a><br><a href="/index.php?title=%E6%9D%B1%E6%96%B9%E5%82%80%E5%84%A1%E9%83%B7_%EF%BD%9E_Virtual_Seaweed/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6_ExStory&amp;action=edit&amp;redlink=1" class="new" title="東方傀儡郷 ～ Virtual Seaweed/博丽灵梦 ExStory（页面不存在）">Extra游戏对话</a></td></tr></tbody></table>
+
 
 
 ### BOSS
@@ -63,6 +70,7 @@
 <tr> <td class="bg-color-info-10" style="min-width:100px"><b>EX面道中</b></td> <td align="center" rowspan="2">暂无<br>图片</td> <td style="width:150px;padding:3px 9px 3px 7px;" rowspan="2"> 幻想入り財閥お嬢様</td><td style="width:180px;padding:3px 9px 3px 7px;" rowspan="2"> <a href="/index.php?title=%E3%81%8A%E3%81%99%E3%81%AE%E3%81%93%E4%BB%A4%E5%AC%A2&amp;action=edit&amp;redlink=1" class="new" title="おすのこ令嬢（页面不存在）">おすのこ令嬢</a></td></tr><tr><td class="bg-color-info-10" style="min-width:100px"><b>EX面BOSS</b></td></tr></tbody></table>
 
 
+
 ## 附带文档
 
 <table><tbody><tr>
@@ -74,6 +82,7 @@
 <li><a href="./東方傀儡郷_～_Virtual_Seaweed-Readme.md" title="東方傀儡郷 ～ Virtual Seaweed/Readme">Readme</a></li>
 <li><a href="./東方傀儡郷_～_Virtual_Seaweed-Omake.md" title="東方傀儡郷 ～ Virtual Seaweed/Omake">Omake</a></li></ul>
 </td></tr></tbody></table>
+
 
 
 ## 其他资料
@@ -91,6 +100,7 @@
 <ul><li><a href="/index.php?title=%E6%9D%B1%E6%96%B9%E5%82%80%E5%84%A1%E9%83%B7_%EF%BD%9E_Virtual_Seaweed/%E5%85%B6%E4%BB%96&amp;action=edit&amp;redlink=1" class="new" title="東方傀儡郷 ～ Virtual Seaweed/其他（页面不存在）">其他相关资料</a></li>
 <li><a href="/index.php?title=%E6%9D%B1%E6%96%B9%E5%82%80%E5%84%A1%E9%83%B7_%EF%BD%9E_Virtual_Seaweed/%E7%B3%BB%E7%BB%9F&amp;action=edit&amp;redlink=1" class="new" title="東方傀儡郷 ～ Virtual Seaweed/系统（页面不存在）">机体特性与系统说明</a></li></ul>
 </td></tr></tbody></table>
+
 
 
 ## 词条导航

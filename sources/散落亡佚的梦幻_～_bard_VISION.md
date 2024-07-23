@@ -6,6 +6,7 @@ JynX作曲 | 引用了翻译表的页面 | 散落亡佚的梦幻_～_bard_VISION
 
 本页是关于 **向[东方Project](./东方Project.md)  
 致敬、形式类似的作品** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -26,6 +27,7 @@ JynX作曲 | 引用了翻译表的页面 | 散落亡佚的梦幻_～_bard_VISION
 
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
+
 
 
 
@@ -57,6 +59,7 @@ JynX作曲 | 引用了翻译表的页面 | 散落亡佚的梦幻_～_bard_VISION
 </td></tr></tbody></table>
 
 
+
 ## 出现作品
 
 <table>
@@ -65,13 +68,17 @@ JynX作曲 | 引用了翻译表的页面 | 散落亡佚的梦幻_～_bard_VISION
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 连缘无现里
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>MIDI格式</b></td><td>无播放信息</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-le01_19.mp3.md" title="文件:le01 19.mp3">le01_19.mp3</a><br><audio src="https://upload.thwiki.cc/9/96/le01_19.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>未填写</td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 连缘无现里
 - Music Room (未找到链接)
 
@@ -84,8 +91,11 @@ JynX作曲 | 引用了翻译表的页面 | 散落亡佚的梦幻_～_bard_VISION
 本作净是些伏笔，光看这一作根本没法了解剧情，  
 不过我之后会继续制作前传和后续的故事，  
 所以请不要在意太多直接游玩吧~（不该放到最后说的话）
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
 
 

@@ -18,6 +18,7 @@
 
 
 </center>
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件--Club_RoSaC-封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/c/c0/-Club_RoSaC-%E5%B0%81%E9%9D%A2.jpg/196px--Club_RoSaC-%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="196" height="196" srcset="https://upload.thwiki.cc/thumb/c/c0/-Club_RoSaC-%E5%B0%81%E9%9D%A2.jpg/294px--Club_RoSaC-%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/c/c0/-Club_RoSaC-%E5%B0%81%E9%9D%A2.jpg/392px--Club_RoSaC-%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="640" data-file-height="640"></a><div class="cover-char">角色：<a href="./帕秋莉·诺蕾姬.md" title="帕秋莉·诺蕾姬">帕秋莉·诺蕾姬</a></div></td>
@@ -26,18 +27,22 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://rosac.ukime.org/Info.html">http://rosac.ukime.org/Info.html</a></td></tr></tbody></table>
 
 -Club RoSaC-（同人专辑，-Room of Sound and Color-，2010） - 2010年9月5日 由 -Room of Sound and Color- 于 ComicTreasure 16 发布的同人专辑，曲目主要风格是 Trance，分级为 一般向
+
 ## Staff
 Illustration
 : みなぎ （ビテイコツハンター (未找到链接)）
+
 
 ## 试听
   
 暂不支援此类型
   
 
+
 ## 曲目列表
 
 <table></table>
+
 
 
 ## 评论

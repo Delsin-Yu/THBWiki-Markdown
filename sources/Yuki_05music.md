@@ -6,11 +6,13 @@
 
 本页是关于东方Project  
  **二次同人创作者** 的词条
+
 ## 基本信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="label"><b>名称</b></td><td> Yuki 05music </td></tr><tr><td class="label"><b>所属社团</b></td><td><b>当前</b><div style="margin-left:2em;"><a href="./05music壱.md" title="05music壱">05music壱</a></div></td></tr><tr><td class="label"><b>职位</b></td><td>编曲</td></tr><tr><td class="label"><b>参与社团</b></td><td><a href="./05music壱.md" title="05music壱">05music壱</a> （编曲）</td></tr><tr><td class="label"><b>生日</b></td><td>1985（39岁）</td></tr><tr><td class="label"><b>个人页面</b></td><td><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><b>Official</b></td><td><a rel="nofollow" class="external free" href="https://www.yuki05music.info">https://www.yuki05music.info</a></td></tr><tr><td><b>Youtube</b></td><td><a rel="nofollow" class="external free" href="https://www.youtube.com/channel/UCYuHdhoZeOcsVbog-2bgEmA">https://www.youtube.com/channel/UCYuHdhoZeOcsVbog-2bgEmA</a></td></tr></tbody></table></td></tr></tbody></table>
 
 Yuki 05music（人物） - 现实人物
+
 ## 介绍
 
 

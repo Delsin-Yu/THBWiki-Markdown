@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-メイドちゃんの日々R_幻想郷小学校の一日封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/1/1c/%E3%83%A1%E3%82%A4%E3%83%89%E3%81%A1%E3%82%83%E3%82%93%E3%81%AE%E6%97%A5%E3%80%85R_%E5%B9%BB%E6%83%B3%E9%83%B7%E5%B0%8F%E5%AD%A6%E6%A0%A1%E3%81%AE%E4%B8%80%E6%97%A5%E5%B0%81%E9%9D%A2.jpg/119px-%E3%83%A1%E3%82%A4%E3%83%89%E3%81%A1%E3%82%83%E3%82%93%E3%81%AE%E6%97%A5%E3%80%85R_%E5%B9%BB%E6%83%B3%E9%83%B7%E5%B0%8F%E5%AD%A6%E6%A0%A1%E3%81%AE%E4%B8%80%E6%97%A5%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="119" height="168" srcset="https://upload.thwiki.cc/thumb/1/1c/%E3%83%A1%E3%82%A4%E3%83%89%E3%81%A1%E3%82%83%E3%82%93%E3%81%AE%E6%97%A5%E3%80%85R_%E5%B9%BB%E6%83%B3%E9%83%B7%E5%B0%8F%E5%AD%A6%E6%A0%A1%E3%81%AE%E4%B8%80%E6%97%A5%E5%B0%81%E9%9D%A2.jpg/179px-%E3%83%A1%E3%82%A4%E3%83%89%E3%81%A1%E3%82%83%E3%82%93%E3%81%AE%E6%97%A5%E3%80%85R_%E5%B9%BB%E6%83%B3%E9%83%B7%E5%B0%8F%E5%AD%A6%E6%A0%A1%E3%81%AE%E4%B8%80%E6%97%A5%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/1/1c/%E3%83%A1%E3%82%A4%E3%83%89%E3%81%A1%E3%82%83%E3%82%93%E3%81%AE%E6%97%A5%E3%80%85R_%E5%B9%BB%E6%83%B3%E9%83%B7%E5%B0%8F%E5%AD%A6%E6%A0%A1%E3%81%AE%E4%B8%80%E6%97%A5%E5%B0%81%E9%9D%A2.jpg/238px-%E3%83%A1%E3%82%A4%E3%83%89%E3%81%A1%E3%82%83%E3%82%93%E3%81%AE%E6%97%A5%E3%80%85R_%E5%B9%BB%E6%83%B3%E9%83%B7%E5%B0%8F%E5%AD%A6%E6%A0%A1%E3%81%AE%E4%B8%80%E6%97%A5%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="639" data-file-height="900"></a><div class="cover-char">角色：<a href="/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C" title="十六夜咲夜">十六夜咲夜</a>，<a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a>，<a href="./红美铃.md" title="红美铃">红美铃</a>，<a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a>，<a href="./西行寺幽幽子.md" title="西行寺幽幽子">西行寺幽幽子</a>，<a href="./魂魄妖梦.md" title="魂魄妖梦">魂魄妖梦</a>，<a href="./小恶魔.md" title="小恶魔">小恶魔</a>，<a href="./帕秋莉·诺蕾姬.md" title="帕秋莉·诺蕾姬">帕秋莉·诺蕾姬</a>，<a href="./上白泽慧音.md" title="上白泽慧音">上白泽慧音</a>，<a href="./琪露诺.md" title="琪露诺">琪露诺</a>，<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/74506029">https://www.pixiv.net/artworks/74506029</a></td></tr></tbody></table>
 
 メイドちゃんの日々R 幻想郷小学校の一日（同人志，さばーい出版，2019） - 2019年5月5日 由 さばーい出版 于 博丽神社例大祭16 发布的漫画同人志，B5尺寸一共28页，分级为 一般向
+
 ## Staff
 : [AKI大佐](./AKI大佐.md)
+
 
 ## 评论
 

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-ゲンソウキョウパトリオティズム_Reload封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/a/a4/%E3%82%B2%E3%83%B3%E3%82%BD%E3%82%A6%E3%82%AD%E3%83%A7%E3%82%A6%E3%83%91%E3%83%88%E3%83%AA%E3%82%AA%E3%83%86%E3%82%A3%E3%82%BA%E3%83%A0_Reload%E5%B0%81%E9%9D%A2.jpg/168px-%E3%82%B2%E3%83%B3%E3%82%BD%E3%82%A6%E3%82%AD%E3%83%A7%E3%82%A6%E3%83%91%E3%83%88%E3%83%AA%E3%82%AA%E3%83%86%E3%82%A3%E3%82%BA%E3%83%A0_Reload%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="168" height="119" srcset="https://upload.thwiki.cc/thumb/a/a4/%E3%82%B2%E3%83%B3%E3%82%BD%E3%82%A6%E3%82%AD%E3%83%A7%E3%82%A6%E3%83%91%E3%83%88%E3%83%AA%E3%82%AA%E3%83%86%E3%82%A3%E3%82%BA%E3%83%A0_Reload%E5%B0%81%E9%9D%A2.jpg/252px-%E3%82%B2%E3%83%B3%E3%82%BD%E3%82%A6%E3%82%AD%E3%83%A7%E3%82%A6%E3%83%91%E3%83%88%E3%83%AA%E3%82%AA%E3%83%86%E3%82%A3%E3%82%BA%E3%83%A0_Reload%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/a/a4/%E3%82%B2%E3%83%B3%E3%82%BD%E3%82%A6%E3%82%AD%E3%83%A7%E3%82%A6%E3%83%91%E3%83%88%E3%83%AA%E3%82%AA%E3%83%86%E3%82%A3%E3%82%BA%E3%83%A0_Reload%E5%B0%81%E9%9D%A2.jpg/336px-%E3%82%B2%E3%83%B3%E3%82%BD%E3%82%A6%E3%82%AD%E3%83%A7%E3%82%A6%E3%83%91%E3%83%88%E3%83%AA%E3%82%AA%E3%83%86%E3%82%A3%E3%82%BA%E3%83%A0_Reload%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1000" data-file-height="708"></a><div class="cover-char">角色：<a href="./水桥帕露西.md" title="水桥帕露西">水桥帕露西</a>，<a href="./伊吹萃香.md" title="伊吹萃香">伊吹萃香</a>，<a href="./莉格露·奈特巴格.md" title="莉格露·奈特巴格">莉格露·奈特巴格</a>，<a href="./西行寺幽幽子.md" title="西行寺幽幽子">西行寺幽幽子</a></div></td>
@@ -14,11 +15,13 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://hazimarihakenzenni.hp.infoseek.co.jp/reitaisai6/genpato.html">http://hazimarihakenzenni.hp.infoseek.co.jp/reitaisai6/genpato.html</a><br><span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span></td></tr></tbody></table>
 
 ゲンソウキョウパトリオティズム Reload（同人志，ぷら爆屋，始まりは健全に。，もいすちゃー，2009） - 2009年3月8日 由 ぷら爆屋，始まりは健全に。，もいすちゃー 于 博丽神社例大祭6 发布的漫画/合同志同人志，B5尺寸一共40页，分级为 一般向
+
 ## Staff
 - 伊知朗 (未找到链接)
 - いっき (未找到链接)
 - マカロニ大佐 (未找到链接)
 - マイク (未找到链接)
+
 
 ## 评论
 

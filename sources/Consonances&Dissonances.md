@@ -4,6 +4,7 @@
 
 Consonances&Dissonances ，主要制作 同人音乐 的同人社团，当前状态为 活动
 
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -19,14 +20,18 @@ Consonances&Dissonances ，主要制作 同人音乐 的同人社团，当前状
 
 
 
+
 ## 社团信息
 [](./文件-Consonances&Dissonancesbanner.jpg.md)  [](./文件-Consonances&Dissonancesbanner.jpg.md)banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Consonances&#38;Dissonances </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="https://consonancesdissonances.bandcamp.com/">https://consonancesdissonances.bandcamp.com/</a> bandcamp<br><a rel="nofollow" class="external free" href="https://twitter.com/CnD_Shenanigans">https://twitter.com/CnD_Shenanigans</a> Twitter<br><a rel="nofollow" class="external free" href="https://www.youtube.com/@consonancesdissonances6081/">https://www.youtube.com/@consonancesdissonances6081/</a> YouTube</td></tr></tbody></table>
 
 Consonances&amp;Dissonances（同人社团，同人音乐社团） - Consonances&amp;Dissonances ，主要制作 同人音乐 的同人社团，当前状态为 活动
+
 ## 成员名单
+
 ## 作品列表
+
 ### 同人专辑
 [](./东方嘘伪话_~Anthology_of_Forgotten_Fables..md)[东方嘘伪话 ~ Anthology of Forgotten Fables.](./东方嘘伪话_~Anthology_of_Forgotten_Fables..md)首发日期：2021-03-31 印象集 （一般向）（附带文本）[](./東方蒔夢原_～_Champaign_of_Unfinished_Dreams..md)[東方蒔夢原 ～ Champaign of Unfinished Dreams.](./東方蒔夢原_～_Champaign_of_Unfinished_Dreams..md)首发日期：2021-06-22 未名风铃妄想录 第二部印象集 （一般向）该作品是与 [明ノ宮 飛鳥](./明ノ宮_飛鳥.md) 合作创作的[](./东方狂音祭.md)[东方狂音祭](./东方狂音祭.md)首发日期：2021-08-01 全长、​印象集 （一般向）[](./東西幻想録_～_Travelogue_of_47_Days.md)[東西幻想録　～ Travelogue of 47 Days](./東西幻想録_～_Travelogue_of_47_Days.md)首发日期：2022-10-09 （東方紅楼夢18 (未找到链接)）合作 （一般向）[](./東方聖鮮血_～_Heart_of_Sacred_Singularity..md)[東方聖鮮血 ～ Heart of Sacred Singularity.](./東方聖鮮血_～_Heart_of_Sacred_Singularity..md)首发日期：2022-12-26 5th全长、​印象集 （一般向）该作品是与 AuroraArtz (未找到链接) 合作创作的本作为包含角色设定、故事设定等内容的东方自作曲专辑。2022年1月21日发布体验版，2022年12月26日发布正式版。
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -39,6 +44,7 @@ Consonances&amp;Dissonances（同人社团，同人音乐社团） - Consonances
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 参展信息

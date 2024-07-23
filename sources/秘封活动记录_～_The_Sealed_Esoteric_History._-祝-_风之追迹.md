@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-秘封活动记录_～_The_Sealed_Esoteric_History._-祝-_风之追迹封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/9/96/%E7%A7%98%E5%B0%81%E6%B4%BB%E5%8A%A8%E8%AE%B0%E5%BD%95_%EF%BD%9E_The_Sealed_Esoteric_History._-%E7%A5%9D-_%E9%A3%8E%E4%B9%8B%E8%BF%BD%E8%BF%B9%E5%B0%81%E9%9D%A2.jpg/224px-%E7%A7%98%E5%B0%81%E6%B4%BB%E5%8A%A8%E8%AE%B0%E5%BD%95_%EF%BD%9E_The_Sealed_Esoteric_History._-%E7%A5%9D-_%E9%A3%8E%E4%B9%8B%E8%BF%BD%E8%BF%B9%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="156" srcset="https://upload.thwiki.cc/thumb/9/96/%E7%A7%98%E5%B0%81%E6%B4%BB%E5%8A%A8%E8%AE%B0%E5%BD%95_%EF%BD%9E_The_Sealed_Esoteric_History._-%E7%A5%9D-_%E9%A3%8E%E4%B9%8B%E8%BF%BD%E8%BF%B9%E5%B0%81%E9%9D%A2.jpg/336px-%E7%A7%98%E5%B0%81%E6%B4%BB%E5%8A%A8%E8%AE%B0%E5%BD%95_%EF%BD%9E_The_Sealed_Esoteric_History._-%E7%A5%9D-_%E9%A3%8E%E4%B9%8B%E8%BF%BD%E8%BF%B9%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/9/96/%E7%A7%98%E5%B0%81%E6%B4%BB%E5%8A%A8%E8%AE%B0%E5%BD%95_%EF%BD%9E_The_Sealed_Esoteric_History._-%E7%A5%9D-_%E9%A3%8E%E4%B9%8B%E8%BF%BD%E8%BF%B9%E5%B0%81%E9%9D%A2.jpg/448px-%E7%A7%98%E5%B0%81%E6%B4%BB%E5%8A%A8%E8%AE%B0%E5%BD%95_%EF%BD%9E_The_Sealed_Esoteric_History._-%E7%A5%9D-_%E9%A3%8E%E4%B9%8B%E8%BF%BD%E8%BF%B9%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1860" data-file-height="1294"></a><div class="cover-char">角色：<a href="./宇佐见莲子.md" title="宇佐见莲子">宇佐见莲子</a>，<a href="./玛艾露贝莉·赫恩.md" title="玛艾露贝莉·赫恩">玛艾露贝莉·赫恩</a></div></td>
@@ -18,6 +19,7 @@
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://item.taobao.com/item.htm?spm=a1z10.5-c-s.w4002-15886539017.26.69d66eebwOI5jZ&amp;id=602887347057">淘宝囧仙子通贩</a></td></tr></tbody></table>
 
 
+
 ## Staff
 剧本/作画
 : 信號
@@ -27,6 +29,7 @@
 : 氧气
 排版
 : 残机
+
 
 ## 评论
 

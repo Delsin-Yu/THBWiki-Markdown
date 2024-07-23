@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-HappyDaymare（az）封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/3/3b/HappyDaymare%EF%BC%88az%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/164px-HappyDaymare%EF%BC%88az%EF%BC%89%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="164" height="224" srcset="https://upload.thwiki.cc/thumb/3/3b/HappyDaymare%EF%BC%88az%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/246px-HappyDaymare%EF%BC%88az%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/3/3b/HappyDaymare%EF%BC%88az%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/328px-HappyDaymare%EF%BC%88az%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="403" data-file-height="550"></a><div class="cover-char">角色：<a href="./古明地恋.md" title="古明地恋">古明地恋</a></div></td>
@@ -14,11 +15,14 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://az.geo.jp/archives/2009/12/index.php">http://az.geo.jp/archives/2009/12/index.php</a><br><span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><small>（<a rel="nofollow" class="external text" href="https://web.archive.org/web/20111108050241/http://az.geo.jp/archives/2009/12/index.php">缓存页面</a>）</small></td></tr></tbody></table>
 
 HappyDaymare（同人志，az，2009） - 2009年12月30日 由 az 于 Comic Market 77 发布的漫画同人志，B5尺寸一共36页，登场人物有 古明地恋、雾雨魔理沙、河城荷取，分级为 一般向
+
 ## 预览
 - [](./文件-HappyDaymare（az）预览图1.jpg.md)- [](./文件-HappyDaymare（az）预览图2.jpg.md)
 
+
 ## Staff
 - [az](./az.md)
+
 
 ## 评论
 - 作者

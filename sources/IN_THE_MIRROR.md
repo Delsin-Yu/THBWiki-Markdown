@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-IN_THE_MIRROR封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/2/2c/IN_THE_MIRROR%E5%B0%81%E9%9D%A2.jpg/157px-IN_THE_MIRROR%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="157" height="224" srcset="https://upload.thwiki.cc/thumb/2/2c/IN_THE_MIRROR%E5%B0%81%E9%9D%A2.jpg/235px-IN_THE_MIRROR%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/2/2c/IN_THE_MIRROR%E5%B0%81%E9%9D%A2.jpg/314px-IN_THE_MIRROR%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="447" data-file-height="638"></a><div class="cover-char">角色：<a href="./玛艾露贝莉·赫恩.md" title="玛艾露贝莉·赫恩">玛艾露贝莉·赫恩</a></div></td>
@@ -18,11 +19,14 @@ IN THE MIRROR（同人志，梅雨明けの日，2022） - 2022年9月11日 由 
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://enutino.booth.pm/items/4167089">Booth</a></td></tr></tbody></table>
 
 
+
 ## 预览
 - [](./文件-IN_THE_MIRROR预览图1.png.md)- [](./文件-IN_THE_MIRROR预览图2.png.md)- [](./文件-IN_THE_MIRROR预览图3.png.md)- [](./文件-IN_THE_MIRROR预览图4.png.md)- [](./文件-IN_THE_MIRROR预览图5.png.md)- [](./文件-IN_THE_MIRROR预览图6.png.md)- [](./文件-IN_THE_MIRROR预览图7.png.md)
 
+
 ## Staff
 - ゑぬち (未找到链接)
+
 
 ## 评论
 

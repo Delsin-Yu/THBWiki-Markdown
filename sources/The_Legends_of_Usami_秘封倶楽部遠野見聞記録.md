@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-The_Legends_of_Usami_秘封倶楽部遠野見聞記録封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/f/f0/The_Legends_of_Usami_%E7%A7%98%E5%B0%81%E5%80%B6%E6%A5%BD%E9%83%A8%E9%81%A0%E9%87%8E%E8%A6%8B%E8%81%9E%E8%A8%98%E9%8C%B2%E5%B0%81%E9%9D%A2.jpg/160px-The_Legends_of_Usami_%E7%A7%98%E5%B0%81%E5%80%B6%E6%A5%BD%E9%83%A8%E9%81%A0%E9%87%8E%E8%A6%8B%E8%81%9E%E8%A8%98%E9%8C%B2%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="160" height="224" srcset="https://upload.thwiki.cc/thumb/f/f0/The_Legends_of_Usami_%E7%A7%98%E5%B0%81%E5%80%B6%E6%A5%BD%E9%83%A8%E9%81%A0%E9%87%8E%E8%A6%8B%E8%81%9E%E8%A8%98%E9%8C%B2%E5%B0%81%E9%9D%A2.jpg/239px-The_Legends_of_Usami_%E7%A7%98%E5%B0%81%E5%80%B6%E6%A5%BD%E9%83%A8%E9%81%A0%E9%87%8E%E8%A6%8B%E8%81%9E%E8%A8%98%E9%8C%B2%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/f/f0/The_Legends_of_Usami_%E7%A7%98%E5%B0%81%E5%80%B6%E6%A5%BD%E9%83%A8%E9%81%A0%E9%87%8E%E8%A6%8B%E8%81%9E%E8%A8%98%E9%8C%B2%E5%B0%81%E9%9D%A2.jpg/319px-The_Legends_of_Usami_%E7%A7%98%E5%B0%81%E5%80%B6%E6%A5%BD%E9%83%A8%E9%81%A0%E9%87%8E%E8%A6%8B%E8%81%9E%E8%A8%98%E9%8C%B2%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="2122" data-file-height="2976"></a><div class="cover-char">角色：<a href="./宇佐见堇子.md" title="宇佐见堇子">宇佐见堇子</a></div></td>
@@ -14,9 +15,12 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/119137950">https://www.pixiv.net/artworks/119137950</a></td></tr></tbody></table>
 
 The Legends of Usami 秘封倶楽部遠野見聞記録（同人志，わさび寒天ファクトリー，2024） - 2024年6月1日 由 わさび寒天ファクトリー 于 梦之世纪 魅知之旅2 发布的漫画/小说同人志，A5尺寸一共36页，登场人物有 宇佐见堇子，分级为 一般向
+
 ## 预览
+
 ## Staff
 - わさびすけ (未找到链接)
+
 
 ## 评论
 

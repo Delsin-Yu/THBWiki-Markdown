@@ -4,6 +4,7 @@
 
 社团LOGO | 轟天社
 
+
 ## 文件说明
   
 源地址：[[1]](https://web.archive.org/web/20070220135954im_/http://www.ylw.mmtr.or.jp/~yozakura/yob.gif)

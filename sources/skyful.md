@@ -4,7 +4,8 @@
 
 skyful ，主要制作 同人志 的日本同人社团，主催是 新水一生，当前状态为 休止
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -20,16 +21,20 @@ skyful ，主要制作 同人志 的日本同人社团，主催是 新水一生�
 
 
 
+
 ## 社团信息
 [](./文件-skyfulbanner.gif.md)  [](./文件-skyfulbanner.gif.md)banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> skyful </td></tr><tr><td><b>主要作品类型</b></td><td>同人志</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=%E6%96%B0%E6%B0%B4%E4%B8%80%E7%94%9F&amp;action=edit&amp;redlink=1" class="new" title="新水一生（页面不存在）">新水一生</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="https://www.pixiv.net/users/22093">https://www.pixiv.net/users/22093</a> <br><a rel="nofollow" class="external free" href="https://twitter.com/aratami">https://twitter.com/aratami</a><br><a rel="nofollow" class="external free" href="https://skyful.omiki.com/main.html">https://skyful.omiki.com/main.html</a></td></tr></tbody></table>
 
 skyful（同人社团，同人志社团） - skyful ，主要制作 同人志 的日本同人社团，主催是 新水一生，当前状态为 休止
+
 ## 成员名单
 - 新水一生 (未找到链接)
 
+
 ## 作品列表
+
 ### 同人志
 [](./くるくる厄厄.md)[くるくる厄厄](./くるくる厄厄.md)首发日期：2008-05-25 （第五回 博麗神社例大祭 (未找到链接)）漫画 （一般向）B5&#160;尺寸 24&#160;页[](./るみゃフル！.md)[るみゃフル！](./るみゃフル！.md)首发日期：2008-12-29 （Comic Market 75 (未找到链接)）漫画 （一般向） 36&#160;页[](./これが河童の科学力.md)[これが河童の科学力](./これが河童の科学力.md)首发日期：2009-03-08 （第六回 博麗神社例大祭 (未找到链接)）漫画 （一般向） 36&#160;页[](./早苗さんが自機化と聞いて。.md)[早苗さんが自機化と聞いて。](./早苗さんが自機化と聞いて。.md)首发日期：2009-08-15 （Comic Market 76 (未找到链接)）漫画 （一般向） 48&#160;页 (未找到链接)いいことを教えてやろう、この本にキスメは1コマしか登場しない!! (未找到链接)首发日期：2009-08-15 （Comic Market 76 (未找到链接)）漫画 （一般向）[](./縁が道_－序－.md)[縁が道 －序－](./縁が道_－序－.md)首发日期：2009-12-30 （Comic Market 77 (未找到链接)）漫画 （一般向） 16&#160;页[](./縁が道.md)[縁が道](./縁が道.md)首发日期：2010-03-14 （第七回 博麗神社例大祭 (未找到链接)）漫画 （一般向） 40&#160;页[](./ブラックホール.md)[ブラックホール](./ブラックホール.md)首发日期：2010-08-14 （Comic Market 78 (未找到链接)）漫画 （一般向）B5&#160;尺寸 28&#160;页[](./フランドール（同人志）.md)[フランドール](./フランドール（同人志）.md)首发日期：2010-09-19 （博麗神社例大祭SP1 (未找到链接)）漫画 （一般向）[](./フォールエバーフォール.md)[フォールエバーフォール](./フォールエバーフォール.md)首发日期：2010-12-30 （Comic Market 79 (未找到链接)）漫画 （一般向）B5&#160;尺寸 28&#160;页[](./ほおずりしたい紅い頬.md)[ほおずりしたい紅い頬](./ほおずりしたい紅い頬.md)首发日期：2011-05-08 （第八回 博麗神社例大祭 (未找到链接)）漫画 （一般向） 20&#160;页[](./NeuTriNoic!.md)[NeuTriNoic!](./NeuTriNoic!.md)首发日期：2011-08-13 （Comic Market 80 (未找到链接)）漫画 （一般向） 24&#160;页[](./やくいよ!宵闇さん.md)[やくいよ!宵闇さん](./やくいよ!宵闇さん.md)首发日期：2011-12-30 （Comic Market 81 (未找到链接)）漫画 （一般向）[](./スカーレットノヴァ.md)[スカーレットノヴァ](./スカーレットノヴァ.md)首发日期：2012-10-07 （東方紅楼夢8 (未找到链接)）漫画 （一般向） 24&#160;页[](./怪奇!ヤタルーミアちゃん.md)[怪奇!ヤタルーミアちゃん](./怪奇!ヤタルーミアちゃん.md)首发日期：2013-01-27 （紅のひろば9 (未找到链接)）漫画 （一般向）B5&#160;尺寸 20&#160;页[](./Wルーミアの挑戦状.md)[Wルーミアの挑戦状](./Wルーミアの挑戦状.md)首发日期：2013-05-26 （第十回 博麗神社例大祭 (未找到链接)）漫画 （一般向）B5&#160;尺寸 24&#160;页[](./アッキュンフライ.md)[アッキュンフライ](./アッキュンフライ.md)首发日期：2013-08-12 （Comic Market 84 (未找到链接)）漫画 （一般向） 12&#160;页[](./やせるーみあ.md)[やせるーみあ](./やせるーみあ.md)首发日期：2013-12-30 （Comic Market 85 (未找到链接)）漫画 （一般向）B5&#160;尺寸 20&#160;页[](./深層暴動バンキャ!.md)[深層暴動バンキャ!](./深層暴動バンキャ!.md)首发日期：2014-03-30 （東方名華祭8 (未找到链接)）漫画 （一般向）B5&#160;尺寸 16&#160;页[](./皆既!!ヤタルーミアちゃん.md)[皆既!!ヤタルーミアちゃん](./皆既!!ヤタルーミアちゃん.md)首发日期：2014-05-11 （第十一回 博麗神社例大祭 (未找到链接)）漫画 （一般向）B5&#160;尺寸 24&#160;页[](./You_may_watch_a_Dream_～夢オチドリーム～.md)[You may watch a Dream ～夢オチドリーム～](./You_may_watch_a_Dream_～夢オチドリーム～.md)首发日期：2014-07-06 （東方想七日2 (未找到链接)）漫画 （一般向）B5&#160;尺寸 28&#160;页[](./鍋論戦.md)[鍋論戦](./鍋論戦.md)首发日期：2014-09-14 （大⑨州東方祭10 (未找到链接)）漫画、​合同志 （一般向）该作品是与 カツオばたfly (未找到链接) 合作创作的 32&#160;页[](./TIKIOの鉄鍋DASHI.md)[TIKIOの鉄鍋DASHI](./TIKIOの鉄鍋DASHI.md)首发日期：2014-10-12 （東方紅楼夢10 (未找到链接)）漫画 （一般向） 8&#160;页[](./リバーシーバリ_-practice_mode-.md)[リバーシーバリ -practice mode-](./リバーシーバリ_-practice_mode-.md)首发日期：2014-12-29 （Comic Market 87 (未找到链接)）漫画 （一般向）[](./リバーシーバリ.md)[リバーシーバリ](./リバーシーバリ.md)首发日期：2015-04-19 （新月幼魔夜行 (未找到链接)）漫画 （一般向）B5&#160;尺寸 28&#160;页[](./ピザでも食ってろ！ルーミアちゃん.md)[ピザでも食ってろ！ルーミアちゃん](./ピザでも食ってろ！ルーミアちゃん.md)首发日期：2015-07-20 （東方想七日3 (未找到链接)）漫画 （一般向）B5&#160;尺寸 12&#160;页[](./ルーミアネーム交換合同.md)[ルーミアネーム交換合同](./ルーミアネーム交換合同.md)首发日期：2015-09-27 （大⑨州東方祭12 (未找到链接)）漫画、​合同志 （一般向）该作品是与 カツオばたfly (未找到链接) 合作创作的[](./Dark_Dream.md)[Dark Dream](./Dark_Dream.md)首发日期：2015-12-30 （Comic Market 89 (未找到链接)）漫画 （一般向） 8&#160;页[](./ナイトヘッド～宵闇飛頭～.md)[ナイトヘッド～宵闇飛頭～](./ナイトヘッド～宵闇飛頭～.md)首发日期：2017-05-07 （第十四回 博麗神社例大祭 (未找到链接)）漫画 （一般向）B5&#160;尺寸 20&#160;页[](./ルーミアマルチエンディング合同.md)[ルーミアマルチエンディング合同](./ルーミアマルチエンディング合同.md)首发日期：2017-10-15 （第四回 博麗神社秋季例大祭 (未找到链接)）漫画、​合同志 （一般向）该作品是与 カツオ武士道 (未找到链接)、​じゃがばたー (未找到链接)、​桃梨ぽてと (未找到链接) 合作创作的 28&#160;页
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -92,6 +97,7 @@ skyful（同人社团，同人志社团） - skyful ，主要制作 同人志 �
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 参展信息

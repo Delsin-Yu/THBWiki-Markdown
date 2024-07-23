@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-horizontal封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/0/0d/horizontal%E5%B0%81%E9%9D%A2.jpg/224px-horizontal%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="81" srcset="https://upload.thwiki.cc/thumb/0/0d/horizontal%E5%B0%81%E9%9D%A2.jpg/336px-horizontal%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/0/0d/horizontal%E5%B0%81%E9%9D%A2.jpg/448px-horizontal%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1200" data-file-height="434"></a><div class="cover-char">角色：<a href="./伊吹萃香.md" title="伊吹萃香">伊吹萃香</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://zokubutuen.net/post/160292238575/例大祭のおしらせ">https://zokubutuen.net/post/160292238575/例大祭のおしらせ</a><br><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/62545871">https://www.pixiv.net/artworks/62545871</a></td></tr></tbody></table>
 
 horizontal（同人志，西明石俗物園，2017） - 2017年5月7日 由 西明石俗物園 于 博丽神社例大祭14 发布的画集同人志，B5尺寸一共8页，登场人物有 伊吹萃香，分级为 一般向
+
 ## Staff
 - fu_kka (未找到链接)
+
 
 ## 评论
 

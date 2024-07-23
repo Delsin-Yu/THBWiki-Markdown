@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -37,11 +38,13 @@
 
 
 
+
 ## 基本信息
 
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">Days</td></tr><tr><td><b>译名</b></td><td>Days</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 Days（曲目） - 由 ZUN 创作的官方曲目，原名 Days
+
 ## 出现作品
 
 <table>
@@ -51,7 +54,9 @@ Days（曲目） - 由 ZUN 创作的官方曲目，原名 Days
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 东方幻想乡
   
 YM2203(OPN)，FM26K音源版。
@@ -67,6 +72,7 @@ YM2608(OPNA)，FM86音源版。
 
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th04_19_86.ogg.md" title="文件:th04 19 86.ogg">th04_19_86.ogg</a><br><audio src="https://upload.thwiki.cc/d/d3/th04_19_86.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>END1.M86</td></tr><tr><td><b>音轨时长</b></td><td>1:04.708</td></tr></tbody></table>
+
 
 
 ### 东方怪绮谈
@@ -86,12 +92,15 @@ YM2608(OPNA)，FM86音源版。
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th05_G_19_86.ogg.md" title="文件:th05 G 19 86.ogg">th05_G_19_86.ogg</a><br><audio src="https://upload.thwiki.cc/9/95/th05_G_19_86.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>G_END1.M2</td></tr><tr><td><b>音轨时长</b></td><td>1:04.708</td></tr></tbody></table>
 
 
+
 ### 幺乐团的历史 vol.1
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-ha01b_04.mp3.md" title="文件:ha01b 04.mp3">ha01b_04.mp3</a><br><audio src="https://upload.thwiki.cc/b/bb/ha01b_04.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track04.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>2:37</td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 东方幻想乡
 - Music Room (未找到链接)
 
@@ -105,6 +114,7 @@ YM2608(OPNA)，FM86音源版。
 ＺＵＮ（太田）  
 bad end的曲子  
 好黑暗啊～
+
 ### 东方怪绮谈
 - Music Room (未找到链接)
 
@@ -112,8 +122,11 @@ Bad ending的主题曲Days
 ＺＵＮ（太田）  
 bad end的曲子  
 好黑暗啊～
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
   
  **Days** 
@@ -123,6 +136,7 @@ bad end的曲子
 
 - days
   - Bad End的主题曲
+
 
 
 ### 二次同人数据

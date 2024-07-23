@@ -31,6 +31,7 @@
 
   
 
+
 ## 目录
 
 - [1 概述](#概述)
@@ -38,6 +39,7 @@
 - [3 主要作品](#主要作品)
 - [4 其他资料](#其他资料)
 - [5 注释](#注释)
+
 
 
 
@@ -53,7 +55,7 @@
   
 原名 **正体不明大金主X** （正体不明のスポンサーX）[^cite_note-1]，在东方领域有很多赞助和活动，但一直未公开其身份。后在2020年10月的“祝・东方Project25年「东方弹幕祭」”上，才公布其构成，并由ZUN亲自定名为 **Unknown X** （アンノウンX）[^cite_note-2]。  
 
-该团体成员由[AQUA STYLE](./AQUA_STYLE.md)主催JYUNYA召集的各公司的东方爱好者构成，以JYUNYA为团长，以油库里 (未找到链接)作为宣发媒介。
+该团体成员由[AQUA STYLE](./AQUA_STYLE.md)主催JYUNYA召集的各公司的东方爱好者构成，以JYUNYA为团长，以[油库里](./油库里.md)作为宣发媒介。
   
   
 该团体推动了许多同人游戏登上Steam和NS平台。
@@ -72,6 +74,7 @@ Unknown X原本包含同人社团[AQUASTYLE](./AQUA_STYLE.md)、互联网公司D
 
 - 官方推特：[https://twitter.com/danmakuJP](https://twitter.com/danmakuJP)
 - 官方Email：support@unknownX.jp
+
 
 ## 相关活动
 
@@ -96,6 +99,7 @@ Unknown X还发起了东方Project史上最大的众筹，筹集资金以开发[
   
 
 
+
 ## 主要作品
 [](./东方弹幕神乐.md)[东方弹幕神乐](./东方弹幕神乐.md)首发日期：2021-08-04 MUG （一般向）该作品是与 [AQUA STYLE](./AQUA_STYLE.md)、​DeNA (未找到链接)、​xeen (未找到链接) 合作创作的[](./东方弹幕神乐_失落幻想.md)[东方弹幕神乐 失落幻想](./东方弹幕神乐_失落幻想.md)首发日期：2024-02-08 AVG、​ACT、​MUG （一般向）该作品是与 [AQUA STYLE](./AQUA_STYLE.md) 合作创作的东方DungeonMaker 心之迷城 封面图片 (未找到链接)东方DungeonMaker 心之迷城 (未找到链接)首发日期：未知 - 胡言山的魔理沙 封面图片 (未找到链接)胡言山的魔理沙 (未找到链接)首发日期：未知 - 
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -104,6 +108,7 @@ Unknown X还发起了东方Project史上最大的众筹，筹集资金以开发[
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458"></table>
+
 
 
 ## 其他资料

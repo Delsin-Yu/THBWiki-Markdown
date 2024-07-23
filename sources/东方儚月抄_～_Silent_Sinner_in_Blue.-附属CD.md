@@ -27,13 +27,13 @@
 
 东方儚月抄 ～ Silent Sinner in Blue./附属CD（官方专辑） - 官方专辑
 ## 相关信息
-- 曲目说明 (未找到链接)
+- [曲目说明](./东方儚月抄_～_Silent_Sinner_in_Blue.-附属CD-曲目说明.md)
 
 ## 曲目
 
 <table><tbody><tr><td class="infoYD"><b>01</b></td><td colspan="2" class="title"><a href="./妖怪宇宙旅行.md" title="妖怪宇宙旅行">妖怪宇宙旅行</a></td><td class="time">06:39</td></tr><tr><td class="left"></td><td colspan="3" class="bigtext"><a href="./妖怪宇宙旅行.md" title="妖怪宇宙旅行">妖怪宇宙旅行</a></td></tr>
-<tr><td class="infoYD"><b>02</b></td><td colspan="2" class="title"><a href="./绵月的符卡_～_Lunatic_Blue.md" title="绵月的符卡 ～ Lunatic Blue">绵月的符卡　～ Lunatic Blue</a></td><td class="time">03:36</td></tr><tr><td class="left"></td><td colspan="3" class="bigtext"><a href="/%E7%B6%BF%E6%9C%88%E3%81%AE%E3%82%B9%E3%83%9A%E3%83%AB%E3%82%AB%E3%83%BC%E3%83%89_%EF%BD%9E_Lunatic_Blue" class="mw-redirect" title="綿月のスペルカード ～ Lunatic Blue">綿月のスペルカード　～ Lunatic Blue</a></td></tr>
-<tr><td class="infoRD"><b>03</b></td><td colspan="2" class="title"><a href="/%E9%85%92%E9%AC%BC%E7%9A%84%E9%9B%B7%E5%A7%86%E5%88%A9%E4%BA%9A_(Retro_Ver)" class="mw-redirect" title="酒鬼的雷姆利亚 (Retro Ver)">酒鬼的雷姆利亚 (Retro Ver)</a></td><td class="time">03:53</td></tr><tr><td class="left"></td><td colspan="3" class="bigtext"><a href="/%E5%91%91%E3%82%93%E3%81%B9%E3%81%87%E3%81%AE%E3%83%AC%E3%83%A0%E3%83%AA%E3%82%A2_(Retro_Ver)" class="mw-redirect" title="呑んべぇのレムリア (Retro Ver)">呑んべぇのレムリア (Retro Ver)</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2">呑んべぇのレムリア</td></tr><tr><td class="left"></td><td class="label">来源</td><td class="text" colspan="2"><a href="/%E9%BB%84%E6%98%8F%E9%85%92%E5%9C%BA%EF%BD%9EUwabami_Breakers%EF%BD%9E" class="mw-redirect" title="黄昏酒场～Uwabami Breakers～">黄昏酒场～Uwabami Breakers～</a></td></tr></tbody></table>
+<tr><td class="infoYD"><b>02</b></td><td colspan="2" class="title"><a href="./绵月的符卡_～_Lunatic_Blue.md" title="绵月的符卡 ～ Lunatic Blue">绵月的符卡　～ Lunatic Blue</a></td><td class="time">03:36</td></tr><tr><td class="left"></td><td colspan="3" class="bigtext"><a href="./綿月のスペルカード_～_Lunatic_Blue.md" class="mw-redirect" title="綿月のスペルカード ～ Lunatic Blue">綿月のスペルカード　～ Lunatic Blue</a></td></tr>
+<tr><td class="infoRD"><b>03</b></td><td colspan="2" class="title"><a href="./酒鬼的雷姆利亚_(Retro_Ver).md" class="mw-redirect" title="酒鬼的雷姆利亚 (Retro Ver)">酒鬼的雷姆利亚 (Retro Ver)</a></td><td class="time">03:53</td></tr><tr><td class="left"></td><td colspan="3" class="bigtext"><a href="./呑んべぇのレムリア_(Retro_Ver).md" class="mw-redirect" title="呑んべぇのレムリア (Retro Ver)">呑んべぇのレムリア (Retro Ver)</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2">呑んべぇのレムリア</td></tr><tr><td class="left"></td><td class="label">来源</td><td class="text" colspan="2"><a href="./黄昏酒场～Uwabami_Breakers～.md" class="mw-redirect" title="黄昏酒场～Uwabami Breakers～">黄昏酒场～Uwabami Breakers～</a></td></tr></tbody></table>
 
 
 ## 光盘扫图

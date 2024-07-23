@@ -6,6 +6,7 @@
 
 - 本词条内容为官方游戏TH128 **妖精大战争** 的符卡
 
+
 ## 目录
 
 - [1 B-1路线](#B-1路线)
@@ -185,8 +186,11 @@
 
 
 
+
 ## B-1路线
+
 ### Stage 1
+
 #### 日符「Aggressive Light」
 
 <table>
@@ -205,6 +209,7 @@
 </th></tr></tbody></table>
 
 
+
 ##### 符卡信息
 
 <table>
@@ -216,6 +221,7 @@
 <p>1面BOSS桑尼米尔克B路线Easy / Normal / Hard / Lunatic难度符卡。
 </p>
 </td></tr></tbody></table>
+
 
 
 
@@ -237,6 +243,7 @@
 </th></tr></tbody></table>
 
 
+
 ##### 符卡信息
 
 <table>
@@ -251,7 +258,9 @@
 
 
 
+
 ### Stage 2
+
 #### 流星「Comet Stream」
 
 <table>
@@ -270,6 +279,7 @@
 </th></tr></tbody></table>
 
 
+
 ##### 符卡信息
 
 <table>
@@ -281,6 +291,7 @@
 <p>2面BOSS斯塔萨菲雅B1路线Easy / Normal / Hard / Lunatic难度符卡。
 </p>
 </td></tr></tbody></table>
+
 
 
 
@@ -302,6 +313,7 @@
 </th></tr></tbody></table>
 
 
+
 ##### 符卡信息
 
 <table>
@@ -313,6 +325,7 @@
 <p>2面BOSS斯塔萨菲雅B1路线Easy / Normal / Hard / Lunatic难度符卡。
 </p>
 </td></tr></tbody></table>
+
 
 
 
@@ -334,6 +347,7 @@
 </th></tr></tbody></table>
 
 
+
 ##### 符卡信息
 
 <table>
@@ -348,7 +362,9 @@
 
 
 
+
 ### Stage 3
+
 #### 月光「Silent Storm」
 
 <table>
@@ -367,6 +383,7 @@
 </th></tr></tbody></table>
 
 
+
 ##### 符卡信息
 
 <table>
@@ -378,6 +395,7 @@
 <p>3面道中BOSS露娜切露德B1路线Easy / Normal / Hard / Lunatic难度符卡。
 </p>
 </td></tr></tbody></table>
+
 
 
 
@@ -399,6 +417,7 @@
 </th></tr></tbody></table>
 
 
+
 ##### 符卡信息
 
 <table>
@@ -410,6 +429,7 @@
 <p>3面BOSS桑尼米尔克、露娜切露德、斯塔萨菲雅B1路线Easy / Normal / Hard / Lunatic难度符卡。
 </p>
 </td></tr></tbody></table>
+
 
 
 
@@ -431,6 +451,7 @@
 </th></tr></tbody></table>
 
 
+
 ##### 符卡信息
 
 <table>
@@ -442,6 +463,7 @@
 <p>3面BOSS桑尼米尔克、露娜切露德、斯塔萨菲雅B1路线Easy / Normal / Hard / Lunatic难度符卡。
 </p>
 </td></tr></tbody></table>
+
 
 
 
@@ -463,6 +485,7 @@
 </th></tr></tbody></table>
 
 
+
 ##### 符卡信息
 
 <table>
@@ -474,6 +497,7 @@
 <p>3面BOSS桑尼米尔克、露娜切露德、斯塔萨菲雅B1路线Easy / Normal / Hard / Lunatic难度符卡。
 </p>
 </td></tr></tbody></table>
+
 
 
 
@@ -495,6 +519,7 @@
 </th></tr></tbody></table>
 
 
+
 ##### 符卡信息
 
 <table>
@@ -506,6 +531,7 @@
 <p>3面BOSS桑尼米尔克、露娜切露德、斯塔萨菲雅B1路线Easy / Normal / Hard / Lunatic难度符卡。
 </p>
 </td></tr></tbody></table>
+
 
 
 
@@ -527,6 +553,7 @@
 </th></tr></tbody></table>
 
 
+
 ##### 符卡信息
 
 <table>
@@ -541,8 +568,11 @@
 
 
 
+
 ## B-2路线
+
 ### Stage 1
+
 #### 日符「Aggressive Light」
 
 <table>
@@ -561,6 +591,7 @@
 </th></tr></tbody></table>
 
 
+
 ##### 符卡信息
 
 <table>
@@ -572,6 +603,7 @@
 <p>1面BOSS桑尼米尔克B路线Easy / Normal / Hard / Lunatic难度符卡。
 </p>
 </td></tr></tbody></table>
+
 
 
 
@@ -593,6 +625,7 @@
 </th></tr></tbody></table>
 
 
+
 ##### 符卡信息
 
 <table>
@@ -607,7 +640,9 @@
 
 
 
+
 ### Stage 2
+
 #### 月光「Dark Stillness」
 
 <table>
@@ -626,6 +661,7 @@
 </th></tr></tbody></table>
 
 
+
 ##### 符卡信息
 
 <table>
@@ -637,6 +673,7 @@
 <p>2面BOSS露娜切露德B2路线Easy / Normal / Hard / Lunatic难度符卡。
 </p>
 </td></tr></tbody></table>
+
 
 
 
@@ -658,6 +695,7 @@
 </th></tr></tbody></table>
 
 
+
 ##### 符卡信息
 
 <table>
@@ -669,6 +707,7 @@
 <p>2面BOSS露娜切露德B2路线Easy / Normal / Hard / Lunatic难度符卡。
 </p>
 </td></tr></tbody></table>
+
 
 
 
@@ -690,6 +729,7 @@
 </th></tr></tbody></table>
 
 
+
 ##### 符卡信息
 
 <table>
@@ -704,7 +744,9 @@
 
 
 
+
 ### Stage 3
+
 #### 星光「Star Storm」
 
 <table>
@@ -723,6 +765,7 @@
 </th></tr></tbody></table>
 
 
+
 ##### 符卡信息
 
 <table>
@@ -734,6 +777,7 @@
 <p>3面道中BOSS斯塔萨菲雅B2路线Easy / Normal / Hard / Lunatic难度符卡。
 </p>
 </td></tr></tbody></table>
+
 
 
 
@@ -755,6 +799,7 @@
 </th></tr></tbody></table>
 
 
+
 ##### 符卡信息
 
 <table>
@@ -766,6 +811,7 @@
 <p>3面BOSS桑尼米尔克、露娜切露德、斯塔萨菲雅B2路线Easy / Normal / Hard / Lunatic难度符卡。
 </p>
 </td></tr></tbody></table>
+
 
 
 
@@ -787,6 +833,7 @@
 </th></tr></tbody></table>
 
 
+
 ##### 符卡信息
 
 <table>
@@ -798,6 +845,7 @@
 <p>3面BOSS桑尼米尔克、露娜切露德、斯塔萨菲雅B2路线Easy / Normal / Hard / Lunatic难度符卡。
 </p>
 </td></tr></tbody></table>
+
 
 
 
@@ -819,6 +867,7 @@
 </th></tr></tbody></table>
 
 
+
 ##### 符卡信息
 
 <table>
@@ -830,6 +879,7 @@
 <p>3面BOSS桑尼米尔克、露娜切露德、斯塔萨菲雅B2路线Easy / Normal / Hard / Lunatic难度符卡。
 </p>
 </td></tr></tbody></table>
+
 
 
 
@@ -851,6 +901,7 @@
 </th></tr></tbody></table>
 
 
+
 ##### 符卡信息
 
 <table>
@@ -862,6 +913,7 @@
 <p>3面BOSS桑尼米尔克、露娜切露德、斯塔萨菲雅B2路线Easy / Normal / Hard / Lunatic难度符卡。
 </p>
 </td></tr></tbody></table>
+
 
 
 
@@ -883,6 +935,7 @@
 </th></tr></tbody></table>
 
 
+
 ##### 符卡信息
 
 <table>
@@ -894,6 +947,7 @@
 <p>3面BOSS桑尼米尔克、露娜切露德、斯塔萨菲雅B2路线Easy / Normal / Hard / Lunatic难度符卡。
 </p>
 </td></tr></tbody></table>
+
 
 
 

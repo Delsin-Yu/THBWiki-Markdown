@@ -14,6 +14,7 @@ Manual | 东方花映塚 | 体验版附带文档 | 使用了翻译表的页面 |
 
   
 
+
 ## 目录
 
 - [1 故事背景](#故事背景)
@@ -31,14 +32,17 @@ Manual | 东方花映塚 | 体验版附带文档 | 使用了翻译表的页面 |
 
 
 
+
 ## 故事背景
 
 <table><tbody><tr class="tt-content-header" id="故事背景-1" data-pos="&#91;&quot;\u6545\u4e8b\u80cc\u666f&quot;,1&#93;"><td class="tt-jah" lang="ja"><div class="poem">２．バックストーリー</div></td><td class="tt-zhh" lang="zh"><div class="poem">２．故事背景</div></td></tr><tr class="tt-content" id="故事背景-2" data-pos="&#91;&quot;\u6545\u4e8b\u80cc\u666f&quot;,2&#93;"><td class="tt-ja" lang="ja"><div class="poem">――幻想郷が蘇生した。<br><br>冬の白色は春の日差しに彩られ、幻想郷は完全に生の色を取り戻していた。<br>冬の間眠っていた色の力が目覚め、幻想郷を覆う。<br>花と同時に妖精達も騒がしくなる。<br>その異常な美しさの自然は、幻想郷に住む者全てを驚かせた。<br><br>彼女たちはいち早くその異変に気が付いた。<br><br>桜、向日葵、野菊、桔梗……<br>まだ春だというのに、一年中全ての花が同時に咲き出していたのだ。<br>多くの人間と全ての妖精は、自然からのプレゼントと受け取って暫くその光景に浮かれていた。<br>だが、幻想郷でもっとも暢気な人間は珍しくあわてていた。<br><br>「こんなに判りやすい異変じゃあ、早く解決しないといけないわ。<br>　じゃないと、私が怠けているってみんなに言っているようなもんじゃない！」<br><br>いつも通り、当てもなく勘で神社を飛び出したのだった。<br><br><br>幻想郷自体が蘇生した。<br>彼女たちも自然の一部。妖精の力は自然の力。自然には抗えないことを、皆知っていた。<br><br>　　　　　　　　　　　　　　　　　　　　東方花映塚　～ Phantasmagoria of Flower View.</div></td><td class="tt-zh" lang="zh"><div class="poem">——幻想乡复苏了。<br><br>冬的白色被春日的阳光所点缀，幻想乡完全取回了生机的颜色。<br>在冬天期间安眠的颜色的力量苏醒了过来，覆盖了幻想乡。<br>和花开的同时，妖怪们也活跃起来。<br>这异常美丽的自然，令幻想乡的所有居住者都吃了一惊。<br><br>她们很快就发觉到了异样。<br><br>樱花，向日葵，野菊花，桔梗……<br>明明还是春天，全年的花却全都盛开了。<br>多数的人类和所有的妖怪们，都接受了这自然的礼物<br>并为这短暂的光景而兴奋。<br>但是，幻想乡中最开朗的人类却少有地惊慌着。<br><br>「这种一看就知道是异变，必须早点解决。<br>　不然，大家一定又要说是我怠慢了！」<br><br>和平时一样，依靠着直觉从神社飞奔了出去。<br><br>幻想乡本身复苏了。<br>她们也是自然的一部分，妖怪的力就是自然的力。<br>大家都知道，自然是不可抵抗的。<br><br>　　　　　　　　　　　　　　　　　　　　东方花映塚　～ Phantasmagoria of Flower View.<br></div></td></tr></tbody></table>
 
 
+
 ## 角色介绍
 
 <table><tbody><tr class="tt-content-header" id="角色介绍-1" data-pos="&#91;&quot;\u89d2\u8272\u4ecb\u7ecd&quot;,1&#93;"><td class="tt-jah" lang="ja"><div class="poem">３．プレイヤーキャラ紹介</div></td><td class="tt-zhh" lang="zh"><div class="poem">３．自机角色介绍</div></td></tr><tr class="tt-content-header" id="角色介绍-2" data-pos="&#91;&quot;\u89d2\u8272\u4ecb\u7ecd&quot;,2&#93;"><td class="tt-jah" lang="ja"><div class="poem"><big>キャラ紹介</big></div></td><td class="tt-zhh" lang="zh"><div class="poem"><big>角色介绍</big></div></td></tr><tr class="tt-content" id="角色介绍-3" data-pos="&#91;&quot;\u89d2\u8272\u4ecb\u7ecd&quot;,3&#93;"><td class="tt-ja" lang="ja"><div class="poem">博麗霊夢　　　　　　　　　　　巫女<br>霧雨魔理沙　　　　　　　　　　魔法使い<br>十六夜咲夜　　　　　　　　　　メイド<br>チルノ　　　　　　　　　　　　妖精<br>ミスティア・ローレライ　　　　夜雀</div></td><td class="tt-zh" lang="zh"><div class="poem"><a href="#博丽灵梦">博丽灵梦</a>　　　　　　　　巫女<br><a href="#雾雨魔理沙">雾雨魔理沙</a>　　　　　　　魔法使<br><a href="#十六夜咲夜">十六夜咲夜</a>　　　　　　　女仆<br><a href="#琪露诺">琪露诺</a>　　　　　　　　妖精<br><a href="#米斯蒂娅·萝蕾拉">米斯蒂娅·萝蕾拉</a>　　　　夜雀</div></td></tr></tbody></table>
+
 
 
 ### 博丽灵梦
@@ -52,6 +56,7 @@ Manual | 东方花映塚 | 体验版附带文档 | 使用了翻译表的页面 |
 </div></td></tr></tbody></table></div></td></tr></tbody></table>
 
 
+
 ### 雾雨魔理沙
 
 <table><tbody><tr class="tt-manual-header" id="雾雨魔理沙-1" data-pos="&#91;&quot;\u96fe\u96e8\u9b54\u7406\u6c99&quot;,1&#93;"><td class="tt-jamh" lang="ja"><div class="poem">○普通の魔法使い　霧雨 魔理沙（きりさめまりさ）</div></td><td class="tt-zhmh" lang="zh"><div class="poem">○普通的魔法使　雾雨魔理沙（Kirisame Marisa）</div></td><td class="tt-mh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-manual-content" id="雾雨魔理沙-2" data-pos="&#91;&quot;\u96fe\u96e8\u9b54\u7406\u6c99&quot;,2&#93;"><td class="tt-jam" lang="ja"><div class="poem">魔法使いさん。<br>魔法の森に住む人間。魔法を使う程度の能力を持つ。<br>幻想郷中を花で包んだ今回の異変も、魔法の森にはその効果が及ばなかった。<br>森にはそんな気の利いた植物など似合わないのである。<br>ただ、彼女は森の外で花を楽しんでいるのであまり関係はなかった。</div></td><td class="tt-zhm" lang="zh"><div class="poem">魔法使。<br>住在魔法森林的人类。拥有使用魔法程度的能力。<br>这次花朵包围幻想乡的异变，其效果也没波及魔法森林。<br>森林和那样机灵的植物不怎么相配。<br>但是，因为她在森林外面享受着花，所以没什么关系。</div></td><td rowspan="2" class="tt-pic" lang="zh"><div class="poem"><a href="./文件-雾雨魔理沙（花映塚Manual）.jpg.md" class="image"><img alt="雾雨魔理沙（花映塚Manual）.jpg" src="https://upload.thwiki.cc/2/27/%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%EF%BC%88%E8%8A%B1%E6%98%A0%E5%A1%9AManual%EF%BC%89.jpg" decoding="async" loading="lazy" width="128" height="256" data-file-width="128" data-file-height="256"></a></div></td></tr><tr class="tt-manual-content" id="雾雨魔理沙-3" data-pos="&#91;&quot;\u96fe\u96e8\u9b54\u7406\u6c99&quot;,3&#93;"><td class="tt-jam" lang="ja"><div class="poem"><table width="100%" border="0"><tbody><tr><th colspan="2" align="center"><b>基本性能</b></th></tr><tr><td width="120px"><b>移動速度</b></td><td><span>★★★★★</span><br></td></tr><tr><td><b>チャージ速度</b></td><td><span>★★★</span><br></td></tr><tr><td><b>低速移動速度</b></td><td><span>★★★</span><br></td></tr><tr><td><b>吸霊有効範囲</b></td><td>前方無限<br></td></tr><tr><td><b>特技</b></td><td>ゲージが溜まる量が多い<br></td></tr><tr><td><b>チャージショット</b></td><td>イリュージョンレーザー<br></td></tr><tr><td><b>ＥＸ攻撃</b></td><td>アースライトレイ<br></td></tr><tr><th colspan="2" align="center"><b>備考</b></th></tr><tr><td colspan="2"><div class="poem">
@@ -61,6 +66,7 @@ Manual | 东方花映塚 | 体验版附带文档 | 使用了翻译表的页面 |
 <p>直线型高速度的攻击是其特征。<br>用Earth Light Ray填满画面后，对手就无可奈何了。<br>相反，蓄力射击有点难使用。<br>
 </p>
 </div></td></tr></tbody></table></div></td></tr></tbody></table>
+
 
 
 ### 十六夜咲夜
@@ -75,6 +81,7 @@ Manual | 东方花映塚 | 体验版附带文档 | 使用了翻译表的页面 |
 <br></div></td></tr></tbody></table>
 
 
+
 ### 琪露诺
 
 <table><tbody><tr class="tt-manual-header" id="琪露诺-1" data-pos="&#91;&quot;\u742a\u9732\u8bfa&quot;,1&#93;"><td class="tt-jamh" lang="ja"><div class="poem">○氷の小さな妖精　チルノ</div></td><td class="tt-zhmh" lang="zh"><div class="poem">○冰之细小妖精　　琪露诺</div></td><td class="tt-mh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-manual-content" id="琪露诺-2" data-pos="&#91;&quot;\u742a\u9732\u8bfa&quot;,2&#93;"><td class="tt-jam" lang="ja"><div class="poem">悪戯好きな妖精。冷気を操る程度の能力を持つ。<br>自分の力量を考えないで悪戯をしかけその都度痛い目に遭う。<br>妖精全般に言えることだが、痛い目に遭っても何にも反省せず、次から次へと悪戯を<br>仕掛けるのである。<br>今回の異変では妖精達が大騒ぎしているので、彼女も多分に漏れず</div></td><td class="tt-zhm" lang="zh"><div class="poem">喜欢恶作剧的妖精。拥有操控冷气程度的能力。<br>从不考虑自己的力量就去恶作剧，因而每次都会吃苦头。<br>对于全部妖精来说，无论吃多少苦头也不会反省一点，<br>下次就继续恶作剧了。<br>这次的异变中妖精们异常喧闹，多半也不会漏下她的一份</div></td><td rowspan="2" class="tt-pic" lang="zh"><div class="poem"><a href="./文件-琪露诺（花映塚体验版Manual）.jpg.md" class="image"><img alt="琪露诺（花映塚体验版Manual）.jpg" src="https://upload.thwiki.cc/f/fa/%E7%90%AA%E9%9C%B2%E8%AF%BA%EF%BC%88%E8%8A%B1%E6%98%A0%E5%A1%9A%E4%BD%93%E9%AA%8C%E7%89%88Manual%EF%BC%89.jpg" decoding="async" loading="lazy" width="128" height="256" data-file-width="128" data-file-height="256"></a></div></td></tr><tr class="tt-manual-content" id="琪露诺-3" data-pos="&#91;&quot;\u742a\u9732\u8bfa&quot;,3&#93;"><td class="tt-jam" lang="ja"><div class="poem"><table width="100%" border="0"><tbody><tr><th colspan="2" align="center"><b>基本性能</b></th></tr><tr><td width="120px"><b>移動速度</b></td><td><span>★★★★</span><br></td></tr><tr><td><b>チャージ速度</b></td><td><span>★★</span><br></td></tr><tr><td><b>低速移動速度</b></td><td><span>★★★★★</span><br></td></tr><tr><td><b>吸霊有効範囲</b></td><td>円形（小） <br></td></tr><tr><td><b>特技</b></td><td>活性化した霊が自爆する迄の時間が長い <br></td></tr><tr><td><b>チャージショット</b></td><td>アイシクルアタック <br></td></tr><tr><td><b>ＥＸ攻撃</b></td><td>アイシクルフォール <br></td></tr><tr><th colspan="2" align="center"><b>備考</b></th></tr><tr><td colspan="2"><div class="poem">
@@ -84,6 +91,7 @@ Manual | 东方花映塚 | 体验版附带文档 | 使用了翻译表的页面 |
 <p>符卡攻击不分敌我，会使两个画面的全部子弹冻结。<br>在那时，己方区域的子弹会变为白色点弹，因而防御效果<br>很好。<br>另一方面，蓄力很慢，吸灵有效范围也是悲剧般地小。<br>
 </p>
 </div></td></tr></tbody></table></div></td></tr></tbody></table>
+
 
 
 ### 米斯蒂娅·萝蕾拉

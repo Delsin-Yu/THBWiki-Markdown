@@ -4,7 +4,8 @@
 
 atlatszo ，主要制作 同人志 的日本同人社团，主催是 らいら，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -20,11 +21,13 @@ atlatszo ，主要制作 同人志 的日本同人社团，主催是 らいら�
 
 
 
+
 ## 社团信息
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> atlatszo </td></tr><tr><td><b>主要作品类型</b></td><td>同人志</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=%E3%82%89%E3%81%84%E3%82%89&amp;action=edit&amp;redlink=1" class="new" title="らいら（页面不存在）">らいら</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr></tbody></table>
 
 atlatszo（同人社团，同人志社团） - atlatszo ，主要制作 同人志 的日本同人社团，主催是 らいら，当前状态为 活动
+
 ## 成员名单
 - らいら (未找到链接)
 
@@ -38,7 +41,9 @@ atlatszo（同人社团，同人志社团） - atlatszo ，主要制作 同人�
 
 : [Twitter: @gsotm_mik](https://twitter.com/gsotm_mik)
 
+
 ## 作品列表
+
 ### 同人志
 憧憬 封面图片 (未找到链接)憧憬 (未找到链接)首发日期：未知 - 玉響 封面图片 (未找到链接)玉響（atlatszo） (未找到链接)首发日期：未知 - Ethereal Scenery 封面图片 (未找到链接)Ethereal Scenery (未找到链接)首发日期：未知 - 瞬 封面图片 (未找到链接)瞬（同人志） (未找到链接)首发日期：未知 - 廻、巡。 封面图片 (未找到链接)[廻、巡。](./廻、巡。.md)首发日期：2021-10-24 （第八回 博麗神社秋季例大祭 (未找到链接)）摄影集 （一般向）A4&#160;尺寸 50&#160;页[](./らいらの幻想郷の作り方_2.0.md)[らいらの幻想郷の作り方 2.0](./らいらの幻想郷の作り方_2.0.md)首发日期：2022-05-08 （第十九回 博麗神社例大祭 (未找到链接)）其他 （一般向）B5&#160;尺寸 32&#160;页らいらの幻想郷の作り方 2.1 封面图片 (未找到链接)[らいらの幻想郷の作り方 2.1](./らいらの幻想郷の作り方_2.1.md)首发日期：2022-10-09 （東方紅楼夢18 (未找到链接)）其他 （一般向）B5&#160;尺寸 32&#160;页[](./幻想郷を作るためのキャラクター解釈入門.md)[幻想郷を作るためのキャラクター解釈入門](./幻想郷を作るためのキャラクター解釈入門.md)首发日期：2022-10-09 （東方紅楼夢18 (未找到链接)）其他、​摄影集 （一般向）A4&#160;尺寸 100&#160;页[](./幻想郷の作り方の作り方_α版.md)[幻想郷の作り方の作り方 α版](./幻想郷の作り方の作り方_α版.md)首发日期：2022-10-09 （東方紅楼夢18 (未找到链接)）其他 （一般向）B5&#160;尺寸 12&#160;页[](./幻想に触れるための秘封倶楽部解釈入門-体験版-.md)[幻想に触れるための秘封倶楽部解釈入門-体験版-](./幻想に触れるための秘封倶楽部解釈入門-体験版-.md)首发日期：2022-12-31 （Comic Market 101 (未找到链接)）评论志 （一般向）A4&#160;尺寸 28&#160;页[](./妹紅完全詳解～1300年の歴史を紐解く～.md)[妹紅完全詳解～1300年の歴史を紐解く～](./妹紅完全詳解～1300年の歴史を紐解く～.md)首发日期：2023-05-07 （第二十回 博麗神社例大祭 (未找到链接)）摄影集、​画集、​评论志 （一般向）A4&#160;尺寸 82&#160;页[](./秘封倶楽部完全詳解_-_今、わかるコトから科学世紀を紐解く_-.md)[秘封倶楽部完全詳解 - 今、わかるコトから科学世紀を紐解く -](./秘封倶楽部完全詳解_-_今、わかるコトから科学世紀を紐解く_-.md)首发日期：2023-10-15 （東方紅楼夢19 (未找到链接)）评论志 （一般向）A4&#160;尺寸 90&#160;页[](./東方紺珠伝がなんとなくわかる本.md)[東方紺珠伝がなんとなくわかる本](./東方紺珠伝がなんとなくわかる本.md)首发日期：2023-12-31 （Comic Market 103 (未找到链接)）漫画、​画集 （一般向）A4&#160;尺寸 60&#160;页全彩幻想少女の衣装はとにかくかわいい 封面图片 (未找到链接)幻想少女の衣装はとにかくかわいい (未找到链接)首发日期：未知 - 生は儚くとも 封面图片 (未找到链接)生は儚くとも (未找到链接)首发日期：未知 - 
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -65,6 +70,7 @@ atlatszo（同人社团，同人志社团） - atlatszo ，主要制作 同人�
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458"></table>
+
 
 
 ## 参展信息

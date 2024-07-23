@@ -8,10 +8,12 @@
 汉化已完成。
   
 
+
 ## 附带文档
 - [readme](./東方求霖忍_～_Realizzando_Difficile_Decisione.-设定与剧情-readme.md)
 - [背景故事](./東方求霖忍_～_Realizzando_Difficile_Decisione.-设定与剧情-背景故事.md)
 - [使用素材](./東方求霖忍_～_Realizzando_Difficile_Decisione.-设定与剧情-使用素材.md)
+
 
 ## 游戏对话
   

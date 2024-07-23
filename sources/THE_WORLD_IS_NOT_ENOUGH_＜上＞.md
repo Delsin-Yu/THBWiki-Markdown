@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-THE_WORLD_IS_NOT_ENOUGH_＜上＞封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/f/f1/THE_WORLD_IS_NOT_ENOUGH_%EF%BC%9C%E4%B8%8A%EF%BC%9E%E5%B0%81%E9%9D%A2.jpg/145px-THE_WORLD_IS_NOT_ENOUGH_%EF%BC%9C%E4%B8%8A%EF%BC%9E%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="145" height="196" srcset="https://upload.thwiki.cc/thumb/f/f1/THE_WORLD_IS_NOT_ENOUGH_%EF%BC%9C%E4%B8%8A%EF%BC%9E%E5%B0%81%E9%9D%A2.jpg/217px-THE_WORLD_IS_NOT_ENOUGH_%EF%BC%9C%E4%B8%8A%EF%BC%9E%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/f/f1/THE_WORLD_IS_NOT_ENOUGH_%EF%BC%9C%E4%B8%8A%EF%BC%9E%E5%B0%81%E9%9D%A2.jpg/290px-THE_WORLD_IS_NOT_ENOUGH_%EF%BC%9C%E4%B8%8A%EF%BC%9E%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="611" data-file-height="826"></a><div class="cover-char">角色：<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a></div></td>
@@ -17,8 +18,10 @@ THE WORLD IS NOT ENOUGH ＜上＞（同人志，雨山電信社，2007） - 2007
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="http://www.dlsite.com/home/work/=/product_id/RJ058398.html">DLsite</a></td></tr></tbody></table>
 
 
+
 ## Staff
 - 雨山電信 (未找到链接)
+
 
 ## 评论
 ```

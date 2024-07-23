@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-DINER_GENSOKYO封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/b/ba/DINER_GENSOKYO%E5%B0%81%E9%9D%A2.png/140px-DINER_GENSOKYO%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="140" height="196" srcset="https://upload.thwiki.cc/thumb/b/ba/DINER_GENSOKYO%E5%B0%81%E9%9D%A2.png/210px-DINER_GENSOKYO%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/b/ba/DINER_GENSOKYO%E5%B0%81%E9%9D%A2.png/280px-DINER_GENSOKYO%E5%B0%81%E9%9D%A2.png 2x" data-file-width="2591" data-file-height="3624"></a><div class="cover-char">角色：<a href="./琪露诺.md" title="琪露诺">琪露诺</a></div></td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/zenerat/status/1285182668242595840">https://twitter.com/zenerat/status/1285182668242595840</a></td></tr><tr><td class="label">备注</td><td colspan="2">东方×汉堡包插画合同志</td></tr></tbody></table>
 
 DINER GENSOKYO（同人志，給食頭蛮，2020） - 2020年8月9日 由 給食頭蛮 于 东方名华祭14 发布的合同志/画集同人志，B5尺寸一共20页，分级为 一般向
+
 ## Staff
 主办
 : [ぱらどっと](./ぱらどっと.md) （[給食頭蛮](./給食頭蛮.md)）
@@ -30,6 +32,7 @@ DINER GENSOKYO（同人志，給食頭蛮，2020） - 2020年8月9日 由 給食
 - くまもと （[Twitter: @skmmt3](https://twitter.com/skmmt3)）
 - mAtty （[カブトガニ出版](./カブトガニ出版.md)）
 - めたねのおくすり （[Twitter: @metanen0x0](https://twitter.com/metanen0x0)）
+
 
 ## 评论
 

@@ -6,12 +6,14 @@
 
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 软件信息](#软件信息)
 - [2 Staff](#Staff)
 - [3 内容页面](#内容页面)
 - [4 评论](#评论)
+
 
 
 
@@ -24,8 +26,11 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://www.dna-softwares.com/article/52#more-52">http://www.dna-softwares.com/article/52#more-52</a></td></tr></tbody></table>
 
 幻想砲劇詩～Art of Curtain Fire Aggression.（同人游戏，D.N.A.Softwares，2008） - 2008年8月16日 由 D.N.A.Softwares 于 Comic Market 74 发布的RTS同人游戏，可在 Windows 系统上运行，游戏人数为 单人模式，分级为 一般向
+
 ## Staff
+
 ## 内容页面
+
 ## 评论
 
 

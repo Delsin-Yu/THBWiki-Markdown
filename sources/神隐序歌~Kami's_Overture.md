@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-神隐序歌~Kami's_Overture封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/9/9c/%E7%A5%9E%E9%9A%90%E5%BA%8F%E6%AD%8C~Kami%27s_Overture%E5%B0%81%E9%9D%A2.jpg/280px-%E7%A5%9E%E9%9A%90%E5%BA%8F%E6%AD%8C~Kami%27s_Overture%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="280" height="280" srcset="https://upload.thwiki.cc/thumb/9/9c/%E7%A5%9E%E9%9A%90%E5%BA%8F%E6%AD%8C~Kami%27s_Overture%E5%B0%81%E9%9D%A2.jpg/420px-%E7%A5%9E%E9%9A%90%E5%BA%8F%E6%AD%8C~Kami%27s_Overture%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/9/9c/%E7%A5%9E%E9%9A%90%E5%BA%8F%E6%AD%8C~Kami%27s_Overture%E5%B0%81%E9%9D%A2.jpg/560px-%E7%A5%9E%E9%9A%90%E5%BA%8F%E6%AD%8C~Kami%27s_Overture%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1000" data-file-height="1000"></a><div class="cover-char">角色：<a href="./橙.md" title="橙">橙</a></div></td>
@@ -18,6 +19,7 @@
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.dizzylab.net/d/LS-000">dizzylab</a></td></tr></tbody></table>
 
 
+
 ## Staff
   
  **Arrangement**   
@@ -28,14 +30,17 @@
 Illustration
 : 风马牛
 
+
 ## 试听
   
 暂不支援此类型
   
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="神隐序歌-Kami&#39;s_Overture" colspan="2" class="title">神隐序歌-Kami&#39;s Overture<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Northad&amp;ogmusic=遠野幻想物語&amp;fromwiki=神隐序歌~Kami's_Overture"><span title="搜索相似同人曲"></span></a></span></td><td class="time">06:23</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=Northad&amp;action=edit&amp;redlink=1" class="new" title="Northad（页面不存在）">Northad</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Northad&amp;fromwiki=神隐序歌~Kami's_Overture"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=遠野幻想物語&amp;fromwiki=神隐序歌~Kami's_Overture"><span></span></a></span><div class="ogmusic"><a href="/%E9%81%A0%E9%87%8E%E5%B9%BB%E6%83%B3%E7%89%A9%E8%AA%9E" class="mw-redirect" title="遠野幻想物語">遠野幻想物語</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E5%A6%96%E5%A6%96%E6%A2%A6_%EF%BD%9E_Perfect_Cherry_Blossom." class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr><tr><td class="left"></td><td class="label">曲风</td><td class="text" colspan="2">Trance</td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="神隐序歌-Kami&#39;s_Overture" colspan="2" class="title">神隐序歌-Kami&#39;s Overture<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Northad&amp;ogmusic=遠野幻想物語&amp;fromwiki=神隐序歌~Kami's_Overture"><span title="搜索相似同人曲"></span></a></span></td><td class="time">06:23</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=Northad&amp;action=edit&amp;redlink=1" class="new" title="Northad（页面不存在）">Northad</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Northad&amp;fromwiki=神隐序歌~Kami's_Overture"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=遠野幻想物語&amp;fromwiki=神隐序歌~Kami's_Overture"><span></span></a></span><div class="ogmusic"><a href="./遠野幻想物語.md" class="mw-redirect" title="遠野幻想物語">遠野幻想物語</a></div><div class="source"><a href="./东方妖妖梦_～_Perfect_Cherry_Blossom..md" class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr><tr><td class="left"></td><td class="label">曲风</td><td class="text" colspan="2">Trance</td></tr></tbody></table>
+
 
 
 ## 评论

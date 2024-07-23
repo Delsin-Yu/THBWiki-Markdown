@@ -4,6 +4,7 @@
 
 NYA＝FU | 社团LOGO
 
+
 ## 摘要
   
 源地址：[direct image link](http://maroppe.harisen.jp/link/banner04.jpg), [source page](http://maroppe.harisen.jp/link/link2.html)

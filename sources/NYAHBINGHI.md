@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-NYAHBINGHI封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/c/ca/NYAHBINGHI%E5%B0%81%E9%9D%A2.jpg/308px-NYAHBINGHI%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="308" height="308" srcset="https://upload.thwiki.cc/thumb/c/ca/NYAHBINGHI%E5%B0%81%E9%9D%A2.jpg/462px-NYAHBINGHI%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/c/ca/NYAHBINGHI%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="500" data-file-height="500"></a></td>
@@ -14,11 +15,13 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://tg-nyahbinghi.tumblr.com/">http://tg-nyahbinghi.tumblr.com/</a><br><span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><small>（<a rel="nofollow" class="external text" href="https://web.archive.org/web/20180210182417/http://tg-nyahbinghi.tumblr.com/">缓存页面</a>）</small></td></tr></tbody></table>
 
 NYAHBINGHI（同人专辑，とーなるぐらびてぃ，2014） - 2014年12月29日 由 とーなるぐらびてぃ 于 Comic Market 87 发布的单曲同人专辑，曲目主要风格是 民族、爵士，内容以 秘封俱乐部为题材，分级为 一般向
+
 ## Staff
   
  **Arrangement**   
 
 <table><tbody><tr><td><a href="/index.php?title=T.B.S.A.&amp;action=edit&amp;redlink=1" class="new" title="T.B.S.A.（页面不存在）">T.B.S.A.</a></td><td><a href="./とーなるぐらびてぃ.md" title="とーなるぐらびてぃ">とーなるぐらびてぃ</a></td><td>Tr.1/2</td></tr></tbody></table>
+
 
 
 ## 试听
@@ -27,10 +30,12 @@ NYAHBINGHI（同人专辑，とーなるぐらびてぃ，2014） - 2014年12月
 
   
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Jah_Jah" colspan="2" class="title">Jah Jah<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=T.B.S.A.&amp;ogmusic=天空のグリニッジ&amp;fromwiki=NYAHBINGHI"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=T.B.S.A.&amp;action=edit&amp;redlink=1" class="new" title="T.B.S.A.（页面不存在）">T.B.S.A.</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，T.B.S.A.，&amp;fromwiki=NYAHBINGHI"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=天空のグリニッジ&amp;fromwiki=NYAHBINGHI"><span></span></a></span><div class="ogmusic"><a href="/%E5%A4%A9%E7%A9%BA%E3%81%AE%E3%82%B0%E3%83%AA%E3%83%8B%E3%83%83%E3%82%B8" class="mw-redirect" title="天空のグリニッジ">天空のグリニッジ</a></div><div class="source"><a href="/%E5%A4%A7%E7%A9%BA%E9%AD%94%E6%9C%AF_%EF%BD%9E_Magical_Astronomy" class="mw-redirect" title="大空魔术 ～ Magical Astronomy">大空魔术　～ Magical Astronomy</a></div></td></tr>
-<tr><td id="2" class="infoYD"><b>02</b></td><td id="NYAHBINGHI" colspan="2" class="title">NYAHBINGHI<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=T.B.S.A.&amp;ogmusic=青木ヶ原の伝説&amp;fromwiki=NYAHBINGHI"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=T.B.S.A.&amp;action=edit&amp;redlink=1" class="new" title="T.B.S.A.（页面不存在）">T.B.S.A.</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，T.B.S.A.，&amp;fromwiki=NYAHBINGHI"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=青木ヶ原の伝説&amp;fromwiki=NYAHBINGHI"><span></span></a></span><div class="ogmusic"><a href="/%E9%9D%92%E6%9C%A8%E3%83%B6%E5%8E%9F%E3%81%AE%E4%BC%9D%E8%AA%AC" class="mw-redirect" title="青木ヶ原の伝説">青木ヶ原の伝説</a></div><div class="source"><a href="/%E5%8D%AF%E9%85%89%E4%B8%9C%E6%B5%B7%E9%81%93_%EF%BD%9E_Retrospective_53_minutes" class="mw-redirect" title="卯酉东海道 ～ Retrospective 53 minutes">卯酉东海道　～ Retrospective 53 minutes</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Jah_Jah" colspan="2" class="title">Jah Jah<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=T.B.S.A.&amp;ogmusic=天空のグリニッジ&amp;fromwiki=NYAHBINGHI"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=T.B.S.A.&amp;action=edit&amp;redlink=1" class="new" title="T.B.S.A.（页面不存在）">T.B.S.A.</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，T.B.S.A.，&amp;fromwiki=NYAHBINGHI"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=天空のグリニッジ&amp;fromwiki=NYAHBINGHI"><span></span></a></span><div class="ogmusic"><a href="./天空のグリニッジ.md" class="mw-redirect" title="天空のグリニッジ">天空のグリニッジ</a></div><div class="source"><a href="./大空魔术_～_Magical_Astronomy.md" class="mw-redirect" title="大空魔术 ～ Magical Astronomy">大空魔术　～ Magical Astronomy</a></div></td></tr>
+<tr><td id="2" class="infoYD"><b>02</b></td><td id="NYAHBINGHI" colspan="2" class="title">NYAHBINGHI<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=T.B.S.A.&amp;ogmusic=青木ヶ原の伝説&amp;fromwiki=NYAHBINGHI"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=T.B.S.A.&amp;action=edit&amp;redlink=1" class="new" title="T.B.S.A.（页面不存在）">T.B.S.A.</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，T.B.S.A.，&amp;fromwiki=NYAHBINGHI"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=青木ヶ原の伝説&amp;fromwiki=NYAHBINGHI"><span></span></a></span><div class="ogmusic"><a href="./青木ヶ原の伝説.md" class="mw-redirect" title="青木ヶ原の伝説">青木ヶ原の伝説</a></div><div class="source"><a href="./卯酉东海道_～_Retrospective_53_minutes.md" class="mw-redirect" title="卯酉东海道 ～ Retrospective 53 minutes">卯酉东海道　～ Retrospective 53 minutes</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

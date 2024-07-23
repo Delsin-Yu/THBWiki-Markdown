@@ -6,11 +6,13 @@
 
 本页是关于东方Project  
  **二次同人创作者** 的词条
+
 ## 基本信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="label"><b>名称</b></td><td> FULE </td></tr><tr><td class="label"><b>所属社团</b></td><td><b>当前</b><div style="margin-left:2em;"><a href="./BON_VOYAGE.md" title="BON VOYAGE">BON VOYAGE</a></div></td></tr><tr><td class="label"><b>职位</b></td><td>主催，画师</td></tr><tr><td class="label"><b>生日</b></td><td>8月26日</td></tr><tr><td class="label"><b>个人页面</b></td><td><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><b>Twitter</b></td><td><a rel="nofollow" class="external free" href="https://twitter.com/fule_sai">https://twitter.com/fule_sai</a></td></tr><tr><td><b>Pixiv</b></td><td><a rel="nofollow" class="external free" href="https://www.pixiv.net/member_illust.php?id=1195215">https://www.pixiv.net/member_illust.php?id=1195215</a></td></tr></tbody></table></td></tr></tbody></table>
 
 FULE（人物） - 现实人物
+
 ## 介绍
   
 早苗专精画师，笔下早苗多为巨乳，自然青春活力的身姿的早苗是他的画作的一大特点。  
@@ -18,8 +20,11 @@ FULE（人物） - 现实人物
 出版了多本早苗主题画集。
   
 
+
 ## 参与作品
+
 ### 同人志
+
 ## 人际关系
 人名
 : 关系

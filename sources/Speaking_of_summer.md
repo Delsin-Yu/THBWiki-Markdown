@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Speaking_of_summer封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/2/2f/Speaking_of_summer%E5%B0%81%E9%9D%A2.jpg/196px-Speaking_of_summer%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="196" height="196" srcset="https://upload.thwiki.cc/thumb/2/2f/Speaking_of_summer%E5%B0%81%E9%9D%A2.jpg/294px-Speaking_of_summer%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/2/2f/Speaking_of_summer%E5%B0%81%E9%9D%A2.jpg/392px-Speaking_of_summer%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1296" data-file-height="1296"></a><div class="cover-char">角色：<a href="./射命丸文.md" title="射命丸文">射命丸文</a>，<a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a>，<a href="./爱丽丝·玛格特洛依德.md" title="爱丽丝·玛格特洛依德">爱丽丝·玛格特洛依德</a>，<a href="./风见幽香.md" title="风见幽香">风见幽香</a>，<a href="./藤原妹红.md" title="藤原妹红">藤原妹红</a>，<a href="./上白泽慧音.md" title="上白泽慧音">上白泽慧音</a></div></td>
@@ -14,9 +15,12 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/37610763">https://www.pixiv.net/artworks/37610763</a></td></tr></tbody></table>
 
 Speaking of summer（同人志，矢ハイ，2013） - 2013年8月12日 由 矢ハイ 于 Comic Market 84 发布的漫画同人志，B5尺寸一共16页，登场人物有 射命丸文、犬走椛、芙兰朵露·斯卡蕾特、古明地恋、风见幽香、莉格露·奈特巴格、藤原妹红、上白泽慧音、蓬莱山辉夜、宇佐见莲子、玛艾露贝莉·赫恩、雾雨魔理沙、爱丽丝·玛格特洛依德、河城荷取、黑谷山女，分级为 一般向
+
 ## 预览
+
 ## Staff
 - あおい (未找到链接)
+
 
 ## 评论
 

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Story（同人志）封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/b/b4/Story%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/224px-Story%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="137" srcset="https://upload.thwiki.cc/thumb/b/b4/Story%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/336px-Story%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/b/b4/Story%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/448px-Story%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1200" data-file-height="735"></a><div class="cover-char">角色：<a href="./射命丸文.md" title="射命丸文">射命丸文</a>，<a href="./琪露诺.md" title="琪露诺">琪露诺</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=68413447">https://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=68413447</a></td></tr></tbody></table>
 
 Story（同人志，がらくたロケット，2018） - 2018年5月6日 由 がらくたロケット 于 博丽神社例大祭15 发布的绘本/漫画同人志，A4尺寸一共20页，登场人物有 射命丸文、琪露诺，分级为 一般向
+
 ## Staff
 - [ろけ](./ろけ.md)
+
 
 ## 评论
 

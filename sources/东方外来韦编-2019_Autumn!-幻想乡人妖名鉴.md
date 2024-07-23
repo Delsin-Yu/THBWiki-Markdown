@@ -7,6 +7,7 @@
 - 该内容于杂志中页数：036-040
 - 翻译：夕泠
 
+
 ## 目录
 
 - [1 少名针妙丸](#少名针妙丸)
@@ -15,6 +16,7 @@
 - [4 九十九弁弁&amp;九十九八桥](#九十九弁弁&amp;九十九八桥)
 - [5 若鹭姬&amp;今泉影狼&amp;赤蛮奇](#若鹭姬&amp;今泉影狼&amp;赤蛮奇)
 - [6 注释](#注释)
+
 
 
 
@@ -32,6 +34,7 @@
 <table><tbody><tr class="tt-content-header" id="少名针妙丸-10" data-pos="&#91;&quot;\u5c11\u540d\u9488\u5999\u4e38&quot;,10&#93;"><td class="tt-jah" lang="ja"><div class="poem">Comment from ZUN</div></td><td class="tt-zhh" lang="zh"><div class="poem">Comment from ZUN</div></td></tr><tr class="tt-content" id="少名针妙丸-11" data-pos="&#91;&quot;\u5c11\u540d\u9488\u5999\u4e38&quot;,11&#93;"><td class="tt-ja" lang="ja"><div class="poem">ストレートに世界を悪、自分を正義と見ているタイプです。正邪と針妙丸は「輝針城」のなかでも一番面白い関係ですよね。針妙丸には裏が無い。そういう純粋な人がリーダーじゃないと下克上とか革命は難しいかなって。そして力のない存在としてシンプルに小人族を採用しました。</div></td><td class="tt-zh" lang="zh"><div class="poem">她属于直接视世界为邪恶，视自己为正义的类型。正邪与针妙丸之间的关系可谓是「辉针城」这个作品中最为有趣的关系。针妙丸毫无心机。我认为若不是这样纯粹的人作为领导的话下克上这种革命行为是很难成功的。为了突出其无力的属性我也就简单地采用了小人族这种表现手法。</div></td></tr></tbody></table>
 
 
+
 ## 鬼人正邪
 
 <table><tbody><tr class="tt-content-header" id="鬼人正邪-1" data-pos="&#91;&quot;\u9b3c\u4eba\u6b63\u90aa&quot;,1&#93;"><td class="tt-jah" lang="ja"><div class="poem">幻想郷人妖名鑑<br><ruby lang="ja"><rb>鬼</rb><rp> (</rp><rt>き</rt><rp>) </rp></ruby><ruby lang="ja"><rb>人</rb><rp> (</rp><rt>じん</rt><rp>) </rp></ruby><ruby lang="ja"><rb>正</rb><rp> (</rp><rt>せい</rt><rp>) </rp></ruby><ruby lang="ja"><rb>邪</rb><rp> (</rp><rt>じゃ</rt><rp>) </rp></ruby></div></td><td class="tt-zhh" lang="zh"><div class="poem">幻想乡人妖名鉴<br><a href="./鬼人正邪.md" title="鬼人正邪">鬼人正邪</a></div></td></tr><tr class="tt-content" id="鬼人正邪-2" data-pos="&#91;&quot;\u9b3c\u4eba\u6b63\u90aa&quot;,2&#93;"><td class="tt-ja" lang="ja"><div class="poem"><b>種族</b>　　　　　　　　　天邪鬼<br><b>活動範囲</b>　　　　　　　幻想郷<br><b>主な能力</b>　　　　　　　何でもひっくり返す程度の能力<br><b>活動</b>　　　　　　　　　下克上</div></td><td class="tt-zh" lang="zh"><div class="poem"><b>种族</b>　　　　　　　　　天邪鬼<br><b>活动范围</b>　　　　　　　幻想乡<br><b>主要能力</b>　　　　　　　让任何事物都翻转过来程度的能力<br><b>活动</b>　　　　　　　　　下克上</div></td></tr></tbody></table>
@@ -43,6 +46,7 @@
 
 
 <table><tbody><tr class="tt-content-header" id="鬼人正邪-9" data-pos="&#91;&quot;\u9b3c\u4eba\u6b63\u90aa&quot;,9&#93;"><td class="tt-jah" lang="ja"><div class="poem">Comment from ZUN</div></td><td class="tt-zhh" lang="zh"><div class="poem">Comment from ZUN</div></td></tr><tr class="tt-content" id="鬼人正邪-10" data-pos="&#91;&quot;\u9b3c\u4eba\u6b63\u90aa&quot;,10&#93;"><td class="tt-ja" lang="ja"><div class="poem">アンチ主人公キャラという出し方です。主人公の正義を問いかけてきたりする小うるさいキャラはたまにいますが、それを受け止める必要がない、単なる反抗期キャラ、構ってちゃんですね。明らかに悪意があって悪を成している、という意味では東方では珍しいキャラです。</div></td><td class="tt-zh" lang="zh"><div class="poem">这个角色是出于反主人公的目的而设立的。虽然偶尔会有一些对于主人公的正义抱有疑问的稍显啰嗦的角色存在，但无需将她对号入座，这种角色只是单纯的反抗期，希望有人搭理她而已。抱有明显恶意成为邪恶化身的角色，在东方之中也算挺少见的。</div></td></tr></tbody></table>
+
 
 
 ## 堀川雷鼓
@@ -58,6 +62,7 @@
 <table><tbody><tr class="tt-content-header" id="堀川雷鼓-8" data-pos="&#91;&quot;\u5800\u5ddd\u96f7\u9f13&quot;,8&#93;"><td class="tt-jah" lang="ja"><div class="poem">Comment from ZUN</div></td><td class="tt-zhh" lang="zh"><div class="poem">Comment from ZUN</div></td></tr><tr class="tt-content" id="堀川雷鼓-9" data-pos="&#91;&quot;\u5800\u5ddd\u96f7\u9f13&quot;,9&#93;"><td class="tt-ja" lang="ja"><div class="poem">本編を作り終わってからキャラを決めましたが、付喪神でいこうと。でも何を出すかで迷って、４面のボスと揃えた音楽系にして、でも変化を付けようと現代要素というかＳＦ感を入れて、ドラムセットとロケット太鼓の組み合わせになったんです。僕の絵としては、ドラムに座って踵で叩くイメージなんです。格好いいかなって。太鼓に失礼だけど。</div></td><td class="tt-zh" lang="zh"><div class="poem">在正篇制作完成之后，才决定把雷鼓也做成付丧神。但是当时犹豫着要用什么道具，又想和4面BOSS配合着也用音乐系的道具，又想加入一点现代化或者科幻小说要素之类的变化，所以就变成了现在这般火箭太鼓和架子鼓的组合。就我的立绘来看，雷鼓是坐在鼓上用脚后跟来打鼓的感觉。这样感觉就很帅。对太鼓倒是失礼了。</div></td></tr></tbody></table>
 
 
+
 ## 九十九弁弁&amp;九十九八桥
 
 <table><tbody><tr class="tt-content-header" id="九十九弁弁&amp;九十九八桥-1" data-pos="&#91;&quot;\u4e5d\u5341\u4e5d\u5f01\u5f01\u0026\u4e5d\u5341\u4e5d\u516b\u6865&quot;,1&#93;"><td class="tt-jah" lang="ja"><div class="poem">幻想郷人妖名鑑<br><ruby lang="ja"><rb>九</rb><rp> (</rp><rt>つ</rt><rp>) </rp></ruby><ruby lang="ja"><rb>十</rb><rp> (</rp><rt>く</rt><rp>) </rp></ruby><ruby lang="ja"><rb>九</rb><rp> (</rp><rt>も</rt><rp>) </rp></ruby><ruby lang="ja"><rb>弁</rb><rp> (</rp><rt>べん</rt><rp>) </rp></ruby><ruby lang="ja"><rb>々</rb><rp> (</rp><rt>べん</rt><rp>) </rp></ruby>&amp;<ruby lang="ja"><rb>九</rb><rp> (</rp><rt>つ</rt><rp>) </rp></ruby><ruby lang="ja"><rb>十</rb><rp> (</rp><rt>く</rt><rp>) </rp></ruby><ruby lang="ja"><rb>九</rb><rp> (</rp><rt>も</rt><rp>) </rp></ruby><ruby lang="ja"><rb>八</rb><rp> (</rp><rt>やつ</rt><rp>) </rp></ruby><ruby lang="ja"><rb>橋</rb><rp> (</rp><rt>はし</rt><rp>) </rp></ruby></div></td><td class="tt-zhh" lang="zh"><div class="poem">幻想乡人妖名鉴<br><a href="./九十九弁弁.md" title="九十九弁弁">九十九弁弁</a>&amp;<a href="./九十九八桥.md" title="九十九八桥">九十九八桥</a></div></td></tr><tr class="tt-content-header" id="九十九弁弁&amp;九十九八桥-2" data-pos="&#91;&quot;\u4e5d\u5341\u4e5d\u5f01\u5f01\u0026\u4e5d\u5341\u4e5d\u516b\u6865&quot;,2&#93;"><td class="tt-jah" lang="ja"><div class="poem">楽器の付喪神✕２</div></td><td class="tt-zhh" lang="zh"><div class="poem">乐器的付丧神×2</div></td></tr><tr class="tt-content" id="九十九弁弁&amp;九十九八桥-3" data-pos="&#91;&quot;\u4e5d\u5341\u4e5d\u5f01\u5f01\u0026\u4e5d\u5341\u4e5d\u516b\u6865&quot;,3&#93;"><td class="tt-ja" lang="ja"><div class="poem">　九十九姉妹は伝統楽器の付喪神だ。「輝針城」４面ボスとして初登場、その後エキストラの中ボスとしても登場した。</div></td><td class="tt-zh" lang="zh"><div class="poem">　九十九姐妹是传统乐器的付丧神。作为「辉针城」4面BOSS初次登场，之后也在Extra关卡作为中BOSS登场。</div></td></tr><tr class="tt-content" id="九十九弁弁&amp;九十九八桥-4" data-pos="&#91;&quot;\u4e5d\u5341\u4e5d\u5f01\u5f01\u0026\u4e5d\u5341\u4e5d\u516b\u6865&quot;,4&#93;"><td class="tt-ja" lang="ja"><div class="poem">　彼女たちは針妙丸が使用した打ち出の小槌の魔力で妖怪として目覚めたばかりで、弁々は琵琶、八橋は琴の付喪神である。姉妹と言っても血縁関係にあるわけではなく、あくまでタイミングが同じだっただけだ。小槌の魔力で目覚めたという影響からか、素直に道具による下克上を夢見ていたようだ。なお「輝針城」の異変で針妙丸が退治されたあとも、打ち出の小槌の魔力が枯渇して単なる道具に戻らないように雷鼓から知識を得たらしい。</div></td><td class="tt-zh" lang="zh"><div class="poem">　她们才被针妙丸使用万宝槌的魔力唤醒不久，弁弁是琵琶，而八桥是琴的付丧神。说她们是姐妹但其实她们之间并没有血缘关系，只不过是觉醒的时间点恰好一样。不知是否是受了小槌魔力的影响，她们单纯地做着作为道具发动以下克上的美梦。另外「辉针城」的异变时当针妙丸被降服之后，万宝槌的魔力虽然枯竭了但是她们并没有变回道具，而且还从雷鼓那里学到了不少知识。</div></td></tr></tbody></table>
@@ -65,6 +70,7 @@
 
 
 <table><tbody><tr class="tt-content-header" id="九十九弁弁&amp;九十九八桥-6" data-pos="&#91;&quot;\u4e5d\u5341\u4e5d\u5f01\u5f01\u0026\u4e5d\u5341\u4e5d\u516b\u6865&quot;,6&#93;"><td class="tt-jah" lang="ja"><div class="poem">Comment from ZUN</div></td><td class="tt-zhh" lang="zh"><div class="poem">Comment from ZUN</div></td></tr><tr class="tt-content" id="九十九弁弁&amp;九十九八桥-7" data-pos="&#91;&quot;\u4e5d\u5341\u4e5d\u5f01\u5f01\u0026\u4e5d\u5341\u4e5d\u516b\u6865&quot;,7&#93;"><td class="tt-ja" lang="ja"><div class="poem">付喪神の原点「百鬼夜行絵巻」に登場する名前の無い妖怪をモチーフにしたくて、この二人になりました。「百鬼夜行絵巻」は見てて面白いですよね。横スクロールのゲームみたいな感じがすごくある。彼女らは生まれたての妖怪なので、どこで何をしていた、みたいな設定があまりないんです。ゲーム中だと、個人的には音符の弾よりも休符の弾のほうが避けづらい（笑）。</div></td><td class="tt-zh" lang="zh"><div class="poem">我想以付丧神的起源「百鬼夜行绘卷」之中登场的无名妖怪为原型，才做出了这两个角色。读「百鬼夜行绘卷」可是非常有趣的。感觉就像在玩横版过关游戏一样。她们自诞生那一刻便是妖怪，所以在她们的设定之中并没有什么关于以前在哪里、做过什么的故事。在游戏里呢，就我个人来说比起音符的弹幕还是休止符的弹幕要更难躲开（笑）。</div></td></tr></tbody></table>
+
 
 
 ## 若鹭姬&amp;今泉影狼&amp;赤蛮奇

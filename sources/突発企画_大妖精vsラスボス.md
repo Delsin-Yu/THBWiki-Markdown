@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-突発企画_大妖精vsラスボス封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/1/16/%E7%AA%81%E7%99%BA%E4%BC%81%E7%94%BB_%E5%A4%A7%E5%A6%96%E7%B2%BEvs%E3%83%A9%E3%82%B9%E3%83%9C%E3%82%B9%E5%B0%81%E9%9D%A2.jpg/140px-%E7%AA%81%E7%99%BA%E4%BC%81%E7%94%BB_%E5%A4%A7%E5%A6%96%E7%B2%BEvs%E3%83%A9%E3%82%B9%E3%83%9C%E3%82%B9%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="140" height="196" srcset="https://upload.thwiki.cc/thumb/1/16/%E7%AA%81%E7%99%BA%E4%BC%81%E7%94%BB_%E5%A4%A7%E5%A6%96%E7%B2%BEvs%E3%83%A9%E3%82%B9%E3%83%9C%E3%82%B9%E5%B0%81%E9%9D%A2.jpg/209px-%E7%AA%81%E7%99%BA%E4%BC%81%E7%94%BB_%E5%A4%A7%E5%A6%96%E7%B2%BEvs%E3%83%A9%E3%82%B9%E3%83%9C%E3%82%B9%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/1/16/%E7%AA%81%E7%99%BA%E4%BC%81%E7%94%BB_%E5%A4%A7%E5%A6%96%E7%B2%BEvs%E3%83%A9%E3%82%B9%E3%83%9C%E3%82%B9%E5%B0%81%E9%9D%A2.jpg/279px-%E7%AA%81%E7%99%BA%E4%BC%81%E7%94%BB_%E5%A4%A7%E5%A6%96%E7%B2%BEvs%E3%83%A9%E3%82%B9%E3%83%9C%E3%82%B9%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="700" data-file-height="982"></a><div class="cover-char">角色：<a href="./大妖精.md" title="大妖精">大妖精</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/VJ_frmk/status/1119240368057245696">https://twitter.com/VJ_frmk/status/1119240368057245696</a></td></tr></tbody></table>
 
 突発企画 大妖精vsラスボス（同人志，office-φ，2019） - 2019年5月5日 由 office-φ 于 博丽神社例大祭16 发布的漫画同人志，A5尺寸一共20页，分级为 一般向
+
 ## Staff
 : 216 (未找到链接)
+
 
 ## 评论
 ```

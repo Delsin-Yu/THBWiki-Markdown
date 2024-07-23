@@ -4,6 +4,7 @@
 
 Dai-Sukima_Dan
 
+
 ## 活动情况
   
 [2016年9月4日](https://twitter.com/daisukimadan/status/772154491042877442)之前持续活动,并在这天发布ESR（即本游戏）的Demo3.0  

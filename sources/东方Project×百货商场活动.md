@@ -4,8 +4,9 @@
 
 博麗神社～夏祭り，博麗神社～春祭り，博麗神社～秋祭り，博麗神社～ちょっとだけ夏祭，博麗神社～冬祭り 在 日本东京、大阪、名古屋、仙台、福冈、北九州 举办的  东方授权联动同人店铺联动活动，目前共举办了64届
 
-本页是关于 **同人展会 (未找到链接)**   
-及 **相关活动 (未找到链接)** 的词条
+本页是关于 **[同人展会](./同人展会.md#展会类活动)**   
+及 **[相关活动](./相关活动.md)** 的词条
+
 ## 目录
 
 - [1 概述](#概述)
@@ -28,6 +29,7 @@
 
 
 - [8 注释](#注释)
+
 
 
 
@@ -98,7 +100,7 @@
   
   
   
-日本 **东京、大阪、名古屋、仙台、福冈、北九州** 的东方Project Only **授权联动同人店铺联动类活动 (未找到链接)** 。  
+日本 **东京、大阪、名古屋、仙台、福冈、北九州** 的东方Project Only **授权联动同人[店铺联动类活动](./店铺联动类活动.md#店铺联动类活动)** 。  
   
 主要在东京、大阪、名古屋、仙台、福冈、北九州举办，亦曾在台北举办过。  
 直到目前为止，已经举办了64届（包含已决定将会举办）。  
@@ -126,6 +128,7 @@ ZUN在东方Project×atré秋叶原「博丽神社～夏之祭」举办期间曾
 官方推特： [https://twitter.com/hakurei_sukei](https://twitter.com/hakurei_sukei) （需要翻墙）  
   
 东方Project×百货商场活动（活动，店铺联动活动） - 博麗神社～夏祭り，博麗神社～春祭り，博麗神社～秋祭り，博麗神社～ちょっとだけ夏祭，博麗神社～冬祭り 在 日本东京、大阪、名古屋、仙台、福冈、北九州 举办的  东方授权联动同人店铺联动活动，目前共举办了64届
+
 ## 历届信息
 - 点击届数可进入对应分类页面
 
@@ -199,41 +202,44 @@ ZUN在东方Project×atré秋叶原「博丽神社～夏之祭」举办期间曾
 </tbody></table>
 
 
+
 ## 协办组织
 第一届
-: atré秋叶原、博丽神社社务所 (未找到链接)、AKIBA-HOBBY、AXIA、[Gift](./Gift.md)、QuesＱ、[Good Smile Company](./Good_Smile_Company.md)、Gee!STORE、[Play,Doujin!](./Play,Doujin!.md)、BELLFINE、[MediaScape](./MediaScape.md)
+: atré秋叶原、[博丽神社社务所](./博丽神社社务所.md)、AKIBA-HOBBY、AXIA、[Gift](./Gift.md)、QuesＱ、[Good Smile Company](./Good_Smile_Company.md)、Gee!STORE、[Play,Doujin!](./Play,Doujin!.md)、BELLFINE、[MediaScape](./MediaScape.md)
 第二届
-: atré秋叶原、博丽神社社务所 (未找到链接)、AKIBA-HOBBY、AXIA、[Gift](./Gift.md)、QuesＱ、[Good Smile Company](./Good_Smile_Company.md)、GUN-ZO、Gee!STORE、[虎之穴](./虎之穴.md)、[Play,Doujin!](./Play,Doujin!.md)、BELLFINE、[MediaScape](./MediaScape.md)
+: atré秋叶原、[博丽神社社务所](./博丽神社社务所.md)、AKIBA-HOBBY、AXIA、[Gift](./Gift.md)、QuesＱ、[Good Smile Company](./Good_Smile_Company.md)、GUN-ZO、Gee!STORE、[虎之穴](./虎之穴.md)、[Play,Doujin!](./Play,Doujin!.md)、BELLFINE、[MediaScape](./MediaScape.md)
 第三届
-: Gee!STORE、博丽神社社务所 (未找到链接)、东方红楼梦实行委员会 (未找到链接)、atré秋叶原、AKIBA-HOBBY、AXIA、AQUAMARINE、[Gift](./Gift.md)、QuesＱ、[Good Smile Company](./Good_Smile_Company.md)、GUN-ZO、[虎之穴](./虎之穴.md)、[Play,Doujin!](./Play,Doujin!.md)、BELLFINE、[MediaScape](./MediaScape.md)
+: Gee!STORE、[博丽神社社务所](./博丽神社社务所.md)、东方红楼梦实行委员会 (未找到链接)、atré秋叶原、AKIBA-HOBBY、AXIA、AQUAMARINE、[Gift](./Gift.md)、QuesＱ、[Good Smile Company](./Good_Smile_Company.md)、GUN-ZO、[虎之穴](./虎之穴.md)、[Play,Doujin!](./Play,Doujin!.md)、BELLFINE、[MediaScape](./MediaScape.md)
 第四届
-: atré秋叶原、博丽神社社务所 (未找到链接)、AKIBA-HOBBY、AQUAMARINE、AXIA、UNTIES (未找到链接)、[Gift](./Gift.md)、QuesＱ、[Good Smile Company](./Good_Smile_Company.md)、GUN-ZO、Gee!STORE、执事眼镜eyemirror、[虎之穴](./虎之穴.md)、niconico书籍、[Play,Doujin!](./Play,Doujin!.md)、BELLFINE、[MediaScape](./MediaScape.md)、MelonBooks (未找到链接)
+: atré秋叶原、[博丽神社社务所](./博丽神社社务所.md)、AKIBA-HOBBY、AQUAMARINE、AXIA、[UNTIES](./UNTIES.md)、[Gift](./Gift.md)、QuesＱ、[Good Smile Company](./Good_Smile_Company.md)、GUN-ZO、Gee!STORE、执事眼镜eyemirror、[虎之穴](./虎之穴.md)、niconico书籍、[Play,Doujin!](./Play,Doujin!.md)、BELLFINE、[MediaScape](./MediaScape.md)、MelonBooks (未找到链接)
 第五届
 : Akiba-Hobby（主办）
 第六届
-: Gee!STORE、博丽神社社务所 (未找到链接)、atré秋叶原、AKIBA-HOBBY、AQUAMARINE、AXIA、UNTIES (未找到链接)、[Gift](./Gift.md)、QuesＱ、[Good Smile Company](./Good_Smile_Company.md)、GUN-ZO、执事眼镜eyemirror、[虎之穴](./虎之穴.md)、niconico书籍、[Play,Doujin!](./Play,Doujin!.md)、BELLFINE、[MediaScape](./MediaScape.md)、MelonBooks (未找到链接)
+: Gee!STORE、[博丽神社社务所](./博丽神社社务所.md)、atré秋叶原、AKIBA-HOBBY、AQUAMARINE、AXIA、[UNTIES](./UNTIES.md)、[Gift](./Gift.md)、QuesＱ、[Good Smile Company](./Good_Smile_Company.md)、GUN-ZO、执事眼镜eyemirror、[虎之穴](./虎之穴.md)、niconico书籍、[Play,Doujin!](./Play,Doujin!.md)、BELLFINE、[MediaScape](./MediaScape.md)、MelonBooks (未找到链接)
 第七届
-: atré秋叶原、博丽神社社务所 (未找到链接)、AKIBA-HOBBY、AQUAMARINE、AXIA、UNTIES (未找到链接)、[Gift](./Gift.md)、QuesＱ、[Good Smile Company](./Good_Smile_Company.md)、GUN-ZO、执事眼镜eyemirror、[虎之穴](./虎之穴.md)、[Play,Doujin!](./Play,Doujin!.md)、BELLFINE、[MediaScape](./MediaScape.md)、MelonBooks (未找到链接)
+: atré秋叶原、[博丽神社社务所](./博丽神社社务所.md)、AKIBA-HOBBY、AQUAMARINE、AXIA、[UNTIES](./UNTIES.md)、[Gift](./Gift.md)、QuesＱ、[Good Smile Company](./Good_Smile_Company.md)、GUN-ZO、执事眼镜eyemirror、[虎之穴](./虎之穴.md)、[Play,Doujin!](./Play,Doujin!.md)、BELLFINE、[MediaScape](./MediaScape.md)、MelonBooks (未找到链接)
 第八届
-: Gee!STORE、博丽神社社务所 (未找到链接)、atré秋叶原、AKIBA-HOBBY、AQUAMARINE、AXIA、UNTIES (未找到链接)、[Gift](./Gift.md)、QuesＱ、[Good Smile Company](./Good_Smile_Company.md)、GUN-ZO、执事眼镜eyemirror、[虎之穴](./虎之穴.md)、[Play,Doujin!](./Play,Doujin!.md)、BELLFINE、[MediaScape](./MediaScape.md)、MelonBooks (未找到链接)
+: Gee!STORE、[博丽神社社务所](./博丽神社社务所.md)、atré秋叶原、AKIBA-HOBBY、AQUAMARINE、AXIA、[UNTIES](./UNTIES.md)、[Gift](./Gift.md)、QuesＱ、[Good Smile Company](./Good_Smile_Company.md)、GUN-ZO、执事眼镜eyemirror、[虎之穴](./虎之穴.md)、[Play,Doujin!](./Play,Doujin!.md)、BELLFINE、[MediaScape](./MediaScape.md)、MelonBooks (未找到链接)
 第九届
-: Gee!STORE、博丽神社社务所 (未找到链接)、atré秋叶原、AKIBA-HOBBY、AQUAMARINE、AXIA、UNTIES (未找到链接)、[Gift](./Gift.md)、QuesＱ、[Good Smile Company](./Good_Smile_Company.md)、GUN-ZO、執事眼鏡eyemirror、[虎之穴](./虎之穴.md)、[Play,Doujin!](./Play,Doujin!.md)、BELLFINE、[MediaScape](./MediaScape.md)、MelonBooks (未找到链接)
+: Gee!STORE、[博丽神社社务所](./博丽神社社务所.md)、atré秋叶原、AKIBA-HOBBY、AQUAMARINE、AXIA、[UNTIES](./UNTIES.md)、[Gift](./Gift.md)、QuesＱ、[Good Smile Company](./Good_Smile_Company.md)、GUN-ZO、執事眼鏡eyemirror、[虎之穴](./虎之穴.md)、[Play,Doujin!](./Play,Doujin!.md)、BELLFINE、[MediaScape](./MediaScape.md)、MelonBooks (未找到链接)
 第十届
-: atré秋叶原、博丽神社社务所 (未找到链接)、AKIBA-HOBBY、AQUAMARINE、AXIA、UNTIES (未找到链接)、[Gift](./Gift.md)、QuesＱ、[Good Smile Company](./Good_Smile_Company.md)、GUN-ZO、Gee!STORE、執事眼鏡eyemirror、[虎之穴](./虎之穴.md)、[Play,Doujin!](./Play,Doujin!.md)、BELLFINE、[MediaScape](./MediaScape.md)、MelonBooks (未找到链接)
+: atré秋叶原、[博丽神社社务所](./博丽神社社务所.md)、AKIBA-HOBBY、AQUAMARINE、AXIA、[UNTIES](./UNTIES.md)、[Gift](./Gift.md)、QuesＱ、[Good Smile Company](./Good_Smile_Company.md)、GUN-ZO、Gee!STORE、執事眼鏡eyemirror、[虎之穴](./虎之穴.md)、[Play,Doujin!](./Play,Doujin!.md)、BELLFINE、[MediaScape](./MediaScape.md)、MelonBooks (未找到链接)
 第十一届
-: atré秋叶原、博丽神社社务所 (未找到链接)、AKIBA-HOBBY、[AQUA STYLE](./AQUA_STYLE.md)、AQUAMARINE、AXIA、UNTIES (未找到链接)、[Gift](./Gift.md)、QuesＱ、[Good Smile Company](./Good_Smile_Company.md)、GUN-ZO、Gee!STORE、執事眼鏡eyemirror、[Taito](./太东.md)、[超东方LIVE舞台2019](./超东方LIVE舞台.md)、T-FANSITE、[东方大炮弹](./东方大炮弹.md)、[虎之穴](./虎之穴.md)、[niconico超会议2019](./niconico超会议.md)、[Play,Doujin!](./Play,Doujin!.md)、BELLFINE、Movic、[MediaScape](./MediaScape.md)、MelonBooks (未找到链接)
+: atré秋叶原、[博丽神社社务所](./博丽神社社务所.md)、AKIBA-HOBBY、[AQUA STYLE](./AQUA_STYLE.md)、AQUAMARINE、AXIA、[UNTIES](./UNTIES.md)、[Gift](./Gift.md)、QuesＱ、[Good Smile Company](./Good_Smile_Company.md)、GUN-ZO、Gee!STORE、執事眼鏡eyemirror、[Taito](./太东.md)、[超东方LIVE舞台2019](./超东方LIVE舞台.md)、T-FANSITE、[东方大炮弹](./东方大炮弹.md)、[虎之穴](./虎之穴.md)、[niconico超会议2019](./niconico超会议.md)、[Play,Doujin!](./Play,Doujin!.md)、BELLFINE、Movic、[MediaScape](./MediaScape.md)、MelonBooks (未找到链接)
 第十四届
-: atré秋叶原、博丽神社社务所 (未找到链接)、AKIBA-HOBBY、[AQUA STYLE](./AQUA_STYLE.md)、AQUAMARINE、AXIA、UNTIES (未找到链接)、[Gift](./Gift.md)、QuesＱ、[Good Smile Company](./Good_Smile_Company.md)、GUN-ZO、Gee!STORE、執事眼鏡eyemirror、[Taito](./太东.md)、[超东方LIVE舞台2019](./超东方LIVE舞台.md)、T-FANSITE、[东方大炮弹](./东方大炮弹.md)、[虎之穴](./虎之穴.md)、[niconico超会议2019](./niconico超会议.md)、[Play,Doujin!](./Play,Doujin!.md)、BELLFINE、Movic、[MediaScape](./MediaScape.md)、MelonBooks (未找到链接)
+: atré秋叶原、[博丽神社社务所](./博丽神社社务所.md)、AKIBA-HOBBY、[AQUA STYLE](./AQUA_STYLE.md)、AQUAMARINE、AXIA、[UNTIES](./UNTIES.md)、[Gift](./Gift.md)、QuesＱ、[Good Smile Company](./Good_Smile_Company.md)、GUN-ZO、Gee!STORE、執事眼鏡eyemirror、[Taito](./太东.md)、[超东方LIVE舞台2019](./超东方LIVE舞台.md)、T-FANSITE、[东方大炮弹](./东方大炮弹.md)、[虎之穴](./虎之穴.md)、[niconico超会议2019](./niconico超会议.md)、[Play,Doujin!](./Play,Doujin!.md)、BELLFINE、Movic、[MediaScape](./MediaScape.md)、MelonBooks (未找到链接)
 第十七届
-: atré秋叶原、博丽神社社务所 (未找到链接)、AKIBA-HOBBY、[AQUA STYLE](./AQUA_STYLE.md)、AQUAMARINE、AXIA、AMNIBUS、UNTIES (未找到链接)、[Gift](./Gift.md)、QuesＱ、[Good Smile Company](./Good_Smile_Company.md)、GUN-ZO、Gee!STORE、執事眼鏡eyemirror、[Taito](./太东.md)、T-FANSITE、[东方大炮弹](./东方大炮弹.md)、[东方LostWord](./东方LostWord.md)、[东方Station](./东方STATION.md)、[虎之穴](./虎之穴.md)、[Play,Doujin!](./Play,Doujin!.md)、BELLFINE、Movic、[MediaScape](./MediaScape.md)、MelonBooks (未找到链接)
+: atré秋叶原、[博丽神社社务所](./博丽神社社务所.md)、AKIBA-HOBBY、[AQUA STYLE](./AQUA_STYLE.md)、AQUAMARINE、AXIA、AMNIBUS、[UNTIES](./UNTIES.md)、[Gift](./Gift.md)、QuesＱ、[Good Smile Company](./Good_Smile_Company.md)、GUN-ZO、Gee!STORE、執事眼鏡eyemirror、[Taito](./太东.md)、T-FANSITE、[东方大炮弹](./东方大炮弹.md)、[东方LostWord](./东方LostWord.md)、[东方Station](./东方STATION.md)、[虎之穴](./虎之穴.md)、[Play,Doujin!](./Play,Doujin!.md)、BELLFINE、Movic、[MediaScape](./MediaScape.md)、MelonBooks (未找到链接)
 第十八届
-: Gee!STORE、atré秋叶原、博丽神社社务所 (未找到链接)、AKIBA-HOBBY、[AQUA STYLE](./AQUA_STYLE.md)、AQUAMARINE、AXIA、AMNIBUS、UNTIES (未找到链接)、[Gift](./Gift.md)、QuesＱ、[Good Smile Company](./Good_Smile_Company.md)、GUN-ZO、執事眼鏡eyemirror、[Taito](./太东.md)、T-FANSITE、[东方大炮弹](./东方大炮弹.md)、[东方LostWord](./东方LostWord.md)、[东方Station](./东方STATION.md)、[虎之穴](./虎之穴.md)、武士道、[Play,Doujin!](./Play,Doujin!.md)、BELLFINE、Movic、[MediaScape](./MediaScape.md)、MelonBooks (未找到链接)
+: Gee!STORE、atré秋叶原、[博丽神社社务所](./博丽神社社务所.md)、AKIBA-HOBBY、[AQUA STYLE](./AQUA_STYLE.md)、AQUAMARINE、AXIA、AMNIBUS、[UNTIES](./UNTIES.md)、[Gift](./Gift.md)、QuesＱ、[Good Smile Company](./Good_Smile_Company.md)、GUN-ZO、執事眼鏡eyemirror、[Taito](./太东.md)、T-FANSITE、[东方大炮弹](./东方大炮弹.md)、[东方LostWord](./东方LostWord.md)、[东方Station](./东方STATION.md)、[虎之穴](./虎之穴.md)、武士道、[Play,Doujin!](./Play,Doujin!.md)、BELLFINE、Movic、[MediaScape](./MediaScape.md)、MelonBooks (未找到链接)
 第十九届
-: Gee!STORE、atré秋叶原、博丽神社社务所 (未找到链接)、AKIBA-HOBBY、[AQUA STYLE](./AQUA_STYLE.md)、AQUAMARINE、AXIA、AMNIBUS、UNTIES (未找到链接)、[Gift](./Gift.md)、QuesＱ、[Good Smile Company](./Good_Smile_Company.md)、GUN-ZO、執事眼鏡eyemirror、[Taito](./太东.md)、T-FANSITE、[东方大炮弹](./东方大炮弹.md)、[东方LostWord](./东方LostWord.md)、[东方Station](./东方STATION.md)、[虎之穴](./虎之穴.md)、武士道、[Play,Doujin!](./Play,Doujin!.md)、BELLFINE、Movic、[MediaScape](./MediaScape.md)、MelonBooks (未找到链接)
+: Gee!STORE、atré秋叶原、[博丽神社社务所](./博丽神社社务所.md)、AKIBA-HOBBY、[AQUA STYLE](./AQUA_STYLE.md)、AQUAMARINE、AXIA、AMNIBUS、[UNTIES](./UNTIES.md)、[Gift](./Gift.md)、QuesＱ、[Good Smile Company](./Good_Smile_Company.md)、GUN-ZO、執事眼鏡eyemirror、[Taito](./太东.md)、T-FANSITE、[东方大炮弹](./东方大炮弹.md)、[东方LostWord](./东方LostWord.md)、[东方Station](./东方STATION.md)、[虎之穴](./虎之穴.md)、武士道、[Play,Doujin!](./Play,Doujin!.md)、BELLFINE、Movic、[MediaScape](./MediaScape.md)、MelonBooks (未找到链接)
+
 
 ## 参与社团
 第一届
-: [Alstroemeria Records](./Alstroemeria_Records.md)、[IOSYS](./IOSYS.md)、[A-One](./A-One.md)、岸田教团&amp; The 明星Rockets (未找到链接)、[COOL&amp;CREATE](./COOL&CREATE.md)、[石鹸屋](./石鹸屋.md)、[TaNaBaTa](./TaNaBaTa.md)、[魂音泉](./魂音泉.md)、[TAMUSIC](./TAMUSIC.md)、[東京アクティブNEETs](./東京アクティブNEETs.md)、[豚乙女](./豚乙女.md)、[幽闭星光](./幽闭星光.md)
+: [Alstroemeria Records](./Alstroemeria_Records.md)、[IOSYS](./IOSYS.md)、[A-One](./A-One.md)、[岸田教团&amp; The 明星Rockets](./岸田教团&_The_明星Rockets.md)、[COOL&amp;CREATE](./COOL&CREATE.md)、[石鹸屋](./石鹸屋.md)、[TaNaBaTa](./TaNaBaTa.md)、[魂音泉](./魂音泉.md)、[TAMUSIC](./TAMUSIC.md)、[東京アクティブNEETs](./東京アクティブNEETs.md)、[豚乙女](./豚乙女.md)、[幽闭星光](./幽闭星光.md)
+
 
 ## 历届宣传图
 - [](./文件-博丽神社夏之祭插画.jpg.md)博丽神社夏之祭- [](./文件-博丽神社夏之祭_in_大阪插画.jpg.md)博丽神社夏之祭 in 大阪
@@ -258,16 +264,21 @@ ZUN在东方Project×atré秋叶原「博丽神社～夏之祭」举办期间曾
 
 - [](./文件-博丽神社夏之祭2024插画.jpg.md)博丽神社夏之祭2024- [](./文件-博丽神社夏之祭2024延长插画.jpg.md)博丽神社夏之祭2024 延长插画
 
+
 ## 现场图片
+
 ### 第一届
 - [](./文件-博丽神社夏之祭现场1.jpg.md)灵梦展示板- [](./文件-博丽神社夏之祭现场2.jpg.md)魔理沙展示板- [](./文件-博丽神社夏之祭现场3.jpg.md)正门- [](./文件-博丽神社夏之祭现场4.jpg.md)角色展板- [](./文件-博丽神社夏之祭现场5.jpg.md)贩卖物品
 
 - [](./文件-博丽神社夏之祭现场7.jpg.md)ZUN在现场- [](./文件-博丽神社夏之祭现场8.jpg.md)ZUN正在东方年表上签名- [](./文件-博丽神社夏之祭现场9.jpg.md)ZUN签名
 
+
 ### 第七届
 - [](./文件-博丽神社秋之祭_2018现场1.jpg.md)角色展板- [](./文件-博丽神社秋之祭_2018现场2.jpg.md)正门- [](./文件-博丽神社秋之祭_2018现场3.jpg.md)ZUN签名
 
+
 ## 相关活动
+
 ### 东方Project×太秦上洛祭「博丽神社～秋之祭2018」
   
 2018年11月17日~2018年11月18日在[东映太秦映画村](https://zh.wikipedia.org/wiki/东映太秦映画村)举行的东方Project×太秦上洛祭「博丽神社～秋之祭2018」活动。
@@ -282,6 +293,7 @@ ZUN在东方Project×atré秋叶原「博丽神社～夏之祭」举办期间曾
 
 - 灵梦、妖梦持刀钥匙扣
 - 限定明信片
+
 
 
 ### 东方Project×太秦上洛祭「博丽神社～冬之祭2021」

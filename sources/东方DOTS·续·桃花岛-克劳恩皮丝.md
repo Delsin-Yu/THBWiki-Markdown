@@ -164,6 +164,7 @@
 [](./文件-THD2克劳恩皮丝.png.md)
   
 
+
 ## 目录
 
 - [1 角色定位](#角色定位)
@@ -184,10 +185,12 @@
 
 
 
+
 ## 角色定位
   
 控制 - 先手 - 辅助 - 爆发
   
+
 
 ## 技能介绍
 
@@ -666,6 +669,7 @@
 </td></tr></tbody></table>
 
 
+
 ## 天赋树
 
 
@@ -704,10 +708,12 @@
 </td></tr></tbody></table>
 
 
+
 ## 玩法参考
   
 克劳恩皮丝这名少女的控制技能非常多，用好技能组合还可以打出很强的地区控制能力，除此以外也有着不错的输出，在游戏的中期尤为强势。缺点是对线碰到长手机体很难打，而且一旦线上崩盘还很难游走。因此，如何度过对线期及中期如何打团是玩好皮丝最需要注意的两个点。这并不是一个非常简单好上手的辅助（也可以用来作为功能核，但强度一般），最好是有一定的辅助经验再来接触这个机体。
   
+
 
 ### 对线阶段
 
@@ -737,6 +743,7 @@
 到5级时，保证技能加点是113或者023均可（看情况选择）。在这个过程中游走要谨慎，虽然皮丝有<a href="./文件-THD2克劳恩皮丝_02.png.md" class="image"><img alt="THD2克劳恩皮丝 02.png" src="https://upload.thwiki.cc/thumb/2/20/THD2%E5%85%8B%E5%8A%B3%E6%81%A9%E7%9A%AE%E4%B8%9D_02.png/40px-THD2%E5%85%8B%E5%8A%B3%E6%81%A9%E7%9A%AE%E4%B8%9D_02.png" decoding="async" loading="lazy" width="40" height="40" srcset="https://upload.thwiki.cc/thumb/2/20/THD2%E5%85%8B%E5%8A%B3%E6%81%A9%E7%9A%AE%E4%B8%9D_02.png/60px-THD2%E5%85%8B%E5%8A%B3%E6%81%A9%E7%9A%AE%E4%B8%9D_02.png 1.5x, https://upload.thwiki.cc/thumb/2/20/THD2%E5%85%8B%E5%8A%B3%E6%81%A9%E7%9A%AE%E4%B8%9D_02.png/80px-THD2%E5%85%8B%E5%8A%B3%E6%81%A9%E7%9A%AE%E4%B8%9D_02.png 2x" data-file-width="128" data-file-height="128"></a>这个留人技能，但是制造击杀的速度不够快，如果视野不好的话很容易被反打。<br>
 </p>
 </td></tr></tbody></table>
+
 
 
 ### 游戏中期
@@ -780,6 +787,7 @@
 </td></tr></tbody></table>
 
 
+
 ### 游戏后期
 
 <table>
@@ -793,6 +801,7 @@
 可选的装备有：<a href="./文件-THD2灾厄之主人形.png.md" class="image" title="灾厄之主人形"><img alt="灾厄之主人形" src="https://upload.thwiki.cc/thumb/0/03/THD2%E7%81%BE%E5%8E%84%E4%B9%8B%E4%B8%BB%E4%BA%BA%E5%BD%A2.png/70px-THD2%E7%81%BE%E5%8E%84%E4%B9%8B%E4%B8%BB%E4%BA%BA%E5%BD%A2.png" decoding="async" loading="lazy" width="70" height="51" srcset="https://upload.thwiki.cc/0/03/THD2%E7%81%BE%E5%8E%84%E4%B9%8B%E4%B8%BB%E4%BA%BA%E5%BD%A2.png 1.5x" data-file-width="88" data-file-height="64"></a> <a href="./文件-THD2魔法使的帽子.png.md" class="image" title="魔法使的帽子"><img alt="魔法使的帽子" src="https://upload.thwiki.cc/thumb/c/ce/THD2%E9%AD%94%E6%B3%95%E4%BD%BF%E7%9A%84%E5%B8%BD%E5%AD%90.png/70px-THD2%E9%AD%94%E6%B3%95%E4%BD%BF%E7%9A%84%E5%B8%BD%E5%AD%90.png" decoding="async" loading="lazy" width="70" height="51" srcset="https://upload.thwiki.cc/c/ce/THD2%E9%AD%94%E6%B3%95%E4%BD%BF%E7%9A%84%E5%B8%BD%E5%AD%90.png 1.5x" data-file-width="88" data-file-height="64"></a> <a href="./文件-THD2雪女的围巾.png.md" class="image" title="雪女的围巾"><img alt="雪女的围巾" src="https://upload.thwiki.cc/thumb/5/5e/THD2%E9%9B%AA%E5%A5%B3%E7%9A%84%E5%9B%B4%E5%B7%BE.png/70px-THD2%E9%9B%AA%E5%A5%B3%E7%9A%84%E5%9B%B4%E5%B7%BE.png" decoding="async" loading="lazy" width="70" height="51" srcset="https://upload.thwiki.cc/5/5e/THD2%E9%9B%AA%E5%A5%B3%E7%9A%84%E5%9B%B4%E5%B7%BE.png 1.5x" data-file-width="88" data-file-height="64"></a> <a href="./文件-THD2十字架.png.md" class="image" title="十字架"><img alt="十字架" src="https://upload.thwiki.cc/thumb/c/cd/THD2%E5%8D%81%E5%AD%97%E6%9E%B6.png/70px-THD2%E5%8D%81%E5%AD%97%E6%9E%B6.png" decoding="async" loading="lazy" width="70" height="51" srcset="https://upload.thwiki.cc/c/cd/THD2%E5%8D%81%E5%AD%97%E6%9E%B6.png 1.5x" data-file-width="88" data-file-height="64"></a> <a href="./文件-THD2土著神的庇护.png.md" class="image" title="土著神的庇护"><img alt="土著神的庇护" src="https://upload.thwiki.cc/thumb/5/56/THD2%E5%9C%9F%E8%91%97%E7%A5%9E%E7%9A%84%E5%BA%87%E6%8A%A4.png/105px-THD2%E5%9C%9F%E8%91%97%E7%A5%9E%E7%9A%84%E5%BA%87%E6%8A%A4.png" decoding="async" loading="lazy" width="105" height="50" srcset="https://upload.thwiki.cc/5/56/THD2%E5%9C%9F%E8%91%97%E7%A5%9E%E7%9A%84%E5%BA%87%E6%8A%A4.png 1.5x" data-file-width="134" data-file-height="64"></a> <a href="./文件-THD2巫女的狐狸面具.png.md" class="image" title="巫女的狐狸面具"><img alt="巫女的狐狸面具" src="https://upload.thwiki.cc/thumb/4/45/THD2%E5%B7%AB%E5%A5%B3%E7%9A%84%E7%8B%90%E7%8B%B8%E9%9D%A2%E5%85%B7.png/70px-THD2%E5%B7%AB%E5%A5%B3%E7%9A%84%E7%8B%90%E7%8B%B8%E9%9D%A2%E5%85%B7.png" decoding="async" loading="lazy" width="70" height="51" srcset="https://upload.thwiki.cc/4/45/THD2%E5%B7%AB%E5%A5%B3%E7%9A%84%E7%8B%90%E7%8B%B8%E9%9D%A2%E5%85%B7.png 1.5x" data-file-width="88" data-file-height="64"></a> <a href="./文件-THD2完美跳跃装置.png.md" class="image" title="完美跳跃装置"><img alt="完美跳跃装置" src="https://upload.thwiki.cc/thumb/b/bd/THD2%E5%AE%8C%E7%BE%8E%E8%B7%B3%E8%B7%83%E8%A3%85%E7%BD%AE.png/95px-THD2%E5%AE%8C%E7%BE%8E%E8%B7%B3%E8%B7%83%E8%A3%85%E7%BD%AE.png" decoding="async" loading="lazy" width="95" height="49" srcset="https://upload.thwiki.cc/b/bd/THD2%E5%AE%8C%E7%BE%8E%E8%B7%B3%E8%B7%83%E8%A3%85%E7%BD%AE.png 1.5x" data-file-width="124" data-file-height="64"></a>等，根据局势选择针对装备即可。
 </p>
 </td></tr></tbody></table>
+
 
 
 ## 技能加点
@@ -855,6 +864,7 @@
 <td><a href="./文件-DOTA黄点.png.md" class="image" title="+2 全属性"><img alt="+2 全属性" src="https://upload.thwiki.cc/thumb/d/da/DOTA%E9%BB%84%E7%82%B9.png/40px-DOTA%E9%BB%84%E7%82%B9.png" decoding="async" loading="lazy" width="40" height="40" srcset="https://upload.thwiki.cc/thumb/d/da/DOTA%E9%BB%84%E7%82%B9.png/60px-DOTA%E9%BB%84%E7%82%B9.png 1.5x, https://upload.thwiki.cc/thumb/d/da/DOTA%E9%BB%84%E7%82%B9.png/80px-DOTA%E9%BB%84%E7%82%B9.png 2x" data-file-width="128" data-file-height="128"></a></td>
 <td><a href="./文件-THD2天赋树25左.png.md" class="image" title="20% 冷却时间减少"><img alt="20% 冷却时间减少" src="https://upload.thwiki.cc/thumb/a/aa/THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%B7%A6.png/40px-THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%B7%A6.png" decoding="async" loading="lazy" width="40" height="40" srcset="https://upload.thwiki.cc/thumb/a/aa/THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%B7%A6.png/60px-THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%B7%A6.png 1.5x, https://upload.thwiki.cc/thumb/a/aa/THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%B7%A6.png/80px-THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%B7%A6.png 2x" data-file-width="103" data-file-height="103"></a>
 </td></tr></tbody></table>
+
 
 
 ## 台词
@@ -987,6 +997,7 @@
 </p>
 </td></tr>
 </tbody></table>
+
 
 
 ## 教学视频

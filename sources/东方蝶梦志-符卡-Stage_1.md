@@ -62,6 +62,7 @@
 <tr><td>符卡原名</td><td>「愚人节狂欢」</td></tr><tr><td>出现位置</td><td>Stage 1 - Hard/Lunatic（<a href="./大妖精.md" title="大妖精">大妖精</a>）</td></tr></tbody></table>
 
 
+
 ## 词条导航
   
   

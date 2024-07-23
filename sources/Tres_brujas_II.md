@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Tres_brujas_II封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/c/c6/Tres_brujas_II%E5%B0%81%E9%9D%A2.jpg/140px-Tres_brujas_II%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="140" height="100" srcset="https://upload.thwiki.cc/thumb/c/c6/Tres_brujas_II%E5%B0%81%E9%9D%A2.jpg/210px-Tres_brujas_II%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/c/c6/Tres_brujas_II%E5%B0%81%E9%9D%A2.jpg/280px-Tres_brujas_II%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1398" data-file-height="1000"></a><div class="cover-char">角色：<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a>，<a href="./爱丽丝·玛格特洛依德.md" title="爱丽丝·玛格特洛依德">爱丽丝·玛格特洛依德</a>，<a href="./帕秋莉·诺蕾姬.md" title="帕秋莉·诺蕾姬">帕秋莉·诺蕾姬</a></div></td>
@@ -14,7 +15,9 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/en/artworks/46454724">https://www.pixiv.net/en/artworks/46454724</a></td></tr></tbody></table>
 
 Tres brujas II（同人志，Brisa Marina，2014） - 2014年10月12日 由 Brisa Marina 于 东方红楼梦10 发布的合同志/绘本同人志，登场人物有 雾雨魔理沙、爱丽丝·玛格特洛依德、帕秋莉·诺蕾姬，分级为 一般向
+
 ## 预览
+
 ## Staff
 - [aji](./aji.md)
 - [こぞう](./こぞう.md)
@@ -34,6 +37,7 @@ Tres brujas II（同人志，Brisa Marina，2014） - 2014年10月12日 由 Bris
 - [kei](./kei（插画家）.md)
 - [三澤 寛志](./三澤寛志.md)
 - [さとうきび](./さとうきび.md)
+
 
 ## 评论
 

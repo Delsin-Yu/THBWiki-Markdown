@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 软件信息](#软件信息)
@@ -27,6 +28,7 @@
 
 
 
+
 ## 软件信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-東方潮聖書_～_Sapphire_Panlogism.封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/a/a6/%E6%9D%B1%E6%96%B9%E6%BD%AE%E8%81%96%E6%9B%B8_%EF%BD%9E_Sapphire_Panlogism.%E5%B0%81%E9%9D%A2.jpg/224px-%E6%9D%B1%E6%96%B9%E6%BD%AE%E8%81%96%E6%9B%B8_%EF%BD%9E_Sapphire_Panlogism.%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="224" srcset="https://upload.thwiki.cc/thumb/a/a6/%E6%9D%B1%E6%96%B9%E6%BD%AE%E8%81%96%E6%9B%B8_%EF%BD%9E_Sapphire_Panlogism.%E5%B0%81%E9%9D%A2.jpg/336px-%E6%9D%B1%E6%96%B9%E6%BD%AE%E8%81%96%E6%9B%B8_%EF%BD%9E_Sapphire_Panlogism.%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/a/a6/%E6%9D%B1%E6%96%B9%E6%BD%AE%E8%81%96%E6%9B%B8_%EF%BD%9E_Sapphire_Panlogism.%E5%B0%81%E9%9D%A2.jpg/448px-%E6%9D%B1%E6%96%B9%E6%BD%AE%E8%81%96%E6%9B%B8_%EF%BD%9E_Sapphire_Panlogism.%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1000" data-file-height="1000"></a><div class="cover-char">角色：<a href="./水混祐毋.md" title="水混祐毋">水混祐毋</a></div></td>
@@ -35,16 +37,21 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://urbanmagic.itch.io/thsp">https://urbanmagic.itch.io/thsp</a></td></tr></tbody></table>
 
 東方潮聖書 ～ Sapphire Panlogism.（同人游戏，Team Urban Magic，2021） - 2021年6月1日 由 Team Urban Magic  发布的STG同人游戏，可在 Windows 系统上运行，游戏人数为 单人模式，分级为 一般向
+
 ## Staff
+
 ## 作品介绍
 - 本作为欧美东方爱好者制作的东方二次同人STG，目前已发布正式版。
 - 本作包含英文和日文的版本，可以在游戏内进行切换。
 - 剧情详见故事背景 (未找到链接)
 
+
 ## 角色
+
 ### 自机
 
 <table><tbody><tr><td><div class="center"><div class="floatnone"><a href="./文件-博丽灵梦（潮圣书）.png.md" class="image" title="红雨的巫女 博丽灵梦"><img alt="红雨的巫女 博丽灵梦" src="https://upload.thwiki.cc/thumb/a/ab/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%BD%AE%E5%9C%A3%E4%B9%A6%EF%BC%89.png/30px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%BD%AE%E5%9C%A3%E4%B9%A6%EF%BC%89.png" decoding="async" loading="lazy" width="30" height="40" srcset="https://upload.thwiki.cc/thumb/a/ab/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%BD%AE%E5%9C%A3%E4%B9%A6%EF%BC%89.png/45px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%BD%AE%E5%9C%A3%E4%B9%A6%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/a/ab/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%BD%AE%E5%9C%A3%E4%B9%A6%EF%BC%89.png/59px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%BD%AE%E5%9C%A3%E4%B9%A6%EF%BC%89.png 2x" data-file-width="278" data-file-height="373"></a></div></div></td> <td style="width:150px;padding:3px 9px 3px 7px;">红雨的巫女</td><td style="width:180px;padding:3px 9px 3px 7px;" rowspan="1"><a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></td></tr><tr><td><div class="center"><div class="floatnone"><a href="./文件-雾雨魔理沙（潮圣书）.png.md" class="image" title="深蓝季风的魔法使 雾雨魔理沙"><img alt="深蓝季风的魔法使 雾雨魔理沙" src="https://upload.thwiki.cc/thumb/e/e8/%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%EF%BC%88%E6%BD%AE%E5%9C%A3%E4%B9%A6%EF%BC%89.png/40px-%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%EF%BC%88%E6%BD%AE%E5%9C%A3%E4%B9%A6%EF%BC%89.png" decoding="async" loading="lazy" width="40" height="38" srcset="https://upload.thwiki.cc/thumb/e/e8/%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%EF%BC%88%E6%BD%AE%E5%9C%A3%E4%B9%A6%EF%BC%89.png/60px-%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%EF%BC%88%E6%BD%AE%E5%9C%A3%E4%B9%A6%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/e/e8/%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%EF%BC%88%E6%BD%AE%E5%9C%A3%E4%B9%A6%EF%BC%89.png/80px-%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%EF%BC%88%E6%BD%AE%E5%9C%A3%E4%B9%A6%EF%BC%89.png 2x" data-file-width="334" data-file-height="319"></a></div></div></td> <td style="width:150px;padding:3px 9px 3px 7px;">深蓝季风的魔法使</td><td style="width:180px;padding:3px 9px 3px 7px;" rowspan="1"><a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a></td></tr><tr><td><div class="center"><div class="floatnone"><a href="./文件-寅丸星（潮圣书）.png.md" class="image" title="黄金天气雨的权化 寅丸星"><img alt="黄金天气雨的权化 寅丸星" src="https://upload.thwiki.cc/thumb/1/1c/%E5%AF%85%E4%B8%B8%E6%98%9F%EF%BC%88%E6%BD%AE%E5%9C%A3%E4%B9%A6%EF%BC%89.png/34px-%E5%AF%85%E4%B8%B8%E6%98%9F%EF%BC%88%E6%BD%AE%E5%9C%A3%E4%B9%A6%EF%BC%89.png" decoding="async" loading="lazy" width="34" height="40" srcset="https://upload.thwiki.cc/thumb/1/1c/%E5%AF%85%E4%B8%B8%E6%98%9F%EF%BC%88%E6%BD%AE%E5%9C%A3%E4%B9%A6%EF%BC%89.png/52px-%E5%AF%85%E4%B8%B8%E6%98%9F%EF%BC%88%E6%BD%AE%E5%9C%A3%E4%B9%A6%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/1/1c/%E5%AF%85%E4%B8%B8%E6%98%9F%EF%BC%88%E6%BD%AE%E5%9C%A3%E4%B9%A6%EF%BC%89.png/69px-%E5%AF%85%E4%B8%B8%E6%98%9F%EF%BC%88%E6%BD%AE%E5%9C%A3%E4%B9%A6%EF%BC%89.png 2x" data-file-width="298" data-file-height="345"></a></div></div></td> <td style="width:150px;padding:3px 9px 3px 7px;">黄金天气雨的权化</td><td style="width:180px;padding:3px 9px 3px 7px;" rowspan="1"><a href="./寅丸星.md" title="寅丸星">寅丸星</a></td></tr><tr><td><div class="center"><div class="floatnone"><a href="./文件-赫卡提亚·拉碧斯拉祖利（潮圣书）.png.md" class="image" title="虹之彼方的地狱女神 赫卡提亚·拉碧斯拉祖利"><img alt="虹之彼方的地狱女神 赫卡提亚·拉碧斯拉祖利" src="https://upload.thwiki.cc/thumb/5/5a/%E8%B5%AB%E5%8D%A1%E6%8F%90%E4%BA%9A%C2%B7%E6%8B%89%E7%A2%A7%E6%96%AF%E6%8B%89%E7%A5%96%E5%88%A9%EF%BC%88%E6%BD%AE%E5%9C%A3%E4%B9%A6%EF%BC%89.png/23px-%E8%B5%AB%E5%8D%A1%E6%8F%90%E4%BA%9A%C2%B7%E6%8B%89%E7%A2%A7%E6%96%AF%E6%8B%89%E7%A5%96%E5%88%A9%EF%BC%88%E6%BD%AE%E5%9C%A3%E4%B9%A6%EF%BC%89.png" decoding="async" loading="lazy" width="23" height="40" srcset="https://upload.thwiki.cc/thumb/5/5a/%E8%B5%AB%E5%8D%A1%E6%8F%90%E4%BA%9A%C2%B7%E6%8B%89%E7%A2%A7%E6%96%AF%E6%8B%89%E7%A5%96%E5%88%A9%EF%BC%88%E6%BD%AE%E5%9C%A3%E4%B9%A6%EF%BC%89.png/35px-%E8%B5%AB%E5%8D%A1%E6%8F%90%E4%BA%9A%C2%B7%E6%8B%89%E7%A2%A7%E6%96%AF%E6%8B%89%E7%A5%96%E5%88%A9%EF%BC%88%E6%BD%AE%E5%9C%A3%E4%B9%A6%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/5/5a/%E8%B5%AB%E5%8D%A1%E6%8F%90%E4%BA%9A%C2%B7%E6%8B%89%E7%A2%A7%E6%96%AF%E6%8B%89%E7%A5%96%E5%88%A9%EF%BC%88%E6%BD%AE%E5%9C%A3%E4%B9%A6%EF%BC%89.png/46px-%E8%B5%AB%E5%8D%A1%E6%8F%90%E4%BA%9A%C2%B7%E6%8B%89%E7%A2%A7%E6%96%AF%E6%8B%89%E7%A5%96%E5%88%A9%EF%BC%88%E6%BD%AE%E5%9C%A3%E4%B9%A6%EF%BC%89.png 2x" data-file-width="228" data-file-height="391"></a></div></div></td> <td style="width:150px;padding:3px 9px 3px 7px;">虹之彼方的地狱女神</td><td style="width:180px;padding:3px 9px 3px 7px;" rowspan="1"><a href="./赫卡提亚·拉碧斯拉祖利.md" title="赫卡提亚·拉碧斯拉祖利">赫卡提亚·拉碧斯拉祖利</a></td></tr></tbody></table>
+
 
 
 ### BOSS
@@ -59,6 +66,7 @@
 <tr><td rowspan="1" class="bg-color-info-10" style="min-width:100px"><b>CF面道中</b><br><i><a href="/index.php?title=%E5%9C%A8%E4%B8%96%E7%95%8C%E4%B8%AD%E5%BF%83%E5%91%BC%E5%94%A4%E7%88%B1%E7%9A%84%E7%A5%9E%E6%98%8E&amp;action=edit&amp;redlink=1" class="new" title="在世界中心呼唤爱的神明（页面不存在）">在世界中心呼唤爱的神明</a></i></td><td style="min-width:35px" rowspan="1"><div class="center"><div class="floatnone"><a href="./文件-水混祐毋.png.md" class="image" title="水混祐毋"><img alt="水混祐毋" src="https://upload.thwiki.cc/thumb/7/7b/%E6%B0%B4%E6%B7%B7%E7%A5%90%E6%AF%8B.png/31px-%E6%B0%B4%E6%B7%B7%E7%A5%90%E6%AF%8B.png" decoding="async" loading="lazy" width="31" height="40" srcset="https://upload.thwiki.cc/thumb/7/7b/%E6%B0%B4%E6%B7%B7%E7%A5%90%E6%AF%8B.png/46px-%E6%B0%B4%E6%B7%B7%E7%A5%90%E6%AF%8B.png 1.5x, https://upload.thwiki.cc/thumb/7/7b/%E6%B0%B4%E6%B7%B7%E7%A5%90%E6%AF%8B.png/61px-%E6%B0%B4%E6%B7%B7%E7%A5%90%E6%AF%8B.png 2x" data-file-width="347" data-file-height="452"></a></div></div></td>  <td style="width:150px;padding:3px 9px 3px 7px;" rowspan="1"> 真女神转生</td><td style="width:180px;padding:3px 9px 3px 7px;" rowspan="1"> <a href="./水混祐毋.md" title="水混祐毋">水混祐毋</a> </td></tr><tr><td rowspan="1" class="bg-color-info-10" style="min-width:100px"><b>CF面BOSS</b><br><i><a href="/index.php?title=%E5%A5%B9%E7%9A%84%E5%8D%83%E5%B2%81%E9%A5%B4&amp;action=edit&amp;redlink=1" class="new" title="她的千岁饴（页面不存在）">她的千岁饴</a></i></td><td style="min-width:35px" rowspan="1"><div class="center"><div class="floatnone"><a href="./文件-八衢明伎.png.md" class="image"><img alt="八衢明伎.png" src="https://upload.thwiki.cc/thumb/e/ee/%E5%85%AB%E8%A1%A2%E6%98%8E%E4%BC%8E.png/35px-%E5%85%AB%E8%A1%A2%E6%98%8E%E4%BC%8E.png" decoding="async" loading="lazy" width="35" height="40" srcset="https://upload.thwiki.cc/thumb/e/ee/%E5%85%AB%E8%A1%A2%E6%98%8E%E4%BC%8E.png/53px-%E5%85%AB%E8%A1%A2%E6%98%8E%E4%BC%8E.png 1.5x, https://upload.thwiki.cc/thumb/e/ee/%E5%85%AB%E8%A1%A2%E6%98%8E%E4%BC%8E.png/71px-%E5%85%AB%E8%A1%A2%E6%98%8E%E4%BC%8E.png 2x" data-file-width="336" data-file-height="380"></a></div></div></td>  <td style="width:150px;padding:3px 9px 3px 7px;" rowspan="1"> 连缀天地之线</td><td style="width:180px;padding:3px 9px 3px 7px;" rowspan="1"> <a href="./八衢明伎.md" title="八衢明伎">八衢明伎</a> </td></tr></tbody></table>
 
 
+
 ## 内容页面
 - [游戏设定与剧情](./東方潮聖書_～_Sapphire_Panlogism.-设定与剧情.md)
 - 机体特性与系统说明 (未找到链接)
@@ -70,12 +78,14 @@
 
 - [其他相关资料](./東方潮聖書_～_Sapphire_Panlogism.-其他.md)
 
+
 ## 视频
   
 [预告视频](https://www.youtube.com/watch?v=go-oR8PyMhg)  
 
 [预告视频（B站）](https://www.bilibili.com/video/av21118157)
   
+
 
 ## 下载
   
@@ -95,10 +105,12 @@
 </td></tr></tbody></table>
 
 
+
 ## 外部链接
   
 [英文维基](https://en.touhouwiki.net/wiki/Sapphire_Panlogism)
   
+
 
 ## 词条导航
   

@@ -4,7 +4,8 @@
 
 Meme in Wonderland. ，主要制作 同人音乐 的日本同人社团，主催是 綾倉盟，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -16,14 +17,17 @@ Meme in Wonderland. ，主要制作 同人音乐 的日本同人社团，主催�
 
 
 
+
 ## 社团信息
 [](./文件-Meme_in_Wonderland.banner.gif.md)  [](./文件-Meme_in_Wonderland.banner.gif.md)Banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Meme in Wonderland. </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="./綾倉盟.md" title="綾倉盟">綾倉盟</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="https://meiayakura.tumblr.com/">https://meiayakura.tumblr.com/</a> <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><br><a rel="nofollow" class="external free" href="http://memenica.blog45.fc2.com/">http://memenica.blog45.fc2.com/</a> （已停止更新）<br><a rel="nofollow" class="external free" href="http://memenica.com/">http://memenica.com/</a> <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span></td></tr></tbody></table>
 
 Meme in Wonderland.（同人社团，同人音乐社团） - Meme in Wonderland. ，主要制作 同人音乐 的日本同人社团，主催是 綾倉盟，当前状态为 活动
+
 ## 成员名单
 - [綾倉盟](./綾倉盟.md)
+
 
 ## 作品列表
 [](./DOLLY_MIXTURES.md)[DOLLY MIXTURES](./DOLLY_MIXTURES.md)首发日期：2018-05-06 （第十五回 博麗神社例大祭 (未找到链接)）AYKR-0001全长 （一般向）[](./Meme_in_Wonderland.EP.md)[Meme in Wonderland.EP](./Meme_in_Wonderland.EP.md)首发日期：2018-08-10 （Comic Market 94 (未找到链接)）AYKR0002EP （一般向）
@@ -33,6 +37,7 @@ Meme in Wonderland.（同人社团，同人音乐社团） - Meme in Wonderland.
 </table>
 
 
+
 ## 其他信息
   
 属于[綾倉盟](./綾倉盟.md)的个人社团，她过往经常使用此社团的名义参与其他社团的作品，但一直未使用此名义发布专辑作品，直到2018年5月6日发布了首个专辑作品[DOLLY MIXTURES](./DOLLY_MIXTURES.md)。
@@ -40,6 +45,7 @@ Meme in Wonderland.（同人社团，同人音乐社团） - Meme in Wonderland.
   
 与[Studio "Syrup Comfiture"](./Studio_“Syrup_Comfiture”.md)、[Alstroemeria Records](./Alstroemeria_Records.md)、[ESQUARIA](./ESQUARIA.md)、[ZYTOKINE](./ZYTOKINE.md)等社团关系密切。
   
+
 
 ## 参展信息
 

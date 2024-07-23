@@ -12,7 +12,7 @@ The_Grimoire_of_Usami | 使用了翻译表的页面 | 宇佐见的魔法书 | �
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./The_Grimoire_of_Usami-黑谷山女-中日对照.md" title="The Grimoire of Usami/黑谷山女/中日对照">黑谷山女</a>&#160;
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="/%E5%AE%87%E4%BD%90%E8%A7%81%E7%9A%84%E9%AD%94%E6%B3%95%E4%B9%A6" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a>&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="./宇佐见的魔法书.md" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a>&#160;
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">&#160;<a href="./The_Grimoire_of_Usami-键山雏-中日对照.md" title="The Grimoire of Usami/键山雏/中日对照">键山雏</a>
 </td>
@@ -25,7 +25,7 @@ The_Grimoire_of_Usami | 使用了翻译表的页面 | 宇佐见的魔法书 | �
 - 翻译：fumika_zero
 
 
-<table><tbody><tr class="tt-content-header" id="=-1" data-pos="&#91;&quot;=&quot;,1&#93;"><td class="tt-jah" lang="ja"><div class="poem">嫉妬「ジェラシーボンバー」</div></td><td class="tt-zhh" lang="zh"><div class="poem"><a href="/%E5%AB%89%E5%A6%92%E3%80%8CJealousy_Bomber%E3%80%8D" class="mw-redirect" title="嫉妒「Jealousy Bomber」">嫉妒「Jealousy Bomber」</a></div></td></tr><tr class="tt-content" id="=-2" data-pos="&#91;&quot;=&quot;,2&#93;"><td class="tt-ja" lang="ja"><div class="poem">使用者：水橋パルスィ</div></td><td class="tt-zh" lang="zh"><div class="poem">使用者：<a href="./水桥帕露西.md" title="水桥帕露西">水桥帕露西</a></div></td></tr><tr class="tt-content" id="=-3" data-pos="&#91;&quot;=&quot;,3&#93;"><td class="tt-ja" lang="ja"><div class="poem">妬ましい……。<br>地上では楽しい花火大会をしているというのに、<br>地底の住人は参加禁止だなんて。<br>もしあの小人がいなかったら私なんてずっと橋の下で寂しく<br>呪っていなければいけなかった……。</div></td><td class="tt-zh" lang="zh"><div class="poem">让人嫉妒……<br>明明地上在开心地办烟花大会，<br>居然禁止地底居民参加。<br>如果没有那个小人的话像我这种人就只能一直在桥下寂寞地<br>诅咒了……</div></td></tr><tr class="tt-header" id="=-4" data-pos="&#91;&quot;=&quot;,4&#93;"><td colspan="2" id="鬼人正邪（0）" class="tt-header" lang="zh"><div class="poem">鬼人正邪（0）</div></td></tr><tr class="tt-content" id="=-5" data-pos="&#91;&quot;=&quot;,5&#93;"><td class="tt-ja" lang="ja"><div class="poem">おうおう、共鳴力の高い人間どもが心を痛めているぜ。いい気味だ。</div></td><td class="tt-zh" lang="zh"><div class="poem">噢噢，共感强的人类们在心痛哦。看着真爽。</div></td></tr><tr class="tt-header" id="=-6" data-pos="&#91;&quot;=&quot;,6&#93;"><td colspan="2" id="少名针妙丸（0）" class="tt-header" lang="zh"><div class="poem">少名针妙丸（0）</div></td></tr><tr class="tt-content" id="=-7" data-pos="&#91;&quot;=&quot;,7&#93;"><td class="tt-ja" lang="ja"><div class="poem">天邪鬼のお前がいい気味っていうことは……まあね、口では反対を言うけどそういう奴だって知ってたよ。</div></td><td class="tt-zh" lang="zh"><div class="poem">天邪鬼的你说看着爽就是说……哎，虽然嘴上说着反对但我也认识那种家伙啊。</div></td></tr><tr class="tt-header" id="=-8" data-pos="&#91;&quot;=&quot;,8&#93;"><td colspan="2" id="宇佐见堇子" class="tt-header" lang="zh"><div class="poem">宇佐见堇子</div></td></tr><tr class="tt-content" id="=-9" data-pos="&#91;&quot;=&quot;,9&#93;"><td class="tt-ja" lang="ja"><div class="poem">何か胸が締め付けられる思いがします……何なのでしょう、あのハートの弾幕。</div></td><td class="tt-zh" lang="zh"><div class="poem">总感觉心头一紧……那是啥啊，那个心形的弹幕。</div></td></tr></tbody></table>
+<table><tbody><tr class="tt-content-header" id="=-1" data-pos="&#91;&quot;=&quot;,1&#93;"><td class="tt-jah" lang="ja"><div class="poem">嫉妬「ジェラシーボンバー」</div></td><td class="tt-zhh" lang="zh"><div class="poem"><a href="./嫉妒「Jealousy_Bomber」.md" class="mw-redirect" title="嫉妒「Jealousy Bomber」">嫉妒「Jealousy Bomber」</a></div></td></tr><tr class="tt-content" id="=-2" data-pos="&#91;&quot;=&quot;,2&#93;"><td class="tt-ja" lang="ja"><div class="poem">使用者：水橋パルスィ</div></td><td class="tt-zh" lang="zh"><div class="poem">使用者：<a href="./水桥帕露西.md" title="水桥帕露西">水桥帕露西</a></div></td></tr><tr class="tt-content" id="=-3" data-pos="&#91;&quot;=&quot;,3&#93;"><td class="tt-ja" lang="ja"><div class="poem">妬ましい……。<br>地上では楽しい花火大会をしているというのに、<br>地底の住人は参加禁止だなんて。<br>もしあの小人がいなかったら私なんてずっと橋の下で寂しく<br>呪っていなければいけなかった……。</div></td><td class="tt-zh" lang="zh"><div class="poem">让人嫉妒……<br>明明地上在开心地办烟花大会，<br>居然禁止地底居民参加。<br>如果没有那个小人的话像我这种人就只能一直在桥下寂寞地<br>诅咒了……</div></td></tr><tr class="tt-header" id="=-4" data-pos="&#91;&quot;=&quot;,4&#93;"><td colspan="2" id="鬼人正邪（0）" class="tt-header" lang="zh"><div class="poem">鬼人正邪（0）</div></td></tr><tr class="tt-content" id="=-5" data-pos="&#91;&quot;=&quot;,5&#93;"><td class="tt-ja" lang="ja"><div class="poem">おうおう、共鳴力の高い人間どもが心を痛めているぜ。いい気味だ。</div></td><td class="tt-zh" lang="zh"><div class="poem">噢噢，共感强的人类们在心痛哦。看着真爽。</div></td></tr><tr class="tt-header" id="=-6" data-pos="&#91;&quot;=&quot;,6&#93;"><td colspan="2" id="少名针妙丸（0）" class="tt-header" lang="zh"><div class="poem">少名针妙丸（0）</div></td></tr><tr class="tt-content" id="=-7" data-pos="&#91;&quot;=&quot;,7&#93;"><td class="tt-ja" lang="ja"><div class="poem">天邪鬼のお前がいい気味っていうことは……まあね、口では反対を言うけどそういう奴だって知ってたよ。</div></td><td class="tt-zh" lang="zh"><div class="poem">天邪鬼的你说看着爽就是说……哎，虽然嘴上说着反对但我也认识那种家伙啊。</div></td></tr><tr class="tt-header" id="=-8" data-pos="&#91;&quot;=&quot;,8&#93;"><td colspan="2" id="宇佐见堇子" class="tt-header" lang="zh"><div class="poem">宇佐见堇子</div></td></tr><tr class="tt-content" id="=-9" data-pos="&#91;&quot;=&quot;,9&#93;"><td class="tt-ja" lang="ja"><div class="poem">何か胸が締め付けられる思いがします……何なのでしょう、あのハートの弾幕。</div></td><td class="tt-zh" lang="zh"><div class="poem">总感觉心头一紧……那是啥啊，那个心形的弹幕。</div></td></tr></tbody></table>
 
 
 <center>
@@ -36,7 +36,7 @@ The_Grimoire_of_Usami | 使用了翻译表的页面 | 宇佐见的魔法书 | �
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./The_Grimoire_of_Usami-黑谷山女-中日对照.md" title="The Grimoire of Usami/黑谷山女/中日对照">黑谷山女</a>&#160;
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="/%E5%AE%87%E4%BD%90%E8%A7%81%E7%9A%84%E9%AD%94%E6%B3%95%E4%B9%A6" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a>&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="./宇佐见的魔法书.md" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a>&#160;
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">&#160;<a href="./The_Grimoire_of_Usami-键山雏-中日对照.md" title="The Grimoire of Usami/键山雏/中日对照">键山雏</a>
 </td>
@@ -45,6 +45,7 @@ The_Grimoire_of_Usami | 使用了翻译表的页面 | 宇佐见的魔法书 | �
 
   
 </center>
+
 
 ## 词条导航
   

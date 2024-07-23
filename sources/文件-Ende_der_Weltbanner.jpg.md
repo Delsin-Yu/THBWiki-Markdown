@@ -4,6 +4,7 @@
 
 Ende_der_Welt | 社团LOGO
 
+
 ## 文件说明
   
 源地址：[direct image link](https://edw.sakura.ne.jp/banner.jpg), [source page](http://cupyakiudon.blog.fc2.com/)

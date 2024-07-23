@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -35,11 +36,13 @@
 
 
 
+
 ## 基本信息
 
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">キャプテン・ムラサ</td></tr><tr><td><b>译名</b></td><td>Captain Murasa</td></tr><tr><td><b>其他译名</b></td><td>村纱船长‎</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 Captain Murasa（曲目） - 由 ZUN 创作的官方曲目，原名 キャプテン・ムラサ
+
 ## 出现作品
 
 <table>
@@ -49,7 +52,9 @@ Captain Murasa（曲目） - 由 ZUN 创作的官方曲目，原名 キャプテ
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 东方星莲船
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th12_09.mp3.md" title="文件:th12 09.mp3">th12_09.mp3</a><br><audio src="https://upload.thwiki.cc/7/75/th12_09.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>BGM\th12_09.wav</td></tr><tr><td><b>BGMForAll</b></td><td><div class="mw-collapsible mw-collapsed">
@@ -60,12 +65,15 @@ Captain Murasa（曲目） - 由 ZUN 创作的官方曲目，原名 キャプテ
 </td></tr></tbody></table>
 
 
+
 ### 贪欲之兽的音乐
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-TFM-010a_12.mp3.md" title="文件:TFM-010a 12.mp3">TFM-010a_12.mp3</a><br><audio src="https://upload.thwiki.cc/6/63/TFM-010a_12.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track12.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>4:35</td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 东方星莲船
 - Music Room (未找到链接)
 
@@ -75,8 +83,11 @@ Captain Murasa（曲目） - 由 ZUN 创作的官方曲目，原名 キャプテ
 　曲子的风格由对船长的印象而来，因此显得很酷。  
 　但是大家都用村纱这个妖怪的名字来称呼她，  
 　所以基本没有用本名来称呼她的。
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
   
  **キャプテン・ムラサ**  Captain Murasa
@@ -91,6 +102,7 @@ Captain Murasa（曲目） - 由 ZUN 创作的官方曲目，原名 キャプテ
 - ムラサ（Murasa）
   - [村纱水蜜](./村纱水蜜.md)名字的由来，日本岛根县隐岐地方传说中的船幽灵「ムラサ」（Murasa）。
     - 参见村纱水蜜/分析考据#种族 (未找到链接)。
+
 
 
 

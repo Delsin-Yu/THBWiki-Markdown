@@ -4,7 +4,8 @@
 
 BIBASUKU ，于 2005 年成立，主要制作 同人志 的日本同人社团，主催是 あゆか，当前状态为 转入非东方
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -20,16 +21,20 @@ BIBASUKU ，于 2005 年成立，主要制作 同人志 的日本同人社团，
 
 
 
+
 ## 社团信息
 [](./文件-BIBASUKUbanner.gif.md)  [](./文件-BIBASUKUbanner.gif.md)banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> BIBASUKU </td></tr><tr><td><b>主要作品类型</b></td><td>同人志</td></tr><tr><td><b>成立时间</b></td><td>2005</td></tr><tr><td><b>当前状态</b></td><td>转入非东方</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=%E3%81%82%E3%82%86%E3%81%8B&amp;action=edit&amp;redlink=1" class="new" title="あゆか（页面不存在）">あゆか</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://ayuka.bibasuku.moo.jp/">http://ayuka.bibasuku.moo.jp/</a> <br><a rel="nofollow" class="external free" href="https://www.pixiv.net/member.php?id=19277">https://www.pixiv.net/member.php?id=19277</a><br><a rel="nofollow" class="external free" href="https://twitter.com/e_ayuka">https://twitter.com/e_ayuka</a><br><a rel="nofollow" class="external free" href="http://www7.plala.or.jp/bibasuku/">http://www7.plala.or.jp/bibasuku/</a> 原博客</td></tr></tbody></table>
 
 BIBASUKU（同人社团，同人志社团） - BIBASUKU ，于 2005 年成立，主要制作 同人志 的日本同人社团，主催是 あゆか，当前状态为 转入非东方
+
 ## 成员名单
 - あゆか (未找到链接)
 
+
 ## 作品列表
+
 ### 同人志
 [](./あいのおくすり.md)[あいのおくすり](./あいのおくすり.md)首发日期：2007-08-17 （Comic Market 72 (未找到链接)）漫画 （一般向） 24&#160;页[](./うどんげ×えーりん_だよ2007!!.md)[うどんげ×えーりん だよ2007!!](./うどんげ×えーりん_だよ2007!!.md)首发日期：2007-12-31 （Comic Market 73 (未找到链接)）漫画 （一般向） 8&#160;页[](./ラブラビ.md)[ラブラビ](./ラブラビ.md)首发日期：2008-08-16 （Comic Market 74 (未找到链接)）漫画 （一般向） 28&#160;页[](./輝夜姫さまに叱られるから!!.md)[輝夜姫さまに叱られるから!!](./輝夜姫さまに叱られるから!!.md)首发日期：2009-03-08 （第六回 博麗神社例大祭 (未找到链接)）漫画 （一般向）B5&#160;尺寸 28&#160;页揺れない震源地 ユレルムネノウチ 封面图片 (未找到链接)揺れない震源地 ユレルムネノウチ (未找到链接)首发日期：未知 - [](./幻想郷エスケイプ.md)[幻想郷エスケイプ](./幻想郷エスケイプ.md)首发日期：2009-12-30 （Comic Market 77 (未找到链接)）漫画 （一般向） 28&#160;页正しい道具の使い方 封面图片 (未找到链接)正しい道具の使い方 (未找到链接)首发日期：未知 - HONEY MOON 封面图片 (未找到链接)HONEY MOON（BIBASUKU） (未找到链接)首发日期：未知 - 
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -45,6 +50,7 @@ BIBASUKU（同人社团，同人志社团） - BIBASUKU ，于 2005 年成立，
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458"></table>
+
 
 
 ## 其他信息

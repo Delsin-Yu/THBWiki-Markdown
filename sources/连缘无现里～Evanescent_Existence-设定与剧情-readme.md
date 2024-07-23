@@ -4,6 +4,7 @@
 
 トリック・ノスタルジー | 使用了翻译表的页面 | 连缘无现里
 
+
 ## 目录
 
 - [1 问候](#问候)
@@ -22,10 +23,12 @@
 
 
 
+
 ###### 问候
 
 
 <table><tbody><tr class="tt-content" id="=-4" data-pos="&#91;&quot;=&quot;,4&#93;"><td class="tt-ja" lang="ja"><div class="poem">◆１:あいさつ<br><br>　この度は拙作「連縁无現里　～ Evanescent Existence」を<br>　ダウンロードして頂き、まことに有難う御座います。<br><br>　今作は過去にリリースした連縁シリーズの第一弾の<br>　難易度の見直し、新自機の追加などなどのアップデートをしたものに<br>　なります。<br><br>　これで新規プレイヤーさんの敷居も下がればなぁ、と思ってます。<br>　↑ここまでテンプレ<br><br>　それにしても過去の无現里は難しかったわ、ごーめんね！<br>　少しはまともになってるといいな～<br><br>　↓ここからもテンプレ<br>　それじゃあ頑張ってね～<br>　御武運をお祈りしております。<br><br><br></div></td><td class="tt-zh" lang="zh"><div class="poem">◆1：问候<br><br>衷心感谢您腾出宝贵时间下载拙作「连缘无现里～Evanescent Existence」。<br><br>本作是对过去开放下载的连缘系列第一作进行难度调整、新自机追加等更新后的作品。<br><br>私心想着，这么一来新人的入坑门槛也会降低了吧。<br>↑以上是客套话<br><br>话说回来之前的无现里还真难呢，对不住啦！能变得亲民点就再好不过啦～<br><br>↓以下还是客套话<br>那么加油喽～恭祝您武运昌盛。<br><br></div></td></tr><tr class="tt-content" id="=-5" data-pos="&#91;&quot;=&quot;,5&#93;"><td class="tt-ja" lang="ja"><div class="poem">--------------------------------------------------------------------<br></div></td><td class="tt-zh" lang="zh"><div class="poem">--------------------------------------------------------------------</div></td></tr></tbody></table>
+
 
 
 
@@ -36,10 +39,12 @@
 
 
 
+
 ###### 卸载方法
 
 
 <table><tbody><tr class="tt-content" id="=-9" data-pos="&#91;&quot;=&quot;,9&#93;"><td class="tt-ja" lang="ja"><div class="poem">◆３アンインストール方法<br><br>　ゲーム本体が入ってるフォルダごと消去してください。<br><br>　ゴミ箱にポイッ。　<br></div></td><td class="tt-zh" lang="zh"><div class="poem">◆3卸载方法<br><br>请删除包含游戏本体在内的整个文件夹。<br><br>往垃圾箱里一丢。</div></td></tr></tbody></table>
+
 
 
 
@@ -50,6 +55,7 @@
 
 
 
+
 ###### 想吃晚饭想得流口水了的话
 
 
@@ -57,10 +63,12 @@
 
 
 
+
 ###### 更新履历
 
 
 <table><tbody><tr class="tt-content" id="=-15" data-pos="&#91;&quot;=&quot;,15&#93;"><td class="tt-ja" lang="ja"><div class="poem">◆６:更新履歴<br><br>2013/09/08 Le01&amp;Le02 ver 0.01a 体験版完成<br>2013/11/11 Le01&amp;Le02 ver 1.00a 完成版完成<br>2014/02/25 Le01&amp;Le02 ver 1.01a 公開<br>2017/10/14 Le01      ver 1.10a 難易度見直し＆新自機追加<br><br>2017/10/19 Le01 ver 1.11a<br>　・一部弾幕のバグ修正<br>　・一部背景の微調整<br>　・ステージ毎のリザルト画面のタイトル名を修正<br>　・一部自機のバランスを調整<br><br>2018/06/02 Le01 ver 1.20a ゲームレベル[Basic]と[Light]の追加、その他微調整</div></td><td class="tt-zh" lang="zh"><div class="poem">◆6:更新履历<br><br>2013/09/08 Le01&amp;Le02 ver 0.01a体验版完成<br>2013/11/11 Le01&amp;Le02 ver 1.00a完成版完成<br>2014/02/25 Le01&amp;Le02 ver 1.01a公开<br>2017/10/14 Le01 ver 1.10a难度调整＆新自机追加</div></td></tr><tr class="tt-content" id="=-16" data-pos="&#91;&quot;=&quot;,16&#93;"><td class="tt-ja" lang="ja"><div class="poem">--------------------------------------------------------------------<br>*==================================================================*<br></div></td><td class="tt-zh" lang="zh"><div class="poem">--------------------------------------------------------------------<br>*==================================================================*</div></td></tr></tbody></table>
+
 
 
 ## 词条导航

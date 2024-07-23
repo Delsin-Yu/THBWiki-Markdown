@@ -18,6 +18,7 @@
 
 
 </center>
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-SPINACH_AND_SAMON_CREAM_PASTA封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/3/32/SPINACH_AND_SAMON_CREAM_PASTA%E5%B0%81%E9%9D%A2.jpg/252px-SPINACH_AND_SAMON_CREAM_PASTA%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="252" srcset="https://upload.thwiki.cc/thumb/3/32/SPINACH_AND_SAMON_CREAM_PASTA%E5%B0%81%E9%9D%A2.jpg/378px-SPINACH_AND_SAMON_CREAM_PASTA%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/3/32/SPINACH_AND_SAMON_CREAM_PASTA%E5%B0%81%E9%9D%A2.jpg/504px-SPINACH_AND_SAMON_CREAM_PASTA%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="2000" data-file-height="2000"></a></td>
@@ -26,6 +27,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://8686m.booth.pm/items/375237">https://8686m.booth.pm/items/375237</a></td></tr></tbody></table>
 
 SPINACH AND SAMON CREAM PASTA（同人专辑，8686m，2016） - 2016年11月18日 由 8686m 于 APOLLO5 发布的单曲同人专辑，曲目主要风格是 Rock，分级为 一般向
+
 ## Staff
   
  **Arrangement**   
@@ -41,6 +43,7 @@ SPINACH AND SAMON CREAM PASTA（同人专辑，8686m，2016） - 2016年11月18�
 Illustration
 : 樹揚げ （[http://gjribbon.xxxxxxxx.jp/index.html](http://gjribbon.xxxxxxxx.jp/index.html)）
 
+
 ## 试听
   
 BOOTH Demo   
@@ -48,9 +51,11 @@ BOOTH Demo
 
   
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoRD"><b>01</b></td><td id="ホウレン草とサーモンのクリームパスタ" colspan="2" class="title"><a href="./歌词-ホウレン草とサーモンのクリームパスタ.md" title="歌词:ホウレン草とサーモンのクリームパスタ">ホウレン草とサーモンのクリームパスタ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=オカヤマ&amp;vocal=ふじこ&amp;ogmusic=衛星カフェテラス&amp;fromwiki=SPINACH_AND_SAMON_CREAM_PASTA"><span title="搜索相似同人曲"></span></a></span></td><td class="time">05:03</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E3%82%AA%E3%82%AB%E3%83%A4%E3%83%9E&amp;action=edit&amp;redlink=1" class="new" title="オカヤマ（页面不存在）">オカヤマ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，オカヤマ&amp;fromwiki=SPINACH_AND_SAMON_CREAM_PASTA"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="/index.php?title=%E3%81%B5%E3%81%98%E3%81%93&amp;action=edit&amp;redlink=1" class="new" title="ふじこ（页面不存在）">ふじこ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=ふじこ&amp;fromwiki=SPINACH_AND_SAMON_CREAM_PASTA"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=衛星カフェテラス&amp;fromwiki=SPINACH_AND_SAMON_CREAM_PASTA"><span></span></a></span><div class="ogmusic"><a href="/%E8%A1%9B%E6%98%9F%E3%82%AB%E3%83%95%E3%82%A7%E3%83%86%E3%83%A9%E3%82%B9" class="mw-redirect" title="衛星カフェテラス">衛星カフェテラス</a></div><div class="source"><a href="/%E5%A4%A7%E7%A9%BA%E9%AD%94%E6%9C%AF_%EF%BD%9E_Magical_Astronomy" class="mw-redirect" title="大空魔术 ～ Magical Astronomy">大空魔术　～ Magical Astronomy</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoRD"><b>01</b></td><td id="ホウレン草とサーモンのクリームパスタ" colspan="2" class="title"><a href="./歌词-ホウレン草とサーモンのクリームパスタ.md" title="歌词:ホウレン草とサーモンのクリームパスタ">ホウレン草とサーモンのクリームパスタ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=オカヤマ&amp;vocal=ふじこ&amp;ogmusic=衛星カフェテラス&amp;fromwiki=SPINACH_AND_SAMON_CREAM_PASTA"><span title="搜索相似同人曲"></span></a></span></td><td class="time">05:03</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E3%82%AA%E3%82%AB%E3%83%A4%E3%83%9E&amp;action=edit&amp;redlink=1" class="new" title="オカヤマ（页面不存在）">オカヤマ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，オカヤマ&amp;fromwiki=SPINACH_AND_SAMON_CREAM_PASTA"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="/index.php?title=%E3%81%B5%E3%81%98%E3%81%93&amp;action=edit&amp;redlink=1" class="new" title="ふじこ（页面不存在）">ふじこ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=ふじこ&amp;fromwiki=SPINACH_AND_SAMON_CREAM_PASTA"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=衛星カフェテラス&amp;fromwiki=SPINACH_AND_SAMON_CREAM_PASTA"><span></span></a></span><div class="ogmusic"><a href="./衛星カフェテラス.md" class="mw-redirect" title="衛星カフェテラス">衛星カフェテラス</a></div><div class="source"><a href="./大空魔术_～_Magical_Astronomy.md" class="mw-redirect" title="大空魔术 ～ Magical Astronomy">大空魔术　～ Magical Astronomy</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

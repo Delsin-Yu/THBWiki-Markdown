@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-テノリーサイズのスイートdayz封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/5/5a/%E3%83%86%E3%83%8E%E3%83%AA%E3%83%BC%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AE%E3%82%B9%E3%82%A4%E3%83%BC%E3%83%88dayz%E5%B0%81%E9%9D%A2.jpg/116px-%E3%83%86%E3%83%8E%E3%83%AA%E3%83%BC%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AE%E3%82%B9%E3%82%A4%E3%83%BC%E3%83%88dayz%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="116" height="168" srcset="https://upload.thwiki.cc/thumb/5/5a/%E3%83%86%E3%83%8E%E3%83%AA%E3%83%BC%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AE%E3%82%B9%E3%82%A4%E3%83%BC%E3%83%88dayz%E5%B0%81%E9%9D%A2.jpg/174px-%E3%83%86%E3%83%8E%E3%83%AA%E3%83%BC%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AE%E3%82%B9%E3%82%A4%E3%83%BC%E3%83%88dayz%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/5/5a/%E3%83%86%E3%83%8E%E3%83%AA%E3%83%BC%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AE%E3%82%B9%E3%82%A4%E3%83%BC%E3%83%88dayz%E5%B0%81%E9%9D%A2.jpg/232px-%E3%83%86%E3%83%8E%E3%83%AA%E3%83%BC%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AE%E3%82%B9%E3%82%A4%E3%83%BC%E3%83%88dayz%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="502" data-file-height="725"></a><div class="cover-char">角色：<a href="./哆来咪·苏伊特.md" title="哆来咪·苏伊特">哆来咪·苏伊特</a>，<a href="./稀神探女.md" title="稀神探女">稀神探女</a></div></td>
@@ -14,11 +15,13 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/88534082">https://www.pixiv.net/artworks/88534082</a></td></tr></tbody></table>
 
 テノリーサイズのスイートdayz（同人志，野生のほにゃらら艇，2021） - 2021年3月21日 由 野生のほにゃらら艇 于 博丽神社例大祭18 发布的漫画同人志，登场人物有 哆来咪·苏伊特、稀神探女，分级为 一般向
+
 ## Staff
 Illustration
 : あまぐり太郎 (未找到链接)
 Writer
 : あまぐり太郎 (未找到链接)
+
 
 ## 评论
 

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="/%E6%96%87%E4%BB%B6:%E5%8F%A4%E6%98%8E%E5%9C%B0%E3%81%93%E3%81%84%E3%81%97VS%E8%87%AA%E5%88%86%E3%82%92%E5%8F%A4%E6%98%8E%E5%9C%B0%E3%81%95%E3%81%A8%E3%82%8A%E3%81%A0%E3%81%A8%E6%80%9D%E3%81%84%E8%BE%BC%E3%82%93%E3%81%A7%E3%82%8B%E4%B8%80%E8%88%AC%E4%BA%BA%E5%B0%81%E9%9D%A2.png" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/5/52/%E5%8F%A4%E6%98%8E%E5%9C%B0%E3%81%93%E3%81%84%E3%81%97VS%E8%87%AA%E5%88%86%E3%82%92%E5%8F%A4%E6%98%8E%E5%9C%B0%E3%81%95%E3%81%A8%E3%82%8A%E3%81%A0%E3%81%A8%E6%80%9D%E3%81%84%E8%BE%BC%E3%82%93%E3%81%A7%E3%82%8B%E4%B8%80%E8%88%AC%E4%BA%BA%E5%B0%81%E9%9D%A2.png/137px-%E5%8F%A4%E6%98%8E%E5%9C%B0%E3%81%93%E3%81%84%E3%81%97VS%E8%87%AA%E5%88%86%E3%82%92%E5%8F%A4%E6%98%8E%E5%9C%B0%E3%81%95%E3%81%A8%E3%82%8A%E3%81%A0%E3%81%A8%E6%80%9D%E3%81%84%E8%BE%BC%E3%82%93%E3%81%A7%E3%82%8B%E4%B8%80%E8%88%AC%E4%BA%BA%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="137" height="196" srcset="https://upload.thwiki.cc/thumb/5/52/%E5%8F%A4%E6%98%8E%E5%9C%B0%E3%81%93%E3%81%84%E3%81%97VS%E8%87%AA%E5%88%86%E3%82%92%E5%8F%A4%E6%98%8E%E5%9C%B0%E3%81%95%E3%81%A8%E3%82%8A%E3%81%A0%E3%81%A8%E6%80%9D%E3%81%84%E8%BE%BC%E3%82%93%E3%81%A7%E3%82%8B%E4%B8%80%E8%88%AC%E4%BA%BA%E5%B0%81%E9%9D%A2.png/206px-%E5%8F%A4%E6%98%8E%E5%9C%B0%E3%81%93%E3%81%84%E3%81%97VS%E8%87%AA%E5%88%86%E3%82%92%E5%8F%A4%E6%98%8E%E5%9C%B0%E3%81%95%E3%81%A8%E3%82%8A%E3%81%A0%E3%81%A8%E6%80%9D%E3%81%84%E8%BE%BC%E3%82%93%E3%81%A7%E3%82%8B%E4%B8%80%E8%88%AC%E4%BA%BA%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/5/52/%E5%8F%A4%E6%98%8E%E5%9C%B0%E3%81%93%E3%81%84%E3%81%97VS%E8%87%AA%E5%88%86%E3%82%92%E5%8F%A4%E6%98%8E%E5%9C%B0%E3%81%95%E3%81%A8%E3%82%8A%E3%81%A0%E3%81%A8%E6%80%9D%E3%81%84%E8%BE%BC%E3%82%93%E3%81%A7%E3%82%8B%E4%B8%80%E8%88%AC%E4%BA%BA%E5%B0%81%E9%9D%A2.png/274px-%E5%8F%A4%E6%98%8E%E5%9C%B0%E3%81%93%E3%81%84%E3%81%97VS%E8%87%AA%E5%88%86%E3%82%92%E5%8F%A4%E6%98%8E%E5%9C%B0%E3%81%95%E3%81%A8%E3%82%8A%E3%81%A0%E3%81%A8%E6%80%9D%E3%81%84%E8%BE%BC%E3%82%93%E3%81%A7%E3%82%8B%E4%B8%80%E8%88%AC%E4%BA%BA%E5%B0%81%E9%9D%A2.png 2x" data-file-width="1020" data-file-height="1458"></a><div class="cover-char">角色：<a href="./古明地觉.md" title="古明地觉">古明地觉</a>，<a href="./古明地恋.md" title="古明地恋">古明地恋</a>，<a href="./哆来咪·苏伊特.md" title="哆来咪·苏伊特">哆来咪·苏伊特</a>，<a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a>，<a href="./西行寺幽幽子.md" title="西行寺幽幽子">西行寺幽幽子</a>，<a href="./八意永琳.md" title="八意永琳">八意永琳</a>，<a href="./蓬莱山辉夜.md" title="蓬莱山辉夜">蓬莱山辉夜</a>，<a href="./伊吹萃香.md" title="伊吹萃香">伊吹萃香</a>，<a href="./四季映姬·夜摩仙那度.md" title="四季映姬·夜摩仙那度">四季映姬·夜摩仙那度</a>，<a href="./八坂神奈子.md" title="八坂神奈子">八坂神奈子</a>，<a href="./比那名居天子.md" title="比那名居天子">比那名居天子</a>，<a href="./灵乌路空.md" title="灵乌路空">灵乌路空</a>，<a href="./圣白莲.md" title="圣白莲">圣白莲</a>，<a href="./饕餮尤魔.md" title="饕餮尤魔">饕餮尤魔</a>，<a href="./天弓千亦.md" title="天弓千亦">天弓千亦</a>，<a href="./埴安神袿姬.md" title="埴安神袿姬">埴安神袿姬</a>，<a href="./依神女苑.md" title="依神女苑">依神女苑</a>，<a href="./依神紫苑.md" title="依神紫苑">依神紫苑</a>，<a href="./摩多罗隐岐奈.md" title="摩多罗隐岐奈">摩多罗隐岐奈</a>，<a href="./纯狐.md" title="纯狐">纯狐</a>，<a href="./宇佐见堇子.md" title="宇佐见堇子">宇佐见堇子</a>，<a href="./少名针妙丸.md" title="少名针妙丸">少名针妙丸</a>，<a href="./秦心.md" title="秦心">秦心</a>，<a href="./丰聪耳神子.md" title="丰聪耳神子">丰聪耳神子</a></div></td>
@@ -18,11 +19,14 @@
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://kanomori.booth.pm/items/4086277">Booth</a>，<a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=1551390">蜜瓜</a></td></tr></tbody></table>
 
 
+
 ## 预览
 -  (未找到链接)-  (未找到链接)-  (未找到链接)
 
+
 ## Staff
 - [カノナリ](./カノナリ.md)
+
 
 ## 评论
   

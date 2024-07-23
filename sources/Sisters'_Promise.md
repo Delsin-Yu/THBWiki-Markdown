@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Sisters'_Promise封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/c/ca/Sisters%27_Promise%E5%B0%81%E9%9D%A2.jpg/252px-Sisters%27_Promise%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="252" srcset="https://upload.thwiki.cc/thumb/c/ca/Sisters%27_Promise%E5%B0%81%E9%9D%A2.jpg/378px-Sisters%27_Promise%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/c/ca/Sisters%27_Promise%E5%B0%81%E9%9D%A2.jpg/504px-Sisters%27_Promise%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="2944" data-file-height="2944"></a></td>
@@ -14,11 +15,13 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/Herbivora_/status/631608221568909312">https://twitter.com/Herbivora_/status/631608221568909312</a><br><a rel="nofollow" class="external free" href="https://twitter.com/Herbivora_/status/631992021012475904">https://twitter.com/Herbivora_/status/631992021012475904</a></td></tr></tbody></table>
 
 Sisters' Promise（同人专辑，Herbivora，2015） - 2015年8月14日 由 Herbivora 于 Comic Market 88 发布的单曲同人专辑，曲目主要风格是 金属，分级为 一般向
+
 ## Staff
   
  **Arrangement**   
 
 <table><tbody><tr><td><a href="./あにょ.md" title="あにょ">あにょ</a></td><td><a href="./Herbivora.md" title="Herbivora">Herbivora</a></td><td>Tr.1</td></tr></tbody></table>
+
 
 
 ## 试听
@@ -27,9 +30,11 @@ Sisters' Promise（同人专辑，Herbivora，2015） - 2015年8月14日 由 Her
 
   
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Sisters&#39;_Promise" colspan="2" class="title">Sisters&#39; Promise<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=あにょ&amp;ogmusic=人恋し神様　～ Romantic Fall&amp;fromwiki=Sisters'_Promise"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./あにょ.md" title="あにょ">あにょ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，あにょ&amp;fromwiki=Sisters'_Promise"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=人恋し神様　～ Romantic Fall&amp;fromwiki=Sisters'_Promise"><span></span></a></span><div class="ogmusic"><a href="/%E4%BA%BA%E6%81%8B%E3%81%97%E7%A5%9E%E6%A7%98_%EF%BD%9E_Romantic_Fall" class="mw-redirect" title="人恋し神様 ～ Romantic Fall">人恋し神様　～ Romantic Fall</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E9%A3%8E%E7%A5%9E%E5%BD%95_%EF%BD%9E_Mountain_of_Faith." class="mw-redirect" title="东方风神录 ～ Mountain of Faith.">东方风神录　～ Mountain of Faith.</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Sisters&#39;_Promise" colspan="2" class="title">Sisters&#39; Promise<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=あにょ&amp;ogmusic=人恋し神様　～ Romantic Fall&amp;fromwiki=Sisters'_Promise"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./あにょ.md" title="あにょ">あにょ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，あにょ&amp;fromwiki=Sisters'_Promise"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=人恋し神様　～ Romantic Fall&amp;fromwiki=Sisters'_Promise"><span></span></a></span><div class="ogmusic"><a href="./人恋し神様_～_Romantic_Fall.md" class="mw-redirect" title="人恋し神様 ～ Romantic Fall">人恋し神様　～ Romantic Fall</a></div><div class="source"><a href="./东方风神录_～_Mountain_of_Faith..md" class="mw-redirect" title="东方风神录 ～ Mountain of Faith.">东方风神录　～ Mountain of Faith.</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

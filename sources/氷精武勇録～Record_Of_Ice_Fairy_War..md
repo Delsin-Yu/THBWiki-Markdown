@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 软件信息](#软件信息)
@@ -30,6 +31,7 @@
 
 
 
+
 ## 软件信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-氷精武勇録～Record_Of_Ice_Fairy_War.封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/9/9f/%E6%B0%B7%E7%B2%BE%E6%AD%A6%E5%8B%87%E9%8C%B2%EF%BD%9ERecord_Of_Ice_Fairy_War.%E5%B0%81%E9%9D%A2.png/224px-%E6%B0%B7%E7%B2%BE%E6%AD%A6%E5%8B%87%E9%8C%B2%EF%BD%9ERecord_Of_Ice_Fairy_War.%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="224" height="168" srcset="https://upload.thwiki.cc/thumb/9/9f/%E6%B0%B7%E7%B2%BE%E6%AD%A6%E5%8B%87%E9%8C%B2%EF%BD%9ERecord_Of_Ice_Fairy_War.%E5%B0%81%E9%9D%A2.png/336px-%E6%B0%B7%E7%B2%BE%E6%AD%A6%E5%8B%87%E9%8C%B2%EF%BD%9ERecord_Of_Ice_Fairy_War.%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/9/9f/%E6%B0%B7%E7%B2%BE%E6%AD%A6%E5%8B%87%E9%8C%B2%EF%BD%9ERecord_Of_Ice_Fairy_War.%E5%B0%81%E9%9D%A2.png/448px-%E6%B0%B7%E7%B2%BE%E6%AD%A6%E5%8B%87%E9%8C%B2%EF%BD%9ERecord_Of_Ice_Fairy_War.%E5%B0%81%E9%9D%A2.png 2x" data-file-width="640" data-file-height="480"></a><div class="cover-char">角色：<a href="./琪露诺.md" title="琪露诺">琪露诺</a></div></td>
@@ -38,6 +40,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://th-jss.cocolog-nifty.com/blog/2022/07/post-2881d5.html">http://th-jss.cocolog-nifty.com/blog/2022/07/post-2881d5.html</a><br><a rel="nofollow" class="external free" href="http://sosiallyunfit.blog.fc2.com/">http://sosiallyunfit.blog.fc2.com/</a><br><span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到需要翻墙网页">（需要翻墙）</span></td></tr></tbody></table>
 
 氷精武勇録～Record Of Ice Fairy War.（同人游戏，TEAM:SOCIALLY UNFIT，2022） - 2022年7月9日 由 TEAM:SOCIALLY UNFIT  发布的STG同人游戏，可在 Windows 系统上运行，游戏人数为 单人模式，分级为 一般向
+
 ## Staff
 程序
 : Tir
@@ -57,6 +60,7 @@ Special Thanks
 : NRT
 : Orlov
 : 204504bySE
+
 
 ## 游戏介绍
   
@@ -83,17 +87,21 @@ musicroom里甚至做了个播放器。 ~~多余的技术力可以捐给有需�
 </td></tr></tbody></table>
 
 
+
 ## 故事背景
 - [Misson1故事背景](./氷精武勇録～Record_Of_Ice_Fairy_War.-故事背景.md)
 - [Misson2故事背景](./氷精武勇録～Record_Of_Ice_Fairy_War.-Misson2故事背景.md)
 - [Misson1宾卡瓦兹线故事背景](./氷精武勇録～Record_Of_Ice_Fairy_War.-Misson1宾卡瓦兹线故事背景.md)
 - [Misson3故事背景](./氷精武勇録～Record_Of_Ice_Fairy_War.-Misson3故事背景.md)
 
+
 ## 角色
+
 ### 自机
 
 <table><tbody><tr><td align="center" rowspan=""><a rel="nofollow" class="external text" href="https://thwiki.cc/文件:琪露诺（dairi绘）.png">上传</a></td> <td style="width:150px;padding:3px 9px 3px 7px;" rowspan=""><i>氷の妖精</i><br>冰之妖精 </td><td style="width:180px;padding:3px 9px 3px 7px;"><a href="./琪露诺.md" title="琪露诺">琪露诺</a></td><td><a href="./氷精武勇録～Record_Of_Ice_Fairy_War.-琪露诺.md" title="氷精武勇録～Record Of Ice Fairy War./琪露诺">游戏对话/结局</a><br><a href="./氷精武勇録～Record_Of_Ice_Fairy_War.-琪露诺_ExStory.md" title="氷精武勇録～Record Of Ice Fairy War./琪露诺 ExStory">Extra游戏对话</a></td></tr>
 <tr><td style="min-width:40px;" rowspan=""><div class="center"><div class="floatnone"><a href="./文件-宾卡瓦兹.png.md" class="image" title="宾卡瓦兹"><img alt="宾卡瓦兹" src="https://upload.thwiki.cc/thumb/3/3c/%E5%AE%BE%E5%8D%A1%E7%93%A6%E5%85%B9.png/40px-%E5%AE%BE%E5%8D%A1%E7%93%A6%E5%85%B9.png" decoding="async" loading="lazy" width="40" height="40" srcset="https://upload.thwiki.cc/thumb/3/3c/%E5%AE%BE%E5%8D%A1%E7%93%A6%E5%85%B9.png/60px-%E5%AE%BE%E5%8D%A1%E7%93%A6%E5%85%B9.png 1.5x, https://upload.thwiki.cc/thumb/3/3c/%E5%AE%BE%E5%8D%A1%E7%93%A6%E5%85%B9.png/80px-%E5%AE%BE%E5%8D%A1%E7%93%A6%E5%85%B9.png 2x" data-file-width="512" data-file-height="512"></a></div></div></td> <td style="width:150px;padding:3px 9px 3px 7px;" rowspan=""><i>日々戦のキューピッド</i><br>日日战之丘比特 </td><td style="width:180px;padding:3px 9px 3px 7px;"><a href="./宾卡瓦兹.md" title="宾卡瓦兹">宾卡瓦兹</a></td><td><a href="./氷精武勇録～Record_Of_Ice_Fairy_War.-宾卡瓦兹.md" title="氷精武勇録～Record Of Ice Fairy War./宾卡瓦兹">游戏对话/结局</a></td></tr></tbody></table>
+
 
 
 ### BOSS
@@ -106,9 +114,10 @@ musicroom里甚至做了个播放器。 ~~多余的技术力可以捐给有需�
 <tr><td rowspan="1" class="bg-color-info-10" style="min-width:100px"><b>Extra面道中</b><br><i><a href="/index.php?title=%E5%85%AB%E9%9D%A2%E7%8E%B2%E7%8F%91%E7%9A%84%E6%A8%B1%E5%8D%8E%E6%99%AF%E8%89%B2&amp;action=edit&amp;redlink=1" class="new" title="八面玲珑的樱华景色（页面不存在）">八面玲珑的樱华景色</a></i></td><td style="min-width:35px" rowspan="1"><div class="center"><div class="floatnone"><a href="./文件-雾雨魔理沙（dairi绘）.png.md" class="image"><img alt="雾雨魔理沙（dairi绘）.png" src="https://upload.thwiki.cc/thumb/e/e1/%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%EF%BC%88dairi%E7%BB%98%EF%BC%89.png/23px-%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%EF%BC%88dairi%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="23" height="40" srcset="https://upload.thwiki.cc/thumb/e/e1/%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%EF%BC%88dairi%E7%BB%98%EF%BC%89.png/35px-%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%EF%BC%88dairi%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/e/e1/%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%EF%BC%88dairi%E7%BB%98%EF%BC%89.png/46px-%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%EF%BC%88dairi%E7%BB%98%EF%BC%89.png 2x" data-file-width="656" data-file-height="1124"></a></div></div></td>  <td style="width:150px;padding:3px 9px 3px 7px;" rowspan="1"> <i>傍觀者の魔法使い</i><br>旁观者的魔法使</td><td style="width:180px;padding:3px 9px 3px 7px;" rowspan="1"> <a href="./雾雨魔理沙（武勇录）.md" title="雾雨魔理沙（武勇录）">雾雨魔理沙</a> </td></tr><tr><td rowspan="1" class="bg-color-info-10" style="min-width:100px"><b>Extra面BOSS</b><br><i><a href="/index.php?title=Ancient_Maiden&amp;action=edit&amp;redlink=1" class="new" title="Ancient Maiden（页面不存在）">Ancient Maiden</a></i></td><td style="min-width:35px" rowspan="1"><div class="center"><div class="floatnone"><a href="./文件-博丽灵梦（dairi绘）.png.md" class="image"><img alt="博丽灵梦（dairi绘）.png" src="https://upload.thwiki.cc/thumb/6/64/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88dairi%E7%BB%98%EF%BC%89.png/23px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88dairi%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="23" height="40" srcset="https://upload.thwiki.cc/thumb/6/64/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88dairi%E7%BB%98%EF%BC%89.png/34px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88dairi%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/6/64/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88dairi%E7%BB%98%EF%BC%89.png/46px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88dairi%E7%BB%98%EF%BC%89.png 2x" data-file-width="656" data-file-height="1142"></a></div></div></td>  <td style="width:150px;padding:3px 9px 3px 7px;" rowspan="1"> <i>博麗の巫女</i><br>博丽的巫女</td><td style="width:180px;padding:3px 9px 3px 7px;" rowspan="1"> <a href="./博丽灵梦（武勇录）.md" title="博丽灵梦（武勇录）">博丽灵梦</a> </td></tr></tbody></table>
 
 
+
 ### 其他角色
   
-隐藏符卡挑战中登场的东方邪星章 (未找到链接)、东方魔宝城 (未找到链接)、东方鬼葬剑 (未找到链接)的联动角色五只妖精
+隐藏符卡挑战中登场的[东方邪星章](./东方邪星章.md)、[东方魔宝城](./东方魔宝城.md)、[东方鬼葬剑](./东方鬼葬剑.md)的联动角色五只妖精
   
   
 共10张符卡挑战，没有额外剧情
@@ -118,6 +127,7 @@ musicroom里甚至做了个播放器。 ~~多余的技术力可以捐给有需�
 - [法布丽蒂丝](./法布丽蒂丝.md) &amp; [伊芙妮娅](./伊芙妮娅.md)
 - [丝诺柯狄亚](./丝诺柯狄亚.md)
 - [艾尔芬敏特](./艾尔芬敏特.md)
+
 
 ## 附带文档
 
@@ -129,6 +139,7 @@ musicroom里甚至做了个播放器。 ~~多余的技术力可以捐给有需�
 <li><a href="./氷精武勇録～Record_Of_Ice_Fairy_War.-Readme.md" title="氷精武勇録～Record Of Ice Fairy War./Readme">Readme</a></li>
 <li><a href="./氷精武勇録～Record_Of_Ice_Fairy_War.-Omake.md" title="氷精武勇録～Record Of Ice Fairy War./Omake">Omake</a></li></ul>
 </td></tr></tbody></table>
+
 
 
 ## 其他资料
@@ -150,8 +161,11 @@ musicroom里甚至做了个播放器。 ~~多余的技术力可以捐给有需�
 </td></tr></tbody></table>
 
 
+
 ## 评论
+
 ## 视频
+
 ## 下载
   
 请注意：  
@@ -167,6 +181,7 @@ musicroom里甚至做了个播放器。 ~~多余的技术力可以捐给有需�
 <tr>
 <td><a rel="nofollow" class="external text" href="https://unfit.204504byse.info/hyousei.zip">冰精武勇录</a><br><a rel="nofollow" class="external text" href="https://bbs.nyasama.com/forum.php?mod=viewthread&amp;tid=1854862">汉化版</a>
 </td></tr></tbody></table>
+
 
 
 ## 导航

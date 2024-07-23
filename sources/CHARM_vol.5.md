@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-CHARM_vol.5封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/3/3f/CHARM_vol.5%E5%B0%81%E9%9D%A2.jpg/95px-CHARM_vol.5%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="95" height="140" srcset="https://upload.thwiki.cc/thumb/3/3f/CHARM_vol.5%E5%B0%81%E9%9D%A2.jpg/143px-CHARM_vol.5%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/3/3f/CHARM_vol.5%E5%B0%81%E9%9D%A2.jpg/191px-CHARM_vol.5%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1280" data-file-height="1877"></a><div class="cover-char">角色：<a href="./火焰猫燐.md" title="火焰猫燐">火焰猫燐</a>，<a href="./橙.md" title="橙">橙</a></div></td>
@@ -13,9 +14,12 @@
 </tr><tr><td class="label">首发日期</td><td>2010-08-14&#160;（<a href="/展会作品列表?e=Comic+Market%2378">Comic Market 78</a>）</td></tr><tr><td class="label">类型</td><td>漫画</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">登场人物</td><td><a href="./火焰猫燐.md" title="火焰猫燐">火焰猫燐</a>，<a href="./八云紫.md" title="八云紫">八云紫</a>，<a href="./八云蓝.md" title="八云蓝">八云蓝</a>，<a href="./橙.md" title="橙">橙</a>，<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>，<a href="./古明地觉.md" title="古明地觉">古明地觉</a></td></tr></tbody></table>
 
 CHARM vol.5（同人志，フミンバイン，2010） - 2010年8月14日 由 フミンバイン 于 Comic Market 78 发布的漫画同人志，登场人物有 火焰猫燐、八云紫、八云蓝、橙、博丽灵梦、古明地觉，分级为 一般向
+
 ## 预览
+
 ## Staff
 - [bkub](./bkub.md)
+
 
 ## 评论
 

@@ -4,6 +4,7 @@
 
 AvalonStudioOfficial
 
+
 ## THD2地图安装
 1 运行DOTA2  
 
@@ -15,6 +16,7 @@ AvalonStudioOfficial
   
 [](./文件-THD2教学3.jpg.md)
   
+
 
 ## THD2游戏方式
 1  **自动匹配加入房间（不推荐）：**   

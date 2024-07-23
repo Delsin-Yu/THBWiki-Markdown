@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Vogel封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/f/f6/Vogel%E5%B0%81%E9%9D%A2.jpg/99px-Vogel%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="99" height="140" srcset="https://upload.thwiki.cc/thumb/f/f6/Vogel%E5%B0%81%E9%9D%A2.jpg/148px-Vogel%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/f/f6/Vogel%E5%B0%81%E9%9D%A2.jpg/198px-Vogel%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="424" data-file-height="600"></a><div class="cover-char">角色：<a href="./露米娅.md" title="露米娅">露米娅</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://unrealline.blogspot.com/2011/05/8_06.html">http://unrealline.blogspot.com/2011/05/8_06.html</a></td></tr></tbody></table>
 
 Vogel（同人志，とりいんふる，2010） - 2010年10月24日 由 とりいんふる 于 大⑨州东方祭3 发布的画集同人志，一共12页，分级为 一般向
+
 ## Staff
 - ぬこ (未找到链接)
+
 
 ## 评论
 

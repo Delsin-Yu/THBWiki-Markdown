@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-秘封WARDROBE封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/c/c0/%E7%A7%98%E5%B0%81WARDROBE%E5%B0%81%E9%9D%A2.jpg/160px-%E7%A7%98%E5%B0%81WARDROBE%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="160" height="224" srcset="https://upload.thwiki.cc/thumb/c/c0/%E7%A7%98%E5%B0%81WARDROBE%E5%B0%81%E9%9D%A2.jpg/239px-%E7%A7%98%E5%B0%81WARDROBE%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/c/c0/%E7%A7%98%E5%B0%81WARDROBE%E5%B0%81%E9%9D%A2.jpg/319px-%E7%A7%98%E5%B0%81WARDROBE%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="2122" data-file-height="2976"></a></td>
@@ -14,11 +15,14 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/FHFbooks82/status/1583070282407104512">https://twitter.com/FHFbooks82/status/1583070282407104512</a></td></tr><tr><td class="label">备注</td><td colspan="2">宇佐見蓮子衣装アレンジ集</td></tr></tbody></table>
 
 秘封WARDROBE（同人志，初霜文庫，2022） - 2022年10月23日 由 初霜文庫 于 博丽神社秋季例大祭9 发布的画集同人志，A5尺寸一共20页，登场人物有 宇佐见莲子，分级为 一般向
+
 ## 预览
 - [](./文件-秘封WARDROBE预览图1.jpg.md)- [](./文件-秘封WARDROBE预览图2.jpg.md)
 
+
 ## Staff
 - はっつん (未找到链接)
+
 
 ## 评论
 

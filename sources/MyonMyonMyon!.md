@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-MyonMyonMyon!封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/3/32/MyonMyonMyon%21%E5%B0%81%E9%9D%A2.jpg/224px-MyonMyonMyon%21%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="224" srcset="https://upload.thwiki.cc/thumb/3/32/MyonMyonMyon%21%E5%B0%81%E9%9D%A2.jpg/336px-MyonMyonMyon%21%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/3/32/MyonMyonMyon%21%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="384" data-file-height="384"></a><div class="cover-char">角色：<a href="./魂魄妖梦.md" title="魂魄妖梦">魂魄妖梦</a></div></td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://homepage3.nifty.com/shibayan/cd.html">http://homepage3.nifty.com/shibayan/cd.html</a></td></tr></tbody></table>
 
 MyonMyonMyon!（同人专辑，ShibayanRecords，2009） - 2009年8月15日 由 ShibayanRecords 于 Comic Market 76 发布的Demo同人专辑，分级为 一般向
+
 ## Staff
   
  **Arrangement**   
@@ -21,9 +23,11 @@ MyonMyonMyon!（同人专辑，ShibayanRecords，2009） - 2009年8月15日 由 
 <table><tbody><tr><td><a href="./Shibayan.md" title="Shibayan">Shibayan</a></td><td></td><td>Tr.1</td></tr></tbody></table>
 
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="MyonMyonMyon" colspan="2" class="title">MyonMyonMyon<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Shibayan&amp;ogmusic=東方妖々夢　～ Ancient Temple&amp;fromwiki=MyonMyonMyon!"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:32</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Shibayan.md" title="Shibayan">Shibayan</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Shibayan&amp;fromwiki=MyonMyonMyon!"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=東方妖々夢　～ Ancient Temple&amp;fromwiki=MyonMyonMyon!"><span></span></a></span><div class="ogmusic"><a href="/%E6%9D%B1%E6%96%B9%E5%A6%96%E3%80%85%E5%A4%A2_%EF%BD%9E_Ancient_Temple" class="mw-redirect" title="東方妖々夢 ～ Ancient Temple">東方妖々夢　～ Ancient Temple</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E5%A6%96%E5%A6%96%E6%A2%A6_%EF%BD%9E_Perfect_Cherry_Blossom." class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="MyonMyonMyon" colspan="2" class="title">MyonMyonMyon<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Shibayan&amp;ogmusic=東方妖々夢　～ Ancient Temple&amp;fromwiki=MyonMyonMyon!"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:32</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Shibayan.md" title="Shibayan">Shibayan</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Shibayan&amp;fromwiki=MyonMyonMyon!"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=東方妖々夢　～ Ancient Temple&amp;fromwiki=MyonMyonMyon!"><span></span></a></span><div class="ogmusic"><a href="./東方妖々夢_～_Ancient_Temple.md" class="mw-redirect" title="東方妖々夢 ～ Ancient Temple">東方妖々夢　～ Ancient Temple</a></div><div class="source"><a href="./东方妖妖梦_～_Perfect_Cherry_Blossom..md" class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

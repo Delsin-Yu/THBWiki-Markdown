@@ -18,6 +18,7 @@
 
 
 </center>
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-願いの欠片_EP封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/6/66/%E9%A1%98%E3%81%84%E3%81%AE%E6%AC%A0%E7%89%87_EP%E5%B0%81%E9%9D%A2.jpg/252px-%E9%A1%98%E3%81%84%E3%81%AE%E6%AC%A0%E7%89%87_EP%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="252" srcset="https://upload.thwiki.cc/thumb/6/66/%E9%A1%98%E3%81%84%E3%81%AE%E6%AC%A0%E7%89%87_EP%E5%B0%81%E9%9D%A2.jpg/378px-%E9%A1%98%E3%81%84%E3%81%AE%E6%AC%A0%E7%89%87_EP%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/6/66/%E9%A1%98%E3%81%84%E3%81%AE%E6%AC%A0%E7%89%87_EP%E5%B0%81%E9%9D%A2.jpg/504px-%E9%A1%98%E3%81%84%E3%81%AE%E6%AC%A0%E7%89%87_EP%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="679" data-file-height="679"></a><div class="cover-char">角色：<a href="./东风谷早苗.md" title="东风谷早苗">东风谷早苗</a></div></td>
@@ -26,11 +27,13 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/nihontoho/status/1211264333621030913">https://twitter.com/nihontoho/status/1211264333621030913</a></td></tr></tbody></table>
 
 願いの欠片 EP（同人专辑，日本東方大学，2019） - 2019年12月31日 由 日本東方大学 于 Comic Market 97 发布的EP同人专辑，曲目主要风格是 Rock，分级为 一般向
+
 ## Staff
   
  **Arrangement**   
 
 <table><tbody><tr><td><a href="/index.php?title=%E5%9C%B0%E5%BA%95%E4%BA%BA&amp;action=edit&amp;redlink=1" class="new" title="地底人（页面不存在）">地底人</a></td><td><a rel="nofollow" class="external text" href="https://soundcloud.com/user-785400951">SoundCloud</a></td><td>Tr.1</td></tr></tbody></table>
+
 
 
 ## 试听
@@ -41,9 +44,11 @@
 
   
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="願いの欠片" colspan="2" class="title">願いの欠片<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=地底人&amp;ogmusic=信仰は儚き人間の為に&amp;fromwiki=願いの欠片_EP"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E5%9C%B0%E5%BA%95%E4%BA%BA&amp;action=edit&amp;redlink=1" class="new" title="地底人（页面不存在）">地底人</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，地底人&amp;fromwiki=願いの欠片_EP"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=信仰は儚き人間の為に&amp;fromwiki=願いの欠片_EP"><span></span></a></span><div class="ogmusic"><a href="/%E4%BF%A1%E4%BB%B0%E3%81%AF%E5%84%9A%E3%81%8D%E4%BA%BA%E9%96%93%E3%81%AE%E7%82%BA%E3%81%AB" class="mw-redirect" title="信仰は儚き人間の為に">信仰は儚き人間の為に</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E9%A3%8E%E7%A5%9E%E5%BD%95_%EF%BD%9E_Mountain_of_Faith." class="mw-redirect" title="东方风神录 ～ Mountain of Faith.">东方风神录　～ Mountain of Faith.</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="願いの欠片" colspan="2" class="title">願いの欠片<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=地底人&amp;ogmusic=信仰は儚き人間の為に&amp;fromwiki=願いの欠片_EP"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E5%9C%B0%E5%BA%95%E4%BA%BA&amp;action=edit&amp;redlink=1" class="new" title="地底人（页面不存在）">地底人</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，地底人&amp;fromwiki=願いの欠片_EP"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=信仰は儚き人間の為に&amp;fromwiki=願いの欠片_EP"><span></span></a></span><div class="ogmusic"><a href="./信仰は儚き人間の為に.md" class="mw-redirect" title="信仰は儚き人間の為に">信仰は儚き人間の為に</a></div><div class="source"><a href="./东方风神录_～_Mountain_of_Faith..md" class="mw-redirect" title="东方风神录 ～ Mountain of Faith.">东方风神录　～ Mountain of Faith.</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

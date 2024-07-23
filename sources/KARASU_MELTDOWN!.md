@@ -6,12 +6,14 @@
 
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 软件信息](#软件信息)
 - [2 Staff](#Staff)
 - [3 内容页面](#内容页面)
 - [4 评论](#评论)
+
 
 
 
@@ -39,6 +41,7 @@ KARASU MELTDOWN!（同人游戏，CROW'S NEST，2022） - 2022年12月11日 由 
 </tbody></table>
 
 
+
 ## Staff
 Programming, Game Design, UI
 : rollingcrow （CROW'S NEST (未找到链接)）
@@ -60,11 +63,13 @@ Sound Effects
 Explosion Pixel Art
 : unTied Games
 
+
 ## 内容页面
 - 游戏设定与剧情 (未找到链接)
 - 攻略 (未找到链接)
 - 其他信息 (未找到链接)
 - 原声集：[KARASU MELTDOWN! Original Soundtrack](./KARASU_MELTDOWN!_Original_Soundtrack.md)
+
 
 ## 评论
 

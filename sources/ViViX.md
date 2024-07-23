@@ -4,7 +4,8 @@
 
 ViViX ，于 2002 年成立，主要制作 同人音乐 的日本同人社团，主催是 Godspeed，当前状态为 转入非东方
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -16,14 +17,17 @@ ViViX ，于 2002 年成立，主要制作 同人音乐 的日本同人社团，
 
 
 
+
 ## 社团信息
 [](./文件-ViViX_banner.jpg.md)  [](./文件-ViViX_banner.jpg.md)Banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> ViViX </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2002</td></tr><tr><td><b>当前状态</b></td><td>转入非东方</td></tr><tr><td><b>主催</b></td><td> <a href="./Godspeed.md" title="Godspeed">Godspeed</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://www.vivix.info/">http://www.vivix.info/</a> </td></tr></tbody></table>
 
 ViViX（同人社团，同人音乐社团） - ViViX ，于 2002 年成立，主要制作 同人音乐 的日本同人社团，主催是 Godspeed，当前状态为 转入非东方
+
 ## 成员名单
 - [Godspeed](./Godspeed.md)
+
 
 ## 作品列表
 [](./Colors（ViViX）.md)[Colors](./Colors（ViViX）.md)首发日期：2007-08-17 （Comic Market 72 (未找到链接)）全长 （一般向）[](./東方緋想天とらのあな初回購入特典CD.md)[東方緋想天とらのあな初回購入特典CD](./東方緋想天とらのあな初回購入特典CD.md)首发日期：2008-05-25 （第五回 博麗神社例大祭 (未找到链接)）单曲 （一般向）
@@ -33,7 +37,9 @@ ViViX（同人社团，同人音乐社团） - ViViX ，于 2002 年成立，主
 </table>
 
 
+
 ## 参展信息
+
 ## 其他信息
 
 

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-DELFINO封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/5/58/DELFINO%E5%B0%81%E9%9D%A2.jpg/117px-DELFINO%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="117" height="168" srcset="https://upload.thwiki.cc/thumb/5/58/DELFINO%E5%B0%81%E9%9D%A2.jpg/176px-DELFINO%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/5/58/DELFINO%E5%B0%81%E9%9D%A2.jpg/234px-DELFINO%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="268" data-file-height="384"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>，<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a>，<a href="./东风谷早苗.md" title="东风谷早苗">东风谷早苗</a>，<a href="/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C" title="十六夜咲夜">十六夜咲夜</a></div></td>
@@ -14,10 +15,12 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://www8.plala.or.jp/syuji/">http://www8.plala.or.jp/syuji/</a><br><span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span></td></tr></tbody></table>
 
 DELFINO（同人志，DEMOUR402，2011） - 2011年3月13日 由 DEMOUR402 于 博丽神社例大祭8 发布的绘本同人志，一共18页，分级为 一般向
+
 ## Staff
   
 ツヤダシシュウジ
   
+
 
 ## 评论
 

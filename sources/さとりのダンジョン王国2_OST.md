@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-さとりのダンジョン王国2_OST封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/3/3c/%E3%81%95%E3%81%A8%E3%82%8A%E3%81%AE%E3%83%80%E3%83%B3%E3%82%B8%E3%83%A7%E3%83%B3%E7%8E%8B%E5%9B%BD2_OST%E5%B0%81%E9%9D%A2.jpg/280px-%E3%81%95%E3%81%A8%E3%82%8A%E3%81%AE%E3%83%80%E3%83%B3%E3%82%B8%E3%83%A7%E3%83%B3%E7%8E%8B%E5%9B%BD2_OST%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="280" height="280" srcset="https://upload.thwiki.cc/thumb/3/3c/%E3%81%95%E3%81%A8%E3%82%8A%E3%81%AE%E3%83%80%E3%83%B3%E3%82%B8%E3%83%A7%E3%83%B3%E7%8E%8B%E5%9B%BD2_OST%E5%B0%81%E9%9D%A2.jpg/420px-%E3%81%95%E3%81%A8%E3%82%8A%E3%81%AE%E3%83%80%E3%83%B3%E3%82%B8%E3%83%A7%E3%83%B3%E7%8E%8B%E5%9B%BD2_OST%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/3/3c/%E3%81%95%E3%81%A8%E3%82%8A%E3%81%AE%E3%83%80%E3%83%B3%E3%82%B8%E3%83%A7%E3%83%B3%E7%8E%8B%E5%9B%BD2_OST%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="480" data-file-height="480"></a><div class="cover-char">角色：<a href="./古明地觉.md" title="古明地觉">古明地觉</a></div></td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://sepher.jp/circle/circle_32.htm">http://sepher.jp/circle/circle_32.htm</a></td></tr></tbody></table>
 
 さとりのダンジョン王国2 OST（同人专辑，sound sepher，2013） - 2013年12月30日 由 sound sepher 于 Comic Market 85 发布的原声集同人专辑，曲目主要风格是 游戏音乐，分级为 一般向
+
 ## Staff
   
  **Compose**   
@@ -23,6 +25,7 @@
 
 Illustration &amp; Design
 : frenchmaid （[Made in Frenchmaid](http://www.frenchmaid.jp/)）
+
 
 ## 曲目列表
 
@@ -43,6 +46,7 @@ Illustration &amp; Design
 <tr><td id="15" class="infoYL"><b>15</b></td><td id="迷宮VI_邪心の祭壇" colspan="2" class="title">迷宮VI 邪心の祭壇<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Jun.A&amp;fromwiki=さとりのダンジョン王国2_OST"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./Jun.A.md" title="Jun.A">Jun.A</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Jun.A&amp;fromwiki=さとりのダンジョン王国2_OST"><span></span></a></span></td></tr>
 <tr><td id="16" class="infoYL"><b>16</b></td><td id="戦場_暴走する悪意" colspan="2" class="title">戦場 暴走する悪意<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Jun.A&amp;fromwiki=さとりのダンジョン王国2_OST"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./Jun.A.md" title="Jun.A">Jun.A</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Jun.A&amp;fromwiki=さとりのダンジョン王国2_OST"><span></span></a></span></td></tr>
 <tr><td id="17" class="infoYL"><b>17</b></td><td id="決戦_汝が闇の根源か" colspan="2" class="title">決戦 汝が闇の根源か<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Jun.A&amp;fromwiki=さとりのダンジョン王国2_OST"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./Jun.A.md" title="Jun.A">Jun.A</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Jun.A&amp;fromwiki=さとりのダンジョン王国2_OST"><span></span></a></span></td></tr></tbody></table>
+
 
 
 ## 其他信息

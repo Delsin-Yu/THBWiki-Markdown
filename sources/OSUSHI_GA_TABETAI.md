@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-OSUSHI_GA_TABETAI封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/8/86/OSUSHI_GA_TABETAI%E5%B0%81%E9%9D%A2.jpg/138px-OSUSHI_GA_TABETAI%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="138" height="196" srcset="https://upload.thwiki.cc/thumb/8/86/OSUSHI_GA_TABETAI%E5%B0%81%E9%9D%A2.jpg/207px-OSUSHI_GA_TABETAI%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/8/86/OSUSHI_GA_TABETAI%E5%B0%81%E9%9D%A2.jpg/276px-OSUSHI_GA_TABETAI%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="722" data-file-height="1024"></a><div class="cover-char">角色：<a href="./赤蛮奇.md" title="赤蛮奇">赤蛮奇</a>，<a href="./琪露诺.md" title="琪露诺">琪露诺</a></div></td>
@@ -23,12 +24,20 @@ OSUSHI GA TABETAI（同人志，給食頭蛮，2020） - 2020年5月17日 由 �
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://adaptor.booth.pm/items/2064368">Booth</a></td></tr></tbody></table>
 
 
+
 ## Staff
 - [ぱらどっと](./ぱらどっと.md)（Host）
 - めたねのおくすり (未找到链接)（Guest）
 
+
 ## 评论
-<unsupported html=blockquote>
+<blockquote><div class="poem">
+<p><span lang="ja"><br>
+赤蛮奇とチルノとお寿司の本です。<br>
+お寿司が食べたくなった2人はある人物に相談することに……？<br></span>
+</p>
+</div></blockquote>
+
   
   
 

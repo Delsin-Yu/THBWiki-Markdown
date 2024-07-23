@@ -6,11 +6,13 @@
 
 本页是关于东方Project  
  **二次同人创作者** 的词条
+
 ## 基本信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="label"><b>名称</b></td><td> YS </td></tr><tr><td class="label"><b>真实名</b></td><td>下田祐</td></tr><tr><td class="label"><b>别名</b></td><td>下田祐<br>Yu Shimoda<br>Y・S・シーサー</td></tr><tr><td class="label"><b>所属社团</b></td><td><b>当前</b><div style="margin-left:2em;">SNK Sound Team</div><b>过往</b><div style="margin-left:2em;"><a href="/%E5%A4%AA%E4%B8%9C#ZUNTATA" title="太东">ZUNTATA</a>, <a href="./FragileOnline.md" title="FragileOnline">FragileOnline</a></div></td></tr><tr><td class="label"><b>职位</b></td><td>编曲，作曲，演唱，演奏，作词</td></tr><tr><td class="label"><b>参与社团</b></td><td><a href="./AQUARIA_MUSICS.md" title="AQUARIA MUSICS">AQUARIA MUSICS</a> （作曲，编曲）<br><a href="./As／Hi.md" title="As／Hi">As／Hi</a> （编曲，演唱，作词）<br><a href="./Colorful_Cube.md" title="Colorful Cube">Colorful Cube</a> （编曲）<br><a href="./FragileOnline.md" title="FragileOnline">FragileOnline</a> （作曲，编曲，演唱，演奏，作词）<br><a href="./sound_sepher.md" title="sound sepher">sound sepher</a> （编曲）<br><a href="./フランソワさんのよもぎ畑.md" title="フランソワさんのよもぎ畑">フランソワさんのよもぎ畑</a> （作曲，编曲）<br><a href="./太东.md" title="太东">太东</a> （编曲）<br><a href="./宇部ソフトウェア技術研究所.md" title="宇部ソフトウェア技術研究所">宇部ソフトウェア技術研究所</a> （作曲，编曲）<br><a href="./苍天之雪.md" title="苍天之雪">苍天之雪</a> （编曲）<br><a href="./荒御灵.md" title="荒御灵">荒御灵</a> （编曲）</td></tr><tr><td class="label"><b>性别</b></td><td>男</td></tr><tr><td class="label"><b>生日</b></td><td>1982-11-2（41岁）</td></tr><tr><td class="label"><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://zuntata.jp/">http://zuntata.jp/</a></td></tr><tr><td class="label"><b>个人页面</b></td><td><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><b>Twitter</b></td><td><a rel="nofollow" class="external free" href="https://twitter.com/Yu_Shimoda">https://twitter.com/Yu_Shimoda</a></td></tr><tr><td><b>Email</b></td><td>fragileonline@gmail.com</td></tr></tbody></table></td></tr></tbody></table>
 
 YS（人物） - 现实人物
+
 ## 介绍
   
 已经活动休止的同人社团FragileOnline的主催。YS是真名下田祐（Yu Shimoda）的首字母缩写。
@@ -34,10 +36,12 @@ YS（人物） - 现实人物
 于2021年9月宣布离开TAITO，并在同年10月宣布加入SNK Sound Team。
   
 
+
 ## 参与曲目
   
 模板:人物曲目列表 (未找到链接)
   
+
 
 ## 人际关系
 

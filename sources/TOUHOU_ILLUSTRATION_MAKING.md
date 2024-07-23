@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-TOUHOU_ILLUSTRATION_MAKING封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/e/e7/TOUHOU_ILLUSTRATION_MAKING%E5%B0%81%E9%9D%A2.jpg/137px-TOUHOU_ILLUSTRATION_MAKING%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="137" height="196" srcset="https://upload.thwiki.cc/thumb/e/e7/TOUHOU_ILLUSTRATION_MAKING%E5%B0%81%E9%9D%A2.jpg/206px-TOUHOU_ILLUSTRATION_MAKING%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/e/e7/TOUHOU_ILLUSTRATION_MAKING%E5%B0%81%E9%9D%A2.jpg/275px-TOUHOU_ILLUSTRATION_MAKING%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="631" data-file-height="900"></a><div class="cover-char">角色：<a href="./古明地恋.md" title="古明地恋">古明地恋</a>，<a href="./古明地觉.md" title="古明地觉">古明地觉</a></div></td>
@@ -18,9 +19,12 @@ TOUHOU ILLUSTRATION MAKING（同人志，羽々斬，2022） - 2022年10月23日
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=1668907">蜜瓜</a>，<a rel="nofollow" class="external text" href="https://uuuuzan.booth.pm/items/4240362">BoothDL版</a></td></tr></tbody></table>
 
 
+
 ## 预览
+
 ## Staff
 - [羽々斬](./羽々斬.md)
+
 
 ## 评论
 

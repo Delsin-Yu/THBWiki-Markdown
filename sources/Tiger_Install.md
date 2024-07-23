@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Tiger_Install封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/5/54/Tiger_Install%E5%B0%81%E9%9D%A2.jpg/118px-Tiger_Install%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="118" height="168" srcset="https://upload.thwiki.cc/thumb/5/54/Tiger_Install%E5%B0%81%E9%9D%A2.jpg/177px-Tiger_Install%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/5/54/Tiger_Install%E5%B0%81%E9%9D%A2.jpg/236px-Tiger_Install%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="270" data-file-height="384"></a><div class="cover-char">角色：<a href="./寅丸星.md" title="寅丸星">寅丸星</a></div></td>
@@ -14,10 +15,12 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://carcharias.3rin.net/">http://carcharias.3rin.net/</a></td></tr></tbody></table>
 
 Tiger Install（同人志，Carcharias，2010） - 2010年10月11日 由 Carcharias 于 东方红楼梦6 发布的漫画同人志，一共40页，登场人物有 圣白莲、东风谷早苗、村纱水蜜、洩矢诹访子、八坂神奈子、博丽灵梦、寅丸星、云居一轮、娜兹玲、封兽鵺、多多良小伞，分级为 一般向
+
 ## Staff
   
 cis
   
+
 
 ## 评论
 

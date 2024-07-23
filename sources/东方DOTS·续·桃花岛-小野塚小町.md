@@ -164,6 +164,7 @@
 [](./文件-THD2小野塚小町.png.md)
   
 
+
 ## 目录
 
 - [1 角色定位](#角色定位)
@@ -184,10 +185,12 @@
 
 
 
+
 ## 角色定位
   
 逃生 - 核心 - 打野 - 爆发
   
+
 
 ## 技能介绍
 
@@ -665,6 +668,7 @@
 </td></tr></tbody></table>
 
 
+
 ## 天赋树
 
 
@@ -703,6 +707,7 @@
 </td></tr></tbody></table>
 
 
+
 ### 出门装备
   
 [](./文件-THD2西尔芙灵纹.png.md) [](./文件-THD2练习手套.png.md) [](./文件-THD2新月头饰.png.md) [](./文件-THD2思兼生命药.png.md) [](./文件-THD2好人卡.png.md)
@@ -710,6 +715,7 @@
   
 线上补刀为主，有机会可以平A对方少女堆叠三技能层数[](./文件-THD2小野塚小町_03.png.md)，由于三技能是百分比伤害，打比较肉的少女也会有很高的伤害
   
+
 
 ### 前期装备
   
@@ -719,6 +725,7 @@
 有大招[](./文件-THD2小野塚小町_04.png.md)的时候就可以主动找对面打架，寻找优先要击杀的少女，开出大招[](./文件-THD2小野塚小町_04.png.md)多接平A和一技能[](./文件-THD2小野塚小町_01.png.md)叠加层数，差不多在六七层以上就可以开三技能[](./文件-THD2小野塚小町_03.png.md)，基本都可以做到击杀，因为大招[](./文件-THD2小野塚小町_04.png.md)是让目标不会受到任何治疗效果，所以可以用来克制一些高回复能力的少女
   
 
+
 ### 核心装备
   
 [](./文件-THD2龙星.png.md) [](./文件-THD2魔人经卷.png.md) [](./文件-THD2绯想剑.png.md)
@@ -726,6 +733,7 @@
   
 针对对方核心少女，开着上面的物品使劲输出把
   
+
 
 ### 可选装备
   
@@ -736,6 +744,7 @@
 
 作为近战有时需要增加生存能力才能稳定把输出打出来，缺乏先手控制的情况下可以选择油库里之杖
   
+
 
 ## 技能加点
 
@@ -797,6 +806,7 @@
 <td><a href="./文件-DOTA黄点.png.md" class="image" title="+2 全属性"><img alt="+2 全属性" src="https://upload.thwiki.cc/thumb/d/da/DOTA%E9%BB%84%E7%82%B9.png/40px-DOTA%E9%BB%84%E7%82%B9.png" decoding="async" loading="lazy" width="40" height="40" srcset="https://upload.thwiki.cc/thumb/d/da/DOTA%E9%BB%84%E7%82%B9.png/60px-DOTA%E9%BB%84%E7%82%B9.png 1.5x, https://upload.thwiki.cc/thumb/d/da/DOTA%E9%BB%84%E7%82%B9.png/80px-DOTA%E9%BB%84%E7%82%B9.png 2x" data-file-width="128" data-file-height="128"></a></td>
 <td><a href="./文件-THD2天赋树25右.png.md" class="image" title="+420 金钱/分"><img alt="+420 金钱/分" src="https://upload.thwiki.cc/thumb/5/5b/THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%8F%B3.png/40px-THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%8F%B3.png" decoding="async" loading="lazy" width="40" height="40" srcset="https://upload.thwiki.cc/thumb/5/5b/THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%8F%B3.png/60px-THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%8F%B3.png 1.5x, https://upload.thwiki.cc/thumb/5/5b/THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%8F%B3.png/80px-THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%8F%B3.png 2x" data-file-width="103" data-file-height="103"></a>
 </td></tr></tbody></table>
+
 
 
 ## 台词
@@ -911,6 +921,7 @@
 </p>
 </td></tr>
 </tbody></table>
+
 
 
 ## 教学视频

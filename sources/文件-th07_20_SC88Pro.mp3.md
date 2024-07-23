@@ -4,6 +4,7 @@
 
 东方妖妖梦 | 樱花樱花_～_Japanize_Dream...
 
+
 ## 文件说明
   
 さくらさくら　～ Japanize Dream... 东方妖妖梦STAFF主题曲MIDI版。由Roland Sound Canvas 88Pro实机录制；MP3采样率44.1KHz，码率192Kbps。  

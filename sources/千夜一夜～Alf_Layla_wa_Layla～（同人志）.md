@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-千夜一夜～Alf_Layla_wa_Layla～（同人志）封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/7/77/%E5%8D%83%E5%A4%9C%E4%B8%80%E5%A4%9C%EF%BD%9EAlf_Layla_wa_Layla%EF%BD%9E%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/136px-%E5%8D%83%E5%A4%9C%E4%B8%80%E5%A4%9C%EF%BD%9EAlf_Layla_wa_Layla%EF%BD%9E%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="136" height="196" srcset="https://upload.thwiki.cc/thumb/7/77/%E5%8D%83%E5%A4%9C%E4%B8%80%E5%A4%9C%EF%BD%9EAlf_Layla_wa_Layla%EF%BD%9E%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/203px-%E5%8D%83%E5%A4%9C%E4%B8%80%E5%A4%9C%EF%BD%9EAlf_Layla_wa_Layla%EF%BD%9E%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/7/77/%E5%8D%83%E5%A4%9C%E4%B8%80%E5%A4%9C%EF%BD%9EAlf_Layla_wa_Layla%EF%BD%9E%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="250" data-file-height="361"></a><div class="cover-char">角色：<a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://remilia.sc/">http://remilia.sc/</a><br><span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><small>（<a rel="nofollow" class="external text" href="https://web.archive.org/web/20080429224921/http://remilia.sc/">缓存页面</a>）</small></td></tr><tr><td class="label">备注</td><td colspan="2"><a href="./千夜一夜～Alf_Layla_wa_Layla～（同人专辑）.md" title="千夜一夜～Alf Layla wa Layla～（同人专辑）">同人专辑</a></td></tr></tbody></table>
 
 千夜一夜～Alf Layla wa Layla～（同人志，レミ咲合同企画，GenocideKitten，2007） - 2007年11月4日 由 レミ咲合同企画，GenocideKitten 于 东方红楼梦3 发布的漫画/合同志同人志，B5尺寸一共172页，分级为 一般向
+
 ## 预览
 - [](./文件-千夜一夜～Alf_Layla_wa_Layla～（同人志）预览图1.jpg.md)- [](./文件-千夜一夜～Alf_Layla_wa_Layla～（同人志）预览图2.jpg.md)- [](./文件-千夜一夜～Alf_Layla_wa_Layla～（同人志）预览图3.jpg.md)- [](./文件-千夜一夜～Alf_Layla_wa_Layla～（同人志）预览图4.jpg.md)- [](./文件-千夜一夜～Alf_Layla_wa_Layla～（同人志）预览图5.jpg.md)- [](./文件-千夜一夜～Alf_Layla_wa_Layla～（同人志）预览图6.jpg.md)
+
 
 ## Staff
 主催
@@ -42,6 +45,7 @@
 : 袴田杉壱 (未找到链接)（[笹車](./笹車.md)）
 : 里村響 (未找到链接)
 
+
 ## 评论
 - 蜜瓜
 
@@ -60,6 +64,7 @@
 棺型スリーブケース＋フルカラー漫画＋音楽CDと、大容量で大満足間違いなしの一冊！
 妖怪と人間が耽る瀟洒でステキなお茶会を、漫画で音で存分にお楽しみ下さいませ。
 ```
+
 
 ## 其他
   

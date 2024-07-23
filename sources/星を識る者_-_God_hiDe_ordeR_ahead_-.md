@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-星を識る者_-_God_hiDe_ordeR_ahead_-封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/b/b1/%E6%98%9F%E3%82%92%E8%AD%98%E3%82%8B%E8%80%85_-_God_hiDe_ordeR_ahead_-%E5%B0%81%E9%9D%A2.jpg/140px-%E6%98%9F%E3%82%92%E8%AD%98%E3%82%8B%E8%80%85_-_God_hiDe_ordeR_ahead_-%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="140" height="196" srcset="https://upload.thwiki.cc/thumb/b/b1/%E6%98%9F%E3%82%92%E8%AD%98%E3%82%8B%E8%80%85_-_God_hiDe_ordeR_ahead_-%E5%B0%81%E9%9D%A2.jpg/210px-%E6%98%9F%E3%82%92%E8%AD%98%E3%82%8B%E8%80%85_-_God_hiDe_ordeR_ahead_-%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/b/b1/%E6%98%9F%E3%82%92%E8%AD%98%E3%82%8B%E8%80%85_-_God_hiDe_ordeR_ahead_-%E5%B0%81%E9%9D%A2.jpg/280px-%E6%98%9F%E3%82%92%E8%AD%98%E3%82%8B%E8%80%85_-_God_hiDe_ordeR_ahead_-%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1479" data-file-height="2070"></a><div class="cover-char">角色：<a href="./宇佐见莲子.md" title="宇佐见莲子">宇佐见莲子</a>，<a href="./玛艾露贝莉·赫恩.md" title="玛艾露贝莉·赫恩">玛艾露贝莉·赫恩</a>，<a href="/index.php?title=%E5%9F%BA%E5%A4%9A%E6%8B%89&amp;action=edit&amp;redlink=1" class="new" title="基多拉（页面不存在）">基多拉</a></div></td>
@@ -18,10 +19,12 @@
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://fu-ghirm.booth.pm/items/3273261">Booth</a></td></tr></tbody></table>
 
 
+
 ## 预览
   
 [Pixiv](https://www.pixiv.net/novel/show.php?id=15394514)
   
+
 
 ## Staff
 作者
@@ -45,6 +48,7 @@
 : そひか （[Twitter: @Sohika_QLOCKS](https://twitter.com/Sohika_QLOCKS)）
 : スキマ人 （[境界天文台](./境界天文台.md)）
 : 華音 （[Twitter: @Canon_Godzilla](https://twitter.com/Canon_Godzilla)）
+
 
 ## 评论
 

@@ -4,6 +4,7 @@
 
 Prismatica_Material_Records | 社团LOGO
 
+
 ## 摘要
   
 源地址：[direct image link](https://web.archive.org/web/20070726035441im_/http://t-miyabi.hp.infoseek.co.jp/banner5.jpg), [source page](https://web.archive.org/web/20070726035435fw_/http://t-miyabi.hp.infoseek.co.jp/link_cl.html)

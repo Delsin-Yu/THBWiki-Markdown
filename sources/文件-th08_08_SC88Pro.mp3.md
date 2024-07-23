@@ -4,6 +4,7 @@
 
 东方永夜抄 | 永夜的报应_～_Imperishable_Night
 
+
 ## 文件说明
   
 永夜の報い　～ Imperishable Night 东方永夜抄4面道中曲MIDI版。由Roland Sound Canvas 88Pro实机录制；MP3采样率44.1KHz，码率192Kbps。  

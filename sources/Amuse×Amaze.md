@@ -4,7 +4,8 @@
 
 Amuse×Amaze ，主要制作 同人音乐 的日本同人社团，主催是 あみゃ太郎，当前状态为 休止
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -20,22 +21,27 @@ Amuse×Amaze ，主要制作 同人音乐 的日本同人社团，主催是 あ�
 
 
 
+
 ## 社团信息
 文件:Amuse×Amazebanner.jpg (未找到链接)  banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Amuse×Amaze </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=%E3%81%82%E3%81%BF%E3%82%83%E5%A4%AA%E9%83%8E&amp;action=edit&amp;redlink=1" class="new" title="あみゃ太郎（页面不存在）">あみゃ太郎</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr></tbody></table>
 
 Amuse×Amaze（同人社团，同人音乐社团） - Amuse×Amaze ，主要制作 同人音乐 的日本同人社团，主催是 あみゃ太郎，当前状态为 休止
+
 ## 成员名单
 - あみゃ太郎 (未找到链接)
   - [Twitter：@amya_cancelb](https://twitter.com/amya_cancelb)
 
 
+
 ## 作品列表
+
 ### 同人专辑
 百詞夜踏 封面图片 (未找到链接)[百詞夜踏](./百詞夜踏.md)首发日期：2016-05-08 （第十三回 博麗神社例大祭 (未找到链接)）AXA-001全长 （一般向）
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
 </table>
+
 
 
 ## 参展信息

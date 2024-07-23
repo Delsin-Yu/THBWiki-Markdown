@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2">无封面</td>
@@ -14,8 +15,11 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://blog.yam.com/inschool/article/43537344">http://blog.yam.com/inschool/article/43537344</a></td></tr></tbody></table>
 
 Maple Gift（同人志，-Sakimiya-，2011） - 2011年11月20日 由 -Sakimiya- 于 东方枫华宴2 发布的漫画/画集同人志，A5尺寸一共8页，登场人物有 红美铃、十六夜咲夜、原创角色、铃仙·优昙华院·因幡、丰聪耳神子、苏我屠自古、物部布都、射命丸文，分级为 一般向
+
 ## 预览
+
 ## Staff
+
 ## 评论
   
 東方楓華宴2特典小冊子，免費發佈  

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Suffer_from_an_eternal_pain_circle封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/0/0a/Suffer_from_an_eternal_pain_circle%E5%B0%81%E9%9D%A2.jpg/100px-Suffer_from_an_eternal_pain_circle%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="100" height="140" srcset="https://upload.thwiki.cc/thumb/0/0a/Suffer_from_an_eternal_pain_circle%E5%B0%81%E9%9D%A2.jpg/150px-Suffer_from_an_eternal_pain_circle%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/0/0a/Suffer_from_an_eternal_pain_circle%E5%B0%81%E9%9D%A2.jpg/200px-Suffer_from_an_eternal_pain_circle%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="800" data-file-height="1119"></a><div class="cover-char">角色：<a href="./藤原妹红.md" title="藤原妹红">藤原妹红</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/yutakasiumai/status/1049635978485231617">https://twitter.com/yutakasiumai/status/1049635978485231617</a><br><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/71152565">https://www.pixiv.net/artworks/71152565</a></td></tr></tbody></table>
 
 Suffer from an eternal pain circle（同人志，しうまいを継ぐ者，2018） - 2018年10月14日 由 しうまいを継ぐ者 于 博丽神社秋季例大祭5 发布的漫画同人志，分级为 一般向
+
 ## Staff
 - 小出豊 (未找到链接)
+
 
 ## 评论
 

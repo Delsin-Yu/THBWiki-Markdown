@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -42,11 +43,13 @@
 
 
 
+
 ## 基本信息
 
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">Tabula rasa　～空白少女</td></tr><tr><td><b>译名</b></td><td>Tabula rasa ～ 空白少女</td></tr><tr><td><b>英文译名</b></td><td>Tabula rasa ~ The Empty Girl</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 Tabula rasa ～ 空白少女（曲目） - 由 ZUN 创作的官方曲目，原名 Tabula rasa　～空白少女
+
 ## 出现作品
 
 <table>
@@ -58,7 +61,9 @@ Tabula rasa ～ 空白少女（曲目） - 由 ZUN 创作的官方曲目，原�
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 东方梦时空
   
 YM2608(OPNA)，FM86版。
@@ -66,6 +71,7 @@ YM2608(OPNA)，FM86版。
 
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th03_06.ogg.md" title="文件:th03 06.ogg">th03_06.ogg</a><br><audio src="https://upload.thwiki.cc/1/13/th03_06.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>03MM.M</td></tr><tr><td><b>音轨时长</b></td><td>2:13.533</td></tr></tbody></table>
+
 
 
 ### 东方怪绮谈
@@ -77,9 +83,11 @@ YM2608(OPNA)，FM86版。
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th05_Y_06.ogg.md" title="文件:th05 Y 06.ogg">th05_Y_06.ogg</a><br><audio src="https://upload.thwiki.cc/0/0e/th05_Y_06.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>Y_03MM.M</td></tr><tr><td><b>音轨时长</b></td><td>2:13.533</td></tr></tbody></table>
 
 
+
 ### 东方幻想的音乐
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td><a href="./文件-th3_06.mid.md" title="文件:th3 06.mid">th3_06.mid</a></td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th3_06.mp3.md" title="文件:th3 06.mp3">th3_06.mp3</a><br><audio src="https://upload.thwiki.cc/3/3b/th3_06.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>th3_06.mid</td></tr><tr><td><b>音轨时长</b></td><td>3:20</td></tr></tbody></table>
+
 
 
 ### 东方幻想怀古曲
@@ -87,12 +95,15 @@ YM2608(OPNA)，FM86版。
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-thgs03_06.ogg.md" title="文件:thgs03 06.ogg">thgs03_06.ogg</a><br><audio src="https://upload.thwiki.cc/2/2a/thgs03_06.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>th3_06.M</td></tr><tr><td><b>音轨时长</b></td><td>2:13.533</td></tr></tbody></table>
 
 
+
 ### 幺乐团的历史 vol.4
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-ha04_06.mp3.md" title="文件:ha04 06.mp3">ha04_06.mp3</a><br><audio src="https://upload.thwiki.cc/e/e3/ha04_06.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track06.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>3:42</td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 东方梦时空
 - Music Room (未找到链接)
 
@@ -112,6 +123,7 @@ YM2608(OPNA)，FM86版。
 用于东方梦时空的曲子  
 从前所做的‘千里之道’的FM版。  
 几乎没法与弹幕合拍。
+
 ### 东方怪绮谈
 - Music Room (未找到链接)
 
@@ -121,6 +133,7 @@ YM2608(OPNA)，FM86版。
 用于东方梦时空的曲子  
 从前所做的‘千里之道’的FM版。  
 几乎没法与弹幕合拍。
+
 ### 东方幻想的音乐
 - th3_06.txt (未找到链接)
 
@@ -158,6 +171,7 @@ YM2608(OPNA)，FM86版。
   
 　HP　　[http://www16.big.or.jp/~zun/](http://www16.big.or.jp/~zun/)  
 　Mail　zun@big.or.jp
+
 ### 东方幻想怀古曲
 - th3_06pmd.txt (未找到链接)
 
@@ -197,8 +211,11 @@ YM2608(OPNA)，FM86版。
 曲子的感想、请求等，这边请  
 　东方幻想空间　「博丽神社」 [http://www16.big.or.jp/~zun/](http://www16.big.or.jp/~zun/)  
 　e-Mail                     zun@big.or.jp
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
   
  **Tabula rasa ～空白少女** 
@@ -212,6 +229,7 @@ Tabula rasa ～空白少女
 - 空白少女
   - 爱莲接二连三的忘记事情
   - 爱莲虽然活了很长时间但是还是像孩子一样
+
 
 
 ### 二次同人数据

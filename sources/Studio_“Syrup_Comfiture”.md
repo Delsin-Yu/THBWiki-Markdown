@@ -4,7 +4,8 @@
 
 Studio “Syrup Comfiture”（SSC） ，于 2008 年成立，主要制作 同人音乐 的日本同人社团，主催是 Syrufit，当前状态为 休止
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -16,21 +17,25 @@ Studio “Syrup Comfiture”（SSC） ，于 2008 年成立，主要制作 同�
 
 
 
+
 ## 社团信息
 [](./文件-Studio_“Syrup_Comfiture”_banner.png.md)  [](./文件-Studio_“Syrup_Comfiture”_banner.png.md)Banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Studio “Syrup Comfiture”（SSC） </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2008</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>主催</b></td><td> <a href="./Syrufit.md" title="Syrufit">Syrufit</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="https://syrufit-music.tumblr.com/">https://syrufit-music.tumblr.com/</a> <br><a rel="nofollow" class="external free" href="http://www.syrufit.jp">http://www.syrufit.jp</a> <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><br><a rel="nofollow" class="external free" href="http://sscaldn.net/">http://sscaldn.net/</a> （与<a href="./ALADDIN.md" title="ALADDIN">ALADDIN</a>共同活动的网站）<span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span></td></tr></tbody></table>
 
 Studio “Syrup Comfiture”（同人社团，同人音乐社团） - Studio “Syrup Comfiture”（SSC） ，于 2008 年成立，主要制作 同人音乐 的日本同人社团，主催是 Syrufit，当前状态为 休止
+
 ## 成员名单
 - [hiro.na / Syrufit](./Syrufit.md)：编曲，Bass，Mixing
 - [TAK-sk(poplica*)](./TAK-sk.md)（2013年社团休止前成员）
 - 茂木和美 (未找到链接)（2016年社团重新活动后加入）：歌词
 
+
 ## 其他信息
   
 社团于2013年停止活动。主催[Syrufit](./Syrufit.md)于2016年开始与[ALADDIN](./ALADDIN.md)合作，以SSC名义重新开始活动。2022年11月3日，Syrufit在推特上发文宣布，社团于2022年12月1日停止活动，本人将更多地转向原创音乐的创作。详见：[https://twitter.com/hironasyrufit/status/1588118761420242944](https://twitter.com/hironasyrufit/status/1588118761420242944)
   
+
 
 ## 作品列表
 [](./show_me_your_love.md)[show me your love](./show_me_your_love.md)首发日期：2009-12-30 （Comic Market 77 (未找到链接)）SSC-0001全长 （一般向）[](./Love_Buzz_!.md)[Love Buzz&#160;!](./Love_Buzz_!.md)首发日期：2010-03-14 （第七回 博麗神社例大祭 (未找到链接)）SSC-0002全长 （一般向）[](./Double_Counterpoint.md)[Double Counterpoint](./Double_Counterpoint.md)首发日期：2010-03-14 （第七回 博麗神社例大祭 (未找到链接)）ARCD-0031全长 （一般向）该作品是与 [Alstroemeria Records](./Alstroemeria_Records.md) 合作创作的[](./Where_is_Love.md)[Where is Love](./Where_is_Love.md)首发日期：2010-08-14 （Comic Market 78 (未找到链接)）SSC-0003全长 （一般向）[](./Replica＊.md)[Replica*](./Replica＊.md)首发日期：2010-08-14 （Comic Market 78 (未找到链接)）SSC-0004全长 （一般向）该作品是与 [Poplica＊](./Poplica＊.md) 合作创作的[](./Love_Hearts？.md)[Love Hearts？](./Love_Hearts？.md)首发日期：2010-12-30 （Comic Market 79 (未找到链接)）SSC-0005全长 （一般向）[](./ぽっぷ！EP？.md)[ぽっぷ！EP？](./ぽっぷ！EP？.md)首发日期：2010-12-30 （Comic Market 79 (未找到链接)）Omake （一般向）该作品是与 [CYTOKINE](./CYTOKINE.md) 合作创作的[](./Live_A-Round.md)[Live A-Round](./Live_A-Round.md)首发日期：2010-12-30 （Comic Market 79 (未找到链接)）SSC-0006全长 （一般向）该作品是与 [Poplica＊](./Poplica＊.md) 合作创作的[](./LoveBest.md)[LoveBest](./LoveBest.md)首发日期：2011-05-08 （第八回 博麗神社例大祭 (未找到链接)）SSC-0007精选集、​全长 （一般向）该作品是与 [Poplica＊](./Poplica＊.md) 合作创作的[](./Love=ALL.md)[Love=ALL](./Love=ALL.md)首发日期：2011-03-13 （第八回 博麗神社例大祭 (未找到链接)）SSC-0008全长 （一般向）[](./love（Poplica＊）.md)[love](./love（Poplica＊）.md)首发日期：2011-08-13 （Comic Market 80 (未找到链接)）SSC-0009全长 （一般向）该作品是与 [Poplica＊](./Poplica＊.md) 合作创作的[](./over.md)[over](./over.md)首发日期：2011-08-13 （Comic Market 80 (未找到链接)）SSC-0010全长 （一般向）[](./2chain.md)[2chain](./2chain.md)首发日期：2011-10-16 （東方紅楼夢7 (未找到链接)）SSC-0011全长 （一般向）[](./Avidya.md)[Avidya](./Avidya.md)首发日期：2011-12-30 （Comic Market 81 (未找到链接)）SSC-0012全长 （一般向）[](./君の歌と僕の小さな恋.md)[君の歌と僕の小さな恋](./君の歌と僕の小さな恋.md)首发日期：2011-12-30 （Comic Market 81 (未找到链接)）SCPC-0001全长、​合作 （一般向）该作品是与 [Pizuya's Cell](./Pizuya's_Cell.md) 合作创作的[](./Blossom（同人专辑）.md)[Blossom](./Blossom（同人专辑）.md)首发日期：2012-05-27 （第九回 博麗神社例大祭 (未找到链接)）SSC-0013全长 （一般向）[](./white_clear.md)[white clear](./white_clear.md)首发日期：2012-08-11 （Comic Market 82 (未找到链接)）SSC-0014全长 （一般向）[](./equation.10.00.md)[equation.10.00](./equation.10.00.md)首发日期：2016-08-13 （Comic Market 90 (未找到链接)）SSC-0015全长 （一般向）该作品是与 [ALADDIN](./ALADDIN.md) 合作创作的[](./Identity..md)[Identity.](./Identity..md)首发日期：2018-08-10 （Comic Market 94 (未找到链接)）SSC-0016全长 （一般向）
@@ -72,6 +77,7 @@ Studio “Syrup Comfiture”（同人社团，同人音乐社团） - Studio “
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 参展信息

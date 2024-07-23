@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Kill_me封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/b/bb/Kill_me%E5%B0%81%E9%9D%A2.jpg/158px-Kill_me%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="158" height="224" srcset="https://upload.thwiki.cc/thumb/b/bb/Kill_me%E5%B0%81%E9%9D%A2.jpg/237px-Kill_me%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/b/bb/Kill_me%E5%B0%81%E9%9D%A2.jpg/316px-Kill_me%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="600" data-file-height="849"></a><div class="cover-char">角色：<a href="./比那名居天子.md" title="比那名居天子">比那名居天子</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://members3.jcom.home.ne.jp/hurari/webcomi.html">http://members3.jcom.home.ne.jp/hurari/webcomi.html</a><br><span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span></td></tr></tbody></table>
 
 Kill me（同人志，ふあん亭，2007） - 2007年11月4日 由 ふあん亭 于 东方红楼梦3 发布的漫画同人志，B5尺寸一共19页，登场人物有 比那名居天子、风见幽香，分级为 一般向
+
 ## Staff
-- フラリ通る (未找到链接)
+- [フラリ通る](./フラリ通る.md)
+
 
 ## 评论
 

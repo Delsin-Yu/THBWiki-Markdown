@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-結界_SIDE_EMOTION封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/f/f4/%E7%B5%90%E7%95%8C_SIDE_EMOTION%E5%B0%81%E9%9D%A2.jpg/118px-%E7%B5%90%E7%95%8C_SIDE_EMOTION%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="118" height="168" srcset="https://upload.thwiki.cc/thumb/f/f4/%E7%B5%90%E7%95%8C_SIDE_EMOTION%E5%B0%81%E9%9D%A2.jpg/177px-%E7%B5%90%E7%95%8C_SIDE_EMOTION%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/f/f4/%E7%B5%90%E7%95%8C_SIDE_EMOTION%E5%B0%81%E9%9D%A2.jpg/236px-%E7%B5%90%E7%95%8C_SIDE_EMOTION%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="270" data-file-height="384"></a><div class="cover-char">角色：<a href="./八云紫.md" title="八云紫">八云紫</a></div></td>
@@ -14,9 +15,12 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://kurudaz.exblog.jp/13729734/">https://kurudaz.exblog.jp/13729734/</a></td></tr></tbody></table>
 
 結界 SIDE EMOTION（同人志，Midnight Dessert，2010） - 2010年8月14日 由 Midnight Dessert 于 Comic Market 78 发布的漫画同人志，登场人物有 八云紫，分级为 一般向
+
 ## 预览
+
 ## Staff
 - kurudaz (未找到链接)
+
 
 ## 评论
 

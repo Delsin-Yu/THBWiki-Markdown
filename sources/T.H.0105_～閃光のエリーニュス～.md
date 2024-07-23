@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-T.H.0105_～閃光のエリーニュス～封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/4/4e/T.H.0105_%EF%BD%9E%E9%96%83%E5%85%89%E3%81%AE%E3%82%A8%E3%83%AA%E3%83%BC%E3%83%8B%E3%83%A5%E3%82%B9%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg/158px-T.H.0105_%EF%BD%9E%E9%96%83%E5%85%89%E3%81%AE%E3%82%A8%E3%83%AA%E3%83%BC%E3%83%8B%E3%83%A5%E3%82%B9%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="158" height="224" srcset="https://upload.thwiki.cc/thumb/4/4e/T.H.0105_%EF%BD%9E%E9%96%83%E5%85%89%E3%81%AE%E3%82%A8%E3%83%AA%E3%83%BC%E3%83%8B%E3%83%A5%E3%82%B9%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg/236px-T.H.0105_%EF%BD%9E%E9%96%83%E5%85%89%E3%81%AE%E3%82%A8%E3%83%AA%E3%83%BC%E3%83%8B%E3%83%A5%E3%82%B9%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/4/4e/T.H.0105_%EF%BD%9E%E9%96%83%E5%85%89%E3%81%AE%E3%82%A8%E3%83%AA%E3%83%BC%E3%83%8B%E3%83%A5%E3%82%B9%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg/315px-T.H.0105_%EF%BD%9E%E9%96%83%E5%85%89%E3%81%AE%E3%82%A8%E3%83%AA%E3%83%BC%E3%83%8B%E3%83%A5%E3%82%B9%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="599" data-file-height="851"></a><div class="cover-char">角色：<a href="./纯狐.md" title="纯狐">纯狐</a></div></td>
@@ -14,7 +15,9 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://raptor7.blog.fc2.com/blog-entry-40.html">http://raptor7.blog.fc2.com/blog-entry-40.html</a></td></tr></tbody></table>
 
 T.H.0105 ～閃光のエリーニュス～（同人志，武器櫃，2017） - 2017年5月7日 由 武器櫃 于 博丽神社例大祭14 发布的画集同人志，A4尺寸一共24页，登场人物有 纯狐、哆来咪·苏伊特、铃仙·优昙华院·因幡，分级为 一般向
+
 ## Staff
+
 ## 评论
 
 

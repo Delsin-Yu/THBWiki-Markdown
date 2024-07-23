@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人视频 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=SEKKENYA_LIVE_DOJO_2021-2022%E3%80%8E%E3%82%A2%E3%83%AB%E3%83%90%E3%83%A0%E9%81%B8%E6%8A%9C%E3%83%BB%E5%A4%A7%E4%BD%93%E5%85%A8%E9%83%A8%E3%82%84%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%9F%E3%80%8F_%EF%BC%832%E5%B0%81%E9%9D%A2.jpg" class="new" title="文件:SEKKENYA LIVE DOJO 2021-2022『アルバム選抜・大体全部やってみた』 ＃2封面.jpg">封面图片</a></td>
@@ -17,9 +18,11 @@ SEKKENYA LIVE DOJO 2021-2022『アルバム選抜・大体全部やってみた�
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://sekkenya.booth.pm/items/4276632">Booth</a></td></tr></tbody></table>
 
 
+
 ## Staff
 Mix
 : [hellnian](./hellnian.md)
+
 
 ## 评论
 

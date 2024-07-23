@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-ダイオキシンの折り本2012_SUMMER封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/c/c1/%E3%83%80%E3%82%A4%E3%82%AA%E3%82%AD%E3%82%B7%E3%83%B3%E3%81%AE%E6%8A%98%E3%82%8A%E6%9C%AC2012_SUMMER%E5%B0%81%E9%9D%A2.jpg/151px-%E3%83%80%E3%82%A4%E3%82%AA%E3%82%AD%E3%82%B7%E3%83%B3%E3%81%AE%E6%8A%98%E3%82%8A%E6%9C%AC2012_SUMMER%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="151" height="224" srcset="https://upload.thwiki.cc/thumb/c/c1/%E3%83%80%E3%82%A4%E3%82%AA%E3%82%AD%E3%82%B7%E3%83%B3%E3%81%AE%E6%8A%98%E3%82%8A%E6%9C%AC2012_SUMMER%E5%B0%81%E9%9D%A2.jpg/227px-%E3%83%80%E3%82%A4%E3%82%AA%E3%82%AD%E3%82%B7%E3%83%B3%E3%81%AE%E6%8A%98%E3%82%8A%E6%9C%AC2012_SUMMER%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/c/c1/%E3%83%80%E3%82%A4%E3%82%AA%E3%82%AD%E3%82%B7%E3%83%B3%E3%81%AE%E6%8A%98%E3%82%8A%E6%9C%AC2012_SUMMER%E5%B0%81%E9%9D%A2.jpg/303px-%E3%83%80%E3%82%A4%E3%82%AA%E3%82%AD%E3%82%B7%E3%83%B3%E3%81%AE%E6%8A%98%E3%82%8A%E6%9C%AC2012_SUMMER%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="800" data-file-height="1182"></a><div class="cover-char">角色：<a href="./琪露诺.md" title="琪露诺">琪露诺</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/29086766">https://www.pixiv.net/artworks/29086766</a></td></tr><tr><td class="label">备注</td><td colspan="2">四格漫画</td></tr></tbody></table>
 
 ダイオキシンの折り本2012 SUMMER（同人志，ダイオキシン，2012） - 2012年8月11日 由 ダイオキシン 于 Comic Market 82 发布的漫画同人志，B5尺寸一共8页，登场人物有 琪露诺、雾雨魔理沙、原创角色，分级为 一般向
+
 ## Staff
 - 大冲 (未找到链接)
+
 
 ## 评论
 

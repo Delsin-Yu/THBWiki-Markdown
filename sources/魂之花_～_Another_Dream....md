@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -34,11 +35,13 @@
 
 
 
+
 ## 基本信息
 
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">魂の花　～ Another Dream...</td></tr><tr><td><b>译名</b></td><td>魂之花 ～ Another Dream...</td></tr><tr><td><b>英文译名</b></td><td>Flower of Soul ~ Another Dream...</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 魂之花 ～ Another Dream...（曲目） - 由 ZUN 创作的官方曲目，原名 魂の花　～ Another Dream...
+
 ## 出现作品
 
 <table>
@@ -46,7 +49,9 @@
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 东方花映塚
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th09_19.mp3.md" title="文件:th09 19.mp3">th09_19.mp3</a><br><audio src="https://upload.thwiki.cc/2/20/th09_19.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>BGM\th09_19.wav</td></tr><tr><td><b>BGMForAll</b></td><td><div class="mw-collapsible mw-collapsed">
@@ -57,7 +62,9 @@
 </td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 东方花映塚
 - Music Room (未找到链接)
 
@@ -67,8 +74,11 @@
 　也许应该更强烈地偏向某一种感觉。  
 　反正，表现出这样就结束的感觉了啊，要说也有点起始感。  
 　曲子还不错吧？
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
   
  **魂の花　～ Another Dream...**  魂之花　～ Another Dream...
@@ -91,6 +101,7 @@
 - …
   - 语意未尽，让人思索。
     - 可能表示后期会有新的作品——《[东方风神录](./东方风神录.md)》。也可能表示后期会有新的弹幕对战游戏——《[东方兽王园](./东方兽王园.md)》。
+
 
 
 

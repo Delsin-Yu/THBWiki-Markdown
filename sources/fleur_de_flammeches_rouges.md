@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-fleur_de_flammeches_rouges封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/6/6e/fleur_de_flammeches_rouges%E5%B0%81%E9%9D%A2.jpg/118px-fleur_de_flammeches_rouges%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="118" height="168" srcset="https://upload.thwiki.cc/6/6e/fleur_de_flammeches_rouges%E5%B0%81%E9%9D%A2.jpg 1.5x" data-file-width="176" data-file-height="250"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></div></td>
@@ -14,9 +15,12 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/17216106">https://www.pixiv.net/artworks/17216106</a><br><a rel="nofollow" class="external free" href="http://paraffin0401.nobody.jp/">http://paraffin0401.nobody.jp/</a><br><span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><small>（<a rel="nofollow" class="external text" href="https://web.archive.org/web/20130609172643/http://paraffin0401.nobody.jp/">缓存页面</a>）</small></td></tr></tbody></table>
 
 fleur de flammeches rouges（同人志，Violet Jupiter，2011） - 2011年5月8日 由 Violet Jupiter 于 博丽神社例大祭8 发布的画集同人志，一共20页，分级为 一般向
+
 ## 预览
+
 ## Staff
 - FuLLerene (未找到链接)
+
 
 ## 评论
 

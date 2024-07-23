@@ -4,6 +4,7 @@
 
 AND_THEN_IT_PASSES | 社团LOGO
 
+
 ## 摘要
   
 源地址：[direct image link (original size)](https://yt3.googleusercontent.com/ytc/AIdro_kguXiqJeUIUo7LQaTM88WykpwSE5Nm5OWm5CcQ0O6c=s0?imgmax=0), [source page (circle Youtube logo)](https://www.youtube.com/@noisegoregrind)

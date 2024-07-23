@@ -4,6 +4,7 @@
 
 ABOD | 社团LOGO
 
+
 ## 摘要
   
 源地址：[direct image link](http://toshi2369.xxxxxxxx.jp/banner/banner.png), [source page](http://toshi2369.xxxxxxxx.jp/link.html)

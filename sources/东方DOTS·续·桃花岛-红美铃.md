@@ -164,6 +164,7 @@
 [](./文件-THD2红美铃.png.md)
   
 
+
 ## 目录
 
 - [1 角色定位](#角色定位)
@@ -184,10 +185,12 @@
 
 
 
+
 ## 角色定位
   
 耐久 - 控制 - 逃生 - 先手 - 核心
   
+
 
 ## 技能介绍
 
@@ -803,6 +806,7 @@
 </td></tr></tbody></table>
 
 
+
 ## 天赋树
 
 
@@ -841,6 +845,7 @@
 </td></tr></tbody></table>
 
 
+
 ### 出门装备
   
 [](./文件-THD2练习手套.png.md) [](./文件-THD2练习手套.png.md) [](./文件-THD2新月头饰.png.md) [](./文件-THD2木盾.png.md) [](./文件-THD2思兼生命药.png.md) [](./文件-THD2爱人卡.png.md)
@@ -851,6 +856,7 @@
 力量常用出门，当前版本木盾[](./文件-THD2木盾.png.md)上级装备加强，可以出门带一个减少线上压力，方便后面合出上级装备，对线近战活用3技能[](./文件-THD2红美铃_03.png.md)，在对方小兵较多时可以走到对方近战少女身边然后鼠标右键攻击对方少女，对方小兵会因为仇恨机制（意思就是你在对面小兵旁边发起了一个要攻击对方英雄的指令，那对方小兵能忍啊，肯定会优先过来打你）过来打你，这样可以更容易触发3技能的反击，并且因为有圆盾和3技能本身的格挡，小兵的伤害会不太明显，而对方如果还手也同样需要承受我方小兵的攻击，利用这个方法可以很容易打出血量优势，而一般的远程少女也很难打得动红美铃（前提是加3技能[](./文件-THD2红美铃_03.png.md)不加当我没说），所以线上的压力一般都不会太大
   
 
+
 ### 前期装备
   
 [](./文件-THD2格斗扫把.png.md) [](./文件-THD2博丽御币.png.md) [](./文件-THD2艾哲红石.png.md) [](./文件-THD2木盾.png.md)
@@ -858,6 +864,7 @@
   
 作为前排肉就完事了
   
+
 
 ### 核心装备
   
@@ -868,6 +875,7 @@
 
 操作上没有什么讲究，打团直接开二技能[](./文件-THD2红美铃_02.png.md)上去吃控挨揍，周围对方的人多了就开大招，感觉大招开早了对面有撤出来的可能就用逗人卡增加容错率，1技能[](./文件-THD2红美铃_01.png.md)会在位移途中把人带向位移方向，可以利用这个技能让对面上山，或者把人挪到队友好发挥的位置（还可以配合星熊勇仪直接秒杀三步必杀[](./文件-THD2星熊勇仪_04.png.md)里的人），如果感觉对手因为打不动你而刻意避开和你打架，导致你打架打不起来，可以考虑去带线强行把对手引过来，可以减少队友的压力
   
+
 
 ### 可选装备
   
@@ -880,6 +888,7 @@
   
 一般以继续撑肉为主，如果团队后面缺少输出可以选择后面两件装备
   
+
 
 ## 技能加点
 
@@ -941,6 +950,7 @@
 <td><a href="./文件-DOTA黄点.png.md" class="image" title="+2 全属性"><img alt="+2 全属性" src="https://upload.thwiki.cc/thumb/d/da/DOTA%E9%BB%84%E7%82%B9.png/40px-DOTA%E9%BB%84%E7%82%B9.png" decoding="async" loading="lazy" width="40" height="40" srcset="https://upload.thwiki.cc/thumb/d/da/DOTA%E9%BB%84%E7%82%B9.png/60px-DOTA%E9%BB%84%E7%82%B9.png 1.5x, https://upload.thwiki.cc/thumb/d/da/DOTA%E9%BB%84%E7%82%B9.png/80px-DOTA%E9%BB%84%E7%82%B9.png 2x" data-file-width="128" data-file-height="128"></a></td>
 <td><a href="./文件-THD2天赋树25右.png.md" class="image" title="猛虎内劲继承80%攻击力"><img alt="猛虎内劲继承80%攻击力" src="https://upload.thwiki.cc/thumb/5/5b/THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%8F%B3.png/40px-THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%8F%B3.png" decoding="async" loading="lazy" width="40" height="40" srcset="https://upload.thwiki.cc/thumb/5/5b/THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%8F%B3.png/60px-THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%8F%B3.png 1.5x, https://upload.thwiki.cc/thumb/5/5b/THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%8F%B3.png/80px-THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%8F%B3.png 2x" data-file-width="103" data-file-height="103"></a>
 </td></tr></tbody></table>
+
 
 
 ## 台词
@@ -1023,6 +1033,7 @@
 <br>と言（い）われましても<br>你这么说我也
 </p>
 </td></tr></tbody></table>
+
 
 
 ## 教学视频

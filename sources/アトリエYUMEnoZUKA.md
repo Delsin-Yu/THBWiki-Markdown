@@ -4,7 +4,8 @@
 
 アトリエYUMEnoZUKA ，主要制作 同人志 的日本同人社团，主催是 嘉月なを，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -21,17 +22,21 @@
 
 
 
+
 ## 社团信息
 文件:アトリエYUMEnoZUKAbanner.jpg (未找到链接)  banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> アトリエYUMEnoZUKA </td></tr><tr><td><b>主要作品类型</b></td><td>同人志</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=%E5%98%89%E6%9C%88%E3%81%AA%E3%82%92&amp;action=edit&amp;redlink=1" class="new" title="嘉月なを（页面不存在）">嘉月なを</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://yumenozuka.jp/">http://yumenozuka.jp/</a> </td></tr></tbody></table>
 
 アトリエYUMEnoZUKA（同人社团，同人志社团） - アトリエYUMEnoZUKA ，主要制作 同人志 的日本同人社团，主催是 嘉月なを，当前状态为 活动
+
 ## 成员名单
 - 嘉月なを (未找到链接)
 - 鬼頭りん (未找到链接)
 
+
 ## 作品列表
+
 ### 同人志
 華劇10月号 封面图片 (未找到链接)華劇10月号 (未找到链接)首发日期：未知 - Intermedio 封面图片 (未找到链接)Intermedio (未找到链接)首发日期：未知 - 華劇3月号 封面图片 (未找到链接)華劇3月号 (未找到链接)首发日期：未知 - さかさまことばの不思議な魔法 封面图片 (未找到链接)さかさまことばの不思議な魔法 (未找到链接)首发日期：未知 - 消えた秘密のさがしもの 封面图片 (未找到链接)消えた秘密のさがしもの (未找到链接)首发日期：未知 - 帰る日を待つこもりうた 封面图片 (未找到链接)帰る日を待つこもりうた (未找到链接)首发日期：未知 - 粗食のススメ 封面图片 (未找到链接)粗食のススメ (未找到链接)首发日期：未知 - 色葉書 封面图片 (未找到链接)色葉書 (未找到链接)首发日期：未知 - 色葉書弐 封面图片 (未找到链接)色葉書弐 (未找到链接)首发日期：未知 - 幻想高校生の日常1 封面图片 (未找到链接)幻想高校生の日常1 (未找到链接)首发日期：未知 - とうほう(一合) 封面图片 (未找到链接)とうほう(一合) (未找到链接)首发日期：未知 - にとりぺあ永久時計の謎 封面图片 (未找到链接)にとりぺあ永久時計の謎 (未找到链接)首发日期：未知 - ユメノヅカ・スタイル!!1 封面图片 (未找到链接)ユメノヅカ・スタイル!!1 (未找到链接)首发日期：未知 - ユメノヅカ・スタイル!!2 封面图片 (未找到链接)ユメノヅカ・スタイル!!2 (未找到链接)首发日期：未知 - ユメノヅカ・スタイル!!3 封面图片 (未找到链接)ユメノヅカ・スタイル!!3 (未找到链接)首发日期：未知 - ユメノヅカ・スタイル!!4 封面图片 (未找到链接)ユメノヅカ・スタイル!!4 (未找到链接)首发日期：未知 - ユメノヅカ・スタイル!!5 封面图片 (未找到链接)ユメノヅカ・スタイル!!5 (未找到链接)首发日期：未知 - おむすびぬくめますか 封面图片 (未找到链接)おむすびぬくめますか (未找到链接)首发日期：未知 - イヌ科東方 封面图片 (未找到链接)イヌ科東方 (未找到链接)首发日期：未知 - ニトリペア永久時計の謎 封面图片 (未找到链接)ニトリペア永久時計の謎 (未找到链接)首发日期：未知 - 
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -56,10 +61,12 @@
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458"></table>
 
 
+
 ### 同人专辑
 [](./東方CD_-兎のカリスマ談合殺人事件-.md)[東方CD -兎のカリスマ談合殺人事件-](./東方CD_-兎のカリスマ談合殺人事件-.md)首发日期：2016-10-09 （東方紅楼夢12 (未找到链接)）YCAC-0001配音作品 （一般向）
 <table><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 参展信息

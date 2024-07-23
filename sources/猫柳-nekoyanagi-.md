@@ -4,7 +4,8 @@
 
 猫柳-nekoyanagi- ，主要制作 同人音乐 的日本同人社团，主催是 紅月ゆう，当前状态为 休止
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -21,18 +22,22 @@
 
 
 
+
 ## 社团信息
 [](./文件-猫柳-nekoyanagi-banner.png.md)  [](./文件-猫柳-nekoyanagi-banner.png.md)Banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> 猫柳-nekoyanagi- </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=%E7%B4%85%E6%9C%88%E3%82%86%E3%81%86&amp;action=edit&amp;redlink=1" class="new" title="紅月ゆう（页面不存在）">紅月ゆう</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://www.nekoyanagi-os.net/">http://www.nekoyanagi-os.net/</a> <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span></td></tr></tbody></table>
 
 猫柳-nekoyanagi-（同人社团，同人音乐社团） - 猫柳-nekoyanagi- ，主要制作 同人音乐 的日本同人社团，主催是 紅月ゆう，当前状态为 休止
+
 ## 成员名单
 - 紅月ゆう (未找到链接)
   - [Twitter：@yuu_495](https://twitter.com/yuu_495)，[SoundCloud](https://soundcloud.com/akatsuki-yuu)，[NicoNico動画](https://www.nicovideo.jp/user/12523953)
 
 
+
 ## 作品列表
+
 ### 同人专辑
 [](./東方詠紅符_～The_Scarlet_Desire～.md)[東方詠紅符 ～The Scarlet Desire～](./東方詠紅符_～The_Scarlet_Desire～.md)首发日期：2012-12-30 （Comic Market 83 (未找到链接)）NYCD-0001全长 （一般向）[](./東方妖光符_～Fate_of_The_Cherry_Blossom～.md)[東方妖光符 ～Fate of The Cherry Blossom～](./東方妖光符_～Fate_of_The_Cherry_Blossom～.md)首发日期：2013-08-12 （Comic Market 84 (未找到链接)）NYCD-0002全长 （一般向）[](./紅白昼夢.md)[紅白昼夢](./紅白昼夢.md)首发日期：2013-10-27 （M3-2013秋 (未找到链接)）NYCD-0003全长 （一般向）[](./東方永想符_～Feelings_of_Eternity～.md)[東方永想符 ～Feelings of Eternity～](./東方永想符_～Feelings_of_Eternity～.md)首发日期：2013-12-30 （Comic Market 85 (未找到链接)）NYCD-0004全长 （一般向）[](./唐傘連判娘.md)[唐傘連判娘](./唐傘連判娘.md)首发日期：2014-05-11 （第十一回 博麗神社例大祭 (未找到链接)）NYCD0005全长 （一般向）[](./紅雨.md)[紅雨](./紅雨.md)首发日期：2014-12-29 （Comic Market 87 (未找到链接)）NYCD0006全长 （一般向）東方天つ風 -Tomorrow is another day- 封面图片 (未找到链接)[東方天つ風 -Tomorrow is another day-](./東方天つ風_-Tomorrow_is_another_day-.md)首发日期：2015-05-10 （第十二回 博麗神社例大祭 (未找到链接)）全长 （一般向）
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -51,9 +56,11 @@
 </table>
 
 
+
 ## 参展信息
 
 <table><tbody><tr><th class="活动页面">活动页面</th><th class="活动名称">活动名称</th><th class="日期">日期</th><th class="举办地点">举办地点</th><th class="摊位编号">摊位编号</th><th class="宣传页面">宣传页面</th><th class="备注">备注</th></tr><tr data-row-number="1" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#12" title="博丽神社例大祭">博丽神社例大祭#12</a></span></td><td class="活动名称 smwtype_txt">第十二回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2457152.5">2015-05-10</td><td class="举办地点 smwtype_txt">东京Big Sight 东123456展厅</td><td class="摊位编号 smwtype_txt">う50b</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="2" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#11" title="博丽神社例大祭">博丽神社例大祭#11</a></span></td><td class="活动名称 smwtype_txt">第十一回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2456788.5">2014-05-11</td><td class="举办地点 smwtype_txt">东京Big Sight 东123456展厅</td><td class="摊位编号 smwtype_txt">え09b</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr></tbody></table>
+
 
 
 ## 其他信息

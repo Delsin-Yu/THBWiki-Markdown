@@ -41,14 +41,17 @@
 - 本词条内容为官方漫画 **东方儚月抄 ～ Silent Sinner in Blue.** 的剧情对话文字版。
 - 观看在线漫画请点击[这里](https://bbs.nyasama.com/forum.php?mod=viewthread&amp;tid=465895)。
 
+
 ## P1
 
 <table><tbody><tr class="tt-status-header" id="P1-1" data-pos="&#91;&quot;P1&quot;,1&#93;"><td class="tt-s" lang="zh"><div class="poem"></div></td><td colspan="2" class="tt-status" lang="zh"><div class="poem"><a href="./博丽神社.md" title="博丽神社">博丽神社</a><br><a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>手持御币，闭着眼睛，口中念着咒语</div></td></tr></tbody></table>
 
 
+
 ## P2
 
 <table><tbody><tr class="tt-header" id="P2-1" data-pos="&#91;&quot;P2&quot;,1&#93;"><td id="" class="tt-h" lang="zh"><div class="poem"></div></td><td class="tt-ja" lang="ja"><div class="poem"><big><ruby lang="ja"><rb>東</rb><rp> (</rp><rt>とう</rt><rp>) </rp></ruby><ruby lang="ja"><rb>方</rb><rp> (</rp><rt>ほう</rt><rp>) </rp></ruby><ruby lang="ja"><rb>儚</rb><rp> (</rp><rt>ぼう</rt><rp>) </rp></ruby><ruby lang="ja"><rb>月</rb><rp> (</rp><rt>げつ</rt><rp>) </rp></ruby><ruby lang="ja"><rb>抄</rb><rp> (</rp><rt>しょう</rt><rp>) </rp></ruby></big><br>Silent Sinner in Blue.</div></td><td class="tt-zh" lang="zh"><div class="poem"><big>东方儚月抄</big><br>Silent Sinner in Blue.</div></td></tr><tr class="tt-header" id="P2-2" data-pos="&#91;&quot;P2&quot;,2&#93;"><td id="" class="tt-h" lang="zh"><div class="poem"></div></td><td class="tt-ja" lang="ja"><div class="poem">第六話『三神式月ロケット』</div></td><td class="tt-zh" lang="zh"><div class="poem">第六话『三神型登月火箭』</div></td></tr><tr class="tt-narrator" id="P2-3" data-pos="&#91;&quot;P2&quot;,3&#93;"><td id="" class="tt-narrator" lang="zh"><div class="poem"></div></td><td class="tt-ja" lang="ja"><div class="poem"></div></td><td class="tt-zh" lang="zh"><div class="poem">平日里懒散的巫女 此时却是精神勃发准备顺利！</div></td></tr><tr class="tt-status-header" id="P2-4" data-pos="&#91;&quot;P2&quot;,4&#93;"><td class="tt-s" lang="zh"><div class="poem"></div></td><td colspan="2" class="tt-status" lang="zh"><div class="poem">原作：ZUN　漫画：秋☆枝</div></td></tr></tbody></table>
+
 
 
 ## P3

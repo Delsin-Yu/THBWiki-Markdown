@@ -4,6 +4,7 @@
 
 とーなるぐらびてぃ | 社团LOGO
 
+
 ## 摘要
   
 源地址：[direct image link](https://web.archive.org/web/20111020223235im_/http://tonalgravity.net/images/banner/bana1.jpg), [source page](https://web.archive.org/web/20111026084111/http://www.tonalgravity.net/) (in the link section)

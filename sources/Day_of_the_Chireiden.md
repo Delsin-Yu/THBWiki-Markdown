@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Day_of_the_Chireiden封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/b/b4/Day_of_the_Chireiden%E5%B0%81%E9%9D%A2.jpg/119px-Day_of_the_Chireiden%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="119" height="168" srcset="https://upload.thwiki.cc/thumb/b/b4/Day_of_the_Chireiden%E5%B0%81%E9%9D%A2.jpg/178px-Day_of_the_Chireiden%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/b/b4/Day_of_the_Chireiden%E5%B0%81%E9%9D%A2.jpg/238px-Day_of_the_Chireiden%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="752" data-file-height="1062"></a><div class="cover-char">角色：<a href="./古明地觉.md" title="古明地觉">古明地觉</a></div></td>
@@ -14,9 +15,11 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=27497267">https://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=27497267</a></td></tr></tbody></table>
 
 Day of the Chireiden（同人志，もいすちゃー，2012） - 2012年5月27日 由 もいすちゃー 于 博丽神社例大祭9 发布的漫画同人志，B5尺寸一共24页，分级为 一般向
+
 ## Staff
 - めたぼ (未找到链接)
 - マイク (未找到链接)
+
 
 ## 评论
 

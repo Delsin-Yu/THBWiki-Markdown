@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Glisten_Jewelry_box封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/6/6f/Glisten_Jewelry_box%E5%B0%81%E9%9D%A2.png/139px-Glisten_Jewelry_box%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="139" height="196" srcset="https://upload.thwiki.cc/thumb/6/6f/Glisten_Jewelry_box%E5%B0%81%E9%9D%A2.png/208px-Glisten_Jewelry_box%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/6/6f/Glisten_Jewelry_box%E5%B0%81%E9%9D%A2.png/277px-Glisten_Jewelry_box%E5%B0%81%E9%9D%A2.png 2x" data-file-width="2508" data-file-height="3541"></a><div class="cover-char">角色：<a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a></div></td>
@@ -16,6 +17,7 @@
 Glisten Jewelry box（同人志，ZINFANDEL，2019） - 2019年10月6日 由 ZINFANDEL 于 博丽神社秋季例大祭6 发布的画集/合同志同人志，B5尺寸一共34页，分级为 一般向
 
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=568281">蜜瓜通常版</a>，<a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=573054">蜜瓜电子版</a></td></tr></tbody></table>
+
 
 
 ## Staff
@@ -33,6 +35,7 @@ Glisten Jewelry box（同人志，ZINFANDEL，2019） - 2019年10月6日 由 ZIN
 - ルヒカ (未找到链接)
 - 魅未 (未找到链接)
 - [くれ～ぷ](./くれ～ぷ.md)
+
 
 ## 评论
 

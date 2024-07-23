@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **相关实体周边 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 周边信息](#周边信息)
@@ -22,6 +23,7 @@
 
 
 
+
 ## 周边信息
 
 <table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> オリジナルTシャツ </td></tr><tr><td class="label">译名</td><td> 原创T恤 </td></tr><tr><td class="label">系列</td><td> Everlasting </td></tr><tr><td class="label">制作方</td><td><a href="./CielArc.md" title="CielArc">CielArc</a></td></tr><tr><td class="label">首发日期</td><td>2018-08-10&#160;（<a href="/展会作品列表?e=Comic+Market%2394">Comic Market 94</a>）</td></tr><tr><td class="label">类型</td><td>衣服</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>S/M/L/XL</td></tr><tr><td class="label">材质</td><td>布</td></tr><tr><td class="label">角色</td><td><a href="./古明地恋.md" title="古明地恋">古明地恋</a></td></tr><tr><td class="label">售价</td><td>3000日元</td></tr>
@@ -29,16 +31,21 @@
 购入T恤的顾客，还可免费获赠<a href="./古明地恋.md" title="古明地恋">恋恋</a>贴纸（赠完即止）</td></tr></tbody></table>
 
 CielArc/Everlasting/オリジナルＴシャツ（周边，CielArc，2018） - 2018年8月10日 由 CielArc 于 Comic Market 94 发布的衣服周边，分级为 一般向
+
 ## 参考图片
+
 ### 预览图
 - [](./文件-CielArc／Everlasting／オリジナルＴシャツ预览图1.jpg.md)
+
 
 ### 附赠贴纸预览图
 - [](./文件-CielArc／Everlasting／オリジナルＴシャツ附赠贴纸预览图1.png.md)
 
+
 ## Staff
 Back Illustration
 : ZYANNA (未找到链接)
+
 
 ## 评论
 

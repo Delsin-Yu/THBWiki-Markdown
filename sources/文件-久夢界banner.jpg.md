@@ -4,6 +4,7 @@
 
 久夢界 | 社团LOGO
 
+
 ## 摘要
   
 源地址：[direct image link (original size)](https://i.imgur.com/mWLwiQY.jpg), [source page](https://web.archive.org/web/20160618050109/http://90idream.blog.fc2.com/)

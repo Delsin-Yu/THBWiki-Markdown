@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E6%9C%88%E8%AA%BF%EF%BD%9Eprv%E7%89%88%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg" class="new" title="文件:月調～prv版～封面.jpg">封面图片</a><div class="cover-char">角色：<a href="./宇佐见莲子.md" title="宇佐见莲子">宇佐见莲子</a>，<a href="./玛艾露贝莉·赫恩.md" title="玛艾露贝莉·赫恩">玛艾露贝莉·赫恩</a></div></td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/yuyu_mnf/status/1077571848357916672">https://twitter.com/yuyu_mnf/status/1077571848357916672</a></td></tr></tbody></table>
 
 月調～prv版～（同人专辑，MidNight Note，2018） - 2018年12月30日 由 MidNight Note 于 Comic Market 95 发布的单曲/Demo同人专辑，曲目主要风格是 古典、其他，内容以 秘封俱乐部为题材，分级为 一般向
+
 ## Staff
   
  **Arrangement**   
@@ -24,14 +26,17 @@
 Illustration
 : 千鳥ねころ （[ねころ流星群](./ねころ流星群.md)）
 
+
 ## 试听
   
 [Twitter preview](https://twitter.com/yuyu_mnf/status/1077571848357916672)
   
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="月夜の内緒話" colspan="2" class="title">月夜の内緒話<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=ゆーゆ＠&amp;ogmusic=少女秘封倶楽部&amp;fromwiki=月調～prv版～"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E3%82%86%E3%83%BC%E3%82%86%EF%BC%A0&amp;action=edit&amp;redlink=1" class="new" title="ゆーゆ＠（页面不存在）">ゆーゆ＠</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，ゆーゆ＠&amp;fromwiki=月調～prv版～"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=少女秘封倶楽部&amp;fromwiki=月調～prv版～"><span></span></a></span><div class="ogmusic"><a href="/%E5%B0%91%E5%A5%B3%E7%A7%98%E5%B0%81%E5%80%B6%E6%A5%BD%E9%83%A8" class="mw-redirect" title="少女秘封倶楽部">少女秘封倶楽部</a></div><div class="source"><a href="/%E8%8E%B2%E5%8F%B0%E9%87%8E%E5%A4%9C%E8%A1%8C_%EF%BD%9E_Ghostly_Field_Club." class="mw-redirect" title="莲台野夜行 ～ Ghostly Field Club.">莲台野夜行　～ Ghostly Field Club.</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="月夜の内緒話" colspan="2" class="title">月夜の内緒話<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=ゆーゆ＠&amp;ogmusic=少女秘封倶楽部&amp;fromwiki=月調～prv版～"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E3%82%86%E3%83%BC%E3%82%86%EF%BC%A0&amp;action=edit&amp;redlink=1" class="new" title="ゆーゆ＠（页面不存在）">ゆーゆ＠</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，ゆーゆ＠&amp;fromwiki=月調～prv版～"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=少女秘封倶楽部&amp;fromwiki=月調～prv版～"><span></span></a></span><div class="ogmusic"><a href="./少女秘封倶楽部.md" class="mw-redirect" title="少女秘封倶楽部">少女秘封倶楽部</a></div><div class="source"><a href="./莲台野夜行_～_Ghostly_Field_Club..md" class="mw-redirect" title="莲台野夜行 ～ Ghostly Field Club.">莲台野夜行　～ Ghostly Field Club.</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

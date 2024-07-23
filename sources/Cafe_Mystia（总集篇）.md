@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Cafe_Mystia（总集篇）封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/b/b4/Cafe_Mystia%EF%BC%88%E6%80%BB%E9%9B%86%E7%AF%87%EF%BC%89%E5%B0%81%E9%9D%A2.png/158px-Cafe_Mystia%EF%BC%88%E6%80%BB%E9%9B%86%E7%AF%87%EF%BC%89%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="158" height="224" srcset="https://upload.thwiki.cc/thumb/b/b4/Cafe_Mystia%EF%BC%88%E6%80%BB%E9%9B%86%E7%AF%87%EF%BC%89%E5%B0%81%E9%9D%A2.png/237px-Cafe_Mystia%EF%BC%88%E6%80%BB%E9%9B%86%E7%AF%87%EF%BC%89%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/b/b4/Cafe_Mystia%EF%BC%88%E6%80%BB%E9%9B%86%E7%AF%87%EF%BC%89%E5%B0%81%E9%9D%A2.png/317px-Cafe_Mystia%EF%BC%88%E6%80%BB%E9%9B%86%E7%AF%87%EF%BC%89%E5%B0%81%E9%9D%A2.png 2x" data-file-width="1240" data-file-height="1754"></a><div class="cover-char">角色：<a href="./无名的读书妖怪.md" title="无名的读书妖怪">朱鹭子</a>，<a href="./米斯蒂娅·萝蕾拉.md" title="米斯蒂娅·萝蕾拉">米斯蒂娅·萝蕾拉</a></div></td>
@@ -14,7 +15,9 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/65246117">https://www.pixiv.net/artworks/65246117</a></td></tr></tbody></table>
 
 Cafe Mystia（总集篇）（同人志，肉食獣×2，2017） - 2017年10月15日 由 肉食獣×2 于 博丽神社秋季例大祭4 发布的总集/漫画同人志，B5尺寸一共68页，登场人物有 朱鹭子、米斯蒂娅·萝蕾拉，分级为 一般向
+
 ## 预览
+
 ## 收录作品
 - [cafe Mystia](./cafe_Mystia.md)
 - [cafe Mystia-2](./cafe_Mystia-2.md)
@@ -23,8 +26,10 @@ Cafe Mystia（总集篇）（同人志，肉食獣×2，2017） - 2017年10月15
 +其他作品
   
 
+
 ## Staff
 - 虎太郎 (未找到链接)
+
 
 ## 评论
 
@@ -33,6 +38,7 @@ Cafe Mystia（总集篇）（同人志，肉食獣×2，2017） - 2017年10月15
 
 描き直したページが多数あるので、コピーのときよりも見やすくなっていると思います。
   
+
 
 
 ## 其他链接

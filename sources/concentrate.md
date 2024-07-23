@@ -18,6 +18,7 @@
 
 
 </center>
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-concentrate封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/c/cb/concentrate%E5%B0%81%E9%9D%A2.jpg/224px-concentrate%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="224" srcset="https://upload.thwiki.cc/thumb/c/cb/concentrate%E5%B0%81%E9%9D%A2.jpg/336px-concentrate%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/c/cb/concentrate%E5%B0%81%E9%9D%A2.jpg/448px-concentrate%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="2048" data-file-height="2048"></a><div class="cover-char">角色：<a href="./琪露诺.md" title="琪露诺">琪露诺</a>，<a href="./大妖精.md" title="大妖精">大妖精</a></div></td>
@@ -26,6 +27,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/Phi_8810/status/1077549448866103301">https://twitter.com/Phi_8810/status/1077549448866103301</a></td></tr><tr><td class="label">备注</td><td colspan="2">東方×けもフレ</td></tr></tbody></table>
 
 concentrate（同人专辑，Evolution Tunes，2018） - 2018年12月30日 由 Evolution Tunes 于 Comic Market 95 发布的全长同人专辑，曲目主要风格是 Dance、Eurobeat，分级为 一般向
+
 ## Staff
   
  **Compose**   
@@ -36,11 +38,13 @@ concentrate（同人专辑，Evolution Tunes，2018） - 2018年12月30日 由 E
 Illustration
 : kujira137 （[Evolution Tunes](./Evolution_Tunes.md)）
 
+
 ## 试听
   
 <iframe width="100%" height="180" src="https://ext.nicovideo.jp/thumb/sm34375095" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/watch/sm34375095">,</a></iframe>
 
   
+
 
 ## 曲目列表
   
@@ -54,6 +58,7 @@ Illustration
 <tr><td id="3" class="infoYL"><b>03</b></td><td id="concentrate" colspan="2" class="title">concentrate<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Φhi&amp;fromwiki=concentrate"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=%CE%A6hi&amp;action=edit&amp;redlink=1" class="new" title="Φhi（页面不存在）">Φhi</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Φhi&amp;fromwiki=concentrate"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">Tr.6</td></tr>
 <tr><td id="4" class="infoYL"><b>04</b></td><td id="blood_haze" colspan="2" class="title">blood haze<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Φhi&amp;fromwiki=concentrate"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=%CE%A6hi&amp;action=edit&amp;redlink=1" class="new" title="Φhi（页面不存在）">Φhi</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Φhi&amp;fromwiki=concentrate"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">Tr.8</td></tr>
 <tr><td id="5" class="infoYL"><b>05</b></td><td id="冬ノ鬼灯" colspan="2" class="title">冬ノ鬼灯<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Φhi&amp;fromwiki=concentrate"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=%CE%A6hi&amp;action=edit&amp;redlink=1" class="new" title="Φhi（页面不存在）">Φhi</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Φhi&amp;fromwiki=concentrate"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">Tr数不明</td></tr></tbody></table>
+
 
 
 ## 评论

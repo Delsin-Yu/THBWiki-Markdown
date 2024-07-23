@@ -164,6 +164,7 @@
 [](./文件-THD2帕秋莉·诺蕾姬.png.md)
   
 
+
 ## 目录
 
 - [1 角色定位](#角色定位)
@@ -184,10 +185,12 @@
 
 
 
+
 ## 角色定位
   
 核心 - 爆发 - 先手 - 控制
   
+
 
 ## 技能介绍
 
@@ -2677,6 +2680,7 @@
 </td></tr></tbody></table>
 
 
+
 ## 天赋树
 
 
@@ -2715,6 +2719,7 @@
 </td></tr></tbody></table>
 
 
+
 ## 玩法参考
 
 <table>
@@ -2744,10 +2749,12 @@ EERWER1(2)FFRWDRFREDRWWREFRQRQERQWRQDRQQRDDRWFR
   
  （由“3倍I★SCREAM”提供）
   
+
 ## 技能加点
   
 姆Q常见加点流派 （由“3倍I★SCREAM”提供）
   
+
 
 ### 主金流
 ```
@@ -2809,6 +2816,7 @@ EERWER1(2)FFRWDRFREDRWWREFRQRQERQWRQDRQQRDDRWFR
 
   
 
+
 ### 以火转金流
 ```
  以火转金流：也就是所谓的火系帕秋莉≈火卡（和火卡不同的是，你点火没有天火）多常用于中单姆Q的加点。不同于前面的主金流，火卡一般出山时间为20min多左右 也就是说以多刷为主，如果无法保证前期队友野区打架能拿到头，建议不要去帮忙，以稳定自己节奏为中心，20min后让队友以你为中心带领团队打架。  
@@ -2836,6 +2844,7 @@ EERWER1(2)FFRWDRFREDRWWREFRQRQERQWRQDRQQRDDRWFR
 </td></tr></tbody></table>
 
 
+
 ### 土木水工程流
 
 <table>
@@ -2848,6 +2857,7 @@ EERWER1(2)FFRWDRFREDRWWREFRQRQERQWRQDRQQRDDRWFR
 <pre> 土木水工程流:不学火金，全程当工具人。前中期有长时间加速，高等级回蓝回血，还有长时间控制，除了输出什么都能干的工具人。加点方面水木土混着点就行，你想怎么点怎么点（这个我实战也没玩过，只是见到以前有个这么点的，感觉作用也不低，所以干脆写进来了）。
 </pre>
 </td></tr></tbody></table>
+
 
 
 ## 台词
@@ -2933,6 +2943,7 @@ EERWER1(2)FFRWDRFREDRWWREFRQRQERQWRQDRQQRDDRWFR
 </td>
 <td>
 </td></tr></tbody></table>
+
 
 
 ## 教学视频

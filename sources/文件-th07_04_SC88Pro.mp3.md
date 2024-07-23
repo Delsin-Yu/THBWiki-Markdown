@@ -4,6 +4,7 @@
 
 东方妖妖梦 | 远野幻想物语
 
+
 ## 文件说明
   
 遠野幻想物語 东方妖妖梦2面道中曲MIDI版。由Roland Sound Canvas 88Pro实机录制；MP3采样率44.1KHz，码率192Kbps。  

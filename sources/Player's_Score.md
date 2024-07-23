@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -45,11 +46,13 @@
 
 
 
+
 ## 基本信息
 
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">プレイヤーズスコア</td></tr><tr><td><b>译名</b></td><td>Player&#39;s Score</td></tr><tr><td><b>其他译名</b></td><td>玩家得分<br>玩家的分数</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>再编</td></tr><tr><td style="padding-left:15px"><b>原曲</b></td><td><a href="./神圣庄严的古战场_～_Suwa_Foughten_Field.md" title="神圣庄严的古战场 ～ Suwa Foughten Field" unred="">神さびた古戦場　～ Suwa Foughten Field</a></td></tr><tr><td style="padding-left:15px"><b>　来源</b></td><td>东方风神录　～ Mountain of Faith.</td></tr></tbody></table>
 
 Player's Score（曲目） - 由 ZUN 创作的官方曲目，原名 プレイヤーズスコア
+
 ## 出现作品
 
 <table>
@@ -76,7 +79,9 @@ Player's Score（曲目） - 由 ZUN 创作的官方曲目，原名 プレイヤ
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 东方风神录
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th10_18.mp3.md" title="文件:th10 18.mp3">th10_18.mp3</a><br><audio src="https://upload.thwiki.cc/5/59/th10_18.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>BGM\th10_18.wav</td></tr><tr><td><b>BGMForAll</b></td><td><div class="mw-collapsible mw-collapsed">
@@ -85,6 +90,7 @@ Player's Score（曲目） - 由 ZUN 创作的官方曲目，原名 プレイヤ
 <div class="mw-collapsible-content">BGM = プレイヤーズスコア, 0x17AA7A74, 0x1CACC8, 0x17C7273C, 0x4A2FF8</div>
 </div>
 </td></tr></tbody></table>
+
 
 
 ### 东方地灵殿
@@ -97,6 +103,7 @@ Player's Score（曲目） - 由 ZUN 创作的官方曲目，原名 プレイヤ
 </td></tr></tbody></table>
 
 
+
 ### 东方星莲船
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th12_18.mp3.md" title="文件:th12 18.mp3">th12_18.mp3</a><br><audio src="https://upload.thwiki.cc/5/52/th12_18.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>BGM\th12_18.wav</td></tr><tr><td><b>BGMForAll</b></td><td><div class="mw-collapsible mw-collapsed">
@@ -105,6 +112,7 @@ Player's Score（曲目） - 由 ZUN 创作的官方曲目，原名 プレイヤ
 <div class="mw-collapsible-content">BGM = プレイヤーズスコア, 0x17F761A8, 0x1CACC8, 0x18140E70, 0x4A2FF8</div>
 </div>
 </td></tr></tbody></table>
+
 
 
 ### 妖精大战争
@@ -117,6 +125,7 @@ Player's Score（曲目） - 由 ZUN 创作的官方曲目，原名 プレイヤ
 </td></tr></tbody></table>
 
 
+
 ### 东方神灵庙
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th13_18.mp3.md" title="文件:th13 18.mp3">th13_18.mp3</a><br><audio src="https://upload.thwiki.cc/a/a6/th13_18.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>BGM\th13_18.wav</td></tr><tr><td><b>BGMForAll</b></td><td><div class="mw-collapsible mw-collapsed">
@@ -125,6 +134,7 @@ Player's Score（曲目） - 由 ZUN 创作的官方曲目，原名 プレイヤ
 <div class="mw-collapsible-content">BGM = プレイヤーズスコア, 0x1CECC2D8, 0x1CACC8, 0x1D096FA0, 0x4A2FF8</div>
 </div>
 </td></tr></tbody></table>
+
 
 
 ### 东方辉针城
@@ -137,6 +147,7 @@ Player's Score（曲目） - 由 ZUN 创作的官方曲目，原名 プレイヤ
 </td></tr></tbody></table>
 
 
+
 ### 弹幕天邪鬼
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th14.3_10.mp3.md" title="文件:th14.3 10.mp3">th14.3_10.mp3</a><br><audio src="https://upload.thwiki.cc/1/1e/th14.3_10.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>BGM\th14.3_10.wav</td></tr><tr><td><b>BGMForAll</b></td><td><div class="mw-collapsible mw-collapsed">
@@ -145,6 +156,7 @@ Player's Score（曲目） - 由 ZUN 创作的官方曲目，原名 プレイヤ
 <div class="mw-collapsible-content">BGM = プレイヤーズスコア, 0xBB86748, 0x1CACC8, 0xBD51410, 0x4A2FF8</div>
 </div>
 </td></tr></tbody></table>
+
 
 
 ### 东方绀珠传
@@ -157,6 +169,7 @@ Player's Score（曲目） - 由 ZUN 创作的官方曲目，原名 プレイヤ
 </td></tr></tbody></table>
 
 
+
 ### 东方天空璋
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th16_18.mp3.md" title="文件:th16 18.mp3">th16_18.mp3</a><br><audio src="https://upload.thwiki.cc/5/52/th16_18.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>BGM\th16_18.wav</td></tr><tr><td><b>BGMForAll</b></td><td><div class="mw-collapsible mw-collapsed">
@@ -165,6 +178,7 @@ Player's Score（曲目） - 由 ZUN 创作的官方曲目，原名 プレイヤ
 <div class="mw-collapsible-content">BGM = プレイヤーズスコア, 0x16C6ED2C, 0x1CACC8, 0x16E399F4, 0x4A2FF8</div>
 </div>
 </td></tr></tbody></table>
+
 
 
 ### 东方鬼形兽
@@ -177,6 +191,7 @@ Player's Score（曲目） - 由 ZUN 创作的官方曲目，原名 プレイヤ
 </td></tr></tbody></table>
 
 
+
 ### 东方虹龙洞
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th18_18.mp3.md" title="文件:th18 18.mp3">th18_18.mp3</a><br><audio src="https://upload.thwiki.cc/b/bf/th18_18.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>BGM\th18_18.wav</td></tr><tr><td><b>BGMForAll</b></td><td><div class="mw-collapsible mw-collapsed">
@@ -187,7 +202,9 @@ Player's Score（曲目） - 由 ZUN 创作的官方曲目，原名 プレイヤ
 </td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 东方风神录
 - Music Room (未找到链接)
 
@@ -197,14 +214,18 @@ Player's Score（曲目） - 由 ZUN 创作的官方曲目，原名 プレイヤ
 　哎呀不可思议，竟然觉得更加寂寥了。  
   
 　为啥呢？
+
 ### 妖精大战争
 - Music Room (未找到链接)
 
 　记分画面的主题曲。  
   
 　这首也借着游戏弄得轻快了点。
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
 -  **Player's Score** 
 
@@ -216,6 +237,7 @@ Player's Score（曲目） - 由 ZUN 创作的官方曲目，原名 プレイヤ
 -  **第二版本** 从妖精大战争开始一直使用至今。
 
 : 特殊的，虽然从风神录起几乎每一作都收录并使用了此曲，但仅有风神录和妖精大战争在Music Room中提供收听并撰写了评论。
+
 
 ### 二次同人数据
 

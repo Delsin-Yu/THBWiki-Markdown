@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-幻想少女住居考-Fantasy_Maidens_Residence_Report-封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/2/2a/%E5%B9%BB%E6%83%B3%E5%B0%91%E5%A5%B3%E4%BD%8F%E5%B1%85%E8%80%83-Fantasy_Maidens_Residence_Report-%E5%B0%81%E9%9D%A2.jpg/196px-%E5%B9%BB%E6%83%B3%E5%B0%91%E5%A5%B3%E4%BD%8F%E5%B1%85%E8%80%83-Fantasy_Maidens_Residence_Report-%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="196" height="100" srcset="https://upload.thwiki.cc/thumb/2/2a/%E5%B9%BB%E6%83%B3%E5%B0%91%E5%A5%B3%E4%BD%8F%E5%B1%85%E8%80%83-Fantasy_Maidens_Residence_Report-%E5%B0%81%E9%9D%A2.jpg/294px-%E5%B9%BB%E6%83%B3%E5%B0%91%E5%A5%B3%E4%BD%8F%E5%B1%85%E8%80%83-Fantasy_Maidens_Residence_Report-%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/2/2a/%E5%B9%BB%E6%83%B3%E5%B0%91%E5%A5%B3%E4%BD%8F%E5%B1%85%E8%80%83-Fantasy_Maidens_Residence_Report-%E5%B0%81%E9%9D%A2.jpg/392px-%E5%B9%BB%E6%83%B3%E5%B0%91%E5%A5%B3%E4%BD%8F%E5%B1%85%E8%80%83-Fantasy_Maidens_Residence_Report-%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="4096" data-file-height="2082"></a><div class="cover-char">角色：<a href="/index.php?title=%E5%8E%9F%E5%88%9B%E8%A7%92%E8%89%B2&amp;action=edit&amp;redlink=1" class="new" title="原创角色（页面不存在）">原创角色</a>，<a href="./上白泽慧音.md" title="上白泽慧音">上白泽慧音</a></div></td>
@@ -18,7 +19,9 @@
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://silver81106.booth.pm/items/5223681">Booth</a></td></tr></tbody></table>
 
 
+
 ## 预览
+
 ## Staff
 Participants
 : 児屋 （[あとりえ四季](./あとりえ四季.md)）
@@ -38,6 +41,7 @@ Cover Design
 Arrangement
 : [秋晴](./秋晴.md) （[Traumerei Fabrik](./Traumerei_Fabrik.md)）
 
+
 ## PV
 
 <table>
@@ -48,6 +52,7 @@ Arrangement
 <tr>
 <td><iframe width="560" height="315" src="//www.youtube-nocookie.com/embed/UPjY7E85NzM?" frameborder="0" allowfullscreen=""></iframe>
 </td></tr></tbody></table>
+
 
 
 ## 合同志纪念曲
@@ -63,7 +68,8 @@ Arrangement
 
 
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="幻想の郷に雲は流れて" colspan="2" class="title">幻想の郷に雲は流れて<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=秋晴&amp;ogmusic=二色蓮花蝶　～ Red and White&amp;fromwiki=幻想少女住居考-Fantasy_Maidens_Residence_Report-"><span title="搜索相似同人曲"></span></a></span></td><td class="time">02:58</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./秋晴.md" title="秋晴">秋晴</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，秋晴&amp;fromwiki=幻想少女住居考-Fantasy_Maidens_Residence_Report-"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=二色蓮花蝶　～ Red and White&amp;fromwiki=幻想少女住居考-Fantasy_Maidens_Residence_Report-"><span></span></a></span><div class="ogmusic"><a href="/%E4%BA%8C%E8%89%B2%E8%93%AE%E8%8A%B1%E8%9D%B6_%EF%BD%9E_Red_and_White" class="mw-redirect" title="二色蓮花蝶 ～ Red and White">二色蓮花蝶　～ Red and White</a></div><div class="source"><a href="/%E8%93%AC%E8%8E%B1%E4%BA%BA%E5%BD%A2_%EF%BD%9E_Dolls_in_Pseudo_Paradise" class="mw-redirect" title="蓬莱人形 ～ Dolls in Pseudo Paradise">蓬莱人形　～ Dolls in Pseudo Paradise</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="幻想の郷に雲は流れて" colspan="2" class="title">幻想の郷に雲は流れて<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=秋晴&amp;ogmusic=二色蓮花蝶　～ Red and White&amp;fromwiki=幻想少女住居考-Fantasy_Maidens_Residence_Report-"><span title="搜索相似同人曲"></span></a></span></td><td class="time">02:58</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./秋晴.md" title="秋晴">秋晴</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，秋晴&amp;fromwiki=幻想少女住居考-Fantasy_Maidens_Residence_Report-"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=二色蓮花蝶　～ Red and White&amp;fromwiki=幻想少女住居考-Fantasy_Maidens_Residence_Report-"><span></span></a></span><div class="ogmusic"><a href="./二色蓮花蝶_～_Red_and_White.md" class="mw-redirect" title="二色蓮花蝶 ～ Red and White">二色蓮花蝶　～ Red and White</a></div><div class="source"><a href="./蓬莱人形_～_Dolls_in_Pseudo_Paradise.md" class="mw-redirect" title="蓬莱人形 ～ Dolls in Pseudo Paradise">蓬莱人形　～ Dolls in Pseudo Paradise</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

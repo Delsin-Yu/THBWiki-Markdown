@@ -12,7 +12,7 @@ The_Grimoire_of_Usami | 使用了翻译表的页面 | 宇佐见的魔法书 | �
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./The_Grimoire_of_Usami-坂田合欢-中日对照.md" title="The Grimoire of Usami/坂田合欢/中日对照">坂田合欢</a>&#160;
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="/%E5%AE%87%E4%BD%90%E8%A7%81%E7%9A%84%E9%AD%94%E6%B3%95%E4%B9%A6" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a>&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="./宇佐见的魔法书.md" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a>&#160;
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">&#160;<a href="./The_Grimoire_of_Usami-霍青娥-中日对照.md" title="The Grimoire of Usami/霍青娥/中日对照">霍青娥</a>
 </td>
@@ -25,7 +25,7 @@ The_Grimoire_of_Usami | 使用了翻译表的页面 | 宇佐见的魔法书 | �
 - 翻译：fumika_zero
 
 
-<table><tbody><tr class="tt-content-header" id="=-1" data-pos="&#91;&quot;=&quot;,1&#93;"><td class="tt-jah" lang="ja"><div class="poem">毒爪「死なない殺人鬼」</div></td><td class="tt-zhh" lang="zh"><div class="poem"><a href="/%E6%AF%92%E7%88%AA%E3%80%8C%E4%B8%8D%E6%AD%BB%E6%9D%80%E4%BA%BA%E9%AC%BC%E3%80%8D" class="mw-redirect" title="毒爪「不死杀人鬼」">毒爪「不死杀人鬼」</a></div></td></tr><tr class="tt-content" id="=-2" data-pos="&#91;&quot;=&quot;,2&#93;"><td class="tt-ja" lang="ja"><div class="poem">使用者：宮古芳香</div></td><td class="tt-zh" lang="zh"><div class="poem">使用者：<a href="./宫古芳香.md" title="宫古芳香">宫古芳香</a></div></td></tr><tr class="tt-content" id="=-3" data-pos="&#91;&quot;=&quot;,3&#93;"><td class="tt-ja" lang="ja"><div class="poem">ぐぐぐ……。<br>今日は暴れても良いっって、<br>本当みたいだねぇ……。<br>こんな機会、滅多にない！<br>暴れ倒して、<br>日頃の運動不足を<br>解消してやる……ぞ！</div></td><td class="tt-zh" lang="zh"><div class="poem">哼哼哼……<br>说今天大闹一场也可以，<br>似乎是真的呢……<br>这种机会，很难得啊！<br>我要闹到精疲力尽，<br>化解平时的<br>运动不足……哦！</div></td></tr><tr class="tt-header" id="=-4" data-pos="&#91;&quot;=&quot;,4&#93;"><td colspan="2" id="鬼人正邪" class="tt-header" lang="zh"><div class="poem">鬼人正邪</div></td></tr><tr class="tt-content" id="=-5" data-pos="&#91;&quot;=&quot;,5&#93;"><td class="tt-ja" lang="ja"><div class="poem">ぎゃはは、会場が殺人鬼だらけだ。やっぱり弾幕はこうじゃなくっちゃ。</div></td><td class="tt-zh" lang="zh"><div class="poem">呀哈哈，会场来了一堆杀人鬼。果然弹幕就得这样。</div></td></tr><tr class="tt-header" id="=-6" data-pos="&#91;&quot;=&quot;,6&#93;"><td colspan="2" id="八云紫（8）" class="tt-header" lang="zh"><div class="poem">八云紫（8）</div></td></tr><tr class="tt-content" id="=-7" data-pos="&#91;&quot;=&quot;,7&#93;"><td class="tt-ja" lang="ja"><div class="poem">あの爪に引っ掻かれると猛烈な毒にやられちゃいます。それさえ無ければ美しい弾幕だと思います。</div></td><td class="tt-zh" lang="zh"><div class="poem">被那个爪子抓到的话会中剧毒。只要没了那个就是美丽的弹幕。</div></td></tr><tr class="tt-header" id="=-8" data-pos="&#91;&quot;=&quot;,8&#93;"><td colspan="2" id="宇佐见堇子" class="tt-header" lang="zh"><div class="poem">宇佐见堇子</div></td></tr><tr class="tt-content" id="=-9" data-pos="&#91;&quot;=&quot;,9&#93;"><td class="tt-ja" lang="ja"><div class="poem">ああ、普通に審査員するんですね……。紫さん。</div></td><td class="tt-zh" lang="zh"><div class="poem">啊啊，普通地在做评委呢……紫小姐。</div></td></tr></tbody></table>
+<table><tbody><tr class="tt-content-header" id="=-1" data-pos="&#91;&quot;=&quot;,1&#93;"><td class="tt-jah" lang="ja"><div class="poem">毒爪「死なない殺人鬼」</div></td><td class="tt-zhh" lang="zh"><div class="poem"><a href="./毒爪「不死杀人鬼」.md" class="mw-redirect" title="毒爪「不死杀人鬼」">毒爪「不死杀人鬼」</a></div></td></tr><tr class="tt-content" id="=-2" data-pos="&#91;&quot;=&quot;,2&#93;"><td class="tt-ja" lang="ja"><div class="poem">使用者：宮古芳香</div></td><td class="tt-zh" lang="zh"><div class="poem">使用者：<a href="./宫古芳香.md" title="宫古芳香">宫古芳香</a></div></td></tr><tr class="tt-content" id="=-3" data-pos="&#91;&quot;=&quot;,3&#93;"><td class="tt-ja" lang="ja"><div class="poem">ぐぐぐ……。<br>今日は暴れても良いっって、<br>本当みたいだねぇ……。<br>こんな機会、滅多にない！<br>暴れ倒して、<br>日頃の運動不足を<br>解消してやる……ぞ！</div></td><td class="tt-zh" lang="zh"><div class="poem">哼哼哼……<br>说今天大闹一场也可以，<br>似乎是真的呢……<br>这种机会，很难得啊！<br>我要闹到精疲力尽，<br>化解平时的<br>运动不足……哦！</div></td></tr><tr class="tt-header" id="=-4" data-pos="&#91;&quot;=&quot;,4&#93;"><td colspan="2" id="鬼人正邪" class="tt-header" lang="zh"><div class="poem">鬼人正邪</div></td></tr><tr class="tt-content" id="=-5" data-pos="&#91;&quot;=&quot;,5&#93;"><td class="tt-ja" lang="ja"><div class="poem">ぎゃはは、会場が殺人鬼だらけだ。やっぱり弾幕はこうじゃなくっちゃ。</div></td><td class="tt-zh" lang="zh"><div class="poem">呀哈哈，会场来了一堆杀人鬼。果然弹幕就得这样。</div></td></tr><tr class="tt-header" id="=-6" data-pos="&#91;&quot;=&quot;,6&#93;"><td colspan="2" id="八云紫（8）" class="tt-header" lang="zh"><div class="poem">八云紫（8）</div></td></tr><tr class="tt-content" id="=-7" data-pos="&#91;&quot;=&quot;,7&#93;"><td class="tt-ja" lang="ja"><div class="poem">あの爪に引っ掻かれると猛烈な毒にやられちゃいます。それさえ無ければ美しい弾幕だと思います。</div></td><td class="tt-zh" lang="zh"><div class="poem">被那个爪子抓到的话会中剧毒。只要没了那个就是美丽的弹幕。</div></td></tr><tr class="tt-header" id="=-8" data-pos="&#91;&quot;=&quot;,8&#93;"><td colspan="2" id="宇佐见堇子" class="tt-header" lang="zh"><div class="poem">宇佐见堇子</div></td></tr><tr class="tt-content" id="=-9" data-pos="&#91;&quot;=&quot;,9&#93;"><td class="tt-ja" lang="ja"><div class="poem">ああ、普通に審査員するんですね……。紫さん。</div></td><td class="tt-zh" lang="zh"><div class="poem">啊啊，普通地在做评委呢……紫小姐。</div></td></tr></tbody></table>
 
 
 <center>
@@ -36,7 +36,7 @@ The_Grimoire_of_Usami | 使用了翻译表的页面 | 宇佐见的魔法书 | �
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./The_Grimoire_of_Usami-坂田合欢-中日对照.md" title="The Grimoire of Usami/坂田合欢/中日对照">坂田合欢</a>&#160;
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="/%E5%AE%87%E4%BD%90%E8%A7%81%E7%9A%84%E9%AD%94%E6%B3%95%E4%B9%A6" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a>&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="./宇佐见的魔法书.md" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a>&#160;
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">&#160;<a href="./The_Grimoire_of_Usami-霍青娥-中日对照.md" title="The Grimoire of Usami/霍青娥/中日对照">霍青娥</a>
 </td>
@@ -45,6 +45,7 @@ The_Grimoire_of_Usami | 使用了翻译表的页面 | 宇佐见的魔法书 | �
 
   
 </center>
+
 
 ## 词条导航
   

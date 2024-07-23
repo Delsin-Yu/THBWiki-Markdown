@@ -4,6 +4,7 @@
 
 T.SC | 社团LOGO
 
+
 ## 文件说明
   
 源地址：[direct image link](https://web.archive.org/web/20141224162724im_/http://t-soucha.com/files/tsc.png), [source page](https://web.archive.org/web/20150104182158/http://t-soucha.com/)

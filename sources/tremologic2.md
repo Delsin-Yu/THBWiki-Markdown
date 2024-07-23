@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-tremologic2封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/b/b1/tremologic2%E5%B0%81%E9%9D%A2.png/139px-tremologic2%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="139" height="196" srcset="https://upload.thwiki.cc/thumb/b/b1/tremologic2%E5%B0%81%E9%9D%A2.png/209px-tremologic2%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/b/b1/tremologic2%E5%B0%81%E9%9D%A2.png/279px-tremologic2%E5%B0%81%E9%9D%A2.png 2x" data-file-width="483" data-file-height="679"></a><div class="cover-char">角色：<a href="./小恶魔.md" title="小恶魔">小恶魔</a></div></td>
@@ -14,10 +15,12 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/ukiwakudasai/status/1313967898973491201">https://twitter.com/ukiwakudasai/status/1313967898973491201</a><br><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/84871654">https://www.pixiv.net/artworks/84871654</a></td></tr></tbody></table>
 
 tremologic2（同人志，月曜猫，2020） - 2020年10月11日 由 月曜猫 于 东方红楼梦16 发布的画集同人志，B5尺寸一共20页，分级为 一般向
+
 ## Staff
 - [七月夏希](./七月夏希.md)
 - gray (未找到链接)
 - 青桐 (未找到链接)
+
 
 ## 评论
   

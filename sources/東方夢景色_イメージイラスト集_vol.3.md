@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-東方夢景色_イメージイラスト集_vol.3封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/7/72/%E6%9D%B1%E6%96%B9%E5%A4%A2%E6%99%AF%E8%89%B2_%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E9%9B%86_vol.3%E5%B0%81%E9%9D%A2.jpg/138px-%E6%9D%B1%E6%96%B9%E5%A4%A2%E6%99%AF%E8%89%B2_%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E9%9B%86_vol.3%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="138" height="196" srcset="https://upload.thwiki.cc/thumb/7/72/%E6%9D%B1%E6%96%B9%E5%A4%A2%E6%99%AF%E8%89%B2_%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E9%9B%86_vol.3%E5%B0%81%E9%9D%A2.jpg/206px-%E6%9D%B1%E6%96%B9%E5%A4%A2%E6%99%AF%E8%89%B2_%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E9%9B%86_vol.3%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/7/72/%E6%9D%B1%E6%96%B9%E5%A4%A2%E6%99%AF%E8%89%B2_%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E9%9B%86_vol.3%E5%B0%81%E9%9D%A2.jpg/275px-%E6%9D%B1%E6%96%B9%E5%A4%A2%E6%99%AF%E8%89%B2_%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E9%9B%86_vol.3%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="378" data-file-height="538"></a><div class="cover-char">角色：<a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a></div></td>
@@ -18,15 +19,18 @@
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=157737">蜜瓜</a>，<a rel="nofollow" class="external text" href="https://ec.toranoana.jp/tora_r/ec/item/040030402798">虎穴</a>，<a rel="nofollow" class="external text" href="http://www.akibaoo.com/c/item/2500020385661/">Akibaoo</a></td></tr></tbody></table>
 
 
+
 ## 特典
 - 明信片（メロンブックス委托限定）  
 ポストカード(メロンブックス委託のみ)
 
 - [](./文件-東方夢景色_イメージイラスト集_vol.3明信片.jpg.md)明信片
 
+
 ## Staff
 - 中壱 (未找到链接)
 - ニシム監督 (未找到链接)
+
 
 ## 评论
 

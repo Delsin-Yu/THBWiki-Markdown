@@ -18,6 +18,7 @@
 
 
 </center>
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=Heartfelt_Pain%E5%B0%81%E9%9D%A2.jpg" class="new" title="文件:Heartfelt Pain封面.jpg">封面图片</a></td>
@@ -26,6 +27,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://distortedmusic.web.fc2.com/music.html#DM-007">http://distortedmusic.web.fc2.com/music.html#DM-007</a></td></tr></tbody></table>
 
 Heartfelt Pain（同人专辑，Distorted Music，2010） - 2010年9月25日 由 Distorted Music  发布的EP同人专辑，分级为 一般向
+
 ## Staff
   
  **Compose**   
@@ -33,11 +35,13 @@ Heartfelt Pain（同人专辑，Distorted Music，2010） - 2010年9月25日 由
 <table><tbody><tr><td><a href="/index.php?title=DJ_Juriesute&amp;action=edit&amp;redlink=1" class="new" title="DJ Juriesute（页面不存在）">DJ Juriesute</a></td><td><a href="./Distorted_Music.md" title="Distorted Music">Distorted Music</a></td><td>Tr.1-3</td></tr></tbody></table>
 
 
+
 ## 曲目列表
 
 <table><tbody><tr><td id="1" class="infoYL"><b>01</b></td><td id="Last_Resort_(Dominating_this_shiz)" colspan="2" class="title">Last Resort (Dominating this shiz)<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=DJ Juriesute&amp;fromwiki=Heartfelt_Pain"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=DJ_Juriesute&amp;action=edit&amp;redlink=1" class="new" title="DJ Juriesute（页面不存在）">DJ Juriesute</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，DJ Juriesute&amp;fromwiki=Heartfelt_Pain"><span></span></a></span></td></tr>
 <tr><td id="2" class="infoYL"><b>02</b></td><td id="Heartfelt_Fancy" colspan="2" class="title">Heartfelt Fancy<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=DJ Juriesute&amp;fromwiki=Heartfelt_Pain"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=DJ_Juriesute&amp;action=edit&amp;redlink=1" class="new" title="DJ Juriesute（页面不存在）">DJ Juriesute</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，DJ Juriesute&amp;fromwiki=Heartfelt_Pain"><span></span></a></span></td></tr>
 <tr><td id="3" class="infoYL"><b>03</b></td><td id="Harsh_Jealousy" colspan="2" class="title">Harsh Jealousy<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=DJ Juriesute&amp;fromwiki=Heartfelt_Pain"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=DJ_Juriesute&amp;action=edit&amp;redlink=1" class="new" title="DJ Juriesute（页面不存在）">DJ Juriesute</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，DJ Juriesute&amp;fromwiki=Heartfelt_Pain"><span></span></a></span></td></tr></tbody></table>
+
 
 
 ## 评论

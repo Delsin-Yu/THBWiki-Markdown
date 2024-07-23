@@ -164,6 +164,7 @@ AvalonStudioOfficial
 [](./文件-THD2蕾米莉亚·斯卡雷特.png.md)
   
 
+
 ## 目录
 
 - [1 角色定位](#角色定位)
@@ -184,10 +185,12 @@ AvalonStudioOfficial
 
 
 
+
 ## 角色定位
   
 爆发 - 耐久 - 控制 - 先手 - 核心
   
+
 
 ## 技能介绍
 
@@ -663,6 +666,7 @@ AvalonStudioOfficial
 </td></tr></tbody></table>
 
 
+
 ## 天赋树
 
 
@@ -701,25 +705,30 @@ AvalonStudioOfficial
 </td></tr></tbody></table>
 
 
+
 ### 出门装备
 ```
 [](./文件-THD2衰人卡.png.md) [](./文件-THD2木盾.png.md) [](./文件-THD2思兼生命药.png.md) [](./文件-THD2雾雨魔力瓶.png.md)
 ```
+
 
 ### 前期装备
 ```
 [](./文件-THD2魔法使扫把.png.md) [](./文件-THD2元素秘法石.png.md)
 ```
 
+
 ### 核心装备
 ```
 [](./文件-THD2月曜秘石.png.md) [](./文件-THD2油库里之杖.png.md)
 ```
 
+
 ### 可选装备
 ```
 [](./文件-THD2亡灵送行提灯.png.md) [](./文件-THD2八云间隙发生器.png.md) [](./文件-THD2巴瓦鲁幽魂之书.png.md) [](./文件-THD2魔法使的帽子.png.md) [](./文件-THD2不明的秒计时.png.md) [](./文件-THD2博丽神社护身符.png.md) [](./文件-THD2破魔净灵札.png.md) [](./文件-THD2迷你八卦炉.png.md) [](./文件-THD2花毒的连衣裙.png.md)
 ```
+
 
 ## 技能加点
 
@@ -867,6 +876,7 @@ AvalonStudioOfficial
 </td></tr></tbody></table>
 
 
+
 ## 台词
 
 <table>
@@ -929,6 +939,7 @@ AvalonStudioOfficial
 </td>
 <td>運命（うんめい）からは逃（のが）れられない<br>[命运无法逃避]
 </td></tr></tbody></table>
+
 
 
 ## 教学视频

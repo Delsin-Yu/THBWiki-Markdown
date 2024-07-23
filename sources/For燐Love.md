@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-For燐Love封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/b/b8/For%E7%87%90Love%E5%B0%81%E9%9D%A2.jpg/168px-For%E7%87%90Love%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="168" height="118" srcset="https://upload.thwiki.cc/thumb/b/b8/For%E7%87%90Love%E5%B0%81%E9%9D%A2.jpg/252px-For%E7%87%90Love%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/b/b8/For%E7%87%90Love%E5%B0%81%E9%9D%A2.jpg/336px-For%E7%87%90Love%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="384" data-file-height="270"></a><div class="cover-char">角色：<a href="./火焰猫燐.md" title="火焰猫燐">火焰猫燐</a></div></td>
@@ -14,12 +15,15 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/13303331">https://www.pixiv.net/artworks/13303331</a></td></tr></tbody></table>
 
 For燐Love（同人志，タムリンビュー，2010） - 2010年9月19日 由 タムリンビュー 于 博丽神社例大祭SP1 发布的漫画/合同志同人志，一共28页，登场人物有 火焰猫燐、黑谷山女、琪斯美，分级为 一般向
+
 ## 预览
+
 ## Staff
 - 五味苺 (未找到链接)
 - 相方 (未找到链接)
 - おゆうち (未找到链接)
 - こむ (未找到链接)
+
 
 ## 评论
 

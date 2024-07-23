@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Walkway_To_The_Moon封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/4/40/Walkway_To_The_Moon%E5%B0%81%E9%9D%A2.jpg/252px-Walkway_To_The_Moon%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="246" srcset="https://upload.thwiki.cc/thumb/4/40/Walkway_To_The_Moon%E5%B0%81%E9%9D%A2.jpg/378px-Walkway_To_The_Moon%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/4/40/Walkway_To_The_Moon%E5%B0%81%E9%9D%A2.jpg/504px-Walkway_To_The_Moon%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="512" data-file-height="499"></a><div class="cover-char">角色：<a href="./比那名居天子.md" title="比那名居天子">比那名居天子</a></div></td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/mokemoke_p/status/654933929036771328">https://twitter.com/mokemoke_p/status/654933929036771328</a><br><a rel="nofollow" class="external free" href="https://mokemoke.booth.pm/items/169265">https://mokemoke.booth.pm/items/169265</a></td></tr></tbody></table>
 
 Walkway To The Moon（同人专辑，situation report，2015） - 2015年10月18日 由 situation report 于 博丽神社秋季例大祭2 发布的EP同人专辑，曲目主要风格是 Dance，分级为 一般向
+
 ## Staff
   
  **Arrangement**   
@@ -24,6 +26,7 @@ Walkway To The Moon（同人专辑，situation report，2015） - 2015年10月18
 Illustration
 : あめの （[扶養家族](./扶養家族.md)）
 
+
 ## 试听
   
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/228638406&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=false"></iframe>
@@ -32,10 +35,12 @@ Illustration
 
   
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Lunatic_Road" colspan="2" class="title">Lunatic Road<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=mokemoke&amp;ogmusic=月時計　～ ルナ・ダイアル&amp;fromwiki=Walkway_To_The_Moon"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=mokemoke&amp;action=edit&amp;redlink=1" class="new" title="mokemoke（页面不存在）">mokemoke</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，mokemoke，&amp;fromwiki=Walkway_To_The_Moon"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=月時計　～ ルナ・ダイアル&amp;fromwiki=Walkway_To_The_Moon"><span></span></a></span><div class="ogmusic"><a href="/%E6%9C%88%E6%99%82%E8%A8%88_%EF%BD%9E_%E3%83%AB%E3%83%8A%E3%83%BB%E3%83%80%E3%82%A4%E3%82%A2%E3%83%AB" class="mw-redirect" title="月時計 ～ ルナ・ダイアル">月時計　～ ルナ・ダイアル</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E7%BA%A2%E9%AD%94%E4%B9%A1_%EF%BD%9E_the_Embodiment_of_Scarlet_Devil." class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr>
-<tr><td id="2" class="infoYD"><b>02</b></td><td id="To_The_Moon" colspan="2" class="title">To The Moon<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=mokemoke&amp;ogmusic=有頂天変　～ Wonderful Heaven&amp;fromwiki=Walkway_To_The_Moon"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=mokemoke&amp;action=edit&amp;redlink=1" class="new" title="mokemoke（页面不存在）">mokemoke</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，mokemoke，&amp;fromwiki=Walkway_To_The_Moon"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=有頂天変　～ Wonderful Heaven&amp;fromwiki=Walkway_To_The_Moon"><span></span></a></span><div class="ogmusic"><a href="/%E6%9C%89%E9%A0%82%E5%A4%A9%E5%A4%89_%EF%BD%9E_Wonderful_Heaven" class="mw-redirect" title="有頂天変 ～ Wonderful Heaven">有頂天変　～ Wonderful Heaven</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E7%BB%AF%E6%83%B3%E5%A4%A9_%EF%BD%9E_Scarlet_Weather_Rhapsody." class="mw-redirect" title="东方绯想天 ～ Scarlet Weather Rhapsody.">东方绯想天　～ Scarlet Weather Rhapsody.</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Lunatic_Road" colspan="2" class="title">Lunatic Road<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=mokemoke&amp;ogmusic=月時計　～ ルナ・ダイアル&amp;fromwiki=Walkway_To_The_Moon"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=mokemoke&amp;action=edit&amp;redlink=1" class="new" title="mokemoke（页面不存在）">mokemoke</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，mokemoke，&amp;fromwiki=Walkway_To_The_Moon"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=月時計　～ ルナ・ダイアル&amp;fromwiki=Walkway_To_The_Moon"><span></span></a></span><div class="ogmusic"><a href="./月時計_～_ルナ・ダイアル.md" class="mw-redirect" title="月時計 ～ ルナ・ダイアル">月時計　～ ルナ・ダイアル</a></div><div class="source"><a href="./东方红魔乡_～_the_Embodiment_of_Scarlet_Devil..md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr>
+<tr><td id="2" class="infoYD"><b>02</b></td><td id="To_The_Moon" colspan="2" class="title">To The Moon<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=mokemoke&amp;ogmusic=有頂天変　～ Wonderful Heaven&amp;fromwiki=Walkway_To_The_Moon"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=mokemoke&amp;action=edit&amp;redlink=1" class="new" title="mokemoke（页面不存在）">mokemoke</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，mokemoke，&amp;fromwiki=Walkway_To_The_Moon"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=有頂天変　～ Wonderful Heaven&amp;fromwiki=Walkway_To_The_Moon"><span></span></a></span><div class="ogmusic"><a href="./有頂天変_～_Wonderful_Heaven.md" class="mw-redirect" title="有頂天変 ～ Wonderful Heaven">有頂天変　～ Wonderful Heaven</a></div><div class="source"><a href="./东方绯想天_～_Scarlet_Weather_Rhapsody..md" class="mw-redirect" title="东方绯想天 ～ Scarlet Weather Rhapsody.">东方绯想天　～ Scarlet Weather Rhapsody.</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

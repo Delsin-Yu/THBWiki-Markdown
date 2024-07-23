@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-komazing封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/7/7e/komazing%E5%B0%81%E9%9D%A2.png/158px-komazing%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="158" height="224" srcset="https://upload.thwiki.cc/thumb/7/7e/komazing%E5%B0%81%E9%9D%A2.png/237px-komazing%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/7/7e/komazing%E5%B0%81%E9%9D%A2.png/316px-komazing%E5%B0%81%E9%9D%A2.png 2x" data-file-width="800" data-file-height="1135"></a><div class="cover-char">角色：<a href="./古明地恋.md" title="古明地恋">古明地恋</a>，<a href="./古明地觉.md" title="古明地觉">古明地觉</a></div></td>
@@ -14,12 +15,15 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://ichitasuichiha.github.io/komazing/#!/">http://ichitasuichiha.github.io/komazing/#!/</a><br><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/57214871">https://www.pixiv.net/artworks/57214871</a><br><a rel="nofollow" class="external free" href="https://twitter.com/nig_18/status/738362412038905857">https://twitter.com/nig_18/status/738362412038905857</a><br><a rel="nofollow" class="external free" href="https://twitter.com/nig_18/status/738918466091028480">https://twitter.com/nig_18/status/738918466091028480</a></td></tr></tbody></table>
 
 komazing（同人志，いちたすいちは，2016） - 2016年6月5日 由 いちたすいちは 于 古明地情结3 发布的画集同人志，A5尺寸一共16页，登场人物有 古明地觉、古明地恋，分级为 一般向
+
 ## 预览
+
 ## Staff
 Author
 : いちは （[いちたすいちは](./いちたすいちは.md)）
 Web Design
 : 汐瀬なぎ （[Polychrome](./Polychrome.md)）
+
 
 ## 评论
 

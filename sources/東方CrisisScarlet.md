@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 软件信息](#软件信息)
@@ -13,6 +14,7 @@
 - [3 内容页面](#内容页面)
 - [4 评论](#评论)
 - [5 注释](#注释)
+
 
 
 
@@ -35,6 +37,7 @@
 <tbody><tr><th colspan="2">配置需求</th></tr>
 <tr><td style="width:120px;padding-left:7px;"><b>操作系统</b></td><td>Windows 7/8<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">1</a></sup></td></tr><tr><td style="width:120px;padding-left:7px;"><b>CPU</b></td><td>Intel Core i系列</td></tr><tr><td style="width:120px;padding-left:7px;"><b>内存</b></td><td>4GB</td></tr><tr><td style="width:120px;padding-left:7px;"><b>显示卡</b></td><td>Intel HD Graphics 4000 以上</td></tr><tr><td style="width:120px;padding-left:7px;"><b>硬盘需求</b></td><td>2GB</td></tr><tr><td style="width:120px;padding-left:7px;"><b>其他</b></td><td>dx10以上</td></tr>
 </tbody></table>
+
 
 
 ## Staff
@@ -62,10 +65,12 @@ with Reserved Font Name "Hanazono Font", "HanaMinA", "HanaMinB",
   
 
 
+
 ## 内容页面
 - 游戏设定与剧情 (未找到链接)
 - 攻略 (未找到链接)
 - 其他信息 (未找到链接)
+
 
 ## 评论
   

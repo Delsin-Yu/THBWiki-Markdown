@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Sprained_Neck封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/1/1b/Sprained_Neck%E5%B0%81%E9%9D%A2.jpg/140px-Sprained_Neck%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="140" height="196" srcset="https://upload.thwiki.cc/thumb/1/1b/Sprained_Neck%E5%B0%81%E9%9D%A2.jpg/211px-Sprained_Neck%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/1/1b/Sprained_Neck%E5%B0%81%E9%9D%A2.jpg/281px-Sprained_Neck%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="861" data-file-height="1200"></a><div class="cover-char">角色：<a href="./铃仙·优昙华院·因幡.md" title="铃仙·优昙华院·因幡">铃仙·优昙华院·因幡</a>，<a href="./哆来咪·苏伊特.md" title="哆来咪·苏伊特">哆来咪·苏伊特</a>，<a href="./稀神探女.md" title="稀神探女">稀神探女</a>，<a href="./八意永琳.md" title="八意永琳">八意永琳</a></div></td>
@@ -18,8 +19,10 @@ Sprained Neck（同人志，鮭虎家，2018） - 2018年10月21日 由 鮭虎�
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=430834">蜜瓜</a></td></tr></tbody></table>
 
 
+
 ## Staff
 : [暁](./暁（音切奏）.md)
+
 
 ## 评论
 

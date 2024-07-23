@@ -4,7 +4,8 @@
 
 Sequence Club ，于 2008 年成立，主要制作 同人音乐 的日本同人社团，主催是 Inami，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -15,15 +16,18 @@ Sequence Club ，于 2008 年成立，主要制作 同人音乐 的日本同人�
 
 
 
+
 ## 社团信息
 文件:Sequence Clubbanner.jpg (未找到链接)  banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Sequence Club </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2008</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=Inami&amp;action=edit&amp;redlink=1" class="new" title="Inami（页面不存在）">Inami</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://sequenceclub.dou-jin.com/">http://sequenceclub.dou-jin.com/</a> </td></tr></tbody></table>
 
 Sequence Club（同人社团，同人音乐社团） - Sequence Club ，于 2008 年成立，主要制作 同人音乐 的日本同人社团，主催是 Inami，当前状态为 活动
+
 ## 成员名单
 - Inami (未找到链接)
 - mmpp (未找到链接)
+
 
 ## 作品列表
 [](./MIXTURE（同人专辑）.md)[MIXTURE](./MIXTURE（同人专辑）.md)首发日期：2009-03-08 （第六回 博麗神社例大祭 (未找到链接)）全长 （一般向）[](./Experience（Sequence_Club）.md)[Experience](./Experience（Sequence_Club）.md)首发日期：2010-03-14 （第七回 博麗神社例大祭 (未找到链接)）SCCD-0001全长 （一般向）[](./Reckless.md)[Reckless](./Reckless.md)首发日期：2010-08-14 （Comic Market 78 (未找到链接)）SCCD-0002全长 （一般向）[](./Out_Of_The_Blue.md)[Out Of The Blue](./Out_Of_The_Blue.md)首发日期：2010-12-30 （Comic Market 79 (未找到链接)）SCCD-0003全长 （一般向）[](./Experience_-Act.2-.md)[Experience -Act.2-](./Experience_-Act.2-.md)首发日期：2011-08-13 （Comic Market 80 (未找到链接)）SCCD-0004全长 （一般向）[](./Restructuring_Sequence.md)[Restructuring Sequence](./Restructuring_Sequence.md)首发日期：2011-09-11 （博麗神社例大祭SP2 (未找到链接)）SCCD-0005混音集 （一般向）[](./Star_maelstrom（同人专辑）.md)[Star maelstrom](./Star_maelstrom（同人专辑）.md)首发日期：2013-12-30 （Comic Market 85 (未找到链接)）SCCD-0007EP （一般向）[](./Experience_-Act.3.md)[Experience -Act.3](./Experience_-Act.3.md)首发日期：2015-12-30 （Comic Market 89 (未找到链接)）SCCD-0008全长 （一般向）Sleeping Forest 封面图片 (未找到链接)[Sleeping Forest](./Sleeping_Forest.md)首发日期：2016-05-08 （第十三回 博麗神社例大祭 (未找到链接)）SCCD-0009EP （一般向）[](./CAERULA.md)[CAERULA](./CAERULA.md)首发日期：2016-08-13 （Comic Market 90 (未找到链接)）SCCD-0010全长 （一般向）
@@ -47,6 +51,7 @@ Sequence Club（同人社团，同人音乐社团） - Sequence Club ，于 2008
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 其他信息

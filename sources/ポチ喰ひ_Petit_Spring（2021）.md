@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-ポチ喰ひ_Petit_Spring（2021）封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/5/56/%E3%83%9D%E3%83%81%E5%96%B0%E3%81%B2_Petit_Spring%EF%BC%882021%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/224px-%E3%83%9D%E3%83%81%E5%96%B0%E3%81%B2_Petit_Spring%EF%BC%882021%EF%BC%89%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="224" srcset="https://upload.thwiki.cc/thumb/5/56/%E3%83%9D%E3%83%81%E5%96%B0%E3%81%B2_Petit_Spring%EF%BC%882021%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/336px-%E3%83%9D%E3%83%81%E5%96%B0%E3%81%B2_Petit_Spring%EF%BC%882021%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/5/56/%E3%83%9D%E3%83%81%E5%96%B0%E3%81%B2_Petit_Spring%EF%BC%882021%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/448px-%E3%83%9D%E3%83%81%E5%96%B0%E3%81%B2_Petit_Spring%EF%BC%882021%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="900" data-file-height="900"></a><div class="cover-char">角色：<a href="./八坂神奈子.md" title="八坂神奈子">八坂神奈子</a></div></td>
@@ -18,11 +19,13 @@
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=909068">蜜瓜</a></td></tr></tbody></table>
 
 
+
 ## Staff
   
  **Arrangement**   
 
 <table><tbody><tr><td><a href="/index.php?title=%E3%81%BE%EF%BD%9E&amp;action=edit&amp;redlink=1" class="new" title="ま～（页面不存在）">ま～</a></td><td></td><td>Tr.1</td></tr></tbody></table>
+
 
 
 ## 试听
@@ -37,9 +40,11 @@
 </td></tr></tbody></table>
 
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="神さびた古戦場～wistaria_Nursery_rhyme_mix～" colspan="2" class="title">神さびた古戦場～wistaria Nursery rhyme mix～<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=ま～&amp;ogmusic=神さびた古戦場　～ Suwa Foughten Field&amp;fromwiki=ポチ喰ひ_Petit_Spring（2021）"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E3%81%BE%EF%BD%9E&amp;action=edit&amp;redlink=1" class="new" title="ま～（页面不存在）">ま～</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，ま～&amp;fromwiki=ポチ喰ひ_Petit_Spring（2021）"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=神さびた古戦場　～ Suwa Foughten Field&amp;fromwiki=ポチ喰ひ_Petit_Spring（2021）"><span></span></a></span><div class="ogmusic"><a href="/%E7%A5%9E%E3%81%95%E3%81%B3%E3%81%9F%E5%8F%A4%E6%88%A6%E5%A0%B4_%EF%BD%9E_Suwa_Foughten_Field" class="mw-redirect" title="神さびた古戦場 ～ Suwa Foughten Field">神さびた古戦場　～ Suwa Foughten Field</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E9%A3%8E%E7%A5%9E%E5%BD%95_%EF%BD%9E_Mountain_of_Faith." class="mw-redirect" title="东方风神录 ～ Mountain of Faith.">东方风神录　～ Mountain of Faith.</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="神さびた古戦場～wistaria_Nursery_rhyme_mix～" colspan="2" class="title">神さびた古戦場～wistaria Nursery rhyme mix～<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=ま～&amp;ogmusic=神さびた古戦場　～ Suwa Foughten Field&amp;fromwiki=ポチ喰ひ_Petit_Spring（2021）"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E3%81%BE%EF%BD%9E&amp;action=edit&amp;redlink=1" class="new" title="ま～（页面不存在）">ま～</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，ま～&amp;fromwiki=ポチ喰ひ_Petit_Spring（2021）"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=神さびた古戦場　～ Suwa Foughten Field&amp;fromwiki=ポチ喰ひ_Petit_Spring（2021）"><span></span></a></span><div class="ogmusic"><a href="./神さびた古戦場_～_Suwa_Foughten_Field.md" class="mw-redirect" title="神さびた古戦場 ～ Suwa Foughten Field">神さびた古戦場　～ Suwa Foughten Field</a></div><div class="source"><a href="./东方风神录_～_Mountain_of_Faith..md" class="mw-redirect" title="东方风神录 ～ Mountain of Faith.">东方风神录　～ Mountain of Faith.</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

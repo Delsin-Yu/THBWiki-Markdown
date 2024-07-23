@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Army's_Outfit!!封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/9/99/Army%27s_Outfit%21%21%E5%B0%81%E9%9D%A2.jpg/161px-Army%27s_Outfit%21%21%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="161" height="224" srcset="https://upload.thwiki.cc/thumb/9/99/Army%27s_Outfit%21%21%E5%B0%81%E9%9D%A2.jpg/241px-Army%27s_Outfit%21%21%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/9/99/Army%27s_Outfit%21%21%E5%B0%81%E9%9D%A2.jpg/322px-Army%27s_Outfit%21%21%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="862" data-file-height="1200"></a><div class="cover-char">角色：<a href="./犬走椛.md" title="犬走椛">犬走椛</a>，<a href="./娜兹玲.md" title="娜兹玲">娜兹玲</a></div></td>
@@ -14,10 +15,13 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/102118026">https://www.pixiv.net/artworks/102118026</a><br><a rel="nofollow" class="external free" href="https://twitter.com/halljion0508/status/1579798871185948672">https://twitter.com/halljion0508/status/1579798871185948672</a><br><a rel="nofollow" class="external free" href="https://twitter.com/halljion0508/status/1581601597142224898">https://twitter.com/halljion0508/status/1581601597142224898</a><br><a rel="nofollow" class="external free" href="https://twitter.com/halljion0508/status/1583781864997031937">https://twitter.com/halljion0508/status/1583781864997031937</a></td></tr></tbody></table>
 
 Army's Outfit!!（同人志，たいのほね，2022） - 2022年10月23日 由 たいのほね 于 博丽神社秋季例大祭9 发布的画集/合同志同人志，A5尺寸一共16页，登场人物有 犬走椛、娜兹玲，分级为 一般向
+
 ## 预览
+
 ## Staff
 - HALLジオン (未找到链接) （[たいのほね](./たいのほね.md)）
 - 芦野 (未找到链接) （[Pixiv ID: 1219295](https://www.pixiv.net/users/1219295)）
+
 
 ## 评论
 

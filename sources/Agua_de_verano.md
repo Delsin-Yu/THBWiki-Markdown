@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Agua_de_verano封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/3/31/Agua_de_verano%E5%B0%81%E9%9D%A2.jpg/117px-Agua_de_verano%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="117" height="168" srcset="https://upload.thwiki.cc/thumb/3/31/Agua_de_verano%E5%B0%81%E9%9D%A2.jpg/175px-Agua_de_verano%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/3/31/Agua_de_verano%E5%B0%81%E9%9D%A2.jpg/233px-Agua_de_verano%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="356" data-file-height="512"></a><div class="cover-char">角色：<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a>，<a href="./魂魄妖梦.md" title="魂魄妖梦">魂魄妖梦</a>，<a href="./河城荷取.md" title="河城荷取">河城荷取</a>，<a href="./西行寺幽幽子.md" title="西行寺幽幽子">西行寺幽幽子</a>，<a href="./伊吹萃香.md" title="伊吹萃香">伊吹萃香</a></div></td>
@@ -13,8 +14,10 @@
 </tr><tr><td class="label">首发日期</td><td>2016-08-13&#160;（<a href="/展会作品列表?e=Comic+Market%2390">Comic Market 90</a>）</td></tr><tr><td class="label">类型</td><td>绘本</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>A4</td></tr><tr><td class="label">页数</td><td>8P</td></tr></tbody></table>
 
 Agua de verano（同人志，Brisa Marina，2016） - 2016年8月13日 由 Brisa Marina 于 Comic Market 90 发布的绘本同人志，A4尺寸一共8页，分级为 一般向
+
 ## Staff
 - [aji](./aji.md)
+
 
 ## 评论
 

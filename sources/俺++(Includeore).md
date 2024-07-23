@@ -4,7 +4,8 @@
 
 俺++(Includeore) ，于 2010 年成立，主要制作 同人音乐 的日本同人社团，主催是 Dee!，当前状态为 休止
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -21,16 +22,19 @@
 
 
 
+
 ## 社团信息
 [](./文件-俺++(Includeore)_banner.png.md)  [](./文件-俺++(Includeore)_banner.png.md)Banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> 俺++(Includeore) </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2010</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>主催</b></td><td> <a href="./Dee!.md" title="Dee!">Dee!</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://includeore.net/">http://includeore.net/</a> </td></tr></tbody></table>
 
 俺++(Includeore)（同人社团，同人音乐社团） - 俺++(Includeore) ，于 2010 年成立，主要制作 同人音乐 的日本同人社团，主催是 Dee!，当前状态为 休止
+
 ## 成员名单
 - [Dee!](./Dee!.md) (a.k.a.  **RAVE MASTER D!** )
 - [patariAn](./patariAn.md) (a.k.a.  **Marc B.Panther** ; 2010年6月-现在)
 - [黒崎朔夜](./黒崎朔夜.md)
+
 
 ## 作品列表
 [](./暁_-DAWN-（同人专辑）.md)[暁 -DAWN-](./暁_-DAWN-（同人专辑）.md)首发日期：2010-08-14 （Comic Market 78 (未找到链接)）全长 （一般向）该作品是与 [Visual Work Station](./Visual_Work_Station.md) 合作创作的[配套同人志](./暁_-DAWN-（同人志）.md)[](./粋_-FLAIR-.md)[粋 -FLAIR-](./粋_-FLAIR-.md)首发日期：2010-10-11 （東方紅楼夢6 (未找到链接)）ORECD-01EP、​合作 （一般向）[](./慣_-TRADITION-.md)[慣 -TRADITION-](./慣_-TRADITION-.md)首发日期：2010-12-30 （Comic Market 79 (未找到链接)）ORECD-02EP、​合作 （一般向）[](./嘆_-SORROW-.md)[嘆 -SORROW-](./嘆_-SORROW-.md)首发日期：2011-05-08 （第八回 博麗神社例大祭 (未找到链接)）ORECD-03EP、​合作 （一般向）[](./宴－BANQUET－Vol.1／Juliana’s_TOHO_vs_Scouse!_TOHO.md)[宴 -BANQUET- Vol.1 / Juliana’s TOHO vs Scouse! TOHO](./宴－BANQUET－Vol.1／Juliana’s_TOHO_vs_Scouse!_TOHO.md)首发日期：2011-08-13 （Comic Market 80 (未找到链接)）ORECD-04全长 （一般向）[](./覚_-PERCEPTION-.md)[覚 -PERCEPTION-](./覚_-PERCEPTION-.md)首发日期：2011-09-11 （博麗神社例大祭SP2 (未找到链接)）ORECD-05全长、​合作 （一般向）[](./智_-WISDOM-.md)[智 -WISDOM-](./智_-WISDOM-.md)首发日期：2011-12-30 （Comic Market 81 (未找到链接)）ORECD-06全长、​合作 （一般向）[](./纏_-ARCHIVE-_Vol.1.md)[纏 -ARCHIVE- Vol.1](./纏_-ARCHIVE-_Vol.1.md)首发日期：2012-05-27 （第九回 博麗神社例大祭 (未找到链接)）ORECD-07全长 （一般向）[](./宴－BANQUET－Vol.2／Juliana’s_TOHO_vs_Scouse!_TOHO.md)[宴 -BANQUET- Vol.2 / Juliana’s TOHO vs Scouse! TOHO](./宴－BANQUET－Vol.2／Juliana’s_TOHO_vs_Scouse!_TOHO.md)首发日期：2012-08-11 （Comic Market 82 (未找到链接)）ORECD-08全长 （一般向）[](./標_-MILESTONE-.md)[標 -MILESTONE-](./標_-MILESTONE-.md)首发日期：2012-12-30 （Comic Market 83 (未找到链接)）ORECD-09全长 （一般向）[](./宴_-BANQUET-_Vol.3.md)[宴 -BANQUET- Vol.3](./宴_-BANQUET-_Vol.3.md)首发日期：2013-12-30 （Comic Market 85 (未找到链接)）ORECD-10全长 （一般向）[](./HAKUREI_JINJA_REITAISAI_11_SPECIAL_DISC.md)[HAKUREI JINJA REITAISAI 11 SPECIAL DISC](./HAKUREI_JINJA_REITAISAI_11_SPECIAL_DISC.md)首发日期：2014-05-11 （第十一回 博麗神社例大祭 (未找到链接)）Omake （一般向）该作品是与 [音召缶](./音召缶.md) 合作创作的
@@ -60,15 +64,18 @@
 </table>
 
 
+
 ### 同人志
 暁 -DAWN- 封面图片 (未找到链接)[暁 -DAWN-](./暁_-DAWN-（同人志）.md)首发日期：2010-08-14 （Comic Market 78 (未找到链接)）画集、​合同志 （一般向）该作品是与 [Visual Work Station](./Visual_Work_Station.md) 合作创作的[配套CD](./暁_-DAWN-（同人专辑）.md)
 <table><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
 
 
+
 ## 参展信息
 
 <table><tbody><tr><th class="活动页面">活动页面</th><th class="活动名称">活动名称</th><th class="日期">日期</th><th class="举办地点">举办地点</th><th class="摊位编号">摊位编号</th><th class="宣传页面">宣传页面</th><th class="备注">备注</th></tr><tr data-row-number="1" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#11" title="博丽神社例大祭">博丽神社例大祭#11</a></span></td><td class="活动名称 smwtype_txt">第十一回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2456788.5">2014-05-11</td><td class="举办地点 smwtype_txt">东京Big Sight 东123456展厅</td><td class="摊位编号 smwtype_txt">う25a</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="2" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#9" title="博丽神社例大祭">博丽神社例大祭#9</a></span></td><td class="活动名称 smwtype_txt">第九回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2456074.5">2012-05-27</td><td class="举办地点 smwtype_txt">东京Big Sight 东123456展厅</td><td class="摊位编号 smwtype_txt">お-22a</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="3" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%ADSP#2" title="博丽神社例大祭SP">博丽神社例大祭SP#2</a></span></td><td class="活动名称 smwtype_txt">博麗神社例大祭SP2</td><td class="日期 smwtype_dat" data-sort-value="2455815.5">2011-09-11</td><td class="举办地点 smwtype_txt">东京Big Sight</td><td class="摊位编号 smwtype_txt">て-23a</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="4" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#8" title="博丽神社例大祭">博丽神社例大祭#8</a></span></td><td class="活动名称 smwtype_txt">第八回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2455689.5">2011-05-08</td><td class="举办地点 smwtype_txt">东京Big Sight 东23456展厅</td><td class="摊位编号 smwtype_txt">ね-08b</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="5" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%ADSP#1" title="博丽神社例大祭SP">博丽神社例大祭SP#1</a></span></td><td class="活动名称 smwtype_txt">博麗神社例大祭SP1</td><td class="日期 smwtype_dat" data-sort-value="2455458.5">2010-09-19</td><td class="举办地点 smwtype_txt">东京Big Sight 东456展厅</td><td class="摊位编号 smwtype_txt">O08a</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr></tbody></table>
+
 
 
 ## 其他信息

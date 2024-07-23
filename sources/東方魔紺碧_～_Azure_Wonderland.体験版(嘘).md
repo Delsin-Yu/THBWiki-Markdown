@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-東方魔紺碧_～_Azure_Wonderland.体験版(嘘)封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/0/05/%E6%9D%B1%E6%96%B9%E9%AD%94%E7%B4%BA%E7%A2%A7_%EF%BD%9E_Azure_Wonderland.%E4%BD%93%E9%A8%93%E7%89%88%28%E5%98%98%29%E5%B0%81%E9%9D%A2.jpg/280px-%E6%9D%B1%E6%96%B9%E9%AD%94%E7%B4%BA%E7%A2%A7_%EF%BD%9E_Azure_Wonderland.%E4%BD%93%E9%A8%93%E7%89%88%28%E5%98%98%29%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="280" height="280" srcset="https://upload.thwiki.cc/thumb/0/05/%E6%9D%B1%E6%96%B9%E9%AD%94%E7%B4%BA%E7%A2%A7_%EF%BD%9E_Azure_Wonderland.%E4%BD%93%E9%A8%93%E7%89%88%28%E5%98%98%29%E5%B0%81%E9%9D%A2.jpg/420px-%E6%9D%B1%E6%96%B9%E9%AD%94%E7%B4%BA%E7%A2%A7_%EF%BD%9E_Azure_Wonderland.%E4%BD%93%E9%A8%93%E7%89%88%28%E5%98%98%29%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/0/05/%E6%9D%B1%E6%96%B9%E9%AD%94%E7%B4%BA%E7%A2%A7_%EF%BD%9E_Azure_Wonderland.%E4%BD%93%E9%A8%93%E7%89%88%28%E5%98%98%29%E5%B0%81%E9%9D%A2.jpg/560px-%E6%9D%B1%E6%96%B9%E9%AD%94%E7%B4%BA%E7%A2%A7_%EF%BD%9E_Azure_Wonderland.%E4%BD%93%E9%A8%93%E7%89%88%28%E5%98%98%29%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1736" data-file-height="1736"></a><div class="cover-char">角色：<a href="./爱丽丝（旧作角色）.md" title="爱丽丝（旧作角色）">爱丽丝（旧作角色）</a></div></td>
@@ -15,6 +16,7 @@
 東方魔紺碧 ～ Azure Wonderland.体験版(嘘)（同人专辑，夢想夏月郷，2018） - 2018年5月6日 由 夢想夏月郷 于 博丽神社例大祭15 发布的全长同人专辑，曲目主要风格是 其他，分级为 一般向
 
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://mazyu.booth.pm/items/1996561">Booth</a></td></tr></tbody></table>
+
 
 
 ## Staff
@@ -29,6 +31,7 @@ Design
 Story
 : 翡翠 （[网址 社团]）
 
+
 ## 试听
 
 <table>
@@ -41,6 +44,7 @@ Story
 </td></tr></tbody></table>
 
 
+
 ## 曲目列表
 
 <table><tbody><tr><td id="1" class="infoYL"><b>01</b></td><td id="降りゆく涼雨は水面鏡" colspan="2" class="title">降りゆく涼雨は水面鏡<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=翡翠（人物）&amp;fromwiki=東方魔紺碧_～_Azure_Wonderland.体験版(嘘)"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./翡翠（人物）.md" title="翡翠（人物）">翡翠（人物）</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，翡翠（人物），&amp;fromwiki=東方魔紺碧_～_Azure_Wonderland.体験版(嘘)"><span></span></a></span></td></tr>
@@ -50,6 +54,7 @@ Story
 <tr><td id="5" class="infoYL"><b>05</b></td><td id="魔法の国のレインミラー" colspan="2" class="title">魔法の国のレインミラー<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=翡翠（人物）&amp;fromwiki=東方魔紺碧_～_Azure_Wonderland.体験版(嘘)"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./翡翠（人物）.md" title="翡翠（人物）">翡翠（人物）</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，翡翠（人物），&amp;fromwiki=東方魔紺碧_～_Azure_Wonderland.体験版(嘘)"><span></span></a></span></td></tr>
 <tr><td id="6" class="infoYL"><b>06</b></td><td id="東方魔紺碧～Azure_Wonderland" colspan="2" class="title">東方魔紺碧～Azure Wonderland<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=翡翠（人物）&amp;fromwiki=東方魔紺碧_～_Azure_Wonderland.体験版(嘘)"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./翡翠（人物）.md" title="翡翠（人物）">翡翠（人物）</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，翡翠（人物），&amp;fromwiki=東方魔紺碧_～_Azure_Wonderland.体験版(嘘)"><span></span></a></span></td></tr>
 <tr><td id="7" class="infoYL"><b>07</b></td><td id="人形幻想" colspan="2" class="title">人形幻想<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=翡翠（人物）&amp;fromwiki=東方魔紺碧_～_Azure_Wonderland.体験版(嘘)"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./翡翠（人物）.md" title="翡翠（人物）">翡翠（人物）</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，翡翠（人物），&amp;fromwiki=東方魔紺碧_～_Azure_Wonderland.体験版(嘘)"><span></span></a></span></td></tr></tbody></table>
+
 
 
 ## 评论

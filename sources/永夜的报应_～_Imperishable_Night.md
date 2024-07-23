@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -43,11 +44,13 @@
 
 
 
+
 ## 基本信息
 
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">永夜の報い　～ Imperishable Night</td></tr><tr><td><b>译名</b></td><td>永夜的报应 ～ Imperishable Night</td></tr><tr><td><b>英文译名</b></td><td>Retribution for the Eternal Night ~ Imperishable Night</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>再编</td></tr><tr><td style="padding-left:15px"><b>原曲</b></td><td><a href="./永夜抄_～_Eastern_Night..md" title="永夜抄 ～ Eastern Night.">永夜抄　～ Eastern Night.</a></td></tr><tr><td style="padding-left:15px"><b>　来源</b></td><td>东方永夜抄　～ Imperishable Night.</td></tr></tbody></table>
 
 永夜的报应 ～ Imperishable Night（曲目） - 由 ZUN 创作的官方曲目，原名 永夜の報い　～ Imperishable Night
+
 ## 出现作品
 
 <table>
@@ -57,8 +60,11 @@
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 东方永夜抄
+
 #### WAV
   
 WAV版是游戏的原声带。
@@ -73,6 +79,7 @@ WAV版是游戏的原声带。
 </td></tr></tbody></table>
 
 
+
 #### MIDI
   
 MIDI版由Roland Sound Canvas 88Pro实机录音得到。
@@ -82,9 +89,11 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td><a href="./文件-th08_08.mid.md" title="文件:th08 08.mid">th08_08.mid</a></td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th08_08_SC88Pro.mp3.md" title="文件:th08 08 SC88Pro.mp3">th08_08_SC88Pro.mp3</a><br><audio src="https://upload.thwiki.cc/b/ba/th08_08_SC88Pro.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>th08_08.mid</td></tr><tr><td><b>音轨时长</b></td><td>1:30</td></tr></tbody></table>
 
 
+
 ### 梦违科学世纪
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-hr03_06.mp3.md" title="文件:hr03 06.mp3">hr03_06.mp3</a><br><audio src="https://upload.thwiki.cc/4/41/hr03_06.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track06.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>3:30</td></tr></tbody></table>
+
 
 
 ### 东方外来韦编弐
@@ -92,7 +101,9 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-SCoOW02_02.mp3.md" title="文件:SCoOW02 02.mp3">SCoOW02_02.mp3</a><br><audio src="https://upload.thwiki.cc/a/a0/SCoOW02_02.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track02.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>3:26</td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 东方永夜抄
 - Music Room (未找到链接)
 
@@ -107,13 +118,17 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
 　8.永夜的报应　～ Imperishable Night  
 　　不会终结的夜晚。  
 　　玩家所造成的夜晚，好像给很多地方开始造成了影响。报应的时候来临了。
+
 ### 东方外来韦编弐
 在谈话中出现了这首曲子的话题于是就进行了改编。  
 如果没有这样的机会，大概也就不会做出这首曲的改编曲了。  
 真是久违地一边拉琴一边吹风笛呢[^cite_note-1]。  
 &lt;comment from あきやまうに&gt;
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
   
  **永夜の報い　～ Imperishable Night**  永夜的报应　～ Imperishable Night
@@ -121,7 +136,7 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
 
 - <ruby lang="ja"><rb>永夜</rb><rp> (</rp><rt>えいや</rt><rp>) </rp></ruby>
 
-  - 永夜抄 (未找到链接)，以及该作的「永夜异变」。
+  - [永夜抄](./永夜抄.md)，以及该作的「永夜异变」。
 
 - <ruby lang="ja"><rb>報</rb><rp> (</rp><rt>むく</rt><rp>) </rp></ruby>
 い
@@ -139,8 +154,9 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
 
 - 相关曲目
   - 本曲改编自永夜抄标题曲[永夜抄　～ Eastern Night.](./永夜抄_～_Eastern_Night..md)，名字也很相似。
-  - 辉针城 (未找到链接)三面道中曲[满月的竹林](./满月的竹林.md)改编自本曲。
+  - [辉针城](./辉针城.md)三面道中曲[满月的竹林](./满月的竹林.md)改编自本曲。
     - 永夜抄四面和辉针城三面的场景都是夜晚的[迷途竹林](./迷途竹林.md)。
+
 
 
 

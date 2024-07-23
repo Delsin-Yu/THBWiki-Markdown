@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-神霊廟戦記_Gの騒乱封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/2/21/%E7%A5%9E%E9%9C%8A%E5%BB%9F%E6%88%A6%E8%A8%98_G%E3%81%AE%E9%A8%92%E4%B9%B1%E5%B0%81%E9%9D%A2.png/160px-%E7%A5%9E%E9%9C%8A%E5%BB%9F%E6%88%A6%E8%A8%98_G%E3%81%AE%E9%A8%92%E4%B9%B1%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="160" height="224" srcset="https://upload.thwiki.cc/thumb/2/21/%E7%A5%9E%E9%9C%8A%E5%BB%9F%E6%88%A6%E8%A8%98_G%E3%81%AE%E9%A8%92%E4%B9%B1%E5%B0%81%E9%9D%A2.png/240px-%E7%A5%9E%E9%9C%8A%E5%BB%9F%E6%88%A6%E8%A8%98_G%E3%81%AE%E9%A8%92%E4%B9%B1%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/2/21/%E7%A5%9E%E9%9C%8A%E5%BB%9F%E6%88%A6%E8%A8%98_G%E3%81%AE%E9%A8%92%E4%B9%B1%E5%B0%81%E9%9D%A2.png/320px-%E7%A5%9E%E9%9C%8A%E5%BB%9F%E6%88%A6%E8%A8%98_G%E3%81%AE%E9%A8%92%E4%B9%B1%E5%B0%81%E9%9D%A2.png 2x" data-file-width="715" data-file-height="1000"></a><div class="cover-char">角色：<a href="./丰聪耳神子.md" title="丰聪耳神子">丰聪耳神子</a></div></td>
@@ -18,8 +19,10 @@
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=164265">蜜瓜</a>，<a rel="nofollow" class="external text" href="http://www.dlsite.com/home/work/=/product_id/http://www.dlsite.com/home/work/=/product_id/RJ177071.html.html">DLsiteDL</a></td></tr></tbody></table>
 
 
+
 ## Staff
 - [まくわうに](./まくわうに.md)
+
 
 ## 评论
 

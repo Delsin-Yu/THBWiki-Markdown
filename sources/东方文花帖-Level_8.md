@@ -24,6 +24,7 @@
 - 本词条内容为官方游戏TH09.5 **东方文花帖** 的符卡、关卡评价以及相关内容
 - Level 8在开启LV7后才会显示，开启条件为LV7通过3个场景，或共计通过35个场景。
 
+
 ## 目录
 
 - [1 Level 8-1](#Level_8-1)
@@ -40,10 +41,12 @@
 
 
 
+
 ## Level 8-1
 [](./文件-八云蓝_通常弹幕（文花帖）.jpg.md)  [](./文件-八云蓝_通常弹幕（文花帖）.jpg.md)八云蓝 通常弹幕
 
 <table><tbody><tr class="tt-content-header" id="Level_8-1" data-pos="&#91;&quot;Level 8&quot;,1&#93;"><td class="tt-jah" lang="ja"><div class="poem">通常弾幕</div></td><td class="tt-zhh" lang="zh"><div class="poem">通常弹幕</div></td></tr><tr class="tt-header" id="Level_8-2" data-pos="&#91;&quot;Level 8&quot;,2&#93;"><td colspan="2" id="射命丸文的评价" class="tt-header" lang="zh"><div class="poem">射命丸文的评价</div></td></tr><tr class="tt-content" id="Level_8-3" data-pos="&#91;&quot;Level 8&quot;,3&#93;"><td class="tt-ja" lang="ja"><div class="poem">尻尾が沢山あるという狐が居るらしくて、<br>探していました。<br>これはついでにお花見をしていた時の写真</div></td><td class="tt-zh" lang="zh"><div class="poem">听说有一只长着很多尾巴的妖狐，<br>所以就去寻找了。<br>这是顺路赏花时的照片。</div></td></tr><tr class="tt-header" id="Level_8-4" data-pos="&#91;&quot;Level 8&quot;,4&#93;"><td colspan="2" id="通常弹幕信息" class="tt-header" lang="zh"><div class="poem">通常弹幕信息</div></td></tr><tr class="tt-text-header" id="Level_8-5" data-pos="&#91;&quot;Level 8&quot;,5&#93;"><td colspan="2" class="tt-text" lang="zh"><div class="poem">Level 8 BOSS八云蓝通常弹幕。<br></div></td></tr></tbody></table>
+
 
 
 ## Level 8-2
@@ -65,6 +68,7 @@
 <table><tbody><tr class="tt-content-header" id="Level_8-6" data-pos="&#91;&quot;Level 8&quot;,6&#93;"><td class="tt-jah" lang="ja"><div class="poem">幽雅「死出の誘蛾灯」</div></td><td class="tt-zhh" lang="zh"><div class="poem"><a href="./通向黄泉的诱蛾灯.md" title="通向黄泉的诱蛾灯" unred="">幽雅「通向黄泉的诱蛾灯」</a></div></td></tr><tr class="tt-header" id="Level_8-7" data-pos="&#91;&quot;Level 8&quot;,7&#93;"><td colspan="2" id="射命丸文的评价" class="tt-header" lang="zh"><div class="poem">射命丸文的评价</div></td></tr><tr class="tt-content" id="Level_8-8" data-pos="&#91;&quot;Level 8&quot;,8&#93;"><td class="tt-ja" lang="ja"><div class="poem">心霊写真が撮れると言われるあの世までやって<br>きました。早速大きな霊が撮れましたよ？<br>うっかり死に誘われそうでしたが。</div></td><td class="tt-zh" lang="zh"><div class="poem">据说能拍到灵异照片，所以就跑到那个世界<br>去了。很快就拍到了很大的幽灵哦？<br>虽然我一不小心差点被邀请到那个世界去。</div></td></tr><tr class="tt-header" id="Level_8-9" data-pos="&#91;&quot;Level 8&quot;,9&#93;"><td colspan="2" id="符卡信息" class="tt-header" lang="zh"><div class="poem">符卡信息</div></td></tr><tr class="tt-text-header" id="Level_8-10" data-pos="&#91;&quot;Level 8&quot;,10&#93;"><td colspan="2" class="tt-text" lang="zh"><div class="poem">Level 8 BOSS西行寺幽幽子8-2符卡。<br></div></td></tr></tbody></table>
 
 
+
 ## Level 8-3
 
 <table>
@@ -81,6 +85,7 @@
 
 
 <table><tbody><tr class="tt-content-header" id="Level_8-11" data-pos="&#91;&quot;Level 8&quot;,11&#93;"><td class="tt-jah" lang="ja"><div class="poem">密符「御大師様の秘鍵」</div></td><td class="tt-zhh" lang="zh"><div class="poem"><a href="./大师的密传.md" title="大师的密传" unred="">密符「大师的密传」</a></div></td></tr><tr class="tt-header" id="Level_8-12" data-pos="&#91;&quot;Level 8&quot;,12&#93;"><td colspan="2" id="射命丸文的评价" class="tt-header" lang="zh"><div class="poem">射命丸文的评价</div></td></tr><tr class="tt-content" id="Level_8-13" data-pos="&#91;&quot;Level 8&quot;,13&#93;"><td class="tt-ja" lang="ja"><div class="poem">お花見の場所取りをやっているようでした。<br>ゴザを敷き詰めて、なにやら忙しそうだった<br>ので、写真に収めておきました。</div></td><td class="tt-zh" lang="zh"><div class="poem">她好像是来占赏花的地方的。<br>一直在忙着铺坐垫<br>什么的，所以我就拍下来了。</div></td></tr><tr class="tt-header" id="Level_8-14" data-pos="&#91;&quot;Level 8&quot;,14&#93;"><td colspan="2" id="符卡信息" class="tt-header" lang="zh"><div class="poem">符卡信息</div></td></tr><tr class="tt-text-header" id="Level_8-15" data-pos="&#91;&quot;Level 8&quot;,15&#93;"><td colspan="2" class="tt-text" lang="zh"><div class="poem">Level 8 BOSS八云蓝8-3符卡。<br></div></td></tr></tbody></table>
+
 
 
 ## Level 8-4
@@ -102,6 +107,7 @@
 <table><tbody><tr class="tt-content-header" id="Level_8-16" data-pos="&#91;&quot;Level 8&quot;,16&#93;"><td class="tt-jah" lang="ja"><div class="poem">蝶符「鳳蝶紋の死槍」</div></td><td class="tt-zhh" lang="zh"><div class="poem"><a href="./凤蝶纹的死枪.md" title="凤蝶纹的死枪" unred="">蝶符「凤蝶纹的死枪」</a></div></td></tr><tr class="tt-header" id="Level_8-17" data-pos="&#91;&quot;Level 8&quot;,17&#93;"><td colspan="2" id="射命丸文的评价" class="tt-header" lang="zh"><div class="poem">射命丸文的评价</div></td></tr><tr class="tt-content" id="Level_8-18" data-pos="&#91;&quot;Level 8&quot;,18&#93;"><td class="tt-ja" lang="ja"><div class="poem">元気な心霊写真です。これだけはっきりと霊が<br>写っているなんてなかなか無いです。<br>インチキじゃ無いですよ？</div></td><td class="tt-zh" lang="zh"><div class="poem">真是活泼的灵异照片啊<br>能这么清晰地拍到幽灵可是很少见的。<br>我可没有弄虚作假哦。</div></td></tr><tr class="tt-header" id="Level_8-19" data-pos="&#91;&quot;Level 8&quot;,19&#93;"><td colspan="2" id="符卡信息" class="tt-header" lang="zh"><div class="poem">符卡信息</div></td></tr><tr class="tt-text-header" id="Level_8-20" data-pos="&#91;&quot;Level 8&quot;,20&#93;"><td colspan="2" class="tt-text" lang="zh"><div class="poem">Level 8 BOSS西行寺幽幽子8-4符卡。<br></div></td></tr></tbody></table>
 
 
+
 ## Level 8-5
 
 <table>
@@ -118,6 +124,7 @@
 
 
 <table><tbody><tr class="tt-content-header" id="Level_8-21" data-pos="&#91;&quot;Level 8&quot;,21&#93;"><td class="tt-jah" lang="ja"><div class="poem">行符「八千万枚護摩」</div></td><td class="tt-zhh" lang="zh"><div class="poem"><a href="./八千万块护摩.md" title="八千万块护摩" unred="">行符「八千万块护摩」</a></div></td></tr><tr class="tt-header" id="Level_8-22" data-pos="&#91;&quot;Level 8&quot;,22&#93;"><td colspan="2" id="射命丸文的评价" class="tt-header" lang="zh"><div class="poem">射命丸文的评价</div></td></tr><tr class="tt-content" id="Level_8-23" data-pos="&#91;&quot;Level 8&quot;,23&#93;"><td class="tt-ja" lang="ja"><div class="poem">どうやら修行中の様でしたので、写真に収めて<br>おきました。ええ、もちろん邪魔はしていません。<br>写真を撮っているだけですから。</div></td><td class="tt-zh" lang="zh"><div class="poem">好像是在修行中呢，总之拍下来吧。<br>嗯，我当然没有妨碍她。<br>只是拍了张照片而已。</div></td></tr><tr class="tt-header" id="Level_8-24" data-pos="&#91;&quot;Level 8&quot;,24&#93;"><td colspan="2" id="符卡信息" class="tt-header" lang="zh"><div class="poem">符卡信息</div></td></tr><tr class="tt-text-header" id="Level_8-25" data-pos="&#91;&quot;Level 8&quot;,25&#93;"><td colspan="2" class="tt-text" lang="zh"><div class="poem">Level 8 BOSS八云蓝8-5符卡。<br></div></td></tr></tbody></table>
+
 
 
 ## Level 8-6
@@ -139,6 +146,7 @@
 <table><tbody><tr class="tt-content-header" id="Level_8-26" data-pos="&#91;&quot;Level 8&quot;,26&#93;"><td class="tt-jah" lang="ja"><div class="poem">死符「酔人の生、死の夢幻」</div></td><td class="tt-zhh" lang="zh"><div class="poem"><a href="./醉人之生，死的梦幻.md" title="醉人之生，死的梦幻" unred="">死符「醉人之生，死的梦幻」</a></div></td></tr><tr class="tt-header" id="Level_8-27" data-pos="&#91;&quot;Level 8&quot;,27&#93;"><td colspan="2" id="射命丸文的评价" class="tt-header" lang="zh"><div class="poem">射命丸文的评价</div></td></tr><tr class="tt-content" id="Level_8-28" data-pos="&#91;&quot;Level 8&quot;,28&#93;"><td class="tt-ja" lang="ja"><div class="poem">迫力満点！な心霊写真です。<br>よく見ると小さなオーブも大量に写っています。<br>ここは一体どういう場所……ってあの世でしたね。</div></td><td class="tt-zh" lang="zh"><div class="poem">充满魄力的灵异照片。<br>仔细看看好像还拍到了很多小光玉呢。<br>这里究竟是什么地方……啊，是那个世界吧。</div></td></tr><tr class="tt-header" id="Level_8-29" data-pos="&#91;&quot;Level 8&quot;,29&#93;"><td colspan="2" id="符卡信息" class="tt-header" lang="zh"><div class="poem">符卡信息</div></td></tr><tr class="tt-text-header" id="Level_8-30" data-pos="&#91;&quot;Level 8&quot;,30&#93;"><td colspan="2" class="tt-text" lang="zh"><div class="poem">Level 8 BOSS西行寺幽幽子8-6符卡。<br></div></td></tr></tbody></table>
 
 
+
 ## Level 8-7
 
 <table>
@@ -157,6 +165,7 @@
 <table><tbody><tr class="tt-content-header" id="Level_8-31" data-pos="&#91;&quot;Level 8&quot;,31&#93;"><td class="tt-jah" lang="ja"><div class="poem">超人「飛翔役小角」</div></td><td class="tt-zhh" lang="zh"><div class="poem"><a href="./飞翔役小角.md" title="飞翔役小角" unred="">超人「飞翔役小角」</a></div></td></tr><tr class="tt-header" id="Level_8-32" data-pos="&#91;&quot;Level 8&quot;,32&#93;"><td colspan="2" id="射命丸文的评价" class="tt-header" lang="zh"><div class="poem">射命丸文的评价</div></td></tr><tr class="tt-content" id="Level_8-33" data-pos="&#91;&quot;Level 8&quot;,33&#93;"><td class="tt-ja" lang="ja"><div class="poem">ついに動物の本性を現しました。<br>この速度はなかなかの物です。<br>目が廻らないのでしょうか？</div></td><td class="tt-zh" lang="zh"><div class="poem">终于展现出动物的本性了。<br>这种程度真了不得。<br>难道她不会头晕吗？</div></td></tr><tr class="tt-header" id="Level_8-34" data-pos="&#91;&quot;Level 8&quot;,34&#93;"><td colspan="2" id="符卡信息" class="tt-header" lang="zh"><div class="poem">符卡信息</div></td></tr><tr class="tt-text-header" id="Level_8-35" data-pos="&#91;&quot;Level 8&quot;,35&#93;"><td colspan="2" class="tt-text" lang="zh"><div class="poem">Level 8 BOSS八云蓝8-7符卡。<br></div></td></tr></tbody></table>
 
 
+
 ## Level 8-8
 
 <table>
@@ -173,6 +182,7 @@
 
 
 <table><tbody><tr class="tt-content-header" id="Level_8-36" data-pos="&#91;&quot;Level 8&quot;,36&#93;"><td class="tt-jah" lang="ja"><div class="poem">「死蝶浮月」</div></td><td class="tt-zhh" lang="zh"><div class="poem"><a href="./死蝶浮月.md" title="死蝶浮月" unred="">「死蝶浮月」</a></div></td></tr><tr class="tt-header" id="Level_8-37" data-pos="&#91;&quot;Level 8&quot;,37&#93;"><td colspan="2" id="射命丸文的评价" class="tt-header" lang="zh"><div class="poem">射命丸文的评价</div></td></tr><tr class="tt-content" id="Level_8-38" data-pos="&#91;&quot;Level 8&quot;,38&#93;"><td class="tt-ja" lang="ja"><div class="poem">あの世の蝶って眩しく光るものなんですね。<br>今度、あの世特集でも組もうかな。<br>「図解！３倍楽しくあの世に逝く方法」うーん。</div></td><td class="tt-zh" lang="zh"><div class="poem">那个世界的蝴蝶总是闪现着耀眼的光芒呢。<br>下次写个关于那个世界的特辑吧。<br>「图解！以三倍的快乐去往那个世界的方法」嗯～。</div></td></tr><tr class="tt-header" id="Level_8-39" data-pos="&#91;&quot;Level 8&quot;,39&#93;"><td colspan="2" id="符卡信息" class="tt-header" lang="zh"><div class="poem">符卡信息</div></td></tr><tr class="tt-text-header" id="Level_8-40" data-pos="&#91;&quot;Level 8&quot;,40&#93;"><td colspan="2" class="tt-text" lang="zh"><div class="poem">Level 8 BOSS西行寺幽幽子8-8符卡。<br></div></td></tr></tbody></table>
+
 
 
 

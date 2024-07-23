@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-UN.owen＇s_almirah封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/7/70/UN.owen%EF%BC%87s_almirah%E5%B0%81%E9%9D%A2.jpg/140px-UN.owen%EF%BC%87s_almirah%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="140" height="196" srcset="https://upload.thwiki.cc/thumb/7/70/UN.owen%EF%BC%87s_almirah%E5%B0%81%E9%9D%A2.jpg/210px-UN.owen%EF%BC%87s_almirah%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/7/70/UN.owen%EF%BC%87s_almirah%E5%B0%81%E9%9D%A2.jpg/280px-UN.owen%EF%BC%87s_almirah%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="500" data-file-height="699"></a><div class="cover-char">角色：<a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a></div></td>
@@ -13,9 +14,11 @@
 </tr><tr><td class="label">首发日期</td><td>2018-12-15&#160;（<a href="/展会作品列表?e=COMICUP%2323">COMICUP23</a>）</td></tr><tr><td class="label">类型</td><td>画集，设定集</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>A4</td></tr><tr><td class="label">页数</td><td>12P</td></tr><tr><td class="label">登场人物</td><td><a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a></td></tr></tbody></table>
 
 UN.owen＇s almirah（同人志，过气废萌社团，2018） - 2018年12月15日 由 过气废萌社团 于 COMICUP23 发布的画集/设定集同人志，A4尺寸一共12页，登场人物有 芙兰朵露·斯卡蕾特，分级为 一般向
+
 ## Staff
 画师
 : 颓废红 （[微博](https://www.weibo.com/redreddd)）
+
 
 ## 评论
 

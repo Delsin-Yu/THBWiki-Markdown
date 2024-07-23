@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-怨霊に恐れ怯み姉's！-シスターズ-封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/f/f9/%E6%80%A8%E9%9C%8A%E3%81%AB%E6%81%90%E3%82%8C%E6%80%AF%E3%81%BF%E5%A7%89%27s%EF%BC%81-%E3%82%B7%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA-%E5%B0%81%E9%9D%A2.png/138px-%E6%80%A8%E9%9C%8A%E3%81%AB%E6%81%90%E3%82%8C%E6%80%AF%E3%81%BF%E5%A7%89%27s%EF%BC%81-%E3%82%B7%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA-%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="138" height="196" srcset="https://upload.thwiki.cc/thumb/f/f9/%E6%80%A8%E9%9C%8A%E3%81%AB%E6%81%90%E3%82%8C%E6%80%AF%E3%81%BF%E5%A7%89%27s%EF%BC%81-%E3%82%B7%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA-%E5%B0%81%E9%9D%A2.png/207px-%E6%80%A8%E9%9C%8A%E3%81%AB%E6%81%90%E3%82%8C%E6%80%AF%E3%81%BF%E5%A7%89%27s%EF%BC%81-%E3%82%B7%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA-%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/f/f9/%E6%80%A8%E9%9C%8A%E3%81%AB%E6%81%90%E3%82%8C%E6%80%AF%E3%81%BF%E5%A7%89%27s%EF%BC%81-%E3%82%B7%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA-%E5%B0%81%E9%9D%A2.png/276px-%E6%80%A8%E9%9C%8A%E3%81%AB%E6%81%90%E3%82%8C%E6%80%AF%E3%81%BF%E5%A7%89%27s%EF%BC%81-%E3%82%B7%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA-%E5%B0%81%E9%9D%A2.png 2x" data-file-width="647" data-file-height="920"></a><div class="cover-char">角色：<a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a>，<a href="./古明地觉.md" title="古明地觉">古明地觉</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=68519997">https://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=68519997</a></td></tr></tbody></table>
 
 怨霊に恐れ怯み姉's！-シスターズ-（同人志，はりけーんおしるこ，2018） - 2018年5月6日 由 はりけーんおしるこ 于 博丽神社例大祭15 发布的漫画同人志，B5尺寸一共19页，分级为 一般向
+
 ## Staff
 - [あよあん(OH)3](./あよあん(OH)3.md)
+
 
 ## 评论
 

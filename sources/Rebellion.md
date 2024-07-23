@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=Rebellion%E5%B0%81%E9%9D%A2.jpg" class="new" title="文件:Rebellion封面.jpg">封面图片</a></td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.youtube.com/watch?v=TrbymmQ78tw">https://www.youtube.com/watch?v=TrbymmQ78tw</a></td></tr></tbody></table>
 
 Rebellion（同人专辑，Suspicion &amp; Fear，2021） - 2021年10月24日 由 Suspicion &amp; Fear 于 博丽神社秋季例大祭8 发布的单曲同人专辑，分级为 一般向
+
 ## Staff
   
  **Compose**   
@@ -36,6 +38,7 @@ Design
 Jacket illustration
 : Teijin Chana （ZOMBIE LOLITA）
 
+
 ## 试听
 
 <table>
@@ -48,10 +51,12 @@ Jacket illustration
 </td></tr></tbody></table>
 
 
+
 ## 曲目列表
 
 <table><tbody><tr><td id="1" class="infoYL"><b>01</b></td><td id="Intro" colspan="2" class="title">Intro<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=セバスチャーーーーン&amp;fromwiki=Rebellion"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=%E3%82%BB%E3%83%90%E3%82%B9%E3%83%81%E3%83%A3%E3%83%BC%E3%83%BC%E3%83%BC%E3%83%BC%E3%83%B3&amp;action=edit&amp;redlink=1" class="new" title="セバスチャーーーーン（页面不存在）">セバスチャーーーーン</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，セバスチャーーーーン&amp;fromwiki=Rebellion"><span></span></a></span></td></tr>
-<tr><td id="2" class="infoYD"><b>02</b></td><td id="Rebellion" colspan="2" class="title">Rebellion<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=セバスチャーーーーン&amp;ogmusic=少女が見た日本の原風景&amp;fromwiki=Rebellion"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E3%82%BB%E3%83%90%E3%82%B9%E3%83%81%E3%83%A3%E3%83%BC%E3%83%BC%E3%83%BC%E3%83%BC%E3%83%B3&amp;action=edit&amp;redlink=1" class="new" title="セバスチャーーーーン（页面不存在）">セバスチャーーーーン</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，セバスチャーーーーン&amp;fromwiki=Rebellion"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演奏</td><td class="text" colspan="2">Electric guitar：<a href="/index.php?title=%E3%82%BB%E3%83%90%E3%82%B9%E3%83%81%E3%83%A3%E3%83%BC%E3%83%BC%E3%83%BC%E3%83%BC%E3%83%B3&amp;action=edit&amp;redlink=1" class="new" title="セバスチャーーーーン（页面不存在）">セバスチャーーーーン</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=少女が見た日本の原風景&amp;fromwiki=Rebellion"><span></span></a></span><div class="ogmusic"><a href="/%E5%B0%91%E5%A5%B3%E3%81%8C%E8%A6%8B%E3%81%9F%E6%97%A5%E6%9C%AC%E3%81%AE%E5%8E%9F%E9%A2%A8%E6%99%AF" class="mw-redirect" title="少女が見た日本の原風景">少女が見た日本の原風景</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E9%A3%8E%E7%A5%9E%E5%BD%95_%EF%BD%9E_Mountain_of_Faith." class="mw-redirect" title="东方风神录 ～ Mountain of Faith.">东方风神录　～ Mountain of Faith.</a></div></td></tr></tbody></table>
+<tr><td id="2" class="infoYD"><b>02</b></td><td id="Rebellion" colspan="2" class="title">Rebellion<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=セバスチャーーーーン&amp;ogmusic=少女が見た日本の原風景&amp;fromwiki=Rebellion"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E3%82%BB%E3%83%90%E3%82%B9%E3%83%81%E3%83%A3%E3%83%BC%E3%83%BC%E3%83%BC%E3%83%BC%E3%83%B3&amp;action=edit&amp;redlink=1" class="new" title="セバスチャーーーーン（页面不存在）">セバスチャーーーーン</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，セバスチャーーーーン&amp;fromwiki=Rebellion"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演奏</td><td class="text" colspan="2">Electric guitar：<a href="/index.php?title=%E3%82%BB%E3%83%90%E3%82%B9%E3%83%81%E3%83%A3%E3%83%BC%E3%83%BC%E3%83%BC%E3%83%BC%E3%83%B3&amp;action=edit&amp;redlink=1" class="new" title="セバスチャーーーーン（页面不存在）">セバスチャーーーーン</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=少女が見た日本の原風景&amp;fromwiki=Rebellion"><span></span></a></span><div class="ogmusic"><a href="./少女が見た日本の原風景.md" class="mw-redirect" title="少女が見た日本の原風景">少女が見た日本の原風景</a></div><div class="source"><a href="./东方风神录_～_Mountain_of_Faith..md" class="mw-redirect" title="东方风神录 ～ Mountain of Faith.">东方风神录　～ Mountain of Faith.</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

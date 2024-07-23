@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -35,11 +36,13 @@
 
 
 
+
 ## 基本信息
 
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">封じられた妖怪　～ Lost Place</td></tr><tr><td><b>译名</b></td><td>被封印的妖怪 ～ Lost Place</td></tr><tr><td><b>英文译名</b></td><td>The Sealed-Away Youkai ~ Lost Place</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 被封印的妖怪 ～ Lost Place（曲目） - 由 ZUN 创作的官方曲目，原名 封じられた妖怪　～ Lost Place
+
 ## 出现作品
 
 <table>
@@ -51,7 +54,9 @@
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 东方地灵殿
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th11_03.mp3.md" title="文件:th11 03.mp3">th11_03.mp3</a><br><audio src="https://upload.thwiki.cc/b/b5/th11_03.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>BGM\th11_03.wav</td></tr><tr><td><b>BGMForAll</b></td><td><div class="mw-collapsible mw-collapsed">
@@ -62,12 +67,15 @@
 </td></tr></tbody></table>
 
 
+
 ### 贪欲之兽的音乐
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-TFM-010a_07.mp3.md" title="文件:TFM-010a 07.mp3">TFM-010a_07.mp3</a><br><audio src="https://upload.thwiki.cc/b/bb/TFM-010a_07.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track07.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>3:37</td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 东方地灵殿
 - Music Room (未找到链接)
 
@@ -76,8 +84,11 @@
 　相对以往的一面，我进行了比较帅气的创作。  
 　一如既往的充满了游戏感的简单配乐。  
 　我深感易于掌握的节奏更能推动游戏的气氛。
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
   
  **封じられた妖怪　～ Lost Place**  被封印的妖怪　～ Lost Place
@@ -89,6 +100,7 @@
 - Lost Place
   - 遗失之地，失落之地。
   - 地底世界是被地上的妖怪抛弃的地方。
+
 
 
 ### 二次同人数据

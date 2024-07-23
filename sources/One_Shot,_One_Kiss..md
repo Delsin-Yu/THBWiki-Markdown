@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-One_Shot,_One_Kiss.封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/3/39/One_Shot%2C_One_Kiss.%E5%B0%81%E9%9D%A2.jpg/159px-One_Shot%2C_One_Kiss.%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="159" height="224" srcset="https://upload.thwiki.cc/thumb/3/39/One_Shot%2C_One_Kiss.%E5%B0%81%E9%9D%A2.jpg/238px-One_Shot%2C_One_Kiss.%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/3/39/One_Shot%2C_One_Kiss.%E5%B0%81%E9%9D%A2.jpg/317px-One_Shot%2C_One_Kiss.%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="537" data-file-height="758"></a><div class="cover-char">角色：<a href="./宇佐见莲子.md" title="宇佐见莲子">宇佐见莲子</a>，<a href="./玛艾露贝莉·赫恩.md" title="玛艾露贝莉·赫恩">玛艾露贝莉·赫恩</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://www.redsight.net/doujin/hifu/index.html">http://www.redsight.net/doujin/hifu/index.html</a></td></tr></tbody></table>
 
 One Shot, One Kiss.（同人志，RED-SIGHT，2010） - 2010年11月28日 由 RED-SIGHT 于 境界所见到的外界1 发布的漫画同人志，B5尺寸一共28页，登场人物有 宇佐见莲子、玛艾露贝莉·赫恩，分级为 一般向
+
 ## Staff
 - 赤景RED (未找到链接)
+
 
 ## 评论
 

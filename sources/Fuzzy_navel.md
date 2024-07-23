@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Fuzzy_navel封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/a/a1/Fuzzy_navel%E5%B0%81%E9%9D%A2.jpg/224px-Fuzzy_navel%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="221" srcset="https://upload.thwiki.cc/thumb/a/a1/Fuzzy_navel%E5%B0%81%E9%9D%A2.jpg/336px-Fuzzy_navel%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/a/a1/Fuzzy_navel%E5%B0%81%E9%9D%A2.jpg/448px-Fuzzy_navel%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="643" data-file-height="635"></a><div class="cover-char">角色：<a href="./橙.md" title="橙">橙</a></div></td>
@@ -14,18 +15,22 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://kachoseason1217.blog106.fc2.com/blog-entry-29.html">http://kachoseason1217.blog106.fc2.com/blog-entry-29.html</a></td></tr></tbody></table>
 
 Fuzzy navel（同人专辑，US escape，2013） - 2013年5月26日 由 US escape 于 博丽神社例大祭10 发布的单曲同人专辑，分级为 一般向
+
 ## Staff
 Illustration
 : fujy
+
 
 ## 试听
   
 暂不支援此类型
   
 
+
 ## 曲目列表
 
 <table></table>
+
 
 
 ## 评论

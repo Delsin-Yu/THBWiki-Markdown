@@ -4,17 +4,20 @@
 
 Shingo Dj ，于 2008 年成立，主要制作 同人音乐 的阿根廷同人社团，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 社团信息
 [](./文件-Shingo_Djbanner.png.md)  [](./文件-Shingo_Djbanner.png.md)banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Shingo Dj </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2008</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>地区</b></td><td>阿根廷</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="https://www.facebook.com/shingodj">https://www.facebook.com/shingodj</a> <br><a rel="nofollow" class="external free" href="https://www.youtube.com/user/shingodj">https://www.youtube.com/user/shingodj</a><br><a rel="nofollow" class="external free" href="http://shingodj.net/">http://shingodj.net/</a> <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span></td></tr></tbody></table>
 
 Shingo Dj（同人社团，同人音乐社团） - Shingo Dj ，于 2008 年成立，主要制作 同人音乐 的阿根廷同人社团，当前状态为 活动
+
 ## 其他信息
   
 别名: Round Wave Crusher
   
+
 
 ## 作品列表
 [](./Gensokyo_Style.md)[Gensokyo Style](./Gensokyo_Style.md)首发日期：2009-03-08 （第六回 博麗神社例大祭 (未找到链接)）MSTBL010全长 （一般向）[](./Touhou_Invasion!.md)[Touhou Invasion!](./Touhou_Invasion!.md)首发日期：2011-05-25 SHIN013全长 （一般向）

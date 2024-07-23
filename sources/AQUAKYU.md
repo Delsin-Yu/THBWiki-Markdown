@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-AQUAKYU封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/4/4e/AQUAKYU%E5%B0%81%E9%9D%A2.jpg/160px-AQUAKYU%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="160" height="224" srcset="https://upload.thwiki.cc/thumb/4/4e/AQUAKYU%E5%B0%81%E9%9D%A2.jpg/240px-AQUAKYU%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/4/4e/AQUAKYU%E5%B0%81%E9%9D%A2.jpg/320px-AQUAKYU%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="715" data-file-height="1000"></a><div class="cover-char">角色：<a href="./村纱水蜜.md" title="村纱水蜜">村纱水蜜</a>，<a href="./若鹭姬.md" title="若鹭姬">若鹭姬</a>，<a href="./稗田阿求.md" title="稗田阿求">稗田阿求</a>，<a href="./本居小铃.md" title="本居小铃">本居小铃</a>，<a href="./上白泽慧音.md" title="上白泽慧音">上白泽慧音</a>，<a href="./河城荷取.md" title="河城荷取">河城荷取</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/51821431">https://www.pixiv.net/artworks/51821431</a></td></tr></tbody></table>
 
 AQUAKYU（同人志，Public Planet，2015） - 2015年8月14日 由 Public Planet 于 Comic Market 88 发布的漫画同人志，B5尺寸一共24页，登场人物有 稗田阿求、本居小铃、上白泽慧音、河城荷取、村纱水蜜、若鹭姬，分级为 一般向
+
 ## Staff
 : [公星](./公星.md)
+
 
 ## 评论
 

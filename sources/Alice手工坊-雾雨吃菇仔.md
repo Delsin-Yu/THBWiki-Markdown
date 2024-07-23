@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **相关实体周边 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 周边信息](#周边信息)
@@ -22,25 +23,31 @@
 
 
 
+
 ## 周边信息
 
 <table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 雾雨吃菇仔 </td></tr><tr><td class="label">制作方</td><td><a href="./Alice手工坊.md" title="Alice手工坊">Alice手工坊</a></td></tr><tr><td class="label">首发日期</td><td>2020-07-25&#160;（<a href="/展会作品列表?e=COMICUP%2326">COMICUP26</a>）</td></tr><tr><td class="label">类型</td><td>衣服</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">角色</td><td><a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a><br><a href="./射命丸文.md" title="射命丸文">射命丸文</a></td></tr><tr><td class="label">售价</td><td>55人民币</td></tr></tbody></table>
 
 Alice手工坊/雾雨吃菇仔（周边，Alice手工坊，2020） - 2020年7月25日 由 Alice手工坊 于 COMICUP26 发布的衣服周边，分级为 一般向
+
 ## 参考图
   
 周边宣传、售卖时使用的作为参考图的预览图或实物图的图片。
   
 
+
 ### 预览图
 - [](./文件-Alice手工坊／雾雨吃菇仔预览图1.jpg.md)
+
 
 ### 实物图
 - [](./文件-Alice手工坊／雾雨吃菇仔实物图1.jpg.md)
 
+
 ## Staff
 画师
 : 蛙蛙
+
 
 ## 评论
 

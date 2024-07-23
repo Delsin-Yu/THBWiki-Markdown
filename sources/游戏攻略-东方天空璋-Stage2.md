@@ -23,6 +23,7 @@
 </center>
 - 本词条内容为官方游戏TH16 **东方天空璋** 的敌机符卡
 
+
 ## 目录
 
 - [1 坂田合欢](#坂田合欢)
@@ -30,6 +31,7 @@
   - [1.1 雨符「被诅咒的暴雨」](#雨符「被诅咒的暴雨」)
   - [1.2 刃符「山姥的鬼菜刀研磨」](#刃符「山姥的鬼菜刀研磨」)
   - [1.3 尽符「Bloody Mountain Murder」](#尽符「Bloody_Mountain_Murder」)
+
 
 
 
@@ -50,9 +52,10 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="/%E9%9B%A8%E7%AC%A6%E3%80%8C%E8%A2%AB%E8%AF%85%E5%92%92%E7%9A%84%E8%B1%AA%E9%9B%A8%E3%80%8D" class="mw-redirect" title="雨符「被诅咒的豪雨」">雨符「被诅咒的豪雨」</a>
+<p><a href="./雨符「被诅咒的豪雨」.md" class="mw-redirect" title="雨符「被诅咒的豪雨」">雨符「被诅咒的豪雨」</a>
 </p>
 </th></tr></tbody></table>
+
 
 
 ### 雨符「被诅咒的暴雨」
@@ -84,9 +87,10 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="/%E5%88%83%E7%AC%A6%E3%80%8C%E5%B1%B1%E5%A7%A5%E7%9A%84%E9%AC%BC%E8%8F%9C%E5%88%80%E7%A0%94%E7%A3%A8%E3%80%8D" class="mw-redirect" title="刃符「山姥的鬼菜刀研磨」">刃符「山姥的鬼菜刀研磨」</a>
+<p><a href="./刃符「山姥的鬼菜刀研磨」.md" class="mw-redirect" title="刃符「山姥的鬼菜刀研磨」">刃符「山姥的鬼菜刀研磨」</a>
 </p>
 </th></tr></tbody></table>
+
 
 
 ### 刃符「山姥的鬼菜刀研磨」
@@ -116,9 +120,10 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="/%E5%B0%BD%E7%AC%A6%E3%80%8CBloody_Mountain_Murder%E3%80%8D" class="mw-redirect" title="尽符「Bloody Mountain Murder」">尽符「Bloody Mountain Murder」</a>
+<p><a href="./尽符「Bloody_Mountain_Murder」.md" class="mw-redirect" title="尽符「Bloody Mountain Murder」">尽符「Bloody Mountain Murder」</a>
 </p>
 </th></tr></tbody></table>
+
 
 
 ### 尽符「Bloody Mountain Murder」

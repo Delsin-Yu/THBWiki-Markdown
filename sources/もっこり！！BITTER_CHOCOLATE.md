@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-もっこり！！BITTER_CHOCOLATE封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/1/17/%E3%82%82%E3%81%A3%E3%81%93%E3%82%8A%EF%BC%81%EF%BC%81BITTER_CHOCOLATE%E5%B0%81%E9%9D%A2.jpg/137px-%E3%82%82%E3%81%A3%E3%81%93%E3%82%8A%EF%BC%81%EF%BC%81BITTER_CHOCOLATE%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="137" height="196" srcset="https://upload.thwiki.cc/thumb/1/17/%E3%82%82%E3%81%A3%E3%81%93%E3%82%8A%EF%BC%81%EF%BC%81BITTER_CHOCOLATE%E5%B0%81%E9%9D%A2.jpg/206px-%E3%82%82%E3%81%A3%E3%81%93%E3%82%8A%EF%BC%81%EF%BC%81BITTER_CHOCOLATE%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/1/17/%E3%82%82%E3%81%A3%E3%81%93%E3%82%8A%EF%BC%81%EF%BC%81BITTER_CHOCOLATE%E5%B0%81%E9%9D%A2.jpg/275px-%E3%82%82%E3%81%A3%E3%81%93%E3%82%8A%EF%BC%81%EF%BC%81BITTER_CHOCOLATE%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1000" data-file-height="1424"></a><div class="cover-char">角色：<a href="./藤原妹红.md" title="藤原妹红">藤原妹红</a>，<a href="./上白泽慧音.md" title="上白泽慧音">上白泽慧音</a></div></td>
@@ -18,8 +19,10 @@
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://ec.toranoana.jp/tora_r/ec/item/040010214566">虎穴</a></td></tr></tbody></table>
 
 
+
 ## Staff
 - [菊壱モンジ](./菊壱モンジ.md)
+
 
 ## 评论
   

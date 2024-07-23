@@ -35,6 +35,7 @@
 
   
 
+
 ## 目录
 
 - [1 基本资料](#基本资料)
@@ -52,6 +53,7 @@
 
 - [4 注释](#注释)
 - [5 词条导航](#词条导航)
+
 
 
 
@@ -75,14 +77,19 @@ MJ（同人角色） - 二次同人角色
 </tr><tr><th><b>作品名</b></th><th><b>位置</b></th><th><b>类型</b></th><th><b>称号</b></th><th><b>主题曲</b></th></tr><tr><td rowspan="1" style="width:120px"><b><a href="./東方植物夢_～_I_wanna_live_normally_SOS..md" title="東方植物夢 ～ I wanna live normally SOS.">東方植物夢 ～ I wanna live normally SOS.</a></b></td><td style="width:130px">EX面BOSS</td><td class="bg-color-danger-30" style="width:30px;">游戏</td><td style="width:180px"><i>河童の助手</i><br>河童的助手</td><td style="width:200px"><i>スティーブの最終定理</i><br>史蒂夫的最终定理</td></tr></tbody></table>
 
 
+
 ## 设定
+
 ### 东方植物梦设定
 
 <table><tbody><tr class="tt-content" id="东方植物梦设定-1" data-pos="&#91;&quot;\u4e1c\u65b9\u690d\u7269\u68a6\u8bbe\u5b9a&quot;,1&#93;"><td class="tt-ja" lang="ja"><div class="poem">巨大ロボットに乗りたくて、まりもの能力により幻想入りした人間。</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-content" id="东方植物梦设定-2" data-pos="&#91;&quot;\u4e1c\u65b9\u690d\u7269\u68a6\u8bbe\u5b9a&quot;,2&#93;"><td class="tt-ja" lang="ja"><div class="poem">特別な力など持っていない、ただの一般人。変わったことがあるとすれば、<br>人の名前をめったに呼ばないことくらい。その理由もまた、「記憶力がないので<br>普段から人の名前を呼ばなくて済むような話し方を心がけていたらそうなっただけ」<br>という、何とも言えない残念ボーイ。</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-content" id="东方植物梦设定-3" data-pos="&#91;&quot;\u4e1c\u65b9\u690d\u7269\u68a6\u8bbe\u5b9a&quot;,3&#93;"><td class="tt-ja" lang="ja"><div class="poem">人里観光をしていた際に、宗教勧誘をしていた東風谷早苗に外から来たばかりの<br>人間だという理由で目をつけられ、半ば強引に守矢神社に連れて行かれる途中、<br>人間と[協力]して実験を行おうとしていた、河城にとりに遭遇し、実験に利用されるが、<br>にとりの発明品に感銘を受け、巨大ロボットを操縦したいという「夢」を語ったところ、<br>なぜか意気投合？これ以降は幻想郷に来た際、河城にとりと行動を共にすることが多くなり、<br>次第ににとりの助手として働くようになった。</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-content" id="东方植物梦设定-4" data-pos="&#91;&quot;\u4e1c\u65b9\u690d\u7269\u68a6\u8bbe\u5b9a&quot;,4&#93;"><td class="tt-ja" lang="ja"><div class="poem">にとりのことを博士、にとり博士と呼んでいる。</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-content" id="东方植物梦设定-5" data-pos="&#91;&quot;\u4e1c\u65b9\u690d\u7269\u68a6\u8bbe\u5b9a&quot;,5&#93;"><td class="tt-ja" lang="ja"><div class="poem">歩夢とは、彼の理想の生き方を語り聞かせて仲良くなったらしい。<br>歩夢はＭＪに、友達として力を貸してくれているようだ。</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr></tbody></table>
 
 
+
 ## 符卡
+
 ### 东方植物梦
+
 
 ## 词条导航
   

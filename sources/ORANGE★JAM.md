@@ -4,7 +4,8 @@
 
 ORANGE★JAM ，于 2011 年成立，主要制作 同人音乐 的日本同人社团，主催是 Renko，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -15,12 +16,14 @@ ORANGE★JAM ，于 2011 年成立，主要制作 同人音乐 的日本同人�
 
 
 
+
 ## 社团信息
 [](./文件-ORANGE★JAM_LOGO.png.md)  [](./文件-ORANGE★JAM_LOGO.png.md)
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> ORANGE★JAM </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2011</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="./Renko.md" title="Renko">Renko</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://orange-jam.net/">http://orange-jam.net/</a> </td></tr></tbody></table>
 
 ORANGE★JAM（同人社团，同人音乐社团） - ORANGE★JAM ，于 2011 年成立，主要制作 同人音乐 的日本同人社团，主催是 Renko，当前状态为 活动
+
 ## 成员名单
 - [Renko](./Renko.md): vocals, lyrics
 
@@ -37,6 +40,7 @@ ORANGE★JAM（同人社团，同人音乐社团） - ORANGE★JAM ，于 2011 �
 - Nerugal (未找到链接): illustration
 
 : 个人网站：[http://starlion.org/](http://starlion.org/)
+
 
 ## 作品列表
 [](./so-matic.md)[so-matic](./so-matic.md)首发日期：2011-12-30 （Comic Market 81 (未找到链接)）OJAM-001全长 （一般向）[](./love★montblanc.md)[love★montblanc](./love★montblanc.md)首发日期：2012-08-11 （Comic Market 82 (未找到链接)）OJAM-002全长 （一般向）[](./asterism.md)[asterism](./asterism.md)首发日期：2012-12-30 （Comic Market 83 (未找到链接)）OREN-001全长、​合作 （一般向）[](./a-romatic.md)[a-romatic](./a-romatic.md)首发日期：2013-08-12 （Comic Market 84 (未找到链接)）OJAM-003全长 （一般向）[](./starlight（ORANGE★JAM）.md)[starlight](./starlight（ORANGE★JAM）.md)首发日期：2013-12-30 （Comic Market 85 (未找到链接)）OREN-002全长、​合作 （一般向）[](./rainy_days（ORANGE★JAM）.md)[rainy days](./rainy_days（ORANGE★JAM）.md)首发日期：2014-08-16 （Comic Market 86 (未找到链接)）OJAM-004全长 （一般向）[](./memories（同人专辑）.md)[memories](./memories（同人专辑）.md)首发日期：2014-12-29 （Comic Market 87 (未找到链接)）ORJM-001精选集 （一般向）[](./lakeside★breeze.md)[lakeside★breeze](./lakeside★breeze.md)首发日期：2015-08-14 （Comic Market 88 (未找到链接)）OJAM-005全长 （一般向）[](./behind_glass.md)[behind glass](./behind_glass.md)首发日期：2015-12-30 （Comic Market 89 (未找到链接)）OJAM-006全长 （一般向）[](./daydreaming.md)[daydreaming](./daydreaming.md)首发日期：2016-08-13 （Comic Market 90 (未找到链接)）OREN-003合作 （一般向）[](./memories_II.md)[memories II](./memories_II.md)首发日期：2016-12-29 （Comic Market 91 (未找到链接)）ORJM-002精选集 （一般向）[](./Resolution（ORANGE★JAM）.md)[Resolution](./Resolution（ORANGE★JAM）.md)首发日期：2018-08-10 （Comic Market 94 (未找到链接)）OREN-004全长 （一般向）[](./Motif.md)[Motif](./Motif.md)首发日期：2018-12-30 （Comic Market 95 (未找到链接)）OJFT-001全长 （一般向）该作品是与 [FELT](./FELT.md) 合作创作的[](./Motif_Ⅱ.md)[Motif II](./Motif_Ⅱ.md)首发日期：2019-08-12 （Comic Market 96 (未找到链接)）OJFT-002全长 （一般向）该作品是与 [FELT](./FELT.md) 合作创作的[](./BREAK!.md)[BREAK!](./BREAK!.md)首发日期：2019-12-31 （Comic Market 97 (未找到链接)）OREN-005全长 （一般向）
@@ -70,6 +74,7 @@ ORANGE★JAM（同人社团，同人音乐社团） - ORANGE★JAM ，于 2011 �
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 其他信息

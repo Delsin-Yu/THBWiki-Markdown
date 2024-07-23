@@ -4,6 +4,7 @@
 
 Rhyth. | 社团LOGO
 
+
 ## 文件说明
   
 源地址：[direct image link](https://web.archive.org/web/20051214044033im_/http://www.rhyth.sakura.ne.jp/pict/ban/baner.JPG), [source page](https://web.archive.org/web/20051214055728/http://www.rhyth.sakura.ne.jp/main.htm)

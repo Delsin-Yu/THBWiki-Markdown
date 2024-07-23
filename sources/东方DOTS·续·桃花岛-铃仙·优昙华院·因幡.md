@@ -164,6 +164,7 @@
 [](./文件-THD2铃仙·优昙华院·因幡.png.md)
   
 
+
 ## 目录
 
 - [1 角色定位](#角色定位)
@@ -184,10 +185,12 @@
 
 
 
+
 ## 角色定位
   
 核心 - 推进 - 打野 - 逃生
   
+
 
 ## 技能介绍
 
@@ -781,6 +784,7 @@
 </td></tr></tbody></table>
 
 
+
 ## 天赋树
 
 
@@ -819,6 +823,7 @@
 </td></tr></tbody></table>
 
 
+
 ### 出门装备
 ```
 [](./文件-THD2爱人卡.png.md) [](./文件-THD2妖精护符.png.md) [](./文件-THD2思兼生命药.png.md)
@@ -833,6 +838,7 @@
 
 敏捷核心的常用出门装，线上多利用远射程攻击对手耗血，主拼补刀，副耗血量，线上比较劣势可以用三技能[](./文件-THD2铃仙·优昙华院·因幡_03.png.md)补刀
   
+
 
 ### 前期装备
 ```
@@ -849,6 +855,7 @@
 作为桃花岛第一大远程核心，需要做的就是打钱，出山，一波推平
   
 
+
 ### 核心装备
   
 [](./文件-THD2楼观剑.png.md) [](./文件-THD2神枪冈格尼尔.png.md) [](./文件-THD2高科技相机.png.md) [](./文件-THD2龙星.png.md) [](./文件-THD2恶魔的乳牙.png.md) [](./文件-THD2完美跳跃装置.png.md)
@@ -863,6 +870,7 @@
 打团找准机会大招[](./文件-THD2铃仙·优昙华院·因幡_04.png.md)隐身进场输出，输出基本就是几下一个人，一定要注意进场的时机，被突脸核心针对就做好两点，开战前不被找到，如果无法做到这点可以出[](./文件-THD2龙星.png.md) [](./文件-THD2恶魔的乳牙.png.md)和突脸者刚正面，纯输出装备的大兔子输出非常爆炸，有一定的正面装备完全可以打过突脸核心（警惕出[](./文件-THD2花毒的连衣裙.png.md)的少女，可能会被反死）
   
 
+
 ### 可选装备
   
 [](./文件-THD2月兔幻觉兵器.png.md) [](./文件-THD2亡灵送行提灯.png.md) [](./文件-THD2真澄之镜.png.md)
@@ -872,6 +880,7 @@
 
 可以出[](./文件-THD2月兔幻觉兵器.png.md)增加刷钱速度，也可以增加清线效率和团战AOE伤害，对抗[](./文件-THD2花毒的连衣裙.png.md)可以出[](./文件-THD2亡灵送行提灯.png.md) [](./文件-THD2真澄之镜.png.md)
   
+
 
 ## 技能加点
 
@@ -933,6 +942,7 @@
 <td><a href="./文件-DOTA黄点.png.md" class="image" title="+2 全属性"><img alt="+2 全属性" src="https://upload.thwiki.cc/thumb/d/da/DOTA%E9%BB%84%E7%82%B9.png/40px-DOTA%E9%BB%84%E7%82%B9.png" decoding="async" loading="lazy" width="40" height="40" srcset="https://upload.thwiki.cc/thumb/d/da/DOTA%E9%BB%84%E7%82%B9.png/60px-DOTA%E9%BB%84%E7%82%B9.png 1.5x, https://upload.thwiki.cc/thumb/d/da/DOTA%E9%BB%84%E7%82%B9.png/80px-DOTA%E9%BB%84%E7%82%B9.png 2x" data-file-width="128" data-file-height="128"></a></td>
 <td><a href="./文件-THD2天赋树25右.png.md" class="image" title="+125 攻击距离"><img alt="+125 攻击距离" src="https://upload.thwiki.cc/thumb/5/5b/THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%8F%B3.png/40px-THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%8F%B3.png" decoding="async" loading="lazy" width="40" height="40" srcset="https://upload.thwiki.cc/thumb/5/5b/THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%8F%B3.png/60px-THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%8F%B3.png 1.5x, https://upload.thwiki.cc/thumb/5/5b/THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%8F%B3.png/80px-THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%8F%B3.png 2x" data-file-width="103" data-file-height="103"></a>
 </td></tr></tbody></table>
+
 
 
 ## 台词
@@ -1095,6 +1105,7 @@
 </td>
 <td>あの狂う月があれば救われないだろう<br>[只要那轮癫狂的月亮还在就无法得到救赎吧]
 </td></tr></tbody></table>
+
 
 
 ## 教学视频

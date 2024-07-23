@@ -18,6 +18,7 @@
 </tbody></table>
 
 
+
 ## Extra Stage
 旁旁白
   
@@ -371,6 +372,7 @@ BGM: 圣德太子的天马　～ Dark Pegasus
   
 诶……我已经快烦死了……
   
+
 
 
 ## 导航

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-紅色舞踏会~showtime~封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/8/84/%E7%B4%85%E8%89%B2%E8%88%9E%E8%B8%8F%E4%BC%9A~showtime~%E5%B0%81%E9%9D%A2.jpg/119px-%E7%B4%85%E8%89%B2%E8%88%9E%E8%B8%8F%E4%BC%9A~showtime~%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="119" height="168" srcset="https://upload.thwiki.cc/thumb/8/84/%E7%B4%85%E8%89%B2%E8%88%9E%E8%B8%8F%E4%BC%9A~showtime~%E5%B0%81%E9%9D%A2.jpg/178px-%E7%B4%85%E8%89%B2%E8%88%9E%E8%B8%8F%E4%BC%9A~showtime~%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/8/84/%E7%B4%85%E8%89%B2%E8%88%9E%E8%B8%8F%E4%BC%9A~showtime~%E5%B0%81%E9%9D%A2.jpg/237px-%E7%B4%85%E8%89%B2%E8%88%9E%E8%B8%8F%E4%BC%9A~showtime~%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="389" data-file-height="550"></a><div class="cover-char">角色：<a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a></div></td>
@@ -13,8 +14,10 @@
 </tr><tr><td class="label">首发日期</td><td>2005-12-30&#160;（<a href="/展会作品列表?e=Comic+Market%2369">Comic Market 69</a>）</td></tr><tr><td class="label">类型</td><td>漫画</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>B5</td></tr><tr><td class="label">页数</td><td>36P</td></tr></tbody></table>
 
 紅色舞踏会~showtime~（同人志，DPSの奴隷達，2005） - 2005年12月30日 由 DPSの奴隷達 于 Comic Market 69 发布的漫画同人志，B5尺寸一共36页，分级为 一般向
+
 ## Staff
 - もんじ (未找到链接)
+
 
 ## 评论
 

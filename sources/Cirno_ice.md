@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Cirno_ice封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/b/b7/Cirno_ice%E5%B0%81%E9%9D%A2.jpg/123px-Cirno_ice%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="123" height="224" srcset="https://upload.thwiki.cc/thumb/b/b7/Cirno_ice%E5%B0%81%E9%9D%A2.jpg/184px-Cirno_ice%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/b/b7/Cirno_ice%E5%B0%81%E9%9D%A2.jpg/246px-Cirno_ice%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="247" data-file-height="450"></a><div class="cover-char">角色：<a href="./琪露诺.md" title="琪露诺">琪露诺</a></div></td>
@@ -18,8 +19,10 @@ Cirno ice（同人志，虹彩ヘリコイド，2014） - 2014年12月29日 由 
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://ec.toranoana.jp/tora_r/ec/item/040030267253">虎穴</a>，<a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=113951">蜜瓜</a></td></tr></tbody></table>
 
 
+
 ## Staff
 - [shihou](./shihou.md)
+
 
 ## 评论
   

@@ -4,8 +4,9 @@
 
 東方樂祭Global 在 中国 举办的  东方同人LIVE，展会活动，目前共举办了10届
 
-本页是关于 **同人展会 (未找到链接)**   
-及 **相关活动 (未找到链接)** 的词条
+本页是关于 **[同人展会](./同人展会.md#展会类活动)**   
+及 **[相关活动](./相关活动.md)** 的词条
+
 ## 目录
 
 - [1 概述](#概述)
@@ -23,6 +24,7 @@
 
 
 
+
 ## 概述
 文件:东方乐祭Global LOGO.jpg (未找到链接)  东方乐祭Global LOGO
   
@@ -31,7 +33,7 @@
   
   
   
-中国 **** 的东方Project Only **混合型同人活动** ，以 **拼盘LIVE类活动 (未找到链接)** 为主体， **展会 (未找到链接)**  **类活动** 为辅。  
+中国 **** 的东方Project Only **混合型同人活动** ，以 **拼盘[LIVE类活动](./LIVE类活动.md#LIVE类活动)** 为主体， **[展会](./展会类活动.md#展会类活动)**  **类活动** 为辅。  
   
 在中国举办。  
   
@@ -48,6 +50,7 @@
 官方微博： [https://weibo.com/u/6320715260](https://weibo.com/u/6320715260)   
   
 东方乐祭Global（活动，LIVE活动，展会活动） - 東方樂祭Global 在 中国 举办的  东方同人LIVE，展会活动，目前共举办了10届
+
 ## 历届信息
 - 点击届数可进入对应分类页面。
 - 请注意，摊位数统计可能不准确。
@@ -69,44 +72,48 @@
 </tbody></table>
 
 
+
 ## 演出社团及人员
 东方乐祭Global in CXC
 : 
 
 东方乐祭Global 2015 COMICUP Special
-: [東京アクティブNEETs ](./東京アクティブNEETs.md)、[少女フラクタル](./少女フラクタル.md)、[IOSYS](./IOSYS.md)、[EastNewSound](./EastNewSound.md)、[C-CLAYS ](./C-CLAYS.md)、[K2 SOUND](./K2_SOUND.md)、[TAMUSIC](./TAMUSIC.md)、[Yonder Voice](./Yonder_Voice.md)、京都幻想劇団 (未找到链接)
+: [東京アクティブNEETs ](./東京アクティブNEETs.md)、[少女フラクタル](./少女フラクタル.md)、[IOSYS](./IOSYS.md)、[EastNewSound](./EastNewSound.md)、[C-CLAYS ](./C-CLAYS.md)、[K2 SOUND](./K2_SOUND.md)、[TAMUSIC](./TAMUSIC.md)、[Yonder Voice](./Yonder_Voice.md)、[京都幻想劇団](./京都幻想劇団.md)
 
 东方乐祭Global 2016 in China 北京站
-: 幽閉サテライト  (未找到链接)、[少女フラクタル ](./少女フラクタル.md)、[魂音泉 ](./魂音泉.md)、[Yonder Voice ](./Yonder_Voice.md)、京都幻想劇団  (未找到链接)、[IOSYS ](./IOSYS.md)、[TAMUSIC](./TAMUSIC.md)
+: [幽閉サテライト ](./幽閉サテライト.md)、[少女フラクタル ](./少女フラクタル.md)、[魂音泉 ](./魂音泉.md)、[Yonder Voice ](./Yonder_Voice.md)、[京都幻想劇団 ](./京都幻想劇団.md)、[IOSYS ](./IOSYS.md)、[TAMUSIC](./TAMUSIC.md)
 
 东方乐祭Global 2016 in China 成都站
-: 幽閉サテライト (未找到链接)、[少女フラクタル ](./少女フラクタル.md)、[C-CLAYS](./C-CLAYS.md)、[舞音KAGURA](./舞音KAGURA.md)、[Alstroemeria Records](./Alstroemeria_Records.md)、[DiGiTAL WiNG](./DiGiTAL_WiNG.md)、[Yonder Voice ](./Yonder_Voice.md)、京都幻想劇団 (未找到链接)、[TsuBaKi](./TsuBaKi.md)
+: [幽閉サテライト](./幽閉サテライト.md)、[少女フラクタル ](./少女フラクタル.md)、[C-CLAYS](./C-CLAYS.md)、[舞音KAGURA](./舞音KAGURA.md)、[Alstroemeria Records](./Alstroemeria_Records.md)、[DiGiTAL WiNG](./DiGiTAL_WiNG.md)、[Yonder Voice ](./Yonder_Voice.md)、[京都幻想劇団](./京都幻想劇団.md)、[TsuBaKi](./TsuBaKi.md)
 
 东方乐祭Global 2016 in China 广州站
-: 幽閉サテライト (未找到链接)、[少女フラクタル ](./少女フラクタル.md)、[EastNewSound](./EastNewSound.md)、[東京アクティブNEETs](./東京アクティブNEETs.md)、[monochrome-coat](./monochrome-coat.md)、[AdamKadmon](./AdamKadmon.md)、[Halozy](./Halozy.md)、[Yonder Voice ](./Yonder_Voice.md)、京都幻想劇団 (未找到链接)
+: [幽閉サテライト](./幽閉サテライト.md)、[少女フラクタル ](./少女フラクタル.md)、[EastNewSound](./EastNewSound.md)、[東京アクティブNEETs](./東京アクティブNEETs.md)、[monochrome-coat](./monochrome-coat.md)、[AdamKadmon](./AdamKadmon.md)、[Halozy](./Halozy.md)、[Yonder Voice ](./Yonder_Voice.md)、[京都幻想劇団](./京都幻想劇団.md)
 
 东方乐祭Global 2016 in China 上海站
-: 幽閉サテライト (未找到链接)、[少女フラクタル ](./少女フラクタル.md)、[C-CLAYS](./C-CLAYS.md)、[東京アクティブNEETs](./東京アクティブNEETs.md)、[TAMUSIC](./TAMUSIC.md)、[Yonder Voice](./Yonder_Voice.md)、[TsuBaKi](./TsuBaKi.md)、[Crest](./Crest.md)、京都幻想劇団 (未找到链接)、[赤音羽](./赤音羽.md)、[bunny rhyTHm](./bunny_rhyTHm.md)、[舞音KAGURA](./舞音KAGURA.md)
+: [幽閉サテライト](./幽閉サテライト.md)、[少女フラクタル ](./少女フラクタル.md)、[C-CLAYS](./C-CLAYS.md)、[東京アクティブNEETs](./東京アクティブNEETs.md)、[TAMUSIC](./TAMUSIC.md)、[Yonder Voice](./Yonder_Voice.md)、[TsuBaKi](./TsuBaKi.md)、[Crest](./Crest.md)、[京都幻想劇団](./京都幻想劇団.md)、[赤音羽](./赤音羽.md)、[bunny rhyTHm](./bunny_rhyTHm.md)、[舞音KAGURA](./舞音KAGURA.md)
 
 东方乐祭Global 2017 in China 成都站
-: 幽閉サテライト (未找到链接)、[少女フラクタル](./少女フラクタル.md)、[森羅万象](./森羅万象.md)、[東京アクティブNEETs](./東京アクティブNEETs.md)、[TAMUSIC](./TAMUSIC.md)
+: [幽閉サテライト](./幽閉サテライト.md)、[少女フラクタル](./少女フラクタル.md)、[森羅万象](./森羅万象.md)、[東京アクティブNEETs](./東京アクティブNEETs.md)、[TAMUSIC](./TAMUSIC.md)
 
 东方乐祭Global 2017 in China 北京站
-: 幽閉サテライト (未找到链接)、[少女フラクタル](./少女フラクタル.md)、[Crest](./Crest.md)、[IRON ATTACK!](./IRON_ATTACK!.md)、京都幻想劇団 (未找到链接)、[Yonder Voice](./Yonder_Voice.md)、[bunny rhyTHm](./bunny_rhyTHm.md)、[TsuBaKi](./TsuBaKi.md)、[Matthiola Records](./Matthiola_Records.md)
+: [幽閉サテライト](./幽閉サテライト.md)、[少女フラクタル](./少女フラクタル.md)、[Crest](./Crest.md)、[IRON ATTACK!](./IRON_ATTACK!.md)、[京都幻想劇団](./京都幻想劇団.md)、[Yonder Voice](./Yonder_Voice.md)、[bunny rhyTHm](./bunny_rhyTHm.md)、[TsuBaKi](./TsuBaKi.md)、[Matthiola Records](./Matthiola_Records.md)
 
 东方乐祭Global 2017 in China 广州站
-: 幽閉サテライト (未找到链接)、[少女フラクタル](./少女フラクタル.md)、[DiGiTAL WiNG](./DiGiTAL_WiNG.md)、[石鹸屋](./石鹸屋.md)、[舞音KAGURA](./舞音KAGURA.md)、[Yonder Voice](./Yonder_Voice.md)、[bunny rhyTHm](./bunny_rhyTHm.md)、京都幻想劇団 (未找到链接)
+: [幽閉サテライト](./幽閉サテライト.md)、[少女フラクタル](./少女フラクタル.md)、[DiGiTAL WiNG](./DiGiTAL_WiNG.md)、[石鹸屋](./石鹸屋.md)、[舞音KAGURA](./舞音KAGURA.md)、[Yonder Voice](./Yonder_Voice.md)、[bunny rhyTHm](./bunny_rhyTHm.md)、[京都幻想劇団](./京都幻想劇団.md)
 
 东方乐祭Global 2017 in China 上海站
-: 幽閉サテライト (未找到链接)、[少女フラクタル](./少女フラクタル.md)、[COOL&amp;CREATE](./COOL&CREATE.md)、[TsuBaKi](./TsuBaKi.md)、[TAMUSIC](./TAMUSIC.md)、[Yonder Voice](./Yonder_Voice.md)、京都幻想劇団 (未找到链接)、Mad hatter tea (未找到链接)、[bunny rhyTHm](./bunny_rhyTHm.md)、[Matthiola Records](./Matthiola_Records.md)
+: [幽閉サテライト](./幽閉サテライト.md)、[少女フラクタル](./少女フラクタル.md)、[COOL&amp;CREATE](./COOL&CREATE.md)、[TsuBaKi](./TsuBaKi.md)、[TAMUSIC](./TAMUSIC.md)、[Yonder Voice](./Yonder_Voice.md)、[京都幻想劇団](./京都幻想劇団.md)、[Mad hatter tea](./Mad_hatter_tea.md)、[bunny rhyTHm](./bunny_rhyTHm.md)、[Matthiola Records](./Matthiola_Records.md)
+
 
 ## 历届宣传图
   
 网站首页使用的作为顶图或宣传图的图片。
   
 
+
 ### 第一届至第五届
 - 东方乐祭Global1.jpg东方乐祭Global in CXC- [](./文件-东方乐祭Global2.jpg.md)东方乐祭Global 2015 COMICUP Special- [](./文件-东方乐祭Global3.jpg.md)东方乐祭Global 2016 in China 北京站- [](./文件-东方乐祭Global4.jpg.md)东方乐祭Global 2016 in China 成都站- [](./文件-东方乐祭Global5.jpg.md)东方乐祭Global 2016 in China 广州站
+
 
 ### 第六届至第十届
 - [](./文件-东方乐祭Global6.jpg.md)东方乐祭Global 2016 in China 上海站- [](./文件-东方乐祭Global7.jpg.md)东方乐祭Global 2017 in China 成都站- [](./文件-东方乐祭Global8.jpg.md)东方乐祭Global 2017 in China 北京站- [](./文件-东方乐祭Global9.jpg.md)东方乐祭Global 2017 in China 广州站 插画1- [](./文件-东方乐祭Global9插画2.jpg.md)东方乐祭Global 2017 in China 广州站 插画2- [](./文件-东方乐祭Global10.jpg.md)东方乐祭Global 2017 in China 上海站

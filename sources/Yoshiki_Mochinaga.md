@@ -6,14 +6,17 @@
 
 本页是关于东方Project  
  **二次同人创作者** 的词条
+
 ## 基本信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="label"><b>名称</b></td><td> Mochinaga <span style="font-size:90%;">（识别名：Yoshiki Mochinaga）</span></td></tr><tr><td class="label"><b>所属社团</b></td><td><b>当前</b><div style="margin-left:2em;"><a href="./Orbit／／Arclight.md" title="Orbit／／Arclight">Orbit//Arclight</a></div></td></tr><tr><td class="label"><b>职位</b></td><td>演唱，作词</td></tr><tr><td class="label"><b>参与社团</b></td><td><a href="./Orbit／／Arclight.md" title="Orbit／／Arclight">Orbit／／Arclight</a> （演唱，作词）</td></tr><tr><td class="label"><b>个人页面</b></td><td><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><b>Twitter</b></td><td><a rel="nofollow" class="external free" href="https://twitter.com/accelerator8415">https://twitter.com/accelerator8415</a></td></tr></tbody></table></td></tr></tbody></table>
 
 Yoshiki Mochinaga（人物） - 现实人物
+
 ## 介绍
 - 抒情硬核乐队 **Fall of Tears** 的演唱。
 - [Orbit//Arclight](./Orbit／／Arclight.md)的演唱。
+
 
 ## 相关链接
 Fall of Tears

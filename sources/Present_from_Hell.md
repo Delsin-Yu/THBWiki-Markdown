@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Present_from_Hell封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/a/a2/Present_from_Hell%E5%B0%81%E9%9D%A2.jpg/139px-Present_from_Hell%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="139" height="196" srcset="https://upload.thwiki.cc/thumb/a/a2/Present_from_Hell%E5%B0%81%E9%9D%A2.jpg/208px-Present_from_Hell%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/a/a2/Present_from_Hell%E5%B0%81%E9%9D%A2.jpg/277px-Present_from_Hell%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="688" data-file-height="972"></a><div class="cover-char">角色：<a href="./纯狐.md" title="纯狐">纯狐</a>，<a href="./克劳恩皮丝.md" title="克劳恩皮丝">克劳恩皮丝</a>，<a href="./赫卡提亚·拉碧斯拉祖利.md" title="赫卡提亚·拉碧斯拉祖利">赫卡提亚·拉碧斯拉祖利</a>，<a href="./矢田寺成美.md" title="矢田寺成美">矢田寺成美</a>，<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>，<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/67156389">https://www.pixiv.net/artworks/67156389</a></td></tr></tbody></table>
 
 Present from Hell（同人志，Area-S，2018） - 2018年2月11日 由 Area-S 于 红之广场15 发布的漫画同人志，B5尺寸一共32页，登场人物有 纯狐、克劳恩皮丝、赫卡提亚·拉碧斯拉祖利、矢田寺成美、博丽灵梦、雾雨魔理沙，分级为 一般向
+
 ## Staff
 : Dra (未找到链接)
+
 
 ## 评论
 

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 软件信息](#软件信息)
@@ -13,6 +14,7 @@
 - [3 内容页面](#内容页面)
 - [4 参考资料](#参考资料)
 - [5 下载](#下载)
+
 
 
 
@@ -37,19 +39,23 @@ BEVENTLAED（同人游戏，yu-ki，2011） - 2011年1月14日 由 yu-ki  发布
 </tbody></table>
 
 
+
 ## Staff
   
 制作&#160;: yu-ki (未找到链接)
   
 
+
 ## 内容页面
 - [简介](./BEVENTLAED-简介.md)
 - [攻略](./BEVENTLAED-攻略.md)
+
 
 ## 参考资料
   
 [BEVENTLAED-En.touhouwiki](https://en.touhouwiki.net/wiki/BEVENTLAED)
   
+
 
 ## 下载
   

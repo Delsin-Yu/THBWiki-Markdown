@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Tautology（同人志）封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/b/b5/Tautology%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/159px-Tautology%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="159" height="224" srcset="https://upload.thwiki.cc/thumb/b/b5/Tautology%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/239px-Tautology%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/b/b5/Tautology%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/318px-Tautology%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="756" data-file-height="1063"></a><div class="cover-char">角色：<a href="./八云蓝.md" title="八云蓝">八云蓝</a></div></td>
@@ -14,10 +15,13 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/76935522">https://www.pixiv.net/artworks/76935522</a><br><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/77108906">https://www.pixiv.net/artworks/77108906</a><br><a rel="nofollow" class="external free" href="https://twitter.com/dansarasado/status/1176110860474843136">https://twitter.com/dansarasado/status/1176110860474843136</a><br><a rel="nofollow" class="external free" href="https://twitter.com/dansarasado/status/1180453814647713794">https://twitter.com/dansarasado/status/1180453814647713794</a></td></tr></tbody></table>
 
 Tautology（同人志，更紗灯団，2019） - 2019年10月6日 由 更紗灯団 于 博丽神社秋季例大祭6 发布的漫画/小说同人志，B5尺寸一共24页，登场人物有 八云蓝，分级为 一般向
+
 ## 预览
+
 ## Staff
 - 更紗灯弾 (未找到链接) （[更紗灯団](./更紗灯団.md)）
 - ptagoon (未找到链接) （guest; [ぺたごん](./ぺたごん.md)）
+
 
 ## 评论
 

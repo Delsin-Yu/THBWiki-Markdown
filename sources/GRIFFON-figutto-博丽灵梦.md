@@ -6,11 +6,13 @@
 
 本页是关于东方Project  
  **相关实体周边 (未找到链接)** 的词条
+
 ## 模型信息
 
 <table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 博丽灵梦 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>figutto</td></tr><tr><td class="label">角色</td><td><a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></td></tr><tr><td class="label">原型师</td><td><a href="/index.php?title=%E3%81%B2%E3%82%8D%E3%81%BE%E3%82%93&amp;action=edit&amp;redlink=1" class="new" title="ひろまん（页面不存在）">ひろまん</a></td></tr><tr><td class="label">尺寸</td><td>160mm</td></tr><tr><td class="label">状态</td><td>已发售</td></tr><tr><td class="label">售价</td><td>3800日元</td></tr><tr><td class="label">首发日期</td><td>2010-07</td></tr><tr><td class="label">发售方</td><td><a href="/index.php?title=GRIFFON&amp;action=edit&amp;redlink=1" class="new" title="GRIFFON（页面不存在）">GRIFFON</a></td></tr></tbody></table>
 
 GRIFFON/figutto/博丽灵梦（周边） - 博丽灵梦PVCFigure手办模型
+
 ## 参考图片
 
 

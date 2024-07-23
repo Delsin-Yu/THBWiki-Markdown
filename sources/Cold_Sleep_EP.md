@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=Cold_Sleep_EP%E5%B0%81%E9%9D%A2.jpg" class="new" title="文件:Cold Sleep EP封面.jpg">封面图片</a></td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/akkeybarey/status/1653348421145866243">https://twitter.com/akkeybarey/status/1653348421145866243</a></td></tr></tbody></table>
 
 Cold Sleep EP（同人专辑，Traumerei Fabrik，2023） - 2023年5月7日 由 Traumerei Fabrik 于 博丽神社例大祭20 发布的EP同人专辑，分级为 一般向
+
 ## Staff
   
  **Arrangement**   
@@ -21,15 +23,18 @@ Cold Sleep EP（同人专辑，Traumerei Fabrik，2023） - 2023年5月7日 由 
 <table><tbody><tr><td><a href="./秋晴.md" title="秋晴">秋晴</a></td><td></td><td>Tr.1/2</td></tr></tbody></table>
 
 
+
 ## 试听
   
 暂不支援此类型
   
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Cold_Sleep" colspan="2" class="title">Cold Sleep<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=秋晴&amp;ogmusic=狂気の瞳　～ Invisible Full Moon&amp;fromwiki=Cold_Sleep_EP"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./秋晴.md" title="秋晴">秋晴</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，秋晴&amp;fromwiki=Cold_Sleep_EP"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=狂気の瞳　～ Invisible Full Moon&amp;fromwiki=Cold_Sleep_EP"><span></span></a></span><div class="ogmusic"><a href="/%E7%8B%82%E6%B0%97%E3%81%AE%E7%9E%B3_%EF%BD%9E_Invisible_Full_Moon" class="mw-redirect" title="狂気の瞳 ～ Invisible Full Moon">狂気の瞳　～ Invisible Full Moon</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E6%B0%B8%E5%A4%9C%E6%8A%84_%EF%BD%9E_Imperishable_Night." class="mw-redirect" title="东方永夜抄 ～ Imperishable Night.">东方永夜抄　～ Imperishable Night.</a></div></td></tr>
-<tr><td id="2" class="infoYD"><b>02</b></td><td id="Shotgun_Kiss" colspan="2" class="title">Shotgun Kiss<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=秋晴&amp;ogmusic=U.N.オーエンは彼女なのか？&amp;fromwiki=Cold_Sleep_EP"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./秋晴.md" title="秋晴">秋晴</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，秋晴&amp;fromwiki=Cold_Sleep_EP"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=U.N.オーエンは彼女なのか？&amp;fromwiki=Cold_Sleep_EP"><span></span></a></span><div class="ogmusic"><a href="/U.N.%E3%82%AA%E3%83%BC%E3%82%A8%E3%83%B3%E3%81%AF%E5%BD%BC%E5%A5%B3%E3%81%AA%E3%81%AE%E3%81%8B%EF%BC%9F" class="mw-redirect" title="U.N.オーエンは彼女なのか？">U.N.オーエンは彼女なのか？</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E7%BA%A2%E9%AD%94%E4%B9%A1_%EF%BD%9E_the_Embodiment_of_Scarlet_Devil." class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Cold_Sleep" colspan="2" class="title">Cold Sleep<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=秋晴&amp;ogmusic=狂気の瞳　～ Invisible Full Moon&amp;fromwiki=Cold_Sleep_EP"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./秋晴.md" title="秋晴">秋晴</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，秋晴&amp;fromwiki=Cold_Sleep_EP"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=狂気の瞳　～ Invisible Full Moon&amp;fromwiki=Cold_Sleep_EP"><span></span></a></span><div class="ogmusic"><a href="./狂気の瞳_～_Invisible_Full_Moon.md" class="mw-redirect" title="狂気の瞳 ～ Invisible Full Moon">狂気の瞳　～ Invisible Full Moon</a></div><div class="source"><a href="./东方永夜抄_～_Imperishable_Night..md" class="mw-redirect" title="东方永夜抄 ～ Imperishable Night.">东方永夜抄　～ Imperishable Night.</a></div></td></tr>
+<tr><td id="2" class="infoYD"><b>02</b></td><td id="Shotgun_Kiss" colspan="2" class="title">Shotgun Kiss<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=秋晴&amp;ogmusic=U.N.オーエンは彼女なのか？&amp;fromwiki=Cold_Sleep_EP"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./秋晴.md" title="秋晴">秋晴</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，秋晴&amp;fromwiki=Cold_Sleep_EP"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=U.N.オーエンは彼女なのか？&amp;fromwiki=Cold_Sleep_EP"><span></span></a></span><div class="ogmusic"><a href="./U.N.オーエンは彼女なのか？.md" class="mw-redirect" title="U.N.オーエンは彼女なのか？">U.N.オーエンは彼女なのか？</a></div><div class="source"><a href="./东方红魔乡_～_the_Embodiment_of_Scarlet_Devil..md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

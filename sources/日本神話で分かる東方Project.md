@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-日本神話で分かる東方Project封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/d/df/%E6%97%A5%E6%9C%AC%E7%A5%9E%E8%A9%B1%E3%81%A7%E5%88%86%E3%81%8B%E3%82%8B%E6%9D%B1%E6%96%B9Project%E5%B0%81%E9%9D%A2.jpg/140px-%E6%97%A5%E6%9C%AC%E7%A5%9E%E8%A9%B1%E3%81%A7%E5%88%86%E3%81%8B%E3%82%8B%E6%9D%B1%E6%96%B9Project%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="140" height="196" srcset="https://upload.thwiki.cc/thumb/d/df/%E6%97%A5%E6%9C%AC%E7%A5%9E%E8%A9%B1%E3%81%A7%E5%88%86%E3%81%8B%E3%82%8B%E6%9D%B1%E6%96%B9Project%E5%B0%81%E9%9D%A2.jpg/210px-%E6%97%A5%E6%9C%AC%E7%A5%9E%E8%A9%B1%E3%81%A7%E5%88%86%E3%81%8B%E3%82%8B%E6%9D%B1%E6%96%B9Project%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/d/df/%E6%97%A5%E6%9C%AC%E7%A5%9E%E8%A9%B1%E3%81%A7%E5%88%86%E3%81%8B%E3%82%8B%E6%9D%B1%E6%96%B9Project%E5%B0%81%E9%9D%A2.jpg/280px-%E6%97%A5%E6%9C%AC%E7%A5%9E%E8%A9%B1%E3%81%A7%E5%88%86%E3%81%8B%E3%82%8B%E6%9D%B1%E6%96%B9Project%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1464" data-file-height="2048"></a><div class="cover-char">角色：<a href="./稗田阿求.md" title="稗田阿求">稗田阿求</a></div></td>
@@ -18,9 +19,11 @@
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=188853">蜜瓜（实体书）</a>，<a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=251887">蜜瓜（电子书）</a></td></tr></tbody></table>
 
 
+
 ## Staff
 - [RF](./RF.md)
 - たかはる (未找到链接)
+
 
 ## 评论
 

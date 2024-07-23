@@ -26,10 +26,12 @@
 
 
 
+
 ###### 问候
 
 
 <table><tbody><tr class="tt-content" id="=-3" data-pos="&#91;&quot;=&quot;,3&#93;"><td class="tt-ja" lang="ja"><div class="poem">■１．ご挨拶<br>　　この度は、「東方導命樹　～ Mystical Power Plant. 」をダウンロードして頂き、<br>　まことに有難う御座います。<br>　<br>　　当スクリプトは二次創作です。<br>　本家・上海アリス幻樂団様に問い合わせなどしないようお願い致します。<br>　<br>　　弾幕ＳＴＧは、繰り返し遊ぶ事を前提に作られたゲームです。<br>　是非、繰り返し遊んで攻撃を覚えて攻略する<br>　楽しみに触れてみてください。覚えゲー、パターンゲーは褒め言葉です。<br><br>　　それでは健闘を祈ります。</div></td><td class="tt-zh" lang="zh"><div class="poem">■１．问候<br>　　这次能下载「东方导命树　～ Mystical Power Plant. 」，<br>　真是非常感谢。<br>　<br>　　本脚本是东方Project的二次创作。<br>　请不要向本家·上海爱丽丝幻乐团询问本作。<br>　<br>　　弹幕STG是以反复游戏为前提制作的游戏。<br>　请品味一下反复游戏、记忆攻击、得到攻略的乐趣吧。<br>　背板游戏、固定游戏什么的乃是夸奖。<br>　<br>　　那么祝您好运。</div></td></tr></tbody></table>
+
 
 
 
@@ -40,10 +42,12 @@
 
 
 
+
 ###### 卸载方法
 
 
 <table><tbody><tr class="tt-content" id="=-7" data-pos="&#91;&quot;=&quot;,7&#93;"><td class="tt-ja" lang="ja"><div class="poem">■３．アンインストール方法<br><br>　「東方導命樹」フォルダごと削除して下さい。</div></td><td class="tt-zh" lang="zh"><div class="poem">■３．卸载方法<br><br>　请将「东方导命树」文件夹整个删除。</div></td></tr></tbody></table>
+
 
 
 
@@ -54,10 +58,12 @@
 
 
 
+
 ###### 如果没什么疑问
 
 
 <table><tbody><tr class="tt-content" id="=-11" data-pos="&#91;&quot;=&quot;,11&#93;"><td class="tt-ja" lang="ja"><div class="poem">■５．困ったことが無かったら<br>　お楽しみ下さい。</div></td><td class="tt-zh" lang="zh"><div class="poem">■５．如果没什么疑问<br>　请享受游戏。</div></td></tr></tbody></table>
+
 
 
 
@@ -68,10 +74,12 @@
 
 
 
+
 ###### 其他
 
 
 <table><tbody><tr class="tt-content" id="=-15" data-pos="&#91;&quot;=&quot;,15&#93;"><td class="tt-ja" lang="ja"><div class="poem">■７．なんか<br>　【スペルプラクティス】<br>　コンティニュー使用でもいいので、本編を最後までクリアすると解放されます。</div></td><td class="tt-zh" lang="zh"><div class="poem">■７．其他<br>　【Spell Practise】<br>　续关也可以，只要通了本篇就会解锁。</div></td></tr></tbody></table>
+
 
 
 

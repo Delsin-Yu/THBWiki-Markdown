@@ -4,7 +4,8 @@
 
 PARANOIA CAT ，主要制作 同人志 的日本同人社团，主催是 藤原俊一，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -25,16 +26,20 @@ PARANOIA CAT ，主要制作 同人志 的日本同人社团，主催是 藤原�
 
 
 
+
 ## 社团信息
 [](./文件-PARANOIA_CATbanner.jpg.md)  [](./文件-PARANOIA_CATbanner.jpg.md)banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> PARANOIA CAT </td></tr><tr><td><b>主要作品类型</b></td><td>同人志</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=%E8%97%A4%E5%8E%9F%E4%BF%8A%E4%B8%80&amp;action=edit&amp;redlink=1" class="new" title="藤原俊一（页面不存在）">藤原俊一</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="https://sh1.pw">https://sh1.pw</a> <br><a rel="nofollow" class="external free" href="http://kuromook.ath.cx/~sh1/index2.html">http://kuromook.ath.cx/~sh1/index2.html</a> （旧官网）<small>（<a rel="nofollow" class="external text" href="https://web.archive.org/web/20110721214923/http://kuromook.ath.cx/~sh1/index2.html">缓存页面</a>）</small></td></tr></tbody></table>
 
 PARANOIA CAT（同人社团，同人志社团） - PARANOIA CAT ，主要制作 同人志 的日本同人社团，主催是 藤原俊一，当前状态为 活动
+
 ## 成员名单
 - 藤原俊一 (未找到链接)（[Twitter](https://twitter.com/sh1kuro)）
 
+
 ## 作品列表
+
 ### 同人志
 デンシャユユコ 封面图片 (未找到链接)デンシャユユコ (未找到链接)首发日期：未知 - 八雲 紫 PREVIEW版 封面图片 (未找到链接)八雲 紫 PREVIEW版 (未找到链接)首发日期：未知 - TRANQUILLIZERS 封面图片 (未找到链接)TRANQUILLIZERS (未找到链接)首发日期：未知 - レミリア殺し 封面图片 (未找到链接)レミリア殺し (未找到链接)首发日期：未知 - UNDERWORLD PET LIFE 封面图片 (未找到链接)UNDERWORLD PET LIFE (未找到链接)首发日期：未知 - 百年小町 封面图片 (未找到链接)百年小町 (未找到链接)首发日期：未知 - 河童の『代替』エネルギー革命 封面图片 (未找到链接)河童の『代替』エネルギー革命 (未找到链接)首发日期：未知 - [](./HAKUREI-KOUMA_RALLY_2010.md)[HAKUREI-KOUMA RALLY 2010](./HAKUREI-KOUMA_RALLY_2010.md)首发日期：2010-03-14 （第七回 博麗神社例大祭 (未找到链接)）漫画 （一般向） 56&#160;页東方人物妖怪分解資料集 封面图片 (未找到链接)東方人物妖怪分解資料集 (未找到链接)首发日期：未知 - 戦国アリス #1 封面图片 (未找到链接)戦国アリス ＃1 (未找到链接)首发日期：未知 - 戦国アリス #2 封面图片 (未找到链接)戦国アリス ＃2 (未找到链接)首发日期：未知 - 戦国アリス #3 封面图片 (未找到链接)戦国アリス ＃3 (未找到链接)首发日期：未知 - 戦国アリス #4 封面图片 (未找到链接)戦国アリス ＃4 (未找到链接)首发日期：未知 - 戦国アリス #5 封面图片 (未找到链接)戦国アリス ＃5 (未找到链接)首发日期：未知 - 戦国アリス 封面图片 (未找到链接)戦国アリス (未找到链接)首发日期：未知 - 少女用 ネバネバ粘着罠 封面图片 (未找到链接)少女用 ネバネバ粘着罠 (未找到链接)首发日期：未知 - 白玉楼組 色街をいく 封面图片 (未找到链接)白玉楼組 色街をいく (未找到链接)首发日期：未知 - 東方裏社会 枯酒禁令 #1 封面图片 (未找到链接)東方裏社会 枯酒禁令 ＃1 (未找到链接)首发日期：未知 - 東方裏社会 枯酒禁令 #2 封面图片 (未找到链接)東方裏社会 枯酒禁令 ＃2 (未找到链接)首发日期：未知 - 
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -57,6 +62,7 @@ PARANOIA CAT（同人社团，同人志社团） - PARANOIA CAT ，主要制作 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458"></table>
+
 
 
 #### 東方浮世絵巻系列
@@ -90,6 +96,7 @@ PARANOIA CAT（同人社团，同人志社团） - PARANOIA CAT ，主要制作 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458"></table>
+
 
 
 ## 参展信息

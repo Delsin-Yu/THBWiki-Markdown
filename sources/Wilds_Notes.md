@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Wilds_Notes封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/6/6e/Wilds_Notes%E5%B0%81%E9%9D%A2.jpg/224px-Wilds_Notes%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="224" srcset="https://upload.thwiki.cc/thumb/6/6e/Wilds_Notes%E5%B0%81%E9%9D%A2.jpg/336px-Wilds_Notes%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/6/6e/Wilds_Notes%E5%B0%81%E9%9D%A2.jpg/448px-Wilds_Notes%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="512" data-file-height="512"></a><div class="cover-char">角色：<a href="./庭渡久侘歌.md" title="庭渡久侘歌">庭渡久侘歌</a></div></td>
@@ -14,18 +15,22 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/mizuhasi_yukkie/status/1210915882399961090">https://twitter.com/mizuhasi_yukkie/status/1210915882399961090</a></td></tr></tbody></table>
 
 Wilds Notes（同人专辑，狐の工作室，2019） - 2019年12月31日 由 狐の工作室 于 Comic Market 97 发布的Demo同人专辑，分级为 一般向
+
 ## Staff
 Illustration
 : [甘党](./甘党.md)
+
 
 ## 试听
   
 暂不支援此类型
   
 
+
 ## 曲目列表
 
 <table></table>
+
 
 
 ## 评论

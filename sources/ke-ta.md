@@ -6,11 +6,13 @@
 
 本页是关于东方Project  
  **二次同人创作者** 的词条
+
 ## 基本信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="label"><b>名称</b></td><td> ke-ta </td></tr><tr><td class="label"><b>所属社团</b></td><td><b>当前</b><div style="margin-left:2em;"><a href="./劇毒少女.md" title="劇毒少女">劇毒少女</a></div></td></tr><tr><td class="label"><b>职位</b></td><td>画师</td></tr><tr><td class="label"><b>性别</b></td><td>男</td></tr><tr><td class="label"><b>个人页面</b></td><td><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><b>Twitter</b></td><td><a rel="nofollow" class="external free" href="https://twitter.com/ke_ta_gekidoku">https://twitter.com/ke_ta_gekidoku</a></td></tr><tr><td><b>Pixiv</b></td><td><a rel="nofollow" class="external free" href="https://www.pixiv.net/member.php?id=3104565">https://www.pixiv.net/member.php?id=3104565</a></td></tr><tr><td><b>Email</b></td><td>harriet1106@gmail.com</td></tr></tbody></table></td></tr></tbody></table>
 
 ke-ta（人物） - 现实人物
+
 ## 介绍
   
 Twitter：  
@@ -24,7 +26,9 @@ ___
 涂鸦画家。在同人社团『剧毒少女』中活动。主要是活动通知等。我的兴趣爱好有FF14、FGO、公路自行车、一个人旅行。我可能不怎么会回复你。
   
 
+
 ## 参与作品
+
 ## 人际关系
 人名
 : 关系

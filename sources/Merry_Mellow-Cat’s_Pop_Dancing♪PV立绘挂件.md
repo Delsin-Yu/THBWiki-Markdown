@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **相关实体周边 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 周边信息](#周边信息)
@@ -22,6 +23,7 @@
 
 
 
+
 ## 周边信息
 
 <table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> Cat’s Pop Dancing♪PV立绘挂件 </td></tr><tr><td class="label">制作方</td><td><a href="./Merry_Mellow.md" title="Merry Mellow">Merry Mellow</a></td></tr><tr><td class="label">首发日期</td><td>2022-08-20&#160;（<a href="/展会作品列表?e=COMICUP%232022SP">COMICUP2022SP</a>）</td></tr><tr><td class="label">类型</td><td>挂件</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>约6cm</td></tr><tr><td class="label">材质</td><td>亚克力</td></tr><tr><td class="label">角色</td><td><a href="./橙.md" title="橙">橙</a><br><a href="./豪德寺三花.md" title="豪德寺三花">豪德寺三花</a><br><a href="./火焰猫燐.md" title="火焰猫燐">火焰猫燐</a></td></tr><tr><td class="label">售价</td><td>通贩售价：18人民币（挂件）45（三个挂件一起）</td></tr>
@@ -32,17 +34,22 @@ Merry Mellow/Cat’s Pop Dancing♪PV立绘挂件（周边，Merry Mellow，2022
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://item.taobao.com/item.htm?id=678658736485">淘宝</a></td></tr></tbody></table>
 
 
+
 ## 参考图
   
 周边宣传、售卖时使用的作为参考图的预览图或实物图的图片。
   
 
+
 ### 预览图
 - [](./文件-Merry_Mellow／Cat’s_Pop_Dancing♪PV立绘挂件预览图1.png.md)
 
+
 ### 实物图
+
 ## Staff
 - [金森めい](./金森めい.md)
+
 
 ## 评论
 

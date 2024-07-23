@@ -6,17 +6,22 @@
 
 本页是关于东方Project  
  **二次同人创作者** 的词条
+
 ## 基本信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="label"><b>名称</b></td><td> You-Re: <span style="font-size:90%;">（识别名：You-Re：）</span></td></tr><tr><td class="label"><b>别名</b></td><td>ユーリ</td></tr><tr><td class="label"><b>所属社团</b></td><td><b>当前</b><div style="margin-left:2em;">无所属社团</div></td></tr><tr><td class="label"><b>职位</b></td><td>演唱</td></tr><tr><td class="label"><b>参与社团</b></td><td><a href="./IOSYS.md" title="IOSYS">IOSYS</a> （演唱）<br><a href="./ユウノウミ.md" title="ユウノウミ">ユウノウミ</a> （演唱）</td></tr><tr><td class="label"><b>个人页面</b></td><td><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><b>Twitter</b></td><td><a rel="nofollow" class="external free" href="https://twitter.com/lilly_0225">https://twitter.com/lilly_0225</a></td></tr></tbody></table></td></tr></tbody></table>
 
 You-Re：（人物） - 现实人物
+
 ## 介绍
+
 ## 参与作品
+
 ### 同人音乐
   
 模板:人物曲目列表 (未找到链接)
   
+
 
 ## 人际关系
 人名

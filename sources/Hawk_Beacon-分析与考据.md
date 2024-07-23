@@ -4,6 +4,7 @@
 
 符卡 | 茨木华扇
 
+
 ## 分析与考据
   
  **鷹符「ホークビーコン」**  鹰符「Hawk Beacon」（飞鹰信标）
@@ -18,6 +19,7 @@
 - ホークビーコン（Hawk Beacon）
   - HAWK beacon。
     - 全称为High-Intensity Activated crosswalK beacon。一种交通信号灯，只在有行人需要过路的时候停止车辆通行。
+
 
 
 

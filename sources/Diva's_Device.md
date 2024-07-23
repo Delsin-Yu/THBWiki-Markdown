@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **东方风自作曲** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -27,11 +28,13 @@
 
 
 
+
 ## 基本信息
 
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">ディーヴァズディバイス</td></tr><tr><td><b>译名</b></td><td>Diva&#39;s Device</td></tr><tr><td><b>作曲</b></td><td><a href="./Wanwan.md" title="Wanwan">Wanwan</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>引用</td></tr><tr><td style="padding-left:15px"><b>原曲</b></td><td><a href="./光辉圣米歇尔.md" title="光辉圣米歇尔" unred="">燦々サン・ミシェル</a></td></tr><tr><td style="padding-left:15px"><b>　来源</b></td><td>东方邪星章　～ The Last Comer.</td></tr></tbody></table>
 
 Diva's Device（曲目） - 由 Wanwan 创作的东方风自作曲，原名 ディーヴァズディバイス
+
 ## 出现作品
 
 <table>
@@ -39,7 +42,9 @@ Diva's Device（曲目） - 由 Wanwan 创作的东方风自作曲，原名 デ�
 </tbody></table>
 
 
+
 ## 说明文本
+
 ### 东方导命树
 - [Music Room](./東方導命樹_～_Mystical_Power_Plant.-音乐.md)
 
@@ -55,8 +60,11 @@ Extra关卡的主题曲。
 有段旋律模仿了道中的“那孩子”的主题曲。
   
 
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
 
 

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -34,11 +35,13 @@
 
 
 
+
 ## 基本信息
 
-<table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">神は恵みの雨を降らす　～ Sylphid Dream</td></tr><tr><td><b>译名</b></td><td>神明降下恩惠之雨 ～ Sylphid Dream</td></tr><tr><td><b>英文译名</b></td><td>The Gods Give Us Blessed Rain ~ Sylphid Dream</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>引用</td></tr><tr><td style="padding-left:15px"><b>原曲</b></td><td><a href="/%E7%A5%9E%E3%81%95%E3%81%B3%E3%81%9F%E5%8F%A4%E6%88%A6%E5%A0%B4_%EF%BD%9E_Suwa_Foughten_Field" class="mw-redirect" title="神さびた古戦場 ～ Suwa Foughten Field">神さびた古戦場　～ Suwa Foughten Field</a></td></tr><tr><td style="padding-left:15px"><b>　来源</b></td><td>东方风神录　～ Mountain of Faith.</td></tr></tbody></table>
+<table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">神は恵みの雨を降らす　～ Sylphid Dream</td></tr><tr><td><b>译名</b></td><td>神明降下恩惠之雨 ～ Sylphid Dream</td></tr><tr><td><b>英文译名</b></td><td>The Gods Give Us Blessed Rain ~ Sylphid Dream</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>引用</td></tr><tr><td style="padding-left:15px"><b>原曲</b></td><td><a href="./神さびた古戦場_～_Suwa_Foughten_Field.md" class="mw-redirect" title="神さびた古戦場 ～ Suwa Foughten Field">神さびた古戦場　～ Suwa Foughten Field</a></td></tr><tr><td style="padding-left:15px"><b>　来源</b></td><td>东方风神录　～ Mountain of Faith.</td></tr></tbody></table>
 
 神明降下恩惠之雨 ～ Sylphid Dream（曲目） - 由 ZUN 创作的官方曲目，原名 神は恵みの雨を降らす　～ Sylphid Dream
+
 ## 出现作品
 
 <table>
@@ -46,7 +49,9 @@
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 东方风神录
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th10_17.mp3.md" title="文件:th10 17.mp3">th10_17.mp3</a><br><audio src="https://upload.thwiki.cc/5/5f/th10_17.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>BGM\th10_17.wav</td></tr><tr><td><b>BGMForAll</b></td><td><div class="mw-collapsible mw-collapsed">
@@ -57,7 +62,9 @@
 </td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 东方风神录
 - Music Room (未找到链接)
 
@@ -67,8 +74,11 @@
 　所谓风之神，并不是只能像天狗一样扬风，  
 　而是更贴近于农业之神的感觉呢。  
 　说到农业自然想到雨，所以说啦，雨。
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
   
  **神は恵みの雨を降らす　～ Sylphid Dream**  神明降下恩惠之雨　～ Sylphid Dream
@@ -99,6 +109,7 @@
   - 少女。
     - 灵梦？
     - 早苗？
+
 
 
 

@@ -6,6 +6,7 @@
 
 - 本页面内容为官方音乐CD **幺乐团的历史5** 的附带文档的原文与翻译以及光盘的扫图。
 
+
 ## 目录
 
 - [1 光盘扫图](#光盘扫图)
@@ -20,10 +21,12 @@
 
 
 
+
 ## 光盘扫图
 
 <table>
 <tbody><tr><th colspan="2">包含角色信息</th></tr><tr><td style="min-width:60px;"><b>作品序号</b></td><td>ZCDS-0011</td></tr><tr><td><b>封面角色</b></td><td><a href="./稗田阿求.md" title="稗田阿求">稗田阿求</a>，<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></td></tr><tr><td><b>碟面角色</b></td><td><a href="./稗田阿求.md" title="稗田阿求">稗田阿求</a>，<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></td></tr></tbody></table>
+
 
 
 ### 外面
@@ -47,6 +50,7 @@
 
 
 <table><tbody><tr class="tt-content" id="外面-1" data-pos="&#91;&quot;\u5916\u9762&quot;,1&#93;"><td class="tt-ja" lang="ja"><div class="poem"><big>幺樂——それは消え入りそうな音樂、ここではFM音源を指す<br>原点中の原点阿求の懐古コレクション第五弾！</big></div></td><td class="tt-zh" lang="zh"><div class="poem"><big>幺乐——那是近乎消失的音乐，在这里指的是FM音源<br>原点中的原点，阿求的怀古收藏第五弹！</big></div></td></tr><tr class="tt-content" id="外面-2" data-pos="&#91;&quot;\u5916\u9762&quot;,2&#93;"><td class="tt-ja" lang="ja"><div class="poem"><big>幺樂団の歴史　「東方靈異伝　～ Highly Responsive to Prayers」</big></div></td><td class="tt-zh" lang="zh"><div class="poem"><big>幺乐团的历史　「东方灵异传　～ Highly Responsive to Prayers」</big></div></td></tr></tbody></table>
+
 
 
 ### 内面与碟面

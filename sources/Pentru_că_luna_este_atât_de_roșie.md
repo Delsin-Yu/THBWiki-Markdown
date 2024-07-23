@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=Pentru_c%C4%83_luna_este_at%C3%A2t_de_ro%C8%99ie%E5%B0%81%E9%9D%A2.jpg" class="new" title="文件:Pentru că luna este atât de roșie封面.jpg">封面图片</a></td>
@@ -14,13 +15,16 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/10810km/status/1179329205152161792">https://twitter.com/10810km/status/1179329205152161792</a></td></tr></tbody></table>
 
 Pentru că luna este atât de roșie（同人志，doneNaura，2019） - 2019年10月6日 由 doneNaura 于 博丽神社秋季例大祭6 发布的画集同人志，一共16页，分级为 一般向
+
 ## 预览
   
 [Twitter](https://twitter.com/10810km/status/1183841005612613632)
   
 
+
 ## Staff
 - MUHA閣下 (未找到链接)
+
 
 ## 评论
 

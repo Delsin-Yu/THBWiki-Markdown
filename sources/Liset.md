@@ -4,7 +4,8 @@
 
 Liset ，主要制作 同人音乐 的日本同人社团，主催是 まーきー，当前状态为 休止
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -20,12 +21,14 @@ Liset ，主要制作 同人音乐 的日本同人社团，主催是 まーき�
 
 
 
+
 ## 社团信息
 文件:Lisetbanner.jpg (未找到链接)  banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Liset </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=%E3%81%BE%E3%83%BC%E3%81%8D%E3%83%BC&amp;action=edit&amp;redlink=1" class="new" title="まーきー（页面不存在）">まーきー</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://homepage3.nifty.com/magicalinterface/">http://homepage3.nifty.com/magicalinterface/</a> <br><a rel="nofollow" class="external free" href="http://magicalinterface.blog79.fc2.com/">http://magicalinterface.blog79.fc2.com/</a></td></tr></tbody></table>
 
 Liset（同人社团，同人音乐社团） - Liset ，主要制作 同人音乐 的日本同人社团，主催是 まーきー，当前状态为 休止
+
 ## 成员名单
 - なつ (未找到链接)：Vocal
 - まーきー (未找到链接)：Guitar
@@ -34,7 +37,9 @@ Liset（同人社团，同人音乐社团） - Liset ，主要制作 同人音�
 - しげちゃん (未找到链接)：Drums
 - みどりちゃん (未找到链接)：Keyboard
 
+
 ## 作品列表
+
 ### 同人专辑
 平成弾丸娘 封面图片 (未找到链接)平成弾丸娘 (未找到链接)首发日期：未知 - 恋の弾幕ストラックアウト！ 封面图片 (未找到链接)[恋の弾幕ストラックアウト！](./恋の弾幕ストラックアウト！.md)首发日期：2009-08-15 （Comic Market 76 (未找到链接)）全长 （一般向）[](./星の船.md)[星の船](./星の船.md)首发日期：2010-03-14 （第七回 博麗神社例大祭 (未找到链接)）EP （一般向）
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -42,6 +47,7 @@ Liset（同人社团，同人音乐社团） - Liset ，主要制作 同人音�
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 参展信息

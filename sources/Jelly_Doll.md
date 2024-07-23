@@ -4,7 +4,8 @@
 
 Jelly Doll ，于 2022 年成立，主要制作 同人音乐 的日本同人社团，主催是 ルナ，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -15,15 +16,18 @@ Jelly Doll ，于 2022 年成立，主要制作 同人音乐 的日本同人社�
 
 
 
+
 ## 社团信息
 文件:Jelly Dolllogo.png (未找到链接)  Logo
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Jelly Doll </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2022</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=%E3%83%AB%E3%83%8A&amp;action=edit&amp;redlink=1" class="new" title="ルナ（页面不存在）">ルナ</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="https://ejellydoll.wixsite.com/jellydoll">https://ejellydoll.wixsite.com/jellydoll</a> <br><a rel="nofollow" class="external free" href="https://phoobserin.booth.pm/">https://phoobserin.booth.pm/</a></td></tr></tbody></table>
 
 Jelly Doll（同人社团，同人音乐社团） - Jelly Doll ，于 2022 年成立，主要制作 同人音乐 的日本同人社团，主催是 ルナ，当前状态为 活动
+
 ## 成员名单
 - ルナ (未找到链接)
   - [Twitter&#160;: @jellyfish_Luna](https://twitter.com/jellyfish_Luna)
+
 
 
 ## 作品列表
@@ -36,6 +40,7 @@ Jelly Doll（同人社团，同人音乐社团） - Jelly Doll ，于 2022 年�
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 参展信息

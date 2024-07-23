@@ -21,12 +21,14 @@
 
   
 </center>
+
 ## 说明文本
 [](./文件-博丽灵梦&比那名居天子组合.jpg.md)  [](./文件-博丽灵梦&比那名居天子组合.jpg.md)博丽灵梦&amp;比那名居天子
 
 <table><tbody><tr><td style="min-width:200px" colspan="2" align="center"><b>安心安全的安定感类型</b></td><td style="min-width:150px" colspan="2" align="center" lang="ja"><b>安心安全の安定感タイプ</b></td></tr><tr><td style="min-width:125px"><b>支援</b></td><td style="min-width:125px">（高速时）/（低速时）<br></td><td style="min-width:100px" lang="ja">（高速時）/（低速時）<br></td></tr><tr><td style="min-width:125px"><b>支援角色</b></td><td style="min-width:125px">博丽灵梦/比那名居天子<br></td><td style="min-width:100px" lang="ja">博麗霊夢/比那名居天子<br></td></tr>
 <tr><td style="min-width:200px" colspan="2" align="center"><b>博丽灵梦</b></td><td style="min-width:150px" colspan="2" align="center" lang="ja"><b>博麗霊夢</b></td></tr><tr><td style="min-width:125px"><b>火力</b></td><td style="min-width:125px">☆☆<br></td><td style="min-width:100px" lang="ja">☆☆<br></td></tr><tr><td style="min-width:125px"><b>速度</b></td><td style="min-width:125px">☆☆☆<br></td><td style="min-width:100px" lang="ja">☆☆☆<br></td></tr><tr><td style="min-width:125px"><b>通常射击</b></td><td style="min-width:125px">「博丽神社手制调伏弹」<br></td><td style="min-width:100px" lang="ja">「博麗神社お手製調伏弾」<br></td></tr><tr><td style="min-width:125px"><b>通常bomb</b></td><td style="min-width:125px">装符「二色阴阳针」<br></td><td style="min-width:100px" lang="ja">装符「二色隂陽針」<br></td></tr>
 <tr><td style="min-width:200px" colspan="2" align="center"><b>比那名居天子</b></td><td style="min-width:150px" colspan="2" align="center" lang="ja"><b>比那名居天子</b></td></tr><tr><td style="min-width:125px"><b>能量</b></td><td style="min-width:125px">☆☆☆☆<br></td><td style="min-width:100px" lang="ja">☆☆☆☆<br></td></tr><tr><td style="min-width:125px"><b>速度</b></td><td style="min-width:125px">☆☆<br></td><td style="min-width:100px" lang="ja">☆☆<br></td></tr><tr><td style="min-width:125px"><b>通常射击</b></td><td style="min-width:125px">「天子专用绯想之剑」<br></td><td style="min-width:100px" lang="ja">「天子専用緋想の剣」<br></td></tr><tr><td style="min-width:125px"><b>通常bomb</b></td><td style="min-width:125px">追尾「要石浮游炮 -虹色-」<br></td><td style="min-width:100px" lang="ja">追尾「カナメファンネル -虹色-」<br></td></tr></tbody></table>
+
 
 
 

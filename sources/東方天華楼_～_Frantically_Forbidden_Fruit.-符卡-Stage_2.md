@@ -220,6 +220,7 @@ Gore | 含有受损文件链接的页面 | 待翻译页面
 <tr><td>符卡原名</td><td>豪雨「河底大戦争」</td></tr><tr><td>出现位置</td><td>Stage 2 - Lunatic（<a href="/index.php?title=%E6%9D%B1%E6%96%B9%E5%A4%A9%E8%8F%AF%E6%A5%BC_%EF%BD%9E_Frantically_Forbidden_Fruit./%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A&amp;action=edit&amp;redlink=1" class="new" title="東方天華楼 ～ Frantically Forbidden Fruit./角色设定（页面不存在）">河城荷取</a>）</td></tr><tr><td>说明文本</td><td>増水する河を表現した弾幕。にとりから打たれる自機狙いは、実は一発目の角度のまま変わらない。</td></tr></tbody></table>
 
 
+
 ## 词条导航
   
   

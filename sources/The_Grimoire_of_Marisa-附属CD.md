@@ -18,8 +18,8 @@
 The Grimoire of Marisa/附属CD（官方专辑） - 官方专辑
 ## 曲目
 
-<table><tbody><tr><td class="infoYD"><b>01</b></td><td colspan="2" class="title"><a href="./魔法使的忧郁.md" title="魔法使的忧郁">魔法使的忧郁</a></td><td class="time">04:30</td></tr><tr><td class="left"></td><td colspan="3" class="bigtext"><a href="/%E9%AD%94%E6%B3%95%E4%BD%BF%E3%81%84%E3%81%AE%E6%86%82%E9%AC%B1" class="mw-redirect" title="魔法使いの憂鬱">魔法使いの憂鬱</a></td></tr>
-<tr><td class="infoRD"><b>02</b></td><td colspan="2" class="title"><a href="./斯普特尼克幻夜.md" title="斯普特尼克幻夜">斯普特尼克幻夜</a></td><td class="time">04:34</td></tr><tr><td class="left"></td><td colspan="3" class="bigtext"><a href="/%E3%82%B9%E3%83%97%E3%83%BC%E3%83%88%E3%83%8B%E3%82%AF%E5%B9%BB%E5%A4%9C" class="mw-redirect" title="スプートニク幻夜">スプートニク幻夜</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2">スプートニク幻夜</td></tr><tr><td class="left"></td><td class="label">来源</td><td class="text" colspan="2"><a href="./秋霜玉.md" title="秋霜玉">秋霜玉</a></td></tr></tbody></table>
+<table><tbody><tr><td class="infoYD"><b>01</b></td><td colspan="2" class="title"><a href="./魔法使的忧郁.md" title="魔法使的忧郁">魔法使的忧郁</a></td><td class="time">04:30</td></tr><tr><td class="left"></td><td colspan="3" class="bigtext"><a href="./魔法使いの憂鬱.md" class="mw-redirect" title="魔法使いの憂鬱">魔法使いの憂鬱</a></td></tr>
+<tr><td class="infoRD"><b>02</b></td><td colspan="2" class="title"><a href="./斯普特尼克幻夜.md" title="斯普特尼克幻夜">斯普特尼克幻夜</a></td><td class="time">04:34</td></tr><tr><td class="left"></td><td colspan="3" class="bigtext"><a href="./スプートニク幻夜.md" class="mw-redirect" title="スプートニク幻夜">スプートニク幻夜</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2">スプートニク幻夜</td></tr><tr><td class="left"></td><td class="label">来源</td><td class="text" colspan="2"><a href="./秋霜玉.md" title="秋霜玉">秋霜玉</a></td></tr></tbody></table>
 
 
 ## 光盘扫图

@@ -6,6 +6,7 @@ Air_Master!_～_Soul_Dualism | JynX作曲 | 引用了翻译表的页面 | 连缘
 
 本页是关于 **向[东方Project](./东方Project.md)  
 致敬、形式类似的作品** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -28,6 +29,7 @@ Air_Master!_～_Soul_Dualism | JynX作曲 | 引用了翻译表的页面 | 连缘
 
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
+
 
 
 
@@ -63,6 +65,7 @@ Air_Master!_～_Soul_Dualism | JynX作曲 | 引用了翻译表的页面 | 连缘
 </td></tr></tbody></table>
 
 
+
 ## 出现作品
 
 <table>
@@ -72,10 +75,13 @@ Air_Master!_～_Soul_Dualism | JynX作曲 | 引用了翻译表的页面 | 连缘
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 连缘无现里
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>MIDI格式</b></td><td>无播放信息</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-le01_10.mp3.md" title="文件:le01 10.mp3">le01_10.mp3</a><br><audio src="https://upload.thwiki.cc/2/27/le01_10.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>未填写</td></tr></tbody></table>
+
 
 
 ### 连缘天影战记
@@ -83,7 +89,9 @@ Air_Master!_～_Soul_Dualism | JynX作曲 | 引用了翻译表的页面 | 连缘
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>MIDI格式</b></td><td>无播放信息</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-le04_BOSS_Hooaka.mp3.md" title="文件:le04 BOSS Hooaka.mp3">le04_BOSS_Hooaka.mp3</a><br><audio src="https://upload.thwiki.cc/8/82/le04_BOSS_Hooaka.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>未填写</td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 连缘无现里
 - Music Room (未找到链接)
 
@@ -92,6 +100,7 @@ Air_Master!_～_Soul_Dualism | JynX作曲 | 引用了翻译表的页面 | 连缘
 不过颊赤的脸颊不会变红哦。只要没醉的话。  
 是个在“察读气氛”方面颇受好评的家伙，所以是Air Master呢。  
 不不不，曲名真的是由能力而来的啦，真的真的。
+
 ### 连缘天影战记
 - Music Room (未找到链接)
 
@@ -102,8 +111,11 @@ Air_Master!_～_Soul_Dualism | JynX作曲 | 引用了翻译表的页面 | 连缘
 但作为BOSS真是相当久违了。  
   
 这首曲子配合着战乱的气氛变得酷热了起来。
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
   
  **エア・マスター！ ～ Soul_Dualism**   

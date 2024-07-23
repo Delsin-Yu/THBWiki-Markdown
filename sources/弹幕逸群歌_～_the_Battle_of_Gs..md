@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 软件信息](#软件信息)
@@ -30,6 +31,7 @@
 
 
 
+
 ## 软件信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-弹幕逸群歌_～_the_Battle_of_Gs.封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/3/34/%E5%BC%B9%E5%B9%95%E9%80%B8%E7%BE%A4%E6%AD%8C_%EF%BD%9E_the_Battle_of_Gs.%E5%B0%81%E9%9D%A2.jpg/224px-%E5%BC%B9%E5%B9%95%E9%80%B8%E7%BE%A4%E6%AD%8C_%EF%BD%9E_the_Battle_of_Gs.%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="224" srcset="https://upload.thwiki.cc/thumb/3/34/%E5%BC%B9%E5%B9%95%E9%80%B8%E7%BE%A4%E6%AD%8C_%EF%BD%9E_the_Battle_of_Gs.%E5%B0%81%E9%9D%A2.jpg/336px-%E5%BC%B9%E5%B9%95%E9%80%B8%E7%BE%A4%E6%AD%8C_%EF%BD%9E_the_Battle_of_Gs.%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/3/34/%E5%BC%B9%E5%B9%95%E9%80%B8%E7%BE%A4%E6%AD%8C_%EF%BD%9E_the_Battle_of_Gs.%E5%B0%81%E9%9D%A2.jpg/448px-%E5%BC%B9%E5%B9%95%E9%80%B8%E7%BE%A4%E6%AD%8C_%EF%BD%9E_the_Battle_of_Gs.%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1028" data-file-height="1028"></a></td>
@@ -44,6 +46,7 @@
 2020年1月24日发布体验版。
   
 
+
 ## Staff
 - 策划：无耳
 - 关卡设计：Void、亚弘、禁忌、Miko、S7UPID、穷学生
@@ -52,23 +55,29 @@
 - 程序：OLC、无耳
 - 文案：无耳、亚弘、野笙的璃子
 
+
 ## 内容页面
 - 游戏设定与剧情 (未找到链接)
 
+
 ## 角色
+
 ### 自机
 
 <table><tbody><tr><td style="min-width:40px;" rowspan=""><div class="center"><div class="floatnone"><a href="./文件-无耳（逸群歌）.png.md" class="image" title="无耳"><img alt="无耳" src="https://upload.thwiki.cc/thumb/0/0a/%E6%97%A0%E8%80%B3%EF%BC%88%E9%80%B8%E7%BE%A4%E6%AD%8C%EF%BC%89.png/17px-%E6%97%A0%E8%80%B3%EF%BC%88%E9%80%B8%E7%BE%A4%E6%AD%8C%EF%BC%89.png" decoding="async" loading="lazy" width="17" height="40" srcset="https://upload.thwiki.cc/thumb/0/0a/%E6%97%A0%E8%80%B3%EF%BC%88%E9%80%B8%E7%BE%A4%E6%AD%8C%EF%BC%89.png/26px-%E6%97%A0%E8%80%B3%EF%BC%88%E9%80%B8%E7%BE%A4%E6%AD%8C%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/0/0a/%E6%97%A0%E8%80%B3%EF%BC%88%E9%80%B8%E7%BE%A4%E6%AD%8C%EF%BC%89.png/34px-%E6%97%A0%E8%80%B3%EF%BC%88%E9%80%B8%E7%BE%A4%E6%AD%8C%EF%BC%89.png 2x" data-file-width="352" data-file-height="813"></a></div></div></td> <td style="width:150px;padding:3px 9px 3px 7px;" rowspan="">不祥的黑犬 </td><td style="width:180px;padding:3px 9px 3px 7px;"><a href="./无耳.md" title="无耳">无耳</a></td><td><a href="/index.php?title=%E6%B8%B8%E6%88%8F%E5%AF%B9%E8%AF%9D:%E5%BC%B9%E5%B9%95%E9%80%B8%E7%BE%A4%E6%AD%8C_%EF%BD%9E_the_Battle_of_Gs./%E6%97%A0%E8%80%B3&amp;action=edit&amp;redlink=1" class="new" title="游戏对话:弹幕逸群歌 ～ the Battle of Gs./无耳（页面不存在）">游戏对话/结局</a><br><a href="/index.php?title=%E6%B8%B8%E6%88%8F%E5%AF%B9%E8%AF%9D:%E5%BC%B9%E5%B9%95%E9%80%B8%E7%BE%A4%E6%AD%8C_%EF%BD%9E_the_Battle_of_Gs./%E6%97%A0%E8%80%B3_ExStory&amp;action=edit&amp;redlink=1" class="new" title="游戏对话:弹幕逸群歌 ～ the Battle of Gs./无耳 ExStory（页面不存在）">Extra游戏对话</a></td></tr>
 <tr><td style="min-width:40px;" rowspan=""><div class="center"><div class="floatnone"><a href="./文件-砂砾籽（逸群歌）.png.md" class="image" title="砂砾籽"><img alt="砂砾籽" src="https://upload.thwiki.cc/thumb/c/cf/%E7%A0%82%E7%A0%BE%E7%B1%BD%EF%BC%88%E9%80%B8%E7%BE%A4%E6%AD%8C%EF%BC%89.png/17px-%E7%A0%82%E7%A0%BE%E7%B1%BD%EF%BC%88%E9%80%B8%E7%BE%A4%E6%AD%8C%EF%BC%89.png" decoding="async" loading="lazy" width="17" height="40" srcset="https://upload.thwiki.cc/thumb/c/cf/%E7%A0%82%E7%A0%BE%E7%B1%BD%EF%BC%88%E9%80%B8%E7%BE%A4%E6%AD%8C%EF%BC%89.png/26px-%E7%A0%82%E7%A0%BE%E7%B1%BD%EF%BC%88%E9%80%B8%E7%BE%A4%E6%AD%8C%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/c/cf/%E7%A0%82%E7%A0%BE%E7%B1%BD%EF%BC%88%E9%80%B8%E7%BE%A4%E6%AD%8C%EF%BC%89.png/34px-%E7%A0%82%E7%A0%BE%E7%B1%BD%EF%BC%88%E9%80%B8%E7%BE%A4%E6%AD%8C%EF%BC%89.png 2x" data-file-width="352" data-file-height="813"></a></div></div></td> <td style="width:150px;padding:3px 9px 3px 7px;" rowspan="">幻想的干涉者 </td><td style="width:180px;padding:3px 9px 3px 7px;"><a href="./砂砾籽.md" title="砂砾籽">砂砾籽</a></td><td><a href="/index.php?title=%E6%B8%B8%E6%88%8F%E5%AF%B9%E8%AF%9D:%E5%BC%B9%E5%B9%95%E9%80%B8%E7%BE%A4%E6%AD%8C_%EF%BD%9E_the_Battle_of_Gs./%E7%A0%82%E7%A0%BE%E7%B1%BD&amp;action=edit&amp;redlink=1" class="new" title="游戏对话:弹幕逸群歌 ～ the Battle of Gs./砂砾籽（页面不存在）">游戏对话/结局</a><br><a href="/index.php?title=%E6%B8%B8%E6%88%8F%E5%AF%B9%E8%AF%9D:%E5%BC%B9%E5%B9%95%E9%80%B8%E7%BE%A4%E6%AD%8C_%EF%BD%9E_the_Battle_of_Gs./%E7%A0%82%E7%A0%BE%E7%B1%BD_ExStory&amp;action=edit&amp;redlink=1" class="new" title="游戏对话:弹幕逸群歌 ～ the Battle of Gs./砂砾籽 ExStory（页面不存在）">Extra游戏对话</a></td></tr></tbody></table>
 
 
+
 ### BOSS
+
 #### 无耳线
 
 <table><tbody><tr><td rowspan="1" class="bg-color-info-10" style="min-width:100px"><b>一面道中</b><br><i><a href="/index.php?title=%E8%8C%AB%E7%84%B6%E9%9B%BE%E8%A1%8C&amp;action=edit&amp;redlink=1" class="new" title="茫然雾行（页面不存在）">茫然雾行</a></i></td><td style="min-width:35px" rowspan="1"><div class="center"><div class="floatnone"><a href="./文件-百灵箫.png.md" class="image"><img alt="百灵箫.png" src="https://upload.thwiki.cc/thumb/d/d1/%E7%99%BE%E7%81%B5%E7%AE%AB.png/20px-%E7%99%BE%E7%81%B5%E7%AE%AB.png" decoding="async" loading="lazy" width="20" height="40" srcset="https://upload.thwiki.cc/thumb/d/d1/%E7%99%BE%E7%81%B5%E7%AE%AB.png/30px-%E7%99%BE%E7%81%B5%E7%AE%AB.png 1.5x, https://upload.thwiki.cc/thumb/d/d1/%E7%99%BE%E7%81%B5%E7%AE%AB.png/40px-%E7%99%BE%E7%81%B5%E7%AE%AB.png 2x" data-file-width="99" data-file-height="195"></a></div></div></td>  <td style="width:150px;padding:3px 9px 3px 7px;" rowspan="1"> -</td><td style="width:180px;padding:3px 9px 3px 7px;" rowspan="1"> <a href="./百灵箫.md" title="百灵箫">百灵箫</a> </td></tr><tr><td rowspan="1" class="bg-color-info-10" style="min-width:100px"><b>一面BOSS</b><br><i><a href="/index.php?title=Captain_of_Disaster&amp;action=edit&amp;redlink=1" class="new" title="Captain of Disaster（页面不存在）">Captain of Disaster</a></i></td><td style="min-width:35px" rowspan="1"><div class="center"><div class="floatnone"><a href="./文件-村纱水蜜（逸群歌）.png.md" class="image"><img alt="村纱水蜜（逸群歌）.png" src="https://upload.thwiki.cc/thumb/1/1d/%E6%9D%91%E7%BA%B1%E6%B0%B4%E8%9C%9C%EF%BC%88%E9%80%B8%E7%BE%A4%E6%AD%8C%EF%BC%89.png/31px-%E6%9D%91%E7%BA%B1%E6%B0%B4%E8%9C%9C%EF%BC%88%E9%80%B8%E7%BE%A4%E6%AD%8C%EF%BC%89.png" decoding="async" loading="lazy" width="31" height="40" srcset="https://upload.thwiki.cc/thumb/1/1d/%E6%9D%91%E7%BA%B1%E6%B0%B4%E8%9C%9C%EF%BC%88%E9%80%B8%E7%BE%A4%E6%AD%8C%EF%BC%89.png/47px-%E6%9D%91%E7%BA%B1%E6%B0%B4%E8%9C%9C%EF%BC%88%E9%80%B8%E7%BE%A4%E6%AD%8C%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/1/1d/%E6%9D%91%E7%BA%B1%E6%B0%B4%E8%9C%9C%EF%BC%88%E9%80%B8%E7%BE%A4%E6%AD%8C%EF%BC%89.png/63px-%E6%9D%91%E7%BA%B1%E6%B0%B4%E8%9C%9C%EF%BC%88%E9%80%B8%E7%BE%A4%E6%AD%8C%EF%BC%89.png 2x" data-file-width="136" data-file-height="173"></a></div></div></td>  <td style="width:150px;padding:3px 9px 3px 7px;" rowspan="1"> 湖畔的幽灵店长</td><td style="width:180px;padding:3px 9px 3px 7px;" rowspan="1"> <a href="./村纱水蜜.md" title="村纱水蜜">村纱水蜜</a> </td></tr>
 <tr> <td class="bg-color-info-10" style="min-width:100px"><b>二面道中</b><br><i><a href="/index.php?title=The_Waterfall&amp;action=edit&amp;redlink=1" class="new" title="The Waterfall（页面不存在）">The Waterfall</a></i></td> <td rowspan="2"><div class="center"><div class="floatnone"><a href="./文件-射命丸文（逸群歌）.png.md" class="image" title="射命丸文"><img alt="射命丸文" src="https://upload.thwiki.cc/thumb/3/3a/%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87%EF%BC%88%E9%80%B8%E7%BE%A4%E6%AD%8C%EF%BC%89.png/25px-%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87%EF%BC%88%E9%80%B8%E7%BE%A4%E6%AD%8C%EF%BC%89.png" decoding="async" loading="lazy" width="25" height="40" srcset="https://upload.thwiki.cc/thumb/3/3a/%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87%EF%BC%88%E9%80%B8%E7%BE%A4%E6%AD%8C%EF%BC%89.png/37px-%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87%EF%BC%88%E9%80%B8%E7%BE%A4%E6%AD%8C%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/3/3a/%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87%EF%BC%88%E9%80%B8%E7%BE%A4%E6%AD%8C%EF%BC%89.png/49px-%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87%EF%BC%88%E9%80%B8%E7%BE%A4%E6%AD%8C%EF%BC%89.png 2x" data-file-width="118" data-file-height="190"></a></div></div></td> <td style="width:150px;padding:3px 9px 3px 7px;" rowspan="2"> 幻想的天狗记者</td><td style="width:180px;padding:3px 9px 3px 7px;" rowspan="2"> <a href="./射命丸文.md" title="射命丸文">射命丸文</a></td></tr><tr><td class="bg-color-info-10" style="min-width:100px"><b>二面BOSS</b><br><i><a href="/index.php?title=%E6%97%A0%E5%8F%8C%E9%A3%8E%E7%A5%9E_%EF%BD%9E_Rapid_Blow!&amp;action=edit&amp;redlink=1" class="new" title="无双风神 ～ Rapid Blow!（页面不存在）">无双风神 ～ Rapid Blow!</a></i></td></tr>
 <tr> <td class="bg-color-info-10" style="min-width:100px"><b>三面道中</b><br><i><a href="/index.php?title=%E6%80%9D%E5%BF%B5%E4%B9%8B%E7%A7%8B_%EF%BD%9E_Tranquil_Dewdrops&amp;action=edit&amp;redlink=1" class="new" title="思念之秋 ～ Tranquil Dewdrops（页面不存在）">思念之秋 ～ Tranquil Dewdrops</a></i></td> <td rowspan="2"><div class="center"><div class="floatnone"><a href="./文件-蒂蕾茉·斯丢皮.png.md" class="image" title="蒂蕾茉·斯丢皮"><img alt="蒂蕾茉·斯丢皮" src="https://upload.thwiki.cc/thumb/c/c3/%E8%92%82%E8%95%BE%E8%8C%89%C2%B7%E6%96%AF%E4%B8%A2%E7%9A%AE.png/32px-%E8%92%82%E8%95%BE%E8%8C%89%C2%B7%E6%96%AF%E4%B8%A2%E7%9A%AE.png" decoding="async" loading="lazy" width="32" height="40" srcset="https://upload.thwiki.cc/thumb/c/c3/%E8%92%82%E8%95%BE%E8%8C%89%C2%B7%E6%96%AF%E4%B8%A2%E7%9A%AE.png/48px-%E8%92%82%E8%95%BE%E8%8C%89%C2%B7%E6%96%AF%E4%B8%A2%E7%9A%AE.png 1.5x, https://upload.thwiki.cc/thumb/c/c3/%E8%92%82%E8%95%BE%E8%8C%89%C2%B7%E6%96%AF%E4%B8%A2%E7%9A%AE.png/63px-%E8%92%82%E8%95%BE%E8%8C%89%C2%B7%E6%96%AF%E4%B8%A2%E7%9A%AE.png 2x" data-file-width="139" data-file-height="175"></a></div></div></td> <td style="width:150px;padding:3px 9px 3px 7px;" rowspan="2"> 风与枫中的舞蹈者</td><td style="width:180px;padding:3px 9px 3px 7px;" rowspan="2"> <a href="./蒂蕾茉·斯丢皮.md" title="蒂蕾茉·斯丢皮">蒂蕾茉·斯丢皮</a></td></tr><tr><td class="bg-color-info-10" style="min-width:100px"><b>三面BOSS</b><br><i><a href="/index.php?title=%E7%82%BD%E7%83%88%E6%9E%AB%E7%BA%A2_%EF%BD%9E_Maple_Leaves_Forever&amp;action=edit&amp;redlink=1" class="new" title="炽烈枫红 ～ Maple Leaves Forever（页面不存在）">炽烈枫红 ～ Maple Leaves Forever</a></i></td></tr>
 <tr> <td class="bg-color-info-10" style="min-width:100px"><b>？？？道中</b></td> <td rowspan="2"><div class="center"><div class="floatnone"><a href="./文件-律影_映幻.png.md" class="image" title="律影映幻"><img alt="律影映幻" src="https://upload.thwiki.cc/thumb/f/fa/%E5%BE%8B%E5%BD%B1_%E6%98%A0%E5%B9%BB.png/37px-%E5%BE%8B%E5%BD%B1_%E6%98%A0%E5%B9%BB.png" decoding="async" loading="lazy" width="37" height="40" srcset="https://upload.thwiki.cc/thumb/f/fa/%E5%BE%8B%E5%BD%B1_%E6%98%A0%E5%B9%BB.png/56px-%E5%BE%8B%E5%BD%B1_%E6%98%A0%E5%B9%BB.png 1.5x, https://upload.thwiki.cc/thumb/f/fa/%E5%BE%8B%E5%BD%B1_%E6%98%A0%E5%B9%BB.png/74px-%E5%BE%8B%E5%BD%B1_%E6%98%A0%E5%B9%BB.png 2x" data-file-width="1000" data-file-height="1080"></a></div></div></td> <td style="width:150px;padding:3px 9px 3px 7px;" rowspan="2"> -</td><td style="width:180px;padding:3px 9px 3px 7px;" rowspan="2"> <a href="./律影映幻.md" title="律影映幻">律影映幻</a></td></tr><tr><td class="bg-color-info-10" style="min-width:100px"><b>？？？BOSS</b></td></tr></tbody></table>
+
 
 
 #### 砂砾籽线
@@ -79,8 +88,10 @@
 <tr> <td class="bg-color-info-10" style="min-width:100px"><b>？？？道中</b></td> <td rowspan="2"><div class="center"><div class="floatnone"><a href="./文件-律影_映幻.png.md" class="image" title="律影映幻"><img alt="律影映幻" src="https://upload.thwiki.cc/thumb/f/fa/%E5%BE%8B%E5%BD%B1_%E6%98%A0%E5%B9%BB.png/37px-%E5%BE%8B%E5%BD%B1_%E6%98%A0%E5%B9%BB.png" decoding="async" loading="lazy" width="37" height="40" srcset="https://upload.thwiki.cc/thumb/f/fa/%E5%BE%8B%E5%BD%B1_%E6%98%A0%E5%B9%BB.png/56px-%E5%BE%8B%E5%BD%B1_%E6%98%A0%E5%B9%BB.png 1.5x, https://upload.thwiki.cc/thumb/f/fa/%E5%BE%8B%E5%BD%B1_%E6%98%A0%E5%B9%BB.png/74px-%E5%BE%8B%E5%BD%B1_%E6%98%A0%E5%B9%BB.png 2x" data-file-width="1000" data-file-height="1080"></a></div></div></td> <td style="width:150px;padding:3px 9px 3px 7px;" rowspan="2"> -</td><td style="width:180px;padding:3px 9px 3px 7px;" rowspan="2"> <a href="./律影映幻.md" title="律影映幻">律影映幻</a></td></tr><tr><td class="bg-color-info-10" style="min-width:100px"><b>？？？BOSS</b></td></tr></tbody></table>
 
 
+
 ## 原声音乐集
 - [神战诗乐录 -「Glorious」](./神战诗乐录_-「Glorious」.md)
+
 
 ## 评论
 

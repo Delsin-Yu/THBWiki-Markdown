@@ -164,6 +164,7 @@ AvalonStudioOfficial
 [](./文件-THD2灵乌路空.png.md)
   
 
+
 ## 目录
 
 - [1 技能介绍](#技能介绍)
@@ -179,6 +180,7 @@ AvalonStudioOfficial
 - [3 技能加点](#技能加点)
 - [4 台词](#台词)
 - [5 教学视频](#教学视频)
+
 
 
 
@@ -657,6 +659,7 @@ AvalonStudioOfficial
 </td></tr></tbody></table>
 
 
+
 ## 天赋树
 
 
@@ -695,25 +698,30 @@ AvalonStudioOfficial
 </td></tr></tbody></table>
 
 
+
 ### 出门装备
 ```
 [](./文件-THD2衰人卡.png.md) [](./文件-THD2爱人卡.png.md) [](./文件-THD2星星挂坠.png.md) [](./文件-THD2思兼生命药.png.md) [](./文件-THD2雾雨魔力瓶.png.md)
 ```
+
 
 ### 前期装备
 ```
 [](./文件-THD2信仰吊坠.png.md) [](./文件-THD2闪耀的宝玉.png.md) [](./文件-THD2魔法使扫把.png.md)
 ```
 
+
 ### 核心装备
 ```
 [](./文件-THD2奇迹之星.png.md) [](./文件-THD2格斗扫把.png.md) [](./文件-THD2间隙通行证.png.md)
 ```
 
+
 ### 可选装备
 ```
 [](./文件-THD2巴瓦鲁幽魂之书.png.md) [](./文件-THD2魔法使的帽子.png.md) [](./文件-THD2博丽神社护身符.png.md) [](./文件-THD2亡灵送行提灯.png.md) [](./文件-THD2碎骨笛.png.md) [](./文件-THD2油库里之杖.png.md) [](./文件-THD2速融的核聚变棒.png.md) [](./文件-THD2奇迹之星.png.md) [](./文件-THD2神枪冈格尼尔.png.md) [](./文件-THD2红魔火箭1级.png.md) [](./文件-THD2死神之大镰刀.png.md) [](./文件-THD2八云间隙发生器.png.md) [](./文件-THD2真澄之镜.png.md)
 ```
+
 
 ## 技能加点
 
@@ -861,6 +869,7 @@ AvalonStudioOfficial
 </td></tr></tbody></table>
 
 
+
 ## 台词
 
 <table>
@@ -933,6 +942,7 @@ AvalonStudioOfficial
 <p><br>もちろん手加減（てかげん）してないから<br>[ 当然没手下留情]
 </p>
 </td></tr></tbody></table>
+
 
 
 ## 教学视频

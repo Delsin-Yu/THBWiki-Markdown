@@ -4,6 +4,7 @@
 
 U.N.OWEN就是她吗？
 
+
 ## 摘要
 - 本曲目为ZUN与Toby Fox的联动合作曲，收录于东方授权商业二次创作游戏[东方弹幕神乐 失落幻想](./东方弹幕神乐_失落幻想.md)中。  
 其中，Toby Fox改编 **U.N.OWEN就是她吗？** ，ZUN改编 **Undertale** 的 **Battle Against a True Hero** ，两部分合为一曲。

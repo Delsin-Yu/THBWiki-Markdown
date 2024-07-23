@@ -4,6 +4,7 @@
 
 社团LOGO | 雑草ホリディ
 
+
 ## 摘要
   
 源地址：[direct image link](http://zassou.iza-yoi.net/image/banner.gif), [source page](http://zassou.iza-yoi.net/base1.html)

@@ -80,6 +80,7 @@
 <tr><td>符卡原名</td><td>终焉「蝶梦之门」</td></tr><tr><td>出现位置</td><td>Stage 6 - Easy/Normal/Hard/Lunatic（<a href="./邯郸.md" title="邯郸">邯郸</a>）</td></tr></tbody></table>
 
 
+
 ## 词条导航
   
   

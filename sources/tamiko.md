@@ -6,11 +6,13 @@
 
 本页是关于东方Project  
  **二次同人创作者** 的词条
+
 ## 基本信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="label"><b>名称</b></td><td> tamiko </td></tr><tr><td class="label"><b>别名</b></td><td>土藤山夜</td></tr><tr><td class="label"><b>所属社团</b></td><td><b>当前</b><div style="margin-left:2em;"><a href="./paseri.md" title="paseri">paseri</a></div></td></tr><tr><td class="label"><b>职位</b></td><td>主催，漫画家</td></tr><tr><td class="label"><b>性别</b></td><td>女</td></tr><tr><td class="label"><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://paseri.dou-jin.com/">http://paseri.dou-jin.com/</a></td></tr><tr><td class="label"><b>个人页面</b></td><td><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><b>Twitter</b></td><td><a rel="nofollow" class="external free" href="https://twitter.com/paserpaseri">https://twitter.com/paserpaseri</a><br><a rel="nofollow" class="external free" href="https://twitter.com/tsutifuzi">https://twitter.com/tsutifuzi</a></td></tr><tr><td><b>Pixiv</b></td><td><a rel="nofollow" class="external free" href="https://www.pixiv.net/member.php?id=6481249">https://www.pixiv.net/member.php?id=6481249</a></td></tr></tbody></table></td></tr></tbody></table>
 
 tamiko（人物） - 现实人物
+
 ## 介绍
   
 个人社团[paseri](./paseri.md)主催，漫画剧情以刀子为主，主要创作幽幽紫的漫画，此外也画过主角组的漫画。

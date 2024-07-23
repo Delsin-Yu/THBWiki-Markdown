@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-TIKIOの鉄鍋DASHI封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/4/45/TIKIO%E3%81%AE%E9%89%84%E9%8D%8BDASHI%E5%B0%81%E9%9D%A2.jpg/139px-TIKIO%E3%81%AE%E9%89%84%E9%8D%8BDASHI%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="139" height="196" srcset="https://upload.thwiki.cc/thumb/4/45/TIKIO%E3%81%AE%E9%89%84%E9%8D%8BDASHI%E5%B0%81%E9%9D%A2.jpg/208px-TIKIO%E3%81%AE%E9%89%84%E9%8D%8BDASHI%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/4/45/TIKIO%E3%81%AE%E9%89%84%E9%8D%8BDASHI%E5%B0%81%E9%9D%A2.jpg/277px-TIKIO%E3%81%AE%E9%89%84%E9%8D%8BDASHI%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="645" data-file-height="911"></a><div class="cover-char">角色：<a href="./西行寺幽幽子.md" title="西行寺幽幽子">西行寺幽幽子</a>，<a href="./琪露诺.md" title="琪露诺">琪露诺</a>，<a href="./露米娅.md" title="露米娅">露米娅</a>，<a href="./蕾蒂·霍瓦特洛克.md" title="蕾蒂·霍瓦特洛克">蕾蒂·霍瓦特洛克</a>，<a href="./秋静叶.md" title="秋静叶">秋静叶</a>，<a href="./秋穰子.md" title="秋穰子">秋穰子</a>，<a href="./莉格露·奈特巴格.md" title="莉格露·奈特巴格">莉格露·奈特巴格</a>，<a href="./琪斯美.md" title="琪斯美">琪斯美</a></div></td>
@@ -14,9 +15,12 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/46433700">https://www.pixiv.net/artworks/46433700</a></td></tr></tbody></table>
 
 TIKIOの鉄鍋DASHI（同人志，skyful，2014） - 2014年10月12日 由 skyful 于 东方红楼梦10 发布的漫画同人志，一共8页，登场人物有 西行寺幽幽子、琪露诺、露米娅、蕾蒂·霍瓦特洛克、秋静叶、秋穰子、莉格露·奈特巴格、琪斯美，分级为 一般向
+
 ## 预览
+
 ## Staff
 - 新水一生 (未找到链接)
+
 
 ## 评论
 

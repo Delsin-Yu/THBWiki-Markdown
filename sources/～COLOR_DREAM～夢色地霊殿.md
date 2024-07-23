@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-～COLOR_DREAM～夢色地霊殿封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/9/90/%EF%BD%9ECOLOR_DREAM%EF%BD%9E%E5%A4%A2%E8%89%B2%E5%9C%B0%E9%9C%8A%E6%AE%BF%E5%B0%81%E9%9D%A2.jpg/119px-%EF%BD%9ECOLOR_DREAM%EF%BD%9E%E5%A4%A2%E8%89%B2%E5%9C%B0%E9%9C%8A%E6%AE%BF%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="119" height="168" srcset="https://upload.thwiki.cc/thumb/9/90/%EF%BD%9ECOLOR_DREAM%EF%BD%9E%E5%A4%A2%E8%89%B2%E5%9C%B0%E9%9C%8A%E6%AE%BF%E5%B0%81%E9%9D%A2.jpg/179px-%EF%BD%9ECOLOR_DREAM%EF%BD%9E%E5%A4%A2%E8%89%B2%E5%9C%B0%E9%9C%8A%E6%AE%BF%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/9/90/%EF%BD%9ECOLOR_DREAM%EF%BD%9E%E5%A4%A2%E8%89%B2%E5%9C%B0%E9%9C%8A%E6%AE%BF%E5%B0%81%E9%9D%A2.jpg/238px-%EF%BD%9ECOLOR_DREAM%EF%BD%9E%E5%A4%A2%E8%89%B2%E5%9C%B0%E9%9C%8A%E6%AE%BF%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="300" data-file-height="423"></a><div class="cover-char">角色：<a href="./古明地觉.md" title="古明地觉">古明地觉</a>，<a href="./古明地恋.md" title="古明地恋">古明地恋</a>，<a href="./灵乌路空.md" title="灵乌路空">灵乌路空</a>，<a href="./火焰猫燐.md" title="火焰猫燐">火焰猫燐</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://e-v.cocolog-nifty.com/blog/2013/05/post-fa7c.html">http://e-v.cocolog-nifty.com/blog/2013/05/post-fa7c.html</a><br><span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><small>（<a rel="nofollow" class="external text" href="https://web.archive.org/web/20160730214143/http://e-v.cocolog-nifty.com/blog/2013/05/post-fa7c.html">缓存页面</a>）</small></td></tr></tbody></table>
 
 ～COLOR DREAM～夢色地霊殿（同人志，ロリエース，2013） - 2013年5月26日 由 ロリエース 于 博丽神社例大祭10 发布的漫画同人志，一共36页，分级为 一般向
+
 ## Staff
 - 朱シオ (未找到链接)
+
 
 ## 评论
 

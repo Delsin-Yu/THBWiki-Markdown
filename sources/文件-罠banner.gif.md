@@ -4,6 +4,7 @@
 
 社团LOGO | 罠
 
+
 ## 文件说明
   
 源地址：[direct image link](https://web.archive.org/web/20120712134921im_/http://file.wana.blog.shinobi.jp/Img/1240855550/), [source page](https://web.archive.org/web/20120712134919/http://wana.blog.shinobi.jp/Category/1/)

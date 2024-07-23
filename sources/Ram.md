@@ -6,11 +6,13 @@
 
 本页是关于东方Project  
  **二次同人创作者** 的词条
+
 ## 基本信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="label"><b>名称</b></td><td> Ram </td></tr><tr><td class="label"><b>所属社团</b></td><td><b>当前</b><div style="margin-left:2em;"><a href="./ひつじの館.md" title="ひつじの館">ひつじの館</a></div></td></tr><tr><td class="label"><b>职位</b></td><td>主催，画师</td></tr><tr><td class="label"><b>个人页面</b></td><td><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><b>Blog</b></td><td><a rel="nofollow" class="external free" href="http://hitsujinoyakata.blog39.fc2.com">http://hitsujinoyakata.blog39.fc2.com</a></td></tr><tr><td><b>Twitter</b></td><td><a rel="nofollow" class="external free" href="https://twitter.com/Ram_Hachimin/">https://twitter.com/Ram_Hachimin/</a></td></tr><tr><td><b>Pixiv</b></td><td><a rel="nofollow" class="external free" href="https://www.pixiv.net/users/170890/">https://www.pixiv.net/users/170890/</a></td></tr><tr><td><b>Email</b></td><td>hitsujisann@hotmail.co.jp</td></tr></tbody></table></td></tr></tbody></table>
 
 Ram（人物） - 现实人物
+
 ## 介绍
   
 热衷于[帕秋莉](./帕秋莉·诺蕾姬.md)题材同人插画、漫画创作的同人志创作者。  
@@ -19,6 +21,7 @@ Ram（人物） - 现实人物
 
 近年因为工作繁忙已经暂停了同人志的创作。
   
+
 
 ## 人际关系
 人名

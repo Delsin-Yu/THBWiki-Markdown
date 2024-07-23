@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-THE_必殺技封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/8/86/THE_%E5%BF%85%E6%AE%BA%E6%8A%80%E5%B0%81%E9%9D%A2.jpg/80px-THE_%E5%BF%85%E6%AE%BA%E6%8A%80%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="80" height="112" srcset="https://upload.thwiki.cc/thumb/8/86/THE_%E5%BF%85%E6%AE%BA%E6%8A%80%E5%B0%81%E9%9D%A2.jpg/120px-THE_%E5%BF%85%E6%AE%BA%E6%8A%80%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/8/86/THE_%E5%BF%85%E6%AE%BA%E6%8A%80%E5%B0%81%E9%9D%A2.jpg/160px-THE_%E5%BF%85%E6%AE%BA%E6%8A%80%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="715" data-file-height="1000"></a><div class="cover-char">角色：<a href="./藤原妹红.md" title="藤原妹红">藤原妹红</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/22331267">https://www.pixiv.net/artworks/22331267</a></td></tr></tbody></table>
 
 THE 必殺技（同人志，Public Planet，2011） - 2011年10月16日 由 Public Planet 于 东方红楼梦7 发布的漫画同人志，分级为 一般向
+
 ## Staff
 : [公星](./公星.md)
+
 
 ## 评论
 

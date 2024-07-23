@@ -4,12 +4,14 @@
 
 Τeam_αlternative_Σnding
 
+
 ## 目录
 
 - [1 难度标题及说明文字](#难度标题及说明文字)
 - [2 关卡标题](#关卡标题)
 - [3 注释](#注释)
 - [4 词条导航](#词条导航)
+
 
 
 
@@ -49,6 +51,7 @@
 <td><center><big>Exosphere Level</big><br>EXTRA MODE<br><small>The solar wind is very strong. Proceed with caution.</small></center>
 </td></tr>
 </tbody></table>
+
 
 
 ## 关卡标题
@@ -103,6 +106,7 @@
   
 
 [^cite_note-1]: 捏他洛夫克拉夫特创作的克苏鲁神话小说《疯狂山脉》（At the Mountains of Madness）。
+
 
 ## 词条导航
   

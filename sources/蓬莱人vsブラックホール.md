@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-蓬莱人vsブラックホール封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/b/bd/%E8%93%AC%E8%8E%B1%E4%BA%BAvs%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%83%9B%E3%83%BC%E3%83%AB%E5%B0%81%E9%9D%A2.jpg/135px-%E8%93%AC%E8%8E%B1%E4%BA%BAvs%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%83%9B%E3%83%BC%E3%83%AB%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="135" height="196" srcset="https://upload.thwiki.cc/thumb/b/bd/%E8%93%AC%E8%8E%B1%E4%BA%BAvs%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%83%9B%E3%83%BC%E3%83%AB%E5%B0%81%E9%9D%A2.jpg/203px-%E8%93%AC%E8%8E%B1%E4%BA%BAvs%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%83%9B%E3%83%BC%E3%83%AB%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/b/bd/%E8%93%AC%E8%8E%B1%E4%BA%BAvs%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%83%9B%E3%83%BC%E3%83%AB%E5%B0%81%E9%9D%A2.jpg/270px-%E8%93%AC%E8%8E%B1%E4%BA%BAvs%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%83%9B%E3%83%BC%E3%83%AB%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="828" data-file-height="1200"></a><div class="cover-char">角色：<a href="./蓬莱山辉夜.md" title="蓬莱山辉夜">蓬莱山辉夜</a>，<a href="./藤原妹红.md" title="藤原妹红">藤原妹红</a></div></td>
@@ -18,8 +19,10 @@
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=460022">蜜瓜</a></td></tr></tbody></table>
 
 
+
 ## Staff
 - [ALISON](./ALISON.md)
+
 
 ## 评论
 

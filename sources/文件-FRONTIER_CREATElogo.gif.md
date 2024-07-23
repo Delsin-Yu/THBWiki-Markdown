@@ -4,6 +4,7 @@
 
 FRONTIER_CREATE | 社团LOGO
 
+
 ## 摘要
   
 源地址：[direct image link](https://web.archive.org/web/20110816141828im_/http://www.frontier-create.com/images/common/logo.gif), [source page](https://web.archive.org/web/20110906022340/http://www.frontier-create.com/)

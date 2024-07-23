@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-BLACK×WHITE封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/a/ac/BLACK%C3%97WHITE%E5%B0%81%E9%9D%A2.jpg/79px-BLACK%C3%97WHITE%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="79" height="112" srcset="https://upload.thwiki.cc/thumb/a/ac/BLACK%C3%97WHITE%E5%B0%81%E9%9D%A2.jpg/118px-BLACK%C3%97WHITE%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/a/ac/BLACK%C3%97WHITE%E5%B0%81%E9%9D%A2.jpg/157px-BLACK%C3%97WHITE%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="270" data-file-height="384"></a><div class="cover-char">角色：<a href="./圣白莲.md" title="圣白莲">圣白莲</a></div></td>
@@ -13,10 +14,12 @@
 </tr><tr><td class="label">首发日期</td><td>2011-02-06&#160;（<a href="/展会作品列表?e=%E4%B8%9C%E6%96%B9%E6%A4%B0%E9%BA%9F%E7%A5%AD%232">東方椰麟祭 第二幕</a>）</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">页数</td><td>40P</td></tr></tbody></table>
 
 BLACK×WHITE（同人志，とりいんふる，ひな★しち，2011） - 2011年2月6日 由 とりいんふる，ひな★しち 于 东方椰麟祭2 发布的同人志，一共40页，分级为 一般向
+
 ## Staff
 绘画
 : ぬこ （[とりいんふる](./とりいんふる.md)）
 : 厄ryo （ひな★しち (未找到链接)）
+
 
 ## 评论
 

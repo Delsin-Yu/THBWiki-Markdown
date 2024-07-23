@@ -4,6 +4,7 @@
 
 社团LOGO | 隨意坊
 
+
 ## 摘要
   
 源地址：[direct image link](https://web.archive.org/web/20150731114711im_/http://pics21.yamedia.tw/37/userfile/f/fred04142/album/14f5b09a77b198.jpg), [source page](https://web.archive.org/web/20150810044800/http://blog.yam.com/fred04142)

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-The_Hut_of_Baba_Yaga封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/1/18/The_Hut_of_Baba_Yaga%E5%B0%81%E9%9D%A2.jpg/138px-The_Hut_of_Baba_Yaga%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="138" height="196" srcset="https://upload.thwiki.cc/thumb/1/18/The_Hut_of_Baba_Yaga%E5%B0%81%E9%9D%A2.jpg/208px-The_Hut_of_Baba_Yaga%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/1/18/The_Hut_of_Baba_Yaga%E5%B0%81%E9%9D%A2.jpg/277px-The_Hut_of_Baba_Yaga%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1434" data-file-height="2030"></a><div class="cover-char">角色：<a href="./坂田合欢.md" title="坂田合欢">坂田合欢</a>，<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>，<a href="./姬海棠果.md" title="姬海棠果">姬海棠果</a>，<a href="./射命丸文.md" title="射命丸文">射命丸文</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/prtn_chan/status/1238446548683354112">https://twitter.com/prtn_chan/status/1238446548683354112</a><br><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/80110038">https://www.pixiv.net/artworks/80110038</a></td></tr></tbody></table>
 
 The Hut of Baba Yaga（同人志，Happy Drop，2020） - 2020年3月22日 由 Happy Drop 于 博丽神社例大祭17 发布的画集同人志，B5尺寸一共20页，分级为 一般向
+
 ## Staff
 : ぷろこ (未找到链接)
+
 
 ## 评论
 

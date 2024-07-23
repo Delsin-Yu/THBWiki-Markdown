@@ -4,6 +4,7 @@
 
 俺のマスタースパーク | 社团LOGO
 
+
 ## 摘要
   
 源地址：[direct image link](http://orenomasterspark.web.fc2.com/img/bunner.png), [source page](http://orenomasterspark.web.fc2.com/link.html)

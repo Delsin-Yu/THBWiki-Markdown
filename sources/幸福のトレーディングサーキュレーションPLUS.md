@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-幸福のトレーディングサーキュレーションPLUS封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/7/78/%E5%B9%B8%E7%A6%8F%E3%81%AE%E3%83%88%E3%83%AC%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B5%E3%83%BC%E3%82%AD%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3PLUS%E5%B0%81%E9%9D%A2.jpg/140px-%E5%B9%B8%E7%A6%8F%E3%81%AE%E3%83%88%E3%83%AC%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B5%E3%83%BC%E3%82%AD%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3PLUS%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="140" height="196" srcset="https://upload.thwiki.cc/thumb/7/78/%E5%B9%B8%E7%A6%8F%E3%81%AE%E3%83%88%E3%83%AC%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B5%E3%83%BC%E3%82%AD%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3PLUS%E5%B0%81%E9%9D%A2.jpg/210px-%E5%B9%B8%E7%A6%8F%E3%81%AE%E3%83%88%E3%83%AC%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B5%E3%83%BC%E3%82%AD%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3PLUS%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/7/78/%E5%B9%B8%E7%A6%8F%E3%81%AE%E3%83%88%E3%83%AC%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B5%E3%83%BC%E3%82%AD%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3PLUS%E5%B0%81%E9%9D%A2.jpg/280px-%E5%B9%B8%E7%A6%8F%E3%81%AE%E3%83%88%E3%83%AC%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B5%E3%83%BC%E3%82%AD%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3PLUS%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="668" data-file-height="935"></a><div class="cover-char">角色：<a href="./河城荷取.md" title="河城荷取">河城荷取</a></div></td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://rainbowvanilla.web.fc2.com/20120419.html">http://rainbowvanilla.web.fc2.com/20120419.html</a><br><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/26545641">https://www.pixiv.net/artworks/26545641</a></td></tr></tbody></table>
 
 幸福のトレーディングサーキュレーションPLUS（同人志，Rainbow Vanilla，2012） - 2012年4月22日 由 Rainbow Vanilla 于 大⑨州东方祭6 发布的漫画同人志，B5尺寸一共36页，分级为 一般向
+
 ## Staff
 - [祭唄](./祭唄.md)
 

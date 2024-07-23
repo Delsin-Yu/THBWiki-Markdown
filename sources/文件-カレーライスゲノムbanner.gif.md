@@ -4,6 +4,7 @@
 
 カレーライスゲノム | 社团LOGO
 
+
 ## 摘要
   
 源地址：[direct image link](https://crg.sakura.ne.jp/dot-e/banner1.gif), [source page](https://crg.sakura.ne.jp/)

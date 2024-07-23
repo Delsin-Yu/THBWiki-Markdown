@@ -6,13 +6,17 @@
 
 本页是关于东方Project  
  **二次同人创作者** 的词条
+
 ## 基本信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="label"><b>名称</b></td><td> CHICACO </td></tr><tr><td class="label"><b>所属社团</b></td><td><b>当前</b><div style="margin-left:2em;"><a href="./ESQUARIA.md" title="ESQUARIA">ESQUARIA</a> （编曲，演唱）</div></td></tr><tr><td class="label"><b>职位</b></td><td>编曲，演唱</td></tr><tr><td class="label"><b>参与社团</b></td><td><a href="./ESQUARIA.md" title="ESQUARIA">ESQUARIA</a> （编曲，演唱）<br><a href="./流派未階堂.md" title="流派未階堂">流派未階堂</a> （编曲）<br><a href="./流派華劇団.md" title="流派華劇団">流派華劇団</a> （演唱）<br><a href="./領域ZERO.md" title="領域ZERO">領域ZERO</a> （演唱）</td></tr><tr><td class="label"><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://esquaria.net/">http://esquaria.net/</a><br><a rel="nofollow" class="external free" href="https://soundcloud.com/esquaria">https://soundcloud.com/esquaria</a></td></tr><tr><td class="label"><b>个人页面</b></td><td><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><b>Twitter</b></td><td><a rel="nofollow" class="external free" href="https://twitter.com/chicaco_lydia">https://twitter.com/chicaco_lydia</a></td></tr><tr><td><b>Soundcloud</b></td><td><a rel="nofollow" class="external free" href="https://soundcloud.com/chicaco_electradoll">https://soundcloud.com/chicaco_electradoll</a></td></tr></tbody></table></td></tr></tbody></table>
 
 CHICACO（人物） - 现实人物
+
 ## 介绍
+
 ## 参与作品
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -35,10 +39,13 @@ CHICACO（人物） - 现实人物
 
 
 
+
 ### 同人音乐
+
 #### [流派華劇団](./流派華劇団.md)
 
 <table><tbody><tr><th colspan="2">曲目信息</th></tr><tr><td colspan="2" style="padding-left: 1em;"><div class="floatright"><a href="./文件-桃紅柳緑封面.jpg.md" class="image" title="桃紅柳緑"><img alt="桃紅柳緑" src="https://upload.thwiki.cc/thumb/6/6e/%E6%A1%83%E7%B4%85%E6%9F%B3%E7%B7%91%E5%B0%81%E9%9D%A2.jpg/100px-%E6%A1%83%E7%B4%85%E6%9F%B3%E7%B7%91%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="100" height="100" srcset="https://upload.thwiki.cc/thumb/6/6e/%E6%A1%83%E7%B4%85%E6%9F%B3%E7%B7%91%E5%B0%81%E9%9D%A2.jpg/150px-%E6%A1%83%E7%B4%85%E6%9F%B3%E7%B7%91%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/6/6e/%E6%A1%83%E7%B4%85%E6%9F%B3%E7%B7%91%E5%B0%81%E9%9D%A2.jpg/200px-%E6%A1%83%E7%B4%85%E6%9F%B3%E7%B7%91%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="600" data-file-height="600"></a></div><b><a href="/%E6%A1%83%E7%B4%85%E6%9F%B3%E7%B7%91#3" title="桃紅柳緑">眠れる美女</a></b> &#91;05:14&#93;<dl><dd><a href="./桃紅柳緑.md" title="桃紅柳緑">桃紅柳緑</a> （2016-12-29）<br>社团：<a href="./流派華劇団.md" title="流派華劇団">流派華劇団</a><br>编曲：<a href="./RUON.md" title="RUON">RUON</a><br>演唱：<a class="mw-selflink selflink">CHICACO</a><br>作词：<a href="/index.php?title=%E9%B7%B9%E9%87%8E%E5%8F%8B%E7%B4%80&amp;action=edit&amp;redlink=1" class="new" title="鷹野友紀（页面不存在）">鷹野友紀</a><br>原曲：<a href="./人偶裁判_～_玩弄人形的少女.md" title="人偶裁判 ～ 玩弄人形的少女" unred="">人形裁判　～ 人の形弄びし少女</a><br></dd></dl></td></tr></tbody></table>
+
 
 
 #### [流派未階堂](./流派未階堂.md)
@@ -46,9 +53,11 @@ CHICACO（人物） - 现实人物
 <table><tbody><tr><th colspan="2">曲目信息</th></tr><tr><td colspan="2" style="padding-left: 1em;"><div class="floatright"><a href="./文件-ANTHOLOGIA_-THE_ORBITAL_VERSE-封面.jpg.md" class="image" title="ANTHOLOGIA -THE ORBITAL VERSE-"><img alt="ANTHOLOGIA -THE ORBITAL VERSE-" src="https://upload.thwiki.cc/thumb/2/27/ANTHOLOGIA_-THE_ORBITAL_VERSE-%E5%B0%81%E9%9D%A2.jpg/100px-ANTHOLOGIA_-THE_ORBITAL_VERSE-%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="100" height="100" srcset="https://upload.thwiki.cc/thumb/2/27/ANTHOLOGIA_-THE_ORBITAL_VERSE-%E5%B0%81%E9%9D%A2.jpg/150px-ANTHOLOGIA_-THE_ORBITAL_VERSE-%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/2/27/ANTHOLOGIA_-THE_ORBITAL_VERSE-%E5%B0%81%E9%9D%A2.jpg/200px-ANTHOLOGIA_-THE_ORBITAL_VERSE-%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="500" data-file-height="500"></a></div><b><a href="/ANTHOLOGIA_-THE_ORBITAL_VERSE-#1" title="ANTHOLOGIA -THE ORBITAL VERSE-">Orbital Surface</a></b> &#91;04:42&#93;<dl><dd><a href="./ANTHOLOGIA_-THE_ORBITAL_VERSE-.md" title="ANTHOLOGIA -THE ORBITAL VERSE-">ANTHOLOGIA -THE ORBITAL VERSE-</a> （2016-05-08）<br>社团：<a href="./流派未階堂.md" title="流派未階堂">流派未階堂</a><br>编曲：<a class="mw-selflink selflink">CHICACO</a><br>原曲：<a href="./宇宙巫女现身.md" title="宇宙巫女现身" unred="">宇宙巫女現る</a><br></dd></dl></td></tr></tbody></table>
 
 
+
 #### [領域ZERO](./領域ZERO.md)
 
 <table><tbody><tr><th colspan="2">曲目信息</th></tr><tr><td colspan="2" style="padding-left: 1em;"><div class="floatright"><a href="./文件-Stardust_Dreams_10th_Anniversary_Tribute封面.jpg.md" class="image" title="Stardust Dreams 10th Anniversary Tribute"><img alt="Stardust Dreams 10th Anniversary Tribute" src="https://upload.thwiki.cc/thumb/a/a6/Stardust_Dreams_10th_Anniversary_Tribute%E5%B0%81%E9%9D%A2.jpg/100px-Stardust_Dreams_10th_Anniversary_Tribute%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="100" height="99" srcset="https://upload.thwiki.cc/thumb/a/a6/Stardust_Dreams_10th_Anniversary_Tribute%E5%B0%81%E9%9D%A2.jpg/150px-Stardust_Dreams_10th_Anniversary_Tribute%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/a/a6/Stardust_Dreams_10th_Anniversary_Tribute%E5%B0%81%E9%9D%A2.jpg/200px-Stardust_Dreams_10th_Anniversary_Tribute%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="900" data-file-height="894"></a></div><b><a href="/Stardust_Dreams_10th_Anniversary_Tribute#5" title="Stardust Dreams 10th Anniversary Tribute">Stardust Dreams ESQUARIA Ver.</a></b> &#91;04:41&#93;<dl><dd><a href="./Stardust_Dreams_10th_Anniversary_Tribute.md" title="Stardust Dreams 10th Anniversary Tribute">Stardust Dreams 10th Anniversary Tribute</a> （2020-10-18）<br>社团：<a href="./ESQUARIA.md" title="ESQUARIA">ESQUARIA</a>，<a href="./領域ZERO.md" title="領域ZERO">領域ZERO</a><br>编曲：<a href="./RUON.md" title="RUON">RUON</a><br>演唱：<a class="mw-selflink selflink">CHICACO</a><br>作词：<a href="/index.php?title=Peko&amp;action=edit&amp;redlink=1" class="new" title="Peko（页面不存在）">Peko</a><br>原曲：<a href="./U.N.OWEN就是她吗？.md" title="U.N.OWEN就是她吗？" unred="">U.N.オーエンは彼女なのか？</a><br></dd></dl></td></tr></tbody></table>
+
 
 
 ## 人际关系

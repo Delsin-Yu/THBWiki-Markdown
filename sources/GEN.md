@@ -4,7 +4,8 @@
 
 GEN ，主要制作 同人游戏 的日本同人社团，主催是 てつこ，当前状态为 休止
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -20,6 +21,7 @@ GEN ，主要制作 同人游戏 的日本同人社团，主催是 てつこ，�
 
 
 
+
 ## 社团信息
 [](./文件-GENbanner.gif.md)  [](./文件-GENbanner.gif.md)banner
 [](./文件-GENbanner2.gif.md)  [](./文件-GENbanner2.gif.md)banner
@@ -27,10 +29,13 @@ GEN ，主要制作 同人游戏 的日本同人社团，主催是 てつこ，�
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> GEN </td></tr><tr><td><b>主要作品类型</b></td><td>同人游戏</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=%E3%81%A6%E3%81%A4%E3%81%93&amp;action=edit&amp;redlink=1" class="new" title="てつこ（页面不存在）">てつこ</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://circlegen.web.fc2.com/">http://circlegen.web.fc2.com/</a> <br><a rel="nofollow" class="external free" href="https://twitter.com/GEN47714302">https://twitter.com/GEN47714302</a><br><a rel="nofollow" class="external free" href="https://www.nicovideo.jp/user/27438410">https://www.nicovideo.jp/user/27438410</a><br><a rel="nofollow" class="external free" href="https://www.youtube.com/channel/UCFakOwxgnaCwN3sosUF6dlg">https://www.youtube.com/channel/UCFakOwxgnaCwN3sosUF6dlg</a></td></tr></tbody></table>
 
 GEN（同人社团，同人游戏社团） - GEN ，主要制作 同人游戏 的日本同人社团，主催是 てつこ，当前状态为 休止
+
 ## 成员名单
 - てつこ (未找到链接)
 
+
 ## 作品列表
+
 ### 同人游戏
 東方紅魔弾 封面图片 (未找到链接)東方紅魔弾 (未找到链接)首发日期：未知 - 紅魔の鍵 封面图片 (未找到链接)紅魔の鍵 (未找到链接)首发日期：未知 - HAKUREI JUMP 封面图片 (未找到链接)HAKUREI JUMP (未找到链接)首发日期：未知 - 東方妖々弾 封面图片 (未找到链接)東方妖々弾 (未找到链接)首发日期：未知 - ⑨eenty 封面图片 (未找到链接)⑨eenty (未找到链接)首发日期：未知 - 東方降魔叫 封面图片 (未找到链接)東方降魔叫 (未找到链接)首发日期：未知 - 東方降魔境 封面图片 (未找到链接)東方降魔境 (未找到链接)首发日期：未知 - キリサメエスケープ 封面图片 (未找到链接)キリサメエスケープ (未找到链接)首发日期：未知 - 霧雨農園 封面图片 (未找到链接)霧雨農園 (未找到链接)首发日期：未知 - [](./博麗再建.md)[博麗再建](./博麗再建.md)首发日期：2016-08-13 （Comic Market 90 (未找到链接)）RTS （一般向）石売りの魔理沙 封面图片 (未找到链接)石売りの魔理沙 (未找到链接)首发日期：未知 - 盗姫さま 封面图片 (未找到链接)盗姫さま (未找到链接)首发日期：未知 - 
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -46,6 +51,7 @@ GEN（同人社团，同人游戏社团） - GEN ，主要制作 同人游戏 �
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458"></table>
+
 
 
 ## 参展信息

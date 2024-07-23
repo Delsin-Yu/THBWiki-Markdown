@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Sweets×SweetsParty封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/a/a2/Sweets%C3%97SweetsParty%E5%B0%81%E9%9D%A2.png/139px-Sweets%C3%97SweetsParty%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="139" height="196" srcset="https://upload.thwiki.cc/thumb/a/a2/Sweets%C3%97SweetsParty%E5%B0%81%E9%9D%A2.png/209px-Sweets%C3%97SweetsParty%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/a/a2/Sweets%C3%97SweetsParty%E5%B0%81%E9%9D%A2.png/278px-Sweets%C3%97SweetsParty%E5%B0%81%E9%9D%A2.png 2x" data-file-width="1000" data-file-height="1408"></a><div class="cover-char">角色：<a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a>，<a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a></div></td>
@@ -18,8 +19,10 @@ Sweets×SweetsParty（同人志，CrerpSucre，2015） - 2015年8月14日 由 Cr
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://ec.toranoana.jp/tora_r/ec/item/040030330209">虎穴</a>，<a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=134123">蜜瓜</a>，<a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=238633">蜜瓜（电子版）</a></td></tr></tbody></table>
 
 
+
 ## Staff
 - [くれ～ぷ](./くれ～ぷ.md)
+
 
 ## 评论
   

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -40,11 +41,13 @@
 
 
 
+
 ## 基本信息
 
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">スモーキングドラゴン</td></tr><tr><td><b>译名</b></td><td>Smoking Dragon</td></tr><tr><td><b>其他译名</b></td><td>吞云吐雾的龙</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 Smoking Dragon（曲目） - 由 ZUN 创作的官方曲目，原名 スモーキングドラゴン
+
 ## 出现作品
 
 <table>
@@ -54,7 +57,9 @@ Smoking Dragon（曲目） - 由 ZUN 创作的官方曲目，原名 スモーキ
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 东方虹龙洞
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th18_07.mp3.md" title="文件:th18 07.mp3">th18_07.mp3</a><br><audio src="https://upload.thwiki.cc/4/4b/th18_07.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>BGM\th18_07.wav</td></tr><tr><td><b>BGMForAll</b></td><td><div class="mw-collapsible mw-collapsed">
@@ -65,12 +70,15 @@ Smoking Dragon（曲目） - 由 ZUN 创作的官方曲目，原名 スモーキ
 </td></tr></tbody></table>
 
 
+
 ### 七夕坂梦幻能
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-hr12_04.mp3.md" title="文件:hr12 04.mp3">hr12_04.mp3</a><br><audio src="https://upload.thwiki.cc/c/c7/hr12_04.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track04.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>4:22</td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 东方虹龙洞
 - Music Room (未找到链接)
 
@@ -80,8 +88,11 @@ Smoking Dragon（曲目） - 由 ZUN 创作的官方曲目，原名 スモーキ
 　我直率地创作了一首曲风非常独特的曲子。  
 　我本来的目标是更加有黑道的感觉，但这种道中BOSS的气场是怎么回事……  
 　不过她也只不过是个门卫，毋庸置疑只是个道中BOSS。
+
 ## 其他资料
+
 ### 乐理资讯
+
 #### 使用乐器
 - SD-90 Romantic Tp
 - Trilian Hardcore Finger
@@ -89,6 +100,7 @@ Smoking Dragon（曲目） - 由 ZUN 创作的官方曲目，原名 スモーキ
 - Retrologue Hyper Saw
 - The Grand 3 Model D Close
 - Electri6ity Rickenbacker Amped
+
 
 ### 分析考据
   
@@ -128,6 +140,7 @@ Smoking Dragon（曲目） - 由 ZUN 创作的官方曲目，原名 スモーキ
 
 
 <table><tbody><tr class="tt-comment" id="MusicRoom-21" data-pos="&#91;&quot;MusicRoom&quot;,21&#93;"><td colspan="2" class="tt-ja" lang="ja"><div class="poem">　駒草 山如（こまくさ さんにょ）のテーマです。<br>　<br>　煙管片手のその出で立ちから駒草太夫と呼ばれている彼女です。<br>　ストレートに癖の強い曲を作りました。もっとヤクザっぽいのを<br>　目指したんですけどね、なんだろうこの中ボス感……。<br>　まあやってることは門番だし、紛うこと無き中ボスなんですが。</div></td><td colspan="2" class="tt-zh" lang="zh"><div class="poem">　驹草 山如的主题曲。<br>　<br>　因为她单手拿着烟斗的风貌，她被称为驹草太夫。<br>　我直率地创作了一首曲风非常独特的曲子。<br>　我本来的目标是更加有黑道的感觉，但这种道中BOSS的气场是怎么回事……<br>　不过她也只不过是个门卫，毋庸置疑只是个道中BOSS。</div></td></tr></tbody></table>
+
 
 
 ### 二次同人数据

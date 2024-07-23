@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-草の根ミニミニ大作戦_-THE_KUSANONE_GENSOKYO_JOB-封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/c/c9/%E8%8D%89%E3%81%AE%E6%A0%B9%E3%83%9F%E3%83%8B%E3%83%9F%E3%83%8B%E5%A4%A7%E4%BD%9C%E6%88%A6_-THE_KUSANONE_GENSOKYO_JOB-%E5%B0%81%E9%9D%A2.jpg/142px-%E8%8D%89%E3%81%AE%E6%A0%B9%E3%83%9F%E3%83%8B%E3%83%9F%E3%83%8B%E5%A4%A7%E4%BD%9C%E6%88%A6_-THE_KUSANONE_GENSOKYO_JOB-%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="142" height="196" srcset="https://upload.thwiki.cc/thumb/c/c9/%E8%8D%89%E3%81%AE%E6%A0%B9%E3%83%9F%E3%83%8B%E3%83%9F%E3%83%8B%E5%A4%A7%E4%BD%9C%E6%88%A6_-THE_KUSANONE_GENSOKYO_JOB-%E5%B0%81%E9%9D%A2.jpg/213px-%E8%8D%89%E3%81%AE%E6%A0%B9%E3%83%9F%E3%83%8B%E3%83%9F%E3%83%8B%E5%A4%A7%E4%BD%9C%E6%88%A6_-THE_KUSANONE_GENSOKYO_JOB-%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/c/c9/%E8%8D%89%E3%81%AE%E6%A0%B9%E3%83%9F%E3%83%8B%E3%83%9F%E3%83%8B%E5%A4%A7%E4%BD%9C%E6%88%A6_-THE_KUSANONE_GENSOKYO_JOB-%E5%B0%81%E9%9D%A2.jpg/284px-%E8%8D%89%E3%81%AE%E6%A0%B9%E3%83%9F%E3%83%8B%E3%83%9F%E3%83%8B%E5%A4%A7%E4%BD%9C%E6%88%A6_-THE_KUSANONE_GENSOKYO_JOB-%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1309" data-file-height="1805"></a><div class="cover-char">角色：<a href="./今泉影狼.md" title="今泉影狼">今泉影狼</a>，<a href="./若鹭姬.md" title="若鹭姬">若鹭姬</a>，<a href="./赤蛮奇.md" title="赤蛮奇">赤蛮奇</a></div></td>
@@ -18,9 +19,12 @@
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://combudasy.booth.pm/items/1428604">Booth</a></td></tr></tbody></table>
 
 
+
 ## 预览
+
 ## Staff
 - 昆布だし (未找到链接)
+
 
 ## 评论
 

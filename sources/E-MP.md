@@ -4,7 +4,8 @@
 
 E-MP（Electronic・Music・Production） ，于 2008 年成立，主要制作 同人音乐 的日本同人社团，主催是 BCG，当前状态为 休止
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -15,15 +16,18 @@ E-MP（Electronic・Music・Production） ，于 2008 年成立，主要制作 �
 
 
 
+
 ## 社团信息
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> E-MP（Electronic・Music・Production） </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2008</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=BCG&amp;action=edit&amp;redlink=1" class="new" title="BCG（页面不存在）">BCG</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://emp6319.seesaa.net/">http://emp6319.seesaa.net/</a> <br><a rel="nofollow" class="external free" href="https://twitter.com/EMPbcg">https://twitter.com/EMPbcg</a> <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span></td></tr></tbody></table>
 
 E-MP（同人社团，同人音乐社团） - E-MP（Electronic・Music・Production） ，于 2008 年成立，主要制作 同人音乐 的日本同人社团，主催是 BCG，当前状态为 休止
+
 ## 成员名单
 - BCG (未找到链接)
 - spikin (未找到链接) ([Trinity Note](./Trinity_Note.md))
-- ユキ (未找到链接)
+- [ユキ](./ユキ.md)
+
 
 ## 作品列表
 [](./東方ちゃんぷるー.md)[東方ちゃんぷるー](./東方ちゃんぷるー.md)首发日期：2009-03-08 （第六回 博麗神社例大祭 (未找到链接)）全长 （一般向）[](./夜と桜と_ほしぞらデート.md)[夜と桜と ほしぞらデート](./夜と桜と_ほしぞらデート.md)首发日期：2009-05-05 （M3-2009春 (未找到链接)）全长 （一般向）该作品是与 黒天羊舎 (未找到链接) 合作创作的[](./東方ちゃんぷるー2.md)[東方ちゃんぷるー2](./東方ちゃんぷるー2.md)首发日期：2010-03-14 （第七回 博麗神社例大祭 (未找到链接)）全长 （一般向）[](./東方ちゃんぷるーEX.md)[東方ちゃんぷるーEX](./東方ちゃんぷるーEX.md)首发日期：2013-05-26 （第十回 博麗神社例大祭 (未找到链接)）EP （一般向）
@@ -35,6 +39,7 @@ E-MP（同人社团，同人音乐社团） - E-MP（Electronic・Music・Produc
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 其他信息

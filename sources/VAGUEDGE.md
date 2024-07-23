@@ -4,13 +4,15 @@
 
 VAGUEDGE（VAGUEDGE DIES FOR DIES IRAE） ，于 2008 年成立，主要制作 同人音乐 的日本同人社团，主催是 Hull，当前状态为 休止
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
 - [2 成员名单](#成员名单)
 - [3 作品列表](#作品列表)
 - [4 参展信息](#参展信息)
+
 
 
 
@@ -22,8 +24,10 @@ VAGUEDGE（VAGUEDGE DIES FOR DIES IRAE） ，于 2008 年成立，主要制作 �
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> VAGUEDGE（VAGUEDGE DIES FOR DIES IRAE） </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2008</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=Hull&amp;action=edit&amp;redlink=1" class="new" title="Hull（页面不存在）">Hull</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://vaguedge.info/">http://vaguedge.info/</a> </td></tr></tbody></table>
 
 VAGUEDGE（同人社团，同人音乐社团） - VAGUEDGE（VAGUEDGE DIES FOR DIES IRAE） ，于 2008 年成立，主要制作 同人音乐 的日本同人社团，主催是 Hull，当前状态为 休止
+
 ## 成员名单
 - Hull (未找到链接)
+
 
 ## 作品列表
 [](./東方出流幻想譚.md)[東方出流幻想譚](./東方出流幻想譚.md)首发日期：2009-03-08 （第六回 博麗神社例大祭 (未找到链接)）VACD-0001全长 （一般向）[](./東方夢叶幻想日記.md)[東方夢叶幻想日記](./東方夢叶幻想日記.md)首发日期：2009-10-11 （東方紅楼夢5 (未找到链接)）VACD-0002全长 （一般向）[](./Alice_in_World's_End.md)[Alice in World's End](./Alice_in_World's_End.md)首发日期：2009-12-30 （Comic Market 77 (未找到链接)）VACD-0003EP （一般向）[](./Dancer_In_Haunted_Dark_Alley_EP.md)[Dancer In Haunted Dark Alley EP](./Dancer_In_Haunted_Dark_Alley_EP.md)首发日期：2010-10-11 （東方紅楼夢6 (未找到链接)）VDFD-001EP （一般向）[](./Clamantes_Monimentum_Mortis.md)[Clamantes Monimentum Mortis](./Clamantes_Monimentum_Mortis.md)首发日期：2010-10-31 （M3-2010秋 (未找到链接)）VDFD-002全长 （一般向）[](./DEATHMARCH_OF_JIANGSHI'S_PARADISE.md)[DEATHMARCH OF JIANGSHI'S PARADISE](./DEATHMARCH_OF_JIANGSHI'S_PARADISE.md)首发日期：2012-08-11 （Comic Market 82 (未找到链接)）VDFD-0003EP、​合作 （一般向）该作品是与 [Heterodyne.](./Heterodyne..md) 合作创作的
@@ -39,6 +43,7 @@ VAGUEDGE（同人社团，同人音乐社团） - VAGUEDGE（VAGUEDGE DIES FOR D
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 参展信息

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=Oyasumi_sweet_number_%EF%BC%8F_lemon_syrup%E5%B0%81%E9%9D%A2.jpg" class="new" title="文件:Oyasumi sweet number ／ lemon syrup封面.jpg">封面图片</a><div class="cover-char">角色：<a href="./帕秋莉·诺蕾姬.md" title="帕秋莉·诺蕾姬">帕秋莉·诺蕾姬</a></div></td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/marine_noise/status/1723173706791559226">https://twitter.com/marine_noise/status/1723173706791559226</a></td></tr></tbody></table>
 
 Oyasumi sweet number ／ lemon syrup（同人专辑，マリンノイズ，2023） - 2023年11月12日 由 マリンノイズ 于 博丽神社秋季例大祭10 发布的Demo同人专辑，分级为 一般向
+
 ## Staff
   
  **Arrangement**   
@@ -24,16 +26,19 @@ Oyasumi sweet number ／ lemon syrup（同人专辑，マリンノイズ，2023�
 Illustration
 : まきえもん (未找到链接)
 
+
 ## 试听
   
 <audio src="https://twitter.com/marine_noise/status/1723173706791559226" loop="" controls="" preload="none"></audio>
 
   
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Oyasumi_sweet_number" colspan="2" class="title">Oyasumi sweet number<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=hoshibin&amp;ogmusic=ヴワル魔法図書館&amp;fromwiki=Oyasumi_sweet_number_／_lemon_syrup"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=hoshibin&amp;action=edit&amp;redlink=1" class="new" title="hoshibin（页面不存在）">hoshibin</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，hoshibin&amp;fromwiki=Oyasumi_sweet_number_／_lemon_syrup"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=ヴワル魔法図書館&amp;fromwiki=Oyasumi_sweet_number_／_lemon_syrup"><span></span></a></span><div class="ogmusic"><a href="/%E3%83%B4%E3%83%AF%E3%83%AB%E9%AD%94%E6%B3%95%E5%9B%B3%E6%9B%B8%E9%A4%A8" class="mw-redirect" title="ヴワル魔法図書館">ヴワル魔法図書館</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E7%BA%A2%E9%AD%94%E4%B9%A1_%EF%BD%9E_the_Embodiment_of_Scarlet_Devil." class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr>
-<tr><td id="2" class="infoYD"><b>02</b></td><td id="lemon_syrup" colspan="2" class="title">lemon syrup<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=hoshibin&amp;ogmusic=おてんば恋娘&amp;fromwiki=Oyasumi_sweet_number_／_lemon_syrup"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=hoshibin&amp;action=edit&amp;redlink=1" class="new" title="hoshibin（页面不存在）">hoshibin</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，hoshibin&amp;fromwiki=Oyasumi_sweet_number_／_lemon_syrup"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=おてんば恋娘&amp;fromwiki=Oyasumi_sweet_number_／_lemon_syrup"><span></span></a></span><div class="ogmusic"><a href="/%E3%81%8A%E3%81%A6%E3%82%93%E3%81%B0%E6%81%8B%E5%A8%98" class="mw-redirect" title="おてんば恋娘">おてんば恋娘</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E7%BA%A2%E9%AD%94%E4%B9%A1_%EF%BD%9E_the_Embodiment_of_Scarlet_Devil." class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Oyasumi_sweet_number" colspan="2" class="title">Oyasumi sweet number<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=hoshibin&amp;ogmusic=ヴワル魔法図書館&amp;fromwiki=Oyasumi_sweet_number_／_lemon_syrup"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=hoshibin&amp;action=edit&amp;redlink=1" class="new" title="hoshibin（页面不存在）">hoshibin</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，hoshibin&amp;fromwiki=Oyasumi_sweet_number_／_lemon_syrup"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=ヴワル魔法図書館&amp;fromwiki=Oyasumi_sweet_number_／_lemon_syrup"><span></span></a></span><div class="ogmusic"><a href="./ヴワル魔法図書館.md" class="mw-redirect" title="ヴワル魔法図書館">ヴワル魔法図書館</a></div><div class="source"><a href="./东方红魔乡_～_the_Embodiment_of_Scarlet_Devil..md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr>
+<tr><td id="2" class="infoYD"><b>02</b></td><td id="lemon_syrup" colspan="2" class="title">lemon syrup<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=hoshibin&amp;ogmusic=おてんば恋娘&amp;fromwiki=Oyasumi_sweet_number_／_lemon_syrup"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=hoshibin&amp;action=edit&amp;redlink=1" class="new" title="hoshibin（页面不存在）">hoshibin</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，hoshibin&amp;fromwiki=Oyasumi_sweet_number_／_lemon_syrup"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=おてんば恋娘&amp;fromwiki=Oyasumi_sweet_number_／_lemon_syrup"><span></span></a></span><div class="ogmusic"><a href="./おてんば恋娘.md" class="mw-redirect" title="おてんば恋娘">おてんば恋娘</a></div><div class="source"><a href="./东方红魔乡_～_the_Embodiment_of_Scarlet_Devil..md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

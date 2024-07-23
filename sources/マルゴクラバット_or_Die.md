@@ -4,7 +4,8 @@
 
 マルゴクラバット or Die（Marugo Cravat or Die） ，主要制作 同人志 的日本同人社团，主催是 ワキサカＤＫ，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -21,20 +22,25 @@
 
 
 
+
 ## 社团信息
 文件:マルゴクラバット or Diebanner.jpg (未找到链接)  banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> マルゴクラバット or Die（Marugo Cravat or Die） </td></tr><tr><td><b>主要作品类型</b></td><td>同人志</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=%E3%83%AF%E3%82%AD%E3%82%B5%E3%82%AB%EF%BC%A4%EF%BC%AB&amp;action=edit&amp;redlink=1" class="new" title="ワキサカＤＫ（页面不存在）">ワキサカＤＫ</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="https://twitter.com/dk_yukikaze_">https://twitter.com/dk_yukikaze_</a> <br><a rel="nofollow" class="external free" href="https://www.pixiv.net/users/231815">https://www.pixiv.net/users/231815</a></td></tr></tbody></table>
 
 マルゴクラバット or Die（同人社团，同人志社团） - マルゴクラバット or Die（Marugo Cravat or Die） ，主要制作 同人志 的日本同人社团，主催是 ワキサカＤＫ，当前状态为 活动
+
 ## 社团简介
 - 社团作品致敬了日本音乐家[平泽进](https://zh.wikipedia.org/wiki/平泽进)，以及其主导的乐队[P-MODEL](https://zh.wikipedia.org/wiki/P-MODEL)。
 - 社团名来自P-MODEL的专辑《[音乐产业废弃物〜P-MODEL OR DIE](https://ja.wikipedia.org/wiki/音楽産業廃棄物〜P-MODEL_OR_DIE)》。
 
+
 ## 成员名单
 - ワキサカＤＫ (未找到链接)
 
+
 ## 作品列表
+
 ### 同人志
 [](./Подвид.md)[Подвид](./Подвид.md)首发日期：2015-05-10 （第十二回 博麗神社例大祭 (未找到链接)）漫画 （一般向）[](./サイエンスの氷精.md)[サイエンスの氷精](./サイエンスの氷精.md)首发日期：2015-08-14 （Comic Market 88 (未找到链接)）漫画 （一般向）[](./Аврора.md)[Аврора](./Аврора.md)首发日期：2015-12-30 （Comic Market 89 (未找到链接)）画集 （一般向）A5&#160;尺寸 18&#160;页[](./I_RUN_AWAY.md)[I RUN AWAY](./I_RUN_AWAY.md)首发日期：2017-05-07 （第十四回 博麗神社例大祭 (未找到链接)）漫画 （一般向）[](./東方異次幻空洞.md)[東方異次幻空洞](./東方異次幻空洞.md)首发日期：2018-05-06 （第十五回 博麗神社例大祭 (未找到链接)）合同志、​漫画、​画集 （一般向）B5&#160;尺寸 64&#160;页東方亜種音（平沢進）合同[](./第⑨曼荼羅.md)[第⑨曼荼羅](./第⑨曼荼羅.md)首发日期：2019-05-05 （第十六回 博麗神社例大祭 (未找到链接)）合同志、​漫画、​绘本 （一般向）B5&#160;尺寸 52&#160;页東方亜種音（平沢進）合同[](./回＝魂・序章-HALF_HUMAN_LE.md)[回＝魂・序章-HALF HUMAN LE](./回＝魂・序章-HALF_HUMAN_LE.md)首发日期：2019-08-12 （Comic Market 96 (未找到链接)）漫画 （一般向） 8&#160;页[](./続回＝魂・可視海.md)[続回＝魂・可視海](./続回＝魂・可視海.md)首发日期：2019-12-31 （Comic Market 97 (未找到链接)）漫画 （一般向）B5&#160;尺寸 16&#160;页
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -53,6 +59,7 @@
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 参展信息

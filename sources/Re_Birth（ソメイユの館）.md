@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Re_Birth（ソメイユの館）封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/e/e8/Re_Birth%EF%BC%88%E3%82%BD%E3%83%A1%E3%82%A4%E3%83%A6%E3%81%AE%E9%A4%A8%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/157px-Re_Birth%EF%BC%88%E3%82%BD%E3%83%A1%E3%82%A4%E3%83%A6%E3%81%AE%E9%A4%A8%EF%BC%89%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="157" height="224" srcset="https://upload.thwiki.cc/thumb/e/e8/Re_Birth%EF%BC%88%E3%82%BD%E3%83%A1%E3%82%A4%E3%83%A6%E3%81%AE%E9%A4%A8%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/236px-Re_Birth%EF%BC%88%E3%82%BD%E3%83%A1%E3%82%A4%E3%83%A6%E3%81%AE%E9%A4%A8%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/e/e8/Re_Birth%EF%BC%88%E3%82%BD%E3%83%A1%E3%82%A4%E3%83%A6%E3%81%AE%E9%A4%A8%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/314px-Re_Birth%EF%BC%88%E3%82%BD%E3%83%A1%E3%82%A4%E3%83%A6%E3%81%AE%E9%A4%A8%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1438" data-file-height="2048"></a><div class="cover-char">角色：<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a>，<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></div></td>
@@ -14,9 +15,12 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/maka_mogmog/status/1518185846096158722">https://twitter.com/maka_mogmog/status/1518185846096158722</a><br><a rel="nofollow" class="external free" href="https://twitter.com/maka_mogmog/status/1520716248220581888">https://twitter.com/maka_mogmog/status/1520716248220581888</a></td></tr></tbody></table>
 
 Re Birth（同人志，ソメイユの館，2022） - 2022年5月8日 由 ソメイユの館 于 博丽神社例大祭19 发布的画集同人志，A4尺寸一共24页，登场人物有 博丽灵梦、雾雨魔理沙、八云紫、射命丸文，分级为 一般向
+
 ## 预览
+
 ## Staff
 - maka (未找到链接)
+
 
 ## 评论
 

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Arah_Timur_Issue_1+2封面.gif.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/5/5d/Arah_Timur_Issue_1%2B2%E5%B0%81%E9%9D%A2.gif" decoding="async" loading="lazy" width="121" height="168" data-file-width="110" data-file-height="153"></a><div class="cover-char">角色：<a href="./琪露诺.md" title="琪露诺">琪露诺</a></div></td>
@@ -14,9 +15,11 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://deadfishchronicles.com/books.html">http://deadfishchronicles.com/books.html</a></td></tr></tbody></table>
 
 Arah Timur Issue 1+2（同人志，Dead Fish Chronicles，2011） - 2011年12月17日 由 Dead Fish Chronicles 于 Comic Fiesta2011 发布的总集/漫画同人志，A5尺寸一共56页，分级为 一般向
+
 ## 收录作品
 - [Arah Timur Issue 01](./Arah_Timur_Issue_01.md)
 - [Arah Timur Issue 02](./Arah_Timur_Issue_02.md)
+
 
 ## Staff
 - Gen（Dead Fish Chronicles） (未找到链接)
@@ -24,6 +27,7 @@ Arah Timur Issue 1+2（同人志，Dead Fish Chronicles，2011） - 2011年12月
 - Onipolice (未找到链接)
 - Bokson (未找到链接)
 - Momiji (未找到链接)
+
 
 ## 评论
 

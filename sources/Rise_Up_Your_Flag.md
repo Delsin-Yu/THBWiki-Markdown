@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Rise_Up_Your_Flag封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/d/de/Rise_Up_Your_Flag%E5%B0%81%E9%9D%A2.jpg/144px-Rise_Up_Your_Flag%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="144" height="196" srcset="https://upload.thwiki.cc/thumb/d/de/Rise_Up_Your_Flag%E5%B0%81%E9%9D%A2.jpg/216px-Rise_Up_Your_Flag%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/d/de/Rise_Up_Your_Flag%E5%B0%81%E9%9D%A2.jpg/289px-Rise_Up_Your_Flag%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="754" data-file-height="1024"></a><div class="cover-char">角色：<a href="./物部布都.md" title="物部布都">物部布都</a>，<a href="./云居一轮.md" title="云居一轮">云居一轮</a></div></td>
@@ -18,8 +19,10 @@ Rise Up Your Flag（同人志，うかいぷ，2016） - 2016年5月8日 由 う
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://booth.pm/ja/items/248579">Booth</a></td></tr></tbody></table>
 
 
+
 ## Staff
 : 雲海 (未找到链接)
+
 
 ## 评论
 

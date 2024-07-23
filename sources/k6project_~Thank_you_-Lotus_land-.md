@@ -18,6 +18,7 @@
 
 
 </center>
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-k6project_~Thank_you_-Lotus_land-封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/9/90/k6project_~Thank_you_%22Lotus_land%22%E5%B0%81%E9%9D%A2.png/140px-k6project_~Thank_you_%22Lotus_land%22%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="140" height="140" srcset="https://upload.thwiki.cc/thumb/9/90/k6project_~Thank_you_%22Lotus_land%22%E5%B0%81%E9%9D%A2.png/210px-k6project_~Thank_you_%22Lotus_land%22%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/9/90/k6project_~Thank_you_%22Lotus_land%22%E5%B0%81%E9%9D%A2.png/280px-k6project_~Thank_you_%22Lotus_land%22%E5%B0%81%E9%9D%A2.png 2x" data-file-width="500" data-file-height="500"></a></td>
@@ -26,6 +27,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://byourou.web.fc2.com/k6project/#about">http://byourou.web.fc2.com/k6project/#about</a></td></tr></tbody></table>
 
 k6project ~Thank you "Lotus land"（同人视频，k2project，2010） - 2010年10月11日 由 k2project 于 东方红楼梦6 发布的其他同人视频，分级为 一般向
+
 ## Staff
 Planning
 : 猫狼 (未找到链接)
@@ -33,11 +35,13 @@ Planning
 : でっち (未找到链接)
 : Ottiki (未找到链接)
 
+
 ## Promo
   
 <iframe width="100%" height="180" src="https://ext.nicovideo.jp/thumb/sm12268175" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/watch/sm12268175">,</a></iframe>
 
   
+
 
 ## Contributors
 
@@ -51,7 +55,7 @@ Planning
 : 八白 (未找到链接) （人工モノクローム (未找到链接)）
 : Ottiki (未找到链接) （[SEA SPARROWS](./SEA_SPARROWS.md)）
 : takayuki@jp (未找到链接) （[SEA SPARROWS](./SEA_SPARROWS.md)）
-: ArmaTek (未找到链接) （[電網公司](./電網公司.md)）
+: [ArmaTek](./ArmaTek.md) （[電網公司](./電網公司.md)）
 : PenguinDance (未找到链接) （[ペンギンブルー](./ペンギンブルー.md)）
 : 作者 (未找到链接) （[作者の戯事](./作者の戯事.md)）
 : しわすさん (未找到链接) （でぃわす (未找到链接)）
@@ -67,9 +71,9 @@ Planning
 : いっちー (未找到链接)
 : D4C (未找到链接) （でぃわす (未找到链接)）
 : 麦茶 (未找到链接)
-: *.yuki (未找到链接) （Snow*Mark (未找到链接)）
+: *.yuki (未找到链接) （[Snow*Mark](./Snow-Mark.md)）
 : yu-ki (未找到链接)
-: アキ (未找到链接) （[Red Bullet Sequence](./Red_Bullet_Sequence.md)）
+: [アキ](./アキ.md) （[Red Bullet Sequence](./Red_Bullet_Sequence.md)）
 : fratanity  (未找到链接) （[at the mercy of sounds](./at_the_mercy_of_sounds.md)）
 : [みりん屋](./みりん屋.md)
 : 更待くろみ (未找到链接) （[La Sonotasia](./La_Sonotasia.md)）
@@ -186,7 +190,7 @@ Planning
 : [おいなり](./おいなり.md) （[天災族](./天災族.md)）
 : すきま (未找到链接) （CRIE (未找到链接)）
 : 武蔵野うどん  (未找到链接) （きぬかた (未找到链接)）
-: 天音 (未找到链接) （[Rolling Contact](./Rolling_Contact.md)）
+: [天音](./天音.md) （[Rolling Contact](./Rolling_Contact.md)）
 : ターボ (未找到链接) （白沼洞窟 (未找到链接)）
 : ノア (未找到链接) （[LOST BLESS](./LOST_BLESS.md)）
 : AN (未找到链接) （[LOST BLESS](./LOST_BLESS.md)）
@@ -349,6 +353,7 @@ Planning
 : 介； (未找到链接) （おれんじすふぃあ (未找到链接)）
 : 犬山あやとり (未找到链接)
 : 塙椙彪碼  (未找到链接) （Clear Colors (未找到链接)）
+
 
 ## 评论
 

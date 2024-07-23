@@ -4,7 +4,8 @@
 
 Emotional&Reason ，于 2013 年成立，主要制作 同人音乐 的日本同人社团，主催是 奈央，当前状态为 休止
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -16,15 +17,18 @@ Emotional&Reason ，于 2013 年成立，主要制作 同人音乐 的日本同�
 
 
 
+
 ## 社团信息
 [](./文件-Emotional&Reasonlogo.jpg.md)  [](./文件-Emotional&Reasonlogo.jpg.md)logo
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Emotional&#38;Reason </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2013</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=%E5%A5%88%E5%A4%AE&amp;action=edit&amp;redlink=1" class="new" title="奈央（页面不存在）">奈央</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="https://emortional-reason.tumblr.com/">https://emortional-reason.tumblr.com/</a> </td></tr></tbody></table>
 
 Emotional&amp;Reason（同人社团，同人音乐社团） - Emotional&amp;Reason ，于 2013 年成立，主要制作 同人音乐 的日本同人社团，主催是 奈央，当前状态为 休止
+
 ## 成员名单
 - 奈央 (未找到链接)
   - [Twitter：@BerBerStick](https://twitter.com/BerBerStick)
+
 
 
 ## 作品列表
@@ -35,9 +39,11 @@ Emotional&amp;Reason（同人社团，同人音乐社团） - Emotional&amp;Reas
 </table>
 
 
+
 ## 参展信息
 
 <table><tbody><tr><th class="活动页面">活动页面</th><th class="活动名称">活动名称</th><th class="日期">日期</th><th class="举办地点">举办地点</th><th class="摊位编号">摊位编号</th><th class="宣传页面">宣传页面</th><th class="备注">备注</th></tr><tr data-row-number="1" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#11" title="博丽神社例大祭">博丽神社例大祭#11</a></span></td><td class="活动名称 smwtype_txt">第十一回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2456788.5">2014-05-11</td><td class="举办地点 smwtype_txt">东京Big Sight 东123456展厅</td><td class="摊位编号 smwtype_txt">う19b</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="2" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#10" title="博丽神社例大祭">博丽神社例大祭#10</a></span></td><td class="活动名称 smwtype_txt">第十回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2456438.5">2013-05-26</td><td class="举办地点 smwtype_txt">东京Big Sight 东123456展厅</td><td class="摊位编号 smwtype_txt">D19b</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="3" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/M3#31" title="M3">M3#31</a></span></td><td class="活动名称 smwtype_txt">M3-2013春</td><td class="日期 smwtype_dat" data-sort-value="2456411.5">2013-04-29</td><td class="举办地点 smwtype_txt">东京流通中心(TRC) 第1・第2展厅</td><td class="摊位编号 smwtype_txt">O05a</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr></tbody></table>
+
 
 
 ## 其他信息

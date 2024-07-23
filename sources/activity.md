@@ -4,7 +4,8 @@
 
 activity ，于 2009 年成立，主要制作 同人音乐 的日本同人社团，主催是 野。，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -15,14 +16,17 @@ activity ，于 2009 年成立，主要制作 同人音乐 的日本同人社团
 
 
 
+
 ## 社团信息
 [](./文件-activity_banner.gif.md)  [](./文件-activity_banner.gif.md)Banner
 
-<table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> activity </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2009</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="/%E9%87%8E%E3%80%82" class="mw-redirect" title="野。">野。</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://activity.sakura.ne.jp">http://activity.sakura.ne.jp</a> <br><a rel="nofollow" class="external free" href="https://sound.jp/activity/index.htm">https://sound.jp/activity/index.htm</a> <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span></td></tr></tbody></table>
+<table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> activity </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2009</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="./野。.md" class="mw-redirect" title="野。">野。</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://activity.sakura.ne.jp">http://activity.sakura.ne.jp</a> <br><a rel="nofollow" class="external free" href="https://sound.jp/activity/index.htm">https://sound.jp/activity/index.htm</a> <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span></td></tr></tbody></table>
 
 activity（同人社团，同人音乐社团） - activity ，于 2009 年成立，主要制作 同人音乐 的日本同人社团，主催是 野。，当前状态为 活动
+
 ## 成员名单
-- 野。 (未找到链接)
+- [野。](./野。.md)
+
 
 ## 作品列表
 [](./quartet.md)[quartet](./quartet.md)首发日期：2009-03-01 （るなフェス3 (未找到链接)）全长 （一般向）[](./twintail+.md)[twintail+](./twintail+.md)首发日期：2009-10-11 （東方紅楼夢5 (未找到链接)）全长 （一般向）[](./search-eye.md)[search-eye](./search-eye.md)首发日期：2010-03-14 （第七回 博麗神社例大祭 (未找到链接)）全长 （一般向）[](./fairyring（同人专辑）.md)[fairyring](./fairyring（同人专辑）.md)首发日期：2010-03-14 （第七回 博麗神社例大祭 (未找到链接)）单曲、​Omake （一般向）[](./darkflight.md)[darkflight](./darkflight.md)首发日期：未知 单曲 （一般向）[](./delight（activity）.md)[delight](./delight（activity）.md)首发日期：2010-10-11 （東方紅楼夢6 (未找到链接)）全长 （一般向）[](./dryflower.md)[dryflower](./dryflower.md)首发日期：2010-12-30 EP （一般向）[](./radiotelegraghy.md)[radiotelegraghy](./radiotelegraghy.md)首发日期：2011-05-08 （第八回 博麗神社例大祭 (未找到链接)）全长 （一般向）[](./メモリアルバム.md)[メモリアルバム](./メモリアルバム.md)首发日期：2011-08-28 （東方絢文禄 尾張の卷 第三点五弾 (未找到链接)）全长 （一般向）该作品是与 [LSD](./LSD.md) 合作创作的[](./rigidrope.md)[rigidrope](./rigidrope.md)首发日期：2011-08-28 （東方絢文禄 尾張の卷 第三点五弾 (未找到链接)）单曲、​Demo （一般向）[](./pop☆stroke.md)[pop☆stroke](./pop☆stroke.md)首发日期：2011-10-16 （東方紅楼夢7 (未找到链接)）全长 （一般向）birthday 封面图片 (未找到链接)[birthday](./birthday（activity）.md)首发日期：2011-10-16 （東方紅楼夢7 (未找到链接)）单曲、​Demo （一般向）エア冬コミ企画 封面图片 (未找到链接)[エア冬コミ企画](./エア冬コミ企画.md)首发日期：2011-12-31 （Comic Market 81 (未找到链接)）EP、​合作 （一般向）该作品是与 [ごりら公園](./ごりら公園.md) 合作创作的该专辑包含 2 张CDalbum title taken from the first line of the info file included in download; possibly untitled[](./know（同人专辑）.md)[know](./know（同人专辑）.md)首发日期：2012-03-25 （東方絢文禄 尾張の卷 第五弾 (未找到链接)）全长、​重制 （一般向）[](./latentcyclic.md)[latentcyclic](./latentcyclic.md)首发日期：2012-05-27 （第九回 博麗神社例大祭 (未找到链接)）全长 （一般向）[](./orangesoda.md)[orangesoda](./orangesoda.md)首发日期：2012-08-26 （東方絢文禄 尾張の卷 第六弾 (未找到链接)）全长 （一般向）[](./circus.md)[circus](./circus.md)首发日期：2012-10-07 （東方紅楼夢8 (未找到链接)）单曲 （一般向）[](./in_stuntwork.md)[in stuntwork](./in_stuntwork.md)首发日期：2012-12-30 （Comic Market 83 (未找到链接)）全长 （一般向）[](./homesick.md)[homesick](./homesick.md)首发日期：2013-05-26 （第十回 博麗神社例大祭 (未找到链接)）全长 （一般向）[](./r.c.holic_3days.md)[r.c.holic 3days](./r.c.holic_3days.md)首发日期：2013-08-12 （Comic Market 84 (未找到链接)）EP （一般向）[](./trouble_maker.md)[trouble maker](./trouble_maker.md)首发日期：2013-10-13 （東方紅楼夢9 (未找到链接)）全长 （一般向）[](./ワールドレコード.md)[ワールドレコード](./ワールドレコード.md)首发日期：2014-05-11 （第十一回 博麗神社例大祭 (未找到链接)）全长 （一般向）该作品是与 [LSD](./LSD.md) 合作创作的[](./www.network.md)[www.network](./www.network.md)首发日期：2015-05-10 （第十二回 博麗神社例大祭 (未找到链接)）全长 （一般向）[](./サークルトリップ.md)[サークルトリップ](./サークルトリップ.md)首发日期：2016-05-08 （第十三回 博麗神社例大祭 (未找到链接)）全长 （一般向）该作品是与 [LSD](./LSD.md) 合作创作的[](./窓の庭.md)[窓の庭](./窓の庭.md)首发日期：2015-05-10 （第十二回 博麗神社例大祭 (未找到链接)）Omake （一般向）该作品是与 [じゃねっと亭](./じゃねっと亭.md) 合作创作的[](./カラフルノート.md)[カラフルノート](./カラフルノート.md)首发日期：2017-05-07 （第十四回 博麗神社例大祭 (未找到链接)）全长 （一般向）该作品是与 [LSD](./LSD.md) 合作创作的[](./OLD_CITY_POP.md)[OLD CITY POP](./OLD_CITY_POP.md)首发日期：2023-05-07 （第二十回 博麗神社例大祭 (未找到链接)）合作、​全长 （一般向）该作品是与 [LSD](./LSD.md) 合作创作的カセットテープ ＋ インデックス ＋ 紙製スリーブ
@@ -80,6 +84,7 @@ activity（同人社团，同人音乐社团） - activity ，于 2009 年成立
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 参展信息

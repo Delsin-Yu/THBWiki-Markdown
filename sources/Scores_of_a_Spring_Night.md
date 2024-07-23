@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Scores_of_a_Spring_Night封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/3/3e/Scores_of_a_Spring_Night%E5%B0%81%E9%9D%A2.jpg/99px-Scores_of_a_Spring_Night%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="99" height="140" srcset="https://upload.thwiki.cc/thumb/3/3e/Scores_of_a_Spring_Night%E5%B0%81%E9%9D%A2.jpg/148px-Scores_of_a_Spring_Night%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/3/3e/Scores_of_a_Spring_Night%E5%B0%81%E9%9D%A2.jpg/198px-Scores_of_a_Spring_Night%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="500" data-file-height="707"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></div></td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://music-pandora.com/comp.html#score_spring">http://music-pandora.com/comp.html#score_spring</a><br><a rel="nofollow" class="external free" href="http://musicpandora.blog.shinobi.jp/雑記/久しぶりの更新ですみません…">http://musicpandora.blog.shinobi.jp/雑記/久しぶりの更新ですみません…</a></td></tr><tr><td class="label">备注</td><td colspan="2"><a href="./Songs_of_a_Spring_Night.md" title="Songs of a Spring Night">Songs of a Spring Night</a>的全曲乐谱集</td></tr></tbody></table>
 
 Scores of a Spring Night（同人志，Music Pandora，2010） - 2010年8月14日 由 Music Pandora 于 Comic Market 78 发布的乐谱同人志，一共56页，分级为 一般向
+
 ## Staff
 Arrangement
 : 光田晋哉 （[Music Pandora](./Music_Pandora.md)）
@@ -24,6 +26,7 @@ Illustration
 Design
 : よーかん
 : 光田晋哉
+
 
 ## 评论
 

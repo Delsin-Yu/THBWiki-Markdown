@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Still_on_my_way封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/e/e5/Still_on_my_way%E5%B0%81%E9%9D%A2.jpg/252px-Still_on_my_way%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="252" srcset="https://upload.thwiki.cc/thumb/e/e5/Still_on_my_way%E5%B0%81%E9%9D%A2.jpg/378px-Still_on_my_way%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/e/e5/Still_on_my_way%E5%B0%81%E9%9D%A2.jpg/504px-Still_on_my_way%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1200" data-file-height="1200"></a><div class="cover-char">角色：<a href="./杖刀偶磨弓.md" title="杖刀偶磨弓">杖刀偶磨弓</a></div></td>
@@ -18,11 +19,13 @@ Still on my way（同人专辑，イノライ，2024） - 2024年3月31日 由 �
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://inorai.booth.pm/items/5594842">Booth</a></td></tr></tbody></table>
 
 
+
 ## Staff
   
  **Vocal**   
 
 <table><tbody><tr><td><a href="./Nachi.md" title="Nachi">Nachi</a></td><td></td><td>Tr.1</td></tr><tr><td><a href="./cheluce.md" title="cheluce">cheluce</a></td><td></td><td>Tr.2</td></tr></tbody></table>
+
 
 
 ## 试听
@@ -37,10 +40,12 @@ Still on my way（同人专辑，イノライ，2024） - 2024年3月31日 由 �
 </td></tr></tbody></table>
 
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoRD"><b>01</b></td><td id="Still_on_my_way" colspan="2" class="title"><a href="./歌词-Still_on_my_way.md" title="歌词:Still on my way">Still on my way</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=Nachi&amp;ogmusic=セラミックスの杖刀人，偶像に世界を委ねて　～ Idoratrize World&amp;fromwiki=Still_on_my_way"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="./Nachi.md" title="Nachi">Nachi</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=Nachi&amp;fromwiki=Still_on_my_way"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=セラミックスの杖刀人，偶像に世界を委ねて　～ Idoratrize World&amp;fromwiki=Still_on_my_way"><span></span></a></span><div class="ogmusic"><a href="/%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E6%9D%96%E5%88%80%E4%BA%BA" class="mw-redirect" title="セラミックスの杖刀人">セラミックスの杖刀人</a></div><div class="ogmusic"><a href="/%E5%81%B6%E5%83%8F%E3%81%AB%E4%B8%96%E7%95%8C%E3%82%92%E5%A7%94%E3%81%AD%E3%81%A6_%EF%BD%9E_Idoratrize_World" class="mw-redirect" title="偶像に世界を委ねて ～ Idoratrize World">偶像に世界を委ねて　～ Idoratrize World</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E9%AC%BC%E5%BD%A2%E5%85%BD_%EF%BD%9E_Wily_Beast_and_Weakest_Creature." class="mw-redirect" title="东方鬼形兽 ～ Wily Beast and Weakest Creature.">东方鬼形兽　～ Wily Beast and Weakest Creature.</a></div></td></tr>
-<tr><td id="2" class="infoRD"><b>02</b></td><td id="傷つきやすい君のために" colspan="2" class="title"><a href="./歌词-傷つきやすい君のために.md" title="歌词:傷つきやすい君のために">傷つきやすい君のために</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=cheluce&amp;ogmusic=夜雀の歌声　～ Night Bird&amp;fromwiki=Still_on_my_way"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="./cheluce.md" title="cheluce">cheluce</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=cheluce&amp;fromwiki=Still_on_my_way"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=夜雀の歌声　～ Night Bird&amp;fromwiki=Still_on_my_way"><span></span></a></span><div class="ogmusic"><a href="/%E5%A4%9C%E9%9B%80%E3%81%AE%E6%AD%8C%E5%A3%B0_%EF%BD%9E_Night_Bird" class="mw-redirect" title="夜雀の歌声 ～ Night Bird">夜雀の歌声　～ Night Bird</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E6%B0%B8%E5%A4%9C%E6%8A%84_%EF%BD%9E_Imperishable_Night." class="mw-redirect" title="东方永夜抄 ～ Imperishable Night.">东方永夜抄　～ Imperishable Night.</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoRD"><b>01</b></td><td id="Still_on_my_way" colspan="2" class="title"><a href="./歌词-Still_on_my_way.md" title="歌词:Still on my way">Still on my way</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=Nachi&amp;ogmusic=セラミックスの杖刀人，偶像に世界を委ねて　～ Idoratrize World&amp;fromwiki=Still_on_my_way"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="./Nachi.md" title="Nachi">Nachi</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=Nachi&amp;fromwiki=Still_on_my_way"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=セラミックスの杖刀人，偶像に世界を委ねて　～ Idoratrize World&amp;fromwiki=Still_on_my_way"><span></span></a></span><div class="ogmusic"><a href="./セラミックスの杖刀人.md" class="mw-redirect" title="セラミックスの杖刀人">セラミックスの杖刀人</a></div><div class="ogmusic"><a href="./偶像に世界を委ねて_～_Idoratrize_World.md" class="mw-redirect" title="偶像に世界を委ねて ～ Idoratrize World">偶像に世界を委ねて　～ Idoratrize World</a></div><div class="source"><a href="./东方鬼形兽_～_Wily_Beast_and_Weakest_Creature..md" class="mw-redirect" title="东方鬼形兽 ～ Wily Beast and Weakest Creature.">东方鬼形兽　～ Wily Beast and Weakest Creature.</a></div></td></tr>
+<tr><td id="2" class="infoRD"><b>02</b></td><td id="傷つきやすい君のために" colspan="2" class="title"><a href="./歌词-傷つきやすい君のために.md" title="歌词:傷つきやすい君のために">傷つきやすい君のために</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=cheluce&amp;ogmusic=夜雀の歌声　～ Night Bird&amp;fromwiki=Still_on_my_way"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="./cheluce.md" title="cheluce">cheluce</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=cheluce&amp;fromwiki=Still_on_my_way"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=夜雀の歌声　～ Night Bird&amp;fromwiki=Still_on_my_way"><span></span></a></span><div class="ogmusic"><a href="./夜雀の歌声_～_Night_Bird.md" class="mw-redirect" title="夜雀の歌声 ～ Night Bird">夜雀の歌声　～ Night Bird</a></div><div class="source"><a href="./东方永夜抄_～_Imperishable_Night..md" class="mw-redirect" title="东方永夜抄 ～ Imperishable Night.">东方永夜抄　～ Imperishable Night.</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

@@ -169,6 +169,7 @@
 [](./文件-THD2四季映姬·亚玛萨那度.png.md)
   
 
+
 ## 目录
 
 - [1 角色定位](#角色定位)
@@ -189,10 +190,12 @@
 
 
 
+
 ## 角色定位
   
 爆发 - 控制 - 先手 - 辅助
   
+
 
 ## 技能介绍
 
@@ -670,6 +673,7 @@
 </td></tr></tbody></table>
 
 
+
 ## 天赋树
 
 
@@ -708,25 +712,30 @@
 </td></tr></tbody></table>
 
 
+
 ### 出门装备
 ```
 [](./文件-THD2鬼天王腰带.png.md) [](./文件-THD2爱人卡.png.md) [](./文件-THD2思兼生命药.png.md)
 ```
+
 
 ### 前期装备
 ```
 [](./文件-THD2很值钱的礼物.png.md) [](./文件-THD2博丽供奉箱.png.md) [](./文件-THD2魔法使扫把.png.md)
 ```
 
+
 ### 核心装备
 ```
 [](./文件-THD2冰精跳跃装置.png.md) [](./文件-THD2替身人偶.png.md) [](./文件-THD2亡灵送行提灯.png.md)
 ```
 
+
 ### 可选装备
 ```
 [](./文件-THD2博丽神社护身符.png.md) [](./文件-THD2奇迹之星.png.md) [](./文件-THD2灾厄之主人形.png.md)
 ```
+
 
 ## 技能加点
 
@@ -788,6 +797,7 @@
 <td><a href="./文件-DOTA黄点.png.md" class="image" title="+2 全属性"><img alt="+2 全属性" src="https://upload.thwiki.cc/thumb/d/da/DOTA%E9%BB%84%E7%82%B9.png/40px-DOTA%E9%BB%84%E7%82%B9.png" decoding="async" loading="lazy" width="40" height="40" srcset="https://upload.thwiki.cc/thumb/d/da/DOTA%E9%BB%84%E7%82%B9.png/60px-DOTA%E9%BB%84%E7%82%B9.png 1.5x, https://upload.thwiki.cc/thumb/d/da/DOTA%E9%BB%84%E7%82%B9.png/80px-DOTA%E9%BB%84%E7%82%B9.png 2x" data-file-width="128" data-file-height="128"></a></td>
 <td><a href="./文件-THD2天赋树25右.png.md" class="image" title="-40秒 最终审判冷却时间"><img alt="-40秒 最终审判冷却时间" src="https://upload.thwiki.cc/thumb/5/5b/THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%8F%B3.png/40px-THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%8F%B3.png" decoding="async" loading="lazy" width="40" height="40" srcset="https://upload.thwiki.cc/thumb/5/5b/THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%8F%B3.png/60px-THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%8F%B3.png 1.5x, https://upload.thwiki.cc/thumb/5/5b/THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%8F%B3.png/80px-THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%8F%B3.png 2x" data-file-width="103" data-file-height="103"></a>
 </td></tr></tbody></table>
+
 
 
 ## 台词
@@ -918,6 +928,7 @@
 </td>
 <td>あ～あ、私は閻魔失格（えんましっかく）ってことだよね<br>[  啊~啊，我作为阎魔的失格呢]
 </td></tr></tbody></table>
+
 
 
 ## 教学视频

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=SteamPunk_Palace_on_a_Festive_Night_~_Soul%27s_Way%E5%B0%81%E9%9D%A2.jpg" class="new" title="文件:SteamPunk Palace on a Festive Night ~ Soul&#39;s Way封面.jpg">封面图片</a><div class="cover-char">角色：<a href="./鬼人正邪.md" title="鬼人正邪">鬼人正邪</a></div></td>
@@ -18,6 +19,7 @@ SteamPunk Palace on a Festive Night ~ Soul's Way（同人专辑，Erica-Angelina
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://kanarskasabat.bandcamp.com/track/steampunk-palace-on-a-festive-night-souls-way">bandcamp</a></td></tr></tbody></table>
 
 
+
 ## Staff
   
  **Arrangement**   
@@ -28,15 +30,18 @@ SteamPunk Palace on a Festive Night ~ Soul's Way（同人专辑，Erica-Angelina
 Illustration
 : Arlmuffin
 
+
 ## 试听
   
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/239877206&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=false"></iframe>
 
   
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="SteamPunk_Palace_on_a_Festive_Night_~_Soul&#39;s_Way" colspan="2" class="title">SteamPunk Palace on a Festive Night ~ Soul&#39;s Way<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Soggates-Nyan (aMURka-chan)&amp;ogmusic=空中に沈む輝針城&amp;fromwiki=SteamPunk_Palace_on_a_Festive_Night_~_Soul's_Way"><span title="搜索相似同人曲"></span></a></span></td><td class="time">10:05</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=Soggates-Nyan_(aMURka-chan)&amp;action=edit&amp;redlink=1" class="new" title="Soggates-Nyan (aMURka-chan)（页面不存在）">Soggates-Nyan (aMURka-chan)</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Soggates-Nyan (aMURka-chan)&amp;fromwiki=SteamPunk_Palace_on_a_Festive_Night_~_Soul's_Way"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=空中に沈む輝針城&amp;fromwiki=SteamPunk_Palace_on_a_Festive_Night_~_Soul's_Way"><span></span></a></span><div class="ogmusic"><a href="/%E7%A9%BA%E4%B8%AD%E3%81%AB%E6%B2%88%E3%82%80%E8%BC%9D%E9%87%9D%E5%9F%8E" class="mw-redirect" title="空中に沈む輝針城">空中に沈む輝針城</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E8%BE%89%E9%92%88%E5%9F%8E_%EF%BD%9E_Double_Dealing_Character." class="mw-redirect" title="东方辉针城 ～ Double Dealing Character.">东方辉针城　～ Double Dealing Character.</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="SteamPunk_Palace_on_a_Festive_Night_~_Soul&#39;s_Way" colspan="2" class="title">SteamPunk Palace on a Festive Night ~ Soul&#39;s Way<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Soggates-Nyan (aMURka-chan)&amp;ogmusic=空中に沈む輝針城&amp;fromwiki=SteamPunk_Palace_on_a_Festive_Night_~_Soul's_Way"><span title="搜索相似同人曲"></span></a></span></td><td class="time">10:05</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=Soggates-Nyan_(aMURka-chan)&amp;action=edit&amp;redlink=1" class="new" title="Soggates-Nyan (aMURka-chan)（页面不存在）">Soggates-Nyan (aMURka-chan)</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Soggates-Nyan (aMURka-chan)&amp;fromwiki=SteamPunk_Palace_on_a_Festive_Night_~_Soul's_Way"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=空中に沈む輝針城&amp;fromwiki=SteamPunk_Palace_on_a_Festive_Night_~_Soul's_Way"><span></span></a></span><div class="ogmusic"><a href="./空中に沈む輝針城.md" class="mw-redirect" title="空中に沈む輝針城">空中に沈む輝針城</a></div><div class="source"><a href="./东方辉针城_～_Double_Dealing_Character..md" class="mw-redirect" title="东方辉针城 ～ Double Dealing Character.">东方辉针城　～ Double Dealing Character.</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

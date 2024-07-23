@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Landschaft_in_Gensokyo封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/e/e7/Landschaft_in_Gensokyo%E5%B0%81%E9%9D%A2.jpg/139px-Landschaft_in_Gensokyo%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="139" height="196" srcset="https://upload.thwiki.cc/thumb/e/e7/Landschaft_in_Gensokyo%E5%B0%81%E9%9D%A2.jpg/208px-Landschaft_in_Gensokyo%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/e/e7/Landschaft_in_Gensokyo%E5%B0%81%E9%9D%A2.jpg/277px-Landschaft_in_Gensokyo%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="2147" data-file-height="3035"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></div></td>
@@ -14,12 +15,14 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/lithaduki/status/1447545321827958788">https://twitter.com/lithaduki/status/1447545321827958788</a><br><a rel="nofollow" class="external free" href="https://twitter.com/makomo_1838/status/1447559318476189702">https://twitter.com/makomo_1838/status/1447559318476189702</a></td></tr></tbody></table>
 
 Landschaft in Gensokyo（同人志，ぷちの写真屋，2021） - 2021年10月24日 由 ぷちの写真屋 于 博丽神社秋季例大祭8 发布的摄影集同人志，一共38页，登场人物有 博丽灵梦、雾雨魔理沙、帕秋莉·诺蕾姬、芙兰朵露·斯卡蕾特，分级为 一般向
+
 ## Staff
 Cosplay
 : 鈴はづき （[Twitter: @lithaduki](https://twitter.com/lithaduki)）
 : まこも （[Twitter: @makomo_1838](https://twitter.com/makomo_1838)）
 摄影
 : れど （[Twitter: @LedByPi](https://twitter.com/LedByPi)）
+
 
 ## 评论
 

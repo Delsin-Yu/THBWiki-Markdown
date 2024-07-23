@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Re-Signing（東方名華祭13）封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/4/48/Re-Signing%EF%BC%88%E6%9D%B1%E6%96%B9%E5%90%8D%E8%8F%AF%E7%A5%AD13%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/119px-Re-Signing%EF%BC%88%E6%9D%B1%E6%96%B9%E5%90%8D%E8%8F%AF%E7%A5%AD13%EF%BC%89%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="119" height="168" srcset="https://upload.thwiki.cc/thumb/4/48/Re-Signing%EF%BC%88%E6%9D%B1%E6%96%B9%E5%90%8D%E8%8F%AF%E7%A5%AD13%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/179px-Re-Signing%EF%BC%88%E6%9D%B1%E6%96%B9%E5%90%8D%E8%8F%AF%E7%A5%AD13%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/4/48/Re-Signing%EF%BC%88%E6%9D%B1%E6%96%B9%E5%90%8D%E8%8F%AF%E7%A5%AD13%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/239px-Re-Signing%EF%BC%88%E6%9D%B1%E6%96%B9%E5%90%8D%E8%8F%AF%E7%A5%AD13%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="503" data-file-height="708"></a><div class="cover-char">角色：<a href="./帕秋莉·诺蕾姬.md" title="帕秋莉·诺蕾姬">帕秋莉·诺蕾姬</a>，<a href="./小恶魔.md" title="小恶魔">小恶魔</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/mihuni/status/1106481008256274434">https://twitter.com/mihuni/status/1106481008256274434</a></td></tr><tr><td class="label">备注</td><td colspan="2">为东方红魔幻想3上发布的<a href="./Re-Signing.md" title="Re-Signing">Re-Signing</a>的完全版</td></tr></tbody></table>
 
 Re-Signing（東方名華祭13）（同人志，ランダムランド，2019） - 2019年3月17日 由 ランダムランド 于 东方名华祭13 发布的漫画同人志，一共36页，分级为 一般向
+
 ## Staff
 - イチムラ (未找到链接)
+
 
 ## 评论
 

@@ -6,6 +6,7 @@
 
 本页是关于  
 与ZUN有一定关联的非东方作品 (未找到链接)的词条
+
 ## 目录
 
 - [1 概述](#概述)
@@ -16,11 +17,11 @@
 
 
 
+
 ## 概述
 [](./文件-8BIT_MUSIC_POWER_FINAL封面.jpg.md)  [](./文件-8BIT_MUSIC_POWER_FINAL封面.jpg.md)8BIT MUSIC POWER FINAL
   
-<big> **8BIT MUSIC POWER FINAL**   
-</big>
+<big> **8BIT MUSIC POWER FINAL** </big>
 8BIT MUSIC POWER FINAL  
 
 本作是由 **[RIKI](#RIKI)** 制作的FC音乐集卡带，播放平台为Family Computer或Family Computer兼容机。  
@@ -34,8 +35,7 @@ ZUN为本作品提供了一首曲子。
 8BIT MUSIC POWER FINAL（官方专辑） - 官方专辑
 [](./文件-8BIT_MUSIC_POWER_FINAL-_RIKI_collection_-封面.jpg.md)  [](./文件-8BIT_MUSIC_POWER_FINAL-_RIKI_collection_-封面.jpg.md)8BIT MUSIC POWER FINAL- RIKI collection -
   
-<big> **8BIT MUSIC POWER FINAL- RIKI collection -**   
-</big>
+<big> **8BIT MUSIC POWER FINAL- RIKI collection -** </big>
 8BIT MUSIC POWER FINAL- RIKI collection -  
 
 8BIT MUSIC POWER FINAL的CD版本。
@@ -45,10 +45,12 @@ ZUN为本作品提供了一首曲子。
 <table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td style="width:120px"><b>制作方</b></td><td style="width:300px">RIKI</td></tr><tr><td><b>发行日期</b></td><td>2017年10月25日 </td></tr><tr><td><b>音轨数</b></td><td>18</td></tr><tr><td><b>总时长</b></td><td>53:23</td></tr><tr><td><b>编号</b></td><td>COCX-40163</td></tr><tr><td><b>售价</b></td><td>2778日元</td></tr></tbody></table>
 
 8BIT MUSIC POWER FINAL（官方专辑） - 官方专辑
+
 ## RIKI
   
 RIKI，是一位插画家、漫画家，也是音乐光盘制作者。作有原创游戏「闪亮星夜DX」与音乐作品「8BIT MUSIC POWER」系列。
   
+
 
 ## 曲目
 
@@ -70,6 +72,7 @@ RIKI，是一位插画家、漫画家，也是音乐光盘制作者。作有原�
 <tr><td class="infoYL"><b>16</b></td><td colspan="2" class="title">Bit Shift Girl</td><td class="time">5:05</td></tr><tr><td class="left"></td><td colspan="3" class="bigtext">Bit Shift Girl</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2">Sntrr</td></tr>
 <tr><td class="infoYL"><b>17</b></td><td colspan="2" class="title">Believe It or Not!</td><td class="time">2:05</td></tr><tr><td class="left"></td><td colspan="3" class="bigtext">Believe It or Not!</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2">Yasuhisa Watanabe (渡部恭久)</td></tr>
 <tr><td class="infoYL"><b>18</b></td><td colspan="2" class="title">Red-White Planet</td><td class="time">2:53</td></tr><tr><td class="left"></td><td colspan="3" class="bigtext">Red-White Planet</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2">hally</td></tr></tbody></table>
+
 
 
 ## 外部链接

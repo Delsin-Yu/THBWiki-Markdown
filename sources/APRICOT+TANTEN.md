@@ -6,12 +6,14 @@
 
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 软件信息](#软件信息)
 - [2 Staff](#Staff)
 - [3 内容页面](#内容页面)
 - [4 评论](#评论)
+
 
 
 
@@ -36,15 +38,18 @@ APRICOT+TANTEN（同人软件，SINNNKAI，アプリコタン，2012） - 2012�
 </tbody></table>
 
 
+
 ## Staff
 Programming &amp; Planning
 : kawatan （アプリコタン (未找到链接)）
 Illustration
 : sirakannnu （[SINNNKAI](./SINNNKAI.md)）
 
+
 ## 内容页面
 - 使用说明 (未找到链接)
 - 其他信息 (未找到链接)
+
 
 ## 评论
 [^cite_note-1]: 由kawatan开发的桌宠程序。

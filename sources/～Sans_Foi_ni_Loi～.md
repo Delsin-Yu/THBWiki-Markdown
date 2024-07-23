@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-～Sans_Foi_ni_Loi～封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/a/a3/%EF%BD%9ESans_Foi_ni_Loi%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg/224px-%EF%BD%9ESans_Foi_ni_Loi%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="224" srcset="https://upload.thwiki.cc/thumb/a/a3/%EF%BD%9ESans_Foi_ni_Loi%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg/336px-%EF%BD%9ESans_Foi_ni_Loi%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/a/a3/%EF%BD%9ESans_Foi_ni_Loi%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg/448px-%EF%BD%9ESans_Foi_ni_Loi%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1200" data-file-height="1198"></a><div class="cover-char">角色：<a href="./射命丸文.md" title="射命丸文">射命丸文</a>，<a href="./八坂神奈子.md" title="八坂神奈子">八坂神奈子</a>，<a href="./洩矢诹访子.md" title="洩矢诹访子">洩矢诹访子</a></div></td>
@@ -13,6 +14,7 @@
 </tr><tr><td class="label">首发日期</td><td>2018-07-28&#160;（<a href="/展会作品列表?e=Redditaisai%233">Redditaisai 2018</a>）</td></tr><tr><td class="label">类型</td><td>单曲</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>1</td></tr><tr><td class="label">总时长</td><td>03:25</td></tr><tr><td class="label">售价</td><td>会场售价：免费</td></tr></tbody></table>
 
 ～Sans Foi ni Loi～（同人专辑，Caved Johnson，Raven's Jig，2018） - 2018年7月28日 由 Caved Johnson，Raven's Jig 于 Reddit大祭3 发布的单曲同人专辑，分级为 一般向
+
 ## Staff
   
  **Arrangement**   
@@ -33,6 +35,7 @@
 Illustration
 : Rahma Mizuki
 
+
 ## 试听
 
 <table>
@@ -45,9 +48,11 @@ Illustration
 </td></tr></tbody></table>
 
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoRD"><b>01</b></td><td id="Sans_Foi_ni_Loi_(Without_faith_nor_law)" colspan="2" class="title"><a href="./歌词-Sans_Foi_ni_Loi_(Without_faith_nor_law).md" title="歌词:Sans Foi ni Loi (Without faith nor law)">Sans Foi ni Loi (Without faith nor law)</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Caved Johnson&amp;vocal=Akhts&amp;lyric=Caved Johnson&amp;ogmusic=神さびた古戦場　～ Suwa Foughten Field&amp;fromwiki=～Sans_Foi_ni_Loi～"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:25</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=Caved_Johnson&amp;action=edit&amp;redlink=1" class="new" title="Caved Johnson（页面不存在）">Caved Johnson</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Caved Johnson&amp;fromwiki=～Sans_Foi_ni_Loi～"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="/index.php?title=Akhts&amp;action=edit&amp;redlink=1" class="new" title="Akhts（页面不存在）">Akhts</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=Akhts&amp;fromwiki=～Sans_Foi_ni_Loi～"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="/index.php?title=Caved_Johnson&amp;action=edit&amp;redlink=1" class="new" title="Caved Johnson（页面不存在）">Caved Johnson</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?lyric=Caved Johnson&amp;fromwiki=～Sans_Foi_ni_Loi～"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=神さびた古戦場　～ Suwa Foughten Field&amp;fromwiki=～Sans_Foi_ni_Loi～"><span></span></a></span><div class="ogmusic"><a href="/%E7%A5%9E%E3%81%95%E3%81%B3%E3%81%9F%E5%8F%A4%E6%88%A6%E5%A0%B4_%EF%BD%9E_Suwa_Foughten_Field" class="mw-redirect" title="神さびた古戦場 ～ Suwa Foughten Field">神さびた古戦場　～ Suwa Foughten Field</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E9%A3%8E%E7%A5%9E%E5%BD%95_%EF%BD%9E_Mountain_of_Faith." class="mw-redirect" title="东方风神录 ～ Mountain of Faith.">东方风神录　～ Mountain of Faith.</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoRD"><b>01</b></td><td id="Sans_Foi_ni_Loi_(Without_faith_nor_law)" colspan="2" class="title"><a href="./歌词-Sans_Foi_ni_Loi_(Without_faith_nor_law).md" title="歌词:Sans Foi ni Loi (Without faith nor law)">Sans Foi ni Loi (Without faith nor law)</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Caved Johnson&amp;vocal=Akhts&amp;lyric=Caved Johnson&amp;ogmusic=神さびた古戦場　～ Suwa Foughten Field&amp;fromwiki=～Sans_Foi_ni_Loi～"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:25</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=Caved_Johnson&amp;action=edit&amp;redlink=1" class="new" title="Caved Johnson（页面不存在）">Caved Johnson</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Caved Johnson&amp;fromwiki=～Sans_Foi_ni_Loi～"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="/index.php?title=Akhts&amp;action=edit&amp;redlink=1" class="new" title="Akhts（页面不存在）">Akhts</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=Akhts&amp;fromwiki=～Sans_Foi_ni_Loi～"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="/index.php?title=Caved_Johnson&amp;action=edit&amp;redlink=1" class="new" title="Caved Johnson（页面不存在）">Caved Johnson</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?lyric=Caved Johnson&amp;fromwiki=～Sans_Foi_ni_Loi～"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=神さびた古戦場　～ Suwa Foughten Field&amp;fromwiki=～Sans_Foi_ni_Loi～"><span></span></a></span><div class="ogmusic"><a href="./神さびた古戦場_～_Suwa_Foughten_Field.md" class="mw-redirect" title="神さびた古戦場 ～ Suwa Foughten Field">神さびた古戦場　～ Suwa Foughten Field</a></div><div class="source"><a href="./东方风神录_～_Mountain_of_Faith..md" class="mw-redirect" title="东方风神录 ～ Mountain of Faith.">东方风神录　～ Mountain of Faith.</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

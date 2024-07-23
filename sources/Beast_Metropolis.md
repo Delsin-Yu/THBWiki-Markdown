@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -34,11 +35,13 @@
 
 
 
+
 ## 基本信息
 
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">ビーストメトロポリス</td></tr><tr><td><b>译名</b></td><td>Beast Metropolis</td></tr><tr><td><b>其他译名</b></td><td>野兽大都会</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 Beast Metropolis（曲目） - 由 ZUN 创作的官方曲目，原名 ビーストメトロポリス
+
 ## 出现作品
 
 <table>
@@ -46,7 +49,9 @@ Beast Metropolis（曲目） - 由 ZUN 创作的官方曲目，原名 ビース�
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 东方鬼形兽
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th17_10.mp3.md" title="文件:th17 10.mp3">th17_10.mp3</a><br><audio src="https://upload.thwiki.cc/5/55/th17_10.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>BGM\th17_10.wav</td></tr><tr><td><b>BGMForAll</b></td><td><div class="mw-collapsible mw-collapsed">
@@ -57,7 +62,9 @@ Beast Metropolis（曲目） - 由 ZUN 创作的官方曲目，原名 ビース�
 </td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 东方鬼形兽
 - Music Room (未找到链接)
 
@@ -67,8 +74,11 @@ Beast Metropolis（曲目） - 由 ZUN 创作的官方曲目，原名 ビース�
 　经济上的成功最为重要，个人的思想并不会得到尊重。  
 　个人的情感，在被合理化的社会当中只会成为障碍。  
 　畜生界，是自我负责论盛行的都市社会的噩梦之一。
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
   
  **ビーストメトロポリス**  Beast Metropolis
@@ -84,6 +94,7 @@ Beast Metropolis（曲目） - 由 ZUN 创作的官方曲目，原名 ビース�
 -  *Beast* 
   - 畜生。
   - 畜生大都会：畜生界。
+
 
 
 ### 二次同人数据

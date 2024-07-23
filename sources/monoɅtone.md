@@ -18,6 +18,7 @@
 
 
 </center>
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-monoɅtone封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/2/2e/mono%C9%85tone%E5%B0%81%E9%9D%A2.jpg/224px-mono%C9%85tone%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="221" srcset="https://upload.thwiki.cc/thumb/2/2e/mono%C9%85tone%E5%B0%81%E9%9D%A2.jpg/336px-mono%C9%85tone%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/2/2e/mono%C9%85tone%E5%B0%81%E9%9D%A2.jpg/448px-mono%C9%85tone%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="512" data-file-height="506"></a></td>
@@ -26,6 +27,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/datui2525/status/1026851573618499586">https://twitter.com/datui2525/status/1026851573618499586</a></td></tr></tbody></table>
 
 monoɅtone（同人专辑，Evolution Tunes，2018） - 2018年8月10日 由 Evolution Tunes 于 Comic Market 94 发布的EP同人专辑，曲目主要风格是 Dance、House、Eurobeat，分级为 一般向
+
 ## Staff
   
  **Compose**   
@@ -41,6 +43,7 @@ monoɅtone（同人专辑，Evolution Tunes，2018） - 2018年8月10日 由 Evo
 Illustration
 : シ・ショー （[Evolution Tunes](./Evolution_Tunes.md)）
 
+
 ## 试听
   
 [Twitter](https://twitter.com/datui2525/status/1026851573618499586)
@@ -50,13 +53,15 @@ Illustration
 
   
 
+
 ## 曲目列表
 
 <table><tbody><tr><td id="1" class="infoYL"><b>01</b></td><td id="monoɅtone" colspan="2" class="title">monoɅtone<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Φhi&amp;fromwiki=monoɅtone"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=%CE%A6hi&amp;action=edit&amp;redlink=1" class="new" title="Φhi（页面不存在）">Φhi</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Φhi&amp;fromwiki=monoɅtone"><span></span></a></span></td></tr>
 <tr><td id="2" class="infoYL"><b>02</b></td><td id="iro_nkn_ight" colspan="2" class="title">iro nkn ight<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Φhi&amp;fromwiki=monoɅtone"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=%CE%A6hi&amp;action=edit&amp;redlink=1" class="new" title="Φhi（页面不存在）">Φhi</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Φhi&amp;fromwiki=monoɅtone"><span></span></a></span></td></tr>
 <tr><td id="3" class="infoYL"><b>03</b></td><td id="P-conF_オマケ" colspan="2" class="title">P-conF オマケ<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Az'TONE&amp;fromwiki=monoɅtone"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=Az%27TONE&amp;action=edit&amp;redlink=1" class="new" title="Az&#39;TONE（页面不存在）">Az'TONE</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Az'TONE&amp;fromwiki=monoɅtone"><span></span></a></span></td></tr>
-<tr><td id="4" class="infoO"><b>04</b></td><td id="Bad_Apple!!_(Az&#39;TONE_Remix)" colspan="2" class="title">Bad Apple!! (Az&#39;TONE Remix)<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Az'TONE&amp;ogmusic=Bad Apple!!&amp;fromwiki=monoɅtone"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">再编曲</td><td class="text" colspan="2"><a href="/index.php?title=Az%27TONE&amp;action=edit&amp;redlink=1" class="new" title="Az&#39;TONE（页面不存在）">Az'TONE</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Az'TONE&amp;fromwiki=monoɅtone"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">社团</td><td class="text" colspan="2"><a href="./Alstroemeria_Records.md" title="Alstroemeria Records">Alstroemeria Records</a></td></tr><tr><td class="left"></td><td class="label">初发布</td><td class="text" colspan="2"><a href="/Lovelight#2" title="Lovelight">Bad Apple!! feat. nomico</a><div class="source"><a href="./Lovelight.md" title="Lovelight">Lovelight</a></div></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=Bad Apple!!&amp;fromwiki=monoɅtone"><span></span></a></span><div class="ogmusic"><a href="./Bad_Apple!!.md" title="Bad Apple!!">Bad Apple!!</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E5%B9%BB%E6%83%B3%E4%B9%A1_%EF%BD%9E_Lotus_Land_Story." class="mw-redirect" title="东方幻想乡 ～ Lotus Land Story.">东方幻想乡　～ Lotus Land Story.</a></div></td></tr>
+<tr><td id="4" class="infoO"><b>04</b></td><td id="Bad_Apple!!_(Az&#39;TONE_Remix)" colspan="2" class="title">Bad Apple!! (Az&#39;TONE Remix)<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Az'TONE&amp;ogmusic=Bad Apple!!&amp;fromwiki=monoɅtone"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">再编曲</td><td class="text" colspan="2"><a href="/index.php?title=Az%27TONE&amp;action=edit&amp;redlink=1" class="new" title="Az&#39;TONE（页面不存在）">Az'TONE</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Az'TONE&amp;fromwiki=monoɅtone"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">社团</td><td class="text" colspan="2"><a href="./Alstroemeria_Records.md" title="Alstroemeria Records">Alstroemeria Records</a></td></tr><tr><td class="left"></td><td class="label">初发布</td><td class="text" colspan="2"><a href="/Lovelight#2" title="Lovelight">Bad Apple!! feat. nomico</a><div class="source"><a href="./Lovelight.md" title="Lovelight">Lovelight</a></div></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=Bad Apple!!&amp;fromwiki=monoɅtone"><span></span></a></span><div class="ogmusic"><a href="./Bad_Apple!!.md" title="Bad Apple!!">Bad Apple!!</a></div><div class="source"><a href="./东方幻想乡_～_Lotus_Land_Story..md" class="mw-redirect" title="东方幻想乡 ～ Lotus Land Story.">东方幻想乡　～ Lotus Land Story.</a></div></td></tr>
 <tr><td id="5" class="infoYL"><b>05</b></td><td id="play_with_me" colspan="2" class="title">play with me<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Az'TONE&amp;fromwiki=monoɅtone"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=Az%27TONE&amp;action=edit&amp;redlink=1" class="new" title="Az&#39;TONE（页面不存在）">Az'TONE</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Az'TONE&amp;fromwiki=monoɅtone"><span></span></a></span></td></tr></tbody></table>
+
 
 
 ## 评论

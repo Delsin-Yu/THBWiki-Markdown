@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 软件信息](#软件信息)
@@ -13,6 +14,7 @@
 - [3 内容页面](#内容页面)
 - [4 下载](#下载)
 - [5 评论](#评论)
+
 
 
 
@@ -26,13 +28,16 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.bilibili.com/video/av20830290/">https://www.bilibili.com/video/av20830290/</a><br>游戏视频页面，和游戏本体有一定出入</td></tr><tr><td class="label">备注</td><td colspan="2">本作品为东方project和pop team epic的同人创作</td></tr></tbody></table>
 
 東方糞動画 ~ Pop Team Epic（同人游戏，RedstoneGate，2018） - 2018年3月17日 由 RedstoneGate  发布的STG同人游戏，可在 Windows 系统上运行，游戏人数为 单人模式，分级为 一般向
+
 ## Staff
 - RedstoneGate
 - 使用音乐素材见本游戏对应的动画页面。
 
+
 ## 内容页面
 - [攻略](https://www.bilibili.com/video/av20830290/)
 - [符卡](./東方糞動画_~_Pop_Team_Epic（同人游戏）-符卡.md)
+
 
 ## 下载
   
@@ -49,6 +54,7 @@
 <tr>
 <td>up的QQ群号160169064，群文件内<br><br>就不发网盘了
 </td></tr></tbody></table>
+
 
 
 ## 评论

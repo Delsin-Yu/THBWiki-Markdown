@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-回＝魂・序章-HALF_HUMAN_LE封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/f/f3/%E5%9B%9E%EF%BC%9D%E9%AD%82%E3%83%BB%E5%BA%8F%E7%AB%A0-HALF_HUMAN_LE%E5%B0%81%E9%9D%A2.jpg/120px-%E5%9B%9E%EF%BC%9D%E9%AD%82%E3%83%BB%E5%BA%8F%E7%AB%A0-HALF_HUMAN_LE%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="120" height="168" srcset="https://upload.thwiki.cc/thumb/f/f3/%E5%9B%9E%EF%BC%9D%E9%AD%82%E3%83%BB%E5%BA%8F%E7%AB%A0-HALF_HUMAN_LE%E5%B0%81%E9%9D%A2.jpg/180px-%E5%9B%9E%EF%BC%9D%E9%AD%82%E3%83%BB%E5%BA%8F%E7%AB%A0-HALF_HUMAN_LE%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/f/f3/%E5%9B%9E%EF%BC%9D%E9%AD%82%E3%83%BB%E5%BA%8F%E7%AB%A0-HALF_HUMAN_LE%E5%B0%81%E9%9D%A2.jpg/240px-%E5%9B%9E%EF%BC%9D%E9%AD%82%E3%83%BB%E5%BA%8F%E7%AB%A0-HALF_HUMAN_LE%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="608" data-file-height="850"></a><div class="cover-char">角色：<a href="./魂魄妖梦.md" title="魂魄妖梦">魂魄妖梦</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/dk_yukikaze_/status/1158602482307620864">https://twitter.com/dk_yukikaze_/status/1158602482307620864</a></td></tr></tbody></table>
 
 回＝魂・序章-HALF HUMAN LE（同人志，マルゴクラバット or Die，2019） - 2019年8月12日 由 マルゴクラバット or Die 于 Comic Market 96 发布的漫画同人志，一共8页，分级为 一般向
+
 ## Staff
 - ワキサカＤＫ (未找到链接)
+
 
 ## 评论
 - 标题和封面来自日本乐队[P-MODEL](https://zh.wikipedia.org/wiki/核P-MODEL)的第3张专辑[回=回](https://ja.wikipedia.org/wiki/回=回)，以及其中第10轨『HUMAN-LE』。

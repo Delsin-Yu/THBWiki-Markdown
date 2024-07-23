@@ -169,6 +169,7 @@
 [](./文件-THD2爱丽丝·玛格特罗依德.png.md)
   
 
+
 ## 目录
 
 - [1 角色定位](#角色定位)
@@ -190,10 +191,12 @@
 
 
 
+
 ## 角色定位
   
 爆发 - 控制 - 先手 - 推进
   
+
 
 ## 技能介绍
 
@@ -917,25 +920,30 @@
 </td></tr></tbody></table>
 
 
+
 #### 出门装备
   
 [](./文件-THD2御币.png.md) [](./文件-THD2神奇蘑菇.png.md)[](./文件-THD2神奇蘑菇.png.md)[](./文件-THD2好人卡.png.md)
   
+
 
 #### 前期装备
 ```
 [](./文件-THD2博丽供奉箱.png.md)　[](./文件-THD2魔法使扫把.png.md) [](./文件-THD2七色水晶.png.md)
 ```
 
+
 #### 核心装备
 ```
 [](./文件-THD2冰精跳跃装置.png.md)　[](./文件-THD2油库里之杖.png.md)　[](./文件-THD2万宝槌.png.md)
 ```
 
+
 #### 可选装备
 ```
 [](./文件-THD2亡灵送行提灯.png.md)　[](./文件-THD2迷你八卦炉.png.md)　[](./文件-THD2魔法使的帽子.png.md)　[](./文件-THD2奇迹之星.png.md)　[](./文件-THD2碎骨笛.png.md) [](./文件-THD2破魔净灵札.png.md) [](./文件-THD2八云间隙发生器.png.md) [](./文件-THD2幻想乡日记.png.md)
 ```
+
 
 ## 天赋树
 
@@ -978,6 +986,7 @@
   
 试验中「提泰妮娅级文乐」：「未来文乐」继承爱丽丝80%攻速，护甲+18，魔抗+20
   
+
 
 ## 技能加点
 
@@ -1039,6 +1048,7 @@
 <td><a href="./文件-DOTA黄点.png.md" class="image" title="+2 全属性"><img alt="+2 全属性" src="https://upload.thwiki.cc/thumb/d/da/DOTA%E9%BB%84%E7%82%B9.png/40px-DOTA%E9%BB%84%E7%82%B9.png" decoding="async" loading="lazy" width="40" height="40" srcset="https://upload.thwiki.cc/thumb/d/da/DOTA%E9%BB%84%E7%82%B9.png/60px-DOTA%E9%BB%84%E7%82%B9.png 1.5x, https://upload.thwiki.cc/thumb/d/da/DOTA%E9%BB%84%E7%82%B9.png/80px-DOTA%E9%BB%84%E7%82%B9.png 2x" data-file-width="128" data-file-height="128"></a></td>
 <td><a href="./文件-THD2天赋树25右.png.md" class="image" title="+7 人偶上限"><img alt="+7 人偶上限" src="https://upload.thwiki.cc/thumb/5/5b/THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%8F%B3.png/40px-THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%8F%B3.png" decoding="async" loading="lazy" width="40" height="40" srcset="https://upload.thwiki.cc/thumb/5/5b/THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%8F%B3.png/60px-THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%8F%B3.png 1.5x, https://upload.thwiki.cc/thumb/5/5b/THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%8F%B3.png/80px-THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%8F%B3.png 2x" data-file-width="103" data-file-height="103"></a>
 </td></tr></tbody></table>
+
 
 
 ## 台词
@@ -1183,6 +1193,7 @@
 </td></tr></tbody></table>
 
 
+
 ## 玩法参考
 
 <table>
@@ -1221,6 +1232,7 @@
 <tr>
 <td>出门装我之所以推荐<a href="./文件-THD2御币.png.md" class="image" title="御币"><img alt="御币" src="https://upload.thwiki.cc/thumb/e/ee/THD2%E5%BE%A1%E5%B8%81.png/60px-THD2%E5%BE%A1%E5%B8%81.png" decoding="async" loading="lazy" width="60" height="44" srcset="https://upload.thwiki.cc/e/ee/THD2%E5%BE%A1%E5%B8%81.png 1.5x" data-file-width="88" data-file-height="64"></a>（御币）是可以更好的保护自己，而且自身的加成还是很适合爱丽丝的，同时配合文乐给对面<a href="./文件-THD2好人卡.png.md" class="image" title="好人卡"><img alt="好人卡" src="https://upload.thwiki.cc/thumb/5/50/THD2%E5%A5%BD%E4%BA%BA%E5%8D%A1.png/60px-THD2%E5%A5%BD%E4%BA%BA%E5%8D%A1.png" decoding="async" loading="lazy" width="60" height="44" srcset="https://upload.thwiki.cc/5/50/THD2%E5%A5%BD%E4%BA%BA%E5%8D%A1.png 1.5x" data-file-width="88" data-file-height="64"></a>（好人卡）也可以在对线中打出击杀效果，如果对线期间缺蓝可以去捡地上的蓝色蘑菇，<a href="./文件-THD2博丽供奉箱.png.md" class="image" title="博丽供奉箱"><img alt="博丽供奉箱" src="https://upload.thwiki.cc/thumb/1/19/THD2%E5%8D%9A%E4%B8%BD%E4%BE%9B%E5%A5%89%E7%AE%B1.png/60px-THD2%E5%8D%9A%E4%B8%BD%E4%BE%9B%E5%A5%89%E7%AE%B1.png" decoding="async" loading="lazy" width="60" height="44" srcset="https://upload.thwiki.cc/1/19/THD2%E5%8D%9A%E4%B8%BD%E4%BE%9B%E5%A5%89%E7%AE%B1.png 1.5x" data-file-width="88" data-file-height="64"></a>钱箱可以保证你的等级不会落下太多，<a href="./文件-THD2油库里之杖.png.md" class="image" title="油库里之杖"><img alt="油库里之杖" src="https://upload.thwiki.cc/thumb/6/6f/THD2%E6%B2%B9%E5%BA%93%E9%87%8C%E4%B9%8B%E6%9D%96.png/60px-THD2%E6%B2%B9%E5%BA%93%E9%87%8C%E4%B9%8B%E6%9D%96.png" decoding="async" loading="lazy" width="60" height="44" srcset="https://upload.thwiki.cc/6/6f/THD2%E6%B2%B9%E5%BA%93%E9%87%8C%E4%B9%8B%E6%9D%96.png 1.5x" data-file-width="88" data-file-height="64"></a>羊刀是爱丽丝的一个核心装备，推荐第一个出，在反打和先手都有着不错的效果，而且也可以配合小人偶来打伤害，<a href="./文件-THD2万宝槌.png.md" class="image" title="万宝槌"><img alt="万宝槌" src="https://upload.thwiki.cc/thumb/1/15/THD2%E4%B8%87%E5%AE%9D%E6%A7%8C.png/120px-THD2%E4%B8%87%E5%AE%9D%E6%A7%8C.png" decoding="async" loading="lazy" width="120" height="46" srcset="https://upload.thwiki.cc/1/15/THD2%E4%B8%87%E5%AE%9D%E6%A7%8C.png 1.5x" data-file-width="168" data-file-height="64"></a>万宝槌可以保证1,2技能的CD同步，让你能更快的放出人偶，从而打出伤害，一般情况下，小人偶的血量是比较厚的，只有个别英雄例如妹红可以一脚踢爆的高爆发技能以及因幡帝3技能枪斗术范围伤害之外，基本上很难打掉小人偶，而且也可以利用1技能持续的击退来控制敌人，<a href="./文件-THD2碎骨笛.png.md" class="image" title="碎骨笛"><img alt="碎骨笛" src="https://upload.thwiki.cc/thumb/1/14/THD2%E7%A2%8E%E9%AA%A8%E7%AC%9B.png/60px-THD2%E7%A2%8E%E9%AA%A8%E7%AC%9B.png" decoding="async" loading="lazy" width="60" height="44" srcset="https://upload.thwiki.cc/1/14/THD2%E7%A2%8E%E9%AA%A8%E7%AC%9B.png 1.5x" data-file-width="88" data-file-height="64"></a>碎骨笛我比较喜欢第三或者第四件出，他可以最大限度的配合小人偶，其他的出装都是和其他法系少女的出装比较相似的，这里就不多重复了，更多的情况下出装是灵活多变的，可以根据局势来调整不同的出装
 </td></tr></tbody></table>
+
 
 
 ## 教学视频

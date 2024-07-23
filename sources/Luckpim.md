@@ -18,6 +18,7 @@ Luckpim Publishing Co.,Ltd.，股份有限公司
 </center>
 本页是关于东方Project  
  **相关公司会社** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -28,6 +29,7 @@ Luckpim Publishing Co.,Ltd.，股份有限公司
 
 
 - [3 其他说明](#其他说明)
+
 
 
 
@@ -52,14 +54,17 @@ Luckpim Publishing Co.,Ltd.，股份有限公司
 （48/66 หมู่ 1 ถนนเอกชัย - บางบอน ตำบลคอกกระบือ อำเภอเมือง จังหวัดสมุทรสาคร）</td></tr><tr><td><b>本社邮编</b></td><td>74000</td></tr><tr><td><b>注册资金</b></td><td>1,000,000泰铢</td></tr><tr><td><b>员工数量</b></td><td>21名</td></tr><tr><td><b>官网地址</b></td><td><a rel="nofollow" class="external free" href="http://www.luckpim.com/">http://www.luckpim.com/</a></td></tr></tbody></table>
 
 Luckpim（公司会社） - Luckpim Publishing Co.,Ltd.，股份有限公司
+
 ## 与东方Project的关联
 - Luckpim代理了少数的官方商业出版物。
+
 
 ### 单行本与书籍
 - [东方儚月抄 ～ Silent Sinner in Blue. 上](./东方儚月抄_～_Silent_Sinner_in_Blue..md)（2012年7月10日出版的官方漫画单行本）
 - [东方茨歌仙 ～ Wild and Horned Hermit. 1](./东方茨歌仙.md)（2012年9月20日出版的官方漫画单行本）
 - [东方茨歌仙 ～ Wild and Horned Hermit. 2](./东方茨歌仙.md)（2013年3月13日出版的官方漫画单行本）
 - [东方茨歌仙 ～ Wild and Horned Hermit. 3](./东方茨歌仙.md)（2014年4月8日出版的官方漫画单行本）
+
 
 ## 其他说明
 

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-complementary_colors封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/5/54/complementary_colors%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="155" height="224" data-file-width="104" data-file-height="150"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></div></td>
@@ -14,10 +15,12 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://youcanchi.syoyu.net/未選択/東方紅楼夢8">http://youcanchi.syoyu.net/未選択/東方紅楼夢8</a></td></tr></tbody></table>
 
 complementary colors（同人志，遊閑地，PURE，2012） - 2012年10月7日 由 遊閑地，PURE 于 东方红楼梦8 发布的漫画同人志，B5尺寸一共20页，登场人物有 博丽灵梦、东风谷早苗，分级为 一般向
+
 ## Staff
 - こずみっく (未找到链接) （[遊閑地](./遊閑地.md)）
 - [南方純](./南方純.md) （[PURE](./PURE.md)）
 - Guest&#160;: なもり (未找到链接) （[ELEGY SYNDROME](http://www.geocities.jp/elegy_syndrome/)）
+
 
 ## 评论
 

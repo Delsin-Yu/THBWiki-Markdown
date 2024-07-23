@@ -14,7 +14,7 @@ The_Grimoire_of_Usami | 使用了翻译表的页面 | 八意永琳 | 宇佐见�
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./The_Grimoire_of_Usami-蕾米莉亚&芙兰朵露.md" title="The Grimoire of Usami/蕾米莉亚&amp;芙兰朵露">蕾米莉亚&amp;芙兰朵露</a>&#160;
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="/%E5%AE%87%E4%BD%90%E8%A7%81%E7%9A%84%E9%AD%94%E6%B3%95%E4%B9%A6" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a>&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="./宇佐见的魔法书.md" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a>&#160;
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">&#160;<a href="./The_Grimoire_of_Usami-猯藏&鵺.md" title="The Grimoire of Usami/猯藏&amp;鵺">猯藏&amp;鵺</a>
 </td>
@@ -25,7 +25,7 @@ The_Grimoire_of_Usami | 使用了翻译表的页面 | 八意永琳 | 宇佐见�
 </center>
 <center>第153页</center>
 
-<table><tbody><tr align="left" valign="top"><td style="min-width:200px;"><div class="tt-zhh tt-type-setting" lang="zh"><div class="poem"><a href="/%E6%B0%B8%E5%A4%9C%E7%AC%A6%E3%80%8C%E8%93%AC%E8%8E%B1%E5%A3%B6%E4%B8%AD%E7%9A%84%E5%BC%B9%E6%9E%9D%E3%80%8D" class="mw-redirect" title="永夜符「蓬莱壶中的弹枝」">永夜符「蓬莱壶中的弹枝」</a></div></div><div class="tt-zh tt-type-setting" lang="zh"><div class="poem">使用者：<a href="./八意永琳.md" title="八意永琳">永琳</a>&amp;<a href="./蓬莱山辉夜.md" title="蓬莱山辉夜">辉夜</a></div></div><div class="tt-header tt-type-setting" lang="zh"><div class="poem">八云紫</div></div><div class="tt-zh tt-type-setting" lang="zh"><div class="poem">那封信，派上用场了啊。让事态逆转的能力真是方便呢。作为副产物居然能看到这么稀奇的弹幕。</div></div><div class="tt-header tt-type-setting" lang="zh"><div class="poem">博丽灵梦</div></div><div class="tt-zh tt-type-setting" lang="zh"><div class="poem">你在说啥？</div></div></td><td width="200px"><div class="thumb tleft"><div class="thumbinner" style="width:202px;"><a href="./文件-The_Grimoire_of_Usami（永琳&辉夜1）.jpg.md" class="image"><img alt="" src="https://upload.thwiki.cc/thumb/2/28/The_Grimoire_of_Usami%EF%BC%88%E6%B0%B8%E7%90%B3%26%E8%BE%89%E5%A4%9C1%EF%BC%89.jpg/200px-The_Grimoire_of_Usami%EF%BC%88%E6%B0%B8%E7%90%B3%26%E8%BE%89%E5%A4%9C1%EF%BC%89.jpg" decoding="async" loading="lazy" width="200" height="284" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/2/28/The_Grimoire_of_Usami%EF%BC%88%E6%B0%B8%E7%90%B3%26%E8%BE%89%E5%A4%9C1%EF%BC%89.jpg/300px-The_Grimoire_of_Usami%EF%BC%88%E6%B0%B8%E7%90%B3%26%E8%BE%89%E5%A4%9C1%EF%BC%89.jpg 1.5x, https://upload.thwiki.cc/thumb/2/28/The_Grimoire_of_Usami%EF%BC%88%E6%B0%B8%E7%90%B3%26%E8%BE%89%E5%A4%9C1%EF%BC%89.jpg/400px-The_Grimoire_of_Usami%EF%BC%88%E6%B0%B8%E7%90%B3%26%E8%BE%89%E5%A4%9C1%EF%BC%89.jpg 2x" data-file-width="1266" data-file-height="1800"></a>  <div class="thumbcaption"><div class="magnify"><a href="./文件-The_Grimoire_of_Usami（永琳&辉夜1）.jpg.md" class="internal" title="放大"></a></div>P153</div></div></div></td></tr></tbody></table>
+<table><tbody><tr align="left" valign="top"><td style="min-width:200px;"><div class="tt-zhh tt-type-setting" lang="zh"><div class="poem"><a href="./永夜符「蓬莱壶中的弹枝」.md" class="mw-redirect" title="永夜符「蓬莱壶中的弹枝」">永夜符「蓬莱壶中的弹枝」</a></div></div><div class="tt-zh tt-type-setting" lang="zh"><div class="poem">使用者：<a href="./八意永琳.md" title="八意永琳">永琳</a>&amp;<a href="./蓬莱山辉夜.md" title="蓬莱山辉夜">辉夜</a></div></div><div class="tt-header tt-type-setting" lang="zh"><div class="poem">八云紫</div></div><div class="tt-zh tt-type-setting" lang="zh"><div class="poem">那封信，派上用场了啊。让事态逆转的能力真是方便呢。作为副产物居然能看到这么稀奇的弹幕。</div></div><div class="tt-header tt-type-setting" lang="zh"><div class="poem">博丽灵梦</div></div><div class="tt-zh tt-type-setting" lang="zh"><div class="poem">你在说啥？</div></div></td><td width="200px"><div class="thumb tleft"><div class="thumbinner" style="width:202px;"><a href="./文件-The_Grimoire_of_Usami（永琳&辉夜1）.jpg.md" class="image"><img alt="" src="https://upload.thwiki.cc/thumb/2/28/The_Grimoire_of_Usami%EF%BC%88%E6%B0%B8%E7%90%B3%26%E8%BE%89%E5%A4%9C1%EF%BC%89.jpg/200px-The_Grimoire_of_Usami%EF%BC%88%E6%B0%B8%E7%90%B3%26%E8%BE%89%E5%A4%9C1%EF%BC%89.jpg" decoding="async" loading="lazy" width="200" height="284" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/2/28/The_Grimoire_of_Usami%EF%BC%88%E6%B0%B8%E7%90%B3%26%E8%BE%89%E5%A4%9C1%EF%BC%89.jpg/300px-The_Grimoire_of_Usami%EF%BC%88%E6%B0%B8%E7%90%B3%26%E8%BE%89%E5%A4%9C1%EF%BC%89.jpg 1.5x, https://upload.thwiki.cc/thumb/2/28/The_Grimoire_of_Usami%EF%BC%88%E6%B0%B8%E7%90%B3%26%E8%BE%89%E5%A4%9C1%EF%BC%89.jpg/400px-The_Grimoire_of_Usami%EF%BC%88%E6%B0%B8%E7%90%B3%26%E8%BE%89%E5%A4%9C1%EF%BC%89.jpg 2x" data-file-width="1266" data-file-height="1800"></a>  <div class="thumbcaption"><div class="magnify"><a href="./文件-The_Grimoire_of_Usami（永琳&辉夜1）.jpg.md" class="internal" title="放大"></a></div>P153</div></div></div></td></tr></tbody></table>
 
 
 
@@ -37,7 +37,7 @@ The_Grimoire_of_Usami | 使用了翻译表的页面 | 八意永琳 | 宇佐见�
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./The_Grimoire_of_Usami-蕾米莉亚&芙兰朵露.md" title="The Grimoire of Usami/蕾米莉亚&amp;芙兰朵露">蕾米莉亚&amp;芙兰朵露</a>&#160;
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="/%E5%AE%87%E4%BD%90%E8%A7%81%E7%9A%84%E9%AD%94%E6%B3%95%E4%B9%A6" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a>&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="./宇佐见的魔法书.md" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a>&#160;
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">&#160;<a href="./The_Grimoire_of_Usami-猯藏&鵺.md" title="The Grimoire of Usami/猯藏&amp;鵺">猯藏&amp;鵺</a>
 </td>
@@ -46,6 +46,7 @@ The_Grimoire_of_Usami | 使用了翻译表的页面 | 八意永琳 | 宇佐见�
 
   
 </center>
+
 
 ## 词条导航
   

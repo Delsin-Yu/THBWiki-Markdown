@@ -6,6 +6,7 @@
 
 本页是关于  
 与ZUN有一定关联的非东方作品 (未找到链接)的词条
+
 ## 目录
 
 - [1 概述](#概述)
@@ -33,6 +34,7 @@
 
 
 - [6 注释](#注释)
+
 
 
 
@@ -70,7 +72,9 @@
 <tr><td style="width:150px"><b>制作方</b></td><td style="width:350px"><a href="./被瞬杀之道？.md" title="被瞬杀之道？">被瞬杀之道？</a></td></tr><tr><td><b>正式版发行日期</b></td><td>2019年4月1日 </td></tr><tr><td><b>运行平台</b></td><td>网页</td></tr><tr><td><b>游戏类型</b></td><td>纵版卷轴弹幕射击游戏</td></tr><tr><td><b>游戏模式</b></td><td>大逃杀模式（单人模式）</td></tr></tbody></table>
 
 VIVIT-99（官方游戏） - 被瞬杀之道？制作的同人游戏
+
 ## 游戏系统
+
 ### 操作方式
   
 电脑端可使用键盘或手柄游玩：
@@ -105,6 +109,7 @@ VIVIT-99（官方游戏） - 被瞬杀之道？制作的同人游戏
 手机端操作类似，不同的是拖动即移动+射击（电脑端也可，只是操作不便）。
   
 
+
 ### 生命槽、KASURI
   
 游戏开始后画面左上角心形后跟百分比数字即为生命槽。中弹将削减10%且清空KASURI，为0时游戏结束。  
@@ -118,27 +123,35 @@ KASURI值越高，背景的移动速度就越快。
 当自己生命削减为0或击败其它所有玩家时游戏结束。
   
 
+
 ## 角色
+
 ### 自机
 
 <table><tbody><tr><td><div class="center"><div class="floatnone"><a href="./文件-VIVIT-r（幡紫龙立绘）.png.md" class="image" title="VIVIT-r"><img alt="VIVIT-r" src="https://upload.thwiki.cc/thumb/6/61/VIVIT-r%EF%BC%88%E5%B9%A1%E7%B4%AB%E9%BE%99%E7%AB%8B%E7%BB%98%EF%BC%89.png/23px-VIVIT-r%EF%BC%88%E5%B9%A1%E7%B4%AB%E9%BE%99%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="23" height="40" srcset="https://upload.thwiki.cc/thumb/6/61/VIVIT-r%EF%BC%88%E5%B9%A1%E7%B4%AB%E9%BE%99%E7%AB%8B%E7%BB%98%EF%BC%89.png/34px-VIVIT-r%EF%BC%88%E5%B9%A1%E7%B4%AB%E9%BE%99%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/6/61/VIVIT-r%EF%BC%88%E5%B9%A1%E7%B4%AB%E9%BE%99%E7%AB%8B%E7%BB%98%EF%BC%89.png/45px-VIVIT-r%EF%BC%88%E5%B9%A1%E7%B4%AB%E9%BE%99%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="256" data-file-height="449"></a></div></div></td> <td style="width:200px;padding:3px 9px 3px 7px;"><a href="./VIVIT-r.md" title="VIVIT-r">VIVIT-r</a></td></tr><tr><td><div class="center"><div class="floatnone"><a href="./文件-樱崎比良野（幡紫龙立绘）.png.md" class="image" title="樱崎比良野3"><img alt="樱崎比良野3" src="https://upload.thwiki.cc/thumb/6/69/%E6%A8%B1%E5%B4%8E%E6%AF%94%E8%89%AF%E9%87%8E%EF%BC%88%E5%B9%A1%E7%B4%AB%E9%BE%99%E7%AB%8B%E7%BB%98%EF%BC%89.png/20px-%E6%A8%B1%E5%B4%8E%E6%AF%94%E8%89%AF%E9%87%8E%EF%BC%88%E5%B9%A1%E7%B4%AB%E9%BE%99%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="20" height="40" srcset="https://upload.thwiki.cc/thumb/6/69/%E6%A8%B1%E5%B4%8E%E6%AF%94%E8%89%AF%E9%87%8E%EF%BC%88%E5%B9%A1%E7%B4%AB%E9%BE%99%E7%AB%8B%E7%BB%98%EF%BC%89.png/30px-%E6%A8%B1%E5%B4%8E%E6%AF%94%E8%89%AF%E9%87%8E%EF%BC%88%E5%B9%A1%E7%B4%AB%E9%BE%99%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/6/69/%E6%A8%B1%E5%B4%8E%E6%AF%94%E8%89%AF%E9%87%8E%EF%BC%88%E5%B9%A1%E7%B4%AB%E9%BE%99%E7%AB%8B%E7%BB%98%EF%BC%89.png/40px-%E6%A8%B1%E5%B4%8E%E6%AF%94%E8%89%AF%E9%87%8E%EF%BC%88%E5%B9%A1%E7%B4%AB%E9%BE%99%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="220" data-file-height="440"></a></div></div></td> <td style="width:200px;padding:3px 9px 3px 7px;"><a href="./樱崎比良野.md" title="樱崎比良野">樱崎比良野</a><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">3</a></sup></td></tr></tbody></table>
 
 
+
 ## 附带文档
 - [附带文档:VIVIT-99](./附带文档-VIVIT-99.md)
 
+
 ## 其他资料
+
 ### 衍生作品
 VIVIT-99R
 : 发布于2021年4月1日。继承了本作品大部分内容，游戏模式变更为最大19人进行大逃杀对战的在线多人游戏。  
 可自由选择两种自机，主页面会显示全局在线人数和生存时间排行榜。  
 服务器现已关闭，详细的技术文档可访问被瞬杀之道？的官方页面。
 
+
 ### 开发成员
 - [ぽんち](./ぽんち.md)（pbg）
 
+
 ### 音乐
 - [Music Room](./VIVIT-99-Music.md)
+
 
 ### 其他
 - [其他相关资料](./VIVIT-99-其他.md)

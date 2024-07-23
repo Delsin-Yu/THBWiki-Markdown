@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-dolce（空色の音）封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/0/0a/dolce%EF%BC%88%E7%A9%BA%E8%89%B2%E3%81%AE%E9%9F%B3%EF%BC%89%E5%B0%81%E9%9D%A2.png/139px-dolce%EF%BC%88%E7%A9%BA%E8%89%B2%E3%81%AE%E9%9F%B3%EF%BC%89%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="139" height="196" srcset="https://upload.thwiki.cc/thumb/0/0a/dolce%EF%BC%88%E7%A9%BA%E8%89%B2%E3%81%AE%E9%9F%B3%EF%BC%89%E5%B0%81%E9%9D%A2.png/208px-dolce%EF%BC%88%E7%A9%BA%E8%89%B2%E3%81%AE%E9%9F%B3%EF%BC%89%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/0/0a/dolce%EF%BC%88%E7%A9%BA%E8%89%B2%E3%81%AE%E9%9F%B3%EF%BC%89%E5%B0%81%E9%9D%A2.png/278px-dolce%EF%BC%88%E7%A9%BA%E8%89%B2%E3%81%AE%E9%9F%B3%EF%BC%89%E5%B0%81%E9%9D%A2.png 2x" data-file-width="425" data-file-height="600"></a><div class="cover-char">角色：<a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a>，<a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a></div></td>
@@ -18,11 +19,14 @@ dolce（同人志，空色の音，2011） - 2011年10月16日 由 空色の音 
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://amkn.booth.pm/items/4404">Booth</a></td></tr></tbody></table>
 
 
+
 ## 预览
+
 ## Staff
 - 天風そら (未找到链接)
 - おーみや (未找到链接) （guest; [Happa](https://web.archive.org/web/20230410025744/http://happa.moo.jp/) / [Pixiv ID: 2741](https://www.pixiv.net/users/2741) / [Twitter: @oomiya](https://twitter.com/oomiya)）
 - 桜去ほとり (未找到链接) （guest; なたでここ (未找到链接) / 縞ニーソックス多様体 (未找到链接) / [社团官网](http://kenvrand.com/) / [Pixiv ID: 123499](https://www.pixiv.net/users/123499) / [Twitter: @sakurazari](https://twitter.com/sakurazari)）
+
 
 ## 评论
 

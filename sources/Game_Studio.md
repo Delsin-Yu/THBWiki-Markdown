@@ -6,12 +6,14 @@
 
 本页是关于东方Project  
  **相关公司会社** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 公司历史](#公司历史)
 - [3 主要作品](#主要作品)
 - [4 与东方Project的关联](#与东方Project的关联)
+
 
 
 
@@ -34,8 +36,11 @@
 <td style="width:140px"><b>正式名称</b></td><td style="min-width:300px">株式会社ゲームスタジオ</td></tr><tr><td><b>英文名称</b></td><td>Game Studio Inc.</td></tr><tr><td><b>公司现状</b></td><td>持续营业中</td></tr><tr><td><b>公司种类</b></td><td>股份有限公司（株式会社）</td></tr><tr><td><b>成立日期</b></td><td>2004年4月21日</td></tr><tr><td><b>公司代表</b></td><td>董事长：福田尚弘</td></tr><tr><td><b>本社地址</b></td><td>東京都港区芝3-8-2 住友不動産芝公園ファーストビル7F</td></tr><tr><td><b>本社邮编</b></td><td>105-0014</td></tr><tr><td><b>注册资金</b></td><td>70,000,000円</td></tr><tr><td><b>员工数量</b></td><td>165名（2018年5月）</td></tr><tr><td><b>官网地址</b></td><td><a rel="nofollow" class="external free" href="https://www.gamestudio.co.jp/">https://www.gamestudio.co.jp/</a> <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到日文网页">（日文）</span></td></tr></tbody></table>
 
 Game Studio（公司会社） - 株式会社ゲームスタジオ，股份有限公司（株式会社）
+
 ## 公司历史
+
 ## 主要作品
+
 ## 与东方Project的关联
   
 参与开发过[LORD of VERMILION III](./LORD_of_VERMILION.md)。  

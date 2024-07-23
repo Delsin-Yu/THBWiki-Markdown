@@ -98,7 +98,7 @@ TBSGroup的支出由成员担负，由于没有固定的收入，因此属于完
 <td><a rel="nofollow" class="external free" href="https://cd.thwiki.cc/">https://cd.thwiki.cc/</a>
 </td></tr>
 <tr>
-<td><s><a href="/TouhouVideo" class="mw-redirect" title="TouhouVideo">THVideo</a></s></td>
+<td><s><a href="./TouhouVideo.md" class="mw-redirect" title="TouhouVideo">THVideo</a></s></td>
 <td>TouhouVideo弹幕视频网（已停止运营）</td>
 <td><a rel="nofollow" class="external free" href="http://thvideo.tv/">http://thvideo.tv/</a>
 </td></tr>

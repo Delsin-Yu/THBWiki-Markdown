@@ -8,9 +8,11 @@ Danmaq
 整个游戏的剧情有三个部分，分别被制作组保存在[6面符卡补足](./東方夢終劇_～_Concealed_the_Conclusion-符卡-Stage_6.md)、omake以及故事背景、结局 (未找到链接)中。
   
 
+
 ## 游戏设定
 - [故事背景](./東方夢終劇_～_Concealed_the_Conclusion-设定与剧情-故事背景.md)
 - [Omake.txt以及Extrastory](./東方夢終劇_～_Concealed_the_Conclusion-设定与剧情-omake.md)
+
 
 ## 游戏对话
 - [A路线（星符）游戏对话](./東方夢終劇_～_Concealed_the_Conclusion-设定与剧情-星符.md)
@@ -20,6 +22,7 @@ Danmaq
 - [4-6面游戏对话/结局](./東方夢終劇_～_Concealed_the_Conclusion-设定与剧情-共有.md)
 - [Extra游戏对话](./東方夢終劇_～_Concealed_the_Conclusion-设定与剧情-extra.md)
 - [Phantasm游戏对话](./東方夢終劇_～_Concealed_the_Conclusion-设定与剧情-phantasm.md)
+
 
 ## 结局条件
   

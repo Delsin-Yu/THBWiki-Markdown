@@ -4,7 +4,8 @@
 
 CRiMary ，主要制作 同人志，周边 的日本同人社团，主催是 羽切，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -20,17 +21,21 @@ CRiMary ，主要制作 同人志，周边 的日本同人社团，主催是 羽
 
 
 
+
 ## 社团信息
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> CRiMary </td></tr><tr><td><b>主要作品类型</b></td><td>同人志，周边</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="./羽切.md" title="羽切">羽切</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://crimary.web.fc2.com/">http://crimary.web.fc2.com/</a> <br><a rel="nofollow" class="external free" href="http://crimary.blog77.fc2.com/">http://crimary.blog77.fc2.com/</a> （blog）</td></tr></tbody></table>
 
 CRiMary（同人社团，同人志社团，周边社团） - CRiMary ，主要制作 同人志，周边 的日本同人社团，主催是 羽切，当前状态为 活动
+
 ## 成员名单
 - [羽切](./羽切.md)
 
 : [Twitter: @hagiri](https://twitter.com/hagiri), [Pixiv ID: 313353](https://www.pixiv.net/users/313353)
 
+
 ## 作品列表
+
 ### 同人志
 ぎゃーみょん漫画(仮) 封面图片 (未找到链接)ぎゃーみょん漫画(仮) (未找到链接)首发日期：未知 - 瞳に焦がれて 封面图片 (未找到链接)瞳に焦がれて (未找到链接)首发日期：未知 - Swamp! Swamp!! 封面图片 (未找到链接)Swamp! Swamp!! (未找到链接)首发日期：未知 - 砂の商人、貧乏神 封面图片 (未找到链接)砂の商人、貧乏神 (未找到链接)首发日期：未知 - ボロ屋DEごはん! 封面图片 (未找到链接)ボロ屋DEごはん! (未找到链接)首发日期：未知 - Your Rich Got Me! 封面图片 (未找到链接)Your Rich Got Me! (未找到链接)首发日期：未知 - 鈴となり 封面图片 (未找到链接)鈴となり (未找到链接)首发日期：未知 - [](./地獄DEごはん！.md)[地獄DEごはん！](./地獄DEごはん！.md)首发日期：2022-05-08 （第十九回 博麗神社例大祭 (未找到链接)）漫画 （一般向）B5&#160;尺寸 32&#160;页
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -42,6 +47,7 @@ CRiMary（同人社团，同人志社团，周边社团） - CRiMary ，主要�
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 参展信息

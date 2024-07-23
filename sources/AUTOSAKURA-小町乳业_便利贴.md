@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **相关实体周边 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 周边信息](#周边信息)
@@ -21,20 +22,25 @@
 
 
 
+
 ## 周边信息
 
 <table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 小町乳业 便利贴 </td></tr><tr><td class="label">制作方</td><td><a href="./AUTOSAKURA.md" title="AUTOSAKURA">AUTOSAKURA</a></td></tr><tr><td class="label">首发日期</td><td>2021-01-01&#160;（<a href="/展会作品列表?e=COMICUP%2327">COMICUP27</a>）</td></tr><tr><td class="label">类型</td><td>文具</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">材质</td><td>纸</td></tr><tr><td class="label">角色</td><td><a href="./小野塚小町.md" title="小野塚小町">小野塚小町</a></td></tr><tr><td class="label">售价</td><td>5人民币</td></tr>
 <tr><td class="label">官网页面</td><td><a rel="nofollow" class="external free" href="https://weibo.com/6868180126/JzwcotbQe">https://weibo.com/6868180126/JzwcotbQe</a></td></tr></tbody></table>
 
 AUTOSAKURA/小町乳业 便利贴（周边，AUTOSAKURA，2021） - 2021年1月1日 由 AUTOSAKURA 于 COMICUP27 发布的文具周边，分级为 一般向
+
 ## 参考图
 - [](./文件-AUTOSAKURA／小町乳业_便利贴预览图1.jpg.md)
+
 
 ### 实物图
 - [](./文件-AUTOSAKURA／小町乳业_便利贴实物图1.jpg.md)
 
+
 ## Staff
 - 下马坊梅花糕 (未找到链接)
+
 
 ## 评论
 

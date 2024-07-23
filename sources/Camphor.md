@@ -4,7 +4,8 @@
 
 Camphor ，于 2009 年成立，主要制作 同人音乐 的日本同人社团，主催是 堀卓矢，当前状态为 休止
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -15,14 +16,17 @@ Camphor ，于 2009 年成立，主要制作 同人音乐 的日本同人社团�
 
 
 
+
 ## 社团信息
 [](./文件-Camphor_banner.png.md)  [](./文件-Camphor_banner.png.md)Banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Camphor </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2009</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=%E5%A0%80%E5%8D%93%E7%9F%A2&amp;action=edit&amp;redlink=1" class="new" title="堀卓矢（页面不存在）">堀卓矢</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://camphor0000.blog11.fc2.com/">http://camphor0000.blog11.fc2.com/</a> </td></tr></tbody></table>
 
 Camphor（同人社团，同人音乐社团） - Camphor ，于 2009 年成立，主要制作 同人音乐 的日本同人社团，主催是 堀卓矢，当前状态为 休止
+
 ## 成员名单
 - 堀卓矢 (未找到链接)
+
 
 ## 作品列表
 [](./Camphor_Music_side_create_collection_＃1－remix_to_TOHO_Project_soundtrack_works－.md)[Camphor Music side create collection #1 - remix to TOHO Project soundtrack works -](./Camphor_Music_side_create_collection_＃1－remix_to_TOHO_Project_soundtrack_works－.md)首发日期：2009-12-30 （Comic Market 77 (未找到链接)）CAMP-0001全长 （一般向）[](./Camphor_Music_side_create_collection_＃2_Flight_down.md)[Camphor Music side create collection #2 Flight down](./Camphor_Music_side_create_collection_＃2_Flight_down.md)首发日期：2010-08-14 （Comic Market 78 (未找到链接)）CAMP-0002全长 （一般向）[](./Camphor_Music_side_create_collection_＃3_Outpost.md)[Camphor Music side create collection #3 Outpost](./Camphor_Music_side_create_collection_＃3_Outpost.md)首发日期：2010-12-30 （Comic Market 79 (未找到链接)）CAMP-0003EP （一般向）[](./Camphor_Music_side_create_collection_＃4_Malignant”X”.md)[Camphor Music side create collection #4 Malignant”X”](./Camphor_Music_side_create_collection_＃4_Malignant”X”.md)首发日期：2011-08-13 （Comic Market 80 (未找到链接)）CAMP-0004全长 （一般向）
@@ -34,6 +38,7 @@ Camphor（同人社团，同人音乐社团） - Camphor ，于 2009 年成立�
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 其他信息

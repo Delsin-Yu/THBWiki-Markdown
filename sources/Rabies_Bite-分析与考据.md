@@ -4,6 +4,7 @@
 
 引用了翻译表的页面 | 犬走椛 | 符卡
 
+
 ## 目录
 
 - [1 分析与考据](#分析与考据)
@@ -20,7 +21,9 @@
 
 
 
+
 ## 分析与考据
+
 ### 狗符「レイビーズバイト」
   
  **狗符「レイビーズバイト」**  狗符「Rabies Bite」（狂犬断噬）
@@ -45,6 +48,7 @@
   - 狂犬病一般是通过咬伤传播的。
 
 
+
 ### 牙符「咀嚼玩味」
   
  **牙符「咀嚼玩味」**  牙符「咀嚼玩味」
@@ -56,12 +60,14 @@
 
 
 
+
 ## 参见
 - [犬走椛/分析考据](./犬走椛-分析考据.md)
 
+
 ## 导航
 
-<table><tbody><tr><td><table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;;;"><tbody><tr><th style=";" colspan="3" class="navbox-title"><div class="navbar"><div class="noprint plainlinksneverexpand" style="background-color:transparent; padding:0; font-weight:normal; font-size:80%; white-space:nowrap;"><a href="./模板-犬走椛符卡导航.md" title="模板:犬走椛符卡导航"><span style=";;border:none;" title="查看这个模板">查</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<a href="/index.php?title=%E6%A8%A1%E6%9D%BF:%E7%8A%AC%E8%B5%B0%E6%A4%9B%E7%AC%A6%E5%8D%A1%E5%AF%BC%E8%88%AA&amp;action=edit"><span style=";;border:none;" title="您可以编辑这个模板。请在储存变更之前先预览">编</span></a></div></div><span><a href="./犬走椛.md" title="犬走椛">犬走椛</a>符卡</span></th></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">射击游戏</td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div><a href="./东方文花帖DS.md" title="东方文花帖DS">东方文花帖DS</a></div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="/%E7%8B%97%E7%AC%A6%E3%80%8CRabies_Bite%E3%80%8D" class="mw-redirect" title="狗符「Rabies Bite」">狗符「Rabies Bite」</a> &#8226; <a href="/%E5%B1%B1%E7%AA%9D%E3%80%8CExpellees%27_Canaan%E3%80%8D" class="mw-redirect" title="山窝「Expellees&#39; Canaan」">山窝「Expellees' Canaan」</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div><a href="./弹幕天邪鬼.md" title="弹幕天邪鬼">弹幕天邪鬼</a></div></td><td style=";;" class="navbox-list navbox-even"><div><a href="/%E7%89%99%E7%AC%A6%E3%80%8C%E5%92%80%E5%9A%BC%E7%8E%A9%E5%91%B3%E3%80%8D" class="mw-redirect" title="牙符「咀嚼玩味」">牙符「咀嚼玩味」</a></div></td></tr></tbody></table><div></div></td><td class="navbox-image" style="" rowspan="3"><a href="./文件-犬走椛（Q版立绘）.png.md" class="image"><img alt="犬走椛（Q版立绘）.png" src="https://upload.thwiki.cc/thumb/d/d8/%E7%8A%AC%E8%B5%B0%E6%A4%9B%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png/160px-%E7%8A%AC%E8%B5%B0%E6%A4%9B%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="160" height="160" srcset="https://upload.thwiki.cc/thumb/d/d8/%E7%8A%AC%E8%B5%B0%E6%A4%9B%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png/240px-%E7%8A%AC%E8%B5%B0%E6%A4%9B%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/d/d8/%E7%8A%AC%E8%B5%B0%E6%A4%9B%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png/320px-%E7%8A%AC%E8%B5%B0%E6%A4%9B%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="500" data-file-height="500"></a></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">出版物</td><td style=";;" class="navbox-list navbox-even"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div><a href="/%E5%AE%87%E4%BD%90%E8%A7%81%E7%9A%84%E9%AD%94%E6%B3%95%E4%B9%A6" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a></div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="/%E7%89%99%E7%AC%A6%E3%80%8C%E5%92%80%E5%9A%BC%E7%8E%A9%E5%91%B3%E3%80%8D" class="mw-redirect" title="牙符「咀嚼玩味」">牙符「咀嚼玩味」</a></div></td></tr></tbody></table><div></div></td></tr></tbody></table></td></tr></tbody></table>
+<table><tbody><tr><td><table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;;;"><tbody><tr><th style=";" colspan="3" class="navbox-title"><div class="navbar"><div class="noprint plainlinksneverexpand" style="background-color:transparent; padding:0; font-weight:normal; font-size:80%; white-space:nowrap;"><a href="./模板-犬走椛符卡导航.md" title="模板:犬走椛符卡导航"><span style=";;border:none;" title="查看这个模板">查</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<a href="/index.php?title=%E6%A8%A1%E6%9D%BF:%E7%8A%AC%E8%B5%B0%E6%A4%9B%E7%AC%A6%E5%8D%A1%E5%AF%BC%E8%88%AA&amp;action=edit"><span style=";;border:none;" title="您可以编辑这个模板。请在储存变更之前先预览">编</span></a></div></div><span><a href="./犬走椛.md" title="犬走椛">犬走椛</a>符卡</span></th></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">射击游戏</td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div><a href="./东方文花帖DS.md" title="东方文花帖DS">东方文花帖DS</a></div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./狗符「Rabies_Bite」.md" class="mw-redirect" title="狗符「Rabies Bite」">狗符「Rabies Bite」</a> &#8226; <a href="./山窝「Expellees'_Canaan」.md" class="mw-redirect" title="山窝「Expellees&#39; Canaan」">山窝「Expellees' Canaan」</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div><a href="./弹幕天邪鬼.md" title="弹幕天邪鬼">弹幕天邪鬼</a></div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./牙符「咀嚼玩味」.md" class="mw-redirect" title="牙符「咀嚼玩味」">牙符「咀嚼玩味」</a></div></td></tr></tbody></table><div></div></td><td class="navbox-image" style="" rowspan="3"><a href="./文件-犬走椛（Q版立绘）.png.md" class="image"><img alt="犬走椛（Q版立绘）.png" src="https://upload.thwiki.cc/thumb/d/d8/%E7%8A%AC%E8%B5%B0%E6%A4%9B%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png/160px-%E7%8A%AC%E8%B5%B0%E6%A4%9B%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="160" height="160" srcset="https://upload.thwiki.cc/thumb/d/d8/%E7%8A%AC%E8%B5%B0%E6%A4%9B%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png/240px-%E7%8A%AC%E8%B5%B0%E6%A4%9B%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/d/d8/%E7%8A%AC%E8%B5%B0%E6%A4%9B%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png/320px-%E7%8A%AC%E8%B5%B0%E6%A4%9B%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="500" data-file-height="500"></a></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">出版物</td><td style=";;" class="navbox-list navbox-even"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div><a href="./宇佐见的魔法书.md" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a></div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./牙符「咀嚼玩味」.md" class="mw-redirect" title="牙符「咀嚼玩味」">牙符「咀嚼玩味」</a></div></td></tr></tbody></table><div></div></td></tr></tbody></table></td></tr></tbody></table>
 
 
 

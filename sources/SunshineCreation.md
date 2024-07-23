@@ -4,8 +4,9 @@
 
 SunshineCreation 在 日本东京 举办的  全类型同人展会活动，目前共举办了74届
 
-本页是关于 **同人展会 (未找到链接)**   
-及 **相关活动 (未找到链接)** 的词条
+本页是关于 **[同人展会](./同人展会.md#展会类活动)**   
+及 **[相关活动](./相关活动.md)** 的词条
+
 ## 概述
 [](./文件-CreationLOGO.png.md)  [](./文件-CreationLOGO.png.md)SunshineCreation LOGO
   
@@ -14,7 +15,7 @@ SunshineCreation 在 日本东京 举办的  全类型同人展会活动，目�
   
   
   
-日本 **东京** 的全类型 **同人展会类活动 (未找到链接)** 。  
+日本 **东京** 的全类型 **同人[展会类活动](./展会类活动.md#展会类活动)** 。  
   
 在东京举办。  
 直到目前为止，已经举办了74届（包含已决定将会举办）。  
@@ -33,6 +34,7 @@ SunshineCreation 在 日本东京 举办的  全类型同人展会活动，目�
 官方推特： [https://twitter.com/creation_office](https://twitter.com/creation_office) （需要翻墙）  
   
 SunshineCreation（活动，展会活动） - SunshineCreation 在 日本东京 举办的  全类型同人展会活动，目前共举办了74届
+
 ## 历届信息
 - 点击届数可进入对应分类页面
 

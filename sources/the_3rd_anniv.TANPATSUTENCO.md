@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-the_3rd_anniv.TANPATSUTENCO封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/0/0c/the_3rd_anniv.TANPATSUTENCO%E5%B0%81%E9%9D%A2.png/224px-the_3rd_anniv.TANPATSUTENCO%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="224" height="157" srcset="https://upload.thwiki.cc/thumb/0/0c/the_3rd_anniv.TANPATSUTENCO%E5%B0%81%E9%9D%A2.png/336px-the_3rd_anniv.TANPATSUTENCO%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/0/0c/the_3rd_anniv.TANPATSUTENCO%E5%B0%81%E9%9D%A2.png/448px-the_3rd_anniv.TANPATSUTENCO%E5%B0%81%E9%9D%A2.png 2x" data-file-width="650" data-file-height="457"></a><div class="cover-char">角色：<a href="./比那名居天子.md" title="比那名居天子">比那名居天子</a>，<a href="./大鲶鱼.md" title="大鲶鱼">大鲶鱼</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://sinnnkai.blog.fc2.com/blog-entry-272.html">http://sinnnkai.blog.fc2.com/blog-entry-272.html</a></td></tr></tbody></table>
 
 the 3rd anniv.TANPATSUTENCO（同人志，SINNNKAI，2013） - 2013年8月12日 由 SINNNKAI 于 Comic Market 84 发布的画集同人志，A4尺寸一共84页，登场人物有 短发天子，分级为 一般向
+
 ## Staff
 - カンヌ
+
 
 ## 评论
   

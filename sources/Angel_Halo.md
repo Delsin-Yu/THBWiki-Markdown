@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Angel_Halo封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/6/6d/Angel_Halo%E5%B0%81%E9%9D%A2.jpg/224px-Angel_Halo%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="180" srcset="https://upload.thwiki.cc/thumb/6/6d/Angel_Halo%E5%B0%81%E9%9D%A2.jpg/336px-Angel_Halo%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/6/6d/Angel_Halo%E5%B0%81%E9%9D%A2.jpg/448px-Angel_Halo%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1199" data-file-height="966"></a></td>
@@ -13,11 +14,13 @@
 </tr><tr><td class="label">首发日期</td><td>2018-12-30&#160;（<a href="/展会作品列表?e=Comic+Market%2395">Comic Market 95</a>）</td></tr><tr><td class="label">类型</td><td>EP</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>0</td></tr><tr><td class="label">总时长</td><td>00:00</td></tr><tr><td class="label">售价</td><td>会场售价：300日元</td></tr></tbody></table>
 
 Angel Halo（同人专辑，Cloister Notes，2018） - 2018年12月30日 由 Cloister Notes 于 Comic Market 95 发布的EP同人专辑，分级为 一般向
+
 ## Staff
 Design
 : 设计师 （[网址 社团]）
 Illustration
 : 画师 （[网址 社团]）
+
 
 ## 试听
   
@@ -25,9 +28,11 @@ Illustration
 
   
 
+
 ## 曲目列表
 
 <table></table>
+
 
 
 ## 评论

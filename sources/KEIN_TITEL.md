@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-KEIN_TITEL封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/0/00/KEIN_TITEL%E5%B0%81%E9%9D%A2.jpg/156px-KEIN_TITEL%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="156" height="224" srcset="https://upload.thwiki.cc/thumb/0/00/KEIN_TITEL%E5%B0%81%E9%9D%A2.jpg/235px-KEIN_TITEL%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/0/00/KEIN_TITEL%E5%B0%81%E9%9D%A2.jpg/313px-KEIN_TITEL%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="666" data-file-height="953"></a><div class="cover-char">角色：<a href="./封兽鵺.md" title="封兽鵺">封兽鵺</a></div></td>
@@ -14,9 +15,12 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/62618402">https://www.pixiv.net/artworks/62618402</a></td></tr></tbody></table>
 
 KEIN TITEL（同人志，銘菓百合まんじゅう，2017） - 2017年5月7日 由 銘菓百合まんじゅう 于 博丽神社例大祭14 发布的漫画同人志，A5尺寸一共20页，登场人物有 封兽鵺、物部布都、稀神探女、鬼人正邪，分级为 一般向
+
 ## 预览
+
 ## Staff
 - 百合餡（ゆりあん） (未找到链接)
+
 
 ## 评论
 

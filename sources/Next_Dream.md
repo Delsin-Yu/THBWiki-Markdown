@@ -6,12 +6,14 @@
 
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 软件信息](#软件信息)
 - [2 Staff](#Staff)
 - [3 内容页面](#内容页面)
 - [4 评论](#评论)
+
 
 
 
@@ -28,6 +30,7 @@ Next Dream（同人游戏，eva problems，2022） - 2022年8月22日 由 eva pr
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://ohnoproblems.itch.io/next-dream">其他平台</a></td></tr></tbody></table>
 
 
+
 ## Staff
 Writing
 : eva problems
@@ -35,9 +38,11 @@ Background Image &amp; Sigil
 : Birdy Mayberry
 : eva problems
 
+
 ## 内容页面
 - 使用说明 (未找到链接)
 - 其他信息 (未找到链接)
+
 
 ## 评论
 

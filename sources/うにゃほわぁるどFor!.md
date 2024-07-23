@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-うにゃほわぁるどFor!封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/a/a6/%E3%81%86%E3%81%AB%E3%82%83%E3%81%BB%E3%82%8F%E3%81%81%E3%82%8B%E3%81%A9For%21%E5%B0%81%E9%9D%A2.jpg/158px-%E3%81%86%E3%81%AB%E3%82%83%E3%81%BB%E3%82%8F%E3%81%81%E3%82%8B%E3%81%A9For%21%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="158" height="224" srcset="https://upload.thwiki.cc/thumb/a/a6/%E3%81%86%E3%81%AB%E3%82%83%E3%81%BB%E3%82%8F%E3%81%81%E3%82%8B%E3%81%A9For%21%E5%B0%81%E9%9D%A2.jpg/237px-%E3%81%86%E3%81%AB%E3%82%83%E3%81%BB%E3%82%8F%E3%81%81%E3%82%8B%E3%81%A9For%21%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/a/a6/%E3%81%86%E3%81%AB%E3%82%83%E3%81%BB%E3%82%8F%E3%81%81%E3%82%8B%E3%81%A9For%21%E5%B0%81%E9%9D%A2.jpg/316px-%E3%81%86%E3%81%AB%E3%82%83%E3%81%BB%E3%82%8F%E3%81%81%E3%82%8B%E3%81%A9For%21%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="526" data-file-height="746"></a><div class="cover-char">角色：<a href="./灵乌路空.md" title="灵乌路空">灵乌路空</a>，<a href="./火焰猫燐.md" title="火焰猫燐">火焰猫燐</a>，<a href="./星熊勇仪.md" title="星熊勇仪">星熊勇仪</a>，<a href="./水桥帕露西.md" title="水桥帕露西">水桥帕露西</a></div></td>
@@ -14,9 +15,12 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/37460465">https://www.pixiv.net/artworks/37460465</a></td></tr></tbody></table>
 
 うにゃほわぁるどFor!（同人志，廃獄旅団，2013） - 2013年8月12日 由 廃獄旅団 于 Comic Market 84 发布的漫画同人志，B5尺寸一共24页，登场人物有 灵乌路空、火焰猫燐、星熊勇仪、水桥帕露西、古明地觉，分级为 一般向
+
 ## 预览
+
 ## Staff
 - [烏丸あみる](./烏丸あみる.md)
+
 
 ## 评论
 

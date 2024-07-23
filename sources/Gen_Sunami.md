@@ -6,14 +6,17 @@
 
 本页是关于东方Project  
  **二次同人创作者** 的词条
+
 ## 基本信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="label"><b>名称</b></td><td> Gen Sunami </td></tr><tr><td class="label"><b>真实名</b></td><td>砂見源</td></tr><tr><td class="label"><b>所属社团</b></td><td><b>当前</b><div style="margin-left:2em;"><a href="./Orbit／／Arclight.md" title="Orbit／／Arclight">Orbit//Arclight</a></div></td></tr><tr><td class="label"><b>职位</b></td><td>吉他，编曲，演唱，作词</td></tr><tr><td class="label"><b>参与社团</b></td><td><a href="./Orbit／／Arclight.md" title="Orbit／／Arclight">Orbit／／Arclight</a> （编曲，演唱，作词）</td></tr><tr><td class="label"><b>个人页面</b></td><td><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><b>Twitter</b></td><td><a rel="nofollow" class="external free" href="https://twitter.com/GENSLTD">https://twitter.com/GENSLTD</a></td></tr><tr><td><b>Youtube</b></td><td><a rel="nofollow" class="external free" href="https://www.youtube.com/channel/UCHgdx_TWVN0pKsc6FoSf5Bg">https://www.youtube.com/channel/UCHgdx_TWVN0pKsc6FoSf5Bg</a></td></tr></tbody></table></td></tr></tbody></table>
 
 Gen Sunami（人物） - 现实人物
+
 ## 介绍
 - 后核/前卫核乐队 **Eversolitude**  (原 **Solitude a Sleepless Nights** ) 的吉他手和编曲。
 - [Orbit//Arclight](./Orbit／／Arclight.md)的演唱和编曲。
+
 
 ## 相关链接
 Eversolitude

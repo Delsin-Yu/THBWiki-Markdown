@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -40,22 +41,26 @@
 
 
 
+
 ## 基本信息
 
-<table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">神話幻想　～ Infinite Being</td></tr><tr><td><b>译名</b></td><td>神话幻想 ～ Infinite Being</td></tr><tr><td><b>英文译名</b></td><td>Legendary Illusion ~ Infinite Being</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>关联</td></tr><tr><td style="padding-left:15px"><b>相关曲</b></td><td><a href="/%E3%83%A1%E3%82%A4%E3%83%97%E3%83%AB%E3%83%AF%E3%82%A4%E3%82%BA" class="mw-redirect" title="メイプルワイズ">メイプルワイズ</a></td></tr><tr><td style="padding-left:15px"><b>　来源</b></td><td>东方怪绮谈　～ Mystic Square.</td></tr></tbody></table>
+<table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">神話幻想　～ Infinite Being</td></tr><tr><td><b>译名</b></td><td>神话幻想 ～ Infinite Being</td></tr><tr><td><b>英文译名</b></td><td>Legendary Illusion ~ Infinite Being</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>关联</td></tr><tr><td style="padding-left:15px"><b>相关曲</b></td><td><a href="./メイプルワイズ.md" class="mw-redirect" title="メイプルワイズ">メイプルワイズ</a></td></tr><tr><td style="padding-left:15px"><b>　来源</b></td><td>东方怪绮谈　～ Mystic Square.</td></tr></tbody></table>
 
 神话幻想 ～ Infinite Being（曲目） - 由 ZUN 创作的官方曲目，原名 神話幻想　～ Infinite Being
+
 ## 出现作品
 
 <table>
 <tbody><tr><td>1998年12月30日（Comic Market 55）</td><td><b><a href="./东方怪绮谈.md" title="东方怪绮谈">东方怪绮谈</a></b></td><td>6面BOSS<a href="./神绮.md" title="神绮">神绮</a>的主题曲</td><td style="padding-left:5px;">神話幻想　～ Infinite Being（神话幻想 ～ Infinite Being）</td><td style="padding-left:10px;">作曲：ZUN</td></tr>
 <tr><td>2000年4月2日（非展会）</td><td><b><a href="./东方幻想的音乐.md" title="东方幻想的音乐">东方幻想的音乐</a></b></td><td>东方怪绮谈</td><td style="padding-left:5px;">神話幻想　～ Infinite Being（神话幻想 ～ Infinite Being）</td><td style="padding-left:10px;">编曲：ZUN</td></tr>
 <tr><td>2000年10月18日（非展会）</td><td><b><a href="./东方幻想怀古曲.md" title="东方幻想怀古曲">东方幻想怀古曲</a></b></td><td>东方怪绮谈</td><td style="padding-left:5px;">神話幻想　～ Infinite Being（神话幻想 ～ Infinite Being）</td><td style="padding-left:10px;">作曲：ZUN</td></tr>
-<tr><td>2006年12月31日（Comic Market 71）</td><td><b><a href="/%E5%B9%BA%E4%B9%90%E5%9B%A2%E7%9A%84%E5%8E%86%E5%8F%B2_vol.2" class="mw-redirect" title="幺乐团的历史 vol.2">幺乐团的历史 vol.2</a></b></td><td>第15轨</td><td style="padding-left:5px;">神話幻想　～ Infinite Being（神话幻想 ～ Infinite Being）</td><td style="padding-left:10px;">编曲：ZUN</td></tr>
+<tr><td>2006年12月31日（Comic Market 71）</td><td><b><a href="./幺乐团的历史_vol.2.md" class="mw-redirect" title="幺乐团的历史 vol.2">幺乐团的历史 vol.2</a></b></td><td>第15轨</td><td style="padding-left:5px;">神話幻想　～ Infinite Being（神话幻想 ～ Infinite Being）</td><td style="padding-left:10px;">编曲：ZUN</td></tr>
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 东方怪绮谈
   
 YM2203(OPN)，FM26K音源版。
@@ -73,9 +78,11 @@ YM2608(OPNA)，FM86音源版。
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th05_15_86.ogg.md" title="文件:th05 15 86.ogg">th05_15_86.ogg</a><br><audio src="https://upload.thwiki.cc/9/93/th05_15_86.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>ST05B.M2</td></tr><tr><td><b>音轨时长</b></td><td>2:28.303</td></tr></tbody></table>
 
 
+
 ### 东方幻想的音乐
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td><a href="./文件-th5_15.mid.md" title="文件:th5 15.mid">th5_15.mid</a></td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th5_15.mp3.md" title="文件:th5 15.mp3">th5_15.mp3</a><br><audio src="https://upload.thwiki.cc/8/80/th5_15.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>th5_15.mid</td></tr><tr><td><b>音轨时长</b></td><td>4:49</td></tr></tbody></table>
+
 
 
 ### 东方幻想怀古曲
@@ -83,12 +90,15 @@ YM2608(OPNA)，FM86音源版。
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-thgs05_15.ogg.md" title="文件:thgs05 15.ogg">thgs05_15.ogg</a><br><audio src="https://upload.thwiki.cc/e/e0/thgs05_15.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>th5_15.M</td></tr><tr><td><b>音轨时长</b></td><td>2:28.303</td></tr></tbody></table>
 
 
+
 ### 幺乐团的历史 vol.2
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-ha02_15.mp3.md" title="文件:ha02 15.mp3">ha02_15.mp3</a><br><audio src="https://upload.thwiki.cc/b/b5/ha02_15.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track15.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>4:53</td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 东方怪绮谈
 - Music Room (未找到链接)
 
@@ -103,6 +113,7 @@ YM2608(OPNA)，FM86音源版。
 ＺＵＮ（太田）  
 怪绮谈最终boss的曲子。  
 稍微地，氛围有点搞错了呢。稍微・・・，嗯——
+
 ### 东方幻想的音乐
 - th5_15.txt (未找到链接)
 
@@ -137,6 +148,7 @@ YM2608(OPNA)，FM86音源版。
 曲子的感想、请求等，这边请  
 　东方幻想空间　「博丽神社」 [http://www16.big.or.jp/~zun/](http://www16.big.or.jp/~zun/)  
 　e-Mail                     zun@big.or.jp
+
 ### 东方幻想怀古曲
 - th5_15pmd.txt (未找到链接)
 
@@ -175,8 +187,11 @@ YM2608(OPNA)，FM86音源版。
 曲子的感想、请求等，这边请  
 　东方幻想空间　「博丽神社」 [http://www16.big.or.jp/~zun/](http://www16.big.or.jp/~zun/)  
 　e-Mail　　　　　　　　　　 zun@big.or.jp
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
   
  **神話幻想　～ Infinite Being** 
@@ -191,6 +206,7 @@ YM2608(OPNA)，FM86音源版。
 - Infinite Being
   - 无限的存在，神
   - 东方系列的精神永存？
+
 
 
 ### 二次同人数据

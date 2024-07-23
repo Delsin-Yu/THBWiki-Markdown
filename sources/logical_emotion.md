@@ -4,7 +4,8 @@
 
 logical emotion ，于 2011 年成立，主要制作 同人音乐 的日本同人社团，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -15,16 +16,19 @@ logical emotion ，于 2011 年成立，主要制作 同人音乐 的日本同�
 
 
 
+
 ## 社团信息
 [](./文件-logical_emotionbanner.png.md)  [](./文件-logical_emotionbanner.png.md)banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> logical emotion </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2011年</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://logical-emotion.com/">http://logical-emotion.com/</a> </td></tr></tbody></table>
 
 logical emotion（同人社团，同人音乐社团） - logical emotion ，于 2011 年成立，主要制作 同人音乐 的日本同人社团，当前状态为 活动
+
 ## 成员名单
-- marasy (未找到链接)
+- [marasy](./marasy.md)
 - drm (未找到链接)
 - tabclear (未找到链接)
+
 
 ## 作品列表
 [](./Touhou_Project_acoustic_arranged_instruments.md)[Touhou Project acoustic arranged instruments](./Touhou_Project_acoustic_arranged_instruments.md)首发日期：2011-05-08 （第八回 博麗神社例大祭 (未找到链接)）YPME-1001全长 （一般向）[](./Touhou_Project_pops_arranged_instruments.md)[Touhou Project pops arranged instruments](./Touhou_Project_pops_arranged_instruments.md)首发日期：2011-08-13 （Comic Market 80 (未找到链接)）YPME-1002全长 （一般向）[](./Touhou_Project_pops_arranged_instruments2.md)[Touhou Project pops arranged instruments2](./Touhou_Project_pops_arranged_instruments2.md)首发日期：2012-05-27 （第九回 博麗神社例大祭 (未找到链接)）YPME-1003全长 （一般向）[](./Touhou_Project_pops_arranged_instruments3.md)[Touhou Project pops arranged instruments3](./Touhou_Project_pops_arranged_instruments3.md)首发日期：2012-12-30 （Comic Market 83 (未找到链接)）YPME-1004全长 （一般向）[](./Touhou_Project_pops_arranged_instruments4.md)[Touhou Project pops arranged instruments4](./Touhou_Project_pops_arranged_instruments4.md)首发日期：2013-12-30 （Comic Market 85 (未找到链接)）YPME-1006全长 （一般向）[](./Touhou_Project_pops_arranged_instruments5.md)[Touhou Project pops arranged instruments5](./Touhou_Project_pops_arranged_instruments5.md)首发日期：2014-08-16 （Comic Market 86 (未找到链接)）YPME-1007全长 （一般向）[](./Touhou_Project_pops_arranged_instruments6.md)[Touhou Project pops arranged instruments6](./Touhou_Project_pops_arranged_instruments6.md)首发日期：2015-05-10 （第十二回 博麗神社例大祭 (未找到链接)）YPME-1008全长 （一般向）[](./Touhou_Project_pops_arranged_instruments7.md)[Touhou Project pops arranged instruments7](./Touhou_Project_pops_arranged_instruments7.md)首发日期：2015-08-14 （Comic Market 88 (未找到链接)）YPME-1009全长 （一般向）[](./Touhou_Project_acoustic_arranged_instruments2.md)[Touhou Project acoustic arranged instruments2](./Touhou_Project_acoustic_arranged_instruments2.md)首发日期：2016-08-13 （Comic Market 90 (未找到链接)）YPME-1010全长 （一般向）[](./Touhou_Project_acoustic_arranged_instruments3.md)[Touhou Project acoustic arranged instruments3](./Touhou_Project_acoustic_arranged_instruments3.md)首发日期：2016-12-29 （Comic Market 91 (未找到链接)）YPME-1011全长 （一般向）[](./Touhou_Project_pops_arranged_instruments8.md)[Touhou Project pops arranged instruments8](./Touhou_Project_pops_arranged_instruments8.md)首发日期：2017-08-11 （Comic Market 92 (未找到链接)）YPME-1012全长 （一般向）[](./Touhou_Project_pops_arranged_instruments9.md)[Touhou Project pops arranged instruments9](./Touhou_Project_pops_arranged_instruments9.md)首发日期：2018-08-10 （Comic Market 94 (未找到链接)）YPME-1013全长 （一般向）
@@ -52,6 +56,7 @@ logical emotion（同人社团，同人音乐社团） - logical emotion ，于 
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 其他信息

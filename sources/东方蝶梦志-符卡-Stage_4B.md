@@ -74,6 +74,7 @@
 <tr><td>符卡原名</td><td>恋符「究极火花」</td></tr><tr><td>出现位置</td><td>Stage 4B - Hard/Lunatic（<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a>）</td></tr></tbody></table>
 
 
+
 ## 词条导航
   
   

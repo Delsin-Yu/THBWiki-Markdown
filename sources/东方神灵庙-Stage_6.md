@@ -23,6 +23,7 @@
 </center>
 - 本词条内容为官方游戏TH13 **东方神灵庙** 的敌机符卡
 
+
 ## 目录
 
 - [1 丰聪耳神子](#丰聪耳神子)
@@ -77,7 +78,9 @@
 
 
 
+
 ## 丰聪耳神子
+
 ### SPELLCARD 1
 
 <table>
@@ -91,7 +94,7 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="/%E5%90%8D%E8%AA%89%E3%80%8C%E5%8D%81%E4%BA%8C%E9%98%B6%E4%B9%8B%E8%89%B2%E5%BD%A9%E3%80%8D" class="mw-redirect" title="名誉「十二阶之色彩」">名誉「十二阶之色彩」</a>
+<p><a href="./名誉「十二阶之色彩」.md" class="mw-redirect" title="名誉「十二阶之色彩」">名誉「十二阶之色彩」</a>
 </p>
 </th></tr>
 <tr>
@@ -102,9 +105,10 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="/%E5%90%8D%E8%AA%89%E3%80%8C%E5%8D%81%E4%BA%8C%E9%98%B6%E4%B9%8B%E5%86%A0%E4%BD%8D%E3%80%8D" class="mw-redirect" title="名誉「十二阶之冠位」">名誉「十二阶之冠位」</a>
+<p><a href="./名誉「十二阶之冠位」.md" class="mw-redirect" title="名誉「十二阶之冠位」">名誉「十二阶之冠位」</a>
 </p>
 </th></tr></tbody></table>
+
 
 
 #### 符卡信息
@@ -134,6 +138,7 @@
 
 
 
+
 ### SPELLCARD 2
 
 <table>
@@ -147,7 +152,7 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="/%E4%BB%99%E7%AC%A6%E3%80%8C%E6%97%A5%E5%87%BA%E4%B9%8B%E5%A4%84%E7%9A%84%E9%81%93%E5%A3%AB%E3%80%8D" class="mw-redirect" title="仙符「日出之处的道士」">仙符「日出之处的道士」</a>
+<p><a href="./仙符「日出之处的道士」.md" class="mw-redirect" title="仙符「日出之处的道士」">仙符「日出之处的道士」</a>
 </p>
 </th></tr>
 <tr>
@@ -158,9 +163,10 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="/%E4%BB%99%E7%AC%A6%E3%80%8C%E6%97%A5%E5%87%BA%E4%B9%8B%E5%A4%84%E7%9A%84%E5%A4%A9%E5%AD%90%E3%80%8D" class="mw-redirect" title="仙符「日出之处的天子」">仙符「日出之处的天子」</a>
+<p><a href="./仙符「日出之处的天子」.md" class="mw-redirect" title="仙符「日出之处的天子」">仙符「日出之处的天子」</a>
 </p>
 </th></tr></tbody></table>
+
 
 
 #### 符卡信息
@@ -190,6 +196,7 @@
 
 
 
+
 ### SPELLCARD 3
 
 <table>
@@ -203,9 +210,10 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="/%E5%8F%AC%E5%94%A4%E3%80%8C%E8%B1%AA%E6%97%8F%E4%B9%B1%E8%88%9E%E3%80%8D" class="mw-redirect" title="召唤「豪族乱舞」">召唤「豪族乱舞」</a>
+<p><a href="./召唤「豪族乱舞」.md" class="mw-redirect" title="召唤「豪族乱舞」">召唤「豪族乱舞」</a>
 </p>
 </th></tr></tbody></table>
+
 
 
 #### 符卡信息
@@ -222,6 +230,7 @@
 
 
 
+
 ### SPELLCARD 4
 
 <table>
@@ -235,7 +244,7 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="/%E7%A7%98%E5%AE%9D%E3%80%8C%E6%96%91%E9%B8%A0%E5%AF%BA%E7%9A%84%E5%A4%A9%E7%90%83%E4%BB%AA%E3%80%8D" class="mw-redirect" title="秘宝「斑鸠寺的天球仪」">秘宝「斑鸠寺的天球仪」</a>
+<p><a href="./秘宝「斑鸠寺的天球仪」.md" class="mw-redirect" title="秘宝「斑鸠寺的天球仪」">秘宝「斑鸠寺的天球仪」</a>
 </p>
 </th></tr>
 <tr>
@@ -246,7 +255,7 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="/%E7%A7%98%E5%AE%9D%E3%80%8C%E5%9C%A3%E5%BE%B7%E5%A4%AA%E5%AD%90%E7%9A%84%E6%AC%A7%E5%B8%95%E5%85%B9%E3%80%8D" class="mw-redirect" title="秘宝「圣德太子的欧帕兹」">秘宝「圣德太子的欧帕兹」</a>
+<p><a href="./秘宝「圣德太子的欧帕兹」.md" class="mw-redirect" title="秘宝「圣德太子的欧帕兹」">秘宝「圣德太子的欧帕兹」</a>
 </p>
 </th></tr>
 <tr>
@@ -257,9 +266,10 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="/%E3%80%8C%E7%A5%9E%E7%81%B5%E5%A4%A7%E5%AE%87%E5%AE%99%E3%80%8D" class="mw-redirect" title="「神灵大宇宙」">「神灵大宇宙」</a>
+<p><a href="./「神灵大宇宙」.md" class="mw-redirect" title="「神灵大宇宙」">「神灵大宇宙」</a>
 </p>
 </th></tr></tbody></table>
+
 
 
 #### 符卡信息
@@ -302,6 +312,7 @@
 
 
 
+
 ### SPELLCARD 5
 
 <table>
@@ -315,7 +326,7 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="/%E5%85%89%E7%AC%A6%E3%80%8C%E6%95%91%E4%B8%96%E8%A7%82%E9%9F%B3%E7%9A%84%E4%BD%9B%E5%85%89%E3%80%8D" class="mw-redirect" title="光符「救世观音的佛光」">光符「救世观音的佛光」</a>
+<p><a href="./光符「救世观音的佛光」.md" class="mw-redirect" title="光符「救世观音的佛光」">光符「救世观音的佛光」</a>
 </p>
 </th></tr>
 <tr>
@@ -326,9 +337,10 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="/%E5%85%89%E7%AC%A6%E3%80%8CGuse_Flash%E3%80%8D" class="mw-redirect" title="光符「Guse Flash」">光符「Guse Flash」</a>
+<p><a href="./光符「Guse_Flash」.md" class="mw-redirect" title="光符「Guse Flash」">光符「Guse Flash」</a>
 </p>
 </th></tr></tbody></table>
+
 
 
 #### 符卡信息
@@ -358,6 +370,7 @@
 
 
 
+
 ### SPELLCARD 6
 
 <table>
@@ -371,7 +384,7 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="/%E7%9C%BC%E5%85%89%E3%80%8C%E5%8D%81%E4%B8%83%E6%9D%A1%E7%9A%84%E5%85%89%E8%8A%92%E3%80%8D" class="mw-redirect" title="眼光「十七条的光芒」">眼光「十七条的光芒」</a>
+<p><a href="./眼光「十七条的光芒」.md" class="mw-redirect" title="眼光「十七条的光芒」">眼光「十七条的光芒」</a>
 </p>
 </th></tr>
 <tr>
@@ -382,9 +395,10 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="/%E7%A5%9E%E5%85%89%E3%80%8C%E6%97%A0%E5%BF%A4%E4%B8%BA%E5%AE%97%E3%80%8D" class="mw-redirect" title="神光「无忤为宗」">神光「无忤为宗」</a>
+<p><a href="./神光「无忤为宗」.md" class="mw-redirect" title="神光「无忤为宗」">神光「无忤为宗」</a>
 </p>
 </th></tr></tbody></table>
+
 
 
 #### 符卡信息
@@ -414,6 +428,7 @@
 
 
 
+
 ### SPELLCARD 7
 
 <table>
@@ -427,7 +442,7 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="/%E3%80%8C%E6%98%9F%E8%BE%B0%E9%99%8D%E8%90%BD%E7%9A%84%E7%A5%9E%E7%81%B5%E5%BA%99%E3%80%8D" class="mw-redirect" title="「星辰降落的神灵庙」">「星辰降落的神灵庙」</a>
+<p><a href="./「星辰降落的神灵庙」.md" class="mw-redirect" title="「星辰降落的神灵庙」">「星辰降落的神灵庙」</a>
 </p>
 </th></tr>
 <tr>
@@ -438,9 +453,10 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="/%E3%80%8C%E6%96%B0%E7%94%9F%E7%9A%84%E7%A5%9E%E7%81%B5%E3%80%8D" class="mw-redirect" title="「新生的神灵」">「新生的神灵」</a>
+<p><a href="./「新生的神灵」.md" class="mw-redirect" title="「新生的神灵」">「新生的神灵」</a>
 </p>
 </th></tr></tbody></table>
+
 
 
 #### 符卡信息
@@ -492,11 +508,12 @@
 
 
 
+
 ## 导航
   
   
 
-<table><tbody><tr><td><table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;;;"><tbody><tr><th style=";" colspan="3" class="navbox-title"><div class="navbar"><div class="noprint plainlinksneverexpand" style="background-color:transparent; padding:0; font-weight:normal; font-size:80%; white-space:nowrap;"><a href="./模板-东方神灵庙导航.md" title="模板:东方神灵庙导航"><span style=";;border:none;" title="查看这个模板">查</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<a href="/index.php?title=%E6%A8%A1%E6%9D%BF:%E4%B8%9C%E6%96%B9%E7%A5%9E%E7%81%B5%E5%BA%99%E5%AF%BC%E8%88%AA&amp;action=edit"><span style=";;border:none;" title="您可以编辑这个模板。请在储存变更之前先预览">编</span></a></div></div><span><a href="./东方神灵庙.md" title="东方神灵庙">东方神灵庙</a></span></th></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">角色</td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>自机</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a> &#8226; <a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a> &#8226; <a href="./东风谷早苗.md" title="东风谷早苗">东风谷早苗</a> &#8226; <a href="./魂魄妖梦.md" title="魂魄妖梦">魂魄妖梦</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>BOSS</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="/%E4%B8%9C%E6%96%B9%E7%A5%9E%E7%81%B5%E5%BA%99/%E5%85%B6%E4%BB%96%E8%A7%92%E8%89%B2#一面道中" title="东方神灵庙/其他角色">一面道中</a> &#8226; <a href="./西行寺幽幽子.md" title="西行寺幽幽子">西行寺幽幽子</a> &#8226; <a href="./幽谷响子.md" title="幽谷响子">幽谷响子</a> &#8226; <a href="./多多良小伞.md" title="多多良小伞">多多良小伞</a> &#8226; <a href="./宫古芳香.md" title="宫古芳香">宫古芳香</a> &#8226; <a href="./霍青娥.md" title="霍青娥">霍青娥</a> &#8226; <a href="./苏我屠自古.md" title="苏我屠自古">苏我屠自古</a> &#8226; <a href="./物部布都.md" title="物部布都">物部布都</a> &#8226; <a href="./丰聪耳神子.md" title="丰聪耳神子">丰聪耳神子</a> &#8226; <a href="./封兽鵺.md" title="封兽鵺">封兽鵺</a> &#8226; <a href="./二岩猯藏.md" title="二岩猯藏">二岩猯藏</a></div></td></tr></tbody></table><div></div></td><td class="navbox-image" style="" rowspan="11"><a href="./文件-神灵庙载入界面.jpg.md" class="image"><img alt="神灵庙载入界面.jpg" src="https://upload.thwiki.cc/thumb/1/1f/%E7%A5%9E%E7%81%B5%E5%BA%99%E8%BD%BD%E5%85%A5%E7%95%8C%E9%9D%A2.jpg/160px-%E7%A5%9E%E7%81%B5%E5%BA%99%E8%BD%BD%E5%85%A5%E7%95%8C%E9%9D%A2.jpg" decoding="async" loading="lazy" width="160" height="120" srcset="https://upload.thwiki.cc/thumb/1/1f/%E7%A5%9E%E7%81%B5%E5%BA%99%E8%BD%BD%E5%85%A5%E7%95%8C%E9%9D%A2.jpg/240px-%E7%A5%9E%E7%81%B5%E5%BA%99%E8%BD%BD%E5%85%A5%E7%95%8C%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/1/1f/%E7%A5%9E%E7%81%B5%E5%BA%99%E8%BD%BD%E5%85%A5%E7%95%8C%E9%9D%A2.jpg/320px-%E7%A5%9E%E7%81%B5%E5%BA%99%E8%BD%BD%E5%85%A5%E7%95%8C%E9%9D%A2.jpg 2x" data-file-width="640" data-file-height="480"></a></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">剧情</td><td style=";;" class="navbox-list navbox-even"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>剧情文本</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="/%E6%B8%B8%E6%88%8F%E5%AF%B9%E8%AF%9D:%E4%B8%9C%E6%96%B9%E7%A5%9E%E7%81%B5%E5%BA%99/%E6%95%85%E4%BA%8B%E8%83%8C%E6%99%AF" class="mw-redirect" title="游戏对话:东方神灵庙/故事背景">故事背景</a> &#8226; <a href="/%E9%99%84%E5%B8%A6%E6%96%87%E6%A1%A3:%E4%B8%9C%E6%96%B9%E7%A5%9E%E7%81%B5%E5%BA%99/%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%26ExStory#Extra_Story" title="附带文档:东方神灵庙/角色设定&amp;ExStory">EX 故事背景</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>游戏对话&amp;结局</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./游戏对话-东方神灵庙-博丽灵梦.md" title="游戏对话:东方神灵庙/博丽灵梦">博丽灵梦</a> &#8226; <a href="./游戏对话-东方神灵庙-雾雨魔理沙.md" title="游戏对话:东方神灵庙/雾雨魔理沙">雾雨魔理沙</a> &#8226; <a href="./游戏对话-东方神灵庙-东风谷早苗.md" title="游戏对话:东方神灵庙/东风谷早苗">东风谷早苗</a> &#8226; <a href="./游戏对话-东方神灵庙-魂魄妖梦.md" title="游戏对话:东方神灵庙/魂魄妖梦">魂魄妖梦</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>Ex游戏对话</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./游戏对话-东方神灵庙-博丽灵梦_ExStory.md" title="游戏对话:东方神灵庙/博丽灵梦 ExStory">博丽灵梦</a> &#8226; <a href="./游戏对话-东方神灵庙-雾雨魔理沙_ExStory.md" title="游戏对话:东方神灵庙/雾雨魔理沙 ExStory">雾雨魔理沙</a> &#8226; <a href="./游戏对话-东方神灵庙-东风谷早苗_ExStory.md" title="游戏对话:东方神灵庙/东风谷早苗 ExStory">东风谷早苗</a> &#8226; <a href="./游戏对话-东方神灵庙-魂魄妖梦_ExStory.md" title="游戏对话:东方神灵庙/魂魄妖梦 ExStory">魂魄妖梦</a></div></td></tr></tbody></table><div></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">场景</td><td style=";;" class="navbox-list navbox-odd"><div><a href="./冥界.md" title="冥界">夜樱的冥界</a> &#8226; <a href="/%E5%91%BD%E8%8E%B2%E5%AF%BA#命莲寺参拜道" title="命莲寺">命莲寺参拜道</a> &#8226; <a href="/%E5%91%BD%E8%8E%B2%E5%AF%BA#命莲寺墓地" title="命莲寺">命莲寺墓地</a> &#8226; <a href="./梦殿大祀庙（场景）.md" title="梦殿大祀庙（场景）">梦殿大祀庙</a> &#8226; <a href="./神灵庙（场景）.md" title="神灵庙（场景）">神灵庙</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">音乐</td><td style=";;" class="navbox-list navbox-even"><div><a href="./东方神灵庙-Music.md" title="东方神灵庙/Music">Music Room</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="/%E4%B8%9C%E6%96%B9%E7%A5%9E%E7%81%B5%E5%BA%99#附带文档" title="东方神灵庙">附带文档</a></td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>体验版</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./附带文档-东方神灵庙体验版-Omake.md" title="附带文档:东方神灵庙体验版/Omake">Omake</a>  &#8226; <a href="./附带文档-东方神灵庙体验版-Readme.md" title="附带文档:东方神灵庙体验版/Readme">Readme</a> &#8226; <a href="/%E9%99%84%E5%B8%A6%E6%96%87%E6%A1%A3:%E4%B8%9C%E6%96%B9%E7%A5%9E%E7%81%B5%E5%BA%99%E4%BD%93%E9%AA%8C%E7%89%88/%E6%B8%B8%E6%88%8F%E5%86%85Manual" class="mw-redirect" title="附带文档:东方神灵庙体验版/游戏内Manual">游戏内Manual</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>正式版</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./附带文档-东方神灵庙-Manual.md" title="附带文档:东方神灵庙/Manual">Manual</a> &#8226; <a href="./附带文档-东方神灵庙-角色设定&ExStory.md" title="附带文档:东方神灵庙/角色设定&amp;ExStory">角色设定&amp;ExStory</a> &#8226; <a href="./附带文档-东方神灵庙-Omake.md" title="附带文档:东方神灵庙/Omake">Omake</a>  &#8226; <a href="./附带文档-东方神灵庙-Readme.md" title="附带文档:东方神灵庙/Readme">Readme</a> &#8226; <a href="./附带文档-东方神灵庙-游戏内Manual.md" title="附带文档:东方神灵庙/游戏内Manual">游戏内Manual</a> &#8226; <a href="./附带文档-东方神灵庙-光盘说明书.md" title="附带文档:东方神灵庙/光盘说明书">光盘说明书</a></div></td></tr></tbody></table><div></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="./东方神灵庙.md" title="东方神灵庙">符卡</a></td><td style=";;" class="navbox-list navbox-even"><div><a href="./东方神灵庙-Stage_1.md" title="东方神灵庙/Stage 1">Stage 1</a> &#8226; <a href="./东方神灵庙-Stage_2.md" title="东方神灵庙/Stage 2">Stage 2</a> &#8226; <a href="./东方神灵庙-Stage_3.md" title="东方神灵庙/Stage 3">Stage 3</a> &#8226; <a href="./东方神灵庙-Stage_4.md" title="东方神灵庙/Stage 4">Stage 4</a> &#8226; <a href="./东方神灵庙-Stage_5.md" title="东方神灵庙/Stage 5">Stage 5</a> &#8226; <a class="mw-selflink selflink">Stage 6</a> &#8226; <a href="./东方神灵庙-Extra.md" title="东方神灵庙/Extra">Extra</a></div></td></tr></tbody></table></td></tr></tbody></table>
+<table><tbody><tr><td><table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;;;"><tbody><tr><th style=";" colspan="3" class="navbox-title"><div class="navbar"><div class="noprint plainlinksneverexpand" style="background-color:transparent; padding:0; font-weight:normal; font-size:80%; white-space:nowrap;"><a href="./模板-东方神灵庙导航.md" title="模板:东方神灵庙导航"><span style=";;border:none;" title="查看这个模板">查</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<a href="/index.php?title=%E6%A8%A1%E6%9D%BF:%E4%B8%9C%E6%96%B9%E7%A5%9E%E7%81%B5%E5%BA%99%E5%AF%BC%E8%88%AA&amp;action=edit"><span style=";;border:none;" title="您可以编辑这个模板。请在储存变更之前先预览">编</span></a></div></div><span><a href="./东方神灵庙.md" title="东方神灵庙">东方神灵庙</a></span></th></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">角色</td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>自机</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a> &#8226; <a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a> &#8226; <a href="./东风谷早苗.md" title="东风谷早苗">东风谷早苗</a> &#8226; <a href="./魂魄妖梦.md" title="魂魄妖梦">魂魄妖梦</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>BOSS</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="/%E4%B8%9C%E6%96%B9%E7%A5%9E%E7%81%B5%E5%BA%99/%E5%85%B6%E4%BB%96%E8%A7%92%E8%89%B2#一面道中" title="东方神灵庙/其他角色">一面道中</a> &#8226; <a href="./西行寺幽幽子.md" title="西行寺幽幽子">西行寺幽幽子</a> &#8226; <a href="./幽谷响子.md" title="幽谷响子">幽谷响子</a> &#8226; <a href="./多多良小伞.md" title="多多良小伞">多多良小伞</a> &#8226; <a href="./宫古芳香.md" title="宫古芳香">宫古芳香</a> &#8226; <a href="./霍青娥.md" title="霍青娥">霍青娥</a> &#8226; <a href="./苏我屠自古.md" title="苏我屠自古">苏我屠自古</a> &#8226; <a href="./物部布都.md" title="物部布都">物部布都</a> &#8226; <a href="./丰聪耳神子.md" title="丰聪耳神子">丰聪耳神子</a> &#8226; <a href="./封兽鵺.md" title="封兽鵺">封兽鵺</a> &#8226; <a href="./二岩猯藏.md" title="二岩猯藏">二岩猯藏</a></div></td></tr></tbody></table><div></div></td><td class="navbox-image" style="" rowspan="11"><a href="./文件-神灵庙载入界面.jpg.md" class="image"><img alt="神灵庙载入界面.jpg" src="https://upload.thwiki.cc/thumb/1/1f/%E7%A5%9E%E7%81%B5%E5%BA%99%E8%BD%BD%E5%85%A5%E7%95%8C%E9%9D%A2.jpg/160px-%E7%A5%9E%E7%81%B5%E5%BA%99%E8%BD%BD%E5%85%A5%E7%95%8C%E9%9D%A2.jpg" decoding="async" loading="lazy" width="160" height="120" srcset="https://upload.thwiki.cc/thumb/1/1f/%E7%A5%9E%E7%81%B5%E5%BA%99%E8%BD%BD%E5%85%A5%E7%95%8C%E9%9D%A2.jpg/240px-%E7%A5%9E%E7%81%B5%E5%BA%99%E8%BD%BD%E5%85%A5%E7%95%8C%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/1/1f/%E7%A5%9E%E7%81%B5%E5%BA%99%E8%BD%BD%E5%85%A5%E7%95%8C%E9%9D%A2.jpg/320px-%E7%A5%9E%E7%81%B5%E5%BA%99%E8%BD%BD%E5%85%A5%E7%95%8C%E9%9D%A2.jpg 2x" data-file-width="640" data-file-height="480"></a></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">剧情</td><td style=";;" class="navbox-list navbox-even"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>剧情文本</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./游戏对话-东方神灵庙-故事背景.md#故事背景" class="mw-redirect" title="游戏对话:东方神灵庙/故事背景">故事背景</a> &#8226; <a href="/%E9%99%84%E5%B8%A6%E6%96%87%E6%A1%A3:%E4%B8%9C%E6%96%B9%E7%A5%9E%E7%81%B5%E5%BA%99/%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%26ExStory#Extra_Story" title="附带文档:东方神灵庙/角色设定&amp;ExStory">EX 故事背景</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>游戏对话&amp;结局</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./游戏对话-东方神灵庙-博丽灵梦.md" title="游戏对话:东方神灵庙/博丽灵梦">博丽灵梦</a> &#8226; <a href="./游戏对话-东方神灵庙-雾雨魔理沙.md" title="游戏对话:东方神灵庙/雾雨魔理沙">雾雨魔理沙</a> &#8226; <a href="./游戏对话-东方神灵庙-东风谷早苗.md" title="游戏对话:东方神灵庙/东风谷早苗">东风谷早苗</a> &#8226; <a href="./游戏对话-东方神灵庙-魂魄妖梦.md" title="游戏对话:东方神灵庙/魂魄妖梦">魂魄妖梦</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>Ex游戏对话</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./游戏对话-东方神灵庙-博丽灵梦_ExStory.md" title="游戏对话:东方神灵庙/博丽灵梦 ExStory">博丽灵梦</a> &#8226; <a href="./游戏对话-东方神灵庙-雾雨魔理沙_ExStory.md" title="游戏对话:东方神灵庙/雾雨魔理沙 ExStory">雾雨魔理沙</a> &#8226; <a href="./游戏对话-东方神灵庙-东风谷早苗_ExStory.md" title="游戏对话:东方神灵庙/东风谷早苗 ExStory">东风谷早苗</a> &#8226; <a href="./游戏对话-东方神灵庙-魂魄妖梦_ExStory.md" title="游戏对话:东方神灵庙/魂魄妖梦 ExStory">魂魄妖梦</a></div></td></tr></tbody></table><div></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">场景</td><td style=";;" class="navbox-list navbox-odd"><div><a href="./冥界.md" title="冥界">夜樱的冥界</a> &#8226; <a href="/%E5%91%BD%E8%8E%B2%E5%AF%BA#命莲寺参拜道" title="命莲寺">命莲寺参拜道</a> &#8226; <a href="/%E5%91%BD%E8%8E%B2%E5%AF%BA#命莲寺墓地" title="命莲寺">命莲寺墓地</a> &#8226; <a href="./梦殿大祀庙（场景）.md" title="梦殿大祀庙（场景）">梦殿大祀庙</a> &#8226; <a href="./神灵庙（场景）.md" title="神灵庙（场景）">神灵庙</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">音乐</td><td style=";;" class="navbox-list navbox-even"><div><a href="./东方神灵庙-Music.md" title="东方神灵庙/Music">Music Room</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="/%E4%B8%9C%E6%96%B9%E7%A5%9E%E7%81%B5%E5%BA%99#附带文档" title="东方神灵庙">附带文档</a></td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>体验版</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./附带文档-东方神灵庙体验版-Omake.md" title="附带文档:东方神灵庙体验版/Omake">Omake</a>  &#8226; <a href="./附带文档-东方神灵庙体验版-Readme.md" title="附带文档:东方神灵庙体验版/Readme">Readme</a> &#8226; <a href="./附带文档-东方神灵庙体验版-游戏内Manual.md" class="mw-redirect" title="附带文档:东方神灵庙体验版/游戏内Manual">游戏内Manual</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>正式版</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./附带文档-东方神灵庙-Manual.md" title="附带文档:东方神灵庙/Manual">Manual</a> &#8226; <a href="./附带文档-东方神灵庙-角色设定&ExStory.md" title="附带文档:东方神灵庙/角色设定&amp;ExStory">角色设定&amp;ExStory</a> &#8226; <a href="./附带文档-东方神灵庙-Omake.md" title="附带文档:东方神灵庙/Omake">Omake</a>  &#8226; <a href="./附带文档-东方神灵庙-Readme.md" title="附带文档:东方神灵庙/Readme">Readme</a> &#8226; <a href="./附带文档-东方神灵庙-游戏内Manual.md" title="附带文档:东方神灵庙/游戏内Manual">游戏内Manual</a> &#8226; <a href="./附带文档-东方神灵庙-光盘说明书.md" title="附带文档:东方神灵庙/光盘说明书">光盘说明书</a></div></td></tr></tbody></table><div></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="./东方神灵庙.md" title="东方神灵庙">符卡</a></td><td style=";;" class="navbox-list navbox-even"><div><a href="./东方神灵庙-Stage_1.md" title="东方神灵庙/Stage 1">Stage 1</a> &#8226; <a href="./东方神灵庙-Stage_2.md" title="东方神灵庙/Stage 2">Stage 2</a> &#8226; <a href="./东方神灵庙-Stage_3.md" title="东方神灵庙/Stage 3">Stage 3</a> &#8226; <a href="./东方神灵庙-Stage_4.md" title="东方神灵庙/Stage 4">Stage 4</a> &#8226; <a href="./东方神灵庙-Stage_5.md" title="东方神灵庙/Stage 5">Stage 5</a> &#8226; <a class="mw-selflink selflink">Stage 6</a> &#8226; <a href="./东方神灵庙-Extra.md" title="东方神灵庙/Extra">Extra</a></div></td></tr></tbody></table></td></tr></tbody></table>
 
 
 

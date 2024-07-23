@@ -169,6 +169,7 @@ AvalonStudioOfficial
 [](./文件-THD2琪露诺.png.md)
   
 
+
 ## 目录
 
 - [1 角色定位](#角色定位)
@@ -188,10 +189,12 @@ AvalonStudioOfficial
 
 
 
+
 ## 角色定位
   
 耐久 - 控制 - 先手
   
+
 
 ## 技能介绍
 
@@ -669,6 +672,7 @@ AvalonStudioOfficial
 </td></tr></tbody></table>
 
 
+
 ## 天赋树
 
 
@@ -707,25 +711,30 @@ AvalonStudioOfficial
 </td></tr></tbody></table>
 
 
+
 ### 出门装备
 ```
 [](./文件-THD2鬼天王腰带.png.md) [](./文件-THD2衰人卡.png.md) [](./文件-THD2思兼生命药.png.md) [](./文件-THD2雾雨魔力瓶.png.md)
 ```
+
 
 ### 前期装备
 ```
 [](./文件-THD2魔法使扫把.png.md) [](./文件-THD2很值钱的礼物.png.md) [](./文件-THD2闪耀的宝玉.png.md)
 ```
 
+
 ### 核心装备
 ```
 [](./文件-THD2格斗扫把.png.md) [](./文件-THD2奇迹之星.png.md)
 ```
 
+
 ### 可选装备
 ```
 [](./文件-THD2念缚灵的船勾.png.md) [](./文件-THD2元素秘法石.png.md) [](./文件-THD2十字架.png.md) [](./文件-THD2恶魔的乳牙.png.md) [](./文件-THD2神枪冈格尼尔.png.md) [](./文件-THD2花之领主阳伞.png.md) [](./文件-THD2花毒的连衣裙.png.md) [](./文件-THD2真澄之镜.png.md) [](./文件-THD2死神之大镰刀.png.md) [](./文件-THD2八云间隙发生器.png.md) [](./文件-THD2红魔火箭1级.png.md) [](./文件-THD2速融的核聚变棒.png.md)
 ```
+
 
 ## 技能加点
 
@@ -871,6 +880,7 @@ AvalonStudioOfficial
 <td bgcolor="black" width="40px"><span style="color:black;"></span></td>
 <td bgcolor="gray" width="40px"><center><span style="color:white;"><b>25</b></span></center>
 </td></tr></tbody></table>
+
 
 
 ## 教学视频

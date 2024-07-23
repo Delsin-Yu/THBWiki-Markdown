@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-KARAKASA_ART_BOOK封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/5/58/KARAKASA_ART_BOOK%E5%B0%81%E9%9D%A2.jpg/160px-KARAKASA_ART_BOOK%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="160" height="224" srcset="https://upload.thwiki.cc/thumb/5/58/KARAKASA_ART_BOOK%E5%B0%81%E9%9D%A2.jpg/240px-KARAKASA_ART_BOOK%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/5/58/KARAKASA_ART_BOOK%E5%B0%81%E9%9D%A2.jpg/321px-KARAKASA_ART_BOOK%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="859" data-file-height="1200"></a><div class="cover-char">角色：<a href="./多多良小伞.md" title="多多良小伞">多多良小伞</a></div></td>
@@ -18,9 +19,12 @@ KARAKASA ART BOOK（同人志，crabeggdio，2022） - 2022年10月23日 由 cra
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=1682351">蜜瓜</a></td></tr></tbody></table>
 
 
+
 ## 预览
+
 ## Staff
 - カニトキタマゴ (未找到链接)
+
 
 ## 评论
 

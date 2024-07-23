@@ -9,6 +9,7 @@
 
   
 
+
 ## 目录
 
 - [1 游戏内标题及说明文字](#游戏内标题及说明文字)
@@ -20,6 +21,7 @@
 
 
 - [4 词条导航](#词条导航)
+
 
 
 
@@ -95,17 +97,21 @@
 </td></tr></tbody></table>
 
 
+
 ## ED和Staff
 
 <table><tbody><tr class="tt-content" id="ED和Staff-1" data-pos="&#91;&quot;ED\u548cStaff&quot;,1&#93;"><td class="tt-ja" lang="ja"><div class="poem"><center>遊んでくれた貴方の人生が<br>眩しく輝きますように<br>Thank you for playing!</center></div></td><td class="tt-zh" lang="zh"><div class="poem"><center>愿玩了这个游戏的你的人生<br>发出耀眼的光芒<br>Thank you for playing!</center></div></td></tr></tbody></table>
 
 
+
 ## 其他细节
+
 ### 背景图片
   
 ……同人游戏用得着写这东西吗？
 ……好像不用（
   
+
 
 ## 词条导航
   

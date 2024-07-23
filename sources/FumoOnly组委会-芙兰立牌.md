@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **相关实体周边 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 周边信息](#周边信息)
@@ -21,20 +22,25 @@
 
 
 
+
 ## 周边信息
 
 <table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 芙兰立牌 </td></tr><tr><td class="label">制作方</td><td><a href="./FumoOnly组委会.md" title="FumoOnly组委会">FumoOnly组委会</a></td></tr><tr><td class="label">首发日期</td><td>2023-07-22&#160;（<a href="/展会作品列表?e=%E4%B8%9C%E6%96%B9%E5%8D%8E%E6%9C%88%E5%AE%B4%C2%B7%E6%A7%90%E5%BA%8F%E7%BB%AE%E6%83%B3%237">鄭州THO-東方夕夜花</a>）</td></tr><tr><td class="label">类型</td><td>立牌</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">角色</td><td><a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a></td></tr><tr><td class="label">售价</td><td>20人民币</td></tr></tbody></table>
 
 FumoOnly组委会/芙兰立牌（周边，FumoOnly组委会，2023） - 2023年7月22日 由 FumoOnly组委会 于 东方华月宴·槐序绮想7 发布的立牌周边，分级为 一般向
+
 ## 参考图
   
 周边宣传、售卖时使用的作为参考图的预览图或实物图的图片。
   
 
+
 ### 预览图
 - [](./文件-FumoOnly组委会／芙兰立牌预览图1.jpg.md)
 
+
 ## Staff
+
 ## 评论
 
 

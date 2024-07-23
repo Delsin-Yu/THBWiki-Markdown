@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-姉妹LoveLevel！封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/5/51/%E5%A7%89%E5%A6%B9LoveLevel%EF%BC%81%E5%B0%81%E9%9D%A2.jpg/138px-%E5%A7%89%E5%A6%B9LoveLevel%EF%BC%81%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="138" height="196" srcset="https://upload.thwiki.cc/thumb/5/51/%E5%A7%89%E5%A6%B9LoveLevel%EF%BC%81%E5%B0%81%E9%9D%A2.jpg/207px-%E5%A7%89%E5%A6%B9LoveLevel%EF%BC%81%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/5/51/%E5%A7%89%E5%A6%B9LoveLevel%EF%BC%81%E5%B0%81%E9%9D%A2.jpg/276px-%E5%A7%89%E5%A6%B9LoveLevel%EF%BC%81%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="532" data-file-height="755"></a><div class="cover-char">角色：<a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a>，<a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a>，<a href="./古明地觉.md" title="古明地觉">古明地觉</a>，<a href="./古明地恋.md" title="古明地恋">古明地恋</a></div></td>
@@ -18,14 +19,17 @@
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=545492">蜜瓜（含特典）</a>，<a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=539909">蜜瓜（含特典签名板）</a></td></tr></tbody></table>
 
 
+
 ## 特典
 - 特典版：文件夹、签名板（メロンブックス委托限定）  
 特典版：クリアファイル、色紙(メロンブックス委託のみ)
 
 - [](./文件-姉妹LoveLevel！文件夹.jpg.md)クリアファイル- [](./文件-姉妹LoveLevel！签名板.jpg.md)色紙
 
+
 ## Staff
 - [ノヤマコト](./ノヤマコト.md)
+
 
 ## 评论
 

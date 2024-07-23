@@ -4,7 +4,8 @@
 
 Phantasm Harmony ，主要制作 同人音乐 的日本同人社团，主催是 backdoor，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -20,23 +21,28 @@ Phantasm Harmony ，主要制作 同人音乐 的日本同人社团，主催是 
 
 
 
+
 ## 社团信息
 文件:Phantasm Harmonybanner.jpg (未找到链接)  banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Phantasm Harmony </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="./back_door.md" title="back door" unred="">backdoor</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="https://phantasmharmony.wixsite.com/phantasm-harmony">https://phantasmharmony.wixsite.com/phantasm-harmony</a> </td></tr></tbody></table>
 
 Phantasm Harmony（同人社团，同人音乐社团） - Phantasm Harmony ，主要制作 同人音乐 的日本同人社团，主催是 backdoor，当前状态为 活动
+
 ## 成员名单
 - [backdoor](./back_door.md)
 - ふぁ～ふぁ (未找到链接) （[Twitter：fa_ffa2525](https://twitter.com/fa_ffa2525)）
 
+
 ## 作品列表
+
 ### 同人专辑
 [](./BAT_ER_FLY.md)[BAT ER FLY](./BAT_ER_FLY.md)首发日期：未知 EP （一般向）[](./PERMANENT_MOON.md)[PERMANENT MOON](./PERMANENT_MOON.md)首发日期：2016-10-09 （東方紅楼夢12 (未找到链接)）全长 （一般向）
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 其他信息

@@ -9,6 +9,7 @@
 
   
 
+
 ## 目录
 
 - [1 元素爆发](#元素爆发)
@@ -24,10 +25,13 @@
 
 
 
+
 ## 元素爆发
+
 ### 属性：水
 
 <table><tbody><tr class="tt-content" id="属性：水-1" data-pos="&#91;&quot;\u5c5e\u6027\uff1a\u6c34&quot;,1&#93;"><td class="tt-ja" lang="ja"><div class="poem">Elemental Burst: "Distant Sea Barrier"<br>Duration: 10 seconds</div></td><td class="tt-zh" lang="zh"><div class="poem">元素爆发：“远海结界”<br>持续时间：10秒</div></td></tr><tr class="tt-content" id="属性：水-2" data-pos="&#91;&quot;\u5c5e\u6027\uff1a\u6c34&quot;,2&#93;"><td class="tt-ja" lang="ja"><div class="poem">Allows to get hit once without any death penalty <br>for the entire duration of the Elemental Burst.</div></td><td class="tt-zh" lang="zh"><div class="poem">在元素爆发的全过程中，<br>允许一次中弹而不损失残机。<br></div></td></tr></tbody></table>
+
 
 
 ### 属性：火
@@ -35,9 +39,11 @@
 <table><tbody><tr class="tt-content" id="属性：火-1" data-pos="&#91;&quot;\u5c5e\u6027\uff1a\u706b&quot;,1&#93;"><td class="tt-ja" lang="ja"><div class="poem">Elemental Burst: "Inferno Overdrive"<br>Duration: 10 seconds</div></td><td class="tt-zh" lang="zh"><div class="poem">元素爆发：“狱炎驱动”<br>持续时间：10秒</div></td></tr><tr class="tt-content" id="属性：火-2" data-pos="&#91;&quot;\u5c5e\u6027\uff1a\u706b&quot;,2&#93;"><td class="tt-ja" lang="ja"><div class="poem">Grants extra options to add firepower around you<br>for the entire duration of the Elemental Burst.</div></td><td class="tt-zh" lang="zh"><div class="poem">在元素爆发的全过程中，<br>在自机周围提供额外子机增加火力。<br></div></td></tr></tbody></table>
 
 
+
 ### 属性：木
 
 <table><tbody><tr class="tt-content" id="属性：木-1" data-pos="&#91;&quot;\u5c5e\u6027\uff1a\u6728&quot;,1&#93;"><td class="tt-ja" lang="ja"><div class="poem">Elemental Burst: "Death Garden Overgrowth"<br>Duration: 15 seconds</div></td><td class="tt-zh" lang="zh"><div class="poem">元素爆发：“死苑蔓生”<br>持续时间：15秒</div></td></tr><tr class="tt-content" id="属性：木-2" data-pos="&#91;&quot;\u5c5e\u6027\uff1a\u6728&quot;,2&#93;"><td class="tt-ja" lang="ja"><div class="poem">Increases movement speed, Auto-Collects items.<br>Orb Item Value can be increased by grazing<br>for the entire duration of the Elemental Burst.</div></td><td class="tt-zh" lang="zh"><div class="poem">提升移动速度，自动回收道具。<br>在元素爆发的全过程中，<br>可以通过擦弹增加最大得点的上限。<br></div></td></tr></tbody></table>
+
 
 
 ## 词条导航

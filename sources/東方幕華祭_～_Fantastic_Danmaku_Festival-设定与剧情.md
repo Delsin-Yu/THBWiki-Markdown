@@ -4,9 +4,11 @@
 
 东方幕华祭制作组
 
+
 ## 故事背景
 - [故事背景](./東方幕華祭_～_Fantastic_Danmaku_Festival-设定与剧情-故事背景.md)
 - Ex 故事背景 (未找到链接)
+
 
 ## 游戏对话
 - [博丽灵梦 游戏对话/结局](./東方幕華祭_～_Fantastic_Danmaku_Festival-设定与剧情-Route1.md)
@@ -18,6 +20,7 @@
 - 雾雨魔理沙 Extra游戏对话 (未找到链接)
 - 东风谷早苗 Extra游戏对话 (未找到链接)
 - 帕秋莉诺蕾姬 Extra游戏对话 (未找到链接)
+
 
 ## 附带文档
 - [Omake](./東方幕華祭_～_Fantastic_Danmaku_Festival-设定与剧情-Omake.md)

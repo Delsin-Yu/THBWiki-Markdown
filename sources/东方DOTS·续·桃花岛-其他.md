@@ -4,6 +4,7 @@
 
 东方DOTS玩家社群
 
+
 ##### 人人模式聊天指令
 
 <table>
@@ -127,6 +128,7 @@
 </td></tr></tbody></table>
 
 
+
 ##### 人机模式聊天指令
 
 <table>
@@ -212,6 +214,7 @@
 <td>-undota</td>
 <td>关闭DOTA英雄乱入
 </td></tr></tbody></table>
+
 
 
 ##### 通用聊天指令

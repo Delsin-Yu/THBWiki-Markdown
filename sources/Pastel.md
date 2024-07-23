@@ -6,17 +6,21 @@
 
 本页是关于东方Project  
  **二次同人创作者** 的词条
+
 ## 基本信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="label"><b>名称</b></td><td> Pastel </td></tr><tr><td class="label"><b>所属社团</b></td><td><b>当前</b><div style="margin-left:2em;">Color＆Color＋</div></td></tr><tr><td class="label"><b>职位</b></td><td>编曲</td></tr><tr><td class="label"><b>参与社团</b></td><td><a href="./Color＆Color＋.md" title="Color＆Color＋">Color＆Color＋</a> （编曲）</td></tr><tr><td class="label"><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://colorcolor.sakura.ne.jp/plus/">http://colorcolor.sakura.ne.jp/plus/</a></td></tr><tr><td class="label"><b>个人页面</b></td><td><table border="0" cellspacing="0" cellpadding="0"></table></td></tr></tbody></table>
 
 Pastel（人物） - 现实人物
+
 ## 介绍
+
 ## 参与作品
   
 [虹色パレット](./虹色パレット.md)
 [虹色キャンバス](./虹色キャンバス.md)
   
+
 
 ### 同人音乐
   

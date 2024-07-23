@@ -18,6 +18,7 @@
 
 
 </center>
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-I.N.D.封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/0/0a/I.N.D.%E5%B0%81%E9%9D%A2.jpg/224px-I.N.D.%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="115" srcset="https://upload.thwiki.cc/thumb/0/0a/I.N.D.%E5%B0%81%E9%9D%A2.jpg/336px-I.N.D.%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/0/0a/I.N.D.%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="422" data-file-height="217"></a></td>
@@ -26,6 +27,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://d.hatena.ne.jp/nekoyora/20140731/1406783946">http://d.hatena.ne.jp/nekoyora/20140731/1406783946</a></td></tr></tbody></table>
 
 I.N.D.（同人专辑，(空)がたらくぽんほ，2014） - 2014年8月16日 由 (空)がたらくぽんほ 于 Comic Market 86 发布的EP同人专辑，分级为 一般向
+
 ## Staff
   
  **Compose**   
@@ -33,11 +35,13 @@ I.N.D.（同人专辑，(空)がたらくぽんほ，2014） - 2014年8月16日 
 <table><tbody><tr><td><a href="./(空)がたらくぽんほ.md" title="(空)がたらくぽんほ">(空)がたらくぽんほ</a></td><td></td><td>Tr.1-3</td></tr></tbody></table>
 
 
+
 ## 曲目列表
 
 <table><tbody><tr><td id="1" class="infoYL"><b>01</b></td><td id="陰手愚羅累の悟" colspan="2" class="title">陰手愚羅累の悟<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=(空)がたらくぽんほ&amp;fromwiki=I.N.D."><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./(空)がたらくぽんほ.md" title="(空)がたらくぽんほ">(空)がたらくぽんほ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，(空)がたらくぽんほ&amp;fromwiki=I.N.D."><span></span></a></span></td></tr>
 <tr><td id="2" class="infoYL"><b>02</b></td><td id="緩の郷" colspan="2" class="title">緩の郷<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=(空)がたらくぽんほ&amp;fromwiki=I.N.D."><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./(空)がたらくぽんほ.md" title="(空)がたらくぽんほ">(空)がたらくぽんほ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，(空)がたらくぽんほ&amp;fromwiki=I.N.D."><span></span></a></span></td></tr>
 <tr><td id="3" class="infoYL"><b>03</b></td><td id="大刃而炎斗の妖怪少女。" colspan="2" class="title">大刃而炎斗の妖怪少女。<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=(空)がたらくぽんほ&amp;fromwiki=I.N.D."><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./(空)がたらくぽんほ.md" title="(空)がたらくぽんほ">(空)がたらくぽんほ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，(空)がたらくぽんほ&amp;fromwiki=I.N.D."><span></span></a></span></td></tr></tbody></table>
+
 
 
 ## 评论

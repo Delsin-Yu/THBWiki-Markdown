@@ -4,7 +4,8 @@
 
 SWAY WIND ，主要制作 同人志 的日本同人社团，主催是 TOKIAME，当前状态为 转入非东方
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -20,6 +21,7 @@ SWAY WIND ，主要制作 同人志 的日本同人社团，主催是 TOKIAME，
 
 
 
+
 ## 社团信息
 [](./文件-SWAY_WIND_banner.gif.md)  [](./文件-SWAY_WIND_banner.gif.md)Banner 1
 [](./文件-SWAY_WIND_banner_2.gif.md)  [](./文件-SWAY_WIND_banner_2.gif.md)Banner 2
@@ -27,10 +29,13 @@ SWAY WIND ，主要制作 同人志 的日本同人社团，主催是 TOKIAME，
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> SWAY WIND </td></tr><tr><td><b>主要作品类型</b></td><td>同人志</td></tr><tr><td><b>当前状态</b></td><td>转入非东方</td></tr><tr><td><b>主催</b></td><td> <a href="./TOKIAME.md" title="TOKIAME">TOKIAME</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://xel.skr.jp/tokiame/">http://xel.skr.jp/tokiame/</a> <br><a rel="nofollow" class="external free" href="https://tk-ame.tumblr.com/">https://tk-ame.tumblr.com/</a></td></tr></tbody></table>
 
 SWAY WIND（同人社团，同人志社团） - SWAY WIND ，主要制作 同人志 的日本同人社团，主催是 TOKIAME，当前状态为 转入非东方
+
 ## 成员名单
 - [TOKIAME](./TOKIAME.md)
 
+
 ## 作品列表
+
 ### 同人志
 To kill one's boredom TOUHOU 封面图片 (未找到链接)To kill one's boredom TOUHOU (未找到链接)首发日期：未知 - To kill one's boredom TOUHOU II 封面图片 (未找到链接)To kill one's boredom TOUHOU II (未找到链接)首发日期：未知 - Carefree Scribble 葬 Vol.2 封面图片 (未找到链接)Carefree Scribble 葬 Vol.2 (未找到链接)首发日期：未知 - 描 東方描綴 封面图片 (未找到链接)描 東方描綴 (未找到链接)首发日期：未知 - Carefree Scribble 葬 Vol.1.5 封面图片 (未找到链接)Carefree Scribble 葬 Vol.1.5 (未找到链接)首发日期：未知 - Carefree Scribble 葬 Vol.3 封面图片 (未找到链接)Carefree Scribble 葬 Vol.3 (未找到链接)首发日期：未知 - 描 東方描綴 其之弐 封面图片 (未找到链接)描 東方描綴 其之弐 (未找到链接)首发日期：未知 - Carefree Scribble 葬 Vol.4 封面图片 (未找到链接)Carefree Scribble 葬 Vol.4 (未找到链接)首发日期：未知 - Carefree Scribble 葬 Vol.5 封面图片 (未找到链接)Carefree Scribble 葬 Vol.5 (未找到链接)首发日期：未知 - To kill one's boredom TOUHOU Vol.3 封面图片 (未找到链接)To kill one's boredom TOUHOU Vol.3 (未找到链接)首发日期：未知 - To kill one's boredom TOUHOU Vol.3 - OMAKE 封面图片 (未找到链接)To kill one's boredom TOUHOU Vol.3 - OMAKE (未找到链接)首发日期：未知 - 描 東方描綴 参 封面图片 (未找到链接)描 東方描綴 参 (未找到链接)首发日期：未知 - [](./綴（同人志）.md)[綴](./綴（同人志）.md)首发日期：2010-12-30 （Comic Market 79 (未找到链接)）绘本 （一般向）B5&#160;尺寸 24&#160;页[](./描_東方描綴_四.md)[描 東方描綴 四](./描_東方描綴_四.md)首发日期：2011-05-08 （第八回 博麗神社例大祭 (未找到链接)）绘本 （一般向）A4&#160;尺寸 20&#160;页[](./綴_Vol.02.md)[綴 Vol.02](./綴_Vol.02.md)首发日期：2011-08-13 （Comic Market 80 (未找到链接)）绘本 （一般向）A4&#160;尺寸 16&#160;页[](./描_東方描綴_Vol.05.md)[描 東方描綴 Vol.05](./描_東方描綴_Vol.05.md)首发日期：2011-12-30 （Comic Market 81 (未找到链接)）绘本 （一般向）B5&#160;尺寸 20&#160;页描 東方描綴 Vol.06 封面图片 (未找到链接)描 東方描綴 Vol.06 (未找到链接)首发日期：未知 - 描 東方描綴 Vol.07 封面图片 (未找到链接)描 東方描綴 Vol.07 (未找到链接)首发日期：未知 - 描 東方描綴 Vol.08 封面图片 (未找到链接)描 東方描綴 Vol.08 (未找到链接)首发日期：未知 - 描 東方描綴 Vol.09 封面图片 (未找到链接)描 東方描綴 Vol.09 (未找到链接)首发日期：未知 - 夜之酒呑 封面图片 (未找到链接)夜之酒呑 (未找到链接)首发日期：未知 - 夜之酒呑弐 封面图片 (未找到链接)夜之酒呑弐 (未找到链接)首发日期：未知 - TOKIAME画集 蓬莱 封面图片 (未找到链接)TOKIAME画集 蓬莱 (未找到链接)首发日期：未知 - 夜之酒呑３ 封面图片 (未找到链接)夜之酒呑３ (未找到链接)首发日期：未知 - [](./YORU_no_SAKENOMI._-纏-.md)[YORU no SAKENOMI. -纏-](./YORU_no_SAKENOMI._-纏-.md)首发日期：2015-05-10 （第十二回 博麗神社例大祭 (未找到链接)）画集 （一般向）B5&#160;尺寸 24&#160;页[](./NATSU_no_SAKAMORI.md)[NATSU no SAKAMORI](./NATSU_no_SAKAMORI.md)首发日期：2015-08-14 （Comic Market 88 (未找到链接)）画集 （一般向） 16&#160;页[](./AKI_no_SAKENOMITAKATTA..md)[AKI no SAKENOMITAKATTA.](./AKI_no_SAKENOMITAKATTA..md)首发日期：2015-12-30 （Comic Market 89 (未找到链接)）画集 （一般向） 8&#160;页
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -67,6 +72,7 @@ To kill one's boredom TOUHOU 封面图片 (未找到链接)To kill one's boredom
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 参展信息

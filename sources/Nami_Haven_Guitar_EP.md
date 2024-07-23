@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Nami_Haven_Guitar_EP封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/3/32/Nami_Haven_Guitar_EP%E5%B0%81%E9%9D%A2.jpg/280px-Nami_Haven_Guitar_EP%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="280" height="280" srcset="https://upload.thwiki.cc/thumb/3/32/Nami_Haven_Guitar_EP%E5%B0%81%E9%9D%A2.jpg/420px-Nami_Haven_Guitar_EP%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/3/32/Nami_Haven_Guitar_EP%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="512" data-file-height="512"></a></td>
@@ -16,6 +17,7 @@
 Nami Haven Guitar EP（同人专辑，Nami Haven，2022） - 2022年9月27日 由 Nami Haven  发布的EP同人专辑，曲目主要风格是 其他，分级为 一般向
 
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.dizzylab.net/d/nhag0001">dizzylab</a></td></tr></tbody></table>
+
 
 
 ## Staff
@@ -37,10 +39,12 @@ Mastering
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.dizzylab.net/d/nhag0001">dizzylab2</a></td></tr></tbody></table>
 
 
+
 ## 曲目列表
 
 <table><tbody><tr><td id="1" class="infoYL"><b>01</b></td><td id="Aerith&#39;s_Theme_(Acoustic_Guitar_Arrange)" colspan="2" class="title">Aerith&#39;s Theme (Acoustic Guitar Arrange)<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=张八婆ZBP&amp;ogmusic=エアリスのテーマ&amp;fromwiki=Nami_Haven_Guitar_EP"><span title="搜索相似同人曲"></span></a></span></td><td class="time">02:44</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E5%BC%A0%E5%85%AB%E5%A9%86ZBP&amp;action=edit&amp;redlink=1" class="new" title="张八婆ZBP（页面不存在）">张八婆ZBP</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，张八婆ZBP&amp;fromwiki=Nami_Haven_Guitar_EP"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演奏</td><td class="text" colspan="2">吉他：<a href="/index.php?title=%E5%BC%A0%E5%85%AB%E5%A9%86ZBP&amp;action=edit&amp;redlink=1" class="new" title="张八婆ZBP（页面不存在）">张八婆ZBP</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=エアリスのテーマ&amp;fromwiki=Nami_Haven_Guitar_EP"><span></span></a></span><div class="ogmusic">エアリスのテーマ</div><div class="source">ファイナルファンタジーVII</div></td></tr>
-<tr><td id="2" class="infoYD"><b>02</b></td><td id="World_of_Fantasies_(Acoustic_Guitar_Arrange)" colspan="2" class="title">World of Fantasies (Acoustic Guitar Arrange)<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=张八婆ZBP&amp;ogmusic=幻夢界&amp;fromwiki=Nami_Haven_Guitar_EP"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:33</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E5%BC%A0%E5%85%AB%E5%A9%86ZBP&amp;action=edit&amp;redlink=1" class="new" title="张八婆ZBP（页面不存在）">张八婆ZBP</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，张八婆ZBP&amp;fromwiki=Nami_Haven_Guitar_EP"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演奏</td><td class="text" colspan="2">吉他：<a href="/index.php?title=%E5%BC%A0%E5%85%AB%E5%A9%86ZBP&amp;action=edit&amp;redlink=1" class="new" title="张八婆ZBP（页面不存在）">张八婆ZBP</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=幻夢界&amp;fromwiki=Nami_Haven_Guitar_EP"><span></span></a></span><div class="ogmusic"><a href="/%E5%B9%BB%E5%A4%A2%E7%95%8C" class="mw-redirect" title="幻夢界">幻夢界</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E5%B0%81%E9%AD%94%E5%BD%95_%EF%BD%9E_the_Story_of_Eastern_Wonderland." class="mw-redirect" title="东方封魔录 ～ the Story of Eastern Wonderland.">东方封魔录　～ the Story of Eastern Wonderland.</a></div></td></tr></tbody></table>
+<tr><td id="2" class="infoYD"><b>02</b></td><td id="World_of_Fantasies_(Acoustic_Guitar_Arrange)" colspan="2" class="title">World of Fantasies (Acoustic Guitar Arrange)<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=张八婆ZBP&amp;ogmusic=幻夢界&amp;fromwiki=Nami_Haven_Guitar_EP"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:33</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E5%BC%A0%E5%85%AB%E5%A9%86ZBP&amp;action=edit&amp;redlink=1" class="new" title="张八婆ZBP（页面不存在）">张八婆ZBP</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，张八婆ZBP&amp;fromwiki=Nami_Haven_Guitar_EP"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演奏</td><td class="text" colspan="2">吉他：<a href="/index.php?title=%E5%BC%A0%E5%85%AB%E5%A9%86ZBP&amp;action=edit&amp;redlink=1" class="new" title="张八婆ZBP（页面不存在）">张八婆ZBP</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=幻夢界&amp;fromwiki=Nami_Haven_Guitar_EP"><span></span></a></span><div class="ogmusic"><a href="./幻夢界.md" class="mw-redirect" title="幻夢界">幻夢界</a></div><div class="source"><a href="./东方封魔录_～_the_Story_of_Eastern_Wonderland..md" class="mw-redirect" title="东方封魔录 ～ the Story of Eastern Wonderland.">东方封魔录　～ the Story of Eastern Wonderland.</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

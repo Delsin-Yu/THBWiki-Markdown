@@ -4,7 +4,8 @@
 
 overTuner ，于 2010 年成立，主要制作 同人音乐 的日本同人社团，主催是 タダオ，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -21,12 +22,14 @@ overTuner ，于 2010 年成立，主要制作 同人音乐 的日本同人社�
 
 
 
+
 ## 社团信息
 [](./文件-overTunerbanner.png.md)  [](./文件-overTunerbanner.png.md)banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> overTuner </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2010</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="./ただお.md" title="ただお" unred="">タダオ</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://overtunergig.net/index.html">http://overtunergig.net/index.html</a> <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span></td></tr></tbody></table>
 
 overTuner（同人社团，同人音乐社团） - overTuner ，于 2010 年成立，主要制作 同人音乐 的日本同人社团，主催是 タダオ，当前状态为 活动
+
 ## 成员名单
 - [タダオ](./ただお.md)：Arrange, Lyric, Vocal, Guitar；来自社团[Q-BIT](./Q-BIT.md)；[twitter](https://twitter.com/qbittadao)
 - [此糸ウルヱ](./此糸ウルヱ.md)：Arrange, Lyric, Guitar, Piano；来自社团[Attrielectrock](./Attrielectrock.md)，[KARMART](./KARMART.md)；[twitter（已弃用）](https://twitter.com/koreito)
@@ -34,7 +37,9 @@ overTuner（同人社团，同人音乐社团） - overTuner ，于 2010 年成�
 - [tomoya](./tomoya.md)：Guitar；来自社团[TUMENECO](./TUMENECO.md)；[twitter](https://twitter.com/TUMENECO)
 - [izna](./izna.md)：Drum；来自社团[IZMIZM](./IZMIZM.md)；[twitter](https://twitter.com/izna_izmizm)
 
+
 ## 作品列表
+
 ### 同人专辑
 [](./Starting_Over.md)[Starting Over](./Starting_Over.md)首发日期：2010-08-14 （Comic Market 78 (未找到链接)）OTTK-0001EP （一般向）[](./Re：Starting_Over.md)[Re:Starting Over](./Re：Starting_Over.md)首发日期：2010-09-19 （博麗神社例大祭SP1 (未找到链接)）OTTK-0001.5混音集 （一般向）[](./Around_The_Seasons_ver.β.md)[Around The Seasons ver.β](./Around_The_Seasons_ver.β.md)首发日期：2010-10-11 （東方紅楼夢6 (未找到链接)）OTTK-0003βDemo （一般向）[](./ココロドロップス.md)[ココロドロップス](./ココロドロップス.md)首发日期：2010-12-30 （Comic Market 79 (未找到链接)）OTTK-0002全长 （一般向）[](./AROUND_THE_SEASONS.md)[AROUND THE SEASONS](./AROUND_THE_SEASONS.md)首发日期：2011-05-08 （第八回 博麗神社例大祭 (未找到链接)）OTTK-0003全长 （一般向）[](./Unplugged_＃1_vol.kokoro_drops.md)[Unplugged #1 vol.kokoro drops](./Unplugged_＃1_vol.kokoro_drops.md)首发日期：2011-05-08 （第八回 博麗神社例大祭 (未找到链接)）OTTK-0002.5混音集 （一般向）[](./C-TYPE.md)[C-TYPE](./C-TYPE.md)首发日期：2011-10-16 （東方紅楼夢7 (未找到链接)）OTTK-0004单曲 （一般向）[](./OVER_END_WORLD.md)[OVER END WORLD](./OVER_END_WORLD.md)首发日期：2011-12-30 （Comic Market 81 (未找到链接)）OTTK-0005EP （一般向）[](./サクラアゲイン.md)[サクラアゲイン](./サクラアゲイン.md)首发日期：2012-05-27 （第九回 博麗神社例大祭 (未找到链接)）OTTK-0007全长 （一般向）[](./Book_Marker.md)[Book Marker](./Book_Marker.md)首发日期：2012-08-11 （Comic Market 82 (未找到链接)）OTTK-0008单曲 （一般向）[](./Charisma_Tea_Break!!.md)[Charisma Tea Break!!](./Charisma_Tea_Break!!.md)首发日期：2012-12-30 （Comic Market 83 (未找到链接)）OTTK-0009单曲 （一般向）[](./レッド_イット.md)[レッド イット](./レッド_イット.md)首发日期：2013-05-26 （第十回 博麗神社例大祭 (未找到链接)）OTTK-0010全长 （一般向）[](./Re：Tune.md)[Re:Tune](./Re：Tune.md)首发日期：2024-05-03 （第二十一回 博麗神社例大祭 (未找到链接)）全长、​精选集 （一般向）该专辑包含 2 张CD
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -65,9 +70,11 @@ overTuner（同人社团，同人音乐社团） - overTuner ，于 2010 年成�
 </table>
 
 
+
 ## 参展信息
 
 <table><tbody><tr><th class="活动页面">活动页面</th><th class="活动名称">活动名称</th><th class="日期">日期</th><th class="举办地点">举办地点</th><th class="摊位编号">摊位编号</th><th class="宣传页面">宣传页面</th><th class="备注">备注</th></tr><tr data-row-number="1" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#21" title="博丽神社例大祭">博丽神社例大祭#21</a></span></td><td class="活动名称 smwtype_txt">第二十一回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2460433.5">2024-05-03</td><td class="举办地点 smwtype_txt">东京Big Sight 东展厅</td><td class="摊位编号 smwtype_txt">つ04b</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="2" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#10" title="博丽神社例大祭">博丽神社例大祭#10</a></span></td><td class="活动名称 smwtype_txt">第十回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2456438.5">2013-05-26</td><td class="举办地点 smwtype_txt">东京Big Sight 东123456展厅</td><td class="摊位编号 smwtype_txt">C19b</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="3" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#9" title="博丽神社例大祭">博丽神社例大祭#9</a></span></td><td class="活动名称 smwtype_txt">第九回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2456074.5">2012-05-27</td><td class="举办地点 smwtype_txt">东京Big Sight 东123456展厅</td><td class="摊位编号 smwtype_txt">う-35a</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="4" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#8" title="博丽神社例大祭">博丽神社例大祭#8</a></span></td><td class="活动名称 smwtype_txt">第八回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2455689.5">2011-05-08</td><td class="举办地点 smwtype_txt">东京Big Sight 东23456展厅</td><td class="摊位编号 smwtype_txt">ね-48a</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="5" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%ADSP#1" title="博丽神社例大祭SP">博丽神社例大祭SP#1</a></span></td><td class="活动名称 smwtype_txt">博麗神社例大祭SP1</td><td class="日期 smwtype_dat" data-sort-value="2455458.5">2010-09-19</td><td class="举办地点 smwtype_txt">东京Big Sight 东456展厅</td><td class="摊位编号 smwtype_txt">P14a</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr></tbody></table>
+
 
 
 ## 其他信息

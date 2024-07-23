@@ -6,6 +6,7 @@ JynX作曲 | 引用了翻译表的页面 | 舐糠及米_～_What's_the_matter? |
 
 本页是关于 **向[东方Project](./东方Project.md)  
 致敬、形式类似的作品** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -34,6 +35,7 @@ JynX作曲 | 引用了翻译表的页面 | 舐糠及米_～_What's_the_matter? |
 
 
 
+
 ## 基本信息
 
 <table>
@@ -58,6 +60,7 @@ JynX作曲 | 引用了翻译表的页面 | 舐糠及米_～_What's_the_matter? |
 </td></tr></tbody></table>
 
 
+
 ## 出现作品
 
 <table>
@@ -66,13 +69,17 @@ JynX作曲 | 引用了翻译表的页面 | 舐糠及米_～_What's_the_matter? |
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 连缘蛇丛剑
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>MIDI格式</b></td><td>无播放信息</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-le02_08.mp3.md" title="文件:le02 08.mp3">le02_08.mp3</a><br><audio src="https://upload.thwiki.cc/c/c6/le02_08.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>未填写</td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 连缘蛇丛剑
 - Music Room (未找到链接)
 
@@ -85,8 +92,11 @@ JynX作曲 | 引用了翻译表的页面 | 舐糠及米_～_What's_the_matter? |
 啦，啦-啦啦，啦-啦↑啦↑?  
   
 犹巴老师？[^cite_note-犹巴老师-1]
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
 - 舐糠及米
   - 出自《史记·吴王濞列传》，字面意思为舔米外的糠，一直舔到里面的米。比喻占据的地方再夺取政权；也比喻由表及里，逐步进逼。

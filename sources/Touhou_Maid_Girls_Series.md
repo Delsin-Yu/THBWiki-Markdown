@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Touhou_Maid_Girls_Series封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/6/6c/Touhou_Maid_Girls_Series%E5%B0%81%E9%9D%A2.jpg/117px-Touhou_Maid_Girls_Series%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="117" height="168" srcset="https://upload.thwiki.cc/thumb/6/6c/Touhou_Maid_Girls_Series%E5%B0%81%E9%9D%A2.jpg/176px-Touhou_Maid_Girls_Series%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/6/6c/Touhou_Maid_Girls_Series%E5%B0%81%E9%9D%A2.jpg/234px-Touhou_Maid_Girls_Series%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="399" data-file-height="572"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>，<a href="/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C" title="十六夜咲夜">十六夜咲夜</a></div></td>
@@ -14,9 +15,11 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.deviantart.com/yo-chaosangel/journal/CW26-information-desk-235913724">https://www.deviantart.com/yo-chaosangel/journal/CW26-information-desk-235913724</a><br><a rel="nofollow" class="external free" href="http://blog.qooza.hk/maidinchina?eid=10128105">http://blog.qooza.hk/maidinchina?eid=10128105</a><br><a rel="nofollow" class="external free" href="http://blog.yam.com/maidinchina/article/16311901">http://blog.yam.com/maidinchina/article/16311901</a><br><span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><small>（<a rel="nofollow" class="external text" href="https://web.archive.org/web/20081004002739/http://blog.yam.com/maidinchina">缓存页面</a>）</small></td></tr></tbody></table>
 
 Touhou Maid Girls Series（同人志，Maid in China，2008） - 2008年7月26日 由 Maid in China 于 Fancy Frontier12 发布的画集同人志，B5尺寸一共20页，分级为 一般向
+
 ## Staff
 - Yo (未找到链接)
 - BlueLight (未找到链接)
+
 
 ## 评论
 

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人视频 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-【2023东方新春宴单品】主角组恋Dance封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/8/85/%E3%80%902023%E4%B8%9C%E6%96%B9%E6%96%B0%E6%98%A5%E5%AE%B4%E5%8D%95%E5%93%81%E3%80%91%E4%B8%BB%E8%A7%92%E7%BB%84%E6%81%8BDance%E5%B0%81%E9%9D%A2.jpg/168px-%E3%80%902023%E4%B8%9C%E6%96%B9%E6%96%B0%E6%98%A5%E5%AE%B4%E5%8D%95%E5%93%81%E3%80%91%E4%B8%BB%E8%A7%92%E7%BB%84%E6%81%8BDance%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="168" height="94" srcset="https://upload.thwiki.cc/thumb/8/85/%E3%80%902023%E4%B8%9C%E6%96%B9%E6%96%B0%E6%98%A5%E5%AE%B4%E5%8D%95%E5%93%81%E3%80%91%E4%B8%BB%E8%A7%92%E7%BB%84%E6%81%8BDance%E5%B0%81%E9%9D%A2.jpg/252px-%E3%80%902023%E4%B8%9C%E6%96%B9%E6%96%B0%E6%98%A5%E5%AE%B4%E5%8D%95%E5%93%81%E3%80%91%E4%B8%BB%E8%A7%92%E7%BB%84%E6%81%8BDance%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/8/85/%E3%80%902023%E4%B8%9C%E6%96%B9%E6%96%B0%E6%98%A5%E5%AE%B4%E5%8D%95%E5%93%81%E3%80%91%E4%B8%BB%E8%A7%92%E7%BB%84%E6%81%8BDance%E5%B0%81%E9%9D%A2.jpg/336px-%E3%80%902023%E4%B8%9C%E6%96%B9%E6%96%B0%E6%98%A5%E5%AE%B4%E5%8D%95%E5%93%81%E3%80%91%E4%B8%BB%E8%A7%92%E7%BB%84%E6%81%8BDance%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1146" data-file-height="644"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>，<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a></div></td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.bilibili.com/video/BV1RG4y1D7rd">https://www.bilibili.com/video/BV1RG4y1D7rd</a></td></tr><tr><td class="label">备注</td><td colspan="2">首次发布于<a href="./东方新春宴-东方新春宴·千华永缘.md" title="东方新春宴/东方新春宴·千华永缘">东方新春宴·千华永缘</a></td></tr></tbody></table>
 
 【2023东方新春宴单品】主角组恋Dance（同人视频，恋色绮想花火会，幻相风靡，2023） - 2023年1月23日 由 恋色绮想花火会，幻相风靡  发布的舞蹈同人视频，总长 0小时4分钟，分级为 一般向
+
 ## Staff
 出品人、监制
 : 辣酱、石灰、哈德曼
@@ -27,6 +29,7 @@
 : 秋小鹿、夏琪
 出演
 : 易安 饰 雾雨魔理沙；阿璇 饰 博丽灵梦
+
 
 ## 评论
 

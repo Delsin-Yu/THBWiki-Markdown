@@ -12,7 +12,7 @@ The_Grimoire_of_Usami | 丁礼田舞 | 使用了翻译表的页面 | 宇佐见�
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./The_Grimoire_of_Usami-纯狐-中日对照.md" title="The Grimoire of Usami/纯狐/中日对照">纯狐</a>&#160;
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="/%E5%AE%87%E4%BD%90%E8%A7%81%E7%9A%84%E9%AD%94%E6%B3%95%E4%B9%A6" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a>&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="./宇佐见的魔法书.md" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a>&#160;
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">&#160;<a href="./The_Grimoire_of_Usami-尔子田里乃-中日对照.md" title="The Grimoire of Usami/尔子田里乃/中日对照">尔子田里乃</a>
 </td>
@@ -25,7 +25,7 @@ The_Grimoire_of_Usami | 丁礼田舞 | 使用了翻译表的页面 | 宇佐见�
 - 翻译：奈良津茂野
 
 
-<table><tbody><tr class="tt-content-header" id="=-1" data-pos="&#91;&quot;=&quot;,1&#93;"><td class="tt-jah" lang="ja"><div class="poem">竹符「バンブークレイジーダンス」</div></td><td class="tt-zhh" lang="zh"><div class="poem"><a href="/%E7%AB%B9%E7%AC%A6%E3%80%8CBamboo_Crazy_Dance%E3%80%8D" class="mw-redirect" title="竹符「Bamboo Crazy Dance」">竹符「Bamboo Crazy Dance」</a></div></td></tr><tr class="tt-content" id="=-2" data-pos="&#91;&quot;=&quot;,2&#93;"><td class="tt-ja" lang="ja"><div class="poem">使用者：丁礼田舞</div></td><td class="tt-zh" lang="zh"><div class="poem">使用者：<a href="./丁礼田舞.md" title="丁礼田舞">丁礼田舞</a></div></td></tr><tr class="tt-content" id="=-3" data-pos="&#91;&quot;=&quot;,3&#93;"><td class="tt-ja" lang="ja"><div class="poem">よーし、隠岐奈様の<br>お許しが出たから<br><big>私達も<br>参加しちゃうよー！</big></div></td><td class="tt-zh" lang="zh"><div class="poem">好，既然得到了<br>隐岐奈大人的许可<br><big>那我们<br>也来参加啦——！</big></div></td></tr><tr class="tt-header" id="=-4" data-pos="&#91;&quot;=&quot;,4&#93;"><td colspan="2" id="少名针妙丸" class="tt-header" lang="zh"><div class="poem">少名针妙丸</div></td></tr><tr class="tt-content" id="=-5" data-pos="&#91;&quot;=&quot;,5&#93;"><td class="tt-ja" lang="ja"><div class="poem">空中で竹槍が静止した？　それに何の意味があるのかなぁ。</div></td><td class="tt-zh" lang="zh"><div class="poem">竹枪静止在了半空中？　这是有什么目的的吗。</div></td></tr><tr class="tt-header" id="=-6" data-pos="&#91;&quot;=&quot;,6&#93;"><td colspan="2" id="摩多罗隐岐奈" class="tt-header" lang="zh"><div class="poem">摩多罗隐岐奈</div></td></tr><tr class="tt-content" id="=-7" data-pos="&#91;&quot;=&quot;,7&#93;"><td class="tt-ja" lang="ja"><div class="poem">お前達は狂気を出すのが仕事なんだけど、本物の純粋な狂気の足下にも及ばないなぁ。困ったもんだ。</div></td><td class="tt-zh" lang="zh"><div class="poem">虽说你们的工作就是展现疯狂，但和真正纯粹的狂意相比连小巫见大巫都算不上。真是愁人。</div></td></tr><tr class="tt-header" id="=-8" data-pos="&#91;&quot;=&quot;,8&#93;"><td colspan="2" id="宇佐见堇子" class="tt-header" lang="zh"><div class="poem">宇佐见堇子</div></td></tr><tr class="tt-content" id="=-9" data-pos="&#91;&quot;=&quot;,9&#93;"><td class="tt-ja" lang="ja"><div class="poem">ここに来て竹槍投げたー！　こういうお茶目なところ、幻想郷の良いところね</div></td><td class="tt-zh" lang="zh"><div class="poem">在这节骨眼上来的却是扔竹枪！这种戏谑感，也可以称得上是幻想乡的优点所在吧。</div></td></tr></tbody></table>
+<table><tbody><tr class="tt-content-header" id="=-1" data-pos="&#91;&quot;=&quot;,1&#93;"><td class="tt-jah" lang="ja"><div class="poem">竹符「バンブークレイジーダンス」</div></td><td class="tt-zhh" lang="zh"><div class="poem"><a href="./竹符「Bamboo_Crazy_Dance」.md" class="mw-redirect" title="竹符「Bamboo Crazy Dance」">竹符「Bamboo Crazy Dance」</a></div></td></tr><tr class="tt-content" id="=-2" data-pos="&#91;&quot;=&quot;,2&#93;"><td class="tt-ja" lang="ja"><div class="poem">使用者：丁礼田舞</div></td><td class="tt-zh" lang="zh"><div class="poem">使用者：<a href="./丁礼田舞.md" title="丁礼田舞">丁礼田舞</a></div></td></tr><tr class="tt-content" id="=-3" data-pos="&#91;&quot;=&quot;,3&#93;"><td class="tt-ja" lang="ja"><div class="poem">よーし、隠岐奈様の<br>お許しが出たから<br><big>私達も<br>参加しちゃうよー！</big></div></td><td class="tt-zh" lang="zh"><div class="poem">好，既然得到了<br>隐岐奈大人的许可<br><big>那我们<br>也来参加啦——！</big></div></td></tr><tr class="tt-header" id="=-4" data-pos="&#91;&quot;=&quot;,4&#93;"><td colspan="2" id="少名针妙丸" class="tt-header" lang="zh"><div class="poem">少名针妙丸</div></td></tr><tr class="tt-content" id="=-5" data-pos="&#91;&quot;=&quot;,5&#93;"><td class="tt-ja" lang="ja"><div class="poem">空中で竹槍が静止した？　それに何の意味があるのかなぁ。</div></td><td class="tt-zh" lang="zh"><div class="poem">竹枪静止在了半空中？　这是有什么目的的吗。</div></td></tr><tr class="tt-header" id="=-6" data-pos="&#91;&quot;=&quot;,6&#93;"><td colspan="2" id="摩多罗隐岐奈" class="tt-header" lang="zh"><div class="poem">摩多罗隐岐奈</div></td></tr><tr class="tt-content" id="=-7" data-pos="&#91;&quot;=&quot;,7&#93;"><td class="tt-ja" lang="ja"><div class="poem">お前達は狂気を出すのが仕事なんだけど、本物の純粋な狂気の足下にも及ばないなぁ。困ったもんだ。</div></td><td class="tt-zh" lang="zh"><div class="poem">虽说你们的工作就是展现疯狂，但和真正纯粹的狂意相比连小巫见大巫都算不上。真是愁人。</div></td></tr><tr class="tt-header" id="=-8" data-pos="&#91;&quot;=&quot;,8&#93;"><td colspan="2" id="宇佐见堇子" class="tt-header" lang="zh"><div class="poem">宇佐见堇子</div></td></tr><tr class="tt-content" id="=-9" data-pos="&#91;&quot;=&quot;,9&#93;"><td class="tt-ja" lang="ja"><div class="poem">ここに来て竹槍投げたー！　こういうお茶目なところ、幻想郷の良いところね</div></td><td class="tt-zh" lang="zh"><div class="poem">在这节骨眼上来的却是扔竹枪！这种戏谑感，也可以称得上是幻想乡的优点所在吧。</div></td></tr></tbody></table>
 
 
 <center>
@@ -36,7 +36,7 @@ The_Grimoire_of_Usami | 丁礼田舞 | 使用了翻译表的页面 | 宇佐见�
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./The_Grimoire_of_Usami-纯狐-中日对照.md" title="The Grimoire of Usami/纯狐/中日对照">纯狐</a>&#160;
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="/%E5%AE%87%E4%BD%90%E8%A7%81%E7%9A%84%E9%AD%94%E6%B3%95%E4%B9%A6" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a>&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="./宇佐见的魔法书.md" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a>&#160;
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">&#160;<a href="./The_Grimoire_of_Usami-尔子田里乃-中日对照.md" title="The Grimoire of Usami/尔子田里乃/中日对照">尔子田里乃</a>
 </td>
@@ -45,6 +45,7 @@ The_Grimoire_of_Usami | 丁礼田舞 | 使用了翻译表的页面 | 宇佐见�
 
   
 </center>
+
 
 ## 词条导航
   

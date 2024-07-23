@@ -18,6 +18,7 @@
 </center>
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 软件信息](#软件信息)
@@ -48,6 +49,7 @@
 
 
 
+
 ## 软件信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-東方歳遷辭_～_Profound_of_Fates.封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/1/1b/%E6%9D%B1%E6%96%B9%E6%AD%B3%E9%81%B7%E8%BE%AD_%EF%BD%9E_Profound_of_Fates.%E5%B0%81%E9%9D%A2.jpg/196px-%E6%9D%B1%E6%96%B9%E6%AD%B3%E9%81%B7%E8%BE%AD_%EF%BD%9E_Profound_of_Fates.%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="196" height="196" srcset="https://upload.thwiki.cc/thumb/1/1b/%E6%9D%B1%E6%96%B9%E6%AD%B3%E9%81%B7%E8%BE%AD_%EF%BD%9E_Profound_of_Fates.%E5%B0%81%E9%9D%A2.jpg/294px-%E6%9D%B1%E6%96%B9%E6%AD%B3%E9%81%B7%E8%BE%AD_%EF%BD%9E_Profound_of_Fates.%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/1/1b/%E6%9D%B1%E6%96%B9%E6%AD%B3%E9%81%B7%E8%BE%AD_%EF%BD%9E_Profound_of_Fates.%E5%B0%81%E9%9D%A2.jpg/392px-%E6%9D%B1%E6%96%B9%E6%AD%B3%E9%81%B7%E8%BE%AD_%EF%BD%9E_Profound_of_Fates.%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1000" data-file-height="1000"></a><div class="cover-char">角色：<a href="/index.php?title=%E5%8E%9F%E5%88%9B%E8%A7%92%E8%89%B2&amp;action=edit&amp;redlink=1" class="new" title="原创角色（页面不存在）">原创角色</a></div></td>
@@ -55,16 +57,21 @@
 </tr><tr><td class="label">首发日期</td><td>未知</td></tr><tr><td class="label">类型</td><td>游戏</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">游戏人数</td><td>单人模式</td></tr><tr><td class="label">游戏类型</td><td>STG</td></tr><tr><td class="label">运行平台</td><td>Windows</td></tr><tr><td class="label">语言</td><td>简体中文</td></tr></tbody></table>
 
 東方歳遷辭 ～ Profound of Fates.（同人游戏，槐安第八通道） - 2024年7月3日 由 槐安第八通道  发布的STG同人游戏，可在 Windows 系统上运行，游戏人数为 单人模式，分级为 一般向
+
 ## Staff
+
 ### 主催
 - 用户:バ太 (未找到链接)
+
 
 ### 文案
 - 用户:バ太 (未找到链接)
 - 用户:云翳叆叇 (未找到链接)
 - 用户:侯素璐 (未找到链接)
 
+
 ## 游戏介绍
+
 ### 故事前瞻
   
 幻想乡内下起了大雨。  
@@ -106,9 +113,13 @@
 『……永别了。』
   
 
+
 ## 角色
+
 ### 自机
+
 ### BOSS
+
 ## 附带文档
 
 <table><tbody><tr>
@@ -119,6 +130,7 @@
 <li><a href="/index.php?title=%E6%9D%B1%E6%96%B9%E6%AD%B3%E9%81%B7%E8%BE%AD_%EF%BD%9E_Profound_of_Fates./Readme&amp;action=edit&amp;redlink=1" class="new" title="東方歳遷辭 ～ Profound of Fates./Readme（页面不存在）">Readme</a></li>
 <li><a href="/index.php?title=%E6%9D%B1%E6%96%B9%E6%AD%B3%E9%81%B7%E8%BE%AD_%EF%BD%9E_Profound_of_Fates./Omake&amp;action=edit&amp;redlink=1" class="new" title="東方歳遷辭 ～ Profound of Fates./Omake（页面不存在）">Omake</a></li></ul>
 </td></tr></tbody></table>
+
 
 
 ## 其他资料
@@ -136,6 +148,7 @@
 <ul><li><a href="/index.php?title=%E6%9D%B1%E6%96%B9%E6%AD%B3%E9%81%B7%E8%BE%AD_%EF%BD%9E_Profound_of_Fates./%E5%85%B6%E4%BB%96&amp;action=edit&amp;redlink=1" class="new" title="東方歳遷辭 ～ Profound of Fates./其他（页面不存在）">其他相关资料</a></li>
 <li><a href="/index.php?title=%E6%9D%B1%E6%96%B9%E6%AD%B3%E9%81%B7%E8%BE%AD_%EF%BD%9E_Profound_of_Fates./%E7%B3%BB%E7%BB%9F&amp;action=edit&amp;redlink=1" class="new" title="東方歳遷辭 ～ Profound of Fates./系统（页面不存在）">机体特性与系统说明</a></li></ul>
 </td></tr></tbody></table>
+
 
 
 ## 词条导航

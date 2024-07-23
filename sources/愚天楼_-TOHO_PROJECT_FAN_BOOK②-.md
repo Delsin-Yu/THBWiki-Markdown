@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-愚天楼_-TOHO_PROJECT_FAN_BOOK②-封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/b/b0/%E6%84%9A%E5%A4%A9%E6%A5%BC_-TOHO_PROJECT_FAN_BOOK%E2%91%A1-%E5%B0%81%E9%9D%A2.jpg/158px-%E6%84%9A%E5%A4%A9%E6%A5%BC_-TOHO_PROJECT_FAN_BOOK%E2%91%A1-%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="158" height="224" srcset="https://upload.thwiki.cc/thumb/b/b0/%E6%84%9A%E5%A4%A9%E6%A5%BC_-TOHO_PROJECT_FAN_BOOK%E2%91%A1-%E5%B0%81%E9%9D%A2.jpg/237px-%E6%84%9A%E5%A4%A9%E6%A5%BC_-TOHO_PROJECT_FAN_BOOK%E2%91%A1-%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/b/b0/%E6%84%9A%E5%A4%A9%E6%A5%BC_-TOHO_PROJECT_FAN_BOOK%E2%91%A1-%E5%B0%81%E9%9D%A2.jpg/316px-%E6%84%9A%E5%A4%A9%E6%A5%BC_-TOHO_PROJECT_FAN_BOOK%E2%91%A1-%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1500" data-file-height="2124"></a><div class="cover-char">角色：<a href="./摩多罗隐岐奈.md" title="摩多罗隐岐奈">摩多罗隐岐奈</a></div></td>
@@ -14,11 +15,13 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://orange-gutenrou.tumblr.com/">https://orange-gutenrou.tumblr.com/</a></td></tr></tbody></table>
 
 愚天楼 -TOHO PROJECT FAN BOOK②-（同人志，オランジュ停留所，2018） - 2018年5月6日 由 オランジュ停留所 于 博丽神社例大祭15 发布的画集同人志，B5尺寸一共20页，登场人物有 摩多罗隐岐奈、博丽灵梦、雾雨魔理沙、琪露诺、射命丸文、爱塔妮缇拉尔瓦、坂田合欢、高丽野阿吽、矢田寺成美、尔子田里乃、丁礼田舞、姬海棠果，分级为 一般向
+
 ## Staff
 Illustration
 : 優月 （[オランジュ停留所](./オランジュ停留所.md)）
 Printing
 : [株式会社グラフィック](http://www.graphic.jp/)
+
 
 ## 评论
 

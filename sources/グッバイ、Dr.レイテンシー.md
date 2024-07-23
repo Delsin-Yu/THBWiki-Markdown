@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-グッバイ、Dr.レイテンシー封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/1/1f/%E3%82%B0%E3%83%83%E3%83%90%E3%82%A4%E3%80%81Dr.%E3%83%AC%E3%82%A4%E3%83%86%E3%83%B3%E3%82%B7%E3%83%BC%E5%B0%81%E9%9D%A2.jpg/137px-%E3%82%B0%E3%83%83%E3%83%90%E3%82%A4%E3%80%81Dr.%E3%83%AC%E3%82%A4%E3%83%86%E3%83%B3%E3%82%B7%E3%83%BC%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="137" height="196" srcset="https://upload.thwiki.cc/thumb/1/1f/%E3%82%B0%E3%83%83%E3%83%90%E3%82%A4%E3%80%81Dr.%E3%83%AC%E3%82%A4%E3%83%86%E3%83%B3%E3%82%B7%E3%83%BC%E5%B0%81%E9%9D%A2.jpg/205px-%E3%82%B0%E3%83%83%E3%83%90%E3%82%A4%E3%80%81Dr.%E3%83%AC%E3%82%A4%E3%83%86%E3%83%B3%E3%82%B7%E3%83%BC%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/1/1f/%E3%82%B0%E3%83%83%E3%83%90%E3%82%A4%E3%80%81Dr.%E3%83%AC%E3%82%A4%E3%83%86%E3%83%B3%E3%82%B7%E3%83%BC%E5%B0%81%E9%9D%A2.jpg/274px-%E3%82%B0%E3%83%83%E3%83%90%E3%82%A4%E3%80%81Dr.%E3%83%AC%E3%82%A4%E3%83%86%E3%83%B3%E3%82%B7%E3%83%BC%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="783" data-file-height="1120"></a><div class="cover-char">角色：<a href="./玛艾露贝莉·赫恩.md" title="玛艾露贝莉·赫恩">玛艾露贝莉·赫恩</a></div></td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://goodby-drlatency.tumblr.com/">http://goodby-drlatency.tumblr.com/</a></td></tr></tbody></table>
 
 グッバイ、Dr.レイテンシー（同人志，3rd CLOCK，2016） - 2016年8月13日 由 3rd CLOCK 于 Comic Market 90 发布的小说同人志，新书尺寸一共68页，分级为 一般向
+
 ## Staff
 插画
 
@@ -22,6 +24,7 @@
 小说
 
 : Taku (未找到链接)
+
 
 ## 评论
 

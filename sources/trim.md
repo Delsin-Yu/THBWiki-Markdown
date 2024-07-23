@@ -4,7 +4,8 @@
 
 trim ，主要制作 同人音乐 的日本同人社团，主催是 さち，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -21,18 +22,22 @@ trim ，主要制作 同人音乐 的日本同人社团，主催是 さち，当
 
 
 
+
 ## 社团信息
 文件:trimbanner.jpg (未找到链接)  banner
 
-<table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> trim </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="/%E3%81%95%E3%81%A1" class="mw-redirect" title="さち">さち</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://blog.livedoor.jp/airi_147/">http://blog.livedoor.jp/airi_147/</a> </td></tr></tbody></table>
+<table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> trim </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="./さち.md" class="mw-redirect" title="さち">さち</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://blog.livedoor.jp/airi_147/">http://blog.livedoor.jp/airi_147/</a> </td></tr></tbody></table>
 
 trim（同人社团，同人音乐社团） - trim ，主要制作 同人音乐 的日本同人社团，主催是 さち，当前状态为 活动
+
 ## 成员名单
-- さち (未找到链接)
+- [さち](./さち.md)
   - [Twitter：@sachiru_trim](https://twitter.com/sachiru_trim)
 
 
+
 ## 作品列表
+
 ### 同人专辑
 [](./季節の終にて....md)[季節の終にて...](./季節の終にて....md)首发日期：2013-05-26 （第十回 博麗神社例大祭 (未找到链接)）全长 （一般向）[](./Brain_Break_Showdown.md)[Brain Break Showdown](./Brain_Break_Showdown.md)首发日期：2013-10-13 （東方紅楼夢9 (未找到链接)）EP （一般向）[](./Imperishable_Seven_d／t.md)[Imperishable Seven d/t](./Imperishable_Seven_d／t.md)首发日期：2014-10-12 （東方紅楼夢10 (未找到链接)）全长 （一般向）[](./東方浪漫紀行.md)[東方浪漫紀行](./東方浪漫紀行.md)首发日期：2015-11-01 （東方紅楼夢11 (未找到链接)）EP （一般向）[](./置傘アドレセンス.md)[置傘アドレセンス](./置傘アドレセンス.md)首发日期：2019-05-05 （第十六回 博麗神社例大祭 (未找到链接)）全长 （一般向）
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -47,9 +52,11 @@ trim（同人社团，同人音乐社团） - trim ，主要制作 同人音乐 
 </table>
 
 
+
 ## 参展信息
 
 <table><tbody><tr><th class="活动页面">活动页面</th><th class="活动名称">活动名称</th><th class="日期">日期</th><th class="举办地点">举办地点</th><th class="摊位编号">摊位编号</th><th class="宣传页面">宣传页面</th><th class="备注">备注</th></tr><tr data-row-number="1" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#16" title="博丽神社例大祭">博丽神社例大祭#16</a></span></td><td class="活动名称 smwtype_txt">第十六回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2458608.5">2019-05-05</td><td class="举办地点 smwtype_txt">东京Big Sight</td><td class="摊位编号 smwtype_txt">J14ab</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="2" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E4%B8%9C%E6%96%B9%E7%BA%A2%E6%A5%BC%E6%A2%A6#13" title="东方红楼梦">东方红楼梦#13</a></span></td><td class="活动名称 smwtype_txt">東方紅楼夢13</td><td class="日期 smwtype_dat" data-sort-value="2458048.5">2017-10-22</td><td class="举办地点 smwtype_txt">大阪国际展览中心 4号馆・6号馆B区</td><td class="摊位编号 smwtype_txt">N-07b</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="3" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E4%B8%9C%E6%96%B9%E7%BA%A2%E6%A5%BC%E6%A2%A6#11" title="东方红楼梦">东方红楼梦#11</a></span></td><td class="活动名称 smwtype_txt">東方紅楼夢11</td><td class="日期 smwtype_dat" data-sort-value="2457327.5">2015-11-01</td><td class="举办地点 smwtype_txt">大阪国际展览中心 4号馆・6号馆B区</td><td class="摊位编号 smwtype_txt">せ-18a</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="4" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E4%B8%9C%E6%96%B9%E7%BA%A2%E6%A5%BC%E6%A2%A6#10" title="东方红楼梦">东方红楼梦#10</a></span></td><td class="活动名称 smwtype_txt">東方紅楼夢10</td><td class="日期 smwtype_dat" data-sort-value="2456942.5">2014-10-12</td><td class="举办地点 smwtype_txt">大阪国际展览中心 4号馆・6号馆B区</td><td class="摊位编号 smwtype_txt">い-23b</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="5" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#10" title="博丽神社例大祭">博丽神社例大祭#10</a></span></td><td class="活动名称 smwtype_txt">第十回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2456438.5">2013-05-26</td><td class="举办地点 smwtype_txt">东京Big Sight 东123456展厅</td><td class="摊位编号 smwtype_txt">C07b</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr></tbody></table>
+
 
 
 ## 其他信息

@@ -4,6 +4,7 @@
 
 东方揭示板 | 幻乐团官网
 
+
 ## 介绍
   
 <big><big>东方揭示板　～ Support BBS</big></big>（東方掲示板　～ Support BBS）
@@ -36,6 +37,7 @@ Support揭示板由于种种原因（功能的转移与大量广告帖的涌入�
   
 
 [](./文件-东方Support揭示板标题.png.md)  [](./文件-东方Support揭示板标题.png.md)东方Support揭示板标题
+
 ## 内容
 
 <table>

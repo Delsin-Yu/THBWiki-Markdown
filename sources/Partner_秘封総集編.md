@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Partner_秘封総集編封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/5/51/Partner_%E7%A7%98%E5%B0%81%E7%B7%8F%E9%9B%86%E7%B7%A8%E5%B0%81%E9%9D%A2.jpg/139px-Partner_%E7%A7%98%E5%B0%81%E7%B7%8F%E9%9B%86%E7%B7%A8%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="139" height="196" srcset="https://upload.thwiki.cc/thumb/5/51/Partner_%E7%A7%98%E5%B0%81%E7%B7%8F%E9%9B%86%E7%B7%A8%E5%B0%81%E9%9D%A2.jpg/208px-Partner_%E7%A7%98%E5%B0%81%E7%B7%8F%E9%9B%86%E7%B7%A8%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/5/51/Partner_%E7%A7%98%E5%B0%81%E7%B7%8F%E9%9B%86%E7%B7%A8%E5%B0%81%E9%9D%A2.jpg/277px-Partner_%E7%A7%98%E5%B0%81%E7%B7%8F%E9%9B%86%E7%B7%A8%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="849" data-file-height="1200"></a><div class="cover-char">角色：<a href="./宇佐见莲子.md" title="宇佐见莲子">宇佐见莲子</a>，<a href="./玛艾露贝莉·赫恩.md" title="玛艾露贝莉·赫恩">玛艾露贝莉·赫恩</a></div></td>
@@ -14,11 +15,13 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/53262145">https://www.pixiv.net/artworks/53262145</a></td></tr></tbody></table>
 
 Partner 秘封総集編（同人志，黒豆屋，2015） - 2015年11月1日 由 黒豆屋 于 东方红楼梦11 发布的乐谱同人志，一共92页，登场人物有 宇佐见莲子、玛艾露贝莉·赫恩，分级为 一般向
+
 ## Staff
 Writer
 : カズナ (未找到链接)
 Illustration
 : カズナ (未找到链接)
+
 
 ## 评论
 - [The First Adventure](./The_First_Adventure.md)（加筆修正版）

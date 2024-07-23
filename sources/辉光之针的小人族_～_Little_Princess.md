@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -42,11 +43,13 @@
 
 
 
+
 ## 基本信息
 
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">輝く針の小人族　～ Little Princess</td></tr><tr><td><b>译名</b></td><td>辉光之针的小人族 ～ Little Princess</td></tr><tr><td><b>英文译名</b></td><td>Inchlings of the Shining Needle ~ Little Princess</td></tr><tr><td><b>其他译名</b></td><td>辉煌针之小人族　～ Little Princess<br>辉针小人族　～ Little Princess<br>辉光之针的小人族　～ 小小公主</td></tr><tr><td><b>常见误译</b></td><td><s><i>辉针城的小人族　～ Little Princess</i></s></td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>关联</td></tr><tr><td style="padding-left:15px"><b>相关曲</b></td><td><a href="./针小棒大的天守阁.md" title="针小棒大的天守阁" unred="">針小棒大の天守閣</a></td></tr><tr><td style="padding-left:15px"><b>　来源</b></td><td>东方辉针城　～ Double Dealing Character.</td></tr></tbody></table>
 
 辉光之针的小人族 ～ Little Princess（曲目） - 由 ZUN 创作的官方曲目，原名 輝く針の小人族　～ Little Princess
+
 ## 出现作品
 
 <table>
@@ -58,7 +61,9 @@
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 东方辉针城
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th14_13.mp3.md" title="文件:th14 13.mp3">th14_13.mp3</a><br><audio src="https://upload.thwiki.cc/0/0c/th14_13.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>BGM\th14_13.wav</td></tr><tr><td><b>BGMForAll</b></td><td><div class="mw-collapsible mw-collapsed">
@@ -69,9 +74,11 @@
 </td></tr></tbody></table>
 
 
+
 ### 深秘乐曲集
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-TFM-007b_12.mp3.md" title="文件:TFM-007b 12.mp3">TFM-007b_12.mp3</a><br><audio src="https://upload.thwiki.cc/c/cf/TFM-007b_12.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track12.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>4:53</td></tr></tbody></table>
+
 
 
 ### 完全凭依唱片名录
@@ -79,7 +86,9 @@
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-TFM-009c_04.mp3.md" title="文件:TFM-009c 04.mp3">TFM-009c_04.mp3</a><br><audio src="https://upload.thwiki.cc/9/90/TFM-009c_04.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track04.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>4:47</td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 东方辉针城
 - Music Room (未找到链接)
 
@@ -89,7 +98,9 @@
 虽然少了几分厚重，但无论如何我觉得这是一首  
 非常有最终BOSS气氛的展开方式十分惬意的曲子。  
 嗯？看起来并不小？总之通关了你就知道了。
+
 ## 其他资料
+
 ### 乐理资讯
   
 【曲名】《辉光之针的小人族》
@@ -131,6 +142,7 @@
 (d2) 写作原理同d1。这个动机与《圣德传说》前奏的动机一致。
   
 
+
 #### 使用乐器
 - SD-90 St.Slow Str
 - SD-90 St.Choir Aahs
@@ -144,6 +156,7 @@
 - Retrologue Bit Rider
 - Groove Agent 2/3 2-Step
 - EZdrummer Default Kit
+
 
 ### 分析考据
   
@@ -180,6 +193,7 @@ ZUN
 
 
 - [](./文件-《梦幻小妖精》游戏界面.jpg.md)《梦幻小妖精》游戏界面
+
 
 ### 二次同人数据
 

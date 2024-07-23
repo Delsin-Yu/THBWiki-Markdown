@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **相关实体周边 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 周边信息](#周边信息)
@@ -21,20 +22,25 @@
 
 
 
+
 ## 周边信息
 
 <table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 琪露诺Tou hou saber系列挂件 </td></tr><tr><td class="label">系列</td><td> Tou Hou Saber </td></tr><tr><td class="label">制作方</td><td><a href="./天邪鬼夜行.md" title="天邪鬼夜行">天邪鬼夜行</a></td></tr><tr><td class="label">首发日期</td><td>2023-07-22&#160;（<a href="/展会作品列表?e=%E4%B8%9C%E6%96%B9%E5%8D%8E%E6%9C%88%E5%AE%B4%C2%B7%E6%A7%90%E5%BA%8F%E7%BB%AE%E6%83%B3%237">鄭州THO-東方夕夜花</a>）</td></tr><tr><td class="label">类型</td><td>挂件</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>6*6cm</td></tr><tr><td class="label">材质</td><td>亚克力</td></tr><tr><td class="label">角色</td><td><a href="./琪露诺.md" title="琪露诺">琪露诺</a></td></tr><tr><td class="label">售价</td><td>25人民币</td></tr><tr><td class="label">备注</td><td>彩虹板亚克力炫彩挂件</td></tr></tbody></table>
 
 天邪鬼夜行/琪露诺Tou hou saber系列挂件（周边，天邪鬼夜行，2023） - 2023年7月22日 由 天邪鬼夜行 于 东方华月宴·槐序绮想7 发布的挂件周边，分级为 一般向
+
 ## 参考图
+
 ### 预览图
 - [](./文件-天邪鬼夜行／琪露诺Tou_hou_saber系列挂件预览图1.jpg.md)
+
 
 ## Staff
 主催
 : Rayfubuki
 画师
 : 艾露elf
+
 
 ## 评论
 

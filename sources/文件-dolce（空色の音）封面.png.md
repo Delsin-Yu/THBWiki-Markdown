@@ -4,6 +4,7 @@
 
 同人志封面 | 封面图片 | 空色の音
 
+
 ## 摘要
   
 源地址：[direct image link (original size; cropped to cover)](https://s2.booth.pm/f8ae0048-54b8-4805-a195-2cd738e1ede4/i/4404/f3a02da7-a4d5-4be2-9075-d825da9a096d.jpg), [source page (circle Booth)](https://amkn.booth.pm/items/4404)

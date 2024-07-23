@@ -6,11 +6,13 @@
 
 本页是关于东方Project  
  **二次同人创作者** 的词条
+
 ## 基本信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="label"><b>名称</b></td><td> kaκe </td></tr><tr><td class="label"><b>别名</b></td><td>kake<br>kake atto</td></tr><tr><td class="label"><b>所属社团</b></td><td><b>当前</b><div style="margin-left:2em;"><a href="./fragile_frangile.md" title="fragile frangile">fragile frangile</a></div></td></tr><tr><td class="label"><b>职位</b></td><td>编曲，演奏</td></tr><tr><td class="label"><b>参与社团</b></td><td><a href="/index.php?title=Sputters&amp;action=edit&amp;redlink=1" class="new" title="Sputters（页面不存在）">Sputters</a> （演奏）<br><a href="./UtAGe.md" title="UtAGe">UtAGe</a> （演奏）<br><a href="./fragile_frangile.md" title="fragile frangile">fragile frangile</a> （编曲）<br><a href="./全力お花畑.md" title="全力お花畑">全力お花畑</a> （演奏）<br><a href="./雪風ルーフ.md" title="雪風ルーフ">雪風ルーフ</a> （编曲）</td></tr><tr><td class="label"><b>个人页面</b></td><td><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><b>Twitter</b></td><td><a rel="nofollow" class="external free" href="https://twitter.com/k_cheeen">https://twitter.com/k_cheeen</a></td></tr><tr><td><b>Pixiv</b></td><td><a rel="nofollow" class="external free" href="https://www.pixiv.net/users/310168">https://www.pixiv.net/users/310168</a></td></tr><tr><td><b>Soundcloud</b></td><td><a rel="nofollow" class="external free" href="https://soundcloud.com/kake-atto/">https://soundcloud.com/kake-atto/</a></td></tr><tr><td><b>Youtube</b></td><td><a rel="nofollow" class="external free" href="https://www.youtube.com/channel/UCXLXpfhHIAuUOi3rZRxsuyw">https://www.youtube.com/channel/UCXLXpfhHIAuUOi3rZRxsuyw</a></td></tr></tbody></table></td></tr></tbody></table>
 
 kaκe（人物） - 现实人物
+
 ## 介绍
 - [fragile frangile](./fragile_frangile.md)的主催。
 

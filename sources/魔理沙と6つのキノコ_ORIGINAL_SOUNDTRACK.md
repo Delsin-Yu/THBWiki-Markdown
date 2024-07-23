@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-魔理沙と6つのキノコ_ORIGINAL_SOUNDTRACK封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/a/a9/%E9%AD%94%E7%90%86%E6%B2%99%E3%81%A86%E3%81%A4%E3%81%AE%E3%82%AD%E3%83%8E%E3%82%B3_ORIGINAL_SOUNDTRACK%E5%B0%81%E9%9D%A2.jpg/252px-%E9%AD%94%E7%90%86%E6%B2%99%E3%81%A86%E3%81%A4%E3%81%AE%E3%82%AD%E3%83%8E%E3%82%B3_ORIGINAL_SOUNDTRACK%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="250" srcset="https://upload.thwiki.cc/thumb/a/a9/%E9%AD%94%E7%90%86%E6%B2%99%E3%81%A86%E3%81%A4%E3%81%AE%E3%82%AD%E3%83%8E%E3%82%B3_ORIGINAL_SOUNDTRACK%E5%B0%81%E9%9D%A2.jpg/378px-%E9%AD%94%E7%90%86%E6%B2%99%E3%81%A86%E3%81%A4%E3%81%AE%E3%82%AD%E3%83%8E%E3%82%B3_ORIGINAL_SOUNDTRACK%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/a/a9/%E9%AD%94%E7%90%86%E6%B2%99%E3%81%A86%E3%81%A4%E3%81%AE%E3%82%AD%E3%83%8E%E3%82%B3_ORIGINAL_SOUNDTRACK%E5%B0%81%E9%9D%A2.jpg/504px-%E9%AD%94%E7%90%86%E6%B2%99%E3%81%A86%E3%81%A4%E3%81%AE%E3%82%AD%E3%83%8E%E3%82%B3_ORIGINAL_SOUNDTRACK%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="600" data-file-height="595"></a><div class="cover-char">角色：<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a>，<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>，<a href="./铃仙·优昙华院·因幡.md" title="铃仙·优昙华院·因幡">铃仙·优昙华院·因幡</a></div></td>
@@ -16,6 +17,7 @@
 魔理沙と6つのキノコ ORIGINAL SOUNDTRACK（同人专辑，黄昏边境，うにぼく，2010） - 2010年12月30日 由 黄昏边境，うにぼく 于 Comic Market 79 发布的原声集同人专辑，分级为 一般向
 
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://itunes.apple.com/album/marisa-to-muttsu-no-kinoko-original-sound-track/1455572201">Apple Music</a>，<a rel="nofollow" class="external text" href="https://play.google.com/store/music/album?id=Bsknxgxp5e2ivfebuolaiufrg2i">Google Play Music</a></td></tr></tbody></table>
+
 
 
 ## Staff
@@ -32,6 +34,7 @@
 
 Cover Artwork
 : モタ （[motor home](http://mota.sakura.ne.jp/)）
+
 
 ## 曲目列表
 
@@ -75,6 +78,7 @@ Cover Artwork
 <tr><td id="38" class="infoO"><b>38</b></td><td id="博麗神社周辺_-long_ver.-" colspan="2" class="title">博麗神社周辺 -long ver.-<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=ziki_7，ziki_7&amp;fromwiki=魔理沙と6つのキノコ_ORIGINAL_SOUNDTRACK"><span title="搜索相似同人曲"></span></a></span></td><td class="time">02:45</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./ziki_7.md" title="ziki 7">ziki_7</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，ziki_7&amp;fromwiki=魔理沙と6つのキノコ_ORIGINAL_SOUNDTRACK"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">再编曲</td><td class="text" colspan="2"><a href="./ziki_7.md" title="ziki 7">ziki_7</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=ziki_7&amp;fromwiki=魔理沙と6つのキノコ_ORIGINAL_SOUNDTRACK"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">初发布</td><td class="text" colspan="2"><a href="/%E9%AD%94%E7%90%86%E6%B2%99%E3%81%A86%E3%81%A4%E3%81%AE%E3%82%AD%E3%83%8E%E3%82%B3_ORIGINAL_SOUNDTRACK#10" title="魔理沙と6つのキノコ ORIGINAL SOUNDTRACK">博麗神社周辺</a><div class="source"><a class="mw-selflink selflink">魔理沙と6つのキノコ ORIGINAL SOUNDTRACK</a></div></td></tr>
 <tr><td id="39" class="infoO"><b>39</b></td><td id="伝説のキノコ" colspan="2" class="title">伝説のキノコ<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=ziki_7，あきやまうに&amp;fromwiki=魔理沙と6つのキノコ_ORIGINAL_SOUNDTRACK"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:20</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./ziki_7.md" title="ziki 7">ziki_7</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，ziki_7&amp;fromwiki=魔理沙と6つのキノコ_ORIGINAL_SOUNDTRACK"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">再编曲</td><td class="text" colspan="2"><a href="./あきやまうに.md" title="あきやまうに">あきやまうに</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=あきやまうに&amp;fromwiki=魔理沙と6つのキノコ_ORIGINAL_SOUNDTRACK"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">初发布</td><td class="text" colspan="2"><a href="/%E9%AD%94%E7%90%86%E6%B2%99%E3%81%A86%E3%81%A4%E3%81%AE%E3%82%AD%E3%83%8E%E3%82%B3_ORIGINAL_SOUNDTRACK#25" title="魔理沙と6つのキノコ ORIGINAL SOUNDTRACK">ラスボス</a><div class="source"><a class="mw-selflink selflink">魔理沙と6つのキノコ ORIGINAL SOUNDTRACK</a></div></td></tr>
 <tr><td id="40" class="infoO"><b>40</b></td><td id="cross-fade-Xmas" colspan="2" class="title">cross-fade-Xmas<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=あきやまうに，ziki_7，oiko&amp;fromwiki=魔理沙と6つのキノコ_ORIGINAL_SOUNDTRACK"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:52</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./あきやまうに.md" title="あきやまうに">あきやまうに</a>，<a href="./ziki_7.md" title="ziki 7">ziki_7</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，あきやまうに，ziki_7&amp;fromwiki=魔理沙と6つのキノコ_ORIGINAL_SOUNDTRACK"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">再编曲</td><td class="text" colspan="2"><a href="./oiko.md" title="oiko">oiko</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=oiko&amp;fromwiki=魔理沙と6つのキノコ_ORIGINAL_SOUNDTRACK"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">再编<b>冥界</b>（Tr. 6）和<b>地上BGM</b>（Tr. 11）</td></tr></tbody></table>
+
 
 
 ## 评论

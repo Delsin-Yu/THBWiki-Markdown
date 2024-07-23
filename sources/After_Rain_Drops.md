@@ -4,7 +4,8 @@
 
 After Rain Drops ，于 2018 年成立，主要制作 同人音乐 的日本同人社团，主催是 桜内まつり，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -21,12 +22,14 @@ After Rain Drops ，于 2018 年成立，主要制作 同人音乐 的日本同�
 
 
 
+
 ## 社团信息
 [](./文件-After_Rain_Dropslogo.png.md)  [](./文件-After_Rain_Dropslogo.png.md)logo
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> After Rain Drops </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2018</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="./桜内まつり.md" title="桜内まつり">桜内まつり</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="https://afterraindrops2018.wixsite.com/afterraindrops">https://afterraindrops2018.wixsite.com/afterraindrops</a> <br><a rel="nofollow" class="external free" href="https://twitter.com/ard_music">https://twitter.com/ard_music</a><br><a rel="nofollow" class="external free" href="https://soundcloud.com/after_rain_drops">https://soundcloud.com/after_rain_drops</a><br><a rel="nofollow" class="external free" href="https://after-rain-drops.booth.pm/">https://after-rain-drops.booth.pm/</a></td></tr></tbody></table>
 
 After Rain Drops（同人社团，同人音乐社团） - After Rain Drops ，于 2018 年成立，主要制作 同人音乐 的日本同人社团，主催是 桜内まつり，当前状态为 活动
+
 ## 成员名单
 - [桜内まつり](./桜内まつり.md) （[Twitter：@matsurichieri](https://twitter.com/matsurichieri)）- Chief / Music
 - [てぃじぇりおん](./てぃじぇりおん.md) （[Twitter：@TJerion_rion](https://twitter.com/TJerion_rion)）- Music
@@ -39,7 +42,9 @@ After Rain Drops（同人社团，同人音乐社团） - After Rain Drops ，�
 - アルク (未找到链接) （[Twitter：@Arlk_StArry](https://twitter.com/Arlk_StArry)）- Music
 - づら (未找到链接) （[Twitter：@TKM_12345](https://twitter.com/TKM_12345)）- Engineer
 
+
 ## 作品列表
+
 ### 同人专辑
 [](./Taste_the_Rainbow.md)[Taste the Rainbow](./Taste_the_Rainbow.md)首发日期：2018-02-11 （紅のひろば15 (未找到链接)）全长 （一般向）[](./夢幻星霜紀行.md)[夢幻星霜紀行](./夢幻星霜紀行.md)首发日期：2018-09-15 （紅のひろば16 (未找到链接)）全长 （一般向）[](./彼ノ子ヨリ花束ヲ.md)[彼ノ子ヨリ花束ヲ](./彼ノ子ヨリ花束ヲ.md)首发日期：2019-01-27 （みょうれんパーティー5 (未找到链接)）全长 （一般向）[](./Twilight_Anthology.md)[TWILIGHT ANTHOLOGY](./Twilight_Anthology.md)首发日期：2019-07-07 （東方想七日7 (未找到链接)）全长 （一般向）[](./After_Rain_Drops（同人专辑）.md)[After Rain Drops](./After_Rain_Drops（同人专辑）.md)首发日期：2019-10-06 （第六回 博麗神社秋季例大祭 (未找到链接)）全长 （一般向）[](./東風吹かば（After_Rain_Drops）.md)[東風吹かば](./東風吹かば（After_Rain_Drops）.md)首发日期：2020-02-02 （もりや神社例大祭 九 (未找到链接)）全长 （一般向）[](./日の向く方へ.md)[日の向く方へ](./日の向く方へ.md)首发日期：2020-04-05 （東方螺茶会 花嵐1 (未找到链接)）全长 （一般向）[](./夜桜に薙ぐ.md)[夜桜に薙ぐ](./夜桜に薙ぐ.md)首发日期：2020-10-18 （第七回 博麗神社秋季例大祭 (未找到链接)）全长 （一般向）[](./TENGU.md)[TENGU](./TENGU.md)首发日期：2021-03-07 （東方合同祭事漆 (未找到链接)）全长 （一般向）[](./地底響宴.md)[地底響宴](./地底響宴.md)首发日期：2023-11-12 （第十回 博麗神社秋季例大祭 (未找到链接)）全长 （一般向）
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -64,9 +69,11 @@ After Rain Drops（同人社团，同人音乐社团） - After Rain Drops ，�
 </table>
 
 
+
 ## 参展信息
 
 <table><tbody><tr><th class="活动页面">活动页面</th><th class="活动名称">活动名称</th><th class="日期">日期</th><th class="举办地点">举办地点</th><th class="摊位编号">摊位编号</th><th class="宣传页面">宣传页面</th><th class="备注">备注</th></tr><tr data-row-number="1" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E7%A7%8B%E5%AD%A3%E4%BE%8B%E5%A4%A7%E7%A5%AD#10" title="博丽神社秋季例大祭">博丽神社秋季例大祭#10</a></span></td><td class="活动名称 smwtype_txt">第十回 博麗神社秋季例大祭</td><td class="日期 smwtype_dat" data-sort-value="2460260.5">2023-11-12</td><td class="举办地点 smwtype_txt">东京Big Sight 東展厅</td><td class="摊位编号 smwtype_txt">そ45b</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt">与<a href="./ミカヅキこんふぇくしょなりぃ.md" title="ミカヅキこんふぇくしょなりぃ">ミカヅキこんふぇくしょなりぃ</a>合摊</td></tr><tr data-row-number="2" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E7%A7%8B%E5%AD%A3%E4%BE%8B%E5%A4%A7%E7%A5%AD#7" title="博丽神社秋季例大祭">博丽神社秋季例大祭#7</a></span></td><td class="活动名称 smwtype_txt">第七回 博麗神社秋季例大祭</td><td class="日期 smwtype_dat" data-sort-value="2459140.5">2020-10-18</td><td class="举办地点 smwtype_txt">东京Big Sight 西展厅</td><td class="摊位编号 smwtype_txt">え03ab</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="3" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E7%A7%8B%E5%AD%A3%E4%BE%8B%E5%A4%A7%E7%A5%AD#6" title="博丽神社秋季例大祭">博丽神社秋季例大祭#6</a></span></td><td class="活动名称 smwtype_txt">第六回 博麗神社秋季例大祭</td><td class="日期 smwtype_dat" data-sort-value="2458762.5">2019-10-06</td><td class="举办地点 smwtype_txt">东京Big Sight 西展厅</td><td class="摊位编号 smwtype_txt">D07a</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="4" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E7%BA%A2%E4%B9%8B%E5%B9%BF%E5%9C%BA#15" title="红之广场">红之广场#15</a></span></td><td class="活动名称 smwtype_txt">紅のひろば15</td><td class="日期 smwtype_dat" data-sort-value="2458160.5">2018-02-11</td><td class="举办地点 smwtype_txt">东京都大田区产业广场Pio 1层 大展示厅</td><td class="摊位编号 smwtype_txt">レミ13</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr></tbody></table>
+
 
 
 ## 其他信息

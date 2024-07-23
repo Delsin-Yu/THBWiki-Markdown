@@ -4,6 +4,7 @@
 
 Τeam_αlternative_Σnding
 
+
 ## 目录
 
 - [1 附带文档](#附带文档)
@@ -14,13 +15,16 @@
 
 
 
+
 ## 附带文档
 - [credits](./東方夢旧市_～_Glory_of_Deep_Skies.-设定与剧情-credits.md)
 - [omake](./東方夢旧市_～_Glory_of_Deep_Skies.-设定与剧情-omake.md)
 - [readme](./東方夢旧市_～_Glory_of_Deep_Skies.-设定与剧情-readme.md)
 
+
 ## 故事背景
 - [故事背景](./東方夢旧市_～_Glory_of_Deep_Skies.-设定与剧情-故事背景.md)
+
 
 ## 游戏对话
 - [博丽灵梦 游戏对话/结局](./東方夢旧市_～_Glory_of_Deep_Skies.-设定与剧情-博丽灵梦.md)
@@ -28,6 +32,7 @@
 
 - [博丽灵梦 Extra游戏对话](./東方夢旧市_～_Glory_of_Deep_Skies.-设定与剧情-博丽灵梦EX.md)
 - [雾雨魔理沙 Extra游戏对话](./東方夢旧市_～_Glory_of_Deep_Skies.-设定与剧情-雾雨魔理沙EX.md)
+
 
 ## 词条导航
   

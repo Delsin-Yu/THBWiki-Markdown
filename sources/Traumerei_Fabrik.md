@@ -4,7 +4,8 @@
 
 Traumerei Fabrik ，主要制作 同人音乐 的日本同人社团，主催是 秋晴，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -21,12 +22,14 @@ Traumerei Fabrik ，主要制作 同人音乐 的日本同人社团，主催是 
 
 
 
+
 ## 社团信息
 文件:Traumerei Fabriklogo.png (未找到链接)  logo
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Traumerei Fabrik </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="./秋晴.md" title="秋晴">秋晴</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="https://traumereifabrik.com/">https://traumereifabrik.com/</a> <br><a rel="nofollow" class="external free" href="https://shop.traumereifabrik.com/">https://shop.traumereifabrik.com/</a><br><a rel="nofollow" class="external free" href="https://soundcloud.com/traumereifabrik">https://soundcloud.com/traumereifabrik</a><br><a rel="nofollow" class="external free" href="http://www.traumereifabrik.yukihotaru.com/">http://www.traumereifabrik.yukihotaru.com/</a> （旧官网）<span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span></td></tr></tbody></table>
 
 Traumerei Fabrik（同人社团，同人音乐社团） - Traumerei Fabrik ，主要制作 同人音乐 的日本同人社团，主催是 秋晴，当前状态为 活动
+
 ## 成员名单
 - [秋晴](./秋晴.md)&#160;: Arrangement, Mixing, Mastering
 
@@ -36,7 +39,9 @@ Traumerei Fabrik（同人社团，同人音乐社团） - Traumerei Fabrik ，�
 
 : [Twitter](https://twitter.com/inabap)
 
+
 ## 作品列表
+
 ### 同人专辑
 [](./Prism（Traumerei_Fabrik）.md)[Prism（Traumerei Fabrik）](./Prism（Traumerei_Fabrik）.md)首发日期：2010-02-28 （東方蝦夷祭 壱幕 (未找到链接)）全长 （一般向）[](./Last_Radiance.md)[Last Radiance](./Last_Radiance.md)首发日期：2010-05-23 （東方北都祭 第一弾 (未找到链接)）全长 （一般向）[](./トロイメライファブリック.md)[トロイメライファブリック](./トロイメライファブリック.md)首发日期：2011-08-13 （Comic Market 80 (未找到链接)）TRFB1003全长 （一般向）[](./PAPYRUS.md)[PAPYRUS](./PAPYRUS.md)首发日期：2012-08-11 （Comic Market 82 (未找到链接)）TFCD-0004全长、​精选集 （一般向）ティルナノーグと刻の歌 封面图片 (未找到链接)[ティルナノーグと刻の歌](./ティルナノーグと刻の歌.md)首发日期：2015-08-14 （Comic Market 88 (未找到链接)）TRFB1005全长 （一般向）[](./Othello.md)[Othello](./Othello.md)首发日期：2017-08-11 （Comic Market 92 (未找到链接)）TRFB-1006全长 （一般向）[](./COURTRITUAL_＃01.md)[COURTRITUAL ＃01](./COURTRITUAL_＃01.md)首发日期：2017-10-29 （極・東方神居祭10 (未找到链接)）EP （一般向）[](./COURTRITUAL_＃02.md)[COURTRITUAL ＃02](./COURTRITUAL_＃02.md)首发日期：2018-08-10 （Comic Market 94 (未找到链接)）EP （一般向）[](./幻想メトロ.md)[幻想メトロ](./幻想メトロ.md)首发日期：2018-12-30 （Comic Market 95 (未找到链接)）全长 （一般向）[](./COURTRITUAL＃3.md)[COURTRITUAL＃3](./COURTRITUAL＃3.md)首发日期：2019-02-11 （極・東方神居祭14 (未找到链接)）EP （一般向）[](./ティルナノーグと永遠の歌.md)[ティルナノーグと永遠の歌](./ティルナノーグと永遠の歌.md)首发日期：2019-08-12 （Comic Market 96 (未找到链接)）TRFB1011全长 （一般向）[](./COURTRITUAL_＃4.md)[COURTRITUAL ＃4](./COURTRITUAL_＃4.md)首发日期：2019-10-13 （東方紅楼夢15 (未找到链接)）EP （一般向）[](./𝗰𝗹𝗲+𝗲𝗰+𝟭𝘃𝗲.md)[𝗰𝗹𝗲+𝗲𝗰+𝟭𝘃𝗲](./𝗰𝗹𝗲+𝗲𝗰+𝟭𝘃𝗲.md)首发日期：2022-10-23 （第九回 博麗神社秋季例大祭 (未找到链接)）全长 （一般向）DLカードCold Sleep EP 封面图片 (未找到链接)[Cold Sleep EP](./Cold_Sleep_EP.md)首发日期：2023-05-07 （第二十回 博麗神社例大祭 (未找到链接)）EP （一般向）[](./COURTRITUAL_Annual_Report_＃1.md)[COURTRITUAL Annual Report #1](./COURTRITUAL_Annual_Report_＃1.md)首发日期：2023-10-15 （東方紅楼夢19 (未找到链接)）全长 （一般向）[](./COURTRITUAL_＃5.md)[COURTRITUAL ＃5](./COURTRITUAL_＃5.md)首发日期：2023-12-31 （Comic Market 103 (未找到链接)）EP （一般向）
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -73,9 +78,11 @@ Traumerei Fabrik（同人社团，同人音乐社团） - Traumerei Fabrik ，�
 </table>
 
 
+
 ## 参展信息
 
 <table><tbody><tr><th class="活动页面">活动页面</th><th class="活动名称">活动名称</th><th class="日期">日期</th><th class="举办地点">举办地点</th><th class="摊位编号">摊位编号</th><th class="宣传页面">宣传页面</th><th class="备注">备注</th></tr><tr data-row-number="1" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#21" title="博丽神社例大祭">博丽神社例大祭#21</a></span></td><td class="活动名称 smwtype_txt">第二十一回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2460433.5">2024-05-03</td><td class="举办地点 smwtype_txt">东京Big Sight 东展厅</td><td class="摊位编号 smwtype_txt">つ21b</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="2" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/Comic_Market#103" title="Comic Market">Comic Market#103</a></span></td><td class="活动名称 smwtype_txt">Comic Market 103</td><td class="日期 smwtype_dat" data-sort-value="2460309.5">2023-12-31</td><td class="举办地点 smwtype_txt">东京都 东京国际展示场</td><td class="摊位编号 smwtype_txt">西か39a</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="3" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E4%B8%9C%E6%96%B9%E7%BA%A2%E6%A5%BC%E6%A2%A6#19" title="东方红楼梦">东方红楼梦#19</a></span></td><td class="活动名称 smwtype_txt">東方紅楼夢19</td><td class="日期 smwtype_dat" data-sort-value="2460232.5">2023-10-15</td><td class="举办地点 smwtype_txt">大阪国际展览中心 6号馆C・D区</td><td class="摊位编号 smwtype_txt">お-02b</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="4" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#20" title="博丽神社例大祭">博丽神社例大祭#20</a></span></td><td class="活动名称 smwtype_txt">第二十回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2460071.5">2023-05-07</td><td class="举办地点 smwtype_txt">东京Big Sight 东展厅</td><td class="摊位编号 smwtype_txt">ち08a</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="5" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E7%A7%8B%E5%AD%A3%E4%BE%8B%E5%A4%A7%E7%A5%AD#9" title="博丽神社秋季例大祭">博丽神社秋季例大祭#9</a></span></td><td class="活动名称 smwtype_txt">第九回 博麗神社秋季例大祭</td><td class="日期 smwtype_dat" data-sort-value="2459875.5">2022-10-23</td><td class="举办地点 smwtype_txt">东京Big Sight 西展厅</td><td class="摊位编号 smwtype_txt">え25b</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="6" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E7%A7%8B%E5%AD%A3%E4%BE%8B%E5%A4%A7%E7%A5%AD#7" title="博丽神社秋季例大祭">博丽神社秋季例大祭#7</a></span></td><td class="活动名称 smwtype_txt">第七回 博麗神社秋季例大祭</td><td class="日期 smwtype_dat" data-sort-value="2459140.5">2020-10-18</td><td class="举办地点 smwtype_txt">东京Big Sight 西展厅</td><td class="摊位编号 smwtype_txt">う24ab</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="7" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E4%B8%9C%E6%96%B9%E7%BA%A2%E6%A5%BC%E6%A2%A6#15" title="东方红楼梦">东方红楼梦#15</a></span></td><td class="活动名称 smwtype_txt">東方紅楼夢15</td><td class="日期 smwtype_dat" data-sort-value="2458769.5">2019-10-13</td><td class="举办地点 smwtype_txt">大阪国际展览中心</td><td class="摊位编号 smwtype_txt">え-06a</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="8" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/Comic_Market#95" title="Comic Market">Comic Market#95</a></span></td><td class="活动名称 smwtype_txt">Comic Market 95</td><td class="日期 smwtype_dat" data-sort-value="2458482.5">2018-12-30</td><td class="举办地点 smwtype_txt">东京都 东京国际展示场 东1-8展厅、西1-4展厅</td><td class="摊位编号 smwtype_txt">東レ-52a</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr></tbody></table>
+
 
 
 ## 其他信息

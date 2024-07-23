@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 软件信息](#软件信息)
@@ -13,6 +14,7 @@
 - [3 作品简介](#作品简介)
 - [4 内容页面](#内容页面)
 - [5 评论](#评论)
+
 
 
 
@@ -25,10 +27,12 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://dbs.thb.io/">http://dbs.thb.io/</a><br><span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span></td></tr></tbody></table>
 
 幻想梦斗符——永夜月华之章X初战之器~妖星闪奏曲（同人游戏，丝风（ProjectZephyr），2017） - 2017年4月30日 由 丝风（ProjectZephyr） 于 COMICUP20 发布的TCG同人游戏，可在 通用 系统上运行，分级为 一般向
+
 ## Staff
   
 沂琳irinwind
   
+
 
 ## 作品简介
   
@@ -41,10 +45,12 @@
 补全并完善铃仙、蓬莱山辉夜、八意永琳的所有符卡。退出了全新的新手预组琪露诺vs三月精
   
 
+
 ## 内容页面
 - 游戏设定与剧情 (未找到链接)
 - 攻略 (未找到链接)
 - 其他信息 (未找到链接)
+
 
 ## 评论
 

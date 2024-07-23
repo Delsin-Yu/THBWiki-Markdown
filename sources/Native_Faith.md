@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -34,11 +35,13 @@
 
 
 
+
 ## 基本信息
 
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">ネイティブフェイス</td></tr><tr><td><b>译名</b></td><td>Native Faith</td></tr><tr><td><b>其他译名</b></td><td>土著神的信仰</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 Native Faith（曲目） - 由 ZUN 创作的官方曲目，原名 ネイティブフェイス
+
 ## 出现作品
 
 <table>
@@ -46,7 +49,9 @@ Native Faith（曲目） - 由 ZUN 创作的官方曲目，原名 ネイティ�
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 东方风神录
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th10_15.mp3.md" title="文件:th10 15.mp3">th10_15.mp3</a><br><audio src="https://upload.thwiki.cc/e/ec/th10_15.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>BGM\th10_15.wav</td></tr><tr><td><b>BGMForAll</b></td><td><div class="mw-collapsible mw-collapsed">
@@ -57,7 +62,9 @@ Native Faith（曲目） - 由 ZUN 创作的官方曲目，原名 ネイティ�
 </td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 东方风神录
 - Music Room (未找到链接)
 
@@ -67,8 +74,11 @@ Native Faith（曲目） - 由 ZUN 创作的官方曲目，原名 ネイティ�
 　潜藏在这明快曲调背后的，可是地狱的钢琴曲啊。  
 　这首曲子比起神奈子的更加轻松呢。  
 　也只能当做是在尽兴玩乐了，尤其是超高速钢琴。
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
   
  **ネイティブフェイス**   Native Faith
@@ -82,6 +92,7 @@ Native Faith（曲目） - 由 ZUN 创作的官方曲目，原名 ネイティ�
 - フェイス（Faith）
   - 信仰。
     - [洩矢诹访子](./洩矢诹访子.md)的力量完全来自于所收集的信仰。
+
 
 
 

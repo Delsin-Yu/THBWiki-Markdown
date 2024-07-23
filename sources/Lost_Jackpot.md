@@ -6,6 +6,7 @@ JynX作曲 | Lost_Jackpot | 引用了翻译表的页面 | 连缘Project | 连缘
 
 本页是关于 **向[东方Project](./东方Project.md)  
 致敬、形式类似的作品** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -26,6 +27,7 @@ JynX作曲 | Lost_Jackpot | 引用了翻译表的页面 | 连缘Project | 连缘
 
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
+
 
 
 
@@ -61,6 +63,7 @@ JynX作曲 | Lost_Jackpot | 引用了翻译表的页面 | 连缘Project | 连缘
 </td></tr></tbody></table>
 
 
+
 ## 出现作品
 
 <table>
@@ -69,13 +72,17 @@ JynX作曲 | Lost_Jackpot | 引用了翻译表的页面 | 连缘Project | 连缘
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 连缘天影战记
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>MIDI格式</b></td><td>无播放信息</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-le04_BOSS_Xeno_a.mp3.md" title="文件:le04 BOSS Xeno a.mp3">le04_BOSS_Xeno_a.mp3</a><br><audio src="https://upload.thwiki.cc/5/58/le04_BOSS_Xeno_a.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>未填写</td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 连缘天影战记
 - Music Room (未找到链接)
 
@@ -92,8 +99,11 @@ EX面BOSS，世乃亚的曲子。
   
 中途曲调变化了一次  
 这大概就是中头彩后的欣喜若狂（？）
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
 
 

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Breeze（FRACTCL）封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/a/aa/Breeze%EF%BC%88FRACTCL%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/224px-Breeze%EF%BC%88FRACTCL%EF%BC%89%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="224" srcset="https://upload.thwiki.cc/thumb/a/aa/Breeze%EF%BC%88FRACTCL%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/336px-Breeze%EF%BC%88FRACTCL%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/a/aa/Breeze%EF%BC%88FRACTCL%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/448px-Breeze%EF%BC%88FRACTCL%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1654" data-file-height="1654"></a><div class="cover-char">角色：<a href="./射命丸文.md" title="射命丸文">射命丸文</a></div></td>
@@ -13,10 +14,13 @@
 </tr><tr><td class="label">首发日期</td><td>2015-10-12&#160;（<a href="/展会作品列表?e=%E6%96%87%E6%96%87%E3%80%82%E6%96%B0%E9%97%BB%E5%8F%8B%E4%BA%BA%E9%9B%86%E4%BC%9A%236">第百三十季 文々。新聞友の会</a>）</td></tr><tr><td class="label">类型</td><td>EP</td></tr><tr><td class="label">编号</td><td>FRC-S003</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>0</td></tr><tr><td class="label">总时长</td><td>00:00</td></tr></tbody></table>
 
 Breeze（同人专辑，FRACTCL，2015） - 2015年10月12日 由 FRACTCL 于 文文。新闻友人集会6 发布的EP同人专辑，分级为 一般向
+
 ## Staff
+
 ## 曲目列表
 
 <table></table>
+
 
 
 ## 评论

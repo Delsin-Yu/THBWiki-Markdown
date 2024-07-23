@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-NUEが幻想を破壊する封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/c/c8/NUE%E3%81%8C%E5%B9%BB%E6%83%B3%E3%82%92%E7%A0%B4%E5%A3%8A%E3%81%99%E3%82%8B%E5%B0%81%E9%9D%A2.jpg/139px-NUE%E3%81%8C%E5%B9%BB%E6%83%B3%E3%82%92%E7%A0%B4%E5%A3%8A%E3%81%99%E3%82%8B%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="139" height="196" srcset="https://upload.thwiki.cc/thumb/c/c8/NUE%E3%81%8C%E5%B9%BB%E6%83%B3%E3%82%92%E7%A0%B4%E5%A3%8A%E3%81%99%E3%82%8B%E5%B0%81%E9%9D%A2.jpg/208px-NUE%E3%81%8C%E5%B9%BB%E6%83%B3%E3%82%92%E7%A0%B4%E5%A3%8A%E3%81%99%E3%82%8B%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/c/c8/NUE%E3%81%8C%E5%B9%BB%E6%83%B3%E3%82%92%E7%A0%B4%E5%A3%8A%E3%81%99%E3%82%8B%E5%B0%81%E9%9D%A2.jpg/278px-NUE%E3%81%8C%E5%B9%BB%E6%83%B3%E3%82%92%E7%A0%B4%E5%A3%8A%E3%81%99%E3%82%8B%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="319" data-file-height="450"></a><div class="cover-char">角色：<a href="./封兽鵺.md" title="封兽鵺">封兽鵺</a></div></td>
@@ -17,8 +18,10 @@ NUEが幻想を破壊する（同人志，偽者の脳内，2019） - 2019年12�
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=592227">蜜瓜</a></td></tr></tbody></table>
 
 
+
 ## Staff
 : FALSE (未找到链接)
+
 
 ## 评论
 

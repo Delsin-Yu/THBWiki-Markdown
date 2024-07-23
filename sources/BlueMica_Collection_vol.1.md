@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 软件信息](#软件信息)
@@ -17,6 +18,7 @@
 
 
 - [4 评论](#评论)
+
 
 
 
@@ -40,8 +42,11 @@ BlueMica Collection vol.1（同人游戏，BlueMica，2013） - 2013年5月26日
 </tbody></table>
 
 
+
 ## Staff
+
 ## 内容页面
+
 ### 收录游戏
 [](./魔理沙の冒険～The_Quest_of_Marisa～.md)[魔理沙の冒険～The Quest of Marisa～](./魔理沙の冒険～The_Quest_of_Marisa～.md)首发日期：2007-08-17 （Comic Market 72 (未找到链接)）ACT （一般向）该作品是与 [BlueMica](./BlueMica.md) 合作创作的[](./東方スプリンターセル_CODE：R.md)[東方スプリンターセル CODE:R](./東方スプリンターセル_CODE：R.md)首发日期：2008-08-16 （Comic Market 74 (未找到链接)）ACT （一般向）该作品是与 [BlueMica](./BlueMica.md) 合作创作的[](./お嬢様のドキドキ大作戦～呪われた紅の館～.md)[お嬢様のドキドキ大作戦～呪われた紅の館～](./お嬢様のドキドキ大作戦～呪われた紅の館～.md)首发日期：2010-08-14 （Comic Market 78 (未找到链接)）ACT （一般向）该作品是与 [BlueMica](./BlueMica.md) 合作创作的
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -50,6 +55,7 @@ BlueMica Collection vol.1（同人游戏，BlueMica，2013） - 2013年5月26日
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 评论

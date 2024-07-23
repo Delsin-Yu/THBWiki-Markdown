@@ -6,13 +6,17 @@
 
 本页是关于东方Project  
  **二次同人创作者** 的词条
+
 ## 基本信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="label"><b>名称</b></td><td> coro </td></tr><tr><td class="label"><b>别名</b></td><td>オオヒラセイジ<br>ころちゃん</td></tr><tr><td class="label"><b>所属社团</b></td><td><b>当前</b><div style="margin-left:2em;"><a rel="nofollow" class="external text" href="http://chaosnote.gozaru.jp/index.html">Chaos Note</a></div></td></tr><tr><td class="label"><b>职位</b></td><td>编曲</td></tr><tr><td class="label"><b>参与社团</b></td><td><a href="./豆屋.md" title="豆屋">豆屋</a> （编曲）</td></tr><tr><td class="label"><b>生日</b></td><td>10-08</td></tr><tr><td class="label"><b>个人页面</b></td><td><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><b>Official</b></td><td><a rel="nofollow" class="external free" href="http://chaosnote.gozaru.jp/index.html">http://chaosnote.gozaru.jp/index.html</a></td></tr><tr><td><b>Blog</b></td><td><a rel="nofollow" class="external free" href="https://ameblo.jp/coro-s/">https://ameblo.jp/coro-s/</a></td></tr><tr><td><b>Niconico</b></td><td><a rel="nofollow" class="external free" href="https://www.nicovideo.jp/user/8261047">https://www.nicovideo.jp/user/8261047</a></td></tr></tbody></table></td></tr></tbody></table>
 
 coro（人物） - 现实人物
+
 ## 介绍
+
 ## 参与作品
+
 ### 同人音乐
   
 模板:人物曲目列表 (未找到链接)

@@ -4,6 +4,7 @@
 
 作者の戯事 | 社团LOGO
 
+
 ## 摘要
   
 源地址：[direct image link](https://web.archive.org/web/20180519052409im_/http://conpallo.web.fc2.com/i/bnr), [source page](https://web.archive.org/web/20111026204705/http://conpallo.web.fc2.com/)

@@ -28,6 +28,7 @@
 </tbody></table>
 
 
+
 ## 目录
 
 - [1 软件信息](#软件信息)
@@ -62,12 +63,14 @@
 
 
 
+
 ## 软件信息
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-连缘咖啡厅_～_BOOK_of_the_CAFE封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/2/22/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85_%EF%BD%9E_BOOK_of_the_CAFE%E5%B0%81%E9%9D%A2.png/252px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85_%EF%BD%9E_BOOK_of_the_CAFE%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="252" height="118" srcset="https://upload.thwiki.cc/thumb/2/22/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85_%EF%BD%9E_BOOK_of_the_CAFE%E5%B0%81%E9%9D%A2.png/378px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85_%EF%BD%9E_BOOK_of_the_CAFE%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/2/22/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85_%EF%BD%9E_BOOK_of_the_CAFE%E5%B0%81%E9%9D%A2.png/504px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85_%EF%BD%9E_BOOK_of_the_CAFE%E5%B0%81%E9%9D%A2.png 2x" data-file-width="512" data-file-height="240"></a></td>
 </tr><tr><td class="label">名称</td><td colspan="2"> 連縁カフェ　～ BOOK of the CAFE </td></tr><tr><td class="label">译名</td><td colspan="2"> 连缘咖啡厅　～ BOOK of the CAFE </td></tr><tr><td class="label">制作方</td><td><a href="./トリック・ノスタルジー.md" title="トリック・ノスタルジー">トリック・ノスタルジー</a></td><td class="cover-artwork" rowspan="9" style="min-width:252px;"><a href="./文件-连缘咖啡厅_～_BOOK_of_the_CAFE封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/2/22/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85_%EF%BD%9E_BOOK_of_the_CAFE%E5%B0%81%E9%9D%A2.png/252px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85_%EF%BD%9E_BOOK_of_the_CAFE%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="252" height="118" srcset="https://upload.thwiki.cc/thumb/2/22/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85_%EF%BD%9E_BOOK_of_the_CAFE%E5%B0%81%E9%9D%A2.png/378px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85_%EF%BD%9E_BOOK_of_the_CAFE%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/2/22/%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85_%EF%BD%9E_BOOK_of_the_CAFE%E5%B0%81%E9%9D%A2.png/504px-%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85_%EF%BD%9E_BOOK_of_the_CAFE%E5%B0%81%E9%9D%A2.png 2x" data-file-width="512" data-file-height="240"></a></td>
 </tr><tr><td class="label">首发日期</td><td>2023-06-02</td></tr><tr><td class="label">类型</td><td>游戏</td></tr><tr><td class="label">编号</td><td>Le00</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">游戏人数</td><td>单人模式</td></tr><tr><td class="label">游戏类型</td><td>SLG</td></tr><tr><td class="label">运行平台</td><td>iOS，Android，通用</td></tr><tr><td class="label">语言</td><td>日文</td></tr><tr><td class="label">售价</td><td>免费</td></tr></tbody></table>
 
 连缘咖啡厅 ～ BOOK of the CAFE（同人游戏，トリック・ノスタルジー，2023） - 2023年6月2日 由 トリック・ノスタルジー  发布的非东方SLG同人游戏，可在 iOS/Android/通用 系统上运行，游戏人数为 单人模式，分级为 一般向
+
 ## 游戏概述
   
 <big> **连缘咖啡厅 ～ BOOK of the CAFE** </big>（連縁カフェ　～ BOOK of the CAFE）
@@ -90,7 +93,7 @@
 
   
 
- *在β版与正式版中，记忆的书库（即战斗系统)主线战斗追加了第一作连缘无现里 (未找到链接)的本篇剧情，另外在道中也穿插了新登场角色的对话。目前在正式版中还更新了一章节主线剧情。* 
+ *在β版与正式版中，记忆的书库（即战斗系统)主线战斗追加了第一作[连缘无现里](./连缘无现里.md)的本篇剧情，另外在道中也穿插了新登场角色的对话。目前在正式版中还更新了一章节主线剧情。* 
   
 
 
@@ -104,10 +107,12 @@
   
 
 
+
 ## Staff
   
 所有工作由[JynX](./JynX.md)一人完成。
   
+
 
 ## 游戏系统
 -  **这里所描述的是β版的游戏系统。可能与正式版不同。在正式版出来之后会根据正式版情况修改。** 
@@ -119,16 +124,19 @@
 目前的版本中主要元素是战斗，经营咖啡厅元素为附带。
   
 
+
 ## 角色
   
 本作剧情中新登场了[NiLU](./NiLU.md)、[Tom C. Zemlja](./Tom_C._Zemlja.md)两名主要角色，以及因NiLU记忆浑浊而诞生的致命故障对象 (未找到链接)（FEO）。
 以往作品中的角色也作为咖啡店员和战斗单位登场。
   
 
+
 ### 致命故障对象（FEO）
 
 <table><tbody><tr><td style="min-width:40px;"><div class="center"><div class="floatnone"><a href="./文件-薮雨FEO.png.md" class="image" title="薮雨（FEO）"><img alt="薮雨（FEO）" src="https://upload.thwiki.cc/thumb/0/0d/%E8%96%AE%E9%9B%A8FEO.png/18px-%E8%96%AE%E9%9B%A8FEO.png" decoding="async" loading="lazy" width="18" height="40" srcset="https://upload.thwiki.cc/thumb/0/0d/%E8%96%AE%E9%9B%A8FEO.png/27px-%E8%96%AE%E9%9B%A8FEO.png 1.5x, https://upload.thwiki.cc/thumb/0/0d/%E8%96%AE%E9%9B%A8FEO.png/37px-%E8%96%AE%E9%9B%A8FEO.png 2x" data-file-width="137" data-file-height="297"></a></div></div></td> <td style="width:150px;padding:3px 9px 3px 7px;"><a href="/index.php?title=%E8%96%AE%E9%9B%A8%EF%BC%88FEO%EF%BC%89&amp;action=edit&amp;redlink=1" class="new" title="薮雨（FEO）（页面不存在）">薮雨（FEO）</a></td></tr>
 <tr><td style="min-width:40px;"><div class="center"><div class="floatnone"><a href="./文件-乌蛇FEO.png.md" class="image" title="乌蛇（FEO）"><img alt="乌蛇（FEO）" src="https://upload.thwiki.cc/thumb/3/32/%E4%B9%8C%E8%9B%87FEO.png/20px-%E4%B9%8C%E8%9B%87FEO.png" decoding="async" loading="lazy" width="20" height="40" srcset="https://upload.thwiki.cc/thumb/3/32/%E4%B9%8C%E8%9B%87FEO.png/30px-%E4%B9%8C%E8%9B%87FEO.png 1.5x, https://upload.thwiki.cc/thumb/3/32/%E4%B9%8C%E8%9B%87FEO.png/40px-%E4%B9%8C%E8%9B%87FEO.png 2x" data-file-width="150" data-file-height="295"></a></div></div></td> <td style="width:150px;padding:3px 9px 3px 7px;"><a href="/index.php?title=%E4%B9%8C%E8%9B%87%EF%BC%88FEO%EF%BC%89&amp;action=edit&amp;redlink=1" class="new" title="乌蛇（FEO）（页面不存在）">乌蛇（FEO）</a></td></tr></tbody></table>
+
 
 
 ### 店员
@@ -143,20 +151,26 @@
 <tr><td style="min-width:40px;"><div class="center"><div class="floatnone"><a href="./文件-阐里鹤喰（连缘咖啡厅立绘）.png.md" class="image" title="阐里鹤喰"><img alt="阐里鹤喰" src="https://upload.thwiki.cc/thumb/a/a5/%E9%98%90%E9%87%8C%E9%B9%A4%E5%96%B0%EF%BC%88%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85%E7%AB%8B%E7%BB%98%EF%BC%89.png/19px-%E9%98%90%E9%87%8C%E9%B9%A4%E5%96%B0%EF%BC%88%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="19" height="40" srcset="https://upload.thwiki.cc/thumb/a/a5/%E9%98%90%E9%87%8C%E9%B9%A4%E5%96%B0%EF%BC%88%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85%E7%AB%8B%E7%BB%98%EF%BC%89.png/29px-%E9%98%90%E9%87%8C%E9%B9%A4%E5%96%B0%EF%BC%88%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/a/a5/%E9%98%90%E9%87%8C%E9%B9%A4%E5%96%B0%EF%BC%88%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85%E7%AB%8B%E7%BB%98%EF%BC%89.png/39px-%E9%98%90%E9%87%8C%E9%B9%A4%E5%96%B0%EF%BC%88%E8%BF%9E%E7%BC%98%E5%92%96%E5%95%A1%E5%8E%85%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="152" data-file-height="311"></a></div></div></td> <td style="width:150px;padding:3px 9px 3px 7px;"><a href="./阐里鹤喰.md" title="阐里鹤喰">阐里鹤喰</a></td></tr></tbody></table>
 
 
+
 ### 战斗单位
 - <big> **战斗角色 (未找到链接)** </big>
 - 内容较多，请进入子页面查看。
 
+
 ## 游戏剧情
+
 ### 主线
 - [开幕](./连缘咖啡厅_～_BOOK_of_the_CAFE-开幕.md)
 - 教程 (未找到链接)
 - [第一章](./连缘咖啡厅_～_BOOK_of_the_CAFE-第一章.md)
 
+
 ### 过往作品
+
 #### 连缘无现里
 - [薮雨线](./连缘咖啡厅_～_BOOK_of_the_CAFE-凤联薮雨线.md)
 - [玄鸟线](./连缘咖啡厅_～_BOOK_of_the_CAFE-燕乐玄鸟线.md)
+
 
 ## 其他资料
 - 游戏场景 (未找到链接)
@@ -164,15 +178,17 @@
 - 角色设定 (未找到链接)
 - [音乐](./连缘咖啡厅_～_BOOK_of_the_CAFE-Music.md)
 
+
 ## 外部链接
 - [连缘英文wiki 连缘咖啡厅](http://lenen.shoutwiki.com/wiki/Book_of_the_Cafe)（英文）
 
 
 [^cite_note-1]: [https://mugen-trick.fanbox.cc/posts/7211877](https://mugen-trick.fanbox.cc/posts/7211877)
 
+
 ## 词条导航
 
-<table><tbody><tr><td><table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;;;"><tbody><tr><th style=";" colspan="2" class="navbox-title"><div class="navbar"><div class="noprint plainlinksneverexpand" style="background-color:transparent; padding:0; font-weight:normal; font-size:80%; white-space:nowrap;"><a href="./模板-连缘project导航.md" title="模板:连缘project导航"><span style=";;border:none;" title="查看这个模板">查</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<a href="/index.php?title=%E6%A8%A1%E6%9D%BF:%E8%BF%9E%E7%BC%98project%E5%AF%BC%E8%88%AA&amp;action=edit"><span style=";;border:none;" title="您可以编辑这个模板。请在储存变更之前先预览">编</span></a></div></div><span><a href="./连缘Project.md" title="连缘Project" unred="">链缘/连缘project</a></span></th></tr><tr><td></td></tr><tr><td class="navbox-abovebelow" style=";" colspan="2">登场角色</td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="/%E9%93%BE%E7%BC%98%E6%97%A0%E7%8E%B0%E9%87%8C" class="mw-redirect" title="链缘无现里">链缘无现里</a></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./凤联薮雨.md" title="凤联薮雨">凤联薮雨</a> · <a href="./燕乐玄鸟.md" title="燕乐玄鸟">燕乐玄鸟</a> · <a href="./乌蛇.md" title="乌蛇">乌蛇</a> · <a href="./鹀蒿雀.md" title="鹀蒿雀">鹀蒿雀</a> · <a href="./鹀颊赤.md" title="鹀颊赤">鹀颊赤</a> · <a href="./鹀黑巫鸟.md" title="鹀黑巫鸟">鹀黑巫鸟</a> · <a href="./（前略）克劳斯（后略）.md" title="（前略）克劳斯（后略）">（前略）克劳斯（后略）</a> · <a href="./阐里鹤喰.md" title="阐里鹤喰">阐里鹤喰</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="/%E9%93%BE%E7%BC%98%E8%9B%87%E4%B8%9B%E5%89%91" class="mw-redirect" title="链缘蛇丛剑">链缘蛇丛剑</a></td><td style=";;" class="navbox-list navbox-even"><div><a href="./天宫润.md" title="天宫润">天宫润</a> · <a href="./雨杏宵.md" title="雨杏宵">雨杏宵</a> · <a href="./凯勒里塔斯·流明.md" title="凯勒里塔斯·流明">凯勒里塔斯·流明</a> · <a href="./旭天子云雀流.md" title="旭天子云雀流">旭天子云雀流</a> · <a href="./片野宿祢.md" title="片野宿祢">片野宿祢</a> · <a href="./徒云八尾吕智.md" title="徒云八尾吕智">徒云八尾吕智</a>· <a href="./徒云蛇穴丸.md" title="徒云蛇穴丸">徒云蛇穴丸</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="/%E9%93%BE%E7%BC%98%E7%81%B5%E7%83%88%E4%BC%A0" class="mw-redirect" title="链缘灵烈传">链缘灵烈传</a></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./乞骸让让.md" title="乞骸让让">乞骸让让</a>· <a href="./马立噤美.md" title="马立噤美">马立噤美</a>· <a href="./藤原伊代真.md" title="藤原伊代真">藤原伊代真</a>· <a href="./平文门.md" title="平文门">平文门</a>· <a href="./死宛.md" title="死宛">死宛</a>· <a href="./瑞风天堺.md" title="瑞风天堺">瑞风天堺</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="/%E8%BF%9E%E7%BC%98%E5%A4%A9%E5%BD%B1%E6%88%98%E8%AE%B0" class="mw-redirect" title="连缘天影战记">连缘天影战记</a></td><td style=";;" class="navbox-list navbox-even"><div><a href="./银镜苍枯.md" title="银镜苍枯">银镜苍枯</a>· <a href="./照云.md" title="照云">照云</a>· <a href="./袈裟抉弄.md" title="袈裟抉弄">袈裟抉弄</a>· <a href="./守武莫大小.md" title="守武莫大小">守武莫大小</a>· <a href="./东海仙.md" title="东海仙">东海仙</a>· <a href="./大宅都光.md" title="大宅都光">大宅都光</a>· <a href="./尾形我来也.md" title="尾形我来也">尾形我来也</a>· <a href="./柏木薰.md" title="柏木薰" unred="">柏木薫</a>· <a href="./帕拉.md" title="帕拉">帕拉</a>· <a href="./藤原银赞良.md" title="藤原银赞良">藤原银赞良</a>· <a href="./平蝶鬼.md" title="平蝶鬼">平蝶鬼</a>· <a href="./大天朱壬鸟.md" title="大天朱壬鸟">大天朱壬鸟</a>· <a href="./天目津金水虿.md" title="天目津金水虿">天目津金水虿</a>· <a href="./世乃亚.md" title="世乃亚">世乃亚</a>· <a href="./千理牌示.md" title="千理牌示">千理牌示</a>· <a href="./国主雀巳.md" title="国主雀巳">国主雀巳</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">其他相关人物</td><td style=";;" class="navbox-list navbox-odd"><div><a href="./甚平.md" title="甚平">甚平</a>· <a href="./平严门.md" title="平严门">平严门</a>· <a href="./Rei君.md" title="Rei君">Rei君</a>· <a href="./Zelo酱.md" title="Zelo酱">Zelo酱</a>· <a href="./巴.md" title="巴">巴</a>· <a href="./鹀颊告鸟.md" title="鹀颊告鸟">鹀颊告鸟</a></div></td></tr></tbody></table></td></tr></tbody></table>
+<table><tbody><tr><td><table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;;;"><tbody><tr><th style=";" colspan="2" class="navbox-title"><div class="navbar"><div class="noprint plainlinksneverexpand" style="background-color:transparent; padding:0; font-weight:normal; font-size:80%; white-space:nowrap;"><a href="./模板-连缘project导航.md" title="模板:连缘project导航"><span style=";;border:none;" title="查看这个模板">查</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<a href="/index.php?title=%E6%A8%A1%E6%9D%BF:%E8%BF%9E%E7%BC%98project%E5%AF%BC%E8%88%AA&amp;action=edit"><span style=";;border:none;" title="您可以编辑这个模板。请在储存变更之前先预览">编</span></a></div></div><span><a href="./连缘Project.md" title="连缘Project" unred="">链缘/连缘project</a></span></th></tr><tr><td></td></tr><tr><td class="navbox-abovebelow" style=";" colspan="2">登场角色</td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="./链缘无现里.md" class="mw-redirect" title="链缘无现里">链缘无现里</a></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./凤联薮雨.md" title="凤联薮雨">凤联薮雨</a> · <a href="./燕乐玄鸟.md" title="燕乐玄鸟">燕乐玄鸟</a> · <a href="./乌蛇.md" title="乌蛇">乌蛇</a> · <a href="./鹀蒿雀.md" title="鹀蒿雀">鹀蒿雀</a> · <a href="./鹀颊赤.md" title="鹀颊赤">鹀颊赤</a> · <a href="./鹀黑巫鸟.md" title="鹀黑巫鸟">鹀黑巫鸟</a> · <a href="./（前略）克劳斯（后略）.md" title="（前略）克劳斯（后略）">（前略）克劳斯（后略）</a> · <a href="./阐里鹤喰.md" title="阐里鹤喰">阐里鹤喰</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="./链缘蛇丛剑.md" class="mw-redirect" title="链缘蛇丛剑">链缘蛇丛剑</a></td><td style=";;" class="navbox-list navbox-even"><div><a href="./天宫润.md" title="天宫润">天宫润</a> · <a href="./雨杏宵.md" title="雨杏宵">雨杏宵</a> · <a href="./凯勒里塔斯·流明.md" title="凯勒里塔斯·流明">凯勒里塔斯·流明</a> · <a href="./旭天子云雀流.md" title="旭天子云雀流">旭天子云雀流</a> · <a href="./片野宿祢.md" title="片野宿祢">片野宿祢</a> · <a href="./徒云八尾吕智.md" title="徒云八尾吕智">徒云八尾吕智</a>· <a href="./徒云蛇穴丸.md" title="徒云蛇穴丸">徒云蛇穴丸</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="./链缘灵烈传.md" class="mw-redirect" title="链缘灵烈传">链缘灵烈传</a></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./乞骸让让.md" title="乞骸让让">乞骸让让</a>· <a href="./马立噤美.md" title="马立噤美">马立噤美</a>· <a href="./藤原伊代真.md" title="藤原伊代真">藤原伊代真</a>· <a href="./平文门.md" title="平文门">平文门</a>· <a href="./死宛.md" title="死宛">死宛</a>· <a href="./瑞风天堺.md" title="瑞风天堺">瑞风天堺</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="./连缘天影战记.md" class="mw-redirect" title="连缘天影战记">连缘天影战记</a></td><td style=";;" class="navbox-list navbox-even"><div><a href="./银镜苍枯.md" title="银镜苍枯">银镜苍枯</a>· <a href="./照云.md" title="照云">照云</a>· <a href="./袈裟抉弄.md" title="袈裟抉弄">袈裟抉弄</a>· <a href="./守武莫大小.md" title="守武莫大小">守武莫大小</a>· <a href="./东海仙.md" title="东海仙">东海仙</a>· <a href="./大宅都光.md" title="大宅都光">大宅都光</a>· <a href="./尾形我来也.md" title="尾形我来也">尾形我来也</a>· <a href="./柏木薰.md" title="柏木薰" unred="">柏木薫</a>· <a href="./帕拉.md" title="帕拉">帕拉</a>· <a href="./藤原银赞良.md" title="藤原银赞良">藤原银赞良</a>· <a href="./平蝶鬼.md" title="平蝶鬼">平蝶鬼</a>· <a href="./大天朱壬鸟.md" title="大天朱壬鸟">大天朱壬鸟</a>· <a href="./天目津金水虿.md" title="天目津金水虿">天目津金水虿</a>· <a href="./世乃亚.md" title="世乃亚">世乃亚</a>· <a href="./千理牌示.md" title="千理牌示">千理牌示</a>· <a href="./国主雀巳.md" title="国主雀巳">国主雀巳</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">其他相关人物</td><td style=";;" class="navbox-list navbox-odd"><div><a href="./甚平.md" title="甚平">甚平</a>· <a href="./平严门.md" title="平严门">平严门</a>· <a href="./Rei君.md" title="Rei君">Rei君</a>· <a href="./Zelo酱.md" title="Zelo酱">Zelo酱</a>· <a href="./巴.md" title="巴">巴</a>· <a href="./鹀颊告鸟.md" title="鹀颊告鸟">鹀颊告鸟</a></div></td></tr></tbody></table></td></tr></tbody></table>
 
 
   

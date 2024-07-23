@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=Anything_For_You.%E5%B0%81%E9%9D%A2.jpg" class="new" title="文件:Anything For You.封面.jpg">封面图片</a></td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://anythingforyou.web.fc2.com/">http://anythingforyou.web.fc2.com/</a></td></tr></tbody></table>
 
 Anything For You.（同人志，Heartplace。，2011） - 2011年4月24日 由 Heartplace。 于 命莲寺大缘日1 发布的画集同人志，一共40页，登场人物有 娜兹玲、多多良小伞、云居一轮、云山、村纱水蜜、寅丸星、圣白莲、封兽鵺，分级为 一般向
+
 ## Staff
 : Suzu 猫。 (未找到链接) （夢の境界 (未找到链接)）
 : 縛 (未找到链接) （[痕桃梦](./痕桃梦.md)）
@@ -27,7 +29,8 @@ Anything For You.（同人志，Heartplace。，2011） - 2011年4月24日 由 H
 : [このみ唯月](./このみ唯月.md) （[a HEAL](./a_HEAL.md)）
 : すきま (未找到链接) （CRIE (未找到链接)）
 : かなた (未找到链接) （[Grothw Up Lu.](./Grothw_Up_Lu..md)）
-: 黒諏。 (未找到链接) （[Heartplace。](./Heartplace。.md)）
+: [黒諏。](./黒諏。.md) （[Heartplace。](./Heartplace。.md)）
+
 
 ## 评论
 

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Fool_in_the_South_Of_Hell封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/d/d1/Fool_in_the_South_Of_Hell%E5%B0%81%E9%9D%A2.jpg/224px-Fool_in_the_South_Of_Hell%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="220" srcset="https://upload.thwiki.cc/thumb/d/d1/Fool_in_the_South_Of_Hell%E5%B0%81%E9%9D%A2.jpg/336px-Fool_in_the_South_Of_Hell%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/d/d1/Fool_in_the_South_Of_Hell%E5%B0%81%E9%9D%A2.jpg/448px-Fool_in_the_South_Of_Hell%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1060" data-file-height="1039"></a><div class="cover-char">角色：<a href="./灵乌路空.md" title="灵乌路空">灵乌路空</a></div></td>
@@ -14,16 +15,19 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://zareotogakudan.blog117.fc2.com/blog-entry-50.html">http://zareotogakudan.blog117.fc2.com/blog-entry-50.html</a></td></tr></tbody></table>
 
 Fool in the South Of Hell（同人专辑，戯音楽団，2010） - 2010年12月30日 由 戯音楽団 于 Comic Market 79 发布的EP同人专辑，分级为 一般向
+
 ## Staff
 Design
 : 设计师 （[网址 社团]）
 Illustration
 : 画师 （[网址 社团]）
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="info"><b>01</b></td><td id="Welcome_to_Fire_Inferno" colspan="2" class="title">Welcome to Fire Inferno<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=業火マントル&amp;fromwiki=Fool_in_the_South_Of_Hell"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=業火マントル&amp;fromwiki=Fool_in_the_South_Of_Hell"><span></span></a></span><div class="ogmusic"><a href="/%E6%A5%AD%E7%81%AB%E3%83%9E%E3%83%B3%E3%83%88%E3%83%AB" class="mw-redirect" title="業火マントル">業火マントル</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E5%9C%B0%E7%81%B5%E6%AE%BF_%EF%BD%9E_Subterranean_Animism." class="mw-redirect" title="东方地灵殿 ～ Subterranean Animism.">东方地灵殿　～ Subterranean Animism.</a></div></td></tr>
-<tr><td id="2" class="info"><b>02</b></td><td id="Fool_in_the_South_Of_Hell" colspan="2" class="title">Fool in the South Of Hell<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=霊知の太陽信仰　～ Nuclear Fusion&amp;fromwiki=Fool_in_the_South_Of_Hell"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=霊知の太陽信仰　～ Nuclear Fusion&amp;fromwiki=Fool_in_the_South_Of_Hell"><span></span></a></span><div class="ogmusic"><a href="/%E9%9C%8A%E7%9F%A5%E3%81%AE%E5%A4%AA%E9%99%BD%E4%BF%A1%E4%BB%B0_%EF%BD%9E_Nuclear_Fusion" class="mw-redirect" title="霊知の太陽信仰 ～ Nuclear Fusion">霊知の太陽信仰　～ Nuclear Fusion</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E5%9C%B0%E7%81%B5%E6%AE%BF_%EF%BD%9E_Subterranean_Animism." class="mw-redirect" title="东方地灵殿 ～ Subterranean Animism.">东方地灵殿　～ Subterranean Animism.</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="info"><b>01</b></td><td id="Welcome_to_Fire_Inferno" colspan="2" class="title">Welcome to Fire Inferno<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=業火マントル&amp;fromwiki=Fool_in_the_South_Of_Hell"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=業火マントル&amp;fromwiki=Fool_in_the_South_Of_Hell"><span></span></a></span><div class="ogmusic"><a href="./業火マントル.md" class="mw-redirect" title="業火マントル">業火マントル</a></div><div class="source"><a href="./东方地灵殿_～_Subterranean_Animism..md" class="mw-redirect" title="东方地灵殿 ～ Subterranean Animism.">东方地灵殿　～ Subterranean Animism.</a></div></td></tr>
+<tr><td id="2" class="info"><b>02</b></td><td id="Fool_in_the_South_Of_Hell" colspan="2" class="title">Fool in the South Of Hell<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=霊知の太陽信仰　～ Nuclear Fusion&amp;fromwiki=Fool_in_the_South_Of_Hell"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=霊知の太陽信仰　～ Nuclear Fusion&amp;fromwiki=Fool_in_the_South_Of_Hell"><span></span></a></span><div class="ogmusic"><a href="./霊知の太陽信仰_～_Nuclear_Fusion.md" class="mw-redirect" title="霊知の太陽信仰 ～ Nuclear Fusion">霊知の太陽信仰　～ Nuclear Fusion</a></div><div class="source"><a href="./东方地灵殿_～_Subterranean_Animism..md" class="mw-redirect" title="东方地灵殿 ～ Subterranean Animism.">东方地灵殿　～ Subterranean Animism.</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

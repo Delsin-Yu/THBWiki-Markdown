@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-東Phone封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/2/2b/%E6%9D%B1Phone%E5%B0%81%E9%9D%A2.jpg/196px-%E6%9D%B1Phone%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="196" height="196" srcset="https://upload.thwiki.cc/thumb/2/2b/%E6%9D%B1Phone%E5%B0%81%E9%9D%A2.jpg/294px-%E6%9D%B1Phone%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/2/2b/%E6%9D%B1Phone%E5%B0%81%E9%9D%A2.jpg/392px-%E6%9D%B1Phone%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="800" data-file-height="800"></a><div class="cover-char">角色：<a href="./八意永琳.md" title="八意永琳">八意永琳</a></div></td>
@@ -14,7 +15,9 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://gnv.ram.ne.jp/SOS/tophone.html">http://gnv.ram.ne.jp/SOS/tophone.html</a></td></tr></tbody></table>
 
 東Phone（同人专辑，SOS -Sound of Swing-，2012） - 2012年12月30日 由 SOS -Sound of Swing- 于 Comic Market 83 发布的全长同人专辑，分级为 一般向
+
 ## Staff
+
 ## 曲目列表
 
 <table><tbody><tr><td id="1" class="info"><b>01</b></td><td id="Praying" colspan="2" class="title">Praying<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=東Phone"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr>
@@ -40,7 +43,7 @@
 <tr><td id="21" class="info"><b>21</b></td><td id="Retribution" colspan="2" class="title">Retribution<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=東Phone"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr>
 <tr><td id="22" class="info"><b>22</b></td><td id="TAKETORI" colspan="2" class="title">TAKETORI<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=東Phone"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr>
 <tr><td id="23" class="info"><b>23</b></td><td id="Bamboo" colspan="2" class="title">Bamboo<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=東Phone"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr>
-<tr><td id="24" class="info"><b>24</b></td><td id="1Q69" colspan="2" class="title">1Q69<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=ヴォヤージュ1969&amp;fromwiki=東Phone"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=ヴォヤージュ1969&amp;fromwiki=東Phone"><span></span></a></span><div class="ogmusic"><a href="/%E3%83%B4%E3%82%A9%E3%83%A4%E3%83%BC%E3%82%B8%E3%83%A51969" class="mw-redirect" title="ヴォヤージュ1969">ヴォヤージュ1969</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E6%B0%B8%E5%A4%9C%E6%8A%84_%EF%BD%9E_Imperishable_Night." class="mw-redirect" title="东方永夜抄 ～ Imperishable Night.">东方永夜抄　～ Imperishable Night.</a></div></td></tr>
+<tr><td id="24" class="info"><b>24</b></td><td id="1Q69" colspan="2" class="title">1Q69<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=ヴォヤージュ1969&amp;fromwiki=東Phone"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=ヴォヤージュ1969&amp;fromwiki=東Phone"><span></span></a></span><div class="ogmusic"><a href="./ヴォヤージュ1969.md" class="mw-redirect" title="ヴォヤージュ1969">ヴォヤージュ1969</a></div><div class="source"><a href="./东方永夜抄_～_Imperishable_Night..md" class="mw-redirect" title="东方永夜抄 ～ Imperishable Night.">东方永夜抄　～ Imperishable Night.</a></div></td></tr>
 <tr><td id="25" class="info"><b>25</b></td><td id="Factory" colspan="2" class="title">Factory<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=東Phone"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr>
 <tr><td id="26" class="info"><b>26</b></td><td id="Archeron" colspan="2" class="title">Archeron<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=東Phone"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr>
 <tr><td id="27" class="info"><b>27</b></td><td id="Poppy" colspan="2" class="title">Poppy<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=東Phone"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr>
@@ -55,6 +58,7 @@
 <tr><td id="36" class="info"><b>36</b></td><td id="Religion" colspan="2" class="title">Religion<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=東Phone"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr>
 <tr><td id="37" class="info"><b>37</b></td><td id="Captain" colspan="2" class="title">Captain<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=東Phone"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr>
 <tr><td id="38" class="info"><b>38</b></td><td id="Babel" colspan="2" class="title">Babel<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=東Phone"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr></tbody></table>
+
 
 
 ## 评论

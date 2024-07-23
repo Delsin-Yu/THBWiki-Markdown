@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-LIFE（みずたたき）封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/2/2a/LIFE%EF%BC%88%E3%81%BF%E3%81%9A%E3%81%9F%E3%81%9F%E3%81%8D%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/117px-LIFE%EF%BC%88%E3%81%BF%E3%81%9A%E3%81%9F%E3%81%9F%E3%81%8D%EF%BC%89%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="117" height="168" srcset="https://upload.thwiki.cc/thumb/2/2a/LIFE%EF%BC%88%E3%81%BF%E3%81%9A%E3%81%9F%E3%81%9F%E3%81%8D%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/176px-LIFE%EF%BC%88%E3%81%BF%E3%81%9A%E3%81%9F%E3%81%9F%E3%81%8D%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/2/2a/LIFE%EF%BC%88%E3%81%BF%E3%81%9A%E3%81%9F%E3%81%9F%E3%81%8D%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/234px-LIFE%EF%BC%88%E3%81%BF%E3%81%9A%E3%81%9F%E3%81%9F%E3%81%8D%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="268" data-file-height="384"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>，<a href="./帕秋莉·诺蕾姬.md" title="帕秋莉·诺蕾姬">帕秋莉·诺蕾姬</a>，<a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a>，<a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a>，<a href="./魂魄妖梦.md" title="魂魄妖梦">魂魄妖梦</a>，<a href="./西行寺幽幽子.md" title="西行寺幽幽子">西行寺幽幽子</a>，<a href="./琪露诺.md" title="琪露诺">琪露诺</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://mizutataki.info/#top">http://mizutataki.info/#top</a></td></tr><tr><td class="label">备注</td><td colspan="2">总集编</td></tr></tbody></table>
 
 LIFE（同人志，みずたたき，2009） - 2009年3月8日 由 みずたたき 于 博丽神社例大祭6 发布的漫画同人志，一共268页，分级为 一般向
+
 ## Staff
 - [水炊き](./水炊き.md)
+
 
 ## 作品列表
 
@@ -69,6 +72,7 @@ LIFE（同人志，みずたたき，2009） - 2009年3月8日 由 みずたた�
 <td></td>
 <td><div class="floatright"><a href="./文件-なまくら小町封面.jpg.md" class="image"><img alt="なまくら小町封面.jpg" src="https://upload.thwiki.cc/thumb/c/c6/%E3%81%AA%E3%81%BE%E3%81%8F%E3%82%89%E5%B0%8F%E7%94%BA%E5%B0%81%E9%9D%A2.jpg/150px-%E3%81%AA%E3%81%BE%E3%81%8F%E3%82%89%E5%B0%8F%E7%94%BA%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="150" height="215" srcset="https://upload.thwiki.cc/thumb/c/c6/%E3%81%AA%E3%81%BE%E3%81%8F%E3%82%89%E5%B0%8F%E7%94%BA%E5%B0%81%E9%9D%A2.jpg/225px-%E3%81%AA%E3%81%BE%E3%81%8F%E3%82%89%E5%B0%8F%E7%94%BA%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/c/c6/%E3%81%AA%E3%81%BE%E3%81%8F%E3%82%89%E5%B0%8F%E7%94%BA%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="268" data-file-height="384"></a></div>
 </td></tr></tbody></table>
+
 
 
 ## 评论

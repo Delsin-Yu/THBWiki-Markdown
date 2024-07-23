@@ -4,6 +4,7 @@
 
 aprilrain | 社团LOGO
 
+
 ## 文件说明
   
 源地址：[direct image link](http://aprilrain.michikusa.jp/bn/banner.gif), [source page](http://aprilrain.michikusa.jp/about.html)

@@ -4,6 +4,7 @@
 
 消灯現象 | 社团LOGO
 
+
 ## 摘要
   
 源地址：[direct image link (converted to png)](http://ktr.yukimizake.net/picture/logs.bmp), [source page](http://ktr.yukimizake.net)

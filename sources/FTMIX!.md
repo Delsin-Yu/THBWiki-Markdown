@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-FTMIX!封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/1/19/FTMIX%21%E5%B0%81%E9%9D%A2.jpg/137px-FTMIX%21%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="137" height="196" srcset="https://upload.thwiki.cc/thumb/1/19/FTMIX%21%E5%B0%81%E9%9D%A2.jpg/206px-FTMIX%21%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/1/19/FTMIX%21%E5%B0%81%E9%9D%A2.jpg/275px-FTMIX%21%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="600" data-file-height="856"></a><div class="cover-char">角色：<a href="./物部布都.md" title="物部布都">物部布都</a>，<a href="./苏我屠自古.md" title="苏我屠自古">苏我屠自古</a>，<a href="./丰聪耳神子.md" title="丰聪耳神子">丰聪耳神子</a></div></td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://pppoka.web.fc2.com/fimix.htm">http://pppoka.web.fc2.com/fimix.htm</a><br><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/29126621">https://www.pixiv.net/artworks/29126621</a></td></tr></tbody></table>
 
 FTMIX!（同人志，POCAPOCA，2012） - 2012年8月11日 由 POCAPOCA 于 Comic Market 82 发布的漫画/绘本同人志，B5尺寸一共52页，分级为 一般向
+
 ## Staff
 : ぽっか (未找到链接)
 Guest
@@ -27,6 +29,7 @@ Guest
 : ひロト (未找到链接)
 : みかん理事 (未找到链接)
 : モック (未找到链接)
+
 
 ## 评论
 

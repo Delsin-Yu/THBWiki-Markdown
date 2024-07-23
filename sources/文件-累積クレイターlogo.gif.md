@@ -4,6 +4,7 @@
 
 社团LOGO | 累積クレイター
 
+
 ## 摘要
   
 源地址：[direct image link](https://web.archive.org/web/20190330043340im_/http://www.geocities.jp/re_ifi_er/ruiseki.gif), [source page](https://web.archive.org/web/20190314054850/http://www.geocities.jp/re_ifi_er/)

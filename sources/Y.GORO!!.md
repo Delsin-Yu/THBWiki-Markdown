@@ -6,8 +6,10 @@
 
 本页是关于  
  **[与ZUN有一定关联的现实人物](./东方关联人物列表.md)** 的词条
+
 ## 基本信息
 <table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td style="width:120px"><b>人物名</b></td><td style="min-width:300px">Y.GORO!!</td></tr><tr><td><b>个人网页</b></td><td><a rel="nofollow" class="external text" href="http://nightlights.atarashi.com/zun">nightlights</a><span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><a rel="nofollow" class="external text" href="https://twitter.com/Y_GORO">推特</a> <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到需要翻墙网页">（需要翻墙）</span></td></tr></tbody></table>
+
 
 
 ## 介绍
@@ -21,6 +23,7 @@
 
 曾为[U235核燃动力](./U235核燃动力.md)的专辑[神楽](./神楽（U235核燃动力）.md)作曲一首。
   
+
 
 
 ## 幻想揭示板中与ZUN的交流

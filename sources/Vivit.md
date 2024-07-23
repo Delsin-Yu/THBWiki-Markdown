@@ -10,9 +10,13 @@
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="label"><b>名称</b></td><td> Vivit </td></tr><tr><td class="label"><b>所属社团</b></td><td><b>当前</b><div style="margin-left:2em;">H-K-Sea</div></td></tr><tr><td class="label"><b>职位</b></td><td>作曲，编曲，演唱</td></tr><tr><td class="label"><b>参与社团</b></td><td><a href="./Echoes_Construction.md" title="Echoes Construction">Echoes Construction</a> （作曲）<br><a href="./ガネメ.md" title="ガネメ">ガネメ</a> （编曲）<br><a href="./ザッパワールディリア.md" title="ザッパワールディリア">ザッパワールディリア</a> （编曲，演唱）</td></tr></tbody></table>
 
 Vivit（人物） - 现实人物
+
 ## 主要作品
+
 ## 兴趣爱好
+
 ## 经历简介
+
 ## 其他资料
 
 

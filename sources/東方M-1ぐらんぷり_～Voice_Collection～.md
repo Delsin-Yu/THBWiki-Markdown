@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-東方M-1ぐらんぷり_～Voice_Collection～封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/a/a8/%E6%9D%B1%E6%96%B9M-1%E3%81%90%E3%82%89%E3%82%93%E3%81%B7%E3%82%8A_%EF%BD%9EVoice_Collection%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg/252px-%E6%9D%B1%E6%96%B9M-1%E3%81%90%E3%82%89%E3%82%93%E3%81%B7%E3%82%8A_%EF%BD%9EVoice_Collection%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="252" srcset="https://upload.thwiki.cc/a/a8/%E6%9D%B1%E6%96%B9M-1%E3%81%90%E3%82%89%E3%82%93%E3%81%B7%E3%82%8A_%EF%BD%9EVoice_Collection%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg 1.5x" data-file-width="320" data-file-height="320"></a><div class="cover-char">角色：<a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a>，<a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a></div></td>
@@ -14,16 +15,19 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.r-note.jp/?p=1400">https://www.r-note.jp/?p=1400</a></td></tr></tbody></table>
 
 東方M-1ぐらんぷり ～Voice Collection～（同人专辑，R-note，2015） - 2015年3月28日 由 R-note 于 Comiket Special6 发布的配音作品同人专辑，分级为 一般向
+
 ## Staff
 Design
 : 木五倍子
 Illustration
 : 沌x
 
+
 ## 试听
   
 暂不支援此类型
   
+
 
 ## 曲目列表
 
@@ -38,6 +42,7 @@ Illustration
 <tr><td id="9" class="info"><b>09</b></td><td id="第7回東方M-1ぐらんぷり/劇中BGM集" colspan="2" class="title">第7回東方M-1ぐらんぷり/劇中BGM集<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=東方M-1ぐらんぷり_～Voice_Collection～"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr>
 <tr><td id="10" class="info"><b>10</b></td><td id="第8回東方M-1ぐらんぷり/劇中BGM集" colspan="2" class="title">第8回東方M-1ぐらんぷり/劇中BGM集<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=東方M-1ぐらんぷり_～Voice_Collection～"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr>
 <tr><td id="11" class="info"><b>11</b></td><td id="第9回東方M-1ぐらんぷり/劇中BGM集" colspan="2" class="title">第9回東方M-1ぐらんぷり/劇中BGM集<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=東方M-1ぐらんぷり_～Voice_Collection～"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr></tbody></table>
+
 
 
 ## 评论

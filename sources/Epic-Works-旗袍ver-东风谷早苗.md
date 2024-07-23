@@ -6,12 +6,14 @@
 
 本页是关于东方Project  
  **相关实体周边 (未找到链接)** 的词条
+
 ## 模型信息
 [](./文件-Epic-Works／旗袍ver／东风谷早苗封面.png.md)  [](./文件-Epic-Works／旗袍ver／东风谷早苗封面.png.md)预览图
 
-<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 东风谷早苗 </td></tr><tr><td class="label">类别</td><td>GarageKit</td></tr><tr><td class="label">译名</td><td>东方Project 东风谷早苗</td></tr><tr><td class="label">系列</td><td>旗袍ver</td></tr><tr><td class="label">角色</td><td><a href="./东风谷早苗.md" title="东风谷早苗">东风谷早苗</a></td></tr><tr><td class="label">原画师</td><td><a href="/monety" class="mw-redirect" title="monety">monety</a></td></tr><tr><td class="label">比例</td><td>1/7</td></tr><tr><td class="label">状态</td><td>已发售</td></tr><tr><td class="label">售价</td><td>999人民币</td></tr><tr><td class="label">首发日期</td><td>2018-11</td></tr><tr><td class="label">出品方</td><td><a href="./Epic-Works.md" title="Epic-Works">Epic-Works</a></td></tr><tr><td class="label">再版日期</td><td>2019-2</td></tr></tbody></table>
+<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 东风谷早苗 </td></tr><tr><td class="label">类别</td><td>GarageKit</td></tr><tr><td class="label">译名</td><td>东方Project 东风谷早苗</td></tr><tr><td class="label">系列</td><td>旗袍ver</td></tr><tr><td class="label">角色</td><td><a href="./东风谷早苗.md" title="东风谷早苗">东风谷早苗</a></td></tr><tr><td class="label">原画师</td><td><a href="./monety.md" class="mw-redirect" title="monety">monety</a></td></tr><tr><td class="label">比例</td><td>1/7</td></tr><tr><td class="label">状态</td><td>已发售</td></tr><tr><td class="label">售价</td><td>999人民币</td></tr><tr><td class="label">首发日期</td><td>2018-11</td></tr><tr><td class="label">出品方</td><td><a href="./Epic-Works.md" title="Epic-Works">Epic-Works</a></td></tr><tr><td class="label">再版日期</td><td>2019-2</td></tr></tbody></table>
 
 Epic-Works/旗袍ver/东风谷早苗（周边，Epic-Works） - 东风谷早苗GarageKit手办模型
+
 ## 参考图片
 
 

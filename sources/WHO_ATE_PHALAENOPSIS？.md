@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-WHO_ATE_PHALAENOPSIS？封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/6/6d/WHO_ATE_PHALAENOPSIS%EF%BC%9F%E5%B0%81%E9%9D%A2.jpg/79px-WHO_ATE_PHALAENOPSIS%EF%BC%9F%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="79" height="112" srcset="https://upload.thwiki.cc/thumb/6/6d/WHO_ATE_PHALAENOPSIS%EF%BC%9F%E5%B0%81%E9%9D%A2.jpg/118px-WHO_ATE_PHALAENOPSIS%EF%BC%9F%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/6/6d/WHO_ATE_PHALAENOPSIS%EF%BC%9F%E5%B0%81%E9%9D%A2.jpg/157px-WHO_ATE_PHALAENOPSIS%EF%BC%9F%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="270" data-file-height="384"></a><div class="cover-char">角色：<a href="./风见幽香.md" title="风见幽香">风见幽香</a></div></td>
@@ -14,9 +15,12 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://pixiv.cc/sidate/archives/2882023.html">http://pixiv.cc/sidate/archives/2882023.html</a><br><span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><small>（<a rel="nofollow" class="external text" href="https://web.archive.org/web/20110830123811/http://pixiv.cc/sidate/archives/2010-08.html">缓存页面</a>）</small></td></tr></tbody></table>
 
 WHO ATE PHALAENOPSIS？（同人志，遊星，2010） - 2010年8月14日 由 遊星 于 Comic Market 78 发布的同人志，一共18页，分级为 一般向
+
 ## 预览
+
 ## Staff
 - 雷汰* (未找到链接)
+
 
 ## 评论
 

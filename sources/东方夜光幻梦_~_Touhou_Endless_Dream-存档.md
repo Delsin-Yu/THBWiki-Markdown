@@ -10,6 +10,7 @@ AppData\Local\东方夜光幻梦`
 。
   
 
+
 ## savedata.ini
 ```
    [save4]
@@ -37,6 +38,7 @@ AppData\Local\东方夜光幻梦`
    key_savenum="4.000000" # 存档编号
    key_quanpingmuxianshi="0.000000" # 全屏幕显示
 ```
+
 
 ## map_intro_newN
   

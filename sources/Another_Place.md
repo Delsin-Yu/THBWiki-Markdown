@@ -4,7 +4,8 @@
 
 Another Place ，主要制作 同人音乐 的日本同人社团，主催是 8tech5，曾以 Another Place Recordings 名义活动，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -21,17 +22,21 @@ Another Place ，主要制作 同人音乐 的日本同人社团，主催是 8te
 
 
 
+
 ## 社团信息
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Another Place </td></tr><tr><td><b>曾用名称</b></td><td> Another Place Recordings </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="/8tech5" class="mw-redirect" title="8tech5">8tech5</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="https://soundcloud.com/user-340119236/">https://soundcloud.com/user-340119236/</a> </td></tr></tbody></table>
 
 Another Place（同人社团，同人音乐社团） - Another Place ，主要制作 同人音乐 的日本同人社团，主催是 8tech5，曾以 Another Place Recordings 名义活动，当前状态为 活动
+
 ## 成员名单
 - 8tech5 (未找到链接) (a.k.a.  **DJ 8tech5** ,  **AyeTex** )
 
 : [Twitter: @fucker_L85](https://twitter.com/fucker_L85), [Youtube: @ayetex9548](https://www.youtube.com/@ayetex9548), [Soundcloud: 8tech5](https://soundcloud.com/8tech5)
 
+
 ## 作品列表
+
 ### 同人专辑
 [](./ALLES_MEGA_MIX.md)[ALLES MEGA MIX](./ALLES_MEGA_MIX.md)首发日期：未知 EP （一般向）Split Memory 封面图片 (未找到链接)[Split Memory](./Split_Memory.md)首发日期：2018-05-06 （第十五回 博麗神社例大祭 (未找到链接)）- （一般向）[](./Fallon_The_Magianight.md)[Fall on The Magianight](./Fallon_The_Magianight.md)首发日期：2018-05-06 （第十五回 博麗神社例大祭 (未找到链接)）全长 （一般向）该作品是与 [俺のキューカンバーがポロロッカ!!](./俺のキューカンバーがポロロッカ!!.md) 合作创作的[](./Split_Memory_2_Rush.md)[Split Memory 2 Rush](./Split_Memory_2_Rush.md)首发日期：2019-05-05 （第十六回 博麗神社例大祭 (未找到链接)）全长 （一般向）ラヴトラップ 封面图片 (未找到链接)[ラヴトラップ](./ラヴトラップ.md)首发日期：2021-11-28 （東方紅楼夢17 (未找到链接)）EP （一般向）[](./Stolen_Life.md)[Stolen Life](./Stolen_Life.md)首发日期：2023-10-15 （東方紅楼夢19 (未找到链接)）EP （一般向）
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -48,9 +53,11 @@ Another Place（同人社团，同人音乐社团） - Another Place ，主要�
 </table>
 
 
+
 ## 参展信息
 
 <table><tbody><tr><th class="活动页面">活动页面</th><th class="活动名称">活动名称</th><th class="日期">日期</th><th class="举办地点">举办地点</th><th class="摊位编号">摊位编号</th><th class="宣传页面">宣传页面</th><th class="备注">备注</th></tr><tr data-row-number="1" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E4%B8%9C%E6%96%B9%E7%BA%A2%E6%A5%BC%E6%A2%A6#19" title="东方红楼梦">东方红楼梦#19</a></span></td><td class="活动名称 smwtype_txt">東方紅楼夢19</td><td class="日期 smwtype_dat" data-sort-value="2460232.5">2023-10-15</td><td class="举办地点 smwtype_txt">大阪国际展览中心 6号馆C・D区</td><td class="摊位编号 smwtype_txt">い-04a</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="2" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#17" title="博丽神社例大祭">博丽神社例大祭#17</a></span></td><td class="活动名称 smwtype_txt">第十七回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2458986.5">2020-05-17</td><td class="举办地点 smwtype_txt">静冈双子展览馆</td><td class="摊位编号 smwtype_txt">M16b</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="3" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E4%B8%9C%E6%96%B9%E7%BA%A2%E6%A5%BC%E6%A2%A6#15" title="东方红楼梦">东方红楼梦#15</a></span></td><td class="活动名称 smwtype_txt">東方紅楼夢15</td><td class="日期 smwtype_dat" data-sort-value="2458769.5">2019-10-13</td><td class="举办地点 smwtype_txt">大阪国际展览中心</td><td class="摊位编号 smwtype_txt">う-06b</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="4" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#16" title="博丽神社例大祭">博丽神社例大祭#16</a></span></td><td class="活动名称 smwtype_txt">第十六回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2458608.5">2019-05-05</td><td class="举办地点 smwtype_txt">东京Big Sight</td><td class="摊位编号 smwtype_txt">I41b</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="5" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E4%B8%9C%E6%96%B9%E7%BA%A2%E6%A5%BC%E6%A2%A6#14" title="东方红楼梦">东方红楼梦#14</a></span></td><td class="活动名称 smwtype_txt">東方紅楼夢14</td><td class="日期 smwtype_dat" data-sort-value="2458412.5">2018-10-21</td><td class="举办地点 smwtype_txt">大阪国际展览中心</td><td class="摊位编号 smwtype_txt">K-09b</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="6" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#15" title="博丽神社例大祭">博丽神社例大祭#15</a></span></td><td class="活动名称 smwtype_txt">第十五回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2458244.5">2018-05-06</td><td class="举办地点 smwtype_txt">东京Big Sight 东123456展厅</td><td class="摊位编号 smwtype_txt">I04b</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="7" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E4%B8%9C%E6%96%B9%E7%BA%A2%E6%A5%BC%E6%A2%A6#13" title="东方红楼梦">东方红楼梦#13</a></span></td><td class="活动名称 smwtype_txt">東方紅楼夢13</td><td class="日期 smwtype_dat" data-sort-value="2458048.5">2017-10-22</td><td class="举办地点 smwtype_txt">大阪国际展览中心 4号馆・6号馆B区</td><td class="摊位编号 smwtype_txt">M-07a</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr></tbody></table>
+
 
 
 ## 其他信息

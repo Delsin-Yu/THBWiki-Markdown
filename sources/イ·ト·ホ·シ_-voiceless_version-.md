@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-イ·ト·ホ·シ_-voiceless_version-封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/1/1a/%E3%82%A4%C2%B7%E3%83%88%C2%B7%E3%83%9B%C2%B7%E3%82%B7_-voiceless_version-%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="224" data-file-width="200" data-file-height="200"></a></td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://kapparecords.com/AphroditeSymphonics/Aphrodite_KPCR-145.html">https://kapparecords.com/AphroditeSymphonics/Aphrodite_KPCR-145.html</a></td></tr></tbody></table>
 
 イ·ト·ホ·シ -voiceless version-（同人专辑，Aphrodite，2013） - 2013年8月12日 由 Aphrodite 于 Comic Market 84 发布的单曲同人专辑，分级为 一般向
+
 ## Staff
   
  **Arrangement**   
@@ -26,9 +28,11 @@
 <table><tbody><tr><td><a href="/index.php?title=ANI-Katsu&amp;action=edit&amp;redlink=1" class="new" title="ANI-Katsu（页面不存在）">ANI-Katsu</a></td><td></td><td>Tr.1</td></tr><tr><td><a href="/index.php?title=Hiromi_Suzuki&amp;action=edit&amp;redlink=1" class="new" title="Hiromi Suzuki（页面不存在）">Hiromi Suzuki</a></td><td></td><td>Tr.1</td></tr><tr><td><a href="/index.php?title=Masashi_%22Jill%22_Okagaki&amp;action=edit&amp;redlink=1" class="new" title="Masashi &quot;Jill&quot; Okagaki（页面不存在）">Masashi "Jill" Okagaki</a></td><td></td><td>Tr.1</td></tr></tbody></table>
 
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="イ･ト･ホ･シ_-voiceless_version-" colspan="2" class="title">イ･ト･ホ･シ -voiceless version-<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Masashi &quot;Jill&quot; Okagaki&amp;ogmusic=竹取飛翔　～ Lunatic Princess&amp;fromwiki=イ·ト·ホ·シ_-voiceless_version-"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:58</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=Masashi_%22Jill%22_Okagaki&amp;action=edit&amp;redlink=1" class="new" title="Masashi &quot;Jill&quot; Okagaki（页面不存在）">Masashi "Jill" Okagaki</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Masashi &quot;Jill&quot; Okagaki&amp;fromwiki=イ·ト·ホ·シ_-voiceless_version-"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演奏</td><td class="text" colspan="2">Keyboard：Masashi "Jill" Okagaki <br>Guitar：Hiromi Suzuki <br>Bass：ANI-Katsu</td></tr><tr><td class="left"></td><td class="label">初发布</td><td class="text" colspan="2"><a href="/Ragnarok_-SCARLET_FANTASIA_XIII-#8" title="Ragnarok -SCARLET FANTASIA XIII-">イ・ト・ホ・シ</a><div class="source"><a href="./Ragnarok_-SCARLET_FANTASIA_XIII-.md" title="Ragnarok -SCARLET FANTASIA XIII-">Ragnarok -SCARLET FANTASIA XIII-</a></div></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=竹取飛翔　～ Lunatic Princess&amp;fromwiki=イ·ト·ホ·シ_-voiceless_version-"><span></span></a></span><div class="ogmusic"><a href="/%E7%AB%B9%E5%8F%96%E9%A3%9B%E7%BF%94_%EF%BD%9E_Lunatic_Princess" class="mw-redirect" title="竹取飛翔 ～ Lunatic Princess">竹取飛翔　～ Lunatic Princess</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E6%B0%B8%E5%A4%9C%E6%8A%84_%EF%BD%9E_Imperishable_Night." class="mw-redirect" title="东方永夜抄 ～ Imperishable Night.">东方永夜抄　～ Imperishable Night.</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="イ･ト･ホ･シ_-voiceless_version-" colspan="2" class="title">イ･ト･ホ･シ -voiceless version-<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Masashi &quot;Jill&quot; Okagaki&amp;ogmusic=竹取飛翔　～ Lunatic Princess&amp;fromwiki=イ·ト·ホ·シ_-voiceless_version-"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:58</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=Masashi_%22Jill%22_Okagaki&amp;action=edit&amp;redlink=1" class="new" title="Masashi &quot;Jill&quot; Okagaki（页面不存在）">Masashi "Jill" Okagaki</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Masashi &quot;Jill&quot; Okagaki&amp;fromwiki=イ·ト·ホ·シ_-voiceless_version-"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演奏</td><td class="text" colspan="2">Keyboard：Masashi "Jill" Okagaki <br>Guitar：Hiromi Suzuki <br>Bass：ANI-Katsu</td></tr><tr><td class="left"></td><td class="label">初发布</td><td class="text" colspan="2"><a href="/Ragnarok_-SCARLET_FANTASIA_XIII-#8" title="Ragnarok -SCARLET FANTASIA XIII-">イ・ト・ホ・シ</a><div class="source"><a href="./Ragnarok_-SCARLET_FANTASIA_XIII-.md" title="Ragnarok -SCARLET FANTASIA XIII-">Ragnarok -SCARLET FANTASIA XIII-</a></div></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=竹取飛翔　～ Lunatic Princess&amp;fromwiki=イ·ト·ホ·シ_-voiceless_version-"><span></span></a></span><div class="ogmusic"><a href="./竹取飛翔_～_Lunatic_Princess.md" class="mw-redirect" title="竹取飛翔 ～ Lunatic Princess">竹取飛翔　～ Lunatic Princess</a></div><div class="source"><a href="./东方永夜抄_～_Imperishable_Night..md" class="mw-redirect" title="东方永夜抄 ～ Imperishable Night.">东方永夜抄　～ Imperishable Night.</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

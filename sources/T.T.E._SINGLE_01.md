@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-T.T.E._SINGLE_01封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/3/32/T.T.E._SINGLE_01%E5%B0%81%E9%9D%A2.png/224px-T.T.E._SINGLE_01%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="224" height="224" srcset="https://upload.thwiki.cc/thumb/3/32/T.T.E._SINGLE_01%E5%B0%81%E9%9D%A2.png/336px-T.T.E._SINGLE_01%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/3/32/T.T.E._SINGLE_01%E5%B0%81%E9%9D%A2.png/448px-T.T.E._SINGLE_01%E5%B0%81%E9%9D%A2.png 2x" data-file-width="600" data-file-height="600"></a></td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.youtube.com/watch?v=R5NPl-sJCIE">https://www.youtube.com/watch?v=R5NPl-sJCIE</a></td></tr></tbody></table>
 
 T.T.E. SINGLE 01（同人专辑，粒々アンサンブル，2021） - 2021年3月21日 由 粒々アンサンブル 于 博丽神社例大祭18 发布的单曲同人专辑，分级为 一般向
+
 ## Staff
   
  **Arrangement**   
@@ -25,6 +27,7 @@ Mastering
 : たーくん (未找到链接)
 Disc design
 : pppj (未找到链接)
+
 
 ## 试听
 
@@ -38,10 +41,12 @@ Disc design
 </td></tr></tbody></table>
 
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Cosmic_Swing" colspan="2" class="title">Cosmic Swing<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=pppj&amp;ogmusic=感情の摩天楼　～ Cosmic Mind&amp;fromwiki=T.T.E._SINGLE_01"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=pppj&amp;action=edit&amp;redlink=1" class="new" title="pppj（页面不存在）">pppj</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，pppj&amp;fromwiki=T.T.E._SINGLE_01"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=感情の摩天楼　～ Cosmic Mind&amp;fromwiki=T.T.E._SINGLE_01"><span></span></a></span><div class="ogmusic"><a href="/%E6%84%9F%E6%83%85%E3%81%AE%E6%91%A9%E5%A4%A9%E6%A5%BC_%EF%BD%9E_Cosmic_Mind" class="mw-redirect" title="感情の摩天楼 ～ Cosmic Mind">感情の摩天楼　～ Cosmic Mind</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E6%98%9F%E8%8E%B2%E8%88%B9_%EF%BD%9E_Undefined_Fantastic_Object." class="mw-redirect" title="东方星莲船 ～ Undefined Fantastic Object.">东方星莲船　～ Undefined Fantastic Object.</a></div></td></tr>
-<tr><td id="2" class="infoYD"><b>02</b></td><td id="Shanghai@Arena" colspan="2" class="title">Shanghai@Arena<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=たーくん&amp;ogmusic=上海紅茶館　～ Chinese Tea&amp;fromwiki=T.T.E._SINGLE_01"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E3%81%9F%E3%83%BC%E3%81%8F%E3%82%93&amp;action=edit&amp;redlink=1" class="new" title="たーくん（页面不存在）">たーくん</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，たーくん&amp;fromwiki=T.T.E._SINGLE_01"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=上海紅茶館　～ Chinese Tea&amp;fromwiki=T.T.E._SINGLE_01"><span></span></a></span><div class="ogmusic"><a href="/%E4%B8%8A%E6%B5%B7%E7%B4%85%E8%8C%B6%E9%A4%A8_%EF%BD%9E_Chinese_Tea" class="mw-redirect" title="上海紅茶館 ～ Chinese Tea">上海紅茶館　～ Chinese Tea</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E7%BA%A2%E9%AD%94%E4%B9%A1_%EF%BD%9E_the_Embodiment_of_Scarlet_Devil." class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Cosmic_Swing" colspan="2" class="title">Cosmic Swing<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=pppj&amp;ogmusic=感情の摩天楼　～ Cosmic Mind&amp;fromwiki=T.T.E._SINGLE_01"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=pppj&amp;action=edit&amp;redlink=1" class="new" title="pppj（页面不存在）">pppj</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，pppj&amp;fromwiki=T.T.E._SINGLE_01"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=感情の摩天楼　～ Cosmic Mind&amp;fromwiki=T.T.E._SINGLE_01"><span></span></a></span><div class="ogmusic"><a href="./感情の摩天楼_～_Cosmic_Mind.md" class="mw-redirect" title="感情の摩天楼 ～ Cosmic Mind">感情の摩天楼　～ Cosmic Mind</a></div><div class="source"><a href="./东方星莲船_～_Undefined_Fantastic_Object..md" class="mw-redirect" title="东方星莲船 ～ Undefined Fantastic Object.">东方星莲船　～ Undefined Fantastic Object.</a></div></td></tr>
+<tr><td id="2" class="infoYD"><b>02</b></td><td id="Shanghai@Arena" colspan="2" class="title">Shanghai@Arena<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=たーくん&amp;ogmusic=上海紅茶館　～ Chinese Tea&amp;fromwiki=T.T.E._SINGLE_01"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E3%81%9F%E3%83%BC%E3%81%8F%E3%82%93&amp;action=edit&amp;redlink=1" class="new" title="たーくん（页面不存在）">たーくん</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，たーくん&amp;fromwiki=T.T.E._SINGLE_01"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=上海紅茶館　～ Chinese Tea&amp;fromwiki=T.T.E._SINGLE_01"><span></span></a></span><div class="ogmusic"><a href="./上海紅茶館_～_Chinese_Tea.md" class="mw-redirect" title="上海紅茶館 ～ Chinese Tea">上海紅茶館　～ Chinese Tea</a></div><div class="source"><a href="./东方红魔乡_～_the_Embodiment_of_Scarlet_Devil..md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

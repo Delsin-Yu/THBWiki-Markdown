@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-FACE（よもぎ）封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/6/6c/FACE%EF%BC%88%E3%82%88%E3%82%82%E3%81%8E%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/194px-FACE%EF%BC%88%E3%82%88%E3%82%82%E3%81%8E%EF%BC%89%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="194" height="196" srcset="https://upload.thwiki.cc/thumb/6/6c/FACE%EF%BC%88%E3%82%88%E3%82%82%E3%81%8E%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/291px-FACE%EF%BC%88%E3%82%88%E3%82%82%E3%81%8E%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/6/6c/FACE%EF%BC%88%E3%82%88%E3%82%82%E3%81%8E%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/388px-FACE%EF%BC%88%E3%82%88%E3%82%82%E3%81%8E%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="507" data-file-height="512"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></div></td>
@@ -14,9 +15,12 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/joniko1110/status/1577987539989733376">https://twitter.com/joniko1110/status/1577987539989733376</a></td></tr></tbody></table>
 
 FACE（同人志，よもぎ，2022） - 2022年10月9日 由 よもぎ 于 东方红楼梦18 发布的画集同人志，正方形尺寸一共12页，分级为 一般向
+
 ## 预览
+
 ## Staff
 - けろ (未找到链接)
+
 
 ## 评论
   

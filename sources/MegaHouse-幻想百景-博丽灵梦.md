@@ -6,11 +6,13 @@
 
 本页是关于东方Project  
  **相关实体周边 (未找到链接)** 的词条
+
 ## 模型信息
 
 <table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 博丽灵梦 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>幻想百景</td></tr><tr><td class="label">角色</td><td><a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></td></tr><tr><td class="label">原型师</td><td><a href="/index.php?title=%E9%98%BF%E9%83%A8%E6%98%82%E5%A4%A7&amp;action=edit&amp;redlink=1" class="new" title="阿部昂大（页面不存在）">阿部昂大</a><br><a href="/index.php?title=Fenrir&amp;action=edit&amp;redlink=1" class="new" title="Fenrir（页面不存在）">Fenrir</a></td></tr><tr><td class="label">原画师</td><td><a href="/index.php?title=%E5%8D%83%E8%91%89%E3%82%B5%E3%83%89%E3%83%AB&amp;action=edit&amp;redlink=1" class="new" title="千葉サドル（页面不存在）">千葉サドル</a></td></tr><tr><td class="label">尺寸</td><td>140mm</td></tr><tr><td class="label">状态</td><td>已发售</td></tr><tr><td class="label">售价</td><td>5524日元</td></tr><tr><td class="label">首发日期</td><td>2014-01-17</td></tr><tr><td class="label">发售方</td><td><a href="/index.php?title=MegaHouse&amp;action=edit&amp;redlink=1" class="new" title="MegaHouse（页面不存在）">MegaHouse</a></td></tr><tr><td class="label">官网页面</td><td><a rel="nofollow" class="external free" href="http://hobbyjapan.co.jp/ltd_items/hj20130902/">http://hobbyjapan.co.jp/ltd_items/hj20130902/</a></td></tr><tr><td class="label">备注</td><td>志上限定</td></tr></tbody></table>
 
 MegaHouse/幻想百景/博丽灵梦（周边） - 博丽灵梦PVCFigure手办模型
+
 ## 参考图片
 
 

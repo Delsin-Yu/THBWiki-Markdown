@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Water_Magus封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/a/a7/Water_Magus%E5%B0%81%E9%9D%A2.jpg/138px-Water_Magus%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="138" height="196" srcset="https://upload.thwiki.cc/thumb/a/a7/Water_Magus%E5%B0%81%E9%9D%A2.jpg/208px-Water_Magus%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/a/a7/Water_Magus%E5%B0%81%E9%9D%A2.jpg/277px-Water_Magus%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="389" data-file-height="550"></a><div class="cover-char">角色：<a href="./琪露诺.md" title="琪露诺">琪露诺</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://www.studiomabo.jp/yamagata/index.php?e=131">http://www.studiomabo.jp/yamagata/index.php?e=131</a></td></tr></tbody></table>
 
 Water Magus（同人志，Infrontia，2009） - 2009年3月21日 由 Infrontia 于 东方不败小町5 发布的漫画同人志，B5尺寸一共40页，分级为 一般向
+
 ## Staff
 - [山県ひでと](./山県ひでと.md)
+
 
 ## 评论
   

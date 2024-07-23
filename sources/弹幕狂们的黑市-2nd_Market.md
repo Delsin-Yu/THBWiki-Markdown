@@ -23,6 +23,7 @@
 </center>
 - 本词条内容为官方游戏TH18.5 **弹幕狂们的黑市** 的敌机符卡
 
+
 ## 目录
 
 - [1 琪露诺](#琪露诺)
@@ -74,7 +75,9 @@
 
 
 
+
 ## 琪露诺
+
 ### 「Perfect Freeeeeeze!」（完美冻结——！）
 
 <table>
@@ -88,9 +91,10 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="/%E3%80%8CPerfect_Freeeeeeze!%E3%80%8D" class="mw-redirect" title="「Perfect Freeeeeeze!」">「Perfect Freeeeeeze!」</a>
+<p><a href="./「Perfect_Freeeeeeze!」.md" class="mw-redirect" title="「Perfect Freeeeeeze!」">「Perfect Freeeeeeze!」</a>
 </p>
 </th></tr></tbody></table>
+
 
 
 #### 符卡信息
@@ -112,7 +116,9 @@
 
   
 
+
 ## 若鹭姬
+
 ### 歌符「人鱼之歌」
 
 <table>
@@ -126,9 +132,10 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="/%E6%AD%8C%E7%AC%A6%E3%80%8C%E4%BA%BA%E9%B1%BC%E4%B9%8B%E6%AD%8C%E3%80%8D" class="mw-redirect" title="歌符「人鱼之歌」">歌符「人鱼之歌」</a>
+<p><a href="./歌符「人鱼之歌」.md" class="mw-redirect" title="歌符「人鱼之歌」">歌符「人鱼之歌」</a>
 </p>
 </th></tr></tbody></table>
+
 
 
 #### 符卡信息
@@ -150,7 +157,9 @@
 
   
 
+
 ## 牛崎润美
+
 ### 「剽掠涟漪」
 
 <table>
@@ -164,9 +173,10 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="/%E3%80%8C%E5%89%BD%E6%8E%A0%E6%B6%9F%E6%BC%AA%E3%80%8D" class="mw-redirect" title="「剽掠涟漪」">「剽掠涟漪」</a>
+<p><a href="./「剽掠涟漪」.md" class="mw-redirect" title="「剽掠涟漪」">「剽掠涟漪」</a>
 </p>
 </th></tr></tbody></table>
+
 
 
 #### 符卡信息
@@ -188,7 +198,9 @@
 
   
 
+
 ## 赤蛮奇
+
 ### 「轻快的人头生活」
 
 <table>
@@ -202,9 +214,10 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="/%E3%80%8C%E8%BD%BB%E5%BF%AB%E7%9A%84%E4%BA%BA%E5%A4%B4%E7%94%9F%E6%B4%BB%E3%80%8D" class="mw-redirect" title="「轻快的人头生活」">「轻快的人头生活」</a>
+<p><a href="./「轻快的人头生活」.md" class="mw-redirect" title="「轻快的人头生活」">「轻快的人头生活」</a>
 </p>
 </th></tr></tbody></table>
+
 
 
 #### 符卡信息
@@ -225,6 +238,7 @@
   
 
   
+
 
 ## 导航
   

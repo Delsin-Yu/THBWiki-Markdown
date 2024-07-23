@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **相关实体周边 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 周边信息](#周边信息)
@@ -22,6 +23,7 @@
 
 
 
+
 ## 周边信息
 
 <table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 咖啡厅联动风亚克力 红魔乡篇 </td></tr><tr><td class="label">系列</td><td> 咖啡厅联动风亚克力 </td></tr><tr><td class="label">制作方</td><td><a href="./Merry_Mellow.md" title="Merry Mellow">Merry Mellow</a></td></tr><tr><td class="label">首发日期</td><td>2022-08-20&#160;（<a href="/展会作品列表?e=COMICUP%232022SP">COMICUP2022SP</a>）</td></tr><tr><td class="label">类型</td><td>挂件，立牌</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>立牌7cm 挂件6cm</td></tr><tr><td class="label">材质</td><td>亚克力</td></tr><tr><td class="label">角色</td><td><a href="./露米娅.md" title="露米娅">露米娅</a><br><a href="./大妖精.md" title="大妖精">大妖精</a><br><a href="./琪露诺.md" title="琪露诺">琪露诺</a><br><a href="./红美铃.md" title="红美铃">红美铃</a><br><a href="./小恶魔.md" title="小恶魔">小恶魔</a><br><a href="./帕秋莉·诺蕾姬.md" title="帕秋莉·诺蕾姬">帕秋莉·诺蕾姬</a><br><a href="/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C" title="十六夜咲夜">十六夜咲夜</a><br><a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a><br><a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a></td></tr><tr><td class="label">售价</td><td>通贩售价：15人民币（挂件）28人民币（立牌）130人民币（十个挂件一起）250人民币（十个立牌一起）</td></tr>
@@ -32,17 +34,22 @@ Merry Mellow/咖啡厅联动风亚克力 红魔乡篇（周边，Merry Mellow，
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://item.taobao.com/item.htm?id=676458869556">淘宝</a></td></tr></tbody></table>
 
 
+
 ## 参考图
   
 周边宣传、售卖时使用的作为参考图的预览图或实物图的图片。
   
 
+
 ### 预览图
 - [](./文件-Merry_Mellow／咖啡厅联动风亚克力_红魔乡篇预览图1.png.md)- [](./文件-Merry_Mellow／咖啡厅联动风亚克力_红魔乡篇预览图2.png.md)- [](./文件-Merry_Mellow／咖啡厅联动风亚克力_红魔乡篇预览图3.png.md)- [](./文件-Merry_Mellow／咖啡厅联动风亚克力_红魔乡篇预览图4.png.md)- [](./文件-Merry_Mellow／咖啡厅联动风亚克力_红魔乡篇预览图5.png.md)- [](./文件-Merry_Mellow／咖啡厅联动风亚克力_红魔乡篇预览图6.png.md)- [](./文件-Merry_Mellow／咖啡厅联动风亚克力_红魔乡篇预览图7.png.md)- [](./文件-Merry_Mellow／咖啡厅联动风亚克力_红魔乡篇预览图8.png.md)- [](./文件-Merry_Mellow／咖啡厅联动风亚克力_红魔乡篇预览图9.png.md)- [](./文件-Merry_Mellow／咖啡厅联动风亚克力_红魔乡篇预览图10.png.md)- [](./文件-Merry_Mellow／咖啡厅联动风亚克力_红魔乡篇预览图11.png.md)
 
+
 ### 实物图
+
 ## Staff
 - [金森めい](./金森めい.md)
+
 
 ## 评论
 

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-DISORDERLY_CROWD_～神霊廟短編集～封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/6/63/DISORDERLY_CROWD_%EF%BD%9E%E7%A5%9E%E9%9C%8A%E5%BB%9F%E7%9F%AD%E7%B7%A8%E9%9B%86%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg/120px-DISORDERLY_CROWD_%EF%BD%9E%E7%A5%9E%E9%9C%8A%E5%BB%9F%E7%9F%AD%E7%B7%A8%E9%9B%86%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="120" height="168" srcset="https://upload.thwiki.cc/thumb/6/63/DISORDERLY_CROWD_%EF%BD%9E%E7%A5%9E%E9%9C%8A%E5%BB%9F%E7%9F%AD%E7%B7%A8%E9%9B%86%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg/180px-DISORDERLY_CROWD_%EF%BD%9E%E7%A5%9E%E9%9C%8A%E5%BB%9F%E7%9F%AD%E7%B7%A8%E9%9B%86%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/6/63/DISORDERLY_CROWD_%EF%BD%9E%E7%A5%9E%E9%9C%8A%E5%BB%9F%E7%9F%AD%E7%B7%A8%E9%9B%86%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg/240px-DISORDERLY_CROWD_%EF%BD%9E%E7%A5%9E%E9%9C%8A%E5%BB%9F%E7%9F%AD%E7%B7%A8%E9%9B%86%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="856" data-file-height="1200"></a><div class="cover-char">角色：<a href="./苏我屠自古.md" title="苏我屠自古">苏我屠自古</a>，<a href="./秦心.md" title="秦心">秦心</a>，<a href="./丰聪耳神子.md" title="丰聪耳神子">丰聪耳神子</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/71015730">https://www.pixiv.net/artworks/71015730</a></td></tr></tbody></table>
 
 DISORDERLY CROWD ～神霊廟短編集～（同人志，黒錆一揆，2018） - 2018年10月14日 由 黒錆一揆 于 博丽神社秋季例大祭5 发布的漫画同人志，登场人物有 苏我屠自古、秦心、丰聪耳神子，分级为 一般向
+
 ## Staff
 : ストロイド (未找到链接)
+
 
 ## 评论
 

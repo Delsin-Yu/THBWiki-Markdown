@@ -4,7 +4,8 @@
 
 皇Designs ，主要制作 同人志 的日本同人社团，主催是 皇 征介，当前状态为 转入非东方
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -20,17 +21,21 @@
 
 
 
+
 ## 社团信息
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> 皇Designs </td></tr><tr><td><b>主要作品类型</b></td><td>同人志</td></tr><tr><td><b>当前状态</b></td><td>转入非东方</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=%E7%9A%87_%E5%BE%81%E4%BB%8B&amp;action=edit&amp;redlink=1" class="new" title="皇 征介（页面不存在）">皇 征介</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="https://sumeragi.booth.pm/">https://sumeragi.booth.pm/</a> <br><a rel="nofollow" class="external free" href="http://www.age.jp/~sumeragi/">http://www.age.jp/~sumeragi/</a> <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span></td></tr></tbody></table>
 
 皇Designs（同人社团，同人志社团） - 皇Designs ，主要制作 同人志 的日本同人社团，主催是 皇 征介，当前状态为 转入非东方
+
 ## 成员名单
 - 皇 征介 (未找到链接)
 
 : [Twitter: @sumeragiseisuke](https://twitter.com/sumeragiseisuke), [Pixiv ID: 20563](https://www.pixiv.net/users/20563)
 
+
 ## 作品列表
+
 ### 同人志
 FAR EAST STYLE 封面图片 (未找到链接)FAR EAST STYLE (未找到链接)首发日期：未知 - FAR EAST MODE 封面图片 (未找到链接)FAR EAST MODE (未找到链接)首发日期：未知 - FAR EAST SENSE 封面图片 (未找到链接)FAR EAST SENSE (未找到链接)首发日期：未知 - FAR EAST POINT 封面图片 (未找到链接)FAR EAST POINT (未找到链接)首发日期：未知 - FAR EAST VIEW 封面图片 (未找到链接)FAR EAST VIEW (未找到链接)首发日期：未知 - FAR EAST WALK 封面图片 (未找到链接)FAR EAST WALK (未找到链接)首发日期：未知 - FAR EAST WORK 封面图片 (未找到链接)FAR EAST WORK (未找到链接)首发日期：未知 - 今日の紅魔館 総集編 封面图片 (未找到链接)今日の紅魔館 総集編 (未找到链接)首发日期：未知 - FAR EAST FEEL 封面图片 (未找到链接)FAR EAST FEEL (未找到链接)首发日期：未知 - FAR EAST SPOT 封面图片 (未找到链接)FAR EAST SPOT (未找到链接)首发日期：未知 - FAR EAST FORCE 封面图片 (未找到链接)FAR EAST FORCE (未找到链接)首发日期：未知 - FAR EAST READ 封面图片 (未找到链接)FAR EAST READ (未找到链接)首发日期：未知 - 裏 FAR EAST READ 封面图片 (未找到链接)裏 FAR EAST READ (未找到链接)首发日期：未知 - FAR EAST WORD 封面图片 (未找到链接)FAR EAST WORD (未找到链接)首发日期：未知 - D4C 封面图片 (未找到链接)D4C (未找到链接)首发日期：未知 - D4C いともったやすく行われるえげつない行為こんてぃにゅー 封面图片 (未找到链接)D4C いともったやすく行われるえげつない行為こんてぃにゅー (未找到链接)首发日期：未知 - D4C continue 封面图片 (未找到链接)D4C continue (未找到链接)首发日期：未知 - FAR EAST MORAL 封面图片 (未找到链接)FAR EAST MORAL (未找到链接)首发日期：未知 - D4C continue again 封面图片 (未找到链接)D4C continue again (未找到链接)首发日期：未知 - FAR EAST DROP 封面图片 (未找到链接)FAR EAST DROP (未找到链接)首发日期：未知 - D4C final 封面图片 (未找到链接)D4C final (未找到链接)首发日期：未知 - 
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -54,6 +59,7 @@ FAR EAST STYLE 封面图片 (未找到链接)FAR EAST STYLE (未找到链接)首
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458"></table>
+
 
 
 ## 参展信息

@@ -6,17 +6,22 @@
 
 本页是关于东方Project  
  **二次同人创作者** 的词条
+
 ## 基本信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="label"><b>名称</b></td><td> Darkbug </td></tr><tr><td class="label"><b>所属社团</b></td><td><b>当前</b><div style="margin-left:2em;">无所属社团</div><b>过往</b><div style="margin-left:2em;">優曇華</div></td></tr><tr><td class="label"><b>职位</b></td><td>作曲，编曲</td></tr><tr><td class="label"><b>参与社团</b></td><td><a class="mw-selflink selflink">Darkbug</a> （作曲，编曲）<br><a href="./優曇華.md" title="優曇華">優曇華</a> （编曲）</td></tr></tbody></table>
 
 Darkbug（人物） - 现实人物
+
 ## 介绍
+
 ## 参与作品
+
 ### 同人音乐
   
 模板:人物曲目列表 (未找到链接)
   
+
 
 ## 人际关系
 人名

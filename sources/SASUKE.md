@@ -6,15 +6,18 @@
 
 本页是关于东方Project  
  **二次同人创作者** 的词条
+
 ## 基本信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="label"><b>名称</b></td><td> SASUKE </td></tr><tr><td class="label"><b>所属社团</b></td><td><b>当前</b><div style="margin-left:2em;"><a href="./SASUKEの里.md" title="SASUKEの里">SASUKEの里</a></div></td></tr><tr><td class="label"><b>职位</b></td><td>画师</td></tr><tr><td class="label"><b>性别</b></td><td>男</td></tr><tr><td class="label"><b>个人页面</b></td><td><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><b>Twitter</b></td><td><a rel="nofollow" class="external free" href="https://twitter.com/sasuke_ssk">https://twitter.com/sasuke_ssk</a></td></tr><tr><td><b>Pixiv</b></td><td><a rel="nofollow" class="external free" href="https://www.pixiv.net/member.php?id=74223">https://www.pixiv.net/member.php?id=74223</a></td></tr><tr><td><b>Niconico</b></td><td><a rel="nofollow" class="external free" href="https://www.nicovideo.jp/user/1765863">https://www.nicovideo.jp/user/1765863</a></td></tr><tr><td><b>Email</b></td><td>sasuke@po.twin.ne.jp</td></tr></tbody></table></td></tr></tbody></table>
 
 SASUKE（人物） - 现实人物
+
 ## 介绍
   
 社团[SASUKEの里](./SASUKEの里.md)的主催，同人志系列“八雲式”的作者
   
+
 
 ## 人际关系
 

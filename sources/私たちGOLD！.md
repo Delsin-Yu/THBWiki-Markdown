@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-私たちGOLD！封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/3/35/%E7%A7%81%E3%81%9F%E3%81%A1GOLD%EF%BC%81%E5%B0%81%E9%9D%A2.jpg/142px-%E7%A7%81%E3%81%9F%E3%81%A1GOLD%EF%BC%81%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="142" height="196" srcset="https://upload.thwiki.cc/thumb/3/35/%E7%A7%81%E3%81%9F%E3%81%A1GOLD%EF%BC%81%E5%B0%81%E9%9D%A2.jpg/213px-%E7%A7%81%E3%81%9F%E3%81%A1GOLD%EF%BC%81%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/3/35/%E7%A7%81%E3%81%9F%E3%81%A1GOLD%EF%BC%81%E5%B0%81%E9%9D%A2.jpg/284px-%E7%A7%81%E3%81%9F%E3%81%A1GOLD%EF%BC%81%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="726" data-file-height="1000"></a><div class="cover-char">角色：<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/66318722">https://www.pixiv.net/artworks/66318722</a><br><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/66493770">https://www.pixiv.net/artworks/66493770</a></td></tr><tr><td class="label">备注</td><td colspan="2">金发人物only本</td></tr></tbody></table>
 
 私たちGOLD！（同人志，Drink it!，2013） - 2013年12月30日 由 Drink it! 于 Comic Market 85 发布的绘本同人志，A4尺寸一共20页，分级为 一般向
+
 ## Staff
 - オード (未找到链接)
+
 
 ## 评论
 

@@ -6,12 +6,14 @@
 
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 软件信息](#软件信息)
 - [2 Staff](#Staff)
 - [3 内容页面](#内容页面)
 - [4 评论](#评论)
+
 
 
 
@@ -40,6 +42,7 @@ Ore from the Age of Gods（同人游戏，Iced＿Lemon，lapspider45，ThatOneUn
 </tbody></table>
 
 
+
 ## Staff
 Game Designer &amp; Programmer
 : Iced_Lemon （[@Iced_Lemon_Draw](https://twitter.com/Iced_Lemon_Draw)）
@@ -50,11 +53,13 @@ Cutscene Illustrator
 Soundtrack Composer
 : Lapspider45 （[Twitter: @lapspider45](https://twitter.com/lapspider45)）
 
+
 ## 内容页面
 - 游戏设定与剧情 (未找到链接)
 - 攻略 (未找到链接)
 - 其他信息 (未找到链接)
 - 原声集：[Soundtrack of the Ore from the Age of the Gods](./Soundtrack_of_the_Ore_from_the_Age_of_the_Gods.md)
+
 
 ## 评论
 

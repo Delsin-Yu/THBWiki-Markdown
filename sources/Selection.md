@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -38,11 +39,13 @@
 
 
 
+
 ## 基本信息
 
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">Selection</td></tr><tr><td><b>译名</b></td><td>Selection</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 Selection（曲目） - 由 ZUN 创作的官方曲目，原名 Selection
+
 ## 出现作品
 
 <table>
@@ -52,7 +55,9 @@ Selection（曲目） - 由 ZUN 创作的官方曲目，原名 Selection
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 东方梦时空
   
 YM2608(OPNA)，FM86版。
@@ -60,6 +65,7 @@ YM2608(OPNA)，FM86版。
 
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th03_02.ogg.md" title="文件:th03 02.ogg">th03_02.ogg</a><br><audio src="https://upload.thwiki.cc/5/5e/th03_02.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>SELECT.M</td></tr><tr><td><b>音轨时长</b></td><td>1:14.659</td></tr></tbody></table>
+
 
 
 ### 东方怪绮谈
@@ -71,12 +77,15 @@ YM2608(OPNA)，FM86版。
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th05_Y_02.ogg.md" title="文件:th05 Y 02.ogg">th05_Y_02.ogg</a><br><audio src="https://upload.thwiki.cc/8/81/th05_Y_02.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>Y_SELECT.M</td></tr><tr><td><b>音轨时长</b></td><td>1:14.659</td></tr></tbody></table>
 
 
+
 ### 幺乐团的历史 vol.4
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-ha04_02.mp3.md" title="文件:ha04 02.mp3">ha04_02.mp3</a><br><audio src="https://upload.thwiki.cc/9/99/ha04_02.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track02.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>1:29</td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 东方梦时空
 - Music Room (未找到链接)
 
@@ -92,6 +101,7 @@ YM2608(OPNA)，FM86版。
 用于东方梦时空的曲子  
 选择角色时的曲子。  
 暗过头了。
+
 ### 东方怪绮谈
 - Music Room (未找到链接)
 
@@ -101,8 +111,11 @@ YM2608(OPNA)，FM86版。
 用于东方梦时空的曲子  
 选择角色时的曲子。  
 暗过头了。
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
   
  **Selection** 
@@ -111,6 +124,7 @@ YM2608(OPNA)，FM86版。
   
 
 - 选择角色的曲目
+
 
 ### 二次同人数据
 

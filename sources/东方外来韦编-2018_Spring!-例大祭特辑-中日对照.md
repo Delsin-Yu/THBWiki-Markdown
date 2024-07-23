@@ -13,6 +13,7 @@
 <table><tbody><tr class="tt-content-header" id="=-1" data-pos="&#91;&quot;=&quot;,1&#93;"><td class="tt-jah" lang="ja"><div class="poem">同人誌即売会<br>博麗神社例大祭<br>が見据える<br><big><span style="color:red;">即売会</span></big><br>と<br><big><span style="color:red;">東方Project</span></big><br>の未来</div></td><td class="tt-zhh" lang="zh"><div class="poem">着眼于<br>同人志即卖会<br>博丽神社例大祭<br><big><span style="color:red;">即卖会</span></big><br>和<br><big><span style="color:red;">东方Project</span></big><br>的未来</div></td></tr><tr class="tt-content" id="=-2" data-pos="&#91;&quot;=&quot;,2&#93;"><td class="tt-ja" lang="ja"><div class="poem"></div></td><td class="tt-zh" lang="zh"><div class="poem">东方Project和同人即卖会之间,有着千丝万缕的关系。<br>这次要介绍的是，在只会展出东方Project的「Only Event」里<br>最大规模的即卖会「博丽神社例大祭」。<br>满满地收录了作为运营代表的北条先生真实的声音。<br></div></td></tr></tbody></table>
 
 
+
 ## 目录
 
 - [1 特辑](#特辑)
@@ -27,14 +28,17 @@
 
 
 
+
 ## 特辑
 
 <table><tbody><tr class="tt-content-header" id="特辑-1" data-pos="&#91;&quot;\u7279\u8f91&quot;,1&#93;"><td class="tt-jah" lang="ja"><div class="poem"></div></td><td class="tt-zhh" lang="zh"><div class="poem">话说「即卖会」「例大祭」到底是什么？<br></div></td></tr></tbody></table>
 
 
+
 ### 从文艺到娱乐
 
 <table><tbody><tr class="tt-content-header" id="从文艺到娱乐-1" data-pos="&#91;&quot;\u4ece\u6587\u827a\u5230\u5a31\u4e50&quot;,1&#93;"><td class="tt-jah" lang="ja"><div class="poem"></div></td><td class="tt-zhh" lang="zh"><div class="poem">从文艺到娱乐</div></td></tr><tr class="tt-content" id="从文艺到娱乐-2" data-pos="&#91;&quot;\u4ece\u6587\u827a\u5230\u5a31\u4e50&quot;,2&#93;"><td class="tt-ja" lang="ja"><div class="poem"></div></td><td class="tt-zh" lang="zh"><div class="poem">　　本来「同人」这个词语，指的是有着同样的兴趣或志向的人们，又或者指这些人聚集起来的事。在初中或高中学过文学史的人可能会记得，在日本明治维新之后文艺领域里就建立过这样团体，并在同人杂志上发表了短歌、小说等。举几个有名的例子，夏目漱石参加过的「杜鹃」，芥川龙之介参加过的「新思潮」（第四次）等，有很多在日本的文学史上起到了重要的作用。</div></td></tr><tr class="tt-content" id="从文艺到娱乐-3" data-pos="&#91;&quot;\u4ece\u6587\u827a\u5230\u5a31\u4e50&quot;,3&#93;"><td class="tt-ja" lang="ja"><div class="poem"></div></td><td class="tt-zh" lang="zh"><div class="poem">　　漫画的同人是在第二次世界大战结束之后登场的，它的火热甚至波及到了学校的社团活动。可以说是日本同人即卖会的代名词的「Comic Market」（Comiket）在1975年举办了第一届，不过当时说到同人一般就是指的是文艺，所以为了区别开来当时使用的是「漫画Fanzine」。这是从当时作为御宅向娱乐的形式势头很大的SF界的一角里做的同人志（这个主要是文学向、评论向的）的称呼里面取出来的词语。</div></td></tr><tr class="tt-content" id="从文艺到娱乐-4" data-pos="&#91;&quot;\u4ece\u6587\u827a\u5230\u5a31\u4e50&quot;,4&#93;"><td class="tt-ja" lang="ja"><div class="poem"></div></td><td class="tt-zh" lang="zh"><div class="poem">　　现在听到同人这个单词，大多指的是同人志的略称、非商业流通的东西或者独立制作的东西，不过比起作为大企业的反义词有着商业化目标的含义的独立制作，很多的同人没有包含当事者享乐之外的意义，也不以商业化为目的。这样的目的做出来的「同人○○」——同人志、同人游戏、同人周边等，如今已经有涉及到方方面面的被创作出来，被人享受着了。</div></td></tr><tr class="tt-content" id="从文艺到娱乐-5" data-pos="&#91;&quot;\u4ece\u6587\u827a\u5230\u5a31\u4e50&quot;,5&#93;"><td class="tt-ja" lang="ja"><div class="poem"></div></td><td class="tt-zh" lang="zh"><div class="poem">　　另外，这些发布同人创作物的主体被叫做「社团」。这是由于同人志即卖会是以多人集团为前提的社团为单位去受理发布者方的参加的，当时的印刷物制作的难度之高甚至成为了故事。如今发行同人志已经便宜到个人也能够做了而社团是多人组成的前提也就被打破，像「个人社团」这样一看就很矛盾的词语也经常被使用起来。<br></div></td></tr></tbody></table>
+
 
 
 ### 即卖会和类型
@@ -44,6 +48,7 @@
 
 
 <table><tbody><tr class="tt-content-header" id="即卖会和类型-4" data-pos="&#91;&quot;\u5373\u5356\u4f1a\u548c\u7c7b\u578b&quot;,4&#93;"><td class="tt-jah" lang="ja"><div class="poem"></div></td><td class="tt-zhh" lang="zh"><div class="poem">同人即卖会</div></td></tr><tr class="tt-content" id="即卖会和类型-5" data-pos="&#91;&quot;\u5373\u5356\u4f1a\u548c\u7c7b\u578b&quot;,5&#93;"><td class="tt-ja" lang="ja"><div class="poem"></div></td><td class="tt-zh" lang="zh"><div class="poem">　　博丽神社例大祭（以下称例大祭）里面最大的场地，就是即卖会场地。发布的东西从同人志开始，到同人游戏、同人周边等涉及到方方面面。并且，ZUN先生本人几乎都会作为社团参加春季的例大祭，多是发布体验版。</div></td></tr><tr class="tt-content-header" id="即卖会和类型-6" data-pos="&#91;&quot;\u5373\u5356\u4f1a\u548c\u7c7b\u578b&quot;,6&#93;"><td class="tt-jah" lang="ja"><div class="poem"></div></td><td class="tt-zhh" lang="zh"><div class="poem">Cosplay参加</div></td></tr><tr class="tt-content" id="即卖会和类型-7" data-pos="&#91;&quot;\u5373\u5356\u4f1a\u548c\u7c7b\u578b&quot;,7&#93;"><td class="tt-ja" lang="ja"><div class="poem"></div></td><td class="tt-zh" lang="zh"><div class="poem">　　Cosplay参加是登记制的，以Cosplay的样子入场是被禁止的。换装是利用在会场内设置的更衣室。并且，拍摄Cosplay也是登记制的，想拍摄的话必须要受理登记摄像机。还有，要注意无论哪个登记都是要收费的</div></td></tr><tr class="tt-content-header" id="即卖会和类型-8" data-pos="&#91;&quot;\u5373\u5356\u4f1a\u548c\u7c7b\u578b&quot;,8&#93;"><td class="tt-jah" lang="ja"><div class="poem"></div></td><td class="tt-zhh" lang="zh"><div class="poem">东方游戏展</div></td></tr><tr class="tt-content" id="即卖会和类型-9" data-pos="&#91;&quot;\u5373\u5356\u4f1a\u548c\u7c7b\u578b&quot;,9&#93;"><td class="tt-ja" lang="ja"><div class="poem"></div></td><td class="tt-zh" lang="zh"><div class="poem">　　有类似商业厂商的展示和试玩也有Play,Doujin!展示和试玩。商业厂商，大多像游艺场的设置那样，展示可以玩东方Project同人曲的「音游」。在Play,Doujin!摊位里面，可以试玩移植在家用游戏机上的东方同人游戏。</div></td></tr><tr class="tt-content-header" id="即卖会和类型-10" data-pos="&#91;&quot;\u5373\u5356\u4f1a\u548c\u7c7b\u578b&quot;,10&#93;"><td class="tt-jah" lang="ja"><div class="poem"></div></td><td class="tt-zhh" lang="zh"><div class="poem">痛车&amp;缘日</div></td></tr><tr class="tt-content" id="即卖会和类型-11" data-pos="&#91;&quot;\u5373\u5356\u4f1a\u548c\u7c7b\u578b&quot;,11&#93;"><td class="tt-ja" lang="ja"><div class="poem"></div></td><td class="tt-zh" lang="zh"><div class="poem">　　展示着车身装饰了东方Project角色的插图的痛车。自己有痛车的人，可以应募参加展示。并且，在缘日摊位里不仅仅可以玩巨大敲不倒翁游戏之类的玩具，还能稍微拿到土特产。<br></div></td></tr></tbody></table>
+
 
 
 ## 访谈

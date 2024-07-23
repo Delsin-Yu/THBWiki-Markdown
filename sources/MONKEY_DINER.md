@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-MONKEY_DINER封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/c/c4/MONKEY_DINER%E5%B0%81%E9%9D%A2.jpg/280px-MONKEY_DINER%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="280" height="275" srcset="https://upload.thwiki.cc/thumb/c/c4/MONKEY_DINER%E5%B0%81%E9%9D%A2.jpg/420px-MONKEY_DINER%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/c/c4/MONKEY_DINER%E5%B0%81%E9%9D%A2.jpg/560px-MONKEY_DINER%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1000" data-file-height="982"></a><div class="cover-char">角色：<a href="./尔子田里乃.md" title="尔子田里乃">尔子田里乃</a>，<a href="./丁礼田舞.md" title="丁礼田舞">丁礼田舞</a></div></td>
@@ -17,11 +18,13 @@ MONKEY DINER（同人专辑，マホトア豆腐店，2019） - 2019年5月5日 
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://mahotoa.booth.pm/items/1363394">Booth下载</a></td></tr></tbody></table>
 
 
+
 ## Staff
   
  **Arrangement**   
 
 <table><tbody><tr><td><a href="./Tare.md" title="Tare">Tare</a></td><td></td><td>Tr.1/2</td></tr></tbody></table>
+
 
 
 ## 试听
@@ -33,10 +36,12 @@ BOOTH
 
   
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="MONKEY_DINER" colspan="2" class="title">MONKEY DINER<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Tare&amp;ogmusic=クレイジーバックダンサーズ&amp;fromwiki=MONKEY_DINER"><span title="搜索相似同人曲"></span></a></span></td><td class="time">05:16</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Tare.md" title="Tare">Tare</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Tare&amp;fromwiki=MONKEY_DINER"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=クレイジーバックダンサーズ&amp;fromwiki=MONKEY_DINER"><span></span></a></span><div class="ogmusic"><a href="/%E3%82%AF%E3%83%AC%E3%82%A4%E3%82%B8%E3%83%BC%E3%83%90%E3%83%83%E3%82%AF%E3%83%80%E3%83%B3%E3%82%B5%E3%83%BC%E3%82%BA" class="mw-redirect" title="クレイジーバックダンサーズ">クレイジーバックダンサーズ</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E5%A4%A9%E7%A9%BA%E7%92%8B_%EF%BD%9E_Hidden_Star_in_Four_Seasons." class="mw-redirect" title="东方天空璋 ～ Hidden Star in Four Seasons.">东方天空璋　～ Hidden Star in Four Seasons.</a></div></td></tr>
-<tr><td id="2" class="infoYD"><b>02</b></td><td id="Flying_Dutchman_(Tare_Edit)" colspan="2" class="title">Flying Dutchman (Tare Edit)<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Tare&amp;ogmusic=幽霊客船の時空を越えた旅&amp;fromwiki=MONKEY_DINER"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:26</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Tare.md" title="Tare">Tare</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Tare&amp;fromwiki=MONKEY_DINER"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=幽霊客船の時空を越えた旅&amp;fromwiki=MONKEY_DINER"><span></span></a></span><div class="ogmusic"><a href="/%E5%B9%BD%E9%9C%8A%E5%AE%A2%E8%88%B9%E3%81%AE%E6%99%82%E7%A9%BA%E3%82%92%E8%B6%8A%E3%81%88%E3%81%9F%E6%97%85" class="mw-redirect" title="幽霊客船の時空を越えた旅">幽霊客船の時空を越えた旅</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E6%98%9F%E8%8E%B2%E8%88%B9_%EF%BD%9E_Undefined_Fantastic_Object." class="mw-redirect" title="东方星莲船 ～ Undefined Fantastic Object.">东方星莲船　～ Undefined Fantastic Object.</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="MONKEY_DINER" colspan="2" class="title">MONKEY DINER<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Tare&amp;ogmusic=クレイジーバックダンサーズ&amp;fromwiki=MONKEY_DINER"><span title="搜索相似同人曲"></span></a></span></td><td class="time">05:16</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Tare.md" title="Tare">Tare</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Tare&amp;fromwiki=MONKEY_DINER"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=クレイジーバックダンサーズ&amp;fromwiki=MONKEY_DINER"><span></span></a></span><div class="ogmusic"><a href="./クレイジーバックダンサーズ.md" class="mw-redirect" title="クレイジーバックダンサーズ">クレイジーバックダンサーズ</a></div><div class="source"><a href="./东方天空璋_～_Hidden_Star_in_Four_Seasons..md" class="mw-redirect" title="东方天空璋 ～ Hidden Star in Four Seasons.">东方天空璋　～ Hidden Star in Four Seasons.</a></div></td></tr>
+<tr><td id="2" class="infoYD"><b>02</b></td><td id="Flying_Dutchman_(Tare_Edit)" colspan="2" class="title">Flying Dutchman (Tare Edit)<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Tare&amp;ogmusic=幽霊客船の時空を越えた旅&amp;fromwiki=MONKEY_DINER"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:26</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Tare.md" title="Tare">Tare</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Tare&amp;fromwiki=MONKEY_DINER"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=幽霊客船の時空を越えた旅&amp;fromwiki=MONKEY_DINER"><span></span></a></span><div class="ogmusic"><a href="./幽霊客船の時空を越えた旅.md" class="mw-redirect" title="幽霊客船の時空を越えた旅">幽霊客船の時空を越えた旅</a></div><div class="source"><a href="./东方星莲船_～_Undefined_Fantastic_Object..md" class="mw-redirect" title="东方星莲船 ～ Undefined Fantastic Object.">东方星莲船　～ Undefined Fantastic Object.</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

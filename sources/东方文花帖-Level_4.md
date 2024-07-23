@@ -24,6 +24,7 @@
 - 本词条内容为官方游戏TH09.5 **东方文花帖** 的符卡、关卡评价以及相关内容
 - Level 4在开启LV3后才会显示，开启条件为LV3通过3个场景，或共计通过14个场景。
 
+
 ## 目录
 
 - [1 Level 4-1](#Level_4-1)
@@ -41,10 +42,12 @@
 
 
 
+
 ## Level 4-1
 [](./文件-铃仙·优昙华院·因幡_通常弹幕（文花帖）.jpg.md)  [](./文件-铃仙·优昙华院·因幡_通常弹幕（文花帖）.jpg.md)铃仙·优昙华院·因幡 通常弹幕
 
 <table><tbody><tr class="tt-content-header" id="Level_4-1" data-pos="&#91;&quot;Level 4&quot;,1&#93;"><td class="tt-jah" lang="ja"><div class="poem">通常弾幕</div></td><td class="tt-zhh" lang="zh"><div class="poem">通常弹幕</div></td></tr><tr class="tt-header" id="Level_4-2" data-pos="&#91;&quot;Level 4&quot;,2&#93;"><td colspan="2" id="射命丸文的评价" class="tt-header" lang="zh"><div class="poem">射命丸文的评价</div></td></tr><tr class="tt-content" id="Level_4-3" data-pos="&#91;&quot;Level 4&quot;,3&#93;"><td class="tt-ja" lang="ja"><div class="poem">う～ん、カメラの故障だったのかなぁ。<br>何か、この時ってうまくピントが合わなくて<br>中々写真が撮れなかったのよねぇ。</div></td><td class="tt-zh" lang="zh"><div class="poem">嗯～难道是照相机故障了吗。<br>总觉得那个时候焦距总是调不好<br>照片拍得很模糊呢。</div></td></tr><tr class="tt-header" id="Level_4-4" data-pos="&#91;&quot;Level 4&quot;,4&#93;"><td colspan="2" id="通常弹幕信息" class="tt-header" lang="zh"><div class="poem">通常弹幕信息</div></td></tr><tr class="tt-text-header" id="Level_4-5" data-pos="&#91;&quot;Level 4&quot;,5&#93;"><td colspan="2" class="tt-text" lang="zh"><div class="poem">Level 4 BOSS铃仙·优昙华院·因幡通常弹幕。<br></div></td></tr></tbody></table>
+
 
 
 ## Level 4-2
@@ -63,6 +66,7 @@
 
 
 <table><tbody><tr class="tt-content-header" id="Level_4-6" data-pos="&#91;&quot;Level 4&quot;,6&#93;"><td class="tt-jah" lang="ja"><div class="poem">霧符「ガシングガーデン」</div></td><td class="tt-zhh" lang="zh"><div class="poem"><a href="./Gassing_Garden.md" title="Gassing Garden" unred="">雾符「Gassing Garden」</a></div></td></tr><tr class="tt-header" id="Level_4-7" data-pos="&#91;&quot;Level 4&quot;,7&#93;"><td colspan="2" id="射命丸文的评价" class="tt-header" lang="zh"><div class="poem">射命丸文的评价</div></td></tr><tr class="tt-content" id="Level_4-8" data-pos="&#91;&quot;Level 4&quot;,8&#93;"><td class="tt-ja" lang="ja"><div class="poem">空気が淀んで嫌な感じだったわ。<br>この辺は危険地帯だから足を踏み入れてみるのも<br>また一興、って記事でも書こうかな。</div></td><td class="tt-zh" lang="zh"><div class="poem">凝重的空气真的让人很不舒服呢。<br>因为这里是危险地带所以就饶有兴趣地进去看看了。<br>以这个为题材写一篇报道吧。</div></td></tr><tr class="tt-header" id="Level_4-9" data-pos="&#91;&quot;Level 4&quot;,9&#93;"><td colspan="2" id="符卡信息" class="tt-header" lang="zh"><div class="poem">符卡信息</div></td></tr><tr class="tt-text-header" id="Level_4-10" data-pos="&#91;&quot;Level 4&quot;,10&#93;"><td colspan="2" class="tt-text" lang="zh"><div class="poem">Level 4 BOSS梅蒂欣·梅兰可莉4-2符卡。<br></div></td></tr></tbody></table>
+
 
 
 ## Level 4-3
@@ -88,6 +92,7 @@
 <table><tbody><tr class="tt-content-header" id="Level_4-11" data-pos="&#91;&quot;Level 4&quot;,11&#93;"><td class="tt-jah" lang="ja"><div class="poem">脱兎「フラスターエスケープ」</div></td><td class="tt-zhh" lang="zh"><div class="poem"><a href="./Fluster_Escape.md" title="Fluster Escape" unred="">脱兔「Fluster Escape」</a></div></td></tr><tr class="tt-header" id="Level_4-12" data-pos="&#91;&quot;Level 4&quot;,12&#93;"><td colspan="2" id="射命丸文的评价" class="tt-header" lang="zh"><div class="poem">射命丸文的评价</div></td></tr><tr class="tt-content" id="Level_4-13" data-pos="&#91;&quot;Level 4&quot;,13&#93;"><td class="tt-ja" lang="ja"><div class="poem">もう、兎の逃げ足の速いこと速いこと。兎の生態<br>でも記事にしようと考えていたのですけど、あちこち<br>飛び跳ねるもんだから狙いが定まらなくて……</div></td><td class="tt-zh" lang="zh"><div class="poem">真是的，兔子逃跑起来还真是快啊。<br>虽然想写一篇有关兔子生态的报道，但是<br>老是跳来跳去的很难抓拍到……。</div></td></tr><tr class="tt-header" id="Level_4-14" data-pos="&#91;&quot;Level 4&quot;,14&#93;"><td colspan="2" id="符卡信息" class="tt-header" lang="zh"><div class="poem">符卡信息</div></td></tr><tr class="tt-text-header" id="Level_4-15" data-pos="&#91;&quot;Level 4&quot;,15&#93;"><td colspan="2" class="tt-text" lang="zh"><div class="poem">Level 4 BOSS因幡天为4-3符卡。<br></div></td></tr></tbody></table>
 
 
+
 ## Level 4-4
 
 <table>
@@ -104,6 +109,7 @@
 
 
 <table><tbody><tr class="tt-content-header" id="Level_4-16" data-pos="&#91;&quot;Level 4&quot;,16&#93;"><td class="tt-jah" lang="ja"><div class="poem">散符「朧月花栞（ロケット・イン・ミスト）」</div></td><td class="tt-zhh" lang="zh"><div class="poem"><a href="./胧月花栞.md" title="胧月花栞" unred="">散符「胧月花栞(Rocket in Mist)」</a></div></td></tr><tr class="tt-header" id="Level_4-17" data-pos="&#91;&quot;Level 4&quot;,17&#93;"><td colspan="2" id="射命丸文的评价" class="tt-header" lang="zh"><div class="poem">射命丸文的评价</div></td></tr><tr class="tt-content" id="Level_4-18" data-pos="&#91;&quot;Level 4&quot;,18&#93;"><td class="tt-ja" lang="ja"><div class="poem">どうも、たまにピントが合わなくなるみたい。<br>気持ち悪いわね。ファインダーを覗かなくても<br>ずれて見えるけど……って？</div></td><td class="tt-zh" lang="zh"><div class="poem">好像偶尔焦距会对不准呢。<br>真是不爽啊。不从取景器看的话倒是能<br>稍微看到一点……咦？</div></td></tr><tr class="tt-header" id="Level_4-19" data-pos="&#91;&quot;Level 4&quot;,19&#93;"><td colspan="2" id="符卡信息" class="tt-header" lang="zh"><div class="poem">符卡信息</div></td></tr><tr class="tt-text-header" id="Level_4-20" data-pos="&#91;&quot;Level 4&quot;,20&#93;"><td colspan="2" class="tt-text" lang="zh"><div class="poem">Level 4 BOSS铃仙·优昙华院·因幡4-4符卡。<br></div></td></tr></tbody></table>
+
 
 
 ## Level 4-5
@@ -124,6 +130,7 @@
 <table><tbody><tr class="tt-content-header" id="Level_4-21" data-pos="&#91;&quot;Level 4&quot;,21&#93;"><td class="tt-jah" lang="ja"><div class="poem">毒符「ポイズンブレス」</div></td><td class="tt-zhh" lang="zh"><div class="poem"><a href="./Poison_Breath.md" title="Poison Breath" unred="">毒符「Poison Breath」</a></div></td></tr><tr class="tt-header" id="Level_4-22" data-pos="&#91;&quot;Level 4&quot;,22&#93;"><td colspan="2" id="射命丸文的评价" class="tt-header" lang="zh"><div class="poem">射命丸文的评价</div></td></tr><tr class="tt-content" id="Level_4-23" data-pos="&#91;&quot;Level 4&quot;,23&#93;"><td class="tt-ja" lang="ja"><div class="poem">と言うわけで、またちょっと踏み入れてみました。<br>私は淀んだ空気には強いのですよ。<br>風で吹き飛ばせますし。</div></td><td class="tt-zh" lang="zh"><div class="poem">因为很有趣，所以又稍稍走进危险地带了。<br>我对于这种凝重的空气可是很有抵抗力的哦。<br>毕竟可以用风吹走嘛。</div></td></tr><tr class="tt-header" id="Level_4-24" data-pos="&#91;&quot;Level 4&quot;,24&#93;"><td colspan="2" id="符卡信息" class="tt-header" lang="zh"><div class="poem">符卡信息</div></td></tr><tr class="tt-text-header" id="Level_4-25" data-pos="&#91;&quot;Level 4&quot;,25&#93;"><td colspan="2" class="tt-text" lang="zh"><div class="poem">Level 4 BOSS梅蒂欣·梅兰可莉4-5符卡。<br></div></td></tr></tbody></table>
 
 
+
 ## Level 4-6
 
 <table>
@@ -142,6 +149,7 @@
 <table><tbody><tr class="tt-content-header" id="Level_4-26" data-pos="&#91;&quot;Level 4&quot;,26&#93;"><td class="tt-jah" lang="ja"><div class="poem">波符「幻の月（インビジブルハーフムーン）」</div></td><td class="tt-zhh" lang="zh"><div class="poem"><a href="./幻之月.md" title="幻之月" unred="">波符「幻之月(Invisible Half Moon)」</a></div></td></tr><tr class="tt-header" id="Level_4-27" data-pos="&#91;&quot;Level 4&quot;,27&#93;"><td colspan="2" id="射命丸文的评价" class="tt-header" lang="zh"><div class="poem">射命丸文的评价</div></td></tr><tr class="tt-content" id="Level_4-28" data-pos="&#91;&quot;Level 4&quot;,28&#93;"><td class="tt-ja" lang="ja"><div class="poem">どうやらカメラの故障じゃなくて何か変な力の所為<br>みたいです。これは記事のネタになる気がします！<br>でも写真はピンぼけばかり……。</div></td><td class="tt-zh" lang="zh"><div class="poem">看起来不是照相机故障，而是一种奇怪的力量导致的呢<br>我觉得这个可以作为报道的题材！<br>但是照片尽是些没有对准焦距的……。</div></td></tr><tr class="tt-header" id="Level_4-29" data-pos="&#91;&quot;Level 4&quot;,29&#93;"><td colspan="2" id="符卡信息" class="tt-header" lang="zh"><div class="poem">符卡信息</div></td></tr><tr class="tt-text-header" id="Level_4-30" data-pos="&#91;&quot;Level 4&quot;,30&#93;"><td colspan="2" class="tt-text" lang="zh"><div class="poem">Level 4 BOSS铃仙·优昙华院·因幡4-6符卡。<br></div></td></tr></tbody></table>
 
 
+
 ## Level 4-7
 
 <table>
@@ -158,6 +166,7 @@
 
 
 <table><tbody><tr class="tt-content-header" id="Level_4-31" data-pos="&#91;&quot;Level 4&quot;,31&#93;"><td class="tt-jah" lang="ja"><div class="poem">譫妄「イントゥデリリウム」</div></td><td class="tt-zhh" lang="zh"><div class="poem"><a href="./Into_Delirium.md" title="Into Delirium" unred="">谵妄「Into Delirium」</a></div></td></tr><tr class="tt-header" id="Level_4-32" data-pos="&#91;&quot;Level 4&quot;,32&#93;"><td colspan="2" id="射命丸文的评价" class="tt-header" lang="zh"><div class="poem">射命丸文的评价</div></td></tr><tr class="tt-content" id="Level_4-33" data-pos="&#91;&quot;Level 4&quot;,33&#93;"><td class="tt-ja" lang="ja"><div class="poem">今日はまた一段と空気が淀んでいたわ。<br>私は良いけどカメラに良くなさそうだからね。<br>殆ど何も見えない写真ばっかを撮っても可哀想。</div></td><td class="tt-zh" lang="zh"><div class="poem">今天的又有一段时间空气凝结起来了呢。<br>我是没关系但是好像对照相机有害吧。<br>而且拍到的照片上基本什么都看不到，也觉得很可惜呢。</div></td></tr><tr class="tt-header" id="Level_4-34" data-pos="&#91;&quot;Level 4&quot;,34&#93;"><td colspan="2" id="符卡信息" class="tt-header" lang="zh"><div class="poem">符卡信息</div></td></tr><tr class="tt-text-header" id="Level_4-35" data-pos="&#91;&quot;Level 4&quot;,35&#93;"><td colspan="2" class="tt-text" lang="zh"><div class="poem">Level 4 BOSS梅蒂欣·梅兰可莉4-7符卡。<br></div></td></tr></tbody></table>
+
 
 
 ## Level 4-8
@@ -183,6 +192,7 @@
 <table><tbody><tr class="tt-content-header" id="Level_4-36" data-pos="&#91;&quot;Level 4&quot;,36&#93;"><td class="tt-jah" lang="ja"><div class="poem">借符「大穴牟遅様の薬」</div></td><td class="tt-zhh" lang="zh"><div class="poem"><a href="./大穴牟迟大人的药.md" title="大穴牟迟大人的药" unred="">借符「大穴牟迟大人的药」</a></div></td></tr><tr class="tt-header" id="Level_4-37" data-pos="&#91;&quot;Level 4&quot;,37&#93;"><td colspan="2" id="射命丸文的评价" class="tt-header" lang="zh"><div class="poem">射命丸文的评价</div></td></tr><tr class="tt-content" id="Level_4-38" data-pos="&#91;&quot;Level 4&quot;,38&#93;"><td class="tt-ja" lang="ja"><div class="poem">そう。これが二兎を追う者は一兎をも得ずって<br>事なのね。<br>沢山の兎の写真が撮れたけど。</div></td><td class="tt-zh" lang="zh"><div class="poem">嗯，这就是所谓的“追二兔者不得其一”呢。<br>虽然拍到了很多兔子的照片。</div></td></tr><tr class="tt-header" id="Level_4-39" data-pos="&#91;&quot;Level 4&quot;,39&#93;"><td colspan="2" id="符卡信息" class="tt-header" lang="zh"><div class="poem">符卡信息</div></td></tr><tr class="tt-text-header" id="Level_4-40" data-pos="&#91;&quot;Level 4&quot;,40&#93;"><td colspan="2" class="tt-text" lang="zh"><div class="poem">Level 4 BOSS因幡天为4-8符卡。<br></div></td></tr></tbody></table>
 
 
+
 ## Level 4-9
 
 <table>
@@ -199,6 +209,7 @@
 
 
 <table><tbody><tr class="tt-content-header" id="Level_4-41" data-pos="&#91;&quot;Level 4&quot;,41&#93;"><td class="tt-jah" lang="ja"><div class="poem">狂夢「風狂の夢（ドリームワールド）」</div></td><td class="tt-zhh" lang="zh"><div class="poem"><a href="./疯狂的梦.md" title="疯狂的梦" unred="">狂梦「疯狂的梦(Dream World)」</a></div></td></tr><tr class="tt-header" id="Level_4-42" data-pos="&#91;&quot;Level 4&quot;,42&#93;"><td colspan="2" id="射命丸文的评价" class="tt-header" lang="zh"><div class="poem">射命丸文的评价</div></td></tr><tr class="tt-content" id="Level_4-43" data-pos="&#91;&quot;Level 4&quot;,43&#93;"><td class="tt-ja" lang="ja"><div class="poem">よく見たら兎が居ましたね。<br>視界の異常に気を取られて気付きませんでした。<br>もしかして、この兎が元凶？　まさか、ね。</div></td><td class="tt-zh" lang="zh"><div class="poem">仔细看看有一只兔子呢。<br>因为光顾着注意视野的异常所以那时都没有发现。<br>难道说，这只兔子是那时视野异常的元凶？不会吧。</div></td></tr><tr class="tt-header" id="Level_4-44" data-pos="&#91;&quot;Level 4&quot;,44&#93;"><td colspan="2" id="符卡信息" class="tt-header" lang="zh"><div class="poem">符卡信息</div></td></tr><tr class="tt-text-header" id="Level_4-45" data-pos="&#91;&quot;Level 4&quot;,45&#93;"><td colspan="2" class="tt-text" lang="zh"><div class="poem">Level 4 BOSS铃仙·优昙华院·因幡4-9符卡。<br></div></td></tr></tbody></table>
+
 
 
 

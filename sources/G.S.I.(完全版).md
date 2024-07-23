@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-G.S.I.(完全版)封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/0/0d/G.S.I.%28%E5%AE%8C%E5%85%A8%E7%89%88%29%E5%B0%81%E9%9D%A2.jpg/153px-G.S.I.%28%E5%AE%8C%E5%85%A8%E7%89%88%29%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="153" height="224" srcset="https://upload.thwiki.cc/thumb/0/0d/G.S.I.%28%E5%AE%8C%E5%85%A8%E7%89%88%29%E5%B0%81%E9%9D%A2.jpg/229px-G.S.I.%28%E5%AE%8C%E5%85%A8%E7%89%88%29%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/0/0d/G.S.I.%28%E5%AE%8C%E5%85%A8%E7%89%88%29%E5%B0%81%E9%9D%A2.jpg/305px-G.S.I.%28%E5%AE%8C%E5%85%A8%E7%89%88%29%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="818" data-file-height="1200"></a><div class="cover-char">角色：<a href="./村纱水蜜.md" title="村纱水蜜">村纱水蜜</a></div></td>
@@ -18,8 +19,10 @@ G.S.I.(完全版)（同人志，フレキシ，2019） - 2019年10月13日 由 �
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=571559">蜜瓜</a>，<a rel="nofollow" class="external text" href="https://ec.toranoana.jp/tora_r/ec/item/040030781706">虎穴</a></td></tr></tbody></table>
 
 
+
 ## Staff
 : tog. (未找到链接)
+
 
 ## 评论
 

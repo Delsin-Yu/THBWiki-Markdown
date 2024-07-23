@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -37,11 +38,13 @@
 
 
 
+
 ## 基本信息
 
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">ゲームオーバー</td></tr><tr><td><b>译名</b></td><td>Game Over</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 Game Over（曲目） - 由 ZUN 创作的官方曲目，原名 ゲームオーバー
+
 ## 出现作品
 
 <table>
@@ -51,7 +54,9 @@ Game Over（曲目） - 由 ZUN 创作的官方曲目，原名 ゲームオー�
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 东方梦时空
   
 YM2608(OPNA)，FM86版。
@@ -59,6 +64,7 @@ YM2608(OPNA)，FM86版。
 
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th03_OVER.ogg.md" title="文件:th03 OVER.ogg">th03_OVER.ogg</a><br><audio src="https://upload.thwiki.cc/8/89/th03_OVER.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>OVER.M</td></tr><tr><td><b>音轨时长</b></td><td>0:03.470</td></tr></tbody></table>
+
 
 
 ### 东方怪绮谈
@@ -70,12 +76,15 @@ YM2608(OPNA)，FM86版。
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th05_Y_21.ogg.md" title="文件:th05 Y 21.ogg">th05_Y_21.ogg</a><br><audio src="https://upload.thwiki.cc/3/3f/th05_Y_21.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>Y_OVER.M</td></tr><tr><td><b>音轨时长</b></td><td>0:03.470</td></tr></tbody></table>
 
 
+
 ### 幺乐团的历史 vol.4
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-ha04_20.mp3.md" title="文件:ha04 20.mp3">ha04_20.mp3</a><br><audio src="https://upload.thwiki.cc/8/8d/ha04_20.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track20.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>0:07</td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 东方怪绮谈
 - Music Room (未找到链接)
 
@@ -85,8 +94,11 @@ YM2608(OPNA)，FM86版。
 用于东方梦时空的曲子  
 游戏结束曲。  
 这种感觉？（搞错了）
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
   
  **ゲームオーバー** 
@@ -95,6 +107,7 @@ Game Over
   
 
 - 游戏结束曲
+
 
 ### 二次同人数据
 

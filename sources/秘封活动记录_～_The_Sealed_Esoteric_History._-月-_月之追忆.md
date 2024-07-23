@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-秘封活动记录_～_The_Sealed_Esoteric_History._-月-_月之追忆封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/9/98/%E7%A7%98%E5%B0%81%E6%B4%BB%E5%8A%A8%E8%AE%B0%E5%BD%95_%EF%BD%9E_The_Sealed_Esoteric_History._-%E6%9C%88-_%E6%9C%88%E4%B9%8B%E8%BF%BD%E5%BF%86%E5%B0%81%E9%9D%A2.jpg/138px-%E7%A7%98%E5%B0%81%E6%B4%BB%E5%8A%A8%E8%AE%B0%E5%BD%95_%EF%BD%9E_The_Sealed_Esoteric_History._-%E6%9C%88-_%E6%9C%88%E4%B9%8B%E8%BF%BD%E5%BF%86%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="138" height="196" srcset="https://upload.thwiki.cc/thumb/9/98/%E7%A7%98%E5%B0%81%E6%B4%BB%E5%8A%A8%E8%AE%B0%E5%BD%95_%EF%BD%9E_The_Sealed_Esoteric_History._-%E6%9C%88-_%E6%9C%88%E4%B9%8B%E8%BF%BD%E5%BF%86%E5%B0%81%E9%9D%A2.jpg/207px-%E7%A7%98%E5%B0%81%E6%B4%BB%E5%8A%A8%E8%AE%B0%E5%BD%95_%EF%BD%9E_The_Sealed_Esoteric_History._-%E6%9C%88-_%E6%9C%88%E4%B9%8B%E8%BF%BD%E5%BF%86%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/9/98/%E7%A7%98%E5%B0%81%E6%B4%BB%E5%8A%A8%E8%AE%B0%E5%BD%95_%EF%BD%9E_The_Sealed_Esoteric_History._-%E6%9C%88-_%E6%9C%88%E4%B9%8B%E8%BF%BD%E5%BF%86%E5%B0%81%E9%9D%A2.jpg/277px-%E7%A7%98%E5%B0%81%E6%B4%BB%E5%8A%A8%E8%AE%B0%E5%BD%95_%EF%BD%9E_The_Sealed_Esoteric_History._-%E6%9C%88-_%E6%9C%88%E4%B9%8B%E8%BF%BD%E5%BF%86%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="827" data-file-height="1171"></a><div class="cover-char">角色：<a href="./蓬莱山辉夜.md" title="蓬莱山辉夜">蓬莱山辉夜</a>，<a href="./八意永琳.md" title="八意永琳">八意永琳</a></div></td>
@@ -18,6 +19,7 @@
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://item.taobao.com/item.htm?spm=a1z10.5-c-s.w4002-15886539017.29.69d66eebwOI5jZ&amp;id=602882995990">淘宝囧仙子通贩</a></td></tr></tbody></table>
 
 
+
 ## Staff
 剧本
 : 囧仙 (未找到链接)
@@ -27,6 +29,7 @@
 : mamou
 排版
 : 宇佐見メリー
+
 
 ## 动态漫画
   
@@ -38,6 +41,7 @@
 <tr><th style="text-align: center;"><a class="bilibili-title external text" target="_blank" rel="nofollow" style="margin: 0 0.4em 0 0.2em;"></a><input type="button" class="bilibili-toggle" value="显示视频" style="float: right;"></th></tr>
 <tr class="bilibili-video" style="display: none;"><td></td></tr>
 </table>
+
 
 
 

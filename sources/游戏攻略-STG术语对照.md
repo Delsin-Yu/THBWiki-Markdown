@@ -14,6 +14,7 @@
 - 同一格内是不同叫法的同一种东西。
 - 蓝色链接的术语可以点击跳转至详细说明页面。
 
+
 ## 目录
 
 - [1 通用](#通用)
@@ -21,6 +22,7 @@
 - [3 避弹](#避弹)
 - [4 弹幕种类](#弹幕种类)
 - [5 其他](#其他)
+
 
 
 
@@ -246,6 +248,7 @@
 </td></tr></tbody></table>
 
 
+
 ## 游戏
 
 <table>
@@ -447,6 +450,7 @@
 </td></tr></tbody></table>
 
 
+
 ## 避弹
 
 <table>
@@ -561,6 +565,7 @@
 <td>発狂</td>
 <td>rage phase<br>timeout phase<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">11</a></sup>
 </td></tr></tbody></table>
+
 
 
 ## 弹幕种类
@@ -716,6 +721,7 @@
 <td>休符弾</td>
 <td>Rest
 </td></tr></tbody></table>
+
 
 
 ## 其他

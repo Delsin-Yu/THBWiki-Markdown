@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-ナウいTシャツヤロー封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/8/8f/%E3%83%8A%E3%82%A6%E3%81%84T%E3%82%B7%E3%83%A3%E3%83%84%E3%83%A4%E3%83%AD%E3%83%BC%E5%B0%81%E9%9D%A2.jpg/140px-%E3%83%8A%E3%82%A6%E3%81%84T%E3%82%B7%E3%83%A3%E3%83%84%E3%83%A4%E3%83%AD%E3%83%BC%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="140" height="196" srcset="https://upload.thwiki.cc/thumb/8/8f/%E3%83%8A%E3%82%A6%E3%81%84T%E3%82%B7%E3%83%A3%E3%83%84%E3%83%A4%E3%83%AD%E3%83%BC%E5%B0%81%E9%9D%A2.jpg/210px-%E3%83%8A%E3%82%A6%E3%81%84T%E3%82%B7%E3%83%A3%E3%83%84%E3%83%A4%E3%83%AD%E3%83%BC%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/8/8f/%E3%83%8A%E3%82%A6%E3%81%84T%E3%82%B7%E3%83%A3%E3%83%84%E3%83%A4%E3%83%AD%E3%83%BC%E5%B0%81%E9%9D%A2.jpg/280px-%E3%83%8A%E3%82%A6%E3%81%84T%E3%82%B7%E3%83%A3%E3%83%84%E3%83%A4%E3%83%AD%E3%83%BC%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="710" data-file-height="993"></a><div class="cover-char">角色：<a href="./赫卡提亚·拉碧斯拉祖利.md" title="赫卡提亚·拉碧斯拉祖利">赫卡提亚·拉碧斯拉祖利</a>，<a href="./纯狐.md" title="纯狐">纯狐</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/en/artworks/66225306">https://www.pixiv.net/en/artworks/66225306</a></td></tr></tbody></table>
 
 ナウいTシャツヤロー（同人志，悪鬼魔滅，2017） - 2017年12月29日 由 悪鬼魔滅 于 Comic Market 93 发布的漫画同人志，一共24页，登场人物有 赫卡提亚·拉碧斯拉祖利、纯狐、克劳恩皮丝、东风谷早苗，分级为 一般向
+
 ## Staff
 : 絶豆 (未找到链接)
+
 
 ## 评论
 

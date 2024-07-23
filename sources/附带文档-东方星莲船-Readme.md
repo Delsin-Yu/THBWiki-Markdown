@@ -11,6 +11,7 @@ Readme | 东方星莲船 | 使用了翻译表的页面 | 附带文档
 : [日文版](http://omake.thwiki.cc/translate.php?u=附带文档:东方星莲船/Readme&amp;t=ja)
 : [汉化版](http://omake.thwiki.cc/translate.php?u=附带文档:东方星莲船/Readme&amp;t=zh)
 
+
 ## 目录
 
 - [1 问候](#问候)
@@ -34,10 +35,12 @@ Readme | 东方星莲船 | 使用了翻译表的页面 | 附带文档
 
 
 
+
 ###### 问候
 
 
 <table><tbody><tr class="tt-content" id="=-3" data-pos="&#91;&quot;=&quot;,3&#93;"><td class="tt-ja" lang="ja"><div class="poem">■１．挨拶<br><br>　　この度は、「東方星蓮船　～ Undefined Fantastic Object. 」を<br>　購入して頂き、まことに有難う御座います。<br><br>　　何処か懐かしい世界に何処かゆるいキャラ達が、とてつもなく激し<br>　い弾幕を繰り広げるシューティングゲームになっています。<br><br>　　弾幕ＳＴＧは、繰り返し遊ぶ事を前提に作られた前時代のゲームの<br>　数少ない生き残りです。是非、繰り返し遊んで攻撃を覚えて攻略する<br>　楽しみに触れてみてください。覚えゲーは褒め言葉ですよ？<br><br>　　それでは健闘を祈ります。</div></td><td class="tt-zh" lang="zh"><div class="poem">■１．问候<br><br>　　非常感谢您入手本次的「东方星莲船　～ Undefined Fantastic Object. 」。<br><br>    这是一部在某个令人怀念的世界中一群比较悠闲的角色展开无比激烈的弹 <br>  幕的射击游戏。<br><br>    弹幕STG，是以反复游玩为前提而制作的上个时代的游戏中少数的遗存。<br>  希望大家能够反复游玩，记住敌人的攻击模式来进行攻略，从中享受乐趣。<br>  说这个游戏是背板游戏是在夸奖我哦？<br><br>　　那么祝君武运昌隆。</div></td></tr></tbody></table>
+
 
 
 
@@ -48,10 +51,12 @@ Readme | 东方星莲船 | 使用了翻译表的页面 | 附带文档
 
 
 
+
 ###### 卸载方法
 
 
 <table><tbody><tr class="tt-content" id="=-7" data-pos="&#91;&quot;=&quot;,7&#93;"><td class="tt-ja" lang="ja"><div class="poem">■３．アンインストール方法<br><br>　インストールでスタートメニューにアイコンを登録した場合は、<br>　上海アリス幻樂団＞東方星蓮船体＞アンインストール<br>　をクリックしてください。<br><br>　登録しなかった場合は、コントロールパネルの「プログラムの変更と削除」<br>　で東方星蓮船を選択してください。</div></td><td class="tt-zh" lang="zh"><div class="poem">■３．卸载方法<br><br>  在安装过程中添加到了开始菜单，<br>  请点击上海爱丽丝幻乐团＞东方星莲船体<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">1</a></sup>＞卸载程序。<br><br>  如果没有添加，请打开控制面板中的「卸载或更改程序」，<br>  选择东方星莲船。</div></td></tr></tbody></table>
+
 
 
 
@@ -62,10 +67,12 @@ Readme | 东方星莲船 | 使用了翻译表的页面 | 附带文档
 
 
 
+
 ###### 没问题的话
 
 
 <table><tbody><tr class="tt-content" id="=-11" data-pos="&#91;&quot;=&quot;,11&#93;"><td class="tt-ja" lang="ja"><div class="poem">■５．困ったことが無かったら<br><br>　お楽しみ下さい。</div></td><td class="tt-zh" lang="zh"><div class="poem">■５．没疑问的话<br><br>　请尽情享受吧。</div></td></tr></tbody></table>
+
 
 
 

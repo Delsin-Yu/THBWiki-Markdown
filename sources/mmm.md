@@ -4,14 +4,16 @@
 
 mmm 在 日本名古屋、东京 举办的  东方同人LIVE活动，目前共举办了2届
 
-本页是关于 **同人展会 (未找到链接)**   
-及 **相关活动 (未找到链接)** 的词条
+本页是关于 **[同人展会](./同人展会.md#展会类活动)**   
+及 **[相关活动](./相关活动.md)** 的词条
+
 ## 目录
 
 - [1 概述](#概述)
 - [2 历届信息](#历届信息)
 - [3 演出社团及人员](#演出社团及人员)
 - [4 注释](#注释)
+
 
 
 
@@ -24,7 +26,7 @@ mmm 在 日本名古屋、东京 举办的  东方同人LIVE活动，目前共�
   
   
   
-日本 **名古屋、东京** 的东方Project Only **同人拼盘LIVE类活动 (未找到链接)** 。  
+日本 **名古屋、东京** 的东方Project Only **同人拼盘[LIVE类活动](./LIVE类活动.md#LIVE类活动)** 。  
   
 在名古屋、东京举办。  
   
@@ -37,6 +39,7 @@ mmm 在 日本名古屋、东京 举办的  东方同人LIVE活动，目前共�
 活动官方网站： [http://gjribbon.xxxxxxxx.jp/mmm/plus.html](http://gjribbon.xxxxxxxx.jp/mmm/plus.html)   
   
 mmm（活动，LIVE活动） - mmm 在 日本名古屋、东京 举办的  东方同人LIVE活动，目前共举办了2届
+
 ## 历届信息
 - 点击届数可进入对应分类页面。
 - 举办日期以当地日期为准。
@@ -47,6 +50,7 @@ mmm（活动，LIVE活动） - mmm 在 日本名古屋、东京 举办的  东�
 <tr><td id="1"><b><a href="/展会作品列表?e=mmm%231">mmm1</a></b></td><td id="ev-1">2012年12月15日</td><td>爱知县名古屋市 ZooStation<br><small><span style="color:grey;">愛知県名古屋市千種区東山通 ZooStation</span></small></td><td><a href="#第1届">参见</a></td></tr>
 <tr><td id="+"><b><a href="/展会作品列表?e=mmm%23%2B">mmm+</a></b></td><td id="ev-2">2014年10月25日</td><td>东京都 浅草KURAWOOD<br><small><span style="color:grey;">東京都台東区駒形 浅草KURAWOOD</span></small></td><td><a href="#第2届">参见</a></td></tr>
 </tbody></table>
+
 
 
 ## 演出社团及人员

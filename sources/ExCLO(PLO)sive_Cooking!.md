@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-ExCLO(PLO)sive_Cooking!封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/2/22/ExCLO%28PLO%29sive_Cooking%21%E5%B0%81%E9%9D%A2.jpg/196px-ExCLO%28PLO%29sive_Cooking%21%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="196" height="139" srcset="https://upload.thwiki.cc/thumb/2/22/ExCLO%28PLO%29sive_Cooking%21%E5%B0%81%E9%9D%A2.jpg/294px-ExCLO%28PLO%29sive_Cooking%21%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/2/22/ExCLO%28PLO%29sive_Cooking%21%E5%B0%81%E9%9D%A2.jpg/392px-ExCLO%28PLO%29sive_Cooking%21%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1181" data-file-height="836"></a><div class="cover-char">角色：<a href="./火焰猫燐.md" title="火焰猫燐">火焰猫燐</a>，<a href="./灵乌路空.md" title="灵乌路空">灵乌路空</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/44545704">https://www.pixiv.net/artworks/44545704</a></td></tr></tbody></table>
 
 ExCLO(PLO)sive Cooking!（同人志，Witch Wist，2014） - 2014年7月13日 由 Witch Wist 于 地底嘉年华3 发布的漫画同人志，B5尺寸一共8页，分级为 一般向
+
 ## Staff
 : イチヨン (未找到链接)
+
 
 ## 评论
 

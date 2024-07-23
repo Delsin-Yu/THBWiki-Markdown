@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-DEHANA+封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/6/6d/DEHANA%2B%E5%B0%81%E9%9D%A2.jpg/140px-DEHANA%2B%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="140" height="196" srcset="https://upload.thwiki.cc/thumb/6/6d/DEHANA%2B%E5%B0%81%E9%9D%A2.jpg/211px-DEHANA%2B%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/6/6d/DEHANA%2B%E5%B0%81%E9%9D%A2.jpg/281px-DEHANA%2B%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="734" data-file-height="1024"></a><div class="cover-char">角色：<a href="./魂魄妖梦.md" title="魂魄妖梦">魂魄妖梦</a>，<a href="./小野塚小町.md" title="小野塚小町">小野塚小町</a>，<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a></div></td>
@@ -18,12 +19,15 @@ DEHANA+（同人志，DEHANA，2021） - 2021年12月31日 由 DEHANA 于 Comic 
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://dehana.booth.pm/items/3567145">Booth</a></td></tr></tbody></table>
 
 
+
 ## 预览
+
 ## Staff
 Cover Illustration &amp; Design
 : 柿桜 （[Twitter: @77ameka](https://twitter.com/77ameka)）
 Writing
 : てんこ （[Twitter: @tenko_modoki](https://twitter.com/tenko_modoki)）
+
 
 ## 评论
 

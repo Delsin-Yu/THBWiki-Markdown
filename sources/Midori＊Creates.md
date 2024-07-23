@@ -4,7 +4,8 @@
 
 Midori＊Creates ，主要制作 同人志 的日本同人社团，主催是 sygar，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -21,18 +22,22 @@ Midori＊Creates ，主要制作 同人志 的日本同人社团，主催是 syg
 
 
 
+
 ## 社团信息
 文件:Midori＊Createsbanner.jpg (未找到链接)  banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Midori＊Creates </td></tr><tr><td><b>主要作品类型</b></td><td>同人志</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=sygar&amp;action=edit&amp;redlink=1" class="new" title="sygar（页面不存在）">sygar</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr></tbody></table>
 
 Midori＊Creates（同人社团，同人志社团） - Midori＊Creates ，主要制作 同人志 的日本同人社团，主催是 sygar，当前状态为 活动
+
 ## 成员名单
 - sygar (未找到链接) a.k.a. hervtea (未找到链接)
   - [Pixiv ID：16390131](https://www.pixiv.net/member.php?id=16390131)
 
 
+
 ## 作品列表
+
 ### 同人志
 はる＊なつこれくしょん！ 封面图片 (未找到链接)[はる＊なつこれくしょん！](./はる＊なつこれくしょん！.md)首发日期：2019-05-05 （第十六回 博麗神社例大祭 (未找到链接)）绘本 （一般向）B5&#160;尺寸 16&#160;页みずぎワンダーランド！！ 封面图片 (未找到链接)[みずぎワンダーランド！！](./みずぎワンダーランド！！.md)首发日期：2019-08-12 （Comic Market 96 (未找到链接)）绘本 （一般向）B5&#160;尺寸 12&#160;页[](./Traditimono.md)[Traditimono](./Traditimono.md)首发日期：2019-10-06 （第六回 博麗神社秋季例大祭 (未找到链接)）漫画 （一般向）B5&#160;尺寸 24&#160;页[](./あき＊ふゆこれくしょん！.md)[あき*ふゆこれくしょん!](./あき＊ふゆこれくしょん！.md)首发日期：2019-12-31 （Comic Market 97 (未找到链接)）漫画 （一般向）B5&#160;尺寸 14&#160;页[](./Sweetia＊.md)[Sweetia*](./Sweetia＊.md)首发日期：2021-10-24 （第八回 博麗神社秋季例大祭 (未找到链接)）漫画 （一般向）A5&#160;尺寸 26&#160;页
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -47,9 +52,11 @@ Midori＊Creates（同人社团，同人志社团） - Midori＊Creates ，主�
 </table>
 
 
+
 ## 参展信息
 
 <table><tbody><tr><th class="活动页面">活动页面</th><th class="活动名称">活动名称</th><th class="日期">日期</th><th class="举办地点">举办地点</th><th class="摊位编号">摊位编号</th><th class="宣传页面">宣传页面</th><th class="备注">备注</th></tr><tr data-row-number="1" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E4%B8%9C%E6%96%B9%E7%BA%A2%E6%A5%BC%E6%A2%A6#16" title="东方红楼梦">东方红楼梦#16</a></span></td><td class="活动名称 smwtype_txt">東方紅楼夢16</td><td class="日期 smwtype_dat" data-sort-value="2459133.5">2020-10-11</td><td class="举办地点 smwtype_txt">大阪国际展览中心</td><td class="摊位编号 smwtype_txt">う02</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="2" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E4%B8%9C%E6%96%B9%E5%90%8D%E5%8D%8E%E7%A5%AD#14" title="东方名华祭">东方名华祭#14</a></span></td><td class="活动名称 smwtype_txt">東方名華祭14</td><td class="日期 smwtype_dat" data-sort-value="2459070.5">2020-08-09</td><td class="举办地点 smwtype_txt">名古屋市国际展示场 第2展厅</td><td class="摊位编号 smwtype_txt">E39</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="3" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E4%B8%9C%E6%96%B9%E7%BA%A2%E6%A5%BC%E6%A2%A6#15" title="东方红楼梦">东方红楼梦#15</a></span></td><td class="活动名称 smwtype_txt">東方紅楼夢15</td><td class="日期 smwtype_dat" data-sort-value="2458769.5">2019-10-13</td><td class="举办地点 smwtype_txt">大阪国际展览中心</td><td class="摊位编号 smwtype_txt">そ-06b</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="4" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E7%A7%8B%E5%AD%A3%E4%BE%8B%E5%A4%A7%E7%A5%AD#6" title="博丽神社秋季例大祭">博丽神社秋季例大祭#6</a></span></td><td class="活动名称 smwtype_txt">第六回 博麗神社秋季例大祭</td><td class="日期 smwtype_dat" data-sort-value="2458762.5">2019-10-06</td><td class="举办地点 smwtype_txt">东京Big Sight 西展厅</td><td class="摊位编号 smwtype_txt">せ03a</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="5" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#16" title="博丽神社例大祭">博丽神社例大祭#16</a></span></td><td class="活动名称 smwtype_txt">第十六回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2458608.5">2019-05-05</td><td class="举办地点 smwtype_txt">东京Big Sight</td><td class="摊位编号 smwtype_txt">か23b</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr></tbody></table>
+
 
 
 ## 其他信息

@@ -4,6 +4,7 @@
 
 毎日五月病。 | 社团LOGO
 
+
 ## 摘要
   
 源地址：[direct image link](https://mainichigogatsubyou.com/_img/logow.png), [source page](https://mainichigogatsubyou.com/)

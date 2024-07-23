@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -35,11 +36,13 @@
 
 
 
+
 ## 基本信息
 
-<table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">フラワリングナイト</td></tr><tr><td><b>译名</b></td><td>Flowering Night</td></tr><tr><td><b>其他译名</b></td><td>花开之夜</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>关联</td></tr><tr><td style="padding-left:15px"><b>相关曲</b></td><td><a href="/%E6%9C%88%E6%99%82%E8%A8%88_%EF%BD%9E_%E3%83%AB%E3%83%8A%E3%83%BB%E3%83%80%E3%82%A4%E3%82%A2%E3%83%AB" class="mw-redirect" title="月時計 ～ ルナ・ダイアル">月時計　～ ルナ・ダイアル</a></td></tr><tr><td style="padding-left:15px"><b>　来源</b></td><td>东方红魔乡　～ the Embodiment of Scarlet Devil.</td></tr></tbody></table>
+<table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">フラワリングナイト</td></tr><tr><td><b>译名</b></td><td>Flowering Night</td></tr><tr><td><b>其他译名</b></td><td>花开之夜</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>关联</td></tr><tr><td style="padding-left:15px"><b>相关曲</b></td><td><a href="./月時計_～_ルナ・ダイアル.md" class="mw-redirect" title="月時計 ～ ルナ・ダイアル">月時計　～ ルナ・ダイアル</a></td></tr><tr><td style="padding-left:15px"><b>　来源</b></td><td>东方红魔乡　～ the Embodiment of Scarlet Devil.</td></tr></tbody></table>
 
 Flowering Night（曲目） - 由 ZUN 创作的官方曲目，原名 フラワリングナイト
+
 ## 出现作品
 
 <table>
@@ -49,7 +52,9 @@ Flowering Night（曲目） - 由 ZUN 创作的官方曲目，原名 フラワ�
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 东方花映塚
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td><a href="./文件-th09_04.mid.md" title="文件:th09 04.mid">th09_04.mid</a></td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th09_04.mp3.md" title="文件:th09 04.mp3">th09_04.mp3</a><br><audio src="https://upload.thwiki.cc/e/e6/th09_04.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>BGM\th09_04.wav</td></tr><tr><td><b>BGMForAll</b></td><td><div class="mw-collapsible mw-collapsed">
@@ -60,12 +65,15 @@ Flowering Night（曲目） - 由 ZUN 创作的官方曲目，原名 フラワ�
 </td></tr></tbody></table>
 
 
+
 ### 全人类的天乐录
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-TFM-003A_04.mp3.md" title="文件:TFM-003A 04.mp3">TFM-003A_04.mp3</a><br><audio src="https://upload.thwiki.cc/e/e6/TFM-003A_04.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track04.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>3:22</td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 东方花映塚
 - Music Room (未找到链接)
 
@@ -76,8 +84,11 @@ Flowering Night（曲目） - 由 ZUN 创作的官方曲目，原名 フラワ�
 　要说有什么妙处，那就是觉得是东洋风的话听起来就是难以形容的东洋风，  
 觉得是西洋风就是西洋风。觉得幼稚就幼稚，觉得老成就老成。  
 　只有我这样认为吗？
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
   
  **フラワリングナイト**  Flowering Night
@@ -99,6 +110,7 @@ Flowering Night（曲目） - 由 ZUN 创作的官方曲目，原名 フラワ�
 
 - フラワリングナイト（flowering night）
   - 日语中「咲く」意即「开花」。flowering night → 开花之夜 → 咲夜。
+
 
 
 ### 二次同人数据

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -36,11 +37,13 @@
 
 
 
+
 ## 基本信息
 
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">死体旅行　～ Be of good cheer!</td></tr><tr><td><b>译名</b></td><td>尸体旅行 ～ Be of good cheer!</td></tr><tr><td><b>英文译名</b></td><td>Corpse Voyage ~ Be of good cheer!</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 尸体旅行 ～ Be of good cheer!（曲目） - 由 ZUN 创作的官方曲目，原名 死体旅行　～ Be of good cheer!
+
 ## 出现作品
 
 <table>
@@ -49,7 +52,9 @@
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 东方地灵殿
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th11_11.mp3.md" title="文件:th11 11.mp3">th11_11.mp3</a><br><audio src="https://upload.thwiki.cc/0/0d/th11_11.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>BGM\th11_11.wav</td></tr><tr><td><b>BGMForAll</b></td><td><div class="mw-collapsible mw-collapsed">
@@ -58,6 +63,7 @@
 <div class="mw-collapsible-content">BGM = 死体旅行 ～ Be of good cheer!, 0xBD43608, 0x84600, 0xBDC7C08, 0x1084194</div>
 </div>
 </td></tr></tbody></table>
+
 
 
 ### 东方兽王园
@@ -70,7 +76,9 @@
 </td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 东方地灵殿
 - Music Room (未找到链接)
 
@@ -80,14 +88,18 @@
 　四、五面都作得比较沉重，便试着一下子变得快活起来。  
 　阿燐推着的车是猫车。你问她在运什么？  
 　你一定会想要是不问的话就好了。
+
 ### 东方兽王园
 - Music Room (未找到链接)
 
 　火焰猫燐的主题曲。  
 　  
 　重编自地灵殿曲目。
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
   
  **死体旅行　～ Be of good cheer!**  尸体旅行　～ Be of good cheer!
@@ -102,6 +114,7 @@
   - 不要垂头丧气（劝告用语）;兴致勃勃;心情舒畅。
   - 新约全书的一节。出自约翰的福音书16章33节，是耶稣基督被钉在十字架上之前对弟子说的最后的话的一部分。
     - 耶稣在三天后复活。
+
 
 
 

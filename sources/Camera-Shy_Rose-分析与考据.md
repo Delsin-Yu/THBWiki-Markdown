@@ -4,6 +4,7 @@
 
 古明地觉 | 符卡
 
+
 ## 分析与考据
   
  **心花「カメラシャイローズ」**  心花「Camera-Shy Rose」（厌于留影的羞涩蔷薇）
@@ -18,8 +19,10 @@
   - 古明地恋的符卡[「Subterranean Rose」](./Subterranean_Rose.md)。
 
 
+
 ## 参考
 [^cite_note-1]: 英文维基百科：[Camera shyness](https://en.wikipedia.org/wiki/en:Camera_shyness)
+
 
 ## 导航
 

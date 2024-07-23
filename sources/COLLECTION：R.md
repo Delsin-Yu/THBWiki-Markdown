@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-COLLECTION：R封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/d/d8/COLLECTION%EF%BC%9AR%E5%B0%81%E9%9D%A2.jpg/139px-COLLECTION%EF%BC%9AR%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="139" height="196" srcset="https://upload.thwiki.cc/thumb/d/d8/COLLECTION%EF%BC%9AR%E5%B0%81%E9%9D%A2.jpg/208px-COLLECTION%EF%BC%9AR%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/d/d8/COLLECTION%EF%BC%9AR%E5%B0%81%E9%9D%A2.jpg/277px-COLLECTION%EF%BC%9AR%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="637" data-file-height="900"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></div></td>
@@ -14,9 +15,12 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/62564814">https://www.pixiv.net/artworks/62564814</a><br><a rel="nofollow" class="external free" href="https://twitter.com/hagiwararin/status/860506916857888769">https://twitter.com/hagiwararin/status/860506916857888769</a><br><a rel="nofollow" class="external free" href="http://xxvivixx.noor.jp/?p=443">http://xxvivixx.noor.jp/?p=443</a><br><span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><small>（无直接缓存页面；<a rel="nofollow" class="external text" href="https://web.archive.org/web/20180329154543/http://xxvivixx.noor.jp/">其他缓存页面</a>）</small></td></tr></tbody></table>
 
 COLLECTION：R（同人志，vita，2017） - 2017年5月7日 由 vita 于 博丽神社例大祭14 发布的画集同人志，B5尺寸一共20页，分级为 一般向
+
 ## 预览
+
 ## Staff
 - 萩原凛 (未找到链接)
+
 
 ## 评论
 

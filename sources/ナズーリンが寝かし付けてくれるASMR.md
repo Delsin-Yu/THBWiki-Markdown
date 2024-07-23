@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-ナズーリンが寝かし付けてくれるASMR封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/d/df/%E3%83%8A%E3%82%BA%E3%83%BC%E3%83%AA%E3%83%B3%E3%81%8C%E5%AF%9D%E3%81%8B%E3%81%97%E4%BB%98%E3%81%91%E3%81%A6%E3%81%8F%E3%82%8C%E3%82%8BASMR%E5%B0%81%E9%9D%A2.png/224px-%E3%83%8A%E3%82%BA%E3%83%BC%E3%83%AA%E3%83%B3%E3%81%8C%E5%AF%9D%E3%81%8B%E3%81%97%E4%BB%98%E3%81%91%E3%81%A6%E3%81%8F%E3%82%8C%E3%82%8BASMR%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="224" height="212" srcset="https://upload.thwiki.cc/thumb/d/df/%E3%83%8A%E3%82%BA%E3%83%BC%E3%83%AA%E3%83%B3%E3%81%8C%E5%AF%9D%E3%81%8B%E3%81%97%E4%BB%98%E3%81%91%E3%81%A6%E3%81%8F%E3%82%8C%E3%82%8BASMR%E5%B0%81%E9%9D%A2.png/336px-%E3%83%8A%E3%82%BA%E3%83%BC%E3%83%AA%E3%83%B3%E3%81%8C%E5%AF%9D%E3%81%8B%E3%81%97%E4%BB%98%E3%81%91%E3%81%A6%E3%81%8F%E3%82%8C%E3%82%8BASMR%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/d/df/%E3%83%8A%E3%82%BA%E3%83%BC%E3%83%AA%E3%83%B3%E3%81%8C%E5%AF%9D%E3%81%8B%E3%81%97%E4%BB%98%E3%81%91%E3%81%A6%E3%81%8F%E3%82%8C%E3%82%8BASMR%E5%B0%81%E9%9D%A2.png/448px-%E3%83%8A%E3%82%BA%E3%83%BC%E3%83%AA%E3%83%B3%E3%81%8C%E5%AF%9D%E3%81%8B%E3%81%97%E4%BB%98%E3%81%91%E3%81%A6%E3%81%8F%E3%82%8C%E3%82%8BASMR%E5%B0%81%E9%9D%A2.png 2x" data-file-width="950" data-file-height="900"></a><div class="cover-char">角色：<a href="./娜兹玲.md" title="娜兹玲">娜兹玲</a></div></td>
@@ -16,6 +17,7 @@
 ナズーリンが寝かし付けてくれるASMR（同人专辑，MEMO，2023） - 2023年7月2日 由 MEMO 于 Treasure Party！4 发布的配音作品同人专辑，分级为 一般向
 
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://mokumitsurugh.booth.pm/items/4812552">Booth</a>，<a rel="nofollow" class="external text" href="http://www.dlsite.com/home/work/=/product_id/RJ01063491.html">DLsite</a></td></tr></tbody></table>
+
 
 
 ## Staff
@@ -33,6 +35,7 @@
 Illustration
 : 木密るう (未找到链接) （[MEMO](./MEMO.md)）
 
+
 ## 试听
 
 <table>
@@ -45,6 +48,7 @@ Illustration
 </td></tr></tbody></table>
 
 
+
 ## 曲目列表
 
 <table><tbody><tr><td id="1" class="infoG"><b>01</b></td><td id="お仕事終わりに" colspan="2" class="title">お仕事終わりに<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?dub=司馬光&amp;script=木密るう&amp;fromwiki=ナズーリンが寝かし付けてくれるASMR"><span title="搜索相似同人曲"></span></a></span></td><td class="time">02:17</td></tr><tr><td class="left"></td><td class="label">配音</td><td class="text" colspan="2">娜兹玲（<a href="/index.php?title=%E5%8F%B8%E9%A6%AC%E5%85%89&amp;action=edit&amp;redlink=1" class="new" title="司馬光（页面不存在）">司馬光</a>）<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?dub=司馬光&amp;fromwiki=ナズーリンが寝かし付けてくれるASMR"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">剧本</td><td class="text" colspan="2"><a href="/index.php?title=%E6%9C%A8%E5%AF%86%E3%82%8B%E3%81%86&amp;action=edit&amp;redlink=1" class="new" title="木密るう（页面不存在）">木密るう</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?script=木密るう&amp;fromwiki=ナズーリンが寝かし付けてくれるASMR"><span></span></a></span></td></tr>
@@ -53,6 +57,7 @@ Illustration
 <tr><td id="4" class="infoG"><b>04</b></td><td id="お仕置き指かき" colspan="2" class="title">お仕置き指かき<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?dub=司馬光&amp;script=木密るう&amp;fromwiki=ナズーリンが寝かし付けてくれるASMR"><span title="搜索相似同人曲"></span></a></span></td><td class="time">19:44</td></tr><tr><td class="left"></td><td class="label">配音</td><td class="text" colspan="2">娜兹玲（<a href="/index.php?title=%E5%8F%B8%E9%A6%AC%E5%85%89&amp;action=edit&amp;redlink=1" class="new" title="司馬光（页面不存在）">司馬光</a>）<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?dub=司馬光&amp;fromwiki=ナズーリンが寝かし付けてくれるASMR"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">剧本</td><td class="text" colspan="2"><a href="/index.php?title=%E6%9C%A8%E5%AF%86%E3%82%8B%E3%81%86&amp;action=edit&amp;redlink=1" class="new" title="木密るう（页面不存在）">木密るう</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?script=木密るう&amp;fromwiki=ナズーリンが寝かし付けてくれるASMR"><span></span></a></span></td></tr>
 <tr><td id="5" class="infoG"><b>05</b></td><td id="和解梵天" colspan="2" class="title">和解梵天<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?dub=司馬光&amp;script=木密るう&amp;fromwiki=ナズーリンが寝かし付けてくれるASMR"><span title="搜索相似同人曲"></span></a></span></td><td class="time">15:34</td></tr><tr><td class="left"></td><td class="label">配音</td><td class="text" colspan="2">娜兹玲（<a href="/index.php?title=%E5%8F%B8%E9%A6%AC%E5%85%89&amp;action=edit&amp;redlink=1" class="new" title="司馬光（页面不存在）">司馬光</a>）<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?dub=司馬光&amp;fromwiki=ナズーリンが寝かし付けてくれるASMR"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">剧本</td><td class="text" colspan="2"><a href="/index.php?title=%E6%9C%A8%E5%AF%86%E3%82%8B%E3%81%86&amp;action=edit&amp;redlink=1" class="new" title="木密るう（页面不存在）">木密るう</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?script=木密るう&amp;fromwiki=ナズーリンが寝かし付けてくれるASMR"><span></span></a></span></td></tr>
 <tr><td id="6" class="infoG"><b>06</b></td><td id="おまけ耳かき" colspan="2" class="title">おまけ耳かき<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?dub=司馬光&amp;script=木密るう&amp;fromwiki=ナズーリンが寝かし付けてくれるASMR"><span title="搜索相似同人曲"></span></a></span></td><td class="time">15:39</td></tr><tr><td class="left"></td><td class="label">配音</td><td class="text" colspan="2">娜兹玲（<a href="/index.php?title=%E5%8F%B8%E9%A6%AC%E5%85%89&amp;action=edit&amp;redlink=1" class="new" title="司馬光（页面不存在）">司馬光</a>）<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?dub=司馬光&amp;fromwiki=ナズーリンが寝かし付けてくれるASMR"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">剧本</td><td class="text" colspan="2"><a href="/index.php?title=%E6%9C%A8%E5%AF%86%E3%82%8B%E3%81%86&amp;action=edit&amp;redlink=1" class="new" title="木密るう（页面不存在）">木密るう</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?script=木密るう&amp;fromwiki=ナズーリンが寝かし付けてくれるASMR"><span></span></a></span></td></tr></tbody></table>
+
 
 
 ## 评论

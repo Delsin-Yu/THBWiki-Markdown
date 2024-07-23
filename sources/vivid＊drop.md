@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-vivid＊drop封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/7/75/vivid%EF%BC%8Adrop%E5%B0%81%E9%9D%A2.jpg/249px-vivid%EF%BC%8Adrop%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="249" height="252" srcset="https://upload.thwiki.cc/thumb/7/75/vivid%EF%BC%8Adrop%E5%B0%81%E9%9D%A2.jpg/374px-vivid%EF%BC%8Adrop%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/7/75/vivid%EF%BC%8Adrop%E5%B0%81%E9%9D%A2.jpg/498px-vivid%EF%BC%8Adrop%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1000" data-file-height="1012"></a><div class="cover-char">角色：<a href="./村纱水蜜.md" title="村纱水蜜">村纱水蜜</a></div></td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/21175003">https://www.pixiv.net/artworks/21175003</a></td></tr><tr><td class="label">备注</td><td colspan="2">以<b>vivid*drop</b>名义发布</td></tr></tbody></table>
 
 vivid＊drop（同人专辑，少年ヴィヴィッド，色色＊ドロップ，2011） - 2011年8月28日 由 少年ヴィヴィッド，色色＊ドロップ 于 东方绚文禄尾张3.5 发布的单曲同人专辑，曲目主要风格是 Rock，分级为 一般向
+
 ## Staff
   
  **Arrangement**   
@@ -36,15 +38,18 @@ Illustration &amp; Booklet
 PV制作
 : 白露
 
+
 ## PV
   
 <iframe width="100%" height="180" src="https://ext.nicovideo.jp/thumb/sm17054821" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/watch/sm17054821">,</a></iframe>
 
   
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoRD"><b>01</b></td><td id="vivid*drop" colspan="2" class="title"><span class="new" title="（歌词页面不存在）"><a href="/index.php?title=%E6%AD%8C%E8%AF%8D:vivid%EF%BC%8Adrop&amp;boilerplate=模板:页面模板/曲目歌词&amp;action=edit">vivid*drop</a></span><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=イチ&amp;vocal=イチ&amp;lyric=イチ&amp;ogmusic=幽霊客船の時空を越えた旅，キャプテン・ムラサ&amp;fromwiki=vivid＊drop"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./イチ.md" title="イチ">イチ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，イチ&amp;fromwiki=vivid＊drop"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="./イチ.md" title="イチ">イチ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=イチ&amp;fromwiki=vivid＊drop"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="./イチ.md" title="イチ">イチ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?lyric=イチ&amp;fromwiki=vivid＊drop"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=幽霊客船の時空を越えた旅，キャプテン・ムラサ&amp;fromwiki=vivid＊drop"><span></span></a></span><div class="ogmusic"><a href="/%E5%B9%BD%E9%9C%8A%E5%AE%A2%E8%88%B9%E3%81%AE%E6%99%82%E7%A9%BA%E3%82%92%E8%B6%8A%E3%81%88%E3%81%9F%E6%97%85" class="mw-redirect" title="幽霊客船の時空を越えた旅">幽霊客船の時空を越えた旅</a></div><div class="ogmusic"><a href="/%E3%82%AD%E3%83%A3%E3%83%97%E3%83%86%E3%83%B3%E3%83%BB%E3%83%A0%E3%83%A9%E3%82%B5" class="mw-redirect" title="キャプテン・ムラサ">キャプテン・ムラサ</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E6%98%9F%E8%8E%B2%E8%88%B9_%EF%BD%9E_Undefined_Fantastic_Object." class="mw-redirect" title="东方星莲船 ～ Undefined Fantastic Object.">东方星莲船　～ Undefined Fantastic Object.</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoRD"><b>01</b></td><td id="vivid*drop" colspan="2" class="title"><span class="new" title="（歌词页面不存在）"><a href="/index.php?title=%E6%AD%8C%E8%AF%8D:vivid%EF%BC%8Adrop&amp;boilerplate=模板:页面模板/曲目歌词&amp;action=edit">vivid*drop</a></span><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=イチ&amp;vocal=イチ&amp;lyric=イチ&amp;ogmusic=幽霊客船の時空を越えた旅，キャプテン・ムラサ&amp;fromwiki=vivid＊drop"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./イチ.md" title="イチ">イチ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，イチ&amp;fromwiki=vivid＊drop"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="./イチ.md" title="イチ">イチ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=イチ&amp;fromwiki=vivid＊drop"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="./イチ.md" title="イチ">イチ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?lyric=イチ&amp;fromwiki=vivid＊drop"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=幽霊客船の時空を越えた旅，キャプテン・ムラサ&amp;fromwiki=vivid＊drop"><span></span></a></span><div class="ogmusic"><a href="./幽霊客船の時空を越えた旅.md" class="mw-redirect" title="幽霊客船の時空を越えた旅">幽霊客船の時空を越えた旅</a></div><div class="ogmusic"><a href="./キャプテン・ムラサ.md" class="mw-redirect" title="キャプテン・ムラサ">キャプテン・ムラサ</a></div><div class="source"><a href="./东方星莲船_～_Undefined_Fantastic_Object..md" class="mw-redirect" title="东方星莲船 ～ Undefined Fantastic Object.">东方星莲船　～ Undefined Fantastic Object.</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

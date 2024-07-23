@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 软件信息](#软件信息)
@@ -13,6 +14,7 @@
 - [3 内容页面](#内容页面)
 - [4 评论](#评论)
 - [5 外部链接](#外部链接)
+
 
 
 
@@ -40,6 +42,7 @@
 </tbody></table>
 
 
+
 ## Staff
   
 由 八雾游戏制作组-BaWu Team制作  
@@ -52,6 +55,7 @@
 
 英语翻译(?):Splashman,DracoGideon,Clarste
   
+
 
 ## 内容页面
 - 游戏设定与剧情 (未找到链接)
@@ -85,10 +89,12 @@
 - 其他信息 (未找到链接)
 - [成就列表](./东方试闻广纪_~_Perfect_Memento_of_Touhou_Question-成就.md)
 
+
 ## 评论
   
 游戏配置其实很低,能开机的机器就能玩
   
+
 
 ## 外部链接
 - [Steam上的东方试闻广纪 ~ Perfect Memento of Touhou Question](https://store.steampowered.com/app/904740/__Perfect_Memento_of_Touhou_Question/)

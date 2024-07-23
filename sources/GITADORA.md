@@ -23,6 +23,7 @@ KONAMI | 东方相关商业游戏 | 待完成页面
 <big> **GITADORA** </big>，是[KONAMI](./KONAMI.md)制作的音乐游戏，第一代于1999年03月推出。
   
 
+
 ## 目录
 
 - [1 介绍](#介绍)
@@ -33,15 +34,18 @@ KONAMI | 东方相关商业游戏 | 待完成页面
 
 
 
+
 ## 介绍
   
 待补
   
 
+
 ## 与东方Project的关联
   
 待补
   
+
 
 ## 游戏内收录的东方同人曲目
 
@@ -50,6 +54,7 @@ KONAMI | 东方相关商业游戏 | 待完成页面
 <tr><th colspan="2"></th></tr><tr><td colspan="2" style="padding-left: 1em;"><div class="floatright"><a href="./文件-ANCIENT_FLOWER封面.jpg.md" class="image" title="ANCIENT FLOWER"><img alt="ANCIENT FLOWER" src="https://upload.thwiki.cc/thumb/1/14/ANCIENT_FLOWER%E5%B0%81%E9%9D%A2.jpg/100px-ANCIENT_FLOWER%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="100" height="99" srcset="https://upload.thwiki.cc/thumb/1/14/ANCIENT_FLOWER%E5%B0%81%E9%9D%A2.jpg/150px-ANCIENT_FLOWER%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/1/14/ANCIENT_FLOWER%E5%B0%81%E9%9D%A2.jpg/200px-ANCIENT_FLOWER%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="706" data-file-height="700"></a></div><b><a href="/ANCIENT_FLOWER#5" title="ANCIENT FLOWER">U.N.オーエンは彼女なのか？</a></b> &#91;03:20&#93;<dl><dd><a href="./ANCIENT_FLOWER.md" title="ANCIENT FLOWER">ANCIENT FLOWER</a> （2017-05-07）<br>社团：<a href="./岸田教団&THE明星ロケッツ.md" title="岸田教団&amp;THE明星ロケッツ">岸田教団&amp;THE明星ロケッツ</a><br>编曲：<a href="./岸田.md" title="岸田">岸田</a><br>演唱：<a href="./ichigo.md" title="ichigo">ichigo</a><br>作词：<a href="./岸田.md" title="岸田">岸田</a><br>原曲：<a href="./U.N.OWEN就是她吗？.md" title="U.N.OWEN就是她吗？" unred="">U.N.オーエンは彼女なのか？</a><br></dd></dl></td></tr>
 <tr><th colspan="2"></th></tr><tr><td colspan="2" style="padding-left: 1em;"><div class="floatright"><a href="./文件-大貧民封面.jpg.md" class="image" title="大貧民"><img alt="大貧民" src="https://upload.thwiki.cc/thumb/d/d5/%E5%A4%A7%E8%B2%A7%E6%B0%91%E5%B0%81%E9%9D%A2.jpg/100px-%E5%A4%A7%E8%B2%A7%E6%B0%91%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="100" height="99" srcset="https://upload.thwiki.cc/thumb/d/d5/%E5%A4%A7%E8%B2%A7%E6%B0%91%E5%B0%81%E9%9D%A2.jpg/150px-%E5%A4%A7%E8%B2%A7%E6%B0%91%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/d/d5/%E5%A4%A7%E8%B2%A7%E6%B0%91%E5%B0%81%E9%9D%A2.jpg/200px-%E5%A4%A7%E8%B2%A7%E6%B0%91%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1000" data-file-height="988"></a></div><b><a href="/%E5%A4%A7%E8%B2%A7%E6%B0%91#1" title="大貧民">ソリッド</a></b> &#91;03:07&#93;<dl><dd><a href="./大貧民.md" title="大貧民">大貧民</a> （2018-05-06）<br>社团：<a href="./豚乙女.md" title="豚乙女">豚乙女</a><br>编曲：<a href="./コンプ.md" title="コンプ">コンプ</a><br>演唱：<a href="./ランコ.md" title="ランコ">ランコ</a><br>作词：<a href="./コンプ.md" title="コンプ">コンプ</a><br>原曲：<a href="./今宵是飘逸的利己主义者_～_Egoistic_Flowers..md" title="今宵是飘逸的利己主义者 ～ Egoistic Flowers." unred="">今宵は飄逸なエゴイスト　～ Egoistic Flowers.</a><br></dd></dl></td></tr>
 <tr><th colspan="2"></th></tr><tr><td colspan="2" style="padding-left: 1em;"><div class="floatright"><a href="./文件-Il_Mondo_dove_e_finito_il_Tempo封面.jpg.md" class="image" title="Il Mondo dove e finito il Tempo"><img alt="Il Mondo dove e finito il Tempo" src="https://upload.thwiki.cc/thumb/e/eb/Il_Mondo_dove_e_finito_il_Tempo%E5%B0%81%E9%9D%A2.jpg/99px-Il_Mondo_dove_e_finito_il_Tempo%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="99" height="100" srcset="https://upload.thwiki.cc/thumb/e/eb/Il_Mondo_dove_e_finito_il_Tempo%E5%B0%81%E9%9D%A2.jpg/148px-Il_Mondo_dove_e_finito_il_Tempo%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/e/eb/Il_Mondo_dove_e_finito_il_Tempo%E5%B0%81%E9%9D%A2.jpg/198px-Il_Mondo_dove_e_finito_il_Tempo%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="500" data-file-height="506"></a></div><b><a href="/Il_Mondo_dove_e_finito_il_Tempo#10" title="Il Mondo dove e finito il Tempo">ネクロファンタジア ～ Remix</a></b> &#91;05:36&#93;<dl><dd><a href="./Il_Mondo_dove_e_finito_il_Tempo.md" title="Il Mondo dove e finito il Tempo">Il Mondo dove e finito il Tempo</a> （2007-12-31）<br>社团：<a href="./Demetori.md" title="Demetori">Demetori</a><br>编曲：<a href="/index.php?title=%E5%BE%B3%E5%8D%97&amp;action=edit&amp;redlink=1" class="new" title="徳南（页面不存在）">徳南</a>，<a href="/index.php?title=%E4%B9%9D%E5%AE%9D%E6%99%82&amp;action=edit&amp;redlink=1" class="new" title="九宝時（页面不存在）">九宝時</a><br>原曲：<a href="./Necro-Fantasia.md" title="Necro-Fantasia" unred="">ネクロファンタジア</a><br></dd></dl></td></tr></tbody></table>
+
 
 
 ## 参考资料

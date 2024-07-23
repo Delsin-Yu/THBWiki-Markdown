@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-寿_Marriage_short_story_-婚姻短篇集-封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/3/34/%E5%AF%BF_Marriage_short_story_-%E5%A9%9A%E5%A7%BB%E7%9F%AD%E7%AF%87%E9%9B%86-%E5%B0%81%E9%9D%A2.jpg/143px-%E5%AF%BF_Marriage_short_story_-%E5%A9%9A%E5%A7%BB%E7%9F%AD%E7%AF%87%E9%9B%86-%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="143" height="196" srcset="https://upload.thwiki.cc/thumb/3/34/%E5%AF%BF_Marriage_short_story_-%E5%A9%9A%E5%A7%BB%E7%9F%AD%E7%AF%87%E9%9B%86-%E5%B0%81%E9%9D%A2.jpg/214px-%E5%AF%BF_Marriage_short_story_-%E5%A9%9A%E5%A7%BB%E7%9F%AD%E7%AF%87%E9%9B%86-%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/3/34/%E5%AF%BF_Marriage_short_story_-%E5%A9%9A%E5%A7%BB%E7%9F%AD%E7%AF%87%E9%9B%86-%E5%B0%81%E9%9D%A2.jpg/285px-%E5%AF%BF_Marriage_short_story_-%E5%A9%9A%E5%A7%BB%E7%9F%AD%E7%AF%87%E9%9B%86-%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="800" data-file-height="1098"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>，<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a></div></td>
@@ -18,8 +19,10 @@
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="http://www.dlsite.com/home/work/=/product_id/RJ207729.html">DLsite</a></td></tr></tbody></table>
 
 
+
 ## Staff
 - [秋★枝](./秋★枝.md)
+
 
 ## 评论
 ```

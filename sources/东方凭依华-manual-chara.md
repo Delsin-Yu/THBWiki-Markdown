@@ -23,6 +23,7 @@
 
   
 </center>
+
 ## 目录
 
 - [1 博丽灵梦](#博丽灵梦)
@@ -45,6 +46,7 @@
 - [18 八云紫](#八云紫)
 - [19 依神女苑](#依神女苑)
 - [20 注释](#注释)
+
 
 
 
@@ -73,6 +75,7 @@ Guitar &amp; Bass：コンプ　Piano：パプリカ
 <tr><td style="min-width:200px" colspan="4" align="center"><b>怪LastWord</b></td></tr><tr><td style="min-width:125px"><b><font color="#FF0000"><big>必</big>杀</font>+<font color="#FF1493"><big>怪</big>奇</font></b></td><td style="min-width:125px">＊在那隙间里面居然有个巫女！＊</td><td style="min-width:100px" lang="ja">＊あんな隙間に巫女がいるなんて！＊</td></tr></tbody></table>
 
 
+
 ## 雾雨魔理沙
  **<big><big><font color="#FFFF00">雾雨魔理沙</font></big></big>**   
  **<font color="#0000FF">火力高强且喜欢星星的魔法使</font>**   
@@ -95,6 +98,7 @@ Arranged by oiko(SOUNDOT)
 <tr><td style="min-width:200px" colspan="4" align="center"><b>灵异必杀技</b></td></tr><tr><td style="min-width:125px"><b><font color="#FFFF00"><big>打</big>击</font>+<font color="#FFA500"><big>射</big>击</font></b></td><td style="min-width:125px">「真实存在的学校的恐怖」<br>（每次使用内容都会发生变化）</td><td style="min-width:100px" lang="ja">「実際にあった学校の恐怖」<br>（使用するたびに内容が変化）</td></tr>
 <tr><td style="min-width:200px" colspan="4" align="center"><b>符卡</b></td></tr><tr><td style="min-width:125px"><b><font color="#FFA500"><big>射</big>击</font>+<font color="#FF0000"><big>必</big>杀</font></b></td><td style="min-width:125px">恋符「极限火花」</td><td style="min-width:100px" lang="ja">恋符「マスタースパーク」</td></tr><tr><td style="min-width:125px"><b><font color="#FFA500"><big>射</big>击</font>+<font color="#FF0000"><big>必</big>杀</font></b></td><td style="min-width:125px">彗星「Blazing Star」</td><td style="min-width:100px" lang="ja">彗星「ブレイジングスター」</td></tr><tr><td style="min-width:125px"><b><font color="#FFA500"><big>射</big>击</font>+<font color="#FF0000"><big>必</big>杀</font></b></td><td style="min-width:125px">星符「Satellite Illusion」</td><td style="min-width:100px" lang="ja">星符「サテライトイリュージョン」</td></tr>
 <tr><td style="min-width:200px" colspan="4" align="center"><b>怪LastWord</b></td></tr><tr><td style="min-width:125px"><b><font color="#FF0000"><big>必</big>杀</font>+<font color="#FF1493"><big>怪</big>奇</font></b></td><td style="min-width:125px">＊真棒！厕所里的花子小姐！＊</td><td style="min-width:100px" lang="ja">＊ステキ！厠の花子さん！＊</td></tr></tbody></table>
+
 
 
 ## 云居一轮
@@ -122,6 +126,7 @@ Guitar：しゃばだば Bass：sou Piano：HearTribe
 <tr><td style="min-width:200px" colspan="4" align="center"><b>怪LastWord</b></td></tr><tr><td style="min-width:125px"><b><font color="#FF0000"><big>必</big>杀</font>+<font color="#FF1493"><big>怪</big>奇</font></b></td><td style="min-width:125px">＊265厘米的魔人现身！＊</td><td style="min-width:100px" lang="ja">＊２６５センチの魔人現る！＊</td></tr></tbody></table>
 
 
+
 ## 圣白莲
  **<big><big><font color="#666666">圣白莲</font></big></big>**   
  **<font color="#FF66CC">超人且开悟的大阿阇梨</font>**   
@@ -143,6 +148,7 @@ Guitar：NYO
 <tr><td style="min-width:200px" colspan="4" align="center"><b>灵异必杀技</b></td></tr><tr><td style="min-width:125px"><b><font color="#FFFF00"><big>打</big>击</font>+<font color="#FFA500"><big>射</big>击</font></b></td><td style="min-width:125px">「Silver Skyway」<br>（可以使用怪奇值时　解除前持续消耗灵力）</td><td style="min-width:100px" lang="ja">「シルバースカイウェイ」<br>（怪奇ゲージ使用可能時　解除まで霊力を消費）</td></tr><tr><td style="min-width:125px"><b>动作中按<big>后</big>←</b></td><td style="min-width:125px">方向转换</td><td style="min-width:100px" lang="ja">方向転換</td></tr><tr><td style="min-width:125px"><b>动作中按<big>上</big>↑</b></td><td style="min-width:125px">下车</td><td style="min-width:100px" lang="ja">降車</td></tr>
 <tr><td style="min-width:200px" colspan="4" align="center"><b>符卡</b></td></tr><tr><td style="min-width:125px"><b><font color="#FFA500"><big>射</big>击</font>+<font color="#FF0000"><big>必</big>杀</font></b></td><td style="min-width:125px">天符「三千大千世界之主」</td><td style="min-width:100px" lang="ja">天符「三千大千世界の主」</td></tr><tr><td style="min-width:125px"><b><font color="#FFA500"><big>射</big>击</font>+<font color="#FF0000"><big>必</big>杀</font></b></td><td style="min-width:125px">天符「大日如来的光辉」<br>（受到攻击时发动反击）</td><td style="min-width:100px" lang="ja">天符「大日如来の輝き」<br>（攻撃を受けると反撃）</td></tr><tr><td style="min-width:125px"><b><font color="#FFA500"><big>射</big>击</font>+<font color="#FF0000"><big>必</big>杀</font></b></td><td style="min-width:125px">天符「释迦牟尼的五行山」</td><td style="min-width:100px" lang="ja">天符「釈迦牟尼の五行山」</td></tr>
 <tr><td style="min-width:200px" colspan="4" align="center"><b>怪LastWord</b></td></tr><tr><td style="min-width:125px"><b><font color="#FF0000"><big>必</big>杀</font>+<font color="#FF1493"><big>怪</big>奇</font></b></td><td style="min-width:125px">＊以100迈驰骋天际！＊</td><td style="min-width:100px" lang="ja">＊１００キロで空を駆けろ！＊</td></tr></tbody></table>
+
 
 
 ## 物部布都
@@ -167,6 +173,7 @@ Arranged by 鯛の小骨(Azure&amp;Sands)
 <tr><td style="min-width:200px" colspan="4" align="center"><b>灵异必杀技</b></td></tr><tr><td style="min-width:125px"><b><font color="#FFFF00"><big>打</big>击</font>+<font color="#FFA500"><big>射</big>击</font></b></td><td style="min-width:125px">「阿菊上勾拳」<br>（可以使用怪奇值时　盘子数全部消费）<br>※随着盘子数增加而强化，9个时是最高性能</td><td style="min-width:100px" lang="ja">「お菊アッパー」<br>（怪奇ゲージ使用可能時　皿カウント全消費）<br>※皿カウントが増えるほど強化され、９枚で最大性能</td></tr>
 <tr><td style="min-width:200px" colspan="4" align="center"><b>符卡</b></td></tr><tr><td style="min-width:125px"><b><font color="#FFA500"><big>射</big>击</font>+<font color="#FF0000"><big>必</big>杀</font></b></td><td style="min-width:125px">风符「三轮的皿风暴」</td><td style="min-width:100px" lang="ja">風符「三輪の皿嵐」</td></tr><tr><td style="min-width:125px"><b><font color="#FFA500"><big>射</big>击</font>+<font color="#FF0000"><big>必</big>杀</font></b></td><td style="min-width:125px">炎符「太乙真火」</td><td style="min-width:100px" lang="ja">炎符「太乙真火」</td></tr><tr><td style="min-width:125px"><b><font color="#FFA500"><big>射</big>击</font>+<font color="#FF0000"><big>必</big>杀</font></b></td><td style="min-width:125px">运气「破局的开门」<br>（使用时根据卷入的盘子数目而强化性能）</td><td style="min-width:100px" lang="ja">運気「破局の開門」<br>（使用時に巻き込んだ皿の数で性能強化）</td></tr>
 <tr><td style="min-width:200px" colspan="4" align="center"><b>怪LastWord</b></td></tr><tr><td style="min-width:125px"><b><font color="#FF0000"><big>必</big>杀</font>+<font color="#FF1493"><big>怪</big>奇</font></b></td><td style="min-width:125px">＊到死还是少一盘！＊</td><td style="min-width:100px" lang="ja">＊死んでも一枚足りない＊</td></tr></tbody></table>
+
 
 
 ## 丰聪耳神子
@@ -194,6 +201,7 @@ Guitar &amp; Bass：鷹
 <tr><td style="min-width:200px" colspan="4" align="center"><b>怪LastWord</b></td></tr><tr><td style="min-width:125px"><b><font color="#FF0000"><big>必</big>杀</font>+<font color="#FF1493"><big>怪</big>奇</font></b></td><td style="min-width:125px">＊特别让你两边都选！＊</td><td style="min-width:100px" lang="ja">＊特別に両方選ばせてやろう！＊</td></tr></tbody></table>
 
 
+
 ## 河城荷取
  **<big><big><font color="#00BBFF">河城荷取</font></big></big>**   
  **<font color="#337722">擅长买卖且守财如命的河童</font>**   
@@ -217,6 +225,7 @@ Arranged by ゆうゆ(ゆや｡)
 <tr><td style="min-width:200px" colspan="4" align="center"><b>（尼西号叫出之后）</b></td></tr><tr><td style="min-width:125px"><b><big>前</big>→+<font color="#FFFF00"><big>打</big>击</font>+<font color="#FFA500"><big>射</big>击</font></b></td><td style="min-width:125px">向前移动命令</td><td style="min-width:100px" lang="ja">前移動命令</td></tr><tr><td style="min-width:125px"><b><big>后</big>←+<font color="#FFFF00"><big>打</big>击</font>+<font color="#FFA500"><big>射</big>击</font></b></td><td style="min-width:125px">向后移动命令</td><td style="min-width:100px" lang="ja">後移動命令</td></tr><tr><td style="min-width:125px"><b><big>下</big>↓+<font color="#FFFF00"><big>打</big>击</font>+<font color="#FFA500"><big>射</big>击</font></b></td><td style="min-width:125px">立即撤退命令</td><td style="min-width:100px" lang="ja">即時撤退命令</td></tr>
 <tr><td style="min-width:200px" colspan="4" align="center"><b>符卡</b></td></tr><tr><td style="min-width:125px"><b><font color="#FFA500"><big>射</big>击</font>+<font color="#FF0000"><big>必</big>杀</font></b></td><td style="min-width:125px">豪雨「河底大战争」</td><td style="min-width:100px" lang="ja">豪雨「河底大戦争」</td></tr><tr><td style="min-width:125px"><b><font color="#FFA500"><big>射</big>击</font>+<font color="#FF0000"><big>必</big>杀</font></b></td><td style="min-width:125px">泡符「射击吧！泡泡龙」</td><td style="min-width:100px" lang="ja">泡符「撃て！バブルドラゴン」</td></tr><tr><td style="min-width:125px"><b><font color="#FFA500"><big>射</big>击</font>+<font color="#FF0000"><big>必</big>杀</font></b></td><td style="min-width:125px">战机「飞翔吧！三平加油」<br>（↑↓键调整轨道）</td><td style="min-width:100px" lang="ja">戦機「飛べ！三平ファイト」<br>（↑↓で軌道調整）</td></tr>
 <tr><td style="min-width:200px" colspan="4" align="center"><b>怪LastWord</b></td></tr><tr><td style="min-width:125px"><b><font color="#FF0000"><big>必</big>杀</font>+<font color="#FF1493"><big>怪</big>奇</font></b></td><td style="min-width:125px">＊尼斯湖现在就在这里！＊</td><td style="min-width:100px" lang="ja">＊ネス湖は今ここにある！＊</td></tr></tbody></table>
+
 
 
 ## 古明地恋
@@ -244,6 +253,7 @@ Guitar &amp; Bass：岸田
 <tr><td style="min-width:200px" colspan="4" align="center"><b>怪LastWord</b></td></tr><tr><td style="min-width:125px"><b><font color="#FF0000"><big>必</big>杀</font>+<font color="#FF1493"><big>怪</big>奇</font></b></td><td style="min-width:125px">＊现在就给你打电话别忘了接哦＊</td><td style="min-width:100px" lang="ja">＊今から電話をするから出てね＊</td></tr></tbody></table>
 
 
+
 ## 二岩猯藏
  **<big><big><font color="#88DD99">二岩猯藏</font></big></big>**   
  **<font color="#553300">变幻自在且老奸巨猾的妖怪狸</font>**   
@@ -267,6 +277,7 @@ Guitar &amp; Bass：秀三
 <tr><td style="min-width:200px" colspan="4" align="center"><b>灵异必杀技</b></td></tr><tr><td style="min-width:125px"><b><font color="#FFFF00"><big>打</big>击</font>+<font color="#FFA500"><big>射</big>击</font></b></td><td style="min-width:125px">「Alien Capsule」<br>（可以使用怪奇值时　按方向键改变轨道）</td><td style="min-width:100px" lang="ja">「エイリアンカプセル」<br>（怪奇ゲージ使用可能時　方向キーで軌道変化）</td></tr><tr><td style="min-width:125px"><b><big>前</big>→+<font color="#FFFF00"><big>打</big>击</font>+<font color="#FFA500"><big>射</big>击</font></b></td><td style="min-width:125px">Capsule启动</td><td style="min-width:100px" lang="ja">カプセル起動</td></tr>
 <tr><td style="min-width:200px" colspan="4" align="center"><b>符卡</b></td></tr><tr><td style="min-width:125px"><b><font color="#FFA500"><big>射</big>击</font>+<font color="#FF0000"><big>必</big>杀</font></b></td><td style="min-width:125px">变化「分福热水浴」</td><td style="min-width:100px" lang="ja">変化「分福熱湯風呂」</td></tr><tr><td style="min-width:125px"><b><font color="#FFA500"><big>射</big>击</font>+<font color="#FF0000"><big>必</big>杀</font></b></td><td style="min-width:125px">变化「百鬼妖界之门」</td><td style="min-width:100px" lang="ja">変化「百鬼妖界の門」</td></tr><tr><td style="min-width:125px"><b><font color="#FFA500"><big>射</big>击</font>+<font color="#FF0000"><big>必</big>杀</font></b></td><td style="min-width:125px">变化「二岩家的制裁」</td><td style="min-width:100px" lang="ja">変化「二ッ岩家の裁き」</td></tr>
 <tr><td style="min-width:200px" colspan="4" align="center"><b>怪LastWord</b></td></tr><tr><td style="min-width:125px"><b><font color="#FF0000"><big>必</big>杀</font>+<font color="#FF1493"><big>怪</big>奇</font></b></td><td style="min-width:125px">＊外星机密泄露！即刻处置＊</td><td style="min-width:100px" lang="ja">＊宇宙機密漏洩！直ちに処置せよ＊</td></tr></tbody></table>
+
 
 
 ## 秦心
@@ -294,6 +305,7 @@ Guitar：わさもん　Violin：JUN
 <tr><td style="min-width:200px" colspan="4" align="center"><b>怪LastWord</b></td></tr><tr><td style="min-width:125px"><b><font color="#FF0000"><big>必</big>杀</font>+<font color="#FF1493"><big>怪</big>奇</font></b></td><td style="min-width:125px">＊就算这样，我也漂亮吧？＊</td><td style="min-width:100px" lang="ja">＊これでもアタシ、キレイよね？＊</td></tr></tbody></table>
 
 
+
 ## 茨木华扇
  **<big><big><font color="#99EE55">茨木华扇</font></big></big>**   
  **<font color="#886600">因神仙思想而喜爱动物的仙人</font>**   
@@ -318,6 +330,7 @@ Wistles &amp; Concertina &amp; Flat Mandolin &amp; Irish Bouzouki：Kou Ogata
 <tr><td style="min-width:200px" colspan="4" align="center"><b>怪LastWord</b></td></tr><tr><td style="min-width:125px"><b><font color="#FF0000"><big>必</big>杀</font>+<font color="#FF1493"><big>怪</big>奇</font></b></td><td style="min-width:125px">＊猿之手啊！捏碎敌人！＊</td><td style="min-width:100px" lang="ja">＊猿の手よ！敵を握りつぶせ！＊</td></tr></tbody></table>
 
 
+
 ## 藤原妹红
  **<big><big><font color="#EE5555">藤原妹红</font></big></big>**   
  **<font color="#FF4400">自暴自弃且不死之身的人类</font>**   
@@ -340,6 +353,7 @@ Arranged by ziki_7(SOUNDOT)
 <tr><td style="min-width:200px" colspan="4" align="center"><b>灵异必杀技</b></td></tr><tr><td style="min-width:125px"><b><font color="#FFFF00"><big>打</big>击</font>+<font color="#FFA500"><big>射</big>击</font></b></td><td style="min-width:125px">「人体自燃」<br>（体力自动减少+攻击力增加　再次输入可以解除）</td><td style="min-width:100px" lang="ja">「人体自然発火」<br>（体力の自然減少＋攻撃力増加　再入力で解除）</td></tr>
 <tr><td style="min-width:200px" colspan="4" align="center"><b>符卡</b></td></tr><tr><td style="min-width:125px"><b><font color="#FFA500"><big>射</big>击</font>+<font color="#FF0000"><big>必</big>杀</font></b></td><td style="min-width:125px">焰符「自灭火焰大旋风」<br>（体力槽的白色部分越多威力会相应增加）</td><td style="min-width:100px" lang="ja">焔符「自滅火焔大旋風」<br>（体力ゲージの白部分が多い程威力増加）</td></tr><tr><td style="min-width:125px"><b><font color="#FFA500"><big>射</big>击</font>+<font color="#FF0000"><big>必</big>杀</font></b></td><td style="min-width:125px">不死「凯风快晴飞翔蹴」</td><td style="min-width:100px" lang="ja">不死「凱風快晴飛翔蹴」</td></tr><tr><td style="min-width:125px"><b><font color="#FFA500"><big>射</big>击</font>+<font color="#FF0000"><big>必</big>杀</font></b></td><td style="min-width:125px">咒札「无差别放火之符」</td><td style="min-width:100px" lang="ja">呪札「無差別発火の符」</td></tr>
 <tr><td style="min-width:200px" colspan="4" align="center"><b>怪LastWord</b></td></tr><tr><td style="min-width:125px"><b><font color="#FF0000"><big>必</big>杀</font>+<font color="#FF1493"><big>怪</big>奇</font></b></td><td style="min-width:125px">＊这种世道赶紧烧个精光吧！＊<br>（体力槽的白色部分全部恢复）</td><td style="min-width:100px" lang="ja">＊こんな世は燃え尽きてしまえ！＊<br>（体力ゲージの白部分を全回復）</td></tr></tbody></table>
+
 
 
 ## 少名针妙丸
@@ -367,6 +381,7 @@ Guitar：テラ(少女理論観測所) Bass：pizuya
 <tr><td style="min-width:200px" colspan="4" align="center"><b>怪LastWord</b></td></tr><tr><td style="min-width:125px"><b><font color="#FF0000"><big>必</big>杀</font>+<font color="#FF1493"><big>怪</big>奇</font></b></td><td style="min-width:125px">＊绿巨人啊，变大吧！＊</td><td style="min-width:100px" lang="ja">＊緑の巨人よ、おおきくなれよ！＊</td></tr></tbody></table>
 
 
+
 ## 宇佐见堇子
  **<big><big><font color="#9966FF">宇佐见堇子</font></big></big>**   
  **<font color="#EE55FF">神秘主义而令人头疼的女学生</font>**   
@@ -389,6 +404,7 @@ Arranged by ARM (IOSYS)
 <tr><td style="min-width:200px" colspan="4" align="center"><b>灵异必杀技</b></td></tr><tr><td style="min-width:125px"><b><font color="#FFFF00"><big>打</big>击</font>+<font color="#FFA500"><big>射</big>击</font></b></td><td style="min-width:125px">召唤二重身<br>（二重身受到伤害被消灭时本体会受到伤害）</td><td style="min-width:100px" lang="ja">サモンドッペルゲンガー<br>（ドッペルゲンガーがダメージを受けると消滅時に本体へダメージ）</td></tr>
 <tr><td style="min-width:200px" colspan="4" align="center"><b>符卡</b></td></tr><tr><td style="min-width:125px"><b><font color="#FFA500"><big>射</big>击</font>+<font color="#FF0000"><big>必</big>杀</font></b></td><td style="min-width:125px">铳符「3D Printer Gun」</td><td style="min-width:100px" lang="ja">銃符「３Ｄプリンターガン」</td></tr><tr><td style="min-width:125px"><b><font color="#FFA500"><big>射</big>击</font>+<font color="#FF0000"><big>必</big>杀</font></b></td><td style="min-width:125px">念力「Psychokinesis APP」<br>（↑↓←→键可以移动攻击位置）</td><td style="min-width:100px" lang="ja">念力「サイコキネシスアプリ」<br>（↑↓←→で攻撃位置を移動）</td></tr><tr><td style="min-width:125px"><b><font color="#FFA500"><big>射</big>击</font>+<font color="#FF0000"><big>必</big>杀</font></b></td><td style="min-width:125px">念力「Telekinesis 通信塔」</td><td style="min-width:100px" lang="ja">念力「テレキネシス　電波塔」</td></tr>
 <tr><td style="min-width:200px" colspan="4" align="center"><b>怪LastWord</b></td></tr><tr><td style="min-width:125px"><b><font color="#FF0000"><big>必</big>杀</font>+<font color="#FF1493"><big>怪</big>奇</font></b></td><td style="min-width:125px">＊幻视吧！目睹异世界的狂气＊</td><td style="min-width:100px" lang="ja">＊幻視せよ！　異世界の狂気を＊</td></tr></tbody></table>
+
 
 
 ## 铃仙·优昙华院·因幡
@@ -415,6 +431,7 @@ Arranged by ビートまりお(COOL&amp;CREATE)
 <tr><td style="min-width:200px" colspan="4" align="center"><b>怪LastWord</b></td></tr><tr><td style="min-width:125px"><b><font color="#FF0000"><big>必</big>杀</font>+<font color="#FF1493"><big>怪</big>奇</font></b></td><td style="min-width:125px">＊你已经疯了！＊</td><td style="min-width:100px" lang="ja">＊もうお前は狂っている！＊</td></tr></tbody></table>
 
 
+
 ## 哆来咪·苏伊特
  **<big><big><font color="#EE00CC">哆来咪·苏伊特</font></big></big>**   
  **<font color="#CC55FF">使人做梦的妖怪</font>**   
@@ -437,6 +454,7 @@ Arranged by 狐夢想(狐夢想屋)
 <tr><td style="min-width:200px" colspan="4" align="center"><b>灵异必杀技</b></td></tr><tr><td style="min-width:125px"><b><font color="#FFFF00"><big>打</big>击</font>+<font color="#FFA500"><big>射</big>击</font></b></td><td style="min-width:125px">「干涉梦境之地」<br>（随着梦魂槽数量而扩大范围）</td><td style="min-width:100px" lang="ja">「干渉するドリームランド」<br>（夢魂ゲージ量に応じて範囲拡張）</td></tr>
 <tr><td style="min-width:200px" colspan="4" align="center"><b>符卡</b></td></tr><tr><td style="min-width:125px"><b><font color="#FFA500"><big>射</big>击</font>+<font color="#FF0000"><big>必</big>杀</font></b></td><td style="min-width:125px">梦符「留绀色的逃走梦」</td><td style="min-width:100px" lang="ja">夢符「留紺色の逃走夢」</td></tr><tr><td style="min-width:125px"><b><font color="#FFA500"><big>射</big>击</font>+<font color="#FF0000"><big>必</big>杀</font></b></td><td style="min-width:125px">梦符「漆黑的宇宙梦」</td><td style="min-width:100px" lang="ja">夢符「漆黒の宇宙夢」</td></tr><tr><td style="min-width:125px"><b><font color="#FFA500"><big>射</big>击</font>+<font color="#FF0000"><big>必</big>杀</font></b></td><td style="min-width:125px">羊符「Nightmare of Chimera」</td><td style="min-width:100px" lang="ja">羊符「ナイトメア・オブ・キメラ」</td></tr>
 <tr><td style="min-width:200px" colspan="4" align="center"><b>怪LastWord</b></td></tr><tr><td style="min-width:125px"><b><font color="#FF0000"><big>必</big>杀</font>+<font color="#FF1493"><big>怪</big>奇</font></b></td><td style="min-width:125px">＊不用再醒来了哦＊</td><td style="min-width:100px" lang="ja">＊もう目覚めなくて良いのよ＊</td></tr></tbody></table>
+
 
 
 ## 比那名居天子
@@ -466,6 +484,7 @@ Drum：ショボン Sax.：山石本薫 Trumpet：ヒロコマン
 <tr><td style="min-width:200px" colspan="4" align="center"><b>怪LastWord</b></td></tr><tr><td style="min-width:125px"><b><font color="#FF0000"><big>必</big>杀</font>+<font color="#FF1493"><big>怪</big>奇</font></b></td><td style="min-width:125px">＊大气圈尽在吾之手中＊</td><td style="min-width:100px" lang="ja">＊大気圏は我が手中にあり＊</td></tr></tbody></table>
 
 
+
 ## 八云紫
  **<big><big><font color="#9900FF">八云紫</font></big></big>**   
  **神出鬼没且表<font color="#AA00FF">里两面的妖怪</font>**   
@@ -489,6 +508,7 @@ Arranged by ELEMENTAS(A-One)
 <tr><td style="min-width:200px" colspan="4" align="center"><b>灵异必杀技</b></td></tr><tr><td style="min-width:125px"><b><font color="#FFFF00"><big>打</big>击</font>+<font color="#FFA500"><big>射</big>击</font></b></td><td style="min-width:125px">「世上最灵活的上半身」</td><td style="min-width:100px" lang="ja">「世界一機敏な上半身」</td></tr><tr><td style="min-width:125px"><b>（分离中）<font color="#FFFF00"><big>打</big>击</font></b></td><td style="min-width:125px">弱打击</td><td style="min-width:100px" lang="ja">弱打撃</td></tr><tr><td style="min-width:125px"><b>（分离中）<font color="#FFA500"><big>射</big>击</font></b></td><td style="min-width:125px">突进攻击</td><td style="min-width:100px" lang="ja">突進攻撃</td></tr><tr><td style="min-width:125px"><b>（分离中）<font color="#FF0000"><big>必</big>杀</font></b></td><td style="min-width:125px">分离解除<br>（按←→选择上半身或下半身）</td><td style="min-width:100px" lang="ja">分離解除<br>（←→で上半身と下半身を選択）</td></tr>
 <tr><td style="min-width:200px" colspan="4" align="center"><b>符卡</b></td></tr><tr><td style="min-width:125px"><b><font color="#FFA500"><big>射</big>击</font>+<font color="#FF0000"><big>必</big>杀</font></b></td><td style="min-width:125px">「无人废线车辆炸弹」</td><td style="min-width:100px" lang="ja">「無人廃線車両爆弾」</td></tr><tr><td style="min-width:125px"><b><font color="#FFA500"><big>射</big>击</font>+<font color="#FF0000"><big>必</big>杀</font></b></td><td style="min-width:125px">式神「八云蓝&amp;橙」</td><td style="min-width:100px" lang="ja">式神「八雲藍＆橙」</td></tr><tr><td style="min-width:125px"><b><font color="#FFA500"><big>射</big>击</font>+<font color="#FF0000"><big>必</big>杀</font></b></td><td style="min-width:125px">境界「溢出的漂流物」</td><td style="min-width:100px" lang="ja">境界「溢れ出る漂流物」</td></tr>
 <tr><td style="min-width:200px" colspan="4" align="center"><b>怪LastWord</b></td></tr><tr><td style="min-width:125px"><b><font color="#FF0000"><big>必</big>杀</font>+<font color="#FF1493"><big>怪</big>奇</font></b></td><td style="min-width:125px">＊把你美丽的脚拿来！＊</td><td style="min-width:100px" lang="ja">＊その綺麗な足をくれ！＊</td></tr></tbody></table>
+
 
 
 ## 依神女苑

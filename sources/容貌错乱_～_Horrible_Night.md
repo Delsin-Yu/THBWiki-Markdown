@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -28,27 +29,34 @@
 
 
 
+
 ## 基本信息
 
-<table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">相貌の狂い　～ Horrible Night</td></tr><tr><td><b>译名</b></td><td>容貌错乱 ～ Horrible Night</td></tr><tr><td><b>作曲</b></td><td><a href="./あきやまうに.md" title="あきやまうに">あきやまうに</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>引用</td></tr><tr><td style="padding-left:15px"><b>原曲</b></td><td><a href="/%E6%9C%88%E8%A6%8B%E8%8D%89" class="mw-redirect" title="月見草">月見草</a></td></tr><tr><td style="padding-left:15px"><b>　来源</b></td><td>东方永夜抄　～ Imperishable Night.</td></tr></tbody></table>
+<table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">相貌の狂い　～ Horrible Night</td></tr><tr><td><b>译名</b></td><td>容貌错乱 ～ Horrible Night</td></tr><tr><td><b>作曲</b></td><td><a href="./あきやまうに.md" title="あきやまうに">あきやまうに</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>引用</td></tr><tr><td style="padding-left:15px"><b>原曲</b></td><td><a href="./月見草.md" class="mw-redirect" title="月見草">月見草</a></td></tr><tr><td style="padding-left:15px"><b>　来源</b></td><td>东方永夜抄　～ Imperishable Night.</td></tr></tbody></table>
 
 容貌错乱 ～ Horrible Night（曲目） - 由 あきやまうに 创作的官方曲目，原名 相貌の狂い　～ Horrible Night
+
 ## 出现作品
 
 <table>
 <tbody><tr><td>2016年12月8日（非展会）</td><td><b><a href="./东方深秘录.md" title="东方深秘录">东方深秘录</a>PS4版</b></td><td>Staff后预告曲</td><td style="padding-left:5px;">相貌の狂い　～ Horrible Night（容貌错乱 ～ Horrible Night）</td><td style="padding-left:10px;">编曲：あきやまうに</td></tr>
-<tr><td>2016年12月8日（非展会）</td><td><b><a href="/%E6%B7%B1%E7%A7%98%E4%B9%90%E6%9B%B2%E9%9B%86%C2%B7%E8%A1%A5" class="mw-redirect" title="深秘乐曲集·补">深秘乐曲集·补</a></b></td><td>EXTRA DISC 第7轨</td><td style="padding-left:5px;">相貌の狂い　～ Horrible Night（容貌错乱　～ Horrible Night）</td><td style="padding-left:10px;">编曲：あきやまうに</td></tr>
+<tr><td>2016年12月8日（非展会）</td><td><b><a href="./深秘乐曲集·补.md" class="mw-redirect" title="深秘乐曲集·补">深秘乐曲集·补</a></b></td><td>EXTRA DISC 第7轨</td><td style="padding-left:5px;">相貌の狂い　～ Horrible Night（容貌错乱　～ Horrible Night）</td><td style="padding-left:10px;">编曲：あきやまうに</td></tr>
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 深秘乐曲集·补
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-TFM-008_07.mp3.md" title="文件:TFM-008 07.mp3">TFM-008_07.mp3</a><br><audio src="https://upload.thwiki.cc/3/3e/TFM-008_07.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track07.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>0:56</td></tr></tbody></table>
 
 
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
   
  **相貌の狂い　～ Horrible Night**  容貌错乱　～ Horrible Night
@@ -69,6 +77,7 @@
 - Horrible Night
   - 可怕的夜晚。
     - 铃仙的故事线发生在某天晚上，完全凭依异变所引发的现象在当时大家看来是很可怕的。
+
 
 
 

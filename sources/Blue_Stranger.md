@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Blue_Stranger封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/3/3e/Blue_Stranger%E5%B0%81%E9%9D%A2.jpg/120px-Blue_Stranger%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="120" height="168" srcset="https://upload.thwiki.cc/thumb/3/3e/Blue_Stranger%E5%B0%81%E9%9D%A2.jpg/180px-Blue_Stranger%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/3/3e/Blue_Stranger%E5%B0%81%E9%9D%A2.jpg/240px-Blue_Stranger%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="855" data-file-height="1195"></a><div class="cover-char">角色：<a href="./清兰.md" title="清兰">清兰</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/58868285">https://www.pixiv.net/artworks/58868285</a></td></tr></tbody></table>
 
 Blue Stranger（同人志，ユージーランド，2016） - 2016年9月25日 由 ユージーランド 于 东方神莲珠1 发布的漫画同人志，登场人物有 清兰、铃瑚，分级为 一般向
+
 ## Staff
 - [優治](./優治.md)
+
 
 ## 评论
 

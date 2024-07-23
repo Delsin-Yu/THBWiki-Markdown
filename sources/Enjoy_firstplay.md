@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Enjoy_firstplay封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/8/8a/Enjoy_firstplay%E5%B0%81%E9%9D%A2.jpg/139px-Enjoy_firstplay%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="139" height="196" srcset="https://upload.thwiki.cc/thumb/8/8a/Enjoy_firstplay%E5%B0%81%E9%9D%A2.jpg/208px-Enjoy_firstplay%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/8/8a/Enjoy_firstplay%E5%B0%81%E9%9D%A2.jpg/278px-Enjoy_firstplay%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="850" data-file-height="1200"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>，<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a>，<a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a>，<a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=56704977">https://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=56704977</a></td></tr></tbody></table>
 
 Enjoy firstplay（同人志，α.ACE，2016） - 2016年5月8日 由 α.ACE 于 博丽神社例大祭13 发布的漫画同人志，B5尺寸一共40页，分级为 一般向
+
 ## Staff
 - 英エイスト (未找到链接)
+
 
 ## 评论
 

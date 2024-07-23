@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E6%97%A0%E8%81%8A%E7%9A%84%E5%B0%8F%E5%86%8C%E5%AD%90Vol.2%E5%B0%81%E9%9D%A2.jpg" class="new" title="文件:无聊的小册子Vol.2封面.jpg">封面图片</a></td>
@@ -14,9 +15,12 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://tieba.baidu.com/p/950156282">https://tieba.baidu.com/p/950156282</a></td></tr></tbody></table>
 
 无聊的小册子Vol.2（同人志，StudioBRX，2010） - 2010年12月12日 由 StudioBRX 于 COMICUP7 发布的漫画同人志，A5尺寸一共8页，分级为 一般向
+
 ## 预览
+
 ## Staff
 - BorisX (未找到链接)
+
 
 ## 评论
 

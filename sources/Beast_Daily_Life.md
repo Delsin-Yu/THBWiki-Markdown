@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Beast_Daily_Life封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/b/ba/Beast_Daily_Life%E5%B0%81%E9%9D%A2.jpg/158px-Beast_Daily_Life%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="158" height="224" srcset="https://upload.thwiki.cc/thumb/b/ba/Beast_Daily_Life%E5%B0%81%E9%9D%A2.jpg/237px-Beast_Daily_Life%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/b/ba/Beast_Daily_Life%E5%B0%81%E9%9D%A2.jpg/316px-Beast_Daily_Life%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1446" data-file-height="2048"></a><div class="cover-char">角色：<a href="./埴安神袿姬.md" title="埴安神袿姬">埴安神袿姬</a>，<a href="./骊驹早鬼.md" title="骊驹早鬼">骊驹早鬼</a>，<a href="./吉吊八千慧.md" title="吉吊八千慧">吉吊八千慧</a>，<a href="./杖刀偶磨弓.md" title="杖刀偶磨弓">杖刀偶磨弓</a>，<a href="./饕餮尤魔.md" title="饕餮尤魔">饕餮尤魔</a></div></td>
@@ -14,9 +15,12 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/98669089">https://www.pixiv.net/artworks/98669089</a></td></tr></tbody></table>
 
 Beast Daily Life（同人志，いちごパルフェ，2022） - 2022年6月5日 由 いちごパルフェ 于 东方名华祭16 发布的漫画同人志，B5尺寸一共24页，登场人物有 埴安神袿姬、骊驹早鬼、吉吊八千慧、杖刀偶磨弓、饕餮尤魔、魂魄妖梦，分级为 一般向
+
 ## 预览
+
 ## Staff
 - もしひめ (未找到链接)
+
 
 ## 评论
 

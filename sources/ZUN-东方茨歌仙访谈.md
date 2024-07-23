@@ -10,8 +10,7 @@ ZUN | azmaya | 东方茨歌仙 | 访谈
   
   
 
-<big>原作 ZUN  
-
+<big>原作 ZUN
 漫画 azmaya</big>
   
   

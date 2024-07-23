@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-新米閻魔VS.邪悪な旧作幽香ちゃん封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/b/b5/%E6%96%B0%E7%B1%B3%E9%96%BB%E9%AD%94VS.%E9%82%AA%E6%82%AA%E3%81%AA%E6%97%A7%E4%BD%9C%E5%B9%BD%E9%A6%99%E3%81%A1%E3%82%83%E3%82%93%E5%B0%81%E9%9D%A2.jpg/139px-%E6%96%B0%E7%B1%B3%E9%96%BB%E9%AD%94VS.%E9%82%AA%E6%82%AA%E3%81%AA%E6%97%A7%E4%BD%9C%E5%B9%BD%E9%A6%99%E3%81%A1%E3%82%83%E3%82%93%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="139" height="196" srcset="https://upload.thwiki.cc/thumb/b/b5/%E6%96%B0%E7%B1%B3%E9%96%BB%E9%AD%94VS.%E9%82%AA%E6%82%AA%E3%81%AA%E6%97%A7%E4%BD%9C%E5%B9%BD%E9%A6%99%E3%81%A1%E3%82%83%E3%82%93%E5%B0%81%E9%9D%A2.jpg/208px-%E6%96%B0%E7%B1%B3%E9%96%BB%E9%AD%94VS.%E9%82%AA%E6%82%AA%E3%81%AA%E6%97%A7%E4%BD%9C%E5%B9%BD%E9%A6%99%E3%81%A1%E3%82%83%E3%82%93%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/b/b5/%E6%96%B0%E7%B1%B3%E9%96%BB%E9%AD%94VS.%E9%82%AA%E6%82%AA%E3%81%AA%E6%97%A7%E4%BD%9C%E5%B9%BD%E9%A6%99%E3%81%A1%E3%82%83%E3%82%93%E5%B0%81%E9%9D%A2.jpg/277px-%E6%96%B0%E7%B1%B3%E9%96%BB%E9%AD%94VS.%E9%82%AA%E6%82%AA%E3%81%AA%E6%97%A7%E4%BD%9C%E5%B9%BD%E9%A6%99%E3%81%A1%E3%82%83%E3%82%93%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="566" data-file-height="800"></a><div class="cover-char">角色：<a href="./四季映姬·夜摩仙那度.md" title="四季映姬·夜摩仙那度">四季映姬·夜摩仙那度</a>，<a href="./幽香.md" title="幽香">幽香</a></div></td>
@@ -18,8 +19,10 @@
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=357882">蜜瓜</a></td></tr></tbody></table>
 
 
+
 ## Staff
 - 城之崎 (未找到链接)
+
 
 ## 评论
   

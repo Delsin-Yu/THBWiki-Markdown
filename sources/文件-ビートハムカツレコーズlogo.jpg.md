@@ -4,6 +4,7 @@
 
 ビートハムカツレコーズ | 社团LOGO
 
+
 ## 文件说明
   
 源地址：[Booth avatar](https://booth.pximg.net/c/128x128/users/1904809/icon_image/25424a58-9f9a-4393-ad81-1aa805b470c8_base_resized.jpg)

@@ -4,7 +4,8 @@
 
 Releska ，主要制作 同人音乐 的澳大利亚同人社团，主催是 Releska，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -15,13 +16,16 @@ Releska ，主要制作 同人音乐 的澳大利亚同人社团，主催是 Rel
 
 
 
+
 ## 社团信息
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Releska </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a class="mw-selflink selflink">Releska</a> </td></tr><tr><td><b>地区</b></td><td>澳大利亚</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="https://releska.com/discography/">https://releska.com/discography/</a> </td></tr></tbody></table>
 
 Releska（同人社团，同人音乐社团） - Releska ，主要制作 同人音乐 的澳大利亚同人社团，主催是 Releska，当前状态为 活动
+
 ## 成员名单
 - 
+
 
 ## 作品列表
 [](./Satellite_Compilation.md)[Satellite Compilation](./Satellite_Compilation.md)首发日期：2015-05-10 （第十二回 博麗神社例大祭 (未找到链接)）RELE-01全长 （一般向）[](./Compilation_in_Limbo.md)[Compilation in Limbo](./Compilation_in_Limbo.md)首发日期：2015-08-14 （Comic Market 88 (未找到链接)）RELE-02全长 （一般向）[](./Apollo_Rises.md)[Apollo Rises](./Apollo_Rises.md)首发日期：2015-12-30 （Comic Market 89 (未找到链接)）RELE-03全长 （一般向）[](./Mastermind.md)[Mastermind](./Mastermind.md)首发日期：2016-05-08 （第十三回 博麗神社例大祭 (未找到链接)）RELE-04全长 （一般向）[](./The_Reign_Falls.md)[The Reign Falls](./The_Reign_Falls.md)首发日期：2016-08-13 （Comic Market 90 (未找到链接)）RELE-05全长 （一般向）[](./Welcome_to_the_Satellite.md)[Welcome to the Satellite](./Welcome_to_the_Satellite.md)首发日期：2016-12-29 （Comic Market 91 (未找到链接)）RELE-01全长、​重制 （一般向）[](./Side_Effect.md)[Side Effect](./Side_Effect.md)首发日期：2016-12-29 （Comic Market 91 (未找到链接)）RELE-06全长 （一般向）[](./Willowbane.md)[Willowbane](./Willowbane.md)首发日期：2017-05-07 （第十四回 博麗神社例大祭 (未找到链接)）RELE-07全长 （一般向）[](./The_Esotericist_is_Missing.md)[The Esotericist is Missing](./The_Esotericist_is_Missing.md)首发日期：2017-07-29 （Redditaisai 2017 (未找到链接)）RELE-02全长、​重制 （一般向）第二张专辑[Compilation in Limbo](./Compilation_in_Limbo.md)的重制版[](./Petite_Symphonie.md)[Petite Symphonie](./Petite_Symphonie.md)首发日期：2017-08-18 RELE-08全长 （一般向）[](./For_the_Travelers.md)[For the Travelers](./For_the_Travelers.md)首发日期：2017-12-29 （Comic Market 93 (未找到链接)）RELE-09全长 （一般向）[](./Rosethorn.md)[Rosethorn](./Rosethorn.md)首发日期：2018-08-10 RELE-10全长 （一般向）[](./Furnace.md)[Furnace](./Furnace.md)首发日期：2019-01-16 RELE-11全长 （一般向）[](./Reflections_in_Monochrome.md)[Reflections in Monochrome](./Reflections_in_Monochrome.md)首发日期：2019-12-31 RELE-12全长 （一般向）[](./Stitches_and_Stones.md)[Stitches and Stones](./Stitches_and_Stones.md)首发日期：2020-05-24 RELE-13全长 （一般向）[](./The_Heist.md)[The Heist](./The_Heist.md)首发日期：2020-12-29 RELE-14全长 （一般向）[](./Currents_of_Change.md)[Currents of Change](./Currents_of_Change.md)首发日期：2021-07-11 RELE-15全长 （一般向）[](./Shadow_Figures.md)[Shadow Figures](./Shadow_Figures.md)首发日期：2022-02-20 RELE-16全长 （一般向）[](./Snowflake_Desire.md)[Snowflake Desire](./Snowflake_Desire.md)首发日期：2023-03-17 RELE-17全长 （一般向）[](./To_the_Cosmos.md)[To the Cosmos](./To_the_Cosmos.md)首发日期：2024-05-10 RELE-18- （一般向）
@@ -65,6 +69,7 @@ Releska（同人社团，同人音乐社团） - Releska ，主要制作 同人�
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 参展信息

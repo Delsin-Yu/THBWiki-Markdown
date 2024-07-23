@@ -4,8 +4,9 @@
 
 東方アレンジ活性化大作戦 在 日本 举办的  东方同人展会活动，目前共举办了1届
 
-本页是关于 **同人展会 (未找到链接)**   
-及 **相关活动 (未找到链接)** 的词条
+本页是关于 **[同人展会](./同人展会.md#展会类活动)**   
+及 **[相关活动](./相关活动.md)** 的词条
+
 ## 目录
 
 - [1 概述](#概述)
@@ -23,6 +24,7 @@
 
 
 
+
 ## 概述
 [](./文件-东方Arrange活跃化大作战LOGO.png.md)  [](./文件-东方Arrange活跃化大作战LOGO.png.md)东方Arrange活跃化大作战 LOGO
   
@@ -31,7 +33,7 @@
   
   
   
-日本 **** 线上的东方Project Only **同人展会类活动 (未找到链接)** 。  
+日本 **** 线上的东方Project Only **同人[展会类活动](./展会类活动.md#展会类活动)** 。  
   
 在线上举办。  
 直到目前为止，已经举办了1届（包含已决定将会举办）。  
@@ -43,6 +45,7 @@
 主办方： **[COOL&amp;CREATE](./COOL&CREATE.md)**   
   
 东方Arrange活跃化大作战（活动，展会活动） - 東方アレンジ活性化大作戦 在 日本 举办的  东方同人展会活动，目前共举办了1届
+
 ## 历届信息
 - 点击届数可进入对应分类页面。
 - 请注意，摊位数统计可能不准确。
@@ -55,14 +58,18 @@
 </tbody></table>
 
 
+
 ## 作品列表
+
 ### 同人专辑
 [](./東方オトハナビ.md)[東方オトハナビ](./東方オトハナビ.md)首发日期：2021-08-14 （東方ルナティックリリース (未找到链接)）CCCD-00061、​CCCD-00062、​CCCD-00063、​CCCD-00064全长 （一般向）该作品是与 [COOL&amp;CREATE](./COOL&CREATE.md) 合作创作的该专辑包含 4 张CD
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
 </table>
 
 
+
 ## 东方Arrange活跃化大作战
+
 ## 东方同人音乐流通 夏日三周连续发布祭典
 
   

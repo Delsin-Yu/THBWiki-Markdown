@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Youkai_Monochrome封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/1/1d/Youkai_Monochrome%E5%B0%81%E9%9D%A2.jpg/140px-Youkai_Monochrome%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="140" height="196" srcset="https://upload.thwiki.cc/thumb/1/1d/Youkai_Monochrome%E5%B0%81%E9%9D%A2.jpg/210px-Youkai_Monochrome%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/1/1d/Youkai_Monochrome%E5%B0%81%E9%9D%A2.jpg/280px-Youkai_Monochrome%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="900" data-file-height="1259"></a><div class="cover-char">角色：<a href="./露米娅.md" title="露米娅">露米娅</a></div></td>
@@ -18,9 +19,11 @@ Youkai Monochrome（同人志，Ragathol Enterprises，2014） - 2014年5月11�
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://ragathol.gumroad.com/l/oqUXc">其他平台</a></td></tr></tbody></table>
 
 
+
 ## Staff
 Art
 : Ragathol （[Ragathol Enterprises](./Ragathol_Enterprises.md)）
+
 
 ## 评论
   

@@ -7,10 +7,10 @@
 本页是关于东方Project  
  **相关实体周边 (未找到链接)** 的词条
 东方红魔乡（LINE主题） - 东方Project「东方红魔乡　～ the Embodiment of Scarlet Devil.」的LINE主题皮肤
+
 ## 概述
   
-<big> **东方红魔乡**   
-</big>
+<big> **东方红魔乡** </big>
 東方紅魔郷  
 
   
@@ -31,6 +31,7 @@
   
 东方Project「东方红魔乡」的主题皮肤。将你的LINE染成红魔馆的主题吧！
   
+
 
 ## 主题展示
 

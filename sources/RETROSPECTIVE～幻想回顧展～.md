@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-RETROSPECTIVE～幻想回顧展～封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/3/34/RETROSPECTIVE%EF%BD%9E%E5%B9%BB%E6%83%B3%E5%9B%9E%E9%A1%A7%E5%B1%95%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg/167px-RETROSPECTIVE%EF%BD%9E%E5%B9%BB%E6%83%B3%E5%9B%9E%E9%A1%A7%E5%B1%95%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="167" height="168" srcset="https://upload.thwiki.cc/thumb/3/34/RETROSPECTIVE%EF%BD%9E%E5%B9%BB%E6%83%B3%E5%9B%9E%E9%A1%A7%E5%B1%95%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg/250px-RETROSPECTIVE%EF%BD%9E%E5%B9%BB%E6%83%B3%E5%9B%9E%E9%A1%A7%E5%B1%95%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/3/34/RETROSPECTIVE%EF%BD%9E%E5%B9%BB%E6%83%B3%E5%9B%9E%E9%A1%A7%E5%B1%95%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg/333px-RETROSPECTIVE%EF%BD%9E%E5%B9%BB%E6%83%B3%E5%9B%9E%E9%A1%A7%E5%B1%95%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="340" data-file-height="343"></a><div class="cover-char">角色：<a href="./八云蓝.md" title="八云蓝">八云蓝</a>，<a href="./莉格露·奈特巴格.md" title="莉格露·奈特巴格">莉格露·奈特巴格</a>，<a href="./因幡帝.md" title="因幡帝">因幡天为</a>，<a href="./西行寺幽幽子.md" title="西行寺幽幽子">西行寺幽幽子</a>，<a href="./帕秋莉·诺蕾姬.md" title="帕秋莉·诺蕾姬">帕秋莉·诺蕾姬</a>，<a href="./小恶魔.md" title="小恶魔">小恶魔</a>，<a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a>，<a href="./红美铃.md" title="红美铃">红美铃</a>，<a href="./八云紫.md" title="八云紫">八云紫</a>，<a href="./蕾蒂·霍瓦特洛克.md" title="蕾蒂·霍瓦特洛克">蕾蒂·霍瓦特洛克</a>，<a href="./爱丽丝·玛格特洛依德.md" title="爱丽丝·玛格特洛依德">爱丽丝·玛格特洛依德</a>，<a href="./风见幽香.md" title="风见幽香">风见幽香</a>，<a href="./橙.md" title="橙">橙</a>，<a href="./四季映姬·夜摩仙那度.md" title="四季映姬·夜摩仙那度">四季映姬·夜摩仙那度</a>，<a href="./射命丸文.md" title="射命丸文">射命丸文</a>，<a href="./铃仙·优昙华院·因幡.md" title="铃仙·优昙华院·因幡">铃仙·优昙华院·因幡</a>，<a href="./八意永琳.md" title="八意永琳">八意永琳</a>，<a href="./藤原妹红.md" title="藤原妹红">藤原妹红</a>，<a href="./上白泽慧音.md" title="上白泽慧音">上白泽慧音</a>，<a href="./米斯蒂娅·萝蕾拉.md" title="米斯蒂娅·萝蕾拉">米斯蒂娅·萝蕾拉</a>，<a href="./梅露兰·普莉兹姆利巴.md" title="梅露兰·普莉兹姆利巴">梅露兰·普莉兹姆利巴</a>，<a href="./莉莉卡·普莉兹姆利巴.md" title="莉莉卡·普莉兹姆利巴">莉莉卡·普莉兹姆利巴</a>，<a href="./露娜萨·普莉兹姆利巴.md" title="露娜萨·普莉兹姆利巴">露娜萨·普莉兹姆利巴</a>，<a href="/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C" title="十六夜咲夜">十六夜咲夜</a>，<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>，<a href="./魂魄妖梦.md" title="魂魄妖梦">魂魄妖梦</a>，<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a>，<a href="./爱丽丝（旧作角色）.md" title="爱丽丝（旧作角色）">爱丽丝（旧作角色）</a></div></td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://az.geo.jp/archives/2007/03/index.php">http://az.geo.jp/archives/2007/03/index.php</a><br><span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><small>（<a rel="nofollow" class="external text" href="https://web.archive.org/web/20120709070424/http://az.geo.jp/archives/2007/03/index.php">缓存页面</a>）</small></td></tr></tbody></table>
 
 RETROSPECTIVE～幻想回顧展～（同人志，az，2007） - 2007年3月21日 由 az 于 Flowering Night2 发布的合同志/画集同人志，A4尺寸，分级为 一般向
+
 ## Staff
 - おのけい (未找到链接)（[az](./az.md)）
 - [赤りんご](./赤りんご.md)（[az](./az.md)）
@@ -33,7 +35,7 @@ RETROSPECTIVE～幻想回顧展～（同人志，az，2007） - 2007年3月21日
 - ぎんこ (未找到链接)
 - nagare (未找到链接)
 - [SASUKE](./SASUKE.md)
-- サト (未找到链接)
+- [サト](./サト.md)
 - [茶戸](./茶戸.md)
 - [葉庭](./葉庭.md)
 - 蒼鉛緋露 (未找到链接)
@@ -47,6 +49,7 @@ RETROSPECTIVE～幻想回顧展～（同人志，az，2007） - 2007年3月21日
 - ふる (未找到链接)
 - はっとりぃ (未找到链接)
 - 殿様 (未找到链接)
+
 
 ## 评论
 - 作者

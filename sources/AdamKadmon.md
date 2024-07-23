@@ -4,7 +4,8 @@
 
 AdamKadmon ，于 2010 年成立，主要制作 同人音乐 的日本同人社团，主催是 カミヤシロ，当前状态为 休止
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -15,16 +16,19 @@ AdamKadmon ，于 2010 年成立，主要制作 同人音乐 的日本同人社�
 
 
 
+
 ## 社团信息
 [](./文件-AdamKadmon_banner.jpg.md)  [](./文件-AdamKadmon_banner.jpg.md)AdamKadmon_banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> AdamKadmon </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2010</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=%E3%82%AB%E3%83%9F%E3%83%A4%E3%82%B7%E3%83%AD&amp;action=edit&amp;redlink=1" class="new" title="カミヤシロ（页面不存在）">カミヤシロ</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://ak-territory.com/index.html">http://ak-territory.com/index.html</a> </td></tr></tbody></table>
 
 AdamKadmon（同人社团，同人音乐社团） - AdamKadmon ，于 2010 年成立，主要制作 同人音乐 的日本同人社团，主催是 カミヤシロ，当前状态为 休止
+
 ## 成员名单
 - カミヤシロ (未找到链接)
 - [珠梨](./珠梨.md)
 - [ワニ](./ワニ.md)
+
 
 ## 作品列表
 [](./桜風花.md)[桜風花](./桜風花.md)首发日期：2012-05-27 （第九回 博麗神社例大祭 (未找到链接)）AK-002单曲 （一般向）[](./Sink（AdamKadmon）.md)[Sink](./Sink（AdamKadmon）.md)首发日期：2012-08-11 （Comic Market 82 (未找到链接)）AK-003全长 （一般向）[](./フォノグラフ.md)[フォノグラフ](./フォノグラフ.md)首发日期：2013-05-26 （第十回 博麗神社例大祭 (未找到链接)）TU-03合作、​全长 （一般向）该作品是与 [鶫](./鶫.md) 合作创作的[](./ウィロウ.md)[ウィロウ](./ウィロウ.md)首发日期：2013-08-12 （Comic Market 84 (未找到链接)）AK-004全长 （一般向）[](./サーカス.md)[サーカス](./サーカス.md)首发日期：2013-12-30 （Comic Market 85 (未找到链接)）AK-005全长 （一般向）[](./リフレイン（AdamKadmon）.md)[リフレイン](./リフレイン（AdamKadmon）.md)首发日期：2014-08-16 （Comic Market 86 (未找到链接)）AK-006全长 （一般向）[](./シアター.md)[シアター](./シアター.md)首发日期：2014-12-29 （Comic Market 87 (未找到链接)）AK-007全长 （一般向）[](./トレイン.md)[トレイン](./トレイン.md)首发日期：2015-12-30 （Comic Market 89 (未找到链接)）AK-008全长 （一般向）[](./ムーン.md)[ムーン](./ムーン.md)首发日期：2016-05-08 （第十三回 博麗神社例大祭 (未找到链接)）AK-009全长 （一般向）[](./リリィ.md)[リリィ](./リリィ.md)首发日期：2016-08-13 （Comic Market 90 (未找到链接)）AK-010全长 （一般向）与另一张专辑成组发布：[フォレスト](./フォレスト.md)[](./フォレスト.md)[フォレスト](./フォレスト.md)首发日期：2016-08-13 （Comic Market 90 (未找到链接)）AK-011全长 （一般向）与另一张专辑成组发布：[リリィ](./リリィ.md)[](./アダム.md)[アダム](./アダム.md)首发日期：2017-05-07 （第十四回 博麗神社例大祭 (未找到链接)）AK-012全长 （一般向）[](./ミラージュ.md)[ミラージュ](./ミラージュ.md)首发日期：2017-08-11 （Comic Market 92 (未找到链接)）AK-013全长 （一般向）[](./マジック.md)[マジック](./マジック.md)首发日期：2017-12-29 （Comic Market 93 (未找到链接)）AK-014全长 （一般向）[](./サンド.md)[サンド](./サンド.md)首发日期：2018-12-30 （Comic Market 95 (未找到链接)）AK-015精选集 （一般向）
@@ -58,6 +62,7 @@ AdamKadmon（同人社团，同人音乐社团） - AdamKadmon ，于 2010 年�
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 参展信息

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Prevacation！封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/c/ce/Prevacation%EF%BC%81%E5%B0%81%E9%9D%A2.jpg/99px-Prevacation%EF%BC%81%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="99" height="140" srcset="https://upload.thwiki.cc/thumb/c/ce/Prevacation%EF%BC%81%E5%B0%81%E9%9D%A2.jpg/149px-Prevacation%EF%BC%81%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/c/ce/Prevacation%EF%BC%81%E5%B0%81%E9%9D%A2.jpg/198px-Prevacation%EF%BC%81%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="800" data-file-height="1130"></a><div class="cover-char">角色：<a href="./露娜萨·普莉兹姆利巴.md" title="露娜萨·普莉兹姆利巴">露娜萨·普莉兹姆利巴</a>，<a href="./梅露兰·普莉兹姆利巴.md" title="梅露兰·普莉兹姆利巴">梅露兰·普莉兹姆利巴</a></div></td>
@@ -14,9 +15,12 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/17260872">https://www.pixiv.net/artworks/17260872</a></td></tr></tbody></table>
 
 Prevacation！（同人志，壁画に眠る，2011） - 2011年5月8日 由 壁画に眠る 于 博丽神社例大祭8 发布的漫画同人志，登场人物有 露娜萨·普莉兹姆利巴、梅露兰·普莉兹姆利巴、莉莉卡·普莉兹姆利巴，分级为 一般向
+
 ## 预览
+
 ## Staff
-- サト (未找到链接)
+- [サト](./サト.md)
+
 
 ## 评论
 

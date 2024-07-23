@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-CRAZY天空ショータイム!!封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/d/d3/CRAZY%E5%A4%A9%E7%A9%BA%E3%82%B7%E3%83%A7%E3%83%BC%E3%82%BF%E3%82%A4%E3%83%A0%21%21%E5%B0%81%E9%9D%A2.jpg/138px-CRAZY%E5%A4%A9%E7%A9%BA%E3%82%B7%E3%83%A7%E3%83%BC%E3%82%BF%E3%82%A4%E3%83%A0%21%21%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="138" height="196" srcset="https://upload.thwiki.cc/thumb/d/d3/CRAZY%E5%A4%A9%E7%A9%BA%E3%82%B7%E3%83%A7%E3%83%BC%E3%82%BF%E3%82%A4%E3%83%A0%21%21%E5%B0%81%E9%9D%A2.jpg/207px-CRAZY%E5%A4%A9%E7%A9%BA%E3%82%B7%E3%83%A7%E3%83%BC%E3%82%BF%E3%82%A4%E3%83%A0%21%21%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/d/d3/CRAZY%E5%A4%A9%E7%A9%BA%E3%82%B7%E3%83%A7%E3%83%BC%E3%82%BF%E3%82%A4%E3%83%A0%21%21%E5%B0%81%E9%9D%A2.jpg/276px-CRAZY%E5%A4%A9%E7%A9%BA%E3%82%B7%E3%83%A7%E3%83%BC%E3%82%BF%E3%82%A4%E3%83%A0%21%21%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="317" data-file-height="450"></a><div class="cover-char">角色：<a href="./尔子田里乃.md" title="尔子田里乃">尔子田里乃</a>，<a href="./丁礼田舞.md" title="丁礼田舞">丁礼田舞</a>，<a href="./摩多罗隐岐奈.md" title="摩多罗隐岐奈">摩多罗隐岐奈</a></div></td>
@@ -18,8 +19,10 @@ CRAZY天空ショータイム!!（同人志，閑古鳥茶園，2017） - 2017�
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=293238">蜜瓜</a></td></tr></tbody></table>
 
 
+
 ## Staff
 - [ぽて](./ぽて.md)
+
 
 ## 评论
   

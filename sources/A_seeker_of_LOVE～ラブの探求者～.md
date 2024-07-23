@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-A_seeker_of_LOVE～ラブの探求者～封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/b/bc/A_seeker_of_LOVE%EF%BD%9E%E3%83%A9%E3%83%96%E3%81%AE%E6%8E%A2%E6%B1%82%E8%80%85%EF%BD%9E%E5%B0%81%E9%9D%A2.png/158px-A_seeker_of_LOVE%EF%BD%9E%E3%83%A9%E3%83%96%E3%81%AE%E6%8E%A2%E6%B1%82%E8%80%85%EF%BD%9E%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="158" height="224" srcset="https://upload.thwiki.cc/thumb/b/bc/A_seeker_of_LOVE%EF%BD%9E%E3%83%A9%E3%83%96%E3%81%AE%E6%8E%A2%E6%B1%82%E8%80%85%EF%BD%9E%E5%B0%81%E9%9D%A2.png/238px-A_seeker_of_LOVE%EF%BD%9E%E3%83%A9%E3%83%96%E3%81%AE%E6%8E%A2%E6%B1%82%E8%80%85%EF%BD%9E%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/b/bc/A_seeker_of_LOVE%EF%BD%9E%E3%83%A9%E3%83%96%E3%81%AE%E6%8E%A2%E6%B1%82%E8%80%85%EF%BD%9E%E5%B0%81%E9%9D%A2.png/317px-A_seeker_of_LOVE%EF%BD%9E%E3%83%A9%E3%83%96%E3%81%AE%E6%8E%A2%E6%B1%82%E8%80%85%EF%BD%9E%E5%B0%81%E9%9D%A2.png 2x" data-file-width="1000" data-file-height="1412"></a><div class="cover-char">角色：<a href="./姬海棠果.md" title="姬海棠果">姬海棠果</a>，<a href="./古明地恋.md" title="古明地恋">古明地恋</a></div></td>
@@ -18,9 +19,12 @@ A seeker of LOVE～ラブの探求者～（同人志，紙そうび，2016） - 
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=234326">蜜瓜电子版</a></td></tr></tbody></table>
 
 
+
 ## 预览
+
 ## Staff
 - お紙 (未找到链接)
+
 
 ## 评论
   

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -29,11 +30,13 @@
 
 
 
+
 ## 基本信息
 
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">ヒロシゲ36号　～ Neo Super-Express</td></tr><tr><td><b>译名</b></td><td>广重36号 ～ Neo Super-Express</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 广重36号 ～ Neo Super-Express（曲目） - 由 ZUN 创作的官方曲目，原名 ヒロシゲ36号　～ Neo Super-Express
+
 ## 出现作品
 
 <table>
@@ -41,15 +44,21 @@
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 卯酉东海道
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-hr04_01.mp3.md" title="文件:hr04 01.mp3">hr04_01.mp3</a><br><audio src="https://upload.thwiki.cc/9/97/hr04_01.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track01.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>3:48</td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
   
  **ヒロシゲ36号　～ Neo Super-Express** 
@@ -65,6 +74,7 @@
 
 - Neo Super-Express
   - 新的特快（新的新干线）
+
 
 
 ### 二次同人数据

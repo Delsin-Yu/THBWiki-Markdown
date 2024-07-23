@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=INVISIBLEFULLMOON%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2.jpg" class="new" title="文件:INVISIBLEFULLMOON（同人志）封面.jpg">封面图片</a><div class="cover-char">角色：<a href="./铃仙·优昙华院·因幡.md" title="铃仙·优昙华院·因幡">铃仙·优昙华院·因幡</a></div></td>
@@ -14,12 +15,15 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/ra1ch4/status/1608419483475140608">https://twitter.com/ra1ch4/status/1608419483475140608</a><br><a rel="nofollow" class="external free" href="https://twitter.com/thika_7116/status/1608780267522764802">https://twitter.com/thika_7116/status/1608780267522764802</a><br><a rel="nofollow" class="external free" href="https://twitter.com/ra1ch4/status/1609006054771146761">https://twitter.com/ra1ch4/status/1609006054771146761</a></td></tr></tbody></table>
 
 INVISIBLEFULLMOON（同人志，ピラニア生態研究所，2022） - 2022年12月31日 由 ピラニア生態研究所 于 Comic Market 101 发布的摄影集同人志，登场人物有 铃仙·优昙华院·因幡，分级为 一般向
+
 ## 预览
+
 ## Staff
 Model
 : てぃか （[Twitter: @thika_7116](https://twitter.com/thika_7116)）
 Photography
 : らいち （[ピラニア生態研究所](./ピラニア生態研究所.md)）
+
 
 ## 评论
 

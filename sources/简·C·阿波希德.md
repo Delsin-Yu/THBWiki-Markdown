@@ -30,6 +30,7 @@
 
 
 </center>
+
 ## 基本资料
 [](./文件-简·C·阿波希德.jpg.md)  [](./文件-简·C·阿波希德.jpg.md)
 
@@ -49,7 +50,9 @@
 </tr><tr><th><b>作品名</b></th><th><b>位置</b></th><th><b>类型</b></th><th><b>称号</b></th><th><b>主题曲</b></th></tr><tr><td rowspan="1" style="width:120px"><b><a href="./雛鳥曼然樂_～_Unrecognized_Error_in_Fantasy..md" title="雛鳥曼然樂 ～ Unrecognized Error in Fantasy.">雛鳥曼然樂　～ Unrecognized Error in Fantasy.</a></b></td><td style="width:130px">-</td><td class="bg-color-danger-30" style="width:30px;">文档</td><td style="width:180px"><i>林檎を植えた少女</i><br>种植苹果的少女</td><td style="width:200px"><i>大地に芽吹け、心の果実　～ Apple Seed</i><br>发芽于大地吧，心之果实　～ Apple Seed</td></tr></tbody></table>
 
 
+
 ## 设定
+
 ### BK设定
 
 <table><tbody><tr class="tt-content" id="BK设定-1" data-pos="&#91;&quot;BK\u8bbe\u5b9a&quot;,1&#93;"><td class="tt-ja" lang="ja"><div class="poem">大地に芽吹け、心の果実<br>Apple Seed<br><br>脱線したわね。話を元に戻しましょう。<br>そうそう、こんな奴がライブを聴きに来たこともあったわ。<br><br>遠い東方、見渡す限りの海の向こうから来た、異国の神霊。<br>かつて故郷では荒れ地に林檎を植えながら、<br>右も左も判らぬ人間達に、信仰を説き続けていたらしいわ。<br>素朴で飾らない人柄が多くの人間に好かれ、<br>そうするうちに彼女自身も、信仰を集めるようになったんですって。<br>まあ、これだけ聞くと、ありがちな美談よね。<br><br>でも、今の外界では色々とやり辛くなって、幻想郷に来たそうよ。<br>何でも、林檎を植えて歩いた荒れ地が、発展して大きな国になったら、<br>人間達が何かと諍いを起こすようになって、頭を抱えたんですって。<br><br>まあ、いつの時代も、人間ってそんな物よ。<br>二人寄れば喧嘩が始まることくらい、昔から分かりきってるじゃない。<br>でも、彼女は幻想郷に来た今でも、故郷の人間達を憂いているの。<br>今時珍しいくらいに真っ直ぐな子で、他人事ながら可哀想になったわ。<br><br>でも……喧嘩をするのは人間だけであって欲しいわね。<br>幻想郷の妖怪は、むざむざ同じ妖怪相手に喧嘩をして、<br>双方の寿命を縮めるような馬鹿な真似、しないと思ってるけど。<br><br>しないわよね。そんな浅はかなこと。</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr></tbody></table>

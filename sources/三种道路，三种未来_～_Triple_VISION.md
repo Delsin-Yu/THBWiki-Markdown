@@ -6,6 +6,7 @@ JynX作曲 | 三种道路，三种未来_～_Triple_VISION | 引用了翻译表�
 
 本页是关于 **向[东方Project](./东方Project.md)  
 致敬、形式类似的作品** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -26,6 +27,7 @@ JynX作曲 | 三种道路，三种未来_～_Triple_VISION | 引用了翻译表�
 
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
+
 
 
 
@@ -57,6 +59,7 @@ JynX作曲 | 三种道路，三种未来_～_Triple_VISION | 引用了翻译表�
 </td></tr></tbody></table>
 
 
+
 ## 出现作品
 
 <table>
@@ -65,13 +68,17 @@ JynX作曲 | 三种道路，三种未来_～_Triple_VISION | 引用了翻译表�
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 连缘天影战记
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>MIDI格式</b></td><td>无播放信息</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-le04_ETC_02.mp3.md" title="文件:le04 ETC 02.mp3">le04_ETC_02.mp3</a><br><audio src="https://upload.thwiki.cc/4/4b/le04_ETC_02.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>未填写</td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 连缘天影战记
 - Music Room (未找到链接)
 
@@ -83,8 +90,11 @@ Staff画面的曲子
 毕竟是人类嘛。  
   
 会不会变长呢…？
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
 
 

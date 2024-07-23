@@ -4,6 +4,7 @@
 
 くろあんこ | 五つの難題MOD
 
+
 ## 伊吹瓢
 
 <table>
@@ -25,12 +26,14 @@
 不能右击有水的炼药锅补充耐久度</td></tr></tbody></table>
 
 
+
 ## 天界之桃
 
 <table>
 <tbody><tr><td style="width:120px;padding-left:7px;"><b>名称</b></td><td width="350">天界之桃</td><td rowspan="7" width="190"><center>暂无图片</center></td></tr>
 <tr><td style="width:120px;padding-left:7px;"><b>默认ID</b></td><td>THKaguyaMod:Heavenly Peach</td></tr><tr><td style="width:120px;padding-left:7px;"><b>获得方式</b></td><td>使用<a href="/index.php?title=%E4%BA%94%E3%81%A4%E3%81%AE%E9%9B%A3%E9%A1%8CMOD/%E6%88%98%E6%96%97%E7%94%A8%E5%93%81&amp;action=edit&amp;redlink=1" class="new" title="五つの難題MOD/战斗用品（页面不存在）">绯想之剑</a>破坏在y&gt;=128处的树叶概率掉落</td></tr><tr><td style="width:120px;padding-left:7px;"><b>功能</b></td><td><b>消耗物品，最大堆叠：10</b><br>
 食用后恢复2点饥饿度和2点饱和度，获得19秒的抗性提升III效果</td></tr><tr><td style="width:120px;padding-left:7px;"><b>备注</b></td><td>树叶可以是以任意形式放置的，例如树的生长，玩家放置方块，用指令放置方块等</td></tr></tbody></table>
+
 
 
 ## 燕的子安贝

@@ -18,6 +18,7 @@
 </tbody></table>
 
 
+
 ## Extra Stage
 旁旁白
   
@@ -471,6 +472,7 @@ BGM:少女幻葬　～ Necro-Fantasy
 
 
 [^cite_note-1]: “目出度い”既有吉利的意思，也有傻气的意思。后者一般加上“お”。
+
 
 ## 导航
   

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **东方风自作曲** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -27,11 +28,13 @@
 
 
 
+
 ## 基本信息
 
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">六花繚乱　～ Sakurachill Blossom</td></tr><tr><td><b>译名</b></td><td>雪花缭乱 ～ Sakurachill Blossom</td></tr><tr><td><b>作曲</b></td><td><a href="./Wanwan.md" title="Wanwan">Wanwan</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>引用</td></tr><tr><td style="padding-left:15px"><b>原曲</b></td><td><a href="./幽雅地绽放吧，墨染的樱花_～_Border_of_Life.md" title="幽雅地绽放吧，墨染的樱花 ～ Border of Life" unred="">幽雅に咲かせ、墨染の桜　～ Border of Life</a></td></tr><tr><td style="padding-left:15px"><b>　来源</b></td><td>东方妖妖梦　～ Perfect Cherry Blossom.</td></tr></tbody></table>
 
 雪花缭乱 ～ Sakurachill Blossom（曲目） - 由 Wanwan 创作的东方风自作曲，原名 六花繚乱　～ Sakurachill Blossom
+
 ## 出现作品
 
 <table>
@@ -39,7 +42,9 @@
 </tbody></table>
 
 
+
 ## 说明文本
+
 ### 东方桃源宫
 - Music Room (未找到链接)
 
@@ -71,8 +76,11 @@
 做成主要乐句。
   
 
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
 
 

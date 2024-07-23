@@ -4,8 +4,9 @@
 
 FumoOnly 在 中国苏州、长沙 举办的 FumoOnly 东方同人展会活动，目前共举办了2届
 
-本页是关于 **同人展会 (未找到链接)**   
-及 **相关活动 (未找到链接)** 的词条
+本页是关于 **[同人展会](./同人展会.md#展会类活动)**   
+及 **[相关活动](./相关活动.md)** 的词条
+
 ## 目录
 
 - [1 概述](#概述)
@@ -27,6 +28,7 @@ FumoOnly 在 中国苏州、长沙 举办的 FumoOnly 东方同人展会活动�
 
 
 
+
 ## 概述
 [](./文件-FumoOnlyLOGO.png.md)  [](./文件-FumoOnlyLOGO.png.md)FumoOnly LOGO
   
@@ -35,7 +37,7 @@ FumoOnly 在 中国苏州、长沙 举办的 FumoOnly 东方同人展会活动�
   
   
   
- **Fumo** Only东方 **同人展会类活动 (未找到链接)** 。  
+ **Fumo** Only东方 **同人[展会类活动](./展会类活动.md#展会类活动)** 。  
   
 在苏州、长沙举办。  
 付费入场（价格不固定）。  
@@ -50,6 +52,7 @@ FumoOnly 在 中国苏州、长沙 举办的 FumoOnly 东方同人展会活动�
 主办方： **[FumoOnly组委会](./FumoOnly组委会.md)**   
   
 FumoOnly（活动，展会活动） - FumoOnly 在 中国苏州、长沙 举办的 FumoOnly 东方同人展会活动，目前共举办了2届
+
 ## 历届信息
 - 点击届数可进入对应分类页面。
 - 请注意，摊位数统计可能不准确。
@@ -63,15 +66,19 @@ FumoOnly（活动，展会活动） - FumoOnly 在 中国苏州、长沙 举办�
 </tbody></table>
 
 
+
 ## 历届宣传图
   
 网站首页使用的作为顶图或宣传图片的图片。
   
 
+
 ### 第一届至第二届
 - [](./文件-FumoOnly1插画.png.md)FumoOnly1-东方湖歌宴- [](./文件-FumoOnlyEX插画.jpg.md)FumoOnlyEX-长潭星夜觉
 
+
 ## 历届摊位图
+
 ### 第一届至第二届
 - [](./文件-FumoOnly1摊位图.jpg.md)FumoOnly1-东方湖歌宴- [](./文件-FumoOnlyEX摊位图.png.md)FumoOnlyEX-长潭星夜觉
 

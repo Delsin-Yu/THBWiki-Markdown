@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-kiss_my_heart封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/6/67/kiss_my_heart%E5%B0%81%E9%9D%A2.jpg/122px-kiss_my_heart%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="122" height="168" srcset="https://upload.thwiki.cc/thumb/6/67/kiss_my_heart%E5%B0%81%E9%9D%A2.jpg/183px-kiss_my_heart%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/6/67/kiss_my_heart%E5%B0%81%E9%9D%A2.jpg/244px-kiss_my_heart%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="424" data-file-height="584"></a><div class="cover-char">角色：<a href="./古明地恋.md" title="古明地恋">古明地恋</a>，<a href="./古明地觉.md" title="古明地觉">古明地觉</a></div></td>
@@ -17,8 +18,10 @@ kiss my heart（同人志，sonoteido，2010） - 2010年1月17日 由 sonoteido
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://ec.toranoana.jp/tora_r/ec/item/040010211155">虎穴</a></td></tr></tbody></table>
 
 
+
 ## Staff
 - さねよし帥子 (未找到链接)
+
 
 ## 评论
 - 作者

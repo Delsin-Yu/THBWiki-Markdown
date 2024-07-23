@@ -4,7 +4,8 @@
 
 Our Oath Of Office ，于 2014 年成立，主要制作 同人音乐 的日本同人社团，主催是 しょー，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -15,16 +16,19 @@ Our Oath Of Office ，于 2014 年成立，主要制作 同人音乐 的日本�
 
 
 
+
 ## 社团信息
 [](./文件-Our_Oath_Of_Officebanner.jpg.md)  [](./文件-Our_Oath_Of_Officebanner.jpg.md)banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Our Oath Of Office </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2014</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=%E3%81%97%E3%82%87%E3%83%BC&amp;action=edit&amp;redlink=1" class="new" title="しょー（页面不存在）">しょー</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="https://ooooffice.web.fc2.com/index.html">https://ooooffice.web.fc2.com/index.html</a> </td></tr></tbody></table>
 
 Our Oath Of Office（同人社团，同人音乐社团） - Our Oath Of Office ，于 2014 年成立，主要制作 同人音乐 的日本同人社团，主催是 しょー，当前状态为 活动
+
 ## 成员名单
 - しょー (未找到链接)
 - じゃくそん (未找到链接)
 - らいあん (未找到链接)
+
 
 ## 作品列表
 [](./Our_Oath_Of_Office_1st_EP.md)[Our Oath Of Office 1st EP](./Our_Oath_Of_Office_1st_EP.md)首发日期：2014-10-26 （M3-2014秋 (未找到链接)）EP （一般向）[](./Our_Oath_Of_Office_2nd_EP_No_Silver_Bullet.md)[Our Oath Of Office 2nd EP No Silver Bullet](./Our_Oath_Of_Office_2nd_EP_No_Silver_Bullet.md)首发日期：2015-10-25 （M3-2015秋 (未找到链接)）EP （一般向）[](./Re：Act.md)[Re:Act](./Re：Act.md)首发日期：2016-08-13 （Comic Market 90 (未找到链接)）全长 （一般向）[](./Feast_of_miracle.md)[Feast of miracle](./Feast_of_miracle.md)首发日期：2017-10-15 （第四回 博麗神社秋季例大祭 (未找到链接)）EP （一般向）[](./Between_Life_and_Death.md)[Between Life and Death](./Between_Life_and_Death.md)首发日期：2018-08-10 （Comic Market 94 (未找到链接)）EP （一般向）[](./Reverberation.md)[Reverberation](./Reverberation.md)首发日期：2018-12-30 （Comic Market 95 (未找到链接)）全长 （一般向）[](./TIME_WILL_TELL.md)[TIME WILL TELL](./TIME_WILL_TELL.md)首发日期：2019-08-12 （Comic Market 96 (未找到链接)）EP （一般向）[](./Last_Lunar_Eclipse.md)[Last Lunar Eclipse](./Last_Lunar_Eclipse.md)首发日期：2019-12-31 （Comic Market 97 (未找到链接)）EP （一般向）
@@ -44,6 +48,7 @@ Our Oath Of Office（同人社团，同人音乐社团） - Our Oath Of Office �
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 其他信息

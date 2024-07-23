@@ -4,7 +4,8 @@
 
 green sky ，主要制作 同人音乐 的日本同人社团，主催是 味付け玉子
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -21,18 +22,22 @@ green sky ，主要制作 同人音乐 的日本同人社团，主催是 味付�
 
 
 
+
 ## 社团信息
 文件:green skybanner.jpg (未找到链接)  banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> green sky </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>当前状态</b></td><td>未知</td></tr><tr><td><b>主催</b></td><td> <a href="./味付け玉子.md" title="味付け玉子">味付け玉子</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr></tbody></table>
 
 green sky（同人社团，同人音乐社团） - green sky ，主要制作 同人音乐 的日本同人社团，主催是 味付け玉子
+
 ## 成员名单
 - [味付け玉子](./味付け玉子.md) - Arrangement
   - [Twitter：@ajituketamago](https://twitter.com/ajituketamago)
 
 
+
 ## 作品列表
+
 ### 同人专辑
 [](./Little_Tipsy.md)[Little Tipsy](./Little_Tipsy.md)首发日期：2016-12-29 （Comic Market 91 (未找到链接)）全长 （一般向）[](./イロジカルライフ.md)[イロジカルライフ](./イロジカルライフ.md)首发日期：2016-10-09 （東方紅楼夢12 (未找到链接)）全长 （一般向）[](./傷痕ニ棲ム.md)[傷痕ニ棲ム](./傷痕ニ棲ム.md)首发日期：2017-05-07 （第十四回 博麗神社例大祭 (未找到链接)）单曲 （一般向）
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -43,9 +48,11 @@ green sky（同人社团，同人音乐社团） - green sky ，主要制作 同
 </table>
 
 
+
 ## 参展信息
 
 <table><tbody><tr><th class="活动页面">活动页面</th><th class="活动名称">活动名称</th><th class="日期">日期</th><th class="举办地点">举办地点</th><th class="摊位编号">摊位编号</th><th class="宣传页面">宣传页面</th><th class="备注">备注</th></tr><tr data-row-number="1" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#17" title="博丽神社例大祭">博丽神社例大祭#17</a></span></td><td class="活动名称 smwtype_txt">第十七回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2458986.5">2020-05-17</td><td class="举办地点 smwtype_txt">静冈双子展览馆</td><td class="摊位编号 smwtype_txt">K05a</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt">与<a href="./味玉定食.md" title="味玉定食">味玉定食</a>合摊</td></tr><tr data-row-number="2" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#16" title="博丽神社例大祭">博丽神社例大祭#16</a></span></td><td class="活动名称 smwtype_txt">第十六回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2458608.5">2019-05-05</td><td class="举办地点 smwtype_txt">东京Big Sight</td><td class="摊位编号 smwtype_txt">J33b</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt">与<a href="./味玉定食.md" title="味玉定食">味玉定食</a>合摊</td></tr><tr data-row-number="3" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#15" title="博丽神社例大祭">博丽神社例大祭#15</a></span></td><td class="活动名称 smwtype_txt">第十五回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2458244.5">2018-05-06</td><td class="举办地点 smwtype_txt">东京Big Sight 东123456展厅</td><td class="摊位编号 smwtype_txt">I47b</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt">与<a href="./味玉定食.md" title="味玉定食">味玉定食</a>合摊</td></tr><tr data-row-number="4" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E4%B8%9C%E6%96%B9%E7%BA%A2%E6%A5%BC%E6%A2%A6#13" title="东方红楼梦">东方红楼梦#13</a></span></td><td class="活动名称 smwtype_txt">東方紅楼夢13</td><td class="日期 smwtype_dat" data-sort-value="2458048.5">2017-10-22</td><td class="举办地点 smwtype_txt">大阪国际展览中心 4号馆・6号馆B区</td><td class="摊位编号 smwtype_txt">M-20a</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt">与<a href="./味玉定食.md" title="味玉定食">味玉定食</a>合摊</td></tr><tr data-row-number="5" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E7%A7%8B%E5%AD%A3%E4%BE%8B%E5%A4%A7%E7%A5%AD#4" title="博丽神社秋季例大祭">博丽神社秋季例大祭#4</a></span></td><td class="活动名称 smwtype_txt">第四回 博麗神社秋季例大祭</td><td class="日期 smwtype_dat" data-sort-value="2458041.5">2017-10-15</td><td class="举办地点 smwtype_txt">东京Big Sight 东123展厅</td><td class="摊位编号 smwtype_txt">い17b</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="6" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E7%A7%91%E5%AD%A6%E4%B8%96%E7%BA%AA%E7%9A%84%E9%9C%B2%E5%A4%A9%E5%92%96%E5%95%A1%E5%BA%A7#7" title="科学世纪的露天咖啡座">科学世纪的露天咖啡座#7</a></span></td><td class="活动名称 smwtype_txt">科学世紀のカフェテラス（第7回）</td><td class="日期 smwtype_dat" data-sort-value="2458014.5">2017-09-18</td><td class="举办地点 smwtype_txt">京都综合见本市会馆 大展厅</td><td class="摊位编号 smwtype_txt">倶06</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt">与<a href="./味玉定食.md" title="味玉定食">味玉定食</a>合摊</td></tr><tr data-row-number="7" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#14" title="博丽神社例大祭">博丽神社例大祭#14</a></span></td><td class="活动名称 smwtype_txt">第十四回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2457880.5">2017-05-07</td><td class="举办地点 smwtype_txt">东京Big Sight 东123456展厅</td><td class="摊位编号 smwtype_txt">う28b</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt">与<a href="./味玉定食.md" title="味玉定食">味玉定食</a>合摊</td></tr></tbody></table>
+
 
 
 ## 其他信息

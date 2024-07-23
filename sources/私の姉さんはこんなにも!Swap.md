@@ -18,6 +18,7 @@
 
 
 </center>
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-私の姉さんはこんなにも!Swap封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/8/8a/%E7%A7%81%E3%81%AE%E5%A7%89%E3%81%95%E3%82%93%E3%81%AF%E3%81%93%E3%82%93%E3%81%AA%E3%81%AB%E3%82%82%21Swap%E5%B0%81%E9%9D%A2.jpg/140px-%E7%A7%81%E3%81%AE%E5%A7%89%E3%81%95%E3%82%93%E3%81%AF%E3%81%93%E3%82%93%E3%81%AA%E3%81%AB%E3%82%82%21Swap%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="140" height="196" srcset="https://upload.thwiki.cc/thumb/8/8a/%E7%A7%81%E3%81%AE%E5%A7%89%E3%81%95%E3%82%93%E3%81%AF%E3%81%93%E3%82%93%E3%81%AA%E3%81%AB%E3%82%82%21Swap%E5%B0%81%E9%9D%A2.jpg/210px-%E7%A7%81%E3%81%AE%E5%A7%89%E3%81%95%E3%82%93%E3%81%AF%E3%81%93%E3%82%93%E3%81%AA%E3%81%AB%E3%82%82%21Swap%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/8/8a/%E7%A7%81%E3%81%AE%E5%A7%89%E3%81%95%E3%82%93%E3%81%AF%E3%81%93%E3%82%93%E3%81%AA%E3%81%AB%E3%82%82%21Swap%E5%B0%81%E9%9D%A2.jpg/280px-%E7%A7%81%E3%81%AE%E5%A7%89%E3%81%95%E3%82%93%E3%81%AF%E3%81%93%E3%82%93%E3%81%AA%E3%81%AB%E3%82%82%21Swap%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="2480" data-file-height="3469"></a><div class="cover-char">角色：<a href="./莉莉霍瓦特.md" title="莉莉霍瓦特">莉莉霍瓦特</a></div></td>
@@ -30,8 +31,10 @@
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=504983">蜜瓜</a></td></tr></tbody></table>
 
 
+
 ## Staff
 - ゆたまろ (未找到链接)
+
 
 ## 评论
   

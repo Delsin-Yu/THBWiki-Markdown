@@ -4,7 +4,8 @@
 
 Saga Novel ，于 2009 年成立，主要制作 同人音乐 的日本同人社团，主催是 シュン，当前状态为 休止
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -20,12 +21,14 @@ Saga Novel ，于 2009 年成立，主要制作 同人音乐 的日本同人社�
 
 
 
+
 ## 社团信息
 [](./文件-Saga_Novelbanner.jpg.md)  [](./文件-Saga_Novelbanner.jpg.md)banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Saga Novel </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2009-12-16</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>主催</b></td><td> <a href="./シュン.md" title="シュン">シュン</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://saganovel.info">http://saganovel.info</a> <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><small>（最后更新于2015年8月，<a rel="nofollow" class="external text" href="https://web.archive.org/web/20200111220741/http://saganovel.info:80/">缓存页面</a>）</small></td></tr></tbody></table>
 
 Saga Novel（同人社团，同人音乐社团） - Saga Novel ，于 2009 年成立，主要制作 同人音乐 的日本同人社团，主催是 シュン，当前状态为 休止
+
 ## 成员名单
 - [シュン](./シュン.md)：主催，Mixing，Mastering，Sound Programming
 - [うどんタイマーP](./うどんタイマーP.md)：演唱，编曲，吉他，贝斯，键盘
@@ -34,9 +37,11 @@ Saga Novel（同人社团，同人音乐社团） - Saga Novel ，于 2009 年�
 - [シイナフユキ](./シイナフユキ.md)：编曲，作词，吉他
 - Silve (未找到链接)：PV，设计，网页，作词
 
+
 ### 过去成员
 - shell (未找到链接)：vocal
 - じっく (未找到链接)：编曲
+
 
 ## 作品列表
 [](./紅魔歌月.md)[紅魔歌月](./紅魔歌月.md)首发日期：2010-09-19 （博麗神社例大祭SP1 (未找到链接)）SGNV-0001全长 （一般向）[](./妖奏幻夜.md)[妖奏幻夜](./妖奏幻夜.md)首发日期：2011-05-08 （第八回 博麗神社例大祭 (未找到链接)）SGNV-0002全长 （一般向）[](./永遠深月.md)[永遠深月](./永遠深月.md)首发日期：2011-10-16 （東方紅楼夢7 (未找到链接)）SGNV-0003全长 （一般向）[](./萃宴夜行.md)[萃宴夜行](./萃宴夜行.md)首发日期：2012-05-27 （第九回 博麗神社例大祭 (未找到链接)）SGNV-0004全长 （一般向）[](./花鳥風月_e.p..md)[花鳥風月 e.p.](./花鳥風月_e.p..md)首发日期：2012-08-11 （Comic Market 82 (未找到链接)）Demo （一般向）[](./花鳥風月（Saga_Novel）.md)[花鳥風月](./花鳥風月（Saga_Novel）.md)首发日期：2012-12-30 （Comic Market 83 (未找到链接)）SGNV-0005全长 （一般向）[](./文想夜曲.md)[文想夜曲](./文想夜曲.md)首发日期：2013-08-12 （Comic Market 84 (未找到链接)）SGNV-0006全长 （一般向）[](./風尋待月.md)[風尋待月](./風尋待月.md)首发日期：2014-05-11 （第十一回 博麗神社例大祭 (未找到链接)）SGVN-0007全长 （一般向）[](./緋染夜灯.md)[緋染夜灯](./緋染夜灯.md)首发日期：2014-12-29 （Comic Market 87 (未找到链接)）SGVN-0008全长 （一般向）[](./月黄泉の夢.md)[月黄泉の夢](./月黄泉の夢.md)首发日期：2015-08-14 （Comic Market 88 (未找到链接)）SGNV-0009全长 （一般向）
@@ -60,6 +65,7 @@ Saga Novel（同人社团，同人音乐社团） - Saga Novel ，于 2009 年�
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 参展信息

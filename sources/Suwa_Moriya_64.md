@@ -6,12 +6,14 @@
 
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 软件信息](#软件信息)
 - [2 Staff](#Staff)
 - [3 内容页面](#内容页面)
 - [4 评论](#评论)
+
 
 
 
@@ -40,6 +42,7 @@ Suwa Moriya 64（同人游戏，Shpuld，2021） - 2021年2月6日 由 Shpuld �
 </tbody></table>
 
 
+
 ## Staff
 Development
 : Shpuld （[itch.io: shp](https://shp.itch.io/)）
@@ -48,11 +51,13 @@ Music
 Voice
 : Nightingalle （[https://shpposter.club/Nightingalle](https://shpposter.club/Nightingalle)）
 
+
 ## 内容页面
 - 游戏设定与剧情 (未找到链接)
 - 攻略 (未找到链接)
 - 其他信息 (未找到链接)
 - 原声集：[Beats by Touhou](./Beats_by_Touhou.md)
+
 
 ## 评论
 

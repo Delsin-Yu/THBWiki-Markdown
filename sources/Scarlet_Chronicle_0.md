@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Scarlet_Chronicle_0封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/1/1e/Scarlet_Chronicle_0%E5%B0%81%E9%9D%A2.jpg/117px-Scarlet_Chronicle_0%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="117" height="196" srcset="https://upload.thwiki.cc/thumb/1/1e/Scarlet_Chronicle_0%E5%B0%81%E9%9D%A2.jpg/176px-Scarlet_Chronicle_0%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/1/1e/Scarlet_Chronicle_0%E5%B0%81%E9%9D%A2.jpg/235px-Scarlet_Chronicle_0%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="362" data-file-height="603"></a><div class="cover-char">角色：<a href="./小恶魔.md" title="小恶魔">小恶魔</a>，<a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a>，<a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a></div></td>
@@ -14,11 +15,13 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://suihanjar.web.fc2.com/C84.html">http://suihanjar.web.fc2.com/C84.html</a></td></tr></tbody></table>
 
 Scarlet Chronicle 0（同人志，すいはんじゃー，2013） - 2013年8月12日 由 すいはんじゃー 于 Comic Market 84 发布的小说同人志，新书尺寸一共94页，分级为 一般向
+
 ## Staff
 作者
 : キィ （[すいはんじゃー](./すいはんじゃー.md)）
 封面
 : サクラメ （[あひる禁猟区](./あひる禁猟区.md)）
+
 
 ## 评论
 

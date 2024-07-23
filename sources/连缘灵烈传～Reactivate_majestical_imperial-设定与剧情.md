@@ -4,6 +4,7 @@
 
 トリック・ノスタルジー
 
+
 ## 目录
 
 - [1 附带文档](#附带文档)
@@ -14,12 +15,15 @@
 
 
 
+
 ## 附带文档
 - [readme](./连缘灵烈传～Reactivate_majestical_imperial-设定与剧情-readme.md)
+
 
 ## 故事背景
 - [故事背景](./连缘灵烈传～Reactivate_majestical_imperial-设定与剧情-故事背景.md)
 - [Ex故事背景](./连缘灵烈传～Reactivate_majestical_imperial-设定与剧情-Ex故事背景.md)
+
 
 ## 游戏对话
 - [神社组 游戏对话/结局](./游戏对话-连缘灵烈传～Reactivate_majestical_imperial-神社组.md)
@@ -31,6 +35,7 @@
 - [开瓶组 Ex游戏对话](./游戏对话-连缘灵烈传～Reactivate_majestical_imperial-开瓶器组_ExStory.md)
 - [奴隶商人组 Ex游戏对话](./游戏对话-连缘灵烈传～Reactivate_majestical_imperial-奴隶商人组_ExStory.md)
 - [？？？？？ Ex游戏对话](./游戏对话-连缘灵烈传～Reactivate_majestical_imperial-？？？组_ExStory.md)
+
 
 ## 词条导航
   

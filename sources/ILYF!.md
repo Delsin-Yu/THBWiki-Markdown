@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-ILYF!封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/3/30/ILYF%21%E5%B0%81%E9%9D%A2.jpg/103px-ILYF%21%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="103" height="140" srcset="https://upload.thwiki.cc/thumb/3/30/ILYF%21%E5%B0%81%E9%9D%A2.jpg/155px-ILYF%21%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/3/30/ILYF%21%E5%B0%81%E9%9D%A2.jpg/206px-ILYF%21%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="283" data-file-height="384"></a><div class="cover-char">角色：<a href="./红美铃.md" title="红美铃">红美铃</a>，<a href="/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C" title="十六夜咲夜">十六夜咲夜</a></div></td>
@@ -13,9 +14,12 @@
 </tr><tr><td class="label">首发日期</td><td>2012-05-27&#160;（<a href="/展会作品列表?e=%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD%239">第九回 博麗神社例大祭</a>）</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>A5</td></tr><tr><td class="label">页数</td><td>36P</td></tr></tbody></table>
 
 ILYF!（同人志，arg，2012） - 2012年5月27日 由 arg 于 博丽神社例大祭9 发布的同人志，A5尺寸一共36页，分级为 一般向
+
 ## 预览
+
 ## Staff
 - apt (未找到链接)
+
 
 ## 评论
 

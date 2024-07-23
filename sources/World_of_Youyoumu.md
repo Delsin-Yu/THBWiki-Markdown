@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2">无封面</td>
@@ -15,6 +16,7 @@
 World of Youyoumu（同人专辑，Narrow Valley Records，2018） - 2018年4月29日 由 Narrow Valley Records 于 M3-2018春 发布的EP同人专辑，曲目主要风格是 Trance，分级为 一般向
 
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://s-male.booth.pm/items/554731">Booth</a></td></tr></tbody></table>
+
 
 
 ## Staff
@@ -29,10 +31,12 @@ Design
 Illustration
 : 画师 （[网址 社团]）
 
+
 ## 曲目列表
 
 <table><tbody><tr><td id="1" class="infoYL"><b>01</b></td><td id="winter_journey" colspan="2" class="title">winter journey<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=s-male&amp;fromwiki=World_of_Youyoumu"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=s-male&amp;action=edit&amp;redlink=1" class="new" title="s-male（页面不存在）">s-male</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，s-male&amp;fromwiki=World_of_Youyoumu"><span></span></a></span></td></tr>
 <tr><td id="2" class="infoYL"><b>02</b></td><td id="weeping_cherry" colspan="2" class="title">weeping cherry<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=s-male&amp;fromwiki=World_of_Youyoumu"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=s-male&amp;action=edit&amp;redlink=1" class="new" title="s-male（页面不存在）">s-male</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，s-male&amp;fromwiki=World_of_Youyoumu"><span></span></a></span></td></tr></tbody></table>
+
 
 
 ## 评论

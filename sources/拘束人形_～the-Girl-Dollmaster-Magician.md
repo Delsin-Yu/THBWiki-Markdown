@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-拘束人形_～the-Girl-Dollmaster-Magician封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/9/98/%E6%8B%98%E6%9D%9F%E4%BA%BA%E5%BD%A2_%EF%BD%9Ethe-Girl-Dollmaster-Magician%E5%B0%81%E9%9D%A2.jpg/131px-%E6%8B%98%E6%9D%9F%E4%BA%BA%E5%BD%A2_%EF%BD%9Ethe-Girl-Dollmaster-Magician%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="131" height="224" srcset="https://upload.thwiki.cc/thumb/9/98/%E6%8B%98%E6%9D%9F%E4%BA%BA%E5%BD%A2_%EF%BD%9Ethe-Girl-Dollmaster-Magician%E5%B0%81%E9%9D%A2.jpg/197px-%E6%8B%98%E6%9D%9F%E4%BA%BA%E5%BD%A2_%EF%BD%9Ethe-Girl-Dollmaster-Magician%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/9/98/%E6%8B%98%E6%9D%9F%E4%BA%BA%E5%BD%A2_%EF%BD%9Ethe-Girl-Dollmaster-Magician%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="250" data-file-height="427"></a><div class="cover-char">角色：<a href="./爱丽丝·玛格特洛依德.md" title="爱丽丝·玛格特洛依德">爱丽丝·玛格特洛依德</a></div></td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://arami.rdy.jp/book/gdm.html">http://arami.rdy.jp/book/gdm.html</a></td></tr></tbody></table>
 
 拘束人形 ～the-Girl-Dollmaster-Magician（同人志，荒御灵，2008） - 2008年5月25日 由 荒御灵 于 博丽神社例大祭5 发布的小说同人志，新书版尺寸一共146页，登场人物有 爱丽丝·玛格特洛依德，分级为 一般向
+
 ## Staff
 著作・デザイン
 : 和泉幸奇
@@ -25,6 +27,7 @@
 : やままやー
 印刷
 : コミックモール
+
 
 ## 评论
   

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-紅燐：Re封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/4/4d/%E7%B4%85%E7%87%90%EF%BC%9ARe%E5%B0%81%E9%9D%A2.jpg/224px-%E7%B4%85%E7%87%90%EF%BC%9ARe%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="224" srcset="https://upload.thwiki.cc/thumb/4/4d/%E7%B4%85%E7%87%90%EF%BC%9ARe%E5%B0%81%E9%9D%A2.jpg/336px-%E7%B4%85%E7%87%90%EF%BC%9ARe%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/4/4d/%E7%B4%85%E7%87%90%EF%BC%9ARe%E5%B0%81%E9%9D%A2.jpg/448px-%E7%B4%85%E7%87%90%EF%BC%9ARe%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1024" data-file-height="1024"></a><div class="cover-char">角色：<a href="./火焰猫燐.md" title="火焰猫燐">火焰猫燐</a></div></td>
@@ -17,6 +18,7 @@
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://kcheeen.booth.pm/items/4230397">BoothDL</a></td></tr></tbody></table>
 
 
+
 ## Staff
   
  **Arrangement**   
@@ -24,9 +26,11 @@
 <table><tbody><tr><td><a href="./kaκe.md" title="kaκe" unred="">Kake</a></td><td></td><td>Tr.1</td></tr></tbody></table>
 
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="紅燐:Re" colspan="2" class="title">紅燐:Re<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Kake&amp;ogmusic=死体旅行　～ Be of good cheer!&amp;fromwiki=紅燐:Re"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./kaκe.md" title="kaκe" unred="">Kake</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Kake&amp;fromwiki=紅燐:Re"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=死体旅行　～ Be of good cheer!&amp;fromwiki=紅燐:Re"><span></span></a></span><div class="ogmusic"><a href="/%E6%AD%BB%E4%BD%93%E6%97%85%E8%A1%8C_%EF%BD%9E_Be_of_good_cheer!" class="mw-redirect" title="死体旅行 ～ Be of good cheer!">死体旅行　～ Be of good cheer!</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E5%9C%B0%E7%81%B5%E6%AE%BF_%EF%BD%9E_Subterranean_Animism." class="mw-redirect" title="东方地灵殿 ～ Subterranean Animism.">东方地灵殿　～ Subterranean Animism.</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="紅燐:Re" colspan="2" class="title">紅燐:Re<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Kake&amp;ogmusic=死体旅行　～ Be of good cheer!&amp;fromwiki=紅燐:Re"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./kaκe.md" title="kaκe" unred="">Kake</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Kake&amp;fromwiki=紅燐:Re"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=死体旅行　～ Be of good cheer!&amp;fromwiki=紅燐:Re"><span></span></a></span><div class="ogmusic"><a href="./死体旅行_～_Be_of_good_cheer!.md" class="mw-redirect" title="死体旅行 ～ Be of good cheer!">死体旅行　～ Be of good cheer!</a></div><div class="source"><a href="./东方地灵殿_～_Subterranean_Animism..md" class="mw-redirect" title="东方地灵殿 ～ Subterranean Animism.">东方地灵殿　～ Subterranean Animism.</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

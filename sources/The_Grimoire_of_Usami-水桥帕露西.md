@@ -14,7 +14,7 @@ The_Grimoire_of_Usami | 使用了翻译表的页面 | 宇佐见的魔法书 | �
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./The_Grimoire_of_Usami-黑谷山女.md" title="The Grimoire of Usami/黑谷山女">黑谷山女</a>&#160;
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="/%E5%AE%87%E4%BD%90%E8%A7%81%E7%9A%84%E9%AD%94%E6%B3%95%E4%B9%A6" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a>&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="./宇佐见的魔法书.md" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a>&#160;
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">&#160;<a href="./The_Grimoire_of_Usami-键山雏.md" title="The Grimoire of Usami/键山雏">键山雏</a>
 </td>
@@ -25,7 +25,7 @@ The_Grimoire_of_Usami | 使用了翻译表的页面 | 宇佐见的魔法书 | �
 </center>
 <center>第099页</center>
 
-<table><tbody><tr align="left" valign="top"><td style="min-width:200px;"><div class="tt-zhh tt-type-setting" lang="zh"><div class="poem"><a href="/%E5%AB%89%E5%A6%92%E3%80%8CJealousy_Bomber%E3%80%8D" class="mw-redirect" title="嫉妒「Jealousy Bomber」">嫉妒「Jealousy Bomber」</a></div></div><div class="tt-zh tt-type-setting" lang="zh"><div class="poem">使用者：<a href="./水桥帕露西.md" title="水桥帕露西">水桥帕露西</a></div></div><div class="tt-zh tt-type-setting" lang="zh"><div class="poem">让人嫉妒……<br>明明地上在开心地办烟花大会，<br>居然禁止地底居民参加。<br>如果没有那个小人的话像我这种人就只能一直在桥下寂寞地<br>诅咒了……</div></div><div class="tt-header tt-type-setting" lang="zh"><div class="poem">鬼人正邪（0）</div></div><div class="tt-zh tt-type-setting" lang="zh"><div class="poem">噢噢，共感强的人类们在心痛哦。看着真爽。</div></div><div class="tt-header tt-type-setting" lang="zh"><div class="poem">少名针妙丸（0）</div></div><div class="tt-zh tt-type-setting" lang="zh"><div class="poem">天邪鬼的你说看着爽就是说……哎，虽然嘴上说着反对但我也认识那种家伙啊。</div></div><div class="tt-header tt-type-setting" lang="zh"><div class="poem">宇佐见堇子</div></div><div class="tt-zh tt-type-setting" lang="zh"><div class="poem">总感觉心头一紧……那是啥啊，那个心形的弹幕。</div></div></td><td width="200px"><div class="thumb tleft"><div class="thumbinner" style="width:202px;"><a href="./文件-The_Grimoire_of_Usami（水桥帕露西1）.jpg.md" class="image"><img alt="" src="https://upload.thwiki.cc/thumb/e/ee/The_Grimoire_of_Usami%EF%BC%88%E6%B0%B4%E6%A1%A5%E5%B8%95%E9%9C%B2%E8%A5%BF1%EF%BC%89.jpg/200px-The_Grimoire_of_Usami%EF%BC%88%E6%B0%B4%E6%A1%A5%E5%B8%95%E9%9C%B2%E8%A5%BF1%EF%BC%89.jpg" decoding="async" loading="lazy" width="200" height="284" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/e/ee/The_Grimoire_of_Usami%EF%BC%88%E6%B0%B4%E6%A1%A5%E5%B8%95%E9%9C%B2%E8%A5%BF1%EF%BC%89.jpg/300px-The_Grimoire_of_Usami%EF%BC%88%E6%B0%B4%E6%A1%A5%E5%B8%95%E9%9C%B2%E8%A5%BF1%EF%BC%89.jpg 1.5x, https://upload.thwiki.cc/thumb/e/ee/The_Grimoire_of_Usami%EF%BC%88%E6%B0%B4%E6%A1%A5%E5%B8%95%E9%9C%B2%E8%A5%BF1%EF%BC%89.jpg/400px-The_Grimoire_of_Usami%EF%BC%88%E6%B0%B4%E6%A1%A5%E5%B8%95%E9%9C%B2%E8%A5%BF1%EF%BC%89.jpg 2x" data-file-width="1266" data-file-height="1800"></a>  <div class="thumbcaption"><div class="magnify"><a href="./文件-The_Grimoire_of_Usami（水桥帕露西1）.jpg.md" class="internal" title="放大"></a></div>P099</div></div></div></td></tr></tbody></table>
+<table><tbody><tr align="left" valign="top"><td style="min-width:200px;"><div class="tt-zhh tt-type-setting" lang="zh"><div class="poem"><a href="./嫉妒「Jealousy_Bomber」.md" class="mw-redirect" title="嫉妒「Jealousy Bomber」">嫉妒「Jealousy Bomber」</a></div></div><div class="tt-zh tt-type-setting" lang="zh"><div class="poem">使用者：<a href="./水桥帕露西.md" title="水桥帕露西">水桥帕露西</a></div></div><div class="tt-zh tt-type-setting" lang="zh"><div class="poem">让人嫉妒……<br>明明地上在开心地办烟花大会，<br>居然禁止地底居民参加。<br>如果没有那个小人的话像我这种人就只能一直在桥下寂寞地<br>诅咒了……</div></div><div class="tt-header tt-type-setting" lang="zh"><div class="poem">鬼人正邪（0）</div></div><div class="tt-zh tt-type-setting" lang="zh"><div class="poem">噢噢，共感强的人类们在心痛哦。看着真爽。</div></div><div class="tt-header tt-type-setting" lang="zh"><div class="poem">少名针妙丸（0）</div></div><div class="tt-zh tt-type-setting" lang="zh"><div class="poem">天邪鬼的你说看着爽就是说……哎，虽然嘴上说着反对但我也认识那种家伙啊。</div></div><div class="tt-header tt-type-setting" lang="zh"><div class="poem">宇佐见堇子</div></div><div class="tt-zh tt-type-setting" lang="zh"><div class="poem">总感觉心头一紧……那是啥啊，那个心形的弹幕。</div></div></td><td width="200px"><div class="thumb tleft"><div class="thumbinner" style="width:202px;"><a href="./文件-The_Grimoire_of_Usami（水桥帕露西1）.jpg.md" class="image"><img alt="" src="https://upload.thwiki.cc/thumb/e/ee/The_Grimoire_of_Usami%EF%BC%88%E6%B0%B4%E6%A1%A5%E5%B8%95%E9%9C%B2%E8%A5%BF1%EF%BC%89.jpg/200px-The_Grimoire_of_Usami%EF%BC%88%E6%B0%B4%E6%A1%A5%E5%B8%95%E9%9C%B2%E8%A5%BF1%EF%BC%89.jpg" decoding="async" loading="lazy" width="200" height="284" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/e/ee/The_Grimoire_of_Usami%EF%BC%88%E6%B0%B4%E6%A1%A5%E5%B8%95%E9%9C%B2%E8%A5%BF1%EF%BC%89.jpg/300px-The_Grimoire_of_Usami%EF%BC%88%E6%B0%B4%E6%A1%A5%E5%B8%95%E9%9C%B2%E8%A5%BF1%EF%BC%89.jpg 1.5x, https://upload.thwiki.cc/thumb/e/ee/The_Grimoire_of_Usami%EF%BC%88%E6%B0%B4%E6%A1%A5%E5%B8%95%E9%9C%B2%E8%A5%BF1%EF%BC%89.jpg/400px-The_Grimoire_of_Usami%EF%BC%88%E6%B0%B4%E6%A1%A5%E5%B8%95%E9%9C%B2%E8%A5%BF1%EF%BC%89.jpg 2x" data-file-width="1266" data-file-height="1800"></a>  <div class="thumbcaption"><div class="magnify"><a href="./文件-The_Grimoire_of_Usami（水桥帕露西1）.jpg.md" class="internal" title="放大"></a></div>P099</div></div></div></td></tr></tbody></table>
 
 
 
@@ -37,7 +37,7 @@ The_Grimoire_of_Usami | 使用了翻译表的页面 | 宇佐见的魔法书 | �
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./The_Grimoire_of_Usami-黑谷山女.md" title="The Grimoire of Usami/黑谷山女">黑谷山女</a>&#160;
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="/%E5%AE%87%E4%BD%90%E8%A7%81%E7%9A%84%E9%AD%94%E6%B3%95%E4%B9%A6" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a>&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="./宇佐见的魔法书.md" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a>&#160;
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">&#160;<a href="./The_Grimoire_of_Usami-键山雏.md" title="The Grimoire of Usami/键山雏">键山雏</a>
 </td>
@@ -46,6 +46,7 @@ The_Grimoire_of_Usami | 使用了翻译表的页面 | 宇佐见的魔法书 | �
 
   
 </center>
+
 
 ## 词条导航
   

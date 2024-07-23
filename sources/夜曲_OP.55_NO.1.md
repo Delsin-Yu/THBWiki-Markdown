@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-夜曲_OP.55_NO.1封面.webp.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/d/db/%E5%A4%9C%E6%9B%B2_OP.55_NO.1%E5%B0%81%E9%9D%A2.webp/196px-%E5%A4%9C%E6%9B%B2_OP.55_NO.1%E5%B0%81%E9%9D%A2.webp" decoding="async" loading="lazy" width="196" height="132" srcset="https://upload.thwiki.cc/thumb/d/db/%E5%A4%9C%E6%9B%B2_OP.55_NO.1%E5%B0%81%E9%9D%A2.webp/294px-%E5%A4%9C%E6%9B%B2_OP.55_NO.1%E5%B0%81%E9%9D%A2.webp 1.5x, https://upload.thwiki.cc/thumb/d/db/%E5%A4%9C%E6%9B%B2_OP.55_NO.1%E5%B0%81%E9%9D%A2.webp/392px-%E5%A4%9C%E6%9B%B2_OP.55_NO.1%E5%B0%81%E9%9D%A2.webp 2x" data-file-width="3786" data-file-height="2552"></a><div class="cover-char">角色：<a href="./宫出口瑞灵.md" title="宫出口瑞灵">宫出口瑞灵</a></div></td>
@@ -14,14 +15,21 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://item.taobao.com/item.htm?id=734413778595">https://item.taobao.com/item.htm?id=734413778595</a></td></tr></tbody></table>
 
 夜曲 OP.55 NO.1（同人志，梦幻泡影，2023） - 2023年8月19日 由 梦幻泡影 于 魅知幻想博览会8 发布的合同志同人志，A5尺寸一共290页，分级为 一般向
+
 ## 简介＆预览
-<unsupported html=blockquote>
+<blockquote><p><i>黑色高楼、霓虹灯、灰色天际线、廉价代餐、切割身体、燃烧神明。</i>
+</p><p><i>最开始我默不作声，之后幻想乡变成了一台机器，用人们崩溃的精神和破碎的梦想以及民脂民膏作为燃料的机器。不能再装聋作哑了，我们必须做点什么，毁坏、阻止或者铭记这一切。</i>
+</p>
+<p><i>现在，我要做点什么，你要加入我吗？</i></p></blockquote>
+
 - [](./文件-夜曲_OP.55_NO.1预览图1.jpg.md)- [](./文件-夜曲_OP.55_NO.1预览图2.jpg.md)- [](./文件-夜曲_OP.55_NO.1预览图3.jpg.md)- [](./文件-夜曲_OP.55_NO.1预览图4.jpg.md)- [](./文件-夜曲_OP.55_NO.1预览图5.jpg.md)- [](./文件-夜曲_OP.55_NO.1预览图6.jpg.md)- [](./文件-夜曲_OP.55_NO.1预览图7.jpg.md)- [](./文件-夜曲_OP.55_NO.1预览图8.jpg.md)
+
 
 ## Staff
   
  **敬请期待~** 
   
+
 
 ## 宣发
 ```

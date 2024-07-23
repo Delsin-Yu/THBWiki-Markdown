@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=Bloodstained_Nocturne_feat.U%E5%B0%81%E9%9D%A2.jpg" class="new" title="文件:Bloodstained Nocturne feat.U封面.jpg">封面图片</a></td>
@@ -14,11 +15,13 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/matsuken_undead/status/1784921786586697980">https://twitter.com/matsuken_undead/status/1784921786586697980</a></td></tr></tbody></table>
 
 Bloodstained Nocturne feat.U（同人专辑，UNDEAD CORPORATION，2024） - 2024年5月3日 由 UNDEAD CORPORATION 于 博丽神社例大祭21 发布的单曲同人专辑，分级为 一般向
+
 ## Staff
   
  **Vocal**   
 
 <table><tbody><tr><td><a href="/index.php?title=U&amp;action=edit&amp;redlink=1" class="new" title="U（页面不存在）">U</a></td><td></td><td>Tr.1</td></tr></tbody></table>
+
 
 
 ## 试听
@@ -27,9 +30,11 @@ Bloodstained Nocturne feat.U（同人专辑，UNDEAD CORPORATION，2024） - 202
 
   
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoRD"><b>01</b></td><td id="Bloodstained_Nocturne" colspan="2" class="title"><span class="new" title="（歌词页面不存在）"><a href="/index.php?title=%E6%AD%8C%E8%AF%8D:Bloodstained_Nocturne&amp;boilerplate=模板:页面模板/曲目歌词&amp;action=edit">Bloodstained Nocturne</a></span><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=U&amp;ogmusic=亡き王女の為のセプテット&amp;fromwiki=Bloodstained_Nocturne_feat.U"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="/index.php?title=U&amp;action=edit&amp;redlink=1" class="new" title="U（页面不存在）">U</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=U&amp;fromwiki=Bloodstained_Nocturne_feat.U"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=亡き王女の為のセプテット&amp;fromwiki=Bloodstained_Nocturne_feat.U"><span></span></a></span><div class="ogmusic"><a href="/%E4%BA%A1%E3%81%8D%E7%8E%8B%E5%A5%B3%E3%81%AE%E7%82%BA%E3%81%AE%E3%82%BB%E3%83%97%E3%83%86%E3%83%83%E3%83%88" class="mw-redirect" title="亡き王女の為のセプテット">亡き王女の為のセプテット</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E7%BA%A2%E9%AD%94%E4%B9%A1_%EF%BD%9E_the_Embodiment_of_Scarlet_Devil." class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoRD"><b>01</b></td><td id="Bloodstained_Nocturne" colspan="2" class="title"><span class="new" title="（歌词页面不存在）"><a href="/index.php?title=%E6%AD%8C%E8%AF%8D:Bloodstained_Nocturne&amp;boilerplate=模板:页面模板/曲目歌词&amp;action=edit">Bloodstained Nocturne</a></span><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=U&amp;ogmusic=亡き王女の為のセプテット&amp;fromwiki=Bloodstained_Nocturne_feat.U"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="/index.php?title=U&amp;action=edit&amp;redlink=1" class="new" title="U（页面不存在）">U</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=U&amp;fromwiki=Bloodstained_Nocturne_feat.U"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=亡き王女の為のセプテット&amp;fromwiki=Bloodstained_Nocturne_feat.U"><span></span></a></span><div class="ogmusic"><a href="./亡き王女の為のセプテット.md" class="mw-redirect" title="亡き王女の為のセプテット">亡き王女の為のセプテット</a></div><div class="source"><a href="./东方红魔乡_～_the_Embodiment_of_Scarlet_Devil..md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

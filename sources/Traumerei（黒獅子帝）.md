@@ -18,6 +18,7 @@
 
 
 </center>
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Traumerei（黒獅子帝）封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/4/45/Traumerei%EF%BC%88%E9%BB%92%E7%8D%85%E5%AD%90%E5%B8%9D%EF%BC%89%E5%B0%81%E9%9D%A2.png/140px-Traumerei%EF%BC%88%E9%BB%92%E7%8D%85%E5%AD%90%E5%B8%9D%EF%BC%89%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="140" height="99" srcset="https://upload.thwiki.cc/thumb/4/45/Traumerei%EF%BC%88%E9%BB%92%E7%8D%85%E5%AD%90%E5%B8%9D%EF%BC%89%E5%B0%81%E9%9D%A2.png/210px-Traumerei%EF%BC%88%E9%BB%92%E7%8D%85%E5%AD%90%E5%B8%9D%EF%BC%89%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/4/45/Traumerei%EF%BC%88%E9%BB%92%E7%8D%85%E5%AD%90%E5%B8%9D%EF%BC%89%E5%B0%81%E9%9D%A2.png/280px-Traumerei%EF%BC%88%E9%BB%92%E7%8D%85%E5%AD%90%E5%B8%9D%EF%BC%89%E5%B0%81%E9%9D%A2.png 2x" data-file-width="1000" data-file-height="708"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>，<a href="./爱丽丝·玛格特洛依德.md" title="爱丽丝·玛格特洛依德">爱丽丝·玛格特洛依德</a>，<a href="/%E7%88%B1%E4%B8%BD%E4%B8%9D%C2%B7%E7%8E%9B%E6%A0%BC%E7%89%B9%E6%B4%9B%E4%BE%9D%E5%BE%B7#上海人偶" title="爱丽丝·玛格特洛依德">上海人偶</a>，<a href="./封兽鵺.md" title="封兽鵺">封兽鵺</a>，<a href="./丰聪耳神子.md" title="丰聪耳神子">丰聪耳神子</a></div></td>
@@ -26,8 +27,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/38826111">https://www.pixiv.net/artworks/38826111</a></td></tr></tbody></table>
 
 Traumerei（同人志，黒獅子帝，2013） - 2013年10月13日 由 黒獅子帝 于 东方红楼梦9 发布的画集同人志，分级为 一般向
+
 ## Staff
 - カイザ閣下 (未找到链接)
+
 
 ## 评论
 

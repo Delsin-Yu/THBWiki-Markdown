@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-幽乐墨樱坠--Sakura_in_symphony封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/e/ef/%E5%B9%BD%E4%B9%90%E5%A2%A8%E6%A8%B1%E5%9D%A0--Sakura_in_symphony%E5%B0%81%E9%9D%A2.jpg/142px-%E5%B9%BD%E4%B9%90%E5%A2%A8%E6%A8%B1%E5%9D%A0--Sakura_in_symphony%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="142" height="196" srcset="https://upload.thwiki.cc/thumb/e/ef/%E5%B9%BD%E4%B9%90%E5%A2%A8%E6%A8%B1%E5%9D%A0--Sakura_in_symphony%E5%B0%81%E9%9D%A2.jpg/214px-%E5%B9%BD%E4%B9%90%E5%A2%A8%E6%A8%B1%E5%9D%A0--Sakura_in_symphony%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/e/ef/%E5%B9%BD%E4%B9%90%E5%A2%A8%E6%A8%B1%E5%9D%A0--Sakura_in_symphony%E5%B0%81%E9%9D%A2.jpg/285px-%E5%B9%BD%E4%B9%90%E5%A2%A8%E6%A8%B1%E5%9D%A0--Sakura_in_symphony%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="509" data-file-height="700"></a><div class="cover-char">角色：<a href="./西行寺幽幽子.md" title="西行寺幽幽子">西行寺幽幽子</a></div></td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://tdhx2007.blog.163.com/blog/static/56403010201001652822134/">http://tdhx2007.blog.163.com/blog/static/56403010201001652822134/</a><br><span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><small>（<a rel="nofollow" class="external text" href="https://web.archive.org/web/20170704145101/http://tdhx2007.blog.163.com/blog/static/56403010201001652822134/">缓存页面</a>）</small></td></tr></tbody></table>
 
 幽乐墨樱坠--Sakura in symphony（同人志，U235核燃动力，2010） - 2010年2月20日 由 U235核燃动力 于 YACA29 发布的画集/漫画/小说同人志，A4尺寸一共108页，分级为 一般向
+
 ## Staff
 主催
 : 香香 (未找到链接)
@@ -37,7 +39,7 @@
 : 谜肘 (未找到链接)
 : 泥飘咸菜 (未找到链接)
 : 工口牛 (未找到链接)
-: 海猫氢弹库 (未找到链接)
+: [海猫氢弹库](./海猫氢弹库.md)
 : 黑华诞 (未找到链接)
 : 敬 (未找到链接)
 : 天使梦魔 (未找到链接)
@@ -51,6 +53,7 @@
 : 永远的菜鸟 (未找到链接)
 小说/文案
 : lastsep (未找到链接)
+
 
 ## 评论
 

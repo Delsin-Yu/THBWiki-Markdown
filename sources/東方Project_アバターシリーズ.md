@@ -6,12 +6,14 @@
 
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 软件信息](#软件信息)
 - [2 概述](#概述)
 - [3 每月头像](#每月头像)
 - [4 评论](#评论)
+
 
 
 
@@ -28,12 +30,14 @@
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://store.playstation.com/ja-jp/product/JP0704-CUSA05016_00-PARENT0000000000">PlayStation</a></td></tr></tbody></table>
 
 
+
 ## 概述
   
 [Play,Doujin!](./Play,Doujin!.md)推出的PlayStation专用东方Project收费头像，从2016年3月起每个月更新一批头像，头像涵盖官方游戏、音乐CD、漫画、小说等作品的角色。  
 
 购买后需要在PlayStation®4上进行切换头像操作。
   
+
 
 ## 每月头像
 
@@ -85,7 +89,7 @@
 <th>发售日期</th><td>2016年4月22日</td>
 </tr> 
 <tr>
-<th>角色</th><td colspan="3"><a href="./莉格露·奈特巴格.md" title="莉格露·奈特巴格">莉格露·奈特巴格</a>、<a href="./米斯蒂娅·萝蕾拉.md" title="米斯蒂娅·萝蕾拉">米斯蒂娅·萝蕾拉</a>、<a href="./上白泽慧音.md" title="上白泽慧音">上白泽慧音</a>、<a href="/%E5%9B%A0%E5%B9%A1%E5%A4%A9%E4%B8%BA" class="mw-redirect" title="因幡天为">因幡天为</a>、<a href="./铃仙·优昙华院·因幡.md" title="铃仙·优昙华院·因幡">铃仙·优昙华院·因幡</a>、<a href="./八意永琳.md" title="八意永琳">八意永琳</a>、<a href="./蓬莱山辉夜.md" title="蓬莱山辉夜">蓬莱山辉夜</a>、<a href="./藤原妹红.md" title="藤原妹红">藤原妹红</a></td>
+<th>角色</th><td colspan="3"><a href="./莉格露·奈特巴格.md" title="莉格露·奈特巴格">莉格露·奈特巴格</a>、<a href="./米斯蒂娅·萝蕾拉.md" title="米斯蒂娅·萝蕾拉">米斯蒂娅·萝蕾拉</a>、<a href="./上白泽慧音.md" title="上白泽慧音">上白泽慧音</a>、<a href="./因幡天为.md" class="mw-redirect" title="因幡天为">因幡天为</a>、<a href="./铃仙·优昙华院·因幡.md" title="铃仙·优昙华院·因幡">铃仙·优昙华院·因幡</a>、<a href="./八意永琳.md" title="八意永琳">八意永琳</a>、<a href="./蓬莱山辉夜.md" title="蓬莱山辉夜">蓬莱山辉夜</a>、<a href="./藤原妹红.md" title="藤原妹红">藤原妹红</a></td>
 <th>价格</th><td>360日元</td>
 </tr>
 <tr>
@@ -115,7 +119,7 @@
 <th>发售日期</th><td>2016年6月24日</td>
 </tr> 
 <tr>
-<th>角色</th><td colspan="3"><a href="./玛艾露贝莉·赫恩.md" title="玛艾露贝莉·赫恩">玛艾露贝莉·赫恩</a>、<a href="./宇佐见莲子.md" title="宇佐见莲子">宇佐见莲子</a>、<a href="./森近霖之助.md" title="森近霖之助">森近霖之助</a>、<a href="/%E6%9C%B1%E9%B9%AD%E5%AD%90" class="mw-redirect" title="朱鹭子">朱鹭子</a>、<a href="./稗田阿求.md" title="稗田阿求">稗田阿求</a>、<a href="/%E9%93%83%E4%BB%99%E4%BA%8C%E5%8F%B7" class="mw-redirect" title="铃仙二号">铃仙</a>、<a href="./绵月丰姬.md" title="绵月丰姬">绵月丰姬</a>、<a href="./绵月依姬.md" title="绵月依姬">绵月依姬</a></td>
+<th>角色</th><td colspan="3"><a href="./玛艾露贝莉·赫恩.md" title="玛艾露贝莉·赫恩">玛艾露贝莉·赫恩</a>、<a href="./宇佐见莲子.md" title="宇佐见莲子">宇佐见莲子</a>、<a href="./森近霖之助.md" title="森近霖之助">森近霖之助</a>、<a href="./朱鹭子.md" class="mw-redirect" title="朱鹭子">朱鹭子</a>、<a href="./稗田阿求.md" title="稗田阿求">稗田阿求</a>、<a href="./铃仙二号.md" class="mw-redirect" title="铃仙二号">铃仙</a>、<a href="./绵月丰姬.md" title="绵月丰姬">绵月丰姬</a>、<a href="./绵月依姬.md" title="绵月依姬">绵月依姬</a></td>
 <th>价格</th><td>320日元</td>
 </tr>
 <tr>
@@ -179,6 +183,7 @@
 <th>价格</th><td>440日元</td>
 </tr>
 </tbody></table>
+
 
 ## 评论
 <table>

@@ -21,6 +21,7 @@
 
   
 
+
 ## 目录
 
 - [1 通用胜利对话](#通用胜利对话)
@@ -35,9 +36,11 @@
 
 
 
+
 ## 通用胜利对话
 
 <table><tbody><tr class="tt-content" id="通用胜利对话-1" data-pos="&#91;&quot;\u901a\u7528\u80dc\u5229\u5bf9\u8bdd&quot;,1&#93;"><td id="铃鹿玉枝" class="tt-char" lang="zh"><div class="poem">铃鹿玉枝</div></td><td class="tt-ja" lang="ja"><div class="poem">これもまた、縁の導きに因るもの。<br>私はそれに身を任せただけよ。</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-content" id="通用胜利对话-2" data-pos="&#91;&quot;\u901a\u7528\u80dc\u5229\u5bf9\u8bdd&quot;,2&#93;"><td id="铃鹿玉枝" class="tt-char" lang="zh"><div class="poem">铃鹿玉枝</div></td><td class="tt-ja" lang="ja"><div class="poem">一つ一つの出会いを大切にね。<br>縁を疎かにすると、全ての事が悪い方向に進んでしまうから。</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr></tbody></table>
+
 
 
 ## 铃鹿玉枝 击败 奥黛丽·克雷斯顿
@@ -45,9 +48,11 @@
 <table><tbody><tr class="tt-content" id="铃鹿玉枝_击败_奥黛丽·克雷斯顿-1" data-pos="&#91;&quot;\u94c3\u9e7f\u7389\u679d \u51fb\u8d25 \u5965\u9edb\u4e3d\u00b7\u514b\u96f7\u65af\u987f&quot;,1&#93;"><td id="铃鹿玉枝" class="tt-char" lang="zh"><div class="poem">铃鹿玉枝</div></td><td class="tt-ja" lang="ja"><div class="poem">普通の日常というものにも発見はつきないものよ？<br>今は辺りがこんなだから、気になるのも仕方ないけど。</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-content" id="铃鹿玉枝_击败_奥黛丽·克雷斯顿-2" data-pos="&#91;&quot;\u94c3\u9e7f\u7389\u679d \u51fb\u8d25 \u5965\u9edb\u4e3d\u00b7\u514b\u96f7\u65af\u987f&quot;,2&#93;"><td id="铃鹿玉枝" class="tt-char" lang="zh"><div class="poem">铃鹿玉枝</div></td><td class="tt-ja" lang="ja"><div class="poem">そのベルトは誰かから貰ったものかしら？<br>太い縁が一本巻き付いてるのが見えるもの。</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr></tbody></table>
 
 
+
 ## 铃鹿玉枝 击败 佐比持海波
 
 <table><tbody><tr class="tt-content" id="铃鹿玉枝_击败_佐比持海波-1" data-pos="&#91;&quot;\u94c3\u9e7f\u7389\u679d \u51fb\u8d25 \u4f50\u6bd4\u6301\u6d77\u6ce2&quot;,1&#93;"><td id="铃鹿玉枝" class="tt-char" lang="zh"><div class="poem">铃鹿玉枝</div></td><td class="tt-ja" lang="ja"><div class="poem">貴女も、私も、<br>幾多の縁のお陰で今ここにいて、出会えたのですね。</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-content" id="铃鹿玉枝_击败_佐比持海波-2" data-pos="&#91;&quot;\u94c3\u9e7f\u7389\u679d \u51fb\u8d25 \u4f50\u6bd4\u6301\u6d77\u6ce2&quot;,2&#93;"><td id="铃鹿玉枝" class="tt-char" lang="zh"><div class="poem">铃鹿玉枝</div></td><td class="tt-ja" lang="ja"><div class="poem">一つの縁でも切れたなら、多くの縁が干渉を受ける。<br>そして再び戻る事はありえない。それは分かっておいてね。</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr></tbody></table>
+
 
 
 ## 铃鹿玉枝 击败 山渊炼
@@ -55,9 +60,11 @@
 <table><tbody><tr class="tt-content" id="铃鹿玉枝_击败_山渊炼-1" data-pos="&#91;&quot;\u94c3\u9e7f\u7389\u679d \u51fb\u8d25 \u5c71\u6e0a\u70bc&quot;,1&#93;"><td id="铃鹿玉枝" class="tt-char" lang="zh"><div class="poem">铃鹿玉枝</div></td><td class="tt-ja" lang="ja"><div class="poem">本来は始めから、縁の行く末は決まっているのです。<br>変化を含めてね。</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-content" id="铃鹿玉枝_击败_山渊炼-2" data-pos="&#91;&quot;\u94c3\u9e7f\u7389\u679d \u51fb\u8d25 \u5c71\u6e0a\u70bc&quot;,2&#93;"><td id="铃鹿玉枝" class="tt-char" lang="zh"><div class="poem">铃鹿玉枝</div></td><td class="tt-ja" lang="ja"><div class="poem">そんなに辺りを嗅ぎ回る必要なんて無いわよ？<br>貴女に縁があれば、探し物も見付かるのだもの。</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr></tbody></table>
 
 
+
 ## 铃鹿玉枝 击败 铃鹿玉枝
 
 <table><tbody><tr class="tt-content" id="铃鹿玉枝_击败_铃鹿玉枝-1" data-pos="&#91;&quot;\u94c3\u9e7f\u7389\u679d \u51fb\u8d25 \u94c3\u9e7f\u7389\u679d&quot;,1&#93;"><td id="铃鹿玉枝" class="tt-char" lang="zh"><div class="poem">铃鹿玉枝</div></td><td class="tt-ja" lang="ja"><div class="poem">そろそろ鋏も砥ぎ時かしらねえ。<br>お手入れは欠かせないわ。</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr></tbody></table>
+
 
 
 ## 铃鹿玉枝 击败 宇田杜草庵
@@ -65,9 +72,11 @@
 <table><tbody><tr class="tt-content" id="铃鹿玉枝_击败_宇田杜草庵-1" data-pos="&#91;&quot;\u94c3\u9e7f\u7389\u679d \u51fb\u8d25 \u5b87\u7530\u675c\u8349\u5eb5&quot;,1&#93;"><td id="铃鹿玉枝" class="tt-char" lang="zh"><div class="poem">铃鹿玉枝</div></td><td class="tt-ja" lang="ja"><div class="poem">リボンと縁のぐるぐる巻き……。<br>飾り付けが上手なのね、貴女。</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-content" id="铃鹿玉枝_击败_宇田杜草庵-2" data-pos="&#91;&quot;\u94c3\u9e7f\u7389\u679d \u51fb\u8d25 \u5b87\u7530\u675c\u8349\u5eb5&quot;,2&#93;"><td id="铃鹿玉枝" class="tt-char" lang="zh"><div class="poem">铃鹿玉枝</div></td><td class="tt-ja" lang="ja"><div class="poem">徳と縁は密接な関係を持ってるわ。<br>でもそれは、縁が徳をもたらすから。</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr></tbody></table>
 
 
+
 ## 铃鹿玉枝 击败 珠林苑玲珑
 
 <table><tbody><tr class="tt-content" id="铃鹿玉枝_击败_珠林苑玲珑-1" data-pos="&#91;&quot;\u94c3\u9e7f\u7389\u679d \u51fb\u8d25 \u73e0\u6797\u82d1\u73b2\u73d1&quot;,1&#93;"><td id="铃鹿玉枝" class="tt-char" lang="zh"><div class="poem">铃鹿玉枝</div></td><td class="tt-ja" lang="ja"><div class="poem">貴女は心が優しいのね。<br>そうね、あせらず少しずつ、繋がりを育てていけばいいわ。</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-content" id="铃鹿玉枝_击败_珠林苑玲珑-2" data-pos="&#91;&quot;\u94c3\u9e7f\u7389\u679d \u51fb\u8d25 \u73e0\u6797\u82d1\u73b2\u73d1&quot;,2&#93;"><td id="铃鹿玉枝" class="tt-char" lang="zh"><div class="poem">铃鹿玉枝</div></td><td class="tt-ja" lang="ja"><div class="poem">丸いものが飛んでいるのを見るとね…何だか懐かしくなるのよ。<br>きっと転生前の…その頃貴女はまだ生まれてないでしょうね。</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr></tbody></table>
+
 
 
 ## 铃鹿玉枝 击败 柊命花

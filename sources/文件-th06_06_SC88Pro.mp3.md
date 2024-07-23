@@ -4,6 +4,7 @@
 
 上海红茶馆_～_Chinese_Tea | 东方红魔乡
 
+
 ## 文件说明
   
 上海紅茶館　～ Chinese Tea 东方红魔乡3面道中曲MIDI版。由Roland Sound Canvas 88Pro实机录制；MP3采样率44.1KHz，码率192Kbps。  

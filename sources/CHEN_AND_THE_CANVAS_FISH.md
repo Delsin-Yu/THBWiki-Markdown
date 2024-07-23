@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-CHEN_AND_THE_CANVAS_FISH封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/5/57/CHEN_AND_THE_CANVAS_FISH%E5%B0%81%E9%9D%A2.jpg/139px-CHEN_AND_THE_CANVAS_FISH%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="139" height="196" srcset="https://upload.thwiki.cc/thumb/5/57/CHEN_AND_THE_CANVAS_FISH%E5%B0%81%E9%9D%A2.jpg/208px-CHEN_AND_THE_CANVAS_FISH%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/5/57/CHEN_AND_THE_CANVAS_FISH%E5%B0%81%E9%9D%A2.jpg/277px-CHEN_AND_THE_CANVAS_FISH%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1254" data-file-height="1771"></a><div class="cover-char">角色：<a href="./橙.md" title="橙">橙</a></div></td>
@@ -18,8 +19,10 @@ CHEN AND THE CANVAS FISH（同人志，北国もやし製造所，2018） - 2018
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=431107">蜜瓜</a></td></tr></tbody></table>
 
 
+
 ## Staff
 - [もや造](./もや造.md)
+
 
 ## 评论
 

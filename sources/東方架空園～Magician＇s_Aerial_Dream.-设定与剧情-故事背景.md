@@ -4,12 +4,15 @@
 
 ほおずき | 使用了翻译表的页面
 
+
 ## 故事背景
 
 <table><tbody><tr class="tt-content" id="故事背景-1" data-pos="&#91;&quot;\u6545\u4e8b\u80cc\u666f&quot;,1&#93;"><td class="tt-ja" lang="ja"><div class="poem">春なのに幻想郷には大雪が降っていた。<br>季節外れの雪である。<br>以前の异变を思い出す者もいればそうでもない者もいた。<br>この雪は悪意かはたまた？ひとまず雪空の彼方をめぎそう！<br></div></td><td class="tt-zh" lang="zh"><div class="poem">春季的幻想乡，却突然下起了大雪。<br>这是一场反季节的雪。<br>有的人想起了以前的那场异变，有的人则没有。<br>这场雪是否带有恶意呢？姑且向着降下雪花的天空之彼方前进吧！<br></div></td></tr></tbody></table>
 
 
+
 ## EX Story
+
 ## 词条导航
   
   

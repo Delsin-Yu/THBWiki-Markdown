@@ -4,6 +4,7 @@
 
 东方祈华梦制作组
 
+
 ## 目录
 
 - [1 自机](#自机)
@@ -29,7 +30,9 @@
 
 
 
+
 ## 自机
+
 ### 博丽灵梦
 
 <table><tbody><tr><td align="center"><a rel="nofollow" class="external text" href="https://thwiki.cc/文件:博丽灵梦（栖霞园）.png">上传</a></td> <td style="width:150px;padding:3px 9px 3px 7px;">乐园的巫女</td><td style="width:180px;padding:3px 9px 3px 7px;"> <a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></td></tr></tbody></table>
@@ -53,6 +56,7 @@
 
 博丽的巫女，出发解决异变！
   
+
 
 
 ### 雾雨魔理沙
@@ -80,6 +84,7 @@
   
 
 
+
 ### 十六夜咲夜
 
 <table><tbody><tr><td align="center"><a rel="nofollow" class="external text" href="https://thwiki.cc/文件:十六夜咲夜（栖霞园）.png">上传</a></td> <td style="width:150px;padding:3px 9px 3px 7px;">斯卡雷特家族的仆从</td><td style="width:180px;padding:3px 9px 3px 7px;"> <a href="/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C" title="十六夜咲夜">十六夜咲夜</a></td></tr></tbody></table>
@@ -105,7 +110,9 @@
   
 
 
+
 ## 系统说明
+
 ### 游戏的进行方法
 
   
@@ -115,6 +122,7 @@
 
 这是玩家与BOSS之间通过互动，进行的模拟战争游戏。
   
+
 
 
 ### 操作方法
@@ -146,6 +154,7 @@
   
 
 
+
 ### 游戏画面
 
   
@@ -173,6 +182,7 @@
   
 
 
+
 ### 道具
 
 - 灵力提升道具：用于提升血灵槽，集满后生成血灵碎片（将自机移动到画面上方即可自动回收）  
@@ -184,6 +194,7 @@
 - 血灵碎片：集满六个血灵碎片后可以提升血灵等级（不会被自动回收，需主动获取）  
 
 - 血灵石：可一次性提升一级血灵等级（不会被自动回收，需主动获取）
+
 
 
 ### 血灵系统
@@ -229,6 +240,7 @@
 
 使用符卡或中弹超过3此会立即结束血灵限界状态。
   
+
 
 
 ## 词条导航

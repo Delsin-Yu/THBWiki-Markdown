@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-HalfSoul封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/3/35/HalfSoul%E5%B0%81%E9%9D%A2.jpg/158px-HalfSoul%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="158" height="224" srcset="https://upload.thwiki.cc/thumb/3/35/HalfSoul%E5%B0%81%E9%9D%A2.jpg/237px-HalfSoul%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/3/35/HalfSoul%E5%B0%81%E9%9D%A2.jpg/316px-HalfSoul%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="600" data-file-height="851"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>，<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a>，<a href="./魂魄妖梦.md" title="魂魄妖梦">魂魄妖梦</a>，<a href="./物部布都.md" title="物部布都">物部布都</a>，<a href="./爱丽丝·玛格特洛依德.md" title="爱丽丝·玛格特洛依德">爱丽丝·玛格特洛依德</a></div></td>
@@ -17,8 +18,10 @@ HalfSoul（同人志，ねこのさけごと，2017） - 2017年12月29日 由 �
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=323310">蜜瓜</a>，<a rel="nofollow" class="external text" href="https://ec.toranoana.jp/tora_r/ec/item/040030597834">虎穴</a></td></tr></tbody></table>
 
 
+
 ## Staff
 - [さざなみみぉ](./さざなみみぉ.md)
+
 
 ## 评论
   

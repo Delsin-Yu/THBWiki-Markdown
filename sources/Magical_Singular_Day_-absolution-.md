@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 软件信息](#软件信息)
@@ -18,6 +19,7 @@
 
 
 
+
 ## 软件信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=Magical_Singular_Day_-absolution-%E5%B0%81%E9%9D%A2.jpg" class="new" title="文件:Magical Singular Day -absolution-封面.jpg">封面图片</a></td>
@@ -25,16 +27,20 @@
 </tr><tr><td class="label">首发日期</td><td>未知</td></tr><tr><td class="label">类型</td><td>游戏</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">游戏人数</td><td>单人模式</td></tr><tr><td class="label">游戏类型</td><td>STG</td></tr><tr><td class="label">运行平台</td><td>Windows</td></tr><tr><td class="label">语言</td><td>日文</td></tr></tbody></table>
 
 Magical Singular Day -absolution-（同人游戏，リデラ） - 2024年6月22日 由 リデラ  发布的STG同人游戏，可在 Windows 系统上运行，游戏人数为 单人模式，分级为 一般向
+
 ## Staff
+
 ## 内容页面
 - 游戏设定 (未找到链接)
 - [系统说明](./Magical_Singular_Day_-absolution--系统.md)
 - 其他相关资料 (未找到链接)
 
+
 ## 概述
   
 《Magical Singular Day –absolution-》俗称东方丝幻域1.01a，或者东方丝幻域黑版（因为和同作者一个更早的游戏[Magical Singular Day -東方絲幻域-](./Magical_Singular_Day_-東方絲幻域-.md)关系如同虫姬2黑版和1.5版非常相似，之前那个也叫白版）。是日本游戏作者E.O（リデラ）制作的一款基于东方弹幕风平台的CAVE风格的STG游戏脚本。是一款硬派的STG游戏。
   
+
 
 ## 视频
   
@@ -44,6 +50,7 @@ Magical Singular Day -absolution-（同人游戏，リデラ） - 2024年6月22�
   
 [贴吧整合视频链接](http://tieba.baidu.com/p/3096611464)
   
+
 
 ## 下载
   

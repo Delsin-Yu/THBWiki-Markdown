@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-眾神眷戀的幻想鄉_~_Rebirth_of_Dream封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/a/a1/%E7%9C%BE%E7%A5%9E%E7%9C%B7%E6%88%80%E7%9A%84%E5%B9%BB%E6%83%B3%E9%84%89_~_Rebirth_of_Dream%E5%B0%81%E9%9D%A2.jpg/196px-%E7%9C%BE%E7%A5%9E%E7%9C%B7%E6%88%80%E7%9A%84%E5%B9%BB%E6%83%B3%E9%84%89_~_Rebirth_of_Dream%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="196" height="109" srcset="https://upload.thwiki.cc/thumb/a/a1/%E7%9C%BE%E7%A5%9E%E7%9C%B7%E6%88%80%E7%9A%84%E5%B9%BB%E6%83%B3%E9%84%89_~_Rebirth_of_Dream%E5%B0%81%E9%9D%A2.jpg/294px-%E7%9C%BE%E7%A5%9E%E7%9C%B7%E6%88%80%E7%9A%84%E5%B9%BB%E6%83%B3%E9%84%89_~_Rebirth_of_Dream%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/a/a1/%E7%9C%BE%E7%A5%9E%E7%9C%B7%E6%88%80%E7%9A%84%E5%B9%BB%E6%83%B3%E9%84%89_~_Rebirth_of_Dream%E5%B0%81%E9%9D%A2.jpg/392px-%E7%9C%BE%E7%A5%9E%E7%9C%B7%E6%88%80%E7%9A%84%E5%B9%BB%E6%83%B3%E9%84%89_~_Rebirth_of_Dream%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="900" data-file-height="500"></a></td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://doujin.bgm.tv/subject/2706">http://doujin.bgm.tv/subject/2706</a></td></tr><tr><td class="label">备注</td><td colspan="2">作品包含当时的全部东方人物</td></tr></tbody></table>
 
 眾神眷戀的幻想鄉 ~ Rebirth of Dream（同人志，aparo同人画师联盟，2011） - 2011年7月24日 由 aparo同人画师联盟 于 上海THONLY4 发布的画集/设定集同人志，A4尺寸一共140页，分级为 一般向
+
 ## Staff
 主催
 
@@ -151,8 +153,10 @@
 - 五十六
 - 秋star
 
+
 ## 预览
 - [](./文件-眾神眷戀的幻想鄉_~_Rebirth_of_Dream预览图1.jpg.md)- [](./文件-眾神眷戀的幻想鄉_~_Rebirth_of_Dream预览图2.jpg.md)- [](./文件-眾神眷戀的幻想鄉_~_Rebirth_of_Dream预览图3.jpg.md)
+
 
 ## 评论
   

@@ -4,7 +4,8 @@
 
 A-HEAD ，于 2008 年成立，主要制作 同人音乐 的日本同人社团，主催是 秋時，当前状态为 休止
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -16,6 +17,7 @@ A-HEAD ，于 2008 年成立，主要制作 同人音乐 的日本同人社团�
 
 
 
+
 ## 社团信息
 [](./文件-A-HEAD_banner.jpg.md)  [](./文件-A-HEAD_banner.jpg.md)Banner
 [](./文件-A-HEAD_banner2.jpg.md)  [](./文件-A-HEAD_banner2.jpg.md)Banner 2
@@ -23,8 +25,10 @@ A-HEAD ，于 2008 年成立，主要制作 同人音乐 的日本同人社团�
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> A-HEAD </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2008</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>主催</b></td><td> <a href="./秋時.md" title="秋時">秋時</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://a-head.cc/">http://a-head.cc/</a> </td></tr></tbody></table>
 
 A-HEAD（同人社团，同人音乐社团） - A-HEAD ，于 2008 年成立，主要制作 同人音乐 的日本同人社团，主催是 秋時，当前状态为 休止
+
 ## 成员名单
 - [秋時](./秋時.md)
+
 
 ## 作品列表
 [](./No_Union_～sundry_color≒moon_color～.md)[No Union ～sundry color≒moon color～](./No_Union_～sundry_color≒moon_color～.md)首发日期：2008-06-15 （SunshineCreation40 (未找到链接)）全长 （一般向）[](./Crimson_Devil's_Residence.md)[Crimson Devil's Residence](./Crimson_Devil's_Residence.md)首发日期：2008-10-05 （SunshineCreation41 (未找到链接)）EP （一般向）[](./暁月夜が明ける頃.md)[暁月夜が明ける頃](./暁月夜が明ける頃.md)首发日期：2009-02-08 （SunshineCreation42 (未找到链接)）EP （一般向）[](./現人神の謡声.md)[現人神の謡声](./現人神の謡声.md)首发日期：2009-03-21 （東方不敗小町5 (未找到链接)）单曲 （一般向）[](./籠リ謳.md)[籠リ謳](./籠リ謳.md)首发日期：2009-08-15 （Comic Market 76 (未找到链接)）AHCD-0001全长 （一般向）[](./終音.md)[終音](./終音.md)首发日期：2010-08-14 （Comic Market 78 (未找到链接)）AHCD-0002全长 （一般向）[](./I_am_Alice.md)[I am Alice](./I_am_Alice.md)首发日期：2010-12-30 （Comic Market 79 (未找到链接)）EP （一般向）[](./紅彩.md)[紅彩](./紅彩.md)首发日期：2011-08-13 （Comic Market 80 (未找到链接)）单曲 （一般向）[](./──and,I_am_AlicE..md)[──and,I am AlicE.](./──and,I_am_AlicE..md)首发日期：2011-10-16 （東方紅楼夢7 (未找到链接)）全长 （一般向）[](./魔法のない世界.md)[魔法のない世界](./魔法のない世界.md)首发日期：2011-10-16 （東方紅楼夢7 (未找到链接)）全长 （一般向）该作品是与 [J&amp;B](./J&B.md)、​[すたじおたわし](./すたじおたわし.md) 合作创作的[](./残響残華.md)[残響残華](./残響残華.md)首发日期：2012-08-11 （Comic Market 82 (未找到链接)）EP （一般向）该作品是与 [なんか好き。](./なんか好き。.md) 合作创作的[](./残響、彼岸過迄。.md)[残響、彼岸過迄。](./残響、彼岸過迄。.md)首发日期：2012-12-30 （Comic Market 83 (未找到链接)）AHDC-0004全长 （一般向）[](./紅灯.md)[紅灯](./紅灯.md)首发日期：2013-08-12 （Comic Market 84 (未找到链接)）单曲 （一般向）[](./Curtain_Call（A-HEAD）.md)[Curtain Call](./Curtain_Call（A-HEAD）.md)首发日期：2014-05-11 （第十一回 博麗神社例大祭 (未找到链接)）AHCD-0005精选集 （一般向）[](./誰が為の、.md)[誰が為の、](./誰が為の、.md)首发日期：2014-08-16 （Comic Market 86 (未找到链接)）单曲 （一般向）该专辑是基于[なんか好き。](./なんか好き。.md)的同人志[誰が為に幻想を視る](./誰が為に幻想を視る.md)创作的[](./想葬.md)[想葬](./想葬.md)首发日期：2017-08-11 （Comic Market 92 (未找到链接)）AHCD-0006全长 （一般向）
@@ -62,9 +66,11 @@ A-HEAD（同人社团，同人音乐社团） - A-HEAD ，于 2008 年成立，�
 </table>
 
 
+
 ## 相关社团
 なんか好き。
 : 两个社团常有合作。[なんか好き。](./なんか好き。.md)的成员为A-HEAD设计、绘制封面，主催[マカキセキ](./マカキセキ.md)为其作词、设计logo。
+
 
 ## 参展信息
 

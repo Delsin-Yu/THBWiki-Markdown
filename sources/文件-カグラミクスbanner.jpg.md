@@ -4,6 +4,7 @@
 
 カグラミクス | 社团LOGO
 
+
 ## 摘要
   
 源地址：[direct image link](http://kaguratsuna.sakura.ne.jp/sblo_files/kaguramix/image/kaguramixBLOGbunner01.jpg), [source page](http://kaguramix.sblo.jp/)

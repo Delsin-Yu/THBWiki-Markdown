@@ -4,7 +4,8 @@
 
 Sacred Spell ，于 2001 年成立，主要制作 同人志 的日本同人社团，主催是 ぱじ，当前状态为 休止
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -20,16 +21,20 @@ Sacred Spell ，于 2001 年成立，主要制作 同人志 的日本同人社�
 
 
 
+
 ## 社团信息
 文件:Sacred Spellbanner.jpg (未找到链接)  banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Sacred Spell </td></tr><tr><td><b>主要作品类型</b></td><td>同人志</td></tr><tr><td><b>成立时间</b></td><td>2001</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=%E3%81%B1%E3%81%98&amp;action=edit&amp;redlink=1" class="new" title="ぱじ（页面不存在）">ぱじ</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://blue_shame.at.infoseek.co.jp/">http://blue_shame.at.infoseek.co.jp/</a> <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><small>（<a rel="nofollow" class="external text" href="https://web.archive.org/web/20090130073751/http://blue_shame.at.infoseek.co.jp/">缓存页面</a>）</small></td></tr></tbody></table>
 
 Sacred Spell（同人社团，同人志社团） - Sacred Spell ，于 2001 年成立，主要制作 同人志 的日本同人社团，主催是 ぱじ，当前状态为 休止
+
 ## 成员名单
 - ぱじ (未找到链接)
 
+
 ## 作品列表
+
 ### 同人志
 泡沫の蝶の夢 ～幽胡蝶～ 封面图片 (未找到链接)泡沫の蝶の夢 ～幽胡蝶～ (未找到链接)首发日期：未知 - 泡沫の蝶の夢 ～黒死蝶～ 封面图片 (未找到链接)泡沫の蝶の夢 ～黒死蝶～ (未找到链接)首发日期：未知 - [](./みんな大好き霧雨魔理沙.md)[みんな大好き霧雨魔理沙](./みんな大好き霧雨魔理沙.md)首发日期：2005-10-30 （恋色マジック1 (未找到链接)）漫画 （一般向）该作品是与 [ナナシノ十字星団](./ナナシノ十字星団.md) 合作创作的B5&#160;尺寸 28&#160;页鈴蘭の園の人形劇 封面图片 (未找到链接)鈴蘭の園の人形劇 (未找到链接)首发日期：未知 - カツアゲ。 封面图片 (未找到链接)カツアゲ。 (未找到链接)首发日期：未知 - 夢に入りて出づる夢 封面图片 (未找到链接)夢に入りて出づる夢 (未找到链接)首发日期：未知 - 東方空耳アワー 封面图片 (未找到链接)東方空耳アワー (未找到链接)首发日期：未知 - 死なぬ罪、死ねぬ罰 無料お試し版 封面图片 (未找到链接)死なぬ罪、死ねぬ罰 無料お試し版 (未找到链接)首发日期：未知 - 死なぬ罪、死ねぬ罰 封面图片 (未找到链接)死なぬ罪、死ねぬ罰 (未找到链接)首发日期：未知 - ビューティフル魔法使いの一日 封面图片 (未找到链接)ビューティフル魔法使いの一日 (未找到链接)首发日期：未知 - キセキのキセキ 封面图片 (未找到链接)キセキのキセキ (未找到链接)首发日期：未知 - 天と大地を結ぶ想い 封面图片 (未找到链接)天と大地を結ぶ想い (未找到链接)首发日期：未知 - [](./接しかたがわかりません。.md)[接しかたがわかりません。](./接しかたがわかりません。.md)首发日期：2009-08-15 （Comic Market 76 (未找到链接)）漫画 （一般向） 28&#160;页夢に恋して 封面图片 (未找到链接)夢に恋して (未找到链接)首发日期：未知 - Faithfulness Syndrome -例大祭ver.- 封面图片 (未找到链接)Faithfulness Syndrome -例大祭ver.- (未找到链接)首发日期：未知 - 独占密着はたて!! 封面图片 (未找到链接)独占密着はたて!! (未找到链接)首发日期：未知 - 接しかたがわかった!! 封面图片 (未找到链接)接しかたがわかった!! (未找到链接)首发日期：未知 - Romancing Train 封面图片 (未找到链接)Romancing Train (未找到链接)首发日期：未知 - TRUST 封面图片 (未找到链接)TRUST (未找到链接)首发日期：未知 - 萃香が夢見る幻想郷 封面图片 (未找到链接)萃香が夢見る幻想郷 (未找到链接)首发日期：未知 - 幻想郷の化け上手 封面图片 (未找到链接)幻想郷の化け上手 (未找到链接)首发日期：未知 - [](./遠くて近い檻の鍵.md)[遠くて近い檻の鍵](./遠くて近い檻の鍵.md)首发日期：2012-05-27 （第九回 博麗神社例大祭 (未找到链接)）漫画 （一般向） 28&#160;页ゆうつづさがし 封面图片 (未找到链接)ゆうつづさがし (未找到链接)首发日期：未知 - オモイノハナ 封面图片 (未找到链接)オモイノハナ (未找到链接)首发日期：未知 - 作ってた漫画のプレビュー本 封面图片 (未找到链接)作ってた漫画のプレビュー本 (未找到链接)首发日期：未知 - 
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -60,6 +65,7 @@ Sacred Spell（同人社团，同人志社团） - Sacred Spell ，于 2001 年�
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458"></table>
+
 
 
 ## 参展信息

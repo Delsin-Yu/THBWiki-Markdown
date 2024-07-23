@@ -4,6 +4,7 @@
 
 Ink_Touch | 社团LOGO
 
+
 ## 文件说明
   
 源地址：[[1]](https://web.archive.org/web/20190320231107im_/http://www.geocities.co.jp/Playtown-Yoyo/9181/ink_touch/image3.gif)

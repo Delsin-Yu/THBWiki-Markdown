@@ -4,7 +4,8 @@
 
 Wissenschaftsära ，主要制作 同人志 的日本同人社团，主催是 免れ鬼，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -20,17 +21,21 @@ Wissenschaftsära ，主要制作 同人志 的日本同人社团，主催是 �
 
 
 
+
 ## 社团信息
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Wissenschaftsära </td></tr><tr><td><b>主要作品类型</b></td><td>同人志</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=%E5%85%8D%E3%82%8C%E9%AC%BC&amp;action=edit&amp;redlink=1" class="new" title="免れ鬼（页面不存在）">免れ鬼</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr></tbody></table>
 
 Wissenschaftsära（同人社团，同人志社团） - Wissenschaftsära ，主要制作 同人志 的日本同人社团，主催是 免れ鬼，当前状态为 活动
+
 ## 成员名单
 - 免れ鬼 (未找到链接)
 
 : [Twitter: @leverk_hlr](https://twitter.com/leverk_hlr), [Pixiv ID: 16585885](https://www.pixiv.net/users/16585885)
 
+
 ## 作品列表
+
 ### 同人志
 トニオの車輪 封面图片 (未找到链接)[トニオの車輪](./トニオの車輪.md)首发日期：2015-12-30 （Comic Market 89 (未找到链接)）小说 （一般向）無名 封面图片 (未找到链接)[無名](./無名.md)首发日期：2016-03-26 （月の宴9 (未找到链接)）小说 （一般向）ハインリヒ・クレーガー 封面图片 (未找到链接)[ハインリヒ・クレーガー](./ハインリヒ・クレーガー.md)首发日期：2016-08-13 （Comic Market 90 (未找到链接)）小说 （一般向）东方×[Tonio Kröger (Thomas Mann小说)](https://en.wikipedia.org/wiki/Tonio_Kröger)×Der Wendepunkt ([Klaus Mann](https://en.wikipedia.org/wiki/Klaus_Mann)小说); [在Pixiv上公开](https://www.pixiv.net/novel/show.php?id=7468457)宇佐見博士 封面图片 (未找到链接)[宇佐見博士](./宇佐見博士.md)首发日期：2017-03-26 （境界から視えた外界 -至- (未找到链接)）小说 （一般向）东方×[Doktor Faustus (Thomas Mann小说)](https://en.wikipedia.org/wiki/Doctor_Faustus_(novel)); [在Pixiv上公开](https://www.pixiv.net/novel/show.php?id=8899225)覗き穴 封面图片 (未找到链接)[覗き穴](./覗き穴.md)首发日期：2017-05-07 （第十四回 博麗神社例大祭 (未找到链接)）小说 （一般向）罪 封面图片 (未找到链接)[罪](./罪.md)首发日期：2017-08-11 （Comic Market 92 (未找到链接)）小说 （一般向）ヴィルヘルム・クレーガー 封面图片 (未找到链接)[ヴィルヘルム・クレーガー](./ヴィルヘルム・クレーガー.md)首发日期：2018-05-06 （第十五回 博麗神社例大祭 (未找到链接)）小说 （一般向）魔術劇場 封面图片 (未找到链接)[魔術劇場](./魔術劇場.md)首发日期：2018-12-30 （Comic Market 95 (未找到链接)）小说 （一般向）
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -49,6 +54,7 @@ Wissenschaftsära（同人社团，同人志社团） - Wissenschaftsära ，主
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 参展信息

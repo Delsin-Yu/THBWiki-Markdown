@@ -4,7 +4,8 @@
 
 CTBR ，于 2003 年成立，主要制作 同人音乐 的日本同人社团，主催是 LUV2，当前状态为 休止
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -15,14 +16,17 @@ CTBR ，于 2003 年成立，主要制作 同人音乐 的日本同人社团，�
 
 
 
+
 ## 社团信息
 [](./文件-CTBRbanner.jpg.md)  [](./文件-CTBRbanner.jpg.md)banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> CTBR </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2003</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=LUV2&amp;action=edit&amp;redlink=1" class="new" title="LUV2（页面不存在）">LUV2</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://ctbr.jp/">http://ctbr.jp/</a> </td></tr></tbody></table>
 
 CTBR（同人社团，同人音乐社团） - CTBR ，于 2003 年成立，主要制作 同人音乐 的日本同人社团，主催是 LUV2，当前状态为 休止
+
 ## 成员名单
 - LUV2 (未找到链接)
+
 
 ## 作品列表
 [](./T_～東方夢想曲～.md)[T ～東方夢想曲～](./T_～東方夢想曲～.md)首发日期：2005-05-04 （第二回 博麗神社例大祭 (未找到链接)）CTBR-0004全长 （一般向）[](./THE_俺_～SIMPLE1000～.md)[THE 俺 ～SIMPLE1000～](./THE_俺_～SIMPLE1000～.md)首发日期：2005-08-14 （Comic Market 68 (未找到链接)）CTBR-0005全长 （一般向）[](./The_best_compilation.md)[The best compilation](./The_best_compilation.md)首发日期：2005-12-30 （Comic Market 69 (未找到链接)）CTBR-0006精选集 （一般向）[](./Sacred_Treasure.md)[Sacred Treasure](./Sacred_Treasure.md)首发日期：2006-05-21 （第三回 博麗神社例大祭 (未找到链接)）CTBR-0007全长 （一般向）[](./Become_Happy!!.md)[Become Happy!!](./Become_Happy!!.md)首发日期：2006-08-13 （Comic Market 70 (未找到链接)）CTBR-0008全长 （一般向）[](./Synth_Sound_Symphony.md)[Synth Sound Symphony](./Synth_Sound_Symphony.md)首发日期：2006-12-31 （Comic Market 71 (未找到链接)）CTBR-0009全长 （一般向）[](./Choice×Choice×Choice.md)[Choice×Choice×Choice](./Choice×Choice×Choice.md)首发日期：2007-05-20 （第四回 博麗神社例大祭 (未找到链接)）CTBR-0010EP （一般向）[](./LOVE（CTBR）.md)[LOVE](./LOVE（CTBR）.md)首发日期：2007-08-17 （Comic Market 72 (未找到链接)）CTBR-0011全长 （一般向）[](./僕は東方を「いい、見てる。」.md)[僕は東方を「いい、見てる。」](./僕は東方を「いい、見てる。」.md)首发日期：2007-12-31 （Comic Market 73 (未找到链接)）CTBR-0012全长 （一般向）[](./飛翔旋律.md)[飛翔旋律](./飛翔旋律.md)首发日期：2009-05-05 （M3-2009春 (未找到链接)）CTBR-0015EP （一般向）[](./Salt_Spice_Sugar.md)[Salt Spice Sugar](./Salt_Spice_Sugar.md)首发日期：2010-08-14 （Comic Market 78 (未找到链接)）CTBR-0018EP （一般向）[](./GODAW.md)[GODAW](./GODAW.md)首发日期：2011-08-13 （Comic Market 80 (未找到链接)）CTBR-0019全长 （一般向）
@@ -50,6 +54,7 @@ CTBR（同人社团，同人音乐社团） - CTBR ，于 2003 年成立，主�
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 参展信息

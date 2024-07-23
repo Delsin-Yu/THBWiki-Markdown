@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -34,11 +35,13 @@
 
 
 
+
 ## 基本信息
 
-<table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">空の帰り道　～ Sky Dream</td></tr><tr><td><b>译名</b></td><td>空中的归路 ～ Sky Dream</td></tr><tr><td><b>英文译名</b></td><td>Returning Home from the Sky ~ Sky Dream</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>再编</td></tr><tr><td style="padding-left:15px"><b>原曲</b></td><td><a href="/%E6%84%9F%E6%83%85%E3%81%AE%E6%91%A9%E5%A4%A9%E6%A5%BC_%EF%BD%9E_Cosmic_Mind" class="mw-redirect" title="感情の摩天楼 ～ Cosmic Mind">感情の摩天楼　～ Cosmic Mind</a></td></tr><tr><td style="padding-left:15px"><b>　来源</b></td><td>东方星莲船　～ Undefined Fantastic Object.</td></tr></tbody></table>
+<table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">空の帰り道　～ Sky Dream</td></tr><tr><td><b>译名</b></td><td>空中的归路 ～ Sky Dream</td></tr><tr><td><b>英文译名</b></td><td>Returning Home from the Sky ~ Sky Dream</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>再编</td></tr><tr><td style="padding-left:15px"><b>原曲</b></td><td><a href="./感情の摩天楼_～_Cosmic_Mind.md" class="mw-redirect" title="感情の摩天楼 ～ Cosmic Mind">感情の摩天楼　～ Cosmic Mind</a></td></tr><tr><td style="padding-left:15px"><b>　来源</b></td><td>东方星莲船　～ Undefined Fantastic Object.</td></tr></tbody></table>
 
 空中的归路 ～ Sky Dream（曲目） - 由 ZUN 创作的官方曲目，原名 空の帰り道　～ Sky Dream
+
 ## 出现作品
 
 <table>
@@ -46,7 +49,9 @@
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 东方星莲船
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th12_17.mp3.md" title="文件:th12 17.mp3">th12_17.mp3</a><br><audio src="https://upload.thwiki.cc/b/b6/th12_17.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>BGM\th12_17.wav</td></tr><tr><td><b>BGMForAll</b></td><td><div class="mw-collapsible mw-collapsed">
@@ -57,7 +62,9 @@
 </td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 东方星莲船
 - Music Room (未找到链接)
 
@@ -67,8 +74,11 @@
   
 　旅游完了踏上安静的归途的感觉。  
 　请抬头仰望～夜空里有UFO在飞呢。
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
   
  **空の帰り道　～ Sky Dream**  空中的归路　～ Sky Dream
@@ -83,6 +93,7 @@
 - Sky Dream
   - 天空之梦。
     - 圣辇船在天空中。
+
 
 
 

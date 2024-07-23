@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-平安之夢成_～_30_years_of_Japan封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/c/cc/%E5%B9%B3%E5%AE%89%E4%B9%8B%E5%A4%A2%E6%88%90_%EF%BD%9E_30_years_of_Japan%E5%B0%81%E9%9D%A2.jpg/280px-%E5%B9%B3%E5%AE%89%E4%B9%8B%E5%A4%A2%E6%88%90_%EF%BD%9E_30_years_of_Japan%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="280" height="280" srcset="https://upload.thwiki.cc/thumb/c/cc/%E5%B9%B3%E5%AE%89%E4%B9%8B%E5%A4%A2%E6%88%90_%EF%BD%9E_30_years_of_Japan%E5%B0%81%E9%9D%A2.jpg/420px-%E5%B9%B3%E5%AE%89%E4%B9%8B%E5%A4%A2%E6%88%90_%EF%BD%9E_30_years_of_Japan%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/c/cc/%E5%B9%B3%E5%AE%89%E4%B9%8B%E5%A4%A2%E6%88%90_%EF%BD%9E_30_years_of_Japan%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="450" data-file-height="450"></a><div class="cover-char">角色：<a href="/index.php?title=%E5%8E%9F%E5%88%9B%E8%A7%92%E8%89%B2&amp;action=edit&amp;redlink=1" class="new" title="原创角色（页面不存在）">原创角色</a></div></td>
@@ -17,6 +18,7 @@
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=418310">蜜瓜</a>，<a rel="nofollow" class="external text" href="https://mazyu.booth.pm/items/1997447">Booth</a></td></tr></tbody></table>
 
 
+
 ## Staff
   
  **Compose**   
@@ -26,6 +28,7 @@
 
 Design
 : [翡翠（人物）](./翡翠（人物）.md)
+
 
 ## 试听
   
@@ -46,6 +49,7 @@ Design
 </td></tr></tbody></table>
 
 
+
 ## 曲目列表
 
 <table><tbody><tr><td id="1" class="infoYL"><b>01</b></td><td id="桜" colspan="2" class="title">桜<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=翡翠（人物）&amp;fromwiki=平安之夢成_～_30_years_of_Japan"><span title="搜索相似同人曲"></span></a></span></td><td class="time">01:54</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./翡翠（人物）.md" title="翡翠（人物）">翡翠（人物）</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，翡翠（人物）&amp;fromwiki=平安之夢成_～_30_years_of_Japan"><span></span></a></span></td></tr>
@@ -59,6 +63,7 @@ Design
 <tr><td id="9" class="infoYL"><b>09</b></td><td id="サクラファンタジア" colspan="2" class="title">サクラファンタジア<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=翡翠（人物）&amp;fromwiki=平安之夢成_～_30_years_of_Japan"><span title="搜索相似同人曲"></span></a></span></td><td class="time">05:52</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./翡翠（人物）.md" title="翡翠（人物）">翡翠（人物）</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，翡翠（人物）&amp;fromwiki=平安之夢成_～_30_years_of_Japan"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">Sakura Fantasia</td></tr>
 <tr><td id="10" class="infoYL"><b>10</b></td><td id="つゆりの月、幻" colspan="2" class="title">つゆりの月、幻<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=翡翠（人物）&amp;fromwiki=平安之夢成_～_30_years_of_Japan"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:58</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./翡翠（人物）.md" title="翡翠（人物）">翡翠（人物）</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，翡翠（人物）&amp;fromwiki=平安之夢成_～_30_years_of_Japan"><span></span></a></span></td></tr>
 <tr><td id="11" class="infoYL"><b>11</b></td><td id="翡翠色にさざめく平安の郷" colspan="2" class="title">翡翠色にさざめく平安の郷<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=翡翠（人物）&amp;fromwiki=平安之夢成_～_30_years_of_Japan"><span title="搜索相似同人曲"></span></a></span></td><td class="time">02:34</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./翡翠（人物）.md" title="翡翠（人物）">翡翠（人物）</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，翡翠（人物）&amp;fromwiki=平安之夢成_～_30_years_of_Japan"><span></span></a></span></td></tr></tbody></table>
+
 
 
 ## 评论

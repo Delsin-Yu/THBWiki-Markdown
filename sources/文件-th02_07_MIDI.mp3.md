@@ -4,6 +4,7 @@
 
 She's_in_a_temper!! | 东方封魔录
 
+
 ## 文件说明
   
 She's in a temper!! 东方封魔录1面BOSS里香的主题曲MIDI版。由Roland Sound Canvas 88Pro实机录制；MP3采样率44.1KHz，码率192Kbps。  

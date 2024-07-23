@@ -4,7 +4,8 @@
 
 Collateral Damage Studios ，主要制作 同人志，周边，其他 的新加坡同人社团，当前状态为 转入非东方
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -21,14 +22,18 @@ Collateral Damage Studios ，主要制作 同人志，周边，其他 的新加�
 
 
 
+
 ## 社团信息
 文件:Collateral Damage Studioslogo.jpg (未找到链接)  logo
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Collateral Damage Studios </td></tr><tr><td><b>主要作品类型</b></td><td>同人志，周边，其他</td></tr><tr><td><b>当前状态</b></td><td>转入非东方</td></tr><tr><td><b>地区</b></td><td>新加坡</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="https://www.collateralds.com/">https://www.collateralds.com/</a> <br><a rel="nofollow" class="external free" href="https://fb.com/cds.sg">https://fb.com/cds.sg</a><br><a rel="nofollow" class="external free" href="https://twitter.com/collateralds">https://twitter.com/collateralds</a></td></tr></tbody></table>
 
 Collateral Damage Studios（同人社团，同人志社团，周边社团，其他社团） - Collateral Damage Studios ，主要制作 同人志，周边，其他 的新加坡同人社团，当前状态为 转入非东方
+
 ## 成员名单
+
 ## 作品列表
+
 ### 同人志
 Talisman 封面图片 (未找到链接)Talisman (未找到链接)首发日期：未知 - [](./東方天子交友祭.md)[東方天子交友祭](./東方天子交友祭.md)首发日期：2009-08-22 （A Certain Magical Event 1 (未找到链接)）CDS0015a- （一般向）A4&#160;尺寸 20&#160;页東方百雲の夢 封面图片 (未找到链接)東方百雲の夢 (未找到链接)首发日期：未知 - [](./Starry★Night.md)[Starry★Night](./Starry★Night.md)首发日期：2011-06-25 （Cosfest X.1 (未找到链接)）CDS0022b漫画 （一般向）B5&#160;尺寸 62&#160;页东方×[黑岩射手](https://zh.wikipedia.org/wiki/黑岩射手)[](./東方聖縁記.md)[東方聖縁記](./東方聖縁記.md)首发日期：2011-04-09 （Start of Year Cosplay Event 2011 (未找到链接)）CDS0023- （一般向） 152&#160;页東方無限ハンター!! 封面图片 (未找到链接)東方無限ハンター!! (未找到链接)首发日期：未知 - Gears Phantasia 封面图片 (未找到链接)Gears Phantasia (未找到链接)首发日期：未知 - 
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -43,9 +48,11 @@ Talisman 封面图片 (未找到链接)Talisman (未找到链接)首发日期：
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458"></table>
 
 
+
 ### 同人专辑
 Talisman 封面图片 (未找到链接)Talisman (未找到链接)首发日期：未知 - 
 <table><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458"></table>
+
 
 
 ## 参展信息

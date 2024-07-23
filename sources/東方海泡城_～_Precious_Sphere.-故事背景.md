@@ -4,6 +4,7 @@
 
 使用了翻译表的页面 | 鹿子
 
+
 ## 故事背景
 
 <table><tbody><tr class="tt-content" id="故事背景-1" data-pos="&#91;&quot;\u6545\u4e8b\u80cc\u666f&quot;,1&#93;"><td class="tt-ja" lang="ja"><div class="poem">ある穏やかな春の季節に、ひっそりとした地底湖から突如玉が溢れ出てくる様になった。<br>綺麗な玉であったが、それに触ると一般人は急に抜け殻のようになり、ぶつぶつと<br>訳のわからない事を呟く様になってしまった。しかし玉は止まらない。</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-content" id="故事背景-2" data-pos="&#91;&quot;\u6545\u4e8b\u80cc\u666f&quot;,2&#93;"><td class="tt-ja" lang="ja"><div class="poem">かくして、いつもの様に異変解決にいつもの少女達が向かうこととなった。<br>そこにまつのは、幻想郷に存在しないはずの「海」の住人達であるとも知らずに――</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr></tbody></table>

@@ -21,12 +21,14 @@
 
   
 </center>
+
 ## 目录
 
 - [1 概述](#概述)
 - [2 目录](#目录)
 - [3 其他](#其他)
 - [4 注释](#注释)
+
 
 
 
@@ -54,12 +56,12 @@
 
 
   
-<big> **东方外来韦编 Strange Creators of Outer World. 2021 Spring!**   
-</big>
+<big> **东方外来韦编 Strange Creators of Outer World. 2021 Spring!** </big>
 東方外來韋編 Strange Creators of Outer World. 2021 Spring!<small>（とうほうがいらいいへん よん， *Touhou Gairaiihen* ）</small>  
 
 本杂志是[东方外来韦编](./东方外来韦编.md)系列杂志的第九号，发售于2021年03月31日，电子版发售于2021年04月07日。
   
+
 
 ## 目录
 - 封面
@@ -103,6 +105,7 @@
 
 - 第120页：出版信息
 - 封底
+
 
 ## 其他
 - 其他相关信息 (未找到链接)

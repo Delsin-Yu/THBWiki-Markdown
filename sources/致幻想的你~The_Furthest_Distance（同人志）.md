@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-致幻想的你~The_Furthest_Distance（同人志）封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/a/ac/%E8%87%B4%E5%B9%BB%E6%83%B3%E7%9A%84%E4%BD%A0~The_Furthest_Distance%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/224px-%E8%87%B4%E5%B9%BB%E6%83%B3%E7%9A%84%E4%BD%A0~The_Furthest_Distance%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="158" srcset="https://upload.thwiki.cc/thumb/a/ac/%E8%87%B4%E5%B9%BB%E6%83%B3%E7%9A%84%E4%BD%A0~The_Furthest_Distance%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/336px-%E8%87%B4%E5%B9%BB%E6%83%B3%E7%9A%84%E4%BD%A0~The_Furthest_Distance%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/a/ac/%E8%87%B4%E5%B9%BB%E6%83%B3%E7%9A%84%E4%BD%A0~The_Furthest_Distance%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/448px-%E8%87%B4%E5%B9%BB%E6%83%B3%E7%9A%84%E4%BD%A0~The_Furthest_Distance%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="877" data-file-height="620"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>，<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a></div></td>
@@ -18,7 +19,9 @@
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://item.taobao.com/item.htm?id=679570702417">淘宝</a></td></tr></tbody></table>
 
 
+
 ## 预览
+
 ## Staff
 主催/剧本大纲
 : 如煙似霧
@@ -37,6 +40,7 @@
 封面
 : 里奈
 : 辣酱
+
 
 ## 评论
 

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-TohoWalker_Vol.0封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/5/57/TohoWalker_Vol.0%E5%B0%81%E9%9D%A2.jpg/196px-TohoWalker_Vol.0%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="196" height="138" srcset="https://upload.thwiki.cc/thumb/5/57/TohoWalker_Vol.0%E5%B0%81%E9%9D%A2.jpg/294px-TohoWalker_Vol.0%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/5/57/TohoWalker_Vol.0%E5%B0%81%E9%9D%A2.jpg/392px-TohoWalker_Vol.0%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1280" data-file-height="904"></a><div class="cover-char">角色：<a href="./八云紫.md" title="八云紫">八云紫</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://niwatoyira.blog63.fc2.com/blog-entry-51.html">http://niwatoyira.blog63.fc2.com/blog-entry-51.html</a></td></tr></tbody></table>
 
 TohoWalker Vol.0（同人志，鶏屋，2006） - 2006年12月31日 由 鶏屋 于 Comic Market 71 发布的漫画同人志，B5尺寸一共20页，分级为 一般向
+
 ## Staff
 - 三井いちご (未找到链接)
+
 
 ## 评论
 

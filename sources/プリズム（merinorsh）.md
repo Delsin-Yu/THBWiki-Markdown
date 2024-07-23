@@ -18,6 +18,7 @@
 
 
 </center>
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-プリズム（merinorsh）封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/1/15/%E3%83%97%E3%83%AA%E3%82%BA%E3%83%A0%EF%BC%88merinorsh%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/194px-%E3%83%97%E3%83%AA%E3%82%BA%E3%83%A0%EF%BC%88merinorsh%EF%BC%89%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="194" height="196" srcset="https://upload.thwiki.cc/thumb/1/15/%E3%83%97%E3%83%AA%E3%82%BA%E3%83%A0%EF%BC%88merinorsh%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/291px-%E3%83%97%E3%83%AA%E3%82%BA%E3%83%A0%EF%BC%88merinorsh%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/1/15/%E3%83%97%E3%83%AA%E3%82%BA%E3%83%A0%EF%BC%88merinorsh%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/387px-%E3%83%97%E3%83%AA%E3%82%BA%E3%83%A0%EF%BC%88merinorsh%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="506" data-file-height="512"></a><div class="cover-char">角色：<a href="./梅露兰·普莉兹姆利巴.md" title="梅露兰·普莉兹姆利巴">梅露兰·普莉兹姆利巴</a>，<a href="./露娜萨·普莉兹姆利巴.md" title="露娜萨·普莉兹姆利巴">露娜萨·普莉兹姆利巴</a>，<a href="./莉莉卡·普莉兹姆利巴.md" title="莉莉卡·普莉兹姆利巴">莉莉卡·普莉兹姆利巴</a></div></td>
@@ -25,15 +26,18 @@
 </tr><tr><td class="label">首发日期</td><td>2013-08-12&#160;（<a href="/展会作品列表?e=Comic+Market%2384">Comic Market 84</a>）</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>0</td></tr><tr><td class="label">总时长</td><td>00:00</td></tr><tr><td class="label">风格类型</td><td>Rock</td></tr></tbody></table>
 
 プリズム（同人专辑，merinorsh，2013） - 2013年8月12日 由 merinorsh 于 Comic Market 84 发布的同人专辑，曲目主要风格是 Rock，分级为 一般向
+
 ## Staff
 Design
 : 设计师 （[网址 社团]）
 Illustration
 : 画师 （[网址 社团]）
 
+
 ## 曲目列表
 
 <table></table>
+
 
 
 ## 评论

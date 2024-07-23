@@ -6,11 +6,13 @@
 
 本页是关于东方Project  
  **相关实体周边 (未找到链接)** 的词条
+
 ## 模型信息
 
 <table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 蕾米莉亚·斯卡蕾特 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>Nanorich限定版</td></tr><tr><td class="label">角色</td><td><a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a></td></tr><tr><td class="label">原型师</td><td><a href="/index.php?title=%E3%81%B3%E3%83%BC%E3%81%B5%E3%82%8B&amp;action=edit&amp;redlink=1" class="new" title="びーふる（页面不存在）">びーふる</a></td></tr><tr><td class="label">尺寸</td><td>115mm</td></tr><tr><td class="label">状态</td><td>已发售</td></tr><tr><td class="label">售价</td><td>3519日元</td></tr><tr><td class="label">首发日期</td><td>2014-05-29</td></tr><tr><td class="label">发售方</td><td><a href="/index.php?title=GRIFFON&amp;action=edit&amp;redlink=1" class="new" title="GRIFFON（页面不存在）">GRIFFON</a></td></tr><tr><td class="label">备注</td><td>比通常版多两个替换颜</td></tr></tbody></table>
 
 GRIFFON/Nanorich限定版/蕾米莉亚·斯卡蕾特（周边） - 蕾米莉亚·斯卡蕾特PVCFigure手办模型
+
 ## 参考图片
 
 

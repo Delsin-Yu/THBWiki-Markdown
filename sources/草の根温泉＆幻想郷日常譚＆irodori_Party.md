@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-草の根温泉＆幻想郷日常譚＆irodori_Party封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/9/95/%E8%8D%89%E3%81%AE%E6%A0%B9%E6%B8%A9%E6%B3%89%EF%BC%86%E5%B9%BB%E6%83%B3%E9%83%B7%E6%97%A5%E5%B8%B8%E8%AD%9A%EF%BC%86irodori_Party%E5%B0%81%E9%9D%A2.png/224px-%E8%8D%89%E3%81%AE%E6%A0%B9%E6%B8%A9%E6%B3%89%EF%BC%86%E5%B9%BB%E6%83%B3%E9%83%B7%E6%97%A5%E5%B8%B8%E8%AD%9A%EF%BC%86irodori_Party%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="224" height="158" srcset="https://upload.thwiki.cc/thumb/9/95/%E8%8D%89%E3%81%AE%E6%A0%B9%E6%B8%A9%E6%B3%89%EF%BC%86%E5%B9%BB%E6%83%B3%E9%83%B7%E6%97%A5%E5%B8%B8%E8%AD%9A%EF%BC%86irodori_Party%E5%B0%81%E9%9D%A2.png/336px-%E8%8D%89%E3%81%AE%E6%A0%B9%E6%B8%A9%E6%B3%89%EF%BC%86%E5%B9%BB%E6%83%B3%E9%83%B7%E6%97%A5%E5%B8%B8%E8%AD%9A%EF%BC%86irodori_Party%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/9/95/%E8%8D%89%E3%81%AE%E6%A0%B9%E6%B8%A9%E6%B3%89%EF%BC%86%E5%B9%BB%E6%83%B3%E9%83%B7%E6%97%A5%E5%B8%B8%E8%AD%9A%EF%BC%86irodori_Party%E5%B0%81%E9%9D%A2.png/448px-%E8%8D%89%E3%81%AE%E6%A0%B9%E6%B8%A9%E6%B3%89%EF%BC%86%E5%B9%BB%E6%83%B3%E9%83%B7%E6%97%A5%E5%B8%B8%E8%AD%9A%EF%BC%86irodori_Party%E5%B0%81%E9%9D%A2.png 2x" data-file-width="1500" data-file-height="1060"></a><div class="cover-char">角色：<a href="./今泉影狼.md" title="今泉影狼">今泉影狼</a>，<a href="./若鹭姬.md" title="若鹭姬">若鹭姬</a>，<a href="./封兽鵺.md" title="封兽鵺">封兽鵺</a>，<a href="./多多良小伞.md" title="多多良小伞">多多良小伞</a>，<a href="./赤蛮奇.md" title="赤蛮奇">赤蛮奇</a>，<a href="./二岩猯藏.md" title="二岩猯藏">二岩猯藏</a></div></td>
@@ -18,9 +19,12 @@
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://kamiigusaudon.booth.pm/items/2020275">Booth</a></td></tr></tbody></table>
 
 
+
 ## 预览
+
 ## Staff
 - 小猫 (未找到链接)
+
 
 ## 评论
 

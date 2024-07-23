@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Talaria_～_翼の生えた靴、或はサンダアル。封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/7/73/Talaria_%EF%BD%9E_%E7%BF%BC%E3%81%AE%E7%94%9F%E3%81%88%E3%81%9F%E9%9D%B4%E3%80%81%E6%88%96%E3%81%AF%E3%82%B5%E3%83%B3%E3%83%80%E3%82%A2%E3%83%AB%E3%80%82%E5%B0%81%E9%9D%A2.jpg/224px-Talaria_%EF%BD%9E_%E7%BF%BC%E3%81%AE%E7%94%9F%E3%81%88%E3%81%9F%E9%9D%B4%E3%80%81%E6%88%96%E3%81%AF%E3%82%B5%E3%83%B3%E3%83%80%E3%82%A2%E3%83%AB%E3%80%82%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="224" srcset="https://upload.thwiki.cc/thumb/7/73/Talaria_%EF%BD%9E_%E7%BF%BC%E3%81%AE%E7%94%9F%E3%81%88%E3%81%9F%E9%9D%B4%E3%80%81%E6%88%96%E3%81%AF%E3%82%B5%E3%83%B3%E3%83%80%E3%82%A2%E3%83%AB%E3%80%82%E5%B0%81%E9%9D%A2.jpg/336px-Talaria_%EF%BD%9E_%E7%BF%BC%E3%81%AE%E7%94%9F%E3%81%88%E3%81%9F%E9%9D%B4%E3%80%81%E6%88%96%E3%81%AF%E3%82%B5%E3%83%B3%E3%83%80%E3%82%A2%E3%83%AB%E3%80%82%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/7/73/Talaria_%EF%BD%9E_%E7%BF%BC%E3%81%AE%E7%94%9F%E3%81%88%E3%81%9F%E9%9D%B4%E3%80%81%E6%88%96%E3%81%AF%E3%82%B5%E3%83%B3%E3%83%80%E3%82%A2%E3%83%AB%E3%80%82%E5%B0%81%E9%9D%A2.jpg/448px-Talaria_%EF%BD%9E_%E7%BF%BC%E3%81%AE%E7%94%9F%E3%81%88%E3%81%9F%E9%9D%B4%E3%80%81%E6%88%96%E3%81%AF%E3%82%B5%E3%83%B3%E3%83%80%E3%82%A2%E3%83%AB%E3%80%82%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1024" data-file-height="1024"></a><div class="cover-char">角色：<a href="./宇佐见莲子.md" title="宇佐见莲子">宇佐见莲子</a>，<a href="./玛艾露贝莉·赫恩.md" title="玛艾露贝莉·赫恩">玛艾露贝莉·赫恩</a></div></td>
@@ -18,6 +19,7 @@ Talaria ～ 翼の生えた靴、或はサンダアル。（同人专辑，夢�
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://mazyu.booth.pm/items/4388685">Booth</a></td></tr></tbody></table>
 
 
+
 ## Staff
   
  **Compose**   
@@ -27,6 +29,7 @@ Talaria ～ 翼の生えた靴、或はサンダアル。（同人专辑，夢�
 
 Illustration
 : [ねるぞう](./ねるぞう.md)
+
 
 ## 试听
 
@@ -40,6 +43,7 @@ Illustration
 </td></tr></tbody></table>
 
 
+
 ## 曲目列表
 
 <table><tbody><tr><td id="1" class="infoYL"><b>01</b></td><td id="おはよう" colspan="2" class="title">おはよう<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=翡翠&amp;fromwiki=Talaria_～_翼の生えた靴、或はサンダアル。"><span title="搜索相似同人曲"></span></a></span></td><td class="time">02:11</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./翡翠.md" title="翡翠">翡翠</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，翡翠&amp;fromwiki=Talaria_～_翼の生えた靴、或はサンダアル。"><span></span></a></span></td></tr>
@@ -48,6 +52,7 @@ Illustration
 <tr><td id="4" class="infoYL"><b>04</b></td><td id="君は僕等の東洋が生んだ_草花の匂いのする電気機関車だ。" colspan="2" class="title">君は僕等の東洋が生んだ　　　　草花の匂いのする電気機関車だ。<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=翡翠&amp;fromwiki=Talaria_～_翼の生えた靴、或はサンダアル。"><span title="搜索相似同人曲"></span></a></span></td><td class="time">02:50</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./翡翠.md" title="翡翠">翡翠</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，翡翠&amp;fromwiki=Talaria_～_翼の生えた靴、或はサンダアル。"><span></span></a></span></td></tr>
 <tr><td id="5" class="infoYL"><b>05</b></td><td id="翼の生えた靴、或はサンダアル。" colspan="2" class="title">翼の生えた靴、或はサンダアル。<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=翡翠&amp;fromwiki=Talaria_～_翼の生えた靴、或はサンダアル。"><span title="搜索相似同人曲"></span></a></span></td><td class="time">05:14</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./翡翠.md" title="翡翠">翡翠</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，翡翠&amp;fromwiki=Talaria_～_翼の生えた靴、或はサンダアル。"><span></span></a></span></td></tr>
 <tr><td id="6" class="infoYL"><b>06</b></td><td id="病" colspan="2" class="title">病<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=翡翠&amp;fromwiki=Talaria_～_翼の生えた靴、或はサンダアル。"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:03</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./翡翠.md" title="翡翠">翡翠</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，翡翠&amp;fromwiki=Talaria_～_翼の生えた靴、或はサンダアル。"><span></span></a></span></td></tr></tbody></table>
+
 
 
 ## 评论

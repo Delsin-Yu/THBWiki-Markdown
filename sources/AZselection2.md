@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-AZselection2封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/b/b0/AZselection2%E5%B0%81%E9%9D%A2.jpg/140px-AZselection2%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="140" height="196" srcset="https://upload.thwiki.cc/thumb/b/b0/AZselection2%E5%B0%81%E9%9D%A2.jpg/210px-AZselection2%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/b/b0/AZselection2%E5%B0%81%E9%9D%A2.jpg/280px-AZselection2%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="740" data-file-height="1036"></a><div class="cover-char">角色：<a href="./橙.md" title="橙">橙</a>，<a href="./八云蓝.md" title="八云蓝">八云蓝</a>，<a href="./二岩猯藏.md" title="二岩猯藏">二岩猯藏</a>，<a href="./八云紫.md" title="八云紫">八云紫</a></div></td>
@@ -18,8 +19,10 @@ AZselection2（同人志，小豆粥，2014） - 2014年8月16日 由 小豆粥 
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=234449">蜜瓜（电子书）</a></td></tr></tbody></table>
 
 
+
 ## Staff
 - 小豆長光 (未找到链接)
+
 
 ## 收录作品
 - [東方狸合戦ぽんぽこ](./東方狸合戦ぽんぽこ.md)
@@ -29,6 +32,7 @@ AZselection2（同人志，小豆粥，2014） - 2014年8月16日 由 小豆粥 
 - [ニッパチいこうぜ！](./ニッパチいこうぜ！.md)
 - [幻想郷はそれを愛と呼ぶんだぜ](./幻想郷はそれを愛と呼ぶんだぜ.md)
 - もちらんかきおらしマンがも (未找到链接)
+
 
 ## 评论
 ```

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -37,11 +38,13 @@
 
 
 
+
 ## 基本信息
 
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">紅響曲　～ Scarlet Phoneme</td></tr><tr><td><b>译名</b></td><td>红响曲 ～ Scarlet Phoneme</td></tr><tr><td><b>英文译名</b></td><td>Scarlet Symphony ~ Scarlet Phoneme</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 红响曲 ～ Scarlet Phoneme（曲目） - 由 ZUN 创作的官方曲目，原名 紅響曲　～ Scarlet Phoneme
+
 ## 出现作品
 
 <table>
@@ -51,7 +54,9 @@
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 东方幻想乡
   
 YM2203(OPN)，FM26K音源版。
@@ -67,6 +72,7 @@ YM2608(OPNA)，FM86音源版。
 
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th04_06_86.ogg.md" title="文件:th04 06 86.ogg">th04_06_86.ogg</a><br><audio src="https://upload.thwiki.cc/d/d6/th04_06_86.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>ST01B.M86</td></tr><tr><td><b>音轨时长</b></td><td>1:47.558</td></tr></tbody></table>
+
 
 
 ### 东方怪绮谈
@@ -86,12 +92,15 @@ YM2608(OPNA)，FM86音源版。
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th05_G_06_86.ogg.md" title="文件:th05 G 06 86.ogg">th05_G_06_86.ogg</a><br><audio src="https://upload.thwiki.cc/0/07/th05_G_06_86.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>G_ST01B.M2</td></tr><tr><td><b>音轨时长</b></td><td>1:47.558</td></tr></tbody></table>
 
 
+
 ### 幺乐团的历史 vol.1
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-ha01a_06.mp3.md" title="文件:ha01a 06.mp3">ha01a_06.mp3</a><br><audio src="https://upload.thwiki.cc/0/0f/ha01a_06.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track06.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>2:42</td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 东方幻想乡
 - Music Room (未找到链接)
 
@@ -105,6 +114,7 @@ YM2608(OPNA)，FM86音源版。
 ＺＵＮ（太田）  
 用于东方幻想乡的曲子  
 大概２boss
+
 ### 东方怪绮谈
 - Music Room (未找到链接)
 
@@ -112,8 +122,11 @@ YM2608(OPNA)，FM86音源版。
 ＺＵＮ（太田）  
 用于东方幻想乡的曲子。  
 大概2boss
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
   
  **紅響曲　～ Scarlet Phoneme** 
@@ -132,6 +145,7 @@ YM2608(OPNA)，FM86音源版。
 - Phoneme，音素
   - 语音学上能区分不同音的最小单位
   - 有别于其他的深红的本质？
+
 
 
 ### 二次同人数据

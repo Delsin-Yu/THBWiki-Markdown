@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 软件信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Atai_hazard封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/d/d0/Atai_hazard%E5%B0%81%E9%9D%A2.jpg/196px-Atai_hazard%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="196" height="196" srcset="https://upload.thwiki.cc/thumb/d/d0/Atai_hazard%E5%B0%81%E9%9D%A2.jpg/294px-Atai_hazard%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/d/d0/Atai_hazard%E5%B0%81%E9%9D%A2.jpg/392px-Atai_hazard%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="400" data-file-height="400"></a><div class="cover-char">角色：<a href="./琪露诺.md" title="琪露诺">琪露诺</a></div></td>
@@ -24,6 +25,7 @@ atai hazard（同人游戏，W.O.D，2007） - 2007年12月31日 由 W.O.D 于 C
 <tbody><tr><th colspan="2">配置需求</th></tr>
 <tr><td style="width:120px;padding-left:7px;"><b>操作系统</b></td><td>Windows XP</td></tr><tr><td style="width:120px;padding-left:7px;"><b>CPU</b></td><td>Pentium系列CPU 900Hz以上（或同等规格的CPU）</td></tr><tr><td style="width:120px;padding-left:7px;"><b>内存</b></td><td>128MB以上</td></tr><tr><td style="width:120px;padding-left:7px;"><b>显示卡</b></td><td>1024*768以上解析度，安装DirectX 9.0</td></tr><tr><td style="width:120px;padding-left:7px;"><b>硬盘需求</b></td><td>35MB以上空间</td></tr><tr><td style="width:120px;padding-left:7px;"><b>其他</b></td><td>有鼠标</td></tr>
 </tbody></table>
+
 
 
 ## Staff

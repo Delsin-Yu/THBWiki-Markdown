@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-stargazer.封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/7/78/stargazer.%E5%B0%81%E9%9D%A2.png/119px-stargazer.%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="119" height="168" srcset="https://upload.thwiki.cc/thumb/7/78/stargazer.%E5%B0%81%E9%9D%A2.png/178px-stargazer.%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/7/78/stargazer.%E5%B0%81%E9%9D%A2.png/237px-stargazer.%E5%B0%81%E9%9D%A2.png 2x" data-file-width="299" data-file-height="423"></a><div class="cover-char">角色：<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a>，<a href="./爱丽丝·玛格特洛依德.md" title="爱丽丝·玛格特洛依德">爱丽丝·玛格特洛依德</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.facebook.com/wintercannelle/posts/734352569984262">https://www.facebook.com/wintercannelle/posts/734352569984262</a><br><a rel="nofollow" class="external free" href="https://furude.tumblr.com/post/95439415425/a-preview-of-my-touhou-project-doujinshi-marisa">https://furude.tumblr.com/post/95439415425/a-preview-of-my-touhou-project-doujinshi-marisa</a><br><a rel="nofollow" class="external free" href="https://www.deviantart.com/tanuma-san/art/stargazer-474575472">https://www.deviantart.com/tanuma-san/art/stargazer-474575472</a></td></tr></tbody></table>
 
 stargazer.（同人志，Winter Cannelle，2014） - 2014年8月15日 由 Winter Cannelle 于 Anime Festival Asia 2014 Indonesia 发布的漫画同人志，登场人物有 雾雨魔理沙、爱丽丝·玛格特洛依德，分级为 一般向
+
 ## Staff
 - tan (未找到链接) （[Winter Cannelle](./Winter_Cannelle.md)）
+
 
 ## 评论
 

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-High-Pretty封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/c/c1/High-Pretty%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="196" height="194" data-file-width="194" data-file-height="192"></a><div class="cover-char">角色：<a href="/index.php?title=%E5%8E%9F%E5%88%9B%E8%A7%92%E8%89%B2&amp;action=edit&amp;redlink=1" class="new" title="原创角色（页面不存在）">原创角色</a>，<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a></div></td>
@@ -14,12 +15,15 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://www.circle-rw.net/music/high-pretty">http://www.circle-rw.net/music/high-pretty</a></td></tr></tbody></table>
 
 High-Pretty（同人专辑，circle-rw，2005） - 2005年12月30日 由 circle-rw 于 Comic Market 69 发布的EP同人专辑，分级为 一般向
+
 ## Staff
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="info"><b>01</b></td><td id="Seven_-High_Pretty-Otenba_Mix-" colspan="2" class="title">Seven -High Pretty-Otenba Mix-<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=おてんば恋娘&amp;fromwiki=High-Pretty"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=おてんば恋娘&amp;fromwiki=High-Pretty"><span></span></a></span><div class="ogmusic"><a href="/%E3%81%8A%E3%81%A6%E3%82%93%E3%81%B0%E6%81%8B%E5%A8%98" class="mw-redirect" title="おてんば恋娘">おてんば恋娘</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E7%BA%A2%E9%AD%94%E4%B9%A1_%EF%BD%9E_the_Embodiment_of_Scarlet_Devil." class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr>
+<table><tbody><tr><td id="1" class="info"><b>01</b></td><td id="Seven_-High_Pretty-Otenba_Mix-" colspan="2" class="title">Seven -High Pretty-Otenba Mix-<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=おてんば恋娘&amp;fromwiki=High-Pretty"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=おてんば恋娘&amp;fromwiki=High-Pretty"><span></span></a></span><div class="ogmusic"><a href="./おてんば恋娘.md" class="mw-redirect" title="おてんば恋娘">おてんば恋娘</a></div><div class="source"><a href="./东方红魔乡_～_the_Embodiment_of_Scarlet_Devil..md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr>
 <tr><td id="2" class="info"><b>02</b></td><td id="Ensemble-Requiem_for_Lili_Levinas-" colspan="2" class="title">Ensemble-Requiem for Lili Levinas-<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=assemble:Theme song of Mika Mikli and song that images Lili Levinas&amp;fromwiki=High-Pretty"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=assemble:Theme song of Mika Mikli and song that images Lili Levinas&amp;fromwiki=High-Pretty"><span></span></a></span><div class="ogmusic">assemble:Theme song of Mika Mikli and song that images Lili Levinas</div></td></tr>
 <tr><td id="3" class="info"><b>03</b></td><td id="Six_-西洋紅茶館Mix-" colspan="2" class="title">Six -西洋紅茶館Mix-<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=西洋紅茶間～ChineseTea&amp;fromwiki=High-Pretty"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=西洋紅茶間～ChineseTea&amp;fromwiki=High-Pretty"><span></span></a></span><div class="ogmusic">西洋紅茶間～ChineseTea</div></td></tr></tbody></table>
+
 
 
 ## 评论

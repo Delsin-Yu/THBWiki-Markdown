@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Ghaneveille_-収容幻想-_”Keter”封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/7/71/Ghaneveille_-%E5%8F%8E%E5%AE%B9%E5%B9%BB%E6%83%B3-_%E2%80%9DKeter%E2%80%9D%E5%B0%81%E9%9D%A2.jpg/102px-Ghaneveille_-%E5%8F%8E%E5%AE%B9%E5%B9%BB%E6%83%B3-_%E2%80%9DKeter%E2%80%9D%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="102" height="168" srcset="https://upload.thwiki.cc/thumb/7/71/Ghaneveille_-%E5%8F%8E%E5%AE%B9%E5%B9%BB%E6%83%B3-_%E2%80%9DKeter%E2%80%9D%E5%B0%81%E9%9D%A2.jpg/154px-Ghaneveille_-%E5%8F%8E%E5%AE%B9%E5%B9%BB%E6%83%B3-_%E2%80%9DKeter%E2%80%9D%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/7/71/Ghaneveille_-%E5%8F%8E%E5%AE%B9%E5%B9%BB%E6%83%B3-_%E2%80%9DKeter%E2%80%9D%E5%B0%81%E9%9D%A2.jpg/205px-Ghaneveille_-%E5%8F%8E%E5%AE%B9%E5%B9%BB%E6%83%B3-_%E2%80%9DKeter%E2%80%9D%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="997" data-file-height="1632"></a><div class="cover-char">角色：<a href="/index.php?title=%E5%8E%9F%E5%88%9B%E8%A7%92%E8%89%B2&amp;action=edit&amp;redlink=1" class="new" title="原创角色（页面不存在）">原创角色</a>，<a href="./玛艾露贝莉·赫恩.md" title="玛艾露贝莉·赫恩">玛艾露贝莉·赫恩</a></div></td>
@@ -18,6 +19,7 @@ Ghaneveille -収容幻想- ”Keter”（同人志，U京都怪奇倶楽部，20
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=370713">蜜瓜</a></td></tr></tbody></table>
 
 
+
 ## Staff
 Writing
 : そひか
@@ -27,6 +29,7 @@ Typesetting
 : RF （[Twitter: @hal1929](https://twitter.com/hal1929)）
 Web Design
 : kirinsan.inc （[Twitter: @kirinsan_inc](https://twitter.com/kirinsan_inc)）
+
 
 ## 评论
 ```

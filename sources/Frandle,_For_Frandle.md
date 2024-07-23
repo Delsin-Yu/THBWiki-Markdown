@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Frandle,_For_Frandle封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/2/2c/Frandle%2C_For_Frandle%E5%B0%81%E9%9D%A2.jpg/160px-Frandle%2C_For_Frandle%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="160" height="224" srcset="https://upload.thwiki.cc/thumb/2/2c/Frandle%2C_For_Frandle%E5%B0%81%E9%9D%A2.jpg/239px-Frandle%2C_For_Frandle%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/2/2c/Frandle%2C_For_Frandle%E5%B0%81%E9%9D%A2.jpg/319px-Frandle%2C_For_Frandle%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="2122" data-file-height="2976"></a><div class="cover-char">角色：<a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a>，<a href="./饕餮尤魔.md" title="饕餮尤魔">饕餮尤魔</a></div></td>
@@ -14,9 +15,12 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/RUSnRG1/status/1652236408097222656">https://twitter.com/RUSnRG1/status/1652236408097222656</a></td></tr></tbody></table>
 
 Frandle, For Frandle（同人志，End of My Lilith，2023） - 2023年5月7日 由 End of My Lilith 于 博丽神社例大祭20 发布的小说同人志，A5尺寸一共92页，登场人物有 饕餮尤魔、芙兰朵露·斯卡蕾特，分级为 一般向
+
 ## 预览
+
 ## Staff
 - れう すずらぎ (未找到链接)
+
 
 ## 评论
   

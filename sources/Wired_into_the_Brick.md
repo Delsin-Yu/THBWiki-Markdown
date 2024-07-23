@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Wired_into_the_Brick封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/8/89/Wired_into_the_Brick%E5%B0%81%E9%9D%A2.jpg/224px-Wired_into_the_Brick%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="224" srcset="https://upload.thwiki.cc/thumb/8/89/Wired_into_the_Brick%E5%B0%81%E9%9D%A2.jpg/336px-Wired_into_the_Brick%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/8/89/Wired_into_the_Brick%E5%B0%81%E9%9D%A2.jpg/448px-Wired_into_the_Brick%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="500" data-file-height="500"></a><div class="cover-char">角色：<a href="./红美铃.md" title="红美铃">红美铃</a></div></td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/nohta130/status/1522538828124151808">https://twitter.com/nohta130/status/1522538828124151808</a></td></tr></tbody></table>
 
 Wired into the Brick（同人专辑，Unity-Gain，2022） - 2022年5月8日 由 Unity-Gain 于 博丽神社例大祭19 发布的Demo同人专辑，分级为 一般向
+
 ## Staff
   
  **Arrangement**   
@@ -24,15 +26,18 @@ Wired into the Brick（同人专辑，Unity-Gain，2022） - 2022年5月8日 由
 Illustration
 : 96KI (未找到链接)
 
+
 ## 试听
   
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1263280942&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=false"></iframe>
 
   
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Wired_into_the_Brick" colspan="2" class="title">Wired into the Brick<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=O太&amp;ogmusic=明治十七年の上海アリス&amp;fromwiki=Wired_into_the_Brick"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=O%E5%A4%AA&amp;action=edit&amp;redlink=1" class="new" title="O太（页面不存在）">O太</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，O太&amp;fromwiki=Wired_into_the_Brick"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=明治十七年の上海アリス&amp;fromwiki=Wired_into_the_Brick"><span></span></a></span><div class="ogmusic"><a href="/%E6%98%8E%E6%B2%BB%E5%8D%81%E4%B8%83%E5%B9%B4%E3%81%AE%E4%B8%8A%E6%B5%B7%E3%82%A2%E3%83%AA%E3%82%B9" class="mw-redirect" title="明治十七年の上海アリス">明治十七年の上海アリス</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E7%BA%A2%E9%AD%94%E4%B9%A1_%EF%BD%9E_the_Embodiment_of_Scarlet_Devil." class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Wired_into_the_Brick" colspan="2" class="title">Wired into the Brick<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=O太&amp;ogmusic=明治十七年の上海アリス&amp;fromwiki=Wired_into_the_Brick"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=O%E5%A4%AA&amp;action=edit&amp;redlink=1" class="new" title="O太（页面不存在）">O太</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，O太&amp;fromwiki=Wired_into_the_Brick"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=明治十七年の上海アリス&amp;fromwiki=Wired_into_the_Brick"><span></span></a></span><div class="ogmusic"><a href="./明治十七年の上海アリス.md" class="mw-redirect" title="明治十七年の上海アリス">明治十七年の上海アリス</a></div><div class="source"><a href="./东方红魔乡_～_the_Embodiment_of_Scarlet_Devil..md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

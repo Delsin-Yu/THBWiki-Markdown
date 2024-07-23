@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Summer_Rain_Elegy封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/9/9d/Summer_Rain_Elegy%E5%B0%81%E9%9D%A2.png/143px-Summer_Rain_Elegy%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="143" height="196" srcset="https://upload.thwiki.cc/thumb/9/9d/Summer_Rain_Elegy%E5%B0%81%E9%9D%A2.png/214px-Summer_Rain_Elegy%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/9/9d/Summer_Rain_Elegy%E5%B0%81%E9%9D%A2.png/286px-Summer_Rain_Elegy%E5%B0%81%E9%9D%A2.png 2x" data-file-width="600" data-file-height="823"></a><div class="cover-char">角色：<a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a>，<a href="./稗田阿求.md" title="稗田阿求">稗田阿求</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://unlockcloset.blog116.fc2.com/blog-entry-78.html">http://unlockcloset.blog116.fc2.com/blog-entry-78.html</a><br><a rel="nofollow" class="external free" href="http://unlockcloset.blog116.fc2.com/blog-entry-80.html">http://unlockcloset.blog116.fc2.com/blog-entry-80.html</a></td></tr></tbody></table>
 
 Summer Rain Elegy（同人志，抽象庭園，2011） - 2011年5月8日 由 抽象庭園 于 博丽神社例大祭8 发布的小说同人志，文库版尺寸一共116页，分级为 一般向
+
 ## Staff
 - Closet (未找到链接)
+
 
 ## 评论
 

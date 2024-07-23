@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-scoop封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/6/6a/scoop%E5%B0%81%E9%9D%A2.jpg/158px-scoop%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="158" height="224" srcset="https://upload.thwiki.cc/thumb/6/6a/scoop%E5%B0%81%E9%9D%A2.jpg/237px-scoop%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/6/6a/scoop%E5%B0%81%E9%9D%A2.jpg/316px-scoop%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="635" data-file-height="900"></a><div class="cover-char">角色：<a href="./鬼人正邪.md" title="鬼人正邪">鬼人正邪</a>，<a href="./封兽鵺.md" title="封兽鵺">封兽鵺</a></div></td>
@@ -18,9 +19,12 @@ scoop（同人志，煎，2014） - 2014年11月2日 由 煎 于 文文。新闻
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=109132">蜜瓜</a></td></tr></tbody></table>
 
 
+
 ## 预览
+
 ## Staff
 - [煎兵衛](./煎兵衛.md)
+
 
 ## 评论
 

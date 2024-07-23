@@ -6,12 +6,14 @@
 
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 软件信息](#软件信息)
 - [2 Staff](#Staff)
 - [3 内容页面](#内容页面)
 - [4 评论](#评论)
+
 
 
 
@@ -24,6 +26,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://touhou.white-datura.net/index.html">http://touhou.white-datura.net/index.html</a></td></tr></tbody></table>
 
 東方戰時空～Battalia Dreamscape（同人游戏，White Datura，2010） - 2010年10月4日 由 White Datura 于 上海THONLY3 发布的TAB同人游戏，可在 通用 系统上运行，游戏人数为 多人模式，分级为 一般向
+
 ## Staff
 - Archlich
 - Flelincw
@@ -40,9 +43,11 @@
 - 鹹菜
 - 真A
 
+
 ## 内容页面
 - 使用说明 (未找到链接)
 - 其他信息 (未找到链接)
+
 
 ## 评论
   

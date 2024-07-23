@@ -4,6 +4,7 @@
 
 夢中界 | 社团LOGO
 
+
 ## 摘要
   
 源地址：[direct image link](http://mosoz.web.fc2.com/banner.jpg), [source page](http://mosoz.web.fc2.com/about.html)

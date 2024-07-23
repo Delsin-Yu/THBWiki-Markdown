@@ -4,7 +4,8 @@
 
 Sigyaad Team ，主要制作 同人游戏 的同人社团，主催是 Sigyaad，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -16,6 +17,7 @@ Sigyaad Team ，主要制作 同人游戏 的同人社团，主催是 Sigyaad，
 
 
 - [4 参展信息](#参展信息)
+
 
 
 
@@ -32,12 +34,15 @@ Hello! My name is Sigyaad! I'm a solo developer that makes games that aim at mak
 大家好！我是Sigyaad!也是一个游戏开发者，以让你更快乐为目标！如果我的任意一款游戏让你感到更快乐，哪怕只有一点点，我的工作就圆满啦！你可以在[这个网址](http://www.steampowered.com/dev/sigyaad)看到我所有的游戏！祝你有美好的一天！
   
 
+
 ## 成员名单
   
 Sigyaad
   
 
+
 ## 作品列表
+
 ### 同人游戏
 Outdoor Adventures With Marisa Kirisame 封面图片 (未找到链接)Outdoor Adventures With Marisa Kirisame (未找到链接)首发日期：未知 - Save Me, Sakuya-san! 封面图片 (未找到链接)Save Me, Sakuya-san! (未找到链接)首发日期：未知 - [](./CBT_With_Yuuka_Kazami.md)[CBT With Yuuka Kazami](./CBT_With_Yuuka_Kazami.md)首发日期：2020-10-19 AVG （一般向）[](./Sakuya_Izayoi_Gives_You_Advice_And_Dabs.md)[Sakuya Izayoi Gives You Advice And Dabs](./Sakuya_Izayoi_Gives_You_Advice_And_Dabs.md)首发日期：2020-02-10 AVG （一般向）
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -46,6 +51,7 @@ Outdoor Adventures With Marisa Kirisame 封面图片 (未找到链接)Outdoor Ad
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 参展信息

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -37,11 +38,13 @@
 
 
 
+
 ## 基本信息
 
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">六十年目の東方裁判　～ Fate of Sixty Years</td></tr><tr><td><b>译名</b></td><td>第六十年的东方审判 ～ Fate of Sixty Years</td></tr><tr><td><b>英文译名</b></td><td>Eastern Judgement in the Sixtieth Year ~ Fate of Sixty Years</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 第六十年的东方审判 ～ Fate of Sixty Years（曲目） - 由 ZUN 创作的官方曲目，原名 六十年目の東方裁判　～ Fate of Sixty Years
+
 ## 出现作品
 
 <table>
@@ -51,7 +54,9 @@
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 东方花映塚
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th09_15.mp3.md" title="文件:th09 15.mp3">th09_15.mp3</a><br><audio src="https://upload.thwiki.cc/1/12/th09_15.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>BGM\th09_15.wav</td></tr><tr><td><b>BGMForAll</b></td><td><div class="mw-collapsible mw-collapsed">
@@ -62,9 +67,11 @@
 </td></tr></tbody></table>
 
 
+
 ### 东方紫香花
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-TORA-00009_13.mp3.md" title="文件:TORA-00009 13.mp3">TORA-00009 13.mp3</a><br><audio src="https://upload.thwiki.cc/3/38/TORA-00009_13.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track13.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>5:31</td></tr></tbody></table>
+
 
 
 ### 伊奘诺物质
@@ -72,7 +79,9 @@
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-hr08_04.mp3.md" title="文件:hr08 04.mp3">hr08_04.mp3</a><br><audio src="https://upload.thwiki.cc/0/00/hr08_04.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track04.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>5:30</td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 东方花映塚
 - Music Room (未找到链接)
 
@@ -83,6 +92,7 @@
 　力量强大与虚无缥缈同在的这首曲子，  
 　乃是为了未曾被见到的最为美丽的樱之国所作。  
 　对于整体都比较笨蛋的这款游戏来说，我以为也只有这首曲子有劲。
+
 ### 东方紫香花
 - 曲目说明 (未找到链接)
 
@@ -91,8 +101,11 @@
 我觉得在我的曲子中，很少有曲子像这首那样有“东方”的感觉。  
 这是一首适合放在一年之外的曲子。  
 小说也是那样:-)
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
   
  **六十年目の東方裁判　～ Fate of Sixty Years**  第六十年的东方审判　～ Fate of Sixty Years
@@ -139,6 +152,7 @@
 
 
 - [](./文件-远东国际法庭.jpg.md)远东国际法庭
+
 
 ### 二次同人数据
 

@@ -8,6 +8,7 @@
  **<big><big>东方儚月抄 ～ Silent Sinner in Blue.</big></big>** 
   
 
+
 ## 目录
 
 - [1 分析与考据](#分析与考据)
@@ -41,7 +42,9 @@
 
 
 
+
 ## 分析与考据
+
 ### 第1话 贤者的计划
 - 大国主（だいこくさま）
   - 大国主（おおくにぬし）。记纪神话中帮助因幡白兔的神明。读作だいこくさま时往往是在与大黑天习合的场合。
@@ -53,6 +56,7 @@
   - 原文是类似于绕口令的日语谐音游戏。
 
 
+
 ### 第2话 玉兔的信
 - 玉兔
   - 月兔。玉是月的意思。
@@ -62,6 +66,7 @@
 
 - 嫦娥
   - 河伯的女儿，喝了不死药之后前往月球。月之女神。
+
 
 
 ### 第3话 红色火箭
@@ -83,6 +88,7 @@
 That's one small step for a man, one giant leap for mankind.
 ```
 
+
 ### 第4话 旧友的雨月
 - 雨月
   - 因下雨无法看见中秋的明月。秋季的季语。
@@ -95,15 +101,18 @@ That's one small step for a man, one giant leap for mankind.
 西行法师在前往被称为和歌之神的住吉神的神社途中，曾借宿在百姓家中。家中的一对老夫妇在争论月和雨音哪边更好，西行法师采取两者的意见创作了和歌。
 ```
 
+
 ### 第5话 住吉计划
 - 蒂罗尔之秋
   - 岸田国士的剧本。
   - 同时也是甜品制造商的名字，所以灵梦联想到甜食。
 
 
+
 ### 第6话 三神型登月火箭
 - 道路近在咫尺，却要舍近求远（道在迩而求诸远）
   - 出自「孟子·离娄上」。
+
 
 
 ### 第7话 月球的公主
@@ -115,9 +124,11 @@ That's one small step for a man, one giant leap for mankind.
   - 出自「史记·陈涉世家」。
 
 
+
 ### 第8话 贤者的密信
 - 贤者的密信
   - 与小说版第6话「愚者的密信」对应。
+
 
 
 ### 第9话 住吉·In·Blue
@@ -130,6 +141,7 @@ That's one small step for a man, one giant leap for mankind.
 - 名塔卡、阿尼塔克、阿尼拉姆
   - 猎户座的恒星。  
 住吉三神被认为是这三颗星的神格化，分别对应上筒之男命、中筒之男命、底筒之男命。
+
 
 
 ### 第10话 幻想乡发射场
@@ -150,9 +162,11 @@ That's one small step for a man, one giant leap for mankind.
   - 二拜二拍一拜，神道教。阿门是阿伯拉罕系教用语。
 
 
+
 ### 第11话 飞向蔚蓝的宇宙
 - 蔚蓝的宇宙
   - 一行人前往月球，窗外的风景一直是蔚蓝的天空。
+
 
 
 ### 第12话 丰富海
@@ -176,6 +190,7 @@ That's one small step for a man, one giant leap for mankind.
 八雲立つ　出雲八重垣　妻ごみに　八重垣作る その八重垣を
 ```
 
+
 ### 第13话 月面之美
 - 月面之美
   - 月面的风景很美，弹幕战也很美。
@@ -186,6 +201,7 @@ That's one small step for a man, one giant leap for mankind.
 
 - 祇园大人的剑
   - 须佐之男持有的十拳剑。
+
 
 
 ### 第14话 金属之战
@@ -207,6 +223,7 @@ That's one small step for a man, one giant leap for mankind.
   - [咲夜的世界](./咲夜的世界.md)。
 
 
+
 ### 第15话 星辰的引导者
 - 石凝姥命
   - 制作八咫镜的神明。
@@ -222,6 +239,7 @@ That's one small step for a man, one giant leap for mankind.
 后期除了美国外，苏联、法国、澳大利亚、日本等国也都观测到了。
 
 
+
 ### 第16话 旧友的地图
 - 旧友
   - 紫与幽幽子。  
@@ -232,6 +250,7 @@ That's one small step for a man, one giant leap for mankind.
 
 - 恶魔的耳朵可是地狱顺风耳呢（デビルイヤーは地獄耳だから）
   - 出自恶魔人op。
+
 
 
 ### 第17话 月轮的陷阱
@@ -247,6 +266,7 @@ That's one small step for a man, one giant leap for mankind.
 古事记中诞生的是八十祸津日神和大祸津日神，而日本书纪中记载的是八十枉日津神与枉津日神。
 
 
+
 ### 第18话 月之头脑
 - 月之头脑
   - 八意永琳的称号。
@@ -256,6 +276,7 @@ That's one small step for a man, one giant leap for mankind.
 
 - 这是谁啊？都没有听说过的神灵呢
   - 伊豆能卖仅在「古事记」中被提及，在「日本书纪」只字未提。
+
 
 
 ### 第19话 被束缚的大地之神
@@ -283,9 +304,11 @@ That's one small step for a man, one giant leap for mankind.
    —东方风神录 设定文档
 ```
 
+
 ### 第20话 最后留下的微小污秽
 - 微小（幽かな）
   - 幽幽子。亡灵具有非常少的污秽。
+
 
 
 ### 最终话 青之宴
@@ -296,6 +319,7 @@ That's one small step for a man, one giant leap for mankind.
 
 - 魔理沙的泳装
   - 死库水。因为神主指定了「（魔理沙的）泳装是土里土气的」。
+
 
 
 ## 其他

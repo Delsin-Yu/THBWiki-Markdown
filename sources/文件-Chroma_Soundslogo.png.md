@@ -4,6 +4,7 @@
 
 Chroma_Sounds | 社团LOGO
 
+
 ## 摘要
   
 源地址：[direct image link](https://cdn.dizzylab.net/media/label_cover/Chroma_Sounds虹彩压缩后.png), [source page (circle Dizzylab logo)](https://www.dizzylab.net/l/Chroma_Sounds虹彩/)

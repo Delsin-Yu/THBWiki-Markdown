@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-里ノ子SOS封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/a/a4/%E9%87%8C%E3%83%8E%E5%AD%90SOS%E5%B0%81%E9%9D%A2.jpg/139px-%E9%87%8C%E3%83%8E%E5%AD%90SOS%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="139" height="196" srcset="https://upload.thwiki.cc/thumb/a/a4/%E9%87%8C%E3%83%8E%E5%AD%90SOS%E5%B0%81%E9%9D%A2.jpg/208px-%E9%87%8C%E3%83%8E%E5%AD%90SOS%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/a/a4/%E9%87%8C%E3%83%8E%E5%AD%90SOS%E5%B0%81%E9%9D%A2.jpg/277px-%E9%87%8C%E3%83%8E%E5%AD%90SOS%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="637" data-file-height="900"></a><div class="cover-char">角色：<a href="./伊吹萃香.md" title="伊吹萃香">伊吹萃香</a>，<a href="./多多良小伞.md" title="多多良小伞">多多良小伞</a>，<a href="./本居小铃.md" title="本居小铃">本居小铃</a>，<a href="./稗田阿求.md" title="稗田阿求">稗田阿求</a>，<a href="./藤原妹红.md" title="藤原妹红">藤原妹红</a>，<a href="./上白泽慧音.md" title="上白泽慧音">上白泽慧音</a></div></td>
@@ -18,11 +19,14 @@
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=1664904">蜜瓜</a></td></tr></tbody></table>
 
 
+
 ## 宣传图
 - [](./文件-里ノ子SOS宣传图1.jpg.md)
 
+
 ## Staff
 - [こうば](./こうば.md)
+
 
 ## 评论
 

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-STARDUST_INFLECTION封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/a/a3/STARDUST_INFLECTION%E5%B0%81%E9%9D%A2.jpg/157px-STARDUST_INFLECTION%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="157" height="224" srcset="https://upload.thwiki.cc/thumb/a/a3/STARDUST_INFLECTION%E5%B0%81%E9%9D%A2.jpg/236px-STARDUST_INFLECTION%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/a/a3/STARDUST_INFLECTION%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="270" data-file-height="384"></a><div class="cover-char">角色：<a href="./爱丽丝·玛格特洛依德.md" title="爱丽丝·玛格特洛依德">爱丽丝·玛格特洛依德</a></div></td>
@@ -14,9 +15,12 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://kurudaz.exblog.jp/16493199/">https://kurudaz.exblog.jp/16493199/</a></td></tr></tbody></table>
 
 STARDUST INFLECTION（同人志，Midnight Dessert，2011） - 2011年11月20日 由 Midnight Dessert 于 东方枫华宴2 发布的漫画同人志，B5尺寸一共32页，登场人物有 雾雨魔理沙、爱丽丝·玛格特洛依德，分级为 一般向
+
 ## 预览
+
 ## Staff
 - kurudaz (未找到链接)
+
 
 ## 评论
 

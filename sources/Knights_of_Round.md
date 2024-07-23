@@ -4,7 +4,8 @@
 
 Knights of Round ，于 2007 年成立，主要制作 同人音乐 的日本同人社团，主催是 稲井ゆう，当前状态为 解散
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -17,22 +18,25 @@ Knights of Round ，于 2007 年成立，主要制作 同人音乐 的日本同�
 
 
 
+
 ## 社团信息
 [](./文件-Knights_of_Round_banner.jpg.md)  [](./文件-Knights_of_Round_banner.jpg.md)Banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Knights of Round </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2007</td></tr><tr><td><b>当前状态</b></td><td>解散</td></tr><tr><td><b>解散时间</b></td><td>2010</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=%E7%A8%B2%E4%BA%95%E3%82%86%E3%81%86&amp;action=edit&amp;redlink=1" class="new" title="稲井ゆう（页面不存在）">稲井ゆう</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr></tbody></table>
 
 Knights of Round（同人社团，同人音乐社团） - Knights of Round ，于 2007 年成立，主要制作 同人音乐 的日本同人社团，主催是 稲井ゆう，当前状态为 解散
+
 ## 社团简介
   
- **Knights of Round** 是由Dark PHOENiX (未找到链接)主催 **稲井ゆう** 组织的合作计划。
+ **Knights of Round** 是由[Dark PHOENiX](./Dark_PHOENiX.md)主催 **稲井ゆう** 组织的合作计划。
   
   
 与同名的日本金属乐队无关。
   
 
+
 ## 成员名单
-- 稲井ゆう (未找到链接) （Dark PHOENiX (未找到链接)）
+- 稲井ゆう (未找到链接) （[Dark PHOENiX](./Dark_PHOENiX.md)）
 - Eru (未找到链接) （[Aether](./Aether.md)）
 - Freebase (未找到链接)
 - [Godspeed](./Godspeed.md) （[ViViX](./ViViX.md)）
@@ -46,6 +50,7 @@ Knights of Round（同人社团，同人音乐社团） - Knights of Round ，�
 - 似非 (未找到链接)
 - AKKEY (未找到链接)
 
+
 ## 作品列表
 [](./Knights_of_Round（同人专辑）.md)[Knights of Round](./Knights_of_Round（同人专辑）.md)首发日期：2007-12-31 （Comic Market 73 (未找到链接)）KNTS-0001全长 （一般向）[](./Knights_of_Round_2.md)[Knights of Round 2](./Knights_of_Round_2.md)首发日期：2008-12-29 （Comic Market 75 (未找到链接)）KNTS-0002全长 （一般向）[](./Knights_of_Round_3.md)[Knights of Round 3](./Knights_of_Round_3.md)首发日期：2009-12-30 （Comic Market 77 (未找到链接)）KNTS-0003全长 （一般向）[](./Knights_of_Round_4.md)[Knights of Round 4](./Knights_of_Round_4.md)首发日期：2010-08-14 （Comic Market 78 (未找到链接)）KNTS-0004全长 （一般向）
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -58,7 +63,9 @@ Knights of Round（同人社团，同人音乐社团） - Knights of Round ，�
 </table>
 
 
+
 ## 参展信息
+
 ## 其他信息
 
 

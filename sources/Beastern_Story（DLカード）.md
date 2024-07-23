@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=Beastern_Story%EF%BC%88DL%E3%82%AB%E3%83%BC%E3%83%89%EF%BC%89%E5%B0%81%E9%9D%A2.jpg" class="new" title="文件:Beastern Story（DLカード）封面.jpg">封面图片</a></td>
@@ -14,11 +15,13 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://x.com/moonlight_mag_/status/1721509428883804489">https://x.com/moonlight_mag_/status/1721509428883804489</a></td></tr></tbody></table>
 
 Beastern Story（DLカード）（同人专辑，Moonlight Magic，2023） - 2023年11月12日 由 Moonlight Magic 于 博丽神社秋季例大祭10 发布的单曲同人专辑，内容以 DLカード为题材，分级为 一般向
+
 ## Staff
   
  **Arrangement**   
 
 <table><tbody><tr><td><a href="/index.php?title=Artemis&amp;action=edit&amp;redlink=1" class="new" title="Artemis（页面不存在）">Artemis</a></td><td></td><td>Tr.1</td></tr></tbody></table>
+
 
 
 ## 试听
@@ -33,9 +36,11 @@ Beastern Story（DLカード）（同人专辑，Moonlight Magic，2023） - 202
 </td></tr></tbody></table>
 
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Beastern_Story" colspan="2" class="title">Beastern Story<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Artemis&amp;ogmusic=獣の知性，獣王達の休息，獣に知性はあるか&amp;fromwiki=Beastern_Story（DLカード）"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=Artemis&amp;action=edit&amp;redlink=1" class="new" title="Artemis（页面不存在）">Artemis</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Artemis&amp;fromwiki=Beastern_Story（DLカード）"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=獣の知性，獣王達の休息，獣に知性はあるか&amp;fromwiki=Beastern_Story（DLカード）"><span></span></a></span><div class="ogmusic"><a href="/%E7%8D%A3%E3%81%AE%E7%9F%A5%E6%80%A7" class="mw-redirect" title="獣の知性">獣の知性</a></div><div class="ogmusic"><a href="/%E7%8D%A3%E7%8E%8B%E9%81%94%E3%81%AE%E4%BC%91%E6%81%AF" class="mw-redirect" title="獣王達の休息">獣王達の休息</a></div><div class="ogmusic"><a href="/%E7%8D%A3%E3%81%AB%E7%9F%A5%E6%80%A7%E3%81%AF%E3%81%82%E3%82%8B%E3%81%8B" class="mw-redirect" title="獣に知性はあるか">獣に知性はあるか</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E5%85%BD%E7%8E%8B%E5%9B%AD_%EF%BD%9E_Unfinished_Dream_of_All_Living_Ghost." class="mw-redirect" title="东方兽王园 ～ Unfinished Dream of All Living Ghost.">东方兽王园　～ Unfinished Dream of All Living Ghost.</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Beastern_Story" colspan="2" class="title">Beastern Story<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Artemis&amp;ogmusic=獣の知性，獣王達の休息，獣に知性はあるか&amp;fromwiki=Beastern_Story（DLカード）"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=Artemis&amp;action=edit&amp;redlink=1" class="new" title="Artemis（页面不存在）">Artemis</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Artemis&amp;fromwiki=Beastern_Story（DLカード）"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=獣の知性，獣王達の休息，獣に知性はあるか&amp;fromwiki=Beastern_Story（DLカード）"><span></span></a></span><div class="ogmusic"><a href="./獣の知性.md" class="mw-redirect" title="獣の知性">獣の知性</a></div><div class="ogmusic"><a href="./獣王達の休息.md" class="mw-redirect" title="獣王達の休息">獣王達の休息</a></div><div class="ogmusic"><a href="./獣に知性はあるか.md" class="mw-redirect" title="獣に知性はあるか">獣に知性はあるか</a></div><div class="source"><a href="./东方兽王园_～_Unfinished_Dream_of_All_Living_Ghost..md" class="mw-redirect" title="东方兽王园 ～ Unfinished Dream of All Living Ghost.">东方兽王园　～ Unfinished Dream of All Living Ghost.</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

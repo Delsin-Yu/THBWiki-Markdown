@@ -4,7 +4,8 @@
 
 TAMUSIC（タムシック） ，于 2005 年成立，主要制作 同人音乐 的日本同人社团，主催是 TAM，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -32,12 +33,14 @@ TAMUSIC（タムシック） ，于 2005 年成立，主要制作 同人音乐 �
 
 
 
+
 ## 社团信息
 [](./文件-TAMUSIC_banner.jpg.md)  [](./文件-TAMUSIC_banner.jpg.md)Banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> TAMUSIC（タムシック） </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2005</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="./TAM.md" title="TAM">TAM</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://tamusic.jp/">http://tamusic.jp/</a> <br><a rel="nofollow" class="external free" href="http://tam3.name">http://tam3.name</a> （旧官网）<span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span></td></tr></tbody></table>
 
 TAMUSIC（同人社团，同人音乐社团） - TAMUSIC（タムシック） ，于 2005 年成立，主要制作 同人音乐 的日本同人社团，主催是 TAM，当前状态为 活动
+
 ## 社团简介
   
 TAMUSIC的历史请参见[英文及日文版](http://tamusic.jp/about/history/english/)或[中文版](http://tamusic.jp/about/history/china/)。
@@ -46,6 +49,7 @@ TAMUSIC的历史请参见[英文及日文版](http://tamusic.jp/about/history/en
 社团与免费背景音乐制作网站TAM Music Factory无关。
   
 
+
 ## 成员名单
 - [TAM](./TAM.md)
 
@@ -53,7 +57,9 @@ TAMUSIC的历史请参见[英文及日文版](http://tamusic.jp/about/history/en
 全部成员请参见[此页面](http://tamusic.jp/about/member/)
   
 
+
 ## 作品列表
+
 ### 東方バイオリン
 [](./東方バイオリン1.md)[東方バイオリン1](./東方バイオリン1.md)首发日期：2006-08-13 （Comic Market 70 (未找到链接)）TAM3-0002全长 （一般向）[](./東方バイオリン2.md)[東方バイオリン2](./東方バイオリン2.md)首发日期：2006-08-13 （Comic Market 70 (未找到链接)）TAM3-0004全长 （一般向）[](./東方バイオリン3.md)[東方バイオリン3](./東方バイオリン3.md)首发日期：2006-12-31 （Comic Market 71 (未找到链接)）TAM3-0006全长 （一般向）[](./東方バイオリン4.md)[東方バイオリン4](./東方バイオリン4.md)首发日期：2007-05-20 （第四回 博麗神社例大祭 (未找到链接)）TAM3-0013全长 （一般向）[](./東方バイオリン5.md)[東方バイオリン5](./東方バイオリン5.md)首发日期：2007-08-17 （Comic Market 72 (未找到链接)）TAM3-0017全长 （一般向）[](./東方バイオリン6.md)[東方バイオリン6](./東方バイオリン6.md)首发日期：2007-11-24 （東方不敗小町4 (未找到链接)）TAM3-0021全长 （一般向）[](./東方バイオリン7.md)[東方バイオリン7](./東方バイオリン7.md)首发日期：2007-12-31 （Comic Market 73 (未找到链接)）TAM3-0023全长 （一般向）[](./東方バイオリン8.md)[東方バイオリン8](./東方バイオリン8.md)首发日期：2008-01-27 （幻想郷大物産展 ～東方まんがまつり⑨～ (未找到链接)）TAM3-0025全长 （一般向）[](./東方バイオリン9.md)[東方バイオリン9](./東方バイオリン9.md)首发日期：2008-03-22 TAM3-0027全长、​混音集 （一般向）
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -74,6 +80,7 @@ TAMUSIC的历史请参见[英文及日文版](http://tamusic.jp/about/history/en
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ### 東方子守唄
@@ -138,6 +145,7 @@ TAMUSIC的历史请参见[英文及日文版](http://tamusic.jp/about/history/en
 </table>
 
 
+
 ### 東方ピアノ
 [](./ピアノのための東方夜想曲集「Spirit」.md)[ピアノのための東方夜想曲集「Spirit」](./ピアノのための東方夜想曲集「Spirit」.md)首发日期：2008-05-25 （第五回 博麗神社例大祭 (未找到链接)）TAM3-0031全长 （一般向）[](./ピアノ三重奏による東方夜想曲集「Seal」.md)[ピアノ三重奏による東方夜想曲集「Seal」](./ピアノ三重奏による東方夜想曲集「Seal」.md)首发日期：2008-08-16 （Comic Market 74 (未找到链接)）TAM3-0035全长 （一般向）[](./ピアノのための東方夜想曲集「Dream」.md)[ピアノのための東方夜想曲集「Dream」](./ピアノのための東方夜想曲集「Dream」.md)首发日期：2008-12-29 （Comic Market 75 (未找到链接)）TAM3-0039全长 （一般向）[](./ピアノのための東方夜想曲集「Shangri－La」.md)[ピアノのための東方夜想曲集「Shangri－La」](./ピアノのための東方夜想曲集「Shangri－La」.md)首发日期：2009-06-28 （えちご東方日和 弐 (未找到链接)）TAM3-0044全长 （一般向）[](./ピアノのための東方夜想曲集「Kwaidan」.md)[ピアノのための東方夜想曲集「Kwaidan」](./ピアノのための東方夜想曲集「Kwaidan」.md)首发日期：2009-12-30 （Comic Market 77 (未找到链接)）TAM3-0057全长 （一般向）[](./ピアノのための東方夜想曲集「Scarlet」.md)[ピアノのための東方夜想曲集「Scarlet」](./ピアノのための東方夜想曲集「Scarlet」.md)首发日期：2010-10-11 （東方紅楼夢6 (未找到链接)）TAM3-0068全长 （一般向）[](./ピアノのための東方夜想曲集「Ju-roku-zakura」.md)[ピアノのための東方夜想曲集「Ju-roku-zakura」](./ピアノのための東方夜想曲集「Ju-roku-zakura」.md)首发日期：2011-10-16 （東方紅楼夢7 (未找到链接)）TAM3-0081全长 （一般向）[](./ピアノのための東方夜想曲集「Redemption」.md)[ピアノのための東方夜想曲集「Redemption」](./ピアノのための東方夜想曲集「Redemption」.md)首发日期：2012-10-07 （東方紅楼夢8 (未找到链接)）TAM3-0096全长 （一般向）[](./ピアノのための東方超絶技巧曲集.md)[ピアノのための東方超絶技巧曲集](./ピアノのための東方超絶技巧曲集.md)首发日期：2015-12-30 （Comic Market 89 (未找到链接)）TAM3-0138全长 （一般向）[](./ピアノのための東方超絶技巧曲集2.md)[ピアノのための東方超絶技巧曲集2](./ピアノのための東方超絶技巧曲集2.md)首发日期：2016-03-27 （東方絢文禄 尾張の卷 第十三弾 (未找到链接)）TAM3-0142全长 （一般向）[](./ピアノのための東方超絶技巧曲集3.md)[ピアノのための東方超絶技巧曲集3](./ピアノのための東方超絶技巧曲集3.md)首发日期：2016-10-16 （第三回 博麗神社秋季例大祭 (未找到链接)）TAM3-0151全长 （一般向）[](./ピアノのための東方超絶技巧曲集4.md)[ピアノのための東方超絶技巧曲集4](./ピアノのための東方超絶技巧曲集4.md)首发日期：2017-02-19 （極・東方神居祭7 (未找到链接)）TAM3-0157全长 （一般向）[](./ピアノのための東方超絶技巧曲集5.md)[ピアノのための東方超絶技巧曲集5](./ピアノのための東方超絶技巧曲集5.md)首发日期：2017-08-11 （Comic Market 92 (未找到链接)）TAM3-0162全长 （一般向）[](./ピアノのための東方超絶技巧曲集6.md)[ピアノのための東方超絶技巧曲集6](./ピアノのための東方超絶技巧曲集6.md)首发日期：2017-10-15 （第四回 博麗神社秋季例大祭 (未找到链接)）TAM3-0164全长 （一般向）[](./ピアノのための東方超絶技巧曲集７.md)[ピアノのための東方超絶技巧曲集7](./ピアノのための東方超絶技巧曲集７.md)首发日期：2018-05-06 （第十五回 博麗神社例大祭 (未找到链接)）TAM3-0171全长 （一般向）[](./ピアノのための東方超絶技巧曲集８.md)[ピアノのための東方超絶技巧曲集8](./ピアノのための東方超絶技巧曲集８.md)首发日期：2018-12-30 （Comic Market 95 (未找到链接)）TAM3-0174全长 （一般向）[](./ピアノのための東方超絶技巧曲集9.md)[ピアノのための東方超絶技巧曲集9](./ピアノのための東方超絶技巧曲集9.md)首发日期：2019-05-05 （第十六回 博麗神社例大祭 (未找到链接)）TAM3-0178全长 （一般向）[](./ピアノのための東方幻想曲集.md)[ピアノのための東方幻想曲集](./ピアノのための東方幻想曲集.md)首发日期：2019-08-12 （Comic Market 96 (未找到链接)）TAM3-0181全长、​印象集 （一般向）ピアノのための東方超絶技巧曲集10（先行手焼きver） 封面图片 (未找到链接)ピアノのための東方超絶技巧曲集10（先行手焼きver） (未找到链接)首发日期：未知 - 
 <table><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
@@ -179,6 +187,7 @@ TAMUSIC的历史请参见[英文及日文版](http://tamusic.jp/about/history/en
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458"></table>
 
 
+
 ### 東方弦奏響
 [](./東方弦奏響1.md)[東方弦奏響1](./東方弦奏響1.md)首发日期：2008-08-16 （Comic Market 74 (未找到链接)）TAM3-0034全长 （一般向）[](./東方弦奏響2.md)[東方弦奏響2](./東方弦奏響2.md)首发日期：2008-11-02 （東方紅楼夢4 (未找到链接)）TAM3-0037全长 （一般向）[](./東方弦奏響3.md)[東方弦奏響3](./東方弦奏響3.md)首发日期：2008-12-29 （Comic Market 75 (未找到链接)）TAM3-0040全长 （一般向）[](./東方弦奏響4.md)[東方弦奏響4](./東方弦奏響4.md)首发日期：2009-03-08 （第六回 博麗神社例大祭 (未找到链接)）TAM3-0042全长 （一般向）[](./東方弦奏響5.md)[東方弦奏響5](./東方弦奏響5.md)首发日期：2009-05-02 （東方絢櫻祭4 -華櫻散天- (未找到链接)）TAM3-0043全长 （一般向）[](./東方弦奏響6.md)[東方弦奏響6](./東方弦奏響6.md)首发日期：2009-08-15 （Comic Market 76 (未找到链接)）TAM3-0048全长 （一般向）[](./東方弦奏響7.md)[東方弦奏響7](./東方弦奏響7.md)首发日期：2009-10-11 （東方紅楼夢5 (未找到链接)）TAM3-0053全长 （一般向）[](./東方弦奏響8.md)[東方弦奏響8](./東方弦奏響8.md)首发日期：2009-12-30 （Comic Market 77 (未找到链接)）TAM3-0058全长 （一般向）[](./東方弦奏響9.md)[東方弦奏響9](./東方弦奏響9.md)首发日期：2010-03-14 （第七回 博麗神社例大祭 (未找到链接)）TAM3-0062全长、​混音集 （一般向）
 <table><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
@@ -199,6 +208,7 @@ TAMUSIC的历史请参见[英文及日文版](http://tamusic.jp/about/history/en
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ### 東方バイオリンロック
@@ -247,6 +257,7 @@ TAMUSIC的历史请参见[英文及日文版](http://tamusic.jp/about/history/en
 </table>
 
 
+
 ### 東方四重奏
 [](./東方四重奏（TAMUSIC）.md)[東方四重奏](./東方四重奏（TAMUSIC）.md)首发日期：2009-10-11 （東方紅楼夢5 (未找到链接)）TAM3-0052全长 （一般向）[](./東方四重奏2.md)[東方四重奏2](./東方四重奏2.md)首发日期：2009-12-30 （Comic Market 77 (未找到链接)）TAM3-0059全长 （一般向）[](./東方四重奏3.md)[東方四重奏3](./東方四重奏3.md)首发日期：2010-09-19 （博麗神社例大祭SP1 (未找到链接)）TAM3-0067全长 （一般向）[](./東方四重奏4.md)[東方四重奏4](./東方四重奏4.md)首发日期：2011-05-08 （第八回 博麗神社例大祭 (未找到链接)）TAM3-0073全长 （一般向）[](./東方四重奏5.md)[東方四重奏5](./東方四重奏5.md)首发日期：2011-08-13 （Comic Market 80 (未找到链接)）TAM3-0079全长 （一般向）[](./東方四重奏6.md)[東方四重奏6](./東方四重奏6.md)首发日期：2012-05-27 （第九回 博麗神社例大祭 (未找到链接)）TAM3-0090全长 （一般向）[](./東方四重奏7.md)[東方四重奏7](./東方四重奏7.md)首发日期：2012-08-11 （Comic Market 82 (未找到链接)）TAM3-0095全长 （一般向）[](./東方四重奏8.md)[東方四重奏8](./東方四重奏8.md)首发日期：2013-08-12 （Comic Market 84 (未找到链接)）TAM3-0107全长 （一般向）[](./東方四重奏9.md)[東方四重奏9](./東方四重奏9.md)首发日期：2013-12-30 （Comic Market 85 (未找到链接)）TAM3-0111全长 （一般向）[](./東方四重奏_Rose.md)[東方四重奏 Rose](./東方四重奏_Rose.md)首发日期：2014-08-16 （Comic Market 86 (未找到链接)）TAM3-0118全长 （一般向）[](./東方四重奏_Cherry_Blossom.md)[東方四重奏 Cherry Blossom](./東方四重奏_Cherry_Blossom.md)首发日期：2014-12-29 （Comic Market 87 (未找到链接)）TAM3-0123全长 （一般向）[](./東方四重奏_Full_Moon.md)[東方四重奏 Full Moon](./東方四重奏_Full_Moon.md)首发日期：2016-08-13 （Comic Market 90 (未找到链接)）TAM3-0147全长 （一般向）[](./東方四重奏_Flowering.md)[東方四重奏 Flowering](./東方四重奏_Flowering.md)首发日期：2016-12-29 （Comic Market 91 (未找到链接)）TAM3-0153全长 （一般向）[](./東方四重奏_Holy.md)[東方四重奏 Holy](./東方四重奏_Holy.md)首发日期：2019-08-12 （Comic Market 96 (未找到链接)）TAM3-0180全长 （一般向）
 <table><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
@@ -277,6 +288,7 @@ TAMUSIC的历史请参见[英文及日文版](http://tamusic.jp/about/history/en
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ### 東方ボーカル
@@ -321,6 +333,7 @@ TAMUSIC的历史请参见[英文及日文版](http://tamusic.jp/about/history/en
 </table>
 
 
+
 ### 東方オーケストラ
 [](./東方弦奏オーケストラ１.md)[東方弦奏オーケストラ１](./東方弦奏オーケストラ１.md)首发日期：2017-12-29 （Comic Market 93 (未找到链接)）TAM3-0166全长 （一般向）[](./東方弦奏オーケストラ２.md)[東方弦奏オーケストラ２](./東方弦奏オーケストラ２.md)首发日期：2018-08-10 （Comic Market 94 (未找到链接)）TAM3-0172全长 （一般向）[](./東方弦奏オーケストラ３.md)[東方弦奏オーケストラ３](./東方弦奏オーケストラ３.md)首发日期：2019-12-31 （Comic Market 97 (未找到链接)）TAM3-0184全长 （一般向）
 <table><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
@@ -329,6 +342,7 @@ TAMUSIC的历史请参见[英文及日文版](http://tamusic.jp/about/history/en
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ### TAMUSIC × Re:Volte
@@ -353,6 +367,7 @@ TAMUSIC的历史请参见[英文及日文版](http://tamusic.jp/about/history/en
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ### Other
@@ -399,6 +414,7 @@ TAMUSIC的历史请参见[英文及日文版](http://tamusic.jp/about/history/en
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 其他作品
@@ -492,9 +508,11 @@ TAMUSIC的历史请参见[英文及日文版](http://tamusic.jp/about/history/en
 - 例大祭 おまけグッズ（紙袋）
 - 例大祭 弦奏楽団CD（協力）
 
+
 ## 参展信息
 
 <table><tbody><tr><th class="活动页面">活动页面</th><th class="活动名称">活动名称</th><th class="日期">日期</th><th class="举办地点">举办地点</th><th class="摊位编号">摊位编号</th><th class="宣传页面">宣传页面</th><th class="备注">备注</th></tr><tr data-row-number="1" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#21" title="博丽神社例大祭">博丽神社例大祭#21</a></span></td><td class="活动名称 smwtype_txt">第二十一回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2460433.5">2024-05-03</td><td class="举办地点 smwtype_txt">东京Big Sight 东展厅</td><td class="摊位编号 smwtype_txt">ち27ab</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="2" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E4%B8%9C%E6%96%B9%E5%90%8D%E5%8D%8E%E7%A5%AD#18" title="东方名华祭">东方名华祭#18</a></span></td><td class="活动名称 smwtype_txt">東方名華祭18</td><td class="日期 smwtype_dat" data-sort-value="2460400.5">2024-03-31</td><td class="举办地点 smwtype_txt">名古屋市国际展示场 第2展厅</td><td class="摊位编号 smwtype_txt">X01</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="3" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%90%B4%E9%B8%BF%E6%B2%A7%E5%A0%B0#2" title="吴鸿沧堰">苏州THO#2</a></span></td><td class="活动名称 smwtype_txt">苏州THO-赤维极陵</td><td class="日期 smwtype_dat" data-sort-value="2460337.5">2024-01-28</td><td class="举办地点 smwtype_txt">苏州 苏州书香府邸平江府</td><td class="摊位编号 smwtype_txt">D21</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="4" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/Comic_Market#103" title="Comic Market">Comic Market#103</a></span></td><td class="活动名称 smwtype_txt">Comic Market 103</td><td class="日期 smwtype_dat" data-sort-value="2460309.5">2023-12-31</td><td class="举办地点 smwtype_txt">东京都 东京国际展示场</td><td class="摊位编号 smwtype_txt">西あ62ab</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="5" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E7%A7%8B%E5%AD%A3%E4%BE%8B%E5%A4%A7%E7%A5%AD#10" title="博丽神社秋季例大祭">博丽神社秋季例大祭#10</a></span></td><td class="活动名称 smwtype_txt">第十回 博麗神社秋季例大祭</td><td class="日期 smwtype_dat" data-sort-value="2460260.5">2023-11-12</td><td class="举办地点 smwtype_txt">东京Big Sight 東展厅</td><td class="摊位编号 smwtype_txt">せ36ab</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="6" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E4%B8%9C%E6%96%B9%E7%BA%A2%E6%A5%BC%E6%A2%A6#19" title="东方红楼梦">东方红楼梦#19</a></span></td><td class="活动名称 smwtype_txt">東方紅楼夢19</td><td class="日期 smwtype_dat" data-sort-value="2460232.5">2023-10-15</td><td class="举办地点 smwtype_txt">大阪国际展览中心 6号馆C・D区</td><td class="摊位编号 smwtype_txt">あ-04ab</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="7" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E6%96%87%E6%96%87%E3%80%82%E6%96%B0%E9%97%BB%E5%8F%8B%E4%BA%BA%E9%9B%86%E4%BC%9A#14" title="文文。新闻友人集会">文文。新闻友人集会#14</a></span></td><td class="活动名称 smwtype_txt">第百三十八季 文々。新聞友の会</td><td class="日期 smwtype_dat" data-sort-value="2460190.5">2023-09-03</td><td class="举办地点 smwtype_txt">京都综合见本市会馆</td><td class="摊位编号 smwtype_txt">花-03,04</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="8" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/Comic_Market#102" title="Comic Market">Comic Market#102</a></span></td><td class="活动名称 smwtype_txt">Comic Market 102</td><td class="日期 smwtype_dat" data-sort-value="2460169.5">2023-08-13</td><td class="举办地点 smwtype_txt">东京都 东京国际展示场</td><td class="摊位编号 smwtype_txt">東A68ab</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="9" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E4%B8%9C%E6%96%B9%E6%B8%B8%E5%89%A7%E5%A4%A9#11" title="东方游剧天">东方游剧天#11</a></span></td><td class="活动名称 smwtype_txt">東方遊劇天11</td><td class="日期 smwtype_dat" data-sort-value="2460161.5">2023-08-05</td><td class="举办地点 smwtype_txt">广州市 信义会馆</td><td class="摊位编号 smwtype_txt">D3</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="10" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E4%B8%9C%E6%96%B9%E5%90%8D%E5%8D%8E%E7%A5%AD#17" title="东方名华祭">东方名华祭#17</a></span></td><td class="活动名称 smwtype_txt">東方名華祭17</td><td class="日期 smwtype_dat" data-sort-value="2460120.5">2023-06-25</td><td class="举办地点 smwtype_txt">名古屋市国际展示场 第2展厅</td><td class="摊位编号 smwtype_txt">X01</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr class="smwfooter row-odd"><td class="sortbottom" colspan="7"><span class="smw-broadtable-furtherresults"><a href="/%E7%89%B9%E6%AE%8A:%E8%AF%A2%E9%97%AE/-5B-5B%E6%91%8A%E4%BD%8D%E7%A4%BE%E5%9B%A2::TAMUSIC-5D-5D/-3F%E6%91%8A%E4%BD%8D%E6%B4%BB%E5%8A%A8%3D%E6%B4%BB%E5%8A%A8%E9%A1%B5%E9%9D%A2/-3F%E6%91%8A%E4%BD%8D%E6%B4%BB%E5%8A%A8.%E5%B1%95%E4%BC%9A%E5%90%8D%E7%A7%B0%3D%E6%B4%BB%E5%8A%A8%E5%90%8D%E7%A7%B0/-3F%E6%91%8A%E4%BD%8D%E6%B4%BB%E5%8A%A8.%E5%B1%95%E4%BC%9A%E6%97%A5%E6%9C%9F%3D%E6%97%A5%E6%9C%9F/-3F%E6%91%8A%E4%BD%8D%E6%B4%BB%E5%8A%A8.%E5%9C%B0%E7%82%B9%3D%E4%B8%BE%E5%8A%9E%E5%9C%B0%E7%82%B9/-3F%E6%91%8A%E4%BD%8D%E7%BC%96%E5%8F%B7/-3F%E6%91%8A%E4%BD%8D%E5%AE%A3%E4%BC%A0%E9%A1%B5%E9%9D%A2%3D%E5%AE%A3%E4%BC%A0%E9%A1%B5%E9%9D%A2-7C%2Bmany%3D-3Cbr-20-2F-3E/-3F%E6%91%8A%E4%BD%8D%E5%A4%87%E6%B3%A8%3D%E5%A4%87%E6%B3%A8/mainlabel%3D-20-2D/limit%3D10/order%3D-20descending/sort%3D-20%E6%91%8A%E4%BD%8D%E6%B4%BB%E5%8A%A8.%E5%B1%95%E4%BC%9A%E6%97%A5%E6%9C%9F/offset%3D10/format%3D-20broadtable/headers%3D-20plain" title="特殊:询问/-5B-5B摊位社团::TAMUSIC-5D-5D/-3F摊位活动=活动页面/-3F摊位活动.展会名称=活动名称/-3F摊位活动.展会日期=日期/-3F摊位活动.地点=举办地点/-3F摊位编号/-3F摊位宣传页面=宣传页面-7C+many=-3Cbr-20-2F-3E/-3F摊位备注=备注/mainlabel=-20-2D/limit=10/order=-20descending/sort=-20摊位活动.展会日期/offset=10/format=-20broadtable/headers=-20plain">...更多结果</a></span></td></tr></tbody></table>
+
 
 
 ## 其他信息

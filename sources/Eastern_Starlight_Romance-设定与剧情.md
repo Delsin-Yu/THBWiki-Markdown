@@ -4,12 +4,14 @@
 
 Dai-Sukima_Dan
 
+
 ## 分类
   
  **Eastern Starlight Romance** 是Dai-Sukima Dan (未找到链接)目前正在开发的免费英文视觉小说真的还在，说2021年底会有更新具体见杂项  
 
 发行在  *[Subterranean Animism](./东方地灵殿.md)*  之后，
   
+
 
 ## 剧情
   

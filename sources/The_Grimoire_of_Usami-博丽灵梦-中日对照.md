@@ -12,7 +12,7 @@ The_Grimoire_of_Usami | 使用了翻译表的页面 | 博丽灵梦 | 宇佐见�
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./The_Grimoire_of_Usami-少名针妙丸-中日对照.md" title="The Grimoire of Usami/少名针妙丸/中日对照">少名针妙丸</a>&#160;
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="/%E5%AE%87%E4%BD%90%E8%A7%81%E7%9A%84%E9%AD%94%E6%B3%95%E4%B9%A6" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a>&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="./宇佐见的魔法书.md" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a>&#160;
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">&#160;<a href="./The_Grimoire_of_Usami-大会结束记录-中日对照.md" title="The Grimoire of Usami/大会结束记录/中日对照">大会结束记录</a>
 </td>
@@ -25,7 +25,7 @@ The_Grimoire_of_Usami | 使用了翻译表的页面 | 博丽灵梦 | 宇佐见�
 - 翻译：奈良津茂野
 
 
-<table><tbody><tr class="tt-content-header" id="=-1" data-pos="&#91;&quot;=&quot;,1&#93;"><td class="tt-jah" lang="ja"><div class="poem">神籤「反則結界」</div></td><td class="tt-zhh" lang="zh"><div class="poem"><a href="/%E7%A5%9E%E7%AD%BE%E3%80%8C%E7%8A%AF%E8%A7%84%E7%BB%93%E7%95%8C%E3%80%8D" class="mw-redirect" title="神签「犯规结界」">神签「犯规结界」</a></div></td></tr><tr class="tt-content" id="=-2" data-pos="&#91;&quot;=&quot;,2&#93;"><td class="tt-ja" lang="ja"><div class="poem">使用者：博麗霊夢</div></td><td class="tt-zh" lang="zh"><div class="poem">使用者：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></div></td></tr><tr class="tt-content" id="=-3" data-pos="&#91;&quot;=&quot;,3&#93;"><td class="tt-ja" lang="ja"><div class="poem">なんでこうなっちゃったのかなぁ。<br>最後に私じゃあ、小人達と共謀して観客を<br>危険にさらしたみたいじゃない……。<br>まあ、こうなったら開き直って、やるしか無いか。<br>みんな、<br>これが博麗神社の巫女の力よ！<br><big>妖怪達になんか<br>負ける<br>もんですか！</big></div></td><td class="tt-zh" lang="zh"><div class="poem">为什么会变成这样啊。<br>我最后上场的话，不就像是在和小人他们串通起来<br>将观众们置于危险当中吗……。<br>算了，事已至此，那就要豁出去干一场了。<br>各位，<br>这就是博丽神社巫女的力量！<br><big>绝对不会<br>输给<br>妖怪们的！</big></div></td></tr><tr class="tt-header" id="=-4" data-pos="&#91;&quot;=&quot;,4&#93;"><td colspan="2" id="摩多罗隐岐奈" class="tt-header" lang="zh"><div class="poem">摩多罗隐岐奈</div></td></tr><tr class="tt-content" id="=-5" data-pos="&#91;&quot;=&quot;,5&#93;"><td class="tt-ja" lang="ja"><div class="poem">お見事！　観客に当たらない寸止め弾幕か。まるでこの為に用意したかのようじゃないか。</div></td><td class="tt-zh" lang="zh"><div class="poem">精彩！　直逼观众眼前而不伤其分毫的弹幕吗。简直就如为此大会特地准备的一般啊。</div></td></tr><tr class="tt-header" id="=-6" data-pos="&#91;&quot;=&quot;,6&#93;"><td colspan="2" id="少名针妙丸" class="tt-header" lang="zh"><div class="poem">少名针妙丸</div></td></tr><tr class="tt-content" id="=-7" data-pos="&#91;&quot;=&quot;,7&#93;"><td class="tt-ja" lang="ja"><div class="poem">わーん、美味しいところ、持って行かれたー……。ここまで準備、超がんばったのにー。</div></td><td class="tt-zh" lang="zh"><div class="poem">哇——压轴的好位置，被夺走了……明明我可是，超努力的准备了一番啊——</div></td></tr><tr class="tt-header" id="=-8" data-pos="&#91;&quot;=&quot;,8&#93;"><td colspan="2" id="宇佐见堇子" class="tt-header" lang="zh"><div class="poem">宇佐见堇子</div></td></tr><tr class="tt-content" id="=-9" data-pos="&#91;&quot;=&quot;,9&#93;"><td class="tt-ja" lang="ja"><div class="poem">おおー、全体が御札のようになっているんですね！　面白いです！　さすがレイムッチ！</div></td><td class="tt-zh" lang="zh"><div class="poem">噢噢——这整个变得全都和符纸一样了啊！　真有趣！　不愧是灵梦亲！</div></td></tr></tbody></table>
+<table><tbody><tr class="tt-content-header" id="=-1" data-pos="&#91;&quot;=&quot;,1&#93;"><td class="tt-jah" lang="ja"><div class="poem">神籤「反則結界」</div></td><td class="tt-zhh" lang="zh"><div class="poem"><a href="./神签「犯规结界」.md" class="mw-redirect" title="神签「犯规结界」">神签「犯规结界」</a></div></td></tr><tr class="tt-content" id="=-2" data-pos="&#91;&quot;=&quot;,2&#93;"><td class="tt-ja" lang="ja"><div class="poem">使用者：博麗霊夢</div></td><td class="tt-zh" lang="zh"><div class="poem">使用者：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></div></td></tr><tr class="tt-content" id="=-3" data-pos="&#91;&quot;=&quot;,3&#93;"><td class="tt-ja" lang="ja"><div class="poem">なんでこうなっちゃったのかなぁ。<br>最後に私じゃあ、小人達と共謀して観客を<br>危険にさらしたみたいじゃない……。<br>まあ、こうなったら開き直って、やるしか無いか。<br>みんな、<br>これが博麗神社の巫女の力よ！<br><big>妖怪達になんか<br>負ける<br>もんですか！</big></div></td><td class="tt-zh" lang="zh"><div class="poem">为什么会变成这样啊。<br>我最后上场的话，不就像是在和小人他们串通起来<br>将观众们置于危险当中吗……。<br>算了，事已至此，那就要豁出去干一场了。<br>各位，<br>这就是博丽神社巫女的力量！<br><big>绝对不会<br>输给<br>妖怪们的！</big></div></td></tr><tr class="tt-header" id="=-4" data-pos="&#91;&quot;=&quot;,4&#93;"><td colspan="2" id="摩多罗隐岐奈" class="tt-header" lang="zh"><div class="poem">摩多罗隐岐奈</div></td></tr><tr class="tt-content" id="=-5" data-pos="&#91;&quot;=&quot;,5&#93;"><td class="tt-ja" lang="ja"><div class="poem">お見事！　観客に当たらない寸止め弾幕か。まるでこの為に用意したかのようじゃないか。</div></td><td class="tt-zh" lang="zh"><div class="poem">精彩！　直逼观众眼前而不伤其分毫的弹幕吗。简直就如为此大会特地准备的一般啊。</div></td></tr><tr class="tt-header" id="=-6" data-pos="&#91;&quot;=&quot;,6&#93;"><td colspan="2" id="少名针妙丸" class="tt-header" lang="zh"><div class="poem">少名针妙丸</div></td></tr><tr class="tt-content" id="=-7" data-pos="&#91;&quot;=&quot;,7&#93;"><td class="tt-ja" lang="ja"><div class="poem">わーん、美味しいところ、持って行かれたー……。ここまで準備、超がんばったのにー。</div></td><td class="tt-zh" lang="zh"><div class="poem">哇——压轴的好位置，被夺走了……明明我可是，超努力的准备了一番啊——</div></td></tr><tr class="tt-header" id="=-8" data-pos="&#91;&quot;=&quot;,8&#93;"><td colspan="2" id="宇佐见堇子" class="tt-header" lang="zh"><div class="poem">宇佐见堇子</div></td></tr><tr class="tt-content" id="=-9" data-pos="&#91;&quot;=&quot;,9&#93;"><td class="tt-ja" lang="ja"><div class="poem">おおー、全体が御札のようになっているんですね！　面白いです！　さすがレイムッチ！</div></td><td class="tt-zh" lang="zh"><div class="poem">噢噢——这整个变得全都和符纸一样了啊！　真有趣！　不愧是灵梦亲！</div></td></tr></tbody></table>
 
 
 <center>
@@ -36,7 +36,7 @@ The_Grimoire_of_Usami | 使用了翻译表的页面 | 博丽灵梦 | 宇佐见�
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./The_Grimoire_of_Usami-少名针妙丸-中日对照.md" title="The Grimoire of Usami/少名针妙丸/中日对照">少名针妙丸</a>&#160;
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="/%E5%AE%87%E4%BD%90%E8%A7%81%E7%9A%84%E9%AD%94%E6%B3%95%E4%B9%A6" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a>&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="./宇佐见的魔法书.md" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a>&#160;
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">&#160;<a href="./The_Grimoire_of_Usami-大会结束记录-中日对照.md" title="The Grimoire of Usami/大会结束记录/中日对照">大会结束记录</a>
 </td>
@@ -45,6 +45,7 @@ The_Grimoire_of_Usami | 使用了翻译表的页面 | 博丽灵梦 | 宇佐见�
 
   
 </center>
+
 
 ## 词条导航
   

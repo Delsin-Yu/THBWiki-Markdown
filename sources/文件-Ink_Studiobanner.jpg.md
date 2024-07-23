@@ -4,6 +4,7 @@
 
 Ink_Studio | 社团LOGO
 
+
 ## 文件说明
   
 源地址：[direct image link](https://web.archive.org/web/20120121184732im_/http://vocahou.ru/img/ink.jpg), [source page](https://web.archive.org/web/20120624071621/http://vocahou.ru/)

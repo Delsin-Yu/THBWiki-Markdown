@@ -4,10 +4,12 @@
 
 SlimeSmile
 
+
 ## 自机
 
 
 <table><tbody><tr><td><div class="center"><div class="floatnone"><a href="./文件-射命丸文（花映塚立绘）.png.md" class="image" title="幻想乡的新闻记者 射命丸文"><img alt="幻想乡的新闻记者 射命丸文" src="https://upload.thwiki.cc/thumb/9/9a/%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87%EF%BC%88%E8%8A%B1%E6%98%A0%E5%A1%9A%E7%AB%8B%E7%BB%98%EF%BC%89.png/31px-%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87%EF%BC%88%E8%8A%B1%E6%98%A0%E5%A1%9A%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="31" height="40" srcset="https://upload.thwiki.cc/thumb/9/9a/%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87%EF%BC%88%E8%8A%B1%E6%98%A0%E5%A1%9A%E7%AB%8B%E7%BB%98%EF%BC%89.png/46px-%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87%EF%BC%88%E8%8A%B1%E6%98%A0%E5%A1%9A%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/9/9a/%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87%EF%BC%88%E8%8A%B1%E6%98%A0%E5%A1%9A%E7%AB%8B%E7%BB%98%EF%BC%89.png/62px-%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87%EF%BC%88%E8%8A%B1%E6%98%A0%E5%A1%9A%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="227" data-file-height="294"></a></div></div></td> <td style="width:150px;padding:3px 9px 3px 7px;">幻想乡的新闻记者</td><td style="width:180px;padding:3px 9px 3px 7px;" rowspan="1"> <a href="./射命丸文.md" title="射命丸文">射命丸文</a></td></tr></tbody></table>
+
 
 
 ## 敌方角色

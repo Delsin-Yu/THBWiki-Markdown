@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-The_First_Adventure（前編）封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/4/46/The_First_Adventure%EF%BC%88%E5%89%8D%E7%B7%A8%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/118px-The_First_Adventure%EF%BC%88%E5%89%8D%E7%B7%A8%EF%BC%89%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="118" height="168" srcset="https://upload.thwiki.cc/thumb/4/46/The_First_Adventure%EF%BC%88%E5%89%8D%E7%B7%A8%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/177px-The_First_Adventure%EF%BC%88%E5%89%8D%E7%B7%A8%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/4/46/The_First_Adventure%EF%BC%88%E5%89%8D%E7%B7%A8%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/236px-The_First_Adventure%EF%BC%88%E5%89%8D%E7%B7%A8%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="843" data-file-height="1200"></a></td>
@@ -14,11 +15,13 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/46425225">https://www.pixiv.net/artworks/46425225</a></td></tr></tbody></table>
 
 The First Adventure（前編）（同人志，黒豆屋，2014） - 2014年10月12日 由 黒豆屋 于 东方红楼梦10 发布的漫画同人志，一共24页，分级为 一般向
+
 ## Staff
 Writer
 : カズナ (未找到链接)
 Illustration
 : カズナ (未找到链接)
+
 
 ## 评论
 

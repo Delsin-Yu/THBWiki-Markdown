@@ -6,13 +6,17 @@
 
 本页是关于东方Project  
  **二次同人创作者** 的词条
+
 ## 基本信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="label"><b>名称</b></td><td> Ando Ken </td></tr><tr><td class="label"><b>所属社团</b></td><td><b>当前</b><div style="margin-left:2em;">无所属社团</div></td></tr><tr><td class="label"><b>职位</b></td><td>编曲</td></tr><tr><td class="label"><b>参与社团</b></td><td><a href="./SPACELECTRO.md" title="SPACELECTRO">SPACELECTRO</a> （编曲）</td></tr><tr><td class="label"><b>个人页面</b></td><td><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><b>Twitter</b></td><td><a rel="nofollow" class="external free" href="https://twitter.com/ken_and">https://twitter.com/ken_and</a></td></tr><tr><td><b>NicoMylist</b></td><td><a rel="nofollow" class="external free" href="https://www.nicovideo.jp/user/42146289">https://www.nicovideo.jp/user/42146289</a></td></tr><tr><td><b>Soundcloud</b></td><td><a rel="nofollow" class="external free" href="https://soundcloud.com/kenand1189">https://soundcloud.com/kenand1189</a></td></tr><tr><td><b>Youtube</b></td><td><a rel="nofollow" class="external free" href="https://www.youtube.com/channel/UCEuj6OT5P-2mn7I6C93sp0Q">https://www.youtube.com/channel/UCEuj6OT5P-2mn7I6C93sp0Q</a></td></tr></tbody></table></td></tr></tbody></table>
 
 Ando Ken（人物） - 现实人物
+
 ## 介绍
+
 ## 参与作品
+
 ### 同人音乐
   
 模板:人物曲目列表 (未找到链接)

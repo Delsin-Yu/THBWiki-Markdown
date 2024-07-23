@@ -6,11 +6,13 @@
 
 本页是关于东方Project  
  **二次同人创作者** 的词条
+
 ## 基本信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="label"><b>名称</b></td><td> shnva </td></tr><tr><td class="label"><b>所属社团</b></td><td><b>当前</b><div style="margin-left:2em;"><a href="./少女恋歌.md" title="少女恋歌">少女恋歌</a></div></td></tr><tr><td class="label"><b>职位</b></td><td>画师</td></tr><tr><td class="label"><b>个人页面</b></td><td><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><b>Blog</b></td><td><a rel="nofollow" class="external free" href="http://shnva.tumblr.com">http://shnva.tumblr.com</a></td></tr><tr><td><b>Twitter</b></td><td><a rel="nofollow" class="external free" href="https://twitter.com/shhhInOvaaa">https://twitter.com/shhhInOvaaa</a></td></tr><tr><td><b>Pixiv</b></td><td><a rel="nofollow" class="external free" href="https://www.pixiv.net/member.php?id=12296581">https://www.pixiv.net/member.php?id=12296581</a></td></tr><tr><td><b>Email</b></td><td>shinonova@gmail.com</td></tr></tbody></table></td></tr></tbody></table>
 
 shnva（人物） - 现实人物
+
 ## 介绍
   
 结界组专精画师，画出了大量的纯爱糖结界组本，上色光鲜细腻，笔下角色常充满少女心  
@@ -18,7 +20,9 @@ shnva（人物） - 现实人物
 上色和光影的综合利用往往能制造出幸福与浪漫的氛围，使得剧情更加甜蜜。
   
 
+
 ## 参与作品
+
 ## 人际关系
 人名
 : 关系

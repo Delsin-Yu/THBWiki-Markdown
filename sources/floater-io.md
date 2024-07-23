@@ -4,7 +4,8 @@
 
 floater-io ，于 2010 年成立，主要制作 同人音乐 的日本同人社团，主催是 ITM，当前状态为 休止
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -15,14 +16,17 @@ floater-io ，于 2010 年成立，主要制作 同人音乐 的日本同人社�
 
 
 
+
 ## 社团信息
 文件:floater-iobanner.jpg (未找到链接)  banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> floater-io </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2010</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>主催</b></td><td> <a href="./ITM.md" title="ITM">ITM</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="https://floater.io">https://floater.io</a> <br><a rel="nofollow" class="external free" href="http://floater-io.net">http://floater-io.net</a> （旧官网）<span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><small>（<a rel="nofollow" class="external text" href="https://web.archive.org/web/20161226072710/http://floater-io.net/">缓存页面</a>）</small></td></tr></tbody></table>
 
 floater-io（同人社团，同人音乐社团） - floater-io ，于 2010 年成立，主要制作 同人音乐 的日本同人社团，主催是 ITM，当前状态为 休止
+
 ## 成员名单
 - [ITM](./ITM.md)
+
 
 ## 作品列表
 [](./Afterwords.md)[Afterwords](./Afterwords.md)首发日期：2010-05-16 （第四回東方崇敬祭 (未找到链接)）全长 （一般向）[](./デイドリーム.md)[デイドリーム](./デイドリーム.md)首发日期：2010-09-19 （博麗神社例大祭SP1 (未找到链接)）全长 （一般向）[](./Atmospheric_Control.md)[Atmospheric Control](./Atmospheric_Control.md)首发日期：2010-10-11 （東方紅楼夢6 (未找到链接)）EP （一般向）[](./Silk_Moon.md)[Silk Moon](./Silk_Moon.md)首发日期：2011-05-08 （第八回 博麗神社例大祭 (未找到链接)）全长 （一般向）[](./micro_muse.md)[micro muse](./micro_muse.md)首发日期：2011-09-11 （博麗神社例大祭SP2 (未找到链接)）全长 （一般向）[](./Delightful_Sense.md)[Delightful Sense](./Delightful_Sense.md)首发日期：2012-05-27 （第九回 博麗神社例大祭 (未找到链接)）全长 （一般向）[](./Subception.md)[Subception](./Subception.md)首发日期：2012-10-07 （東方紅楼夢8 (未找到链接)）全长 （一般向）[](./Recollection（floater-io）.md)[Recollection](./Recollection（floater-io）.md)首发日期：2013-05-26 （第十回 博麗神社例大祭 (未找到链接)）全长 （一般向）
@@ -42,6 +46,7 @@ floater-io（同人社团，同人音乐社团） - floater-io ，于 2010 年�
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 参展信息

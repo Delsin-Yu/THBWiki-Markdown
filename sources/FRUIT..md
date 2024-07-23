@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-FRUIT.封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/d/d6/FRUIT.%E5%B0%81%E9%9D%A2.jpg/196px-FRUIT.%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="196" height="196" srcset="https://upload.thwiki.cc/thumb/d/d6/FRUIT.%E5%B0%81%E9%9D%A2.jpg/294px-FRUIT.%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/d/d6/FRUIT.%E5%B0%81%E9%9D%A2.jpg/392px-FRUIT.%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1024" data-file-height="1024"></a><div class="cover-char">角色：<a href="./橙.md" title="橙">橙</a>，<a href="./姬海棠果.md" title="姬海棠果">姬海棠果</a></div></td>
@@ -14,11 +15,14 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/42545162">https://www.pixiv.net/artworks/42545162</a><br><a rel="nofollow" class="external free" href="https://twitter.com/nig_18/status/520707904928632833">https://twitter.com/nig_18/status/520707904928632833</a></td></tr></tbody></table>
 
 FRUIT.（同人志，steo ∞ haon，2014） - 2014年10月12日 由 steo ∞ haon 于 东方红楼梦10 发布的画集同人志，A5尺寸一共16页，分级为 一般向
+
 ## 预览
+
 ## Staff
 - いちは (未找到链接)
 - 稔梨 (未找到链接)
 - 垣ポピンズ崎 (未找到链接)
+
 
 ## 评论
 

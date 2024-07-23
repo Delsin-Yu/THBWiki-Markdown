@@ -18,6 +18,7 @@
 
 
 </center>
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=FLOWER_and_SYMPTOM%E5%B0%81%E9%9D%A2.jpg" class="new" title="文件:FLOWER and SYMPTOM封面.jpg">封面图片</a></td>
@@ -26,7 +27,9 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/medotsu_/status/1557647305893105664">https://twitter.com/medotsu_/status/1557647305893105664</a><br><a rel="nofollow" class="external free" href="https://twitter.com/medotsu_/status/1557318240900382726">https://twitter.com/medotsu_/status/1557318240900382726</a></td></tr></tbody></table>
 
 FLOWER and SYMPTOM（同人专辑，DEHANA，2022） - 2022年8月14日 由 DEHANA 于 Comic Market 100 发布的EP同人专辑，曲目主要风格是 硬核、Trance，内容以 东方花映塚为题材，分级为 一般向
+
 ## Staff
+
 ## 试听
 
 <table>
@@ -39,11 +42,13 @@ FLOWER and SYMPTOM（同人专辑，DEHANA，2022） - 2022年8月14日 由 DEHA
 </td></tr></tbody></table>
 
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="info"><b>01</b></td><td id="???" colspan="2" class="title">???<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=春色小径　～ Colorful Path&amp;fromwiki=FLOWER_and_SYMPTOM"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=春色小径　～ Colorful Path&amp;fromwiki=FLOWER_and_SYMPTOM"><span></span></a></span><div class="ogmusic"><a href="./春色小径_～_Colorful_Path.md" title="春色小径 ～ Colorful Path">春色小径　～ Colorful Path</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E8%8A%B1%E6%98%A0%E5%A1%9A_%EF%BD%9E_Phantasmagoria_of_Flower_View." class="mw-redirect" title="东方花映塚 ～ Phantasmagoria of Flower View.">东方花映塚　～ Phantasmagoria of Flower View.</a></div></td></tr>
-<tr><td id="2" class="info"><b>02</b></td><td id="???" colspan="2" class="title">???<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=おてんば恋娘の冒険&amp;fromwiki=FLOWER_and_SYMPTOM"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=おてんば恋娘の冒険&amp;fromwiki=FLOWER_and_SYMPTOM"><span></span></a></span><div class="ogmusic"><a href="/%E3%81%8A%E3%81%A6%E3%82%93%E3%81%B0%E6%81%8B%E5%A8%98%E3%81%AE%E5%86%92%E9%99%BA" class="mw-redirect" title="おてんば恋娘の冒険">おてんば恋娘の冒険</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E8%8A%B1%E6%98%A0%E5%A1%9A_%EF%BD%9E_Phantasmagoria_of_Flower_View." class="mw-redirect" title="东方花映塚 ～ Phantasmagoria of Flower View.">东方花映塚　～ Phantasmagoria of Flower View.</a></div></td></tr>
-<tr><td id="3" class="info"><b>03</b></td><td id="???" colspan="2" class="title">???<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=六十年目の東方裁判　～ Fate of Sixty Years&amp;fromwiki=FLOWER_and_SYMPTOM"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=六十年目の東方裁判　～ Fate of Sixty Years&amp;fromwiki=FLOWER_and_SYMPTOM"><span></span></a></span><div class="ogmusic"><a href="/%E5%85%AD%E5%8D%81%E5%B9%B4%E7%9B%AE%E3%81%AE%E6%9D%B1%E6%96%B9%E8%A3%81%E5%88%A4_%EF%BD%9E_Fate_of_Sixty_Years" class="mw-redirect" title="六十年目の東方裁判 ～ Fate of Sixty Years">六十年目の東方裁判　～ Fate of Sixty Years</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E8%8A%B1%E6%98%A0%E5%A1%9A_%EF%BD%9E_Phantasmagoria_of_Flower_View." class="mw-redirect" title="东方花映塚 ～ Phantasmagoria of Flower View.">东方花映塚　～ Phantasmagoria of Flower View.</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="info"><b>01</b></td><td id="???" colspan="2" class="title">???<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=春色小径　～ Colorful Path&amp;fromwiki=FLOWER_and_SYMPTOM"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=春色小径　～ Colorful Path&amp;fromwiki=FLOWER_and_SYMPTOM"><span></span></a></span><div class="ogmusic"><a href="./春色小径_～_Colorful_Path.md" title="春色小径 ～ Colorful Path">春色小径　～ Colorful Path</a></div><div class="source"><a href="./东方花映塚_～_Phantasmagoria_of_Flower_View..md" class="mw-redirect" title="东方花映塚 ～ Phantasmagoria of Flower View.">东方花映塚　～ Phantasmagoria of Flower View.</a></div></td></tr>
+<tr><td id="2" class="info"><b>02</b></td><td id="???" colspan="2" class="title">???<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=おてんば恋娘の冒険&amp;fromwiki=FLOWER_and_SYMPTOM"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=おてんば恋娘の冒険&amp;fromwiki=FLOWER_and_SYMPTOM"><span></span></a></span><div class="ogmusic"><a href="./おてんば恋娘の冒険.md" class="mw-redirect" title="おてんば恋娘の冒険">おてんば恋娘の冒険</a></div><div class="source"><a href="./东方花映塚_～_Phantasmagoria_of_Flower_View..md" class="mw-redirect" title="东方花映塚 ～ Phantasmagoria of Flower View.">东方花映塚　～ Phantasmagoria of Flower View.</a></div></td></tr>
+<tr><td id="3" class="info"><b>03</b></td><td id="???" colspan="2" class="title">???<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=六十年目の東方裁判　～ Fate of Sixty Years&amp;fromwiki=FLOWER_and_SYMPTOM"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=六十年目の東方裁判　～ Fate of Sixty Years&amp;fromwiki=FLOWER_and_SYMPTOM"><span></span></a></span><div class="ogmusic"><a href="./六十年目の東方裁判_～_Fate_of_Sixty_Years.md" class="mw-redirect" title="六十年目の東方裁判 ～ Fate of Sixty Years">六十年目の東方裁判　～ Fate of Sixty Years</a></div><div class="source"><a href="./东方花映塚_～_Phantasmagoria_of_Flower_View..md" class="mw-redirect" title="东方花映塚 ～ Phantasmagoria of Flower View.">东方花映塚　～ Phantasmagoria of Flower View.</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

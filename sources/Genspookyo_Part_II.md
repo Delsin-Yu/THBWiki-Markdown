@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Genspookyo_Part_II封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/6/60/Genspookyo_Part_II%E5%B0%81%E9%9D%A2.jpg/224px-Genspookyo_Part_II%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="224" srcset="https://upload.thwiki.cc/thumb/6/60/Genspookyo_Part_II%E5%B0%81%E9%9D%A2.jpg/336px-Genspookyo_Part_II%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/6/60/Genspookyo_Part_II%E5%B0%81%E9%9D%A2.jpg/448px-Genspookyo_Part_II%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="4000" data-file-height="4000"></a><div class="cover-char">角色：<a href="./魂魄妖梦.md" title="魂魄妖梦">魂魄妖梦</a>，<a href="/index.php?title=%E5%8E%9F%E5%88%9B%E8%A7%92%E8%89%B2&amp;action=edit&amp;redlink=1" class="new" title="原创角色（页面不存在）">原创角色</a></div></td>
@@ -18,7 +19,9 @@ Genspookyo Part II（同人专辑，Border Of Nightmares，2021） - 2021年10�
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://borderofnightmares.bandcamp.com/album/genspookyo-part-ii">bandcamp</a></td></tr></tbody></table>
 
 
+
 ## Staff
+
 ## 试听
 
 <table>
@@ -31,13 +34,15 @@ Genspookyo Part II（同人专辑，Border Of Nightmares，2021） - 2021年10�
 </td></tr></tbody></table>
 
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="info"><b>01</b></td><td id="U.N_Owen_Was_Devoured_Alive" colspan="2" class="title">U.N Owen Was Devoured Alive<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=U.N.オーエンは彼女なのか？&amp;fromwiki=Genspookyo_Part_II"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:38</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=U.N.オーエンは彼女なのか？&amp;fromwiki=Genspookyo_Part_II"><span></span></a></span><div class="ogmusic"><a href="/U.N.%E3%82%AA%E3%83%BC%E3%82%A8%E3%83%B3%E3%81%AF%E5%BD%BC%E5%A5%B3%E3%81%AA%E3%81%AE%E3%81%8B%EF%BC%9F" class="mw-redirect" title="U.N.オーエンは彼女なのか？">U.N.オーエンは彼女なのか？</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E7%BA%A2%E9%AD%94%E4%B9%A1_%EF%BD%9E_the_Embodiment_of_Scarlet_Devil." class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr>
+<table><tbody><tr><td id="1" class="info"><b>01</b></td><td id="U.N_Owen_Was_Devoured_Alive" colspan="2" class="title">U.N Owen Was Devoured Alive<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=U.N.オーエンは彼女なのか？&amp;fromwiki=Genspookyo_Part_II"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:38</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=U.N.オーエンは彼女なのか？&amp;fromwiki=Genspookyo_Part_II"><span></span></a></span><div class="ogmusic"><a href="./U.N.オーエンは彼女なのか？.md" class="mw-redirect" title="U.N.オーエンは彼女なのか？">U.N.オーエンは彼女なのか？</a></div><div class="source"><a href="./东方红魔乡_～_the_Embodiment_of_Scarlet_Devil..md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr>
 <tr><td id="2" class="info"><b>02</b></td><td id="Witches_Candies" colspan="2" class="title">Witches Candies<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=Genspookyo_Part_II"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:01</td></tr>
 <tr><td id="3" class="info"><b>03</b></td><td id="Dead_Meat_Mountain" colspan="2" class="title">Dead Meat Mountain<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=Genspookyo_Part_II"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:35</td></tr>
 <tr><td id="4" class="info"><b>04</b></td><td id="This_Miserable_Life" colspan="2" class="title">This Miserable Life<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=Genspookyo_Part_II"><span title="搜索相似同人曲"></span></a></span></td><td class="time">02:52</td></tr>
 <tr><td id="5" class="info"><b>05</b></td><td id="Ashes_from_Naraka" colspan="2" class="title">Ashes from Naraka<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=Genspookyo_Part_II"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:59</td></tr></tbody></table>
+
 
 
 ## 评论

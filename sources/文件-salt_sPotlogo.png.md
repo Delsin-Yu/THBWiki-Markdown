@@ -4,6 +4,7 @@
 
 salt_sPot | 社团LOGO
 
+
 ## 摘要
   
 源地址：[direct image link](https://web.archive.org/web/20190111153720im_/http://shiodokoro.web.fc2.com/image/rogo1.png), [source page](https://web.archive.org/web/20181228155936/http://shiodokoro.web.fc2.com/)

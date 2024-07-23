@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=WorldSymphony-%E5%9E%8BK%E5%BC%8F%E6%9D%B1%E6%96%B9%E6%97%A7%E4%BD%9C%E4%BA%8C%E6%AC%A1%E5%86%8D%E9%8C%B2%E9%9B%86%E5%B0%81%E9%9D%A2.jpg" class="new" title="文件:WorldSymphony-型K式東方旧作二次再録集封面.jpg">封面图片</a><div class="cover-char">角色：<a href="./魅魔.md" title="魅魔">魅魔</a>，<a href="./神绮.md" title="神绮">神绮</a>，<a href="./风见幽香.md" title="风见幽香">风见幽香</a>，<a href="./艾丽.md" title="艾丽">艾丽</a>，<a href="./矜羯罗.md" title="矜羯罗">矜羯罗</a>，<a href="./梦月.md" title="梦月">梦月</a>，<a href="./幻月.md" title="幻月">幻月</a>，<a href="./依莉斯.md" title="依莉斯">依莉斯</a>，<a href="./萨丽爱尔.md" title="萨丽爱尔">萨丽爱尔</a></div></td>
@@ -14,9 +15,12 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/wagocolo/status/1042720020441182209">https://twitter.com/wagocolo/status/1042720020441182209</a></td></tr></tbody></table>
 
 WorldSymphony-型K式東方旧作二次再録集（同人志，型K式，2018） - 2018年9月22日 由 型K式 于 幺乐团嘉年华！8 发布的漫画/总集同人志，A5尺寸一共184页，分级为 一般向
+
 ## 预览
+
 ## Staff
 - [カタケイ](./カタケイ.md)
+
 
 ## 评论
 

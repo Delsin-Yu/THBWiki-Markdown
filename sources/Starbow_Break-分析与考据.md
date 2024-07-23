@@ -4,6 +4,7 @@
 
 符卡 | 芙兰朵露·斯卡蕾特
 
+
 ## 目录
 
 - [1 分析与考据](#分析与考据)
@@ -19,7 +20,9 @@
 
 
 
+
 ## 分析与考据
+
 ### 禁弾「スターボウブレイク」
   
  **禁弾「スターボウブレイク」**  禁弹「Starbow Break」（星弧破碎）
@@ -48,8 +51,10 @@
 
 [^cite_note-1]: 英文维基百科：[The Gold at the Starbow's End](https://en.wikipedia.org/wiki/en:The_Gold_at_the_Starbow's_End)
 
+
 ## 参见
 - [芙兰朵露·斯卡蕾特/分析考据](./芙兰朵露·斯卡蕾特-分析考据.md)
+
 
 ## 导航
 

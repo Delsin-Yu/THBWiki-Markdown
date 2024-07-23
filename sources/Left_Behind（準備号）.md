@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Left_Behind（準備号）封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/5/5e/Left_Behind%EF%BC%88%E6%BA%96%E5%82%99%E5%8F%B7%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/141px-Left_Behind%EF%BC%88%E6%BA%96%E5%82%99%E5%8F%B7%EF%BC%89%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="141" height="196" srcset="https://upload.thwiki.cc/thumb/5/5e/Left_Behind%EF%BC%88%E6%BA%96%E5%82%99%E5%8F%B7%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/211px-Left_Behind%EF%BC%88%E6%BA%96%E5%82%99%E5%8F%B7%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/5/5e/Left_Behind%EF%BC%88%E6%BA%96%E5%82%99%E5%8F%B7%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/282px-Left_Behind%EF%BC%88%E6%BA%96%E5%82%99%E5%8F%B7%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="567" data-file-height="789"></a><div class="cover-char">角色：<a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a>，<a href="/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C" title="十六夜咲夜">十六夜咲夜</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://xlegacy.x0.com/dojin/lb77.html">http://xlegacy.x0.com/dojin/lb77.html</a></td></tr></tbody></table>
 
 Left Behind（準備号）（同人志，＋legacy，2009） - 2009年12月30日 由 ＋legacy 于 Comic Market 77 发布的漫画同人志，一共24页，登场人物有 十六夜咲夜、蕾米莉亚·斯卡蕾特、芙兰朵露·斯卡蕾特，分级为 一般向
+
 ## Staff
 - 滝島朝香 (未找到链接)
+
 
 ## 评论
 

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></div></td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.deviantart.com/yo-chaosangel/journal/HKCW25-and-others-edit-238238446">https://www.deviantart.com/yo-chaosangel/journal/HKCW25-and-others-edit-238238446</a><br><a rel="nofollow" class="external free" href="http://blog.qooza.hk/maidinchina?eid=8442348">http://blog.qooza.hk/maidinchina?eid=8442348</a><br><a rel="nofollow" class="external free" href="http://blog.yam.com/maidinchina/article/13609252">http://blog.yam.com/maidinchina/article/13609252</a><br><span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><small>（<a rel="nofollow" class="external text" href="https://web.archive.org/web/20080211051002/http://blog.yam.com/maidinchina/article/13609252">缓存页面</a>）</small></td></tr></tbody></table>
 
 Mecha Girl Touhou Series（同人志，Maid in China，2008） - 2008年2月10日 由 Maid in China 于 Comic World HK25 发布的画集同人志，B5尺寸一共20页，分级为 一般向
+
 ## Staff
 - Yo (未找到链接)
 - BlueLight (未找到链接)
@@ -21,6 +23,7 @@ Mecha Girl Touhou Series（同人志，Maid in China，2008） - 2008年2月10�
 Guest
 
 - Archlich (未找到链接)
+
 
 ## 评论
 

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Twins_and_Mirror封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/4/4c/Twins_and_Mirror%E5%B0%81%E9%9D%A2.png/224px-Twins_and_Mirror%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="224" height="224" srcset="https://upload.thwiki.cc/thumb/4/4c/Twins_and_Mirror%E5%B0%81%E9%9D%A2.png/336px-Twins_and_Mirror%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/4/4c/Twins_and_Mirror%E5%B0%81%E9%9D%A2.png/448px-Twins_and_Mirror%E5%B0%81%E9%9D%A2.png 2x" data-file-width="1200" data-file-height="1200"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>，<a href="./博丽灵梦（旧作角色）.md" title="博丽灵梦（旧作角色）">博丽灵梦（旧作角色）</a></div></td>
@@ -18,6 +19,7 @@ Twins and Mirror（同人志，墨斯卡林之翼，2019） - 2019年3月2日 �
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://item.taobao.com/item.htm?id=592823906562">淘宝</a></td></tr></tbody></table>
 
 
+
 ## Staff
 文案
 : 射命丸糯米团
@@ -25,6 +27,7 @@ Twins and Mirror（同人志，墨斯卡林之翼，2019） - 2019年3月2日 �
 : 绝对无视
 绘师
 : 萃、初子、蝶子、idoki、Munchem、qwer37、圈圈、秋霜人形、Transparent、碳酸爱丽、甜爆炸、雾川弥歌、小新、小饼、止血胶布
+
 
 ## 评论
 

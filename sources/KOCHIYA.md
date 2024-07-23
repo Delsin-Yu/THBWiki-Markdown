@@ -4,7 +4,8 @@
 
 KOCHIYA ，于 2018 年成立，主要制作 同人志，周边，其他 的中国大陆同人社团，主催是 -KOCHIYA-，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -21,12 +22,14 @@ KOCHIYA ，于 2018 年成立，主要制作 同人志，周边，其他 的中�
 
 
 
+
 ## 社团信息
 [](./文件-KOCHIYAbanner.png.md)  [](./文件-KOCHIYAbanner.png.md)logo
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> KOCHIYA </td></tr><tr><td><b>主要作品类型</b></td><td>同人志，周边，其他</td></tr><tr><td><b>成立时间</b></td><td>2018年7月</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=-KOCHIYA-&amp;action=edit&amp;redlink=1" class="new" title="-KOCHIYA-（页面不存在）">-KOCHIYA-</a> </td></tr><tr><td><b>地区</b></td><td>中国大陆</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="https://weibo.com/campione1994">https://weibo.com/campione1994</a> </td></tr></tbody></table>
 
 KOCHIYA（同人社团，同人志社团，周边社团，其他社团） - KOCHIYA ，于 2018 年成立，主要制作 同人志，周边，其他 的中国大陆同人社团，主催是 -KOCHIYA-，当前状态为 活动
+
 ## 成员名单
 主催
 : -KOCHIYA-
@@ -35,7 +38,9 @@ KOCHIYA（同人社团，同人志社团，周边社团，其他社团） - KOCH
 排版设计
 : -KOCHIYA-
 
+
 ## 作品列表
+
 ### 同人志
 [](./社绘录_卷一.md)[社绘录 卷一](./社绘录_卷一.md)首发日期：2018-12-15 （COMICUP23 (未找到链接)）画集 （一般向）A4&#160;尺寸 24&#160;页[](./社绘录_卷一_原画签绘.md)[社绘录 卷一 原画签绘](./社绘录_卷一_原画签绘.md)首发日期：2018-12-15 （COMICUP23 (未找到链接)）STHL-0001其他 （一般向） 11&#160;页内容主要以早苗为彼女的视角来创作[](./关于社团需要了解の姿势①.md)[关于社团需要了解の姿势①](./关于社团需要了解の姿势①.md)首发日期：2019-03-09 （東方遊劇天Z (未找到链接)）其他 （一般向）A5&#160;尺寸 20&#160;页内容为新兴社团入门知识，分成技术篇与运营篇两个部分。[](./社绘录·卷二·Kaze_omoide.md)[社绘录·卷二·Kaze omoide](./社绘录·卷二·Kaze_omoide.md)首发日期：2019-12-21 （COMICUP25 (未找到链接)）画集 （一般向）A4&#160;尺寸 20&#160;页
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -48,11 +53,13 @@ KOCHIYA（同人社团，同人志社团，周边社团，其他社团） - KOCH
 </table>
 
 
+
 ## 社团目标
 - 2018年初定向：按照各自喜好出一本属于自己的作品并发行。
 - 2018年11月再定向：争取扩大原创的范围，制作属于自己的人设及作品，以达到与二次创作的比例为1：1。
 - 2019年初，由于此社团认为第一部作品《[社绘录 卷一](./社绘录_卷一.md)》的质量尚不能达到内部满意的程度，故停止原创人设计划的推进。预计等到社团能力达到需求时再考虑是否推进。
 - 2019年底，完成了第二作品《[社绘录·卷二·Kaze omoide](./社绘录·卷二·Kaze_omoide.md)》
+
 
 ## 参展信息
 

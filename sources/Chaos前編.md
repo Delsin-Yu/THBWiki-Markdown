@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=Chaos%E5%89%8D%E7%B7%A8%E5%B0%81%E9%9D%A2.jpg" class="new" title="文件:Chaos前編封面.jpg">封面图片</a></td>
@@ -14,9 +15,12 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/kyoto_shirayui/status/1519287716428410880">https://twitter.com/kyoto_shirayui/status/1519287716428410880</a></td></tr></tbody></table>
 
 Chaos前編（同人志，黒甜郷裏，2022） - 2022年5月8日 由 黒甜郷裏 于 博丽神社例大祭19 发布的总集/小说同人志，登场人物有 宇佐见莲子、玛艾露贝莉·赫恩，分级为 一般向
+
 ## 预览
+
 ## Staff
 - しらゆい (未找到链接)
+
 
 ## 评论
   

@@ -4,6 +4,7 @@
 
 Northern_Mind | 使用了翻译表的页面 | 同人游戏对话
 
+
 ## Stage Ex
 [](./文件-东方觉醒珠StageEx标题.jpg.md)  [](./文件-东方觉醒珠StageEx标题.jpg.md)Ex面场景
 
@@ -12,6 +13,7 @@ Northern_Mind | 使用了翻译表的页面 | 同人游戏对话
 
 
 [^cite_note-1]: 捏他[风神录Extra道中对话](./游戏对话-东方风神录-博丽灵梦_ExStory.md)“駄目よ永遠に眠り続ける私の友人が居るんだから”。
+
 
 ## 词条导航
   

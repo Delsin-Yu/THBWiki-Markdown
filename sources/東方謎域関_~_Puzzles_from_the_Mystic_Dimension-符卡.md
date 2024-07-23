@@ -4,6 +4,7 @@
 
 RedstoneGate
 
+
 ## 符卡
 
 <table><tbody><tr><th><b>符卡名</b></th><th><b>难度</b></th></tr><tr><td style="width:200px">谜阵「十面埋伏」<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">1</a></sup></td><td style="width:180px">Overdrive</td></tr>

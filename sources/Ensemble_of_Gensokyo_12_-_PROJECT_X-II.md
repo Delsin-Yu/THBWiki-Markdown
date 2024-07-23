@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Ensemble_of_Gensokyo_12_-_PROJECT_X-II封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/6/68/Ensemble_of_Gensokyo_12_-_PROJECT_X-II%E5%B0%81%E9%9D%A2.png/224px-Ensemble_of_Gensokyo_12_-_PROJECT_X-II%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="224" height="224" srcset="https://upload.thwiki.cc/thumb/6/68/Ensemble_of_Gensokyo_12_-_PROJECT_X-II%E5%B0%81%E9%9D%A2.png/336px-Ensemble_of_Gensokyo_12_-_PROJECT_X-II%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/6/68/Ensemble_of_Gensokyo_12_-_PROJECT_X-II%E5%B0%81%E9%9D%A2.png/448px-Ensemble_of_Gensokyo_12_-_PROJECT_X-II%E5%B0%81%E9%9D%A2.png 2x" data-file-width="1400" data-file-height="1400"></a><div class="cover-char">角色：<a href="./萨丽爱尔.md" title="萨丽爱尔">萨丽爱尔</a></div></td>
@@ -18,6 +19,7 @@ Ensemble of Gensokyo 12 - PROJECT X-II（同人专辑，Dex Hexallion，2015） 
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://dexhexallion.bandcamp.com/album/ensemble-of-gensokyo-12-proejct-x-ii">bandcamp</a></td></tr></tbody></table>
 
 
+
 ## Staff
   
  **Compose**   
@@ -25,10 +27,12 @@ Ensemble of Gensokyo 12 - PROJECT X-II（同人专辑，Dex Hexallion，2015） 
 <table><tbody><tr><td><a href="/index.php?title=Kazami_Shintaro&amp;action=edit&amp;redlink=1" class="new" title="Kazami Shintaro（页面不存在）">Kazami Shintaro</a></td><td></td><td>Tr.1-6</td></tr></tbody></table>
 
 
+
 ## 试听
   
 暂不支援此类型
   
+
 
 ## 曲目列表
 
@@ -38,6 +42,7 @@ Ensemble of Gensokyo 12 - PROJECT X-II（同人专辑，Dex Hexallion，2015） 
 <tr><td id="4" class="infoYL"><b>04</b></td><td id="Shadows_of_Myth" colspan="2" class="title">Shadows of Myth<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Kazami Shintaro&amp;fromwiki=Ensemble_of_Gensokyo_12_-_PROJECT_X-II"><span title="搜索相似同人曲"></span></a></span></td><td class="time">06:03</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=Kazami_Shintaro&amp;action=edit&amp;redlink=1" class="new" title="Kazami Shintaro（页面不存在）">Kazami Shintaro</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Kazami Shintaro&amp;fromwiki=Ensemble_of_Gensokyo_12_-_PROJECT_X-II"><span></span></a></span></td></tr>
 <tr><td id="5" class="infoYL"><b>05</b></td><td id="La_Puerta_de_la_Inocencia" colspan="2" class="title">La Puerta de la Inocencia<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Kazami Shintaro&amp;fromwiki=Ensemble_of_Gensokyo_12_-_PROJECT_X-II"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:31</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=Kazami_Shintaro&amp;action=edit&amp;redlink=1" class="new" title="Kazami Shintaro（页面不存在）">Kazami Shintaro</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Kazami Shintaro&amp;fromwiki=Ensemble_of_Gensokyo_12_-_PROJECT_X-II"><span></span></a></span></td></tr>
 <tr><td id="6" class="infoYL"><b>06</b></td><td id="Genesis_of_Prayers" colspan="2" class="title">Genesis of Prayers<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Kazami Shintaro&amp;fromwiki=Ensemble_of_Gensokyo_12_-_PROJECT_X-II"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:30</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=Kazami_Shintaro&amp;action=edit&amp;redlink=1" class="new" title="Kazami Shintaro（页面不存在）">Kazami Shintaro</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Kazami Shintaro&amp;fromwiki=Ensemble_of_Gensokyo_12_-_PROJECT_X-II"><span></span></a></span></td></tr></tbody></table>
+
 
 
 ## 评论

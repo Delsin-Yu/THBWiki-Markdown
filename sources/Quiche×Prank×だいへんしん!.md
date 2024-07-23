@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Quiche×Prank×だいへんしん!封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/d/d3/Quiche%C3%97Prank%C3%97%E3%81%A0%E3%81%84%E3%81%B8%E3%82%93%E3%81%97%E3%82%93%21%E5%B0%81%E9%9D%A2.png/150px-Quiche%C3%97Prank%C3%97%E3%81%A0%E3%81%84%E3%81%B8%E3%82%93%E3%81%97%E3%82%93%21%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="150" height="224" srcset="https://upload.thwiki.cc/thumb/d/d3/Quiche%C3%97Prank%C3%97%E3%81%A0%E3%81%84%E3%81%B8%E3%82%93%E3%81%97%E3%82%93%21%E5%B0%81%E9%9D%A2.png/224px-Quiche%C3%97Prank%C3%97%E3%81%A0%E3%81%84%E3%81%B8%E3%82%93%E3%81%97%E3%82%93%21%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/d/d3/Quiche%C3%97Prank%C3%97%E3%81%A0%E3%81%84%E3%81%B8%E3%82%93%E3%81%97%E3%82%93%21%E5%B0%81%E9%9D%A2.png/299px-Quiche%C3%97Prank%C3%97%E3%81%A0%E3%81%84%E3%81%B8%E3%82%93%E3%81%97%E3%82%93%21%E5%B0%81%E9%9D%A2.png 2x" data-file-width="486" data-file-height="727"></a><div class="cover-char">角色：<a href="./封兽鵺.md" title="封兽鵺">封兽鵺</a>，<a href="./幽谷响子.md" title="幽谷响子">幽谷响子</a>，<a href="./娜兹玲.md" title="娜兹玲">娜兹玲</a></div></td>
@@ -18,8 +19,10 @@ Quiche×Prank×だいへんしん!（同人志，深海のかぜ，2017） - 201
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=216835">蜜瓜</a></td></tr></tbody></table>
 
 
+
 ## Staff
 : なまうに (未找到链接)
+
 
 ## 评论
 

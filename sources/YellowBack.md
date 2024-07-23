@@ -4,7 +4,8 @@
 
 YellowBack ，主要制作 同人志 的日本同人社团，主催是 たらいや，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -20,17 +21,21 @@ YellowBack ，主要制作 同人志 的日本同人社团，主催是 たらい
 
 
 
+
 ## 社团信息
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> YellowBack </td></tr><tr><td><b>主要作品类型</b></td><td>同人志</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=%E3%81%9F%E3%82%89%E3%81%84%E3%82%84&amp;action=edit&amp;redlink=1" class="new" title="たらいや（页面不存在）">たらいや</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr></tbody></table>
 
 YellowBack（同人社团，同人志社团） - YellowBack ，主要制作 同人志 的日本同人社团，主催是 たらいや，当前状态为 活动
+
 ## 成员名单
 - たらいや (未找到链接) (a.k.a.  **taraiya** )
 
 : [Twitter: @taraiya_](https://twitter.com/taraiya_), [Pixiv ID: 1316746](https://www.pixiv.net/users/1316746)
 
+
 ## 作品列表
+
 ### 同人志
 魔理沙が不運な本 封面图片 (未找到链接)魔理沙が不運な本 (未找到链接)首发日期：未知 - おさまりさとの遭遇～おさとう氏リスペクト～ 封面图片 (未找到链接)おさまりさとの遭遇～おさとう氏リスペクト～ (未找到链接)首发日期：未知 - 唐傘と魔法使い 封面图片 (未找到链接)唐傘と魔法使い (未找到链接)首发日期：未知 - what do you live? 封面图片 (未找到链接)what do you live? (未找到链接)首发日期：未知 - たらい小話 封面图片 (未找到链接)たらい小話 (未找到链接)首发日期：未知 - 間違った道 封面图片 (未找到链接)間違った道 (未找到链接)首发日期：未知 - Happy Birthday Reimu! 封面图片 (未找到链接)Happy Birthday Reimu! (未找到链接)首发日期：未知 - Their universe 封面图片 (未找到链接)Their universe (未找到链接)首发日期：未知 - ？？つきたちの密会 封面图片 (未找到链接)？？つきたちの密会 (未找到链接)首发日期：未知 - HAPPINESS★MARISA! 封面图片 (未找到链接)HAPPINESS★MARISA! (未找到链接)首发日期：未知 - 「信頼」について。 封面图片 (未找到链接)「信頼」について。 (未找到链接)首发日期：未知 - [](./信頬.md)[信頬](./信頬.md)首发日期：2019-05-05 （第十六回 博麗神社例大祭 (未找到链接)）漫画 （一般向）[](./驚かしに生きましょう.md)[驚かしに生きましょう](./驚かしに生きましょう.md)首发日期：2019-08-12 （Comic Market 96 (未找到链接)）漫画 （一般向）[](./HANOWA_LOYALTY.md)[HANOWA LOYALTY](./HANOWA_LOYALTY.md)首发日期：2019-12-31 （Comic Market 97 (未找到链接)）漫画 （一般向）[](./神様的存在価値論.md)[神様的存在価値論](./神様的存在価値論.md)首发日期：2021-12-31 （Comic Market 99 (未找到链接)）漫画 （一般向）
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -52,6 +57,7 @@ YellowBack（同人社团，同人志社团） - YellowBack ，主要制作 同�
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 参展信息

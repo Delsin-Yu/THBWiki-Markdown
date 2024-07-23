@@ -21,7 +21,8 @@ Aphrodite -Masashi Okagaki And Friends team Aphrodite- ，于 2011 年成立，�
 
   
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -39,19 +40,23 @@ Aphrodite -Masashi Okagaki And Friends team Aphrodite- ，于 2011 年成立，�
 
 
 
+
 ## 社团信息
 [](./文件-Aphrodite_banner.gif.md)  [](./文件-Aphrodite_banner.gif.md)banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Aphrodite -Masashi Okagaki And Friends team Aphrodite- </td></tr><tr><td><b>中文名称</b></td><td>阿佛洛狄忒</td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2011</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="./岡垣正志.md" title="岡垣正志">岡垣正志</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://kapparecords.verse.jp/AphroditeSymphonics/AphroditeTop.html">http://kapparecords.verse.jp/AphroditeSymphonics/AphroditeTop.html</a> </td></tr></tbody></table>
 
 Aphrodite（同人社团，同人音乐社团） - Aphrodite -Masashi Okagaki And Friends team Aphrodite- ，于 2011 年成立，主要制作 同人音乐 的日本同人社团，主催是 岡垣正志，当前状态为 活动
+
 ## 成员名单
 - [岡垣正志](./岡垣正志.md) (Terra Rosa～Jill's Project)
 - 荒木真為 (未找到链接) (Vocal&#160;: Starless)
 - 鈴木広美 (未找到链接) (Guitar&#160;: ex.Terra Rosa～Blue Symphony)
 - ANI-Katsu (未找到链接)(Bass&#160;: Jill's Project &amp; Rattlesnake)
 
+
 ## 作品列表
+
 ### 同人专辑
   
 之前作品待补充。
@@ -74,6 +79,7 @@ Aphrodite（同人社团，同人音乐社团） - Aphrodite -Masashi Okagaki An
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ### 同人专辑
@@ -104,10 +110,12 @@ Aphrodite（同人社团，同人音乐社团） - Aphrodite -Masashi Okagaki An
 </table>
 
 
+
 ### 同人视频
 [](./様式美大作戦2013.md)[様式美大作戦2013](./様式美大作戦2013.md)首发日期：2014-05-11 （第十一回 博麗神社例大祭 (未找到链接)）KPCR-153音乐 （一般向）
 <table><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 其他信息

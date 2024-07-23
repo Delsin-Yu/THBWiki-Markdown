@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-colour封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/0/04/colour%E5%B0%81%E9%9D%A2.png/139px-colour%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="139" height="196" srcset="https://upload.thwiki.cc/thumb/0/04/colour%E5%B0%81%E9%9D%A2.png/208px-colour%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/0/04/colour%E5%B0%81%E9%9D%A2.png/277px-colour%E5%B0%81%E9%9D%A2.png 2x" data-file-width="800" data-file-height="1130"></a><div class="cover-char">角色：<a href="./帕秋莉·诺蕾姬.md" title="帕秋莉·诺蕾姬">帕秋莉·诺蕾姬</a>，<a href="./洩矢诹访子.md" title="洩矢诹访子">洩矢诹访子</a>，<a href="./古明地恋.md" title="古明地恋">古明地恋</a>，<a href="./键山雏.md" title="键山雏">键山雏</a>，<a href="./爱丽丝·玛格特洛依德.md" title="爱丽丝·玛格特洛依德">爱丽丝·玛格特洛依德</a>，<a href="./本居小铃.md" title="本居小铃">本居小铃</a>，<a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a>，<a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a></div></td>
@@ -14,10 +15,13 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/42508655">https://www.pixiv.net/artworks/42508655</a><br><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/42545162">https://www.pixiv.net/artworks/42545162</a><br><a rel="nofollow" class="external free" href="http://ryokucha.margatroid.jp/colour/">http://ryokucha.margatroid.jp/colour/</a><br><span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><small>（无缓存页面）</small></td></tr></tbody></table>
 
 colour（同人志，Polychrome，2014） - 2014年3月30日 由 Polychrome 于 东方名华祭8 发布的画集/合同志同人志，B5尺寸一共20页，分级为 一般向
+
 ## 预览
+
 ## Staff
 - 汐瀬 凪 (未找到链接) （[Polychrome](./Polychrome.md)）
 - いちは (未找到链接) （[steo ∞ haon](./steo_∞_haon.md)）
+
 
 ## 评论
 

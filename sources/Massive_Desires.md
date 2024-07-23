@@ -18,6 +18,7 @@
 
 
 </center>
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Massive_Desires封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/b/b4/Massive_Desires%E5%B0%81%E9%9D%A2.jpg/196px-Massive_Desires%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="196" height="194" srcset="https://upload.thwiki.cc/thumb/b/b4/Massive_Desires%E5%B0%81%E9%9D%A2.jpg/294px-Massive_Desires%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/b/b4/Massive_Desires%E5%B0%81%E9%9D%A2.jpg/392px-Massive_Desires%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="700" data-file-height="692"></a><div class="cover-char">角色：<a href="./物部布都.md" title="物部布都">物部布都</a>，<a href="./丰聪耳神子.md" title="丰聪耳神子">丰聪耳神子</a></div></td>
@@ -26,20 +27,24 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://arceusremix.blog84.fc2.com/blog-entry-49.html">http://arceusremix.blog84.fc2.com/blog-entry-49.html</a></td></tr></tbody></table>
 
 Massive Desires（同人专辑，ESSENTIAL RECORDS，2013） - 2013年1月13日 由 ESSENTIAL RECORDS 于 ComicTreasure 21 发布的全长同人专辑，分级为 一般向
+
 ## Staff
 Design
 : 设计师 （[网址 社团]）
 Illustration
 : 画师 （[网址 社团]）
 
+
 ## 试听
   
 暂不支援此类型
   
 
+
 ## 曲目列表
 
 <table></table>
+
 
 
 ## 评论

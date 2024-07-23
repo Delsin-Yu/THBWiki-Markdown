@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-トジコVSメガトジコ封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/2/28/%E3%83%88%E3%82%B8%E3%82%B3VS%E3%83%A1%E3%82%AC%E3%83%88%E3%82%B8%E3%82%B3%E5%B0%81%E9%9D%A2.jpg/140px-%E3%83%88%E3%82%B8%E3%82%B3VS%E3%83%A1%E3%82%AC%E3%83%88%E3%82%B8%E3%82%B3%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="140" height="196" srcset="https://upload.thwiki.cc/thumb/2/28/%E3%83%88%E3%82%B8%E3%82%B3VS%E3%83%A1%E3%82%AC%E3%83%88%E3%82%B8%E3%82%B3%E5%B0%81%E9%9D%A2.jpg/210px-%E3%83%88%E3%82%B8%E3%82%B3VS%E3%83%A1%E3%82%AC%E3%83%88%E3%82%B8%E3%82%B3%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/2/28/%E3%83%88%E3%82%B8%E3%82%B3VS%E3%83%A1%E3%82%AC%E3%83%88%E3%82%B8%E3%82%B3%E5%B0%81%E9%9D%A2.jpg/280px-%E3%83%88%E3%82%B8%E3%82%B3VS%E3%83%A1%E3%82%AC%E3%83%88%E3%82%B8%E3%82%B3%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="2591" data-file-height="3624"></a><div class="cover-char">角色：<a href="./苏我屠自古.md" title="苏我屠自古">苏我屠自古</a></div></td>
@@ -14,9 +15,12 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/akira314v21/status/1368463215005364227">https://twitter.com/akira314v21/status/1368463215005364227</a></td></tr></tbody></table>
 
 トジコVSメガトジコ（同人志，STUDIOサンライト，2021） - 2021年7月18日 由 STUDIOサンライト 于 东方名华祭15 发布的漫画同人志，B5尺寸一共36页，登场人物有 苏我屠自古，分级为 一般向
+
 ## 预览
+
 ## Staff
 : アキラ・S (未找到链接)
+
 
 ## 评论
 

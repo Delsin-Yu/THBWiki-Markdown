@@ -18,6 +18,7 @@
 
 
 </center>
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-BEST_FRIEND封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/a/a7/BEST_FRIEND%E5%B0%81%E9%9D%A2.jpg/158px-BEST_FRIEND%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="158" height="224" srcset="https://upload.thwiki.cc/thumb/a/a7/BEST_FRIEND%E5%B0%81%E9%9D%A2.jpg/238px-BEST_FRIEND%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/a/a7/BEST_FRIEND%E5%B0%81%E9%9D%A2.jpg/317px-BEST_FRIEND%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="849" data-file-height="1200"></a><div class="cover-char">角色：<a href="./灵乌路空.md" title="灵乌路空">灵乌路空</a>，<a href="./火焰猫燐.md" title="火焰猫燐">火焰猫燐</a></div></td>
@@ -26,11 +27,13 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://sndelta.blog.fc2.com/blog-entry-14.html">http://sndelta.blog.fc2.com/blog-entry-14.html</a></td></tr></tbody></table>
 
 BEST FRIEND（同人专辑，でるた地帯，2015） - 2015年5月10日 由 でるた地帯 于 博丽神社例大祭12 发布的单曲同人专辑，分级为 一般向
+
 ## Staff
 Design
 : 设计师 （[网址 社团]）
 Illustration
 : 画师 （[网址 社团]）
+
 
 ## 试听
   
@@ -38,9 +41,11 @@ Illustration
 
   
 
+
 ## 曲目列表
 
 <table></table>
+
 
 
 ## 评论

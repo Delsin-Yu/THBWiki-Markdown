@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 软件信息](#软件信息)
@@ -13,6 +14,7 @@
 - [3 Staff](#Staff)
 - [4 内容页面](#内容页面)
 - [5 评论](#评论)
+
 
 
 
@@ -36,10 +38,12 @@ Touhou Artificial Dream in Arcadia（同人游戏，Bar Holographic Otaku，2023
 </tbody></table>
 
 
+
 ## 概述
   
 <big> **东方人造梦** </big>（Touhou Artificial Dream in Arcadia）是先前制作过UDONGEIN X (未找到链接)的Bar Holographic Otaku (未找到链接)的第二款作品，本作为模仿[真·女神转生](https://zh.wikipedia.org/wiki/真·女神转生)及[真·女神转生Ⅱ](https://zh.wikipedia.org/wiki/真·女神转生II)风格的DRPG。
   
+
 
 ## Staff
   
@@ -52,11 +56,13 @@ Touhou Artificial Dream in Arcadia（同人游戏，Bar Holographic Otaku，2023
 封面美术 -- [https://twitter.com/svveetberry](https://twitter.com/svveetberry)
   
 
+
 ## 内容页面
 - 游戏设定与剧情 (未找到链接)
 - 攻略 (未找到链接)
 - 使用说明 (未找到链接)
 - 其他信息 (未找到链接)
+
 
 ## 评论
 

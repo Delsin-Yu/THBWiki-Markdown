@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 软件信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-紅魔郷Remakeデッキ封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/5/55/%E7%B4%85%E9%AD%94%E9%83%B7Remake%E3%83%87%E3%83%83%E3%82%AD%E5%B0%81%E9%9D%A2.jpg/158px-%E7%B4%85%E9%AD%94%E9%83%B7Remake%E3%83%87%E3%83%83%E3%82%AD%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="158" height="224" srcset="https://upload.thwiki.cc/thumb/5/55/%E7%B4%85%E9%AD%94%E9%83%B7Remake%E3%83%87%E3%83%83%E3%82%AD%E5%B0%81%E9%9D%A2.jpg/237px-%E7%B4%85%E9%AD%94%E9%83%B7Remake%E3%83%87%E3%83%83%E3%82%AD%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/5/55/%E7%B4%85%E9%AD%94%E9%83%B7Remake%E3%83%87%E3%83%83%E3%82%AD%E5%B0%81%E9%9D%A2.jpg/316px-%E7%B4%85%E9%AD%94%E9%83%B7Remake%E3%83%87%E3%83%83%E3%82%AD%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="564" data-file-height="800"></a><div class="cover-char">角色：<a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a></div></td>
@@ -17,8 +18,10 @@
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://kabadikara.booth.pm/items/4760930">Booth</a></td></tr></tbody></table>
 
 
+
 ## Staff
 - [カバヂ](./カバヂ.md)
+
 
 ## 评论
 

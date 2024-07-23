@@ -18,6 +18,7 @@
 
 
 </center>
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-a_cup_of_tea_and_a_few_suger_-紅茶にはお砂糖を-封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/0/09/a_cup_of_tea_and_a_few_suger_-%E7%B4%85%E8%8C%B6%E3%81%AB%E3%81%AF%E3%81%8A%E7%A0%82%E7%B3%96%E3%82%92-%E5%B0%81%E9%9D%A2.jpg/252px-a_cup_of_tea_and_a_few_suger_-%E7%B4%85%E8%8C%B6%E3%81%AB%E3%81%AF%E3%81%8A%E7%A0%82%E7%B3%96%E3%82%92-%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="250" srcset="https://upload.thwiki.cc/thumb/0/09/a_cup_of_tea_and_a_few_suger_-%E7%B4%85%E8%8C%B6%E3%81%AB%E3%81%AF%E3%81%8A%E7%A0%82%E7%B3%96%E3%82%92-%E5%B0%81%E9%9D%A2.jpg/378px-a_cup_of_tea_and_a_few_suger_-%E7%B4%85%E8%8C%B6%E3%81%AB%E3%81%AF%E3%81%8A%E7%A0%82%E7%B3%96%E3%82%92-%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/0/09/a_cup_of_tea_and_a_few_suger_-%E7%B4%85%E8%8C%B6%E3%81%AB%E3%81%AF%E3%81%8A%E7%A0%82%E7%B3%96%E3%82%92-%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="400" data-file-height="397"></a><div class="cover-char">角色：<a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a></div></td>
@@ -26,9 +27,11 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://gothicart.jugem.jp/?eid=68">http://gothicart.jugem.jp/?eid=68</a></td></tr></tbody></table>
 
 a cup of tea and a few suger -紅茶にはお砂糖を-（同人专辑，GothiC，2012） - 2012年7月1日 由 GothiC 于 杜之奇迹19 发布的全长同人专辑，曲目主要风格是 爵士，分级为 一般向
+
 ## Staff
 Arrangement
 : s350 （[GothiC](./GothiC.md)）
+
 
 ## 试听
   
@@ -36,9 +39,11 @@ Arrangement
 
   
 
+
 ## 曲目列表
 
 <table></table>
+
 
 
 ## 评论

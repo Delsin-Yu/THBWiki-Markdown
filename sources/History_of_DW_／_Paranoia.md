@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-History_of_DW_／_Paranoia封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/0/06/History_of_DW_%EF%BC%8F_Paranoia%E5%B0%81%E9%9D%A2.png/168px-History_of_DW_%EF%BC%8F_Paranoia%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="168" height="120" srcset="https://upload.thwiki.cc/thumb/0/06/History_of_DW_%EF%BC%8F_Paranoia%E5%B0%81%E9%9D%A2.png/252px-History_of_DW_%EF%BC%8F_Paranoia%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/0/06/History_of_DW_%EF%BC%8F_Paranoia%E5%B0%81%E9%9D%A2.png/336px-History_of_DW_%EF%BC%8F_Paranoia%E5%B0%81%E9%9D%A2.png 2x" data-file-width="858" data-file-height="612"></a><div class="cover-char">角色：<a href="./古明地恋.md" title="古明地恋">古明地恋</a></div></td>
@@ -18,14 +19,17 @@ History of DW ／ Paranoia（同人志，DiGiTAL WiNG，2023） - 2023年8月13�
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://digitalwing.booth.pm/items/4982560">Booth</a>，<a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=2026780">蜜瓜</a></td></tr></tbody></table>
 
 
+
 ## 预览
 - [](./文件-History_of_DW_／_Paranoia预览图1.jpg.md)- [](./文件-History_of_DW_／_Paranoia预览图2.jpg.md)- [](./文件-History_of_DW_／_Paranoia预览图3.jpg.md)- [](./文件-History_of_DW_／_Paranoia预览图4.jpg.md)
+
 
 ## Staff
 - [雨音くるみ](./雨音くるみ.md) （[涙雨](https://namidaame.mystrikingly.com/)）
 - [ののこ](./ののこ.md) （[コロコロうどん](./コロコロうどん.md)）
 - [みどり](./みどり.md) （[みどりねこ](./みどりねこ.md)）
 - ぽあろ (未找到链接) （[Twitter&#160;: @poaro_coffee](https://twitter.com/poaro_coffee)）
+
 
 ## 评论
 ```

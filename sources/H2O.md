@@ -4,7 +4,8 @@
 
 H2O ，主要制作 同人志 的日本同人社团，主催是 ハトリクミ，当前状态为 休止
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -20,6 +21,7 @@ H2O ，主要制作 同人志 的日本同人社团，主催是 ハトリクミ�
 
 
 
+
 ## 社团信息
 [](./文件-H2Obanner.jpg.md)  [](./文件-H2Obanner.jpg.md)Banner
 [](./文件-H2Obanner2.jpg.md)  [](./文件-H2Obanner2.jpg.md)Banner 2
@@ -27,12 +29,15 @@ H2O ，主要制作 同人志 的日本同人社团，主催是 ハトリクミ�
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> H2O </td></tr><tr><td><b>主要作品类型</b></td><td>同人志</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=%E3%83%8F%E3%83%88%E3%83%AA%E3%82%AF%E3%83%9F&amp;action=edit&amp;redlink=1" class="new" title="ハトリクミ（页面不存在）">ハトリクミ</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://circleh2o.web.fc2.com/">http://circleh2o.web.fc2.com/</a> <br><a rel="nofollow" class="external free" href="http://circleh2o.web.fc2.com/main.html">http://circleh2o.web.fc2.com/main.html</a><br><a rel="nofollow" class="external free" href="http://circleh2o.web.fc2.com/info/event.html">http://circleh2o.web.fc2.com/info/event.html</a><br><a rel="nofollow" class="external free" href="http://h2onet.blog.shinobi.jp/">http://h2onet.blog.shinobi.jp/</a></td></tr></tbody></table>
 
 H2O（同人社团，同人志社团） - H2O ，主要制作 同人志 的日本同人社团，主催是 ハトリクミ，当前状态为 休止
+
 ## 成员名单
 - ハトリクミ (未找到链接)
 
 Pixiv ID&#160;: 581695，Twitter&#160;: @hatorikumi（已经失效）
 
+
 ## 作品列表
+
 ### 同人志
 フラどきっ! 封面图片 (未找到链接)フラどきっ! (未找到链接)首发日期：未知 - 幻想Date 封面图片 (未找到链接)幻想Date (未找到链接)首发日期：未知 - 妹様のスウィーツ大戦争!! 封面图片 (未找到链接)妹様のスウィーツ大戦争!! (未找到链接)首发日期：未知 - [](./げんそうめっちゃホリディ.md)[げんそうめっちゃホリディ](./げんそうめっちゃホリディ.md)首发日期：2010-12-30 （Comic Market 79 (未找到链接)）漫画 （一般向）B5&#160;尺寸 28&#160;页[](./一緒に過ごした特別な時間.md)[一緒に過ごした特別な時間](./一緒に過ごした特別な時間.md)首发日期：2011-03-13 （第八回 博麗神社例大祭 (未找到链接)）漫画 （一般向）B5&#160;尺寸 52&#160;页メイドin紅魔館 封面图片 (未找到链接)メイドin紅魔館 (未找到链接)首发日期：未知 - 竹林純愛(笑）物語 封面图片 (未找到链接)竹林純愛(笑）物語 (未找到链接)首发日期：未知 - 魔法少女フラン☆マギカ 封面图片 (未找到链接)魔法少女フラン☆マギカ (未找到链接)首发日期：未知 - Happy Halloween!! 封面图片 (未找到链接)Happy Halloween!! (未找到链接)首发日期：未知 - Sweet memoria 封面图片 (未找到链接)Sweet memoria (未找到链接)首发日期：未知 - 救命紅魔館24時 封面图片 (未找到链接)救命紅魔館24時 (未找到链接)首发日期：未知 - 紅キ霧に潜ム悪魔の姉妹 封面图片 (未找到链接)紅キ霧に潜ム悪魔の姉妹 (未找到链接)首发日期：未知 - ふたりはなかよし？ 封面图片 (未找到链接)ふたりはなかよし？ (未找到链接)首发日期：未知 - 紅魔館メンバーによるイケメンの定義とは 封面图片 (未找到链接)紅魔館メンバーによるイケメンの定義とは (未找到链接)首发日期：未知 - My little sister 封面图片 (未找到链接)My little sister (未找到链接)首发日期：未知 - [](./shooting_star（H2O）.md)[shooting star](./shooting_star（H2O）.md)首发日期：2013-12-30 （Comic Market 85 (未找到链接)）漫画 （一般向）B5&#160;尺寸 44&#160;页サトリサトラレ 封面图片 (未找到链接)サトリサトラレ（H2O） (未找到链接)首发日期：未知 - [](./門番にっき.md)[門番にっき](./門番にっき.md)首发日期：2014-08-16 （Comic Market 86 (未找到链接)）漫画 （一般向）B5&#160;尺寸 36&#160;页[](./あまのじゃくシスターズ.md)[あまのじゃくシスターズ](./あまのじゃくシスターズ.md)首发日期：2014-12-29 （Comic Market 87 (未找到链接)）漫画 （一般向）B5&#160;尺寸 32&#160;页[](./夏色memories.md)[夏色memories](./夏色memories.md)首发日期：2015-08-14 （Comic Market 88 (未找到链接)）漫画 （一般向）B5&#160;尺寸 36&#160;页[](./笑顔の為の魔法術!.md)[笑顔の為の魔法術!](./笑顔の為の魔法術!.md)首发日期：2015-12-30 （Comic Market 89 (未找到链接)）漫画 （一般向）B5&#160;尺寸 36&#160;页[](./だって吸血鬼だもん.md)[だって吸血鬼だもん](./だって吸血鬼だもん.md)首发日期：2016-05-08 （第十三回 博麗神社例大祭 (未找到链接)）漫画 （一般向）B5&#160;尺寸 32&#160;页[](./Liquor_panic.md)[Liquor panic](./Liquor_panic.md)首发日期：2016-12-29 （Comic Market 91 (未找到链接)）漫画 （一般向）B5&#160;尺寸 28&#160;页[](./green_green.md)[green green](./green_green.md)首发日期：2017-08-11 （Comic Market 92 (未找到链接)）漫画 （一般向）B5&#160;尺寸 34&#160;页[](./美鈴のさがしもの.md)[美鈴のさがしもの](./美鈴のさがしもの.md)首发日期：2017-12-29 （Comic Market 93 (未找到链接)）漫画 （一般向）B5&#160;尺寸 36&#160;页
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -71,6 +76,7 @@ Pixiv ID&#160;: 581695，Twitter&#160;: @hatorikumi（已经失效）
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 参展信息

@@ -4,6 +4,7 @@
 
 BlackEditionFX | 社团LOGO
 
+
 ## 摘要
   
 源地址：[direct image link (original size)](https://blog-imgs-47-origin.fc2.com/g/m/o/gmot1illust/SANY00033.jpg), [source page](http://gmot1illust.blog65.fc2.com/blog-entry-10.html)

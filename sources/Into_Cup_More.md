@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Into_Cup_More封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/1/12/Into_Cup_More%E5%B0%81%E9%9D%A2.jpg/138px-Into_Cup_More%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="138" height="196" srcset="https://upload.thwiki.cc/thumb/1/12/Into_Cup_More%E5%B0%81%E9%9D%A2.jpg/207px-Into_Cup_More%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/1/12/Into_Cup_More%E5%B0%81%E9%9D%A2.jpg/277px-Into_Cup_More%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1446" data-file-height="2048"></a><div class="cover-char">角色：<a href="./摩多罗隐岐奈.md" title="摩多罗隐岐奈">摩多罗隐岐奈</a></div></td>
@@ -14,11 +15,13 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/Darilllllllll/status/1653390603894542337">https://twitter.com/Darilllllllll/status/1653390603894542337</a></td></tr></tbody></table>
 
 Into Cup More（同人志，梵蔵，2023） - 2023年5月7日 由 梵蔵 于 博丽神社例大祭20 发布的漫画同人志，B5尺寸一共11页，分级为 一般向
+
 ## Staff
 Illustration
 : ダリル (未找到链接)
 Writing
 : ダリル (未找到链接)
+
 
 ## 评论
 

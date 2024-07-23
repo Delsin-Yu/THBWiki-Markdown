@@ -4,7 +4,8 @@
 
 Dドライブ ，于 2022 年成立，主要制作 同人音乐 的日本同人社团，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -20,12 +21,14 @@ Dドライブ ，于 2022 年成立，主要制作 同人音乐 的日本同人�
 
 
 
+
 ## 社团信息
 [](./文件-Dドライブlogo.png.md)  [](./文件-Dドライブlogo.png.md)Logo
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Dドライブ </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2022-9</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="https://gennsougakusai.wixsite.com/mysite">https://gennsougakusai.wixsite.com/mysite</a> <br><a rel="nofollow" class="external free" href="https://twitter.com/gensougakuensai">https://twitter.com/gensougakuensai</a></td></tr></tbody></table>
 
 Dドライブ（同人社团，同人音乐社团） - Dドライブ ，于 2022 年成立，主要制作 同人音乐 的日本同人社团，当前状态为 活动
+
 ## 成员名单
 - Kagarin (未找到链接) (かがり)&#160;: Composer, Organizer, DJ, Cosplayer
 - sath (未找到链接) (さす)&#160;: Composer, Organizer, DJ
@@ -33,7 +36,9 @@ Dドライブ（同人社团，同人音乐社团） - Dドライブ ，于 2022
 - ​籠目サク (未找到链接)&#160;: Vocalist, Cosplayer
 - ぶらっど (未找到链接)&#160;: Software Engineer
 
+
 ## 作品列表
+
 ### 同人专辑
 [](./幻想楽宴祭-Cheers!-.md)[幻想楽宴祭 -Cheers!-](./幻想楽宴祭-Cheers!-.md)首发日期：2022-10-09 （東方紅楼夢18 (未找到链接)）DDRV-0001全长 （一般向）[](./TOHO_DEMHﾟARD～とーほーでんぱーど～.md)[TOHO DEMHﾟARD～とーほーでんぱーど～](./TOHO_DEMHﾟARD～とーほーでんぱーど～.md)首发日期：2022-12-31 （Comic Market 101 (未找到链接)）DDRV-0002合作 （一般向）[](./-10400000k.md)[-10400000k](./-10400000k.md)首发日期：2023-04-30 （M3-2023春 (未找到链接)）DDRP-0001EP （一般向）[](./TOHO_EUROCORE.md)[TOHO EUROCORE](./TOHO_EUROCORE.md)首发日期：2023-05-07 （第二十回 博麗神社例大祭 (未找到链接)）DDRV-0003全长 （一般向）[](./億り猫.md)[億り猫](./億り猫.md)首发日期：2023-06-25 （東方名華祭17 (未找到链接)）DDRP-0002单曲 （一般向）[](./TOHO_DEMHﾟARD_～とーほーでんぱーど_Vol.2～.md)[TOHO DEMHﾟARD ～とーほーでんぱーど Vol.2～](./TOHO_DEMHﾟARD_～とーほーでんぱーど_Vol.2～.md)首发日期：2023-08-13 （Comic Market 102 (未找到链接)）DDRV-0004全长 （一般向）[](./ストーカーの案内人に死ぬほど愛されて眠れないCD.md)[ストーカーの案内人に死ぬほど愛されて眠れないCD](./ストーカーの案内人に死ぬほど愛されて眠れないCD.md)首发日期：2023-10-15 （東方紅楼夢19 (未找到链接)）DDRP-0003EP （一般向）[](./TOHO_EUROCORE_Vol.2.md)[TOHO EUROCORE Vol.2](./TOHO_EUROCORE_Vol.2.md)首发日期：2023-11-12 （第十回 博麗神社秋季例大祭 (未找到链接)）DDRV-0005全长 （一般向）[](./TOHO_DEMHﾟARD_～とーほーでんぱーど_Vol.3～.md)[TOHO DEMHﾟARD ～とーほーでんぱーど Vol.3～](./TOHO_DEMHﾟARD_～とーほーでんぱーど_Vol.3～.md)首发日期：2023-12-31 （Comic Market 103 (未找到链接)）DDRV-0006全长 （一般向）[](./橙ミームGB＋使用例.md)[橙ミームGB＋使用例](./橙ミームGB＋使用例.md)首发日期：2024-03-31 （東方名華祭18 (未找到链接)）DDRP-0004EP （一般向）[](./響子ちゃんの門前読経テクノ_Remix_EP.md)[響子ちゃんの門前読経テクノ Remix EP](./響子ちゃんの門前読経テクノ_Remix_EP.md)首发日期：2024-04-28 （M3-2024春 (未找到链接)）DDRP-0005混音集 （一般向）[](./TOHO_EUROCORE_Vol.3.md)[TOHO EUROCORE Vol.3](./TOHO_EUROCORE_Vol.3.md)首发日期：2024-05-03 （第二十一回 博麗神社例大祭 (未找到链接)）全长 （一般向）
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -60,6 +65,7 @@ Dドライブ（同人社团，同人音乐社团） - Dドライブ ，于 2022
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 参展信息

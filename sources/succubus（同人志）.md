@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><div class="cover-char">角色：<a href="./小恶魔.md" title="小恶魔">小恶魔</a></div></td>
@@ -14,11 +15,13 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://green.ribbon.to/~fujimura/index2.html">http://green.ribbon.to/~fujimura/index2.html</a></td></tr></tbody></table>
 
 succubus（同人志，赤色バニラ，先手必勝 +，2007） - 2007年9月9日 由 赤色バニラ，先手必勝 + 于 红月之宴2 发布的合同志同人志，A5尺寸一共52页，登场人物有 小恶魔，分级为 R18
+
 ## Staff
 漫画
 : くま （[赤色バニラ](./赤色バニラ.md)）
 小说
 : 藤村流 （[先手必勝 +](http://www.geocities.jp/rongarta/index.html)）
+
 
 ## 评论
 

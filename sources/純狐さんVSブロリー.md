@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-純狐さんVSブロリー封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/1/18/%E7%B4%94%E7%8B%90%E3%81%95%E3%82%93VS%E3%83%96%E3%83%AD%E3%83%AA%E3%83%BC%E5%B0%81%E9%9D%A2.jpg/158px-%E7%B4%94%E7%8B%90%E3%81%95%E3%82%93VS%E3%83%96%E3%83%AD%E3%83%AA%E3%83%BC%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="158" height="224" srcset="https://upload.thwiki.cc/thumb/1/18/%E7%B4%94%E7%8B%90%E3%81%95%E3%82%93VS%E3%83%96%E3%83%AD%E3%83%AA%E3%83%BC%E5%B0%81%E9%9D%A2.jpg/238px-%E7%B4%94%E7%8B%90%E3%81%95%E3%82%93VS%E3%83%96%E3%83%AD%E3%83%AA%E3%83%BC%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/1/18/%E7%B4%94%E7%8B%90%E3%81%95%E3%82%93VS%E3%83%96%E3%83%AD%E3%83%AA%E3%83%BC%E5%B0%81%E9%9D%A2.jpg/317px-%E7%B4%94%E7%8B%90%E3%81%95%E3%82%93VS%E3%83%96%E3%83%AD%E3%83%AA%E3%83%BC%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="637" data-file-height="900"></a><div class="cover-char">角色：<a href="/index.php?title=%E5%B8%83%E7%BD%97%E5%88%A9&amp;action=edit&amp;redlink=1" class="new" title="布罗利（页面不存在）">布罗利</a>，<a href="./纯狐.md" title="纯狐">纯狐</a></div></td>
@@ -18,9 +19,12 @@
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=454577">蜜瓜</a>，<a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=464743">蜜瓜DL</a>，<a rel="nofollow" class="external text" href="https://ec.toranoana.jp/tora_r/ec/item/040030692186">虎穴</a>，<a rel="nofollow" class="external text" href="http://www.dlsite.com/home/work/=/product_id/RJ245160.html">DLsite</a></td></tr></tbody></table>
 
 
+
 ## 预览
+
 ## Staff
 - インド僧 (未找到链接)
+
 
 ## 评论
 

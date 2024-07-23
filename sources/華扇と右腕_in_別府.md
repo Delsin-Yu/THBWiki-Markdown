@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-華扇と右腕_in_別府封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/5/54/%E8%8F%AF%E6%89%87%E3%81%A8%E5%8F%B3%E8%85%95_in_%E5%88%A5%E5%BA%9C%E5%B0%81%E9%9D%A2.jpg/159px-%E8%8F%AF%E6%89%87%E3%81%A8%E5%8F%B3%E8%85%95_in_%E5%88%A5%E5%BA%9C%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="159" height="224" srcset="https://upload.thwiki.cc/thumb/5/54/%E8%8F%AF%E6%89%87%E3%81%A8%E5%8F%B3%E8%85%95_in_%E5%88%A5%E5%BA%9C%E5%B0%81%E9%9D%A2.jpg/238px-%E8%8F%AF%E6%89%87%E3%81%A8%E5%8F%B3%E8%85%95_in_%E5%88%A5%E5%BA%9C%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/5/54/%E8%8F%AF%E6%89%87%E3%81%A8%E5%8F%B3%E8%85%95_in_%E5%88%A5%E5%BA%9C%E5%B0%81%E9%9D%A2.jpg/317px-%E8%8F%AF%E6%89%87%E3%81%A8%E5%8F%B3%E8%85%95_in_%E5%88%A5%E5%BA%9C%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1417" data-file-height="2000"></a><div class="cover-char">角色：<a href="./茨木华扇.md" title="茨木华扇">茨木华扇</a></div></td>
@@ -17,9 +18,12 @@
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=649899">蜜瓜</a>，<a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=1108710">蜜瓜DL版</a>，<a rel="nofollow" class="external text" href="http://www.dlsite.com/home/work/=/product_id/RJ344759.html">DLsite</a></td></tr></tbody></table>
 
 
+
 ## 预览
+
 ## Staff
-- 東國 (未找到链接)
+- [東國](./東國.md)
+
 
 ## 评论
 

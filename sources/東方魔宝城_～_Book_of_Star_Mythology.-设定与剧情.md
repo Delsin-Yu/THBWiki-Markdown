@@ -4,11 +4,13 @@
 
 Mace's_Secret_Base | 東方邪星章製作チーム
 
+
 ## 附带文档
 - 游戏内manual (未找到链接)
 - [素材相关](./東方魔宝城_～_Book_of_Star_Mythology.-设定与剧情-素材相关.md)
 - [readme](./東方魔宝城_～_Book_of_Star_Mythology.-设定与剧情-readme.md)
 - [角色设定文档](./東方魔宝城_～_Book_of_Star_Mythology.-设定与剧情-设定文档.md)
+
 
 ## 故事背景
 - [故事背景](./東方魔宝城_～_Book_of_Star_Mythology.-设定与剧情-故事背景.md)
@@ -16,6 +18,7 @@ Mace's_Secret_Base | 東方邪星章製作チーム
   
 EX故事背景写在[角色设定文档](./東方魔宝城_～_Book_of_Star_Mythology.-设定与剧情-设定文档.md)中。
   
+
 
 ## 游戏对话
 - [博丽灵梦 游戏对话/结局](./東方魔宝城_～_Book_of_Star_Mythology.-设定与剧情-博丽灵梦.md)

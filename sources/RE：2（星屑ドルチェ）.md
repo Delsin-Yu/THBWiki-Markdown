@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-RE：2（星屑ドルチェ）封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/f/ff/RE%EF%BC%9A2%EF%BC%88%E6%98%9F%E5%B1%91%E3%83%89%E3%83%AB%E3%83%81%E3%82%A7%EF%BC%89%E5%B0%81%E9%9D%A2.png/158px-RE%EF%BC%9A2%EF%BC%88%E6%98%9F%E5%B1%91%E3%83%89%E3%83%AB%E3%83%81%E3%82%A7%EF%BC%89%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="158" height="224" srcset="https://upload.thwiki.cc/thumb/f/ff/RE%EF%BC%9A2%EF%BC%88%E6%98%9F%E5%B1%91%E3%83%89%E3%83%AB%E3%83%81%E3%82%A7%EF%BC%89%E5%B0%81%E9%9D%A2.png/238px-RE%EF%BC%9A2%EF%BC%88%E6%98%9F%E5%B1%91%E3%83%89%E3%83%AB%E3%83%81%E3%82%A7%EF%BC%89%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/f/ff/RE%EF%BC%9A2%EF%BC%88%E6%98%9F%E5%B1%91%E3%83%89%E3%83%AB%E3%83%81%E3%82%A7%EF%BC%89%E5%B0%81%E9%9D%A2.png/317px-RE%EF%BC%9A2%EF%BC%88%E6%98%9F%E5%B1%91%E3%83%89%E3%83%AB%E3%83%81%E3%82%A7%EF%BC%89%E5%B0%81%E9%9D%A2.png 2x" data-file-width="800" data-file-height="1130"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>，<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a>，<a href="./八云紫.md" title="八云紫">八云紫</a></div></td>
@@ -14,11 +15,14 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/43389376">https://www.pixiv.net/artworks/43389376</a></td></tr></tbody></table>
 
 RE：2（同人志，星屑ドルチェ，2014） - 2014年5月11日 由 星屑ドルチェ 于 博丽神社例大祭11 发布的漫画同人志，B5尺寸一共44页，登场人物有 博丽灵梦、雾雨魔理沙、八云紫、稗田阿求、爱丽丝·玛格特洛依德、丰聪耳神子，分级为 一般向
+
 ## 预览
 - [](./文件-RE：2（星屑ドルチェ）预览图1.jpg.md)- [](./文件-RE：2（星屑ドルチェ）预览图2.jpg.md)- [](./文件-RE：2（星屑ドルチェ）预览图3.jpg.md)- [](./文件-RE：2（星屑ドルチェ）预览图4.jpg.md)- [](./文件-RE：2（星屑ドルチェ）预览图5.jpg.md)- [](./文件-RE：2（星屑ドルチェ）预览图6.jpg.md)- [](./文件-RE：2（星屑ドルチェ）预览图7.jpg.md)
 
+
 ## Staff
 - かやこ (未找到链接)
+
 
 ## 评论
 

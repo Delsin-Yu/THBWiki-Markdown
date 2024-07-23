@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-东方像素传OST封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/f/f5/%E4%B8%9C%E6%96%B9%E5%83%8F%E7%B4%A0%E4%BC%A0OST%E5%B0%81%E9%9D%A2.jpg/224px-%E4%B8%9C%E6%96%B9%E5%83%8F%E7%B4%A0%E4%BC%A0OST%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="224" srcset="https://upload.thwiki.cc/thumb/f/f5/%E4%B8%9C%E6%96%B9%E5%83%8F%E7%B4%A0%E4%BC%A0OST%E5%B0%81%E9%9D%A2.jpg/336px-%E4%B8%9C%E6%96%B9%E5%83%8F%E7%B4%A0%E4%BC%A0OST%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/f/f5/%E4%B8%9C%E6%96%B9%E5%83%8F%E7%B4%A0%E4%BC%A0OST%E5%B0%81%E9%9D%A2.jpg/448px-%E4%B8%9C%E6%96%B9%E5%83%8F%E7%B4%A0%E4%BC%A0OST%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1000" data-file-height="1000"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></div></td>
@@ -17,11 +18,13 @@
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.dizzylab.net/d/THC1">dizzylab</a></td></tr></tbody></table>
 
 
+
 ## Staff
   
  **Compose**   
 
 <table><tbody><tr><td><a href="./FangChen.md" title="FangChen">FangChen</a></td><td></td><td>Tr.1-3</td></tr></tbody></table>
+
 
 
 ## 试听
@@ -30,11 +33,13 @@
 
   
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYL"><b>01</b></td><td id="Neuverden" colspan="2" class="title">Neuverden<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Funchen&amp;fromwiki=东方像素传OST"><span title="搜索相似同人曲"></span></a></span></td><td class="time">02:14</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/Funchen" class="mw-redirect" title="Funchen">Funchen</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Funchen&amp;fromwiki=东方像素传OST"><span></span></a></span></td></tr>
-<tr><td id="2" class="infoYL"><b>02</b></td><td id="最後の決戦" colspan="2" class="title">最後の決戦<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Funchen&amp;fromwiki=东方像素传OST"><span title="搜索相似同人曲"></span></a></span></td><td class="time">05:01</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/Funchen" class="mw-redirect" title="Funchen">Funchen</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Funchen&amp;fromwiki=东方像素传OST"><span></span></a></span></td></tr>
-<tr><td id="3" class="infoYL"><b>03</b></td><td id="赤月終焉·暫末時" colspan="2" class="title">赤月終焉·暫末時<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Funchen&amp;fromwiki=东方像素传OST"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:03</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/Funchen" class="mw-redirect" title="Funchen">Funchen</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Funchen&amp;fromwiki=东方像素传OST"><span></span></a></span></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoYL"><b>01</b></td><td id="Neuverden" colspan="2" class="title">Neuverden<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Funchen&amp;fromwiki=东方像素传OST"><span title="搜索相似同人曲"></span></a></span></td><td class="time">02:14</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./Funchen.md" class="mw-redirect" title="Funchen">Funchen</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Funchen&amp;fromwiki=东方像素传OST"><span></span></a></span></td></tr>
+<tr><td id="2" class="infoYL"><b>02</b></td><td id="最後の決戦" colspan="2" class="title">最後の決戦<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Funchen&amp;fromwiki=东方像素传OST"><span title="搜索相似同人曲"></span></a></span></td><td class="time">05:01</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./Funchen.md" class="mw-redirect" title="Funchen">Funchen</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Funchen&amp;fromwiki=东方像素传OST"><span></span></a></span></td></tr>
+<tr><td id="3" class="infoYL"><b>03</b></td><td id="赤月終焉·暫末時" colspan="2" class="title">赤月終焉·暫末時<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Funchen&amp;fromwiki=东方像素传OST"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:03</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./Funchen.md" class="mw-redirect" title="Funchen">Funchen</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Funchen&amp;fromwiki=东方像素传OST"><span></span></a></span></td></tr></tbody></table>
+
 
 
 ## 评论

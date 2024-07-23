@@ -23,6 +23,7 @@
 </center>
 - 本词条内容为官方游戏TH18.5 **弹幕狂们的黑市** 的敌机符卡
 
+
 ## 目录
 
 - [1 天弓千亦](#天弓千亦)
@@ -47,7 +48,9 @@
 
 
 
+
 ## 天弓千亦
+
 ### 「正规的弹幕市场」
 
 <table>
@@ -61,9 +64,10 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="/%E3%80%8C%E6%AD%A3%E8%A7%84%E7%9A%84%E5%BC%B9%E5%B9%95%E5%B8%82%E5%9C%BA%E3%80%8D" class="mw-redirect" title="「正规的弹幕市场」">「正规的弹幕市场」</a>
+<p><a href="./「正规的弹幕市场」.md" class="mw-redirect" title="「正规的弹幕市场」">「正规的弹幕市场」</a>
 </p>
 </th></tr></tbody></table>
+
 
 
 #### 符卡信息
@@ -85,6 +89,7 @@
 
   
 
+
 ### 「黑市的密歇根卷」
 
 <table>
@@ -98,9 +103,10 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="/%E3%80%8C%E9%BB%91%E5%B8%82%E7%9A%84%E5%AF%86%E6%AD%87%E6%A0%B9%E5%8D%B7%E3%80%8D" class="mw-redirect" title="「黑市的密歇根卷」">「黑市的密歇根卷」</a>
+<p><a href="./「黑市的密歇根卷」.md" class="mw-redirect" title="「黑市的密歇根卷」">「黑市的密歇根卷」</a>
 </p>
 </th></tr></tbody></table>
+
 
 
 #### 符卡信息
@@ -121,6 +127,7 @@
   
 
   
+
 
 ## 导航
   

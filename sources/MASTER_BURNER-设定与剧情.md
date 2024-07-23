@@ -4,6 +4,7 @@
 
 D.N.A.Softwares
 
+
 ## 玩法
   
 游戏视角为第三人称的2.5D游戏，该游戏很好地模仿了SEGA的 After Burner.  

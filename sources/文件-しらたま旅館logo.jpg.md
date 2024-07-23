@@ -4,6 +4,7 @@
 
 しらたま旅館 | 社团LOGO
 
+
 ## 文件说明
   
 源地址：[youtube channel logo](https://yt3.ggpht.com/a/AATXAJwwgoxBgcihS1Hnn32UucEYRMgM0rVpWyLgCoHECQ=s176-c-k-c0x00ffffff-no-rj)

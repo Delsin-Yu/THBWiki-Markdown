@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -34,11 +35,13 @@
 
 
 
+
 ## 基本信息
 
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">ポイズンボディ　～ Forsaken Doll</td></tr><tr><td><b>译名</b></td><td>剧毒身体 ～ Forsaken Doll</td></tr><tr><td><b>英文译名</b></td><td>Poison Body ~ Forsaken Doll</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 剧毒身体 ～ Forsaken Doll（曲目） - 由 ZUN 创作的官方曲目，原名 ポイズンボディ　～ Forsaken Doll
+
 ## 出现作品
 
 <table>
@@ -46,7 +49,9 @@
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 东方花映塚
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th09_12.mp3.md" title="文件:th09 12.mp3">th09_12.mp3</a><br><audio src="https://upload.thwiki.cc/9/92/th09_12.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>BGM\th09_12.wav</td></tr><tr><td><b>BGMForAll</b></td><td><div class="mw-collapsible mw-collapsed">
@@ -57,7 +62,9 @@
 </td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 东方花映塚
 - Music Room (未找到链接)
 
@@ -68,8 +75,11 @@
 　喷涌出令人怀念的街机游戏的香气。  
 　曲子开头的钟声，总觉得酝酿出让头脑变得奇怪的不安定之音。  
 　这里很毒。
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
   
  **ポイズンボディ　～ Forsaken Doll**  剧毒身体　～ Forsaken Doll
@@ -88,6 +98,7 @@
 - Forsaken Doll
   - 被抛弃的人偶。
     - 梅蒂欣原来就是被抛弃在无名之丘的人偶。
+
 
 
 

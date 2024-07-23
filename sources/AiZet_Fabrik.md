@@ -4,7 +4,8 @@
 
 AiZet Fabrik （アイゼットファブリーク） ，于 2009 年成立，主要制作 同人音乐 的日本同人社团，主催是 凪良維乃，当前状态为 休止
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -20,15 +21,19 @@ AiZet Fabrik （アイゼットファブリーク） ，于 2009 年成立，主
 
 
 
+
 ## 社团信息
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> AiZet Fabrik （アイゼットファブリーク） </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2009-02-09</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=%E5%87%AA%E8%89%AF%E7%B6%AD%E4%B9%83&amp;action=edit&amp;redlink=1" class="new" title="凪良維乃（页面不存在）">凪良維乃</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://azfabrik.uunyan.com/">http://azfabrik.uunyan.com/</a> </td></tr></tbody></table>
 
 AiZet Fabrik（同人社团，同人音乐社团） - AiZet Fabrik （アイゼットファブリーク） ，于 2009 年成立，主要制作 同人音乐 的日本同人社团，主催是 凪良維乃，当前状态为 休止
+
 ## 成员名单
 - 凪良維乃 (未找到链接) (a.k.a. Ino Nagira)&#160;: Arrangement
 
+
 ## 作品列表
+
 ### 同人专辑
 [](./ROT.md)[ROT](./ROT.md)首发日期：2009-03-08 （第六回 博麗神社例大祭 (未找到链接)）EP （一般向）[ごじゆうにおとりください。](./ごじゆうにおとりください。.md)首发日期：2009-03-21 （東方不敗小町5 (未找到链接)）EP （一般向）[](./アイゼットファブリークのこりぢる.md)[アイゼットファブリークのこりぢる](./アイゼットファブリークのこりぢる.md)首发日期：2009-10-11 （東方紅楼夢5 (未找到链接)）EP （一般向）
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -37,6 +42,7 @@ AiZet Fabrik（同人社团，同人音乐社团） - AiZet Fabrik （アイゼ�
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 参展信息

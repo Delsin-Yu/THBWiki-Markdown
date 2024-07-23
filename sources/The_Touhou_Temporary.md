@@ -18,6 +18,7 @@
 
 
 </center>
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=The_Touhou_Temporary%E5%B0%81%E9%9D%A2.jpg" class="new" title="文件:The Touhou Temporary封面.jpg">封面图片</a></td>
@@ -26,15 +27,18 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://system-cafe.net/cgi-bin/blog/">http://system-cafe.net/cgi-bin/blog/</a><br><span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span></td></tr></tbody></table>
 
 The Touhou Temporary（同人专辑，System Cafe，2011） - 2011年10月16日 由 System Cafe 于 东方红楼梦7 发布的EP同人专辑，分级为 一般向
+
 ## Staff
 Design
 : 设计师 （[网址 社团]）
 Illustration
 : 画师 （[网址 社团]）
 
+
 ## 曲目列表
 
 <table></table>
+
 
 
 ## 评论

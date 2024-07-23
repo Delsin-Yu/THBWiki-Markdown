@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Cheers!!封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/1/14/Cheers%21%21%E5%B0%81%E9%9D%A2.jpg/159px-Cheers%21%21%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="159" height="224" srcset="https://upload.thwiki.cc/thumb/1/14/Cheers%21%21%E5%B0%81%E9%9D%A2.jpg/238px-Cheers%21%21%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/1/14/Cheers%21%21%E5%B0%81%E9%9D%A2.jpg/317px-Cheers%21%21%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="850" data-file-height="1200"></a><div class="cover-char">角色：<a href="./丁礼田舞.md" title="丁礼田舞">丁礼田舞</a>，<a href="./尔子田里乃.md" title="尔子田里乃">尔子田里乃</a></div></td>
@@ -16,6 +17,7 @@
 Cheers!!（同人志，Vampire＊Berry，2018） - 2018年5月6日 由 Vampire＊Berry 于 博丽神社例大祭15 发布的合同志/漫画同人志，A5尺寸一共40页，登场人物有 丁礼田舞、尔子田里乃，分级为 一般向
 
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=357957">蜜瓜</a></td></tr></tbody></table>
+
 
 
 ## Staff
@@ -30,6 +32,7 @@ Art
 : 狂四郎 (未找到链接)
 : Colloid (未找到链接)
 : ニジデン (未找到链接)
+
 
 ## 评论
 

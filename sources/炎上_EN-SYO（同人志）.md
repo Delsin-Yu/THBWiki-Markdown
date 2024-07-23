@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-炎上_EN-SYO（同人志）封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/7/7b/%E7%82%8E%E4%B8%8A_EN-SYO%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2.png/177px-%E7%82%8E%E4%B8%8A_EN-SYO%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="177" height="252" srcset="https://upload.thwiki.cc/thumb/7/7b/%E7%82%8E%E4%B8%8A_EN-SYO%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2.png/266px-%E7%82%8E%E4%B8%8A_EN-SYO%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/7/7b/%E7%82%8E%E4%B8%8A_EN-SYO%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2.png/355px-%E7%82%8E%E4%B8%8A_EN-SYO%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2.png 2x" data-file-width="635" data-file-height="902"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>，<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a>，<a href="./本居小铃.md" title="本居小铃">本居小铃</a></div></td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://4mcj0001.tumblr.com/">http://4mcj0001.tumblr.com/</a></td></tr></tbody></table>
 
 炎上 EN-SYO（同人志，梶迫小道具店，四面楚歌，2015） - 2015年5月10日 由 梶迫小道具店，四面楚歌 于 博丽神社例大祭12 发布的小说同人志，A5尺寸一共124页，登场人物有 博丽灵梦、雾雨魔理沙，分级为 一般向
+
 ## Staff
 执笔
 : 人比良 （[四面楚歌](./四面楚歌.md)）
@@ -23,6 +25,7 @@
 : 篠原九 （[第九分岐点](http://shino9.com/)）
 印刷・制造
 : anoStudio / まんだら舎
+
 
 ## 评论
 

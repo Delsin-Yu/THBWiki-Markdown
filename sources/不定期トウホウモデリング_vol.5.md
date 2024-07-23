@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-不定期トウホウモデリング_vol.5封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/a/ab/%E4%B8%8D%E5%AE%9A%E6%9C%9F%E3%83%88%E3%82%A6%E3%83%9B%E3%82%A6%E3%83%A2%E3%83%87%E3%83%AA%E3%83%B3%E3%82%B0_vol.5%E5%B0%81%E9%9D%A2.jpg/120px-%E4%B8%8D%E5%AE%9A%E6%9C%9F%E3%83%88%E3%82%A6%E3%83%9B%E3%82%A6%E3%83%A2%E3%83%87%E3%83%AA%E3%83%B3%E3%82%B0_vol.5%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="120" height="168" srcset="https://upload.thwiki.cc/thumb/a/ab/%E4%B8%8D%E5%AE%9A%E6%9C%9F%E3%83%88%E3%82%A6%E3%83%9B%E3%82%A6%E3%83%A2%E3%83%87%E3%83%AA%E3%83%B3%E3%82%B0_vol.5%E5%B0%81%E9%9D%A2.jpg/180px-%E4%B8%8D%E5%AE%9A%E6%9C%9F%E3%83%88%E3%82%A6%E3%83%9B%E3%82%A6%E3%83%A2%E3%83%87%E3%83%AA%E3%83%B3%E3%82%B0_vol.5%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/a/ab/%E4%B8%8D%E5%AE%9A%E6%9C%9F%E3%83%88%E3%82%A6%E3%83%9B%E3%82%A6%E3%83%A2%E3%83%87%E3%83%AA%E3%83%B3%E3%82%B0_vol.5%E5%B0%81%E9%9D%A2.jpg/240px-%E4%B8%8D%E5%AE%9A%E6%9C%9F%E3%83%88%E3%82%A6%E3%83%9B%E3%82%A6%E3%83%A2%E3%83%87%E3%83%AA%E3%83%B3%E3%82%B0_vol.5%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="858" data-file-height="1200"></a></td>
@@ -13,9 +14,12 @@
 </tr><tr><td class="label">首发日期</td><td>2018-05-06&#160;（<a href="/展会作品列表?e=%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD%2315">第十五回 博麗神社例大祭</a>）</td></tr><tr><td class="label">类型</td><td>小说</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">页数</td><td>14P</td></tr><tr><td class="label">售价</td><td>会场售价：200日元</td></tr></tbody></table>
 
 不定期トウホウモデリング vol.5（同人志，カルトッフェル，2018） - 2018年5月6日 由 カルトッフェル 于 博丽神社例大祭15 发布的小说同人志，一共14页，分级为 一般向
+
 ## 预览
+
 ## Staff
 - [alabas](./alabas.md)
+
 
 ## 评论
 

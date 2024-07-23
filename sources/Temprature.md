@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Temprature封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/2/2b/Temprature%E5%B0%81%E9%9D%A2.jpg/139px-Temprature%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="139" height="196" srcset="https://upload.thwiki.cc/2/2b/Temprature%E5%B0%81%E9%9D%A2.jpg 1.5x" data-file-width="200" data-file-height="281"></a><div class="cover-char">角色：<a href="./橙.md" title="橙">橙</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/21118884">https://www.pixiv.net/artworks/21118884</a></td></tr></tbody></table>
 
 Temprature（同人志，色色＊ドロップ，2011） - 2011年8月28日 由 色色＊ドロップ 于 东方绚文禄尾张3.5 发布的漫画同人志，一共18页，登场人物有 橙、八云蓝，分级为 一般向
+
 ## Staff
 - 白露 (未找到链接)
+
 
 ## 评论
 

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-La_Vie_en_Blood封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/2/28/La_Vie_en_Blood%E5%B0%81%E9%9D%A2.jpg/224px-La_Vie_en_Blood%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="224" srcset="https://upload.thwiki.cc/thumb/2/28/La_Vie_en_Blood%E5%B0%81%E9%9D%A2.jpg/336px-La_Vie_en_Blood%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/2/28/La_Vie_en_Blood%E5%B0%81%E9%9D%A2.jpg/448px-La_Vie_en_Blood%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="500" data-file-height="500"></a></td>
@@ -13,11 +14,13 @@
 </tr><tr><td class="label">首发日期</td><td>2015-11-08&#160;（<a href="/展会作品列表?e=%E5%A4%A7%E2%91%A8%E5%B7%9E%E4%B8%9C%E6%96%B9%E7%A5%AD%2313">大⑨州東方祭13</a>）</td></tr><tr><td class="label">类型</td><td>全长</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>0</td></tr><tr><td class="label">总时长</td><td>00:00</td></tr><tr><td class="label">风格类型</td><td>金属</td></tr></tbody></table>
 
 La Vie en Blood（同人专辑，EXCESS STANDARD，2015） - 2015年11月8日 由 EXCESS STANDARD 于 大⑨州东方祭13 发布的全长同人专辑，曲目主要风格是 金属，分级为 一般向
+
 ## Staff
 Design
 : 设计师 （[网址 社团]）
 Illustration
 : 画师 （[网址 社团]）
+
 
 ## 试听
   
@@ -25,9 +28,11 @@ Illustration
 
   
 
+
 ## 曲目列表
 
 <table></table>
+
 
 
 ## 评论

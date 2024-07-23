@@ -6,6 +6,7 @@ Falling_Ghost | JynX作曲 | 引用了翻译表的页面 | 连缘Project | 连�
 
 本页是关于 **向[东方Project](./东方Project.md)  
 致敬、形式类似的作品** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -26,6 +27,7 @@ Falling_Ghost | JynX作曲 | 引用了翻译表的页面 | 连缘Project | 连�
 
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
+
 
 
 
@@ -57,6 +59,7 @@ Falling_Ghost | JynX作曲 | 引用了翻译表的页面 | 连缘Project | 连�
 </td></tr></tbody></table>
 
 
+
 ## 出现作品
 
 <table>
@@ -65,7 +68,9 @@ Falling_Ghost | JynX作曲 | 引用了翻译表的页面 | 连缘Project | 连�
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 连缘灵烈传
 
 <table>
@@ -85,7 +90,9 @@ Falling_Ghost | JynX作曲 | 引用了翻译表的页面 | 连缘Project | 连�
 </td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 连缘灵烈传
 - Music Room (未找到链接)
 
@@ -96,8 +103,11 @@ Falling_Ghost | JynX作曲 | 引用了翻译表的页面 | 连缘Project | 连�
   
 我得了『总想试试平时不怎么使的乐器的病』。  
 曲子里都是平时基本不会用的音源。
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
 
 

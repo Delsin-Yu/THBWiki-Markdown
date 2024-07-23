@@ -6,7 +6,8 @@
 
 本页是关于  
 含有[东方Project](./东方Project.md)相关内容的  
-商业游戏 (未找到链接)作品的词条GROOVE COASTER（商业游戏） - 
+[商业游戏](./东方相关商业游戏.md)作品的词条GROOVE COASTER（商业游戏） - 
+
 ## 目录
 
 - [1 介绍](#介绍)
@@ -38,6 +39,7 @@
 
 
 
+
 ## 介绍
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-GROOVE_COASTER封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/0/06/GROOVE_COASTER%E5%B0%81%E9%9D%A2.png/168px-GROOVE_COASTER%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="168" height="66" srcset="https://upload.thwiki.cc/thumb/0/06/GROOVE_COASTER%E5%B0%81%E9%9D%A2.png/252px-GROOVE_COASTER%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/0/06/GROOVE_COASTER%E5%B0%81%E9%9D%A2.png 2x" data-file-width="280" data-file-height="110"></a></td>
 </tr><tr><td class="label">名称</td><td colspan="2"> GROOVE COASTER </td></tr><tr><td class="label">制作方</td><td><a href="./太东.md" title="太东">太东</a></td><td class="cover-artwork" rowspan="6" style="min-width:168px;"><a href="./文件-GROOVE_COASTER封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/0/06/GROOVE_COASTER%E5%B0%81%E9%9D%A2.png/168px-GROOVE_COASTER%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="168" height="66" srcset="https://upload.thwiki.cc/thumb/0/06/GROOVE_COASTER%E5%B0%81%E9%9D%A2.png/252px-GROOVE_COASTER%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/0/06/GROOVE_COASTER%E5%B0%81%E9%9D%A2.png 2x" data-file-width="280" data-file-height="110"></a></td>
@@ -45,6 +47,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://groovecoaster.jp/">http://groovecoaster.jp/</a></td></tr></tbody></table>
 
 GROOVE COASTER（同人游戏，太东，同人专辑，2011） - 2011年7月28日 由 太东  发布的MUG同人游戏，可在 其他 系统上运行，分级为 一般向
+
 ### 概述
 
 <table>
@@ -121,7 +124,7 @@ GROOVE COASTER（同人游戏，太东，同人专辑，2011） - 2011年7月28�
 
 
   
-<big> **音炫轨道** </big>（GROOVE COASTER，グルーヴコースター）[^cite_note-1]，街机版海外名 **RHYTHMVADERS** 、玩家惯用称谓 **节奏过山车** ，是TAITO (未找到链接)制作的音乐游戏系列，在街机和移动端平台上都有对应作品。由于与SPACE INVADERS INFINITY GENE的诸多关联，这个系列有时会被看作太空侵略者系列的一部分。[^cite_note-2]
+<big> **音炫轨道** </big>（GROOVE COASTER，グルーヴコースター）[^cite_note-1]，街机版海外名 **RHYTHMVADERS** 、玩家惯用称谓 **节奏过山车** ，是[TAITO](./TAITO.md)制作的音乐游戏系列，在街机和移动端平台上都有对应作品。由于与SPACE INVADERS INFINITY GENE的诸多关联，这个系列有时会被看作太空侵略者系列的一部分。[^cite_note-2]
   
   
 该游戏最早作为收费应用发布在iOS平台的AppStore上，后经大量内容翻新移植到街机平台，并在2018年太空侵略者系列四十周年之际宣布了移植Steam平台的计划。此后三个平台的游戏都保持着运营状态，内容和设计风格都有一定差异。  
@@ -135,9 +138,10 @@ GROOVE COASTER（同人游戏，太东，同人专辑，2011） - 2011年7月28�
   
   
 该系列的移动端版本的设计师和制作人为石田礼辅，街机版的主制作人则为Sira-P。两种版本最初的音效指导均为[COSIO](./COSIO.md)。  
-从街机第三代（LINK FEVER）开始，由于[COSIO](./COSIO.md)离开TAITO (未找到链接)，音效指导一职由[MASAKI](./MASAKI.md)接替。  
+从街机第三代（LINK FEVER）开始，由于[COSIO](./COSIO.md)离开[TAITO](./TAITO.md)，音效指导一职由[MASAKI](./MASAKI.md)接替。  
 从街机第四代（STARLIGHT ROAD）开始，sira-p不再担任该系列的制作人工作，主制作人一职由DJ 87GT接任。
   
+
 
 
 ### 版本信息
@@ -273,6 +277,7 @@ GROOVE COASTER（同人游戏，太东，同人专辑，2011） - 2011年7月28�
 </td></tr></tbody></table>
 
 
+
 ### 玩法简介
   
 指示位置的AVATAR在类似过山车的轨道上移动，与代表note的图标重合时做出对应的操作。
@@ -302,6 +307,7 @@ AC谱面中，CHAIN达到100之后，会进入TRANCE状态，之后的所有CHAI
 -  **特殊道具** ：  
 使得游戏体验变得更简单或更难，或者不改变难度，只是单纯增加游戏中的虚拟货币收益的道具。  
 街机端和移动端的道具列表有所不同。
+
 
 #### 操作列表
   
@@ -449,6 +455,7 @@ PC端的操作与街机基本相同，只是用键盘按键/手柄两侧的按�
 </td></tr></tbody></table>
 
 
+
 #### 分数与评价
 -  **AC谱面** 的理论值固定为1,000,000。  
 其中850,000分来自玩家的击打精度（判定），100,000分来自CHAIN数，剩下50,000分成功通过谱面时获得。
@@ -471,6 +478,7 @@ PC端的操作与街机基本相同，只是用键盘按键/手柄两侧的按�
 同时，如果玩家在铺面中没有MISS，会得到一个额外的NO MISS评价。如果成功的击打到了包括AD-LIB在内的所有NOTE，则会获得FULL CHAIN评价。后者会覆盖前者。  
 在街机，如果玩家成功以最高判定等级击打到了包括AD-LIB在内的每一个NOTE（即取得了谱面的理论分数），会获得PERFECT评价。
 
+
 #### 个性化要素
 -  **Avatar** ：  
 用来指示玩家在铺面中的位置的图标。  
@@ -486,23 +494,25 @@ AD-LIB没有KEY音，取而代之的是击打时会发出效果音。街机端�
 
 -  **Navigator** ：  
 于第三代（LINK FEVER）加入的新要素，从第3.5代（DREAM PARTY）开始可以个性化。在游戏界面中出现，并根据不同的操作发出不同语音的虚拟角色。通常作为活动奖励或游戏内虚拟货币购买内容配发。  
-目前GROOVE COASTER中的东方角色NAVIGATOR有：[博丽灵梦](./博丽灵梦.md)、[雾雨魔理沙](./雾雨魔理沙.md)、十六夜咲夜 (未找到链接)、[魂魄妖梦](./魂魄妖梦.md)、[琪露诺](./琪露诺.md)、[东风谷早苗](./东风谷早苗.md)、[少名针妙丸](./少名针妙丸.md)、[多多良小伞](./多多良小伞.md)、[橙](./橙.md)、芙兰朵露·斯卡雷特 (未找到链接)。
+目前GROOVE COASTER中的东方角色NAVIGATOR有：[博丽灵梦](./博丽灵梦.md)、[雾雨魔理沙](./雾雨魔理沙.md)、十六夜咲夜 (未找到链接)、[魂魄妖梦](./魂魄妖梦.md)、[琪露诺](./琪露诺.md)、[东风谷早苗](./东风谷早苗.md)、[少名针妙丸](./少名针妙丸.md)、[多多良小伞](./多多良小伞.md)、[橙](./橙.md)、[芙兰朵露·斯卡雷特](./芙兰朵露·斯卡雷特.md)。
+
 
 ## 与东方Project的关联
 - 收录了相当多的东方二次同人音乐，并与众多东方同人音乐的创作者（如[豚乙女](./豚乙女.md)、[IOSYS](./IOSYS.md)等）一直保持着合作关系。
 
-- 开展过数个东方二次创作专辑的企划。开发商TAITO (未找到链接)的音乐开发部门ZUNTATA的成员也参与了编曲。
+- 开展过数个东方二次创作专辑的企划。开发商[TAITO](./TAITO.md)的音乐开发部门ZUNTATA的成员也参与了编曲。
 
 - ZUN曾受TAITO本社邀请，亲自游玩过GROOVE COASTER的街机。[^cite_note-6]
 
   
   
 
-包含SEGA (未找到链接)、[KONAMI](./KONAMI.md)、TAITO (未找到链接)、BANDAI (未找到链接) NAMCO (未找到链接)在内的多家公司制作的音乐游戏大多有收录东方Project的同人编曲。由于其存在商业成分，对于东方Project编曲的版权使用问题，原作者ZUN是如此答复[^cite_note-7]的：
+包含SEGA (未找到链接)、[KONAMI](./KONAMI.md)、[TAITO](./TAITO.md)、BANDAI (未找到链接) NAMCO (未找到链接)在内的多家公司制作的音乐游戏大多有收录东方Project的同人编曲。由于其存在商业成分，对于东方Project编曲的版权使用问题，原作者ZUN是如此答复[^cite_note-7]的：
   
 
 ```
 「这是我许可的。条件是首先要取得编曲者的许可。这种形式虽说是商业但也和其他同人一样，我并不会特意指示内容。我个人认为，编曲者能够大显身手的机会增多是个值得欣喜的事情（游戏厅能够因此热闹起来就更好了）」```
+
 
 ## 相关东方同人专辑
 [](./東方響宴夢.md)[東方響宴夢](./東方響宴夢.md)首发日期：2016-05-08 （第十三回 博麗神社例大祭 (未找到链接)）GCAC-0005合作 （一般向）该作品是与 [太东](./太东.md) 合作创作的[](./東方参面録.md)[東方参面録](./東方参面録.md)首发日期：2016-10-16 （第三回 博麗神社秋季例大祭 (未找到链接)）GCAC-0006全长 （一般向）该作品是与 [太东](./太东.md) 合作创作的[](./東方六楽抄.md)[東方六楽抄](./東方六楽抄.md)首发日期：2017-05-07 （第十四回 博麗神社例大祭 (未找到链接)）GCAC-0007全长 （一般向）该作品是与 [太东](./太东.md) 合作创作的[](./東方弐集想.md)[東方弐集想](./東方弐集想.md)首发日期：2018-05-06 （第十五回 博麗神社例大祭 (未找到链接)）GCAC-0009全长 （一般向）该作品是与 [太东](./太东.md) 合作创作的[](./東方名曲蒐.md)[東方名曲蒐](./東方名曲蒐.md)首发日期：2019-05-05 （第十六回 博麗神社例大祭 (未找到链接)）GCAC-0010精选集 （一般向）该作品是与 [太东](./太东.md) 合作创作的[](./東方電脳歌.md)[東方電脳歌](./東方電脳歌.md)首发日期：2019-10-06 （第六回 博麗神社秋季例大祭 (未找到链接)）混音集 （一般向）该作品是与 [太东](./太东.md) 合作创作的
@@ -520,9 +530,11 @@ AD-LIB没有KEY音，取而代之的是击打时会发出效果音。街机端�
 </table>
 
 
+
 ### CD未発売の書き下ろし楽曲
 
-<table><tbody><tr><td id="1" class="infoRD"><b>01</b></td><td id="Vanity_on_the_future" colspan="2" class="title"><span class="new" title="（歌词页面不存在）"><a href="/index.php?title=%E6%AD%8C%E8%AF%8D:Vanity_on_the_future&amp;boilerplate=模板:页面模板/曲目歌词&amp;action=edit">Vanity on the future</a></span><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=溝口ゆうま&amp;vocal=大瀬良あい&amp;ogmusic=聖徳太子のペガサス　～ Dark Pegasus&amp;fromwiki=GROOVE_COASTER"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./溝口ゆうま.md" title="溝口ゆうま">溝口ゆうま</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，溝口ゆうま&amp;fromwiki=GROOVE_COASTER"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="./大瀬良あい.md" title="大瀬良あい">大瀬良あい</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=大瀬良あい&amp;fromwiki=GROOVE_COASTER"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=聖徳太子のペガサス　～ Dark Pegasus&amp;fromwiki=GROOVE_COASTER"><span></span></a></span><div class="ogmusic"><a href="/%E8%81%96%E5%BE%B3%E5%A4%AA%E5%AD%90%E3%81%AE%E3%83%9A%E3%82%AC%E3%82%B5%E3%82%B9_%EF%BD%9E_Dark_Pegasus" class="mw-redirect" title="聖徳太子のペガサス ～ Dark Pegasus">聖徳太子のペガサス　～ Dark Pegasus</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E9%AC%BC%E5%BD%A2%E5%85%BD_%EF%BD%9E_Wily_Beast_and_Weakest_Creature." class="mw-redirect" title="东方鬼形兽 ～ Wily Beast and Weakest Creature.">东方鬼形兽　～ Wily Beast and Weakest Creature.</a></div></td></tr><tr><td class="left"></td><td class="label">首发日期</td><td class="text" colspan="2">2020-12-09</td></tr><tr><td id="2" class="infoYD"><b>02</b></td><td id="東方星連戦" colspan="2" class="title">東方星連戦<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=MASAKI&amp;ogmusic=平安のエイリアン&amp;fromwiki=GROOVE_COASTER"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./MASAKI.md" title="MASAKI">MASAKI</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，MASAKI&amp;fromwiki=GROOVE_COASTER"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=平安のエイリアン&amp;fromwiki=GROOVE_COASTER"><span></span></a></span><div class="ogmusic"><a href="/%E5%B9%B3%E5%AE%89%E3%81%AE%E3%82%A8%E3%82%A4%E3%83%AA%E3%82%A2%E3%83%B3" class="mw-redirect" title="平安のエイリアン">平安のエイリアン</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E6%98%9F%E8%8E%B2%E8%88%B9_%EF%BD%9E_Undefined_Fantastic_Object." class="mw-redirect" title="东方星莲船 ～ Undefined Fantastic Object.">东方星莲船　～ Undefined Fantastic Object.</a></div></td></tr><tr><td class="left"></td><td class="label">首发日期</td><td class="text" colspan="2">2023-05-11</td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoRD"><b>01</b></td><td id="Vanity_on_the_future" colspan="2" class="title"><span class="new" title="（歌词页面不存在）"><a href="/index.php?title=%E6%AD%8C%E8%AF%8D:Vanity_on_the_future&amp;boilerplate=模板:页面模板/曲目歌词&amp;action=edit">Vanity on the future</a></span><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=溝口ゆうま&amp;vocal=大瀬良あい&amp;ogmusic=聖徳太子のペガサス　～ Dark Pegasus&amp;fromwiki=GROOVE_COASTER"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./溝口ゆうま.md" title="溝口ゆうま">溝口ゆうま</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，溝口ゆうま&amp;fromwiki=GROOVE_COASTER"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="./大瀬良あい.md" title="大瀬良あい">大瀬良あい</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=大瀬良あい&amp;fromwiki=GROOVE_COASTER"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=聖徳太子のペガサス　～ Dark Pegasus&amp;fromwiki=GROOVE_COASTER"><span></span></a></span><div class="ogmusic"><a href="./聖徳太子のペガサス_～_Dark_Pegasus.md" class="mw-redirect" title="聖徳太子のペガサス ～ Dark Pegasus">聖徳太子のペガサス　～ Dark Pegasus</a></div><div class="source"><a href="./东方鬼形兽_～_Wily_Beast_and_Weakest_Creature..md" class="mw-redirect" title="东方鬼形兽 ～ Wily Beast and Weakest Creature.">东方鬼形兽　～ Wily Beast and Weakest Creature.</a></div></td></tr><tr><td class="left"></td><td class="label">首发日期</td><td class="text" colspan="2">2020-12-09</td></tr><tr><td id="2" class="infoYD"><b>02</b></td><td id="東方星連戦" colspan="2" class="title">東方星連戦<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=MASAKI&amp;ogmusic=平安のエイリアン&amp;fromwiki=GROOVE_COASTER"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./MASAKI.md" title="MASAKI">MASAKI</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，MASAKI&amp;fromwiki=GROOVE_COASTER"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=平安のエイリアン&amp;fromwiki=GROOVE_COASTER"><span></span></a></span><div class="ogmusic"><a href="./平安のエイリアン.md" class="mw-redirect" title="平安のエイリアン">平安のエイリアン</a></div><div class="source"><a href="./东方星莲船_～_Undefined_Fantastic_Object..md" class="mw-redirect" title="东方星莲船 ～ Undefined Fantastic Object.">东方星莲船　～ Undefined Fantastic Object.</a></div></td></tr><tr><td class="left"></td><td class="label">首发日期</td><td class="text" colspan="2">2023-05-11</td></tr></tbody></table>
+
 
 
 ## 游戏内收录的东方同人曲目
@@ -532,6 +544,7 @@ AD-LIB没有KEY音，取而代之的是击打时会发出效果音。街机端�
 - [曲目列表（au版本）](./GROOVE_COASTER-收录曲目列表（au）.md)
 - [曲目列表（Steam版本）](./GROOVE_COASTER-收录曲目列表（Steam）.md)
 - [曲目列表（Switch版本）](./GROOVE_COASTER-收录曲目列表（Switch）.md)
+
 
 ## 参考资料
 - [GROOVE COASTER 3EX DREAM PARTY × 東方project](http://groovecoaster.jp/toho/)

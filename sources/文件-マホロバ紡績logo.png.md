@@ -4,6 +4,7 @@
 
 マホロバ紡績 | 社团LOGO
 
+
 ## 文件说明
   
 源地址：[direct image link (max size)](https://s2.booth.pm/021e9142-3e1b-4361-b56e-9111df8bb944/481c0a67-c83f-4eab-9f0d-d365165acacd.png), [from circle booth header](https://mahorobabo-seki.booth.pm/)

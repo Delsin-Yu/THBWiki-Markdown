@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 软件信息](#软件信息)
@@ -21,6 +22,7 @@
 - [4 其他资料](#其他资料)
 - [5 评论](#评论)
 - [6 下载](#下载)
+
 
 
 
@@ -49,6 +51,7 @@
 </tbody></table>
 
 
+
 ## Staff
 企划＆程序
 : 蒼天
@@ -61,11 +64,14 @@
 素材辅助
 : kuu
 
+
 ## 角色
+
 ### 自机
 
 <table><tbody><tr><td align="center" rowspan="2">暂无<br>图片</td> <td style="width:150px;padding:3px 9px 3px 7px;" rowspan="2">橙&amp;八云蓝</td><td style="width:180px;padding:3px 9px 3px 7px;"> <a href="./橙.md" title="橙">橙</a></td><td rowspan="2"><a href="./方解夢異聞_～_Avant-Garde_Discerning_Paralleler-橙&八云蓝.md" title="方解夢異聞 ～ Avant-Garde Discerning Paralleler/橙&amp;八云蓝">游戏对话/结局</a><br><a href="./方解夢異聞_～_Avant-Garde_Discerning_Paralleler-橙&八云蓝_ExStory.md" title="方解夢異聞 ～ Avant-Garde Discerning Paralleler/橙&amp;八云蓝 ExStory">Extra游戏对话</a></td></tr><tr><td style="width:150px;padding:3px 9px 3px 7px;"><a href="./八云蓝.md" title="八云蓝">八云蓝</a></td></tr>
 <tr><td align="center" rowspan="2">暂无<br>图片</td> <td style="width:150px;padding:3px 9px 3px 7px;" rowspan="2">幽谷响子&amp;霍青娥</td><td style="width:180px;padding:3px 9px 3px 7px;"> <a href="./幽谷响子.md" title="幽谷响子">幽谷响子</a></td><td rowspan="2"><a href="./方解夢異聞_～_Avant-Garde_Discerning_Paralleler-幽谷响子&霍青娥.md" title="方解夢異聞 ～ Avant-Garde Discerning Paralleler/幽谷响子&amp;霍青娥">游戏对话/结局</a><br><a href="/index.php?title=%E6%96%B9%E8%A7%A3%E5%A4%A2%E7%95%B0%E8%81%9E_%EF%BD%9E_Avant-Garde_Discerning_Paralleler/%E5%B9%BD%E8%B0%B7%E5%93%8D%E5%AD%90%26%E9%9C%8D%E9%9D%92%E5%A8%A5_ExStory&amp;action=edit&amp;redlink=1" class="new" title="方解夢異聞 ～ Avant-Garde Discerning Paralleler/幽谷响子&amp;霍青娥 ExStory（页面不存在）">Extra游戏对话</a></td></tr><tr><td style="width:150px;padding:3px 9px 3px 7px;"><a href="./霍青娥.md" title="霍青娥">霍青娥</a></td></tr></tbody></table>
+
 
 
 ### 八云蓝&amp;橙线路BOSS
@@ -80,16 +86,18 @@
 <tr><td rowspan="2" class="bg-color-info-10" style="min-width:100px">空中要塞鸟船　控制塔</td><td rowspan="1" class="bg-color-info-10" style="min-width:100px"><b>Final Area道中</b><br><i><a href="/index.php?title=333&amp;action=edit&amp;redlink=1" class="new" title="333（页面不存在）">333</a></i></td>  <td style="width:150px;padding:3px 9px 3px 7px;" colspan="2" rowspan="1"> <a href="./河城荷取.md" title="河城荷取">河城荷取</a> </td></tr><tr><td rowspan="1" class="bg-color-info-10" style="min-width:100px"><b>Final AreaBOSS</b><br><i><a href="/index.php?title=555&amp;action=edit&amp;redlink=1" class="new" title="555（页面不存在）">555</a></i></td>  <td style="width:150px;padding:3px 9px 3px 7px;" colspan="2" rowspan="1"> <a href="./朝仓理香子.md" title="朝仓理香子">朝仓理香子</a> </td></tr></tbody></table>
 
 
+
 ### 幽谷响子&amp;霍青娥线路BOSS
 
 <table><tbody><tr><td rowspan="2" class="bg-color-info-10" style="min-width:100px"><a href="/index.php?title=%E5%91%BD%E8%8E%B2%E5%AF%BA%E9%99%84%E8%BF%91_%E6%A3%AE%E6%9E%97&amp;action=edit&amp;redlink=1" class="new" title="命莲寺附近 森林（页面不存在）">命莲寺附近 森林</a></td> <td class="bg-color-info-10" style="min-width:100px"><b>Area 1道中</b><br><i><a href="/index.php?title=333&amp;action=edit&amp;redlink=1" class="new" title="333（页面不存在）">333</a></i></td>  <td style="width:150px;padding:3px 9px 3px 7px;" rowspan="2" colspan="2"> <a href="./村纱水蜜.md" title="村纱水蜜">村纱水蜜</a></td></tr><tr><td class="bg-color-info-10" style="min-width:100px"><b>Area 1BOSS</b><br><i><a href="/index.php?title=555&amp;action=edit&amp;redlink=1" class="new" title="555（页面不存在）">555</a></i></td></tr>
-<tr><td rowspan="2" class="bg-color-info-10" style="min-width:100px"><a href="./迷途竹林.md" title="迷途竹林">迷途竹林</a></td> <td class="bg-color-info-10" style="min-width:100px"><b>Area 2道中</b><br><i><a href="/index.php?title=333&amp;action=edit&amp;redlink=1" class="new" title="333（页面不存在）">333</a></i></td>  <td style="width:150px;padding:3px 9px 3px 7px;" rowspan="2" colspan="2"> <a href="/%E5%9B%A0%E5%B9%A1%E5%A4%A9%E4%B8%BA" class="mw-redirect" title="因幡天为">因幡天为</a></td></tr><tr><td class="bg-color-info-10" style="min-width:100px"><b>Area 2BOSS</b><br><i><a href="/index.php?title=555&amp;action=edit&amp;redlink=1" class="new" title="555（页面不存在）">555</a></i></td></tr>
-<tr><td rowspan="2" class="bg-color-info-10" style="min-width:100px">永远亭</td><td rowspan="1" class="bg-color-info-10" style="min-width:100px"><b>Area 3道中</b><br><i><a href="/index.php?title=333&amp;action=edit&amp;redlink=1" class="new" title="333（页面不存在）">333</a></i></td>  <td style="width:150px;padding:3px 9px 3px 7px;" colspan="2" rowspan="1"> <a href="/%E5%9B%A0%E5%B9%A1%E5%A4%A9%E4%B8%BA" class="mw-redirect" title="因幡天为">因幡天为</a> </td></tr><tr><td rowspan="1" class="bg-color-info-10" style="min-width:100px"><b>Area 3BOSS</b><br><i><a href="/index.php?title=555&amp;action=edit&amp;redlink=1" class="new" title="555（页面不存在）">555</a></i></td>  <td style="width:150px;padding:3px 9px 3px 7px;" colspan="2" rowspan="1"> <a href="./蓬莱山辉夜.md" title="蓬莱山辉夜">蓬莱山辉夜</a> </td></tr>
+<tr><td rowspan="2" class="bg-color-info-10" style="min-width:100px"><a href="./迷途竹林.md" title="迷途竹林">迷途竹林</a></td> <td class="bg-color-info-10" style="min-width:100px"><b>Area 2道中</b><br><i><a href="/index.php?title=333&amp;action=edit&amp;redlink=1" class="new" title="333（页面不存在）">333</a></i></td>  <td style="width:150px;padding:3px 9px 3px 7px;" rowspan="2" colspan="2"> <a href="./因幡天为.md" class="mw-redirect" title="因幡天为">因幡天为</a></td></tr><tr><td class="bg-color-info-10" style="min-width:100px"><b>Area 2BOSS</b><br><i><a href="/index.php?title=555&amp;action=edit&amp;redlink=1" class="new" title="555（页面不存在）">555</a></i></td></tr>
+<tr><td rowspan="2" class="bg-color-info-10" style="min-width:100px">永远亭</td><td rowspan="1" class="bg-color-info-10" style="min-width:100px"><b>Area 3道中</b><br><i><a href="/index.php?title=333&amp;action=edit&amp;redlink=1" class="new" title="333（页面不存在）">333</a></i></td>  <td style="width:150px;padding:3px 9px 3px 7px;" colspan="2" rowspan="1"> <a href="./因幡天为.md" class="mw-redirect" title="因幡天为">因幡天为</a> </td></tr><tr><td rowspan="1" class="bg-color-info-10" style="min-width:100px"><b>Area 3BOSS</b><br><i><a href="/index.php?title=555&amp;action=edit&amp;redlink=1" class="new" title="555（页面不存在）">555</a></i></td>  <td style="width:150px;padding:3px 9px 3px 7px;" colspan="2" rowspan="1"> <a href="./蓬莱山辉夜.md" title="蓬莱山辉夜">蓬莱山辉夜</a> </td></tr>
 <tr><td rowspan="2" class="bg-color-info-10" style="min-width:100px">人类村落北部平原</td><td rowspan="1" class="bg-color-info-10" style="min-width:100px"><b>Area 4道中</b><br><i><a href="/index.php?title=333&amp;action=edit&amp;redlink=1" class="new" title="333（页面不存在）">333</a></i></td>  <td style="width:150px;padding:3px 9px 3px 7px;" colspan="2" rowspan="1"> <a href="./橙.md" title="橙">橙</a> </td></tr><tr><td rowspan="1" class="bg-color-info-10" style="min-width:100px"><b>Area 4BOSS</b><br><i><a href="/index.php?title=555%EF%BC%8C666&amp;action=edit&amp;redlink=1" class="new" title="555，666（页面不存在）">555，666</a></i></td>  <td style="width:150px;padding:3px 9px 3px 7px;" colspan="2" rowspan="1"> <a href="/index.php?title=%E5%85%AB%E4%BA%91%E8%93%9D%26%E6%A9%99&amp;action=edit&amp;redlink=1" class="new" title="八云蓝&amp;橙（页面不存在）">八云蓝&amp;橙</a> </td></tr>
 <tr><td rowspan="2" class="bg-color-info-10" style="min-width:100px"><a href="./幻想乡上空.md" title="幻想乡上空">幻想乡上空</a></td> <td class="bg-color-info-10" style="min-width:100px"><b>Area 5道中</b><br><i><a href="/index.php?title=333&amp;action=edit&amp;redlink=1" class="new" title="333（页面不存在）">333</a></i></td>  <td style="width:150px;padding:3px 9px 3px 7px;" rowspan="2" colspan="2"> <a href="./寅丸星.md" title="寅丸星">寅丸星</a></td></tr><tr><td class="bg-color-info-10" style="min-width:100px"><b>Area 5BOSS</b><br><i><a href="/index.php?title=555&amp;action=edit&amp;redlink=1" class="new" title="555（页面不存在）">555</a></i></td></tr>
 <tr><td rowspan="2" class="bg-color-info-10" style="min-width:100px"><a href="/index.php?title=%E7%A5%9E%E7%A7%98%E9%A3%9E%E8%A1%8C%E7%89%A9_%E5%A4%96%E5%9B%B4&amp;action=edit&amp;redlink=1" class="new" title="神秘飞行物 外围（页面不存在）">神秘飞行物　外围</a></td> <td class="bg-color-info-10" style="min-width:100px"><b>Area 6道中</b><br><i><a href="/index.php?title=333&amp;action=edit&amp;redlink=1" class="new" title="333（页面不存在）">333</a></i></td>  <td style="width:150px;padding:3px 9px 3px 7px;" rowspan="2" colspan="2"> <a href="./堀川雷鼓.md" title="堀川雷鼓">堀川雷鼓</a></td></tr><tr><td class="bg-color-info-10" style="min-width:100px"><b>Area 6BOSS</b><br><i><a href="/index.php?title=555&amp;action=edit&amp;redlink=1" class="new" title="555（页面不存在）">555</a></i></td></tr>
 <tr><td rowspan="2" class="bg-color-info-10" style="min-width:100px">空中要塞鸟船 连接通道</td><td rowspan="1" class="bg-color-info-10" style="min-width:100px"><b>Area 7道中</b><br><i><a href="/index.php?title=333&amp;action=edit&amp;redlink=1" class="new" title="333（页面不存在）">333</a></i></td>  <td style="width:150px;padding:3px 9px 3px 7px;" colspan="2" rowspan="1"> <a href="./黑谷山女.md" title="黑谷山女">黑谷山女</a> </td></tr><tr><td rowspan="1" class="bg-color-info-10" style="min-width:100px"><b>Area 7BOSS</b><br><i><a href="/index.php?title=555&amp;action=edit&amp;redlink=1" class="new" title="555（页面不存在）">555</a></i></td>  <td style="width:150px;padding:3px 9px 3px 7px;" colspan="2" rowspan="1"> <a href="./赤蛮奇.md" title="赤蛮奇">赤蛮奇</a> </td></tr>
 <tr><td rowspan="2" class="bg-color-info-10" style="min-width:100px"><a href="/index.php?title=%E7%A9%BA%E4%B8%AD%E8%A6%81%E5%A1%9E%E9%B8%9F%E8%88%B9_%E6%AD%A6%E5%99%A8%E5%BA%93&amp;action=edit&amp;redlink=1" class="new" title="空中要塞鸟船 武器库（页面不存在）">空中要塞鸟船 武器库</a></td> <td class="bg-color-info-10" style="min-width:100px"><b>Final Area道中</b><br><i><a href="/index.php?title=333&amp;action=edit&amp;redlink=1" class="new" title="333（页面不存在）">333</a></i></td>  <td style="width:150px;padding:3px 9px 3px 7px;" rowspan="2" colspan="2"> <a href="./里香.md" title="里香">里香</a></td></tr><tr><td class="bg-color-info-10" style="min-width:100px"><b>Final AreaBOSS</b><br><i><a href="/index.php?title=555&amp;action=edit&amp;redlink=1" class="new" title="555（页面不存在）">555</a></i></td></tr></tbody></table>
+
 
 
 ## 其他资料
@@ -114,7 +122,9 @@
 </td></tr></tbody></table>
 
 
+
 ## 评论
+
 ## 下载
   
 请注意：  

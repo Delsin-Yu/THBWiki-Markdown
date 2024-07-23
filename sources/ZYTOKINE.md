@@ -4,7 +4,8 @@
 
 ZYTOKINE ，于 2011 年成立，主要制作 同人音乐 的日本同人社团，主催是 隣人，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -31,27 +32,33 @@ ZYTOKINE ，于 2011 年成立，主要制作 同人音乐 的日本同人社团
 
 
 
+
 ## 社团信息
 [](./文件-ZYTOKINE_banner.png.md)  [](./文件-ZYTOKINE_banner.png.md)Banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> ZYTOKINE </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2011</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="./隣人.md" title="隣人">隣人</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://zytokine-web.com/">http://zytokine-web.com/</a> <br><a rel="nofollow" class="external free" href="https://www.youtube.com/channel/UCmMpmQ3YMGGlrgWUhBoz6Uw">https://www.youtube.com/channel/UCmMpmQ3YMGGlrgWUhBoz6Uw</a></td></tr></tbody></table>
 
 ZYTOKINE（同人社团，同人音乐社团） - ZYTOKINE ，于 2011 年成立，主要制作 同人音乐 的日本同人社团，主催是 隣人，当前状态为 活动
+
 ## 成员名单
+
 ### 固定成员
 - [隣人](./隣人.md)
 
+
 ### 常见参与者
-- 蒲焼うなぎ (未找到链接)
+- [蒲焼うなぎ](./蒲焼うなぎ.md)
 - [aki](./aki.md)
 - [itori](./itori.md)
 - [Nana Takahashi](./Nana_Takahashi.md)
 - [綾倉盟](./綾倉盟.md)
 - [A～YA](./A～YA.md)
 - [SYO](./SYO.md)
-- 坂上なち (未找到链接)
+- [坂上なち](./坂上なち.md)
+
 
 ## 作品列表
+
 ### 同人专辑
   
  **更早以 CYTOKINE 名义发布的专辑参见CYTOKINE同人专辑 (未找到链接)。** 
@@ -180,6 +187,7 @@ ZYTOKINE（同人社团，同人音乐社团） - ZYTOKINE ，于 2011 年成立
 </table>
 
 
+
 ### KARAOKE
 [](./KARAOKE／THNQ.md)[KARAOKE／THNQ](./KARAOKE／THNQ.md)首发日期：2016-10-09 （東方紅楼夢12 (未找到链接)）CK-0039Pi原声集 （一般向）[](./KARAOKE／LTR.md)[KARAOKE/LTR](./KARAOKE／LTR.md)首发日期：2017-10-22 （東方紅楼夢13 (未找到链接)）CK-0042Pi原声集 （一般向）KARAOKE HDA 封面图片 (未找到链接)[KARAOKE HDA](./KARAOKE_HDA.md)首发日期：2021-08-27 CK-0071P原声集 （一般向）pixivFANBOX limitedKARAOKE SOZ 封面图片 (未找到链接)[KARAOKE SOZ](./KARAOKE_SOZ.md)首发日期：2022-01-28 印象集 （一般向）pixivFANBOX limitedKARAOKE NTRL 封面图片 (未找到链接)[KARAOKE NTRL](./KARAOKE_NTRL.md)首发日期：2022-03-29 CK-0067Pi原声集 （一般向）pixivFANBOX limitedKARAOKE DI 封面图片 (未找到链接)[KARAOKE DI](./KARAOKE_DI.md)首发日期：2022-03-28 CK-0068pi原声集 （一般向）pixivFANBOX limitedKARAOKE NRVN 封面图片 (未找到链接)[KARAOKE NRVN](./KARAOKE_NRVN.md)首发日期：2022-03-30 CK-0052Pi印象集 （一般向）pixivFANBOX limitedKARAOKE NRS 封面图片 (未找到链接)[KARAOKE NRS](./KARAOKE_NRS.md)首发日期：2022-05-17 原声集 （一般向）pixivFANBOX limitedKARAOKE ANK 封面图片 (未找到链接)[KARAOKE ANK](./KARAOKE_ANK.md)首发日期：2022-09-17 CK-0074Pi印象集 （一般向）pixivFANBOX limitedKARAOKE OKB 封面图片 (未找到链接)[KARAOKE OKB](./KARAOKE_OKB.md)首发日期：2023-01-13 原声集 （一般向）pixivFANBOX limitedKARAOKE 4Q8Q 封面图片 (未找到链接)[KARAOKE 4Q8Q](./KARAOKE_4Q8Q.md)首发日期：2023-03-28 CK-0048Pi印象集 （一般向）pixivFANBOX limitedKARAOKE JBT 封面图片 (未找到链接)[KARAOKE JBT](./KARAOKE_JBT.md)首发日期：2023-03-30 CK-0053Pi印象集 （一般向）pixivFANBOX limitedKARAOKE ZIZ 封面图片 (未找到链接)[KARAOKE ZIZ](./KARAOKE_ZIZ.md)首发日期：2024-04-29 原声集 （一般向）KARAOKE ZOO 封面图片 (未找到链接)[KARAOKE ZOO](./KARAOKE_ZOO.md)首发日期：2024-05-05 原声集 （一般向）pixivFANBOX limitedKARAOKE AURUM 封面图片 (未找到链接)[KARAOKE AURUM](./KARAOKE_AURUM.md)首发日期：2024-05-05 CK-0079Pi原声集 （一般向）pixivFANBOX limited
 <table><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
@@ -214,6 +222,7 @@ ZYTOKINE（同人社团，同人音乐社团） - ZYTOKINE ，于 2011 年成立
 </table>
 
 
+
 ### 同人志
 [](./CYTOKINE_ZYTOKINE_TOUHOU_DOUJIN_ARTWORKS_2006_-_2016.md)[CYTOKINE ZYTOKINE TOUHOU DOUJIN ARTWORKS 2006 - 2016](./CYTOKINE_ZYTOKINE_TOUHOU_DOUJIN_ARTWORKS_2006_-_2016.md)首发日期：2016-05-08 （第十三回 博麗神社例大祭 (未找到链接)）画集 （一般向）该作品是与 [CYTOKINE](./CYTOKINE.md) 合作创作的B5&#160;尺寸 52&#160;页[](./CYTOKINE_ZYTOKINE_TOUHOU_DOUJIN_ARTWORKS_2016_-_2021.md)[CYTOKINE ZYTOKINE TOUHOU DOUJIN ARTWORKS 2016 - 2021](./CYTOKINE_ZYTOKINE_TOUHOU_DOUJIN_ARTWORKS_2016_-_2021.md)首发日期：2021-05-02 （エアコミケ3 (未找到链接)）画集 （一般向）该作品是与 [CYTOKINE](./CYTOKINE.md) 合作创作的B5&#160;尺寸 36&#160;页[](./二輪草_踊る風花_あいの風.md)[二輪草　踊る風花　あいの風](./二輪草_踊る風花_あいの風.md)首发日期：2023-08-13 （Comic Market 102 (未找到链接)）歌词本 （一般向）B6&#160;尺寸 
 <table><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
@@ -222,6 +231,7 @@ ZYTOKINE（同人社团，同人音乐社团） - ZYTOKINE ，于 2011 年成立
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ### 限定
@@ -316,6 +326,7 @@ ZYTOKINE（同人社团，同人音乐社团） - ZYTOKINE ，于 2011 年成立
 </table>
 
 
+
 ### FANBOX LIMITED
 [](./kokoro_omoi_feat._aki_-_ZYTOKINE_Remix.md)[kokoro omoi feat. aki - ZYTOKINE Remix](./kokoro_omoi_feat._aki_-_ZYTOKINE_Remix.md)首发日期：2021-02-17 单曲 （一般向）[](./flower_feat._aki_-_2021_ver..md)[flower feat. aki - 2021 ver.](./flower_feat._aki_-_2021_ver..md)首发日期：2021-03-11 单曲 （一般向）pixivFANBOX limited[](./DEJA_VUED_WAVEZ_feat._YURiCa／花たん_-_Piano_Version_-.md)[DEJA VUED WAVEZ feat. YURiCa/花たん - Piano Version -](./DEJA_VUED_WAVEZ_feat._YURiCa／花たん_-_Piano_Version_-.md)首发日期：2021-08-29 单曲 （一般向）pixivFANBOX limitedPOKER FACE -instrumental version- 封面图片 (未找到链接)[POKER FACE -instrumental version-](./POKER_FACE_-instrumental_version-.md)首发日期：2022-01-08 单曲 （一般向）pixivFANBOX limitedきみはぼくのかなた - 8bit style instrumental 封面图片 (未找到链接)[きみはぼくのかなた - 8bit style instrumental](./きみはぼくのかなた_-_8bit_style_instrumental.md)首发日期：2022-03-19 单曲 （一般向）pixivFANBOX limitedPOKER FACE - piano sketches ver- 封面图片 (未找到链接)[POKER FACE - piano sketches ver-](./POKER_FACE_-_piano_sketches_ver-.md)首发日期：2022-11-12 单曲 （一般向）pixivFANBOX limited[](./詠み人知らず_-_piano_sketches_ver-.md)[詠み人知らず - piano sketches ver-](./詠み人知らず_-_piano_sketches_ver-.md)首发日期：2022-09-05 单曲 （一般向）pixivFANBOX limitedflower feat. aki - 2023 ver. 封面图片 (未找到链接)[flower feat. aki - 2023 ver.](./flower_feat._aki_-_2023_ver..md)首发日期：2023-03-03 单曲、​Omake （一般向）pixivFANBOX limited[](./HUNDRED_DUOVIGINTILLION_ARROWS_feat._itori_-more_aggressive_mix-.md)[HUNDRED DUOVIGINTILLION ARROWS feat. itori -more aggressive mix-](./HUNDRED_DUOVIGINTILLION_ARROWS_feat._itori_-more_aggressive_mix-.md)首发日期：2023-05-17 单曲 （一般向）pixivFANBOX limited[](./LOOPBACKDESTRUCTION_-_piano_sketches_Ver..md)[LOOPBACKDESTRUCTION - piano sketches Ver.](./LOOPBACKDESTRUCTION_-_piano_sketches_Ver..md)首发日期：2023-09-08 单曲 （一般向）FAKE-FUR-Dollz - Piano Vocal ver. 封面图片 (未找到链接)[FAKE-FUR-Dollz - Piano Vocal ver.](./FAKE-FUR-Dollz_-_Piano_Vocal_ver..md)首发日期：2024-04-30 单曲 （一般向）
 <table><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
@@ -342,17 +353,19 @@ ZYTOKINE（同人社团，同人音乐社团） - ZYTOKINE ，于 2011 年成立
 </table>
 
 
+
 ## 参展信息
 
 <table><tbody><tr><th class="活动页面">活动页面</th><th class="活动名称">活动名称</th><th class="日期">日期</th><th class="举办地点">举办地点</th><th class="摊位编号">摊位编号</th><th class="宣传页面">宣传页面</th><th class="备注">备注</th></tr><tr data-row-number="1" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#21" title="博丽神社例大祭">博丽神社例大祭#21</a></span></td><td class="活动名称 smwtype_txt">第二十一回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2460433.5">2024-05-03</td><td class="举办地点 smwtype_txt">东京Big Sight 东展厅</td><td class="摊位编号 smwtype_txt">て37b</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="2" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/Comic_Market#103" title="Comic Market">Comic Market#103</a></span></td><td class="活动名称 smwtype_txt">Comic Market 103</td><td class="日期 smwtype_dat" data-sort-value="2460309.5">2023-12-31</td><td class="举办地点 smwtype_txt">东京都 东京国际展示场</td><td class="摊位编号 smwtype_txt">西あ67a</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="3" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E7%A7%8B%E5%AD%A3%E4%BE%8B%E5%A4%A7%E7%A5%AD#10" title="博丽神社秋季例大祭">博丽神社秋季例大祭#10</a></span></td><td class="活动名称 smwtype_txt">第十回 博麗神社秋季例大祭</td><td class="日期 smwtype_dat" data-sort-value="2460260.5">2023-11-12</td><td class="举办地点 smwtype_txt">东京Big Sight 東展厅</td><td class="摊位编号 smwtype_txt">あ10b</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="4" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E4%B8%9C%E6%96%B9%E7%BA%A2%E6%A5%BC%E6%A2%A6#19" title="东方红楼梦">东方红楼梦#19</a></span></td><td class="活动名称 smwtype_txt">東方紅楼夢19</td><td class="日期 smwtype_dat" data-sort-value="2460232.5">2023-10-15</td><td class="举办地点 smwtype_txt">大阪国际展览中心 6号馆C・D区</td><td class="摊位编号 smwtype_txt">あ-03b</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="5" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/Comic_Market#102" title="Comic Market">Comic Market#102</a></span></td><td class="活动名称 smwtype_txt">Comic Market 102</td><td class="日期 smwtype_dat" data-sort-value="2460169.5">2023-08-13</td><td class="举办地点 smwtype_txt">东京都 东京国际展示场</td><td class="摊位编号 smwtype_txt">東A73a</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="6" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E4%B8%9C%E6%96%B9%E5%90%8D%E5%8D%8E%E7%A5%AD#17" title="东方名华祭">东方名华祭#17</a></span></td><td class="活动名称 smwtype_txt">東方名華祭17</td><td class="日期 smwtype_dat" data-sort-value="2460120.5">2023-06-25</td><td class="举办地点 smwtype_txt">名古屋市国际展示场 第2展厅</td><td class="摊位编号 smwtype_txt">K27</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="7" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#20" title="博丽神社例大祭">博丽神社例大祭#20</a></span></td><td class="活动名称 smwtype_txt">第二十回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2460071.5">2023-05-07</td><td class="举办地点 smwtype_txt">东京Big Sight 东展厅</td><td class="摊位编号 smwtype_txt">つ38b</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="8" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E7%A7%8B%E5%AD%A3%E4%BE%8B%E5%A4%A7%E7%A5%AD#9" title="博丽神社秋季例大祭">博丽神社秋季例大祭#9</a></span></td><td class="活动名称 smwtype_txt">第九回 博麗神社秋季例大祭</td><td class="日期 smwtype_dat" data-sort-value="2459875.5">2022-10-23</td><td class="举办地点 smwtype_txt">东京Big Sight 西展厅</td><td class="摊位编号 smwtype_txt">う01a</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="9" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E4%B8%9C%E6%96%B9%E7%BA%A2%E6%A5%BC%E6%A2%A6#18" title="东方红楼梦">东方红楼梦#18</a></span></td><td class="活动名称 smwtype_txt">東方紅楼夢18</td><td class="日期 smwtype_dat" data-sort-value="2459861.5">2022-10-09</td><td class="举办地点 smwtype_txt">大阪国际展览中心</td><td class="摊位编号 smwtype_txt">そ01-a</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="10" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E7%A7%91%E5%AD%A6%E4%B8%96%E7%BA%AA%E7%9A%84%E9%9C%B2%E5%A4%A9%E5%92%96%E5%95%A1%E5%BA%A7#11" title="科学世纪的露天咖啡座">科学世纪的露天咖啡座#11</a></span></td><td class="活动名称 smwtype_txt">科学世紀のカフェテラス（第11回）</td><td class="日期 smwtype_dat" data-sort-value="2459833.5">2022-09-11</td><td class="举办地点 smwtype_txt">京都综合见本市会馆</td><td class="摊位编号 smwtype_txt">楽17</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr class="smwfooter row-odd"><td class="sortbottom" colspan="7"><span class="smw-broadtable-furtherresults"><a href="/%E7%89%B9%E6%AE%8A:%E8%AF%A2%E9%97%AE/-5B-5B%E6%91%8A%E4%BD%8D%E7%A4%BE%E5%9B%A2::ZYTOKINE-5D-5D/-3F%E6%91%8A%E4%BD%8D%E6%B4%BB%E5%8A%A8%3D%E6%B4%BB%E5%8A%A8%E9%A1%B5%E9%9D%A2/-3F%E6%91%8A%E4%BD%8D%E6%B4%BB%E5%8A%A8.%E5%B1%95%E4%BC%9A%E5%90%8D%E7%A7%B0%3D%E6%B4%BB%E5%8A%A8%E5%90%8D%E7%A7%B0/-3F%E6%91%8A%E4%BD%8D%E6%B4%BB%E5%8A%A8.%E5%B1%95%E4%BC%9A%E6%97%A5%E6%9C%9F%3D%E6%97%A5%E6%9C%9F/-3F%E6%91%8A%E4%BD%8D%E6%B4%BB%E5%8A%A8.%E5%9C%B0%E7%82%B9%3D%E4%B8%BE%E5%8A%9E%E5%9C%B0%E7%82%B9/-3F%E6%91%8A%E4%BD%8D%E7%BC%96%E5%8F%B7/-3F%E6%91%8A%E4%BD%8D%E5%AE%A3%E4%BC%A0%E9%A1%B5%E9%9D%A2%3D%E5%AE%A3%E4%BC%A0%E9%A1%B5%E9%9D%A2-7C%2Bmany%3D-3Cbr-20-2F-3E/-3F%E6%91%8A%E4%BD%8D%E5%A4%87%E6%B3%A8%3D%E5%A4%87%E6%B3%A8/mainlabel%3D-20-2D/limit%3D10/order%3D-20descending/sort%3D-20%E6%91%8A%E4%BD%8D%E6%B4%BB%E5%8A%A8.%E5%B1%95%E4%BC%9A%E6%97%A5%E6%9C%9F/offset%3D10/format%3D-20broadtable/headers%3D-20plain" title="特殊:询问/-5B-5B摊位社团::ZYTOKINE-5D-5D/-3F摊位活动=活动页面/-3F摊位活动.展会名称=活动名称/-3F摊位活动.展会日期=日期/-3F摊位活动.地点=举办地点/-3F摊位编号/-3F摊位宣传页面=宣传页面-7C+many=-3Cbr-20-2F-3E/-3F摊位备注=备注/mainlabel=-20-2D/limit=10/order=-20descending/sort=-20摊位活动.展会日期/offset=10/format=-20broadtable/headers=-20plain">...更多结果</a></span></td></tr></tbody></table>
 
 
+
 ## 其他信息
   
-[隣人](./隣人.md)的个人社团。在以这个名义活动之前，他以与兄长蒲焼うなぎ (未找到链接)共同组成的社团以[CYTOKINE](./CYTOKINE.md)名义进行同人音乐活动。
+[隣人](./隣人.md)的个人社团。在以这个名义活动之前，他以与兄长[蒲焼うなぎ](./蒲焼うなぎ.md)共同组成的社团以[CYTOKINE](./CYTOKINE.md)名义进行同人音乐活动。
   
   
-现在[CYTOKINE](./CYTOKINE.md)与ZYTOKINE都处于活动状态，蒲焼うなぎ (未找到链接)的同人志类作品依然以CYTOKINE名义发布，而[隣人](./隣人.md)的同人音乐作品则以个人社团ZYTOKINE的名义发布。但隣人依然算作是CYTOKINE的一员。
+现在[CYTOKINE](./CYTOKINE.md)与ZYTOKINE都处于活动状态，[蒲焼うなぎ](./蒲焼うなぎ.md)的同人志类作品依然以CYTOKINE名义发布，而[隣人](./隣人.md)的同人音乐作品则以个人社团ZYTOKINE的名义发布。但隣人依然算作是CYTOKINE的一员。
   
 
   

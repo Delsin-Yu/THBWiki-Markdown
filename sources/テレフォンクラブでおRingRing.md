@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-テレフォンクラブでおRingRing封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/b/b7/%E3%83%86%E3%83%AC%E3%83%95%E3%82%A9%E3%83%B3%E3%82%AF%E3%83%A9%E3%83%96%E3%81%A7%E3%81%8ARingRing%E5%B0%81%E9%9D%A2.jpg/160px-%E3%83%86%E3%83%AC%E3%83%95%E3%82%A9%E3%83%B3%E3%82%AF%E3%83%A9%E3%83%96%E3%81%A7%E3%81%8ARingRing%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="160" height="224" srcset="https://upload.thwiki.cc/thumb/b/b7/%E3%83%86%E3%83%AC%E3%83%95%E3%82%A9%E3%83%B3%E3%82%AF%E3%83%A9%E3%83%96%E3%81%A7%E3%81%8ARingRing%E5%B0%81%E9%9D%A2.jpg/240px-%E3%83%86%E3%83%AC%E3%83%95%E3%82%A9%E3%83%B3%E3%82%AF%E3%83%A9%E3%83%96%E3%81%A7%E3%81%8ARingRing%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/b/b7/%E3%83%86%E3%83%AC%E3%83%95%E3%82%A9%E3%83%B3%E3%82%AF%E3%83%A9%E3%83%96%E3%81%A7%E3%81%8ARingRing%E5%B0%81%E9%9D%A2.jpg/320px-%E3%83%86%E3%83%AC%E3%83%95%E3%82%A9%E3%83%B3%E3%82%AF%E3%83%A9%E3%83%96%E3%81%A7%E3%81%8ARingRing%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1200" data-file-height="1678"></a><div class="cover-char">角色：<a href="./古明地觉.md" title="古明地觉">古明地觉</a></div></td>
@@ -18,9 +19,12 @@
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=133860">蜜瓜</a></td></tr></tbody></table>
 
 
+
 ## 预览
+
 ## Staff
 - らぱ☆ (未找到链接)
+
 
 ## 评论
 

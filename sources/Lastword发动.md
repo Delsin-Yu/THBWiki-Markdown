@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -34,11 +35,13 @@
 
 
 
+
 ## 基本信息
 
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">ラストワード発動</td></tr><tr><td><b>译名</b></td><td>Lastword发动</td></tr><tr><td><b>作曲</b></td><td><a href="./あきやまうに.md" title="あきやまうに">あきやまうに</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>引用</td></tr><tr><td style="padding-left:15px"><b>原曲</b></td><td><a href="./心绮楼囃子.md" title="心绮楼囃子" unred="">心綺楼囃子</a></td></tr><tr><td style="padding-left:15px"><b>　来源</b></td><td>东方心绮楼　～ Hopeless Masquerade.</td></tr></tbody></table>
 
 Lastword发动（曲目） - 由 あきやまうに 创作的官方曲目，原名 ラストワード発動
+
 ## 出现作品
 
 <table>
@@ -47,20 +50,28 @@ Lastword发动（曲目） - 由 あきやまうに 创作的官方曲目，原�
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 暗黑能乐集心绮楼
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-TFM-006b_14.mp3.md" title="文件:TFM-006b 14.mp3">TFM-006b_14.mp3</a><br><audio src="https://upload.thwiki.cc/5/51/TFM-006b_14.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track14.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>1:47</td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 暗黑能乐集心绮楼
 - あきやまうに的文本 (未找到链接)
 
 Last Word发动／在很好的地方播放的惯例的曲子。这回弄成了可以好好放在原声集里的曲子。
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
+
 ### 二次同人数据
 
 <table><tbody><tr><th colspan="2">统计</th></tr>

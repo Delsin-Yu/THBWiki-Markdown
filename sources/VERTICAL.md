@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-VERTICAL封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/3/3d/VERTICAL%E5%B0%81%E9%9D%A2.jpg/81px-VERTICAL%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="81" height="224" srcset="https://upload.thwiki.cc/thumb/3/3d/VERTICAL%E5%B0%81%E9%9D%A2.jpg/121px-VERTICAL%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/3/3d/VERTICAL%E5%B0%81%E9%9D%A2.jpg/162px-VERTICAL%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1000" data-file-height="2767"></a><div class="cover-char">角色：<a href="./比那名居天子.md" title="比那名居天子">比那名居天子</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://zokubutuen.net/post/166422745725/紅楼夢ですよ">https://zokubutuen.net/post/166422745725/紅楼夢ですよ</a><br><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/65446362">https://www.pixiv.net/artworks/65446362</a><br><a rel="nofollow" class="external free" href="https://twitter.com/fu__kka_/status/917780833229930496">https://twitter.com/fu__kka_/status/917780833229930496</a><br><a rel="nofollow" class="external free" href="https://twitter.com/fu__kka_/status/921866814082097152">https://twitter.com/fu__kka_/status/921866814082097152</a></td></tr></tbody></table>
 
 VERTICAL（同人志，西明石俗物園，2017） - 2017年10月22日 由 西明石俗物園 于 东方红楼梦13 发布的画集同人志，B5尺寸一共8页，登场人物有 比那名居天子，分级为 一般向
+
 ## Staff
 - fu_kka (未找到链接)
+
 
 ## 评论
 

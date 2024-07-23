@@ -4,7 +4,8 @@
 
 LETRA ，于 2003 年成立，主要制作 同人志 的日本同人社团，主催是 滝太郎，当前状态为 转入非东方
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -20,16 +21,20 @@ LETRA ，于 2003 年成立，主要制作 同人志 的日本同人社团，主
 
 
 
+
 ## 社团信息
 文件:LETRAbanner.jpg (未找到链接)  banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> LETRA </td></tr><tr><td><b>主要作品类型</b></td><td>同人志</td></tr><tr><td><b>成立时间</b></td><td>2003</td></tr><tr><td><b>当前状态</b></td><td>转入非东方</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=%E6%BB%9D%E5%A4%AA%E9%83%8E&amp;action=edit&amp;redlink=1" class="new" title="滝太郎（页面不存在）">滝太郎</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://letra.blog44.fc2.com/">http://letra.blog44.fc2.com/</a> <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><br><a rel="nofollow" class="external free" href="http://cute.cd/airo/">http://cute.cd/airo/</a> <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span></td></tr></tbody></table>
 
 LETRA（同人社团，同人志社团） - LETRA ，于 2003 年成立，主要制作 同人志 的日本同人社团，主催是 滝太郎，当前状态为 转入非东方
+
 ## 成员名单
 - 滝太郎 (未找到链接)
 
+
 ## 作品列表
+
 ### 同人志
 DANSE MACABRE 封面图片 (未找到链接)DANSE MACABRE (未找到链接)首发日期：未知 - 現実の幻日 ～Parhelion～ 封面图片 (未找到链接)現実の幻日 ～Parhelion～ (未找到链接)首发日期：未知 - 八岐の虚国 封面图片 (未找到链接)八岐の虚国 (未找到链接)首发日期：未知 - 縁廻る世界 -エンマワールド- 封面图片 (未找到链接)縁廻る世界 -エンマワールド- (未找到链接)首发日期：未知 - 地上の星座 天空の銀河 封面图片 (未找到链接)地上の星座 天空の銀河 (未找到链接)首发日期：未知 - 大宇宙士官候補生 封面图片 (未找到链接)大宇宙士官候補生 (未找到链接)首发日期：未知 - よつむぎとらうむ -酔紡ぎ夢- 封面图片 (未找到链接)よつむぎとらうむ -酔紡ぎ夢- (未找到链接)首发日期：未知 - PAROLE PARADE 封面图片 (未找到链接)PAROLE PARADE (未找到链接)首发日期：未知 - レインボ一発 封面图片 (未找到链接)レインボ一発 (未找到链接)首发日期：未知 - VIRGINITY 封面图片 (未找到链接)VIRGINITY (未找到链接)首发日期：未知 - てんびんあそび 封面图片 (未找到链接)てんびんあそび (未找到链接)首发日期：未知 - 大天使のように 封面图片 (未找到链接)大天使のように (未找到链接)首发日期：未知 - ビッグバンヒロイン 封面图片 (未找到链接)ビッグバンヒロイン (未找到链接)首发日期：未知 - RE：gain 封面图片 (未找到链接)RE：gain (未找到链接)首发日期：未知 - Archetype Toys 封面图片 (未找到链接)Archetype Toys (未找到链接)首发日期：未知 - LOST INNOCENCE 封面图片 (未找到链接)LOST INNOCENCE (未找到链接)首发日期：未知 - [](./相殺インフェルノ.md)[相殺インフェルノ](./相殺インフェルノ.md)首发日期：2007-04-22 （SunshineCreation35 (未找到链接)）漫画 （一般向）该作品是与 [徒歩二分](./徒歩二分.md) 合作创作的B5&#160;尺寸 36&#160;页毎日が日曜日。 封面图片 (未找到链接)毎日が日曜日。 (未找到链接)首发日期：未知 - Long Good-Bye 封面图片 (未找到链接)Long Good-Bye (未找到链接)首发日期：未知 - 漂着キネオラマ 封面图片 (未找到链接)漂着キネオラマ (未找到链接)首发日期：未知 - OVER THE MOUNTAIN! 封面图片 (未找到链接)OVER THE MOUNTAIN! (未找到链接)首发日期：未知 - Faith Mission 封面图片 (未找到链接)Faith Mission (未找到链接)首发日期：未知 - 私のスーパースター 封面图片 (未找到链接)私のスーパースター (未找到链接)首发日期：未知 - いい日旅立ち。 封面图片 (未找到链接)いい日旅立ち。 (未找到链接)首发日期：未知 - Sky Fish 封面图片 (未找到链接)Sky Fish（同人志） (未找到链接)首发日期：未知 - ANOTHER ROSES 封面图片 (未找到链接)ANOTHER ROSES (未找到链接)首发日期：未知 - [](./橋を建てる.md)[橋を建てる](./橋を建てる.md)首发日期：2008-10-05 （SunshineCreation41 (未找到链接)）漫画 （一般向） 36&#160;页たけとりものがたり 封面图片 (未找到链接)たけとりものがたり (未找到链接)首发日期：未知 - モガリノミヤ 封面图片 (未找到链接)モガリノミヤ (未找到链接)首发日期：未知 - 見知らぬ国のりんごたち 封面图片 (未找到链接)見知らぬ国のりんごたち (未找到链接)首发日期：未知 - 迷星GMS 封面图片 (未找到链接)迷星GMS (未找到链接)首发日期：未知 - 紅と黒 封面图片 (未找到链接)紅と黒 (未找到链接)首发日期：未知 - 遅すぎた思春期 早すぎた更年期 封面图片 (未找到链接)遅すぎた思春期 早すぎた更年期 (未找到链接)首发日期：未知 - ULTRA BLUE 封面图片 (未找到链接)ULTRA BLUE (未找到链接)首发日期：未知 - 唐繰式千両箱 封面图片 (未找到链接)唐繰式千両箱 (未找到链接)首发日期：未知 - RE：UNION 封面图片 (未找到链接)RE：UNION (未找到链接)首发日期：未知 - Save Our Souls 封面图片 (未找到链接)Save Our Souls (未找到链接)首发日期：未知 - RE：TRY 封面图片 (未找到链接)RE：TRY (未找到链接)首发日期：未知 - Turangalila 封面图片 (未找到链接)Turangalila (未找到链接)首发日期：未知 - お引越し大作戦! 封面图片 (未找到链接)お引越し大作戦! (未找到链接)首发日期：未知 - RE：FAITH 封面图片 (未找到链接)RE：FAITH (未找到链接)首发日期：未知 - 水道水で飼育しないでください。 封面图片 (未找到链接)水道水で飼育しないでください。 (未找到链接)首发日期：未知 - シュトルム・ウント・ドラング 封面图片 (未找到链接)シュトルム・ウント・ドラング (未找到链接)首发日期：未知 - 核 封面图片 (未找到链接)核 (未找到链接)首发日期：未知 - 鋼鉄聖女 封面图片 (未找到链接)鋼鉄聖女 (未找到链接)首发日期：未知 - 四色ちらし寿司 封面图片 (未找到链接)四色ちらし寿司 (未找到链接)首发日期：未知 - YELLOW PEOPLE 封面图片 (未找到链接)YELLOW PEOPLE (未找到链接)首发日期：未知 - 全部食べるまで帰ってはいけません。 封面图片 (未找到链接)全部食べるまで帰ってはいけません。 (未找到链接)首发日期：未知 - うさみみよこんにちは2 封面图片 (未找到链接)うさみみよこんにちは2 (未找到链接)首发日期：未知 - 金のアレと銀のソレ 封面图片 (未找到链接)金のアレと銀のソレ (未找到链接)首发日期：未知 - 生彩エキスポ 封面图片 (未找到链接)生彩エキスポ (未找到链接)首发日期：未知 - [](./SCARECROWS.md)[SCARECROWS](./SCARECROWS.md)首发日期：2012-03-18 （天狗様のお仕事・三 (未找到链接)）漫画 （一般向） 32&#160;页羽衣同盟 封面图片 (未找到链接)羽衣同盟 (未找到链接)首发日期：未知 - 幻想郷植木まつり 封面图片 (未找到链接)幻想郷植木まつり (未找到链接)首发日期：未知 - 写らないンです。 封面图片 (未找到链接)写らないンです。 (未找到链接)首发日期：未知 - 不埒な悪行三昧! 封面图片 (未找到链接)不埒な悪行三昧! (未找到链接)首发日期：未知 - こころさんはご機嫌ななめ 封面图片 (未找到链接)こころさんはご機嫌ななめ (未找到链接)首发日期：未知 - はないちもんめ 封面图片 (未找到链接)はないちもんめ（LETRA） (未找到链接)首发日期：未知 - 花楽 封面图片 (未找到链接)花楽 (未找到链接)首发日期：未知 - 盗人と智者のお面 封面图片 (未找到链接)盗人と智者のお面 (未找到链接)首发日期：未知 - たゆたい 封面图片 (未找到链接)たゆたい (未找到链接)首发日期：未知 - [](./16777215.md)[16777215](./16777215.md)首发日期：2015-05-10 （第十二回 博麗神社例大祭 (未找到链接)）漫画 （一般向）该作品是与 [徒歩二分](./徒歩二分.md) 合作创作的B5&#160;尺寸 28&#160;页
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -98,6 +103,7 @@ DANSE MACABRE 封面图片 (未找到链接)DANSE MACABRE (未找到链接)首�
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 参展信息

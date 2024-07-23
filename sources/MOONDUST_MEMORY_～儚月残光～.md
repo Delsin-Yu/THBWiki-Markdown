@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-MOONDUST_MEMORY_～儚月残光～封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/c/c9/MOONDUST_MEMORY_%EF%BD%9E%E5%84%9A%E6%9C%88%E6%AE%8B%E5%85%89%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg/168px-MOONDUST_MEMORY_%EF%BD%9E%E5%84%9A%E6%9C%88%E6%AE%8B%E5%85%89%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="168" height="118" srcset="https://upload.thwiki.cc/thumb/c/c9/MOONDUST_MEMORY_%EF%BD%9E%E5%84%9A%E6%9C%88%E6%AE%8B%E5%85%89%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg/252px-MOONDUST_MEMORY_%EF%BD%9E%E5%84%9A%E6%9C%88%E6%AE%8B%E5%85%89%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/c/c9/MOONDUST_MEMORY_%EF%BD%9E%E5%84%9A%E6%9C%88%E6%AE%8B%E5%85%89%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg/336px-MOONDUST_MEMORY_%EF%BD%9E%E5%84%9A%E6%9C%88%E6%AE%8B%E5%85%89%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1200" data-file-height="846"></a><div class="cover-char">角色：<a href="./八云紫.md" title="八云紫">八云紫</a>，<a href="./八云蓝.md" title="八云蓝">八云蓝</a>，<a href="./八意永琳.md" title="八意永琳">八意永琳</a></div></td>
@@ -18,8 +19,10 @@ MOONDUST MEMORY ～儚月残光～（同人志，小豆粥，2009） - 2009年3�
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=237097">蜜瓜（电子书）</a></td></tr></tbody></table>
 
 
+
 ## Staff
 - 小豆長光 (未找到链接)
+
 
 ## 评论
 ```

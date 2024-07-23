@@ -4,14 +4,16 @@
 
 Bunbunmaru Extra 从2010年开始，在 拉丁美洲 举办的  东方同人创作活动，每年1-3次，目前共举办了14届
 
-本页是关于 **同人展会 (未找到链接)**   
-及 **相关活动 (未找到链接)** 的词条
+本页是关于 **[同人展会](./同人展会.md#展会类活动)**   
+及 **[相关活动](./相关活动.md)** 的词条
+
 ## 目录
 
 - [1 概述](#概述)
 - [2 历届信息](#历届信息)
 - [3 历届杂志封面](#历届杂志封面)
 - [4 注释](#注释)
+
 
 
 
@@ -23,7 +25,7 @@ Bunbunmaru Extra 从2010年开始，在 拉丁美洲 举办的  东方同人创�
   
   
   
-拉丁美洲 **** 线上的东方Project Only **同人创作类活动 (未找到链接)** 。  
+拉丁美洲 **** 线上的东方Project Only **同人[创作类活动](./创作类活动.md#创作类活动)** 。  
 东方Project Only西班牙语线上杂志，另外一些音乐社团也曾随刊物一同发布作品。历届刊物和音乐可从[官方博客](https://comunidadbunbunmaru.blogspot.com/p/blog-page_9.html)免费下载。  
   
 在线上举办，从2010年开始，每年1-3次，每次持续1天。  
@@ -37,6 +39,7 @@ Bunbunmaru Extra 从2010年开始，在 拉丁美洲 举办的  东方同人创�
 主办方： **Paradise of Boundaries** （[Paradise of Boundaries](./Paradise_of_Boundaries.md)）  
   
 Bunbunmaru EXTRA（活动，创作活动） - Bunbunmaru Extra 从2010年开始，在 拉丁美洲 举办的  东方同人创作活动，每年1-3次，目前共举办了14届
+
 ## 历届信息
 - 点击届数可进入对应分类页面。
 - 举办日期以当地日期为准。
@@ -59,6 +62,7 @@ Bunbunmaru EXTRA（活动，创作活动） - Bunbunmaru Extra 从2010年开始�
 <tr><td id="13"><b><a href="/展会作品列表?e=Bunbunmaru+EXTRA%2313">Bunbunmaru Extra 13</a></b></td><td id="ev-13">2020年08月17日</td><td><a rel="nofollow" class="external text" href="https://issuu.com/paradiseofboundaries/docs/bunbunmaru_extra_edici_n_no._133dfui">在线阅览地址</a></td></tr>
 <tr><td id="14"><b><a href="/展会作品列表?e=Bunbunmaru+EXTRA%2314">Bunbunmaru Extra 14</a></b></td><td id="ev-14">2021年09月04日</td><td><a rel="nofollow" class="external text" href="https://issuu.com/paradiseofboundaries/docs/bunbunmaru_extra_14">在线阅览地址</a></td></tr>
 </tbody></table>
+
 
 
 ## 历届杂志封面

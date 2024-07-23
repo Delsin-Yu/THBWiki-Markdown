@@ -4,6 +4,7 @@
 
 东方幕华祭制作组
 
+
 ## 音乐列表
 
 <table>
@@ -71,7 +72,7 @@
 </td></tr>
 <tr valign="top">
 <td colspan="3" style="padding:1em; padding-left:2em;" lang="zh" width="30%">
-<p>原曲：<a href="/%E3%83%AB%E3%83%BC%E3%83%8D%E3%82%A4%E3%83%88%E3%82%A8%E3%83%AB%E3%83%95" class="mw-redirect" title="ルーネイトエルフ">ルーネイトエルフ</a>
+<p>原曲：<a href="./ルーネイトエルフ.md" class="mw-redirect" title="ルーネイトエルフ">ルーネイトエルフ</a>
 </p><p>想要表现冰的质感所以用了清脆的乐器，整体也有着欢快的气氛
 </p>
 </td></tr></tbody></table>
@@ -89,7 +90,7 @@
 </td></tr>
 <tr valign="top">
 <td colspan="3" style="padding:1em; padding-left:2em;" lang="zh" width="30%">
-<p>原曲：<a href="/%E3%81%8A%E3%81%A6%E3%82%93%E3%81%B0%E6%81%8B%E5%A8%98" class="mw-redirect" title="おてんば恋娘">おてんば恋娘</a>
+<p>原曲：<a href="./おてんば恋娘.md" class="mw-redirect" title="おてんば恋娘">おてんば恋娘</a>
 </p><p>最强的家伙出现了！什么？！对方似乎也不好对付啊~
 </p><p>于是想描绘妖精努力战斗的场景
 </p>
@@ -108,7 +109,7 @@
 </td></tr>
 <tr valign="top">
 <td colspan="3" style="padding:1em; padding-left:2em;" lang="zh" width="30%">
-<p>原曲：<a href="/%E4%B8%8A%E6%B5%B7%E7%B4%85%E8%8C%B6%E9%A4%A8_%EF%BD%9E_Chinese_Tea" class="mw-redirect" title="上海紅茶館 ～ Chinese Tea">上海紅茶館　～ Chinese Tea</a>
+<p>原曲：<a href="./上海紅茶館_～_Chinese_Tea.md" class="mw-redirect" title="上海紅茶館 ～ Chinese Tea">上海紅茶館　～ Chinese Tea</a>
 </p><p>星空之下伴随着悠扬的曲调，气质十足
 </p><p>因为很想让中国传统的乐器出现所以变得十分中国风~
 </p>
@@ -127,7 +128,7 @@
 </td></tr>
 <tr valign="top">
 <td colspan="3" style="padding:1em; padding-left:2em;" lang="zh" width="30%">
-<p>原曲：<a href="/%E6%98%8E%E6%B2%BB%E5%8D%81%E4%B8%83%E5%B9%B4%E3%81%AE%E4%B8%8A%E6%B5%B7%E3%82%A2%E3%83%AA%E3%82%B9" class="mw-redirect" title="明治十七年の上海アリス">明治十七年の上海アリス</a>
+<p>原曲：<a href="./明治十七年の上海アリス.md" class="mw-redirect" title="明治十七年の上海アリス">明治十七年の上海アリス</a>
 </p><p>作为一个带有中国符号的人物，自然要将中国风进行下去！
 </p><p>其实和道中曲是一套的
 </p>
@@ -146,7 +147,7 @@
 </td></tr>
 <tr valign="top">
 <td colspan="3" style="padding:1em; padding-left:2em;" lang="zh" width="30%">
-<p>原曲：<a href="/%E3%83%B4%E3%83%AF%E3%83%AB%E9%AD%94%E6%B3%95%E5%9B%B3%E6%9B%B8%E9%A4%A8" class="mw-redirect" title="ヴワル魔法図書館">ヴワル魔法図書館</a>
+<p>原曲：<a href="./ヴワル魔法図書館.md" class="mw-redirect" title="ヴワル魔法図書館">ヴワル魔法図書館</a>
 </p><p>场景从室外转向室内，因此曲风也发生了变化
 </p><p>为了表现宏大的感觉采用了交响乐的风格
 </p>
@@ -183,7 +184,7 @@
 </td></tr>
 <tr valign="top">
 <td colspan="3" style="padding:1em; padding-left:2em;" lang="zh" width="30%">
-<p>原曲：<a href="/%E3%83%A1%E3%82%A4%E3%83%89%E3%81%A8%E8%A1%80%E3%81%AE%E6%87%90%E4%B8%AD%E6%99%82%E8%A8%88" class="mw-redirect" title="メイドと血の懐中時計">メイドと血の懐中時計</a>
+<p>原曲：<a href="./メイドと血の懐中時計.md" class="mw-redirect" title="メイドと血の懐中時計">メイドと血の懐中時計</a>
 </p><p>一直在用钢琴表现时间流动的感觉，同时也在提醒玩家进入了危险地带喔！
 </p>
 </td></tr></tbody></table>
@@ -237,7 +238,7 @@
 </td></tr>
 <tr valign="top">
 <td colspan="3" style="padding:1em; padding-left:2em;" lang="zh" width="30%">
-<p>原曲：<a href="/%E4%BA%A1%E3%81%8D%E7%8E%8B%E5%A5%B3%E3%81%AE%E7%82%BA%E3%81%AE%E3%82%BB%E3%83%97%E3%83%86%E3%83%83%E3%83%88" class="mw-redirect" title="亡き王女の為のセプテット">亡き王女の為のセプテット</a>
+<p>原曲：<a href="./亡き王女の為のセプテット.md" class="mw-redirect" title="亡き王女の為のセプテット">亡き王女の為のセプテット</a>
 </p><p>作为游戏的最终战，想要展现出史诗般的感觉
 </p><p>虽然被批评不适合在游戏时播放，但确实是一首很好的曲子不是吗
 </p>
@@ -256,7 +257,7 @@
 </td></tr>
 <tr valign="top">
 <td colspan="3" style="padding:1em; padding-left:2em;" lang="zh" width="30%">
-<p>原曲：<a href="/%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E9%81%94%E3%81%AE%E7%99%BE%E5%B9%B4%E7%A5%AD" class="mw-redirect" title="魔法少女達の百年祭">魔法少女達の百年祭</a>
+<p>原曲：<a href="./魔法少女達の百年祭.md" class="mw-redirect" title="魔法少女達の百年祭">魔法少女達の百年祭</a>
 </p><p>非常活泼的曲子呢（诶，是活泼吗？
 </p><p>感觉又有点让人不安，是在暗示什么呢
 </p>
@@ -275,7 +276,7 @@
 </td></tr>
 <tr valign="top">
 <td colspan="3" style="padding:1em; padding-left:2em;" lang="zh" width="30%">
-<p>原曲：<a href="/U.N.%E3%82%AA%E3%83%BC%E3%82%A8%E3%83%B3%E3%81%AF%E5%BD%BC%E5%A5%B3%E3%81%AA%E3%81%AE%E3%81%8B%EF%BC%9F" class="mw-redirect" title="U.N.オーエンは彼女なのか？">U.N.オーエンは彼女なのか？</a>
+<p>原曲：<a href="./U.N.オーエンは彼女なのか？.md" class="mw-redirect" title="U.N.オーエンは彼女なのか？">U.N.オーエンは彼女なのか？</a>
 </p><p>因为曲目的制作早于关卡设定，所以对名字不是很满意
 </p><p>但确实是很疯狂的一首曲子
 </p>
@@ -294,7 +295,7 @@
 </td></tr>
 <tr valign="top">
 <td colspan="3" style="padding:1em; padding-left:2em;" lang="zh" width="30%">
-<p>前段原曲：<a href="/%E7%B4%85%E6%A5%BC_%EF%BD%9E_Eastern_Dream..." class="mw-redirect" title="紅楼 ～ Eastern Dream...">紅楼　～ Eastern Dream...</a>
+<p>前段原曲：<a href="./紅楼_～_Eastern_Dream....md" class="mw-redirect" title="紅楼 ～ Eastern Dream...">紅楼　～ Eastern Dream...</a>
 </p><p>同时兼具改编和原创的曲子，描述着宴会即将开始的热闹景象
 </p><p>最后旋律戛然而止，其实是想说“未完待续”吗？
 </p>

@@ -4,7 +4,8 @@
 
 EL CASTILLO ，主要制作 同人志 的日本同人社团，主催是 Kukulcan，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -20,17 +21,21 @@ EL CASTILLO ，主要制作 同人志 的日本同人社团，主催是 Kukulcan
 
 
 
+
 ## 社团信息
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> EL CASTILLO </td></tr><tr><td><b>主要作品类型</b></td><td>同人志</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=Kukulcan&amp;action=edit&amp;redlink=1" class="new" title="Kukulcan（页面不存在）">Kukulcan</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr></tbody></table>
 
 EL CASTILLO（同人社团，同人志社团） - EL CASTILLO ，主要制作 同人志 的日本同人社团，主催是 Kukulcan，当前状态为 活动
+
 ## 成员名单
 - Kukulcan (未找到链接)
 
 : [Twitter: @kukul_can](https://twitter.com/kukul_can)
 
+
 ## 作品列表
+
 ### 同人志
 [](./秘封的幻想写真集_ヒフウグラフ.md)[秘封的幻想写真集　ヒフウグラフ](./秘封的幻想写真集_ヒフウグラフ.md)首发日期：2023-05-07 （第二十回 博麗神社例大祭 (未找到链接)）摄影集 （一般向）A5&#160;尺寸 24&#160;页[](./Travelling_Without_Moving_～秘封倶楽部と旅に出よう.md)[Travelling Without Moving 〜秘封倶楽部と旅に出よう](./Travelling_Without_Moving_～秘封倶楽部と旅に出よう.md)首发日期：2023-11-12 （第十回 博麗神社秋季例大祭 (未找到链接)）摄影集 （一般向）A5&#160;尺寸 40&#160;页[](./Fluffy_Fumo_Fantasy.md)[Fluffy Fumo Fantasy](./Fluffy_Fumo_Fantasy.md)首发日期：2024-05-03 （第二十一回 博麗神社例大祭 (未找到链接)）摄影集 （一般向）A5&#160;尺寸 30&#160;页
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -39,6 +44,7 @@ EL CASTILLO（同人社团，同人志社团） - EL CASTILLO ，主要制作 �
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 参展信息

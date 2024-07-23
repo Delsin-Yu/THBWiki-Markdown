@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 软件信息](#软件信息)
@@ -14,6 +15,7 @@
 - [4 评论](#评论)
 - [5 视频](#视频)
 - [6 注释](#注释)
+
 
 
 
@@ -36,6 +38,7 @@
 <tbody><tr><th colspan="2">配置需求</th></tr>
 <tr><td style="width:120px;padding-left:7px;"><b>操作系统</b></td><td>Windows 7（XP也可以）</td></tr><tr><td style="width:120px;padding-left:7px;"><b>CPU</b></td><td>i3以上</td></tr><tr><td style="width:120px;padding-left:7px;"><b>内存</b></td><td>2GB以上</td></tr>
 </tbody></table>
+
 
 
 ## Staff
@@ -131,6 +134,7 @@ ZUN
   
 
 
+
 ## 内容页面
 - 游戏设定与剧情 (未找到链接)
 - [系统说明](./さとりのアトリエ_-_アリスVSブラック人形帝国_--系统.md)
@@ -139,10 +143,12 @@ ZUN
 - 关卡要点说明 (未找到链接)
 - 其他信息 (未找到链接)
 
+
 ## 评论
   
 请尝试把相关补丁装好并使用applocale启动游戏。
   
+
 
 ## 视频
   

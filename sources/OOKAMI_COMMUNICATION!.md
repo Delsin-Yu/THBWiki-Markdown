@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-OOKAMI_COMMUNICATION!封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/f/f0/OOKAMI_COMMUNICATION%21%E5%B0%81%E9%9D%A2.jpg/139px-OOKAMI_COMMUNICATION%21%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="139" height="196" srcset="https://upload.thwiki.cc/thumb/f/f0/OOKAMI_COMMUNICATION%21%E5%B0%81%E9%9D%A2.jpg/208px-OOKAMI_COMMUNICATION%21%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/f/f0/OOKAMI_COMMUNICATION%21%E5%B0%81%E9%9D%A2.jpg/278px-OOKAMI_COMMUNICATION%21%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="851" data-file-height="1200"></a><div class="cover-char">角色：<a href="./若鹭姬.md" title="若鹭姬">若鹭姬</a>，<a href="./今泉影狼.md" title="今泉影狼">今泉影狼</a>，<a href="./蓬莱山辉夜.md" title="蓬莱山辉夜">蓬莱山辉夜</a>，<a href="./铃仙·优昙华院·因幡.md" title="铃仙·优昙华院·因幡">铃仙·优昙华院·因幡</a>，<a href="./因幡帝.md" title="因幡帝">因幡天为</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/74555372">https://www.pixiv.net/artworks/74555372</a></td></tr></tbody></table>
 
 OOKAMI COMMUNICATION!（同人志，RUMP，2019） - 2019年5月5日 由 RUMP 于 博丽神社例大祭16 发布的漫画同人志，一共12页，登场人物有 若鹭姬、今泉影狼，分级为 一般向
+
 ## Staff
 - 凡
+
 
 ## 评论
   

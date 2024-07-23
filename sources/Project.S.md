@@ -4,8 +4,9 @@
 
 Project.S 在 日本东京、横滨 举办的  东方同人LIVE活动，目前共举办了6届
 
-本页是关于 **同人展会 (未找到链接)**   
-及 **相关活动 (未找到链接)** 的词条
+本页是关于 **[同人展会](./同人展会.md#展会类活动)**   
+及 **[相关活动](./相关活动.md)** 的词条
+
 ## 目录
 
 - [1 概述](#概述)
@@ -24,6 +25,7 @@ Project.S 在 日本东京、横滨 举办的  东方同人LIVE活动，目前�
 
 
 - [6 注释](#注释)
+
 
 
 
@@ -53,13 +55,14 @@ Project.S 在 日本东京、横滨 举办的  东方同人LIVE活动，目前�
   
   
   
-日本 **东京、横滨** 的东方Project Only **同人拼盘LIVE类活动 (未找到链接)** 。  
+日本 **东京、横滨** 的东方Project Only **同人拼盘[LIVE类活动](./LIVE类活动.md#LIVE类活动)** 。  
   
 在东京、横滨举办。  
   
   
 此活动在2008年至2017年间共举办了6届，之后未再举办。  
 Project.S（活动，LIVE活动） - Project.S 在 日本东京、横滨 举办的  东方同人LIVE活动，目前共举办了6届
+
 ## 历届信息
 - 点击届数可进入对应分类页面。
 - 举办日期以当地日期为准。
@@ -76,11 +79,14 @@ Project.S（活动，LIVE活动） - Project.S 在 日本东京、横滨 举办�
 </tbody></table>
 
 
+
 ## 作品列表
+
 ### 同人专辑
 [](./Project.S_2nd_Stage.md)[Project.S 2nd Stage](./Project.S_2nd_Stage.md)首发日期：2009-05-24 （Project.S2nd stage (未找到链接)）Omake （一般向）
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
 </table>
+
 
 
 ## 演出社团及人员
@@ -102,10 +108,12 @@ Project.S 5th stage
 Project.S 6th stage
 : [SOUND HOLIC](./SOUND_HOLIC.md)、[Silver Forest](./Silver_Forest.md)、[SYNC.ART'S](./SYNC.ART'S.md)、[石鹸屋](./石鹸屋.md)
 
+
 ## 历届宣传图
   
 网站首页使用的作为顶图或宣传图片的图片。
   
+
 
 ### 第一届至第六届
 - [](./文件-Project.S1.jpg.md)第1届- [](./文件-Project.S5.jpg.md)第5届- [](./文件-Project.S6.jpg.md)第6届

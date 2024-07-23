@@ -4,7 +4,8 @@
 
 Merry Mellow ，于 2022 年成立，主要制作 同人音乐，周边 的中国大陆同人社团，主催是 金森めい，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -22,12 +23,14 @@ Merry Mellow ，于 2022 年成立，主要制作 同人音乐，周边 的中�
 
 
 
+
 ## 社团信息
 [](./文件-Merry_MellowLOGO.jpg.md)  [](./文件-Merry_MellowLOGO.jpg.md)LOGO
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Merry Mellow </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐，周边</td></tr><tr><td><b>成立时间</b></td><td>2022-06-20</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="./金森めい.md" title="金森めい">金森めい</a> </td></tr><tr><td><b>地区</b></td><td>中国大陆</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="https://space.bilibili.com/2074928787/">https://space.bilibili.com/2074928787/</a> <br><a rel="nofollow" class="external free" href="https://www.dizzylab.net/l/Merry Mellow/">https://www.dizzylab.net/l/Merry%20Mellow/</a></td></tr></tbody></table>
 
 Merry Mellow（同人社团，同人音乐社团，周边社团） - Merry Mellow ，于 2022 年成立，主要制作 同人音乐，周边 的中国大陆同人社团，主催是 金森めい，当前状态为 活动
+
 ## 社团简介
 
   
@@ -39,12 +42,15 @@ Merry Mellow（同人社团，同人音乐社团，周边社团） - Merry Mello
   
 
 
+
 ## 成员名单
 - [金森めい](./金森めい.md)：Vocal，作词，illustration
 - [佑米iumi](./佑米iumi.md)：Vocal，illustration
 - こん (未找到链接)：Vocal
 
+
 ## 作品列表
+
 ### 同人专辑
 [](./キャッツポップダンシング♪.md)[キャッツポップダンシング♪](./キャッツポップダンシング♪.md)首发日期：2022-07-23 （COMICUPOnline2 (未找到链接)）MRSN-01单曲 （一般向）无实体，CPO2限定通贩[](./Convallaria..md)[Convallaria.](./Convallaria..md)首发日期：2022-08-20 （COMICUP2022SP (未找到链接)）MRML-01EP （一般向）附首刷特典A4文件夹、通贩限定特典5cm圆形贴纸/会场限定58mm爱心膜徽章  
 购入[Cat's Pop Dancing](./キャッツポップダンシング♪.md)后购买此专辑可领取替换封面一张[](./Persica..md)[Persica.](./Persica..md)首发日期：2023-05-02 （COMICUP29 (未找到链接)）MRML-02EP （一般向）附特典A4文件夹、58mm爱心膜徽章[](./Merry_Mellow_Melody_vol.01.md)[Merry Mellow Melody vol.01](./Merry_Mellow_Melody_vol.01.md)首发日期：2023-07-20 MRAN-01EP （一般向）[](./Myosotis..md)[Myosotis.](./Myosotis..md)首发日期：2023-08-12 （COMIDAY26 (未找到链接)）MRML-03EP （一般向）限定盘封面为阿求，且第一首合唱为通常盘的分词互换版本  
@@ -71,6 +77,7 @@ Merry Mellow（同人社团，同人音乐社团，周边社团） - Merry Mello
 </table>
 
 
+
 ### 同人周边
 [](./Merry_Mellow-咖啡厅联动风亚克力_红魔乡篇.md)[Merry Mellow/咖啡厅联动风亚克力 红魔乡篇](./Merry_Mellow-咖啡厅联动风亚克力_红魔乡篇.md)首发日期：2022-08-20 （COMICUP2022SP (未找到链接)）挂件、​立牌 （一般向）立牌7cm 挂件6cm单面  
 立牌底座带印刷、钥匙扣为金色爱心型[](./Merry_Mellow-咖啡厅联动风亚克力_妖妖梦篇.md)[Merry Mellow/咖啡厅联动风亚克力 妖妖梦篇](./Merry_Mellow-咖啡厅联动风亚克力_妖妖梦篇.md)首发日期：2022-08-20 （COMICUP2022SP (未找到链接)）挂件、​立牌 （一般向）立牌7cm 挂件6cm单面  
@@ -93,6 +100,7 @@ Merry Mellow（同人社团，同人音乐社团，周边社团） - Merry Mello
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 参展信息

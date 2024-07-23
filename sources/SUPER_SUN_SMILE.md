@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-SUPER_SUN_SMILE封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/b/b2/SUPER_SUN_SMILE%E5%B0%81%E9%9D%A2.png/100px-SUPER_SUN_SMILE%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="100" height="140" srcset="https://upload.thwiki.cc/thumb/b/b2/SUPER_SUN_SMILE%E5%B0%81%E9%9D%A2.png/150px-SUPER_SUN_SMILE%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/b/b2/SUPER_SUN_SMILE%E5%B0%81%E9%9D%A2.png/200px-SUPER_SUN_SMILE%E5%B0%81%E9%9D%A2.png 2x" data-file-width="647" data-file-height="906"></a><div class="cover-char">角色：<a href="./斯塔萨菲雅.md" title="斯塔萨菲雅">斯塔萨菲雅</a>，<a href="./露娜切露德.md" title="露娜切露德">露娜切露德</a>，<a href="./桑尼米尔克.md" title="桑尼米尔克">桑尼米尔克</a></div></td>
@@ -14,9 +15,12 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/56671565">https://www.pixiv.net/artworks/56671565</a></td></tr></tbody></table>
 
 SUPER SUN SMILE（同人志，サルネスコ，2016） - 2016年5月8日 由 サルネスコ 于 博丽神社例大祭13 发布的漫画同人志，登场人物有 斯塔萨菲雅、露娜切露德、桑尼米尔克，分级为 一般向
+
 ## 预览
+
 ## Staff
 - AJIA (未找到链接)
+
 
 ## 评论
 

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Magia_Magic_～_魔法少女達の百年祭封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/9/97/Magia_Magic_%EF%BD%9E_%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E9%81%94%E3%81%AE%E7%99%BE%E5%B9%B4%E7%A5%AD%E5%B0%81%E9%9D%A2.jpg/252px-Magia_Magic_%EF%BD%9E_%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E9%81%94%E3%81%AE%E7%99%BE%E5%B9%B4%E7%A5%AD%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="252" srcset="https://upload.thwiki.cc/thumb/9/97/Magia_Magic_%EF%BD%9E_%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E9%81%94%E3%81%AE%E7%99%BE%E5%B9%B4%E7%A5%AD%E5%B0%81%E9%9D%A2.jpg/378px-Magia_Magic_%EF%BD%9E_%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E9%81%94%E3%81%AE%E7%99%BE%E5%B9%B4%E7%A5%AD%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/9/97/Magia_Magic_%EF%BD%9E_%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E9%81%94%E3%81%AE%E7%99%BE%E5%B9%B4%E7%A5%AD%E5%B0%81%E9%9D%A2.jpg/504px-Magia_Magic_%EF%BD%9E_%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E9%81%94%E3%81%AE%E7%99%BE%E5%B9%B4%E7%A5%AD%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1736" data-file-height="1736"></a><div class="cover-char">角色：<a href="/index.php?title=%E9%B9%BF%E7%9B%AE%E5%9C%86&amp;action=edit&amp;redlink=1" class="new" title="鹿目圆（页面不存在）">鹿目圆</a></div></td>
@@ -18,6 +19,7 @@ Magia Magic ～ 魔法少女達の百年祭（同人专辑，夢想夏月郷，2
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=492592">蜜瓜</a>，<a rel="nofollow" class="external text" href="https://mazyu.booth.pm/items/1997494">Booth</a></td></tr></tbody></table>
 
 
+
 ## Staff
   
  **Compose**   
@@ -27,6 +29,7 @@ Magia Magic ～ 魔法少女達の百年祭（同人专辑，夢想夏月郷，2
 
 Design
 : [翡翠（人物）](./翡翠（人物）.md)
+
 
 ## 试听
   
@@ -47,6 +50,7 @@ Design
 </td></tr></tbody></table>
 
 
+
 ## 曲目列表
 
 <table><tbody><tr><td id="1" class="infoYL"><b>01</b></td><td id="出会いと始まりの魔法乙女" colspan="2" class="title">出会いと始まりの魔法乙女<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=NED&amp;fromwiki=Magia_Magic_～_魔法少女達の百年祭"><span title="搜索相似同人曲"></span></a></span></td><td class="time">02:44</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./NED.md" title="NED">NED</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，NED&amp;fromwiki=Magia_Magic_～_魔法少女達の百年祭"><span></span></a></span></td></tr>
@@ -65,6 +69,7 @@ Design
 <tr><td id="14" class="infoYL"><b>14</b></td><td id="平安の魔術師" colspan="2" class="title">平安の魔術師<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=わほた&amp;fromwiki=Magia_Magic_～_魔法少女達の百年祭"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:44</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=%E3%82%8F%E3%81%BB%E3%81%9F&amp;action=edit&amp;redlink=1" class="new" title="わほた（页面不存在）">わほた</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，わほた&amp;fromwiki=Magia_Magic_～_魔法少女達の百年祭"><span></span></a></span></td></tr>
 <tr><td id="15" class="infoYL"><b>15</b></td><td id="忘れられた魔法の詩_～_Fairyland" colspan="2" class="title">忘れられた魔法の詩 ～ Fairyland<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=風雲師匠&amp;fromwiki=Magia_Magic_～_魔法少女達の百年祭"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:22</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=%E9%A2%A8%E9%9B%B2%E5%B8%AB%E5%8C%A0&amp;action=edit&amp;redlink=1" class="new" title="風雲師匠（页面不存在）">風雲師匠</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，風雲師匠&amp;fromwiki=Magia_Magic_～_魔法少女達の百年祭"><span></span></a></span></td></tr>
 <tr><td id="16" class="infoYL"><b>16</b></td><td id="涙_～_Puella_Magi_of_Tears" colspan="2" class="title">涙 ～ Puella Magi of Tears<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=翡翠（人物）&amp;fromwiki=Magia_Magic_～_魔法少女達の百年祭"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:45</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./翡翠（人物）.md" title="翡翠（人物）">翡翠（人物）</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，翡翠（人物）&amp;fromwiki=Magia_Magic_～_魔法少女達の百年祭"><span></span></a></span></td></tr></tbody></table>
+
 
 
 ## 评论

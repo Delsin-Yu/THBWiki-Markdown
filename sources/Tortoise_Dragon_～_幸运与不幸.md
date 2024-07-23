@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -36,11 +37,13 @@
 
 
 
+
 ## 基本信息
 
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">トータスドラゴン　～ 幸運と不運</td></tr><tr><td><b>译名</b></td><td>Tortoise Dragon ～ 幸运与不幸</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 Tortoise Dragon ～ 幸运与不幸（曲目） - 由 ZUN 创作的官方曲目，原名 トータスドラゴン　～ 幸運と不運
+
 ## 出现作品
 
 <table>
@@ -49,7 +52,9 @@ Tortoise Dragon ～ 幸运与不幸（曲目） - 由 ZUN 创作的官方曲目�
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 东方鬼形兽
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th17_09.mp3.md" title="文件:th17 09.mp3">th17_09.mp3</a><br><audio src="https://upload.thwiki.cc/8/89/th17_09.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>BGM\th17_09.wav</td></tr><tr><td><b>BGMForAll</b></td><td><div class="mw-collapsible mw-collapsed">
@@ -58,6 +63,7 @@ Tortoise Dragon ～ 幸运与不幸（曲目） - 由 ZUN 创作的官方曲目�
 <div class="mw-collapsible-content">BGM = トータスドラゴン　～ 幸運と不運,0xB6604F8 ,0x59A80 ,0xB6B9F78 ,0x1C01540</div>
 </div>
 </td></tr></tbody></table>
+
 
 
 ### 东方兽王园
@@ -70,7 +76,9 @@ Tortoise Dragon ～ 幸运与不幸（曲目） - 由 ZUN 创作的官方曲目�
 </td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 东方鬼形兽
 - Music Room (未找到链接)
 
@@ -80,14 +88,18 @@ Tortoise Dragon ～ 幸运与不幸（曲目） - 由 ZUN 创作的官方曲目�
 　这首曲子也能同时感受到帅气和可爱、轻快与厚重，  
 　是一首奇妙的曲子。  
 　她算是这款游戏的关键人物之一，所以虽然才到游戏中盘，曲子稍微热烈一些。
+
 ### 东方兽王园
 - Music Room (未找到链接)
 
 　吉吊八千慧的主题曲。  
 　  
 　重编自鬼形兽曲目。
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
   
  **トータスドラゴン　～ 幸運と不運**  Tortoise Dragon　～ 幸运与不幸
@@ -115,6 +127,7 @@ Tortoise Dragon ～ 幸运与不幸（曲目） - 由 ZUN 创作的官方曲目�
 
 
 - [](./文件-吉吊龙神卡片.jpg.md)吉吊龙神卡片- [](./文件-打开幸福之门的龙神卡片.jpg.md)《打开幸福之门的龙神卡片》（幸せと豊かさへの扉を開く 龍神カード）封面
+
 
 ### 二次同人数据
 

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Only_With_Paper_Moon封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/f/f1/Only_With_Paper_Moon%E5%B0%81%E9%9D%A2.jpg/119px-Only_With_Paper_Moon%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="119" height="168" srcset="https://upload.thwiki.cc/thumb/f/f1/Only_With_Paper_Moon%E5%B0%81%E9%9D%A2.jpg/178px-Only_With_Paper_Moon%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/f/f1/Only_With_Paper_Moon%E5%B0%81%E9%9D%A2.jpg/238px-Only_With_Paper_Moon%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1450" data-file-height="2048"></a><div class="cover-char">角色：<a href="./封兽鵺.md" title="封兽鵺">封兽鵺</a></div></td>
@@ -18,9 +19,12 @@ Only With Paper Moon（同人志，タケヤブドクター，2021） - 2021年3
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://yabuharasenzai.booth.pm/items/2847866">Booth</a></td></tr></tbody></table>
 
 
+
 ## 预览
+
 ## Staff
 - 薮原洗剤 (未找到链接)
+
 
 ## 评论
 

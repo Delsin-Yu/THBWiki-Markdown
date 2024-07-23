@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-新刊見事に落ちちゃってほんとすいません的CD封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/6/6b/%E6%96%B0%E5%88%8A%E8%A6%8B%E4%BA%8B%E3%81%AB%E8%90%BD%E3%81%A1%E3%81%A1%E3%82%83%E3%81%A3%E3%81%A6%E3%81%BB%E3%82%93%E3%81%A8%E3%81%99%E3%81%84%E3%81%BE%E3%81%9B%E3%82%93%E7%9A%84CD%E5%B0%81%E9%9D%A2.jpg/224px-%E6%96%B0%E5%88%8A%E8%A6%8B%E4%BA%8B%E3%81%AB%E8%90%BD%E3%81%A1%E3%81%A1%E3%82%83%E3%81%A3%E3%81%A6%E3%81%BB%E3%82%93%E3%81%A8%E3%81%99%E3%81%84%E3%81%BE%E3%81%9B%E3%82%93%E7%9A%84CD%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="224" srcset="https://upload.thwiki.cc/thumb/6/6b/%E6%96%B0%E5%88%8A%E8%A6%8B%E4%BA%8B%E3%81%AB%E8%90%BD%E3%81%A1%E3%81%A1%E3%82%83%E3%81%A3%E3%81%A6%E3%81%BB%E3%82%93%E3%81%A8%E3%81%99%E3%81%84%E3%81%BE%E3%81%9B%E3%82%93%E7%9A%84CD%E5%B0%81%E9%9D%A2.jpg/335px-%E6%96%B0%E5%88%8A%E8%A6%8B%E4%BA%8B%E3%81%AB%E8%90%BD%E3%81%A1%E3%81%A1%E3%82%83%E3%81%A3%E3%81%A6%E3%81%BB%E3%82%93%E3%81%A8%E3%81%99%E3%81%84%E3%81%BE%E3%81%9B%E3%82%93%E7%9A%84CD%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/6/6b/%E6%96%B0%E5%88%8A%E8%A6%8B%E4%BA%8B%E3%81%AB%E8%90%BD%E3%81%A1%E3%81%A1%E3%82%83%E3%81%A3%E3%81%A6%E3%81%BB%E3%82%93%E3%81%A8%E3%81%99%E3%81%84%E3%81%BE%E3%81%9B%E3%82%93%E7%9A%84CD%E5%B0%81%E9%9D%A2.jpg/447px-%E6%96%B0%E5%88%8A%E8%A6%8B%E4%BA%8B%E3%81%AB%E8%90%BD%E3%81%A1%E3%81%A1%E3%82%83%E3%81%A3%E3%81%A6%E3%81%BB%E3%82%93%E3%81%A8%E3%81%99%E3%81%84%E3%81%BE%E3%81%9B%E3%82%93%E7%9A%84CD%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="511" data-file-height="512"></a><div class="cover-char">角色：<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a></div></td>
@@ -14,16 +15,19 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://siestail.net/">http://siestail.net/</a></td></tr></tbody></table>
 
 新刊見事に落ちちゃってほんとすいません的CD（同人专辑，Siestail，2011） - 2011年6月26日 由 Siestail 于 恋爱的魔法就交给魔理沙吧！3 发布的Demo同人专辑，分级为 一般向
+
 ## Staff
   
  **Arrangement**   
 
-<table><tbody><tr><td><a href="./すぺらんかー.md" title="すぺらんかー">すぺらんかー</a></td><td><a href="/SiesTail" class="mw-redirect" title="SiesTail">SiesTail</a></td><td>Tr.1</td></tr></tbody></table>
+<table><tbody><tr><td><a href="./すぺらんかー.md" title="すぺらんかー">すぺらんかー</a></td><td><a href="./SiesTail.md" class="mw-redirect" title="SiesTail">SiesTail</a></td><td>Tr.1</td></tr></tbody></table>
+
 
 
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="へなちょこマホウのくに(DEMO)" colspan="2" class="title">へなちょこマホウのくに(DEMO)<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=すぺらんかー&amp;ogmusic=恋色マスタースパーク&amp;fromwiki=新刊見事に落ちちゃってほんとすいません的CD"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:06</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./すぺらんかー.md" title="すぺらんかー">すぺらんかー</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，すぺらんかー&amp;fromwiki=新刊見事に落ちちゃってほんとすいません的CD"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=恋色マスタースパーク&amp;fromwiki=新刊見事に落ちちゃってほんとすいません的CD"><span></span></a></span><div class="ogmusic"><a href="/%E6%81%8B%E8%89%B2%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%B9%E3%83%91%E3%83%BC%E3%82%AF" class="mw-redirect" title="恋色マスタースパーク">恋色マスタースパーク</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E6%B0%B8%E5%A4%9C%E6%8A%84_%EF%BD%9E_Imperishable_Night." class="mw-redirect" title="东方永夜抄 ～ Imperishable Night.">东方永夜抄　～ Imperishable Night.</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="へなちょこマホウのくに(DEMO)" colspan="2" class="title">へなちょこマホウのくに(DEMO)<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=すぺらんかー&amp;ogmusic=恋色マスタースパーク&amp;fromwiki=新刊見事に落ちちゃってほんとすいません的CD"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:06</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./すぺらんかー.md" title="すぺらんかー">すぺらんかー</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，すぺらんかー&amp;fromwiki=新刊見事に落ちちゃってほんとすいません的CD"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=恋色マスタースパーク&amp;fromwiki=新刊見事に落ちちゃってほんとすいません的CD"><span></span></a></span><div class="ogmusic"><a href="./恋色マスタースパーク.md" class="mw-redirect" title="恋色マスタースパーク">恋色マスタースパーク</a></div><div class="source"><a href="./东方永夜抄_～_Imperishable_Night..md" class="mw-redirect" title="东方永夜抄 ～ Imperishable Night.">东方永夜抄　～ Imperishable Night.</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

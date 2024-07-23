@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-SNS_TOUHOU_2封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/7/71/SNS_TOUHOU_2%E5%B0%81%E9%9D%A2.jpg/139px-SNS_TOUHOU_2%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="139" height="196" srcset="https://upload.thwiki.cc/thumb/7/71/SNS_TOUHOU_2%E5%B0%81%E9%9D%A2.jpg/208px-SNS_TOUHOU_2%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/7/71/SNS_TOUHOU_2%E5%B0%81%E9%9D%A2.jpg/278px-SNS_TOUHOU_2%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="850" data-file-height="1200"></a><div class="cover-char">角色：<a href="./魂魄妖梦.md" title="魂魄妖梦">魂魄妖梦</a>，<a href="./铃仙·优昙华院·因幡.md" title="铃仙·优昙华院·因幡">铃仙·优昙华院·因幡</a>，<a href="./琪露诺.md" title="琪露诺">琪露诺</a>，<a href="./西行寺幽幽子.md" title="西行寺幽幽子">西行寺幽幽子</a></div></td>
@@ -18,8 +19,10 @@ SNS TOUHOU 2（同人志，Rainbow Vanilla，2020） - 2020年10月11日 由 Rai
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=732050">蜜瓜（单卖）</a>，<a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=738625">蜜瓜（set）</a>，<a rel="nofollow" class="external text" href="https://ec.toranoana.jp/tora_r/ec/item/040030863991">虎穴</a></td></tr></tbody></table>
 
 
+
 ## Staff
 - [祭唄](./祭唄.md)
+
 
 ## 评论
 

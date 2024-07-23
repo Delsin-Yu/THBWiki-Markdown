@@ -4,7 +4,8 @@
 
 TEAM AMULET（あみゅれっとぉ。） ，于 2008 年成立，主要制作 同人音乐 的日本同人社团，主催是 夕凪晴喜，当前状态为 休止
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -20,16 +21,20 @@ TEAM AMULET（あみゅれっとぉ。） ，于 2008 年成立，主要制作 �
 
 
 
+
 ## 社团信息
 [](./文件-TEAM_AMULETbanner.jpg.md)  [](./文件-TEAM_AMULETbanner.jpg.md)banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> TEAM AMULET（あみゅれっとぉ。） </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2008</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=%E5%A4%95%E5%87%AA%E6%99%B4%E5%96%9C&amp;action=edit&amp;redlink=1" class="new" title="夕凪晴喜（页面不存在）">夕凪晴喜</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://aoiro.yu-nagi.com">http://aoiro.yu-nagi.com</a> （最后更新于2013年）</td></tr></tbody></table>
 
 TEAM AMULET（同人社团，同人音乐社团） - TEAM AMULET（あみゅれっとぉ。） ，于 2008 年成立，主要制作 同人音乐 的日本同人社团，主催是 夕凪晴喜，当前状态为 休止
+
 ## 成员名单
 - 夕凪晴喜 (未找到链接)
 
+
 ## 作品列表
+
 ### 同人专辑
 [](./大吟醸かぜはふり.md)[大吟醸かぜはふり](./大吟醸かぜはふり.md)首发日期：2009-12-30 （Comic Market 77 (未找到链接)）CNAM-0001全长 （一般向）该作品是与 [ココナツプリン](./ココナツプリン.md) 合作创作的以ココナツあみゅれっとぉ的名义发布。[](./The_Grimoire_of_Marionettes.md)[The Grimoire of Marionettes](./The_Grimoire_of_Marionettes.md)首发日期：2010-03-14 （第七回 博麗神社例大祭 (未找到链接)）AMCD-0001全长 （一般向）全11曲+EX曲2・合計13曲[](./Stella_ステラ.md)[Stella ステラ](./Stella_ステラ.md)首发日期：2011-05-08 （第八回 博麗神社例大祭 (未找到链接)）AMCD-0002全长 （一般向）[](./Spica_-Electronic_orchestra-.md)[Spica -Electronic orchestra-](./Spica_-Electronic_orchestra-.md)首发日期：2012-05-27 （第九回 博麗神社例大祭 (未找到链接)）AMCD-0003全长 （一般向）
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -42,6 +47,7 @@ TEAM AMULET（同人社团，同人音乐社团） - TEAM AMULET（あみゅれ�
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 参展信息

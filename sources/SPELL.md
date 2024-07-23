@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人连载 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 概述](#概述)
@@ -20,6 +21,7 @@
 - [5 其他](#其他)
 - [6 外部链接](#外部链接)
 - [7 注释](#注释)
+
 
 
 
@@ -45,11 +47,14 @@ SPELL
 </tr><tr><td><b>连载日期</b></td><td>2024年1月至今</td></tr><tr><td><b>单行本出版社</b></td><td>角川集团</td></tr><tr><td><b>作者</b></td><td><a href="./あずまあや.md" title="あずまあや">あずまあや</a></td></tr><tr><td><b>插画</b></td><td><a href="./あずまあや.md" title="あずまあや">あずまあや</a></td></tr><tr><td><b>类型</b></td><td>漫画</td></tr><tr><td><b>大小</b></td><td>A5</td></tr><tr><td><b>话数</b></td><td>至今已连载5话</td></tr><tr><td><b>附属</b></td><td><a href="/index.php?title=SPELL/%E7%89%B9%E5%85%B8&amp;action=edit&amp;redlink=1" class="new" title="SPELL/特典（页面不存在）">附赠特典</a></td></tr></tbody></table>
 
 SPELL（官方书籍） - 漫画家あずまあや作画的二次创作漫画。
+
 ## 相关信息
+
 ### 我乐多丛志网站介绍
   
 幻想乡，一个人类与非人类和谐共处的理想乐园。身为守护者的年幼巫女，已经厌倦了波澜不惊的无聊日子。直到有一天，吸血鬼从外面世界来到了这里……。这是在符卡规则出现前的，幻想乡的秘密故事。
   
+
 
 ## 主要角色
 
@@ -117,6 +122,7 @@ SPELL（官方书籍） - 漫画家あずまあや作画的二次创作漫画。
 </td></tr></tbody></table>
 
 
+
 ## 连载页面
   
  **漫画的在线观看，均外链至喵玉殿（中译版）及[东方我乐多丛志](https://touhougarakuta.com/index_comic/spell/)，[ComicWalker](https://comic-walker.com/detail/KC_002938_S/)，[NICONICO静画](https://seiga.nicovideo.jp/comic/65764/)中的对应页面。** 
@@ -157,9 +163,11 @@ SPELL（官方书籍） - 漫画家あずまあや作画的二次创作漫画。
 </td></tr></tbody></table>
 
 
+
 ## 其他
 - 其他相关信息 (未找到链接)
 - 分析与考据 (未找到链接)
+
 
 ## 外部链接
 

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-TOHO_Autumn_Winter_東方秋冬服合同封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/1/1f/TOHO_Autumn_Winter_%E6%9D%B1%E6%96%B9%E7%A7%8B%E5%86%AC%E6%9C%8D%E5%90%88%E5%90%8C%E5%B0%81%E9%9D%A2.jpg/160px-TOHO_Autumn_Winter_%E6%9D%B1%E6%96%B9%E7%A7%8B%E5%86%AC%E6%9C%8D%E5%90%88%E5%90%8C%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="160" height="224" srcset="https://upload.thwiki.cc/thumb/1/1f/TOHO_Autumn_Winter_%E6%9D%B1%E6%96%B9%E7%A7%8B%E5%86%AC%E6%9C%8D%E5%90%88%E5%90%8C%E5%B0%81%E9%9D%A2.jpg/240px-TOHO_Autumn_Winter_%E6%9D%B1%E6%96%B9%E7%A7%8B%E5%86%AC%E6%9C%8D%E5%90%88%E5%90%8C%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/1/1f/TOHO_Autumn_Winter_%E6%9D%B1%E6%96%B9%E7%A7%8B%E5%86%AC%E6%9C%8D%E5%90%88%E5%90%8C%E5%B0%81%E9%9D%A2.jpg/320px-TOHO_Autumn_Winter_%E6%9D%B1%E6%96%B9%E7%A7%8B%E5%86%AC%E6%9C%8D%E5%90%88%E5%90%8C%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="643" data-file-height="900"></a><div class="cover-char">角色：<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a>，<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></div></td>
@@ -15,6 +16,7 @@
 TOHO Autumn Winter 東方秋冬服合同（同人志，kuronecoarts，2018） - 2018年10月14日 由 kuronecoarts 于 博丽神社秋季例大祭5 发布的合同志/画集同人志，B5尺寸一共20页，登场人物有 雾雨魔理沙、博丽灵梦，分级为 一般向
 
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=510292">蜜瓜</a></td></tr></tbody></table>
+
 
 
 ## Staff
@@ -28,6 +30,7 @@ TOHO Autumn Winter 東方秋冬服合同（同人志，kuronecoarts，2018） - 
 - 咲桜ゆと (未找到链接)
 - 萌香 (未找到链接)
 - [coa](./coa.md)
+
 
 ## 评论
   

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -37,11 +38,13 @@
 
 
 
+
 ## 基本信息
 
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">Crescent Dream</td></tr><tr><td><b>译名</b></td><td>Crescent Dream</td></tr><tr><td><b>其他译名</b></td><td>月牙之梦<br>新月之梦</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 Crescent Dream（曲目） - 由 ZUN 创作的官方曲目，原名 Crescent Dream
+
 ## 出现作品
 
 <table>
@@ -50,7 +53,9 @@ Crescent Dream（曲目） - 由 ZUN 创作的官方曲目，原名 Crescent Dre
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 东方怪绮谈
   
 YM2203(OPN)，FM26K音源版。
@@ -68,12 +73,15 @@ YM2608(OPNA)，FM86音源版。
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th05_G_28_86.ogg.md" title="文件:th05 G 28 86.ogg">th05_G_28_86.ogg</a><br><audio src="https://upload.thwiki.cc/2/2b/th05_G_28_86.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>G_NG05.M2</td></tr><tr><td><b>音轨时长</b></td><td>2:08.512</td></tr></tbody></table>
 
 
+
 ### 幺乐团的历史 vol.1
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-ha01b_13.mp3.md" title="文件:ha01b 13.mp3">ha01b_13.mp3</a><br><audio src="https://upload.thwiki.cc/1/19/ha01b_13.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track13.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>2:42</td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 东方幻想乡体验版
 - Music Room (未找到链接)
 
@@ -82,6 +90,7 @@ YM2608(OPNA)，FM86音源版。
 制作人员名单主题曲果然要帅气点(你除了这个还能说什么(^^;)  
 不过，说到这首曲子的话，应该说是十足的和风。嘛，虽然我不知道和风是什么东西・・  
 (不过，自不用说，我做的不是侍魂[^cite_note-1]那样的曲子，不要见怪啊。要说像谁的话，还是像姬神[^cite_note-2]的曲子呢)
+
 ### 东方怪绮谈
 - Music Room (未找到链接)
 
@@ -92,8 +101,11 @@ YM2608(OPNA)，FM86音源版。
 ＺＵＮ（太田）  
 Staff画面曲。  
 说不定已经到极限了
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
   
  **Crescent Dream** 
@@ -114,6 +126,7 @@ Staff画面曲。
   - staff界面曲
     - 完结是新的梦的开始？
     - 新月是夜晚的开端？
+
 
 
 

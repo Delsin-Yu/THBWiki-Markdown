@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-そだね～CD封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/0/01/%E3%81%9D%E3%81%A0%E3%81%AD%EF%BD%9ECD%E5%B0%81%E9%9D%A2.jpg/224px-%E3%81%9D%E3%81%A0%E3%81%AD%EF%BD%9ECD%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="224" srcset="https://upload.thwiki.cc/thumb/0/01/%E3%81%9D%E3%81%A0%E3%81%AD%EF%BD%9ECD%E5%B0%81%E9%9D%A2.jpg/336px-%E3%81%9D%E3%81%A0%E3%81%AD%EF%BD%9ECD%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/0/01/%E3%81%9D%E3%81%A0%E3%81%AD%EF%BD%9ECD%E5%B0%81%E9%9D%A2.jpg/448px-%E3%81%9D%E3%81%A0%E3%81%AD%EF%BD%9ECD%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="512" data-file-height="511"></a></td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://www.iosysshop.com/SHOP/20180425-sodane-set.html">http://www.iosysshop.com/SHOP/20180425-sodane-set.html</a></td></tr></tbody></table>
 
 そだね～CD（同人专辑，IOSYS，2018） - 2018年4月29日 由 IOSYS 于 M3-2018春 发布的单曲同人专辑，分级为 一般向
+
 ## Staff
   
  **Arrangement**   
@@ -36,14 +38,17 @@ Design
 Illustration
 : 画师 （[网址 社团]）
 
+
 ## 试听
   
 暂不支援此类型
   
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoRD"><b>01</b></td><td id="魔理沙はなまらヤベェもんをギッていったっしょや" colspan="2" class="title"><a href="./歌词-魔理沙はなまらヤベェもんをギッていったっしょや.md" title="歌词:魔理沙はなまらヤベェもんをギッていったっしょや">魔理沙はなまらヤベェもんをギッていったっしょや</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=ARM&amp;vocal=miko&amp;lyric=夕野ヨシミ，&amp;ogmusic=人形裁判　～ 人の形弄びし少女&amp;fromwiki=そだね～CD"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./ARM.md" title="ARM">ARM</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，ARM&amp;fromwiki=そだね～CD"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="./miko.md" title="miko">miko</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=miko&amp;fromwiki=そだね～CD"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="./夕野ヨシミ.md" title="夕野ヨシミ">夕野ヨシミ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?lyric=夕野ヨシミ，&amp;fromwiki=そだね～CD"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=人形裁判　～ 人の形弄びし少女&amp;fromwiki=そだね～CD"><span></span></a></span><div class="ogmusic"><a href="/%E4%BA%BA%E5%BD%A2%E8%A3%81%E5%88%A4_%EF%BD%9E_%E4%BA%BA%E3%81%AE%E5%BD%A2%E5%BC%84%E3%81%B3%E3%81%97%E5%B0%91%E5%A5%B3" class="mw-redirect" title="人形裁判 ～ 人の形弄びし少女">人形裁判　～ 人の形弄びし少女</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E5%A6%96%E5%A6%96%E6%A2%A6_%EF%BD%9E_Perfect_Cherry_Blossom." class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoRD"><b>01</b></td><td id="魔理沙はなまらヤベェもんをギッていったっしょや" colspan="2" class="title"><a href="./歌词-魔理沙はなまらヤベェもんをギッていったっしょや.md" title="歌词:魔理沙はなまらヤベェもんをギッていったっしょや">魔理沙はなまらヤベェもんをギッていったっしょや</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=ARM&amp;vocal=miko&amp;lyric=夕野ヨシミ，&amp;ogmusic=人形裁判　～ 人の形弄びし少女&amp;fromwiki=そだね～CD"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./ARM.md" title="ARM">ARM</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，ARM&amp;fromwiki=そだね～CD"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="./miko.md" title="miko">miko</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=miko&amp;fromwiki=そだね～CD"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="./夕野ヨシミ.md" title="夕野ヨシミ">夕野ヨシミ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?lyric=夕野ヨシミ，&amp;fromwiki=そだね～CD"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=人形裁判　～ 人の形弄びし少女&amp;fromwiki=そだね～CD"><span></span></a></span><div class="ogmusic"><a href="./人形裁判_～_人の形弄びし少女.md" class="mw-redirect" title="人形裁判 ～ 人の形弄びし少女">人形裁判　～ 人の形弄びし少女</a></div><div class="source"><a href="./东方妖妖梦_～_Perfect_Cherry_Blossom..md" class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

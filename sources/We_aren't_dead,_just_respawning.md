@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-We_aren't_dead,_just_respawning封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/d/d8/We_aren%27t_dead%2C_just_respawning%E5%B0%81%E9%9D%A2.png/96px-We_aren%27t_dead%2C_just_respawning%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="96" height="140" srcset="https://upload.thwiki.cc/thumb/d/d8/We_aren%27t_dead%2C_just_respawning%E5%B0%81%E9%9D%A2.png/144px-We_aren%27t_dead%2C_just_respawning%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/d/d8/We_aren%27t_dead%2C_just_respawning%E5%B0%81%E9%9D%A2.png/192px-We_aren%27t_dead%2C_just_respawning%E5%B0%81%E9%9D%A2.png 2x" data-file-width="501" data-file-height="730"></a><div class="cover-char">角色：<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a>，<a href="./西行寺幽幽子.md" title="西行寺幽幽子">西行寺幽幽子</a></div></td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.facebook.com/TofucatWS/posts/1902662013144290">https://www.facebook.com/TofucatWS/posts/1902662013144290</a><br><a rel="nofollow" class="external free" href="https://www.facebook.com/TofucatWS/posts/2157341197676369">https://www.facebook.com/TofucatWS/posts/2157341197676369</a><br><a rel="nofollow" class="external free" href="https://twitter.com/schuming90/status/1120292814611292160">https://twitter.com/schuming90/status/1120292814611292160</a></td></tr><tr><td class="label">备注</td><td colspan="2">RPG主题合同志</td></tr></tbody></table>
 
 We aren't dead, just respawning（同人志，Tofucat Workshop，SG 2hu Lepak Corner，2019） - 2019年5月5日 由 Tofucat Workshop，SG 2hu Lepak Corner 于 博丽神社例大祭16 发布的合同志/绘本同人志，B5尺寸，分级为 一般向
+
 ## Staff
 Participating Artists
 : akiteru98 (未找到链接)
@@ -42,7 +44,7 @@ Participating Artists
 : hell angel (未找到链接)
 : Homu K. (未找到链接)
 : Nachivon (未找到链接)
-: アキ (未找到链接)
+: [アキ](./アキ.md)
 : Sanzuri (未找到链接)
 : GSongChan (未找到链接)
 : Merlt (未找到链接)
@@ -53,6 +55,7 @@ Participating Artists
 Layout &amp; Cover Art
 : Kai Wen （[Spotlight Flamenco](https://www.facebook.com/Spotlight-Flamenco-524944917672768)）
 : Vento （[VENTOPLUS](./VENTOPLUS.md)）
+
 
 ## 评论
 

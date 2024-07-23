@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-ポチ喰ひ_Petit_Winter（2021）封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/c/c7/%E3%83%9D%E3%83%81%E5%96%B0%E3%81%B2_Petit_Winter%EF%BC%882021%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/224px-%E3%83%9D%E3%83%81%E5%96%B0%E3%81%B2_Petit_Winter%EF%BC%882021%EF%BC%89%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="224" srcset="https://upload.thwiki.cc/thumb/c/c7/%E3%83%9D%E3%83%81%E5%96%B0%E3%81%B2_Petit_Winter%EF%BC%882021%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/336px-%E3%83%9D%E3%83%81%E5%96%B0%E3%81%B2_Petit_Winter%EF%BC%882021%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/c/c7/%E3%83%9D%E3%83%81%E5%96%B0%E3%81%B2_Petit_Winter%EF%BC%882021%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/448px-%E3%83%9D%E3%83%81%E5%96%B0%E3%81%B2_Petit_Winter%EF%BC%882021%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1023" data-file-height="1024"></a><div class="cover-char">角色：<a href="./八云蓝.md" title="八云蓝">八云蓝</a></div></td>
@@ -18,6 +19,7 @@
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://istukadokoka.booth.pm/items/3630975">BoothPhysical</a>，<a rel="nofollow" class="external text" href="https://istukadokoka.booth.pm/items/3633646">BoothPhysical</a></td></tr></tbody></table>
 
 
+
 ## Staff
   
  **Arrangement**   
@@ -25,14 +27,17 @@
 <table><tbody><tr><td><a href="/index.php?title=%E3%81%BE%EF%BD%9E&amp;action=edit&amp;redlink=1" class="new" title="ま～（页面不存在）">ま～</a></td><td></td><td>Tr.1</td></tr></tbody></table>
 
 
+
 ## 试听
   
 暂不支援此类型
   
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="???" colspan="2" class="title">???<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=ま～&amp;ogmusic=少女幻葬　～ Necro-Fantasy&amp;fromwiki=ポチ喰ひ_Petit_Winter（2021）"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E3%81%BE%EF%BD%9E&amp;action=edit&amp;redlink=1" class="new" title="ま～（页面不存在）">ま～</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，ま～&amp;fromwiki=ポチ喰ひ_Petit_Winter（2021）"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=少女幻葬　～ Necro-Fantasy&amp;fromwiki=ポチ喰ひ_Petit_Winter（2021）"><span></span></a></span><div class="ogmusic"><a href="./少女幻葬_～_Necro-Fantasy.md" title="少女幻葬 ～ Necro-Fantasy">少女幻葬　～ Necro-Fantasy</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E5%A6%96%E5%A6%96%E6%A2%A6_%EF%BD%9E_Perfect_Cherry_Blossom." class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="???" colspan="2" class="title">???<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=ま～&amp;ogmusic=少女幻葬　～ Necro-Fantasy&amp;fromwiki=ポチ喰ひ_Petit_Winter（2021）"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E3%81%BE%EF%BD%9E&amp;action=edit&amp;redlink=1" class="new" title="ま～（页面不存在）">ま～</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，ま～&amp;fromwiki=ポチ喰ひ_Petit_Winter（2021）"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=少女幻葬　～ Necro-Fantasy&amp;fromwiki=ポチ喰ひ_Petit_Winter（2021）"><span></span></a></span><div class="ogmusic"><a href="./少女幻葬_～_Necro-Fantasy.md" title="少女幻葬 ～ Necro-Fantasy">少女幻葬　～ Necro-Fantasy</a></div><div class="source"><a href="./东方妖妖梦_～_Perfect_Cherry_Blossom..md" class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-東方絡想墟_～_Whispers_above_Virtual_Ruins.封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/a/ac/%E6%9D%B1%E6%96%B9%E7%B5%A1%E6%83%B3%E5%A2%9F_%EF%BD%9E_Whispers_above_Virtual_Ruins.%E5%B0%81%E9%9D%A2.jpg/140px-%E6%9D%B1%E6%96%B9%E7%B5%A1%E6%83%B3%E5%A2%9F_%EF%BD%9E_Whispers_above_Virtual_Ruins.%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="140" height="140" srcset="https://upload.thwiki.cc/thumb/a/ac/%E6%9D%B1%E6%96%B9%E7%B5%A1%E6%83%B3%E5%A2%9F_%EF%BD%9E_Whispers_above_Virtual_Ruins.%E5%B0%81%E9%9D%A2.jpg/210px-%E6%9D%B1%E6%96%B9%E7%B5%A1%E6%83%B3%E5%A2%9F_%EF%BD%9E_Whispers_above_Virtual_Ruins.%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/a/ac/%E6%9D%B1%E6%96%B9%E7%B5%A1%E6%83%B3%E5%A2%9F_%EF%BD%9E_Whispers_above_Virtual_Ruins.%E5%B0%81%E9%9D%A2.jpg/280px-%E6%9D%B1%E6%96%B9%E7%B5%A1%E6%83%B3%E5%A2%9F_%EF%BD%9E_Whispers_above_Virtual_Ruins.%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1080" data-file-height="1080"></a><div class="cover-char">角色：<a href="./露伊涅·德索拉西娅.md" title="露伊涅·德索拉西娅">露伊涅·德索拉西娅</a></div></td>
@@ -13,6 +14,7 @@
 </tr><tr><td class="label">首发日期</td><td>2024-07-06</td></tr><tr><td class="label">类型</td><td>设定集</td></tr><tr><td class="label">编号</td><td>未名风铃妄想录 第四部</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr></tbody></table>
 
 東方絡想墟 ～ Whispers above Virtual Ruins.（同人志，明ノ宮 飛鳥，2024） - 2024年7月6日 由 明ノ宮 飛鳥  发布的设定集同人志，分级为 一般向
+
 ## Staff
 剧情、人物设定
 : 明ノ宮 飛鳥
@@ -20,7 +22,9 @@
 立绘
 : 明ノ宮 飛鳥
 
+
 ## 作品介绍
+
 ### 作者说明
 
 - 本作品为个人东方风设定集，不存在游戏。 文本量较大，或许看作仿stg流程的同人文更为恰当。  
@@ -30,20 +34,25 @@
 - 部分关卡背景使用了AI生成的素材，若令您不适请及时退出。
 
 
+
 ### 其他
 - 本作是明ノ宮 飛鳥创作的东方二次同人设定集。
 - 本作包含了人物立绘、部分设定以及绘制的STG游戏面板。
+
 
 ## 内容页面
 - 故事背景 (未找到链接)
 - EX故事背景 (未找到链接)
 
+
 ## 角色
+
 ### 自机
 
 <table><tbody><tr><td align="center" rowspan="2"><a rel="nofollow" class="external text" href="https://thwiki.cc/文件:博丽灵梦（鲤祭章）.png">上传</a></td> <td style="width:150px;padding:3px 9px 3px 7px;" rowspan="2">大事怪事退治联盟</td><td style="width:180px;padding:3px 9px 3px 7px;"> <a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></td><td rowspan="2"><a href="/index.php?title=%E6%9D%B1%E6%96%B9%E7%B5%A1%E6%83%B3%E5%A2%9F_%EF%BD%9E_Whispers_above_Virtual_Ruins./%E5%A4%A7%E4%BA%8B%E6%80%AA%E4%BA%8B%E9%80%80%E6%B2%BB%E8%81%94%E7%9B%9F&amp;action=edit&amp;redlink=1" class="new" title="東方絡想墟 ～ Whispers above Virtual Ruins./大事怪事退治联盟（页面不存在）">游戏对话/结局</a><br><a href="/index.php?title=%E6%9D%B1%E6%96%B9%E7%B5%A1%E6%83%B3%E5%A2%9F_%EF%BD%9E_Whispers_above_Virtual_Ruins./%E5%A4%A7%E4%BA%8B%E6%80%AA%E4%BA%8B%E9%80%80%E6%B2%BB%E8%81%94%E7%9B%9F_ExStory&amp;action=edit&amp;redlink=1" class="new" title="東方絡想墟 ～ Whispers above Virtual Ruins./大事怪事退治联盟 ExStory（页面不存在）">Extra游戏对话</a></td></tr><tr><td style="width:150px;padding:3px 9px 3px 7px;"><a href="./远音莉可.md" title="远音莉可">远音莉可</a></td></tr>
 <tr><td align="center" rowspan="2"><a rel="nofollow" class="external text" href="https://thwiki.cc/文件:雾雨魔理沙（络想墟）.png">上传</a></td> <td style="width:150px;padding:3px 9px 3px 7px;" rowspan="2">噪特女孩重度依赖</td><td style="width:180px;padding:3px 9px 3px 7px;"> <a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a></td><td rowspan="2"><a href="/index.php?title=%E6%9D%B1%E6%96%B9%E7%B5%A1%E6%83%B3%E5%A2%9F_%EF%BD%9E_Whispers_above_Virtual_Ruins./%E5%99%AA%E7%89%B9%E5%A5%B3%E5%AD%A9%E9%87%8D%E5%BA%A6%E4%BE%9D%E8%B5%96&amp;action=edit&amp;redlink=1" class="new" title="東方絡想墟 ～ Whispers above Virtual Ruins./噪特女孩重度依赖（页面不存在）">游戏对话/结局</a><br><a href="/index.php?title=%E6%9D%B1%E6%96%B9%E7%B5%A1%E6%83%B3%E5%A2%9F_%EF%BD%9E_Whispers_above_Virtual_Ruins./%E5%99%AA%E7%89%B9%E5%A5%B3%E5%AD%A9%E9%87%8D%E5%BA%A6%E4%BE%9D%E8%B5%96_ExStory&amp;action=edit&amp;redlink=1" class="new" title="東方絡想墟 ～ Whispers above Virtual Ruins./噪特女孩重度依赖 ExStory（页面不存在）">Extra游戏对话</a></td></tr><tr><td style="width:150px;padding:3px 9px 3px 7px;"><a href="./青鹭光子.md" title="青鹭光子">青鹭光子</a></td></tr>
 <tr><td align="center" rowspan="2"><a rel="nofollow" class="external text" href="https://thwiki.cc/文件:莳野梦乃原（络想墟）.png">上传</a></td> <td style="width:150px;padding:3px 9px 3px 7px;" rowspan="2">梦之萌芽限时回归</td><td style="width:180px;padding:3px 9px 3px 7px;"> <a href="./莳野梦乃原.md" title="莳野梦乃原">莳野梦乃原</a></td><td rowspan="2"><a href="/index.php?title=%E6%9D%B1%E6%96%B9%E7%B5%A1%E6%83%B3%E5%A2%9F_%EF%BD%9E_Whispers_above_Virtual_Ruins./%E6%A2%A6%E4%B9%8B%E8%90%8C%E8%8A%BD%E9%99%90%E6%97%B6%E5%9B%9E%E5%BD%92&amp;action=edit&amp;redlink=1" class="new" title="東方絡想墟 ～ Whispers above Virtual Ruins./梦之萌芽限时回归（页面不存在）">游戏对话/结局</a><br><a href="/index.php?title=%E6%9D%B1%E6%96%B9%E7%B5%A1%E6%83%B3%E5%A2%9F_%EF%BD%9E_Whispers_above_Virtual_Ruins./%E6%A2%A6%E4%B9%8B%E8%90%8C%E8%8A%BD%E9%99%90%E6%97%B6%E5%9B%9E%E5%BD%92_ExStory&amp;action=edit&amp;redlink=1" class="new" title="東方絡想墟 ～ Whispers above Virtual Ruins./梦之萌芽限时回归 ExStory（页面不存在）">Extra游戏对话</a></td></tr><tr><td style="width:150px;padding:3px 9px 3px 7px;"><a href="./勘解由小路瑞浦.md" title="勘解由小路瑞浦">勘解由小路瑞浦</a></td></tr></tbody></table>
+
 
 
 ### BOSS
@@ -58,12 +67,14 @@
 <tr><td rowspan="1" class="bg-color-info-10" style="min-width:100px"><b>PH面道中</b><br><i><a href="/index.php?title=%E5%A4%9C%E9%9B%BE%E5%A6%82%E4%B9%8C%E7%8E%89%EF%BC%8C%E4%BB%8A%E5%AE%B5%E5%8F%AA%E5%90%91%E6%B8%8A%E5%BA%95%E8%A1%8C&amp;action=edit&amp;redlink=1" class="new" title="夜雾如乌玉，今宵只向渊底行（页面不存在）">夜雾如乌玉，今宵只向渊底行</a></i></td><td align="center"><a rel="nofollow" class="external text" href="https://thwiki.cc/文件:博丽灵梦（络想墟）.png">上传</a></td>  <td style="width:150px;padding:3px 9px 3px 7px;" colspan="2" rowspan="1"> <a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a> </td></tr><tr><td rowspan="1" class="bg-color-info-10" style="min-width:100px"><b>PH面BOSS</b><br><i><a href="/index.php?title=%E4%BE%A6%E6%8E%A2%E4%BB%AC%E7%9A%84%E7%A5%AD%E5%9B%83%E5%AD%90_%EF%BD%9E_Logic_x_Trick&amp;action=edit&amp;redlink=1" class="new" title="侦探们的祭囃子 ～ Logic x Trick（页面不存在）">侦探们的祭囃子 ～ Logic x Trick</a></i></td><td style="min-width:35px" rowspan="1"><div class="center"><div class="floatnone"><a href="./文件-天野青弥.png.md" class="image"><img alt="天野青弥.png" src="https://upload.thwiki.cc/thumb/f/ff/%E5%A4%A9%E9%87%8E%E9%9D%92%E5%BC%A5.png/40px-%E5%A4%A9%E9%87%8E%E9%9D%92%E5%BC%A5.png" decoding="async" loading="lazy" width="40" height="30" srcset="https://upload.thwiki.cc/thumb/f/ff/%E5%A4%A9%E9%87%8E%E9%9D%92%E5%BC%A5.png/60px-%E5%A4%A9%E9%87%8E%E9%9D%92%E5%BC%A5.png 1.5x, https://upload.thwiki.cc/thumb/f/ff/%E5%A4%A9%E9%87%8E%E9%9D%92%E5%BC%A5.png/80px-%E5%A4%A9%E9%87%8E%E9%9D%92%E5%BC%A5.png 2x" data-file-width="1280" data-file-height="960"></a></div></div></td>  <td style="width:150px;padding:3px 9px 3px 7px;" rowspan="1"> 超幻想乡级的侦探</td><td style="width:180px;padding:3px 9px 3px 7px;" rowspan="1"> <a href="./天野青弥.md" title="天野青弥">天野青弥</a> </td></tr></tbody></table>
 
 
+
 ## 外部链接
   
 [东方络想墟 ～ Whispers above Virtual Ruins.（前篇）](https://www.bilibili.com/opus/948841417667510280)  
 
 [东方络想墟 ～ Whispers above Virtual Ruins.（后篇）](https://www.bilibili.com/opus/951030940478472197)
   
+
 
 ## 词条导航
   

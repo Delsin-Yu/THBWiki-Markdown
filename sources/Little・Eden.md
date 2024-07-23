@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Little・Eden封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/b/b5/Little%E3%83%BBEden%E5%B0%81%E9%9D%A2.jpg/158px-Little%E3%83%BBEden%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="158" height="224" srcset="https://upload.thwiki.cc/thumb/b/b5/Little%E3%83%BBEden%E5%B0%81%E9%9D%A2.jpg/238px-Little%E3%83%BBEden%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/b/b5/Little%E3%83%BBEden%E5%B0%81%E9%9D%A2.jpg/317px-Little%E3%83%BBEden%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="566" data-file-height="800"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/58232885">https://www.pixiv.net/artworks/58232885</a></td></tr></tbody></table>
 
 Little・Eden（同人志，お月見団子，2016） - 2016年8月13日 由 お月見団子 于 Comic Market 90 发布的漫画同人志，B5尺寸一共40页，登场人物有 博丽灵梦、雾雨魔理沙、八云紫，分级为 一般向
+
 ## Staff
 - うるう (未找到链接)
+
 
 ## 评论
 ```

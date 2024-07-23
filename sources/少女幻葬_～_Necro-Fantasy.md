@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -43,11 +44,13 @@
 
 
 
+
 ## 基本信息
 
-<table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">少女幻葬　～ Necro-Fantasy</td></tr><tr><td><b>译名</b></td><td>少女幻葬 ～ Necro-Fantasy</td></tr><tr><td><b>英文译名</b></td><td>A Maiden's Illusionary Funeral ~ Necro-Fantasy</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>关联</td></tr><tr><td style="padding-left:15px"><b>相关曲</b></td><td><a href="/%E3%83%8D%E3%82%AF%E3%83%AD%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%82%A2" class="mw-redirect" title="ネクロファンタジア">ネクロファンタジア</a></td></tr><tr><td style="padding-left:15px"><b>　来源</b></td><td>东方妖妖梦　～ Perfect Cherry Blossom.</td></tr></tbody></table>
+<table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">少女幻葬　～ Necro-Fantasy</td></tr><tr><td><b>译名</b></td><td>少女幻葬 ～ Necro-Fantasy</td></tr><tr><td><b>英文译名</b></td><td>A Maiden's Illusionary Funeral ~ Necro-Fantasy</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>关联</td></tr><tr><td style="padding-left:15px"><b>相关曲</b></td><td><a href="./ネクロファンタジア.md" class="mw-redirect" title="ネクロファンタジア">ネクロファンタジア</a></td></tr><tr><td style="padding-left:15px"><b>　来源</b></td><td>东方妖妖梦　～ Perfect Cherry Blossom.</td></tr></tbody></table>
 
 少女幻葬 ～ Necro-Fantasy（曲目） - 由 ZUN 创作的官方曲目，原名 少女幻葬　～ Necro-Fantasy
+
 ## 出现作品
 
 <table>
@@ -56,8 +59,11 @@
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 东方妖妖梦
+
 #### WAV
   
 WAV版是游戏的原声带。
@@ -72,6 +78,7 @@ WAV版是游戏的原声带。
 </td></tr></tbody></table>
 
 
+
 #### MIDI
   
 MIDI版由Roland Sound Canvas 88Pro实机录音得到。
@@ -81,12 +88,15 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td><a href="./文件-th07_16.mid.md" title="文件:th07 16.mid">th07_16.mid</a></td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th07_16_SC88Pro.mp3.md" title="文件:th07 16 SC88Pro.mp3">th07_16_SC88Pro.mp3</a><br><audio src="https://upload.thwiki.cc/b/b9/th07_16_SC88Pro.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>th07_16.mid</td></tr><tr><td><b>音轨时长</b></td><td>3:32</td></tr></tbody></table>
 
 
+
 ### 莲台野夜行
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-hr02_10.mp3.md" title="文件:hr02 10.mp3">hr02_10.mp3</a><br><audio src="https://upload.thwiki.cc/7/7c/hr02_10.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track10.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>4:47</td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 东方妖妖梦
 - Music Room (未找到链接)
 
@@ -101,12 +111,16 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
     根据地域、风土、宗教，人们创造了各种埋葬亡骸的方法。  
     火葬、土葬、鸟葬，如今，就连宇宙葬都有了。  
     我正盘算着在一生只有一次的遗书中，写上「请将我幻葬」，让我的后人困扰（别这么盘算）
+
 ### 东方Project人气投票
 - 日文东方人气投票记录 (未找到链接)
 
 有种怀念感。对爱好者来说。
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
   
  **少女幻葬　～ Necro-Fantasy**  少女幻葬　～ Necro-Fantasy
@@ -147,7 +161,7 @@ Shooting Game of Ghastry<sup id="cite_ref-1" class="reference"><a href="#cite_no
 
 - 幻葬
   - 意指埋葬于幻想世界、埋葬于幻想故事中？
-    - 妖妖梦 (未找到链接)故事的核心即围绕[西行寺幽幽子](./西行寺幽幽子.md)埋葬于西行妖下的亡骸，而[西行寺幽幽子](./西行寺幽幽子.md)、西行妖及其亡骸皆已进入幻想。
+    - [妖妖梦](./妖妖梦.md)故事的核心即围绕[西行寺幽幽子](./西行寺幽幽子.md)埋葬于西行妖下的亡骸，而[西行寺幽幽子](./西行寺幽幽子.md)、西行妖及其亡骸皆已进入幻想。
 
   - 意指令人迷惑的埋葬方式？
     - 妖妖梦里音乐评论 (未找到链接)中，[ZUN](./ZUN.md)提及对照世间各种各样的葬仪，自己构思了「幻葬」。
@@ -200,6 +214,7 @@ Shooting Game of Ghastry<sup id="cite_ref-1" class="reference"><a href="#cite_no
 
 
 <table><tbody><tr class="tt-content" id="里音乐评论-19" data-pos="&#91;&quot;\u91cc\u97f3\u4e50\u8bc4\u8bba&quot;,19&#93;"><td class="tt-ja" lang="ja"><div class="poem">　１８．ネクロファンタジア<br>　　Necro-Fantasia 死の幻想曲<br>　　素敵な響き。<br>　　生きているうちは、死を味わうことが出来ない。<br>　　死は常に生の幻想である。</div></td><td class="tt-zh" lang="zh"><div class="poem">&#160;&#160;１８．Necro-Fantasia<br>    Necro-Fantasia 死亡幻想曲<br>    很好听的名字。<br>    活着的时候，无法体味死亡。<br>    死永远是生者的幻想。</div></td></tr></tbody></table>
+
 
 
 ### 二次同人数据

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-ORIENT_vol.6_Ten_Desires.封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/5/51/ORIENT_vol.6_Ten_Desires.%E5%B0%81%E9%9D%A2.jpg/224px-ORIENT_vol.6_Ten_Desires.%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="157" srcset="https://upload.thwiki.cc/thumb/5/51/ORIENT_vol.6_Ten_Desires.%E5%B0%81%E9%9D%A2.jpg/336px-ORIENT_vol.6_Ten_Desires.%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/5/51/ORIENT_vol.6_Ten_Desires.%E5%B0%81%E9%9D%A2.jpg/448px-ORIENT_vol.6_Ten_Desires.%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1554" data-file-height="1087"></a><div class="cover-char">角色：<a href="./宫古芳香.md" title="宫古芳香">宫古芳香</a></div></td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/maru_ya/status/1650488316129873922">https://twitter.com/maru_ya/status/1650488316129873922</a></td></tr></tbody></table>
 
 ORIENT vol.6 Ten Desires.（同人志，まっとかん。，2023） - 2023年5月7日 由 まっとかん。 于 博丽神社例大祭20 发布的画集同人志，B5尺寸一共29页，登场人物有 苏我屠自古、物部布都、丰聪耳神子、封兽鵺、二岩猯藏、宫古芳香、东风谷早苗，分级为 一般向
+
 ## Staff
 - マール (未找到链接)
 - あきかん。 (未找到链接)
@@ -23,6 +25,7 @@ ORIENT vol.6 Ten Desires.（同人志，まっとかん。，2023） - 2023年5�
 - しょっかくちゃん (未找到链接)
 - めご (未找到链接)
 - 泡 (未找到链接)
+
 
 ## 评论
 

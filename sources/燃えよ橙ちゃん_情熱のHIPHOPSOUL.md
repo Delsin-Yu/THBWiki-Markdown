@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-燃えよ橙ちゃん_情熱のHIPHOPSOUL封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/8/8a/%E7%87%83%E3%81%88%E3%82%88%E6%A9%99%E3%81%A1%E3%82%83%E3%82%93_%E6%83%85%E7%86%B1%E3%81%AEHIPHOPSOUL%E5%B0%81%E9%9D%A2.jpg/140px-%E7%87%83%E3%81%88%E3%82%88%E6%A9%99%E3%81%A1%E3%82%83%E3%82%93_%E6%83%85%E7%86%B1%E3%81%AEHIPHOPSOUL%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="140" height="196" srcset="https://upload.thwiki.cc/thumb/8/8a/%E7%87%83%E3%81%88%E3%82%88%E6%A9%99%E3%81%A1%E3%82%83%E3%82%93_%E6%83%85%E7%86%B1%E3%81%AEHIPHOPSOUL%E5%B0%81%E9%9D%A2.jpg/210px-%E7%87%83%E3%81%88%E3%82%88%E6%A9%99%E3%81%A1%E3%82%83%E3%82%93_%E6%83%85%E7%86%B1%E3%81%AEHIPHOPSOUL%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/8/8a/%E7%87%83%E3%81%88%E3%82%88%E6%A9%99%E3%81%A1%E3%82%83%E3%82%93_%E6%83%85%E7%86%B1%E3%81%AEHIPHOPSOUL%E5%B0%81%E9%9D%A2.jpg/279px-%E7%87%83%E3%81%88%E3%82%88%E6%A9%99%E3%81%A1%E3%82%83%E3%82%93_%E6%83%85%E7%86%B1%E3%81%AEHIPHOPSOUL%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="856" data-file-height="1200"></a><div class="cover-char">角色：<a href="./八云紫.md" title="八云紫">八云紫</a>，<a href="./八云蓝.md" title="八云蓝">八云蓝</a>，<a href="./橙.md" title="橙">橙</a>，<a href="/index.php?title=%E5%8E%9F%E5%88%9B%E8%A7%92%E8%89%B2&amp;action=edit&amp;redlink=1" class="new" title="原创角色（页面不存在）">原创角色</a></div></td>
@@ -18,8 +19,10 @@
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=370131">蜜瓜</a></td></tr></tbody></table>
 
 
+
 ## Staff
 - 茶んた (未找到链接)
+
 
 ## 评论
 

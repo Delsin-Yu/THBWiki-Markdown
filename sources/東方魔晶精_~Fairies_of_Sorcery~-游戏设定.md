@@ -4,8 +4,10 @@
 
 Nono_443
 
+
 ## 附带文档
 : - [readme.txt](./東方魔晶精_~Fairies_of_Sorcery~-游戏设定-readme.md)
+
 
 
 ## 说明书

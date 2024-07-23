@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-illustration_koifura封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/a/a2/illustration_koifura%E5%B0%81%E9%9D%A2.png/159px-illustration_koifura%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="159" height="224" srcset="https://upload.thwiki.cc/thumb/a/a2/illustration_koifura%E5%B0%81%E9%9D%A2.png/238px-illustration_koifura%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/a/a2/illustration_koifura%E5%B0%81%E9%9D%A2.png/318px-illustration_koifura%E5%B0%81%E9%9D%A2.png 2x" data-file-width="2157" data-file-height="3039"></a><div class="cover-char">角色：<a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a>，<a href="./古明地恋.md" title="古明地恋">古明地恋</a></div></td>
@@ -18,9 +19,12 @@ illustration koifura（同人志，ラパパメリカ，2023） - 2023年11月12
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=2144494">蜜瓜</a></td></tr></tbody></table>
 
 
+
 ## 预览
+
 ## Staff
 - [ラパメリ](./ラパメリ.md)
+
 
 ## 评论
 

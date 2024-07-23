@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Ultra_Hyper_Grooving_Game_Music_LIVE封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/7/7d/Ultra_Hyper_Grooving_Game_Music_LIVE%E5%B0%81%E9%9D%A2.png/224px-Ultra_Hyper_Grooving_Game_Music_LIVE%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="224" height="221" srcset="https://upload.thwiki.cc/thumb/7/7d/Ultra_Hyper_Grooving_Game_Music_LIVE%E5%B0%81%E9%9D%A2.png/336px-Ultra_Hyper_Grooving_Game_Music_LIVE%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/7/7d/Ultra_Hyper_Grooving_Game_Music_LIVE%E5%B0%81%E9%9D%A2.png/448px-Ultra_Hyper_Grooving_Game_Music_LIVE%E5%B0%81%E9%9D%A2.png 2x" data-file-width="1460" data-file-height="1438"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>，<a href="/index.php?title=%E5%8E%9F%E5%88%9B%E8%A7%92%E8%89%B2&amp;action=edit&amp;redlink=1" class="new" title="原创角色（页面不存在）">原创角色</a></div></td>
@@ -18,11 +19,13 @@ Ultra Hyper Grooving Game Music LIVE（同人专辑，N!ESS，2021） - 2021年4
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://niceedmondis.booth.pm/items/2981053">Booth</a>，<a rel="nofollow" class="external text" href="http://www.dlsite.com/home/work/=/product_id/RJ352735.html">DLsite</a></td></tr></tbody></table>
 
 
+
 ## Staff
   
  **Arrangement**   
 
 <table><tbody><tr><td><a href="./テラ.md" title="テラ">テラ</a></td><td></td><td>Tr.7</td></tr></tbody></table>
+
 
 
 ## 曲目列表
@@ -33,9 +36,10 @@ Ultra Hyper Grooving Game Music LIVE（同人专辑，N!ESS，2021） - 2021年4
 <tr><td id="4" class="info"><b>04</b></td><td id="Stickerbush_Symphony" colspan="2" class="title">Stickerbush Symphony<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=Ultra_Hyper_Grooving_Game_Music_LIVE"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr>
 <tr><td id="5" class="info"><b>05</b></td><td id="エリア1" colspan="2" class="title">エリア1<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=Ultra_Hyper_Grooving_Game_Music_LIVE"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr>
 <tr><td id="6" class="info"><b>06</b></td><td id="メタナイトの逆襲：エンディング(友と夕陽と…)" colspan="2" class="title">メタナイトの逆襲：エンディング(友と夕陽と…)<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=Ultra_Hyper_Grooving_Game_Music_LIVE"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr>
-<tr><td id="7" class="infoYD"><b>07</b></td><td id="Darker_Than_Midnight" colspan="2" class="title">Darker Than Midnight<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=テラ&amp;ogmusic=運命のダークサイド&amp;fromwiki=Ultra_Hyper_Grooving_Game_Music_LIVE"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./テラ.md" title="テラ">テラ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，テラ&amp;fromwiki=Ultra_Hyper_Grooving_Game_Music_LIVE"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">初发布</td><td class="text" colspan="2"><a href="/%E6%9D%B1%E6%96%B9Hyper_Grooving_Jazz_Music_Vol.1#4" title="東方Hyper Grooving Jazz Music Vol.1">Darker Than Midnight</a><div class="source"><a href="./東方Hyper_Grooving_Jazz_Music_Vol.1.md" title="東方Hyper Grooving Jazz Music Vol.1">東方Hyper Grooving Jazz Music Vol.1</a></div></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=運命のダークサイド&amp;fromwiki=Ultra_Hyper_Grooving_Game_Music_LIVE"><span></span></a></span><div class="ogmusic"><a href="/%E9%81%8B%E5%91%BD%E3%81%AE%E3%83%80%E3%83%BC%E3%82%AF%E3%82%B5%E3%82%A4%E3%83%89" class="mw-redirect" title="運命のダークサイド">運命のダークサイド</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E9%A3%8E%E7%A5%9E%E5%BD%95_%EF%BD%9E_Mountain_of_Faith." class="mw-redirect" title="东方风神录 ～ Mountain of Faith.">东方风神录　～ Mountain of Faith.</a></div></td></tr>
+<tr><td id="7" class="infoYD"><b>07</b></td><td id="Darker_Than_Midnight" colspan="2" class="title">Darker Than Midnight<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=テラ&amp;ogmusic=運命のダークサイド&amp;fromwiki=Ultra_Hyper_Grooving_Game_Music_LIVE"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./テラ.md" title="テラ">テラ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，テラ&amp;fromwiki=Ultra_Hyper_Grooving_Game_Music_LIVE"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">初发布</td><td class="text" colspan="2"><a href="/%E6%9D%B1%E6%96%B9Hyper_Grooving_Jazz_Music_Vol.1#4" title="東方Hyper Grooving Jazz Music Vol.1">Darker Than Midnight</a><div class="source"><a href="./東方Hyper_Grooving_Jazz_Music_Vol.1.md" title="東方Hyper Grooving Jazz Music Vol.1">東方Hyper Grooving Jazz Music Vol.1</a></div></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=運命のダークサイド&amp;fromwiki=Ultra_Hyper_Grooving_Game_Music_LIVE"><span></span></a></span><div class="ogmusic"><a href="./運命のダークサイド.md" class="mw-redirect" title="運命のダークサイド">運命のダークサイド</a></div><div class="source"><a href="./东方风神录_～_Mountain_of_Faith..md" class="mw-redirect" title="东方风神录 ～ Mountain of Faith.">东方风神录　～ Mountain of Faith.</a></div></td></tr>
 <tr><td id="8" class="info"><b>08</b></td><td id="タイトル" colspan="2" class="title">タイトル<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=Ultra_Hyper_Grooving_Game_Music_LIVE"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr>
 <tr><td id="9" class="info"><b>09</b></td><td id="POLLYANNA(I_BELIEVE_IN_YOU)" colspan="2" class="title">POLLYANNA(I BELIEVE IN YOU)<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=Ultra_Hyper_Grooving_Game_Music_LIVE"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr></tbody></table>
+
 
 
 ## 评论

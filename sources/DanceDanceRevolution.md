@@ -23,6 +23,7 @@ KONAMI | 东方相关商业游戏 | 待完成页面
 <big> **DanceDanceRevolution** </big>，是[KONAMI](./KONAMI.md)制作的音乐游戏，第一代于1998年9月推出。
   
 
+
 ## 目录
 
 - [1 介绍](#介绍)
@@ -39,7 +40,9 @@ KONAMI | 东方相关商业游戏 | 待完成页面
 
 
 
+
 ## 介绍
+
 ### 简介
   
  **DanceDanceRevolution** （ダンスダンスレボリューション），缩写为DDR  
@@ -49,6 +52,7 @@ KONAMI | 东方相关商业游戏 | 待完成页面
 它最初只是一个街机游戏，但从那时起，它产生了家庭版（移植版和独占版）和各种衍生产品。 时至今日，DanceDanceRevolution 是 BEMANI (未找到链接) 系列中运行时间最长的，并且拥有最多的国际发行作品。
   
 
+
 ### 游戏玩法
   
 游戏的目标是通过正确踩到舞台上的箭头与屏幕上到达 STEP ZONE (ステップゾーン) 箭头相匹配来获得积分。  
@@ -56,10 +60,12 @@ KONAMI | 东方相关商业游戏 | 待完成页面
 STEP ZONE 由四个灰色箭头 (← ↓ ↑ →) 组成，可以在屏幕顶部的 DANCE GAUGE 下方看到（如果玩家使用 REVERSE 修饰符，则可以在 SCORE 上方看到）。
   
 
+
 ## 与东方Project的关联
   
 待补
   
+
 
 ## 游戏内收录的东方同人曲目
 
@@ -88,6 +94,7 @@ STEP ZONE 由四个灰色箭头 (← ↓ ↑ →) 组成，可以在屏幕顶部
 <tr><th colspan="2"></th></tr><tr><td colspan="2" style="padding-left: 1em;"><div class="floatright"><a href="./文件-東方萃翠酒酔封面.jpg.md" class="image" title="東方萃翠酒酔"><img alt="東方萃翠酒酔" src="https://upload.thwiki.cc/thumb/5/56/%E6%9D%B1%E6%96%B9%E8%90%83%E7%BF%A0%E9%85%92%E9%85%94%E5%B0%81%E9%9D%A2.jpg/200px-%E6%9D%B1%E6%96%B9%E8%90%83%E7%BF%A0%E9%85%92%E9%85%94%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="200" height="200" srcset="https://upload.thwiki.cc/thumb/5/56/%E6%9D%B1%E6%96%B9%E8%90%83%E7%BF%A0%E9%85%92%E9%85%94%E5%B0%81%E9%9D%A2.jpg/300px-%E6%9D%B1%E6%96%B9%E8%90%83%E7%BF%A0%E9%85%92%E9%85%94%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/5/56/%E6%9D%B1%E6%96%B9%E8%90%83%E7%BF%A0%E9%85%92%E9%85%94%E5%B0%81%E9%9D%A2.jpg/400px-%E6%9D%B1%E6%96%B9%E8%90%83%E7%BF%A0%E9%85%92%E9%85%94%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="600" data-file-height="600"></a></div><b><a href="/%E6%9D%B1%E6%96%B9%E8%90%83%E7%BF%A0%E9%85%92%E9%85%94#2" title="東方萃翠酒酔">ウサテイ</a></b> &#91;04:00&#93;<dl><dd><a href="./東方萃翠酒酔.md" title="東方萃翠酒酔">東方萃翠酒酔</a> （2007-08-17）<br>社团：<a href="./IOSYS.md" title="IOSYS">IOSYS</a><br>编曲：<a href="./ビートまりお.md" title="ビートまりお">ビートまりお</a>，<a href="./myu314.md" title="myu314">myu314</a><br>演唱：<a href="./ビートまりお.md" title="ビートまりお">ビートまりお</a>，<a href="./あまね.md" title="あまね">あまね</a><br>原曲：<a href="./宇佐大人的白旗.md" title="宇佐大人的白旗" unred="">お宇佐さまの素い幡</a>，<a href="./灰姑娘的笼子_～_Kagome-Kagome.md" title="灰姑娘的笼子 ～ Kagome-Kagome" unred="">シンデレラケージ　～ Kagome-Kagome</a><br></dd></dl></td></tr>
 <tr><th colspan="2"></th></tr><tr><td colspan="2" style="padding-left: 1em;"><div class="floatright"><a href="./文件-東方月燈籠セーフ！封面.jpg.md" class="image" title="東方月燈籠セーフ！"><img alt="東方月燈籠セーフ！" src="https://upload.thwiki.cc/thumb/c/c1/%E6%9D%B1%E6%96%B9%E6%9C%88%E7%87%88%E7%B1%A0%E3%82%BB%E3%83%BC%E3%83%95%EF%BC%81%E5%B0%81%E9%9D%A2.jpg/200px-%E6%9D%B1%E6%96%B9%E6%9C%88%E7%87%88%E7%B1%A0%E3%82%BB%E3%83%BC%E3%83%95%EF%BC%81%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="200" height="200" srcset="https://upload.thwiki.cc/thumb/c/c1/%E6%9D%B1%E6%96%B9%E6%9C%88%E7%87%88%E7%B1%A0%E3%82%BB%E3%83%BC%E3%83%95%EF%BC%81%E5%B0%81%E9%9D%A2.jpg/300px-%E6%9D%B1%E6%96%B9%E6%9C%88%E7%87%88%E7%B1%A0%E3%82%BB%E3%83%BC%E3%83%95%EF%BC%81%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/c/c1/%E6%9D%B1%E6%96%B9%E6%9C%88%E7%87%88%E7%B1%A0%E3%82%BB%E3%83%BC%E3%83%95%EF%BC%81%E5%B0%81%E9%9D%A2.jpg/400px-%E6%9D%B1%E6%96%B9%E6%9C%88%E7%87%88%E7%B1%A0%E3%82%BB%E3%83%BC%E3%83%95%EF%BC%81%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="2500" data-file-height="2500"></a></div><b><a href="/%E6%9D%B1%E6%96%B9%E6%9C%88%E7%87%88%E7%B1%A0%E3%82%BB%E3%83%BC%E3%83%95%EF%BC%81#2" title="東方月燈籠セーフ！">患部で止まってすぐ溶ける ～ 狂気の優曇華院</a></b> &#91;03:04&#93;<dl><dd><a href="./東方月燈籠セーフ！.md" title="東方月燈籠セーフ！">東方月燈籠セーフ！</a> （2009-04-01）<br>社团：<a href="./IOSYS.md" title="IOSYS">IOSYS</a><br>编曲：<a href="./ARM.md" title="ARM">ARM</a><br>演唱：<a href="./夕野ヨシミ.md" title="夕野ヨシミ">夕野ヨシミ</a>，<a href="./miko.md" title="miko">miko</a>，<a href="/index.php?title=quim&amp;action=edit&amp;redlink=1" class="new" title="quim（页面不存在）">quim</a><br>作词：<a href="/index.php?title=%E3%81%AF%E3%81%8B%E3%81%9B&amp;action=edit&amp;redlink=1" class="new" title="はかせ（页面不存在）">はかせ</a><br>原曲：<a href="./狂气之瞳_～_Invisible_Full_Moon.md" title="狂气之瞳 ～ Invisible Full Moon" unred="">狂気の瞳　～ Invisible Full Moon</a><br></dd></dl></td></tr>
 <tr><th colspan="2"></th></tr><tr><td colspan="2" style="padding-left: 1em;"><div class="floatright"><a href="./文件-WARNING×WARNING×WARNING_-to_the_beginning_05-封面.jpg.md" class="image" title="WARNING×WARNING×WARNING -to the beginning 05-"><img alt="WARNING×WARNING×WARNING -to the beginning 05-" src="https://upload.thwiki.cc/thumb/5/54/WARNING%C3%97WARNING%C3%97WARNING_-to_the_beginning_05-%E5%B0%81%E9%9D%A2.jpg/200px-WARNING%C3%97WARNING%C3%97WARNING_-to_the_beginning_05-%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="200" height="197" srcset="https://upload.thwiki.cc/thumb/5/54/WARNING%C3%97WARNING%C3%97WARNING_-to_the_beginning_05-%E5%B0%81%E9%9D%A2.jpg/300px-WARNING%C3%97WARNING%C3%97WARNING_-to_the_beginning_05-%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/5/54/WARNING%C3%97WARNING%C3%97WARNING_-to_the_beginning_05-%E5%B0%81%E9%9D%A2.jpg/400px-WARNING%C3%97WARNING%C3%97WARNING_-to_the_beginning_05-%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1668" data-file-height="1647"></a></div><b><a href="/WARNING%C3%97WARNING%C3%97WARNING_-to_the_beginning_05-#1" title="WARNING×WARNING×WARNING -to the beginning 05-">WARNING×WARNING×WARNING</a></b> &#91;04:29&#93;<dl><dd><a href="./WARNING×WARNING×WARNING_-to_the_beginning_05-.md" title="WARNING×WARNING×WARNING -to the beginning 05-">WARNING×WARNING×WARNING -to the beginning 05-</a> （2015-12-30）<br>社团：<a href="./暁Records.md" title="暁Records">暁Records</a><br>编曲：<a href="./ACTRock.md" title="ACTRock">ACTRock</a><br>演唱：<a href="./Stack.md" title="Stack">Stack</a><br>作词：<a href="./ACTRock.md" title="ACTRock">ACTRock</a><br>原曲：<a href="./遥遥38万公里的航程.md" title="遥遥38万公里的航程" unred="">遥か３８万キロのボヤージュ</a>，<a href="./星条旗的小丑.md" title="星条旗的小丑" unred="">星条旗のピエロ</a><br></dd></dl></td></tr></tbody></table>
+
 
 
 ## 参考资料

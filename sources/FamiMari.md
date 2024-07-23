@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-FamiMari封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/2/26/FamiMari%E5%B0%81%E9%9D%A2.jpg/275px-FamiMari%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="275" height="280" srcset="https://upload.thwiki.cc/thumb/2/26/FamiMari%E5%B0%81%E9%9D%A2.jpg/412px-FamiMari%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/2/26/FamiMari%E5%B0%81%E9%9D%A2.jpg/550px-FamiMari%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="589" data-file-height="600"></a><div class="cover-char">角色：<a href="./爱丽丝·玛格特洛依德.md" title="爱丽丝·玛格特洛依德">爱丽丝·玛格特洛依德</a>，<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a></div></td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://yomogi-farm.sakura.ne.jp/FamiMari/">http://yomogi-farm.sakura.ne.jp/FamiMari/</a></td></tr></tbody></table>
 
 FamiMari（同人专辑，フランソワさんのよもぎ畑，2007） - 2007年5月20日 由 フランソワさんのよもぎ畑 于 博丽神社例大祭4 发布的全长同人专辑，曲目主要风格是 其他电子，分级为 一般向
+
 ## Staff
   
  **Arrangement**   
@@ -29,6 +31,7 @@ des（[さんだる](http://sandale.hp.infoseek.co.jp/)）
 こよ～（[カレーライスゲノム](http://box.milkcafe.to/)）
 Layout Design
 : 野道（[08140305](http://08140305.com/)）
+
 
 ## 曲目列表
 
@@ -59,12 +62,14 @@ Layout Design
 <tr><td id="25" class="infoO"><b>25</b></td><td id="エンディング" colspan="2" class="title">エンディング<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=蓬屋ふらん&amp;fromwiki=FamiMari"><span title="搜索相似同人曲"></span></a></span></td><td class="time">01:07</td></tr><tr><td class="left"></td><td class="label">再编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E8%93%AC%E5%B1%8B%E3%81%B5%E3%82%89%E3%82%93&amp;action=edit&amp;redlink=1" class="new" title="蓬屋ふらん（页面不存在）">蓬屋ふらん</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=蓬屋ふらん&amp;fromwiki=FamiMari"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=&amp;fromwiki=FamiMari"><span></span></a></span><div class="source"><a href="./MegaMari_魔理沙の野望.md" title="MegaMari 魔理沙の野望">MegaMari 魔理沙の野望</a></div></td></tr></tbody></table>
 
 
+
 ## 评论
   
 黄昏フロンティアさん制作の『MegaMari 魔理沙の野望』がファミコンに移植されたら……ってことで、やりすぎました全曲ファミコン音源アレンジ。  
 
 どことなくロックマンっぽいのは多分気のせいですよ。
   
+
 
 ## 其他信息
   

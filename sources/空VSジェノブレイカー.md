@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-空VSジェノブレイカー封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/a/aa/%E7%A9%BAVS%E3%82%B8%E3%82%A7%E3%83%8E%E3%83%96%E3%83%AC%E3%82%A4%E3%82%AB%E3%83%BC%E5%B0%81%E9%9D%A2.jpg/136px-%E7%A9%BAVS%E3%82%B8%E3%82%A7%E3%83%8E%E3%83%96%E3%83%AC%E3%82%A4%E3%82%AB%E3%83%BC%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="136" height="196" srcset="https://upload.thwiki.cc/thumb/a/aa/%E7%A9%BAVS%E3%82%B8%E3%82%A7%E3%83%8E%E3%83%96%E3%83%AC%E3%82%A4%E3%82%AB%E3%83%BC%E5%B0%81%E9%9D%A2.jpg/203px-%E7%A9%BAVS%E3%82%B8%E3%82%A7%E3%83%8E%E3%83%96%E3%83%AC%E3%82%A4%E3%82%AB%E3%83%BC%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/a/aa/%E7%A9%BAVS%E3%82%B8%E3%82%A7%E3%83%8E%E3%83%96%E3%83%AC%E3%82%A4%E3%82%AB%E3%83%BC%E5%B0%81%E9%9D%A2.jpg/271px-%E7%A9%BAVS%E3%82%B8%E3%82%A7%E3%83%8E%E3%83%96%E3%83%AC%E3%82%A4%E3%82%AB%E3%83%BC%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="742" data-file-height="1072"></a><div class="cover-char">角色：<a href="./灵乌路空.md" title="灵乌路空">灵乌路空</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/59423888">https://www.pixiv.net/artworks/59423888</a></td></tr></tbody></table>
 
 空VSジェノブレイカー（同人志，ラッキーハッピー，2016） - 2016年10月16日 由 ラッキーハッピー 于 博丽神社秋季例大祭3 发布的漫画同人志，一共50页，登场人物有 灵乌路空、小野塚小町、古明地觉、火焰猫燐、四季映姬·夜摩仙那度，分级为 一般向
+
 ## Staff
 - YUKI（人物） (未找到链接)
+
 
 ## 评论
 

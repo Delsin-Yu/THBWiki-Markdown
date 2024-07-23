@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **相关实体周边 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 周边信息](#周边信息)
@@ -22,21 +23,26 @@
 
 
 
+
 ## 周边信息
 
 <table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> Tou Hou Saber妖梦主题挂画 </td></tr><tr><td class="label">系列</td><td> Tou Hou Saber </td></tr><tr><td class="label">制作方</td><td><a href="./天邪鬼夜行.md" title="天邪鬼夜行">天邪鬼夜行</a></td></tr><tr><td class="label">首发日期</td><td>2023-04-30</td></tr><tr><td class="label">类型</td><td>挂画</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>40×60cm</td></tr><tr><td class="label">材质</td><td>丝绢布，实木卷轴</td></tr><tr><td class="label">角色</td><td><a href="./魂魄妖梦.md" title="魂魄妖梦">魂魄妖梦</a></td></tr><tr><td class="label">售价</td><td>50人民币</td></tr></tbody></table>
 
 天邪鬼夜行/Tou Hou Saber妖梦主题挂画（周边，天邪鬼夜行，2023） - 2023年4月30日 由 天邪鬼夜行  发布的挂画周边，分级为 一般向
+
 ## 参考图
   
 周边宣传、售卖时使用的作为参考图的预览图或实物图的图片。
   
 
+
 ### 预览图
 - [](./文件-天邪鬼夜行／Tou_Hou_Saber妖梦主题挂画预览图1.jpg.md)
 
+
 ### 实物图
 - [](./文件-天邪鬼夜行／Tou_Hou_Saber妖梦主题挂画实物图1.jpg.md)
+
 
 ## Staff
 主催
@@ -45,6 +51,7 @@
 : 柯丝娅,COZ,花大仙
 画师
 : 艾露
+
 
 ## 评论
 

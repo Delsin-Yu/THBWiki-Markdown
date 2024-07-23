@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2">无封面</td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://gchm-music.com/index.html">http://gchm-music.com/index.html</a></td></tr></tbody></table>
 
 手焼きCD（同人专辑，GET IN THE RING，2012） - 2012年10月7日 由 GET IN THE RING 于 东方红楼梦8 发布的单曲同人专辑，分级为 一般向
+
 ## Staff
   
  **Arrangement**   
@@ -31,10 +33,12 @@
 <table><tbody><tr><td><a href="./Jell.md" title="Jell">Jell</a></td><td><a href="./GET_IN_THE_RING.md" title="GET IN THE RING">GET IN THE RING</a></td><td>Tr.1</td></tr></tbody></table>
 
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoRD"><b>01</b></td><td id="風に尋る_R&amp;B_ver." colspan="2" class="title"><a href="/%E6%AD%8C%E8%AF%8D:%E9%A2%A8%E3%81%AB%E5%B0%8B%E3%82%8B_R%26B_ver." class="mw-redirect" title="歌词:風に尋る R&amp;B ver.">風に尋る R&#38;B ver.</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=GCHM&amp;vocal=みぃ&amp;lyric=Jell&amp;ogmusic=麓の神社，神は恵みの雨を降らす　～ Sylphid Dream&amp;fromwiki=手焼きCD"><span title="搜索相似同人曲"></span></a></span></td><td class="time">05:16</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./GCHM.md" title="GCHM">GCHM</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，GCHM&amp;fromwiki=手焼きCD"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="./みぃ.md" title="みぃ">みぃ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=みぃ&amp;fromwiki=手焼きCD"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="./Jell.md" title="Jell">Jell</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?lyric=Jell&amp;fromwiki=手焼きCD"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=麓の神社，神は恵みの雨を降らす　～ Sylphid Dream&amp;fromwiki=手焼きCD"><span></span></a></span><div class="ogmusic"><a href="/%E9%BA%93%E3%81%AE%E7%A5%9E%E7%A4%BE" class="mw-redirect" title="麓の神社">麓の神社</a></div><div class="ogmusic"><a href="/%E7%A5%9E%E3%81%AF%E6%81%B5%E3%81%BF%E3%81%AE%E9%9B%A8%E3%82%92%E9%99%8D%E3%82%89%E3%81%99_%EF%BD%9E_Sylphid_Dream" class="mw-redirect" title="神は恵みの雨を降らす ～ Sylphid Dream">神は恵みの雨を降らす　～ Sylphid Dream</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E9%A3%8E%E7%A5%9E%E5%BD%95_%EF%BD%9E_Mountain_of_Faith." class="mw-redirect" title="东方风神录 ～ Mountain of Faith.">东方风神录　～ Mountain of Faith.</a></div></td></tr>
+<table><tbody><tr><td id="1" class="infoRD"><b>01</b></td><td id="風に尋る_R&amp;B_ver." colspan="2" class="title"><a href="./歌词-風に尋る_R&B_ver..md" class="mw-redirect" title="歌词:風に尋る R&amp;B ver.">風に尋る R&#38;B ver.</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=GCHM&amp;vocal=みぃ&amp;lyric=Jell&amp;ogmusic=麓の神社，神は恵みの雨を降らす　～ Sylphid Dream&amp;fromwiki=手焼きCD"><span title="搜索相似同人曲"></span></a></span></td><td class="time">05:16</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./GCHM.md" title="GCHM">GCHM</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，GCHM&amp;fromwiki=手焼きCD"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="./みぃ.md" title="みぃ">みぃ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=みぃ&amp;fromwiki=手焼きCD"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="./Jell.md" title="Jell">Jell</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?lyric=Jell&amp;fromwiki=手焼きCD"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=麓の神社，神は恵みの雨を降らす　～ Sylphid Dream&amp;fromwiki=手焼きCD"><span></span></a></span><div class="ogmusic"><a href="./麓の神社.md" class="mw-redirect" title="麓の神社">麓の神社</a></div><div class="ogmusic"><a href="./神は恵みの雨を降らす_～_Sylphid_Dream.md" class="mw-redirect" title="神は恵みの雨を降らす ～ Sylphid Dream">神は恵みの雨を降らす　～ Sylphid Dream</a></div><div class="source"><a href="./东方风神录_～_Mountain_of_Faith..md" class="mw-redirect" title="东方风神录 ～ Mountain of Faith.">东方风神录　～ Mountain of Faith.</a></div></td></tr>
 <tr><td id="2" class="info"><b>02</b></td><td id="おまけ" colspan="2" class="title">おまけ<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=手焼きCD"><span title="搜索相似同人曲"></span></a></span></td><td class="time">01:15</td></tr></tbody></table>
+
 
 
 ## 评论

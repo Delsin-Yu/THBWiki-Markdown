@@ -164,6 +164,7 @@ AvalonStudioOfficial
 [](./文件-THD2莉格露·奈特巴格.png.md)
   
 
+
 ## 目录
 
 - [1 角色定位](#角色定位)
@@ -184,10 +185,12 @@ AvalonStudioOfficial
 
 
 
+
 ## 角色定位
   
 辅助 - 爆发 - 推进
   
+
 
 ## 技能介绍
 
@@ -662,6 +665,7 @@ AvalonStudioOfficial
 </td></tr></tbody></table>
 
 
+
 ## 天赋树
 
 
@@ -700,25 +704,30 @@ AvalonStudioOfficial
 </td></tr></tbody></table>
 
 
+
 ### 出门装备
 ```
 [](./文件-THD2初阶魔法书.png.md) [](./文件-THD2衰人卡.png.md) [](./文件-THD2思兼生命药.png.md)
 ```
+
 
 ### 前期装备
 ```
 [](./文件-THD2雾雨魔力瓶.png.md) [](./文件-THD2魔法使扫把.png.md)
 ```
 
+
 ### 核心装备
 ```
 [](./文件-THD2不明的秒计时.png.md) [](./文件-THD2半灵练习剑.png.md)
 ```
 
+
 ### 可选装备
 ```
 [](./文件-THD2光龙雷云钻.png.md) [](./文件-THD2神枪冈格尼尔.png.md) [](./文件-THD2油库里之杖.png.md) [](./文件-THD2楼观剑.png.md) [](./文件-THD2月面之弩.png.md) [](./文件-THD2魔人经卷.png.md) [](./文件-THD2亡灵送行提灯.png.md) [](./文件-THD2真澄之镜.png.md) [](./文件-THD2博丽神社护身符.png.md) [](./文件-THD2白楼剑.png.md) [](./文件-THD2月兔粉碎巨刃.png.md) [](./文件-THD2鬼神镣铐.png.md) [](./文件-THD2八云间隙发生器.png.md) [](./文件-THD2冰精跳跃装置.png.md)
 ```
+
 
 ## 技能加点
 
@@ -866,6 +875,7 @@ AvalonStudioOfficial
 </td></tr></tbody></table>
 
 
+
 ## 台词
 
 <table>
@@ -933,6 +943,7 @@ AvalonStudioOfficial
 </td>
 <td>見（み）えない　虫（むし）　は　危険（きけん）よ<br>[看不见的虫子危险哦]
 </td></tr></tbody></table>
+
 
 
 ## 教学视频

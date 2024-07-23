@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 软件信息](#软件信息)
@@ -13,6 +14,7 @@
 - [3 作品简介](#作品简介)
 - [4 内容页面](#内容页面)
 - [5 评论](#评论)
+
 
 
 
@@ -25,10 +27,12 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://dbs.thb.io/">http://dbs.thb.io/</a><br><span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span></td></tr></tbody></table>
 
 幻想梦斗符——梦恋星愿之章X七色轮舞之章（同人游戏，丝风（ProjectZephyr），2016） - 2016年12月3日 由 丝风（ProjectZephyr） 于 COMICUP19 发布的TCG同人游戏，可在 通用 系统上运行，游戏人数为 多人模式，分级为 一般向
+
 ## Staff
   
 沂琳irinwind
   
+
 
 ## 作品简介
   
@@ -41,11 +45,13 @@
 规则数据全面进化平衡；引入新稀有度SSR，补全并完善灵梦、魔理沙、爱丽丝、帕秋丽、红美铃的所有符卡，并追加新角色东风谷早苗。
   
 
+
 ## 内容页面
 - 游戏设定与剧情 (未找到链接)
 - 攻略 (未找到链接)
 - 使用说明 (未找到链接)
 - 其他信息 (未找到链接)
+
 
 ## 评论
 

@@ -4,6 +4,7 @@
 
 セカイノハテ | 社团LOGO
 
+
 ## 摘要
   
 源地址：[direct image link](https://web.archive.org/web/20160611212712im_/http://sekainohate.net/title.jpg), [source page](https://web.archive.org/web/20160713124450/http://sekainohate.net:80/)

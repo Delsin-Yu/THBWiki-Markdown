@@ -14,7 +14,7 @@ The_Grimoire_of_Usami | 使用了翻译表的页面 | 坂田合欢 | 宇佐见�
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./The_Grimoire_of_Usami-赤蛮奇.md" title="The Grimoire of Usami/赤蛮奇">赤蛮奇</a>&#160;
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="/%E5%AE%87%E4%BD%90%E8%A7%81%E7%9A%84%E9%AD%94%E6%B3%95%E4%B9%A6" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a>&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="./宇佐见的魔法书.md" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a>&#160;
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">&#160;<a href="./The_Grimoire_of_Usami-宫古芳香.md" title="The Grimoire of Usami/宫古芳香">宫古芳香</a>
 </td>
@@ -25,7 +25,7 @@ The_Grimoire_of_Usami | 使用了翻译表的页面 | 坂田合欢 | 宇佐见�
 </center>
 <center>第102页</center>
 
-<table><tbody><tr align="left" valign="top"><td style="min-width:200px;"><div class="tt-zhh tt-type-setting" lang="zh"><div class="poem"><a href="/%E6%A2%A6%E5%B0%BD%E3%80%8C%E6%9D%80%E4%BA%BA%E9%AC%BC%E4%B9%8B%E6%80%80%E3%80%8D" class="mw-redirect" title="梦尽「杀人鬼之怀」">梦尽「杀人鬼之怀」</a></div></div><div class="tt-zh tt-type-setting" lang="zh"><div class="poem">使用者：<a href="./坂田合欢.md" title="坂田合欢">坂田合欢</a></div></div><div class="tt-zh tt-type-setting" lang="zh"><div class="poem">山里很吵闹啊。<br>血腥气这么浓的集会是什么？<br>这不是让我的菜刀蠢蠢欲动了嘛。</div></div><div class="tt-header tt-type-setting" lang="zh"><div class="poem">鬼人正邪</div></div><div class="tt-zh tt-type-setting" lang="zh"><div class="poem">温柔的杀人鬼也来了哦。这家伙很能适时地区分使用残虐性与慈悲心这两面性，我个人很欣赏……不对是看着很不爽的家伙。</div></div><div class="tt-header tt-type-setting" lang="zh"><div class="poem">八云紫</div></div><div class="tt-zh tt-type-setting" lang="zh"><div class="poem">大会相关人员不在了，我可以坐在这里吗？</div></div><div class="tt-header tt-type-setting" lang="zh"><div class="poem">宇佐见堇子</div></div><div class="tt-zh tt-type-setting" lang="zh"><div class="poem">代替不见了的评委居然是紫小姐来了，果然是出大事了吗？</div></div></td><td width="200px"><div class="thumb tleft"><div class="thumbinner" style="width:202px;"><a href="./文件-The_Grimoire_of_Usami（坂田合欢1）.jpg.md" class="image"><img alt="" src="https://upload.thwiki.cc/thumb/a/a4/The_Grimoire_of_Usami%EF%BC%88%E5%9D%82%E7%94%B0%E5%90%88%E6%AC%A21%EF%BC%89.jpg/200px-The_Grimoire_of_Usami%EF%BC%88%E5%9D%82%E7%94%B0%E5%90%88%E6%AC%A21%EF%BC%89.jpg" decoding="async" loading="lazy" width="200" height="284" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/a/a4/The_Grimoire_of_Usami%EF%BC%88%E5%9D%82%E7%94%B0%E5%90%88%E6%AC%A21%EF%BC%89.jpg/300px-The_Grimoire_of_Usami%EF%BC%88%E5%9D%82%E7%94%B0%E5%90%88%E6%AC%A21%EF%BC%89.jpg 1.5x, https://upload.thwiki.cc/thumb/a/a4/The_Grimoire_of_Usami%EF%BC%88%E5%9D%82%E7%94%B0%E5%90%88%E6%AC%A21%EF%BC%89.jpg/400px-The_Grimoire_of_Usami%EF%BC%88%E5%9D%82%E7%94%B0%E5%90%88%E6%AC%A21%EF%BC%89.jpg 2x" data-file-width="1266" data-file-height="1800"></a>  <div class="thumbcaption"><div class="magnify"><a href="./文件-The_Grimoire_of_Usami（坂田合欢1）.jpg.md" class="internal" title="放大"></a></div>P102</div></div></div></td></tr></tbody></table>
+<table><tbody><tr align="left" valign="top"><td style="min-width:200px;"><div class="tt-zhh tt-type-setting" lang="zh"><div class="poem"><a href="./梦尽「杀人鬼之怀」.md" class="mw-redirect" title="梦尽「杀人鬼之怀」">梦尽「杀人鬼之怀」</a></div></div><div class="tt-zh tt-type-setting" lang="zh"><div class="poem">使用者：<a href="./坂田合欢.md" title="坂田合欢">坂田合欢</a></div></div><div class="tt-zh tt-type-setting" lang="zh"><div class="poem">山里很吵闹啊。<br>血腥气这么浓的集会是什么？<br>这不是让我的菜刀蠢蠢欲动了嘛。</div></div><div class="tt-header tt-type-setting" lang="zh"><div class="poem">鬼人正邪</div></div><div class="tt-zh tt-type-setting" lang="zh"><div class="poem">温柔的杀人鬼也来了哦。这家伙很能适时地区分使用残虐性与慈悲心这两面性，我个人很欣赏……不对是看着很不爽的家伙。</div></div><div class="tt-header tt-type-setting" lang="zh"><div class="poem">八云紫</div></div><div class="tt-zh tt-type-setting" lang="zh"><div class="poem">大会相关人员不在了，我可以坐在这里吗？</div></div><div class="tt-header tt-type-setting" lang="zh"><div class="poem">宇佐见堇子</div></div><div class="tt-zh tt-type-setting" lang="zh"><div class="poem">代替不见了的评委居然是紫小姐来了，果然是出大事了吗？</div></div></td><td width="200px"><div class="thumb tleft"><div class="thumbinner" style="width:202px;"><a href="./文件-The_Grimoire_of_Usami（坂田合欢1）.jpg.md" class="image"><img alt="" src="https://upload.thwiki.cc/thumb/a/a4/The_Grimoire_of_Usami%EF%BC%88%E5%9D%82%E7%94%B0%E5%90%88%E6%AC%A21%EF%BC%89.jpg/200px-The_Grimoire_of_Usami%EF%BC%88%E5%9D%82%E7%94%B0%E5%90%88%E6%AC%A21%EF%BC%89.jpg" decoding="async" loading="lazy" width="200" height="284" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/a/a4/The_Grimoire_of_Usami%EF%BC%88%E5%9D%82%E7%94%B0%E5%90%88%E6%AC%A21%EF%BC%89.jpg/300px-The_Grimoire_of_Usami%EF%BC%88%E5%9D%82%E7%94%B0%E5%90%88%E6%AC%A21%EF%BC%89.jpg 1.5x, https://upload.thwiki.cc/thumb/a/a4/The_Grimoire_of_Usami%EF%BC%88%E5%9D%82%E7%94%B0%E5%90%88%E6%AC%A21%EF%BC%89.jpg/400px-The_Grimoire_of_Usami%EF%BC%88%E5%9D%82%E7%94%B0%E5%90%88%E6%AC%A21%EF%BC%89.jpg 2x" data-file-width="1266" data-file-height="1800"></a>  <div class="thumbcaption"><div class="magnify"><a href="./文件-The_Grimoire_of_Usami（坂田合欢1）.jpg.md" class="internal" title="放大"></a></div>P102</div></div></div></td></tr></tbody></table>
 
 
 
@@ -37,7 +37,7 @@ The_Grimoire_of_Usami | 使用了翻译表的页面 | 坂田合欢 | 宇佐见�
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./The_Grimoire_of_Usami-赤蛮奇.md" title="The Grimoire of Usami/赤蛮奇">赤蛮奇</a>&#160;
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="/%E5%AE%87%E4%BD%90%E8%A7%81%E7%9A%84%E9%AD%94%E6%B3%95%E4%B9%A6" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a>&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="./宇佐见的魔法书.md" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a>&#160;
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">&#160;<a href="./The_Grimoire_of_Usami-宫古芳香.md" title="The Grimoire of Usami/宫古芳香">宫古芳香</a>
 </td>
@@ -46,6 +46,7 @@ The_Grimoire_of_Usami | 使用了翻译表的页面 | 坂田合欢 | 宇佐见�
 
   
 </center>
+
 
 ## 词条导航
   

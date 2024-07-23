@@ -4,6 +4,7 @@
 
 Afternoon＊Tea | 社团LOGO
 
+
 ## 摘要
   
 源地址：[direct image link (original size)](https://s2.booth.pm/3fdc3b0a-7534-4360-b46e-35bd7956549d/83e0c422-9238-4d74-b68e-d7a2508b5816.jpeg), [source page (circle Booth logo)](https://expafternoontea.booth.pm/)

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **相关实体周边 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 周边信息](#周边信息)
@@ -21,22 +22,27 @@
 
 
 
+
 ## 周边信息
 
 <table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 觉恋主题十五色眼影盘 </td></tr><tr><td class="label">制作方</td><td><a href="./AUTOSAKURA.md" title="AUTOSAKURA">AUTOSAKURA</a></td></tr><tr><td class="label">首发日期</td><td>2019-09-09</td></tr><tr><td class="label">类型</td><td>化妆品</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">角色</td><td><a href="./古明地觉.md" title="古明地觉">古明地觉</a><br><a href="./古明地恋.md" title="古明地恋">古明地恋</a></td></tr>
 <tr><td class="label">官网页面</td><td><a rel="nofollow" class="external free" href="https://weibo.com/6868180126/I9EKG3UuL">https://weibo.com/6868180126/I9EKG3UuL</a></td></tr></tbody></table>
 
 AUTOSAKURA/觉恋主题十五色眼影盘（周边，AUTOSAKURA，2019） - 2019年9月9日 由 AUTOSAKURA  发布的化妆品周边，分级为 一般向
+
 ## 参考图
   
 周边宣传、售卖时使用的作为参考图的预览图或实物图的图片。
   
 
+
 ### 实物图
 - [](./文件-AUTOSAKURA／觉恋主题十五色眼影盘实物图1.png.md)- [](./文件-AUTOSAKURA／觉恋主题十五色眼影盘实物图2.jpg.md)
 
+
 ## Staff
 - 下马坊梅花糕 (未找到链接)
+
 
 ## 评论
 

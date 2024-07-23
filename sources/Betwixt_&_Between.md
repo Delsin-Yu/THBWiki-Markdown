@@ -6,16 +6,20 @@
 
 本页是关于东方Project  
  **二次同人创作者** 的词条
+
 ## 基本信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="label"><b>名称</b></td><td> Betwixt &amp; Between </td></tr><tr><td class="label"><b>所属社团</b></td><td><b>当前</b><div style="margin-left:2em;">TOTAL DISCOMMUNICATION</div></td></tr><tr><td class="label"><b>职位</b></td><td>作词</td></tr></tbody></table>
 
 Betwixt &amp; Between（人物） - 现实人物
+
 ## 介绍
+
 ## 参与曲目
   
 模板:人物曲目列表 (未找到链接)
   
+
 
 ## 人际关系
 

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -41,11 +42,13 @@
 
 
 
+
 ## 基本信息
 
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">夜が降りてくる　～ Evening Star</td></tr><tr><td><b>译名</b></td><td>夜幕降临 ～ Evening Star</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 夜幕降临 ～ Evening Star（曲目） - 由 ZUN 创作的官方曲目，原名 夜が降りてくる　～ Evening Star
+
 ## 出现作品
 
 <table>
@@ -60,10 +63,13 @@
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 梦违科学世纪
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-hr03_07.mp3.md" title="文件:hr03 07.mp3">hr03_07.mp3</a><br><audio src="https://upload.thwiki.cc/f/f3/hr03_07.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track07.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>4:34</td></tr></tbody></table>
+
 
 
 ### 幻想曲拔萃
@@ -75,9 +81,11 @@
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-TFM-001b_21.mp3.md" title="文件:TFM-001b 21.mp3">TFM-001b_21.mp3</a><br><audio src="https://upload.thwiki.cc/a/ab/TFM-001b_21.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track21.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>1:58</td></tr></tbody></table>
 
 
+
 ### 全人类的天乐录
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-TFM-003A_10.mp3.md" title="文件:TFM-003A 10.mp3">TFM-003A_10.mp3</a><br><audio src="https://upload.thwiki.cc/5/5a/TFM-003A_10.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track10.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>3:03</td></tr></tbody></table>
+
 
 
 ### 完全凭依唱片名录
@@ -85,7 +93,9 @@
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-TFM-009c_07.mp3.md" title="文件:TFM-009c 07.mp3">TFM-009c_07.mp3</a><br><audio src="https://upload.thwiki.cc/f/f1/TFM-009c_07.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track07.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>4:46</td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 东方萃梦想
 - Music Room (未找到链接)
 
@@ -93,18 +103,23 @@
 我认为这首曲子兼具了可怕与舒畅的感觉，所以才成为了很有紫风格的曲子，  
 而且并不混合西方和东方风格，而是各自保存分离再统一在一首曲子，大概吧。  
 说到紫的话，和洋折衷就是不行呢。不将其各自保持分离的话，重要的境界就会消失掉了。
+
 ### 幻想曲拔萃
 - U2的文本 (未找到链接)
 
 ■　夜幕降临　～ Evening Star  
 我最喜欢的手风琴及小编制。虽然我非常喜欢这个编曲，但改编的其他3曲都有点交响乐风格，或许这首曲子也弄成那样有点统一感比较好。
+
 ### 东方文花帖（书籍）
 - 幻想的音觉 (未找到链接)
 
 （『[东方萃梦想](./东方萃梦想.md)』／『[梦违科学世纪](./梦违科学世纪.md)』收录曲）　　虽然说到射击游戏以外的曲子就会有些烦恼，但一旦试着创作的话，还是和一直以来一样过去了。这首曲子是那个令人困扰的妖怪八云紫的主题曲。所以说，很想在曲子里加入境界，使其由明确的两种不同的印象构成。这境界的前半部分很令人不快，后半部分却倍感舒适，因为突然感到视野扩大而心情变得很是舒畅。  
 　　听这首曲子的时候，恍惚可见急速扩大的视野和傍晚的神社。只要听了就立即明白是东方的曲子，能感到某些地方和其他曲子的不同。虽然没法形成理论，我觉得这是由于曲子的幻觉成分有差别。也就是说，能反映出我心中意识到不是射击游戏。
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
   
  **夜が降りてくる　～ Evening Star**  夜幕降临　～ Evening Star
@@ -119,7 +134,9 @@
   - 《东方萃梦想》中紫在晚上快到来的时候才登场。
 
 
-<unsupported html=blockquote>
+<blockquote><table class="wikitable tt-table tt-type-omake" data-page="东方香霖堂/第25话/中日对照"><tbody><tr class="tt-content" id="=-61" data-pos="&#91;&quot;=&quot;,61&#93;"><td class="tt-ja" lang="ja"><div class="poem">「英語の『エイト』と『ナイト』、ラテン語の『オクト』と『ノクト』<sup id="cite_ref-nox_1-0" class="reference"><a href="#cite_note-nox-1">1</a></sup>、ドイツ語の『アハト』と『ナハト』……他にも世界の言語の多くが八と夜が似ているんだ。これでも偶然かい？」</div></td><td class="tt-zh" lang="zh"><div class="poem">“像英语的‘eight’和‘night’，拉丁语的‘octo’和‘noct’<sup id="cite_ref-nox_1-1" class="reference"><a href="#cite_note-nox-1">1</a></sup>，德语的‘Acht’和‘Nacht’……之外世界还有许多语言中的八和夜都很相似。难道这些也都是偶然吗？”</div></td></tr></tbody></table>
+<div align="right">——<a href="/%E4%B8%9C%E6%96%B9%E9%A6%99%E9%9C%96%E5%A0%82/%E7%AC%AC25%E8%AF%9D" title="东方香霖堂/第25话">东方香霖堂/第25话</a></div></blockquote>
+
 - 降りてくる
   - 夜幕降临，指从昼到夜的变化。
     - 昼与夜的境界／界线？
@@ -133,6 +150,7 @@
     - 天津瓮星  
 《日本书纪》中记载的反抗天神的恶神。在《三月精》与《儚月抄》中被提及，群星与夜的神。
     - 是八云紫的象征？
+
 
 
 
@@ -154,6 +172,7 @@
 
 
 [^cite_note-nox-1]: 拉丁语的「夜」（主格单数）实际应为“nox”，日语相应读作「ノクス」或「ノックス」
+
 
 ## 参见
 - [八云紫/分析考据](./八云紫-分析考据.md)

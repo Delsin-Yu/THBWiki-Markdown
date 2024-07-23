@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-ハートコネクションTOPPLE_合同誌マッチング本封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/f/f4/%E3%83%8F%E3%83%BC%E3%83%88%E3%82%B3%E3%83%8D%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3TOPPLE_%E5%90%88%E5%90%8C%E8%AA%8C%E3%83%9E%E3%83%83%E3%83%81%E3%83%B3%E3%82%B0%E6%9C%AC%E5%B0%81%E9%9D%A2.jpg/196px-%E3%83%8F%E3%83%BC%E3%83%88%E3%82%B3%E3%83%8D%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3TOPPLE_%E5%90%88%E5%90%8C%E8%AA%8C%E3%83%9E%E3%83%83%E3%83%81%E3%83%B3%E3%82%B0%E6%9C%AC%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="196" height="147" srcset="https://upload.thwiki.cc/thumb/f/f4/%E3%83%8F%E3%83%BC%E3%83%88%E3%82%B3%E3%83%8D%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3TOPPLE_%E5%90%88%E5%90%8C%E8%AA%8C%E3%83%9E%E3%83%83%E3%83%81%E3%83%B3%E3%82%B0%E6%9C%AC%E5%B0%81%E9%9D%A2.jpg/294px-%E3%83%8F%E3%83%BC%E3%83%88%E3%82%B3%E3%83%8D%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3TOPPLE_%E5%90%88%E5%90%8C%E8%AA%8C%E3%83%9E%E3%83%83%E3%83%81%E3%83%B3%E3%82%B0%E6%9C%AC%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/f/f4/%E3%83%8F%E3%83%BC%E3%83%88%E3%82%B3%E3%83%8D%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3TOPPLE_%E5%90%88%E5%90%8C%E8%AA%8C%E3%83%9E%E3%83%83%E3%83%81%E3%83%B3%E3%82%B0%E6%9C%AC%E5%B0%81%E9%9D%A2.jpg/392px-%E3%83%8F%E3%83%BC%E3%83%88%E3%82%B3%E3%83%8D%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3TOPPLE_%E5%90%88%E5%90%8C%E8%AA%8C%E3%83%9E%E3%83%83%E3%83%81%E3%83%B3%E3%82%B0%E6%9C%AC%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1500" data-file-height="1123"></a><div class="cover-char">角色：<a href="./比那名居天子.md" title="比那名居天子">比那名居天子</a>，<a href="./灵乌路空.md" title="灵乌路空">灵乌路空</a></div></td>
@@ -17,9 +18,11 @@
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=459929">蜜瓜</a></td></tr><tr><td class="label">授权代理</td><td colspan="2"><a rel="nofollow" class="external text" href="https://item.taobao.com/item.htm?id=616270052653">淘宝囧仙子通贩</a></td></tr></tbody></table>
 
 
+
 ## Staff
 主催
 : [真島てつろー](./真島てつろー.md)
+
 
 ## 评论
   

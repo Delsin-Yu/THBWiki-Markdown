@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **东方风自作曲** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -27,11 +28,13 @@
 
 
 
+
 ## 基本信息
 
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">ミルキーブロードウェイ</td></tr><tr><td><b>译名</b></td><td>Milky Broadway</td></tr><tr><td><b>作曲</b></td><td><a href="./Wanwan.md" title="Wanwan">Wanwan</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 Milky Broadway（曲目） - 由 Wanwan 创作的东方风自作曲，原名 ミルキーブロードウェイ
+
 ## 出现作品
 
 <table>
@@ -39,7 +42,9 @@ Milky Broadway（曲目） - 由 Wanwan 创作的东方风自作曲，原名 ミ
 </tbody></table>
 
 
+
 ## 说明文本
+
 ### 东方导命树
 - [Music Room](./東方導命樹_～_Mystical_Power_Plant.-音乐.md)
 
@@ -55,8 +60,11 @@ Milky Broadway（曲目） - 由 Wanwan 创作的东方风自作曲，原名 ミ
 但感觉舞台下的乐团演奏也很厉害。记不清了。
   
 
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
 
 

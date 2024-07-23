@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=Zero_Two%E5%B0%81%E9%9D%A2.jpg" class="new" title="文件:Zero Two封面.jpg">封面图片</a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></div></td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.deviantart.com/nextheaven/journal/Touhou-Illustration-Fanbook-PRE-ORDER-NOW-367720779">https://www.deviantart.com/nextheaven/journal/Touhou-Illustration-Fanbook-PRE-ORDER-NOW-367720779</a><br><a rel="nofollow" class="external free" href="https://www.deviantart.com/mysticswordsman21/art/Zero-Two-Pre-order-Open-367659172">https://www.deviantart.com/mysticswordsman21/art/Zero-Two-Pre-order-Open-367659172</a></td></tr></tbody></table>
 
 Zero Two（同人志，NextHeaven，2013） - 2024年6月22日 由 NextHeaven  发布的画集/合同志同人志，一共44页，分级为 一般向
+
 ## Staff
 Cover Illustration &amp; Design
 : limsera （[DeviantArt: kpj11](https://www.deviantart.com/kpj11)）
@@ -40,6 +42,7 @@ Illustration (guest)
 : Alx-z （[DeviantArt: alx-z](https://www.deviantart.com/alx-z)）
 : Riki-to （[DeviantArt: riki-to](https://www.deviantart.com/riki-to)）
 : Kane-neko （[DeviantArt: kane-neko](https://www.deviantart.com/kane-neko)）
+
 
 ## 评论
 

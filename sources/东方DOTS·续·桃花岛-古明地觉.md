@@ -169,6 +169,7 @@
 [](./文件-THD2古明地觉.png.md)
   
 
+
 ## 目录
 
 - [1 角色定位](#角色定位)
@@ -189,10 +190,12 @@
 
 
 
+
 ## 角色定位
   
 辅助 - 控制 - 推进
   
+
 
 ## 技能介绍
 
@@ -685,6 +688,7 @@
 </td></tr></tbody></table>
 
 
+
 ## 天赋树
 
 
@@ -723,10 +727,15 @@
 </td></tr></tbody></table>
 
 
+
 ### 出门装备
+
 ### 前期装备
+
 ### 核心装备
+
 ### 可选装备
+
 ## 技能加点
 
 <table>
@@ -787,6 +796,7 @@
 <td><a href="./文件-DOTA黄点.png.md" class="image" title="+2 全属性"><img alt="+2 全属性" src="https://upload.thwiki.cc/thumb/d/da/DOTA%E9%BB%84%E7%82%B9.png/40px-DOTA%E9%BB%84%E7%82%B9.png" decoding="async" loading="lazy" width="40" height="40" srcset="https://upload.thwiki.cc/thumb/d/da/DOTA%E9%BB%84%E7%82%B9.png/60px-DOTA%E9%BB%84%E7%82%B9.png 1.5x, https://upload.thwiki.cc/thumb/d/da/DOTA%E9%BB%84%E7%82%B9.png/80px-DOTA%E9%BB%84%E7%82%B9.png 2x" data-file-width="128" data-file-height="128"></a></td>
 <td><a href="./文件-THD2天赋树25左.png.md" class="image" title="恐怖催眠术每次判定成功窃取目标最大生命和魔法6%"><img alt="恐怖催眠术每次判定成功窃取目标最大生命和魔法6%" src="https://upload.thwiki.cc/thumb/a/aa/THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%B7%A6.png/40px-THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%B7%A6.png" decoding="async" loading="lazy" width="40" height="40" srcset="https://upload.thwiki.cc/thumb/a/aa/THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%B7%A6.png/60px-THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%B7%A6.png 1.5x, https://upload.thwiki.cc/thumb/a/aa/THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%B7%A6.png/80px-THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%B7%A6.png 2x" data-file-width="103" data-file-height="103"></a>
 </td></tr></tbody></table>
+
 
 
 ## 台词
@@ -869,6 +879,7 @@
 <td>押し倒す？<br>[推倒她么？]
 </td></tr>
 </tbody></table>
+
 
 
 ## 教学视频

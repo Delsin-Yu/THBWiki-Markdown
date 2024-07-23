@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-T4G封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/1/1e/T4G%E5%B0%81%E9%9D%A2.jpg/99px-T4G%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="99" height="140" srcset="https://upload.thwiki.cc/thumb/1/1e/T4G%E5%B0%81%E9%9D%A2.jpg/149px-T4G%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/1/1e/T4G%E5%B0%81%E9%9D%A2.jpg/198px-T4G%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="708" data-file-height="1000"></a><div class="cover-char">角色：<a href="./娜兹玲.md" title="娜兹玲">娜兹玲</a>，<a href="./物部布都.md" title="物部布都">物部布都</a>，<a href="./东风谷早苗.md" title="东风谷早苗">东风谷早苗</a></div></td>
@@ -14,10 +15,13 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/37340794">https://www.pixiv.net/artworks/37340794</a></td></tr></tbody></table>
 
 T4G（同人志，めんつゆパレード，2013） - 2013年8月12日 由 めんつゆパレード 于 Comic Market 84 发布的漫画/合同志同人志，登场人物有 娜兹玲、物部布都、东风谷早苗、苏我屠自古、博丽灵梦、雾雨魔理沙、寅丸星、圣白莲，分级为 一般向
+
 ## 预览
+
 ## Staff
 - 議長 (未找到链接)
 - 義憐 (未找到链接)
+
 
 ## 评论
 

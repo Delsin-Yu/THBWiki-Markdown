@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-＃ハタテチャンス_THE_COMIC封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/d/dd/%EF%BC%83%E3%83%8F%E3%82%BF%E3%83%86%E3%83%81%E3%83%A3%E3%83%B3%E3%82%B9_THE_COMIC%E5%B0%81%E9%9D%A2.jpg/159px-%EF%BC%83%E3%83%8F%E3%82%BF%E3%83%86%E3%83%81%E3%83%A3%E3%83%B3%E3%82%B9_THE_COMIC%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="159" height="224" srcset="https://upload.thwiki.cc/thumb/d/dd/%EF%BC%83%E3%83%8F%E3%82%BF%E3%83%86%E3%83%81%E3%83%A3%E3%83%B3%E3%82%B9_THE_COMIC%E5%B0%81%E9%9D%A2.jpg/238px-%EF%BC%83%E3%83%8F%E3%82%BF%E3%83%86%E3%83%81%E3%83%A3%E3%83%B3%E3%82%B9_THE_COMIC%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/d/dd/%EF%BC%83%E3%83%8F%E3%82%BF%E3%83%86%E3%83%81%E3%83%A3%E3%83%B3%E3%82%B9_THE_COMIC%E5%B0%81%E9%9D%A2.jpg/317px-%EF%BC%83%E3%83%8F%E3%82%BF%E3%83%86%E3%83%81%E3%83%A3%E3%83%B3%E3%82%B9_THE_COMIC%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="319" data-file-height="450"></a><div class="cover-char">角色：<a href="./姬海棠果.md" title="姬海棠果">姬海棠果</a></div></td>
@@ -14,10 +15,13 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://hbtd16.sakura.ne.jp/web/kyoto2016/chance/">http://hbtd16.sakura.ne.jp/web/kyoto2016/chance/</a></td></tr></tbody></table>
 
 ＃ハタテチャンス THE COMIC（同人志，日々徒然。，2016） - 2016年10月30日 由 日々徒然。 于 文文。新闻友人集会7 发布的漫画同人志，B5尺寸一共32页，登场人物有 姬海棠果、犬走椛，分级为 一般向
+
 ## 预览
+
 ## Staff
 - 渡瀬玲 (未找到链接)（渡瀬屋 (未找到链接)）
 - [古翠](./古翠.md)
+
 
 ## 评论
 

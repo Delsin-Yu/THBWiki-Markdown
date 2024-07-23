@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 软件信息](#软件信息)
@@ -42,6 +43,7 @@
 
 
 
+
 ## 软件信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-东方远空界_~_Ultimate_Vitality_of_Imagination封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/4/46/%E4%B8%9C%E6%96%B9%E8%BF%9C%E7%A9%BA%E7%95%8C_~_Ultimate_Vitality_of_Imagination%E5%B0%81%E9%9D%A2.png/224px-%E4%B8%9C%E6%96%B9%E8%BF%9C%E7%A9%BA%E7%95%8C_~_Ultimate_Vitality_of_Imagination%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="224" height="224" srcset="https://upload.thwiki.cc/thumb/4/46/%E4%B8%9C%E6%96%B9%E8%BF%9C%E7%A9%BA%E7%95%8C_~_Ultimate_Vitality_of_Imagination%E5%B0%81%E9%9D%A2.png/336px-%E4%B8%9C%E6%96%B9%E8%BF%9C%E7%A9%BA%E7%95%8C_~_Ultimate_Vitality_of_Imagination%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/4/46/%E4%B8%9C%E6%96%B9%E8%BF%9C%E7%A9%BA%E7%95%8C_~_Ultimate_Vitality_of_Imagination%E5%B0%81%E9%9D%A2.png/448px-%E4%B8%9C%E6%96%B9%E8%BF%9C%E7%A9%BA%E7%95%8C_~_Ultimate_Vitality_of_Imagination%E5%B0%81%E9%9D%A2.png 2x" data-file-width="512" data-file-height="512"></a><div class="cover-char">角色：<a href="./爱赫娜特恩·凝心.md" title="爱赫娜特恩·凝心">爱赫娜特恩·凝心</a>，<a href="./神欲知现空.md" title="神欲知现空">神欲知现空</a>，<a href="./明隐玄思.md" title="明隐玄思">明隐玄思</a></div></td>
@@ -53,12 +55,16 @@
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://store.steampowered.com/app/1700220">Steam</a></td></tr></tbody></table>
 
 
+
 ## Staff
+
 #### 弹幕设计/关卡设计、程序、文案、美术/立绘、音乐/音效、宣传
 - 飘游轻风旅
 
+
 #### 游戏引擎
 - 璀境石
+
 
 #### 测试
 - 吃货子sama
@@ -70,9 +76,11 @@
 - PEG
 - 禁忌
 
+
 #### 特别感谢
 - Xiliusha
 - Methylene
+
 
 ## 游戏介绍
   
@@ -87,6 +95,7 @@
 她们会踏入怎样光怪离奇的世界？她们会遭遇何种意想不到的危机？
   
 
+
 ### 关于这款游戏
   
 「东方远空界 ～ Ultimate Vitality of Imagination」是东方Project的二次创作作品，  
@@ -99,6 +108,7 @@
 
 本游戏适合有游玩东方正作游戏经验以及对STG有兴趣的玩家游玩。
   
+
 
 ### 操作方法
   
@@ -122,6 +132,7 @@ ESC：暂停、菜单界面后退。
 建议玩家在第一次进行游戏之前先进入【Manual】阅读游戏指南以及【Options】进行基本的设置。
   
 
+
 ### 故事背景
   
 幻想乡才是初夏时分，树木却已经有了秋色。  
@@ -134,6 +145,7 @@ ESC：暂停、菜单界面后退。
 
 少女们怀着各自的想法，踏上了探秘异变的旅程。
   
+
 
 ### 游戏特色
   
@@ -161,12 +173,15 @@ ESC：暂停、菜单界面后退。
 - 已在Steam推出正式版
 - 游戏QQ交流群号：1142180207
 
+
 ## 角色
+
 ### 自机
 
 <table><tbody><tr><td style="min-width:40px;" rowspan=""><div class="center"><div class="floatnone"><a href="./文件-博丽灵梦（远空界）.png.md" class="image" title="博丽灵梦"><img alt="博丽灵梦" src="https://upload.thwiki.cc/thumb/c/c7/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E8%BF%9C%E7%A9%BA%E7%95%8C%EF%BC%89.png/28px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E8%BF%9C%E7%A9%BA%E7%95%8C%EF%BC%89.png" decoding="async" loading="lazy" width="28" height="40" srcset="https://upload.thwiki.cc/thumb/c/c7/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E8%BF%9C%E7%A9%BA%E7%95%8C%EF%BC%89.png/43px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E8%BF%9C%E7%A9%BA%E7%95%8C%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/c/c7/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E8%BF%9C%E7%A9%BA%E7%95%8C%EF%BC%89.png/57px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E8%BF%9C%E7%A9%BA%E7%95%8C%EF%BC%89.png 2x" data-file-width="1024" data-file-height="1440"></a></div></div></td> <td style="width:150px;padding:3px 9px 3px 7px;" rowspan="">优哉游哉的乐园巫女 </td><td style="width:180px;padding:3px 9px 3px 7px;"><a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></td><td><a href="./东方远空界_~_Ultimate_Vitality_of_Imagination-博丽灵梦.md" title="东方远空界 ~ Ultimate Vitality of Imagination/博丽灵梦">游戏对话/结局</a><br><a href="./东方远空界_~_Ultimate_Vitality_of_Imagination-博丽灵梦_ExStory.md" title="东方远空界 ~ Ultimate Vitality of Imagination/博丽灵梦 ExStory">Extra游戏对话</a></td></tr>
 <tr><td style="min-width:40px;" rowspan=""><div class="center"><div class="floatnone"><a href="./文件-雾雨魔理沙（远空界）.png.md" class="image" title="雾雨魔理沙"><img alt="雾雨魔理沙" src="https://upload.thwiki.cc/thumb/9/9d/%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%EF%BC%88%E8%BF%9C%E7%A9%BA%E7%95%8C%EF%BC%89.png/26px-%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%EF%BC%88%E8%BF%9C%E7%A9%BA%E7%95%8C%EF%BC%89.png" decoding="async" loading="lazy" width="26" height="40" srcset="https://upload.thwiki.cc/thumb/9/9d/%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%EF%BC%88%E8%BF%9C%E7%A9%BA%E7%95%8C%EF%BC%89.png/40px-%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%EF%BC%88%E8%BF%9C%E7%A9%BA%E7%95%8C%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/9/9d/%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%EF%BC%88%E8%BF%9C%E7%A9%BA%E7%95%8C%EF%BC%89.png/53px-%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%EF%BC%88%E8%BF%9C%E7%A9%BA%E7%95%8C%EF%BC%89.png 2x" data-file-width="1024" data-file-height="1537"></a></div></div></td> <td style="width:150px;padding:3px 9px 3px 7px;" rowspan="">心直口快的魔法使 </td><td style="width:180px;padding:3px 9px 3px 7px;"><a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a></td><td><a href="./东方远空界_~_Ultimate_Vitality_of_Imagination-雾雨魔理沙.md" title="东方远空界 ~ Ultimate Vitality of Imagination/雾雨魔理沙">游戏对话/结局</a><br><a href="./东方远空界_~_Ultimate_Vitality_of_Imagination-雾雨魔理沙_ExStory.md" title="东方远空界 ~ Ultimate Vitality of Imagination/雾雨魔理沙 ExStory">Extra游戏对话</a></td></tr>
 <tr><td style="min-width:40px;" rowspan=""><div class="center"><div class="floatnone"><a href="./文件-射命丸文（远空界）.png.md" class="image" title="射命丸文"><img alt="射命丸文" src="https://upload.thwiki.cc/thumb/d/d2/%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87%EF%BC%88%E8%BF%9C%E7%A9%BA%E7%95%8C%EF%BC%89.png/28px-%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87%EF%BC%88%E8%BF%9C%E7%A9%BA%E7%95%8C%EF%BC%89.png" decoding="async" loading="lazy" width="28" height="40" srcset="https://upload.thwiki.cc/thumb/d/d2/%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87%EF%BC%88%E8%BF%9C%E7%A9%BA%E7%95%8C%EF%BC%89.png/43px-%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87%EF%BC%88%E8%BF%9C%E7%A9%BA%E7%95%8C%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/d/d2/%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87%EF%BC%88%E8%BF%9C%E7%A9%BA%E7%95%8C%EF%BC%89.png/57px-%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87%EF%BC%88%E8%BF%9C%E7%A9%BA%E7%95%8C%EF%BC%89.png 2x" data-file-width="1024" data-file-height="1440"></a></div></div></td> <td style="width:150px;padding:3px 9px 3px 7px;" rowspan="">和颜悦色的新闻记者 </td><td style="width:180px;padding:3px 9px 3px 7px;"><a href="./射命丸文.md" title="射命丸文">射命丸文</a></td><td><a href="./东方远空界_~_Ultimate_Vitality_of_Imagination-射命丸文.md" title="东方远空界 ~ Ultimate Vitality of Imagination/射命丸文">游戏对话/结局</a><br><a href="./东方远空界_~_Ultimate_Vitality_of_Imagination-射命丸文_ExStory.md" title="东方远空界 ~ Ultimate Vitality of Imagination/射命丸文 ExStory">Extra游戏对话</a></td></tr></tbody></table>
+
 
 
 ### BOSS
@@ -180,9 +195,11 @@ ESC：暂停、菜单界面后退。
 <tr><td rowspan="2" class="bg-color-info-10" style="min-width:100px"><b>EX面道中</b><br><i><a href="/index.php?title=%E7%A7%8B%E9%9B%AA%E4%B8%80%E5%A4%9C%E8%90%BD%E5%B1%B1%E6%9E%97&amp;action=edit&amp;redlink=1" class="new" title="秋雪一夜落山林（页面不存在）">秋雪一夜落山林</a></i></td><td style="min-width:35px" rowspan="1"><div class="center"><div class="floatnone"><a href="./文件-雾凛凉纪.png.md" class="image"><img alt="雾凛凉纪.png" src="https://upload.thwiki.cc/thumb/d/d5/%E9%9B%BE%E5%87%9B%E5%87%89%E7%BA%AA.png/28px-%E9%9B%BE%E5%87%9B%E5%87%89%E7%BA%AA.png" decoding="async" loading="lazy" width="28" height="40" srcset="https://upload.thwiki.cc/thumb/d/d5/%E9%9B%BE%E5%87%9B%E5%87%89%E7%BA%AA.png/43px-%E9%9B%BE%E5%87%9B%E5%87%89%E7%BA%AA.png 1.5x, https://upload.thwiki.cc/thumb/d/d5/%E9%9B%BE%E5%87%9B%E5%87%89%E7%BA%AA.png/57px-%E9%9B%BE%E5%87%9B%E5%87%89%E7%BA%AA.png 2x" data-file-width="1024" data-file-height="1440"></a></div></div></td>  <td style="width:150px;padding:3px 9px 3px 7px;" colspan="2" rowspan="1"> <a href="./雾凛凉纪.md" title="雾凛凉纪">雾凛凉纪</a> </td></tr><tr><td style="min-width:35px" rowspan="1"><div class="center"><div class="floatnone"><a href="./文件-梦行远游.png.md" class="image"><img alt="梦行远游.png" src="https://upload.thwiki.cc/thumb/7/79/%E6%A2%A6%E8%A1%8C%E8%BF%9C%E6%B8%B8.png/28px-%E6%A2%A6%E8%A1%8C%E8%BF%9C%E6%B8%B8.png" decoding="async" loading="lazy" width="28" height="40" srcset="https://upload.thwiki.cc/thumb/7/79/%E6%A2%A6%E8%A1%8C%E8%BF%9C%E6%B8%B8.png/43px-%E6%A2%A6%E8%A1%8C%E8%BF%9C%E6%B8%B8.png 1.5x, https://upload.thwiki.cc/thumb/7/79/%E6%A2%A6%E8%A1%8C%E8%BF%9C%E6%B8%B8.png/57px-%E6%A2%A6%E8%A1%8C%E8%BF%9C%E6%B8%B8.png 2x" data-file-width="1024" data-file-height="1440"></a></div></div></td>  <td style="width:150px;padding:3px 9px 3px 7px;" colspan="2" rowspan="1"> <a href="./梦行远游.md" title="梦行远游">梦行远游</a> </td></tr><tr><td rowspan="1" class="bg-color-info-10" style="min-width:100px"><b>EX面BOSS</b><br><i><a href="/index.php?title=%E9%9A%90%E4%B8%96%E7%9A%84%E8%B6%85%E8%B6%8A%E8%80%85_%EF%BD%9E_Hidden_Desire&amp;action=edit&amp;redlink=1" class="new" title="隐世的超越者 ～ Hidden Desire（页面不存在）">隐世的超越者 ～ Hidden Desire</a></i></td><td style="min-width:35px" rowspan="1"><div class="center"><div class="floatnone"><a href="./文件-明隐玄思.png.md" class="image"><img alt="明隐玄思.png" src="https://upload.thwiki.cc/thumb/7/7c/%E6%98%8E%E9%9A%90%E7%8E%84%E6%80%9D.png/30px-%E6%98%8E%E9%9A%90%E7%8E%84%E6%80%9D.png" decoding="async" loading="lazy" width="30" height="40" srcset="https://upload.thwiki.cc/thumb/7/7c/%E6%98%8E%E9%9A%90%E7%8E%84%E6%80%9D.png/45px-%E6%98%8E%E9%9A%90%E7%8E%84%E6%80%9D.png 1.5x, https://upload.thwiki.cc/thumb/7/7c/%E6%98%8E%E9%9A%90%E7%8E%84%E6%80%9D.png/60px-%E6%98%8E%E9%9A%90%E7%8E%84%E6%80%9D.png 2x" data-file-width="1440" data-file-height="1920"></a></div></div></td>  <td style="width:150px;padding:3px 9px 3px 7px;" rowspan="1"> 藏匿于山中的真正黑幕</td><td style="width:180px;padding:3px 9px 3px 7px;" rowspan="1"> <a href="./明隐玄思.md" title="明隐玄思">明隐玄思</a> </td></tr></tbody></table>
 
 
+
 ## 附带文档
 - [Manual](./东方远空界_~_Ultimate_Vitality_of_Imagination-Manual.md)
 - [Omake](./东方远空界_~_Ultimate_Vitality_of_Imagination-Omake.md)
+
 
 ## 其他资料
 
@@ -202,6 +219,7 @@ ESC：暂停、菜单界面后退。
 </td></tr></tbody></table>
 
 
+
 ## 体验版下载
   
 请注意：  
@@ -217,6 +235,7 @@ ESC：暂停、菜单界面后退。
 <tr>
 <td><a rel="nofollow" class="external text" href="https://pan.baidu.com/share/init?surl=QV10Wax81YgChuwSAj4VfA">提取码：0dnx</a>
 </td></tr></tbody></table>
+
 
 
 ## 词条导航

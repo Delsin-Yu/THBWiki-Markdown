@@ -4,6 +4,7 @@
 
 ②号トピック | 社团LOGO
 
+
 ## 文件说明
   
 源地址：[direct image link](http://2gotopic.web.fc2.com/g/banner.gif), [source page](http://2gotopic.web.fc2.com/about.htm)

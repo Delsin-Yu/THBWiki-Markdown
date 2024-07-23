@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 软件信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Respect_for_IOSYS封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/7/71/Respect_for_IOSYS%E5%B0%81%E9%9D%A2.jpg/158px-Respect_for_IOSYS%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="158" height="224" srcset="https://upload.thwiki.cc/thumb/7/71/Respect_for_IOSYS%E5%B0%81%E9%9D%A2.jpg/238px-Respect_for_IOSYS%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/7/71/Respect_for_IOSYS%E5%B0%81%E9%9D%A2.jpg/317px-Respect_for_IOSYS%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="566" data-file-height="800"></a><div class="cover-char">角色：<a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a>，<a href="./帕秋莉·诺蕾姬.md" title="帕秋莉·诺蕾姬">帕秋莉·诺蕾姬</a>，<a href="/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C" title="十六夜咲夜">十六夜咲夜</a>，<a href="./琪露诺.md" title="琪露诺">琪露诺</a>，<a href="./露米娅.md" title="露米娅">露米娅</a>，<a href="./大妖精.md" title="大妖精">大妖精</a></div></td>
@@ -17,8 +18,10 @@ Respect for IOSYS（同人游戏，テレピン1000ml，2023） - 2023年8月13�
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://kabadikara.booth.pm/items/5007131">Booth</a></td></tr></tbody></table>
 
 
+
 ## Staff
 - [カバヂ](./カバヂ.md)
+
 
 ## 评论
 

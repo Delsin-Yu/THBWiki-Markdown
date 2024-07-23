@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Light_Light封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/d/d9/Light_Light%E5%B0%81%E9%9D%A2.jpg/120px-Light_Light%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="120" height="168" srcset="https://upload.thwiki.cc/thumb/d/d9/Light_Light%E5%B0%81%E9%9D%A2.jpg/179px-Light_Light%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/d/d9/Light_Light%E5%B0%81%E9%9D%A2.jpg/239px-Light_Light%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="250" data-file-height="351"></a><div class="cover-char">角色：<a href="./东风谷早苗.md" title="东风谷早苗">东风谷早苗</a></div></td>
@@ -14,11 +15,13 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://hwm5.spaaqs.ne.jp/hagimiya/html/circle.html">http://hwm5.spaaqs.ne.jp/hagimiya/html/circle.html</a></td></tr></tbody></table>
 
 Light Light（同人志，桜花月間，2011） - 2011年5月8日 由 桜花月間 于 博丽神社例大祭8 发布的小说同人志，A5尺寸一共22页，分级为 一般向
+
 ## Staff
 Writer
 : 萩宮アルト (未找到链接)
 Cover illustration
 : まごころくらげ (未找到链接) （汐月水園 (未找到链接)）
+
 
 ## 评论
 

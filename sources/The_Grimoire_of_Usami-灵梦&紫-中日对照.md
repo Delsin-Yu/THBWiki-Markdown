@@ -12,7 +12,7 @@ The_Grimoire_of_Usami | 使用了翻译表的页面 | 八云紫 | 博丽灵梦 |
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./The_Grimoire_of_Usami-猯藏&鵺-中日对照.md" title="The Grimoire of Usami/猯藏&amp;鵺/中日对照">猯藏&amp;鵺</a>&#160;
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="/%E5%AE%87%E4%BD%90%E8%A7%81%E7%9A%84%E9%AD%94%E6%B3%95%E4%B9%A6" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a>&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="./宇佐见的魔法书.md" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a>&#160;
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">&#160;<a href="./The_Grimoire_of_Usami-宇佐见堇子的后记-中日对照.md" title="The Grimoire of Usami/宇佐见堇子的后记/中日对照">宇佐见堇子的后记</a>
 </td>
@@ -25,7 +25,7 @@ The_Grimoire_of_Usami | 使用了翻译表的页面 | 八云紫 | 博丽灵梦 |
 - 翻译：fumika_zero
 
 
-<table><tbody><tr class="tt-content-header" id="=-1" data-pos="&#91;&quot;=&quot;,1&#93;"><td class="tt-jah" lang="ja"><div class="poem">「許可無く弾幕は撮影禁止です」</div></td><td class="tt-zhh" lang="zh"><div class="poem"><a href="/%E3%80%8C%E6%9C%AA%E7%BB%8F%E8%AE%B8%E5%8F%AF%E7%A6%81%E6%AD%A2%E5%BC%B9%E5%B9%95%E6%91%84%E5%BD%B1%E3%80%8D" class="mw-redirect" title="「未经许可禁止弹幕摄影」">「未经许可禁止弹幕摄影」</a></div></td></tr><tr class="tt-content" id="=-2" data-pos="&#91;&quot;=&quot;,2&#93;"><td class="tt-ja" lang="ja"><div class="poem">使用者：霊夢&amp;紫</div></td><td class="tt-zh" lang="zh"><div class="poem">使用者：<a href="./博丽灵梦.md" title="博丽灵梦">灵梦</a>&amp;<a href="./八云紫.md" title="八云紫">紫</a></div></td></tr><tr class="tt-header" id="=-3" data-pos="&#91;&quot;=&quot;,3&#93;"><td colspan="2" id="宇佐见堇子" class="tt-header" lang="zh"><div class="poem">宇佐见堇子</div></td></tr><tr class="tt-content" id="=-4" data-pos="&#91;&quot;=&quot;,4&#93;"><td class="tt-ja" lang="ja"><div class="poem">一杯撮っちゃった……。つか、最後に言わないでよー（汗）</div></td><td class="tt-zh" lang="zh"><div class="poem">拍了好多张啊……话说，别在最后说啊～（汗）</div></td></tr><tr class="tt-header" id="=-5" data-pos="&#91;&quot;=&quot;,5&#93;"><td colspan="2" id="东风谷早苗" class="tt-header" lang="zh"><div class="poem">东风谷早苗</div></td></tr><tr class="tt-content" id="=-6" data-pos="&#91;&quot;=&quot;,6&#93;"><td class="tt-ja" lang="ja"><div class="poem">天狗達も沢山撮っていましたよ。こういう注意は一番最初にしないと……。</div></td><td class="tt-zh" lang="zh"><div class="poem">天狗们也拍了很多哦。这种警示得在最开始说才行……</div></td></tr><tr class="tt-header" id="=-7" data-pos="&#91;&quot;=&quot;,7&#93;"><td colspan="2" id="魂魄妖梦" class="tt-header" lang="zh"><div class="poem">魂魄妖梦</div></td></tr><tr class="tt-content" id="=-8" data-pos="&#91;&quot;=&quot;,8&#93;"><td class="tt-ja" lang="ja"><div class="poem">注意したって、天狗達は絶対撮りますって。</div></td><td class="tt-zh" lang="zh"><div class="poem">就算警示了，天狗们也绝对会拍的啊。</div></td></tr></tbody></table>
+<table><tbody><tr class="tt-content-header" id="=-1" data-pos="&#91;&quot;=&quot;,1&#93;"><td class="tt-jah" lang="ja"><div class="poem">「許可無く弾幕は撮影禁止です」</div></td><td class="tt-zhh" lang="zh"><div class="poem"><a href="./「未经许可禁止弹幕摄影」.md" class="mw-redirect" title="「未经许可禁止弹幕摄影」">「未经许可禁止弹幕摄影」</a></div></td></tr><tr class="tt-content" id="=-2" data-pos="&#91;&quot;=&quot;,2&#93;"><td class="tt-ja" lang="ja"><div class="poem">使用者：霊夢&amp;紫</div></td><td class="tt-zh" lang="zh"><div class="poem">使用者：<a href="./博丽灵梦.md" title="博丽灵梦">灵梦</a>&amp;<a href="./八云紫.md" title="八云紫">紫</a></div></td></tr><tr class="tt-header" id="=-3" data-pos="&#91;&quot;=&quot;,3&#93;"><td colspan="2" id="宇佐见堇子" class="tt-header" lang="zh"><div class="poem">宇佐见堇子</div></td></tr><tr class="tt-content" id="=-4" data-pos="&#91;&quot;=&quot;,4&#93;"><td class="tt-ja" lang="ja"><div class="poem">一杯撮っちゃった……。つか、最後に言わないでよー（汗）</div></td><td class="tt-zh" lang="zh"><div class="poem">拍了好多张啊……话说，别在最后说啊～（汗）</div></td></tr><tr class="tt-header" id="=-5" data-pos="&#91;&quot;=&quot;,5&#93;"><td colspan="2" id="东风谷早苗" class="tt-header" lang="zh"><div class="poem">东风谷早苗</div></td></tr><tr class="tt-content" id="=-6" data-pos="&#91;&quot;=&quot;,6&#93;"><td class="tt-ja" lang="ja"><div class="poem">天狗達も沢山撮っていましたよ。こういう注意は一番最初にしないと……。</div></td><td class="tt-zh" lang="zh"><div class="poem">天狗们也拍了很多哦。这种警示得在最开始说才行……</div></td></tr><tr class="tt-header" id="=-7" data-pos="&#91;&quot;=&quot;,7&#93;"><td colspan="2" id="魂魄妖梦" class="tt-header" lang="zh"><div class="poem">魂魄妖梦</div></td></tr><tr class="tt-content" id="=-8" data-pos="&#91;&quot;=&quot;,8&#93;"><td class="tt-ja" lang="ja"><div class="poem">注意したって、天狗達は絶対撮りますって。</div></td><td class="tt-zh" lang="zh"><div class="poem">就算警示了，天狗们也绝对会拍的啊。</div></td></tr></tbody></table>
 
 
 <center>
@@ -36,7 +36,7 @@ The_Grimoire_of_Usami | 使用了翻译表的页面 | 八云紫 | 博丽灵梦 |
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./The_Grimoire_of_Usami-猯藏&鵺-中日对照.md" title="The Grimoire of Usami/猯藏&amp;鵺/中日对照">猯藏&amp;鵺</a>&#160;
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="/%E5%AE%87%E4%BD%90%E8%A7%81%E7%9A%84%E9%AD%94%E6%B3%95%E4%B9%A6" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a>&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="./宇佐见的魔法书.md" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a>&#160;
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">&#160;<a href="./The_Grimoire_of_Usami-宇佐见堇子的后记-中日对照.md" title="The Grimoire of Usami/宇佐见堇子的后记/中日对照">宇佐见堇子的后记</a>
 </td>
@@ -45,6 +45,7 @@ The_Grimoire_of_Usami | 使用了翻译表的页面 | 八云紫 | 博丽灵梦 |
 
   
 </center>
+
 
 ## 词条导航
   

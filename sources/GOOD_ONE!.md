@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-GOOD_ONE!封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/6/64/GOOD_ONE%21%E5%B0%81%E9%9D%A2.jpg/160px-GOOD_ONE%21%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="160" height="224" srcset="https://upload.thwiki.cc/thumb/6/64/GOOD_ONE%21%E5%B0%81%E9%9D%A2.jpg/240px-GOOD_ONE%21%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/6/64/GOOD_ONE%21%E5%B0%81%E9%9D%A2.jpg/319px-GOOD_ONE%21%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="428" data-file-height="600"></a><div class="cover-char">角色：<a href="./宫古芳香.md" title="宫古芳香">宫古芳香</a>，<a href="./霍青娥.md" title="霍青娥">霍青娥</a>，<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a></div></td>
@@ -13,8 +14,10 @@
 </tr><tr><td class="label">首发日期</td><td>2013-10-13&#160;（<a href="/展会作品列表?e=%E4%B8%9C%E6%96%B9%E7%BA%A2%E6%A5%BC%E6%A2%A6%239">東方紅楼夢9</a>）</td></tr><tr><td class="label">类型</td><td>漫画</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>B5</td></tr><tr><td class="label">页数</td><td>28P</td></tr><tr><td class="label">登场人物</td><td><a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a>，<a href="./宫古芳香.md" title="宫古芳香">宫古芳香</a>，<a href="./霍青娥.md" title="霍青娥">霍青娥</a></td></tr><tr><td class="label">售价</td><td>会场售价：400日元<br>通贩售价：500日元</td></tr></tbody></table>
 
 GOOD ONE!（同人志，こげコロッケ，2013） - 2013年10月13日 由 こげコロッケ 于 东方红楼梦9 发布的漫画同人志，B5尺寸一共28页，登场人物有 雾雨魔理沙、宫古芳香、霍青娥，分级为 一般向
+
 ## Staff
 - 正木
+
 
 ## 评论
   

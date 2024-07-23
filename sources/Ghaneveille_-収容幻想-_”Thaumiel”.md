@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Ghaneveille_-収容幻想-_”Thaumiel”封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/b/b3/Ghaneveille_-%E5%8F%8E%E5%AE%B9%E5%B9%BB%E6%83%B3-_%E2%80%9DThaumiel%E2%80%9D%E5%B0%81%E9%9D%A2.jpg/126px-Ghaneveille_-%E5%8F%8E%E5%AE%B9%E5%B9%BB%E6%83%B3-_%E2%80%9DThaumiel%E2%80%9D%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="126" height="196" srcset="https://upload.thwiki.cc/thumb/b/b3/Ghaneveille_-%E5%8F%8E%E5%AE%B9%E5%B9%BB%E6%83%B3-_%E2%80%9DThaumiel%E2%80%9D%E5%B0%81%E9%9D%A2.jpg/189px-Ghaneveille_-%E5%8F%8E%E5%AE%B9%E5%B9%BB%E6%83%B3-_%E2%80%9DThaumiel%E2%80%9D%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/b/b3/Ghaneveille_-%E5%8F%8E%E5%AE%B9%E5%B9%BB%E6%83%B3-_%E2%80%9DThaumiel%E2%80%9D%E5%B0%81%E9%9D%A2.jpg/252px-Ghaneveille_-%E5%8F%8E%E5%AE%B9%E5%B9%BB%E6%83%B3-_%E2%80%9DThaumiel%E2%80%9D%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="289" data-file-height="450"></a><div class="cover-char">角色：<a href="./宇佐见莲子.md" title="宇佐见莲子">宇佐见莲子</a>，<a href="./玛艾露贝莉·赫恩.md" title="玛艾露贝莉·赫恩">玛艾露贝莉·赫恩</a>，<a href="./宇佐见堇子.md" title="宇佐见堇子">宇佐见堇子</a></div></td>
@@ -18,6 +19,7 @@ Ghaneveille -収容幻想- ”Thaumiel”（同人志，U京都怪奇倶楽部�
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=412996">蜜瓜</a></td></tr></tbody></table>
 
 
+
 ## Staff
 Writing
 : そひか (未找到链接)
@@ -27,6 +29,7 @@ Web Page
 : Harada Kiyohide (未找到链接) （[Twitter: @takustaqu](https://twitter.com/takustaqu)）
 Typesetting &amp; Design
 : [RF](./RF.md)
+
 
 ## 评论
 ```

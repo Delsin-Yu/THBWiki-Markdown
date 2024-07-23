@@ -4,6 +4,7 @@
 
 Galley | 社团LOGO
 
+
 ## 摘要
   
 源地址：[direct image link](https://web.archive.org/web/20131221161515im_/http://kumanoheya.jp/Galley.jpg), [source page](https://web.archive.org/web/20130909233316/http://kumanoheya.jp/link.html)

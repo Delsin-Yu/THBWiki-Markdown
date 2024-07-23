@@ -4,6 +4,7 @@
 
 社团LOGO | 調ノ姫
 
+
 ## 摘要
   
 源地址：[direct image link](http://shirabenohime.web.fc2.com/img/logo.png), [source page](http://shirabenohime.web.fc2.com)

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 软件信息](#软件信息)
@@ -23,6 +24,7 @@
 
 
 
+
 ## 软件信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-东方千夜帖~Thousand_Night_Anamnesis.封面.jpeg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/b/bd/%E4%B8%9C%E6%96%B9%E5%8D%83%E5%A4%9C%E5%B8%96~Thousand_Night_Anamnesis.%E5%B0%81%E9%9D%A2.jpeg" decoding="async" loading="lazy" width="224" height="224" data-file-width="220" data-file-height="220"></a></td>
@@ -31,12 +33,15 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://app4knead.exblog.jp/31252858/">https://app4knead.exblog.jp/31252858/</a></td></tr></tbody></table>
 
 東方千夜帖~Thousand Night Anamnesis.（同人游戏，サラダ，2018） - 2018年9月5日 由 サラダ  发布的STG同人游戏，可在 Android/iOS 系统上运行，游戏人数为 单人，分级为 一般向
+
 ## Staff
+
 ### 作者
 -  サラダ (未找到链接)
 - 邮箱：app.4.knead@gmail.com
 - 推特：@supportappKNEA1
 - Bilibili：[SALADA_](https://space.bilibili.com/1522666631)
+
 
 ### 汉化组
 -  林清旖 (未找到链接)
@@ -46,12 +51,14 @@
 -  花落丿天使 (未找到链接)
 -  咕咕咕 (未找到链接)
 
+
 ## 内容页面
 - [游戏系统](./東方千夜帖~Thousand_Night_Anamnesis.-系统.md)
 - [自机列表](./東方千夜帖~Thousand_Night_Anamnesis.-自机列表.md)
 - [敌机符卡列表](./東方千夜帖~Thousand_Night_Anamnesis.-敌机符卡.md)
 - [其他信息](./東方千夜帖~Thousand_Night_Anamnesis.-其他.md)
 - [游戏攻略](./東方千夜帖~Thousand_Night_Anamnesis.-攻略.md)
+
 
 ## 下载
   

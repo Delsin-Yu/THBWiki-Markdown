@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-こいここDailyぷち封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/7/72/%E3%81%93%E3%81%84%E3%81%93%E3%81%93Daily%E3%81%B7%E3%81%A1%E5%B0%81%E9%9D%A2.jpg/138px-%E3%81%93%E3%81%84%E3%81%93%E3%81%93Daily%E3%81%B7%E3%81%A1%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="138" height="196" srcset="https://upload.thwiki.cc/thumb/7/72/%E3%81%93%E3%81%84%E3%81%93%E3%81%93Daily%E3%81%B7%E3%81%A1%E5%B0%81%E9%9D%A2.jpg/206px-%E3%81%93%E3%81%84%E3%81%93%E3%81%93Daily%E3%81%B7%E3%81%A1%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/7/72/%E3%81%93%E3%81%84%E3%81%93%E3%81%93Daily%E3%81%B7%E3%81%A1%E5%B0%81%E9%9D%A2.jpg/275px-%E3%81%93%E3%81%84%E3%81%93%E3%81%93Daily%E3%81%B7%E3%81%A1%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="746" data-file-height="1062"></a><div class="cover-char">角色：<a href="./秦心.md" title="秦心">秦心</a>，<a href="./古明地恋.md" title="古明地恋">古明地恋</a></div></td>
@@ -14,9 +15,12 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/nobori_ranzu/status/1121873493920862208">https://twitter.com/nobori_ranzu/status/1121873493920862208</a><br><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/74397530">https://www.pixiv.net/artworks/74397530</a></td></tr></tbody></table>
 
 こいここDailyぷち（同人志，ぬーとりあん，2019） - 2019年5月5日 由 ぬーとりあん 于 博丽神社例大祭16 发布的漫画同人志，一共16页，登场人物有 秦心、古明地恋，分级为 一般向
+
 ## 预览
+
 ## Staff
 - ランズ (未找到链接)
+
 
 ## 评论
 

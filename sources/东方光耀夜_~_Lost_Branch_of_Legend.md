@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 软件信息](#软件信息)
@@ -13,6 +14,7 @@
 - [3 内容页面](#内容页面)
 - [4 评论](#评论)
 - [5 外部链接](#外部链接)
+
 
 
 
@@ -33,6 +35,7 @@
 <tbody><tr><th colspan="2">配置需求</th></tr>
 <tr><td style="width:120px;padding-left:7px;"><b>操作系统</b></td><td>Window 7</td></tr><tr><td style="width:120px;padding-left:7px;"><b>CPU</b></td><td>Intel e3-1230</td></tr><tr><td style="width:120px;padding-left:7px;"><b>内存</b></td><td>8 GB RAM</td></tr><tr><td style="width:120px;padding-left:7px;"><b>显示卡</b></td><td>GTX 750</td></tr><tr><td style="width:120px;padding-left:7px;"><b>硬盘需求</b></td><td>需要 1 GB 可用空间</td></tr><tr><td style="width:120px;padding-left:7px;"><b>其他</b></td><td>DirectX 11</td></tr>
 </tbody></table>
+
 
 
 ## Staff
@@ -182,12 +185,15 @@ asutnima
   
 
 
+
 ## 内容页面
 - 游戏设定与剧情 (未找到链接)
 - 攻略 (未找到链接)
 - 其他信息 (未找到链接)
 
+
 ## 评论
+
 ## 外部链接
 - [Steam上的东方光耀夜 ~ Lost Branch of Legend](https://store.steampowered.com/app/1140150/__Lost_Branch_of_Legend/)
 

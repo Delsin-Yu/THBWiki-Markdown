@@ -4,7 +4,8 @@
 
 TRICK&TREAT ，主要制作 同人志 的日本同人社团，主催是 松下ゆう，当前状态为 转入非东方
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -20,16 +21,20 @@ TRICK&TREAT ，主要制作 同人志 的日本同人社团，主催是 松下�
 
 
 
+
 ## 社团信息
 文件:TRICK&amp;TREATbanner.jpg (未找到链接)  banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> TRICK&#38;TREAT </td></tr><tr><td><b>主要作品类型</b></td><td>同人志</td></tr><tr><td><b>当前状态</b></td><td>转入非东方</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=%E6%9D%BE%E4%B8%8B%E3%82%86%E3%81%86&amp;action=edit&amp;redlink=1" class="new" title="松下ゆう（页面不存在）">松下ゆう</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="https://twitter.com/matusitayuu">https://twitter.com/matusitayuu</a> <br><a rel="nofollow" class="external free" href="https://www.pixiv.net/users/14239">https://www.pixiv.net/users/14239</a><br><a rel="nofollow" class="external free" href="http://trickandtreat.sub.jp">http://trickandtreat.sub.jp</a> <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><small>（<a rel="nofollow" class="external text" href="https://web.archive.org/web/20200220185130/http://trickandtreat.sub.jp/">缓存页面</a>）</small></td></tr></tbody></table>
 
 TRICK&amp;TREAT（同人社团，同人志社团） - TRICK&amp;TREAT ，主要制作 同人志 的日本同人社团，主催是 松下ゆう，当前状态为 转入非东方
+
 ## 成员名单
 - 松下ゆう (未找到链接)
 
+
 ## 作品列表
+
 ### 同人志
 東方メモリーズ 封面图片 (未找到链接)東方メモリーズ (未找到链接)首发日期：未知 - おしくらまんじゅう 封面图片 (未找到链接)おしくらまんじゅう (未找到链接)首发日期：未知 - candy 封面图片 (未找到链接)candy (未找到链接)首发日期：未知 - one 封面图片 (未找到链接)one（同人志） (未找到链接)首发日期：未知 - おしくらまんじゅう2 封面图片 (未找到链接)おしくらまんじゅう2 (未找到链接)首发日期：未知 - おしくらまんじゅう3 封面图片 (未找到链接)おしくらまんじゅう3 (未找到链接)首发日期：未知 - らふすけっち 封面图片 (未找到链接)らふすけっち（同人志） (未找到链接)首发日期：未知 - おしくらまんじゅう4 封面图片 (未找到链接)おしくらまんじゅう4 (未找到链接)首发日期：未知 - おしくらまんじゅう5 封面图片 (未找到链接)おしくらまんじゅう5 (未找到链接)首发日期：未知 - ラフスケッチ4 封面图片 (未找到链接)ラフスケッチ4 (未找到链接)首发日期：未知 - おしくらまんじゅう6 封面图片 (未找到链接)おしくらまんじゅう6 (未找到链接)首发日期：未知 - 組 封面图片 (未找到链接)組 (未找到链接)首发日期：未知 - おしくらまんじゅう7 封面图片 (未找到链接)おしくらまんじゅう7 (未找到链接)首发日期：未知 - 告白大迷走 封面图片 (未找到链接)告白大迷走 (未找到链接)首发日期：未知 - おしくらまんじゅう8 EX 封面图片 (未找到链接)おしくらまんじゅう8 EX (未找到链接)首发日期：未知 - おしくらまんじゅう8 裏 封面图片 (未找到链接)おしくらまんじゅう8 裏 (未找到链接)首发日期：未知 - おしくらまんじゅう8 封面图片 (未找到链接)おしくらまんじゅう8 (未找到链接)首发日期：未知 - おしくらまんじゅう9 封面图片 (未找到链接)おしくらまんじゅう9 (未找到链接)首发日期：未知 - ウブな貴方。 封面图片 (未找到链接)ウブな貴方。 (未找到链接)首发日期：未知 - ちいさな悪魔が来た日 封面图片 (未找到链接)ちいさな悪魔が来た日 (未找到链接)首发日期：未知 - ブレイク!! オジョウサマ!! 封面图片 (未找到链接)ブレイク!! オジョウサマ!! (未找到链接)首发日期：未知 - おしくらまんじゅう10 封面图片 (未找到链接)おしくらまんじゅう10 (未找到链接)首发日期：未知 - たこ焼き食べてる時にお好み焼きの話しないでください! 封面图片 (未找到链接)たこ焼き食べてる時にお好み焼きの話しないでください! (未找到链接)首发日期：未知 - 霊夢ちゃんにあんな事こんな事想像させたい 封面图片 (未找到链接)霊夢ちゃんにあんな事こんな事想像させたい (未找到链接)首发日期：未知 - おしくらまんじゅう11 封面图片 (未找到链接)おしくらまんじゅう11 (未找到链接)首发日期：未知 - エロおしくらまんじゅう 封面图片 (未找到链接)エロおしくらまんじゅう (未找到链接)首发日期：未知 - おしくらまんじゅう12 封面图片 (未找到链接)おしくらまんじゅう12 (未找到链接)首发日期：未知 - おんなのこのひ 封面图片 (未找到链接)おんなのこのひ (未找到链接)首发日期：未知 - レミリアかわいい 封面图片 (未找到链接)レミリアかわいい (未找到链接)首发日期：未知 - ねこまりならつくらない? 封面图片 (未找到链接)ねこまりならつくらない? (未找到链接)首发日期：未知 - かわいいメイドはすきですか? 封面图片 (未找到链接)かわいいメイドはすきですか? (未找到链接)首发日期：未知 - おしくらまんじゅう13 封面图片 (未找到链接)おしくらまんじゅう13 (未找到链接)首发日期：未知 - おしくらまんじゅう14 封面图片 (未找到链接)おしくらまんじゅう14 (未找到链接)首发日期：未知 - ありすとまりさのいってんこうせい! 封面图片 (未找到链接)ありすとまりさのいってんこうせい! (未找到链接)首发日期：未知 - 
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -68,6 +73,7 @@ TRICK&amp;TREAT（同人社团，同人志社团） - TRICK&amp;TREAT ，主要�
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458"></table>
+
 
 
 ## 参展信息

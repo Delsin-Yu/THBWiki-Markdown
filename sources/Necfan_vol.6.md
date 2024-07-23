@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Necfan_vol.6封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/b/b8/Necfan_vol.6%E5%B0%81%E9%9D%A2.jpg/157px-Necfan_vol.6%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="157" height="224" srcset="https://upload.thwiki.cc/thumb/b/b8/Necfan_vol.6%E5%B0%81%E9%9D%A2.jpg/236px-Necfan_vol.6%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/b/b8/Necfan_vol.6%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="270" data-file-height="384"></a><div class="cover-char">角色：<a href="./西行寺幽幽子.md" title="西行寺幽幽子">西行寺幽幽子</a></div></td>
@@ -14,11 +15,14 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://az.geo.jp/dojin.html">http://az.geo.jp/dojin.html</a><br><a rel="nofollow" class="external free" href="http://az.geo.jp/archives/2006/11/index.php">http://az.geo.jp/archives/2006/11/index.php</a><br><a rel="nofollow" class="external free" href="http://az.geo.jp/archives/2006/11/index.php?page=2">http://az.geo.jp/archives/2006/11/index.php?page=2</a><br><span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><small>（<a rel="nofollow" class="external text" href="https://web.archive.org/web/20090228215634/http://az.geo.jp/dojin.html">缓存页面1</a>，<a rel="nofollow" class="external text" href="https://web.archive.org/web/20111108044346/http://az.geo.jp/archives/2006/11/index.php">缓存页面2</a>，<a rel="nofollow" class="external text" href="https://web.archive.org/web/20080626150415/http://az.geo.jp/archives/2006/11/index.php?page=2">缓存页面3</a>）</small></td></tr></tbody></table>
 
 Necfan vol.6（同人志，az，2005） - 2005年9月11日 由 az 于 东方红楼梦1 发布的漫画同人志，B5尺寸一共40页，登场人物有 博丽灵梦、雾雨魔理沙、西行寺幽幽子、魂魄妖梦、八云紫、八云蓝、十六夜咲夜、红美铃，分级为 一般向
+
 ## 预览
 - [](./文件-Necfan_vol.6预览图1.jpg.md)- [](./文件-Necfan_vol.6预览图2.jpg.md)
 
+
 ## Staff
 - おのけい (未找到链接)
+
 
 ## 评论
 - 作者

@@ -4,6 +4,7 @@
 
 Rice_Records | 社团LOGO
 
+
 ## 摘要
   
 源地址：[direct image link](https://web.archive.org/web/20150128025155/http://www.ricerecords.jp/), [source page](https://web.archive.org/web/20150114153123im_/http://www.ricerecords.jp/wp-content/themes/ricerecords/common/images/logo.png)

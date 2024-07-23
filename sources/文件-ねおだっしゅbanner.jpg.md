@@ -4,6 +4,7 @@
 
 ねおだっしゅ | 社团LOGO
 
+
 ## 摘要
   
 源地址：[direct image link](https://web.archive.org/web/20060614124524im_/http://www.h2.dion.ne.jp/~n-e-o/img/banner1.jpg), [source page](https://web.archive.org/web/20050929062512/http://www.h2.dion.ne.jp/~n-e-o/main.html)

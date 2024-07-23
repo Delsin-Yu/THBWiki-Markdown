@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-魂音泉十周年イラスト記念刊『TOSX』封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/8/85/%E9%AD%82%E9%9F%B3%E6%B3%89%E5%8D%81%E5%91%A8%E5%B9%B4%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E8%A8%98%E5%BF%B5%E5%88%8A%E3%80%8ETOSX%E3%80%8F%E5%B0%81%E9%9D%A2.jpg/224px-%E9%AD%82%E9%9F%B3%E6%B3%89%E5%8D%81%E5%91%A8%E5%B9%B4%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E8%A8%98%E5%BF%B5%E5%88%8A%E3%80%8ETOSX%E3%80%8F%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="224" srcset="https://upload.thwiki.cc/thumb/8/85/%E9%AD%82%E9%9F%B3%E6%B3%89%E5%8D%81%E5%91%A8%E5%B9%B4%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E8%A8%98%E5%BF%B5%E5%88%8A%E3%80%8ETOSX%E3%80%8F%E5%B0%81%E9%9D%A2.jpg/336px-%E9%AD%82%E9%9F%B3%E6%B3%89%E5%8D%81%E5%91%A8%E5%B9%B4%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E8%A8%98%E5%BF%B5%E5%88%8A%E3%80%8ETOSX%E3%80%8F%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/8/85/%E9%AD%82%E9%9F%B3%E6%B3%89%E5%8D%81%E5%91%A8%E5%B9%B4%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E8%A8%98%E5%BF%B5%E5%88%8A%E3%80%8ETOSX%E3%80%8F%E5%B0%81%E9%9D%A2.jpg/448px-%E9%AD%82%E9%9F%B3%E6%B3%89%E5%8D%81%E5%91%A8%E5%B9%B4%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E8%A8%98%E5%BF%B5%E5%88%8A%E3%80%8ETOSX%E3%80%8F%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1045" data-file-height="1044"></a><div class="cover-char">角色：<a href="./琪露诺.md" title="琪露诺">琪露诺</a></div></td>
@@ -21,8 +22,10 @@
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=501861">蜜瓜</a></td></tr><tr><td class="label">授权代理</td><td colspan="2"><a rel="nofollow" class="external text" href="https://item.taobao.com/item.htm?spm=2013.1.20160405.6.18f7141fKJGvZL&amp;scm=1007.13066.127283.0&amp;id=598743766026">淘宝</a></td></tr></tbody></table>
 
 
+
 ## 预览
 - [](./文件-魂音泉十周年イラスト記念刊『TOSX』预览图1.jpg.md)- [](./文件-魂音泉十周年イラスト記念刊『TOSX』预览图2.jpg.md)- [](./文件-魂音泉十周年イラスト記念刊『TOSX』预览图3.jpg.md)- [](./文件-魂音泉十周年イラスト記念刊『TOSX』预览图4.jpg.md)- [](./文件-魂音泉十周年イラスト記念刊『TOSX』预览图5.jpg.md)
+
 
 ## Staff
 Illust
@@ -54,6 +57,7 @@ Special THX
 : Rika.Y (未找到链接)，okabe (未找到链接)，L.Okamoto (未找到链接)，しましま (未找到链接)，テラバイト☆ゆういち (未找到链接)
 : Sumiko (未找到链接)，虎紋 (未找到链接)，Semillon (未找到链接)
 : 魂音泉に浸かってる皆の衆
+
 
 ## 评论
 

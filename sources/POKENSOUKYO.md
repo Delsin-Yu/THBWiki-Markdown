@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-POKENSOUKYO封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/2/25/POKENSOUKYO%E5%B0%81%E9%9D%A2.jpg/159px-POKENSOUKYO%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="159" height="224" srcset="https://upload.thwiki.cc/thumb/2/25/POKENSOUKYO%E5%B0%81%E9%9D%A2.jpg/238px-POKENSOUKYO%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/2/25/POKENSOUKYO%E5%B0%81%E9%9D%A2.jpg/317px-POKENSOUKYO%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="850" data-file-height="1200"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></div></td>
@@ -14,7 +15,9 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=56764362">https://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=56764362</a></td></tr></tbody></table>
 
 POKENSOUKYO（同人志，おそら区，2016） - 2016年5月8日 由 おそら区 于 博丽神社例大祭13 发布的漫画/设定集/画集同人志，B5尺寸一共26页，登场人物有 博丽灵梦、雾雨魔理沙、露米娅、芙兰朵露·斯卡蕾特、射命丸文、藤原妹红、幽谷响子，分级为 一般向
+
 ## Staff
+
 ## 评论
 
 

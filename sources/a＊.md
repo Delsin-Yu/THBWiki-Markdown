@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-a＊封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/f/f7/a%EF%BC%8A%E5%B0%81%E9%9D%A2.jpg/98px-a%EF%BC%8A%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="98" height="140" srcset="https://upload.thwiki.cc/thumb/f/f7/a%EF%BC%8A%E5%B0%81%E9%9D%A2.jpg/148px-a%EF%BC%8A%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/f/f7/a%EF%BC%8A%E5%B0%81%E9%9D%A2.jpg/197px-a%EF%BC%8A%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="270" data-file-height="384"></a><div class="cover-char">角色：<a href="./爱丽丝·玛格特洛依德.md" title="爱丽丝·玛格特洛依德">爱丽丝·玛格特洛依德</a></div></td>
@@ -14,9 +15,12 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://yumegoro.sumomo.ne.jp/y-info_2007.html">http://yumegoro.sumomo.ne.jp/y-info_2007.html</a></td></tr></tbody></table>
 
 a＊（同人志，ゆめいろごろも，2007） - 2007年11月4日 由 ゆめいろごろも 于 东方红楼梦3 发布的同人志，B5尺寸一共16页，分级为 一般向
+
 ## 预览
+
 ## Staff
 - 春日沙生 (未找到链接)
+
 
 ## 评论
 

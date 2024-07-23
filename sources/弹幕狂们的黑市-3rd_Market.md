@@ -23,6 +23,7 @@
 </center>
 - 本词条内容为官方游戏TH18.5 **弹幕狂们的黑市** 的敌机符卡
 
+
 ## 目录
 
 - [1 戎璎花](#戎璎花)
@@ -74,7 +75,9 @@
 
 
 
+
 ## 戎璎花
+
 ### 石符「艾哲垒石」
 
 <table>
@@ -88,9 +91,10 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="/%E7%9F%B3%E7%AC%A6%E3%80%8C%E8%89%BE%E5%93%B2%E5%9E%92%E7%9F%B3%E3%80%8D" class="mw-redirect" title="石符「艾哲垒石」">石符「艾哲垒石」</a>
+<p><a href="./石符「艾哲垒石」.md" class="mw-redirect" title="石符「艾哲垒石」">石符「艾哲垒石」</a>
 </p>
 </th></tr></tbody></table>
+
 
 
 #### 符卡信息
@@ -112,7 +116,9 @@
 
   
 
+
 ## 庭渡久侘歌
+
 ### 「命之分水岭」
 
 <table>
@@ -126,9 +132,10 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="/%E3%80%8C%E5%91%BD%E4%B9%8B%E5%88%86%E6%B0%B4%E5%B2%AD%E3%80%8D" class="mw-redirect" title="「命之分水岭」">「命之分水岭」</a>
+<p><a href="./「命之分水岭」.md" class="mw-redirect" title="「命之分水岭」">「命之分水岭」</a>
 </p>
 </th></tr></tbody></table>
+
 
 
 #### 符卡信息
@@ -150,7 +157,9 @@
 
   
 
+
 ## 矢田寺成美
+
 ### 「56亿7千万年的体力劳动」
 
 <table>
@@ -164,9 +173,10 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="/%E3%80%8C56%E4%BA%BF7%E5%8D%83%E4%B8%87%E5%B9%B4%E7%9A%84%E4%BD%93%E5%8A%9B%E5%8A%B3%E5%8A%A8%E3%80%8D" class="mw-redirect" title="「56亿7千万年的体力劳动」">「56亿7千万年的体力劳动」</a>
+<p><a href="./「56亿7千万年的体力劳动」.md" class="mw-redirect" title="「56亿7千万年的体力劳动」">「56亿7千万年的体力劳动」</a>
 </p>
 </th></tr></tbody></table>
+
 
 
 #### 符卡信息
@@ -188,7 +198,9 @@
 
   
 
+
 ## 小野塚小町
+
 ### 「钱和死一样沾得越多就越忙」
 
 <table>
@@ -202,9 +214,10 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="/%E3%80%8C%E9%92%B1%E5%92%8C%E6%AD%BB%E4%B8%80%E6%A0%B7%E6%B2%BE%E5%BE%97%E8%B6%8A%E5%A4%9A%E5%B0%B1%E8%B6%8A%E5%BF%99%E3%80%8D" class="mw-redirect" title="「钱和死一样沾得越多就越忙」">「钱和死一样沾得越多就越忙」</a>
+<p><a href="./「钱和死一样沾得越多就越忙」.md" class="mw-redirect" title="「钱和死一样沾得越多就越忙」">「钱和死一样沾得越多就越忙」</a>
 </p>
 </th></tr></tbody></table>
+
 
 
 #### 符卡信息
@@ -225,6 +238,7 @@
   
 
   
+
 
 ## 导航
   

@@ -4,7 +4,8 @@
 
 Nu-naut ，于 2015 年成立，主要制作 同人音乐 的日本同人社团，主催是 rednux，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -15,14 +16,17 @@ Nu-naut ，于 2015 年成立，主要制作 同人音乐 的日本同人社团�
 
 
 
+
 ## 社团信息
 [](./文件-Nu-nautbanner.png.md)  [](./文件-Nu-nautbanner.png.md)banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Nu-naut </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2015</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=rednux&amp;action=edit&amp;redlink=1" class="new" title="rednux（页面不存在）">rednux</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://nu-naut.tumblr.com/">http://nu-naut.tumblr.com/</a> <br><a rel="nofollow" class="external free" href="https://nu-naut.booth.pm/">https://nu-naut.booth.pm/</a><br><a rel="nofollow" class="external free" href="https://soundcloud.com/red_nux">https://soundcloud.com/red_nux</a></td></tr></tbody></table>
 
 Nu-naut（同人社团，同人音乐社团） - Nu-naut ，于 2015 年成立，主要制作 同人音乐 的日本同人社团，主催是 rednux，当前状态为 活动
+
 ## 成员名单
 - rednux (未找到链接)
+
 
 ## 作品列表
 [](./東方サイバーノート_vol.01.md)[東方サイバーノート vol.01](./東方サイバーノート_vol.01.md)首发日期：2015-11-01 （東方紅楼夢11 (未找到链接)）全长 （一般向）[](./東方サイバーノート_vol.0.5.md)[東方サイバーノート vol.0.5](./東方サイバーノート_vol.0.5.md)首发日期：2015-11-20 （APOLLO 第2回 (未找到链接)）单曲 （一般向）[](./東方サイバーノート_vol.02.md)[東方サイバーノート vol.02](./東方サイバーノート_vol.02.md)首发日期：2016-10-09 （東方紅楼夢12 (未找到链接)）全长 （一般向）[](./The_Phantasmagoria_Opera.md)[The Phantasmagoria Opera](./The_Phantasmagoria_Opera.md)首发日期：2018-08-10 （Comic Market 94 (未找到链接)）全长、​合作 （一般向）[](./東方サイバーノート_vol.01［Extended］.md)[東方サイバーノート vol.01［Extended］](./東方サイバーノート_vol.01［Extended］.md)首发日期：2021-11-28 （東方紅楼夢17 (未找到链接)）全长 （一般向）使用[洛克人EXE系列](https://zh.wikipedia.org/wiki/洛克人EXE系列)音乐风格
@@ -36,6 +40,7 @@ Nu-naut（同人社团，同人音乐社团） - Nu-naut ，于 2015 年成立�
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 其他信息

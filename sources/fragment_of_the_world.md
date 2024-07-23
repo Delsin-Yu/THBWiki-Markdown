@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-fragment_of_the_world封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/3/32/fragment_of_the_world%E5%B0%81%E9%9D%A2.jpg/117px-fragment_of_the_world%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="117" height="168" srcset="https://upload.thwiki.cc/thumb/3/32/fragment_of_the_world%E5%B0%81%E9%9D%A2.jpg/176px-fragment_of_the_world%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/3/32/fragment_of_the_world%E5%B0%81%E9%9D%A2.jpg/234px-fragment_of_the_world%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="268" data-file-height="384"></a><div class="cover-char">角色：<a href="./雪.md" title="雪">雪</a>，<a href="./舞.md" title="舞">舞</a>，<a href="./爱丽丝（旧作角色）.md" title="爱丽丝（旧作角色）">爱丽丝（旧作角色）</a>，<a href="./梦子.md" title="梦子">梦子</a>，<a href="./神绮.md" title="神绮">神绮</a></div></td>
@@ -14,9 +15,12 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/13015357">https://www.pixiv.net/artworks/13015357</a></td></tr></tbody></table>
 
 fragment of the world（同人志，型K式，2010） - 2010年9月5日 由 型K式 于 幺乐团嘉年华！1 发布的漫画同人志，一共40页，登场人物有 雪、舞、爱丽丝（旧作角色）、梦子、神绮、博丽灵梦、雾雨魔理沙、玄爷、魅魔，分级为 一般向
+
 ## 预览
+
 ## Staff
 - [カタケイ](./カタケイ.md)
+
 
 ## 评论
 

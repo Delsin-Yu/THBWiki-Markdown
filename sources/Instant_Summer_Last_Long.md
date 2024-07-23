@@ -18,6 +18,7 @@
 
 
 </center>
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=Instant_Summer_Last_Long%E5%B0%81%E9%9D%A2.jpg" class="new" title="文件:Instant Summer Last Long封面.jpg">封面图片</a><div class="cover-char">角色：<a href="./露娜萨·普莉兹姆利巴.md" title="露娜萨·普莉兹姆利巴">露娜萨·普莉兹姆利巴</a>，<a href="./梅露兰·普莉兹姆利巴.md" title="梅露兰·普莉兹姆利巴">梅露兰·普莉兹姆利巴</a>，<a href="./莉莉卡·普莉兹姆利巴.md" title="莉莉卡·普莉兹姆利巴">莉莉卡·普莉兹姆利巴</a>，<a href="./风见幽香.md" title="风见幽香">风见幽香</a></div></td>
@@ -30,9 +31,11 @@ Instant Summer Last Long（同人志，稗田唱片，2021） - 2021年8月10日
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"></td></tr></tbody></table>
 
 
+
 ## Staff
 主持
 : 求海王 (未找到链接) （[稗田唱片](./稗田唱片.md)）
+
 
 ## 评论
 

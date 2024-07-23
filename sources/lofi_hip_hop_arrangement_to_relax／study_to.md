@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-lofi_hip_hop_arrangement_to_relax／study_to封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/f/f7/lofi_hip_hop_arrangement_to_relax%EF%BC%8Fstudy_to%E5%B0%81%E9%9D%A2.jpg/252px-lofi_hip_hop_arrangement_to_relax%EF%BC%8Fstudy_to%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="252" srcset="https://upload.thwiki.cc/thumb/f/f7/lofi_hip_hop_arrangement_to_relax%EF%BC%8Fstudy_to%E5%B0%81%E9%9D%A2.jpg/378px-lofi_hip_hop_arrangement_to_relax%EF%BC%8Fstudy_to%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/f/f7/lofi_hip_hop_arrangement_to_relax%EF%BC%8Fstudy_to%E5%B0%81%E9%9D%A2.jpg/504px-lofi_hip_hop_arrangement_to_relax%EF%BC%8Fstudy_to%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="700" data-file-height="700"></a></td>
@@ -18,6 +19,7 @@ lofi hip hop arrangement to relax／study to（同人专辑，Find Your Way，20
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://youwillfindyourway.bandcamp.com/album/lofi-hip-hop-arrangement-to-relax-study-to">bandcamp</a></td></tr></tbody></table>
 
 
+
 ## Staff
   
  **Arrangement**   
@@ -28,9 +30,10 @@ lofi hip hop arrangement to relax／study to（同人专辑，Find Your Way，20
 Mix，Design
 : [Veto](./Veto.md)（[Find Your Way](./Find_Your_Way.md)）
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="ichabod" colspan="2" class="title">ichabod<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Veto&amp;ogmusic=柳の下のデュラハン&amp;fromwiki=lofi_hip_hop_arrangement_to_relax／study_to"><span title="搜索相似同人曲"></span></a></span></td><td class="time">59:21</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Veto.md" title="Veto">Veto</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Veto&amp;fromwiki=lofi_hip_hop_arrangement_to_relax／study_to"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=柳の下のデュラハン&amp;fromwiki=lofi_hip_hop_arrangement_to_relax／study_to"><span></span></a></span><div class="ogmusic"><a href="/%E6%9F%B3%E3%81%AE%E4%B8%8B%E3%81%AE%E3%83%87%E3%83%A5%E3%83%A9%E3%83%8F%E3%83%B3" class="mw-redirect" title="柳の下のデュラハン">柳の下のデュラハン</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E8%BE%89%E9%92%88%E5%9F%8E_%EF%BD%9E_Double_Dealing_Character." class="mw-redirect" title="东方辉针城 ～ Double Dealing Character.">东方辉针城　～ Double Dealing Character.</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="ichabod" colspan="2" class="title">ichabod<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Veto&amp;ogmusic=柳の下のデュラハン&amp;fromwiki=lofi_hip_hop_arrangement_to_relax／study_to"><span title="搜索相似同人曲"></span></a></span></td><td class="time">59:21</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Veto.md" title="Veto">Veto</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Veto&amp;fromwiki=lofi_hip_hop_arrangement_to_relax／study_to"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=柳の下のデュラハン&amp;fromwiki=lofi_hip_hop_arrangement_to_relax／study_to"><span></span></a></span><div class="ogmusic"><a href="./柳の下のデュラハン.md" class="mw-redirect" title="柳の下のデュラハン">柳の下のデュラハン</a></div><div class="source"><a href="./东方辉针城_～_Double_Dealing_Character..md" class="mw-redirect" title="东方辉针城 ～ Double Dealing Character.">东方辉针城　～ Double Dealing Character.</a></div></td></tr></tbody></table>
 
 
   

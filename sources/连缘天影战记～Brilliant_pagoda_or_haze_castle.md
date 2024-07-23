@@ -6,6 +6,7 @@
 
 本页是关于 **向[东方Project](./东方Project.md)  
 致敬、形式类似的作品** 的词条
+
 ## 目录
 
 - [1 游戏概述](#游戏概述)
@@ -27,6 +28,7 @@
 - [10 下载](#下载)
 - [11 外部链接](#外部链接)
 - [12 词条导航](#词条导航)
+
 
 
 
@@ -53,10 +55,12 @@
 此外，本作还是连缘系列第一部以“连缘”为开头的游戏，在此之前所有的游戏前缀都是“链缘”。在游戏发布后，系列名称改为「连缘Project」，其它游戏的前缀也改为“连缘”。
   
 
+
 ## Staff
   
 所有工作由[JynX](./JynX.md)一人完成。
   
+
 
 ## 游戏系统
 - [游戏系统](./连缘天影战记～Brilliant_pagoda_or_haze_castle-游戏系统.md)
@@ -79,6 +83,7 @@
 </td></tr></tbody></table>
 
 
+
 ## 游戏介绍
   
 无现里的春天到了！ 赏花！饮酒！！还有战争！！！ 覆盖天空的是声音与光、子弹与烟。 没有血光的战争游戏，在此处爆发！
@@ -99,12 +104,15 @@
 还有一些其他的家伙，为了各种各样的事情也出发了！
   
 
+
 ## 故事背景
 - [正式版故事背景](./连缘天影战记～Brilliant_pagoda_or_haze_castle-设定与剧情-story.md)
 - [体验版故事背景](./连缘天影战记～Brilliant_pagoda_or_haze_castle-设定与剧情-story（体验版）.md)
 - [教程关卡](./连缘天影战记～Brilliant_pagoda_or_haze_castle-设定与剧情-tutorial.md)
 
+
 ## 角色
+
 ### 自机
 
 <table>
@@ -191,14 +199,17 @@
 </td></tr></tbody></table>
 
 
+
 ### BOSS
 - <big> **[连缘天影战记 ～ Brilliant pagoda or haze castle/Boss](./连缘天影战记～Brilliant_pagoda_or_haze_castle-Boss.md)** </big>
 - 由于Boss有关内容过多，请进入子页面查看。
+
 
 ### 其他角色
 
 <table><tbody><tr><td align="center">暂无<br>图片</td> <td style="width:150px;padding:3px 9px 3px 7px;">出现：设定文档 </td><td style="width:180px;padding:3px 9px 3px 7px;"><a href="./甚平.md" title="甚平">甚平</a></td></tr>
 <tr><td align="center">暂无<br>图片</td> <td style="width:150px;padding:3px 9px 3px 7px;">出现：设定文档 </td><td style="width:180px;padding:3px 9px 3px 7px;"><a href="./平严门.md" title="平严门">平严门</a></td></tr></tbody></table>
+
 
 
 ## 附带文档
@@ -217,6 +228,7 @@
 <li><a href="./连缘天影战记～Brilliant_pagoda_or_haze_castle-设定与剧情-readme（体验版）.md" title="连缘天影战记～Brilliant pagoda or haze castle/设定与剧情/readme（体验版）">readme（体验版）</a></li>
 <li><a href="./连缘天影战记～Brilliant_pagoda_or_haze_castle-设定与剧情-FAQ（体验版）.md" title="连缘天影战记～Brilliant pagoda or haze castle/设定与剧情/FAQ（体验版）">FAQ（体验版）</a></li></ul>
 </td></tr></tbody></table>
+
 
 
 ## 其它资料
@@ -256,6 +268,7 @@
 </td></tr></tbody></table>
 
 
+
 ## 评论
   
 本作是系列第一部以“连缘”开头的作品，从此以后系列名变更为“连缘Project”，在此之前为“链缘Project”。  
@@ -267,6 +280,7 @@
 完全汉化补丁现已发布。  
 
   
+
 
 ## 下载
   
@@ -285,13 +299,15 @@
 </td></tr></tbody></table>
 
 
+
 ## 外部链接
 - [英文连缘wiki](http://lenen.shoutwiki.com) （英文）
 - [官网中的系统介绍](http://mugentrick.tubakurame.com/Lenen/Le04_manual/Le04_Index.html) （日文）
 
+
 ## 词条导航
 
-<table><tbody><tr><td><table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;;;"><tbody><tr><th style=";" colspan="2" class="navbox-title"><div class="navbar"><div class="noprint plainlinksneverexpand" style="background-color:transparent; padding:0; font-weight:normal; font-size:80%; white-space:nowrap;"><a href="./模板-连缘project导航.md" title="模板:连缘project导航"><span style=";;border:none;" title="查看这个模板">查</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<a href="/index.php?title=%E6%A8%A1%E6%9D%BF:%E8%BF%9E%E7%BC%98project%E5%AF%BC%E8%88%AA&amp;action=edit"><span style=";;border:none;" title="您可以编辑这个模板。请在储存变更之前先预览">编</span></a></div></div><span><a href="./连缘Project.md" title="连缘Project" unred="">链缘/连缘project</a></span></th></tr><tr><td></td></tr><tr><td class="navbox-abovebelow" style=";" colspan="2">登场角色</td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="/%E9%93%BE%E7%BC%98%E6%97%A0%E7%8E%B0%E9%87%8C" class="mw-redirect" title="链缘无现里">链缘无现里</a></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./凤联薮雨.md" title="凤联薮雨">凤联薮雨</a> · <a href="./燕乐玄鸟.md" title="燕乐玄鸟">燕乐玄鸟</a> · <a href="./乌蛇.md" title="乌蛇">乌蛇</a> · <a href="./鹀蒿雀.md" title="鹀蒿雀">鹀蒿雀</a> · <a href="./鹀颊赤.md" title="鹀颊赤">鹀颊赤</a> · <a href="./鹀黑巫鸟.md" title="鹀黑巫鸟">鹀黑巫鸟</a> · <a href="./（前略）克劳斯（后略）.md" title="（前略）克劳斯（后略）">（前略）克劳斯（后略）</a> · <a href="./阐里鹤喰.md" title="阐里鹤喰">阐里鹤喰</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="/%E9%93%BE%E7%BC%98%E8%9B%87%E4%B8%9B%E5%89%91" class="mw-redirect" title="链缘蛇丛剑">链缘蛇丛剑</a></td><td style=";;" class="navbox-list navbox-even"><div><a href="./天宫润.md" title="天宫润">天宫润</a> · <a href="./雨杏宵.md" title="雨杏宵">雨杏宵</a> · <a href="./凯勒里塔斯·流明.md" title="凯勒里塔斯·流明">凯勒里塔斯·流明</a> · <a href="./旭天子云雀流.md" title="旭天子云雀流">旭天子云雀流</a> · <a href="./片野宿祢.md" title="片野宿祢">片野宿祢</a> · <a href="./徒云八尾吕智.md" title="徒云八尾吕智">徒云八尾吕智</a>· <a href="./徒云蛇穴丸.md" title="徒云蛇穴丸">徒云蛇穴丸</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="/%E9%93%BE%E7%BC%98%E7%81%B5%E7%83%88%E4%BC%A0" class="mw-redirect" title="链缘灵烈传">链缘灵烈传</a></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./乞骸让让.md" title="乞骸让让">乞骸让让</a>· <a href="./马立噤美.md" title="马立噤美">马立噤美</a>· <a href="./藤原伊代真.md" title="藤原伊代真">藤原伊代真</a>· <a href="./平文门.md" title="平文门">平文门</a>· <a href="./死宛.md" title="死宛">死宛</a>· <a href="./瑞风天堺.md" title="瑞风天堺">瑞风天堺</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="/%E8%BF%9E%E7%BC%98%E5%A4%A9%E5%BD%B1%E6%88%98%E8%AE%B0" class="mw-redirect" title="连缘天影战记">连缘天影战记</a></td><td style=";;" class="navbox-list navbox-even"><div><a href="./银镜苍枯.md" title="银镜苍枯">银镜苍枯</a>· <a href="./照云.md" title="照云">照云</a>· <a href="./袈裟抉弄.md" title="袈裟抉弄">袈裟抉弄</a>· <a href="./守武莫大小.md" title="守武莫大小">守武莫大小</a>· <a href="./东海仙.md" title="东海仙">东海仙</a>· <a href="./大宅都光.md" title="大宅都光">大宅都光</a>· <a href="./尾形我来也.md" title="尾形我来也">尾形我来也</a>· <a href="./柏木薰.md" title="柏木薰" unred="">柏木薫</a>· <a href="./帕拉.md" title="帕拉">帕拉</a>· <a href="./藤原银赞良.md" title="藤原银赞良">藤原银赞良</a>· <a href="./平蝶鬼.md" title="平蝶鬼">平蝶鬼</a>· <a href="./大天朱壬鸟.md" title="大天朱壬鸟">大天朱壬鸟</a>· <a href="./天目津金水虿.md" title="天目津金水虿">天目津金水虿</a>· <a href="./世乃亚.md" title="世乃亚">世乃亚</a>· <a href="./千理牌示.md" title="千理牌示">千理牌示</a>· <a href="./国主雀巳.md" title="国主雀巳">国主雀巳</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">其他相关人物</td><td style=";;" class="navbox-list navbox-odd"><div><a href="./甚平.md" title="甚平">甚平</a>· <a href="./平严门.md" title="平严门">平严门</a>· <a href="./Rei君.md" title="Rei君">Rei君</a>· <a href="./Zelo酱.md" title="Zelo酱">Zelo酱</a>· <a href="./巴.md" title="巴">巴</a>· <a href="./鹀颊告鸟.md" title="鹀颊告鸟">鹀颊告鸟</a></div></td></tr></tbody></table></td></tr></tbody></table>
+<table><tbody><tr><td><table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;;;"><tbody><tr><th style=";" colspan="2" class="navbox-title"><div class="navbar"><div class="noprint plainlinksneverexpand" style="background-color:transparent; padding:0; font-weight:normal; font-size:80%; white-space:nowrap;"><a href="./模板-连缘project导航.md" title="模板:连缘project导航"><span style=";;border:none;" title="查看这个模板">查</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<a href="/index.php?title=%E6%A8%A1%E6%9D%BF:%E8%BF%9E%E7%BC%98project%E5%AF%BC%E8%88%AA&amp;action=edit"><span style=";;border:none;" title="您可以编辑这个模板。请在储存变更之前先预览">编</span></a></div></div><span><a href="./连缘Project.md" title="连缘Project" unred="">链缘/连缘project</a></span></th></tr><tr><td></td></tr><tr><td class="navbox-abovebelow" style=";" colspan="2">登场角色</td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="./链缘无现里.md" class="mw-redirect" title="链缘无现里">链缘无现里</a></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./凤联薮雨.md" title="凤联薮雨">凤联薮雨</a> · <a href="./燕乐玄鸟.md" title="燕乐玄鸟">燕乐玄鸟</a> · <a href="./乌蛇.md" title="乌蛇">乌蛇</a> · <a href="./鹀蒿雀.md" title="鹀蒿雀">鹀蒿雀</a> · <a href="./鹀颊赤.md" title="鹀颊赤">鹀颊赤</a> · <a href="./鹀黑巫鸟.md" title="鹀黑巫鸟">鹀黑巫鸟</a> · <a href="./（前略）克劳斯（后略）.md" title="（前略）克劳斯（后略）">（前略）克劳斯（后略）</a> · <a href="./阐里鹤喰.md" title="阐里鹤喰">阐里鹤喰</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="./链缘蛇丛剑.md" class="mw-redirect" title="链缘蛇丛剑">链缘蛇丛剑</a></td><td style=";;" class="navbox-list navbox-even"><div><a href="./天宫润.md" title="天宫润">天宫润</a> · <a href="./雨杏宵.md" title="雨杏宵">雨杏宵</a> · <a href="./凯勒里塔斯·流明.md" title="凯勒里塔斯·流明">凯勒里塔斯·流明</a> · <a href="./旭天子云雀流.md" title="旭天子云雀流">旭天子云雀流</a> · <a href="./片野宿祢.md" title="片野宿祢">片野宿祢</a> · <a href="./徒云八尾吕智.md" title="徒云八尾吕智">徒云八尾吕智</a>· <a href="./徒云蛇穴丸.md" title="徒云蛇穴丸">徒云蛇穴丸</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="./链缘灵烈传.md" class="mw-redirect" title="链缘灵烈传">链缘灵烈传</a></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./乞骸让让.md" title="乞骸让让">乞骸让让</a>· <a href="./马立噤美.md" title="马立噤美">马立噤美</a>· <a href="./藤原伊代真.md" title="藤原伊代真">藤原伊代真</a>· <a href="./平文门.md" title="平文门">平文门</a>· <a href="./死宛.md" title="死宛">死宛</a>· <a href="./瑞风天堺.md" title="瑞风天堺">瑞风天堺</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="./连缘天影战记.md" class="mw-redirect" title="连缘天影战记">连缘天影战记</a></td><td style=";;" class="navbox-list navbox-even"><div><a href="./银镜苍枯.md" title="银镜苍枯">银镜苍枯</a>· <a href="./照云.md" title="照云">照云</a>· <a href="./袈裟抉弄.md" title="袈裟抉弄">袈裟抉弄</a>· <a href="./守武莫大小.md" title="守武莫大小">守武莫大小</a>· <a href="./东海仙.md" title="东海仙">东海仙</a>· <a href="./大宅都光.md" title="大宅都光">大宅都光</a>· <a href="./尾形我来也.md" title="尾形我来也">尾形我来也</a>· <a href="./柏木薰.md" title="柏木薰" unred="">柏木薫</a>· <a href="./帕拉.md" title="帕拉">帕拉</a>· <a href="./藤原银赞良.md" title="藤原银赞良">藤原银赞良</a>· <a href="./平蝶鬼.md" title="平蝶鬼">平蝶鬼</a>· <a href="./大天朱壬鸟.md" title="大天朱壬鸟">大天朱壬鸟</a>· <a href="./天目津金水虿.md" title="天目津金水虿">天目津金水虿</a>· <a href="./世乃亚.md" title="世乃亚">世乃亚</a>· <a href="./千理牌示.md" title="千理牌示">千理牌示</a>· <a href="./国主雀巳.md" title="国主雀巳">国主雀巳</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">其他相关人物</td><td style=";;" class="navbox-list navbox-odd"><div><a href="./甚平.md" title="甚平">甚平</a>· <a href="./平严门.md" title="平严门">平严门</a>· <a href="./Rei君.md" title="Rei君">Rei君</a>· <a href="./Zelo酱.md" title="Zelo酱">Zelo酱</a>· <a href="./巴.md" title="巴">巴</a>· <a href="./鹀颊告鸟.md" title="鹀颊告鸟">鹀颊告鸟</a></div></td></tr></tbody></table></td></tr></tbody></table>
 
 
   

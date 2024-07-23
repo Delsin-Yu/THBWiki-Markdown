@@ -12,7 +12,7 @@ The_Grimoire_of_Usami | 使用了翻译表的页面 | 宇佐见的魔法书 | �
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./The_Grimoire_of_Usami-大会结束记录-中日对照.md" title="The Grimoire of Usami/大会结束记录/中日对照">大会结束记录</a>&#160;
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="/%E5%AE%87%E4%BD%90%E8%A7%81%E7%9A%84%E9%AD%94%E6%B3%95%E4%B9%A6" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a>&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="./宇佐见的魔法书.md" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a>&#160;
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">&#160;<a href="./The_Grimoire_of_Usami-永琳&辉夜-中日对照.md" title="The Grimoire of Usami/永琳&amp;辉夜/中日对照">永琳&amp;辉夜</a>
 </td>
@@ -25,7 +25,7 @@ The_Grimoire_of_Usami | 使用了翻译表的页面 | 宇佐见的魔法书 | �
 - 翻译：fumika_zero
 
 
-<table><tbody><tr class="tt-content-header" id="=-1" data-pos="&#91;&quot;=&quot;,1&#93;"><td class="tt-jah" lang="ja"><div class="poem">紅魔符「ブラッディカタストロフ」</div></td><td class="tt-zhh" lang="zh"><div class="poem"><a href="/%E7%BA%A2%E9%AD%94%E7%AC%A6%E3%80%8CBloody_Catastrophe%E3%80%8D" class="mw-redirect" title="红魔符「Bloody Catastrophe」">红魔符「Bloody Catastrophe」</a></div></td></tr><tr class="tt-content" id="=-2" data-pos="&#91;&quot;=&quot;,2&#93;"><td class="tt-ja" lang="ja"><div class="poem">使用者：レミリア&amp;フランドール</div></td><td class="tt-zh" lang="zh"><div class="poem">使用者：<a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚</a>&amp;<a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露</a></div></td></tr><tr class="tt-header" id="=-3" data-pos="&#91;&quot;=&quot;,3&#93;"><td colspan="2" id="十六夜咲夜" class="tt-header" lang="zh"><div class="poem">十六夜咲夜</div></td></tr><tr class="tt-content" id="=-4" data-pos="&#91;&quot;=&quot;,4&#93;"><td class="tt-ja" lang="ja"><div class="poem">あらら、二人とも来てたんですねぇ。水が出る弾幕が多くて危なかったのですが……。</div></td><td class="tt-zh" lang="zh"><div class="poem">哎呀呀，这两位也来了呢。虽然出水的弹幕很多比较危险……</div></td></tr><tr class="tt-header" id="=-5" data-pos="&#91;&quot;=&quot;,5&#93;"><td colspan="2" id="雾雨魔理沙" class="tt-header" lang="zh"><div class="poem">雾雨魔理沙</div></td></tr><tr class="tt-content" id="=-6" data-pos="&#91;&quot;=&quot;,6&#93;"><td class="tt-ja" lang="ja"><div class="poem">あの姉妹、そんなに仲が良かったか？</div></td><td class="tt-zh" lang="zh"><div class="poem">那对姐妹，感情有那么好的吗？</div></td></tr></tbody></table>
+<table><tbody><tr class="tt-content-header" id="=-1" data-pos="&#91;&quot;=&quot;,1&#93;"><td class="tt-jah" lang="ja"><div class="poem">紅魔符「ブラッディカタストロフ」</div></td><td class="tt-zhh" lang="zh"><div class="poem"><a href="./红魔符「Bloody_Catastrophe」.md" class="mw-redirect" title="红魔符「Bloody Catastrophe」">红魔符「Bloody Catastrophe」</a></div></td></tr><tr class="tt-content" id="=-2" data-pos="&#91;&quot;=&quot;,2&#93;"><td class="tt-ja" lang="ja"><div class="poem">使用者：レミリア&amp;フランドール</div></td><td class="tt-zh" lang="zh"><div class="poem">使用者：<a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚</a>&amp;<a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露</a></div></td></tr><tr class="tt-header" id="=-3" data-pos="&#91;&quot;=&quot;,3&#93;"><td colspan="2" id="十六夜咲夜" class="tt-header" lang="zh"><div class="poem">十六夜咲夜</div></td></tr><tr class="tt-content" id="=-4" data-pos="&#91;&quot;=&quot;,4&#93;"><td class="tt-ja" lang="ja"><div class="poem">あらら、二人とも来てたんですねぇ。水が出る弾幕が多くて危なかったのですが……。</div></td><td class="tt-zh" lang="zh"><div class="poem">哎呀呀，这两位也来了呢。虽然出水的弹幕很多比较危险……</div></td></tr><tr class="tt-header" id="=-5" data-pos="&#91;&quot;=&quot;,5&#93;"><td colspan="2" id="雾雨魔理沙" class="tt-header" lang="zh"><div class="poem">雾雨魔理沙</div></td></tr><tr class="tt-content" id="=-6" data-pos="&#91;&quot;=&quot;,6&#93;"><td class="tt-ja" lang="ja"><div class="poem">あの姉妹、そんなに仲が良かったか？</div></td><td class="tt-zh" lang="zh"><div class="poem">那对姐妹，感情有那么好的吗？</div></td></tr></tbody></table>
 
 
 <center>
@@ -36,7 +36,7 @@ The_Grimoire_of_Usami | 使用了翻译表的页面 | 宇佐见的魔法书 | �
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./The_Grimoire_of_Usami-大会结束记录-中日对照.md" title="The Grimoire of Usami/大会结束记录/中日对照">大会结束记录</a>&#160;
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="/%E5%AE%87%E4%BD%90%E8%A7%81%E7%9A%84%E9%AD%94%E6%B3%95%E4%B9%A6" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a>&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="./宇佐见的魔法书.md" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a>&#160;
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">&#160;<a href="./The_Grimoire_of_Usami-永琳&辉夜-中日对照.md" title="The Grimoire of Usami/永琳&amp;辉夜/中日对照">永琳&amp;辉夜</a>
 </td>
@@ -45,6 +45,7 @@ The_Grimoire_of_Usami | 使用了翻译表的页面 | 宇佐见的魔法书 | �
 
   
 </center>
+
 
 ## 词条导航
   

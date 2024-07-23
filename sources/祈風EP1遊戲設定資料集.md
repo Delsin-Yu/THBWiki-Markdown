@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-祈風EP1遊戲設定資料集封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/7/78/%E7%A5%88%E9%A2%A8EP1%E9%81%8A%E6%88%B2%E8%A8%AD%E5%AE%9A%E8%B3%87%E6%96%99%E9%9B%86%E5%B0%81%E9%9D%A2.jpg/157px-%E7%A5%88%E9%A2%A8EP1%E9%81%8A%E6%88%B2%E8%A8%AD%E5%AE%9A%E8%B3%87%E6%96%99%E9%9B%86%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="157" height="224" srcset="https://upload.thwiki.cc/7/78/%E7%A5%88%E9%A2%A8EP1%E9%81%8A%E6%88%B2%E8%A8%AD%E5%AE%9A%E8%B3%87%E6%96%99%E9%9B%86%E5%B0%81%E9%9D%A2.jpg 1.5x" data-file-width="200" data-file-height="285"></a><div class="cover-char">角色：<a href="./东风谷早苗.md" title="东风谷早苗">东风谷早苗</a></div></td>
@@ -14,7 +15,9 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://inorikaze.blog.fc2.com/blog-entry-16.html">http://inorikaze.blog.fc2.com/blog-entry-16.html</a></td></tr></tbody></table>
 
 祈風EP1遊戲設定資料集（同人志，Twilight~日月之境~，2011） - 2011年11月20日 由 Twilight~日月之境~ 于 东方枫华宴2 发布的设定集同人志，B5尺寸一共48页，登场人物有 东风谷早苗、八坂神奈子、洩矢诹访子，分级为 一般向
+
 ## Staff
+
 ## 评论
 
 

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -41,11 +42,13 @@
 
 
 
+
 ## 基本信息
 
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">ティアオイエツォン(withered leaf)</td></tr><tr><td><b>译名</b></td><td>凋叶棕（withered leaf）</td></tr><tr><td><b>英文译名</b></td><td>Diao Ye Zong (withered leaf)</td></tr><tr><td><b>常见误译</b></td><td><s><i>枯叶色（withered leaf）</i></s></td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 凋叶棕（withered leaf）（曲目） - 由 ZUN 创作的官方曲目，原名 ティアオイエツォン(withered leaf)
+
 ## 出现作品
 
 <table>
@@ -54,8 +57,11 @@
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 东方妖妖梦
+
 #### WAV
   
 WAV版是游戏的原声带。
@@ -70,6 +76,7 @@ WAV版是游戏的原声带。
 </td></tr></tbody></table>
 
 
+
 #### MIDI
   
 MIDI版由Roland Sound Canvas 88Pro实机录音得到。
@@ -79,7 +86,9 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td><a href="./文件-th07_05.mid.md" title="文件:th07 05.mid">th07_05.mid</a></td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th07_05_SC88Pro.mp3.md" title="文件:th07 05 SC88Pro.mp3">th07_05_SC88Pro.mp3</a><br><audio src="https://upload.thwiki.cc/0/05/th07_05_SC88Pro.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>th07_05.mid</td></tr><tr><td><b>音轨时长</b></td><td>0:54</td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 东方妖妖梦
 - Music Room (未找到链接)
 
@@ -96,8 +105,11 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
     对我来说猫有着秋天的印象。  
     无法度过条件艰苦的冬天和夏天，春天的生机勃勃也不符合猫。  
     大概是这种感觉。
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
   
  **ティアオイエツォン(withered leaf)**  凋叶棕（withered leaf）
@@ -124,6 +136,7 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
 - withered leaf
   - 干枯的叶子。
     - 含义与「凋叶棕」相近。
+
 
 
 

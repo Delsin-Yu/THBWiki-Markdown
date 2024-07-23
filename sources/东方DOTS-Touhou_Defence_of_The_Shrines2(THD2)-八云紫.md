@@ -164,6 +164,7 @@ AvalonStudioOfficial
 [](./文件-THD2八云紫.png.md)
   
 
+
 ## 目录
 
 - [1 角色定位](#角色定位)
@@ -184,10 +185,12 @@ AvalonStudioOfficial
 
 
 
+
 ## 角色定位
   
 核心 - 爆发 - 逃生 - 控制
   
+
 
 ## 技能介绍
 
@@ -780,6 +783,7 @@ AvalonStudioOfficial
 </td></tr></tbody></table>
 
 
+
 ## 天赋树
 
 
@@ -818,25 +822,30 @@ AvalonStudioOfficial
 </td></tr></tbody></table>
 
 
+
 ### 出门装备
 ```
 [](./文件-THD2铁质短刀.png.md) [](./文件-THD2衰人卡.png.md) [](./文件-THD2思兼生命药.png.md) [](./文件-THD2雾雨魔力瓶.png.md) [](./文件-THD2四叶草.png.md)
 ```
+
 
 ### 前期装备
 ```
 [](./文件-THD2红魔火箭1级.png.md) [](./文件-THD2衰人卡.png.md) [](./文件-THD2间隙通行证.png.md) [](./文件-THD2侦查守卫.png.md)
 ```
 
+
 ### 核心装备
 ```
 [](./文件-THD2红魔火箭1级.png.md) [](./文件-THD2月面之弓弦.png.md)
 ```
 
+
 ### 可选装备
 ```
 [](./文件-THD2油库里之杖.png.md) [](./文件-THD2博丽供奉箱.png.md) [](./文件-THD2香霖的礼服.png.md) [](./文件-THD2八云间隙发生器.png.md) [](./文件-THD2亡灵送行提灯.png.md) [](./文件-THD2奇迹之星.png.md) [](./文件-THD2巴瓦鲁幽魂之书.png.md) [](./文件-THD2魔法使的帽子.png.md) [](./文件-THD2破魔净灵札.png.md) [](./文件-THD2博丽神社护身符.png.md) [](./文件-THD2迷你八卦炉.png.md)
 ```
+
 
 ## 技能加点
 
@@ -984,6 +993,7 @@ AvalonStudioOfficial
 </td></tr></tbody></table>
 
 
+
 ## 台词
 
 <table>
@@ -1052,6 +1062,7 @@ AvalonStudioOfficial
 </td>
 <td>小人（しょうじん）閑居（かんきょ）して不全を成す<br>[小人独居而行不善]
 </td></tr></tbody></table>
+
 
 
 ## 教学视频

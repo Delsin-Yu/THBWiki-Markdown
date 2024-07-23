@@ -6,11 +6,13 @@
 
 本页是关于东方Project  
  **二次同人创作者** 的词条
+
 ## 基本信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="label"><b>名称</b></td><td> Amibazh </td></tr><tr><td class="label"><b>所属社团</b></td><td><b>当前</b><div style="margin-left:2em;"><a href="./乌有社.md" title="乌有社">乌有社</a></div></td></tr><tr><td class="label"><b>职位</b></td><td>画师</td></tr><tr><td class="label"><b>个人页面</b></td><td><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><b>Twitter</b></td><td><a rel="nofollow" class="external free" href="https://twitter.com/amibazh">https://twitter.com/amibazh</a></td></tr><tr><td><b>Weibo</b></td><td><a rel="nofollow" class="external free" href="https://weibo.com/u/3188120510">https://weibo.com/u/3188120510</a></td></tr><tr><td><b>Pixiv</b></td><td><a rel="nofollow" class="external free" href="https://www.pixiv.net/users/1500528">https://www.pixiv.net/users/1500528</a></td></tr></tbody></table></td></tr></tbody></table>
 
 Amibazh（人物） - 现实人物
+
 ## 介绍
   
 中国画师。艺术风格是古典画派，并制作了多个古典画戏仿。

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Touhou_Anomalous_Divination_東方星縁録_アノマロス・ディビネイシュン封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/a/a6/Touhou_Anomalous_Divination_%E6%9D%B1%E6%96%B9%E6%98%9F%E7%B8%81%E9%8C%B2_%E3%82%A2%E3%83%8E%E3%83%9E%E3%83%AD%E3%82%B9%E3%83%BB%E3%83%87%E3%82%A3%E3%83%93%E3%83%8D%E3%82%A4%E3%82%B7%E3%83%A5%E3%83%B3%E5%B0%81%E9%9D%A2.jpg/119px-Touhou_Anomalous_Divination_%E6%9D%B1%E6%96%B9%E6%98%9F%E7%B8%81%E9%8C%B2_%E3%82%A2%E3%83%8E%E3%83%9E%E3%83%AD%E3%82%B9%E3%83%BB%E3%83%87%E3%82%A3%E3%83%93%E3%83%8D%E3%82%A4%E3%82%B7%E3%83%A5%E3%83%B3%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="119" height="168" srcset="https://upload.thwiki.cc/thumb/a/a6/Touhou_Anomalous_Divination_%E6%9D%B1%E6%96%B9%E6%98%9F%E7%B8%81%E9%8C%B2_%E3%82%A2%E3%83%8E%E3%83%9E%E3%83%AD%E3%82%B9%E3%83%BB%E3%83%87%E3%82%A3%E3%83%93%E3%83%8D%E3%82%A4%E3%82%B7%E3%83%A5%E3%83%B3%E5%B0%81%E9%9D%A2.jpg/178px-Touhou_Anomalous_Divination_%E6%9D%B1%E6%96%B9%E6%98%9F%E7%B8%81%E9%8C%B2_%E3%82%A2%E3%83%8E%E3%83%9E%E3%83%AD%E3%82%B9%E3%83%BB%E3%83%87%E3%82%A3%E3%83%93%E3%83%8D%E3%82%A4%E3%82%B7%E3%83%A5%E3%83%B3%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/a/a6/Touhou_Anomalous_Divination_%E6%9D%B1%E6%96%B9%E6%98%9F%E7%B8%81%E9%8C%B2_%E3%82%A2%E3%83%8E%E3%83%9E%E3%83%AD%E3%82%B9%E3%83%BB%E3%83%87%E3%82%A3%E3%83%93%E3%83%8D%E3%82%A4%E3%82%B7%E3%83%A5%E3%83%B3%E5%B0%81%E9%9D%A2.jpg/237px-Touhou_Anomalous_Divination_%E6%9D%B1%E6%96%B9%E6%98%9F%E7%B8%81%E9%8C%B2_%E3%82%A2%E3%83%8E%E3%83%9E%E3%83%AD%E3%82%B9%E3%83%BB%E3%83%87%E3%82%A3%E3%83%93%E3%83%8D%E3%82%A4%E3%82%B7%E3%83%A5%E3%83%B3%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1240" data-file-height="1754"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></div></td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://liliumvisuals.wordpress.com/2011/06/10/東方星縁録-touhou-anomalous-divination/">https://liliumvisuals.wordpress.com/2011/06/10/東方星縁録-touhou-anomalous-divination/</a><br><a rel="nofollow" class="external free" href="http://blog.sina.com.cn/s/blog_79164e950100u9xp.html">http://blog.sina.com.cn/s/blog_79164e950100u9xp.html</a><br><a rel="nofollow" class="external free" href="http://blog.sina.com.cn/s/blog_79164e950100tnc7.html">http://blog.sina.com.cn/s/blog_79164e950100tnc7.html</a></td></tr><tr><td class="label">备注</td><td colspan="2">该同人志也在澳大利亚展会<a href="https://en.wikipedia.org/wiki/Manifest_(convention)" class="extiw" title="wikipedia:Manifest (convention)">Manifest 2011</a> (2011-08-26) 上发售</td></tr></tbody></table>
 
 Touhou Anomalous Divination 東方星縁録 アノマロス・ディビネイシュン（同人志，Alice Overture，2011） - 2011年7月24日 由 Alice Overture 于 上海THONLY4 发布的画集同人志，一共52页，分级为 一般向
+
 ## Staff
 主催
 : 天下の庭師Y （[Alice Overture](./Alice_Overture.md)）
@@ -39,6 +41,7 @@ Touhou Anomalous Divination 東方星縁録 アノマロス・ディビネイシ
 : Rosene
 : kokoro※小依
 : 天下の庭師Y
+
 
 ## 评论
 

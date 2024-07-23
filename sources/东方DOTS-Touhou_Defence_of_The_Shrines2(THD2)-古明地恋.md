@@ -169,6 +169,7 @@ AvalonStudioOfficial
 [](./文件-THD2古明地恋.png.md)
   
 
+
 ## 目录
 
 - [1 角色定位](#角色定位)
@@ -189,10 +190,12 @@ AvalonStudioOfficial
 
 
 
+
 ## 角色定位
   
 核心 - 耐久 - 推进
   
+
 
 ## 技能介绍
 
@@ -673,6 +676,7 @@ AvalonStudioOfficial
 </td></tr></tbody></table>
 
 
+
 ## 天赋树
 
 
@@ -711,25 +715,30 @@ AvalonStudioOfficial
 </td></tr></tbody></table>
 
 
+
 ### 出门装备
 ```
 [](./文件-THD2爱人卡.png.md) [](./文件-THD2天狗护符.png.md) [](./文件-THD2四叶草.png.md) [](./文件-THD2思兼生命药.png.md)
 ```
+
 
 ### 前期装备
 ```
 [](./文件-THD2博丽供奉箱.png.md) [](./文件-THD2魔法使扫把.png.md)
 ```
 
+
 ### 核心装备
 ```
 [](./文件-THD2月兔幻觉兵器.png.md) [](./文件-THD2迅捷扫把.png.md)
 ```
 
+
 ### 可选装备
 ```
 [](./文件-THD2博丽神社护身符.png.md) [](./文件-THD2月面之弩.png.md) [](./文件-THD2神枪冈格尼尔.png.md) [](./文件-THD2白楼剑.png.md) [](./文件-THD2亡灵送行提灯.png.md) [](./文件-THD2恶魔的乳牙.png.md)
 ```
+
 
 ## 技能加点
 
@@ -877,6 +886,7 @@ AvalonStudioOfficial
 </td></tr></tbody></table>
 
 
+
 ## 台词
 
 <table>
@@ -1020,6 +1030,7 @@ AvalonStudioOfficial
 </td>
 <td>地底に戻れば楽になるかも<br>[回到地底会轻松一些吧]
 </td></tr></tbody></table>
+
 
 
 ## 教学视频

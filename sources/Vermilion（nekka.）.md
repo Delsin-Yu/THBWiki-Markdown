@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Vermilion（nekka.）封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/6/61/Vermilion%EF%BC%88nekka.%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/280px-Vermilion%EF%BC%88nekka.%EF%BC%89%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="280" height="280" srcset="https://upload.thwiki.cc/thumb/6/61/Vermilion%EF%BC%88nekka.%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/420px-Vermilion%EF%BC%88nekka.%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/6/61/Vermilion%EF%BC%88nekka.%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/560px-Vermilion%EF%BC%88nekka.%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1024" data-file-height="1024"></a><div class="cover-char">角色：<a href="./比那名居天子.md" title="比那名居天子">比那名居天子</a></div></td>
@@ -18,9 +19,11 @@ Vermilion（同人专辑，nekka.，2024） - 2024年5月3日 由 nekka. 于 博
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://nekka.booth.pm/items/5707229">BoothCD</a></td></tr></tbody></table>
 
 
+
 ## Staff
 Illustration
 : えすかるご (未找到链接) （[X&#160;: @0628_versailles](https://twitter.com/0628_versailles)）
+
 
 ## 试听
   
@@ -28,11 +31,13 @@ Illustration
 
   
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="info"><b>01</b></td><td id="緋想天" colspan="2" class="title">緋想天<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=緋想天&amp;fromwiki=Vermilion（nekka.）"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=緋想天&amp;fromwiki=Vermilion（nekka.）"><span></span></a></span><div class="ogmusic"><a href="/%E7%B7%8B%E6%83%B3%E5%A4%A9" class="mw-redirect" title="緋想天">緋想天</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E7%BB%AF%E6%83%B3%E5%A4%A9_%EF%BD%9E_Scarlet_Weather_Rhapsody." class="mw-redirect" title="东方绯想天 ～ Scarlet Weather Rhapsody.">东方绯想天　～ Scarlet Weather Rhapsody.</a></div></td></tr>
-<tr><td id="2" class="info"><b>02</b></td><td id="天衣無縫" colspan="2" class="title">天衣無縫<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=天衣無縫&amp;fromwiki=Vermilion（nekka.）"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=天衣無縫&amp;fromwiki=Vermilion（nekka.）"><span></span></a></span><div class="ogmusic"><a href="/%E5%A4%A9%E8%A1%A3%E7%84%A1%E7%B8%AB" class="mw-redirect" title="天衣無縫">天衣無縫</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E7%BB%AF%E6%83%B3%E5%A4%A9_%EF%BD%9E_Scarlet_Weather_Rhapsody." class="mw-redirect" title="东方绯想天 ～ Scarlet Weather Rhapsody.">东方绯想天　～ Scarlet Weather Rhapsody.</a></div></td></tr>
-<tr><td id="3" class="info"><b>03</b></td><td id="暮色蒼然" colspan="2" class="title">暮色蒼然<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=暮色蒼然&amp;fromwiki=Vermilion（nekka.）"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=暮色蒼然&amp;fromwiki=Vermilion（nekka.）"><span></span></a></span><div class="ogmusic"><a href="/%E6%9A%AE%E8%89%B2%E8%92%BC%E7%84%B6" class="mw-redirect" title="暮色蒼然">暮色蒼然</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E7%BB%AF%E6%83%B3%E5%A4%A9_%EF%BD%9E_Scarlet_Weather_Rhapsody." class="mw-redirect" title="东方绯想天 ～ Scarlet Weather Rhapsody.">东方绯想天　～ Scarlet Weather Rhapsody.</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="info"><b>01</b></td><td id="緋想天" colspan="2" class="title">緋想天<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=緋想天&amp;fromwiki=Vermilion（nekka.）"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=緋想天&amp;fromwiki=Vermilion（nekka.）"><span></span></a></span><div class="ogmusic"><a href="./緋想天.md" class="mw-redirect" title="緋想天">緋想天</a></div><div class="source"><a href="./东方绯想天_～_Scarlet_Weather_Rhapsody..md" class="mw-redirect" title="东方绯想天 ～ Scarlet Weather Rhapsody.">东方绯想天　～ Scarlet Weather Rhapsody.</a></div></td></tr>
+<tr><td id="2" class="info"><b>02</b></td><td id="天衣無縫" colspan="2" class="title">天衣無縫<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=天衣無縫&amp;fromwiki=Vermilion（nekka.）"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=天衣無縫&amp;fromwiki=Vermilion（nekka.）"><span></span></a></span><div class="ogmusic"><a href="./天衣無縫.md" class="mw-redirect" title="天衣無縫">天衣無縫</a></div><div class="source"><a href="./东方绯想天_～_Scarlet_Weather_Rhapsody..md" class="mw-redirect" title="东方绯想天 ～ Scarlet Weather Rhapsody.">东方绯想天　～ Scarlet Weather Rhapsody.</a></div></td></tr>
+<tr><td id="3" class="info"><b>03</b></td><td id="暮色蒼然" colspan="2" class="title">暮色蒼然<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=暮色蒼然&amp;fromwiki=Vermilion（nekka.）"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=暮色蒼然&amp;fromwiki=Vermilion（nekka.）"><span></span></a></span><div class="ogmusic"><a href="./暮色蒼然.md" class="mw-redirect" title="暮色蒼然">暮色蒼然</a></div><div class="source"><a href="./东方绯想天_～_Scarlet_Weather_Rhapsody..md" class="mw-redirect" title="东方绯想天 ～ Scarlet Weather Rhapsody.">东方绯想天　～ Scarlet Weather Rhapsody.</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

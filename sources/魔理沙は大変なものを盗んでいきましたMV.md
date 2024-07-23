@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人视频 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-魔理沙は大変なものを盗んでいきましたMV封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/0/05/%E9%AD%94%E7%90%86%E6%B2%99%E3%81%AF%E5%A4%A7%E5%A4%89%E3%81%AA%E3%82%82%E3%81%AE%E3%82%92%E7%9B%97%E3%82%93%E3%81%A7%E3%81%84%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9FMV%E5%B0%81%E9%9D%A2.png/140px-%E9%AD%94%E7%90%86%E6%B2%99%E3%81%AF%E5%A4%A7%E5%A4%89%E3%81%AA%E3%82%82%E3%81%AE%E3%82%92%E7%9B%97%E3%82%93%E3%81%A7%E3%81%84%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9FMV%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="140" height="78" srcset="https://upload.thwiki.cc/thumb/0/05/%E9%AD%94%E7%90%86%E6%B2%99%E3%81%AF%E5%A4%A7%E5%A4%89%E3%81%AA%E3%82%82%E3%81%AE%E3%82%92%E7%9B%97%E3%82%93%E3%81%A7%E3%81%84%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9FMV%E5%B0%81%E9%9D%A2.png/210px-%E9%AD%94%E7%90%86%E6%B2%99%E3%81%AF%E5%A4%A7%E5%A4%89%E3%81%AA%E3%82%82%E3%81%AE%E3%82%92%E7%9B%97%E3%82%93%E3%81%A7%E3%81%84%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9FMV%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/0/05/%E9%AD%94%E7%90%86%E6%B2%99%E3%81%AF%E5%A4%A7%E5%A4%89%E3%81%AA%E3%82%82%E3%81%AE%E3%82%92%E7%9B%97%E3%82%93%E3%81%A7%E3%81%84%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9FMV%E5%B0%81%E9%9D%A2.png/280px-%E9%AD%94%E7%90%86%E6%B2%99%E3%81%AF%E5%A4%A7%E5%A4%89%E3%81%AA%E3%82%82%E3%81%AE%E3%82%92%E7%9B%97%E3%82%93%E3%81%A7%E3%81%84%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9FMV%E5%B0%81%E9%9D%A2.png 2x" data-file-width="653" data-file-height="362"></a><div class="cover-char">角色：<a href="./爱丽丝·玛格特洛依德.md" title="爱丽丝·玛格特洛依德">爱丽丝·玛格特洛依德</a></div></td>
@@ -14,15 +15,18 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.youtube.com/watch?v=shmAGOTo824">https://www.youtube.com/watch?v=shmAGOTo824</a></td></tr></tbody></table>
 
 魔理沙は大変なものを盗んでいきましたMV（同人视频，IOSYS，2006） - 2006年11月16日 由 IOSYS  发布的传统动画/手书/音乐同人视频，总长 0小时2分钟，分级为 一般向
+
 ## 影响
   
 改编了[东方妖妖梦](./东方妖妖梦.md)BGM[布加勒斯特的人偶师](./布加勒斯特的人偶师.md)和[人偶裁判 ～ 玩弄人形的少女](./人偶裁判_～_玩弄人形的少女.md)的歌曲。在NICONICO动画上由Flash动画制作的PV获得了极高的人气，在《东方》改编乐曲之中也有着数一数二的知名度.与「患部で止まってすぐ溶ける～狂気の優曇華院」一起，一时之间在初生的NICONICO引起东方和IOSYS热潮
   
 
+
 ## Staff
   
 カギ
   
+
 
 ## 评论
   

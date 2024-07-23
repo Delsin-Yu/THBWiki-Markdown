@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-fairy-tales,封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/f/fc/fairy-tales%2C%E5%B0%81%E9%9D%A2.jpg/138px-fairy-tales%2C%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="138" height="224" srcset="https://upload.thwiki.cc/thumb/f/fc/fairy-tales%2C%E5%B0%81%E9%9D%A2.jpg/207px-fairy-tales%2C%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/f/fc/fairy-tales%2C%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="237" data-file-height="384"></a><div class="cover-char">角色：<a href="./桑尼米尔克.md" title="桑尼米尔克">桑尼米尔克</a>，<a href="./露娜切露德.md" title="露娜切露德">露娜切露德</a>，<a href="./斯塔萨菲雅.md" title="斯塔萨菲雅">斯塔萨菲雅</a></div></td>
@@ -14,7 +15,9 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://horigotatu.exblog.jp/12083267/">https://horigotatu.exblog.jp/12083267/</a><br><a rel="nofollow" class="external free" href="http://www.little-wing.org/kotatsu/fa.htm">http://www.little-wing.org/kotatsu/fa.htm</a><br><a rel="nofollow" class="external free" href="http://www.little-wing.org/activity.htm">http://www.little-wing.org/activity.htm</a><br><span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><small>（无缓存页面，<a rel="nofollow" class="external text" href="https://web.archive.org/web/20150408072722/http://www.little-wing.org/activity.htm">缓存页面2</a>）</small></td></tr></tbody></table>
 
 fairy-tales,（同人志，ほりごたつ，2009） - 2009年10月11日 由 ほりごたつ 于 东方红楼梦5 发布的小说同人志，新书尺寸一共172页，登场人物有 桑尼米尔克、露娜切露德、斯塔萨菲雅，分级为 一般向
+
 ## 预览
+
 ## Staff
 Author
 :  **（露娜部分）** : 二見 （[ほりごたつ](./ほりごたつ.md)）
@@ -23,7 +26,9 @@ Author
 Illustration
 : 茶葉 （HORTENSIA (未找到链接) / [社团网站](http://i-ris.sakura.ne.jp) / [Pixiv ID: 13233](https://www.pixiv.net/users/13233) / [Twitter: @chabaaen](https://twitter.com/chabaaen)）
 
+
 ## 评论
+
 ## 其他链接
 - 封面原画：[https://danbooru.donmai.us/posts/532592](https://danbooru.donmai.us/posts/532592)
 

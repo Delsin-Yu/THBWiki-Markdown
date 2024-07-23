@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-ies！スライムライフ！封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/6/66/ies%EF%BC%81%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%A0%E3%83%A9%E3%82%A4%E3%83%95%EF%BC%81%E5%B0%81%E9%9D%A2.jpg/140px-ies%EF%BC%81%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%A0%E3%83%A9%E3%82%A4%E3%83%95%EF%BC%81%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="140" height="196" srcset="https://upload.thwiki.cc/thumb/6/66/ies%EF%BC%81%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%A0%E3%83%A9%E3%82%A4%E3%83%95%EF%BC%81%E5%B0%81%E9%9D%A2.jpg/210px-ies%EF%BC%81%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%A0%E3%83%A9%E3%82%A4%E3%83%95%EF%BC%81%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/6/66/ies%EF%BC%81%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%A0%E3%83%A9%E3%82%A4%E3%83%95%EF%BC%81%E5%B0%81%E9%9D%A2.jpg/281px-ies%EF%BC%81%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%A0%E3%83%A9%E3%82%A4%E3%83%95%EF%BC%81%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="573" data-file-height="800"></a><div class="cover-char">角色：<a href="./多多良小伞.md" title="多多良小伞">多多良小伞</a>，<a href="./圣白莲.md" title="圣白莲">圣白莲</a></div></td>
@@ -14,9 +15,12 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/9388611">https://www.pixiv.net/artworks/9388611</a></td></tr></tbody></table>
 
 ies！スライムライフ！（同人志，安達貴族，2010） - 2010年3月14日 由 安達貴族 于 博丽神社例大祭7 发布的漫画同人志，一共6页，登场人物有 多多良小伞、圣白莲、娜兹玲、东风谷早苗，分级为 一般向
+
 ## 预览
+
 ## Staff
 - 安達貴族（人物） (未找到链接)
+
 
 ## 评论
 

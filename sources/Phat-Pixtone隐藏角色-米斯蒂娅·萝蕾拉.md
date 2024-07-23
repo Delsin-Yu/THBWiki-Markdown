@@ -6,11 +6,13 @@
 
 本页是关于东方Project  
  **相关实体周边 (未找到链接)** 的词条
+
 ## 模型信息
 
 <table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 米斯蒂娅·萝蕾拉 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>Pixtone隐藏角色</td></tr><tr><td class="label">角色</td><td><a href="./米斯蒂娅·萝蕾拉.md" title="米斯蒂娅·萝蕾拉">米斯蒂娅·萝蕾拉</a></td></tr><tr><td class="label">尺寸</td><td>40mm</td></tr><tr><td class="label">状态</td><td>已发售</td></tr><tr><td class="label">售价</td><td>476円</td></tr><tr><td class="label">首发日期</td><td>2011-10-21</td></tr><tr><td class="label">发售方</td><td><a href="/index.php?title=Phat&amp;action=edit&amp;redlink=1" class="new" title="Phat（页面不存在）">Phat</a></td></tr><tr><td class="label">官网页面</td><td><a rel="nofollow" class="external free" href="http://phatcompany.jp/">http://phatcompany.jp/</a></td></tr><tr><td class="label">备注</td><td>此为Pixtone系列的隐藏角色</td></tr></tbody></table>
 
 Phat/Pixtone隐藏角色/米斯蒂娅·萝蕾拉（周边） - 米斯蒂娅·萝蕾拉PVCFigure手办模型
+
 ## 参考图片
 
 

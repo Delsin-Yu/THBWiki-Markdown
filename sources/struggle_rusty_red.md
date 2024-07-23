@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-struggle_rusty_red封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/6/6b/struggle_rusty_red%E5%B0%81%E9%9D%A2.jpg/160px-struggle_rusty_red%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="160" height="224" srcset="https://upload.thwiki.cc/thumb/6/6b/struggle_rusty_red%E5%B0%81%E9%9D%A2.jpg/239px-struggle_rusty_red%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/6/6b/struggle_rusty_red%E5%B0%81%E9%9D%A2.jpg/319px-struggle_rusty_red%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1000" data-file-height="1403"></a><div class="cover-char">角色：<a href="./藤原妹红.md" title="藤原妹红">藤原妹红</a>，<a href="./犬走椛.md" title="犬走椛">犬走椛</a></div></td>
@@ -14,9 +15,12 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/53622567">https://www.pixiv.net/artworks/53622567</a><br><a rel="nofollow" class="external free" href="https://twitter.com/ameno_naka/status/654326291311685632">https://twitter.com/ameno_naka/status/654326291311685632</a><br><a rel="nofollow" class="external free" href="https://twitter.com/ameno_naka/status/654335007746461696">https://twitter.com/ameno_naka/status/654335007746461696</a><br><a rel="nofollow" class="external free" href="https://twitter.com/ameno_naka/status/655364048368873472">https://twitter.com/ameno_naka/status/655364048368873472</a></td></tr></tbody></table>
 
 struggle rusty red（同人志，扶養家族，2015） - 2015年10月18日 由 扶養家族 于 博丽神社秋季例大祭2 发布的画集同人志，A4尺寸一共16页，登场人物有 藤原妹红、犬走椛，分级为 一般向
+
 ## 预览
+
 ## Staff
 - あめの (未找到链接)
+
 
 ## 评论
 

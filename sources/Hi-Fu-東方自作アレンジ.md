@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2">无封面</td>
@@ -14,9 +15,11 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://soundcloud.com/hi-fu_music/tracks">https://soundcloud.com/hi-fu_music/tracks</a></td></tr></tbody></table>
 
 Hi-Fu/東方自作アレンジ（同人专辑，Hi-Fu，2017） - 2017年10月15日 由 Hi-Fu  发布的单曲同人专辑，分级为 一般向
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Otenba(V.I.P.)" colspan="2" class="title">Otenba(V.I.P.)<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Hi-Fu&amp;ogmusic=おてんば恋娘&amp;fromwiki=Hi-Fu/東方自作アレンジ"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Hi-Fu.md" title="Hi-Fu">Hi-Fu</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Hi-Fu&amp;fromwiki=Hi-Fu/東方自作アレンジ"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=おてんば恋娘&amp;fromwiki=Hi-Fu/東方自作アレンジ"><span></span></a></span><div class="ogmusic"><a href="/%E3%81%8A%E3%81%A6%E3%82%93%E3%81%B0%E6%81%8B%E5%A8%98" class="mw-redirect" title="おてんば恋娘">おてんば恋娘</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E7%BA%A2%E9%AD%94%E4%B9%A1_%EF%BD%9E_the_Embodiment_of_Scarlet_Devil." class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr><tr><td class="left"></td><td class="label">首发日期</td><td class="text" colspan="2">2017-10-15</td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Otenba(V.I.P.)" colspan="2" class="title">Otenba(V.I.P.)<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Hi-Fu&amp;ogmusic=おてんば恋娘&amp;fromwiki=Hi-Fu/東方自作アレンジ"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Hi-Fu.md" title="Hi-Fu">Hi-Fu</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Hi-Fu&amp;fromwiki=Hi-Fu/東方自作アレンジ"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=おてんば恋娘&amp;fromwiki=Hi-Fu/東方自作アレンジ"><span></span></a></span><div class="ogmusic"><a href="./おてんば恋娘.md" class="mw-redirect" title="おてんば恋娘">おてんば恋娘</a></div><div class="source"><a href="./东方红魔乡_～_the_Embodiment_of_Scarlet_Devil..md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr><tr><td class="left"></td><td class="label">首发日期</td><td class="text" colspan="2">2017-10-15</td></tr></tbody></table>
+
 
 
 ## 评论

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-セイント＆セイガ_Nue_the_Desperado._ヌエ_ザ_デスペラード封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/8/8b/%E3%82%BB%E3%82%A4%E3%83%B3%E3%83%88%EF%BC%86%E3%82%BB%E3%82%A4%E3%82%AC_Nue_the_Desperado._%E3%83%8C%E3%82%A8_%E3%82%B6_%E3%83%87%E3%82%B9%E3%83%9A%E3%83%A9%E3%83%BC%E3%83%89%E5%B0%81%E9%9D%A2.jpg/158px-%E3%82%BB%E3%82%A4%E3%83%B3%E3%83%88%EF%BC%86%E3%82%BB%E3%82%A4%E3%82%AC_Nue_the_Desperado._%E3%83%8C%E3%82%A8_%E3%82%B6_%E3%83%87%E3%82%B9%E3%83%9A%E3%83%A9%E3%83%BC%E3%83%89%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="158" height="224" srcset="https://upload.thwiki.cc/thumb/8/8b/%E3%82%BB%E3%82%A4%E3%83%B3%E3%83%88%EF%BC%86%E3%82%BB%E3%82%A4%E3%82%AC_Nue_the_Desperado._%E3%83%8C%E3%82%A8_%E3%82%B6_%E3%83%87%E3%82%B9%E3%83%9A%E3%83%A9%E3%83%BC%E3%83%89%E5%B0%81%E9%9D%A2.jpg/238px-%E3%82%BB%E3%82%A4%E3%83%B3%E3%83%88%EF%BC%86%E3%82%BB%E3%82%A4%E3%82%AC_Nue_the_Desperado._%E3%83%8C%E3%82%A8_%E3%82%B6_%E3%83%87%E3%82%B9%E3%83%9A%E3%83%A9%E3%83%BC%E3%83%89%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/8/8b/%E3%82%BB%E3%82%A4%E3%83%B3%E3%83%88%EF%BC%86%E3%82%BB%E3%82%A4%E3%82%AC_Nue_the_Desperado._%E3%83%8C%E3%82%A8_%E3%82%B6_%E3%83%87%E3%82%B9%E3%83%9A%E3%83%A9%E3%83%BC%E3%83%89%E5%B0%81%E9%9D%A2.jpg/317px-%E3%82%BB%E3%82%A4%E3%83%B3%E3%83%88%EF%BC%86%E3%82%BB%E3%82%A4%E3%82%AC_Nue_the_Desperado._%E3%83%8C%E3%82%A8_%E3%82%B6_%E3%83%87%E3%82%B9%E3%83%9A%E3%83%A9%E3%83%BC%E3%83%89%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="716" data-file-height="1012"></a><div class="cover-char">角色：<a href="./封兽鵺.md" title="封兽鵺">封兽鵺</a>，<a href="./圣白莲.md" title="圣白莲">圣白莲</a>，<a href="./寅丸星.md" title="寅丸星">寅丸星</a>，<a href="./娜兹玲.md" title="娜兹玲">娜兹玲</a>，<a href="./云居一轮.md" title="云居一轮">云居一轮</a>，<a href="./村纱水蜜.md" title="村纱水蜜">村纱水蜜</a></div></td>
@@ -14,9 +15,12 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/35849055">https://www.pixiv.net/artworks/35849055</a></td></tr></tbody></table>
 
 セイント＆セイガ Nue the Desperado. ヌエ ザ デスペラード（同人志，さやかた紅茶館，2013） - 2013年5月26日 由 さやかた紅茶館 于 博丽神社例大祭10 发布的漫画同人志，B5尺寸一共68页，登场人物有 封兽鵺、圣白莲、寅丸星、娜兹玲、云居一轮、村纱水蜜，分级为 一般向
+
 ## 预览
+
 ## Staff
 - さやかたかつみ (未找到链接)
+
 
 ## 评论
 

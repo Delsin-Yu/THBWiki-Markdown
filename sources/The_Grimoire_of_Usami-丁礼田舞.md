@@ -14,7 +14,7 @@ The_Grimoire_of_Usami | 丁礼田舞 | 使用了翻译表的页面 | 宇佐见�
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./The_Grimoire_of_Usami-纯狐.md" title="The Grimoire of Usami/纯狐">纯狐</a>&#160;
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="/%E5%AE%87%E4%BD%90%E8%A7%81%E7%9A%84%E9%AD%94%E6%B3%95%E4%B9%A6" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a>&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="./宇佐见的魔法书.md" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a>&#160;
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">&#160;<a href="./The_Grimoire_of_Usami-尔子田里乃.md" title="The Grimoire of Usami/尔子田里乃">尔子田里乃</a>
 </td>
@@ -25,7 +25,7 @@ The_Grimoire_of_Usami | 丁礼田舞 | 使用了翻译表的页面 | 宇佐见�
 </center>
 <center>第132页</center>
 
-<table><tbody><tr align="left" valign="top"><td style="min-width:200px;"><div class="tt-zhh tt-type-setting" lang="zh"><div class="poem"><a href="/%E7%AB%B9%E7%AC%A6%E3%80%8CBamboo_Crazy_Dance%E3%80%8D" class="mw-redirect" title="竹符「Bamboo Crazy Dance」">竹符「Bamboo Crazy Dance」</a></div></div><div class="tt-zh tt-type-setting" lang="zh"><div class="poem">使用者：<a href="./丁礼田舞.md" title="丁礼田舞">丁礼田舞</a></div></div><div class="tt-zh tt-type-setting" lang="zh"><div class="poem">好，既然得到了<br>隐岐奈大人的许可<br><big>那我们<br>也来参加啦——！</big></div></div><div class="tt-header tt-type-setting" lang="zh"><div class="poem">少名针妙丸</div></div><div class="tt-zh tt-type-setting" lang="zh"><div class="poem">竹枪静止在了半空中？　这是有什么目的的吗。</div></div><div class="tt-header tt-type-setting" lang="zh"><div class="poem">摩多罗隐岐奈</div></div><div class="tt-zh tt-type-setting" lang="zh"><div class="poem">虽说你们的工作就是展现疯狂，但和真正纯粹的狂意相比连小巫见大巫都算不上。真是愁人。</div></div><div class="tt-header tt-type-setting" lang="zh"><div class="poem">宇佐见堇子</div></div><div class="tt-zh tt-type-setting" lang="zh"><div class="poem">在这节骨眼上来的却是扔竹枪！这种戏谑感，也可以称得上是幻想乡的优点所在吧。</div></div></td><td width="200px"><div class="thumb tleft"><div class="thumbinner" style="width:202px;"><a href="./文件-The_Grimoire_of_Usami（丁礼田舞1）.jpg.md" class="image"><img alt="" src="https://upload.thwiki.cc/thumb/9/96/The_Grimoire_of_Usami%EF%BC%88%E4%B8%81%E7%A4%BC%E7%94%B0%E8%88%9E1%EF%BC%89.jpg/200px-The_Grimoire_of_Usami%EF%BC%88%E4%B8%81%E7%A4%BC%E7%94%B0%E8%88%9E1%EF%BC%89.jpg" decoding="async" loading="lazy" width="200" height="284" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/9/96/The_Grimoire_of_Usami%EF%BC%88%E4%B8%81%E7%A4%BC%E7%94%B0%E8%88%9E1%EF%BC%89.jpg/300px-The_Grimoire_of_Usami%EF%BC%88%E4%B8%81%E7%A4%BC%E7%94%B0%E8%88%9E1%EF%BC%89.jpg 1.5x, https://upload.thwiki.cc/thumb/9/96/The_Grimoire_of_Usami%EF%BC%88%E4%B8%81%E7%A4%BC%E7%94%B0%E8%88%9E1%EF%BC%89.jpg/400px-The_Grimoire_of_Usami%EF%BC%88%E4%B8%81%E7%A4%BC%E7%94%B0%E8%88%9E1%EF%BC%89.jpg 2x" data-file-width="1266" data-file-height="1800"></a>  <div class="thumbcaption"><div class="magnify"><a href="./文件-The_Grimoire_of_Usami（丁礼田舞1）.jpg.md" class="internal" title="放大"></a></div>P132</div></div></div></td></tr></tbody></table>
+<table><tbody><tr align="left" valign="top"><td style="min-width:200px;"><div class="tt-zhh tt-type-setting" lang="zh"><div class="poem"><a href="./竹符「Bamboo_Crazy_Dance」.md" class="mw-redirect" title="竹符「Bamboo Crazy Dance」">竹符「Bamboo Crazy Dance」</a></div></div><div class="tt-zh tt-type-setting" lang="zh"><div class="poem">使用者：<a href="./丁礼田舞.md" title="丁礼田舞">丁礼田舞</a></div></div><div class="tt-zh tt-type-setting" lang="zh"><div class="poem">好，既然得到了<br>隐岐奈大人的许可<br><big>那我们<br>也来参加啦——！</big></div></div><div class="tt-header tt-type-setting" lang="zh"><div class="poem">少名针妙丸</div></div><div class="tt-zh tt-type-setting" lang="zh"><div class="poem">竹枪静止在了半空中？　这是有什么目的的吗。</div></div><div class="tt-header tt-type-setting" lang="zh"><div class="poem">摩多罗隐岐奈</div></div><div class="tt-zh tt-type-setting" lang="zh"><div class="poem">虽说你们的工作就是展现疯狂，但和真正纯粹的狂意相比连小巫见大巫都算不上。真是愁人。</div></div><div class="tt-header tt-type-setting" lang="zh"><div class="poem">宇佐见堇子</div></div><div class="tt-zh tt-type-setting" lang="zh"><div class="poem">在这节骨眼上来的却是扔竹枪！这种戏谑感，也可以称得上是幻想乡的优点所在吧。</div></div></td><td width="200px"><div class="thumb tleft"><div class="thumbinner" style="width:202px;"><a href="./文件-The_Grimoire_of_Usami（丁礼田舞1）.jpg.md" class="image"><img alt="" src="https://upload.thwiki.cc/thumb/9/96/The_Grimoire_of_Usami%EF%BC%88%E4%B8%81%E7%A4%BC%E7%94%B0%E8%88%9E1%EF%BC%89.jpg/200px-The_Grimoire_of_Usami%EF%BC%88%E4%B8%81%E7%A4%BC%E7%94%B0%E8%88%9E1%EF%BC%89.jpg" decoding="async" loading="lazy" width="200" height="284" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/9/96/The_Grimoire_of_Usami%EF%BC%88%E4%B8%81%E7%A4%BC%E7%94%B0%E8%88%9E1%EF%BC%89.jpg/300px-The_Grimoire_of_Usami%EF%BC%88%E4%B8%81%E7%A4%BC%E7%94%B0%E8%88%9E1%EF%BC%89.jpg 1.5x, https://upload.thwiki.cc/thumb/9/96/The_Grimoire_of_Usami%EF%BC%88%E4%B8%81%E7%A4%BC%E7%94%B0%E8%88%9E1%EF%BC%89.jpg/400px-The_Grimoire_of_Usami%EF%BC%88%E4%B8%81%E7%A4%BC%E7%94%B0%E8%88%9E1%EF%BC%89.jpg 2x" data-file-width="1266" data-file-height="1800"></a>  <div class="thumbcaption"><div class="magnify"><a href="./文件-The_Grimoire_of_Usami（丁礼田舞1）.jpg.md" class="internal" title="放大"></a></div>P132</div></div></div></td></tr></tbody></table>
 
 
 
@@ -37,7 +37,7 @@ The_Grimoire_of_Usami | 丁礼田舞 | 使用了翻译表的页面 | 宇佐见�
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./The_Grimoire_of_Usami-纯狐.md" title="The Grimoire of Usami/纯狐">纯狐</a>&#160;
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="/%E5%AE%87%E4%BD%90%E8%A7%81%E7%9A%84%E9%AD%94%E6%B3%95%E4%B9%A6" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a>&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="./宇佐见的魔法书.md" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a>&#160;
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">&#160;<a href="./The_Grimoire_of_Usami-尔子田里乃.md" title="The Grimoire of Usami/尔子田里乃">尔子田里乃</a>
 </td>
@@ -46,6 +46,7 @@ The_Grimoire_of_Usami | 丁礼田舞 | 使用了翻译表的页面 | 宇佐见�
 
   
 </center>
+
 
 ## 词条导航
   

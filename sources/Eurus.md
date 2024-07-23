@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=Eurus%E5%B0%81%E9%9D%A2.jpg" class="new" title="文件:Eurus封面.jpg">封面图片</a></td>
@@ -17,11 +18,13 @@ Eurus（同人专辑，Higan Daybreak，2021） - 2021年12月31日 由 Higan Da
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://higandaybreak.bandcamp.com/track/eurus">bandcamp</a></td></tr></tbody></table>
 
 
+
 ## Staff
   
  **Arrangement**   
 
 <table><tbody><tr><td><a href="/index.php?title=Ren&amp;action=edit&amp;redlink=1" class="new" title="Ren（页面不存在）">Ren</a></td><td></td><td>Tr.1</td></tr></tbody></table>
+
 
 
 ## 试听
@@ -30,9 +33,11 @@ Eurus（同人专辑，Higan Daybreak，2021） - 2021年12月31日 由 Higan Da
 
   
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Eurus" colspan="2" class="title">Eurus<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Ren&amp;ogmusic=博麗　～Eastern Wind&amp;fromwiki=Eurus"><span title="搜索相似同人曲"></span></a></span></td><td class="time">05:09</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=Ren&amp;action=edit&amp;redlink=1" class="new" title="Ren（页面不存在）">Ren</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Ren&amp;fromwiki=Eurus"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=博麗　～Eastern Wind&amp;fromwiki=Eurus"><span></span></a></span><div class="ogmusic"><a href="/%E5%8D%9A%E9%BA%97_%EF%BD%9EEastern_Wind" class="mw-redirect" title="博麗 ～Eastern Wind">博麗　～Eastern Wind</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E5%B0%81%E9%AD%94%E5%BD%95_%EF%BD%9E_the_Story_of_Eastern_Wonderland." class="mw-redirect" title="东方封魔录 ～ the Story of Eastern Wonderland.">东方封魔录　～ the Story of Eastern Wonderland.</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Eurus" colspan="2" class="title">Eurus<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Ren&amp;ogmusic=博麗　～Eastern Wind&amp;fromwiki=Eurus"><span title="搜索相似同人曲"></span></a></span></td><td class="time">05:09</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=Ren&amp;action=edit&amp;redlink=1" class="new" title="Ren（页面不存在）">Ren</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Ren&amp;fromwiki=Eurus"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=博麗　～Eastern Wind&amp;fromwiki=Eurus"><span></span></a></span><div class="ogmusic"><a href="./博麗_～Eastern_Wind.md" class="mw-redirect" title="博麗 ～Eastern Wind">博麗　～Eastern Wind</a></div><div class="source"><a href="./东方封魔录_～_the_Story_of_Eastern_Wonderland..md" class="mw-redirect" title="东方封魔录 ～ the Story of Eastern Wonderland.">东方封魔录　～ the Story of Eastern Wonderland.</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

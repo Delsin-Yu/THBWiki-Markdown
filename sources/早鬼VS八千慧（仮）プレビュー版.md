@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-早鬼VS八千慧（仮）プレビュー版封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/b/b9/%E6%97%A9%E9%AC%BCVS%E5%85%AB%E5%8D%83%E6%85%A7%EF%BC%88%E4%BB%AE%EF%BC%89%E3%83%97%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E7%89%88%E5%B0%81%E9%9D%A2.jpg/120px-%E6%97%A9%E9%AC%BCVS%E5%85%AB%E5%8D%83%E6%85%A7%EF%BC%88%E4%BB%AE%EF%BC%89%E3%83%97%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E7%89%88%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="120" height="168" srcset="https://upload.thwiki.cc/thumb/b/b9/%E6%97%A9%E9%AC%BCVS%E5%85%AB%E5%8D%83%E6%85%A7%EF%BC%88%E4%BB%AE%EF%BC%89%E3%83%97%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E7%89%88%E5%B0%81%E9%9D%A2.jpg/180px-%E6%97%A9%E9%AC%BCVS%E5%85%AB%E5%8D%83%E6%85%A7%EF%BC%88%E4%BB%AE%EF%BC%89%E3%83%97%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E7%89%88%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/b/b9/%E6%97%A9%E9%AC%BCVS%E5%85%AB%E5%8D%83%E6%85%A7%EF%BC%88%E4%BB%AE%EF%BC%89%E3%83%97%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E7%89%88%E5%B0%81%E9%9D%A2.jpg/240px-%E6%97%A9%E9%AC%BCVS%E5%85%AB%E5%8D%83%E6%85%A7%EF%BC%88%E4%BB%AE%EF%BC%89%E3%83%97%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E7%89%88%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="856" data-file-height="1200"></a><div class="cover-char">角色：<a href="./吉吊八千慧.md" title="吉吊八千慧">吉吊八千慧</a>，<a href="./骊驹早鬼.md" title="骊驹早鬼">骊驹早鬼</a></div></td>
@@ -14,11 +15,13 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/97434880">https://www.pixiv.net/artworks/97434880</a></td></tr></tbody></table>
 
 早鬼VS八千慧（仮）プレビュー版（同人志，黒豆屋，2022） - 2022年4月10日 由 黒豆屋 于 地狱鬼兽极乐祭1 发布的漫画同人志，一共16页，分级为 一般向
+
 ## Staff
 Writer
 : カズナ (未找到链接)
 Illustration
 : カズナ (未找到链接)
+
 
 ## 评论
 

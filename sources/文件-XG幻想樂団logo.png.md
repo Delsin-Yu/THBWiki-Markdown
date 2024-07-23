@@ -4,6 +4,7 @@
 
 XG幻想樂団 | 社团LOGO
 
+
 ## 摘要
   
 源地址：[direct image link](https://xggensougakudan.at-ninja.jp/images/top.png), [source page](https://xggensougakudan.at-ninja.jp/top.html)

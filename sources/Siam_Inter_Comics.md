@@ -18,6 +18,7 @@ Siam Inter Comics，股份有限公司
 </center>
 本页是关于东方Project  
  **相关公司会社** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -28,6 +29,7 @@ Siam Inter Comics，股份有限公司
 
 
 - [3 其他说明](#其他说明)
+
 
 
 
@@ -51,14 +53,17 @@ Siam Inter Comics，股份有限公司
 <td style="width:140px"><b>正式名称</b></td><td style="min-width:300px">Siam Inter Comics</td></tr><tr><td><b>公司现状</b></td><td>持续营业中</td></tr><tr><td><b>公司种类</b></td><td>股份有限公司</td></tr><tr><td><b>官网地址</b></td><td><a rel="nofollow" class="external free" href="http://siamintercomics.com/">http://siamintercomics.com/</a></td></tr></tbody></table>
 
 Siam Inter Comics（公司会社） - Siam Inter Comics，股份有限公司
+
 ## 与东方Project的关联
 - Siam Inter Comics代理了少数的官方商业出版物。
+
 
 ### 单行本与书籍
 - [东方三月精 ～ Strange and Bright Nature Deity. 1](./东方三月精_～_Strange_and_Bright_Nature_Deity..md)（2010年11月10日出版的官方漫画单行本）
 - [东方三月精 ～ Strange and Bright Nature Deity. 2](./东方三月精_～_Strange_and_Bright_Nature_Deity..md)（2011年6月6日出版的官方漫画单行本）
 - [东方三月精 ～ Strange and Bright Nature Deity. 3](./东方三月精_～_Strange_and_Bright_Nature_Deity..md)（2011年9月7日出版的官方漫画单行本）
 - [东方铃奈庵 ～ Forbidden Scrollery. 1](./东方铃奈庵.md)（2015年1月19日出版的官方漫画单行本）
+
 
 ## 其他说明
 

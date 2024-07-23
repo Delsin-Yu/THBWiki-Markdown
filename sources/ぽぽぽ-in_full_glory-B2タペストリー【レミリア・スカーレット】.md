@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **相关实体周边 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 周边信息](#周边信息)
@@ -21,6 +22,7 @@
 
 
 
+
 ## 周边信息
 
 <table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> B2タペストリー【レミリア・スカーレット】 </td></tr><tr><td class="label">译名</td><td> B2挂毯【蕾米莉亚·斯卡蕾特】 </td></tr><tr><td class="label">系列</td><td> in full glory </td></tr><tr><td class="label">制作方</td><td><a href="./ぽぽぽ.md" title="ぽぽぽ">ぽぽぽ</a></td></tr><tr><td class="label">首发日期</td><td>2020-05-17&#160;（<a href="/展会作品列表?e=%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD%2317">第十七回 博麗神社例大祭</a>）</td></tr><tr><td class="label">类型</td><td>挂画</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>B2</td></tr><tr><td class="label">角色</td><td><a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a></td></tr><tr><td class="label">售价</td><td>通贩售价：3200日元</td></tr>
@@ -31,17 +33,21 @@
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=642777">蜜瓜</a></td></tr></tbody></table>
 
 
+
 ## 参考图
   
 周边宣传、售卖时使用的作为参考图的预览图或实物图的图片。
   
 
+
 ### 预览图
 -  (未找到链接)
+
 
 ## Staff
 illustration
 : [雪（人物）](./雪（人物）.md)
+
 
 ## 评论
 

@@ -59,43 +59,44 @@
 
 <table>
 <tbody><tr><td width="80">符卡编号</td><td width="400">206</td><td rowspan="3" width="120"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E4%B8%9C%E6%96%B9%E8%9D%B6%E6%A2%A6%E5%BF%97%E7%AC%A6%E5%8D%A1206.jpg" class="new" title="文件:东方蝶梦志符卡206.jpg">文件:东方蝶梦志符卡206.jpg</a></td></tr>
-<tr><td>符卡原名</td><td>兔符「脱兔散玉」</td></tr><tr><td>出现位置</td><td>Stage 2 - Easy/Normal（<a href="/%E5%9B%A0%E5%B9%A1%E5%A4%A9%E4%B8%BA" class="mw-redirect" title="因幡天为">因幡天为</a>）</td></tr></tbody></table>
+<tr><td>符卡原名</td><td>兔符「脱兔散玉」</td></tr><tr><td>出现位置</td><td>Stage 2 - Easy/Normal（<a href="./因幡天为.md" class="mw-redirect" title="因幡天为">因幡天为</a>）</td></tr></tbody></table>
 
 
 
 <table>
 <tbody><tr><td width="80">符卡编号</td><td width="400">207</td><td rowspan="3" width="120"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E4%B8%9C%E6%96%B9%E8%9D%B6%E6%A2%A6%E5%BF%97%E7%AC%A6%E5%8D%A1207.jpg" class="new" title="文件:东方蝶梦志符卡207.jpg">文件:东方蝶梦志符卡207.jpg</a></td></tr>
-<tr><td>符卡原名</td><td>兔符「蹦跳的群兔」</td></tr><tr><td>出现位置</td><td>Stage 2 - Hard/Lunatic（<a href="/%E5%9B%A0%E5%B9%A1%E5%A4%A9%E4%B8%BA" class="mw-redirect" title="因幡天为">因幡天为</a>）</td></tr></tbody></table>
+<tr><td>符卡原名</td><td>兔符「蹦跳的群兔」</td></tr><tr><td>出现位置</td><td>Stage 2 - Hard/Lunatic（<a href="./因幡天为.md" class="mw-redirect" title="因幡天为">因幡天为</a>）</td></tr></tbody></table>
 
 
 
 <table>
 <tbody><tr><td width="80">符卡编号</td><td width="400">208</td><td rowspan="3" width="120"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E4%B8%9C%E6%96%B9%E8%9D%B6%E6%A2%A6%E5%BF%97%E7%AC%A6%E5%8D%A1208.jpg" class="new" title="文件:东方蝶梦志符卡208.jpg">文件:东方蝶梦志符卡208.jpg</a></td></tr>
-<tr><td>符卡原名</td><td>兔符「竹林迷踪」</td></tr><tr><td>出现位置</td><td>Stage 2 - Easy/Normal（<a href="/%E5%9B%A0%E5%B9%A1%E5%A4%A9%E4%B8%BA" class="mw-redirect" title="因幡天为">因幡天为</a>）</td></tr></tbody></table>
+<tr><td>符卡原名</td><td>兔符「竹林迷踪」</td></tr><tr><td>出现位置</td><td>Stage 2 - Easy/Normal（<a href="./因幡天为.md" class="mw-redirect" title="因幡天为">因幡天为</a>）</td></tr></tbody></table>
 
 
 
 <table>
 <tbody><tr><td width="80">符卡编号</td><td width="400">209</td><td rowspan="3" width="120"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E4%B8%9C%E6%96%B9%E8%9D%B6%E6%A2%A6%E5%BF%97%E7%AC%A6%E5%8D%A1209.jpg" class="new" title="文件:东方蝶梦志符卡209.jpg">文件:东方蝶梦志符卡209.jpg</a></td></tr>
-<tr><td>符卡原名</td><td>因幡「第四道墙」</td></tr><tr><td>出现位置</td><td>Stage 2 - Hard/Lunatic（<a href="/%E5%9B%A0%E5%B9%A1%E5%A4%A9%E4%B8%BA" class="mw-redirect" title="因幡天为">因幡天为</a>）</td></tr></tbody></table>
+<tr><td>符卡原名</td><td>因幡「第四道墙」</td></tr><tr><td>出现位置</td><td>Stage 2 - Hard/Lunatic（<a href="./因幡天为.md" class="mw-redirect" title="因幡天为">因幡天为</a>）</td></tr></tbody></table>
 
 
 
 <table>
 <tbody><tr><td width="80">符卡编号</td><td width="400">210</td><td rowspan="3" width="120"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E4%B8%9C%E6%96%B9%E8%9D%B6%E6%A2%A6%E5%BF%97%E7%AC%A6%E5%8D%A1210.jpg" class="new" title="文件:东方蝶梦志符卡210.jpg">文件:东方蝶梦志符卡210.jpg</a></td></tr>
-<tr><td>符卡原名</td><td>兔符「竹林陷阱」</td></tr><tr><td>出现位置</td><td>Stage 2 - Easy/Normal（<a href="/%E5%9B%A0%E5%B9%A1%E5%A4%A9%E4%B8%BA" class="mw-redirect" title="因幡天为">因幡天为</a>）</td></tr></tbody></table>
+<tr><td>符卡原名</td><td>兔符「竹林陷阱」</td></tr><tr><td>出现位置</td><td>Stage 2 - Easy/Normal（<a href="./因幡天为.md" class="mw-redirect" title="因幡天为">因幡天为</a>）</td></tr></tbody></table>
 
 
 
 <table>
 <tbody><tr><td width="80">符卡编号</td><td width="400">211</td><td rowspan="3" width="120"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E4%B8%9C%E6%96%B9%E8%9D%B6%E6%A2%A6%E5%BF%97%E7%AC%A6%E5%8D%A1211.jpg" class="new" title="文件:东方蝶梦志符卡211.jpg">文件:东方蝶梦志符卡211.jpg</a></td></tr>
-<tr><td>符卡原名</td><td>欺诈「白兔赤乌」</td></tr><tr><td>出现位置</td><td>Stage 2 - Hard（<a href="/%E5%9B%A0%E5%B9%A1%E5%A4%A9%E4%B8%BA" class="mw-redirect" title="因幡天为">因幡天为</a>）</td></tr></tbody></table>
+<tr><td>符卡原名</td><td>欺诈「白兔赤乌」</td></tr><tr><td>出现位置</td><td>Stage 2 - Hard（<a href="./因幡天为.md" class="mw-redirect" title="因幡天为">因幡天为</a>）</td></tr></tbody></table>
 
 
 
 <table>
 <tbody><tr><td width="80">符卡编号</td><td width="400">212</td><td rowspan="3" width="120"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E4%B8%9C%E6%96%B9%E8%9D%B6%E6%A2%A6%E5%BF%97%E7%AC%A6%E5%8D%A1212.jpg" class="new" title="文件:东方蝶梦志符卡212.jpg">文件:东方蝶梦志符卡212.jpg</a></td></tr>
-<tr><td>符卡原名</td><td>欺诈「白兔赤乌相趁走」</td></tr><tr><td>出现位置</td><td>Stage 2 - Lunatic（<a href="/%E5%9B%A0%E5%B9%A1%E5%A4%A9%E4%B8%BA" class="mw-redirect" title="因幡天为">因幡天为</a>）</td></tr></tbody></table>
+<tr><td>符卡原名</td><td>欺诈「白兔赤乌相趁走」</td></tr><tr><td>出现位置</td><td>Stage 2 - Lunatic（<a href="./因幡天为.md" class="mw-redirect" title="因幡天为">因幡天为</a>）</td></tr></tbody></table>
+
 
 
 ## 词条导航

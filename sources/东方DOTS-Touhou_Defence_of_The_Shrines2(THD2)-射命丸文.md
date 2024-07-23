@@ -164,6 +164,7 @@ AvalonStudioOfficial
 [](./文件-THD2射命丸文.png.md)
   
 
+
 ## 目录
 
 - [1 角色定位](#角色定位)
@@ -184,10 +185,12 @@ AvalonStudioOfficial
 
 
 
+
 ## 角色定位
   
 核心 - 逃生
   
+
 
 ## 技能介绍
 
@@ -662,6 +665,7 @@ AvalonStudioOfficial
 </td></tr></tbody></table>
 
 
+
 ## 天赋树
 
 
@@ -700,25 +704,30 @@ AvalonStudioOfficial
 </td></tr></tbody></table>
 
 
+
 ### 出门装备
 ```
 [](./文件-THD2木盾.png.md) [](./文件-THD2新月头饰.png.md) [](./文件-THD2爱人卡.png.md) [](./文件-THD2思兼生命药.png.md)
 ```
+
 
 ### 前期装备
 ```
 [](./文件-THD2纳税阴阳玉.png.md) [](./文件-THD2博丽供奉箱.png.md)
 ```
 
+
 ### 核心装备
 ```
 [](./文件-THD2亡灵送行提灯.png.md) [](./文件-THD2神枪冈格尼尔.png.md)
 ```
 
+
 ### 可选装备
 ```
 [](./文件-THD2恶魔的乳牙.png.md) [](./文件-THD2油库里之杖.png.md) [](./文件-THD2替身人偶.png.md) [](./文件-THD2博丽神社护身符.png.md)  [](./文件-THD2龙星.png.md) [](./文件-THD2楼观剑.png.md)
 ```
+
 
 ## 技能加点
 
@@ -866,6 +875,7 @@ AvalonStudioOfficial
 </td></tr></tbody></table>
 
 
+
 ## 台词
 
 <table>
@@ -941,6 +951,7 @@ AvalonStudioOfficial
 いいネタ　いただきました<br>[好题材 收到了哦]
 </p>
 </td></tr></tbody></table>
+
 
 
 ## 教学视频

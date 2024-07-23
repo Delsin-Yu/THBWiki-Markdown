@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Eternal_Girls封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/3/36/Eternal_Girls%E5%B0%81%E9%9D%A2.jpg/140px-Eternal_Girls%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="140" height="196" srcset="https://upload.thwiki.cc/thumb/3/36/Eternal_Girls%E5%B0%81%E9%9D%A2.jpg/210px-Eternal_Girls%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/3/36/Eternal_Girls%E5%B0%81%E9%9D%A2.jpg/280px-Eternal_Girls%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="858" data-file-height="1200"></a><div class="cover-char">角色：<a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a>，<a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a></div></td>
@@ -14,9 +15,12 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/84879674">https://www.pixiv.net/artworks/84879674</a><br><a rel="nofollow" class="external free" href="https://twitter.com/majamari17/status/1313493371277791232">https://twitter.com/majamari17/status/1313493371277791232</a></td></tr></tbody></table>
 
 Eternal Girls（同人志，銀色鈴蘭，2020） - 2020年10月11日 由 銀色鈴蘭 于 东方红楼梦16 发布的画集同人志，B5尺寸一共20页，分级为 一般向
+
 ## 预览
+
 ## Staff
 - majamari (未找到链接)
+
 
 ## 评论
 

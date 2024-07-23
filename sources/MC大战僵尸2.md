@@ -6,12 +6,14 @@
 
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 软件信息](#软件信息)
 - [2 Staff](#Staff)
 - [3 概述](#概述)
 - [4 评论](#评论)
+
 
 
 
@@ -36,15 +38,18 @@ MC大战僵尸2（同人游戏，Cuerzor58，2020） - 2020年9月27日 由 Cuer
 </tbody></table>
 
 
+
 ## Staff
   
 Cuerzor58
   
 
+
 ## 概述
 - Minecraft大战僵尸2（Minecraft VS Zombies 2，简称MVZ2）是由作者Cuerzor（58115310）一人制作的一款主要以植物大战僵尸（Plants VS. Zombies）、我的世界（Minecraft）和东方project（Touhou project）系列为题材的同人游戏。游戏同时具有《植物大战僵尸》的游戏系统、《Minecraft》的要素以及《东方Project》系列的场景和人物，游戏中玩家将扮演机械师史蒂夫，同随他一起的村民一起前往幻想乡解决异变。
 
 - 关于Minecraft大战僵尸2的详细信息，请前往其的Wiki：[https://mvz2.fandom.com/zh/wiki/MC%E5%A4%A7%E6%88%98%E5%83%B5%E5%B0%B82_Wiki](https://mvz2.fandom.com/zh/wiki/MC大战僵尸2_Wiki)
+
 
 ## 评论
 

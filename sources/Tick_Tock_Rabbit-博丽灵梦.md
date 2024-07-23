@@ -6,11 +6,13 @@
 
 本页是关于东方Project  
  **相关实体周边 (未找到链接)** 的词条
+
 ## 模型信息
 
 <table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 博丽灵梦 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>无</td></tr><tr><td class="label">角色</td><td><a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></td></tr><tr><td class="label">状态</td><td>已发售</td></tr><tr><td class="label">售价</td><td>800日元</td></tr><tr><td class="label">发售方</td><td><a href="/index.php?title=Tick_Tock_Rabbit&amp;action=edit&amp;redlink=1" class="new" title="Tick Tock Rabbit（页面不存在）">Tick Tock Rabbit</a></td></tr></tbody></table>
 
 Tick Tock Rabbit/博丽灵梦（周边） - 博丽灵梦PVCFigure手办模型
+
 ## 参考图片
 
 

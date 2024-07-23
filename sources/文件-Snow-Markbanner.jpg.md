@@ -4,6 +4,7 @@
 
 Snow＊Mark | 社团LOGO
 
+
 ## 文件说明
   
 源地址：[[1]](https://web.archive.org/web/20130702014756im_/http://notes.soragoto.net/css/image/snowmark.jpg)

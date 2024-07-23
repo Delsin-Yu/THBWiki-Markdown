@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -42,11 +43,13 @@
 
 
 
+
 ## 基本信息
 
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">The Legend of KAGE</td></tr><tr><td><b>译名</b></td><td>The Legend of KAGE</td></tr><tr><td><b>其他译名</b></td><td>影之传说</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 The Legend of KAGE（曲目） - 由 ZUN 创作的官方曲目，原名 The Legend of KAGE
+
 ## 出现作品
 
 <table>
@@ -58,10 +61,13 @@ The Legend of KAGE（曲目） - 由 ZUN 创作的官方曲目，原名 The Lege
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 东方灵异传
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-The_Legend_of_KAGE.mp3.md" title="文件:The Legend of KAGE.mp3">The_Legend_of_KAGE.mp3</a><br><audio src="https://upload.thwiki.cc/b/bd/The_Legend_of_KAGE.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>ST5.MDT</td></tr><tr><td><b>音轨时长</b></td><td>3:10</td></tr></tbody></table>
+
 
 
 ### 东方怪绮谈
@@ -81,9 +87,11 @@ YM2608(OPNA)，FM86音源版。
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th05_R_10_2.ogg.md" title="文件:th05 R 10 2.ogg">th05_R_10_2.ogg</a><br><audio src="https://upload.thwiki.cc/e/e0/th05_R_10_2.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>R_09.M2</td></tr><tr><td><b>音轨时长</b></td><td>1:27.859</td></tr></tbody></table>
 
 
+
 ### 东方幻想的音乐
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td><a href="./文件-th1_10.mid.md" title="文件:th1 10.mid">th1_10.mid</a></td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th1_10.mp3.md" title="文件:th1 10.mp3">th1_10.mp3</a><br><audio src="https://upload.thwiki.cc/9/91/th1_10.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>th1_10.mid</td></tr><tr><td><b>音轨时长</b></td><td>3:42</td></tr></tbody></table>
+
 
 
 ### 东方幻想怀古曲
@@ -91,16 +99,20 @@ YM2608(OPNA)，FM86音源版。
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-thgs01_09.ogg.md" title="文件:thgs01 09.ogg">thgs01 09.ogg</a><br><audio src="https://upload.thwiki.cc/1/16/thgs01_09.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>th1_09.m</td></tr><tr><td><b>音轨时长</b></td><td>1:27.859</td></tr></tbody></table>
 
 
+
 ### 幺乐团的历史 vol.5
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-ha05_10.mp3.md" title="文件:ha05 10.mp3">ha05_10.mp3</a><br><audio src="https://upload.thwiki.cc/f/fb/ha05_10.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track10.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>3:03</td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 东方灵异传
 - Music Test (未找到链接)
 
 The Legend of KAGE                                             ZUN
+
 ### 东方怪绮谈
 - Music Room (未找到链接)
 
@@ -114,6 +126,7 @@ The Legend of KAGE                                             ZUN
 ＺＵＮ（太田）  
 灵异传曲目。  
 特别Arrange版
+
 ### 东方幻想的音乐
 - 东方幻想的音乐曲目说明 (未找到链接)
 
@@ -166,6 +179,7 @@ The Legend of KAGE                                             ZUN
 曲子的感想、请求等，这边请  
 　东方幻想空间　「博丽神社」 [http://www16.big.or.jp/~zun/](http://www16.big.or.jp/~zun/)  
 　e-Mail　　　　　　　　　　 zun@big.or.jp
+
 ### 东方幻想怀古曲
 - 东方幻想怀古曲曲目说明 (未找到链接)
 
@@ -202,8 +216,11 @@ The Legend of KAGE                                             ZUN
 曲子的感想、请求等，这边请  
 　东方幻想空间　「博丽神社」 [http://www16.big.or.jp/~zun/](http://www16.big.or.jp/~zun/)  
 　e-Mail                     zun@big.or.jp
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
   
  **The Legend of KAGE** 
@@ -217,6 +234,7 @@ The Legend of KAGE                                             ZUN
 
 
 - ZUN创作的第二首游戏用曲子
+
 
 ### 二次同人数据
 

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-3_cm_Star_–_Sun_Sentimental_Star_-封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/d/d2/3_cm_Star_%E2%80%93_Sun_Sentimental_Star_-%E5%B0%81%E9%9D%A2.jpg/159px-3_cm_Star_%E2%80%93_Sun_Sentimental_Star_-%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="159" height="224" srcset="https://upload.thwiki.cc/thumb/d/d2/3_cm_Star_%E2%80%93_Sun_Sentimental_Star_-%E5%B0%81%E9%9D%A2.jpg/238px-3_cm_Star_%E2%80%93_Sun_Sentimental_Star_-%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/d/d2/3_cm_Star_%E2%80%93_Sun_Sentimental_Star_-%E5%B0%81%E9%9D%A2.jpg/317px-3_cm_Star_%E2%80%93_Sun_Sentimental_Star_-%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="600" data-file-height="847"></a><div class="cover-char">角色：<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://18sbunny.yukaty.com/?p=709">http://18sbunny.yukaty.com/?p=709</a><br><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/37668153">https://www.pixiv.net/artworks/37668153</a></td></tr></tbody></table>
 
 3 cm Star – Sun Sentimental Star -（同人志，18sbunny，2013） - 2013年8月12日 由 18sbunny 于 Comic Market 84 发布的漫画同人志，B5尺寸一共32页，登场人物有 雾雨魔理沙、森近霖之助，分级为 一般向
+
 ## Staff
 - [浪咲ゆか](./浪咲ゆか.md)
+
 
 ## 评论
 

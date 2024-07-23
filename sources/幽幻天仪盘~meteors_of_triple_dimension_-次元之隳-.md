@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-幽幻天仪盘~meteors_of_triple_dimension_-次元之隳-封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/2/26/%E5%B9%BD%E5%B9%BB%E5%A4%A9%E4%BB%AA%E7%9B%98~meteors_of_triple_dimension_-%E6%AC%A1%E5%85%83%E4%B9%8B%E9%9A%B3-%E5%B0%81%E9%9D%A2.png/158px-%E5%B9%BD%E5%B9%BB%E5%A4%A9%E4%BB%AA%E7%9B%98~meteors_of_triple_dimension_-%E6%AC%A1%E5%85%83%E4%B9%8B%E9%9A%B3-%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="158" height="224" srcset="https://upload.thwiki.cc/thumb/2/26/%E5%B9%BD%E5%B9%BB%E5%A4%A9%E4%BB%AA%E7%9B%98~meteors_of_triple_dimension_-%E6%AC%A1%E5%85%83%E4%B9%8B%E9%9A%B3-%E5%B0%81%E9%9D%A2.png/237px-%E5%B9%BD%E5%B9%BB%E5%A4%A9%E4%BB%AA%E7%9B%98~meteors_of_triple_dimension_-%E6%AC%A1%E5%85%83%E4%B9%8B%E9%9A%B3-%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/2/26/%E5%B9%BD%E5%B9%BB%E5%A4%A9%E4%BB%AA%E7%9B%98~meteors_of_triple_dimension_-%E6%AC%A1%E5%85%83%E4%B9%8B%E9%9A%B3-%E5%B0%81%E9%9D%A2.png/317px-%E5%B9%BD%E5%B9%BB%E5%A4%A9%E4%BB%AA%E7%9B%98~meteors_of_triple_dimension_-%E6%AC%A1%E5%85%83%E4%B9%8B%E9%9A%B3-%E5%B0%81%E9%9D%A2.png 2x" data-file-width="2480" data-file-height="3508"></a><div class="cover-char">角色：<a href="./哆来咪·苏伊特.md" title="哆来咪·苏伊特">哆来咪·苏伊特</a>，<a href="./风见幽香.md" title="风见幽香">风见幽香</a></div></td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://weibo.com/6098071811/I71Bw6lqN">https://weibo.com/6098071811/I71Bw6lqN</a></td></tr></tbody></table>
 
 幽幻天仪盘~meteors of triple dimension -次元之隳-（同人志，永动之龛，2019） - 2019年10月20日 由 永动之龛 于 东方收获祭7 发布的漫画同人志，16K尺寸一共116页，登场人物有 博丽灵梦、雾雨魔理沙、宇佐见堇子、魅魔、蕾米莉亚·斯卡蕾特、八云紫、爱莲、小野塚小町、绵月丰姬、绵月依姬、梦子、小兔姬、VIVIT，分级为 一般向
+
 ## Staff
 漫画
 : 头很大、质谱仪
@@ -21,6 +23,7 @@
 : 红世
 封面
 : egg！、春虫岚
+
 
 ## 评论
 

@@ -6,12 +6,14 @@
 
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 软件信息](#软件信息)
 - [2 Staff](#Staff)
 - [3 内容页面](#内容页面)
 - [4 评论](#评论)
+
 
 
 
@@ -40,16 +42,19 @@ Lost at Sea（同人游戏，pointyshades，sharkinfishnets，2022） - 2022年6
 </tbody></table>
 
 
+
 ## Staff
 Art, User Interface, Dialogue Scripting
 : sharkinfishnets （[Tumblr: sharkinfishnetz](https://sharkinfishnetz.tumblr.com)）
 Head Writer, Systems Programming, Music
 : pointyshades （[Tumblr: oughtnots](https://oughtnots.tumblr.com) / [itch.io: pointyshades](https://pointyshades.itch.io/)）
 
+
 ## 内容页面
 - 游戏设定与剧情 (未找到链接)
 - 攻略 (未找到链接)
 - 其他信息 (未找到链接)
+
 
 ## 评论
 

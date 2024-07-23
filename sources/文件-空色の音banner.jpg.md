@@ -4,6 +4,7 @@
 
 社团LOGO | 空色の音
 
+
 ## 摘要
   
 源地址：[direct image link](http://sky.karou.jp/banner/banner.jpg), [source page](http://sky.karou.jp/link.html)

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-東方音深波_～_Silent_of_Soul.封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/0/03/%E6%9D%B1%E6%96%B9%E9%9F%B3%E6%B7%B1%E6%B3%A2_%EF%BD%9E_Silent_of_Soul.%E5%B0%81%E9%9D%A2.jpg/224px-%E6%9D%B1%E6%96%B9%E9%9F%B3%E6%B7%B1%E6%B3%A2_%EF%BD%9E_Silent_of_Soul.%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="215" srcset="https://upload.thwiki.cc/thumb/0/03/%E6%9D%B1%E6%96%B9%E9%9F%B3%E6%B7%B1%E6%B3%A2_%EF%BD%9E_Silent_of_Soul.%E5%B0%81%E9%9D%A2.jpg/336px-%E6%9D%B1%E6%96%B9%E9%9F%B3%E6%B7%B1%E6%B3%A2_%EF%BD%9E_Silent_of_Soul.%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/0/03/%E6%9D%B1%E6%96%B9%E9%9F%B3%E6%B7%B1%E6%B3%A2_%EF%BD%9E_Silent_of_Soul.%E5%B0%81%E9%9D%A2.jpg/448px-%E6%9D%B1%E6%96%B9%E9%9F%B3%E6%B7%B1%E6%B3%A2_%EF%BD%9E_Silent_of_Soul.%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="900" data-file-height="863"></a><div class="cover-char">角色：<a href="/index.php?title=%E6%B5%B7%E6%BF%91%E5%A4%B4%E6%A4%8E%E9%9F%B3&amp;action=edit&amp;redlink=1" class="new" title="海濑头椎音（页面不存在）">海濑头椎音</a></div></td>
@@ -16,6 +17,7 @@
 東方音深波 ～ Silent of Soul.（同人专辑，草木張月，2021） - 2021年11月28日 由 草木張月 于 东方红楼梦17 发布的全长/合作/印象集同人专辑，分级为 一般向
 
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=1104843">蜜瓜</a></td></tr></tbody></table>
+
 
 
 ## Staff
@@ -29,6 +31,7 @@ Mixing
 : きさらぎ （[草木張月](./草木張月.md)）
 Illustration
 : 林檎ﾉｽｹ （[雛鳥クロニクル](./雛鳥クロニクル.md)）
+
 
 ## 试听
   
@@ -71,7 +74,9 @@ Illustration
 </td></tr></tbody></table>
 
 
+
 ## 角色
+
 ### BOSS
 
 <table><tbody><tr> <td class="bg-color-info-10" style="min-width:100px"><b>一面道中</b><br><i><a href="/index.php?title=%E6%B8%85%E6%B6%BC%E3%81%AA%E3%82%8B%E7%9C%9F%E4%B8%8B%E3%81%AE%E4%B8%96%E7%95%8C%E3%81%B8&amp;action=edit&amp;redlink=1" class="new" title="清涼なる真下の世界へ（页面不存在）">清涼なる真下の世界へ</a></i></td> <td align="center" rowspan="2"><a rel="nofollow" class="external text" href="https://thwiki.cc/文件:四目海月.png">上传</a></td> <td style="width:150px;padding:3px 9px 3px 7px;" rowspan="2" colspan="2"> <a href="/index.php?title=%E5%9B%9B%E7%9B%AE%E6%B5%B7%E6%9C%88&amp;action=edit&amp;redlink=1" class="new" title="四目海月（页面不存在）">四目海月</a></td></tr><tr><td class="bg-color-info-10" style="min-width:100px"><b>一面BOSS</b><br><i><a href="/index.php?title=%E3%83%99%E3%83%AA%E3%83%BC%E3%83%99%E3%83%AA%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%AA%E3%83%BC%E3%82%B9%E3%82%A4%E3%83%BC%E3%83%84&amp;action=edit&amp;redlink=1" class="new" title="ベリーベリージェリースイーツ（页面不存在）">ベリーベリージェリースイーツ</a></i></td></tr>
@@ -81,6 +86,7 @@ Illustration
 <tr> <td class="bg-color-info-10" style="min-width:100px"><b>五面道中</b><br><i><a href="/index.php?title=%E6%9A%97%E3%81%8C%E3%82%8A%E3%81%AE%E8%A3%8F%E8%88%9E%E5%8F%B0%E6%B0%B4%E9%81%93&amp;action=edit&amp;redlink=1" class="new" title="暗がりの裏舞台水道（页面不存在）">暗がりの裏舞台水道</a></i></td> <td align="center" rowspan="2"><a rel="nofollow" class="external text" href="https://thwiki.cc/文件:空洞海凉.png">上传</a></td> <td style="width:150px;padding:3px 9px 3px 7px;" rowspan="2" colspan="2"> <a href="/index.php?title=%E7%A9%BA%E6%B4%9E%E6%B5%B7%E5%87%89&amp;action=edit&amp;redlink=1" class="new" title="空洞海凉（页面不存在）">空洞海凉</a></td></tr><tr><td class="bg-color-info-10" style="min-width:100px"><b>五面BOSS</b><br><i><a href="/index.php?title=%E3%83%A9%E3%83%95%E3%83%9E%E3%83%8B%E3%83%8E%E3%83%95%E3%82%A4%E3%83%B3%E3%82%B6%E3%83%87%E3%82%A3%E3%83%BC%E3%83%97&amp;action=edit&amp;redlink=1" class="new" title="ラフマニノフインザディープ（页面不存在）">ラフマニノフインザディープ</a></i></td></tr>
 <tr> <td class="bg-color-info-10" style="min-width:100px"><b>六面道中</b><br><i><a href="/index.php?title=%E9%96%8B%E5%A0%B4%E3%81%AF%E3%81%BE%E3%82%82%E3%81%AA%E3%81%8F_%EF%BD%9E_Ladies_and_Deepfish&amp;action=edit&amp;redlink=1" class="new" title="開場はまもなく ～ Ladies and Deepfish（页面不存在）">開場はまもなく ～ Ladies and Deepfish</a></i></td> <td align="center" rowspan="2"><a rel="nofollow" class="external text" href="https://thwiki.cc/文件:海濑头椎音.png">上传</a></td> <td style="width:150px;padding:3px 9px 3px 7px;" rowspan="2" colspan="2"> <a href="/index.php?title=%E6%B5%B7%E6%BF%91%E5%A4%B4%E6%A4%8E%E9%9F%B3&amp;action=edit&amp;redlink=1" class="new" title="海濑头椎音（页面不存在）">海濑头椎音</a></td></tr><tr><td class="bg-color-info-10" style="min-width:100px"><b>六面BOSS</b><br><i><a href="/index.php?title=%E8%81%9E%E3%81%93%E3%81%97%E5%8F%AC%E3%81%9B%E3%80%81%E5%BE%A9%E6%B4%BB%E3%81%AE%E3%82%B3%E3%83%B3%E3%83%81%E3%82%A7%E3%83%AB%E3%83%88_%EF%BD%9E_Sound_of_Soul&amp;action=edit&amp;redlink=1" class="new" title="聞こし召せ、復活のコンチェルト ～ Sound of Soul（页面不存在）">聞こし召せ、復活のコンチェルト ～ Sound of Soul</a></i></td></tr>
 <tr> <td class="bg-color-info-10" style="min-width:100px"><b>EX面道中</b><br><i><a href="/index.php?title=%E6%B7%B1%E5%A4%9C%E3%81%AE%E6%98%8E%E3%82%8B%E3%81%84%E6%B4%9E%E7%AA%9F%E6%95%A3%E6%AD%A9&amp;action=edit&amp;redlink=1" class="new" title="深夜の明るい洞窟散歩（页面不存在）">深夜の明るい洞窟散歩</a></i></td> <td align="center" rowspan="2"><a rel="nofollow" class="external text" href="https://thwiki.cc/文件:阳影·伊芙·德兰.png">上传</a></td> <td style="width:150px;padding:3px 9px 3px 7px;" rowspan="2" colspan="2"> <a href="/index.php?title=%E9%98%B3%E5%BD%B1%C2%B7%E4%BC%8A%E8%8A%99%C2%B7%E5%BE%B7%E5%85%B0&amp;action=edit&amp;redlink=1" class="new" title="阳影·伊芙·德兰（页面不存在）">阳影·伊芙·德兰</a></td></tr><tr><td class="bg-color-info-10" style="min-width:100px"><b>EX面BOSS</b><br><i><a href="/index.php?title=%E8%A6%96%E3%81%AA%E3%81%84%E3%83%9F%E3%81%AA%E3%81%84%E8%B5%A4%E3%81%8D%E7%9B%B2%E7%9B%AE_%EF%BD%9E_Pleiotropic&amp;action=edit&amp;redlink=1" class="new" title="視ないミない赤き盲目 ～ Pleiotropic（页面不存在）">視ないミない赤き盲目 ～ Pleiotropic</a></i></td></tr></tbody></table>
+
 
 
 ## 曲目列表
@@ -102,6 +108,7 @@ Illustration
 <tr><td id="15" class="infoYL"><b>15</b></td><td id="視ないミない赤き盲目_～_Pleiotropic" colspan="2" class="title">視ないミない赤き盲目　～ Pleiotropic<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=よいやみ&amp;fromwiki=東方音深波_～_Silent_of_Soul."><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./よいやみ.md" title="よいやみ">よいやみ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，よいやみ&amp;fromwiki=東方音深波_～_Silent_of_Soul."><span></span></a></span></td></tr>
 <tr><td id="16" class="infoYL"><b>16</b></td><td id="余韻の微睡み_～_Fuyofuyo" colspan="2" class="title">余韻の微睡み　～ Fuyofuyo<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=風雲&amp;fromwiki=東方音深波_～_Silent_of_Soul."><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./風雲.md" title="風雲">風雲</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，風雲&amp;fromwiki=東方音深波_～_Silent_of_Soul."><span></span></a></span></td></tr>
 <tr><td id="17" class="infoYL"><b>17</b></td><td id="奏者退場_～_Finale" colspan="2" class="title">奏者退場　～ Finale<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=きさらぎ&amp;fromwiki=東方音深波_～_Silent_of_Soul."><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./きさらぎ.md" title="きさらぎ">きさらぎ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，きさらぎ&amp;fromwiki=東方音深波_～_Silent_of_Soul."><span></span></a></span></td></tr></tbody></table>
+
 
 
 ## 评论

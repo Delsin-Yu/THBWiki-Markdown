@@ -4,7 +4,8 @@
 
 Unknown Lily ，于 2019 年成立，主要制作 其他 的中国大陆同人社团，主催是 玲子，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -31,12 +32,14 @@ Unknown Lily ，于 2019 年成立，主要制作 其他 的中国大陆同人�
 
 
 
+
 ## 社团信息
 文件:Unknown Lilybanner.jpg (未找到链接)  banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Unknown Lily </td></tr><tr><td><b>主要作品类型</b></td><td>其他</td></tr><tr><td><b>成立时间</b></td><td>2019</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="/%E7%8E%B2%E5%AD%90" class="mw-redirect" title="玲子">玲子</a> </td></tr><tr><td><b>地区</b></td><td>中国大陆</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="https://thdog.moe/">https://thdog.moe/</a> 官网<br><a rel="nofollow" class="external free" href="https://space.bilibili.com/3644545">https://space.bilibili.com/3644545</a> B站<br><a rel="nofollow" class="external free" href="https://bb.lilywhite.cc/">https://bb.lilywhite.cc/</a> 留言板</td></tr></tbody></table>
 
 Unknown Lily（同人社团，其他社团） - Unknown Lily ，于 2019 年成立，主要制作 其他 的中国大陆同人社团，主催是 玲子，当前状态为 活动
+
 ## 成员名单
   
 用户:玲子 (未找到链接)
@@ -44,6 +47,7 @@ Unknown Lily（同人社团，其他社团） - Unknown Lily ，于 2019 年成�
   
 虽然仅有一人，但如果想帮忙或者提出建议/想法，欢迎加入社团讨论群：722588384（Unknown Lily &amp; 玲车漂移汉化）
   
+
 
 ## 社团简介
   
@@ -68,15 +72,18 @@ Unknown Lily 与 玲车漂移 共享同一QQ群。群号：722588384。
 注意：本群不是普通闲聊交流群，请围绕社团本身以及社团作品进行讨论，详情请看群公告，以免被禁言甚至踢出。闲聊请加群号：821965731。
   
 
+
 ### 非盈利声明&amp;资金来源说明
   
 社团以及社团下属组织目前均不接受任何资金捐赠，产出的作品也不收取任何资金报酬，资金支持完全来自主催本人。
   
 
+
 ### 外援业务
   
 另外，社团承接一些外援业务，由于主催技能实在过多过杂，不一一列举，具体可以加群直接联系。
   
+
 
 ### 社团logo
   
@@ -86,7 +93,9 @@ Unknown Lily 与 玲车漂移 共享同一QQ群。群号：722588384。
 构想：一棵大榕树右侧露出莉莉白的半个背影（对应非正式译名之一「古木莉影」）
   
 
+
 ## 作品列表
+
 ### 说明
   
 由于社团主要业务（技术相关服务或程序等）无法严格对应到thb目前已有的分类中，因此「作品主要类型」参数填的是「其他」，后文也无法提供使用模板的作品列表，只能以文字形式表示。
@@ -97,6 +106,7 @@ Unknown Lily 与 玲车漂移 共享同一QQ群。群号：722588384。
   
 由于早期作品发布及署名比较随意和混乱，并且又是一人社团，可能会存在分不清从属的问题，这里遵循一个简单原则：与汉化有关的从属「玲车漂移」，除此之外的与技术有关的从属「Unknown Lily」。如有例外暂且归到主催个人名义下。
   
+
 
 ### Unknown Lily
 - 莉莉云：一个服务于东方Project的公益项目，旨在为东方众提供纯净的网盘体验。目前已停止注册。由于服务器位于美国，非中国大陆东方众的体验较好。网址：[https://cloud.lilywhite.cc/](https://cloud.lilywhite.cc/)
@@ -118,10 +128,11 @@ Unknown Lily 与 玲车漂移 共享同一QQ群。群号：722588384。
 更多小工具略。
   
 
+
 ### 玲车漂移
 - [弹幕狂们的黑市](./弹幕狂们的黑市.md) 汉化版（已发布，网址：[https://tieba.baidu.com/p/7997933972）](https://tieba.baidu.com/p/7997933972）)
 - [东方兽王园](./东方兽王园.md) 汉化版（已发布，网址：[https://tieba.baidu.com/p/8812806506）](https://tieba.baidu.com/p/8812806506）)
-- 东方节奏嘉年华 (未找到链接) 汉化版（尚未发布）
+- [东方节奏嘉年华](./东方节奏嘉年华.md) 汉化版（尚未发布）
 -  ~~[宵暗舞者](./宵暗舞者.md) 汉化版（尚未发布）~~  已弃坑
 - 若干同人本汉化（已发布于e绅，网址略，请自行按汉化组名称搜索）
 
@@ -132,9 +143,11 @@ Unknown Lily 与 玲车漂移 共享同一QQ群。群号：722588384。
 非东方作品汉化略。
   
 
+
 ### 东方魔改作品
 - [东方永夜抄](./东方永夜抄.md) 立绘、BGM魔改。立绘来源于[幻想人形演舞](./幻想人形演舞.md)，BGM来源于[弾奏結界　夢幻夜想曲　Eternal Nocturne](./弾奏結界_夢幻夜想曲_Eternal_Nocturne.md)。作品发布网址：[https://www.bilibili.com/video/BV1Qt411M7WL/](https://www.bilibili.com/video/BV1Qt411M7WL/)
-- [东方辉针城](./东方辉针城.md) BGM替换。BGM来源于东方天流宫 (未找到链接)。作品发布网址：[https://www.bilibili.com/video/BV187411r7PK/](https://www.bilibili.com/video/BV187411r7PK/)
+- [东方辉针城](./东方辉针城.md) BGM替换。BGM来源于[东方天流宫](./东方天流宫.md)。作品发布网址：[https://www.bilibili.com/video/BV187411r7PK/](https://www.bilibili.com/video/BV187411r7PK/)
+
 
 ## 备注
 

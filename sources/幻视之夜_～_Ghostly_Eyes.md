@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -41,11 +42,13 @@
 
 
 
+
 ## 基本信息
 
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">幻視の夜　～ Ghostly Eyes</td></tr><tr><td><b>译名</b></td><td>幻视之夜 ～ Ghostly Eyes</td></tr><tr><td><b>英文译名</b></td><td>Illusionary Night ~ Ghostly Eyes</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 幻视之夜 ～ Ghostly Eyes（曲目） - 由 ZUN 创作的官方曲目，原名 幻視の夜　～ Ghostly Eyes
+
 ## 出现作品
 
 <table>
@@ -55,13 +58,17 @@
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 莲台野夜行
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-hr02_05.mp3.md" title="文件:hr02 05.mp3">hr02_05.mp3</a><br><audio src="https://upload.thwiki.cc/5/5b/hr02_05.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track05.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>4:09</td></tr></tbody></table>
 
 
+
 ### 东方永夜抄
+
 #### WAV
   
 WAV版是游戏的原声带。
@@ -76,6 +83,7 @@ WAV版是游戏的原声带。
 </td></tr></tbody></table>
 
 
+
 #### MIDI
   
 MIDI版由Roland Sound Canvas 88Pro实机录音得到。
@@ -85,7 +93,9 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td><a href="./文件-th08_02.mid.md" title="文件:th08 02.mid">th08_02.mid</a></td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th08_02_SC88Pro.mp3.md" title="文件:th08 02 SC88Pro.mp3">th08_02_SC88Pro.mp3</a><br><audio src="https://upload.thwiki.cc/e/eb/th08_02_SC88Pro.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>th08_02.mid</td></tr><tr><td><b>音轨时长</b></td><td>2:07</td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 东方永夜抄
 - Music Room (未找到链接)
 
@@ -101,8 +111,11 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
 　　灵之眼。  
 　　能够捕捉幽暗之物的眼睛。此眼所见之夜可令其现出真身。幻视与原始谐音。  
 　　就是如此自然的夜晚。
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
   
  **幻視の夜　～ Ghostly Eyes**  幻视之夜　～ Ghostly Eyes
@@ -119,6 +132,7 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
 
   - 秘封俱乐部的活动发生在凌晨。
   - 永夜抄中自机们暂停了夜晚。
+
 
 
 ### 二次同人数据

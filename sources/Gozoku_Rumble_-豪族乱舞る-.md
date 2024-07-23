@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Gozoku_Rumble_-豪族乱舞る-封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/5/50/Gozoku_Rumble_-%E8%B1%AA%E6%97%8F%E4%B9%B1%E8%88%9E%E3%82%8B-%E5%B0%81%E9%9D%A2.jpg/140px-Gozoku_Rumble_-%E8%B1%AA%E6%97%8F%E4%B9%B1%E8%88%9E%E3%82%8B-%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="140" height="196" srcset="https://upload.thwiki.cc/thumb/5/50/Gozoku_Rumble_-%E8%B1%AA%E6%97%8F%E4%B9%B1%E8%88%9E%E3%82%8B-%E5%B0%81%E9%9D%A2.jpg/210px-Gozoku_Rumble_-%E8%B1%AA%E6%97%8F%E4%B9%B1%E8%88%9E%E3%82%8B-%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/5/50/Gozoku_Rumble_-%E8%B1%AA%E6%97%8F%E4%B9%B1%E8%88%9E%E3%82%8B-%E5%B0%81%E9%9D%A2.jpg/280px-Gozoku_Rumble_-%E8%B1%AA%E6%97%8F%E4%B9%B1%E8%88%9E%E3%82%8B-%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="777" data-file-height="1087"></a><div class="cover-char">角色：<a href="./丰聪耳神子.md" title="丰聪耳神子">丰聪耳神子</a>，<a href="./苏我屠自古.md" title="苏我屠自古">苏我屠自古</a>，<a href="./物部布都.md" title="物部布都">物部布都</a></div></td>
@@ -14,9 +15,11 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://pandaza.hanagumori.com/kokuchi/gozoku.html">http://pandaza.hanagumori.com/kokuchi/gozoku.html</a><br><a rel="nofollow" class="external free" href="https://atolier.exblog.jp/18058530/">https://atolier.exblog.jp/18058530/</a><br><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/27419062">https://www.pixiv.net/artworks/27419062</a></td></tr></tbody></table>
 
 Gozoku Rumble -豪族乱舞る-（同人志，アトリエ桃源郷，大熊猫飯店，2012） - 2012年5月27日 由 アトリエ桃源郷，大熊猫飯店 于 博丽神社例大祭9 发布的漫画同人志，B5尺寸一共32页，分级为 一般向
+
 ## Staff
 - 平瀬ゆう (未找到链接)
 - 岡平閑 (未找到链接)
+
 
 ## 评论
 

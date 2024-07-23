@@ -6,17 +6,22 @@
 
 本页是关于东方Project  
  **二次同人创作者** 的词条
+
 ## 基本信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="label"><b>名称</b></td><td> CnoD </td></tr><tr><td class="label"><b>所属社团</b></td><td><b>当前</b><div style="margin-left:2em;">无所属社团</div></td></tr><tr><td class="label"><b>职位</b></td><td>作曲，编曲，作词</td></tr><tr><td class="label"><b>参与社团</b></td><td><a class="mw-selflink selflink">CnoD</a> （编曲，作词）<br><a href="./Pure_Highball.md" title="Pure Highball">Pure Highball</a> （作曲，编曲，作词）<br><a href="./幻想Storage.md" title="幻想Storage">幻想Storage</a> （编曲，作词）</td></tr><tr><td class="label"><b>个人页面</b></td><td><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><b>Twitter</b></td><td><a rel="nofollow" class="external free" href="https://twitter.com/CnoD_pure">https://twitter.com/CnoD_pure</a></td></tr><tr><td><b>Niconico</b></td><td><a rel="nofollow" class="external free" href="https://www.nicovideo.jp/user/23162126">https://www.nicovideo.jp/user/23162126</a></td></tr><tr><td><b>Soundcloud</b></td><td><a rel="nofollow" class="external free" href="https://soundcloud.com/shino193">https://soundcloud.com/shino193</a></td></tr><tr><td><b>Youtube</b></td><td><a rel="nofollow" class="external free" href="https://www.youtube.com/@CnoD_pure">https://www.youtube.com/@CnoD_pure</a></td></tr></tbody></table></td></tr></tbody></table>
 
 CnoD（人物） - 现实人物
+
 ## 介绍
+
 ## 参与作品
+
 ### 東方自作アレンジ
 CnoD/東方自作アレンジ 封面图片 (未找到链接)[CnoD/東方自作アレンジ](./CnoD-東方自作アレンジ.md)首发日期：2019-07-06 单曲 （一般向）
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
 </table>
+
 
 
 ### 同人音乐

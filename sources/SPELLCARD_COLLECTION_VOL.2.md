@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-SPELLCARD_COLLECTION_VOL.2封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/1/16/SPELLCARD_COLLECTION_VOL.2%E5%B0%81%E9%9D%A2.png/139px-SPELLCARD_COLLECTION_VOL.2%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="139" height="196" srcset="https://upload.thwiki.cc/thumb/1/16/SPELLCARD_COLLECTION_VOL.2%E5%B0%81%E9%9D%A2.png/208px-SPELLCARD_COLLECTION_VOL.2%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/1/16/SPELLCARD_COLLECTION_VOL.2%E5%B0%81%E9%9D%A2.png/278px-SPELLCARD_COLLECTION_VOL.2%E5%B0%81%E9%9D%A2.png 2x" data-file-width="850" data-file-height="1200"></a><div class="cover-char">角色：<a href="./娜兹玲.md" title="娜兹玲">娜兹玲</a></div></td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/koza__mom0/status/1288429065389498370">https://twitter.com/koza__mom0/status/1288429065389498370</a><br><span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到需要翻墙网页">（需要翻墙）</span></td></tr></tbody></table>
 
 SPELLCARD COLLECTION VOL.2（同人志，ちょこふぁん，こねこすけ，2020） - 2020年8月9日 由 ちょこふぁん，こねこすけ 于 东方名华祭14 发布的合同志/画集同人志，B5尺寸一共12页，分级为 一般向
+
 ## Staff
 主办
 : ちょこふぁん，こねこすけ
@@ -22,6 +24,7 @@ SPELLCARD COLLECTION VOL.2（同人志，ちょこふぁん，こねこすけ，
 
 - こざくら（[Twitter: @koza__mom0](https://twitter.com/koza__mom0)）
 - すばる（[Twitter: @subachoco](https://twitter.com/subachoco)）
+
 
 ## 评论
 

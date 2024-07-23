@@ -4,7 +4,8 @@
 
 steo ∞ haon (すてお ∞ はおん) ，主要制作 同人志 的日本同人社团，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -20,11 +21,13 @@ steo ∞ haon (すてお ∞ はおん) ，主要制作 同人志 的日本同�
 
 
 
+
 ## 社团信息
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> steo ∞ haon (すてお ∞ はおん) </td></tr><tr><td><b>主要作品类型</b></td><td>同人志</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="https://9wilism.booth.pm/">https://9wilism.booth.pm/</a> </td></tr></tbody></table>
 
 steo ∞ haon（同人社团，同人志社团） - steo ∞ haon (すてお ∞ はおん) ，主要制作 同人志 的日本同人社团，当前状态为 活动
+
 ## 成员名单
 - 稔梨 (未找到链接)
 
@@ -38,7 +41,9 @@ steo ∞ haon（同人社团，同人志社团） - steo ∞ haon (すてお ∞
 
 : [Twitter: @ekakisaki](https://twitter.com/ekakisaki)
 
+
 ## 作品列表
+
 ### 同人志
 FLOWER* 封面图片 (未找到链接)[FLOWER*](./FLOWER＊.md)首发日期：2013-10-13 （東方紅楼夢9 (未找到链接)）画集 （一般向）A5&#160;尺寸 16&#160;页Parure-東方ロリータコレクション- 封面图片 (未找到链接)[Parure-東方ロリータコレクション-](./Parure-東方ロリータコレクション-.md)首发日期：2013-10-13 （東方紅楼夢9 (未找到链接)）画集 （一般向）B5&#160;尺寸 28&#160;页CRYSTAL✦ 封面图片 (未找到链接)[CRYSTAL✦](./CRYSTAL✦.md)首发日期：2014-06-08 （古明地こんぷれっくす (未找到链接)）画集 （一般向）A5&#160;尺寸 16&#160;页[](./FRUIT..md)[FRUIT.](./FRUIT..md)首发日期：2014-10-12 （東方紅楼夢10 (未找到链接)）画集 （一般向）A5&#160;尺寸 16&#160;页[](./博麗霊夢衣装アレンジ合同『Hearty』.md)[博麗霊夢衣装アレンジ合同『Hearty』](./博麗霊夢衣装アレンジ合同『Hearty』.md)首发日期：2014-10-12 （東方紅楼夢10 (未找到链接)）合同志、​画集 （一般向）B5&#160;尺寸 [](./3人の3通りの紅い魔法.md)[3人の3通りの紅い魔法](./3人の3通りの紅い魔法.md)首发日期：2015-11-01 （東方紅楼夢11 (未找到链接)）画集 （一般向）B6&#160;尺寸 24&#160;页ひなちゃんずくめ 封面图片 (未找到链接)ひなちゃんずくめ (未找到链接)首发日期：未知 - RAW 封面图片 (未找到链接)RAW (未找到链接)首发日期：未知 - あはざらめやも 封面图片 (未找到链接)あはざらめやも (未找到链接)首发日期：未知 - INSIGHT 封面图片 (未找到链接)INSIGHT (未找到链接)首发日期：未知 - LONGING 封面图片 (未找到链接)LONGING (未找到链接)首发日期：未知 - TOUHOU MAME BOOK① 封面图片 (未找到链接)TOUHOU MAME BOOK① (未找到链接)首发日期：未知 - TOUHOU MAME BOOK② 封面图片 (未找到链接)TOUHOU MAME BOOK② (未找到链接)首发日期：未知 - TOUHOU MAME BOOK③ 封面图片 (未找到链接)TOUHOU MAME BOOK③ (未找到链接)首发日期：未知 - [](./Fly_me_to_the_MOON（steo_∞_haon）.md)[Fly me to the MOON](./Fly_me_to_the_MOON（steo_∞_haon）.md)首发日期：2019-10-13 （東方紅楼夢15 (未找到链接)）画集 （一般向）105x210mm&#160;尺寸 
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -64,6 +69,7 @@ FLOWER* 封面图片 (未找到链接)[FLOWER*](./FLOWER＊.md)首发日期：20
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 参展信息

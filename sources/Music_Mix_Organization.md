@@ -4,7 +4,8 @@
 
 Music Mix Organization ，于 2007 年成立，主要制作 同人音乐 的日本同人社团，当前状态为 休止
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -16,12 +17,14 @@ Music Mix Organization ，于 2007 年成立，主要制作 同人音乐 的日�
 
 
 
+
 ## 社团信息
 [](./文件-Music_Mix_Organizationbanner.png.md)  [](./文件-Music_Mix_Organizationbanner.png.md)banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Music Mix Organization </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2007</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://mmo-cir.sakura.ne.jp/">http://mmo-cir.sakura.ne.jp/</a> <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span></td></tr></tbody></table>
 
 Music Mix Organization（同人社团，同人音乐社团） - Music Mix Organization ，于 2007 年成立，主要制作 同人音乐 的日本同人社团，当前状态为 休止
+
 ## 成员名单
 - tiamat (未找到链接)
 - [MONO](./mono（Mentaiko_Lab）.md)
@@ -29,6 +32,7 @@ Music Mix Organization（同人社团，同人音乐社团） - Music Mix Organi
 - あるでんて (未找到链接) (-2010)
 - ぷりりー (未找到链接) (a.k.a Prily; 2011-)
 - 1B (未找到链接) (わんびぃ)
+
 
 ## 作品列表
 [](./Cocktail_Time!!.md)[Cocktail Time!!](./Cocktail_Time!!.md)首发日期：2008-05-25 （第五回 博麗神社例大祭 (未找到链接)）MMO-02全长 （一般向）[](./弾幕フルコース.md)[弾幕フルコース](./弾幕フルコース.md)首发日期：2009-03-08 （第六回 博麗神社例大祭 (未找到链接)）MMO-04全长 （一般向）[](./常識に囚われないしぃーでぃー.md)[常識に囚われないしぃーでぃー](./常識に囚われないしぃーでぃー.md)首发日期：2009-05-03 （博多東方祭1 (未找到链接)）MMO±01EP （一般向）[](./Sunday_Lounge.md)[Sunday Lounge](./Sunday_Lounge.md)首发日期：2009-12-30 （Comic Market 77 (未找到链接)）MMO-06EP （一般向）[](./CLOCK_CELLAR.md)[CLOCK CELLAR](./CLOCK_CELLAR.md)首发日期：2010-03-14 （第七回 博麗神社例大祭 (未找到链接)）MMO-07全长 （一般向）[](./Pretty☆Shooter.md)[Pretty☆Shooter](./Pretty☆Shooter.md)首发日期：2011-05-08 （第八回 博麗神社例大祭 (未找到链接)）MMO-09全长 （一般向）[](./千紫万紅（Music_Mix_Organization）.md)[千紫万紅](./千紫万紅（Music_Mix_Organization）.md)首发日期：2012-05-27 （第九回 博麗神社例大祭 (未找到链接)）MMO-12全长 （一般向）
@@ -48,9 +52,11 @@ Music Mix Organization（同人社团，同人音乐社团） - Music Mix Organi
 </table>
 
 
+
 ## 参展信息
 
 <table><tbody><tr><th class="活动页面">活动页面</th><th class="活动名称">活动名称</th><th class="日期">日期</th><th class="举办地点">举办地点</th><th class="摊位编号">摊位编号</th><th class="宣传页面">宣传页面</th><th class="备注">备注</th></tr><tr data-row-number="1" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#10" title="博丽神社例大祭">博丽神社例大祭#10</a></span></td><td class="活动名称 smwtype_txt">第十回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2456438.5">2013-05-26</td><td class="举办地点 smwtype_txt">东京Big Sight 东123456展厅</td><td class="摊位编号 smwtype_txt">D50b</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="2" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#9" title="博丽神社例大祭">博丽神社例大祭#9</a></span></td><td class="活动名称 smwtype_txt">第九回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2456074.5">2012-05-27</td><td class="举办地点 smwtype_txt">东京Big Sight 东123456展厅</td><td class="摊位编号 smwtype_txt">え-26b</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="3" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#8" title="博丽神社例大祭">博丽神社例大祭#8</a></span></td><td class="活动名称 smwtype_txt">第八回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2455689.5">2011-05-08</td><td class="举办地点 smwtype_txt">东京Big Sight 东23456展厅</td><td class="摊位编号 smwtype_txt">の-21b</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="4" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#7" title="博丽神社例大祭">博丽神社例大祭#7</a></span></td><td class="活动名称 smwtype_txt">第七回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2455269.5">2010-03-14</td><td class="举办地点 smwtype_txt">东京Big Sight 东23456展厅</td><td class="摊位编号 smwtype_txt">ゆ02b</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="5" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#6" title="博丽神社例大祭">博丽神社例大祭#6</a></span></td><td class="活动名称 smwtype_txt">第六回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2454898.5">2009-03-08</td><td class="举办地点 smwtype_txt">东京Big Sight 东3456展厅</td><td class="摊位编号 smwtype_txt">さ25b</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="6" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#5" title="博丽神社例大祭">博丽神社例大祭#5</a></span></td><td class="活动名称 smwtype_txt">第五回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2454611.5">2008-05-25</td><td class="举办地点 smwtype_txt">东京Big Sight 西4展厅</td><td class="摊位编号 smwtype_txt">を19b</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr></tbody></table>
+
 
 
 ## 其他信息

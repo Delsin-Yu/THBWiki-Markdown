@@ -6,11 +6,13 @@
 
 本页是关于东方Project  
  **二次同人创作者** 的词条
+
 ## 基本信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="label"><b>名称</b></td><td> futa </td></tr><tr><td class="label"><b>所属社团</b></td><td><b>当前</b><div style="margin-left:2em;"><a href="./なべぞこ.md" title="なべぞこ">なべぞこ</a></div></td></tr><tr><td class="label"><b>职位</b></td><td>漫画家</td></tr><tr><td class="label"><b>性别</b></td><td>男</td></tr><tr><td class="label"><b>个人页面</b></td><td><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><b>Twitter</b></td><td><a rel="nofollow" class="external free" href="https://twitter.com/Futa313255">https://twitter.com/Futa313255</a></td></tr><tr><td><b>Pixiv</b></td><td><a rel="nofollow" class="external free" href="https://www.pixiv.net/member.php?id=2748805">https://www.pixiv.net/member.php?id=2748805</a></td></tr></tbody></table></td></tr></tbody></table>
 
 futa（人物） - 现实人物
+
 ## 介绍
   
 以四格搞笑短篇而知名的搞笑漫画画师futa，其刊物也或日常温馨或轻松搞笑  
@@ -18,7 +20,9 @@ futa（人物） - 现实人物
 其作画风格以Q版或大头萌萌画风为主。
   
 
+
 ## 参与作品
+
 ## 人际关系
 人名
 : 关系

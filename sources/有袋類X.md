@@ -4,7 +4,8 @@
 
 有袋類X ，主要制作 同人志 的日本同人社团，主催是 汐しほみ，当前状态为 休止
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -20,17 +21,21 @@
 
 
 
+
 ## 社团信息
 文件:有袋類Xbanner.jpg (未找到链接)  banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> 有袋類X </td></tr><tr><td><b>主要作品类型</b></td><td>同人志</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=%E6%B1%90%E3%81%97%E3%81%BB%E3%81%BF&amp;action=edit&amp;redlink=1" class="new" title="汐しほみ（页面不存在）">汐しほみ</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://yutairui.sakura.ne.jp/">http://yutairui.sakura.ne.jp/</a> </td></tr></tbody></table>
 
 有袋類X（同人社团，同人志社团） - 有袋類X ，主要制作 同人志 的日本同人社团，主催是 汐しほみ，当前状态为 休止
+
 ## 成员名单
 - 史甫美 (未找到链接)
 - 汐しほみ (未找到链接)
 
+
 ## 作品列表
+
 ### 同人志
 [](./ふとちゃんベイビー!.md)[ふとちゃんベイビー!](./ふとちゃんベイビー!.md)首发日期：2012-03-25 漫画 （一般向）B5&#160;尺寸 36&#160;页[](./Starless.md)[Starless](./Starless.md)首发日期：2012-05-27 （第九回 博麗神社例大祭 (未找到链接)）漫画 （一般向）B5&#160;尺寸 32&#160;页[](./悠久教室_-The_future_on_the_past-.md)[悠久教室 -The future on the past-](./悠久教室_-The_future_on_the_past-.md)首发日期：2012-10-07 （東方紅楼夢8 (未找到链接)）漫画 （一般向）B5&#160;尺寸 32&#160;页[](./とじこのかみなり_上ノ巻.md)[とじこのかみなり 上ノ巻](./とじこのかみなり_上ノ巻.md)首发日期：2012-12-30 （Comic Market 83 (未找到链接)）漫画 （一般向）B5&#160;尺寸 32&#160;页[](./仙界尻尾奇譚.md)[仙界尻尾奇譚](./仙界尻尾奇譚.md)首发日期：2013-02-24 （幻想郷サミット1 (未找到链接)）漫画 （一般向）B5&#160;尺寸 20&#160;页[](./ほのぼの乱舞っ！.md)[ほのぼの乱舞っ！](./ほのぼの乱舞っ！.md)首发日期：2013-04-07 （太子さま復活祭1 (未找到链接)）合同志、​漫画、​绘本 （一般向）B5&#160;尺寸 68&#160;页[](./ふわふと。.md)[ふわふと。](./ふわふと。.md)首发日期：2013-05-26 （第十回 博麗神社例大祭 (未找到链接)）漫画 （一般向）B5&#160;尺寸 24&#160;页[](./ホープフルデイズ.md)[ホープフルデイズ](./ホープフルデイズ.md)首发日期：2013-08-12 （Comic Market 84 (未找到链接)）漫画 （一般向）B5&#160;尺寸 24&#160;页[](./とじこのかみなり_下ノ巻.md)[とじこのかみなり 下ノ巻](./とじこのかみなり_下ノ巻.md)首发日期：2013-12-30 （Comic Market 85 (未找到链接)）漫画 （一般向）B5&#160;尺寸 44&#160;页[](./Together!.md)[Together!](./Together!.md)首发日期：2015-04-19 （東方名華祭9 (未找到链接)）漫画 （一般向）B5&#160;尺寸 64&#160;页
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -53,6 +58,7 @@
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 参展信息

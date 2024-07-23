@@ -4,7 +4,8 @@
 
 ノヘッパDo! ，于 2001 年成立，主要制作 同人志 的日本同人社团，主催是 あらたとしひら，当前状态为 休止
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -22,23 +23,28 @@
 
 
 
+
 ## 社团信息
 [](./文件-ノヘッパDo!banner.png.md)  [](./文件-ノヘッパDo!banner.png.md)banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> ノヘッパDo! </td></tr><tr><td><b>主要作品类型</b></td><td>同人志</td></tr><tr><td><b>成立时间</b></td><td>2001</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>主催</b></td><td> <a href="./あらたとしひら.md" title="あらたとしひら">あらたとしひら</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://arata.pandasan.com/">http://arata.pandasan.com/</a> （暂时不开放）<span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><br><a rel="nofollow" class="external free" href="http://www.h5.dion.ne.jp/~arata/">http://www.h5.dion.ne.jp/~arata/</a> （旧官网）<span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><br><a rel="nofollow" class="external free" href="http://www.geocities.co.jp/Playtown-Dice/2325/">http://www.geocities.co.jp/Playtown-Dice/2325/</a> （旧官网）<span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span></td></tr></tbody></table>
 
 ノヘッパDo!（同人社团，同人志社团） - ノヘッパDo! ，于 2001 年成立，主要制作 同人志 的日本同人社团，主催是 あらたとしひら，当前状态为 休止
+
 ## 社团简介
   
 社团在2012年改名为[あらもーど](./あらもーど.md)[^cite_note-1]。
   
+
 
 ## 成员名单
 - [あらたとしひら](./あらたとしひら.md)
 
 : [Twitter: @arata_amode](https://twitter.com/arata_amode), [Pixiv ID: 13178](https://www.pixiv.net/users/13178)
 
+
 ## 作品列表
+
 ### 同人志
 ラブグレイズ 封面图片 (未找到链接)ラブグレイズ (未找到链接)首发日期：未知 - ラブグレイズ2 封面图片 (未找到链接)ラブグレイズ2 (未找到链接)首发日期：未知 - ラブグレイズ3 封面图片 (未找到链接)ラブグレイズ3 (未找到链接)首发日期：未知 - ラブグレイズ4 うさうさ少女と愚者の選択 封面图片 (未找到链接)ラブグレイズ4 うさうさ少女と愚者の選択 (未找到链接)首发日期：未知 - ラブグレイズ5 封面图片 (未找到链接)ラブグレイズ5 (未找到链接)首发日期：未知 - ラブグレイズ6 封面图片 (未找到链接)ラブグレイズ6 (未找到链接)首发日期：未知 - ラブグレイズアーカイブ／at 封面图片 (未找到链接)ラブグレイズアーカイブ／at (未找到链接)首发日期：未知 - [](./ラヴグレイズ_プチ.md)[ラヴグレイズ プチ](./ラヴグレイズ_プチ.md)首发日期：2009-03-08 （第六回 博麗神社例大祭 (未找到链接)）漫画 （一般向） 8&#160;页ラヴグレイズ プチ 2 封面图片 (未找到链接)ラヴグレイズ プチ 2 (未找到链接)首发日期：未知 - ラブグレイズ7 神様のおるすばん 封面图片 (未找到链接)ラブグレイズ7 神様のおるすばん (未找到链接)首发日期：未知 - 大晦日メリー 封面图片 (未找到链接)大晦日メリー (未找到链接)首发日期：未知 - 
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -53,6 +59,7 @@
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458"></table>
+
 
 
 ## 参展信息

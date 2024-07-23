@@ -23,6 +23,7 @@
 </center>
 - 本词条内容为官方游戏TH06 **东方红魔乡** 的敌机符卡
 
+
 ## 目录
 
 - [1 琪露诺](#琪露诺)
@@ -59,6 +60,7 @@
 
 
 # 琪露诺
+
 ## No.04
 
 <table>
@@ -77,6 +79,7 @@
 </th></tr></tbody></table>
 
 
+
 ### 符卡信息
 
 <table>
@@ -88,6 +91,7 @@
 <p>2面BOSS琪露诺Easy / Normal难度符卡。 
 </p>
 </td></tr></tbody></table>
+
 
 
 
@@ -109,6 +113,7 @@
 </th></tr></tbody></table>
 
 
+
 ### 符卡信息
 
 <table>
@@ -120,6 +125,7 @@
 <p>2面BOSS琪露诺Hard / Lunatic难度符卡。
 </p>
 </td></tr></tbody></table>
+
 
 
 
@@ -141,6 +147,7 @@
 </th></tr></tbody></table>
 
 
+
 ### 符卡信息
 
 <table>
@@ -152,6 +159,7 @@
 <p>2面BOSS琪露诺Easy / Normal / Hard / Lunatic难度符卡。
 </p>
 </td></tr></tbody></table>
+
 
 
 
@@ -171,6 +179,7 @@
 <p><a href="./Diamond_Blizzard.md" title="Diamond Blizzard" unred="">雪符「Diamond Blizzard」</a>
 </p>
 </th></tr></tbody></table>
+
 
 
 ### 符卡信息

@@ -4,7 +4,8 @@
 
 RACTICA ，主要制作 同人志 的日本同人社团，主催是 青永HERI，当前状态为 转入非东方
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -20,18 +21,22 @@ RACTICA ，主要制作 同人志 的日本同人社团，主催是 青永HERI�
 
 
 
+
 ## 社团信息
 文件:RACTICAbanner.png (未找到链接)  banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> RACTICA </td></tr><tr><td><b>主要作品类型</b></td><td>同人志</td></tr><tr><td><b>当前状态</b></td><td>转入非东方</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=%E9%9D%92%E6%B0%B8HERI&amp;action=edit&amp;redlink=1" class="new" title="青永HERI（页面不存在）">青永HERI</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://ractica.com/">http://ractica.com/</a> <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><small>（<a rel="nofollow" class="external text" href="https://web.archive.org/web/20190530155355/http://ractica.com/">缓存页面</a>）</small></td></tr></tbody></table>
 
 RACTICA（同人社团，同人志社团） - RACTICA ，主要制作 同人志 的日本同人社团，主催是 青永HERI，当前状态为 转入非东方
+
 ## 成员名单
 - 青永HERI (未找到链接)
 
 : [Twitter: @Aonaga_HERI](https://twitter.com/Aonaga_HERI), [Pixiv ID: 791886](https://www.pixiv.net/users/791886)
 
+
 ## 作品列表
+
 ### 同人志
 廃獄地霊草紙 封面图片 (未找到链接)廃獄地霊草紙 (未找到链接)首发日期：未知 - 廃獄病付草紙 封面图片 (未找到链接)廃獄病付草紙 (未找到链接)首发日期：未知 - 廃獄黒猫草紙 封面图片 (未找到链接)廃獄黒猫草紙 (未找到链接)首发日期：未知 - POSITION-KOIKOI 封面图片 (未找到链接)POSITION-KOIKOI (未找到链接)首发日期：未知 - POSITION-KURAKURA 封面图片 (未找到链接)POSITION-KURAKURA (未找到链接)首发日期：未知 - 廃獄風神草紙 封面图片 (未找到链接)廃獄風神草紙 (未找到链接)首发日期：未知 - POSITION-PUNIPUNI 封面图片 (未找到链接)POSITION-PUNIPUNI (未找到链接)首发日期：未知 - POSITION-SURISURI 封面图片 (未找到链接)POSITION-SURISURI (未找到链接)首发日期：未知 - POSITION-SURESURE 封面图片 (未找到链接)POSITION-SURESURE (未找到链接)首发日期：未知 - POSITION-YOBIYOBI 封面图片 (未找到链接)POSITION-YOBIYOBI (未找到链接)首发日期：未知 - POSITION-FURAFURA 封面图片 (未找到链接)POSITION-FURAFURA (未找到链接)首发日期：未知 - 七色妄想図書 封面图片 (未找到链接)七色妄想図書 (未找到链接)首发日期：未知 - 彼女と私のフラグ管理。 封面图片 (未找到链接)彼女と私のフラグ管理。 (未找到链接)首发日期：未知 - 気になる彼女はHな雰囲気が持続しない 封面图片 (未找到链接)気になる彼女はHな雰囲気が持続しない (未找到链接)首发日期：未知 - 罰ゲームはお好きですか？ 封面图片 (未找到链接)罰ゲームはお好きですか？ (未找到链接)首发日期：未知 - 傍若無人な彼女をなんとかする方法。 封面图片 (未找到链接)傍若無人な彼女をなんとかする方法。 (未找到链接)首发日期：未知 - 彼女の魔法はときどき？だいたい？稀に？失敗する 封面图片 (未找到链接)彼女の魔法はときどき？だいたい？稀に？失敗する (未找到链接)首发日期：未知 - とある魔女の日常的な非日常 封面图片 (未找到链接)とある魔女の日常的な非日常 (未找到链接)首发日期：未知 - 
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -52,6 +57,7 @@ RACTICA（同人社团，同人志社团） - RACTICA ，主要制作 同人志 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458"></table>
+
 
 
 ## 参展信息

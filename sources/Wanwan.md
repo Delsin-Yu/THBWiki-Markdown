@@ -6,16 +6,20 @@
 
 本页是关于东方Project  
  **二次同人创作者** 的词条
+
 ## 基本信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="label"><b>名称</b></td><td> 未知 <span style="font-size:90%;">（识别名：Wanwan）</span></td></tr><tr><td class="label"><b>所属社团</b></td><td><b>当前</b><div style="margin-left:2em;">東方邪星章製作チーム</div></td></tr><tr><td class="label"><b>职位</b></td><td>作曲，编曲</td></tr><tr><td class="label"><b>参与社团</b></td><td><a href="./Circle_WANTAN.md" title="Circle WANTAN">Circle WANTAN</a> （编曲）<br><a href="/index.php?title=Kirbio&amp;action=edit&amp;redlink=1" class="new" title="Kirbio（页面不存在）">Kirbio</a> （作曲）<br><a href="./Mace's_Secret_Base.md" title="Mace&#39;s Secret Base">Mace's Secret Base</a> （作曲）<br><a href="./Record_SIGMA.md" title="Record SIGMA">Record SIGMA</a> （编曲）<br><a href="./Traumerei_Fabrik.md" title="Traumerei Fabrik">Traumerei Fabrik</a> （编曲）<br><a href="./Τeam_αlternative_Σnding.md" title="Τeam αlternative Σnding">Τeam αlternative Σnding</a> （作曲）<br><a href="./スタジオネネム.md" title="スタジオネネム">スタジオネネム</a> （作曲）<br><a href="./外柿山.md" title="外柿山">外柿山</a> （编曲）<br><a href="./東方邪星章製作チーム.md" title="東方邪星章製作チーム">東方邪星章製作チーム</a> （作曲，编曲）</td></tr><tr><td class="label"><b>性别</b></td><td>男</td></tr></tbody></table>
 
 Wanwan（人物） - 现实人物
+
 ## 介绍
+
 ## 参与曲目
   
 模板:人物曲目列表 (未找到链接)
   
+
 
 ## 人际关系
 

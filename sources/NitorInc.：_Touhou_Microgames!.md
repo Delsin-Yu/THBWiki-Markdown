@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 软件信息](#软件信息)
@@ -13,6 +14,7 @@
 - [3 内容页面](#内容页面)
 - [4 评论](#评论)
 - [5 外部链接](#外部链接)
+
 
 
 
@@ -34,8 +36,10 @@ NitorInc.： Touhou Microgames!（同人游戏，NitorInc. Collab，2017） - 20
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://store.steampowered.com/app/772260">Steam</a></td></tr></tbody></table>
 
 
+
 ## Staff
 - [制作者名单](./NitorInc.：_Touhou_Microgames!-staff.md)
+
 
 ## 内容页面
 - [游戏设定与剧情](./NitorInc.：_Touhou_Microgames!-设定与剧情.md)
@@ -43,7 +47,9 @@ NitorInc.： Touhou Microgames!（同人游戏，NitorInc. Collab，2017） - 20
 - 使用说明 (未找到链接)
 - 其他信息 (未找到链接)
 
+
 ## 评论
+
 ## 外部链接
 - [Steam上的NitorInc.: Touhou Microgames!](https://store.steampowered.com/app/772260/NitorInc_Touhou_Microgames/)
 

@@ -4,6 +4,7 @@
 
 くさまくら | 社团LOGO
 
+
 ## 摘要
   
 源地址：[direct image link](http://kusamakura88.web.fc2.com/image/banner.png), [source page](http://kusamakura88.web.fc2.com/)

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-东方符卡录II封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/2/2c/%E4%B8%9C%E6%96%B9%E7%AC%A6%E5%8D%A1%E5%BD%95II%E5%B0%81%E9%9D%A2.jpg/196px-%E4%B8%9C%E6%96%B9%E7%AC%A6%E5%8D%A1%E5%BD%95II%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="196" height="137" srcset="https://upload.thwiki.cc/thumb/2/2c/%E4%B8%9C%E6%96%B9%E7%AC%A6%E5%8D%A1%E5%BD%95II%E5%B0%81%E9%9D%A2.jpg/294px-%E4%B8%9C%E6%96%B9%E7%AC%A6%E5%8D%A1%E5%BD%95II%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/2/2c/%E4%B8%9C%E6%96%B9%E7%AC%A6%E5%8D%A1%E5%BD%95II%E5%B0%81%E9%9D%A2.jpg/392px-%E4%B8%9C%E6%96%B9%E7%AC%A6%E5%8D%A1%E5%BD%95II%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="748" data-file-height="524"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>，<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a>，<a href="./琪露诺.md" title="琪露诺">琪露诺</a>，<a href="./红美铃.md" title="红美铃">红美铃</a>，<a href="./帕秋莉·诺蕾姬.md" title="帕秋莉·诺蕾姬">帕秋莉·诺蕾姬</a>，<a href="/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C" title="十六夜咲夜">十六夜咲夜</a>，<a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a>，<a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a>，<a href="./橙.md" title="橙">橙</a>，<a href="./爱丽丝·玛格特洛依德.md" title="爱丽丝·玛格特洛依德">爱丽丝·玛格特洛依德</a>，<a href="./魂魄妖梦.md" title="魂魄妖梦">魂魄妖梦</a>，<a href="./西行寺幽幽子.md" title="西行寺幽幽子">西行寺幽幽子</a>，<a href="./八云蓝.md" title="八云蓝">八云蓝</a>，<a href="./八云紫.md" title="八云紫">八云紫</a>，<a href="./上白泽慧音.md" title="上白泽慧音">上白泽慧音</a>，<a href="./铃仙·优昙华院·因幡.md" title="铃仙·优昙华院·因幡">铃仙·优昙华院·因幡</a>，<a href="./八意永琳.md" title="八意永琳">八意永琳</a>，<a href="./蓬莱山辉夜.md" title="蓬莱山辉夜">蓬莱山辉夜</a>，<a href="./藤原妹红.md" title="藤原妹红">藤原妹红</a>，<a href="./小野塚小町.md" title="小野塚小町">小野塚小町</a>，<a href="./四季映姬·夜摩仙那度.md" title="四季映姬·夜摩仙那度">四季映姬·夜摩仙那度</a>，<a href="./射命丸文.md" title="射命丸文">射命丸文</a>，<a href="./东风谷早苗.md" title="东风谷早苗">东风谷早苗</a>，<a href="./洩矢诹访子.md" title="洩矢诹访子">洩矢诹访子</a>，<a href="./比那名居天子.md" title="比那名居天子">比那名居天子</a>，<a href="./永江衣玖.md" title="永江衣玖">永江衣玖</a>，<a href="./古明地觉.md" title="古明地觉">古明地觉</a>，<a href="./火焰猫燐.md" title="火焰猫燐">火焰猫燐</a>，<a href="./灵乌路空.md" title="灵乌路空">灵乌路空</a>，<a href="./古明地恋.md" title="古明地恋">古明地恋</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://doujin.bgm.tv/subject/15384">http://doujin.bgm.tv/subject/15384</a><br><a rel="nofollow" class="external free" href="https://www.bilibili.com/video/av683397">https://www.bilibili.com/video/av683397</a></td></tr></tbody></table>
 
 东方符卡录II（同人志，洗熊公社，2013） - 2013年6月11日 由 洗熊公社 于 COMICUP12 发布的画集同人志，B4尺寸一共56页，分级为 一般向
+
 ## 预览
 - [](./文件-东方符卡录II预览图1.jpg.md)- [](./文件-东方符卡录II预览图2.jpg.md)- [](./文件-东方符卡录II预览图3.jpg.md)- [](./文件-东方符卡录II预览图4.jpg.md)- [](./文件-东方符卡录II预览图5.jpg.md)- [](./文件-东方符卡录II预览图6.jpg.md)
+
 
 ## Staff
   
@@ -68,6 +71,7 @@
 - X布
 - 鱼子
 - 愚子
+
 
 ## 评论
 

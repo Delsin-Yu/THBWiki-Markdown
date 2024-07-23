@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-ゲンソウキョウパトリオティズム_Reload_GUNLOCK封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/4/45/%E3%82%B2%E3%83%B3%E3%82%BD%E3%82%A6%E3%82%AD%E3%83%A7%E3%82%A6%E3%83%91%E3%83%88%E3%83%AA%E3%82%AA%E3%83%86%E3%82%A3%E3%82%BA%E3%83%A0_Reload_GUNLOCK%E5%B0%81%E9%9D%A2.jpg/118px-%E3%82%B2%E3%83%B3%E3%82%BD%E3%82%A6%E3%82%AD%E3%83%A7%E3%82%A6%E3%83%91%E3%83%88%E3%83%AA%E3%82%AA%E3%83%86%E3%82%A3%E3%82%BA%E3%83%A0_Reload_GUNLOCK%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="118" height="168" srcset="https://upload.thwiki.cc/thumb/4/45/%E3%82%B2%E3%83%B3%E3%82%BD%E3%82%A6%E3%82%AD%E3%83%A7%E3%82%A6%E3%83%91%E3%83%88%E3%83%AA%E3%82%AA%E3%83%86%E3%82%A3%E3%82%BA%E3%83%A0_Reload_GUNLOCK%E5%B0%81%E9%9D%A2.jpg/177px-%E3%82%B2%E3%83%B3%E3%82%BD%E3%82%A6%E3%82%AD%E3%83%A7%E3%82%A6%E3%83%91%E3%83%88%E3%83%AA%E3%82%AA%E3%83%86%E3%82%A3%E3%82%BA%E3%83%A0_Reload_GUNLOCK%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/4/45/%E3%82%B2%E3%83%B3%E3%82%BD%E3%82%A6%E3%82%AD%E3%83%A7%E3%82%A6%E3%83%91%E3%83%88%E3%83%AA%E3%82%AA%E3%83%86%E3%82%A3%E3%82%BA%E3%83%A0_Reload_GUNLOCK%E5%B0%81%E9%9D%A2.jpg/236px-%E3%82%B2%E3%83%B3%E3%82%BD%E3%82%A6%E3%82%AD%E3%83%A7%E3%82%A6%E3%83%91%E3%83%88%E3%83%AA%E3%82%AA%E3%83%86%E3%82%A3%E3%82%BA%E3%83%A0_Reload_GUNLOCK%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="270" data-file-height="384"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>，<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a>，<a href="./村纱水蜜.md" title="村纱水蜜">村纱水蜜</a>，<a href="./魂魄妖梦.md" title="魂魄妖梦">魂魄妖梦</a>，<a href="./洩矢诹访子.md" title="洩矢诹访子">洩矢诹访子</a>，<a href="./琪露诺.md" title="琪露诺">琪露诺</a></div></td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://marihani.com/rts8.html">http://marihani.com/rts8.html</a><br><span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span></td></tr></tbody></table>
 
 ゲンソウキョウパトリオティズム Reload GUNLOCK（同人志，ぷら爆屋，ああ言えばこう言う，アークポエミィ，始まりは健全に。，もいすちゃー，御風呂帝国の終焉，2011） - 2011年5月8日 由 ぷら爆屋，ああ言えばこう言う，アークポエミィ，始まりは健全に。，もいすちゃー，御風呂帝国の終焉 于 博丽神社例大祭8 发布的漫画/合同志同人志，B5尺寸一共64页，分级为 一般向
+
 ## Staff
 - ぼし (未找到链接)
 - 伊知朗 (未找到链接)
@@ -22,6 +24,7 @@
 - マイク (未找到链接)
 - 御風呂満太郎 (未找到链接)
 - 十月十日 (未找到链接)
+
 
 ## 评论
 

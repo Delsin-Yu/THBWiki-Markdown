@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Fantastic_Dream封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/3/30/Fantastic_Dream%E5%B0%81%E9%9D%A2.png/196px-Fantastic_Dream%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="196" height="139" srcset="https://upload.thwiki.cc/thumb/3/30/Fantastic_Dream%E5%B0%81%E9%9D%A2.png/294px-Fantastic_Dream%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/3/30/Fantastic_Dream%E5%B0%81%E9%9D%A2.png/392px-Fantastic_Dream%E5%B0%81%E9%9D%A2.png 2x" data-file-width="1500" data-file-height="1063"></a><div class="cover-char">角色：<a href="./哆来咪·苏伊特.md" title="哆来咪·苏伊特">哆来咪·苏伊特</a></div></td>
@@ -18,8 +19,10 @@ Fantastic Dream（同人志，こねこすけ，2019） - 2019年8月12日 由 �
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://koza-mom0.booth.pm/items/1481707">Booth</a>，<a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=539299">蜜瓜</a></td></tr></tbody></table>
 
 
+
 ## Staff
 - こざくら (未找到链接)
+
 
 ## 评论
 

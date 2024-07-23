@@ -4,6 +4,7 @@
 
 东方永夜抄 | 飘上月球，不死之烟
 
+
 ## 文件说明
   
 月まで届け、不死の煙 东方永夜抄Extra面Boss藤原妹紅的主题曲MIDI版。由Roland Sound Canvas 88Pro实机录制；MP3采样率44.1KHz，码率192Kbps。  

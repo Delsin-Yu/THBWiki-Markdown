@@ -6,11 +6,13 @@
 
 本页是关于东方Project  
  **相关实体周边 (未找到链接)** 的词条
+
 ## 模型信息
 
 <table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 水桥帕露西 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>无</td></tr><tr><td class="label">角色</td><td><a href="./水桥帕露西.md" title="水桥帕露西">水桥帕露西</a></td></tr><tr><td class="label">原型师</td><td><a href="/index.php?title=Derry&amp;action=edit&amp;redlink=1" class="new" title="Derry（页面不存在）">Derry</a></td></tr><tr><td class="label">比例</td><td>1/8</td></tr><tr><td class="label">尺寸</td><td>180 mm</td></tr><tr><td class="label">状态</td><td>已发售</td></tr><tr><td class="label">售价</td><td>8600円</td></tr><tr><td class="label">首发日期</td><td>2013-03</td></tr><tr><td class="label">发售方</td><td><a href="/index.php?title=GRIFFON&amp;action=edit&amp;redlink=1" class="new" title="GRIFFON（页面不存在）">GRIFFON</a></td></tr></tbody></table>
 
 GRIFFON/水桥帕露西（周边） - 水桥帕露西PVCFigure手办模型
+
 ## 参考图片
 - [](./文件-GRIFFON水桥帕露西-1.jpg.md)预览图1- [](./文件-GRIFFON水桥帕露西-2.jpg.md)预览图2- [](./文件-GRIFFON水桥帕露西-3.jpg.md)预览图3
 

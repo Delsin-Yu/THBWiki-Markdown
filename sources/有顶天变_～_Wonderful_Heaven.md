@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -41,11 +42,13 @@
 
 
 
+
 ## 基本信息
 
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">有頂天変　～ Wonderful Heaven</td></tr><tr><td><b>译名</b></td><td>有顶天变 ～ Wonderful Heaven</td></tr><tr><td><b>英文译名</b></td><td>Catastrophe in Bhavaagra ~ Wonderful Heaven</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 有顶天变 ～ Wonderful Heaven（曲目） - 由 ZUN 创作的官方曲目，原名 有頂天変　～ Wonderful Heaven
+
 ## 出现作品
 
 <table>
@@ -57,11 +60,15 @@
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 全人类的天乐录
+
 #### DISC1
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-TFM-003O_15.mp3.md" title="文件:TFM-003O 15.mp3">TFM-003O_15.mp3</a><br><audio src="https://upload.thwiki.cc/1/10/TFM-003O_15.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track15.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>4:06</td></tr></tbody></table>
+
 
 
 #### DISC2
@@ -69,12 +76,15 @@
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-TFM-003A_16.mp3.md" title="文件:TFM-003A 16.mp3">TFM-003A_16.mp3</a><br><audio src="https://upload.thwiki.cc/3/3f/TFM-003A_16.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track16.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>5:06</td></tr></tbody></table>
 
 
+
 ### 完全凭依唱片名录
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-TFM-009c_05.mp3.md" title="文件:TFM-009c 05.mp3">TFM-009c_05.mp3</a><br><audio src="https://upload.thwiki.cc/5/56/TFM-009c_05.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track05.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>5:50</td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 东方绯想天
 - 曲评 (未找到链接)
 
@@ -91,8 +101,11 @@
 　　天界的绿洲啊。  
   
 　　嘛但是和这曲子貌似没什么太大关系。
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
   
  **有頂天変　～ Wonderful Heaven**  有顶天变　～ Wonderful Heaven
@@ -125,6 +138,7 @@
 
 - Heaven
   - 上天、[天界](./有顶天.md)、[有顶天](./有顶天.md)。
+
 
 
 ### 二次同人数据

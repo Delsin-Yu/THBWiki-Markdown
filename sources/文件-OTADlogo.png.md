@@ -4,6 +4,7 @@
 
 OTAD | 社团LOGO
 
+
 ## 摘要
   
 源地址：[direct image link](https://web.archive.org/web/20160604202034im_/http://undergo.symphonic-net.com/images/top_1109.png), [source page](https://web.archive.org/web/20160815221109/http://undergo.symphonic-net.com/)

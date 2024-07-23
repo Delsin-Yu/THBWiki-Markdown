@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -34,11 +35,13 @@
 
 
 
+
 ## 基本信息
 
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">偶像に世界を委ねて　～ Idoratrize World</td></tr><tr><td><b>译名</b></td><td>寄世界于偶像 ～ Idoratrize World</td></tr><tr><td><b>英文译名</b></td><td>Entrust this World to Idols ~ Idolatrize World</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>关联</td></tr><tr><td style="padding-left:15px"><b>相关曲</b></td><td><a href="./Electric_Heritage.md" title="Electric Heritage" unred="">エレクトリックヘリテージ</a></td></tr><tr><td style="padding-left:15px"><b>　来源</b></td><td>东方鬼形兽　～ Wily Beast and Weakest Creature.</td></tr></tbody></table>
 
 寄世界于偶像 ～ Idoratrize World（曲目） - 由 ZUN 创作的官方曲目，原名 偶像に世界を委ねて　～ Idoratrize World
+
 ## 出现作品
 
 <table>
@@ -46,7 +49,9 @@
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 东方鬼形兽
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th17_13.mp3.md" title="文件:th17 13.mp3">th17_13.mp3</a><br><audio src="https://upload.thwiki.cc/9/94/th17_13.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>BGM\th17_13.wav</td></tr><tr><td><b>BGMForAll</b></td><td><div class="mw-collapsible mw-collapsed">
@@ -57,7 +62,9 @@
 </td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 东方鬼形兽
 - Music Room (未找到链接)
 
@@ -67,7 +74,9 @@
 　如何表现得很帅气，是这次唯一的主题（笑）  
 　因为战斗时主人公和玩家都不确定真正的敌人到底是谁，  
 　所以这首曲子中察觉不到恶意，还有些惆怅，非常清爽。
+
 ## 其他资料
+
 ### 乐理资讯
 - 使用乐器
   - SD-90 :Brite Bone
@@ -81,6 +90,7 @@
   - Trilian :TR-Code 106
   - Electri6ity :Rickenbacker Amped
   - Groove Agent 4 :Elementic
+
 
 
 ### 分析考据
@@ -98,6 +108,7 @@
 
 
 <table><tbody><tr class="tt-header" id="=-39" data-pos="&#91;&quot;=&quot;,39&#93;"><td id="" class="tt-h" lang="zh"><div class="poem"></div></td><td class="tt-ja" lang="ja"><div class="poem">偶像崇拝＝アイドルネタ</div></td><td class="tt-zh" lang="zh"><div class="poem">偶像崇拜=偶像梗</div></td></tr><tr class="tt-content" id="=-40" data-pos="&#91;&quot;=&quot;,40&#93;"><td id="——" class="tt-char" lang="zh"><div class="poem">——</div></td><td class="tt-ja" lang="ja"><div class="poem"><span style="color:green;">今回の作品ではアイドルネタがちょいちょい出てきたんですが、あれは結局ブラフというか見せ球みたいなものだったのでしょうか？</span></div></td><td class="tt-zh" lang="zh"><div class="poem"><span style="color:green;">这次作品中有不少偶像梗，那些到底是虚张声势还是误导性的线索？</span></div></td></tr><tr class="tt-content" id="=-41" data-pos="&#91;&quot;=&quot;,41&#93;"><td id="ZUN" class="tt-char" lang="zh"><div class="poem">ZUN</div></td><td class="tt-ja" lang="ja"><div class="poem">あれはあれで狙いではあります。テーマの一つなので。ずっと偶像崇拝の話をしたかったんですよね。ラスボスの二つ名だって、最初は「アイドルマスター」にしようかって思ってましたから（笑）。</div></td><td class="tt-zh" lang="zh"><div class="poem">那些是故意的。这是本作主题之一。我一直想讨论偶像崇拜的事情。最终BOSS的称号，我最初也考虑是“偶像大师”（笑）。</div></td></tr></tbody></table>
+
 
 
 ### 二次同人数据

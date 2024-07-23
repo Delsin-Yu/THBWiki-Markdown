@@ -4,7 +4,8 @@
 
 gram:folia ，于 2014 年成立，主要制作 同人音乐 的澳大利亚同人社团，主催是 Serrata，曾以 Audio Serrata 名义活动，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -21,6 +22,7 @@ gram:folia ，于 2014 年成立，主要制作 同人音乐 的澳大利亚同�
 
 
 
+
 ## 社团信息
 文件:gram：folialogo.jpg (未找到链接)  logo
 [](./文件-Audio_Serratabanner.png.md)  [](./文件-Audio_Serratabanner.png.md)banner (as Audio Serrata)
@@ -28,10 +30,13 @@ gram:folia ，于 2014 年成立，主要制作 同人音乐 的澳大利亚同�
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> gram:folia </td></tr><tr><td><b>曾用名称</b></td><td> Audio Serrata </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2014</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=Serrata&amp;action=edit&amp;redlink=1" class="new" title="Serrata（页面不存在）">Serrata</a> </td></tr><tr><td><b>地区</b></td><td>澳大利亚</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="https://www.gramfolia.com/">https://www.gramfolia.com/</a> <br><a rel="nofollow" class="external free" href="https://soundcloud.com/gramfolia">https://soundcloud.com/gramfolia</a><br><a rel="nofollow" class="external free" href="https://twitter.com/gramfolia">https://twitter.com/gramfolia</a><br><a rel="nofollow" class="external free" href="https://audioserrata.wordpress.com/">https://audioserrata.wordpress.com/</a> （旧官网）</td></tr></tbody></table>
 
 gram：folia（同人社团，同人音乐社团） - gram:folia ，于 2014 年成立，主要制作 同人音乐 的澳大利亚同人社团，主催是 Serrata，曾以 Audio Serrata 名义活动，当前状态为 活动
+
 ## 成员名单
 - Serrata (未找到链接) (f.k.a.  **Hanabi** )
 
+
 ## 作品列表
+
 ### 同人专辑
 [](./Chroma.md)[Chroma](./Chroma.md)首发日期：2014-12-09 SRT001全长 （一般向）以Audio Serrata名义发布[](./Litmus.md)[Litmus](./Litmus.md)首发日期：2016-10-01 SRT004全长 （一般向）以Audio Serrata名义发布[](./MUSCA.md)[Musca](./MUSCA.md)首发日期：2023-05-07 （第二十回 博麗神社例大祭 (未找到链接)）全长 （一般向）
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -42,7 +47,9 @@ gram：folia（同人社团，同人音乐社团） - gram:folia ，于 2014 年
 </table>
 
 
+
 ## 参展信息
+
 ## 其他信息
   
   

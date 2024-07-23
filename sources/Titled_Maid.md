@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -41,11 +42,13 @@
 
 
 
+
 ## 基本信息
 
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">タイトルドメイド</td></tr><tr><td><b>译名</b></td><td>Titled Maid</td></tr><tr><td><b>其他译名</b></td><td>有头衔的女仆</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 Titled Maid（曲目） - 由 ZUN 创作的官方曲目，原名 タイトルドメイド
+
 ## 出现作品
 
 <table>
@@ -53,7 +56,9 @@ Titled Maid（曲目） - 由 ZUN 创作的官方曲目，原名 タイトルド
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 秋霜玉
   
 MP3由Roland SC-88Pro 实机录制。官方只发布MIDI而未发布MP3，故音轨长度以从游戏中提取的原MIDI文件为准。
@@ -63,8 +68,11 @@ MP3由Roland SC-88Pro 实机录制。官方只发布MIDI而未发布MP3，故音
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td><a href="./文件-sh01_20.mid.md" title="文件:sh01 20.mid">sh01_20.mid</a></td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-SE01_20.mp3.md" title="文件:SE01 20.mp3">SE01_20.mp3</a><br><audio src="https://upload.thwiki.cc/7/79/SE01_20.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>MUSIC\DATA0019（MIDI）</td></tr><tr><td><b>音轨时长</b></td><td>4:37</td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 秋霜玉
+
 #### Music Room
 - Music Room (未找到链接)
 
@@ -78,6 +86,7 @@ MP3由Roland SC-88Pro 实机录制。官方只发布MIDI而未发布MP3，故音
   
 这种阴暗并不是哀愁和怀古之类，  
 硬要说的话，是绝望？（^^;Titled Maid
+
 #### 创曲幻想
 - 创曲幻想 (未找到链接)
 
@@ -85,8 +94,11 @@ MP3由Roland SC-88Pro 实机录制。官方只发布MIDI而未发布MP3，故音
   
 Titled Maid&#160;: 英雄女仆  
 虽然阴暗，但却是有头衔的女仆。
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
   
  **タイトルドメイド**   Titled Maid
@@ -101,6 +113,7 @@ Titled Maid&#160;: 英雄女仆
 - メイド（Maid）
   - ‎女仆
     - VIVIT
+
 
 
 

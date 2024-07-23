@@ -6,6 +6,7 @@ JynX作曲 | MO-NA-D-1_～_记忆追踪 | 引用了翻译表的页面 | 连缘Pr
 
 本页是关于 **向[东方Project](./东方Project.md)  
 致敬、形式类似的作品** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -26,6 +27,7 @@ JynX作曲 | MO-NA-D-1_～_记忆追踪 | 引用了翻译表的页面 | 连缘Pr
 
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
+
 
 
 
@@ -67,6 +69,7 @@ JynX作曲 | MO-NA-D-1_～_记忆追踪 | 引用了翻译表的页面 | 连缘Pr
 </td></tr></tbody></table>
 
 
+
 ## 出现作品
 
 <table>
@@ -75,13 +78,17 @@ JynX作曲 | MO-NA-D-1_～_记忆追踪 | 引用了翻译表的页面 | 连缘Pr
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 连缘天影战记
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>MIDI格式</b></td><td>无播放信息</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-le04_BOSS_Suzumi_02.mp3.md" title="文件:le04 BOSS Suzumi 02.mp3">le04_BOSS_Suzumi_02.mp3</a><br><audio src="https://upload.thwiki.cc/1/16/le04_BOSS_Suzumi_02.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>未填写</td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 连缘天影战记
 - Music Room (未找到链接)
 
@@ -99,8 +106,11 @@ JynX作曲 | MO-NA-D-1_～_记忆追踪 | 引用了翻译表的页面 | 连缘Pr
   
 你是—！？  
 喔～是我哟，老爹～（哔哩哔哩哔[^cite_note-1]
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
 [^cite_note-1]: neta自鲁邦三世与他的对手钱形警部之间的对话。 ~~具体neta了什么需要一位看过鲁邦三世的朋友进行补充~~ 
 

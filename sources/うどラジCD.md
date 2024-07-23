@@ -18,6 +18,7 @@
 
 
 </center>
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-うどラジCD封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/5/57/%E3%81%86%E3%81%A9%E3%83%A9%E3%82%B8CD%E5%B0%81%E9%9D%A2.jpg/280px-%E3%81%86%E3%81%A9%E3%83%A9%E3%82%B8CD%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="280" height="280" srcset="https://upload.thwiki.cc/thumb/5/57/%E3%81%86%E3%81%A9%E3%83%A9%E3%82%B8CD%E5%B0%81%E9%9D%A2.jpg/420px-%E3%81%86%E3%81%A9%E3%83%A9%E3%82%B8CD%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/5/57/%E3%81%86%E3%81%A9%E3%83%A9%E3%82%B8CD%E5%B0%81%E9%9D%A2.jpg/560px-%E3%81%86%E3%81%A9%E3%83%A9%E3%82%B8CD%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="600" data-file-height="600"></a><div class="cover-char">角色：<a href="./铃仙·优昙华院·因幡.md" title="铃仙·优昙华院·因幡">铃仙·优昙华院·因幡</a>，<a href="./八意永琳.md" title="八意永琳">八意永琳</a>，<a href="./因幡帝.md" title="因幡帝">因幡天为</a>，<a href="./梅蒂欣·梅兰可莉.md" title="梅蒂欣·梅兰可莉">梅蒂欣·梅兰可莉</a></div></td>
@@ -28,6 +29,7 @@
 うどラジCD（同人专辑，だんだん組，2013） - 2013年7月7日 由 だんだん組 于 东方铃仙祭3 发布的配音作品同人专辑，曲目主要风格是 其他，分级为 一般向
 
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=903863">蜜瓜DL版</a>，<a rel="nofollow" class="external text" href="https://shop.akbh.jp/products/2100000016631">AkibaHOBBY</a>，<a rel="nofollow" class="external text" href="https://teamdang2.booth.pm/items/1925760">Booth</a></td></tr></tbody></table>
+
 
 
 ## Staff
@@ -46,6 +48,7 @@ Illustration ： pixiv からあげ太郎凡（RUMP）
 かかみがわとうこ  
 [成田りん](http://milk-candy.jp/)
 
+
 ## 试听
   
 <iframe width="100%" height="180" src="https://ext.nicovideo.jp/thumb/sm34855877" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/watch/sm34855877">,</a></iframe>
@@ -63,9 +66,11 @@ Illustration ： pixiv からあげ太郎凡（RUMP）
 </td></tr></tbody></table>
 
 
+
 ## 曲目列表
 
 <table></table>
+
 
 
 ## 评论

@@ -4,6 +4,7 @@
 
 东方红魔乡 | 月时计_～_Luna_Dial
 
+
 ## 文件说明
   
 月時計　～ ルナ・ダイアル 东方红魔乡5面Boss十六夜咲夜的主题曲MIDI版。由Roland Sound Canvas 88Pro实机录制；MP3采样率44.1KHz，码率192Kbps。  

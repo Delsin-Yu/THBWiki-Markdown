@@ -8,6 +8,7 @@
 原作中并没有符卡编号，为了方便整理才加的。
   
 
+
 ## 目录
 
 - [1 Stage 1](#Stage_1)
@@ -20,11 +21,13 @@
 
 
 
+
 ## Stage 1
 
 <table>
 <tbody><tr><td width="80">符卡编号</td><td width="400">01</td><td rowspan="3" width="120"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E4%B8%9C%E6%96%B9%E7%81%B5%E5%AF%BB%E6%A2%A6%E7%AC%A6%E5%8D%A101.jpg" class="new" title="文件:东方灵寻梦符卡01.jpg">文件:东方灵寻梦符卡01.jpg</a></td></tr>
 <tr><td>符卡原名</td><td>寒符「至少 像那雪一样」<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">1</a></sup></td></tr><tr><td>出现位置</td><td>Stage 1（<a href="./琪露诺.md" title="琪露诺">琪露诺</a>）</td></tr></tbody></table>
+
 
 
 ## Stage 2
@@ -38,6 +41,7 @@
 <table>
 <tbody><tr><td width="80">符卡编号</td><td width="400">03</td><td rowspan="3" width="120"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E4%B8%9C%E6%96%B9%E7%81%B5%E5%AF%BB%E6%A2%A6%E7%AC%A6%E5%8D%A103.jpg" class="new" title="文件:东方灵寻梦符卡03.jpg">文件:东方灵寻梦符卡03.jpg</a></td></tr>
 <tr><td>符卡原名</td><td>断罪「黑与白的牢笼」<sup id="cite_ref-Ikagura_2-1" class="reference"><a href="#cite_note-Ikagura-2">2</a></sup></td></tr><tr><td>出现位置</td><td>Stage 2（<a href="./四季映姬·夜摩仙那度.md" title="四季映姬·夜摩仙那度">四季映姬·夜摩仙那度</a>）</td></tr></tbody></table>
+
 
 
 ## Stage 3
@@ -59,6 +63,7 @@
 <tr><td>符卡原名</td><td>四象天仪「来自黑历史的遗物」<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">5</a></sup></td></tr><tr><td>出现位置</td><td>Stage 3（<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a>）</td></tr></tbody></table>
 
 
+
 ## Stage 4
 
 <table>
@@ -78,6 +83,7 @@
 <tr><td>符卡原名</td><td>禁忌「超次元破坏」<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">8</a></sup></td></tr><tr><td>出现位置</td><td>Stage 4（<a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a>）</td></tr></tbody></table>
 
 
+
 ## Stage 5
 
 <table>
@@ -95,6 +101,7 @@
 <table>
 <tbody><tr><td width="80">符卡编号</td><td width="400">12</td><td rowspan="3" width="120"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E4%B8%9C%E6%96%B9%E7%81%B5%E5%AF%BB%E6%A2%A6%E7%AC%A6%E5%8D%A112.jpg" class="new" title="文件:东方灵寻梦符卡12.jpg">文件:东方灵寻梦符卡12.jpg</a></td></tr>
 <tr><td>符卡原名</td><td>结界 Lv.5「某科学的弹幕穿越」<sup id="cite_ref-toaru_11-0" class="reference"><a href="#cite_note-toaru-11">11</a></sup></td></tr><tr><td>出现位置</td><td>Stage 5（<a href="./八云蓝.md" title="八云蓝">八云蓝</a>）</td></tr></tbody></table>
+
 
 
 ## Stage 6

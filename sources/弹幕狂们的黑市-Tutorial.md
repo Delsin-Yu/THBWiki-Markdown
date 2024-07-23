@@ -28,6 +28,7 @@
 
   
 
+
 ## 目录
 
 - [1 豪德寺三花](#豪德寺三花)
@@ -46,7 +47,9 @@
 
 
 
+
 ## 豪德寺三花
+
 ### 招符「弹幕万来」
 
 <table>
@@ -60,9 +63,10 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="/%E6%8B%9B%E7%AC%A6%E3%80%8C%E5%BC%B9%E5%B9%95%E4%B8%87%E6%9D%A5%E3%80%8D" class="mw-redirect" title="招符「弹幕万来」">招符「弹幕万来」</a>
+<p><a href="./招符「弹幕万来」.md" class="mw-redirect" title="招符「弹幕万来」">招符「弹幕万来」</a>
 </p>
 </th></tr></tbody></table>
+
 
 
 #### 符卡信息
@@ -76,6 +80,7 @@
 <p>Tutorial BOSS<a href="./豪德寺三花.md" title="豪德寺三花">豪德寺三花</a>符卡。
 </p>
 </td></tr></tbody></table>
+
 
 
 

@@ -4,7 +4,8 @@
 
 HEKATONCHEIR BEATS ，于 2011 年成立，主要制作 同人音乐 的日本同人社团，主催是 siromaru，当前状态为 转入非东方
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -26,16 +27,20 @@ HEKATONCHEIR BEATS ，于 2011 年成立，主要制作 同人音乐 的日本�
 
 
 
+
 ## 社团信息
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> HEKATONCHEIR BEATS </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2011</td></tr><tr><td><b>当前状态</b></td><td>转入非东方</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=siromaru&amp;action=edit&amp;redlink=1" class="new" title="siromaru（页面不存在）">siromaru</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://www.hekatoncheirbeats.jp/index.html">http://www.hekatoncheirbeats.jp/index.html</a> </td></tr></tbody></table>
 
 HEKATONCHEIR BEATS（同人社团，同人音乐社团） - HEKATONCHEIR BEATS ，于 2011 年成立，主要制作 同人音乐 的日本同人社团，主催是 siromaru，当前状态为 转入非东方
+
 ## 成员名单
 - siromaru (未找到链接)
 - ZOONOODLE (未找到链接)
 
+
 ## 作品列表
+
 ### 同人专辑
 [](./東方酒乱集・弐.md)[東方酒乱集・弐](./東方酒乱集・弐.md)首发日期：2011-12-30 （Comic Market 81 (未找到链接)）HKCD-0002全长、​合作 （一般向）[](./Far_East_Collapse_Assault.md)[Far East Collapse Assault](./Far_East_Collapse_Assault.md)首发日期：2012-12-30 （Comic Market 83 (未找到链接)）HKCD-0005全长 （一般向）[](./⇒Prick_Trick.md)[⇒Prick Trick](./⇒Prick_Trick.md)首发日期：2013-08-12 （Comic Market 84 (未找到链接)）HKCD-0006EP （一般向）
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -46,8 +51,11 @@ HEKATONCHEIR BEATS（同人社团，同人音乐社团） - HEKATONCHEIR BEATS �
 </table>
 
 
+
 ## 参展信息
+
 ## 其他信息
+
 ### 相关社团
 Lolita Comp Records
 : 社团前身；是ZOONOODLE的个人社团。

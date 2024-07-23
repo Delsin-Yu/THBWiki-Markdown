@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-AZUR_CONCERTO封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/9/99/AZUR_CONCERTO%E5%B0%81%E9%9D%A2.jpg/196px-AZUR_CONCERTO%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="196" height="130" srcset="https://upload.thwiki.cc/thumb/9/99/AZUR_CONCERTO%E5%B0%81%E9%9D%A2.jpg/294px-AZUR_CONCERTO%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/9/99/AZUR_CONCERTO%E5%B0%81%E9%9D%A2.jpg/392px-AZUR_CONCERTO%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1437" data-file-height="950"></a><div class="cover-char">角色：<a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a>，<a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a>，<a href="/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C" title="十六夜咲夜">十六夜咲夜</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=47689171">https://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=47689171</a><br><a rel="nofollow" class="external free" href="http://kirero.xxxxxxxx.jp/AzurConterto/">http://kirero.xxxxxxxx.jp/AzurConterto/</a></td></tr></tbody></table>
 
 AZUR CONCERTO（同人志，KirororO，2014） - 2014年12月29日 由 KirororO 于 Comic Market 87 发布的漫画/总集同人志，B6尺寸一共108页，分级为 一般向
+
 ## Staff
 - [kirero](./kirero.md)
+
 
 ## 评论
 - 作者评论

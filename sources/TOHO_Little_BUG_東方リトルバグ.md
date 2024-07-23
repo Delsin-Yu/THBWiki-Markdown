@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-TOHO_Little_BUG_東方リトルバグ封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/5/57/TOHO_Little_BUG_%E6%9D%B1%E6%96%B9%E3%83%AA%E3%83%88%E3%83%AB%E3%83%90%E3%82%B0%E5%B0%81%E9%9D%A2.jpg/120px-TOHO_Little_BUG_%E6%9D%B1%E6%96%B9%E3%83%AA%E3%83%88%E3%83%AB%E3%83%90%E3%82%B0%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="120" height="168" srcset="https://upload.thwiki.cc/thumb/5/57/TOHO_Little_BUG_%E6%9D%B1%E6%96%B9%E3%83%AA%E3%83%88%E3%83%AB%E3%83%90%E3%82%B0%E5%B0%81%E9%9D%A2.jpg/180px-TOHO_Little_BUG_%E6%9D%B1%E6%96%B9%E3%83%AA%E3%83%88%E3%83%AB%E3%83%90%E3%82%B0%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/5/57/TOHO_Little_BUG_%E6%9D%B1%E6%96%B9%E3%83%AA%E3%83%88%E3%83%AB%E3%83%90%E3%82%B0%E5%B0%81%E9%9D%A2.jpg/240px-TOHO_Little_BUG_%E6%9D%B1%E6%96%B9%E3%83%AA%E3%83%88%E3%83%AB%E3%83%90%E3%82%B0%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="500" data-file-height="699"></a><div class="cover-char">角色：<a href="./莉格露·奈特巴格.md" title="莉格露·奈特巴格">莉格露·奈特巴格</a></div></td>
@@ -14,12 +15,15 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/4679755">https://www.pixiv.net/artworks/4679755</a></td></tr></tbody></table>
 
 TOHO Little BUG 東方リトルバグ（同人志，羊箱，2009） - 2009年6月21日 由 羊箱 于 东方崇敬祭1 发布的漫画同人志，一共20页，登场人物有 莉格露·奈特巴格，分级为 一般向
+
 ## 预览
+
 ## Staff
 - [羊箱](./羊箱.md)
 - 軽 (未找到链接)
 - 粗茶 (未找到链接)
 - おぶい (未找到链接)
+
 
 ## 评论
 

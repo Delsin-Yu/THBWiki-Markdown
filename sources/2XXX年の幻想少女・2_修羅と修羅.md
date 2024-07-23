@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-2XXX年の幻想少女・2_修羅と修羅封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/4/4d/2XXX%E5%B9%B4%E3%81%AE%E5%B9%BB%E6%83%B3%E5%B0%91%E5%A5%B3%E3%83%BB2_%E4%BF%AE%E7%BE%85%E3%81%A8%E4%BF%AE%E7%BE%85%E5%B0%81%E9%9D%A2.jpg/134px-2XXX%E5%B9%B4%E3%81%AE%E5%B9%BB%E6%83%B3%E5%B0%91%E5%A5%B3%E3%83%BB2_%E4%BF%AE%E7%BE%85%E3%81%A8%E4%BF%AE%E7%BE%85%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="134" height="196" srcset="https://upload.thwiki.cc/thumb/4/4d/2XXX%E5%B9%B4%E3%81%AE%E5%B9%BB%E6%83%B3%E5%B0%91%E5%A5%B3%E3%83%BB2_%E4%BF%AE%E7%BE%85%E3%81%A8%E4%BF%AE%E7%BE%85%E5%B0%81%E9%9D%A2.jpg/200px-2XXX%E5%B9%B4%E3%81%AE%E5%B9%BB%E6%83%B3%E5%B0%91%E5%A5%B3%E3%83%BB2_%E4%BF%AE%E7%BE%85%E3%81%A8%E4%BF%AE%E7%BE%85%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/4/4d/2XXX%E5%B9%B4%E3%81%AE%E5%B9%BB%E6%83%B3%E5%B0%91%E5%A5%B3%E3%83%BB2_%E4%BF%AE%E7%BE%85%E3%81%A8%E4%BF%AE%E7%BE%85%E5%B0%81%E9%9D%A2.jpg/267px-2XXX%E5%B9%B4%E3%81%AE%E5%B9%BB%E6%83%B3%E5%B0%91%E5%A5%B3%E3%83%BB2_%E4%BF%AE%E7%BE%85%E3%81%A8%E4%BF%AE%E7%BE%85%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="307" data-file-height="450"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>，<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a>，<a href="/index.php?title=%E5%8E%9F%E5%88%9B%E8%A7%92%E8%89%B2&amp;action=edit&amp;redlink=1" class="new" title="原创角色（页面不存在）">原创角色</a></div></td>
@@ -14,11 +15,13 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://maskman.jp/comike92/">http://maskman.jp/comike92/</a></td></tr></tbody></table>
 
 2XXX年の幻想少女・2 修羅と修羅（同人志，La Mort Rouge，2017） - 2017年8月11日 由 La Mort Rouge 于 Comic Market 92 发布的小说同人志，文库版尺寸一共328页，分级为 一般向
+
 ## Staff
 作家
 : 仮面の男 （[La Mort Rouge](./La_Mort_Rouge.md)）
 画师
 : [EO](./EO.md)
+
 
 ## 评论
 ```

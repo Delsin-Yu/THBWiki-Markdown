@@ -6,12 +6,14 @@
 
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 软件信息](#软件信息)
 - [2 Staff](#Staff)
 - [3 内容页面](#内容页面)
 - [4 评论](#评论)
+
 
 
 
@@ -40,17 +42,20 @@ Reach for the Moon, Immortal Smoke!（同人游戏，MagpieTeahouse，2021） - 
 </tbody></table>
 
 
+
 ## Staff
 Art &amp; Music
 : barukowo （[MagpieTeahouse](./MagpieTeahouse.md)）
 Programming &amp; Gameplay
 : Capellan （[MagpieTeahouse](./MagpieTeahouse.md)）
 
+
 ## 内容页面
 - 游戏设定与剧情 (未找到链接)
 - 攻略 (未找到链接)
 - 其他信息 (未找到链接)
 - 原声集：[Reach for the Moon, Immortal Smoke!（同人专辑）](./Reach_for_the_Moon,_Immortal_Smoke!（同人专辑）.md)
+
 
 ## 评论
 

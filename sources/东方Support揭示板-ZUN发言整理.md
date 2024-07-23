@@ -41,6 +41,7 @@ ZUN | 东方揭示板 | 使用了翻译表的页面 | 引用了翻译表的页�
 <table><tbody><tr class="tt-content-header" id="=-33" data-pos="&#91;&quot;=&quot;,33&#93;"><td class="tt-jah" lang="ja"><div class="poem">2344 外国人買えますか？ マーク 〔2004/07/19-07:12〕</div></td><td class="tt-zhh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-content" id="=-34" data-pos="&#91;&quot;=&quot;,34&#93;"><td class="tt-ja" lang="ja"><div class="poem">こんにちは、<br><br>外国人はShanghai Aliceのゲームを買えますか？　私と友達には、このゲームは大好きで買いたいですが、<br>イギリスの店にありません。　日本のシューチングゲームが好きだ人はイギイスがたくさんいます<br>（www.yakyak.orgのBBSではなしてります）。<br><br>（私は日本語の生徒だから、可笑しな日本語でかきます。。ごめんなさい。。</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-content-header" id="=-35" data-pos="&#91;&quot;=&quot;,35&#93;"><td class="tt-jah" lang="ja"><div class="poem">2346 RE:外国人買えますか？ ZUN＠管理人 〔2004/07/19-16:00〕</div></td><td class="tt-zhh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-content" id="=-36" data-pos="&#91;&quot;=&quot;,36&#93;"><td class="tt-ja" lang="ja"><div class="poem">現在、海外での販売は行っておりません。<br>もちろん、外国人でも日本に来ていただければ買う事は可能ですが^^;<br><br>ただし、当ゲームは日本語OSでないと正常に動作しない<br>（ゲーム内のメッセージが表示できない）のでご注意下さい。</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr></tbody></table>
 
 
+
 ## 补充
 - ZUN曾在Support揭示板上就部分版权相关问题做出解答，这一部分内容后被整理归档至[关于本社团的创作物的二次创作·使用关联](http://www.geocities.co.jp/Playtown-Yoyo/1736/t-081.html)页面。
 

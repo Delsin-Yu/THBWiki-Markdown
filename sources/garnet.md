@@ -4,7 +4,8 @@
 
 garnet ，主要制作 同人志 的日本同人社团，主催是 garnet（现实人物），当前状态为 休止
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -20,18 +21,22 @@ garnet ，主要制作 同人志 的日本同人社团，主催是 garnet（现�
 
 
 
+
 ## 社团信息
 文件:garnetbanner.png (未找到链接)  banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> garnet </td></tr><tr><td><b>主要作品类型</b></td><td>同人志</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=garnet%EF%BC%88%E7%8E%B0%E5%AE%9E%E4%BA%BA%E7%89%A9%EF%BC%89&amp;action=edit&amp;redlink=1" class="new" title="garnet（现实人物）（页面不存在）">garnet（现实人物）</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://garnet.jougennotuki.com/">http://garnet.jougennotuki.com/</a> </td></tr></tbody></table>
 
 garnet（同人社团，同人志社团） - garnet ，主要制作 同人志 的日本同人社团，主催是 garnet（现实人物），当前状态为 休止
+
 ## 成员名单
 - garnet (未找到链接)
 
 : [Twitter: @garnet_](https://twitter.com/garnet_), [Pixiv ID: 83452](https://www.pixiv.net/users/83452), Tumblr: [garnet-illust-page](https://garnet-illust-page.tumblr.com/), [garnet3a](https://garnet3a.tumblr.com/)
 
+
 ## 作品列表
+
 ### 同人志
 First Contact 封面图片 (未找到链接)First Contact（同人志） (未找到链接)首发日期：未知 - 八雲紫紀行文　紫が行 封面图片 (未找到链接)八雲紫紀行文 紫が行 (未找到链接)首发日期：未知 - 八雲紫紀行　紫が行く 封面图片 (未找到链接)八雲紫紀行 紫が行く (未找到链接)首发日期：未知 - 紫の幻想ロマンチカ 封面图片 (未找到链接)紫の幻想ロマンチカ (未找到链接)首发日期：未知 - 東方project色彩企画合同誌「彩景」 封面图片 (未找到链接)東方project色彩企画合同誌「彩景」 (未找到链接)首发日期：未知 - 紫の幻想ロマンチカ vol.2 封面图片 (未找到链接)紫の幻想ロマンチカ vol.2 (未找到链接)首发日期：未知 - 幻想郷ノスタルジア 封面图片 (未找到链接)幻想郷ノスタルジア (未找到链接)首发日期：未知 - 退廃メトロノウム 封面图片 (未找到链接)退廃メトロノウム (未找到链接)首发日期：未知 - 日常フルオレセンス 封面图片 (未找到链接)日常フルオレセンス (未找到链接)首发日期：未知 - 季節彩景 封面图片 (未找到链接)季節彩景 (未找到链接)首发日期：未知 - 紫十景 封面图片 (未找到链接)紫十景 (未找到链接)首发日期：未知 - 蒼空レゾナンス 封面图片 (未找到链接)蒼空レゾナンス (未找到链接)首发日期：未知 - FLAT PATTERNS 封面图片 (未找到链接)FLAT PATTERNS (未找到链接)首发日期：未知 - 幻想式レトロスペクト 封面图片 (未找到链接)幻想式レトロスペクト (未找到链接)首发日期：未知 - 迷イ家 封面图片 (未找到链接)迷イ家 (未找到链接)首发日期：未知 - 幻想探訪記 封面图片 (未找到链接)幻想探訪記 (未找到链接)首发日期：未知 - ONEDAYS幻想郷 封面图片 (未找到链接)ONEDAYS幻想郷 (未找到链接)首发日期：未知 - 幻想ポリリズム 封面图片 (未找到链接)幻想ポリリズム (未找到链接)首发日期：未知 - 八雲家の日常 封面图片 (未找到链接)八雲家の日常（garnet） (未找到链接)首发日期：未知 - 紫が行く 封面图片 (未找到链接)紫が行く (未找到链接)首发日期：未知 - 八雲紫と幻想郷の夏 封面图片 (未找到链接)八雲紫と幻想郷の夏 (未找到链接)首发日期：未知 - 東方イラスト総集編 空色トキシン 封面图片 (未找到链接)東方イラスト総集編 空色トキシン (未找到链接)首发日期：未知 - YUKARI YAKUMO 封面图片 (未找到链接)YUKARI YAKUMO (未找到链接)首发日期：未知 - RELEVANT ILLUSRATIONS 封面图片 (未找到链接)RELEVANT ILLUSRATIONS (未找到链接)首发日期：未知 - 縦‐タテ‐ 封面图片 (未找到链接)縦‐タテ‐ (未找到链接)首发日期：未知 - 三次元 封面图片 (未找到链接)三次元 (未找到链接)首发日期：未知 - 
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -60,6 +65,7 @@ First Contact 封面图片 (未找到链接)First Contact（同人志） (未找
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458"></table>
+
 
 
 ## 参展信息

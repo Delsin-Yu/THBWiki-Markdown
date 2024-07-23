@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-東方眠世界_~_Wonderful_Waking_World：_Partial_Soundtrack封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/a/a5/%E6%9D%B1%E6%96%B9%E7%9C%A0%E4%B8%96%E7%95%8C_~_Wonderful_Waking_World%EF%BC%9A_Partial_Soundtrack%E5%B0%81%E9%9D%A2.jpg/252px-%E6%9D%B1%E6%96%B9%E7%9C%A0%E4%B8%96%E7%95%8C_~_Wonderful_Waking_World%EF%BC%9A_Partial_Soundtrack%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="252" srcset="https://upload.thwiki.cc/thumb/a/a5/%E6%9D%B1%E6%96%B9%E7%9C%A0%E4%B8%96%E7%95%8C_~_Wonderful_Waking_World%EF%BC%9A_Partial_Soundtrack%E5%B0%81%E9%9D%A2.jpg/378px-%E6%9D%B1%E6%96%B9%E7%9C%A0%E4%B8%96%E7%95%8C_~_Wonderful_Waking_World%EF%BC%9A_Partial_Soundtrack%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/a/a5/%E6%9D%B1%E6%96%B9%E7%9C%A0%E4%B8%96%E7%95%8C_~_Wonderful_Waking_World%EF%BC%9A_Partial_Soundtrack%E5%B0%81%E9%9D%A2.jpg/504px-%E6%9D%B1%E6%96%B9%E7%9C%A0%E4%B8%96%E7%95%8C_~_Wonderful_Waking_World%EF%BC%9A_Partial_Soundtrack%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1200" data-file-height="1200"></a><div class="cover-char">角色：<a href="./蕾瓦伦斯·U'n-利萨基.md" title="蕾瓦伦斯·U&#39;n-利萨基">蕾瓦伦斯·U'n-利萨基</a></div></td>
@@ -18,6 +19,7 @@
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://sincx.bandcamp.com/album/wonderful-waking-world-partial-soundtrack">bandcamp</a></td></tr></tbody></table>
 
 
+
 ## Staff
   
  **Compose**   
@@ -28,11 +30,13 @@
 Cover Art
 : Oligarchomp （[itch.io: oligarchomp](https://oligarchomp.itch.io/)）
 
+
 ## 试听
   
 <iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1454377426&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=false"></iframe>
 
   
+
 
 ## 曲目列表
 
@@ -44,6 +48,7 @@ Cover Art
 <tr><td id="6" class="infoYL"><b>06</b></td><td id="Draining_Water_and_Blood" colspan="2" class="title">Draining Water and Blood<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=sincx&amp;fromwiki=東方眠世界_~_Wonderful_Waking_World：_Partial_Soundtrack"><span title="搜索相似同人曲"></span></a></span></td><td class="time">00:55</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=sincx&amp;action=edit&amp;redlink=1" class="new" title="sincx（页面不存在）">sincx</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，sincx&amp;fromwiki=東方眠世界_~_Wonderful_Waking_World：_Partial_Soundtrack"><span></span></a></span></td></tr>
 <tr><td id="7" class="infoYL"><b>07</b></td><td id="Eternal_Wonderful_Dream" colspan="2" class="title">Eternal Wonderful Dream<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=sincx&amp;fromwiki=東方眠世界_~_Wonderful_Waking_World：_Partial_Soundtrack"><span title="搜索相似同人曲"></span></a></span></td><td class="time">01:02</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=sincx&amp;action=edit&amp;redlink=1" class="new" title="sincx（页面不存在）">sincx</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，sincx&amp;fromwiki=東方眠世界_~_Wonderful_Waking_World：_Partial_Soundtrack"><span></span></a></span></td></tr>
 <tr><td id="8" class="infoYL"><b>08</b></td><td id="Unused_Song" colspan="2" class="title">Unused Song<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=sincx&amp;fromwiki=東方眠世界_~_Wonderful_Waking_World：_Partial_Soundtrack"><span title="搜索相似同人曲"></span></a></span></td><td class="time">00:56</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=sincx&amp;action=edit&amp;redlink=1" class="new" title="sincx（页面不存在）">sincx</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，sincx&amp;fromwiki=東方眠世界_~_Wonderful_Waking_World：_Partial_Soundtrack"><span></span></a></span></td></tr></tbody></table>
+
 
 
 ## 评论

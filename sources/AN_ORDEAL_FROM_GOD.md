@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -34,11 +35,13 @@
 
 
 
+
 ## 基本信息
 
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">AN ORDEAL FROM GOD</td></tr><tr><td><b>译名</b></td><td>AN ORDEAL FROM GOD</td></tr><tr><td><b>其他译名</b></td><td>来自神的考验</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 AN ORDEAL FROM GOD（曲目） - 由 ZUN 创作的官方曲目，原名 AN ORDEAL FROM GOD
+
 ## 出现作品
 
 <table>
@@ -47,17 +50,25 @@ AN ORDEAL FROM GOD（曲目） - 由 ZUN 创作的官方曲目，原名 AN ORDEA
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 东方幻想麻将
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-DNAS-MJST_29.mp3.md" title="文件:DNAS-MJST 29.mp3">DNAS-MJST 29.mp3</a><br><audio src="https://upload.thwiki.cc/4/46/DNAS-MJST_29.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>mp3</td></tr><tr><td><b>音轨时长</b></td><td>1:42</td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 神魔讨绮传
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
+
 ### 二次同人数据
 
 <table><tbody><tr><th colspan="2">统计</th></tr>

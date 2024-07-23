@@ -4,6 +4,7 @@
 
 GENSOKYOxDEFECATOR | 社团LOGO
 
+
 ## 文件说明
   
 源地址：[VK Logo](https://sun9-9.userapi.com/c5822/g11397034/a_ee74e9f8.jpg)

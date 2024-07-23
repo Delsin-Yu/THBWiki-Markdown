@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-INVEIGLEMENT封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/d/da/INVEIGLEMENT%E5%B0%81%E9%9D%A2.jpg/159px-INVEIGLEMENT%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="159" height="224" srcset="https://upload.thwiki.cc/thumb/d/da/INVEIGLEMENT%E5%B0%81%E9%9D%A2.jpg/238px-INVEIGLEMENT%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/d/da/INVEIGLEMENT%E5%B0%81%E9%9D%A2.jpg/318px-INVEIGLEMENT%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="401" data-file-height="565"></a><div class="cover-char">角色：<a href="./宇佐见莲子.md" title="宇佐见莲子">宇佐见莲子</a>，<a href="./玛艾露贝莉·赫恩.md" title="玛艾露贝莉·赫恩">玛艾露贝莉·赫恩</a></div></td>
@@ -14,9 +15,11 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/star_map2/status/652813551078248449">https://twitter.com/star_map2/status/652813551078248449</a></td></tr></tbody></table>
 
 INVEIGLEMENT（同人志，star☆map，2015） - 2015年10月12日 由 star☆map 于 科学世纪的露天咖啡座5 发布的摄影集同人志，A5尺寸一共12页，登场人物有 宇佐见莲子、玛艾露贝莉·赫恩，分级为 一般向
+
 ## Staff
 - 柚子 (未找到链接)
 - あみり (未找到链接)
+
 
 ## 评论
   

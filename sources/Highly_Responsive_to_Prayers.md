@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -37,11 +38,13 @@
 
 
 
+
 ## 基本信息
 
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">Highly Responsive to Prayers</td></tr><tr><td><b>译名</b></td><td>Highly Responsive to Prayers</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 Highly Responsive to Prayers（曲目） - 由 ZUN 创作的官方曲目，原名 Highly Responsive to Prayers
+
 ## 出现作品
 
 <table>
@@ -51,10 +54,13 @@ Highly Responsive to Prayers（曲目） - 由 ZUN 创作的官方曲目，原�
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 东方灵异传
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-Highly_Responsive.mp3.md" title="文件:Highly Responsive.mp3">Highly Responsive.mp3</a><br><audio src="https://upload.thwiki.cc/a/a9/Highly_Responsive.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>ST1.MDT</td></tr><tr><td><b>音轨时长</b></td><td>4:13</td></tr></tbody></table>
+
 
 
 ### 东方怪绮谈
@@ -74,16 +80,20 @@ YM2608(OPNA)，FM86音源版。
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th05_R_04_2.ogg.md" title="文件:th05 R 04 2.ogg">th05_R_04_2.ogg</a><br><audio src="https://upload.thwiki.cc/4/45/th05_R_04_2.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>R_03.M2</td></tr><tr><td><b>音轨时长</b></td><td>1:28.413</td></tr></tbody></table>
 
 
+
 ### 幺乐团的历史 vol.5
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-ha05_04.mp3.md" title="文件:ha05 04.mp3">ha05_04.mp3</a><br><audio src="https://upload.thwiki.cc/7/7b/ha05_04.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track04.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>3:26</td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 东方灵异传
 - Music Test (未找到链接)
 
 　献给神明之魂　　～Highly Responsive to Prayers     　　　　　　　　　　　　　                                                               Composer  ZUN
+
 ### 东方怪绮谈
 - Music Room (未找到链接)
 
@@ -97,10 +107,13 @@ YM2608(OPNA)，FM86音源版。
 ＺＵＮ（太田）  
 灵异传曲目。  
 特别Arrange版
+
 ## 其他资料
+
 ### 乐理资讯
 - BPM
   - 157.57
+
 
 
 ### 分析考据
@@ -128,6 +141,7 @@ YM2608(OPNA)，FM86音源版。
 - 神へ捧げる魂（献给神明之魂）
   - （玩家）献给神明（游戏制作者）之魂？
   - （博丽的巫女，灵梦）献给神明（未知）之魂？
+
 
 
 ### 二次同人数据

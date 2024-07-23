@@ -4,7 +4,8 @@
 
 VENTOPLUS ，于 2015 年成立，主要制作 同人志 的新加坡同人社团，主催是 VENTO，当前状态为 转入非东方
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -20,17 +21,21 @@ VENTOPLUS ，于 2015 年成立，主要制作 同人志 的新加坡同人社�
 
 
 
+
 ## 社团信息
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> VENTOPLUS </td></tr><tr><td><b>主要作品类型</b></td><td>同人志</td></tr><tr><td><b>成立时间</b></td><td>2015</td></tr><tr><td><b>当前状态</b></td><td>转入非东方</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=VENTO&amp;action=edit&amp;redlink=1" class="new" title="VENTO（页面不存在）">VENTO</a> </td></tr><tr><td><b>地区</b></td><td>新加坡</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="https://ventobento.booth.pm/">https://ventobento.booth.pm/</a> </td></tr></tbody></table>
 
 VENTOPLUS（同人社团，同人志社团） - VENTOPLUS ，于 2015 年成立，主要制作 同人志 的新加坡同人社团，主催是 VENTO，当前状态为 转入非东方
+
 ## 成员名单
 - VENTO (未找到链接)
 
 : [Twitter: @venatto](https://twitter.com/venatto), [Pixiv ID: 1764342](https://www.pixiv.net/users/1764342), [DeviantArt: venappo](https://www.deviantart.com/venappo)
 
+
 ## 作品列表
+
 ### 同人志
 [](./カリワザ.md)[カリワザ](./カリワザ.md)首发日期：2015-12-30 （Comic Market 89 (未找到链接)）漫画 （一般向）[](./マント怪人.md)[マント怪人](./マント怪人.md)首发日期：2016-05-08 （第十三回 博麗神社例大祭 (未找到链接)）漫画 （一般向）[](./MON_HUSTLER_2039.md)[MON HUSTLER 2039](./MON_HUSTLER_2039.md)首发日期：2018-05-06 （第十五回 博麗神社例大祭 (未找到链接)）漫画 （一般向） 24&#160;页[](./GENSOKYO_LOOKBOOK.md)[GENSOKYO LOOKBOOK](./GENSOKYO_LOOKBOOK.md)首发日期：2019-05-05 （第十六回 博麗神社例大祭 (未找到链接)）画集 （一般向）A5&#160;尺寸 20&#160;页
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -41,6 +46,7 @@ VENTOPLUS（同人社团，同人志社团） - VENTOPLUS ，于 2015 年成立�
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 其他信息

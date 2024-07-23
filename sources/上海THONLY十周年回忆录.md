@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-上海THONLY十周年回忆录封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/7/7a/%E4%B8%8A%E6%B5%B7THONLY%E5%8D%81%E5%91%A8%E5%B9%B4%E5%9B%9E%E5%BF%86%E5%BD%95%E5%B0%81%E9%9D%A2.jpg/159px-%E4%B8%8A%E6%B5%B7THONLY%E5%8D%81%E5%91%A8%E5%B9%B4%E5%9B%9E%E5%BF%86%E5%BD%95%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="159" height="224" srcset="https://upload.thwiki.cc/thumb/7/7a/%E4%B8%8A%E6%B5%B7THONLY%E5%8D%81%E5%91%A8%E5%B9%B4%E5%9B%9E%E5%BF%86%E5%BD%95%E5%B0%81%E9%9D%A2.jpg/238px-%E4%B8%8A%E6%B5%B7THONLY%E5%8D%81%E5%91%A8%E5%B9%B4%E5%9B%9E%E5%BF%86%E5%BD%95%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/7/7a/%E4%B8%8A%E6%B5%B7THONLY%E5%8D%81%E5%91%A8%E5%B9%B4%E5%9B%9E%E5%BF%86%E5%BD%95%E5%B0%81%E9%9D%A2.jpg/317px-%E4%B8%8A%E6%B5%B7THONLY%E5%8D%81%E5%91%A8%E5%B9%B4%E5%9B%9E%E5%BF%86%E5%BD%95%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="709" data-file-height="1000"></a><div class="cover-char">角色：<a href="./伊吹萃香.md" title="伊吹萃香">伊吹萃香</a></div></td>
@@ -15,6 +16,7 @@
 上海THONLY十周年回忆录（同人志，上海THONLY组委会，2019） - 2019年12月7日 由 上海THONLY组委会 于 WePlay游戏文化展3 发布的合同志/画集/评论志同人志，A4尺寸一共80页，分级为 一般向
 
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://item.taobao.com/item.htm?id=600990628207">淘宝套装版</a>，<a rel="nofollow" class="external text" href="https://item.taobao.com/item.htm?id=601239071196">淘宝通常版</a></td></tr></tbody></table>
+
 
 
 ## Staff
@@ -30,6 +32,7 @@
 : もつ煮
 策划
 : 上海THONLY组委会
+
 
 ## 评论
 

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-東方SCP合同誌_-SCP-8901-THP-封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/3/30/%E6%9D%B1%E6%96%B9SCP%E5%90%88%E5%90%8C%E8%AA%8C_%22SCP-8901-THP%22%E5%B0%81%E9%9D%A2.jpg/180px-%E6%9D%B1%E6%96%B9SCP%E5%90%88%E5%90%8C%E8%AA%8C_%22SCP-8901-THP%22%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="180" height="196" srcset="https://upload.thwiki.cc/thumb/3/30/%E6%9D%B1%E6%96%B9SCP%E5%90%88%E5%90%8C%E8%AA%8C_%22SCP-8901-THP%22%E5%B0%81%E9%9D%A2.jpg/270px-%E6%9D%B1%E6%96%B9SCP%E5%90%88%E5%90%8C%E8%AA%8C_%22SCP-8901-THP%22%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/3/30/%E6%9D%B1%E6%96%B9SCP%E5%90%88%E5%90%8C%E8%AA%8C_%22SCP-8901-THP%22%E5%B0%81%E9%9D%A2.jpg/360px-%E6%9D%B1%E6%96%B9SCP%E5%90%88%E5%90%8C%E8%AA%8C_%22SCP-8901-THP%22%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="735" data-file-height="800"></a><div class="cover-char">角色：<a href="/index.php?title=SCP-294&amp;action=edit&amp;redlink=1" class="new" title="SCP-294（页面不存在）">SCP-294</a>，<a href="/index.php?title=SCP-1356&amp;action=edit&amp;redlink=1" class="new" title="SCP-1356（页面不存在）">SCP-1356</a>，<a href="/index.php?title=SCP-035&amp;action=edit&amp;redlink=1" class="new" title="SCP-035（页面不存在）">SCP-035</a>，<a href="/index.php?title=SCP-682&amp;action=edit&amp;redlink=1" class="new" title="SCP-682（页面不存在）">SCP-682</a>，<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a>，<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>，<a href="/index.php?title=SCP-106&amp;action=edit&amp;redlink=1" class="new" title="SCP-106（页面不存在）">SCP-106</a></div></td>
@@ -16,6 +17,7 @@
 東方SCP合同誌 "SCP-8901-THP"（同人志，SCP財団 臨時サイト“幻想郷”，UNVALANCE，2015） - 2015年5月10日 由 SCP財団 臨時サイト“幻想郷”，UNVALANCE 于 博丽神社例大祭12 发布的合同志同人志，A5尺寸一共146页，分级为 一般向
 
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="http://alice-books.com/item/show/4035-1">AliceBooks</a></td></tr></tbody></table>
+
 
 
 ## Staff
@@ -45,6 +47,7 @@ Design
 漫画
 
 もなつ（贖罪モナトリアム）
+
 
 
 

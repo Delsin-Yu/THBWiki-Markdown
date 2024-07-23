@@ -6,12 +6,14 @@
 
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 软件信息](#软件信息)
 - [2 Staff](#Staff)
 - [3 内容页面](#内容页面)
 - [4 评论](#评论)
+
 
 
 
@@ -34,6 +36,7 @@ Mystical Chain（同人游戏，LION HEART，2009） - 2009年8月15日 由 LION
 <tbody><tr><th colspan="2">配置需求</th></tr>
 <tr><td style="width:120px;padding-left:7px;"><b>操作系统</b></td><td>2000/XP/Vista　要求DirectX9.0c以上</td></tr><tr><td style="width:120px;padding-left:7px;"><b>CPU</b></td><td>Pentium系1GHz以上</td></tr><tr><td style="width:120px;padding-left:7px;"><b>内存</b></td><td>1GB以上</td></tr><tr><td style="width:120px;padding-left:7px;"><b>显示卡</b></td><td>与DirectX9.0c相对应 VRAM128MB以上</td></tr>
 </tbody></table>
+
 
 
 ## Staff
@@ -66,8 +69,10 @@ HALT /点阵图
 Illustrator
 : NEKI←T（[地址](http://nekinat.blog49.fc2.com/)）
 
+
 ## 内容页面
 - 游戏设定与剧情 (未找到链接)
+
 
 ## 评论
 

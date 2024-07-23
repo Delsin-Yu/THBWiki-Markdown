@@ -4,6 +4,7 @@
 
 inuyasis. | 社团LOGO
 
+
 ## 摘要
   
 源地址：[direct image link](http://inuyasis.web.fc2.com/bannar1.jpg), [source page](http://inuyasis.web.fc2.com/)

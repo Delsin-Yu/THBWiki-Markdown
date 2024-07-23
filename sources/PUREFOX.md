@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-PUREFOX封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/8/86/PUREFOX%E5%B0%81%E9%9D%A2.jpg/139px-PUREFOX%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="139" height="196" srcset="https://upload.thwiki.cc/thumb/8/86/PUREFOX%E5%B0%81%E9%9D%A2.jpg/208px-PUREFOX%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/8/86/PUREFOX%E5%B0%81%E9%9D%A2.jpg/278px-PUREFOX%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="851" data-file-height="1200"></a><div class="cover-char">角色：<a href="./赫卡提亚·拉碧斯拉祖利.md" title="赫卡提亚·拉碧斯拉祖利">赫卡提亚·拉碧斯拉祖利</a>，<a href="./克劳恩皮丝.md" title="克劳恩皮丝">克劳恩皮丝</a>，<a href="./纯狐.md" title="纯狐">纯狐</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/57975924">https://www.pixiv.net/artworks/57975924</a><br><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/66134904">https://www.pixiv.net/artworks/66134904</a><br>新刊Sample/同人再录</td></tr></tbody></table>
 
 PUREFOX（同人志，ベルの巣，2016） - 2016年8月13日 由 ベルの巣 于 Comic Market 90 发布的漫画同人志，B5尺寸一共24页，分级为 一般向
+
 ## Staff
 : [ベル助](./ベル助（视频）.md)
+
 
 ## 评论
   

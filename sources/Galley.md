@@ -4,7 +4,8 @@
 
 Galley (画嶺) ，主要制作 同人志 的日本同人社团，主催是 ryoma，当前状态为 转入非东方
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -20,24 +21,29 @@ Galley (画嶺) ，主要制作 同人志 的日本同人社团，主催是 ryom
 
 
 
+
 ## 社团信息
 [](./文件-Galleybanner.jpg.md)  [](./文件-Galleybanner.jpg.md)banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Galley (画嶺) </td></tr><tr><td><b>主要作品类型</b></td><td>同人志</td></tr><tr><td><b>当前状态</b></td><td>转入非东方</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=ryoma&amp;action=edit&amp;redlink=1" class="new" title="ryoma（页面不存在）">ryoma</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://galley.web.fc2.com/">http://galley.web.fc2.com/</a> <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><small>（<a rel="nofollow" class="external text" href="https://web.archive.org/web/20101112150229/http://galley.web.fc2.com:80/">缓存页面</a>）</small><br><a rel="nofollow" class="external free" href="http://ryomagalley.blog.fc2.com/">http://ryomagalley.blog.fc2.com/</a> （blog）<span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><small>（<a rel="nofollow" class="external text" href="https://web.archive.org/web/20151022190119/http://ryomagalley.blog.fc2.com/">缓存页面</a>）</small><br><a rel="nofollow" class="external free" href="http://ry0ma.blog111.fc2.com/">http://ry0ma.blog111.fc2.com/</a> （旧blog）<span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><small>（<a rel="nofollow" class="external text" href="https://web.archive.org/web/20110315101847/http://ry0ma.blog111.fc2.com/">缓存页面</a>）</small></td></tr></tbody></table>
 
 Galley（同人社团，同人志社团） - Galley (画嶺) ，主要制作 同人志 的日本同人社团，主催是 ryoma，当前状态为 转入非东方
+
 ## 成员名单
 - ryoma (未找到链接)
 
 : [Pixiv ID: 151716](https://www.pixiv.net/users/151716), [Twitter: @ry0ma](https://twitter.com/ry0ma)
 
+
 ## 作品列表
+
 ### 同人志
 秘湯日記 封面图片 (未找到链接)秘湯日記 (未找到链接)首发日期：未知 - アリス 淫 アンダーランド 封面图片 (未找到链接)アリス 淫 アンダーランド (未找到链接)首发日期：未知 - ずっとこーりんのターン! 1ターンめ 封面图片 (未找到链接)ずっとこーりんのターン! 1ターンめ (未找到链接)首发日期：未知 - 華扇ちゃんの薄い本 封面图片 (未找到链接)華扇ちゃんの薄い本 (未找到链接)首发日期：未知 - 
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458"></table>
+
 
 
 ## 参展信息

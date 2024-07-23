@@ -11,6 +11,7 @@
 
   
 
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -19,6 +20,7 @@
 
   - [3.1 与东方Project相关的游戏作品](#与东方Project相关的游戏作品)
   - [3.2 与东方Project相关的PVCFigure](#与东方Project相关的PVCFigure)
+
 
 
 
@@ -50,16 +52,20 @@
 <td style="width:140px"><b>正式名称</b></td><td style="min-width:300px">株式会社グッドスマイルカンパニー</td></tr><tr><td><b>英文名称</b></td><td>Good Smile Company, Inc.</td></tr><tr><td><b>公司现状</b></td><td>持续营业中</td></tr><tr><td><b>公司种类</b></td><td>股份有限公司（株式会社）</td></tr><tr><td><b>股市信息</b></td><td>非上市</td></tr><tr><td><b>成立日期</b></td><td>2001年5月</td></tr><tr><td><b>公司代表</b></td><td>安艺贵范（代表取缔役社长）</td></tr><tr><td><b>本社地址</b></td><td>东京都千代田区外神田三丁目16番12号秋叶原CO大厦（本社）<br>上海市静安区汶水路40号12、28、37幢1层136室（上海分公司）</td></tr><tr><td><b>注册资金</b></td><td>300万日元</td></tr><tr><td><b>员工数量</b></td><td>135名（2019年12月）</td></tr><tr><td><b>网络贩售</b></td><td><a rel="nofollow" class="external free" href="https://goodsmileshop.com/ja/">https://goodsmileshop.com/ja/</a> <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到日文网页">（日文）</span><br><a rel="nofollow" class="external free" href="https://goodsmile.tmall.com/">https://goodsmile.tmall.com/</a> （中国区天猫旗舰店）<br><a rel="nofollow" class="external free" href="https://mall.jd.com/index-10166067.html">https://mall.jd.com/index-10166067.html</a> （中国区京东旗舰店）<br><a rel="nofollow" class="external free" href="https://mall.bilibili.com/brand.html?brand=4">https://mall.bilibili.com/brand.html?brand=4</a> （哔哩哔哩会员购）</td></tr><tr><td><b>专长领域</b></td><td>手办模型；电子游戏</td></tr><tr><td><b>官网地址</b></td><td><a rel="nofollow" class="external free" href="https://www.goodsmile.info/">https://www.goodsmile.info/</a> <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到日文网页">（日文）</span><br><a rel="nofollow" class="external free" href="https://www.goodsmile-sh.info/">https://www.goodsmile-sh.info/</a> （中国官网）</td></tr></tbody></table>
 
 Good Smile Company（公司会社） - 株式会社グッドスマイルカンパニー，股份有限公司（株式会社）
+
 ## 与东方Project的关联
 - 作为手办模型的大厂，制作发售了多款东方角色的PVCFigure。
 - 制作并发行了[东方LostWord](./东方LostWord.md)这一商业二次创作手机游戏。
 - 长期参加有[东方Project×百货商场活动](./东方Project×百货商场活动.md)这一联动企划。
 
+
 ## 作品列表
+
 ### 与东方Project相关的游戏作品
   
 [东方LostWord](./东方LostWord.md)
   
+
 
 ### 与东方Project相关的PVCFigure
 <center> **本列表目前有 23 个项目** </center>

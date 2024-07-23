@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 软件信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-紅魔城伝説II_妖幻の鎮魂歌封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/4/4c/%E7%B4%85%E9%AD%94%E5%9F%8E%E4%BC%9D%E8%AA%ACII_%E5%A6%96%E5%B9%BB%E3%81%AE%E9%8E%AE%E9%AD%82%E6%AD%8C%E5%B0%81%E9%9D%A2.png/159px-%E7%B4%85%E9%AD%94%E5%9F%8E%E4%BC%9D%E8%AA%ACII_%E5%A6%96%E5%B9%BB%E3%81%AE%E9%8E%AE%E9%AD%82%E6%AD%8C%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="159" height="224" srcset="https://upload.thwiki.cc/thumb/4/4c/%E7%B4%85%E9%AD%94%E5%9F%8E%E4%BC%9D%E8%AA%ACII_%E5%A6%96%E5%B9%BB%E3%81%AE%E9%8E%AE%E9%AD%82%E6%AD%8C%E5%B0%81%E9%9D%A2.png/239px-%E7%B4%85%E9%AD%94%E5%9F%8E%E4%BC%9D%E8%AA%ACII_%E5%A6%96%E5%B9%BB%E3%81%AE%E9%8E%AE%E9%AD%82%E6%AD%8C%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/4/4c/%E7%B4%85%E9%AD%94%E5%9F%8E%E4%BC%9D%E8%AA%ACII_%E5%A6%96%E5%B9%BB%E3%81%AE%E9%8E%AE%E9%AD%82%E6%AD%8C%E5%B0%81%E9%9D%A2.png/318px-%E7%B4%85%E9%AD%94%E5%9F%8E%E4%BC%9D%E8%AA%ACII_%E5%A6%96%E5%B9%BB%E3%81%AE%E9%8E%AE%E9%AD%82%E6%AD%8C%E5%B0%81%E9%9D%A2.png 2x" data-file-width="640" data-file-height="900"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>，<a href="./八云紫.md" title="八云紫">八云紫</a>，<a href="/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C" title="十六夜咲夜">十六夜咲夜</a>，<a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a></div></td>
@@ -26,11 +27,13 @@
 </tbody></table>
 
 
+
 ## Staff
 制作
 : [Frontier彩](./Frontier彩.md)
 人物设计和绘画
 : 晩杯あきら (未找到链接) （[奴は仮名](./奴は仮名.md)）
+
 
 ## 内容页面
 - 游戏设定与剧情 (未找到链接)

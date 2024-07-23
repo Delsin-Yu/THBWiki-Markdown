@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 软件信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-神社的百合香_~_Floral_Aroma_in_the_Shrine封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/6/6f/%E7%A5%9E%E7%A4%BE%E7%9A%84%E7%99%BE%E5%90%88%E9%A6%99_~_Floral_Aroma_in_the_Shrine%E5%B0%81%E9%9D%A2.jpg/224px-%E7%A5%9E%E7%A4%BE%E7%9A%84%E7%99%BE%E5%90%88%E9%A6%99_~_Floral_Aroma_in_the_Shrine%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="105" srcset="https://upload.thwiki.cc/thumb/6/6f/%E7%A5%9E%E7%A4%BE%E7%9A%84%E7%99%BE%E5%90%88%E9%A6%99_~_Floral_Aroma_in_the_Shrine%E5%B0%81%E9%9D%A2.jpg/336px-%E7%A5%9E%E7%A4%BE%E7%9A%84%E7%99%BE%E5%90%88%E9%A6%99_~_Floral_Aroma_in_the_Shrine%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/6/6f/%E7%A5%9E%E7%A4%BE%E7%9A%84%E7%99%BE%E5%90%88%E9%A6%99_~_Floral_Aroma_in_the_Shrine%E5%B0%81%E9%9D%A2.jpg/448px-%E7%A5%9E%E7%A4%BE%E7%9A%84%E7%99%BE%E5%90%88%E9%A6%99_~_Floral_Aroma_in_the_Shrine%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="460" data-file-height="215"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>，<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a></div></td>

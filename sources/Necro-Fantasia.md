@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -42,11 +43,13 @@
 
 
 
+
 ## 基本信息
 
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">ネクロファンタジア</td></tr><tr><td><b>译名</b></td><td>Necro-Fantasia</td></tr><tr><td><b>英文译名</b></td><td>Necrofantasia</td></tr><tr><td><b>其他译名</b></td><td>死亡幻想曲</td></tr><tr><td><b>常见误译</b></td><td><s><i>亡灵幻想曲</i></s></td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>关联</td></tr><tr><td style="padding-left:15px"><b>相关曲</b></td><td><a href="./少女幻葬_～_Necro-Fantasy.md" title="少女幻葬 ～ Necro-Fantasy">少女幻葬　～ Necro-Fantasy</a></td></tr><tr><td style="padding-left:15px"><b>　来源</b></td><td>东方妖妖梦　～ Perfect Cherry Blossom.</td></tr></tbody></table>
 
 Necro-Fantasia（曲目） - 由 ZUN 创作的官方曲目，原名 ネクロファンタジア
+
 ## 出现作品
 
 <table>
@@ -55,8 +58,11 @@ Necro-Fantasia（曲目） - 由 ZUN 创作的官方曲目，原名 ネクロフ
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 东方妖妖梦
+
 #### WAV
   
 WAV版是游戏的原声带。
@@ -71,6 +77,7 @@ WAV版是游戏的原声带。
 </td></tr></tbody></table>
 
 
+
 #### MIDI
   
 MIDI版由Roland Sound Canvas 88Pro实机录音得到。
@@ -80,12 +87,15 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td><a href="./文件-th07_18.mid.md" title="文件:th07 18.mid">th07_18.mid</a></td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th07_18_SC88Pro.mp3.md" title="文件:th07 18 SC88Pro.mp3">th07_18_SC88Pro.mp3</a><br><audio src="https://upload.thwiki.cc/a/a6/th07_18_SC88Pro.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>th07_18.mid</td></tr><tr><td><b>音轨时长</b></td><td>2:45</td></tr></tbody></table>
 
 
+
 ### 大空魔术
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-hr05_09.mp3.md" title="文件:hr05 09.mp3">hr05_09.mp3</a><br><audio src="https://upload.thwiki.cc/6/6f/hr05_09.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track09.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>6:45</td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 东方妖妖梦
 - Music Room (未找到链接)
 
@@ -101,14 +111,18 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
     很好听的名字。  
     活着的时候，无法体味死亡。  
     死永远是生者的幻想。
+
 ### 东方文花帖（书籍）
 - 幻想的音觉 (未找到链接)
 
 （『[东方妖妖梦](./东方妖妖梦.md)』收录曲）　　虽然想着要作一首有着无法直视的奇怪气息的曲子，鼓足干劲做了之后，还是很有东方范儿，有着“还是很稳重的嘛”这种感觉。妖妖梦整体来说都较为稳重，重视风景的曲子较多，像这首曲子就能让人在改变了系统后，感觉“这样的话也能用在射击游戏了呐”。  
 　　听了这首曲子，会发现在用着超乎寻常的气势消耗着体力。也许只有这首曲子能让人感受到是现代的东西呢。要说幻觉的话，还是会让人从现代感受到了未来。  
 　　Necro是指死亡。死之幻想世界。幻想世界在给人见识死的时候，呈现在那里的是现实。所以说这首曲子，并不是要让人感到历史，而是必须要有一首让人感受到现代的曲子。
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
   
  **ネクロファンタジア**  Necro-Fantasia
@@ -122,7 +136,7 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
   - Phantasm关卡开启提示文字中亦有「不再进一步，试着前往死之幻想的世界赏花吗？」
     - 生者永远无法直接体验死后的世界，因而死亡永远是生者的幻想。
     - 幻想的音觉 (未找到链接)中则提及「幻想世界就是被死亡见证时在此处呈现的现实」。
-    - 另外妖妖梦 (未找到链接)EX、PH关卡的故事背景即隔绝显界与[冥界](./冥界.md)的结界变得稀薄，联系符卡结界「生与死的境界」 (未找到链接)。
+    - 另外[妖妖梦](./妖妖梦.md)EX、PH关卡的故事背景即隔绝显界与[冥界](./冥界.md)的结界变得稀薄，联系符卡[结界「生与死的境界」](./结界「生与死的境界」.md)。
 
 
 
@@ -183,7 +197,7 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
 - [妖妖梦音乐评论](./东方妖妖梦-Music.md)中直接点明为[八云蓝](./八云蓝.md)的主题曲[少女幻葬　～ Necro-Fantasy](./少女幻葬_～_Necro-Fantasy.md)的改编版。
   - 「死亡幻想」这一主题也在其中有所体现，曲名后缀即「Necro-Fantasy」。
     - 「幻」对应「幻想」，「葬」对应「死亡」，「幻葬」亦呼应「死亡幻想」这一主题。
-    - 另外妖妖梦 (未找到链接)故事的核心即围绕[西行寺幽幽子](./西行寺幽幽子.md)埋葬于西行妖下的亡骸，而[西行寺幽幽子](./西行寺幽幽子.md)、西行妖及其亡骸皆已进入幻想。
+    - 另外[妖妖梦](./妖妖梦.md)故事的核心即围绕[西行寺幽幽子](./西行寺幽幽子.md)埋葬于西行妖下的亡骸，而[西行寺幽幽子](./西行寺幽幽子.md)、西行妖及其亡骸皆已进入幻想。
 
 
 
@@ -191,13 +205,14 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
 <table><tbody><tr class="tt-comment" id="MusicRoom-103" data-pos="&#91;&quot;MusicRoom&quot;,103&#93;"><td colspan="2" class="tt-ja" lang="ja"><div class="poem">　八雲 紫（やくも ゆかり）のテーマです。<br>　藍のテーマの編曲のつもりだったけど、割と別の曲に。<br>　こっちの方は、禍々しい感じが少し混じっています。<br>　というか、キャラ自体が禍々しさの塊みたいなもんです。今までのキ<br>　ャラの中でも、胡散臭い風貌、信用できない性格、非常識な弾幕。<br>　そういうキャラの曲なので、とても胡散臭い（笑）</div></td><td colspan="2" class="tt-zh" lang="zh"><div class="poem">　八云紫的主题曲。<br>　本来打算将蓝的曲子重新编排下，不过，变成了不同风格的曲子。<br>　这首稍微搀杂着不吉的感觉。<br>　或者说，角色本身就极端不吉。<br>　即使在现在为止的角色当中，她也算是拥有形迹可疑的样子，无法信任的性格，非常识的弹幕。因为是那样的角色的曲子，所以曲子本身也非常形迹可疑(笑)</div></td></tr></tbody></table>
 
 
-- 在[大空魔术](./大空魔术.md)故事中[宇佐见莲子](./宇佐见莲子.md)和梅莉 (未找到链接)在讨论不老不死药，也与「死亡幻想」主题相关。
+- 在[大空魔术](./大空魔术.md)故事中[宇佐见莲子](./宇佐见莲子.md)和[梅莉](./梅莉.md)在讨论不老不死药，也与「死亡幻想」主题相关。
   - [旧约酒馆故事](./旧约酒馆-附带故事.md)中有说「计划寿命被推上了日程」。
 
 
   
  *对于更多在大空魔术专辑中的该曲考据以及附带故事相关信息，可参见大空魔术专辑的[附带故事](./大空魔术-附带故事.md)与[分析考据](./大空魔术-分析考据.md)页面。* 
   
+
 
 ### 二次同人数据
 

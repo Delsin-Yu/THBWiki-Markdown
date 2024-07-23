@@ -164,6 +164,7 @@ AvalonStudioOfficial
 [](./文件-THD2芙兰朵露·斯卡雷特.png.md)
   
 
+
 ## 目录
 
 - [1 角色定位](#角色定位)
@@ -184,10 +185,12 @@ AvalonStudioOfficial
 
 
 
+
 ## 角色定位
   
 核心 - 打野 - 爆发 - 推进
   
+
 
 ## 技能介绍
 
@@ -785,6 +788,7 @@ AvalonStudioOfficial
 </td></tr></tbody></table>
 
 
+
 ## 天赋树
 
 
@@ -823,25 +827,30 @@ AvalonStudioOfficial
 </td></tr></tbody></table>
 
 
+
 ### 出门装备
 ```
 [](./文件-THD2木盾.png.md) [](./文件-THD2妖精之翼.png.md)
 ```
+
 
 ### 前期装备
 ```
 [](./文件-THD2河童冲锋手枪.png.md) [](./文件-THD2博丽供奉箱.png.md) [](./文件-THD2魔法使扫把.png.md) [](./文件-THD2坏人卡.png.md)
 ```
 
+
 ### 核心装备
 ```
 [](./文件-THD2格斗扫把.png.md) [](./文件-THD2念缚灵的船勾.png.md)
 ```
 
+
 ### 可选装备
 ```
 [](./文件-THD2龙星.png.md) [](./文件-THD2神枪冈格尼尔.png.md) [](./文件-THD2白楼剑.png.md) [](./文件-THD2亡灵送行提灯.png.md) [](./文件-THD2恶魔的乳牙.png.md) [](./文件-THD2真澄之镜.png.md) [](./文件-THD2博丽神社护身符.png.md) [](./文件-THD2油库里之杖.png.md) [](./文件-THD2替身人偶.png.md) [](./文件-THD2月兔粉碎巨刃.png.md) [](./文件-THD2魔人经卷.png.md)
 ```
+
 
 ## 技能加点
 
@@ -989,6 +998,7 @@ AvalonStudioOfficial
 </td></tr></tbody></table>
 
 
+
 ## 台词
 
 <table>
@@ -1066,6 +1076,7 @@ AvalonStudioOfficial
 <p><br>これは私のよ！<br>[ 这个是我的哟]
 </p>
 </td></tr></tbody></table>
+
 
 
 ## 教学视频

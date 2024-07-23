@@ -18,6 +18,7 @@
 
 
 </center>
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-F₂_Zwei封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/6/63/F%E2%82%82_Zwei%E5%B0%81%E9%9D%A2.jpg/196px-F%E2%82%82_Zwei%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="196" height="194" srcset="https://upload.thwiki.cc/thumb/6/63/F%E2%82%82_Zwei%E5%B0%81%E9%9D%A2.jpg/294px-F%E2%82%82_Zwei%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/6/63/F%E2%82%82_Zwei%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="384" data-file-height="381"></a><div class="cover-char">角色：<a href="./比那名居天子.md" title="比那名居天子">比那名居天子</a></div></td>
@@ -25,6 +26,7 @@
 </tr><tr><td class="label">首发日期</td><td>2008-11-02&#160;（<a href="/展会作品列表?e=%E4%B8%9C%E6%96%B9%E7%BA%A2%E6%A5%BC%E6%A2%A6%234">東方紅楼夢4</a>）</td></tr><tr><td class="label">类型</td><td>全长，合作</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>8</td></tr><tr><td class="label">总时长</td><td>00:00</td></tr></tbody></table>
 
 F₂ Zwei（同人专辑，Prismatica Material Records，2008） - 2008年11月2日 由 Prismatica Material Records 于 东方红楼梦4 发布的全长/合作同人专辑，分级为 一般向
+
 ## Staff
   
  **Compose**   
@@ -37,6 +39,7 @@ Mastering
 Illustration
 : Akira Sagami （CODE:ARENA LABELS）
 
+
 ## 曲目列表
 
 <table><tbody><tr><td id="1" class="infoYL"><b>01</b></td><td id="Fujiwara" colspan="2" class="title">Fujiwara<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Ered Nust&amp;fromwiki=F₂_Zwei"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=Ered_Nust&amp;action=edit&amp;redlink=1" class="new" title="Ered Nust（页面不存在）">Ered Nust</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Ered Nust&amp;fromwiki=F₂_Zwei"><span></span></a></span></td></tr>
@@ -47,6 +50,7 @@ Illustration
 <tr><td id="6" class="infoYL"><b>06</b></td><td id="Ultimate_Truth" colspan="2" class="title">Ultimate Truth<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Euphoricia&amp;fromwiki=F₂_Zwei"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=Euphoricia&amp;action=edit&amp;redlink=1" class="new" title="Euphoricia（页面不存在）">Euphoricia</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Euphoricia&amp;fromwiki=F₂_Zwei"><span></span></a></span></td></tr>
 <tr><td id="7" class="infoYL"><b>07</b></td><td id="Ibuki" colspan="2" class="title">Ibuki<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Euphoricia&amp;fromwiki=F₂_Zwei"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=Euphoricia&amp;action=edit&amp;redlink=1" class="new" title="Euphoricia（页面不存在）">Euphoricia</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Euphoricia&amp;fromwiki=F₂_Zwei"><span></span></a></span></td></tr>
 <tr><td id="8" class="infoYL"><b>08</b></td><td id="Black_Lily_Garden_(Trancecore_Remix)" colspan="2" class="title">Black Lily Garden (Trancecore Remix)<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Ered Nust&amp;fromwiki=F₂_Zwei"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=Ered_Nust&amp;action=edit&amp;redlink=1" class="new" title="Ered Nust（页面不存在）">Ered Nust</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Ered Nust&amp;fromwiki=F₂_Zwei"><span></span></a></span></td></tr></tbody></table>
+
 
 
 ## 评论

@@ -18,6 +18,7 @@ Yen Press，有限责任公司
 </center>
 本页是关于东方Project  
  **相关公司会社** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -28,6 +29,7 @@ Yen Press，有限责任公司
 
 
 - [3 其他说明](#其他说明)
+
 
 
 
@@ -51,8 +53,10 @@ Yen Press，有限责任公司
 <td style="width:140px"><b>正式名称</b></td><td style="min-width:300px">Yen Press</td></tr><tr><td><b>公司现状</b></td><td>持续营业中</td></tr><tr><td><b>公司种类</b></td><td>有限责任公司</td></tr><tr><td><b>成立日期</b></td><td>2006年</td></tr><tr><td><b>公司代表</b></td><td>创始人：Kurt Hassler、Rich Johnson</td></tr><tr><td><b>本社地址</b></td><td>纽约</td></tr><tr><td><b>官网地址</b></td><td><a rel="nofollow" class="external free" href="http://www.yenpress.com/">http://www.yenpress.com/</a></td></tr></tbody></table>
 
 Yen Press（公司会社） - Yen Press，有限责任公司
+
 ## 与东方Project的关联
 - Yen Press代理了少量官方商业出版物。
+
 
 ### 单行本与书籍
 - [东方铃奈庵 ～ Forbidden Scrollery. 1](./东方铃奈庵.md)（2017年11月21日出版的官方漫画单行本）
@@ -62,6 +66,7 @@ Yen Press（公司会社） - Yen Press，有限责任公司
 - [东方铃奈庵 ～ Forbidden Scrollery. 5](./东方铃奈庵.md)（2018年11月13日出版的官方漫画单行本）
 - [东方铃奈庵 ～ Forbidden Scrollery. 6](./东方铃奈庵.md)（2019年2月19日出版的官方漫画单行本）
 - [东方铃奈庵 ～ Forbidden Scrollery. 7](./东方铃奈庵.md)（2019年5月28日出版的官方漫画单行本）
+
 
 ## 其他说明
 

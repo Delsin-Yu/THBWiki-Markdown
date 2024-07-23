@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Catch_the_Clock封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/9/90/Catch_the_Clock%E5%B0%81%E9%9D%A2.jpg/280px-Catch_the_Clock%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="280" height="280" srcset="https://upload.thwiki.cc/thumb/9/90/Catch_the_Clock%E5%B0%81%E9%9D%A2.jpg/420px-Catch_the_Clock%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/9/90/Catch_the_Clock%E5%B0%81%E9%9D%A2.jpg/560px-Catch_the_Clock%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1000" data-file-height="1000"></a><div class="cover-char">角色：<a href="./射命丸文.md" title="射命丸文">射命丸文</a></div></td>
@@ -16,6 +17,7 @@
 Catch the Clock（同人专辑，Nami Haven，2021） - 2021年9月15日 由 Nami Haven  发布的单曲同人专辑，曲目主要风格是 Trance，分级为 一般向
 
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.dizzylab.net/d/nhcd0003dlc">dizzylab（DL版）</a>，<a rel="nofollow" class="external text" href="https://namihaven.booth.pm/items/3276031">Booth（DL版）</a></td></tr></tbody></table>
+
 
 
 ## Staff
@@ -30,15 +32,18 @@ Mastering
 Illustration
 : 私期 (未找到链接)
 
+
 ## 试听
   
 <audio src="https://streaming.dizzylab.net/202110020355/9fdbfd4cf853a920d908544bd06a2000/nhcd0003dlc/full/1.mp3" loop="" controls="" preload="none"></audio>
 
   
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Catch_the_Clock" colspan="2" class="title">Catch the Clock<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Zris&amp;ogmusic=無間の鐘　～ Infinite Nightmare&amp;fromwiki=Catch_the_Clock"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:26</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=Zris&amp;action=edit&amp;redlink=1" class="new" title="Zris（页面不存在）">Zris</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Zris，&amp;fromwiki=Catch_the_Clock"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=無間の鐘　～ Infinite Nightmare&amp;fromwiki=Catch_the_Clock"><span></span></a></span><div class="ogmusic"><a href="/%E7%84%A1%E9%96%93%E3%81%AE%E9%90%98_%EF%BD%9E_Infinite_Nightmare" class="mw-redirect" title="無間の鐘 ～ Infinite Nightmare">無間の鐘　～ Infinite Nightmare</a></div><div class="source"><a href="/Double_Spoiler_%EF%BD%9E_%E4%B8%9C%E6%96%B9%E6%96%87%E8%8A%B1%E5%B8%96" class="mw-redirect" title="Double Spoiler ～ 东方文花帖">Double Spoiler　～ 东方文花帖</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Catch_the_Clock" colspan="2" class="title">Catch the Clock<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Zris&amp;ogmusic=無間の鐘　～ Infinite Nightmare&amp;fromwiki=Catch_the_Clock"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:26</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=Zris&amp;action=edit&amp;redlink=1" class="new" title="Zris（页面不存在）">Zris</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Zris，&amp;fromwiki=Catch_the_Clock"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=無間の鐘　～ Infinite Nightmare&amp;fromwiki=Catch_the_Clock"><span></span></a></span><div class="ogmusic"><a href="./無間の鐘_～_Infinite_Nightmare.md" class="mw-redirect" title="無間の鐘 ～ Infinite Nightmare">無間の鐘　～ Infinite Nightmare</a></div><div class="source"><a href="./Double_Spoiler_～_东方文花帖.md" class="mw-redirect" title="Double Spoiler ～ 东方文花帖">Double Spoiler　～ 东方文花帖</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

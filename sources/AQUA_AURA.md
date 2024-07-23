@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-AQUA_AURA封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/1/1d/AQUA_AURA%E5%B0%81%E9%9D%A2.jpg/139px-AQUA_AURA%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="139" height="196" srcset="https://upload.thwiki.cc/thumb/1/1d/AQUA_AURA%E5%B0%81%E9%9D%A2.jpg/208px-AQUA_AURA%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/1/1d/AQUA_AURA%E5%B0%81%E9%9D%A2.jpg/277px-AQUA_AURA%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="439" data-file-height="620"></a><div class="cover-char">角色：<a href="./物部布都.md" title="物部布都">物部布都</a>，<a href="./丰聪耳神子.md" title="丰聪耳神子">丰聪耳神子</a>，<a href="./苏我屠自古.md" title="苏我屠自古">苏我屠自古</a></div></td>
@@ -17,8 +18,10 @@ AQUA AURA（同人志，pietra di Luna，2016） - 2016年8月13日 由 pietra d
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://pietra-di-luna.booth.pm/items/321770">Booth</a></td></tr></tbody></table>
 
 
+
 ## Staff
 : Luna (未找到链接)
+
 
 ## 评论
 

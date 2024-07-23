@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-夢幻都市_VIOLET_METROPOLIS_VOL.3B封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/4/41/%E5%A4%A2%E5%B9%BB%E9%83%BD%E5%B8%82_VIOLET_METROPOLIS_VOL.3B%E5%B0%81%E9%9D%A2.png/161px-%E5%A4%A2%E5%B9%BB%E9%83%BD%E5%B8%82_VIOLET_METROPOLIS_VOL.3B%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="161" height="224" srcset="https://upload.thwiki.cc/thumb/4/41/%E5%A4%A2%E5%B9%BB%E9%83%BD%E5%B8%82_VIOLET_METROPOLIS_VOL.3B%E5%B0%81%E9%9D%A2.png/242px-%E5%A4%A2%E5%B9%BB%E9%83%BD%E5%B8%82_VIOLET_METROPOLIS_VOL.3B%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/4/41/%E5%A4%A2%E5%B9%BB%E9%83%BD%E5%B8%82_VIOLET_METROPOLIS_VOL.3B%E5%B0%81%E9%9D%A2.png/322px-%E5%A4%A2%E5%B9%BB%E9%83%BD%E5%B8%82_VIOLET_METROPOLIS_VOL.3B%E5%B0%81%E9%9D%A2.png 2x" data-file-width="1361" data-file-height="1892"></a><div class="cover-char">角色：<a href="./二岩猯藏.md" title="二岩猯藏">二岩猯藏</a></div></td>
@@ -18,13 +19,17 @@
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=2250753">蜜瓜</a></td></tr></tbody></table>
 
 
+
 ## 预览
+
 ## Staff
 - 砂(s73d) (未找到链接)
 
+
 ## 乐曲
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="夢幻都市" colspan="2" class="title">夢幻都市<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=RD-Sounds&amp;ogmusic=夢と現の境界，永遠の春夢&amp;fromwiki=夢幻都市_VIOLET_METROPOLIS_VOL.3B"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./RD-Sounds.md" title="RD-Sounds">RD-Sounds</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，RD-Sounds&amp;fromwiki=夢幻都市_VIOLET_METROPOLIS_VOL.3B"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=夢と現の境界，永遠の春夢&amp;fromwiki=夢幻都市_VIOLET_METROPOLIS_VOL.3B"><span></span></a></span><div class="ogmusic"><a href="/%E5%A4%A2%E3%81%A8%E7%8F%BE%E3%81%AE%E5%A2%83%E7%95%8C" class="mw-redirect" title="夢と現の境界">夢と現の境界</a></div><div class="source"><a href="/%E6%A2%A6%E8%BF%9D%E7%A7%91%E5%AD%A6%E4%B8%96%E7%BA%AA_%EF%BD%9E_Changeability_of_Strange_Dream" class="mw-redirect" title="梦违科学世纪 ～ Changeability of Strange Dream">梦违科学世纪　～ Changeability of Strange Dream</a></div><hr><div class="ogmusic"><a href="/%E6%B0%B8%E9%81%A0%E3%81%AE%E6%98%A5%E5%A4%A2" class="mw-redirect" title="永遠の春夢">永遠の春夢</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E7%BB%80%E7%8F%A0%E4%BC%A0_%EF%BD%9E_Legacy_of_Lunatic_Kingdom." class="mw-redirect" title="东方绀珠传 ～ Legacy of Lunatic Kingdom.">东方绀珠传　～ Legacy of Lunatic Kingdom.</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="夢幻都市" colspan="2" class="title">夢幻都市<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=RD-Sounds&amp;ogmusic=夢と現の境界，永遠の春夢&amp;fromwiki=夢幻都市_VIOLET_METROPOLIS_VOL.3B"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./RD-Sounds.md" title="RD-Sounds">RD-Sounds</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，RD-Sounds&amp;fromwiki=夢幻都市_VIOLET_METROPOLIS_VOL.3B"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=夢と現の境界，永遠の春夢&amp;fromwiki=夢幻都市_VIOLET_METROPOLIS_VOL.3B"><span></span></a></span><div class="ogmusic"><a href="./夢と現の境界.md" class="mw-redirect" title="夢と現の境界">夢と現の境界</a></div><div class="source"><a href="./梦违科学世纪_～_Changeability_of_Strange_Dream.md" class="mw-redirect" title="梦违科学世纪 ～ Changeability of Strange Dream">梦违科学世纪　～ Changeability of Strange Dream</a></div><hr><div class="ogmusic"><a href="./永遠の春夢.md" class="mw-redirect" title="永遠の春夢">永遠の春夢</a></div><div class="source"><a href="./东方绀珠传_～_Legacy_of_Lunatic_Kingdom..md" class="mw-redirect" title="东方绀珠传 ～ Legacy of Lunatic Kingdom.">东方绀珠传　～ Legacy of Lunatic Kingdom.</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

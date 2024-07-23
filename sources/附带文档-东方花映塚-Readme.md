@@ -11,6 +11,7 @@ Readme | 东方花映塚 | 使用了翻译表的页面 | 附带文档
 : [日文版](http://omake.thwiki.cc/translate.php?u=附带文档:东方花映塚/Readme&amp;t=ja)
 : [汉化版](http://omake.thwiki.cc/translate.php?u=附带文档:东方花映塚/Readme&amp;t=zh)
 
+
 ## 目录
 
 - [1 问候](#问候)
@@ -32,10 +33,12 @@ Readme | 东方花映塚 | 使用了翻译表的页面 | 附带文档
 
 
 
+
 ###### 问候
 
 
 <table><tbody><tr class="tt-content" id="=-3" data-pos="&#91;&quot;=&quot;,3&#93;"><td class="tt-ja" lang="ja"><div class="poem">■１．挨拶<br>　　この度は、「東方花映塚　～ Phantasmagoria of Flower View.」を<br>　手に取って頂き、まことに有難う御座います。<br><br>　　ちょっと変わったSTGですが、ゲームが好きだと自負する方なら、き<br>　っと楽しめるかと思います。その前に判らん、と投げ出しそうですが（ぉ<br><br>　　詳しいゲームシステムについてはhtmlマニュアルをお読みください。<br>　それだけでは楽しみ方がよく分からない場合、他人のリプレイを見る<br>　と良いかも（Com同士の戦闘は参考にならない）<br>　　コツを掴むと確実に気持ちよくなること請け合い。</div></td><td class="tt-zh" lang="zh"><div class="poem">■１．问候<br>　　对于此次入手「东方花映塚　～ Phantasmagoria of Flower View.」，<br>  表示由衷的感谢。<br><br>　　这是有点与众不同的STG，喜欢游戏并且有自信的人，一定能在这个游戏中<br>  得到享受。如果在之前不知道STG的话，也许就会放弃吧（哦<br><br>　　详细的游戏系统，请读html的Manual文档。如果只看这个，但还是不明白玩的方法的话，就请看别人的replay吧，这样也许不错（不能作为和Com战斗的参考）<br>    我可以保证，只要学会窍门的话，就会玩得很愉快了。</div></td></tr></tbody></table>
+
 
 
 
@@ -46,6 +49,7 @@ Readme | 东方花映塚 | 使用了翻译表的页面 | 附带文档
 
 
 
+
 ###### 有困惑的话
 
 
@@ -53,10 +57,12 @@ Readme | 东方花映塚 | 使用了翻译表的页面 | 附带文档
 
 
 
+
 ###### 没困惑的话
 
 
 <table><tbody><tr class="tt-content" id="=-9" data-pos="&#91;&quot;=&quot;,9&#93;"><td class="tt-ja" lang="ja"><div class="poem">■４．困ったことが無かったら<br>　お楽しみ下さい。</div></td><td class="tt-zh" lang="zh"><div class="poem">■４．没困惑的话<br>  请尽情享受吧。</div></td></tr></tbody></table>
+
 
 
 

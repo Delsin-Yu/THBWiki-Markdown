@@ -164,6 +164,7 @@
 [](./文件-THD2莉格露·奈特巴格.png.md)
   
 
+
 ## 目录
 
 - [1 角色定位](#角色定位)
@@ -184,10 +185,12 @@
 
 
 
+
 ## 角色定位
   
 爆发 - 逃生 - 辅助
   
+
 
 ## 技能介绍
 
@@ -663,6 +666,7 @@
 </td></tr></tbody></table>
 
 
+
 ## 天赋树
 
 
@@ -701,25 +705,30 @@
 </td></tr></tbody></table>
 
 
+
 ### 出门装备
 ```
 [](./文件-THD2初阶魔法书.png.md) [](./文件-THD2衰人卡.png.md) [](./文件-THD2思兼生命药.png.md)
 ```
+
 
 ### 前期装备
 ```
 [](./文件-THD2雾雨魔力瓶.png.md) [](./文件-THD2魔法使扫把.png.md)
 ```
 
+
 ### 核心装备
 ```
 [](./文件-THD2不明的秒计时.png.md) [](./文件-THD2半灵练习剑.png.md)
 ```
 
+
 ### 可选装备
 ```
 [](./文件-THD2光龙雷云钻.png.md) [](./文件-THD2神枪冈格尼尔.png.md) [](./文件-THD2油库里之杖.png.md) [](./文件-THD2楼观剑.png.md) [](./文件-THD2月面之弩.png.md) [](./文件-THD2魔人经卷.png.md) [](./文件-THD2亡灵送行提灯.png.md) [](./文件-THD2真澄之镜.png.md) [](./文件-THD2博丽神社护身符.png.md) [](./文件-THD2白楼剑.png.md) [](./文件-THD2月兔粉碎巨刃.png.md) [](./文件-THD2鬼神镣铐.png.md) [](./文件-THD2八云间隙发生器.png.md) [](./文件-THD2冰精跳跃装置.png.md)
 ```
+
 
 ## 技能加点
 
@@ -781,6 +790,7 @@
 <td><a href="./文件-DOTA黄点.png.md" class="image" title="+2 全属性"><img alt="+2 全属性" src="https://upload.thwiki.cc/thumb/d/da/DOTA%E9%BB%84%E7%82%B9.png/40px-DOTA%E9%BB%84%E7%82%B9.png" decoding="async" loading="lazy" width="40" height="40" srcset="https://upload.thwiki.cc/thumb/d/da/DOTA%E9%BB%84%E7%82%B9.png/60px-DOTA%E9%BB%84%E7%82%B9.png 1.5x, https://upload.thwiki.cc/thumb/d/da/DOTA%E9%BB%84%E7%82%B9.png/80px-DOTA%E9%BB%84%E7%82%B9.png 2x" data-file-width="128" data-file-height="128"></a></td>
 <td><a href="./文件-THD2天赋树25左.png.md" class="image" title="-4秒 蝶雨冷却"><img alt="-4秒 蝶雨冷却" src="https://upload.thwiki.cc/thumb/a/aa/THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%B7%A6.png/40px-THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%B7%A6.png" decoding="async" loading="lazy" width="40" height="40" srcset="https://upload.thwiki.cc/thumb/a/aa/THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%B7%A6.png/60px-THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%B7%A6.png 1.5x, https://upload.thwiki.cc/thumb/a/aa/THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%B7%A6.png/80px-THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%B7%A6.png 2x" data-file-width="103" data-file-height="103"></a>
 </td></tr></tbody></table>
+
 
 
 ## 台词
@@ -850,6 +860,7 @@
 </td>
 <td>見（み）えない　虫（むし）　は　危険（きけん）よ<br>[看不见的虫子危险哦]
 </td></tr></tbody></table>
+
 
 
 ## 教学视频

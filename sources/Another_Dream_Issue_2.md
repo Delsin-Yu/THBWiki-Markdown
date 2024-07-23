@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Another_Dream_Issue_2封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/0/09/Another_Dream_Issue_2%E5%B0%81%E9%9D%A2.jpg/126px-Another_Dream_Issue_2%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="126" height="168" srcset="https://upload.thwiki.cc/thumb/0/09/Another_Dream_Issue_2%E5%B0%81%E9%9D%A2.jpg/189px-Another_Dream_Issue_2%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/0/09/Another_Dream_Issue_2%E5%B0%81%E9%9D%A2.jpg/252px-Another_Dream_Issue_2%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="600" data-file-height="800"></a><div class="cover-char">角色：<a href="./键山雏.md" title="键山雏">键山雏</a>，<a href="./射命丸文.md" title="射命丸文">射命丸文</a></div></td>
@@ -14,10 +15,13 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://anotherdream.gensokyo.org/releases/issue-2-oct-2007-release/">http://anotherdream.gensokyo.org/releases/issue-2-oct-2007-release/</a><br><span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span></td></tr><tr><td class="label">备注</td><td colspan="2">附带CD <a href="./Autumn_Fantasy.md" title="Autumn Fantasy">Autumn Fantasy</a></td></tr></tbody></table>
 
 Another Dream Issue 2（同人志，Another Dream，2007） - 2007年10月31日 由 Another Dream  发布的合同志/漫画/绘本同人志，一共164页，分级为 一般向
+
 ## Staff
+
 ### Issue Work
 - MidnightSun
 - Wong
+
 
 ### Articles
   
@@ -71,8 +75,10 @@ Another Dream Issue 2（同人志，Another Dream，2007） - 2007年10月31日 
 - Artwork &amp; Story&#160;: Wong (as 黄宇峰)
 - Guilty Gear Character Design&#160;: Daisuke Ishiwatari
 
+
 ### Special Thanks
 - ZUN, Gensokyo.org, Pooshlmer, MidnightSun
+
 
 ## 评论
 

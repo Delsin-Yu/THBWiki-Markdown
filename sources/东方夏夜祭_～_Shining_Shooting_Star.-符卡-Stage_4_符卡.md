@@ -21,6 +21,7 @@
 
   
 </center>
+
 ## 目录
 
 - [1 符卡信息](#符卡信息)
@@ -40,10 +41,12 @@
 
 
 
+
 ## 符卡信息
   
  **本面BOSS符卡因角色而异，编号按符卡顺序优先，(菜单)角色选择顺序其次原则编写，为了方便阅览，单个角色线符卡放在一起。** 
   
+
 
 ### 全线符卡
 
@@ -56,6 +59,7 @@
 <table>
 <tbody><tr><td width="80">符卡编号</td><td width="400">025</td><td rowspan="3" width="120"><a href="./文件-魔镜「虚无幽幻之境」.png.md" class="image"><img alt="魔镜「虚无幽幻之境」.png" src="https://upload.thwiki.cc/thumb/c/ca/%E9%AD%94%E9%95%9C%E3%80%8C%E8%99%9A%E6%97%A0%E5%B9%BD%E5%B9%BB%E4%B9%8B%E5%A2%83%E3%80%8D.png/120px-%E9%AD%94%E9%95%9C%E3%80%8C%E8%99%9A%E6%97%A0%E5%B9%BD%E5%B9%BB%E4%B9%8B%E5%A2%83%E3%80%8D.png" decoding="async" loading="lazy" width="120" height="138" srcset="https://upload.thwiki.cc/thumb/c/ca/%E9%AD%94%E9%95%9C%E3%80%8C%E8%99%9A%E6%97%A0%E5%B9%BD%E5%B9%BB%E4%B9%8B%E5%A2%83%E3%80%8D.png/180px-%E9%AD%94%E9%95%9C%E3%80%8C%E8%99%9A%E6%97%A0%E5%B9%BD%E5%B9%BB%E4%B9%8B%E5%A2%83%E3%80%8D.png 1.5x, https://upload.thwiki.cc/thumb/c/ca/%E9%AD%94%E9%95%9C%E3%80%8C%E8%99%9A%E6%97%A0%E5%B9%BD%E5%B9%BB%E4%B9%8B%E5%A2%83%E3%80%8D.png/240px-%E9%AD%94%E9%95%9C%E3%80%8C%E8%99%9A%E6%97%A0%E5%B9%BD%E5%B9%BB%E4%B9%8B%E5%A2%83%E3%80%8D.png 2x" data-file-width="612" data-file-height="705"></a></td></tr>
 <tr><td>符卡原名</td><td>魔镜「虚无幽幻之境」</td></tr><tr><td>出现位置</td><td>Stage 4 - Hard/Lunatic（<a href="./魅明魔影.md" title="魅明魔影">魅明魔影</a>）</td></tr></tbody></table>
+
 
 
 ### 博丽灵梦&amp;少名针妙丸 (未找到链接)线符卡
@@ -77,6 +81,7 @@
 <tr><td>符卡原名</td><td>辉针「闪耀万针剑」</td></tr><tr><td>出现位置</td><td>Stage 4 - Easy/Normal/Hard/Lunatic（<a href="./魅明魔影.md" title="魅明魔影">魅明魔影</a>）</td></tr></tbody></table>
 
 
+
 ### 雾雨魔理沙 (未找到链接)线符卡
 
 <table>
@@ -94,6 +99,7 @@
 <table>
 <tbody><tr><td width="80">符卡编号</td><td width="400">035</td><td rowspan="3" width="120"><a href="./文件-星符「急速彗星」.png.md" class="image"><img alt="星符「急速彗星」.png" src="https://upload.thwiki.cc/thumb/0/0e/%E6%98%9F%E7%AC%A6%E3%80%8C%E6%80%A5%E9%80%9F%E5%BD%97%E6%98%9F%E3%80%8D.png/120px-%E6%98%9F%E7%AC%A6%E3%80%8C%E6%80%A5%E9%80%9F%E5%BD%97%E6%98%9F%E3%80%8D.png" decoding="async" loading="lazy" width="120" height="140" srcset="https://upload.thwiki.cc/thumb/0/0e/%E6%98%9F%E7%AC%A6%E3%80%8C%E6%80%A5%E9%80%9F%E5%BD%97%E6%98%9F%E3%80%8D.png/180px-%E6%98%9F%E7%AC%A6%E3%80%8C%E6%80%A5%E9%80%9F%E5%BD%97%E6%98%9F%E3%80%8D.png 1.5x, https://upload.thwiki.cc/thumb/0/0e/%E6%98%9F%E7%AC%A6%E3%80%8C%E6%80%A5%E9%80%9F%E5%BD%97%E6%98%9F%E3%80%8D.png/240px-%E6%98%9F%E7%AC%A6%E3%80%8C%E6%80%A5%E9%80%9F%E5%BD%97%E6%98%9F%E3%80%8D.png 2x" data-file-width="384" data-file-height="448"></a></td></tr>
 <tr><td>符卡原名</td><td>星符「急速彗星」</td></tr><tr><td>出现位置</td><td>Stage 4 - Easy/Normal/Hard/Lunatic（<a href="./魅明魔影.md" title="魅明魔影">魅明魔影</a>）</td></tr></tbody></table>
+
 
 
 ### 东风谷早苗 (未找到链接)线符卡
@@ -115,6 +121,7 @@
 <tr><td>符卡原名</td><td>秘术「遗忘之封印」</td></tr><tr><td>出现位置</td><td>Stage 4 - Easy/Normal/Hard/Lunatic（<a href="./魅明魔影.md" title="魅明魔影">魅明魔影</a>）</td></tr></tbody></table>
 
 
+
 ### 古明地恋 (未找到链接)线
 
 <table>
@@ -132,6 +139,7 @@
 <table>
 <tbody><tr><td width="80">符卡编号</td><td width="400">037</td><td rowspan="3" width="120"><a href="./文件-「古明地恋的消失」.png.md" class="image"><img alt="「古明地恋的消失」.png" src="https://upload.thwiki.cc/thumb/e/e5/%E3%80%8C%E5%8F%A4%E6%98%8E%E5%9C%B0%E6%81%8B%E7%9A%84%E6%B6%88%E5%A4%B1%E3%80%8D.png/120px-%E3%80%8C%E5%8F%A4%E6%98%8E%E5%9C%B0%E6%81%8B%E7%9A%84%E6%B6%88%E5%A4%B1%E3%80%8D.png" decoding="async" loading="lazy" width="120" height="138" srcset="https://upload.thwiki.cc/thumb/e/e5/%E3%80%8C%E5%8F%A4%E6%98%8E%E5%9C%B0%E6%81%8B%E7%9A%84%E6%B6%88%E5%A4%B1%E3%80%8D.png/180px-%E3%80%8C%E5%8F%A4%E6%98%8E%E5%9C%B0%E6%81%8B%E7%9A%84%E6%B6%88%E5%A4%B1%E3%80%8D.png 1.5x, https://upload.thwiki.cc/thumb/e/e5/%E3%80%8C%E5%8F%A4%E6%98%8E%E5%9C%B0%E6%81%8B%E7%9A%84%E6%B6%88%E5%A4%B1%E3%80%8D.png/240px-%E3%80%8C%E5%8F%A4%E6%98%8E%E5%9C%B0%E6%81%8B%E7%9A%84%E6%B6%88%E5%A4%B1%E3%80%8D.png 2x" data-file-width="612" data-file-height="705"></a></td></tr>
 <tr><td>符卡原名</td><td>「古明地恋的消失」</td></tr><tr><td>出现位置</td><td>Stage 4 - Easy/Normal/Hard/Lunatic（<a href="./魅明魔影.md" title="魅明魔影">魅明魔影</a>）</td></tr></tbody></table>
+
 
 
 ### 全线符卡
@@ -166,6 +174,7 @@
 </center>
 
 [^cite_note-1]: 游戏中显示的“琉璃”的琉为日语中的汉字
+
 
 ## 词条导航
   

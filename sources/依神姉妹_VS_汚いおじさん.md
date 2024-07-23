@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-依神姉妹_VS_汚いおじさん封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/b/ba/%E4%BE%9D%E7%A5%9E%E5%A7%89%E5%A6%B9_VS_%E6%B1%9A%E3%81%84%E3%81%8A%E3%81%98%E3%81%95%E3%82%93%E5%B0%81%E9%9D%A2.jpg/140px-%E4%BE%9D%E7%A5%9E%E5%A7%89%E5%A6%B9_VS_%E6%B1%9A%E3%81%84%E3%81%8A%E3%81%98%E3%81%95%E3%82%93%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="140" height="196" srcset="https://upload.thwiki.cc/thumb/b/ba/%E4%BE%9D%E7%A5%9E%E5%A7%89%E5%A6%B9_VS_%E6%B1%9A%E3%81%84%E3%81%8A%E3%81%98%E3%81%95%E3%82%93%E5%B0%81%E9%9D%A2.jpg/209px-%E4%BE%9D%E7%A5%9E%E5%A7%89%E5%A6%B9_VS_%E6%B1%9A%E3%81%84%E3%81%8A%E3%81%98%E3%81%95%E3%82%93%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/b/ba/%E4%BE%9D%E7%A5%9E%E5%A7%89%E5%A6%B9_VS_%E6%B1%9A%E3%81%84%E3%81%8A%E3%81%98%E3%81%95%E3%82%93%E5%B0%81%E9%9D%A2.jpg/279px-%E4%BE%9D%E7%A5%9E%E5%A7%89%E5%A6%B9_VS_%E6%B1%9A%E3%81%84%E3%81%8A%E3%81%98%E3%81%95%E3%82%93%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1460" data-file-height="2048"></a><div class="cover-char">角色：<a href="./依神紫苑.md" title="依神紫苑">依神紫苑</a>，<a href="./依神女苑.md" title="依神女苑">依神女苑</a></div></td>
@@ -18,9 +19,11 @@
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=508655">蜜瓜</a></td></tr></tbody></table>
 
 
+
 ## Staff
 - [なぎと](./なぎと.md)（[げるまにうむ](./げるまにうむ.md)）
 - [斗伝](./斗伝.md)（[EYE SPLICE](./Eye_Splice（同人专辑）.md)）
+
 
 ## 评论
 

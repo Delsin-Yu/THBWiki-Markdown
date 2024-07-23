@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-C!封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/9/94/C%21%E5%B0%81%E9%9D%A2.jpg/120px-C%21%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="120" height="168" srcset="https://upload.thwiki.cc/thumb/9/94/C%21%E5%B0%81%E9%9D%A2.jpg/180px-C%21%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/9/94/C%21%E5%B0%81%E9%9D%A2.jpg/240px-C%21%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="666" data-file-height="932"></a><div class="cover-char">角色：<a href="./封兽鵺.md" title="封兽鵺">封兽鵺</a>，<a href="./娜兹玲.md" title="娜兹玲">娜兹玲</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/73658789">https://www.pixiv.net/artworks/73658789</a></td></tr></tbody></table>
 
 C!（同人志，ソエメオアルマ，2019） - 2019年3月17日 由 ソエメオアルマ 于 Treasure Party！1 发布的漫画同人志，一共16页，分级为 一般向
+
 ## Staff
 - メピカリ (未找到链接)
+
 
 ## 评论
 

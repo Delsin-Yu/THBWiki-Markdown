@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-FMPSG009_-Remember_the_chiptune-封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/9/95/FMPSG009_-Remember_the_chiptune-%E5%B0%81%E9%9D%A2.jpg/252px-FMPSG009_-Remember_the_chiptune-%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="252" srcset="https://upload.thwiki.cc/thumb/9/95/FMPSG009_-Remember_the_chiptune-%E5%B0%81%E9%9D%A2.jpg/378px-FMPSG009_-Remember_the_chiptune-%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/9/95/FMPSG009_-Remember_the_chiptune-%E5%B0%81%E9%9D%A2.jpg/504px-FMPSG009_-Remember_the_chiptune-%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="568" data-file-height="568"></a></td>
@@ -18,11 +19,13 @@ FMPSG009 -Remember the chiptune-（同人专辑，FMPSG，2008） - 2008年3月9
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="http://alice-books.com/item/show/10017-10">AliceBooks</a></td></tr></tbody></table>
 
 
+
 ## Staff
   
  **Arrangement**   
 
 <table><tbody><tr><td><a href="/index.php?title=%E9%AA%A8%E6%8A%98%E9%A3%B2%E6%96%99&amp;action=edit&amp;redlink=1" class="new" title="骨折飲料（页面不存在）">骨折飲料</a></td><td></td><td>Tr.21</td></tr></tbody></table>
+
 
 
 ## 曲目列表
@@ -47,9 +50,10 @@ FMPSG009 -Remember the chiptune-（同人专辑，FMPSG，2008） - 2008年3月9
 <tr><td id="18" class="info"><b>18</b></td><td id="anniversary" colspan="2" class="title">anniversary<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=FMPSG009_-Remember_the_chiptune-"><span title="搜索相似同人曲"></span></a></span></td><td class="time">05:12</td></tr>
 <tr><td id="19" class="info"><b>19</b></td><td id="Like_a_Fighting_Whirlwind" colspan="2" class="title">Like a Fighting Whirlwind<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=FMPSG009_-Remember_the_chiptune-"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:12</td></tr>
 <tr><td id="20" class="info"><b>20</b></td><td id="Whisper_o&#39;Goddess_2000" colspan="2" class="title">Whisper o&#39;Goddess 2000<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=FMPSG009_-Remember_the_chiptune-"><span title="搜索相似同人曲"></span></a></span></td><td class="time">05:43</td></tr>
-<tr><td id="21" class="infoYD"><b>21</b></td><td id="メイドと血の懐中時計" colspan="2" class="title">メイドと血の懐中時計<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=骨折飲料&amp;ogmusic=メイドと血の懐中時計&amp;fromwiki=FMPSG009_-Remember_the_chiptune-"><span title="搜索相似同人曲"></span></a></span></td><td class="time">05:23</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E9%AA%A8%E6%8A%98%E9%A3%B2%E6%96%99&amp;action=edit&amp;redlink=1" class="new" title="骨折飲料（页面不存在）">骨折飲料</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，骨折飲料&amp;fromwiki=FMPSG009_-Remember_the_chiptune-"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=メイドと血の懐中時計&amp;fromwiki=FMPSG009_-Remember_the_chiptune-"><span></span></a></span><div class="ogmusic"><a href="/%E3%83%A1%E3%82%A4%E3%83%89%E3%81%A8%E8%A1%80%E3%81%AE%E6%87%90%E4%B8%AD%E6%99%82%E8%A8%88" class="mw-redirect" title="メイドと血の懐中時計">メイドと血の懐中時計</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E7%BA%A2%E9%AD%94%E4%B9%A1_%EF%BD%9E_the_Embodiment_of_Scarlet_Devil." class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr>
+<tr><td id="21" class="infoYD"><b>21</b></td><td id="メイドと血の懐中時計" colspan="2" class="title">メイドと血の懐中時計<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=骨折飲料&amp;ogmusic=メイドと血の懐中時計&amp;fromwiki=FMPSG009_-Remember_the_chiptune-"><span title="搜索相似同人曲"></span></a></span></td><td class="time">05:23</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E9%AA%A8%E6%8A%98%E9%A3%B2%E6%96%99&amp;action=edit&amp;redlink=1" class="new" title="骨折飲料（页面不存在）">骨折飲料</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，骨折飲料&amp;fromwiki=FMPSG009_-Remember_the_chiptune-"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=メイドと血の懐中時計&amp;fromwiki=FMPSG009_-Remember_the_chiptune-"><span></span></a></span><div class="ogmusic"><a href="./メイドと血の懐中時計.md" class="mw-redirect" title="メイドと血の懐中時計">メイドと血の懐中時計</a></div><div class="source"><a href="./东方红魔乡_～_the_Embodiment_of_Scarlet_Devil..md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr>
 <tr><td id="22" class="info"><b>22</b></td><td id="The_morning_grow" colspan="2" class="title">The morning grow<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=FMPSG009_-Remember_the_chiptune-"><span title="搜索相似同人曲"></span></a></span></td><td class="time">01:57</td></tr>
 <tr><td id="23" class="info"><b>23</b></td><td id="離別" colspan="2" class="title">離別<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=FMPSG009_-Remember_the_chiptune-"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:09</td></tr></tbody></table>
+
 
 
 ## 评论

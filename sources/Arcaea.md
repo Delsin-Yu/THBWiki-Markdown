@@ -6,7 +6,7 @@
 
 本页是关于  
 含有[东方Project](./东方Project.md)相关内容的  
-商业游戏 (未找到链接)作品的词条Arcaea（商业游戏） - 
+[商业游戏](./东方相关商业游戏.md)作品的词条Arcaea（商业游戏） - 
 <center>
 
 <table>
@@ -25,6 +25,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://arcaea.lowiro.com">https://arcaea.lowiro.com</a></td></tr></tbody></table>
 
 Arcaea（同人游戏，lowiro，同人专辑，2017） - 2017年3月9日 由 lowiro  发布的MUG同人游戏，可在 Android/iOS/NS 系统上运行，游戏人数为 单人模式，分级为 一般向
+
 ## 目录
 
 - [1 简介](#简介)
@@ -32,6 +33,7 @@ Arcaea（同人游戏，lowiro，同人专辑，2017） - 2017年3月9日 由 lo
 - [3 游戏内收录的东方曲目](#游戏内收录的东方曲目)
 - [4 注释](#注释)
 - [5 参考资料](#参考资料)
+
 
 
 
@@ -50,6 +52,7 @@ Arcaea（同人游戏，lowiro，同人专辑，2017） - 2017年3月9日 由 lo
 2021年5月18日移植于NS端，作为单机游戏供玩家选购。
   
 
+
 ## 与东方Project的关联
   
 2023年1月17日，lowiro宣布实装新版本的限时免费单曲包[^cite_note-1]《World Extend》（现已更名为Extend Archive 2: Chronicles），其中收录了第一首东方相关曲目《[月に叢雲華に風](./月に叢雲華に風.md)》，该曲目也是收录曲目中第一首东方相关的纷争侧曲目。
@@ -64,9 +67,11 @@ Arcaea（同人游戏，lowiro，同人专辑，2017） - 2017年3月9日 由 lo
 目前Arcaea中实装的东方曲目均为同人曲目，且均分布在World Extend与Memory Archive中，尚无单独的曲包。
   
 
+
 ## 游戏内收录的东方曲目
 
 [^cite_note-1]: 该曲包内的曲目在推出时可通过限时活动免费获得，活动结束后必须付费购买整个曲包以解锁对应曲目
+
 
 ## 参考资料
   

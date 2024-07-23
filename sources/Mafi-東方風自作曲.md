@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2">无封面</td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://soundcloud.com/user-574090653">https://soundcloud.com/user-574090653</a><br><a rel="nofollow" class="external free" href="https://www.fanbox.cc/@mafi">https://www.fanbox.cc/@mafi</a></td></tr></tbody></table>
 
 Mafi/東方風自作曲（同人专辑，Mafi，2020） - 2020年5月10日 由 Mafi  发布的单曲同人专辑，分级为 一般向
+
 ## 曲目列表
 
 <table><tbody><tr><td id="1" class="infoYL"><b>01</b></td><td id="夢見る空都トヨクモ" colspan="2" class="title">夢見る空都トヨクモ<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Mafi&amp;fromwiki=Mafi/東方風自作曲"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./Mafi.md" title="Mafi">Mafi</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Mafi&amp;fromwiki=Mafi/東方風自作曲"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">首发日期</td><td class="text" colspan="2">2020-05-10</td></tr>
@@ -34,6 +36,7 @@ Mafi/東方風自作曲（同人专辑，Mafi，2020） - 2020年5月10日 由 M
 <tr><td id="16" class="infoYL"><b>16</b></td><td id="幻想受胎" colspan="2" class="title">幻想受胎<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Mafi&amp;fromwiki=Mafi/東方風自作曲"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./Mafi.md" title="Mafi">Mafi</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Mafi&amp;fromwiki=Mafi/東方風自作曲"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">首发日期</td><td class="text" colspan="2">2020-11-07</td></tr>
 <tr><td id="17" class="infoYL"><b>17</b></td><td id="東方新作が発表されたと聞いて" colspan="2" class="title">東方新作が発表されたと聞いて<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Mafi&amp;fromwiki=Mafi/東方風自作曲"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./Mafi.md" title="Mafi">Mafi</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Mafi&amp;fromwiki=Mafi/東方風自作曲"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">首发日期</td><td class="text" colspan="2">2021-02-28</td></tr>
 <tr><td id="18" class="infoYL"><b>18</b></td><td id="マジカルルベライト" colspan="2" class="title">マジカルルベライト<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Mafi&amp;fromwiki=Mafi/東方風自作曲"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./Mafi.md" title="Mafi">Mafi</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Mafi&amp;fromwiki=Mafi/東方風自作曲"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">首发日期</td><td class="text" colspan="2">2021-03-20</td></tr></tbody></table>
+
 
 
 ## 评论

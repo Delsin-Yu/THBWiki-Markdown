@@ -4,6 +4,7 @@
 
 Aurea_Geräusch_Game_Studio | DAMO_NETWORK_LIMITED | KLabGames | 东方ArcadiaRecord | 封面图片 | 授权商业二次创作手机游戏 | 软件封面
 
+
 ## 摘要
   
 使用了本文件作封面图片的作品：

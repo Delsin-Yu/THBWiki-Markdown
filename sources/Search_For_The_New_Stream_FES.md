@@ -4,8 +4,9 @@
 
 Search For The New Stream FES 在 日本京都 举办的  东方同人LIVE，夜店舞会活动，目前共举办了2届
 
-本页是关于 **同人展会 (未找到链接)**   
-及 **相关活动 (未找到链接)** 的词条
+本页是关于 **[同人展会](./同人展会.md#展会类活动)**   
+及 **[相关活动](./相关活动.md)** 的词条
+
 ## 目录
 
 - [1 概述](#概述)
@@ -22,6 +23,7 @@ Search For The New Stream FES 在 日本京都 举办的  东方同人LIVE，夜
 
 
 
+
 ## 概述
 文件:Search For The New Stream FES LOGO.jpg (未找到链接)  Search For The New Stream FES LOGO
   
@@ -30,7 +32,7 @@ Search For The New Stream FES 在 日本京都 举办的  东方同人LIVE，夜
   
   
   
-日本 **京都** 的东方Project Only **混合型同人活动** ，以 **拼盘LIVE类活动 (未找到链接)** 为主体， **夜店舞会 (未找到链接)**  **类活动** 为辅。  
+日本 **京都** 的东方Project Only **混合型同人活动** ，以 **拼盘[LIVE类活动](./LIVE类活动.md#LIVE类活动)** 为主体， **[夜店舞会](./夜店舞会类活动.md#夜店舞会类活动)**  **类活动** 为辅。  
   
 在京都举办。  
   
@@ -44,6 +46,7 @@ Search For The New Stream FES 在 日本京都 举办的  东方同人LIVE，夜
 过往官方网站： [http://dhstohoevent.blog.fc2.com](http://dhstohoevent.blog.fc2.com)   
   
 Search For The New Stream FES（活动，LIVE活动，夜店舞会活动） - Search For The New Stream FES 在 日本京都 举办的  东方同人LIVE，夜店舞会活动，目前共举办了2届
+
 ## 历届信息
 - 点击届数可进入对应分类页面。
 - 举办日期以当地日期为准。
@@ -56,9 +59,10 @@ Search For The New Stream FES（活动，LIVE活动，夜店舞会活动） - Se
 </tbody></table>
 
 
+
 ## 演出社团及人员
 Search For The New Stream FES 2012
-:  **LIVE** :[Kissing the Mirror](./Kissing_the_Mirror.md)、㈲はしやすめwithオンパシラオールスターズ (未找到链接)、[9bFOX](./9bFOX.md)、[The Dust Of Society](./The_Dust_of_Society.md)、[Closed Circus](./Closed_Circus.md)、[DLR](./DLR.md)、[夢幻燈](./夢幻燈.md)、[午前四時](./午前四時.md)、[キャオラッ！](./キャオラッ！.md)、[DHS](./DHS.md)  
+:  **LIVE** :[Kissing the Mirror](./Kissing_the_Mirror.md)、[㈲はしやすめwithオンパシラオールスターズ](./㈲はしやすめwithオンパシラオールスターズ.md)、[9bFOX](./9bFOX.md)、[The Dust Of Society](./The_Dust_of_Society.md)、[Closed Circus](./Closed_Circus.md)、[DLR](./DLR.md)、[夢幻燈](./夢幻燈.md)、[午前四時](./午前四時.md)、[キャオラッ！](./キャオラッ！.md)、[DHS](./DHS.md)  
  **DJ** ：TIGHT (未找到链接)、魅鷹 (未找到链接)、サキ (未找到链接)、ryou (未找到链接)
 
 Search For The New Stream FES 2014
@@ -66,10 +70,12 @@ Search For The New Stream FES 2014
  **DJ** ：Tight (未找到链接)、ryou (未找到链接)、魅鷹 (未找到链接)、[餅屋（人物）](./餅屋（人物）.md)、戸塚エイジ (未找到链接)、DJ Akamatz a.k.a.so-fram*c (未找到链接)  
  **VJ** ：GAS (未找到链接)、k_muko (未找到链接)
 
+
 ## 历届宣传图
   
 网站首页使用的作为顶图或宣传图片的图片。
   
+
 
 ### 第一届至第二届
 - [](./文件-Search_For_The_New_Stream_FES1插画.jpg.md)第1届- [](./文件-Search_For_The_New_Stream_FES2插画.jpg.md)第2届

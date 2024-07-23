@@ -6,11 +6,13 @@
 
 本页是关于东方Project  
  **相关实体周边 (未找到链接)** 的词条
+
 ## 模型信息
 
 <table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 博丽灵梦 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>星莲船ver</td></tr><tr><td class="label">角色</td><td><a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></td></tr><tr><td class="label">原型师</td><td><a href="/index.php?title=%E8%97%A4%E5%B4%8E_%E5%A3%AB%E6%9C%97&amp;action=edit&amp;redlink=1" class="new" title="藤崎 士朗（页面不存在）">藤崎 士朗</a></td></tr><tr><td class="label">尺寸</td><td>160mm</td></tr><tr><td class="label">状态</td><td>已发售</td></tr><tr><td class="label">售价</td><td>3142日元</td></tr><tr><td class="label">首发日期</td><td>2012-05-25</td></tr><tr><td class="label">发售方</td><td><a href="/index.php?title=Pink_Company&amp;action=edit&amp;redlink=1" class="new" title="Pink Company（页面不存在）">Pink Company</a></td></tr></tbody></table>
 
 Pink Company/星莲船ver/博丽灵梦（周边） - 博丽灵梦PVCFigure手办模型
+
 ## 参考图片
 
 

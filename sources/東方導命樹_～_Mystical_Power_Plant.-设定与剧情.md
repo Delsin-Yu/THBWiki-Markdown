@@ -4,6 +4,7 @@
 
 東方邪星章製作チーム
 
+
 ## 故事背景
   
 <big>翻译已完成，汉化补丁已发布。</big>
@@ -11,6 +12,7 @@
 
 - [故事背景](./東方導命樹_～_Mystical_Power_Plant.-设定与剧情-故事背景.md)
 - [Ex 故事背景](./東方導命樹_～_Mystical_Power_Plant.-设定与剧情-ExStory.md)
+
 
 ## 游戏对话
 - [博丽灵梦&amp;灵乌路空 游戏对话/结局](./東方導命樹_～_Mystical_Power_Plant.-设定与剧情-Route1.md)
@@ -27,6 +29,7 @@
   
 具体的故事背景与游戏剧情请参照上面的词条或到游戏中亲自体验。
   
+
 
 ## 附带文档
 - [Readme（中日对照）](./東方導命樹_～_Mystical_Power_Plant.-设定与剧情-Readme_Ja.md)

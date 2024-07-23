@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **相关实体周边 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 周边信息](#周边信息)
@@ -22,25 +23,31 @@
 
 
 
+
 ## 周边信息
 
 <table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 多多良小伞同人COS伞 </td></tr><tr><td class="label">制作方</td><td><a href="./Raspberry_Pie.md" title="Raspberry Pie">Raspberry Pie</a></td></tr><tr><td class="label">首发日期</td><td>未知</td></tr><tr><td class="label">类型</td><td>Cosplay道具</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">角色</td><td><a href="./多多良小伞.md" title="多多良小伞">多多良小伞</a></td></tr><tr><td class="label">售价</td><td>98人民币</td></tr><tr><td class="label">备注</td><td>有舌头款128元，无舌头款98元</td></tr></tbody></table>
 
 Raspberry Pie/多多良小伞同人COS伞（周边，Raspberry Pie） - 2024年6月22日 由 Raspberry Pie  发布的Cosplay道具周边，分级为 一般向
+
 ## 参考图
   
 周边宣传、售卖时使用的作为参考图的预览图或实物图的图片。
   
 
+
 ### 预览图
 - [](./文件-Raspberry_Pie／多多良小伞同人COS伞预览图1.jpg.md)
 
+
 ### 实物图
+
 ## Staff
 联合企划
 : 暮光
 画师
 : 阿坎
+
 
 ## 评论
 

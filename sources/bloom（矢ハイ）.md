@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-bloom（矢ハイ）封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/7/78/bloom%EF%BC%88%E7%9F%A2%E3%83%8F%E3%82%A4%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/165px-bloom%EF%BC%88%E7%9F%A2%E3%83%8F%E3%82%A4%EF%BC%89%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="165" height="224" srcset="https://upload.thwiki.cc/thumb/7/78/bloom%EF%BC%88%E7%9F%A2%E3%83%8F%E3%82%A4%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/247px-bloom%EF%BC%88%E7%9F%A2%E3%83%8F%E3%82%A4%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/7/78/bloom%EF%BC%88%E7%9F%A2%E3%83%8F%E3%82%A4%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/329px-bloom%EF%BC%88%E7%9F%A2%E3%83%8F%E3%82%A4%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="652" data-file-height="887"></a><div class="cover-char">角色：<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a>，<a href="./爱丽丝·玛格特洛依德.md" title="爱丽丝·玛格特洛依德">爱丽丝·玛格特洛依德</a></div></td>
@@ -17,9 +18,12 @@ bloom（同人志，矢ハイ，2012） - 2012年5月27日 由 矢ハイ 于 博
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://ec.toranoana.jp/tora_r/ec/item/040030047452">虎穴</a></td></tr></tbody></table>
 
 
+
 ## 预览
+
 ## Staff
 - あおい (未找到链接)
+
 
 ## 评论
 

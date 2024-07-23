@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Rebellion_against_fate封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/7/7f/Rebellion_against_fate%E5%B0%81%E9%9D%A2.jpg/119px-Rebellion_against_fate%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="119" height="168" srcset="https://upload.thwiki.cc/thumb/7/7f/Rebellion_against_fate%E5%B0%81%E9%9D%A2.jpg/178px-Rebellion_against_fate%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/7/7f/Rebellion_against_fate%E5%B0%81%E9%9D%A2.jpg/238px-Rebellion_against_fate%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="283" data-file-height="400"></a><div class="cover-char">角色：<a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a>，<a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a></div></td>
@@ -14,9 +15,11 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://mementmori-14.jugem.jp/?eid=36">https://mementmori-14.jugem.jp/?eid=36</a></td></tr></tbody></table>
 
 Rebellion against fate（同人志，MEMENT MORI，2011） - 2011年5月8日 由 MEMENT MORI 于 博丽神社例大祭8 发布的漫画同人志，一共28页，分级为 一般向
+
 ## Staff
 Art, writing
 : 14 (未找到链接) （[MEMENT MORI](./MEMENT_MORI.md)）
+
 
 ## 评论
 

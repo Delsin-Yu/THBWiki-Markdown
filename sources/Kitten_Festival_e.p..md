@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Kitten_Festival_e.p.封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/d/d0/Kitten_Festival_e.p.%E5%B0%81%E9%9D%A2.jpg/252px-Kitten_Festival_e.p.%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="252" srcset="https://upload.thwiki.cc/thumb/d/d0/Kitten_Festival_e.p.%E5%B0%81%E9%9D%A2.jpg/378px-Kitten_Festival_e.p.%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/d/d0/Kitten_Festival_e.p.%E5%B0%81%E9%9D%A2.jpg/504px-Kitten_Festival_e.p.%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1400" data-file-height="1400"></a></td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://amateras-records.com/2021summer/">http://amateras-records.com/2021summer/</a></td></tr></tbody></table>
 
 Kitten Festival e.p.（同人专辑，Amateras Records，2021） - 2021年8月28日 由 Amateras Records 于 东方同人音乐流通 夏日三周连续发布祭典3 发布的EP同人专辑，分级为 一般向
+
 ## Staff
   
  **Arrangement**   
@@ -24,16 +26,19 @@ Kitten Festival e.p.（同人专辑，Amateras Records，2021） - 2021年8月28
 Design
 : [Tracy](./Tracy.md)
 
+
 ## 试听
   
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1099717246&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=false"></iframe>
 
   
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Kitten_Festival" colspan="2" class="title">Kitten Festival<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Tracy&amp;ogmusic=大吉キトゥン&amp;fromwiki=Kitten_Festival_e.p."><span title="搜索相似同人曲"></span></a></span></td><td class="time">02:45</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Tracy.md" title="Tracy">Tracy</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Tracy&amp;fromwiki=Kitten_Festival_e.p."><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=大吉キトゥン&amp;fromwiki=Kitten_Festival_e.p."><span></span></a></span><div class="ogmusic"><a href="/%E5%A4%A7%E5%90%89%E3%82%AD%E3%83%88%E3%82%A5%E3%83%B3" class="mw-redirect" title="大吉キトゥン">大吉キトゥン</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E8%99%B9%E9%BE%99%E6%B4%9E_%EF%BD%9E_Unconnected_Marketeers." class="mw-redirect" title="东方虹龙洞 ～ Unconnected Marketeers.">东方虹龙洞　～ Unconnected Marketeers.</a></div></td></tr>
-<tr><td id="2" class="infoYD"><b>02</b></td><td id="Branch_Mining_Dragon_Gems" colspan="2" class="title">Branch Mining Dragon Gems<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=taqumi&amp;ogmusic=廃れゆく産業遺構&amp;fromwiki=Kitten_Festival_e.p."><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:12</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./taqumi.md" title="taqumi">taqumi</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，taqumi&amp;fromwiki=Kitten_Festival_e.p."><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=廃れゆく産業遺構&amp;fromwiki=Kitten_Festival_e.p."><span></span></a></span><div class="ogmusic"><a href="/%E5%BB%83%E3%82%8C%E3%82%86%E3%81%8F%E7%94%A3%E6%A5%AD%E9%81%BA%E6%A7%8B" class="mw-redirect" title="廃れゆく産業遺構">廃れゆく産業遺構</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E8%99%B9%E9%BE%99%E6%B4%9E_%EF%BD%9E_Unconnected_Marketeers." class="mw-redirect" title="东方虹龙洞 ～ Unconnected Marketeers.">东方虹龙洞　～ Unconnected Marketeers.</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Kitten_Festival" colspan="2" class="title">Kitten Festival<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Tracy&amp;ogmusic=大吉キトゥン&amp;fromwiki=Kitten_Festival_e.p."><span title="搜索相似同人曲"></span></a></span></td><td class="time">02:45</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Tracy.md" title="Tracy">Tracy</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Tracy&amp;fromwiki=Kitten_Festival_e.p."><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=大吉キトゥン&amp;fromwiki=Kitten_Festival_e.p."><span></span></a></span><div class="ogmusic"><a href="./大吉キトゥン.md" class="mw-redirect" title="大吉キトゥン">大吉キトゥン</a></div><div class="source"><a href="./东方虹龙洞_～_Unconnected_Marketeers..md" class="mw-redirect" title="东方虹龙洞 ～ Unconnected Marketeers.">东方虹龙洞　～ Unconnected Marketeers.</a></div></td></tr>
+<tr><td id="2" class="infoYD"><b>02</b></td><td id="Branch_Mining_Dragon_Gems" colspan="2" class="title">Branch Mining Dragon Gems<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=taqumi&amp;ogmusic=廃れゆく産業遺構&amp;fromwiki=Kitten_Festival_e.p."><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:12</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./taqumi.md" title="taqumi">taqumi</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，taqumi&amp;fromwiki=Kitten_Festival_e.p."><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=廃れゆく産業遺構&amp;fromwiki=Kitten_Festival_e.p."><span></span></a></span><div class="ogmusic"><a href="./廃れゆく産業遺構.md" class="mw-redirect" title="廃れゆく産業遺構">廃れゆく産業遺構</a></div><div class="source"><a href="./东方虹龙洞_～_Unconnected_Marketeers..md" class="mw-redirect" title="东方虹龙洞 ～ Unconnected Marketeers.">东方虹龙洞　～ Unconnected Marketeers.</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

@@ -4,7 +4,8 @@
 
 Solair Echoes ，于 2016 年成立，主要制作 同人音乐 的国际同人社团，主催是 Karasu，H*M，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -15,12 +16,14 @@ Solair Echoes ，于 2016 年成立，主要制作 同人音乐 的国际同人�
 
 
 
+
 ## 社团信息
 文件:Solair Echoesbanner.jpg (未找到链接)  banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Solair Echoes </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2016</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="./Karasu.md" title="Karasu">Karasu</a> <br> <a href="/index.php?title=H*M&amp;action=edit&amp;redlink=1" class="new" title="H*M（页面不存在）">H*M</a> </td></tr><tr><td><b>地区</b></td><td>国际</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://solairechoes.tumblr.com/">http://solairechoes.tumblr.com/</a> </td></tr></tbody></table>
 
 Solair Echoes（同人社团，同人音乐社团） - Solair Echoes ，于 2016 年成立，主要制作 同人音乐 的国际同人社团，主催是 Karasu，H*M，当前状态为 活动
+
 ## 成员名单
 - [Karasu](./Karasu.md) (arrangement/lyrics/management) ([Youtube](https://www.youtube.com/channel/UCi5Sx9mKRki_AGZt9pTuUfw))
 - H*M (未找到链接) (lyrics/vocals/management) ([Youtube](https://www.youtube.com/channel/UCZe5i1LMIkOMu23HFQamgKQ), [Blog](https://sterngazer.wordpress.com/))
@@ -28,6 +31,7 @@ Solair Echoes（同人社团，同人音乐社团） - Solair Echoes ，于 2016
 - Emmy (未找到链接) (vocals/violin)
 - Dessie (未找到链接) (support)
 - [Violet](./Violet（同人专辑）.md) (website design) ([Blog](https://friedworld.wordpress.com/))
+
 
 ## 作品列表
 [](./地獄から子守歌.md)[地獄から子守歌](./地獄から子守歌.md)首发日期：2016-08-13 （Comic Market 90 (未找到链接)）全长 （一般向）[](./Chrysalid_Reverie.md)[Chrysalid Reverie](./Chrysalid_Reverie.md)首发日期：2016-12-29 （Comic Market 91 (未找到链接)）EP （一般向）[](./tumbling_down_the_rabbit_hole.md)[tumbling down the rabbit hole](./tumbling_down_the_rabbit_hole.md)首发日期：2017-08-11 （Comic Market 92 (未找到链接)）EP （一般向）
@@ -37,6 +41,7 @@ Solair Echoes（同人社团，同人音乐社团） - Solair Echoes ，于 2016
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 其他信息

@@ -23,6 +23,7 @@ BANDAI_NAMCO | 东方相关商业游戏 | 待完成页面
 <big> **シンクロニカ** </big>，是BANDAI NAMCO (未找到链接)制作的音乐游戏，第一代于2015年06月18日推出。
   
 
+
 ## 目录
 
 - [1 介绍](#介绍)
@@ -33,15 +34,18 @@ BANDAI_NAMCO | 东方相关商业游戏 | 待完成页面
 
 
 
+
 ## 介绍
   
 待补
   
 
+
 ## 与东方Project的关联
   
 待补
   
+
 
 ## 游戏内收录的东方同人曲目
 
@@ -59,6 +63,7 @@ BANDAI_NAMCO | 东方相关商业游戏 | 待完成页面
 <tr><th colspan="2"></th></tr><tr><td colspan="2" style="padding-left: 1em;"><div class="floatright"><a href="./文件-東方氷雪大感謝封面.jpg.md" class="image" title="東方氷雪大感謝"><img alt="東方氷雪大感謝" src="https://upload.thwiki.cc/thumb/c/ca/%E6%9D%B1%E6%96%B9%E6%B0%B7%E9%9B%AA%E5%A4%A7%E6%84%9F%E8%AC%9D%E5%B0%81%E9%9D%A2.jpg/100px-%E6%9D%B1%E6%96%B9%E6%B0%B7%E9%9B%AA%E5%A4%A7%E6%84%9F%E8%AC%9D%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="100" height="100" srcset="https://upload.thwiki.cc/thumb/c/ca/%E6%9D%B1%E6%96%B9%E6%B0%B7%E9%9B%AA%E5%A4%A7%E6%84%9F%E8%AC%9D%E5%B0%81%E9%9D%A2.jpg/150px-%E6%9D%B1%E6%96%B9%E6%B0%B7%E9%9B%AA%E5%A4%A7%E6%84%9F%E8%AC%9D%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/c/ca/%E6%9D%B1%E6%96%B9%E6%B0%B7%E9%9B%AA%E5%A4%A7%E6%84%9F%E8%AC%9D%E5%B0%81%E9%9D%A2.jpg/200px-%E6%9D%B1%E6%96%B9%E6%B0%B7%E9%9B%AA%E5%A4%A7%E6%84%9F%E8%AC%9D%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="2500" data-file-height="2500"></a></div><b><a href="/%E6%9D%B1%E6%96%B9%E6%B0%B7%E9%9B%AA%E5%A4%A7%E6%84%9F%E8%AC%9D#1" title="東方氷雪大感謝">チルノのパーフェクトさんすう教室 ⑨周年バージョン</a></b> &#91;04:37&#93;<dl><dd><a href="./東方氷雪大感謝.md" title="東方氷雪大感謝">東方氷雪大感謝</a> （2017-10-15）<br>社团：<a href="./IOSYS.md" title="IOSYS">IOSYS</a><br>编曲：<a href="./ARM.md" title="ARM">ARM</a><br>演唱：<a href="./ランコ.md" title="ランコ">ランコ</a>，<a href="./あき.md" title="あき">あき</a>，<a href="./ビートまりお.md" title="ビートまりお">ビートまりお</a>，<a href="./miko.md" title="miko">miko</a>，<a href="./あにー.md" title="あにー">あにー</a>，<a href="./senya.md" title="senya">senya</a>，<a href="./Rute.md" title="Rute">Rute</a><br>作词：<a href="./夕野ヨシミ.md" title="夕野ヨシミ">夕野ヨシミ</a><br>原曲：<a href="./活泼的纯情小姑娘.md" title="活泼的纯情小姑娘" unred="">おてんば恋娘</a><br></dd></dl></td></tr>
 <tr><th colspan="2"></th></tr><tr><td colspan="2" style="padding-left: 1em;"><div class="floatright"><a href="./文件-東方氷雪大感謝封面.jpg.md" class="image" title="東方氷雪大感謝"><img alt="東方氷雪大感謝" src="https://upload.thwiki.cc/thumb/c/ca/%E6%9D%B1%E6%96%B9%E6%B0%B7%E9%9B%AA%E5%A4%A7%E6%84%9F%E8%AC%9D%E5%B0%81%E9%9D%A2.jpg/100px-%E6%9D%B1%E6%96%B9%E6%B0%B7%E9%9B%AA%E5%A4%A7%E6%84%9F%E8%AC%9D%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="100" height="100" srcset="https://upload.thwiki.cc/thumb/c/ca/%E6%9D%B1%E6%96%B9%E6%B0%B7%E9%9B%AA%E5%A4%A7%E6%84%9F%E8%AC%9D%E5%B0%81%E9%9D%A2.jpg/150px-%E6%9D%B1%E6%96%B9%E6%B0%B7%E9%9B%AA%E5%A4%A7%E6%84%9F%E8%AC%9D%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/c/ca/%E6%9D%B1%E6%96%B9%E6%B0%B7%E9%9B%AA%E5%A4%A7%E6%84%9F%E8%AC%9D%E5%B0%81%E9%9D%A2.jpg/200px-%E6%9D%B1%E6%96%B9%E6%B0%B7%E9%9B%AA%E5%A4%A7%E6%84%9F%E8%AC%9D%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="2500" data-file-height="2500"></a></div><b><a href="/%E6%9D%B1%E6%96%B9%E6%B0%B7%E9%9B%AA%E5%A4%A7%E6%84%9F%E8%AC%9D#8" title="東方氷雪大感謝">Catch Me If You Can</a></b> &#91;04:00&#93;<dl><dd><a href="./東方氷雪大感謝.md" title="東方氷雪大感謝">東方氷雪大感謝</a> （2017-10-15）<br>社团：<a href="./IOSYS.md" title="IOSYS">IOSYS</a><br>编曲：<a href="./D.watt.md" title="D.watt">D.watt</a><br>演唱：<a href="./天宮みや.md" title="天宮みや">天宮みや</a>，<a href="./Risa_Yuzuki.md" title="Risa Yuzuki">Risa Yuzuki</a><br>作词：<a href="./D.watt.md" title="D.watt">D.watt</a><br>原曲：<a href="./活泼的纯情小姑娘.md" title="活泼的纯情小姑娘" unred="">おてんば恋娘</a><br></dd></dl></td></tr>
 <tr><th colspan="2"></th></tr><tr><td colspan="2" style="padding-left: 1em;"><div class="floatright"><a href="./文件-紅-KURENAI-_Singles_Best_vol.3_～ヒトリシズカ～封面.jpg.md" class="image" title="紅-KURENAI- Singles Best vol.3 ～ヒトリシズカ～"><img alt="紅-KURENAI- Singles Best vol.3 ～ヒトリシズカ～" src="https://upload.thwiki.cc/thumb/2/2a/%E7%B4%85-KURENAI-_Singles_Best_vol.3_%EF%BD%9E%E3%83%92%E3%83%88%E3%83%AA%E3%82%B7%E3%82%BA%E3%82%AB%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg/100px-%E7%B4%85-KURENAI-_Singles_Best_vol.3_%EF%BD%9E%E3%83%92%E3%83%88%E3%83%AA%E3%82%B7%E3%82%BA%E3%82%AB%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="100" height="100" srcset="https://upload.thwiki.cc/thumb/2/2a/%E7%B4%85-KURENAI-_Singles_Best_vol.3_%EF%BD%9E%E3%83%92%E3%83%88%E3%83%AA%E3%82%B7%E3%82%BA%E3%82%AB%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg/150px-%E7%B4%85-KURENAI-_Singles_Best_vol.3_%EF%BD%9E%E3%83%92%E3%83%88%E3%83%AA%E3%82%B7%E3%82%BA%E3%82%AB%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/2/2a/%E7%B4%85-KURENAI-_Singles_Best_vol.3_%EF%BD%9E%E3%83%92%E3%83%88%E3%83%AA%E3%82%B7%E3%82%BA%E3%82%AB%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg/200px-%E7%B4%85-KURENAI-_Singles_Best_vol.3_%EF%BD%9E%E3%83%92%E3%83%88%E3%83%AA%E3%82%B7%E3%82%BA%E3%82%AB%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1420" data-file-height="1419"></a></div><b><a href="/%E7%B4%85-KURENAI-_Singles_Best_vol.3_%EF%BD%9E%E3%83%92%E3%83%88%E3%83%AA%E3%82%B7%E3%82%BA%E3%82%AB%EF%BD%9E#1" title="紅-KURENAI- Singles Best vol.3 ～ヒトリシズカ～">ヒトリシズカ</a></b> &#91;04:19&#93;<dl><dd><a href="./紅-KURENAI-_Singles_Best_vol.3_～ヒトリシズカ～.md" title="紅-KURENAI- Singles Best vol.3 ～ヒトリシズカ～">紅-KURENAI- Singles Best vol.3 ～ヒトリシズカ～</a> （2016-08-13）<br>社团：<a href="./幽闭星光.md" title="幽闭星光">幽闭星光</a><br>编曲：<a href="./Iceon.md" title="Iceon">Iceon</a><br>演唱：<a href="./senya.md" title="senya">senya</a><br>作词：<a href="./かませ虎.md" title="かませ虎">かませ虎</a><br>原曲：<a href="./妖魔夜行.md" title="妖魔夜行">妖魔夜行</a><br></dd></dl></td></tr></tbody></table>
+
 
 
 ## 参考资料

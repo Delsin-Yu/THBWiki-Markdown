@@ -4,6 +4,7 @@
 
 克劳恩皮丝 | 符卡
 
+
 ## 分析考据
   
  **獄炎「グレイズインフェルノ」**  狱炎「Graze Inferno」（擦弹地狱火）
@@ -47,6 +48,7 @@
 
 
 [^cite_note-1]: （英文）英文维基百科：[Inferno (Dante)](https://en.wikipedia.org/wiki/en:Inferno_(Dante))
+
 
 ## 导航
 

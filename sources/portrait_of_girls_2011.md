@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-portrait_of_girls_2011封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/e/e8/portrait_of_girls_2011%E5%B0%81%E9%9D%A2.jpg/99px-portrait_of_girls_2011%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="99" height="140" srcset="https://upload.thwiki.cc/thumb/e/e8/portrait_of_girls_2011%E5%B0%81%E9%9D%A2.jpg/148px-portrait_of_girls_2011%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/e/e8/portrait_of_girls_2011%E5%B0%81%E9%9D%A2.jpg/197px-portrait_of_girls_2011%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="423" data-file-height="600"></a><div class="cover-char">角色：<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://amatouchocolate.web.fc2.com">http://amatouchocolate.web.fc2.com</a><br><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/23580477">https://www.pixiv.net/artworks/23580477</a></td></tr></tbody></table>
 
 portrait of girls 2011（同人志，ひとみしり，2011） - 2011年12月30日 由 ひとみしり 于 Comic Market 81 发布的画集同人志，一共32页，分级为 一般向
+
 ## Staff
 - [甘党](./甘党.md)
+
 
 ## 评论
 - 作者

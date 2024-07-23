@@ -4,7 +4,8 @@
 
 N+ ，于 2016 年成立，主要制作 同人音乐 的日本同人社团，主催是 NSY，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -15,16 +16,19 @@ N+ ，于 2016 年成立，主要制作 同人音乐 的日本同人社团，主
 
 
 
+
 ## 社团信息
 文件:N+banner.jpg (未找到链接)  banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> N+ </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2016</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="./NSY.md" title="NSY">NSY</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="https://enuplus.wixsite.com/enuplus">https://enuplus.wixsite.com/enuplus</a> </td></tr></tbody></table>
 
 N+（同人社团，同人音乐社团） - N+ ，于 2016 年成立，主要制作 同人音乐 的日本同人社团，主催是 NSY，当前状态为 活动
+
 ## 成员名单
 - [NSY](./NSY.md)
 - [茶太](./茶太.md)
 - シュリケン (未找到链接)
+
 
 ## 作品列表
 [](./len_～錬～.md)[len ～錬～](./len_～錬～.md)首发日期：2016-12-29 （Comic Market 91 (未找到链接)）单曲 （一般向）[](./spill_over.md)[spill over](./spill_over.md)首发日期：2018-12-30 （Comic Market 95 (未找到链接)）全长 （一般向）[](./解体少女／ロンリーデーズ.md)[解体少女／ロンリーデーズ](./解体少女／ロンリーデーズ.md)首发日期：2019-05-05 （第十六回 博麗神社例大祭 (未找到链接)）THJH-012单曲、​合作 （一般向）该作品是与 [東方事変](./東方事変.md) 合作创作的
@@ -34,6 +38,7 @@ N+（同人社团，同人音乐社团） - N+ ，于 2016 年成立，主要制
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 其他信息

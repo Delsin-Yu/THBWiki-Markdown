@@ -4,7 +4,8 @@
 
 MONOMIND（M2ind manufactory） ，于 2007 年成立，主要制作 同人音乐 的日本同人社团，主催是 haLRu，当前状态为 休止
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -15,14 +16,17 @@ MONOMIND（M2ind manufactory） ，于 2007 年成立，主要制作 同人音�
 
 
 
+
 ## 社团信息
 文件:MONOMIND banner.jpg (未找到链接)  Banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> MONOMIND（M2ind manufactory） </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2007</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>主催</b></td><td> <a href="./haLRu.md" title="haLRu">haLRu</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://monomind.jp/">http://monomind.jp/</a> <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><small>（无缓存页面）</small><br><a rel="nofollow" class="external free" href="http://www.m2ind.com/">http://www.m2ind.com/</a> （旧官网）<span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><small>（<a rel="nofollow" class="external text" href="https://web.archive.org/web/20130923020354/http://www.m2ind.com/">缓存页面</a>）</small></td></tr></tbody></table>
 
 MONOMIND（同人社团，同人音乐社团） - MONOMIND（M2ind manufactory） ，于 2007 年成立，主要制作 同人音乐 的日本同人社团，主催是 haLRu，当前状态为 休止
+
 ## 成员名单
 - [haLRu](./haLRu.md)
+
 
 ## 作品列表
 [](./Vernacular.md)[Vernacular](./Vernacular.md)首发日期：2007-12-31 （Comic Market 73 (未找到链接)）MMPD-0001全长 （一般向）[](./Sweet_Orchid_／_蓬莱パフォーマンスドール.md)[Sweet Orchid ／ 蓬莱パフォーマンスドール](./Sweet_Orchid_／_蓬莱パフォーマンスドール.md)首发日期：2008-08-16 （Comic Market 74 (未找到链接)）MMPD-0002全长 （一般向）[](./昼夜戀歌.md)[昼夜戀歌](./昼夜戀歌.md)首发日期：2008-11-02 （東方紅楼夢4 (未找到链接)）MMPD-0003全长 （一般向）[](./soulline.md)[soulline](./soulline.md)首发日期：2008-12-29 （Comic Market 75 (未找到链接)）MMPD-0004全长 （一般向）透明CD[](./浮華.md)[浮華](./浮華.md)首发日期：2009-03-08 （第六回 博麗神社例大祭 (未找到链接)）MMPD-0005EP （一般向）[](./DS-天変.md)[DS-天変](./DS-天変.md)首发日期：2009-03-20 （東方幻楽祭1 (未找到链接)）ARAM-DS10全长、​合作 （一般向）该作品是与 [荒御灵](./荒御灵.md) 合作创作的[](./Wachhund.md)[Wachhund](./Wachhund.md)首发日期：2009-05-06 （紅月ノ宴参 (未找到链接)）MMPD-0006EP （一般向）[](./Remains_～幻想懐郷～.md)[Remains ～幻想懐郷～](./Remains_～幻想懐郷～.md)首发日期：2009-08-15 （Comic Market 76 (未找到链接)）MMPD-0007全长、​合作 （一般向）该作品是与 [WIND MAIL](./WIND_MAIL.md) 合作创作的专辑附赠画集[](./Spider_Lily.md)[Spider Lily](./Spider_Lily.md)首发日期：2009-10-11 （東方紅楼夢5 (未找到链接)）MMPD-0008全长 （一般向）以 **M2ind Manufactory** 名义发布[](./indi_gen5ou.md)[indi gen5ou](./indi_gen5ou.md)首发日期：2009-10-25 （御射宫司祭 (未找到链接)）EP （一般向）[](./UnFOrtunate.md)[UnFOrtunate](./UnFOrtunate.md)首发日期：2009-12-30 （Comic Market 77 (未找到链接)）MMPD-0009全长 （一般向）[](./nonstop_techNOVAbble.md)[nonstop techNOVAbble](./nonstop_techNOVAbble.md)首发日期：2010-02-14 （東方杜郷想2 (未找到链接)）全长、​合作 （一般向）该作品是与 [荒御灵](./荒御灵.md) 合作创作的[](./Vaultin／heritage_e.p..md)[Vaultin ／ heritage e.p.](./Vaultin／heritage_e.p..md)首发日期：2010-03-14 （第七回 博麗神社例大祭 (未找到链接)）MMEP-1001单曲 （一般向）[](./OUT_OF_COURT.md)[OUT OF COURT](./OUT_OF_COURT.md)首发日期：2010-08-14 （Comic Market 78 (未找到链接)）MMPD-0010全长 （一般向）[](./Spookmanor.md)[Spookmanor](./Spookmanor.md)首发日期：2010-12-30 （Comic Market 79 (未找到链接)）MMPD-0011全长 （一般向）[](./UNWORDS_e.p.md)[UNWORDS e.p](./UNWORDS_e.p.md)首发日期：2011-05-08 （第八回 博麗神社例大祭 (未找到链接)）MMEP-1002单曲 （一般向）12" 黑胶唱片[](./half_of_Parley.md)[half of Parley](./half_of_Parley.md)首发日期：2011-05-08 （第八回 博麗神社例大祭 (未找到链接)）MMPD-0012全长 （一般向）[](./きみをよぶこえ.md)[きみをよぶこえ](./きみをよぶこえ.md)首发日期：2011-08-13 （Comic Market 80 (未找到链接)）MMRM-0001全长 （一般向）该作品是与 [ロマンチックメロウ](./ロマンチックメロウ.md) 合作创作的[](./agent's_happiness.md)[agent's happiness](./agent's_happiness.md)首发日期：2011-12-30 （Comic Market 81 (未找到链接)）MMPD-0013全长 （一般向）[](./MONOMIND_2012_sampler.md)[MONOMIND 2012 sampler](./MONOMIND_2012_sampler.md)首发日期：2012-05-27 （第九回 博麗神社例大祭 (未找到链接)）EP （一般向）
@@ -66,6 +70,7 @@ MONOMIND（同人社团，同人音乐社团） - MONOMIND（M2ind manufactory�
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 参展信息

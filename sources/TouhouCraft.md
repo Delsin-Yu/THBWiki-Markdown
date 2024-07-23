@@ -14,6 +14,7 @@ Minecraft相关创作 | 请求协助编辑的词条
 </tbody></table>
 
 
+
 ## 基本信息
   
 TouhouCraft（简称THC）是一个开设于美国的东方Minecraft服务器，目前已关服并公开存档。
@@ -24,6 +25,7 @@ TouhouCraft（简称THC）是一个开设于美国的东方Minecraft服务器，
 - 官方论坛（已经失效）：https://touhoucraft.boards.net/
 - 服务器地址（已经失效）：touhoucraft.servegame.com
 - 地图发布地址（PlanetMinecraft）：[https://www.planetminecraft.com/project/touhou-gensokyo/](https://www.planetminecraft.com/project/touhou-gensokyo/)
+
 
 ## 历史
 2010年

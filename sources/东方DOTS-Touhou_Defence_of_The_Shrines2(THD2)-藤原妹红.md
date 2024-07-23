@@ -164,6 +164,7 @@ AvalonStudioOfficial
 [](./文件-THD2藤原妹红.png.md)
   
 
+
 ## 目录
 
 - [1 角色定位](#角色定位)
@@ -184,10 +185,12 @@ AvalonStudioOfficial
 
 
 
+
 ## 角色定位
   
 爆发 - 打野 - 耐久 - 推进 - 核心
   
+
 
 ## 技能介绍
 
@@ -662,6 +665,7 @@ AvalonStudioOfficial
 </td></tr></tbody></table>
 
 
+
 ## 天赋树
 
 
@@ -700,25 +704,30 @@ AvalonStudioOfficial
 </td></tr></tbody></table>
 
 
+
 ### 出门装备
 ```
 [](./文件-THD2练习手套.png.md) [](./文件-THD2爱人卡.png.md) [](./文件-THD2衰人卡.png.md)
 ```
+
 
 ### 前期装备
 ```
 [](./文件-THD2魔法使扫把.png.md) [](./文件-THD2纳税阴阳玉.png.md)
 ```
 
+
 ### 核心装备
 ```
 [](./文件-THD2格斗扫把.png.md) [](./文件-THD2念缚灵的船勾.png.md)
 ```
 
+
 ### 可选装备
 ```
 [](./文件-THD2恶魔的乳牙.png.md) [](./文件-THD2神枪冈格尼尔.png.md) [](./文件-THD2月兔粉碎巨刃.png.md) [](./文件-THD2亡灵送行提灯.png.md) [](./文件-THD2天界之桃.png.md) [](./文件-THD2龙星.png.md)
 ```
+
 
 ## 技能加点
 
@@ -866,6 +875,7 @@ AvalonStudioOfficial
 </td></tr></tbody></table>
 
 
+
 ## 台词
 
 <table>
@@ -926,6 +936,7 @@ AvalonStudioOfficial
 看招
 </p>
 </td></tr></tbody></table>
+
 
 
 ## 教学视频

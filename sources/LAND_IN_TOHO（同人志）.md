@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=LAND_IN_TOHO%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2.jpg" class="new" title="文件:LAND IN TOHO（同人志）封面.jpg">封面图片</a><div class="cover-char">角色：<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a>，<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></div></td>
@@ -14,7 +15,9 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://landintoho.blog.fc2.com">http://landintoho.blog.fc2.com</a><br><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/25118272">https://www.pixiv.net/artworks/25118272</a><br><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/32213593">https://www.pixiv.net/artworks/32213593</a><br><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/32413597">https://www.pixiv.net/artworks/32413597</a></td></tr><tr><td class="label">备注</td><td colspan="2">东方×<a href="https://zh.wikipedia.org/wiki/Mr.Children" class="extiw" title="wzh:Mr.Children">Mr.Children</a>; <a href="./LAND_IN_TOHO.md" title="LAND IN TOHO">音乐部分</a></td></tr></tbody></table>
 
 LAND IN TOHO（同人志，蛮天屋，2012） - 2012年12月30日 由 蛮天屋 于 Comic Market 83 发布的合同志/画集/小说同人志，分级为 一般向
+
 ## 预览
+
 ## Staff
 Organizer
 : 蛮天丸 （[蛮天屋](./蛮天屋.md)）
@@ -37,7 +40,9 @@ Participants (Novel)
 : おるふぇ
 : 蛮天丸
 
+
 ## 评论
+
 ## 其他信息
   
 计划名neta Mr.Children的1992精选集[LAND IN ASIA](https://ja.wikipedia.org/wiki/LAND_IN_ASIA)

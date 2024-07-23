@@ -4,7 +4,8 @@
 
 Studio Realistic Scene ，主要制作 同人志，周边 的中国大陆同人社团，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -26,12 +27,14 @@ Studio Realistic Scene ，主要制作 同人志，周边 的中国大陆同人�
 
 
 
+
 ## 社团信息
 [](./文件-Studio_Realistic_Scene_LOGO.jpg.md)  [](./文件-Studio_Realistic_Scene_LOGO.jpg.md)LOGO
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Studio Realistic Scene </td></tr><tr><td><b>中文名称</b></td><td>现实幻境</td></tr><tr><td><b>主要作品类型</b></td><td>同人志，周边</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>地区</b></td><td>中国大陆</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="https://www.weibo.com/studiors">https://www.weibo.com/studiors</a> </td></tr></tbody></table>
 
 Studio Realistic Scene（同人社团，同人志社团，周边社团） - Studio Realistic Scene ，主要制作 同人志，周边 的中国大陆同人社团，当前状态为 活动
+
 ## 成员名单
 成员
 
@@ -49,7 +52,9 @@ Studio Realistic Scene（同人社团，同人志社团，周边社团） - Stud
 
 - 风神官 (未找到链接)
 
+
 ## 作品列表
+
 ### 同人志
 [](./碎華変.md)[碎華変](./碎華変.md)首发日期：2016-06-09 （COMICUP18 (未找到链接)）画集 （一般向）变形B5&#160;尺寸 56&#160;页[魂音泉](./魂音泉.md)三次创作同人志。  
 
@@ -62,7 +67,9 @@ Studio Realistic Scene（同人社团，同人志社团，周边社团） - Stud
 </table>
 
 
+
 ### 周边
+
 #### 碎華変
 [](./Studio_Realistic_Scene-碎華変-《碎華変》插图本挂件.md)[Studio Realistic Scene/碎華変/《碎華変》插图本挂件](./Studio_Realistic_Scene-碎華変-《碎華変》插图本挂件.md)首发日期：2017-01-04 挂件 （一般向）5cm×3.5cm整套贩卖，不拆卖。  
 持有任意4张[魂音泉](./魂音泉.md)的CD可免费获取一套挂件（人均限兑换一套）。  
@@ -76,6 +83,7 @@ Studio Realistic Scene（同人社团，同人志社团，周边社团） - Stud
 [蕾米莉亚·斯卡蕾特](./蕾米莉亚·斯卡蕾特.md)用了单面14色，[芙兰朵露·斯卡蕾特](./芙兰朵露·斯卡蕾特.md)用了单面11色，十六夜咲夜 (未找到链接)用了单面8色及[帕秋莉·诺蕾姬](./帕秋莉·诺蕾姬.md)用了单面14色金属烤漆。
 <table><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 其他信息

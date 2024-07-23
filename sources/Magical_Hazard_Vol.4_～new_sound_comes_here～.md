@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Magical_Hazard_Vol.4_～new_sound_comes_here～封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/e/ef/Magical_Hazard_Vol.4_%EF%BD%9Enew_sound_comes_here%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg/224px-Magical_Hazard_Vol.4_%EF%BD%9Enew_sound_comes_here%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="224" srcset="https://upload.thwiki.cc/thumb/e/ef/Magical_Hazard_Vol.4_%EF%BD%9Enew_sound_comes_here%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg/336px-Magical_Hazard_Vol.4_%EF%BD%9Enew_sound_comes_here%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/e/ef/Magical_Hazard_Vol.4_%EF%BD%9Enew_sound_comes_here%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg/448px-Magical_Hazard_Vol.4_%EF%BD%9Enew_sound_comes_here%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="600" data-file-height="600"></a><div class="cover-char">角色：<a href="./宇佐见莲子.md" title="宇佐见莲子">宇佐见莲子</a>，<a href="./玛艾露贝莉·赫恩.md" title="玛艾露贝莉·赫恩">玛艾露贝莉·赫恩</a></div></td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://magicalhazard.blog78.fc2.com/blog-entry-49.html">http://magicalhazard.blog78.fc2.com/blog-entry-49.html</a><br><a rel="nofollow" class="external free" href="http://magicalhazard.blog78.fc2.com/blog-entry-50.html">http://magicalhazard.blog78.fc2.com/blog-entry-50.html</a></td></tr></tbody></table>
 
 Magical Hazard Vol.4 ～new sound comes here～（同人专辑，Magical Hazard，2010） - 2010年12月30日 由 Magical Hazard 于 Comic Market 79 发布的EP同人专辑，分级为 一般向
+
 ## Staff
   
  **Compose**   
@@ -24,12 +26,14 @@ Magical Hazard Vol.4 ～new sound comes here～（同人专辑，Magical Hazard�
 Illustration
 : わんこ （[Pixiv ID: 1377062](https://www.pixiv.net/users/1377062)）
 
+
 ## 曲目列表
 
 <table><tbody><tr><td id="1" class="infoYL"><b>01</b></td><td id="GREEN_WICH_ANTHEM" colspan="2" class="title">GREEN WICH ANTHEM<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Judy&amp;fromwiki=Magical_Hazard_Vol.4_～new_sound_comes_here～"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=Judy&amp;action=edit&amp;redlink=1" class="new" title="Judy（页面不存在）">Judy</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Judy&amp;fromwiki=Magical_Hazard_Vol.4_～new_sound_comes_here～"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">accordion samba</td></tr>
 <tr><td id="2" class="infoYL"><b>02</b></td><td id="gloomy_gloomy" colspan="2" class="title">gloomy gloomy<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Judy&amp;fromwiki=Magical_Hazard_Vol.4_～new_sound_comes_here～"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=Judy&amp;action=edit&amp;redlink=1" class="new" title="Judy（页面不存在）">Judy</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Judy&amp;fromwiki=Magical_Hazard_Vol.4_～new_sound_comes_here～"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">NU-STYLE GABBA</td></tr>
 <tr><td id="3" class="infoYL"><b>03</b></td><td id="A.L.I.C.E." colspan="2" class="title">A.L.I.C.E.<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Judy&amp;fromwiki=Magical_Hazard_Vol.4_～new_sound_comes_here～"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=Judy&amp;action=edit&amp;redlink=1" class="new" title="Judy（页面不存在）">Judy</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Judy&amp;fromwiki=Magical_Hazard_Vol.4_～new_sound_comes_here～"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">orchestral</td></tr>
 <tr><td id="4" class="infoYL"><b>04</b></td><td id="two_be" colspan="2" class="title">two be<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Judy&amp;fromwiki=Magical_Hazard_Vol.4_～new_sound_comes_here～"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=Judy&amp;action=edit&amp;redlink=1" class="new" title="Judy（页面不存在）">Judy</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Judy&amp;fromwiki=Magical_Hazard_Vol.4_～new_sound_comes_here～"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">HAPPY HARDCORE</td></tr></tbody></table>
+
 
 
 ## 评论

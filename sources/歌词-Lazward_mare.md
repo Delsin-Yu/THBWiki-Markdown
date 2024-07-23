@@ -25,6 +25,7 @@ Applice | 使用了翻译表的页面 | 日文歌词 | 有翻译的歌词 | 歌�
 [^cite_note-1]: lazward：波斯语「蓝色」之意（青金石英文名 lazurite 正是源自此词）。  
 mare：拉丁语「海洋」之意。如今此词用得最多的地方，大概就是[月海](https://zh.wikipedia.org/wiki/月海)的名字了吧。
 
+
 ## 翻译来源
   
 [博客](https://diplopicdystopia.wordpress.com/2018/01/21/lazward-mare/)

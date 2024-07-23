@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -30,11 +31,13 @@
 
 
 
+
 ## 基本信息
 
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">アウトサイダーカクテル</td></tr><tr><td><b>译名</b></td><td>Outsider Cocktail</td></tr><tr><td><b>其他译名</b></td><td>外人鸡尾酒</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 Outsider Cocktail（曲目） - 由 ZUN 创作的官方曲目，原名 アウトサイダーカクテル
+
 ## 出现作品
 
 <table>
@@ -42,15 +45,21 @@ Outsider Cocktail（曲目） - 由 ZUN 创作的官方曲目，原名 アウト
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 旧约酒馆
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-hr10_04.mp3.md" title="文件:hr10 04.mp3">hr10_04.mp3</a><br><audio src="https://upload.thwiki.cc/5/57/hr10_04.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track04.cda（CD）</td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
   
  **アウトサイダーカクテル**  Outsider Cocktail
@@ -86,6 +95,7 @@ Outsider Cocktail（曲目） - 由 ZUN 创作的官方曲目，原名 アウト
   
  *对于更多该曲考据以及附带故事相关信息，可参见旧约酒馆专辑的[附带故事](./旧约酒馆-附带故事.md)与[分析考据](./旧约酒馆-分析考据.md)页面。* 
   
+
 
 ### 二次同人数据
 

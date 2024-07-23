@@ -4,6 +4,7 @@
 
 社团LOGO | 黒甜郷裏
 
+
 ## 摘要
   
 源地址：[direct image link (max size)](https://lh5.googleusercontent.com/-4J-vN-yjgyvk7H9bLIgq39nK1yaqL_1EOitNclixxdV9tW81BAmKggdxA9TlLBhh_IqGhgtPBm-X9IfCnHKh5bzUdLcNzrs37B_EcFubOORnmgsjpcbnTZ-1AdI1iDseA=s0?imgmax=0), [source page](https://sites.google.com/view/kokuten-kyori/home)

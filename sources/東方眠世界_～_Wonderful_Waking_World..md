@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 软件信息](#软件信息)
@@ -27,6 +28,7 @@
 
 
 
+
 ## 软件信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-東方眠世界_～_Wonderful_Waking_World.封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/5/50/%E6%9D%B1%E6%96%B9%E7%9C%A0%E4%B8%96%E7%95%8C_%EF%BD%9E_Wonderful_Waking_World.%E5%B0%81%E9%9D%A2.jpg/224px-%E6%9D%B1%E6%96%B9%E7%9C%A0%E4%B8%96%E7%95%8C_%EF%BD%9E_Wonderful_Waking_World.%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="224" srcset="https://upload.thwiki.cc/thumb/5/50/%E6%9D%B1%E6%96%B9%E7%9C%A0%E4%B8%96%E7%95%8C_%EF%BD%9E_Wonderful_Waking_World.%E5%B0%81%E9%9D%A2.jpg/336px-%E6%9D%B1%E6%96%B9%E7%9C%A0%E4%B8%96%E7%95%8C_%EF%BD%9E_Wonderful_Waking_World.%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/5/50/%E6%9D%B1%E6%96%B9%E7%9C%A0%E4%B8%96%E7%95%8C_%EF%BD%9E_Wonderful_Waking_World.%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="420" data-file-height="420"></a><div class="cover-char">角色：<a href="./蕾瓦伦斯·U'n-利萨基.md" title="蕾瓦伦斯·U&#39;n-利萨基">蕾瓦伦斯·U'n-利萨基</a></div></td>
@@ -37,6 +39,7 @@
 東方眠世界 ～ Wonderful Waking World.（同人游戏，Oligarchomp，2022） - 2022年6月15日 由 Oligarchomp  发布的STG同人游戏，可在 Windows 系统上运行，游戏人数为 单人模式，分级为 一般向
 
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://store.steampowered.com/app/1901490">Steam</a></td></tr></tbody></table>
+
 
 
 ## Staff
@@ -56,16 +59,20 @@
 : HakanaiBlue
 : Omyaga
 
+
 ## 游戏介绍
 - 故事背景 (未找到链接)
 - EX故事背景 (未找到链接)
 
+
 ## 角色
+
 ### 自机
 
 <table><tbody><tr><td style="min-width:40px;" rowspan=""><div class="center"><div class="floatnone"><a href="./文件-博丽灵梦（眠世界）.png.md" class="image" title="博丽灵梦"><img alt="博丽灵梦" src="https://upload.thwiki.cc/thumb/c/c7/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E7%9C%A0%E4%B8%96%E7%95%8C%EF%BC%89.png/31px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E7%9C%A0%E4%B8%96%E7%95%8C%EF%BC%89.png" decoding="async" loading="lazy" width="31" height="40" srcset="https://upload.thwiki.cc/thumb/c/c7/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E7%9C%A0%E4%B8%96%E7%95%8C%EF%BC%89.png/46px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E7%9C%A0%E4%B8%96%E7%95%8C%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/c/c7/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E7%9C%A0%E4%B8%96%E7%95%8C%EF%BC%89.png/62px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E7%9C%A0%E4%B8%96%E7%95%8C%EF%BC%89.png 2x" data-file-width="296" data-file-height="382"></a></div></div></td> <td style="width:150px;padding:3px 9px 3px 7px;" rowspan="">梦境的巫女 </td><td style="width:180px;padding:3px 9px 3px 7px;"><a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></td><td><a href="/index.php?title=%E6%B8%B8%E6%88%8F%E5%AF%B9%E8%AF%9D:%E6%9D%B1%E6%96%B9%E7%9C%A0%E4%B8%96%E7%95%8C_%EF%BD%9E_Wonderful_Waking_World./%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6&amp;action=edit&amp;redlink=1" class="new" title="游戏对话:東方眠世界 ～ Wonderful Waking World./博丽灵梦（页面不存在）">游戏对话/结局</a><br><a href="/index.php?title=%E6%B8%B8%E6%88%8F%E5%AF%B9%E8%AF%9D:%E6%9D%B1%E6%96%B9%E7%9C%A0%E4%B8%96%E7%95%8C_%EF%BD%9E_Wonderful_Waking_World./%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6_ExStory&amp;action=edit&amp;redlink=1" class="new" title="游戏对话:東方眠世界 ～ Wonderful Waking World./博丽灵梦 ExStory（页面不存在）">Extra游戏对话</a></td></tr>
 <tr><td style="min-width:40px;" rowspan=""><div class="center"><div class="floatnone"><a href="./文件-雾雨魔理沙（眠世界）.png.md" class="image" title="雾雨魔理沙"><img alt="雾雨魔理沙" src="https://upload.thwiki.cc/thumb/6/67/%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%EF%BC%88%E7%9C%A0%E4%B8%96%E7%95%8C%EF%BC%89.png/38px-%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%EF%BC%88%E7%9C%A0%E4%B8%96%E7%95%8C%EF%BC%89.png" decoding="async" loading="lazy" width="38" height="40" srcset="https://upload.thwiki.cc/thumb/6/67/%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%EF%BC%88%E7%9C%A0%E4%B8%96%E7%95%8C%EF%BC%89.png/57px-%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%EF%BC%88%E7%9C%A0%E4%B8%96%E7%95%8C%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/6/67/%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%EF%BC%88%E7%9C%A0%E4%B8%96%E7%95%8C%EF%BC%89.png/75px-%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%EF%BC%88%E7%9C%A0%E4%B8%96%E7%95%8C%EF%BC%89.png 2x" data-file-width="371" data-file-height="393"></a></div></div></td> <td style="width:150px;padding:3px 9px 3px 7px;" rowspan="">普通至极且理智的魔法使 </td><td style="width:180px;padding:3px 9px 3px 7px;"><a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a></td><td><a href="/index.php?title=%E6%B8%B8%E6%88%8F%E5%AF%B9%E8%AF%9D:%E6%9D%B1%E6%96%B9%E7%9C%A0%E4%B8%96%E7%95%8C_%EF%BD%9E_Wonderful_Waking_World./%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99&amp;action=edit&amp;redlink=1" class="new" title="游戏对话:東方眠世界 ～ Wonderful Waking World./雾雨魔理沙（页面不存在）">游戏对话/结局</a><br><a href="/index.php?title=%E6%B8%B8%E6%88%8F%E5%AF%B9%E8%AF%9D:%E6%9D%B1%E6%96%B9%E7%9C%A0%E4%B8%96%E7%95%8C_%EF%BD%9E_Wonderful_Waking_World./%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99_ExStory&amp;action=edit&amp;redlink=1" class="new" title="游戏对话:東方眠世界 ～ Wonderful Waking World./雾雨魔理沙 ExStory（页面不存在）">Extra游戏对话</a></td></tr>
 <tr><td style="min-width:40px;" rowspan=""><div class="center"><div class="floatnone"><a href="./文件-东风谷早苗（眠世界）.png.md" class="image" title="东风谷早苗"><img alt="东风谷早苗" src="https://upload.thwiki.cc/thumb/a/a6/%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97%EF%BC%88%E7%9C%A0%E4%B8%96%E7%95%8C%EF%BC%89.png/26px-%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97%EF%BC%88%E7%9C%A0%E4%B8%96%E7%95%8C%EF%BC%89.png" decoding="async" loading="lazy" width="26" height="40" srcset="https://upload.thwiki.cc/thumb/a/a6/%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97%EF%BC%88%E7%9C%A0%E4%B8%96%E7%95%8C%EF%BC%89.png/39px-%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97%EF%BC%88%E7%9C%A0%E4%B8%96%E7%95%8C%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/a/a6/%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97%EF%BC%88%E7%9C%A0%E4%B8%96%E7%95%8C%EF%BC%89.png/52px-%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97%EF%BC%88%E7%9C%A0%E4%B8%96%E7%95%8C%EF%BC%89.png 2x" data-file-width="263" data-file-height="401"></a></div></div></td> <td style="width:150px;padding:3px 9px 3px 7px;" rowspan="">山上的风祝 </td><td style="width:180px;padding:3px 9px 3px 7px;"><a href="./东风谷早苗.md" title="东风谷早苗">东风谷早苗</a></td><td><a href="/index.php?title=%E6%B8%B8%E6%88%8F%E5%AF%B9%E8%AF%9D:%E6%9D%B1%E6%96%B9%E7%9C%A0%E4%B8%96%E7%95%8C_%EF%BD%9E_Wonderful_Waking_World./%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97&amp;action=edit&amp;redlink=1" class="new" title="游戏对话:東方眠世界 ～ Wonderful Waking World./东风谷早苗（页面不存在）">游戏对话/结局</a><br><a href="/index.php?title=%E6%B8%B8%E6%88%8F%E5%AF%B9%E8%AF%9D:%E6%9D%B1%E6%96%B9%E7%9C%A0%E4%B8%96%E7%95%8C_%EF%BD%9E_Wonderful_Waking_World./%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97_ExStory&amp;action=edit&amp;redlink=1" class="new" title="游戏对话:東方眠世界 ～ Wonderful Waking World./东风谷早苗 ExStory（页面不存在）">Extra游戏对话</a></td></tr></tbody></table>
+
 
 
 ### BOSS
@@ -79,6 +86,7 @@
 <tr><td rowspan="1" class="bg-color-info-10" style="min-width:100px"><b>EX面道中</b><br><i><a href="/index.php?title=Nameless_Discord&amp;action=edit&amp;redlink=1" class="new" title="Nameless Discord（页面不存在）">Nameless Discord</a></i></td><td style="min-width:35px" rowspan="1"><div class="center"><div class="floatnone"><a href="./文件-佩尔·范海德.png.md" class="image"><img alt="佩尔·范海德.png" src="https://upload.thwiki.cc/thumb/5/59/%E4%BD%A9%E5%B0%94%C2%B7%E8%8C%83%E6%B5%B7%E5%BE%B7.png/31px-%E4%BD%A9%E5%B0%94%C2%B7%E8%8C%83%E6%B5%B7%E5%BE%B7.png" decoding="async" loading="lazy" width="31" height="40" srcset="https://upload.thwiki.cc/thumb/5/59/%E4%BD%A9%E5%B0%94%C2%B7%E8%8C%83%E6%B5%B7%E5%BE%B7.png/46px-%E4%BD%A9%E5%B0%94%C2%B7%E8%8C%83%E6%B5%B7%E5%BE%B7.png 1.5x, https://upload.thwiki.cc/thumb/5/59/%E4%BD%A9%E5%B0%94%C2%B7%E8%8C%83%E6%B5%B7%E5%BE%B7.png/62px-%E4%BD%A9%E5%B0%94%C2%B7%E8%8C%83%E6%B5%B7%E5%BE%B7.png 2x" data-file-width="308" data-file-height="399"></a></div></div></td>  <td style="width:150px;padding:3px 9px 3px 7px;" rowspan="1"> 平凡的风扇爱好者</td><td style="width:180px;padding:3px 9px 3px 7px;" rowspan="1"> <a href="./佩尔·范海德.md" title="佩尔·范海德">佩尔·范海德</a> </td></tr><tr><td rowspan="1" class="bg-color-info-10" style="min-width:100px"><b>EX面BOSS</b><br><i><a href="/index.php?title=Summertime_Rhapsody_of_a_Dying_World&amp;action=edit&amp;redlink=1" class="new" title="Summertime Rhapsody of a Dying World（页面不存在）">Summertime Rhapsody of a Dying World</a></i></td><td style="min-width:35px" rowspan="1"><div class="center"><div class="floatnone"><a href="./文件-蕾瓦伦斯·U'n-利萨基.png.md" class="image"><img alt="蕾瓦伦斯·U&#39;n-利萨基.png" src="https://upload.thwiki.cc/thumb/8/84/%E8%95%BE%E7%93%A6%E4%BC%A6%E6%96%AF%C2%B7U%27n-%E5%88%A9%E8%90%A8%E5%9F%BA.png/35px-%E8%95%BE%E7%93%A6%E4%BC%A6%E6%96%AF%C2%B7U%27n-%E5%88%A9%E8%90%A8%E5%9F%BA.png" decoding="async" loading="lazy" width="35" height="40" srcset="https://upload.thwiki.cc/thumb/8/84/%E8%95%BE%E7%93%A6%E4%BC%A6%E6%96%AF%C2%B7U%27n-%E5%88%A9%E8%90%A8%E5%9F%BA.png/53px-%E8%95%BE%E7%93%A6%E4%BC%A6%E6%96%AF%C2%B7U%27n-%E5%88%A9%E8%90%A8%E5%9F%BA.png 1.5x, https://upload.thwiki.cc/thumb/8/84/%E8%95%BE%E7%93%A6%E4%BC%A6%E6%96%AF%C2%B7U%27n-%E5%88%A9%E8%90%A8%E5%9F%BA.png/70px-%E8%95%BE%E7%93%A6%E4%BC%A6%E6%96%AF%C2%B7U%27n-%E5%88%A9%E8%90%A8%E5%9F%BA.png 2x" data-file-width="339" data-file-height="386"></a></div></div></td>  <td style="width:150px;padding:3px 9px 3px 7px;" rowspan="1"> 被众多名号称呼的存在</td><td style="width:180px;padding:3px 9px 3px 7px;" rowspan="1"> <a href="./蕾瓦伦斯·U'n-利萨基.md" title="蕾瓦伦斯·U&#39;n-利萨基">蕾瓦伦斯·U'n-利萨基</a> </td></tr></tbody></table>
 
 
+
 ## 附带文档
 
 <table><tbody><tr>
@@ -89,6 +97,7 @@
 <li><a href="/index.php?title=%E6%9D%B1%E6%96%B9%E7%9C%A0%E4%B8%96%E7%95%8C_%EF%BD%9E_Wonderful_Waking_World./Readme&amp;action=edit&amp;redlink=1" class="new" title="東方眠世界 ～ Wonderful Waking World./Readme（页面不存在）">Readme</a></li>
 <li><a href="/index.php?title=%E6%9D%B1%E6%96%B9%E7%9C%A0%E4%B8%96%E7%95%8C_%EF%BD%9E_Wonderful_Waking_World./Omake&amp;action=edit&amp;redlink=1" class="new" title="東方眠世界 ～ Wonderful Waking World./Omake（页面不存在）">Omake</a></li></ul>
 </td></tr></tbody></table>
+
 
 
 ## 其他资料
@@ -110,11 +119,14 @@
 </td></tr></tbody></table>
 
 
+
 ## 评论
+
 ## 外部链接
   
 [英文维基](https://en.touhouwiki.net/wiki/Wonderful_Waking_World)
   
+
 
 ## 词条导航
   

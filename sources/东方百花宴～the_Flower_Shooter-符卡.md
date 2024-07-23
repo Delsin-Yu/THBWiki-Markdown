@@ -8,6 +8,7 @@ SlimeSmile
 本页面用于收录东方百花宴中出现的符卡。
   
 
+
 ## 目录
 
 - [1 射命丸文](#射命丸文)
@@ -22,10 +23,12 @@ SlimeSmile
 
 
 
+
 ## 射命丸文
 
 <table><tbody><tr><th><b>符卡名</b></th><th><b>难度</b></th></tr><tr><td style="width:200px">旋风「红叶扇风」</td><td style="width:180px">自机</td></tr>
 <tr><td style="width:200px">「幻想风靡」</td><td style="width:180px">自机</td></tr></tbody></table>
+
 
 
 ## 桑尼米尔克
@@ -36,6 +39,7 @@ SlimeSmile
 <tr><td style="width:200px">光符「闪耀太阳花」</td><td style="width:180px">Hard/Lunatic</td></tr></tbody></table>
 
 
+
 ## 风见幽香
 
 <table><tbody><tr><th><b>符卡名</b></th><th><b>难度</b></th></tr><tr><td style="width:200px">花符「花之旋风」</td><td style="width:180px">Easy/Normal</td></tr>
@@ -44,6 +48,7 @@ SlimeSmile
 <tr><td style="width:200px">花符「向日葵炸弹」</td><td style="width:180px">Easy/Normal/Hard/Lunatic</td></tr>
 <tr><td style="width:200px">星降「毁灭流星」</td><td style="width:180px">Easy/Normal</td></tr>
 <tr><td style="width:200px">花符「向日葵世界」</td><td style="width:180px">Hard/Lunatic</td></tr></tbody></table>
+
 
 
 ## 小野塚小町
@@ -57,9 +62,11 @@ SlimeSmile
 <tr><td style="width:200px">彼岸花「另一个世界的花朵」</td><td style="width:180px">Easy/Normal/Hard/Lunatic</td></tr></tbody></table>
 
 
+
 ## 魂魄妖梦
 
 <table><tbody><tr><th><b>符卡名</b></th><th><b>难度</b></th></tr><tr><td style="width:200px">秘剑「残花断月斩」</td><td style="width:180px">Easy/Normal/Hard/Lunatic</td></tr></tbody></table>
+
 
 
 ## 西行寺幽幽子
@@ -70,6 +77,7 @@ SlimeSmile
 <tr><td style="width:200px">落樱「秒速五厘米」 <sup id="cite_ref-2" class="reference"><a href="#cite_note-2">2</a></sup></td><td style="width:180px">Easy/Normal</td></tr>
 <tr><td style="width:200px">夕阳「晚蝶落樱之舞」</td><td style="width:180px">Hard/Lunatic</td></tr>
 <tr><td style="width:200px">「反魂蝶 -花开-」</td><td style="width:180px">Hard/Lunatic</td></tr></tbody></table>
+
 
 
 ## 芙蕾雅

@@ -8,9 +8,11 @@ UTG_Software | 使用了翻译表的页面
 本页面来自游戏自带的manual.html文件。
   
 
+
 ## index
 
 <table><tbody><tr class="tt-content" id="index-1" data-pos="&#91;&quot;index&quot;,1&#93;"><td class="tt-ja" lang="ja"><div class="poem">「すわぴょん2012 すわこちゃんcubic」を手にとっていただきありがとうございます。<br><br>　弾幕はついに３次元へ。<br>　装いもシステムもなにもかも進化したすわぴょん。さぁ、君も</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-content" id="index-2" data-pos="&#91;&quot;index&quot;,2&#93;"><td class="tt-ja" lang="ja"><div class="poem"><span style="color:red;">宇</span><span style="color:orange;">宙</span><span style="color:yellow;">を</span><span style="color:green;">感</span><span style="color:lightblue;">じ</span><span style="color:blue;">よ</span><span style="color:purple;">う</span><span style="color:red;">…</span></div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-content" id="index-3" data-pos="&#91;&quot;index&quot;,3&#93;"><td class="tt-ja" lang="ja"><div class="poem">　宗教臭いこと言ってますけど制作者はとくに信仰している宗教はないです（何<br><br>　今作はとにかく初心者でも楽しめるようにと、Very Easy・チュートリアルモードの導入を行いました。<br>　そして、普段はコンプリートがむちゃくちゃ難しいご褒美イラストですが、今作はだれでも全開放できるようになっています。がんばってください。</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-content" id="index-4" data-pos="&#91;&quot;index&quot;,4&#93;"><td class="tt-ja" lang="ja"><div class="poem">　さらに、今作はウルトラモードを超える更なる難関が追加されています。難易度ウルトラをクリアしたからといって安心してはいけないのです。<br>　上級シューターさんは是非挑戦してみてください！</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr></tbody></table>
+
 
 
 ## 背景故事

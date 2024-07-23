@@ -4,7 +4,8 @@
 
 DDとMPの同人工房（딤딤과 만삐의 동인공방） ，于 2008 年成立，主要制作 同人音乐，同人志 的韩国同人社团，主催是 DIMDIM，MANNPI，当前状态为 休止
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -22,17 +23,21 @@ DDとMPの同人工房（딤딤과 만삐의 동인공방） ，于 2008 年成�
 
 
 
+
 ## 社团信息
 文件:DDとMPの同人工房 banner.jpg (未找到链接)  Banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> DDとMPの同人工房（딤딤과 만삐의 동인공방） </td></tr><tr><td><b>中文名称</b></td><td>DD和MP的同人工房</td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐，同人志</td></tr><tr><td><b>成立时间</b></td><td>2008</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=DIMDIM&amp;action=edit&amp;redlink=1" class="new" title="DIMDIM（页面不存在）">DIMDIM</a> <br> <a href="/index.php?title=MANNPI&amp;action=edit&amp;redlink=1" class="new" title="MANNPI（页面不存在）">MANNPI</a> </td></tr><tr><td><b>地区</b></td><td>韩国</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://dimpi.egloos.com/">http://dimpi.egloos.com/</a> <br><a rel="nofollow" class="external free" href="https://soundcloud.com/mp-mannpi">https://soundcloud.com/mp-mannpi</a></td></tr></tbody></table>
 
 DDとMPの同人工房（同人社团，同人音乐社团，同人志社团） - DDとMPの同人工房（딤딤과 만삐의 동인공방） ，于 2008 年成立，主要制作 同人音乐，同人志 的韩国同人社团，主催是 DIMDIM，MANNPI，当前状态为 休止
+
 ## 成员名单
 - DIMDIM (未找到链接) (a.k.a. DD)
 - MANNPI (未找到链接) (a.k.a. MP)
 
+
 ## 作品列表
+
 ### 同人专辑
 [](./東方古典響_～_Touhou_Classical.md)[東方古典響 ～ Touhou Classical](./東方古典響_～_Touhou_Classical.md)首发日期：2010-03-14 （第七回 博麗神社例大祭 (未找到链接)）全长 （一般向）专辑分为两部分:  
 Scarlet Moonlight (Tr. 1-4)  
@@ -52,6 +57,7 @@ Trio for piano, violin &amp; cello (Tr. 7-10)[](./東方古典響_IV_～_Margins
 </table>
 
 
+
 ### 同人志
 만월 封面图片 (未找到链接)만월 (未找到链接)首发日期：未知 - 봉래 封面图片 (未找到链接)봉래 (未找到链接)首发日期：未知 - 선물 封面图片 (未找到链接)선물 (未找到链接)首发日期：未知 - 카카오 반 설탕 반 封面图片 (未找到链接)카카오 반 설탕 반 (未找到链接)首发日期：未知 - 
 <table><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
@@ -60,9 +66,11 @@ Trio for piano, violin &amp; cello (Tr. 7-10)[](./東方古典響_IV_～_Margins
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458"></table>
 
 
+
 ## 参展信息
 
 <table><tbody><tr><th class="活动页面">活动页面</th><th class="活动名称">活动名称</th><th class="日期">日期</th><th class="举办地点">举办地点</th><th class="摊位编号">摊位编号</th><th class="宣传页面">宣传页面</th><th class="备注">备注</th></tr><tr data-row-number="1" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#10" title="博丽神社例大祭">博丽神社例大祭#10</a></span></td><td class="活动名称 smwtype_txt">第十回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2456438.5">2013-05-26</td><td class="举办地点 smwtype_txt">东京Big Sight 东123456展厅</td><td class="摊位编号 smwtype_txt">B42a</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="2" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#7" title="博丽神社例大祭">博丽神社例大祭#7</a></span></td><td class="活动名称 smwtype_txt">第七回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2455269.5">2010-03-14</td><td class="举办地点 smwtype_txt">东京Big Sight 东23456展厅</td><td class="摊位编号 smwtype_txt">ゆ33a</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr></tbody></table>
+
 
 
 ## 其他信息

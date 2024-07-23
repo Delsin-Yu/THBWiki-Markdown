@@ -6,17 +6,21 @@
 
 本页是关于东方Project  
  **二次同人创作者** 的词条
+
 ## 基本信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="label"><b>名称</b></td><td> ssbbmaster </td></tr><tr><td class="label"><b>所属社团</b></td><td><b>当前</b><div style="margin-left:2em;">无所属社团</div></td></tr><tr><td class="label"><b>职位</b></td><td>编曲</td></tr><tr><td class="label"><b>参与社团</b></td><td><a href="./11th_hour.md" title="11th hour">11th hour</a> （编曲）<br><a href="./LTEDTX.md" title="LTEDTX">LTEDTX</a> （编曲）<br><a class="mw-selflink selflink">ssbbmaster</a> （编曲）</td></tr><tr><td class="label"><b>个人页面</b></td><td><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><b>bandcamp</b></td><td><a rel="nofollow" class="external free" href="https://ssbbmaster.bandcamp.com/">https://ssbbmaster.bandcamp.com/</a></td></tr><tr><td><b>Youtube</b></td><td><a rel="nofollow" class="external free" href="https://www.youtube.com/c/ssbbmaster">https://www.youtube.com/c/ssbbmaster</a></td></tr></tbody></table></td></tr></tbody></table>
 
 ssbbmaster（人物） - 现实人物
+
 ## 介绍
   
 电影式管弦乐社团[11th hour](./11th_hour.md)的成员。
   
 
+
 ## 作品列表
+
 ### 同人专辑
 [](./Reverie_of_Infinitude.md)[Reverie of Infinitude](./Reverie_of_Infinitude.md)首发日期：2020-08-29 EP （一般向）[](./Imprecisely_Rendered.md)[Imprecisely Rendered](./Imprecisely_Rendered.md)首发日期：2021-09-15 全长 （一般向）
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>

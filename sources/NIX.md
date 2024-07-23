@@ -6,19 +6,24 @@
 
 本页是关于东方Project  
  **二次同人创作者** 的词条
+
 ## 基本信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="label"><b>名称</b></td><td> NIX </td></tr><tr><td class="label"><b>所属社团</b></td><td><b>当前</b><div style="margin-left:2em;"><a href="./Enforce.md" title="Enforce">Enforce</a></div></td></tr><tr><td class="label"><b>职位</b></td><td>主催，编曲</td></tr><tr><td class="label"><b>参与社团</b></td><td><a href="./Dimension's_Gate.md" title="Dimension&#39;s Gate">Dimension's Gate</a> （编曲）<br><a href="./Enforce.md" title="Enforce">Enforce</a> （编曲）<br><a href="./dat_file_records.md" title="dat file records">dat file records</a> （编曲）</td></tr><tr><td class="label"><b>生日</b></td><td>1998.02.17（26岁）</td></tr><tr><td class="label"><b>个人页面</b></td><td><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><b>Twitter</b></td><td><a rel="nofollow" class="external free" href="https://twitter.com/nixsatou">https://twitter.com/nixsatou</a></td></tr><tr><td><b>Niconico</b></td><td><a rel="nofollow" class="external free" href="https://www.nicovideo.jp/user/623004">https://www.nicovideo.jp/user/623004</a></td></tr><tr><td><b>Soundcloud</b></td><td><a rel="nofollow" class="external free" href="https://soundcloud.com/19890217">https://soundcloud.com/19890217</a></td></tr><tr><td><b>Youtube</b></td><td><a rel="nofollow" class="external free" href="https://www.youtube.com/channel/UCmtvRAJUViDHlXPwRHl5Gsw">https://www.youtube.com/channel/UCmtvRAJUViDHlXPwRHl5Gsw</a></td></tr></tbody></table></td></tr></tbody></table>
 
 NIX（人物） - 现实人物
+
 ## 介绍
 - 同人音乐社团[Enforce](./Enforce.md)的主催。
 
+
 ## 参与作品
+
 ### 同人音乐
   
 模板:人物曲目列表 (未找到链接)
   
+
 
 ## 人际关系
 人名

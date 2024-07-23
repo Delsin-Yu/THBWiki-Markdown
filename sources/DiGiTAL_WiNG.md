@@ -4,7 +4,8 @@
 
 DiGiTAL WiNG ，于 2012 年成立，主要制作 同人音乐 的日本同人社团，主催是 katsu，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -40,12 +41,14 @@ DiGiTAL WiNG ，于 2012 年成立，主要制作 同人音乐 的日本同人�
 
 
 
+
 ## 社团信息
 [](./文件-DiGiTAL_WiNG_banner.png.md)  [](./文件-DiGiTAL_WiNG_banner.png.md)Banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> DiGiTAL WiNG </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2012</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="./katsu.md" title="katsu">katsu</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://digital-wing.net/">http://digital-wing.net/</a> （官网）<br><a rel="nofollow" class="external free" href="https://twitter.com/DW_official_">https://twitter.com/DW_official_</a> （Twitter）<br><a rel="nofollow" class="external free" href="https://www.youtube.com/channel/UCdcKTMsNF736S5rRq9bIi1Q">https://www.youtube.com/channel/UCdcKTMsNF736S5rRq9bIi1Q</a> （YouTube）</td></tr></tbody></table>
 
 DiGiTAL WiNG（同人社团，同人音乐社团） - DiGiTAL WiNG ，于 2012 年成立，主要制作 同人音乐 的日本同人社团，主催是 katsu，当前状态为 活动
+
 ## 成员名单
 - [katsu](./katsu.md)：代表 / Compose / Arrange / DJ
 - [雨宿どみ乃](./雨宿どみ乃.md)：Performer / Vocal
@@ -70,7 +73,9 @@ DiGiTAL WiNG（同人社团，同人音乐社团） - DiGiTAL WiNG ，于 2012 �
 - えろたん (未找到链接)：Vocal
 - [桃箱](./桃箱.md)：Vocal
 
+
 ## 作品列表
+
 ### WiNG系列
 [](./DiGiTAL_WiNG（同人专辑）.md)[DiGiTAL WiNG](./DiGiTAL_WiNG（同人专辑）.md)首发日期：2011-12-30 （Comic Market 81 (未找到链接)）DWCD-0001全长 （一般向）[](./Angel_Time.md)[Angel Time](./Angel_Time.md)首发日期：2012-05-27 （第九回 博麗神社例大祭 (未找到链接)）DWCD-0002全长 （一般向）[](./Eternal_Fantasia.md)[Eternal Fantasia](./Eternal_Fantasia.md)首发日期：2012-08-11 （Comic Market 82 (未找到链接)）DWCD-0003全长 （一般向）[](./Frozen_Traveler.md)[Frozen Traveler](./Frozen_Traveler.md)首发日期：2012-12-30 （Comic Market 83 (未找到链接)）DWCD-0005全长 （一般向）[](./BEST_OF_WiNG.md)[BEST OF WiNG](./BEST_OF_WiNG.md)首发日期：2013-05-26 （第十回 博麗神社例大祭 (未找到链接)）DWCD-0008精选集 （一般向）该专辑包含 2 张CD
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -83,6 +88,7 @@ DiGiTAL WiNG（同人社团，同人音乐社团） - DiGiTAL WiNG ，于 2012 �
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ### DiGiWi系列
@@ -137,6 +143,7 @@ DiGiTAL WiNG（同人社团，同人音乐社团） - DiGiTAL WiNG ，于 2012 �
 </table>
 
 
+
 ### RAVER'S NEST TOHO RAVE PARTY系列
 [](./RAVER'S_NEST_1_TOHO_RAVE_PARTY.md)[RAVER'S NEST 1 TOHO RAVE PARTY](./RAVER'S_NEST_1_TOHO_RAVE_PARTY.md)首发日期：2013-08-12 （Comic Market 84 (未找到链接)）DWCD-0010全长 （一般向）1st RAVER'S NEST Album[](./RAVER'S_NEST_2_TOHO_RAVE_PARTY.md)[RAVER'S NEST 2 TOHO RAVE PARTY](./RAVER'S_NEST_2_TOHO_RAVE_PARTY.md)首发日期：2013-12-30 （Comic Market 85 (未找到链接)）DWCD-0012全长 （一般向）2st RAVER'S NEST Album[](./RAVER'S_NEST_3_TOHO_RAVE_PARTY.md)[RAVER'S NEST 3 TOHO RAVE PARTY](./RAVER'S_NEST_3_TOHO_RAVE_PARTY.md)首发日期：2014-08-16 （Comic Market 86 (未找到链接)）DWCD-0016全长 （一般向）3rd RAVER'S NEST Album[](./RAVER'S_NEST_BEST_2014_TOHO_HYPER_RAVE.md)[RAVER'S NEST BEST 2014 TOHO HYPER RAVE](./RAVER'S_NEST_BEST_2014_TOHO_HYPER_RAVE.md)首发日期：2014-12-29 （Comic Market 87 (未找到链接)）DWCD-0018精选集 （一般向）该专辑包含 2 张CD1st RAVER'S NEST BEST Album[](./RAVER'S_NEST_4_TOHO_RAVE_PARTY.md)[RAVER'S NEST 4 TOHO RAVE PARTY](./RAVER'S_NEST_4_TOHO_RAVE_PARTY.md)首发日期：2015-08-14 （Comic Market 88 (未找到链接)）DWCD-0021全长 （一般向）4th RAVER'S NEST Album[](./RAVER'S_NEST_5_TOHO_RAVE_PARTY.md)[RAVER'S NEST 5 TOHO RAVE PARTY](./RAVER'S_NEST_5_TOHO_RAVE_PARTY.md)首发日期：2015-12-30 （Comic Market 89 (未找到链接)）DWCD-0024全长 （一般向）5th RAVER'S NEST Album[](./RAVER'S_NEST_6_TOHO_RAVE_PARTY.md)[RAVER'S NEST 6 TOHO RAVE PARTY](./RAVER'S_NEST_6_TOHO_RAVE_PARTY.md)首发日期：2016-08-13 （Comic Market 90 (未找到链接)）DWCD-0028全长 （一般向）6th RAVER'S NEST Album[](./RAVER'S_NEST_7_TOHO_RAVE_PARTY.md)[RAVER'S NEST 7 TOHO RAVE PARTY](./RAVER'S_NEST_7_TOHO_RAVE_PARTY.md)首发日期：2016-12-29 （Comic Market 91 (未找到链接)）DWCD-0030全长 （一般向）7th RAVER'S NEST Album[](./RAVER'S_NEST_BEST_2017_TOHO_HYPER_RAVE.md)[RAVER'S NEST BEST 2017 TOHO HYPER RAVE](./RAVER'S_NEST_BEST_2017_TOHO_HYPER_RAVE.md)首发日期：2017-08-11 （Comic Market 92 (未找到链接)）DWCD-0034精选集 （一般向）2nd RAVER'S NEST BEST Album[](./RAVER'S_NEST_8_TOHO_RAVE_PARTY.md)[RAVER'S NEST 8 TOHO RAVE PARTY](./RAVER'S_NEST_8_TOHO_RAVE_PARTY.md)首发日期：2017-12-29 （Comic Market 93 (未找到链接)）DWCD-0036全长 （一般向）8th RAVER'S NEST Album[](./RAVER'S_NEST_9_TOHO_RAVE_PARTY.md)[RAVER'S NEST 9 TOHO RAVE PARTY](./RAVER'S_NEST_9_TOHO_RAVE_PARTY.md)首发日期：2018-08-10 （Comic Market 94 (未找到链接)）DWCD-0041全长 （一般向）9th RAVER'S NEST Album[](./RAVER'S_NEST_10_TOHO_RAVE_PARTY.md)[RAVER'S NEST 10 TOHO RAVE PARTY](./RAVER'S_NEST_10_TOHO_RAVE_PARTY.md)首发日期：2019-08-12 （Comic Market 96 (未找到链接)）DWCD-0049全长 （一般向）10th RAVER'S NEST Album[](./RAVER'S_NEST_11_TOHO_RAVE_PARTY.md)[RAVER'S NEST 11 TOHO RAVE PARTY](./RAVER'S_NEST_11_TOHO_RAVE_PARTY.md)首发日期：2019-12-31 （Comic Market 97 (未找到链接)）DWCD-0053全长 （一般向）11th RAVER'S NEST Album[](./RAVER'S_NEST_BEST_2020_TOHO_HYPER_RAVE.md)[RAVER'S NEST BEST 2020 TOHO HYPER RAVE](./RAVER'S_NEST_BEST_2020_TOHO_HYPER_RAVE.md)首发日期：2020-10-11 （東方紅楼夢16 (未找到链接)）DWCD-0058全长、​精选集 （一般向）3rd RAVER'S NEST BEST Album[](./RAVER'S_NEST_12_TOHO_RAVE_PARTY.md)[RAVER'S NEST 12 TOHO RAVE PARTY](./RAVER'S_NEST_12_TOHO_RAVE_PARTY.md)首发日期：2022-12-31 （Comic Market 101 (未找到链接)）DWCD-0066全长 （一般向）12th RAVER'S NEST Album[](./RAVER'S_NEST_13_TOHO_RAVE_PARTY.md)[RAVER'S NEST 13 TOHO RAVE PARTY](./RAVER'S_NEST_13_TOHO_RAVE_PARTY.md)首发日期：2023-12-31 （Comic Market 103 (未找到链接)）DWCD-0071全长 （一般向）13th RAVER'S NEST Album
 <table><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
@@ -173,6 +180,7 @@ DiGiTAL WiNG（同人社团，同人音乐社团） - DiGiTAL WiNG ，于 2012 �
 </table>
 
 
+
 ### TOHO DANCE ANTHEM系列
 [](./TOHO_DANCE_ANTHEM_Vol.1.md)[TOHO DANCE ANTHEM Vol.1](./TOHO_DANCE_ANTHEM_Vol.1.md)首发日期：2018-08-10 （Comic Market 94 (未找到链接)）DWCD-0042全长 （一般向）1st TOHO DANCE ANTHEM Album[](./TOHO_DANCE_ANTHEM_Vol.2.md)[TOHO DANCE ANTHEM Vol.2](./TOHO_DANCE_ANTHEM_Vol.2.md)首发日期：2018-12-30 （Comic Market 95 (未找到链接)）DWCD-0044全长 （一般向）2nd TOHO DANCE ANTHEM Album[](./TOHO_DANCE_ANTHEM_Vol.3.md)[TOHO DANCE ANTHEM Vol.3](./TOHO_DANCE_ANTHEM_Vol.3.md)首发日期：2019-05-05 （第十六回 博麗神社例大祭 (未找到链接)）DWCD-0047全长 （一般向）3rd TOHO DANCE ANTHEM Album[](./BEST_FESTIVAL_OF_TOHO_DANCE_ANTHEM_1st_Party.md)[BEST FESTIVAL OF TOHO DANCE ANTHEM 1st Party](./BEST_FESTIVAL_OF_TOHO_DANCE_ANTHEM_1st_Party.md)首发日期：2019-08-12 （Comic Market 96 (未找到链接)）DWCD-0051精选集、​混音集 （一般向）1st BEST TOHO DANCE ANTHEM Album
 <table><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
@@ -183,6 +191,7 @@ DiGiTAL WiNG（同人社团，同人音乐社团） - DiGiTAL WiNG ，于 2012 �
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ### JULIANA'S TOHO系列
@@ -197,6 +206,7 @@ DiGiTAL WiNG（同人社团，同人音乐社团） - DiGiTAL WiNG ，于 2012 �
 </table>
 
 
+
 ### DiGiWi x RAVER'S NEST TOHO RAVE PARTY系列
 [](./Overcoming_Soul_TOHO.md)[Overcoming Soul TOHO](./Overcoming_Soul_TOHO.md)首发日期：2021-08-14 （東方ルナティックリリース (未找到链接)）DWCD-0060单曲 （一般向）1st デジウィ x RAVER'S NEST Single[](./TO_THE_NEXT_TOHO.md)[TO THE NEXT TOHO](./TO_THE_NEXT_TOHO.md)首发日期：2021-12-31 （Comic Market 99 (未找到链接)）DWCD-0061单曲 （一般向）2nd デジウィ x RAVER'S NEST Single[](./NEW_WORLD（DiGiTAL_WiNG）.md)[NEW WORLD](./NEW_WORLD（DiGiTAL_WiNG）.md)首发日期：2023-05-07 （第二十回 博麗神社例大祭 (未找到链接)）DWCD-0067EP （一般向）3rd デジウィ x RAVER'S NEST Single
 <table><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
@@ -205,6 +215,7 @@ DiGiTAL WiNG（同人社团，同人音乐社团） - DiGiTAL WiNG ，于 2012 �
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ### Various BEST &amp; Compilations
@@ -249,6 +260,7 @@ DiGiTAL WiNG（同人社团，同人音乐社团） - DiGiTAL WiNG ，于 2012 �
 </table>
 
 
+
 ### Alstroemeria Records x DiGiTAL WiNG
 [](./NONSTOP_INTERCEPT_phase_one.md)[NONSTOP INTERCEPT Phase One](./NONSTOP_INTERCEPT_phase_one.md)首发日期：2018-10-14 （第五回 博麗神社秋季例大祭 (未找到链接)）ARDW-0001混音集、​合作 （一般向）该作品是与 [Alstroemeria Records](./Alstroemeria_Records.md) 合作创作的[](./NONSTOP_INTERCEPT_phase_two.md)[NONSTOP INTERCEPT Phase Two](./NONSTOP_INTERCEPT_phase_two.md)首发日期：2019-10-06 （第六回 博麗神社秋季例大祭 (未找到链接)）ARDW-0002合作、​混音集 （一般向）该作品是与 [Alstroemeria Records](./Alstroemeria_Records.md) 合作创作的[](./NONSTOP_INTERCEPT_phase_three.md)[NONSTOP INTERCEPT Phase Three](./NONSTOP_INTERCEPT_phase_three.md)首发日期：2020-10-11 （東方紅楼夢16 (未找到链接)）ARDW-0003合作、​全长、​精选集 （一般向）该作品是与 [Alstroemeria Records](./Alstroemeria_Records.md) 合作创作的
 <table><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
@@ -259,10 +271,12 @@ DiGiTAL WiNG（同人社团，同人音乐社团） - DiGiTAL WiNG ，于 2012 �
 </table>
 
 
+
 ### Alstroemeria Records x DiGiTAL WiNG Limited CDs
 [](./INSTRUMENTAL_&_HARMONY_LIMITED.md)[INSTRUMENTAL &amp; HARMONY LIMITED](./INSTRUMENTAL_&_HARMONY_LIMITED.md)首发日期：2020-08-09 （東方名華祭14 (未找到链接)）ARDWEP01Omake （一般向）该作品是与 [Alstroemeria Records](./Alstroemeria_Records.md) 合作创作的
 <table><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ### 其他合作专辑
@@ -271,6 +285,7 @@ DiGiTAL WiNG（同人社团，同人音乐社团） - DiGiTAL WiNG ，于 2012 �
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ### Demo and Exclusives
@@ -297,6 +312,7 @@ DiGiTAL WiNG（同人社团，同人音乐社团） - DiGiTAL WiNG ，于 2012 �
 </table>
 
 
+
 ### WiNG Instrumental Versions
 [](./DiGiTAL_WiNG_instrumental.md)[DiGiTAL WiNG instrumental](./DiGiTAL_WiNG_instrumental.md)首发日期：2011-12-30 （Comic Market 81 (未找到链接)）DWEX-0001原声集 （一般向）[](./Angel_Time_Instrumental.md)[Angel Time Instrumental](./Angel_Time_Instrumental.md)首发日期：2012-05-27 （第九回 博麗神社例大祭 (未找到链接)）DWEX-0002原声集 （一般向）[](./Eternal_Fantasia_Instrumental.md)[Eternal Fantasia Instrumental](./Eternal_Fantasia_Instrumental.md)首发日期：2012-08-11 （Comic Market 82 (未找到链接)）DWEX-0003原声集 （一般向）[](./Frozen_Traveler_Instrumental.md)[Frozen Traveler Instrumental](./Frozen_Traveler_Instrumental.md)首发日期：2013-05-26 （第十回 博麗神社例大祭 (未找到链接)）DWEX-0006原声集 （一般向）
 <table><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
@@ -307,6 +323,7 @@ DiGiTAL WiNG（同人社团，同人音乐社团） - DiGiTAL WiNG ，于 2012 �
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ### DiGiWi Instrumental Versions
@@ -347,6 +364,7 @@ DiGiTAL WiNG（同人社团，同人音乐社团） - DiGiTAL WiNG ，于 2012 �
 </table>
 
 
+
 ### RAVER'S NEST TOHO RAVE PARTY Extended Versions
 [](./RAVER'S_NEST_1_TOHO_RAVE_PARTY_EXTENDED_Ver..md)[RAVER'S NEST 1 TOHO RAVE PARTY EXTENDED Ver.](./RAVER'S_NEST_1_TOHO_RAVE_PARTY_EXTENDED_Ver..md)首发日期：2013-08-12 （Comic Market 84 (未找到链接)）DWEX-0007混音集、​Omake （一般向）1st RAVER'S NEST Extended Album[](./RAVER'S_NEST_2_TOHO_RAVE_PARTY_EXTENDED_Ver..md)[RAVER'S NEST 2 TOHO RAVE PARTY EXTENDED Ver.](./RAVER'S_NEST_2_TOHO_RAVE_PARTY_EXTENDED_Ver..md)首发日期：2013-12-30 （Comic Market 85 (未找到链接)）DWEX-0008混音集、​Omake （一般向）2nd RAVER'S NEST Extended Album[](./RAVER'S_NEST_3_TOHO_RAVE_PARTY_EXTENDED_Ver..md)[RAVER'S NEST 3 TOHO RAVE PARTY EXTENDED Ver.](./RAVER'S_NEST_3_TOHO_RAVE_PARTY_EXTENDED_Ver..md)首发日期：2014-08-16 （Comic Market 86 (未找到链接)）DWEX-0010全长 （一般向）3rd RAVER'S NEST Extended Album[](./RAVER'S_NEST_4_TOHO_RAVE_PARTY_EXTENDED_Ver..md)[RAVER'S NEST 4 TOHO RAVE PARTY EXTENDED Ver.](./RAVER'S_NEST_4_TOHO_RAVE_PARTY_EXTENDED_Ver..md)首发日期：2015-08-14 （Comic Market 88 (未找到链接)）DWEX-0022全长 （一般向）4th RAVER'S NEST Extended Album[](./RAVER'S_NEST_5_TOHO_RAVE_PARTY_SPECIAL_EXTENDED_Ver..md)[RAVER'S NEST 5 TOHO RAVE PARTY SPECIAL EXTENDED Ver.](./RAVER'S_NEST_5_TOHO_RAVE_PARTY_SPECIAL_EXTENDED_Ver..md)首发日期：2015-12-30 （Comic Market 89 (未找到链接)）DWEX-0025全长 （一般向）5th RAVER'S NEST Extended Album[](./RAVER'S_NEST_6_-SPECIAL_EXTENDED_Ver._CD-.md)[RAVER'S NEST 6 "SPECIAL EXTENDED Ver. CD"](./RAVER'S_NEST_6_-SPECIAL_EXTENDED_Ver._CD-.md)首发日期：2016-08-13 （Comic Market 90 (未找到链接)）DWEX-0031全长 （一般向）6th RAVER'S NEST Extended Album[](./RAVER'S_NEST_7_SPECIAL_EXTENDED_Ver.CD.md)[RAVER'S NEST 7 SPECIAL EXTENDED Ver.CD](./RAVER'S_NEST_7_SPECIAL_EXTENDED_Ver.CD.md)首发日期：2016-12-29 （Comic Market 91 (未找到链接)）DWEX-0035全长 （一般向）7th RAVER'S NEST Extended Album[](./RAVER'S_NEST_8_SPECIAL_EXTENDED_Ver.CD.md)[RAVER'S NEST 8 SPECIAL EXTENDED Ver.CD](./RAVER'S_NEST_8_SPECIAL_EXTENDED_Ver.CD.md)首发日期：2017-12-29 （Comic Market 93 (未找到链接)）DWEX-0044Omake （一般向）8th RAVER'S NEST Extended Album[](./RAVER'S_NEST_9_TOHO_RAVE_PARTY_EXTENDED_Ver..md)[RAVER'S NEST 9 TOHO RAVE PARTY EXTENDED Ver.](./RAVER'S_NEST_9_TOHO_RAVE_PARTY_EXTENDED_Ver..md)首发日期：2018-08-10 （Comic Market 94 (未找到链接)）DWEX-0046Omake （一般向）[9th RAVER'S NEST](./RAVER'S_NEST_9_TOHO_RAVE_PARTY.md) Extended Album[](./RAVER'S_NEST_10_LIMITED_EXTENDED×INSTRUMENTAL.md)[RAVER'S NEST 10 LIMITED EXTENDED×INSTRUMENTAL](./RAVER'S_NEST_10_LIMITED_EXTENDED×INSTRUMENTAL.md)首发日期：2020-12-31 （エアコミケ2 (未找到链接)）全长、​原声集 （一般向）该专辑包含 2 张CD
 <table><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
@@ -371,6 +389,7 @@ DiGiTAL WiNG（同人社团，同人音乐社团） - DiGiTAL WiNG ，于 2012 �
 </table>
 
 
+
 ### RAVER'S NEST TOHO RAVE PARTY Instrumental Versions
 [](./RAVER'S_NEST_BEST_2014_TOHO_HYPER_RAVE_SPECIAL_INSTRUMENTAL_SIDE.md)[RAVER'S NEST BEST 2014 TOHO HYPER RAVE SPECIAL INSTRUMENTAL SIDE](./RAVER'S_NEST_BEST_2014_TOHO_HYPER_RAVE_SPECIAL_INSTRUMENTAL_SIDE.md)首发日期：2014-12-29 （Comic Market 87 (未找到链接)）DWEX-0013原声集 （一般向）1st RAVER'S NEST BEST Instrumental Album[](./RAVER'S_NEST_4_TOHO_RAVE_PARTY_Instrumental.md)[RAVER'S NEST 4 TOHO RAVE PARTY Instrumental](./RAVER'S_NEST_4_TOHO_RAVE_PARTY_Instrumental.md)首发日期：2015-08-14 （Comic Market 88 (未找到链接)）DWEX-0021原声集 （一般向）4th RAVER'S NEST Instrumental Album[](./RAVER'S_NEST_5_TOHO_RAVE_PARTY_instrumental.md)[RAVER'S NEST 5 TOHO RAVE PARTY instrumental](./RAVER'S_NEST_5_TOHO_RAVE_PARTY_instrumental.md)首发日期：2015-12-30 （Comic Market 89 (未找到链接)）DWEX-0026原声集 （一般向）5th RAVER'S NEST Instrumental Album[](./RAVER'S_NEST_6_TOHO_RAVE_PARTY_instrumental.md)[RAVER'S NEST 6 TOHO RAVE PARTY instrumental](./RAVER'S_NEST_6_TOHO_RAVE_PARTY_instrumental.md)首发日期：2016-08-13 （Comic Market 90 (未找到链接)）DWEX-0030全长 （一般向）6th RAVER'S NEST Instrumental Album[](./RAVER'S_NEST_7_TOHO_RAVE_PARTY_instrumental.md)[RAVER'S NEST 7 TOHO RAVE PARTY instrumental](./RAVER'S_NEST_7_TOHO_RAVE_PARTY_instrumental.md)首发日期：2016-12-29 （Comic Market 91 (未找到链接)）DWEX-0034原声集 （一般向）7th RAVER'S NEST Instrumental Album[](./RAVER'S_NEST_BEST_2017_SPECIAL_instrumental_Ver.CD.md)[RAVER'S NEST BEST 2017 SPECIAL instrumental Ver.CD](./RAVER'S_NEST_BEST_2017_SPECIAL_instrumental_Ver.CD.md)首发日期：2017-08-11 （Comic Market 92 (未找到链接)）DWEX-0040原声集 （一般向）2nd RAVER'S NEST BEST Instrumental CD[](./RAVER'S_NEST_8_TOHO_RAVE_PARTY_instrumental.md)[RAVER'S NEST 8 TOHO RAVE PARTY instrumental](./RAVER'S_NEST_8_TOHO_RAVE_PARTY_instrumental.md)首发日期：2017-12-29 （Comic Market 93 (未找到链接)）DWEX-0043Omake、​原声集 （一般向）8th RAVER'S NEST Instrumental Album[](./RAVER'S_NEST_10_TOHO_RAVE_PARTY_Instrumental.md)[RAVER'S NEST 10 TOHO RAVE PARTY Instrumental](./RAVER'S_NEST_10_TOHO_RAVE_PARTY_Instrumental.md)首发日期：2019-08-12 （Comic Market 96 (未找到链接)）DWEX-0049Omake、​原声集 （一般向）10th RAVER'S NEST Instrumental Album；会场前300名购入Alstroemeria Records×DiGiTAL WiNG合同商品组合的特典[](./RAVER'S_NEST_11_TOHO_RAVE_PARTY_Instrumental.md)[RAVER'S NEST 11 TOHO RAVE PARTY Instrumental](./RAVER'S_NEST_11_TOHO_RAVE_PARTY_Instrumental.md)首发日期：2019-12-31 （Comic Market 97 (未找到链接)）DWEX-0050Omake、​原声集 （一般向）11th RAVER'S NEST Instrumental Album
 <table><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
@@ -393,12 +412,14 @@ DiGiTAL WiNG（同人社团，同人音乐社团） - DiGiTAL WiNG ，于 2012 �
 </table>
 
 
+
 ### JULIANA'S TOHO Extended Versions
 [](./JULIANA'S_TOHO_Vol.1_Extended_Ver..md)[JULIANA'S TOHO Vol.1 Extended Ver.](./JULIANA'S_TOHO_Vol.1_Extended_Ver..md)首发日期：2012-10-28 （M3-2012秋 (未找到链接)）DWEX-0004全长 （一般向）1st JULIANA'S TOHO Extended CD[](./JULIANA'S_TOHO_Vol.2_Extended_Ver..md)[JULIANA'S TOHO Vol.2 Extended Ver.](./JULIANA'S_TOHO_Vol.2_Extended_Ver..md)首发日期：2012-12-30 （Comic Market 83 (未找到链接)）DWEX-0005全长 （一般向）2nd JULIANA'S TOHO Extended CD
 <table><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ### Various BEST Instrumental Versions
@@ -415,6 +436,7 @@ DiGiTAL WiNG（同人社团，同人音乐社团） - DiGiTAL WiNG ，于 2012 �
 </table>
 
 
+
 ### Other Extras
 [](./DiGi★Halo_Non-Stop_Mix_vol.1.md)[DiGi★Halo Non-Stop Mix vol.1](./DiGi★Halo_Non-Stop_Mix_vol.1.md)首发日期：2012-05-27 （第九回 博麗神社例大祭 (未找到链接)）DWHL-0001全长、​合作 （一般向）该作品是与 [Halozy](./Halozy.md) 合作创作的[](./デジハロ_OSAKA_2013.md)[デジハロ OSAKA 2013](./デジハロ_OSAKA_2013.md)首发日期：2013-10-13 （東方紅楼夢9 (未找到链接)）DWHL-0002Omake （一般向）该作品是与 [Halozy](./Halozy.md) 合作创作的[](./RAVER'S_NEST_BEST_2014_TOHO_HYPER_RAVE_SPECIAL_NON-STOP_MIX_SIDE.md)[RAVER'S NEST BEST 2014 TOHO HYPER RAVE SPECIAL NON-STOP MIX SIDE](./RAVER'S_NEST_BEST_2014_TOHO_HYPER_RAVE_SPECIAL_NON-STOP_MIX_SIDE.md)首发日期：2014-12-29 （Comic Market 87 (未找到链接)）DWEX-0015混音集 （一般向）1st RAVER'S NEST Non-Stop Mix Album[](./デジフラ_CARNIVAL.md)[デジフラ CARNIVAL](./デジフラ_CARNIVAL.md)首发日期：2018-09-01 合作、​活动纪念 （一般向）该作品是与 [THE OTHER FLOWER](./THE_OTHER_FLOWER.md) 合作创作的2018-03-31于名古屋举办的“DiGiTAL WiNG&amp;THE OTHER FLOWER ツーマンライブ デジフラ カーニバル”的活动纪念专辑；東方同人音楽流通上标注的发布日期为2018/10/14'"`UNIQ--ref-00000000-QINU`"'
 <table><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
@@ -425,6 +447,7 @@ DiGiTAL WiNG（同人社团，同人音乐社团） - DiGiTAL WiNG ，于 2012 �
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ### 同人视频
@@ -468,15 +491,18 @@ DiGiTAL WiNG（同人社团，同人音乐社团） - DiGiTAL WiNG ，于 2012 �
 </table>
 
 
+
 ### 同人志
 [](./History_of_DW_／_Paranoia.md)[History of DW ／ Paranoia](./History_of_DW_／_Paranoia.md)首发日期：2023-08-13 （Comic Market 102 (未找到链接)）DWEX-777画集 （一般向）
 <table><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
 
 
+
 ## 参展信息
 
 <table><tbody><tr><th class="活动页面">活动页面</th><th class="活动名称">活动名称</th><th class="日期">日期</th><th class="举办地点">举办地点</th><th class="摊位编号">摊位编号</th><th class="宣传页面">宣传页面</th><th class="备注">备注</th></tr><tr data-row-number="1" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#21" title="博丽神社例大祭">博丽神社例大祭#21</a></span></td><td class="活动名称 smwtype_txt">第二十一回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2460433.5">2024-05-03</td><td class="举办地点 smwtype_txt">东京Big Sight 东展厅</td><td class="摊位编号 smwtype_txt">あ19ab</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="2" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E4%B8%9C%E6%96%B9%E5%90%8D%E5%8D%8E%E7%A5%AD#18" title="东方名华祭">东方名华祭#18</a></span></td><td class="活动名称 smwtype_txt">東方名華祭18</td><td class="日期 smwtype_dat" data-sort-value="2460400.5">2024-03-31</td><td class="举办地点 smwtype_txt">名古屋市国际展示场 第2展厅</td><td class="摊位编号 smwtype_txt">F35,36</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="3" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/Comic_Market#103" title="Comic Market">Comic Market#103</a></span></td><td class="活动名称 smwtype_txt">Comic Market 103</td><td class="日期 smwtype_dat" data-sort-value="2460309.5">2023-12-31</td><td class="举办地点 smwtype_txt">东京都 东京国际展示场</td><td class="摊位编号 smwtype_txt">西あ66a</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="4" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E7%A7%8B%E5%AD%A3%E4%BE%8B%E5%A4%A7%E7%A5%AD#10" title="博丽神社秋季例大祭">博丽神社秋季例大祭#10</a></span></td><td class="活动名称 smwtype_txt">第十回 博麗神社秋季例大祭</td><td class="日期 smwtype_dat" data-sort-value="2460260.5">2023-11-12</td><td class="举办地点 smwtype_txt">东京Big Sight 東展厅</td><td class="摊位编号 smwtype_txt">た30a</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="5" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E4%B8%9C%E6%96%B9%E7%BA%A2%E6%A5%BC%E6%A2%A6#19" title="东方红楼梦">东方红楼梦#19</a></span></td><td class="活动名称 smwtype_txt">東方紅楼夢19</td><td class="日期 smwtype_dat" data-sort-value="2460232.5">2023-10-15</td><td class="举办地点 smwtype_txt">大阪国际展览中心 6号馆C・D区</td><td class="摊位编号 smwtype_txt">あ-07ab</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="6" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/Comic_Market#102" title="Comic Market">Comic Market#102</a></span></td><td class="活动名称 smwtype_txt">Comic Market 102</td><td class="日期 smwtype_dat" data-sort-value="2460169.5">2023-08-13</td><td class="举办地点 smwtype_txt">东京都 东京国际展示场</td><td class="摊位编号 smwtype_txt">東A76a</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="7" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E4%B8%9C%E6%96%B9%E5%90%8D%E5%8D%8E%E7%A5%AD#17" title="东方名华祭">东方名华祭#17</a></span></td><td class="活动名称 smwtype_txt">東方名華祭17</td><td class="日期 smwtype_dat" data-sort-value="2460120.5">2023-06-25</td><td class="举办地点 smwtype_txt">名古屋市国际展示场 第2展厅</td><td class="摊位编号 smwtype_txt">J27,28</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="8" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#20" title="博丽神社例大祭">博丽神社例大祭#20</a></span></td><td class="活动名称 smwtype_txt">第二十回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2460071.5">2023-05-07</td><td class="举办地点 smwtype_txt">东京Big Sight 东展厅</td><td class="摊位编号 smwtype_txt">あ17a</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="9" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E7%A7%8B%E5%AD%A3%E4%BE%8B%E5%A4%A7%E7%A5%AD#9" title="博丽神社秋季例大祭">博丽神社秋季例大祭#9</a></span></td><td class="活动名称 smwtype_txt">第九回 博麗神社秋季例大祭</td><td class="日期 smwtype_dat" data-sort-value="2459875.5">2022-10-23</td><td class="举办地点 smwtype_txt">东京Big Sight 西展厅</td><td class="摊位编号 smwtype_txt">あ38a</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="10" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E4%B8%9C%E6%96%B9%E7%BA%A2%E6%A5%BC%E6%A2%A6#18" title="东方红楼梦">东方红楼梦#18</a></span></td><td class="活动名称 smwtype_txt">東方紅楼夢18</td><td class="日期 smwtype_dat" data-sort-value="2459861.5">2022-10-09</td><td class="举办地点 smwtype_txt">大阪国际展览中心</td><td class="摊位编号 smwtype_txt">そ11-b</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr class="smwfooter row-odd"><td class="sortbottom" colspan="7"><span class="smw-broadtable-furtherresults"><a href="/%E7%89%B9%E6%AE%8A:%E8%AF%A2%E9%97%AE/-5B-5B%E6%91%8A%E4%BD%8D%E7%A4%BE%E5%9B%A2::DiGiTAL-20WiNG-5D-5D/-3F%E6%91%8A%E4%BD%8D%E6%B4%BB%E5%8A%A8%3D%E6%B4%BB%E5%8A%A8%E9%A1%B5%E9%9D%A2/-3F%E6%91%8A%E4%BD%8D%E6%B4%BB%E5%8A%A8.%E5%B1%95%E4%BC%9A%E5%90%8D%E7%A7%B0%3D%E6%B4%BB%E5%8A%A8%E5%90%8D%E7%A7%B0/-3F%E6%91%8A%E4%BD%8D%E6%B4%BB%E5%8A%A8.%E5%B1%95%E4%BC%9A%E6%97%A5%E6%9C%9F%3D%E6%97%A5%E6%9C%9F/-3F%E6%91%8A%E4%BD%8D%E6%B4%BB%E5%8A%A8.%E5%9C%B0%E7%82%B9%3D%E4%B8%BE%E5%8A%9E%E5%9C%B0%E7%82%B9/-3F%E6%91%8A%E4%BD%8D%E7%BC%96%E5%8F%B7/-3F%E6%91%8A%E4%BD%8D%E5%AE%A3%E4%BC%A0%E9%A1%B5%E9%9D%A2%3D%E5%AE%A3%E4%BC%A0%E9%A1%B5%E9%9D%A2-7C%2Bmany%3D-3Cbr-20-2F-3E/-3F%E6%91%8A%E4%BD%8D%E5%A4%87%E6%B3%A8%3D%E5%A4%87%E6%B3%A8/mainlabel%3D-20-2D/limit%3D10/order%3D-20descending/sort%3D-20%E6%91%8A%E4%BD%8D%E6%B4%BB%E5%8A%A8.%E5%B1%95%E4%BC%9A%E6%97%A5%E6%9C%9F/offset%3D10/format%3D-20broadtable/headers%3D-20plain" title="特殊:询问/-5B-5B摊位社团::DiGiTAL-20WiNG-5D-5D/-3F摊位活动=活动页面/-3F摊位活动.展会名称=活动名称/-3F摊位活动.展会日期=日期/-3F摊位活动.地点=举办地点/-3F摊位编号/-3F摊位宣传页面=宣传页面-7C+many=-3Cbr-20-2F-3E/-3F摊位备注=备注/mainlabel=-20-2D/limit=10/order=-20descending/sort=-20摊位活动.展会日期/offset=10/format=-20broadtable/headers=-20plain">...更多结果</a></span></td></tr></tbody></table>
+
 
 
 ## 其他信息

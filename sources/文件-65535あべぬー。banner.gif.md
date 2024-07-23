@@ -4,6 +4,7 @@
 
 65535あべぬー。 | 社团LOGO
 
+
 ## 文件说明
   
 源地址：[[1]](https://web.archive.org/web/20051215184804im_/http://65535th.sakura.ne.jp/gif/65535bn.gif)

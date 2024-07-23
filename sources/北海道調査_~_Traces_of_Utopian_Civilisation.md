@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-北海道調査_~_Traces_of_Utopian_Civilisation封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/f/fd/%E5%8C%97%E6%B5%B7%E9%81%93%E8%AA%BF%E6%9F%BB_~_Traces_of_Utopian_Civilisation%E5%B0%81%E9%9D%A2.jpg/252px-%E5%8C%97%E6%B5%B7%E9%81%93%E8%AA%BF%E6%9F%BB_~_Traces_of_Utopian_Civilisation%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="252" srcset="https://upload.thwiki.cc/thumb/f/fd/%E5%8C%97%E6%B5%B7%E9%81%93%E8%AA%BF%E6%9F%BB_~_Traces_of_Utopian_Civilisation%E5%B0%81%E9%9D%A2.jpg/378px-%E5%8C%97%E6%B5%B7%E9%81%93%E8%AA%BF%E6%9F%BB_~_Traces_of_Utopian_Civilisation%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/f/fd/%E5%8C%97%E6%B5%B7%E9%81%93%E8%AA%BF%E6%9F%BB_~_Traces_of_Utopian_Civilisation%E5%B0%81%E9%9D%A2.jpg/504px-%E5%8C%97%E6%B5%B7%E9%81%93%E8%AA%BF%E6%9F%BB_~_Traces_of_Utopian_Civilisation%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1200" data-file-height="1200"></a><div class="cover-char">角色：<a href="./宇佐见莲子.md" title="宇佐见莲子">宇佐见莲子</a>，<a href="./玛艾露贝莉·赫恩.md" title="玛艾露贝莉·赫恩">玛艾露贝莉·赫恩</a></div></td>
@@ -16,6 +17,7 @@
 北海道調査 ~ Traces of Utopian Civilisation（同人专辑，Aka Kyuketsuki，2017） - 2017年7月29日 由 Aka Kyuketsuki 于 Reddit大祭2 发布的全长/印象集同人专辑，曲目主要风格是 游戏音乐、爵士，分级为 一般向
 
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://akakyu.bandcamp.com/album/hokkaido-investigations-traces-of-utopian-civilisation">bandcamp</a></td></tr></tbody></table>
+
 
 
 ## Staff
@@ -31,6 +33,7 @@ Japanese Translation
 : Popfan, Tokiko Tatsunagi
 Special Thanks
 : Frenticpony, Timi, RickyRister, Frogmask, Mana Kazami
+
 
 ## 试听
   
@@ -48,6 +51,7 @@ Special Thanks
 
 [Touhou-Style CD 北海道調査 ~ Traces of Utopian Civilisation](https://www.youtube.com/playlist?list=PLTM_Nwv7Z_HTXcuMgjqHJGZ4i2CgzCllZ)
 
+
 ## 曲目列表
 
 <table><tbody><tr><td id="1" class="infoYL"><b>01</b></td><td id="理論家たちの「ファンタシア」解釈" colspan="2" class="title">理論家たちの「ファンタシア」解釈<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Aka Kyuketsuki&amp;fromwiki=北海道調査_~_Traces_of_Utopian_Civilisation"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:16</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=Aka_Kyuketsuki&amp;action=edit&amp;redlink=1" class="new" title="Aka Kyuketsuki（页面不存在）">Aka Kyuketsuki</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Aka Kyuketsuki&amp;fromwiki=北海道調査_~_Traces_of_Utopian_Civilisation"><span></span></a></span></td></tr>
@@ -60,6 +64,7 @@ Special Thanks
 <tr><td id="8" class="infoYL"><b>08</b></td><td id="宮殿の金剛涙" colspan="2" class="title">宮殿の金剛涙<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Aka Kyuketsuki&amp;fromwiki=北海道調査_~_Traces_of_Utopian_Civilisation"><span title="搜索相似同人曲"></span></a></span></td><td class="time">05:10</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=Aka_Kyuketsuki&amp;action=edit&amp;redlink=1" class="new" title="Aka Kyuketsuki（页面不存在）">Aka Kyuketsuki</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Aka Kyuketsuki&amp;fromwiki=北海道調査_~_Traces_of_Utopian_Civilisation"><span></span></a></span></td></tr>
 <tr><td id="9" class="infoYL"><b>09</b></td><td id="アンシーンマドネス" colspan="2" class="title">アンシーンマドネス<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Aka Kyuketsuki&amp;fromwiki=北海道調査_~_Traces_of_Utopian_Civilisation"><span title="搜索相似同人曲"></span></a></span></td><td class="time">06:53</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=Aka_Kyuketsuki&amp;action=edit&amp;redlink=1" class="new" title="Aka Kyuketsuki（页面不存在）">Aka Kyuketsuki</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Aka Kyuketsuki&amp;fromwiki=北海道調査_~_Traces_of_Utopian_Civilisation"><span></span></a></span></td></tr>
 <tr><td id="10" class="infoYL"><b>10</b></td><td id="大世界の上に漂うニつの雪片" colspan="2" class="title">大世界の上に漂うニつの雪片<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Aka Kyuketsuki&amp;fromwiki=北海道調査_~_Traces_of_Utopian_Civilisation"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:44</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=Aka_Kyuketsuki&amp;action=edit&amp;redlink=1" class="new" title="Aka Kyuketsuki（页面不存在）">Aka Kyuketsuki</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Aka Kyuketsuki&amp;fromwiki=北海道調査_~_Traces_of_Utopian_Civilisation"><span></span></a></span></td></tr></tbody></table>
+
 
 
 ## 评论

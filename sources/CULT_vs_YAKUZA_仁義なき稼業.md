@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-CULT_vs_YAKUZA_仁義なき稼業封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/4/40/CULT_vs_YAKUZA_%E4%BB%81%E7%BE%A9%E3%81%AA%E3%81%8D%E7%A8%BC%E6%A5%AD%E5%B0%81%E9%9D%A2.jpg/138px-CULT_vs_YAKUZA_%E4%BB%81%E7%BE%A9%E3%81%AA%E3%81%8D%E7%A8%BC%E6%A5%AD%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="138" height="196" srcset="https://upload.thwiki.cc/thumb/4/40/CULT_vs_YAKUZA_%E4%BB%81%E7%BE%A9%E3%81%AA%E3%81%8D%E7%A8%BC%E6%A5%AD%E5%B0%81%E9%9D%A2.jpg/208px-CULT_vs_YAKUZA_%E4%BB%81%E7%BE%A9%E3%81%AA%E3%81%8D%E7%A8%BC%E6%A5%AD%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/4/40/CULT_vs_YAKUZA_%E4%BB%81%E7%BE%A9%E3%81%AA%E3%81%8D%E7%A8%BC%E6%A5%AD%E5%B0%81%E9%9D%A2.jpg/277px-CULT_vs_YAKUZA_%E4%BB%81%E7%BE%A9%E3%81%AA%E3%81%8D%E7%A8%BC%E6%A5%AD%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1152" data-file-height="1629"></a><div class="cover-char">角色：<a href="./骊驹早鬼.md" title="骊驹早鬼">骊驹早鬼</a>，<a href="./吉吊八千慧.md" title="吉吊八千慧">吉吊八千慧</a>，<a href="./杖刀偶磨弓.md" title="杖刀偶磨弓">杖刀偶磨弓</a>，<a href="./埴安神袿姬.md" title="埴安神袿姬">埴安神袿姬</a></div></td>
@@ -18,11 +19,14 @@ CULT vs YAKUZA 仁義なき稼業（同人志，純情リーマー，2020） - 2
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=732741">蜜瓜</a></td></tr></tbody></table>
 
 
+
 ## 预览
 - [](./文件-CULT_vs_YAKUZA_仁義なき稼業预览图1.jpg.md)- [](./文件-CULT_vs_YAKUZA_仁義なき稼業预览图2.jpg.md)- [](./文件-CULT_vs_YAKUZA_仁義なき稼業预览图3.jpg.md)- [](./文件-CULT_vs_YAKUZA_仁義なき稼業预览图4.jpg.md)- [](./文件-CULT_vs_YAKUZA_仁義なき稼業预览图5.jpg.md)- [](./文件-CULT_vs_YAKUZA_仁義なき稼業预览图6.jpg.md)- [](./文件-CULT_vs_YAKUZA_仁義なき稼業预览图7.jpg.md)- [](./文件-CULT_vs_YAKUZA_仁義なき稼業预览图8.jpg.md)- [](./文件-CULT_vs_YAKUZA_仁義なき稼業预览图9.jpg.md)- [](./文件-CULT_vs_YAKUZA_仁義なき稼業预览图10.jpg.md)- [](./文件-CULT_vs_YAKUZA_仁義なき稼業预览图11.jpg.md)- [](./文件-CULT_vs_YAKUZA_仁義なき稼業预览图12.jpg.md)- [](./文件-CULT_vs_YAKUZA_仁義なき稼業预览图13.jpg.md)
 
+
 ## Staff
 - [竜一](./竜一.md)
+
 
 ## 评论
   

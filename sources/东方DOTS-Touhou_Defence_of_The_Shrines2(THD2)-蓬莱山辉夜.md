@@ -169,6 +169,7 @@ AvalonStudioOfficial
 [](./文件-THD2蓬莱山辉夜.png.md)
   
 
+
 ## 目录
 
 - [1 角色定位](#角色定位)
@@ -189,10 +190,12 @@ AvalonStudioOfficial
 
 
 
+
 ## 角色定位
   
 爆发 - 控制 - 打野 - 耐久
   
+
 
 ## 技能介绍
 
@@ -673,6 +676,7 @@ AvalonStudioOfficial
 </td></tr></tbody></table>
 
 
+
 ## 天赋树
 
 
@@ -711,25 +715,30 @@ AvalonStudioOfficial
 </td></tr></tbody></table>
 
 
+
 ### 出门装备
 ```
 [](./文件-THD2魔法使扫把.png.md) [](./文件-THD2思兼生命药.png.md) [](./文件-THD2爱人卡.png.md) [](./文件-THD2四叶草.png.md)
 ```
+
 
 ### 前期装备
 ```
 [](./文件-THD2冰精跳跃装置.png.md) [](./文件-THD2西尔芙灵纹.png.md)
 ```
 
+
 ### 核心装备
 ```
 [](./文件-THD2不明的秒计时.png.md) [](./文件-THD2亡灵送行提灯.png.md) [](./文件-THD2油库里之杖.png.md) [](./文件-THD2侦查守卫.png.md) [](./文件-THD2岗哨守卫.png.md)
 ```
 
+
 ### 可选装备
 ```
 [](./文件-THD2巴瓦鲁幽魂之书.png.md) [](./文件-THD2速融的核聚变棒.png.md) [](./文件-THD2碎骨笛.png.md) [](./文件-THD2魔法使的帽子.png.md) [](./文件-THD2魔人经卷.png.md) [](./文件-THD2红魔火箭1级.png.md) [](./文件-THD2月面之弓弦.png.md) [](./文件-THD2花毒的连衣裙.png.md) [](./文件-THD2八云间隙发生器.png.md)
 ```
+
 
 ## 技能加点
 
@@ -877,6 +886,7 @@ AvalonStudioOfficial
 </td></tr></tbody></table>
 
 
+
 ## 台词
 
 <table>
@@ -957,6 +967,7 @@ AvalonStudioOfficial
 </td>
 <td>はめられる前(まえ )にはめるのです <br>[被人算计前先算计人]
 </td></tr></tbody></table>
+
 
 
 ## 教学视频

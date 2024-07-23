@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-東方地霊麺_SUBTERRANEAN_NOODLES封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/4/4e/%E6%9D%B1%E6%96%B9%E5%9C%B0%E9%9C%8A%E9%BA%BA_SUBTERRANEAN_NOODLES%E5%B0%81%E9%9D%A2.jpg/139px-%E6%9D%B1%E6%96%B9%E5%9C%B0%E9%9C%8A%E9%BA%BA_SUBTERRANEAN_NOODLES%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="139" height="196" srcset="https://upload.thwiki.cc/thumb/4/4e/%E6%9D%B1%E6%96%B9%E5%9C%B0%E9%9C%8A%E9%BA%BA_SUBTERRANEAN_NOODLES%E5%B0%81%E9%9D%A2.jpg/208px-%E6%9D%B1%E6%96%B9%E5%9C%B0%E9%9C%8A%E9%BA%BA_SUBTERRANEAN_NOODLES%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/4/4e/%E6%9D%B1%E6%96%B9%E5%9C%B0%E9%9C%8A%E9%BA%BA_SUBTERRANEAN_NOODLES%E5%B0%81%E9%9D%A2.jpg/277px-%E6%9D%B1%E6%96%B9%E5%9C%B0%E9%9C%8A%E9%BA%BA_SUBTERRANEAN_NOODLES%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="849" data-file-height="1200"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>，<a href="./古明地觉.md" title="古明地觉">古明地觉</a>，<a href="./水桥帕露西.md" title="水桥帕露西">水桥帕露西</a></div></td>
@@ -14,7 +15,9 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/kyacchi0229/status/1572601552908476416">https://twitter.com/kyacchi0229/status/1572601552908476416</a><br><a rel="nofollow" class="external free" href="https://twitter.com/kyacchi0229/status/1577229539922640898">https://twitter.com/kyacchi0229/status/1577229539922640898</a><br><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/101406761">https://www.pixiv.net/artworks/101406761</a><br><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/101728045">https://www.pixiv.net/artworks/101728045</a></td></tr><tr><td class="label">备注</td><td colspan="2">地霊殿キャラ＋麺合同</td></tr></tbody></table>
 
 東方地霊麺 SUBTERRANEAN NOODLES（同人志，カースドフォーチュン，2022） - 2022年10月9日 由 カースドフォーチュン 于 东方红楼梦18 发布的合同志/画集/漫画同人志，A4尺寸一共50页，分级为 一般向
+
 ## 预览
+
 ## Staff
 Organizer
 : けーやっち （[カースドフォーチュン](./カースドフォーチュン.md)）
@@ -40,6 +43,7 @@ Participants
 
 Special Collaborator
 : いどみず （[いどのたこつぼ](./いどのたこつぼ.md)）
+
 
 ## 评论
 

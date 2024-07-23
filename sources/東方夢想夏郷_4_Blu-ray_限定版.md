@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人视频 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-東方夢想夏郷_4_Blu-ray_限定版封面.jpeg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/e/e7/%E6%9D%B1%E6%96%B9%E5%A4%A2%E6%83%B3%E5%A4%8F%E9%83%B7_4_Blu-ray_%E9%99%90%E5%AE%9A%E7%89%88%E5%B0%81%E9%9D%A2.jpeg/138px-%E6%9D%B1%E6%96%B9%E5%A4%A2%E6%83%B3%E5%A4%8F%E9%83%B7_4_Blu-ray_%E9%99%90%E5%AE%9A%E7%89%88%E5%B0%81%E9%9D%A2.jpeg" decoding="async" loading="lazy" width="138" height="196" srcset="https://upload.thwiki.cc/thumb/e/e7/%E6%9D%B1%E6%96%B9%E5%A4%A2%E6%83%B3%E5%A4%8F%E9%83%B7_4_Blu-ray_%E9%99%90%E5%AE%9A%E7%89%88%E5%B0%81%E9%9D%A2.jpeg/207px-%E6%9D%B1%E6%96%B9%E5%A4%A2%E6%83%B3%E5%A4%8F%E9%83%B7_4_Blu-ray_%E9%99%90%E5%AE%9A%E7%89%88%E5%B0%81%E9%9D%A2.jpeg 1.5x, https://upload.thwiki.cc/thumb/e/e7/%E6%9D%B1%E6%96%B9%E5%A4%A2%E6%83%B3%E5%A4%8F%E9%83%B7_4_Blu-ray_%E9%99%90%E5%AE%9A%E7%89%88%E5%B0%81%E9%9D%A2.jpeg/277px-%E6%9D%B1%E6%96%B9%E5%A4%A2%E6%83%B3%E5%A4%8F%E9%83%B7_4_Blu-ray_%E9%99%90%E5%AE%9A%E7%89%88%E5%B0%81%E9%9D%A2.jpeg 2x" data-file-width="706" data-file-height="1000"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>，<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a>，<a href="./爱丽丝·玛格特洛依德.md" title="爱丽丝·玛格特洛依德">爱丽丝·玛格特洛依德</a>，<a href="./伊吹萃香.md" title="伊吹萃香">伊吹萃香</a></div></td>
@@ -18,8 +19,10 @@
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://maikazeshop.booth.pm/items/3084732">Booth</a></td></tr></tbody></table>
 
 
+
 ## 预览图片
 - [](./文件-東方夢想夏郷_4_Blu-ray_限定版预览图1.jpg.md)- [](./文件-東方夢想夏郷_4_Blu-ray_限定版预览图2.jpg.md)
+
 
 ## Staff
 
@@ -70,6 +73,7 @@ STAFF
 
 録音 / 録音助手：武藤 雅人 / 山田 理紗子
   
+
 
 
 ## 评论

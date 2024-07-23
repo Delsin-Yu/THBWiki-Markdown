@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 软件信息](#软件信息)
@@ -13,6 +14,7 @@
 - [3 内容页面](#内容页面)
 - [4 衍生作品](#衍生作品)
 - [5 词条导航](#词条导航)
+
 
 
 
@@ -43,6 +45,7 @@
 <tbody><tr><th colspan="2">配置需求</th></tr>
 <tr><td style="width:120px;padding-left:7px;"><b>操作系统</b></td><td>Windows 7 或以上</td></tr><tr><td style="width:120px;padding-left:7px;"><b>DirectX</b></td><td>9.0c</td></tr><tr><td style="width:120px;padding-left:7px;"><b>CPU</b></td><td>Intel Atom x5-Z8350</td></tr><tr><td style="width:120px;padding-left:7px;"><b>内存</b></td><td>2 GB RAM</td></tr><tr><td style="width:120px;padding-left:7px;"><b>显示卡</b></td><td>支持 DirectX 9 的显卡</td></tr><tr><td style="width:120px;padding-left:7px;"><b>硬盘需求</b></td><td>需要 600 MB 可用空间</td></tr>
 </tbody></table>
+
 
 
 ## Staff
@@ -132,6 +135,7 @@
 : 砂砾籽
 : nonescarlet
 
+
 ## 内容页面
 - [游戏设定与剧情](./東方幕華祭_春雪篇_～_Fantastic_Danmaku_Festival_Part_II-设定与剧情.md)
 - [机体特性与系统说明](./東方幕華祭_春雪篇_～_Fantastic_Danmaku_Festival_Part_II-系统.md)
@@ -139,6 +143,7 @@
 - [音乐](./東方幕華祭_春雪篇_～_Fantastic_Danmaku_Festival_Part_II-音乐.md)
 - [符卡](./東方幕華祭_春雪篇_～_Fantastic_Danmaku_Festival_Part_II-符卡.md)
 - [其他相关资料](./東方幕華祭_春雪篇_～_Fantastic_Danmaku_Festival_Part_II-其他.md)
+
 
 ## 衍生作品
   
@@ -201,6 +206,7 @@
   
 发售类型包括通常版（仅EXA用游戏软件）、软件限定版（EXA用游戏软件和特典）、限定基板和软件套装（包含特制外观EXA基板、EXA用游戏软件和特典）。
   
+
 
 ## 词条导航
   

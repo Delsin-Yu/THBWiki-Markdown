@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -28,11 +29,13 @@
 
 
 
+
 ## 基本信息
 
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">スリープシープ・パレード</td></tr><tr><td><b>译名</b></td><td>Sleep Sheep·Parade</td></tr><tr><td><b>英文译名</b></td><td>Sleep Sheep Parade</td></tr><tr><td><b>其他译名</b></td><td>眠羊游行</td></tr><tr><td><b>作曲</b></td><td><a href="./あきやまうに.md" title="あきやまうに">あきやまうに</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 Sleep Sheep·Parade（曲目） - 由 あきやまうに 创作的官方曲目，原名 スリープシープ・パレード
+
 ## 出现作品
 
 <table>
@@ -41,14 +44,19 @@ Sleep Sheep·Parade（曲目） - 由 あきやまうに 创作的官方曲目�
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 完全凭依唱片名录
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-TFM-009b_09.mp3.md" title="文件:TFM-009b 09.mp3">TFM-009b_09.mp3</a><br><audio src="https://upload.thwiki.cc/5/5e/TFM-009b_09.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track09.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>3:11</td></tr></tbody></table>
 
 
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
   
  **スリープシープ・パレード**  Sleep Sheep·Parade
@@ -60,7 +68,7 @@ Sleep Sheep·Parade（曲目） - 由 あきやまうに 创作的官方曲目�
     - 有认为这是由于英语中「睡眠」（Sleep）与「羊」（Sheep）的读音相似，通过数羊可以给心理作出暗示。
       - 不过数羊早在英语在世界范围内取得优势地位前就已经出现，而且也在非英语国家流行，因而这种说法可信度不高。
 
-    - 可参见羊符「Nightmare of Chimera」 (未找到链接)。
+    - 可参见[羊符「Nightmare of Chimera」](./羊符「Nightmare_of_Chimera」.md)。
 
   - 这种入眠方法没有得到学界的认可，如今更多地是在各种作品中成为睡眠、催眠等的常见意象。
     - 作为睡眠意象的羊也表现在凭依华中哆来咪的许多地方，入场方式、弹幕等。
@@ -71,6 +79,7 @@ Sleep Sheep·Parade（曲目） - 由 あきやまうに 创作的官方曲目�
   - 令人联想到迪士尼巡游的电子音乐「Baroque Hoedown」。
     - 皆使用类似大键琴及小鼓等的合成音。
     - 在[凭依华](./凭依华.md)中[梦境世界](./梦境世界.md)的背景为游乐园。
+
 
 
 

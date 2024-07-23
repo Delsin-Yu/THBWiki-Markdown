@@ -86,6 +86,7 @@
 <tr><td>符卡原名</td><td>退符「广范围治退人偶」</td></tr><tr><td>出现位置</td><td>Stage 3 - Lunatic（<a href="./爱丽丝·玛格特洛依德.md" title="爱丽丝·玛格特洛依德">爱丽丝·玛格特洛依德</a>）</td></tr></tbody></table>
 
 
+
 ## 词条导航
   
   

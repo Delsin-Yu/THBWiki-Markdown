@@ -4,6 +4,7 @@
 
 k-waves LAB ，于 2005 年成立，主要制作 同人音乐 的日本同人社团，主催是 Kou Ogata，当前状态为 活动
 
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -15,14 +16,17 @@ k-waves LAB ，于 2005 年成立，主要制作 同人音乐 的日本同人社
 
 
 
+
 ## 社团信息
 [](./文件-K-waves_labLOGO.jpg.md)  [](./文件-K-waves_labLOGO.jpg.md)LOGO
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> k-waves LAB </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2005</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=Kou_Ogata&amp;action=edit&amp;redlink=1" class="new" title="Kou Ogata（页面不存在）">Kou Ogata</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://kou-ogata.net/">http://kou-ogata.net/</a> </td></tr></tbody></table>
 
 K-waves LAB（同人社团，同人音乐社团） - k-waves LAB ，于 2005 年成立，主要制作 同人音乐 的日本同人社团，主催是 Kou Ogata，当前状态为 活动
+
 ## 成员名单
 - Kou Ogata (未找到链接)
+
 
 ## 作品列表
 [](./幻想郷ポポルカント.md)[幻想郷ポポルカント](./幻想郷ポポルカント.md)首发日期：2008-12-29 （Comic Market 75 (未找到链接)）KWL-0001全长 （一般向）[](./風萃めのシャルモ.md)[風萃めのシャルモ](./風萃めのシャルモ.md)首发日期：2009-08-15 （Comic Market 76 (未找到链接)）KWL-0002全长 （一般向）[](./東方Projectごちゃまぜアイリッシュ風プレ版楽曲CD.md)[東方Projectごちゃまぜアイリッシュ風プレ版楽曲CD](./東方Projectごちゃまぜアイリッシュ風プレ版楽曲CD.md)首发日期：2010-03-14 （第七回 博麗神社例大祭 (未找到链接)）Demo （一般向）[](./無常幻想詩.md)[無常幻想詩](./無常幻想詩.md)首发日期：2010-08-14 （Comic Market 78 (未找到链接)）KWL-0003全长 （一般向）[](./ゴツまさ倶楽部_試聴版.md)[ゴツまさ倶楽部 試聴版](./ゴツまさ倶楽部_試聴版.md)首发日期：2010-11-28 （境界から視えた外界 (未找到链接)）Demo （一般向）该作品是与 [O-LIFE.JP](./O-LIFE.JP.md) 合作创作的[](./ゴツまさ倶楽部.md)[ゴツまさ倶楽部](./ゴツまさ倶楽部.md)首发日期：2010-12-30 （Comic Market 79 (未找到链接)）全长、​合作 （一般向）该作品是与 [O-LIFE.JP](./O-LIFE.JP.md) 合作创作的[](./幻想郷に恋したミューズ.md)[幻想郷に恋したミューズ](./幻想郷に恋したミューズ.md)首发日期：2011-08-13 （Comic Market 80 (未找到链接)）KWL-0004全长 （一般向）[](./東方Projectごちゃまぜアイリッシュ風プレ版楽曲CD_～その参～.md)[東方Projectごちゃまぜアイリッシュ風プレ版楽曲CD ～その参～](./東方Projectごちゃまぜアイリッシュ風プレ版楽曲CD_～その参～.md)首发日期：2012-05-27 （第九回 博麗神社例大祭 (未找到链接)）Demo （一般向）[](./妖かしのまほろば.md)[妖かしのまほろば](./妖かしのまほろば.md)首发日期：2012-08-11 （Comic Market 82 (未找到链接)）KWL-0006全长 （一般向）[](./東方Projectごちゃまぜアイリッシュ風プレ版楽曲CD_～その四～.md)[東方Projectごちゃまぜアイリッシュ風プレ版楽曲CD ～その四～](./東方Projectごちゃまぜアイリッシュ風プレ版楽曲CD_～その四～.md)首发日期：2013-05-26 （第十回 博麗神社例大祭 (未找到链接)）Demo （一般向）[](./幽かのたまゆら.md)[幽かのたまゆら](./幽かのたまゆら.md)首发日期：2013-08-12 （Comic Market 84 (未找到链接)）KWL-0008全长 （一般向）[](./旅情逃飛行.md)[旅情逃飛行](./旅情逃飛行.md)首发日期：2014-08-16 （Comic Market 86 (未找到链接)）KWL-0010全长 （一般向）
@@ -52,9 +56,11 @@ K-waves LAB（同人社团，同人音乐社团） - k-waves LAB ，于 2005 年
 </table>
 
 
+
 ## 参展信息
 
 <table><tbody><tr><th class="活动页面">活动页面</th><th class="活动名称">活动名称</th><th class="日期">日期</th><th class="举办地点">举办地点</th><th class="摊位编号">摊位编号</th><th class="宣传页面">宣传页面</th><th class="备注">备注</th></tr><tr data-row-number="1" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/Comic_Market#95" title="Comic Market">Comic Market#95</a></span></td><td class="活动名称 smwtype_txt">Comic Market 95</td><td class="日期 smwtype_dat" data-sort-value="2458482.5">2018-12-30</td><td class="举办地点 smwtype_txt">东京都 东京国际展示场 东1-8展厅、西1-4展厅</td><td class="摊位编号 smwtype_txt">東ロ-14a</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="2" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#11" title="博丽神社例大祭">博丽神社例大祭#11</a></span></td><td class="活动名称 smwtype_txt">第十一回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2456788.5">2014-05-11</td><td class="举办地点 smwtype_txt">东京Big Sight 东123456展厅</td><td class="摊位编号 smwtype_txt">お21b</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="3" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#10" title="博丽神社例大祭">博丽神社例大祭#10</a></span></td><td class="活动名称 smwtype_txt">第十回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2456438.5">2013-05-26</td><td class="举办地点 smwtype_txt">东京Big Sight 东123456展厅</td><td class="摊位编号 smwtype_txt">B06a</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="4" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#9" title="博丽神社例大祭">博丽神社例大祭#9</a></span></td><td class="活动名称 smwtype_txt">第九回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2456074.5">2012-05-27</td><td class="举办地点 smwtype_txt">东京Big Sight 东123456展厅</td><td class="摊位编号 smwtype_txt">あ-31b</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="5" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#8" title="博丽神社例大祭">博丽神社例大祭#8</a></span></td><td class="活动名称 smwtype_txt">第八回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2455689.5">2011-05-08</td><td class="举办地点 smwtype_txt">东京Big Sight 东23456展厅</td><td class="摊位编号 smwtype_txt">ひ-48b</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="6" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#7" title="博丽神社例大祭">博丽神社例大祭#7</a></span></td><td class="活动名称 smwtype_txt">第七回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2455269.5">2010-03-14</td><td class="举办地点 smwtype_txt">东京Big Sight 东23456展厅</td><td class="摊位编号 smwtype_txt">へ07a</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="7" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#6" title="博丽神社例大祭">博丽神社例大祭#6</a></span></td><td class="活动名称 smwtype_txt">第六回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2454898.5">2009-03-08</td><td class="举办地点 smwtype_txt">东京Big Sight 东3456展厅</td><td class="摊位编号 smwtype_txt">こ06a</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr></tbody></table>
+
 
 
 ## 其他信息

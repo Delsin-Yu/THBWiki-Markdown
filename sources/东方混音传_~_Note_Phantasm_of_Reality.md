@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 软件信息](#软件信息)
@@ -18,6 +19,7 @@
 
 
 
+
 ## 软件信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-东方混音传_~_Note_Phantasm_of_Reality封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/1/1a/%E4%B8%9C%E6%96%B9%E6%B7%B7%E9%9F%B3%E4%BC%A0_~_Note_Phantasm_of_Reality%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="224" height="224" data-file-width="192" data-file-height="192"></a></td>
@@ -26,6 +28,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://thmix.org">https://thmix.org</a><br><a rel="nofollow" class="external free" href="https://asia.thmix.org">https://asia.thmix.org</a></td></tr><tr><td class="label">备注</td><td colspan="2">又名Touhou Mix</td></tr></tbody></table>
 
 东方混音传 ~ Note Phantasm of Reality（同人游戏，Kailang，2015） - 2024年6月22日 由 Kailang  发布的MUG同人游戏，可在 Android/iOS/Windows 系统上运行，游戏人数为 单人模式，分级为 一般向
+
 ## Staff
   
 游戏制作&#160;: [Kailang](./Kailang.md)
@@ -33,6 +36,7 @@
   
 内容翻译&#160;: 谷歌翻译姬(所有语言) 、 Yang_ (繁中) (未找到链接) 、重度卑微拇指党（简中）
   
+
 
 ## 内容页面
   
@@ -84,6 +88,7 @@ iOS系统可以在APP store上获取旧版，如果想要游玩新版，请加�
 最后，重申一遍， **官方测试QQ群：140497416** （旧β群1020610194），大部分问题都可以在这里获得解答。
   
 
+
 ## 攻略
   
 官方群文件中有txt格式（以及markdown格式）的游戏入门攻略，针对游戏系统与设置上的诸多疑难进行了解答，群相册中有该攻略的简易直观版本。
@@ -104,10 +109,12 @@ Github网页教程 [https://zhaoym233.github.io/thmixCourse/](https://zhaoym233.
 [游戏教程及资源下载(Onedrive)](https://agaaega-my.sharepoint.com/:f:/g/personal/office0010_agaaega_onmicrosoft_com/El6kuhq9f8JFhV7LCCkN3WsBhQ6YHDVWrCVYW51aM_D7Zg?e=D0Ylk0)
   
 
+
 ## 版本信息
   
 App Store版本2.2.86，TestFlight版本3.4.553，官群安卓最新版3.4.4.556（2023.5.28更新）
   
+
 
 ## 外部链接
   

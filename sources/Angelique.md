@@ -18,6 +18,7 @@
 
 
 </center>
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Angelique封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/f/fc/Angelique%E5%B0%81%E9%9D%A2.png/140px-Angelique%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="140" height="97" srcset="https://upload.thwiki.cc/thumb/f/fc/Angelique%E5%B0%81%E9%9D%A2.png/210px-Angelique%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/f/fc/Angelique%E5%B0%81%E9%9D%A2.png/280px-Angelique%E5%B0%81%E9%9D%A2.png 2x" data-file-width="880" data-file-height="612"></a><div class="cover-char">角色：<a href="./古明地恋.md" title="古明地恋">古明地恋</a></div></td>
@@ -30,9 +31,12 @@ Angelique（同人志，A.M.A，2014） - 2014年10月12日 由 A.M.A 于 东方
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://mirimo.booth.pm/items/48413">Booth</a></td></tr></tbody></table>
 
 
+
 ## 预览
+
 ## Staff
 - mirimo (未找到链接)
+
 
 ## 评论
 

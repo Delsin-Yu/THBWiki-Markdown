@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Abyss_Nova.封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/d/d8/Abyss_Nova.%E5%B0%81%E9%9D%A2.png/138px-Abyss_Nova.%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="138" height="196" srcset="https://upload.thwiki.cc/thumb/d/d8/Abyss_Nova.%E5%B0%81%E9%9D%A2.png/207px-Abyss_Nova.%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/d/d8/Abyss_Nova.%E5%B0%81%E9%9D%A2.png/277px-Abyss_Nova.%E5%B0%81%E9%9D%A2.png 2x" data-file-width="706" data-file-height="1000"></a><div class="cover-char">角色：<a href="./灵乌路空.md" title="灵乌路空">灵乌路空</a></div></td>
@@ -14,9 +15,12 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/_GmoT_/status/592299805730164736">https://twitter.com/_GmoT_/status/592299805730164736</a><br><a rel="nofollow" class="external free" href="https://twitter.com/_GmoT_/status/596872420117516289">https://twitter.com/_GmoT_/status/596872420117516289</a><br><a rel="nofollow" class="external free" href="http://www.pixiv.net/member_illust.php?illust_id=50041348&amp;mode=medium">http://www.pixiv.net/member_illust.php?illust_id=50041348&amp;mode=medium</a><br><span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><small>（无缓存页面）</small></td></tr></tbody></table>
 
 Abyss Nova.（同人志，BlackEditionFX，2015） - 2015年5月10日 由 BlackEditionFX 于 博丽神社例大祭12 发布的画集同人志，A4尺寸一共20页，分级为 一般向
+
 ## 预览
+
 ## Staff
 - GmoT (未找到链接)
+
 
 ## 评论
 

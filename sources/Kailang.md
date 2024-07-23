@@ -6,15 +6,18 @@
 
 本页是关于东方Project  
  **二次同人创作者** 的词条
+
 ## 基本信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="label"><b>名称</b></td><td> Kailang </td></tr><tr><td class="label"><b>别名</b></td><td>Kai</td></tr><tr><td class="label"><b>所属社团</b></td><td><b>当前</b><div style="margin-left:2em;">无所属社团</div></td></tr><tr><td class="label"><b>职位</b></td><td></td></tr><tr><td class="label"><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://thmix.org">http://thmix.org</a></td></tr><tr><td class="label"><b>个人页面</b></td><td><table border="0" cellspacing="0" cellpadding="0"></table></td></tr></tbody></table>
 
 Kailang（人物） - 现实人物
+
 ## 介绍
   
 东方同人二创音游Touhou Mix（即[东方混音传 ~ Note Phantasm of Reality](./东方混音传_~_Note_Phantasm_of_Reality.md)）作者。
   
+
 
 ## 参与作品
 [](./东方混音传_~_Note_Phantasm_of_Reality.md)[东方混音传 ~ Note Phantasm of Reality](./东方混音传_~_Note_Phantasm_of_Reality.md)首发日期：未知 MUG （一般向）又名Touhou Mix

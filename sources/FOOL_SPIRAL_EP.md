@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-FOOL_SPIRAL_EP封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/2/24/FOOL_SPIRAL_EP%E5%B0%81%E9%9D%A2.jpg/308px-FOOL_SPIRAL_EP%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="308" height="308" srcset="https://upload.thwiki.cc/thumb/2/24/FOOL_SPIRAL_EP%E5%B0%81%E9%9D%A2.jpg/462px-FOOL_SPIRAL_EP%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/2/24/FOOL_SPIRAL_EP%E5%B0%81%E9%9D%A2.jpg/616px-FOOL_SPIRAL_EP%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1200" data-file-height="1200"></a><div class="cover-char">角色：<a href="./古明地恋.md" title="古明地恋">古明地恋</a>，<a href="./古明地觉.md" title="古明地觉">古明地觉</a></div></td>
@@ -16,6 +17,7 @@
 FOOL SPIRAL EP（同人专辑，Find Your Way，2022） - 2022年4月6日 由 Find Your Way  发布的EP同人专辑，曲目主要风格是 游戏音乐，内容以 古明地姐妹为题材，分级为 一般向
 
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://youwillfindyourway.bandcamp.com/album/fool-spiral-ep">bandcamp</a></td></tr></tbody></table>
+
 
 
 ## Staff
@@ -32,16 +34,19 @@ Support &amp; Voice Acting
 Special Thanks
 : ぬめのこ （[Twitter: @numenoko](https://twitter.com/numenoko)）
 
+
 ## 试听
   
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1245028348&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=false"></iframe>
 
   
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Brainstorm" colspan="2" class="title">Brainstorm<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Veto&amp;ogmusic=少女さとり　～ 3rd eye&amp;fromwiki=FOOL_SPIRAL_EP"><span title="搜索相似同人曲"></span></a></span></td><td class="time">02:47</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Veto.md" title="Veto">Veto</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Veto&amp;fromwiki=FOOL_SPIRAL_EP"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=少女さとり　～ 3rd eye&amp;fromwiki=FOOL_SPIRAL_EP"><span></span></a></span><div class="ogmusic"><a href="/%E5%B0%91%E5%A5%B3%E3%81%95%E3%81%A8%E3%82%8A_%EF%BD%9E_3rd_eye" class="mw-redirect" title="少女さとり ～ 3rd eye">少女さとり　～ 3rd eye</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E5%9C%B0%E7%81%B5%E6%AE%BF_%EF%BD%9E_Subterranean_Animism." class="mw-redirect" title="东方地灵殿 ～ Subterranean Animism.">东方地灵殿　～ Subterranean Animism.</a></div></td></tr>
-<tr><td id="2" class="infoYD"><b>02</b></td><td id="Green_Needle" colspan="2" class="title">Green Needle<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Veto&amp;ogmusic=ハルトマンの妖怪少女&amp;fromwiki=FOOL_SPIRAL_EP"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:50</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Veto.md" title="Veto">Veto</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Veto&amp;fromwiki=FOOL_SPIRAL_EP"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=ハルトマンの妖怪少女&amp;fromwiki=FOOL_SPIRAL_EP"><span></span></a></span><div class="ogmusic"><a href="/%E3%83%8F%E3%83%AB%E3%83%88%E3%83%9E%E3%83%B3%E3%81%AE%E5%A6%96%E6%80%AA%E5%B0%91%E5%A5%B3" class="mw-redirect" title="ハルトマンの妖怪少女">ハルトマンの妖怪少女</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E5%9C%B0%E7%81%B5%E6%AE%BF_%EF%BD%9E_Subterranean_Animism." class="mw-redirect" title="东方地灵殿 ～ Subterranean Animism.">东方地灵殿　～ Subterranean Animism.</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Brainstorm" colspan="2" class="title">Brainstorm<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Veto&amp;ogmusic=少女さとり　～ 3rd eye&amp;fromwiki=FOOL_SPIRAL_EP"><span title="搜索相似同人曲"></span></a></span></td><td class="time">02:47</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Veto.md" title="Veto">Veto</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Veto&amp;fromwiki=FOOL_SPIRAL_EP"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=少女さとり　～ 3rd eye&amp;fromwiki=FOOL_SPIRAL_EP"><span></span></a></span><div class="ogmusic"><a href="./少女さとり_～_3rd_eye.md" class="mw-redirect" title="少女さとり ～ 3rd eye">少女さとり　～ 3rd eye</a></div><div class="source"><a href="./东方地灵殿_～_Subterranean_Animism..md" class="mw-redirect" title="东方地灵殿 ～ Subterranean Animism.">东方地灵殿　～ Subterranean Animism.</a></div></td></tr>
+<tr><td id="2" class="infoYD"><b>02</b></td><td id="Green_Needle" colspan="2" class="title">Green Needle<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Veto&amp;ogmusic=ハルトマンの妖怪少女&amp;fromwiki=FOOL_SPIRAL_EP"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:50</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Veto.md" title="Veto">Veto</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Veto&amp;fromwiki=FOOL_SPIRAL_EP"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=ハルトマンの妖怪少女&amp;fromwiki=FOOL_SPIRAL_EP"><span></span></a></span><div class="ogmusic"><a href="./ハルトマンの妖怪少女.md" class="mw-redirect" title="ハルトマンの妖怪少女">ハルトマンの妖怪少女</a></div><div class="source"><a href="./东方地灵殿_～_Subterranean_Animism..md" class="mw-redirect" title="东方地灵殿 ～ Subterranean Animism.">东方地灵殿　～ Subterranean Animism.</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

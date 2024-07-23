@@ -4,6 +4,7 @@
 
 使用了翻译表的页面 | 鹿子
 
+
 ## 故事背景
 
 <table><tbody><tr class="tt-content" id="故事背景-1" data-pos="&#91;&quot;\u6545\u4e8b\u80cc\u666f&quot;,1&#93;"><td class="tt-ja" lang="ja"><div class="poem">それは秋の深まりつつある幻想郷でのこと。 <br>空を、林檎が飛ぶようになった。 <br>しかしそれはただの林檎ではなく金銀宝石で出来ていて、 <br>その一方でまるで本当に育って出来たかの様に枝葉の付いているものまであった。 <br>幻想郷の各地でその林檎は、ある少女達の興味を惹き、彼女達を原因へと駆り立てる。 <br>――果たしてその先にある林檎の園は、至上の楽園か、地獄の庭園か。</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr></tbody></table>

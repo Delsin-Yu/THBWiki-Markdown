@@ -4,6 +4,7 @@
 
 游戏攻略
 
+
 ## 目录
 
 - [1 综述及系统简介](#综述及系统简介)
@@ -11,6 +12,7 @@
 
   - [2.1 主机](#主机)
   - [2.2 支援](#支援)
+
 
 
 
@@ -37,7 +39,9 @@
 夏C比较偏保命和连续C速攻，冬C偏向射击重视型速攻，秋C是纯粹的循环保命(子机用处不大)，春是子机火力和循环都存在但循环效果稍差的配置。
   
 
+
 ### 机体火力数据
+
 #### 主机
   
 注:火力写作a*b*c时意为单发威力a,发射way数b,每秒发射c次,单秒火力即为三者相乘  
@@ -187,6 +191,7 @@ bomb说明：表中bomb存在时间等于无敌时间-38f,数据来自日文wiki
 <tr>
 <td>由于文机低速子机具有每判定1帧造成2伤害的特性与逐渐加速的飞行速度，因此其实际火力随距离波动较大。<br>下图距离boss体术极限每16px进行一次测试，得到0~320px上的数据。<br>注：32px=判定点在血条圈上；280px=boss通常位置与版底的距离。<br><a href="./文件-hsifs_aya_fpower_by_dist.png.md" class="image"><img alt="hsifs aya fpower by dist.png" src="https://upload.thwiki.cc/thumb/f/f3/hsifs_aya_fpower_by_dist.png/600px-hsifs_aya_fpower_by_dist.png" decoding="async" loading="lazy" width="600" height="461" srcset="https://upload.thwiki.cc/f/f3/hsifs_aya_fpower_by_dist.png 1.5x" data-file-width="741" data-file-height="569"></a>
 </td></tr></tbody></table>
+
 
 
 #### 支援

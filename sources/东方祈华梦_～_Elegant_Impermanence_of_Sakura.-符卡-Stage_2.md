@@ -116,6 +116,7 @@
 <tr><td>符卡原名</td><td>「通灵侦探的脚下埋着尸体」</td></tr><tr><td>出现位置</td><td>Stage 2 - LSC （Lunatic）（<a href="./神无月绘光.md" title="神无月绘光">神无月绘光</a>）</td></tr></tbody></table>
 
 
+
 ## 词条导航
   
   

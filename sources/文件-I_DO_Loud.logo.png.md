@@ -4,6 +4,7 @@
 
 I_DO_Loud. | 社团LOGO
 
+
 ## 摘要
   
 源地址：[direct image link](https://vocadb.net/Artist/Picture/2599?v=5), [source page (VocaDB artist ID: 2599)](https://vocadb.net/Ar/2599)

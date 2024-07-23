@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Stomach_feels_heavy封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/a/ac/Stomach_feels_heavy%E5%B0%81%E9%9D%A2.jpg/139px-Stomach_feels_heavy%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="139" height="196" srcset="https://upload.thwiki.cc/thumb/a/ac/Stomach_feels_heavy%E5%B0%81%E9%9D%A2.jpg/208px-Stomach_feels_heavy%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/a/ac/Stomach_feels_heavy%E5%B0%81%E9%9D%A2.jpg/277px-Stomach_feels_heavy%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="716" data-file-height="1012"></a><div class="cover-char">角色：<a href="./物部布都.md" title="物部布都">物部布都</a>，<a href="./霍青娥.md" title="霍青娥">霍青娥</a>，<a href="./丰聪耳神子.md" title="丰聪耳神子">丰聪耳神子</a>，<a href="./秦心.md" title="秦心">秦心</a>，<a href="./苏我屠自古.md" title="苏我屠自古">苏我屠自古</a></div></td>
@@ -18,8 +19,10 @@ Stomach feels heavy（同人志，あひる禁猟区，2019） - 2019年5月5日
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=502046">蜜瓜</a></td></tr></tbody></table>
 
 
+
 ## Staff
 - [サクラメ](./サクラメ.md)
+
 
 ## 评论
 

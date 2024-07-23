@@ -7,6 +7,7 @@ ZUN
 - 本页面收录所有ZUN参与过的非[东方Project](./东方Project.md)官方系列或[西方Project](./西方Project.md)系列的作品。
 - 换句话说就是所有ZUN参与过的东方的[二次创作](./二次创作.md)和非东方/西方的作品。
 
+
 ## 目录
 
 - [1 东方Project的二次创作](#东方Project的二次创作)
@@ -40,23 +41,26 @@ ZUN
 
 
 
+
 ## 东方Project的二次创作
+
 ### 游戏
 - ZUN参与过的东方二次同人游戏
 
 
-<table><tbody><tr><th colspan="3" style="text-align:left;"><a href="/%E7%A5%9E%E9%AD%94%E8%AE%A8%E7%BB%AE%E4%BC%A0" class="mw-redirect" title="神魔讨绮传">神魔讨绮传 ～ Magus in Mystic Geometries.</a></th></tr><tr><td style="min-width:200px;"><a href="./D.N.A.Softwares.md" title="D.N.A.Softwares">D.N.A.Softwares</a></td><td style="min-width:100px;">PC游戏（STG）</td><td style="min-width:150px;">2008年5月25日（第五回 博丽神社例大祭）</td></tr><tr><td colspan="3">DNA制作的二次同人游戏，ZUN为其提供了一首曲子。</td></tr></tbody></table>
+<table><tbody><tr><th colspan="3" style="text-align:left;"><a href="./神魔讨绮传.md" class="mw-redirect" title="神魔讨绮传">神魔讨绮传 ～ Magus in Mystic Geometries.</a></th></tr><tr><td style="min-width:200px;"><a href="./D.N.A.Softwares.md" title="D.N.A.Softwares">D.N.A.Softwares</a></td><td style="min-width:100px;">PC游戏（STG）</td><td style="min-width:150px;">2008年5月25日（第五回 博丽神社例大祭）</td></tr><tr><td colspan="3">DNA制作的二次同人游戏，ZUN为其提供了一首曲子。</td></tr></tbody></table>
 
 
 
-<table><tbody><tr><th colspan="3" style="text-align:left;"><a href="/%E4%B8%9C%E6%96%B9%E5%B9%BB%E6%83%B3%E9%BA%BB%E5%B0%86" class="mw-redirect" title="东方幻想麻将">东方幻想麻将 - Touhou Unreal Mahjong</a></th></tr><tr><td style="min-width:200px;"><a href="./D.N.A.Softwares.md" title="D.N.A.Softwares">D.N.A.Softwares</a></td><td style="min-width:100px;">PC游戏（日本麻将）</td><td style="min-width:150px;">2009年3月8日（第六回 博丽神社例大祭）</td></tr><tr><td colspan="3">DNA制作的二次同人游戏，ZUN为其提供了两首曲子。</td></tr></tbody></table>
+<table><tbody><tr><th colspan="3" style="text-align:left;"><a href="./东方幻想麻将.md" class="mw-redirect" title="东方幻想麻将">东方幻想麻将 - Touhou Unreal Mahjong</a></th></tr><tr><td style="min-width:200px;"><a href="./D.N.A.Softwares.md" title="D.N.A.Softwares">D.N.A.Softwares</a></td><td style="min-width:100px;">PC游戏（日本麻将）</td><td style="min-width:150px;">2009年3月8日（第六回 博丽神社例大祭）</td></tr><tr><td colspan="3">DNA制作的二次同人游戏，ZUN为其提供了两首曲子。</td></tr></tbody></table>
+
 
 
 ### 音乐CD
 - ZUN参与过的东方二次同人CD
 
 
-<table><tbody><tr><th colspan="3" style="text-align:left;"><a href="/Cradle_-_%E4%B8%9C%E6%96%B9%E5%B9%BB%E4%B9%90%E7%A5%80%E5%85%B8" class="mw-redirect" title="Cradle - 东方幻乐祀典">Cradle - 東方幻樂祀典</a></th></tr><tr><td style="min-width:200px;"><a href="/Sound_Sepher" class="mw-redirect" title="Sound Sepher">Sound Sepher</a></td><td style="min-width:100px;">音乐CD</td><td style="min-width:150px;">2004年8月15日（Comic Market 66）</td></tr><tr><td colspan="3">Sound Sepher制作的二次同人音乐专辑，ZUN为其提供了两首曲子。</td></tr></tbody></table>
+<table><tbody><tr><th colspan="3" style="text-align:left;"><a href="./Cradle_-_东方幻乐祀典.md" class="mw-redirect" title="Cradle - 东方幻乐祀典">Cradle - 東方幻樂祀典</a></th></tr><tr><td style="min-width:200px;"><a href="./Sound_Sepher.md" class="mw-redirect" title="Sound Sepher">Sound Sepher</a></td><td style="min-width:100px;">音乐CD</td><td style="min-width:150px;">2004年8月15日（Comic Market 66）</td></tr><tr><td colspan="3">Sound Sepher制作的二次同人音乐专辑，ZUN为其提供了两首曲子。</td></tr></tbody></table>
 
 
 
@@ -64,7 +68,8 @@ ZUN
 
 
 
-<table><tbody><tr><th colspan="3" style="text-align:left;"><a href="/%E4%B8%9C%E6%96%B9%E9%9F%B3%E7%84%B0%E7%81%AB" class="mw-redirect" title="东方音焰火">东方音焰火</a></th></tr><tr><td style="min-width:200px;"><a href="./东方Arrange活跃化大作战.md" title="东方Arrange活跃化大作战">东方Arrange活跃化大作战</a>，<a href="./COOL&CREATE.md" title="COOL&amp;CREATE">COOL&amp;CREATE</a></td><td style="min-width:100px;">音乐CD</td><td style="min-width:150px;">2021年8月14日（东方Lunatic Release）</td></tr><tr><td colspan="3">COOL&amp;CREATE发起的东方Arrange活跃化大作战活动所制作的二次同人音乐专辑，ZUN为其提供了一首曲子。</td></tr></tbody></table>
+<table><tbody><tr><th colspan="3" style="text-align:left;"><a href="./东方音焰火.md" class="mw-redirect" title="东方音焰火">东方音焰火</a></th></tr><tr><td style="min-width:200px;"><a href="./东方Arrange活跃化大作战.md" title="东方Arrange活跃化大作战">东方Arrange活跃化大作战</a>，<a href="./COOL&CREATE.md" title="COOL&amp;CREATE">COOL&amp;CREATE</a></td><td style="min-width:100px;">音乐CD</td><td style="min-width:150px;">2021年8月14日（东方Lunatic Release）</td></tr><tr><td colspan="3">COOL&amp;CREATE发起的东方Arrange活跃化大作战活动所制作的二次同人音乐专辑，ZUN为其提供了一首曲子。</td></tr></tbody></table>
+
 
 
 ### 同人志
@@ -96,11 +101,12 @@ ZUN
 
 
 
-<table><tbody><tr><th colspan="3" style="text-align:left;"><a href="./東方幻想画集.md" title="東方幻想画集" unred="">东方幻想画集</a></th></tr><tr><td style="min-width:200px;"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E7%A4%BE%E5%8A%A1%E6%89%80" class="mw-redirect" title="博丽神社社务所">博丽神社社务所</a></td><td style="min-width:100px;">合同志</td><td style="min-width:150px;">2020年8月23日</td></tr><tr><td colspan="3">博丽神社社务所制作的合同志，ZUN为其提供了一张插画。</td></tr></tbody></table>
+<table><tbody><tr><th colspan="3" style="text-align:left;"><a href="./東方幻想画集.md" title="東方幻想画集" unred="">东方幻想画集</a></th></tr><tr><td style="min-width:200px;"><a href="./博丽神社社务所.md" class="mw-redirect" title="博丽神社社务所">博丽神社社务所</a></td><td style="min-width:100px;">合同志</td><td style="min-width:150px;">2020年8月23日</td></tr><tr><td colspan="3">博丽神社社务所制作的合同志，ZUN为其提供了一张插画。</td></tr></tbody></table>
 
 
 
-<table><tbody><tr><th colspan="3" style="text-align:left;"><a href="./博麗神社例大祭20回記念誌.md" title="博麗神社例大祭20回記念誌">博麗神社例大祭20回記念誌</a></th></tr><tr><td style="min-width:200px;"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E7%A4%BE%E5%8A%A1%E6%89%80" class="mw-redirect" title="博丽神社社务所">博丽神社社务所</a></td><td style="min-width:100px;">合同志</td><td style="min-width:150px;">2023年5月7日（第二十回 博丽神社例大祭）</td></tr><tr><td colspan="3">博丽神社社务所制作的合同志，ZUN为其提供了一张亲笔写的祝贺。</td></tr></tbody></table>
+<table><tbody><tr><th colspan="3" style="text-align:left;"><a href="./博麗神社例大祭20回記念誌.md" title="博麗神社例大祭20回記念誌">博麗神社例大祭20回記念誌</a></th></tr><tr><td style="min-width:200px;"><a href="./博丽神社社务所.md" class="mw-redirect" title="博丽神社社务所">博丽神社社务所</a></td><td style="min-width:100px;">合同志</td><td style="min-width:150px;">2023年5月7日（第二十回 博丽神社例大祭）</td></tr><tr><td colspan="3">博丽神社社务所制作的合同志，ZUN为其提供了一张亲笔写的祝贺。</td></tr></tbody></table>
+
 
 
 ### 书籍
@@ -108,22 +114,25 @@ ZUN
 <table><tbody><tr><th colspan="3" style="text-align:left;"><a href="./幻想Narrato_Graph.md" title="幻想Narrato Graph">幻想Narrato Graph</a></th></tr><tr><td style="min-width:200px;">中西咏介／冒险企划局</td><td style="min-width:100px;">东方二次创作TRPG</td><td style="min-width:150px;">2023年9月20日</td></tr><tr><td colspan="3">包含ZUN扮演博丽灵梦游玩的Replay，ZUN还为其撰写30位角色的新台词、21个场景的解说文本，以及一篇后记。</td></tr></tbody></table>
 
 
+
 ### 其他
 - ZUN参与过的其他东方二次同人
 
 
-<table><tbody><tr><th colspan="3" style="text-align:left;"><a href="/%E6%9D%B1%E6%96%B9%E3%83%A9%E3%82%B9%E3%83%88%E3%83%AF%E3%83%BC%E3%83%89%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3" class="mw-redirect" title="東方ラストワードコレクション">东方Last Word Collection</a></th></tr><tr><td style="min-width:200px;"><a href="./MiuMyu.md" title="MiuMyu">MiuMyu</a></td><td style="min-width:100px;">卡牌</td><td style="min-width:150px;">2004年12月30日（Comic Market 67）</td></tr><tr><td colspan="3">MiuMyu(東方らぢぉ)出品制作的符卡收藏卡牌，ZUN为其提供了一张牌面的绘制（<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>的<a href="./幻想一重.md" title="幻想一重">幻想一重</a>符卡）。</td></tr></tbody></table>
+<table><tbody><tr><th colspan="3" style="text-align:left;"><a href="./東方ラストワードコレクション.md" class="mw-redirect" title="東方ラストワードコレクション">东方Last Word Collection</a></th></tr><tr><td style="min-width:200px;"><a href="./MiuMyu.md" title="MiuMyu">MiuMyu</a></td><td style="min-width:100px;">卡牌</td><td style="min-width:150px;">2004年12月30日（Comic Market 67）</td></tr><tr><td colspan="3">MiuMyu(東方らぢぉ)出品制作的符卡收藏卡牌，ZUN为其提供了一张牌面的绘制（<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>的<a href="./幻想一重.md" title="幻想一重">幻想一重</a>符卡）。</td></tr></tbody></table>
 
 
 
-<table><tbody><tr><th colspan="3" style="text-align:left;"><a href="./仙酌绝唱的幻想曲.md" title="仙酌绝唱的幻想曲">仙酌绝唱的幻想曲</a></th></tr><tr><td style="min-width:200px;"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E7%A4%BE%E5%8A%A1%E6%89%80" class="mw-redirect" title="博丽神社社务所">博丽神社社务所</a></td><td style="min-width:100px;">同人曲Remix</td><td style="min-width:150px;">2016年4月29日（niconico超会议2016）</td></tr><tr><td colspan="3">博丽神社社务所出品的同人合作曲，ZUN为其命名。</td></tr></tbody></table>
+<table><tbody><tr><th colspan="3" style="text-align:left;"><a href="./仙酌绝唱的幻想曲.md" title="仙酌绝唱的幻想曲">仙酌绝唱的幻想曲</a></th></tr><tr><td style="min-width:200px;"><a href="./博丽神社社务所.md" class="mw-redirect" title="博丽神社社务所">博丽神社社务所</a></td><td style="min-width:100px;">同人曲Remix</td><td style="min-width:150px;">2016年4月29日（niconico超会议2016）</td></tr><tr><td colspan="3">博丽神社社务所出品的同人合作曲，ZUN为其命名。</td></tr></tbody></table>
 
 
 
 <table><tbody><tr><th colspan="3" style="text-align:left;"><a href="/index.php?title=%E5%A4%A7%E7%94%B0%E5%8C%BA%E9%94%85%E8%B4%B4&amp;action=edit&amp;redlink=1" class="new" title="大田区锅贴（页面不存在）">大田区锅贴</a></th></tr><tr><td style="min-width:200px;">蒲田国际庆典</td><td style="min-width:100px;">同人曲Remix</td><td style="min-width:150px;">2018年10月6日</td></tr><tr><td colspan="3">蒲田国际庆典2018的纪念曲，ZUN为其命名并写了副歌部分的歌词。</td></tr></tbody></table>
 
 
+
 ## 包含东方Project的作品
+
 ### 游戏
 
 <table><tbody><tr><th colspan="3" style="text-align:left;"><a href="./LORD_of_VERMILION.md" title="LORD of VERMILION">LORD of VERMILION</a></th></tr><tr><td style="min-width:200px;"><a href="./史克威尔艾尼克斯.md" title="史克威尔艾尼克斯">史克威尔艾尼克斯</a></td><td style="min-width:100px;">街机网络对战卡牌游戏</td><td style="min-width:150px;">2008年6月17日</td></tr><tr><td colspan="3">ZUN为本作品提供了两张卡牌（博丽灵梦和西行寺幽幽子）的授权并撰写了故事信息。</td></tr></tbody></table>
@@ -133,21 +142,25 @@ ZUN
 <table><tbody><tr><th colspan="3" style="text-align:left;"><a href="./勇者山田君.md" title="勇者山田君">勇者山田君</a></th></tr><tr><td style="min-width:200px;"><a href="./Onion_Games.md" title="Onion Games">Onion Games</a></td><td style="min-width:100px;">限时活动</td><td style="min-width:150px;">2016年11月11日</td></tr><tr><td colspan="3">ZUN为东方合作活动「弹幕辉珍城」监修并撰写部分文本。</td></tr></tbody></table>
 
 
+
 ### 书籍
 
 <table><tbody><tr><th colspan="3" style="text-align:left;"><a href="./唖采弦二／輪くすさが_Art_Works.md" title="唖采弦二／輪くすさが Art Works">唖采弦二／輪くすさが Art Works</a></th></tr><tr><td style="min-width:200px;"><a href="./哑采弦二.md" title="哑采弦二">哑采弦二</a></td><td style="min-width:100px;">个人画集</td><td style="min-width:150px;">2016年10月31日</td></tr><tr><td colspan="3">哑采弦二制作的个人画集，ZUN为其写了书腰文本。</td></tr></tbody></table>
 
 
+
 ## 非东方/西方的作品
+
 ### 其他同人作品
 - ZUN参与过的东方无关同人作品
 
 
-<table><tbody><tr><th colspan="3" style="text-align:left;"><a href="./Torte_Le_Magic.md" title="Torte Le Magic">Torte Le Magic</a></th></tr><tr><td style="min-width:200px;"><a href="/%E3%81%B4%E3%81%88%E3%81%A8%E3%82%8D" class="mw-redirect" title="ぴえとろ">ぴえとろ</a></td><td style="min-width:100px;">PC游戏（STG）</td><td style="min-width:150px;">2001年5月4日</td></tr><tr><td colspan="3">习作类STG游戏，ZUN为该游戏制作了三首曲子。</td></tr></tbody></table>
+<table><tbody><tr><th colspan="3" style="text-align:left;"><a href="./Torte_Le_Magic.md" title="Torte Le Magic">Torte Le Magic</a></th></tr><tr><td style="min-width:200px;"><a href="./ぴえとろ.md#ぴえとろ" class="mw-redirect" title="ぴえとろ">ぴえとろ</a></td><td style="min-width:100px;">PC游戏（STG）</td><td style="min-width:150px;">2001年5月4日</td></tr><tr><td colspan="3">习作类STG游戏，ZUN为该游戏制作了三首曲子。</td></tr></tbody></table>
 
 
 
-<table><tbody><tr><th colspan="3" style="text-align:left;"><a href="/%E9%BB%84%E6%98%8F%E9%85%92%E5%9C%BA%EF%BD%9EUwabami_Breakers%EF%BD%9E" class="mw-redirect" title="黄昏酒场～Uwabami Breakers～">黄昏酒场～Uwabami Breakers～</a></th></tr><tr><td style="min-width:200px;"><a href="/%E5%91%91%E3%82%93%E3%81%B9%E3%81%87%E4%BC%9A" class="mw-redirect" title="呑んべぇ会">呑んべぇ会</a></td><td style="min-width:100px;">PC游戏（STG）</td><td style="min-width:150px;">2007年12月31日（Comic Market 73）</td></tr><tr><td colspan="3">习作类STG游戏，ZUN参与了该游戏的制作并提供了一首曲子。</td></tr></tbody></table>
+<table><tbody><tr><th colspan="3" style="text-align:left;"><a href="./黄昏酒场～Uwabami_Breakers～.md" class="mw-redirect" title="黄昏酒场～Uwabami Breakers～">黄昏酒场～Uwabami Breakers～</a></th></tr><tr><td style="min-width:200px;"><a href="./呑んべぇ会.md" class="mw-redirect" title="呑んべぇ会">呑んべぇ会</a></td><td style="min-width:100px;">PC游戏（STG）</td><td style="min-width:150px;">2007年12月31日（Comic Market 73）</td></tr><tr><td colspan="3">习作类STG游戏，ZUN参与了该游戏的制作并提供了一首曲子。</td></tr></tbody></table>
+
 
 
 ### Taito
@@ -177,14 +190,17 @@ ZUN
 <table><tbody><tr><th colspan="3" style="text-align:left;"><a href="/index.php?title=%E6%B6%82%E9%B8%A6%E7%8E%8B%E5%9B%BD&amp;action=edit&amp;redlink=1" class="new" title="涂鸦王国（页面不存在）">Rakugaki Kingdom</a></th></tr><tr><td style="min-width:200px;"><a href="./太东.md" title="太东" unred="">Taito</a></td><td style="min-width:100px;">手机游戏</td><td style="min-width:150px;">2021年1月28日</td></tr></tbody></table>
 
 
+
 ### RIKI
 
-<table><tbody><tr><th colspan="3" style="text-align:left;"><a href="./8BIT_MUSIC_POWER_FINAL.md" title="8BIT MUSIC POWER FINAL">8BIT MUSIC POWER FINAL</a></th></tr><tr><td style="min-width:200px;"><a href="/RIKI" class="mw-redirect" title="RIKI">RIKI</a></td><td style="min-width:100px;">FC音乐集</td><td style="min-width:150px;">2017年4月6日</td></tr><tr><td colspan="3">FC音乐集，ZUN提供了一首曲子（<a href="./Mysterious_Shrine.md" title="Mysterious Shrine">Mysterious Shrine</a>）。</td></tr></tbody></table>
+<table><tbody><tr><th colspan="3" style="text-align:left;"><a href="./8BIT_MUSIC_POWER_FINAL.md" title="8BIT MUSIC POWER FINAL">8BIT MUSIC POWER FINAL</a></th></tr><tr><td style="min-width:200px;"><a href="./RIKI.md#RIKI" class="mw-redirect" title="RIKI">RIKI</a></td><td style="min-width:100px;">FC音乐集</td><td style="min-width:150px;">2017年4月6日</td></tr><tr><td colspan="3">FC音乐集，ZUN提供了一首曲子（<a href="./Mysterious_Shrine.md" title="Mysterious Shrine">Mysterious Shrine</a>）。</td></tr></tbody></table>
+
 
 
 ### INDIE Live Expo
 
 <table><tbody><tr><th colspan="3" style="text-align:left;"><a href="/index.php?title=INDIE_Live_Expo&amp;action=edit&amp;redlink=1" class="new" title="INDIE Live Expo（页面不存在）">INDIE Live Expo</a></th></tr><tr><td style="min-width:200px;"><a href="/index.php?title=INDIE_Live_Expo&amp;action=edit&amp;redlink=1" class="new" title="INDIE Live Expo（页面不存在）">INDIE Live Expo</a></td><td style="min-width:100px;">独立游戏展</td><td style="min-width:150px;">2020年11月7日</td></tr><tr><td colspan="3">ZUN提供了一首曲子（<a href="./独一无二的投影.md" title="独一无二的投影">独一无二的投影</a>）。</td></tr></tbody></table>
+
 
 
 ### Wolfship Design

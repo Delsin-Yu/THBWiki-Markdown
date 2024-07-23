@@ -6,12 +6,14 @@
 
 本页是关于东方Project  
  **相关公司会社** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 公司历史](#公司历史)
 - [3 与东方Project的关联](#与东方Project的关联)
 - [4 参见](#参见)
+
 
 
 
@@ -33,6 +35,7 @@ DMM.com， *DMM.com Ltd.* ）
 <td style="width:140px"><b>正式名称</b></td><td style="min-width:300px">株式会社DMM.com</td></tr><tr><td><b>英文名称</b></td><td>DMM.com Ltd.</td></tr><tr><td><b>公司现状</b></td><td>持续营业中</td></tr><tr><td><b>公司种类</b></td><td>股份有限公司（株式会社）</td></tr><tr><td><b>成立日期</b></td><td>1999年11月17日</td></tr><tr><td><b>公司代表</b></td><td>创办人：龟山敬司<br>社长：片桐孝宪</td></tr><tr><td><b>本社地址</b></td><td>东京都港区六本木三丁目2番1号住友不动产六本木グランドタワーDMMグループ総合受付24F</td></tr><tr><td><b>本社邮编</b></td><td>106-6224</td></tr><tr><td><b>员工数量</b></td><td>约3,000名（2017年4月）</td></tr><tr><td><b>官网地址</b></td><td><a rel="nofollow" class="external free" href="https://dmm-corp.com/">https://dmm-corp.com/</a> <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到日文网页">（日文）</span></td></tr></tbody></table>
 
 DMM.com（公司会社） - 株式会社DMM.com，股份有限公司（株式会社）
+
 ## 公司历史
 - 1986年，龟山敬司于日本石川县影像租赁店并创立KC股份有限公司(现・DMM.com Base）作为母公司。
 - 1990年，成立北都集团(现．CA集团)开始成人影像版权业务。
@@ -142,10 +145,12 @@ DMM.com（公司会社） - 株式会社DMM.com，股份有限公司（株式会
   - 11月29日，DMM GAMES 中文版宣布正式上线，同时结束与台湾方面合作营运的DMM自有首个中文平台Samurai-Games宣布功成身退、结束营运并于2018年6月21日关站，当中仅有《神姬PROJECT》能以账号继承伺服资料。
 
 
+
 ## 与东方Project的关联
 - 由角川游戏开发DMM.com运营的网页游戏 **舰队Collection -舰Colle-** ，因其流行而冲击了东方Project的同人市场，甚至引发过恶性事件，参见[东方警察](./东方警察.md)。
 - 由[Onion Games](./Onion_Games.md)开发DMM.com发行的手机游戏[勇者山田君](./勇者山田君.md)有东方Project联动活动副本弹幕辉珍城 (未找到链接)，[ZUN](./ZUN.md)也参与到了其中的制作。
 - DMM同人.R18贩卖过东方Project同人创作。
+
 
 ## 参见
 - [中文Wikipedia DMM.com 词条](https://zh.wikipedia.org/wiki/DMM.com)

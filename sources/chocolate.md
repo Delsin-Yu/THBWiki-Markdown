@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-chocolate封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/c/c5/chocolate%E5%B0%81%E9%9D%A2.jpg/119px-chocolate%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="119" height="168" srcset="https://upload.thwiki.cc/thumb/c/c5/chocolate%E5%B0%81%E9%9D%A2.jpg/178px-chocolate%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/c/c5/chocolate%E5%B0%81%E9%9D%A2.jpg/237px-chocolate%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="468" data-file-height="662"></a><div class="cover-char">角色：<a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://mimipuru.blog27.fc2.com/blog-entry-91.html">http://mimipuru.blog27.fc2.com/blog-entry-91.html</a></td></tr></tbody></table>
 
 chocolate（同人志，みみぷる，2013） - 2013年2月3日 由 みみぷる 于 大⑨州东方祭7 发布的漫画同人志，A5尺寸，分级为 一般向
+
 ## Staff
 - 魅未 (未找到链接)
+
 
 ## 评论
 

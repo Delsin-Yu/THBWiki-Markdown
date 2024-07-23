@@ -4,7 +4,8 @@
 
 Schythrone ，于 2016 年成立，主要制作 同人音乐 的匈牙利同人社团，主催是 Schythrone，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -15,14 +16,17 @@ Schythrone ，于 2016 年成立，主要制作 同人音乐 的匈牙利同人�
 
 
 
+
 ## 社团信息
 文件:Schythronebanner.jpg (未找到链接)  banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Schythrone </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2016-06-27</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a class="mw-selflink selflink">Schythrone</a> </td></tr><tr><td><b>地区</b></td><td>匈牙利</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://schythrone.bandcamp.com/">http://schythrone.bandcamp.com/</a> </td></tr></tbody></table>
 
 Schythrone（同人社团，同人音乐社团） - Schythrone ，于 2016 年成立，主要制作 同人音乐 的匈牙利同人社团，主催是 Schythrone，当前状态为 活动
+
 ## 成员名单
 - 
+
 
 ## 作品列表
 [](./Transilvanian_Scarlet_(Demo).md)[Transilvanian Scarlet (Demo)](./Transilvanian_Scarlet_(Demo).md)首发日期：2016-06-27 Demo （一般向）[](./Artificial_Suffering.md)[Artificial Suffering](./Artificial_Suffering.md)首发日期：2016-08-04 单曲 （一般向）
@@ -30,6 +34,7 @@ Schythrone（同人社团，同人音乐社团） - Schythrone ，于 2016 年�
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 其他信息

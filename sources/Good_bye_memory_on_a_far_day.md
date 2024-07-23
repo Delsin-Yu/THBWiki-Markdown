@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Good_bye_memory_on_a_far_day封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/7/7f/Good_bye_memory_on_a_far_day%E5%B0%81%E9%9D%A2.jpg/156px-Good_bye_memory_on_a_far_day%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="156" height="224" srcset="https://upload.thwiki.cc/thumb/7/7f/Good_bye_memory_on_a_far_day%E5%B0%81%E9%9D%A2.jpg/234px-Good_bye_memory_on_a_far_day%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/7/7f/Good_bye_memory_on_a_far_day%E5%B0%81%E9%9D%A2.jpg/313px-Good_bye_memory_on_a_far_day%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="838" data-file-height="1200"></a><div class="cover-char">角色：<a href="./尔子田里乃.md" title="尔子田里乃">尔子田里乃</a>，<a href="./丁礼田舞.md" title="丁礼田舞">丁礼田舞</a></div></td>
@@ -18,8 +19,10 @@ Good bye memory on a far day（同人志，Vampire＊Berry，2018） - 2018年5�
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=357952">蜜瓜</a></td></tr></tbody></table>
 
 
+
 ## Staff
 - 扇城ひな (未找到链接)
+
 
 ## 评论
 

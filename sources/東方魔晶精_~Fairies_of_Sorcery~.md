@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 软件信息](#软件信息)
@@ -18,6 +19,7 @@
 
 
 
+
 ## 软件信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2">无封面</td>
@@ -26,6 +28,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/nono_shijimi">https://twitter.com/nono_shijimi</a></td></tr></tbody></table>
 
 東方魔晶精 ~Fairies of Sorcery~（同人游戏，Nono 443，2012） - 2012年9月9日 由 Nono 443  发布的STG同人游戏，可在 Windows 系统上运行，游戏人数为 单人模式，分级为 一般向
+
 ## 游戏介绍
 [](./文件-東方魔晶精_~Fairies_of_Sorcery~菜单界面.jpg.md)  [](./文件-東方魔晶精_~Fairies_of_Sorcery~菜单界面.jpg.md)菜单界面
   
@@ -44,11 +47,13 @@ Story模式一共有5个难度，共3面，此外还有extra关卡以及符卡�
 值得一提的是，这款游戏是使用弹幕风ph3β6版本新增的“封包”功能做出的第一个完整的游戏脚本。
   
 
+
 ## 内容页面
 - [游戏设定](./東方魔晶精_~Fairies_of_Sorcery~-游戏设定.md)
 - [系统说明](./東方魔晶精_~Fairies_of_Sorcery~-系统.md)
 - [符卡](./東方魔晶精_~Fairies_of_Sorcery~-符卡.md)
 - [其他相关资料](./東方魔晶精_~Fairies_of_Sorcery~-其他.md)
+
 
 ## 评论
 - 修复double burst模式rep出错的办法：
@@ -143,6 +148,7 @@ Story模式一共有5个难度，共3面，此外还有extra关卡以及符卡�
 </td></tr></tbody></table>
 
 
+
 ## 视频
   
 请注意：  
@@ -153,6 +159,7 @@ Story模式一共有5个难度，共3面，此外还有extra关卡以及符卡�
 [EX](http://v.youku.com/v_show/id_XNjcyNDc3OTg0.html)
 [DoubleBurst](http://v.youku.com/v_show/id_XNjg4NzM5MDU2.html)
   
+
 
 ## 下载
   

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-東方幻想画報_詩片-Fragment_IV-封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/2/24/%E6%9D%B1%E6%96%B9%E5%B9%BB%E6%83%B3%E7%94%BB%E5%A0%B1_%E8%A9%A9%E7%89%87-Fragment_IV-%E5%B0%81%E9%9D%A2.jpg/168px-%E6%9D%B1%E6%96%B9%E5%B9%BB%E6%83%B3%E7%94%BB%E5%A0%B1_%E8%A9%A9%E7%89%87-Fragment_IV-%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="168" height="119" srcset="https://upload.thwiki.cc/thumb/2/24/%E6%9D%B1%E6%96%B9%E5%B9%BB%E6%83%B3%E7%94%BB%E5%A0%B1_%E8%A9%A9%E7%89%87-Fragment_IV-%E5%B0%81%E9%9D%A2.jpg/252px-%E6%9D%B1%E6%96%B9%E5%B9%BB%E6%83%B3%E7%94%BB%E5%A0%B1_%E8%A9%A9%E7%89%87-Fragment_IV-%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/2/24/%E6%9D%B1%E6%96%B9%E5%B9%BB%E6%83%B3%E7%94%BB%E5%A0%B1_%E8%A9%A9%E7%89%87-Fragment_IV-%E5%B0%81%E9%9D%A2.jpg/336px-%E6%9D%B1%E6%96%B9%E5%B9%BB%E6%83%B3%E7%94%BB%E5%A0%B1_%E8%A9%A9%E7%89%87-Fragment_IV-%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="640" data-file-height="453"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>，<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a>，<a href="./无名的读书妖怪.md" title="无名的读书妖怪">朱鹭子</a>，<a href="./森近霖之助.md" title="森近霖之助">森近霖之助</a></div></td>
@@ -14,13 +15,15 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.toranoana.jp/info/dojin/toho_winter2013/index.html">https://www.toranoana.jp/info/dojin/toho_winter2013/index.html</a></td></tr></tbody></table>
 
 東方幻想画報 詩片-Fragment IV-（同人志，虎之穴，2013） - 2013年12月30日 由 虎之穴 于 Comic Market 85 发布的画集/合同志同人志，B5尺寸一共32页，分级为 一般向
+
 ## 预览
+
 ## Staff
 - 赤坂アカ (未找到链接)
 - 東青嗣 (未找到链接)（azag (未找到链接)）
 - ウータン (未找到链接)（[柴犬革命](./柴犬革命.md)）
 - usama (未找到链接)
-- H2SO4 (未找到链接)（Island of Horizon (未找到链接)）
+- [H2SO4](./H2SO4.md)（Island of Horizon (未找到链接)）
 - Aの子 (未找到链接)
 - えすけー (未找到链接)
 - [会帆](./会帆.md)（[十誤一会](./十誤一会.md)）
@@ -45,6 +48,7 @@
 - 唯 (未找到链接)（[二維鏡像](./弐維鏡像.md)）
 - よぬ (未找到链接)（[よぬりめ](./よぬりめ.md)）
 - rin (未找到链接)（[ROYAL](./ROYAL.md)）
+
 
 ## 评论
 

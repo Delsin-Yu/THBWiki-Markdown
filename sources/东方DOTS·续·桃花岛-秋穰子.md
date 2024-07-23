@@ -164,6 +164,7 @@
 [](./文件-THD2秋穰子.png.md)
   
 
+
 ## 目录
 
 - [1 角色定位](#角色定位)
@@ -189,10 +190,12 @@
 
 
 
+
 ## 角色定位
   
 辅助 - 控制 - 治疗
   
+
 
 ## 技能介绍
 
@@ -676,6 +679,7 @@
 </td></tr></tbody></table>
 
 
+
 ## 天赋树
 
 
@@ -714,6 +718,7 @@
 </td></tr></tbody></table>
 
 
+
 #### 出门装备
   
 [](./文件-THD2爱人卡.png.md)　[](./文件-THD2鬼天王腰带.png.md)　[](./文件-THD2侦查守卫.png.md) [](./文件-THD2思兼生命药.png.md) [](./文件-THD2雾雨魔力瓶.png.md)
@@ -743,6 +748,7 @@
 
 - 这个人物的缺陷在于笨重没有位移手段且没有AOE技能无法补充经济，更适合选出来配合强势人物打出优势，逆风时如果想保证自身安全需要跟随战斗力较强的核心，如果不是真爱这个人物，选择时需根据阵容考虑
 
+
 #### 前期装备
   
 [](./文件-THD2很值钱的礼物.png.md) [](./文件-THD2冰精跳跃装置.png.md) [](./文件-THD2侦查守卫.png.md) [](./文件-THD2岗哨守卫.png.md)
@@ -759,6 +765,7 @@
 
 - 由于秋穰子没有AOE技能清线也没有位移技能自保，在经济允许的情况下一定要做出以上两件装备保证自己的经济，然后根据局势左键点掉(是使用不是卖掉，使用可以返还90%购买金钱，买出只有50%金钱，这两件装备做出3分钟以后就可以回本)做出相应的装备
 
+
 #### 核心装备
   
 [](./文件-THD2奇迹之星.png.md)　[](./文件-THD2很值钱的礼物.png.md)　[](./文件-THD2河童推进装置.png.md)[](./文件-THD2冰精跳跃装置.png.md)
@@ -769,6 +776,7 @@
 有一定的自保和保人能力，团战尽量活下来，秋穰子的技能续航能力数一数二，可以大幅度增加团战胜利后的推进能力
   
 
+
 #### 可选装备
   
 [](./文件-THD2油库里之杖.png.md)　[](./文件-THD2碎骨笛.png.md) [](./文件-THD2思兼生命智慧.png.md)　[](./文件-THD2魔法使的帽子.png.md) [](./文件-THD2博丽神社护身符.png.md) [](./文件-THD2八云间隙发生器.png.md)
@@ -778,6 +786,7 @@
 
 基本上是队伍缺少什么就补充什么装备，要注意越是到了后期越是要跟紧队友，在先手速度决定后期团战胜利的环境下及时用处道具先手或者救被先手的队友都是团战胜利的关键
   
+
 
 ## 技能加点
 
@@ -839,6 +848,7 @@
 <td><a href="./文件-DOTA黄点.png.md" class="image" title="+2 全属性"><img alt="+2 全属性" src="https://upload.thwiki.cc/thumb/d/da/DOTA%E9%BB%84%E7%82%B9.png/40px-DOTA%E9%BB%84%E7%82%B9.png" decoding="async" loading="lazy" width="40" height="40" srcset="https://upload.thwiki.cc/thumb/d/da/DOTA%E9%BB%84%E7%82%B9.png/60px-DOTA%E9%BB%84%E7%82%B9.png 1.5x, https://upload.thwiki.cc/thumb/d/da/DOTA%E9%BB%84%E7%82%B9.png/80px-DOTA%E9%BB%84%E7%82%B9.png 2x" data-file-width="128" data-file-height="128"></a></td>
 <td><a href="./文件-THD2天赋树25右.png.md" class="image" title="+300 施法距离"><img alt="+300 施法距离" src="https://upload.thwiki.cc/thumb/5/5b/THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%8F%B3.png/40px-THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%8F%B3.png" decoding="async" loading="lazy" width="40" height="40" srcset="https://upload.thwiki.cc/thumb/5/5b/THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%8F%B3.png/60px-THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%8F%B3.png 1.5x, https://upload.thwiki.cc/thumb/5/5b/THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%8F%B3.png/80px-THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%8F%B3.png 2x" data-file-width="103" data-file-height="103"></a>
 </td></tr></tbody></table>
+
 
 
 ## 台词
@@ -930,10 +940,12 @@
 </td></tr></tbody></table>
 
 
+
 ## 教学视频
   
 暂无
   
+
 
 ### 强烈建议新手选择的辅助型英雄！
   

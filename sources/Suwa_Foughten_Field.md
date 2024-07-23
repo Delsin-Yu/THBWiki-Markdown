@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Suwa_Foughten_Field封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/0/0b/Suwa_Foughten_Field%E5%B0%81%E9%9D%A2.jpg/252px-Suwa_Foughten_Field%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="252" srcset="https://upload.thwiki.cc/thumb/0/0b/Suwa_Foughten_Field%E5%B0%81%E9%9D%A2.jpg/378px-Suwa_Foughten_Field%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/0/0b/Suwa_Foughten_Field%E5%B0%81%E9%9D%A2.jpg/504px-Suwa_Foughten_Field%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1000" data-file-height="1000"></a></td>
@@ -16,6 +17,7 @@
 Suwa Foughten Field（同人专辑，YaboiMatoi，2022） - 2022年9月26日 由 YaboiMatoi  发布的单曲同人专辑，曲目主要风格是 金属，分级为 一般向
 
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://yaboimatoi.bandcamp.com/track/suwa-foughten-field">bandcamp</a>，<a rel="nofollow" class="external text" href="https://www.dizzylab.net/d/YM11">dizzylab</a></td></tr></tbody></table>
+
 
 
 ## Staff
@@ -32,6 +34,7 @@ Suwa Foughten Field（同人专辑，YaboiMatoi，2022） - 2022年9月26日 由
 
 Artwork
 : [YaboiMatoi](./YaboiMatoi.md)
+
 
 ## 试听
 
@@ -59,9 +62,11 @@ Artwork
 
 
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Suwa_Foughten_Field" colspan="2" class="title">Suwa Foughten Field<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=YaboiMatoi&amp;ogmusic=神さびた古戦場　～ Suwa Foughten Field，ネイティブフェイス&amp;fromwiki=Suwa_Foughten_Field"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:25</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./YaboiMatoi.md" title="YaboiMatoi">YaboiMatoi</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，YaboiMatoi&amp;fromwiki=Suwa_Foughten_Field"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演奏</td><td class="text" colspan="2">guitar：<a href="./YaboiMatoi.md" title="YaboiMatoi">YaboiMatoi</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=神さびた古戦場　～ Suwa Foughten Field，ネイティブフェイス&amp;fromwiki=Suwa_Foughten_Field"><span></span></a></span><div class="ogmusic"><a href="/%E7%A5%9E%E3%81%95%E3%81%B3%E3%81%9F%E5%8F%A4%E6%88%A6%E5%A0%B4_%EF%BD%9E_Suwa_Foughten_Field" class="mw-redirect" title="神さびた古戦場 ～ Suwa Foughten Field">神さびた古戦場　～ Suwa Foughten Field</a></div><div class="ogmusic"><a href="/%E3%83%8D%E3%82%A4%E3%83%86%E3%82%A3%E3%83%96%E3%83%95%E3%82%A7%E3%82%A4%E3%82%B9" class="mw-redirect" title="ネイティブフェイス">ネイティブフェイス</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E9%A3%8E%E7%A5%9E%E5%BD%95_%EF%BD%9E_Mountain_of_Faith." class="mw-redirect" title="东方风神录 ～ Mountain of Faith.">东方风神录　～ Mountain of Faith.</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Suwa_Foughten_Field" colspan="2" class="title">Suwa Foughten Field<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=YaboiMatoi&amp;ogmusic=神さびた古戦場　～ Suwa Foughten Field，ネイティブフェイス&amp;fromwiki=Suwa_Foughten_Field"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:25</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./YaboiMatoi.md" title="YaboiMatoi">YaboiMatoi</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，YaboiMatoi&amp;fromwiki=Suwa_Foughten_Field"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演奏</td><td class="text" colspan="2">guitar：<a href="./YaboiMatoi.md" title="YaboiMatoi">YaboiMatoi</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=神さびた古戦場　～ Suwa Foughten Field，ネイティブフェイス&amp;fromwiki=Suwa_Foughten_Field"><span></span></a></span><div class="ogmusic"><a href="./神さびた古戦場_～_Suwa_Foughten_Field.md" class="mw-redirect" title="神さびた古戦場 ～ Suwa Foughten Field">神さびた古戦場　～ Suwa Foughten Field</a></div><div class="ogmusic"><a href="./ネイティブフェイス.md" class="mw-redirect" title="ネイティブフェイス">ネイティブフェイス</a></div><div class="source"><a href="./东方风神录_～_Mountain_of_Faith..md" class="mw-redirect" title="东方风神录 ～ Mountain of Faith.">东方风神录　～ Mountain of Faith.</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

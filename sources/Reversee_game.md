@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Reversee_game封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/6/6a/Reversee_game%E5%B0%81%E9%9D%A2.jpg/138px-Reversee_game%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="138" height="196" srcset="https://upload.thwiki.cc/thumb/6/6a/Reversee_game%E5%B0%81%E9%9D%A2.jpg/207px-Reversee_game%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/6/6a/Reversee_game%E5%B0%81%E9%9D%A2.jpg/277px-Reversee_game%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="600" data-file-height="850"></a><div class="cover-char">角色：<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a>，<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></div></td>
@@ -14,9 +15,11 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://plastic.koiwazurai.com/c78tokusetu.html">http://plastic.koiwazurai.com/c78tokusetu.html</a></td></tr></tbody></table>
 
 Reversee game（同人志，純情プラスチック，2010） - 2010年8月14日 由 純情プラスチック 于 Comic Market 78 发布的漫画同人志，B5尺寸一共38页，分级为 一般向
+
 ## Staff
 - 君野朋成 (未找到链接)
 - やとさきはる (未找到链接)
+
 
 ## 评论
 

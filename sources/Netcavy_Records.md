@@ -4,7 +4,8 @@
 
 Netcavy Records ，于 2009 年成立，主要制作 同人音乐 的澳大利亚同人社团，主催是 ShinkoNet，曾以 ShinkoNetCavy 名义活动，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -20,16 +21,20 @@ Netcavy Records ，于 2009 年成立，主要制作 同人音乐 的澳大利�
 
 
 
+
 ## 社团信息
 [](./文件-Netcavy_Recordslogo.jpeg.md)  [](./文件-Netcavy_Recordslogo.jpeg.md)logo
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Netcavy Records </td></tr><tr><td><b>曾用名称</b></td><td> ShinkoNetCavy </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2009</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=ShinkoNet&amp;action=edit&amp;redlink=1" class="new" title="ShinkoNet（页面不存在）">ShinkoNet</a> </td></tr><tr><td><b>地区</b></td><td>澳大利亚</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="https://shinkonet.github.io/">https://shinkonet.github.io/</a> </td></tr></tbody></table>
 
 Netcavy Records（同人社团，同人音乐社团） - Netcavy Records ，于 2009 年成立，主要制作 同人音乐 的澳大利亚同人社团，主催是 ShinkoNet，曾以 ShinkoNetCavy 名义活动，当前状态为 活动
+
 ## 成员名单
 - ShinkoNet (未找到链接) （[Youtube](https://youtube.com/user/ShinkoNet) [Twitter](https://twitter.com/ShinkoNetCavy) [SoundCloud](https://soundcloud.com/ShinkoNet-Studios) [Nico](https://www.nicovideo.jp/user/48251216)）
 
+
 ## 作品列表
+
 ### 同人专辑
 [](./Nightmare_Drivin'.md)[Nightmare Drivin'](./Nightmare_Drivin'.md)首发日期：2018-08-10 （Comic Market 94 (未找到链接)）单曲 （一般向）[](./Akyu's_Untouched_Eurobeat_Vol._1.md)[Akyu's Untouched Eurobeat Vol. 1](./Akyu's_Untouched_Eurobeat_Vol._1.md)首发日期：2019-01-19 全长 （一般向）[](./無限境_~_Multi-Dimensional_Fantasy_-_Original_Soundtrack_(Story_1).md)[無限境 ~ Multi-Dimensional Fantasy - Original Soundtrack (Story 1)](./無限境_~_Multi-Dimensional_Fantasy_-_Original_Soundtrack_(Story_1).md)首发日期：2020-10-04 全长 （一般向）[](./Akyu's_Untouched_Eurobeat_Vol._2.md)[Akyu's Untouched Eurobeat Vol. 2](./Akyu's_Untouched_Eurobeat_Vol._2.md)首发日期：2020-12-30 （エアコミケ2 (未找到链接)）全长 （一般向）[](./Akyu's_Toho_Euro_MEGAMIX.md)[Akyu's Toho Euro MEGAMIX](./Akyu's_Toho_Euro_MEGAMIX.md)首发日期：2021-08-14 （東方ルナティックリリース (未找到链接)）全长、​混音集 （一般向）
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -42,6 +47,7 @@ Netcavy Records（同人社团，同人音乐社团） - Netcavy Records ，于 
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 其他信息

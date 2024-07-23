@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -40,22 +41,26 @@
 
 
 
+
 ## 基本信息
 
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">真紅の少女　～ Crimson Dead!!</td></tr><tr><td><b>译名</b></td><td>绯红的少女 ～ Crimson Dead!!</td></tr><tr><td><b>英文译名</b></td><td>Crimson Maiden ~ Crimson Dead!!</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 绯红的少女 ～ Crimson Dead!!（曲目） - 由 ZUN 创作的官方曲目，原名 真紅の少女　～ Crimson Dead!!
+
 ## 出现作品
 
 <table>
 <tbody><tr><td>1998年12月30日（Comic Market 55）</td><td><b><a href="./东方怪绮谈.md" title="东方怪绮谈">东方怪绮谈</a></b></td><td>4面BOSS<a href="./雪.md" title="雪">雪</a>的主题曲</td><td style="padding-left:5px;">真紅の少女　～ Crimson Dead!!（绯红的少女 ～ Crimson Dead!!）</td><td style="padding-left:10px;">作曲：ZUN</td></tr>
 <tr><td>2000年10月2日（非展会）</td><td><b><a href="./东方幻想的音乐.md" title="东方幻想的音乐">东方幻想的音乐</a></b></td><td>东方怪绮谈</td><td style="padding-left:5px;">真紅の少女　～ Crimson Dead!!（绯红的少女 ～ Crimson Dead!!）</td><td style="padding-left:10px;">编曲：ZUN</td></tr>
 <tr><td>2000年10月18日（非展会）</td><td><b><a href="./东方幻想怀古曲.md" title="东方幻想怀古曲">东方幻想怀古曲</a></b></td><td>东方怪绮谈</td><td style="padding-left:5px;">真紅の少女　～ Crimson Dead!!（绯红的少女 ～ Crimson Dead!!）</td><td style="padding-left:10px;">作曲：ZUN</td></tr>
-<tr><td>2006年12月31日（Comic Market 71）</td><td><b><a href="/%E5%B9%BA%E4%B9%90%E5%9B%A2%E7%9A%84%E5%8E%86%E5%8F%B2_vol.2" class="mw-redirect" title="幺乐团的历史 vol.2">幺乐团的历史 vol.2</a></b></td><td>第10轨</td><td style="padding-left:5px;">真紅の少女　～ Crimson Dead!!（绯红的少女 ～ Crimson Dead!!）</td><td style="padding-left:10px;">编曲：ZUN</td></tr>
+<tr><td>2006年12月31日（Comic Market 71）</td><td><b><a href="./幺乐团的历史_vol.2.md" class="mw-redirect" title="幺乐团的历史 vol.2">幺乐团的历史 vol.2</a></b></td><td>第10轨</td><td style="padding-left:5px;">真紅の少女　～ Crimson Dead!!（绯红的少女 ～ Crimson Dead!!）</td><td style="padding-left:10px;">编曲：ZUN</td></tr>
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 东方怪绮谈
   
 YM2203(OPN)，FM26K音源版。
@@ -73,9 +78,11 @@ YM2608(OPNA)，FM86音源版。
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th05_10_86.ogg.md" title="文件:th05 10 86.ogg">th05_10_86.ogg</a><br><audio src="https://upload.thwiki.cc/2/2f/th05_10_86.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>ST03C.M2</td></tr><tr><td><b>音轨时长</b></td><td>2:06.389</td></tr></tbody></table>
 
 
+
 ### 东方幻想的音乐
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td><a href="./文件-th5_10.mid.md" title="文件:th5 10.mid">th5_10.mid</a></td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th5_10.mp3.md" title="文件:th5 10.mp3">th5_10.mp3</a><br><audio src="https://upload.thwiki.cc/d/dd/th5_10.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>th5_10.mid</td></tr><tr><td><b>音轨时长</b></td><td>3:26</td></tr></tbody></table>
+
 
 
 ### 东方幻想怀古曲
@@ -83,12 +90,15 @@ YM2608(OPNA)，FM86音源版。
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-thgs05_10.ogg.md" title="文件:thgs05 10.ogg">thgs05_10.ogg</a><br><audio src="https://upload.thwiki.cc/c/c9/thgs05_10.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>th5_10.M</td></tr><tr><td><b>音轨时长</b></td><td>2:06.389</td></tr></tbody></table>
 
 
+
 ### 幺乐团的历史 vol.2
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-ha02_10.mp3.md" title="文件:ha02 10.mp3">ha02_10.mp3</a><br><audio src="https://upload.thwiki.cc/f/f0/ha02_10.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track10.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>2:34</td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 东方怪绮谈
 - Music Room (未找到链接)
 
@@ -100,6 +110,7 @@ YM2608(OPNA)，FM86音源版。
 ＺＵＮ（太田）  
 怪绮谈4面boss2的曲子  
 像封魔录（笑）
+
 ### 东方幻想的音乐
 - th5_10.txt (未找到链接)
 
@@ -134,6 +145,7 @@ YM2608(OPNA)，FM86音源版。
 曲子的感想、请求等，这边请  
 　东方幻想空间　「博丽神社」 [http://www16.big.or.jp/~zun/](http://www16.big.or.jp/~zun/)  
 　e-Mail                     zun@big.or.jp
+
 ### 东方幻想怀古曲
 - th5_10pmd.txt (未找到链接)
 
@@ -170,8 +182,11 @@ YM2608(OPNA)，FM86音源版。
 曲子的感想、请求等，这边请  
 　东方幻想空间　「博丽神社」 [http://www16.big.or.jp/~zun/](http://www16.big.or.jp/~zun/)  
 　e-Mail　　　　　　　　　　 zun@big.or.jp
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
   
  **真紅の少女　～ Crimson Dead!!** 
@@ -192,6 +207,7 @@ YM2608(OPNA)，FM86音源版。
   - 直译为深红色的死者。
   - 红莲地狱。佛教中的遭受酷寒的八个地狱之一，  
 落入这里的人会因为寒冷使皮肤冻裂流血，如同红色的莲花。
+
 
 
 ### 二次同人数据

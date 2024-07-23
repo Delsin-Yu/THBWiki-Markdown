@@ -4,7 +4,8 @@
 
 Levo Lution （Levo Lution 2nd Stage / Trance Shift） ，于 2000 年成立，主要制作 同人音乐 的日本同人社团，主催是 Lix，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -15,13 +16,16 @@ Levo Lution （Levo Lution 2nd Stage / Trance Shift） ，于 2000 年成立，�
 
 
 
+
 ## 社团信息
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Levo Lution （Levo Lution 2nd Stage / Trance Shift） </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2000</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=Lix&amp;action=edit&amp;redlink=1" class="new" title="Lix（页面不存在）">Lix</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://levolution.info/">http://levolution.info/</a> <br><a rel="nofollow" class="external free" href="https://skyriser.booth.pm/">https://skyriser.booth.pm/</a></td></tr></tbody></table>
 
 Levo Lution（同人社团，同人音乐社团） - Levo Lution （Levo Lution 2nd Stage / Trance Shift） ，于 2000 年成立，主要制作 同人音乐 的日本同人社团，主催是 Lix，当前状态为 活动
+
 ## 成员名单
 - Lix (未找到链接)
+
 
 ## 作品列表
   
@@ -43,6 +47,7 @@ Levo Lution（同人社团，同人音乐社团） - Levo Lution （Levo Lution 
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 其他信息

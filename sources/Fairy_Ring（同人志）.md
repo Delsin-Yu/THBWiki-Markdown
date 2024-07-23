@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Fairy_Ring（同人志）封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/6/6a/Fairy_Ring%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/151px-Fairy_Ring%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="151" height="224" srcset="https://upload.thwiki.cc/thumb/6/6a/Fairy_Ring%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/227px-Fairy_Ring%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/6/6a/Fairy_Ring%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/303px-Fairy_Ring%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="430" data-file-height="636"></a><div class="cover-char">角色：<a href="./洩矢诹访子.md" title="洩矢诹访子">洩矢诹访子</a>，<a href="./琪露诺.md" title="琪露诺">琪露诺</a></div></td>
@@ -14,11 +15,13 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/21676922">https://www.pixiv.net/artworks/21676922</a><br><a rel="nofollow" class="external free" href="http://www.doujinpress.com/products/1647~fairy-ring-touhou-yuri-doujin/">http://www.doujinpress.com/products/1647~fairy-ring-touhou-yuri-doujin/</a><br><span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><small>（<a rel="nofollow" class="external text" href="https://web.archive.org/web/20120209062015/http://www.doujinpress.com/products/1647~fairy-ring-touhou-yuri-doujin/">缓存页面</a>）</small></td></tr></tbody></table>
 
 Fairy Ring（同人志，House of Sixten，2011） - 2011年9月10日 由 House of Sixten  发布的漫画同人志，B5尺寸一共40页，登场人物有 洩矢诹访子、琪露诺，分级为 一般向
+
 ## Staff
 Writing &amp; Illustration
 : sixten (未找到链接) （[House of Sixten](./House_of_Sixten.md)）
 Special Thanks
 : Jason Miao
+
 
 ## 评论
   

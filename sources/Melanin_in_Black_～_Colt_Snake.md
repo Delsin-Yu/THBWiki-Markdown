@@ -6,6 +6,7 @@ JynX作曲 | Melanin_in_Black_～_Colt_Snake | 引用了翻译表的页面 | 连
 
 本页是关于 **向[东方Project](./东方Project.md)  
 致敬、形式类似的作品** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -28,6 +29,7 @@ JynX作曲 | Melanin_in_Black_～_Colt_Snake | 引用了翻译表的页面 | 连
 
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
+
 
 
 
@@ -63,6 +65,7 @@ JynX作曲 | Melanin_in_Black_～_Colt_Snake | 引用了翻译表的页面 | 连
 </td></tr></tbody></table>
 
 
+
 ## 出现作品
 
 <table>
@@ -76,7 +79,9 @@ JynX作曲 | Melanin_in_Black_～_Colt_Snake | 引用了翻译表的页面 | 连
 }}
   
 
+
 ## 音乐文件
+
 ### 连缘无现里
 
 <table>
@@ -94,6 +99,7 @@ JynX作曲 | Melanin_in_Black_～_Colt_Snake | 引用了翻译表的页面 | 连
 <td><b>源文件格式</b></td>
 <td>未填写
 </td></tr></tbody></table>
+
 
 
 ### 连缘天影战记
@@ -115,7 +121,9 @@ JynX作曲 | Melanin_in_Black_～_Colt_Snake | 引用了翻译表的页面 | 连
 </td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 连缘无现里
 - Music Room (未找到链接)
 
@@ -129,6 +137,7 @@ JynX作曲 | Melanin_in_Black_～_Colt_Snake | 引用了翻译表的页面 | 连
 而且你看，嗯，我把那个单词换掉了，不算侵权吧。  
   
 总之，这里还不是乌蛇该活跃的场合。
+
 ### 连缘天影战记
 - Music Room (未找到链接)
 
@@ -142,8 +151,11 @@ JynX作曲 | Melanin_in_Black_～_Colt_Snake | 引用了翻译表的页面 | 连
   
   
 说起来明明是蛇，和其它的蛇没什么交集呢
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
   
  **メラニンインブラック ～ Colt Snake**   

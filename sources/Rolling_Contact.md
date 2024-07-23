@@ -4,7 +4,8 @@
 
 Rolling Contact ，于 2008 年成立，主要制作 同人音乐 的日本同人社团，主催是 天音，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -40,16 +41,20 @@ Rolling Contact ，于 2008 年成立，主要制作 同人音乐 的日本同�
 
 
 
+
 ## 社团信息
 [](./文件-Rolling_Contact_banner.jpg.md)  [](./文件-Rolling_Contact_banner.jpg.md)Banner
 
-<table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Rolling Contact </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2008</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="/%E5%A4%A9%E9%9F%B3" class="mw-redirect" title="天音">天音</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://youzyo.net/">http://youzyo.net/</a> 官网<br><a rel="nofollow" class="external free" href="https://www.youtube.com/@AmaneOikawa">https://www.youtube.com/@AmaneOikawa</a> YouTube<br><a rel="nofollow" class="external free" href="https://soundcloud.com/amane_jp">https://soundcloud.com/amane_jp</a> SoundCloud<br><a rel="nofollow" class="external free" href="https://www.facebook.com/rollingcontact">https://www.facebook.com/rollingcontact</a> Facebook</td></tr></tbody></table>
+<table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Rolling Contact </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2008</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="./天音.md" class="mw-redirect" title="天音">天音</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://youzyo.net/">http://youzyo.net/</a> 官网<br><a rel="nofollow" class="external free" href="https://www.youtube.com/@AmaneOikawa">https://www.youtube.com/@AmaneOikawa</a> YouTube<br><a rel="nofollow" class="external free" href="https://soundcloud.com/amane_jp">https://soundcloud.com/amane_jp</a> SoundCloud<br><a rel="nofollow" class="external free" href="https://www.facebook.com/rollingcontact">https://www.facebook.com/rollingcontact</a> Facebook</td></tr></tbody></table>
 
 Rolling Contact（同人社团，同人音乐社团） - Rolling Contact ，于 2008 年成立，主要制作 同人音乐 的日本同人社团，主催是 天音，当前状态为 活动
+
 ## 成员名单
-- 天音 (未找到链接)
+- [天音](./天音.md)
+
 
 ## 作品列表
+
 ### （其他系列）
 [](./Rolling_Contact（同人专辑）.md)[Rolling Contact](./Rolling_Contact（同人专辑）.md)首发日期：2008-04-27 （COMIC1☆2 (未找到链接)）LOLI-0001全长 （一般向）[](./Element_Vision.md)[Element Vision](./Element_Vision.md)首发日期：2008-05-25 （第五回 博麗神社例大祭 (未找到链接)）LOLI-0002全长 （一般向）[](./Awesome_Night_!!.md)[Awesome Night&#160;!!](./Awesome_Night_!!.md)首发日期：2008-08-16 （Comic Market 74 (未找到链接)）LOLI-0003全长 （一般向）[](./暁牙焔殊_-アカツキエンジュ-.md)[暁牙焔殊 -アカツキエンジュ-](./暁牙焔殊_-アカツキエンジュ-.md)首发日期：2008-10-13 （M3-2008秋 (未找到链接)）LOLI-0004全长 （一般向）[](./Amuse_Beat_Connection.md)[Amuse Beat Connection](./Amuse_Beat_Connection.md)首发日期：2008-11-02 （東方紅楼夢4 (未找到链接)）LOLI-0005全长 （一般向）[](./Little_Thin_Light.md)[Little Thin Light](./Little_Thin_Light.md)首发日期：2008-12-29 （Comic Market 75 (未找到链接)）LOLI-0006全长 （一般向）[](./First_Wave_ELECTRO.md)[First Wave ELECTRO](./First_Wave_ELECTRO.md)首发日期：2009-03-01 （るなフェス3 (未找到链接)）LOLI-0008全长 （一般向）[](./PEACE_YO!.md)[PEACE YO!](./PEACE_YO!.md)首发日期：2009-03-08 （第六回 博麗神社例大祭 (未找到链接)）LOLI-0009全长 （一般向）[](./Silver_Sliver.md)[Silver Sliver](./Silver_Sliver.md)首发日期：2009-05-06 （紅月ノ宴参 (未找到链接)）LOLI-0012全长 （一般向）[](./禍魂艶夢_-マガタマエンム-.md)[禍魂艶夢 -マガタマエンム-](./禍魂艶夢_-マガタマエンム-.md)首发日期：2009-08-15 （Comic Market 76 (未找到链接)）LOLI-0013全长 （一般向）[](./Dead'n'Being.md)[Dead'n'Being](./Dead'n'Being.md)首发日期：2009-10-11 （東方紅楼夢5 (未找到链接)）LOLI-0014全长 （一般向）[](./蓮弾円封_-レンダンエンブ-.md)[蓮弾円封 -レンダンエンブ-](./蓮弾円封_-レンダンエンブ-.md)首发日期：2009-12-30 （Comic Market 77 (未找到链接)）LOLI-0015全长 （一般向）[](./Downpour_Field.md)[Downpour Field](./Downpour_Field.md)首发日期：2010-03-14 （第七回 博麗神社例大祭 (未找到链接)）LOLI-0016全长 （一般向）[](./Thunderstorm_Field.md)[Thunderstorm Field](./Thunderstorm_Field.md)首发日期：2010-03-14 （第七回 博麗神社例大祭 (未找到链接)）LOLI-0017全长 （一般向）[](./Misty_Field（Rolling_Contact）.md)[Misty Field](./Misty_Field（Rolling_Contact）.md)首发日期：2010-03-14 （第七回 博麗神社例大祭 (未找到链接)）LOLI-0018全长 （一般向）[](./SYNAESTHESIA.md)[SYNAESTHESIA](./SYNAESTHESIA.md)首发日期：2010-05-05 （紅月ノ宴肆 (未找到链接)）LOLI-0019全长 （一般向）[](./幻羽鳶姫_-マホロバエンキ-.md)[幻羽鳶姫 -マホロバエンキ-](./幻羽鳶姫_-マホロバエンキ-.md)首发日期：2010-08-14 （Comic Market 78 (未找到链接)）LOLI-0021全长 （一般向）[](./玉響宴奴.md)[玉響宴奴](./玉響宴奴.md)首发日期：2012-05-27 （第九回 博麗神社例大祭 (未找到链接)）LOLI-0028精选集 （一般向）该专辑包含 2 张CD[](./GOT_YA!.md)[GOT YA!](./GOT_YA!.md)首发日期：2014-04-27 （M3-2014春 (未找到链接)）LOLI-0040全长 （一般向）[](./We_Are_The_Scarlet.md)[We Are The Scarlet](./We_Are_The_Scarlet.md)首发日期：2014-12-29 （Comic Market 87 (未找到链接)）LOLI-0047全长 （一般向）[](./Soft_Landing_TOHO.md)[Soft Landing TOHO](./Soft_Landing_TOHO.md)首发日期：2015-12-30 （Comic Market 89 (未找到链接)）LOLI-0054全长 （一般向）[](./東方密林恐怖.md)[東方密林恐怖](./東方密林恐怖.md)首发日期：2016-08-13 （Comic Market 90 (未找到链接)）LOLI-0058全长 （一般向）[](./MOOMBAHTOHO!.md)[MOOMBAHTOHO!](./MOOMBAHTOHO!.md)首发日期：2016-12-29 （Comic Market 91 (未找到链接)）LOLI-0061全长 （一般向）[](./Technical_Master.md)[Technical Master](./Technical_Master.md)首发日期：2017-05-07 （第十四回 博麗神社例大祭 (未找到链接)）LOLI-0063全长 （一般向）[](./おしえて！聖おねえちゃん！.md)[おしえて！聖おねえちゃん！](./おしえて！聖おねえちゃん！.md)首发日期：2018-08-10 （Comic Market 94 (未找到链接)）LOLI-0071EP、​精选集、​混音集 （一般向）[](./トーホーディスコナイトフィーバー.md)[トーホーディスコナイトフィーバー](./トーホーディスコナイトフィーバー.md)首发日期：2019-05-05 （第十六回 博麗神社例大祭 (未找到链接)）LOLI-0076全长 （一般向）[](./Drop_Of_Drop.md)[Drop Of Drop](./Drop_Of_Drop.md)首发日期：2020-03-22 （エア例大祭17 (未找到链接)）LOLI-0084全长 （一般向）[](./Desire_Drop.md)[Desire Drop](./Desire_Drop.md)首发日期：2020-05-28 LOLI-0088全长 （一般向）[](./Cyberwack.md)[Cyberwack](./Cyberwack.md)首发日期：2021-07-18 （東方名華祭15 (未找到链接)）LOLI-0096全长 （一般向）Cyberpunk x Industrial Bass，10曲入り プレスCD[](./EVERLASTING_SPECTRUM.md)[EVERLASTING SPECTRUM](./EVERLASTING_SPECTRUM.md)首发日期：2021-10-09 （東方紅楼夢17 (未找到链接)）LOLI-0097全长 （一般向）Melodic Progressive House[](./TRANSFINITE.md)[TRANSFINITE](./TRANSFINITE.md)首发日期：2022-03-20 （博麗神社例大祭 in 新潟1 (未找到链接)）LOLI-0101全长 （一般向）Uplifting Trance[](./LOVE_COLOUR.md)[LOVE COLOUR](./LOVE_COLOUR.md)首发日期：2022-05-08 （第十九回 博麗神社例大祭 (未找到链接)）LOLI-0102全长 （一般向）Colour Bass[](./Storage_0：.md)[Storage 0：](./Storage_0：.md)首发日期：2023-05-07 （第二十回 博麗神社例大祭 (未找到链接)）LOLI-0110全长 （一般向）[](./SAKURA_COLOUR.md)[SAKURA COLOUR](./SAKURA_COLOUR.md)首发日期：2024-06-01 （東方紅楼夢19.5 (未找到链接)）LOLI-0120全长 （一般向）Colour Bass
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -122,12 +127,14 @@ Rolling Contact（同人社团，同人音乐社团） - Rolling Contact ，于 
 </table>
 
 
+
 ### MEGALOSPHERE
 [](./MEGALOSPHERE.md)[MEGALOSPHERE](./MEGALOSPHERE.md)首发日期：2023-08-13 （Comic Market 102 (未找到链接)）LOLI-0112全长 （一般向）[](./MEGALOSPHERE_2.md)[MEGALOSPHERE 2](./MEGALOSPHERE_2.md)首发日期：2023-12-31 （Comic Market 103 (未找到链接)）LOLI-0116全长 （一般向）
 <table><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ### Quicksilver Anthem
@@ -140,12 +147,14 @@ Rolling Contact（同人社团，同人音乐社团） - Rolling Contact ，于 
 </table>
 
 
+
 ### Distorted Terror
 [](./Distorted_Terror.md)[Distorted Terror](./Distorted_Terror.md)首发日期：2015-12-30 （Comic Market 89 (未找到链接)）LOLI-0055全长 （一般向）[](./Distorted_Terror_2.md)[Distorted Terror 2](./Distorted_Terror_2.md)首发日期：2020-10-11 （東方紅楼夢16 (未找到链接)）LOLI-0090全长 （一般向）
 <table><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ### Psychedelic Shrine
@@ -160,12 +169,14 @@ Rolling Contact（同人社团，同人音乐社团） - Rolling Contact ，于 
 </table>
 
 
+
 ### TOHO Glitch
 [](./TOHO_Glitch.md)[TOHO Glitch](./TOHO_Glitch.md)首发日期：2014-12-29 （Comic Market 87 (未找到链接)）LOLI-0046全长 （一般向）[](./TOHO_Glitch_2.md)[TOHO Glitch 2](./TOHO_Glitch_2.md)首发日期：2020-05-05 （エアコミケ98 (未找到链接)）LOLI-0086全长 （一般向）
 <table><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ### Progressive Starbow
@@ -178,6 +189,7 @@ Rolling Contact（同人社团，同人音乐社团） - Rolling Contact ，于 
 </table>
 
 
+
 ### TOUHOU meets
 [](./TOUHOU_meets_HARDCORE_1.md)[TOUHOU meets HARDCORE 1](./TOUHOU_meets_HARDCORE_1.md)首发日期：2013-05-26 （第十回 博麗神社例大祭 (未找到链接)）LOLI-0035全长、​合作 （一般向）[](./TOUHOU_meets_TRANCE_1.md)[TOUHOU meets TRANCE 1](./TOUHOU_meets_TRANCE_1.md)首发日期：2013-08-12 （Comic Market 84 (未找到链接)）LOLI-0036全长 （一般向）[](./TOUHOU_meets_HARDCORE_2.md)[TOUHOU meets HARDCORE 2](./TOUHOU_meets_HARDCORE_2.md)首发日期：2013-12-30 （Comic Market 85 (未找到链接)）LOLI-0039全长 （一般向）
 <table><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
@@ -186,6 +198,7 @@ Rolling Contact（同人社团，同人音乐社团） - Rolling Contact ，于 
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ### Dream Blossom
@@ -198,6 +211,7 @@ Rolling Contact（同人社团，同人音乐社团） - Rolling Contact ，于 
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ### Twisted Bouncer
@@ -220,6 +234,7 @@ Rolling Contact（同人社团，同人音乐社团） - Rolling Contact ，于 
 </table>
 
 
+
 ### ぶちあげアップデート
 [](./ぶちあげアップデート!.md)[ぶちあげアップデート!](./ぶちあげアップデート!.md)首发日期：2016-12-29 （Comic Market 91 (未找到链接)）LOLI-0060混音集 （一般向）[](./ぶちあげアップデート！2.md)[ぶちあげアップデート！2](./ぶちあげアップデート！2.md)首发日期：2017-05-07 （第十四回 博麗神社例大祭 (未找到链接)）LOLI-0062混音集 （一般向）[](./ぶちあげアップデート！3.md)[ぶちあげアップデート！3](./ぶちあげアップデート！3.md)首发日期：2018-05-06 （第十五回 博麗神社例大祭 (未找到链接)）LOLI-0068混音集 （一般向）
 <table><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
@@ -228,6 +243,7 @@ Rolling Contact（同人社团，同人音乐社团） - Rolling Contact ，于 
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ### HEAVEN's SOUND
@@ -252,6 +268,7 @@ Rolling Contact（同人社团，同人音乐社团） - Rolling Contact ，于 
 </table>
 
 
+
 ### Out of the Box
 [](./OUT_OF_THE_BOX.md)[OUT OF THE BOX](./OUT_OF_THE_BOX.md)首发日期：2015-10-18 （第二回 博麗神社秋季例大祭 (未找到链接)）LOLI-0053全长 （一般向）[](./Out_of_the_Box_2.md)[Out of the Box 2](./Out_of_the_Box_2.md)首发日期：2016-08-13 （Comic Market 90 (未找到链接)）LOLI-0057全长 （一般向）[](./Out_of_the_Box_3.md)[Out of the Box 3](./Out_of_the_Box_3.md)首发日期：2018-08-10 （Comic Market 94 (未找到链接)）LOLI-0070全长 （一般向）
 <table><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
@@ -260,6 +277,7 @@ Rolling Contact（同人社团，同人音乐社团） - Rolling Contact ，于 
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ### Yabba Ragga Toho
@@ -272,6 +290,7 @@ Rolling Contact（同人社团，同人音乐社团） - Rolling Contact ，于 
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ### B／M
@@ -294,6 +313,7 @@ Rolling Contact（同人社团，同人音乐社团） - Rolling Contact ，于 
 </table>
 
 
+
 ### ELECTRO CUTE
 [](./ELECTRO_CUTE.md)[ELECTRO CUTE](./ELECTRO_CUTE.md)首发日期：2011-12-30 （Comic Market 81 (未找到链接)）LOLI-0025全长 （一般向）[](./ELECTRO_CUTE_2.md)[ELECTRO CUTE 2](./ELECTRO_CUTE_2.md)首发日期：2014-05-11 （第十一回 博麗神社例大祭 (未找到链接)）LOLI-0043全长 （一般向）[](./ELECTRO_CUTE_3.md)[ELECTRO CUTE 3](./ELECTRO_CUTE_3.md)首发日期：2015-08-14 （Comic Market 88 (未找到链接)）LOLI-0052全长 （一般向）[](./ELECTRO_CUTE_4.md)[ELECTRO CUTE 4](./ELECTRO_CUTE_4.md)首发日期：2019-08-12 （Comic Market 96 (未找到链接)）LOLI-0078全长 （一般向）[](./ELECTRO_CUTE_5.md)[ELECTRO CUTE 5](./ELECTRO_CUTE_5.md)首发日期：2021-03-21 （第十八回 博麗神社例大祭 (未找到链接)）LOLI-0094全长 （一般向）[](./ELECTRO_CUTE_6.md)[ELECTRO CUTE 6](./ELECTRO_CUTE_6.md)首发日期：2022-06-05 （東方名華祭16 (未找到链接)）LOLI-0104全长 （一般向）[](./ELECTRO_CUTE_7.md)[ELECTRO CUTE 7](./ELECTRO_CUTE_7.md)首发日期：2024-05-03 （第二十一回 博麗神社例大祭 (未找到链接)）LOLI-0119全长 （一般向）
 <table><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
@@ -310,6 +330,7 @@ Rolling Contact（同人社团，同人音乐社团） - Rolling Contact ，于 
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ### HARDCORE BARRAGE
@@ -344,12 +365,14 @@ Rolling Contact（同人社团，同人音乐社团） - Rolling Contact ，于 
 </table>
 
 
+
 ### 東方俗楽譚
 [](./東方俗楽譚-其の弐-.md)[東方俗楽譚-其の弐-](./東方俗楽譚-其の弐-.md)首发日期：2009-03-08 （第六回 博麗神社例大祭 (未找到链接)）LOLI-0010全长 （一般向）[](./東方俗楽譚_-其の参-.md)[東方俗楽譚 -其の参-](./東方俗楽譚_-其の参-.md)首发日期：2012-12-30 （Comic Market 83 (未找到链接)）LOLI-0033全长 （一般向）
 <table><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ### Best
@@ -368,6 +391,7 @@ Rolling Contact（同人社团，同人音乐社团） - Rolling Contact ，于 
 </table>
 
 
+
 ### Promo &amp; Preview
 [](./Rolling_Contact_Promotion_2012.md)[Rolling Contact Promotion 2012](./Rolling_Contact_Promotion_2012.md)首发日期：2012-08-11 （Comic Market 82 (未找到链接)）RCCD-0001混音集 （一般向）[](./Rolling_Contact_Promotion_2015.md)[Rolling Contact Promotion 2015](./Rolling_Contact_Promotion_2015.md)首发日期：2015-08-14 （Comic Market 88 (未找到链接)）RCCD-0006全长 （一般向）[](./Rolling_Contact_Promotion_Mix_2017.md)[Rolling Contact Promotion Mix 2017](./Rolling_Contact_Promotion_Mix_2017.md)首发日期：2017-08-11 （Comic Market 92 (未找到链接)）RCCD-0008精选集、​全长 （一般向）[](./For_The_First_Time_In_Four_Years.md)[For The First Time In Four Years](./For_The_First_Time_In_Four_Years.md)首发日期：2023-11-12 （第十回 博麗神社秋季例大祭 (未找到链接)）RCCD-0009Demo （一般向）
 <table><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
@@ -380,10 +404,12 @@ Rolling Contact（同人社团，同人音乐社团） - Rolling Contact ，于 
 </table>
 
 
+
 ## 其他信息
   
 前身为同人社团 [Angelic Quasar](./Angelic_Quasar.md)
   
+
 
 ## 参展信息
 

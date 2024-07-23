@@ -4,7 +4,8 @@
 
 C.S.C→luv ，于 2005 年成立，主要制作 同人音乐 的日本同人社团，主催是 少女ロマンス，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -15,15 +16,18 @@ C.S.C→luv ，于 2005 年成立，主要制作 同人音乐 的日本同人社
 
 
 
+
 ## 社团信息
 [](./文件-C.S.C→luv_banner.gif.md)  [](./文件-C.S.C→luv_banner.gif.md)Banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> C.S.C→luv </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2005</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=%E5%B0%91%E5%A5%B3%E3%83%AD%E3%83%9E%E3%83%B3%E3%82%B9&amp;action=edit&amp;redlink=1" class="new" title="少女ロマンス（页面不存在）">少女ロマンス</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://sound.jp/csc-luv/">http://sound.jp/csc-luv/</a> </td></tr></tbody></table>
 
 C.S.C→luv（同人社团，同人音乐社团） - C.S.C→luv ，于 2005 年成立，主要制作 同人音乐 的日本同人社团，主催是 少女ロマンス，当前状态为 活动
+
 ## 成员名单
 - 少女ロマンス (未找到链接)
 - [Reflections](./reflections（Sound_CYCLONE）.md)
+
 
 ## 作品列表
 [](./NEW_WAVE_OF_NEW_WAVE_vol.1.md)[NEW WAVE OF NEW WAVE vol.1](./NEW_WAVE_OF_NEW_WAVE_vol.1.md)首发日期：2005-12-30 （Comic Market 69 (未找到链接)）CLCD-0001EP （一般向）NEW WAVE OF NEW WAVE vol.2 Preview Disc 封面图片 (未找到链接)[NEW WAVE OF NEW WAVE vol.2 Preview Disc](./NEW_WAVE_OF_NEW_WAVE_vol.2_Preview_Disc.md)首发日期：2006-01-29 （SunshineCreation30 (未找到链接)）CLCD-0002Demo （一般向）[](./NEW_WAVE_OF_NEW_WAVE_vol.2.md)[NEW WAVE OF NEW WAVE vol.2](./NEW_WAVE_OF_NEW_WAVE_vol.2.md)首发日期：2006-05-21 （第三回 博麗神社例大祭 (未找到链接)）CLCD-0003EP （一般向）[](./NEW_WAVE_OF_NEW_WAVE_vol.3.md)[NEW WAVE OF NEW WAVE vol.3](./NEW_WAVE_OF_NEW_WAVE_vol.3.md)首发日期：2006-08-13 （Comic Market 70 (未找到链接)）CLCD-0004EP （一般向）[](./こんなんですみませんCD.md)[こんなんですみませんCD](./こんなんですみませんCD.md)首发日期：2006-12-31 （Comic Market 71 (未找到链接)）Omake （一般向）[](./まじゴメンこんなんで許してCD.md)[まじゴメンこんなんで許してCD](./まじゴメンこんなんで許してCD.md)首发日期：2007-05-20 （第四回 博麗神社例大祭 (未找到链接)）Omake （一般向）[](./東方_NEW_WAVE.md)[東方 NEW WAVE](./東方_NEW_WAVE.md)首发日期：2007-12-31 （Comic Market 73 (未找到链接)）EP （一般向）[](./triadic_operation.md)[triadic operation](./triadic_operation.md)首发日期：2008-05-25 （第五回 博麗神社例大祭 (未找到链接)）CSCD-005EP （一般向）[](./hysterical_object.md)[hysterical object](./hysterical_object.md)首发日期：2008-08-16 （Comic Market 74 (未找到链接)）CSCD-006全长 （一般向）[](./文々衛星.md)[文々衛星](./文々衛星.md)首发日期：2009-08-15 （Comic Market 76 (未找到链接)）CSCD-008全长 （一般向）[](./U.S.J.md)[U.S.J](./U.S.J.md)首发日期：2009-10-11 （東方紅楼夢5 (未找到链接)）Demo （一般向）[](./Good_Bye....md)[Good Bye...](./Good_Bye....md)首发日期：2010-03-14 （第七回 博麗神社例大祭 (未找到链接)）CSCD-010EP （一般向）
@@ -51,6 +55,7 @@ C.S.C→luv（同人社团，同人音乐社团） - C.S.C→luv ，于 2005 年
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 其他信息

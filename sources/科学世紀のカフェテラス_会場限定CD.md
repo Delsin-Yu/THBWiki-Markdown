@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-科学世紀のカフェテラス_会場限定CD封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/9/96/%E7%A7%91%E5%AD%A6%E4%B8%96%E7%B4%80%E3%81%AE%E3%82%AB%E3%83%95%E3%82%A7%E3%83%86%E3%83%A9%E3%82%B9_%E4%BC%9A%E5%A0%B4%E9%99%90%E5%AE%9ACD%E5%B0%81%E9%9D%A2.jpg/224px-%E7%A7%91%E5%AD%A6%E4%B8%96%E7%B4%80%E3%81%AE%E3%82%AB%E3%83%95%E3%82%A7%E3%83%86%E3%83%A9%E3%82%B9_%E4%BC%9A%E5%A0%B4%E9%99%90%E5%AE%9ACD%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="210" srcset="https://upload.thwiki.cc/thumb/9/96/%E7%A7%91%E5%AD%A6%E4%B8%96%E7%B4%80%E3%81%AE%E3%82%AB%E3%83%95%E3%82%A7%E3%83%86%E3%83%A9%E3%82%B9_%E4%BC%9A%E5%A0%B4%E9%99%90%E5%AE%9ACD%E5%B0%81%E9%9D%A2.jpg/336px-%E7%A7%91%E5%AD%A6%E4%B8%96%E7%B4%80%E3%81%AE%E3%82%AB%E3%83%95%E3%82%A7%E3%83%86%E3%83%A9%E3%82%B9_%E4%BC%9A%E5%A0%B4%E9%99%90%E5%AE%9ACD%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/9/96/%E7%A7%91%E5%AD%A6%E4%B8%96%E7%B4%80%E3%81%AE%E3%82%AB%E3%83%95%E3%82%A7%E3%83%86%E3%83%A9%E3%82%B9_%E4%BC%9A%E5%A0%B4%E9%99%90%E5%AE%9ACD%E5%B0%81%E9%9D%A2.jpg/448px-%E7%A7%91%E5%AD%A6%E4%B8%96%E7%B4%80%E3%81%AE%E3%82%AB%E3%83%95%E3%82%A7%E3%83%86%E3%83%A9%E3%82%B9_%E4%BC%9A%E5%A0%B4%E9%99%90%E5%AE%9ACD%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="562" data-file-height="526"></a><div class="cover-char">角色：<a href="./宇佐见莲子.md" title="宇佐见莲子">宇佐见莲子</a>，<a href="./玛艾露贝莉·赫恩.md" title="玛艾露贝莉·赫恩">玛艾露贝莉·赫恩</a></div></td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/pizuya/status/792338785358852096">https://twitter.com/pizuya/status/792338785358852096</a></td></tr></tbody></table>
 
 科学世紀のカフェテラス 会場限定CD（同人专辑，Pizuya's Cell，2016） - 2016年10月30日 由 Pizuya's Cell 于 科学世纪的露天咖啡座6 发布的单曲同人专辑，分级为 一般向
+
 ## Staff
   
  **Arrangement**   
@@ -24,9 +26,11 @@
 Illustration
 : 普透明度
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="アウトサイダーカクテル" colspan="2" class="title">アウトサイダーカクテル<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Pizuya's Cell&amp;ogmusic=アウトサイダーカクテル&amp;fromwiki=科学世紀のカフェテラス_会場限定CD"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Pizuya's_Cell.md" title="Pizuya&#39;s Cell">Pizuya's Cell</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Pizuya's Cell&amp;fromwiki=科学世紀のカフェテラス_会場限定CD"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=アウトサイダーカクテル&amp;fromwiki=科学世紀のカフェテラス_会場限定CD"><span></span></a></span><div class="ogmusic"><a href="/%E3%82%A2%E3%82%A6%E3%83%88%E3%82%B5%E3%82%A4%E3%83%80%E3%83%BC%E3%82%AB%E3%82%AF%E3%83%86%E3%83%AB" class="mw-redirect" title="アウトサイダーカクテル">アウトサイダーカクテル</a></div><div class="source"><a href="/%E6%97%A7%E7%BA%A6%E9%85%92%E9%A6%86_%EF%BD%9E_Dateless_Bar_%22Old_Adam%22." class="mw-redirect" title="旧约酒馆 ～ Dateless Bar &quot;Old Adam&quot;.">旧约酒馆　～ Dateless Bar "Old Adam".</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="アウトサイダーカクテル" colspan="2" class="title">アウトサイダーカクテル<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Pizuya's Cell&amp;ogmusic=アウトサイダーカクテル&amp;fromwiki=科学世紀のカフェテラス_会場限定CD"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Pizuya's_Cell.md" title="Pizuya&#39;s Cell">Pizuya's Cell</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Pizuya's Cell&amp;fromwiki=科学世紀のカフェテラス_会場限定CD"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=アウトサイダーカクテル&amp;fromwiki=科学世紀のカフェテラス_会場限定CD"><span></span></a></span><div class="ogmusic"><a href="./アウトサイダーカクテル.md" class="mw-redirect" title="アウトサイダーカクテル">アウトサイダーカクテル</a></div><div class="source"><a href="./旧约酒馆_～_Dateless_Bar_-Old_Adam-..md" class="mw-redirect" title="旧约酒馆 ～ Dateless Bar &quot;Old Adam&quot;.">旧约酒馆　～ Dateless Bar "Old Adam".</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

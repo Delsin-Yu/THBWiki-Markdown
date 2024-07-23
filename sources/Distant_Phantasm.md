@@ -4,8 +4,9 @@
 
 Distant Phantasm 从2011年开始，在 国际 举办的 音乐Only 东方同人创作活动，每年3次，目前共举办了6届
 
-本页是关于 **同人展会 (未找到链接)**   
-及 **相关活动 (未找到链接)** 的词条
+本页是关于 **[同人展会](./同人展会.md#展会类活动)**   
+及 **[相关活动](./相关活动.md)** 的词条
+
 ## 目录
 
 - [1 概述](#概述)
@@ -22,6 +23,7 @@ Distant Phantasm 从2011年开始，在 国际 举办的 音乐Only 东方同人
 
 
 
+
 ## 概述
   
 <big> **Distant Phantasm** </big>，官方简称为 **DP** 。  
@@ -29,7 +31,7 @@ Distant Phantasm 从2011年开始，在 国际 举办的 音乐Only 东方同人
   
   
   
- **音乐** Only东方 **同人创作类活动 (未找到链接)** 。  
+ **音乐** Only东方 **同人[创作类活动](./创作类活动.md#创作类活动)** 。  
   
 在线上举办，从2011年开始，每年3次，每次持续31-33[^cite_note-1]天。  
 免费入场。  
@@ -47,6 +49,7 @@ Distant Phantasm 从2011年开始，在 国际 举办的 音乐Only 东方同人
 官方SoundCloud： [https://soundcloud.com/dphantasm](https://soundcloud.com/dphantasm) （需要翻墙）   
   
 Distant Phantasm（活动，创作活动） - Distant Phantasm 从2011年开始，在 国际 举办的 音乐Only 东方同人创作活动，每年3次，目前共举办了6届
+
 ## 历届信息
 - 点击届数可进入对应分类页面。
 
@@ -62,7 +65,9 @@ Distant Phantasm（活动，创作活动） - Distant Phantasm 从2011年开始�
 </tbody></table>
 
 
+
 ## 作品列表
+
 ### 同人专辑
 Distant Phantasm -1st- 封面图片 (未找到链接)[Distant Phantasm -1st-](./Distant_Phantasm_-1st-.md)首发日期：2011-06-30 （Distant Phantasm 1 (未找到链接)）全长 （一般向）该作品是与 [Distant Phantasm（同人社团）](./Distant_Phantasm（同人社团）.md) 合作创作的Distant Phantasm -2nd- 封面图片 (未找到链接)[Distant Phantasm -2nd-](./Distant_Phantasm_-2nd-.md)首发日期：2011-08-20 （Distant Phantasm 2 (未找到链接)）全长 （一般向）该作品是与 [Distant Phantasm（同人社团）](./Distant_Phantasm（同人社团）.md) 合作创作的Distant Phantasm -3rd- 封面图片 (未找到链接)[Distant Phantasm -3rd-](./Distant_Phantasm_-3rd-.md)首发日期：2012-01-20 （Distant Phantasm 3 (未找到链接)）全长 （一般向）该作品是与 [Distant Phantasm（同人社团）](./Distant_Phantasm（同人社团）.md) 合作创作的Distant Phantasm -4th- 封面图片 (未找到链接)[Distant Phantasm -4th-](./Distant_Phantasm_-4th-.md)首发日期：2012-04-16 （Distant Phantasm 4 (未找到链接)）全长 （一般向）该作品是与 [Distant Phantasm（同人社团）](./Distant_Phantasm（同人社团）.md) 合作创作的Distant Phantasm -5th- 封面图片 (未找到链接)[Distant Phantasm -5th-](./Distant_Phantasm_-5th-.md)首发日期：2012-06-15 （Distant Phantasm 5 (未找到链接)）全长 （一般向）该作品是与 [Distant Phantasm（同人社团）](./Distant_Phantasm（同人社团）.md) 合作创作的Distant Phantasm -6th- 封面图片 (未找到链接)[Distant Phantasm -6th-](./Distant_Phantasm_-6th-.md)首发日期：2012-10-15 （Distant Phantasm 6 (未找到链接)）全长 （一般向）该作品是与 [Distant Phantasm（同人社团）](./Distant_Phantasm（同人社团）.md) 合作创作的
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -77,6 +82,7 @@ Distant Phantasm -1st- 封面图片 (未找到链接)[Distant Phantasm -1st-](./
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 历届宣传图

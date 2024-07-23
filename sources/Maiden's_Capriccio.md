@@ -4,7 +4,8 @@
 
 Maiden's Cappricio ，于 2015 年成立，主要制作 同人音乐 的美国同人社团，主催是 ArmpitMaiden，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -15,14 +16,17 @@ Maiden's Cappricio ，于 2015 年成立，主要制作 同人音乐 的美国�
 
 
 
+
 ## 社团信息
 文件:Maiden's Capricciobanner.jpg (未找到链接)  banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Maiden&#39;s Cappricio </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2015</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="./ArmpitMaiden.md" title="ArmpitMaiden">ArmpitMaiden</a> </td></tr><tr><td><b>地区</b></td><td>美国</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://kuroblood.bandcamp.com/">http://kuroblood.bandcamp.com/</a> </td></tr></tbody></table>
 
 Maiden's Capriccio（同人社团，同人音乐社团） - Maiden's Cappricio ，于 2015 年成立，主要制作 同人音乐 的美国同人社团，主催是 ArmpitMaiden，当前状态为 活动
+
 ## 成员名单
 - [ArmpitMaiden](./ArmpitMaiden.md)
+
 
 ## 作品列表
 [](./Beginning_of_the_East.md)[Beginning of the East](./Beginning_of_the_East.md)首发日期：2015-12-12 EP （一般向）[](./Beloved_Birthday_Girl_~_The_Strongest.md)[Beloved Birthday Girl ~ The Strongest](./Beloved_Birthday_Girl_~_The_Strongest.md)首发日期：2016-09-09 单曲 （一般向）[](./The_Misadventures_of_a_Velvet_Magician_~_Piano_Solo_Phantasma.md)[The Misadventures of a Velvet Magician ~ Piano Solo Phantasma](./The_Misadventures_of_a_Velvet_Magician_~_Piano_Solo_Phantasma.md)首发日期：2016-06-16 单曲 （一般向）[](./Journey_~_World_Symphonies_E.P..md)[Journey ~ World Symphonies E.P.](./Journey_~_World_Symphonies_E.P..md)首发日期：2016-07-20 EP （一般向）[](./尊_~_Eastern_Wonderland.md)[尊 ~ Eastern Wonderland](./尊_~_Eastern_Wonderland.md)首发日期：2017-08-11 全长 （一般向）网络发布[](./Taub_Für_Alle,_aber_ihr_Lied_~_Spatz_der_Nacht_(Single).md)[Taub Für Alle, aber ihr Lied ~ Spatz der Nacht (Single)](./Taub_Für_Alle,_aber_ihr_Lied_~_Spatz_der_Nacht_(Single).md)首发日期：2017-09-28 单曲 （一般向）[](./Highest_Peak_of_Enlightenment.md)[Highest Peak of Enlightenment](./Highest_Peak_of_Enlightenment.md)首发日期：2017-12-31 全长 （一般向）[](./自由な精神_~_To_Drink_From_Life_Itself.md)[自由な精神 ~ To Drink From Life Itself](./自由な精神_~_To_Drink_From_Life_Itself.md)首发日期：2018-05-06 单曲 （一般向）[](./End_of_Summer_~_永遠.md)[End of Summer ~ 永遠](./End_of_Summer_~_永遠.md)首发日期：2018-08-10 单曲 （一般向）[](./咲く.md)[咲く](./咲く.md)首发日期：2019-08-18 EP （一般向）
@@ -46,6 +50,7 @@ Maiden's Capriccio（同人社团，同人音乐社团） - Maiden's Cappricio �
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 其他信息

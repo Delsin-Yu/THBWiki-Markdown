@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-GJ舞封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/2/2e/GJ%E8%88%9E%E5%B0%81%E9%9D%A2.png/146px-GJ%E8%88%9E%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="146" height="196" srcset="https://upload.thwiki.cc/thumb/2/2e/GJ%E8%88%9E%E5%B0%81%E9%9D%A2.png/219px-GJ%E8%88%9E%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/2/2e/GJ%E8%88%9E%E5%B0%81%E9%9D%A2.png/292px-GJ%E8%88%9E%E5%B0%81%E9%9D%A2.png 2x" data-file-width="443" data-file-height="595"></a><div class="cover-char">角色：<a href="./米斯蒂娅·萝蕾拉.md" title="米斯蒂娅·萝蕾拉">米斯蒂娅·萝蕾拉</a>，<a href="./蕾蒂·霍瓦特洛克.md" title="蕾蒂·霍瓦特洛克">蕾蒂·霍瓦特洛克</a>，<a href="./风见幽香.md" title="风见幽香">风见幽香</a>，<a href="./射命丸文.md" title="射命丸文">射命丸文</a></div></td>
@@ -14,11 +15,13 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://ch-kiko.exout.net/publication/publication.html">http://ch-kiko.exout.net/publication/publication.html</a><br><a rel="nofollow" class="external free" href="http://kikonissi.seesaa.net/article/411035208.html">http://kikonissi.seesaa.net/article/411035208.html</a></td></tr></tbody></table>
 
 GJ舞（同人志，中途半端機構，2014） - 2014年12月29日 由 中途半端機構 于 Comic Market 87 发布的小说同人志，文库版尺寸一共120页，分级为 一般向
+
 ## Staff
 小说
 : 切羽つまる (未找到链接)（[中途半端機構](./中途半端機構.md)）
 插画
 : 空きゅうり (未找到链接)（[紺青色](./紺青色.md)）
+
 
 ## 评论
 - 作者
@@ -26,6 +29,7 @@ GJ舞（同人志，中途半端機構，2014） - 2014年12月29日 由 中途�
 ```
 ミスティアの屋台での日常
 4頁1話形式の4コマ小説。GJ部オマージュ```
+
 
 ## 其他
   

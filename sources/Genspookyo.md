@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Genspookyo封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/a/ab/Genspookyo%E5%B0%81%E9%9D%A2.jpg/224px-Genspookyo%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="224" srcset="https://upload.thwiki.cc/thumb/a/ab/Genspookyo%E5%B0%81%E9%9D%A2.jpg/336px-Genspookyo%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/a/ab/Genspookyo%E5%B0%81%E9%9D%A2.jpg/448px-Genspookyo%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="3512" data-file-height="3512"></a><div class="cover-char">角色：<a href="./圣白莲.md" title="圣白莲">圣白莲</a>，<a href="/index.php?title=%E5%8E%9F%E5%88%9B%E8%A7%92%E8%89%B2&amp;action=edit&amp;redlink=1" class="new" title="原创角色（页面不存在）">原创角色</a></div></td>
@@ -18,7 +19,9 @@ Genspookyo（同人专辑，Border Of Nightmares，2020） - 2020年11月1日 �
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://borderofnightmares.bandcamp.com/album/genspookyo">bandcamp</a></td></tr></tbody></table>
 
 
+
 ## Staff
+
 ## 试听
 
 <table>
@@ -31,6 +34,7 @@ Genspookyo（同人专辑，Border Of Nightmares，2020） - 2020年11月1日 �
 </td></tr></tbody></table>
 
 
+
 ## 曲目列表
 
 <table><tbody><tr><td id="1" class="info"><b>01</b></td><td id="Silenced" colspan="2" class="title">Silenced<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=Genspookyo"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:25</td></tr>
@@ -39,6 +43,7 @@ Genspookyo（同人专辑，Border Of Nightmares，2020） - 2020年11月1日 �
 <tr><td id="4" class="info"><b>04</b></td><td id="In_Extremis_De_Gensokyo" colspan="2" class="title">In Extremis De Gensokyo<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=Genspookyo"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:56</td></tr>
 <tr><td id="5" class="info"><b>05</b></td><td id="Greenwich_in_the_Spook" colspan="2" class="title">Greenwich in the Spook<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=Genspookyo"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:50</td></tr>
 <tr><td id="6" class="info"><b>06</b></td><td id="Alice&#39;s_Nightmares_Return" colspan="2" class="title">Alice&#39;s Nightmares Return<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=Genspookyo"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:57</td></tr></tbody></table>
+
 
 
 ## 评论

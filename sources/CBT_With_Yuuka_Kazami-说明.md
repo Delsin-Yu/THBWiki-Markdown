@@ -4,12 +4,14 @@
 
 Sigyaad_Team
 
+
 ## 关于这款游戏
   
 This is a unofficial derivative fangame of the Touhou Project. It complies with the official guidelines for derivative work.  
 
 这是[东方project](./东方Project.md)的一个同人游戏 (未找到链接)，它符合[东方Project使用规定案](./东方Project使用规定案.md)。
   
+
 
 ### Features（特点）
   

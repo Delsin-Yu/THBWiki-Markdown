@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-OPEN封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/e/e8/OPEN%E5%B0%81%E9%9D%A2.jpg/152px-OPEN%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="152" height="224" srcset="https://upload.thwiki.cc/thumb/e/e8/OPEN%E5%B0%81%E9%9D%A2.jpg/228px-OPEN%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/e/e8/OPEN%E5%B0%81%E9%9D%A2.jpg/304px-OPEN%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="747" data-file-height="1100"></a><div class="cover-char">角色：<a href="./古明地恋.md" title="古明地恋">古明地恋</a>，<a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/72226153">https://www.pixiv.net/artworks/72226153</a></td></tr></tbody></table>
 
 OPEN（同人志，あまもりウィークリー，2018） - 2018年12月30日 由 あまもりウィークリー 于 Comic Market 95 发布的漫画同人志，A4尺寸一共24页，登场人物有 古明地恋、芙兰朵露·斯卡蕾特，分级为 一般向
+
 ## Staff
 : シクシク (未找到链接)
+
 
 ## 评论
 

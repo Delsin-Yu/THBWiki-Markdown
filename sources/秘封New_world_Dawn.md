@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-秘封New_world_Dawn封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/d/dd/%E7%A7%98%E5%B0%81New_world_Dawn%E5%B0%81%E9%9D%A2.jpg/158px-%E7%A7%98%E5%B0%81New_world_Dawn%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="158" height="224" srcset="https://upload.thwiki.cc/thumb/d/dd/%E7%A7%98%E5%B0%81New_world_Dawn%E5%B0%81%E9%9D%A2.jpg/238px-%E7%A7%98%E5%B0%81New_world_Dawn%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/d/dd/%E7%A7%98%E5%B0%81New_world_Dawn%E5%B0%81%E9%9D%A2.jpg/317px-%E7%A7%98%E5%B0%81New_world_Dawn%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="800" data-file-height="1130"></a><div class="cover-char">角色：<a href="./宇佐见堇子.md" title="宇佐见堇子">宇佐见堇子</a>，<a href="./宇佐见莲子.md" title="宇佐见莲子">宇佐见莲子</a>，<a href="./八云紫.md" title="八云紫">八云紫</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/Kou_Haruaki/status/1056565177666035713">https://twitter.com/Kou_Haruaki/status/1056565177666035713</a><br><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/71395833">https://www.pixiv.net/artworks/71395833</a></td></tr></tbody></table>
 
 秘封New world Dawn（同人志，スプリンタム，2018） - 2018年11月11日 由 スプリンタム 于 科学世纪的露天咖啡座8 发布的漫画同人志，B5尺寸一共64页，登场人物有 宇佐见堇子、博丽灵梦、雾雨魔理沙、八云紫、宇佐见莲子、玛艾露贝莉·赫恩，分级为 一般向
+
 ## Staff
 - 煌ハルアキラ (未找到链接)
+
 
 ## 评论
 

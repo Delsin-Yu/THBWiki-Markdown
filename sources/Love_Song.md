@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Love_Song封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/f/fb/Love_Song%E5%B0%81%E9%9D%A2.jpg/100px-Love_Song%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="100" height="140" srcset="https://upload.thwiki.cc/thumb/f/fb/Love_Song%E5%B0%81%E9%9D%A2.jpg/150px-Love_Song%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/f/fb/Love_Song%E5%B0%81%E9%9D%A2.jpg/200px-Love_Song%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="700" data-file-height="979"></a><div class="cover-char">角色：<a href="./八云紫.md" title="八云紫">八云紫</a>，<a href="./西行寺幽幽子.md" title="西行寺幽幽子">西行寺幽幽子</a></div></td>
@@ -14,9 +15,12 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/27450610">https://www.pixiv.net/artworks/27450610</a></td></tr></tbody></table>
 
 Love Song（同人志，ソーイングセット，2012） - 2012年5月27日 由 ソーイングセット 于 博丽神社例大祭9 发布的漫画同人志，登场人物有 八云紫、西行寺幽幽子，分级为 一般向
+
 ## 预览
+
 ## Staff
 - ゆゆはるこつき (未找到链接)
+
 
 ## 评论
   

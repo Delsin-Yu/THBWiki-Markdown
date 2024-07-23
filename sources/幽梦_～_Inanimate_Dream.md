@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -48,11 +49,13 @@
 
 
 
+
 ## 基本信息
 
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">幽夢　～ Inanimate Dream</td></tr><tr><td><b>译名</b></td><td>幽梦 ～ Inanimate Dream</td></tr><tr><td><b>英文译名</b></td><td>Faint Dream ~ Inanimate Dream</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 幽梦 ～ Inanimate Dream（曲目） - 由 ZUN 创作的官方曲目，原名 幽夢　～ Inanimate Dream
+
 ## 出现作品
 
 <table>
@@ -65,7 +68,9 @@
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 东方幻想乡
   
 YM2203(OPN)，FM26K音源版。
@@ -81,6 +86,7 @@ YM2608(OPNA)，FM86音源版。
 
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th04_15_86.ogg.md" title="文件:th04 15 86.ogg">th04_15_86.ogg</a><br><audio src="https://upload.thwiki.cc/9/97/th04_15_86.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>ST05B.M86</td></tr><tr><td><b>音轨时长</b></td><td>2:32.457</td></tr></tbody></table>
+
 
 
 ### 东方怪绮谈
@@ -100,9 +106,11 @@ YM2608(OPNA)，FM86音源版。
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th05_G_15_86.ogg.md" title="文件:th05 G 15 86.ogg">th05_G_15_86.ogg</a><br><audio src="https://upload.thwiki.cc/6/68/th05_G_15_86.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>G_ST05B.M2</td></tr><tr><td><b>音轨时长</b></td><td>2:32.457</td></tr></tbody></table>
 
 
+
 ### 东方幻想的音乐
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td><a href="./文件-th4_15.mid.md" title="文件:th4 15.mid">th4_15.mid</a></td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th4_15.mp3.md" title="文件:th4 15.mp3">th4_15.mp3</a><br><audio src="https://upload.thwiki.cc/1/14/th4_15.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>th4_15.mid</td></tr><tr><td><b>音轨时长</b></td><td>4:00</td></tr></tbody></table>
+
 
 
 ### 东方幻想怀古曲
@@ -110,10 +118,13 @@ YM2608(OPNA)，FM86音源版。
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-thgs04_15.ogg.md" title="文件:thgs04 15.ogg">thgs04_15.ogg</a><br><audio src="https://upload.thwiki.cc/0/08/thgs04_15.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>th4_15.m</td></tr><tr><td><b>音轨时长</b></td><td>2:32.457</td></tr></tbody></table>
 
 
+
 ### 幺乐团的历史 vol.1
+
 #### DISC A
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-ha01a_15.mp3.md" title="文件:ha01a 15.mp3">ha01a_15.mp3</a><br><audio src="https://upload.thwiki.cc/6/63/ha01a_15.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track15.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>5:14</td></tr></tbody></table>
+
 
 
 #### DISC B
@@ -121,7 +132,9 @@ YM2608(OPNA)，FM86音源版。
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-ha01b_15.mp3.md" title="文件:ha01b 15.mp3">ha01b_15.mp3</a><br><audio src="https://upload.thwiki.cc/7/7c/ha01b_15.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track15.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>4:08</td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 东方幻想乡
 - Music Room (未找到链接)
 
@@ -137,6 +150,7 @@ YM2608(OPNA)，FM86音源版。
 ＺＵＮ（太田）  
 最终boss曲。  
 稍微有点棒啊。
+
 ### 东方怪绮谈
 - Music Room (未找到链接)
 
@@ -147,6 +161,7 @@ YM2608(OPNA)，FM86音源版。
 ＺＵＮ（太田）  
 最终boss曲。  
 稍微有点棒啊。
+
 ### 东方幻想的音乐
 - th4_15.txt (未找到链接)
 
@@ -188,6 +203,7 @@ YM2608(OPNA)，FM86音源版。
 曲子的感想、请求等，这边请  
 　东方幻想空间　「博丽神社」 [http://www16.big.or.jp/~zun/](http://www16.big.or.jp/~zun/)  
 　e-Mail                     zun@big.or.jp
+
 ### 东方幻想怀古曲
 - th4_15pmd.txt (未找到链接)
 
@@ -224,8 +240,11 @@ YM2608(OPNA)，FM86音源版。
 曲子的感想、请求等，这边请  
 　东方幻想空间　「博丽神社」 [http://www16.big.or.jp/~zun/](http://www16.big.or.jp/~zun/)  
 　e-Mail                     zun@big.or.jp
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
   
  **幽夢　～ Inanimate Dream** 
@@ -241,6 +260,7 @@ YM2608(OPNA)，FM86音源版。
 
 - inanimate,单调的，无生命的
   - 与后来的“污秽”可能有联系？
+
 
 
 ### 二次同人数据

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Pink_Vampire封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/f/fd/Pink_Vampire%E5%B0%81%E9%9D%A2.jpg/196px-Pink_Vampire%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="196" height="196" srcset="https://upload.thwiki.cc/thumb/f/fd/Pink_Vampire%E5%B0%81%E9%9D%A2.jpg/294px-Pink_Vampire%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/f/fd/Pink_Vampire%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="300" data-file-height="300"></a><div class="cover-char">角色：<a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a></div></td>
@@ -17,17 +18,21 @@ Pink Vampire（同人专辑，Automatic Colors，2016） - 2016年5月8日 由 A
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="http://www.akibaoo.com/c/item/2500020389553/">Akibaoo</a></td></tr></tbody></table>
 
 
+
 ## Staff
+
 ## 试听
   
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/221666570&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=false"></iframe>
 
   
 
+
 ## 曲目列表
 
 <table><tbody><tr><td id="1" class="info"><b>01</b></td><td id="RETURN_OF_VAMPIRE" colspan="2" class="title">RETURN OF VAMPIRE<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=Pink_Vampire"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr>
 <tr><td id="2" class="info"><b>02</b></td><td id="RETURN_OF_VAMPIRE_2" colspan="2" class="title">RETURN OF VAMPIRE 2<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=Pink_Vampire"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr></tbody></table>
+
 
 
 ## 评论

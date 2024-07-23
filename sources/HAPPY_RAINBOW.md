@@ -18,6 +18,7 @@
 
 
 </center>
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-HAPPY_RAINBOW封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/9/92/HAPPY_RAINBOW%E5%B0%81%E9%9D%A2.jpg/224px-HAPPY_RAINBOW%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="223" srcset="https://upload.thwiki.cc/thumb/9/92/HAPPY_RAINBOW%E5%B0%81%E9%9D%A2.jpg/336px-HAPPY_RAINBOW%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/9/92/HAPPY_RAINBOW%E5%B0%81%E9%9D%A2.jpg/448px-HAPPY_RAINBOW%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="600" data-file-height="597"></a><div class="cover-char">角色：<a href="./蓬莱山辉夜.md" title="蓬莱山辉夜">蓬莱山辉夜</a></div></td>
@@ -25,20 +26,24 @@
 </tr><tr><td class="label">首发日期</td><td>2012-12-30&#160;（<a href="/展会作品列表?e=Comic+Market%2383">Comic Market 83</a>）</td></tr><tr><td class="label">类型</td><td>EP</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>0</td></tr><tr><td class="label">总时长</td><td>00:00</td></tr><tr><td class="label">售价</td><td>会场售价：500日元</td></tr></tbody></table>
 
 HAPPY RAINBOW（同人专辑，EASTARS，2012） - 2012年12月30日 由 EASTARS 于 Comic Market 83 发布的EP同人专辑，分级为 一般向
+
 ## Staff
 Design
 : 设计师 （[网址 社团]）
 Illustration
 : 画师 （[网址 社团]）
 
+
 ## 试听
   
 暂不支援此类型
   
 
+
 ## 曲目列表
 
 <table></table>
+
 
 
 ## 评论

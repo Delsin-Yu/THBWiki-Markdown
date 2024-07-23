@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 软件信息](#软件信息)
@@ -13,6 +14,7 @@
 - [3 PV](#PV)
 - [4 内容页面](#内容页面)
 - [5 评论](#评论)
+
 
 
 
@@ -37,6 +39,7 @@
 </tbody></table>
 
 
+
 ## Staff
 企划、脚本
 : とみやましろ （[TravelFrontier](./TravelFrontier.md)）
@@ -50,17 +53,20 @@
 : C2K （[Last Sphere](./Last_Sphere.md)）
 : Ibiza （[東部開拓地](./東部開拓地.md)）
 
+
 ## PV
   
 <iframe width="100%" height="180" src="https://ext.nicovideo.jp/thumb/sm9268048" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/watch/sm9268048">,</a></iframe>
 
   
 
+
 ## 内容页面
 - 游戏设定与剧情 (未找到链接)
 - 攻略 (未找到链接)
 - 其他信息 (未找到链接)
 - 原声集：東方戦爛華 霊夢の章 ～Independence for Oneself～ オリジナルサウンドトラック (未找到链接)，[New Sky](./New_Sky.md) （未使用曲）
+
 
 ## 评论
 

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-スーパーロボット大戦_TH封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/1/19/%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%A4%A7%E6%88%A6_TH%E5%B0%81%E9%9D%A2.jpg/141px-%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%A4%A7%E6%88%A6_TH%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="141" height="196" srcset="https://upload.thwiki.cc/thumb/1/19/%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%A4%A7%E6%88%A6_TH%E5%B0%81%E9%9D%A2.jpg/211px-%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%A4%A7%E6%88%A6_TH%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/1/19/%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%A4%A7%E6%88%A6_TH%E5%B0%81%E9%9D%A2.jpg/281px-%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%A4%A7%E6%88%A6_TH%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="450" data-file-height="627"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></div></td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://elonsia.blog39.fc2.com/blog-entry-13.html">http://elonsia.blog39.fc2.com/blog-entry-13.html</a></td></tr><tr><td class="label">备注</td><td colspan="2">東方x機戰; 偽機娘小萌イラスト集</td></tr></tbody></table>
 
 スーパーロボット大戦 TH（同人志，White Datura，2009） - 2009年3月22日 由 White Datura 于 上海THONLY1 发布的画集同人志，B5尺寸一共14页，分级为 一般向
+
 ## Staff
 绘画
 : Skade
@@ -24,6 +26,7 @@
 : Keng
 : 雙葉
 : 華誕
+
 
 ## 评论
 

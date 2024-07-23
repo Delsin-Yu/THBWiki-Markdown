@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -41,11 +42,13 @@
 
 
 
+
 ## 基本信息
 
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">オルフェの詩　～ Pseudoclassic</td></tr><tr><td><b>译名</b></td><td>俄耳甫斯的诗 ～ Pseudoclassic</td></tr><tr><td><b>英文译名</b></td><td>Orphic Poetry ~ Pseudoclassic</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 俄耳甫斯的诗 ～ Pseudoclassic（曲目） - 由 ZUN 创作的官方曲目，原名 オルフェの詩　～ Pseudoclassic
+
 ## 出现作品
 
 <table>
@@ -53,10 +56,12 @@
 </tbody></table>
 
 
+
 ## 音乐文件
   
 注：音轨长度以从游戏中提取的原MIDI和WAV文件为准。
   
+
 
 ### WAV版
   
@@ -72,19 +77,24 @@ MP3来源于官方WAV压缩、剪接。
 </td></tr></tbody></table>
 
 
+
 ### MIDI版
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td><a href="./文件-sh02_04.mid.md" title="文件:sh02 04.mid">sh02_04.mid</a></td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-sh02_04.mp3.md" title="文件:sh02 04.mp3">sh02_04.mp3</a><br><audio src="https://upload.thwiki.cc/d/d2/sh02_04.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>MUSIC\kog_03（MIDI）</td></tr><tr><td><b>音轨时长</b></td><td>7:23（MIDI）</td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 稀翁玉
+
 #### Music Room
 - Music Room (未找到链接)
 
 冥＆舞的主题曲  
 到此就有大人的感觉了呐(^^;  
 我有点喜欢那怎么也记不住的高潮旋律。俄耳甫斯的诗　～ Pseudoclassic
+
 #### 创曲幻想
 - 创曲幻想 (未找到链接)
 
@@ -94,8 +104,11 @@ MP3来源于官方WAV压缩、剪接。
 　　Jazzy的成分所以就成这样了。  
 　　我很不喜欢把仿古写成ギコ(^^;。  
 　　题目中的俄耳甫斯和曲子没有任何关系（喂
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
   
  **オルフェの詩　～ Pseudoclassic**  俄耳甫斯的诗　～ Pseudoclassic
@@ -107,6 +120,7 @@ MP3来源于官方WAV压缩、剪接。
 
 - Pseudoclassic
   - Pseudo-：伪、假装的，Classic：古典、经典，乐曲使用大键琴（一种多用于18世纪或以前的古典音乐乐器），但也有近代其它音乐的风格。
+
 
 
 ### 二次同人数据

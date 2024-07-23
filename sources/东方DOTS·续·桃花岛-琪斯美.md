@@ -164,6 +164,7 @@
 [](./文件-THD2琪斯美.png.md)
   
 
+
 ## 目录
 
 - [1 角色定位](#角色定位)
@@ -184,10 +185,12 @@
 
 
 
+
 ## 角色定位
   
 耐久 - 控制 - 爆发 - 先手 - 辅助
   
+
 
 ## 技能介绍
 
@@ -900,6 +903,7 @@
 </td></tr></tbody></table>
 
 
+
 ## 天赋树
 
 
@@ -942,10 +946,12 @@
 “皿数燃尽”附带50%燃烧生命伤害：指附带50%琪斯美实际消耗的生命值的伤害，如果琪斯美由于施放时生命值不足5%反而回复了生命值，则伤害会比不点此天赋时更低。
   
 
+
 ## 玩法参考
   
 天生带来的强大控制能力能在先手时令对手长时间动弹不得，e技能又为自身提供了不俗的坦度，在必要的时候，她还可以释放终极技能来舍身造成巨额伤害，是任何规模团战的好手。缺点是对线能力稍弱，尤其是在对方辅助选择远程少女而己方核心缺少击杀能力的时候，在线上难有作为。
   
+
 
 ### 对线阶段
 
@@ -975,6 +981,7 @@
 4级开始主W<a href="./文件-THD2琪斯美_02.png.md" class="image"><img alt="THD2琪斯美 02.png" src="https://upload.thwiki.cc/thumb/7/7e/THD2%E7%90%AA%E6%96%AF%E7%BE%8E_02.png/60px-THD2%E7%90%AA%E6%96%AF%E7%BE%8E_02.png" decoding="async" loading="lazy" width="60" height="60" srcset="https://upload.thwiki.cc/thumb/7/7e/THD2%E7%90%AA%E6%96%AF%E7%BE%8E_02.png/90px-THD2%E7%90%AA%E6%96%AF%E7%BE%8E_02.png 1.5x, https://upload.thwiki.cc/thumb/7/7e/THD2%E7%90%AA%E6%96%AF%E7%BE%8E_02.png/120px-THD2%E7%90%AA%E6%96%AF%E7%BE%8E_02.png 2x" data-file-width="128" data-file-height="128"></a>副E<a href="./文件-THD2琪斯美_03.png.md" class="image"><img alt="THD2琪斯美 03.png" src="https://upload.thwiki.cc/thumb/2/2e/THD2%E7%90%AA%E6%96%AF%E7%BE%8E_03.png/60px-THD2%E7%90%AA%E6%96%AF%E7%BE%8E_03.png" decoding="async" loading="lazy" width="60" height="60" srcset="https://upload.thwiki.cc/thumb/2/2e/THD2%E7%90%AA%E6%96%AF%E7%BE%8E_03.png/90px-THD2%E7%90%AA%E6%96%AF%E7%BE%8E_03.png 1.5x, https://upload.thwiki.cc/thumb/2/2e/THD2%E7%90%AA%E6%96%AF%E7%BE%8E_03.png/120px-THD2%E7%90%AA%E6%96%AF%E7%BE%8E_03.png 2x" data-file-width="128" data-file-height="128"></a>，提升先手距离的同时降低冷却时间，能让小桶打出更多更好的控制。<br><br>
 </p>
 </td></tr></tbody></table>
+
 
 
 ### 游戏中期
@@ -1018,6 +1025,7 @@
 </td></tr></tbody></table>
 
 
+
 ### 游戏后期
 
 <table>
@@ -1031,6 +1039,7 @@
 25级天赋我喜欢选择-2天生眩晕所需施法次数来增强控制能力，不过另一边的天赋也能为小桶带来质变，会极大增强小桶大招的爆发，有时甚至能一个人毁灭一场团战。配合<a href="./文件-THD2万宝槌.png.md" class="image" title="万宝槌"><img alt="万宝槌" src="https://upload.thwiki.cc/thumb/1/15/THD2%E4%B8%87%E5%AE%9D%E6%A7%8C.png/60px-THD2%E4%B8%87%E5%AE%9D%E6%A7%8C.png" decoding="async" loading="lazy" width="60" height="23" srcset="https://upload.thwiki.cc/thumb/1/15/THD2%E4%B8%87%E5%AE%9D%E6%A7%8C.png/90px-THD2%E4%B8%87%E5%AE%9D%E6%A7%8C.png 1.5x, https://upload.thwiki.cc/thumb/1/15/THD2%E4%B8%87%E5%AE%9D%E6%A7%8C.png/120px-THD2%E4%B8%87%E5%AE%9D%E6%A7%8C.png 2x" data-file-width="168" data-file-height="64"></a>更是强力。
 </p>
 </td></tr></tbody></table>
+
 
 
 ## 技能加点
@@ -1095,6 +1104,7 @@
 </td></tr></tbody></table>
 
 
+
 ## 台词
 
 <table>
@@ -1148,6 +1158,7 @@
 </td>
 <td>
 </td></tr></tbody></table>
+
 
 
 ## 教学视频

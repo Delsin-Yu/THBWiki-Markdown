@@ -4,6 +4,7 @@
 
 遊色高楼
 
+
 ## 符卡
 
 <table><tbody><tr><th><b>中文名</b></th><th><b>日文名</b></th><th><b>出现位置</b></th></tr><tr><td style="width:200px">威光「焰天凤凰」<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">1</a></sup></td><td style="width:200px">威光「焰天鳳凰」</td><td style="width:180px">Easy/Normal/Hard/Lunatic</td></tr>

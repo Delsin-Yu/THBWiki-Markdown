@@ -4,7 +4,8 @@
 
 magic red kids ，主要制作 同人音乐 的日本同人社团，主催是 Little Tanioka，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -21,28 +22,34 @@ magic red kids ，主要制作 同人音乐 的日本同人社团，主催是 Li
 
 
 
+
 ## 社团信息
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> magic red kids </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=Little_Tanioka&amp;action=edit&amp;redlink=1" class="new" title="Little Tanioka（页面不存在）">Little Tanioka</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="https://pictureblue.net/">https://pictureblue.net/</a> <br><a rel="nofollow" class="external free" href="https://twitter.com/pictureblues">https://twitter.com/pictureblues</a><br><a rel="nofollow" class="external free" href="https://pictureblue.booth.pm">https://pictureblue.booth.pm</a><br><a rel="nofollow" class="external free" href="https://soundcloud.com/pictureblue">https://soundcloud.com/pictureblue</a><br><a rel="nofollow" class="external free" href="https://pictureblue.bandcamp.com">https://pictureblue.bandcamp.com</a></td></tr></tbody></table>
 
 magic red kids（同人社团，同人音乐社团） - magic red kids ，主要制作 同人音乐 的日本同人社团，主催是 Little Tanioka，当前状态为 活动
+
 ## 社团简介
   
 同人音乐社团PICTURE BLUE制作东方二次创作使用的名称。
   
+
 
 ## 成员名单
 - Little Tanioka (未找到链接) (a.k.a.  **FLATBED SCANNERDS**  <small>（自己唱歌时使用）</small>)
 
 : [Twitter: @earlyworks2022](https://twitter.com/earlyworks2022), [Youtube: @littletanioka2764](https://www.youtube.com/@littletanioka2764), [NicoNico ID: 125586276](https://www.nicovideo.jp/user/125586276)
 
+
 ## 作品列表
+
 ### 同人专辑
 [](./magic_red_kids（同人专辑）.md)[magic red kids](./magic_red_kids（同人专辑）.md)首发日期：2023-11-12 （第十回 博麗神社秋季例大祭 (未找到链接)）PTBL-0006EP （一般向）[](./the_cherry_blossom_tree.md)[the cherry blossom tree](./the_cherry_blossom_tree.md)首发日期：2023-12-30 （Comic Market 103 (未找到链接)）PTBL-0007全长 （一般向）
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 参展信息

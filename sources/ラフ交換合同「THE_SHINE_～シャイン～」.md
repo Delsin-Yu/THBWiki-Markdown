@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-ラフ交換合同「THE_SHINE_～シャイン～」封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/8/86/%E3%83%A9%E3%83%95%E4%BA%A4%E6%8F%9B%E5%90%88%E5%90%8C%E3%80%8CTHE_SHINE_%EF%BD%9E%E3%82%B7%E3%83%A3%E3%82%A4%E3%83%B3%EF%BD%9E%E3%80%8D%E5%B0%81%E9%9D%A2.png/140px-%E3%83%A9%E3%83%95%E4%BA%A4%E6%8F%9B%E5%90%88%E5%90%8C%E3%80%8CTHE_SHINE_%EF%BD%9E%E3%82%B7%E3%83%A3%E3%82%A4%E3%83%B3%EF%BD%9E%E3%80%8D%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="140" height="196" srcset="https://upload.thwiki.cc/thumb/8/86/%E3%83%A9%E3%83%95%E4%BA%A4%E6%8F%9B%E5%90%88%E5%90%8C%E3%80%8CTHE_SHINE_%EF%BD%9E%E3%82%B7%E3%83%A3%E3%82%A4%E3%83%B3%EF%BD%9E%E3%80%8D%E5%B0%81%E9%9D%A2.png/210px-%E3%83%A9%E3%83%95%E4%BA%A4%E6%8F%9B%E5%90%88%E5%90%8C%E3%80%8CTHE_SHINE_%EF%BD%9E%E3%82%B7%E3%83%A3%E3%82%A4%E3%83%B3%EF%BD%9E%E3%80%8D%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/8/86/%E3%83%A9%E3%83%95%E4%BA%A4%E6%8F%9B%E5%90%88%E5%90%8C%E3%80%8CTHE_SHINE_%EF%BD%9E%E3%82%B7%E3%83%A3%E3%82%A4%E3%83%B3%EF%BD%9E%E3%80%8D%E5%B0%81%E9%9D%A2.png/280px-%E3%83%A9%E3%83%95%E4%BA%A4%E6%8F%9B%E5%90%88%E5%90%8C%E3%80%8CTHE_SHINE_%EF%BD%9E%E3%82%B7%E3%83%A3%E3%82%A4%E3%83%B3%EF%BD%9E%E3%80%8D%E5%B0%81%E9%9D%A2.png 2x" data-file-width="2591" data-file-height="3624"></a><div class="cover-char">角色：<a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a>，<a href="./物部布都.md" title="物部布都">物部布都</a></div></td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://reitaisai12goudou.wixsite.com/rought-change">https://reitaisai12goudou.wixsite.com/rought-change</a></td></tr></tbody></table>
 
 ラフ交換合同「THE SHINE ～シャイン～」（同人志，Cardenal，2015） - 2015年5月10日 由 Cardenal 于 博丽神社例大祭12 发布的合同志/画集同人志，B5尺寸一共24页，分级为 一般向
+
 ## Staff
 - [秋染ハツカ](./秋染ハツカ.md)
 - くずもつ (未找到链接)
@@ -30,6 +32,7 @@
 - しらばの (未找到链接)
 - yasuku (未找到链接)
 - Alfard (未找到链接)
+
 
 ## 评论
 

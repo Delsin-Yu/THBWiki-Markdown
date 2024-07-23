@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-ORANGEMARY_Side：YELLOW封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/4/44/ORANGEMARY_Side%EF%BC%9AYELLOW%E5%B0%81%E9%9D%A2.jpg/139px-ORANGEMARY_Side%EF%BC%9AYELLOW%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="139" height="196" srcset="https://upload.thwiki.cc/thumb/4/44/ORANGEMARY_Side%EF%BC%9AYELLOW%E5%B0%81%E9%9D%A2.jpg/208px-ORANGEMARY_Side%EF%BC%9AYELLOW%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/4/44/ORANGEMARY_Side%EF%BC%9AYELLOW%E5%B0%81%E9%9D%A2.jpg/278px-ORANGEMARY_Side%EF%BC%9AYELLOW%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1417" data-file-height="2000"></a><div class="cover-char">角色：<a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a>，<a href="./爱丽丝·玛格特洛依德.md" title="爱丽丝·玛格特洛依德">爱丽丝·玛格特洛依德</a>，<a href="./帕秋莉·诺蕾姬.md" title="帕秋莉·诺蕾姬">帕秋莉·诺蕾姬</a></div></td>
@@ -17,8 +18,10 @@ ORANGEMARY Side：YELLOW（同人志，KFC，2009） - 2009年12月30日 由 KFC
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://ec.toranoana.jp/tora_r/ec/item/040010203950">虎穴</a></td></tr></tbody></table>
 
 
+
 ## Staff
 - [YU（人物）](./ゆ（同人志）.md)
+
 
 ## 评论
 

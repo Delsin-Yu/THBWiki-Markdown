@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-MAID_MASQUERADE!!封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/1/1b/MAID_MASQUERADE%21%21%E5%B0%81%E9%9D%A2.jpg/168px-MAID_MASQUERADE%21%21%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="168" height="117" srcset="https://upload.thwiki.cc/thumb/1/1b/MAID_MASQUERADE%21%21%E5%B0%81%E9%9D%A2.jpg/252px-MAID_MASQUERADE%21%21%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/1/1b/MAID_MASQUERADE%21%21%E5%B0%81%E9%9D%A2.jpg/336px-MAID_MASQUERADE%21%21%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="2292" data-file-height="1600"></a><div class="cover-char">角色：<a href="/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C" title="十六夜咲夜">十六夜咲夜</a></div></td>
@@ -13,8 +14,10 @@
 </tr><tr><td class="label">首发日期</td><td>2009-05-06&#160;（<a href="/展会作品列表?e=%E7%BA%A2%E6%9C%88%E4%B9%8B%E5%AE%B4%233">紅月ノ宴参</a>）</td></tr><tr><td class="label">类型</td><td>漫画</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>B5</td></tr><tr><td class="label">页数</td><td>24P</td></tr></tbody></table>
 
 MAID MASQUERADE!!（同人志，waterwheel，2009） - 2009年5月6日 由 waterwheel 于 红月之宴3 发布的漫画同人志，B5尺寸一共24页，分级为 一般向
+
 ## Staff
 - 白田太 (未找到链接)
+
 
 ## 评论
 

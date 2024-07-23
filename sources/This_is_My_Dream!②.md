@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-This_is_My_Dream!②封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/5/52/This_is_My_Dream%21%E2%91%A1%E5%B0%81%E9%9D%A2.jpg/141px-This_is_My_Dream%21%E2%91%A1%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="141" height="196" srcset="https://upload.thwiki.cc/thumb/5/52/This_is_My_Dream%21%E2%91%A1%E5%B0%81%E9%9D%A2.jpg/211px-This_is_My_Dream%21%E2%91%A1%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/5/52/This_is_My_Dream%21%E2%91%A1%E5%B0%81%E9%9D%A2.jpg/282px-This_is_My_Dream%21%E2%91%A1%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="736" data-file-height="1024"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>，<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a>，<a href="./琪露诺.md" title="琪露诺">琪露诺</a>，<a href="./鬼人正邪.md" title="鬼人正邪">鬼人正邪</a>，<a href="./封兽鵺.md" title="封兽鵺">封兽鵺</a>，<a href="./高丽野阿吽.md" title="高丽野阿吽">高丽野阿吽</a>，<a href="./因幡帝.md" title="因幡帝">因幡天为</a>，<a href="./铃仙·优昙华院·因幡.md" title="铃仙·优昙华院·因幡">铃仙·优昙华院·因幡</a>，<a href="./露米娅.md" title="露米娅">露米娅</a>，<a href="./大妖精.md" title="大妖精">大妖精</a>，<a href="./米斯蒂娅·萝蕾拉.md" title="米斯蒂娅·萝蕾拉">米斯蒂娅·萝蕾拉</a>，<a href="./莉格露·奈特巴格.md" title="莉格露·奈特巴格">莉格露·奈特巴格</a></div></td>
@@ -14,9 +15,12 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/74557567">https://www.pixiv.net/artworks/74557567</a></td></tr></tbody></table>
 
 This is My Dream!②（同人志，北風ライラック6550，2019） - 2019年5月5日 由 北風ライラック6550 于 博丽神社例大祭16 发布的漫画同人志，一共32页，登场人物有 博丽灵梦、雾雨魔理沙、琪露诺、鬼人正邪、封兽鵺、高丽野阿吽、因幡天为、铃仙·优昙华院·因幡、露米娅、大妖精、米斯蒂娅·萝蕾拉、莉格露·奈特巴格、上白泽慧音，分级为 一般向
+
 ## 预览
+
 ## Staff
 - [浜宮南瓜](./浜宮南瓜.md)
+
 
 ## 评论
 

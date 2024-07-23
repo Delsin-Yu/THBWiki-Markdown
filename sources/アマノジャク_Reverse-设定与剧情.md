@@ -4,6 +4,7 @@
 
 Raichu
 
+
 ## 附带文档
 - [readme.txt](./アマノジャク_Reverse-设定与剧情-readme.md)
 

@@ -4,7 +4,8 @@
 
 2nd Flush（セカンドフラッシュ） ，于 2010 年成立，主要制作 同人音乐 的日本同人社团，主催是 秋ノ，当前状态为 休止
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -15,16 +16,19 @@
 
 
 
+
 ## 社团信息
 [](./文件-2nd_Flush_banner.gif.md)  [](./文件-2nd_Flush_banner.gif.md)Banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> 2nd Flush（セカンドフラッシュ） </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2010</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=%E7%A7%8B%E3%83%8E&amp;action=edit&amp;redlink=1" class="new" title="秋ノ（页面不存在）">秋ノ</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://2ndflush.web.fc2.com/">http://2ndflush.web.fc2.com/</a> <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span></td></tr></tbody></table>
 
 2nd Flush（同人社团，同人音乐社团） - 2nd Flush（セカンドフラッシュ） ，于 2010 年成立，主要制作 同人音乐 的日本同人社团，主催是 秋ノ，当前状态为 休止
+
 ## 成员名单
 - 秋ノ (未找到链接)
 
 : [SoundCloud: akino07](https://soundcloud.com/akino07)
+
 
 ## 作品列表
 [](./Fantasy_Circuit.md)[Fantasy Circuit](./Fantasy_Circuit.md)首发日期：2010-07-19 （月の宴3 (未找到链接)）2NDF-0001EP （一般向）[](./Crystal_Mind_demoCD.md)[Crystal Mind demoCD](./Crystal_Mind_demoCD.md)首发日期：2010-09-05 （ようせいげんき!1 (未找到链接)）Demo （一般向）[](./Crystal_Mind.md)[Crystal Mind](./Crystal_Mind.md)首发日期：2010-09-19 （博麗神社例大祭SP1 (未找到链接)）2NDF-0002EP （一般向）[](./Touhou_Winter.md)[Touhou Winter](./Touhou_Winter.md)首发日期：2010-12-30 （Comic Market 79 (未找到链接)）EP （一般向）[](./Fragment_de_la_lune.md)[Fragment de la lune](./Fragment_de_la_lune.md)首发日期：2011-01-30 （紅のひろば5 (未找到链接)）2DNF-0004全长 （一般向）[](./Rhythmic.md)[Rhythmic](./Rhythmic.md)首发日期：2011-05-08 （第八回 博麗神社例大祭 (未找到链接)）2DNF-0005全长 （一般向）[](./Caprice.md)[Caprice](./Caprice.md)首发日期：2011-05-08 （第八回 博麗神社例大祭 (未找到链接)）EP （一般向）该作品是与 [音乃葉](./音乃葉.md) 合作创作的[](./Caprice＋.md)[Caprice+](./Caprice＋.md)首发日期：2011-05-08 （第八回 博麗神社例大祭 (未找到链接)）2FOT-0003EP、​合作 （一般向）该作品是与 [音乃葉](./音乃葉.md) 合作创作的[](./Dusk.md)[Dusk](./Dusk.md)首发日期：2011-05-22 （七色魔女の人形舞踏会。1 (未找到链接)）Omake （一般向）[](./Imagination.md)[Imagination](./Imagination.md)首发日期：2011-08-13 （Comic Market 80 (未找到链接)）2NDF-0006EP （一般向）[](./Rhythm_of_Infection.md)[Rhythm of Infection](./Rhythm_of_Infection.md)首发日期：2011-08-13 （Comic Market 80 (未找到链接)）GKAR-0001全长、​合作 （一般向）[](./Six_Resonance.md)[Six Resonance](./Six_Resonance.md)首发日期：2011-09-11 （博麗神社例大祭SP2 (未找到链接)）2NDF-0007EP （一般向）Feel You. 封面图片 (未找到链接)[Feel You.](./Feel_You..md)首发日期：2011-12-30 （Comic Market 81 (未找到链接)）单曲 （一般向）[](./Happy_Note.md)[Happy Note](./Happy_Note.md)首发日期：2012-03-18 （小春小径・参 (未找到链接)）MKFL-0001全长、​合作 （一般向）该作品是与 [まかろに☆けちゃっぷ](./まかろに☆けちゃっぷ.md) 合作创作的[](./東方とかオリジナルとか～な突発CD.md)[東方とかオリジナルとか～な突発CD](./東方とかオリジナルとか～な突発CD.md)首发日期：2012-04-22 （山梨コミックチャレンジ18 (未找到链接)）SNDF-0001全长 （一般向）[](./Roulett.md)[Roulett](./Roulett.md)首发日期：2012-05-05 （紅月ノ宴陸 (未找到链接)）2NDF-0008全长 （一般向）[](./Sorairo.md)[Sorairo](./Sorairo.md)首发日期：2012-07-01 （遊音ファンタジウム1 (未找到链接)）2NDF-0009EP （一般向）[](./It.md)[It](./It.md)首发日期：未知 EP （一般向）[](./む・り・や・り.md)[む・り・や・り](./む・り・や・り.md)首发日期：2012-12-30 （Comic Market 83 (未找到链接)）2NDF-0011全长 （一般向） (未找到链接)まだ出来てないけど、とりあえず!そんな感じの、東方アレンジ突発CD! (未找到链接)首发日期：未知 EP （一般向）
@@ -68,6 +72,7 @@
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 参展信息

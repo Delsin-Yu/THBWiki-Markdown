@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-mythos_-紺-封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/4/41/mythos_-%E7%B4%BA-%E5%B0%81%E9%9D%A2.jpg/138px-mythos_-%E7%B4%BA-%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="138" height="196" srcset="https://upload.thwiki.cc/thumb/4/41/mythos_-%E7%B4%BA-%E5%B0%81%E9%9D%A2.jpg/208px-mythos_-%E7%B4%BA-%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/4/41/mythos_-%E7%B4%BA-%E5%B0%81%E9%9D%A2.jpg/277px-mythos_-%E7%B4%BA-%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="318" data-file-height="450"></a><div class="cover-char">角色：<a href="./纯狐.md" title="纯狐">纯狐</a></div></td>
@@ -13,8 +14,10 @@
 </tr><tr><td class="label">首发日期</td><td>2016-08-13&#160;（<a href="/展会作品列表?e=Comic+Market%2390">Comic Market 90</a>）</td></tr><tr><td class="label">类型</td><td>绘本</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>A4</td></tr><tr><td class="label">登场人物</td><td><a href="./清兰.md" title="清兰">清兰</a>，<a href="./铃瑚.md" title="铃瑚">铃瑚</a>，<a href="./哆来咪·苏伊特.md" title="哆来咪·苏伊特">哆来咪·苏伊特</a>，<a href="./稀神探女.md" title="稀神探女">稀神探女</a>，<a href="./克劳恩皮丝.md" title="克劳恩皮丝">克劳恩皮丝</a>，<a href="./纯狐.md" title="纯狐">纯狐</a>，<a href="./赫卡提亚·拉碧斯拉祖利.md" title="赫卡提亚·拉碧斯拉祖利">赫卡提亚·拉碧斯拉祖利</a></td></tr><tr><td class="label">售价</td><td>会场售价：500日元<br>通贩售价：660日元</td></tr></tbody></table>
 
 mythos -紺-（同人志，P-MANS，2016） - 2016年8月13日 由 P-MANS 于 Comic Market 90 发布的绘本同人志，A4尺寸，登场人物有 清兰、铃瑚、哆来咪·苏伊特、稀神探女、克劳恩皮丝、纯狐、赫卡提亚·拉碧斯拉祖利，分级为 一般向
+
 ## Staff
 : [ミユキルリア](./ミユキルリア.md)
+
 
 ## 评论
 

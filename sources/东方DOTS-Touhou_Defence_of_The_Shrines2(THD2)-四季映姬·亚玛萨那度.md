@@ -169,6 +169,7 @@ AvalonStudioOfficial
 [](./文件-THD2四季映姬·亚玛萨那度.png.md)
   
 
+
 ## 目录
 
 - [1 角色定位](#角色定位)
@@ -189,10 +190,12 @@ AvalonStudioOfficial
 
 
 
+
 ## 角色定位
   
 辅助 - 控制 - 核心
   
+
 
 ## 技能介绍
 
@@ -669,6 +672,7 @@ AvalonStudioOfficial
 </td></tr></tbody></table>
 
 
+
 ## 天赋树
 
 
@@ -707,25 +711,30 @@ AvalonStudioOfficial
 </td></tr></tbody></table>
 
 
+
 ### 出门装备
 ```
 [](./文件-THD2鬼天王腰带.png.md) [](./文件-THD2爱人卡.png.md) [](./文件-THD2思兼生命药.png.md)
 ```
+
 
 ### 前期装备
 ```
 [](./文件-THD2很值钱的礼物.png.md) [](./文件-THD2博丽供奉箱.png.md) [](./文件-THD2魔法使扫把.png.md)
 ```
 
+
 ### 核心装备
 ```
 [](./文件-THD2冰精跳跃装置.png.md) [](./文件-THD2替身人偶.png.md) [](./文件-THD2亡灵送行提灯.png.md)
 ```
 
+
 ### 可选装备
 ```
 [](./文件-THD2博丽神社护身符.png.md) [](./文件-THD2奇迹之星.png.md) [](./文件-THD2灾厄之主人形.png.md)
 ```
+
 
 ## 技能加点
 
@@ -873,6 +882,7 @@ AvalonStudioOfficial
 </td></tr></tbody></table>
 
 
+
 ## 台词
 
 <table>
@@ -1001,6 +1011,7 @@ AvalonStudioOfficial
 </td>
 <td>あ～あ、私は閻魔失格（えんましっかく）ってことだよね<br>[  啊~啊，我作为阎魔的失格呢]
 </td></tr></tbody></table>
+
 
 
 ## 教学视频

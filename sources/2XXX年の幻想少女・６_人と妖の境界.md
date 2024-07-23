@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-2XXX年の幻想少女・６_人と妖の境界封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/d/de/2XXX%E5%B9%B4%E3%81%AE%E5%B9%BB%E6%83%B3%E5%B0%91%E5%A5%B3%E3%83%BB%EF%BC%96_%E4%BA%BA%E3%81%A8%E5%A6%96%E3%81%AE%E5%A2%83%E7%95%8C%E5%B0%81%E9%9D%A2.jpg/139px-2XXX%E5%B9%B4%E3%81%AE%E5%B9%BB%E6%83%B3%E5%B0%91%E5%A5%B3%E3%83%BB%EF%BC%96_%E4%BA%BA%E3%81%A8%E5%A6%96%E3%81%AE%E5%A2%83%E7%95%8C%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="139" height="196" srcset="https://upload.thwiki.cc/thumb/d/de/2XXX%E5%B9%B4%E3%81%AE%E5%B9%BB%E6%83%B3%E5%B0%91%E5%A5%B3%E3%83%BB%EF%BC%96_%E4%BA%BA%E3%81%A8%E5%A6%96%E3%81%AE%E5%A2%83%E7%95%8C%E5%B0%81%E9%9D%A2.jpg/209px-2XXX%E5%B9%B4%E3%81%AE%E5%B9%BB%E6%83%B3%E5%B0%91%E5%A5%B3%E3%83%BB%EF%BC%96_%E4%BA%BA%E3%81%A8%E5%A6%96%E3%81%AE%E5%A2%83%E7%95%8C%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/d/de/2XXX%E5%B9%B4%E3%81%AE%E5%B9%BB%E6%83%B3%E5%B0%91%E5%A5%B3%E3%83%BB%EF%BC%96_%E4%BA%BA%E3%81%A8%E5%A6%96%E3%81%AE%E5%A2%83%E7%95%8C%E5%B0%81%E9%9D%A2.jpg/278px-2XXX%E5%B9%B4%E3%81%AE%E5%B9%BB%E6%83%B3%E5%B0%91%E5%A5%B3%E3%83%BB%EF%BC%96_%E4%BA%BA%E3%81%A8%E5%A6%96%E3%81%AE%E5%A2%83%E7%95%8C%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="852" data-file-height="1200"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>，<a href="./比那名居天子.md" title="比那名居天子">比那名居天子</a>，<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a>，<a href="./魅魔.md" title="魅魔">魅魔</a>，<a href="./宇佐见堇子.md" title="宇佐见堇子">宇佐见堇子</a>，<a href="./稗田阿求.md" title="稗田阿求">稗田阿求</a></div></td>
@@ -18,11 +19,13 @@
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=694877">蜜瓜</a></td></tr></tbody></table>
 
 
+
 ## Staff
 作家
 : 仮面の男 （[La Mort Rouge](./La_Mort_Rouge.md)）
 画师
 : [EO](./EO.md)
+
 
 ## 评论
 

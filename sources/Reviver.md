@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Reviver封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/b/b8/Reviver%E5%B0%81%E9%9D%A2.jpg/139px-Reviver%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="139" height="196" srcset="https://upload.thwiki.cc/thumb/b/b8/Reviver%E5%B0%81%E9%9D%A2.jpg/208px-Reviver%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/b/b8/Reviver%E5%B0%81%E9%9D%A2.jpg/278px-Reviver%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="850" data-file-height="1200"></a><div class="cover-char">角色：<a href="./丰聪耳神子.md" title="丰聪耳神子">丰聪耳神子</a>，<a href="./苏我屠自古.md" title="苏我屠自古">苏我屠自古</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/107761571">https://www.pixiv.net/artworks/107761571</a></td></tr></tbody></table>
 
 Reviver（同人志，黒錆一揆，2023） - 2023年5月7日 由 黒錆一揆 于 博丽神社例大祭20 发布的漫画同人志，B5尺寸一共32页，分级为 一般向
+
 ## Staff
 - ストロイド (未找到链接)
+
 
 ## 评论
 

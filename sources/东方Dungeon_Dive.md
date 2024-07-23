@@ -19,6 +19,7 @@
 本页是关于  
 [东方Project](./东方Project.md)官方授权的  
 手机商业二创游戏 (未找到链接)的词条东方Dungeon Dive（商业游戏） - 
+
 ## 目录
 
 - [1 软件信息](#软件信息)
@@ -26,6 +27,7 @@
 - [3 Staff](#Staff)
 - [4 内容页面](#内容页面)
 - [5 评论](#评论)
+
 
 
 
@@ -42,6 +44,7 @@
 <tbody><tr><th colspan="2">配置需求</th></tr>
 <tr><td style="width:120px;padding-left:7px;"><b>操作系统</b></td><td>Android，iOS</td></tr>
 </tbody></table>
+
 
 
 ## 概述
@@ -64,6 +67,7 @@
  **已于2024年5月15日11:00（当地时间）正式停服** 
   
 
+
 ## Staff
 
 BGM
@@ -74,7 +78,7 @@ BGM
 : [非可逆リズム](./非可逆リズム.md)
 : [石鹸屋](./石鹸屋.md)
 : [COOL&amp;CREATE](./COOL&CREATE.md)
-: 岸田教団 (未找到链接)
+: [岸田教団](./岸田教団.md)
 : [DiGiTAL WiNG](./DiGiTAL_WiNG.md)
 : [東京アクティブNEETs](./東京アクティブNEETs.md)
 : [森羅万象](./森羅万象.md)
@@ -89,6 +93,7 @@ Powerful advisor
 : [伴龍一郎](./伴龙一郎.md)
 
 
+
 ## 内容页面
 - 游戏设定与剧情 (未找到链接)
 - 攻略 (未找到链接)
@@ -97,6 +102,7 @@ Powerful advisor
   
 作为没有做任何本土化的日服手游，玩之前最好能够学习如何[在Android手机上运行日服游戏](./在Android手机上运行日服游戏.md)的相关知识。
   
+
 
 ## 评论
 

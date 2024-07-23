@@ -4,7 +4,8 @@
 
 Iemitsu. ，于 2005 年成立，主要制作 同人音乐 的日本同人社团，主催是 JiNG*da*LaW，曾以 Sound Iemitsu. 、 Iemitsu./A 、 Iemitsu.''（2008年后）'' 名义活动，当前状态为 休止
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -28,24 +29,29 @@ Iemitsu. ，于 2005 年成立，主要制作 同人音乐 的日本同人社团
 
 
 
+
 ## 社团信息
 [](./文件-Iemitsu._banner.png.md)  [](./文件-Iemitsu._banner.png.md)Banner
 
-<table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Iemitsu. </td></tr><tr><td><b>曾用名称</b></td><td> Sound Iemitsu. 、 Iemitsu./A 、 Iemitsu.<i>（2008年后）</i> </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2005-11-13</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>主催</b></td><td> <a href="/JiNG*da*LaW" class="mw-redirect" title="JiNG*da*LaW">JiNG*da*LaW</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://iemitsu.net/">http://iemitsu.net/</a> <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><br><a rel="nofollow" class="external free" href="http://nekomimi.ws/~iemitsu/">http://nekomimi.ws/~iemitsu/</a> （旧官网）</td></tr></tbody></table>
+<table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Iemitsu. </td></tr><tr><td><b>曾用名称</b></td><td> Sound Iemitsu. 、 Iemitsu./A 、 Iemitsu.<i>（2008年后）</i> </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2005-11-13</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>主催</b></td><td> <a href="./JiNG-da-LaW.md" class="mw-redirect" title="JiNG*da*LaW">JiNG*da*LaW</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://iemitsu.net/">http://iemitsu.net/</a> <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><br><a rel="nofollow" class="external free" href="http://nekomimi.ws/~iemitsu/">http://nekomimi.ws/~iemitsu/</a> （旧官网）</td></tr></tbody></table>
 
 Iemitsu.（同人社团，同人音乐社团） - Iemitsu. ，于 2005 年成立，主要制作 同人音乐 的日本同人社团，主催是 JiNG*da*LaW，曾以 Sound Iemitsu. 、 Iemitsu./A 、 Iemitsu. *（2008年后）*  名义活动，当前状态为 休止
+
 ## 成员名单
-- JiNG*da*LaW (未找到链接)
+- [JiNG*da*LaW](./JiNG-da-LaW.md)
 - サクマアイコ (未找到链接)
-- Project Chord Minor (未找到链接) ([void](./void.md) &amp; JiNG*da*LaW (未找到链接))
+- Project Chord Minor (未找到链接) ([void](./void.md) &amp; [JiNG*da*LaW](./JiNG-da-LaW.md))
 - ちょろ (未找到链接)
-- Punk Dirty Channel (未找到链接)
+- [Punk Dirty Channel](./Punk_Dirty_Channel.md#Punk Dirty Channel)
+
 
 ## 作品列表
+
 ### 以Sound Iemitsu.名义发布
 [](./Invisible_-Project_Chord_Minor-.md)[Invisible -Project Chord Minor-](./Invisible_-Project_Chord_Minor-.md)首发日期：2006-08-13 （Comic Market 70 (未找到链接)）SICD-010合作 （一般向）
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
 </table>
+
 
 
 ### 以Iemitsu./A名义发布
@@ -62,6 +68,7 @@ Iemitsu.（同人社团，同人音乐社团） - Iemitsu. ，于 2005 年成立
 </table>
 
 
+
 ### 以Punk Dirty Channel名义发布
 - 请参见[Punk Dirty Channel](#Punk_Dirty_Channel)
 
@@ -72,6 +79,7 @@ Iemitsu.（同人社团，同人音乐社团） - Iemitsu. ，于 2005 年成立
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ### 以Iemitsu.名义发布
@@ -130,6 +138,7 @@ Iemitsu.（同人社团，同人音乐社团） - Iemitsu. ，于 2005 年成立
 </table>
 
 
+
 ## 其他信息
   
 该社团在2008年之前同时使用Sound Iemitsu. 和 Iemitsu./A 这两个名义发布CD。  
@@ -137,9 +146,10 @@ Iemitsu.（同人社团，同人音乐社团） - Iemitsu. ，于 2005 年成立
 在2008年之后则使用 Iemitsu. 的名义，前两个名称不再使用。
   
 
+
 ### Punk Dirty Channel
   
-Punk Dirty Channel (未找到链接)是属于Iemitsu.Productions里的一个子社团，由JiNG*da*LaW (未找到链接)和囁一 (未找到链接)两个人组成。  
+[Punk Dirty Channel](./Punk_Dirty_Channel.md#Punk Dirty Channel)是属于Iemitsu.Productions里的一个子社团，由[JiNG*da*LaW](./JiNG-da-LaW.md)和囁一 (未找到链接)两个人组成。  
 
 有的时候会使用Punk Dirty Channel之名作为编曲者，有的时候会使用Punk Dirty Channel的名义来发售专辑。  
 

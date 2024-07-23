@@ -4,7 +4,8 @@
 
 Last Section ，于 2022 年成立，主要制作 同人音乐，周边 的韩国同人社团，主催是 LS프로，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -20,12 +21,14 @@ Last Section ，于 2022 年成立，主要制作 同人音乐，周边 的韩�
 
 
 
+
 ## 社团信息
 [](./文件-Last_Sectionlogo.jpg.md)  [](./文件-Last_Sectionlogo.jpg.md)logo
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Last Section </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐，周边</td></tr><tr><td><b>成立时间</b></td><td>2022</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=LS%ED%94%84%EB%A1%9C&amp;action=edit&amp;redlink=1" class="new" title="LS프로（页面不存在）">LS프로</a> </td></tr><tr><td><b>地区</b></td><td>韩国</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="https://twitter.com/Last_Section">https://twitter.com/Last_Section</a> <br><a rel="nofollow" class="external free" href="https://www.youtube.com/@lastsection">https://www.youtube.com/@lastsection</a></td></tr></tbody></table>
 
 Last Section（同人社团，同人音乐社团，周边社团） - Last Section ，于 2022 年成立，主要制作 同人音乐，周边 的韩国同人社团，主催是 LS프로，当前状态为 活动
+
 ## 成员名单
 - LS프로 (未找到链接)&#160;: representative
 
@@ -41,11 +44,14 @@ Last Section（同人社团，同人音乐社团，周边社团） - Last Sectio
 
 : [Youtube: @gulimche](https://www.youtube.com/@gulimche), [Twitter: @gullim123](https://twitter.com/gullim123)
 
+
 ## 作品列表
+
 ### 同人专辑
 환상세계 封面图片 (未找到链接)[환상세계](./환상세계.md)首发日期：2023-02-18 （蓬莱祭2 (未找到链接)）EP （一般向）
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
 </table>
+
 
 
 ## 参展信息

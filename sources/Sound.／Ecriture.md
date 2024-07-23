@@ -4,7 +4,8 @@
 
 Sound./Ecriture ，于 2007 年成立，主要制作 同人音乐 的日本同人社团，主催是 YoSi*，当前状态为 休止
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -15,15 +16,18 @@ Sound./Ecriture ，于 2007 年成立，主要制作 同人音乐 的日本同�
 
 
 
+
 ## 社团信息
 [](./文件-Sound.／Ecriturebanner.png.md)  [](./文件-Sound.／Ecriturebanner.png.md)banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Sound./Ecriture </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2007</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=YoSi*&amp;action=edit&amp;redlink=1" class="new" title="YoSi*（页面不存在）">YoSi*</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://sound-ecriture.com/">http://sound-ecriture.com/</a> <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span></td></tr></tbody></table>
 
 Sound.／Ecriture（同人社团，同人音乐社团） - Sound./Ecriture ，于 2007 年成立，主要制作 同人音乐 的日本同人社团，主催是 YoSi*，当前状态为 休止
+
 ## 成员名单
 - YoSi* (未找到链接)
 - しんさく (未找到链接)
+
 
 ## 作品列表
 [](./Capriccio～幻想郷綺想曲.md)[Capriccio～幻想郷綺想曲](./Capriccio～幻想郷綺想曲.md)首发日期：2007-04-29 （M3-2007春 (未找到链接)）SECD-0001全长 （一般向）[](./Scherzo～幻想郷諧謔曲.md)[Scherzo～幻想郷諧謔曲](./Scherzo～幻想郷諧謔曲.md)首发日期：2007-08-17 （Comic Market 72 (未找到链接)）SECD-0002全长 （一般向）[](./Rhapsody～幻想郷狂詩曲.md)[Rhapsody～幻想郷狂詩曲](./Rhapsody～幻想郷狂詩曲.md)首发日期：2007-12-31 （Comic Market 73 (未找到链接)）SECD-0003全长 （一般向）[](./Fantasia～幻想郷幻奏曲.md)[Fantasia～幻想郷幻奏曲](./Fantasia～幻想郷幻奏曲.md)首发日期：2008-08-16 （Comic Market 74 (未找到链接)）SECD-0005全长 （一般向）
@@ -35,6 +39,7 @@ Sound.／Ecriture（同人社团，同人音乐社团） - Sound./Ecriture ，�
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 其他信息

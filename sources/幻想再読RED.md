@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-幻想再読RED封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/1/12/%E5%B9%BB%E6%83%B3%E5%86%8D%E8%AA%ADRED%E5%B0%81%E9%9D%A2.jpg/158px-%E5%B9%BB%E6%83%B3%E5%86%8D%E8%AA%ADRED%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="158" height="224" srcset="https://upload.thwiki.cc/thumb/1/12/%E5%B9%BB%E6%83%B3%E5%86%8D%E8%AA%ADRED%E5%B0%81%E9%9D%A2.jpg/238px-%E5%B9%BB%E6%83%B3%E5%86%8D%E8%AA%ADRED%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/1/12/%E5%B9%BB%E6%83%B3%E5%86%8D%E8%AA%ADRED%E5%B0%81%E9%9D%A2.jpg/317px-%E5%B9%BB%E6%83%B3%E5%86%8D%E8%AA%ADRED%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="946" data-file-height="1336"></a><div class="cover-char">角色：<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a>，<a href="./爱丽丝·玛格特洛依德.md" title="爱丽丝·玛格特洛依德">爱丽丝·玛格特洛依德</a>，<a href="./上白泽慧音.md" title="上白泽慧音">上白泽慧音</a>，<a href="./藤原妹红.md" title="藤原妹红">藤原妹红</a>，<a href="./射命丸文.md" title="射命丸文">射命丸文</a>，<a href="./东风谷早苗.md" title="东风谷早苗">东风谷早苗</a></div></td>
@@ -18,11 +19,14 @@
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=24201">蜜瓜</a>，<a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=471645">蜜瓜(数字版)</a>，<a rel="nofollow" class="external text" href="https://www.melonbooks.com/index.php?main_page=product_info&amp;products_id=IT0000210075">蜜瓜DL</a>，<a rel="nofollow" class="external text" href="https://ec.toranoana.jp/tora_r/ec/item/040030202217">虎穴</a></td></tr></tbody></table>
 
 
+
 ## 预览
 - [](./文件-幻想再読RED预览图1.jpg.md)- [](./文件-幻想再読RED预览图2.jpg.md)- [](./文件-幻想再読RED预览图3.jpg.md)- [](./文件-幻想再読RED预览图4.jpg.md)- [](./文件-幻想再読RED预览图5.jpg.md)- [](./文件-幻想再読RED预览图6.jpg.md)- [](./文件-幻想再読RED预览图7.jpg.md)
 
+
 ## Staff
 - [是乃](./是乃.md)
+
 
 ## 评论
   

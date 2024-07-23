@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-ARCO_IRIS封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/3/36/ARCO_IRIS%E5%B0%81%E9%9D%A2.jpg/139px-ARCO_IRIS%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="139" height="196" srcset="https://upload.thwiki.cc/thumb/3/36/ARCO_IRIS%E5%B0%81%E9%9D%A2.jpg/209px-ARCO_IRIS%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/3/36/ARCO_IRIS%E5%B0%81%E9%9D%A2.jpg/278px-ARCO_IRIS%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="800" data-file-height="1127"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>，<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a>，<a href="./八云紫.md" title="八云紫">八云紫</a>，<a href="./比那名居天子.md" title="比那名居天子">比那名居天子</a>，<a href="./藤原妹红.md" title="藤原妹红">藤原妹红</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/62753332">https://www.pixiv.net/artworks/62753332</a></td></tr></tbody></table>
 
 ARCO IRIS（同人志，Brisa Marina，2017） - 2017年5月7日 由 Brisa Marina 于 博丽神社例大祭14 发布的绘本同人志，A4尺寸一共20页，分级为 一般向
+
 ## Staff
 - [aji](./aji.md)
+
 
 ## 评论
 

@@ -6,17 +6,22 @@
 
 本页是关于东方Project  
  **二次同人创作者** 的词条
+
 ## 基本信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="label"><b>名称</b></td><td> chiquchoo </td></tr><tr><td class="label"><b>所属社团</b></td><td><b>当前</b><div style="margin-left:2em;"><a href="./Presence∝fTVA.md" title="Presence∝fTVA">Presence∝fTVA</a></div></td></tr><tr><td class="label"><b>职位</b></td><td>作曲，编曲，演奏</td></tr><tr><td class="label"><b>参与社团</b></td><td><a href="./Presence∝fTVA.md" title="Presence∝fTVA">Presence∝fTVA</a> （作曲，编曲，演奏）<br><a href="./光と闇の協奏曲.md" title="光と闇の協奏曲">光と闇の協奏曲</a> （编曲）<br><a href="./榛ノ木書室.md" title="榛ノ木書室">榛ノ木書室</a> （编曲）</td></tr></tbody></table>
 
 chiquchoo（人物） - 现实人物
+
 ## 介绍
+
 ## 参与作品
+
 ### 同人音乐
   
 模板:人物曲目列表 (未找到链接)
   
+
 
 ## 人际关系
 人名

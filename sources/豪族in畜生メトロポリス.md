@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-豪族in畜生メトロポリス封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/c/c6/%E8%B1%AA%E6%97%8Fin%E7%95%9C%E7%94%9F%E3%83%A1%E3%83%88%E3%83%AD%E3%83%9D%E3%83%AA%E3%82%B9%E5%B0%81%E9%9D%A2.jpg/162px-%E8%B1%AA%E6%97%8Fin%E7%95%9C%E7%94%9F%E3%83%A1%E3%83%88%E3%83%AD%E3%83%9D%E3%83%AA%E3%82%B9%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="162" height="224" srcset="https://upload.thwiki.cc/thumb/c/c6/%E8%B1%AA%E6%97%8Fin%E7%95%9C%E7%94%9F%E3%83%A1%E3%83%88%E3%83%AD%E3%83%9D%E3%83%AA%E3%82%B9%E5%B0%81%E9%9D%A2.jpg/243px-%E8%B1%AA%E6%97%8Fin%E7%95%9C%E7%94%9F%E3%83%A1%E3%83%88%E3%83%AD%E3%83%9D%E3%83%AA%E3%82%B9%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/c/c6/%E8%B1%AA%E6%97%8Fin%E7%95%9C%E7%94%9F%E3%83%A1%E3%83%88%E3%83%AD%E3%83%9D%E3%83%AA%E3%82%B9%E5%B0%81%E9%9D%A2.jpg/324px-%E8%B1%AA%E6%97%8Fin%E7%95%9C%E7%94%9F%E3%83%A1%E3%83%88%E3%83%AD%E3%83%9D%E3%83%AA%E3%82%B9%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="866" data-file-height="1196"></a><div class="cover-char">角色：<a href="./吉吊八千慧.md" title="吉吊八千慧">吉吊八千慧</a>，<a href="./丰聪耳神子.md" title="丰聪耳神子">丰聪耳神子</a>，<a href="./物部布都.md" title="物部布都">物部布都</a>，<a href="./苏我屠自古.md" title="苏我屠自古">苏我屠自古</a></div></td>
@@ -18,8 +19,10 @@
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=569002">蜜瓜</a></td></tr></tbody></table>
 
 
+
 ## Staff
 : はじけ☆あきら (未找到链接)
+
 
 ## 评论
 

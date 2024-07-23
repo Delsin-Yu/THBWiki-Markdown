@@ -18,12 +18,14 @@
 
 
 </center>
+
 ## 目录
 
 - [1 软件信息](#软件信息)
 - [2 Staff](#Staff)
 - [3 内容页面](#内容页面)
 - [4 评论](#评论)
+
 
 
 
@@ -36,6 +38,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://ziel-graywords.itch.io/cross-the-boundaries">https://ziel-graywords.itch.io/cross-the-boundaries</a></td></tr><tr><td class="label">备注</td><td colspan="2">游戏于2021.7.29发布demo(试用版),完整版本正在制作中，请前往官网下载</td></tr></tbody></table>
 
 Cross the Boundaries（同人游戏，Ziel graywords） - 2024年6月25日 由 Ziel graywords  发布的解迷/冒险/角色扮演/视觉小说同人游戏，可在 Windows 系统上运行，游戏人数为 单人模式，分级为 一般向
+
 ## Staff
 
   
@@ -81,10 +84,12 @@ UTZ (未找到链接)
   
 
 
+
 ## 内容页面
 - 游戏设定与剧情 (未找到链接)
 - 使用说明 (未找到链接)
 - [其他信息](./Cross_the_Boundaries-杂项.md)
+
 
 ## 评论
 

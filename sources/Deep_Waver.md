@@ -6,6 +6,7 @@ Deep_Waver | JynX作曲 | 引用了翻译表的页面 | 连缘Project | 连缘Pr
 
 本页是关于 **向[东方Project](./东方Project.md)  
 致敬、形式类似的作品** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -26,6 +27,7 @@ Deep_Waver | JynX作曲 | 引用了翻译表的页面 | 连缘Project | 连缘Pr
 
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
+
 
 
 
@@ -57,6 +59,7 @@ Deep_Waver | JynX作曲 | 引用了翻译表的页面 | 连缘Project | 连缘Pr
 </td></tr></tbody></table>
 
 
+
 ## 出现作品
 
 <table>
@@ -65,13 +68,17 @@ Deep_Waver | JynX作曲 | 引用了翻译表的页面 | 连缘Project | 连缘Pr
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 连缘蛇丛剑
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>MIDI格式</b></td><td>无播放信息</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-le02_04.mp3.md" title="文件:le02 04.mp3">le02_04.mp3</a><br><audio src="https://upload.thwiki.cc/2/26/le02_04.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>未填写</td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 连缘蛇丛剑
 - Music Room (未找到链接)
 
@@ -81,8 +88,11 @@ Deep_Waver | JynX作曲 | 引用了翻译表的页面 | 连缘Project | 连缘Pr
 因为我特别喜欢爵士和融合爵士什么的，  
 还想多作点这种曲子！  
 意外地喜欢这种呢，意外地。
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
 
 

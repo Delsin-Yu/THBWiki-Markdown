@@ -23,6 +23,7 @@
 
   
 
+
 ## 目录
 
 - [1 登场](#登场)
@@ -49,7 +50,9 @@
 
 
 
+
 ## 登场
+
 ### 东方妖妖梦
 
 <table>
@@ -64,13 +67,17 @@
 
 
 
+
 ## 符卡说明
+
 ### The Grimoire of Marisa
 
 <table><tbody><tr class="tt-content-header" id="露娜萨-1" data-pos="&#91;&quot;\u9732\u5a1c\u8428&quot;,1&#93;"><td class="tt-jah" lang="ja"><div class="poem">弦奏「グァルネリ・デル・ジェス」</div></td><td class="tt-zhh" lang="zh"><div class="poem"><a href="./Guarneri_del_Gesù.md" title="Guarneri del Gesù" unred="">弦奏「Guarneri del Gesù」</a>（瓜尔内里·德尔·杰苏）<br></div></td></tr><tr class="tt-content" id="露娜萨-2" data-pos="&#91;&quot;\u9732\u5a1c\u8428&quot;,2&#93;"><td class="tt-ja" lang="ja"><div class="poem">使用者　　　　ルナサ・プリズムリバー</div></td><td class="tt-zh" lang="zh"><div class="poem">使用者　　　　<a href="./露娜萨·普莉兹姆利巴.md" title="露娜萨·普莉兹姆利巴">露娜萨·普莉兹姆利巴</a><br></div></td></tr><tr class="tt-content" id="露娜萨-3" data-pos="&#91;&quot;\u9732\u5a1c\u8428&quot;,3&#93;"><td class="tt-ja" lang="ja"><div class="poem">備考　　　　　慌てるとよく使う、演劇タイプ</div></td><td class="tt-zh" lang="zh"><div class="poem">备考　　　　　手忙脚乱时经常使用<br></div></td></tr><tr class="tt-content" id="露娜萨-4" data-pos="&#91;&quot;\u9732\u5a1c\u8428&quot;,4&#93;"><td class="tt-ja" lang="ja"><div class="poem">音量　　　　　★★</div></td><td class="tt-zh" lang="zh"><div class="poem">音量　　　　　★★<br></div></td></tr><tr class="tt-content" id="露娜萨-5" data-pos="&#91;&quot;\u9732\u5a1c\u8428&quot;,5&#93;"><td class="tt-ja" lang="ja"><div class="poem">突然近場に発生する恐怖の弾幕。どうやら演奏している音から弾幕が発生しているみたいだ。</div></td><td class="tt-zh" lang="zh"><div class="poem">突然在听者附近爆发而出的恐怖弹幕。看来似乎是演奏时发出的音符转变成了弹幕。<br></div></td></tr><tr class="tt-content" id="露娜萨-6" data-pos="&#91;&quot;\u9732\u5a1c\u8428&quot;,6&#93;"><td class="tt-ja" lang="ja"><div class="poem">ゆったりと音楽を聴いていると埋め尽くされるというのは嫌だ。</div></td><td class="tt-zh" lang="zh"><div class="poem">我可不想在悠闲自在地听着音乐时被突如其来的弹幕给活埋了。<br></div></td></tr><tr class="tt-content" id="露娜萨-7" data-pos="&#91;&quot;\u9732\u5a1c\u8428&quot;,7&#93;"><td class="tt-ja" lang="ja"><div class="poem">演奏家が聴者に、音楽に対する恐怖心を植え付けてどうしようというのか……。</div></td><td class="tt-zh" lang="zh"><div class="poem">身为音乐家却向观众灌输其对音乐的恐怖思想，那这音乐家还怎么混饭吃啊……<br></div></td></tr></tbody></table>
 
 
+
 ## 其他内容
+
 ### 游戏资料
   
 <big>
@@ -80,6 +87,7 @@
 <big></big>
   
 
+
 ### 分析考据
   
 <big>
@@ -88,6 +96,7 @@
 </big><big></big>  
 <big></big>
   
+
 
 ## 导航
 

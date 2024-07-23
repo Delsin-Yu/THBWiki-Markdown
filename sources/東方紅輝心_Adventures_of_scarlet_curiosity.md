@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 软件信息](#软件信息)
@@ -14,6 +15,7 @@
 - [4 评论](#评论)
 - [5 视频](#视频)
 - [6 注释](#注释)
+
 
 
 
@@ -35,6 +37,7 @@
 <tbody><tr><th colspan="2">配置需求</th></tr>
 <tr><td style="width:120px;padding-left:7px;"><b>操作系统</b></td><td>Windows Vista/7/8/10<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">1</a></sup></td></tr><tr><td style="width:120px;padding-left:7px;"><b>CPU</b></td><td>Intel Core i3 (2-core, 2.4GHz)</td></tr><tr><td style="width:120px;padding-left:7px;"><b>内存</b></td><td>2 GB RAM</td></tr><tr><td style="width:120px;padding-left:7px;"><b>显示卡</b></td><td>Geforce GTS 450</td></tr><tr><td style="width:120px;padding-left:7px;"><b>硬盘需求</b></td><td>4 GB</td></tr>
 </tbody></table>
+
 
 
 ## Staff
@@ -93,6 +96,7 @@ bozu
 Clere　　ムササビ　　にえる　　ごや　　スマイルもちごめ　　いしや 徹人　　リクシキ
   
 
+
 ## 内容页面
 - 游戏设定与剧情 (未找到链接)
 - [系统说明](./東方紅輝心_Adventures_of_scarlet_curiosity-系统.md)
@@ -102,6 +106,7 @@ Clere　　ムササビ　　にえる　　ごや　　スマイルもちごめ
 - 其他信息 (未找到链接)
 - [OST](./東方紅輝心Original_Soundtrack.md)
 - [OST（PS4追加版）](./東方紅輝心～Original_Soundtrack～PS4改訂版.md)
+
 
 ## 评论
   
@@ -119,6 +124,7 @@ Steam版本有部分变动（不完整）：
   
 [外链，1.30补丁发布后吧友山谷里悲泣的花翻译的大小姐线路ED对话](http://tieba.baidu.com/p/3494643302)
   
+
 
 ## 视频
   

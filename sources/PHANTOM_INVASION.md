@@ -18,6 +18,7 @@
 
 
 </center>
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-PHANTOM_INVASION封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/1/10/PHANTOM_INVASION%E5%B0%81%E9%9D%A2.jpg/224px-PHANTOM_INVASION%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="224" srcset="https://upload.thwiki.cc/thumb/1/10/PHANTOM_INVASION%E5%B0%81%E9%9D%A2.jpg/336px-PHANTOM_INVASION%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/1/10/PHANTOM_INVASION%E5%B0%81%E9%9D%A2.jpg/448px-PHANTOM_INVASION%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1417" data-file-height="1417"></a><div class="cover-char">角色：<a href="./西行寺幽幽子.md" title="西行寺幽幽子">西行寺幽幽子</a>，<a href="./魂魄妖梦.md" title="魂魄妖梦">魂魄妖梦</a></div></td>
@@ -26,11 +27,13 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/paragunasatsuki/status/370552584794173440">https://twitter.com/paragunasatsuki/status/370552584794173440</a></td></tr></tbody></table>
 
 PHANTOM INVASION（同人专辑，NATSUKI RECORDS，2013） - 2013年9月6日 由 NATSUKI RECORDS 于 Anime Festival Asia 2013 Indonesia 发布的全长同人专辑，曲目主要风格是 Trance，分级为 一般向
+
 ## Staff
   
  **Compose**   
 
 <table><tbody><tr><td><a href="/index.php?title=Paraguna_Satsuki&amp;action=edit&amp;redlink=1" class="new" title="Paraguna Satsuki（页面不存在）">Paraguna Satsuki</a></td><td></td><td>Tr.1-5</td></tr></tbody></table>
+
 
 
 ## 曲目列表
@@ -45,6 +48,7 @@ PHANTOM INVASION（同人专辑，NATSUKI RECORDS，2013） - 2013年9月6日 �
 <tr><td id="3" class="infoYL"><b>03</b></td><td id="幽霊の夜_Pt.2" colspan="2" class="title">幽霊の夜 Pt.2<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Paraguna Satsuki&amp;fromwiki=PHANTOM_INVASION"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=Paraguna_Satsuki&amp;action=edit&amp;redlink=1" class="new" title="Paraguna Satsuki（页面不存在）">Paraguna Satsuki</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Paraguna Satsuki&amp;fromwiki=PHANTOM_INVASION"><span></span></a></span></td></tr>
 <tr><td id="4" class="infoYL"><b>04</b></td><td id="Vanishing_Dream" colspan="2" class="title">Vanishing Dream<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Paraguna Satsuki&amp;fromwiki=PHANTOM_INVASION"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=Paraguna_Satsuki&amp;action=edit&amp;redlink=1" class="new" title="Paraguna Satsuki（页面不存在）">Paraguna Satsuki</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Paraguna Satsuki&amp;fromwiki=PHANTOM_INVASION"><span></span></a></span></td></tr>
 <tr><td id="5" class="infoYL"><b>05</b></td><td id="EXIT" colspan="2" class="title">EXIT<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Paraguna Satsuki&amp;fromwiki=PHANTOM_INVASION"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=Paraguna_Satsuki&amp;action=edit&amp;redlink=1" class="new" title="Paraguna Satsuki（页面不存在）">Paraguna Satsuki</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Paraguna Satsuki&amp;fromwiki=PHANTOM_INVASION"><span></span></a></span></td></tr></tbody></table>
+
 
 
 ## 评论

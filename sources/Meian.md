@@ -6,6 +6,7 @@ Meian Éditions，有限责任公司
 
 本页是关于东方Project  
  **相关公司会社** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -22,6 +23,7 @@ Meian Éditions，有限责任公司
 
 
 - [3 其他说明](#其他说明)
+
 
 
 
@@ -45,10 +47,13 @@ Meian Éditions，有限责任公司
 <td style="width:140px"><b>正式名称</b></td><td style="min-width:300px">Meian Éditions</td></tr><tr><td><b>公司现状</b></td><td>持续营业中</td></tr><tr><td><b>公司种类</b></td><td>有限责任公司</td></tr><tr><td><b>成立日期</b></td><td>2017年</td></tr><tr><td><b>官网地址</b></td><td><a rel="nofollow" class="external free" href="https://www.meian-editions.fr/">https://www.meian-editions.fr/</a></td></tr></tbody></table>
 
 Meian（公司会社） - Meian Éditions，有限责任公司
+
 ## 与东方Project的关联
 - Meian代理了少量官方商业出版物。
 
+
 ### 单行本与书籍
+
 #### 东方铃奈庵
 - [东方铃奈庵 ～ Forbidden Scrollery. 1](./东方铃奈庵.md)（2022年1月12日出版的官方漫画单行本）
 - [东方铃奈庵 ～ Forbidden Scrollery. 2](./东方铃奈庵.md)（2022年1月12日出版的官方漫画单行本）
@@ -58,11 +63,13 @@ Meian（公司会社） - Meian Éditions，有限责任公司
 - [东方铃奈庵 ～ Forbidden Scrollery. 6](./东方铃奈庵.md)（2022年11月25日出版的官方漫画单行本）
 - [东方铃奈庵 ～ Forbidden Scrollery. 7](./东方铃奈庵.md)（2023年3月10日出版的官方漫画单行本）
 
+
 #### 东方醉蝶华
 - [东方醉蝶华 ~ 食莲人们的醉与醒 1](./东方醉蝶华.md)（2023年3月24日出版的官方漫画单行本）
 - [东方醉蝶华 ~ 食莲人们的醉与醒 2](./东方醉蝶华.md)（2023年4月14日出版的官方漫画单行本）
 - [东方醉蝶华 ~ 食莲人们的醉与醒 3](./东方醉蝶华.md)（2023年8月24日出版的官方漫画单行本）
 - [东方醉蝶华 ~ 食莲人们的醉与醒 4](./东方醉蝶华.md)（2023年12月22日出版的官方漫画单行本）
+
 
 ## 其他说明
 

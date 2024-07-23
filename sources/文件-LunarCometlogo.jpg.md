@@ -4,6 +4,7 @@
 
 LunarComet | 社团LOGO
 
+
 ## 摘要
   
 源地址：[direct image link](https://web.archive.org/web/20150523232603im_/http://kstd.net/img/rogo.jpg), [source page](https://web.archive.org/web/20090724083425/http://kstd.net/)

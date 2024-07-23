@@ -4,7 +4,8 @@
 
 FocasLens ，于 2011 年成立，主要制作 同人游戏 的日本同人社团，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -21,18 +22,22 @@ FocasLens ，于 2011 年成立，主要制作 同人游戏 的日本同人社�
 
 
 
+
 ## 社团信息
 [](./文件-FocasLensbanner.jpg.md)  [](./文件-FocasLensbanner.jpg.md)banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> FocasLens </td></tr><tr><td><b>主要作品类型</b></td><td>同人游戏</td></tr><tr><td><b>成立时间</b></td><td>2011年4月1日</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://www.fo-lens.net/">http://www.fo-lens.net/</a> </td></tr></tbody></table>
 
 FocasLens（同人社团，同人游戏社团） - FocasLens ，于 2011 年成立，主要制作 同人游戏 的日本同人社团，当前状态为 活动
+
 ## 成员名单
   
 （待填）
   
 
+
 ## 作品列表
+
 ### 同人游戏
 幻想紫創伝 封面图片 (未找到链接)幻想紫創伝 (未找到链接)首发日期：未知 备注：“幻想紫創伝”不是真实的游戏作品，而是该社团成立时（2011年4月1日）发布的愚人节玩笑。  
 当时的[“游戏发布页”](http://www.fo-lens.net/shisou2/)上，虽然没有游戏下载，但是有不少设定图片等，完全能以假乱真。  
@@ -51,10 +56,12 @@ FocasLens（同人社团，同人游戏社团） - FocasLens ，于 2011 年成�
 </table>
 
 
+
 ### 同人专辑
 [](./東方リズムカーニバル！紅_オリジナルサウンドトラック.md)[東方リズムカーニバル! 紅 オリジナルサウンドトラック](./東方リズムカーニバル！紅_オリジナルサウンドトラック.md)首发日期：2012-08-11 （Comic Market 82 (未找到链接)）全长、​原声集 （一般向）
 <table><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 参展信息

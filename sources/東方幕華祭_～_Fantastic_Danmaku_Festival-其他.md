@@ -16,6 +16,7 @@
 
 
 </center>
+
 ## 难度标题及说明文字
 
 <table>
@@ -40,6 +41,7 @@
 <td>LUNATIC</td>
 <td><center><big>弹幕凶华的程度</big><br>LUNATIC MODE<br><small>打完这盘就去幻想乡</small>
 </center></td></tr></tbody></table>
+
 
 
 ## 关卡标题

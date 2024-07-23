@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-toppintetratorten♪の「ごめんなさい」の本。封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/c/c1/toppintetratorten%E2%99%AA%E3%81%AE%E3%80%8C%E3%81%94%E3%82%81%E3%82%93%E3%81%AA%E3%81%95%E3%81%84%E3%80%8D%E3%81%AE%E6%9C%AC%E3%80%82%E5%B0%81%E9%9D%A2.png/135px-toppintetratorten%E2%99%AA%E3%81%AE%E3%80%8C%E3%81%94%E3%82%81%E3%82%93%E3%81%AA%E3%81%95%E3%81%84%E3%80%8D%E3%81%AE%E6%9C%AC%E3%80%82%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="135" height="196" srcset="https://upload.thwiki.cc/thumb/c/c1/toppintetratorten%E2%99%AA%E3%81%AE%E3%80%8C%E3%81%94%E3%82%81%E3%82%93%E3%81%AA%E3%81%95%E3%81%84%E3%80%8D%E3%81%AE%E6%9C%AC%E3%80%82%E5%B0%81%E9%9D%A2.png/203px-toppintetratorten%E2%99%AA%E3%81%AE%E3%80%8C%E3%81%94%E3%82%81%E3%82%93%E3%81%AA%E3%81%95%E3%81%84%E3%80%8D%E3%81%AE%E6%9C%AC%E3%80%82%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/c/c1/toppintetratorten%E2%99%AA%E3%81%AE%E3%80%8C%E3%81%94%E3%82%81%E3%82%93%E3%81%AA%E3%81%95%E3%81%84%E3%80%8D%E3%81%AE%E6%9C%AC%E3%80%82%E5%B0%81%E9%9D%A2.png/270px-toppintetratorten%E2%99%AA%E3%81%AE%E3%80%8C%E3%81%94%E3%82%81%E3%82%93%E3%81%AA%E3%81%95%E3%81%84%E3%80%8D%E3%81%AE%E6%9C%AC%E3%80%82%E5%B0%81%E9%9D%A2.png 2x" data-file-width="951" data-file-height="1378"></a><div class="cover-char">角色：<a href="./古明地觉.md" title="古明地觉">古明地觉</a>，<a href="./古明地恋.md" title="古明地恋">古明地恋</a></div></td>
@@ -14,9 +15,12 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://tttspx.sakura.ne.jp/index2.html">http://tttspx.sakura.ne.jp/index2.html</a><br><a rel="nofollow" class="external free" href="http://tttspx.sakura.ne.jp/2013reitai.html">http://tttspx.sakura.ne.jp/2013reitai.html</a><br><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/35900591">https://www.pixiv.net/artworks/35900591</a><br><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/36162895">https://www.pixiv.net/artworks/36162895</a></td></tr></tbody></table>
 
 toppintetratorten♪の「ごめんなさい」の本。（同人志，toppintetratorten♪，2013） - 2013年5月26日 由 toppintetratorten♪ 于 博丽神社例大祭10 发布的画集同人志，一共8页，登场人物有 古明地觉、古明地恋、琪露诺、大妖精、键山雏、河城荷取、琪斯美、黑谷山女、蕾米莉亚·斯卡蕾特、芙兰朵露·斯卡蕾特、宇佐见莲子、玛艾露贝莉·赫恩，分级为 一般向
+
 ## 预览
+
 ## Staff
 - しぷっ (未找到链接)
+
 
 ## 评论
 

@@ -6,6 +6,7 @@ Empire_Power_～_Eternal_Force | JynX作曲 | 引用了翻译表的页面 | 连�
 
 本页是关于 **向[东方Project](./东方Project.md)  
 致敬、形式类似的作品** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -28,6 +29,7 @@ Empire_Power_～_Eternal_Force | JynX作曲 | 引用了翻译表的页面 | 连�
 
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
+
 
 
 
@@ -63,6 +65,7 @@ Empire_Power_～_Eternal_Force | JynX作曲 | 引用了翻译表的页面 | 连�
 </td></tr></tbody></table>
 
 
+
 ## 出现作品
 
 <table>
@@ -72,10 +75,13 @@ Empire_Power_～_Eternal_Force | JynX作曲 | 引用了翻译表的页面 | 连�
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 连缘无现里
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>MIDI格式</b></td><td>无播放信息</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-le01_14.mp3.md" title="文件:le01 14.mp3">le01_14.mp3</a><br><audio src="https://upload.thwiki.cc/7/76/le01_14.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>未填写</td></tr></tbody></table>
+
 
 
 ### 连缘天影战记
@@ -83,7 +89,9 @@ Empire_Power_～_Eternal_Force | JynX作曲 | 引用了翻译表的页面 | 连�
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>MIDI格式</b></td><td>无播放信息</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-le04_BOSS_Clause.mp3.md" title="文件:le04 BOSS Clause.mp3">le04_BOSS_Clause.mp3</a><br><audio src="https://upload.thwiki.cc/6/68/le04_BOSS_Clause.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>未填写</td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 连缘无现里
 - Music Room (未找到链接)
 
@@ -99,14 +107,18 @@ Empire_Power_～_Eternal_Force | JynX作曲 | 引用了翻译表的页面 | 连�
 克劳斯，也许不会再出场了……  
 不过姑且还有点作用在，什么时候再让祂登场一次吧……  
 真是个烦人的家伙（喂
+
 ### 连缘天影战记
 - Music Room (未找到链接)
 
 六面BOSS，克劳斯的曲子。  
   
 不予置评。
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
 
 

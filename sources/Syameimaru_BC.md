@@ -6,13 +6,17 @@
 
 本页是关于东方Project  
  **二次同人创作者** 的词条
+
 ## 基本信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="label"><b>名称</b></td><td> Syameimaru BC </td></tr><tr><td class="label"><b>别名</b></td><td>BC</td></tr><tr><td class="label"><b>所属社团</b></td><td><b>当前</b><div style="margin-left:2em;">PaperyLadyland</div></td></tr><tr><td class="label"><b>职位</b></td><td>PaperyLadyland主催</td></tr><tr><td class="label"><b>性别</b></td><td>男</td></tr><tr><td class="label"><b>生日</b></td><td>1998.3.2（26岁）</td></tr></tbody></table>
 
 Syameimaru BC（人物） - 现实人物
+
 ## 介绍
+
 ## 参与作品
+
 ## 人际关系
 人名
 : 关系

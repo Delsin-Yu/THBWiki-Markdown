@@ -4,7 +4,8 @@
 
 Craving DFC ，主要制作 同人音乐 的同人社团，主催是 カーストP，当前状态为 休止
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -19,17 +20,21 @@ Craving DFC ，主要制作 同人音乐 的同人社团，主催是 カース�
 
 
 
+
 ## 社团信息
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Craving DFC </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=%E3%82%AB%E3%83%BC%E3%82%B9%E3%83%88P&amp;action=edit&amp;redlink=1" class="new" title="カーストP（页面不存在）">カーストP</a> </td></tr></tbody></table>
 
 Craving DFC（同人社团，同人音乐社团） - Craving DFC ，主要制作 同人音乐 的同人社团，主催是 カーストP，当前状态为 休止
+
 ## 成员名单
 - カーストP (未找到链接) (a.k.a.  **CasteP** ,  **Hidaritsuu** )
 
 : [Youtube user: 7lgt](https://www.youtube.com/user/7lgt), [Twitter: @hidaritsuu](https://twitter.com/hidaritsuu)
 
+
 ## 作品列表
+
 ### 同人专辑
 [](./Soul_Picker's_Cherry.md)[Soul Picker's Cherry](./Soul_Picker's_Cherry.md)首发日期：2015-06-07 VCL-045单曲 （一般向）[](./Silicon_Dial.md)[Silicon Dial](./Silicon_Dial.md)首发日期：2015-09-03 VCL-055单曲 （一般向）[](./My_Fury_Purer_than_the_Purest_Furies.md)[My Fury Purer than the Purest Furies](./My_Fury_Purer_than_the_Purest_Furies.md)首发日期：2016-12-14 VCL-096单曲 （一般向）
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>

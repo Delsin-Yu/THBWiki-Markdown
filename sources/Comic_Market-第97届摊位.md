@@ -32,7 +32,7 @@
 
  **摊位信息**   
 
-<table><tbody><tr><th>摊位编号</th><th>社团名称</th><th>官网页面</th><th>宣传页面</th><th>备注</th></tr><tr><td id="黄昏フロンティア">南ナ28a</td><td><a href="/%E9%BB%84%E6%98%8F%E3%83%95%E3%83%AD%E3%83%B3%E3%83%86%E3%82%A3%E3%82%A2" class="mw-redirect" title="黄昏フロンティア">黄昏フロンティア</a></td><td><a rel="nofollow" class="external text" href="http://www.tasofro.net/">官网</a></td><td></td><td><a href="./东方刚欲异闻.md" title="东方刚欲异闻">东方刚欲异闻</a>体验版</td></tr></tbody></table>
+<table><tbody><tr><th>摊位编号</th><th>社团名称</th><th>官网页面</th><th>宣传页面</th><th>备注</th></tr><tr><td id="黄昏フロンティア">南ナ28a</td><td><a href="./黄昏フロンティア.md" class="mw-redirect" title="黄昏フロンティア">黄昏フロンティア</a></td><td><a rel="nofollow" class="external text" href="http://www.tasofro.net/">官网</a></td><td></td><td><a href="./东方刚欲异闻.md" title="东方刚欲异闻">东方刚欲异闻</a>体验版</td></tr></tbody></table>
 
 
 

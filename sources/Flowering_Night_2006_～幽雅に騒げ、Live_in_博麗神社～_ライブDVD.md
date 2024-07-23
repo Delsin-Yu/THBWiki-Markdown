@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人视频 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Flowering_Night_2006_～幽雅に騒げ、Live_in_博麗神社～_ライブDVD封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/9/9f/Flowering_Night_2006_%EF%BD%9E%E5%B9%BD%E9%9B%85%E3%81%AB%E9%A8%92%E3%81%92%E3%80%81Live_in_%E5%8D%9A%E9%BA%97%E7%A5%9E%E7%A4%BE%EF%BD%9E_%E3%83%A9%E3%82%A4%E3%83%96DVD%E5%B0%81%E9%9D%A2.jpg/98px-Flowering_Night_2006_%EF%BD%9E%E5%B9%BD%E9%9B%85%E3%81%AB%E9%A8%92%E3%81%92%E3%80%81Live_in_%E5%8D%9A%E9%BA%97%E7%A5%9E%E7%A4%BE%EF%BD%9E_%E3%83%A9%E3%82%A4%E3%83%96DVD%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="98" height="140" srcset="https://upload.thwiki.cc/thumb/9/9f/Flowering_Night_2006_%EF%BD%9E%E5%B9%BD%E9%9B%85%E3%81%AB%E9%A8%92%E3%81%92%E3%80%81Live_in_%E5%8D%9A%E9%BA%97%E7%A5%9E%E7%A4%BE%EF%BD%9E_%E3%83%A9%E3%82%A4%E3%83%96DVD%E5%B0%81%E9%9D%A2.jpg/148px-Flowering_Night_2006_%EF%BD%9E%E5%B9%BD%E9%9B%85%E3%81%AB%E9%A8%92%E3%81%92%E3%80%81Live_in_%E5%8D%9A%E9%BA%97%E7%A5%9E%E7%A4%BE%EF%BD%9E_%E3%83%A9%E3%82%A4%E3%83%96DVD%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/9/9f/Flowering_Night_2006_%EF%BD%9E%E5%B9%BD%E9%9B%85%E3%81%AB%E9%A8%92%E3%81%92%E3%80%81Live_in_%E5%8D%9A%E9%BA%97%E7%A5%9E%E7%A4%BE%EF%BD%9E_%E3%83%A9%E3%82%A4%E3%83%96DVD%E5%B0%81%E9%9D%A2.jpg/197px-Flowering_Night_2006_%EF%BD%9E%E5%B9%BD%E9%9B%85%E3%81%AB%E9%A8%92%E3%81%92%E3%80%81Live_in_%E5%8D%9A%E9%BA%97%E7%A5%9E%E7%A4%BE%EF%BD%9E_%E3%83%A9%E3%82%A4%E3%83%96DVD%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="700" data-file-height="994"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>，<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a></div></td>
@@ -14,7 +15,9 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://www.flowering-night.net:80/2006dvd/index.htm">http://www.flowering-night.net:80/2006dvd/index.htm</a></td></tr></tbody></table>
 
 Flowering Night 2006 ～幽雅に騒げ、Live in 博麗神社～ ライブDVD（同人视频，博丽神社事务所，dBu music，Flowering Night 実行委員会，2006） - 2006年5月21日 由 博丽神社事务所，dBu music，Flowering Night 実行委員会 于 博丽神社例大祭3 发布的Live同人视频，分级为 一般向
+
 ## Staff
+
 ## 评论
   
 2006年3月5日に行われた東方ライブイベント 「Flowering Night 2006 幽雅に騒げLive in 博麗神社」 の公式ライブDVDです。 当日の会場の雰囲気・熱気・演奏はそのままに、見やすく聴きやすく面白く編集して１枚のDVDに詰め込みました。通常のDVDプレーヤーで再生できます。

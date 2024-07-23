@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-The_Misadventures_of_a_Velvet_Magician_~_Piano_Solo_Phantasma封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/f/fb/The_Misadventures_of_a_Velvet_Magician_~_Piano_Solo_Phantasma%E5%B0%81%E9%9D%A2.jpg/252px-The_Misadventures_of_a_Velvet_Magician_~_Piano_Solo_Phantasma%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="189" srcset="https://upload.thwiki.cc/thumb/f/fb/The_Misadventures_of_a_Velvet_Magician_~_Piano_Solo_Phantasma%E5%B0%81%E9%9D%A2.jpg/378px-The_Misadventures_of_a_Velvet_Magician_~_Piano_Solo_Phantasma%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/f/fb/The_Misadventures_of_a_Velvet_Magician_~_Piano_Solo_Phantasma%E5%B0%81%E9%9D%A2.jpg/504px-The_Misadventures_of_a_Velvet_Magician_~_Piano_Solo_Phantasma%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1200" data-file-height="900"></a><div class="cover-char">角色：<a href="./玛艾露贝莉·赫恩.md" title="玛艾露贝莉·赫恩">玛艾露贝莉·赫恩</a>，<a href="./宇佐见莲子.md" title="宇佐见莲子">宇佐见莲子</a>，<a href="./八云紫.md" title="八云紫">八云紫</a></div></td>
@@ -18,6 +19,7 @@ The Misadventures of a Velvet Magician ~ Piano Solo Phantasma（同人专辑，M
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://kuroblood.bandcamp.com/track/the-misadventures-of-a-velvet-magician-piano-solo-phantasma">bandcamp</a></td></tr></tbody></table>
 
 
+
 ## Staff
   
  **Arrangement**   
@@ -25,9 +27,11 @@ The Misadventures of a Velvet Magician ~ Piano Solo Phantasma（同人专辑，M
 <table><tbody><tr><td><a href="./ArmpitMaiden.md" title="ArmpitMaiden">ArmpitMaiden</a></td><td><a href="./Maiden's_Capriccio.md" title="Maiden&#39;s Capriccio">Maiden's Capriccio</a></td><td>Tr.1</td></tr></tbody></table>
 
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="The_Misadventures_of_a_Velvet_Magician_~_Piano_Solo_Phantasma" colspan="2" class="title">The Misadventures of a Velvet Magician ~ Piano Solo Phantasma<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=ArmpitMaiden&amp;ogmusic=魔術師メリー，ネクロファンタジア&amp;fromwiki=The_Misadventures_of_a_Velvet_Magician_~_Piano_Solo_Phantasma"><span title="搜索相似同人曲"></span></a></span></td><td class="time">06:20</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./ArmpitMaiden.md" title="ArmpitMaiden">ArmpitMaiden</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，ArmpitMaiden&amp;fromwiki=The_Misadventures_of_a_Velvet_Magician_~_Piano_Solo_Phantasma"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=魔術師メリー，ネクロファンタジア&amp;fromwiki=The_Misadventures_of_a_Velvet_Magician_~_Piano_Solo_Phantasma"><span></span></a></span><div class="ogmusic"><a href="/%E9%AD%94%E8%A1%93%E5%B8%AB%E3%83%A1%E3%83%AA%E3%83%BC" class="mw-redirect" title="魔術師メリー">魔術師メリー</a></div><div class="source"><a href="/%E8%8E%B2%E5%8F%B0%E9%87%8E%E5%A4%9C%E8%A1%8C_%EF%BD%9E_Ghostly_Field_Club." class="mw-redirect" title="莲台野夜行 ～ Ghostly Field Club.">莲台野夜行　～ Ghostly Field Club.</a></div><hr><div class="ogmusic"><a href="/%E3%83%8D%E3%82%AF%E3%83%AD%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%82%A2" class="mw-redirect" title="ネクロファンタジア">ネクロファンタジア</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E5%A6%96%E5%A6%96%E6%A2%A6_%EF%BD%9E_Perfect_Cherry_Blossom." class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="The_Misadventures_of_a_Velvet_Magician_~_Piano_Solo_Phantasma" colspan="2" class="title">The Misadventures of a Velvet Magician ~ Piano Solo Phantasma<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=ArmpitMaiden&amp;ogmusic=魔術師メリー，ネクロファンタジア&amp;fromwiki=The_Misadventures_of_a_Velvet_Magician_~_Piano_Solo_Phantasma"><span title="搜索相似同人曲"></span></a></span></td><td class="time">06:20</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./ArmpitMaiden.md" title="ArmpitMaiden">ArmpitMaiden</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，ArmpitMaiden&amp;fromwiki=The_Misadventures_of_a_Velvet_Magician_~_Piano_Solo_Phantasma"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=魔術師メリー，ネクロファンタジア&amp;fromwiki=The_Misadventures_of_a_Velvet_Magician_~_Piano_Solo_Phantasma"><span></span></a></span><div class="ogmusic"><a href="./魔術師メリー.md" class="mw-redirect" title="魔術師メリー">魔術師メリー</a></div><div class="source"><a href="./莲台野夜行_～_Ghostly_Field_Club..md" class="mw-redirect" title="莲台野夜行 ～ Ghostly Field Club.">莲台野夜行　～ Ghostly Field Club.</a></div><hr><div class="ogmusic"><a href="./ネクロファンタジア.md" class="mw-redirect" title="ネクロファンタジア">ネクロファンタジア</a></div><div class="source"><a href="./东方妖妖梦_～_Perfect_Cherry_Blossom..md" class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

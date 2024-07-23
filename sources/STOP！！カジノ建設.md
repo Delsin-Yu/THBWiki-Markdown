@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-STOP！！カジノ建設封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/6/62/STOP%EF%BC%81%EF%BC%81%E3%82%AB%E3%82%B8%E3%83%8E%E5%BB%BA%E8%A8%AD%E5%B0%81%E9%9D%A2.jpg/160px-STOP%EF%BC%81%EF%BC%81%E3%82%AB%E3%82%B8%E3%83%8E%E5%BB%BA%E8%A8%AD%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="160" height="224" srcset="https://upload.thwiki.cc/thumb/6/62/STOP%EF%BC%81%EF%BC%81%E3%82%AB%E3%82%B8%E3%83%8E%E5%BB%BA%E8%A8%AD%E5%B0%81%E9%9D%A2.jpg/240px-STOP%EF%BC%81%EF%BC%81%E3%82%AB%E3%82%B8%E3%83%8E%E5%BB%BA%E8%A8%AD%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/6/62/STOP%EF%BC%81%EF%BC%81%E3%82%AB%E3%82%B8%E3%83%8E%E5%BB%BA%E8%A8%AD%E5%B0%81%E9%9D%A2.jpg/320px-STOP%EF%BC%81%EF%BC%81%E3%82%AB%E3%82%B8%E3%83%8E%E5%BB%BA%E8%A8%AD%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="643" data-file-height="900"></a><div class="cover-char">角色：<a href="./坂田合欢.md" title="坂田合欢">坂田合欢</a>，<a href="./鬼人正邪.md" title="鬼人正邪">鬼人正邪</a>，<a href="./河城荷取.md" title="河城荷取">河城荷取</a>，<a href="./豪德寺三花.md" title="豪德寺三花">豪德寺三花</a></div></td>
@@ -18,9 +19,12 @@ STOP！！カジノ建設（同人志，紅魔仮名目録，2022） - 2022年10
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=1651449">蜜瓜</a></td></tr></tbody></table>
 
 
+
 ## 预览
+
 ## Staff
 - 天地ハル (未找到链接)
+
 
 ## 评论
 

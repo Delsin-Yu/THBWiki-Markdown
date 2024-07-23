@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-KEIN_TITEL_ZWEI封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/7/70/KEIN_TITEL_ZWEI%E5%B0%81%E9%9D%A2.png/123px-KEIN_TITEL_ZWEI%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="123" height="168" srcset="https://upload.thwiki.cc/thumb/7/70/KEIN_TITEL_ZWEI%E5%B0%81%E9%9D%A2.png/184px-KEIN_TITEL_ZWEI%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/7/70/KEIN_TITEL_ZWEI%E5%B0%81%E9%9D%A2.png/246px-KEIN_TITEL_ZWEI%E5%B0%81%E9%9D%A2.png 2x" data-file-width="484" data-file-height="661"></a><div class="cover-char">角色：<a href="./封兽鵺.md" title="封兽鵺">封兽鵺</a></div></td>
@@ -14,9 +15,12 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/julian_semenov/status/1123240663288430593">https://twitter.com/julian_semenov/status/1123240663288430593</a></td></tr></tbody></table>
 
 KEIN TITEL ZWEI（同人志，銘菓百合まんじゅう，2019） - 2019年5月5日 由 銘菓百合まんじゅう 于 博丽神社例大祭16 发布的漫画同人志，登场人物有 封兽鵺、鬼人正邪、物部布都、少名针妙丸，分级为 一般向
+
 ## 预览
+
 ## Staff
 - 百合餡（ゆりあん） (未找到链接)
+
 
 ## 评论
 

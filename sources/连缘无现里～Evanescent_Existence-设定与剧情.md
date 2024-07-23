@@ -4,6 +4,7 @@
 
 トリック・ノスタルジー
 
+
 ## 目录
 
 - [1 附带文档](#附带文档)
@@ -14,14 +15,17 @@
 
 
 
+
 ## 附带文档
 - [readme](./连缘无现里～Evanescent_Existence-设定与剧情-readme.md)
 - [FAQ](./连缘无现里～Evanescent_Existence-设定与剧情-FAQ.md)
 - [omake](./连缘无现里～Evanescent_Existence-设定与剧情-omake.md)
 - [manual](./连缘无现里～Evanescent_Existence-设定与剧情-manual.md)
 
+
 ## 故事背景
 - [序章](./连缘无现里～Evanescent_Existence-设定与剧情-序章.md)
+
 
 ## 游戏对话
 - [凤联薮雨 游戏对话/结局](./游戏对话-连缘无现里～Evanescent_Existence-凤联薮雨.md)
@@ -30,6 +34,7 @@
 - [凤联薮雨 Ex游戏对话](./游戏对话-连缘无现里～Evanescent_Existence-凤联薮雨_ExStory.md)
 - [燕乐玄鸟 Ex游戏对话](./游戏对话-连缘无现里～Evanescent_Existence-燕乐玄鸟_ExStory.md)
 - [国主雀巳 Ex游戏对话](./游戏对话-连缘无现里～Evanescent_Existence-国主雀巳_ExStory.md)
+
 
 ## 词条导航
   

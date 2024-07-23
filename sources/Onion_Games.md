@@ -6,12 +6,14 @@
 
 本页是关于东方Project  
  **相关公司会社** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
 - [2 公司历史](#公司历史)
 - [3 主要作品](#主要作品)
 - [4 与东方Project的关联](#与东方Project的关联)
+
 
 
 
@@ -34,9 +36,12 @@ Onion Games， *Onion Games Inc.* ）是日本的一家独立游戏开发公司�
 <td style="width:140px"><b>正式名称</b></td><td style="min-width:300px">株式会社Onion Games</td></tr><tr><td><b>英文名称</b></td><td>Onion Games Inc.</td></tr><tr><td><b>公司现状</b></td><td>持续营业中</td></tr><tr><td><b>公司种类</b></td><td>股份有限公司（株式会社）</td></tr><tr><td><b>公司代表</b></td><td>董事长：<a href="./木村祥朗.md" title="木村祥朗">木村祥朗</a></td></tr><tr><td><b>官网地址</b></td><td><a rel="nofollow" class="external free" href="http://oniongames.jp/">http://oniongames.jp/</a> <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到日文网页">（日文）</span></td></tr></tbody></table>
 
 Onion Games（公司会社） - 株式会社Onion Games，股份有限公司（株式会社）
+
 ## 公司历史
+
 ## 主要作品
 - [勇者山田君](./勇者山田君.md)
+
 
 ## 与东方Project的关联
   

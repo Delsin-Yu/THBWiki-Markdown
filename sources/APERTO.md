@@ -4,7 +4,8 @@
 
 APERTO ，主要制作 同人志 的日本同人社团，主催是 トモヨヒ，曾以 店ジマイ 名义活动，当前状态为 转入非东方
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -23,23 +24,29 @@ APERTO ，主要制作 同人志 的日本同人社团，主催是 トモヨヒ�
 
 
 
+
 ## 社团信息
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> APERTO </td></tr><tr><td><b>曾用名称</b></td><td> 店ジマイ </td></tr><tr><td><b>主要作品类型</b></td><td>同人志</td></tr><tr><td><b>当前状态</b></td><td>转入非东方</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=%E3%83%88%E3%83%A2%E3%83%A8%E3%83%92&amp;action=edit&amp;redlink=1" class="new" title="トモヨヒ（页面不存在）">トモヨヒ</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://ameblo.jp/m-tomoyohi/">http://ameblo.jp/m-tomoyohi/</a> <br><a rel="nofollow" class="external free" href="http://www15.ocn.ne.jp/~asazero/">http://www15.ocn.ne.jp/~asazero/</a> （旧官网）<span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><small>（<a rel="nofollow" class="external text" href="https://web.archive.org/web/20081227113208/http://www15.ocn.ne.jp/~asazero/">缓存页面</a>）</small></td></tr></tbody></table>
 
 APERTO（同人社团，同人志社团） - APERTO ，主要制作 同人志 的日本同人社团，主催是 トモヨヒ，曾以 店ジマイ 名义活动，当前状态为 转入非东方
+
 ## 社团简介
   
 社团在2012年改名为APERTO。
   
+
 
 ## 成员名单
 - マツモトトモヨヒ (未找到链接) (a.k.a.  **トモヨヒ** ,  **M－トモヨヒ** )
 
 : [Tumblr: m-tomoyohi](https://m-tomoyohi.tumblr.com/), [Twitter: @M_tomoyohi](https://twitter.com/M_tomoyohi), [Pixiv ID: 54642](https://www.pixiv.net/users/54642)
 
+
 ## 作品列表
+
 ### 同人志
+
 ### 以店ジマイ名义发布
 [](./守矢~竿だけ~.md)[守矢~竿だけ~](./守矢~竿だけ~.md)首发日期：2010-08-14 （Comic Market 78 (未找到链接)）漫画 （一般向） 24&#160;页[](./一日千秋.md)[一日千秋](./一日千秋.md)首发日期：2010-10-11 （東方紅楼夢6 (未找到链接)）合同志 （一般向）该作品是与 [GP-KIDS](./GP-KIDS.md)、​[アトモスフィア](./アトモスフィア.md)、​[エトセトラ](./エトセトラ.md)、​[エレクトロガール](./エレクトロガール.md)、​[BARBAROI7](./BARBAROI7.md)、​[70205](./70205.md) 合作创作的B5&#160;尺寸 36&#160;页东风谷早苗中心合同本[](./寒波にON!.md)[寒波にON!](./寒波にON!.md)首发日期：2011-05-08 （第八回 博麗神社例大祭 (未找到链接)）漫画 （一般向） 20&#160;页[](./東方空巨塔.md)[東方空巨塔](./東方空巨塔.md)首发日期：2011-08-13 （Comic Market 80 (未找到链接)）漫画 （一般向） 24&#160;页[](./集まれ八雲一家.md)[集まれ八雲一家](./集まれ八雲一家.md)首发日期：2011-12-30 （Comic Market 81 (未找到链接)）漫画 （一般向） 20&#160;页
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -54,10 +61,12 @@ APERTO（同人社团，同人志社团） - APERTO ，主要制作 同人志 �
 </table>
 
 
+
 ### 以APERTO名义发布
 [](./うそつき鬼_上巻.md)[うそつき鬼　上巻](./うそつき鬼_上巻.md)首发日期：2014-10-12 （東方紅楼夢10 (未找到链接)）漫画 （一般向） 32&#160;页
 <table><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 参展信息

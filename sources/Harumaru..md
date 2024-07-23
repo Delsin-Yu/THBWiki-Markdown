@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Harumaru.封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/a/a0/Harumaru.%E5%B0%81%E9%9D%A2.jpg/159px-Harumaru.%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="159" height="224" srcset="https://upload.thwiki.cc/thumb/a/a0/Harumaru.%E5%B0%81%E9%9D%A2.jpg/238px-Harumaru.%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/a/a0/Harumaru.%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="280" data-file-height="395"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>，<a href="./伊吹萃香.md" title="伊吹萃香">伊吹萃香</a></div></td>
@@ -14,9 +15,11 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://str128.web.fc2.com/ff13up.htm">http://str128.web.fc2.com/ff13up.htm</a></td></tr></tbody></table>
 
 Harumaru.（同人志，STR!!!，2009） - 2009年1月31日 由 STR!!! 于 Fancy Frontier13 发布的漫画同人志，B5尺寸一共48页，登场人物有 博丽灵梦、伊吹萃香、铃仙·优昙华院·因幡、蓬莱山辉夜，分级为 一般向
+
 ## Staff
 - [Tama](./たま.md)
 - 線 (未找到链接)
+
 
 ## 评论
 ```

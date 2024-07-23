@@ -4,6 +4,7 @@
 
 DoD_Team | 社团LOGO
 
+
 ## 文件说明
   
 源地址：[direct image link](https://web.archive.org/web/20111219073111im_/http://vocahou.ru/img/dod.jpg), [source page](https://web.archive.org/web/20120624071621/http://vocahou.ru/)

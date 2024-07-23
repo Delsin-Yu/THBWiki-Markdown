@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-veleta_de_flores_～βver封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/0/00/veleta_de_flores_%EF%BD%9E%CE%B2ver%E5%B0%81%E9%9D%A2.jpg/280px-veleta_de_flores_%EF%BD%9E%CE%B2ver%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="280" height="276" srcset="https://upload.thwiki.cc/thumb/0/00/veleta_de_flores_%EF%BD%9E%CE%B2ver%E5%B0%81%E9%9D%A2.jpg/420px-veleta_de_flores_%EF%BD%9E%CE%B2ver%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/0/00/veleta_de_flores_%EF%BD%9E%CE%B2ver%E5%B0%81%E9%9D%A2.jpg/560px-veleta_de_flores_%EF%BD%9E%CE%B2ver%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="718" data-file-height="709"></a><div class="cover-char">角色：<a href="./风见幽香.md" title="风见幽香">风见幽香</a></div></td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://ameblo.jp/cysmix-fire-rabbit/entry-11189187934.html">https://ameblo.jp/cysmix-fire-rabbit/entry-11189187934.html</a></td></tr></tbody></table>
 
 veleta de flores ～βver（同人专辑，MA☆SPARK! RECORDS，2012） - 2012年3月11日 由 MA☆SPARK! RECORDS 于 华激之宴1 发布的单曲同人专辑，分级为 一般向
+
 ## Staff
   
  **Arrangement**   
@@ -26,9 +28,11 @@ Design
 Illustration
 : 画师 （[网址 社团]）
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Ancient_Blossom" colspan="2" class="title">Ancient Blossom<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=cYsmix&amp;ogmusic=今昔幻想郷　～ Flower Land&amp;fromwiki=veleta_de_flores_～βver"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:47</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./cYsmix.md" title="cYsmix">cYsmix</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，cYsmix&amp;fromwiki=veleta_de_flores_～βver"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=今昔幻想郷　～ Flower Land&amp;fromwiki=veleta_de_flores_～βver"><span></span></a></span><div class="ogmusic"><a href="/%E4%BB%8A%E6%98%94%E5%B9%BB%E6%83%B3%E9%83%B7_%EF%BD%9E_Flower_Land" class="mw-redirect" title="今昔幻想郷 ～ Flower Land">今昔幻想郷　～ Flower Land</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E8%8A%B1%E6%98%A0%E5%A1%9A_%EF%BD%9E_Phantasmagoria_of_Flower_View." class="mw-redirect" title="东方花映塚 ～ Phantasmagoria of Flower View.">东方花映塚　～ Phantasmagoria of Flower View.</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Ancient_Blossom" colspan="2" class="title">Ancient Blossom<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=cYsmix&amp;ogmusic=今昔幻想郷　～ Flower Land&amp;fromwiki=veleta_de_flores_～βver"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:47</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./cYsmix.md" title="cYsmix">cYsmix</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，cYsmix&amp;fromwiki=veleta_de_flores_～βver"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=今昔幻想郷　～ Flower Land&amp;fromwiki=veleta_de_flores_～βver"><span></span></a></span><div class="ogmusic"><a href="./今昔幻想郷_～_Flower_Land.md" class="mw-redirect" title="今昔幻想郷 ～ Flower Land">今昔幻想郷　～ Flower Land</a></div><div class="source"><a href="./东方花映塚_～_Phantasmagoria_of_Flower_View..md" class="mw-redirect" title="东方花映塚 ～ Phantasmagoria of Flower View.">东方花映塚　～ Phantasmagoria of Flower View.</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

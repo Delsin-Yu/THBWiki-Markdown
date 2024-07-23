@@ -4,12 +4,14 @@
 
 三头慧之子 | 符卡
 
+
 ## 目录
 
 - [1 分析考据](#分析考据)
 - [2 注释](#注释)
 - [3 参见](#参见)
 - [4 导航](#导航)
+
 
 
 
@@ -44,12 +46,14 @@
 
 英文维基百科：[Cerberus](https://en.wikipedia.org/wiki/en:Cerberus)
 
+
 ## 参见
 - [三头慧之子/分析考据](./三头慧之子-分析考据.md)
 
+
 ## 导航
 
-<table><tbody><tr><td><table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;;;"><tbody><tr><th style=";" colspan="3" class="navbox-title"><div class="navbar"><div class="noprint plainlinksneverexpand" style="background-color:transparent; padding:0; font-weight:normal; font-size:80%; white-space:nowrap;"><a href="./模板-三头符卡导航.md" title="模板:三头符卡导航"><span style=";;border:none;" title="查看这个模板">查</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<a href="/index.php?title=%E6%A8%A1%E6%9D%BF:%E4%B8%89%E5%A4%B4%E7%AC%A6%E5%8D%A1%E5%AF%BC%E8%88%AA&amp;action=edit"><span style=";;border:none;" title="您可以编辑这个模板。请在储存变更之前先预览">编</span></a></div></div><span><a href="./三头慧之子.md" title="三头慧之子">三头慧之子</a>符卡</span></th></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">射击游戏</td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div><a href="./东方兽王园.md" title="东方兽王园">东方兽王园</a></div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="/%E4%B8%89%E5%A4%B4%E3%80%8CCerberus_Fire%E3%80%8D" class="mw-redirect" title="三头「Cerberus Fire」">三头「Cerberus Fire」</a></div></td></tr></tbody></table><div></div></td><td class="navbox-image" style="" rowspan="1"><a href="./文件-三头慧之子（Q版立绘）.png.md" class="image"><img alt="三头慧之子（Q版立绘）.png" src="https://upload.thwiki.cc/thumb/d/d1/%E4%B8%89%E5%A4%B4%E6%85%A7%E4%B9%8B%E5%AD%90%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png/160px-%E4%B8%89%E5%A4%B4%E6%85%A7%E4%B9%8B%E5%AD%90%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="160" height="160" srcset="https://upload.thwiki.cc/thumb/d/d1/%E4%B8%89%E5%A4%B4%E6%85%A7%E4%B9%8B%E5%AD%90%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png/240px-%E4%B8%89%E5%A4%B4%E6%85%A7%E4%B9%8B%E5%AD%90%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/d/d1/%E4%B8%89%E5%A4%B4%E6%85%A7%E4%B9%8B%E5%AD%90%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png/320px-%E4%B8%89%E5%A4%B4%E6%85%A7%E4%B9%8B%E5%AD%90%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="2000" data-file-height="2000"></a></td></tr></tbody></table></td></tr></tbody></table>
+<table><tbody><tr><td><table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;;;"><tbody><tr><th style=";" colspan="3" class="navbox-title"><div class="navbar"><div class="noprint plainlinksneverexpand" style="background-color:transparent; padding:0; font-weight:normal; font-size:80%; white-space:nowrap;"><a href="./模板-三头符卡导航.md" title="模板:三头符卡导航"><span style=";;border:none;" title="查看这个模板">查</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<a href="/index.php?title=%E6%A8%A1%E6%9D%BF:%E4%B8%89%E5%A4%B4%E7%AC%A6%E5%8D%A1%E5%AF%BC%E8%88%AA&amp;action=edit"><span style=";;border:none;" title="您可以编辑这个模板。请在储存变更之前先预览">编</span></a></div></div><span><a href="./三头慧之子.md" title="三头慧之子">三头慧之子</a>符卡</span></th></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">射击游戏</td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div><a href="./东方兽王园.md" title="东方兽王园">东方兽王园</a></div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./三头「Cerberus_Fire」.md" class="mw-redirect" title="三头「Cerberus Fire」">三头「Cerberus Fire」</a></div></td></tr></tbody></table><div></div></td><td class="navbox-image" style="" rowspan="1"><a href="./文件-三头慧之子（Q版立绘）.png.md" class="image"><img alt="三头慧之子（Q版立绘）.png" src="https://upload.thwiki.cc/thumb/d/d1/%E4%B8%89%E5%A4%B4%E6%85%A7%E4%B9%8B%E5%AD%90%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png/160px-%E4%B8%89%E5%A4%B4%E6%85%A7%E4%B9%8B%E5%AD%90%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="160" height="160" srcset="https://upload.thwiki.cc/thumb/d/d1/%E4%B8%89%E5%A4%B4%E6%85%A7%E4%B9%8B%E5%AD%90%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png/240px-%E4%B8%89%E5%A4%B4%E6%85%A7%E4%B9%8B%E5%AD%90%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/d/d1/%E4%B8%89%E5%A4%B4%E6%85%A7%E4%B9%8B%E5%AD%90%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png/320px-%E4%B8%89%E5%A4%B4%E6%85%A7%E4%B9%8B%E5%AD%90%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="2000" data-file-height="2000"></a></td></tr></tbody></table></td></tr></tbody></table>
 
 
 

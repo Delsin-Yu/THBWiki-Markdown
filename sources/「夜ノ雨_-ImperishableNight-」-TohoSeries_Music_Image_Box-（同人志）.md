@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><div class="cover-char">角色：<a href="/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C" title="十六夜咲夜">十六夜咲夜</a>，<a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a></div></td>
@@ -14,13 +15,16 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://www92.sakura.ne.jp/~nk/i/0_xNightRain.shtml">http://www92.sakura.ne.jp/~nk/i/0_xNightRain.shtml</a><br><span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span></td></tr><tr><td class="label">备注</td><td colspan="2">附带专辑<a href="./「夜ノ雨_-ImperishableNight-」-TohoSeries_Music_Image_Box-（同人专辑）.md" title="「夜ノ雨 -ImperishableNight-」-TohoSeries Music Image Box-（同人专辑）">「夜ノ雨 -ImperishableNight-」-TohoSeries Music Image Box-（同人专辑）</a></td></tr></tbody></table>
 
 「夜ノ雨 -ImperishableNight-」-TohoSeries Music Image Box-（同人志，NTconfess，2004） - 2004年12月30日 由 NTconfess 于 Comic Market 67 发布的画集同人志，一共24页，登场人物有 爱丽丝·玛格特洛依德、八意永琳、藤原妹红、红美铃、蓬莱山辉夜、帕秋莉·诺蕾姬、博丽灵梦、铃仙·优昙华院·因幡、蕾米莉亚·斯卡蕾特、十六夜咲夜、魂魄妖梦、八云紫、西行寺幽幽子，分级为 R18
+
 ## 预览
+
 
 
 ## Staff
 画师
 : NK （[NTconfess](./NTconfess.md)）
 : あぶりだしざくろ （[ドウガネブイブイ](http://zaku6.sakura.ne.jp/)）
+
 
 ## 评论
 

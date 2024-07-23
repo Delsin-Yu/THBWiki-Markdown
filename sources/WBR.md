@@ -4,7 +4,8 @@
 
 WBR ，主要制作 同人志 的日本同人社团，主催是 ｳｵheieきん肉２，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -20,17 +21,21 @@ WBR ，主要制作 同人志 的日本同人社团，主催是 ｳｵheieきん
 
 
 
+
 ## 社团信息
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> WBR </td></tr><tr><td><b>主要作品类型</b></td><td>同人志</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="./ｳｵheieきん肉２.md" title="ｳｵheieきん肉２">ｳｵheieきん肉２</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr></tbody></table>
 
 WBR（同人社团，同人志社团） - WBR ，主要制作 同人志 的日本同人社团，主催是 ｳｵheieきん肉２，当前状态为 活动
+
 ## 成员名单
 - [ｳｵheieきん肉２](./ｳｵheieきん肉２.md) (a.k.a.  **きんにく** ,  **ｳｵきん** ,  **ウオ** )
 
 : [Twitter: @uokin2](https://twitter.com/uokin2), [Pixiv ID: 1760327](https://www.pixiv.net/users/1760327)
 
+
 ## 作品列表
+
 ### 同人志
  (未找到链接)蟠桃・上 (未找到链接)首发日期：未知 -  (未找到链接)蟠桃・下 (未找到链接)首发日期：未知 - [](./彩食健未.md)[彩食健未](./彩食健未.md)首发日期：2011-08-13 （Comic Market 80 (未找到链接)）漫画 （一般向） 20&#160;页[](./あなだらけ.md)[あなだらけ](./あなだらけ.md)首发日期：2012-05-27 （第九回 博麗神社例大祭 (未找到链接)）漫画 （一般向） 104&#160;页[](./豪雷、若葉、巨桜。.md)[豪雷、若葉、巨桜。](./豪雷、若葉、巨桜。.md)首发日期：2012-12-30 （Comic Market 83 (未找到链接)）漫画 （一般向） 32&#160;页[](./蟠桃―あおきかおりはかくもかぐわし―_上・下.md)[蟠桃―あおきかおりはかくもかぐわし―　上・下](./蟠桃―あおきかおりはかくもかぐわし―_上・下.md)首发日期：2013-12-30 （Comic Market 85 (未找到链接)）漫画 （一般向） 80&#160;页[](./Belong_Tojiko..md)[Belong Tojiko.](./Belong_Tojiko..md)首发日期：2015-05-10 （第十二回 博麗神社例大祭 (未找到链接)）漫画 （一般向） 24&#160;页[](./1399年の忘虚神話.md)[1399年の忘虚神話](./1399年の忘虚神話.md)首发日期：2015-10-18 （第二回 博麗神社秋季例大祭 (未找到链接)）漫画 （一般向） 48&#160;页[](./いのり_いだき_つなぐため.md)[いのり　いだき　つなぐため](./いのり_いだき_つなぐため.md)首发日期：2017-05-07 （第十四回 博麗神社例大祭 (未找到链接)）漫画 （一般向） 60&#160;页[](./神セ晦・永遠ゐ来渡.md)[神セ晦・永遠ゐ来渡](./神セ晦・永遠ゐ来渡.md)首发日期：2017-10-22 （東方紅楼夢13 (未找到链接)）漫画 （一般向） 80&#160;页[](./神は踊る.md)[神は踊る](./神は踊る.md)首发日期：2018-05-06 （第十五回 博麗神社例大祭 (未找到链接)）漫画 （一般向）B5&#160;尺寸 76&#160;页[](./みこぐるい.md)[みこぐるい](./みこぐるい.md)首发日期：2018-10-21 （東方紅楼夢14 (未找到链接)）漫画 （一般向） 24&#160;页[](./Doremy's_Dreaming(上).md)[Doremy's Dreaming（上）](./Doremy's_Dreaming(上).md)首发日期：2019-05-05 （第十六回 博麗神社例大祭 (未找到链接)）漫画 （一般向） 48&#160;页Doremy's_Dreaming（中） 封面图片 (未找到链接)Doremy's Dreaming（中） (未找到链接)首发日期：未知 - [](./目目なし弁々.md)[目目なし弁々](./目目なし弁々.md)首发日期：2023-03-19 （東方上州祭 第5幕 (未找到链接)）漫画 （一般向）B5&#160;尺寸 40&#160;页仏は知らぬ となりの柿 封面图片 (未找到链接)[仏は知らぬ となりの柿](./仏は知らぬ_となりの柿.md)首发日期：2023-05-07 （第二十回 博麗神社例大祭 (未找到链接)）漫画 （一般向）B5&#160;尺寸 13&#160;页
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -62,6 +67,7 @@ WBR（同人社团，同人志社团） - WBR ，主要制作 同人志 的日�
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 参展信息

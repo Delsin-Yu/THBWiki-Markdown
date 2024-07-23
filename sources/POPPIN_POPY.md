@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-POPPIN_POPY封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/c/cd/POPPIN_POPY%E5%B0%81%E9%9D%A2.jpg/136px-POPPIN_POPY%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="136" height="196" srcset="https://upload.thwiki.cc/thumb/c/cd/POPPIN_POPY%E5%B0%81%E9%9D%A2.jpg/205px-POPPIN_POPY%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/c/cd/POPPIN_POPY%E5%B0%81%E9%9D%A2.jpg/273px-POPPIN_POPY%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="2468" data-file-height="3542"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></div></td>
@@ -18,11 +19,14 @@ POPPIN POPY（同人志，ひよこ缶，2020） - 2020年8月9日 由 ひよこ
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=705420">蜜瓜</a>，<a rel="nofollow" class="external text" href="https://hiyokokan.booth.pm/items/2236965">Booth</a></td></tr></tbody></table>
 
 
+
 ## 预览
 - [](./文件-POPPIN_POPY预览图1.jpg.md)- [](./文件-POPPIN_POPY预览图2.jpg.md)- [](./文件-POPPIN_POPY预览图3.jpg.md)- [](./文件-POPPIN_POPY预览图4.jpg.md)
 
+
 ## Staff
 - [柏森たま。](./柏森たま。.md)
+
 
 ## 评论
 社团方的评论

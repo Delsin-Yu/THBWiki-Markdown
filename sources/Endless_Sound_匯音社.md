@@ -4,11 +4,12 @@
 
 Endless Sound Records ，于 2021 年成立，主要制作 同人音乐 的中国大陆同人社团，主催是 tinvan，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
   
   
 
   
+
 
 ## 目录
 
@@ -29,16 +30,19 @@ Endless Sound Records ，于 2021 年成立，主要制作 同人音乐 的中�
 
 
 
+
 ## 社团信息
 [](./文件-Endless_Sound_匯音社LOGO2.png.md)  [](./文件-Endless_Sound_匯音社LOGO2.png.md)LOGO
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Endless Sound Records </td></tr><tr><td><b>中文名称</b></td><td>Endless Sound 匯音社</td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2021</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="./tinvan.md" title="tinvan">tinvan</a> </td></tr><tr><td><b>地区</b></td><td>中国大陆</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://endless-sound.top">http://endless-sound.top</a> 官网<br><a rel="nofollow" class="external free" href="https://space.bilibili.com/1512098975">https://space.bilibili.com/1512098975</a> Bilibili</td></tr></tbody></table>
 
 Endless Sound 匯音社（同人社团，同人音乐社团） - Endless Sound Records ，于 2021 年成立，主要制作 同人音乐 的中国大陆同人社团，主催是 tinvan，当前状态为 活动
+
 ## 社团简介
   
 一个东方同人音乐社团，由tinvan担任编曲 Endless Reisen担任创意总监。
   
+
 
 ## 成员名单
 
@@ -70,6 +74,7 @@ Endless Sound 匯音社（同人社团，同人音乐社团） - Endless Sound R
 </td></tr></tbody></table>
 
 
+
 ### 匯音社の音楽集
 [](./三生の花.md)[三生の花](./三生の花.md)首发日期：2021-07-03 ESCD-0001EP （一般向）[](./Pure_Mind.md)[Pure Mind](./Pure_Mind.md)首发日期：2022-01-31 ESCD-0002EP （一般向）[](./Lunatic_Galaxy.md)[Lunatic Galaxy](./Lunatic_Galaxy.md)首发日期：2022-05-08 ESCD-0003EP （一般向）[](./Noble_Tabacco.md)[Noble Tabacco](./Noble_Tabacco.md)首发日期：2022-08-06 （江南THO-云游会稽广记 (未找到链接)）ESCD-0004EP （一般向）[](./Stealth_Operation.md)[Stealth Operation](./Stealth_Operation.md)首发日期：2022-10-29 （浙江THO-東方红夜子时 (未找到链接)）ESCD-0005全长 （一般向）[](./彼岸追憶.md)[彼岸追憶](./彼岸追憶.md)首发日期：未知 ESCD-0006- （一般向）[](./Hell_Executor(Promotion_Disc).md)[Hell Executor(Promotion Disc)](./Hell_Executor(Promotion_Disc).md)首发日期：2023-11-12 （第十回 博麗神社秋季例大祭 (未找到链接)）ESCD-0007全长 （一般向）[](./秘封リンク-青.md)[秘封リンク-青](./秘封リンク-青.md)首发日期：2024-05-03 （第二十一回 博麗神社例大祭 (未找到链接)）ESCD-0008全长 （一般向）
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -90,6 +95,7 @@ Endless Sound 匯音社（同人社团，同人音乐社团） - Endless Sound R
 </table>
 
 
+
 ### 先行（sample）
 [](./Ookami_Kakushi.md)[Ookami Kakushi](./Ookami_Kakushi.md)首发日期：2022-01-18 ESCDS-0001单曲 （一般向）[](./Endless_Sound_Sample（02）.md)[Endless Sound Sample（02）](./Endless_Sound_Sample（02）.md)首发日期：2022-06-03 ESCDS-0002单曲 （一般向）[](./Endless_Sound_Sample_03.md)[Endless Sound Sample 03](./Endless_Sound_Sample_03.md)首发日期：2022-08-11 ESCDS-0003单曲 （一般向）[](./Endless_Sound_Sample_04.md)[Endless Sound Sample 04](./Endless_Sound_Sample_04.md)首发日期：2022-10-29 （浙江THO-東方红夜子时 (未找到链接)）ESCDS-0004单曲 （一般向）[](./Endless_Sound_Sample_05.md)[Endless Sound Sample 05](./Endless_Sound_Sample_05.md)首发日期：2023-05-07 ESCDS-0005EP （一般向）
 <table><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
@@ -104,6 +110,7 @@ Endless Sound 匯音社（同人社团，同人音乐社团） - Endless Sound R
 </table>
 
 
+
 ### Remake
 [](./Pure_Mind+.md)[Pure Mind+](./Pure_Mind+.md)首发日期：2022-05-28 ESCD-0002全长 （一般向）[](./三生の花（2022_Remake）.md)[三生の花（2022 Remake）](./三生の花（2022_Remake）.md)首发日期：2022-07-30 （江淮THO·淮乡绮想宴 (未找到链接)）ESCD-0001EP、​重制 （一般向）[](./Stealth_Operation+.md)[Stealth Operation+](./Stealth_Operation+.md)首发日期：2023-08-13 （Comic Market 102 (未找到链接)）ESCDN-0005重制 （一般向）
 <table><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
@@ -112,6 +119,7 @@ Endless Sound 匯音社（同人社团，同人音乐社团） - Endless Sound R
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ### Extra
@@ -124,10 +132,12 @@ Endless Sound 匯音社（同人社团，同人音乐社团） - Endless Sound R
 </table>
 
 
+
 ### 合作
 [](./Café.md)[Café](./Café.md)首发日期：2023-03-04 ESFUN-0001合作、​EP （一般向）该作品是与 [FUN webjectF](./FUN_webjectF.md) 合作创作的
 <table><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 参展信息

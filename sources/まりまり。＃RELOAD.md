@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-まりまり。＃RELOAD封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/b/bd/%E3%81%BE%E3%82%8A%E3%81%BE%E3%82%8A%E3%80%82%EF%BC%83RELOAD%E5%B0%81%E9%9D%A2.jpg/139px-%E3%81%BE%E3%82%8A%E3%81%BE%E3%82%8A%E3%80%82%EF%BC%83RELOAD%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="139" height="196" srcset="https://upload.thwiki.cc/thumb/b/bd/%E3%81%BE%E3%82%8A%E3%81%BE%E3%82%8A%E3%80%82%EF%BC%83RELOAD%E5%B0%81%E9%9D%A2.jpg/208px-%E3%81%BE%E3%82%8A%E3%81%BE%E3%82%8A%E3%80%82%EF%BC%83RELOAD%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/b/bd/%E3%81%BE%E3%82%8A%E3%81%BE%E3%82%8A%E3%80%82%EF%BC%83RELOAD%E5%B0%81%E9%9D%A2.jpg/277px-%E3%81%BE%E3%82%8A%E3%81%BE%E3%82%8A%E3%80%82%EF%BC%83RELOAD%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="516" data-file-height="729"></a><div class="cover-char">角色：<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a>，<a href="./森近霖之助.md" title="森近霖之助">森近霖之助</a></div></td>
@@ -14,9 +15,11 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://helmet.hacca.jp/blog/?p=84">http://helmet.hacca.jp/blog/?p=84</a><br><span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span></td></tr></tbody></table>
 
 まりまり。＃RELOAD（同人志，ヘルメットが直せません，ふすま喫茶，2011） - 2011年5月8日 由 ヘルメットが直せません，ふすま喫茶 于 博丽神社例大祭8 发布的漫画同人志，B5尺寸一共40页，登场人物有 雾雨魔理沙、森近霖之助，分级为 一般向
+
 ## Staff
 - 大出長介 (未找到链接)
 - [水中花火](./水中花火.md)
+
 
 ## 评论
 

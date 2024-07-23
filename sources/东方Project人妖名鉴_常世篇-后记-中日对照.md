@@ -21,6 +21,7 @@
 
   
 </center>
+
 ## 目录
 
 - [1 哑采弦二的后记](#哑采弦二的后记)
@@ -30,9 +31,11 @@
 
 
 
+
 ## 哑采弦二的后记
 
 <table><tbody><tr class="tt-content-header" id="哑采弦二的后记-1" data-pos="&#91;&quot;\u54d1\u91c7\u5f26\u4e8c\u7684\u540e\u8bb0&quot;,1&#93;"><td class="tt-jah" lang="ja"><div class="poem"><ruby lang="ja"><rb>唖采弦二</rb><rp> (</rp><rt>illustrator</rt><rp>) </rp></ruby></div></td><td class="tt-zhh" lang="zh"><div class="poem"><ruby lang="ja"><rb>哑采弦二</rb><rp> (</rp><rt>插画师</rt><rp>) </rp></ruby></div></td></tr><tr class="tt-content" id="哑采弦二的后记-2" data-pos="&#91;&quot;\u54d1\u91c7\u5f26\u4e8c\u7684\u540e\u8bb0&quot;,2&#93;"><td class="tt-ja" lang="ja"><div class="poem">　唖采…弦二です…。</div></td><td class="tt-zh" lang="zh"><div class="poem">　我是哑采……弦二……</div></td></tr><tr class="tt-content" id="哑采弦二的后记-3" data-pos="&#91;&quot;\u54d1\u91c7\u5f26\u4e8c\u7684\u540e\u8bb0&quot;,3&#93;"><td class="tt-ja" lang="ja"><div class="poem">　今回はどえらくテンション低めですがどうせ俺はいつもこんなだよコンチクショウ。<br>　しょせん人間的に劣等種で犬のウンコみたいなものだ。どうせどうせあばばばばばばば…。</div></td><td class="tt-zh" lang="zh"><div class="poem">　这次我的心情超级无敌低落。算了反正我一直都是这样，可恶……<br>　毕竟我是天生的蠢人，简直差劲疯了。我就是差劲啊哈哈哈哈哈哈哈哈哈哈……</div></td></tr><tr class="tt-content" id="哑采弦二的后记-4" data-pos="&#91;&quot;\u54d1\u91c7\u5f26\u4e8c\u7684\u540e\u8bb0&quot;,4&#93;"><td class="tt-ja" lang="ja"><div class="poem">　ハッ！？俺は一体何を？<br>　気を取りなおしてわにちんこ！唖采弦二どえっす！！<br>　（なんかやってんの？）</div></td><td class="tt-zh" lang="zh"><div class="poem">　什么？我刚才在说啥？<br>　打起精神再来一遍，“好家大”！我是哑采弦二哒——<br>　（我在干啥？）</div></td></tr><tr class="tt-content" id="哑采弦二的后记-5" data-pos="&#91;&quot;\u54d1\u91c7\u5f26\u4e8c\u7684\u540e\u8bb0&quot;,5&#93;"><td class="tt-ja" lang="ja"><div class="poem">　…あ、みなさん石投げないでください。</div></td><td class="tt-zh" lang="zh"><div class="poem">　啊，大家行行好，把手上的石头放下吧。</div></td></tr><tr class="tt-content" id="哑采弦二的后记-6" data-pos="&#91;&quot;\u54d1\u91c7\u5f26\u4e8c\u7684\u540e\u8bb0&quot;,6&#93;"><td class="tt-ja" lang="ja"><div class="poem">　あいかわらずカバー描かせていただいたのですがみなさんどうでしたか？<br>　トラウマになりたくないので感想は一切聞きません。</div></td><td class="tt-zh" lang="zh"><div class="poem">　和先前一样，鄙人有幸再次获得绘制封面图的机会，不知大家觉得这次的封面如何呢？<br>　另外，为了避免留下心灵创伤，任何感想我都不会听的。</div></td></tr><tr class="tt-content" id="哑采弦二的后记-7" data-pos="&#91;&quot;\u54d1\u91c7\u5f26\u4e8c\u7684\u540e\u8bb0&quot;,7&#93;"><td class="tt-ja" lang="ja"><div class="poem">　さて今回のカバーは「霊夢と魔理沙」は二人で何をしているのか？…がテーマのイラストです。</div></td><td class="tt-zh" lang="zh"><div class="poem">　言归正传，这次我将“灵梦和魔理沙两个人在做什么呢”作为封面的主题。</div></td></tr><tr class="tt-content" id="哑采弦二的后记-8" data-pos="&#91;&quot;\u54d1\u91c7\u5f26\u4e8c\u7684\u540e\u8bb0&quot;,8&#93;"><td class="tt-ja" lang="ja"><div class="poem">　皆さんのリテラシーを試す、みたいなテーマですが、なんかエロい感じもありますね（死ね）。</div></td><td class="tt-zh" lang="zh"><div class="poem">　这个主题，总觉得像是在考验大家的观察分析能力，而且我还觉得有种“糟糕”的感觉（别胡闹了）。</div></td></tr><tr class="tt-content" id="哑采弦二的后记-9" data-pos="&#91;&quot;\u54d1\u91c7\u5f26\u4e8c\u7684\u540e\u8bb0&quot;,9&#93;"><td class="tt-ja" lang="ja"><div class="poem">　「絵とは見る人間によって完成する」という古代ローマの言葉もありますが（ウソ）、いろいろ想像して楽しんでみてね！</div></td><td class="tt-zh" lang="zh"><div class="poem">　古罗马有谚“画作最终的一笔由观者之眼完成”（骗人的），所以请大家尽情放飞想象！</div></td></tr><tr class="tt-content" id="哑采弦二的后记-10" data-pos="&#91;&quot;\u54d1\u91c7\u5f26\u4e8c\u7684\u540e\u8bb0&quot;,10&#93;"><td class="tt-ja" lang="ja"><div class="poem">　それではまたどこかで！</div></td><td class="tt-zh" lang="zh"><div class="poem">　希望我们有缘再会！</div></td></tr></tbody></table>
+
 
 
 ## ZUN的后记

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 软件信息](#软件信息)
@@ -19,6 +20,7 @@
 
 
 
+
 ## 软件信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-东方宵海格_～_the_Unvisible_Wing·光影篇封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/0/03/%E4%B8%9C%E6%96%B9%E5%AE%B5%E6%B5%B7%E6%A0%BC_%EF%BD%9E_the_Unvisible_Wing%C2%B7%E5%85%89%E5%BD%B1%E7%AF%87%E5%B0%81%E9%9D%A2.jpg/196px-%E4%B8%9C%E6%96%B9%E5%AE%B5%E6%B5%B7%E6%A0%BC_%EF%BD%9E_the_Unvisible_Wing%C2%B7%E5%85%89%E5%BD%B1%E7%AF%87%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="196" height="193" srcset="https://upload.thwiki.cc/thumb/0/03/%E4%B8%9C%E6%96%B9%E5%AE%B5%E6%B5%B7%E6%A0%BC_%EF%BD%9E_the_Unvisible_Wing%C2%B7%E5%85%89%E5%BD%B1%E7%AF%87%E5%B0%81%E9%9D%A2.jpg/294px-%E4%B8%9C%E6%96%B9%E5%AE%B5%E6%B5%B7%E6%A0%BC_%EF%BD%9E_the_Unvisible_Wing%C2%B7%E5%85%89%E5%BD%B1%E7%AF%87%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/0/03/%E4%B8%9C%E6%96%B9%E5%AE%B5%E6%B5%B7%E6%A0%BC_%EF%BD%9E_the_Unvisible_Wing%C2%B7%E5%85%89%E5%BD%B1%E7%AF%87%E5%B0%81%E9%9D%A2.jpg/392px-%E4%B8%9C%E6%96%B9%E5%AE%B5%E6%B5%B7%E6%A0%BC_%EF%BD%9E_the_Unvisible_Wing%C2%B7%E5%85%89%E5%BD%B1%E7%AF%87%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="790" data-file-height="777"></a><div class="cover-char">角色：<a href="/index.php?title=%E8%AE%A9%E5%B7%B4%E5%B0%94&amp;action=edit&amp;redlink=1" class="new" title="让巴尔（页面不存在）">让巴尔</a>，<a href="/index.php?title=%E6%95%A6%E5%88%BB%E5%B0%94%E5%85%8B&amp;action=edit&amp;redlink=1" class="new" title="敦刻尔克（页面不存在）">敦刻尔克</a></div></td>
@@ -27,6 +29,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://h.bilibili.com/9108119">https://h.bilibili.com/9108119</a><br><span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span></td></tr></tbody></table>
 
 东方宵海格 ～ the Unvisible Wing·光影篇（同人游戏，OSY搞事组，2018） - 2018年11月5日 由 OSY搞事组  发布的STG同人游戏，可在 Windows 系统上运行，游戏人数为 单人模式，分级为 一般向
+
 ## Staff
 主催，程序
 : 用户:OLC (未找到链接)
@@ -53,6 +56,7 @@ bug触发器，吉祥物
 特别鸣谢
 : ExboCooope，Xrysnow
 
+
 ## 内容页面
 - [游戏设定与剧情](./东方宵海格_～_the_Unvisible_Wing·光影篇-设定与剧情.md)
 - 机体特性与系统说明 (未找到链接)
@@ -61,7 +65,9 @@ bug触发器，吉祥物
 - [音乐](./东方宵海格_～_the_Unvisible_Wing·光影篇-音乐.md)
 - 其他信息 (未找到链接)
 
+
 ## 评论
+
 ## 下载
   
 请注意：  
@@ -79,10 +85,12 @@ bug触发器，吉祥物
 </td></tr></tbody></table>
 
 
+
 ## 外部链接
   
 [【东方宵海格】东方宵海格●光影篇 宣传视频](https://www.bilibili.com/video/av37321331)
   
+
 
 ## 词条导航
   

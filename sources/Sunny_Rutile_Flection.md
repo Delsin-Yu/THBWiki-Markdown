@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -35,11 +36,13 @@
 
 
 
+
 ## 基本信息
 
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">サニールチルフレクション</td></tr><tr><td><b>译名</b></td><td>Sunny Rutile Flection</td></tr><tr><td><b>其他译名</b></td><td>桑尼金红石折射‎</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 Sunny Rutile Flection（曲目） - 由 ZUN 创作的官方曲目，原名 サニールチルフレクション
+
 ## 出现作品
 
 <table>
@@ -48,10 +51,13 @@ Sunny Rutile Flection（曲目） - 由 ZUN 创作的官方曲目，原名 サ�
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 东方三月精（第一季）附属CD
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-EaLND_01.mp3.md" title="文件:EaLND 01.mp3">EaLND_01.mp3</a><br><audio src="https://upload.thwiki.cc/4/44/EaLND_01.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track01.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>3:49</td></tr></tbody></table>
+
 
 
 ### 东方三月精（第二季）附属CD2
@@ -59,7 +65,9 @@ Sunny Rutile Flection（曲目） - 由 ZUN 创作的官方曲目，原名 サ�
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-SaBND02_02.mp3.md" title="文件:SaBND02 02.mp3">SaBND02_02.mp3</a><br><audio src="https://upload.thwiki.cc/3/3d/SaBND02_02.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track02.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>3:37</td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 东方三月精E
 - CD解说 (未找到链接)
 
@@ -73,8 +81,11 @@ Sunny Rutile Flection（曲目） - 由 ZUN 创作的官方曲目，原名 サ�
 顺便一提，桑尼的折射光线的能力，能将折射率变为负，这是她的拿手好戏。  
 这是一般物质不可能达到的折射率，但可以说是最适合隐藏自己身影的折射了。  
 金红石的折射率什么的，一开始就不成问题。
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
   
 Sunny Rutile Flection サニールチルフレクション
@@ -95,6 +106,7 @@ Sunny Rutile Flection サニールチルフレクション
 ```
 
 : : - 金红石的折射率在2.6-2.9间，是很高的折射率。
+
 
 
 

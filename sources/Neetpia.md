@@ -4,7 +4,8 @@
 
 Neetpia ，于 2008 年成立，主要制作 同人游戏 的日本同人社团，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -21,18 +22,22 @@ Neetpia ，于 2008 年成立，主要制作 同人游戏 的日本同人社团�
 
 
 
+
 ## 社团信息
 [](./文件-Neetpia_banner.png.md)  [](./文件-Neetpia_banner.png.md)banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Neetpia </td></tr><tr><td><b>主要作品类型</b></td><td>同人游戏</td></tr><tr><td><b>成立时间</b></td><td>2008年12月20日</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://neetpia.sakura.ne.jp/">http://neetpia.sakura.ne.jp/</a> </td></tr></tbody></table>
 
 Neetpia（同人社团，同人游戏社团） - Neetpia ，于 2008 年成立，主要制作 同人游戏 的日本同人社团，当前状态为 活动
+
 ## 成员名单
 - 少佐 (未找到链接)&#160;: programming, graphics
 
 : [Twitter: @__syousa__](https://twitter.com/__syousa__)
 
+
 ## 作品列表
+
 ### 同人游戏
 [](./東方蟒酒宴_～Age_of_Ethanols～.md)[東方蟒酒宴 ～Age of Ethanols～](./東方蟒酒宴_～Age_of_Ethanols～.md)首发日期：2009-12-30 （Comic Market 77 (未找到链接)）RTS （一般向）[](./とうほう☆ストラテジー～LotusCraft～.md)[とうほう☆ストラテジー～LotusCraft～](./とうほう☆ストラテジー～LotusCraft～.md)首发日期：2012-12-30 （Comic Market 83 (未找到链接)）RTS （一般向）[](./東方蟒酒宴～Age_of_Ethanols～Plus_&_とうほう☆ストラテジー～LotusCraft～SecondSeason!.md)[東方蟒酒宴～Age of Ethanols～Plus &amp; とうほう☆ストラテジー～LotusCraft～SecondSeason!](./東方蟒酒宴～Age_of_Ethanols～Plus_&_とうほう☆ストラテジー～LotusCraft～SecondSeason!.md)首发日期：2013-08-12 （Comic Market 84 (未找到链接)）RTS （一般向）[](./幻想戦略譚～The_Touhou_Empire～.md)[幻想戦略譚～The Touhou Empire～](./幻想戦略譚～The_Touhou_Empire～.md)首发日期：2015-12-30 （Comic Market 89 (未找到链接)）NEET-06RTS （一般向）[](./Gensokyo_Defenders_／_幻想郷ディフェンダーズ_／_幻想鄉守護者.md)[Gensokyo Defenders / 幻想郷ディフェンダーズ / 幻想鄉守護者](./Gensokyo_Defenders_／_幻想郷ディフェンダーズ_／_幻想鄉守護者.md)首发日期：2019-04-24 SLG （一般向）
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -47,10 +52,12 @@ Neetpia（同人社团，同人游戏社团） - Neetpia ，于 2008 年成立�
 </table>
 
 
+
 ### 同人专辑
 [](./東方蟒酒宴_～Age_of_Ethanols～_テーマ曲＆BGM集.md)[東方蟒酒宴 ～Age of Ethanols～ テーマ曲＆BGM集](./東方蟒酒宴_～Age_of_Ethanols～_テーマ曲＆BGM集.md)首发日期：2011-12-30 （Comic Market 81 (未找到链接)）NEET-03全长 （一般向）
 <table><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 参展信息

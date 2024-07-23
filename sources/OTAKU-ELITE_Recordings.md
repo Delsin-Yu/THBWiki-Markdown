@@ -4,7 +4,8 @@
 
 OTAKU-ELITE Recordings ，于 2008 年成立，主要制作 同人音乐 的日本同人社团，主催是 D.watt，当前状态为 休止
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -20,6 +21,7 @@ OTAKU-ELITE Recordings ，于 2008 年成立，主要制作 同人音乐 的日�
 
 
 
+
 ## 社团信息
 [](./文件-OTAKU-ELITE_Recordingsbanner.png.md)  [](./文件-OTAKU-ELITE_Recordingsbanner.png.md)banner
 [](./文件-OTAKU-ELITE_Recordingslogo.png.md)  [](./文件-OTAKU-ELITE_Recordingslogo.png.md)logo
@@ -27,10 +29,13 @@ OTAKU-ELITE Recordings ，于 2008 年成立，主要制作 同人音乐 的日�
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> OTAKU-ELITE Recordings </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2008</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>主催</b></td><td> <a href="./D.watt.md" title="D.watt">D.watt</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://otakueliterecordings.net">http://otakueliterecordings.net</a> <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><small>（<a rel="nofollow" class="external text" href="https://web.archive.org/web/20161007045852/http://otakueliterecordings.net/">缓存页面</a>）</small></td></tr></tbody></table>
 
 OTAKU-ELITE Recordings（同人社团，同人音乐社团） - OTAKU-ELITE Recordings ，于 2008 年成立，主要制作 同人音乐 的日本同人社团，主催是 D.watt，当前状态为 休止
+
 ## 成员名单
 - [D.watt](./D.watt.md)
 
+
 ## 作品列表
+
 ### 同人专辑
 [](./Purple_and_Cherrypink.md)[Purple and Cherrypink](./Purple_and_Cherrypink.md)首发日期：2008-12-29 （Comic Market 75 (未找到链接)）IOE-0004全长 （一般向）[](./Ruby_and_Aquamarine.md)[Ruby and Aquamarine](./Ruby_and_Aquamarine.md)首发日期：2009-03-08 （第六回 博麗神社例大祭 (未找到链接)）OER-0005全长 （一般向） (未找到链接)祝 東方神居祭 札幌かいさいきねん [オタエリ]夏のしんさく プレビゥーシングル (未找到链接)首发日期：2009-07-05 （東方神居祭1 (未找到链接)）Demo （一般向）[](./Tsukuyomi_and_Amateras.md)[Tsukuyomi and Amateras](./Tsukuyomi_and_Amateras.md)首发日期：2009-08-15 （Comic Market 76 (未找到链接)）OER-0008全长 （一般向）[](./はくたく☆りぼん_まじキモけーね.md)[はくたく☆りぼん　まじキモけーね](./はくたく☆りぼん_まじキモけーね.md)首发日期：2009-12-30 （Comic Market 77 (未找到链接)）OER-0009全长 （一般向）[](./旅人と、その恋人.md)[旅人と、その恋人](./旅人と、その恋人.md)首发日期：2010-03-14 （第七回 博麗神社例大祭 (未找到链接)）OER-0011全长 （一般向）塔罗牌系列第一作[](./戦車を駆りて、■■は.md)[戦車を駆りて、■■は](./戦車を駆りて、■■は.md)首发日期：2010-10-11 （東方紅楼夢6 (未找到链接)）OER-0012全长 （一般向）塔罗牌系列第二作[](./OER_toho_REWORX_vol.1.md)[OER toho REWORX vol.1](./OER_toho_REWORX_vol.1.md)首发日期：2010-12-30 （Comic Market 79 (未找到链接)）全长 （一般向）[](./貴女が生きる、この世界.md)[貴女が生きる、この世界](./貴女が生きる、この世界.md)首发日期：2011-05-08 （第八回 博麗神社例大祭 (未找到链接)）OER-0013全长 （一般向）塔罗牌系列第三作[](./OER_toho_REWORX_Vol.1+2.md)[OER toho REWORX Vol.1+2](./OER_toho_REWORX_Vol.1+2.md)首发日期：2011-08-13 （Comic Market 80 (未找到链接)）混音集 （一般向）[](./OTAKU-ELITE's_Crystal_DISCO.md)[OTAKU-ELITE's Crystal DISCO](./OTAKU-ELITE's_Crystal_DISCO.md)首发日期：2011-12-30 （Comic Market 81 (未找到链接)）OER-1001全长 （一般向）[](./Lost_in_the_silent_ocean_EP.md)[Lost in the silent ocean EP](./Lost_in_the_silent_ocean_EP.md)首发日期：2012-05-27 （第九回 博麗神社例大祭 (未找到链接)）OER-0016EP （一般向）[](./KEINE_KAMISHIRASAWA.md)[KEINE KAMISHIRASAWA](./KEINE_KAMISHIRASAWA.md)首发日期：2012-08-11 （Comic Market 82 (未找到链接)）OER-0017全长 （一般向）[](./Opium_and_Purple_haze_EP.md)[Opium and Purple haze EP](./Opium_and_Purple_haze_EP.md)首发日期：2014-05-11 （第十一回 博麗神社例大祭 (未找到链接)）OER-2001EP （一般向）[](./Spade_and_Diamond_EP.md)[Spade and Diamond EP](./Spade_and_Diamond_EP.md)首发日期：2014-08-16 （Comic Market 86 (未找到链接)）OER-2002EP （一般向）[](./QUEEN'S_TROOPS.md)[QUEEN'S TROOPS](./QUEEN'S_TROOPS.md)首发日期：2016-05-08 （第十三回 博麗神社例大祭 (未找到链接)）OER-0018全长 （一般向）
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -65,6 +70,7 @@ OTAKU-ELITE Recordings（同人社团，同人音乐社团） - OTAKU-ELITE Reco
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 参展信息

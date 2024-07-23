@@ -4,7 +4,8 @@
 
 KodamaSounds ，主要制作 同人音乐 的法国同人社团，主催是 Fivda，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -19,17 +20,21 @@ KodamaSounds ，主要制作 同人音乐 的法国同人社团，主催是 Fivd
 
 
 
+
 ## 社团信息
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> KodamaSounds </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=Fivda&amp;action=edit&amp;redlink=1" class="new" title="Fivda（页面不存在）">Fivda</a> </td></tr><tr><td><b>地区</b></td><td>法国</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="https://kodamasoft.net/">https://kodamasoft.net/</a> <br><a rel="nofollow" class="external free" href="https://twitter.com/KodamaSoft">https://twitter.com/KodamaSoft</a><br><a rel="nofollow" class="external free" href="https://kodamasounds.bandcamp.com/">https://kodamasounds.bandcamp.com/</a><br><a rel="nofollow" class="external free" href="https://kodamasoft.booth.pm/">https://kodamasoft.booth.pm/</a><br><a rel="nofollow" class="external free" href="https://kodamasoft.wordpress.com/">https://kodamasoft.wordpress.com/</a> （旧官网）</td></tr></tbody></table>
 
 KodamaSounds（同人社团，同人音乐社团） - KodamaSounds ，主要制作 同人音乐 的法国同人社团，主催是 Fivda，当前状态为 活动
+
 ## 社团简介
   
 KodamaSounds是法国独立游戏社区KodamaSoft的音乐部门。
   
 
+
 ## 作品列表
+
 ### 同人专辑
 [](./Gensokyo_Party_Vol._1.md)[Gensokyo Party Vol. 1](./Gensokyo_Party_Vol._1.md)首发日期：2020-12-30 （エアコミケ2 (未找到链接)）KSDL-0001全长、​合作 （一般向）[](./Gensokyo_Party_Vol._2_VANTABLACK.md)[Gensokyo Party Vol. 2 VANTABLACK](./Gensokyo_Party_Vol._2_VANTABLACK.md)首发日期：2021-12-31 （Comic Market 99 (未找到链接)）KSDL-0003全长、​合作 （一般向）[](./Gensokyo_Party_Vol._3_Moriya_Barista.md)[Gensokyo Party Vol. 3 Moriya Barista](./Gensokyo_Party_Vol._3_Moriya_Barista.md)首发日期：2022-12-30 （Comic Market 101 (未找到链接)）KSDL-0007全长、​合作 （一般向）[](./Gensokyo_Party_Vol._4_DJ_Koishi.md)[Gensokyo Party Vol. 4 DJ Koishi](./Gensokyo_Party_Vol._4_DJ_Koishi.md)首发日期：2023-11-12 （第十回 博麗神社秋季例大祭 (未找到链接)）KSDL-0010全长 （一般向）[](./Gensokyo_Party_Vol._5_VANTABLACK_2.md)[Gensokyo Party Vol. 5 VANTABLACK 2](./Gensokyo_Party_Vol._5_VANTABLACK_2.md)首发日期：2024-05-03 （第二十一回 博麗神社例大祭 (未找到链接)）KSDL-0014全长 （一般向）
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>

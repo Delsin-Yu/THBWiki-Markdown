@@ -23,6 +23,7 @@
 </center>
 - 本词条内容为官方游戏TH06 **东方红魔乡** 的敌机符卡
 
+
 ## 目录
 
 - [1 红美铃](#红美铃)
@@ -77,6 +78,7 @@
 
 
 # 红美铃
+
 ## No.08
 
 <table>
@@ -95,6 +97,7 @@
 </th></tr></tbody></table>
 
 
+
 ### 符卡信息
 
 <table>
@@ -106,6 +109,7 @@
 <p>3面道中BOSS红美铃Easy / Normal难度符卡。
 </p>
 </td></tr></tbody></table>
+
 
 
 
@@ -127,6 +131,7 @@
 </th></tr></tbody></table>
 
 
+
 ### 符卡信息
 
 <table>
@@ -138,6 +143,7 @@
 <p>3面道中BOSS红美铃Hard / Lunatic难度符卡。
 </p>
 </td></tr></tbody></table>
+
 
 
 
@@ -159,6 +165,7 @@
 </th></tr></tbody></table>
 
 
+
 ### 符卡信息
 
 <table>
@@ -170,6 +177,7 @@
 <p>3面BOSS红美铃Easy / Normal / Hard / Lunatic难度符卡。
 </p>
 </td></tr></tbody></table>
+
 
 
 
@@ -191,6 +199,7 @@
 </th></tr></tbody></table>
 
 
+
 ### 符卡信息
 
 <table>
@@ -202,6 +211,7 @@
 <p>3面BOSS红美铃Hard / Lunatic难度符卡。
 </p>
 </td></tr></tbody></table>
+
 
 
 
@@ -223,6 +233,7 @@
 </th></tr></tbody></table>
 
 
+
 ### 符卡信息
 
 <table>
@@ -234,6 +245,7 @@
 <p>3面BOSS红美铃Easy / Normal难度符卡。
 </p>
 </td></tr></tbody></table>
+
 
 
 
@@ -255,6 +267,7 @@
 </th></tr></tbody></table>
 
 
+
 ### 符卡信息
 
 <table>
@@ -266,6 +279,7 @@
 <p>3面BOSS红美铃Hard / Lunatic难度符卡。
 </p>
 </td></tr></tbody></table>
+
 
 
 
@@ -285,6 +299,7 @@
 <p><a href="./极彩台风.md" title="极彩台风" unred="">彩符「极彩台风」</a>
 </p>
 </th></tr></tbody></table>
+
 
 
 ### 符卡信息

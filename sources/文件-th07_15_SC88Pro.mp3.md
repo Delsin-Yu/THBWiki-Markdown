@@ -4,6 +4,7 @@
 
 东方妖妖梦 | 妖妖跋扈
 
+
 ## 文件说明
   
 妖々跋扈 东方妖妖梦Extra面道中曲MIDI版。由Roland Sound Canvas 88Pro实机录制；MP3采样率44.1KHz，码率192Kbps。  

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Candy_Box封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/0/03/Candy_Box%E5%B0%81%E9%9D%A2.jpg/137px-Candy_Box%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="137" height="196" srcset="https://upload.thwiki.cc/thumb/0/03/Candy_Box%E5%B0%81%E9%9D%A2.jpg/205px-Candy_Box%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/0/03/Candy_Box%E5%B0%81%E9%9D%A2.jpg/274px-Candy_Box%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="629" data-file-height="900"></a><div class="cover-char">角色：<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a></div></td>
@@ -18,8 +19,10 @@ Candy Box（同人志，ちどりあし，2015） - 2015年11月1日 由 ちど�
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=143034">蜜瓜</a></td></tr></tbody></table>
 
 
+
 ## 预览
 - [](./文件-Candy_Box预览图1.jpg.md)- [](./文件-Candy_Box预览图2.jpg.md)
+
 
 ## Staff
 主催
@@ -27,6 +30,7 @@ Candy Box（同人志，ちどりあし，2015） - 2015年11月1日 由 ちど�
 Guest
 : ひゆう (未找到链接)
 : 優真 (未找到链接)
+
 
 ## 评论
   

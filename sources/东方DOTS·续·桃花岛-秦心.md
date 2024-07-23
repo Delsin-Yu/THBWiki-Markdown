@@ -164,6 +164,7 @@
 [](./文件-THD2秦心.png.md)
   
 
+
 ## 目录
 
 - [1 角色定位](#角色定位)
@@ -184,10 +185,12 @@
 
 
 
+
 ## 角色定位
   
 控制 - 逃生 - 先手 - 核心 - 爆发
   
+
 
 ## 技能介绍
 
@@ -901,6 +904,7 @@
 </td></tr></tbody></table>
 
 
+
 ## 天赋树
 
 
@@ -943,10 +947,12 @@
 “表情管理”效果为常驻 **怒** 喜 **忧** 状态
   
 
+
 ### 出门装备
   
 根据对线者可以选择出门装，对线法师可以出[](./文件-THD2红魔符文.png.md)，对线敏捷少女可以出[](./文件-THD2魔力灵符.png.md)，对线技能频繁的少女可以出[](./文件-THD2御币.png.md)可以在释放二技能[](./文件-THD2秦心_02.png.md)（即脸谱会变为喜的时候，状态栏会显示当前脸谱状态，1为怒，2为喜，3为忧）后在补兵时释放二技能消耗对手的同时回血，可以在血线上占据优势，如果需要强打可以释放1技能[](./文件-THD2秦心_01.png.md)后接2技能[](./文件-THD2秦心_02.png.md)这个连招是前期打出的最高伤害
   
+
 
 ### 前期装备
   
@@ -956,6 +962,7 @@
 尽早做出火箭，连招是先放一次一技能[](./文件-THD2秦心_01.png.md)，让自己处于怒的状态，在目标出现后使用第二个0天生技能[](./文件-THD2秦心_天生_02.png.md)，使用怒状态加强的一技能穿过目标，使用红魔火箭[](./文件-THD2红魔火箭1级.png.md)接上第一个天生技能[](./文件-THD2秦心_天生_01.png.md)（经过测试第一个天生技能[](./文件-THD2秦心_天生_01.png.md)不会使物品变为纯粹伤害所以可以先用红魔火箭控制伤害对手再释放第一个天生技能），之后使用2技能[](./文件-THD2秦心_02.png.md)（这两个技能都经过怒状态加成，伤害会大大提升），最后接上大招斩杀
   
 
+
 ### 核心装备
   
 [](./文件-THD2红魔火箭5级.png.md) [](./文件-THD2龙星.png.md) [](./文件-THD2油库里之杖.png.md)
@@ -964,6 +971,7 @@
 稳定的击杀装备
   
 
+
 ### 可选装备
   
 [](./文件-THD2博丽神社护身符.png.md) [](./文件-THD2亡灵送行提灯.png.md) [](./文件-THD2迷你八卦炉.png.md)
@@ -971,6 +979,7 @@
   
 后面基本上就是提升容错率和伤害，[](./文件-THD2万宝槌.png.md)别出，上当装备
   
+
 
 ## 技能加点
 
@@ -1032,6 +1041,7 @@
 <td><a href="./文件-DOTA黄点.png.md" class="image" title="+2 全属性"><img alt="+2 全属性" src="https://upload.thwiki.cc/thumb/d/da/DOTA%E9%BB%84%E7%82%B9.png/40px-DOTA%E9%BB%84%E7%82%B9.png" decoding="async" loading="lazy" width="40" height="40" srcset="https://upload.thwiki.cc/thumb/d/da/DOTA%E9%BB%84%E7%82%B9.png/60px-DOTA%E9%BB%84%E7%82%B9.png 1.5x, https://upload.thwiki.cc/thumb/d/da/DOTA%E9%BB%84%E7%82%B9.png/80px-DOTA%E9%BB%84%E7%82%B9.png 2x" data-file-width="128" data-file-height="128"></a></td>
 <td><a href="./文件-THD2天赋树25左.png.md" class="image" title="假面丧心舞击杀目标后刷新所有技能"><img alt="假面丧心舞击杀目标后刷新所有技能" src="https://upload.thwiki.cc/thumb/a/aa/THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%B7%A6.png/40px-THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%B7%A6.png" decoding="async" loading="lazy" width="40" height="40" srcset="https://upload.thwiki.cc/thumb/a/aa/THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%B7%A6.png/60px-THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%B7%A6.png 1.5x, https://upload.thwiki.cc/thumb/a/aa/THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%B7%A6.png/80px-THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%B7%A6.png 2x" data-file-width="103" data-file-height="103"></a>
 </td></tr></tbody></table>
+
 
 
 ## 台词
@@ -1172,6 +1182,7 @@
 </td>
 <td>さあ噂するが良い。我を強化するがよい<br>[来吧尽情地将流言传开吧。继续将我强化下去吧]
 </td></tr></tbody></table>
+
 
 
 ## 教学视频

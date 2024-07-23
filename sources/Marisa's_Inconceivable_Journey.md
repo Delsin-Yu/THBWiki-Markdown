@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 软件信息](#软件信息)
@@ -13,6 +14,7 @@
 - [3 内容页面](#内容页面)
 - [4 评论](#评论)
 - [5 外部链接](#外部链接)
+
 
 
 
@@ -35,10 +37,12 @@ Marisa's Inconceivable Journey（同人游戏，Dark Sky Empire，2022） - 2022
 </tbody></table>
 
 
+
 ## Staff
   
 本游戏由“飞越无尽暗空”设计与开发，作为Steam开发者的名字是Dark Sky Empire。
   
+
 
 ## 内容页面
 - [游戏设定与剧情](./Marisa's_Inconceivable_Journey-设定与剧情.md)
@@ -47,7 +51,9 @@ Marisa's Inconceivable Journey（同人游戏，Dark Sky Empire，2022） - 2022
 - [素材来源](./Marisa's_Inconceivable_Journey-素材来源.md)
 - [最终用户许可协议](./Marisa's_Inconceivable_Journey-EULA.md)
 
+
 ## 评论
+
 ## 外部链接
 - [Steam上的Marisa's Inconceivable Journey](https://store.steampowered.com/app/1145800/Marisas_Inconceivable_Journey/)
 

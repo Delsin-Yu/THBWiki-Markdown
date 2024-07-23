@@ -18,6 +18,7 @@
 
 
 </center>
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-The_Toho_Project_set_of_旧作_Special_Edit封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/1/1b/The_Toho_Project_set_of_%E6%97%A7%E4%BD%9C_Special_Edit%E5%B0%81%E9%9D%A2.jpg/252px-The_Toho_Project_set_of_%E6%97%A7%E4%BD%9C_Special_Edit%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="252" srcset="https://upload.thwiki.cc/thumb/1/1b/The_Toho_Project_set_of_%E6%97%A7%E4%BD%9C_Special_Edit%E5%B0%81%E9%9D%A2.jpg/378px-The_Toho_Project_set_of_%E6%97%A7%E4%BD%9C_Special_Edit%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/1/1b/The_Toho_Project_set_of_%E6%97%A7%E4%BD%9C_Special_Edit%E5%B0%81%E9%9D%A2.jpg/504px-The_Toho_Project_set_of_%E6%97%A7%E4%BD%9C_Special_Edit%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="780" data-file-height="780"></a></td>
@@ -26,15 +27,18 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://jicohoukaiseilogic.wordpress.com/jlth-0004/">https://jicohoukaiseilogic.wordpress.com/jlth-0004/</a></td></tr></tbody></table>
 
 The Toho Project set of 旧作 Special Edit（同人专辑，自己崩壊性LOGiC） - 2024年6月22日 由 自己崩壊性LOGiC  发布的EP同人专辑，分级为 一般向
+
 ## Staff
 Design
 : 设计师 （[网址 社团]）
 Illustration
 : 画师 （[网址 社团]）
 
+
 ## 曲目列表
 
 <table></table>
+
 
 
 ## 评论

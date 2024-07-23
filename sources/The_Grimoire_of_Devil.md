@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=The_Grimoire_of_Devil%E5%B0%81%E9%9D%A2.jpg" class="new" title="文件:The Grimoire of Devil封面.jpg">封面图片</a></td>
@@ -14,12 +15,14 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://tentenmaru.web.fc2.com/grimoiredevil.html">http://tentenmaru.web.fc2.com/grimoiredevil.html</a></td></tr></tbody></table>
 
 The Grimoire of Devil（同人志，転々。新聞，2009） - 2009年9月22日 由 転々。新聞 于 红之广场2 发布的小说同人志，分级为 一般向
+
 ## Staff
 Writing
 : Xansetsu （[転々。新聞](./転々。新聞.md)）
 : 長月時雨
 Illustration
 : 黒犬
+
 
 ## 评论
 

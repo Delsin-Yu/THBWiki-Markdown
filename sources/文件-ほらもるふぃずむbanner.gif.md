@@ -4,6 +4,7 @@
 
 ほらもるふぃずむ | 社团LOGO
 
+
 ## 摘要
   
 源地址：[direct image link](http://horamorphism.web.fc2.com/banner.gif), [source page](http://horamorphism.web.fc2.com/link.html)

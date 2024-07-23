@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **相关实体周边 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 周边信息](#周边信息)
@@ -22,6 +23,7 @@
 
 
 
+
 ## 周边信息
 
 <table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> TOSXツアーTシャツ </td></tr><tr><td class="label">译名</td><td> 十周年巡回演出纪念T恤 </td></tr><tr><td class="label">系列</td><td> 十周年 </td></tr><tr><td class="label">制作方</td><td><a href="./魂音泉.md" title="魂音泉">魂音泉</a></td></tr><tr><td class="label">首发日期</td><td>2019-05-28</td></tr><tr><td class="label">类型</td><td>衣服</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>XL均码（背长73.5cm，胸围112cm，肩宽43cm，袖长21cm）</td></tr><tr><td class="label">材质</td><td>织物</td></tr><tr><td class="label">售价</td><td>3241日元（不含税），150人民币</td></tr>
@@ -32,20 +34,25 @@
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://tamaonsen-556.booth.pm/items/1632074">Booth</a></td></tr><tr><td class="label">授权代理</td><td colspan="2"><a rel="nofollow" class="external text" href="https://item.taobao.com/item.htm?spm=a2oq0.12575281.0.0.42cd1deblR2QaB&amp;ft=t&amp;id=595333763914&amp;qq-pf-to=pcqq.group">淘宝</a></td></tr></tbody></table>
 
 
+
 ## 参考图
   
 周边宣传、售卖时使用的作为参考图的预览图或实物图的图片。
   
 
+
 ### 预览图
 - [](./文件-魂音泉／十周年／TOSXツアーTシャツ预览图1.jpg.md)
+
 
 ### 实物图
 - [](./文件-魂音泉／十周年／TOSXツアーTシャツ实物图1.jpg.md)- [](./文件-魂音泉／十周年／TOSXツアーTシャツ实物图2.jpg.md)- [](./文件-魂音泉／十周年／TOSXツアーTシャツ实物图3.jpg.md)- [](./文件-魂音泉／十周年／TOSXツアーTシャツ实物图4.jpg.md)
 
+
 ## Staff
 Design
 : [零 / Rei](./零（同人专辑）.md)
+
 
 ## 评论
 

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Play_tag_with_vampire封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/2/25/Play_tag_with_vampire%E5%B0%81%E9%9D%A2.jpg/148px-Play_tag_with_vampire%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="148" height="196" srcset="https://upload.thwiki.cc/thumb/2/25/Play_tag_with_vampire%E5%B0%81%E9%9D%A2.jpg/223px-Play_tag_with_vampire%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/2/25/Play_tag_with_vampire%E5%B0%81%E9%9D%A2.jpg/297px-Play_tag_with_vampire%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="606" data-file-height="800"></a><div class="cover-char">角色：<a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a>，<a href="./红美铃.md" title="红美铃">红美铃</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=23436446">https://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=23436446</a></td></tr></tbody></table>
 
 Play tag with vampire（同人志，うり畑牧場，2011） - 2011年11月23日 由 うり畑牧場 于 东方久远境5 发布的漫画同人志，一共32页，登场人物有 蕾米莉亚·斯卡蕾特、红美铃，分级为 一般向
+
 ## Staff
 - [まくわうに](./まくわうに.md)
+
 
 ## 评论
 

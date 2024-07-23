@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Re_Letter-濡葉色の物語-封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/3/3f/Re_Letter-%E6%BF%A1%E8%91%89%E8%89%B2%E3%81%AE%E7%89%A9%E8%AA%9E-%E5%B0%81%E9%9D%A2.jpg/99px-Re_Letter-%E6%BF%A1%E8%91%89%E8%89%B2%E3%81%AE%E7%89%A9%E8%AA%9E-%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="99" height="140" srcset="https://upload.thwiki.cc/thumb/3/3f/Re_Letter-%E6%BF%A1%E8%91%89%E8%89%B2%E3%81%AE%E7%89%A9%E8%AA%9E-%E5%B0%81%E9%9D%A2.jpg/148px-Re_Letter-%E6%BF%A1%E8%91%89%E8%89%B2%E3%81%AE%E7%89%A9%E8%AA%9E-%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/3/3f/Re_Letter-%E6%BF%A1%E8%91%89%E8%89%B2%E3%81%AE%E7%89%A9%E8%AA%9E-%E5%B0%81%E9%9D%A2.jpg/198px-Re_Letter-%E6%BF%A1%E8%91%89%E8%89%B2%E3%81%AE%E7%89%A9%E8%AA%9E-%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="849" data-file-height="1200"></a><div class="cover-char">角色：<a href="./幽谷响子.md" title="幽谷响子">幽谷响子</a>，<a href="./多多良小伞.md" title="多多良小伞">多多良小伞</a></div></td>
@@ -18,8 +19,10 @@ Re Letter-濡葉色の物語-（同人志，落ち葉，2018） - 2018年8月10�
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://otiba-onrine.booth.pm/items/964741">Booth</a></td></tr></tbody></table>
 
 
+
 ## Staff
 - 秋乃 楓 (未找到链接)
+
 
 ## 评论
 

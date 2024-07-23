@@ -4,6 +4,7 @@
 
 Nono_443
 
+
 ## 目录
 
 - [1 博丽灵梦](#博丽灵梦)
@@ -15,6 +16,7 @@ Nono_443
 - [7 魅魔](#魅魔)
 - [8 爱丽丝](#爱丽丝)
 - [9 注释](#注释)
+
 
 
 
@@ -44,6 +46,7 @@ Nono_443
 <tr><td style="width:200px">「阴阳五行结界」</td><td style="width:200px">「陰陽五行結界」</td><td style="width:180px">EXTREME</td></tr></tbody></table>
 
 
+
 ## 十六夜咲夜
 
 <table><tbody><tr><th><b>中文名</b></th><th><b>日文名</b></th><th><b>出现位置</b></th></tr><tr><td style="width:200px">凶刃「Spinning Edge」（旋转刀刃）</td><td style="width:200px">凶刃「スピニングエッジ」</td><td style="width:180px">TRIAL/MODERATE</td></tr>
@@ -67,6 +70,7 @@ Nono_443
 <tr><td style="width:200px">光痕「Cicatrix Moment」（伤痕之刻）</td><td style="width:200px">光痕「シカートリックスモーメント」</td><td style="width:180px">EXTREME</td></tr>
 <tr><td style="width:200px">「Accelerate World」（加速世界）<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">3</a></sup></td><td style="width:200px">「アクセラレートワールド」</td><td style="width:180px">MODERATE</td></tr>
 <tr><td style="width:200px">「Nanosecond World」（纳秒世界）</td><td style="width:200px">「ナノセカンドワールド」</td><td style="width:180px">EXTREME</td></tr></tbody></table>
+
 
 
 ## 雾雨魔理沙
@@ -105,6 +109,7 @@ Nono_443
 <tr><td style="width:200px">「Fate of the Universe」（宇宙的命运）</td><td style="width:200px">「フェイト・オブ・ザ・ユニバース」</td><td style="width:180px">OVERDRIVE<sup id="cite_ref-od_5-9" class="reference"><a href="#cite_note-od-5">5</a></sup></td></tr></tbody></table>
 
 
+
 ## 魂魄妖梦[^cite_note-10]
 
 <table><tbody><tr><th><b>中文名</b></th><th><b>日文名</b></th><th><b>出现位置</b></th></tr><tr><td style="width:200px">业断剑「顺现法受斩」<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">11</a></sup></td><td style="width:200px">業断剣「順現法受斬」</td><td style="width:180px">TRIAL/MODERATE/EXTREME</td></tr>
@@ -112,6 +117,7 @@ Nono_443
 <tr><td style="width:200px">无常剑「十二缘起顺观」<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">12</a></sup></td><td style="width:200px">無常剣「十二縁起順観」</td><td style="width:180px">EXTREME</td></tr>
 <tr><td style="width:200px">常夜剑「夜刻一刀」</td><td style="width:200px">常夜剣「夜刻一刀」</td><td style="width:180px">MODERATE</td></tr>
 <tr><td style="width:200px">无明剑「六道轮回」</td><td style="width:200px">無明剣「六道輪廻」</td><td style="width:180px">MODERATE</td></tr></tbody></table>
+
 
 
 ## 西行寺幽幽子
@@ -147,6 +153,7 @@ Nono_443
 <tr><td style="width:200px">「反魂蝶 -狂咲-」</td><td style="width:200px">「反魂蝶‐狂い咲き‐」</td><td style="width:180px">EXTREME</td></tr></tbody></table>
 
 
+
 ## 古明地恋
 
 <table><tbody><tr><th><b>中文名</b></th><th><b>日文名</b></th><th><b>出现位置</b></th></tr><tr><td style="width:200px">感觉「Felt Sense, Shift」（感受，移位）<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">13</a></sup></td><td style="width:200px">感覚「フェルト・センス・シフト」</td><td style="width:180px">TRIAL/MODERATE</td></tr>
@@ -169,6 +176,7 @@ Nono_443
 <tr><td style="width:200px">「蜂群崩坏症候群」<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">26</a></sup></td><td style="width:200px">「蜂群崩壊症候群」</td><td style="width:180px">EXTREME</td></tr>
 <tr><td style="width:200px">「超自我Repression」（超我的抑制）</td><td style="width:200px">「超自我レプレッション」</td><td style="width:180px">MODERATE</td></tr>
 <tr><td style="width:200px">「Abyss Fringe」（深渊边缘）</td><td style="width:200px">「アビス・フリンジ」</td><td style="width:180px">EXTREME</td></tr></tbody></table>
+
 
 
 ## 魅魔
@@ -194,6 +202,7 @@ Nono_443
 <tr><td style="width:200px">「Planet·Blue Sky」（蓝天行星）</td><td style="width:200px">「プラネット・ブルースカイ」</td><td style="width:180px">EXTREME</td></tr>
 <tr><td style="width:200px">「Gate of Galaxy」（银河之门）</td><td style="width:200px">「ゲートオブギャラクシー」</td><td style="width:180px">TRIAL/MODERATE</td></tr>
 <tr><td style="width:200px">「Fate of the Universe」（宇宙的命运）</td><td style="width:200px">「フェイト・オブ・ザ・ユニバース」</td><td style="width:180px">EXTREME</td></tr></tbody></table>
+
 
 
 ## 爱丽丝

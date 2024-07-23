@@ -4,8 +4,9 @@
 
 江西THO-梦违赣鄱荟萃 在 中国南昌 举办的  东方同人展会活动，目前共举办了3届
 
-本页是关于 **同人展会 (未找到链接)**   
-及 **相关活动 (未找到链接)** 的词条
+本页是关于 **[同人展会](./同人展会.md#展会类活动)**   
+及 **[相关活动](./相关活动.md)** 的词条
+
 ## 目录
 
 - [1 概述](#概述)
@@ -38,6 +39,7 @@
 
 
 
+
 ## 概述
 
 
@@ -64,7 +66,7 @@
   
   
   
-中国 **南昌** 的东方Project Only **同人展会类活动 (未找到链接)** 。  
+中国 **南昌** 的东方Project Only **同人[展会类活动](./展会类活动.md#展会类活动)** 。  
   
 在南昌举办。  
 直到目前为止，已经举办了3届（包含已决定将会举办）。  
@@ -79,6 +81,7 @@
 官方哔哩哔哩： [https://space.bilibili.com/636402394](https://space.bilibili.com/636402394)   
   
 江西THO-梦违赣鄱荟萃（活动，展会活动） - 江西THO-梦违赣鄱荟萃 在 中国南昌 举办的  东方同人展会活动，目前共举办了3届
+
 ## 历届信息
 - 点击届数可进入对应分类页面
 - 摊位数统计可能不准确，请注意
@@ -92,25 +95,32 @@
 </tbody></table>
 
 
+
 ## 演出社团及人员
 江西THO-梦违赣鄱荟萃·贰~秋水幻音盛宴
-: 夜之骚灵 (未找到链接)、[四季如歌室内乐团](./四季如歌室内乐团.md)、[幻歌鸟与风声之乐](./幻歌鸟与风声之乐.md)、香樟之新乐团
+: [夜之骚灵](./夜之骚灵.md)、[四季如歌室内乐团](./四季如歌室内乐团.md)、[幻歌鸟与风声之乐](./幻歌鸟与风声之乐.md)、香樟之新乐团
+
 
 ## 历届宣传图
   
 网站首页使用的作为顶图或宣传图的图片。
   
 
+
 ### 第一届
 - [](./文件-梦违赣鄱荟萃1_宣传图1.jpg.md)第1届一宣海报- [](./文件-梦违赣鄱荟萃1_宣传图2.jpg.md)第1届宣传图
+
 
 ### 第二届
 - [](./文件-第二届赣t海报一宣.png.md)第2届一宣海报- [](./文件-江西THO2宣传图2.jpg.md)第2届 宣传图2
 
+
 ### 第三届
 - [](./文件-第三届赣t海报一宣.jpg.md)第3届零宣海报- [](./文件-第三届赣t海报2.jpg.md)第3届海报2
 
+
 ## 作品列表
+
 ### 同人专辑
 [](./Tunes_In_Forgotten_Land.md)[Tunes In Forgotten Land](./Tunes_In_Forgotten_Land.md)首发日期：2021-07-10 （江西THO-梦违赣鄱荟萃·壹~秋水鸣歌宴 (未找到链接)）JXCD-01合作、​活动纪念 （一般向）[](./Tunes_In_Forgotten_Land_vol.2.md)[Tunes In Forgotten Land vol.2](./Tunes_In_Forgotten_Land_vol.2.md)首发日期：2023-07-15 （江西THO-梦违赣鄱荟萃·贰~落霞梦绘市集 (未找到链接)）JXCD-02活动纪念 （一般向）
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -119,18 +129,22 @@
 </table>
 
 
+
 ### 同人志
 [](./落霞绘梦~Into_Fantasy.md)[落霞绘梦~Into Fantasy](./落霞绘梦~Into_Fantasy.md)首发日期：2023-07-15 （江西THO-梦违赣鄱荟萃·贰~落霞梦绘市集 (未找到链接)）JX-01画集 （一般向）A4&#160;尺寸 28&#160;页
 <table><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
 
 
+
 ## 历届企划
 - 活动官方进行的或与其他活动官方、社团或人员共同进行的与活动有关联的企划。
 - 此页面只会记录东方Project相关的企划。
 
+
 ### 东方Liveparty x 江西THO 晚场live点歌计划
 - [](./文件-梦违赣鄱荟萃1_宣传图3.jpg.md)江西THO-梦违赣鄱荟萃·壹~秋水鸣歌宴与东方Liveparty合作企划宣传图
+
 
 ### 秋水幻音盛宴
 - [](./文件-江西THO2演奏会宣传图.jpg.md)江西THO-梦违赣鄱荟萃·贰~落霞梦绘市集演奏会秋水幻音盛宴宣传图

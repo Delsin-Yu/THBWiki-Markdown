@@ -4,6 +4,7 @@
 
 カレーラーメン | 社团LOGO
 
+
 ## 摘要
   
 源地址：[direct image link (original size)](https://blog-imgs-136-origin.fc2.com/g/a/m/gamecurryramen/202103061246344bd.png), [source page (circle blog)](https://gamecurryramen.blog.fc2.com/)

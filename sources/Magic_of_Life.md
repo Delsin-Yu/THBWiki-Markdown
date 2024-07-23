@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -34,11 +35,13 @@
 
 
 
+
 ## 基本信息
 
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">Magic of Life</td></tr><tr><td><b>译名</b></td><td>Magic of Life</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 Magic of Life（曲目） - 由 ZUN 创作的官方曲目，原名 Magic of Life
+
 ## 出现作品
 
 <table>
@@ -46,13 +49,17 @@ Magic of Life（曲目） - 由 ZUN 创作的官方曲目，原名 Magic of Life
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 东方幻想的音乐
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td><a href="./文件-zun002.mid.md" title="文件:zun002.mid">zun002.mid</a></td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-zun_002.mp3.md" title="文件:zun 002.mp3">zun_002.mp3</a><br><audio src="https://upload.thwiki.cc/f/fc/zun_002.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>zun002.mid</td></tr><tr><td><b>音轨时长</b></td><td>3:33</td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 东方幻想的音乐
 - zun002.txt (未找到链接)
 
@@ -89,9 +96,13 @@ Magic of Life（曲目） - 由 ZUN 创作的官方曲目，原名 Magic of Life
   
   
 那么下次曲子再见吧　ＺＵＮ
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
+
 ### 二次同人数据
 
 <table><tbody><tr><th colspan="2">统计</th></tr>

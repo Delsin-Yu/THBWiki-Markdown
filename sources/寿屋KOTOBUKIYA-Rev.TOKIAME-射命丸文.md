@@ -6,11 +6,13 @@
 
 本页是关于东方Project  
  **相关实体周边 (未找到链接)** 的词条
+
 ## 模型信息
 
 <table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 射命丸文 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>Rev.TOKIAME</td></tr><tr><td class="label">角色</td><td><a href="./射命丸文.md" title="射命丸文">射命丸文</a></td></tr><tr><td class="label">原型师</td><td><a href="/index.php?title=%E3%82%B1%E3%83%AD%E3%83%AA%E3%82%BD&amp;action=edit&amp;redlink=1" class="new" title="ケロリソ（页面不存在）">ケロリソ</a></td></tr><tr><td class="label">原画师</td><td><a href="./TOKIAME.md" title="TOKIAME">TOKIAME</a></td></tr><tr><td class="label">比例</td><td>1/8</td></tr><tr><td class="label">尺寸</td><td>190mm</td></tr><tr><td class="label">状态</td><td>已发售</td></tr><tr><td class="label">售价</td><td>7143日元</td></tr><tr><td class="label">首发日期</td><td>2011-07-19</td></tr><tr><td class="label">发售方</td><td><a href="/index.php?title=%E5%AF%BF%E5%B1%8BKOTOBUKIYA&amp;action=edit&amp;redlink=1" class="new" title="寿屋KOTOBUKIYA（页面不存在）">寿屋KOTOBUKIYA</a></td></tr><tr><td class="label">官网页面</td><td><a rel="nofollow" class="external free" href="http://main.kotobukiya.co.jp/">http://main.kotobukiya.co.jp/</a></td></tr></tbody></table>
 
 寿屋KOTOBUKIYA/Rev.TOKIAME/射命丸文（周边） - 射命丸文PVCFigure手办模型
+
 ## 参考图片
 
 

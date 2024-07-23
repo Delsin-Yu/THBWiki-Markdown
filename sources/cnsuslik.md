@@ -6,11 +6,13 @@
 
 本页是关于东方Project  
  **二次同人创作者** 的词条
+
 ## 基本信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="label"><b>名称</b></td><td> cnsuslik </td></tr><tr><td class="label"><b>别名</b></td><td>suslik, DJ suslik, 苏妈, 苏小姐, 保温杯</td></tr><tr><td class="label"><b>所属社团</b></td><td><b>当前</b><div style="margin-left:2em;"><a href="./Matthiola_Records.md" title="Matthiola Records">Matthiola Records</a></div></td></tr><tr><td class="label"><b>职位</b></td><td>主理人，作曲，编曲</td></tr><tr><td class="label"><b>参与社团</b></td><td><a href="./Matthiola_Records.md" title="Matthiola Records">Matthiola Records</a> （作曲，编曲）<br><a href="./鸽屋谷.md" title="鸽屋谷">鸽屋谷</a> （编曲）</td></tr><tr><td class="label"><b>性别</b></td><td>男</td></tr><tr><td class="label"><b>生日</b></td><td>1997年9月20日</td></tr><tr><td class="label"><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="https://www.matthiola-rec.net/">https://www.matthiola-rec.net/</a></td></tr><tr><td class="label"><b>个人页面</b></td><td><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><b>bandcamp</b></td><td><a rel="nofollow" class="external free" href="https://matthiola.bandcamp.com/">https://matthiola.bandcamp.com/</a></td></tr><tr><td><b>Weibo</b></td><td><a rel="nofollow" class="external free" href="https://weibo.com/kirinocoro">https://weibo.com/kirinocoro</a></td></tr></tbody></table></td></tr></tbody></table>
 
 cnsuslik（人物） - 现实人物
+
 ## 介绍
   
 [Matthiola Records](./Matthiola_Records.md)大当家，日系派对活动“JK Night”主理人。  
@@ -29,11 +31,14 @@ suslik自学生时代起开始收集日本同人音乐CD并活跃于线上电台
 
   
 
+
 ## 参与作品
+
 ### 同人音乐
   
 模板:人物曲目列表 (未找到链接)
   
+
 
 ## 人际关系
 人名

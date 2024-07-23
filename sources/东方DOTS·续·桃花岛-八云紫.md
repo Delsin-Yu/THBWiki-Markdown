@@ -164,6 +164,7 @@
 [](./文件-THD2八云紫.png.md)
   
 
+
 ## 目录
 
 - [1 角色定位](#角色定位)
@@ -184,6 +185,7 @@
 
 
 
+
 ## 角色定位
   
 爆发 - 控制 - 先手 - 逃生 - 辅助
@@ -196,6 +198,7 @@
   
 无论如何，选择八云紫后请记得随时用你的 [](./文件-THD2八云紫_02.png.md) 来反补友方远程兵，这非常重要！
   
+
 
 ## 技能介绍
 
@@ -792,6 +795,7 @@
 </td></tr></tbody></table>
 
 
+
 ## 天赋树
 
 
@@ -830,6 +834,7 @@
 </td></tr></tbody></table>
 
 
+
 ### 出门装备
 ```
 [](./文件-THD2鬼天王腰带.png.md) [](./文件-THD2无色水晶.png.md)
@@ -838,6 +843,7 @@
   
 出门装备合成出礼物，等金钱足够时吃掉礼物直接换取前期装备
   
+
 
 ### 前期装备
 ```
@@ -852,6 +858,7 @@
 对于不需要鞋子的八云紫背包格子很空余的,出两个草吧
   
 
+
 ### 核心装备
 ```
 [](./文件-THD2红魔火箭5级.png.md) [](./文件-THD2万宝槌.png.md) [](./文件-THD2油库里之杖.png.md)
@@ -861,10 +868,12 @@
 根据局势选择先出哪个核心装备
   
 
+
 ### 可选装备
 ```
 [](./文件-THD2博丽供奉箱.png.md) [](./文件-THD2香霖的礼服.png.md) [](./文件-THD2亡灵送行提灯.png.md) [](./文件-THD2奇迹之星.png.md) [](./文件-THD2巴瓦鲁幽魂之书.png.md) [](./文件-THD2魔法使的帽子.png.md) [](./文件-THD2破魔净灵札.png.md) [](./文件-THD2博丽神社护身符.png.md) [](./文件-THD2迷你八卦炉.png.md)
 ```
+
 
 ## 技能加点
 
@@ -926,6 +935,7 @@
 <td><a href="./文件-DOTA黄点.png.md" class="image" title="+2 全属性"><img alt="+2 全属性" src="https://upload.thwiki.cc/thumb/d/da/DOTA%E9%BB%84%E7%82%B9.png/40px-DOTA%E9%BB%84%E7%82%B9.png" decoding="async" loading="lazy" width="40" height="40" srcset="https://upload.thwiki.cc/thumb/d/da/DOTA%E9%BB%84%E7%82%B9.png/60px-DOTA%E9%BB%84%E7%82%B9.png 1.5x, https://upload.thwiki.cc/thumb/d/da/DOTA%E9%BB%84%E7%82%B9.png/80px-DOTA%E9%BB%84%E7%82%B9.png 2x" data-file-width="128" data-file-height="128"></a></td>
 <td><a href="./文件-THD2天赋树25右.png.md" class="image" title="栖息于禅寺的妖蝶无冷却时间"><img alt="栖息于禅寺的妖蝶无冷却时间" src="https://upload.thwiki.cc/thumb/5/5b/THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%8F%B3.png/40px-THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%8F%B3.png" decoding="async" loading="lazy" width="40" height="40" srcset="https://upload.thwiki.cc/thumb/5/5b/THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%8F%B3.png/60px-THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%8F%B3.png 1.5x, https://upload.thwiki.cc/thumb/5/5b/THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%8F%B3.png/80px-THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%8F%B3.png 2x" data-file-width="103" data-file-height="103"></a>
 </td></tr></tbody></table>
+
 
 
 ## 台词
@@ -996,6 +1006,7 @@
 </td>
 <td>小人（しょうじん）閑居（かんきょ）して不全を成す<br>[小人独居而行不善]
 </td></tr></tbody></table>
+
 
 
 ## 教学视频

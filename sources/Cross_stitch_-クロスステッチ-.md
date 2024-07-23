@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Cross_stitch_-クロスステッチ-封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/a/ac/Cross_stitch_-%E3%82%AF%E3%83%AD%E3%82%B9%E3%82%B9%E3%83%86%E3%83%83%E3%83%81-%E5%B0%81%E9%9D%A2.jpg/138px-Cross_stitch_-%E3%82%AF%E3%83%AD%E3%82%B9%E3%82%B9%E3%83%86%E3%83%83%E3%83%81-%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="138" height="196" srcset="https://upload.thwiki.cc/thumb/a/ac/Cross_stitch_-%E3%82%AF%E3%83%AD%E3%82%B9%E3%82%B9%E3%83%86%E3%83%83%E3%83%81-%E5%B0%81%E9%9D%A2.jpg/207px-Cross_stitch_-%E3%82%AF%E3%83%AD%E3%82%B9%E3%82%B9%E3%83%86%E3%83%83%E3%83%81-%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/a/ac/Cross_stitch_-%E3%82%AF%E3%83%AD%E3%82%B9%E3%82%B9%E3%83%86%E3%83%83%E3%83%81-%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="271" data-file-height="384"></a><div class="cover-char">角色：<a href="./火焰猫燐.md" title="火焰猫燐">火焰猫燐</a>，<a href="./灵乌路空.md" title="灵乌路空">灵乌路空</a></div></td>
@@ -13,11 +14,14 @@
 </tr><tr><td class="label">首发日期</td><td>2011-10-16&#160;（<a href="/展会作品列表?e=%E4%B8%9C%E6%96%B9%E7%BA%A2%E6%A5%BC%E6%A2%A6%237">東方紅楼夢7</a>）</td></tr><tr><td class="label">类型</td><td>绘本</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>A5</td></tr><tr><td class="label">页数</td><td>20P</td></tr><tr><td class="label">登场人物</td><td><a href="./火焰猫燐.md" title="火焰猫燐">火焰猫燐</a>，<a href="./灵乌路空.md" title="灵乌路空">灵乌路空</a></td></tr></tbody></table>
 
 Cross stitch -クロスステッチ-（同人志，Twilight rouge，扉のむこうの幻想，2011） - 2011年10月16日 由 Twilight rouge，扉のむこうの幻想 于 东方红楼梦7 发布的绘本同人志，A5尺寸一共20页，登场人物有 火焰猫燐、灵乌路空，分级为 一般向
+
 ## 预览
+
 ## Staff
 Art
 : わはらろまさ (未找到链接)
 : みり (未找到链接)
+
 
 ## 评论
 

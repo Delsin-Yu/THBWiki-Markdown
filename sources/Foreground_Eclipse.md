@@ -4,7 +4,8 @@
 
 Foreground Eclipse ，于 2008 年成立，主要制作 同人音乐 的日本同人社团，当前状态为 解散
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -25,19 +26,23 @@ Foreground Eclipse ，于 2008 年成立，主要制作 同人音乐 的日本�
 
 
 
+
 ## 社团信息
 [](./文件-Foreground_Eclipse_banner.jpg.md)  [](./文件-Foreground_Eclipse_banner.jpg.md)Banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Foreground Eclipse </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2008</td></tr><tr><td><b>当前状态</b></td><td>解散</td></tr><tr><td><b>解散时间</b></td><td>2013-12-30</td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://www.fg-eclipse.net/">http://www.fg-eclipse.net/</a> </td></tr></tbody></table>
 
 Foreground Eclipse（同人社团，同人音乐社团） - Foreground Eclipse ，于 2008 年成立，主要制作 同人音乐 的日本同人社团，当前状态为 解散
+
 ## 成员名单
-- Merami (未找到链接)：演唱
+- [Merami](./Merami.md)：演唱
 - [Teto](./Teto.md)：鼓，Scream，合成器，Programming
 - Siym (未找到链接)：吉他，贝斯
 
+
 ### 已退出
 - [Suzuori](./Suzuori.md)：代表，网站管理，吉他，贝斯（2011年3月3日退出）
+
 
 ## 作品列表
 [](./Missing,Loving...and_Suffering_EP.md)[Missing,Loving...and Suffering EP](./Missing,Loving...and_Suffering_EP.md)首发日期：2009-05-05 （M3-2009春 (未找到链接)）FGE-0001EP （一般向）[](./Wishes_Hidden_In_The_Foreground_Noises.md)[Wishes Hidden In The Foreground Noises](./Wishes_Hidden_In_The_Foreground_Noises.md)首发日期：2010-03-14 （第七回 博麗神社例大祭 (未找到链接)）FGE-0002全长 （一般向）[](./Tears_Will_Become_Melodies_Tonight.md)[Tears Will Become Melodies Tonight](./Tears_Will_Become_Melodies_Tonight.md)首发日期：2010-12-30 （Comic Market 79 (未找到链接)）FGE-0003全长 （一般向）[](./Each_And_Every_Word_Leaves_Me_Here_Alone.md)[Each And Every Word Leaves Me Here Alone](./Each_And_Every_Word_Leaves_Me_Here_Alone.md)首发日期：2011-12-30 （Comic Market 81 (未找到链接)）FGE-0004全长 （一般向）[](./Seated_With_Liquor.md)[Seated With Liquor](./Seated_With_Liquor.md)首发日期：2012-12-30 （Comic Market 83 (未找到链接)）YPFE-0001全长 （一般向）该作品是与 [Draw the Emotional](./Draw_the_Emotional.md) 合作创作的[](./Stories_That_Last_Through_The_Sleepless_Nights.md)[Stories That Last Through The Sleepless Nights](./Stories_That_Last_Through_The_Sleepless_Nights.md)首发日期：2013-12-30 （Comic Market 85 (未找到链接)）FGE-0005全长 （一般向）
@@ -53,6 +58,7 @@ Foreground Eclipse（同人社团，同人音乐社团） - Foreground Eclipse �
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ### Demo
@@ -73,6 +79,7 @@ Foreground Eclipse（同人社团，同人音乐社团） - Foreground Eclipse �
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 参展信息

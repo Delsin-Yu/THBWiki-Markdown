@@ -164,6 +164,7 @@
 [](./文件-THD2芙兰朵露·斯卡雷特.png.md)
   
 
+
 ## 目录
 
 - [1 角色定位](#角色定位)
@@ -185,15 +186,18 @@
 
 
 
+
 ## 角色定位
   
 核心 - 打野 - 爆发 - 推进
   
 
+
 ## 角色特殊技能组
   
 [东方DOTS·续·桃花岛/芙兰朵露·斯卡雷特/v2](./东方DOTS·续·桃花岛-芙兰朵露·斯卡雷特-v2.md)
   
+
 
 ## 技能介绍
 
@@ -789,6 +793,7 @@
 </td></tr></tbody></table>
 
 
+
 ## 天赋树
 
 
@@ -827,6 +832,7 @@
 </td></tr></tbody></table>
 
 
+
 ### 出门装备
 ```
 [](./文件-THD2妖精护符.png.md) [](./文件-THD2思兼生命药.png.md) [](./文件-THD2思兼生命药.png.md) [](./文件-THD2好人卡.png.md) [](./文件-THD2爱人卡.png.md)
@@ -850,6 +856,7 @@
 
 - 作为萌新很大概率会选择的少女，基本都是不知道怎么玩对线就被杀没了，希望你是因为真的想玩好这个人物来的
 
+
 ### 前期装备
 ```
 [](./文件-THD2纳税阴阳玉.png.md) [](./文件-THD2博丽供奉箱.png.md) [](./文件-THD2魔法使扫把.png.md)
@@ -865,6 +872,7 @@
 不要被大招的[](./文件-THD2芙兰朵露·斯卡雷特_04.png.md)高额面板伤害骗了，实际的对战中对手有一万种方法避免被你攻击，安心打钱做核心装备才是正事，因为前期不参与打架，大招可以拿来打远古
   
 
+
 ### 核心装备
   
 [](./文件-THD2完美跳跃装置.png.md)[](./文件-THD2龙星.png.md) [](./文件-THD2绯想剑.png.md)
@@ -874,6 +882,7 @@
 
 有了这三件装备就可以考虑搞事了，开启[](./文件-THD2龙星.png.md)跳到对方脸上用上[](./文件-THD2绯想剑.png.md)暴杀就完事了，你问为啥要出[](./文件-THD2绯想剑.png.md)？你问问人家酱油的[](./文件-THD2魔法使的帽子.png.md)和[](./文件-THD2幽灵木勺.png.md)为什么
   
+
 
 ### 可选装备
 ```
@@ -899,6 +908,7 @@
   
 
 - 别惦记你那[](./文件-THD2万宝槌.png.md)了，陷阱装备有老狗都翻车了，回想起上次老狗们翻车还是在上次
+
 
 ## 技能加点
 
@@ -960,6 +970,7 @@
 <td><a href="./文件-DOTA黄点.png.md" class="image" title="+2 全属性"><img alt="+2 全属性" src="https://upload.thwiki.cc/thumb/d/da/DOTA%E9%BB%84%E7%82%B9.png/40px-DOTA%E9%BB%84%E7%82%B9.png" decoding="async" loading="lazy" width="40" height="40" srcset="https://upload.thwiki.cc/thumb/d/da/DOTA%E9%BB%84%E7%82%B9.png/60px-DOTA%E9%BB%84%E7%82%B9.png 1.5x, https://upload.thwiki.cc/thumb/d/da/DOTA%E9%BB%84%E7%82%B9.png/80px-DOTA%E9%BB%84%E7%82%B9.png 2x" data-file-width="128" data-file-height="128"></a></td>
 <td><a href="./文件-THD2天赋树25左.png.md" class="image" title="+4 终极技能可攻击次数"><img alt="+4 终极技能可攻击次数" src="https://upload.thwiki.cc/thumb/a/aa/THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%B7%A6.png/40px-THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%B7%A6.png" decoding="async" loading="lazy" width="40" height="40" srcset="https://upload.thwiki.cc/thumb/a/aa/THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%B7%A6.png/60px-THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%B7%A6.png 1.5x, https://upload.thwiki.cc/thumb/a/aa/THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%B7%A6.png/80px-THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%B7%A6.png 2x" data-file-width="103" data-file-height="103"></a>
 </td></tr></tbody></table>
+
 
 
 ## 台词
@@ -1039,6 +1050,7 @@
 <p><br>これは私のよ！<br>[ 这个是我的哟]
 </p>
 </td></tr></tbody></table>
+
 
 
 ## 教学视频

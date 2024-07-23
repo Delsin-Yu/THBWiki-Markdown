@@ -4,6 +4,7 @@
 
 Rice_Records | 社团LOGO
 
+
 ## 摘要
   
 源地址：[direct image link](https://scontent.fyvr3-1.fna.fbcdn.net/v/t1.18169-1/969169_660653090628876_1138754638_n.png?stp=c12.12.156.156a_dst-png&amp;_nc_cat=106&amp;ccb=1-7&amp;_nc_sid=1eb0c7&amp;_nc_ohc=rdyxYN_JS1kAX-N37b9&amp;_nc_ht=scontent.fyvr3-1.fna&amp;oh=00_AT-BcYWKk91lPmOa460x9PVHtV-OtjhhSjGTpASD3I6-3A&amp;oe=62B7E0D8), [from circle Facebook logo](https://www.facebook.com/RiceRecords)

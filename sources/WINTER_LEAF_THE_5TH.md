@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-WINTER_LEAF_THE_5TH封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/f/ff/WINTER_LEAF_THE_5TH%E5%B0%81%E9%9D%A2.jpg/158px-WINTER_LEAF_THE_5TH%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="158" height="224" srcset="https://upload.thwiki.cc/thumb/f/ff/WINTER_LEAF_THE_5TH%E5%B0%81%E9%9D%A2.jpg/237px-WINTER_LEAF_THE_5TH%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/f/ff/WINTER_LEAF_THE_5TH%E5%B0%81%E9%9D%A2.jpg/316px-WINTER_LEAF_THE_5TH%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="470" data-file-height="665"></a><div class="cover-char">角色：<a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a>，<a href="./古明地恋.md" title="古明地恋">古明地恋</a></div></td>
@@ -18,8 +19,10 @@ WINTER LEAF THE 5TH（同人志，ice＊berry，2017） - 2017年12月29日 由 
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=324003">蜜瓜</a></td></tr></tbody></table>
 
 
+
 ## Staff
-- 詩韻 (未找到链接) (ice*berry (未找到链接))
+- 詩韻 (未找到链接) ([ice*berry](./ice-berry.md))
+
 
 ## 评论
 

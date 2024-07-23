@@ -4,7 +4,8 @@
 
 baneiro ，主要制作 周边，同人志 的日本同人社团，主催是 するめり，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -20,17 +21,21 @@ baneiro ，主要制作 周边，同人志 的日本同人社团，主催是 す
 
 
 
+
 ## 社团信息
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> baneiro </td></tr><tr><td><b>主要作品类型</b></td><td>周边，同人志</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=%E3%81%99%E3%82%8B%E3%82%81%E3%82%8A&amp;action=edit&amp;redlink=1" class="new" title="するめり（页面不存在）">するめり</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr></tbody></table>
 
 baneiro（同人社团，周边社团，同人志社团） - baneiro ，主要制作 周边，同人志 的日本同人社团，主催是 するめり，当前状态为 活动
+
 ## 成员名单
 - するめり (未找到链接)
 
 : [Twitter: @surumeri](https://twitter.com/surumeri), [Pixiv ID: 403156](https://www.pixiv.net/users/403156)
 
+
 ## 作品列表
+
 ### 同人志
 パープレックスト・ペンシル 封面图片 (未找到链接)パープレックスト・ペンシル (未找到链接)首发日期：未知 - らんらんさまざま 封面图片 (未找到链接)らんらんさまざま (未找到链接)首发日期：未知 - 藍色の夢と蝶々とパラキュービ 封面图片 (未找到链接)藍色の夢と蝶々とパラキュービ (未找到链接)首发日期：未知 - しくしくらんさま 紅葉編 封面图片 (未找到链接)しくしくらんさま 紅葉編 (未找到链接)首发日期：未知 - くるくるもくしろく 封面图片 (未找到链接)くるくるもくしろく (未找到链接)首发日期：未知 - [](./あかいあくまたち.md)[あかいあくまたち](./あかいあくまたち.md)首发日期：2016-10-09 （東方紅楼夢12 (未找到链接)）画集 （一般向）B5&#160;尺寸 16&#160;页
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -40,6 +45,7 @@ baneiro（同人社团，周边社团，同人志社团） - baneiro ，主要�
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 参展信息

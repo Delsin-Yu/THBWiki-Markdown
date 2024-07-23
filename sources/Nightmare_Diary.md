@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -34,11 +35,13 @@
 
 
 
+
 ## 基本信息
 
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">ナイトメアダイアリー</td></tr><tr><td><b>译名</b></td><td>Nightmare Diary</td></tr><tr><td><b>其他译名</b></td><td>噩梦日记<br>梦魇日志</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 Nightmare Diary（曲目） - 由 ZUN 创作的官方曲目，原名 ナイトメアダイアリー
+
 ## 出现作品
 
 <table>
@@ -46,7 +49,9 @@ Nightmare Diary（曲目） - 由 ZUN 创作的官方曲目，原名 ナイト�
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 秘封噩梦日记
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th16.5_04.mp3.md" title="文件:th16.5 04.mp3">th16.5_04.mp3</a><br><audio src="https://upload.thwiki.cc/4/49/th16.5_04.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>BGM\th16.5_04.wav</td></tr><tr><td><b>BGMForAll</b></td><td><div class="mw-collapsible mw-collapsed">
@@ -57,7 +62,9 @@ Nightmare Diary（曲目） - 由 ZUN 创作的官方曲目，原名 ナイト�
 </td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 秘封噩梦日记
 - Music Room (未找到链接)
 
@@ -67,14 +74,18 @@ Nightmare Diary（曲目） - 由 ZUN 创作的官方曲目，原名 ナイト�
 　放着不管就会永远持续下去的最终阶段的感觉。  
 　做恐怖的梦，只有我会觉得最为舒服吗？  
 　我总是妄想着恐怖的事情入睡，却偶尔才能做到恐怖的梦。
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
   
  **ナイトメアダイアリー**  Nightmare Diary
   
 
 - 见 [噩梦日记](./噩梦日记.md)。
+
 
 ### 二次同人数据
 

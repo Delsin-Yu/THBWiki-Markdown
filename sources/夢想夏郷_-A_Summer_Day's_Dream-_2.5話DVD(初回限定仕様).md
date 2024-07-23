@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人视频 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-夢想夏郷_-A_Summer_Day's_Dream-_2.5話DVD(初回限定仕様)封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/a/ac/%E5%A4%A2%E6%83%B3%E5%A4%8F%E9%83%B7_-A_Summer_Day%27s_Dream-_2.5%E8%A9%B1DVD%28%E5%88%9D%E5%9B%9E%E9%99%90%E5%AE%9A%E4%BB%95%E6%A7%98%29%E5%B0%81%E9%9D%A2.jpg/144px-%E5%A4%A2%E6%83%B3%E5%A4%8F%E9%83%B7_-A_Summer_Day%27s_Dream-_2.5%E8%A9%B1DVD%28%E5%88%9D%E5%9B%9E%E9%99%90%E5%AE%9A%E4%BB%95%E6%A7%98%29%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="144" height="196" srcset="https://upload.thwiki.cc/thumb/a/ac/%E5%A4%A2%E6%83%B3%E5%A4%8F%E9%83%B7_-A_Summer_Day%27s_Dream-_2.5%E8%A9%B1DVD%28%E5%88%9D%E5%9B%9E%E9%99%90%E5%AE%9A%E4%BB%95%E6%A7%98%29%E5%B0%81%E9%9D%A2.jpg/216px-%E5%A4%A2%E6%83%B3%E5%A4%8F%E9%83%B7_-A_Summer_Day%27s_Dream-_2.5%E8%A9%B1DVD%28%E5%88%9D%E5%9B%9E%E9%99%90%E5%AE%9A%E4%BB%95%E6%A7%98%29%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/a/ac/%E5%A4%A2%E6%83%B3%E5%A4%8F%E9%83%B7_-A_Summer_Day%27s_Dream-_2.5%E8%A9%B1DVD%28%E5%88%9D%E5%9B%9E%E9%99%90%E5%AE%9A%E4%BB%95%E6%A7%98%29%E5%B0%81%E9%9D%A2.jpg/288px-%E5%A4%A2%E6%83%B3%E5%A4%8F%E9%83%B7_-A_Summer_Day%27s_Dream-_2.5%E8%A9%B1DVD%28%E5%88%9D%E5%9B%9E%E9%99%90%E5%AE%9A%E4%BB%95%E6%A7%98%29%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1000" data-file-height="1360"></a><div class="cover-char">角色：<a href="./铃仙·优昙华院·因幡.md" title="铃仙·优昙华院·因幡">铃仙·优昙华院·因幡</a></div></td>
@@ -14,7 +15,9 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://maikaze.com/mkdv-1401">https://maikaze.com/mkdv-1401</a></td></tr></tbody></table>
 
 夢想夏郷 -A Summer Day's Dream- 2.5話DVD(初回限定仕様)（同人视频，舞风，2014） - 2014年5月11日 由 舞风 于 博丽神社例大祭11 发布的传统动画同人视频，总长 0小时11分钟，分级为 一般向
+
 ## Staff
+
 ## 评论
 
 

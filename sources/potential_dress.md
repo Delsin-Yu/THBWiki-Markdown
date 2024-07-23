@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-potential_dress封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/3/39/potential_dress%E5%B0%81%E9%9D%A2.jpg/140px-potential_dress%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="140" height="196" srcset="https://upload.thwiki.cc/thumb/3/39/potential_dress%E5%B0%81%E9%9D%A2.jpg/210px-potential_dress%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/3/39/potential_dress%E5%B0%81%E9%9D%A2.jpg/280px-potential_dress%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="647" data-file-height="906"></a><div class="cover-char">角色：<a href="./风见幽香.md" title="风见幽香">风见幽香</a>，<a href="./八云紫.md" title="八云紫">八云紫</a></div></td>
@@ -14,9 +15,12 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://kujiratoikkakujyu.blog.fc2.com/blog-entry-16.html">http://kujiratoikkakujyu.blog.fc2.com/blog-entry-16.html</a><br><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/45085247">https://www.pixiv.net/artworks/45085247</a><br><a rel="nofollow" class="external free" href="https://twitter.com/gloove_raita/status/499785506054340608">https://twitter.com/gloove_raita/status/499785506054340608</a><br><a rel="nofollow" class="external free" href="https://twitter.com/gloove_raita/status/500403388396232705">https://twitter.com/gloove_raita/status/500403388396232705</a></td></tr></tbody></table>
 
 potential dress（同人志，遊星，2014） - 2014年8月16日 由 遊星 于 Comic Market 86 发布的画集同人志，B5尺寸一共22页，分级为 一般向
+
 ## 预览
+
 ## Staff
 - 雷汰* (未找到链接)
+
 
 ## 评论
 

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-MAGICAL_DAYS封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/a/a3/MAGICAL_DAYS%E5%B0%81%E9%9D%A2.jpg/139px-MAGICAL_DAYS%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="139" height="196" srcset="https://upload.thwiki.cc/thumb/a/a3/MAGICAL_DAYS%E5%B0%81%E9%9D%A2.jpg/208px-MAGICAL_DAYS%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/a/a3/MAGICAL_DAYS%E5%B0%81%E9%9D%A2.jpg/278px-MAGICAL_DAYS%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="627" data-file-height="885"></a><div class="cover-char">角色：<a href="./帕秋莉·诺蕾姬.md" title="帕秋莉·诺蕾姬">帕秋莉·诺蕾姬</a></div></td>
@@ -14,7 +15,9 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/68569272">https://www.pixiv.net/artworks/68569272</a><br><a rel="nofollow" class="external free" href="https://twitter.com/iris_anemone/status/991964392748040192">https://twitter.com/iris_anemone/status/991964392748040192</a></td></tr></tbody></table>
 
 MAGICAL DAYS（同人志，またたびガーデン，2018） - 2018年5月6日 由 またたびガーデン 于 博丽神社例大祭15 发布的画集同人志，一共20页，登场人物有 帕秋莉·诺蕾姬，分级为 一般向
+
 ## 预览
+
 ## Staff
 - あいりす（人物） (未找到链接)
 - [aaaaam0](./aaaaam0.md) （guest; スイミンヨクゾウシンザイ (未找到链接)）
@@ -23,6 +26,7 @@ MAGICAL DAYS（同人志，またたびガーデン，2018） - 2018年5月6日 
 - [ひよい](./ひよい.md) （guest; [かふか堂](./かふか堂.md)）
 - [ちーくん](./ちーくん.md) （guest; [小さな大図書館](./小さな大図書館.md)）
 - 日向ばにら (未找到链接) （guest; [milky siesta](./milky_siesta.md)）
+
 
 ## 评论
 

@@ -164,6 +164,7 @@
 [](./文件-THD2永江衣玖.png.md)
   
 
+
 ## 目录
 
 - [1 角色定位](#角色定位)
@@ -184,10 +185,12 @@
 
 
 
+
 ## 角色定位
   
 核心 - 爆发
   
+
 
 ## 技能介绍
 
@@ -902,6 +905,7 @@
 </td></tr></tbody></table>
 
 
+
 ## 天赋树
 
 
@@ -940,6 +944,7 @@
 </td></tr></tbody></table>
 
 
+
 ### 出门装备
 ```
 [](./文件-THD2爱人卡.png.md) [](./文件-THD2妖精护符.png.md) [](./文件-THD2思兼生命药.png.md) [](./文件-THD2四叶草.png.md)
@@ -953,6 +958,7 @@
 敏捷核心的正常出门，对线近战可以换[](./文件-THD2好人卡.png.md)或[](./文件-THD2坏人卡.png.md)
   
 
+
 ### 前期装备
 ```
 [](./文件-THD2博丽供奉箱.png.md) [](./文件-THD2魔法使扫把.png.md) [](./文件-THD2封魔针.png.md)
@@ -963,6 +969,7 @@
 
 高等级天赋很强发育装可以出[](./文件-THD2博丽供奉箱.png.md)，大招[](./文件-THD2永江衣玖_04.png.md)配合被动[](./文件-THD2永江衣玖_03.png.md)和二技能[](./文件-THD2永江衣玖_02.png.md)能够打出很高的伤害，没有大招时刷钱即可
   
+
 
 ### 核心装备
   
@@ -986,6 +993,7 @@
 
 - 被永江衣玖三技能[](./文件-THD2永江衣玖_03.png.md)拉住的单位在被拉住期间和她的距离是固定的 ，也就是说哪怕被拉住的少女阵亡，立刻买活也会复活在尸体的位置而不是泉水，可以利用这点快速返回战场，也需注意小心买活又被杀一次，想解拉可以出龙星[](./文件-THD2龙星.png.md)或者选择[](./文件-THD2琪露诺.png.md)[](./文件-THD2博丽灵梦.png.md)带有魔法免疫的少女对抗
 
+
 ### 可选装备
 ```
 [](./文件-THD2恶魔的乳牙.png.md) [](./文件-THD2楼观剑.png.md) [](./文件-THD2风神羽翼.png.md) [](./文件-THD2真实割夺之刃.png.md) [](./文件-THD2亡灵送行提灯.png.md) [](./文件-THD2神枪冈格尼尔.png.md)
@@ -996,6 +1004,7 @@
 
 基本在对方出了[](./文件-THD2龙星.png.md)后拉人的效果会减小，可以转物理核心来打，输出装基本以物理输出为主，缺乏进场追击手段可以出[](./文件-THD2风神羽翼.png.md)，保命出[](./文件-THD2亡灵送行提灯.png.md)即可
   
+
 
 ## 技能加点
 
@@ -1057,6 +1066,7 @@
 <td><a href="./文件-DOTA黄点.png.md" class="image" title="+2 全属性"><img alt="+2 全属性" src="https://upload.thwiki.cc/thumb/d/da/DOTA%E9%BB%84%E7%82%B9.png/40px-DOTA%E9%BB%84%E7%82%B9.png" decoding="async" loading="lazy" width="40" height="40" srcset="https://upload.thwiki.cc/thumb/d/da/DOTA%E9%BB%84%E7%82%B9.png/60px-DOTA%E9%BB%84%E7%82%B9.png 1.5x, https://upload.thwiki.cc/thumb/d/da/DOTA%E9%BB%84%E7%82%B9.png/80px-DOTA%E9%BB%84%E7%82%B9.png 2x" data-file-width="128" data-file-height="128"></a></td>
 <td><a href="./文件-THD2天赋树25右.png.md" class="image" title="+150 攻击力"><img alt="+150 攻击力" src="https://upload.thwiki.cc/thumb/5/5b/THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%8F%B3.png/40px-THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%8F%B3.png" decoding="async" loading="lazy" width="40" height="40" srcset="https://upload.thwiki.cc/thumb/5/5b/THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%8F%B3.png/60px-THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%8F%B3.png 1.5x, https://upload.thwiki.cc/thumb/5/5b/THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%8F%B3.png/80px-THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%8F%B3.png 2x" data-file-width="103" data-file-height="103"></a>
 </td></tr></tbody></table>
+
 
 
 ## 台词
@@ -1123,6 +1133,7 @@
 <p><br> つかまえました<br>[抓到你了]
 </p>
 </td></tr></tbody></table>
+
 
 
 ## 教学视频

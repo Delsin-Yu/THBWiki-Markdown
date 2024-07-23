@@ -4,8 +4,9 @@
 
 东方LiveParty 从2018年开始，在 中国 举办的  东方同人LIVE活动，每年5-16次，目前共举办了86届
 
-本页是关于 **同人展会 (未找到链接)**   
-及 **相关活动 (未找到链接)** 的词条
+本页是关于 **[同人展会](./同人展会.md#展会类活动)**   
+及 **[相关活动](./相关活动.md)** 的词条
+
 ## 目录
 
 - [1 概述](#概述)
@@ -39,6 +40,7 @@
 
 
 
+
 ## 概述
 [](./文件-东方LivePartyLOGO.jpg.md)  [](./文件-东方LivePartyLOGO.jpg.md)东方LiveParty LOGO
   
@@ -47,7 +49,7 @@
   
   
   
-以 **国内东方Project同人音乐社团** 为中心的东方Project Only同人拼盘LIVE类活动 (未找到链接)。  
+以 **国内东方Project同人音乐社团** 为中心的东方Project Only同人拼盘[LIVE类活动](./LIVE类活动.md#LIVE类活动)。  
   
 在中国举办，从2018年开始，每年5-16次，每次持续1-2天。  
 直到目前为止，已经举办了86届（包含已决定将会举办）。  
@@ -60,6 +62,7 @@
 官方哔哩哔哩： [https://space.bilibili.com/328054674](https://space.bilibili.com/328054674)   
   
 东方LiveParty（活动，LIVE活动） - 东方LiveParty 从2018年开始，在 中国 举办的  东方同人LIVE活动，每年5-16次，目前共举办了86届
+
 ## 历届信息
 - 点击届数可进入对应分类页面
 
@@ -155,36 +158,37 @@
 </tbody></table>
 
 
+
 ## 演出社团及人员
 东方LiveParty×东方华月宴·槐序绮想
 : [bunny rhyTHm](./bunny_rhyTHm.md)、[Yonder Voice](./Yonder_Voice.md)、[疯帽子茶会](./疯帽子茶会.md)、 [Matthiola Records](./Matthiola_Records.md)
 
 东方LiveParty×东方月见语
-: [bunny rhyTHm](./bunny_rhyTHm.md)、[Yonder Voice](./Yonder_Voice.md)、[疯帽子茶会](./疯帽子茶会.md) 、心界巡回 (未找到链接)
+: [bunny rhyTHm](./bunny_rhyTHm.md)、[Yonder Voice](./Yonder_Voice.md)、[疯帽子茶会](./疯帽子茶会.md) 、[心界巡回](./心界巡回.md)
 
 东方LiveParty×东方游剧天
-: [bunny rhyTHm](./bunny_rhyTHm.md)、[Yonder Voice](./Yonder_Voice.md)、心界巡回 (未找到链接)、[TsuBaKi](./TsuBaKi.md)、[優曇華](./優曇華.md)
+: [bunny rhyTHm](./bunny_rhyTHm.md)、[Yonder Voice](./Yonder_Voice.md)、[心界巡回](./心界巡回.md)、[TsuBaKi](./TsuBaKi.md)、[優曇華](./優曇華.md)
 
 东方LiveParty×东方烛夜凝
 : [bunny rhyTHm](./bunny_rhyTHm.md)、[Yonder Voice](./Yonder_Voice.md)、[Matthiola Records](./Matthiola_Records.md)、[幻想诗篇Xanadu Canto](./幻想诗篇Xanadu_Canto.md)、[優曇華](./優曇華.md)
 
 东方LiveParty×东方桨灯影
-: [bunny rhyTHm](./bunny_rhyTHm.md)、[Clip Sounds](./Clip_Sounds.md)、[Matthiola Records](./Matthiola_Records.md)、心界巡回 (未找到链接)、[優曇華](./優曇華.md)、[疯帽子茶会](./疯帽子茶会.md)、[幻想诗篇Xanadu Canto](./幻想诗篇Xanadu_Canto.md)
+: [bunny rhyTHm](./bunny_rhyTHm.md)、[Clip Sounds](./Clip_Sounds.md)、[Matthiola Records](./Matthiola_Records.md)、[心界巡回](./心界巡回.md)、[優曇華](./優曇華.md)、[疯帽子茶会](./疯帽子茶会.md)、[幻想诗篇Xanadu Canto](./幻想诗篇Xanadu_Canto.md)
 
 东方LiveParty×幻想空闻集 风海小祭
 : [bunny rhyTHm](./bunny_rhyTHm.md)、[Crest](./Crest.md)、[疯帽子茶会](./疯帽子茶会.md)、[幻想诗篇Xanadu Canto](./幻想诗篇Xanadu_Canto.md)、[Matthiola Records](./Matthiola_Records.md)、[Yonder Voice](./Yonder_Voice.md)
 
 东方LiveParty×东方游剧天Z
-: [bunny rhyTHm](./bunny_rhyTHm.md)、[Crest](./Crest.md)、[Yonder Voice](./Yonder_Voice.md)、[幻想诗篇Xanadu Canto](./幻想诗篇Xanadu_Canto.md)、[Clip Sounds](./Clip_Sounds.md)、DJ suslik (未找到链接)[^cite_note-独立音乐人-22]、Sukimiko (未找到链接)[^cite_note-独立音乐人-22]
+: [bunny rhyTHm](./bunny_rhyTHm.md)、[Crest](./Crest.md)、[Yonder Voice](./Yonder_Voice.md)、[幻想诗篇Xanadu Canto](./幻想诗篇Xanadu_Canto.md)、[Clip Sounds](./Clip_Sounds.md)、[DJ suslik](./DJ_suslik.md)[^cite_note-独立音乐人-22]、Sukimiko (未找到链接)[^cite_note-独立音乐人-22]
 
 东方LiveParty×华胥梦蝶祭
 : [bunny rhyTHm](./bunny_rhyTHm.md)、[TAMUSIC](./TAMUSIC.md)、[疯帽子茶会](./疯帽子茶会.md)、[幻想诗篇Xanadu Canto](./幻想诗篇Xanadu_Canto.md)、[Yonder Voice](./Yonder_Voice.md)
 
 东方LiveParty×京华万象展
-: [Yonder Voice](./Yonder_Voice.md)、[bunny rhyTHm](./bunny_rhyTHm.md)、[疯帽子茶会](./疯帽子茶会.md)、[幻想诗篇Xanadu Canto](./幻想诗篇Xanadu_Canto.md)、心界巡回 (未找到链接)、[Clip Sounds](./Clip_Sounds.md)、[Matthiola Records](./Matthiola_Records.md)
+: [Yonder Voice](./Yonder_Voice.md)、[bunny rhyTHm](./bunny_rhyTHm.md)、[疯帽子茶会](./疯帽子茶会.md)、[幻想诗篇Xanadu Canto](./幻想诗篇Xanadu_Canto.md)、[心界巡回](./心界巡回.md)、[Clip Sounds](./Clip_Sounds.md)、[Matthiola Records](./Matthiola_Records.md)
 
 东方LiveParty×COMICUP24 SPECIAL
-: [Yonder Voice](./Yonder_Voice.md)、[bunny rhyTHm](./bunny_rhyTHm.md)、[疯帽子茶会](./疯帽子茶会.md)、[幻想诗篇Xanadu Canto](./幻想诗篇Xanadu_Canto.md)、[TsuBaKi](./TsuBaKi.md)、心界巡回 (未找到链接)、[Matthiola Records](./Matthiola_Records.md)
+: [Yonder Voice](./Yonder_Voice.md)、[bunny rhyTHm](./bunny_rhyTHm.md)、[疯帽子茶会](./疯帽子茶会.md)、[幻想诗篇Xanadu Canto](./幻想诗篇Xanadu_Canto.md)、[TsuBaKi](./TsuBaKi.md)、[心界巡回](./心界巡回.md)、[Matthiola Records](./Matthiola_Records.md)
 
 东方LiveParty×东方觉梦境
 : [Yonder Voice](./Yonder_Voice.md)、[bunny rhyTHm](./bunny_rhyTHm.md)、[疯帽子茶会](./疯帽子茶会.md)、[幻想诗篇Xanadu Canto](./幻想诗篇Xanadu_Canto.md)、[Clip Sounds](./Clip_Sounds.md)
@@ -229,7 +233,7 @@
 : [Art of Heart](./Art_of_Heart.md)、[bunny rhyTHm](./bunny_rhyTHm.md)、[DualInsomiNa](./DualInsomiNa.md)、[疯帽子茶会](./疯帽子茶会.md)、[纽约花残月](./纽约花残月.md)、[幻想诗篇Xanadu Canto](./幻想诗篇Xanadu_Canto.md)、[Yonder Voice](./Yonder_Voice.md)
 
 东方LiveParty 2020 ONLINE 2
-: [Yonder Voice](./Yonder_Voice.md)、[鸽屋谷](./鸽屋谷.md)、[TsuBaKi](./TsuBaKi.md)、[疯帽子茶会](./疯帽子茶会.md)、[幻想诗篇Xanadu Canto](./幻想诗篇Xanadu_Canto.md)、Psysia (未找到链接)、[Romero](./Romero.md)、[DualInsomiNa](./DualInsomiNa.md)、[bunny rhyTHm](./bunny_rhyTHm.md)
+: [Yonder Voice](./Yonder_Voice.md)、[鸽屋谷](./鸽屋谷.md)、[TsuBaKi](./TsuBaKi.md)、[疯帽子茶会](./疯帽子茶会.md)、[幻想诗篇Xanadu Canto](./幻想诗篇Xanadu_Canto.md)、[Psysia](./Psysia.md)、[Romero](./Romero.md)、[DualInsomiNa](./DualInsomiNa.md)、[bunny rhyTHm](./bunny_rhyTHm.md)
 
 东方LiveParty MINILIVE in 魅知幻想博览会2020上海场
 : [Yonder Voice](./Yonder_Voice.md)、[bunny rhyTHm](./bunny_rhyTHm.md)、[幻想诗篇Xanadu Canto](./幻想诗篇Xanadu_Canto.md)、[疯帽子茶会](./疯帽子茶会.md)、[TsuBaKi](./TsuBaKi.md)、[Romero](./Romero.md)、[DualInsomiNa](./DualInsomiNa.md)、[Liberal Spark](./Liberal_Spark.md)
@@ -238,7 +242,7 @@
 : [bunny rhyTHm](./bunny_rhyTHm.md)、[疯帽子茶会](./疯帽子茶会.md)、[鸽屋谷](./鸽屋谷.md)、[Liberal Spark](./Liberal_Spark.md)、[Romero](./Romero.md)、[幻想诗篇Xanadu Canto](./幻想诗篇Xanadu_Canto.md)
 
 广州·东方PartyNight
-: [Art of Heart](./Art_of_Heart.md)、[Clip Sounds](./Clip_Sounds.md)、[Matthiola Records](./Matthiola_Records.md)、Virus-T (未找到链接)
+: [Art of Heart](./Art_of_Heart.md)、[Clip Sounds](./Clip_Sounds.md)、[Matthiola Records](./Matthiola_Records.md)、[Virus-T](./Virus-T.md)
 
 东方LiveParty MINILIVE in 魅知幻想博览会2020北京场
 : [Yonder Voice](./Yonder_Voice.md)、[疯帽子茶会](./疯帽子茶会.md)、[幻想诗篇Xanadu Canto](./幻想诗篇Xanadu_Canto.md)、[Romero](./Romero.md)、[鸽屋谷](./鸽屋谷.md)
@@ -250,7 +254,7 @@
 : [bunny rhyTHm](./bunny_rhyTHm.md)、[疯帽子茶会](./疯帽子茶会.md)、[鸽屋谷](./鸽屋谷.md)、[Romero](./Romero.md)、[幻想诗篇Xanadu Canto](./幻想诗篇Xanadu_Canto.md)
 
 南京·东方PartyNight
-: [Art of Heart](./Art_of_Heart.md)、[Clip Sounds](./Clip_Sounds.md)、[Matthiola Records](./Matthiola_Records.md)、Virus-T (未找到链接)
+: [Art of Heart](./Art_of_Heart.md)、[Clip Sounds](./Clip_Sounds.md)、[Matthiola Records](./Matthiola_Records.md)、[Virus-T](./Virus-T.md)
 
 东方LiveParty 袋装鸡翅合同LIVE
 : [Yonder Voice](./Yonder_Voice.md)、[bunny rhyTHm](./bunny_rhyTHm.md)
@@ -319,7 +323,7 @@
 : [bunny rhyTHm](./bunny_rhyTHm.md)、[疯帽子茶会](./疯帽子茶会.md)、[幻想诗篇Xanadu Canto](./幻想诗篇Xanadu_Canto.md)、[Romero](./Romero.md)、[地狱超甜](./地狱超甜.md)
 
 东方LiveParty×浙江THO2·东方红夜子时
-: [bunny rhyTHm](./bunny_rhyTHm.md)、[疯帽子茶会](./疯帽子茶会.md)、[幻想诗篇Xanadu Canto](./幻想诗篇Xanadu_Canto.md)、[Yonder Voice](./Yonder_Voice.md)、[地狱超甜](./地狱超甜.md)、二重不眠症 (未找到链接)
+: [bunny rhyTHm](./bunny_rhyTHm.md)、[疯帽子茶会](./疯帽子茶会.md)、[幻想诗篇Xanadu Canto](./幻想诗篇Xanadu_Canto.md)、[Yonder Voice](./Yonder_Voice.md)、[地狱超甜](./地狱超甜.md)、[二重不眠症](./二重不眠症.md)
 
 东方PartyNight×武汉THO·楚韵九歌
 : DJ Mrskey (未找到链接)、EuphoriA (未找到链接)、Konseki Takane (未找到链接)、STAEA (未找到链接)
@@ -370,7 +374,7 @@
 : merry-mellow (未找到链接)、[Yonder Voice](./Yonder_Voice.md)、[疯帽子茶会](./疯帽子茶会.md)、[幻想诗篇XanaduCanto](./幻想诗篇Xanadu_Canto.md)、[异象聚合](./异象聚合.md)、[鸽屋谷](./鸽屋谷.md)、大柚子 (未找到链接)
 
 东方PartyNight in 武汉
-: [灵社幻声](./灵社幻声.md)、声像构造 (未找到链接)
+: [灵社幻声](./灵社幻声.md)、[声像构造](./声像构造.md)
 
 东方LiveParty 袋装鸡翅合同LIVE
 : [bunny rhyTHm](./bunny_rhyTHm.md)、[Yonder Voice](./Yonder_Voice.md)
@@ -400,10 +404,10 @@
 : [Romero](./Romero.md)、[Clip Sounds](./Clip_Sounds.md)、[疯帽子茶会](./疯帽子茶会.md)、[幻想诗篇Xanadu Canto](./幻想诗篇Xanadu_Canto.md)、昼夜自平衡 (未找到链接)
 
 东方LiveParty×安徽THO4·隙间皖韵之梦
-: 大柚子 (未找到链接)、[bunny rhyTHm](./bunny_rhyTHm.md)、[Yonder Voice](./Yonder_Voice.md)、[疯帽子茶会](./疯帽子茶会.md)、幻想诗篇 (未找到链接)、少女分形 (未找到链接)、[幽闭星光](./幽闭星光.md)
+: 大柚子 (未找到链接)、[bunny rhyTHm](./bunny_rhyTHm.md)、[Yonder Voice](./Yonder_Voice.md)、[疯帽子茶会](./疯帽子茶会.md)、[幻想诗篇](./幻想诗篇.md)、[少女分形](./少女分形.md)、[幽闭星光](./幽闭星光.md)
 
 东方LiveParty×江西THO03幻想Strawberry~！！
-: [bunny rhyTHm](./bunny_rhyTHm.md)、[疯帽子茶会](./疯帽子茶会.md)、[幻想诗篇Xanadu Canto](./幻想诗篇Xanadu_Canto.md)、声像构造 (未找到链接)、草根同音结社 (未找到链接)
+: [bunny rhyTHm](./bunny_rhyTHm.md)、[疯帽子茶会](./疯帽子茶会.md)、[幻想诗篇Xanadu Canto](./幻想诗篇Xanadu_Canto.md)、[声像构造](./声像构造.md)、草根同音结社 (未找到链接)
 
 东方LiveParty×山东THO03东方雨川集
 : [bunny rhyTHm](./bunny_rhyTHm.md)、[疯帽子茶会](./疯帽子茶会.md)、[幻想诗篇Xanadu Canto](./幻想诗篇Xanadu_Canto.md)
@@ -414,61 +418,80 @@
 东方PartyNight×潮汕·THO02-秘封粤东之旅
 : DJ Northad (未找到链接)、DJ Shich Sason (未找到链接)
 
+
 ## 历届宣传图
   
 网站首页使用的作为顶图或宣传图的图片。
   
 
+
 ### 第一届至第五届
 - [](./文件-东方LiveParty.jpg.md)插画- [](./文件-东方LiveParty插画1.jpg.md)第1届- [](./文件-东方LiveParty插画2.jpg.md)第2届- [](./文件-东方LiveParty插画3.jpg.md)第3届- [](./文件-东方LiveParty插画4.jpg.md)第4届&amp;第5届- [](./文件-东方LiveParty插画5.jpg.md)第4届- [](./文件-东方LiveParty插画6.jpg.md)第5届
+
 
 ### 第六届至第十届
 - [](./文件-东方LiveParty插画7.jpg.md)第6届- [](./文件-东方LiveParty插画8.jpg.md)第7届- [](./文件-东方LiveParty插画9.jpg.md)第8届&amp;第9届- [](./文件-东方LiveParty插画10.jpg.md)第8届- [](./文件-东方LiveParty插画11.jpg.md)第9届- [](./文件-东方LiveParty插画12.jpg.md)2019上半年Liveparty海报- [](./文件-东方LiveParty插画13.jpg.md)第10届
 
+
 ### 第十一届至第十五届
 - [](./文件-东方LiveParty插画14.jpg.md)第11届- [](./文件-东方LiveParty插画15.jpg.md)第12届- [](./文件-东方LiveParty插画16.jpg.md)第13届- [](./文件-东方LiveParty插画17.jpg.md)第14届- [](./文件-东方LiveParty插画18.jpg.md)第15届
+
 
 ### 第十六届至第二十届
 - [](./文件-东方LiveParty插画19.jpg.md)第16届- [](./文件-东方LiveParty插画20.jpg.md)第17届- [](./文件-东方LiveParty插画21.jpg.md)第18届- [](./文件-东方LiveParty插画22.jpg.md)第19届- [](./文件-东方LiveParty插画23.jpg.md)第20届
 
+
 ### 第二十一届至第二十五届
 - [](./文件-东方LiveParty插画24.jpg.md)第21届- [](./文件-东方LiveParty插画25.jpg.md)第21届- [](./文件-东方LiveParty插画26.jpg.md)第21届- [](./文件-东方LiveParty插画27.jpg.md)第21届- [](./文件-东方LiveParty插画28.jpg.md)第21届- [](./文件-东方LiveParty插画29.jpg.md)第22届- [](./文件-东方LiveParty插画30.jpg.md)第23届- [](./文件-东方LiveParty插画31.jpg.md)第24届- [](./文件-东方LiveParty插画32.jpg.md)第25届
+
 
 ### 第二十六届至第三十届
 - [](./文件-东方LiveParty插画33.jpg.md)第26届- [](./文件-东方LiveParty插画34.jpg.md)第27届- [](./文件-东方LiveParty插画35.jpg.md)第28届- [](./文件-东方LiveParty插画36.jpg.md)第29届- [](./文件-东方LiveParty插画37.jpg.md)第30届
 
+
 ### 第三十一届至第三十五届
 - [](./文件-东方LiveParty插画38.jpg.md)第31届- [](./文件-东方LiveParty插画39.jpg.md)第32届- [](./文件-东方LiveParty插画40.jpg.md)第33届- [](./文件-东方LiveParty插画43.jpg.md)第34届- [](./文件-东方LiveParty插画44.jpg.md)第35届
+
 
 ### 第三十六届至第四十届
 - [](./文件-东方LiveParty插画CP28.jpg.md)第36届- [](./文件-东方LiveParty插画42.jpg.md)第37届 延期前海报- [](./文件-东方LiveParty插画45.jpg.md)第37届 正式开演海报- [](./文件-东方LiveParty插画46.jpg.md)第38届- [](./文件-东方LiveParty插画47.jpg.md)第39届- [](./文件-东方LiveParty插画48.jpg.md)第40届 延期前海报- [](./文件-东方LiveParty插画49.jpg.md)第40届 正式开演海报
 
+
 ### 第四十一至第四十五届
 - [](./文件-东方LiveParty插画50.jpg.md)第41届- [](./文件-东方LiveParty插画51.jpg.md)第42届- [](./文件-东方LiveParty插画52.jpg.md)第43届- [](./文件-东方LiveParty插画53.jpg.md)第44届- [](./文件-东方LiveParty插画54.jpg.md)第45届
+
 
 ### 第四十六至第五十届
 - [](./文件-东方LiveParty插画55.jpg.md)第46届- [](./文件-东方LiveParty插画56.jpg.md)第47届- [](./文件-东方LiveParty插画57.jpg.md)第48届 延期前海报- [](./文件-东方LiveParty插画58.jpg.md)第49届 更改前海报- [](./文件-东方LiveParty插画59.jpg.md)第50届
 
+
 ### 第五十一至第五十五届
 - [](./文件-东方LiveParty插画60.jpg.md)第51届 更改前海报- [](./文件-东方LiveParty插画61.jpg.md)第51届 更改后海报- [](./文件-东方LiveParty插画62.jpg.md)第52届- [](./文件-东方LiveParty插画63.jpg.md)第53届- [](./文件-东方LiveParty插画64.jpg.md)第54届- [](./文件-东方LiveParty插画65.jpg.md)第55届
+
 
 ### 第五十六至第六十届
 - [](./文件-东方LiveParty插画66.jpg.md)第56届- [](./文件-东方LiveParty插画67.jpg.md)第57届- [](./文件-东方LiveParty插画68.jpg.md)第58届- [](./文件-东方LiveParty插画69.jpg.md)第59届- [](./文件-东方LiveParty插画70.jpg.md)第60届
 
+
 ### 第六十一届至第六十五届
 - [](./文件-东方LiveParty插画71.jpg.md)第61届- [](./文件-东方LiveParty插画72.jpg.md)第62届- [](./文件-东方LiveParty插画73.jpg.md)第63届- [](./文件-东方LiveParty插画74.jpg.md)第64届- [](./文件-东方LiveParty插画75.jpg.md)第65届
+
 
 ### 第六十六届至第七十届
 - [](./文件-东方LiveParty插画76.jpg.md)第66届- [](./文件-东方LiveParty插画77.jpg.md)第67届- [](./文件-东方LiveParty插画78.jpg.md)第68届- [](./文件-东方LiveParty插画79.jpg.md)第69届- [](./文件-东方LiveParty插画80.jpg.md)第80届
 
+
 ### 第七十一届至第七十五届
 - [](./文件-东方LiveParty插画81.jpg.md)第71届- [](./文件-东方LiveParty插画82.jpg.md)第72届- [](./文件-东方LiveParty插画83.jpg.md)第73届- [](./文件-东方LiveParty插画84.jpg.md)第74届- [](./文件-东方LiveParty插画85.jpg.md)第75届
+
 
 ### 第七十六届至第八十届
 - [](./文件-东方LiveParty插画86.jpg.md)第76届- [](./文件-东方LiveParty插画87.jpg.md)第77届- [](./文件-东方LiveParty插画88.jpg.md)第78届- [](./文件-东方LiveParty插画89.jpg.md)第79届- [](./文件-东方LiveParty插画90.jpg.md)第80届
 
+
 ### 第八十一至八十五届
 - [](./文件-东方LiveParty插画91.jpg.md)第81届- [](./文件-东方LiveParty插画92.jpg.md)第82届- [](./文件-东方LiveParty插画93.jpg.md)第83届- [](./文件-东方LiveParty插画94.jpg.md)第84届- [](./文件-东方LiveParty插画95.jpg.md)第85届
+
 
 ### 第八十六届
 - [](./文件-东方LiveParty插画96.jpg.md)第86届

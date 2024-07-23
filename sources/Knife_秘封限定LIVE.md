@@ -4,8 +4,9 @@
 
 ナイフ 秘封限定LIVE 在 日本东京 举办的 秘封俱乐部（宇佐见莲子、玛艾露贝莉·赫恩、宇佐见堇子）Only 东方同人LIVE活动，目前共举办了10届
 
-本页是关于 **同人展会 (未找到链接)**   
-及 **相关活动 (未找到链接)** 的词条
+本页是关于 **[同人展会](./同人展会.md#展会类活动)**   
+及 **[相关活动](./相关活动.md)** 的词条
+
 ## 目录
 
 - [1 概述](#概述)
@@ -30,6 +31,7 @@
 
 
 
+
 ## 概述
   
 <big> **Knife 秘封限定LIVE** </big>（ナイフ 秘封限定LIVE，ないふひふうげんていらいぶ）。  
@@ -37,8 +39,8 @@
   
   
   
- **秘封俱乐部** （ **[宇佐见莲子](./宇佐见莲子.md)** 、 **[玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)** 、 **[宇佐见堇子](./宇佐见堇子.md)** ）Only **同人单独LIVE类活动 (未找到链接)** 。  
-由[WANI](./ワニ.md)以同人社团[Knife](./ナイフ.md)的名义而举办的同人LIVE类活动 (未找到链接)。  
+ **秘封俱乐部** （ **[宇佐见莲子](./宇佐见莲子.md)** 、 **[玛艾露贝莉·赫恩](./玛艾露贝莉·赫恩.md)** 、 **[宇佐见堇子](./宇佐见堇子.md)** ）Only **同人单独[LIVE类活动](./LIVE类活动.md#LIVE类活动)** 。  
+由[WANI](./ワニ.md)以同人社团[Knife](./ナイフ.md)的名义而举办的同人[LIVE类活动](./LIVE类活动.md#LIVE类活动)。  
   
 主要在东京举办，亦曾在大阪举办过。  
 举办时间为：19:55-21:30（第1届），11:40-13:10（第2届）。  
@@ -58,6 +60,7 @@
 过往官方推特： [https://twitter.com/knifeLIVE](https://twitter.com/knifeLIVE) （需要翻墙）（日文）（第2届）  
   
 Knife 秘封限定LIVE（活动，LIVE活动） - ナイフ 秘封限定LIVE 在 日本东京 举办的 秘封俱乐部（宇佐见莲子、玛艾露贝莉·赫恩、宇佐见堇子）Only 东方同人LIVE活动，目前共举办了10届
+
 ## 历届信息
 - 点击届数可进入对应分类页面。
 
@@ -75,6 +78,7 @@ Knife 秘封限定LIVE（活动，LIVE活动） - ナイフ 秘封限定LIVE 在
 <tr><td id="9"><b><a href="/展会作品列表?e=Knife+%E7%A7%98%E5%B0%81%E9%99%90%E5%AE%9ALIVE%239">Knife 9th ONEMAN 『原点回归 -Return to healthy?encore-大阪公演』</a></b></td><td id="ev-9">2023年10月14日</td><td>大阪市 Pollux Theater<br><small><span style="color:grey;">大阪市浪速区日本橋 ポルックスシアター</span></small></td><td><a href="#第9届">参见</a></td><td><a href="/index.php?title=Knife_%E7%A7%98%E5%B0%81%E9%99%90%E5%AE%9ALIVE/%E7%AC%AC9%E5%B1%8A&amp;action=edit&amp;redlink=1" class="new" title="Knife 秘封限定LIVE/第9届（页面不存在）">参见</a></td><td><a rel="nofollow" class="external autonumber" href="http://knife.dojin.com/20231014.html">[9]</a></td></tr>
 <tr><td id="10"><b><a href="/展会作品列表?e=Knife+%E7%A7%98%E5%B0%81%E9%99%90%E5%AE%9ALIVE%2310">Knife 10th ONEMAN CHRISTMAS SPECIAL KYOTO FANJ</a></b></td><td id="ev-10">2023年12月24日</td><td>京都市 京都FANJ<br><small><span style="color:grey;">京都府京都市左京区上高野車地町101番 京都FANJ</span></small></td><td><a href="#第10届">参见</a></td><td><a href="/index.php?title=Knife_%E7%A7%98%E5%B0%81%E9%99%90%E5%AE%9ALIVE/%E7%AC%AC10%E5%B1%8A&amp;action=edit&amp;redlink=1" class="new" title="Knife 秘封限定LIVE/第10届（页面不存在）">参见</a></td><td><a rel="nofollow" class="external autonumber" href="http://knife.dojin.com/20231224.html">[10]</a></td></tr>
 </tbody></table>
+
 
 
 ## 演出社团及人员
@@ -123,22 +127,28 @@ Knife 10th ONEMAN CHRISTMAS SPECIAL KYOTO FANJ
  **BASS：** [ワニ](./ワニ.md)  
  **GUEST：** なっちゃん (未找到链接)
 
+
 ## 作品列表
+
 ### 同人专辑
 [](./媚薬.md)[媚薬](./媚薬.md)首发日期：2018-12-30 （Comic Market 95 (未找到链接)）KS-05EP （一般向）该作品是与 [ナイフ](./ナイフ.md) 合作创作的
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
 </table>
 
 
+
 ## 历届宣传图
 - 活动官方使用的作为网站首页顶图或宣传图的图片。
 - 此页面只会记录东方Project相关的宣传图及活动目录图。
 
+
 ### 第一届至第二届
 - [](./文件-Knife秘封限定LIVE1海报1.jpg.md)第1届 宣传图1- [](./文件-Knife秘封限定LIVE1海报2.jpg.md)第1届 宣传图2- [](./文件-Knife秘封限定LIVE2海报1.jpg.md)第2届 宣传图1- [](./文件-Knife秘封限定LIVE2海报2.jpg.md)第2届 宣传图2
 
+
 ### 第三届至第四届
 - [](./文件-Knife秘封限定LIVE3海报1.jpg.md)第3届 宣传图1- [](./文件-Knife秘封限定LIVE3海报2.jpg.md)第3届 宣传图2- [](./文件-Knife秘封限定LIVE4海报1.jpg.md)第4届 宣传图1- [](./文件-Knife秘封限定LIVE4海报2.jpg.md)第4届 宣传图2
+
 
 ### 第六届至第十届
 - [](./文件-Knife秘封限定LIVE6-7海报1.jpg.md)第6-7届 宣传图1- [](./文件-Knife秘封限定LIVE6-7海报2.jpg.md)第6-7届 宣传图2- [](./文件-Knife秘封限定LIVE8海报1.jpg.md)第8届 宣传图1- [](./文件-Knife秘封限定LIVE9海报1.jpg.md)第9届 宣传图1- [](./文件-Knife秘封限定LIVE10海报1.jpg.md)第10届 宣传图1

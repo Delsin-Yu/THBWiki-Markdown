@@ -4,7 +4,8 @@
 
 あ～るの～と（R-note） ，于 2012 年成立，主要制作 同人音乐，同人动画 的日本同人社团，主催是 らんてぃ，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -37,19 +38,23 @@
 
 
 
+
 ## 社团信息
 [](./文件-R-note_banner.jpg.md)  [](./文件-R-note_banner.jpg.md)Banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> あ～るの～と（R-note） </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐，同人动画</td></tr><tr><td><b>成立时间</b></td><td>2012</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="./らんてぃ.md" title="らんてぃ">らんてぃ</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://www.r-note.jp/">http://www.r-note.jp/</a> </td></tr></tbody></table>
 
 R-note（同人社团，同人音乐社团，同人动画社团） - あ～るの～と（R-note） ，于 2012 年成立，主要制作 同人音乐，同人动画 的日本同人社团，主催是 らんてぃ，当前状态为 活动
+
 ## 社团介绍
 - 前身是著名同人社团[いえろ～ぜぶら](./いえろ～ぜぶら.md)。原社团于2011年宣告解散，其核心成员于2012年组成新社团R-note，继续进行和いえろ～ぜぶら风格一致的作品，并继续创作由いえろ～ぜぶら创建的[东方M-1漫才](./东方M-1漫才.md)系列作品。
 - 2018年6月13日宣布[芳葉](./芳葉.md)和[うっちー](./うっちー.md)将于当年年底退出[^cite_note-1]。
 
+
 ## 成员名单
 - [らんてぃ](./らんてぃ.md)：代表，编曲
 - [藤宮ゆき](./藤宮ゆき.md)：演唱，作词
+
 
 ### 过往客串编曲
 - Kuma (未找到链接): 编曲，Guitar
@@ -64,11 +69,14 @@ R-note（同人社团，同人音乐社团，同人动画社团） - あ～る�
 - 智絵チハル (未找到链接): 演唱
 - 緒杏 (未找到链接): 演唱
 
+
 ### 前成员
 - [芳葉](./芳葉.md)：编曲，作词（2018年12月31日退出）
 - [うっちー](./うっちー.md)：演唱（2018年12月31日退出）
 
+
 ## 作品列表
+
 ### Beginning
 God knows... Cover CD 封面图片 (未找到链接)God knows... Cover CD (未找到链接)首发日期：未知 - [](./EVOLUTION_RUSH_-opus_tuned-.md)[EVOLUTION RUSH -opus tuned-](./EVOLUTION_RUSH_-opus_tuned-.md)首发日期：2006-05-21 （第三回 博麗神社例大祭 (未找到链接)）Demo （一般向）[Tautology](./Tautology（同人专辑）.md)的预览版[](./Tautology（同人专辑）.md)[Tautology](./Tautology（同人专辑）.md)首发日期：2006-08-13 （Comic Market 70 (未找到链接)）RNCD-0001EP （一般向）
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -76,6 +84,7 @@ God knows... Cover CD 封面图片 (未找到链接)God knows... Cover CD (未�
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ### 同人专辑
@@ -136,6 +145,7 @@ God knows... Cover CD 封面图片 (未找到链接)God knows... Cover CD (未�
 </table>
 
 
+
 ### Yoshiha Style
 [](./Yoshiha_Style_1_～きみのうた～.md)[Yoshiha Style 1 ～きみのうた～](./Yoshiha_Style_1_～きみのうた～.md)首发日期：2013-12-30 （Comic Market 85 (未找到链接)）YSCD-0001全长、​混音集 （一般向）[](./Yoshiha_Style_2_～あいのうた～.md)[Yoshiha Style 2 ～あいのうた～](./Yoshiha_Style_2_～あいのうた～.md)首发日期：2014-08-16 （Comic Market 86 (未找到链接)）YSCD-0002全长 （一般向）[](./Yoshiha_Style_3_～ゆめのうた～.md)[Yoshiha Style 3 ～ゆめのうた～](./Yoshiha_Style_3_～ゆめのうた～.md)首发日期：2014-12-29 （Comic Market 87 (未找到链接)）YSCD-0003全长 （一般向）[](./Yoshiha_Style_4_～えいえんのうた～.md)[Yoshiha Style 4 ～えいえんのうた～](./Yoshiha_Style_4_～えいえんのうた～.md)首发日期：2015-12-30 （Comic Market 89 (未找到链接)）YSCD-0005全长 （一般向）[](./Yoshiha_Style_Z_～きぼうのうた～.md)[Yoshiha Style Z ～きぼうのうた～](./Yoshiha_Style_Z_～きぼうのうた～.md)首发日期：2016-08-13 （Comic Market 90 (未找到链接)）YSCD-0006全长、​精选集 （一般向）
 <table><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
@@ -150,6 +160,7 @@ God knows... Cover CD 封面图片 (未找到链接)God knows... Cover CD (未�
 </table>
 
 
+
 ### 幻想郷の恋
 [](./PUELLOVE_～幻想郷恋物語～.md)[PUELLOVE ～幻想郷恋物語～](./PUELLOVE_～幻想郷恋物語～.md)首发日期：2017-08-11 （Comic Market 92 (未找到链接)）WSCD-0001EP （一般向）[](./LOVESOPHY_～幻想郷恋唄～.md)[LOVESOPHY ～幻想郷恋唄～](./LOVESOPHY_～幻想郷恋唄～.md)首发日期：2017-12-29 （Comic Market 93 (未找到链接)）WSCD-0002全长 （一般向）[](./LOVESTINY_～幻想郷恋詩～.md)[LOVESTINY ～幻想郷恋詩～](./LOVESTINY_～幻想郷恋詩～.md)首发日期：2018-08-10 （Comic Market 94 (未找到链接)）WSCD-0003全长 （一般向）[](./LOVERATORY_～幻想郷恋謡～.md)[LOVERATORY ～幻想郷恋謡～](./LOVERATORY_～幻想郷恋謡～.md)首发日期：2018-12-30 （Comic Market 95 (未找到链接)）WSCD-0004全长 （一般向）
 <table><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
@@ -160,6 +171,7 @@ God knows... Cover CD 封面图片 (未找到链接)God knows... Cover CD (未�
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ### 同人视频
@@ -204,12 +216,14 @@ God knows... Cover CD 封面图片 (未找到链接)God knows... Cover CD (未�
 </table>
 
 
+
 ### コンプリート音楽集
 [](./東方M-1ぐらんぷり_コンプリート音楽集.md)[東方M-1ぐらんぷり コンプリート音楽集](./東方M-1ぐらんぷり_コンプリート音楽集.md)首发日期：2017-12-29 （Comic Market 93 (未找到链接)）TMDVD-0001精选集 （一般向）[](./東方M-1ぐらんぷり_コンプリート音楽集_弐.md)[東方M-1ぐらんぷり コンプリート音楽集　弐](./東方M-1ぐらんぷり_コンプリート音楽集_弐.md)首发日期：2021-03-21 （第十八回 博麗神社例大祭 (未找到链接)）TMDVD-0002精选集、​全长 （一般向）
 <table><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ### Special Boxes
@@ -219,6 +233,7 @@ God knows... Cover CD 封面图片 (未找到链接)God knows... Cover CD (未�
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458"></table>
+
 
 
 ### 限定
@@ -277,6 +292,7 @@ God knows... Cover CD 封面图片 (未找到链接)God knows... Cover CD (未�
 </table>
 
 
+
 ### ONEMAN LIVE POP-FANTASY
 [](./ONEMAN_LIVE_POP_FANTASY_2016.md)[ONEMAN LIVE POP FANTASY 2016](./ONEMAN_LIVE_POP_FANTASY_2016.md)首发日期：2016-09-24 （POP FANTASY2016 (未找到链接)）Omake、​精选集 （一般向）[](./ONEMAN_LIVE_POP-FANTASY_EAST&WEST_TOUR_2017_福岡.md)[ONEMAN LIVE POP-FANTASY EAST&amp;WEST TOUR 2017 福岡](./ONEMAN_LIVE_POP-FANTASY_EAST&WEST_TOUR_2017_福岡.md)首发日期：2017-09-10 （POP FANTASY～East &amp; West Tour 2017～ 福岡 (未找到链接)）Omake、​精选集 （一般向）[](./ONEMAN_LIVE_POP-FANTASY_EAST&WEST_TOUR_2017_東京.md)[ONEMAN LIVE POP-FANTASY EAST&amp;WEST TOUR 2017 東京](./ONEMAN_LIVE_POP-FANTASY_EAST&WEST_TOUR_2017_東京.md)首发日期：2017-09-18 （POP FANTASY～East &amp; West Tour 2017～ 東京 (未找到链接)）Omake、​精选集 （一般向）[](./ONEMAN_LIVE_POP-FANTASY_EAST＆WEST_FINAL_TOUR_2018_大阪.md)[ONEMAN LIVE POP-FANTASY EAST＆WEST FINAL TOUR 2018 大阪](./ONEMAN_LIVE_POP-FANTASY_EAST＆WEST_FINAL_TOUR_2018_大阪.md)首发日期：2018-09-08 （POP FANTASY～East &amp; West Final Tour 2018～ 大阪 (未找到链接)）Omake、​精选集 （一般向）[](./ONEMAN_LIVE_POP-FANTASY_EAST＆WEST_FINAL_TOUR_2018_東京.md)[ONEMAN LIVE POP-FANTASY EAST＆WEST FINAL TOUR 2018 東京](./ONEMAN_LIVE_POP-FANTASY_EAST＆WEST_FINAL_TOUR_2018_東京.md)首发日期：2018-09-24 （POP FANTASY～East &amp; West Final Tour 2018～ 東京 (未找到链接)）Omake、​精选集 （一般向）
 <table><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
@@ -291,6 +307,7 @@ God knows... Cover CD 封面图片 (未找到链接)God knows... Cover CD (未�
 </table>
 
 
+
 ### Books
 第9回東方M-1ぐらんぷりファンブック (未找到链接)首发日期：未知 - 東方M-1ぐらんぷりファンブック 白 (未找到链接)首发日期：未知 - 東方謳歌集 R-Note 2012-2018 本 (未找到链接)首发日期：未知 - 東方M-1ぐらんぷりファンブック 黒 (未找到链接)首发日期：未知 - 
 <table><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
@@ -299,9 +316,11 @@ God knows... Cover CD 封面图片 (未找到链接)God knows... Cover CD (未�
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458"></table>
 
 
+
 ## 相关社团
 いえろ～ぜぶら
 : 前身。
+
 
 ## 参考
 [^cite_note-1]: [一部メンバーのあ～るの～と卒業についての報告 R-note官网](https://www.r-note.jp/?p=2060)

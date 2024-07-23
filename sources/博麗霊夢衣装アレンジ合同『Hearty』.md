@@ -18,6 +18,7 @@
 
 
 </center>
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-博麗霊夢衣装アレンジ合同『Hearty』封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/6/69/%E5%8D%9A%E9%BA%97%E9%9C%8A%E5%A4%A2%E8%A1%A3%E8%A3%85%E3%82%A2%E3%83%AC%E3%83%B3%E3%82%B8%E5%90%88%E5%90%8C%E3%80%8EHearty%E3%80%8F%E5%B0%81%E9%9D%A2.png/140px-%E5%8D%9A%E9%BA%97%E9%9C%8A%E5%A4%A2%E8%A1%A3%E8%A3%85%E3%82%A2%E3%83%AC%E3%83%B3%E3%82%B8%E5%90%88%E5%90%8C%E3%80%8EHearty%E3%80%8F%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="140" height="196" srcset="https://upload.thwiki.cc/thumb/6/69/%E5%8D%9A%E9%BA%97%E9%9C%8A%E5%A4%A2%E8%A1%A3%E8%A3%85%E3%82%A2%E3%83%AC%E3%83%B3%E3%82%B8%E5%90%88%E5%90%8C%E3%80%8EHearty%E3%80%8F%E5%B0%81%E9%9D%A2.png/210px-%E5%8D%9A%E9%BA%97%E9%9C%8A%E5%A4%A2%E8%A1%A3%E8%A3%85%E3%82%A2%E3%83%AC%E3%83%B3%E3%82%B8%E5%90%88%E5%90%8C%E3%80%8EHearty%E3%80%8F%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/6/69/%E5%8D%9A%E9%BA%97%E9%9C%8A%E5%A4%A2%E8%A1%A3%E8%A3%85%E3%82%A2%E3%83%AC%E3%83%B3%E3%82%B8%E5%90%88%E5%90%8C%E3%80%8EHearty%E3%80%8F%E5%B0%81%E9%9D%A2.png/280px-%E5%8D%9A%E9%BA%97%E9%9C%8A%E5%A4%A2%E8%A1%A3%E8%A3%85%E3%82%A2%E3%83%AC%E3%83%B3%E3%82%B8%E5%90%88%E5%90%8C%E3%80%8EHearty%E3%80%8F%E5%B0%81%E9%9D%A2.png 2x" data-file-width="1000" data-file-height="1399"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></div></td>
@@ -26,8 +27,11 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://qwilism.blog118.fc2.com/blog-entry-104.html">http://qwilism.blog118.fc2.com/blog-entry-104.html</a><br><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/45854444">https://www.pixiv.net/artworks/45854444</a><br><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/46405112">https://www.pixiv.net/artworks/46405112</a><br><a rel="nofollow" class="external free" href="https://twitter.com/nig_18/status/519204289311301632">https://twitter.com/nig_18/status/519204289311301632</a></td></tr></tbody></table>
 
 博麗霊夢衣装アレンジ合同『Hearty』（同人志，steo ∞ haon，2014） - 2014年10月12日 由 steo ∞ haon 于 东方红楼梦10 发布的合同志/画集同人志，B5尺寸，登场人物有 博丽灵梦，分级为 一般向
+
 ## 预览
+
 ## Staff
+
 ## 评论
 
 

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Luce_naturale封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/2/21/Luce_naturale%E5%B0%81%E9%9D%A2.jpg/196px-Luce_naturale%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="196" height="142" srcset="https://upload.thwiki.cc/thumb/2/21/Luce_naturale%E5%B0%81%E9%9D%A2.jpg/294px-Luce_naturale%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/2/21/Luce_naturale%E5%B0%81%E9%9D%A2.jpg/392px-Luce_naturale%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1024" data-file-height="740"></a><div class="cover-char">角色：<a href="./琪露诺.md" title="琪露诺">琪露诺</a></div></td>
@@ -18,7 +19,9 @@ Luce naturale（同人志，Drawers Come True，2019） - 2019年12月31日 由 
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://nyuma.booth.pm/items/1742758">Booth</a></td></tr></tbody></table>
 
 
+
 ## 预览
+
 ## Staff
 模特
 : ナッティ （[Twitter: @Nutty_710](https://twitter.com/Nutty_710)）
@@ -38,6 +41,7 @@ Luce naturale（同人志，Drawers Come True，2019） - 2019年12月31日 由 
 : 穂南しずく （[Twitter: @shizuku_o8o](https://twitter.com/shizuku_o8o)）
 : ろじこ （[Twitter: @rosy_lululu](https://twitter.com/rosy_lululu)）
 : あぷ （[Twitter: @apu0u0](https://twitter.com/apu0u0)）
+
 
 ## 评论
 [^cite_note-1]: [本上误写为晴海 花](https://nyuma.booth.pm/items/1742758)

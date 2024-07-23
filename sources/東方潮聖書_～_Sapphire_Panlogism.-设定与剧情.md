@@ -4,6 +4,7 @@
 
 Team_Urban_Magic
 
+
 ## 目录
 
 - [1 附带文档](#附带文档)
@@ -14,14 +15,17 @@ Team_Urban_Magic
 
 
 
+
 ## 附带文档
 - [Readme](./東方潮聖書_～_Sapphire_Panlogism.-设定与剧情-Readme.md)
 - [Character profiles](./東方潮聖書_～_Sapphire_Panlogism.-设定与剧情-Character_profiles.md)
 - [游戏内Manual](./東方潮聖書_～_Sapphire_Panlogism.-设定与剧情-游戏内Manual.md)
 - [Omake](./東方潮聖書_～_Sapphire_Panlogism.-设定与剧情-Omake.md)
 
+
 ## 故事背景
 - [故事背景](./東方潮聖書_～_Sapphire_Panlogism.-设定与剧情-故事背景.md)
+
 
 ## 游戏对话
 - [博丽灵梦 游戏对话/结局](./東方潮聖書_～_Sapphire_Panlogism.-设定与剧情-博丽灵梦.md)
@@ -38,6 +42,7 @@ Team_Urban_Magic
 - [雾雨魔理沙 Carrefour游戏对话](./東方潮聖書_～_Sapphire_Panlogism.-设定与剧情-雾雨魔理沙CF.md)
 - [寅丸星 Carrefour游戏对话](./東方潮聖書_～_Sapphire_Panlogism.-设定与剧情-寅丸星CF.md)
 - [赫卡提亚·拉碧斯拉祖利 Carrefour游戏对话](./東方潮聖書_～_Sapphire_Panlogism.-设定与剧情-赫卡提亚·拉碧斯拉祖利CF.md)
+
 
 ## 词条导航
   

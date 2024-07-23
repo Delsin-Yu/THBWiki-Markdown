@@ -4,7 +4,8 @@
 
 ClearLeMel ，于 2013 年成立，主要制作 同人音乐 的日本同人社团，主催是 UGUME，当前状态为 休止
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -20,12 +21,14 @@ ClearLeMel ，于 2013 年成立，主要制作 同人音乐 的日本同人社�
 
 
 
+
 ## 社团信息
 [](./文件-ClearLeMelbanner.png.md)  [](./文件-ClearLeMelbanner.png.md)banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> ClearLeMel </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2013</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>主催</b></td><td> <a href="./UGUME.md" title="UGUME">UGUME</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://clmel.com">http://clmel.com</a> <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><small>（<a rel="nofollow" class="external text" href="https://web.archive.org/web/20160507034103/http://clmel.com/">缓存页面</a>）</small></td></tr></tbody></table>
 
 ClearLeMel（同人社团，同人音乐社团） - ClearLeMel ，于 2013 年成立，主要制作 同人音乐 的日本同人社团，主催是 UGUME，当前状态为 休止
+
 ## 成员名单
 - [UGUME](./UGUME.md)：代表、Illustrator
 - すずみ (未找到链接)：副代表、Arranger
@@ -35,7 +38,9 @@ ClearLeMel（同人社团，同人音乐社团） - ClearLeMel ，于 2013 年�
 - 久坂んむり (未找到链接)：Illustrator
 - Meyan (未找到链接)：Mixer
 
+
 ## 作品列表
+
 ### 同人专辑
 [](./Crazy_Sweets.md)[Crazy Sweets](./Crazy_Sweets.md)首发日期：2013-02-02 （第2回 森羅万象ノ宴 (未找到链接)）CLM-0001单曲 （一般向）[](./想風-オモイカゼ-.md)[想風-オモイカゼ-](./想風-オモイカゼ-.md)首发日期：2013-04-06 （第4回 森羅万象ノ宴 (未找到链接)）CLM-0002单曲 （一般向）[](./Synesthesia（同人专辑）.md)[Synesthesia](./Synesthesia（同人专辑）.md)首发日期：2013-05-26 （第十回 博麗神社例大祭 (未找到链接)）CLM-0003全长 （一般向）[](./Twilight（ClearLeMel）.md)[Twilight](./Twilight（ClearLeMel）.md)首发日期：2013-08-12 （Comic Market 84 (未找到链接)）CLM-0004全长 （一般向）[](./朧桜.md)[朧桜](./朧桜.md)首发日期：2013-10-13 （東方紅楼夢9 (未找到链接)）CLM-0005全长 （一般向）[](./Hypernova.md)[Hypernova](./Hypernova.md)首发日期：2014-05-11 （第十一回 博麗神社例大祭 (未找到链接)）CLM-0006全长 （一般向）该专辑包含 2 张CD[](./祭夏.md)[祭夏](./祭夏.md)首发日期：2014-08-16 （Comic Market 86 (未找到链接)）CLM-0007全长 （一般向）[](./EX_MACHINA.md)[EX MACHINA](./EX_MACHINA.md)首发日期：2014-10-12 （東方紅楼夢10 (未找到链接)）CLM-0008EP （一般向）[](./double_helix_e.p.md)[double helix e.p](./double_helix_e.p.md)首发日期：2014-10-12 （東方紅楼夢10 (未找到链接)）EP、​合作 （一般向）该作品是与 [錯乱のオルフェ](./錯乱のオルフェ.md) 合作创作的[](./白道輪廻_-samsara-.md)[白道輪廻 -samsara-](./白道輪廻_-samsara-.md)首发日期：2014-12-29 （Comic Market 87 (未找到链接)）CLM-0009全长 （一般向）
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -58,6 +63,7 @@ ClearLeMel（同人社团，同人音乐社团） - ClearLeMel ，于 2013 年�
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 参展信息

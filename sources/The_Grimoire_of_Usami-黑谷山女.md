@@ -14,7 +14,7 @@ The_Grimoire_of_Usami | 使用了翻译表的页面 | 宇佐见的魔法书 | �
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./The_Grimoire_of_Usami-克劳恩皮丝1.md" title="The Grimoire of Usami/克劳恩皮丝1">克劳恩皮丝1</a>&#160;
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="/%E5%AE%87%E4%BD%90%E8%A7%81%E7%9A%84%E9%AD%94%E6%B3%95%E4%B9%A6" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a>&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="./宇佐见的魔法书.md" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a>&#160;
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">&#160;<a href="./The_Grimoire_of_Usami-水桥帕露西.md" title="The Grimoire of Usami/水桥帕露西">水桥帕露西</a>
 </td>
@@ -25,7 +25,7 @@ The_Grimoire_of_Usami | 使用了翻译表的页面 | 宇佐见的魔法书 | �
 </center>
 <center>第098页</center>
 
-<table><tbody><tr align="left" valign="top"><td style="min-width:200px;"><div class="tt-zhh tt-type-setting" lang="zh"><div class="poem"><a href="/%E7%BB%86%E7%B4%A2%E3%80%8C%E7%8A%8D%E9%99%80%E5%A4%9A%E7%BB%B3%E7%B4%A2%E3%80%8D" class="mw-redirect" title="细索「犍陀多绳索」">细索「犍陀多绳索」</a></div></div><div class="tt-zh tt-type-setting" lang="zh"><div class="poem">使用者：<a href="./黑谷山女.md" title="黑谷山女">黑谷山女</a></div></div><div class="tt-zh tt-type-setting" lang="zh"><div class="poem">因为听说不能使用<br>伤害人类的弹幕<br>所以本来不感兴趣的，<br>但从后半段开始说可以不用在意尽情用<br>真是太酷了！<br><big>此地狱不留人<br>自有救人的地狱呢！</big></div></div><div class="tt-header tt-type-setting" lang="zh"><div class="poem">少名针妙丸（0）</div></div><div class="tt-zh tt-type-setting" lang="zh"><div class="poem">只是直接打过来的弹幕啥的，真是露骨地杀过来了啊。虽然令人愉快但没有艺术感。</div></div><div class="tt-header tt-type-setting" lang="zh"><div class="poem">鬼人正邪（0）</div></div><div class="tt-zh tt-type-setting" lang="zh"><div class="poem">这是芥川龙之介的《蜘蛛之丝》吧。就连这样的土蜘蛛，也会有想要拯救的恩人吗。</div></div><div class="tt-header tt-type-setting" lang="zh"><div class="poem">宇佐见堇子</div></div><div class="tt-zh tt-type-setting" lang="zh"><div class="poem">哎呀？评委换人了吗～？</div></div></td><td width="200px"><div class="thumb tleft"><div class="thumbinner" style="width:202px;"><a href="./文件-The_Grimoire_of_Usami（黑谷山女1）.jpg.md" class="image"><img alt="" src="https://upload.thwiki.cc/thumb/6/6d/The_Grimoire_of_Usami%EF%BC%88%E9%BB%91%E8%B0%B7%E5%B1%B1%E5%A5%B31%EF%BC%89.jpg/200px-The_Grimoire_of_Usami%EF%BC%88%E9%BB%91%E8%B0%B7%E5%B1%B1%E5%A5%B31%EF%BC%89.jpg" decoding="async" loading="lazy" width="200" height="284" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/6/6d/The_Grimoire_of_Usami%EF%BC%88%E9%BB%91%E8%B0%B7%E5%B1%B1%E5%A5%B31%EF%BC%89.jpg/300px-The_Grimoire_of_Usami%EF%BC%88%E9%BB%91%E8%B0%B7%E5%B1%B1%E5%A5%B31%EF%BC%89.jpg 1.5x, https://upload.thwiki.cc/thumb/6/6d/The_Grimoire_of_Usami%EF%BC%88%E9%BB%91%E8%B0%B7%E5%B1%B1%E5%A5%B31%EF%BC%89.jpg/400px-The_Grimoire_of_Usami%EF%BC%88%E9%BB%91%E8%B0%B7%E5%B1%B1%E5%A5%B31%EF%BC%89.jpg 2x" data-file-width="1266" data-file-height="1800"></a>  <div class="thumbcaption"><div class="magnify"><a href="./文件-The_Grimoire_of_Usami（黑谷山女1）.jpg.md" class="internal" title="放大"></a></div>P098</div></div></div></td></tr></tbody></table>
+<table><tbody><tr align="left" valign="top"><td style="min-width:200px;"><div class="tt-zhh tt-type-setting" lang="zh"><div class="poem"><a href="./细索「犍陀多绳索」.md" class="mw-redirect" title="细索「犍陀多绳索」">细索「犍陀多绳索」</a></div></div><div class="tt-zh tt-type-setting" lang="zh"><div class="poem">使用者：<a href="./黑谷山女.md" title="黑谷山女">黑谷山女</a></div></div><div class="tt-zh tt-type-setting" lang="zh"><div class="poem">因为听说不能使用<br>伤害人类的弹幕<br>所以本来不感兴趣的，<br>但从后半段开始说可以不用在意尽情用<br>真是太酷了！<br><big>此地狱不留人<br>自有救人的地狱呢！</big></div></div><div class="tt-header tt-type-setting" lang="zh"><div class="poem">少名针妙丸（0）</div></div><div class="tt-zh tt-type-setting" lang="zh"><div class="poem">只是直接打过来的弹幕啥的，真是露骨地杀过来了啊。虽然令人愉快但没有艺术感。</div></div><div class="tt-header tt-type-setting" lang="zh"><div class="poem">鬼人正邪（0）</div></div><div class="tt-zh tt-type-setting" lang="zh"><div class="poem">这是芥川龙之介的《蜘蛛之丝》吧。就连这样的土蜘蛛，也会有想要拯救的恩人吗。</div></div><div class="tt-header tt-type-setting" lang="zh"><div class="poem">宇佐见堇子</div></div><div class="tt-zh tt-type-setting" lang="zh"><div class="poem">哎呀？评委换人了吗～？</div></div></td><td width="200px"><div class="thumb tleft"><div class="thumbinner" style="width:202px;"><a href="./文件-The_Grimoire_of_Usami（黑谷山女1）.jpg.md" class="image"><img alt="" src="https://upload.thwiki.cc/thumb/6/6d/The_Grimoire_of_Usami%EF%BC%88%E9%BB%91%E8%B0%B7%E5%B1%B1%E5%A5%B31%EF%BC%89.jpg/200px-The_Grimoire_of_Usami%EF%BC%88%E9%BB%91%E8%B0%B7%E5%B1%B1%E5%A5%B31%EF%BC%89.jpg" decoding="async" loading="lazy" width="200" height="284" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/6/6d/The_Grimoire_of_Usami%EF%BC%88%E9%BB%91%E8%B0%B7%E5%B1%B1%E5%A5%B31%EF%BC%89.jpg/300px-The_Grimoire_of_Usami%EF%BC%88%E9%BB%91%E8%B0%B7%E5%B1%B1%E5%A5%B31%EF%BC%89.jpg 1.5x, https://upload.thwiki.cc/thumb/6/6d/The_Grimoire_of_Usami%EF%BC%88%E9%BB%91%E8%B0%B7%E5%B1%B1%E5%A5%B31%EF%BC%89.jpg/400px-The_Grimoire_of_Usami%EF%BC%88%E9%BB%91%E8%B0%B7%E5%B1%B1%E5%A5%B31%EF%BC%89.jpg 2x" data-file-width="1266" data-file-height="1800"></a>  <div class="thumbcaption"><div class="magnify"><a href="./文件-The_Grimoire_of_Usami（黑谷山女1）.jpg.md" class="internal" title="放大"></a></div>P098</div></div></div></td></tr></tbody></table>
 
 
 
@@ -37,7 +37,7 @@ The_Grimoire_of_Usami | 使用了翻译表的页面 | 宇佐见的魔法书 | �
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./The_Grimoire_of_Usami-克劳恩皮丝1.md" title="The Grimoire of Usami/克劳恩皮丝1">克劳恩皮丝1</a>&#160;
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="/%E5%AE%87%E4%BD%90%E8%A7%81%E7%9A%84%E9%AD%94%E6%B3%95%E4%B9%A6" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a>&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="./宇佐见的魔法书.md" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a>&#160;
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">&#160;<a href="./The_Grimoire_of_Usami-水桥帕露西.md" title="The Grimoire of Usami/水桥帕露西">水桥帕露西</a>
 </td>
@@ -46,6 +46,7 @@ The_Grimoire_of_Usami | 使用了翻译表的页面 | 宇佐见的魔法书 | �
 
   
 </center>
+
 
 ## 词条导航
   

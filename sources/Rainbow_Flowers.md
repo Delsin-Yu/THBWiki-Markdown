@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><div class="cover-char">角色：<a href="./四季映姬·夜摩仙那度.md" title="四季映姬·夜摩仙那度">四季映姬·夜摩仙那度</a></div></td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://loserkashiwagi.com/">http://loserkashiwagi.com/</a></td></tr></tbody></table>
 
 Rainbow Flowers（同人专辑，有限会社るざりん，2009） - 2009年12月30日 由 有限会社るざりん 于 Comic Market 77 发布的全长同人专辑，分级为 一般向
+
 ## Staff
   
  **Arrangement**   
@@ -23,7 +25,7 @@ Rainbow Flowers（同人专辑，有限会社るざりん，2009） - 2009年12�
   
  **Vocal**   
 
-<table><tbody><tr><td><a href="/%E3%83%A4%E3%83%A4%E3%83%8D" class="mw-redirect" title="ヤヤネ">ヤヤネ</a></td><td><a href="/Lunatico" class="mw-redirect" title="Lunatico">Lunatico</a></td><td>Tr.2</td></tr></tbody></table>
+<table><tbody><tr><td><a href="./ヤヤネ.md" class="mw-redirect" title="ヤヤネ">ヤヤネ</a></td><td><a href="./Lunatico.md" class="mw-redirect" title="Lunatico">Lunatico</a></td><td>Tr.2</td></tr></tbody></table>
 
   
  **Lyrics**   
@@ -34,10 +36,12 @@ Rainbow Flowers（同人专辑，有限会社るざりん，2009） - 2009年12�
 Illustration
 : しきみ （[keeggy](http://keeggy.com/)）
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Rainbow_world" colspan="2" class="title">Rainbow world<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=柏木るざりん&amp;ogmusic=花映塚　～ Higan Retour&amp;fromwiki=Rainbow_Flowers"><span title="搜索相似同人曲"></span></a></span></td><td class="time">02:42</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./柏木るざりん.md" title="柏木るざりん">柏木るざりん</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，柏木るざりん&amp;fromwiki=Rainbow_Flowers"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=花映塚　～ Higan Retour&amp;fromwiki=Rainbow_Flowers"><span></span></a></span><div class="ogmusic"><a href="./花映塚_～_Higan_Retour.md" title="花映塚 ～ Higan Retour">花映塚　～ Higan Retour</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E8%8A%B1%E6%98%A0%E5%A1%9A_%EF%BD%9E_Phantasmagoria_of_Flower_View." class="mw-redirect" title="东方花映塚 ～ Phantasmagoria of Flower View.">东方花映塚　～ Phantasmagoria of Flower View.</a></div></td></tr>
-<tr><td id="2" class="infoRD"><b>02</b></td><td id="as_Flowers" colspan="2" class="title"><span class="new" title="（歌词页面不存在）"><a href="/index.php?title=%E6%AD%8C%E8%AF%8D:as_Flowers&amp;boilerplate=模板:页面模板/曲目歌词&amp;action=edit">as Flowers</a></span><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=柏木るざりん&amp;vocal=ヤヤネ&amp;lyric=柏木るざりん&amp;ogmusic=花は幻想のままに&amp;fromwiki=Rainbow_Flowers"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:15</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./柏木るざりん.md" title="柏木るざりん">柏木るざりん</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，柏木るざりん&amp;fromwiki=Rainbow_Flowers"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="/%E3%83%A4%E3%83%A4%E3%83%8D" class="mw-redirect" title="ヤヤネ">ヤヤネ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=ヤヤネ&amp;fromwiki=Rainbow_Flowers"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="./柏木るざりん.md" title="柏木るざりん">柏木るざりん</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?lyric=柏木るざりん&amp;fromwiki=Rainbow_Flowers"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=花は幻想のままに&amp;fromwiki=Rainbow_Flowers"><span></span></a></span><div class="ogmusic"><a href="/%E8%8A%B1%E3%81%AF%E5%B9%BB%E6%83%B3%E3%81%AE%E3%81%BE%E3%81%BE%E3%81%AB" class="mw-redirect" title="花は幻想のままに">花は幻想のままに</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E8%8A%B1%E6%98%A0%E5%A1%9A_%EF%BD%9E_Phantasmagoria_of_Flower_View." class="mw-redirect" title="东方花映塚 ～ Phantasmagoria of Flower View.">东方花映塚　～ Phantasmagoria of Flower View.</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Rainbow_world" colspan="2" class="title">Rainbow world<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=柏木るざりん&amp;ogmusic=花映塚　～ Higan Retour&amp;fromwiki=Rainbow_Flowers"><span title="搜索相似同人曲"></span></a></span></td><td class="time">02:42</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./柏木るざりん.md" title="柏木るざりん">柏木るざりん</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，柏木るざりん&amp;fromwiki=Rainbow_Flowers"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=花映塚　～ Higan Retour&amp;fromwiki=Rainbow_Flowers"><span></span></a></span><div class="ogmusic"><a href="./花映塚_～_Higan_Retour.md" title="花映塚 ～ Higan Retour">花映塚　～ Higan Retour</a></div><div class="source"><a href="./东方花映塚_～_Phantasmagoria_of_Flower_View..md" class="mw-redirect" title="东方花映塚 ～ Phantasmagoria of Flower View.">东方花映塚　～ Phantasmagoria of Flower View.</a></div></td></tr>
+<tr><td id="2" class="infoRD"><b>02</b></td><td id="as_Flowers" colspan="2" class="title"><span class="new" title="（歌词页面不存在）"><a href="/index.php?title=%E6%AD%8C%E8%AF%8D:as_Flowers&amp;boilerplate=模板:页面模板/曲目歌词&amp;action=edit">as Flowers</a></span><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=柏木るざりん&amp;vocal=ヤヤネ&amp;lyric=柏木るざりん&amp;ogmusic=花は幻想のままに&amp;fromwiki=Rainbow_Flowers"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:15</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./柏木るざりん.md" title="柏木るざりん">柏木るざりん</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，柏木るざりん&amp;fromwiki=Rainbow_Flowers"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="./ヤヤネ.md" class="mw-redirect" title="ヤヤネ">ヤヤネ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=ヤヤネ&amp;fromwiki=Rainbow_Flowers"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="./柏木るざりん.md" title="柏木るざりん">柏木るざりん</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?lyric=柏木るざりん&amp;fromwiki=Rainbow_Flowers"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=花は幻想のままに&amp;fromwiki=Rainbow_Flowers"><span></span></a></span><div class="ogmusic"><a href="./花は幻想のままに.md" class="mw-redirect" title="花は幻想のままに">花は幻想のままに</a></div><div class="source"><a href="./东方花映塚_～_Phantasmagoria_of_Flower_View..md" class="mw-redirect" title="东方花映塚 ～ Phantasmagoria of Flower View.">东方花映塚　～ Phantasmagoria of Flower View.</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

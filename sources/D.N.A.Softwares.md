@@ -4,7 +4,8 @@
 
 D.N.A.Softwares ，于 1996 年成立，主要制作 同人游戏 的日本同人社团，主催是 D.N.A.，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -22,20 +23,24 @@ D.N.A.Softwares ，于 1996 年成立，主要制作 同人游戏 的日本同�
 
 
 
+
 ## 社团信息
 [](./文件-D.N.A.Softwaresbanner.gif.md)  [](./文件-D.N.A.Softwaresbanner.gif.md)banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> D.N.A.Softwares </td></tr><tr><td><b>主要作品类型</b></td><td>同人游戏</td></tr><tr><td><b>成立时间</b></td><td>1996年</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="./D.N.A..md" title="D.N.A.">D.N.A.</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://www.dna-softwares.com/">http://www.dna-softwares.com/</a> </td></tr></tbody></table>
 
 D.N.A.Softwares（同人社团，同人游戏社团） - D.N.A.Softwares ，于 1996 年成立，主要制作 同人游戏 的日本同人社团，主催是 D.N.A.，当前状态为 活动
+
 ## 成员名单
 - [D.N.A.](./D.N.A..md)
 - [Ruw](./Ruw.md)（ルー）
 - 羊羹 (未找到链接)
 - てるてぃあ (未找到链接)
 
+
 ## 作品列表
 - 此处仅列出东方Project相关作品
+
 
 ### 游戏
 [](./東方戰騎譚_～_DrunkTankies_Battle_in_the_Eastern..md)[東方戰騎譚　～ DrunkTankies Battle in the Eastern.](./東方戰騎譚_～_DrunkTankies_Battle_in_the_Eastern..md)首发日期：2004-08-15 （Comic Market 66 (未找到链接)）AVG （一般向）[](./萌える弾幕STG_もえだん.md)[萌える弾幕STG もえだん](./萌える弾幕STG_もえだん.md)首发日期：2005-03-21 （30周年記念24耐(!?) Comiket Special 4 (未找到链接)）STG （一般向）[](./MASTER_BURNER.md)[MASTER BURNER](./MASTER_BURNER.md)首发日期：2005-08-14 （Comic Market 68 (未找到链接)）STG （一般向）[](./Suica32.md)[Suica32](./Suica32.md)首发日期：2007-08-17 （Comic Market 72 (未找到链接)）STG （一般向）[](./神魔討綺伝_～_Magus_in_Mystic_Geometries..md)[神魔討綺伝 ～ Magus in Mystic Geometries.](./神魔討綺伝_～_Magus_in_Mystic_Geometries..md)首发日期：2008-05-25 （第五回 博麗神社例大祭 (未找到链接)）ACT （一般向）[](./幻想砲劇詩～Art_of_Curtain_Fire_Aggression..md)[幻想砲劇詩～Art of Curtain Fire Aggression.](./幻想砲劇詩～Art_of_Curtain_Fire_Aggression..md)首发日期：2008-08-16 （Comic Market 74 (未找到链接)）RTS （一般向）[](./東方幻想麻雀.md)[東方幻想麻雀](./東方幻想麻雀.md)首发日期：2009-03-08 （第六回 博麗神社例大祭 (未找到链接)）TAB （一般向）[](./ボン・メイリン.md)[ボン・メイリン](./ボン・メイリン.md)首发日期：2010-03-14 （第七回 博麗神社例大祭 (未找到链接)）AVG、​ACT （一般向）[](./群弾.md)[群弾](./群弾.md)首发日期：2010-08-14 （Comic Market 78 (未找到链接)）STG （一般向）[](./SMASH_TOUHOU.md)[SMASH TOUHOU](./SMASH_TOUHOU.md)首发日期：2011-03-13 （第八回 博麗神社例大祭 (未找到链接)）ARPG （一般向）[](./東方幻想麻雀_3rdGeneration.md)[東方幻想麻雀 3rdGeneration](./東方幻想麻雀_3rdGeneration.md)首发日期：2011-08-13 （Comic Market 80 (未找到链接)）TAB （一般向）[](./東方幻想麻雀4.md)[東方幻想麻雀4](./東方幻想麻雀4.md)首发日期：2013-05-26 （第十回 博麗神社例大祭 (未找到链接)）TAB （一般向）[](./東方幻想麻雀4N.md)[東方幻想麻雀4N](./東方幻想麻雀4N.md)首发日期：2014-05-11 （第十一回 博麗神社例大祭 (未找到链接)）TAB （一般向）[](./東方幻想麻雀(Nintendo_Switch).md)[東方幻想麻雀(Nintendo Switch)](./東方幻想麻雀(Nintendo_Switch).md)首发日期：2020-01-30 TAB （一般向）東方幻想麻雀(Steam) 封面图片 (未找到链接)東方幻想麻雀(Steam) (未找到链接)首发日期：未知 麻将对战游戏 
@@ -70,6 +75,7 @@ D.N.A.Softwares（同人社团，同人游戏社团） - D.N.A.Softwares ，于 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458"></table>
 
 
+
 ### 音乐
 [](./東方幻想麻雀オリジナルサウンドトラック.md)[東方幻想麻雀オリジナルサウンドトラック](./東方幻想麻雀オリジナルサウンドトラック.md)首发日期：2009-08-15 （Comic Market 76 (未找到链接)）DNAS-MJST原声集 （一般向）[](./Musicale_Jubilance.md)[Musicale Jubilance](./Musicale_Jubilance.md)首发日期：2011-12-30 （Comic Market 81 (未找到链接)）DNAS-MJ3S盒装 （一般向）该专辑包含 2 张CD
 <table><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
@@ -78,10 +84,12 @@ D.N.A.Softwares（同人社团，同人游戏社团） - D.N.A.Softwares ，于 
 </table>
 
 
+
 ### 其他
 [](./東方幻想麻雀絵葉書帖.md)[東方幻想麻雀絵葉書帖](./東方幻想麻雀絵葉書帖.md)首发日期：2010-05-05 （紅月ノ宴肆 (未找到链接)）DNAS-MJPC画集 （一般向） 16&#160;页
 <table><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 参展信息

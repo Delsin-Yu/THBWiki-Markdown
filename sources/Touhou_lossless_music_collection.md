@@ -7,6 +7,7 @@
 Touhou lossless music collection - 东方无损音乐合集
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 软件信息](#软件信息)
@@ -60,6 +61,7 @@ Touhou lossless music collection - 东方无损音乐合集
 
 
 
+
 ## 软件信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2">无封面</td>
@@ -68,6 +70,7 @@ Touhou lossless music collection - 东方无损音乐合集
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://www.tlmc.eu/">http://www.tlmc.eu/</a><br><a rel="nofollow" class="external free" href="https://nameless--fairy.blogspot.com/">https://nameless--fairy.blogspot.com/</a> （备用官网）</td></tr></tbody></table>
 
 Touhou lossless music collection（同人软件，rwx，2008） - 2008年2月11日 由 rwx  发布的实用工具软件，可在 通用 系统上运行，分级为 一般向
+
 ## 简介
   
 <big> **东方无损音乐合集** </big><small>（英文：Touhou lossless music collection，简称：TLMC）</small>
@@ -90,7 +93,9 @@ v.18后不再在固定时间更新，改为当有足够新材料时才更新，�
 
   
 
+
 ## 无限期延迟更新事件
+
 ### v.18跳票
   
 北京时间2013年11月19日 03:18，TLMC的制作者、官网管理者 **rwx** ，在 **TLMC** 官网上发布了[一段博客](http://www.tlmc.eu/2013/11/tlmc-v18.html)，表示 **TLMC** 将会跳过v.18（即2013年10月份的更新），并宣布下次更新将会在2014年2月。  
@@ -114,10 +119,12 @@ TLMC仍然会为v.17做源，v.17仍然是当前最新也是有效的版本。
 其实这次跳票也并不是无征兆的，在10月28日的时候，rwx已经说过因为自己硬盘有毛病，v.18的更新将会推迟一点[^cite_note-2]。然后在11月10日，rwx表示他正在努力维修硬盘中，不过成效不彰，正考虑跳过这次更新[^cite_note-3]。
   
 
+
 ### 短暂的希望
   
 北京时间2014年03月04日 01:15， **rwx** 在[这段博文](http://www.tlmc.eu/2013/11/tlmc-v18.html)中发表了回复，指自己有七成把握下个更新会在这个月内出来。并在2014年03月30日在同一博文中表示下个更新很有可能会在下个礼拜内推出。目前以上两段回复均已被删除。
   
+
 
 ### 决定无限延迟
   
@@ -134,6 +141,7 @@ TLMC仍然会为v.17做源，v.17仍然是当前最新也是有效的版本。
 </tbody></table>
 
 
+
 ### 再次更新
   
 2015年07月01日， **rwx** 发布了TLMC v.18。  
@@ -141,7 +149,9 @@ TLMC仍然会为v.17做源，v.17仍然是当前最新也是有效的版本。
 2018年01月01日， **rwx** 发布了TLMC v.19。
   
 
+
 ## 版本资讯
+
 ### 无损音乐部分 Main torrent
 
 <table>
@@ -306,7 +316,9 @@ TLMC仍然会为v.17做源，v.17仍然是当前最新也是有效的版本。
 </td></tr></tbody></table>
 
 
+
 ## 内容说明
+
 ### 无损音乐部分
   
 在官网上称为  **Main torrent (7z with cues and *.tta files)**  ，收录了所有被整理的同人专辑的无损TTA档案[^cite_note-5]及其CUE档案[^cite_note-6]。  
@@ -327,6 +339,7 @@ TLMC仍然会为v.17做源，v.17仍然是当前最新也是有效的版本。
 [Dark PHOENiX]/2009.12.30 Arrow Realize [C77]/Arrow Realize.tta
 
 
+
 ### 图册扫图部分
   
 在官网上称为  **Pictures torrent (cover/booklet scans)**  ，收录了部分被整理的同人专辑的封面及图册扫图档案，主要是JPG格式的，也有少量PNG格式。注意并不是所有专辑都有图册，甚至有些连封面也没有，另外扫图对设备的要求比较高，所以经常都会有“有音乐但是没扫图”的情况。  
@@ -342,10 +355,12 @@ TLMC仍然会为v.17做源，v.17仍然是当前最新也是有效的版本。
 [Dark PHOENiX]/2009.12.30 Arrow Realize [C77]/Image0002.JPG
 
 
+
 ### 其他相关杂物部分
   
 在官网上称为  **Supplementary materials (everything else)** ，收录了部分被整理的同人专辑的其他附带物品，例如配图、软件、文本、影片、动画、MIDI等等。
   
+
 
 ## 收录文件列表
 - 以下列表的文件顺序均与种子内的文件顺序相等，可用于寻找文件在种子中的相对或绝对位置。
@@ -355,55 +370,67 @@ TLMC仍然会为v.17做源，v.17仍然是当前最新也是有效的版本。
   -  **蓝字** 和前置 **“=|”** 符号表示该文件是此版本改名的
 
 
+
 ### v.15
 1 [无损音乐部分收录文件列表](https://tlmc.touhou.moe/15a)
 2 [图册扫图部分收录文件列表](https://tlmc.touhou.moe/15b)
 3 [其他相关杂物部分收录文件列表](https://tlmc.touhou.moe/15c)
+
 
 ### v.16
 1 [无损音乐部分收录文件列表](https://tlmc.touhou.moe/16a)
 2 [图册扫图部分收录文件列表](https://tlmc.touhou.moe/16b)
 3 [其他相关杂物部分收录文件列表](https://tlmc.touhou.moe/16c)
 
+
 ### v.17
 1 [无损音乐部分收录文件列表](https://tlmc.touhou.moe/17a)
 2 [图册扫图部分收录文件列表](https://tlmc.touhou.moe/17b)
 3 [其他相关杂物部分收录文件列表](https://tlmc.touhou.moe/17c)
+
 
 ### v.18
 1 [无损音乐部分收录文件列表](https://tlmc.touhou.moe/18a)
 2 [图册扫图部分收录文件列表](https://tlmc.touhou.moe/18b)
 3 [其他相关杂物部分收录文件列表](https://tlmc.touhou.moe/18c)
 
+
 ### v.19
 1 [无损音乐部分收录文件列表](https://tlmc.touhou.moe/19a)
 2 [图册扫图部分收录文件列表](https://tlmc.touhou.moe/19b)
 3 [其他相关杂物部分收录文件列表](https://tlmc.touhou.moe/19c)
 
+
 ## 版本文件差异
 - 以下列表记录各个版本与其上一个版本收录文件之差异，列表内 **黑字** 表示于该版本增加的文件、 **红字** 表示于该版本减少的文件（红字文件将不会在该种子中找到，只会存在于之前的版本里面）。
+
 
 ### v.16
 1 [无损音乐部分收录文件版本差异](https://tlmc.touhou.moe/16d)
 2 [图册扫图部分收录文件版本差异](https://tlmc.touhou.moe/16e)
 3 [其他相关杂物部分收录文件版本差异](https://tlmc.touhou.moe/16f)
 
+
 ### v.17
 1 [无损音乐部分收录文件版本差异](https://tlmc.touhou.moe/17d)
 2 [图册扫图部分收录文件版本差异](https://tlmc.touhou.moe/17e)
 3 [其他相关杂物部分收录文件版本差异](https://tlmc.touhou.moe/17f)
+
 
 ### v.18
 1 [无损音乐部分收录文件版本差异](https://tlmc.touhou.moe/18d)
 2 [图册扫图部分收录文件版本差异](https://tlmc.touhou.moe/18e)
 3 [其他相关杂物部分收录文件版本差异](https://tlmc.touhou.moe/18f)
 
+
 ### v.19
 1 [无损音乐部分收录文件版本差异](https://tlmc.touhou.moe/19d)
 2 [图册扫图部分收录文件版本差异](https://tlmc.touhou.moe/19e)
 3 [其他相关杂物部分收录文件版本差异](https://tlmc.touhou.moe/19f)
 
+
 ## 评论
+
 ## 下载
   
 请注意：  

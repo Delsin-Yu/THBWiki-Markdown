@@ -18,6 +18,7 @@
 
 
 </center>
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-RISE_AGAIN封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/3/36/RISE_AGAIN%E5%B0%81%E9%9D%A2.jpg/224px-RISE_AGAIN%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="224" srcset="https://upload.thwiki.cc/thumb/3/36/RISE_AGAIN%E5%B0%81%E9%9D%A2.jpg/336px-RISE_AGAIN%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/3/36/RISE_AGAIN%E5%B0%81%E9%9D%A2.jpg/448px-RISE_AGAIN%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="480" data-file-height="480"></a><div class="cover-char">角色：<a href="./圣白莲.md" title="圣白莲">圣白莲</a></div></td>
@@ -26,15 +27,18 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://9bfox.blog20.fc2.com/blog-entry-50.html">http://9bfox.blog20.fc2.com/blog-entry-50.html</a></td></tr></tbody></table>
 
 RISE AGAIN（同人专辑，9bFOX，2014） - 2014年10月12日 由 9bFOX 于 东方红楼梦10 发布的单曲同人专辑，分级为 一般向
+
 ## Staff
 Design
 : 设计师 （[网址 社团]）
 Illustration
 : 画师 （[网址 社团]）
 
+
 ## 曲目列表
 
 <table></table>
+
 
 
 ## 评论

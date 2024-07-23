@@ -18,6 +18,7 @@
 
 
 </center>
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-空白に貼る幻&Light_Line封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/6/6d/%E7%A9%BA%E7%99%BD%E3%81%AB%E8%B2%BC%E3%82%8B%E5%B9%BB%26Light_Line%E5%B0%81%E9%9D%A2.jpg/252px-%E7%A9%BA%E7%99%BD%E3%81%AB%E8%B2%BC%E3%82%8B%E5%B9%BB%26Light_Line%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="245" srcset="https://upload.thwiki.cc/thumb/6/6d/%E7%A9%BA%E7%99%BD%E3%81%AB%E8%B2%BC%E3%82%8B%E5%B9%BB%26Light_Line%E5%B0%81%E9%9D%A2.jpg/378px-%E7%A9%BA%E7%99%BD%E3%81%AB%E8%B2%BC%E3%82%8B%E5%B9%BB%26Light_Line%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/6/6d/%E7%A9%BA%E7%99%BD%E3%81%AB%E8%B2%BC%E3%82%8B%E5%B9%BB%26Light_Line%E5%B0%81%E9%9D%A2.jpg/504px-%E7%A9%BA%E7%99%BD%E3%81%AB%E8%B2%BC%E3%82%8B%E5%B9%BB%26Light_Line%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="716" data-file-height="695"></a><div class="cover-char">角色：<a href="./上白泽慧音.md" title="上白泽慧音">上白泽慧音</a></div></td>
@@ -26,6 +27,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://www.yuuhei-satellite.jp/11541">http://www.yuuhei-satellite.jp/11541</a></td></tr><tr><td class="label">备注</td><td colspan="2">EX05</td></tr></tbody></table>
 
 空白に貼る幻&amp;Light Line（同人专辑，幽闭星光，少女フラクタル，2018） - 2018年3月18日 由 幽闭星光，少女フラクタル 于 东方上州祭1 发布的单曲同人专辑，分级为 一般向
+
 ## Staff
   
  **Compose**   
@@ -51,15 +53,18 @@
 Illustration
 : 柚木梨沙
 
+
 ## 试听
   
 暂不支援此类型
   
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoRD"><b>01</b></td><td id="空白に貼る幻" colspan="2" class="title"><a href="./歌词-空白に貼る幻.md" title="歌词:空白に貼る幻">空白に貼る幻</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=奥山ナマリ&amp;vocal=天宮みや&amp;lyric=奥山ナマリ&amp;ogmusic=懐かしき東方の血　～ Old World&amp;fromwiki=空白に貼る幻&Light_Line"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:20</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./奥山ナマリ.md" title="奥山ナマリ">奥山ナマリ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，奥山ナマリ&amp;fromwiki=空白に貼る幻&Light_Line"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="./天宮みや.md" title="天宮みや">天宮みや</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=天宮みや&amp;fromwiki=空白に貼る幻&Light_Line"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="./奥山ナマリ.md" title="奥山ナマリ">奥山ナマリ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?lyric=奥山ナマリ&amp;fromwiki=空白に貼る幻&Light_Line"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=懐かしき東方の血　～ Old World&amp;fromwiki=空白に貼る幻&Light_Line"><span></span></a></span><div class="ogmusic"><a href="/%E6%87%90%E3%81%8B%E3%81%97%E3%81%8D%E6%9D%B1%E6%96%B9%E3%81%AE%E8%A1%80_%EF%BD%9E_Old_World" class="mw-redirect" title="懐かしき東方の血 ～ Old World">懐かしき東方の血　～ Old World</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E6%B0%B8%E5%A4%9C%E6%8A%84_%EF%BD%9E_Imperishable_Night." class="mw-redirect" title="东方永夜抄 ～ Imperishable Night.">东方永夜抄　～ Imperishable Night.</a></div></td></tr>
+<table><tbody><tr><td id="1" class="infoRD"><b>01</b></td><td id="空白に貼る幻" colspan="2" class="title"><a href="./歌词-空白に貼る幻.md" title="歌词:空白に貼る幻">空白に貼る幻</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=奥山ナマリ&amp;vocal=天宮みや&amp;lyric=奥山ナマリ&amp;ogmusic=懐かしき東方の血　～ Old World&amp;fromwiki=空白に貼る幻&Light_Line"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:20</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./奥山ナマリ.md" title="奥山ナマリ">奥山ナマリ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，奥山ナマリ&amp;fromwiki=空白に貼る幻&Light_Line"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="./天宮みや.md" title="天宮みや">天宮みや</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=天宮みや&amp;fromwiki=空白に貼る幻&Light_Line"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="./奥山ナマリ.md" title="奥山ナマリ">奥山ナマリ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?lyric=奥山ナマリ&amp;fromwiki=空白に貼る幻&Light_Line"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=懐かしき東方の血　～ Old World&amp;fromwiki=空白に貼る幻&Light_Line"><span></span></a></span><div class="ogmusic"><a href="./懐かしき東方の血_～_Old_World.md" class="mw-redirect" title="懐かしき東方の血 ～ Old World">懐かしき東方の血　～ Old World</a></div><div class="source"><a href="./东方永夜抄_～_Imperishable_Night..md" class="mw-redirect" title="东方永夜抄 ～ Imperishable Night.">东方永夜抄　～ Imperishable Night.</a></div></td></tr>
 <tr><td id="2" class="infoRL"><b>02</b></td><td id="Light_Line" colspan="2" class="title"><a href="./歌词-Light_Line.md" title="歌词:Light Line">Light Line</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=奥山ナマリ&amp;vocal=senya&amp;lyric=奥山ナマリ&amp;fromwiki=空白に貼る幻&Light_Line"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:14</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./奥山ナマリ.md" title="奥山ナマリ">奥山ナマリ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，奥山ナマリ&amp;fromwiki=空白に貼る幻&Light_Line"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="./senya.md" title="senya">senya</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=senya&amp;fromwiki=空白に貼る幻&Light_Line"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="./奥山ナマリ.md" title="奥山ナマリ">奥山ナマリ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?lyric=奥山ナマリ&amp;fromwiki=空白に貼る幻&Light_Line"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">备注</td><td class="text" colspan="2">～犬走椛～</td></tr></tbody></table>
+
 
 
 ## 评论

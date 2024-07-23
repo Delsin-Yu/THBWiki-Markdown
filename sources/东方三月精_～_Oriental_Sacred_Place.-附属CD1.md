@@ -27,12 +27,12 @@
 
 东方三月精 ～ Oriental Sacred Place./附属CD1（官方专辑） - 官方专辑
 ## 相关信息
-- 曲目说明 (未找到链接)
+- [曲目说明](./东方三月精_～_Oriental_Sacred_Place.-附属CD1-曲目说明.md)
 
 ## 曲目
 
-<table><tbody><tr><td class="infoYD"><b>01</b></td><td colspan="2" class="title"><a href="./神域的捉迷藏生活.md" title="神域的捉迷藏生活">神域的捉迷藏生活</a></td><td class="time">04:01</td></tr><tr><td class="left"></td><td colspan="3" class="bigtext"><a href="/%E7%A5%9E%E5%9F%9F%E3%81%AE%E3%81%8B%E3%81%8F%E3%82%8C%E3%82%93%E3%81%BC%E6%9A%AE%E3%82%89%E3%81%97" class="mw-redirect" title="神域のかくれんぼ暮らし">神域のかくれんぼ暮らし</a></td></tr>
-<tr><td class="infoRD"><b>02</b></td><td colspan="2" class="title"><a href="./现代妖怪殖民地.md" title="现代妖怪殖民地">现代妖怪殖民地</a></td><td class="time">04:05</td></tr><tr><td class="left"></td><td colspan="3" class="bigtext"><a href="/%E5%A6%96%E6%80%AA%E3%83%A2%E3%83%80%E3%83%B3%E3%82%B3%E3%83%AD%E3%83%8B%E3%83%BC" class="mw-redirect" title="妖怪モダンコロニー">妖怪モダンコロニー</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2">妖怪モダンコロニー</td></tr><tr><td class="left"></td><td class="label">来源</td><td class="text" colspan="2"><a href="/Double_Spoiler_%EF%BD%9E_%E4%B8%9C%E6%96%B9%E6%96%87%E8%8A%B1%E5%B8%96" class="mw-redirect" title="Double Spoiler ～ 东方文花帖">Double Spoiler　～ 东方文花帖</a></td></tr></tbody></table>
+<table><tbody><tr><td class="infoYD"><b>01</b></td><td colspan="2" class="title"><a href="./神域的捉迷藏生活.md" title="神域的捉迷藏生活">神域的捉迷藏生活</a></td><td class="time">04:01</td></tr><tr><td class="left"></td><td colspan="3" class="bigtext"><a href="./神域のかくれんぼ暮らし.md" class="mw-redirect" title="神域のかくれんぼ暮らし">神域のかくれんぼ暮らし</a></td></tr>
+<tr><td class="infoRD"><b>02</b></td><td colspan="2" class="title"><a href="./现代妖怪殖民地.md" title="现代妖怪殖民地">现代妖怪殖民地</a></td><td class="time">04:05</td></tr><tr><td class="left"></td><td colspan="3" class="bigtext"><a href="./妖怪モダンコロニー.md" class="mw-redirect" title="妖怪モダンコロニー">妖怪モダンコロニー</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2">妖怪モダンコロニー</td></tr><tr><td class="left"></td><td class="label">来源</td><td class="text" colspan="2"><a href="./Double_Spoiler_～_东方文花帖.md" class="mw-redirect" title="Double Spoiler ～ 东方文花帖">Double Spoiler　～ 东方文花帖</a></td></tr></tbody></table>
 
 
 ## 光盘扫图

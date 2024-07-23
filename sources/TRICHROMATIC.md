@@ -4,7 +4,8 @@
 
 TRICHROMATIC ，主要制作 同人音乐 的日本同人社团，主催是 TRICHROMATIC，当前状态为 转入非东方
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -16,6 +17,7 @@ TRICHROMATIC ，主要制作 同人音乐 的日本同人社团，主催是 TRIC
 
 
 - [4 参展信息](#参展信息)
+
 
 
 
@@ -33,18 +35,22 @@ TRICHROMATIC（同人社团，同人音乐社团） - TRICHROMATIC ，主要制�
 - [https://soundcloud.com/trichromatic](https://soundcloud.com/trichromatic)
 - [https://myspace.com/trichromaticdotnet](https://myspace.com/trichromaticdotnet)
 
+
 ## 成员名单
 - TRICHROMATIC (n.k.a.  **TMZ** )
 
 : [Pixiv ID: 1141553](https://www.pixiv.net/users/1141553)
 
+
 ## 作品列表
+
 ### 同人专辑
 [](./Astral_Pulse_～_東方星脈動.md)[Astral Pulse ～ 東方星脈動](./Astral_Pulse_～_東方星脈動.md)首发日期：2009-10-11 （M3-2009秋 (未找到链接)）TM-0001全长 （一般向）[ETHEREAL! - 東方霊妙楽 -](./ETHEREAL!_-_東方霊妙楽_-.md)首发日期：2010-03-14 （第七回 博麗神社例大祭 (未找到链接)）TM-0003EP （一般向）
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 参展信息

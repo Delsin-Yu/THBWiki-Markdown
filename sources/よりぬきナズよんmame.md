@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-よりぬきナズよんmame封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/8/88/%E3%82%88%E3%82%8A%E3%81%AC%E3%81%8D%E3%83%8A%E3%82%BA%E3%82%88%E3%82%93mame%E5%B0%81%E9%9D%A2.png/99px-%E3%82%88%E3%82%8A%E3%81%AC%E3%81%8D%E3%83%8A%E3%82%BA%E3%82%88%E3%82%93mame%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="99" height="140" srcset="https://upload.thwiki.cc/thumb/8/88/%E3%82%88%E3%82%8A%E3%81%AC%E3%81%8D%E3%83%8A%E3%82%BA%E3%82%88%E3%82%93mame%E5%B0%81%E9%9D%A2.png/148px-%E3%82%88%E3%82%8A%E3%81%AC%E3%81%8D%E3%83%8A%E3%82%BA%E3%82%88%E3%82%93mame%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/8/88/%E3%82%88%E3%82%8A%E3%81%AC%E3%81%8D%E3%83%8A%E3%82%BA%E3%82%88%E3%82%93mame%E5%B0%81%E9%9D%A2.png/198px-%E3%82%88%E3%82%8A%E3%81%AC%E3%81%8D%E3%83%8A%E3%82%BA%E3%82%88%E3%82%93mame%E5%B0%81%E9%9D%A2.png 2x" data-file-width="374" data-file-height="529"></a><div class="cover-char">角色：<a href="./娜兹玲.md" title="娜兹玲">娜兹玲</a>，<a href="./寅丸星.md" title="寅丸星">寅丸星</a></div></td>
@@ -14,9 +15,12 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/50287977">https://www.pixiv.net/artworks/50287977</a></td></tr></tbody></table>
 
 よりぬきナズよんmame（同人志，タムリンビュー，2015） - 2015年5月10日 由 タムリンビュー 于 博丽神社例大祭12 发布的漫画同人志，登场人物有 娜兹玲、寅丸星，分级为 一般向
+
 ## 预览
+
 ## Staff
 - 五味苺 (未找到链接)
+
 
 ## 评论
 

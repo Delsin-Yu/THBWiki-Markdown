@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-バタフライ・DREAM封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/d/df/%E3%83%90%E3%82%BF%E3%83%95%E3%83%A9%E3%82%A4%E3%83%BBDREAM%E5%B0%81%E9%9D%A2.jpg/224px-%E3%83%90%E3%82%BF%E3%83%95%E3%83%A9%E3%82%A4%E3%83%BBDREAM%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="224" srcset="https://upload.thwiki.cc/thumb/d/df/%E3%83%90%E3%82%BF%E3%83%95%E3%83%A9%E3%82%A4%E3%83%BBDREAM%E5%B0%81%E9%9D%A2.jpg/336px-%E3%83%90%E3%82%BF%E3%83%95%E3%83%A9%E3%82%A4%E3%83%BBDREAM%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/d/df/%E3%83%90%E3%82%BF%E3%83%95%E3%83%A9%E3%82%A4%E3%83%BBDREAM%E5%B0%81%E9%9D%A2.jpg/448px-%E3%83%90%E3%82%BF%E3%83%95%E3%83%A9%E3%82%A4%E3%83%BBDREAM%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="600" data-file-height="600"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/en/artworks/46403410">https://www.pixiv.net/en/artworks/46403410</a></td></tr></tbody></table>
 
 バタフライ・DREAM（同人志，お月見団子，2014） - 2014年10月12日 由 お月見団子 于 东方红楼梦10 发布的漫画同人志，B5尺寸一共44页，登场人物有 博丽灵梦、雾雨魔理沙，分级为 一般向
+
 ## Staff
 - うるう (未找到链接)
+
 
 ## 评论
 ```

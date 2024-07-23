@@ -4,7 +4,8 @@
 
 The Last Battalion ，于 2013 年成立，主要制作 同人音乐 的日本同人社团，主催是 NiGaRi，くもたけ，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -15,15 +16,18 @@ The Last Battalion ，于 2013 年成立，主要制作 同人音乐 的日本�
 
 
 
+
 ## 社团信息
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> The Last Battalion </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2013</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=NiGaRi&amp;action=edit&amp;redlink=1" class="new" title="NiGaRi（页面不存在）">NiGaRi</a> <br> <a href="/index.php?title=%E3%81%8F%E3%82%82%E3%81%9F%E3%81%91&amp;action=edit&amp;redlink=1" class="new" title="くもたけ（页面不存在）">くもたけ</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://thelastbattalion.web.fc2.com/">http://thelastbattalion.web.fc2.com/</a> <br><a rel="nofollow" class="external free" href="https://soundcloud.com/thelastbattalion">https://soundcloud.com/thelastbattalion</a><br><a rel="nofollow" class="external free" href="https://www.youtube.com/channel/UCWqatNdykysxmR8mD-VFc9w">https://www.youtube.com/channel/UCWqatNdykysxmR8mD-VFc9w</a><br><a rel="nofollow" class="external free" href="https://thelastbattalion.bandcamp.com/">https://thelastbattalion.bandcamp.com/</a></td></tr></tbody></table>
 
 The Last Battalion（同人社团，同人音乐社团） - The Last Battalion ，于 2013 年成立，主要制作 同人音乐 的日本同人社团，主催是 NiGaRi，くもたけ，当前状态为 活动
+
 ## 成员名单
 - NiGaRi (未找到链接)&#160;: arrangement, backing guitar, illustration
 - くもたけ (未找到链接)&#160;: lead guitar, web
 - ねる (未找到链接)&#160;: vocals (2016 - 现在)
+
 
 ## 作品列表
 [](./Last_Battalion.md)[Last Battalion](./Last_Battalion.md)首发日期：2014-03-08 （おいしく始まらナイトvol.2 (未找到链接)）单曲、​Demo （一般向）1st Demo，在Live会场上发布[](./阿鼻叫喚～pandemonium～.md)[阿鼻叫喚～pandemonium～](./阿鼻叫喚～pandemonium～.md)首发日期：2014-05-11 （第十一回 博麗神社例大祭 (未找到链接)）EP （一般向）[Obizen](./Obizen.md)首发日期：2014-08-16 （Comic Market 86 (未找到链接)）全长 （一般向）[](./DEAD_BUT_DREAMING.md)[DEAD BUT DREAMING](./DEAD_BUT_DREAMING.md)首发日期：2015-05-10 （第十二回 博麗神社例大祭 (未找到链接)）单曲、​Demo （一般向）2nd Demo[In The Wake Of Scarlet Devil](./In_The_Wake_Of_Scarlet_Devil.md)首发日期：2015-08-14 （Comic Market 88 (未找到链接)）全长 （一般向）[](./椛～Fall_of_Fall～.md)[椛～Fall of Fall～](./椛～Fall_of_Fall～.md)首发日期：2018-10-14 （第五回 博麗神社秋季例大祭 (未找到链接)）单曲 （一般向）[](./Mishagguzi.md)[Mishagguzi](./Mishagguzi.md)首发日期：2018-05-06 （第十五回 博麗神社例大祭 (未找到链接)）全长 （一般向）HYPNOSIS 封面图片 (未找到链接)HYPNOSIS (未找到链接)首发日期：未知 - [](./Emotional_Impenetrability.md)[Emotional Impenetrability](./Emotional_Impenetrability.md)首发日期：2020-09-06 单曲 （一般向）Fate of 60 Years 封面图片 (未找到链接)Fate of 60 Years (未找到链接)首发日期：未知 - 広有射怪鳥事＿Unreadable! remake 封面图片 (未找到链接)広有射怪鳥事＿Unreadable! remake (未找到链接)首发日期：未知 - Broken Moon 封面图片 (未找到链接)Broken Moon (未找到链接)首发日期：未知 - Convergent Thinking 封面图片 (未找到链接)Convergent Thinking (未找到链接)首发日期：未知 - Green Jelly 封面图片 (未找到链接)Green Jelly (未找到链接)首发日期：未知 - 
@@ -49,6 +53,7 @@ The Last Battalion（同人社团，同人音乐社团） - The Last Battalion �
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458"></table>
+
 
 
 ## 参展信息

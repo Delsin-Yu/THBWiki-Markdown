@@ -4,12 +4,14 @@
 
 Nono_443
 
+
 ## 目录
 
 - [1 正篇](#正篇)
 - [2 Extra](#Extra)
 - [3 未使用符卡](#未使用符卡)
 - [4 注释](#注释)
+
 
 
 
@@ -112,6 +114,7 @@ Nono_443
 <tr><td style="width:200px">「Elliptical Orbit」（椭圆轨道）</td><td style="width:200px">「エリプティカルオービッド」</td><td style="width:180px">魅魔</td></tr></tbody></table>
 
 
+
 ## Extra
 
 <table><tbody><tr><th><b>中文名</b></th><th><b>日文名</b></th><th><b>出现位置</b></th></tr><tr><td style="width:200px">「Trick Number」（骗数）</td><td style="width:200px">「トリックナンバー」</td><td style="width:180px">因幡天为</td></tr>
@@ -122,6 +125,7 @@ Nono_443
 <tr><td style="width:200px">「Lost Phantasm」（失落的幻想）</td><td style="width:200px">「ロストファンタズム」</td><td style="width:180px">八云紫</td></tr>
 <tr><td style="width:200px">「现象判断的悖论」<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">17</a></sup></td><td style="width:200px">「現象判断パラドックス」</td><td style="width:180px">古明地恋</td></tr>
 <tr><td style="width:200px">「Extinction」（灭绝）</td><td style="width:200px">「エクステインシオン」</td><td style="width:180px">芙兰朵露</td></tr></tbody></table>
+
 
 
 ## 未使用符卡

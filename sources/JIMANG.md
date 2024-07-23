@@ -6,11 +6,13 @@
 
 本页是关于东方Project  
  **二次同人创作者** 的词条
+
 ## 基本信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="label"><b>名称</b></td><td> Jimang <span style="font-size:90%;">（识别名：JIMANG）</span></td></tr><tr><td class="label"><b>所属社团</b></td><td><b>当前</b><div style="margin-left:2em;">Jimang，<a rel="nofollow" class="external text" href="http://soundhorizon.com/">Sound Horizon</a></div></td></tr><tr><td class="label"><b>职位</b></td><td>作曲，编曲，演唱，作词</td></tr><tr><td class="label"><b>参与社团</b></td><td><a href="./COOL&CREATE.md" title="COOL&amp;CREATE">COOL&amp;CREATE</a> （编曲，演唱，作词）<br><a class="mw-selflink selflink">JIMANG</a> （作曲，编曲，演唱，作词）<br><a href="./博丽神社事务所.md" title="博丽神社事务所">博丽神社事务所</a> （编曲，演唱，作词）</td></tr><tr><td class="label"><b>性别</b></td><td>男</td></tr><tr><td class="label"><b>个人页面</b></td><td><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><b>Official</b></td><td><a rel="nofollow" class="external free" href="http://jimang.com/">http://jimang.com/</a></td></tr></tbody></table></td></tr></tbody></table>
 
 JIMANG（人物） - 现实人物
+
 ## 介绍
   
 日本音乐人。在Sound Horizon当男主唱和旁白。

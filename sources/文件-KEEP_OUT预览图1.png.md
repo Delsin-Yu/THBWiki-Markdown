@@ -4,6 +4,7 @@
 
 A.M.A | 同人志预览图片
 
+
 ## 摘要
   
 源地址：[direct image link (original size)](https://s2.booth.pm/a39646a3-cf6e-4fda-8a7c-84de4dc6c46e/i/547935/eb2daf92-4a99-4f1c-a122-b1e511e4d12d.png), [source page (circle Booth)](https://mirimo.booth.pm/items/547935)

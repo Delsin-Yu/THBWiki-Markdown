@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-ADVENT_CIRNO-extra-封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/9/9d/ADVENT_CIRNO-extra-%E5%B0%81%E9%9D%A2.jpg/160px-ADVENT_CIRNO-extra-%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="160" height="224" srcset="https://upload.thwiki.cc/thumb/9/9d/ADVENT_CIRNO-extra-%E5%B0%81%E9%9D%A2.jpg/241px-ADVENT_CIRNO-extra-%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/9/9d/ADVENT_CIRNO-extra-%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="299" data-file-height="417"></a><div class="cover-char">角色：<a href="./琪露诺.md" title="琪露诺">琪露诺</a>，<a href="./铃仙·优昙华院·因幡.md" title="铃仙·优昙华院·因幡">铃仙·优昙华院·因幡</a>，<a href="./红美铃.md" title="红美铃">红美铃</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://onenightstand.cocolog-nifty.com/ons/2007/05/advent_cirnoext.html">http://onenightstand.cocolog-nifty.com/ons/2007/05/advent_cirnoext.html</a></td></tr></tbody></table>
 
 ADVENT CIRNO-extra-（同人志，One Night Stand，2007） - 2007年5月20日 由 One Night Stand 于 博丽神社例大祭4 发布的漫画同人志，B5尺寸一共36页，登场人物有 琪露诺、铃仙·优昙华院·因幡、红美铃，分级为 一般向
+
 ## Staff
 - 牛木義隆
+
 
 ## 评论
   

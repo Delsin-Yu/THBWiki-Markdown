@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-古星術十書_～_Mysterious_History_of_Magi封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/5/58/%E5%8F%A4%E6%98%9F%E8%A1%93%E5%8D%81%E6%9B%B8_%EF%BD%9E_Mysterious_History_of_Magi%E5%B0%81%E9%9D%A2.jpg/280px-%E5%8F%A4%E6%98%9F%E8%A1%93%E5%8D%81%E6%9B%B8_%EF%BD%9E_Mysterious_History_of_Magi%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="280" height="277" srcset="https://upload.thwiki.cc/thumb/5/58/%E5%8F%A4%E6%98%9F%E8%A1%93%E5%8D%81%E6%9B%B8_%EF%BD%9E_Mysterious_History_of_Magi%E5%B0%81%E9%9D%A2.jpg/420px-%E5%8F%A4%E6%98%9F%E8%A1%93%E5%8D%81%E6%9B%B8_%EF%BD%9E_Mysterious_History_of_Magi%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/5/58/%E5%8F%A4%E6%98%9F%E8%A1%93%E5%8D%81%E6%9B%B8_%EF%BD%9E_Mysterious_History_of_Magi%E5%B0%81%E9%9D%A2.jpg/560px-%E5%8F%A4%E6%98%9F%E8%A1%93%E5%8D%81%E6%9B%B8_%EF%BD%9E_Mysterious_History_of_Magi%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1024" data-file-height="1012"></a><div class="cover-char">角色：<a href="./玛艾露贝莉·赫恩.md" title="玛艾露贝莉·赫恩">玛艾露贝莉·赫恩</a>，<a href="./宇佐见莲子.md" title="宇佐见莲子">宇佐见莲子</a></div></td>
@@ -17,7 +18,9 @@
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://mazyu.booth.pm/items/5058749">Booth</a>，<a rel="nofollow" class="external text" href="https://mazyu.booth.pm/items/5074472">BoothDL</a></td></tr></tbody></table>
 
 
+
 ## Staff
+
 ### Disc 1
   
  **Compose**   
@@ -25,11 +28,13 @@
 <table><tbody><tr><td><a href="./アズレシアン.md" title="アズレシアン">アズレシアン</a></td><td></td><td>Tr.1</td></tr><tr><td><a href="./古明地かなで.md" title="古明地かなで">古明地かなで</a></td><td></td><td>Tr.2</td></tr><tr><td><a href="/index.php?title=%E3%83%A9%E3%83%AB%E3%83%A0&amp;action=edit&amp;redlink=1" class="new" title="ラルム（页面不存在）">ラルム</a></td><td></td><td>Tr.3</td></tr><tr><td><a href="./壱太.md" title="壱太">壱太</a></td><td></td><td>Tr.4</td></tr><tr><td><a href="/index.php?title=Mike_(PopCat)&amp;action=edit&amp;redlink=1" class="new" title="Mike (PopCat)（页面不存在）">Mike (PopCat)</a></td><td></td><td>Tr.5</td></tr><tr><td><a href="./Orange.md" title="Orange">Orange</a></td><td></td><td>Tr.6</td></tr><tr><td><a href="./あめん.md" title="あめん">あめん</a></td><td></td><td>Tr.7</td></tr><tr><td><a href="/index.php?title=%E6%9F%90%E7%8C%B9OS&amp;action=edit&amp;redlink=1" class="new" title="某猹OS（页面不存在）">某猹OS</a></td><td></td><td>Tr.8</td></tr><tr><td><a href="/index.php?title=%E3%82%8F%E3%81%BB%E3%81%9F&amp;action=edit&amp;redlink=1" class="new" title="わほた（页面不存在）">わほた</a></td><td></td><td>Tr.9</td></tr><tr><td><a href="./DO.md" title="DO">DO</a></td><td></td><td>Tr.10</td></tr><tr><td><a href="/index.php?title=Dr._Fishnberg&amp;action=edit&amp;redlink=1" class="new" title="Dr. Fishnberg（页面不存在）">Dr. Fishnberg</a></td><td></td><td>Tr.11</td></tr></tbody></table>
 
 
+
 ### Disc 2
   
  **Compose**   
 
 <table><tbody><tr><td><a href="./翡翠（人物）.md" title="翡翠（人物）">翡翠（人物）</a></td><td></td><td>Tr.1</td></tr><tr><td><a href="./こまいぬ.md" title="こまいぬ">こまいぬ</a></td><td></td><td>Tr.2</td></tr><tr><td><a href="./妖琳.md" title="妖琳">妖琳</a></td><td></td><td>Tr.3</td></tr><tr><td><a href="/index.php?title=%E3%81%88%E3%81%B3%E3%81%AA%E3%81%84&amp;action=edit&amp;redlink=1" class="new" title="えびない（页面不存在）">えびない</a></td><td></td><td>Tr.4</td></tr><tr><td><a href="./時見草.md" title="時見草">時見草</a></td><td></td><td>Tr.5</td></tr><tr><td><a href="/index.php?title=ProfPrac&amp;action=edit&amp;redlink=1" class="new" title="ProfPrac（页面不存在）">ProfPrac</a></td><td></td><td>Tr.6</td></tr><tr><td><a href="./音屋のばけばけ.md" title="音屋のばけばけ">音屋のばけばけ</a></td><td></td><td>Tr.7</td></tr><tr><td><a href="/index.php?title=%E9%9B%A8%E6%B0%B4&amp;action=edit&amp;redlink=1" class="new" title="雨水（页面不存在）">雨水</a></td><td></td><td>Tr.8</td></tr></tbody></table>
+
 
 
 ### Disc 3
@@ -51,6 +56,7 @@
 Illustration
 : ねるぞう、こんぶ、物部毒鼓
 
+
 ## 试听
 
 <table>
@@ -63,7 +69,9 @@ Illustration
 </td></tr></tbody></table>
 
 
+
 ## 曲目列表
+
 ### 【DISC1】(虹色のセプテントリオン～鳥船遺跡風)
 
 <table><tbody><tr><td id="1" class="infoYL"><b>01</b></td><td id="旧跡は洞穴の奥底に_～_immortal_machine" colspan="2" class="title">旧跡は洞穴の奥底に　～ immortal machine<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=アズレシアン&amp;fromwiki=古星術十書_～_Mysterious_History_of_Magi"><span title="搜索相似同人曲"></span></a></span></td><td class="time">05:24</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./アズレシアン.md" title="アズレシアン">アズレシアン</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，アズレシアン&amp;fromwiki=古星術十書_～_Mysterious_History_of_Magi"><span></span></a></span></td></tr>
@@ -79,6 +87,7 @@ Illustration
 <tr><td id="11" class="infoYL"><b>11</b></td><td id="The_Voyager_Lost_in_Ruins" colspan="2" class="title">The Voyager Lost in Ruins<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Dr. Fishnberg&amp;fromwiki=古星術十書_～_Mysterious_History_of_Magi"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:31</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=Dr._Fishnberg&amp;action=edit&amp;redlink=1" class="new" title="Dr. Fishnberg（页面不存在）">Dr. Fishnberg</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Dr. Fishnberg&amp;fromwiki=古星術十書_～_Mysterious_History_of_Magi"><span></span></a></span></td></tr></tbody></table>
 
 
+
 ### 【DISC2】(未知の花 魅知の旅～蓮台野夜行風)
 
 <table><tbody><tr><td id="12" class="infoYL"><b>01</b></td><td id="朝逝く雲雀、青天を翔り" colspan="2" class="title">朝逝く雲雀、青天を翔り<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=翡翠（人物）&amp;fromwiki=古星術十書_～_Mysterious_History_of_Magi"><span title="搜索相似同人曲"></span></a></span></td><td class="time">02:25</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./翡翠（人物）.md" title="翡翠（人物）">翡翠（人物）</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，翡翠（人物）&amp;fromwiki=古星術十書_～_Mysterious_History_of_Magi"><span></span></a></span></td></tr>
@@ -91,12 +100,13 @@ Illustration
 <tr><td id="19" class="infoYL"><b>08</b></td><td id="古き星は夜行く標となりて" colspan="2" class="title">古き星は夜行く標となりて<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=雨水&amp;fromwiki=古星術十書_～_Mysterious_History_of_Magi"><span title="搜索相似同人曲"></span></a></span></td><td class="time">02:35</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=%E9%9B%A8%E6%B0%B4&amp;action=edit&amp;redlink=1" class="new" title="雨水（页面不存在）">雨水</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，雨水&amp;fromwiki=古星術十書_～_Mysterious_History_of_Magi"><span></span></a></span></td></tr></tbody></table>
 
 
+
 ### 【DISC3】(自由な秘封的楽曲)
 
 <table><tbody><tr><td id="20" class="infoYL"><b>01</b></td><td id="Flooded_Shrine_Where_Magic_Hides" colspan="2" class="title">Flooded Shrine Where Magic Hides<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=ivanlychkov&amp;fromwiki=古星術十書_～_Mysterious_History_of_Magi"><span title="搜索相似同人曲"></span></a></span></td><td class="time">02:41</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=ivanlychkov&amp;action=edit&amp;redlink=1" class="new" title="ivanlychkov（页面不存在）">ivanlychkov</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，ivanlychkov&amp;fromwiki=古星術十書_～_Mysterious_History_of_Magi"><span></span></a></span></td></tr>
 <tr><td id="21" class="infoYL"><b>02</b></td><td id="楽園至上主義者達の勘違い日和_～_Secret_Taboo" colspan="2" class="title">楽園至上主義者達の勘違い日和　～ Secret Taboo<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=快晴&amp;fromwiki=古星術十書_～_Mysterious_History_of_Magi"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:44</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=%E5%BF%AB%E6%99%B4&amp;action=edit&amp;redlink=1" class="new" title="快晴（页面不存在）">快晴</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，快晴&amp;fromwiki=古星術十書_～_Mysterious_History_of_Magi"><span></span></a></span></td></tr>
 <tr><td id="22" class="infoYL"><b>03</b></td><td id="ふたりの景色、ふたつの幻想_～_Pale_Lullaby" colspan="2" class="title">ふたりの景色、ふたつの幻想 ～ Pale Lullaby<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=凹山&amp;fromwiki=古星術十書_～_Mysterious_History_of_Magi"><span title="搜索相似同人曲"></span></a></span></td><td class="time">06:38</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=%E5%87%B9%E5%B1%B1&amp;action=edit&amp;redlink=1" class="new" title="凹山（页面不存在）">凹山</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，凹山&amp;fromwiki=古星術十書_～_Mysterious_History_of_Magi"><span></span></a></span></td></tr>
-<tr><td id="23" class="infoYL"><b>04</b></td><td id="廃都「深月」より" colspan="2" class="title">廃都「深月」より<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=えばん&amp;fromwiki=古星術十書_～_Mysterious_History_of_Magi"><span title="搜索相似同人曲"></span></a></span></td><td class="time">02:19</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/%E3%81%88%E3%81%B0%E3%82%93" class="mw-redirect" title="えばん">えばん</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，えばん&amp;fromwiki=古星術十書_～_Mysterious_History_of_Magi"><span></span></a></span></td></tr>
+<tr><td id="23" class="infoYL"><b>04</b></td><td id="廃都「深月」より" colspan="2" class="title">廃都「深月」より<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=えばん&amp;fromwiki=古星術十書_～_Mysterious_History_of_Magi"><span title="搜索相似同人曲"></span></a></span></td><td class="time">02:19</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./えばん.md" class="mw-redirect" title="えばん">えばん</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，えばん&amp;fromwiki=古星術十書_～_Mysterious_History_of_Magi"><span></span></a></span></td></tr>
 <tr><td id="24" class="infoYL"><b>05</b></td><td id="怪奇伝言_~_0x486966752077616b6172616e" colspan="2" class="title">怪奇伝言 ~ 0x486966752077616b6172616e<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=へるくん&amp;fromwiki=古星術十書_～_Mysterious_History_of_Magi"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:00</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=%E3%81%B8%E3%82%8B%E3%81%8F%E3%82%93&amp;action=edit&amp;redlink=1" class="new" title="へるくん（页面不存在）">へるくん</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，へるくん&amp;fromwiki=古星術十書_～_Mysterious_History_of_Magi"><span></span></a></span></td></tr>
 <tr><td id="25" class="infoYL"><b>06</b></td><td id="フェスタホリックヴェスパー" colspan="2" class="title">フェスタホリックヴェスパー<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=みゃが&amp;fromwiki=古星術十書_～_Mysterious_History_of_Magi"><span title="搜索相似同人曲"></span></a></span></td><td class="time">02:46</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=%E3%81%BF%E3%82%83%E3%81%8C&amp;action=edit&amp;redlink=1" class="new" title="みゃが（页面不存在）">みゃが</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，みゃが&amp;fromwiki=古星術十書_～_Mysterious_History_of_Magi"><span></span></a></span></td></tr>
 <tr><td id="26" class="infoYL"><b>07</b></td><td id="Yellow_Flower～世界中の子と友達になれる" colspan="2" class="title">Yellow Flower～世界中の子と友達になれる<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=或兎&amp;fromwiki=古星術十書_～_Mysterious_History_of_Magi"><span title="搜索相似同人曲"></span></a></span></td><td class="time">02:40</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./或兎.md" title="或兎">或兎</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，或兎&amp;fromwiki=古星術十書_～_Mysterious_History_of_Magi"><span></span></a></span></td></tr>
@@ -108,6 +118,7 @@ Illustration
 <tr><td id="32" class="infoYL"><b>13</b></td><td id="摩訶乙女と不思議な部屋" colspan="2" class="title">摩訶乙女と不思議な部屋<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=NED&amp;fromwiki=古星術十書_～_Mysterious_History_of_Magi"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:03</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./NED.md" title="NED">NED</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，NED&amp;fromwiki=古星術十書_～_Mysterious_History_of_Magi"><span></span></a></span></td></tr>
 <tr><td id="33" class="infoYL"><b>14</b></td><td id="雨空の彼方へ" colspan="2" class="title">雨空の彼方へ<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=オボロチ&amp;fromwiki=古星術十書_～_Mysterious_History_of_Magi"><span title="搜索相似同人曲"></span></a></span></td><td class="time">02:58</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=%E3%82%AA%E3%83%9C%E3%83%AD%E3%83%81&amp;action=edit&amp;redlink=1" class="new" title="オボロチ（页面不存在）">オボロチ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，オボロチ&amp;fromwiki=古星術十書_～_Mysterious_History_of_Magi"><span></span></a></span></td></tr>
 <tr><td id="34" class="infoYL"><b>15</b></td><td id="Locus_Amoenus_~_Green-White_Love" colspan="2" class="title">Locus Amoenus ~ Green-White Love<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=RickyRister&amp;fromwiki=古星術十書_～_Mysterious_History_of_Magi"><span title="搜索相似同人曲"></span></a></span></td><td class="time">05:05</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=RickyRister&amp;action=edit&amp;redlink=1" class="new" title="RickyRister（页面不存在）">RickyRister</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，RickyRister&amp;fromwiki=古星術十書_～_Mysterious_History_of_Magi"><span></span></a></span></td></tr></tbody></table>
+
 
 
 ## 评论

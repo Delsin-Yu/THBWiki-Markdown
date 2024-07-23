@@ -4,6 +4,7 @@
 
 火焰猫燐 | 符卡
 
+
 ## 目录
 
 - [1 分析与考据](#分析与考据)
@@ -20,7 +21,9 @@
 
 
 
+
 ## 分析与考据
+
 ### 恨霊「スプリーンイーター」
   
  **恨霊「スプリーンイーター」**  恨灵「Spleen Eater」（脾脏蛀食者）
@@ -65,6 +68,7 @@ When you are waspish.
   - 有说法认为阿燐的种族「火车」和中国的「魍魎」是同一种妖怪，而魍魎会吃尸体的肝脏[^cite_note-2]。
 
 
+
 ### 屍霊「食人怨霊」
   
  **屍霊「食人怨霊」**  尸灵「食人怨灵」
@@ -73,8 +77,10 @@ When you are waspish.
 
 [^cite_note-1]: 英文维基文库：[The Tragedy of Julius Caesar (unsourced edition)/Act IV#SCENE III. within the tent of Brutus.](http://wikisource.org/wiki/en:The_Tragedy_of_Julius_Caesar_(unsourced_edition)/Act_IV#SCENE_III._within_the_tent_of_Brutus.)
 
+
 ## 参见
 - [火焰猫燐/分析考据](./火焰猫燐-分析考据.md)
+
 
 ## 导航
 

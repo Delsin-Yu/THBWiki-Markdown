@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-宇佐見蓮子vs事故物件封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/2/21/%E5%AE%87%E4%BD%90%E8%A6%8B%E8%93%AE%E5%AD%90vs%E4%BA%8B%E6%95%85%E7%89%A9%E4%BB%B6%E5%B0%81%E9%9D%A2.jpg/100px-%E5%AE%87%E4%BD%90%E8%A6%8B%E8%93%AE%E5%AD%90vs%E4%BA%8B%E6%95%85%E7%89%A9%E4%BB%B6%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="100" height="140" srcset="https://upload.thwiki.cc/thumb/2/21/%E5%AE%87%E4%BD%90%E8%A6%8B%E8%93%AE%E5%AD%90vs%E4%BA%8B%E6%95%85%E7%89%A9%E4%BB%B6%E5%B0%81%E9%9D%A2.jpg/150px-%E5%AE%87%E4%BD%90%E8%A6%8B%E8%93%AE%E5%AD%90vs%E4%BA%8B%E6%95%85%E7%89%A9%E4%BB%B6%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/2/21/%E5%AE%87%E4%BD%90%E8%A6%8B%E8%93%AE%E5%AD%90vs%E4%BA%8B%E6%95%85%E7%89%A9%E4%BB%B6%E5%B0%81%E9%9D%A2.jpg/200px-%E5%AE%87%E4%BD%90%E8%A6%8B%E8%93%AE%E5%AD%90vs%E4%BA%8B%E6%95%85%E7%89%A9%E4%BB%B6%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="800" data-file-height="1119"></a><div class="cover-char">角色：<a href="./宇佐见莲子.md" title="宇佐见莲子">宇佐见莲子</a>，<a href="./玛艾露贝莉·赫恩.md" title="玛艾露贝莉·赫恩">玛艾露贝莉·赫恩</a></div></td>
@@ -18,8 +19,10 @@
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=729813">蜜瓜</a>，<a rel="nofollow" class="external text" href="https://ec.toranoana.jp/tora_r/ec/item/040030859256">虎穴</a>，<a rel="nofollow" class="external text" href="https://yuukikagoubutsu.booth.pm/items/2458004">Booth</a></td></tr></tbody></table>
 
 
+
 ## Staff
 - [さとうユーキ](./さとうユーキ.md)
+
 
 ## 评论
   

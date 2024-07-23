@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-霊夢と幻想郷EX封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/3/30/%E9%9C%8A%E5%A4%A2%E3%81%A8%E5%B9%BB%E6%83%B3%E9%83%B7EX%E5%B0%81%E9%9D%A2.jpg/135px-%E9%9C%8A%E5%A4%A2%E3%81%A8%E5%B9%BB%E6%83%B3%E9%83%B7EX%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="135" height="168" srcset="https://upload.thwiki.cc/thumb/3/30/%E9%9C%8A%E5%A4%A2%E3%81%A8%E5%B9%BB%E6%83%B3%E9%83%B7EX%E5%B0%81%E9%9D%A2.jpg/203px-%E9%9C%8A%E5%A4%A2%E3%81%A8%E5%B9%BB%E6%83%B3%E9%83%B7EX%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/3/30/%E9%9C%8A%E5%A4%A2%E3%81%A8%E5%B9%BB%E6%83%B3%E9%83%B7EX%E5%B0%81%E9%9D%A2.jpg/270px-%E9%9C%8A%E5%A4%A2%E3%81%A8%E5%B9%BB%E6%83%B3%E9%83%B7EX%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="817" data-file-height="1015"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>，<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a>，<a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a>，<a href="./东风谷早苗.md" title="东风谷早苗">东风谷早苗</a>，<a href="/index.php?title=%E5%8E%9F%E5%88%9B%E8%A7%92%E8%89%B2&amp;action=edit&amp;redlink=1" class="new" title="原创角色（页面不存在）">原创角色</a></div></td>
@@ -14,9 +15,12 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/27479544">https://www.pixiv.net/artworks/27479544</a></td></tr></tbody></table>
 
 霊夢と幻想郷EX（同人志，わき☆ぺろ，2012） - 2012年5月27日 由 わき☆ぺろ 于 博丽神社例大祭9 发布的漫画同人志，一共16页，分级为 一般向
+
 ## 预览
+
 ## Staff
 - [わきぴー](./わきぴー.md)
+
 
 ## 评论
 

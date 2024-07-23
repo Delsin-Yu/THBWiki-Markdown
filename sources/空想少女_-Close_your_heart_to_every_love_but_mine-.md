@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-空想少女_-Close_your_heart_to_every_love_but_mine-封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/7/78/%E7%A9%BA%E6%83%B3%E5%B0%91%E5%A5%B3_-Close_your_heart_to_every_love_but_mine-%E5%B0%81%E9%9D%A2.jpg/224px-%E7%A9%BA%E6%83%B3%E5%B0%91%E5%A5%B3_-Close_your_heart_to_every_love_but_mine-%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="149" srcset="https://upload.thwiki.cc/thumb/7/78/%E7%A9%BA%E6%83%B3%E5%B0%91%E5%A5%B3_-Close_your_heart_to_every_love_but_mine-%E5%B0%81%E9%9D%A2.jpg/336px-%E7%A9%BA%E6%83%B3%E5%B0%91%E5%A5%B3_-Close_your_heart_to_every_love_but_mine-%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/7/78/%E7%A9%BA%E6%83%B3%E5%B0%91%E5%A5%B3_-Close_your_heart_to_every_love_but_mine-%E5%B0%81%E9%9D%A2.jpg/448px-%E7%A9%BA%E6%83%B3%E5%B0%91%E5%A5%B3_-Close_your_heart_to_every_love_but_mine-%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="800" data-file-height="532"></a><div class="cover-char">角色：<a href="./帕秋莉·诺蕾姬.md" title="帕秋莉·诺蕾姬">帕秋莉·诺蕾姬</a></div></td>
@@ -14,13 +15,16 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://colorfuldays09.blog9.fc2.com/blog-entry-152.html">http://colorfuldays09.blog9.fc2.com/blog-entry-152.html</a></td></tr></tbody></table>
 
 空想少女 -Close your heart to every love but mine-（同人志，JOKER-type R，2017） - 2017年5月7日 由 JOKER-type R 于 博丽神社例大祭14 发布的摄影集同人志，A5尺寸一共20页，登场人物有 帕秋莉·诺蕾姬，分级为 一般向
+
 ## 预览
+
 ## Staff
 Model
 : りゅうか （[JOKER-type R](./JOKER-type_R.md)）
 Photography
 : ユイヤ （[さるおがせモドキ](http://saruogasede.gozaru.jp/)）
 : 銀寺
+
 
 ## 评论
 

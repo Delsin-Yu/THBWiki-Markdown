@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="/%E6%96%87%E4%BB%B6:JK%E3%83%94%E3%83%BC%E3%82%B9%E3%81%A1%E3%82%83%E3%82%93%E3%81%8C%E3%81%84%E3%82%84%E3%81%84%E3%82%84_%E8%84%B1%E3%81%8E%E3%81%9F%E3%81%A6%E3%82%BF%E3%82%A4%E3%83%84%E3%82%92%E5%A3%B2%E3%81%A3%E3%81%A6%E3%81%8F%E3%82%8C%E3%82%8B%E6%9C%AC%E5%B0%81%E9%9D%A2.jpg" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/2/26/JK%E3%83%94%E3%83%BC%E3%82%B9%E3%81%A1%E3%82%83%E3%82%93%E3%81%8C%E3%81%84%E3%82%84%E3%81%84%E3%82%84_%E8%84%B1%E3%81%8E%E3%81%9F%E3%81%A6%E3%82%BF%E3%82%A4%E3%83%84%E3%82%92%E5%A3%B2%E3%81%A3%E3%81%A6%E3%81%8F%E3%82%8C%E3%82%8B%E6%9C%AC%E5%B0%81%E9%9D%A2.jpg/157px-JK%E3%83%94%E3%83%BC%E3%82%B9%E3%81%A1%E3%82%83%E3%82%93%E3%81%8C%E3%81%84%E3%82%84%E3%81%84%E3%82%84_%E8%84%B1%E3%81%8E%E3%81%9F%E3%81%A6%E3%82%BF%E3%82%A4%E3%83%84%E3%82%92%E5%A3%B2%E3%81%A3%E3%81%A6%E3%81%8F%E3%82%8C%E3%82%8B%E6%9C%AC%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="157" height="224" srcset="https://upload.thwiki.cc/thumb/2/26/JK%E3%83%94%E3%83%BC%E3%82%B9%E3%81%A1%E3%82%83%E3%82%93%E3%81%8C%E3%81%84%E3%82%84%E3%81%84%E3%82%84_%E8%84%B1%E3%81%8E%E3%81%9F%E3%81%A6%E3%82%BF%E3%82%A4%E3%83%84%E3%82%92%E5%A3%B2%E3%81%A3%E3%81%A6%E3%81%8F%E3%82%8C%E3%82%8B%E6%9C%AC%E5%B0%81%E9%9D%A2.jpg/236px-JK%E3%83%94%E3%83%BC%E3%82%B9%E3%81%A1%E3%82%83%E3%82%93%E3%81%8C%E3%81%84%E3%82%84%E3%81%84%E3%82%84_%E8%84%B1%E3%81%8E%E3%81%9F%E3%81%A6%E3%82%BF%E3%82%A4%E3%83%84%E3%82%92%E5%A3%B2%E3%81%A3%E3%81%A6%E3%81%8F%E3%82%8C%E3%82%8B%E6%9C%AC%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/2/26/JK%E3%83%94%E3%83%BC%E3%82%B9%E3%81%A1%E3%82%83%E3%82%93%E3%81%8C%E3%81%84%E3%82%84%E3%81%84%E3%82%84_%E8%84%B1%E3%81%8E%E3%81%9F%E3%81%A6%E3%82%BF%E3%82%A4%E3%83%84%E3%82%92%E5%A3%B2%E3%81%A3%E3%81%A6%E3%81%8F%E3%82%8C%E3%82%8B%E6%9C%AC%E5%B0%81%E9%9D%A2.jpg/315px-JK%E3%83%94%E3%83%BC%E3%82%B9%E3%81%A1%E3%82%83%E3%82%93%E3%81%8C%E3%81%84%E3%82%84%E3%81%84%E3%82%84_%E8%84%B1%E3%81%8E%E3%81%9F%E3%81%A6%E3%82%BF%E3%82%A4%E3%83%84%E3%82%92%E5%A3%B2%E3%81%A3%E3%81%A6%E3%81%8F%E3%82%8C%E3%82%8B%E6%9C%AC%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="2586" data-file-height="3679"></a><div class="cover-char">角色：<a href="./克劳恩皮丝.md" title="克劳恩皮丝">克劳恩皮丝</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/60403022">https://www.pixiv.net/artworks/60403022</a></td></tr></tbody></table>
 
 JKピースちゃんがいやいや 脱ぎたてタイツを売ってくれる本（同人志，げるまにうむ，2016） - 2016年12月29日 由 げるまにうむ 于 Comic Market 91 发布的漫画同人志，B5尺寸一共40页，登场人物有 克劳恩皮丝、上白泽慧音、赫卡提亚·拉碧斯拉祖利、斯塔萨菲雅、纯狐、原创角色，分级为 一般向
+
 ## Staff
 - [なぎと](./なぎと.md)
+
 
 ## 评论
   

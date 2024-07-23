@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-DJ魔理沙の白黒マスタースパーク2封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/9/9a/DJ%E9%AD%94%E7%90%86%E6%B2%99%E3%81%AE%E7%99%BD%E9%BB%92%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%B9%E3%83%91%E3%83%BC%E3%82%AF2%E5%B0%81%E9%9D%A2.jpg/224px-DJ%E9%AD%94%E7%90%86%E6%B2%99%E3%81%AE%E7%99%BD%E9%BB%92%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%B9%E3%83%91%E3%83%BC%E3%82%AF2%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="194" srcset="https://upload.thwiki.cc/thumb/9/9a/DJ%E9%AD%94%E7%90%86%E6%B2%99%E3%81%AE%E7%99%BD%E9%BB%92%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%B9%E3%83%91%E3%83%BC%E3%82%AF2%E5%B0%81%E9%9D%A2.jpg/336px-DJ%E9%AD%94%E7%90%86%E6%B2%99%E3%81%AE%E7%99%BD%E9%BB%92%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%B9%E3%83%91%E3%83%BC%E3%82%AF2%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/9/9a/DJ%E9%AD%94%E7%90%86%E6%B2%99%E3%81%AE%E7%99%BD%E9%BB%92%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%B9%E3%83%91%E3%83%BC%E3%82%AF2%E5%B0%81%E9%9D%A2.jpg/448px-DJ%E9%AD%94%E7%90%86%E6%B2%99%E3%81%AE%E7%99%BD%E9%BB%92%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%B9%E3%83%91%E3%83%BC%E3%82%AF2%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1250" data-file-height="1080"></a><div class="cover-char">角色：<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a></div></td>
@@ -14,13 +15,16 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://cooth.org/eg">http://cooth.org/eg</a><br><span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span></td></tr></tbody></table>
 
 DJ魔理沙の白黒マスタースパーク2（同人专辑，アールグレイ，2013） - 2013年8月12日 由 アールグレイ 于 Comic Market 84 发布的混音集同人专辑，分级为 一般向
+
 ## Staff
 Cover Artwork
 : 国府田ハヤト
 
+
 ## 曲目列表
 
 <table><tbody><tr><td id="1" class="info"><b>01</b></td><td id="DJ魔理沙の白黒マスタースパーク2" colspan="2" class="title">DJ魔理沙の白黒マスタースパーク2<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=DJ魔理沙の白黒マスタースパーク2"><span title="搜索相似同人曲"></span></a></span></td><td class="time">14:37</td></tr></tbody></table>
+
 
 
 ## 评论

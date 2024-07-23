@@ -4,7 +4,8 @@
 
 Team Link ，于 2000 年成立，主要制作 同人志 的日本同人社团，主催是 風城一希，曾以 TeamLink 名义活动，当前状态为 休止
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -21,23 +22,28 @@ Team Link ，于 2000 年成立，主要制作 同人志 的日本同人社团�
 
 
 
+
 ## 社团信息
 [](./文件-Team_Linkbanner.png.md)  [](./文件-Team_Linkbanner.png.md)banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Team Link </td></tr><tr><td><b>曾用名称</b></td><td> TeamLink </td></tr><tr><td><b>主要作品类型</b></td><td>同人志</td></tr><tr><td><b>成立时间</b></td><td>2000</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=%E9%A2%A8%E5%9F%8E%E4%B8%80%E5%B8%8C&amp;action=edit&amp;redlink=1" class="new" title="風城一希（页面不存在）">風城一希</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="https://teamlink.sakura.ne.jp">https://teamlink.sakura.ne.jp</a> <br><a rel="nofollow" class="external free" href="https://teamlink.exblog.jp/">https://teamlink.exblog.jp/</a> （blog）<br><a rel="nofollow" class="external free" href="http://shion.sakura.ne.jp/~teamlink/">http://shion.sakura.ne.jp/~teamlink/</a> （旧官网）<span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><small>（<a rel="nofollow" class="external text" href="https://web.archive.org/web/20070603125845/http://shion.sakura.ne.jp:80/~teamlink/">缓存页面</a>）</small></td></tr></tbody></table>
 
 Team Link（同人社团，同人志社团） - Team Link ，于 2000 年成立，主要制作 同人志 的日本同人社团，主催是 風城一希，曾以 TeamLink 名义活动，当前状态为 休止
+
 ## 社团简介
   
 为制作游戏[〔veil〕](https://teamlink.sakura.ne.jp/veil.html)而组成的社团。在2003年开始做东方Project的二次创作。
   
+
 
 ## 成员名单
 - 風城一希 (未找到链接)
 
 : [Twitter: @kazaneko](https://twitter.com/kazaneko), [Pixiv ID: 4266735](https://www.pixiv.net/users/4266735)
 
+
 ## 作品列表
+
 ### 同人志
 東方紅月談　～ Bitter-Fly's Summer 封面图片 (未找到链接)東方紅月談 ～ Bitter-Fly's Summer (未找到链接)首发日期：未知 - 東方恋綺弓　～ Love of the Resonating Ripple 封面图片 (未找到链接)東方恋綺弓 ～ Love of the Resonating Ripple (未找到链接)首发日期：未知 - 飛行少女　おおおな最萌支援集 封面图片 (未找到链接)飛行少女 おおおな最萌支援集 (未找到链接)首发日期：未知 - 東方恋綺弓　～ Over the Border 封面图片 (未找到链接)東方恋綺弓 ～ Over the Border (未找到链接)首发日期：未知 - 幻灯帝都循環線　～ Lost Twin Butterfly 封面图片 (未找到链接)幻灯帝都循環線 ～ Lost Twin Butterfly (未找到链接)首发日期：未知 - 東方千花壇　～ Thousand Sins on the Utopian Eastend. 封面图片 (未找到链接)東方千花壇 ～ Thousand Sins on the Utopian Eastend. (未找到链接)首发日期：未知 - 燐光蓄音機　～ Past is the most beautiful Junk. 封面图片 (未找到链接)燐光蓄音機 ～ Past is the most beautiful Junk. (未找到链接)首发日期：未知 - 仮想天涯　～ Virtual-Funciful Festival. 封面图片 (未找到链接)仮想天涯 ～ Virtual-Funciful Festival. (未找到链接)首发日期：未知 - 虚音立国　～ Chance of Yellow Mutation. 封面图片 (未找到链接)虚音立国 ～ Chance of Yellow Mutation. (未找到链接)首发日期：未知 - 虚音立国完璧盤　～ Praying Obserber of Quantum Wonderland. 封面图片 (未找到链接)虚音立国完璧盤 ～ Praying Obserber of Quantum Wonderland. (未找到链接)首发日期：未知 - 
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -50,6 +56,7 @@ Team Link（同人社团，同人志社团） - Team Link ，于 2000 年成立�
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458"></table>
+
 
 
 ## 参展信息

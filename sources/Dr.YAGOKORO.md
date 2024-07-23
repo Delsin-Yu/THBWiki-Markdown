@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 软件信息](#软件信息)
@@ -14,6 +15,7 @@
 - [4 参考资料](#参考资料)
 - [5 下载](#下载)
 - [6 评论](#评论)
+
 
 
 
@@ -38,9 +40,11 @@ Dr.YAGOKORO（同人游戏，yu-ki，2007） - 2007年11月21日 由 yu-ki  发�
 </tbody></table>
 
 
+
 ## Staff
 制作
 : yu-ki
+
 
 ## 简介
   
@@ -52,10 +56,12 @@ Dr.YAGOKORO（同人游戏，yu-ki，2007） - 2007年11月21日 由 yu-ki  发�
 
 - [攻略](./Dr.YAGOKORO-攻略.md)
 
+
 ## 参考资料
   
 [En.touhouwiki](https://en.touhouwiki.net/wiki/Dr.YAGOKOROD)
   
+
 
 ## 下载
   
@@ -72,6 +78,7 @@ Dr.YAGOKORO（同人游戏，yu-ki，2007） - 2007年11月21日 由 yu-ki  发�
 <tr>
 <td><a rel="nofollow" class="external free" href="http://dagobah.net/flash/download/dr.yagokoro.swf">http://dagobah.net/flash/download/dr.yagokoro.swf</a>
 </td></tr></tbody></table>
+
 
 
 ## 评论

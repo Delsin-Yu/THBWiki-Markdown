@@ -19,6 +19,7 @@ KONAMI | 东方相关商业游戏 | 待完成页面
 
 
 </center>
+
 ## 目录
 
 - [1 介绍](#介绍)
@@ -43,12 +44,14 @@ KONAMI | 东方相关商业游戏 | 待完成页面
 
 
 
+
 ## 介绍
   
 <big> **乐动魔方** </big>（jubeat，ユビート），是BEMANI（[KONAMI](./KONAMI.md)旗下品牌）制作的音乐游戏。
 初代于2008年7月24日开始运营，此后每1-2年进行一次大版本更新，目前最新版本为jubeat clan，于2017年7月26日开始运营。
 2010年11月8日发布移动版jubeat plus，支持Android/iOS（Android版限定机型），定期更新曲包
   
+
 
 ## 玩法说明
   
@@ -115,6 +118,7 @@ EXC…1,000,000分（「ripples」及以后）
 当EXCELLENT达成时，根据每个版本的不同，结果会有特殊的演出。在「ripples」与「copious」中评价为SSS以下与EXCELLENT的结果BGM不同。
   
 
+
 ## 大陆地区官方jubeat的版本
   
 （内容引用自benamicn wiki）
@@ -138,6 +142,7 @@ EXC…1,000,000分（「ripples」及以后）
 2014-04-29 konami-Asian正式宣布停止旗下乐动魔方3代（这里官方用的就是3代，而非全国对战版）、舞蹈进化联网服务。标志着konami正式退出了大陆地区街机市场的争夺。（2018年世宇开始在大陆地区代理konami旗下的DR以及SDVX，有意返回中国大陆市场）
   
 
+
 ## 与东方Project的关联
   
 包含SEGA (未找到链接)、[KONAMI](./KONAMI.md)、[TAITO](./太东.md)、BANDAI (未找到链接) NAMCO (未找到链接)在内的多家公司制作的音乐游戏大多有收录东方Project的同人编曲。由于其存在商业成分，对于东方Project编曲的版权使用问题，原作者ZUN是如此答复[^cite_note-1]的：
@@ -145,6 +150,7 @@ EXC…1,000,000分（「ripples」及以后）
 
 ```
 「这是我许可的。条件是首先要取得编曲者的许可。这种形式虽说是商业但也和其他同人一样，我并不会特意指示内容。我个人认为，编曲者能够大显身手的机会增多是个值得欣喜的事情（游戏厅能够因此热闹起来就更好了）」```
+
 
 ## 大陆地区游玩游戏中东方同人曲目的方式
   
@@ -157,8 +163,11 @@ EXC…1,000,000分（「ripples」及以后）
 3、使用和谐物（
   
 
+
 ## 相关东方同人专辑
+
 ## 游戏内收录的东方同人曲目
+
 ### jubeat prop
 
 <table><tbody><tr><th colspan="2">曲目信息</th></tr><tr><td colspan="2" style="padding-left: 1em;"><div class="floatright"><a href="./文件-BEMANI×東方Project_Ultimate_MasterPieces封面.jpg.md" class="image" title="BEMANI×東方Project Ultimate MasterPieces"><img alt="BEMANI×東方Project Ultimate MasterPieces" src="https://upload.thwiki.cc/thumb/5/53/BEMANI%C3%97%E6%9D%B1%E6%96%B9Project_Ultimate_MasterPieces%E5%B0%81%E9%9D%A2.jpg/100px-BEMANI%C3%97%E6%9D%B1%E6%96%B9Project_Ultimate_MasterPieces%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="100" height="100" srcset="https://upload.thwiki.cc/thumb/5/53/BEMANI%C3%97%E6%9D%B1%E6%96%B9Project_Ultimate_MasterPieces%E5%B0%81%E9%9D%A2.jpg/150px-BEMANI%C3%97%E6%9D%B1%E6%96%B9Project_Ultimate_MasterPieces%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/5/53/BEMANI%C3%97%E6%9D%B1%E6%96%B9Project_Ultimate_MasterPieces%E5%B0%81%E9%9D%A2.jpg/200px-BEMANI%C3%97%E6%9D%B1%E6%96%B9Project_Ultimate_MasterPieces%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="240" data-file-height="240"></a></div><b><a href="/BEMANI%C3%97%E6%9D%B1%E6%96%B9Project_Ultimate_MasterPieces#4" title="BEMANI×東方Project Ultimate MasterPieces">Scarlet Moon</a></b> &#91;02:59&#93;<dl><dd><a href="./BEMANI×東方Project_Ultimate_MasterPieces.md" title="BEMANI×東方Project Ultimate MasterPieces">BEMANI×東方Project Ultimate MasterPieces</a> （2015-05-10）<br>社团：<a href="./ALiCE'S_EMOTiON.md" title="ALiCE&#39;S EMOTiON">ALiCE'S EMOTiON</a><br>编曲：<a href="./REDALiCE.md" title="REDALiCE">REDALiCE</a><br>演唱：<a href="./野宮あゆみ.md" title="野宮あゆみ">野宮あゆみ</a><br>原曲：<a href="./献给已逝公主的七重奏.md" title="献给已逝公主的七重奏" unred="">亡き王女の為のセプテット</a><br></dd></dl></td></tr>
@@ -180,6 +189,7 @@ EXC…1,000,000分（「ripples」及以后）
 <tr><th colspan="2"></th></tr><tr><td colspan="2" style="padding-left: 1em;"><div class="floatright"><a href="./文件-BEMANI×東方Project_Ultimate_MasterPieces封面.jpg.md" class="image" title="BEMANI×東方Project Ultimate MasterPieces"><img alt="BEMANI×東方Project Ultimate MasterPieces" src="https://upload.thwiki.cc/thumb/5/53/BEMANI%C3%97%E6%9D%B1%E6%96%B9Project_Ultimate_MasterPieces%E5%B0%81%E9%9D%A2.jpg/100px-BEMANI%C3%97%E6%9D%B1%E6%96%B9Project_Ultimate_MasterPieces%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="100" height="100" srcset="https://upload.thwiki.cc/thumb/5/53/BEMANI%C3%97%E6%9D%B1%E6%96%B9Project_Ultimate_MasterPieces%E5%B0%81%E9%9D%A2.jpg/150px-BEMANI%C3%97%E6%9D%B1%E6%96%B9Project_Ultimate_MasterPieces%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/5/53/BEMANI%C3%97%E6%9D%B1%E6%96%B9Project_Ultimate_MasterPieces%E5%B0%81%E9%9D%A2.jpg/200px-BEMANI%C3%97%E6%9D%B1%E6%96%B9Project_Ultimate_MasterPieces%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="240" data-file-height="240"></a></div><b><a href="/BEMANI%C3%97%E6%9D%B1%E6%96%B9Project_Ultimate_MasterPieces#11" title="BEMANI×東方Project Ultimate MasterPieces">竹取飛翔 ～ Lunatic Princess (Ryu☆Remix)</a></b> &#91;03:29&#93;<dl><dd><a href="./BEMANI×東方Project_Ultimate_MasterPieces.md" title="BEMANI×東方Project Ultimate MasterPieces">BEMANI×東方Project Ultimate MasterPieces</a> （2015-05-10）<br>社团：<a href="./KONAMI.md" title="KONAMI">KONAMI</a><br>编曲：<a href="/index.php?title=Ryu%E2%98%86&amp;action=edit&amp;redlink=1" class="new" title="Ryu☆（页面不存在）">Ryu☆</a><br>原曲：<a href="./竹取飞翔_～_Lunatic_Princess.md" title="竹取飞翔 ～ Lunatic Princess" unred="">竹取飛翔　～ Lunatic Princess</a><br></dd></dl></td></tr></tbody></table>
 
 
+
 ### jubeat Qubell
 
 <table><tbody><tr><th colspan="2">曲目信息</th></tr><tr><td colspan="2" style="padding-left: 1em;"><div class="floatright"><a href="./文件-東方萃翠酒酔封面.jpg.md" class="image" title="東方萃翠酒酔"><img alt="東方萃翠酒酔" src="https://upload.thwiki.cc/thumb/5/56/%E6%9D%B1%E6%96%B9%E8%90%83%E7%BF%A0%E9%85%92%E9%85%94%E5%B0%81%E9%9D%A2.jpg/100px-%E6%9D%B1%E6%96%B9%E8%90%83%E7%BF%A0%E9%85%92%E9%85%94%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="100" height="100" srcset="https://upload.thwiki.cc/thumb/5/56/%E6%9D%B1%E6%96%B9%E8%90%83%E7%BF%A0%E9%85%92%E9%85%94%E5%B0%81%E9%9D%A2.jpg/150px-%E6%9D%B1%E6%96%B9%E8%90%83%E7%BF%A0%E9%85%92%E9%85%94%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/5/56/%E6%9D%B1%E6%96%B9%E8%90%83%E7%BF%A0%E9%85%92%E9%85%94%E5%B0%81%E9%9D%A2.jpg/200px-%E6%9D%B1%E6%96%B9%E8%90%83%E7%BF%A0%E9%85%92%E9%85%94%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="600" data-file-height="600"></a></div><b><a href="/%E6%9D%B1%E6%96%B9%E8%90%83%E7%BF%A0%E9%85%92%E9%85%94#1" title="東方萃翠酒酔">お嫁にしなさいっ！</a></b> &#91;02:32&#93;<dl><dd><a href="./東方萃翠酒酔.md" title="東方萃翠酒酔">東方萃翠酒酔</a> （2007-08-17）<br>社团：<a href="./IOSYS.md" title="IOSYS">IOSYS</a><br>编曲：<a href="./ARM.md" title="ARM">ARM</a><br>演唱：<a href="./miko.md" title="miko">miko</a>，<a href="/index.php?title=%E6%82%A0%E8%8A%B1&amp;action=edit&amp;redlink=1" class="new" title="悠花（页面不存在）" unred="">ゆか</a>，<a href="/index.php?title=%E3%81%BE%E3%82%8A&amp;action=edit&amp;redlink=1" class="new" title="まり（页面不存在）">まり</a><br>作词：<a href="./夕野ヨシミ.md" title="夕野ヨシミ">夕野ヨシミ</a><br>原曲：<a href="./恋色Magic.md" title="恋色Magic" unred="">恋色マジック</a>，<a href="./布加勒斯特的人偶师.md" title="布加勒斯特的人偶师" unred="">ブクレシュティの人形師</a>，<a href="./Oriental_Dark_Flight.md" title="Oriental Dark Flight" unred="">オリエンタルダークフライト</a><br></dd></dl></td></tr>
@@ -197,6 +207,7 @@ EXC…1,000,000分（「ripples」及以后）
 <tr><th colspan="2"></th></tr><tr><td colspan="2" style="padding-left: 1em;"><div class="floatright"><a href="./文件-NH-STYLE_2封面.jpg.md" class="image" title="NH-STYLE 2"><img alt="NH-STYLE 2" src="https://upload.thwiki.cc/thumb/7/77/NH-STYLE_2%E5%B0%81%E9%9D%A2.jpg/100px-NH-STYLE_2%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="100" height="100" srcset="https://upload.thwiki.cc/thumb/7/77/NH-STYLE_2%E5%B0%81%E9%9D%A2.jpg/150px-NH-STYLE_2%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/7/77/NH-STYLE_2%E5%B0%81%E9%9D%A2.jpg/200px-NH-STYLE_2%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="450" data-file-height="450"></a></div><b><a href="/NH-STYLE_2#4" title="NH-STYLE 2">厳冬記</a></b> &#91;03:29&#93;<dl><dd><a href="./NH-STYLE_2.md" title="NH-STYLE 2">NH-STYLE 2</a> （2016-05-08）<br>社团：<a href="./猫大樹.md" title="猫大樹">猫大樹</a><br>编曲：<a href="/index.php?title=%E6%96%B0%E4%BA%95%E5%A4%A7%E6%A8%B9&amp;action=edit&amp;redlink=1" class="new" title="新井大樹（页面不存在）">新井大樹</a><br>演唱：<a href="/index.php?title=%E7%8C%AB%E4%BD%93%E8%B3%AA&amp;action=edit&amp;redlink=1" class="new" title="猫体質（页面不存在）">猫体質</a>，<a href="/index.php?title=%E6%96%B0%E4%BA%95%E5%A4%A7%E6%A8%B9&amp;action=edit&amp;redlink=1" class="new" title="新井大樹（页面不存在）">新井大樹</a><br>作词：<a href="/index.php?title=%E7%8C%AB%E4%BD%93%E8%B3%AA&amp;action=edit&amp;redlink=1" class="new" title="猫体質（页面不存在）">猫体質</a><br>原曲：<a href="./东方妖妖梦_～_Ancient_Temple.md" title="东方妖妖梦 ～ Ancient Temple" unred="">東方妖々夢　～ Ancient Temple</a><br></dd></dl></td></tr></tbody></table>
 
 
+
 ### jubeat clan
 
 <table><tbody><tr><th colspan="2">曲目信息</th></tr><tr><td colspan="2" style="padding-left: 1em;"><div class="floatright"><a href="./文件-Claidheamh_Soluis－光の剣－／Escape_from…封面.jpg.md" class="image" title="Claidheamh Soluis－光の剣－／Escape from…"><img alt="Claidheamh Soluis－光の剣－／Escape from…" src="https://upload.thwiki.cc/thumb/e/ef/Claidheamh_Soluis%EF%BC%8D%E5%85%89%E3%81%AE%E5%89%A3%EF%BC%8D%EF%BC%8FEscape_from%E2%80%A6%E5%B0%81%E9%9D%A2.jpg/100px-Claidheamh_Soluis%EF%BC%8D%E5%85%89%E3%81%AE%E5%89%A3%EF%BC%8D%EF%BC%8FEscape_from%E2%80%A6%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="100" height="100" srcset="https://upload.thwiki.cc/thumb/e/ef/Claidheamh_Soluis%EF%BC%8D%E5%85%89%E3%81%AE%E5%89%A3%EF%BC%8D%EF%BC%8FEscape_from%E2%80%A6%E5%B0%81%E9%9D%A2.jpg/150px-Claidheamh_Soluis%EF%BC%8D%E5%85%89%E3%81%AE%E5%89%A3%EF%BC%8D%EF%BC%8FEscape_from%E2%80%A6%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/e/ef/Claidheamh_Soluis%EF%BC%8D%E5%85%89%E3%81%AE%E5%89%A3%EF%BC%8D%EF%BC%8FEscape_from%E2%80%A6%E5%B0%81%E9%9D%A2.jpg/200px-Claidheamh_Soluis%EF%BC%8D%E5%85%89%E3%81%AE%E5%89%A3%EF%BC%8D%EF%BC%8FEscape_from%E2%80%A6%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="450" data-file-height="450"></a></div><b><a href="/Claidheamh_Soluis%EF%BC%8D%E5%85%89%E3%81%AE%E5%89%A3%EF%BC%8D%EF%BC%8FEscape_from%E2%80%A6#1" title="Claidheamh Soluis－光の剣－／Escape from…">Claidheamh Soluis-光の剣-</a></b> &#91;03:59&#93;<dl><dd><a href="./Claidheamh_Soluis－光の剣－／Escape_from….md" title="Claidheamh Soluis－光の剣－／Escape from…">Claidheamh Soluis-光の剣- / Escape from…</a> （2017-05-07）<br>社团：<a href="./猫大樹.md" title="猫大樹">猫大樹</a><br>编曲：<a href="/index.php?title=%E6%96%B0%E4%BA%95%E5%A4%A7%E6%A8%B9&amp;action=edit&amp;redlink=1" class="new" title="新井大樹（页面不存在）">新井大樹</a><br>演唱：<a href="/index.php?title=%E7%8C%AB%E4%BD%93%E8%B3%AA&amp;action=edit&amp;redlink=1" class="new" title="猫体質（页面不存在）">猫体質</a>，<a href="/index.php?title=%E6%96%B0%E4%BA%95%E5%A4%A7%E6%A8%B9&amp;action=edit&amp;redlink=1" class="new" title="新井大樹（页面不存在）">新井大樹</a>，<a href="/index.php?title=%E3%81%AF%E3%82%8B%E3%81%AE&amp;action=edit&amp;redlink=1" class="new" title="はるの（页面不存在）">はるの</a><br>作词：<a href="/index.php?title=%E7%8C%AB%E4%BD%93%E8%B3%AA&amp;action=edit&amp;redlink=1" class="new" title="猫体質（页面不存在）">猫体質</a><br>原曲：<a href="./有顶天变_～_Wonderful_Heaven.md" title="有顶天变 ～ Wonderful Heaven" unred="">有頂天変　～ Wonderful Heaven</a><br></dd></dl></td></tr>
@@ -208,6 +219,7 @@ EXC…1,000,000分（「ripples」及以后）
 <tr><th colspan="2"></th></tr><tr><td colspan="2" style="padding-left: 1em;"><div class="floatright"><a href="./文件-東方氷雪大感謝封面.jpg.md" class="image" title="東方氷雪大感謝"><img alt="東方氷雪大感謝" src="https://upload.thwiki.cc/thumb/c/ca/%E6%9D%B1%E6%96%B9%E6%B0%B7%E9%9B%AA%E5%A4%A7%E6%84%9F%E8%AC%9D%E5%B0%81%E9%9D%A2.jpg/100px-%E6%9D%B1%E6%96%B9%E6%B0%B7%E9%9B%AA%E5%A4%A7%E6%84%9F%E8%AC%9D%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="100" height="100" srcset="https://upload.thwiki.cc/thumb/c/ca/%E6%9D%B1%E6%96%B9%E6%B0%B7%E9%9B%AA%E5%A4%A7%E6%84%9F%E8%AC%9D%E5%B0%81%E9%9D%A2.jpg/150px-%E6%9D%B1%E6%96%B9%E6%B0%B7%E9%9B%AA%E5%A4%A7%E6%84%9F%E8%AC%9D%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/c/ca/%E6%9D%B1%E6%96%B9%E6%B0%B7%E9%9B%AA%E5%A4%A7%E6%84%9F%E8%AC%9D%E5%B0%81%E9%9D%A2.jpg/200px-%E6%9D%B1%E6%96%B9%E6%B0%B7%E9%9B%AA%E5%A4%A7%E6%84%9F%E8%AC%9D%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="2500" data-file-height="2500"></a></div><b><a href="/%E6%9D%B1%E6%96%B9%E6%B0%B7%E9%9B%AA%E5%A4%A7%E6%84%9F%E8%AC%9D#4" title="東方氷雪大感謝">向日葵サンセット</a></b> &#91;04:50&#93;<dl><dd><a href="./東方氷雪大感謝.md" title="東方氷雪大感謝">東方氷雪大感謝</a> （2017-10-15）<br>社团：<a href="./IOSYS.md" title="IOSYS">IOSYS</a><br>编曲：<a href="./パプリカ.md" title="パプリカ">パプリカ</a>，<a href="./ARM.md" title="ARM">ARM</a><br>演唱：<a href="./ランコ.md" title="ランコ">ランコ</a><br>作词：<a href="./まろん.md" title="まろん">まろん</a><br>原曲：<a href="./活泼的纯情小姑娘.md" title="活泼的纯情小姑娘" unred="">おてんば恋娘</a><br></dd></dl></td></tr>
 <tr><th colspan="2"></th></tr><tr><td colspan="2" style="padding-left: 1em;"><div class="floatright"><a href="./文件-東方氷雪大感謝封面.jpg.md" class="image" title="東方氷雪大感謝"><img alt="東方氷雪大感謝" src="https://upload.thwiki.cc/thumb/c/ca/%E6%9D%B1%E6%96%B9%E6%B0%B7%E9%9B%AA%E5%A4%A7%E6%84%9F%E8%AC%9D%E5%B0%81%E9%9D%A2.jpg/100px-%E6%9D%B1%E6%96%B9%E6%B0%B7%E9%9B%AA%E5%A4%A7%E6%84%9F%E8%AC%9D%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="100" height="100" srcset="https://upload.thwiki.cc/thumb/c/ca/%E6%9D%B1%E6%96%B9%E6%B0%B7%E9%9B%AA%E5%A4%A7%E6%84%9F%E8%AC%9D%E5%B0%81%E9%9D%A2.jpg/150px-%E6%9D%B1%E6%96%B9%E6%B0%B7%E9%9B%AA%E5%A4%A7%E6%84%9F%E8%AC%9D%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/c/ca/%E6%9D%B1%E6%96%B9%E6%B0%B7%E9%9B%AA%E5%A4%A7%E6%84%9F%E8%AC%9D%E5%B0%81%E9%9D%A2.jpg/200px-%E6%9D%B1%E6%96%B9%E6%B0%B7%E9%9B%AA%E5%A4%A7%E6%84%9F%E8%AC%9D%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="2500" data-file-height="2500"></a></div><b><a href="/%E6%9D%B1%E6%96%B9%E6%B0%B7%E9%9B%AA%E5%A4%A7%E6%84%9F%E8%AC%9D#7" title="東方氷雪大感謝">From⑨Girl</a></b> &#91;03:26&#93;<dl><dd><a href="./東方氷雪大感謝.md" title="東方氷雪大感謝">東方氷雪大感謝</a> （2017-10-15）<br>社团：<a href="./IOSYS.md" title="IOSYS">IOSYS</a><br>编曲：<a href="./uno.md" title="uno">uno</a><br>演唱：<a href="./あき.md" title="あき">あき</a>，<a href="./Rute.md" title="Rute">Rute</a><br>作词：<a href="./uno.md" title="uno">uno</a><br>原曲：<a href="./活泼的纯情小姑娘.md" title="活泼的纯情小姑娘" unred="">おてんば恋娘</a>，<a href="./春之冰精.md" title="春之冰精" unred="">春の氷精</a><br></dd></dl></td></tr>
 <tr><th colspan="2"></th></tr><tr><td colspan="2" style="padding-left: 1em;"><div class="floatright"><a href="./文件-Retro_Future_Girls封面.jpg.md" class="image" title="Retro Future Girls"><img alt="Retro Future Girls" src="https://upload.thwiki.cc/thumb/6/6a/Retro_Future_Girls%E5%B0%81%E9%9D%A2.jpg/100px-Retro_Future_Girls%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="100" height="100" srcset="https://upload.thwiki.cc/thumb/6/6a/Retro_Future_Girls%E5%B0%81%E9%9D%A2.jpg/150px-Retro_Future_Girls%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/6/6a/Retro_Future_Girls%E5%B0%81%E9%9D%A2.jpg/200px-Retro_Future_Girls%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="500" data-file-height="500"></a></div><b><a href="/Retro_Future_Girls#6" title="Retro Future Girls">Spring Rouge</a></b> &#91;05:26&#93;<dl><dd><a href="./Retro_Future_Girls.md" title="Retro Future Girls">RETRO FUTURE GIRLS</a> （2013-12-30）<br>社团：<a href="./ShibayanRecords.md" title="ShibayanRecords">ShibayanRecords</a><br>编曲：<a href="./izna.md" title="izna">izna</a><br>原曲：<a href="./春之港湾.md" title="春之港湾" unred="">春の湊に</a><br></dd></dl></td></tr></tbody></table>
+
 
 
 ### jubeat festo
@@ -222,6 +234,7 @@ EXC…1,000,000分（「ripples」及以后）
 <tr><th colspan="2"></th></tr><tr><td colspan="2" style="padding-left: 1em;"><div class="floatright"><a href="./文件-東方オトハナビ封面.jpg.md" class="image" title="東方オトハナビ"><img alt="東方オトハナビ" src="https://upload.thwiki.cc/thumb/c/cb/%E6%9D%B1%E6%96%B9%E3%82%AA%E3%83%88%E3%83%8F%E3%83%8A%E3%83%93%E5%B0%81%E9%9D%A2.jpg/100px-%E6%9D%B1%E6%96%B9%E3%82%AA%E3%83%88%E3%83%8F%E3%83%8A%E3%83%93%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="100" height="100" srcset="https://upload.thwiki.cc/thumb/c/cb/%E6%9D%B1%E6%96%B9%E3%82%AA%E3%83%88%E3%83%8F%E3%83%8A%E3%83%93%E5%B0%81%E9%9D%A2.jpg/150px-%E6%9D%B1%E6%96%B9%E3%82%AA%E3%83%88%E3%83%8F%E3%83%8A%E3%83%93%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/c/cb/%E6%9D%B1%E6%96%B9%E3%82%AA%E3%83%88%E3%83%8F%E3%83%8A%E3%83%93%E5%B0%81%E9%9D%A2.jpg/200px-%E6%9D%B1%E6%96%B9%E3%82%AA%E3%83%88%E3%83%8F%E3%83%8A%E3%83%93%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="900" data-file-height="900"></a></div><b><a href="/%E6%9D%B1%E6%96%B9%E3%82%AA%E3%83%88%E3%83%8F%E3%83%8A%E3%83%93#8" title="東方オトハナビ">ルナティックモンスター</a></b> &#91;06:21&#93;<dl><dd><a href="./東方オトハナビ.md" title="東方オトハナビ">東方オトハナビ</a> （2021-08-14）<br>社团：<a href="./フーリンキャットマーク.md" title="フーリンキャットマーク">フーリンキャットマーク</a><br>编曲：<a href="/index.php?title=%E8%B0%B7%E9%AB%98%E3%83%9E%E3%83%BC%E3%82%AF&amp;action=edit&amp;redlink=1" class="new" title="谷高マーク（页面不存在）">谷高マーク</a><br>演唱：<a href="/index.php?title=%E9%B3%B4%E7%B4%97&amp;action=edit&amp;redlink=1" class="new" title="鳴紗（页面不存在）">鳴紗</a><br>作词：<a href="/index.php?title=%E8%B0%B7%E9%AB%98%E3%83%9E%E3%83%BC%E3%82%AF&amp;action=edit&amp;redlink=1" class="new" title="谷高マーク（页面不存在）">谷高マーク</a><br>原曲：<a href="./恋色Magic.md" title="恋色Magic" unred="">恋色マジック</a>，<a href="./感情的摩天楼_～_Cosmic_Mind.md" title="感情的摩天楼 ～ Cosmic Mind" unred="">感情の摩天楼　～ Cosmic Mind</a><br></dd></dl></td></tr></tbody></table>
 
 
+
 ### jubeat Ave.
 
 <table><tbody><tr><th colspan="2">曲目信息</th></tr><tr><td colspan="2" style="padding-left: 1em;"><div class="floatright"><a href="./文件-SCARLET_SOUNDS封面.jpg.md" class="image" title="SCARLET SOUNDS"><img alt="SCARLET SOUNDS" src="https://upload.thwiki.cc/thumb/1/1f/SCARLET_SOUNDS%E5%B0%81%E9%9D%A2.jpg/100px-SCARLET_SOUNDS%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="100" height="100" srcset="https://upload.thwiki.cc/thumb/1/1f/SCARLET_SOUNDS%E5%B0%81%E9%9D%A2.jpg/150px-SCARLET_SOUNDS%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/1/1f/SCARLET_SOUNDS%E5%B0%81%E9%9D%A2.jpg/200px-SCARLET_SOUNDS%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="900" data-file-height="900"></a></div><b><a href="/SCARLET_SOUNDS#1" title="SCARLET SOUNDS">銀の旋律-Silver melodia-</a></b> &#91;04:11&#93;<dl><dd><a href="./SCARLET_SOUNDS.md" title="SCARLET SOUNDS">SCARLET SOUNDS</a> （2022-05-08）<br>社团：<a href="./ちょこふぁん.md" title="ちょこふぁん">ちょこふぁん</a><br>编曲：<a href="./HASEKO.md" title="HASEKO">HASEKO</a><br>演唱：<a href="./すばる.md" title="すばる">すばる</a><br>作词：<a href="./すばる.md" title="すばる">すばる</a><br>原曲：<a href="./月时计_～_Luna_Dial.md" title="月时计 ～ Luna Dial" unred="">月時計　～ ルナ・ダイアル</a><br></dd></dl></td></tr>
@@ -229,8 +242,10 @@ EXC…1,000,000分（「ripples」及以后）
 <tr><th colspan="2"></th></tr><tr><td colspan="2" style="padding-left: 1em;"><div class="floatright"><a href="./文件-STARTER_LIZ_TRIANGLE_BEST封面.jpg.md" class="image" title="STARTER LIZ TRIANGLE BEST"><img alt="STARTER LIZ TRIANGLE BEST" src="https://upload.thwiki.cc/thumb/d/de/STARTER_LIZ_TRIANGLE_BEST%E5%B0%81%E9%9D%A2.jpg/100px-STARTER_LIZ_TRIANGLE_BEST%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="100" height="100" srcset="https://upload.thwiki.cc/thumb/d/de/STARTER_LIZ_TRIANGLE_BEST%E5%B0%81%E9%9D%A2.jpg/150px-STARTER_LIZ_TRIANGLE_BEST%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/d/de/STARTER_LIZ_TRIANGLE_BEST%E5%B0%81%E9%9D%A2.jpg/200px-STARTER_LIZ_TRIANGLE_BEST%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1200" data-file-height="1200"></a></div><b><a href="/STARTER_LIZ_TRIANGLE_BEST#7" title="STARTER LIZ TRIANGLE BEST">ハウリング</a></b> &#91;04:30&#93;<dl><dd><a href="./STARTER_LIZ_TRIANGLE_BEST.md" title="STARTER LIZ TRIANGLE BEST">STARTER LIZ TRIANGLE BEST</a> （2022-03-20）<br>社团：<a href="./Liz_Triangle.md" title="Liz Triangle">Liz Triangle</a><br>编曲：<a href="./kaztora.md" title="kaztora">kaztora</a><br>演唱：<a href="./lily-an.md" title="lily-an">lily-an</a><br>作词：<a href="./azuki.md" title="azuki">azuki</a><br>原曲：<a href="./已经只能听见歌声了.md" title="已经只能听见歌声了" unred="">もう歌しか聞こえない</a><br></dd></dl></td></tr></tbody></table>
 
 
+
 ### jubeat plus（iOS/Android版本）
 - [曲目列表（jubeat plus）](./jubeat-收录曲目列表（jubeat_plus）.md)
+
 
 ## 参考资料
 - [RemyWiki](https://remywiki.com/Main_Page)

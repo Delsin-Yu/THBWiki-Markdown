@@ -24,6 +24,7 @@
 - 本词条内容为官方游戏TH09.5 **东方文花帖** 的符卡、关卡评价以及相关内容
 - Level 9在开启LV8后才会显示，开启条件为LV8通过3个场景，或共计通过40个场景。
 
+
 ## 目录
 
 - [1 Level 9-1](#Level_9-1)
@@ -40,10 +41,12 @@
 
 
 
+
 ## Level 9-1
 文件:八意永琳 通常弹幕.jpg (未找到链接)  八意永琳 通常弹幕
 
 <table><tbody><tr class="tt-content-header" id="Level_9-1" data-pos="&#91;&quot;Level 9&quot;,1&#93;"><td class="tt-jah" lang="ja"><div class="poem">通常弾幕</div></td><td class="tt-zhh" lang="zh"><div class="poem">通常弹幕</div></td></tr><tr class="tt-header" id="Level_9-2" data-pos="&#91;&quot;Level 9&quot;,2&#93;"><td colspan="2" id="射命丸文的评价" class="tt-header" lang="zh"><div class="poem">射命丸文的评价</div></td></tr><tr class="tt-content" id="Level_9-3" data-pos="&#91;&quot;Level 9&quot;,3&#93;"><td class="tt-ja" lang="ja"><div class="poem">なんだか良く判らないけど、薬屋さんが鬼気迫る<br>勢いで気を飛ばしていました。<br>薬の調合って大変なんですね。</div></td><td class="tt-zh" lang="zh"><div class="poem">虽然不知道发生了什么，但是药师散发出一种<br>惊人的气势呢。<br>调配药品真的很辛苦呢。</div></td></tr><tr class="tt-header" id="Level_9-4" data-pos="&#91;&quot;Level 9&quot;,4&#93;"><td colspan="2" id="通常弹幕信息" class="tt-header" lang="zh"><div class="poem">通常弹幕信息</div></td></tr><tr class="tt-text-header" id="Level_9-5" data-pos="&#91;&quot;Level 9&quot;,5&#93;"><td colspan="2" class="tt-text" lang="zh"><div class="poem">Level 9 BOSS八意永琳通常弹幕。<br></div></td></tr></tbody></table>
+
 
 
 ## Level 9-2
@@ -69,6 +72,7 @@
 <table><tbody><tr class="tt-content-header" id="Level_9-6" data-pos="&#91;&quot;Level 9&quot;,6&#93;"><td class="tt-jah" lang="ja"><div class="poem">新難題「月のイルメナイト」</div></td><td class="tt-zhh" lang="zh"><div class="poem"><a href="./月的钛铁矿.md" title="月的钛铁矿" unred="">新难题「月的钛铁矿」</a></div></td></tr><tr class="tt-header" id="Level_9-7" data-pos="&#91;&quot;Level 9&quot;,7&#93;"><td colspan="2" id="射命丸文的评价" class="tt-header" lang="zh"><div class="poem">射命丸文的评价</div></td></tr><tr class="tt-content" id="Level_9-8" data-pos="&#91;&quot;Level 9&quot;,8&#93;"><td class="tt-ja" lang="ja"><div class="poem">何でしょう。聞いたことのない物を見せて<br>もらいました。この方は珍品を多く持つ<br>好事家としても有名なんですよね。</div></td><td class="tt-zh" lang="zh"><div class="poem">这是什么。让我看到了一些<br>闻所未闻的东西。这位小姐好像因为带着<br>很多珍奇的东西而出名呢。</div></td></tr><tr class="tt-header" id="Level_9-9" data-pos="&#91;&quot;Level 9&quot;,9&#93;"><td colspan="2" id="符卡信息" class="tt-header" lang="zh"><div class="poem">符卡信息</div></td></tr><tr class="tt-text-header" id="Level_9-10" data-pos="&#91;&quot;Level 9&quot;,10&#93;"><td colspan="2" class="tt-text" lang="zh"><div class="poem">Level 9 BOSS蓬莱山辉夜9-2符卡。<br></div></td></tr></tbody></table>
 
 
+
 ## Level 9-3
 
 <table>
@@ -85,6 +89,7 @@
 
 
 <table><tbody><tr class="tt-content-header" id="Level_9-11" data-pos="&#91;&quot;Level 9&quot;,11&#93;"><td class="tt-jah" lang="ja"><div class="poem">薬符「胡蝶夢丸ナイトメア」</div></td><td class="tt-zhh" lang="zh"><div class="poem"><a href="./蝴蝶梦丸噩梦.md" title="蝴蝶梦丸噩梦" unred="">药符「蝴蝶梦丸噩梦」</a></div></td></tr><tr class="tt-header" id="Level_9-12" data-pos="&#91;&quot;Level 9&quot;,12&#93;"><td colspan="2" id="射命丸文的评价" class="tt-header" lang="zh"><div class="poem">射命丸文的评价</div></td></tr><tr class="tt-content" id="Level_9-13" data-pos="&#91;&quot;Level 9&quot;,13&#93;"><td class="tt-ja" lang="ja"><div class="poem">とんでもなく速い蝶の夢を見ました。<br>きっと薬の所為だと思うけど、目が覚めても<br>忘れないように写真に収めておきました。</div></td><td class="tt-zh" lang="zh"><div class="poem">见了飞得很快的蝴蝶。<br>一定是药的关系<br>为了醒来也不会忘记所以先拍下来吧。</div></td></tr><tr class="tt-header" id="Level_9-14" data-pos="&#91;&quot;Level 9&quot;,14&#93;"><td colspan="2" id="符卡信息" class="tt-header" lang="zh"><div class="poem">符卡信息</div></td></tr><tr class="tt-text-header" id="Level_9-15" data-pos="&#91;&quot;Level 9&quot;,15&#93;"><td colspan="2" class="tt-text" lang="zh"><div class="poem">Level 9 BOSS八意永琳9-3符卡。<br></div></td></tr></tbody></table>
+
 
 
 ## Level 9-4
@@ -110,6 +115,7 @@
 <table><tbody><tr class="tt-content-header" id="Level_9-16" data-pos="&#91;&quot;Level 9&quot;,16&#93;"><td class="tt-jah" lang="ja"><div class="poem">新難題「エイジャの赤石」</div></td><td class="tt-zhh" lang="zh"><div class="poem"><a href="./艾哲红石.md" title="艾哲红石" unred="">新难题「艾哲红石」</a></div></td></tr><tr class="tt-header" id="Level_9-17" data-pos="&#91;&quot;Level 9&quot;,17&#93;"><td colspan="2" id="射命丸文的评价" class="tt-header" lang="zh"><div class="poem">射命丸文的评价</div></td></tr><tr class="tt-content" id="Level_9-18" data-pos="&#91;&quot;Level 9&quot;,18&#93;"><td class="tt-ja" lang="ja"><div class="poem">熱いです！　もの凄く熱い。<br>こんな石は見たことが無いですね。<br>強いて言えば石焼き芋の石くらいです。</div></td><td class="tt-zh" lang="zh"><div class="poem">烫手！非常烫手。<br>这种石头从没见过呢。<br>硬要说的话就和用石头烤番薯的那种石头一般。</div></td></tr><tr class="tt-header" id="Level_9-19" data-pos="&#91;&quot;Level 9&quot;,19&#93;"><td colspan="2" id="符卡信息" class="tt-header" lang="zh"><div class="poem">符卡信息</div></td></tr><tr class="tt-text-header" id="Level_9-20" data-pos="&#91;&quot;Level 9&quot;,20&#93;"><td colspan="2" class="tt-text" lang="zh"><div class="poem">Level 9 BOSS蓬莱山辉夜9-4符卡。<br></div></td></tr></tbody></table>
 
 
+
 ## Level 9-5
 
 <table>
@@ -126,6 +132,7 @@
 
 
 <table><tbody><tr class="tt-content-header" id="Level_9-21" data-pos="&#91;&quot;Level 9&quot;,21&#93;"><td class="tt-jah" lang="ja"><div class="poem">錬丹「水銀の海」</div></td><td class="tt-zhh" lang="zh"><div class="poem"><a href="./水银之海.md" title="水银之海" unred="">炼丹「水银之海」</a></div></td></tr><tr class="tt-header" id="Level_9-22" data-pos="&#91;&quot;Level 9&quot;,22&#93;"><td colspan="2" id="射命丸文的评价" class="tt-header" lang="zh"><div class="poem">射命丸文的评价</div></td></tr><tr class="tt-content" id="Level_9-23" data-pos="&#91;&quot;Level 9&quot;,23&#93;"><td class="tt-ja" lang="ja"><div class="poem">薬屋さんって水銀を扱うんですね。<br>何に使うのかって聞いたんですけど……<br>企業秘密みたい。毒薬か、不死の薬か。</div></td><td class="tt-zh" lang="zh"><div class="poem">药师在用水银呢。<br>虽然我问她是要用来干嘛的……<br>但是她却告诉我是最高机密呢。毒药吗，还是不死药？</div></td></tr><tr class="tt-header" id="Level_9-24" data-pos="&#91;&quot;Level 9&quot;,24&#93;"><td colspan="2" id="符卡信息" class="tt-header" lang="zh"><div class="poem">符卡信息</div></td></tr><tr class="tt-text-header" id="Level_9-25" data-pos="&#91;&quot;Level 9&quot;,25&#93;"><td colspan="2" class="tt-text" lang="zh"><div class="poem">Level 9 BOSS八意永琳9-5符卡。<br></div></td></tr></tbody></table>
+
 
 
 ## Level 9-6
@@ -146,6 +153,7 @@
 <table><tbody><tr class="tt-content-header" id="Level_9-26" data-pos="&#91;&quot;Level 9&quot;,26&#93;"><td class="tt-jah" lang="ja"><div class="poem">新難題「金閣寺の一枚天井」</div></td><td class="tt-zhh" lang="zh"><div class="poem"><a href="./金阁寺的整块天花板.md" title="金阁寺的整块天花板" unred="">新难题「金阁寺的整块天花板」</a></div></td></tr><tr class="tt-header" id="Level_9-27" data-pos="&#91;&quot;Level 9&quot;,27&#93;"><td colspan="2" id="射命丸文的评价" class="tt-header" lang="zh"><div class="poem">射命丸文的评价</div></td></tr><tr class="tt-content" id="Level_9-28" data-pos="&#91;&quot;Level 9&quot;,28&#93;"><td class="tt-ja" lang="ja"><div class="poem">こんなに大きな板が一枚板？にわかに信じられ<br>ません。本物だとすると、今幻想郷にある<br>どの木よりも大きな木が必要じゃないですか。</div></td><td class="tt-zh" lang="zh"><div class="poem">这么大的木板是单块的？一时间还真难以相信。<br>如果是真的，那么做出这块木板的树<br>比现在幻想乡中任何一棵树都要大不是吗。</div></td></tr><tr class="tt-header" id="Level_9-29" data-pos="&#91;&quot;Level 9&quot;,29&#93;"><td colspan="2" id="符卡信息" class="tt-header" lang="zh"><div class="poem">符卡信息</div></td></tr><tr class="tt-text-header" id="Level_9-30" data-pos="&#91;&quot;Level 9&quot;,30&#93;"><td colspan="2" class="tt-text" lang="zh"><div class="poem">Level 9 BOSS蓬莱山辉夜9-6符卡。<br></div></td></tr></tbody></table>
 
 
+
 ## Level 9-7
 
 <table>
@@ -162,6 +170,7 @@
 
 
 <table><tbody><tr class="tt-content-header" id="Level_9-31" data-pos="&#91;&quot;Level 9&quot;,31&#93;"><td class="tt-jah" lang="ja"><div class="poem">秘薬「仙香玉兎」</div></td><td class="tt-zhh" lang="zh"><div class="poem"><a href="./仙香玉兔.md" title="仙香玉兔" unred="">秘药「仙香玉兔」</a></div></td></tr><tr class="tt-header" id="Level_9-32" data-pos="&#91;&quot;Level 9&quot;,32&#93;"><td colspan="2" id="射命丸文的评价" class="tt-header" lang="zh"><div class="poem">射命丸文的评价</div></td></tr><tr class="tt-content" id="Level_9-33" data-pos="&#91;&quot;Level 9&quot;,33&#93;"><td class="tt-ja" lang="ja"><div class="poem">強烈な幻覚作用を持つお香の様です。<br>香りには強い私ですが、流石にこれは長持ち<br>しそうにありません。写真で伝わるかどうか…</div></td><td class="tt-zh" lang="zh"><div class="poem">好像是能让人产生强烈幻觉的香。<br>虽然我对香味很有抵抗力，但是也不能久闻呢<br>至于通过照片能不能表现出来…</div></td></tr><tr class="tt-header" id="Level_9-34" data-pos="&#91;&quot;Level 9&quot;,34&#93;"><td colspan="2" id="符卡信息" class="tt-header" lang="zh"><div class="poem">符卡信息</div></td></tr><tr class="tt-text-header" id="Level_9-35" data-pos="&#91;&quot;Level 9&quot;,35&#93;"><td colspan="2" class="tt-text" lang="zh"><div class="poem">Level 9 BOSS八意永琳9-7符卡。<br></div></td></tr></tbody></table>
+
 
 
 ## Level 9-8
@@ -185,6 +194,7 @@
 
 
 <table><tbody><tr class="tt-content-header" id="Level_9-36" data-pos="&#91;&quot;Level 9&quot;,36&#93;"><td class="tt-jah" lang="ja"><div class="poem">新難題「ミステリウム」</div></td><td class="tt-zhh" lang="zh"><div class="poem"><a href="./Mysterium.md" title="Mysterium" unred="">新难题「Mysterium」</a></div></td></tr><tr class="tt-header" id="Level_9-37" data-pos="&#91;&quot;Level 9&quot;,37&#93;"><td colspan="2" id="射命丸文的评价" class="tt-header" lang="zh"><div class="poem">射命丸文的评价</div></td></tr><tr class="tt-content" id="Level_9-38" data-pos="&#91;&quot;Level 9&quot;,38&#93;"><td class="tt-ja" lang="ja"><div class="poem">全くなんだか判らない物を見せてもらいました。<br>輝夜さんはこれを「ミステリウム（謎物質）」と<br>言ってました。こんな感じで記事になるかな？</div></td><td class="tt-zh" lang="zh"><div class="poem">她让我看了完全不知道是什么的东西。<br>辉夜小姐说这是「Mysterium（迷的物质）」<br>这样能写出一篇报道来吧？</div></td></tr><tr class="tt-header" id="Level_9-39" data-pos="&#91;&quot;Level 9&quot;,39&#93;"><td colspan="2" id="符卡信息" class="tt-header" lang="zh"><div class="poem">符卡信息</div></td></tr><tr class="tt-text-header" id="Level_9-40" data-pos="&#91;&quot;Level 9&quot;,40&#93;"><td colspan="2" class="tt-text" lang="zh"><div class="poem">Level 9 BOSS蓬莱山辉夜9-8符卡。<br></div></td></tr></tbody></table>
+
 
 
 

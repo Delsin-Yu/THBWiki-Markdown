@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-また妖々夢のEDが見たくなる本。封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/f/fa/%E3%81%BE%E3%81%9F%E5%A6%96%E3%80%85%E5%A4%A2%E3%81%AEED%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%8F%E3%81%AA%E3%82%8B%E6%9C%AC%E3%80%82%E5%B0%81%E9%9D%A2.jpg/138px-%E3%81%BE%E3%81%9F%E5%A6%96%E3%80%85%E5%A4%A2%E3%81%AEED%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%8F%E3%81%AA%E3%82%8B%E6%9C%AC%E3%80%82%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="138" height="196" srcset="https://upload.thwiki.cc/thumb/f/fa/%E3%81%BE%E3%81%9F%E5%A6%96%E3%80%85%E5%A4%A2%E3%81%AEED%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%8F%E3%81%AA%E3%82%8B%E6%9C%AC%E3%80%82%E5%B0%81%E9%9D%A2.jpg/208px-%E3%81%BE%E3%81%9F%E5%A6%96%E3%80%85%E5%A4%A2%E3%81%AEED%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%8F%E3%81%AA%E3%82%8B%E6%9C%AC%E3%80%82%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/f/fa/%E3%81%BE%E3%81%9F%E5%A6%96%E3%80%85%E5%A4%A2%E3%81%AEED%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%8F%E3%81%AA%E3%82%8B%E6%9C%AC%E3%80%82%E5%B0%81%E9%9D%A2.jpg/277px-%E3%81%BE%E3%81%9F%E5%A6%96%E3%80%85%E5%A4%A2%E3%81%AEED%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%8F%E3%81%AA%E3%82%8B%E6%9C%AC%E3%80%82%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="724" data-file-height="1024"></a><div class="cover-char">角色：<a href="./西行寺幽幽子.md" title="西行寺幽幽子">西行寺幽幽子</a></div></td>
@@ -18,11 +19,14 @@
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://pumpkincity.booth.pm/items/4733364">Booth</a>，<a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=1936914">蜜瓜</a></td></tr></tbody></table>
 
 
+
 ## 预览
 - [](./文件-また妖々夢のEDが見たくなる本。预览图1.jpg.md)- [](./文件-また妖々夢のEDが見たくなる本。预览图2.jpg.md)- [](./文件-また妖々夢のEDが見たくなる本。预览图3.jpg.md)- [](./文件-また妖々夢のEDが見たくなる本。预览图4.jpg.md)
 
+
 ## Staff
 - [南瓜かぷちー](./南瓜かぷちー.md)
+
 
 ## 评论
 ```

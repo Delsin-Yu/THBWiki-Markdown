@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 软件信息](#软件信息)
@@ -22,6 +23,7 @@
 
 
 
+
 ## 软件信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-战斗天邪鬼_～_Shatter_All_Spell_Card封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/1/17/%E6%88%98%E6%96%97%E5%A4%A9%E9%82%AA%E9%AC%BC_%EF%BD%9E_Shatter_All_Spell_Card%E5%B0%81%E9%9D%A2.jpg/196px-%E6%88%98%E6%96%97%E5%A4%A9%E9%82%AA%E9%AC%BC_%EF%BD%9E_Shatter_All_Spell_Card%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="196" height="147" srcset="https://upload.thwiki.cc/thumb/1/17/%E6%88%98%E6%96%97%E5%A4%A9%E9%82%AA%E9%AC%BC_%EF%BD%9E_Shatter_All_Spell_Card%E5%B0%81%E9%9D%A2.jpg/294px-%E6%88%98%E6%96%97%E5%A4%A9%E9%82%AA%E9%AC%BC_%EF%BD%9E_Shatter_All_Spell_Card%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/1/17/%E6%88%98%E6%96%97%E5%A4%A9%E9%82%AA%E9%AC%BC_%EF%BD%9E_Shatter_All_Spell_Card%E5%B0%81%E9%9D%A2.jpg/392px-%E6%88%98%E6%96%97%E5%A4%A9%E9%82%AA%E9%AC%BC_%EF%BD%9E_Shatter_All_Spell_Card%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1437" data-file-height="1079"></a></td>
@@ -29,12 +31,14 @@
 </tr><tr><td class="label">首发日期</td><td>2015-11-08</td></tr><tr><td class="label">类型</td><td>游戏</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">游戏人数</td><td>单人模式</td></tr><tr><td class="label">游戏类型</td><td>STG</td></tr><tr><td class="label">运行平台</td><td>Windows</td></tr><tr><td class="label">语言</td><td>简体中文</td></tr></tbody></table>
 
 战斗天邪鬼 ～ Shatter All Spell Card（同人游戏，正灌，2015） - 2015年11月8日 由 正灌  发布的STG同人游戏，可在 Windows 系统上运行，游戏人数为 单人模式，分级为 一般向
+
 ## Staff
   
 程序、编剧、美工……：正灌  
 
 （好吧其实就是整个游戏都是一人做的，除音乐外）
   
+
 
 ## 游戏说明
   
@@ -53,6 +57,7 @@
 
 总之，这次的游戏难度整体上异常的亲民，甚至说比弹幕天邪鬼简单也不为过呢（是这样的吗），还请诸位尽情享受。
   
+
 
 
 ### 版本更新改动:
@@ -74,6 +79,7 @@
   
 
 
+
 ## 内容页面
 - 剧情设定 (未找到链接)
 - 角色设定 (未找到链接)
@@ -83,6 +89,7 @@
 - 符卡 (未找到链接)
 - 捏他 (未找到链接)
 - 其他相关资料 (未找到链接)
+
 
 ## 下载
   

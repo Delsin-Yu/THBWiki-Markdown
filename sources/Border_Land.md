@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -36,11 +37,13 @@
 
 
 
+
 ## 基本信息
 
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">Border Land</td></tr><tr><td><b>译名</b></td><td>Border Land</td></tr><tr><td><b>其他译名</b></td><td>边境之地</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>引用</td></tr><tr><td style="padding-left:15px"><b>原曲</b></td><td><a href="./Maple_Dream....md" title="Maple Dream...">Maple Dream...</a></td></tr><tr><td style="padding-left:15px"><b>　来源</b></td><td>东方梦时空</td></tr></tbody></table>
 
 Border Land（曲目） - 由 ZUN 创作的官方曲目，原名 Border Land
+
 ## 出现作品
 
 <table>
@@ -49,7 +52,9 @@ Border Land（曲目） - 由 ZUN 创作的官方曲目，原名 Border Land
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 东方怪绮谈
   
 YM2203(OPN)，FM26K音源版。
@@ -67,12 +72,15 @@ YM2608(OPNA)，FM86音源版。
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th05_G_26_86.ogg.md" title="文件:th05 G 26 86.ogg">th05_G_26_86.ogg</a><br><audio src="https://upload.thwiki.cc/2/2b/th05_G_26_86.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>G_NG03.M2</td></tr><tr><td><b>音轨时长</b></td><td>2:10.229</td></tr></tbody></table>
 
 
+
 ### 幺乐团的历史 vol.1
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-ha01b_11.mp3.md" title="文件:ha01b 11.mp3">ha01b_11.mp3</a><br><audio src="https://upload.thwiki.cc/7/76/ha01b_11.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track11.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>2:41</td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 东方幻想乡体验版
 - Music Room (未找到链接)
 
@@ -81,6 +89,7 @@ YM2608(OPNA)，FM86音源版。
 这是首短曲(^^;;;; 如别人所说，这首曲子想给人一种走投无路的感觉。  
 总觉得，旋律（有吗?)有点像梦时空的制作人员名单主题曲・・・  
 (反正是自己做的曲子，没关系(^^;)
+
 ### 东方怪绮谈
 - Music Room (未找到链接)
 
@@ -92,8 +101,11 @@ YM2608(OPNA)，FM86音源版。
 ＺＵＮ（太田）  
 6面。  
 衔接的曲子
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
   
  **Border Land** 
@@ -104,6 +116,7 @@ YM2608(OPNA)，FM86音源版。
 - Border，边界
   - 梦幻馆是现界与梦幻世界的分界
   - zun说希望能有一种走投无路（走到边界）的感觉
+
 
 
 ### 二次同人数据

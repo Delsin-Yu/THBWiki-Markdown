@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Diary~1／xxx~封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/2/29/Diary~1%EF%BC%8Fxxx~%E5%B0%81%E9%9D%A2.jpg/140px-Diary~1%EF%BC%8Fxxx~%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="140" height="196" srcset="https://upload.thwiki.cc/thumb/2/29/Diary~1%EF%BC%8Fxxx~%E5%B0%81%E9%9D%A2.jpg/210px-Diary~1%EF%BC%8Fxxx~%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/2/29/Diary~1%EF%BC%8Fxxx~%E5%B0%81%E9%9D%A2.jpg/280px-Diary~1%EF%BC%8Fxxx~%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="600" data-file-height="839"></a><div class="cover-char">角色：<a href="./爱丽丝·玛格特洛依德.md" title="爱丽丝·玛格特洛依德">爱丽丝·玛格特洛依德</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://blog.livedoor.jp/crimsonvanilla/archives/52080882.html">http://blog.livedoor.jp/crimsonvanilla/archives/52080882.html</a></td></tr></tbody></table>
 
 Diary~1／xxx~（同人志，赤色バニラ，2011） - 2011年5月22日 由 赤色バニラ 于 七色魔女的人偶舞会。1 发布的漫画同人志，一共32页，登场人物有 雾雨魔理沙、爱丽丝·玛格特洛依德，分级为 一般向
+
 ## Staff
 - くま
+
 
 ## 评论
 

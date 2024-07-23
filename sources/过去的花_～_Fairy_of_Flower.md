@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -29,11 +30,13 @@
 
 
 
+
 ## 基本信息
 
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">過去の花　～ Fairy of Flower</td></tr><tr><td><b>译名</b></td><td>过去的花 ～ Fairy of Flower</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 过去的花 ～ Fairy of Flower（曲目） - 由 ZUN 创作的官方曲目，原名 過去の花　～ Fairy of Flower
+
 ## 出现作品
 
 <table>
@@ -41,17 +44,23 @@
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 莲台野夜行
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-hr02_08.mp3.md" title="文件:hr02 08.mp3">hr02_08.mp3</a><br><audio src="https://upload.thwiki.cc/a/ad/hr02_08.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track08.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>4:57</td></tr></tbody></table>
 
 
+
 ## 说明文本
 - 从[ZUN官网上的介绍](http://www16.big.or.jp/~zun/html/mcdtop.html)可得知该曲目是[东方妖妖梦](./东方妖妖梦.md)的未使用曲。
 
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
   
  **過去の花　～ Fairy of Flower** 
@@ -80,6 +89,7 @@
   - 花之妖精
     - 莉莉白？
       - 春度包含在樱花花瓣中
+
 
 
 

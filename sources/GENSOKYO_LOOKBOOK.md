@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-GENSOKYO_LOOKBOOK封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/d/de/GENSOKYO_LOOKBOOK%E5%B0%81%E9%9D%A2.png/138px-GENSOKYO_LOOKBOOK%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="138" height="196" srcset="https://upload.thwiki.cc/thumb/d/de/GENSOKYO_LOOKBOOK%E5%B0%81%E9%9D%A2.png/207px-GENSOKYO_LOOKBOOK%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/d/de/GENSOKYO_LOOKBOOK%E5%B0%81%E9%9D%A2.png/276px-GENSOKYO_LOOKBOOK%E5%B0%81%E9%9D%A2.png 2x" data-file-width="2040" data-file-height="2893"></a><div class="cover-char">角色：<a href="./丰聪耳神子.md" title="丰聪耳神子">丰聪耳神子</a>，<a href="./宇佐见堇子.md" title="宇佐见堇子">宇佐见堇子</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/Venatto/status/1122790870414008320">https://twitter.com/Venatto/status/1122790870414008320</a><br><a rel="nofollow" class="external free" href="https://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=74445039">https://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=74445039</a></td></tr></tbody></table>
 
 GENSOKYO LOOKBOOK（同人志，VENTOPLUS，2019） - 2019年5月5日 由 VENTOPLUS 于 博丽神社例大祭16 发布的画集同人志，A5尺寸一共20页，分级为 一般向
+
 ## Staff
 - Vento (未找到链接)
+
 
 ## 评论
 

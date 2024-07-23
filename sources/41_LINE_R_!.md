@@ -4,7 +4,8 @@
 
 41 LINE R ! ，主要制作 周边，同人志 的日本同人社团，主催是 しいらいなー，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -20,17 +21,21 @@
 
 
 
+
 ## 社团信息
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> 41 LINE R&#160;! </td></tr><tr><td><b>主要作品类型</b></td><td>周边，同人志</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=%E3%81%97%E3%81%84%E3%82%89%E3%81%84%E3%81%AA%E3%83%BC&amp;action=edit&amp;redlink=1" class="new" title="しいらいなー（页面不存在）">しいらいなー</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="https://41liner.booth.pm/">https://41liner.booth.pm/</a> </td></tr></tbody></table>
 
 41 LINE R&#160;!（同人社团，周边社团，同人志社团） - 41 LINE R&#160;! ，主要制作 周边，同人志 的日本同人社团，主催是 しいらいなー，当前状态为 活动
+
 ## 成员名单
 - しいらいなー (未找到链接)
 
 : [Twitter: @NDliner41](https://twitter.com/NDliner41), [Pixiv ID: 42276971](https://www.pixiv.net/users/42276971)
 
+
 ## 作品列表
+
 ### 同人志
 [](./恋するねずみと不良天人!!.md)[恋するねずみと不良天人!!](./恋するねずみと不良天人!!.md)首发日期：2021-07-18 （とれじゃーぱーてぃー！３～小ネズミたちのウエディング～ (未找到链接)）漫画 （一般向）B5&#160;尺寸 28&#160;页[](./カーテンコル・サイン.md)[カーテンコル・サイン](./カーテンコル・サイン.md)首发日期：2021-11-28 （東方紅楼夢17 (未找到链接)）漫画、​画集、​小说、​合同志 （一般向）B5&#160;尺寸 72&#160;页[](./ナズーリンOVERHEAT!!_～照れ顔ナズーリン合同～.md)[ナズーリンOVERHEAT!! ～照れ顔ナズーリン合同～](./ナズーリンOVERHEAT!!_～照れ顔ナズーリン合同～.md)首发日期：2022-05-08 （第十九回 博麗神社例大祭 (未找到链接)）合同志、​画集、​漫画 （一般向）B5&#160;尺寸 36&#160;页娜兹玲尴尬脸合同[](./原稿落としましたお詫びのコピ本になります.md)[原稿落としましたお詫びのコピ本になります](./原稿落としましたお詫びのコピ本になります.md)首发日期：2022-09-11 （科学世紀のカフェテラス（第11回） (未找到链接)）漫画 （一般向）该作品是与 [いどのたこつぼ](./いどのたこつぼ.md) 合作创作的B5&#160;尺寸 20&#160;页[](./マエリベリー・ハーンは二度死ぬ.md)[マエリベリー・ハーンは二度死ぬ](./マエリベリー・ハーンは二度死ぬ.md)首发日期：2023-05-07 （第二十回 博麗神社例大祭 (未找到链接)）漫画 （一般向）B5&#160;尺寸 44&#160;页与[宇佐見蓮子と宇佐見蓮子の境目](./宇佐見蓮子と宇佐見蓮子の境目.md)合二为一 (未找到链接)めくるめくナズーリン！～ナズーリン万年日めくりカレンダー合同～イラスト集 (未找到链接)首发日期：2023-07-02 （とれじゃーばんけっと!!～小ねずみたちの宴～ (未找到链接)）画集、​合同志 （一般向）B5&#160;尺寸 28&#160;页[](./スク水ナズーリン合同.md)[スク水ナズーリン合同](./スク水ナズーリン合同.md)首发日期：2023-07-02 （とれじゃーばんけっと!!～小ねずみたちの宴～ (未找到链接)）画集、​合同志 （一般向）B5&#160;尺寸 50&#160;页[](./東方立ち絵合同_キャラクターガイドブック.md)[東方立ち絵合同　キャラクターガイドブック](./東方立ち絵合同_キャラクターガイドブック.md)首发日期：2023-12-31 （Comic Market 103 (未找到链接)）画集、​合同志 （一般向）B5&#160;尺寸 94&#160;页[](./私がご主人を慕い続ける理由について.md)[私がご主人を慕い続ける理由について](./私がご主人を慕い続ける理由について.md)首发日期：2024-05-03 （第二十一回 博麗神社例大祭 (未找到链接)）漫画、​合同志 （一般向）B5&#160;尺寸 48&#160;页
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -51,6 +56,7 @@
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 参展信息

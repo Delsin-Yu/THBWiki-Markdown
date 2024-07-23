@@ -4,7 +4,8 @@
 
 FLANKER ，于 2012 年成立，主要制作 同人音乐 的日本同人社团，主催是 犬猫好きのメタラー，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -15,12 +16,14 @@ FLANKER ，于 2012 年成立，主要制作 同人音乐 的日本同人社团�
 
 
 
+
 ## 社团信息
 [](./文件-FLANKERbanner.jpg.md)  [](./文件-FLANKERbanner.jpg.md)banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> FLANKER </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2012</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=%E7%8A%AC%E7%8C%AB%E5%A5%BD%E3%81%8D%E3%81%AE%E3%83%A1%E3%82%BF%E3%83%A9%E3%83%BC&amp;action=edit&amp;redlink=1" class="new" title="犬猫好きのメタラー（页面不存在）">犬猫好きのメタラー</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://flankerdoujin.web.fc2.com/">http://flankerdoujin.web.fc2.com/</a> <br><a rel="nofollow" class="external free" href="https://soundcloud.com/flanker-metaler-san">https://soundcloud.com/flanker-metaler-san</a><br><a rel="nofollow" class="external free" href="https://twitter.com/Flankerdoujin">https://twitter.com/Flankerdoujin</a><br><a rel="nofollow" class="external free" href="http://www.dlsite.com/home/circle/profile/=/maker_id/RG26488.html">http://www.dlsite.com/home/circle/profile/=/maker_id/RG26488.html</a></td></tr></tbody></table>
 
 FLANKER（同人社团，同人音乐社团） - FLANKER ，于 2012 年成立，主要制作 同人音乐 的日本同人社团，主催是 犬猫好きのメタラー，当前状态为 活动
+
 ## 成员名单
 - 犬猫好きのメタラー (未找到链接) (也叫ジュラーブリグ (未找到链接)。作Eurobeat曲的时候叫DJ Nonke (未找到链接))
 
@@ -31,6 +34,7 @@ FLANKER（同人社团，同人音乐社团） - FLANKER ，于 2012 年成立�
 : [Twitter: @Alice_Grimoire](https://twitter.com/Alice_Grimoire)
 
 - あちゃ (未找到链接)
+
 
 ## 作品列表
 [](./即身仏.md)[即身仏](./即身仏.md)首发日期：2012-10-28 （M3-2012秋 (未找到链接)）EP （一般向）[](./If_They_Live_Here_….md)[If They Live Here …](./If_They_Live_Here_….md)首发日期：2012-10-28 （M3-2012秋 (未找到链接)）全长 （一般向）[](./Fantasy_For_Riders.md)[Fantasy For Riders](./Fantasy_For_Riders.md)首发日期：2013-01-27 （遊音ファンタジウム2 (未找到链接)）EP （一般向）[](./Strange_Love.md)[Strange Love](./Strange_Love.md)首发日期：2013-04-29 （M3-2013春 (未找到链接)）EP （一般向）[](./魔法少女たちのEUROBEATS百年祭.md)[魔法少女たちのEUROBEATS百年祭](./魔法少女たちのEUROBEATS百年祭.md)首发日期：2013-05-26 （第十回 博麗神社例大祭 (未找到链接)）EP （一般向）[](./Mafia_In_The_Fantasy_World.md)[Mafia In The Fantasy World](./Mafia_In_The_Fantasy_World.md)首发日期：2013-08-12 （Comic Market 84 (未找到链接)）全长 （一般向）[](./Crack_In_The_Sky.md)[Crack In The Sky](./Crack_In_The_Sky.md)首发日期：2014-04-27 （M3-2014春 (未找到链接)）EP （一般向）[](./～東方戦国絵巻～_地霊達の退き口.md)[～東方戦国絵巻～ 地霊達の退き口](./～東方戦国絵巻～_地霊達の退き口.md)首发日期：2014-08-16 （Comic Market 86 (未找到链接)）EP （一般向）[](./Shing_Me….md)[Shing Me…](./Shing_Me….md)首发日期：2014-11-24 （第一回 博麗神社秋季例大祭 (未找到链接)）EP （一般向）[](./東方L○UDPARK.md)[東方L○UDPARK](./東方L○UDPARK.md)首发日期：2015-05-10 （第十二回 博麗神社例大祭 (未找到链接)）全长 （一般向）[](./Story_Of_A_Victory.md)[Story Of A Victory](./Story_Of_A_Victory.md)首发日期：2015-08-14 （Comic Market 88 (未找到链接)）全长 （一般向）[](./Princess_Of_A_Darkness.md)[Princess Of A Darkness](./Princess_Of_A_Darkness.md)首发日期：2015-10-18 （第二回 博麗神社秋季例大祭 (未找到链接)）EP （一般向）[](./PYGMALIONISM.md)[PYGMALIONISM](./PYGMALIONISM.md)首发日期：2016-05-08 EP （一般向）[](./Her_Treasure.md)[Her Treasure](./Her_Treasure.md)首发日期：2016-08-13 （Comic Market 90 (未找到链接)）全长 （一般向）[](./Sound_of_Witches!.md)[Sound of Witches!](./Sound_of_Witches!.md)首发日期：2016-10-09 （東方紅楼夢12 (未找到链接)）FBR-0001EP、​合作 （一般向）该作品是与 [Reset All Controllers](./Reset_All_Controllers.md)、​[Bullet IX](./Bullet_IX.md) 合作创作的Regard For You 封面图片 (未找到链接)Regard For You (未找到链接)首发日期：未知 - [](./東方戦国絵巻～ツェペッシュの紅備え～.md)[東方戦国絵巻～ツェペッシュの紅備え～](./東方戦国絵巻～ツェペッシュの紅備え～.md)首发日期：2017-05-07 （第十四回 博麗神社例大祭 (未找到链接)）全长 （一般向）[](./唵吠室囉所縛拏野莎賀.md)[唵吠室囉所縛拏野莎賀](./唵吠室囉所縛拏野莎賀.md)首发日期：2017-08-11 （Comic Market 92 (未找到链接)）全长 （一般向）[](./血染めの桜.md)[血染めの桜](./血染めの桜.md)首发日期：2017-10-15 （第四回 博麗神社秋季例大祭 (未找到链接)）全长 （一般向）[](./風魔天衝.md)[風魔天衝](./風魔天衝.md)首发日期：2017-10-15 （第四回 博麗神社秋季例大祭 (未找到链接)）FBR-0002EP （一般向）该作品是与 [Reset All Controllers](./Reset_All_Controllers.md)、​[Bullet IX](./Bullet_IX.md) 合作创作的[](./Darkest_Night.md)[Darkest Night](./Darkest_Night.md)首发日期：2018-05-06 （第十五回 博麗神社例大祭 (未找到链接)）全长 （一般向）[](./Flowering_Rider.md)[Flowering Rider](./Flowering_Rider.md)首发日期：2018-08-10 （Comic Market 94 (未找到链接)）全长 （一般向）[](./絶海の孤島.md)[絶海の孤島](./絶海の孤島.md)首发日期：2018-08-10 （Comic Market 94 (未找到链接)）全长 （一般向）[](./We_Win_This_Battle.md)[We Win This Battle](./We_Win_This_Battle.md)首发日期：2018-10-14 （第五回 博麗神社秋季例大祭 (未找到链接)）全长 （一般向）[](./モリヤさん。.md)[モリヤさん。](./モリヤさん。.md)首发日期：2018-10-14 （第五回 博麗神社秋季例大祭 (未找到链接)）FBR-0003EP、​合作 （一般向）该作品是与 [Reset All Controllers](./Reset_All_Controllers.md)、​[Bullet IX](./Bullet_IX.md) 合作创作的[](./Warrior.md)[Warrior](./Warrior.md)首发日期：2019-05-05 （第十六回 博麗神社例大祭 (未找到链接)）全长 （一般向）[](./この餅、長持ち。.md)[この餅、長持ち。](./この餅、長持ち。.md)首发日期：2019-08-12 （Comic Market 96 (未找到链接)）全长 （一般向）東方戦国絵巻～ツェペッシュの紅備え～ 2109 ver. 封面图片 (未找到链接)東方戦国絵巻～ツェペッシュの紅備え～ 2109 ver. (未找到链接)首发日期：未知 - [](./So_Shock!!.md)[So Shock!!](./So_Shock!!.md)首发日期：2019-10-06 （第六回 博麗神社秋季例大祭 (未找到链接)）全长 （一般向）[](./Happy_Ghosts_Life.md)[Happy Ghosts Life](./Happy_Ghosts_Life.md)首发日期：2019-10-06 （第六回 博麗神社秋季例大祭 (未找到链接)）全长 （一般向）
@@ -92,6 +96,7 @@ FLANKER（同人社团，同人音乐社团） - FLANKER ，于 2012 年成立�
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 参展信息

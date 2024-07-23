@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-EXTEND封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/2/29/EXTEND%E5%B0%81%E9%9D%A2.png/155px-EXTEND%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="155" height="224" srcset="https://upload.thwiki.cc/thumb/2/29/EXTEND%E5%B0%81%E9%9D%A2.png/233px-EXTEND%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/2/29/EXTEND%E5%B0%81%E9%9D%A2.png/311px-EXTEND%E5%B0%81%E9%9D%A2.png 2x" data-file-width="618" data-file-height="890"></a><div class="cover-char">角色：<a href="./宇佐见莲子.md" title="宇佐见莲子">宇佐见莲子</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://shirofoxx.blog130.fc2.com/blog-entry-259.html">http://shirofoxx.blog130.fc2.com/blog-entry-259.html</a></td></tr></tbody></table>
 
 EXTEND（同人志，電派絵師団，2014） - 2014年12月29日 由 電派絵師団 于 Comic Market 87 发布的漫画同人志，B5尺寸一共28页，登场人物有 宇佐见莲子、玛艾露贝莉·赫恩，分级为 一般向
+
 ## Staff
 - しろし
+
 
 ## 评论
   

@@ -6,11 +6,13 @@
 
 本页是关于东方Project  
  **相关实体周边 (未找到链接)** 的词条
+
 ## 模型信息
 
 <table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 藤原妹红 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>透明ver</td></tr><tr><td class="label">角色</td><td><a href="./藤原妹红.md" title="藤原妹红">藤原妹红</a></td></tr><tr><td class="label">原型师</td><td><a href="/index.php?title=I-con&amp;action=edit&amp;redlink=1" class="new" title="I-con（页面不存在）">I-con</a></td></tr><tr><td class="label">比例</td><td>1/8</td></tr><tr><td class="label">尺寸</td><td>200mm</td></tr><tr><td class="label">状态</td><td>已发售</td></tr><tr><td class="label">展会限定</td><td>WF2011 冬</td></tr><tr><td class="label">售价</td><td>7619日元</td></tr><tr><td class="label">首发日期</td><td>2011-06-02</td></tr><tr><td class="label">发售方</td><td><a href="/index.php?title=GRIFFON&amp;action=edit&amp;redlink=1" class="new" title="GRIFFON（页面不存在）">GRIFFON</a></td></tr><tr><td class="label">再版日期</td><td>2012</td></tr><tr><td class="label">备注</td><td>限定300体</td></tr></tbody></table>
 
 GRIFFON/透明ver/藤原妹红（周边） - 藤原妹红PVCFigure手办模型
+
 ## 参考图片
 
 

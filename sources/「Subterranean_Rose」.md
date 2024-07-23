@@ -1,0 +1,156 @@
+# Subterranean_Rose
+
+<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\f3\ns0%3ASubterranean_Rose.html -->
+
+官方符卡
+
+本页是关于 **[符卡](./符卡.md#符卡)（SpellCard）** 的词条Subterranean Rose（符卡） - 官方符卡
+
+<table>
+
+<tbody><tr>
+<th>中文名</th>
+<th>日文名
+</th></tr>
+<tr>
+<td>「Subterranean Rose」（地底蔷薇）</td>
+<td>「サブタレイニアンローズ」
+</td></tr>
+<tr>
+<td>「蔷薇地狱」</td>
+<td>「ローズ地獄」
+</td></tr></tbody></table>
+
+
+  
+  
+
+  
+
+
+## 目录
+
+- [1 登场](#登场)
+
+  - [1.1 东方地灵殿](#东方地灵殿)
+  - [1.2 东方文花帖DS](#东方文花帖DS)
+
+
+
+- [2 符卡说明](#符卡说明)
+
+  - [2.1 东方文花帖DS](#东方文花帖DS_2)
+
+
+
+- [3 其他内容](#其他内容)
+
+  - [3.1 游戏资料](#游戏资料)
+  - [3.2 分析考据](#分析考据)
+
+
+
+- [4 导航](#导航)
+
+
+
+
+
+## 登场
+
+### 东方地灵殿
+
+<table>
+
+<tbody><tr>
+<td><div class="noclear thumb tleft" style="width: 192px;">
+<div class="thumbinner">
+<div style="margin: 1px; width: 182px">
+<div class="thumbimage"><a href="./文件-「Subterranean_Rose」（地灵殿）-1.jpg.md" class="image"><img alt="" src="https://upload.thwiki.cc/thumb/0/08/%E3%80%8CSubterranean_Rose%E3%80%8D%EF%BC%88%E5%9C%B0%E7%81%B5%E6%AE%BF%EF%BC%89-1.jpg/180px-%E3%80%8CSubterranean_Rose%E3%80%8D%EF%BC%88%E5%9C%B0%E7%81%B5%E6%AE%BF%EF%BC%89-1.jpg" decoding="async" loading="lazy" width="180" height="210" srcset="https://upload.thwiki.cc/thumb/0/08/%E3%80%8CSubterranean_Rose%E3%80%8D%EF%BC%88%E5%9C%B0%E7%81%B5%E6%AE%BF%EF%BC%89-1.jpg/270px-%E3%80%8CSubterranean_Rose%E3%80%8D%EF%BC%88%E5%9C%B0%E7%81%B5%E6%AE%BF%EF%BC%89-1.jpg 1.5x, https://upload.thwiki.cc/thumb/0/08/%E3%80%8CSubterranean_Rose%E3%80%8D%EF%BC%88%E5%9C%B0%E7%81%B5%E6%AE%BF%EF%BC%89-1.jpg/360px-%E3%80%8CSubterranean_Rose%E3%80%8D%EF%BC%88%E5%9C%B0%E7%81%B5%E6%AE%BF%EF%BC%89-1.jpg 2x" data-file-width="384" data-file-height="448"></a>
+</div>
+</div><div style="margin: 1px; width: 182px">
+<div class="thumbimage"><a href="./文件-「Subterranean_Rose」（地灵殿）-2.jpg.md" class="image"><img alt="" src="https://upload.thwiki.cc/thumb/9/93/%E3%80%8CSubterranean_Rose%E3%80%8D%EF%BC%88%E5%9C%B0%E7%81%B5%E6%AE%BF%EF%BC%89-2.jpg/180px-%E3%80%8CSubterranean_Rose%E3%80%8D%EF%BC%88%E5%9C%B0%E7%81%B5%E6%AE%BF%EF%BC%89-2.jpg" decoding="async" loading="lazy" width="180" height="210" srcset="https://upload.thwiki.cc/thumb/9/93/%E3%80%8CSubterranean_Rose%E3%80%8D%EF%BC%88%E5%9C%B0%E7%81%B5%E6%AE%BF%EF%BC%89-2.jpg/270px-%E3%80%8CSubterranean_Rose%E3%80%8D%EF%BC%88%E5%9C%B0%E7%81%B5%E6%AE%BF%EF%BC%89-2.jpg 1.5x, https://upload.thwiki.cc/thumb/9/93/%E3%80%8CSubterranean_Rose%E3%80%8D%EF%BC%88%E5%9C%B0%E7%81%B5%E6%AE%BF%EF%BC%89-2.jpg/360px-%E3%80%8CSubterranean_Rose%E3%80%8D%EF%BC%88%E5%9C%B0%E7%81%B5%E6%AE%BF%EF%BC%89-2.jpg 2x" data-file-width="384" data-file-height="448"></a>
+</div>
+</div><div style="margin: 1px; width: 182px">
+<div class="thumbimage"><a href="./文件-「Subterranean_Rose」（地灵殿）-3.jpg.md" class="image"><img alt="" src="https://upload.thwiki.cc/thumb/d/dd/%E3%80%8CSubterranean_Rose%E3%80%8D%EF%BC%88%E5%9C%B0%E7%81%B5%E6%AE%BF%EF%BC%89-3.jpg/180px-%E3%80%8CSubterranean_Rose%E3%80%8D%EF%BC%88%E5%9C%B0%E7%81%B5%E6%AE%BF%EF%BC%89-3.jpg" decoding="async" loading="lazy" width="180" height="210" srcset="https://upload.thwiki.cc/thumb/d/dd/%E3%80%8CSubterranean_Rose%E3%80%8D%EF%BC%88%E5%9C%B0%E7%81%B5%E6%AE%BF%EF%BC%89-3.jpg/270px-%E3%80%8CSubterranean_Rose%E3%80%8D%EF%BC%88%E5%9C%B0%E7%81%B5%E6%AE%BF%EF%BC%89-3.jpg 1.5x, https://upload.thwiki.cc/thumb/d/dd/%E3%80%8CSubterranean_Rose%E3%80%8D%EF%BC%88%E5%9C%B0%E7%81%B5%E6%AE%BF%EF%BC%89-3.jpg/360px-%E3%80%8CSubterranean_Rose%E3%80%8D%EF%BC%88%E5%9C%B0%E7%81%B5%E6%AE%BF%EF%BC%89-3.jpg 2x" data-file-width="384" data-file-height="448"></a>
+</div>
+</div><div style="margin: 1px; width: 182px">
+<div class="thumbimage"><a href="./文件-「Subterranean_Rose」（地灵殿）-4.jpg.md" class="image"><img alt="" src="https://upload.thwiki.cc/thumb/3/3b/%E3%80%8CSubterranean_Rose%E3%80%8D%EF%BC%88%E5%9C%B0%E7%81%B5%E6%AE%BF%EF%BC%89-4.jpg/180px-%E3%80%8CSubterranean_Rose%E3%80%8D%EF%BC%88%E5%9C%B0%E7%81%B5%E6%AE%BF%EF%BC%89-4.jpg" decoding="async" loading="lazy" width="180" height="210" srcset="https://upload.thwiki.cc/thumb/3/3b/%E3%80%8CSubterranean_Rose%E3%80%8D%EF%BC%88%E5%9C%B0%E7%81%B5%E6%AE%BF%EF%BC%89-4.jpg/270px-%E3%80%8CSubterranean_Rose%E3%80%8D%EF%BC%88%E5%9C%B0%E7%81%B5%E6%AE%BF%EF%BC%89-4.jpg 1.5x, https://upload.thwiki.cc/thumb/3/3b/%E3%80%8CSubterranean_Rose%E3%80%8D%EF%BC%88%E5%9C%B0%E7%81%B5%E6%AE%BF%EF%BC%89-4.jpg/360px-%E3%80%8CSubterranean_Rose%E3%80%8D%EF%BC%88%E5%9C%B0%E7%81%B5%E6%AE%BF%EF%BC%89-4.jpg 2x" data-file-width="384" data-file-height="448"></a>
+</div>
+</div><div class="thumbcaption" style="clear: left; text-align: left;">「Subterranean Rose」
+</div>
+</div>
+</div>
+</td>
+<td>
+<p>Extra面BOSS古明地恋符卡。
+</p>
+</td></tr></tbody></table>
+
+
+
+
+### 东方文花帖DS
+
+<table>
+
+<tbody><tr>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:302px;"><a href="./文件-「蔷薇地狱」（DS文花帖）.jpg.md" class="image"><img alt="" src="https://upload.thwiki.cc/thumb/c/c9/%E3%80%8C%E8%94%B7%E8%96%87%E5%9C%B0%E7%8B%B1%E3%80%8D%EF%BC%88DS%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89.jpg/300px-%E3%80%8C%E8%94%B7%E8%96%87%E5%9C%B0%E7%8B%B1%E3%80%8D%EF%BC%88DS%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89.jpg" decoding="async" loading="lazy" width="300" height="350" class="thumbimage" srcset="https://upload.thwiki.cc/c/c9/%E3%80%8C%E8%94%B7%E8%96%87%E5%9C%B0%E7%8B%B1%E3%80%8D%EF%BC%88DS%E6%96%87%E8%8A%B1%E5%B8%96%EF%BC%89.jpg 1.5x" data-file-width="384" data-file-height="448"></a>  <div class="thumbcaption"><div class="magnify"><a href="./文件-「蔷薇地狱」（DS文花帖）.jpg.md" class="internal" title="放大"></a></div>「蔷薇地狱」</div></div></div>
+</td>
+<td>
+<p>Level 9BOSS古明地恋9-8符卡。
+</p>
+</td></tr></tbody></table>
+
+
+
+
+## 符卡说明
+
+### 东方文花帖DS
+
+<table><tbody><tr class="tt-content-header" id="Level_9-50" data-pos="&#91;&quot;Level 9&quot;,50&#93;"><td class="tt-jah" lang="ja"><div class="poem">「ローズ地獄」</div></td><td class="tt-zhh" lang="zh"><div class="poem"><a href="./「蔷薇地狱」.md" class="mw-redirect" title="「蔷薇地狱」">「蔷薇地狱」</a></div></td></tr><tr class="tt-header" id="Level_9-51" data-pos="&#91;&quot;Level 9&quot;,51&#93;"><td colspan="2" id="射命丸文的评价" class="tt-header" lang="zh"><div class="poem">射命丸文的评价</div></td></tr><tr class="tt-content" id="Level_9-52" data-pos="&#91;&quot;Level 9&quot;,52&#93;"><td class="tt-ja" lang="ja"><div class="poem">刺々しい弾幕です。心の奥底は誰しも刺々しい物だそうです<br>そりゃそうですよね。私も刺々しいですよ。この写真でネタが<br>書けなければ殴り込みに行こうかと思っています</div></td><td class="tt-zh" lang="zh"><div class="poem">扎心的弹幕。似乎每个人的心事都是很伤人的<br>这么说也是呀。我的心事也是哟。要是这张照片<br>写不成报道的话我会去找碴儿揍人的</div></td></tr><tr class="tt-header" id="Level_9-53" data-pos="&#91;&quot;Level 9&quot;,53&#93;"><td colspan="2" id="姬海棠的评价" class="tt-header" lang="zh"><div class="poem">姬海棠果的评价</div></td></tr><tr class="tt-content" id="Level_9-54" data-pos="&#91;&quot;Level 9&quot;,54&#93;"><td class="tt-ja" lang="ja"><div class="poem">薔薇の地獄だってさ。高貴なんだか下品なんだか判らないね<br>薔薇って匂いがきついけど鼻炎の人には効果が薄そうかな<br>そんな地獄で人呼べるのかなぁ</div></td><td class="tt-zh" lang="zh"><div class="poem">蔷薇地狱。说不清是高贵还是粗俗<br>虽然蔷薇的香味很浓烈，不过对鼻炎患者好像没什么效果<br>这样的地狱会有人气吗</div></td></tr><tr class="tt-header" id="Level_9-55" data-pos="&#91;&quot;Level 9&quot;,55&#93;"><td colspan="2" id="符卡信息" class="tt-header" lang="zh"><div class="poem">符卡信息</div></td></tr><tr class="tt-text-header" id="Level_9-56" data-pos="&#91;&quot;Level 9&quot;,56&#93;"><td colspan="2" class="tt-text" lang="zh"><div class="poem">Level 9 BOSS古明地恋9-8符卡。<br></div></td></tr></tbody></table>
+
+
+
+## 其他内容
+
+### 游戏资料
+  
+<big>
+</big>  
+<big>- [游戏资料](./Subterranean_Rose-游戏资料.md)
+</big><big></big>  
+<big></big>
+  
+
+
+### 分析考据
+  
+<big>
+</big>  
+<big>- [分析与考据](./Subterranean_Rose-分析与考据.md)
+</big><big></big>  
+<big></big>
+  
+
+
+## 导航
+
+<table><tbody><tr><td><table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;;;"><tbody><tr><th style=";" colspan="3" class="navbox-title"><div class="navbar"><div class="noprint plainlinksneverexpand" style="background-color:transparent; padding:0; font-weight:normal; font-size:80%; white-space:nowrap;"><a href="./模板-古明地恋符卡导航.md" title="模板:古明地恋符卡导航"><span style=";;border:none;" title="查看这个模板">查</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<a href="/index.php?title=%E6%A8%A1%E6%9D%BF:%E5%8F%A4%E6%98%8E%E5%9C%B0%E6%81%8B%E7%AC%A6%E5%8D%A1%E5%AF%BC%E8%88%AA&amp;action=edit"><span style=";;border:none;" title="您可以编辑这个模板。请在储存变更之前先预览">编</span></a></div></div><span><a href="./古明地恋.md" title="古明地恋">古明地恋</a>符卡</span></th></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">射击游戏</td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div><a href="./东方地灵殿.md" title="东方地灵殿">东方地灵殿</a></div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./表象「列祖列宗入梦来」.md" class="mw-redirect" title="表象「列祖列宗入梦来」">表象「列祖列宗入梦来」</a> &#8226; <a href="./表象「弹幕偏执症」.md" class="mw-redirect" title="表象「弹幕偏执症」">表象「弹幕偏执症」</a> &#8226; <a href="./本能「本我的解放」.md" class="mw-redirect" title="本能「本我的解放」">本能「本我的解放」</a> &#8226; <a href="./抑制「Super_Ego」.md" class="mw-redirect" title="抑制「Super Ego」">抑制「Super Ego」</a> &#8226; <a href="./反应「妖怪测谎机」.md" class="mw-redirect" title="反应「妖怪测谎机」">反应「妖怪测谎机」</a> &#8226; <a href="./无意识「弹幕的墨迹测验」.md" class="mw-redirect" title="无意识「弹幕的墨迹测验」">无意识「弹幕的墨迹测验」</a> &#8226; <a href="./复燃「恋爱的埋火」.md" class="mw-redirect" title="复燃「恋爱的埋火」">复燃「恋爱的埋火」</a> &#8226; <a href="./深层「无意识的基因」.md" class="mw-redirect" title="深层「无意识的基因」">深层「无意识的基因」</a> &#8226; <a href="./「被厌恶者的哲学」.md" class="mw-redirect" title="「被厌恶者的哲学」">「被厌恶者的哲学」</a> &#8226; <a href="./「Subterranean_Rose」.md" class="mw-redirect" title="「Subterranean Rose」">「Subterranean Rose」</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div><a href="./东方文花帖DS.md" title="东方文花帖DS">东方文花帖DS</a></div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./心符「没我之爱」.md" class="mw-redirect" title="心符「没我之爱」">心符「没我之爱」</a> &#8226; <a href="./记忆「DNA的瑕疵」.md" class="mw-redirect" title="记忆「DNA的瑕疵」">记忆「DNA的瑕疵」</a> &#8226; <a href="./「胎儿之梦」.md" class="mw-redirect" title="「胎儿之梦」">「胎儿之梦」</a> &#8226; <a href="./「蔷薇地狱」.md" class="mw-redirect" title="「蔷薇地狱」">「蔷薇地狱」</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div><a href="./秘封噩梦日记.md" title="秘封噩梦日记">秘封噩梦日记</a></div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./地妖符「本我的式神」.md" class="mw-redirect" title="地妖符「本我的式神」">地妖符「本我的式神」</a> &#8226; <a href="./「Perfect_Mind_Control」.md" class="mw-redirect" title="「Perfect Mind Control」">「Perfect Mind Control」</a> &#8226; <a href="./地灵符「Mind_Stellar_Relief」.md" class="mw-redirect" title="地灵符「Mind Stellar Relief」">地灵符「Mind Stellar Relief」</a></div></td></tr></tbody></table><div></div></td><td class="navbox-image" style="" rowspan="5"><a href="./文件-古明地恋（Q版立绘）.png.md" class="image"><img alt="古明地恋（Q版立绘）.png" src="https://upload.thwiki.cc/thumb/2/2b/%E5%8F%A4%E6%98%8E%E5%9C%B0%E6%81%8B%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png/160px-%E5%8F%A4%E6%98%8E%E5%9C%B0%E6%81%8B%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="160" height="160" srcset="https://upload.thwiki.cc/thumb/2/2b/%E5%8F%A4%E6%98%8E%E5%9C%B0%E6%81%8B%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png/240px-%E5%8F%A4%E6%98%8E%E5%9C%B0%E6%81%8B%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/2/2b/%E5%8F%A4%E6%98%8E%E5%9C%B0%E6%81%8B%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png/320px-%E5%8F%A4%E6%98%8E%E5%9C%B0%E6%81%8B%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="500" data-file-height="500"></a></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">格斗游戏</td><td style=";;" class="navbox-list navbox-even"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div><a href="./东方心绮楼.md" title="东方心绮楼">东方心绮楼</a></div></td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>对战符卡</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./抑制「Super_Ego」.md" class="mw-redirect" title="抑制「Super Ego」">抑制「Super Ego」</a> &#8226; <a href="./本能「本我的解放」.md" class="mw-redirect" title="本能「本我的解放」">本能「本我的解放」</a> &#8226; <a href="./梦符「先祖大人在看着你」.md" class="mw-redirect" title="梦符「先祖大人在看着你」">梦符「先祖大人在看着你」</a> &#8226; <a href="./「Brambly_Rose_Garden」.md" class="mw-redirect" title="「Brambly Rose Garden」">「Brambly Rose Garden」</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>故事符卡</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./本能「Freudian」.md" class="mw-redirect" title="本能「Freudian」">本能「Freudian」</a> &#8226; <a href="./茨符「Confined_Innocent」.md" class="mw-redirect" title="茨符「Confined Innocent」">茨符「Confined Innocent」</a></div></td></tr></tbody></table><div></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div><a href="./东方深秘录.md" title="东方深秘录">东方深秘录</a></div></td><td style=";;" class="navbox-list navbox-even"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>对战符卡</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./抑制「Super_Ego」.md" class="mw-redirect" title="抑制「Super Ego」">抑制「Super Ego」</a> &#8226; <a href="./本能「本我的解放」.md" class="mw-redirect" title="本能「本我的解放」">本能「本我的解放」</a> &#8226; <a href="./梦符「先祖大人在看着你」.md" class="mw-redirect" title="梦符「先祖大人在看着你」">梦符「先祖大人在看着你」</a> &#8226; <a href="./＊现在就给你打电话别忘了接哦＊.md" class="mw-redirect" title="＊现在就给你打电话别忘了接哦＊">＊现在就给你打电话别忘了接哦＊</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>故事符卡</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./＊被诅咒的响一声电话＊.md" class="mw-redirect" title="＊被诅咒的响一声电话＊">＊被诅咒的响一声电话＊</a></div></td></tr></tbody></table><div></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div><a href="./东方凭依华.md" title="东方凭依华">东方凭依华</a></div></td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>对战符卡</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./抑制「Super_Ego」.md" class="mw-redirect" title="抑制「Super Ego」">抑制「Super Ego」</a> &#8226; <a href="./本能「本我的解放」.md" class="mw-redirect" title="本能「本我的解放」">本能「本我的解放」</a> &#8226; <a href="./梦符「先祖大人在看着你」.md" class="mw-redirect" title="梦符「先祖大人在看着你」">梦符「先祖大人在看着你」</a> &#8226; <a href="./＊现在就给你打电话别忘了接哦＊.md" class="mw-redirect" title="＊现在就给你打电话别忘了接哦＊">＊现在就给你打电话别忘了接哦＊</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>故事符卡</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./星恋符「Sprinkle_Star_&_Heart」.md" class="mw-redirect" title="星恋符「Sprinkle Star &amp; Heart」">星恋符「Sprinkle Star &amp; Heart」</a> &#8226; <a href="./恋拳符「玫瑰狂想曲怪云拳」.md" class="mw-redirect" title="恋拳符「玫瑰狂想曲怪云拳」">恋拳符「玫瑰狂想曲怪云拳」</a> &#8226; <a href="./槌恋符「大判小判叮叮当心」.md" class="mw-redirect" title="槌恋符「大判小判叮叮当心」">槌恋符「大判小判叮叮当心」</a></div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">出版物</td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div><a href="./魔理沙的魔法书.md" class="mw-redirect" title="魔理沙的魔法书">魔理沙的魔法书</a></div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./表象「列祖列宗入梦来」.md" class="mw-redirect" title="表象「列祖列宗入梦来」">表象「列祖列宗入梦来」</a> &#8226; <a href="./表象「弹幕偏执症」.md" class="mw-redirect" title="表象「弹幕偏执症」">表象「弹幕偏执症」</a> &#8226; <a href="./反应「妖怪测谎机」.md" class="mw-redirect" title="反应「妖怪测谎机」">反应「妖怪测谎机」</a> &#8226; <a href="./无意识「弹幕的墨迹测验」.md" class="mw-redirect" title="无意识「弹幕的墨迹测验」">无意识「弹幕的墨迹测验」</a> &#8226; <a href="./本能「本我的解放」.md" class="mw-redirect" title="本能「本我的解放」">本能「本我的解放」</a> &#8226; <a href="./抑制「Super_Ego」.md" class="mw-redirect" title="抑制「Super Ego」">抑制「Super Ego」</a> &#8226; <a href="./「被厌恶者的哲学」.md" class="mw-redirect" title="「被厌恶者的哲学」">「被厌恶者的哲学」</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div><a href="./东方文果真报.md" title="东方文果真报">东方文果真报</a></div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./本能「本我的解放」.md" class="mw-redirect" title="本能「本我的解放」">本能「本我的解放」</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div><a href="./宇佐见的魔法书.md" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a></div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./记忆「DNA的瑕疵」.md" class="mw-redirect" title="记忆「DNA的瑕疵」">记忆「DNA的瑕疵」</a> &#8226; <a href="./「胎儿之梦」.md" class="mw-redirect" title="「胎儿之梦」">「胎儿之梦」</a></div></td></tr></tbody></table><div></div></td></tr></tbody></table></td></tr></tbody></table>
+
+
+
+
+
+
+---
+
+此文档由 [THBWiki-Markdown-Builder](https://github.com/Delsin-Yu/THBWiki-Markdown-Builder) 构建。
+
+文档中的所有内容除特殊注明外，均在 [**知识共享(Creative Commons) 署名-非商业性使用-相同方式共享 3.0 协议**](https://creativecommons.org/licenses/by-sa/3.0/deed.zh-hans) 下提供，附加条款亦可能应用。
+
+引用类型与其他类型作品版权归原作者所有，如有作者授权则遵照授权协议使用。
+
+详细请查阅 [THBWiki：免责声明](https://thbwiki.cc/THBWiki:%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E)。
+

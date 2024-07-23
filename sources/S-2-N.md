@@ -4,7 +4,8 @@
 
 S-2-N（Signal-to-Noise） ，主要制作 同人音乐 的日本同人社团，当前状态为 休止
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -20,17 +21,21 @@ S-2-N（Signal-to-Noise） ，主要制作 同人音乐 的日本同人社团，
 
 
 
+
 ## 社团信息
 文件:S-2-Nbanner.jpg (未找到链接)  banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> S-2-N（Signal-to-Noise） </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://s2n.webcrow.jp/discography">http://s2n.webcrow.jp/discography</a> </td></tr></tbody></table>
 
 S-2-N（同人社团，同人音乐社团） - S-2-N（Signal-to-Noise） ，主要制作 同人音乐 的日本同人社团，当前状态为 休止
+
 ## 成员名单
 - [ナル](./ナル.md)
 - [schne](./schne.md)
 
+
 ## 作品列表
+
 ### 同人专辑
 New Frontier 封面图片 (未找到链接)[New Frontier](./New_Frontier.md)首发日期：2017-05-07 （第十四回 博麗神社例大祭 (未找到链接)）全长 （一般向）Resonance Effect 封面图片 (未找到链接)[Resonance Effect](./Resonance_Effect.md)首发日期：2016-07-17 （金沢東方祭5 (未找到链接)）EP （一般向）Twilight Memory 封面图片 (未找到链接)Twilight Memory (未找到链接)首发日期：未知 - [](./NIGHT_FLIGHT.md)[NIGHT FLIGHT](./NIGHT_FLIGHT.md)首发日期：2017-05-07 （第十四回 博麗神社例大祭 (未找到链接)）全长 （一般向）[](./FLIP-FLOP.md)[FLIP-FLOP](./FLIP-FLOP.md)首发日期：2017-10-15 （第四回 博麗神社秋季例大祭 (未找到链接)）全长 （一般向）
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -42,6 +47,7 @@ New Frontier 封面图片 (未找到链接)[New Frontier](./New_Frontier.md)首�
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 参展信息

@@ -4,6 +4,7 @@
 
 NOSBOAT | 社团LOGO
 
+
 ## 摘要
   
 源地址：[direct image link](https://web.archive.org/web/20131228230543im_/http://nosboat.miluda.com/nosbanner2.jpg), [source page](https://web.archive.org/web/20100902060847/http://nosboat.miluda.com/)

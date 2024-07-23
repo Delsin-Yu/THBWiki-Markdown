@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Akatsuki_Records_Illustration_Complete封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/5/51/Akatsuki_Records_Illustration_Complete%E5%B0%81%E9%9D%A2.jpg/196px-Akatsuki_Records_Illustration_Complete%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="196" height="69" srcset="https://upload.thwiki.cc/thumb/5/51/Akatsuki_Records_Illustration_Complete%E5%B0%81%E9%9D%A2.jpg/294px-Akatsuki_Records_Illustration_Complete%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/5/51/Akatsuki_Records_Illustration_Complete%E5%B0%81%E9%9D%A2.jpg/392px-Akatsuki_Records_Illustration_Complete%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="800" data-file-height="280"></a><div class="cover-char">角色：<a href="./古明地恋.md" title="古明地恋">古明地恋</a></div></td>
@@ -14,7 +15,9 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://akatsuki-records.com/drcd0011_12.html">http://akatsuki-records.com/drcd0011_12.html</a></td></tr></tbody></table>
 
 Akatsuki Records Illustration Complete（同人志，暁Records，原之，2015） - 2015年12月30日 由 暁Records，原之 于 Comic Market 89 发布的画集同人志，A4尺寸一共40页，登场人物有 古明地恋、芙兰朵露·斯卡雷特、射命丸文、堀川雷鼓、博丽灵梦、鬼人正邪、魂魄妖梦、八云紫、秦心，分级为 一般向
+
 ## Staff
+
 ## 评论
 
   

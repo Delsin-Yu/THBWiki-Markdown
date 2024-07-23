@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-OH,MY_AUTUMN_GOD!封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/0/0d/OH%2CMY_AUTUMN_GOD%21%E5%B0%81%E9%9D%A2.jpg/177px-OH%2CMY_AUTUMN_GOD%21%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="177" height="252" srcset="https://upload.thwiki.cc/thumb/0/0d/OH%2CMY_AUTUMN_GOD%21%E5%B0%81%E9%9D%A2.jpg/266px-OH%2CMY_AUTUMN_GOD%21%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/0/0d/OH%2CMY_AUTUMN_GOD%21%E5%B0%81%E9%9D%A2.jpg/355px-OH%2CMY_AUTUMN_GOD%21%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1237" data-file-height="1756"></a><div class="cover-char">角色：<a href="./秋穰子.md" title="秋穰子">秋穰子</a></div></td>
@@ -14,9 +15,12 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/arinutan/status/1464573810141589506">https://twitter.com/arinutan/status/1464573810141589506</a><br><a rel="nofollow" class="external free" href="https://twitter.com/arinutan/status/1463165150513487887">https://twitter.com/arinutan/status/1463165150513487887</a><br><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/94390733">https://www.pixiv.net/artworks/94390733</a></td></tr></tbody></table>
 
 OH,MY AUTUMN GOD!（同人志，アリヌの工作部屋，2021） - 2021年11月28日 由 アリヌの工作部屋 于 东方红楼梦17 发布的画集/总集同人志，B5尺寸一共90页，登场人物有 秋静叶、秋穰子，分级为 一般向
+
 ## 预览
+
 ## Staff
 - アリヌ (未找到链接)
+
 
 ## 评论
 

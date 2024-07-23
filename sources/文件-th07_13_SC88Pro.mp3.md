@@ -4,6 +4,7 @@
 
 东方妖妖梦 | 幽雅地绽放吧，墨染的樱花_～_Border_of_Life
 
+
 ## 文件说明
   
 幽雅に咲かせ、墨染の桜　～ Border of Life 东方妖妖梦6面Boss西行寺幽々子的主题曲MIDI版。由Roland Sound Canvas 88Pro实机录制；MP3采样率44.1KHz，码率192Kbps。  

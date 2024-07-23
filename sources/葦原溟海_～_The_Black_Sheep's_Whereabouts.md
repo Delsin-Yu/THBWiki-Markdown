@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-葦原溟海_～_The_Black_Sheep's_Whereabouts封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/e/e2/%E8%91%A6%E5%8E%9F%E6%BA%9F%E6%B5%B7_%EF%BD%9E_The_Black_Sheep%27s_Whereabouts%E5%B0%81%E9%9D%A2.jpg/224px-%E8%91%A6%E5%8E%9F%E6%BA%9F%E6%B5%B7_%EF%BD%9E_The_Black_Sheep%27s_Whereabouts%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="224" srcset="https://upload.thwiki.cc/thumb/e/e2/%E8%91%A6%E5%8E%9F%E6%BA%9F%E6%B5%B7_%EF%BD%9E_The_Black_Sheep%27s_Whereabouts%E5%B0%81%E9%9D%A2.jpg/336px-%E8%91%A6%E5%8E%9F%E6%BA%9F%E6%B5%B7_%EF%BD%9E_The_Black_Sheep%27s_Whereabouts%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/e/e2/%E8%91%A6%E5%8E%9F%E6%BA%9F%E6%B5%B7_%EF%BD%9E_The_Black_Sheep%27s_Whereabouts%E5%B0%81%E9%9D%A2.jpg/448px-%E8%91%A6%E5%8E%9F%E6%BA%9F%E6%B5%B7_%EF%BD%9E_The_Black_Sheep%27s_Whereabouts%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="2836" data-file-height="2836"></a><div class="cover-char">角色：<a href="/index.php?title=%E5%8E%9F%E5%88%9B%E8%A7%92%E8%89%B2&amp;action=edit&amp;redlink=1" class="new" title="原创角色（页面不存在）">原创角色</a></div></td>
@@ -18,7 +19,9 @@
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://th-genryuto.booth.pm/items/3734655">Booth</a></td></tr></tbody></table>
 
 
+
 ## Staff
+
 ## 试听
 
 <table>
@@ -31,6 +34,7 @@
 </td></tr></tbody></table>
 
 
+
 ## 曲目列表
 
 <table><tbody><tr><td id="1" class="info"><b>01</b></td><td id="遮二無二キュリオシティ" colspan="2" class="title">遮二無二キュリオシティ<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=葦原溟海_～_The_Black_Sheep's_Whereabouts"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr>
@@ -38,8 +42,9 @@
 <tr><td id="3" class="info"><b>03</b></td><td id="月華を知らぬ世界" colspan="2" class="title">月華を知らぬ世界<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=葦原溟海_～_The_Black_Sheep's_Whereabouts"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr>
 <tr><td id="4" class="info"><b>04</b></td><td id="ティミッドレストレイジスト" colspan="2" class="title">ティミッドレストレイジスト<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=葦原溟海_～_The_Black_Sheep's_Whereabouts"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr>
 <tr><td id="5" class="info"><b>05</b></td><td id="果てなき溟海、此処に顕現す_～_Grace_and_Punishment" colspan="2" class="title">果てなき溟海、此処に顕現す　～ Grace and Punishment<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=葦原溟海_～_The_Black_Sheep's_Whereabouts"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr>
-<tr><td id="6" class="info"><b>06</b></td><td id="幽霊客船の時空を越えた旅" colspan="2" class="title">幽霊客船の時空を越えた旅<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=幽霊客船の時空を越えた旅&amp;fromwiki=葦原溟海_～_The_Black_Sheep's_Whereabouts"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=幽霊客船の時空を越えた旅&amp;fromwiki=葦原溟海_～_The_Black_Sheep's_Whereabouts"><span></span></a></span><div class="ogmusic"><a href="/%E5%B9%BD%E9%9C%8A%E5%AE%A2%E8%88%B9%E3%81%AE%E6%99%82%E7%A9%BA%E3%82%92%E8%B6%8A%E3%81%88%E3%81%9F%E6%97%85" class="mw-redirect" title="幽霊客船の時空を越えた旅">幽霊客船の時空を越えた旅</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E6%98%9F%E8%8E%B2%E8%88%B9_%EF%BD%9E_Undefined_Fantastic_Object." class="mw-redirect" title="东方星莲船 ～ Undefined Fantastic Object.">东方星莲船　～ Undefined Fantastic Object.</a></div></td></tr>
-<tr><td id="7" class="info"><b>07</b></td><td id="有頂天変_～_Wonderful_Heaven" colspan="2" class="title">有頂天変　～ Wonderful Heaven<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=有頂天変　～ Wonderful Heaven&amp;fromwiki=葦原溟海_～_The_Black_Sheep's_Whereabouts"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=有頂天変　～ Wonderful Heaven&amp;fromwiki=葦原溟海_～_The_Black_Sheep's_Whereabouts"><span></span></a></span><div class="ogmusic"><a href="/%E6%9C%89%E9%A0%82%E5%A4%A9%E5%A4%89_%EF%BD%9E_Wonderful_Heaven" class="mw-redirect" title="有頂天変 ～ Wonderful Heaven">有頂天変　～ Wonderful Heaven</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E7%BB%AF%E6%83%B3%E5%A4%A9_%EF%BD%9E_Scarlet_Weather_Rhapsody." class="mw-redirect" title="东方绯想天 ～ Scarlet Weather Rhapsody.">东方绯想天　～ Scarlet Weather Rhapsody.</a></div></td></tr></tbody></table>
+<tr><td id="6" class="info"><b>06</b></td><td id="幽霊客船の時空を越えた旅" colspan="2" class="title">幽霊客船の時空を越えた旅<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=幽霊客船の時空を越えた旅&amp;fromwiki=葦原溟海_～_The_Black_Sheep's_Whereabouts"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=幽霊客船の時空を越えた旅&amp;fromwiki=葦原溟海_～_The_Black_Sheep's_Whereabouts"><span></span></a></span><div class="ogmusic"><a href="./幽霊客船の時空を越えた旅.md" class="mw-redirect" title="幽霊客船の時空を越えた旅">幽霊客船の時空を越えた旅</a></div><div class="source"><a href="./东方星莲船_～_Undefined_Fantastic_Object..md" class="mw-redirect" title="东方星莲船 ～ Undefined Fantastic Object.">东方星莲船　～ Undefined Fantastic Object.</a></div></td></tr>
+<tr><td id="7" class="info"><b>07</b></td><td id="有頂天変_～_Wonderful_Heaven" colspan="2" class="title">有頂天変　～ Wonderful Heaven<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=有頂天変　～ Wonderful Heaven&amp;fromwiki=葦原溟海_～_The_Black_Sheep's_Whereabouts"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=有頂天変　～ Wonderful Heaven&amp;fromwiki=葦原溟海_～_The_Black_Sheep's_Whereabouts"><span></span></a></span><div class="ogmusic"><a href="./有頂天変_～_Wonderful_Heaven.md" class="mw-redirect" title="有頂天変 ～ Wonderful Heaven">有頂天変　～ Wonderful Heaven</a></div><div class="source"><a href="./东方绯想天_～_Scarlet_Weather_Rhapsody..md" class="mw-redirect" title="东方绯想天 ～ Scarlet Weather Rhapsody.">东方绯想天　～ Scarlet Weather Rhapsody.</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Matsuriuta_Workers_＃02封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/2/20/Matsuriuta_Workers_%EF%BC%8302%E5%B0%81%E9%9D%A2.jpg/120px-Matsuriuta_Workers_%EF%BC%8302%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="120" height="168" srcset="https://upload.thwiki.cc/thumb/2/20/Matsuriuta_Workers_%EF%BC%8302%E5%B0%81%E9%9D%A2.jpg/180px-Matsuriuta_Workers_%EF%BC%8302%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/2/20/Matsuriuta_Workers_%EF%BC%8302%E5%B0%81%E9%9D%A2.jpg/240px-Matsuriuta_Workers_%EF%BC%8302%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="493" data-file-height="690"></a><div class="cover-char">角色：<a href="./比那名居天子.md" title="比那名居天子">比那名居天子</a>，<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a>，<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>，<a href="./犬走椛.md" title="犬走椛">犬走椛</a>，<a href="./魂魄妖梦.md" title="魂魄妖梦">魂魄妖梦</a></div></td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://rainbowvanilla.blog117.fc2.com/blog-entry-118.html">http://rainbowvanilla.blog117.fc2.com/blog-entry-118.html</a></td></tr></tbody></table>
 
 Matsuriuta Workers ＃02（同人志，Rainbow Vanilla，2009） - 2009年9月27日 由 Rainbow Vanilla 于 SunshineCreation45 发布的画集同人志，一共24页，分级为 一般向
+
 ## Staff
 - [祭唄](./祭唄.md)
 

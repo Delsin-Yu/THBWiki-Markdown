@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-I_read_a_book.封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/0/06/I_read_a_book.%E5%B0%81%E9%9D%A2.jpg/159px-I_read_a_book.%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="159" height="224" srcset="https://upload.thwiki.cc/thumb/0/06/I_read_a_book.%E5%B0%81%E9%9D%A2.jpg/238px-I_read_a_book.%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/0/06/I_read_a_book.%E5%B0%81%E9%9D%A2.jpg/317px-I_read_a_book.%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="717" data-file-height="1012"></a><div class="cover-char">角色：<a href="./本居小铃.md" title="本居小铃">本居小铃</a>，<a href="./二岩猯藏.md" title="二岩猯藏">二岩猯藏</a></div></td>
@@ -14,9 +15,12 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://urilabo.seesaa.net/article/396699779.html">http://urilabo.seesaa.net/article/396699779.html</a><br><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/43400279">https://www.pixiv.net/artworks/43400279</a></td></tr></tbody></table>
 
 I read a book.（同人志，Show and Tell，2014） - 2014年5月11日 由 Show and Tell 于 博丽神社例大祭11 发布的漫画同人志，B5尺寸一共32页，登场人物有 本居小铃、二岩猯藏、稗田阿求，分级为 一般向
+
 ## 预览
+
 ## Staff
 - うりうり (未找到链接)
+
 
 ## 评论
 

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=Jazz%E3%82%8A%E3%81%9E%E3%81%93%E3%81%AA%E3%81%84%E5%B0%81%E9%9D%A2.jpg" class="new" title="文件:Jazzりぞこない封面.jpg">封面图片</a></td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://mys-no.saiin.net/doujin.html#07">http://mys-no.saiin.net/doujin.html#07</a></td></tr></tbody></table>
 
 Jazzりぞこない（同人专辑，ChaoticDawn，2011） - 2011年5月8日 由 ChaoticDawn 于 博丽神社例大祭8 发布的单曲同人专辑，分级为 一般向
+
 ## Staff
   
  **Arrangement**   
@@ -21,15 +23,18 @@ Jazzりぞこない（同人专辑，ChaoticDawn，2011） - 2011年5月8日 由
 <table><tbody><tr><td><a href="/index.php?title=daitem&amp;action=edit&amp;redlink=1" class="new" title="daitem（页面不存在）">daitem</a></td><td><a href="./ChaoticDawn.md" title="ChaoticDawn">ChaoticDawn</a></td><td>Tr.1</td></tr><tr><td><a href="/index.php?title=POW&amp;action=edit&amp;redlink=1" class="new" title="POW（页面不存在）">POW</a></td><td><a href="./ピコクマ.md" title="ピコクマ">ピコクマ</a></td><td>Tr.2</td></tr></tbody></table>
 
 
+
 ## 试听
   
 暂不支援此类型
   
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="暗闇の風穴（8BitJazzりぞこない）" colspan="2" class="title">暗闇の風穴（8BitJazzりぞこない）<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=daitem&amp;ogmusic=暗闇の風穴&amp;fromwiki=Jazzりぞこない"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=daitem&amp;action=edit&amp;redlink=1" class="new" title="daitem（页面不存在）">daitem</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，daitem，&amp;fromwiki=Jazzりぞこない"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=暗闇の風穴&amp;fromwiki=Jazzりぞこない"><span></span></a></span><div class="ogmusic"><a href="/%E6%9A%97%E9%97%87%E3%81%AE%E9%A2%A8%E7%A9%B4" class="mw-redirect" title="暗闇の風穴">暗闇の風穴</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E5%9C%B0%E7%81%B5%E6%AE%BF_%EF%BD%9E_Subterranean_Animism." class="mw-redirect" title="东方地灵殿 ～ Subterranean Animism.">东方地灵殿　～ Subterranean Animism.</a></div></td></tr>
-<tr><td id="2" class="infoYD"><b>02</b></td><td id="ゆかりのラグタイム（仮）" colspan="2" class="title">ゆかりのラグタイム（仮）<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=POW&amp;ogmusic=ネクロファンタジア&amp;fromwiki=Jazzりぞこない"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=POW&amp;action=edit&amp;redlink=1" class="new" title="POW（页面不存在）">POW</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，POW，&amp;fromwiki=Jazzりぞこない"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=ネクロファンタジア&amp;fromwiki=Jazzりぞこない"><span></span></a></span><div class="ogmusic"><a href="/%E3%83%8D%E3%82%AF%E3%83%AD%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%82%A2" class="mw-redirect" title="ネクロファンタジア">ネクロファンタジア</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E5%A6%96%E5%A6%96%E6%A2%A6_%EF%BD%9E_Perfect_Cherry_Blossom." class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="暗闇の風穴（8BitJazzりぞこない）" colspan="2" class="title">暗闇の風穴（8BitJazzりぞこない）<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=daitem&amp;ogmusic=暗闇の風穴&amp;fromwiki=Jazzりぞこない"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=daitem&amp;action=edit&amp;redlink=1" class="new" title="daitem（页面不存在）">daitem</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，daitem，&amp;fromwiki=Jazzりぞこない"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=暗闇の風穴&amp;fromwiki=Jazzりぞこない"><span></span></a></span><div class="ogmusic"><a href="./暗闇の風穴.md" class="mw-redirect" title="暗闇の風穴">暗闇の風穴</a></div><div class="source"><a href="./东方地灵殿_～_Subterranean_Animism..md" class="mw-redirect" title="东方地灵殿 ～ Subterranean Animism.">东方地灵殿　～ Subterranean Animism.</a></div></td></tr>
+<tr><td id="2" class="infoYD"><b>02</b></td><td id="ゆかりのラグタイム（仮）" colspan="2" class="title">ゆかりのラグタイム（仮）<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=POW&amp;ogmusic=ネクロファンタジア&amp;fromwiki=Jazzりぞこない"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=POW&amp;action=edit&amp;redlink=1" class="new" title="POW（页面不存在）">POW</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，POW，&amp;fromwiki=Jazzりぞこない"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=ネクロファンタジア&amp;fromwiki=Jazzりぞこない"><span></span></a></span><div class="ogmusic"><a href="./ネクロファンタジア.md" class="mw-redirect" title="ネクロファンタジア">ネクロファンタジア</a></div><div class="source"><a href="./东方妖妖梦_～_Perfect_Cherry_Blossom..md" class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

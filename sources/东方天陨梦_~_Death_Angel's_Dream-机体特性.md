@@ -4,6 +4,7 @@
 
 NooblyPerson
 
+
 ## 目录
 
 - [1 Story Mode](#Story_Mode)
@@ -25,7 +26,9 @@ NooblyPerson
 
 
 
+
 ## Story Mode
+
 ### 博丽灵梦
 
 <table><tbody><tr><td><div class="center"><div class="floatnone"><a href="./文件-博丽灵梦（dairi绘）.png.md" class="image" title="永远的巫女 博丽灵梦"><img alt="永远的巫女 博丽灵梦" src="https://upload.thwiki.cc/thumb/6/64/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88dairi%E7%BB%98%EF%BC%89.png/23px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88dairi%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="23" height="40" srcset="https://upload.thwiki.cc/thumb/6/64/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88dairi%E7%BB%98%EF%BC%89.png/34px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88dairi%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/6/64/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88dairi%E7%BB%98%EF%BC%89.png/46px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88dairi%E7%BB%98%EF%BC%89.png 2x" data-file-width="656" data-file-height="1142"></a></div></div></td> <td style="width:150px;padding:3px 9px 3px 7px;">永远的巫女</td><td style="width:180px;padding:3px 9px 3px 7px;"> <a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></td></tr></tbody></table>
@@ -39,6 +42,7 @@ NooblyPerson
 
 符卡必杀：梦想封印
   
+
 
 
 ### 火焰猫燐
@@ -56,6 +60,7 @@ NooblyPerson
   
 
 
+
 ### 风见幽香
 
 <table><tbody><tr><td><div class="center"><div class="floatnone"><a href="./文件-风见幽香（dairi绘）.png.md" class="image" title="凋落的花之妖怪 风见幽香"><img alt="凋落的花之妖怪 风见幽香" src="https://upload.thwiki.cc/thumb/1/15/%E9%A3%8E%E8%A7%81%E5%B9%BD%E9%A6%99%EF%BC%88dairi%E7%BB%98%EF%BC%89.png/21px-%E9%A3%8E%E8%A7%81%E5%B9%BD%E9%A6%99%EF%BC%88dairi%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="21" height="40" srcset="https://upload.thwiki.cc/thumb/1/15/%E9%A3%8E%E8%A7%81%E5%B9%BD%E9%A6%99%EF%BC%88dairi%E7%BB%98%EF%BC%89.png/32px-%E9%A3%8E%E8%A7%81%E5%B9%BD%E9%A6%99%EF%BC%88dairi%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/1/15/%E9%A3%8E%E8%A7%81%E5%B9%BD%E9%A6%99%EF%BC%88dairi%E7%BB%98%EF%BC%89.png/43px-%E9%A3%8E%E8%A7%81%E5%B9%BD%E9%A6%99%EF%BC%88dairi%E7%BB%98%EF%BC%89.png 2x" data-file-width="572" data-file-height="1068"></a></div></div></td> <td style="width:150px;padding:3px 9px 3px 7px;">凋落的花之妖怪</td><td style="width:180px;padding:3px 9px 3px 7px;"> <a href="./风见幽香.md" title="风见幽香">风见幽香</a></td></tr></tbody></table>
@@ -69,6 +74,7 @@ NooblyPerson
 
 符卡必杀：幻想乡的开花
   
+
 
 
 ### 雾雨魔理沙
@@ -86,7 +92,9 @@ NooblyPerson
   
 
 
+
 ## Extra Mode
+
 ### 博丽灵梦（旧作角色）
 
 <table><tbody><tr><td><div class="center"><div class="floatnone"><a href="./文件-博丽灵梦（旧作）（dairi绘）.png.md" class="image" title="永远的巫女 博丽灵梦"><img alt="永远的巫女 博丽灵梦" src="https://upload.thwiki.cc/thumb/a/a5/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%97%A7%E4%BD%9C%EF%BC%89%EF%BC%88dairi%E7%BB%98%EF%BC%89.png/24px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%97%A7%E4%BD%9C%EF%BC%89%EF%BC%88dairi%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="24" height="40" srcset="https://upload.thwiki.cc/thumb/a/a5/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%97%A7%E4%BD%9C%EF%BC%89%EF%BC%88dairi%E7%BB%98%EF%BC%89.png/36px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%97%A7%E4%BD%9C%EF%BC%89%EF%BC%88dairi%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/a/a5/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%97%A7%E4%BD%9C%EF%BC%89%EF%BC%88dairi%E7%BB%98%EF%BC%89.png/49px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E6%97%A7%E4%BD%9C%EF%BC%89%EF%BC%88dairi%E7%BB%98%EF%BC%89.png 2x" data-file-width="656" data-file-height="1074"></a></div></div></td> <td style="width:150px;padding:3px 9px 3px 7px;">永远的巫女</td><td style="width:180px;padding:3px 9px 3px 7px;"> <a href="./博丽灵梦（旧作角色）.md" title="博丽灵梦（旧作角色）">博丽灵梦</a></td></tr></tbody></table>

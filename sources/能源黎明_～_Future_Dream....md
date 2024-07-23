@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -34,11 +35,13 @@
 
 
 
+
 ## 基本信息
 
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">エネルギー黎明　～ Future Dream...</td></tr><tr><td><b>译名</b></td><td>能源黎明 ～ Future Dream...</td></tr><tr><td><b>英文译名</b></td><td>Energy Daybreak ~ Future Dream...</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 能源黎明 ～ Future Dream...（曲目） - 由 ZUN 创作的官方曲目，原名 エネルギー黎明　～ Future Dream...
+
 ## 出现作品
 
 <table>
@@ -46,7 +49,9 @@
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 东方地灵殿
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th11_17.mp3.md" title="文件:th11 17.mp3">th11_17.mp3</a><br><audio src="https://upload.thwiki.cc/e/e0/th11_17.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>BGM\th11_17.wav</td></tr><tr><td><b>BGMForAll</b></td><td><div class="mw-collapsible mw-collapsed">
@@ -57,7 +62,9 @@
 </td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 东方地灵殿
 - Music Room (未找到链接)
 
@@ -66,8 +73,11 @@
 　按往常的感觉做的曲子。一切如故。  
 　这样就结束啦—的感觉。  
 　虽然结束但曲名却是黎明。可不读作tamiaki哦。
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
   
  **エネルギー黎明　～ Future Dream...**  能源黎明　～ Future Dream...
@@ -90,6 +100,7 @@
 - …
   - 语意未尽，让人思索。
     - 可能表示后期会有新的作品——《[东方星莲船](./东方星莲船.md)》。
+
 
 
 

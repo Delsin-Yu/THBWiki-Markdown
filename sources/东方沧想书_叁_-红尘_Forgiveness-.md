@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E4%B8%9C%E6%96%B9%E6%B2%A7%E6%83%B3%E4%B9%A6_%E5%8F%81_-%E7%BA%A2%E5%B0%98_Forgiveness-%E5%B0%81%E9%9D%A2.jpg" class="new" title="文件:东方沧想书 叁 -红尘 Forgiveness-封面.jpg">封面图片</a><div class="cover-char">角色：<a href="./爱丽丝（旧作角色）.md" title="爱丽丝（旧作角色）">爱丽丝（旧作角色）</a>，<a href="./爱丽丝·玛格特洛依德.md" title="爱丽丝·玛格特洛依德">爱丽丝·玛格特洛依德</a></div></td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://www.kamiro.net/diary/info_2946.shtml">http://www.kamiro.net/diary/info_2946.shtml</a><br><a rel="nofollow" class="external free" href="http://www.kamiro.net/cn/cangxiangshu3-hongchen.html">http://www.kamiro.net/cn/cangxiangshu3-hongchen.html</a><br><span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span></td></tr><tr><td class="label">备注</td><td colspan="2">B5人物贴纸+神绮一家磨砂立绘卡片，初回限定。B6脚本集《红尘家书》+A4塑胶资料夹，标配</td></tr></tbody></table>
 
 东方沧想书 叁 -红尘 Forgiveness-（同人志，Kamiro's Comic Market，2012） - 2012年5月27日 由 Kamiro's Comic Market 于 COMICUP10 发布的绘本同人志，A4尺寸一共52页，登场人物有 神绮、爱丽丝·玛格特洛依德、爱丽丝（旧作角色）、博丽灵梦、博丽灵梦（旧作角色）、玄爷、魂魄妖梦、魂魄妖忌、稗田阿礼、太安万侣、雾雨魔理沙、雾雨魔理沙（旧作角色），分级为 一般向
+
 ## Staff
 绘画担当
 : 
@@ -50,6 +52,7 @@
 : 
 
 - El_Mirador
+
 
 ## 评论
 

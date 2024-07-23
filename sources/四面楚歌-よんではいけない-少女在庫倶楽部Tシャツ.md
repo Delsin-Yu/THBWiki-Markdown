@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **相关实体周边 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 周边信息](#周边信息)
@@ -21,19 +22,24 @@
 
 
 
+
 ## 周边信息
 
 <table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 少女在庫倶楽部Tシャツ </td></tr><tr><td class="label">译名</td><td> 少女在库俱乐部T恤 </td></tr><tr><td class="label">系列</td><td> よんではいけない </td></tr><tr><td class="label">制作方</td><td><a href="./四面楚歌.md" title="四面楚歌">四面楚歌</a></td></tr><tr><td class="label">首发日期</td><td>2019-08-12&#160;（<a href="/展会作品列表?e=Comic+Market%2396">Comic Market 96</a>）</td></tr><tr><td class="label">类型</td><td>衣服</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>S/M/L/XL</td></tr><tr><td class="label">材质</td><td>布</td></tr><tr><td class="label">角色</td><td><a href="./宇佐见莲子.md" title="宇佐见莲子">宇佐见莲子</a><br><a href="./玛艾露贝莉·赫恩.md" title="玛艾露贝莉·赫恩">玛艾露贝莉·赫恩</a></td></tr><tr><td class="label">售价</td><td>会场售价：3000日元</td></tr>
 <tr><td class="label">官网页面</td><td><a rel="nofollow" class="external free" href="http://allenemy.fc2web.com/c96/c96.html">http://allenemy.fc2web.com/c96/c96.html</a></td></tr></tbody></table>
 
 四面楚歌/よんではいけない/少女在庫倶楽部Tシャツ（周边，四面楚歌，2019） - 2019年8月12日 由 四面楚歌 于 Comic Market 96 发布的衣服周边，分级为 一般向
+
 ## 参考图片
+
 ### 预览图
 -  (未找到链接)
+
 
 ## Staff
 Illustration
 : 暮浦鶏太 (未找到链接) （鶏肉生活 (未找到链接)）
+
 
 ## 评论
 

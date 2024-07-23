@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-ENERGIZE!!!封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/2/2d/ENERGIZE%21%21%21%E5%B0%81%E9%9D%A2.jpg/196px-ENERGIZE%21%21%21%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="196" height="144" srcset="https://upload.thwiki.cc/thumb/2/2d/ENERGIZE%21%21%21%E5%B0%81%E9%9D%A2.jpg/294px-ENERGIZE%21%21%21%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/2/2d/ENERGIZE%21%21%21%E5%B0%81%E9%9D%A2.jpg/392px-ENERGIZE%21%21%21%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="2968" data-file-height="2177"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></div></td>
@@ -14,9 +15,12 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/Leaf_st/status/1370738604696166402">https://twitter.com/Leaf_st/status/1370738604696166402</a></td></tr></tbody></table>
 
 ENERGIZE!!!（同人志，葉が舎，2021） - 2021年3月21日 由 葉が舎 于 博丽神社例大祭18 发布的画集同人志，A5尺寸，登场人物有 博丽灵梦，分级为 一般向
+
 ## 预览
+
 ## Staff
 - Leaf＿st (未找到链接)
+
 
 ## 评论
 

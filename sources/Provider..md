@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Provider.封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/9/9e/Provider.%E5%B0%81%E9%9D%A2.jpg/140px-Provider.%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="140" height="140" srcset="https://upload.thwiki.cc/thumb/9/9e/Provider.%E5%B0%81%E9%9D%A2.jpg/210px-Provider.%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/9/9e/Provider.%E5%B0%81%E9%9D%A2.jpg/280px-Provider.%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="620" data-file-height="620"></a><div class="cover-char">角色：<a href="./宇佐见堇子.md" title="宇佐见堇子">宇佐见堇子</a></div></td>
@@ -16,6 +17,7 @@
 Provider.（同人志，VA，2018） - 2018年5月6日 由 VA 于 博丽神社例大祭15 发布的画集/合同志同人志，分级为 一般向
 
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://aoishiba.booth.pm/items/866217">Booth</a></td></tr></tbody></table>
+
 
 
 ## Staff
@@ -33,6 +35,7 @@ Guests
 - ウェルト (未找到链接) ([Pixiv ID: 19420524](https://www.pixiv.net/member_illust.php?id=19420524))
 - [Tamiko](./tamiko.md) ([Pixiv ID: 6481249](https://www.pixiv.net/member_illust.php?id=6481249))
 - Justinhsu (未找到链接) ([Pixiv ID: 117124](https://www.pixiv.net/member_illust.php?id=117124))
+
 
 ## 评论
 

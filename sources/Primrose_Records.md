@@ -4,7 +4,8 @@
 
 Primrose Records ，主要制作 同人音乐 的日本同人社团，主催是 Yuuna Kamishiro，当前状态为 转入非东方
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -21,15 +22,18 @@ Primrose Records ，主要制作 同人音乐 的日本同人社团，主催是 
 
 
 
+
 ## 社团信息
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Primrose Records </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>当前状态</b></td><td>转入非东方</td></tr><tr><td><b>主催</b></td><td> <a href="/Yuuna_Kamishiro" class="mw-redirect" title="Yuuna Kamishiro">Yuuna Kamishiro</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://pri-rec.net/">http://pri-rec.net/</a> </td></tr></tbody></table>
 
 Primrose Records（同人社团，同人音乐社团） - Primrose Records ，主要制作 同人音乐 的日本同人社团，主催是 Yuuna Kamishiro，当前状态为 转入非东方
+
 ## 社团简介
   
  **Primrose Records** 是由 **DJ Nanasaki** 创建的音乐社团，原和[Sound∞Infinity](./Sound∞Infinity.md)合作。在Sound∞Infinity停止活动后社团主催 **神代悠奈** 加入此社团并担任代表[^cite_note-1]。
   
+
 
 ## 成员名单
 - Yuuna Kamishiro (未找到链接) (a.k.a. 神代悠奈)
@@ -42,7 +46,9 @@ Primrose Records（同人社团，同人音乐社团） - Primrose Records ，�
 
 - Max Katerberg (未找到链接)
 
+
 ## 作品列表
+
 ### 同人专辑
 [](./Party＆Screaming.md)[Party＆Screaming](./Party＆Screaming.md)首发日期：2011-05-08 （第八回 博麗神社例大祭 (未找到链接)）SDFN-0017全长、​合作 （一般向）该作品是与 [Sound∞Infinity](./Sound∞Infinity.md) 合作创作的[](./Love_Game.md)[Love Game](./Love_Game.md)首发日期：2011-08-13 （Comic Market 80 (未找到链接)）SDFN-0019全长、​合作 （一般向）该作品是与 [Sound∞Infinity](./Sound∞Infinity.md) 合作创作的[](./Eastern_Bassroom.md)[Eastern Bassroom](./Eastern_Bassroom.md)首发日期：2017-05-07 （第十四回 博麗神社例大祭 (未找到链接)）PRCD013EP （一般向）
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -52,6 +58,7 @@ Primrose Records（同人社团，同人音乐社团） - Primrose Records ，�
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 参展信息

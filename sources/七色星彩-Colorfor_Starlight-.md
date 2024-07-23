@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-七色星彩-Colorfor_Starlight-封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/8/84/%E4%B8%83%E8%89%B2%E6%98%9F%E5%BD%A9-Colorfor_Starlight-%E5%B0%81%E9%9D%A2.jpg/155px-%E4%B8%83%E8%89%B2%E6%98%9F%E5%BD%A9-Colorfor_Starlight-%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="155" height="224" srcset="https://upload.thwiki.cc/thumb/8/84/%E4%B8%83%E8%89%B2%E6%98%9F%E5%BD%A9-Colorfor_Starlight-%E5%B0%81%E9%9D%A2.jpg/233px-%E4%B8%83%E8%89%B2%E6%98%9F%E5%BD%A9-Colorfor_Starlight-%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/8/84/%E4%B8%83%E8%89%B2%E6%98%9F%E5%BD%A9-Colorfor_Starlight-%E5%B0%81%E9%9D%A2.jpg/311px-%E4%B8%83%E8%89%B2%E6%98%9F%E5%BD%A9-Colorfor_Starlight-%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="383" data-file-height="552"></a><div class="cover-char">角色：<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a>，<a href="./爱丽丝·玛格特洛依德.md" title="爱丽丝·玛格特洛依德">爱丽丝·玛格特洛依德</a></div></td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://nanairoseisai.web.fc2.com/">http://nanairoseisai.web.fc2.com/</a></td></tr></tbody></table>
 
 七色星彩-Colorfor Starlight-（同人志，Twilight~日月之境~，2011） - 2011年2月19日 由 Twilight~日月之境~ 于 Fancy Frontier17 发布的漫画/绘本/合同志同人志，B5尺寸一共168页，登场人物有 芙兰朵露·斯卡蕾特，分级为 一般向
+
 ## PV
 
 <table>
@@ -24,6 +26,7 @@
 <tr>
 <td><iframe width="560" height="315" src="//www.youtube-nocookie.com/embed/-wWIhne7mIE?" frameborder="0" allowfullscreen=""></iframe>
 </td></tr></tbody></table>
+
 
 
 ## Staff
@@ -62,9 +65,10 @@ Impression Music &amp; Promotion Video
 Guest
 : 阿蒼 （[4號倉庫](http://aoyushi.blog40.fc2.com/)）
 : 透村A （[Limited_war](https://alice9944011.tian.yam.com/posts)）
-: Phi （電氣妖精界 (未找到链接)）
+: Phi （[電氣妖精界](./電氣妖精界.md)）
 : NekoiF （[Natural Focus](http://nekoif.pixnet.net/blog)）
 : Lin （[火藥林檎](./火藥林檎.md)）
+
 
 ## 评论
 

@@ -6,13 +6,17 @@
 
 本页是关于东方Project  
  **二次同人创作者** 的词条
+
 ## 基本信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="label"><b>名称</b></td><td> Prism </td></tr><tr><td class="label"><b>别名</b></td><td>プリズム</td></tr><tr><td class="label"><b>所属社团</b></td><td><b>当前</b><div style="margin-left:2em;"><a href="/index.php?title=%E7%91%9E%E9%9F%B3%E9%8F%A1&amp;action=edit&amp;redlink=1" class="new" title="瑞音鏡（页面不存在）">瑞音鏡</a></div></td></tr><tr><td class="label"><b>职位</b></td><td>作曲，编曲</td></tr><tr><td class="label"><b>参与社团</b></td><td><a href="./Mace's_Secret_Base.md" title="Mace&#39;s Secret Base">Mace's Secret Base</a> （作曲）<br><a href="./MiragEden.md" title="MiragEden">MiragEden</a> （编曲）<br><a class="mw-selflink selflink">Prism</a> （编曲）<br><a href="./夢想吟遊詩人.md" title="夢想吟遊詩人">夢想吟遊詩人</a> （作曲）<br><a href="/index.php?title=%E7%91%9E%E9%9F%B3%E9%8F%A1&amp;action=edit&amp;redlink=1" class="new" title="瑞音鏡（页面不存在）">瑞音鏡</a> （作曲，编曲）<br><a href="./結幻Records..md" title="結幻Records.">結幻Records.</a> （编曲）<br><a href="/index.php?title=%E8%83%A1%E8%9D%B6%E4%B9%8B%E7%95%AA&amp;action=edit&amp;redlink=1" class="new" title="胡蝶之番（页面不存在）">胡蝶之番</a> （编曲）</td></tr></tbody></table>
 
 Prism（人物） - 现实人物
+
 ## 介绍
+
 ## 参与作品
+
 ### 東方自作アレンジ
 Prism/東方自作アレンジ 封面图片 (未找到链接)[Prism/東方自作アレンジ](./Prism-東方自作アレンジ.md)首发日期：未知 单曲 （一般向）
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>

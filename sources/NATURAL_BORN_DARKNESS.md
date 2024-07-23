@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-NATURAL_BORN_DARKNESS封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/2/2f/NATURAL_BORN_DARKNESS%E5%B0%81%E9%9D%A2.jpg/159px-NATURAL_BORN_DARKNESS%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="159" height="224" srcset="https://upload.thwiki.cc/thumb/2/2f/NATURAL_BORN_DARKNESS%E5%B0%81%E9%9D%A2.jpg/238px-NATURAL_BORN_DARKNESS%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/2/2f/NATURAL_BORN_DARKNESS%E5%B0%81%E9%9D%A2.jpg/317px-NATURAL_BORN_DARKNESS%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1280" data-file-height="1807"></a><div class="cover-char">角色：<a href="./鬼人正邪.md" title="鬼人正邪">鬼人正邪</a>，<a href="./幽谷响子.md" title="幽谷响子">幽谷响子</a>，<a href="./封兽鵺.md" title="封兽鵺">封兽鵺</a></div></td>
@@ -17,9 +18,11 @@ NATURAL BORN DARKNESS（同人志，ふあん亭，2014） - 2014年10月12日 �
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=73919">蜜瓜</a></td></tr></tbody></table>
 
 
+
 ## Staff
 - [フラリ](./フラリ.md)
-- 米泥棒 (未找到链接)
+- [米泥棒](./米泥棒.md)
+
 
 ## 评论
   

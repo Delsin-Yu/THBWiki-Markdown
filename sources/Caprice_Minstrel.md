@@ -4,7 +4,8 @@
 
 Caprice Minstrel ，于 2018 年成立，主要制作 同人音乐 的日本同人社团，主催是 裏のぱとり，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -15,17 +16,20 @@ Caprice Minstrel ，于 2018 年成立，主要制作 同人音乐 的日本同�
 
 
 
+
 ## 社团信息
 [](./文件-Caprice_Minstrelbanner.jpg.md)  [](./文件-Caprice_Minstrelbanner.jpg.md)banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Caprice Minstrel </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2018</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=%E8%A3%8F%E3%81%AE%E3%81%B1%E3%81%A8%E3%82%8A&amp;action=edit&amp;redlink=1" class="new" title="裏のぱとり（页面不存在）">裏のぱとり</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="https://twitter.com/CapriceMinstrel">https://twitter.com/CapriceMinstrel</a> </td></tr></tbody></table>
 
 Caprice Minstrel（同人社团，同人音乐社团） - Caprice Minstrel ，于 2018 年成立，主要制作 同人音乐 的日本同人社团，主催是 裏のぱとり，当前状态为 活动
+
 ## 成员名单
 - 裏のぱとり (未找到链接)
 - 千代紙好香 (未找到链接)
 - ようげん (未找到链接)
 - ヒロシ (未找到链接)
+
 
 ## 作品列表
 [](./東方Irish_Pub～Caprice～.md)[東方Irish Pub～Caprice～](./東方Irish_Pub～Caprice～.md)首发日期：2019-08-12 （Comic Market 96 (未找到链接)）全长 （一般向）東方Irish Pub２～Caprice～ デモ版 封面图片 (未找到链接)[東方Irish Pub２～Caprice～ デモ版](./東方Irish_Pub２～Caprice～_デモ版.md)首发日期：2019-12-31 （Comic Market 97 (未找到链接)）Demo （一般向）[](./東方IRISH_PUB2～Caprice～.md)[東方IRISH PUB2～Caprice～](./東方IRISH_PUB2～Caprice～.md)首发日期：2020-03-01 （M3-2020春 (未找到链接)）全长 （一般向）
@@ -35,6 +39,7 @@ Caprice Minstrel（同人社团，同人音乐社团） - Caprice Minstrel ，�
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 其他信息

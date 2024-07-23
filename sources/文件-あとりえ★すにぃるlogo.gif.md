@@ -4,6 +4,7 @@
 
 あとりえ★すにぃる | 社团LOGO
 
+
 ## 摘要
   
 源地址：[direct image link](http://ateliersunyiru.aikotoba.jp/images/common/logo00.gif), [source page](http://ateliersunyiru.aikotoba.jp/)

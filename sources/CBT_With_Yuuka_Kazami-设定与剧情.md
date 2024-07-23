@@ -4,6 +4,7 @@
 
 Sigyaad_Team
 
+
 ## 简介
   
 Cognitive Behavioral Therapy, also known as CBT, is the use of evidence based strategies to help manage symptoms of poor mental health problems such as stress, anxiety and depression. Yuuka Kazami from the Touhou Project invites you to some mostly peaceful lessons where you grasp the basics of CBT!  
@@ -12,6 +13,7 @@ Cognitive Behavioral Therapy, also known as CBT, is the use of evidence based st
 
 [风见幽香](./风见幽香.md)邀请您参加她主办的CBT的 *非常亲民* 花妈平常很是吓人的课程，您可以在游戏中掌握CBT的基础知识!
   
+
 
 ## Story（剧情）
   

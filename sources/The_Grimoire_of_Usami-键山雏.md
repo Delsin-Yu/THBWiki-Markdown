@@ -14,7 +14,7 @@ The_Grimoire_of_Usami | 使用了翻译表的页面 | 宇佐见的魔法书 | �
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./The_Grimoire_of_Usami-水桥帕露西.md" title="The Grimoire of Usami/水桥帕露西">水桥帕露西</a>&#160;
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="/%E5%AE%87%E4%BD%90%E8%A7%81%E7%9A%84%E9%AD%94%E6%B3%95%E4%B9%A6" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a>&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="./宇佐见的魔法书.md" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a>&#160;
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">&#160;<a href="./The_Grimoire_of_Usami-赤蛮奇.md" title="The Grimoire of Usami/赤蛮奇">赤蛮奇</a>
 </td>
@@ -25,7 +25,7 @@ The_Grimoire_of_Usami | 使用了翻译表的页面 | 宇佐见的魔法书 | �
 </center>
 <center>第100页</center>
 
-<table><tbody><tr align="left" valign="top"><td style="min-width:200px;"><div class="tt-zhh tt-type-setting" lang="zh"><div class="poem"><a href="/%E7%81%BE%E7%A5%B8%E3%80%8C%E8%AF%85%E5%92%92%E7%9A%84%E9%9B%8F%E4%BA%BA%E5%81%B6%E3%80%8D" class="mw-redirect" title="灾祸「诅咒的雏人偶」">灾祸「诅咒的雏人偶」</a></div></div><div class="tt-zh tt-type-setting" lang="zh"><div class="poem">使用者：<a href="./键山雏.md" title="键山雏">键山雏</a></div></div><div class="tt-zh tt-type-setting" lang="zh"><div class="poem">用我的最凶弹幕<br>来诅咒这种<br>看起来挺好玩的活动。<br>诅咒你们～！<br>一个不剩全都诅咒～！</div></div><div class="tt-header tt-type-setting" lang="zh"><div class="poem">鬼人正邪（0）</div></div><div class="tt-zh tt-type-setting" lang="zh"><div class="poem">渐渐会场也吵闹起来了啊。似乎因为突然出现了不吉的弹幕而感到困惑。哼哼哼……</div></div><div class="tt-header tt-type-setting" lang="zh"><div class="poem">少名针妙丸（0）</div></div><div class="tt-zh tt-type-setting" lang="zh"><div class="poem">雏人偶啊，也会因使用方法不同而变得这么充满灾厄呢。就像是稻草人偶一样啊。</div></div><div class="tt-header tt-type-setting" lang="zh"><div class="poem">宇佐见堇子</div></div><div class="tt-zh tt-type-setting" lang="zh"><div class="poem">组出了凶字呢。真是不祥……灵梦小姐她们也还没回来……莫非，这个大会出了什么事吗。</div></div></td><td width="200px"><div class="thumb tleft"><div class="thumbinner" style="width:202px;"><a href="./文件-The_Grimoire_of_Usami（键山雏1）.jpg.md" class="image"><img alt="" src="https://upload.thwiki.cc/thumb/e/e7/The_Grimoire_of_Usami%EF%BC%88%E9%94%AE%E5%B1%B1%E9%9B%8F1%EF%BC%89.jpg/200px-The_Grimoire_of_Usami%EF%BC%88%E9%94%AE%E5%B1%B1%E9%9B%8F1%EF%BC%89.jpg" decoding="async" loading="lazy" width="200" height="284" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/e/e7/The_Grimoire_of_Usami%EF%BC%88%E9%94%AE%E5%B1%B1%E9%9B%8F1%EF%BC%89.jpg/300px-The_Grimoire_of_Usami%EF%BC%88%E9%94%AE%E5%B1%B1%E9%9B%8F1%EF%BC%89.jpg 1.5x, https://upload.thwiki.cc/thumb/e/e7/The_Grimoire_of_Usami%EF%BC%88%E9%94%AE%E5%B1%B1%E9%9B%8F1%EF%BC%89.jpg/400px-The_Grimoire_of_Usami%EF%BC%88%E9%94%AE%E5%B1%B1%E9%9B%8F1%EF%BC%89.jpg 2x" data-file-width="1266" data-file-height="1800"></a>  <div class="thumbcaption"><div class="magnify"><a href="./文件-The_Grimoire_of_Usami（键山雏1）.jpg.md" class="internal" title="放大"></a></div>P100</div></div></div></td></tr></tbody></table>
+<table><tbody><tr align="left" valign="top"><td style="min-width:200px;"><div class="tt-zhh tt-type-setting" lang="zh"><div class="poem"><a href="./灾祸「诅咒的雏人偶」.md" class="mw-redirect" title="灾祸「诅咒的雏人偶」">灾祸「诅咒的雏人偶」</a></div></div><div class="tt-zh tt-type-setting" lang="zh"><div class="poem">使用者：<a href="./键山雏.md" title="键山雏">键山雏</a></div></div><div class="tt-zh tt-type-setting" lang="zh"><div class="poem">用我的最凶弹幕<br>来诅咒这种<br>看起来挺好玩的活动。<br>诅咒你们～！<br>一个不剩全都诅咒～！</div></div><div class="tt-header tt-type-setting" lang="zh"><div class="poem">鬼人正邪（0）</div></div><div class="tt-zh tt-type-setting" lang="zh"><div class="poem">渐渐会场也吵闹起来了啊。似乎因为突然出现了不吉的弹幕而感到困惑。哼哼哼……</div></div><div class="tt-header tt-type-setting" lang="zh"><div class="poem">少名针妙丸（0）</div></div><div class="tt-zh tt-type-setting" lang="zh"><div class="poem">雏人偶啊，也会因使用方法不同而变得这么充满灾厄呢。就像是稻草人偶一样啊。</div></div><div class="tt-header tt-type-setting" lang="zh"><div class="poem">宇佐见堇子</div></div><div class="tt-zh tt-type-setting" lang="zh"><div class="poem">组出了凶字呢。真是不祥……灵梦小姐她们也还没回来……莫非，这个大会出了什么事吗。</div></div></td><td width="200px"><div class="thumb tleft"><div class="thumbinner" style="width:202px;"><a href="./文件-The_Grimoire_of_Usami（键山雏1）.jpg.md" class="image"><img alt="" src="https://upload.thwiki.cc/thumb/e/e7/The_Grimoire_of_Usami%EF%BC%88%E9%94%AE%E5%B1%B1%E9%9B%8F1%EF%BC%89.jpg/200px-The_Grimoire_of_Usami%EF%BC%88%E9%94%AE%E5%B1%B1%E9%9B%8F1%EF%BC%89.jpg" decoding="async" loading="lazy" width="200" height="284" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/e/e7/The_Grimoire_of_Usami%EF%BC%88%E9%94%AE%E5%B1%B1%E9%9B%8F1%EF%BC%89.jpg/300px-The_Grimoire_of_Usami%EF%BC%88%E9%94%AE%E5%B1%B1%E9%9B%8F1%EF%BC%89.jpg 1.5x, https://upload.thwiki.cc/thumb/e/e7/The_Grimoire_of_Usami%EF%BC%88%E9%94%AE%E5%B1%B1%E9%9B%8F1%EF%BC%89.jpg/400px-The_Grimoire_of_Usami%EF%BC%88%E9%94%AE%E5%B1%B1%E9%9B%8F1%EF%BC%89.jpg 2x" data-file-width="1266" data-file-height="1800"></a>  <div class="thumbcaption"><div class="magnify"><a href="./文件-The_Grimoire_of_Usami（键山雏1）.jpg.md" class="internal" title="放大"></a></div>P100</div></div></div></td></tr></tbody></table>
 
 
 
@@ -37,7 +37,7 @@ The_Grimoire_of_Usami | 使用了翻译表的页面 | 宇佐见的魔法书 | �
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./The_Grimoire_of_Usami-水桥帕露西.md" title="The Grimoire of Usami/水桥帕露西">水桥帕露西</a>&#160;
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="/%E5%AE%87%E4%BD%90%E8%A7%81%E7%9A%84%E9%AD%94%E6%B3%95%E4%B9%A6" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a>&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="./宇佐见的魔法书.md" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a>&#160;
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">&#160;<a href="./The_Grimoire_of_Usami-赤蛮奇.md" title="The Grimoire of Usami/赤蛮奇">赤蛮奇</a>
 </td>
@@ -46,6 +46,7 @@ The_Grimoire_of_Usami | 使用了翻译表的页面 | 宇佐见的魔法书 | �
 
   
 </center>
+
 
 ## 词条导航
   

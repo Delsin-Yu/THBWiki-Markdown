@@ -4,7 +4,8 @@
 
 THE OTHER FLOWER ，于 2017 年成立，主要制作 同人音乐 的日本同人社团，主催是 花たん，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -16,14 +17,17 @@ THE OTHER FLOWER ，于 2017 年成立，主要制作 同人音乐 的日本同�
 
 
 
+
 ## 社团信息
 [](./文件-THE_OTHER_FLOWERbanner.jpg.md)  [](./文件-THE_OTHER_FLOWERbanner.jpg.md)banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> THE OTHER FLOWER </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2017</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="./花たん.md" title="花たん">花たん</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://the-other-flower.sakura.ne.jp/">http://the-other-flower.sakura.ne.jp/</a> </td></tr></tbody></table>
 
 THE OTHER FLOWER（同人社团，同人音乐社团） - THE OTHER FLOWER ，于 2017 年成立，主要制作 同人音乐 的日本同人社团，主催是 花たん，当前状态为 活动
+
 ## 成员名单
 - [花たん](./花たん.md)
+
 
 ## 作品列表
 [](./鬼願抄_SPECIAL_DEMO_CD.md)[鬼願抄 SPECIAL DEMO CD](./鬼願抄_SPECIAL_DEMO_CD.md)首发日期：2017-04-02 （東方名華祭11 (未找到链接)）Demo、​单曲 （一般向）[](./椿.md)[椿](./椿.md)首发日期：2017-05-07 （第十四回 博麗神社例大祭 (未找到链接)）AZFL-0001全长 （一般向）[](./茜.md)[茜](./茜.md)首发日期：2017-08-11 （Comic Market 92 (未找到链接)）AZFL-002全长 （一般向）[](./柊.md)[柊](./柊.md)首发日期：2017-12-29 （Comic Market 93 (未找到链接)）AZFL-003全长 （一般向）[](./菫.md)[菫](./菫.md)首发日期：2018-05-06 （第十五回 博麗神社例大祭 (未找到链接)）AZFL-004全长 （一般向）[](./葵（同人专辑）.md)[葵](./葵（同人专辑）.md)首发日期：2018-08-10 （Comic Market 94 (未找到链接)）AZFL-005全长 （一般向）[](./デジフラ_CARNIVAL.md)[デジフラ CARNIVAL](./デジフラ_CARNIVAL.md)首发日期：2018-09-01 合作、​活动纪念 （一般向）该作品是与 [DiGiTAL WiNG](./DiGiTAL_WiNG.md) 合作创作的2018-03-31于名古屋举办的“DiGiTAL WiNG&amp;THE OTHER FLOWER ツーマンライブ デジフラ カーニバル”的活动纪念专辑；東方同人音楽流通上标注的发布日期为2018/10/14'"`UNIQ--ref-00000000-QINU`"'[](./楓.md)[楓](./楓.md)首发日期：2018-12-30 （Comic Market 95 (未找到链接)）AZFL-006全长 （一般向）[](./菘.md)[菘](./菘.md)首发日期：2019-05-05 （第十六回 博麗神社例大祭 (未找到链接)）AZFL-007全长 （一般向）[](./槐.md)[槐](./槐.md)首发日期：2019-08-12 （Comic Market 96 (未找到链接)）AZFL-008全长 （一般向）[](./蘭.md)[蘭](./蘭.md)首发日期：2019-12-31 （Comic Market 97 (未找到链接)）AZFL-009全长 （一般向）
@@ -51,9 +55,11 @@ THE OTHER FLOWER（同人社团，同人音乐社团） - THE OTHER FLOWER ，�
 </table>
 
 
+
 ## 参展信息
 
 <table><tbody><tr><th class="活动页面">活动页面</th><th class="活动名称">活动名称</th><th class="日期">日期</th><th class="举办地点">举办地点</th><th class="摊位编号">摊位编号</th><th class="宣传页面">宣传页面</th><th class="备注">备注</th></tr><tr data-row-number="1" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#16" title="博丽神社例大祭">博丽神社例大祭#16</a></span></td><td class="活动名称 smwtype_txt">第十六回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2458608.5">2019-05-05</td><td class="举办地点 smwtype_txt">东京Big Sight</td><td class="摊位编号 smwtype_txt">J16a</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="2" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/Comic_Market#95" title="Comic Market">Comic Market#95</a></span></td><td class="活动名称 smwtype_txt">Comic Market 95</td><td class="日期 smwtype_dat" data-sort-value="2458482.5">2018-12-30</td><td class="举办地点 smwtype_txt">东京都 东京国际展示场 东1-8展厅、西1-4展厅</td><td class="摊位编号 smwtype_txt">東ロ-40a</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="3" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#15" title="博丽神社例大祭">博丽神社例大祭#15</a></span></td><td class="活动名称 smwtype_txt">第十五回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2458244.5">2018-05-06</td><td class="举办地点 smwtype_txt">东京Big Sight 东123456展厅</td><td class="摊位编号 smwtype_txt">A15b</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="4" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E4%B8%9C%E6%96%B9%E5%90%8D%E5%8D%8E%E7%A5%AD#12" title="东方名华祭">东方名华祭#12</a></span></td><td class="活动名称 smwtype_txt">東方名華祭12</td><td class="日期 smwtype_dat" data-sort-value="2458209.5">2018-04-01</td><td class="举办地点 smwtype_txt">名古屋市国际展示场 第2展厅</td><td class="摊位编号 smwtype_txt">M07</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="5" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E4%B8%9C%E6%96%B9%E7%BA%A2%E6%A5%BC%E6%A2%A6#13" title="东方红楼梦">东方红楼梦#13</a></span></td><td class="活动名称 smwtype_txt">東方紅楼夢13</td><td class="日期 smwtype_dat" data-sort-value="2458048.5">2017-10-22</td><td class="举办地点 smwtype_txt">大阪国际展览中心 4号馆・6号馆B区</td><td class="摊位编号 smwtype_txt">O-04a</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="6" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E7%A7%8B%E5%AD%A3%E4%BE%8B%E5%A4%A7%E7%A5%AD#4" title="博丽神社秋季例大祭">博丽神社秋季例大祭#4</a></span></td><td class="活动名称 smwtype_txt">第四回 博麗神社秋季例大祭</td><td class="日期 smwtype_dat" data-sort-value="2458041.5">2017-10-15</td><td class="举办地点 smwtype_txt">东京Big Sight 东123展厅</td><td class="摊位编号 smwtype_txt">あ26b</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="7" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#14" title="博丽神社例大祭">博丽神社例大祭#14</a></span></td><td class="活动名称 smwtype_txt">第十四回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2457880.5">2017-05-07</td><td class="举办地点 smwtype_txt">东京Big Sight 东123456展厅</td><td class="摊位编号 smwtype_txt">あ24a</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="8" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E4%B8%9C%E6%96%B9%E5%90%8D%E5%8D%8E%E7%A5%AD#11" title="东方名华祭">东方名华祭#11</a></span></td><td class="活动名称 smwtype_txt">東方名華祭11</td><td class="日期 smwtype_dat" data-sort-value="2457845.5">2017-04-02</td><td class="举办地点 smwtype_txt">名古屋市国际展示场 第2展厅</td><td class="摊位编号 smwtype_txt">M-15</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr></tbody></table>
+
 
 
 ## 其他信息

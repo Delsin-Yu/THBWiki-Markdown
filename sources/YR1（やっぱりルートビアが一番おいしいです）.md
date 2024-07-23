@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-YR1（やっぱりルートビアが一番おいしいです）封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/8/8f/YR1%EF%BC%88%E3%82%84%E3%81%A3%E3%81%B1%E3%82%8A%E3%83%AB%E3%83%BC%E3%83%88%E3%83%93%E3%82%A2%E3%81%8C%E4%B8%80%E7%95%AA%E3%81%8A%E3%81%84%E3%81%97%E3%81%84%E3%81%A7%E3%81%99%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/178px-YR1%EF%BC%88%E3%82%84%E3%81%A3%E3%81%B1%E3%82%8A%E3%83%AB%E3%83%BC%E3%83%88%E3%83%93%E3%82%A2%E3%81%8C%E4%B8%80%E7%95%AA%E3%81%8A%E3%81%84%E3%81%97%E3%81%84%E3%81%A7%E3%81%99%EF%BC%89%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="178" height="252" srcset="https://upload.thwiki.cc/thumb/8/8f/YR1%EF%BC%88%E3%82%84%E3%81%A3%E3%81%B1%E3%82%8A%E3%83%AB%E3%83%BC%E3%83%88%E3%83%93%E3%82%A2%E3%81%8C%E4%B8%80%E7%95%AA%E3%81%8A%E3%81%84%E3%81%97%E3%81%84%E3%81%A7%E3%81%99%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/268px-YR1%EF%BC%88%E3%82%84%E3%81%A3%E3%81%B1%E3%82%8A%E3%83%AB%E3%83%BC%E3%83%88%E3%83%93%E3%82%A2%E3%81%8C%E4%B8%80%E7%95%AA%E3%81%8A%E3%81%84%E3%81%97%E3%81%84%E3%81%A7%E3%81%99%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/8/8f/YR1%EF%BC%88%E3%82%84%E3%81%A3%E3%81%B1%E3%82%8A%E3%83%AB%E3%83%BC%E3%83%88%E3%83%93%E3%82%A2%E3%81%8C%E4%B8%80%E7%95%AA%E3%81%8A%E3%81%84%E3%81%97%E3%81%84%E3%81%A7%E3%81%99%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/357px-YR1%EF%BC%88%E3%82%84%E3%81%A3%E3%81%B1%E3%82%8A%E3%83%AB%E3%83%BC%E3%83%88%E3%83%93%E3%82%A2%E3%81%8C%E4%B8%80%E7%95%AA%E3%81%8A%E3%81%84%E3%81%97%E3%81%84%E3%81%A7%E3%81%99%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="860" data-file-height="1214"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>，<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a></div></td>
@@ -14,12 +15,15 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/25793351">https://www.pixiv.net/artworks/25793351</a><br><a rel="nofollow" class="external free" href="http://zenoside.web.fc2.com/rootbeer.html">http://zenoside.web.fc2.com/rootbeer.html</a><br><a rel="nofollow" class="external free" href="http://zenoside.blog32.fc2.com/blog-date-201203-1.html">http://zenoside.blog32.fc2.com/blog-date-201203-1.html</a></td></tr></tbody></table>
 
 YR1（やっぱりルートビアが一番おいしいです）（同人志，ぜのさいど，見切り発車，2012） - 2012年3月18日 由 ぜのさいど，見切り発車 于 小春小径3 发布的漫画/合同志同人志，B5尺寸一共20页，登场人物有 博丽灵梦、雾雨魔理沙，分级为 一般向
+
 ## 预览
 - [](./文件-YR1（やっぱりルートビアが一番おいしいです）预览图1.jpg.md)- [](./文件-YR1（やっぱりルートビアが一番おいしいです）预览图2.jpg.md)- [](./文件-YR1（やっぱりルートビアが一番おいしいです）预览图3.jpg.md)- [](./文件-YR1（やっぱりルートビアが一番おいしいです）预览图4.jpg.md)
+
 
 ## Staff
 - [れおん](./れおん.md)
 - [是乃](./是乃.md)
+
 
 ## 评论
   

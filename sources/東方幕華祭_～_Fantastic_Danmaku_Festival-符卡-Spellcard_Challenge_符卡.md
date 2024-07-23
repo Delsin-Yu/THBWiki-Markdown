@@ -271,7 +271,7 @@
 
 <table>
 <tbody><tr><td width="80">符卡编号</td><td width="400">072</td><td rowspan="3" width="120"><a href="./文件-命运「交织逆反之命」.png.md" class="image"><img alt="命运「交织逆反之命」.png" src="https://upload.thwiki.cc/thumb/8/84/%E5%91%BD%E8%BF%90%E3%80%8C%E4%BA%A4%E7%BB%87%E9%80%86%E5%8F%8D%E4%B9%8B%E5%91%BD%E3%80%8D.png/120px-%E5%91%BD%E8%BF%90%E3%80%8C%E4%BA%A4%E7%BB%87%E9%80%86%E5%8F%8D%E4%B9%8B%E5%91%BD%E3%80%8D.png" decoding="async" loading="lazy" width="120" height="139" srcset="https://upload.thwiki.cc/thumb/8/84/%E5%91%BD%E8%BF%90%E3%80%8C%E4%BA%A4%E7%BB%87%E9%80%86%E5%8F%8D%E4%B9%8B%E5%91%BD%E3%80%8D.png/180px-%E5%91%BD%E8%BF%90%E3%80%8C%E4%BA%A4%E7%BB%87%E9%80%86%E5%8F%8D%E4%B9%8B%E5%91%BD%E3%80%8D.png 1.5x, https://upload.thwiki.cc/thumb/8/84/%E5%91%BD%E8%BF%90%E3%80%8C%E4%BA%A4%E7%BB%87%E9%80%86%E5%8F%8D%E4%B9%8B%E5%91%BD%E3%80%8D.png/240px-%E5%91%BD%E8%BF%90%E3%80%8C%E4%BA%A4%E7%BB%87%E9%80%86%E5%8F%8D%E4%B9%8B%E5%91%BD%E3%80%8D.png 2x" data-file-width="577" data-file-height="666"></a></td></tr>
-<tr><td>符卡原名</td><td>命运「交织逆反之命」</td></tr><tr><td>出现位置</td><td>Spellcard Challenge（<a href="/%E8%95%BE%E7%B1%B3%E8%8E%89%E4%BA%9A%C2%B7%E6%96%AF%E5%8D%A1%E9%9B%B7%E7%89%B9" class="mw-redirect" title="蕾米莉亚·斯卡雷特">蕾米莉亚·斯卡雷特</a>）</td></tr></tbody></table>
+<tr><td>符卡原名</td><td>命运「交织逆反之命」</td></tr><tr><td>出现位置</td><td>Spellcard Challenge（<a href="./蕾米莉亚·斯卡雷特.md" class="mw-redirect" title="蕾米莉亚·斯卡雷特">蕾米莉亚·斯卡雷特</a>）</td></tr></tbody></table>
 
 
   
@@ -282,7 +282,7 @@
 
 <table>
 <tbody><tr><td width="80">符卡编号</td><td width="400">073</td><td rowspan="3" width="120"><a href="./文件-天罚「腥红血雨」.png.md" class="image"><img alt="天罚「腥红血雨」.png" src="https://upload.thwiki.cc/thumb/7/74/%E5%A4%A9%E7%BD%9A%E3%80%8C%E8%85%A5%E7%BA%A2%E8%A1%80%E9%9B%A8%E3%80%8D.png/120px-%E5%A4%A9%E7%BD%9A%E3%80%8C%E8%85%A5%E7%BA%A2%E8%A1%80%E9%9B%A8%E3%80%8D.png" decoding="async" loading="lazy" width="120" height="140" srcset="https://upload.thwiki.cc/thumb/7/74/%E5%A4%A9%E7%BD%9A%E3%80%8C%E8%85%A5%E7%BA%A2%E8%A1%80%E9%9B%A8%E3%80%8D.png/180px-%E5%A4%A9%E7%BD%9A%E3%80%8C%E8%85%A5%E7%BA%A2%E8%A1%80%E9%9B%A8%E3%80%8D.png 1.5x, https://upload.thwiki.cc/thumb/7/74/%E5%A4%A9%E7%BD%9A%E3%80%8C%E8%85%A5%E7%BA%A2%E8%A1%80%E9%9B%A8%E3%80%8D.png/240px-%E5%A4%A9%E7%BD%9A%E3%80%8C%E8%85%A5%E7%BA%A2%E8%A1%80%E9%9B%A8%E3%80%8D.png 2x" data-file-width="572" data-file-height="667"></a></td></tr>
-<tr><td>符卡原名</td><td>天罚「腥红血雨」</td></tr><tr><td>出现位置</td><td>Spellcard Challenge（<a href="/%E8%95%BE%E7%B1%B3%E8%8E%89%E4%BA%9A%C2%B7%E6%96%AF%E5%8D%A1%E9%9B%B7%E7%89%B9" class="mw-redirect" title="蕾米莉亚·斯卡雷特">蕾米莉亚·斯卡雷特</a>）</td></tr></tbody></table>
+<tr><td>符卡原名</td><td>天罚「腥红血雨」</td></tr><tr><td>出现位置</td><td>Spellcard Challenge（<a href="./蕾米莉亚·斯卡雷特.md" class="mw-redirect" title="蕾米莉亚·斯卡雷特">蕾米莉亚·斯卡雷特</a>）</td></tr></tbody></table>
 
 
   
@@ -293,7 +293,7 @@
 
 <table>
 <tbody><tr><td width="80">符卡编号</td><td width="400">074</td><td rowspan="3" width="120"><a href="./文件-命运「平行的命运」.png.md" class="image"><img alt="命运「平行的命运」.png" src="https://upload.thwiki.cc/thumb/0/0b/%E5%91%BD%E8%BF%90%E3%80%8C%E5%B9%B3%E8%A1%8C%E7%9A%84%E5%91%BD%E8%BF%90%E3%80%8D.png/120px-%E5%91%BD%E8%BF%90%E3%80%8C%E5%B9%B3%E8%A1%8C%E7%9A%84%E5%91%BD%E8%BF%90%E3%80%8D.png" decoding="async" loading="lazy" width="120" height="139" srcset="https://upload.thwiki.cc/thumb/0/0b/%E5%91%BD%E8%BF%90%E3%80%8C%E5%B9%B3%E8%A1%8C%E7%9A%84%E5%91%BD%E8%BF%90%E3%80%8D.png/180px-%E5%91%BD%E8%BF%90%E3%80%8C%E5%B9%B3%E8%A1%8C%E7%9A%84%E5%91%BD%E8%BF%90%E3%80%8D.png 1.5x, https://upload.thwiki.cc/thumb/0/0b/%E5%91%BD%E8%BF%90%E3%80%8C%E5%B9%B3%E8%A1%8C%E7%9A%84%E5%91%BD%E8%BF%90%E3%80%8D.png/240px-%E5%91%BD%E8%BF%90%E3%80%8C%E5%B9%B3%E8%A1%8C%E7%9A%84%E5%91%BD%E8%BF%90%E3%80%8D.png 2x" data-file-width="577" data-file-height="666"></a></td></tr>
-<tr><td>符卡原名</td><td>命运「平行的命运」</td></tr><tr><td>出现位置</td><td>Spellcard Challenge（<a href="/%E8%95%BE%E7%B1%B3%E8%8E%89%E4%BA%9A%C2%B7%E6%96%AF%E5%8D%A1%E9%9B%B7%E7%89%B9" class="mw-redirect" title="蕾米莉亚·斯卡雷特">蕾米莉亚·斯卡雷特</a>）</td></tr></tbody></table>
+<tr><td>符卡原名</td><td>命运「平行的命运」</td></tr><tr><td>出现位置</td><td>Spellcard Challenge（<a href="./蕾米莉亚·斯卡雷特.md" class="mw-redirect" title="蕾米莉亚·斯卡雷特">蕾米莉亚·斯卡雷特</a>）</td></tr></tbody></table>
 
 
   
@@ -304,7 +304,7 @@
 
 <table>
 <tbody><tr><td width="80">符卡编号</td><td width="400">075</td><td rowspan="3" width="120"><a href="./文件-红夜「杀人漩涡」.png.md" class="image"><img alt="红夜「杀人漩涡」.png" src="https://upload.thwiki.cc/thumb/7/73/%E7%BA%A2%E5%A4%9C%E3%80%8C%E6%9D%80%E4%BA%BA%E6%BC%A9%E6%B6%A1%E3%80%8D.png/120px-%E7%BA%A2%E5%A4%9C%E3%80%8C%E6%9D%80%E4%BA%BA%E6%BC%A9%E6%B6%A1%E3%80%8D.png" decoding="async" loading="lazy" width="120" height="139" srcset="https://upload.thwiki.cc/thumb/7/73/%E7%BA%A2%E5%A4%9C%E3%80%8C%E6%9D%80%E4%BA%BA%E6%BC%A9%E6%B6%A1%E3%80%8D.png/180px-%E7%BA%A2%E5%A4%9C%E3%80%8C%E6%9D%80%E4%BA%BA%E6%BC%A9%E6%B6%A1%E3%80%8D.png 1.5x, https://upload.thwiki.cc/thumb/7/73/%E7%BA%A2%E5%A4%9C%E3%80%8C%E6%9D%80%E4%BA%BA%E6%BC%A9%E6%B6%A1%E3%80%8D.png/240px-%E7%BA%A2%E5%A4%9C%E3%80%8C%E6%9D%80%E4%BA%BA%E6%BC%A9%E6%B6%A1%E3%80%8D.png 2x" data-file-width="577" data-file-height="666"></a></td></tr>
-<tr><td>符卡原名</td><td>红夜「杀人漩涡」</td></tr><tr><td>出现位置</td><td>Spellcard Challenge（<a href="/%E8%95%BE%E7%B1%B3%E8%8E%89%E4%BA%9A%C2%B7%E6%96%AF%E5%8D%A1%E9%9B%B7%E7%89%B9" class="mw-redirect" title="蕾米莉亚·斯卡雷特">蕾米莉亚·斯卡雷特</a>）</td></tr></tbody></table>
+<tr><td>符卡原名</td><td>红夜「杀人漩涡」</td></tr><tr><td>出现位置</td><td>Spellcard Challenge（<a href="./蕾米莉亚·斯卡雷特.md" class="mw-redirect" title="蕾米莉亚·斯卡雷特">蕾米莉亚·斯卡雷特</a>）</td></tr></tbody></table>
 
 
   
@@ -315,7 +315,7 @@
 
 <table>
 <tbody><tr><td width="80">符卡编号</td><td width="400">076</td><td rowspan="3" width="120"><a href="./文件-「不夜迷城」.png.md" class="image"><img alt="「不夜迷城」.png" src="https://upload.thwiki.cc/thumb/d/d3/%E3%80%8C%E4%B8%8D%E5%A4%9C%E8%BF%B7%E5%9F%8E%E3%80%8D.png/120px-%E3%80%8C%E4%B8%8D%E5%A4%9C%E8%BF%B7%E5%9F%8E%E3%80%8D.png" decoding="async" loading="lazy" width="120" height="139" srcset="https://upload.thwiki.cc/thumb/d/d3/%E3%80%8C%E4%B8%8D%E5%A4%9C%E8%BF%B7%E5%9F%8E%E3%80%8D.png/180px-%E3%80%8C%E4%B8%8D%E5%A4%9C%E8%BF%B7%E5%9F%8E%E3%80%8D.png 1.5x, https://upload.thwiki.cc/thumb/d/d3/%E3%80%8C%E4%B8%8D%E5%A4%9C%E8%BF%B7%E5%9F%8E%E3%80%8D.png/240px-%E3%80%8C%E4%B8%8D%E5%A4%9C%E8%BF%B7%E5%9F%8E%E3%80%8D.png 2x" data-file-width="577" data-file-height="666"></a></td></tr>
-<tr><td>符卡原名</td><td>「不夜迷城」</td></tr><tr><td>出现位置</td><td>Spellcard Challenge（<a href="/%E8%95%BE%E7%B1%B3%E8%8E%89%E4%BA%9A%C2%B7%E6%96%AF%E5%8D%A1%E9%9B%B7%E7%89%B9" class="mw-redirect" title="蕾米莉亚·斯卡雷特">蕾米莉亚·斯卡雷特</a>）</td></tr></tbody></table>
+<tr><td>符卡原名</td><td>「不夜迷城」</td></tr><tr><td>出现位置</td><td>Spellcard Challenge（<a href="./蕾米莉亚·斯卡雷特.md" class="mw-redirect" title="蕾米莉亚·斯卡雷特">蕾米莉亚·斯卡雷特</a>）</td></tr></tbody></table>
 
 
   
@@ -326,7 +326,7 @@
 
 <table>
 <tbody><tr><td width="80">符卡编号</td><td width="400">077</td><td rowspan="3" width="120"><a href="./文件-禁弹「玫瑰地牢」Sp.png.md" class="image"><img alt="禁弹「玫瑰地牢」Sp.png" src="https://upload.thwiki.cc/thumb/a/a0/%E7%A6%81%E5%BC%B9%E3%80%8C%E7%8E%AB%E7%91%B0%E5%9C%B0%E7%89%A2%E3%80%8DSp.png/120px-%E7%A6%81%E5%BC%B9%E3%80%8C%E7%8E%AB%E7%91%B0%E5%9C%B0%E7%89%A2%E3%80%8DSp.png" decoding="async" loading="lazy" width="120" height="140" srcset="https://upload.thwiki.cc/thumb/a/a0/%E7%A6%81%E5%BC%B9%E3%80%8C%E7%8E%AB%E7%91%B0%E5%9C%B0%E7%89%A2%E3%80%8DSp.png/180px-%E7%A6%81%E5%BC%B9%E3%80%8C%E7%8E%AB%E7%91%B0%E5%9C%B0%E7%89%A2%E3%80%8DSp.png 1.5x, https://upload.thwiki.cc/thumb/a/a0/%E7%A6%81%E5%BC%B9%E3%80%8C%E7%8E%AB%E7%91%B0%E5%9C%B0%E7%89%A2%E3%80%8DSp.png/240px-%E7%A6%81%E5%BC%B9%E3%80%8C%E7%8E%AB%E7%91%B0%E5%9C%B0%E7%89%A2%E3%80%8DSp.png 2x" data-file-width="576" data-file-height="671"></a></td></tr>
-<tr><td>符卡原名</td><td>禁弹「玫瑰地牢」</td></tr><tr><td>出现位置</td><td>Spellcard Challenge（<a href="/%E8%8A%99%E5%85%B0%E6%9C%B5%E9%9C%B2%C2%B7%E6%96%AF%E5%8D%A1%E9%9B%B7%E7%89%B9" class="mw-redirect" title="芙兰朵露·斯卡雷特">芙兰朵露·斯卡雷特</a>）</td></tr></tbody></table>
+<tr><td>符卡原名</td><td>禁弹「玫瑰地牢」</td></tr><tr><td>出现位置</td><td>Spellcard Challenge（<a href="./芙兰朵露·斯卡雷特.md" class="mw-redirect" title="芙兰朵露·斯卡雷特">芙兰朵露·斯卡雷特</a>）</td></tr></tbody></table>
 
 
   
@@ -337,7 +337,7 @@
 
 <table>
 <tbody><tr><td width="80">符卡编号</td><td width="400">078</td><td rowspan="3" width="120"><a href="./文件-禁忌「罹难漩涡」Sp.png.md" class="image"><img alt="禁忌「罹难漩涡」Sp.png" src="https://upload.thwiki.cc/thumb/e/e4/%E7%A6%81%E5%BF%8C%E3%80%8C%E7%BD%B9%E9%9A%BE%E6%BC%A9%E6%B6%A1%E3%80%8DSp.png/120px-%E7%A6%81%E5%BF%8C%E3%80%8C%E7%BD%B9%E9%9A%BE%E6%BC%A9%E6%B6%A1%E3%80%8DSp.png" decoding="async" loading="lazy" width="120" height="140" srcset="https://upload.thwiki.cc/thumb/e/e4/%E7%A6%81%E5%BF%8C%E3%80%8C%E7%BD%B9%E9%9A%BE%E6%BC%A9%E6%B6%A1%E3%80%8DSp.png/180px-%E7%A6%81%E5%BF%8C%E3%80%8C%E7%BD%B9%E9%9A%BE%E6%BC%A9%E6%B6%A1%E3%80%8DSp.png 1.5x, https://upload.thwiki.cc/thumb/e/e4/%E7%A6%81%E5%BF%8C%E3%80%8C%E7%BD%B9%E9%9A%BE%E6%BC%A9%E6%B6%A1%E3%80%8DSp.png/240px-%E7%A6%81%E5%BF%8C%E3%80%8C%E7%BD%B9%E9%9A%BE%E6%BC%A9%E6%B6%A1%E3%80%8DSp.png 2x" data-file-width="576" data-file-height="671"></a></td></tr>
-<tr><td>符卡原名</td><td>禁忌「罹难漩涡」</td></tr><tr><td>出现位置</td><td>Spellcard Challenge（<a href="/%E8%8A%99%E5%85%B0%E6%9C%B5%E9%9C%B2%C2%B7%E6%96%AF%E5%8D%A1%E9%9B%B7%E7%89%B9" class="mw-redirect" title="芙兰朵露·斯卡雷特">芙兰朵露·斯卡雷特</a>）</td></tr></tbody></table>
+<tr><td>符卡原名</td><td>禁忌「罹难漩涡」</td></tr><tr><td>出现位置</td><td>Spellcard Challenge（<a href="./芙兰朵露·斯卡雷特.md" class="mw-redirect" title="芙兰朵露·斯卡雷特">芙兰朵露·斯卡雷特</a>）</td></tr></tbody></table>
 
 
   
@@ -348,7 +348,7 @@
 
 <table>
 <tbody><tr><td width="80">符卡编号</td><td width="400">079</td><td rowspan="3" width="120"><a href="./文件-「命轮游戏_13号空棺」Sp.png.md" class="image"><img alt="「命轮游戏 13号空棺」Sp.png" src="https://upload.thwiki.cc/thumb/f/fa/%E3%80%8C%E5%91%BD%E8%BD%AE%E6%B8%B8%E6%88%8F_13%E5%8F%B7%E7%A9%BA%E6%A3%BA%E3%80%8DSp.png/120px-%E3%80%8C%E5%91%BD%E8%BD%AE%E6%B8%B8%E6%88%8F_13%E5%8F%B7%E7%A9%BA%E6%A3%BA%E3%80%8DSp.png" decoding="async" loading="lazy" width="120" height="140" srcset="https://upload.thwiki.cc/thumb/f/fa/%E3%80%8C%E5%91%BD%E8%BD%AE%E6%B8%B8%E6%88%8F_13%E5%8F%B7%E7%A9%BA%E6%A3%BA%E3%80%8DSp.png/180px-%E3%80%8C%E5%91%BD%E8%BD%AE%E6%B8%B8%E6%88%8F_13%E5%8F%B7%E7%A9%BA%E6%A3%BA%E3%80%8DSp.png 1.5x, https://upload.thwiki.cc/thumb/f/fa/%E3%80%8C%E5%91%BD%E8%BD%AE%E6%B8%B8%E6%88%8F_13%E5%8F%B7%E7%A9%BA%E6%A3%BA%E3%80%8DSp.png/240px-%E3%80%8C%E5%91%BD%E8%BD%AE%E6%B8%B8%E6%88%8F_13%E5%8F%B7%E7%A9%BA%E6%A3%BA%E3%80%8DSp.png 2x" data-file-width="723" data-file-height="841"></a></td></tr>
-<tr><td>符卡原名</td><td>「命轮游戏 13号空棺」</td></tr><tr><td>出现位置</td><td>Spellcard Challenge（<a href="/%E8%8A%99%E5%85%B0%E6%9C%B5%E9%9C%B2%C2%B7%E6%96%AF%E5%8D%A1%E9%9B%B7%E7%89%B9" class="mw-redirect" title="芙兰朵露·斯卡雷特">芙兰朵露·斯卡雷特</a>）</td></tr></tbody></table>
+<tr><td>符卡原名</td><td>「命轮游戏 13号空棺」</td></tr><tr><td>出现位置</td><td>Spellcard Challenge（<a href="./芙兰朵露·斯卡雷特.md" class="mw-redirect" title="芙兰朵露·斯卡雷特">芙兰朵露·斯卡雷特</a>）</td></tr></tbody></table>
 
 
   
@@ -359,7 +359,7 @@
 
 <table>
 <tbody><tr><td width="80">符卡编号</td><td width="400">080</td><td rowspan="3" width="120"><a href="./文件-禁忌「孤独的葬礼」Sp.png.md" class="image"><img alt="禁忌「孤独的葬礼」Sp.png" src="https://upload.thwiki.cc/thumb/5/53/%E7%A6%81%E5%BF%8C%E3%80%8C%E5%AD%A4%E7%8B%AC%E7%9A%84%E8%91%AC%E7%A4%BC%E3%80%8DSp.png/120px-%E7%A6%81%E5%BF%8C%E3%80%8C%E5%AD%A4%E7%8B%AC%E7%9A%84%E8%91%AC%E7%A4%BC%E3%80%8DSp.png" decoding="async" loading="lazy" width="120" height="140" srcset="https://upload.thwiki.cc/thumb/5/53/%E7%A6%81%E5%BF%8C%E3%80%8C%E5%AD%A4%E7%8B%AC%E7%9A%84%E8%91%AC%E7%A4%BC%E3%80%8DSp.png/180px-%E7%A6%81%E5%BF%8C%E3%80%8C%E5%AD%A4%E7%8B%AC%E7%9A%84%E8%91%AC%E7%A4%BC%E3%80%8DSp.png 1.5x, https://upload.thwiki.cc/thumb/5/53/%E7%A6%81%E5%BF%8C%E3%80%8C%E5%AD%A4%E7%8B%AC%E7%9A%84%E8%91%AC%E7%A4%BC%E3%80%8DSp.png/240px-%E7%A6%81%E5%BF%8C%E3%80%8C%E5%AD%A4%E7%8B%AC%E7%9A%84%E8%91%AC%E7%A4%BC%E3%80%8DSp.png 2x" data-file-width="576" data-file-height="671"></a></td></tr>
-<tr><td>符卡原名</td><td>禁忌「孤独的葬礼」</td></tr><tr><td>出现位置</td><td>Spellcard Challenge（<a href="/%E8%8A%99%E5%85%B0%E6%9C%B5%E9%9C%B2%C2%B7%E6%96%AF%E5%8D%A1%E9%9B%B7%E7%89%B9" class="mw-redirect" title="芙兰朵露·斯卡雷特">芙兰朵露·斯卡雷特</a>）</td></tr></tbody></table>
+<tr><td>符卡原名</td><td>禁忌「孤独的葬礼」</td></tr><tr><td>出现位置</td><td>Spellcard Challenge（<a href="./芙兰朵露·斯卡雷特.md" class="mw-redirect" title="芙兰朵露·斯卡雷特">芙兰朵露·斯卡雷特</a>）</td></tr></tbody></table>
 
 
   
@@ -370,7 +370,7 @@
 
 <table>
 <tbody><tr><td width="80">符卡编号</td><td width="400">081</td><td rowspan="3" width="120"><a href="./文件-禁忌「雷沃汀」.png.md" class="image"><img alt="禁忌「雷沃汀」.png" src="https://upload.thwiki.cc/thumb/d/dd/%E7%A6%81%E5%BF%8C%E3%80%8C%E9%9B%B7%E6%B2%83%E6%B1%80%E3%80%8D.png/120px-%E7%A6%81%E5%BF%8C%E3%80%8C%E9%9B%B7%E6%B2%83%E6%B1%80%E3%80%8D.png" decoding="async" loading="lazy" width="120" height="140" srcset="https://upload.thwiki.cc/thumb/d/dd/%E7%A6%81%E5%BF%8C%E3%80%8C%E9%9B%B7%E6%B2%83%E6%B1%80%E3%80%8D.png/180px-%E7%A6%81%E5%BF%8C%E3%80%8C%E9%9B%B7%E6%B2%83%E6%B1%80%E3%80%8D.png 1.5x, https://upload.thwiki.cc/thumb/d/dd/%E7%A6%81%E5%BF%8C%E3%80%8C%E9%9B%B7%E6%B2%83%E6%B1%80%E3%80%8D.png/240px-%E7%A6%81%E5%BF%8C%E3%80%8C%E9%9B%B7%E6%B2%83%E6%B1%80%E3%80%8D.png 2x" data-file-width="572" data-file-height="667"></a></td></tr>
-<tr><td>符卡原名</td><td>禁忌「雷沃汀」</td></tr><tr><td>出现位置</td><td>Spellcard Challenge（<a href="/%E8%8A%99%E5%85%B0%E6%9C%B5%E9%9C%B2%C2%B7%E6%96%AF%E5%8D%A1%E9%9B%B7%E7%89%B9" class="mw-redirect" title="芙兰朵露·斯卡雷特">芙兰朵露·斯卡雷特</a>）</td></tr></tbody></table>
+<tr><td>符卡原名</td><td>禁忌「雷沃汀」</td></tr><tr><td>出现位置</td><td>Spellcard Challenge（<a href="./芙兰朵露·斯卡雷特.md" class="mw-redirect" title="芙兰朵露·斯卡雷特">芙兰朵露·斯卡雷特</a>）</td></tr></tbody></table>
 
 
 <center>

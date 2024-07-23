@@ -26,6 +26,7 @@ Readme | 东方绀珠传体验版 | 体验版附带文档 | 使用了翻译表�
 
 
 
+
 ###### 如果有什么疑问
 
 
@@ -33,10 +34,12 @@ Readme | 东方绀珠传体验版 | 体验版附带文档 | 使用了翻译表�
 
 
 
+
 ###### 如果没什么疑问
 
 
 <table><tbody><tr class="tt-content" id="=-8" data-pos="&#91;&quot;=&quot;,8&#93;"><td class="tt-ja" lang="ja"><div class="poem">■５．困ったことが無かったら<br>　お楽しみ下さい。</div></td><td class="tt-zh" lang="zh"><div class="poem">■５．如果没有什么疑问<br>　请享受游戏。</div></td></tr></tbody></table>
+
 
 
 

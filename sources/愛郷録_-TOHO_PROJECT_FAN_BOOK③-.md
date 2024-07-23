@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-愛郷録_-TOHO_PROJECT_FAN_BOOK③-封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/0/04/%E6%84%9B%E9%83%B7%E9%8C%B2_-TOHO_PROJECT_FAN_BOOK%E2%91%A2-%E5%B0%81%E9%9D%A2.jpg/157px-%E6%84%9B%E9%83%B7%E9%8C%B2_-TOHO_PROJECT_FAN_BOOK%E2%91%A2-%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="157" height="224" srcset="https://upload.thwiki.cc/thumb/0/04/%E6%84%9B%E9%83%B7%E9%8C%B2_-TOHO_PROJECT_FAN_BOOK%E2%91%A2-%E5%B0%81%E9%9D%A2.jpg/236px-%E6%84%9B%E9%83%B7%E9%8C%B2_-TOHO_PROJECT_FAN_BOOK%E2%91%A2-%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/0/04/%E6%84%9B%E9%83%B7%E9%8C%B2_-TOHO_PROJECT_FAN_BOOK%E2%91%A2-%E5%B0%81%E9%9D%A2.jpg/314px-%E6%84%9B%E9%83%B7%E9%8C%B2_-TOHO_PROJECT_FAN_BOOK%E2%91%A2-%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="2545" data-file-height="3625"></a><div class="cover-char">角色：<a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a></div></td>
@@ -14,14 +15,17 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://orange-aikyouroku.tumblr.com/">https://orange-aikyouroku.tumblr.com/</a></td></tr></tbody></table>
 
 愛郷録 -TOHO PROJECT FAN BOOK③-（同人志，オランジュ停留所，2019） - 2019年5月5日 由 オランジュ停留所 于 博丽神社例大祭16 发布的画集同人志，B5尺寸一共20页，登场人物有 芙兰朵露·斯卡蕾特、博丽灵梦、雾雨魔理沙、露米娅、琪露诺、大妖精、帕秋莉·诺蕾姬、小恶魔、红美铃、蕾米莉亚·斯卡蕾特、十六夜咲夜，分级为 一般向
+
 ## 预览
 - [](./文件-愛郷録_-TOHO_PROJECT_FAN_BOOK③-预览图1.jpg.md)- [](./文件-愛郷録_-TOHO_PROJECT_FAN_BOOK③-预览图2.jpg.md)- [](./文件-愛郷録_-TOHO_PROJECT_FAN_BOOK③-预览图3.jpg.md)- [](./文件-愛郷録_-TOHO_PROJECT_FAN_BOOK③-预览图4.png.md)
+
 
 ## Staff
 Illustration
 : 優月 （[オランジュ停留所](./オランジュ停留所.md)）
 Printing
 : [株式会社グラフィック](http://www.graphic.jp/)
+
 
 ## 评论
 

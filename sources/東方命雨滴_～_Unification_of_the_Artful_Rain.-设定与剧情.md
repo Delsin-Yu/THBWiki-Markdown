@@ -4,6 +4,7 @@
 
 Τeam_αlternative_Σnding
 
+
 ## 目录
 
 - [1 附带文档](#附带文档)
@@ -14,13 +15,16 @@
 
 
 
+
 ## 附带文档
 - [credits](./東方命雨滴_～_Unification_of_the_Artful_Rain.-设定与剧情-credits.md)
 - [omake](./東方命雨滴_～_Unification_of_the_Artful_Rain.-设定与剧情-omake.md)
 - [readme](./東方命雨滴_～_Unification_of_the_Artful_Rain.-设定与剧情-readme.md)
 
+
 ## 故事背景
 - [故事背景](./東方命雨滴_～_Unification_of_the_Artful_Rain.-设定与剧情-故事背景.md)
+
 
 ## 游戏对话
 - [博丽灵梦 游戏对话/结局](./東方命雨滴_～_Unification_of_the_Artful_Rain.-设定与剧情-博丽灵梦.md)
@@ -30,6 +34,7 @@
 - 博丽灵梦 Extra游戏对话 (未找到链接)
 - 雾雨魔理沙 Extra游戏对话 (未找到链接)
 - 小野塚小町 Extra游戏对话 (未找到链接)
+
 
 ## 词条导航
   

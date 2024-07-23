@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-YOYOBOSSA封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/c/c3/YOYOBOSSA%E5%B0%81%E9%9D%A2.jpg/224px-YOYOBOSSA%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="224" srcset="https://upload.thwiki.cc/thumb/c/c3/YOYOBOSSA%E5%B0%81%E9%9D%A2.jpg/336px-YOYOBOSSA%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/c/c3/YOYOBOSSA%E5%B0%81%E9%9D%A2.jpg/448px-YOYOBOSSA%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1280" data-file-height="1280"></a><div class="cover-char">角色：<a href="./西行寺幽幽子.md" title="西行寺幽幽子">西行寺幽幽子</a></div></td>
@@ -14,10 +15,13 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/shirigeP/status/1785991521910857772">https://twitter.com/shirigeP/status/1785991521910857772</a></td></tr></tbody></table>
 
 YOYOBOSSA（同人专辑，幼術使い，2024） - 2024年5月3日 由 幼術使い 于 博丽神社例大祭21 发布的全长同人专辑，分级为 一般向
+
 ## Staff
+
 ## 曲目列表
 
 <table></table>
+
 
 
 ## 评论

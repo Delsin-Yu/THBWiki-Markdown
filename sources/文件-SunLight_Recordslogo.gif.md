@@ -4,6 +4,7 @@
 
 SunLight_Records | 社团LOGO
 
+
 ## 摘要
   
 源地址：[direct image link](http://sunlightrecords.han-be.com/logo.gif), [source page](http://sunlightrecords.han-be.com/)

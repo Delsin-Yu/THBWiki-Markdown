@@ -6,13 +6,17 @@
 
 本页是关于东方Project  
  **二次同人创作者** 的词条
+
 ## 基本信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="label"><b>名称</b></td><td> HAGISOPH </td></tr><tr><td class="label"><b>所属社团</b></td><td><b>当前</b><div style="margin-left:2em;"><a href="./Asomosphere.md" title="Asomosphere">Asomosphere</a></div></td></tr><tr><td class="label"><b>职位</b></td><td>编曲，作词</td></tr><tr><td class="label"><b>参与社团</b></td><td><a href="./Asomosphere.md" title="Asomosphere">Asomosphere</a> （编曲）<br><a href="./ClumsyRecord.md" title="ClumsyRecord">ClumsyRecord</a> （编曲）<br><a href="./Dドライブ.md" title="Dドライブ">Dドライブ</a> （编曲，作词）<br><a href="./dat_file_records.md" title="dat file records">dat file records</a> （编曲）<br><a href="./幻想Storage.md" title="幻想Storage">幻想Storage</a> （编曲）</td></tr><tr><td class="label"><b>个人页面</b></td><td><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><b>Twitter</b></td><td><a rel="nofollow" class="external free" href="https://twitter.com/hagisoph_HGSV">https://twitter.com/hagisoph_HGSV</a></td></tr><tr><td><b>Niconico</b></td><td><a rel="nofollow" class="external free" href="https://www.nicovideo.jp/user/67084564">https://www.nicovideo.jp/user/67084564</a></td></tr><tr><td><b>Soundcloud</b></td><td><a rel="nofollow" class="external free" href="https://soundcloud.com/hagisoph">https://soundcloud.com/hagisoph</a></td></tr><tr><td><b>Youtube</b></td><td><a rel="nofollow" class="external free" href="https://www.youtube.com/channel/UCxKSHiZ_3ieSyFaMWd8aiUQ">https://www.youtube.com/channel/UCxKSHiZ_3ieSyFaMWd8aiUQ</a></td></tr></tbody></table></td></tr></tbody></table>
 
 HAGISOPH（人物） - 现实人物
+
 ## 介绍
+
 ## 参与作品
+
 ### 同人音乐
   
 模板:人物曲目列表 (未找到链接)

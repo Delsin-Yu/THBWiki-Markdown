@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-誘哦灯-you'll_Die-to：Д2封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/7/79/%E8%AA%98%E5%93%A6%E7%81%AF-you%27ll_Die-to%EF%BC%9A%D0%942%E5%B0%81%E9%9D%A2.jpg/160px-%E8%AA%98%E5%93%A6%E7%81%AF-you%27ll_Die-to%EF%BC%9A%D0%942%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="160" height="224" srcset="https://upload.thwiki.cc/thumb/7/79/%E8%AA%98%E5%93%A6%E7%81%AF-you%27ll_Die-to%EF%BC%9A%D0%942%E5%B0%81%E9%9D%A2.jpg/241px-%E8%AA%98%E5%93%A6%E7%81%AF-you%27ll_Die-to%EF%BC%9A%D0%942%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/7/79/%E8%AA%98%E5%93%A6%E7%81%AF-you%27ll_Die-to%EF%BC%9A%D0%942%E5%B0%81%E9%9D%A2.jpg/321px-%E8%AA%98%E5%93%A6%E7%81%AF-you%27ll_Die-to%EF%BC%9A%D0%942%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="645" data-file-height="900"></a><div class="cover-char">角色：<a href="./多多良小伞.md" title="多多良小伞">多多良小伞</a>，<a href="./吉吊八千慧.md" title="吉吊八千慧">吉吊八千慧</a>，<a href="./露米娅.md" title="露米娅">露米娅</a>，<a href="./骊驹早鬼.md" title="骊驹早鬼">骊驹早鬼</a>，<a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a>，<a href="./古明地恋.md" title="古明地恋">古明地恋</a></div></td>
@@ -17,8 +18,10 @@
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=1151686">蜜瓜</a></td></tr></tbody></table>
 
 
+
 ## 预览
 - [](./文件-誘哦灯-you'll_Die-to：Д2预览图1.jpg.md)- [](./文件-誘哦灯-you'll_Die-to：Д2预览图2.jpg.md)
+
 
 ## 特典
 - 特典版：小册子（メロンブックス委托限定）  
@@ -26,8 +29,10 @@
 
 - [](./文件-誘哦灯-you'll_Die-to：_Д2小册子.jpg.md)誘哦灯-you'll Die-to： Д2小册子
 
+
 ## Staff
 - ろりもやし (未找到链接)
+
 
 ## 评论
 

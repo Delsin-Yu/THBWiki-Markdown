@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -38,11 +39,13 @@
 
 
 
+
 ## 基本信息
 
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">聖徳伝説　～ True Administrator</td></tr><tr><td><b>译名</b></td><td>圣德传说 ～ True Administrator</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 圣德传说 ～ True Administrator（曲目） - 由 ZUN 创作的官方曲目，原名 聖徳伝説　～ True Administrator
+
 ## 出现作品
 
 <table>
@@ -57,7 +60,9 @@
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 东方神灵庙
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th13_13.mp3.md" title="文件:th13 13.mp3">th13_13.mp3</a><br><audio src="https://upload.thwiki.cc/6/66/th13_13.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>BGM\th13_13.wav</td></tr><tr><td><b>BGMForAll</b></td><td><div class="mw-collapsible mw-collapsed">
@@ -66,6 +71,7 @@
 <div class="mw-collapsible-content">BGM = 聖徳伝説　～ True Administrator, 0x140BE998, 0x27B4D8, 0x14339E70, 0x1C92D08</div>
 </div>
 </td></tr></tbody></table>
+
 
 
 ### 暗黑能乐集心绮楼
@@ -77,12 +83,15 @@
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-TFM-006b_09.mp3.md" title="文件:TFM-006b 09.mp3">TFM-006b_09.mp3</a><br><audio src="https://upload.thwiki.cc/a/a3/TFM-006b_09.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track09.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>0:22</td></tr></tbody></table>
 
 
+
 ### 深秘乐曲集
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-TFM-007b_06.mp3.md" title="文件:TFM-007b 06.mp3">TFM-007b_06.mp3</a><br><audio src="https://upload.thwiki.cc/c/c7/TFM-007b_06.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track06.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>4:53</td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 东方神灵庙
 - Music Room (未找到链接)
 
@@ -92,18 +101,23 @@
 　曲子方面，我觉得不做得又强劲又帅气会很失礼所以就变成这种感觉。  
 　最近突然开始被人们认为是个架空的人物，既然如此那我就  
 　请他搬家来到幻想乡中了。神明保佑啊——
+
 ### 东方心绮楼
 - Music Room (未找到链接)
 
 因为放弃了当初预定的特效，所以感觉乐器编组有点走形了。基本上乐器使用得还  
 是越少越好呢。适当地用合成背景音色演奏和音只是撒娇而已！小三度上的转调也  
 是撒娇！！　没有时间我就会撒娇！！！　　　　　　　　　　　　吉他. にいむ
+
 ### 暗黑能乐集心绮楼
 - あきやまうに的文本 (未找到链接)
 
 人气爆发／为了让人知道进入了人气爆发状态，所以全员都是相似的编曲。时间也是固定20秒，所以拍速相同，小节数也相同。
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
   
  **聖徳伝説　～ True Administrator**  圣德传说　～ True Administrator
@@ -128,6 +142,7 @@
 - True Administrator
   - 参考以上，可翻译为「真正的执政者」。
     - 神子的原型圣德太子即飞鸟时代以辅佐推古天皇为名执政的人物。
+
 
 
 

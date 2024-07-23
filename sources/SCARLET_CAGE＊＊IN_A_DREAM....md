@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-SCARLET_CAGE＊＊IN_A_DREAM...封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/a/a0/SCARLET_CAGE%EF%BC%8A%EF%BC%8AIN_A_DREAM...%E5%B0%81%E9%9D%A2.jpg/162px-SCARLET_CAGE%EF%BC%8A%EF%BC%8AIN_A_DREAM...%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="162" height="224" srcset="https://upload.thwiki.cc/thumb/a/a0/SCARLET_CAGE%EF%BC%8A%EF%BC%8AIN_A_DREAM...%E5%B0%81%E9%9D%A2.jpg/244px-SCARLET_CAGE%EF%BC%8A%EF%BC%8AIN_A_DREAM...%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/a/a0/SCARLET_CAGE%EF%BC%8A%EF%BC%8AIN_A_DREAM...%E5%B0%81%E9%9D%A2.jpg/325px-SCARLET_CAGE%EF%BC%8A%EF%BC%8AIN_A_DREAM...%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="550" data-file-height="758"></a><div class="cover-char">角色：<a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a></div></td>
@@ -14,9 +15,12 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/6555393">https://www.pixiv.net/artworks/6555393</a></td></tr></tbody></table>
 
 SCARLET CAGE＊＊IN A DREAM...（同人志，CANDY＊CHAPUS，2009） - 2009年10月11日 由 CANDY＊CHAPUS 于 东方红楼梦5 发布的漫画同人志，B5尺寸一共32页，登场人物有 蕾米莉亚·斯卡蕾特、芙兰朵露·斯卡蕾特、帕秋莉·诺蕾姬，分级为 一般向
+
 ## 预览
+
 ## Staff
 - [23](./23.md)
+
 
 ## 评论
 

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-collage封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/0/05/collage%E5%B0%81%E9%9D%A2.jpg/151px-collage%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="151" height="196" srcset="https://upload.thwiki.cc/thumb/0/05/collage%E5%B0%81%E9%9D%A2.jpg/226px-collage%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/0/05/collage%E5%B0%81%E9%9D%A2.jpg/301px-collage%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="417" data-file-height="542"></a><div class="cover-char">角色：<a href="./八云紫.md" title="八云紫">八云紫</a>，<a href="./多多良小伞.md" title="多多良小伞">多多良小伞</a>，<a href="./射命丸文.md" title="射命丸文">射命丸文</a>，<a href="./姬海棠果.md" title="姬海棠果">姬海棠果</a>，<a href="./蓬莱山辉夜.md" title="蓬莱山辉夜">蓬莱山辉夜</a>，<a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a></div></td>
@@ -14,11 +15,13 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://butaotome.web.fc2.com/collage.html">http://butaotome.web.fc2.com/collage.html</a></td></tr></tbody></table>
 
 collage（同人志，豚乙女，2011） - 2011年5月8日 由 豚乙女 于 博丽神社例大祭8 发布的漫画/小说/设定集/乐谱同人志，B5尺寸一共28页，分级为 一般向
+
 ## Staff
 - [ランコの姉](./ランコの姉.md)
 - [ランコ](./ランコ.md)
 - [コンプ](./コンプ.md)
 - [パプリカ](./パプリカ.md)
+
 
 ## 目录
 
@@ -49,6 +52,7 @@ collage（同人志，豚乙女，2011） - 2011年5月8日 由 豚乙女 于 �
 
 パプリカ
   
+
 
 
 ## 评论

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-幻想郷番外地3_会場限定CD封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/6/6c/%E5%B9%BB%E6%83%B3%E9%83%B7%E7%95%AA%E5%A4%96%E5%9C%B03_%E4%BC%9A%E5%A0%B4%E9%99%90%E5%AE%9ACD%E5%B0%81%E9%9D%A2.jpg/224px-%E5%B9%BB%E6%83%B3%E9%83%B7%E7%95%AA%E5%A4%96%E5%9C%B03_%E4%BC%9A%E5%A0%B4%E9%99%90%E5%AE%9ACD%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="198" srcset="https://upload.thwiki.cc/thumb/6/6c/%E5%B9%BB%E6%83%B3%E9%83%B7%E7%95%AA%E5%A4%96%E5%9C%B03_%E4%BC%9A%E5%A0%B4%E9%99%90%E5%AE%9ACD%E5%B0%81%E9%9D%A2.jpg/336px-%E5%B9%BB%E6%83%B3%E9%83%B7%E7%95%AA%E5%A4%96%E5%9C%B03_%E4%BC%9A%E5%A0%B4%E9%99%90%E5%AE%9ACD%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/6/6c/%E5%B9%BB%E6%83%B3%E9%83%B7%E7%95%AA%E5%A4%96%E5%9C%B03_%E4%BC%9A%E5%A0%B4%E9%99%90%E5%AE%9ACD%E5%B0%81%E9%9D%A2.jpg/448px-%E5%B9%BB%E6%83%B3%E9%83%B7%E7%95%AA%E5%A4%96%E5%9C%B03_%E4%BC%9A%E5%A0%B4%E9%99%90%E5%AE%9ACD%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="664" data-file-height="586"></a><div class="cover-char">角色：<a href="./雪.md" title="雪">雪</a></div></td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/pizuya/status/795239474124898305">https://twitter.com/pizuya/status/795239474124898305</a></td></tr></tbody></table>
 
 幻想郷番外地3 会場限定CD（同人专辑，Pizuya's Cell，2016） - 2016年11月13日 由 Pizuya's Cell 于 幻想乡番外地3 发布的单曲同人专辑，分级为 一般向
+
 ## Staff
   
  **Arrangement**   
@@ -24,9 +26,11 @@
 Illustration
 : 普透明度
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="真紅の少女_～_Crimson_Dead!!" colspan="2" class="title">真紅の少女　～ Crimson Dead!!<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Pizuya's Cell&amp;ogmusic=真紅の少女　～ Crimson Dead!!&amp;fromwiki=幻想郷番外地3_会場限定CD"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Pizuya's_Cell.md" title="Pizuya&#39;s Cell">Pizuya's Cell</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Pizuya's Cell&amp;fromwiki=幻想郷番外地3_会場限定CD"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=真紅の少女　～ Crimson Dead!!&amp;fromwiki=幻想郷番外地3_会場限定CD"><span></span></a></span><div class="ogmusic"><a href="/%E7%9C%9F%E7%B4%85%E3%81%AE%E5%B0%91%E5%A5%B3_%EF%BD%9E_Crimson_Dead!!" class="mw-redirect" title="真紅の少女 ～ Crimson Dead!!">真紅の少女　～ Crimson Dead!!</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E6%80%AA%E7%BB%AE%E8%B0%88_%EF%BD%9E_Mystic_Square." class="mw-redirect" title="东方怪绮谈 ～ Mystic Square.">东方怪绮谈　～ Mystic Square.</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="真紅の少女_～_Crimson_Dead!!" colspan="2" class="title">真紅の少女　～ Crimson Dead!!<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Pizuya's Cell&amp;ogmusic=真紅の少女　～ Crimson Dead!!&amp;fromwiki=幻想郷番外地3_会場限定CD"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Pizuya's_Cell.md" title="Pizuya&#39;s Cell">Pizuya's Cell</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Pizuya's Cell&amp;fromwiki=幻想郷番外地3_会場限定CD"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=真紅の少女　～ Crimson Dead!!&amp;fromwiki=幻想郷番外地3_会場限定CD"><span></span></a></span><div class="ogmusic"><a href="./真紅の少女_～_Crimson_Dead!!.md" class="mw-redirect" title="真紅の少女 ～ Crimson Dead!!">真紅の少女　～ Crimson Dead!!</a></div><div class="source"><a href="./东方怪绮谈_～_Mystic_Square..md" class="mw-redirect" title="东方怪绮谈 ～ Mystic Square.">东方怪绮谈　～ Mystic Square.</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

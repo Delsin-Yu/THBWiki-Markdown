@@ -4,7 +4,8 @@
 
 Coolier (クーリエ) ，主要制作 同人游戏，同人志 的日本同人社团，主催是 marvs，当前状态为 休止
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -23,6 +24,7 @@ Coolier (クーリエ) ，主要制作 同人游戏，同人志 的日本同人�
 
 
 
+
 ## 社团信息
 [](./文件-Coolierbanner.png.md)  [](./文件-Coolierbanner.png.md)Banner 1
 [](./文件-Coolierbanner2.png.md)  [](./文件-Coolierbanner2.png.md)Banner 2
@@ -30,15 +32,19 @@ Coolier (クーリエ) ，主要制作 同人游戏，同人志 的日本同人�
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Coolier (クーリエ) </td></tr><tr><td><b>主要作品类型</b></td><td>同人游戏，同人志</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=marvs&amp;action=edit&amp;redlink=1" class="new" title="marvs（页面不存在）">marvs</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="https://coolier.net/">https://coolier.net/</a> <br><a rel="nofollow" class="external free" href="http://www5d.biglobe.ne.jp/~coolier2/">http://www5d.biglobe.ne.jp/~coolier2/</a> （旧官网）<span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><small>（<a rel="nofollow" class="external text" href="https://web.archive.org/web/20040915032220/http://www5d.biglobe.ne.jp/~coolier2/">缓存页面</a>）</small></td></tr></tbody></table>
 
 Coolier（同人社团，同人游戏社团，同人志社团） - Coolier (クーリエ) ，主要制作 同人游戏，同人志 的日本同人社团，主催是 marvs，当前状态为 休止
+
 ## 社团简介
   
 社团官网托管东方同人文网站[東方創想話](https://coolier.net/sosowa/ssw_l/)。
   
 
+
 ## 成员名单
 - marvs (未找到链接)
 
+
 ## 作品列表
+
 ### 同人游戏
 妖夢ﾀﾝとﾈﾁｮﾈﾁｮ 封面图片 (未找到链接)妖夢ﾀﾝとﾈﾁｮﾈﾁｮ (未找到链接)首发日期：未知 - [](./東方繰人形.md)[東方繰人形](./東方繰人形.md)首发日期：2003-11-23 声音小说 （一般向）[](./東方繰人形2_アリスといっしょ_-Alice_to_Eternal-.md)[東方繰人形2 アリスといっしょ -Alice to Eternal-](./東方繰人形2_アリスといっしょ_-Alice_to_Eternal-.md)首发日期：2005-05-04 （第二回 博麗神社例大祭 (未找到链接)）恋爱AVG （一般向）東方繰人形2 アリスといっしょ +Disc 封面图片 (未找到链接)東方繰人形2 アリスといっしょ +Disc (未找到链接)首发日期：未知 - 戦国幻想郷 紹介Disc 封面图片 (未找到链接)戦国幻想郷 紹介Disc (未找到链接)首发日期：未知 - [](./戦国幻想郷.md)[戦国幻想郷](./戦国幻想郷.md)首发日期：2007-12-31 （Comic Market 73 (未找到链接)）SLG （一般向）
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -52,6 +58,7 @@ Coolier（同人社团，同人游戏社团，同人志社团） - Coolier (ク�
 </table>
 
 
+
 ### 同人志
 [](./博麗祭事記.md)[博麗祭事記](./博麗祭事記.md)首发日期：2004-06-20 （SunshineCreation24 (未找到链接)）合同志 （一般向）B5&#160;尺寸 100&#160;页[](./博麗祭事記_-花綴-.md)[博麗祭事記 -花綴-](./博麗祭事記_-花綴-.md)首发日期：2004-12-30 （Comic Market 67 (未找到链接)）合同志 （一般向）B5&#160;尺寸 200&#160;页[](./博麗祭事記_-遥霞月-.md)[博麗祭事記 -遥霞月-](./博麗祭事記_-遥霞月-.md)首发日期：2005-08-14 （Comic Market 68 (未找到链接)）合同志 （一般向）B5&#160;尺寸 436&#160;页
 <table><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
@@ -62,12 +69,14 @@ Coolier（同人社团，同人游戏社团，同人志社团） - Coolier (ク�
 </table>
 
 
+
 ### 同人专辑
 [](./ゆかりん突発CD.md)[ゆかりん突発CD](./ゆかりん突発CD.md)首发日期：2005-08-14 （Comic Market 68 (未找到链接)）单曲 （一般向）[](./戦国幻想曲.md)[戦国幻想曲](./戦国幻想曲.md)首发日期：2007-12-31 （Comic Market 73 (未找到链接)）原声集 （一般向）该专辑包含 2 张CD
 <table><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 参展信息

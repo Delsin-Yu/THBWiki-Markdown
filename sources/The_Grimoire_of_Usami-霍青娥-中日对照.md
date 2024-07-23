@@ -12,7 +12,7 @@ The_Grimoire_of_Usami | 使用了翻译表的页面 | 宇佐见的魔法书 | �
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./The_Grimoire_of_Usami-宫古芳香-中日对照.md" title="The Grimoire of Usami/宫古芳香/中日对照">宫古芳香</a>&#160;
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="/%E5%AE%87%E4%BD%90%E8%A7%81%E7%9A%84%E9%AD%94%E6%B3%95%E4%B9%A6" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a>&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="./宇佐见的魔法书.md" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a>&#160;
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">&#160;<a href="./The_Grimoire_of_Usami-清兰-中日对照.md" title="The Grimoire of Usami/清兰/中日对照">清兰</a>
 </td>
@@ -25,7 +25,7 @@ The_Grimoire_of_Usami | 使用了翻译表的页面 | 宇佐见的魔法书 | �
 - 翻译：fumika_zero
 
 
-<table><tbody><tr class="tt-content-header" id="=-1" data-pos="&#91;&quot;=&quot;,1&#93;"><td class="tt-jah" lang="ja"><div class="poem">道符「TAO胎动　～道～」</div></td><td class="tt-zhh" lang="zh"><div class="poem"><a href="/%E9%81%93%E7%AC%A6%E3%80%8CTAO%E8%83%8E%E5%8A%A8_%EF%BD%9E%E9%81%93%EF%BD%9E%E3%80%8D" class="mw-redirect" title="道符「TAO胎动 ～道～」">道符「TAO胎动　～道～」</a></div></td></tr><tr class="tt-content" id="=-2" data-pos="&#91;&quot;=&quot;,2&#93;"><td class="tt-ja" lang="ja"><div class="poem">使用者：霍青娥</div></td><td class="tt-zh" lang="zh"><div class="poem">使用者：<a href="./霍青娥.md" title="霍青娥">霍青娥</a></div></td></tr><tr class="tt-content" id="=-3" data-pos="&#91;&quot;=&quot;,3&#93;"><td class="tt-ja" lang="ja"><div class="poem">あらごめんあそばせ。<br>うちの芳香がご迷惑をお掛けしたようで……。<br>あの子、変な欲望が渦巻いていると、私の言いつけを守らずに<br>勝手に動いちゃうことがあるのよねぇ。<br>でも、今回は誰かに<br>導かれたようにも<br>見えるんですけど……。</div></td><td class="tt-zh" lang="zh"><div class="poem">哎呀真是有多冒犯。<br>我家的芳香似乎给各位添麻烦了……<br>那孩子，一陷入奇怪的欲望，就会不听我话<br>擅自行动呢。<br>不过，这次<br>像是被谁<br>引导着一样……</div></td></tr><tr class="tt-header" id="=-4" data-pos="&#91;&quot;=&quot;,4&#93;"><td colspan="2" id="少名针妙丸" class="tt-header" lang="zh"><div class="poem">少名针妙丸</div></td></tr><tr class="tt-content" id="=-5" data-pos="&#91;&quot;=&quot;,5&#93;"><td class="tt-ja" lang="ja"><div class="poem">くくく、あのゾンビは私が声をかけたんだ。まさか邪仙まで釣れるとはなぁ。</div></td><td class="tt-zh" lang="zh"><div class="poem">哼哼哼，那僵尸是我叫来的。没想到连邪仙也钓来了啊。</div></td></tr><tr class="tt-header" id="=-6" data-pos="&#91;&quot;=&quot;,6&#93;"><td colspan="2" id="八云紫" class="tt-header" lang="zh"><div class="poem">八云紫</div></td></tr><tr class="tt-content" id="=-7" data-pos="&#91;&quot;=&quot;,7&#93;"><td class="tt-ja" lang="ja"><div class="poem">あらあら、ゾンビにまで声をかけるなんて、マメねぇ、小人だけに。</div></td><td class="tt-zh" lang="zh"><div class="poem">哎呀哎呀，居然连僵尸都叫来，真是细致呢，不愧是小人。</div></td></tr><tr class="tt-header" id="=-8" data-pos="&#91;&quot;=&quot;,8&#93;"><td colspan="2" id="宇佐见堇子" class="tt-header" lang="zh"><div class="poem">宇佐见堇子</div></td></tr><tr class="tt-content" id="=-9" data-pos="&#91;&quot;=&quot;,9&#93;"><td class="tt-ja" lang="ja"><div class="poem">わあ、あの仙人が来た途端、ゾンビが全然別ものになったわ！　なかなか禍々しい弾幕です！</div></td><td class="tt-zh" lang="zh"><div class="poem">哇啊，那仙人一来，僵尸就完全变成了别的东西！相当不祥的弹幕！</div></td></tr></tbody></table>
+<table><tbody><tr class="tt-content-header" id="=-1" data-pos="&#91;&quot;=&quot;,1&#93;"><td class="tt-jah" lang="ja"><div class="poem">道符「TAO胎动　～道～」</div></td><td class="tt-zhh" lang="zh"><div class="poem"><a href="./道符「TAO胎动_～道～」.md" class="mw-redirect" title="道符「TAO胎动 ～道～」">道符「TAO胎动　～道～」</a></div></td></tr><tr class="tt-content" id="=-2" data-pos="&#91;&quot;=&quot;,2&#93;"><td class="tt-ja" lang="ja"><div class="poem">使用者：霍青娥</div></td><td class="tt-zh" lang="zh"><div class="poem">使用者：<a href="./霍青娥.md" title="霍青娥">霍青娥</a></div></td></tr><tr class="tt-content" id="=-3" data-pos="&#91;&quot;=&quot;,3&#93;"><td class="tt-ja" lang="ja"><div class="poem">あらごめんあそばせ。<br>うちの芳香がご迷惑をお掛けしたようで……。<br>あの子、変な欲望が渦巻いていると、私の言いつけを守らずに<br>勝手に動いちゃうことがあるのよねぇ。<br>でも、今回は誰かに<br>導かれたようにも<br>見えるんですけど……。</div></td><td class="tt-zh" lang="zh"><div class="poem">哎呀真是有多冒犯。<br>我家的芳香似乎给各位添麻烦了……<br>那孩子，一陷入奇怪的欲望，就会不听我话<br>擅自行动呢。<br>不过，这次<br>像是被谁<br>引导着一样……</div></td></tr><tr class="tt-header" id="=-4" data-pos="&#91;&quot;=&quot;,4&#93;"><td colspan="2" id="少名针妙丸" class="tt-header" lang="zh"><div class="poem">少名针妙丸</div></td></tr><tr class="tt-content" id="=-5" data-pos="&#91;&quot;=&quot;,5&#93;"><td class="tt-ja" lang="ja"><div class="poem">くくく、あのゾンビは私が声をかけたんだ。まさか邪仙まで釣れるとはなぁ。</div></td><td class="tt-zh" lang="zh"><div class="poem">哼哼哼，那僵尸是我叫来的。没想到连邪仙也钓来了啊。</div></td></tr><tr class="tt-header" id="=-6" data-pos="&#91;&quot;=&quot;,6&#93;"><td colspan="2" id="八云紫" class="tt-header" lang="zh"><div class="poem">八云紫</div></td></tr><tr class="tt-content" id="=-7" data-pos="&#91;&quot;=&quot;,7&#93;"><td class="tt-ja" lang="ja"><div class="poem">あらあら、ゾンビにまで声をかけるなんて、マメねぇ、小人だけに。</div></td><td class="tt-zh" lang="zh"><div class="poem">哎呀哎呀，居然连僵尸都叫来，真是细致呢，不愧是小人。</div></td></tr><tr class="tt-header" id="=-8" data-pos="&#91;&quot;=&quot;,8&#93;"><td colspan="2" id="宇佐见堇子" class="tt-header" lang="zh"><div class="poem">宇佐见堇子</div></td></tr><tr class="tt-content" id="=-9" data-pos="&#91;&quot;=&quot;,9&#93;"><td class="tt-ja" lang="ja"><div class="poem">わあ、あの仙人が来た途端、ゾンビが全然別ものになったわ！　なかなか禍々しい弾幕です！</div></td><td class="tt-zh" lang="zh"><div class="poem">哇啊，那仙人一来，僵尸就完全变成了别的东西！相当不祥的弹幕！</div></td></tr></tbody></table>
 
 
 <center>
@@ -36,7 +36,7 @@ The_Grimoire_of_Usami | 使用了翻译表的页面 | 宇佐见的魔法书 | �
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./The_Grimoire_of_Usami-宫古芳香-中日对照.md" title="The Grimoire of Usami/宫古芳香/中日对照">宫古芳香</a>&#160;
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="/%E5%AE%87%E4%BD%90%E8%A7%81%E7%9A%84%E9%AD%94%E6%B3%95%E4%B9%A6" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a>&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="./宇佐见的魔法书.md" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a>&#160;
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">&#160;<a href="./The_Grimoire_of_Usami-清兰-中日对照.md" title="The Grimoire of Usami/清兰/中日对照">清兰</a>
 </td>
@@ -45,6 +45,7 @@ The_Grimoire_of_Usami | 使用了翻译表的页面 | 宇佐见的魔法书 | �
 
   
 </center>
+
 
 ## 词条导航
   

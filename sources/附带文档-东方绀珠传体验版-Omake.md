@@ -29,9 +29,11 @@ Omake | 东方绀珠传体验版 | 体验版附带文档 | 使用了翻译表的
 <table><tbody><tr class="tt-content" id="=-1" data-pos="&#91;&quot;=&quot;,1&#93;"><td class="tt-ja" lang="ja"><div class="poem">&#45;------------------------------------------------------------------<br>○東方紺珠伝　～ Legacy of Lunatic Kingdom.<br><br>　体験版のキャラ設定とか<br><br>　　　　　　　　　　　　　　　　　上海アリス幻樂団長　ＺＵＮ<br>　　　　　　　　　　　　　　　　　　　　　　　        2015/05/10<br>&#45;------------------------------------------------------------------</div></td><td class="tt-zh" lang="zh"><div class="poem">&#45;------------------------------------------------------------------<br>○东方绀珠传　～ Legacy of Lunatic Kingdom.<br><br>　体验版的角色设定之类的<br><br>　　　　　　　　　　　　　　　　　上海爱丽丝幻乐团长　ＺＵＮ<br>　　　　　　　　　　　　　　　　　　　　　　　        2015/05/10<br>&#45;------------------------------------------------------------------<br></div></td></tr></tbody></table>
 
 
+
 ## 角色设定
 
 <table><tbody><tr class="tt-content" id="角色设定-1" data-pos="&#91;&quot;\u89d2\u8272\u8bbe\u5b9a&quot;,1&#93;"><td class="tt-ja" lang="ja"><div class="poem">&#61;===================================================================<br>■１．キャラ設定<br>&#61;===================================================================</div></td><td class="tt-zh" lang="zh"><div class="poem">&#61;===================================================================<br>■１．角色设定<br>&#61;===================================================================<br></div></td></tr></tbody></table>
+
 
 
 ### 玩家操纵角色
@@ -39,9 +41,11 @@ Omake | 东方绀珠传体验版 | 体验版附带文档 | 使用了翻译表的
 <table><tbody><tr class="tt-content" id="玩家操纵角色-1" data-pos="&#91;&quot;\u73a9\u5bb6\u64cd\u7eb5\u89d2\u8272&quot;,1&#93;"><td class="tt-ja" lang="ja"><div class="poem">&#45;-------------------------------------------------------------------<br>◇プレイヤーキャラサイド<br>&#45;-------------------------------------------------------------------</div></td><td class="tt-zh" lang="zh"><div class="poem">&#45;-------------------------------------------------------------------<br>◇玩家操纵角色<br>&#45;-------------------------------------------------------------------<br><br></div></td></tr></tbody></table>
 
 
+
 #### 博丽灵梦
 
 <table><tbody><tr class="tt-content" id="博丽灵梦-1" data-pos="&#91;&quot;\u535a\u4e3d\u7075\u68a6&quot;,1&#93;"><td class="tt-ja" lang="ja"><div class="poem">　　○楽園の巫女<br>　　博麗　霊夢（はくれい　れいむ）<br>　　Hakurei Reimu<br><br>　　種族：人間<br>　　能力：主に空を飛ぶ程度の能力<br><br>　　毎度お馴染みの巫女さん。博麗神社の巫女さん。<br><br>　　ついに本格的に月の使者が現われた。<br>　　彼らの目的は判らないが、完全アウェイとなる彼女にとって<br>　　久しぶりに辛い闘いになるに違いない。<br><br>　　今回はミスの許されない闘いを強いられる事となる。<br><br></div></td><td class="tt-zh" lang="zh"><div class="poem">　　○乐园的巫女<br>　　博丽灵梦<br>　　Hakurei Reimu<br><br>　　种族：人类<br>　　能力：主要拥有在空中飞翔程度的能力<br><br>　　大家熟悉的巫女小姐。博丽神社的巫女小姐。<br><br>　　月之使者终于真正出现了。<br>　　虽然不能确定她们的目的，但对完全无关联的她来说<br>　　这一定会是一场许久未尝的苦战。<br><br>　　这次被迫变成了不允许失误的战斗。</div></td></tr></tbody></table>
+
 
 
 #### 雾雨魔理沙
@@ -49,9 +53,11 @@ Omake | 东方绀珠传体验版 | 体验版附带文档 | 使用了翻译表的
 <table><tbody><tr class="tt-content" id="雾雨魔理沙-1" data-pos="&#91;&quot;\u96fe\u96e8\u9b54\u7406\u6c99&quot;,1&#93;"><td class="tt-ja" lang="ja"><div class="poem">　　○普通の魔法使い<br>　　霧雨　魔理沙（きりさめ　まりさ）<br>　　Kirisame Marisa<br><br>　　種族：人間<br>　　能力：魔法を使う程度の能力<br><br>　　幻想郷に住む、普通な魔法使い。蒐集癖を持つ。<br><br>　　ひょんな事から、月の都のパワーストーンを手に入れた。<br>　　どうやらこのパワーストーンが都市伝説を具現化させていたと<br>　　気付き始めたところに、ついに月の使者が現われた。</div></td><td class="tt-zh" lang="zh"><div class="poem">　　○普通的魔法使<br>　　雾雨魔理沙<br>　　Kirisame Marisa<br><br>　　种族：人类<br>　　能力：使用魔法程度的能力<br><br>　　住在幻想乡的普通的魔法使。具有收藏癖。<br><br>　　由偶然的契机，入手了月之都的能量石。<br>　　正开始想这块能量石会如何将都市传说具现化的时候，<br>　　月之使者终于出现了。</div></td></tr></tbody></table>
 
 
+
 #### 东风谷早苗
 
 <table><tbody><tr class="tt-content" id="东风谷早苗-1" data-pos="&#91;&quot;\u4e1c\u98ce\u8c37\u65e9\u82d7&quot;,1&#93;"><td class="tt-ja" lang="ja"><div class="poem">　　○山に住む奇跡の現人神<br>　　東風谷 早苗<br>　　Kochiya Sanae<br><br>　　種族：人間<br>　　能力：奇跡を起こす程度の能力<br><br>　　山の神社に住む巫女さん。<br><br>　　どうも妖怪の山に異変が起こっていることに気が付いていた。<br>　　しかし、妖怪達にはそれが見えないのか反応する物は居なかった。<br>　　不気味に感じた彼女は霊夢に相談する。<br></div></td><td class="tt-zh" lang="zh"><div class="poem">　　○住在山里的奇迹的现人神<br>　　东风谷早苗<br>　　Kochiya Sanae<br><br>　　种族：人类<br>　　能力：可以引发奇迹程度的能力<br><br>　　住在山上的神社的巫女。<br><br>　　似乎注意到了妖怪之山中发生异变的事。<br>　　但是，问妖怪们看得到那个吗却没有任何肯定回答。<br>　　感到诡异的她前去找灵梦协商。</div></td></tr></tbody></table>
+
 
 
 #### 铃仙·优昙华院·因幡
@@ -59,9 +65,11 @@ Omake | 东方绀珠传体验版 | 体验版附带文档 | 使用了翻译表的
 <table><tbody><tr class="tt-content" id="铃仙-1" data-pos="&#91;&quot;\u94c3\u4ed9&quot;,1&#93;"><td class="tt-ja" lang="ja"><div class="poem">　　○地上の月兎<br>　　鈴仙・優曇華院・イナバ<br>　　Reisen Udongein Inaba<br><br>　　種族：人間<br>　　能力：波長を操る程度の能力<br><br>　　永遠亭に住む月の兎。<br><br>　　今回の任務には不穏な物を感じていた。<br>　　どうして永琳様は自分だけで無く人間にも依頼したのだろう。<br>　　人間で無いと見えない物があるとでも言うのだろうか。<br><br>　　紺珠の薬には、未来を経験する力があった。<br>　　この薬は、月の都に住む者なら誰しもが知っている秘薬であった。<br></div></td><td class="tt-zh" lang="zh"><div class="poem">　　○地上的月兔<br>　　铃仙·优昙华院·因幡<br>　　Reisen Udongein Inaba<br><br>　　种族：人类<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">1</a></sup><br>　　能力：操纵波长程度的能力<br><br>　　住在永远亭的月兔。<br><br>　　感觉到了这次的任务里有躁动不安的东西。<br>　　为什么永琳大人除了自己以外还拜托了人类呢。<br>　　是说存在着没有人类就看不见的东西之类的吗。<br><br>　　绀珠之药，有着体验未来的力量。<br>　　这种药，是月之都的住民都知道的秘药。</div></td></tr></tbody></table>
 
 
+
 ### 敌方角色
 
 <table><tbody><tr class="tt-content" id="敌方角色-1" data-pos="&#91;&quot;\u654c\u65b9\u89d2\u8272&quot;,1&#93;"><td class="tt-ja" lang="ja"><div class="poem">&#45;-------------------------------------------------------------------<br>◇敵キャラサイド<br>&#45;-------------------------------------------------------------------</div></td><td class="tt-zh" lang="zh"><div class="poem">&#45;-------------------------------------------------------------------<br>◇敌方角色<br>&#45;-------------------------------------------------------------------<br></div></td></tr></tbody></table>
+
 
 
 #### 清兰
@@ -69,9 +77,11 @@ Omake | 东方绀珠传体验版 | 体验版附带文档 | 使用了翻译表的
 <table><tbody><tr class="tt-content" id="清兰-1" data-pos="&#91;&quot;\u6e05\u5170&quot;,1&#93;"><td class="tt-ja" lang="ja"><div class="poem">　　○１面ボス　　浅葱色のイーグルラヴィ<br>　　清蘭（セイラン）<br>　　Seiran<br><br>　　種族：月の兎<br>　　能力：異次元から弾丸を飛ばす程度の能力<br><br>　　文字通り鉄砲玉。<br>　　イーグルラヴィと呼ばれる地上の調査部隊の中でも<br>　　潜入操作という、一番危険な仕事を持つ。<br>　　危険な割に賃金は低い。<br><br>　　月の兎はみんなテレパシー能力を持っているが、<br>　　まともな会話をしていない。<br>　　休憩中、仲間の為に餅をついていたところに襲撃にあったようだ。<br></div></td><td class="tt-zh" lang="zh"><div class="poem">　　○１面BOSS　　浅葱色的Eagle Rabbit<br>　　清兰<br>　　Seiran<br><br>　　种族：月兔<br>　　能力：从异次元发射子弹程度的能力<br><br>　　名副其实的炮灰。<br>　　在被称为Eagle Rabbit的地面调查部队之中<br>　　负责潜伏渗透这项最危险的工作。<br>　　尽管工作危险，薪水却很低。<br><br>　　月兔虽然都有心灵感应能力，<br>　　但从不会认真进行交谈。<br>　　似乎是在休息中为伙伴捣年糕时遭到了袭击。</div></td></tr></tbody></table>
 
 
+
 #### 铃瑚
 
 <table><tbody><tr class="tt-content" id="铃瑚-1" data-pos="&#91;&quot;\u94c3\u745a&quot;,1&#93;"><td class="tt-ja" lang="ja"><div class="poem">　　○２面ボス　　橘色のイーグルラヴィ<br><br>　　鈴瑚（りんご）<br>　　Ringo<br><br>　　種族：月の兎<br>　　能力：団子を食べる程に強くなる程度の能力<br><br>　　イーグルラヴィと呼ばれる地上の調査部隊の中で<br>　　情報管理という、閑職を担っている。<br>　　楽な割に位の高い役職。<br><br>　　情報を集めていたせいか、彼女の興味が地上に移ってきたようである。<br>　　彼女の任務は調査をすることだけ。<br>　　戦闘も許可されているが、勝つ必要はないと言われている。<br></div></td><td class="tt-zh" lang="zh"><div class="poem">　　○２面BOSS　　橘色的Eagle Rabbit<br><br>　　铃瑚<br>　　Ringo<br><br>　　种族：月兔<br>　　能力：吃团子越多变得越强程度的能力<br><br>　　在被称为Eagle Rabbit的地面调查部队中<br>　　负责情报管理这项闲职。<br>　　尽管很轻松等级却很高的职位。<br><br>　　不知是否因为一直在收集情报，她的兴趣转移到了地面。<br>　　她的任务只是调查。<br>　　虽然也被允许进行战斗，但并没有胜利的必要。</div></td></tr></tbody></table>
+
 
 
 #### 哆来咪

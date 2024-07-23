@@ -18,6 +18,7 @@
 
 
 </center>
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Patchouli封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/1/11/Patchouli%E5%B0%81%E9%9D%A2.jpg/137px-Patchouli%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="137" height="196" srcset="https://upload.thwiki.cc/thumb/1/11/Patchouli%E5%B0%81%E9%9D%A2.jpg/206px-Patchouli%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/1/11/Patchouli%E5%B0%81%E9%9D%A2.jpg/274px-Patchouli%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="750" data-file-height="1071"></a><div class="cover-char">角色：<a href="./帕秋莉·诺蕾姬.md" title="帕秋莉·诺蕾姬">帕秋莉·诺蕾姬</a></div></td>
@@ -30,6 +31,7 @@ Patchouli（同人志，Ragathol Enterprises，2012） - 2024年6月22日 由 Ra
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://ragathol.gumroad.com/l/DvVFL">其他平台（英文）</a>，<a rel="nofollow" class="external text" href="https://ragathol.gumroad.com/l/ohBGA">其他平台（日文）</a></td></tr></tbody></table>
 
 
+
 ## 预览
   
 Pixiv: [1](https://www.pixiv.net/artworks/24626257), [2](https://www.pixiv.net/artworks/24708551), [3](https://www.pixiv.net/artworks/24708612), [4](https://www.pixiv.net/artworks/25811197), [5](https://www.pixiv.net/artworks/26471308), [6](https://www.pixiv.net/artworks/27005674), [7](https://www.pixiv.net/artworks/27287826), [8](https://www.pixiv.net/artworks/24729988)
@@ -38,9 +40,11 @@ Pixiv: [1](https://www.pixiv.net/artworks/24626257), [2](https://www.pixiv.net/a
 DeviantArt: [1](https://www.deviantart.com/ragathol/art/Patchouli-Preview-1-281461060), [2](https://www.deviantart.com/ragathol/art/Patchouli-Preview-2-281996154), [3](https://www.deviantart.com/ragathol/art/Patchouli-Preview-3-282249244), [4](https://www.deviantart.com/ragathol/art/Patchouli-Preview-4-290384187), [5](https://www.deviantart.com/ragathol/art/Patchouli-Preview-5-295190890), [6](https://www.deviantart.com/ragathol/art/Patchouli-Preview-6-299906279), [7](https://www.deviantart.com/ragathol/art/Scarlet-Portrait-302325132), [8](https://www.deviantart.com/ragathol/art/Patchouli-Cover-version-1-282458483)
   
 
+
 ## Staff
 Art &amp; Story
 : Ragathol （[Ragathol Enterprises](./Ragathol_Enterprises.md)）
+
 
 ## 评论
   

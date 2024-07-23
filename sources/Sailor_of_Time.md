@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -40,11 +41,13 @@
 
 
 
+
 ## 基本信息
 
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">Sailor of Time</td></tr><tr><td><b>译名</b></td><td>Sailor of Time</td></tr><tr><td><b>其他译名</b></td><td>时之水手</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 Sailor of Time（曲目） - 由 ZUN 创作的官方曲目，原名 Sailor of Time
+
 ## 出现作品
 
 <table>
@@ -55,7 +58,9 @@ Sailor of Time（曲目） - 由 ZUN 创作的官方曲目，原名 Sailor of Ti
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 东方梦时空
   
 YM2608(OPNA)，FM86版。
@@ -63,6 +68,7 @@ YM2608(OPNA)，FM86版。
 
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th03_11.ogg.md" title="文件:th03 11.ogg">th03_11.ogg</a><br><audio src="https://upload.thwiki.cc/e/ea/th03_11.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>07MM.M</td></tr><tr><td><b>音轨时长</b></td><td>1:46.967</td></tr></tbody></table>
+
 
 
 ### 东方怪绮谈
@@ -74,9 +80,11 @@ YM2608(OPNA)，FM86版。
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th05_Y_11.ogg.md" title="文件:th05 Y 11.ogg">th05_Y_11.ogg</a><br><audio src="https://upload.thwiki.cc/d/d8/th05_Y_11.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>Y_07MM.M</td></tr><tr><td><b>音轨时长</b></td><td>1:46.967</td></tr></tbody></table>
 
 
+
 ### 东方幻想怀古曲
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-thgs03_11.ogg.md" title="文件:thgs03 11.ogg">thgs03_11.ogg</a><br><audio src="https://upload.thwiki.cc/a/a4/thgs03_11.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>th3_11.m</td></tr><tr><td><b>音轨时长</b></td><td>1:46.967</td></tr></tbody></table>
+
 
 
 ### 幺乐团的历史 vol.4
@@ -84,7 +92,9 @@ YM2608(OPNA)，FM86版。
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-ha04_13.mp3.md" title="文件:ha04 13.mp3">ha04_13.mp3</a><br><audio src="https://upload.thwiki.cc/6/60/ha04_13.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track13.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>3:54</td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 东方梦时空
 - Music Room (未找到链接)
 
@@ -102,6 +112,7 @@ YM2608(OPNA)，FM86版。
 中boss 绘理子[^cite_note-1]（暂定）的主题曲。  
 货真价实的水手服～（预定）  
 单说气势是厉害的曲子呢。(^^;
+
 ### 东方怪绮谈
 - Music Room (未找到链接)
 
@@ -112,6 +123,7 @@ YM2608(OPNA)，FM86版。
 中boss 绘理子（暂定）的主题曲。  
 货真价实的水手服～（预定）  
 单说气势是厉害的曲子呢。(^^;
+
 ### 东方幻想怀古曲
 - th3_11pmd.txt (未找到链接)
 
@@ -149,8 +161,11 @@ Sailor of Time哦（喂
 曲子的感想、请求等，这边请  
 　东方幻想空间　「博丽神社」 [http://www16.big.or.jp/~zun/](http://www16.big.or.jp/~zun/)  
 　e-Mail                     zun@big.or.jp
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
   
  **Sailor of Time** 
@@ -164,6 +179,7 @@ Sailor of Time哦（喂
 
 - Sailor of Time
   - 约瑟芬·铁伊的《时间的女儿》（daughter of time）
+
 
 
 ### 二次同人数据

@@ -4,6 +4,7 @@
 
 社团LOGO | 蓬莱Sugar
 
+
 ## 文件说明
   
 源地址：[direct image link](https://2.bp.blogspot.com/_YsxGFNv3_v4/TDtEXRRDoUI/AAAAAAAAAHg/VZYSNNdXEnU/S1600-R/hslogonv2.png), [source page](http://hourai-sugar.blogspot.com/)

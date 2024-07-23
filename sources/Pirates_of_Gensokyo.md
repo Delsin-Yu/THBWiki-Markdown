@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 软件信息](#软件信息)
@@ -13,6 +14,7 @@
 - [3 PV](#PV)
 - [4 内容页面](#内容页面)
 - [5 评论](#评论)
+
 
 
 
@@ -39,6 +41,7 @@ Pirates of Gensokyo（同人游戏，DemonChuckle，ApricotWTF，2019） - 2019�
 <tbody><tr><th colspan="2">配置需求</th></tr>
 <tr><td style="width:120px;padding-left:7px;"><b>硬盘需求</b></td><td>810MB以上</td></tr>
 </tbody></table>
+
 
 
 ## Staff
@@ -111,6 +114,7 @@ Playtesters
 : [Karob](https://github.com/Karob2)
 : [Rakaasac](https://twitter.com/Rakaasac)
 
+
 ## PV
 
 <table>
@@ -123,10 +127,12 @@ Playtesters
 </td></tr></tbody></table>
 
 
+
 ## 内容页面
 - 游戏设定与剧情 (未找到链接)
 - 攻略 (未找到链接)
 - 其他信息 (未找到链接)
+
 
 ## 评论
 

@@ -4,7 +4,8 @@
 
 Mitternachtskonzert ，于 2011 年成立，主要制作 同人音乐 的委内瑞拉同人社团，主催是 Malicent，当前状态为 休止
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -25,11 +26,13 @@ Mitternachtskonzert ，于 2011 年成立，主要制作 同人音乐 的委内�
 
 
 
+
 ## 社团信息
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Mitternachtskonzert </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2011</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=Malicent&amp;action=edit&amp;redlink=1" class="new" title="Malicent（页面不存在）">Malicent</a> </td></tr><tr><td><b>地区</b></td><td>委内瑞拉</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://mitternachtskonzert.blog138.fc2.com/">http://mitternachtskonzert.blog138.fc2.com/</a> <br><a rel="nofollow" class="external free" href="https://soundcloud.com/malicenthart">https://soundcloud.com/malicenthart</a></td></tr></tbody></table>
 
 Mitternachtskonzert（同人社团，同人音乐社团） - Mitternachtskonzert ，于 2011 年成立，主要制作 同人音乐 的委内瑞拉同人社团，主催是 Malicent，当前状态为 休止
+
 ## 成员名单
 - Malicent (未找到链接)
 - Aensland (未找到链接)
@@ -38,7 +41,9 @@ Mitternachtskonzert（同人社团，同人音乐社团） - Mitternachtskonzert
 
 - Alfynith (未找到链接)
 
+
 ## 作品列表
+
 ### 同人专辑
 [](./Clockwork_Funeral.md)[Clockwork Funeral](./Clockwork_Funeral.md)首发日期：2011-01-23 （Bunbunmaru Extra 4 (未找到链接)）MNKT-0001全长 （一般向）[](./Witness_of_Death.md)[Witness of Death](./Witness_of_Death.md)首发日期：2011-04-24 （Bunbunmaru Extra 5 (未找到链接)）MNKT-0002全长 （一般向）[](./Story_of_an_Endless_Tragedy.md)[Story of an Endless Tragedy](./Story_of_an_Endless_Tragedy.md)首发日期：2011-08-11 （Bunbunmaru Extra 6 (未找到链接)）MNKT-0003全长 （一般向）
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -49,7 +54,9 @@ Mitternachtskonzert（同人社团，同人音乐社团） - Mitternachtskonzert
 </table>
 
 
+
 ## 其他信息
+
 ### 相关社团
 - [Cursed Monastery](./Cursed_Monastery.md)（Malicent的个人社团）
 - [The Oneiric Orchestra of the Unfindable Palace](./The_Oneiric_Orchestra_of_the_Unfindable_Palace.md)（Alfynith的个人社团）

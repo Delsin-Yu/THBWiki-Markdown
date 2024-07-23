@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -42,11 +43,13 @@
 
 
 
+
 ## 基本信息
 
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">童祭　～ Innocent Treasures</td></tr><tr><td><b>译名</b></td><td>童祭 ～ Innocent Treasures</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 童祭 ～ Innocent Treasures（曲目） - 由 ZUN 创作的官方曲目，原名 童祭　～ Innocent Treasures
+
 ## 出现作品
 
 <table>
@@ -55,10 +58,13 @@
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 梦违科学世纪
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-hr03_01.mp3.md" title="文件:hr03 01.mp3">hr03_01.mp3</a><br><audio src="https://upload.thwiki.cc/6/66/hr03_01.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track01.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>5:09</td></tr></tbody></table>
+
 
 
 ### 东方外来韦编参
@@ -66,7 +72,9 @@
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-SCoOW03_01.mp3.md" title="文件:SCoOW03 01.mp3">SCoOW03_01.mp3</a><br><audio src="https://upload.thwiki.cc/0/0a/SCoOW03_01.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track01.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>2:15</td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 梦违科学世纪
   
 童祭是唯一一首有公式歌词的曲目，ZUN在梦违科学世纪的附带文本开头，为童祭写了一段歌词。
@@ -86,15 +94,20 @@ Niconico上某位UP主使用初音未来模拟演唱的版本（仅供参考）
 <table><tbody><tr class="tt-content" id="故事内容-3" data-pos="&#91;&quot;\u6545\u4e8b\u5185\u5bb9&quot;,3&#93;"><td class="tt-ja" lang="ja"><div class="poem"><span class="mw-poem-indented" style="display: inline-block; margin-inline-start: 3em;"><ruby lang="ja"><rb><b>夢違</b></rb><rp> (</rp><rt>ゆめたが</rt><rp>) </rp></ruby><b>え、幻の</b><ruby lang="ja"><rb><b>朝靄</b></rb><rp> (</rp><rt>あさもや</rt><rp>) </rp></ruby><b>の世界の記憶を</b></span><br><span class="mw-poem-indented" style="display: inline-block; margin-inline-start: 3em;"><ruby lang="ja"><rb><b>現</b></rb><rp> (</rp><rt>うつ</rt><rp>) </rp></ruby><b>し世は、崩れゆく砂の上に</b></span><br><span class="mw-poem-indented" style="display: inline-block; margin-inline-start: 3em;"><ruby lang="ja"><rb><b>空夢</b></rb><rp> (</rp><rt>そらゆめ</rt><rp>) </rp></ruby><b>の、</b><ruby lang="ja"><rb><b>古</b></rb><rp> (</rp><rt>いにしえ</rt><rp>) </rp></ruby><b>の幽玄の世界の歴史を</b></span><br><span class="mw-poem-indented" style="display: inline-block; margin-inline-start: 3em;"><ruby lang="ja"><rb><b>白日</b></rb><rp> (</rp><rt>はくじつ</rt><rp>) </rp></ruby><b>は、沈みゆく街に</b></span></div></td><td class="tt-zh" lang="zh"><div class="poem"><span class="mw-poem-indented" style="display: inline-block; margin-inline-start: 3em;"><b>梦违<sup id="cite_ref-yt_1-0" class="reference"><a href="#cite_note-yt-1">1</a></sup>，为幻之朝霭的世界的记忆</b></span><br><span class="mw-poem-indented" style="display: inline-block; margin-inline-start: 3em;"><b>现世，构筑在徐徐崩塌的沙土之上</b></span><br><span class="mw-poem-indented" style="display: inline-block; margin-inline-start: 3em;"><b>空梦，描绘着古老的幽玄世界的历史</b></span><br><span class="mw-poem-indented" style="display: inline-block; margin-inline-start: 3em;"><b>白日，映照于逐渐沉没的城市</b></span></div></td></tr><tr class="tt-content" id="故事内容-5" data-pos="&#91;&quot;\u6545\u4e8b\u5185\u5bb9&quot;,5&#93;"><td class="tt-ja" lang="ja"><div class="poem"><span class="mw-poem-indented" style="display: inline-block; margin-inline-start: 3em;"><b>幻か、砂上の楼閣なのか</b></span><br><span class="mw-poem-indented" style="display: inline-block; margin-inline-start: 3em;"><b>夜明け迄、この夢、胡蝶の夢</b></span></div></td><td class="tt-zh" lang="zh"><div class="poem"><span class="mw-poem-indented" style="display: inline-block; margin-inline-start: 3em;"><b>是幻想吗，抑或空中楼阁吗</b></span><br><span class="mw-poem-indented" style="display: inline-block; margin-inline-start: 3em;"><b>直至黎明，这场梦，蝴蝶之梦</b></span></div></td></tr><tr class="tt-content" id="故事内容-7" data-pos="&#91;&quot;\u6545\u4e8b\u5185\u5bb9&quot;,7&#93;"><td class="tt-ja" lang="ja"><div class="poem"><span class="mw-poem-indented" style="display: inline-block; margin-inline-start: 3em;"><b>夢違え、幻の</b><ruby lang="ja"><rb><b>紅</b></rb><rp> (</rp><rt>くれない</rt><rp>) </rp></ruby><b>の屋敷の異彩を</b><br></span><br><span class="mw-poem-indented" style="display: inline-block; margin-inline-start: 3em;"><b>現し世は、血の気無い石の上に</b><br></span><br><span class="mw-poem-indented" style="display: inline-block; margin-inline-start: 3em;"><b>空夢の、古の美しき都のお</b><ruby lang="ja"><rb><b>伽</b></rb><rp> (</rp><rt>とぎ</rt><rp>) </rp></ruby><b>を</b><br></span><br><span class="mw-poem-indented" style="display: inline-block; margin-inline-start: 3em;"><b>白日は、</b><ruby lang="ja"><rb><b>穢</b></rb><rp> (</rp><rt>けが</rt><rp>) </rp></ruby><b>れゆく街に</b></span></div></td><td class="tt-zh" lang="zh"><div class="poem"><span class="mw-poem-indented" style="display: inline-block; margin-inline-start: 3em;"><b>梦违<sup id="cite_ref-yt_1-1" class="reference"><a href="#cite_note-yt-1">1</a></sup>，为幻之绯红的房屋的异彩</b></span><br><span class="mw-poem-indented" style="display: inline-block; margin-inline-start: 3em;"><b>现世，构筑在毫无血色的石块之上</b></span><br><span class="mw-poem-indented" style="display: inline-block; margin-inline-start: 3em;"><b>空梦，描绘着古老的美丽都市的童话</b></span><br><span class="mw-poem-indented" style="display: inline-block; margin-inline-start: 3em;"><b>白日，映照于越发肮脏的城市</b></span></div></td></tr></tbody></table>
 
 
+
 ### 东方文花帖（书籍）
 - 幻想的音觉 (未找到链接)
 
 （『[梦违科学世纪](./梦违科学世纪.md)』收录曲）　　这是一首以前从未写过的、创作难度最高的曲子。毕竟这可是我自己的主题曲。这是作为谈话节目的入场主题曲写下的曲子，无论作成什么样都会觉得不好意思，有种不知道说什么的心情。  
 　　曲子倒是在不留神之中写成了比较圆满的样子。但曲子太过宏大、太过可爱了，这可不能说是自己的主题曲。  
 　　写完这首曲子的主旋律时，我嘴里不知为何哼着“梦违、梦违”，于是就把它作为CD的标题了。本来是想把曲名叫做“梦违观音”的，但想到这是我的主题曲，叫这个似乎不太合适，于是作罢了。
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
+
 #### 曲目名分析
   
  **童祭　～ Innocent Treasures** 
@@ -127,6 +140,7 @@ Niconico上某位UP主使用初音未来模拟演唱的版本（仅供参考）
 
 
 
+
 #### 歌词分析
   
  **此歌曲为东方project全系列歌曲中唯一拥有官方填词的歌曲** 
@@ -145,6 +159,7 @@ Niconico上某位UP主使用初音未来模拟演唱的版本（仅供参考）
 
 - 紅の屋敷
   - 红魔馆
+
 
 
 ### 二次同人数据

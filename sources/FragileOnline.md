@@ -4,7 +4,8 @@
 
 FragileOnline ，于 2003 年成立，主要制作 同人音乐 的日本同人社团，主催是 YS，当前状态为 休止
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -13,6 +14,7 @@ FragileOnline ，于 2003 年成立，主要制作 同人音乐 的日本同人�
 - [4 作品列表](#作品列表)
 - [5 参展信息](#参展信息)
 - [6 注释](#注释)
+
 
 
 
@@ -42,13 +44,16 @@ Banners
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> FragileOnline </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2003</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>主催</b></td><td> <a href="./YS.md" title="YS">YS</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://www.fragileonline.com/">http://www.fragileonline.com/</a> （旧官网）<span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><br><a rel="nofollow" class="external free" href="http://www.shinsekai.co.uk/">http://www.shinsekai.co.uk/</a> <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span></td></tr></tbody></table>
 
 FragileOnline（同人社团，同人音乐社团） - FragileOnline ，于 2003 年成立，主要制作 同人音乐 的日本同人社团，主催是 YS，当前状态为 休止
+
 ## 成员名单
 - [YS](./YS.md)
+
 
 ## 其他信息
   
 于2014年1月31日在[公式站](http://www.shinsekai.co.uk/blog/2014/01/31/1216/)宣布停止活动。
   
+
 
 ## 作品列表
 [](./東方と戦慄［初回版］.md)[東方と戦慄［初回版］](./東方と戦慄［初回版］.md)首发日期：2003-12-30 （Comic Market 65 (未找到链接)）FOCD-0001全长 （一般向）该专辑包含 2 张CD专辑分为三部分:  
@@ -98,6 +103,7 @@ Side B (Tr. 9-19)[](./冥土行進曲.md)[冥土行進曲](./冥土行進曲.md)
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 参展信息

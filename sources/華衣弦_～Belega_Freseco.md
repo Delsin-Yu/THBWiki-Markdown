@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-華衣弦_～Belega_Freseco封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/7/71/%E8%8F%AF%E8%A1%A3%E5%BC%A6_%EF%BD%9EBelega_Freseco%E5%B0%81%E9%9D%A2.jpg/224px-%E8%8F%AF%E8%A1%A3%E5%BC%A6_%EF%BD%9EBelega_Freseco%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="224" srcset="https://upload.thwiki.cc/thumb/7/71/%E8%8F%AF%E8%A1%A3%E5%BC%A6_%EF%BD%9EBelega_Freseco%E5%B0%81%E9%9D%A2.jpg/336px-%E8%8F%AF%E8%A1%A3%E5%BC%A6_%EF%BD%9EBelega_Freseco%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/7/71/%E8%8F%AF%E8%A1%A3%E5%BC%A6_%EF%BD%9EBelega_Freseco%E5%B0%81%E9%9D%A2.jpg/448px-%E8%8F%AF%E8%A1%A3%E5%BC%A6_%EF%BD%9EBelega_Freseco%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1200" data-file-height="1200"></a><div class="cover-char">角色：<a href="./八云紫.md" title="八云紫">八云紫</a></div></td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.sakugahoukai.com/products">https://www.sakugahoukai.com/products</a></td></tr></tbody></table>
 
 華衣弦 ～Belega Freseco（同人专辑，作画法界，2019） - 2019年5月5日 由 作画法界 于 博丽神社例大祭16 发布的EP同人专辑，曲目主要风格是 金属，分级为 一般向
+
 ## Staff
   
  **Arrangement**   
@@ -24,16 +26,19 @@
 Illustration
 : 冬野
 
+
 ## 试听
   
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/612643707&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=false"></iframe>
 
   
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Masked_Emotion" colspan="2" class="title">Masked Emotion<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=稗田阿樹&amp;ogmusic=亡失のエモーション&amp;fromwiki=華衣弦_～Belega_Freseco"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./稗田阿樹.md" title="稗田阿樹">稗田阿樹</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，稗田阿樹&amp;fromwiki=華衣弦_～Belega_Freseco"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=亡失のエモーション&amp;fromwiki=華衣弦_～Belega_Freseco"><span></span></a></span><div class="ogmusic"><a href="/%E4%BA%A1%E5%A4%B1%E3%81%AE%E3%82%A8%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3" class="mw-redirect" title="亡失のエモーション">亡失のエモーション</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E5%BF%83%E7%BB%AE%E6%A5%BC_%EF%BD%9E_Hopeless_Masquerade." class="mw-redirect" title="东方心绮楼 ～ Hopeless Masquerade.">东方心绮楼　～ Hopeless Masquerade.</a></div></td></tr>
-<tr><td id="2" class="infoYD"><b>02</b></td><td id="Limo_Tathata" colspan="2" class="title">Limo Tathata<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=稗田阿樹&amp;ogmusic=ネクロファンタジア&amp;fromwiki=華衣弦_～Belega_Freseco"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./稗田阿樹.md" title="稗田阿樹">稗田阿樹</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，稗田阿樹&amp;fromwiki=華衣弦_～Belega_Freseco"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=ネクロファンタジア&amp;fromwiki=華衣弦_～Belega_Freseco"><span></span></a></span><div class="ogmusic"><a href="/%E3%83%8D%E3%82%AF%E3%83%AD%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%82%A2" class="mw-redirect" title="ネクロファンタジア">ネクロファンタジア</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E5%A6%96%E5%A6%96%E6%A2%A6_%EF%BD%9E_Perfect_Cherry_Blossom." class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Masked_Emotion" colspan="2" class="title">Masked Emotion<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=稗田阿樹&amp;ogmusic=亡失のエモーション&amp;fromwiki=華衣弦_～Belega_Freseco"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./稗田阿樹.md" title="稗田阿樹">稗田阿樹</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，稗田阿樹&amp;fromwiki=華衣弦_～Belega_Freseco"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=亡失のエモーション&amp;fromwiki=華衣弦_～Belega_Freseco"><span></span></a></span><div class="ogmusic"><a href="./亡失のエモーション.md" class="mw-redirect" title="亡失のエモーション">亡失のエモーション</a></div><div class="source"><a href="./东方心绮楼_～_Hopeless_Masquerade..md" class="mw-redirect" title="东方心绮楼 ～ Hopeless Masquerade.">东方心绮楼　～ Hopeless Masquerade.</a></div></td></tr>
+<tr><td id="2" class="infoYD"><b>02</b></td><td id="Limo_Tathata" colspan="2" class="title">Limo Tathata<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=稗田阿樹&amp;ogmusic=ネクロファンタジア&amp;fromwiki=華衣弦_～Belega_Freseco"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./稗田阿樹.md" title="稗田阿樹">稗田阿樹</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，稗田阿樹&amp;fromwiki=華衣弦_～Belega_Freseco"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=ネクロファンタジア&amp;fromwiki=華衣弦_～Belega_Freseco"><span></span></a></span><div class="ogmusic"><a href="./ネクロファンタジア.md" class="mw-redirect" title="ネクロファンタジア">ネクロファンタジア</a></div><div class="source"><a href="./东方妖妖梦_～_Perfect_Cherry_Blossom..md" class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

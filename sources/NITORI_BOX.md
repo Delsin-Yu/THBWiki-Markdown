@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 软件信息](#软件信息)
@@ -13,6 +14,7 @@
 - [3 Staff](#Staff)
 - [4 内容页面](#内容页面)
 - [5 评论](#评论)
+
 
 
 
@@ -41,6 +43,7 @@ NITORI BOX（同人游戏，BirdStrike，2012） - 2012年5月27日 由 BirdStri
 </tbody></table>
 
 
+
 ## PV
   
 <iframe width="100%" height="180" src="https://ext.nicovideo.jp/thumb/sm17879381" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/watch/sm17879381">,</a></iframe>
@@ -56,6 +59,7 @@ NITORI BOX（同人游戏，BirdStrike，2012） - 2012年5月27日 由 BirdStri
 <tr>
 <td><iframe width="560" height="315" src="//www.youtube-nocookie.com/embed/uW7WtN1hD8A?" frameborder="0" allowfullscreen=""></iframe>
 </td></tr></tbody></table>
+
 
 
 ## Staff
@@ -81,11 +85,13 @@ Stage Background Illustration
 Production Support
 : 徹人 （[Twitter: @t_tetsuzin](https://twitter.com/t_tetsuzin)）
 
+
 ## 内容页面
 - 游戏设定与剧情 (未找到链接)
 - 攻略 (未找到链接)
 - 其他信息 (未找到链接)
 - 原声集：[NITORI -SOUND- BOX](./NITORI_-SOUND-_BOX.md)
+
 
 ## 评论
 

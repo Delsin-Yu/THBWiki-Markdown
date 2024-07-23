@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Rondo_side：C封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/1/1e/Rondo_side%EF%BC%9AC%E5%B0%81%E9%9D%A2.jpg/196px-Rondo_side%EF%BC%9AC%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="196" height="127" srcset="https://upload.thwiki.cc/thumb/1/1e/Rondo_side%EF%BC%9AC%E5%B0%81%E9%9D%A2.jpg/294px-Rondo_side%EF%BC%9AC%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/1/1e/Rondo_side%EF%BC%9AC%E5%B0%81%E9%9D%A2.jpg/392px-Rondo_side%EF%BC%9AC%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1200" data-file-height="780"></a><div class="cover-char">角色：<a href="./灵乌路空.md" title="灵乌路空">灵乌路空</a>，<a href="./火焰猫燐.md" title="火焰猫燐">火焰猫燐</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/64323417">https://www.pixiv.net/artworks/64323417</a></td></tr></tbody></table>
 
 Rondo side：C（同人志，GP-KIDS，2017） - 2017年8月11日 由 GP-KIDS 于 Comic Market 92 发布的漫画同人志，一共100页，登场人物有 火焰猫燐、灵乌路空、博丽灵梦、雾雨魔理沙、东风谷早苗，分级为 一般向
+
 ## Staff
 - [高菜しんの](./高菜しんの.md)
+
 
 ## 评论
 

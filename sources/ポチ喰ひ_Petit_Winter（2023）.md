@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-ポチ喰ひ_Petit_Winter（2023）封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/d/d4/%E3%83%9D%E3%83%81%E5%96%B0%E3%81%B2_Petit_Winter%EF%BC%882023%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/224px-%E3%83%9D%E3%83%81%E5%96%B0%E3%81%B2_Petit_Winter%EF%BC%882023%EF%BC%89%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="224" srcset="https://upload.thwiki.cc/thumb/d/d4/%E3%83%9D%E3%83%81%E5%96%B0%E3%81%B2_Petit_Winter%EF%BC%882023%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/336px-%E3%83%9D%E3%83%81%E5%96%B0%E3%81%B2_Petit_Winter%EF%BC%882023%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/d/d4/%E3%83%9D%E3%83%81%E5%96%B0%E3%81%B2_Petit_Winter%EF%BC%882023%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/448px-%E3%83%9D%E3%83%81%E5%96%B0%E3%81%B2_Petit_Winter%EF%BC%882023%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="900" data-file-height="900"></a><div class="cover-char">角色：<a href="./豫母都日狭美.md" title="豫母都日狭美">豫母都日狭美</a></div></td>
@@ -18,6 +19,7 @@
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=2338156">蜜瓜</a></td></tr></tbody></table>
 
 
+
 ## Staff
   
  **Arrangement**   
@@ -25,9 +27,11 @@
 <table><tbody><tr><td><a href="/index.php?title=%E3%81%BE%EF%BD%9E&amp;action=edit&amp;redlink=1" class="new" title="ま～（页面不存在）">ま～</a></td><td><a href="./ポチとてぬぐひ.md" title="ポチとてぬぐひ">ポチとてぬぐひ</a></td><td>Tr.1</td></tr></tbody></table>
 
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="振り向かない黄泉の道～black_illusion_mix～" colspan="2" class="title">振り向かない黄泉の道～black illusion mix～<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=ま～&amp;ogmusic=振り向かない黄泉の道&amp;fromwiki=ポチ喰ひ_Petit_Winter（2023）"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E3%81%BE%EF%BD%9E&amp;action=edit&amp;redlink=1" class="new" title="ま～（页面不存在）">ま～</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，ま～&amp;fromwiki=ポチ喰ひ_Petit_Winter（2023）"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=振り向かない黄泉の道&amp;fromwiki=ポチ喰ひ_Petit_Winter（2023）"><span></span></a></span><div class="ogmusic"><a href="/%E6%8C%AF%E3%82%8A%E5%90%91%E3%81%8B%E3%81%AA%E3%81%84%E9%BB%84%E6%B3%89%E3%81%AE%E9%81%93" class="mw-redirect" title="振り向かない黄泉の道">振り向かない黄泉の道</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E5%85%BD%E7%8E%8B%E5%9B%AD_%EF%BD%9E_Unfinished_Dream_of_All_Living_Ghost." class="mw-redirect" title="东方兽王园 ～ Unfinished Dream of All Living Ghost.">东方兽王园　～ Unfinished Dream of All Living Ghost.</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="振り向かない黄泉の道～black_illusion_mix～" colspan="2" class="title">振り向かない黄泉の道～black illusion mix～<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=ま～&amp;ogmusic=振り向かない黄泉の道&amp;fromwiki=ポチ喰ひ_Petit_Winter（2023）"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E3%81%BE%EF%BD%9E&amp;action=edit&amp;redlink=1" class="new" title="ま～（页面不存在）">ま～</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，ま～&amp;fromwiki=ポチ喰ひ_Petit_Winter（2023）"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=振り向かない黄泉の道&amp;fromwiki=ポチ喰ひ_Petit_Winter（2023）"><span></span></a></span><div class="ogmusic"><a href="./振り向かない黄泉の道.md" class="mw-redirect" title="振り向かない黄泉の道">振り向かない黄泉の道</a></div><div class="source"><a href="./东方兽王园_～_Unfinished_Dream_of_All_Living_Ghost..md" class="mw-redirect" title="东方兽王园 ～ Unfinished Dream of All Living Ghost.">东方兽王园　～ Unfinished Dream of All Living Ghost.</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

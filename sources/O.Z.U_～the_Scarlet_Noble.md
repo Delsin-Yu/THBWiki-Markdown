@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-O.Z.U_～the_Scarlet_Noble封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/3/3f/O.Z.U_%EF%BD%9Ethe_Scarlet_Noble%E5%B0%81%E9%9D%A2.jpg/280px-O.Z.U_%EF%BD%9Ethe_Scarlet_Noble%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="280" height="278" srcset="https://upload.thwiki.cc/thumb/3/3f/O.Z.U_%EF%BD%9Ethe_Scarlet_Noble%E5%B0%81%E9%9D%A2.jpg/420px-O.Z.U_%EF%BD%9Ethe_Scarlet_Noble%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/3/3f/O.Z.U_%EF%BD%9Ethe_Scarlet_Noble%E5%B0%81%E9%9D%A2.jpg/560px-O.Z.U_%EF%BD%9Ethe_Scarlet_Noble%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="640" data-file-height="635"></a><div class="cover-char">角色：<a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a></div></td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://kakeruichi.mydns.jp/event/post.html#cd1">http://kakeruichi.mydns.jp/event/post.html#cd1</a></td></tr></tbody></table>
 
 O.Z.U ～the Scarlet Noble（同人专辑，Unity-Gain，2010） - 2010年3月14日 由 Unity-Gain 于 博丽神社例大祭7 发布的单曲同人专辑，曲目主要风格是 爵士、其他，分级为 一般向
+
 ## Staff
   
  **Arrangement**   
@@ -29,6 +31,7 @@ O.Z.U ～the Scarlet Noble（同人专辑，Unity-Gain，2010） - 2010年3月14
 Illustration
 : このみ唯月 （[a HEAL](http://sirayukiinari.web.fc2.com/)）
 
+
 ## 试听
   
 O.Z.U ～the Scarlet Noble   
@@ -41,10 +44,12 @@ MOON LIGHT FANTASTIC
 
   
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="O.Z.U_～the_Scarlet_Noble" colspan="2" class="title">O.Z.U ～the Scarlet Noble<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Unity-Gain&amp;ogmusic=亡き王女の為のセプテット&amp;fromwiki=O.Z.U_～the_Scarlet_Noble"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:13</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Unity-Gain.md" title="Unity-Gain">Unity-Gain</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Unity-Gain&amp;fromwiki=O.Z.U_～the_Scarlet_Noble"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演奏</td><td class="text" colspan="2">T.Sax：Naki <br>Key：O太 <br>Bass：batsu <br>Drums：Basashi</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=亡き王女の為のセプテット&amp;fromwiki=O.Z.U_～the_Scarlet_Noble"><span></span></a></span><div class="ogmusic"><a href="/%E4%BA%A1%E3%81%8D%E7%8E%8B%E5%A5%B3%E3%81%AE%E7%82%BA%E3%81%AE%E3%82%BB%E3%83%97%E3%83%86%E3%83%83%E3%83%88" class="mw-redirect" title="亡き王女の為のセプテット">亡き王女の為のセプテット</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E7%BA%A2%E9%AD%94%E4%B9%A1_%EF%BD%9E_the_Embodiment_of_Scarlet_Devil." class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr>
-<tr><td id="2" class="infoYD"><b>02</b></td><td id="MOON_LIGHT_FANTASTIC" colspan="2" class="title">MOON LIGHT FANTASTIC<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Unity-Gain&amp;ogmusic=シンデレラケージ　～ Kagome-Kagome&amp;fromwiki=O.Z.U_～the_Scarlet_Noble"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:56</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Unity-Gain.md" title="Unity-Gain">Unity-Gain</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Unity-Gain&amp;fromwiki=O.Z.U_～the_Scarlet_Noble"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演奏</td><td class="text" colspan="2">T.Sax：Naki <br>Key：O太 <br>Bass：batsu <br>Drums：Basashi</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=シンデレラケージ　～ Kagome-Kagome&amp;fromwiki=O.Z.U_～the_Scarlet_Noble"><span></span></a></span><div class="ogmusic"><a href="/%E3%82%B7%E3%83%B3%E3%83%87%E3%83%AC%E3%83%A9%E3%82%B1%E3%83%BC%E3%82%B8_%EF%BD%9E_Kagome-Kagome" class="mw-redirect" title="シンデレラケージ ～ Kagome-Kagome">シンデレラケージ　～ Kagome-Kagome</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E6%B0%B8%E5%A4%9C%E6%8A%84_%EF%BD%9E_Imperishable_Night." class="mw-redirect" title="东方永夜抄 ～ Imperishable Night.">东方永夜抄　～ Imperishable Night.</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="O.Z.U_～the_Scarlet_Noble" colspan="2" class="title">O.Z.U ～the Scarlet Noble<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Unity-Gain&amp;ogmusic=亡き王女の為のセプテット&amp;fromwiki=O.Z.U_～the_Scarlet_Noble"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:13</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Unity-Gain.md" title="Unity-Gain">Unity-Gain</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Unity-Gain&amp;fromwiki=O.Z.U_～the_Scarlet_Noble"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演奏</td><td class="text" colspan="2">T.Sax：Naki <br>Key：O太 <br>Bass：batsu <br>Drums：Basashi</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=亡き王女の為のセプテット&amp;fromwiki=O.Z.U_～the_Scarlet_Noble"><span></span></a></span><div class="ogmusic"><a href="./亡き王女の為のセプテット.md" class="mw-redirect" title="亡き王女の為のセプテット">亡き王女の為のセプテット</a></div><div class="source"><a href="./东方红魔乡_～_the_Embodiment_of_Scarlet_Devil..md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr>
+<tr><td id="2" class="infoYD"><b>02</b></td><td id="MOON_LIGHT_FANTASTIC" colspan="2" class="title">MOON LIGHT FANTASTIC<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Unity-Gain&amp;ogmusic=シンデレラケージ　～ Kagome-Kagome&amp;fromwiki=O.Z.U_～the_Scarlet_Noble"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:56</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Unity-Gain.md" title="Unity-Gain">Unity-Gain</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Unity-Gain&amp;fromwiki=O.Z.U_～the_Scarlet_Noble"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演奏</td><td class="text" colspan="2">T.Sax：Naki <br>Key：O太 <br>Bass：batsu <br>Drums：Basashi</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=シンデレラケージ　～ Kagome-Kagome&amp;fromwiki=O.Z.U_～the_Scarlet_Noble"><span></span></a></span><div class="ogmusic"><a href="./シンデレラケージ_～_Kagome-Kagome.md" class="mw-redirect" title="シンデレラケージ ～ Kagome-Kagome">シンデレラケージ　～ Kagome-Kagome</a></div><div class="source"><a href="./东方永夜抄_～_Imperishable_Night..md" class="mw-redirect" title="东方永夜抄 ～ Imperishable Night.">东方永夜抄　～ Imperishable Night.</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

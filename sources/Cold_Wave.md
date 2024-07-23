@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Cold_Wave封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/2/27/Cold_Wave%E5%B0%81%E9%9D%A2.png/252px-Cold_Wave%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="252" height="250" srcset="https://upload.thwiki.cc/thumb/2/27/Cold_Wave%E5%B0%81%E9%9D%A2.png/378px-Cold_Wave%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/2/27/Cold_Wave%E5%B0%81%E9%9D%A2.png/504px-Cold_Wave%E5%B0%81%E9%9D%A2.png 2x" data-file-width="1500" data-file-height="1488"></a><div class="cover-char">角色：<a href="./琪露诺.md" title="琪露诺">琪露诺</a></div></td>
@@ -18,6 +19,7 @@ Cold Wave（同人专辑，少女フラクタル，2018） - 2018年4月1日 由
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=353122">蜜瓜特装版</a>，<a rel="nofollow" class="external text" href="https://itunes.apple.com/album/cold-wave-single/1455801148">Apple Music</a>，<a rel="nofollow" class="external text" href="https://play.google.com/store/music/album?id=Bny2ooqu3rr3gm3ovzie73kwrzm">Google Play Music</a></td></tr></tbody></table>
 
 
+
 ## Staff
   
  **Arrangement**   
@@ -27,7 +29,7 @@ Cold Wave（同人专辑，少女フラクタル，2018） - 2018年4月1日 由
   
  **Vocal**   
 
-<table><tbody><tr><td><a href="/%E6%9F%9A%E6%9C%A8%E6%A2%A8%E6%B2%99" class="mw-redirect" title="柚木梨沙">柚木梨沙</a></td><td><a href="./少女フラクタル.md" title="少女フラクタル">少女フラクタル</a></td><td>Tr.1</td></tr></tbody></table>
+<table><tbody><tr><td><a href="./柚木梨沙.md" class="mw-redirect" title="柚木梨沙">柚木梨沙</a></td><td><a href="./少女フラクタル.md" title="少女フラクタル">少女フラクタル</a></td><td>Tr.1</td></tr></tbody></table>
 
   
  **Lyrics**   
@@ -37,6 +39,7 @@ Cold Wave（同人专辑，少女フラクタル，2018） - 2018年4月1日 由
 
 Illustration
 : 薄
+
 
 ## 试听
 
@@ -55,10 +58,12 @@ Illustration
 
   
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoRD"><b>01</b></td><td id="Cold_Wave" colspan="2" class="title"><a href="./歌词-Cold_Wave.md" title="歌词:Cold Wave">Cold Wave</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=奥山ナマリ&amp;vocal=柚木梨沙&amp;lyric=奥山ナマリ，&amp;ogmusic=おてんば恋娘&amp;fromwiki=Cold_Wave"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:40</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./奥山ナマリ.md" title="奥山ナマリ">奥山ナマリ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，奥山ナマリ，&amp;fromwiki=Cold_Wave"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="/%E6%9F%9A%E6%9C%A8%E6%A2%A8%E6%B2%99" class="mw-redirect" title="柚木梨沙">柚木梨沙</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=柚木梨沙，&amp;fromwiki=Cold_Wave"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="./奥山ナマリ.md" title="奥山ナマリ">奥山ナマリ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?lyric=奥山ナマリ，&amp;fromwiki=Cold_Wave"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=おてんば恋娘&amp;fromwiki=Cold_Wave"><span></span></a></span><div class="ogmusic"><a href="/%E3%81%8A%E3%81%A6%E3%82%93%E3%81%B0%E6%81%8B%E5%A8%98" class="mw-redirect" title="おてんば恋娘">おてんば恋娘</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E7%BA%A2%E9%AD%94%E4%B9%A1_%EF%BD%9E_the_Embodiment_of_Scarlet_Devil." class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr>
-<tr><td id="2" class="infoYD"><b>02</b></td><td id="Cold_Wave_(Instrumental)" colspan="2" class="title">Cold Wave (Instrumental)<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=奥山ナマリ&amp;ogmusic=おてんば恋娘&amp;fromwiki=Cold_Wave"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:40</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./奥山ナマリ.md" title="奥山ナマリ">奥山ナマリ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，奥山ナマリ，&amp;fromwiki=Cold_Wave"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=おてんば恋娘&amp;fromwiki=Cold_Wave"><span></span></a></span><div class="ogmusic"><a href="/%E3%81%8A%E3%81%A6%E3%82%93%E3%81%B0%E6%81%8B%E5%A8%98" class="mw-redirect" title="おてんば恋娘">おてんば恋娘</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E7%BA%A2%E9%AD%94%E4%B9%A1_%EF%BD%9E_the_Embodiment_of_Scarlet_Devil." class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoRD"><b>01</b></td><td id="Cold_Wave" colspan="2" class="title"><a href="./歌词-Cold_Wave.md" title="歌词:Cold Wave">Cold Wave</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=奥山ナマリ&amp;vocal=柚木梨沙&amp;lyric=奥山ナマリ，&amp;ogmusic=おてんば恋娘&amp;fromwiki=Cold_Wave"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:40</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./奥山ナマリ.md" title="奥山ナマリ">奥山ナマリ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，奥山ナマリ，&amp;fromwiki=Cold_Wave"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="./柚木梨沙.md" class="mw-redirect" title="柚木梨沙">柚木梨沙</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=柚木梨沙，&amp;fromwiki=Cold_Wave"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="./奥山ナマリ.md" title="奥山ナマリ">奥山ナマリ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?lyric=奥山ナマリ，&amp;fromwiki=Cold_Wave"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=おてんば恋娘&amp;fromwiki=Cold_Wave"><span></span></a></span><div class="ogmusic"><a href="./おてんば恋娘.md" class="mw-redirect" title="おてんば恋娘">おてんば恋娘</a></div><div class="source"><a href="./东方红魔乡_～_the_Embodiment_of_Scarlet_Devil..md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr>
+<tr><td id="2" class="infoYD"><b>02</b></td><td id="Cold_Wave_(Instrumental)" colspan="2" class="title">Cold Wave (Instrumental)<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=奥山ナマリ&amp;ogmusic=おてんば恋娘&amp;fromwiki=Cold_Wave"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:40</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./奥山ナマリ.md" title="奥山ナマリ">奥山ナマリ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，奥山ナマリ，&amp;fromwiki=Cold_Wave"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=おてんば恋娘&amp;fromwiki=Cold_Wave"><span></span></a></span><div class="ogmusic"><a href="./おてんば恋娘.md" class="mw-redirect" title="おてんば恋娘">おてんば恋娘</a></div><div class="source"><a href="./东方红魔乡_～_the_Embodiment_of_Scarlet_Devil..md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

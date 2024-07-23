@@ -1,0 +1,161 @@
+# 生命游戏
+
+<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\d\d2\ns0%3A%E7%94%9F%E5%91%BD%E6%B8%B8%E6%88%8F.html -->
+
+官方符卡
+
+本页是关于 **[符卡](./符卡.md#符卡)（SpellCard）** 的词条生命游戏（符卡） - 官方符卡
+
+<table>
+
+<tbody><tr>
+<th>中文名</th>
+<th>日文名
+</th></tr>
+<tr>
+<td>苏活「生命游戏 -Life Game-」</td>
+<td>蘇活「生命遊戯　-ライフゲーム-」
+</td></tr>
+<tr>
+<td>苏生「Rising Game」</td>
+<td>蘇生「ライジングゲーム」
+</td></tr></tbody></table>
+
+
+  
+  
+
+  
+
+
+## 目录
+
+- [1 登场](#登场)
+
+  - [1.1 东方永夜抄](#东方永夜抄)
+
+
+
+- [2 符卡说明](#符卡说明)
+
+  - [2.1 东方永夜抄](#东方永夜抄_2)
+  - [2.2 The Grimoire of Marisa](#The_Grimoire_of_Marisa)
+
+
+
+- [3 其他内容](#其他内容)
+
+  - [3.1 游戏资料](#游戏资料)
+  - [3.2 分析考据](#分析考据)
+
+
+
+- [4 注释](#注释)
+- [5 导航](#导航)
+
+
+
+
+
+## 登场
+
+### 东方永夜抄
+
+<table>
+
+<tbody><tr>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:302px;"><a href="./文件-苏活「生命游戏_-Life_Game-」（永夜抄）.jpg.md" class="image"><img alt="" src="https://upload.thwiki.cc/thumb/8/8e/%E8%8B%8F%E6%B4%BB%E3%80%8C%E7%94%9F%E5%91%BD%E6%B8%B8%E6%88%8F_-Life_Game-%E3%80%8D%EF%BC%88%E6%B0%B8%E5%A4%9C%E6%8A%84%EF%BC%89.jpg/300px-%E8%8B%8F%E6%B4%BB%E3%80%8C%E7%94%9F%E5%91%BD%E6%B8%B8%E6%88%8F_-Life_Game-%E3%80%8D%EF%BC%88%E6%B0%B8%E5%A4%9C%E6%8A%84%EF%BC%89.jpg" decoding="async" loading="lazy" width="300" height="350" class="thumbimage" srcset="https://upload.thwiki.cc/8/8e/%E8%8B%8F%E6%B4%BB%E3%80%8C%E7%94%9F%E5%91%BD%E6%B8%B8%E6%88%8F_-Life_Game-%E3%80%8D%EF%BC%88%E6%B0%B8%E5%A4%9C%E6%8A%84%EF%BC%89.jpg 1.5x" data-file-width="384" data-file-height="448"></a>  <div class="thumbcaption"><div class="magnify"><a href="./文件-苏活「生命游戏_-Life_Game-」（永夜抄）.jpg.md" class="internal" title="放大"></a></div>苏活「生命游戏 -Life Game-」</div></div></div>
+</td>
+<td>
+<p>6面BOSS八意永琳Easy / Normal难度符卡。
+</p>
+</td></tr></tbody></table>
+
+
+
+  
+  
+
+  
+
+
+<table>
+
+<tbody><tr>
+<td><div class="thumb tleft"><div class="thumbinner" style="width:302px;"><a href="./文件-苏生「Rising_Game」（永夜抄）.jpg.md" class="image"><img alt="" src="https://upload.thwiki.cc/thumb/5/58/%E8%8B%8F%E7%94%9F%E3%80%8CRising_Game%E3%80%8D%EF%BC%88%E6%B0%B8%E5%A4%9C%E6%8A%84%EF%BC%89.jpg/300px-%E8%8B%8F%E7%94%9F%E3%80%8CRising_Game%E3%80%8D%EF%BC%88%E6%B0%B8%E5%A4%9C%E6%8A%84%EF%BC%89.jpg" decoding="async" loading="lazy" width="300" height="350" class="thumbimage" srcset="https://upload.thwiki.cc/5/58/%E8%8B%8F%E7%94%9F%E3%80%8CRising_Game%E3%80%8D%EF%BC%88%E6%B0%B8%E5%A4%9C%E6%8A%84%EF%BC%89.jpg 1.5x" data-file-width="384" data-file-height="448"></a>  <div class="thumbcaption"><div class="magnify"><a href="./文件-苏生「Rising_Game」（永夜抄）.jpg.md" class="internal" title="放大"></a></div>苏生「Rising Game」</div></div></div>
+</td>
+<td>
+<p>6面BOSS八意永琳Hard / Lunatic难度符卡。
+</p>
+</td></tr></tbody></table>
+
+
+
+
+## 符卡说明
+
+### 东方永夜抄
+
+<table><tbody><tr class="tt-content-header" id="Stage_6A-17" data-pos="&#91;&quot;Stage 6A&quot;,17&#93;"><td class="tt-jah" lang="ja"><div class="poem">No.128 蘇活「生命遊戯　-ライフゲーム-」</div></td><td class="tt-zhh" lang="zh"><div class="poem">No.128 <a href="./苏活「生命游戏_-Life_Game-」.md" class="mw-redirect" title="苏活「生命游戏 -Life Game-」">苏活「生命游戏 -Life Game-」</a></div></td></tr><tr class="tt-content" id="Stage_6A-18" data-pos="&#91;&quot;Stage 6A&quot;,18&#93;"><td class="tt-ja" lang="ja"><div class="poem">生命のゲーム。つまりはライフゲーム。<br>理学系卒じゃないと意味がわからないかも。人生ゲームではない。</div></td><td class="tt-zh" lang="zh"><div class="poem">生命的游戏。也就是所谓的Life Game<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">1</a></sup>。<br>不是理科毕业的话可能会不明白是什么意思。不是游戏人生<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">2</a></sup>。</div></td></tr><tr class="tt-content-header" id="Stage_6A-19" data-pos="&#91;&quot;Stage 6A&quot;,19&#93;"><td class="tt-jah" lang="ja"><div class="poem">No.129 蘇活「生命遊戯　-ライフゲーム-」</div></td><td class="tt-zhh" lang="zh"><div class="poem">No.129 <a href="./苏活「生命游戏_-Life_Game-」.md" class="mw-redirect" title="苏活「生命游戏 -Life Game-」">苏活「生命游戏 -Life Game-」</a></div></td></tr><tr class="tt-content" id="Stage_6A-20" data-pos="&#91;&quot;Stage 6A&quot;,20&#93;"><td class="tt-ja" lang="ja"><div class="poem">ライフゲーム。但し延命するだけして、世代交代せず御家断絶。<br>全然ルールには乗っ取っていない。薬の与えすぎで寿命が長すぎる。</div></td><td class="tt-zh" lang="zh"><div class="poem">Life Game。但是却因为一直延长寿命而没有做世代的交接导致家族断绝。<br>完全没有遵循法则。给予的药物太多导致寿命过长。<br></div></td></tr></tbody></table>
+
+
+  
+  
+
+  
+
+
+<table><tbody><tr class="tt-content-header" id="Stage_6A-21" data-pos="&#91;&quot;Stage 6A&quot;,21&#93;"><td class="tt-jah" lang="ja"><div class="poem">No.130 蘇生「ライジングゲーム」</div></td><td class="tt-zhh" lang="zh"><div class="poem">No.130 <a href="./苏生「Rising_Game」.md" class="mw-redirect" title="苏生「Rising Game」">苏生「Rising Game」</a></div></td></tr><tr class="tt-content" id="Stage_6A-22" data-pos="&#91;&quot;Stage 6A&quot;,22&#93;"><td class="tt-ja" lang="ja"><div class="poem">ライフゲームの医療改善版。<br>余り寿命を長くして出生率を減らすと最後はこうなる。</div></td><td class="tt-zh" lang="zh"><div class="poem">生命游戏的医疗改善版。<br>过度的延长寿命减少出生率最后就是这样的结果。</div></td></tr><tr class="tt-content-header" id="Stage_6A-23" data-pos="&#91;&quot;Stage 6A&quot;,23&#93;"><td class="tt-jah" lang="ja"><div class="poem">No.131 蘇生「ライジングゲーム」</div></td><td class="tt-zhh" lang="zh"><div class="poem">No.131 <a href="./苏生「Rising_Game」.md" class="mw-redirect" title="苏生「Rising Game」">苏生「Rising Game」</a></div></td></tr><tr class="tt-content" id="Stage_6A-24" data-pos="&#91;&quot;Stage 6A&quot;,24&#93;"><td class="tt-ja" lang="ja"><div class="poem">ライフゲームの医療改善版。<br>とあるゲームメーカーとは一切関係は無い。</div></td><td class="tt-zh" lang="zh"><div class="poem">生命游戏的医疗改善版。<br>和某些游戏制作公司<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">3</a></sup>没有任何关系。<br></div></td></tr></tbody></table>
+
+
+
+### The Grimoire of Marisa
+
+<table><tbody><tr class="tt-content-header" id="=-10" data-pos="&#91;&quot;=&quot;,10&#93;"><td class="tt-jah" lang="ja"><div class="poem">蘇活「生命遊戯　-ライフゲーム-」<br></div></td><td class="tt-zhh" lang="zh"><div class="poem"><a href="./苏活「生命游戏_-Life_Game-」.md" class="mw-redirect" title="苏活「生命游戏 -Life Game-」">苏活「生命游戏 -Life Game-」</a><br></div></td></tr><tr class="tt-content" id="=-11" data-pos="&#91;&quot;=&quot;,11&#93;"><td class="tt-ja" lang="ja"><div class="poem">使用者　　　　八意永琳</div></td><td class="tt-zh" lang="zh"><div class="poem">使用者　　　　<a href="./八意永琳.md" title="八意永琳">八意永琳</a><br></div></td></tr><tr class="tt-content" id="=-12" data-pos="&#91;&quot;=&quot;,12&#93;"><td class="tt-ja" lang="ja"><div class="poem">備考　　　　　永夜異変の時に、複合型ストレスタイプ<br></div></td><td class="tt-zh" lang="zh"><div class="poem">备考　　　　　永夜异变时使用，复合型压迫类<br></div></td></tr><tr class="tt-content" id="=-13" data-pos="&#91;&quot;=&quot;,13&#93;"><td class="tt-ja" lang="ja"><div class="poem">参考度　　　　★</div></td><td class="tt-zh" lang="zh"><div class="poem">参考度　　　　★<br></div></td></tr><tr class="tt-content" id="=-14" data-pos="&#91;&quot;=&quot;,14&#93;"><td class="tt-ja" lang="ja"><div class="poem">突然、周囲に弾幕が生まれ、そして消えるスペルカード。<br></div></td><td class="tt-zh" lang="zh"><div class="poem">符卡的效果为对手周围会突然出现呈合围之势的弹幕，随后又会消失。<br></div></td></tr><tr class="tt-content" id="=-15" data-pos="&#91;&quot;=&quot;,15&#93;"><td class="tt-ja" lang="ja"><div class="poem">ライフゲームとは、生き物の生き死にをシミュレートした遊びだそうだ。よく判らんが、虫かごの中に虫を入れて増え方を観察するって事か？<br></div></td><td class="tt-zh" lang="zh"><div class="poem">所谓的生命游戏，指的是一种模拟生物生老病死过程的游戏。具体怎样我不是很清楚，是指把虫子装进笼子里然后观察它们怎样繁衍后代吗？<br></div></td></tr><tr class="tt-content" id="=-16" data-pos="&#91;&quot;=&quot;,16&#93;"><td class="tt-ja" lang="ja"><div class="poem">永琳曰く「親がいつまでも死なないと、食料が無くなって全滅する」だそうだ。へー。</div></td><td class="tt-zh" lang="zh"><div class="poem">永琳曾说过：“如果亲代长生不死，整个群族终将会因食物匮乏而消亡。”哎——<br></div></td></tr></tbody></table>
+
+
+
+## 其他内容
+
+### 游戏资料
+  
+<big>
+</big>  
+<big>- 游戏资料 (未找到链接)
+</big><big></big>  
+<big></big>
+  
+
+
+### 分析考据
+  
+<big>
+</big>  
+<big>- [分析与考据](./生命游戏-分析与考据.md)
+</big><big></big>  
+<big></big>
+  
+
+
+[^cite_note-1]: 此处指由英国数学家John Horton Conway发明的一个细胞自动机：康威生命游戏。这个离散模型假想了一个二维空间，以及该空间上一些生死状态由给定规则所决定的生物。
+
+
+## 导航
+
+<table><tbody><tr><td><table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;;;"><tbody><tr><th style=";" colspan="3" class="navbox-title"><div class="navbar"><div class="noprint plainlinksneverexpand" style="background-color:transparent; padding:0; font-weight:normal; font-size:80%; white-space:nowrap;"><a href="./模板-八意永琳符卡导航.md" title="模板:八意永琳符卡导航"><span style=";;border:none;" title="查看这个模板">查</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<a href="/index.php?title=%E6%A8%A1%E6%9D%BF:%E5%85%AB%E6%84%8F%E6%B0%B8%E7%90%B3%E7%AC%A6%E5%8D%A1%E5%AF%BC%E8%88%AA&amp;action=edit"><span style=";;border:none;" title="您可以编辑这个模板。请在储存变更之前先预览">编</span></a></div></div><span><a href="./八意永琳.md" title="八意永琳">八意永琳</a>符卡</span></th></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">射击游戏</td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div><a href="./东方永夜抄.md" title="东方永夜抄">东方永夜抄</a></div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./天丸「壶中的天地」.md" class="mw-redirect" title="天丸「壶中的天地」">天丸「壶中的天地」</a> &#8226; <a href="./觉神「神代的记忆」.md" class="mw-redirect" title="觉神「神代的记忆」">觉神「神代的记忆」</a> &#8226; <a href="./神符「天人的族谱」.md" class="mw-redirect" title="神符「天人的族谱」">神符「天人的族谱」</a> &#8226; <a href="./苏活「生命游戏_-Life_Game-」.md" class="mw-redirect" title="苏活「生命游戏 -Life Game-」">苏活「生命游戏 -Life Game-」</a> &#8226; <a href="./苏生「Rising_Game」.md" class="mw-redirect" title="苏生「Rising Game」">苏生「Rising Game」</a> &#8226; <a href="./操神「Omoikane_Device」.md" class="mw-redirect" title="操神「Omoikane Device」">操神「Omoikane Device」</a> &#8226; <a href="./神脑「Omoikane_Brain」.md" class="mw-redirect" title="神脑「Omoikane Brain」">神脑「Omoikane Brain」</a> &#8226; <a href="./天咒「Apollo_13」.md" class="mw-redirect" title="天咒「Apollo 13」">天咒「Apollo 13」</a> &#8226; <a href="./秘术「天文密葬法」.md" class="mw-redirect" title="秘术「天文密葬法」">秘术「天文密葬法」</a> &#8226; <a href="./禁药「蓬莱之药」.md" class="mw-redirect" title="禁药「蓬莱之药」">禁药「蓬莱之药」</a> &#8226; <a href="./药符「壶中的大银河」.md" class="mw-redirect" title="药符「壶中的大银河」">药符「壶中的大银河」</a> &#8226; <a href="./「天网蛛网捕蝶之法」.md" class="mw-redirect" title="「天网蛛网捕蝶之法」">「天网蛛网捕蝶之法」</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div><a href="./东方文花帖.md" title="东方文花帖">东方文花帖</a></div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./药符「蝴蝶梦丸噩梦」.md" class="mw-redirect" title="药符「蝴蝶梦丸噩梦」">药符「蝴蝶梦丸噩梦」</a> &#8226; <a href="./炼丹「水银之海」.md" class="mw-redirect" title="炼丹「水银之海」">炼丹「水银之海」</a> &#8226; <a href="./秘药「仙香玉兔」.md" class="mw-redirect" title="秘药「仙香玉兔」">秘药「仙香玉兔」</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div><a href="./秘封噩梦日记.md" title="秘封噩梦日记">秘封噩梦日记</a></div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./永夜符「蓬莱壶中的弹枝」.md" class="mw-redirect" title="永夜符「蓬莱壶中的弹枝」">永夜符「蓬莱壶中的弹枝」</a> &#8226; <a href="./永绯符「坠落的壶中有顶天」.md" class="mw-redirect" title="永绯符「坠落的壶中有顶天」">永绯符「坠落的壶中有顶天」</a> &#8226; <a href="./永辉符「变大的壶」.md" class="mw-redirect" title="永辉符「变大的壶」">永辉符「变大的壶」</a></div></td></tr></tbody></table><div></div></td><td class="navbox-image" style="" rowspan="3"><a href="./文件-八意永琳（Q版立绘）.png.md" class="image"><img alt="八意永琳（Q版立绘）.png" src="https://upload.thwiki.cc/thumb/b/bc/%E5%85%AB%E6%84%8F%E6%B0%B8%E7%90%B3%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png/160px-%E5%85%AB%E6%84%8F%E6%B0%B8%E7%90%B3%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="160" height="160" srcset="https://upload.thwiki.cc/thumb/b/bc/%E5%85%AB%E6%84%8F%E6%B0%B8%E7%90%B3%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png/240px-%E5%85%AB%E6%84%8F%E6%B0%B8%E7%90%B3%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/b/bc/%E5%85%AB%E6%84%8F%E6%B0%B8%E7%90%B3%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png/320px-%E5%85%AB%E6%84%8F%E6%B0%B8%E7%90%B3%EF%BC%88Q%E7%89%88%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="500" data-file-height="500"></a></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">出版物</td><td style=";;" class="navbox-list navbox-even"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div><a href="./魔理沙的魔法书.md" class="mw-redirect" title="魔理沙的魔法书">魔理沙的魔法书</a></div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./神符「天人的族谱」.md" class="mw-redirect" title="神符「天人的族谱」">神符「天人的族谱」</a> &#8226; <a href="./苏活「生命游戏_-Life_Game-」.md" class="mw-redirect" title="苏活「生命游戏 -Life Game-」">苏活「生命游戏 -Life Game-」</a> &#8226; <a href="./天咒「Apollo_13」.md" class="mw-redirect" title="天咒「Apollo 13」">天咒「Apollo 13」</a> &#8226; <a href="./「天网蛛网捕蝶之法」.md" class="mw-redirect" title="「天网蛛网捕蝶之法」">「天网蛛网捕蝶之法」</a> &#8226; <a href="./秘药「仙香玉兔」.md" class="mw-redirect" title="秘药「仙香玉兔」">秘药「仙香玉兔」</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div><a href="./宇佐见的魔法书.md" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a></div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./永夜符「蓬莱壶中的弹枝」.md" class="mw-redirect" title="永夜符「蓬莱壶中的弹枝」">永夜符「蓬莱壶中的弹枝」</a></div></td></tr></tbody></table><div></div></td></tr></tbody></table></td></tr></tbody></table>
+
+
+
+
+
+
+---
+
+此文档由 [THBWiki-Markdown-Builder](https://github.com/Delsin-Yu/THBWiki-Markdown-Builder) 构建。
+
+文档中的所有内容除特殊注明外，均在 [**知识共享(Creative Commons) 署名-非商业性使用-相同方式共享 3.0 协议**](https://creativecommons.org/licenses/by-sa/3.0/deed.zh-hans) 下提供，附加条款亦可能应用。
+
+引用类型与其他类型作品版权归原作者所有，如有作者授权则遵照授权协议使用。
+
+详细请查阅 [THBWiki：免责声明](https://thbwiki.cc/THBWiki:%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E)。
+

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2">无封面</td>
@@ -14,18 +15,22 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/cloisternotes/status/895290328000770048">https://twitter.com/cloisternotes/status/895290328000770048</a></td></tr></tbody></table>
 
 Cloister Notes C92シングル（同人专辑，Cloister Notes，2017） - 2017年8月11日 由 Cloister Notes 于 Comic Market 92 发布的单曲同人专辑，曲目主要风格是 Rock，分级为 一般向
+
 ## Staff
+
 ## 试听
   
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/337145323&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=false"></iframe>
 
   
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="info"><b>01</b></td><td id="???" colspan="2" class="title">???<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=アルティメットトゥルース&amp;fromwiki=Cloister_Notes_C92シングル"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=アルティメットトゥルース&amp;fromwiki=Cloister_Notes_C92シングル"><span></span></a></span><div class="ogmusic"><a href="/%E3%82%A2%E3%83%AB%E3%83%86%E3%82%A3%E3%83%A1%E3%83%83%E3%83%88%E3%83%88%E3%82%A5%E3%83%AB%E3%83%BC%E3%82%B9" class="mw-redirect" title="アルティメットトゥルース">アルティメットトゥルース</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E5%A6%96%E5%A6%96%E6%A2%A6_%EF%BD%9E_Perfect_Cherry_Blossom." class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr>
-<tr><td id="2" class="info"><b>02</b></td><td id="???" colspan="2" class="title">???<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=ティアオイエツォン(withered leaf)&amp;fromwiki=Cloister_Notes_C92シングル"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=ティアオイエツォン(withered leaf)&amp;fromwiki=Cloister_Notes_C92シングル"><span></span></a></span><div class="ogmusic"><a href="/%E3%83%86%E3%82%A3%E3%82%A2%E3%82%AA%E3%82%A4%E3%82%A8%E3%83%84%E3%82%A9%E3%83%B3(withered_leaf)" class="mw-redirect" title="ティアオイエツォン(withered leaf)">ティアオイエツォン(withered leaf)</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E5%A6%96%E5%A6%96%E6%A2%A6_%EF%BD%9E_Perfect_Cherry_Blossom." class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr>
+<table><tbody><tr><td id="1" class="info"><b>01</b></td><td id="???" colspan="2" class="title">???<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=アルティメットトゥルース&amp;fromwiki=Cloister_Notes_C92シングル"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=アルティメットトゥルース&amp;fromwiki=Cloister_Notes_C92シングル"><span></span></a></span><div class="ogmusic"><a href="./アルティメットトゥルース.md" class="mw-redirect" title="アルティメットトゥルース">アルティメットトゥルース</a></div><div class="source"><a href="./东方妖妖梦_～_Perfect_Cherry_Blossom..md" class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr>
+<tr><td id="2" class="info"><b>02</b></td><td id="???" colspan="2" class="title">???<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=ティアオイエツォン(withered leaf)&amp;fromwiki=Cloister_Notes_C92シングル"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=ティアオイエツォン(withered leaf)&amp;fromwiki=Cloister_Notes_C92シングル"><span></span></a></span><div class="ogmusic"><a href="./ティアオイエツォン(withered_leaf).md" class="mw-redirect" title="ティアオイエツォン(withered leaf)">ティアオイエツォン(withered leaf)</a></div><div class="source"><a href="./东方妖妖梦_～_Perfect_Cherry_Blossom..md" class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr>
 <tr><td id="3" class="info"><b>03</b></td><td id="???" colspan="2" class="title">???<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=Cloister_Notes_C92シングル"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr></tbody></table>
+
 
 
 ## 评论

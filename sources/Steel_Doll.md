@@ -4,7 +4,8 @@
 
 Steel Doll ，于 2014 年成立，主要制作 同人志 的日本同人社团，主催是 EO，曾以 たんこぶ 名义活动，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -20,16 +21,20 @@ Steel Doll ，于 2014 年成立，主要制作 同人志 的日本同人社团�
 
 
 
+
 ## 社团信息
 文件:Steel Dollbanner.jpg (未找到链接)  banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Steel Doll </td></tr><tr><td><b>曾用名称</b></td><td> たんこぶ </td></tr><tr><td><b>主要作品类型</b></td><td>同人志</td></tr><tr><td><b>成立时间</b></td><td>2014</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="./EO.md" title="EO">EO</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://blog.livedoor.jp/eodayo/">http://blog.livedoor.jp/eodayo/</a> </td></tr></tbody></table>
 
 Steel Doll（同人社团，同人志社团） - Steel Doll ，于 2014 年成立，主要制作 同人志 的日本同人社团，主催是 EO，曾以 たんこぶ 名义活动，当前状态为 活动
+
 ## 成员名单
 - [EO](./EO.md)
 
+
 ## 作品列表
+
 ### 同人志
 [](./東方眼鏡録［紅魔の章］.md)[東方眼鏡録[紅魔の章]](./東方眼鏡録［紅魔の章］.md)首发日期：2014-08-16 （Comic Market 86 (未找到链接)）画集 （一般向）新书&#160;尺寸 12&#160;页[](./東方眼鏡録［永夜の章］.md)[東方眼鏡録[永夜の章]](./東方眼鏡録［永夜の章］.md)首发日期：2014-08-16 （Comic Market 86 (未找到链接)）画集 （一般向）新书&#160;尺寸 12&#160;页[](./東方メイドイラスト集_紅.md)[東方メイドイラスト集 紅](./東方メイドイラスト集_紅.md)首发日期：2014-10-12 （東方紅楼夢10 (未找到链接)）画集 （一般向）B5&#160;尺寸 32&#160;页[](./東方メイドイラスト集_妖.md)[東方メイドイラスト集 妖](./東方メイドイラスト集_妖.md)首发日期：2014-11-24 （第一回 博麗神社秋季例大祭 (未找到链接)）画集 （一般向）B5&#160;尺寸 36&#160;页[](./EO-東方イラスト集.md)[EO-東方イラスト集](./EO-東方イラスト集.md)首发日期：2014-12-29 （Comic Market 87 (未找到链接)）画集 （一般向）A4&#160;尺寸 28&#160;页[](./東方メイドイラスト集_永.md)[東方メイドイラスト集 永](./東方メイドイラスト集_永.md)首发日期：2015-02-21 （月の宴8 (未找到链接)）画集 （一般向）B4&#160;尺寸 24&#160;页[](./東方眼鏡録［風神の章］.md)[東方眼鏡録[風神の章]](./東方眼鏡録［風神の章］.md)首发日期：2016-05-08 （第十三回 博麗神社例大祭 (未找到链接)）画集 （一般向）新书&#160;尺寸 12&#160;页[](./天子づくし!.md)[天子づくし!](./天子づくし!.md)首发日期：2016-10-16 （第三回 博麗神社秋季例大祭 (未找到链接)）画集 （一般向）B5&#160;尺寸 44&#160;页[](./東方黒衣装合同.md)[東方黒衣装合同](./東方黒衣装合同.md)首发日期：2017-08-11 （Comic Market 92 (未找到链接)）画集、​合同志 （一般向）A4&#160;尺寸 46&#160;页[](./東方軍服合同.md)[東方軍服合同](./東方軍服合同.md)首发日期：2017-12-29 （Comic Market 93 (未找到链接)）画集、​合同志 （一般向）A4&#160;尺寸 44&#160;页[](./紫苑のすべて.md)[紫苑のすべて](./紫苑のすべて.md)首发日期：2018-08-10 （Comic Market 94 (未找到链接)）画集 （一般向）B5&#160;尺寸 16&#160;页[](./貧乏神と疫病神.md)[貧乏神と疫病神](./貧乏神と疫病神.md)首发日期：2019-10-06 （第六回 博麗神社秋季例大祭 (未找到链接)）画集 （一般向）B5&#160;尺寸 16&#160;页
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -62,6 +67,7 @@ Steel Doll（同人社团，同人志社团） - Steel Doll ，于 2014 年成�
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458"></table>
+
 
 
 ## 参展信息

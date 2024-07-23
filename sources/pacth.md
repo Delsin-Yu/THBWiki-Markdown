@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-pacth封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/0/0d/pacth%E5%B0%81%E9%9D%A2.jpg/170px-pacth%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="170" height="252" srcset="https://upload.thwiki.cc/thumb/0/0d/pacth%E5%B0%81%E9%9D%A2.jpg/255px-pacth%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/0/0d/pacth%E5%B0%81%E9%9D%A2.jpg/340px-pacth%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1378" data-file-height="2039"></a><div class="cover-char">角色：<a href="./封兽鵺.md" title="封兽鵺">封兽鵺</a></div></td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/hiromuGT/status/1721861998793965981">https://twitter.com/hiromuGT/status/1721861998793965981</a></td></tr><tr><td class="label">备注</td><td colspan="2">DL Card</td></tr></tbody></table>
 
 pacth（同人专辑，夢憂秒，2023） - 2023年11月12日 由 夢憂秒 于 博丽神社秋季例大祭10 发布的单曲同人专辑，曲目主要风格是 Rock，分级为 一般向
+
 ## Staff
   
  **Arrangement**   
@@ -36,6 +38,7 @@ Mix &amp; Mastering
 Illustration
 : こう (未找到链接) （[X&#160;: @10_No_Cut](https://twitter.com/10_No_Cut)）
 
+
 ## 试听
 
 <table>
@@ -48,9 +51,11 @@ Illustration
 </td></tr></tbody></table>
 
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoRD"><b>01</b></td><td id="pacth" colspan="2" class="title"><span class="new" title="（歌词页面不存在）"><a href="/index.php?title=%E6%AD%8C%E8%AF%8D:pacth&amp;boilerplate=模板:页面模板/曲目歌词&amp;action=edit">pacth</a></span><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=HiRoMu&amp;vocal=HiRoMu&amp;lyric=OND&amp;ogmusic=平安のエイリアン&amp;fromwiki=pacth"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=HiRoMu&amp;action=edit&amp;redlink=1" class="new" title="HiRoMu（页面不存在）">HiRoMu</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，HiRoMu&amp;fromwiki=pacth"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="/index.php?title=HiRoMu&amp;action=edit&amp;redlink=1" class="new" title="HiRoMu（页面不存在）">HiRoMu</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=HiRoMu&amp;fromwiki=pacth"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="/index.php?title=OND&amp;action=edit&amp;redlink=1" class="new" title="OND（页面不存在）">OND</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?lyric=OND&amp;fromwiki=pacth"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=平安のエイリアン&amp;fromwiki=pacth"><span></span></a></span><div class="ogmusic"><a href="/%E5%B9%B3%E5%AE%89%E3%81%AE%E3%82%A8%E3%82%A4%E3%83%AA%E3%82%A2%E3%83%B3" class="mw-redirect" title="平安のエイリアン">平安のエイリアン</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E6%98%9F%E8%8E%B2%E8%88%B9_%EF%BD%9E_Undefined_Fantastic_Object." class="mw-redirect" title="东方星莲船 ～ Undefined Fantastic Object.">东方星莲船　～ Undefined Fantastic Object.</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoRD"><b>01</b></td><td id="pacth" colspan="2" class="title"><span class="new" title="（歌词页面不存在）"><a href="/index.php?title=%E6%AD%8C%E8%AF%8D:pacth&amp;boilerplate=模板:页面模板/曲目歌词&amp;action=edit">pacth</a></span><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=HiRoMu&amp;vocal=HiRoMu&amp;lyric=OND&amp;ogmusic=平安のエイリアン&amp;fromwiki=pacth"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=HiRoMu&amp;action=edit&amp;redlink=1" class="new" title="HiRoMu（页面不存在）">HiRoMu</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，HiRoMu&amp;fromwiki=pacth"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="/index.php?title=HiRoMu&amp;action=edit&amp;redlink=1" class="new" title="HiRoMu（页面不存在）">HiRoMu</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=HiRoMu&amp;fromwiki=pacth"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="/index.php?title=OND&amp;action=edit&amp;redlink=1" class="new" title="OND（页面不存在）">OND</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?lyric=OND&amp;fromwiki=pacth"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=平安のエイリアン&amp;fromwiki=pacth"><span></span></a></span><div class="ogmusic"><a href="./平安のエイリアン.md" class="mw-redirect" title="平安のエイリアン">平安のエイリアン</a></div><div class="source"><a href="./东方星莲船_～_Undefined_Fantastic_Object..md" class="mw-redirect" title="东方星莲船 ～ Undefined Fantastic Object.">东方星莲船　～ Undefined Fantastic Object.</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

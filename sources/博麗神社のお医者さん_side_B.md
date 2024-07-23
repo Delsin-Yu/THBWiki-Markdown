@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-博麗神社のお医者さん_side_B封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/7/70/%E5%8D%9A%E9%BA%97%E7%A5%9E%E7%A4%BE%E3%81%AE%E3%81%8A%E5%8C%BB%E8%80%85%E3%81%95%E3%82%93_side_B%E5%B0%81%E9%9D%A2.jpg/119px-%E5%8D%9A%E9%BA%97%E7%A5%9E%E7%A4%BE%E3%81%AE%E3%81%8A%E5%8C%BB%E8%80%85%E3%81%95%E3%82%93_side_B%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="119" height="168" srcset="https://upload.thwiki.cc/thumb/7/70/%E5%8D%9A%E9%BA%97%E7%A5%9E%E7%A4%BE%E3%81%AE%E3%81%8A%E5%8C%BB%E8%80%85%E3%81%95%E3%82%93_side_B%E5%B0%81%E9%9D%A2.jpg/178px-%E5%8D%9A%E9%BA%97%E7%A5%9E%E7%A4%BE%E3%81%AE%E3%81%8A%E5%8C%BB%E8%80%85%E3%81%95%E3%82%93_side_B%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/7/70/%E5%8D%9A%E9%BA%97%E7%A5%9E%E7%A4%BE%E3%81%AE%E3%81%8A%E5%8C%BB%E8%80%85%E3%81%95%E3%82%93_side_B%E5%B0%81%E9%9D%A2.jpg/238px-%E5%8D%9A%E9%BA%97%E7%A5%9E%E7%A4%BE%E3%81%AE%E3%81%8A%E5%8C%BB%E8%80%85%E3%81%95%E3%82%93_side_B%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="272" data-file-height="384"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>，<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a></div></td>
@@ -13,8 +14,10 @@
 </tr><tr><td class="label">首发日期</td><td>2011-04-24&#160;（<a href="/展会作品列表?e=%E4%B8%9C%E6%96%B9%E5%90%8D%E5%8D%8E%E7%A5%AD%234">東方名華祭4</a>）</td></tr><tr><td class="label">类型</td><td>漫画</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>B5</td></tr><tr><td class="label">页数</td><td>12P</td></tr></tbody></table>
 
 博麗神社のお医者さん side B（同人志，さぷり，2011） - 2011年4月24日 由 さぷり 于 东方名华祭4 发布的漫画同人志，B5尺寸一共12页，分级为 一般向
+
 ## Staff
 - みずせ希跡 (未找到链接)
+
 
 ## 评论
 

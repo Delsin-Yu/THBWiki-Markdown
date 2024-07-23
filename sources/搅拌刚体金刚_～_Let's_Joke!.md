@@ -6,6 +6,7 @@ JynX作曲 | 引用了翻译表的页面 | 搅拌刚体金刚_～_Let's_Joke! | 
 
 本页是关于 **向[东方Project](./东方Project.md)  
 致敬、形式类似的作品** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -28,6 +29,7 @@ JynX作曲 | 引用了翻译表的页面 | 搅拌刚体金刚_～_Let's_Joke! | 
 
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
+
 
 
 
@@ -63,6 +65,7 @@ JynX作曲 | 引用了翻译表的页面 | 搅拌刚体金刚_～_Let's_Joke! | 
 </td></tr></tbody></table>
 
 
+
 ## 出现作品
 
 <table>
@@ -72,7 +75,9 @@ JynX作曲 | 引用了翻译表的页面 | 搅拌刚体金刚_～_Let's_Joke! | 
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 连缘无现里
 
 <table>
@@ -92,12 +97,15 @@ JynX作曲 | 引用了翻译表的页面 | 搅拌刚体金刚_～_Let's_Joke! | 
 </td></tr></tbody></table>
 
 
+
 ### 连缘天影战记
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>MIDI格式</b></td><td>无播放信息</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-le04_BOSS_Aoji.mp3.md" title="文件:le04 BOSS Aoji.mp3">le04_BOSS_Aoji.mp3</a><br><audio src="https://upload.thwiki.cc/d/d1/le04_BOSS_Aoji.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>未填写</td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 连缘无现里
 - Music Room (未找到链接)
 
@@ -108,6 +116,7 @@ Oh，it's a joke！Do you know？
 ……抱歉，讲了个很冷的笑话。  
 不过曲名本身也是玩的文字游戏，讲个笑话也蛮不错的吧？  
 冷笑话也是。
+
 ### 连缘天影战记
 - Music Room (未找到链接)
 
@@ -118,8 +127,11 @@ Oh，it's a joke！Do you know？
 曲子有一种相当习惯了这个世界的感觉呢（？）  
 虽然只是二面BOSS实际上这孩子超强的哟  
 不过游戏里也很强就是了
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
 
 

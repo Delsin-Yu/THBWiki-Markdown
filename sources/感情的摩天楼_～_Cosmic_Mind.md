@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -39,11 +40,13 @@
 
 
 
+
 ## 基本信息
 
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">感情の摩天楼　～ Cosmic Mind</td></tr><tr><td><b>译名</b></td><td>感情的摩天楼 ～ Cosmic Mind</td></tr><tr><td><b>英文译名</b></td><td>Emotional Skyscraper ~ Cosmic Mind</td></tr><tr><td><b>其他译名</b></td><td>感情的摩天大楼　～ Cosmic Mind</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 感情的摩天楼 ～ Cosmic Mind（曲目） - 由 ZUN 创作的官方曲目，原名 感情の摩天楼　～ Cosmic Mind
+
 ## 出现作品
 
 <table>
@@ -59,7 +62,9 @@
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 东方星莲船
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th12_13.mp3.md" title="文件:th12 13.mp3">th12_13.mp3</a><br><audio src="https://upload.thwiki.cc/6/67/th12_13.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>BGM\th12_13.wav</td></tr><tr><td><b>BGMForAll</b></td><td><div class="mw-collapsible mw-collapsed">
@@ -70,9 +75,11 @@
 </td></tr></tbody></table>
 
 
+
 ### 鸟船遗迹
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-hr07_09.mp3.md" title="文件:hr07 09.mp3">hr07_09.mp3</a><br><audio src="https://upload.thwiki.cc/d/d0/hr07_09.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track09.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>7:41</td></tr></tbody></table>
+
 
 
 ### 暗黑能乐集心绮楼
@@ -84,12 +91,15 @@
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-TFM-006b_07.mp3.md" title="文件:TFM-006b 07.mp3">TFM-006b_07.mp3</a><br><audio src="https://upload.thwiki.cc/4/4c/TFM-006b_07.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track07.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>0:22</td></tr></tbody></table>
 
 
+
 ### 深秘乐曲集
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-TFM-007b_04.mp3.md" title="文件:TFM-007b 04.mp3">TFM-007b_04.mp3</a><br><audio src="https://upload.thwiki.cc/1/18/TFM-007b_04.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track04.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>4:57</td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 东方星莲船
 - Music Room (未找到链接)
 
@@ -99,18 +109,23 @@
 　大概就是那种让人不容易感觉累的最终BOSS曲。  
 　整体上是和风的旋律，高潮部分就像大家一起唱似的。  
 　大家都倾尽最真感情地GO！
+
 ### 东方心绮楼
 - Music Room (未找到链接)
 
 利用易于制作的乐器制作之后，就搞不懂这个到底是什么体裁的编曲了。所谓的游  
 戏音乐或许就是这样子。明明乐句很多编曲应该很容易，但是因为是最后制作的所  
 以感觉灵感有些耗尽了。　　　　　　　　　　　　　　　　　　　吉他. にいむ
+
 ### 暗黑能乐集心绮楼
 - あきやまうに的文本 (未找到链接)
 
 人气爆发／为了让人知道进入了人气爆发状态，所以全员都是相似的编曲。时间也是固定20秒，所以拍速相同，小节数也相同。
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
   
  **感情の摩天楼　～ Cosmic Mind**  
@@ -139,9 +154,9 @@
 
 - 摩天楼
   - 一般指百米以上的超高层建筑，「摩天」一词对应英文中的「Skyscraper」，有「接近天穹」的意味。
-    - 星莲船 (未找到链接)中法界 (未找到链接)是[魔界](./魔界.md)的一部分，在法界 (未找到链接)场景中远处有类似摩天楼的高层建筑。
+    - [星莲船](./星莲船.md)中[法界](./法界.md#法界)是[魔界](./魔界.md)的一部分，在[法界](./法界.md#法界)场景中远处有类似摩天楼的高层建筑。
     - 在[东方怪绮谈](./东方怪绮谈.md)六面与[神绮](./神绮.md)对战的场景中，出现了远方高楼的场景。
-    - ZUN曾表示，旧作与新作中出现的[魔界](./魔界.md)是同一个（萎えラジ/2009-09-21 (未找到链接)），但其具体的设定存在差异，不能简单地合并起来。
+    - ZUN曾表示，旧作与新作中出现的[魔界](./魔界.md)是同一个（[萎えラジ/2009-09-21](./萎えラジ-2009-09-21.md)），但其具体的设定存在差异，不能简单地合并起来。
 
 
 
@@ -155,6 +170,7 @@
 
 - 引用了[东方幻想乡](./东方幻想乡.md)一面未使用曲[Lotus Road](./Lotus_Road.md)。
   - 「Lotus」即莲花，可能对应[圣白莲](./圣白莲.md)？
+
 
 
 ### 二次同人数据

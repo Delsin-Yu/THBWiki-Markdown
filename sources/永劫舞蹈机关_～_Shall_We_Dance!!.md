@@ -6,6 +6,7 @@ JynX作曲 | 引用了翻译表的页面 | 永劫舞蹈机关_～_Shall_We_Dance
 
 本页是关于 **向[东方Project](./东方Project.md)  
 致敬、形式类似的作品** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -28,6 +29,7 @@ JynX作曲 | 引用了翻译表的页面 | 永劫舞蹈机关_～_Shall_We_Dance
 
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
+
 
 
 
@@ -59,6 +61,7 @@ JynX作曲 | 引用了翻译表的页面 | 永劫舞蹈机关_～_Shall_We_Dance
 </td></tr></tbody></table>
 
 
+
 ## 出现作品
 
 <table>
@@ -68,10 +71,13 @@ JynX作曲 | 引用了翻译表的页面 | 永劫舞蹈机关_～_Shall_We_Dance
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 连缘无现里
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>MIDI格式</b></td><td>无播放信息</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-le01_17.mp3.md" title="文件:le01 17.mp3">le01_17.mp3</a><br><audio src="https://upload.thwiki.cc/5/5e/le01_17.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>未填写</td></tr></tbody></table>
+
 
 
 ### 连缘天影战记
@@ -79,7 +85,9 @@ JynX作曲 | 引用了翻译表的页面 | 永劫舞蹈机关_～_Shall_We_Dance
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>MIDI格式</b></td><td>无播放信息</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-le04_BOSS_Tsurubami.mp3.md" title="文件:le04 BOSS Tsurubami.mp3">le04_BOSS_Tsurubami.mp3</a><br><audio src="https://upload.thwiki.cc/4/48/le04_BOSS_Tsurubami.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>未填写</td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 连缘无现里
 - Music Room (未找到链接)
 
@@ -92,6 +100,7 @@ EX头目阐里鹤喰的曲子。
 头目战放起爵士乐真是气氛热烈呢，不过前卫摇滚也不错！  
 我觉得成品很棒，你觉得呢？  
 如果能演奏一番，应该会相当愉悦吧。
+
 ### 连缘天影战记
 - Music Room (未找到链接)
 
@@ -104,8 +113,11 @@ EX头目阐里鹤喰的曲子。
   
 还有与之相似的一首曲子，要做出区分感来真难呢。  
 就是上面那首曲子。
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
 - 永劫
   - 指极长的时期。“劫”是梵语劫波的简称，是计算世界成坏相的名词。佛教里的“永劫”指永无穷尽之时。

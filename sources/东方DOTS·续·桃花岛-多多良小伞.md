@@ -164,6 +164,7 @@
 [](./文件-THD2多多良小伞.png.md)
   
 
+
 ## 目录
 
 - [1 角色定位](#角色定位)
@@ -184,10 +185,12 @@
 
 
 
+
 ## 角色定位
   
 控制 - 逃生 - 核心 - 打野 - 推进
   
+
 
 ## 技能介绍
 
@@ -805,6 +808,7 @@
 </td></tr></tbody></table>
 
 
+
 ## 天赋树
 
 
@@ -843,10 +847,15 @@
 </td></tr></tbody></table>
 
 
+
 ### 出门装备
+
 ### 前期装备
+
 ### 核心装备
+
 ### 可选装备
+
 ## 技能加点
 
 <table>
@@ -907,6 +916,7 @@
 <td><a href="./文件-DOTA黄点.png.md" class="image" title="+2 全属性"><img alt="+2 全属性" src="https://upload.thwiki.cc/thumb/d/da/DOTA%E9%BB%84%E7%82%B9.png/40px-DOTA%E9%BB%84%E7%82%B9.png" decoding="async" loading="lazy" width="40" height="40" srcset="https://upload.thwiki.cc/thumb/d/da/DOTA%E9%BB%84%E7%82%B9.png/60px-DOTA%E9%BB%84%E7%82%B9.png 1.5x, https://upload.thwiki.cc/thumb/d/da/DOTA%E9%BB%84%E7%82%B9.png/80px-DOTA%E9%BB%84%E7%82%B9.png 2x" data-file-width="128" data-file-height="128"></a></td>
 <td><a href="./文件-THD2天赋树25右.png.md" class="image" title="+150 备用雨伞特级列范围"><img alt="+150 备用雨伞特级列范围" src="https://upload.thwiki.cc/thumb/5/5b/THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%8F%B3.png/40px-THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%8F%B3.png" decoding="async" loading="lazy" width="40" height="40" srcset="https://upload.thwiki.cc/thumb/5/5b/THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%8F%B3.png/60px-THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%8F%B3.png 1.5x, https://upload.thwiki.cc/thumb/5/5b/THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%8F%B3.png/80px-THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%8F%B3.png 2x" data-file-width="103" data-file-height="103"></a>
 </td></tr></tbody></table>
+
 
 
 ## 台词
@@ -1046,6 +1056,7 @@
 <td>ちくしょう！こうなったら神社に降りて暴れてやる。<br>畜生！这样的话我干脆落到神社去乱闹一番。
 </td></tr>
 </tbody></table>
+
 
 
 ## 教学视频

@@ -4,7 +4,8 @@
 
 ClownBerry ，主要制作 同人志 的日本同人社团，当前状态为 休止
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -20,12 +21,14 @@ ClownBerry ，主要制作 同人志 的日本同人社团，当前状态为 休
 
 
 
+
 ## 社团信息
 文件:ClownBerrybanner.gif (未找到链接)  banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> ClownBerry </td></tr><tr><td><b>主要作品类型</b></td><td>同人志</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://www.oxvxo.com/">http://www.oxvxo.com/</a> <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><small>（<a rel="nofollow" class="external text" href="https://web.archive.org/web/20081013042721/http://www.oxvxo.com/">缓存页面</a>）</small></td></tr></tbody></table>
 
 ClownBerry（同人社团，同人志社团） - ClownBerry ，主要制作 同人志 的日本同人社团，当前状态为 休止
+
 ## 成员名单
 - 駒燕 (未找到链接)
 
@@ -33,7 +36,9 @@ ClownBerry（同人社团，同人志社团） - ClownBerry ，主要制作 同�
 
 - サクマアイコ (未找到链接)
 
+
 ## 作品列表
+
 ### 同人志
 もみじがり 封面图片 (未找到链接)もみじがり (未找到链接)首发日期：未知 - スターゴーラウンド 封面图片 (未找到链接)スターゴーラウンド (未找到链接)首发日期：未知 - 
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -41,6 +46,7 @@ ClownBerry（同人社团，同人志社团） - ClownBerry ，主要制作 同�
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458"></table>
+
 
 
 ## 参展信息

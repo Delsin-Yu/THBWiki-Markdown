@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -35,11 +36,13 @@
 
 
 
+
 ## 基本信息
 
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">タイニーシャングリラ</td></tr><tr><td><b>译名</b></td><td>Tiny Shangri-La</td></tr><tr><td><b>其他译名</b></td><td>小小的香格里拉</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 Tiny Shangri-La（曲目） - 由 ZUN 创作的官方曲目，原名 タイニーシャングリラ
+
 ## 出现作品
 
 <table>
@@ -48,7 +51,9 @@ Tiny Shangri-La（曲目） - 由 ZUN 创作的官方曲目，原名 タイニ�
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 东方兽王园
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th19_05.mp3.md" title="文件:th19 05.mp3">th19_05.mp3</a><br><audio src="https://upload.thwiki.cc/1/1d/th19_05.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>BGM\th19_05.wav</td></tr><tr><td><b>BGMForAll</b></td><td><div class="mw-collapsible mw-collapsed">
@@ -59,7 +64,9 @@ Tiny Shangri-La（曲目） - 由 ZUN 创作的官方曲目，原名 タイニ�
 </td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 东方兽王园
 - Music Room (未找到链接)
 
@@ -69,8 +76,11 @@ Tiny Shangri-La（曲目） - 由 ZUN 创作的官方曲目，原名 タイニ�
 　我会定期对西游记那个类型的幻想故事心生憧憬。  
 　这支曲子是有意无视了游戏的世界观，基于西游记的印象创作的。  
 　成曲优美动人，我很满意。
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
   
  **タイニーシャングリラ**  Tiny Shangri-La
@@ -100,6 +110,7 @@ Tiny Shangri-La（曲目） - 由 ZUN 创作的官方曲目，原名 タイニ�
 ```
 
 - [](./文件-小说《消失的地平线》.jpg.md)小说《消失的地平线》
+
 
 ### 二次同人数据
 

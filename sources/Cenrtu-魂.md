@@ -1,0 +1,85 @@
+# 魂纸
+
+<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\1\1e\ns0%3A%E9%AD%82%E7%BA%B8.html -->
+
+现实人物
+
+本页是关于东方Project  
+ **二次同人创作者** 的词条
+## 基本信息
+
+<table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="label"><b>名称</b></td><td> 魂纸 </td></tr><tr><td class="label"><b>别名</b></td><td>MiraGevot<br>小魂纸<br>魂纸子</td></tr><tr><td class="label"><b>曾用名</b></td><td>Cenrtu-魂</td></tr><tr><td class="label"><b>所属社团</b></td><td><b>当前</b><div style="margin-left:2em;"><a href="./Static_World.md" title="Static World">Static World</a></div></td></tr><tr><td class="label"><b>职位</b></td><td>主催，作曲，编曲，作词</td></tr><tr><td class="label"><b>参与社团</b></td><td><a href="./Nami_Haven.md" title="Nami Haven">Nami Haven</a> （编曲）<br><a href="./Static_World.md" title="Static World">Static World</a> （作曲，编曲，作词）<br><a href="./bunny_rhyTHm.md" title="bunny rhyTHm">bunny rhyTHm</a> （作曲，编曲）<br><a href="/index.php?title=%E5%8D%97%E4%BA%ACTHO%E7%BB%84%E5%A7%94%E4%BC%9A&amp;action=edit&amp;redlink=1" class="new" title="南京THO组委会（页面不存在）">南京THO组委会</a> （作曲，编曲）<br><a href="./郑州THO组委会.md" title="郑州THO组委会">郑州THO组委会</a> （编曲）<br><a href="./雷王计划.md" title="雷王计划">雷王计划</a> （编曲）</td></tr><tr><td class="label"><b>性别</b></td><td>男</td></tr><tr><td class="label"><b>个人页面</b></td><td><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><b>Blog</b></td><td><a rel="nofollow" class="external free" href="http://blog.sina.com.cn/u/2246753633">http://blog.sina.com.cn/u/2246753633</a></td></tr><tr><td><b>bilibili</b></td><td><a rel="nofollow" class="external free" href="http://space.bilibili.com/371385">http://space.bilibili.com/371385</a></td></tr><tr><td><b>Twitter</b></td><td><a rel="nofollow" class="external free" href="https://twitter.com/MiraGevot">https://twitter.com/MiraGevot</a></td></tr><tr><td><b>Weibo</b></td><td><a rel="nofollow" class="external free" href="https://weibo.com/u/2246753633">https://weibo.com/u/2246753633</a></td></tr><tr><td><b>NetEaseCloudMusic</b></td><td><a rel="nofollow" class="external free" href="https://music.163.com/#/user/home?id=130661355">https://music.163.com/#/user/home?id=130661355</a></td></tr><tr><td><b>Soundcloud</b></td><td><a rel="nofollow" class="external free" href="https://soundcloud.com/miragevot">https://soundcloud.com/miragevot</a></td></tr></tbody></table></td></tr></tbody></table>
+
+魂纸（人物） - 现实人物
+## 介绍
+  
+社团[Static World](./Static_World.md)主催、曲师、作词者，社团主力之一。魂纸为人随和，常被好友叫去女装，但本人并不感觉困扰，反而有相关倾向？？喜欢吃煲仔饭，时而调侃把群友拿去做煲仔饭？！
+  
+  
+2011年创立[Static World](./Static_World.md)，并开始筹划新专制作，于12年发布了第一张专辑《[夢憶霊音](./夢憶霊音.md)》
+  
+  
+2017年发布社团著名代表作《月溯莲台》，预计2022年初发布续作。
+曾在《月溯莲台》缺货时将售价设置为9999元，在有人首次以此价格拍下后，价格变更为99999元。
+  
+  
+社团画师六仔为魂纸设计了其二次元形象，并有粉丝制作大量衍生表情包
+  
+  
+2017年创建社团粉丝群后立下豪言“今年《月》完售就女装”，从此“催魂纸女装”成为粉丝群友日常
+  
+  
+以下是社团创立一周年时魂纸的感言：
+  
+
+```
+不知不觉得社团已经创立一周年了～因为当时在创立公式站忘了补上这份简介,但是目前有新加入成员了所以重新更新一下.
+虽然在11月开始已经开始策划了,但是正式创立是因为御法当时加入作为我们的乐师,虽然第一次作曲(真的第一次哦!强调)但是的确是很厉害哟!
+因为一个人承担了8首曲子创作的确挺不容易的,在这里真心感谢他的努力和付出ww当然也感谢一直陪伴着我的各位!
+
+今后也会努力做出更好的同人音乐,感谢认真听我们CD的每一个人,在此谢谢一直支持我们了!```
+
+  
+社团创立五周年的时候，发布五周年纪念CD时的感言：
+  
+
+```
+     大家好，这里是Static World。不知不觉已经五岁啦，感谢大家一直以来的支持，没有你们的声援，我们也不会如此坚持。
+     从社团建立之初，到五年后的今天，我们专注于民族乐和氛围音乐所带来自然之音，希望，并试图创造一个回荡着独特音镜的静止世界。
+声音是瞬间，不论是过去的，未来的，进行时的，长久的，短暂的，仿佛蔓延无止境的，和刹那的，希望你也能迈入我们的世界，与我们分享被触动的一刻。```
+
+  
+以下是社团创立十周年时魂纸的感言：
+  
+
+```
+2011年12月15日—2021年12月15日 
+时间一眨眼，就在不知不觉之中，“Static World”这个名字已经陪伴大家走过了整整十年。今天是我们社团的生日。十周年快乐w
+诞生于12月15日这个特殊日子的Static World，中文名称静止世界，是专注于异域民族风格和治愈系音乐的东方同人音乐社团。从最初的《梦忆灵音》，到今年的《Angel Bell》，我们自主创作了15张完整的作品。在短暂又永恒的声波中，在灵动又静止的世界里，致力于传达每一份独特的音境，这是我们社团一贯的初衷，是我们一直没有改变的信念。
+人生能有多少个10年。每每回溯起社团创立之初，我都有满心的触动，难以付之言语。东方project陪伴我走过很长的一段路，众多爱好者也因其与我社结缘，共同见证了社团的成长。一切一切的点点滴滴，都是我人生历程中非常难忘的部分。
+10年前的我，正处在谁也经历过中二阶段，是一个各方面能力都不足的小毛孩，带有几分的幼稚。被东方的音乐和设定所吸引，凭借着对东方作品的喜爱，不成熟却带着一腔热血的我，组建了这个社团。相信很多小伙伴也有过这样的想法，创作一个团体，聚集起相同信念的伙伴们，用创作和行动来表达出自己的爱，我们都一样纯粹。但没想到的是，我们可以走这么长。
+维续一个社团并不容易。现实的世界并不支持用爱发电，长期亏损也是非常正常的事情。各位社团的主催们应该有更深刻的感悟。即使全心全意打造优秀的作品，也不是一张作品就可以把社团持续运营下去，需要考虑的方方面面太多太多。在之后的活动中，我还会详细介绍StaticWorld在创作道路上的历程和心得。
+创作的道路漫长而坎坷，而在漫漫旅途中，我结识到许多优秀的朋友，这是最难得的幸运。他们有各自擅长的领域，在他们的支持下一起成长，一起头脑风暴创造出每一张作品，他们是我最珍惜的伙伴。
+社团成立至今，离不开每一位成员的付出。当我们年纪增长，承担起各自的生活职责，渐渐地有不方便持续参与创作的伙伴淡出了听众们的视野。但我们讨论过的，创作过的情景，那精彩的灵光一闪，至今仍是历历在目。光说一句“谢谢”，远远不足以表达出我对社团成员感激之情，是他们包容和实现我提出的想法，为每一张作品画龙点睛，赋予生命，染上鲜活的色彩。
+想说的话太多太多，有过失落，有过感动，一点一滴涌上心头。我们从校园创作到步入社会，从不成熟慢慢迈向成熟，经历了十年，仍然初心不改，笃行致远。```
+
+## 参与作品
+### 同人音乐
+  
+模板:人物曲目列表 (未找到链接)
+  
+
+
+
+
+
+---
+
+此文档由 [THBWiki-Markdown-Builder](https://github.com/Delsin-Yu/THBWiki-Markdown-Builder) 构建。
+
+文档中的所有内容除特殊注明外，均在 [**知识共享(Creative Commons) 署名-非商业性使用-相同方式共享 3.0 协议**](https://creativecommons.org/licenses/by-sa/3.0/deed.zh-hans) 下提供，附加条款亦可能应用。
+
+引用类型与其他类型作品版权归原作者所有，如有作者授权则遵照授权协议使用。
+
+详细请查阅 [THBWiki：免责声明](https://thbwiki.cc/THBWiki:%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E)。
+

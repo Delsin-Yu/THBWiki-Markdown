@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Dancing_Maniax_Intentional_Improvisation封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/f/f1/Dancing_Maniax_Intentional_Improvisation%E5%B0%81%E9%9D%A2.jpg/100px-Dancing_Maniax_Intentional_Improvisation%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="100" height="140" srcset="https://upload.thwiki.cc/thumb/f/f1/Dancing_Maniax_Intentional_Improvisation%E5%B0%81%E9%9D%A2.jpg/150px-Dancing_Maniax_Intentional_Improvisation%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/f/f1/Dancing_Maniax_Intentional_Improvisation%E5%B0%81%E9%9D%A2.jpg/200px-Dancing_Maniax_Intentional_Improvisation%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="2591" data-file-height="3624"></a><div class="cover-char">角色：<a href="./琪露诺.md" title="琪露诺">琪露诺</a></div></td>
@@ -14,9 +15,12 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/9238489">https://www.pixiv.net/artworks/9238489</a></td></tr></tbody></table>
 
 Dancing Maniax Intentional Improvisation（同人志，カオススカッシュ，2010） - 2010年3月14日 由 カオススカッシュ 于 博丽神社例大祭7 发布的同人志，一共20页，登场人物有 琪露诺，分级为 一般向
+
 ## 预览
+
 ## Staff
 - らりもん (未找到链接)
+
 
 ## 评论
   

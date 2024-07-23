@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 软件信息](#软件信息)
@@ -18,6 +19,7 @@
 
 
 
+
 ## 软件信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-ExtraBossRush封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/e/e7/ExtraBossRush%E5%B0%81%E9%9D%A2.png/196px-ExtraBossRush%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="196" height="154" srcset="https://upload.thwiki.cc/thumb/e/e7/ExtraBossRush%E5%B0%81%E9%9D%A2.png/294px-ExtraBossRush%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/e/e7/ExtraBossRush%E5%B0%81%E9%9D%A2.png/392px-ExtraBossRush%E5%B0%81%E9%9D%A2.png 2x" data-file-width="646" data-file-height="509"></a></td>
@@ -26,17 +28,21 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/nono_shijimi">https://twitter.com/nono_shijimi</a></td></tr></tbody></table>
 
 ExtraBossRush（同人游戏，Nono 443，2016） - 2016年3月13日 由 Nono 443  发布的STG同人游戏，可在 Windows 系统上运行，游戏人数为 单人模式，，分级为 一般向
+
 ## Staff
+
 ## 内容页面
 - [附带文档](./ExtraBossRush-附带文档.md)
 - 系统说明 (未找到链接)
 - [符卡](./ExtraBossRush-符卡.md)
 - 其他相关资料 (未找到链接)
 
+
 ## 评论
   
 汉化版已放出。
   
+
 
 ## 视频
   
@@ -46,6 +52,7 @@ ExtraBossRush（同人游戏，Nono 443，2016） - 2016年3月13日 由 Nono 44
   
 [Moderate难度](http://www.bilibili.com/video/av3751590/)
   
+
 
 ## 下载
   

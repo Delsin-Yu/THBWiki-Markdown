@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Delusion_du_catalogue封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/0/09/Delusion_du_catalogue%E5%B0%81%E9%9D%A2.jpg/158px-Delusion_du_catalogue%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="158" height="224" srcset="https://upload.thwiki.cc/thumb/0/09/Delusion_du_catalogue%E5%B0%81%E9%9D%A2.jpg/237px-Delusion_du_catalogue%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/0/09/Delusion_du_catalogue%E5%B0%81%E9%9D%A2.jpg/316px-Delusion_du_catalogue%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="318" data-file-height="450"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></div></td>
@@ -14,9 +15,11 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://eho971.web.fc2.com/zakki.html">http://eho971.web.fc2.com/zakki.html</a></td></tr></tbody></table>
 
 Delusion du catalogue（同人志，十誤一会，悠久亭，2016） - 2016年12月29日 由 十誤一会，悠久亭 于 Comic Market 91 发布的画集同人志，B5尺寸一共12页，登场人物有 博丽灵梦，分级为 一般向
+
 ## Staff
 - 会帆
 - 悠仁
+
 
 ## 评论
   

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Gossip_Report封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/f/fd/Gossip_Report%E5%B0%81%E9%9D%A2.png/139px-Gossip_Report%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="139" height="196" srcset="https://upload.thwiki.cc/thumb/f/fd/Gossip_Report%E5%B0%81%E9%9D%A2.png/208px-Gossip_Report%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/f/fd/Gossip_Report%E5%B0%81%E9%9D%A2.png/277px-Gossip_Report%E5%B0%81%E9%9D%A2.png 2x" data-file-width="2508" data-file-height="3541"></a><div class="cover-char">角色：<a href="./射命丸文.md" title="射命丸文">射命丸文</a>，<a href="./犬走椛.md" title="犬走椛">犬走椛</a></div></td>
@@ -18,8 +19,10 @@ Gossip Report（同人志，まんじゅう大爆発，2017） - 2017年12月29�
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=320149">蜜瓜</a></td></tr></tbody></table>
 
 
+
 ## Staff
 - [最速のゆっくり](./最速のゆっくり.md)
+
 
 ## 评论
   

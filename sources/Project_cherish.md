@@ -4,7 +4,8 @@
 
 Project cherish ，主要制作 同人音乐 的日本同人社团，主催是 沢渡和音，当前状态为 休止
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -20,22 +21,27 @@ Project cherish ，主要制作 同人音乐 的日本同人社团，主催是 �
 
 
 
+
 ## 社团信息
 文件:Project cherishbanner.jpg (未找到链接)  banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Project cherish </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=%E6%B2%A2%E6%B8%A1%E5%92%8C%E9%9F%B3&amp;action=edit&amp;redlink=1" class="new" title="沢渡和音（页面不存在）">沢渡和音</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://www.cherish.tc/">http://www.cherish.tc/</a> <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span></td></tr></tbody></table>
 
 Project cherish（同人社团，同人音乐社团） - Project cherish ，主要制作 同人音乐 的日本同人社团，主催是 沢渡和音，当前状态为 休止
+
 ## 成员名单
 - 沢渡和音 (未找到链接) (a.k.a. Kazune Sawatari, Kazune Yazawatari)
 
 : [Twitter: @kazune8390](https://twitter.com/kazune8390), [SoundCloud: kazune8390](https://soundcloud.com/kazune8390), [Jamendo](https://www.jamendo.com/artist/365909/kazune-sawatari)
 
+
 ## 作品列表
+
 ### 同人专辑
 [](./Kazune_in_Gensokyo_～_沢渡和音東方アレンジ作品集.md)[Kazune in Gensokyo ～ 沢渡和音東方アレンジ作品集](./Kazune_in_Gensokyo_～_沢渡和音東方アレンジ作品集.md)首发日期：2009-06-21 （第一回東方崇敬祭 (未找到链接)）CHCR-0001全长、​精选集 （一般向）
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
 </table>
+
 
 
 ## 其他信息

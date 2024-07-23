@@ -4,6 +4,7 @@
 
 古明地觉 | 符卡
 
+
 ## 分析与考据
   
  **脳符「ブレインフィンガープリント」**  脑符「Brain Fingerprint」（脑指纹测谎法）
@@ -17,8 +18,10 @@
 
 
 
+
 ## 参考
 [^cite_note-1]: 英文维基百科：[Brain fingerprinting](https://en.wikipedia.org/wiki/en:Brain_fingerprinting)
+
 
 ## 导航
 

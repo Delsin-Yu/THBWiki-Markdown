@@ -6,11 +6,13 @@
 
 本页是关于东方Project  
  **相关实体周边 (未找到链接)** 的词条
+
 ## 模型信息
 
 <table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 露米娅 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>限定色</td></tr><tr><td class="label">角色</td><td><a href="./露米娅.md" title="露米娅">露米娅</a></td></tr><tr><td class="label">原型师</td><td><a href="/index.php?title=%E3%81%8A%E3%81%8B%E3%81%AE%E3%81%A0%E3%81%84&amp;action=edit&amp;redlink=1" class="new" title="おかのだい（页面不存在）">おかのだい</a></td></tr><tr><td class="label">比例</td><td>1/8</td></tr><tr><td class="label">尺寸</td><td>175mm</td></tr><tr><td class="label">状态</td><td>已发售</td></tr><tr><td class="label">展会限定</td><td>Wonder Festival-2013夏，第一回 博丽神社秋季例大祭，Wonder Festival-2015冬</td></tr><tr><td class="label">售价</td><td>7500日元</td></tr><tr><td class="label">首发日期</td><td>2013-07-28</td></tr><tr><td class="label">发售方</td><td><a href="/index.php?title=GRIFFON&amp;action=edit&amp;redlink=1" class="new" title="GRIFFON（页面不存在）">GRIFFON</a></td></tr><tr><td class="label">再版日期</td><td>2014-11-24，2015-02-08</td></tr><tr><td class="label">官网页面</td><td><a rel="nofollow" class="external free" href="http://www.griffon.co.jp/toho/">http://www.griffon.co.jp/toho/</a></td></tr><tr><td class="label">备注</td><td>限定200体</td></tr></tbody></table>
 
 GRIFFON/限定色/露米娅（周边） - 露米娅PVCFigure手办模型
+
 ## 参考图片
 
 

@@ -4,7 +4,8 @@
 
 AGENT 0 ，于 2009 年成立，主要制作 同人音乐 的日本同人社团，主催是 Akihiro，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -15,12 +16,14 @@ AGENT 0 ，于 2009 年成立，主要制作 同人音乐 的日本同人社团�
 
 
 
+
 ## 社团信息
 [](./文件-AGENT_0_banner.jpg.md)  [](./文件-AGENT_0_banner.jpg.md)AGENT 0
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> AGENT 0 </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2009</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=Akihiro&amp;action=edit&amp;redlink=1" class="new" title="Akihiro（页面不存在）">Akihiro</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://agent0bdm.blog.shinobi.jp/">http://agent0bdm.blog.shinobi.jp/</a> <br><a rel="nofollow" class="external free" href="https://www.facebook.com/AGENT0.touhou">https://www.facebook.com/AGENT0.touhou</a><br><a rel="nofollow" class="external free" href="https://agent0.booth.pm/">https://agent0.booth.pm/</a><br><a rel="nofollow" class="external free" href="https://agent0.bandcamp.com/">https://agent0.bandcamp.com/</a><br><a rel="nofollow" class="external free" href="http://agent0.dou-jin.com/">http://agent0.dou-jin.com/</a> （旧blog）<span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><small>（<a rel="nofollow" class="external text" href="https://web.archive.org/web/20130516102851/http://agent0.dou-jin.com/">缓存页面</a>）</small></td></tr></tbody></table>
 
 AGENT 0（同人社团，同人音乐社团） - AGENT 0 ，于 2009 年成立，主要制作 同人音乐 的日本同人社团，主催是 Akihiro，当前状态为 活动
+
 ## 成员名单
 - Akihiro (未找到链接) (a.k.a.  **Akihiro Muto** ; 2011-现在): vocals, lyrics
 
@@ -32,6 +35,7 @@ AGENT 0（同人社团，同人音乐社团） - AGENT 0 ，于 2009 年成立�
 : [Twitter: @freebird_CA11](https://twitter.com/freebird_CA11)
 
 - 一貴 (未找到链接) (2011)&#160;: vocals, lyrics
+
 
 ## 作品列表
  (未找到链接)XIII (未找到链接)首发日期：未知 - [](./ultima_weapon.md)[ultima weapon](./ultima_weapon.md)首发日期：2010-12-30 （Comic Market 79 (未找到链接)）EP （一般向）[](./The_Griffin.md)[The Griffin](./The_Griffin.md)首发日期：2011-05-08 （第八回 博麗神社例大祭 (未找到链接)）EP （一般向）[](./World_Pride.md)[World Pride](./World_Pride.md)首发日期：2011-08-13 （Comic Market 80 (未找到链接)）EP （一般向）[](./Feel_the_ruin.md)[Feel the ruin](./Feel_the_ruin.md)首发日期：2011-10-16 （東方紅楼夢7 (未找到链接)）EP （一般向）[](./maddening.md)[maddening](./maddening.md)首发日期：2011-12-30 （Comic Market 81 (未找到链接)）EP （一般向）[](./Heart_Ablepsia.md)[Heart Ablepsia](./Heart_Ablepsia.md)首发日期：2012-05-27 （第九回 博麗神社例大祭 (未找到链接)）EP （一般向）[](./Floral_death_violation.md)[Floral death violation](./Floral_death_violation.md)首发日期：2012-08-11 （Comic Market 82 (未找到链接)）全长 （一般向）[](./Mechanical_Genocide_and_Empiric.md)[Mechanical Genocide and Empiric](./Mechanical_Genocide_and_Empiric.md)首发日期：2012-12-30 （Comic Market 83 (未找到链接)）全长 （一般向）[](./Maniacal_Annals.md)[Maniacal Annals](./Maniacal_Annals.md)首发日期：2013-08-12 （Comic Market 84 (未找到链接)）精选集、​全长 （一般向）[](./Chaotic_Isolation.md)[Chaotic Isolation](./Chaotic_Isolation.md)首发日期：2013-12-30 （Comic Market 85 (未找到链接)）全长 （一般向）[](./Vampire_Cult.md)[Vampire Cult](./Vampire_Cult.md)首发日期：2014-08-16 （Comic Market 86 (未找到链接)）EP （一般向）[](./Peccant_Thunder.md)[Peccant Thunder](./Peccant_Thunder.md)首发日期：2014-12-29 （Comic Market 87 (未找到链接)）全长 （一般向）[](./Parallel_Passage_of_The_Vile.md)[Parallel Passage of The Vile](./Parallel_Passage_of_The_Vile.md)首发日期：2015-12-30 （Comic Market 89 (未找到链接)）全长 （一般向）[](./Hell_Destruction.md)[Hell Destruction](./Hell_Destruction.md)首发日期：2016-12-29 （Comic Market 91 (未找到链接)）AGENT-0015全长 （一般向）[](./Demo_C96.md)[Demo C96](./Demo_C96.md)首发日期：2019-08-12 （Comic Market 96 (未找到链接)）Demo （一般向）[](./Matara.md)[Matara](./Matara.md)首发日期：2019-12-31 （Comic Market 97 (未找到链接)）AGENT-0017全长 （一般向）[](./Relentless_Ultimatum.md)[Relentless Ultimatum](./Relentless_Ultimatum.md)首发日期：2021-10-31 （M3-2021秋 (未找到链接)）单曲 （一般向）DL card[](./The_Astral_World.md)[The Astral World](./The_Astral_World.md)首发日期：2022-08-14 （Comic Market 100 (未找到链接)）单曲、​Demo （一般向）[](./Windwalker.md)[Windwalker](./Windwalker.md)首发日期：2022-12-31 （Comic Market 101 (未找到链接)）EP、​合作 （一般向）该作品是与 [nekka.](./nekka..md) 合作创作的[](./Horrific_Bloodthirst.md)[Horrific Bloodthirst](./Horrific_Bloodthirst.md)首发日期：2023-05-07 （第二十回 博麗神社例大祭 (未找到链接)）全长 （一般向）
@@ -76,6 +80,7 @@ AGENT 0（同人社团，同人音乐社团） - AGENT 0 ，于 2009 年成立�
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 参展信息

@@ -18,6 +18,7 @@
 
 
 </center>
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=The_Words_of_Silence%E5%B0%81%E9%9D%A2.jpg" class="new" title="文件:The Words of Silence封面.jpg">封面图片</a></td>
@@ -25,12 +26,15 @@
 </tr><tr><td class="label">首发日期</td><td>2017-12-29&#160;（<a href="/展会作品列表?e=Comic+Market%2393">Comic Market 93</a>）</td></tr><tr><td class="label">类型</td><td>EP</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>3</td></tr><tr><td class="label">总时长</td><td>07:02</td></tr><tr><td class="label">风格类型</td><td>金属</td></tr></tbody></table>
 
 The Words of Silence（同人专辑，Dawn of the Daywalker，2017） - 2017年12月29日 由 Dawn of the Daywalker 于 Comic Market 93 发布的EP同人专辑，曲目主要风格是 金属，分级为 一般向
+
 ## Staff
+
 ## 曲目列表
 
 <table><tbody><tr><td id="1" class="info"><b>01</b></td><td id="Intoro(gates_of_hades)" colspan="2" class="title">Intoro(gates of hades)<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=The_Words_of_Silence"><span title="搜索相似同人曲"></span></a></span></td><td class="time">01:14</td></tr>
-<tr><td id="2" class="info"><b>02</b></td><td id="The_Words_of_Silence" colspan="2" class="title">The Words of Silence<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=U.N.オーエンは彼女なのか？&amp;fromwiki=The_Words_of_Silence"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:16</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=U.N.オーエンは彼女なのか？&amp;fromwiki=The_Words_of_Silence"><span></span></a></span><div class="ogmusic"><a href="/U.N.%E3%82%AA%E3%83%BC%E3%82%A8%E3%83%B3%E3%81%AF%E5%BD%BC%E5%A5%B3%E3%81%AA%E3%81%AE%E3%81%8B%EF%BC%9F" class="mw-redirect" title="U.N.オーエンは彼女なのか？">U.N.オーエンは彼女なのか？</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E7%BA%A2%E9%AD%94%E4%B9%A1_%EF%BD%9E_the_Embodiment_of_Scarlet_Devil." class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr>
+<tr><td id="2" class="info"><b>02</b></td><td id="The_Words_of_Silence" colspan="2" class="title">The Words of Silence<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=U.N.オーエンは彼女なのか？&amp;fromwiki=The_Words_of_Silence"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:16</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=U.N.オーエンは彼女なのか？&amp;fromwiki=The_Words_of_Silence"><span></span></a></span><div class="ogmusic"><a href="./U.N.オーエンは彼女なのか？.md" class="mw-redirect" title="U.N.オーエンは彼女なのか？">U.N.オーエンは彼女なのか？</a></div><div class="source"><a href="./东方红魔乡_～_the_Embodiment_of_Scarlet_Devil..md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr>
 <tr><td id="3" class="info"><b>03</b></td><td id="Sleeping_with_Gunwoud" colspan="2" class="title">Sleeping with Gunwoud<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=The_Words_of_Silence"><span title="搜索相似同人曲"></span></a></span></td><td class="time">02:32</td></tr></tbody></table>
+
 
 
 ## 评论

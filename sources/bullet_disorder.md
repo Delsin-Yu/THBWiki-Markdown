@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-bullet_disorder封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/4/40/bullet_disorder%E5%B0%81%E9%9D%A2.png/120px-bullet_disorder%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="120" height="168" srcset="https://upload.thwiki.cc/thumb/4/40/bullet_disorder%E5%B0%81%E9%9D%A2.png/180px-bullet_disorder%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/4/40/bullet_disorder%E5%B0%81%E9%9D%A2.png/241px-bullet_disorder%E5%B0%81%E9%9D%A2.png 2x" data-file-width="473" data-file-height="660"></a></td>
@@ -14,9 +15,11 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://highwayoasis.tumblr.com/post/62151541513/bullet-disorder-syrup16g-東方-例大祭10で頒布-300">https://highwayoasis.tumblr.com/post/62151541513/bullet-disorder-syrup16g-東方-例大祭10で頒布-300</a></td></tr><tr><td class="label">备注</td><td colspan="2">东方×<a href="https://ja.wikipedia.org/wiki/Syrup_16g" class="extiw" title="wja:Syrup 16g">syrup16g</a>专辑<a href="https://ja.wikipedia.org/wiki/Delayedead" class="extiw" title="wja:Delayedead">Delayedead</a></td></tr></tbody></table>
 
 bullet disorder（同人志，ハイウェイオアシス，2013） - 2013年5月26日 由 ハイウェイオアシス 于 博丽神社例大祭10 发布的漫画同人志，登场人物有 帕秋莉·诺蕾姬、十六夜咲夜，分级为 一般向
+
 ## Staff
 - あたの (未找到链接)
 - 天童寺満彦 (未找到链接)
+
 
 ## 评论
 

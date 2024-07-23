@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-妄想Z封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/f/f9/%E5%A6%84%E6%83%B3Z%E5%B0%81%E9%9D%A2.jpg/100px-%E5%A6%84%E6%83%B3Z%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="100" height="140" srcset="https://upload.thwiki.cc/thumb/f/f9/%E5%A6%84%E6%83%B3Z%E5%B0%81%E9%9D%A2.jpg/151px-%E5%A6%84%E6%83%B3Z%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/f/f9/%E5%A6%84%E6%83%B3Z%E5%B0%81%E9%9D%A2.jpg/201px-%E5%A6%84%E6%83%B3Z%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="529" data-file-height="736"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>，<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a>，<a href="./帕秋莉·诺蕾姬.md" title="帕秋莉·诺蕾姬">帕秋莉·诺蕾姬</a>，<a href="./爱丽丝·玛格特洛依德.md" title="爱丽丝·玛格特洛依德">爱丽丝·玛格特洛依德</a></div></td>
@@ -14,9 +15,12 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/5452046">https://www.pixiv.net/artworks/5452046</a></td></tr></tbody></table>
 
 妄想Z（同人志，芋。，2009） - 2009年8月15日 由 芋。 于 Comic Market 76 发布的漫画同人志，登场人物有 博丽灵梦、雾雨魔理沙、帕秋莉·诺蕾姬、爱丽丝·玛格特洛依德，分级为 一般向
+
 ## 预览
+
 ## Staff
 - けんぴ (未找到链接)
+
 
 ## 评论
 

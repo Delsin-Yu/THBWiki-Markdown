@@ -4,7 +4,8 @@
 
 aprilrain ，主要制作 同人志 的日本同人社团，主催是 金盞花，当前状态为 休止
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -20,18 +21,22 @@ aprilrain ，主要制作 同人志 的日本同人社团，主催是 金盞花�
 
 
 
+
 ## 社团信息
 [](./文件-aprilrainbanner.gif.md)  [](./文件-aprilrainbanner.gif.md)banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> aprilrain </td></tr><tr><td><b>主要作品类型</b></td><td>同人志</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=%E9%87%91%E7%9B%9E%E8%8A%B1&amp;action=edit&amp;redlink=1" class="new" title="金盞花（页面不存在）">金盞花</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://aprilrain.michikusa.jp/">http://aprilrain.michikusa.jp/</a> </td></tr></tbody></table>
 
 aprilrain（同人社团，同人志社团） - aprilrain ，主要制作 同人志 的日本同人社团，主催是 金盞花，当前状态为 休止
+
 ## 成员名单
 - 金盞花 (未找到链接)
 
 : [Twitter: @kinsenka_ar](https://twitter.com/kinsenka_ar), [Pixiv ID: 204179](https://www.pixiv.net/users/204179)
 
+
 ## 作品列表
+
 ### 同人志
 [](./東方ナントカ。.md)[東方ナントカ。](./東方ナントカ。.md)首发日期：2007-08-17 （Comic Market 72 (未找到链接)）合同志 （一般向）该作品是与 [畦道](./畦道.md)、​[HLSC](./HLSC.md) 合作创作的 34&#160;页[](./あらゆる薬を作る程度の能力。.md)[あらゆる薬を作る程度の能力。](./あらゆる薬を作る程度の能力。.md)首发日期：2007-12-31 （Comic Market 73 (未找到链接)）- （一般向） 14&#160;页[](./文々サテライツ.md)[文々サテライツ](./文々サテライツ.md)首发日期：2008-12-29 （Comic Market 75 (未找到链接)）漫画 （一般向） 28&#160;页[](./世界が私に撮られたがっていないんです!!.md)[世界が私に撮られたがっていないんです!!](./世界が私に撮られたがっていないんです!!.md)首发日期：2009-08-15 （Comic Market 76 (未找到链接)）漫画 （一般向） 24&#160;页[](./Bless_you.md)[Bless you](./Bless_you.md)首发日期：2009-12-30 （Comic Market 77 (未找到链接)）漫画 （一般向） 24&#160;页[](./早苗におまかせ!!.md)[早苗におまかせ!!](./早苗におまかせ!!.md)首发日期：2010-03-14 （第七回 博麗神社例大祭 (未找到链接)）- （一般向） 8&#160;页[](./春霖集.md)[春霖集](./春霖集.md)首发日期：2010-08-14 （Comic Market 78 (未找到链接)）画集 （一般向）B5&#160;尺寸 20&#160;页[](./Trick_or_Treat（aprilrain）.md)[Trick or Treat](./Trick_or_Treat（aprilrain）.md)首发日期：2010-11-07 - （一般向） 8&#160;页[](./世界が私に撮られたがっていないんです!!Ｗ.md)[世界が私に撮られたがっていないんです!!Ｗ](./世界が私に撮られたがっていないんです!!Ｗ.md)首发日期：2010-12-30 （Comic Market 79 (未找到链接)）漫画 （一般向） 32&#160;页MARI×ALI IN WONDERLAND Vol.1 封面图片 (未找到链接)MARI×ALI IN WONDERLAND Vol.1 (未找到链接)首发日期：未知 - アリスと!! ~アリス×ランダムの無茶振りカップリング漫画!~ 封面图片 (未找到链接)アリスと!! ~アリス×ランダムの無茶振りカップリング漫画!~ (未找到链接)首发日期：未知 - まりさがいっぴき! 封面图片 (未找到链接)まりさがいっぴき! (未找到链接)首发日期：未知 - 春霖集 弐 封面图片 (未找到链接)春霖集 弐 (未找到链接)首发日期：未知 - あ、ぎんぎんね!枕営業でハジけま盞花 封面图片 (未找到链接)あ、ぎんぎんね!枕営業でハジけま盞花 (未找到链接)首发日期：未知 - フランちゃんは魔法少女なんです 封面图片 (未找到链接)フランちゃんは魔法少女なんです (未找到链接)首发日期：未知 - 世界が私に撮られたがっていないんです!! Revenge 封面图片 (未找到链接)世界が私に撮られたがっていないんです!! Revenge (未找到链接)首发日期：未知 - 文ちゃんが一晩でやってくれました。 封面图片 (未找到链接)文ちゃんが一晩でやってくれました。 (未找到链接)首发日期：未知 - 
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -60,6 +65,7 @@ aprilrain（同人社团，同人志社团） - aprilrain ，主要制作 同人
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458"></table>
+
 
 
 ## 参展信息

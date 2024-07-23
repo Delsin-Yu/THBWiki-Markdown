@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-SUEZEN封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/2/28/SUEZEN%E5%B0%81%E9%9D%A2.png/120px-SUEZEN%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="120" height="168" srcset="https://upload.thwiki.cc/thumb/2/28/SUEZEN%E5%B0%81%E9%9D%A2.png/180px-SUEZEN%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/2/28/SUEZEN%E5%B0%81%E9%9D%A2.png/239px-SUEZEN%E5%B0%81%E9%9D%A2.png 2x" data-file-width="1819" data-file-height="2551"></a><div class="cover-char">角色：<a href="./少名针妙丸.md" title="少名针妙丸">少名针妙丸</a></div></td>
@@ -14,9 +15,12 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/53501642">https://www.pixiv.net/artworks/53501642</a></td></tr></tbody></table>
 
 SUEZEN（同人志，みんなの櫛，2015） - 2015年10月18日 由 みんなの櫛 于 博丽神社秋季例大祭2 发布的漫画同人志，登场人物有 少名针妙丸、鬼人正邪、博丽灵梦，分级为 一般向
+
 ## 预览
+
 ## Staff
 - 稟太郎 (未找到链接)
+
 
 ## 评论
 

@@ -4,7 +4,8 @@
 
 R/K Project ，于 2010 年成立，主要制作 同人音乐 的日本同人社团，主催是 Raiki，Keeth，当前状态为 休止
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -20,19 +21,23 @@ R/K Project ，于 2010 年成立，主要制作 同人音乐 的日本同人社
 
 
 
+
 ## 社团信息
 [](./文件-R／K_Projectbanner.png.md)  [](./文件-R／K_Projectbanner.png.md)banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> R/K Project </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2010</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=Raiki&amp;action=edit&amp;redlink=1" class="new" title="Raiki（页面不存在）">Raiki</a> <br> <a href="/index.php?title=Keeth&amp;action=edit&amp;redlink=1" class="new" title="Keeth（页面不存在）">Keeth</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://r44kproject.web.fc2.com/">http://r44kproject.web.fc2.com/</a> <br><a rel="nofollow" class="external free" href="https://soundcloud.com/rkproject">https://soundcloud.com/rkproject</a></td></tr></tbody></table>
 
 R／K Project（同人社团，同人音乐社团） - R/K Project ，于 2010 年成立，主要制作 同人音乐 的日本同人社团，主催是 Raiki，Keeth，当前状态为 休止
+
 ## 成员名单
 - Raiki (未找到链接)&#160;: Vocals, Guitar, Web
 - Keeth (未找到链接)&#160;: Vocals, Bass
 - hiroshi (未找到链接)&#160;: Drums, Mixing
 - ゆかち (未找到链接)&#160;: Vocals
 
+
 ## 作品列表
+
 ### 同人专辑
 [](./Invisible_Order.md)[Invisible Order](./Invisible_Order.md)首发日期：2011-05-08 （第八回 博麗神社例大祭 (未找到链接)）PKPR-001EP （一般向）[](./Eight_Of_Standard.md)[Eight Of Standard](./Eight_Of_Standard.md)首发日期：2011-12-30 （Comic Market 81 (未找到链接)）RKPR-002EP （一般向）[](./Excursion_to_the_East.md)[Excursion to the East](./Excursion_to_the_East.md)首发日期：2012-05-27 （第九回 博麗神社例大祭 (未找到链接)）RKPR-003EP （一般向）[](./Re：vival.md)[Re：vival](./Re：vival.md)首发日期：2013-01-27 （遊音ファンタジウム2 (未找到链接)）EP、​精选集 （一般向）[](./Crimson_Septet.md)[Crimson Septet](./Crimson_Septet.md)首发日期：2013-08-12 （Comic Market 84 (未找到链接)）RKPR-004全长 （一般向）[](./Eternal_Prayer（R／K_Project）.md)[Eternal Prayer](./Eternal_Prayer（R／K_Project）.md)首发日期：2014-05-11 （第十一回 博麗神社例大祭 (未找到链接)）RKPR-005全长 （一般向）[](./Time_Line.md)[Time Line](./Time_Line.md)首发日期：2014-08-16 （Comic Market 86 (未找到链接)）RKPR-006EP （一般向）[](./Shining_Shooters.md)[Shining Shooters](./Shining_Shooters.md)首发日期：2016-05-08 （第十三回 博麗神社例大祭 (未找到链接)）EP （一般向）
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -51,6 +56,7 @@ R／K Project（同人社团，同人音乐社团） - R/K Project ，于 2010 �
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 参展信息

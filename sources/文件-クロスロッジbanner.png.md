@@ -4,6 +4,7 @@
 
 クロスロッジ | 社团LOGO
 
+
 ## 文件说明
   
 源地址：[direct image link](http://www.usamimi.info/~crosslodge/images/banner_crosslodge.png), [source page](http://www.usamimi.info/~crosslodge/)

@@ -4,6 +4,7 @@
 
 格式模板
 
+
 ## 用法
 ```
 {{Image label|x= |y= |scale= |text= |color=}}

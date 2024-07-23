@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 软件信息](#软件信息)
@@ -13,6 +14,7 @@
 - [3 内容页面](#内容页面)
 - [4 评论](#评论)
 - [5 外部链接](#外部链接)
+
 
 
 
@@ -40,6 +42,7 @@ Cirno's Perfect Summer Vacation（同人游戏，Chaos Cute Soft，2020） - 202
 </tbody></table>
 
 
+
 ## Staff
 主制作
 : David Maiman
@@ -59,12 +62,15 @@ Cirno's Perfect Summer Vacation（同人游戏，Chaos Cute Soft，2020） - 202
 : Steven (Dong Woo) Yoo
 : 西班牙文翻译: Mari
 
+
 ## 内容页面
 - [游戏设定与剧情](./Cirno's_Perfect_Summer_Vacation-设定与剧情.md)
 - 攻略 (未找到链接)
 - 其他信息 (未找到链接)
 
+
 ## 评论
+
 ## 外部链接
 - [Steam上的Cirno's Perfect Summer Vacation](https://store.steampowered.com/app/1211650/Cirnos_Perfect_Summer_Vacation/)
 

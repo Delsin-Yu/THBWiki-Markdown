@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 游戏信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-幻想戦略譚～The_Touhou_Empire～封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/d/df/%E5%B9%BB%E6%83%B3%E6%88%A6%E7%95%A5%E8%AD%9A%EF%BD%9EThe_Touhou_Empire%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg/178px-%E5%B9%BB%E6%83%B3%E6%88%A6%E7%95%A5%E8%AD%9A%EF%BD%9EThe_Touhou_Empire%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="178" height="252" srcset="https://upload.thwiki.cc/thumb/d/df/%E5%B9%BB%E6%83%B3%E6%88%A6%E7%95%A5%E8%AD%9A%EF%BD%9EThe_Touhou_Empire%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg/267px-%E5%B9%BB%E6%83%B3%E6%88%A6%E7%95%A5%E8%AD%9A%EF%BD%9EThe_Touhou_Empire%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/d/df/%E5%B9%BB%E6%83%B3%E6%88%A6%E7%95%A5%E8%AD%9A%EF%BD%9EThe_Touhou_Empire%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="300" data-file-height="424"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></div></td>
@@ -26,12 +27,14 @@
 </tbody></table>
 
 
+
 ## 内容页面
 - 攻略、设定等信息 (未找到链接)
 
   
 参阅以下链接：[https://www27.atwiki.jp/th_empire/](https://www27.atwiki.jp/th_empire/)
   
+
 
 ## 评论
 

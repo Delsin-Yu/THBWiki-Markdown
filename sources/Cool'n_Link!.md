@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Cool'n_Link!封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/d/d4/Cool%27n_Link%21%E5%B0%81%E9%9D%A2.jpg/118px-Cool%27n_Link%21%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="118" height="168" srcset="https://upload.thwiki.cc/thumb/d/d4/Cool%27n_Link%21%E5%B0%81%E9%9D%A2.jpg/176px-Cool%27n_Link%21%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/d/d4/Cool%27n_Link%21%E5%B0%81%E9%9D%A2.jpg/235px-Cool%27n_Link%21%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="269" data-file-height="384"></a><div class="cover-char">角色：<a href="./灵乌路空.md" title="灵乌路空">灵乌路空</a>，<a href="./火焰猫燐.md" title="火焰猫燐">火焰猫燐</a></div></td>
@@ -14,9 +15,11 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://exilerekki.exblog.jp/11857320/">https://exilerekki.exblog.jp/11857320/</a></td></tr></tbody></table>
 
 Cool'n Link!（同人志，HaKaNaDuKi，2009） - 2009年12月30日 由 HaKaNaDuKi 于 Comic Market 77 发布的漫画同人志，一共24页，登场人物有 灵乌路空、火焰猫燐、古明地觉、古明地恋，分级为 一般向
+
 ## Staff
 : 上月えく (未找到链接)
 : ファー (未找到链接)
+
 
 ## 评论
 

@@ -164,6 +164,7 @@
 [](./文件-THD2洩矢诹访子.jpg.md)
   
 
+
 ## 目录
 
 - [1 角色定位](#角色定位)
@@ -184,10 +185,12 @@
 
 
 
+
 ## 角色定位
   
 耐久 - 控制 - 逃生 - 先手 - 辅助 - 核心 - 打野
   
+
 
 ## 技能介绍
 
@@ -781,6 +784,7 @@
 </td></tr></tbody></table>
 
 
+
 ## 天赋树
 
 
@@ -819,17 +823,20 @@
 </td></tr></tbody></table>
 
 
+
 ### 出门装备
   
 [](./文件-THD2四叶草.png.md)[](./文件-THD2四叶草.png.md)[](./文件-THD2四叶草.png.md)[](./文件-THD2四叶草.png.md)加上
 [](./文件-THD2星星挂坠.png.md)和[](./文件-THD2秘银戒指.png.md) 完美的出门属性和后续合成
   
 
+
 ### 前期装备
   
 [](./文件-THD2博丽御币.png.md)’[](./文件-THD2冰精跳跃装置.png.md)’[](./文件-THD2西尔芙灵纹.png.md)’但凡是一个酱油这三个装备基本上必不可少  
 之后基本上再做一个打钱装比如[](./文件-THD2博丽供奉箱.png.md)或者[](./文件-THD2很值钱的礼物.png.md)保证后续经济
   
+
 
 ### 核心装备
   
@@ -840,6 +847,7 @@
 
 [](./文件-THD2火凤凰之翼.png.md)诹访子首选肉装，虽然价格偏贵但是对诹访子的提升巨大，高额护甲和血量，让你的肉度直接翻倍，以及最关键的被动效果 **被动：灼烧-燃烧附近的敌方单位，造成魔法伤害。** 让你在团战中即使蓝量被打空也能很快的回复上来，其回蓝效果甚至比八卦炉强力。
   
+
 
 ### 可选装备
   
@@ -855,6 +863,7 @@
 
 [](./文件-THD2油库里之杖.png.md)强力的先手道具
   
+
 
 ## 技能加点
 
@@ -916,6 +925,7 @@
 <td><a href="./文件-DOTA黄点.png.md" class="image" title="+2 全属性"><img alt="+2 全属性" src="https://upload.thwiki.cc/thumb/d/da/DOTA%E9%BB%84%E7%82%B9.png/40px-DOTA%E9%BB%84%E7%82%B9.png" decoding="async" loading="lazy" width="40" height="40" srcset="https://upload.thwiki.cc/thumb/d/da/DOTA%E9%BB%84%E7%82%B9.png/60px-DOTA%E9%BB%84%E7%82%B9.png 1.5x, https://upload.thwiki.cc/thumb/d/da/DOTA%E9%BB%84%E7%82%B9.png/80px-DOTA%E9%BB%84%E7%82%B9.png 2x" data-file-width="128" data-file-height="128"></a></td>
 <td><a href="./文件-THD2天赋树25右.png.md" class="image" title="岩浆的两栖类额外移速翻倍，且不再沉默和锁闭自己"><img alt="岩浆的两栖类额外移速翻倍，且不再沉默和锁闭自己" src="https://upload.thwiki.cc/thumb/5/5b/THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%8F%B3.png/40px-THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%8F%B3.png" decoding="async" loading="lazy" width="40" height="40" srcset="https://upload.thwiki.cc/thumb/5/5b/THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%8F%B3.png/60px-THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%8F%B3.png 1.5x, https://upload.thwiki.cc/thumb/5/5b/THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%8F%B3.png/80px-THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%8F%B3.png 2x" data-file-width="103" data-file-height="103"></a>
 </td></tr></tbody></table>
+
 
 
 ## 台词
@@ -997,6 +1007,7 @@
 </td>
 <td>逃（に）がさないよ<br>你跑不了
 </td></tr></tbody></table>
+
 
 
 ## 教学视频

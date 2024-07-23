@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-自由な精神_~_To_Drink_From_Life_Itself封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/9/97/%E8%87%AA%E7%94%B1%E3%81%AA%E7%B2%BE%E7%A5%9E_~_To_Drink_From_Life_Itself%E5%B0%81%E9%9D%A2.jpg/252px-%E8%87%AA%E7%94%B1%E3%81%AA%E7%B2%BE%E7%A5%9E_~_To_Drink_From_Life_Itself%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="252" srcset="https://upload.thwiki.cc/thumb/9/97/%E8%87%AA%E7%94%B1%E3%81%AA%E7%B2%BE%E7%A5%9E_~_To_Drink_From_Life_Itself%E5%B0%81%E9%9D%A2.jpg/378px-%E8%87%AA%E7%94%B1%E3%81%AA%E7%B2%BE%E7%A5%9E_~_To_Drink_From_Life_Itself%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/9/97/%E8%87%AA%E7%94%B1%E3%81%AA%E7%B2%BE%E7%A5%9E_~_To_Drink_From_Life_Itself%E5%B0%81%E9%9D%A2.jpg/504px-%E8%87%AA%E7%94%B1%E3%81%AA%E7%B2%BE%E7%A5%9E_~_To_Drink_From_Life_Itself%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1200" data-file-height="1200"></a><div class="cover-char">角色：<a href="./伊吹萃香.md" title="伊吹萃香">伊吹萃香</a></div></td>
@@ -18,11 +19,13 @@
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://kuroblood.bandcamp.com/album/to-drink-from-life-itself-single">bandcamp</a></td></tr></tbody></table>
 
 
+
 ## Staff
   
  **Arrangement**   
 
 <table><tbody><tr><td><a href="./ArmpitMaiden.md" title="ArmpitMaiden">ArmpitMaiden</a></td><td><a href="./Maiden's_Capriccio.md" title="Maiden&#39;s Capriccio">Maiden's Capriccio</a></td><td>Tr.1</td></tr></tbody></table>
+
 
 
 ## 试听
@@ -31,9 +34,11 @@
 
   
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="自由な精神_~_To_Drink_From_Life_Itself" colspan="2" class="title">自由な精神 ~ To Drink From Life Itself<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=ArmpitMaiden&amp;ogmusic=東方萃夢想&amp;fromwiki=自由な精神_~_To_Drink_From_Life_Itself"><span title="搜索相似同人曲"></span></a></span></td><td class="time">05:34</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./ArmpitMaiden.md" title="ArmpitMaiden">ArmpitMaiden</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，ArmpitMaiden&amp;fromwiki=自由な精神_~_To_Drink_From_Life_Itself"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=東方萃夢想&amp;fromwiki=自由な精神_~_To_Drink_From_Life_Itself"><span></span></a></span><div class="ogmusic"><a href="/%E6%9D%B1%E6%96%B9%E8%90%83%E5%A4%A2%E6%83%B3" class="mw-redirect" title="東方萃夢想">東方萃夢想</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E8%90%83%E6%A2%A6%E6%83%B3_%EF%BD%9E_Immaterial_and_Missing_Power." class="mw-redirect" title="东方萃梦想 ～ Immaterial and Missing Power.">东方萃梦想　～ Immaterial and Missing Power.</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="自由な精神_~_To_Drink_From_Life_Itself" colspan="2" class="title">自由な精神 ~ To Drink From Life Itself<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=ArmpitMaiden&amp;ogmusic=東方萃夢想&amp;fromwiki=自由な精神_~_To_Drink_From_Life_Itself"><span title="搜索相似同人曲"></span></a></span></td><td class="time">05:34</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./ArmpitMaiden.md" title="ArmpitMaiden">ArmpitMaiden</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，ArmpitMaiden&amp;fromwiki=自由な精神_~_To_Drink_From_Life_Itself"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=東方萃夢想&amp;fromwiki=自由な精神_~_To_Drink_From_Life_Itself"><span></span></a></span><div class="ogmusic"><a href="./東方萃夢想.md" class="mw-redirect" title="東方萃夢想">東方萃夢想</a></div><div class="source"><a href="./东方萃梦想_～_Immaterial_and_Missing_Power..md" class="mw-redirect" title="东方萃梦想 ～ Immaterial and Missing Power.">东方萃梦想　～ Immaterial and Missing Power.</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

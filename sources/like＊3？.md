@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-like＊3-封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/7/75/like%EF%BC%8A3%3F%E5%B0%81%E9%9D%A2.jpg/119px-like%EF%BC%8A3%3F%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="119" height="168" srcset="https://upload.thwiki.cc/thumb/7/75/like%EF%BC%8A3%3F%E5%B0%81%E9%9D%A2.jpg/178px-like%EF%BC%8A3%3F%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/7/75/like%EF%BC%8A3%3F%E5%B0%81%E9%9D%A2.jpg/238px-like%EF%BC%8A3%3F%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="354" data-file-height="500"></a><div class="cover-char">角色：<a href="./爱丽丝·玛格特洛依德.md" title="爱丽丝·玛格特洛依德">爱丽丝·玛格特洛依德</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://sakutiki.jugem.jp/?eid=32">http://sakutiki.jugem.jp/?eid=32</a></td></tr></tbody></table>
 
 like＊3？（同人志，天災族，2014） - 2014年5月11日 由 天災族 于 博丽神社例大祭11 发布的漫画同人志，一共24页，登场人物有 博丽灵梦、爱丽丝·玛格特洛依德、梅蒂欣·梅兰可莉、秦心，分级为 一般向
+
 ## Staff
 - [おいなり](./おいなり.md)
+
 
 ## 评论
 

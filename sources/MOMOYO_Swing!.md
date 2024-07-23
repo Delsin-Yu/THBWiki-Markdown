@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=MOMOYO_Swing!%E5%B0%81%E9%9D%A2.jpg" class="new" title="文件:MOMOYO Swing!封面.jpg">封面图片</a><div class="cover-char">角色：<a href="./姬虫百百世.md" title="姬虫百百世">姬虫百百世</a></div></td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/adazakura_midi/status/1740322902455857391">https://twitter.com/adazakura_midi/status/1740322902455857391</a><br><a rel="nofollow" class="external free" href="https://twitter.com/adazakura_midi/status/1739598994081530015">https://twitter.com/adazakura_midi/status/1739598994081530015</a></td></tr><tr><td class="label">备注</td><td colspan="2">DL Card</td></tr></tbody></table>
 
 MOMOYO Swing!（同人专辑，Reset All Controllers，2023） - 2023年12月31日 由 Reset All Controllers 于 Comic Market 103 发布的单曲同人专辑，分级为 一般向
+
 ## Staff
   
  **Arrangement**   
@@ -24,9 +26,11 @@ MOMOYO Swing!（同人专辑，Reset All Controllers，2023） - 2023年12月31�
 Illustration
 : [京田スズカ](./京田スズカ.md) （[京田モータース](./京田モータース.md)）
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="MOMOYO_Swing!" colspan="2" class="title">MOMOYO Swing!<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=徒桜&amp;ogmusic=龍王殺しのプリンセス&amp;fromwiki=MOMOYO_Swing!"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./徒桜.md" title="徒桜">徒桜</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，徒桜&amp;fromwiki=MOMOYO_Swing!"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=龍王殺しのプリンセス&amp;fromwiki=MOMOYO_Swing!"><span></span></a></span><div class="ogmusic"><a href="/%E9%BE%8D%E7%8E%8B%E6%AE%BA%E3%81%97%E3%81%AE%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BB%E3%82%B9" class="mw-redirect" title="龍王殺しのプリンセス">龍王殺しのプリンセス</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E8%99%B9%E9%BE%99%E6%B4%9E_%EF%BD%9E_Unconnected_Marketeers." class="mw-redirect" title="东方虹龙洞 ～ Unconnected Marketeers.">东方虹龙洞　～ Unconnected Marketeers.</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="MOMOYO_Swing!" colspan="2" class="title">MOMOYO Swing!<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=徒桜&amp;ogmusic=龍王殺しのプリンセス&amp;fromwiki=MOMOYO_Swing!"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./徒桜.md" title="徒桜">徒桜</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，徒桜&amp;fromwiki=MOMOYO_Swing!"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=龍王殺しのプリンセス&amp;fromwiki=MOMOYO_Swing!"><span></span></a></span><div class="ogmusic"><a href="./龍王殺しのプリンセス.md" class="mw-redirect" title="龍王殺しのプリンセス">龍王殺しのプリンセス</a></div><div class="source"><a href="./东方虹龙洞_～_Unconnected_Marketeers..md" class="mw-redirect" title="东方虹龙洞 ～ Unconnected Marketeers.">东方虹龙洞　～ Unconnected Marketeers.</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

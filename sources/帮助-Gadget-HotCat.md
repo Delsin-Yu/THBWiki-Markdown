@@ -29,6 +29,7 @@ HotCat (未找到链接)是一个基于JavaScript开发的MediaWiki插件/扩充
 您可以在您的设置页面激活这个插件。插件的元地址：[https://commons.wikimedia.org/wiki/MediaWiki:Gadget-HotCat.js](https://commons.wikimedia.org/wiki/MediaWiki:Gadget-HotCat.js)。
   
 
+
 ## 各浏览器兼容性
   
 注意：此段翻译自[commons:Help:Gadget-HotCat/Compatibility](http://commons.wikimedia.org/wiki/Help:Gadget-HotCat/Compatibility)，最新情况以 *该页面最新版本* 为准。
@@ -125,6 +126,7 @@ HotCat (未找到链接)是一个基于JavaScript开发的MediaWiki插件/扩充
 - 和大多数MediaWiki脚本一样，浏览器必须支持[DOM Level 2](http://www.w3.org/TR/DOM-Level-2-Core/core.html)。
 - Ajax作用于“分类联想建议”。
 - JavaScript必须开启，不然HotCat将完全不可用。开启了JavaScript但禁用了Ajax，“分类联想建议”将不可用
+
 
 ## 如何安裝（启用）
 - 安裝HotCat十分容易——打开  **设置(我的偏好设定) (未找到链接)** ，在 **小工具 (未找到链接)** 的选项卡，勾選 **HotCat** 并保存设置。

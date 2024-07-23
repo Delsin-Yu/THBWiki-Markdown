@@ -4,7 +4,8 @@
 
 AKACIA ，于 2006 年成立，主要制作 同人志 的日本同人社团，主催是 銀一，当前状态为 转入非东方
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -20,16 +21,20 @@ AKACIA ，于 2006 年成立，主要制作 同人志 的日本同人社团，�
 
 
 
+
 ## 社团信息
 文件:AKACIAbanner.jpg (未找到链接)  banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> AKACIA </td></tr><tr><td><b>主要作品类型</b></td><td>同人志</td></tr><tr><td><b>成立时间</b></td><td>2006</td></tr><tr><td><b>当前状态</b></td><td>转入非东方</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=%E9%8A%80%E4%B8%80&amp;action=edit&amp;redlink=1" class="new" title="銀一（页面不存在）">銀一</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://akacia.sakura.ne.jp/">http://akacia.sakura.ne.jp/</a> <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span></td></tr></tbody></table>
 
 AKACIA（同人社团，同人志社团） - AKACIA ，于 2006 年成立，主要制作 同人志 的日本同人社团，主催是 銀一，当前状态为 转入非东方
+
 ## 成员名单
 - 銀一 (未找到链接)
 
+
 ## 作品列表
+
 ### 同人志
 団子にまつわる血を血で洗う諍い事 封面图片 (未找到链接)団子にまつわる血を血で洗う諍い事 (未找到链接)首发日期：未知 - 護り人 封面图片 (未找到链接)護り人 (未找到链接)首发日期：未知 - little trump 封面图片 (未找到链接)little trump (未找到链接)首发日期：未知 - Scarlet 封面图片 (未找到链接)Scarlet（AKACIA） (未找到链接)首发日期：未知 - ラクガキアンリミテッド 封面图片 (未找到链接)ラクガキアンリミテッド (未找到链接)首发日期：未知 - トウホウアンリミテッド 封面图片 (未找到链接)トウホウアンリミテッド (未找到链接)首发日期：未知 - Scarlet -Tears of Vampire- 封面图片 (未找到链接)Scarlet -Tears of Vampire- (未找到链接)首发日期：未知 - Fessel 封面图片 (未找到链接)Fessel (未找到链接)首发日期：未知 - 龍神乱舞 封面图片 (未找到链接)龍神乱舞 (未找到链接)首发日期：未知 - まりさのしっぱい 封面图片 (未找到链接)まりさのしっぱい (未找到链接)首发日期：未知 - 紅×黒 封面图片 (未找到链接)紅×黒 (未找到链接)首发日期：未知 - ニジイロキセキ 封面图片 (未找到链接)ニジイロキセキ (未找到链接)首发日期：未知 - 早苗いじめ 封面图片 (未找到链接)早苗いじめ (未找到链接)首发日期：未知 - Freude 封面图片 (未找到链接)Freude (未找到链接)首发日期：未知 - 紅魔館TV 封面图片 (未找到链接)紅魔館TV (未找到链接)首发日期：未知 - ぱちゅまり! 封面图片 (未找到链接)ぱちゅまり! (未找到链接)首发日期：未知 - ごほうび華扇様! 封面图片 (未找到链接)ごほうび華扇様! (未找到链接)首发日期：未知 - アリスのゆうわく 封面图片 (未找到链接)アリスのゆうわく (未找到链接)首发日期：未知 - [](./Alice_in_the_Witchforest.md)[Alice in the Witchforest](./Alice_in_the_Witchforest.md)首发日期：2013-09-22 （大⑨州東方祭8 (未找到链接)）漫画 （一般向） 28&#160;页魔女の発情期 ラフ本！ 封面图片 (未找到链接)魔女の発情期 ラフ本！ (未找到链接)首发日期：未知 - 
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -53,6 +58,7 @@ AKACIA（同人社团，同人志社团） - AKACIA ，于 2006 年成立，主�
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458"></table>
+
 
 
 ## 参展信息

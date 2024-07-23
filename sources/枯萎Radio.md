@@ -1,0 +1,125 @@
+# 枯萎广播
+
+<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\6\63\ns0%3A%E6%9E%AF%E8%90%8E%E5%B9%BF%E6%92%AD.html -->
+
+枯萎广播
+
+
+## 简介
+  
+<big>萎えラジ</big>，有时又称<big>枯れラジ</big>，译为 **枯萎广播** （枯萎Radio）。  
+
+是[D.N.A.Softwares](./D.N.A.Softwares.md)主催[D.N.A.](./D.N.A..md)组织的小型广播，在ustream上直播。  
+
+不定期举办，一般举办日期会在[Comic Market](./Comic_Market.md)前后，会邀请嘉宾参与，ZUN曾经参与过几回。
+  
+
+- 固定放送地址：[http://www.ustream.tv/channel/nikenme-dna](http://www.ustream.tv/channel/nikenme-dna)（已经失效）
+
+
+## 往期时间表
+- 2007年以前资料不明
+
+
+<table>
+
+<tbody><tr>
+<th>日期</th>
+<th>回次
+</th></tr>
+<tr>
+<td class="bg-color-info-10" style="">2007/08/11</td>
+<td><a href="./枯萎广播-2007-08-11.md" title="枯萎广播/2007-08-11">萎えラジDNA C72 直前スペシャル</a>
+</td></tr>
+<tr>
+<td class="bg-color-info-10" style="">2007/12/22</td>
+<td>萎えラジDNA C73直前スペシャル
+</td></tr>
+<tr>
+<td class="bg-color-info-10" style="">2008/08/09</td>
+<td>萎えラジDNA 夏コミ直前SP のおしらせ
+</td></tr>
+<tr>
+<td class="bg-color-info-10" style="">2008/08/23</td>
+<td><a href="./枯萎广播-2008-08-23.md" title="枯萎广播/2008-08-23">萎えラジ　コミケお疲れ様でしたスペシャル</a>
+</td></tr>
+<tr>
+<td class="bg-color-info-10" style="">2008/12/19</td>
+<td>萎えラジDNA 冬スペシャルについて
+</td></tr>
+<tr>
+<td class="bg-color-info-10" style="">2009/09/21</td>
+<td><a href="./枯萎广播-2009-09-21.md" title="枯萎广播/2009-09-21">萎えラジDNA 夏コミ反省会スペシャル</a>
+</td></tr>
+<tr>
+<td class="bg-color-info-10" style="">2009/12/27</td>
+<td>萎えラジDNA 2009年冬コミ直前スペシャル
+</td></tr>
+<tr>
+<td class="bg-color-info-10" style="">2010/08/07</td>
+<td><a href="./枯萎广播-2010-08-07.md" title="枯萎广播/2010-08-07">萎えラジDNA 2010夏コミ直前スペシャル</a>
+</td></tr>
+<tr>
+<td class="bg-color-info-10" style="">2010/12/22</td>
+<td>「萎えラジDNA」C79直前スペシャル
+</td></tr>
+<tr>
+<td class="bg-color-info-10" style="">2011/08/06</td>
+<td>萎えラジDNA コミケット80直前スペシャル
+</td></tr>
+<tr>
+<td class="bg-color-info-10" style="">2011/12/25</td>
+<td>萎えラジDNA C81直前スペシャル
+</td></tr>
+<tr>
+<td class="bg-color-info-10" style="">2012/08/04</td>
+<td><a href="/index.php?title=%E6%9E%AF%E8%90%8E%E5%B9%BF%E6%92%AD/2012-08-04&amp;action=edit&amp;redlink=1" class="new" title="枯萎广播/2012-08-04（页面不存在）">萎えラジDNA C82直前スペシャル</a>
+</td></tr>
+<tr>
+<td class="bg-color-info-10" style="">2012/12/22</td>
+<td>萎えラジDNA C83直前スペシャル
+</td></tr>
+<tr>
+<td class="bg-color-info-10" style="">2013/01/04</td>
+<td>枯れラジのおしらせ
+</td></tr>
+<tr>
+<td class="bg-color-info-10" style="">2013/08/03</td>
+<td>萎えラジDNA C84直前スペシャル
+</td></tr>
+<tr>
+<td class="bg-color-info-10" style="">2013/11/03</td>
+<td>萎えラジDNA デジゲー博直前スペシャル
+</td></tr>
+<tr>
+<td class="bg-color-info-10" style="">2013/12/21</td>
+<td>萎えラジDNA C85直前スペシャル
+</td></tr>
+<tr>
+<td class="bg-color-info-10" style="">2014/08/09</td>
+<td>萎えラジ C86直前スペシャル
+</td></tr>
+<tr>
+<td class="bg-color-info-10" style="">2014/11/16</td>
+<td>萎えラジ　デジゲー博でやったっていいじゃないSP
+</td></tr>
+<tr>
+<td class="bg-color-info-10" style="">2014/12/23</td>
+<td>萎えラジ C87直前スペシャル
+</td></tr></tbody></table>
+
+
+
+
+
+
+---
+
+此文档由 [THBWiki-Markdown-Builder](https://github.com/Delsin-Yu/THBWiki-Markdown-Builder) 构建。
+
+文档中的所有内容除特殊注明外，均在 [**知识共享(Creative Commons) 署名-非商业性使用-相同方式共享 3.0 协议**](https://creativecommons.org/licenses/by-sa/3.0/deed.zh-hans) 下提供，附加条款亦可能应用。
+
+引用类型与其他类型作品版权归原作者所有，如有作者授权则遵照授权协议使用。
+
+详细请查阅 [THBWiki：免责声明](https://thbwiki.cc/THBWiki:%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E)。
+

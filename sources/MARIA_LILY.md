@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-MARIA_LILY封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/4/46/MARIA_LILY%E5%B0%81%E9%9D%A2.jpg/159px-MARIA_LILY%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="159" height="224" srcset="https://upload.thwiki.cc/thumb/4/46/MARIA_LILY%E5%B0%81%E9%9D%A2.jpg/238px-MARIA_LILY%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/4/46/MARIA_LILY%E5%B0%81%E9%9D%A2.jpg/318px-MARIA_LILY%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="851" data-file-height="1200"></a><div class="cover-char">角色：<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a>，<a href="./爱丽丝·玛格特洛依德.md" title="爱丽丝·玛格特洛依德">爱丽丝·玛格特洛依德</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=68385573">https://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=68385573</a></td></tr></tbody></table>
 
 MARIA LILY（同人志，間忌憚本舗，2018） - 2018年5月6日 由 間忌憚本舗 于 博丽神社例大祭15 发布的画集同人志，B5尺寸一共24页，登场人物有 雾雨魔理沙、爱丽丝·玛格特洛依德，分级为 一般向
+
 ## Staff
 - ノ間 (未找到链接)
+
 
 ## 评论
 

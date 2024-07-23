@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Treble_Acis_C94無料配布CD封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/6/69/Treble_Acis_C94%E7%84%A1%E6%96%99%E9%85%8D%E5%B8%83CD%E5%B0%81%E9%9D%A2.jpg/252px-Treble_Acis_C94%E7%84%A1%E6%96%99%E9%85%8D%E5%B8%83CD%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="252" srcset="https://upload.thwiki.cc/thumb/6/69/Treble_Acis_C94%E7%84%A1%E6%96%99%E9%85%8D%E5%B8%83CD%E5%B0%81%E9%9D%A2.jpg/378px-Treble_Acis_C94%E7%84%A1%E6%96%99%E9%85%8D%E5%B8%83CD%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/6/69/Treble_Acis_C94%E7%84%A1%E6%96%99%E9%85%8D%E5%B8%83CD%E5%B0%81%E9%9D%A2.jpg/504px-Treble_Acis_C94%E7%84%A1%E6%96%99%E9%85%8D%E5%B8%83CD%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1023" data-file-height="1023"></a><div class="cover-char">角色：<a href="./露米娅.md" title="露米娅">露米娅</a></div></td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.youtube.com/watch?v=INPDJ89QPzU">https://www.youtube.com/watch?v=INPDJ89QPzU</a></td></tr></tbody></table>
 
 Treble Acis C94無料配布CD（同人专辑，Treble Acis，2018） - 2018年8月10日 由 Treble Acis 于 Comic Market 94 发布的单曲同人专辑，曲目主要风格是 Rock、金属，分级为 一般向
+
 ## Staff
   
  **Arrangement**   
@@ -25,6 +27,7 @@ Mix / Mastering
 : Revet / Lin
 Illustration
 : Lin
+
 
 ## 试听
 
@@ -38,9 +41,11 @@ Illustration
 </td></tr></tbody></table>
 
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="妖魔夜行_～_Dancing_in_Illusionary_(Remastered)" colspan="2" class="title">妖魔夜行　～ Dancing in Illusionary (Remastered)<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Lin，Louis&amp;ogmusic=妖魔夜行，Moirai&amp;fromwiki=Treble_Acis_C94無料配布CD"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:15</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=Lin&amp;action=edit&amp;redlink=1" class="new" title="Lin（页面不存在）">Lin</a>，<a href="/index.php?title=Louis&amp;action=edit&amp;redlink=1" class="new" title="Louis（页面不存在）">Louis</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Lin，Louis&amp;fromwiki=Treble_Acis_C94無料配布CD"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">初发布</td><td class="text" colspan="2"><a href="/Re;Mind#1" title="Re;Mind">妖魔夜行　～ Dancing in Illusionary</a><div class="source"><a href="./Re;Mind.md" title="Re;Mind">Re;Mind</a></div></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=妖魔夜行，Moirai&amp;fromwiki=Treble_Acis_C94無料配布CD"><span></span></a></span><div class="ogmusic"><a href="./妖魔夜行.md" title="妖魔夜行">妖魔夜行</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E7%BA%A2%E9%AD%94%E4%B9%A1_%EF%BD%9E_the_Embodiment_of_Scarlet_Devil." class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr><tr><td class="left"></td><td class="label">其他原曲</td><td class="text" colspan="2"><div class="ogmusic">Moirai</div><div class="source">直惘 - Do Not Leave The Path (2016)</div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="妖魔夜行_～_Dancing_in_Illusionary_(Remastered)" colspan="2" class="title">妖魔夜行　～ Dancing in Illusionary (Remastered)<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Lin，Louis&amp;ogmusic=妖魔夜行，Moirai&amp;fromwiki=Treble_Acis_C94無料配布CD"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:15</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=Lin&amp;action=edit&amp;redlink=1" class="new" title="Lin（页面不存在）">Lin</a>，<a href="/index.php?title=Louis&amp;action=edit&amp;redlink=1" class="new" title="Louis（页面不存在）">Louis</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Lin，Louis&amp;fromwiki=Treble_Acis_C94無料配布CD"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">初发布</td><td class="text" colspan="2"><a href="/Re;Mind#1" title="Re;Mind">妖魔夜行　～ Dancing in Illusionary</a><div class="source"><a href="./Re;Mind.md" title="Re;Mind">Re;Mind</a></div></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=妖魔夜行，Moirai&amp;fromwiki=Treble_Acis_C94無料配布CD"><span></span></a></span><div class="ogmusic"><a href="./妖魔夜行.md" title="妖魔夜行">妖魔夜行</a></div><div class="source"><a href="./东方红魔乡_～_the_Embodiment_of_Scarlet_Devil..md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr><tr><td class="left"></td><td class="label">其他原曲</td><td class="text" colspan="2"><div class="ogmusic">Moirai</div><div class="source">直惘 - Do Not Leave The Path (2016)</div></td></tr></tbody></table>
+
 
 
 ## 评论

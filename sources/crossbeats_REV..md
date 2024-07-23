@@ -7,6 +7,7 @@ CAPCOM | 东方相关商业游戏
 本页是关于  
 含有[东方Project](./东方Project.md)相关内容的  
 [商业游戏](./分类-东方相关商业游戏.md)作品的词条crossbeats REV.（商业游戏） - 
+
 ## 目录
 
 - [1 介绍](#介绍)
@@ -25,7 +26,9 @@ CAPCOM | 东方相关商业游戏
 
 
 
+
 ## 介绍
+
 ### 概述
 
 
@@ -52,6 +55,7 @@ crossbeats REV. SUNRiSE
   
 移动端和街机端的游戏均已于2018年6月25日正式终止运营。移动端无法再游玩，而街机端则是停止了在线游玩功能，只能在机厅尚未撤去的机台离线游玩。
   
+
 
 
 ### 版本信息
@@ -96,6 +100,7 @@ crossbeats REV. SUNRiSE
 </td></tr></tbody></table>
 
 
+
 ### 玩法简介
   
 iOS端与街机端的操作方式相同，均为在触屏上根据节奏和提示进行点击、滑动和长按操作。
@@ -103,6 +108,7 @@ iOS端与街机端的操作方式相同，均为在触屏上根据节奏和提�
   
 击中判定由高到低分为Flawless、Super、Cool三种，而Miss判定也分别分为蓝色Fast/Slow、灰色Fast/Slow、Fail三种。
   
+
 
 ## 与东方Project的关联
   
@@ -112,7 +118,9 @@ iOS端与街机端的操作方式相同，均为在触屏上根据节奏和提�
 ```
 「这是我许可的。条件是首先要取得编曲者的许可。这种形式虽说是商业但也和其他同人一样，我并不会特意指示内容。我个人认为，编曲者能够大显身手的机会增多是个值得欣喜的事情（游戏厅能够因此热闹起来就更好了）」```
 
+
 ## 相关东方同人专辑
+
 ## 游戏内收录的东方同人曲目
 
 <table><tbody><tr><th colspan="2">曲目信息</th></tr><tr><td colspan="2" style="padding-left: 1em;"><div class="floatright"><a href="./文件-東方響宴夢封面.jpg.md" class="image" title="東方響宴夢"><img alt="東方響宴夢" src="https://upload.thwiki.cc/thumb/4/49/%E6%9D%B1%E6%96%B9%E9%9F%BF%E5%AE%B4%E5%A4%A2%E5%B0%81%E9%9D%A2.jpg/100px-%E6%9D%B1%E6%96%B9%E9%9F%BF%E5%AE%B4%E5%A4%A2%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="100" height="100" srcset="https://upload.thwiki.cc/thumb/4/49/%E6%9D%B1%E6%96%B9%E9%9F%BF%E5%AE%B4%E5%A4%A2%E5%B0%81%E9%9D%A2.jpg/150px-%E6%9D%B1%E6%96%B9%E9%9F%BF%E5%AE%B4%E5%A4%A2%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/4/49/%E6%9D%B1%E6%96%B9%E9%9F%BF%E5%AE%B4%E5%A4%A2%E5%B0%81%E9%9D%A2.jpg/200px-%E6%9D%B1%E6%96%B9%E9%9F%BF%E5%AE%B4%E5%A4%A2%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="500" data-file-height="500"></a></div><b><a href="/%E6%9D%B1%E6%96%B9%E9%9F%BF%E5%AE%B4%E5%A4%A2#4" title="東方響宴夢">カリソメ</a></b> &#91;02:00&#93;<dl><dd><a href="./東方響宴夢.md" title="東方響宴夢">東方響宴夢</a> （2016-05-08）<br>社团：<a href="./太东.md" title="太东">太东</a><br>编曲：<a href="./コンプ.md" title="コンプ">コンプ</a><br>演唱：<a href="./ichigo.md" title="ichigo">ichigo</a><br>作词：<a href="./コンプ.md" title="コンプ">コンプ</a><br>原曲：<a href="./哈德曼的妖怪少女.md" title="哈德曼的妖怪少女" unred="">ハルトマンの妖怪少女</a><br></dd></dl></td></tr>
@@ -127,6 +135,7 @@ iOS端与街机端的操作方式相同，均为在触屏上根据节奏和提�
 <tr><th colspan="2"></th></tr><tr><td colspan="2" style="padding-left: 1em;"><div class="floatright"><a href="./文件-No_Way_-Gravity-封面.jpg.md" class="image" title="No Way -Gravity-"><img alt="No Way -Gravity-" src="https://upload.thwiki.cc/thumb/4/4a/No_Way_-Gravity-%E5%B0%81%E9%9D%A2.jpg/99px-No_Way_-Gravity-%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="99" height="100" srcset="https://upload.thwiki.cc/thumb/4/4a/No_Way_-Gravity-%E5%B0%81%E9%9D%A2.jpg/148px-No_Way_-Gravity-%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/4/4a/No_Way_-Gravity-%E5%B0%81%E9%9D%A2.jpg/197px-No_Way_-Gravity-%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1469" data-file-height="1491"></a></div><b><a href="/No_Way_-Gravity-#2" title="No Way -Gravity-">ROCK&#39;N&#39;ROLL☆FLYING REDHEAD</a></b> &#91;02:57&#93;<dl><dd><a href="./No_Way_-Gravity-.md" title="No Way -Gravity-">No Way -Gravity-</a> （2016-10-09）<br>社团：<a href="./暁Records.md" title="暁Records">暁Records</a><br>编曲：<a href="./Stack_Bros..md" title="Stack Bros.">Stack Bros.</a><br>演唱：<a href="./Stack.md" title="Stack">Stack</a><br>作词：<a href="./Stack.md" title="Stack">Stack</a><br>原曲：<a href="./往来于运河的人与妖.md" title="往来于运河的人与妖" unred="">運河を行き交う人妖</a>，<a href="./柳树下的杜拉罕.md" title="柳树下的杜拉罕" unred="">柳の下のデュラハン</a><br></dd></dl></td></tr>
 <tr><th colspan="2"></th></tr><tr><td colspan="2" style="padding-left: 1em;"><div class="floatright"><a href="./文件-WARNING×WARNING×WARNING_-to_the_beginning_05-封面.jpg.md" class="image" title="WARNING×WARNING×WARNING -to the beginning 05-"><img alt="WARNING×WARNING×WARNING -to the beginning 05-" src="https://upload.thwiki.cc/thumb/5/54/WARNING%C3%97WARNING%C3%97WARNING_-to_the_beginning_05-%E5%B0%81%E9%9D%A2.jpg/100px-WARNING%C3%97WARNING%C3%97WARNING_-to_the_beginning_05-%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="100" height="99" srcset="https://upload.thwiki.cc/thumb/5/54/WARNING%C3%97WARNING%C3%97WARNING_-to_the_beginning_05-%E5%B0%81%E9%9D%A2.jpg/150px-WARNING%C3%97WARNING%C3%97WARNING_-to_the_beginning_05-%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/5/54/WARNING%C3%97WARNING%C3%97WARNING_-to_the_beginning_05-%E5%B0%81%E9%9D%A2.jpg/200px-WARNING%C3%97WARNING%C3%97WARNING_-to_the_beginning_05-%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1668" data-file-height="1647"></a></div><b><a href="/WARNING%C3%97WARNING%C3%97WARNING_-to_the_beginning_05-#1" title="WARNING×WARNING×WARNING -to the beginning 05-">WARNING×WARNING×WARNING</a></b> &#91;04:29&#93;<dl><dd><a href="./WARNING×WARNING×WARNING_-to_the_beginning_05-.md" title="WARNING×WARNING×WARNING -to the beginning 05-">WARNING×WARNING×WARNING -to the beginning 05-</a> （2015-12-30）<br>社团：<a href="./暁Records.md" title="暁Records">暁Records</a><br>编曲：<a href="./ACTRock.md" title="ACTRock">ACTRock</a><br>演唱：<a href="./Stack.md" title="Stack">Stack</a><br>作词：<a href="./ACTRock.md" title="ACTRock">ACTRock</a><br>原曲：<a href="./遥遥38万公里的航程.md" title="遥遥38万公里的航程" unred="">遥か３８万キロのボヤージュ</a>，<a href="./星条旗的小丑.md" title="星条旗的小丑" unred="">星条旗のピエロ</a><br></dd></dl></td></tr>
 <tr><th colspan="2"></th></tr><tr><td colspan="2" style="padding-left: 1em;"><div class="floatright"><a href="./文件-LIMITED_SINGLES_season1封面.jpg.md" class="image" title="LIMITED SINGLES season1"><img alt="LIMITED SINGLES season1" src="https://upload.thwiki.cc/thumb/7/7e/LIMITED_SINGLES_season1%E5%B0%81%E9%9D%A2.jpg/100px-LIMITED_SINGLES_season1%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="100" height="99" srcset="https://upload.thwiki.cc/thumb/7/7e/LIMITED_SINGLES_season1%E5%B0%81%E9%9D%A2.jpg/150px-LIMITED_SINGLES_season1%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/7/7e/LIMITED_SINGLES_season1%E5%B0%81%E9%9D%A2.jpg/200px-LIMITED_SINGLES_season1%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1668" data-file-height="1647"></a></div><b><a href="/LIMITED_SINGLES_season1#5" title="LIMITED SINGLES season1">トレイス・エゴイズム</a></b> &#91;04:00&#93;<dl><dd><a href="./LIMITED_SINGLES_season1.md" title="LIMITED SINGLES season1">LIMITED SINGLES season1</a> （2017-08-11）<br>社团：<a href="./暁Records.md" title="暁Records">暁Records</a><br>编曲：<a href="./ねこ☆まんじゅう.md" title="ねこ☆まんじゅう">ねこ☆まんじゅう</a><br>演唱：<a href="./Stack.md" title="Stack">Stack</a><br>作词：<a href="./Stack.md" title="Stack">Stack</a><br>原曲：<a href="./无间之钟_～_Infinite_Nightmare.md" title="无间之钟 ～ Infinite Nightmare" unred="">無間の鐘　～ Infinite Nightmare</a><br></dd></dl></td></tr></tbody></table>
+
 
 
 ## 参考资料

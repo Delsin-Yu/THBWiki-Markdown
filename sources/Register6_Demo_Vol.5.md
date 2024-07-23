@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Register6_Demo_Vol.5封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/f/fd/Register6_Demo_Vol.5%E5%B0%81%E9%9D%A2.jpg/252px-Register6_Demo_Vol.5%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="249" srcset="https://upload.thwiki.cc/thumb/f/fd/Register6_Demo_Vol.5%E5%B0%81%E9%9D%A2.jpg/378px-Register6_Demo_Vol.5%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/f/fd/Register6_Demo_Vol.5%E5%B0%81%E9%9D%A2.jpg/504px-Register6_Demo_Vol.5%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1751" data-file-height="1731"></a><div class="cover-char">角色：<a href="./霍青娥.md" title="霍青娥">霍青娥</a></div></td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://regi6oshirase.xxxxxxxx.jp/demo5.html">http://regi6oshirase.xxxxxxxx.jp/demo5.html</a></td></tr></tbody></table>
 
 Register6 Demo Vol.5（同人专辑，Register6，2012） - 2012年5月26日 由 Register6 于 博丽神社例大祭10 发布的EP同人专辑，曲目主要风格是 金属，分级为 一般向
+
 ## Staff
   
  **Arrangement**   
@@ -24,9 +26,11 @@ Register6 Demo Vol.5（同人专辑，Register6，2012） - 2012年5月26日 由
 Illustrations
 : バイオレンスクマ雛（[憂鬱バイオレンス](http://31violence.tuzigiri.com/)）
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="不撓の手" colspan="2" class="title">不撓の手<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=ロー&amp;ogmusic=リジッドパラダイス，古きユアンシェン&amp;fromwiki=Register6_Demo_Vol.5"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./ロー.md" title="ロー">ロー</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，ロー&amp;fromwiki=Register6_Demo_Vol.5"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=リジッドパラダイス，古きユアンシェン&amp;fromwiki=Register6_Demo_Vol.5"><span></span></a></span><div class="ogmusic"><a href="/%E3%83%AA%E3%82%B8%E3%83%83%E3%83%89%E3%83%91%E3%83%A9%E3%83%80%E3%82%A4%E3%82%B9" class="mw-redirect" title="リジッドパラダイス">リジッドパラダイス</a></div><div class="ogmusic"><a href="/%E5%8F%A4%E3%81%8D%E3%83%A6%E3%82%A2%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%B3" class="mw-redirect" title="古きユアンシェン">古きユアンシェン</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E7%A5%9E%E7%81%B5%E5%BA%99_%EF%BD%9E_Ten_Desires." class="mw-redirect" title="东方神灵庙 ～ Ten Desires.">东方神灵庙　～ Ten Desires.</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="不撓の手" colspan="2" class="title">不撓の手<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=ロー&amp;ogmusic=リジッドパラダイス，古きユアンシェン&amp;fromwiki=Register6_Demo_Vol.5"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./ロー.md" title="ロー">ロー</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，ロー&amp;fromwiki=Register6_Demo_Vol.5"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=リジッドパラダイス，古きユアンシェン&amp;fromwiki=Register6_Demo_Vol.5"><span></span></a></span><div class="ogmusic"><a href="./リジッドパラダイス.md" class="mw-redirect" title="リジッドパラダイス">リジッドパラダイス</a></div><div class="ogmusic"><a href="./古きユアンシェン.md" class="mw-redirect" title="古きユアンシェン">古きユアンシェン</a></div><div class="source"><a href="./东方神灵庙_～_Ten_Desires..md" class="mw-redirect" title="东方神灵庙 ～ Ten Desires.">东方神灵庙　～ Ten Desires.</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

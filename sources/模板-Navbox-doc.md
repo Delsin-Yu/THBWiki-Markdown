@@ -8,6 +8,7 @@
 本模板允许通过提供一个或多个链接列表，从而相对快速地建立一个[导航模板](https://en.wikipedia.org/wiki/导航模板)。它配备了缺省样式，这些样式应能对付大多数导航模板。不建议改变缺省样式，尽管这是可以的。为了导航模板的标准化，也为了便于使用，强烈建议使用这个模板，或者它的「Navbox系列」姊妹模板中的某一个。
   
 
+
 ## 目录
 
 - [1 用法](#用法)
@@ -39,6 +40,7 @@
 
 
 
+
 ## 用法
   
 请移除置空不用的参数。
@@ -64,6 +66,7 @@
 
 |below= 
 }}```
+
 
 ## 参数列表
 
@@ -126,6 +129,7 @@ below - `
 进一步的细节，以及复杂的约束，在下方[参数描述](#参数描述)章节作了解释。参见其他的一些替代导航格式：[表格布局](#表格布局)。
   
 
+
 ## 参数描述
   
 下面是用于&#123;&#123;[Navbox](./模板-Navbox.md)&#125;&#125;的参数的一个完整清单。在大多数情况下，只要有参数`
@@ -140,6 +144,7 @@ list1`
 &#123;&#123;[Navbox](./模板-Navbox.md)&#125;&#125;与它的姊妹模板&#123;&#123;Navbox with columns (未找到链接)&#125;&#125;、&#123;&#123;Navbox with collapsible groups (未找到链接)&#125;&#125;共用很多常用的参数名称，以提高一致性与易用性。带一个†
 标记的参数适用于所有这三个主模板。
   
+
 
 ### 设置参数
 : name†
@@ -196,6 +201,7 @@ off`
 可以移除<small>查 • 论 • 编 • 历</small>链接（英文模板已实现），但是不会应用补白（这只是为了高级用法；“plain”选项应能满足大多数不想要导航栏的应用。）强烈建议使用者不要隐藏导航栏，为的是使用户编辑该模板更加容易，并且可以贯穿各个页面都有一个标准的风格。
 
 
+
 ### 单元格
 : title†
 : 显示在表格顶端一行居中位置的文字。它通常是该模板的主题，也就是主体内容的一个简要描述。这应该是单独的一行，但是如果需要第二行，请使用`
@@ -235,6 +241,7 @@ imageleft = [[File:Example.jpg|100px]]`
 
 : below†
 : 一个全宽度单元格，显示在该模板主体（group、list和image）的下方。在一个不带图片的模板中， *below* 与该模板最后面的不带 *group<sub>n</sub>* 参数的 *list<sub>n</sub>* 参数以同样的方式运作。
+
 
 
 ### 样式参数
@@ -313,6 +320,7 @@ abovestyle = text-align:[ *left/center/right* ];`
 
 
 
+
 ##### 缺省样式
   
 这里列出的样式设置是使用导航框的编辑者最经常更改的那些设置。其他更加复杂的样式设置被排除在这个列表之外，以保持它简单。大多数样式是在MediaWiki:Common.css (未找到链接)中设置。
@@ -353,6 +361,7 @@ vertical-align:middle;`
 设定。
   
 
+
 ## 表格的布局
   
 由&#123;&#123;[Navbox](./模板-Navbox.md)&#125;&#125; **不带**  *image* 、 *above* 和 *below* 参数生成的表格（添加了灰色的列表背景色仅仅是为了演示）：
@@ -382,16 +391,20 @@ vertical-align:middle;`
 <table><tbody><tr><td><table cellspacing="0" class="nowraplinks mw-collapsible uncollapsed" style="width:100%;;;"><tbody><tr><th style=";" colspan="4" class="navbox-title"><div class="navbar"><div class="noprint plainlinksneverexpand" style="background-color:transparent; padding:0; font-weight:normal; font-size:80%; white-space:nowrap;"><a class="mw-selflink selflink"><span style=";;border:none;" title="查看这个模板">查</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<a href="/index.php?title=%E6%A8%A1%E6%9D%BF:Navbox/doc&amp;action=edit"><span style=";;border:none;" title="您可以编辑这个模板。请在储存变更之前先预览">编</span></a></div></div><span>{{{title}}}</span></th></tr><tr><td></td></tr><tr><td class="navbox-imageleft" style="" rowspan="7">{{{imageleft}}}</td><td colspan="2" style="background:silver;;;" class="navbox-list navbox-odd"><div>{{{list1}}}</div></td><td class="navbox-image" style="" rowspan="7">{{{image}}}</td></tr><tr><td></td></tr><tr><td colspan="2" style="background:silver;;;" class="navbox-list navbox-even"><div>{{{list2}}}</div></td></tr><tr><td></td></tr><tr><td colspan="2" style="background:silver;;;" class="navbox-list navbox-odd"><div>{{{list3}}}</div></td></tr><tr><td></td></tr><tr><td colspan="2" style="background:silver;;;" class="navbox-list navbox-even"><div>{{{list4}}}</div></td></tr></tbody></table></td></tr></tbody></table>
 
 
+
 ## 示例
+
 ## 与其他导航框模板的关系
   
 此导航框模板被特别设计使得能与另外两个姊妹模板协同工作：&#123;&#123;Navbox with columns (未找到链接)&#125;&#125;和&#123;&#123;Navbox with collapsible groups (未找到链接)&#125;&#125;。所有这三个模板共用常用的参数，以提高一致性与易用性（此类参数在上面的完整参数列表中用一个†
 作了标记）。最重要的是，所有这三个模板能互相被用作另一个的子框。
   
 
+
 ## 技术细节
 - 此模板为其大部分外观使用CSS类，因此它完全可以更换皮肤。
 - 欲了解更多技术细节请参见其MediaWiki:common.css (未找到链接)中的CSS类以及MediaWiki:common.js (未找到链接)中用来隐藏框体的可折叠表格。
+
 
 ### 运作详情
 - 列表单元格宽度初始被设置为100%。因此，如果你想手动设置分组单元格的宽度，你就需要同时指定liststyle使之有width:auto。如果你想设置分组宽度并使用图片，这取决于你已弄明白在groupstyle、liststyle、imagestyle和imageleftstyle参数中的CSS，以使所有部件都工作正常。以下两行是设置分组宽度的示例：
@@ -411,6 +424,7 @@ style/bodystyle`
 
 : : `
 style = width:22em;float:right;margin-left:1em;margin-right:0em;`
+
 
 
 

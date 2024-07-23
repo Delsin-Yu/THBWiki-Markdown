@@ -6,21 +6,26 @@
 
 本页是关于东方Project  
  **二次同人创作者** 的词条
+
 ## 基本信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="label"><b>名称</b></td><td> estha </td></tr><tr><td class="label"><b>所属社团</b></td><td><b>当前</b><div style="margin-left:2em;"><a href="./XL_Project.md" title="XL Project">XL Project</a></div></td></tr><tr><td class="label"><b>职位</b></td><td>主催，作曲，编曲，作词</td></tr><tr><td class="label"><b>参与社团</b></td><td><a href="./ALiCE'S_EMOTiON.md" title="ALiCE&#39;S EMOTiON">ALiCE'S EMOTiON</a> （编曲）<br><a href="./Alstroemeria_Records.md" title="Alstroemeria Records">Alstroemeria Records</a> （编曲）<br><a href="./Iemitsu..md" title="Iemitsu.">Iemitsu.</a> （编曲）<br><a href="./Sound_Online.md" title="Sound Online">Sound Online</a> （编曲）<br><a href="./Spiral_Music.md" title="Spiral Music">Spiral Music</a> （编曲）<br><a href="./XL_Project.md" title="XL Project">XL Project</a> （作曲，编曲，作词）<br><a href="/index.php?title=northways&amp;action=edit&amp;redlink=1" class="new" title="northways（页面不存在）">northways</a> （编曲）</td></tr><tr><td class="label"><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="https://www.xlproject.info/">https://www.xlproject.info/</a></td></tr><tr><td class="label"><b>个人页面</b></td><td><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><b>Twitter</b></td><td><a rel="nofollow" class="external free" href="https://twitter.com/estha">https://twitter.com/estha</a></td></tr></tbody></table></td></tr></tbody></table>
 
 estha（人物） - 现实人物
+
 ## 介绍
   
 同人音乐社团[XL Project](./XL_Project.md)主催，目前在中国从事音乐相关的工作。
   
 
+
 ## 参与作品
+
 ### 同人音乐
   
 模板:人物曲目列表 (未找到链接)
   
+
 
 ## 人际关系
 人名

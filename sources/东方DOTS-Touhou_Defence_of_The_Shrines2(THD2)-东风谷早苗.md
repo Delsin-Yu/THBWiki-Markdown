@@ -164,6 +164,7 @@ AvalonStudioOfficial
 [](./文件-THD2东风谷早苗.png.md)
   
 
+
 ## 目录
 
 - [1 角色定位](#角色定位)
@@ -184,10 +185,12 @@ AvalonStudioOfficial
 
 
 
+
 ## 角色定位
   
 辅助 - 控制 - 先手
   
+
 
 ## 技能介绍
 
@@ -667,6 +670,7 @@ AvalonStudioOfficial
 </td></tr></tbody></table>
 
 
+
 ## 天赋树
 
 
@@ -705,25 +709,30 @@ AvalonStudioOfficial
 </td></tr></tbody></table>
 
 
+
 ### 出门装备
 ```
 [](./文件-THD2动物信使.png.md) [](./文件-THD2鬼天王腰带.png.md) [](./文件-THD2爱人卡.png.md) [](./文件-THD2思兼生命药.png.md)
 ```
+
 
 ### 前期装备
 ```
 [](./文件-THD2很值钱的礼物.png.md) [](./文件-THD2魔法使扫把.png.md) [](./文件-THD2西尔芙灵纹.png.md)
 ```
 
+
 ### 核心装备
 ```
 [](./文件-THD2香霖的礼服.png.md) [](./文件-THD2冰精跳跃装置.png.md) [](./文件-THD2奇迹之星.png.md) [](./文件-THD2侦查守卫.png.md) [](./文件-THD2岗哨守卫.png.md)
 ```
 
+
 ### 可选装备
 ```
 [](./文件-THD2不明的秒计时.png.md) [](./文件-THD2油库里之杖.png.md) [](./文件-THD2碎骨笛.png.md) [](./文件-THD2思兼生命智慧.png.md) [](./文件-THD2魔法使的帽子.png.md) [](./文件-THD2速融的核聚变棒.png.md) [](./文件-THD2博丽神社护身符.png.md) [](./文件-THD2八云间隙发生器.png.md)
 ```
+
 
 ## 技能加点
 
@@ -871,6 +880,7 @@ AvalonStudioOfficial
 </td></tr></tbody></table>
 
 
+
 ## 台词
 
 <table>
@@ -945,6 +955,7 @@ AvalonStudioOfficial
 </td>
 <td>わわ　おバゲ　悪霊退散<br>[哇哇 妖怪 恶灵退散]
 </td></tr></tbody></table>
+
 
 
 ## 教学视频

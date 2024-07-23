@@ -18,6 +18,7 @@
 
 
 </center>
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Fire_in_pray封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/5/54/Fire_in_pray%E5%B0%81%E9%9D%A2.jpg/252px-Fire_in_pray%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="176" srcset="https://upload.thwiki.cc/thumb/5/54/Fire_in_pray%E5%B0%81%E9%9D%A2.jpg/378px-Fire_in_pray%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/5/54/Fire_in_pray%E5%B0%81%E9%9D%A2.jpg/504px-Fire_in_pray%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1280" data-file-height="894"></a><div class="cover-char">角色：<a href="./圣白莲.md" title="圣白莲">圣白莲</a></div></td>
@@ -26,6 +27,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/GimmickLife/status/1124853979995750406">https://twitter.com/GimmickLife/status/1124853979995750406</a></td></tr></tbody></table>
 
 Fire in pray（同人专辑，No Gimmick No Life，2019） - 2019年5月5日 由 No Gimmick No Life 于 博丽神社例大祭16 发布的单曲同人专辑，曲目主要风格是 金属，分级为 一般向
+
 ## Staff
   
  **Arrangement**   
@@ -48,6 +50,7 @@ Design
 Illustration
 : 画师 （[网址 社团]）
 
+
 ## 试听
 
 <table>
@@ -60,9 +63,11 @@ Illustration
 </td></tr></tbody></table>
 
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoRD"><b>01</b></td><td id="Fire_in_pray" colspan="2" class="title"><span class="new" title="（歌词页面不存在）"><a href="/index.php?title=%E6%AD%8C%E8%AF%8D:Fire_in_pray&amp;boilerplate=模板:页面模板/曲目歌词&amp;action=edit">Fire in pray</a></span><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=No Gimmick No Life&amp;vocal=No Gimmick No Life&amp;lyric=No Gimmick No Life&amp;ogmusic=法界の火&amp;fromwiki=Fire_in_pray"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:30</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./No_Gimmick_No_Life.md" title="No Gimmick No Life">No Gimmick No Life</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，No Gimmick No Life&amp;fromwiki=Fire_in_pray"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="./No_Gimmick_No_Life.md" title="No Gimmick No Life">No Gimmick No Life</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=No Gimmick No Life&amp;fromwiki=Fire_in_pray"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="./No_Gimmick_No_Life.md" title="No Gimmick No Life">No Gimmick No Life</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?lyric=No Gimmick No Life&amp;fromwiki=Fire_in_pray"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=法界の火&amp;fromwiki=Fire_in_pray"><span></span></a></span><div class="ogmusic"><a href="/%E6%B3%95%E7%95%8C%E3%81%AE%E7%81%AB" class="mw-redirect" title="法界の火">法界の火</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E6%98%9F%E8%8E%B2%E8%88%B9_%EF%BD%9E_Undefined_Fantastic_Object." class="mw-redirect" title="东方星莲船 ～ Undefined Fantastic Object.">东方星莲船　～ Undefined Fantastic Object.</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoRD"><b>01</b></td><td id="Fire_in_pray" colspan="2" class="title"><span class="new" title="（歌词页面不存在）"><a href="/index.php?title=%E6%AD%8C%E8%AF%8D:Fire_in_pray&amp;boilerplate=模板:页面模板/曲目歌词&amp;action=edit">Fire in pray</a></span><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=No Gimmick No Life&amp;vocal=No Gimmick No Life&amp;lyric=No Gimmick No Life&amp;ogmusic=法界の火&amp;fromwiki=Fire_in_pray"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:30</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./No_Gimmick_No_Life.md" title="No Gimmick No Life">No Gimmick No Life</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，No Gimmick No Life&amp;fromwiki=Fire_in_pray"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="./No_Gimmick_No_Life.md" title="No Gimmick No Life">No Gimmick No Life</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=No Gimmick No Life&amp;fromwiki=Fire_in_pray"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="./No_Gimmick_No_Life.md" title="No Gimmick No Life">No Gimmick No Life</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?lyric=No Gimmick No Life&amp;fromwiki=Fire_in_pray"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=法界の火&amp;fromwiki=Fire_in_pray"><span></span></a></span><div class="ogmusic"><a href="./法界の火.md" class="mw-redirect" title="法界の火">法界の火</a></div><div class="source"><a href="./东方星莲船_～_Undefined_Fantastic_Object..md" class="mw-redirect" title="东方星莲船 ～ Undefined Fantastic Object.">东方星莲船　～ Undefined Fantastic Object.</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

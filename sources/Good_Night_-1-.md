@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Good_Night_-1-封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/8/8a/Good_Night_-1-%E5%B0%81%E9%9D%A2.jpg/159px-Good_Night_-1-%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="159" height="224" srcset="https://upload.thwiki.cc/thumb/8/8a/Good_Night_-1-%E5%B0%81%E9%9D%A2.jpg/239px-Good_Night_-1-%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/8/8a/Good_Night_-1-%E5%B0%81%E9%9D%A2.jpg/318px-Good_Night_-1-%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="800" data-file-height="1126"></a><div class="cover-char">角色：<a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a></div></td>
@@ -18,8 +19,10 @@ Good Night -1-（同人志，AzeLye，2016） - 2016年5月8日 由 AzeLye 于 �
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://ec.toranoana.jp/tora_r/ec/item/040030415401">虎穴</a></td></tr></tbody></table>
 
 
+
 ## Staff
 - ファビ山 (未找到链接)
+
 
 ## 评论
 - 作者
@@ -27,6 +30,7 @@ Good Night -1-（同人志，AzeLye，2016） - 2016年5月8日 由 AzeLye 于 �
 ```
 主人に運命を操る事は出来ないと言われた咲夜、同日レミリアが抱えた悩みと自身の産まれる前の話を始める。２人の姉妹、姉は恐ろしく残酷な人間だった…
 ```
+
 
 ## 其他
   

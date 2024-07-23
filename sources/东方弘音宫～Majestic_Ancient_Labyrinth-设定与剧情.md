@@ -4,6 +4,7 @@
 
 含有受损文件链接的页面 | 源之壬环
 
+
 ## 目录
 
 - [1 附带文档](#附带文档)
@@ -14,16 +15,20 @@
 
 
 
+
 ## 附带文档
 - readme (未找到链接)
 
+
 ## 故事背景
 - [故事背景](./东方弘音宫～Majestic_Ancient_Labyrinth-设定与剧情-故事背景.md)
+
 
 ## 游戏对话
 - [物部布都 游戏对话/结局](./东方弘音宫～Majestic_Ancient_Labyrinth-设定与剧情-物部布都.md)
 
 - [物部布都 Extra游戏对话](./东方弘音宫～Majestic_Ancient_Labyrinth-设定与剧情-物部布都EX.md)
+
 
 ## 词条导航
   

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **相关实体周边 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 周边信息](#周边信息)
@@ -22,6 +23,7 @@
 
 
 
+
 ## 周边信息
 
 <table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 咖啡厅联动风亚克力 妖妖梦篇 </td></tr><tr><td class="label">系列</td><td> 咖啡厅联动风亚克力 </td></tr><tr><td class="label">制作方</td><td><a href="./Merry_Mellow.md" title="Merry Mellow">Merry Mellow</a></td></tr><tr><td class="label">首发日期</td><td>2022-08-20&#160;（<a href="/展会作品列表?e=COMICUP%232022SP">COMICUP2022SP</a>）</td></tr><tr><td class="label">类型</td><td>挂件，立牌</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>立牌7cm 挂件6cm</td></tr><tr><td class="label">材质</td><td>亚克力</td></tr><tr><td class="label">角色</td><td><a href="./蕾蒂·霍瓦特洛克.md" title="蕾蒂·霍瓦特洛克">蕾蒂·霍瓦特洛克</a><br><a href="./橙.md" title="橙">橙</a><br><a href="./爱丽丝·玛格特洛依德.md" title="爱丽丝·玛格特洛依德">爱丽丝·玛格特洛依德</a><br><a href="./露娜萨·普莉兹姆利巴.md" title="露娜萨·普莉兹姆利巴">露娜萨·普莉兹姆利巴</a><br><a href="./梅露兰·普莉兹姆利巴.md" title="梅露兰·普莉兹姆利巴">梅露兰·普莉兹姆利巴</a><br><a href="./莉莉卡·普莉兹姆利巴.md" title="莉莉卡·普莉兹姆利巴">莉莉卡·普莉兹姆利巴</a><br><a href="./蕾拉·普莉兹姆利巴.md" title="蕾拉·普莉兹姆利巴">蕾拉·普莉兹姆利巴</a><br><a href="./魂魄妖梦.md" title="魂魄妖梦">魂魄妖梦</a><br><a href="./西行寺幽幽子.md" title="西行寺幽幽子">西行寺幽幽子</a><br><a href="./八云蓝.md" title="八云蓝">八云蓝</a><br><a href="./八云紫.md" title="八云紫">八云紫</a></td></tr><tr><td class="label">售价</td><td>通贩售价：15人民币（挂件）28人民币（立牌）150人民币（十二个挂件一起）300人民币（十二个立牌一起）</td></tr>
@@ -32,17 +34,22 @@ Merry Mellow/咖啡厅联动风亚克力 妖妖梦篇（周边，Merry Mellow，
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://item.taobao.com/item.htm?id=679016913249">淘宝</a></td></tr></tbody></table>
 
 
+
 ## 参考图
   
 周边宣传、售卖时使用的作为参考图的预览图或实物图的图片。
   
 
+
 ### 预览图
 - [](./文件-Merry_Mellow／咖啡厅联动风亚克力_妖妖梦篇预览图1.png.md)- [](./文件-Merry_Mellow／咖啡厅联动风亚克力_妖妖梦篇预览图2.png.md)- [](./文件-Merry_Mellow／咖啡厅联动风亚克力_妖妖梦篇预览图3.png.md)- [](./文件-Merry_Mellow／咖啡厅联动风亚克力_妖妖梦篇预览图4.png.md)- [](./文件-Merry_Mellow／咖啡厅联动风亚克力_妖妖梦篇预览图5.png.md)- [](./文件-Merry_Mellow／咖啡厅联动风亚克力_妖妖梦篇预览图6.png.md)- [](./文件-Merry_Mellow／咖啡厅联动风亚克力_妖妖梦篇预览图7.png.md)- [](./文件-Merry_Mellow／咖啡厅联动风亚克力_妖妖梦篇预览图8.png.md)- [](./文件-Merry_Mellow／咖啡厅联动风亚克力_妖妖梦篇预览图9.png.md)- [](./文件-Merry_Mellow／咖啡厅联动风亚克力_妖妖梦篇预览图10.png.md)- [](./文件-Merry_Mellow／咖啡厅联动风亚克力_妖妖梦篇预览图11.png.md)- [](./文件-Merry_Mellow／咖啡厅联动风亚克力_妖妖梦篇预览图12.png.md)- [](./文件-Merry_Mellow／咖啡厅联动风亚克力_妖妖梦篇预览图13.png.md)
 
+
 ### 实物图
+
 ## Staff
 - [金森めい](./金森めい.md)
+
 
 ## 评论
 

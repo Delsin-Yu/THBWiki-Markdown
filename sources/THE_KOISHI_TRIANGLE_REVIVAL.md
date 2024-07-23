@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-THE_KOISHI_TRIANGLE_REVIVAL封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/c/c0/THE_KOISHI_TRIANGLE_REVIVAL%E5%B0%81%E9%9D%A2.jpg/160px-THE_KOISHI_TRIANGLE_REVIVAL%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="160" height="224" srcset="https://upload.thwiki.cc/thumb/c/c0/THE_KOISHI_TRIANGLE_REVIVAL%E5%B0%81%E9%9D%A2.jpg/240px-THE_KOISHI_TRIANGLE_REVIVAL%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/c/c0/THE_KOISHI_TRIANGLE_REVIVAL%E5%B0%81%E9%9D%A2.jpg/320px-THE_KOISHI_TRIANGLE_REVIVAL%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="889" data-file-height="1243"></a><div class="cover-char">角色：<a href="./古明地恋.md" title="古明地恋">古明地恋</a></div></td>
@@ -14,9 +15,12 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/63177887">https://www.pixiv.net/artworks/63177887</a></td></tr></tbody></table>
 
 THE KOISHI TRIANGLE REVIVAL（同人志，ネジロメイション!，2017） - 2017年6月4日 由 ネジロメイション! 于 古明地情结4 发布的漫画同人志，B5尺寸一共32页，登场人物有 鬼人正邪、古明地觉、古明地恋、灵乌路空、火焰猫燐，分级为 一般向
+
 ## 预览
+
 ## Staff
 - ネジロメ (未找到链接)
+
 
 ## 评论
 

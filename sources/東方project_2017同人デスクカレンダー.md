@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-東方project_2017同人デスクカレンダー封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/8/8f/%E6%9D%B1%E6%96%B9project_2017%E5%90%8C%E4%BA%BA%E3%83%87%E3%82%B9%E3%82%AF%E3%82%AB%E3%83%AC%E3%83%B3%E3%83%80%E3%83%BC%E5%B0%81%E9%9D%A2.jpg/224px-%E6%9D%B1%E6%96%B9project_2017%E5%90%8C%E4%BA%BA%E3%83%87%E3%82%B9%E3%82%AF%E3%82%AB%E3%83%AC%E3%83%B3%E3%83%80%E3%83%BC%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="224" srcset="https://upload.thwiki.cc/thumb/8/8f/%E6%9D%B1%E6%96%B9project_2017%E5%90%8C%E4%BA%BA%E3%83%87%E3%82%B9%E3%82%AF%E3%82%AB%E3%83%AC%E3%83%B3%E3%83%80%E3%83%BC%E5%B0%81%E9%9D%A2.jpg/336px-%E6%9D%B1%E6%96%B9project_2017%E5%90%8C%E4%BA%BA%E3%83%87%E3%82%B9%E3%82%AF%E3%82%AB%E3%83%AC%E3%83%B3%E3%83%80%E3%83%BC%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/8/8f/%E6%9D%B1%E6%96%B9project_2017%E5%90%8C%E4%BA%BA%E3%83%87%E3%82%B9%E3%82%AF%E3%82%AB%E3%83%AC%E3%83%B3%E3%83%80%E3%83%BC%E5%B0%81%E9%9D%A2.jpg/448px-%E6%9D%B1%E6%96%B9project_2017%E5%90%8C%E4%BA%BA%E3%83%87%E3%82%B9%E3%82%AF%E3%82%AB%E3%83%AC%E3%83%B3%E3%83%80%E3%83%BC%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="600" data-file-height="600"></a><div class="cover-char">角色：<a href="./蓬莱山辉夜.md" title="蓬莱山辉夜">蓬莱山辉夜</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=60500136">https://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=60500136</a></td></tr></tbody></table>
 
 東方project 2017同人デスクカレンダー（同人志，ice＊berry，2016） - 2016年12月29日 由 ice＊berry 于 Comic Market 91 发布的画集同人志，260mm*200mm尺寸一共14页，登场人物有 蓬莱山辉夜、八意永琳、上白泽慧音，分级为 一般向
+
 ## Staff
-- 詩韻 (未找到链接) (ice*berry (未找到链接))
+- 詩韻 (未找到链接) ([ice*berry](./ice-berry.md))
+
 
 ## 评论
 

@@ -4,7 +4,8 @@
 
 あーねすとROOM ，主要制作 同人志 的日本同人社团，主催是 あーねすと，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -21,6 +22,7 @@
 
 
 
+
 ## 社团信息
 文件:あーねすとROOMbanner.jpg (未找到链接)  banner
 文件:あーねすとROOMbanner2.jpg (未找到链接)  banner
@@ -28,12 +30,15 @@
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> あーねすとROOM </td></tr><tr><td><b>主要作品类型</b></td><td>同人志</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=%E3%81%82%E3%83%BC%E3%81%AD%E3%81%99%E3%81%A8&amp;action=edit&amp;redlink=1" class="new" title="あーねすと（页面不存在）">あーねすと</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://arnest.6.ql.bz/">http://arnest.6.ql.bz/</a> <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><small>（<a rel="nofollow" class="external text" href="https://web.archive.org/web/20160318194147/http://arnest.6.ql.bz/">缓存页面</a>）</small></td></tr></tbody></table>
 
 あーねすとROOM（同人社团，同人志社团） - あーねすとROOM ，主要制作 同人志 的日本同人社团，主催是 あーねすと，当前状态为 活动
+
 ## 成员名单
 - あーねすと (未找到链接) (a.k.a.  **arnest** )
 
 : [Twitter: @arnest_](https://twitter.com/arnest_), [Pixiv ID: 181815](https://www.pixiv.net/users/181815)
 
+
 ## 作品列表
+
 ### 同人志
 Premier Etape 封面图片 (未找到链接)Premier Etape (未找到链接)首发日期：未知 - Deux Sorcières 封面图片 (未找到链接)Deux Sorcières (未找到链接)首发日期：未知 - Triangle Amoureuse 封面图片 (未找到链接)Triangle Amoureuse (未找到链接)首发日期：未知 - Sweet Diary 封面图片 (未找到链接)Sweet Diary (未找到链接)首发日期：未知 - まじかる☆チョコレート 封面图片 (未找到链接)まじかる☆チョコレート (未找到链接)首发日期：未知 - アリスはパチュリーのことを… 封面图片 (未找到链接)アリスはパチュリーのことを… (未找到链接)首发日期：未知 - ぱにっく☆どーる 封面图片 (未找到链接)ぱにっく☆どーる (未找到链接)首发日期：未知 - 小悪魔におまかせ！ 封面图片 (未找到链接)小悪魔におまかせ！ (未找到链接)首发日期：未知 - アリスが風邪をひいたときの話 封面图片 (未找到链接)アリスが風邪をひいたときの話 (未找到链接)首发日期：未知 - 虹色Alice 封面图片 (未找到链接)虹色Alice (未找到链接)首发日期：未知 - ちいさなキモチ 封面图片 (未找到链接)ちいさなキモチ (未找到链接)首发日期：未知 - 小悪魔の小話 封面图片 (未找到链接)小悪魔の小話 (未找到链接)首发日期：未知 - アリスのパンツが盗まれた！？ 封面图片 (未找到链接)アリスのパンツが盗まれた！？ (未找到链接)首发日期：未知 - 魔女たちの日常のひとコマ 封面图片 (未找到链接)魔女たちの日常のひとコマ (未找到链接)首发日期：未知 - なついろライブラリー 封面图片 (未找到链接)なついろライブラリー (未找到链接)首发日期：未知 - きのこマリサ 封面图片 (未找到链接)きのこマリサ (未找到链接)首发日期：未知 - パチュリーとアリスのクリスマス 封面图片 (未找到链接)パチュリーとアリスのクリスマス (未找到链接)首发日期：未知 - take kiss me 封面图片 (未找到链接)take kiss me (未找到链接)首发日期：未知 - AUTOMATIC DOLL 封面图片 (未找到链接)AUTOMATIC DOLL (未找到链接)首发日期：未知 - 魔女と従者の距離 封面图片 (未找到链接)魔女と従者の距離 (未找到链接)首发日期：未知 - SweetsFriend 封面图片 (未找到链接)SweetsFriend (未找到链接)首发日期：未知 - パチュリーx2 封面图片 (未找到链接)パチュリーx2 (未找到链接)首发日期：未知 - 水着deCHU! 封面图片 (未找到链接)水着deCHU! (未找到链接)首发日期：未知 - AUTOMATIC DOLL 総集編 封面图片 (未找到链接)AUTOMATIC DOLL 総集編 (未找到链接)首发日期：未知 - クリスマスなのでイチャイチャしマス 封面图片 (未找到链接)クリスマスなのでイチャイチャしマス (未找到链接)首发日期：未知 - パチュリーの記憶喪失 封面图片 (未找到链接)パチュリーの記憶喪失 (未找到链接)首发日期：未知 - フランドールとコイゴコロ 封面图片 (未找到链接)フランドールとコイゴコロ (未找到链接)首发日期：未知 - 水着で勝負 封面图片 (未找到链接)水着で勝負 (未找到链接)首发日期：未知 - ありすとらいあんぐる 封面图片 (未找到链接)ありすとらいあんぐる (未找到链接)首发日期：未知 - [](./ぱちゅ・あり.md)[ぱちゅ・あり](./ぱちゅ・あり.md)首发日期：2018-10-14 （第五回 博麗神社秋季例大祭 (未找到链接)）漫画 （一般向）A5&#160;尺寸 152&#160;页[](./ぱちゅ・ありtake2.md)[ぱちゅ・ありtake2](./ぱちゅ・ありtake2.md)首发日期：2019-12-31 （Comic Market 97 (未找到链接)）漫画 （一般向）A5&#160;尺寸 154&#160;页小悪魔の日記帳 封面图片 (未找到链接)小悪魔の日記帳 (未找到链接)首发日期：未知 - フランちゃんにパンツをはかせたい! 封面图片 (未找到链接)フランちゃんにパンツをはかせたい! (未找到链接)首发日期：未知 - アリスと水着で -ぐらびあ紅魔館- 封面图片 (未找到链接)アリスと水着で -ぐらびあ紅魔館- (未找到链接)首发日期：未知 - 恋愛クロスオーバー 封面图片 (未找到链接)恋愛クロスオーバー (未找到链接)首发日期：未知 - [](./Alice_in_FourSeasons_-春-.md)[Alice in FourSeasons -春-](./Alice_in_FourSeasons_-春-.md)首发日期：2020-05-17 （第十七回 博麗神社例大祭 (未找到链接)）漫画 （一般向）B5&#160;尺寸 8&#160;页[](./Alice_in_FourSeasons_-夏-.md)[Alice in FourSeasons -夏-](./Alice_in_FourSeasons_-夏-.md)首发日期：2020-08-09 （東方名華祭14 (未找到链接)）漫画 （一般向） 8&#160;页[](./小さくなったパチュリーと幸せな物語.md)[小さくなったパチュリーと幸せな物語](./小さくなったパチュリーと幸せな物語.md)首发日期：2021-12-31 （Comic Market 99 (未找到链接)）漫画 （一般向）B5&#160;尺寸 32&#160;页[](./アリスinバニー紅魔館.md)[アリスinバニー紅魔館](./アリスinバニー紅魔館.md)首发日期：2023-05-07 （第二十回 博麗神社例大祭 (未找到链接)）漫画 （一般向）B5&#160;尺寸 32&#160;页
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -83,6 +88,7 @@ Premier Etape 封面图片 (未找到链接)Premier Etape (未找到链接)首�
 </table>
 
 
+
 ### それいけ！上海人形シリーズ系列
 それいけ!上海人形in紅魔館 封面图片 (未找到链接)それいけ!上海人形in紅魔館 (未找到链接)首发日期：未知 - それいけ!上海人形in白玉楼 封面图片 (未找到链接)それいけ!上海人形in白玉楼 (未找到链接)首发日期：未知 - それいけ!上海人形in永遠亭 封面图片 (未找到链接)それいけ!上海人形in永遠亭 (未找到链接)首发日期：未知 - それいけ!上海人形in地霊殿 封面图片 (未找到链接)それいけ!上海人形in地霊殿 (未找到链接)首发日期：未知 - それいけ!上海人形in守矢神社 封面图片 (未找到链接)それいけ!上海人形in守矢神社 (未找到链接)首发日期：未知 - それいけ!上海人形in博麗神社 封面图片 (未找到链接)それいけ!上海人形in博麗神社 (未找到链接)首发日期：未知 - それいけ!上海人形in聖輦船 封面图片 (未找到链接)それいけ!上海人形in聖輦船 (未找到链接)首发日期：未知 - それいけ!上海人形in神霊廟 封面图片 (未找到链接)それいけ!上海人形in神霊廟 (未找到链接)首发日期：未知 - それいけ!上海人形 総集編 封面图片 (未找到链接)それいけ!上海人形 総集編 (未找到链接)首发日期：未知 - 
 <table><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
@@ -94,6 +100,7 @@ Premier Etape 封面图片 (未找到链接)Premier Etape (未找到链接)首�
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458"></table>
+
 
 
 ## 参展信息

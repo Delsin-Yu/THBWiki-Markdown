@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次同人创作者** 的词条
+
 ## 基本信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="label"><b>名称</b></td><td> C.L </td></tr><tr><td class="label"><b>所属社团</b></td><td><b>当前</b><div style="margin-left:2em;">无所属社团</div><b>过往</b><div style="margin-left:2em;">幽闭星光</div></td></tr><tr><td class="label"><b>职位</b></td><td>编曲</td></tr><tr><td class="label"><b>参与社团</b></td><td><a href="./少女フラクタル.md" title="少女フラクタル">少女フラクタル</a> （编曲）<br><a href="./幽闭星光.md" title="幽闭星光">幽闭星光</a> （编曲）<br><a href="./領域ZERO.md" title="領域ZERO">領域ZERO</a> （编曲）</td></tr></tbody></table>

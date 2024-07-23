@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Stampede_A_GO_GO.封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/e/ea/Stampede_A_GO_GO.%E5%B0%81%E9%9D%A2.jpg/121px-Stampede_A_GO_GO.%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="121" height="168" srcset="https://upload.thwiki.cc/thumb/e/ea/Stampede_A_GO_GO.%E5%B0%81%E9%9D%A2.jpg/181px-Stampede_A_GO_GO.%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/e/ea/Stampede_A_GO_GO.%E5%B0%81%E9%9D%A2.jpg/241px-Stampede_A_GO_GO.%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="529" data-file-height="736"></a><div class="cover-char">角色：<a href="./爱丽丝·玛格特洛依德.md" title="爱丽丝·玛格特洛依德">爱丽丝·玛格特洛依德</a>，<a href="/%E7%88%B1%E4%B8%BD%E4%B8%9D%C2%B7%E7%8E%9B%E6%A0%BC%E7%89%B9%E6%B4%9B%E4%BE%9D%E5%BE%B7#上海人偶" title="爱丽丝·玛格特洛依德">上海人偶</a>，<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a>，<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></div></td>
@@ -14,11 +15,14 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://www.purple.dti.ne.jp/sekainohate/right.htm">http://www.purple.dti.ne.jp/sekainohate/right.htm</a></td></tr></tbody></table>
 
 Stampede A GO GO.（同人志，セカイノハテ，2007） - 2007年5月20日 由 セカイノハテ 于 博丽神社例大祭4 发布的漫画/画集同人志，一共28页，分级为 一般向
+
 ## 预览
+
 ## Staff
 - [JiN](./JiN.md)
 - まちゃ坊 (未找到链接) （guest; [http://heritage.grandale.org/](http://heritage.grandale.org/) （已经失效）<small>（无缓存页面）</small>）
 - 蒼野 (未找到链接) （guest; [パンツ革命。](http://millet124.blog.2nt.com/) （已经失效）<small>（无缓存页面）</small>）
+
 
 ## 评论
 

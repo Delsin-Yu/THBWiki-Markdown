@@ -4,6 +4,7 @@
 
 スタジオシープ | 社团LOGO
 
+
 ## 摘要
   
 源地址：[direct image link](https://s2.booth.pm/f38468a7-2873-4574-bd19-0276d317b378/9d5e70e7-661c-419d-bc6f-4e12c613a5b0.png), [source page (circle Booth)](https://neruzou.booth.pm/)

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Arah_Timur_Issue_02封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/2/29/Arah_Timur_Issue_02%E5%B0%81%E9%9D%A2.png/141px-Arah_Timur_Issue_02%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="141" height="196" srcset="https://upload.thwiki.cc/thumb/2/29/Arah_Timur_Issue_02%E5%B0%81%E9%9D%A2.png/211px-Arah_Timur_Issue_02%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/2/29/Arah_Timur_Issue_02%E5%B0%81%E9%9D%A2.png/282px-Arah_Timur_Issue_02%E5%B0%81%E9%9D%A2.png 2x" data-file-width="892" data-file-height="1240"></a><div class="cover-char">角色：<a href="./星熊勇仪.md" title="星熊勇仪">星熊勇仪</a>，<a href="./帕秋莉·诺蕾姬.md" title="帕秋莉·诺蕾姬">帕秋莉·诺蕾姬</a>，<a href="./姬海棠果.md" title="姬海棠果">姬海棠果</a>，<a href="./娜兹玲.md" title="娜兹玲">娜兹玲</a>，<a href="./琪露诺.md" title="琪露诺">琪露诺</a>，<a href="./洩矢诹访子.md" title="洩矢诹访子">洩矢诹访子</a>，<a href="./伊吹萃香.md" title="伊吹萃香">伊吹萃香</a></div></td>
@@ -14,12 +15,14 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://deadfishchronicles.com/books.html">http://deadfishchronicles.com/books.html</a></td></tr></tbody></table>
 
 Arah Timur Issue 02（同人志，Dead Fish Chronicles，2010） - 2010年12月18日 由 Dead Fish Chronicles 于 Comic Fiesta2010 发布的漫画同人志，A5尺寸一共48页，分级为 一般向
+
 ## Staff
 - Gen（Dead Fish Chronicles） (未找到链接)
 - DinJerr (未找到链接)
 - Onipolice (未找到链接)
 - Bokson (未找到链接)
 - Momiji (未找到链接)
+
 
 ## 评论
 

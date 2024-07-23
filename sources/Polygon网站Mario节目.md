@@ -4,6 +4,7 @@
 
 ZUN
 
+
 ## 简介
   
 Devs Make Mario（开发者做马里奥）是美国游戏新闻网站Polygon的系列视频节目，邀请专业游戏开发者使用Super Mario Maker制作关卡。
@@ -19,6 +20,7 @@ Devs Make Mario（开发者做马里奥）是美国游戏新闻网站Polygon的�
 - <big><big>ZUN所做的关卡ID为8192-0000-02CE-AA88</big></big>
 - 本关卡相关页面：[https://supermariomakerbookmark.nintendo.net/courses/8192-0000-02CE-AA88](https://supermariomakerbookmark.nintendo.net/courses/8192-0000-02CE-AA88) （已经失效）
 - 讨论社区：[https://miiverse.nintendo.net/posts/AYMHAAADAAB2V0fc-m2vaA](https://miiverse.nintendo.net/posts/AYMHAAADAAB2V0fc-m2vaA) （已经失效）<small>（[网页存档](http://web.archive.org/web/20171101070958/https://miiverse.nintendo.net/posts/AYMHAAADAAB2V0fc-m2vaA)）</small>
+
 
 ## 中文翻译
   

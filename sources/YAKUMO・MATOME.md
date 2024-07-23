@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-YAKUMO・MATOME封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/2/2c/YAKUMO%E3%83%BBMATOME%E5%B0%81%E9%9D%A2.jpg/142px-YAKUMO%E3%83%BBMATOME%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="142" height="196" srcset="https://upload.thwiki.cc/thumb/2/2c/YAKUMO%E3%83%BBMATOME%E5%B0%81%E9%9D%A2.jpg/213px-YAKUMO%E3%83%BBMATOME%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/2/2c/YAKUMO%E3%83%BBMATOME%E5%B0%81%E9%9D%A2.jpg/284px-YAKUMO%E3%83%BBMATOME%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1130" data-file-height="1557"></a><div class="cover-char">角色：<a href="./八云紫.md" title="八云紫">八云紫</a>，<a href="./八云蓝.md" title="八云蓝">八云蓝</a>，<a href="./橙.md" title="橙">橙</a></div></td>
@@ -18,11 +19,14 @@ YAKUMO・MATOME（同人志，肩こり腰痛ドライアイ，2024） - 2024年
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=2351572">蜜瓜</a></td></tr></tbody></table>
 
 
+
 ## 预览
 - [](./文件-YAKUMO・MATOME预览图1.jpg.md)- [](./文件-YAKUMO・MATOME预览图2.jpg.md)- [](./文件-YAKUMO・MATOME预览图3.jpg.md)- [](./文件-YAKUMO・MATOME预览图4.jpg.md)
 
+
 ## Staff
 - [政長](./政長.md)
+
 
 ## 评论
 

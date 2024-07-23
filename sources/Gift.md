@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **相关公司会社** 的词条
+
 ## 基本信息
 [](./文件-株式会社GiftLogo.png.md)  [](./文件-株式会社GiftLogo.png.md)株式会社Gift LOGO
   
@@ -25,6 +26,7 @@ Gift， *Gift Co.,Ltd.* ）是日本的一家公司。
 <td style="width:140px"><b>正式名称</b></td><td style="min-width:300px">株式会社Gift</td></tr><tr><td><b>公司现状</b></td><td>持续营业中</td></tr><tr><td><b>公司种类</b></td><td>股份有限公司（株式会社）</td></tr><tr><td><b>成立日期</b></td><td>2007年（平成19年）12月28日</td></tr><tr><td><b>公司代表</b></td><td>金子 玄之</td></tr><tr><td><b>本社地址</b></td><td>东京都墨田区两国4-25-9 三和大厦4F</td></tr><tr><td><b>本社邮编</b></td><td>130-0026</td></tr><tr><td><b>注册资金</b></td><td>10,000,000円</td></tr><tr><td><b>官网地址</b></td><td><a rel="nofollow" class="external free" href="https://www.gift-gift.jp/">https://www.gift-gift.jp/</a> <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到日文网页">（日文）</span></td></tr></tbody></table>
 
 Gift（公司会社） - 株式会社Gift，股份有限公司（株式会社）
+
 ## 东方Project相关
   
 该公司出品了著名的东方角色玩偶系列fumo与papetsuto，详见 **[ふもふも](./ふもふも.md)** 与 **[ぱぺっと](./ぱぺっと.md)** 词条。

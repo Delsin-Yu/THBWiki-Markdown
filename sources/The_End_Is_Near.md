@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-The_End_Is_Near封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/9/97/The_End_Is_Near%E5%B0%81%E9%9D%A2.jpg/158px-The_End_Is_Near%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="158" height="224" srcset="https://upload.thwiki.cc/thumb/9/97/The_End_Is_Near%E5%B0%81%E9%9D%A2.jpg/238px-The_End_Is_Near%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/9/97/The_End_Is_Near%E5%B0%81%E9%9D%A2.jpg/317px-The_End_Is_Near%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="708" data-file-height="1000"></a><div class="cover-char">角色：<a href="./本居小铃.md" title="本居小铃">本居小铃</a>，<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></div></td>
@@ -14,9 +15,11 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/Rikuriku/status/1050594133868331009">https://twitter.com/Rikuriku/status/1050594133868331009</a></td></tr></tbody></table>
 
 The End Is Near（同人志，Axion Channel，2018） - 2018年10月14日 由 Axion Channel 于 博丽神社秋季例大祭5 发布的漫画同人志，B5尺寸一共44页，登场人物有 本居小铃、博丽灵梦，分级为 一般向
+
 ## Staff
 - 夏野りく
 - 初
+
 
 ## 评论
   

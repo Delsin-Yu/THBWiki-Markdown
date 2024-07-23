@@ -4,7 +4,8 @@
 
 IZMIZM ，于 2006 年成立，主要制作 同人音乐 的日本同人社团，主催是 izna，当前状态为 休止
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -15,14 +16,17 @@ IZMIZM ，于 2006 年成立，主要制作 同人音乐 的日本同人社团�
 
 
 
+
 ## 社团信息
 [](./文件-IZMIZMlogo.png.md)  [](./文件-IZMIZMlogo.png.md)logo
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> IZMIZM </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2006</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>主催</b></td><td> <a href="./izna.md" title="izna">izna</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://izmizm.net">http://izmizm.net</a> <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><small>（<a rel="nofollow" class="external text" href="https://web.archive.org/web/20170516113045/http://izmizm.net/">缓存页面</a>）</small></td></tr></tbody></table>
 
 IZMIZM（同人社团，同人音乐社团） - IZMIZM ，于 2006 年成立，主要制作 同人音乐 的日本同人社团，主催是 izna，当前状态为 休止
+
 ## 成员名单
 - [izna](./izna.md)
+
 
 ## 作品列表
 [](./Toholic.md)[Toholic](./Toholic.md)首发日期：2006-11-12 （東方紅楼夢2 (未找到链接)）IZCD-0002EP （一般向）[](./APOLLON.md)[APOLLON](./APOLLON.md)首发日期：2007-05-20 （第四回 博麗神社例大祭 (未找到链接)）IZCD-0003全长 （一般向）[](./Revivify.md)[Revivify](./Revivify.md)首发日期：2007-11-04 （東方紅楼夢3 (未找到链接)）IZCD-0004全长 （一般向）[](./EX3.md)[EX3](./EX3.md)首发日期：2008-11-02 （東方紅楼夢4 (未找到链接)）IZCD-0005全长 （一般向）[](./Co;eternal.md)[Co;eternal](./Co;eternal.md)首发日期：2009-10-11 （東方紅楼夢5 (未找到链接)）IZCD-0006全长 （一般向）[](./Unleashed.md)[Unleashed](./Unleashed.md)首发日期：2010-03-14 （第七回 博麗神社例大祭 (未找到链接)）IZCD-0007EP （一般向）[](./Give_Back.md)[Give Back](./Give_Back.md)首发日期：2011-08-13 （Comic Market 80 (未找到链接)）EP （一般向）[](./Unconscious_Words.md)[Unconscious Words](./Unconscious_Words.md)首发日期：2011-10-16 （東方紅楼夢7 (未找到链接)）EP （一般向）[](./NOSTALGIA（IZMIZM）.md)[NOSTALGIA](./NOSTALGIA（IZMIZM）.md)首发日期：2011-12-30 （Comic Market 81 (未找到链接)）EP （一般向）[](./Chiasma.md)[Chiasma](./Chiasma.md)首发日期：2012-05-27 （第九回 博麗神社例大祭 (未找到链接)）PICD-0001全长 （一般向）该作品是与 [pastyle](./pastyle.md) 合作创作的[](./Come_Back.md)[Come Back](./Come_Back.md)首发日期：2012-05-27 （第九回 博麗神社例大祭 (未找到链接)）全长、​精选集 （一般向）[](./Co;eternal_Remixes.md)[Co;eternal Remixes](./Co;eternal_Remixes.md)首发日期：2012-10-07 （東方紅楼夢8 (未找到链接)）混音集 （一般向）[](./While_the_Shooting_Star_Ends_EP.md)[While the Shooting Star Ends EP](./While_the_Shooting_Star_Ends_EP.md)首发日期：2014-05-11 （第十一回 博麗神社例大祭 (未找到链接)）EP （一般向）[](./Skkitish_Accelarator_EP.md)[Skkitish Accelarator EP](./Skkitish_Accelarator_EP.md)首发日期：2014-10-12 （東方紅楼夢10 (未找到链接)）EP （一般向）[](./IZMIZM_Guest_Works_vol.1.md)[IZMIZM Guest Works vol.1](./IZMIZM_Guest_Works_vol.1.md)首发日期：2015-05-10 （第十二回 博麗神社例大祭 (未找到链接)）IZCD-0010全长、​精选集 （一般向）[](./Burn_This_EP.md)[Burn This EP](./Burn_This_EP.md)首发日期：2015-11-01 （東方紅楼夢11 (未找到链接)）EP （一般向）[](./Co;eternal_Remixes_EX.md)[Co;eternal Remixes EX](./Co;eternal_Remixes_EX.md)首发日期：2015-12-30 （Comic Market 89 (未找到链接)）IZCD-0011混音集 （一般向）[](./Working_Hard_EP.md)[Working Hard EP](./Working_Hard_EP.md)首发日期：2016-08-13 （Comic Market 90 (未找到链接)）EP （一般向）[](./Future_In_The_Past.md)[Future In The Past](./Future_In_The_Past.md)首发日期：2018-08-10 （Comic Market 94 (未找到链接)）IZDL-0001全长 （一般向）
@@ -64,6 +68,7 @@ IZMIZM（同人社团，同人音乐社团） - IZMIZM ，于 2006 年成立，�
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 参展信息

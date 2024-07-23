@@ -35,6 +35,7 @@ DirectX 9以上
 
   
 
+
 ## 目录
 
 - [1 自机角色](#自机角色)
@@ -64,8 +65,10 @@ DirectX 9以上
 
 
 
+
 ## 自机角色
 自机角色性能一览！
+
 ### 博丽灵梦
 乐园的可爱巫女  
 [博丽灵梦](./博丽灵梦.md)
@@ -111,6 +114,7 @@ DirectX 9以上
 <div class="center"><div class="thumb tnone"><div class="thumbinner" style="width:207px;"><a href="./文件-外来韦编8_鬼形兽特辑_09.jpg.md" class="image"><img alt="" src="https://upload.thwiki.cc/thumb/7/7a/%E5%A4%96%E6%9D%A5%E9%9F%A6%E7%BC%968_%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%89%B9%E8%BE%91_09.jpg/205px-%E5%A4%96%E6%9D%A5%E9%9F%A6%E7%BC%968_%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%89%B9%E8%BE%91_09.jpg" decoding="async" loading="lazy" width="205" height="237" class="thumbimage" srcset="https://upload.thwiki.cc/7/7a/%E5%A4%96%E6%9D%A5%E9%9F%A6%E7%BC%968_%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%89%B9%E8%BE%91_09.jpg 1.5x" data-file-width="226" data-file-height="261"></a>  <div class="thumbcaption"><div class="magnify"><a href="./文件-外来韦编8_鬼形兽特辑_09.jpg.md" class="internal" title="放大"></a></div><div class="tt-zhh tt-type-omake" lang="zh"><div class="poem">大鹫灵</div></div></div></div></div></div>
 </td></tr></tbody></table>
 </td></tr></tbody></table>
+
 
 
 ### 雾雨魔理沙
@@ -160,6 +164,7 @@ DirectX 9以上
 </td></tr></tbody></table>
 
 
+
 ### 魂魄妖梦
 半人半灵的二刀剑士  
 [魂魄妖梦](./魂魄妖梦.md)
@@ -207,6 +212,7 @@ DirectX 9以上
 </td></tr></tbody></table>
 
 
+
 ## 系统介绍
 本作系统重要内容是与动物灵们协力发动咆哮模式！在《鬼形兽》中玩家在击败特定敌人后会出现“动物灵”和“道具鱼灵”。获得5个便会使自机进入咆哮模式，在经过一定时间、或者被击中时以及使用了替代原有Bomb效果的灵击后结束。另外，如果集齐了三个以上特定种类的动物灵还将会进入暴走咆哮模式，获得各种各样的增益。
 [](./文件-外来韦编8_鬼形兽特辑_31.jpg.md)  [](./文件-外来韦编8_鬼形兽特辑_31.jpg.md)灵的获取情况将在画面左侧显示。
@@ -247,8 +253,10 @@ DirectX 9以上
 - [](./文件-水母（鬼形兽动物灵）.png.md)- [](./文件-牛（鬼形兽动物灵）.png.md)- [](./文件-小鸡（鬼形兽动物灵）.png.md)- [](./文件-龟（鬼形兽动物灵）.png.md)- [](./文件-埴轮（鬼形兽动物灵）.png.md)- [](./文件-埴轮（马）（鬼形兽动物灵）.png.md)- [](./文件-三只小鸡（鬼形兽动物灵）.png.md)
 
 稀有动物灵的形象也取自各关BOSS。
+
 ## 敌方角色
 跟随动物灵的轨迹朝向地狱进发幻想乡→赛之河原→三途川→彼岸→抵达地狱
+
 ### Stage 1
 STAGE1  
 无量千万的遗憾　　动物灵们不断渡过三途河来到幻想乡，似乎想要打破这里的宁静。其中，有一些动物灵声称“自己是幻想乡的动物灵，那些来自地狱的家伙想要凭借蛮力征服幻想乡。希望有你出面阻止”，并凭依在了灵梦身上。虽然对于这些凭依在身上后变一言不发的动物灵心存疑虑，但灵梦还是朝着地狱的方向出发了……。河原的偶像水子  
@@ -263,6 +271,7 @@ STAGE1
 <td>
 <div class="thumb tleft"><div class="thumbinner" style="width:202px;"><a href="./文件-外来韦编8_鬼形兽特辑_32.jpg.md" class="image"><img alt="" src="https://upload.thwiki.cc/thumb/a/af/%E5%A4%96%E6%9D%A5%E9%9F%A6%E7%BC%968_%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%89%B9%E8%BE%91_32.jpg/200px-%E5%A4%96%E6%9D%A5%E9%9F%A6%E7%BC%968_%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%89%B9%E8%BE%91_32.jpg" decoding="async" loading="lazy" width="200" height="235" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/a/af/%E5%A4%96%E6%9D%A5%E9%9F%A6%E7%BC%968_%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%89%B9%E8%BE%91_32.jpg/300px-%E5%A4%96%E6%9D%A5%E9%9F%A6%E7%BC%968_%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%89%B9%E8%BE%91_32.jpg 1.5x, https://upload.thwiki.cc/a/af/%E5%A4%96%E6%9D%A5%E9%9F%A6%E7%BC%968_%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%89%B9%E8%BE%91_32.jpg 2x" data-file-width="309" data-file-height="363"></a>  <div class="thumbcaption"><div class="magnify"><a href="./文件-外来韦编8_鬼形兽特辑_32.jpg.md" class="internal" title="放大"></a></div><div class="tt-zh tt-type-omake" lang="zh"><div class="poem">璎花是本来只是在赛之河原堆石头，却遭遇了路过的灵梦结果堆起来的石堆全被弄塌了的水子们的首领。真是毫无慈悲的开场。</div></div></div></div></div>
 </td></tr></tbody></table>
+
 
 
 ### Stage 2
@@ -281,6 +290,7 @@ STAGE2
 </td></tr></tbody></table>
 
 
+
 ### Stage 3
 STAGE3  
 鬼渡之关　　击退润美后刚刚渡过三途河，灵梦到达了彼岸。本以为可以直接去往地狱却有新的对手挡在了自己面前。那便是异界口岸的守门人庭渡神。虽然已经从地狱的阎魔（四季映姬·夜摩仙那度）口中得知灵梦前来的消息，但出于担心打算测试一下她的实力。在实际交手中见识了实力后，她便放心地为灵梦领路前往地狱了。地狱口岸的守护神  
@@ -295,6 +305,7 @@ STAGE3
 <td>
 <div class="thumb tleft"><div class="thumbinner" style="width:202px;"><a href="./文件-外来韦编8_鬼形兽特辑_34.jpg.md" class="image"><img alt="" src="https://upload.thwiki.cc/thumb/1/1e/%E5%A4%96%E6%9D%A5%E9%9F%A6%E7%BC%968_%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%89%B9%E8%BE%91_34.jpg/200px-%E5%A4%96%E6%9D%A5%E9%9F%A6%E7%BC%968_%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%89%B9%E8%BE%91_34.jpg" decoding="async" loading="lazy" width="200" height="235" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/1/1e/%E5%A4%96%E6%9D%A5%E9%9F%A6%E7%BC%968_%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%89%B9%E8%BE%91_34.jpg/300px-%E5%A4%96%E6%9D%A5%E9%9F%A6%E7%BC%968_%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%89%B9%E8%BE%91_34.jpg 1.5x, https://upload.thwiki.cc/1/1e/%E5%A4%96%E6%9D%A5%E9%9F%A6%E7%BC%968_%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%89%B9%E8%BE%91_34.jpg 2x" data-file-width="309" data-file-height="363"></a>  <div class="thumbcaption"><div class="magnify"><a href="./文件-外来韦编8_鬼形兽特辑_34.jpg.md" class="internal" title="放大"></a></div><div class="tt-zh tt-type-omake" lang="zh"><div class="poem">庭渡神通常弹幕分布密集并且分为快慢两种因此在应对时决不能大意。可以注意的是她头上小鸡，其神情也会跟着她本人的情绪发生变化。</div></div></div></div></div>
 </td></tr></tbody></table>
+
 
 
 ### Stage 4
@@ -315,6 +326,7 @@ STAGE4
 </td></tr></tbody></table>
 
 
+
 ### Stage 5
 STAGE5  
 畜生大都会　　主角在吉弔的带领下到达了畜生界。主角穿行在一个不同于地狱或幻想乡的大都市中，并遭遇了为守护一个外形奇怪的设施，而挡在面前的埴轮兵长。
@@ -331,6 +343,7 @@ STAGE5
 <td>
 <ul class="gallery mw-gallery-traditional"><li class="gallerybox" style="width: 265px"><div style="width: 265px"><div class="thumb" style="width: 260px;"><div style="margin:9px auto;"><a href="./文件-外来韦编8_鬼形兽特辑_40.jpg.md" class="image"><img alt="外来韦编8 鬼形兽特辑 40.jpg" src="https://upload.thwiki.cc/thumb/b/bf/%E5%A4%96%E6%9D%A5%E9%9F%A6%E7%BC%968_%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%89%B9%E8%BE%91_40.jpg/250px-%E5%A4%96%E6%9D%A5%E9%9F%A6%E7%BC%968_%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%89%B9%E8%BE%91_40.jpg" decoding="async" loading="lazy" width="250" height="292" srcset="https://upload.thwiki.cc/b/bf/%E5%A4%96%E6%9D%A5%E9%9F%A6%E7%BC%968_%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%89%B9%E8%BE%91_40.jpg 1.5x" data-file-width="306" data-file-height="358"></a></div></div><div class="gallerytext"></div></div></li><li class="gallerybox" style="width: 265px"><div style="width: 265px"><div class="thumb" style="width: 260px;"><div style="margin:9.5px auto;"><a href="./文件-外来韦编8_鬼形兽特辑_41.jpg.md" class="image"><img alt="外来韦编8 鬼形兽特辑 41.jpg" src="https://upload.thwiki.cc/thumb/4/4c/%E5%A4%96%E6%9D%A5%E9%9F%A6%E7%BC%968_%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%89%B9%E8%BE%91_41.jpg/250px-%E5%A4%96%E6%9D%A5%E9%9F%A6%E7%BC%968_%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%89%B9%E8%BE%91_41.jpg" decoding="async" loading="lazy" width="250" height="291" srcset="https://upload.thwiki.cc/4/4c/%E5%A4%96%E6%9D%A5%E9%9F%A6%E7%BC%968_%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%89%B9%E8%BE%91_41.jpg 1.5x" data-file-width="307" data-file-height="357"></a></div></div><div class="gallerytext"></div></div></li><li class="gallerybox" style="width: 265px"><div style="width: 265px"><div class="thumb" style="width: 260px;"><div style="margin:9px auto;"><a href="./文件-外来韦编8_鬼形兽特辑_42.jpg.md" class="image"><img alt="外来韦编8 鬼形兽特辑 42.jpg" src="https://upload.thwiki.cc/thumb/9/90/%E5%A4%96%E6%9D%A5%E9%9F%A6%E7%BC%968_%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%89%B9%E8%BE%91_42.jpg/250px-%E5%A4%96%E6%9D%A5%E9%9F%A6%E7%BC%968_%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%89%B9%E8%BE%91_42.jpg" decoding="async" loading="lazy" width="250" height="292" srcset="https://upload.thwiki.cc/9/90/%E5%A4%96%E6%9D%A5%E9%9F%A6%E7%BC%968_%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%89%B9%E8%BE%91_42.jpg 1.5x" data-file-width="306" data-file-height="358"></a></div></div><div class="gallerytext"></div></div></li></ul>
 </td></tr></tbody></table>
+
 
 
 ### Final Stage
@@ -362,6 +375,7 @@ FINAL STAGE
 </td></tr></tbody></table>
 
 
+
 ### Stage EX
 STAGE EX  
 嗜血的地狱之风　　动物灵将要入侵人类世界的说法，只是为将灵梦带往畜生界以打倒袿姬而编造的。虽然主角对此无法释怀但还是击败了袿姬，本以为事情告一段落却没想到如今动物灵真的发动了入侵。劲牙组的组长：骊驹早鬼借这次混乱展开了行动。灵梦感到这次事件也有自己的责任，决定出发将动物灵们加以降伏。劲牙组组长  
@@ -377,6 +391,7 @@ STAGE EX
 <ul class="gallery mw-gallery-traditional"><li class="gallerybox" style="width: 265px"><div style="width: 265px"><div class="thumb" style="width: 260px;"><div style="margin:7px auto;"><a href="./文件-外来韦编8_鬼形兽特辑_48.jpg.md" class="image"><img alt="外来韦编8 鬼形兽特辑 48.jpg" src="https://upload.thwiki.cc/c/ca/%E5%A4%96%E6%9D%A5%E9%9F%A6%E7%BC%968_%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%89%B9%E8%BE%91_48.jpg" decoding="async" loading="lazy" width="250" height="296" data-file-width="244" data-file-height="289"></a></div></div><div class="gallerytext"></div></div></li><li class="gallerybox" style="width: 265px"><div style="width: 265px"><div class="thumb" style="width: 260px;"><div style="margin:7px auto;"><a href="./文件-外来韦编8_鬼形兽特辑_49.jpg.md" class="image"><img alt="外来韦编8 鬼形兽特辑 49.jpg" src="https://upload.thwiki.cc/c/c3/%E5%A4%96%E6%9D%A5%E9%9F%A6%E7%BC%968_%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%89%B9%E8%BE%91_49.jpg" decoding="async" loading="lazy" width="250" height="296" data-file-width="244" data-file-height="289"></a></div></div><div class="gallerytext"></div></div></li></ul>
 <ul class="gallery mw-gallery-traditional"><li class="gallerybox" style="width: 265px"><div style="width: 265px"><div class="thumb" style="width: 260px;"><div style="margin:6.5px auto;"><a href="./文件-外来韦编8_鬼形兽特辑_50.jpg.md" class="image"><img alt="外来韦编8 鬼形兽特辑 50.jpg" src="https://upload.thwiki.cc/9/96/%E5%A4%96%E6%9D%A5%E9%9F%A6%E7%BC%968_%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%89%B9%E8%BE%91_50.jpg" decoding="async" loading="lazy" width="250" height="297" data-file-width="244" data-file-height="290"></a></div></div><div class="gallerytext"></div></div></li><li class="gallerybox" style="width: 265px"><div style="width: 265px"><div class="thumb" style="width: 260px;"><div style="margin:7px auto;"><a href="./文件-外来韦编8_鬼形兽特辑_51.jpg.md" class="image"><img alt="外来韦编8 鬼形兽特辑 51.jpg" src="https://upload.thwiki.cc/c/ca/%E5%A4%96%E6%9D%A5%E9%9F%A6%E7%BC%968_%E9%AC%BC%E5%BD%A2%E5%85%BD%E7%89%B9%E8%BE%91_51.jpg" decoding="async" loading="lazy" width="250" height="296" data-file-width="244" data-file-height="289"></a></div></div><div class="gallerytext"></div></div></li></ul>
 </td></tr></tbody></table>
+
 
 
 ### 过去登场过的地狱相关角色

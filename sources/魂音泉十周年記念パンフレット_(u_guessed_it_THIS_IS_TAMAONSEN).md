@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-魂音泉十周年記念パンフレット_(u_guessed_it_THIS_IS_TAMAONSEN)封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/d/d2/%E9%AD%82%E9%9F%B3%E6%B3%89%E5%8D%81%E5%91%A8%E5%B9%B4%E8%A8%98%E5%BF%B5%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88_%28u_guessed_it_THIS_IS_TAMAONSEN%29%E5%B0%81%E9%9D%A2.jpg/158px-%E9%AD%82%E9%9F%B3%E6%B3%89%E5%8D%81%E5%91%A8%E5%B9%B4%E8%A8%98%E5%BF%B5%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88_%28u_guessed_it_THIS_IS_TAMAONSEN%29%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="158" height="224" srcset="https://upload.thwiki.cc/thumb/d/d2/%E9%AD%82%E9%9F%B3%E6%B3%89%E5%8D%81%E5%91%A8%E5%B9%B4%E8%A8%98%E5%BF%B5%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88_%28u_guessed_it_THIS_IS_TAMAONSEN%29%E5%B0%81%E9%9D%A2.jpg/238px-%E9%AD%82%E9%9F%B3%E6%B3%89%E5%8D%81%E5%91%A8%E5%B9%B4%E8%A8%98%E5%BF%B5%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88_%28u_guessed_it_THIS_IS_TAMAONSEN%29%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/d/d2/%E9%AD%82%E9%9F%B3%E6%B3%89%E5%8D%81%E5%91%A8%E5%B9%B4%E8%A8%98%E5%BF%B5%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88_%28u_guessed_it_THIS_IS_TAMAONSEN%29%E5%B0%81%E9%9D%A2.jpg/317px-%E9%AD%82%E9%9F%B3%E6%B3%89%E5%8D%81%E5%91%A8%E5%B9%B4%E8%A8%98%E5%BF%B5%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88_%28u_guessed_it_THIS_IS_TAMAONSEN%29%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1023" data-file-height="1446"></a><div class="cover-char">角色：<a href="./琪露诺.md" title="琪露诺">琪露诺</a></div></td>
@@ -17,8 +18,10 @@
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://tamaonsen-556.booth.pm/items/1404679">Booth</a></td></tr></tbody></table>
 
 
+
 ## 预览
 - [](./文件-魂音泉十周年記念パンフレット_(u_guessed_it_THIS_IS_TAMAONSEN)预览图1.jpg.md)- [](./文件-魂音泉十周年記念パンフレット_(u_guessed_it_THIS_IS_TAMAONSEN)预览图2.jpg.md)
+
 
 ## Staff
 Publication
@@ -48,6 +51,7 @@ Support
 Special THX
 : [Wooming](./Wooming.md)，[たま](./たま.md)，TNK5% (未找到链接)，笥箪 (未找到链接)
 : アリレム (未找到链接)，[ランコ](./ランコ.md)，[桃箱](./桃箱.md)，kana (未找到链接)，[ココ](./ココ.md)，ゆうかなで (未找到链接)，[Rute](./Rute.md)，[あき](./あき.md)，星川ひつじ (未找到链接)，[みぃ](./みぃ.md)，[ビートまりお](./ビートまりお.md)
+
 
 ## 评论
 

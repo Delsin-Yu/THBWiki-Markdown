@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-豪族乱舞aLOVE&PEACE封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/a/ab/%E8%B1%AA%E6%97%8F%E4%B9%B1%E8%88%9EaLOVE%26PEACE%E5%B0%81%E9%9D%A2.jpg/160px-%E8%B1%AA%E6%97%8F%E4%B9%B1%E8%88%9EaLOVE%26PEACE%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="160" height="224" srcset="https://upload.thwiki.cc/thumb/a/ab/%E8%B1%AA%E6%97%8F%E4%B9%B1%E8%88%9EaLOVE%26PEACE%E5%B0%81%E9%9D%A2.jpg/240px-%E8%B1%AA%E6%97%8F%E4%B9%B1%E8%88%9EaLOVE%26PEACE%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/a/ab/%E8%B1%AA%E6%97%8F%E4%B9%B1%E8%88%9EaLOVE%26PEACE%E5%B0%81%E9%9D%A2.jpg/320px-%E8%B1%AA%E6%97%8F%E4%B9%B1%E8%88%9EaLOVE%26PEACE%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="525" data-file-height="735"></a><div class="cover-char">角色：<a href="./丰聪耳神子.md" title="丰聪耳神子">丰聪耳神子</a>，<a href="./物部布都.md" title="物部布都">物部布都</a>，<a href="./苏我屠自古.md" title="苏我屠自古">苏我屠自古</a>，<a href="./霍青娥.md" title="霍青娥">霍青娥</a>，<a href="./宫古芳香.md" title="宫古芳香">宫古芳香</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://scichil.blog92.fc2.com/blog-entry-79.html">http://scichil.blog92.fc2.com/blog-entry-79.html</a><br><a rel="nofollow" class="external free" href="https://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=20798807">https://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=20798807</a></td></tr></tbody></table>
 
 豪族乱舞aLOVE&amp;PEACE（同人志，サイチル，2013） - 2013年8月12日 由 サイチル 于 Comic Market 84 发布的漫画同人志，B5尺寸一共44页，登场人物有 物部布都、苏我屠自古、小野塚小町、丰聪耳神子、霍青娥、宫古芳香、露娜萨·普莉兹姆利巴、梅露兰·普莉兹姆利巴、莉莉卡·普莉兹姆利巴，分级为 一般向
+
 ## Staff
 - [北斗](./北斗.md)
+
 
 ## 评论
 

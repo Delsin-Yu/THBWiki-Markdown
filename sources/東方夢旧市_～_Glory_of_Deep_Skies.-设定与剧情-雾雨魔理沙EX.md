@@ -4,6 +4,7 @@
 
 Τeam_αlternative_Σnding | 使用了翻译表的页面 | 同人游戏对话
 
+
 ## Stage Extra
 [](./文件-东方梦旧市stEX.jpg.md)  [](./文件-东方梦旧市stEX.jpg.md)EX面场景
 
@@ -12,6 +13,7 @@
 
 
 [^cite_note-1]: 北欧神话中的彩虹桥（Bifrost），连结阿斯加德（Asgard）和米德加尔特（中庭/Midgard）。
+
 
 ## 词条导航
   

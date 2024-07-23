@@ -4,7 +4,8 @@
 
 SlimeSmile ，于 2014 年成立，主要制作 同人游戏 的中国大陆同人社团，主催是 SeiweLL，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -20,18 +21,22 @@ SlimeSmile ，于 2014 年成立，主要制作 同人游戏 的中国大陆同�
 
 
 
+
 ## 社团信息
 [](./文件-SlimeSmilebanner.jpg.md)  [](./文件-SlimeSmilebanner.jpg.md)banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> SlimeSmile </td></tr><tr><td><b>中文名称</b></td><td>史莱姆微笑工作室<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">1</a></sup></td></tr><tr><td><b>主要作品类型</b></td><td>同人游戏</td></tr><tr><td><b>成立时间</b></td><td>2014</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=SeiweLL&amp;action=edit&amp;redlink=1" class="new" title="SeiweLL（页面不存在）">SeiweLL</a> </td></tr><tr><td><b>地区</b></td><td>中国大陆</td></tr></tbody></table>
 
 SlimeSmile（同人社团，同人游戏社团） - SlimeSmile ，于 2014 年成立，主要制作 同人游戏 的中国大陆同人社团，主催是 SeiweLL，当前状态为 活动
+
 ## 成员名单
 - SeiweLL  [B站主页](https://space.bilibili.com/2838462)
 - [文件](./文件（人物）.md)
 - 流月
 
+
 ## 作品列表
+
 ### 同人游戏
 [](./东方百花宴～the_Flower_Shooter.md)[东方百花宴～the Flower Shooter](./东方百花宴～the_Flower_Shooter.md)首发日期：2014-04-20 STG （一般向）[](./东方梦想曲.md)[东方梦想曲](./东方梦想曲.md)首发日期：2019-07-20 STG （一般向）[](./东方菈菈队.md)[东方菈菈队](./东方菈菈队.md)首发日期：2023-08-06 STG （一般向）[](./东方希莲船~Ultimate_Fatal_Octopus.md)[东方希莲船~Ultimate Fatal Octopus](./东方希莲船~Ultimate_Fatal_Octopus.md)首发日期：2024-04-30 STG （一般向）
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -42,6 +47,7 @@ SlimeSmile（同人社团，同人游戏社团） - SlimeSmile ，于 2014 年�
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 其他信息

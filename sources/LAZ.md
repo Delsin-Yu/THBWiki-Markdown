@@ -6,16 +6,20 @@
 
 本页是关于东方Project  
  **二次同人创作者** 的词条
+
 ## 基本信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="label"><b>名称</b></td><td> LAZ </td></tr><tr><td class="label"><b>真实名</b></td><td>柴山晃貴</td></tr><tr><td class="label"><b>所属社团</b></td><td><b>当前</b><div style="margin-left:2em;"><a href="./pastyle.md" title="pastyle">pastyle</a></div></td></tr><tr><td class="label"><b>职位</b></td><td>作曲，编曲</td></tr><tr><td class="label"><b>参与社团</b></td><td><a href="./C9.md" title="C9">C9</a> （编曲）<br><a href="/Casket" title="Casket">Casket</a> （作曲，编曲）<br><a href="./ESQUARIA.md" title="ESQUARIA">ESQUARIA</a> （编曲）<br><a href="./IZMIZM.md" title="IZMIZM">IZMIZM</a> （编曲）<br><a href="./ShibayanRecords.md" title="ShibayanRecords">ShibayanRecords</a> （编曲）<br><a href="./pastyle.md" title="pastyle">pastyle</a> （作曲，编曲）<br><a href="./世界秘封病学会.md" title="世界秘封病学会">世界秘封病学会</a> （编曲）<br><a href="./全ピ连.md" title="全ピ连">全ピ连</a> （编曲）<br><a href="./梶迫小道具店.md" title="梶迫小道具店">梶迫小道具店</a> （编曲）</td></tr><tr><td class="label"><b>性别</b></td><td>男</td></tr><tr><td class="label"><b>生日</b></td><td>1988-8-2（35岁）</td></tr><tr><td class="label"><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://pastyle.net/">http://pastyle.net/</a></td></tr><tr><td class="label"><b>个人页面</b></td><td><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><b>Blog</b></td><td><a rel="nofollow" class="external free" href="http://pastyleweb.blog37.fc2.com/">http://pastyleweb.blog37.fc2.com/</a></td></tr><tr><td><b>Twitter</b></td><td><a rel="nofollow" class="external free" href="https://twitter.com/laz_">https://twitter.com/laz_</a></td></tr><tr><td><b>Soundcloud</b></td><td><a rel="nofollow" class="external free" href="https://soundcloud.com/laz-g">https://soundcloud.com/laz-g</a></td></tr><tr><td><b>Email</b></td><td>info@pastyle.net</td></tr></tbody></table></td></tr></tbody></table>
 
 LAZ（人物） - 现实人物
+
 ## 介绍
+
 ## 参与曲目
   
 模板:人物曲目列表 (未找到链接)
   
+
 
 ## 人际关系
 

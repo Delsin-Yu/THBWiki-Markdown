@@ -6,11 +6,13 @@
 
 本页是关于东方Project  
  **相关实体周边 (未找到链接)** 的词条
+
 ## 模型信息
 
 <table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 十六夜咲夜 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>figuttoEX色ver</td></tr><tr><td class="label">角色</td><td><a href="/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C" title="十六夜咲夜">十六夜咲夜</a></td></tr><tr><td class="label">原型师</td><td><a href="/index.php?title=I-con&amp;action=edit&amp;redlink=1" class="new" title="I-con（页面不存在）">I-con</a><br><a href="/index.php?title=%E5%B0%8F%E5%94%84&amp;action=edit&amp;redlink=1" class="new" title="小唄（页面不存在）">小唄</a></td></tr><tr><td class="label">尺寸</td><td>165mm</td></tr><tr><td class="label">状态</td><td>已发售</td></tr><tr><td class="label">展会限定</td><td>例大祭</td></tr><tr><td class="label">售价</td><td>3500日元</td></tr><tr><td class="label">发售方</td><td><a href="/index.php?title=GRIFFON&amp;action=edit&amp;redlink=1" class="new" title="GRIFFON（页面不存在）">GRIFFON</a></td></tr><tr><td class="label">备注</td><td>限定1000体</td></tr></tbody></table>
 
 GRIFFON/figuttoEX色ver/十六夜咲夜（周边） - 十六夜咲夜PVCFigure手办模型
+
 ## 参考图片
 
 

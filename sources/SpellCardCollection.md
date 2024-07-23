@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 软件信息](#软件信息)
@@ -18,6 +19,7 @@
 
 
 
+
 ## 软件信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=SpellCardCollection%E5%B0%81%E9%9D%A2.jpg" class="new" title="文件:SpellCardCollection封面.jpg">封面图片</a></td>
@@ -26,12 +28,15 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/nono_shijimi">https://twitter.com/nono_shijimi</a></td></tr></tbody></table>
 
 SpellCardCollection（同人游戏，Nono 443，2013） - 2013年10月13日 由 Nono 443  发布的STG同人游戏，可在 Windows 系统上运行，游戏人数为 单人模式，，分级为 一般向
+
 ## Staff
+
 ## 内容页面
 - [附带文档](./SpellCardCollection-附带文档.md)
 - 系统说明 (未找到链接)
 - [符卡](./SpellCardCollection-符卡.md)
 - 其他相关资料 (未找到链接)
+
 
 ## 评论
   
@@ -42,10 +47,12 @@ SpellCardCollection（同人游戏，Nono 443，2013） - 2013年10月13日 由 
 之后作者开始更新崭新的版本SpellCardCollection 2nd (未找到链接)。
   
 
+
 ## 视频
   
 [本篇全符卡收取视频(无ex)](http://www.bilibili.com/video/av4532765/)
   
+
 
 ## 下载
   

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-HELLO注意報封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/b/ba/HELLO%E6%B3%A8%E6%84%8F%E5%A0%B1%E5%B0%81%E9%9D%A2.jpg/139px-HELLO%E6%B3%A8%E6%84%8F%E5%A0%B1%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="139" height="196" srcset="https://upload.thwiki.cc/thumb/b/ba/HELLO%E6%B3%A8%E6%84%8F%E5%A0%B1%E5%B0%81%E9%9D%A2.jpg/209px-HELLO%E6%B3%A8%E6%84%8F%E5%A0%B1%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/b/ba/HELLO%E6%B3%A8%E6%84%8F%E5%A0%B1%E5%B0%81%E9%9D%A2.jpg/278px-HELLO%E6%B3%A8%E6%84%8F%E5%A0%B1%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="717" data-file-height="1009"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></div></td>
@@ -13,9 +14,11 @@
 </tr><tr><td class="label">首发日期</td><td>2010-03-14&#160;（<a href="/展会作品列表?e=%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD%237">第七回 博麗神社例大祭</a>）</td></tr><tr><td class="label">类型</td><td>漫画</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">页数</td><td>52P</td></tr><tr><td class="label">登场人物</td><td><a href="/index.php?title=%E5%8E%9F%E5%88%9B%E8%A7%92%E8%89%B2&amp;action=edit&amp;redlink=1" class="new" title="原创角色（页面不存在）">原创角色</a>，<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>，<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a>，<a href="./八云蓝.md" title="八云蓝">八云蓝</a>，<a href="./八云紫.md" title="八云紫">八云紫</a>，<a href="./爱丽丝·玛格特洛依德.md" title="爱丽丝·玛格特洛依德">爱丽丝·玛格特洛依德</a>，<a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a>，<a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a>，<a href="/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C" title="十六夜咲夜">十六夜咲夜</a>，<a href="./帕秋莉·诺蕾姬.md" title="帕秋莉·诺蕾姬">帕秋莉·诺蕾姬</a>，<a href="./红美铃.md" title="红美铃">红美铃</a>，<a href="./琪露诺.md" title="琪露诺">琪露诺</a>，<a href="./小恶魔.md" title="小恶魔">小恶魔</a>，<a href="./露米娅.md" title="露米娅">露米娅</a>，<a href="./大妖精.md" title="大妖精">大妖精</a>，<a href="./西行寺幽幽子.md" title="西行寺幽幽子">西行寺幽幽子</a>，<a href="./魂魄妖梦.md" title="魂魄妖梦">魂魄妖梦</a>，<a href="./露娜萨·普莉兹姆利巴.md" title="露娜萨·普莉兹姆利巴">露娜萨·普莉兹姆利巴</a>，<a href="./梅露兰·普莉兹姆利巴.md" title="梅露兰·普莉兹姆利巴">梅露兰·普莉兹姆利巴</a>，<a href="./莉莉卡·普莉兹姆利巴.md" title="莉莉卡·普莉兹姆利巴">莉莉卡·普莉兹姆利巴</a>，<a href="./蕾蒂·霍瓦特洛克.md" title="蕾蒂·霍瓦特洛克">蕾蒂·霍瓦特洛克</a>，<a href="./因幡帝.md" title="因幡帝">因幡帝</a>，<a href="./铃仙·优昙华院·因幡.md" title="铃仙·优昙华院·因幡">铃仙·优昙华院·因幡</a>，<a href="./蓬莱山辉夜.md" title="蓬莱山辉夜">蓬莱山辉夜</a>，<a href="./八意永琳.md" title="八意永琳">八意永琳</a>，<a href="./藤原妹红.md" title="藤原妹红">藤原妹红</a>，<a href="./上白泽慧音.md" title="上白泽慧音">上白泽慧音</a>，<a href="./射命丸文.md" title="射命丸文">射命丸文</a>，<a href="./小野塚小町.md" title="小野塚小町">小野塚小町</a>，<a href="./四季映姬·夜摩仙那度.md" title="四季映姬·夜摩仙那度">四季映姬·夜摩仙那度</a>，<a href="./梅蒂欣·梅兰可莉.md" title="梅蒂欣·梅兰可莉">梅蒂欣·梅兰可莉</a>，<a href="./风见幽香.md" title="风见幽香">风见幽香</a>，<a href="./秋静叶.md" title="秋静叶">秋静叶</a>，<a href="./秋穰子.md" title="秋穰子">秋穰子</a>，<a href="./河城荷取.md" title="河城荷取">河城荷取</a>，<a href="./键山雏.md" title="键山雏">键山雏</a>，<a href="./东风谷早苗.md" title="东风谷早苗">东风谷早苗</a>，<a href="./洩矢诹访子.md" title="洩矢诹访子">洩矢诹访子</a>，<a href="./八坂神奈子.md" title="八坂神奈子">八坂神奈子</a>，<a href="./犬走椛.md" title="犬走椛">犬走椛</a></td></tr><tr><td class="label">售价</td><td>500日元</td></tr></tbody></table>
 
 HELLO注意報（同人志，森の蟲，2010） - 2010年3月14日 由 森の蟲 于 博丽神社例大祭7 发布的漫画同人志，一共52页，登场人物有 原创角色、博丽灵梦、雾雨魔理沙、八云蓝、八云紫、爱丽丝·玛格特洛依德、蕾米莉亚·斯卡蕾特、芙兰朵露·斯卡蕾特、十六夜咲夜、帕秋莉·诺蕾姬、红美铃、琪露诺、小恶魔、露米娅、大妖精、西行寺幽幽子、魂魄妖梦、露娜萨·普莉兹姆利巴、梅露兰·普莉兹姆利巴、莉莉卡·普莉兹姆利巴、蕾蒂·霍瓦特洛克、因幡天为、铃仙·优昙华院·因幡、蓬莱山辉夜、八意永琳、藤原妹红、上白泽慧音、射命丸文、小野塚小町、四季映姬·夜摩仙那度、梅蒂欣·梅兰可莉、风见幽香、秋静叶、秋穰子、河城荷取、键山雏、东风谷早苗、洩矢诹访子、八坂神奈子、犬走椛，分级为 一般向
+
 ## Staff
 - [もりのほん](./もりのほん.md)
 - N2FC (未找到链接)
+
 
 ## 评论
 

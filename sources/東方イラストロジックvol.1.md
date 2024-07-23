@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-東方イラストロジックvol.1封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/c/c5/%E6%9D%B1%E6%96%B9%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%83%AD%E3%82%B8%E3%83%83%E3%82%AFvol.1%E5%B0%81%E9%9D%A2.jpg/113px-%E6%9D%B1%E6%96%B9%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%83%AD%E3%82%B8%E3%83%83%E3%82%AFvol.1%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="113" height="168" srcset="https://upload.thwiki.cc/thumb/c/c5/%E6%9D%B1%E6%96%B9%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%83%AD%E3%82%B8%E3%83%83%E3%82%AFvol.1%E5%B0%81%E9%9D%A2.jpg/169px-%E6%9D%B1%E6%96%B9%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%83%AD%E3%82%B8%E3%83%83%E3%82%AFvol.1%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/c/c5/%E6%9D%B1%E6%96%B9%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%83%AD%E3%82%B8%E3%83%83%E3%82%AFvol.1%E5%B0%81%E9%9D%A2.jpg/226px-%E6%9D%B1%E6%96%B9%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%83%AD%E3%82%B8%E3%83%83%E3%82%AFvol.1%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="710" data-file-height="1055"></a><div class="cover-char">角色：<a href="./封兽鵺.md" title="封兽鵺">封兽鵺</a>，<a href="./村纱水蜜.md" title="村纱水蜜">村纱水蜜</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/49585948">https://www.pixiv.net/artworks/49585948</a></td></tr></tbody></table>
 
 東方イラストロジックvol.1（同人志，W-⑱，2014） - 2014年10月12日 由 W-⑱ 于 东方红楼梦10 发布的画集同人志，登场人物有 封兽鵺、村纱水蜜、古明地恋、森近霖之助、红美铃、因幡天为、藤原妹红、蓬莱山辉夜、九十九弁弁、九十九八桥、多多良小伞、永江衣玖、河城荷取、露娜萨·普莉兹姆利巴、梅露兰·普莉兹姆利巴、莉莉卡·普莉兹姆利巴、堀川雷鼓、寅丸星，分级为 一般向
+
 ## Staff
 - 市葉葉市
+
 
 ## 评论
 

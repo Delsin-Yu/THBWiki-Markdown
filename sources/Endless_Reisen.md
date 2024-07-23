@@ -6,16 +6,19 @@
 
 本页是关于东方Project  
  **二次同人创作者** 的词条
+
 ## 基本信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="label"><b>名称</b></td><td> Endless Reisen </td></tr><tr><td class="label"><b>所属社团</b></td><td><b>当前</b><div style="margin-left:2em;">Endless Sound 匯音社</div></td></tr><tr><td class="label"><b>职位</b></td><td>艺术总监，编曲</td></tr><tr><td class="label"><b>参与社团</b></td><td><a href="./Endless_Sound_匯音社.md" title="Endless Sound 匯音社">Endless Sound 匯音社</a> （编曲）</td></tr><tr><td class="label"><b>性别</b></td><td>男</td></tr><tr><td class="label"><b>个人页面</b></td><td><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><b>bilibili</b></td><td><a rel="nofollow" class="external free" href="https://space.bilibili.com/198503095">https://space.bilibili.com/198503095</a></td></tr></tbody></table></td></tr></tbody></table>
 
 Endless Reisen（人物） - 现实人物
+
 ## 介绍
   
 社团创始人之一，匯音社御用画师，设计师 STG沙包 皇室战争三枪玩家
 B站账号Endless铃仙
   
+
 
 ## 参与作品
   

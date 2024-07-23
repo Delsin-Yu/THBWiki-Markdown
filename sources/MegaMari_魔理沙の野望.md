@@ -6,12 +6,14 @@
 
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 软件信息](#软件信息)
 - [2 Staff](#Staff)
 - [3 内容页面](#内容页面)
 - [4 评论](#评论)
+
 
 
 
@@ -36,6 +38,7 @@ MegaMari 魔理沙の野望（同人游戏，黄昏边境，2006） - 2006年5�
 </tbody></table>
 
 
+
 ## Staff
 Direction &amp; Game Design
 : [Alphes](./Alphes.md)
@@ -57,10 +60,12 @@ Sound Effect
 Four Foot Machine
 : 鰯 (未找到链接)
 
+
 ## 内容页面
 - 游戏设定与剧情 (未找到链接)
 - 攻略 (未找到链接)
 - 其他信息 (未找到链接)
+
 
 ## 评论
 

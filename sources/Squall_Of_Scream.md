@@ -4,7 +4,8 @@
 
 Squall Of Scream ，于 2016 年成立，主要制作 同人音乐 的日本同人社团，主催是 Noof，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -16,6 +17,7 @@ Squall Of Scream ，于 2016 年成立，主要制作 同人音乐 的日本同�
 
 
 
+
 ## 社团信息
 [](./文件-Squall_Of_Screamlogo2.jpg.md)  [](./文件-Squall_Of_Screamlogo2.jpg.md)logo（2019-现在）
 [](./文件-Squall_Of_Screambanner.jpg.md)  [](./文件-Squall_Of_Screambanner.jpg.md)旧logo（-2019）
@@ -23,6 +25,7 @@ Squall Of Scream ，于 2016 年成立，主要制作 同人音乐 的日本同�
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Squall Of Scream </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2016-09-04</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=Noof&amp;action=edit&amp;redlink=1" class="new" title="Noof（页面不存在）">Noof</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="https://apocalypsis5.wixsite.com/sosband">https://apocalypsis5.wixsite.com/sosband</a> <br><a rel="nofollow" class="external free" href="https://twitter.com/SquallOfScream">https://twitter.com/SquallOfScream</a><br><a rel="nofollow" class="external free" href="https://squall-of-scream.booth.pm/">https://squall-of-scream.booth.pm/</a><br><a rel="nofollow" class="external free" href="http://squall-of-scream.strikingly.com/">http://squall-of-scream.strikingly.com/</a> （旧官网）<span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span></td></tr></tbody></table>
 
 Squall Of Scream（同人社团，同人音乐社团） - Squall Of Scream ，于 2016 年成立，主要制作 同人音乐 的日本同人社团，主催是 Noof，当前状态为 活动
+
 ## 成员名单
 - Noof (未找到链接)&#160;: composer, vocals
 
@@ -37,6 +40,7 @@ Squall Of Scream（同人社团，同人音乐社团） - Squall Of Scream ，�
 - Michizane (未找到链接)&#160;: support screamer (2017-01 - 2019-04)
 
 : [Twitter: @michizanest](https://twitter.com/michizanest)
+
 
 ## 作品列表
 [](./I'll_be_right_here.md)[I'll be right here](./I'll_be_right_here.md)首发日期：2016-12-29 （Comic Market 91 (未找到链接)）SOS-001全长 （一般向）该作品是与 [A.M.A](./A.M.A.md) 合作创作的[](./Fragile_memory.md)[Fragile memory](./Fragile_memory.md)首发日期：2018-08-10 （Comic Market 94 (未找到链接)）SOS-002全长 （一般向）[](./彼岸にて泡沫は咲き～Spider_Lily～.md)[彼岸にて泡沫は咲き～Spider Lily～](./彼岸にて泡沫は咲き～Spider_Lily～.md)首发日期：2018-10-14 （第五回 博麗神社秋季例大祭 (未找到链接)）单曲 （一般向）[](./Let's_Change_The_World's_End.md)[Let's Change The World's End](./Let's_Change_The_World's_End.md)首发日期：2019-05-05 （第十六回 博麗神社例大祭 (未找到链接)）SOS-004合作 （一般向）[](./Everlasting_Hope.md)[Everlasting Hope](./Everlasting_Hope.md)首发日期：2019-12-31 （Comic Market 97 (未找到链接)）SOS-005全长 （一般向）[](./雪桜花.md)[雪桜花](./雪桜花.md)首发日期：2021-10-24 （第八回 博麗神社秋季例大祭 (未找到链接)）单曲 （一般向）[](./Let's_Start_The_World_Anew（同人专辑）.md)[Let's Start The World Anew](./Let's_Start_The_World_Anew（同人专辑）.md)首发日期：2022-08-14 （Comic Market 100 (未找到链接)）SOS-007合作 （一般向）
@@ -56,9 +60,11 @@ Squall Of Scream（同人社团，同人音乐社团） - Squall Of Scream ，�
 </table>
 
 
+
 ## 参展信息
 
 <table><tbody><tr><th class="活动页面">活动页面</th><th class="活动名称">活动名称</th><th class="日期">日期</th><th class="举办地点">举办地点</th><th class="摊位编号">摊位编号</th><th class="宣传页面">宣传页面</th><th class="备注">备注</th></tr><tr data-row-number="1" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E7%A7%8B%E5%AD%A3%E4%BE%8B%E5%A4%A7%E7%A5%AD#8" title="博丽神社秋季例大祭">博丽神社秋季例大祭#8</a></span></td><td class="活动名称 smwtype_txt">第八回 博麗神社秋季例大祭</td><td class="日期 smwtype_dat" data-sort-value="2459511.5">2021-10-24</td><td class="举办地点 smwtype_txt">东京Big Sight 青海展示厅</td><td class="摊位编号 smwtype_txt">て03b</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="2" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#16" title="博丽神社例大祭">博丽神社例大祭#16</a></span></td><td class="活动名称 smwtype_txt">第十六回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2458608.5">2019-05-05</td><td class="举办地点 smwtype_txt">东京Big Sight</td><td class="摊位编号 smwtype_txt">K28a</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="3" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E7%A7%8B%E5%AD%A3%E4%BE%8B%E5%A4%A7%E7%A5%AD#5" title="博丽神社秋季例大祭">博丽神社秋季例大祭#5</a></span></td><td class="活动名称 smwtype_txt">第五回 博麗神社秋季例大祭</td><td class="日期 smwtype_dat" data-sort-value="2458405.5">2018-10-14</td><td class="举办地点 smwtype_txt">东京Big Sight 东展厅</td><td class="摊位编号 smwtype_txt">と38b</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr></tbody></table>
+
 
 
 ## 其他信息

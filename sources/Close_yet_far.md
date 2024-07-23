@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Close_yet_far封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/5/58/Close_yet_far%E5%B0%81%E9%9D%A2.jpg/224px-Close_yet_far%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="159" srcset="https://upload.thwiki.cc/thumb/5/58/Close_yet_far%E5%B0%81%E9%9D%A2.jpg/336px-Close_yet_far%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/5/58/Close_yet_far%E5%B0%81%E9%9D%A2.jpg/448px-Close_yet_far%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="600" data-file-height="427"></a><div class="cover-char">角色：<a href="./玛艾露贝莉·赫恩.md" title="玛艾露贝莉·赫恩">玛艾露贝莉·赫恩</a>，<a href="./宇佐见莲子.md" title="宇佐见莲子">宇佐见莲子</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/sr_daruma/status/695976092759232512">https://twitter.com/sr_daruma/status/695976092759232512</a><br><a rel="nofollow" class="external free" href="http://srdaruma.blog.fc2.com/blog-entry-48.html">http://srdaruma.blog.fc2.com/blog-entry-48.html</a><br><span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><small>（<a rel="nofollow" class="external text" href="https://web.archive.org/web/20160703094656/http://srdaruma.blog.fc2.com/blog-entry-48.html">缓存页面</a>）</small></td></tr></tbody></table>
 
 Close yet far（同人志，雪景色，2016） - 2016年3月13日 由 雪景色 于 东方名华祭10 发布的摄影集同人志，B6尺寸一共16页，登场人物有 玛艾露贝莉·赫恩、宇佐见莲子，分级为 一般向
+
 ## 预览
 - [](./文件-Close_yet_far预览图1.jpg.md)
+
 
 ## Staff
 Model （赫恩）
@@ -24,6 +27,7 @@ Model （莲子）
 : ゆなぽ （[Twitter: @yunapo_cos](https://twitter.com/yunapo_cos)）
 Photography
 : ワイン色 （[Twitter: @color_wine](https://twitter.com/color_wine)）
+
 
 ## 评论
   

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-strawberry_affection封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/7/73/strawberry_affection%E5%B0%81%E9%9D%A2.jpg/119px-strawberry_affection%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="119" height="168" srcset="https://upload.thwiki.cc/thumb/7/73/strawberry_affection%E5%B0%81%E9%9D%A2.jpg/178px-strawberry_affection%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/7/73/strawberry_affection%E5%B0%81%E9%9D%A2.jpg/237px-strawberry_affection%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="707" data-file-height="1000"></a><div class="cover-char">角色：<a href="./冈崎梦美.md" title="冈崎梦美">冈崎梦美</a>，<a href="./北白河千百合.md" title="北白河千百合">北白河千百合</a></div></td>
@@ -14,9 +15,12 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/13038389">https://www.pixiv.net/artworks/13038389</a></td></tr></tbody></table>
 
 strawberry affection（同人志，型K式，2010） - 2010年9月5日 由 型K式 于 幺乐团嘉年华！1 发布的漫画同人志，一共12页，登场人物有 冈崎梦美、北白河千百合，分级为 一般向
+
 ## 预览
+
 ## Staff
 - [カタケイ](./カタケイ.md)
+
 
 ## 评论
 

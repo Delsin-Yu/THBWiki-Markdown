@@ -4,7 +4,8 @@
 
 Applice ，于 2010 年成立，主要制作 同人音乐 的日本同人社团，主催是 みっつん，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -15,15 +16,18 @@ Applice ，于 2010 年成立，主要制作 同人音乐 的日本同人社团�
 
 
 
+
 ## 社团信息
 [](./文件-Applice_Banner.jpg.md)  [](./文件-Applice_Banner.jpg.md)社团banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Applice </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2010-05</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="./みっつん.md" title="みっつん">みっつん</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://applice.com/">http://applice.com/</a> <br><a rel="nofollow" class="external free" href="https://twitter.com/applice">https://twitter.com/applice</a></td></tr></tbody></table>
 
 Applice（同人社团，同人音乐社团） - Applice ，于 2010 年成立，主要制作 同人音乐 的日本同人社团，主催是 みっつん，当前状态为 活动
+
 ## 成员名单
 - [みっつん](./みっつん.md)
 - 夏輝環凪 (未找到链接)
+
 
 ## 作品列表
 [](./Fantasía_de_Conciertos.md)[Fantasía de Conciertos](./Fantasía_de_Conciertos.md)首发日期：2010-12-30 （Comic Market 79 (未找到链接)）MCAE-0001全长 （一般向）该作品是与 [Music Advance](./Music_Advance.md) 合作创作的[](./Colors＊.md)[Colors*](./Colors＊.md)首发日期：2011-08-13 （Comic Market 80 (未找到链接)）NZCD-T04全长 （一般向）该作品是与 [NIZI-RINGO](./NIZI-RINGO.md) 合作创作的[](./Artificial_Flowers.md)[Artificial Flowers](./Artificial_Flowers.md)首发日期：2012-08-11 （Comic Market 82 (未找到链接)）全长 （一般向）[](./The_Logic_of_Alice.md)[The Logic of Alice](./The_Logic_of_Alice.md)首发日期：2013-05-26 （第十回 博麗神社例大祭 (未找到链接)）APLC-0004全长 （一般向）[](./ひまわりはじめ.md)[ひまわりはじめ](./ひまわりはじめ.md)首发日期：2013-08-12 （Comic Market 84 (未找到链接)）APLC-0005d全长 （一般向）该专辑包含 3 张CD[](./Dear_Dead_Doll.md)[Dear Dead Doll](./Dear_Dead_Doll.md)首发日期：2013-12-30 （Comic Market 85 (未找到链接)）APLC-0007全长 （一般向）[](./Sanctuary（同人专辑）.md)[Sanctuary](./Sanctuary（同人专辑）.md)首发日期：2014-05-11 （第十一回 博麗神社例大祭 (未找到链接)）APLC-0008全长 （一般向）[](./斥状回輝線.md)[斥状回輝線](./斥状回輝線.md)首发日期：2014-08-16 （Comic Market 86 (未找到链接)）APLC-0009全长 （一般向）[](./斥量零度点.md)[斥量零度点](./斥量零度点.md)首发日期：2014-12-29 （Comic Market 87 (未找到链接)）APLC-0010全长 （一般向）[](./March_of_Dolls.md)[March of Dolls](./March_of_Dolls.md)首发日期：2015-05-10 （第十二回 博麗神社例大祭 (未找到链接)）APLC-0011全长 （一般向）[](./RE：code.md)[RE:code](./RE：code.md)首发日期：2015-08-14 （Comic Market 88 (未找到链接)）APLC-0012全长 （一般向）[](./二行の詩_-Parallel_Line-.md)[二行の詩 -Parallel Line-](./二行の詩_-Parallel_Line-.md)首发日期：2015-11-01 （東方紅楼夢11 (未找到链接)）APLC-0013全长 （一般向）该作品是与 [Crest](./Crest.md) 合作创作的[](./霍香の雛が見せた夢.md)[霍香の雛が見せた夢](./霍香の雛が見せた夢.md)首发日期：2015-12-30 （Comic Market 89 (未找到链接)）APLC-0014全长 （一般向）[](./BLIND_BLUE.md)[BLIND BLUE](./BLIND_BLUE.md)首发日期：2016-05-08 （第十三回 博麗神社例大祭 (未找到链接)）APLC-0015全长 （一般向）[](./スイセイトリップ.md)[スイセイトリップ](./スイセイトリップ.md)首发日期：2016-08-13 （Comic Market 90 (未找到链接)）APLC-0016全长 （一般向）[](./ハピネスパレエド.md)[ハピネスパレエド](./ハピネスパレエド.md)首发日期：2016-12-29 （Comic Market 91 (未找到链接)）APLC-0017单曲 （一般向）[](./Time_LaPlace.md)[Time LaPlace](./Time_LaPlace.md)首发日期：2017-08-11 （Comic Market 92 (未找到链接)）APLC-0018全长 （一般向）[](./Once_Upon_A_Time.md)[Once Upon A Time](./Once_Upon_A_Time.md)首发日期：2018-05-06 （第十五回 博麗神社例大祭 (未找到链接)）APLC-0019精选集 （一般向）该专辑包含 2 张CD
@@ -63,6 +67,7 @@ Applice（同人社团，同人音乐社团） - Applice ，于 2010 年成立�
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 参展信息

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=Nickelodeon%E5%B0%81%E9%9D%A2.jpg" class="new" title="文件:Nickelodeon封面.jpg">封面图片</a></td>
@@ -14,11 +15,13 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://hic.3rin.net/イベント（前）/【例大祭10　の03b】nickelodeon">http://hic.3rin.net/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%EF%BC%88%E5%89%8D%EF%BC%89/%E3%80%90%E4%BE%8B%E5%A4%A7%E7%A5%AD10%E3%80%80%E3%81%AE03b%E3%80%91nickelodeon</a></td></tr><tr><td class="label">备注</td><td colspan="2">+写真集10页</td></tr></tbody></table>
 
 Nickelodeon（同人专辑，Hasenpfeffer，hic，2013） - 2013年5月26日 由 Hasenpfeffer，hic 于 博丽神社例大祭10 发布的EP同人专辑，曲目主要风格是 Rock，内容以 秘封俱乐部为题材，分级为 一般向
+
 ## Staff
 Design
 : 设计师 （[网址 社团]）
 Illustration
 : 画师 （[网址 社团]）
+
 
 ## 试听
   
@@ -26,11 +29,13 @@ Illustration
 
   
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="info"><b>01</b></td><td id="N.B." colspan="2" class="title">N.B.<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=牛に引かれて善光寺参り&amp;fromwiki=Nickelodeon"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=牛に引かれて善光寺参り&amp;fromwiki=Nickelodeon"><span></span></a></span><div class="ogmusic"><a href="/%E7%89%9B%E3%81%AB%E5%BC%95%E3%81%8B%E3%82%8C%E3%81%A6%E5%96%84%E5%85%89%E5%AF%BA%E5%8F%82%E3%82%8A" class="mw-redirect" title="牛に引かれて善光寺参り">牛に引かれて善光寺参り</a></div><div class="source"><a href="/%E4%BC%8A%E5%A5%98%E8%AF%BA%E7%89%A9%E8%B4%A8_%EF%BD%9E_Neo-traditionalism_of_Japan." class="mw-redirect" title="伊奘诺物质 ～ Neo-traditionalism of Japan.">伊奘诺物质　～ Neo-traditionalism of Japan.</a></div></td></tr>
-<tr><td id="2" class="info"><b>02</b></td><td id="adv.(screening)" colspan="2" class="title">adv.(screening)<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=少女秘封倶楽部&amp;fromwiki=Nickelodeon"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=少女秘封倶楽部&amp;fromwiki=Nickelodeon"><span></span></a></span><div class="ogmusic"><a href="/%E5%B0%91%E5%A5%B3%E7%A7%98%E5%B0%81%E5%80%B6%E6%A5%BD%E9%83%A8" class="mw-redirect" title="少女秘封倶楽部">少女秘封倶楽部</a></div><div class="source"><a href="/%E8%8E%B2%E5%8F%B0%E9%87%8E%E5%A4%9C%E8%A1%8C_%EF%BD%9E_Ghostly_Field_Club." class="mw-redirect" title="莲台野夜行 ～ Ghostly Field Club.">莲台野夜行　～ Ghostly Field Club.</a></div></td></tr>
-<tr><td id="3" class="info"><b>03</b></td><td id="endroll" colspan="2" class="title">endroll<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=大空魔術　～ Magical Astronomy&amp;fromwiki=Nickelodeon"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=大空魔術　～ Magical Astronomy&amp;fromwiki=Nickelodeon"><span></span></a></span><div class="ogmusic"><a href="/%E5%A4%A7%E7%A9%BA%E9%AD%94%E8%A1%93_%EF%BD%9E_Magical_Astronomy" class="mw-redirect" title="大空魔術 ～ Magical Astronomy">大空魔術　～ Magical Astronomy</a></div><div class="source"><a href="/%E5%A4%A7%E7%A9%BA%E9%AD%94%E6%9C%AF_%EF%BD%9E_Magical_Astronomy" class="mw-redirect" title="大空魔术 ～ Magical Astronomy">大空魔术　～ Magical Astronomy</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="info"><b>01</b></td><td id="N.B." colspan="2" class="title">N.B.<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=牛に引かれて善光寺参り&amp;fromwiki=Nickelodeon"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=牛に引かれて善光寺参り&amp;fromwiki=Nickelodeon"><span></span></a></span><div class="ogmusic"><a href="./牛に引かれて善光寺参り.md" class="mw-redirect" title="牛に引かれて善光寺参り">牛に引かれて善光寺参り</a></div><div class="source"><a href="./伊奘诺物质_～_Neo-traditionalism_of_Japan..md" class="mw-redirect" title="伊奘诺物质 ～ Neo-traditionalism of Japan.">伊奘诺物质　～ Neo-traditionalism of Japan.</a></div></td></tr>
+<tr><td id="2" class="info"><b>02</b></td><td id="adv.(screening)" colspan="2" class="title">adv.(screening)<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=少女秘封倶楽部&amp;fromwiki=Nickelodeon"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=少女秘封倶楽部&amp;fromwiki=Nickelodeon"><span></span></a></span><div class="ogmusic"><a href="./少女秘封倶楽部.md" class="mw-redirect" title="少女秘封倶楽部">少女秘封倶楽部</a></div><div class="source"><a href="./莲台野夜行_～_Ghostly_Field_Club..md" class="mw-redirect" title="莲台野夜行 ～ Ghostly Field Club.">莲台野夜行　～ Ghostly Field Club.</a></div></td></tr>
+<tr><td id="3" class="info"><b>03</b></td><td id="endroll" colspan="2" class="title">endroll<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=大空魔術　～ Magical Astronomy&amp;fromwiki=Nickelodeon"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=大空魔術　～ Magical Astronomy&amp;fromwiki=Nickelodeon"><span></span></a></span><div class="ogmusic"><a href="./大空魔術_～_Magical_Astronomy.md" class="mw-redirect" title="大空魔術 ～ Magical Astronomy">大空魔術　～ Magical Astronomy</a></div><div class="source"><a href="./大空魔术_～_Magical_Astronomy.md" class="mw-redirect" title="大空魔术 ～ Magical Astronomy">大空魔术　～ Magical Astronomy</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

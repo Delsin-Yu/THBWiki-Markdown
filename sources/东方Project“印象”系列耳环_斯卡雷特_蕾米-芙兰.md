@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **相关实体周边 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 周边信息](#周边信息)
@@ -22,6 +23,7 @@
 
 
 
+
 ## 周边信息
 
 <table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 东方Project“印象”系列耳环 斯卡雷特 蕾米/芙兰 </td></tr><tr><td class="label">系列</td><td> 原创手作印象耳环系列 </td></tr><tr><td class="label">制作方</td><td><a href="./异想少女秘语集.md" title="异想少女秘语集">异想少女秘语集</a></td></tr><tr><td class="label">首发日期</td><td>2019-11-23</td></tr><tr><td class="label">类型</td><td>饰品</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>6cm-10cm</td></tr><tr><td class="label">材质</td><td>滴胶，UV胶，掐丝，绕丝</td></tr><tr><td class="label">角色</td><td><a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a><br><a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a></td></tr><tr><td class="label">售价</td><td>通贩售价：60人民币（蕾米耳钩款）70人民币（芙兰耳钩款）65人民币（斯卡雷特姐妹耳钩款）<br>（均为一对，耳夹款比耳钩款贵2元）</td></tr>
@@ -32,12 +34,17 @@
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://item.taobao.com/item.htm?id=671015733198">淘宝</a></td></tr></tbody></table>
 
 
+
 ## 参考图
+
 ### 预览图
+
 ### 实物图
 - [](./文件-东方Project“印象”系列耳环_斯卡雷特_蕾米／芙兰实物图1.jpg.md)- [](./文件-东方Project“印象”系列耳环_斯卡雷特_蕾米／芙兰实物图2.jpg.md)- [](./文件-东方Project“印象”系列耳环_斯卡雷特_蕾米／芙兰实物图3.jpg.md)- [](./文件-东方Project“印象”系列耳环_斯卡雷特_蕾米／芙兰实物图4.jpg.md)- [](./文件-东方Project“印象”系列耳环_斯卡雷特_蕾米／芙兰实物图5.jpg.md)- [](./文件-东方Project“印象”系列耳环_斯卡雷特_蕾米／芙兰实物图6.jpg.md)
 
+
 ## Staff
+
 ## 评论
 
 

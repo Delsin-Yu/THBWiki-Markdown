@@ -11,6 +11,7 @@ Readme | 东方虹龙洞体验版 | 体验版附带文档 | 使用了翻译表�
 : [日文版](http://omake.thwiki.cc/translate.php?u=附带文档:东方虹龙洞体验版/Readme&amp;t=ja)
 : [汉化版](http://omake.thwiki.cc/translate.php?u=附带文档:东方虹龙洞体验版/Readme&amp;t=zh)
 
+
 ## 目录
 
 - [1 问候](#问候)
@@ -33,10 +34,12 @@ Readme | 东方虹龙洞体验版 | 体验版附带文档 | 使用了翻译表�
 
 
 
+
 ###### 问候
 
 
 <table><tbody><tr class="tt-content" id="=-3" data-pos="&#91;&quot;=&quot;,3&#93;"><td class="tt-ja" lang="ja"><div class="poem">■１．挨拶<br>　　この度は、「東方虹龍洞　～ Unconnected Marketeers. 体験版」を<br>手にとって頂き、まことに有難う御座います。<br><br>　　何処かピントのずれた世界に何処かゆるいキャラ達が、とてつもなく激し<br>　い弾幕を繰り広げるシューティングゲームになっています。<br><br>　　弾幕ＳＴＧは最近めっきり少なくなった、ゲームらしいゲームだと思います。<br>　レトロ主義ともリメイクとも違う、まるで別世界からやってきたかのような<br>　ゲームをそのまま味わってみてください。短い時間で記憶に残るような達成感を<br>　味わえると思います。<br><br>　　また、体験版に付き、予告無しで仕様変更する場合があります。<br>　体験版で集めたカードは製品版には引き継がれませんのであしからず。</div></td><td class="tt-zh" lang="zh"><div class="poem">■１．问候<br>　　非常感谢各位能入手<br>「东方虹龙洞　～ Unconnected Marketeers. 体验版」。<br><br>　　这是一部在某个有些虚幻的世界中，一群比较悠闲的角色<br>　展开无比激烈的弹幕的射击游戏。<br><br>　　我觉得弹幕STG是最近变得非常稀少的，真正像个游戏的游戏。<br>　请品味原汁原味的、和复古主义和重置均不同、<br>　仿佛来自另一个世界的游戏吧。您可以在短时间内<br>　体会到令人记忆深刻的成就感。<br><br>　　另外，因为是体验版，所以有可能在毫无通告的情况下改变游戏的一些设计。<br>　在体验版收集的卡牌无法继承至正式版，敬请谅解。</div></td></tr></tbody></table>
+
 
 
 
@@ -47,10 +50,12 @@ Readme | 东方虹龙洞体验版 | 体验版附带文档 | 使用了翻译表�
 
 
 
+
 ###### 卸载方式
 
 
 <table><tbody><tr class="tt-content" id="=-7" data-pos="&#91;&quot;=&quot;,7&#93;"><td class="tt-ja" lang="ja"><div class="poem">■３．アンインストール方法<br><br>　インストールでスタートメニューにアイコンを登録した場合は、<br>　上海アリス幻樂団＞東方虹龍洞体験版＞アンインストール<br>　をクリックしてください。<br><br>　登録しなかった場合は、コントロールパネルの「プログラムの変更と削除」<br>　で東方虹龍洞を選択してください。</div></td><td class="tt-zh" lang="zh"><div class="poem">■３．卸载方式<br><br>　在安装过程中添加到了开始菜单，<br>　请点击<br>　上海爱丽丝幻乐团＞东方虹龙洞体验版＞卸载程序。<br><br>　如果没有添加，请打开控制面板中的「卸载或更改程序」，<br>　选择东方虹龙洞。</div></td></tr></tbody></table>
+
 
 
 
@@ -61,10 +66,12 @@ Readme | 东方虹龙洞体验版 | 体验版附带文档 | 使用了翻译表�
 
 
 
+
 ###### 如果没有什么疑问
 
 
 <table><tbody><tr class="tt-content" id="=-11" data-pos="&#91;&quot;=&quot;,11&#93;"><td class="tt-ja" lang="ja"><div class="poem">■５．困ったことが無かったら<br>　お楽しみ下さい。</div></td><td class="tt-zh" lang="zh"><div class="poem">■５．如果没有什么疑问<br>　请享受游戏。</div></td></tr></tbody></table>
+
 
 
 

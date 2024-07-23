@@ -6,11 +6,13 @@
 
 本页是关于东方Project  
  **二次同人创作者** 的词条
+
 ## 基本信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="label"><b>名称</b></td><td> Cuerzor58 </td></tr><tr><td class="label"><b>别名</b></td><td>58、58115310</td></tr><tr><td class="label"><b>所属社团</b></td><td><b>当前</b><div style="margin-left:2em;">无所属社团</div></td></tr><tr><td class="label"><b>职位</b></td><td></td></tr><tr><td class="label"><b>性别</b></td><td>男</td></tr><tr><td class="label"><b>生日</b></td><td>2001/4/20（22岁）</td></tr><tr><td class="label"><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="https://mvz2.fandom.com/zh/wiki/MC大战僵尸2_Wiki">https://mvz2.fandom.com/zh/wiki/MC%E5%A4%A7%E6%88%98%E5%83%B5%E5%B0%B82_Wiki</a></td></tr><tr><td class="label"><b>个人页面</b></td><td><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><b>bilibili</b></td><td><a rel="nofollow" class="external free" href="https://space.bilibili.com/348514/">https://space.bilibili.com/348514/</a></td></tr><tr><td><b>Weibo</b></td><td><a rel="nofollow" class="external free" href="https://weibo.com/u/2974297340">https://weibo.com/u/2974297340</a></td></tr></tbody></table></td></tr></tbody></table>
 
 Cuerzor58（人物） - 现实人物
+
 ## 介绍
   
 东方同人二创游戏MC大战僵尸2的作者
@@ -27,6 +29,7 @@ Cuerzor58（人物） - 现实人物
   
 2019年5月13日，其在微博上宣布将使用Unity引擎为MC大战僵尸2制作重制版，并于2019年5月18日完成第一个版本并发布，随后转移到bilibili上继续更新。
   
+
 
 ## 参与作品
   

@@ -16,10 +16,12 @@
 : [日文版](http://omake.thwiki.cc/translate.php?u=附带文档:东方刚欲异闻/lisence&amp;t=ja)
 : [汉化版](http://omake.thwiki.cc/translate.php?u=附带文档:东方刚欲异闻/lisence&amp;t=zh)
 
+
 ## 文件名
   
 由文件内容可知，正确文件名应为  **license.txt** ，但随steam版本附带的文件名为  **lisence.txt** 。
   
+
 
 ## 文件内容
 

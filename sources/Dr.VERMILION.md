@@ -4,7 +4,8 @@
 
 Dr.VERMILION ，于 2001 年成立，主要制作 同人志 的日本同人社团，主催是 ペテン師，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -21,6 +22,7 @@ Dr.VERMILION ，于 2001 年成立，主要制作 同人志 的日本同人社�
 
 
 
+
 ## 社团信息
 [](./文件-Dr.VERMILIONbanner.gif.md)  [](./文件-Dr.VERMILIONbanner.gif.md)Banner 1
 [](./文件-Dr.VERMILIONbanner2.gif.md)  [](./文件-Dr.VERMILIONbanner2.gif.md)Banner 2
@@ -28,10 +30,13 @@ Dr.VERMILION ，于 2001 年成立，主要制作 同人志 的日本同人社�
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Dr.VERMILION </td></tr><tr><td><b>主要作品类型</b></td><td>同人志</td></tr><tr><td><b>成立时间</b></td><td>2001</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=%E3%83%9A%E3%83%86%E3%83%B3%E5%B8%AB&amp;action=edit&amp;redlink=1" class="new" title="ペテン師（页面不存在）">ペテン師</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://sagisagiz.sakura.ne.jp/">http://sagisagiz.sakura.ne.jp/</a> <br><a rel="nofollow" class="external free" href="https://www.pixiv.net/member.php?id=4894">https://www.pixiv.net/member.php?id=4894</a><br><a rel="nofollow" class="external free" href="https://twitter.com/sagisagiz2">https://twitter.com/sagisagiz2</a></td></tr></tbody></table>
 
 Dr.VERMILION（同人社团，同人志社团） - Dr.VERMILION ，于 2001 年成立，主要制作 同人志 的日本同人社团，主催是 ペテン師，当前状态为 活动
+
 ## 成员名单
 - ペテン師 (未找到链接)
 
+
 ## 作品列表
+
 ### 同人志
 [](./冥走十界地.md)[冥走十界地](./冥走十界地.md)首发日期：2005-08-14 （Comic Market 68 (未找到链接)）漫画 （一般向）该作品是与 Indolent Field (未找到链接) 合作创作的 50&#160;页[](./世にも奇みょんな物語.md)[世にも奇みょんな物語](./世にも奇みょんな物語.md)首发日期：2005-12-30 （Comic Market 69 (未找到链接)）漫画 （一般向）B5&#160;尺寸 32&#160;页[](./僅かなスキマの幻想郷.md)[僅かなスキマの幻想郷](./僅かなスキマの幻想郷.md)首发日期：2006-02-12 （東方まんがまつり (未找到链接)）漫画 （一般向） 10&#160;页[](./斬れぬものなどあんまりない!_~白楼剣~.md)[斬れぬものなどあんまりない! ~白楼剣~](./斬れぬものなどあんまりない!_~白楼剣~.md)首发日期：2006-05-21 （第三回 博麗神社例大祭 (未找到链接)）漫画、​合同志 （一般向）B5&#160;尺寸 116&#160;页[](./シラタマ一直線.md)[シラタマ一直線](./シラタマ一直線.md)首发日期：2006-12-31 （Comic Market 71 (未找到链接)）漫画 （一般向）B5&#160;尺寸 44&#160;页[](./僅かな機会の幻想郷.md)[僅かな機会の幻想郷](./僅かな機会の幻想郷.md)首发日期：2007-05-20 （第四回 博麗神社例大祭 (未找到链接)）漫画 （一般向）B5&#160;尺寸 12&#160;页[](./世にも奇みょんな物語2_東方ドロワーズ.md)[世にも奇みょんな物語2 東方ドロワーズ](./世にも奇みょんな物語2_東方ドロワーズ.md)首发日期：2007-08-17 （Comic Market 72 (未找到链接)）漫画 （一般向）B5&#160;尺寸 32&#160;页[](./はらぺこ白玉楼.md)[はらぺこ白玉楼](./はらぺこ白玉楼.md)首发日期：2007-12-31 （Comic Market 73 (未找到链接)）漫画 （一般向）B5&#160;尺寸 36&#160;页[](./半人半霊大多数.md)[半人半霊大多数](./半人半霊大多数.md)首发日期：2008-05-25 （第五回 博麗神社例大祭 (未找到链接)）漫画、​总集 （一般向）B5&#160;尺寸 188&#160;页[](./冥府湯煙浪漫紀行.md)[冥府湯煙浪漫紀行](./冥府湯煙浪漫紀行.md)首发日期：2008-12-29 （Comic Market 75 (未找到链接)）漫画 （一般向）B5&#160;尺寸 12&#160;页[](./とくもりサマーパラダイス.md)[とくもりサマーパラダイス](./とくもりサマーパラダイス.md)首发日期：2009-08-15 （Comic Market 76 (未找到链接)）漫画 （一般向）B5&#160;尺寸 16&#160;页[](./世にも奇みょんな物語3_幻想郷おすすめのゆ.md)[世にも奇みょんな物語3 幻想郷おすすめのゆ](./世にも奇みょんな物語3_幻想郷おすすめのゆ.md)首发日期：2009-12-30 （Comic Market 77 (未找到链接)）漫画 （一般向）B5&#160;尺寸 36&#160;页[](./Six's_Cherry_Blossoms.md)[Six's Cherry Blossoms](./Six's_Cherry_Blossoms.md)首发日期：2010-05-04 （幽明櫻 (未找到链接)）漫画、​合同志 （一般向）该作品是与 ぱきぽぢうむ (未找到链接) 合作创作的B5&#160;尺寸 36&#160;页
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -86,9 +91,11 @@ Dr.VERMILION（同人社团，同人志社团） - Dr.VERMILION ，于 2001 年�
 </table>
 
 
+
 ## 参展信息
 
 <table><tbody><tr><th class="活动页面">活动页面</th><th class="活动名称">活动名称</th><th class="日期">日期</th><th class="举办地点">举办地点</th><th class="摊位编号">摊位编号</th><th class="宣传页面">宣传页面</th><th class="备注">备注</th></tr><tr data-row-number="1" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#10" title="博丽神社例大祭">博丽神社例大祭#10</a></span></td><td class="活动名称 smwtype_txt">第十回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2456438.5">2013-05-26</td><td class="举办地点 smwtype_txt">东京Big Sight 东123456展厅</td><td class="摊位编号 smwtype_txt">い11b</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="2" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#9" title="博丽神社例大祭">博丽神社例大祭#9</a></span></td><td class="活动名称 smwtype_txt">第九回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2456074.5">2012-05-27</td><td class="举办地点 smwtype_txt">东京Big Sight 东123456展厅</td><td class="摊位编号 smwtype_txt">B-25a</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="3" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#8" title="博丽神社例大祭">博丽神社例大祭#8</a></span></td><td class="活动名称 smwtype_txt">第八回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2455689.5">2011-05-08</td><td class="举办地点 smwtype_txt">东京Big Sight 东23456展厅</td><td class="摊位编号 smwtype_txt">あ-52b</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="4" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#7" title="博丽神社例大祭">博丽神社例大祭#7</a></span></td><td class="活动名称 smwtype_txt">第七回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2455269.5">2010-03-14</td><td class="举办地点 smwtype_txt">东京Big Sight 东23456展厅</td><td class="摊位编号 smwtype_txt">あ59a</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="5" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E4%B8%9C%E6%96%B9%E7%BA%A2%E6%A5%BC%E6%A2%A6#5" title="东方红楼梦">东方红楼梦#5</a></span></td><td class="活动名称 smwtype_txt">東方紅楼夢5</td><td class="日期 smwtype_dat" data-sort-value="2455115.5">2009-10-11</td><td class="举办地点 smwtype_txt">大阪国际展览中心 6号馆A区</td><td class="摊位编号 smwtype_txt">A-47b</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="6" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#6" title="博丽神社例大祭">博丽神社例大祭#6</a></span></td><td class="活动名称 smwtype_txt">第六回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2454898.5">2009-03-08</td><td class="举办地点 smwtype_txt">东京Big Sight 东3456展厅</td><td class="摊位编号 smwtype_txt">あ36b</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="7" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#5" title="博丽神社例大祭">博丽神社例大祭#5</a></span></td><td class="活动名称 smwtype_txt">第五回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2454611.5">2008-05-25</td><td class="举办地点 smwtype_txt">东京Big Sight 西4展厅</td><td class="摊位编号 smwtype_txt">い33a</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="8" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#4" title="博丽神社例大祭">博丽神社例大祭#4</a></span></td><td class="活动名称 smwtype_txt">第四回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2454240.5">2007-05-20</td><td class="举办地点 smwtype_txt">池袋Sunshine City文化会馆 D展厅</td><td class="摊位编号 smwtype_txt">い-18b</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="9" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#3" title="博丽神社例大祭">博丽神社例大祭#3</a></span></td><td class="活动名称 smwtype_txt">第三回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2453876.5">2006-05-21</td><td class="举办地点 smwtype_txt">池袋Sunshine City文化会馆 D展厅</td><td class="摊位编号 smwtype_txt">に 09a</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr></tbody></table>
+
 
 
 ## 其他信息

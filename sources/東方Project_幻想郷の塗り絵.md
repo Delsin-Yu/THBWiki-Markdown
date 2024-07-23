@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-東方Project_幻想郷の塗り絵封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/2/23/%E6%9D%B1%E6%96%B9Project_%E5%B9%BB%E6%83%B3%E9%83%B7%E3%81%AE%E5%A1%97%E3%82%8A%E7%B5%B5%E5%B0%81%E9%9D%A2.jpg/145px-%E6%9D%B1%E6%96%B9Project_%E5%B9%BB%E6%83%B3%E9%83%B7%E3%81%AE%E5%A1%97%E3%82%8A%E7%B5%B5%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="145" height="196" srcset="https://upload.thwiki.cc/thumb/2/23/%E6%9D%B1%E6%96%B9Project_%E5%B9%BB%E6%83%B3%E9%83%B7%E3%81%AE%E5%A1%97%E3%82%8A%E7%B5%B5%E5%B0%81%E9%9D%A2.jpg/217px-%E6%9D%B1%E6%96%B9Project_%E5%B9%BB%E6%83%B3%E9%83%B7%E3%81%AE%E5%A1%97%E3%82%8A%E7%B5%B5%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/2/23/%E6%9D%B1%E6%96%B9Project_%E5%B9%BB%E6%83%B3%E9%83%B7%E3%81%AE%E5%A1%97%E3%82%8A%E7%B5%B5%E5%B0%81%E9%9D%A2.jpg/290px-%E6%9D%B1%E6%96%B9Project_%E5%B9%BB%E6%83%B3%E9%83%B7%E3%81%AE%E5%A1%97%E3%82%8A%E7%B5%B5%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1420" data-file-height="1920"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></div></td>
@@ -18,7 +19,9 @@
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.amazon.co.jp/dp/4798629065/">Amazon</a></td></tr></tbody></table>
 
 
+
 ## 预览
+
 ## Staff
 监督
 : 粗茶 （[粗茶る](./粗茶る.md)）
@@ -45,6 +48,7 @@
 : まさる.jp
 : カンパ
 : ファルケン
+
 
 ## 评论
 

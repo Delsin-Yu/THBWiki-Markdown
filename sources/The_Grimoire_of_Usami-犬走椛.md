@@ -14,7 +14,7 @@ The_Grimoire_of_Usami | 使用了翻译表的页面 | 宇佐见的魔法书 | �
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./The_Grimoire_of_Usami-二岩猯藏2.md" title="The Grimoire of Usami/二岩猯藏2">二岩猯藏2</a>&#160;
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="/%E5%AE%87%E4%BD%90%E8%A7%81%E7%9A%84%E9%AD%94%E6%B3%95%E4%B9%A6" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a>&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="./宇佐见的魔法书.md" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a>&#160;
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">&#160;<a href="./The_Grimoire_of_Usami-火焰猫燐.md" title="The Grimoire of Usami/火焰猫燐">火焰猫燐</a>
 </td>
@@ -25,7 +25,7 @@ The_Grimoire_of_Usami | 使用了翻译表的页面 | 宇佐见的魔法书 | �
 </center>
 <center>第122页</center>
 
-<table><tbody><tr align="left" valign="top"><td style="min-width:200px;"><div class="tt-zhh tt-type-setting" lang="zh"><div class="poem"><a href="/%E7%89%99%E7%AC%A6%E3%80%8C%E5%92%80%E5%9A%BC%E7%8E%A9%E5%91%B3%E3%80%8D" class="mw-redirect" title="牙符「咀嚼玩味」">牙符「咀嚼玩味」</a></div></div><div class="tt-zh tt-type-setting" lang="zh"><div class="poem">使用者：<a href="./犬走椛.md" title="犬走椛">犬走椛</a></div></div><div class="tt-zh tt-type-setting" lang="zh"><div class="poem">本以为出现了大量的野兽四处奔腾，<br>结果原来全都是子弹变的啊。<br>这么弱小的话可有损兽类的形象啊。<br><big>就让你们看看吧，<br>什么才是真正的兽类！</big></div></div><div class="tt-header tt-type-setting" lang="zh"><div class="poem">鬼人正邪</div></div><div class="tt-zh tt-type-setting" lang="zh"><div class="poem">没错没错，兽类就得爽快地咬上去才行啊！</div></div><div class="tt-header tt-type-setting" lang="zh"><div class="poem">八云紫</div></div><div class="tt-zh tt-type-setting" lang="zh"><div class="poem">哎呀，原来是咬向了与使用者和观众处于不同世界的观测者啊。还真是有妖怪特色的表现方法。</div></div><div class="tt-header tt-type-setting" lang="zh"><div class="poem">宇佐见堇子</div></div><div class="tt-zh tt-type-setting" lang="zh"><div class="poem">我搞不太懂，不过也就是说画面被咬住了？在大家眼里这里看起来就和游戏画面之类的差不多吗？</div></div></td><td width="200px"><div class="thumb tleft"><div class="thumbinner" style="width:202px;"><a href="./文件-The_Grimoire_of_Usami（犬走椛1）.jpg.md" class="image"><img alt="" src="https://upload.thwiki.cc/thumb/c/cd/The_Grimoire_of_Usami%EF%BC%88%E7%8A%AC%E8%B5%B0%E6%A4%9B1%EF%BC%89.jpg/200px-The_Grimoire_of_Usami%EF%BC%88%E7%8A%AC%E8%B5%B0%E6%A4%9B1%EF%BC%89.jpg" decoding="async" loading="lazy" width="200" height="284" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/c/cd/The_Grimoire_of_Usami%EF%BC%88%E7%8A%AC%E8%B5%B0%E6%A4%9B1%EF%BC%89.jpg/300px-The_Grimoire_of_Usami%EF%BC%88%E7%8A%AC%E8%B5%B0%E6%A4%9B1%EF%BC%89.jpg 1.5x, https://upload.thwiki.cc/thumb/c/cd/The_Grimoire_of_Usami%EF%BC%88%E7%8A%AC%E8%B5%B0%E6%A4%9B1%EF%BC%89.jpg/400px-The_Grimoire_of_Usami%EF%BC%88%E7%8A%AC%E8%B5%B0%E6%A4%9B1%EF%BC%89.jpg 2x" data-file-width="1266" data-file-height="1800"></a>  <div class="thumbcaption"><div class="magnify"><a href="./文件-The_Grimoire_of_Usami（犬走椛1）.jpg.md" class="internal" title="放大"></a></div>P122</div></div></div></td></tr></tbody></table>
+<table><tbody><tr align="left" valign="top"><td style="min-width:200px;"><div class="tt-zhh tt-type-setting" lang="zh"><div class="poem"><a href="./牙符「咀嚼玩味」.md" class="mw-redirect" title="牙符「咀嚼玩味」">牙符「咀嚼玩味」</a></div></div><div class="tt-zh tt-type-setting" lang="zh"><div class="poem">使用者：<a href="./犬走椛.md" title="犬走椛">犬走椛</a></div></div><div class="tt-zh tt-type-setting" lang="zh"><div class="poem">本以为出现了大量的野兽四处奔腾，<br>结果原来全都是子弹变的啊。<br>这么弱小的话可有损兽类的形象啊。<br><big>就让你们看看吧，<br>什么才是真正的兽类！</big></div></div><div class="tt-header tt-type-setting" lang="zh"><div class="poem">鬼人正邪</div></div><div class="tt-zh tt-type-setting" lang="zh"><div class="poem">没错没错，兽类就得爽快地咬上去才行啊！</div></div><div class="tt-header tt-type-setting" lang="zh"><div class="poem">八云紫</div></div><div class="tt-zh tt-type-setting" lang="zh"><div class="poem">哎呀，原来是咬向了与使用者和观众处于不同世界的观测者啊。还真是有妖怪特色的表现方法。</div></div><div class="tt-header tt-type-setting" lang="zh"><div class="poem">宇佐见堇子</div></div><div class="tt-zh tt-type-setting" lang="zh"><div class="poem">我搞不太懂，不过也就是说画面被咬住了？在大家眼里这里看起来就和游戏画面之类的差不多吗？</div></div></td><td width="200px"><div class="thumb tleft"><div class="thumbinner" style="width:202px;"><a href="./文件-The_Grimoire_of_Usami（犬走椛1）.jpg.md" class="image"><img alt="" src="https://upload.thwiki.cc/thumb/c/cd/The_Grimoire_of_Usami%EF%BC%88%E7%8A%AC%E8%B5%B0%E6%A4%9B1%EF%BC%89.jpg/200px-The_Grimoire_of_Usami%EF%BC%88%E7%8A%AC%E8%B5%B0%E6%A4%9B1%EF%BC%89.jpg" decoding="async" loading="lazy" width="200" height="284" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/c/cd/The_Grimoire_of_Usami%EF%BC%88%E7%8A%AC%E8%B5%B0%E6%A4%9B1%EF%BC%89.jpg/300px-The_Grimoire_of_Usami%EF%BC%88%E7%8A%AC%E8%B5%B0%E6%A4%9B1%EF%BC%89.jpg 1.5x, https://upload.thwiki.cc/thumb/c/cd/The_Grimoire_of_Usami%EF%BC%88%E7%8A%AC%E8%B5%B0%E6%A4%9B1%EF%BC%89.jpg/400px-The_Grimoire_of_Usami%EF%BC%88%E7%8A%AC%E8%B5%B0%E6%A4%9B1%EF%BC%89.jpg 2x" data-file-width="1266" data-file-height="1800"></a>  <div class="thumbcaption"><div class="magnify"><a href="./文件-The_Grimoire_of_Usami（犬走椛1）.jpg.md" class="internal" title="放大"></a></div>P122</div></div></div></td></tr></tbody></table>
 
 
 
@@ -37,7 +37,7 @@ The_Grimoire_of_Usami | 使用了翻译表的页面 | 宇佐见的魔法书 | �
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./The_Grimoire_of_Usami-二岩猯藏2.md" title="The Grimoire of Usami/二岩猯藏2">二岩猯藏2</a>&#160;
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="/%E5%AE%87%E4%BD%90%E8%A7%81%E7%9A%84%E9%AD%94%E6%B3%95%E4%B9%A6" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a>&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="./宇佐见的魔法书.md" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a>&#160;
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">&#160;<a href="./The_Grimoire_of_Usami-火焰猫燐.md" title="The Grimoire of Usami/火焰猫燐">火焰猫燐</a>
 </td>
@@ -46,6 +46,7 @@ The_Grimoire_of_Usami | 使用了翻译表的页面 | 宇佐见的魔法书 | �
 
   
 </center>
+
 
 ## 词条导航
   

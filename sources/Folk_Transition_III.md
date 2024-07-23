@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Folk_Transition_III封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/8/86/Folk_Transition_III%E5%B0%81%E9%9D%A2.jpg/138px-Folk_Transition_III%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="138" height="196" srcset="https://upload.thwiki.cc/thumb/8/86/Folk_Transition_III%E5%B0%81%E9%9D%A2.jpg/208px-Folk_Transition_III%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/8/86/Folk_Transition_III%E5%B0%81%E9%9D%A2.jpg/277px-Folk_Transition_III%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="595" data-file-height="842"></a><div class="cover-char">角色：<a href="./圣白莲.md" title="圣白莲">圣白莲</a></div></td>
@@ -18,8 +19,10 @@ Folk Transition III（同人志，Studio Okakits，2018） - 2018年6月2日 由
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="http://okakits.storenvy.com/products/23893146-folk-transition-iii-touhou-fanbook">其他平台</a></td></tr></tbody></table>
 
 
+
 ## Staff
 - K-ailisi (未找到链接)
+
 
 ## 评论
 

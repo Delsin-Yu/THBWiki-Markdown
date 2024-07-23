@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-One-sided_Mind封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/5/58/One-sided_Mind%E5%B0%81%E9%9D%A2.png/249px-One-sided_Mind%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="249" height="252" srcset="https://upload.thwiki.cc/thumb/5/58/One-sided_Mind%E5%B0%81%E9%9D%A2.png/374px-One-sided_Mind%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/5/58/One-sided_Mind%E5%B0%81%E9%9D%A2.png/499px-One-sided_Mind%E5%B0%81%E9%9D%A2.png 2x" data-file-width="1472" data-file-height="1488"></a><div class="cover-char">角色：<a href="./古明地觉.md" title="古明地觉">古明地觉</a></div></td>
@@ -18,16 +19,19 @@ One-sided Mind（同人专辑，ICE FRITTER，2016） - 2016年8月13日 由 ICE
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="http://www.dlsite.com/home/work/=/product_id/RJ200035.html">DLsite</a></td></tr></tbody></table>
 
 
+
 ## Staff
 Design
 : 设计师 （[网址 社团]）
 Illustration
 : 画师 （[网址 社团]）
 
+
 ## 试听
   
 暂不支援此类型
   
+
 
 ## 曲目列表
 
@@ -37,6 +41,7 @@ Illustration
 <tr><td id="4" class="info"><b>04</b></td><td id="One-sided_Mind_(Off_Vocal_Version)" colspan="2" class="title">One-sided Mind (Off Vocal Version)<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=One-sided_Mind"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr>
 <tr><td id="5" class="info"><b>05</b></td><td id="The_Other_Side_of_the_Lust_(Off_Vocal_Version)" colspan="2" class="title">The Other Side of the Lust (Off Vocal Version)<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=One-sided_Mind"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr>
 <tr><td id="6" class="info"><b>06</b></td><td id="I&#39;m_UnKn-On_(Off_Vocal_Version)" colspan="2" class="title">I&#39;m UnKn-On (Off Vocal Version)<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=One-sided_Mind"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr></tbody></table>
+
 
 
 ## 评论

@@ -4,6 +4,7 @@
 
 トリック・ノスタルジー
 
+
 ## 目录
 
 - [1 基本操作](#基本操作)
@@ -38,7 +39,9 @@
 
 
 
+
 ## 基本操作
+
 ### 操作方法
 -  **方向键**  移动角色
 -  **Z键**  射击/确认/继续对话
@@ -46,7 +49,9 @@
 -  **Shift键**  进入低速模式
 -  **Esc键**  游戏暂停/退出replay
 
+
 ## 特殊系统
+
 ### 瞬雷
   
 本作开始，自机拥有了瞬雷系统（链缘系列的链缘无现里初代（1.00）没有瞬雷，除此之外（包括连缘无现里的重置版）都有瞬雷。）  
@@ -61,6 +66,7 @@
 
 蛇丛剑LSC p5有无缝弹幕，必须用无敌帧去躲，必须使用瞬雷（也就是理论上不可能NNN）。p5难度显著取决于瞬雷无敌帧数量，不是国主雀巳可能会打的相当痛苦。
   
+
 
 ### 云花槽
   
@@ -79,7 +85,9 @@ LSC开场时每个花瓣转化成一个残机，LSC全程禁雷，瞬雷依然�
 警告：LSC P5过去后必须持续保持避弹！如果在P6最后减速阶段BOSS爆炸时击破撞会导致LSC收取失败！将会只得到LSC符卡分的1/10，(在E-U难度)亏损3-6千万分。
   
 
+
 ## 机体说明
+
 ### 凤联薮雨
 
 <table><tbody><tr><td><div class="center"><div class="floatnone"><a href="./文件-凤联薮雨（无现里）.png.md" class="image" title="天衣无缝的乐天派 凤联薮雨"><img alt="天衣无缝的乐天派 凤联薮雨" src="https://upload.thwiki.cc/thumb/6/60/%E5%87%A4%E8%81%94%E8%96%AE%E9%9B%A8%EF%BC%88%E6%97%A0%E7%8E%B0%E9%87%8C%EF%BC%89.png/20px-%E5%87%A4%E8%81%94%E8%96%AE%E9%9B%A8%EF%BC%88%E6%97%A0%E7%8E%B0%E9%87%8C%EF%BC%89.png" decoding="async" loading="lazy" width="20" height="40" srcset="https://upload.thwiki.cc/thumb/6/60/%E5%87%A4%E8%81%94%E8%96%AE%E9%9B%A8%EF%BC%88%E6%97%A0%E7%8E%B0%E9%87%8C%EF%BC%89.png/31px-%E5%87%A4%E8%81%94%E8%96%AE%E9%9B%A8%EF%BC%88%E6%97%A0%E7%8E%B0%E9%87%8C%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/6/60/%E5%87%A4%E8%81%94%E8%96%AE%E9%9B%A8%EF%BC%88%E6%97%A0%E7%8E%B0%E9%87%8C%EF%BC%89.png/41px-%E5%87%A4%E8%81%94%E8%96%AE%E9%9B%A8%EF%BC%88%E6%97%A0%E7%8E%B0%E9%87%8C%EF%BC%89.png 2x" data-file-width="250" data-file-height="485"></a></div></div></td> <td style="width:150px;padding:3px 9px 3px 7px;">天衣无缝的乐天派</td><td style="width:180px;padding:3px 9px 3px 7px;"> <a href="./凤联薮雨.md" title="凤联薮雨">凤联薮雨</a></td></tr></tbody></table>
@@ -106,6 +114,7 @@ LSC开场时每个花瓣转化成一个残机，LSC全程禁雷，瞬雷依然�
 「幽闭之穴」
   
 
+
 ### 燕乐玄鸟
 
 <table><tbody><tr><td><div class="center"><div class="floatnone"><a href="./文件-燕乐玄鸟（蛇丛剑）.png.md" class="image" title="酒囊饭袋的单彩 燕乐玄鸟"><img alt="酒囊饭袋的单彩 燕乐玄鸟" src="https://upload.thwiki.cc/thumb/4/4e/%E7%87%95%E4%B9%90%E7%8E%84%E9%B8%9F%EF%BC%88%E8%9B%87%E4%B8%9B%E5%89%91%EF%BC%89.png/19px-%E7%87%95%E4%B9%90%E7%8E%84%E9%B8%9F%EF%BC%88%E8%9B%87%E4%B8%9B%E5%89%91%EF%BC%89.png" decoding="async" loading="lazy" width="19" height="40" srcset="https://upload.thwiki.cc/thumb/4/4e/%E7%87%95%E4%B9%90%E7%8E%84%E9%B8%9F%EF%BC%88%E8%9B%87%E4%B8%9B%E5%89%91%EF%BC%89.png/29px-%E7%87%95%E4%B9%90%E7%8E%84%E9%B8%9F%EF%BC%88%E8%9B%87%E4%B8%9B%E5%89%91%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/4/4e/%E7%87%95%E4%B9%90%E7%8E%84%E9%B8%9F%EF%BC%88%E8%9B%87%E4%B8%9B%E5%89%91%EF%BC%89.png/39px-%E7%87%95%E4%B9%90%E7%8E%84%E9%B8%9F%EF%BC%88%E8%9B%87%E4%B8%9B%E5%89%91%EF%BC%89.png 2x" data-file-width="230" data-file-height="467"></a></div></div></td> <td style="width:150px;padding:3px 9px 3px 7px;">酒囊饭袋的单彩</td><td style="width:180px;padding:3px 9px 3px 7px;"> <a href="./燕乐玄鸟.md" title="燕乐玄鸟">燕乐玄鸟</a></td></tr></tbody></table>
@@ -131,6 +140,7 @@ LSC开场时每个花瓣转化成一个残机，LSC全程禁雷，瞬雷依然�
 
 「顶点激射」
   
+
 
 ### 鹀黑巫鸟
 
@@ -159,6 +169,7 @@ LSC开场时每个花瓣转化成一个残机，LSC全程禁雷，瞬雷依然�
 
   
 
+
 ### 隐藏机体
 
 <table>
@@ -182,6 +193,7 @@ LSC开场时每个花瓣转化成一个残机，LSC全程禁雷，瞬雷依然�
 ？？？
 </p>
 </td></tr></tbody></table>
+
 
 
 ## 使用策略
@@ -284,6 +296,7 @@ bomb从中间逐渐展开，造成伤害的是红边，所以放的时候要贴�
 简而言之，雀巳一般混关并不好用，通常是全机体避弹或AEX通关才会用到。 <br>
 </p>
 </td></tr></tbody></table>
+
 
 
 ### 关于LSC的小提示

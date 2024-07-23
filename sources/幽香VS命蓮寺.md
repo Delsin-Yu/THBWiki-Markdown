@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-幽香VS命蓮寺封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/6/69/%E5%B9%BD%E9%A6%99VS%E5%91%BD%E8%93%AE%E5%AF%BA%E5%B0%81%E9%9D%A2.jpg/156px-%E5%B9%BD%E9%A6%99VS%E5%91%BD%E8%93%AE%E5%AF%BA%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="156" height="224" srcset="https://upload.thwiki.cc/thumb/6/69/%E5%B9%BD%E9%A6%99VS%E5%91%BD%E8%93%AE%E5%AF%BA%E5%B0%81%E9%9D%A2.jpg/234px-%E5%B9%BD%E9%A6%99VS%E5%91%BD%E8%93%AE%E5%AF%BA%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/6/69/%E5%B9%BD%E9%A6%99VS%E5%91%BD%E8%93%AE%E5%AF%BA%E5%B0%81%E9%9D%A2.jpg/313px-%E5%B9%BD%E9%A6%99VS%E5%91%BD%E8%93%AE%E5%AF%BA%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="419" data-file-height="600"></a><div class="cover-char">角色：<a href="./风见幽香.md" title="风见幽香">风见幽香</a>，<a href="./圣白莲.md" title="圣白莲">圣白莲</a></div></td>
@@ -18,8 +19,10 @@
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=17603">蜜瓜</a></td></tr></tbody></table>
 
 
+
 ## Staff
 - [茶戸](./茶戸.md)
+
 
 ## 收录作品
 - [幽香vs白蓮](./幽香vs白蓮.md)
@@ -30,6 +33,7 @@
 - 折り本(2012年8月)
 - 四季彩特典
 - イベント無料配布ペーパー
+
 
 ## 评论
   

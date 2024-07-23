@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-STAND_BY_TEI!!封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/0/06/STAND_BY_TEI%21%21%E5%B0%81%E9%9D%A2.jpg/133px-STAND_BY_TEI%21%21%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="133" height="196" srcset="https://upload.thwiki.cc/thumb/0/06/STAND_BY_TEI%21%21%E5%B0%81%E9%9D%A2.jpg/200px-STAND_BY_TEI%21%21%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/0/06/STAND_BY_TEI%21%21%E5%B0%81%E9%9D%A2.jpg/267px-STAND_BY_TEI%21%21%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="815" data-file-height="1197"></a><div class="cover-char">角色：<a href="./因幡帝.md" title="因幡帝">因幡天为</a>，<a href="./铃仙·优昙华院·因幡.md" title="铃仙·优昙华院·因幡">铃仙·优昙华院·因幡</a>，<a href="./稀神探女.md" title="稀神探女">稀神探女</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/70837570">https://www.pixiv.net/artworks/70837570</a></td></tr></tbody></table>
 
 STAND BY TEI!!（同人志，天壌Kuchen，2018） - 2018年10月21日 由 天壌Kuchen 于 东方红楼梦14 发布的漫画同人志，一共28页，登场人物有 因幡天为、铃仙·优昙华院·因幡、稀神探女，分级为 一般向
+
 ## Staff
 : ゆうぐれな (未找到链接)
+
 
 ## 评论
 

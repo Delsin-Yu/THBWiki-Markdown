@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2">无封面</td>
@@ -14,11 +15,13 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://soundcloud.com/tokkey-292703235/fight-for-the-warrior">https://soundcloud.com/tokkey-292703235/fight-for-the-warrior</a></td></tr></tbody></table>
 
 Fight For The Warrior（同人专辑，Shooting Red Stardust，2016） - 2016年5月8日 由 Shooting Red Stardust 于 博丽神社例大祭13 发布的单曲同人专辑，曲目主要风格是 金属，分级为 一般向
+
 ## Staff
   
  **Arrangement**   
 
 <table><tbody><tr><td><a href="/index.php?title=Tokkey&amp;action=edit&amp;redlink=1" class="new" title="Tokkey（页面不存在）">Tokkey</a></td><td><a href="./Shooting_Red_Stardust.md" title="Shooting Red Stardust">Shooting Red Stardust</a></td><td>Tr.1</td></tr></tbody></table>
+
 
 
 ## 试听
@@ -27,9 +30,11 @@ Fight For The Warrior（同人专辑，Shooting Red Stardust，2016） - 2016年
 
   
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Fight_For_The_Warrior" colspan="2" class="title">Fight For The Warrior<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Tokkey&amp;ogmusic=六十年目の東方裁判　～ Fate of Sixty Years，彼岸帰航　～ Riverside View&amp;fromwiki=Fight_For_The_Warrior"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=Tokkey&amp;action=edit&amp;redlink=1" class="new" title="Tokkey（页面不存在）">Tokkey</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Tokkey&amp;fromwiki=Fight_For_The_Warrior"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=六十年目の東方裁判　～ Fate of Sixty Years，彼岸帰航　～ Riverside View&amp;fromwiki=Fight_For_The_Warrior"><span></span></a></span><div class="ogmusic"><a href="/%E5%85%AD%E5%8D%81%E5%B9%B4%E7%9B%AE%E3%81%AE%E6%9D%B1%E6%96%B9%E8%A3%81%E5%88%A4_%EF%BD%9E_Fate_of_Sixty_Years" class="mw-redirect" title="六十年目の東方裁判 ～ Fate of Sixty Years">六十年目の東方裁判　～ Fate of Sixty Years</a></div><div class="ogmusic"><a href="/%E5%BD%BC%E5%B2%B8%E5%B8%B0%E8%88%AA_%EF%BD%9E_Riverside_View" class="mw-redirect" title="彼岸帰航 ～ Riverside View">彼岸帰航　～ Riverside View</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E8%8A%B1%E6%98%A0%E5%A1%9A_%EF%BD%9E_Phantasmagoria_of_Flower_View." class="mw-redirect" title="东方花映塚 ～ Phantasmagoria of Flower View.">东方花映塚　～ Phantasmagoria of Flower View.</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Fight_For_The_Warrior" colspan="2" class="title">Fight For The Warrior<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Tokkey&amp;ogmusic=六十年目の東方裁判　～ Fate of Sixty Years，彼岸帰航　～ Riverside View&amp;fromwiki=Fight_For_The_Warrior"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=Tokkey&amp;action=edit&amp;redlink=1" class="new" title="Tokkey（页面不存在）">Tokkey</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Tokkey&amp;fromwiki=Fight_For_The_Warrior"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=六十年目の東方裁判　～ Fate of Sixty Years，彼岸帰航　～ Riverside View&amp;fromwiki=Fight_For_The_Warrior"><span></span></a></span><div class="ogmusic"><a href="./六十年目の東方裁判_～_Fate_of_Sixty_Years.md" class="mw-redirect" title="六十年目の東方裁判 ～ Fate of Sixty Years">六十年目の東方裁判　～ Fate of Sixty Years</a></div><div class="ogmusic"><a href="./彼岸帰航_～_Riverside_View.md" class="mw-redirect" title="彼岸帰航 ～ Riverside View">彼岸帰航　～ Riverside View</a></div><div class="source"><a href="./东方花映塚_～_Phantasmagoria_of_Flower_View..md" class="mw-redirect" title="东方花映塚 ～ Phantasmagoria of Flower View.">东方花映塚　～ Phantasmagoria of Flower View.</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

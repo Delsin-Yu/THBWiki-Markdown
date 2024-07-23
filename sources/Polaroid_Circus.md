@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Polaroid_Circus封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/6/6e/Polaroid_Circus%E5%B0%81%E9%9D%A2.jpg/117px-Polaroid_Circus%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="117" height="168" srcset="https://upload.thwiki.cc/thumb/6/6e/Polaroid_Circus%E5%B0%81%E9%9D%A2.jpg/176px-Polaroid_Circus%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/6/6e/Polaroid_Circus%E5%B0%81%E9%9D%A2.jpg/234px-Polaroid_Circus%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="268" data-file-height="384"></a><div class="cover-char">角色：<a href="./射命丸文.md" title="射命丸文">射命丸文</a></div></td>
@@ -13,10 +14,13 @@
 </tr><tr><td class="label">首发日期</td><td>2006-08-13&#160;（<a href="/展会作品列表?e=Comic+Market%2370">Comic Market 70</a>）</td></tr><tr><td class="label">类型</td><td>漫画</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">页数</td><td>32P</td></tr><tr><td class="label">登场人物</td><td><a href="./射命丸文.md" title="射命丸文">射命丸文</a>，<a href="./魂魄妖梦.md" title="魂魄妖梦">魂魄妖梦</a>，<a href="./西行寺幽幽子.md" title="西行寺幽幽子">西行寺幽幽子</a>，<a href="./小野塚小町.md" title="小野塚小町">小野塚小町</a>，<a href="./四季映姬·夜摩仙那度.md" title="四季映姬·夜摩仙那度">四季映姬·夜摩仙那度</a>，<a href="./莉莉霍瓦特.md" title="莉莉霍瓦特">莉莉霍瓦特</a></td></tr></tbody></table>
 
 Polaroid Circus（同人志，没後，2006） - 2006年8月13日 由 没後 于 Comic Market 70 发布的漫画同人志，一共32页，登场人物有 射命丸文、魂魄妖梦、西行寺幽幽子、小野塚小町、四季映姬·夜摩仙那度、莉莉霍瓦特，分级为 一般向
+
 ## 预览
+
 ## Staff
 - RYO（没後） (未找到链接)
 - Chiki (未找到链接)
+
 
 ## 评论
 

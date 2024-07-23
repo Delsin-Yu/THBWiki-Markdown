@@ -21,6 +21,7 @@
 
   
 
+
 ## 目录
 
 - [1 通用胜利对话](#通用胜利对话)
@@ -35,9 +36,11 @@
 
 
 
+
 ## 通用胜利对话
 
 <table><tbody><tr class="tt-content" id="通用胜利对话-1" data-pos="&#91;&quot;\u901a\u7528\u80dc\u5229\u5bf9\u8bdd&quot;,1&#93;"><td id="珠林苑玲珑" class="tt-char" lang="zh"><div class="poem">珠林苑玲珑</div></td><td class="tt-ja" lang="ja"><div class="poem">これが地上での遊びなのですね！<br>お相手して頂き有難うございました！</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-content" id="通用胜利对话-2" data-pos="&#91;&quot;\u901a\u7528\u80dc\u5229\u5bf9\u8bdd&quot;,2&#93;"><td id="珠林苑玲珑" class="tt-char" lang="zh"><div class="poem">珠林苑玲珑</div></td><td class="tt-ja" lang="ja"><div class="poem">金や宝石以外も木に出来ますよ！<br>次に生やすならどんなものが良いと思いますか？</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr></tbody></table>
+
 
 
 ## 珠林苑玲珑 击败 奥黛丽·克雷斯顿
@@ -45,9 +48,11 @@
 <table><tbody><tr class="tt-content" id="珠林苑玲珑_击败_奥黛丽·克雷斯顿-1" data-pos="&#91;&quot;\u73e0\u6797\u82d1\u73b2\u73d1 \u51fb\u8d25 \u5965\u9edb\u4e3d\u00b7\u514b\u96f7\u65af\u987f&quot;,1&#93;"><td id="珠林苑玲珑" class="tt-char" lang="zh"><div class="poem">珠林苑玲珑</div></td><td class="tt-ja" lang="ja"><div class="poem">あなたのベルトに嵌まっている石、初めて見る色です！<br>何処から採れたものなんですか？</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-content" id="珠林苑玲珑_击败_奥黛丽·克雷斯顿-2" data-pos="&#91;&quot;\u73e0\u6797\u82d1\u73b2\u73d1 \u51fb\u8d25 \u5965\u9edb\u4e3d\u00b7\u514b\u96f7\u65af\u987f&quot;,2&#93;"><td id="珠林苑玲珑" class="tt-char" lang="zh"><div class="poem">珠林苑玲珑</div></td><td class="tt-ja" lang="ja"><div class="poem">貴女を宝石に例えるなら……、<br>ダイアモンドって感じがします！</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr></tbody></table>
 
 
+
 ## 珠林苑玲珑 击败 佐比持海波
 
 <table><tbody><tr class="tt-content" id="珠林苑玲珑_击败_佐比持海波-1" data-pos="&#91;&quot;\u73e0\u6797\u82d1\u73b2\u73d1 \u51fb\u8d25 \u4f50\u6bd4\u6301\u6d77\u6ce2&quot;,1&#93;"><td id="珠林苑玲珑" class="tt-char" lang="zh"><div class="poem">珠林苑玲珑</div></td><td class="tt-ja" lang="ja"><div class="poem">剣を扱える方ってかっこいいと思います！<br>苑主様からは、危ないから私は駄目だと言われたのですが…。</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-content" id="珠林苑玲珑_击败_佐比持海波-2" data-pos="&#91;&quot;\u73e0\u6797\u82d1\u73b2\u73d1 \u51fb\u8d25 \u4f50\u6bd4\u6301\u6d77\u6ce2&quot;,2&#93;"><td id="珠林苑玲珑" class="tt-char" lang="zh"><div class="poem">珠林苑玲珑</div></td><td class="tt-ja" lang="ja"><div class="poem">貴女を宝石に例えるなら……、<br>真珠って感じがします！</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr></tbody></table>
+
 
 
 ## 珠林苑玲珑 击败 山渊炼
@@ -55,9 +60,11 @@
 <table><tbody><tr class="tt-content" id="珠林苑玲珑_击败_山渊炼-1" data-pos="&#91;&quot;\u73e0\u6797\u82d1\u73b2\u73d1 \u51fb\u8d25 \u5c71\u6e0a\u70bc&quot;,1&#93;"><td id="珠林苑玲珑" class="tt-char" lang="zh"><div class="poem">珠林苑玲珑</div></td><td class="tt-ja" lang="ja"><div class="poem">え、苑主様の悪口は許しませんよ！<br>何でって…苑主様は、苑主様です。優しくて強い方ですもん！</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-content" id="珠林苑玲珑_击败_山渊炼-2" data-pos="&#91;&quot;\u73e0\u6797\u82d1\u73b2\u73d1 \u51fb\u8d25 \u5c71\u6e0a\u70bc&quot;,2&#93;"><td id="珠林苑玲珑" class="tt-char" lang="zh"><div class="poem">珠林苑玲珑</div></td><td class="tt-ja" lang="ja"><div class="poem">貴女を宝石に例えるなら……、<br>ガーネットって感じがします！</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr></tbody></table>
 
 
+
 ## 珠林苑玲珑 击败 铃鹿玉枝
 
 <table><tbody><tr class="tt-content" id="珠林苑玲珑_击败_铃鹿玉枝-1" data-pos="&#91;&quot;\u73e0\u6797\u82d1\u73b2\u73d1 \u51fb\u8d25 \u94c3\u9e7f\u7389\u679d&quot;,1&#93;"><td id="珠林苑玲珑" class="tt-char" lang="zh"><div class="poem">珠林苑玲珑</div></td><td class="tt-ja" lang="ja"><div class="poem">昔にも似たような事があったのですか？<br>うーん…誰がやったのでしょうね。</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-content" id="珠林苑玲珑_击败_铃鹿玉枝-2" data-pos="&#91;&quot;\u73e0\u6797\u82d1\u73b2\u73d1 \u51fb\u8d25 \u94c3\u9e7f\u7389\u679d&quot;,2&#93;"><td id="珠林苑玲珑" class="tt-char" lang="zh"><div class="poem">珠林苑玲珑</div></td><td class="tt-ja" lang="ja"><div class="poem">貴女を宝石に例えるなら……、<br>トパーズって感じがします！</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr></tbody></table>
+
 
 
 ## 珠林苑玲珑 击败 宇田杜草庵
@@ -65,9 +72,11 @@
 <table><tbody><tr class="tt-content" id="珠林苑玲珑_击败_宇田杜草庵-1" data-pos="&#91;&quot;\u73e0\u6797\u82d1\u73b2\u73d1 \u51fb\u8d25 \u5b87\u7530\u675c\u8349\u5eb5&quot;,1&#93;"><td id="珠林苑玲珑" class="tt-char" lang="zh"><div class="poem">珠林苑玲珑</div></td><td class="tt-ja" lang="ja"><div class="poem">も、申し訳ありません！地上を見てみたくて…<br>それに、あの子を放っとけなくて…もう少し居させて下さい！</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-content" id="珠林苑玲珑_击败_宇田杜草庵-2" data-pos="&#91;&quot;\u73e0\u6797\u82d1\u73b2\u73d1 \u51fb\u8d25 \u5b87\u7530\u675c\u8349\u5eb5&quot;,2&#93;"><td id="珠林苑玲珑" class="tt-char" lang="zh"><div class="poem">珠林苑玲珑</div></td><td class="tt-ja" lang="ja"><div class="poem">苑主様を宝石に例えるなら……、<br>シトリンって感じがします！</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr></tbody></table>
 
 
+
 ## 珠林苑玲珑 击败 珠林苑玲珑
 
 <table><tbody><tr class="tt-content" id="珠林苑玲珑_击败_珠林苑玲珑-1" data-pos="&#91;&quot;\u73e0\u6797\u82d1\u73b2\u73d1 \u51fb\u8d25 \u73e0\u6797\u82d1\u73b2\u73d1&quot;,1&#93;"><td id="珠林苑玲珑" class="tt-char" lang="zh"><div class="poem">珠林苑玲珑</div></td><td class="tt-ja" lang="ja"><div class="poem">こんなに大勢の方が来てくれるなんて…。<br>やっぱり金は、抜いておけば良かったのかな。</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr></tbody></table>
+
 
 
 ## 珠林苑玲珑 击败 柊命花

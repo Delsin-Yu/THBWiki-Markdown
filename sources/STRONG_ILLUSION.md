@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-STRONG_ILLUSION封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/9/9f/STRONG_ILLUSION%E5%B0%81%E9%9D%A2.png/137px-STRONG_ILLUSION%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="137" height="196" srcset="https://upload.thwiki.cc/thumb/9/9f/STRONG_ILLUSION%E5%B0%81%E9%9D%A2.png/205px-STRONG_ILLUSION%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/9/9f/STRONG_ILLUSION%E5%B0%81%E9%9D%A2.png/274px-STRONG_ILLUSION%E5%B0%81%E9%9D%A2.png 2x" data-file-width="623" data-file-height="892"></a><div class="cover-char">角色：<a href="./圣白莲.md" title="圣白莲">圣白莲</a>，<a href="./封兽鵺.md" title="封兽鵺">封兽鵺</a>，<a href="./娜兹玲.md" title="娜兹玲">娜兹玲</a>，<a href="./寅丸星.md" title="寅丸星">寅丸星</a>，<a href="./幽谷响子.md" title="幽谷响子">幽谷响子</a>，<a href="./村纱水蜜.md" title="村纱水蜜">村纱水蜜</a>，<a href="./依神女苑.md" title="依神女苑">依神女苑</a>，<a href="./云山.md" title="云山">云山</a>，<a href="./云居一轮.md" title="云居一轮">云居一轮</a>，<a href="./二岩猯藏.md" title="二岩猯藏">二岩猯藏</a></div></td>
@@ -14,8 +15,9 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/yuji140/status/1576217437841653760">https://twitter.com/yuji140/status/1576217437841653760</a></td></tr></tbody></table>
 
 STRONG ILLUSION（同人志，ユージーランド，2022） - 2022年10月9日 由 ユージーランド 于 东方红楼梦18 发布的漫画同人志，B5尺寸一共15页，分级为 一般向
+
 ## Staff
-- 優治パッパ (未找到链接)
+- [優治パッパ](./優治パッパ.md)
 - ノヴェー (未找到链接)
 - 土生タケヒロ (未找到链接)
 - すあろきん (未找到链接)
@@ -25,6 +27,7 @@ STRONG ILLUSION（同人志，ユージーランド，2022） - 2022年10月9日
 - えゐみー (未找到链接)
 - 石川スペアリブ (未找到链接)
 - たすろくずは (未找到链接)
+
 
 ## 评论
 

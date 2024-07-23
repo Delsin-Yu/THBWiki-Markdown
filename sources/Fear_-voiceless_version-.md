@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Fear_-voiceless_version-封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/8/89/Fear_-voiceless_version-%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="252" data-file-width="200" data-file-height="200"></a></td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://kapparecords.com/MasashiOkagakiAndFriends/M_OKAGAKI_KPCR-113.html">https://kapparecords.com/MasashiOkagakiAndFriends/M_OKAGAKI_KPCR-113.html</a></td></tr><tr><td class="label">备注</td><td colspan="2">Aphrodite -SCARLET FANTASIA VII- Present Disc</td></tr></tbody></table>
 
 Fear -voiceless version-（同人专辑，岡垣正志＆フレンズ，2011） - 2011年5月1日 由 岡垣正志＆フレンズ 于 M3-2011春 发布的Omake同人专辑，分级为 一般向
+
 ## Staff
   
  **Arrangement**   
@@ -26,9 +28,11 @@ Fear -voiceless version-（同人专辑，岡垣正志＆フレンズ，2011） 
 <table><tbody><tr><td><a href="/index.php?title=%E5%B2%A1%E5%9E%A3_%E2%80%9CJill%E2%80%9D_%E6%AD%A3%E5%BF%97&amp;action=edit&amp;redlink=1" class="new" title="岡垣 “Jill” 正志（页面不存在）">岡垣 “Jill” 正志</a></td><td></td><td>Tr.1</td></tr><tr><td><a href="/index.php?title=ANI-Katsu&amp;action=edit&amp;redlink=1" class="new" title="ANI-Katsu（页面不存在）">ANI-Katsu</a></td><td></td><td>Tr.1</td></tr><tr><td><a href="/index.php?title=Hiromi_Suzuki&amp;action=edit&amp;redlink=1" class="new" title="Hiromi Suzuki（页面不存在）">Hiromi Suzuki</a></td><td></td><td>Tr.1</td></tr></tbody></table>
 
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Fear_-voiceless_version-" colspan="2" class="title">Fear -voiceless version-<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=岡垣 “Jill” 正志&amp;ogmusic=平安のエイリアン&amp;fromwiki=Fear_-voiceless_version-"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E5%B2%A1%E5%9E%A3_%E2%80%9CJill%E2%80%9D_%E6%AD%A3%E5%BF%97&amp;action=edit&amp;redlink=1" class="new" title="岡垣 “Jill” 正志（页面不存在）">岡垣 “Jill” 正志</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，岡垣 “Jill” 正志&amp;fromwiki=Fear_-voiceless_version-"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演奏</td><td class="text" colspan="2">Keyboard：岡垣 “Jill” 正志 <br>Guitar：Hiromi Suzuki <br>Bass：ANI-Katsu</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=平安のエイリアン&amp;fromwiki=Fear_-voiceless_version-"><span></span></a></span><div class="ogmusic"><a href="/%E5%B9%B3%E5%AE%89%E3%81%AE%E3%82%A8%E3%82%A4%E3%83%AA%E3%82%A2%E3%83%B3" class="mw-redirect" title="平安のエイリアン">平安のエイリアン</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E6%98%9F%E8%8E%B2%E8%88%B9_%EF%BD%9E_Undefined_Fantastic_Object." class="mw-redirect" title="东方星莲船 ～ Undefined Fantastic Object.">东方星莲船　～ Undefined Fantastic Object.</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Fear_-voiceless_version-" colspan="2" class="title">Fear -voiceless version-<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=岡垣 “Jill” 正志&amp;ogmusic=平安のエイリアン&amp;fromwiki=Fear_-voiceless_version-"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E5%B2%A1%E5%9E%A3_%E2%80%9CJill%E2%80%9D_%E6%AD%A3%E5%BF%97&amp;action=edit&amp;redlink=1" class="new" title="岡垣 “Jill” 正志（页面不存在）">岡垣 “Jill” 正志</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，岡垣 “Jill” 正志&amp;fromwiki=Fear_-voiceless_version-"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演奏</td><td class="text" colspan="2">Keyboard：岡垣 “Jill” 正志 <br>Guitar：Hiromi Suzuki <br>Bass：ANI-Katsu</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=平安のエイリアン&amp;fromwiki=Fear_-voiceless_version-"><span></span></a></span><div class="ogmusic"><a href="./平安のエイリアン.md" class="mw-redirect" title="平安のエイリアン">平安のエイリアン</a></div><div class="source"><a href="./东方星莲船_～_Undefined_Fantastic_Object..md" class="mw-redirect" title="东方星莲船 ～ Undefined Fantastic Object.">东方星莲船　～ Undefined Fantastic Object.</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

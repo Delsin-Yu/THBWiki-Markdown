@@ -4,7 +4,8 @@
 
 Ragathol Enterprises ，主要制作 同人志 的瑞典同人社团，主催是 Ragathol，当前状态为 休止
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -20,17 +21,21 @@ Ragathol Enterprises ，主要制作 同人志 的瑞典同人社团，主催是
 
 
 
+
 ## 社团信息
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Ragathol Enterprises </td></tr><tr><td><b>主要作品类型</b></td><td>同人志</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=Ragathol&amp;action=edit&amp;redlink=1" class="new" title="Ragathol（页面不存在）">Ragathol</a> </td></tr><tr><td><b>地区</b></td><td>瑞典</td></tr></tbody></table>
 
 Ragathol Enterprises（同人社团，同人志社团） - Ragathol Enterprises ，主要制作 同人志 的瑞典同人社团，主催是 Ragathol，当前状态为 休止
+
 ## 成员名单
 - Ragathol (未找到链接) (a.k.a. Spidu)
 
 : [个人网站](http://www.ragathol.com/), [Twitter: @Ragatholart](https://twitter.com/Ragatholart), [DeviantArt: ragathol](https://www.deviantart.com/ragathol), [Pixiv ID: 316030](https://www.pixiv.net/users/316030), [Gumroad](https://ragathol.gumroad.com)
 
+
 ## 作品列表
+
 ### 同人志
 [](./Perish_This_Night_...Please.md)[Perish This Night ...Please](./Perish_This_Night_...Please.md)首发日期：2009-06-22 漫画 （一般向） 32&#160;页以个人名义发布[](./The_Enlightenment_of_Black-White_Lightning.md)[The Enlightenment of Black-White Lightning](./The_Enlightenment_of_Black-White_Lightning.md)首发日期：未知 漫画 （一般向） 32&#160;页以个人名义发布[](./RGB.md)[RGB](./RGB.md)首发日期：未知 漫画 （一般向） 32&#160;页[](./Youkai_Monochrome.md)[Youkai Monochrome](./Youkai_Monochrome.md)首发日期：2014-05-11 （第十一回 博麗神社例大祭 (未找到链接)）画集 （一般向） 12&#160;页[](./Patchouli.md)[Patchouli](./Patchouli.md)首发日期：未知 漫画 （一般向） 72&#160;页[](./Hellcat.md)[Hellcat](./Hellcat.md)首发日期：2012-12-30 （Comic Market 83 (未找到链接)）画集 （一般向） 12&#160;页[](./The_Prez_VS_The_Press.md)[The Prez VS The Press](./The_Prez_VS_The_Press.md)首发日期：2013-05-26 （第十回 博麗神社例大祭 (未找到链接)）漫画 （一般向） 30&#160;页[](./A_Journey_To_The_Center_Of_Hell.md)[A Journey To The Center Of Hell](./A_Journey_To_The_Center_Of_Hell.md)首发日期：2015-05-10 （第十二回 博麗神社例大祭 (未找到链接)）漫画 （一般向） 72&#160;页东方×[星球大战](https://zh.wikipedia.org/wiki/星球大战)[](./Vi_drar_i_Österled.md)[Vi drar i Österled](./Vi_drar_i_Österled.md)首发日期：2016-05-07 （Stockholms Internationella Seriefestival 2016 (未找到链接)）漫画、​总集 （一般向）[](./奇跡スイッチ.md)[奇跡スイッチ](./奇跡スイッチ.md)首发日期：2017-05-07 （第十四回 博麗神社例大祭 (未找到链接)）漫画 （一般向） 52&#160;页
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -53,6 +58,7 @@ Ragathol Enterprises（同人社团，同人志社团） - Ragathol Enterprises 
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 参展信息

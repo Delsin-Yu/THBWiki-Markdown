@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件--_All_of_the_Fantasies_-封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/3/3b/-_All_of_the_Fantasies_-%E5%B0%81%E9%9D%A2.png/138px--_All_of_the_Fantasies_-%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="138" height="196" srcset="https://upload.thwiki.cc/thumb/3/3b/-_All_of_the_Fantasies_-%E5%B0%81%E9%9D%A2.png/208px--_All_of_the_Fantasies_-%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/3/3b/-_All_of_the_Fantasies_-%E5%B0%81%E9%9D%A2.png/277px--_All_of_the_Fantasies_-%E5%B0%81%E9%9D%A2.png 2x" data-file-width="1000" data-file-height="1414"></a><div class="cover-char">角色：<a href="./灵乌路空.md" title="灵乌路空">灵乌路空</a></div></td>
@@ -14,9 +15,12 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/_GmoT_/status/808281816700358656">https://twitter.com/_GmoT_/status/808281816700358656</a><br><a rel="nofollow" class="external free" href="https://twitter.com/_GmoT_/status/814270696574418945">https://twitter.com/_GmoT_/status/814270696574418945</a></td></tr></tbody></table>
 
 - All of the Fantasies -（同人志，BlackEditionFX，2016） - 2016年12月29日 由 BlackEditionFX 于 Comic Market 91 发布的画集/总集同人志，A4尺寸一共32页，分级为 一般向
+
 ## 预览
+
 ## Staff
 - GmoT (未找到链接)
+
 
 ## 评论
 

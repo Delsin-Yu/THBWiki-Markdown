@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-SMB封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/3/34/SMB%E5%B0%81%E9%9D%A2.jpg/120px-SMB%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="120" height="168" srcset="https://upload.thwiki.cc/thumb/3/34/SMB%E5%B0%81%E9%9D%A2.jpg/180px-SMB%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/3/34/SMB%E5%B0%81%E9%9D%A2.jpg/240px-SMB%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="300" data-file-height="420"></a><div class="cover-char">角色：<a href="./米斯蒂娅·萝蕾拉.md" title="米斯蒂娅·萝蕾拉">米斯蒂娅·萝蕾拉</a>，<a href="./莉格露·奈特巴格.md" title="莉格露·奈特巴格">莉格露·奈特巴格</a></div></td>
@@ -14,9 +15,12 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://nightbug.net/labo/2007/07/in72.html">https://nightbug.net/labo/2007/07/in72.html</a></td></tr></tbody></table>
 
 SMB（同人志，A.C.3，2007） - 2007年8月17日 由 A.C.3 于 Comic Market 72 发布的漫画同人志，登场人物有 米斯蒂娅·萝蕾拉、莉格露·奈特巴格，分级为 一般向
+
 ## 预览
+
 ## Staff
 - ユウワン (未找到链接)
+
 
 ## 评论
 

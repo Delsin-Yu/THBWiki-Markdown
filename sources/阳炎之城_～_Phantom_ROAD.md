@@ -6,6 +6,7 @@ JynX作曲 | 引用了翻译表的页面 | 连缘Project | 连缘Project官方�
 
 本页是关于 **向[东方Project](./东方Project.md)  
 致敬、形式类似的作品** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -26,6 +27,7 @@ JynX作曲 | 引用了翻译表的页面 | 连缘Project | 连缘Project官方�
 
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
+
 
 
 
@@ -57,6 +59,7 @@ JynX作曲 | 引用了翻译表的页面 | 连缘Project | 连缘Project官方�
 </td></tr></tbody></table>
 
 
+
 ## 出现作品
 
 <table>
@@ -65,7 +68,9 @@ JynX作曲 | 引用了翻译表的页面 | 连缘Project | 连缘Project官方�
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 连缘天影战记
 
 <table>
@@ -85,7 +90,9 @@ JynX作曲 | 引用了翻译表的页面 | 连缘Project | 连缘Project官方�
 </td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 连缘天影战记
 - Music Room (未找到链接)
 
@@ -98,8 +105,11 @@ JynX作曲 | 引用了翻译表的页面 | 连缘Project | 连缘Project官方�
 也许会「哦」地一下，注意到某个词语吧？[^cite_note-1]  
   
 在这里最大的敌人可能是背景呢
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
 [^cite_note-1]: [链缘灵烈传](./连缘灵烈传～Reactivate_majestical_imperial.md)的staff曲目：蜉蝣の城 ～ Phantom_VISION。日语中“陽炎”、“蜻蛉”与“蜉蝣”都可读作カゲロウ。
 

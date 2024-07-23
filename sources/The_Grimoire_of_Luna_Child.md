@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-The_Grimoire_of_Luna_Child封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/c/cf/The_Grimoire_of_Luna_Child%E5%B0%81%E9%9D%A2.png/252px-The_Grimoire_of_Luna_Child%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="252" height="252" srcset="https://upload.thwiki.cc/thumb/c/cf/The_Grimoire_of_Luna_Child%E5%B0%81%E9%9D%A2.png/378px-The_Grimoire_of_Luna_Child%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/c/cf/The_Grimoire_of_Luna_Child%E5%B0%81%E9%9D%A2.png/504px-The_Grimoire_of_Luna_Child%E5%B0%81%E9%9D%A2.png 2x" data-file-width="1080" data-file-height="1080"></a><div class="cover-char">角色：<a href="./露娜萨·普莉兹姆利巴.md" title="露娜萨·普莉兹姆利巴">露娜萨·普莉兹姆利巴</a></div></td>
@@ -18,20 +19,22 @@ The Grimoire of Luna Child（同人专辑，MiragEden，2022） - 2022年2月4�
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://eban.booth.pm/items/3629113">BoothDL</a></td></tr></tbody></table>
 
 
+
 ## Staff
   
  **Compose**   
 
-<table><tbody><tr><td><a href="/%E3%81%88%E3%81%B0%E3%82%93" class="mw-redirect" title="えばん">えばん</a></td><td></td><td>Tr.1</td></tr></tbody></table>
+<table><tbody><tr><td><a href="./えばん.md" class="mw-redirect" title="えばん">えばん</a></td><td></td><td>Tr.1</td></tr></tbody></table>
 
   
  **Arrangement**   
 
-<table><tbody><tr><td><a href="/%E3%81%88%E3%81%B0%E3%82%93" class="mw-redirect" title="えばん">えばん</a></td><td></td><td>Tr.2</td></tr></tbody></table>
+<table><tbody><tr><td><a href="./えばん.md" class="mw-redirect" title="えばん">えばん</a></td><td></td><td>Tr.2</td></tr></tbody></table>
 
 
 Illustration
 : 物部毒鼓 (未找到链接)([Twitter](https://twitter.com/monodoku))
+
 
 ## 试听
 
@@ -45,16 +48,19 @@ Illustration
 </td></tr></tbody></table>
 
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYL"><b>01</b></td><td id="真夜中を照らす退屈な月" colspan="2" class="title">真夜中を照らす退屈な月<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=えばん&amp;fromwiki=The_Grimoire_of_Luna_Child"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:24</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/%E3%81%88%E3%81%B0%E3%82%93" class="mw-redirect" title="えばん">えばん</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，えばん&amp;fromwiki=The_Grimoire_of_Luna_Child"><span></span></a></span></td></tr>
-<tr><td id="2" class="infoYD"><b>02</b></td><td id="オルフェの詩_～_Pseudoclassic" colspan="2" class="title">オルフェの詩　～ Pseudoclassic<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=えばん&amp;ogmusic=オルフェの詩　～ Pseudoclassic&amp;fromwiki=The_Grimoire_of_Luna_Child"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:22</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/%E3%81%88%E3%81%B0%E3%82%93" class="mw-redirect" title="えばん">えばん</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，えばん&amp;fromwiki=The_Grimoire_of_Luna_Child"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=オルフェの詩　～ Pseudoclassic&amp;fromwiki=The_Grimoire_of_Luna_Child"><span></span></a></span><div class="ogmusic"><a href="/%E3%82%AA%E3%83%AB%E3%83%95%E3%82%A7%E3%81%AE%E8%A9%A9_%EF%BD%9E_Pseudoclassic" class="mw-redirect" title="オルフェの詩 ～ Pseudoclassic">オルフェの詩　～ Pseudoclassic</a></div><div class="source"><a href="./稀翁玉.md" title="稀翁玉">稀翁玉</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoYL"><b>01</b></td><td id="真夜中を照らす退屈な月" colspan="2" class="title">真夜中を照らす退屈な月<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=えばん&amp;fromwiki=The_Grimoire_of_Luna_Child"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:24</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./えばん.md" class="mw-redirect" title="えばん">えばん</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，えばん&amp;fromwiki=The_Grimoire_of_Luna_Child"><span></span></a></span></td></tr>
+<tr><td id="2" class="infoYD"><b>02</b></td><td id="オルフェの詩_～_Pseudoclassic" colspan="2" class="title">オルフェの詩　～ Pseudoclassic<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=えばん&amp;ogmusic=オルフェの詩　～ Pseudoclassic&amp;fromwiki=The_Grimoire_of_Luna_Child"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:22</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./えばん.md" class="mw-redirect" title="えばん">えばん</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，えばん&amp;fromwiki=The_Grimoire_of_Luna_Child"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=オルフェの詩　～ Pseudoclassic&amp;fromwiki=The_Grimoire_of_Luna_Child"><span></span></a></span><div class="ogmusic"><a href="./オルフェの詩_～_Pseudoclassic.md" class="mw-redirect" title="オルフェの詩 ～ Pseudoclassic">オルフェの詩　～ Pseudoclassic</a></div><div class="source"><a href="./稀翁玉.md" title="稀翁玉">稀翁玉</a></div></td></tr></tbody></table>
+
 
 
 ## 评论
   
 13年前、2009年位に発売された東方書籍付属CDを意識しました。「The Grimoire of Marisa」と「東方三月精」を混ぜたような曲調をお楽しみください！！
   
+
 
 ## omake
 

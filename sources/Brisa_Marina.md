@@ -4,7 +4,8 @@
 
 Brisa Marina ，主要制作 同人志 的日本同人社团，主催是 aji，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -20,16 +21,20 @@ Brisa Marina ，主要制作 同人志 的日本同人社团，主催是 aji，�
 
 
 
+
 ## 社团信息
 文件:Brisa Marinabanner.jpg (未找到链接)  banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Brisa Marina </td></tr><tr><td><b>主要作品类型</b></td><td>同人志</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="./aji.md" title="aji">aji</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr></tbody></table>
 
 Brisa Marina（同人社团，同人志社团） - Brisa Marina ，主要制作 同人志 的日本同人社团，主催是 aji，当前状态为 活动
+
 ## 成员名单
 - [aji](./aji.md)
 
+
 ## 作品列表
+
 ### 同人志
 [](./VIENTO_DEL_VERANO.md)[VIENTO DEL VERANO](./VIENTO_DEL_VERANO.md)首发日期：2012-08-11 （Comic Market 82 (未找到链接)）绘本 （一般向） 16&#160;页[](./Un_Viento_Rojo.md)[Un Viento Rojo](./Un_Viento_Rojo.md)首发日期：2012-10-07 （東方紅楼夢8 (未找到链接)）绘本 （一般向） 16&#160;页[](./viento_del_invierno.md)[viento del invierno](./viento_del_invierno.md)首发日期：2012-12-30 （Comic Market 83 (未找到链接)）合同志、​绘本 （一般向）[](./春の風_-Un_viento_de_primavera-.md)[春の風 -Un viento de primavera-](./春の風_-Un_viento_de_primavera-.md)首发日期：2013-05-26 （第十回 博麗神社例大祭 (未找到链接)）绘本 （一般向） 8&#160;页[](./Jugando_con_Agua.md)[Jugando con Agua](./Jugando_con_Agua.md)首发日期：2013-08-12 （Comic Market 84 (未找到链接)）合同志、​绘本 （一般向）[](./Tres_brujas.md)[Tres brujas](./Tres_brujas.md)首发日期：2013-10-13 （東方紅楼夢9 (未找到链接)）合同志、​绘本 （一般向）[](./Protagonistas.md)[Protagonistas](./Protagonistas.md)首发日期：2013-12-30 （Comic Market 85 (未找到链接)）合同志、​绘本 （一般向）[](./神仏彩戯帳.md)[神仏彩戯帳](./神仏彩戯帳.md)首发日期：2014-03-09 （仙仏蒐合1 (未找到链接)）绘本 （一般向）[](./Un_color_y_luz.md)[Un color y luz](./Un_color_y_luz.md)首发日期：2014-05-11 （第十一回 博麗神社例大祭 (未找到链接)）绘本 （一般向） 8&#160;页[](./雲山合同.md)[雲山合同](./雲山合同.md)首发日期：2014-05-11 （第十一回 博麗神社例大祭 (未找到链接)）合同志、​绘本 （一般向）该作品是与 [少年少女隊](./少年少女隊.md) 合作创作的 12&#160;页[](./いつもの幻想郷.md)[いつもの幻想郷](./いつもの幻想郷.md)首发日期：2014-08-16 （Comic Market 86 (未找到链接)）绘本 （一般向） 20&#160;页[](./Tres_brujas_II.md)[Tres brujas II](./Tres_brujas_II.md)首发日期：2014-10-12 （東方紅楼夢10 (未找到链接)）合同志、​绘本 （一般向）[](./アナタの隣人.md)[アナタの隣人](./アナタの隣人.md)首发日期：2014-12-29 （Comic Market 87 (未找到链接)）绘本 （一般向） 16&#160;页[](./TWILIGHT（同人志）.md)[TWILIGHT](./TWILIGHT（同人志）.md)首发日期：2015-05-10 （第十二回 博麗神社例大祭 (未找到链接)）合同志、​绘本 （一般向）[](./Luz_y_agua.md)[Luz y agua](./Luz_y_agua.md)首发日期：2015-08-14 （Comic Market 88 (未找到链接)）绘本 （一般向） 8&#160;页[](./Tres_brujas_III.md)[Tres brujas III](./Tres_brujas_III.md)首发日期：2015-11-01 （東方紅楼夢11 (未找到链接)）合同志、​绘本 （一般向）[](./Agua_de_verano.md)[Agua de verano](./Agua_de_verano.md)首发日期：2016-08-13 （Comic Market 90 (未找到链接)）绘本 （一般向）A4&#160;尺寸 8&#160;页[](./ARCO_IRIS.md)[ARCO IRIS](./ARCO_IRIS.md)首发日期：2017-05-07 （第十四回 博麗神社例大祭 (未找到链接)）绘本 （一般向）A4&#160;尺寸 20&#160;页[](./Detras_de_las_escenas.md)[Detras de las escenas](./Detras_de_las_escenas.md)首发日期：2017-10-22 （東方紅楼夢13 (未找到链接)）绘本 （一般向）A4&#160;尺寸 16&#160;页[](./arrange.md)[arrange](./arrange.md)首发日期：2017-12-29 （Comic Market 93 (未找到链接)）绘本 （一般向）[](./KOUMA_the_Blue.md)[KOUMA the Blue](./KOUMA_the_Blue.md)首发日期：2018-08-10 （Comic Market 94 (未找到链接)）绘本 （一般向）[](./PAIR.md)[PAIR](./PAIR.md)首发日期：2018-12-30 （Comic Market 95 (未找到链接)）绘本 （一般向） 16&#160;页[](./Agua_estacional.md)[Agua estacional](./Agua_estacional.md)首发日期：2017-08-11 （Comic Market 92 (未找到链接)）绘本 （一般向）A4&#160;尺寸 16&#160;页Capricho 封面图片 (未找到链接)[Capricho](./Capricho.md)首发日期：2019-10-13 （東方紅楼夢15 (未找到链接)）绘本 （一般向）[](./Expresión.md)[Expresión](./Expresión.md)首发日期：2019-12-31 （Comic Market 97 (未找到链接)）绘本 （一般向）[](./みんなの東方合同.md)[みんなの東方合同](./みんなの東方合同.md)首发日期：2023-05-07 （第二十回 博麗神社例大祭 (未找到链接)）绘本 （一般向）
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -84,6 +89,7 @@ Brisa Marina（同人社团，同人志社团） - Brisa Marina ，主要制作 
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 参展信息

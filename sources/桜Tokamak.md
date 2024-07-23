@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-桜Tokamak封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/c/cd/%E6%A1%9CTokamak%E5%B0%81%E9%9D%A2.jpg/140px-%E6%A1%9CTokamak%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="140" height="196" srcset="https://upload.thwiki.cc/thumb/c/cd/%E6%A1%9CTokamak%E5%B0%81%E9%9D%A2.jpg/210px-%E6%A1%9CTokamak%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/c/cd/%E6%A1%9CTokamak%E5%B0%81%E9%9D%A2.jpg/280px-%E6%A1%9CTokamak%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="858" data-file-height="1200"></a><div class="cover-char">角色：<a href="./灵乌路空.md" title="灵乌路空">灵乌路空</a>，<a href="./火焰猫燐.md" title="火焰猫燐">火焰猫燐</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/43140156">https://www.pixiv.net/artworks/43140156</a><br><a rel="nofollow" class="external free" href="https://twitter.com/Are_men/status/459686261838467072">https://twitter.com/Are_men/status/459686261838467072</a></td></tr></tbody></table>
 
 桜Tokamak（同人志，荒巻シェイカー，2014） - 2014年5月11日 由 荒巻シェイカー 于 博丽神社例大祭11 发布的漫画同人志，一共20页，登场人物有 古明地觉、古明地恋、灵乌路空、火焰猫燐，分级为 一般向
+
 ## Staff
 - あー麺 (未找到链接)
+
 
 ## 评论
 

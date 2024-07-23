@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人视频 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-夢想夏郷_-A_Summer_Day's_Dream-_3話DVD封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/6/6b/%E5%A4%A2%E6%83%B3%E5%A4%8F%E9%83%B7_-A_Summer_Day%27s_Dream-_3%E8%A9%B1DVD%E5%B0%81%E9%9D%A2.jpg/196px-%E5%A4%A2%E6%83%B3%E5%A4%8F%E9%83%B7_-A_Summer_Day%27s_Dream-_3%E8%A9%B1DVD%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="196" height="140" srcset="https://upload.thwiki.cc/thumb/6/6b/%E5%A4%A2%E6%83%B3%E5%A4%8F%E9%83%B7_-A_Summer_Day%27s_Dream-_3%E8%A9%B1DVD%E5%B0%81%E9%9D%A2.jpg/294px-%E5%A4%A2%E6%83%B3%E5%A4%8F%E9%83%B7_-A_Summer_Day%27s_Dream-_3%E8%A9%B1DVD%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/6/6b/%E5%A4%A2%E6%83%B3%E5%A4%8F%E9%83%B7_-A_Summer_Day%27s_Dream-_3%E8%A9%B1DVD%E5%B0%81%E9%9D%A2.jpg/392px-%E5%A4%A2%E6%83%B3%E5%A4%8F%E9%83%B7_-A_Summer_Day%27s_Dream-_3%E8%A9%B1DVD%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1000" data-file-height="713"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>，<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a>，<a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a>，<a href="./帕秋莉·诺蕾姬.md" title="帕秋莉·诺蕾姬">帕秋莉·诺蕾姬</a>，<a href="/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C" title="十六夜咲夜">十六夜咲夜</a>，<a href="./爱丽丝·玛格特洛依德.md" title="爱丽丝·玛格特洛依德">爱丽丝·玛格特洛依德</a>，<a href="./伊吹萃香.md" title="伊吹萃香">伊吹萃香</a>，<a href="./射命丸文.md" title="射命丸文">射命丸文</a></div></td>
@@ -16,6 +17,7 @@
 夢想夏郷 -A Summer Day's Dream- 3話DVD（同人视频，舞风，2016） - 2016年8月13日 由 舞风 于 Comic Market 90 发布的传统动画同人视频，总长 0小时24分钟，分级为 一般向
 
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://booth.pm/ja/items/1494980">Booth</a></td></tr></tbody></table>
+
 
 
 ## Staff
@@ -61,6 +63,7 @@ STAFF
 
 キャスティング / 谷村 誠
   
+
 
 
 ## 评论

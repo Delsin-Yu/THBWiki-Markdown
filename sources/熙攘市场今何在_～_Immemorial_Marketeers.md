@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -49,11 +50,13 @@
 
 
 
+
 ## 基本信息
 
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">あの賑やかな市場は今どこに　～ Immemorial Marketeers</td></tr><tr><td><b>译名</b></td><td>熙攘市场今何在 ～ Immemorial Marketeers</td></tr><tr><td><b>英文译名</b></td><td>Where Is That Bustling Marketplace Now ~ Immemorial Marketeers</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 熙攘市场今何在 ～ Immemorial Marketeers（曲目） - 由 ZUN 创作的官方曲目，原名 あの賑やかな市場は今どこに　～ Immemorial Marketeers
+
 ## 出现作品
 
 <table>
@@ -63,7 +66,9 @@
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 东方虹龙洞
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th18_13.mp3.md" title="文件:th18 13.mp3">th18_13.mp3</a><br><audio src="https://upload.thwiki.cc/b/bd/th18_13.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>BGM\th18_13.wav</td></tr><tr><td><b>BGMForAll</b></td><td><div class="mw-collapsible mw-collapsed">
@@ -74,9 +79,11 @@
 </td></tr></tbody></table>
 
 
+
 ### 虹色的北斗七星
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-hr11_03.mp3.md" title="文件:hr11 03.mp3">hr11_03.mp3</a><br><audio src="https://upload.thwiki.cc/7/7d/hr11_03.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track03.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>5:01</td></tr></tbody></table>
+
 
 
 ### 弹幕狂们的黑市
@@ -89,7 +96,9 @@
 </td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 东方虹龙洞
 - Music Room (未找到链接)
 
@@ -99,13 +108,18 @@
 　不同事物交汇的地方，就是她的领域。  
 　这首曲子同样，由节奏轻快热闹愉快的部分，和富有力量感、  
 　仿佛能听见某处传来的悲鸣一样的部分，这两部分交错组成。
+
 ### 弹幕狂们的黑市
 - Music Room (未找到链接)
 
 　再录自《东方虹龙洞》。
+
 ## 其他资料
+
 ### 乐理资讯
+
 #### 使用乐器
+
 ##### 东方虹龙洞
 - The Grand 3 Model D Close
 - The Grand 3 Bösendorfer 290 Close
@@ -118,6 +132,7 @@
 - Trilian Hardcore Finger
 - Trilian Studio Warm
 - Triebwerk Drum Kit 6
+
 
 ##### 虹色的北斗七星
 - The Grand 3 Model D Close
@@ -133,6 +148,7 @@
 - Trilian Hardcore Finger
 - Trilian Studio Warm
 - Triebwerk Drum Kit 6
+
 
 ### 分析考据
   
@@ -166,6 +182,7 @@
 
 
 <table><tbody><tr class="tt-comment" id="MusicRoom-39" data-pos="&#91;&quot;MusicRoom&quot;,39&#93;"><td colspan="2" class="tt-ja" lang="ja"><div class="poem">　天弓 千亦（てんきゅう ちまた）のテーマです。<br>　<br>　市場の神です。虹というのは異界と交錯する場所です。<br>　異なる物が交わる場所こそ、彼女のテリトリーなのです。<br>　曲の方も軽いリズムで楽しく賑やかなパートと、パワフルで<br>　どこか悲鳴のようにも聞こえるパートが交錯する曲になりました。</div></td><td colspan="2" class="tt-zh" lang="zh"><div class="poem">　天弓 千亦的主题曲。<br>　<br>　她是集市之神。说到彩虹，就是和异界交错的地方。<br>　不同事物交汇的地方，就是她的领域。<br>　这首曲子同样，由节奏轻快热闹愉快的部分，和富有力量感、<br>　仿佛能听见某处传来的悲鸣一样的部分，这两部分交错组成。</div></td></tr></tbody></table>
+
 
 
 ### 二次同人数据

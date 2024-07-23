@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-東方夢魔境_Half_asleep_and_Half_awake封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/f/fc/%E6%9D%B1%E6%96%B9%E5%A4%A2%E9%AD%94%E5%A2%83_Half_asleep_and_Half_awake%E5%B0%81%E9%9D%A2.jpg/252px-%E6%9D%B1%E6%96%B9%E5%A4%A2%E9%AD%94%E5%A2%83_Half_asleep_and_Half_awake%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="252" srcset="https://upload.thwiki.cc/thumb/f/fc/%E6%9D%B1%E6%96%B9%E5%A4%A2%E9%AD%94%E5%A2%83_Half_asleep_and_Half_awake%E5%B0%81%E9%9D%A2.jpg/378px-%E6%9D%B1%E6%96%B9%E5%A4%A2%E9%AD%94%E5%A2%83_Half_asleep_and_Half_awake%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/f/fc/%E6%9D%B1%E6%96%B9%E5%A4%A2%E9%AD%94%E5%A2%83_Half_asleep_and_Half_awake%E5%B0%81%E9%9D%A2.jpg/504px-%E6%9D%B1%E6%96%B9%E5%A4%A2%E9%AD%94%E5%A2%83_Half_asleep_and_Half_awake%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="600" data-file-height="600"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>，<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a>，<a href="./八云紫.md" title="八云紫">八云紫</a></div></td>
@@ -14,11 +15,12 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://www.re-volte.net/">http://www.re-volte.net/</a></td></tr></tbody></table>
 
 東方夢魔境 Half asleep and Half awake（同人专辑，Re：Volte，2007） - 2007年10月8日 由 Re：Volte 于 M3-2007秋 发布的配音作品同人专辑，分级为 一般向
+
 ## Staff
   
  **Compose**   
 
-<table><tbody><tr><td><a href="./Ravy.md" title="Ravy">Ravy</a></td><td><a href="/Re:Volte" class="mw-redirect" title="Re:Volte">Re:Volte</a></td><td>Tr.1-10</td></tr></tbody></table>
+<table><tbody><tr><td><a href="./Ravy.md" title="Ravy">Ravy</a></td><td><a href="./Re-Volte.md" class="mw-redirect" title="Re:Volte">Re:Volte</a></td><td>Tr.1-10</td></tr></tbody></table>
 
   
  **Vocal**   
@@ -28,7 +30,7 @@
   
  **Voice**   
 
-<table><tbody><tr><td><a href="/index.php?title=%E5%AE%AE%E5%86%85%E3%81%82%E3%81%84&amp;action=edit&amp;redlink=1" class="new" title="宮内あい（页面不存在）">宮内あい</a></td><td><a href="/Re:Volte" class="mw-redirect" title="Re:Volte">Re:Volte</a></td><td>Tr.1/3-10</td></tr><tr><td><a href="/index.php?title=%E7%AF%A0%E7%94%B0%E6%B4%8B%E6%81%B5&amp;action=edit&amp;redlink=1" class="new" title="篠田洋恵（页面不存在）">篠田洋恵</a></td><td></td><td>Tr.1/3-10</td></tr><tr><td><a href="/index.php?title=%E9%AB%98%E8%97%A4%E7%91%9E%E6%A8%B9&amp;action=edit&amp;redlink=1" class="new" title="高藤瑞樹（页面不存在）">高藤瑞樹</a></td><td></td><td>Tr.1/3-10</td></tr></tbody></table>
+<table><tbody><tr><td><a href="/index.php?title=%E5%AE%AE%E5%86%85%E3%81%82%E3%81%84&amp;action=edit&amp;redlink=1" class="new" title="宮内あい（页面不存在）">宮内あい</a></td><td><a href="./Re-Volte.md" class="mw-redirect" title="Re:Volte">Re:Volte</a></td><td>Tr.1/3-10</td></tr><tr><td><a href="/index.php?title=%E7%AF%A0%E7%94%B0%E6%B4%8B%E6%81%B5&amp;action=edit&amp;redlink=1" class="new" title="篠田洋恵（页面不存在）">篠田洋恵</a></td><td></td><td>Tr.1/3-10</td></tr><tr><td><a href="/index.php?title=%E9%AB%98%E8%97%A4%E7%91%9E%E6%A8%B9&amp;action=edit&amp;redlink=1" class="new" title="高藤瑞樹（页面不存在）">高藤瑞樹</a></td><td></td><td>Tr.1/3-10</td></tr></tbody></table>
 
   
  **Script**   
@@ -39,6 +41,7 @@
  **Lyrics**   
 
 <table><tbody><tr><td><a href="./saori.md" title="saori">saori</a></td><td><a href="/index.php?title=saori_project&amp;action=edit&amp;redlink=1" class="new" title="saori project（页面不存在）">saori project</a></td><td>Tr.2</td></tr></tbody></table>
+
 
 
 ## 曲目列表
@@ -53,6 +56,7 @@
 <tr><td id="8" class="infoG"><b>08</b></td><td id="帰結_～_ターミネイション" colspan="2" class="title">帰結 ～ ターミネイション<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Ravy&amp;dub=宮内あい，篠田洋恵，高藤瑞樹&amp;script=MAZE&amp;fromwiki=東方夢魔境_Half_asleep_and_Half_awake"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:55</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./Ravy.md" title="Ravy">Ravy</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Ravy&amp;fromwiki=東方夢魔境_Half_asleep_and_Half_awake"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">配音</td><td class="text" colspan="2"><a href="/index.php?title=%E5%AE%AE%E5%86%85%E3%81%82%E3%81%84&amp;action=edit&amp;redlink=1" class="new" title="宮内あい（页面不存在）">宮内あい</a>，<a href="/index.php?title=%E7%AF%A0%E7%94%B0%E6%B4%8B%E6%81%B5&amp;action=edit&amp;redlink=1" class="new" title="篠田洋恵（页面不存在）">篠田洋恵</a>，<a href="/index.php?title=%E9%AB%98%E8%97%A4%E7%91%9E%E6%A8%B9&amp;action=edit&amp;redlink=1" class="new" title="高藤瑞樹（页面不存在）">高藤瑞樹</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?dub=宮内あい，篠田洋恵，高藤瑞樹&amp;fromwiki=東方夢魔境_Half_asleep_and_Half_awake"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">剧本</td><td class="text" colspan="2"><a href="./Maze.md" title="Maze" unred="">MAZE</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?script=MAZE&amp;fromwiki=東方夢魔境_Half_asleep_and_Half_awake"><span></span></a></span></td></tr>
 <tr><td id="9" class="infoG"><b>09</b></td><td id="幻想曲" colspan="2" class="title">幻想曲<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Ravy&amp;dub=宮内あい，篠田洋恵，高藤瑞樹&amp;script=MAZE&amp;fromwiki=東方夢魔境_Half_asleep_and_Half_awake"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:56</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./Ravy.md" title="Ravy">Ravy</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Ravy&amp;fromwiki=東方夢魔境_Half_asleep_and_Half_awake"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">配音</td><td class="text" colspan="2"><a href="/index.php?title=%E5%AE%AE%E5%86%85%E3%81%82%E3%81%84&amp;action=edit&amp;redlink=1" class="new" title="宮内あい（页面不存在）">宮内あい</a>，<a href="/index.php?title=%E7%AF%A0%E7%94%B0%E6%B4%8B%E6%81%B5&amp;action=edit&amp;redlink=1" class="new" title="篠田洋恵（页面不存在）">篠田洋恵</a>，<a href="/index.php?title=%E9%AB%98%E8%97%A4%E7%91%9E%E6%A8%B9&amp;action=edit&amp;redlink=1" class="new" title="高藤瑞樹（页面不存在）">高藤瑞樹</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?dub=宮内あい，篠田洋恵，高藤瑞樹&amp;fromwiki=東方夢魔境_Half_asleep_and_Half_awake"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">剧本</td><td class="text" colspan="2"><a href="./Maze.md" title="Maze" unred="">MAZE</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?script=MAZE&amp;fromwiki=東方夢魔境_Half_asleep_and_Half_awake"><span></span></a></span></td></tr>
 <tr><td id="10" class="infoG"><b>10</b></td><td id="収録座談会_～_言葉を巧みに操る程度の能力" colspan="2" class="title">収録座談会 ～ 言葉を巧みに操る程度の能力<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Ravy&amp;dub=宮内あい，篠田洋恵，高藤瑞樹&amp;script=MAZE&amp;fromwiki=東方夢魔境_Half_asleep_and_Half_awake"><span title="搜索相似同人曲"></span></a></span></td><td class="time">08:01</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./Ravy.md" title="Ravy">Ravy</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Ravy&amp;fromwiki=東方夢魔境_Half_asleep_and_Half_awake"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">配音</td><td class="text" colspan="2"><a href="/index.php?title=%E5%AE%AE%E5%86%85%E3%81%82%E3%81%84&amp;action=edit&amp;redlink=1" class="new" title="宮内あい（页面不存在）">宮内あい</a>，<a href="/index.php?title=%E7%AF%A0%E7%94%B0%E6%B4%8B%E6%81%B5&amp;action=edit&amp;redlink=1" class="new" title="篠田洋恵（页面不存在）">篠田洋恵</a>，<a href="/index.php?title=%E9%AB%98%E8%97%A4%E7%91%9E%E6%A8%B9&amp;action=edit&amp;redlink=1" class="new" title="高藤瑞樹（页面不存在）">高藤瑞樹</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?dub=宮内あい，篠田洋恵，高藤瑞樹&amp;fromwiki=東方夢魔境_Half_asleep_and_Half_awake"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">剧本</td><td class="text" colspan="2"><a href="./Maze.md" title="Maze" unred="">MAZE</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?script=MAZE&amp;fromwiki=東方夢魔境_Half_asleep_and_Half_awake"><span></span></a></span></td></tr></tbody></table>
+
 
 
 ## 评论

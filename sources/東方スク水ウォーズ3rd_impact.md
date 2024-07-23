@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-東方スク水ウォーズ3rd_impact封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/f/f6/%E6%9D%B1%E6%96%B9%E3%82%B9%E3%82%AF%E6%B0%B4%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BA3rd_impact%E5%B0%81%E9%9D%A2.jpg/159px-%E6%9D%B1%E6%96%B9%E3%82%B9%E3%82%AF%E6%B0%B4%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BA3rd_impact%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="159" height="224" srcset="https://upload.thwiki.cc/thumb/f/f6/%E6%9D%B1%E6%96%B9%E3%82%B9%E3%82%AF%E6%B0%B4%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BA3rd_impact%E5%B0%81%E9%9D%A2.jpg/238px-%E6%9D%B1%E6%96%B9%E3%82%B9%E3%82%AF%E6%B0%B4%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BA3rd_impact%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/f/f6/%E6%9D%B1%E6%96%B9%E3%82%B9%E3%82%AF%E6%B0%B4%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BA3rd_impact%E5%B0%81%E9%9D%A2.jpg/318px-%E6%9D%B1%E6%96%B9%E3%82%B9%E3%82%AF%E6%B0%B4%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BA3rd_impact%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="600" data-file-height="846"></a><div class="cover-char">角色：<a href="./稗田阿求.md" title="稗田阿求">稗田阿求</a>，<a href="./上白泽慧音.md" title="上白泽慧音">上白泽慧音</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://yannosu1012.karou.jp/main/works.html#th21">http://yannosu1012.karou.jp/main/works.html#th21</a></td></tr></tbody></table>
 
 東方スク水ウォーズ3rd impact（同人志，Gallery Culter，2012） - 2012年5月27日 由 Gallery Culter 于 博丽神社例大祭9 发布的漫画同人志，B5尺寸一共36页，登场人物有 稗田阿求、上白泽慧音、藤原妹红，分级为 一般向
+
 ## Staff
 - [Culter](./Culter.md)
+
 
 ## 评论
 

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-NEW_HORI-ZUN：_English_Course_3封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/5/5d/NEW_HORI-ZUN%EF%BC%9A_English_Course_3%E5%B0%81%E9%9D%A2.jpg/139px-NEW_HORI-ZUN%EF%BC%9A_English_Course_3%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="139" height="196" srcset="https://upload.thwiki.cc/thumb/5/5d/NEW_HORI-ZUN%EF%BC%9A_English_Course_3%E5%B0%81%E9%9D%A2.jpg/208px-NEW_HORI-ZUN%EF%BC%9A_English_Course_3%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/5/5d/NEW_HORI-ZUN%EF%BC%9A_English_Course_3%E5%B0%81%E9%9D%A2.jpg/277px-NEW_HORI-ZUN%EF%BC%9A_English_Course_3%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="453" data-file-height="640"></a><div class="cover-char">角色：<a href="./古明地恋.md" title="古明地恋">古明地恋</a>，<a href="./火焰猫燐.md" title="火焰猫燐">火焰猫燐</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://aki.s335.xrea.com/index_2011-03.html">http://aki.s335.xrea.com/index_2011-03.html</a></td></tr></tbody></table>
 
 NEW HORI-ZUN： English Course 3（同人志，ddiction，2011） - 2011年5月8日 由 ddiction 于 博丽神社例大祭8 发布的漫画/其他同人志，B5尺寸一共56页，分级为 一般向
+
 ## 预览
 - [](./文件-NEW_HORI-ZUN：_English_Course_3预览图1.jpg.md)- [](./文件-NEW_HORI-ZUN：_English_Course_3预览图2.jpg.md)- [](./文件-NEW_HORI-ZUN：_English_Course_3预览图3.jpg.md)- [](./文件-NEW_HORI-ZUN：_English_Course_3预览图4.jpg.md)
+
 
 ## Staff
 Illustration
@@ -29,6 +32,7 @@ Illustration
 : でんこ （[Pixiv ID: 67857](https://www.pixiv.net/users/67857) / ペペロンチーノキャンディ (未找到链接)）
 Planning
 : N-Forza (未找到链接)
+
 
 ## 评论
   

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Matsuriuta_Workers_＃01封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/d/d9/Matsuriuta_Workers_%EF%BC%8301%E5%B0%81%E9%9D%A2.jpg/126px-Matsuriuta_Workers_%EF%BC%8301%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="126" height="168" srcset="https://upload.thwiki.cc/thumb/d/d9/Matsuriuta_Workers_%EF%BC%8301%E5%B0%81%E9%9D%A2.jpg/189px-Matsuriuta_Workers_%EF%BC%8301%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/d/d9/Matsuriuta_Workers_%EF%BC%8301%E5%B0%81%E9%9D%A2.jpg/252px-Matsuriuta_Workers_%EF%BC%8301%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="600" data-file-height="800"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>，<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a>，<a href="./东风谷早苗.md" title="东风谷早苗">东风谷早苗</a>，<a href="./八云紫.md" title="八云紫">八云紫</a>，<a href="./铃仙·优昙华院·因幡.md" title="铃仙·优昙华院·因幡">铃仙·优昙华院·因幡</a>，<a href="./米斯蒂娅·萝蕾拉.md" title="米斯蒂娅·萝蕾拉">米斯蒂娅·萝蕾拉</a></div></td>
@@ -13,6 +14,7 @@
 </tr><tr><td class="label">首发日期</td><td>2009-06-21&#160;（<a href="/展会作品列表?e=%E4%B8%9C%E6%96%B9%E5%B4%87%E6%95%AC%E7%A5%AD%231">第一回東方崇敬祭</a>）</td></tr><tr><td class="label">类型</td><td>画集</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">页数</td><td>20P</td></tr><tr><td class="label">售价</td><td>500日元</td></tr></tbody></table>
 
 Matsuriuta Workers ＃01（同人志，Rainbow Vanilla，2009） - 2009年6月21日 由 Rainbow Vanilla 于 东方崇敬祭1 发布的画集同人志，一共20页，分级为 一般向
+
 ## Staff
 - [祭唄](./祭唄.md)
 

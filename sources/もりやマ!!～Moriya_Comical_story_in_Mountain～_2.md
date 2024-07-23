@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-もりやマ!!～Moriya_Comical_story_in_Mountain～_2封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/e/e5/%E3%82%82%E3%82%8A%E3%82%84%E3%83%9E%21%21%EF%BD%9EMoriya_Comical_story_in_Mountain%EF%BD%9E_2%E5%B0%81%E9%9D%A2.png/158px-%E3%82%82%E3%82%8A%E3%82%84%E3%83%9E%21%21%EF%BD%9EMoriya_Comical_story_in_Mountain%EF%BD%9E_2%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="158" height="224" srcset="https://upload.thwiki.cc/thumb/e/e5/%E3%82%82%E3%82%8A%E3%82%84%E3%83%9E%21%21%EF%BD%9EMoriya_Comical_story_in_Mountain%EF%BD%9E_2%E5%B0%81%E9%9D%A2.png/238px-%E3%82%82%E3%82%8A%E3%82%84%E3%83%9E%21%21%EF%BD%9EMoriya_Comical_story_in_Mountain%EF%BD%9E_2%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/e/e5/%E3%82%82%E3%82%8A%E3%82%84%E3%83%9E%21%21%EF%BD%9EMoriya_Comical_story_in_Mountain%EF%BD%9E_2%E5%B0%81%E9%9D%A2.png/317px-%E3%82%82%E3%82%8A%E3%82%84%E3%83%9E%21%21%EF%BD%9EMoriya_Comical_story_in_Mountain%EF%BD%9E_2%E5%B0%81%E9%9D%A2.png 2x" data-file-width="800" data-file-height="1130"></a><div class="cover-char">角色：<a href="./河城荷取.md" title="河城荷取">河城荷取</a>，<a href="./射命丸文.md" title="射命丸文">射命丸文</a>，<a href="./犬走椛.md" title="犬走椛">犬走椛</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://yuzumomo-jam.blogspot.com/p/blog-page_6311.html">http://yuzumomo-jam.blogspot.com/p/blog-page_6311.html</a></td></tr></tbody></table>
 
 もりやマ!!～Moriya Comical story in Mountain～ 2（同人志，柚子桃ジャム，2008） - 2008年1月27日 由 柚子桃ジャム 于 东方漫画祭2 发布的漫画同人志，B5尺寸一共28页，登场人物有 东风谷早苗、八坂神奈子、洩矢诹访子，分级为 一般向
+
 ## Staff
 - 柚子桃 (未找到链接)
+
 
 ## 评论
 ```

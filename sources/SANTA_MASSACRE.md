@@ -4,7 +4,8 @@
 
 SANTA MASSACRE ，于 2011 年成立，主要制作 同人音乐 的日本同人社团，当前状态为 解散
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -20,14 +21,18 @@ SANTA MASSACRE ，于 2011 年成立，主要制作 同人音乐 的日本同人
 
 
 
+
 ## 社团信息
 文件:SANTA MASSACREbanner.jpg (未找到链接)  banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> SANTA MASSACRE </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2011</td></tr><tr><td><b>当前状态</b></td><td>解散</td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://santamassacre.blog41.fc2.com">http://santamassacre.blog41.fc2.com</a> </td></tr></tbody></table>
 
 SANTA MASSACRE（同人社团，同人音乐社团） - SANTA MASSACRE ，于 2011 年成立，主要制作 同人音乐 的日本同人社团，当前状态为 解散
+
 ## 成员名单
+
 ## 作品列表
+
 ### 同人专辑
 [](./SANTA_MASSACRE_1st_Demo_CD.md)[SANTA MASSACRE 1st Demo CD](./SANTA_MASSACRE_1st_Demo_CD.md)首发日期：2011-05-01 （M3-2011春 (未找到链接)）Demo （一般向）[](./SANTA_MASSACRE_2nd_Demo_CD.md)[SANTA MASSACRE 2nd Demo CD](./SANTA_MASSACRE_2nd_Demo_CD.md)首发日期：2011-09-11 （博麗神社例大祭SP2 (未找到链接)）Demo （一般向）[](./SANTA_MASSACRE_3rd_Demo_CD.md)[SANTA MASSACRE 3rd Demo CD](./SANTA_MASSACRE_3rd_Demo_CD.md)首发日期：2011-10-30 （M3-2011秋 (未找到链接)）Demo （一般向）[](./SANTA_MASSACRE_4th_Demo_CD.md)[SANTA MASSACRE 4th Demo CD](./SANTA_MASSACRE_4th_Demo_CD.md)首发日期：2012-05-27 （第九回 博麗神社例大祭 (未找到链接)）Demo （一般向）[](./SANTA_MASSACRE_5th_Demo_CD.md)[SANTA MASSACRE 5th Demo CD](./SANTA_MASSACRE_5th_Demo_CD.md)首发日期：2012-08-11 （Comic Market 82 (未找到链接)）Demo （一般向）[](./サンタマサカリ.md)[サンタマサカリ](./サンタマサカリ.md)首发日期：2013-05-26 （第十回 博麗神社例大祭 (未找到链接)）SM-001全长 （一般向）
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -42,6 +47,7 @@ SANTA MASSACRE（同人社团，同人音乐社团） - SANTA MASSACRE ，于 20
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 其他信息

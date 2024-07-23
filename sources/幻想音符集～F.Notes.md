@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-幻想音符集～F.Notes封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/a/a8/%E5%B9%BB%E6%83%B3%E9%9F%B3%E7%AC%A6%E9%9B%86%EF%BD%9EF.Notes%E5%B0%81%E9%9D%A2.jpg/159px-%E5%B9%BB%E6%83%B3%E9%9F%B3%E7%AC%A6%E9%9B%86%EF%BD%9EF.Notes%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="159" height="224" srcset="https://upload.thwiki.cc/thumb/a/a8/%E5%B9%BB%E6%83%B3%E9%9F%B3%E7%AC%A6%E9%9B%86%EF%BD%9EF.Notes%E5%B0%81%E9%9D%A2.jpg/238px-%E5%B9%BB%E6%83%B3%E9%9F%B3%E7%AC%A6%E9%9B%86%EF%BD%9EF.Notes%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/a/a8/%E5%B9%BB%E6%83%B3%E9%9F%B3%E7%AC%A6%E9%9B%86%EF%BD%9EF.Notes%E5%B0%81%E9%9D%A2.jpg/318px-%E5%B9%BB%E6%83%B3%E9%9F%B3%E7%AC%A6%E9%9B%86%EF%BD%9EF.Notes%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1080" data-file-height="1521"></a></td>
@@ -14,10 +15,12 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://weibo.com/6619838228/H6kkirrWC">https://weibo.com/6619838228/H6kkirrWC</a></td></tr><tr><td class="label">备注</td><td colspan="2">随谱附赠：<a href="./幻想音符集（附录CD）.md" title="幻想音符集（附录CD）">幻想音符集（附录CD）</a></td></tr></tbody></table>
 
 幻想音符集～F.Notes（同人志，NFT conFuoco orchestra，2018） - 2018年12月15日 由 NFT conFuoco orchestra 于 COMICUP23 发布的乐谱同人志，A4尺寸一共80页，分级为 一般向
+
 ## Staff
 - Chikken (未找到链接)
 - [NJune六月](./NJune六月.md)
 - 时方GNaugEH (未找到链接)
+
 
 ## 评论
 

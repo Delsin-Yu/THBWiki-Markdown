@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-夢中クリエイション_～_Clarification_and_Daydream封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/b/bd/%E5%A4%A2%E4%B8%AD%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%82%B7%E3%83%A7%E3%83%B3_%EF%BD%9E_Clarification_and_Daydream%E5%B0%81%E9%9D%A2.jpg/224px-%E5%A4%A2%E4%B8%AD%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%82%B7%E3%83%A7%E3%83%B3_%EF%BD%9E_Clarification_and_Daydream%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="224" srcset="https://upload.thwiki.cc/thumb/b/bd/%E5%A4%A2%E4%B8%AD%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%82%B7%E3%83%A7%E3%83%B3_%EF%BD%9E_Clarification_and_Daydream%E5%B0%81%E9%9D%A2.jpg/336px-%E5%A4%A2%E4%B8%AD%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%82%B7%E3%83%A7%E3%83%B3_%EF%BD%9E_Clarification_and_Daydream%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/b/bd/%E5%A4%A2%E4%B8%AD%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%82%B7%E3%83%A7%E3%83%B3_%EF%BD%9E_Clarification_and_Daydream%E5%B0%81%E9%9D%A2.jpg/448px-%E5%A4%A2%E4%B8%AD%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%82%B7%E3%83%A7%E3%83%B3_%EF%BD%9E_Clarification_and_Daydream%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1024" data-file-height="1024"></a><div class="cover-char">角色：<a href="/index.php?title=%E5%8E%9F%E5%88%9B%E8%A7%92%E8%89%B2&amp;action=edit&amp;redlink=1" class="new" title="原创角色（页面不存在）">原创角色</a></div></td>
@@ -18,11 +19,13 @@
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://mysterycircle.booth.pm/items/4242284">Booth</a></td></tr></tbody></table>
 
 
+
 ## Staff
   
  **Compose**   
 
 <table><tbody><tr><td><a href="/index.php?title=mag&amp;action=edit&amp;redlink=1" class="new" title="mag（页面不存在）">mag</a></td><td><a href="./ミステリーサークル.md" title="ミステリーサークル">ミステリーサークル</a></td><td>Tr.1-5</td></tr></tbody></table>
+
 
 
 ## 曲目列表
@@ -32,6 +35,7 @@
 <tr><td id="3" class="infoYL"><b>03</b></td><td id="寂びなきネオ温泉街" colspan="2" class="title">寂びなきネオ温泉街<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=mag&amp;fromwiki=夢中クリエイション_～_Clarification_and_Daydream"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=mag&amp;action=edit&amp;redlink=1" class="new" title="mag（页面不存在）">mag</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，mag&amp;fromwiki=夢中クリエイション_～_Clarification_and_Daydream"><span></span></a></span></td></tr>
 <tr><td id="4" class="infoYL"><b>04</b></td><td id="泡沫夢幻の幻想郷" colspan="2" class="title">泡沫夢幻の幻想郷<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=mag&amp;fromwiki=夢中クリエイション_～_Clarification_and_Daydream"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=mag&amp;action=edit&amp;redlink=1" class="new" title="mag（页面不存在）">mag</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，mag&amp;fromwiki=夢中クリエイション_～_Clarification_and_Daydream"><span></span></a></span></td></tr>
 <tr><td id="5" class="infoYL"><b>05</b></td><td id="夢であいましょう" colspan="2" class="title">夢であいましょう<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=mag&amp;fromwiki=夢中クリエイション_～_Clarification_and_Daydream"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=mag&amp;action=edit&amp;redlink=1" class="new" title="mag（页面不存在）">mag</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，mag&amp;fromwiki=夢中クリエイション_～_Clarification_and_Daydream"><span></span></a></span></td></tr></tbody></table>
+
 
 
 ## 评论

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-SuwaMix3封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/a/a2/SuwaMix3%E5%B0%81%E9%9D%A2.jpg/139px-SuwaMix3%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="139" height="196" srcset="https://upload.thwiki.cc/thumb/a/a2/SuwaMix3%E5%B0%81%E9%9D%A2.jpg/209px-SuwaMix3%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/a/a2/SuwaMix3%E5%B0%81%E9%9D%A2.jpg/279px-SuwaMix3%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1181" data-file-height="1659"></a><div class="cover-char">角色：<a href="./洩矢诹访子.md" title="洩矢诹访子">洩矢诹访子</a></div></td>
@@ -18,9 +19,12 @@ SuwaMix3（同人志，ramyun，2023） - 2023年5月7日 由 ramyun 于 博丽�
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://ramdear.booth.pm/items/4771051">Booth（新刊6点Set）</a></td></tr></tbody></table>
 
 
+
 ## 预览
+
 ## Staff
 - [ラムディア](./ラムディア.md)
+
 
 ## 评论
 

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -40,11 +41,13 @@
 
 
 
+
 ## 基本信息
 
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">クリスタライズシルバー</td></tr><tr><td><b>译名</b></td><td>Crystallize Silver</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 Crystallize Silver（曲目） - 由 ZUN 创作的官方曲目，原名 クリスタライズシルバー
+
 ## 出现作品
 
 <table>
@@ -53,8 +56,11 @@ Crystallize Silver（曲目） - 由 ZUN 创作的官方曲目，原名 クリ�
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 东方妖妖梦
+
 #### WAV
   
 WAV版是游戏的原声带。
@@ -69,6 +75,7 @@ WAV版是游戏的原声带。
 </td></tr></tbody></table>
 
 
+
 #### MIDI
   
 MIDI版由Roland Sound Canvas 88Pro实机录音得到。
@@ -78,7 +85,9 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td><a href="./文件-th07_03.mid.md" title="文件:th07 03.mid">th07_03.mid</a></td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th07_03_SC88Pro.mp3.md" title="文件:th07 03 SC88Pro.mp3">th07_03_SC88Pro.mp3</a><br><audio src="https://upload.thwiki.cc/1/1c/th07_03_SC88Pro.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>th07_03.mid</td></tr><tr><td><b>音轨时长</b></td><td>1:11</td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 东方妖妖梦
 - Music Room (未找到链接)
 
@@ -92,8 +101,11 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
 ３．Crystallize Silver  
     银白色的雪的结晶的景象。  
     绝不是银子的结晶。
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
   
  **クリスタライズシルバー**  Crystallize Silver（银白的结晶）
@@ -109,7 +121,8 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
   - 蕾蒂的胸针是银的炼金符号。参见蕾蒂·霍瓦特洛克/分析考据#外貌 (未找到链接)。
 
 - 相关曲目
-  - 本曲主旋律与封魔录 (未找到链接)二面BOSS[明罗](./明罗.md)的主题曲[黑暗的力量](./黑暗的力量.md)相似。
+  - 本曲主旋律与[封魔录](./封魔录.md)二面BOSS[明罗](./明罗.md)的主题曲[黑暗的力量](./黑暗的力量.md)相似。
+
 
 
 ### 二次同人数据

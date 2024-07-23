@@ -4,6 +4,7 @@
 
 D.N.A.Softwares
 
+
 ## 关联
   
 [MASTER BURNER](./MASTER_BURNER.md)几乎是 SEGA 的旧街机游戏 After Burner的翻版，但主角换成了[魔理沙](./雾雨魔理沙.md)

@@ -4,7 +4,8 @@
 
 Missing Link ，主要制作 同人志 的日本同人社团，主催是 シンゴ，当前状态为 休止
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -20,18 +21,22 @@ Missing Link ，主要制作 同人志 的日本同人社团，主催是 シン�
 
 
 
+
 ## 社团信息
 文件:Missing Linkbanner.jpg (未找到链接)  banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Missing Link </td></tr><tr><td><b>主要作品类型</b></td><td>同人志</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=%E3%82%B7%E3%83%B3%E3%82%B4&amp;action=edit&amp;redlink=1" class="new" title="シンゴ（页面不存在）">シンゴ</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://missinglink.sakura.ne.jp/">http://missinglink.sakura.ne.jp/</a> <br><a rel="nofollow" class="external free" href="http://yaplog.jp/ml-blog/">http://yaplog.jp/ml-blog/</a> （旧官网）<span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><small>（<a rel="nofollow" class="external text" href="https://web.archive.org/web/20100217081315/http://yaplog.jp/ml-blog/">缓存页面</a>）</small></td></tr></tbody></table>
 
 Missing Link（同人社团，同人志社团） - Missing Link ，主要制作 同人志 的日本同人社团，主催是 シンゴ，当前状态为 休止
+
 ## 成员名单
 - シンゴ (未找到链接)
 
 : [Twitter: @shingo114](https://twitter.com/shingo114), [Pixiv ID: 6527](https://www.pixiv.net/users/6527)
 
+
 ## 作品列表
+
 ### 同人志
 闇ニ散ル桜 封面图片 (未找到链接)闇ニ散ル桜 (未找到链接)首发日期：未知 - 林檎飴 封面图片 (未找到链接)林檎飴 (未找到链接)首发日期：未知 - 白いブラウス、可愛い人 封面图片 (未找到链接)白いブラウス、可愛い人 (未找到链接)首发日期：未知 - TRICKSTeR 封面图片 (未找到链接)TRICKSTeR (未找到链接)首发日期：未知 - 誘感コレクション 封面图片 (未找到链接)誘感コレクション (未找到链接)首发日期：未知 - PSYCHEDELIC LOVER 封面图片 (未找到链接)PSYCHEDELIC LOVER (未找到链接)首发日期：未知 - Over 封面图片 (未找到链接)Over（同人志） (未找到链接)首发日期：未知 - the LAST SHOW 封面图片 (未找到链接)the LAST SHOW (未找到链接)首发日期：未知 - NEOTENY 封面图片 (未找到链接)NEOTENY (未找到链接)首发日期：未知 - the WORLD 封面图片 (未找到链接)the WORLD（同人志） (未找到链接)首发日期：未知 - NAKED LOVE 封面图片 (未找到链接)NAKED LOVE (未找到链接)首发日期：未知 - 神経がワレル暑い夜 封面图片 (未找到链接)神経がワレル暑い夜 (未找到链接)首发日期：未知 - Easter 封面图片 (未找到链接)Easter (未找到链接)首发日期：未知 - Over dose 封面图片 (未找到链接)Over dose（同人志） (未找到链接)首发日期：未知 - 
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -48,6 +53,7 @@ Missing Link（同人社团，同人志社团） - Missing Link ，主要制作 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458"></table>
+
 
 
 ## 参展信息

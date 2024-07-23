@@ -4,13 +4,15 @@
 
 Demetori ，于 2005 年成立，主要制作 同人音乐 的日本同人社团，主催是 九宝時，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
 - [2 成员名单](#成员名单)
 - [3 作品列表](#作品列表)
 - [4 其他信息](#其他信息)
+
 
 
 
@@ -22,9 +24,11 @@ Demetori ，于 2005 年成立，主要制作 同人音乐 的日本同人社团
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Demetori </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2005</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=%E4%B9%9D%E5%AE%9D%E6%99%82&amp;action=edit&amp;redlink=1" class="new" title="九宝時（页面不存在）">九宝時</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://www.kawachi.zaq.ne.jp/demetori/">http://www.kawachi.zaq.ne.jp/demetori/</a> <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><br><a rel="nofollow" class="external free" href="http://demetori.xii.jp/index.html">http://demetori.xii.jp/index.html</a></td></tr></tbody></table>
 
 Demetori（同人社团，同人音乐社团） - Demetori ，于 2005 年成立，主要制作 同人音乐 的日本同人社团，主催是 九宝時，当前状态为 活动
+
 ## 成员名单
 - 徳南 (未找到链接)：Guitar Bass Keyboard その他雑音 （[Twitter](http://twitter.com/tera_Demetori)）
 - 九宝時 (未找到链接)：Drum&amp;Percussion 鼻カウベル （[Twitter](https://twitter.com/kyuhojimae)）
+
 
 ## 作品列表
 [](./彼岸花葬_～the_view_of_spiral_riverside～.md)[彼岸花葬 ～the view of spiral riverside～](./彼岸花葬_～the_view_of_spiral_riverside～.md)首发日期：2005-12-30 （Comic Market 69 (未找到链接)）UIDEM-01全长 （一般向）该作品是与 [UI-70](./UI-70.md) 合作创作的UI-70/Demetori Presents Arranged music collection Vol.1   
@@ -57,6 +61,7 @@ Demetori（同人社团，同人音乐社团） - Demetori ，于 2005 年成立
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 其他信息

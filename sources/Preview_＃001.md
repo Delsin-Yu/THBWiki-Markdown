@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Preview_＃001封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/4/4e/Preview_%EF%BC%83001%E5%B0%81%E9%9D%A2.png/224px-Preview_%EF%BC%83001%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="224" height="107" srcset="https://upload.thwiki.cc/thumb/4/4e/Preview_%EF%BC%83001%E5%B0%81%E9%9D%A2.png/336px-Preview_%EF%BC%83001%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/4/4e/Preview_%EF%BC%83001%E5%B0%81%E9%9D%A2.png/448px-Preview_%EF%BC%83001%E5%B0%81%E9%9D%A2.png 2x" data-file-width="1274" data-file-height="610"></a></td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.xlproject.info/topic-20221009">https://www.xlproject.info/topic-20221009</a></td></tr><tr><td class="label">备注</td><td colspan="2">DLカード</td></tr></tbody></table>
 
 Preview ＃001（同人专辑，XL Project，2022） - 2022年10月9日 由 XL Project 于 东方红楼梦18 发布的Demo同人专辑，分级为 一般向
+
 ## Staff
   
  **Arrangement**   
@@ -21,9 +23,11 @@ Preview ＃001（同人专辑，XL Project，2022） - 2022年10月9日 由 XL P
 <table><tbody><tr><td><a href="./estha.md" title="estha">estha</a></td><td><a href="./XL_Project.md" title="XL Project">XL Project</a></td><td>Tr.1</td></tr></tbody></table>
 
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Ultimate_Truth_-_estha_organic_mix" colspan="2" class="title">Ultimate Truth - estha organic mix<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=estha&amp;ogmusic=アルティメットトゥルース&amp;fromwiki=Preview_＃001"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./estha.md" title="estha">estha</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，estha&amp;fromwiki=Preview_＃001"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=アルティメットトゥルース&amp;fromwiki=Preview_＃001"><span></span></a></span><div class="ogmusic"><a href="/%E3%82%A2%E3%83%AB%E3%83%86%E3%82%A3%E3%83%A1%E3%83%83%E3%83%88%E3%83%88%E3%82%A5%E3%83%AB%E3%83%BC%E3%82%B9" class="mw-redirect" title="アルティメットトゥルース">アルティメットトゥルース</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E5%A6%96%E5%A6%96%E6%A2%A6_%EF%BD%9E_Perfect_Cherry_Blossom." class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Ultimate_Truth_-_estha_organic_mix" colspan="2" class="title">Ultimate Truth - estha organic mix<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=estha&amp;ogmusic=アルティメットトゥルース&amp;fromwiki=Preview_＃001"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./estha.md" title="estha">estha</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，estha&amp;fromwiki=Preview_＃001"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=アルティメットトゥルース&amp;fromwiki=Preview_＃001"><span></span></a></span><div class="ogmusic"><a href="./アルティメットトゥルース.md" class="mw-redirect" title="アルティメットトゥルース">アルティメットトゥルース</a></div><div class="source"><a href="./东方妖妖梦_～_Perfect_Cherry_Blossom..md" class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

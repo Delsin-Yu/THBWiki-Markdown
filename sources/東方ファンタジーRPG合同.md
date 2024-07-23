@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-東方ファンタジーRPG合同封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/b/b7/%E6%9D%B1%E6%96%B9%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCRPG%E5%90%88%E5%90%8C%E5%B0%81%E9%9D%A2.jpg/100px-%E6%9D%B1%E6%96%B9%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCRPG%E5%90%88%E5%90%8C%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="100" height="140" srcset="https://upload.thwiki.cc/thumb/b/b7/%E6%9D%B1%E6%96%B9%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCRPG%E5%90%88%E5%90%8C%E5%B0%81%E9%9D%A2.jpg/150px-%E6%9D%B1%E6%96%B9%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCRPG%E5%90%88%E5%90%8C%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/b/b7/%E6%9D%B1%E6%96%B9%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCRPG%E5%90%88%E5%90%8C%E5%B0%81%E9%9D%A2.jpg/200px-%E6%9D%B1%E6%96%B9%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCRPG%E5%90%88%E5%90%8C%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="777" data-file-height="1087"></a><div class="cover-char">角色：<a href="/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C" title="十六夜咲夜">十六夜咲夜</a>，<a href="./八云紫.md" title="八云紫">八云紫</a>，<a href="./红美铃.md" title="红美铃">红美铃</a>，<a href="./琪露诺.md" title="琪露诺">琪露诺</a>，<a href="./清兰.md" title="清兰">清兰</a>，<a href="./永江衣玖.md" title="永江衣玖">永江衣玖</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/71020069">https://www.pixiv.net/artworks/71020069</a></td></tr></tbody></table>
 
 東方ファンタジーRPG合同（同人志，ユージーランド，2018） - 2018年10月14日 由 ユージーランド 于 博丽神社秋季例大祭5 发布的漫画同人志，分级为 一般向
+
 ## Staff
 - [優治](./優治.md)
+
 
 ## 评论
 

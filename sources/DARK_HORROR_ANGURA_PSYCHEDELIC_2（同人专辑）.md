@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-DARK_HORROR_ANGURA_PSYCHEDELIC_2（同人专辑）封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/9/9a/DARK_HORROR_ANGURA_PSYCHEDELIC_2%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2.png/139px-DARK_HORROR_ANGURA_PSYCHEDELIC_2%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="139" height="196" srcset="https://upload.thwiki.cc/thumb/9/9a/DARK_HORROR_ANGURA_PSYCHEDELIC_2%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2.png/208px-DARK_HORROR_ANGURA_PSYCHEDELIC_2%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/9/9a/DARK_HORROR_ANGURA_PSYCHEDELIC_2%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2.png/277px-DARK_HORROR_ANGURA_PSYCHEDELIC_2%EF%BC%88%E5%90%8C%E4%BA%BA%E4%B8%93%E8%BE%91%EF%BC%89%E5%B0%81%E9%9D%A2.png 2x" data-file-width="2508" data-file-height="3541"></a><div class="cover-char">角色：<a href="./古明地觉.md" title="古明地觉">古明地觉</a>，<a href="./古明地恋.md" title="古明地恋">古明地恋</a></div></td>
@@ -17,6 +18,7 @@ DARK HORROR ANGURA PSYCHEDELIC 2（同人专辑，東条堂，2021） - 2021年3
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://eiji-toujyou.booth.pm/items/2815904">Booth</a></td></tr></tbody></table>
 
 
+
 ## Staff
   
  **Arrangement**   
@@ -24,9 +26,11 @@ DARK HORROR ANGURA PSYCHEDELIC 2（同人专辑，東条堂，2021） - 2021年3
 <table><tbody><tr><td><a href="/index.php?title=%E5%84%AA%E6%9C%88&amp;action=edit&amp;redlink=1" class="new" title="優月（页面不存在）">優月</a></td><td></td><td>Tr.1</td></tr></tbody></table>
 
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="PANDORA" colspan="2" class="title">PANDORA<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=優月&amp;ogmusic=故郷の星が映る海&amp;fromwiki=DARK_HORROR_ANGURA_PSYCHEDELIC_2（同人专辑）"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E5%84%AA%E6%9C%88&amp;action=edit&amp;redlink=1" class="new" title="優月（页面不存在）">優月</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，優月&amp;fromwiki=DARK_HORROR_ANGURA_PSYCHEDELIC_2（同人专辑）"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=故郷の星が映る海&amp;fromwiki=DARK_HORROR_ANGURA_PSYCHEDELIC_2（同人专辑）"><span></span></a></span><div class="ogmusic"><a href="/%E6%95%85%E9%83%B7%E3%81%AE%E6%98%9F%E3%81%8C%E6%98%A0%E3%82%8B%E6%B5%B7" class="mw-redirect" title="故郷の星が映る海">故郷の星が映る海</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E7%BB%80%E7%8F%A0%E4%BC%A0_%EF%BD%9E_Legacy_of_Lunatic_Kingdom." class="mw-redirect" title="东方绀珠传 ～ Legacy of Lunatic Kingdom.">东方绀珠传　～ Legacy of Lunatic Kingdom.</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="PANDORA" colspan="2" class="title">PANDORA<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=優月&amp;ogmusic=故郷の星が映る海&amp;fromwiki=DARK_HORROR_ANGURA_PSYCHEDELIC_2（同人专辑）"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E5%84%AA%E6%9C%88&amp;action=edit&amp;redlink=1" class="new" title="優月（页面不存在）">優月</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，優月&amp;fromwiki=DARK_HORROR_ANGURA_PSYCHEDELIC_2（同人专辑）"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=故郷の星が映る海&amp;fromwiki=DARK_HORROR_ANGURA_PSYCHEDELIC_2（同人专辑）"><span></span></a></span><div class="ogmusic"><a href="./故郷の星が映る海.md" class="mw-redirect" title="故郷の星が映る海">故郷の星が映る海</a></div><div class="source"><a href="./东方绀珠传_～_Legacy_of_Lunatic_Kingdom..md" class="mw-redirect" title="东方绀珠传 ～ Legacy of Lunatic Kingdom.">东方绀珠传　～ Legacy of Lunatic Kingdom.</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

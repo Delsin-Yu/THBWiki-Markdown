@@ -6,15 +6,18 @@
 
 本页是关于东方Project  
  **二次同人创作者** 的词条
+
 ## 基本信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="label"><b>名称</b></td><td> チマQ </td></tr><tr><td class="label"><b>所属社团</b></td><td><b>当前</b><div style="margin-left:2em;"><a href="./あばらんち.md" title="あばらんち">あばらんち</a></div></td></tr><tr><td class="label"><b>职位</b></td><td>主催，绘师</td></tr><tr><td class="label"><b>个人页面</b></td><td><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><b>Twitter</b></td><td><a rel="nofollow" class="external free" href="https://twitter.com/timaQ3m">https://twitter.com/timaQ3m</a></td></tr><tr><td><b>Pixiv</b></td><td><a rel="nofollow" class="external free" href="https://www.pixiv.net/users/226089">https://www.pixiv.net/users/226089</a></td></tr></tbody></table></td></tr></tbody></table>
 
 チマQ（人物） - 现实人物
+
 ## 介绍
   
 画风偏萝莉。
   
+
 
 ## 参与作品
 

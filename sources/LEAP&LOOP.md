@@ -4,7 +4,8 @@
 
 LEAP&LOOP ，主要制作 同人音乐 的日本同人社团，当前状态为 休止
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -21,19 +22,23 @@ LEAP&LOOP ，主要制作 同人音乐 的日本同人社团，当前状态为 �
 
 
 
+
 ## 社团信息
 文件:LEAP&amp;LOOPbanner.jpg (未找到链接)  banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> LEAP&#38;LOOP </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://leapandloop.web.fc2.com/web/index.html">http://leapandloop.web.fc2.com/web/index.html</a> </td></tr></tbody></table>
 
 LEAP&amp;LOOP（同人社团，同人音乐社团） - LEAP&amp;LOOP ，主要制作 同人音乐 的日本同人社团，当前状态为 休止
+
 ## 成员名单
 - 受精卵 (未找到链接)：Vocals
 - 麻疹 (未找到链接)：Bass
 - [雷神](./雷神（视频）.md)：Guitar, Keyboard
 - 琥珀 (未找到链接)：Drums
 
+
 ## 作品列表
+
 ### 同人专辑
 [](./Over_image.md)[Over image](./Over_image.md)首发日期：2011-08-13 （Comic Market 80 (未找到链接)）EP （一般向）[](./Variable_mind.md)[Variable mind](./Variable_mind.md)首发日期：2011-12-30 （Comic Market 81 (未找到链接)）EP （一般向）[](./受精卵曰く「燃えよ赤灯_Red_Satellite_CD」Z.md)[受精卵曰く「燃えよ赤灯 Red Satellite CD」Z](./受精卵曰く「燃えよ赤灯_Red_Satellite_CD」Z.md)首发日期：2012-05-27 （第九回 博麗神社例大祭 (未找到链接)）EP （一般向）[](./God_girls.md)[God girls](./God_girls.md)首发日期：2012-12-30 （Comic Market 83 (未找到链接)）EP （一般向）[](./SANAROCK!!.md)[SANAROCK!!](./SANAROCK!!.md)首发日期：2013-05-26 （第十回 博麗神社例大祭 (未找到链接)）全长、​合作 （一般向）[](./循環する結末.md)[循環する結末](./循環する結末.md)首发日期：2013-05-26 （第十回 博麗神社例大祭 (未找到链接)）全长 （一般向）[](./共鳴を待つ再生.md)[共鳴を待つ再生](./共鳴を待つ再生.md)首发日期：2014-05-11 （第十一回 博麗神社例大祭 (未找到链接)）EP （一般向）
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -52,9 +57,11 @@ LEAP&amp;LOOP（同人社团，同人音乐社团） - LEAP&amp;LOOP ，主要�
 </table>
 
 
+
 ## 参展信息
 
 <table><tbody><tr><th class="活动页面">活动页面</th><th class="活动名称">活动名称</th><th class="日期">日期</th><th class="举办地点">举办地点</th><th class="摊位编号">摊位编号</th><th class="宣传页面">宣传页面</th><th class="备注">备注</th></tr><tr data-row-number="1" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#11" title="博丽神社例大祭">博丽神社例大祭#11</a></span></td><td class="活动名称 smwtype_txt">第十一回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2456788.5">2014-05-11</td><td class="举办地点 smwtype_txt">东京Big Sight 东123456展厅</td><td class="摊位编号 smwtype_txt">う35a</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="2" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#10" title="博丽神社例大祭">博丽神社例大祭#10</a></span></td><td class="活动名称 smwtype_txt">第十回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2456438.5">2013-05-26</td><td class="举办地点 smwtype_txt">东京Big Sight 东123456展厅</td><td class="摊位编号 smwtype_txt">C39b</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr></tbody></table>
+
 
 
 ## 其他信息

@@ -4,7 +4,8 @@
 
 PhantomMist ，于 2011 年成立，主要制作 同人音乐 的日本同人社团，主催是 LiK-K，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -16,16 +17,19 @@ PhantomMist ，于 2011 年成立，主要制作 同人音乐 的日本同人社
 
 
 
+
 ## 社团信息
 [](./文件-PhantomMistbanner.gif.md)  [](./文件-PhantomMistbanner.gif.md)banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> PhantomMist </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2011</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=LiK-K&amp;action=edit&amp;redlink=1" class="new" title="LiK-K（页面不存在）">LiK-K</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://phantommist.net/">http://phantommist.net/</a> <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><br><a rel="nofollow" class="external free" href="http://phantommist.blog.fc2.com/">http://phantommist.blog.fc2.com/</a> <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span></td></tr></tbody></table>
 
 PhantomMist（同人社团，同人音乐社团） - PhantomMist ，于 2011 年成立，主要制作 同人音乐 的日本同人社团，主催是 LiK-K，当前状态为 活动
+
 ## 成员名单
 - LiK-K (未找到链接)
 - せつにゃ (未找到链接)
 - [UltraMArine](./ultramarine.md)
+
 
 ## 作品列表
 [](./End_of_Xillion.md)[End of Xillion](./End_of_Xillion.md)首发日期：2011-10-30 （M3-2011秋 (未找到链接)）全长 （一般向）[](./Tri-Emblems_of_Memories.md)[Tri-Emblems of Memories](./Tri-Emblems_of_Memories.md)首发日期：2012-04-30 （M3-2012春 (未找到链接)）全长 （一般向）[](./Gathered_Celestical.md)[Gathered Celestical](./Gathered_Celestical.md)首发日期：2012-08-26 （東方桃源郷1 (未找到链接)）全长 （一般向）[](./Monarch's_Servant.md)[Monarch's Servant](./Monarch's_Servant.md)首发日期：2012-10-28 （M3-2012秋 (未找到链接)）全长 （一般向）Monarch’S Emissary 遊音幻想展ver 封面图片 (未找到链接)Monarch’S Emissary 遊音幻想展ver (未找到链接)首发日期：未知 - [](./Maiden's_Overture.md)[Maiden's Overture](./Maiden's_Overture.md)首发日期：2013-01-27 （遊音ファンタジウム2 (未找到链接)）全长 （一般向）[](./INVERSION.md)[INVERSION](./INVERSION.md)首发日期：2013-05-26 （第十回 博麗神社例大祭 (未找到链接)）全长 （一般向）[](./東方流転歌～睦～_プレビュー版.md)[東方流転歌～睦～ プレビュー版](./東方流転歌～睦～_プレビュー版.md)首发日期：2013-08-12 （Comic Market 84 (未找到链接)）Demo （一般向）[](./東方流転歌～睦～.md)[東方流転歌～睦～](./東方流転歌～睦～.md)首发日期：2013-10-13 （東方紅楼夢9 (未找到链接)）全长 （一般向）[](./Lively_Fillers.md)[Lively Fillers](./Lively_Fillers.md)首发日期：2013-10-13 （東方紅楼夢9 (未找到链接)）全长 （一般向）[](./例大祭プレビューCD.md)[例大祭プレビューCD](./例大祭プレビューCD.md)首发日期：2014-05-11 （第十一回 博麗神社例大祭 (未找到链接)）Demo （一般向）[](./Divine_Roar.md)[Divine Roar](./Divine_Roar.md)首发日期：2014-06-29 （遊音ファンタジウム4 (未找到链接)）全长 （一般向）[](./Little_wish_of_little.md)[Little wish of little](./Little_wish_of_little.md)首发日期：2015-12-30 （Comic Market 89 (未找到链接)）全长 （一般向）[](./Catharsis（PhantomMist）.md)[Catharsis](./Catharsis（PhantomMist）.md)首发日期：2016-05-08 （第十三回 博麗神社例大祭 (未找到链接)）全长 （一般向）[](./PHANTOM_FRAGMENTS.md)[PHANTOM FRAGMENTS](./PHANTOM_FRAGMENTS.md)首发日期：2016-08-13 （Comic Market 90 (未找到链接)）全长 （一般向）[](./E.M.Sorceress.md)[E.M.Sorceress](./E.M.Sorceress.md)首发日期：2016-08-13 （Comic Market 90 (未找到链接)）全长 （一般向）[](./Ancient_Truth.md)[Ancient Truth](./Ancient_Truth.md)首发日期：2016-12-29 （Comic Market 91 (未找到链接)）全长 （一般向）[](./X-Cipher.md)[X-Cipher](./X-Cipher.md)首发日期：2016-12-29 （Comic Market 91 (未找到链接)）全长 （一般向）[](./東方泡沫綺譚.md)[東方泡沫綺譚](./東方泡沫綺譚.md)首发日期：2017-08-11 （Comic Market 92 (未找到链接)）全长 （一般向）
@@ -68,9 +72,11 @@ PhantomMist（同人社团，同人音乐社团） - PhantomMist ，于 2011 年
 </table>
 
 
+
 ## 参展信息
 
 <table><tbody><tr><th class="活动页面">活动页面</th><th class="活动名称">活动名称</th><th class="日期">日期</th><th class="举办地点">举办地点</th><th class="摊位编号">摊位编号</th><th class="宣传页面">宣传页面</th><th class="备注">备注</th></tr><tr data-row-number="1" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#14" title="博丽神社例大祭">博丽神社例大祭#14</a></span></td><td class="活动名称 smwtype_txt">第十四回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2457880.5">2017-05-07</td><td class="举办地点 smwtype_txt">东京Big Sight 东123456展厅</td><td class="摊位编号 smwtype_txt">お21a</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="2" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#13" title="博丽神社例大祭">博丽神社例大祭#13</a></span></td><td class="活动名称 smwtype_txt">第十三回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2457516.5">2016-05-08</td><td class="举办地点 smwtype_txt">东京Big Sight 东123456展厅</td><td class="摊位编号 smwtype_txt">N21a</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="3" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E7%A7%8B%E5%AD%A3%E4%BE%8B%E5%A4%A7%E7%A5%AD#1" title="博丽神社秋季例大祭">博丽神社秋季例大祭#1</a></span></td><td class="活动名称 smwtype_txt">第一回 博麗神社秋季例大祭</td><td class="日期 smwtype_dat" data-sort-value="2456985.5">2014-11-24</td><td class="举办地点 smwtype_txt">东京Big Sight 东展厅</td><td class="摊位编号 smwtype_txt">た18a</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="4" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#11" title="博丽神社例大祭">博丽神社例大祭#11</a></span></td><td class="活动名称 smwtype_txt">第十一回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2456788.5">2014-05-11</td><td class="举办地点 smwtype_txt">东京Big Sight 东123456展厅</td><td class="摊位编号 smwtype_txt">お36b</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="5" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#10" title="博丽神社例大祭">博丽神社例大祭#10</a></span></td><td class="活动名称 smwtype_txt">第十回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2456438.5">2013-05-26</td><td class="举办地点 smwtype_txt">东京Big Sight 东123456展厅</td><td class="摊位编号 smwtype_txt">E38b</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="6" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#9" title="博丽神社例大祭">博丽神社例大祭#9</a></span></td><td class="活动名称 smwtype_txt">第九回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2456074.5">2012-05-27</td><td class="举办地点 smwtype_txt">东京Big Sight 东123456展厅</td><td class="摊位编号 smwtype_txt">お-15a</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr></tbody></table>
+
 
 
 ## 其他信息

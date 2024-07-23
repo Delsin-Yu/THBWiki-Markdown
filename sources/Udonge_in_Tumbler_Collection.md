@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=Udonge_in_Tumbler_Collection%E5%B0%81%E9%9D%A2.jpg" class="new" title="文件:Udonge in Tumbler Collection封面.jpg">封面图片</a></td>
@@ -14,12 +15,14 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://udonge.in/">http://udonge.in/</a><br><span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><small>（<a rel="nofollow" class="external text" href="https://web.archive.org/web/20051025082242/http://udonge.in/">缓存页面</a>）</small></td></tr></tbody></table>
 
 Udonge in Tumbler Collection（同人志，ChronicleStation，2005） - 2005年8月14日 由 ChronicleStation 于 Comic Market 68 发布的绘本/合同志同人志，A4尺寸，登场人物有 铃仙·优昙华院·因幡，分级为 一般向
+
 ## Staff
 - x6suke （[ManiaX55](./ManiaX55.md)）
 - 相馬郁也 （[ChronicleStation](./ChronicleStation.md)）
 - 和泉カヅ （[明日の夜明け](http://daybreak.upper.jp/)（已经失效））
 - 立羽 （[Marvelous Grace](./Marvelous_Grace.md)）
 - 奥戸部 （[High on Hope](http://studio10.kdn.ne.jp/hoh/)（已经失效））
+
 
 ## 评论
 

@@ -6,6 +6,7 @@
 
 本页是整理东方Project  
  **相关资料** 的词条
+
 ## 目录
 
 - [1 概述](#概述)
@@ -15,6 +16,7 @@
 - [5 系统和运算](#系统和运算)
 - [6 音效](#音效)
 - [7 特殊变量表](#特殊变量表)
+
 
 
 
@@ -38,6 +40,7 @@ ECL最初由[pbg](./ぽんち.md)开发[秋霜玉](./秋霜玉.md)时发明，�
   
 以下为该语言相关的参考资料[。](./脚本对照表-ECL-后户之国.md)
   
+
 
 ### 分类
   
@@ -75,6 +78,7 @@ ECL的基本类型只有两种：整数（有符号）和浮点数（单精度�
   
 第二世代之后ECL引入了sub符号表，使部分指令从传入sub号变为了传入sub名，并且也能在反编译时获得原始sub名。
   
+
 
 ### 基本语法
   
@@ -381,6 +385,7 @@ return value
  将当前源代码函数设置为n行（不影响编译，只影响消息输出），n为整数
 ```
 
+
 ### Instruction表
 ```
   Instruction有 ins_xx（arg1，arg2，arg3.。。。） 表示，其中xx代表Instruction的编号，不同编号有不同的功能，
@@ -411,6 +416,7 @@ return value
   注：本表仅负责收录风神录后编号为200以前的指令，其余请到对应世代页面，对应世代通常也不会收录此处已有的指令。
       第一世代由于差异过大，故独立收录。
 ```
+
 
 ### 系统和运算
   
@@ -1078,6 +1084,7 @@ ins_94(float&amp; resX,float&amp; resY,float phi,float radiusY,float angle,float
     **离心角选择的是(phi-angle)这点就非常的神奇,可能2un想要的是在最终变换出的(旋转了angle度的)椭圆与直线y=tan(phi)x的交点,但是除非aspectRatio=1,不然这点和2un实际选择的点并不重合** 
 ```
 
+
 ### 音效
   
 本表是ECL脚本中播放音效相关函数的参数与实际音效的对应关系表。
@@ -1505,6 +1512,7 @@ ins_94(float&amp; resX,float&amp; resY,float phi,float radiusY,float angle,float
 <td>71</td>
 <td><a href="/index.php?title=%E6%96%87%E4%BB%B6:se_notice.mp3&amp;action=edit&amp;redlink=1" class="new" title="文件:se notice.mp3（页面不存在）">se_notice.mp3</a><br><a href="/index.php?title=%E6%96%87%E4%BB%B6:se_notice.mp3&amp;action=edit&amp;redlink=1" class="new" title="文件:se notice.mp3（页面不存在）">文件:se notice.mp3</a>
 </td></tr></tbody></table>
+
 
 
 ### 特殊变量表

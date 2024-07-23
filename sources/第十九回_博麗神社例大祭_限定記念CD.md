@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-第十九回_博麗神社例大祭_限定記念CD封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/f/f3/%E7%AC%AC%E5%8D%81%E4%B9%9D%E5%9B%9E_%E5%8D%9A%E9%BA%97%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD_%E9%99%90%E5%AE%9A%E8%A8%98%E5%BF%B5CD%E5%B0%81%E9%9D%A2.jpg/224px-%E7%AC%AC%E5%8D%81%E4%B9%9D%E5%9B%9E_%E5%8D%9A%E9%BA%97%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD_%E9%99%90%E5%AE%9A%E8%A8%98%E5%BF%B5CD%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="219" srcset="https://upload.thwiki.cc/thumb/f/f3/%E7%AC%AC%E5%8D%81%E4%B9%9D%E5%9B%9E_%E5%8D%9A%E9%BA%97%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD_%E9%99%90%E5%AE%9A%E8%A8%98%E5%BF%B5CD%E5%B0%81%E9%9D%A2.jpg/336px-%E7%AC%AC%E5%8D%81%E4%B9%9D%E5%9B%9E_%E5%8D%9A%E9%BA%97%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD_%E9%99%90%E5%AE%9A%E8%A8%98%E5%BF%B5CD%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/f/f3/%E7%AC%AC%E5%8D%81%E4%B9%9D%E5%9B%9E_%E5%8D%9A%E9%BA%97%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD_%E9%99%90%E5%AE%9A%E8%A8%98%E5%BF%B5CD%E5%B0%81%E9%9D%A2.jpg/448px-%E7%AC%AC%E5%8D%81%E4%B9%9D%E5%9B%9E_%E5%8D%9A%E9%BA%97%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD_%E9%99%90%E5%AE%9A%E8%A8%98%E5%BF%B5CD%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="512" data-file-height="501"></a><div class="cover-char">角色：<a href="./稗田阿求.md" title="稗田阿求">稗田阿求</a></div></td>
@@ -13,20 +14,24 @@
 </tr><tr><td class="label">首发日期</td><td>2022-05-08&#160;（<a href="/展会作品列表?e=%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD%2319">第十九回 博麗神社例大祭</a>）</td></tr><tr><td class="label">类型</td><td>全长</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>0</td></tr><tr><td class="label">总时长</td><td>00:00</td></tr><tr><td class="label">售价</td><td>会场售价：免费</td></tr></tbody></table>
 
 第十九回 博麗神社例大祭 限定記念CD（同人专辑，⑨ウリバタケ，2022） - 2022年5月8日 由 ⑨ウリバタケ 于 博丽神社例大祭19 发布的全长同人专辑，分级为 一般向
+
 ## Staff
 Design
 : 设计师 （[网址 社团]）
 Illustration
 : 画师 （[网址 社团]）
 
+
 ## 试听
   
 暂不支援此类型
   
 
+
 ## 曲目列表
 
 <table></table>
+
 
 
 ## 评论

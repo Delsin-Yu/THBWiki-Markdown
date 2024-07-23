@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 游戏信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-极彩multicolour~未完歌章封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/2/2e/%E6%9E%81%E5%BD%A9multicolour~%E6%9C%AA%E5%AE%8C%E6%AD%8C%E7%AB%A0%E5%B0%81%E9%9D%A2.png/224px-%E6%9E%81%E5%BD%A9multicolour~%E6%9C%AA%E5%AE%8C%E6%AD%8C%E7%AB%A0%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="224" height="224" srcset="https://upload.thwiki.cc/thumb/2/2e/%E6%9E%81%E5%BD%A9multicolour~%E6%9C%AA%E5%AE%8C%E6%AD%8C%E7%AB%A0%E5%B0%81%E9%9D%A2.png/336px-%E6%9E%81%E5%BD%A9multicolour~%E6%9C%AA%E5%AE%8C%E6%AD%8C%E7%AB%A0%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/2/2e/%E6%9E%81%E5%BD%A9multicolour~%E6%9C%AA%E5%AE%8C%E6%AD%8C%E7%AB%A0%E5%B0%81%E9%9D%A2.png/448px-%E6%9E%81%E5%BD%A9multicolour~%E6%9C%AA%E5%AE%8C%E6%AD%8C%E7%AB%A0%E5%B0%81%E9%9D%A2.png 2x" data-file-width="1772" data-file-height="1772"></a><div class="cover-char">角色：<a href="./古明地恋.md" title="古明地恋">古明地恋</a></div></td>
@@ -14,9 +15,11 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.multicolor.club/">https://www.multicolor.club/</a></td></tr><tr><td class="label">备注</td><td colspan="2">TCG（Trading Card Game)</td></tr></tbody></table>
 
 极彩multicolour~未完歌章（同人游戏，The 495th Complex，2023） - 2023年8月21日 由 The 495th Complex  发布的TAB同人游戏，可在 通用 系统上运行，游戏人数为 2人以上，分级为 一般向
+
 ## 内容页面
 - 官方网站：[The 495th Complex](https://www.multicolor.club/)
 - 官方哔哩哔哩：[https://space.bilibili.com/1629262586](https://space.bilibili.com/1629262586)
+
 
 ## 已发售内容
   

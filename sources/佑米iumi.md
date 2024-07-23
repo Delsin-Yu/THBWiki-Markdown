@@ -6,15 +6,22 @@
 
 本页是关于东方Project  
  **二次同人创作者** 的词条
+
 ## 基本信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="label"><b>名称</b></td><td> 佑米iumi </td></tr><tr><td class="label"><b>所属社团</b></td><td><b>当前</b><div style="margin-left:2em;"><a href="./Merry_Mellow.md" title="Merry Mellow">Merry Mellow</a></div></td></tr><tr><td class="label"><b>职位</b></td><td>演唱</td></tr><tr><td class="label"><b>参与社团</b></td><td><a href="./Merry_Mellow.md" title="Merry Mellow">Merry Mellow</a> （演唱）</td></tr><tr><td class="label"><b>性别</b></td><td>女</td></tr><tr><td class="label"><b>生日</b></td><td>01-01</td></tr><tr><td class="label"><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="https://space.bilibili.com/2074928787/">https://space.bilibili.com/2074928787/</a></td></tr><tr><td class="label"><b>个人页面</b></td><td><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><b>bilibili</b></td><td><a rel="nofollow" class="external free" href="https://space.bilibili.com/2057795113">https://space.bilibili.com/2057795113</a></td></tr></tbody></table></td></tr></tbody></table>
 
 佑米iumi（人物） - 现实人物
+
 ## 介绍
 - 在bilibili上的介绍：
 
-<unsupported html=blockquote>
+<blockquote>
+<p>你好，我是佑米(*≧▽≦)ﾉｼ)) 喜欢配音/唱歌/画画，不会日语，是罗马音战士（），头像是自设
+</p>
+</blockquote>
+
+
 ## 参与作品
 
 

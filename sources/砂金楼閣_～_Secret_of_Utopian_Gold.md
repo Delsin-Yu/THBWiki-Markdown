@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-砂金楼閣_～_Secret_of_Utopian_Gold封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/3/3e/%E7%A0%82%E9%87%91%E6%A5%BC%E9%96%A3_%EF%BD%9E_Secret_of_Utopian_Gold%E5%B0%81%E9%9D%A2.jpg/280px-%E7%A0%82%E9%87%91%E6%A5%BC%E9%96%A3_%EF%BD%9E_Secret_of_Utopian_Gold%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="280" height="280" srcset="https://upload.thwiki.cc/thumb/3/3e/%E7%A0%82%E9%87%91%E6%A5%BC%E9%96%A3_%EF%BD%9E_Secret_of_Utopian_Gold%E5%B0%81%E9%9D%A2.jpg/420px-%E7%A0%82%E9%87%91%E6%A5%BC%E9%96%A3_%EF%BD%9E_Secret_of_Utopian_Gold%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/3/3e/%E7%A0%82%E9%87%91%E6%A5%BC%E9%96%A3_%EF%BD%9E_Secret_of_Utopian_Gold%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="500" data-file-height="500"></a><div class="cover-char">角色：<a href="./宇佐见莲子.md" title="宇佐见莲子">宇佐见莲子</a>，<a href="./玛艾露贝莉·赫恩.md" title="玛艾露贝莉·赫恩">玛艾露贝莉·赫恩</a></div></td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://www.eonet.ne.jp/~torash/GBCD-0028.html">http://www.eonet.ne.jp/~torash/GBCD-0028.html</a></td></tr><tr><td class="label">备注</td><td colspan="2">全曲改编自<a href="./北海道調査_~_Traces_of_Utopian_Civilisation.md" title="北海道調査 ~ Traces of Utopian Civilisation">北海道調査 ~ Traces of Utopian Civilisation</a></td></tr></tbody></table>
 
 砂金楼閣 ～ Secret of Utopian Gold（同人专辑，ごんばこんなか，2020） - 2020年10月11日 由 ごんばこんなか 于 东方红楼梦16 发布的全长/混音集同人专辑，曲目主要风格是 其他电子，分级为 一般向
+
 ## Staff
   
  **Compose**   
@@ -29,11 +31,13 @@
 Design，Illustration
 : 虹田まじる (未找到链接) （[虚無と20銭](./虚無と20銭.md)）
 
+
 ## 试听
   
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/898696777&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=false"></iframe>
 
   
+
 
 ## 曲目列表
 
@@ -47,6 +51,7 @@ Design，Illustration
 <tr><td id="8" class="infoO"><b>08</b></td><td id="価値という名の無価値" colspan="2" class="title">価値という名の無価値<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Aka Kyuketsuki，hiiiima&amp;fromwiki=砂金楼閣_～_Secret_of_Utopian_Gold"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:40</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=Aka_Kyuketsuki&amp;action=edit&amp;redlink=1" class="new" title="Aka Kyuketsuki（页面不存在）">Aka Kyuketsuki</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Aka Kyuketsuki&amp;fromwiki=砂金楼閣_～_Secret_of_Utopian_Gold"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">再编曲</td><td class="text" colspan="2"><a href="/index.php?title=hiiiima&amp;action=edit&amp;redlink=1" class="new" title="hiiiima（页面不存在）">hiiiima</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=hiiiima&amp;fromwiki=砂金楼閣_～_Secret_of_Utopian_Gold"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">初发布</td><td class="text" colspan="2"><a href="/%E5%8C%97%E6%B5%B7%E9%81%93%E8%AA%BF%E6%9F%BB_~_Traces_of_Utopian_Civilisation#8" title="北海道調査 ~ Traces of Utopian Civilisation">宮殿の金剛涙</a><div class="source"><a href="./北海道調査_~_Traces_of_Utopian_Civilisation.md" title="北海道調査 ~ Traces of Utopian Civilisation">北海道調査 ~ Traces of Utopian Civilisation</a></div></td></tr>
 <tr><td id="9" class="infoO"><b>09</b></td><td id="インビジブルチェイサー" colspan="2" class="title">インビジブルチェイサー<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Aka Kyuketsuki，とらっしゅ&amp;fromwiki=砂金楼閣_～_Secret_of_Utopian_Gold"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:25</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=Aka_Kyuketsuki&amp;action=edit&amp;redlink=1" class="new" title="Aka Kyuketsuki（页面不存在）">Aka Kyuketsuki</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Aka Kyuketsuki&amp;fromwiki=砂金楼閣_～_Secret_of_Utopian_Gold"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">再编曲</td><td class="text" colspan="2"><a href="./とらっしゅ.md" title="とらっしゅ">とらっしゅ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=とらっしゅ&amp;fromwiki=砂金楼閣_～_Secret_of_Utopian_Gold"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">初发布</td><td class="text" colspan="2"><a href="/%E5%8C%97%E6%B5%B7%E9%81%93%E8%AA%BF%E6%9F%BB_~_Traces_of_Utopian_Civilisation#9" title="北海道調査 ~ Traces of Utopian Civilisation">アンシーンマドネス</a><div class="source"><a href="./北海道調査_~_Traces_of_Utopian_Civilisation.md" title="北海道調査 ~ Traces of Utopian Civilisation">北海道調査 ~ Traces of Utopian Civilisation</a></div></td></tr>
 <tr><td id="10" class="infoO"><b>10</b></td><td id="日出処の二人_～_From_the_Land_of_the_Rising_Sun" colspan="2" class="title">日出処の二人　～ From the Land of the Rising Sun<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Aka Kyuketsuki，とらっしゅ&amp;fromwiki=砂金楼閣_～_Secret_of_Utopian_Gold"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:24</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=Aka_Kyuketsuki&amp;action=edit&amp;redlink=1" class="new" title="Aka Kyuketsuki（页面不存在）">Aka Kyuketsuki</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Aka Kyuketsuki&amp;fromwiki=砂金楼閣_～_Secret_of_Utopian_Gold"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">再编曲</td><td class="text" colspan="2"><a href="./とらっしゅ.md" title="とらっしゅ">とらっしゅ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=とらっしゅ&amp;fromwiki=砂金楼閣_～_Secret_of_Utopian_Gold"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">初发布</td><td class="text" colspan="2"><a href="/%E5%8C%97%E6%B5%B7%E9%81%93%E8%AA%BF%E6%9F%BB_~_Traces_of_Utopian_Civilisation#10" title="北海道調査 ~ Traces of Utopian Civilisation">大世界の上に漂うニつの雪片</a><div class="source"><a href="./北海道調査_~_Traces_of_Utopian_Civilisation.md" title="北海道調査 ~ Traces of Utopian Civilisation">北海道調査 ~ Traces of Utopian Civilisation</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

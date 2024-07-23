@@ -4,8 +4,10 @@
 
 菜酱
 
+
 ## 故事背景
 - [故事背景](./東方霊尋夢~Journey_for_the_Half-Spirit-设定与剧情-故事背景.md)
+
 
 ## 游戏对话
 - [魂魄妖梦 游戏对话/结局](./東方霊尋夢~Journey_for_the_Half-Spirit-设定与剧情-魂魄妖梦.md)

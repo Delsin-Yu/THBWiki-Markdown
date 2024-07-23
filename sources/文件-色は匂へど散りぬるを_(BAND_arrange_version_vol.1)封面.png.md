@@ -9,7 +9,7 @@
   
 
 - [色は匂へど散りぬるを (BAND arrange version vol.1)](./色は匂へど散りぬるを_(BAND_arrange_version_vol.1).md)  
-该封面包含的角色：- [senya](./senya.md)- ikuo (未找到链接)
+该封面包含的角色：- [senya](./senya.md)- [ikuo](./ikuo.md)
 
 
 

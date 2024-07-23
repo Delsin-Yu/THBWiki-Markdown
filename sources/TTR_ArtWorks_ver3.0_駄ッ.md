@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-TTR_ArtWorks_ver3.0_駄ッ封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/1/1a/TTR_ArtWorks_ver3.0_%E9%A7%84%E3%83%83%E5%B0%81%E9%9D%A2.jpg/196px-TTR_ArtWorks_ver3.0_%E9%A7%84%E3%83%83%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="196" height="140" srcset="https://upload.thwiki.cc/thumb/1/1a/TTR_ArtWorks_ver3.0_%E9%A7%84%E3%83%83%E5%B0%81%E9%9D%A2.jpg/294px-TTR_ArtWorks_ver3.0_%E9%A7%84%E3%83%83%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/1/1a/TTR_ArtWorks_ver3.0_%E9%A7%84%E3%83%83%E5%B0%81%E9%9D%A2.jpg/392px-TTR_ArtWorks_ver3.0_%E9%A7%84%E3%83%83%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="450" data-file-height="321"></a><div class="cover-char">角色：<a href="./比那名居天子.md" title="比那名居天子">比那名居天子</a></div></td>
@@ -17,9 +18,11 @@ TTR ArtWorks ver3.0 駄ッ（同人志，あぶら畑グランテッド，2014�
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=115733">蜜瓜</a></td></tr></tbody></table>
 
 
+
 ## Staff
 主催
 : [真島てつろー](./真島てつろー.md)
+
 
 ## 评论
   

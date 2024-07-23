@@ -14,6 +14,7 @@
   
 
 <center><big><big> **如果对编程苦手而直接想使用API进行专辑资料填写的话,可以直接跳转到基于此API的[Mp3tag插件](#实作范例)** </big></big></center>
+
 ## 目录
 
 - [1 简介](#简介)
@@ -70,6 +71,7 @@
 
 
 
+
 ## 简介
   
 此API的链接是[https://thwiki.cc/album.php](https://thwiki.cc/album.php)。
@@ -83,8 +85,11 @@
 - 获取专辑：用以上搜索提供的 **SMWID** 或词条名获取专辑资料和专辑含有的曲目资料列表
 - 获取曲目：用以上搜索提供的 **SMWID** 列表获取曲目资料列表
 
+
 ## 参数及用法
+
 ### 通用
+
 #### m / 查询模式
   
 任何查询都必须含有此参数，用于判断查询模式，允许的值为：
@@ -104,6 +109,7 @@
 使用获取专辑模式
 : [https://thwiki.cc/album.php?m=2](https://thwiki.cc/album.php?m=2)
 
+
 #### g / gzip压缩等级
   
 指定gzip压缩等级，0为不压缩，最大只接受2（因为2以上效果差别不大），默认为1。即使设定数字大于0，若用户端/浏览器不支持gzip，则不管怎样也不会压缩。长度在1024字节以内的内容也不会压缩。
@@ -114,6 +120,7 @@
 : [https://thwiki.cc/album.php?m=sa&amp;v=pop+Culture+5&amp;g=0](https://thwiki.cc/album.php?m=sa&amp;v=pop Culture 5&amp;g=0)
 搜索“mono”，要求返回社团名，要求等级2的压缩
 : [https://thwiki.cc/album.php?m=sa&amp;v=mono&amp;o=1&amp;g=2](https://thwiki.cc/album.php?m=sa&amp;v=mono&amp;o=1&amp;g=2)
+
 
 #### d / 结果格式
   
@@ -142,9 +149,11 @@
  **\t** id **\t** aSMWID **\t** bSMWID **\n\t** 参数名1 **\t** a内容1 **\t** b内容1 **\n\t** 参数名2 **\t** a内容2 **\t** b内容2 **\n** `
 的结构返回纯文字文本，多值的内容会强制被“|”串起来，搜索模式会省略参数名
 
+
 ### 搜索专辑
 搜索专辑模式
 : [https://thwiki.cc/album.php?m=sa](https://thwiki.cc/album.php?m=sa)
+
 
 #### v / 搜索字串
   
@@ -159,6 +168,7 @@
 搜索“mono”
 : [https://thwiki.cc/album.php?m=sa&amp;v=mono](https://thwiki.cc/album.php?m=sa&amp;v=mono)
 
+
 #### o / 是否返回社团名
   
 若含有此参数，搜索返回的专辑列表会包含专辑的制作社团名，多社团合作的专辑只会返回其中一个社团。
@@ -172,6 +182,7 @@
 搜索“mono”，要求返回社团名
 : [https://thwiki.cc/album.php?m=sa&amp;v=mono&amp;o=1](https://thwiki.cc/album.php?m=sa&amp;v=mono&amp;o=1)
 
+
 #### l / 限制结果数量
   
 可以设定显示搜索返回的最大结果数量，默认为10，最多可以设为30。
@@ -184,6 +195,7 @@
 : [https://thwiki.cc/album.php?m=sa&amp;v=pop+Culture+5&amp;o=1&amp;l=1](https://thwiki.cc/album.php?m=sa&amp;v=pop Culture 5&amp;o=1&amp;l=1)
 搜索“mono”，要求返回社团名，限制最大返回30个结果
 : [https://thwiki.cc/album.php?m=sa&amp;v=mono&amp;o=1&amp;l=30](https://thwiki.cc/album.php?m=sa&amp;v=mono&amp;o=1&amp;l=30)
+
 
 #### d / 结果格式
   
@@ -294,6 +306,7 @@
 *
 ```
 
+
 ### 搜索曲目
 搜索曲目模式
 : [https://thwiki.cc/album.php?m=st](https://thwiki.cc/album.php?m=st)
@@ -301,6 +314,7 @@
   
 大致和[搜索专辑](#搜索专辑)差不多，这里只列出有差异的项。
   
+
 
 #### v / 搜索字串
   
@@ -312,6 +326,7 @@
 : [https://thwiki.cc/album.php?m=st&amp;v=sky%20drive](https://thwiki.cc/album.php?m=st&amp;v=sky drive)
 搜索“ドリーム”
 : [https://thwiki.cc/album.php?m=st&amp;v=%E3%83%89%E3%83%AA%E3%83%BC%E3%83%A0](https://thwiki.cc/album.php?m=st&amp;v=ドリーム)
+
 
 #### o / 是否返回专辑名
   
@@ -325,6 +340,7 @@
 : [https://thwiki.cc/album.php?m=st&amp;v=sky%20drive&amp;o=1](https://thwiki.cc/album.php?m=st&amp;v=sky drive&amp;o=1)
 搜索“ドリーム”，要求返回专辑名
 : [https://thwiki.cc/album.php?m=st&amp;v=%E3%83%89%E3%83%AA%E3%83%BC%E3%83%A0&amp;o=1](https://thwiki.cc/album.php?m=st&amp;v=ドリーム&amp;o=1)
+
 
 #### d / 结果格式
   
@@ -379,9 +395,11 @@
 ]
 ```
 
+
 ### 获取专辑
 获取专辑模式
 : [https://thwiki.cc/album.php?m=ga](https://thwiki.cc/album.php?m=ga)
+
 
 #### f / 专辑属性请求列表
   
@@ -418,6 +436,7 @@
 获取SMWID是131939的专辑（POP｜CULTURE 5）的alname、event、date和eventprice
 : [https://thwiki.cc/album.php?m=ga&amp;a=131939&amp;f=alname+event+date+eventprice](https://thwiki.cc/album.php?m=ga&amp;a=131939&amp;f=alname event date eventprice)
 
+
 #### p / 曲目属性请求列表
   
 指定需要获取的曲目属性列表，属性名之间可以用空格、,或+分隔，不区分大小写，允许的属性为：
@@ -450,6 +469,7 @@
 获取SMWID是131939的专辑（POP｜CULTURE 5）的曲目的name、trackno、artist和ogmusic
 : [https://thwiki.cc/album.php?m=ga&amp;a=131939&amp;p=name+trackno+artist+ogmusic](https://thwiki.cc/album.php?m=ga&amp;a=131939&amp;p=name trackno artist ogmusic)
 
+
 #### a / 专辑SMWID
   
 指定获取的专辑的 **SMWID** ， **SMWID** 可以用搜索专辑模式获取。若你很确定专辑的词条名，又不想浪费时间用搜索专辑模式获取 **SMWID** ，那你可以用[参数t](#t_/_专辑词条名)。参数a和参数t同时存在时，会优先用参数a寻找专辑，找不到再用参数t。
@@ -461,6 +481,7 @@
 获取SMWID是131939的专辑（POP｜CULTURE 5）的alname、track和time
 : [https://thwiki.cc/album.php?m=ga&amp;f=alname+track+time&amp;a=131939](https://thwiki.cc/album.php?m=ga&amp;f=alname track time&amp;a=131939)
 
+
 #### t / 专辑词条名
   
 指定获取的专辑的词条名，会运行必须的重定向，以确保能获取符合条件的专辑，在你很确定专辑的词条名，又不想浪费时间用搜索专辑模式获取 **SMWID** 的时候就很有用。若你想对专辑名模糊搜索，使用比重定向更高级的匹配方式，或想获取一个列表的专辑，那你可以用[参数a](#a_/_专辑SMWID)。参数a和参数t同时存在时，会优先用参数a寻找专辑，找不到再用参数t。
@@ -471,6 +492,7 @@
 
 获取词条名是POP｜CULTURE 5的专辑的alname、track和time
 : [https://thwiki.cc/album.php?m=ga&amp;f=alname+track+time&amp;t=POP%EF%BD%9CCULTURE+5](https://thwiki.cc/album.php?m=ga&amp;f=alname track time&amp;t=POP｜CULTURE 5)
+
 
 #### s / 多值内容分隔符
   
@@ -484,6 +506,7 @@
 
 获取SMWID是131939的专辑（POP｜CULTURE 5）的曲目的name和ogmusic，并把属性用“/”串起来
 : [https://thwiki.cc/album.php?m=ga&amp;a=131939&amp;p=name+ogmusic&amp;s=/](https://thwiki.cc/album.php?m=ga&amp;a=131939&amp;p=name ogmusic&amp;s=/)
+
 
 #### d / 结果格式
   
@@ -709,6 +732,7 @@
 *
 ```
 
+
 ### 获取曲目
 获取曲目模式
 : [https://thwiki.cc/album.php?m=gt](https://thwiki.cc/album.php?m=gt)
@@ -716,6 +740,7 @@
   
 大致和[获取专辑](#获取专辑)差不多，这里只列出有差异的项。参数“a”、“t”、“f”均无效。
   
+
 
 #### i / 曲目SMWID列表
   
@@ -728,10 +753,12 @@
 获取SMWID是131943、131944和131945的曲目的name、time、arrange和ogmusic
 : [https://thwiki.cc/album.php?m=gt&amp;p=name+time+arrange+ogmusic&amp;i=131943,131944+131945](https://thwiki.cc/album.php?m=gt&amp;p=name time arrange ogmusic&amp;i=131943,131944,131945)
 
+
 #### d / 结果格式
   
 具体参考[d / 结果格式](#d_/_结果格式)。
   
+
 
 ## 实作范例
   

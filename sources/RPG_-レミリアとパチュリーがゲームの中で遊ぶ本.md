@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-RPG_-レミリアとパチュリーがゲームの中で遊ぶ本封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/6/62/RPG_-%E3%83%AC%E3%83%9F%E3%83%AA%E3%82%A2%E3%81%A8%E3%83%91%E3%83%81%E3%83%A5%E3%83%AA%E3%83%BC%E3%81%8C%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%AE%E4%B8%AD%E3%81%A7%E9%81%8A%E3%81%B6%E6%9C%AC%E5%B0%81%E9%9D%A2.jpg/158px-RPG_-%E3%83%AC%E3%83%9F%E3%83%AA%E3%82%A2%E3%81%A8%E3%83%91%E3%83%81%E3%83%A5%E3%83%AA%E3%83%BC%E3%81%8C%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%AE%E4%B8%AD%E3%81%A7%E9%81%8A%E3%81%B6%E6%9C%AC%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="158" height="224" srcset="https://upload.thwiki.cc/thumb/6/62/RPG_-%E3%83%AC%E3%83%9F%E3%83%AA%E3%82%A2%E3%81%A8%E3%83%91%E3%83%81%E3%83%A5%E3%83%AA%E3%83%BC%E3%81%8C%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%AE%E4%B8%AD%E3%81%A7%E9%81%8A%E3%81%B6%E6%9C%AC%E5%B0%81%E9%9D%A2.jpg/238px-RPG_-%E3%83%AC%E3%83%9F%E3%83%AA%E3%82%A2%E3%81%A8%E3%83%91%E3%83%81%E3%83%A5%E3%83%AA%E3%83%BC%E3%81%8C%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%AE%E4%B8%AD%E3%81%A7%E9%81%8A%E3%81%B6%E6%9C%AC%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/6/62/RPG_-%E3%83%AC%E3%83%9F%E3%83%AA%E3%82%A2%E3%81%A8%E3%83%91%E3%83%81%E3%83%A5%E3%83%AA%E3%83%BC%E3%81%8C%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%AE%E4%B8%AD%E3%81%A7%E9%81%8A%E3%81%B6%E6%9C%AC%E5%B0%81%E9%9D%A2.jpg/317px-RPG_-%E3%83%AC%E3%83%9F%E3%83%AA%E3%82%A2%E3%81%A8%E3%83%91%E3%83%81%E3%83%A5%E3%83%AA%E3%83%BC%E3%81%8C%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%AE%E4%B8%AD%E3%81%A7%E9%81%8A%E3%81%B6%E6%9C%AC%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="637" data-file-height="900"></a><div class="cover-char">角色：<a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a>，<a href="./帕秋莉·诺蕾姬.md" title="帕秋莉·诺蕾姬">帕秋莉·诺蕾姬</a></div></td>
@@ -18,11 +19,14 @@ RPG -レミリアとパチュリーがゲームの中で遊ぶ本（同人志，
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=1587545">蜜瓜</a></td></tr></tbody></table>
 
 
+
 ## 预览
 - [](./文件-RPG_-レミリアとパチュリーがゲームの中で遊ぶ本预览图1.jpg.md)- [](./文件-RPG_-レミリアとパチュリーがゲームの中で遊ぶ本预览图2.jpg.md)- [](./文件-RPG_-レミリアとパチュリーがゲームの中で遊ぶ本预览图3.jpg.md)
 
+
 ## Staff
 - [秋染ハツカ](./秋染ハツカ.md)
+
 
 ## 评论
 

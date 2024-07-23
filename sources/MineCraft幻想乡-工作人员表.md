@@ -12,6 +12,7 @@ MineCraft幻想乡
 - 按职务和工作列出，不忽略重复项。
 - 统计时间截至2021/5/19，名单有丟佚，仅供参考。
 
+
 ## 目录
 
 - [1 权限人员列表](#权限人员列表)
@@ -52,11 +53,14 @@ MineCraft幻想乡
 
 
 
+
 ## 权限人员列表
+
 ### 名誉服主
   
 囧仙 (未找到链接)
   
+
 
 ### 妖怪贤者
   
@@ -138,6 +142,7 @@ MineCraft幻想乡
 </td></tr></tbody></table>
 
 
+
 ### 大妖怪
   
 仅次于妖怪贤者的权限组。拥有工业妖怪和读心妖怪的全部权限。
@@ -155,6 +160,7 @@ MineCraft幻想乡
 </td>
 <td>Starmoire
 </td></tr></tbody></table>
+
 
 
 ### 工业妖怪
@@ -187,6 +193,7 @@ MineCraft幻想乡
 </td></tr></tbody></table>
 
 
+
 ### 读心妖怪
   
 读心妖怪为RPG妖怪的基本权限组，但很少使用，因为编辑NPC脚本需要op权限。
@@ -215,6 +222,7 @@ MineCraft幻想乡
 </td>
 <td>
 </td></tr></tbody></table>
+
 
 
 ### 妖怪
@@ -310,6 +318,7 @@ MineCraft幻想乡
 </td></tr></tbody></table>
 
 
+
 ### 上古贤者
   
 在旧版本中作出巨大贡献，已经摸了的贤者
@@ -374,6 +383,7 @@ MineCraft幻想乡
 </td>
 <td>
 </td></tr></tbody></table>
+
 
 
 ### 古代妖怪
@@ -514,7 +524,9 @@ MineCraft幻想乡
 </td></tr></tbody></table>
 
 
+
 ## 1.12.2工作人员
+
 ### 建筑
 
 <table>
@@ -586,6 +598,7 @@ MineCraft幻想乡
 </td></tr></tbody></table>
 
 
+
 ### RPG
 
 <table>
@@ -645,6 +658,7 @@ MineCraft幻想乡
 </td></tr></tbody></table>
 
 
+
 ### 时装
 
 <table>
@@ -662,6 +676,7 @@ MineCraft幻想乡
 </td></tr></tbody></table>
 
 
+
 ### 地铁系统
 
 <table>
@@ -673,6 +688,7 @@ MineCraft幻想乡
 </td>
 <td>雅音（MasaneMiyaPA）
 </td></tr></tbody></table>
+
 
 
 ### 美工
@@ -710,6 +726,7 @@ MineCraft幻想乡
 </td></tr></tbody></table>
 
 
+
 ### 音乐
 
 <table>
@@ -721,6 +738,7 @@ MineCraft幻想乡
 </td>
 <td>NJune六月
 </td></tr></tbody></table>
+
 
 
 ### 活动
@@ -760,6 +778,7 @@ MineCraft幻想乡
 </td>
 <td>西瓜（ShikiSuika）（地图）
 </td></tr></tbody></table>
+
 
 
 ### 宣传
@@ -840,6 +859,7 @@ MineCraft幻想乡
 </td>
 <td>
 </td></tr></tbody></table>
+
 
 
 ### 技术
@@ -970,7 +990,9 @@ MineCraft幻想乡
 </td></tr></tbody></table>
 
 
+
 ## 旧版本列表（过时）
+
 ### 管理协调人员
 服主
 :  **「囧仙」** 囧仙（JoesSR）
@@ -1012,6 +1034,7 @@ Black_neko(Lunaneko)，Baozou_Zac
 :  **「GO山大魔王」** gogo13
 
 ___
+
 
 ### 后勤工作人员
 材质包修改制作

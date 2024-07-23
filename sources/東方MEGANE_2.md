@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-東方MEGANE_2封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/e/e7/%E6%9D%B1%E6%96%B9MEGANE_2%E5%B0%81%E9%9D%A2.jpg/159px-%E6%9D%B1%E6%96%B9MEGANE_2%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="159" height="224" srcset="https://upload.thwiki.cc/thumb/e/e7/%E6%9D%B1%E6%96%B9MEGANE_2%E5%B0%81%E9%9D%A2.jpg/238px-%E6%9D%B1%E6%96%B9MEGANE_2%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/e/e7/%E6%9D%B1%E6%96%B9MEGANE_2%E5%B0%81%E9%9D%A2.jpg/317px-%E6%9D%B1%E6%96%B9MEGANE_2%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1200" data-file-height="1694"></a><div class="cover-char">角色：<a href="./古明地觉.md" title="古明地觉">古明地觉</a>，<a href="./古明地恋.md" title="古明地恋">古明地恋</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://lunadeluna.blog.shinobi.jp/未選択/例大祭新刊告知">http://lunadeluna.blog.shinobi.jp/未選択/例大祭新刊告知</a></td></tr></tbody></table>
 
 東方MEGANE 2（同人志，Lunade Luna，2012） - 2012年5月27日 由 Lunade Luna 于 博丽神社例大祭9 发布的画集同人志，B5尺寸一共23页，登场人物有 古明地觉、古明地恋、琪露诺、爱丽丝·玛格特洛依德、姬海棠果、米斯蒂娅·萝蕾拉、东风谷早苗、蕾米莉亚·斯卡蕾特、藤原妹红、圣白莲，分级为 一般向
+
 ## Staff
 - [鍋島テツヒロ](./鍋島テツヒロ.md)
+
 
 ## 评论
 

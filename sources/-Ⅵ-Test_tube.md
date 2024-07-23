@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件--Ⅵ-Test_tube封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/1/12/-%E2%85%A5-Test_tube%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="224" data-file-width="198" data-file-height="198"></a><div class="cover-char">角色：<a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a>，<a href="./古明地恋.md" title="古明地恋">古明地恋</a></div></td>
@@ -14,9 +15,11 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://www.junky-jam.com/music.html">http://www.junky-jam.com/music.html</a></td></tr></tbody></table>
 
 -Ⅵ-Test tube（同人专辑，JunKY-jaM，2015） - 2015年10月25日 由 JunKY-jaM 于 M3-2015秋 发布的EP同人专辑，分级为 一般向
+
 ## Staff
 Illustration
 : たま
+
 
 ## 试听
   
@@ -24,11 +27,13 @@ Illustration
 
   
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="info"><b>01</b></td><td id="She_is_U.N.O!" colspan="2" class="title">She is U.N.O!<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=U.N.オーエンは彼女なのか？&amp;fromwiki=-Ⅵ-Test_tube"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=U.N.オーエンは彼女なのか？&amp;fromwiki=-Ⅵ-Test_tube"><span></span></a></span><div class="ogmusic"><a href="/U.N.%E3%82%AA%E3%83%BC%E3%82%A8%E3%83%B3%E3%81%AF%E5%BD%BC%E5%A5%B3%E3%81%AA%E3%81%AE%E3%81%8B%EF%BC%9F" class="mw-redirect" title="U.N.オーエンは彼女なのか？">U.N.オーエンは彼女なのか？</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E7%BA%A2%E9%AD%94%E4%B9%A1_%EF%BD%9E_the_Embodiment_of_Scarlet_Devil." class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr>
-<tr><td id="2" class="info"><b>02</b></td><td id="blooming_unconsciously" colspan="2" class="title">blooming unconsciously<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=ラストリモート&amp;fromwiki=-Ⅵ-Test_tube"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=ラストリモート&amp;fromwiki=-Ⅵ-Test_tube"><span></span></a></span><div class="ogmusic"><a href="/%E3%83%A9%E3%82%B9%E3%83%88%E3%83%AA%E3%83%A2%E3%83%BC%E3%83%88" class="mw-redirect" title="ラストリモート">ラストリモート</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E5%9C%B0%E7%81%B5%E6%AE%BF_%EF%BD%9E_Subterranean_Animism." class="mw-redirect" title="东方地灵殿 ～ Subterranean Animism.">东方地灵殿　～ Subterranean Animism.</a></div></td></tr>
-<tr><td id="3" class="info"><b>03</b></td><td id="Fantastic_light" colspan="2" class="title">Fantastic light<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=蠢々秋月　～ Mooned Insect&amp;fromwiki=-Ⅵ-Test_tube"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=蠢々秋月　～ Mooned Insect&amp;fromwiki=-Ⅵ-Test_tube"><span></span></a></span><div class="ogmusic"><a href="/%E8%A0%A2%E3%80%85%E7%A7%8B%E6%9C%88_%EF%BD%9E_Mooned_Insect" class="mw-redirect" title="蠢々秋月 ～ Mooned Insect">蠢々秋月　～ Mooned Insect</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E6%B0%B8%E5%A4%9C%E6%8A%84_%EF%BD%9E_Imperishable_Night." class="mw-redirect" title="东方永夜抄 ～ Imperishable Night.">东方永夜抄　～ Imperishable Night.</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="info"><b>01</b></td><td id="She_is_U.N.O!" colspan="2" class="title">She is U.N.O!<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=U.N.オーエンは彼女なのか？&amp;fromwiki=-Ⅵ-Test_tube"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=U.N.オーエンは彼女なのか？&amp;fromwiki=-Ⅵ-Test_tube"><span></span></a></span><div class="ogmusic"><a href="./U.N.オーエンは彼女なのか？.md" class="mw-redirect" title="U.N.オーエンは彼女なのか？">U.N.オーエンは彼女なのか？</a></div><div class="source"><a href="./东方红魔乡_～_the_Embodiment_of_Scarlet_Devil..md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr>
+<tr><td id="2" class="info"><b>02</b></td><td id="blooming_unconsciously" colspan="2" class="title">blooming unconsciously<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=ラストリモート&amp;fromwiki=-Ⅵ-Test_tube"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=ラストリモート&amp;fromwiki=-Ⅵ-Test_tube"><span></span></a></span><div class="ogmusic"><a href="./ラストリモート.md" class="mw-redirect" title="ラストリモート">ラストリモート</a></div><div class="source"><a href="./东方地灵殿_～_Subterranean_Animism..md" class="mw-redirect" title="东方地灵殿 ～ Subterranean Animism.">东方地灵殿　～ Subterranean Animism.</a></div></td></tr>
+<tr><td id="3" class="info"><b>03</b></td><td id="Fantastic_light" colspan="2" class="title">Fantastic light<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=蠢々秋月　～ Mooned Insect&amp;fromwiki=-Ⅵ-Test_tube"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=蠢々秋月　～ Mooned Insect&amp;fromwiki=-Ⅵ-Test_tube"><span></span></a></span><div class="ogmusic"><a href="./蠢々秋月_～_Mooned_Insect.md" class="mw-redirect" title="蠢々秋月 ～ Mooned Insect">蠢々秋月　～ Mooned Insect</a></div><div class="source"><a href="./东方永夜抄_～_Imperishable_Night..md" class="mw-redirect" title="东方永夜抄 ～ Imperishable Night.">东方永夜抄　～ Imperishable Night.</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

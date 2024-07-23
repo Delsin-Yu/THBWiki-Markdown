@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-LiLi×2_-_RETURNED_-封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/d/da/LiLi%C3%972_-_RETURNED_-%E5%B0%81%E9%9D%A2.jpg/138px-LiLi%C3%972_-_RETURNED_-%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="138" height="196" srcset="https://upload.thwiki.cc/thumb/d/da/LiLi%C3%972_-_RETURNED_-%E5%B0%81%E9%9D%A2.jpg/207px-LiLi%C3%972_-_RETURNED_-%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/d/da/LiLi%C3%972_-_RETURNED_-%E5%B0%81%E9%9D%A2.jpg/276px-LiLi%C3%972_-_RETURNED_-%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="816" data-file-height="1157"></a><div class="cover-char">角色：<a href="./莉莉霍瓦特.md" title="莉莉霍瓦特">莉莉霍瓦特</a>，<a href="/%E8%8E%89%E8%8E%89%E9%9C%8D%E7%93%A6%E7%89%B9#莉莉霍瓦特（黑）" title="莉莉霍瓦特">莉莉黑</a></div></td>
@@ -16,6 +17,7 @@
 LiLi×2 - RETURNED -（同人志，夢見里，2018） - 2018年5月6日 由 夢見里 于 博丽神社例大祭15 发布的总集/漫画同人志，A5尺寸一共212页，分级为 一般向
 
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=357958">蜜瓜</a></td></tr></tbody></table>
+
 
 
 ## 收录作品
@@ -44,8 +46,10 @@ LiLi×2 - RETURNED -（同人志，夢見里，2018） - 2018年5月6日 由 夢
 </table>
 
 
+
 ## Staff
 - [ばくP](./ばくP.md)
+
 
 ## 评论
   

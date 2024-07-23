@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 软件信息](#软件信息)
@@ -13,6 +14,7 @@
 - [3 内容页面](#内容页面)
 - [4 宣传视频](#宣传视频)
 - [5 评论](#评论)
+
 
 
 
@@ -52,6 +54,7 @@ WILDLOTUS荒原幻想（同人游戏，lab ibl，2021） - 2021年11月26日 由
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://store.steampowered.com/app/1793740">Steam</a></td></tr></tbody></table>
 
 
+
 ## Staff
   
 骨鱼🐟
@@ -60,10 +63,12 @@ WILDLOTUS荒原幻想（同人游戏，lab ibl，2021） - 2021年11月26日 由
   
 硝糖
   
+
 ## 内容页面
 - 游戏设定与剧情 (未找到链接)
 - 攻略 (未找到链接)
 - 其他信息 (未找到链接)共享开发文档（游戏目前仍在开发中，有什么想法尽管写在里面）[https://docs.qq.com/doc/DQ2hlZEhOb2tZQkth](https://docs.qq.com/doc/DQ2hlZEhOb2tZQkth)
+
 
 ## 宣传视频
   
@@ -74,6 +79,7 @@ WILDLOTUS荒原幻想（同人游戏，lab ibl，2021） - 2021年11月26日 由
 
   
 [【国产东方同人游戏】个人制作的幻想乡开放世界游戏WILDLOTUS实机录像第三弹](https://www.bilibili.com/video/BV1EP4y1g7fj?spm_id_from=333.337.search-card.all.click)  
+
 
 ## 评论
 

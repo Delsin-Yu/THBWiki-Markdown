@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-CYTOKINE_ZYTOKINE_TOUHOU_DOUJIN_ARTWORKS_2016_-_2021封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/0/06/CYTOKINE_ZYTOKINE_TOUHOU_DOUJIN_ARTWORKS_2016_-_2021%E5%B0%81%E9%9D%A2.jpg/138px-CYTOKINE_ZYTOKINE_TOUHOU_DOUJIN_ARTWORKS_2016_-_2021%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="138" height="196" srcset="https://upload.thwiki.cc/thumb/0/06/CYTOKINE_ZYTOKINE_TOUHOU_DOUJIN_ARTWORKS_2016_-_2021%E5%B0%81%E9%9D%A2.jpg/207px-CYTOKINE_ZYTOKINE_TOUHOU_DOUJIN_ARTWORKS_2016_-_2021%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/0/06/CYTOKINE_ZYTOKINE_TOUHOU_DOUJIN_ARTWORKS_2016_-_2021%E5%B0%81%E9%9D%A2.jpg/276px-CYTOKINE_ZYTOKINE_TOUHOU_DOUJIN_ARTWORKS_2016_-_2021%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1402" data-file-height="1987"></a><div class="cover-char">角色：<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a></div></td>
@@ -18,11 +19,14 @@ CYTOKINE ZYTOKINE TOUHOU DOUJIN ARTWORKS 2016 - 2021（同人志，CYTOKINE，ZY
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://zytokine.booth.pm/items/2922727">Booth</a></td></tr></tbody></table>
 
 
+
 ## 预览
 - [](./文件-CYTOKINE_ZYTOKINE_TOUHOU_DOUJIN_ARTWORKS_2016_-_2021预览图1.jpg.md)- [](./文件-CYTOKINE_ZYTOKINE_TOUHOU_DOUJIN_ARTWORKS_2016_-_2021预览图2.jpg.md)- [](./文件-CYTOKINE_ZYTOKINE_TOUHOU_DOUJIN_ARTWORKS_2016_-_2021预览图3.jpg.md)
 
+
 ## Staff
-- 蒲焼うなぎ (未找到链接)
+- [蒲焼うなぎ](./蒲焼うなぎ.md)
+
 
 ## 评论
 

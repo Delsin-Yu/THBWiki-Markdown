@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Frog+Peace封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/6/6b/Frog%2BPeace%E5%B0%81%E9%9D%A2.png/224px-Frog%2BPeace%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="224" height="224" srcset="https://upload.thwiki.cc/thumb/6/6b/Frog%2BPeace%E5%B0%81%E9%9D%A2.png/336px-Frog%2BPeace%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/6/6b/Frog%2BPeace%E5%B0%81%E9%9D%A2.png/448px-Frog%2BPeace%E5%B0%81%E9%9D%A2.png 2x" data-file-width="2480" data-file-height="2480"></a><div class="cover-char">角色：<a href="./洩矢诹访子.md" title="洩矢诹访子">洩矢诹访子</a></div></td>
@@ -14,11 +15,13 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://music.163.com/album?id=132945120&amp;userid=118868155">https://music.163.com/album?id=132945120&amp;userid=118868155</a></td></tr></tbody></table>
 
 Frog+Peace（同人专辑，Electric Ginger，2021） - 2021年7月31日 由 Electric Ginger  发布的单曲同人专辑，曲目主要风格是 民族，分级为 一般向
+
 ## Staff
   
  **Arrangement**   
 
 <table><tbody><tr><td><a href="./Electric_Ginger.md" title="Electric Ginger">Electric Ginger</a></td><td></td><td>Tr.1</td></tr></tbody></table>
+
 
 
 ## 试听
@@ -27,9 +30,11 @@ Frog+Peace（同人专辑，Electric Ginger，2021） - 2021年7月31日 由 Ele
 
   
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Frog+peace" colspan="2" class="title">Frog+peace<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Electric Ginger&amp;ogmusic=明日ハレの日、ケの昨日&amp;fromwiki=Frog+Peace"><span title="搜索相似同人曲"></span></a></span></td><td class="time">02:53</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Electric_Ginger.md" title="Electric Ginger">Electric Ginger</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Electric Ginger&amp;fromwiki=Frog+Peace"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=明日ハレの日、ケの昨日&amp;fromwiki=Frog+Peace"><span></span></a></span><div class="ogmusic"><a href="/%E6%98%8E%E6%97%A5%E3%83%8F%E3%83%AC%E3%81%AE%E6%97%A5%E3%80%81%E3%82%B1%E3%81%AE%E6%98%A8%E6%97%A5" class="mw-redirect" title="明日ハレの日、ケの昨日">明日ハレの日、ケの昨日</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E9%A3%8E%E7%A5%9E%E5%BD%95_%EF%BD%9E_Mountain_of_Faith." class="mw-redirect" title="东方风神录 ～ Mountain of Faith.">东方风神录　～ Mountain of Faith.</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Frog+peace" colspan="2" class="title">Frog+peace<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Electric Ginger&amp;ogmusic=明日ハレの日、ケの昨日&amp;fromwiki=Frog+Peace"><span title="搜索相似同人曲"></span></a></span></td><td class="time">02:53</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Electric_Ginger.md" title="Electric Ginger">Electric Ginger</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Electric Ginger&amp;fromwiki=Frog+Peace"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=明日ハレの日、ケの昨日&amp;fromwiki=Frog+Peace"><span></span></a></span><div class="ogmusic"><a href="./明日ハレの日、ケの昨日.md" class="mw-redirect" title="明日ハレの日、ケの昨日">明日ハレの日、ケの昨日</a></div><div class="source"><a href="./东方风神录_～_Mountain_of_Faith..md" class="mw-redirect" title="东方风神录 ～ Mountain of Faith.">东方风神录　～ Mountain of Faith.</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

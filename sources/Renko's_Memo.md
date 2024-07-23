@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Renko's_Memo封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/c/cd/Renko%27s_Memo%E5%B0%81%E9%9D%A2.jpg/60px-Renko%27s_Memo%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="60" height="224" srcset="https://upload.thwiki.cc/thumb/c/cd/Renko%27s_Memo%E5%B0%81%E9%9D%A2.jpg/91px-Renko%27s_Memo%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/c/cd/Renko%27s_Memo%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="95" data-file-height="350"></a><div class="cover-char">角色：<a href="./宇佐见莲子.md" title="宇佐见莲子">宇佐见莲子</a></div></td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://allenemy.fc2web.com/c86/index.html">http://allenemy.fc2web.com/c86/index.html</a></td></tr></tbody></table>
 
 Renko's Memo（同人志，四面楚歌，2014） - 2014年8月16日 由 四面楚歌 于 Comic Market 86 发布的小说同人志，变形B6（60*182mm）尺寸一共64页，登场人物有 宇佐见莲子，分级为 一般向
+
 ## Staff
 表紙
 : 暮浦鶏太（[鶏肉生活](http://poulet.sakura.ne.jp/)）
@@ -21,6 +23,7 @@ Renko's Memo（同人志，四面楚歌，2014） - 2014年8月16日 由 四面�
 : [人比良](./人比良.md)（[四面楚歌](./四面楚歌.md)）
 組版
 : moki（[heri/hodie](http://herihodie.net/)）
+
 
 ## 评论
 

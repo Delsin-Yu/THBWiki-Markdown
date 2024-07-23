@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-プロジェクトK～挑戦者にとり封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/b/b6/%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88K%EF%BD%9E%E6%8C%91%E6%88%A6%E8%80%85%E3%81%AB%E3%81%A8%E3%82%8A%E5%B0%81%E9%9D%A2.jpg/224px-%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88K%EF%BD%9E%E6%8C%91%E6%88%A6%E8%80%85%E3%81%AB%E3%81%A8%E3%82%8A%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="224" srcset="https://upload.thwiki.cc/thumb/b/b6/%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88K%EF%BD%9E%E6%8C%91%E6%88%A6%E8%80%85%E3%81%AB%E3%81%A8%E3%82%8A%E5%B0%81%E9%9D%A2.jpg/336px-%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88K%EF%BD%9E%E6%8C%91%E6%88%A6%E8%80%85%E3%81%AB%E3%81%A8%E3%82%8A%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/b/b6/%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88K%EF%BD%9E%E6%8C%91%E6%88%A6%E8%80%85%E3%81%AB%E3%81%A8%E3%82%8A%E5%B0%81%E9%9D%A2.jpg/448px-%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88K%EF%BD%9E%E6%8C%91%E6%88%A6%E8%80%85%E3%81%AB%E3%81%A8%E3%82%8A%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="620" data-file-height="620"></a><div class="cover-char">角色：<a href="./河城荷取.md" title="河城荷取">河城荷取</a>，<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a>，<a href="./小野塚小町.md" title="小野塚小町">小野塚小町</a></div></td>
@@ -16,6 +17,7 @@
 プロジェクトK～挑戦者にとり（同人专辑，アイシーエス，2009） - 2009年1月18日 由 アイシーエス 于 COMIC LIVE名古屋2009 发布的配音作品同人专辑，分级为 一般向
 
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="http://www.dlsite.com/home/work/=/product_id/RJ046279.html">DLsite</a>，<a rel="nofollow" class="external text" href="https://circle-ics.booth.pm/items/59226">Booth</a></td></tr></tbody></table>
+
 
 
 ## Staff
@@ -47,6 +49,7 @@ Illustration
 Special Thanks
 : C.Ponapalt, 蔵龍, ひとーう, TJ
 
+
 ## 曲目列表
 
 <table><tbody><tr><td id="1" class="info"><b>01</b></td><td id="プロローグ～あやや！企画が通りません！" colspan="2" class="title">プロローグ～あやや！企画が通りません！<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?script=屋敷犬&amp;fromwiki=プロジェクトK～挑戦者にとり"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">剧本</td><td class="text" colspan="2"><a href="/index.php?title=%E5%B1%8B%E6%95%B7%E7%8A%AC&amp;action=edit&amp;redlink=1" class="new" title="屋敷犬（页面不存在）">屋敷犬</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?script=屋敷犬&amp;fromwiki=プロジェクトK～挑戦者にとり"><span></span></a></span></td></tr>
@@ -57,6 +60,7 @@ Special Thanks
 <tr><td id="6" class="info"><b>06</b></td><td id="宿敵登場？" colspan="2" class="title">宿敵登場？<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?script=屋敷犬&amp;fromwiki=プロジェクトK～挑戦者にとり"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">剧本</td><td class="text" colspan="2"><a href="/index.php?title=%E5%B1%8B%E6%95%B7%E7%8A%AC&amp;action=edit&amp;redlink=1" class="new" title="屋敷犬（页面不存在）">屋敷犬</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?script=屋敷犬&amp;fromwiki=プロジェクトK～挑戦者にとり"><span></span></a></span></td></tr>
 <tr><td id="7" class="info"><b>07</b></td><td id="いきなりラストジャッジメント" colspan="2" class="title">いきなりラストジャッジメント<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?script=屋敷犬&amp;fromwiki=プロジェクトK～挑戦者にとり"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">剧本</td><td class="text" colspan="2"><a href="/index.php?title=%E5%B1%8B%E6%95%B7%E7%8A%AC&amp;action=edit&amp;redlink=1" class="new" title="屋敷犬（页面不存在）">屋敷犬</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?script=屋敷犬&amp;fromwiki=プロジェクトK～挑戦者にとり"><span></span></a></span></td></tr>
 <tr><td id="8" class="info"><b>08</b></td><td id="エピローグ～そして桜はまた咲く" colspan="2" class="title">エピローグ～そして桜はまた咲く<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?script=屋敷犬&amp;fromwiki=プロジェクトK～挑戦者にとり"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">剧本</td><td class="text" colspan="2"><a href="/index.php?title=%E5%B1%8B%E6%95%B7%E7%8A%AC&amp;action=edit&amp;redlink=1" class="new" title="屋敷犬（页面不存在）">屋敷犬</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?script=屋敷犬&amp;fromwiki=プロジェクトK～挑戦者にとり"><span></span></a></span></td></tr></tbody></table>
+
 
 
 ## 评论

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-幻想追放_～_Paradius_enim_errat封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/8/87/%E5%B9%BB%E6%83%B3%E8%BF%BD%E6%94%BE_%EF%BD%9E_Paradius_enim_errat%E5%B0%81%E9%9D%A2.jpg/224px-%E5%B9%BB%E6%83%B3%E8%BF%BD%E6%94%BE_%EF%BD%9E_Paradius_enim_errat%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="224" srcset="https://upload.thwiki.cc/thumb/8/87/%E5%B9%BB%E6%83%B3%E8%BF%BD%E6%94%BE_%EF%BD%9E_Paradius_enim_errat%E5%B0%81%E9%9D%A2.jpg/336px-%E5%B9%BB%E6%83%B3%E8%BF%BD%E6%94%BE_%EF%BD%9E_Paradius_enim_errat%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/8/87/%E5%B9%BB%E6%83%B3%E8%BF%BD%E6%94%BE_%EF%BD%9E_Paradius_enim_errat%E5%B0%81%E9%9D%A2.jpg/448px-%E5%B9%BB%E6%83%B3%E8%BF%BD%E6%94%BE_%EF%BD%9E_Paradius_enim_errat%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1023" data-file-height="1024"></a><div class="cover-char">角色：<a href="/index.php?title=%E5%8E%9F%E5%88%9B%E8%A7%92%E8%89%B2&amp;action=edit&amp;redlink=1" class="new" title="原创角色（页面不存在）">原创角色</a></div></td>
@@ -18,11 +19,13 @@
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://komainudtm.booth.pm/items/5240317">BoothCD</a>，<a rel="nofollow" class="external text" href="https://komainudtm.booth.pm/items/5240301">BoothDL</a></td></tr></tbody></table>
 
 
+
 ## Staff
   
  **Compose**   
 
 <table><tbody><tr><td><a href="./こまいぬ.md" title="こまいぬ">こまいぬ</a></td><td></td><td>Tr.1/2/6/8/12/14</td></tr><tr><td><a href="/index.php?title=%E3%81%A1%E3%82%83%E3%81%BE&amp;action=edit&amp;redlink=1" class="new" title="ちゃま（页面不存在）">ちゃま</a></td><td></td><td>Tr.3/5/10</td></tr><tr><td><a href="./Burnyuho.md" title="Burnyuho">Burnyuho</a></td><td></td><td>Tr.4</td></tr><tr><td><a href="./或兎.md" title="或兎">或兎</a></td><td></td><td>Tr.7/11</td></tr><tr><td><a href="./古明地かなで.md" title="古明地かなで">古明地かなで</a></td><td></td><td>Tr.9</td></tr><tr><td><a href="/index.php?title=%E5%BF%AB%E6%99%B4&amp;action=edit&amp;redlink=1" class="new" title="快晴（页面不存在）">快晴</a></td><td></td><td>Tr.13</td></tr></tbody></table>
+
 
 
 ## 试听
@@ -35,6 +38,7 @@
 <tr>
 <td><iframe width="560" height="315" src="//www.youtube-nocookie.com/embed/mRNYqV4zyqQ?" frameborder="0" allowfullscreen=""></iframe>
 </td></tr></tbody></table>
+
 
 
 ## 曲目列表
@@ -53,6 +57,7 @@
 <tr><td id="12" class="infoYL"><b>12</b></td><td id="ハイブリッドリードデュオ_～_おぞましい二人" colspan="2" class="title">ハイブリッドリードデュオ　～ おぞましい二人<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=こまいぬ&amp;fromwiki=幻想追放_～_Paradius_enim_errat"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:51</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./こまいぬ.md" title="こまいぬ">こまいぬ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，こまいぬ&amp;fromwiki=幻想追放_～_Paradius_enim_errat"><span></span></a></span></td></tr>
 <tr><td id="13" class="infoYL"><b>13</b></td><td id="ヴァニタス・インテロゲイション" colspan="2" class="title">ヴァニタス・インテロゲイション<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=快晴&amp;fromwiki=幻想追放_～_Paradius_enim_errat"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:46</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=%E5%BF%AB%E6%99%B4&amp;action=edit&amp;redlink=1" class="new" title="快晴（页面不存在）">快晴</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，快晴&amp;fromwiki=幻想追放_～_Paradius_enim_errat"><span></span></a></span></td></tr>
 <tr><td id="14" class="infoYL"><b>14</b></td><td id="楽園追放" colspan="2" class="title">楽園追放<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=こまいぬ&amp;fromwiki=幻想追放_～_Paradius_enim_errat"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:32</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./こまいぬ.md" title="こまいぬ">こまいぬ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，こまいぬ&amp;fromwiki=幻想追放_～_Paradius_enim_errat"><span></span></a></span></td></tr></tbody></table>
+
 
 
 ## 评论

@@ -6,12 +6,14 @@
 
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 软件信息](#软件信息)
 - [2 Staff](#Staff)
 - [3 游戏介绍](#游戏介绍)
 - [4 评论](#评论)
+
 
 
 
@@ -24,6 +26,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://www.dna-softwares.com/">http://www.dna-softwares.com/</a></td></tr></tbody></table>
 
 Suica32（同人游戏，D.N.A.Softwares，2007） - 2007年8月17日 由 D.N.A.Softwares 于 Comic Market 72 发布的STG同人游戏，可在 Windows 系统上运行，游戏人数为 单人模式，分级为 一般向
+
 ## Staff
   
 D.N.A.  
@@ -33,6 +36,7 @@ D.N.A.
 犬衛瑞樹/ Illustrations  
 
   
+
 
 ## 游戏介绍
   
@@ -49,6 +53,7 @@ Bomb：Miss后自动B
 全屏和窗口之间切换:F1/Alt+Enter  
 
   
+
 
 ## 评论
 

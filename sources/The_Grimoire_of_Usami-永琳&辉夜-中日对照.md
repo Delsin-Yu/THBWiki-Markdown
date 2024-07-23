@@ -12,7 +12,7 @@ The_Grimoire_of_Usami | 使用了翻译表的页面 | 八意永琳 | 宇佐见�
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./The_Grimoire_of_Usami-蕾米莉亚&芙兰朵露-中日对照.md" title="The Grimoire of Usami/蕾米莉亚&amp;芙兰朵露/中日对照">蕾米莉亚&amp;芙兰朵露</a>&#160;
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="/%E5%AE%87%E4%BD%90%E8%A7%81%E7%9A%84%E9%AD%94%E6%B3%95%E4%B9%A6" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a>&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="./宇佐见的魔法书.md" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a>&#160;
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">&#160;<a href="./The_Grimoire_of_Usami-猯藏&鵺-中日对照.md" title="The Grimoire of Usami/猯藏&amp;鵺/中日对照">猯藏&amp;鵺</a>
 </td>
@@ -25,7 +25,7 @@ The_Grimoire_of_Usami | 使用了翻译表的页面 | 八意永琳 | 宇佐见�
 - 翻译：fumika_zero
 
 
-<table><tbody><tr class="tt-content-header" id="=-1" data-pos="&#91;&quot;=&quot;,1&#93;"><td class="tt-jah" lang="ja"><div class="poem">永夜符「蓬莱壺中の弾の枝」</div></td><td class="tt-zhh" lang="zh"><div class="poem"><a href="/%E6%B0%B8%E5%A4%9C%E7%AC%A6%E3%80%8C%E8%93%AC%E8%8E%B1%E5%A3%B6%E4%B8%AD%E7%9A%84%E5%BC%B9%E6%9E%9D%E3%80%8D" class="mw-redirect" title="永夜符「蓬莱壶中的弹枝」">永夜符「蓬莱壶中的弹枝」</a></div></td></tr><tr class="tt-content" id="=-2" data-pos="&#91;&quot;=&quot;,2&#93;"><td class="tt-ja" lang="ja"><div class="poem">使用者：永琳&amp;輝夜</div></td><td class="tt-zh" lang="zh"><div class="poem">使用者：<a href="./八意永琳.md" title="八意永琳">永琳</a>&amp;<a href="./蓬莱山辉夜.md" title="蓬莱山辉夜">辉夜</a></div></td></tr><tr class="tt-header" id="=-3" data-pos="&#91;&quot;=&quot;,3&#93;"><td colspan="2" id="八云紫" class="tt-header" lang="zh"><div class="poem">八云紫</div></td></tr><tr class="tt-content" id="=-4" data-pos="&#91;&quot;=&quot;,4&#93;"><td class="tt-ja" lang="ja"><div class="poem">あの手紙、役に立ったわ。事態を逆転させる能力って便利よねぇ。副産物でこんな珍しい弾幕も見られるなんて。</div></td><td class="tt-zh" lang="zh"><div class="poem">那封信，派上用场了啊。让事态逆转的能力真是方便呢。作为副产物居然能看到这么稀奇的弹幕。</div></td></tr><tr class="tt-header" id="=-5" data-pos="&#91;&quot;=&quot;,5&#93;"><td colspan="2" id="博丽灵梦" class="tt-header" lang="zh"><div class="poem">博丽灵梦</div></td></tr><tr class="tt-content" id="=-6" data-pos="&#91;&quot;=&quot;,6&#93;"><td class="tt-ja" lang="ja"><div class="poem">何の話？</div></td><td class="tt-zh" lang="zh"><div class="poem">你在说啥？</div></td></tr></tbody></table>
+<table><tbody><tr class="tt-content-header" id="=-1" data-pos="&#91;&quot;=&quot;,1&#93;"><td class="tt-jah" lang="ja"><div class="poem">永夜符「蓬莱壺中の弾の枝」</div></td><td class="tt-zhh" lang="zh"><div class="poem"><a href="./永夜符「蓬莱壶中的弹枝」.md" class="mw-redirect" title="永夜符「蓬莱壶中的弹枝」">永夜符「蓬莱壶中的弹枝」</a></div></td></tr><tr class="tt-content" id="=-2" data-pos="&#91;&quot;=&quot;,2&#93;"><td class="tt-ja" lang="ja"><div class="poem">使用者：永琳&amp;輝夜</div></td><td class="tt-zh" lang="zh"><div class="poem">使用者：<a href="./八意永琳.md" title="八意永琳">永琳</a>&amp;<a href="./蓬莱山辉夜.md" title="蓬莱山辉夜">辉夜</a></div></td></tr><tr class="tt-header" id="=-3" data-pos="&#91;&quot;=&quot;,3&#93;"><td colspan="2" id="八云紫" class="tt-header" lang="zh"><div class="poem">八云紫</div></td></tr><tr class="tt-content" id="=-4" data-pos="&#91;&quot;=&quot;,4&#93;"><td class="tt-ja" lang="ja"><div class="poem">あの手紙、役に立ったわ。事態を逆転させる能力って便利よねぇ。副産物でこんな珍しい弾幕も見られるなんて。</div></td><td class="tt-zh" lang="zh"><div class="poem">那封信，派上用场了啊。让事态逆转的能力真是方便呢。作为副产物居然能看到这么稀奇的弹幕。</div></td></tr><tr class="tt-header" id="=-5" data-pos="&#91;&quot;=&quot;,5&#93;"><td colspan="2" id="博丽灵梦" class="tt-header" lang="zh"><div class="poem">博丽灵梦</div></td></tr><tr class="tt-content" id="=-6" data-pos="&#91;&quot;=&quot;,6&#93;"><td class="tt-ja" lang="ja"><div class="poem">何の話？</div></td><td class="tt-zh" lang="zh"><div class="poem">你在说啥？</div></td></tr></tbody></table>
 
 
 <center>
@@ -36,7 +36,7 @@ The_Grimoire_of_Usami | 使用了翻译表的页面 | 八意永琳 | 宇佐见�
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./The_Grimoire_of_Usami-蕾米莉亚&芙兰朵露-中日对照.md" title="The Grimoire of Usami/蕾米莉亚&amp;芙兰朵露/中日对照">蕾米莉亚&amp;芙兰朵露</a>&#160;
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="/%E5%AE%87%E4%BD%90%E8%A7%81%E7%9A%84%E9%AD%94%E6%B3%95%E4%B9%A6" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a>&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="./宇佐见的魔法书.md" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a>&#160;
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">&#160;<a href="./The_Grimoire_of_Usami-猯藏&鵺-中日对照.md" title="The Grimoire of Usami/猯藏&amp;鵺/中日对照">猯藏&amp;鵺</a>
 </td>
@@ -45,6 +45,7 @@ The_Grimoire_of_Usami | 使用了翻译表的页面 | 八意永琳 | 宇佐见�
 
   
 </center>
+
 
 ## 词条导航
   

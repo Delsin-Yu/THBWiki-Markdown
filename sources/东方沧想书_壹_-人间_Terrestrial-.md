@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-东方沧想书_壹_-人间_Terrestrial-封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/c/cd/%E4%B8%9C%E6%96%B9%E6%B2%A7%E6%83%B3%E4%B9%A6_%E5%A3%B9_-%E4%BA%BA%E9%97%B4_Terrestrial-%E5%B0%81%E9%9D%A2.jpg/158px-%E4%B8%9C%E6%96%B9%E6%B2%A7%E6%83%B3%E4%B9%A6_%E5%A3%B9_-%E4%BA%BA%E9%97%B4_Terrestrial-%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="158" height="224" srcset="https://upload.thwiki.cc/thumb/c/cd/%E4%B8%9C%E6%96%B9%E6%B2%A7%E6%83%B3%E4%B9%A6_%E5%A3%B9_-%E4%BA%BA%E9%97%B4_Terrestrial-%E5%B0%81%E9%9D%A2.jpg/238px-%E4%B8%9C%E6%96%B9%E6%B2%A7%E6%83%B3%E4%B9%A6_%E5%A3%B9_-%E4%BA%BA%E9%97%B4_Terrestrial-%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/c/cd/%E4%B8%9C%E6%96%B9%E6%B2%A7%E6%83%B3%E4%B9%A6_%E5%A3%B9_-%E4%BA%BA%E9%97%B4_Terrestrial-%E5%B0%81%E9%9D%A2.jpg/317px-%E4%B8%9C%E6%96%B9%E6%B2%A7%E6%83%B3%E4%B9%A6_%E5%A3%B9_-%E4%BA%BA%E9%97%B4_Terrestrial-%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="600" data-file-height="848"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>，<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a>，<a href="./东风谷早苗.md" title="东风谷早苗">东风谷早苗</a></div></td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://www.kamiro.net/diary/info_2051.shtml">http://www.kamiro.net/diary/info_2051.shtml</a><br><a rel="nofollow" class="external free" href="http://www.kamiro.net/cn/cangxiangshu1-renjian.html">http://www.kamiro.net/cn/cangxiangshu1-renjian.html</a><br><span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span></td></tr><tr><td class="label">备注</td><td colspan="2">B5板画+B5影绘贴纸+御三家纸人模型，初回限定</td></tr></tbody></table>
 
 东方沧想书 壹 -人间 Terrestrial-（同人志，Kamiro's Comic Market，2011） - 2011年6月6日 由 Kamiro's Comic Market 于 COMICUP8 发布的绘本同人志，A4尺寸一共48页，登场人物有 博丽灵梦、雾雨魔理沙、十六夜咲夜、魂魄妖梦、铃仙·优昙华院·因幡、上白泽慧音、稗田阿求、东风谷早苗、西行寺幽幽子、圣白莲，分级为 一般向
+
 ## Staff
 绘画担当
 : 
@@ -38,6 +40,7 @@
 : 
 
 - Kamiro
+
 
 ## 评论
 

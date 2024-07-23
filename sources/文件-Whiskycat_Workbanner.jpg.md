@@ -4,6 +4,7 @@
 
 Whiskycat_Work | 社团LOGO
 
+
 ## 摘要
   
 源地址：[direct image link](https://web.archive.org/web/20190203224247im_/http://www.geocities.jp/trick_or_steal/bana.jpg), [source page](https://web.archive.org/web/20190204135328/http://www.geocities.jp/trick_or_steal/link.html)

@@ -4,7 +4,8 @@
 
 CYCLIC★REDUNDANCY ，主要制作 同人志 的西班牙同人社团，主催是 Ninamo，当前状态为 转入非东方
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -20,11 +21,13 @@ CYCLIC★REDUNDANCY ，主要制作 同人志 的西班牙同人社团，主催�
 
 
 
+
 ## 社团信息
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> CYCLIC★REDUNDANCY </td></tr><tr><td><b>主要作品类型</b></td><td>同人志</td></tr><tr><td><b>当前状态</b></td><td>转入非东方</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=Ninamo&amp;action=edit&amp;redlink=1" class="new" title="Ninamo（页面不存在）">Ninamo</a> </td></tr><tr><td><b>地区</b></td><td>西班牙</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="https://twitter.com/cyclic_red">https://twitter.com/cyclic_red</a> <br><a rel="nofollow" class="external free" href="http://cyclic-redundancy.com/">http://cyclic-redundancy.com/</a> <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><br><a rel="nofollow" class="external free" href="https://www.deviantart.com/cyclic-redundancy">https://www.deviantart.com/cyclic-redundancy</a></td></tr></tbody></table>
 
 CYCLIC★REDUNDANCY（同人社团，同人志社团） - CYCLIC★REDUNDANCY ，主要制作 同人志 的西班牙同人社团，主催是 Ninamo，当前状态为 转入非东方
+
 ## 成员名单
 - Ninamo (未找到链接)
 
@@ -34,7 +37,9 @@ CYCLIC★REDUNDANCY（同人社团，同人志社团） - CYCLIC★REDUNDANCY �
 
 : [Tumblr: ai-wa](https://ai-wa.tumblr.com/), [Pixiv ID: 618138](https://www.pixiv.net/users/618138), [DeviantArt: ai-wa](https://www.deviantart.com/ai-wa)
 
+
 ## 作品列表
+
 ### 同人志
 [](./Without_love,_it_cannot_be_seen.md)[Without love, it cannot be seen](./Without_love,_it_cannot_be_seen.md)首发日期：2011-06-30 （Japan Expo 12e Impact (未找到链接)）绘本 （一般向）B5&#160;尺寸 84&#160;页东方×海猫鸣泣之时×魔法少女小圆[](./Perfect_Cherry_Blossom_Artbook.md)[Perfect Cherry Blossom Artbook](./Perfect_Cherry_Blossom_Artbook.md)首发日期：2013-01-19 绘本 （一般向） 16&#160;页社团制作的[2012月历](https://www.deviantart.com/cyclic-redundancy/gallery/37267413/touhou-project-2012-calendar)的绘本版[](./Imperishable_Night_Artbook.md)[Imperishable Night Artbook](./Imperishable_Night_Artbook.md)首发日期：2013-01-19 绘本 （一般向） 16&#160;页社团制作的[2013月历](https://www.deviantart.com/cyclic-redundancy/gallery/39430223/touhou-project-2013-calendar)的绘本版
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -43,6 +48,7 @@ CYCLIC★REDUNDANCY（同人社团，同人志社团） - CYCLIC★REDUNDANCY �
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 参展信息

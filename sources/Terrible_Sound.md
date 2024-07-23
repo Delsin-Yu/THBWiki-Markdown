@@ -18,6 +18,7 @@
 
 
 </center>
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Terrible_Sound封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/7/79/Terrible_Sound%E5%B0%81%E9%9D%A2.png/252px-Terrible_Sound%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="252" height="252" srcset="https://upload.thwiki.cc/thumb/7/79/Terrible_Sound%E5%B0%81%E9%9D%A2.png/378px-Terrible_Sound%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/7/79/Terrible_Sound%E5%B0%81%E9%9D%A2.png 2x" data-file-width="450" data-file-height="450"></a><div class="cover-char">角色：<a href="/index.php?title=%E5%8E%9F%E5%88%9B%E8%A7%92%E8%89%B2&amp;action=edit&amp;redlink=1" class="new" title="原创角色（页面不存在）">原创角色</a></div></td>
@@ -26,11 +27,13 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://mindfuckedloli.wordpress.com/releases/">https://mindfuckedloli.wordpress.com/releases/</a></td></tr></tbody></table>
 
 Terrible Sound（同人专辑，Distorted Music） - 2024年6月22日 由 Distorted Music  发布的全长同人专辑，分级为 一般向
+
 ## Staff
   
  **Compose**   
 
 <table><tbody><tr><td><a href="/index.php?title=MiNDFuCKeD_LOLi&amp;action=edit&amp;redlink=1" class="new" title="MiNDFuCKeD LOLi（页面不存在）">MiNDFuCKeD LOLi</a></td><td><a href="./Distorted_Music.md" title="Distorted Music">Distorted Music</a></td><td>Tr.1/3-5/7</td></tr><tr><td><a href="/index.php?title=DJ_JuRieSute&amp;action=edit&amp;redlink=1" class="new" title="DJ JuRieSute（页面不存在）">DJ JuRieSute</a></td><td><a href="./Distorted_Music.md" title="Distorted Music">Distorted Music</a></td><td>Tr.2/6/8</td></tr></tbody></table>
+
 
 
 ## 曲目列表
@@ -43,6 +46,7 @@ Terrible Sound（同人专辑，Distorted Music） - 2024年6月22日 由 Distor
 <tr><td id="6" class="infoYL"><b>06</b></td><td id="Lost_Umbrella" colspan="2" class="title">Lost Umbrella<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=DJ JuRieSute&amp;fromwiki=Terrible_Sound"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=DJ_JuRieSute&amp;action=edit&amp;redlink=1" class="new" title="DJ JuRieSute（页面不存在）">DJ JuRieSute</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，DJ JuRieSute&amp;fromwiki=Terrible_Sound"><span></span></a></span></td></tr>
 <tr><td id="7" class="infoYL"><b>07</b></td><td id="I_fucked_your_sister(and_your_brother)" colspan="2" class="title">I fucked your sister(and your brother)<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=MiNDFuCKeD LOLi&amp;fromwiki=Terrible_Sound"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=MiNDFuCKeD_LOLi&amp;action=edit&amp;redlink=1" class="new" title="MiNDFuCKeD LOLi（页面不存在）">MiNDFuCKeD LOLi</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，MiNDFuCKeD LOLi&amp;fromwiki=Terrible_Sound"><span></span></a></span></td></tr>
 <tr><td id="8" class="infoYL"><b>08</b></td><td id="Happy_Goodbye" colspan="2" class="title">Happy Goodbye<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=DJ JuRieSute&amp;fromwiki=Terrible_Sound"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=DJ_JuRieSute&amp;action=edit&amp;redlink=1" class="new" title="DJ JuRieSute（页面不存在）">DJ JuRieSute</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，DJ JuRieSute&amp;fromwiki=Terrible_Sound"><span></span></a></span></td></tr></tbody></table>
+
 
 
 ## 评论

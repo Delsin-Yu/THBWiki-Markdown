@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -36,11 +37,13 @@
 
 
 
+
 ## 基本信息
 
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">ラストリモート</td></tr><tr><td><b>译名</b></td><td>Last Remote</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 Last Remote（曲目） - 由 ZUN 创作的官方曲目，原名 ラストリモート
+
 ## 出现作品
 
 <table>
@@ -48,7 +51,9 @@ Last Remote（曲目） - 由 ZUN 创作的官方曲目，原名 ラストリモ
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 东方地灵殿
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th11_14.mp3.md" title="文件:th11 14.mp3">th11_14.mp3</a><br><audio src="https://upload.thwiki.cc/e/e1/th11_14.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>BGM\th11_14.wav</td></tr><tr><td><b>BGMForAll</b></td><td><div class="mw-collapsible mw-collapsed">
@@ -59,7 +64,9 @@ Last Remote（曲目） - 由 ZUN 创作的官方曲目，原名 ラストリモ
 </td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 东方地灵殿
 - Music Room (未找到链接)
 
@@ -69,11 +76,14 @@ Last Remote（曲目） - 由 ZUN 创作的官方曲目，原名 ラストリモ
 　大家都很悠然自得。  
 　尤其是守矢神社那帮家伙的悠闲样，就连灵梦都比不上。  
 　曲名跟某STG一点关系都没有。
+
 ## 其他资料
+
 ### 乐理资讯
   
 Bpm 178
   
+
 
 ### 分析考据
   
@@ -94,6 +104,7 @@ Bpm 178
   - 英语中，“Last Resort”意为「最后手段」。
 
 
+
 ### 二次同人数据
 
 <table><tbody><tr><th colspan="2">统计</th></tr>
@@ -112,6 +123,7 @@ Bpm 178
 
 
 [^cite_note-1]: 日文维基百科：[ラストリゾート](https://en.wikipedia.org/wiki/ja:ラストリゾート)
+
 
 ## 参见
 - [古明地恋/分析考据](./古明地恋-分析考据.md)

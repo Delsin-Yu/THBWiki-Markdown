@@ -4,6 +4,7 @@
 
 モヒカン | 社团LOGO
 
+
 ## 文件说明
   
 源地址：[direct image link](https://web.archive.org/web/20070925135603im_/http://chugin.com/mohican/img/banner/mohican.gif), [source page](https://web.archive.org/web/20090306203534/http://chugin.com/mohican/pro.html)

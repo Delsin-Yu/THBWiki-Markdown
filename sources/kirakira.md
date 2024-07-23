@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-kirakira封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/2/24/kirakira%E5%B0%81%E9%9D%A2.jpg/138px-kirakira%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="138" height="196" srcset="https://upload.thwiki.cc/thumb/2/24/kirakira%E5%B0%81%E9%9D%A2.jpg/207px-kirakira%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/2/24/kirakira%E5%B0%81%E9%9D%A2.jpg/276px-kirakira%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="634" data-file-height="900"></a><div class="cover-char">角色：<a href="./爱丽丝·玛格特洛依德.md" title="爱丽丝·玛格特洛依德">爱丽丝·玛格特洛依德</a></div></td>
@@ -14,9 +15,12 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/74281101">https://www.pixiv.net/artworks/74281101</a><br><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/74439460">https://www.pixiv.net/artworks/74439460</a><br><a rel="nofollow" class="external free" href="https://twitter.com/kazu_166/status/1119265041067339776">https://twitter.com/kazu_166/status/1119265041067339776</a><br><a rel="nofollow" class="external free" href="https://twitter.com/kazu_166/status/1124656460208541701">https://twitter.com/kazu_166/status/1124656460208541701</a></td></tr></tbody></table>
 
 kirakira（同人志，夢中界，2019） - 2019年5月5日 由 夢中界 于 博丽神社例大祭16 发布的画集同人志，B5尺寸一共20页，分级为 一般向
+
 ## 预览
+
 ## Staff
 - カズ (未找到链接)
+
 
 ## 评论
 

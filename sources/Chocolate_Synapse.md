@@ -4,7 +4,8 @@
 
 Chocolate Synapse ，主要制作 同人志 的日本同人社团，主催是 椎架ゆの，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -20,15 +21,19 @@ Chocolate Synapse ，主要制作 同人志 的日本同人社团，主催是 �
 
 
 
+
 ## 社团信息
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Chocolate Synapse </td></tr><tr><td><b>主要作品类型</b></td><td>同人志</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=%E6%A4%8E%E6%9E%B6%E3%82%86%E3%81%AE&amp;action=edit&amp;redlink=1" class="new" title="椎架ゆの（页面不存在）">椎架ゆの</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="https://www.pixiv.net/member.php?id=1368763">https://www.pixiv.net/member.php?id=1368763</a> <br><a rel="nofollow" class="external free" href="https://twitter.com/yuno_shika/">https://twitter.com/yuno_shika/</a></td></tr></tbody></table>
 
 Chocolate Synapse（同人社团，同人志社团） - Chocolate Synapse ，主要制作 同人志 的日本同人社团，主催是 椎架ゆの，当前状态为 活动
+
 ## 成员名单
 - 椎架ゆの (未找到链接)
 
+
 ## 作品列表
+
 ### 同人志
 Lovey-Dovey! 封面图片 (未找到链接)Lovey-Dovey! (未找到链接)首发日期：未知 - うたかたのびねつ 封面图片 (未找到链接)うたかたのびねつ (未找到链接)首发日期：未知 - むきゅ～っと！パチュリー先生 封面图片 (未找到链接)むきゅ～っと！パチュリー先生 (未找到链接)首发日期：未知 - むきゅ～っと！パチュリー先生 おまけ本 封面图片 (未找到链接)むきゅ～っと！パチュリー先生 おまけ本 (未找到链接)首发日期：未知 - おしごとぱちぇっくす 封面图片 (未找到链接)おしごとぱちぇっくす (未找到链接)首发日期：未知 - おしごとぱちぇっくす おまけ本 封面图片 (未找到链接)おしごとぱちぇっくす おまけ本 (未找到链接)首发日期：未知 - パチュリーちゃんのひとり×××がバレちゃった!? 封面图片 (未找到链接)パチュリーちゃんのひとり×××がバレちゃった!? (未找到链接)首发日期：未知 - ライブ！ライブ！パチュリー 封面图片 (未找到链接)ライブ！ライブ！パチュリー (未找到链接)首发日期：未知 - さとりとこいしとえっちしよっ! 封面图片 (未找到链接)さとりとこいしとえっちしよっ! (未找到链接)首发日期：未知 - 早苗さんと過ごす僕の新婚性活 封面图片 (未找到链接)早苗さんと過ごす僕の新婚性活 (未找到链接)首发日期：未知 - CAUTION! 封面图片 (未找到链接)CAUTION!（Chocolate Synapse） (未找到链接)首发日期：未知 - いいなり❤パチュリーさま 封面图片 (未找到链接)いいなり❤パチュリーさま (未找到链接)首发日期：未知 - 嘘と恋と接吻 封面图片 (未找到链接)嘘と恋と接吻 (未找到链接)首发日期：未知 - 雨に濡れたら 封面图片 (未找到链接)雨に濡れたら (未找到链接)首发日期：未知 - じょうずなまじょのしつけかた 封面图片 (未找到链接)じょうずなまじょのしつけかた (未找到链接)首发日期：未知 - イチニチカノジョ。 封面图片 (未找到链接)イチニチカノジョ。 (未找到链接)首发日期：未知 - ドスケベペットのパチュリーとガチハメ本気交尾シちゃいました 封面图片 (未找到链接)ドスケベペットのパチュリーとガチハメ本気交尾シちゃいました (未找到链接)首发日期：未知 - えっちなパチュリーはお好きですか? 封面图片 (未找到链接)えっちなパチュリーはお好きですか? (未找到链接)首发日期：未知 - えっちなのはイケないと思いますっ!! 封面图片 (未找到链接)えっちなのはイケないと思いますっ!! (未找到链接)首发日期：未知 - 依神紫苑のセックス開発記録 封面图片 (未找到链接)依神紫苑のセックス開発記録 (未找到链接)首发日期：未知 - こころちゃんとじょうずにできるかな? 封面图片 (未找到链接)こころちゃんとじょうずにできるかな? (未找到链接)首发日期：未知 - 調教催眠優曇華院 封面图片 (未找到链接)調教催眠優曇華院 (未找到链接)首发日期：未知 - 大図書館の魔女は今日もシたりない! 封面图片 (未找到链接)大図書館の魔女は今日もシたりない! (未找到链接)首发日期：未知 - えっちなようせいであそぼ！ 封面图片 (未找到链接)えっちなようせいであそぼ！ (未找到链接)首发日期：未知 - 
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -57,6 +62,7 @@ Lovey-Dovey! 封面图片 (未找到链接)Lovey-Dovey! (未找到链接)首发�
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458"></table>
+
 
 
 ## 参展信息

@@ -4,6 +4,7 @@
 
 stump | 社团LOGO
 
+
 ## 摘要
   
 源地址：[direct image link](https://stumphp.web.fc2.com/rogo.png), [source page](https://stumphp.web.fc2.com)

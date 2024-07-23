@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-pu3_λdd∀Ч封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/d/df/pu3_%CE%BBdd%E2%88%80%D0%A7%E5%B0%81%E9%9D%A2.jpg/160px-pu3_%CE%BBdd%E2%88%80%D0%A7%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="160" height="224" srcset="https://upload.thwiki.cc/thumb/d/df/pu3_%CE%BBdd%E2%88%80%D0%A7%E5%B0%81%E9%9D%A2.jpg/240px-pu3_%CE%BBdd%E2%88%80%D0%A7%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/d/df/pu3_%CE%BBdd%E2%88%80%D0%A7%E5%B0%81%E9%9D%A2.jpg/320px-pu3_%CE%BBdd%E2%88%80%D0%A7%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="700" data-file-height="979"></a><div class="cover-char">角色：<a href="./鬼人正邪.md" title="鬼人正邪">鬼人正邪</a></div></td>
@@ -18,9 +19,12 @@ pu3 λdd∀Ч（同人志，フレキシ，2016） - 2016年10月9日 由 フレ
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://ec.toranoana.jp/tora_r/ec/item/040030464740">虎穴</a></td></tr></tbody></table>
 
 
+
 ## 预览
+
 ## Staff
 - tog. (未找到链接)
+
 
 ## 评论
 

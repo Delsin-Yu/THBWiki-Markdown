@@ -6,11 +6,13 @@
 
 本页是关于东方Project  
  **二次同人创作者** 的词条
+
 ## 基本信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="label"><b>名称</b></td><td> ideolo </td></tr><tr><td class="label"><b>所属社团</b></td><td><b>当前</b><div style="margin-left:2em;"><a href="./NEKO_WORLDi.md" title="NEKO WORLDi">NEKO WORLDi</a></div></td></tr><tr><td class="label"><b>职位</b></td><td>绘师</td></tr><tr><td class="label"><b>性别</b></td><td>男</td></tr><tr><td class="label"><b>生日</b></td><td>1月16日</td></tr><tr><td class="label"><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="https://www.ideoloideolo.com/">https://www.ideoloideolo.com/</a></td></tr><tr><td class="label"><b>个人页面</b></td><td><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><b>Twitter</b></td><td><a rel="nofollow" class="external free" href="https://twitter.com/ideolo">https://twitter.com/ideolo</a></td></tr><tr><td><b>Weibo</b></td><td><a rel="nofollow" class="external free" href="https://weibo.com/u/1749924921">https://weibo.com/u/1749924921</a></td></tr><tr><td><b>Pixiv</b></td><td><a rel="nofollow" class="external free" href="https://www.pixiv.net/member.php?id=61513">https://www.pixiv.net/member.php?id=61513</a></td></tr><tr><td><b>Email</b></td><td>ideoloideolo@yahoo.co.jp</td></tr></tbody></table></td></tr></tbody></table>
 
 ideolo（人物） - 现实人物
+
 ## 介绍
   
 知名国人画师，在东方以及东方外均为不少商业公司供过图稿。  
@@ -20,7 +22,9 @@ ideolo（人物） - 现实人物
 擅长赛璐璐的上色风格，以其大开大合的颜色平铺交融为特点。
   
 
+
 ## 参与作品
+
 ## 人际关系
 人名
 : 关系

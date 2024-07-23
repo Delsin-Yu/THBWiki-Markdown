@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-LIFE（Potato_Mill）封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/6/61/LIFE%EF%BC%88Potato_Mill%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/141px-LIFE%EF%BC%88Potato_Mill%EF%BC%89%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="141" height="196" srcset="https://upload.thwiki.cc/thumb/6/61/LIFE%EF%BC%88Potato_Mill%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/212px-LIFE%EF%BC%88Potato_Mill%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/6/61/LIFE%EF%BC%88Potato_Mill%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/283px-LIFE%EF%BC%88Potato_Mill%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="537" data-file-height="744"></a><div class="cover-char">角色：<a href="./爱丽丝·玛格特洛依德.md" title="爱丽丝·玛格特洛依德">爱丽丝·玛格特洛依德</a>，<a href="./寅丸星.md" title="寅丸星">寅丸星</a>，<a href="./水桥帕露西.md" title="水桥帕露西">水桥帕露西</a>，<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>，<a href="./西行寺幽幽子.md" title="西行寺幽幽子">西行寺幽幽子</a>，<a href="./圣白莲.md" title="圣白莲">圣白莲</a>，<a href="./八坂神奈子.md" title="八坂神奈子">八坂神奈子</a>，<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a></div></td>
@@ -18,16 +19,19 @@ LIFE（同人志，Potato Mill，2012） - 2012年5月27日 由 Potato Mill 于 
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://miluda.booth.pm/items/397">Booth</a></td></tr></tbody></table>
 
 
+
 ## 预览
   
 [[1]](https://k009comics.com/post/23698937671/stop-by-miludapotatos-table-for-an-awesome)
   
+
 
 ## Staff
 - Miluda (未找到链接)
 - Rapid Potato (未找到链接)
 - Mokou (未找到链接)
 - Kata (未找到链接)
+
 
 ## 评论
 

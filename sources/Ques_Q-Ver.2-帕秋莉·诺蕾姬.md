@@ -6,11 +6,13 @@
 
 本页是关于东方Project  
  **相关实体周边 (未找到链接)** 的词条
+
 ## 模型信息
 
 <table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 帕秋莉·诺蕾姬 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>Ver.2</td></tr><tr><td class="label">角色</td><td><a href="./帕秋莉·诺蕾姬.md" title="帕秋莉·诺蕾姬">帕秋莉·诺蕾姬</a></td></tr><tr><td class="label">原型师</td><td><a href="/index.php?title=Sec.C.Noin&amp;action=edit&amp;redlink=1" class="new" title="Sec.C.Noin（页面不存在）">Sec.C.Noin</a></td></tr><tr><td class="label">比例</td><td>1/8</td></tr><tr><td class="label">尺寸</td><td>120mm</td></tr><tr><td class="label">状态</td><td>已发售</td></tr><tr><td class="label">售价</td><td>13,800日元</td></tr><tr><td class="label">首发日期</td><td>2017-10-30</td></tr><tr><td class="label">发售方</td><td><a href="/index.php?title=Ques_Q&amp;action=edit&amp;redlink=1" class="new" title="Ques Q（页面不存在）">Ques Q</a></td></tr></tbody></table>
 
 Ques Q/Ver.2/帕秋莉·诺蕾姬（周边） - 帕秋莉·诺蕾姬PVCFigure手办模型
+
 ## 参考图片
 
 

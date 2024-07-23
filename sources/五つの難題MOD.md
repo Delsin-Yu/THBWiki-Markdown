@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 软件信息](#软件信息)
@@ -23,6 +24,7 @@
 
 
 
+
 ## 软件信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2">无封面</td>
@@ -31,8 +33,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://forum.minecraftuser.jp/viewtopic.php?t=4329">https://forum.minecraftuser.jp/viewtopic.php?t=4329</a></td></tr></tbody></table>
 
 五つの難題MOD（同人软件，くろあんこ，2012） - 2012年4月3日 由 くろあんこ  发布的AVG/SLG/PUZ同人游戏MOD，可在 Windows 系统上运行，游戏人数为 单人模式，多人模式，分级为 一般向
+
 ## Staff
 - くろあんこ
+
 
 ## 关于Minecraft
   
@@ -40,6 +44,7 @@
 
 详细参见[Minecraft中文Wiki](http://minecraft-zh.gamepedia.com/Minecraft_Wiki)
   
+
 
 ### MOD相关
   
@@ -50,13 +55,16 @@
 该模组和其他几个东方相关的同游戏模组有联动，例如爱丽丝人偶模组。
   
 
+
 ## 内容页面
 - [模组新增物品和方块](./五つの難題MOD-物品.md)
 - 模组新增实体 (未找到链接)
 - [模组工作台使用说明](./五つの難題MOD-工作台说明.md)
 - 其他信息 (未找到链接)
 
+
 ## 评论
+
 ## 外部链接
 - [原mod发布帖](https://forum.minecraftuser.jp/viewtopic.php?t=4329&amp;p=68675)（日文）（已经失效）
   - [针对服务器兼容性的第三方修复发布](https://www.mcbbs.net/thread-734466-1-1.html)

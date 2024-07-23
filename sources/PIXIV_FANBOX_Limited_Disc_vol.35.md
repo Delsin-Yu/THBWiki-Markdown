@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=PIXIV_FANBOX_Limited_Disc_vol.35%E5%B0%81%E9%9D%A2.jpg" class="new" title="文件:PIXIV FANBOX Limited Disc vol.35封面.jpg">封面图片</a></td>
@@ -14,11 +15,12 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/shoujo_fractal/status/1695028582169669814">https://twitter.com/shoujo_fractal/status/1695028582169669814</a><br><a rel="nofollow" class="external free" href="https://yuuhei-shoujo.fanbox.cc/posts/6606583">https://yuuhei-shoujo.fanbox.cc/posts/6606583</a></td></tr></tbody></table>
 
 PIXIV FANBOX Limited Disc vol.35（同人专辑，少女フラクタル，2023） - 2023年8月31日 由 少女フラクタル  发布的单曲同人专辑，分级为 一般向
+
 ## Staff
   
  **Arrangement**   
 
-<table><tbody><tr><td><a href="/%E3%82%AD%E3%83%A3%E3%83%83%E3%83%84" class="mw-redirect" title="キャッツ">キャッツ</a></td><td><a href="./少女フラクタル.md" title="少女フラクタル">少女フラクタル</a></td><td>Tr.1</td></tr></tbody></table>
+<table><tbody><tr><td><a href="./キャッツ.md" class="mw-redirect" title="キャッツ">キャッツ</a></td><td><a href="./少女フラクタル.md" title="少女フラクタル">少女フラクタル</a></td><td>Tr.1</td></tr></tbody></table>
 
   
  **Vocal**   
@@ -28,12 +30,14 @@ PIXIV FANBOX Limited Disc vol.35（同人专辑，少女フラクタル，2023�
   
  **Lyrics**   
 
-<table><tbody><tr><td><a href="/Marcia" class="mw-redirect" title="Marcia">Marcia</a></td><td><a href="/%E5%B9%BD%E9%96%89%E3%82%B5%E3%83%86%E3%83%A9%E3%82%A4%E3%83%88" class="mw-redirect" title="幽閉サテライト">幽閉サテライト</a></td><td>Tr.1</td></tr></tbody></table>
+<table><tbody><tr><td><a href="./Marcia.md" class="mw-redirect" title="Marcia">Marcia</a></td><td><a href="./幽閉サテライト.md" class="mw-redirect" title="幽閉サテライト">幽閉サテライト</a></td><td>Tr.1</td></tr></tbody></table>
+
 
 
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoRD"><b>01</b></td><td id="月の灰となりて" colspan="2" class="title"><span class="new" title="（歌词页面不存在）"><a href="/index.php?title=%E6%AD%8C%E8%AF%8D:%E6%9C%88%E3%81%AE%E7%81%B0%E3%81%A8%E3%81%AA%E3%82%8A%E3%81%A6&amp;boilerplate=模板:页面模板/曲目歌词&amp;action=edit">月の灰となりて</a></span><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=キャッツ&amp;vocal=二羽凛奈&amp;lyric=Marcia&amp;ogmusic=破邪の小太刀&amp;fromwiki=PIXIV_FANBOX_Limited_Disc_vol.35"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/%E3%82%AD%E3%83%A3%E3%83%83%E3%83%84" class="mw-redirect" title="キャッツ">キャッツ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，キャッツ&amp;fromwiki=PIXIV_FANBOX_Limited_Disc_vol.35"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="./二羽凛奈.md" title="二羽凛奈">二羽凛奈</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=二羽凛奈&amp;fromwiki=PIXIV_FANBOX_Limited_Disc_vol.35"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="/Marcia" class="mw-redirect" title="Marcia">Marcia</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?lyric=Marcia&amp;fromwiki=PIXIV_FANBOX_Limited_Disc_vol.35"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=破邪の小太刀&amp;fromwiki=PIXIV_FANBOX_Limited_Disc_vol.35"><span></span></a></span><div class="ogmusic"><a href="/%E7%A0%B4%E9%82%AA%E3%81%AE%E5%B0%8F%E5%A4%AA%E5%88%80" class="mw-redirect" title="破邪の小太刀">破邪の小太刀</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E7%81%B5%E5%BC%82%E4%BC%A0_%EF%BD%9E_Highly_Responsive_to_Prayers." class="mw-redirect" title="东方灵异传 ～ Highly Responsive to Prayers.">东方灵异传　～ Highly Responsive to Prayers.</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoRD"><b>01</b></td><td id="月の灰となりて" colspan="2" class="title"><span class="new" title="（歌词页面不存在）"><a href="/index.php?title=%E6%AD%8C%E8%AF%8D:%E6%9C%88%E3%81%AE%E7%81%B0%E3%81%A8%E3%81%AA%E3%82%8A%E3%81%A6&amp;boilerplate=模板:页面模板/曲目歌词&amp;action=edit">月の灰となりて</a></span><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=キャッツ&amp;vocal=二羽凛奈&amp;lyric=Marcia&amp;ogmusic=破邪の小太刀&amp;fromwiki=PIXIV_FANBOX_Limited_Disc_vol.35"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./キャッツ.md" class="mw-redirect" title="キャッツ">キャッツ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，キャッツ&amp;fromwiki=PIXIV_FANBOX_Limited_Disc_vol.35"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="./二羽凛奈.md" title="二羽凛奈">二羽凛奈</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=二羽凛奈&amp;fromwiki=PIXIV_FANBOX_Limited_Disc_vol.35"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="./Marcia.md" class="mw-redirect" title="Marcia">Marcia</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?lyric=Marcia&amp;fromwiki=PIXIV_FANBOX_Limited_Disc_vol.35"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=破邪の小太刀&amp;fromwiki=PIXIV_FANBOX_Limited_Disc_vol.35"><span></span></a></span><div class="ogmusic"><a href="./破邪の小太刀.md" class="mw-redirect" title="破邪の小太刀">破邪の小太刀</a></div><div class="source"><a href="./东方灵异传_～_Highly_Responsive_to_Prayers..md" class="mw-redirect" title="东方灵异传 ～ Highly Responsive to Prayers.">东方灵异传　～ Highly Responsive to Prayers.</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

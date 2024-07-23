@@ -8,6 +8,7 @@
  **<big><big>东方三月精 ～ Oriental Sacred Place.</big></big>** 
   
 
+
 ## 目录
 
 - [1 分析与考据](#分析与考据)
@@ -37,10 +38,13 @@
 
 
 
+
 ## 分析与考据
+
 ### 标题
 - Oriental Sacred Place（东之圣地）
   - 博丽神社
+
 
 
 ### 第1-2话 神社后侧
@@ -57,8 +61,11 @@
   - 一种粗糙或零碎的几何形状，可以分成数个部分，且每一部分都（至少近似地）是整体缩小后的形状。
 
 
+
 ### 第3-4话 石头下的东西
+
 ### 第5-6话 坚定的信仰
+
 ### 第7-8话 牛肝菌与蛞蝓
 - イクチ（牛肝菌）
   - 几种食用类蘑菇的总称，主要是牛肝菌科的蘑菇，因此被译为牛肝菌。生长时节一般在八月，第七话发生的时间在初冬，此时本该是没有牛肝菌的，所以魔理沙说这是反季节的牛肝菌。
@@ -74,6 +81,7 @@
 
     - 至于蛞蝓溶解蛇的故事可能来源于「本草纲目」，其中记录了蛞蝓把蜈蚣溶解后吃掉的故事。  
 江户时代森田盛昌的奇谈集「咄随笔」中则有青蛙把蛇变成蘑菇后吃掉的故事。津村历庵的「谭海」中有蛇的尸体变成会发光的毒蘑菇的故事。
+
 
 
 
@@ -115,7 +123,9 @@
 
 <img alt="Corner bracket right sh1.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Corner_bracket_right_sh1.svg/langzh-20px-Corner_bracket_right_sh1.svg.png" decoding="async" loading="lazy" width="20" height="29" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Corner_bracket_right_sh1.svg/langzh-30px-Corner_bracket_right_sh1.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Corner_bracket_right_sh1.svg/langzh-40px-Corner_bracket_right_sh1.svg.png 2x" data-file-width="220" data-file-height="320">
 ——古事类苑 天部/虹〈气　阳光并入〉
+
 ### 第10话 遗忘之物的终局
+
 ### 第11话 满月下的尔虞我诈
 - 陣笠茸（致幻菇）
   - 鬼伞科的毒蘑菇，食用后会引起幻听和幻觉，因此被译为致幻菇。
@@ -124,10 +134,13 @@
   - 日本中秋习俗，向月亮供上月见团子和芒草，祈祷来年的丰收。
 
 
+
 ### 第12话 红白信仰合战
+
 ### 第13话 麻雀百岁不忘舞
 - 百雀群舞不止
   - 日本谚语。意思是小时候染上的恶习长大后很难改正，只用作贬义。
+
 
 
 ### 第14话 石头京丸牡丹
@@ -147,6 +160,7 @@
 
 - 赤铁矿
   - 赤铁矿的结晶就像蔷薇一样，所以被称为铁之蔷薇。
+
 
 
 ### 第15话 恶魔书痴
@@ -170,10 +184,15 @@
 
 
 
+
 ### 第16话 食人的野兽
+
 ### 第17话 矛盾的恩惠
+
 ### 最终话 飞翔于天空的不可思议的巫女
+
 ## 其他
+
 ## 参考资料
 - （日文）东方元NetaWiki：[東方三月精/第3部](https://seesaawiki.jp/toho-motoneta_2nd/d/����������/��3��)．
 

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-夢現忄実験_-Dreal_experiments-（同人志）封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/3/36/%E5%A4%A2%E7%8F%BE%E5%BF%84%E5%AE%9F%E9%A8%93_-Dreal_experiments-%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2.png/137px-%E5%A4%A2%E7%8F%BE%E5%BF%84%E5%AE%9F%E9%A8%93_-Dreal_experiments-%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="137" height="196" srcset="https://upload.thwiki.cc/thumb/3/36/%E5%A4%A2%E7%8F%BE%E5%BF%84%E5%AE%9F%E9%A8%93_-Dreal_experiments-%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2.png/205px-%E5%A4%A2%E7%8F%BE%E5%BF%84%E5%AE%9F%E9%A8%93_-Dreal_experiments-%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/3/36/%E5%A4%A2%E7%8F%BE%E5%BF%84%E5%AE%9F%E9%A8%93_-Dreal_experiments-%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2.png/273px-%E5%A4%A2%E7%8F%BE%E5%BF%84%E5%AE%9F%E9%A8%93_-Dreal_experiments-%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2.png 2x" data-file-width="2084" data-file-height="2986"></a><div class="cover-char">角色：<a href="./宇佐见莲子.md" title="宇佐见莲子">宇佐见莲子</a>，<a href="./玛艾露贝莉·赫恩.md" title="玛艾露贝莉·赫恩">玛艾露贝莉·赫恩</a></div></td>
@@ -18,8 +19,10 @@
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=439738">蜜瓜</a></td></tr></tbody></table>
 
 
+
 ## 预览
 - [](./文件-夢現忄実験_-Dreal_experiments-（同人志）预览图1.png.md)- [](./文件-夢現忄実験_-Dreal_experiments-（同人志）预览图2.png.md)- [](./文件-夢現忄実験_-Dreal_experiments-（同人志）预览图3.png.md)
+
 
 ## Staff
 主办、小说、插画
@@ -34,7 +37,7 @@
 小说
 : [残滓](./残滓.md)（[twitter:@nemunemu_usami](https://twitter.com/nemunemu_usami)）
 : マサイシ (未找到链接)（[twitter:@Nanbutetudou](https://twitter.com/Nanbutetudou)）
-: そひか (未找到链接)（酉京都怪奇倶楽部 (未找到链接)）
+: そひか (未找到链接)（[酉京都怪奇倶楽部](./酉京都怪奇倶楽部.md)）
 : 風兎 (未找到链接)（[twitter:@VentArgente](https://twitter.com/VentArgente)）
 : 宮桐ルカ (未找到链接)（[twitter:@rukashel](https://twitter.com/rukashel)（已经失效））
 : みこう悠長 (未找到链接)（[twitter:@y_mikou](https://twitter.com/y_mikou)）
@@ -46,10 +49,19 @@
 : [マイナス](./マイナス.md)（[まいとびみんと](./まいとびみんと.md)）
 : miso (未找到链接)
 
+
 ## 评论
   
  **官网** ：  
-<unsupported html=blockquote>
+<blockquote><div class="poem">
+<p><span lang="ja">今回は秘封倶楽部の15周年、および serial experiments lain の20周年ということで、<br>
+クロスオーバーの合同誌を企画させていただきました。発案は2017年の9月頃です。<br>
+これまでは Twitter で相互の方々に声をかけるなどしておりましたが、<br>
+話し合いの結果、合同参加者の公募に踏み切ることになりました。<br>
+本合同の方針としては、lain のそれと違わぬ、前衛的で実験的な合同を目指しております。</span>
+</p>
+</div></blockquote>
+
   
   
 
@@ -57,7 +69,17 @@
 
   
  **melonbooks** ：  
-<unsupported html=blockquote>
+<blockquote><div class="poem">
+<p><span lang="ja">プレゼントデイ......<br>
+<br>
+プレゼントタイム......<br>
+<br>
+『秘封倶楽部』×『serial experiments lain』<br>
+「夢と現実」、「リアルとバーチャル」<br>
+これら二作品の共通性・親和性に魅せられた総勢15名の作家による、「lain20周年記念」豪華合同企画!</span>
+</p>
+</div></blockquote>
+
   
   
 

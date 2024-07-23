@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Pokerface_in_Disbelief封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/1/1c/Pokerface_in_Disbelief%E5%B0%81%E9%9D%A2.jpg/252px-Pokerface_in_Disbelief%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="248" srcset="https://upload.thwiki.cc/thumb/1/1c/Pokerface_in_Disbelief%E5%B0%81%E9%9D%A2.jpg/378px-Pokerface_in_Disbelief%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/1/1c/Pokerface_in_Disbelief%E5%B0%81%E9%9D%A2.jpg/504px-Pokerface_in_Disbelief%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1024" data-file-height="1007"></a><div class="cover-char">角色：<a href="./秦心.md" title="秦心">秦心</a></div></td>
@@ -14,11 +15,13 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://cradleofemeria.wixsite.com/cradleofemeria/discography">https://cradleofemeria.wixsite.com/cradleofemeria/discography</a></td></tr></tbody></table>
 
 Pokerface in Disbelief（同人专辑，Cradle of Emeria，2017） - 2017年2月12日 由 Cradle of Emeria 于 幻想乡峰会4 发布的EP同人专辑，曲目主要风格是 金属，分级为 一般向
+
 ## Staff
   
  **Arrangement**   
 
 <table><tbody><tr><td><a href="/index.php?title=%E3%81%93%E3%83%BC&amp;action=edit&amp;redlink=1" class="new" title="こー（页面不存在）">こー</a></td><td><a href="./Cradle_of_Emeria.md" title="Cradle of Emeria">Cradle of Emeria</a></td><td>Tr.1/2</td></tr></tbody></table>
+
 
 
 ## 试听
@@ -27,10 +30,12 @@ Pokerface in Disbelief（同人专辑，Cradle of Emeria，2017） - 2017年2月
 
   
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Pokerface_in_Disbelief" colspan="2" class="title">Pokerface in Disbelief<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=こー&amp;ogmusic=亡失のエモーション&amp;fromwiki=Pokerface_in_Disbelief"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E3%81%93%E3%83%BC&amp;action=edit&amp;redlink=1" class="new" title="こー（页面不存在）">こー</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，こー&amp;fromwiki=Pokerface_in_Disbelief"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=亡失のエモーション&amp;fromwiki=Pokerface_in_Disbelief"><span></span></a></span><div class="ogmusic"><a href="/%E4%BA%A1%E5%A4%B1%E3%81%AE%E3%82%A8%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3" class="mw-redirect" title="亡失のエモーション">亡失のエモーション</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E5%BF%83%E7%BB%AE%E6%A5%BC_%EF%BD%9E_Hopeless_Masquerade." class="mw-redirect" title="东方心绮楼 ～ Hopeless Masquerade.">东方心绮楼　～ Hopeless Masquerade.</a></div></td></tr>
-<tr><td id="2" class="infoYD"><b>02</b></td><td id="Pledge_of_Administrator" colspan="2" class="title">Pledge of Administrator<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=こー&amp;ogmusic=聖徳伝説　～ True Administrator&amp;fromwiki=Pokerface_in_Disbelief"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E3%81%93%E3%83%BC&amp;action=edit&amp;redlink=1" class="new" title="こー（页面不存在）">こー</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，こー&amp;fromwiki=Pokerface_in_Disbelief"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=聖徳伝説　～ True Administrator&amp;fromwiki=Pokerface_in_Disbelief"><span></span></a></span><div class="ogmusic"><a href="/%E8%81%96%E5%BE%B3%E4%BC%9D%E8%AA%AC_%EF%BD%9E_True_Administrator" class="mw-redirect" title="聖徳伝説 ～ True Administrator">聖徳伝説　～ True Administrator</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E7%A5%9E%E7%81%B5%E5%BA%99_%EF%BD%9E_Ten_Desires." class="mw-redirect" title="东方神灵庙 ～ Ten Desires.">东方神灵庙　～ Ten Desires.</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Pokerface_in_Disbelief" colspan="2" class="title">Pokerface in Disbelief<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=こー&amp;ogmusic=亡失のエモーション&amp;fromwiki=Pokerface_in_Disbelief"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E3%81%93%E3%83%BC&amp;action=edit&amp;redlink=1" class="new" title="こー（页面不存在）">こー</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，こー&amp;fromwiki=Pokerface_in_Disbelief"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=亡失のエモーション&amp;fromwiki=Pokerface_in_Disbelief"><span></span></a></span><div class="ogmusic"><a href="./亡失のエモーション.md" class="mw-redirect" title="亡失のエモーション">亡失のエモーション</a></div><div class="source"><a href="./东方心绮楼_～_Hopeless_Masquerade..md" class="mw-redirect" title="东方心绮楼 ～ Hopeless Masquerade.">东方心绮楼　～ Hopeless Masquerade.</a></div></td></tr>
+<tr><td id="2" class="infoYD"><b>02</b></td><td id="Pledge_of_Administrator" colspan="2" class="title">Pledge of Administrator<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=こー&amp;ogmusic=聖徳伝説　～ True Administrator&amp;fromwiki=Pokerface_in_Disbelief"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E3%81%93%E3%83%BC&amp;action=edit&amp;redlink=1" class="new" title="こー（页面不存在）">こー</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，こー&amp;fromwiki=Pokerface_in_Disbelief"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=聖徳伝説　～ True Administrator&amp;fromwiki=Pokerface_in_Disbelief"><span></span></a></span><div class="ogmusic"><a href="./聖徳伝説_～_True_Administrator.md" class="mw-redirect" title="聖徳伝説 ～ True Administrator">聖徳伝説　～ True Administrator</a></div><div class="source"><a href="./东方神灵庙_～_Ten_Desires..md" class="mw-redirect" title="东方神灵庙 ～ Ten Desires.">东方神灵庙　～ Ten Desires.</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

@@ -21,12 +21,14 @@
 
   
 </center>
+
 ## 目录
 
 - [1 概述](#概述)
 - [2 目录](#目录)
 - [3 其他](#其他)
 - [4 注释](#注释)
+
 
 
 
@@ -46,7 +48,7 @@
 <tr><th class="titleH2" height="20">话数</th></tr>
 <tr><td height="20">无</td></tr>
 <tr><th class="titleH2" height="20">附带附赠</th></tr>
-<tr><td height="20"><a href="/%E6%96%B0%E4%BD%9C%E5%BC%B9%E5%B9%95%E6%9C%AC" class="mw-redirect" title="新作弹幕本">新作弹幕本预览书</a></td></tr>
+<tr><td height="20"><a href="./新作弹幕本.md" class="mw-redirect" title="新作弹幕本">新作弹幕本预览书</a></td></tr>
 <tr><td></td></tr>
 </tbody></table>
 </td></tr><tr><th colspan="4" class="titleH1">东方外来韦编 2018 Autumn!</th></tr>
@@ -54,12 +56,12 @@
 
 
   
-<big> **东方外来韦编 Strange Creators of Outer World. 2018 Autumn!**   
-</big>
+<big> **东方外来韦编 Strange Creators of Outer World. 2018 Autumn!** </big>
 東方外來韋編 Strange Creators of Outer World. 2018 Autumn!<small>（とうほうがいらいいへん よん， *Touhou Gairaiihen* ）</small>  
 
 本杂志是[东方外来韦编](./东方外来韦编.md)系列杂志的第六号，发售于2018年10月01日。
   
+
 
 ## 目录
 - 封面
@@ -119,6 +121,7 @@
 - 特别附录 东方Project [新作弹幕本 Preview Book](./The_Grimoire_of_Usami.md)  
  *漫画：[あずまあや](./あずまあや.md)* 
 - 封底
+
 
 ## 其他
 - 其他相关信息 (未找到链接)

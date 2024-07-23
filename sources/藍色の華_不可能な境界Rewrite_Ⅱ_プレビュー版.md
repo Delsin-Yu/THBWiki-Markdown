@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-藍色の華_不可能な境界Rewrite_Ⅱ_プレビュー版封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/d/db/%E8%97%8D%E8%89%B2%E3%81%AE%E8%8F%AF_%E4%B8%8D%E5%8F%AF%E8%83%BD%E3%81%AA%E5%A2%83%E7%95%8CRewrite_%E2%85%A1_%E3%83%97%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E7%89%88%E5%B0%81%E9%9D%A2.jpg/159px-%E8%97%8D%E8%89%B2%E3%81%AE%E8%8F%AF_%E4%B8%8D%E5%8F%AF%E8%83%BD%E3%81%AA%E5%A2%83%E7%95%8CRewrite_%E2%85%A1_%E3%83%97%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E7%89%88%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="159" height="224" srcset="https://upload.thwiki.cc/thumb/d/db/%E8%97%8D%E8%89%B2%E3%81%AE%E8%8F%AF_%E4%B8%8D%E5%8F%AF%E8%83%BD%E3%81%AA%E5%A2%83%E7%95%8CRewrite_%E2%85%A1_%E3%83%97%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E7%89%88%E5%B0%81%E9%9D%A2.jpg/238px-%E8%97%8D%E8%89%B2%E3%81%AE%E8%8F%AF_%E4%B8%8D%E5%8F%AF%E8%83%BD%E3%81%AA%E5%A2%83%E7%95%8CRewrite_%E2%85%A1_%E3%83%97%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E7%89%88%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/d/db/%E8%97%8D%E8%89%B2%E3%81%AE%E8%8F%AF_%E4%B8%8D%E5%8F%AF%E8%83%BD%E3%81%AA%E5%A2%83%E7%95%8CRewrite_%E2%85%A1_%E3%83%97%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E7%89%88%E5%B0%81%E9%9D%A2.jpg/318px-%E8%97%8D%E8%89%B2%E3%81%AE%E8%8F%AF_%E4%B8%8D%E5%8F%AF%E8%83%BD%E3%81%AA%E5%A2%83%E7%95%8CRewrite_%E2%85%A1_%E3%83%97%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E7%89%88%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="568" data-file-height="800"></a><div class="cover-char">角色：<a href="./八云紫.md" title="八云紫">八云紫</a></div></td>
@@ -14,9 +15,12 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/haruhikasa/status/416911005222834177">https://twitter.com/haruhikasa/status/416911005222834177</a></td></tr></tbody></table>
 
 藍色の華 不可能な境界Rewrite Ⅱ プレビュー版（同人志，雅趣雅俗，2013） - 2013年12月30日 由 雅趣雅俗 于 Comic Market 85 发布的小说同人志，文库版尺寸一共60页，登场人物有 八云紫，分级为 一般向
+
 ## 预览
+
 ## Staff
 - 春日傘 (未找到链接)
+
 
 ## 评论
 

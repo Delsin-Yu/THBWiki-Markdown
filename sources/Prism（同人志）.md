@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Prism（同人志）封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/e/ee/Prism%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2.png/138px-Prism%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="138" height="196" srcset="https://upload.thwiki.cc/thumb/e/ee/Prism%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2.png/207px-Prism%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/e/ee/Prism%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2.png/276px-Prism%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2.png 2x" data-file-width="368" data-file-height="522"></a><div class="cover-char">角色：<a href="./键山雏.md" title="键山雏">键山雏</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/kageharu/status/1450080448483184643">https://twitter.com/kageharu/status/1450080448483184643</a><br><a rel="nofollow" class="external free" href="https://twitter.com/kageharu/status/1450764341985222661">https://twitter.com/kageharu/status/1450764341985222661</a></td></tr></tbody></table>
 
 Prism（同人志，海中ステレオ，2021） - 2021年10月24日 由 海中ステレオ 于 博丽神社秋季例大祭8 发布的画集同人志，A4尺寸一共154页，分级为 一般向
+
 ## Staff
 - カゲハル (未找到链接)
+
 
 ## 评论
 

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-次に来る!東方の同人ゲームSelection_in_2020封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/c/c3/%E6%AC%A1%E3%81%AB%E6%9D%A5%E3%82%8B%21%E6%9D%B1%E6%96%B9%E3%81%AE%E5%90%8C%E4%BA%BA%E3%82%B2%E3%83%BC%E3%83%A0Selection_in_2020%E5%B0%81%E9%9D%A2.jpg/139px-%E6%AC%A1%E3%81%AB%E6%9D%A5%E3%82%8B%21%E6%9D%B1%E6%96%B9%E3%81%AE%E5%90%8C%E4%BA%BA%E3%82%B2%E3%83%BC%E3%83%A0Selection_in_2020%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="139" height="196" srcset="https://upload.thwiki.cc/thumb/c/c3/%E6%AC%A1%E3%81%AB%E6%9D%A5%E3%82%8B%21%E6%9D%B1%E6%96%B9%E3%81%AE%E5%90%8C%E4%BA%BA%E3%82%B2%E3%83%BC%E3%83%A0Selection_in_2020%E5%B0%81%E9%9D%A2.jpg/208px-%E6%AC%A1%E3%81%AB%E6%9D%A5%E3%82%8B%21%E6%9D%B1%E6%96%B9%E3%81%AE%E5%90%8C%E4%BA%BA%E3%82%B2%E3%83%BC%E3%83%A0Selection_in_2020%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/c/c3/%E6%AC%A1%E3%81%AB%E6%9D%A5%E3%82%8B%21%E6%9D%B1%E6%96%B9%E3%81%AE%E5%90%8C%E4%BA%BA%E3%82%B2%E3%83%BC%E3%83%A0Selection_in_2020%E5%B0%81%E9%9D%A2.jpg/278px-%E6%AC%A1%E3%81%AB%E6%9D%A5%E3%82%8B%21%E6%9D%B1%E6%96%B9%E3%81%AE%E5%90%8C%E4%BA%BA%E3%82%B2%E3%83%BC%E3%83%A0Selection_in_2020%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="319" data-file-height="450"></a><div class="cover-char">角色：<a href="./赤蛮奇.md" title="赤蛮奇">赤蛮奇</a></div></td>
@@ -17,15 +18,18 @@
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=670385">蜜瓜</a></td></tr></tbody></table>
 
 
+
 ## Staff
 - [アンタマニド](./アンタマニド.md)
+
 
 ## 介绍游戏
 - [給食頭蛮](./給食頭蛮.md) - [クビナシリコレクション](./クビナシリコレクション.md)
 - CS Studio (未找到链接) - 斬れぬものなど爆破するみょん (未找到链接)
 - みちるーむ (未找到链接) - 早苗の信仰王への道 (未找到链接)
 - [NORTHERN MIND](./Northern_Mind.md) - [東方覚醒珠](./東方覚醒珠（※二次創作）_～_Fan-made_Virtual_Autography..md)
-- [yomogi_soft](./yomogi_soft.md) - 三妖精のぴょこぴょこ討伐大作戦！ (未找到链接)
+- [yomogi_soft](./yomogi_soft.md) - [三妖精のぴょこぴょこ討伐大作戦！](./三妖精のぴょこぴょこ討伐大作戦！.md)
+
 
 ## 评论
 ```

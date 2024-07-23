@@ -11,6 +11,7 @@ SPACELECTRO | 专辑封面 | 封面图片
 - [東方インストEDM](./東方インストEDM.md)  
 该封面包含的角色：- [古明地觉](./古明地觉.md)
 
+
 ## 文件说明
   
 源地址：[来源网页](https://soundcloud.com/specelectro/11-edm-spacelectro) [图片链接](https://i1.sndcdn.com/artworks-000078916788-cb4kv3-original.jpg)

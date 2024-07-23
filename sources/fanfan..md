@@ -6,17 +6,22 @@
 
 本页是关于东方Project  
  **二次同人创作者** 的词条
+
 ## 基本信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="label"><b>名称</b></td><td> fanfan. </td></tr><tr><td class="label"><b>真实名</b></td><td>桑原聖</td></tr><tr><td class="label"><b>别名</b></td><td>fandelmale</td></tr><tr><td class="label"><b>所属社团</b></td><td><b>当前</b><div style="margin-left:2em;"><a href="./Arte_Refact.md" title="Arte Refact">Arte Refact</a>，<a href="./君の美術館.md" title="君の美術館">君の美術館</a></div></td></tr><tr><td class="label"><b>职位</b></td><td>编曲，演奏</td></tr><tr><td class="label"><b>参与社团</b></td><td><a href="./AniPix.md" title="AniPix">AniPix</a> （演奏）<br><a href="./Arte_Refact.md" title="Arte Refact">Arte Refact</a> （编曲）<br><a href="./君の美術館.md" title="君の美術館">君の美術館</a> （编曲，演奏）</td></tr><tr><td class="label"><b>性别</b></td><td>男</td></tr><tr><td class="label"><b>生日</b></td><td>1984-7-9（39岁）</td></tr><tr><td class="label"><b>个人页面</b></td><td><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><b>Official</b></td><td><a rel="nofollow" class="external free" href="http://www.arte-refact.com/">http://www.arte-refact.com/</a></td></tr><tr><td><b>Twitter</b></td><td><a rel="nofollow" class="external free" href="https://twitter.com/fandelmale">https://twitter.com/fandelmale</a></td></tr></tbody></table></td></tr></tbody></table>
 
 fanfan.（人物） - 现实人物
+
 ## 介绍
+
 ## 参与作品
+
 ### 同人音乐
   
 模板:人物曲目列表 (未找到链接)
   
+
 
 ## 人际关系
 人名

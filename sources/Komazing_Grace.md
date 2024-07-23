@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Komazing_Grace封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/7/78/Komazing_Grace%E5%B0%81%E9%9D%A2.jpg/158px-Komazing_Grace%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="158" height="224" srcset="https://upload.thwiki.cc/thumb/7/78/Komazing_Grace%E5%B0%81%E9%9D%A2.jpg/238px-Komazing_Grace%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/7/78/Komazing_Grace%E5%B0%81%E9%9D%A2.jpg/317px-Komazing_Grace%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="600" data-file-height="848"></a><div class="cover-char">角色：<a href="./古明地恋.md" title="古明地恋">古明地恋</a></div></td>
@@ -14,11 +15,14 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://az.geo.jp/archives/2011/08/80.html">http://az.geo.jp/archives/2011/08/80.html</a><br><span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><small>（<a rel="nofollow" class="external text" href="https://web.archive.org/web/20111108003412/http://az.geo.jp/archives/2011/08/80.html">缓存页面</a>）</small></td></tr></tbody></table>
 
 Komazing Grace（同人志，az，2011） - 2011年8月13日 由 az 于 Comic Market 80 发布的漫画同人志，B5尺寸一共36页，登场人物有 古明地恋、火焰猫燐、灵乌路空、东风谷早苗、雾雨魔理沙、犬走椛，分级为 一般向
+
 ## 预览
 - [](./文件-Komazing_Grace预览图1.jpg.md)- [](./文件-Komazing_Grace预览图2.jpg.md)- [](./文件-Komazing_Grace预览图3.jpg.md)
 
+
 ## Staff
 - [az](./az.md)
+
 
 ## 评论
 - 作者

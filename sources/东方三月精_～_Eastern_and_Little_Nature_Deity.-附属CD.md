@@ -17,13 +17,13 @@
 
 东方三月精 ～ Eastern and Little Nature Deity./附属CD（官方专辑） - 官方专辑
 ## 相关信息
-- 曲目说明 (未找到链接)
+- [曲目说明](./东方三月精_～_Eastern_and_Little_Nature_Deity.-附属CD-曲目说明.md)
 
 ## 曲目
 
-<table><tbody><tr><td class="infoYD"><b>01</b></td><td colspan="2" class="title"><a href="./Sunny_Rutile_Flection.md" title="Sunny Rutile Flection">Sunny Rutile Flection</a></td><td class="time">03:49</td></tr><tr><td class="left"></td><td colspan="3" class="bigtext"><a href="/%E3%82%B5%E3%83%8B%E3%83%BC%E3%83%AB%E3%83%81%E3%83%AB%E3%83%95%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3" class="mw-redirect" title="サニールチルフレクション">サニールチルフレクション</a></td></tr>
-<tr><td class="infoYD"><b>02</b></td><td colspan="2" class="title"><a href="./因夜失眠.md" title="因夜失眠">因夜失眠</a></td><td class="time">05:19</td></tr><tr><td class="left"></td><td colspan="3" class="bigtext"><a href="/%E5%A4%9C%E3%81%A0%E3%81%8B%E3%82%89%E7%9C%A0%E3%82%8C%E3%81%AA%E3%81%84" class="mw-redirect" title="夜だから眠れない">夜だから眠れない</a></td></tr>
-<tr><td class="infoYD"><b>03</b></td><td colspan="2" class="title"><a href="./妖精灿烂的样子.md" title="妖精灿烂的样子">妖精灿烂的样子</a></td><td class="time">04:32</td></tr><tr><td class="left"></td><td colspan="3" class="bigtext"><a href="/%E5%A6%96%E7%B2%BE%E7%87%A6%E3%80%85%E3%81%A8%E3%81%97%E3%81%A6" class="mw-redirect" title="妖精燦々として">妖精燦々として</a></td></tr></tbody></table>
+<table><tbody><tr><td class="infoYD"><b>01</b></td><td colspan="2" class="title"><a href="./Sunny_Rutile_Flection.md" title="Sunny Rutile Flection">Sunny Rutile Flection</a></td><td class="time">03:49</td></tr><tr><td class="left"></td><td colspan="3" class="bigtext"><a href="./サニールチルフレクション.md" class="mw-redirect" title="サニールチルフレクション">サニールチルフレクション</a></td></tr>
+<tr><td class="infoYD"><b>02</b></td><td colspan="2" class="title"><a href="./因夜失眠.md" title="因夜失眠">因夜失眠</a></td><td class="time">05:19</td></tr><tr><td class="left"></td><td colspan="3" class="bigtext"><a href="./夜だから眠れない.md" class="mw-redirect" title="夜だから眠れない">夜だから眠れない</a></td></tr>
+<tr><td class="infoYD"><b>03</b></td><td colspan="2" class="title"><a href="./妖精灿烂的样子.md" title="妖精灿烂的样子">妖精灿烂的样子</a></td><td class="time">04:32</td></tr><tr><td class="left"></td><td colspan="3" class="bigtext"><a href="./妖精燦々として.md" class="mw-redirect" title="妖精燦々として">妖精燦々として</a></td></tr></tbody></table>
 
 
   

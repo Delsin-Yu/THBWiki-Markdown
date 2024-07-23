@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-東方LostWordにぬえちゃんの新衣装が来た話封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/c/cd/%E6%9D%B1%E6%96%B9LostWord%E3%81%AB%E3%81%AC%E3%81%88%E3%81%A1%E3%82%83%E3%82%93%E3%81%AE%E6%96%B0%E8%A1%A3%E8%A3%85%E3%81%8C%E6%9D%A5%E3%81%9F%E8%A9%B1%E5%B0%81%E9%9D%A2.jpg/139px-%E6%9D%B1%E6%96%B9LostWord%E3%81%AB%E3%81%AC%E3%81%88%E3%81%A1%E3%82%83%E3%82%93%E3%81%AE%E6%96%B0%E8%A1%A3%E8%A3%85%E3%81%8C%E6%9D%A5%E3%81%9F%E8%A9%B1%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="139" height="196" srcset="https://upload.thwiki.cc/thumb/c/cd/%E6%9D%B1%E6%96%B9LostWord%E3%81%AB%E3%81%AC%E3%81%88%E3%81%A1%E3%82%83%E3%82%93%E3%81%AE%E6%96%B0%E8%A1%A3%E8%A3%85%E3%81%8C%E6%9D%A5%E3%81%9F%E8%A9%B1%E5%B0%81%E9%9D%A2.jpg/208px-%E6%9D%B1%E6%96%B9LostWord%E3%81%AB%E3%81%AC%E3%81%88%E3%81%A1%E3%82%83%E3%82%93%E3%81%AE%E6%96%B0%E8%A1%A3%E8%A3%85%E3%81%8C%E6%9D%A5%E3%81%9F%E8%A9%B1%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/c/cd/%E6%9D%B1%E6%96%B9LostWord%E3%81%AB%E3%81%AC%E3%81%88%E3%81%A1%E3%82%83%E3%82%93%E3%81%AE%E6%96%B0%E8%A1%A3%E8%A3%85%E3%81%8C%E6%9D%A5%E3%81%9F%E8%A9%B1%E5%B0%81%E9%9D%A2.jpg/278px-%E6%9D%B1%E6%96%B9LostWord%E3%81%AB%E3%81%AC%E3%81%88%E3%81%A1%E3%82%83%E3%82%93%E3%81%AE%E6%96%B0%E8%A1%A3%E8%A3%85%E3%81%8C%E6%9D%A5%E3%81%9F%E8%A9%B1%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="850" data-file-height="1200"></a><div class="cover-char">角色：<a href="./封兽鵺.md" title="封兽鵺">封兽鵺</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/false76/status/1607019884101373953">https://twitter.com/false76/status/1607019884101373953</a></td></tr></tbody></table>
 
 東方LostWordにぬえちゃんの新衣装が来た話（同人志，偽者の脳内，2022） - 2022年12月31日 由 偽者の脳内 于 Comic Market 101 发布的漫画同人志，B5尺寸一共16页，分级为 一般向
+
 ## Staff
 - FALSE (未找到链接)
+
 
 ## 评论
 

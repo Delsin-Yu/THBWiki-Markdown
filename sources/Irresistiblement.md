@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Irresistiblement封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/7/75/Irresistiblement%E5%B0%81%E9%9D%A2.jpg/98px-Irresistiblement%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="98" height="140" srcset="https://upload.thwiki.cc/thumb/7/75/Irresistiblement%E5%B0%81%E9%9D%A2.jpg/147px-Irresistiblement%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/7/75/Irresistiblement%E5%B0%81%E9%9D%A2.jpg/196px-Irresistiblement%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="700" data-file-height="997"></a><div class="cover-char">角色：<a href="./丰聪耳神子.md" title="丰聪耳神子">丰聪耳神子</a>，<a href="./物部布都.md" title="物部布都">物部布都</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/45320046">https://www.pixiv.net/artworks/45320046</a></td></tr></tbody></table>
 
 Irresistiblement（同人志，POCAPOCA，2014） - 2014年8月16日 由 POCAPOCA 于 Comic Market 86 发布的漫画同人志，分级为 一般向
+
 ## Staff
 : ぽっか (未找到链接)
+
 
 ## 评论
 

@@ -4,8 +4,9 @@
 
 TouhouTech 从2014年开始，在 墨西哥蒙特雷、墨西哥城 举办的  东方同人展会活动，每年1-4次，目前共举办了15届
 
-本页是关于 **同人展会 (未找到链接)**   
-及 **相关活动 (未找到链接)** 的词条
+本页是关于 **[同人展会](./同人展会.md#展会类活动)**   
+及 **[相关活动](./相关活动.md)** 的词条
+
 ## 目录
 
 - [1 概述](#概述)
@@ -35,6 +36,7 @@ TouhouTech 从2014年开始，在 墨西哥蒙特雷、墨西哥城 举办的  �
 
 
 
+
 ## 概述
 文件:TouhouTechLOGO.jpg (未找到链接)  TouhouTech LOGO
   
@@ -43,7 +45,7 @@ TouhouTech 从2014年开始，在 墨西哥蒙特雷、墨西哥城 举办的  �
   
   
   
-墨西哥 **蒙特雷、墨西哥城** 的东方Project Only **同人展会类活动 (未找到链接)** 。最先在墨西哥蒙特雷举办，后来也在墨西哥城及瓜达拉哈拉举办过。  
+墨西哥 **蒙特雷、墨西哥城** 的东方Project Only **同人[展会类活动](./展会类活动.md#展会类活动)** 。最先在墨西哥蒙特雷举办，后来也在墨西哥城及瓜达拉哈拉举办过。  
   
 主要在蒙特雷、墨西哥城举办，从2014年开始，每年1-4次，每次持续1天，亦曾在瓜达拉哈拉举办过。  
 直到目前为止，已经举办了15届（包含已决定将会举办）。  
@@ -55,6 +57,7 @@ TouhouTech 从2014年开始，在 墨西哥蒙特雷、墨西哥城 举办的  �
 主办方： **[Hunter Youkai Friends](./Hunter_Youkai_Friends.md)，Irreal Gensokyo** （Hunter Youkai Friends，Irreal Gensokyo）[^cite_note-1]  
   
 TouhouTech（活动，展会活动） - TouhouTech 从2014年开始，在 墨西哥蒙特雷、墨西哥城 举办的  东方同人展会活动，每年1-4次，目前共举办了15届
+
 ## 历届信息
 - 点击届数可进入对应分类页面。
 - 请注意，摊位数统计可能不准确。
@@ -81,48 +84,64 @@ TouhouTech（活动，展会活动） - TouhouTech 从2014年开始，在 墨西
 </tbody></table>
 
 
+
 ## 历届宣传图
+
 ### TouhouTech 1 蒙特雷
 - [](./文件-TouhouTech_1_Monterrey_宣传图1.jpg.md)- [](./文件-TouhouTech旧宣传图1.jpg.md)旧宣传图
+
 
 ### TouhouTech 2 蒙特雷
 - [](./文件-TouhouTech_2_Monterrey宣传图1.jpg.md)
 
+
 ### TouhouTech 1 墨西哥城
 - [](./文件-TouhouTech_1_Mexico_City宣传图1.jpg.md)
+
 
 ### TouhouTech 3 蒙特雷
 - [](./文件-TouhouTech_3_Monterrey宣传图1.jpg.md)
 
+
 ### TouhouTech 2 墨西哥城
 - [](./文件-TouhouTech_2_Mexico_City宣传图1.png.md)
+
 
 ### TouhouTech 3 墨西哥城
 - [](./文件-TouhouTech_3_Mexico_City宣传图1.jpg.md)
 
+
 ### TouhouTech 4 墨西哥城
 - [](./文件-TouhouTech_4_Mexico_City宣传图1.jpg.md)
+
 
 ### TouhouTech 4 蒙特雷
 - [](./文件-TouhouTech_4_Monterrey宣传图1.jpg.md)
 
+
 ### TouhouTech 5 墨西哥城
 - [](./文件-TouhouTech_5_Mexico_City宣传图1.jpg.md)
+
 
 ### TouhouTech 5 蒙特雷
 - [](./文件-TouhouTech_5_Monterrey宣传图1.jpg.md)
 
+
 ### TouhouTech 6 墨西哥城
 - [](./文件-TouhouTech_6_Mexico_City宣传图1.jpg.md)- [](./文件-TouhouTech_6_Mexico_City宣传图2.jpg.md)
+
 
 ### TouhouTech 瓜达拉哈拉
 - [](./文件-TouhouTech_Guadalajara宣传图1.jpg.md)
 
+
 ### TouhouTech 7 墨西哥城
 - [](./文件-TouhouTech_7_Mexico_City宣传图1.jpg.md)
 
+
 ### TouhouTech 8 墨西哥城
 - [](./文件-TouhouTech_8_Mexico_City宣传图1.jpg.md)- [](./文件-TouhouTech_8_Mexico_City宣传图2.jpg.md)- [](./文件-TouhouTech_8_Mexico_City宣传图3.jpg.md)- [](./文件-TouhouTech_8_Mexico_City宣传图4.jpg.md)- [](./文件-TouhouTech_8_Mexico_City宣传图5.jpg.md)
+
 
 ### TouhouTech 8.5
 - [](./文件-TouhouTech_8.5宣传图1.jpg.md)

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-東方樹命苑_～_Maidens_in_the_Garden.封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/3/33/%E6%9D%B1%E6%96%B9%E6%A8%B9%E5%91%BD%E8%8B%91_%EF%BD%9E_Maidens_in_the_Garden.%E5%B0%81%E9%9D%A2.png/112px-%E6%9D%B1%E6%96%B9%E6%A8%B9%E5%91%BD%E8%8B%91_%EF%BD%9E_Maidens_in_the_Garden.%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="112" height="112" srcset="https://upload.thwiki.cc/thumb/3/33/%E6%9D%B1%E6%96%B9%E6%A8%B9%E5%91%BD%E8%8B%91_%EF%BD%9E_Maidens_in_the_Garden.%E5%B0%81%E9%9D%A2.png/168px-%E6%9D%B1%E6%96%B9%E6%A8%B9%E5%91%BD%E8%8B%91_%EF%BD%9E_Maidens_in_the_Garden.%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/3/33/%E6%9D%B1%E6%96%B9%E6%A8%B9%E5%91%BD%E8%8B%91_%EF%BD%9E_Maidens_in_the_Garden.%E5%B0%81%E9%9D%A2.png/224px-%E6%9D%B1%E6%96%B9%E6%A8%B9%E5%91%BD%E8%8B%91_%EF%BD%9E_Maidens_in_the_Garden.%E5%B0%81%E9%9D%A2.png 2x" data-file-width="500" data-file-height="500"></a><div class="cover-char">角色：<a href="./柊命花.md" title="柊命花">柊命花</a></div></td>
@@ -13,14 +14,18 @@
 </tr><tr><td class="label">首发日期</td><td>2011-07-09</td></tr><tr><td class="label">类型</td><td>设定集</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr></tbody></table>
 
 東方樹命苑 ～ Maidens in the Garden.（同人志，鹿子，2011） - 2011年7月9日 由 鹿子  发布的设定集同人志，分级为 一般向
+
 ## Staff
 剧情、人物设定、立绘
 : 鹿子
 
+
 ## 游戏介绍
 - [故事背景](./東方樹命苑_～_Maidens_in_the_Garden.-故事背景.md)
 
+
 ## 角色
+
 ### 可用角色
 
 <table><tbody><tr><td style="min-width:40px;" rowspan=""><div class="center"><div class="floatnone"><a href="./文件-奥黛丽·克雷斯顿（树命苑）.png.md" class="image" title="奥黛丽·克雷斯顿"><img alt="奥黛丽·克雷斯顿" src="https://upload.thwiki.cc/thumb/a/a0/%E5%A5%A5%E9%BB%9B%E4%B8%BD%C2%B7%E5%85%8B%E9%9B%B7%E6%96%AF%E9%A1%BF%EF%BC%88%E6%A0%91%E5%91%BD%E8%8B%91%EF%BC%89.png/26px-%E5%A5%A5%E9%BB%9B%E4%B8%BD%C2%B7%E5%85%8B%E9%9B%B7%E6%96%AF%E9%A1%BF%EF%BC%88%E6%A0%91%E5%91%BD%E8%8B%91%EF%BC%89.png" decoding="async" loading="lazy" width="26" height="40" srcset="https://upload.thwiki.cc/thumb/a/a0/%E5%A5%A5%E9%BB%9B%E4%B8%BD%C2%B7%E5%85%8B%E9%9B%B7%E6%96%AF%E9%A1%BF%EF%BC%88%E6%A0%91%E5%91%BD%E8%8B%91%EF%BC%89.png/40px-%E5%A5%A5%E9%BB%9B%E4%B8%BD%C2%B7%E5%85%8B%E9%9B%B7%E6%96%AF%E9%A1%BF%EF%BC%88%E6%A0%91%E5%91%BD%E8%8B%91%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/a/a0/%E5%A5%A5%E9%BB%9B%E4%B8%BD%C2%B7%E5%85%8B%E9%9B%B7%E6%96%AF%E9%A1%BF%EF%BC%88%E6%A0%91%E5%91%BD%E8%8B%91%EF%BC%89.png/53px-%E5%A5%A5%E9%BB%9B%E4%B8%BD%C2%B7%E5%85%8B%E9%9B%B7%E6%96%AF%E9%A1%BF%EF%BC%88%E6%A0%91%E5%91%BD%E8%8B%91%EF%BC%89.png 2x" data-file-width="400" data-file-height="600"></a></div></div></td> <td style="width:150px;padding:3px 9px 3px 7px;" rowspan="">恐れ知らずの冒険家<br><i><a href="/index.php?title=%E3%83%89%E3%83%AD%E3%82%B7%E3%83%BC%E3%83%88%E3%83%A9%E3%83%99%E3%83%AD%E3%83%BC%E3%82%B0&amp;action=edit&amp;redlink=1" class="new" title="ドロシートラベローグ（页面不存在）">ドロシートラベローグ</a></i> </td><td style="width:180px;padding:3px 9px 3px 7px;"><a href="./奥黛丽·克雷斯顿.md" title="奥黛丽·克雷斯顿">奥黛丽·克雷斯顿</a></td><td><a href="./東方樹命苑_～_Maidens_in_the_Garden.-奥黛丽·克雷斯顿.md" title="東方樹命苑 ～ Maidens in the Garden./奥黛丽·克雷斯顿">游戏对话</a><br><a href="./東方樹命苑_～_Maidens_in_the_Garden.-奥黛丽·克雷斯顿-对战.md" title="東方樹命苑 ～ Maidens in the Garden./奥黛丽·克雷斯顿/对战">对战模式对话</a></td></tr>
@@ -33,7 +38,9 @@
 <tr><td style="min-width:40px;" rowspan=""><div class="center"><div class="floatnone"><a href="./文件-尼勒丝·艾斯莱特（树命苑）.png.md" class="image" title="尼勒丝·艾斯莱特"><img alt="尼勒丝·艾斯莱特" src="https://upload.thwiki.cc/thumb/2/2f/%E5%B0%BC%E5%8B%92%E4%B8%9D%C2%B7%E8%89%BE%E6%96%AF%E8%8E%B1%E7%89%B9%EF%BC%88%E6%A0%91%E5%91%BD%E8%8B%91%EF%BC%89.png/34px-%E5%B0%BC%E5%8B%92%E4%B8%9D%C2%B7%E8%89%BE%E6%96%AF%E8%8E%B1%E7%89%B9%EF%BC%88%E6%A0%91%E5%91%BD%E8%8B%91%EF%BC%89.png" decoding="async" loading="lazy" width="34" height="40" srcset="https://upload.thwiki.cc/thumb/2/2f/%E5%B0%BC%E5%8B%92%E4%B8%9D%C2%B7%E8%89%BE%E6%96%AF%E8%8E%B1%E7%89%B9%EF%BC%88%E6%A0%91%E5%91%BD%E8%8B%91%EF%BC%89.png/51px-%E5%B0%BC%E5%8B%92%E4%B8%9D%C2%B7%E8%89%BE%E6%96%AF%E8%8E%B1%E7%89%B9%EF%BC%88%E6%A0%91%E5%91%BD%E8%8B%91%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/2/2f/%E5%B0%BC%E5%8B%92%E4%B8%9D%C2%B7%E8%89%BE%E6%96%AF%E8%8E%B1%E7%89%B9%EF%BC%88%E6%A0%91%E5%91%BD%E8%8B%91%EF%BC%89.png/68px-%E5%B0%BC%E5%8B%92%E4%B8%9D%C2%B7%E8%89%BE%E6%96%AF%E8%8E%B1%E7%89%B9%EF%BC%88%E6%A0%91%E5%91%BD%E8%8B%91%EF%BC%89.png 2x" data-file-width="375" data-file-height="443"></a></div></div></td> <td style="width:150px;padding:3px 9px 3px 7px;" rowspan="">沈まれた大陸の魂<br><i><a href="/index.php?title=%E9%98%BF%E7%89%B9%E6%8B%89%E6%96%AF%E4%BE%B5%E6%94%BB%E6%9B%B2_%EF%BD%9E_Dangerous_march.&amp;action=edit&amp;redlink=1" class="new" title="阿特拉斯侵攻曲 ～ Dangerous march.（页面不存在）">阿特拉斯侵攻曲　～ Dangerous march.</a></i> </td><td style="width:180px;padding:3px 9px 3px 7px;"><a href="./尼勒丝·艾斯莱特.md" title="尼勒丝·艾斯莱特">尼勒丝·艾斯莱特</a></td><td><a href="/index.php?title=%E6%9D%B1%E6%96%B9%E6%A8%B9%E5%91%BD%E8%8B%91_%EF%BD%9E_Maidens_in_the_Garden./%E5%B0%BC%E5%8B%92%E4%B8%9D%C2%B7%E8%89%BE%E6%96%AF%E8%8E%B1%E7%89%B9/%E5%AF%B9%E6%88%98&amp;action=edit&amp;redlink=1" class="new" title="東方樹命苑 ～ Maidens in the Garden./尼勒丝·艾斯莱特/对战（页面不存在）">对战模式对话</a></td></tr></tbody></table>
 
 
+
 ## 评论
+
 ## 外部链接
   
 [東方樹命苑(新キャラ追加版)](https://www.pixiv.net/artworks/20299087)
@@ -44,6 +51,7 @@
   
 [東方樹命苑のあそびかた(オプション説明追加)](https://www.pixiv.net/novel/show.php?id=384416)
   
+
 
 ## 词条导航
   

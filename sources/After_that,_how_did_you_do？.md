@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=After_that,_how_did_you_do%EF%BC%9F%E5%B0%81%E9%9D%A2.jpg" class="new" title="文件:After that, how did you do？封面.jpg">封面图片</a></td>
@@ -14,9 +15,11 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://yellowxcake.blog19.fc2.com/blog-entry-108.html">http://yellowxcake.blog19.fc2.com/blog-entry-108.html</a></td></tr></tbody></table>
 
 After that, how did you do？（同人志，ワタガミ，イエローケーキ，2011） - 2011年2月13日 由 ワタガミ，イエローケーキ 于 出行LIVE宇都宫146 发布的漫画同人志，分级为 一般向
+
 ## Staff
 : かいお (未找到链接)
 : きょま (未找到链接)
+
 
 ## 评论
 

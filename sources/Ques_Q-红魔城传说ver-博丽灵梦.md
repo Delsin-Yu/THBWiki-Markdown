@@ -6,11 +6,13 @@
 
 本页是关于东方Project  
  **相关实体周边 (未找到链接)** 的词条
+
 ## 模型信息
 
 <table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 博丽灵梦 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>红魔城传说ver</td></tr><tr><td class="label">角色</td><td><a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></td></tr><tr><td class="label">原画师</td><td><a href="/index.php?title=%E6%99%A9%E6%9D%AF_%E3%81%82%E3%81%8D%E3%82%89&amp;action=edit&amp;redlink=1" class="new" title="晩杯 あきら（页面不存在）">晩杯 あきら</a></td></tr><tr><td class="label">比例</td><td>1/8</td></tr><tr><td class="label">状态</td><td>未发售</td></tr><tr><td class="label">发售方</td><td><a href="/index.php?title=Ques_Q&amp;action=edit&amp;redlink=1" class="new" title="Ques Q（页面不存在）">Ques Q</a></td></tr></tbody></table>
 
 Ques Q/红魔城传说ver/博丽灵梦（周边） - 博丽灵梦PVCFigure手办模型
+
 ## 参考图片
 
 

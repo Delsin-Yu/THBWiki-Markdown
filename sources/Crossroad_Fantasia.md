@@ -18,6 +18,7 @@
 
 
 </center>
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Crossroad_Fantasia封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/e/ee/Crossroad_Fantasia%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="252" data-file-width="200" data-file-height="200"></a><div class="cover-char">角色：<a href="./八云紫.md" title="八云紫">八云紫</a></div></td>
@@ -26,6 +27,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://heiwasou.info/l-zone/index.php/Discography">http://heiwasou.info/l-zone/index.php/Discography</a></td></tr><tr><td class="label">备注</td><td colspan="2">PreRelease Recording Edition</td></tr></tbody></table>
 
 Crossroad Fantasia（同人专辑，L-ZONE，2014） - 2014年3月30日 由 L-ZONE 于 东方名华祭8 发布的单曲同人专辑，曲目主要风格是 Rock，分级为 一般向
+
 ## Staff
   
  **Arrangement**   
@@ -46,9 +48,11 @@ Crossroad Fantasia（同人专辑，L-ZONE，2014） - 2014年3月30日 由 L-ZO
 Illustration
 : 白取 翔
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoRD"><b>01</b></td><td id="Crossroad_Fantasia" colspan="2" class="title"><span class="new" title="（歌词页面不存在）"><a href="/index.php?title=%E6%AD%8C%E8%AF%8D:Crossroad_Fantasia&amp;boilerplate=模板:页面模板/曲目歌词&amp;action=edit">Crossroad Fantasia</a></span><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=UG&amp;vocal=翠(MIDORI)&amp;lyric=翔月 瞳&amp;ogmusic=ネクロファンタジア&amp;fromwiki=Crossroad_Fantasia"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=UG&amp;action=edit&amp;redlink=1" class="new" title="UG（页面不存在）">UG</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，UG&amp;fromwiki=Crossroad_Fantasia"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="/index.php?title=%E7%BF%A0(MIDORI)&amp;action=edit&amp;redlink=1" class="new" title="翠(MIDORI)（页面不存在）">翠(MIDORI)</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=翠(MIDORI)&amp;fromwiki=Crossroad_Fantasia"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="/index.php?title=%E7%BF%94%E6%9C%88_%E7%9E%B3&amp;action=edit&amp;redlink=1" class="new" title="翔月 瞳（页面不存在）">翔月 瞳</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?lyric=翔月 瞳&amp;fromwiki=Crossroad_Fantasia"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=ネクロファンタジア&amp;fromwiki=Crossroad_Fantasia"><span></span></a></span><div class="ogmusic"><a href="/%E3%83%8D%E3%82%AF%E3%83%AD%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%82%A2" class="mw-redirect" title="ネクロファンタジア">ネクロファンタジア</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E5%A6%96%E5%A6%96%E6%A2%A6_%EF%BD%9E_Perfect_Cherry_Blossom." class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoRD"><b>01</b></td><td id="Crossroad_Fantasia" colspan="2" class="title"><span class="new" title="（歌词页面不存在）"><a href="/index.php?title=%E6%AD%8C%E8%AF%8D:Crossroad_Fantasia&amp;boilerplate=模板:页面模板/曲目歌词&amp;action=edit">Crossroad Fantasia</a></span><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=UG&amp;vocal=翠(MIDORI)&amp;lyric=翔月 瞳&amp;ogmusic=ネクロファンタジア&amp;fromwiki=Crossroad_Fantasia"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=UG&amp;action=edit&amp;redlink=1" class="new" title="UG（页面不存在）">UG</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，UG&amp;fromwiki=Crossroad_Fantasia"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="/index.php?title=%E7%BF%A0(MIDORI)&amp;action=edit&amp;redlink=1" class="new" title="翠(MIDORI)（页面不存在）">翠(MIDORI)</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=翠(MIDORI)&amp;fromwiki=Crossroad_Fantasia"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="/index.php?title=%E7%BF%94%E6%9C%88_%E7%9E%B3&amp;action=edit&amp;redlink=1" class="new" title="翔月 瞳（页面不存在）">翔月 瞳</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?lyric=翔月 瞳&amp;fromwiki=Crossroad_Fantasia"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=ネクロファンタジア&amp;fromwiki=Crossroad_Fantasia"><span></span></a></span><div class="ogmusic"><a href="./ネクロファンタジア.md" class="mw-redirect" title="ネクロファンタジア">ネクロファンタジア</a></div><div class="source"><a href="./东方妖妖梦_～_Perfect_Cherry_Blossom..md" class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

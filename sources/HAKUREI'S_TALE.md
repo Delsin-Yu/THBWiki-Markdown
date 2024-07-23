@@ -18,6 +18,7 @@
 
 
 </center>
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-HAKUREI'S_TALE封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/a/ae/HAKUREI%27S_TALE%E5%B0%81%E9%9D%A2.jpg/218px-HAKUREI%27S_TALE%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="218" height="224" srcset="https://upload.thwiki.cc/thumb/a/ae/HAKUREI%27S_TALE%E5%B0%81%E9%9D%A2.jpg/327px-HAKUREI%27S_TALE%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/a/ae/HAKUREI%27S_TALE%E5%B0%81%E9%9D%A2.jpg/435px-HAKUREI%27S_TALE%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1377" data-file-height="1417"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></div></td>
@@ -26,10 +27,13 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/paragunasatsuki/status/354600301224935425">https://twitter.com/paragunasatsuki/status/354600301224935425</a></td></tr></tbody></table>
 
 HAKUREI'S TALE（同人专辑，NATSUKI RECORDS） - 2024年6月22日 由 NATSUKI RECORDS  发布的全长同人专辑，曲目主要风格是 Trance，分级为 一般向
+
 ## Staff
+
 ## 曲目列表
 
 <table></table>
+
 
 
 ## 评论

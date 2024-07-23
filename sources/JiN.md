@@ -6,11 +6,13 @@
 
 本页是关于东方Project  
  **二次同人创作者** 的词条
+
 ## 基本信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="label"><b>名称</b></td><td> JiN </td></tr><tr><td class="label"><b>所属社团</b></td><td><b>当前</b><div style="margin-left:2em;"><a href="./セカイノハテ.md" title="セカイノハテ">セカイノハテ</a></div></td></tr><tr><td class="label"><b>职位</b></td><td>画师</td></tr><tr><td class="label"><b>个人页面</b></td><td><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><b>Twitter</b></td><td><a rel="nofollow" class="external free" href="https://twitter.com/JiN_SnH">https://twitter.com/JiN_SnH</a></td></tr><tr><td><b>Pixiv</b></td><td><a rel="nofollow" class="external free" href="https://www.pixiv.net/users/21806">https://www.pixiv.net/users/21806</a></td></tr></tbody></table></td></tr></tbody></table>
 
 JiN（人物） - 现实人物
+
 ## 介绍
 - 曾为[R-note](./R-note.md)和[いえろ～ぜぶら](./いえろ～ぜぶら.md)的专辑绘制封面。
 

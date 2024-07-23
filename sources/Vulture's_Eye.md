@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Vulture's_Eye封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/5/5e/Vulture%27s_Eye%E5%B0%81%E9%9D%A2.jpg/224px-Vulture%27s_Eye%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="224" srcset="https://upload.thwiki.cc/thumb/5/5e/Vulture%27s_Eye%E5%B0%81%E9%9D%A2.jpg/336px-Vulture%27s_Eye%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/5/5e/Vulture%27s_Eye%E5%B0%81%E9%9D%A2.jpg/448px-Vulture%27s_Eye%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="3000" data-file-height="3000"></a></td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://music.163.com/#/album?id=79192932">https://music.163.com/#/album?id=79192932</a></td></tr></tbody></table>
 
 Vulture's Eye（同人专辑，DualInsomiNa，2019） - 2019年5月20日 由 DualInsomiNa  发布的单曲同人专辑，曲目主要风格是 金属，分级为 一般向
+
 ## Staff
   
  **Arrangement**   
@@ -35,6 +37,7 @@ PV
 : Aya~亜夜罪~ （[DualInsomiNa](./DualInsomiNa.md)）
 PV Material
 : [Mazwai](http://mazwai.com/)
+
 
 ## 试听
   
@@ -62,9 +65,11 @@ PV Material
 </td></tr></tbody></table>
 
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoRD"><b>01</b></td><td id="Vulture&#39;s_Eye" colspan="2" class="title"><a href="./歌词-Vulture's_Eye.md" title="歌词:Vulture&#39;s Eye">Vulture&#39;s Eye</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=LeNTA-AiTeN&amp;vocal=Cyano，郵狸&amp;lyric=Cyano，郵狸&amp;ogmusic=古きユアンシェン&amp;fromwiki=Vulture's_Eye"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:24</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=LeNTA-AiTeN&amp;action=edit&amp;redlink=1" class="new" title="LeNTA-AiTeN（页面不存在）">LeNTA-AiTeN</a>（as <b>AiTe▓N</b>）<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，LeNTA-AiTeN&amp;fromwiki=Vulture's_Eye"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="./Cyano.md" title="Cyano">Cyano</a>，<a href="/index.php?title=%E9%83%B5%E7%8B%B8&amp;action=edit&amp;redlink=1" class="new" title="郵狸（页面不存在）">郵狸</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=Cyano，郵狸&amp;fromwiki=Vulture's_Eye"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="./Cyano.md" title="Cyano">Cyano</a>，<a href="/index.php?title=%E9%83%B5%E7%8B%B8&amp;action=edit&amp;redlink=1" class="new" title="郵狸（页面不存在）">郵狸</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?lyric=Cyano，郵狸&amp;fromwiki=Vulture's_Eye"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=古きユアンシェン&amp;fromwiki=Vulture's_Eye"><span></span></a></span><div class="ogmusic"><a href="/%E5%8F%A4%E3%81%8D%E3%83%A6%E3%82%A2%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%B3" class="mw-redirect" title="古きユアンシェン">古きユアンシェン</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E7%A5%9E%E7%81%B5%E5%BA%99_%EF%BD%9E_Ten_Desires." class="mw-redirect" title="东方神灵庙 ～ Ten Desires.">东方神灵庙　～ Ten Desires.</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoRD"><b>01</b></td><td id="Vulture&#39;s_Eye" colspan="2" class="title"><a href="./歌词-Vulture's_Eye.md" title="歌词:Vulture&#39;s Eye">Vulture&#39;s Eye</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=LeNTA-AiTeN&amp;vocal=Cyano，郵狸&amp;lyric=Cyano，郵狸&amp;ogmusic=古きユアンシェン&amp;fromwiki=Vulture's_Eye"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:24</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=LeNTA-AiTeN&amp;action=edit&amp;redlink=1" class="new" title="LeNTA-AiTeN（页面不存在）">LeNTA-AiTeN</a>（as <b>AiTe▓N</b>）<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，LeNTA-AiTeN&amp;fromwiki=Vulture's_Eye"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="./Cyano.md" title="Cyano">Cyano</a>，<a href="/index.php?title=%E9%83%B5%E7%8B%B8&amp;action=edit&amp;redlink=1" class="new" title="郵狸（页面不存在）">郵狸</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=Cyano，郵狸&amp;fromwiki=Vulture's_Eye"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="./Cyano.md" title="Cyano">Cyano</a>，<a href="/index.php?title=%E9%83%B5%E7%8B%B8&amp;action=edit&amp;redlink=1" class="new" title="郵狸（页面不存在）">郵狸</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?lyric=Cyano，郵狸&amp;fromwiki=Vulture's_Eye"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=古きユアンシェン&amp;fromwiki=Vulture's_Eye"><span></span></a></span><div class="ogmusic"><a href="./古きユアンシェン.md" class="mw-redirect" title="古きユアンシェン">古きユアンシェン</a></div><div class="source"><a href="./东方神灵庙_～_Ten_Desires..md" class="mw-redirect" title="东方神灵庙 ～ Ten Desires.">东方神灵庙　～ Ten Desires.</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

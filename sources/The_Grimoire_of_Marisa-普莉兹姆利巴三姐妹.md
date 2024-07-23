@@ -22,6 +22,7 @@ The_Grimoire_of_Marisa | 使用了翻译表的页面 | 普莉兹姆利巴三姐�
   
 </center>
 <center>第54-55页</center>
+
 ## 普莉兹姆利巴三姐妹
 <center>Page 54</center>
 [](./文件-GoM插图（虹川-LOGO）.jpg.md)  
@@ -38,6 +39,7 @@ The_Grimoire_of_Marisa | 使用了翻译表的页面 | 普莉兹姆利巴三姐�
 
 <table>
 <tbody><tr><td colspan="10" style="text-align:center; font-weight:bold;">骚符「Live Poltergeist」</td></tr><tr><td style="text-align:center;"><table class="bg-color-neutral-10" style="width:140px; float:left; border-collapse:collapse; margin:3px;"><tbody><tr><td style="height:160px; border:1px solid #CCCCCC; padding:0px;"><div class="center"><div class="floatnone"><a href="./文件-GoM插图（虹川-1-1）.jpg.md" class="image"><img alt="" src="https://upload.thwiki.cc/thumb/7/7d/GoM%E6%8F%92%E5%9B%BE%EF%BC%88%E8%99%B9%E5%B7%9D-1-1%EF%BC%89.jpg/119px-GoM%E6%8F%92%E5%9B%BE%EF%BC%88%E8%99%B9%E5%B7%9D-1-1%EF%BC%89.jpg" decoding="async" loading="lazy" width="119" height="140" class="thumbborder" srcset="https://upload.thwiki.cc/thumb/7/7d/GoM%E6%8F%92%E5%9B%BE%EF%BC%88%E8%99%B9%E5%B7%9D-1-1%EF%BC%89.jpg/179px-GoM%E6%8F%92%E5%9B%BE%EF%BC%88%E8%99%B9%E5%B7%9D-1-1%EF%BC%89.jpg 1.5x, https://upload.thwiki.cc/thumb/7/7d/GoM%E6%8F%92%E5%9B%BE%EF%BC%88%E8%99%B9%E5%B7%9D-1-1%EF%BC%89.jpg/239px-GoM%E6%8F%92%E5%9B%BE%EF%BC%88%E8%99%B9%E5%B7%9D-1-1%EF%BC%89.jpg 2x" data-file-width="289" data-file-height="339"></a></div></div></td></tr></tbody></table><table class="bg-color-neutral-10" style="width:140px; float:left; border-collapse:collapse; margin:3px;"><tbody><tr><td style="height:160px; border:1px solid #CCCCCC; padding:0px;"><div class="center"><div class="floatnone"><a href="./文件-GoM插图（虹川-1-2）.jpg.md" class="image"><img alt="" src="https://upload.thwiki.cc/thumb/3/38/GoM%E6%8F%92%E5%9B%BE%EF%BC%88%E8%99%B9%E5%B7%9D-1-2%EF%BC%89.jpg/119px-GoM%E6%8F%92%E5%9B%BE%EF%BC%88%E8%99%B9%E5%B7%9D-1-2%EF%BC%89.jpg" decoding="async" loading="lazy" width="119" height="140" class="thumbborder" srcset="https://upload.thwiki.cc/3/38/GoM%E6%8F%92%E5%9B%BE%EF%BC%88%E8%99%B9%E5%B7%9D-1-2%EF%BC%89.jpg 1.5x" data-file-width="164" data-file-height="193"></a></div></div></td></tr></tbody></table><table class="bg-color-neutral-10" style="width:140px; float:left; border-collapse:collapse; margin:3px;"><tbody><tr><td style="height:160px; border:1px solid #CCCCCC; padding:0px;"><div class="center"><div class="floatnone"><a href="./文件-GoM插图（虹川-1-3）.jpg.md" class="image"><img alt="" src="https://upload.thwiki.cc/thumb/9/94/GoM%E6%8F%92%E5%9B%BE%EF%BC%88%E8%99%B9%E5%B7%9D-1-3%EF%BC%89.jpg/119px-GoM%E6%8F%92%E5%9B%BE%EF%BC%88%E8%99%B9%E5%B7%9D-1-3%EF%BC%89.jpg" decoding="async" loading="lazy" width="119" height="140" class="thumbborder" srcset="https://upload.thwiki.cc/9/94/GoM%E6%8F%92%E5%9B%BE%EF%BC%88%E8%99%B9%E5%B7%9D-1-3%EF%BC%89.jpg 1.5x" data-file-width="164" data-file-height="193"></a></div></div></td></tr></tbody></table><table class="bg-color-neutral-10" style="width:140px; float:left; border-collapse:collapse; margin:3px;"><tbody><tr><td style="height:160px; border:1px solid #CCCCCC; padding:0px;"><div class="center"><div class="floatnone"><a href="./文件-GoM插图（虹川-1-4）.jpg.md" class="image"><img alt="" src="https://upload.thwiki.cc/thumb/5/53/GoM%E6%8F%92%E5%9B%BE%EF%BC%88%E8%99%B9%E5%B7%9D-1-4%EF%BC%89.jpg/119px-GoM%E6%8F%92%E5%9B%BE%EF%BC%88%E8%99%B9%E5%B7%9D-1-4%EF%BC%89.jpg" decoding="async" loading="lazy" width="119" height="140" class="thumbborder" srcset="https://upload.thwiki.cc/thumb/5/53/GoM%E6%8F%92%E5%9B%BE%EF%BC%88%E8%99%B9%E5%B7%9D-1-4%EF%BC%89.jpg/178px-GoM%E6%8F%92%E5%9B%BE%EF%BC%88%E8%99%B9%E5%B7%9D-1-4%EF%BC%89.jpg 1.5x, https://upload.thwiki.cc/thumb/5/53/GoM%E6%8F%92%E5%9B%BE%EF%BC%88%E8%99%B9%E5%B7%9D-1-4%EF%BC%89.jpg/238px-GoM%E6%8F%92%E5%9B%BE%EF%BC%88%E8%99%B9%E5%B7%9D-1-4%EF%BC%89.jpg 2x" data-file-width="346" data-file-height="407"></a></div></div></td></tr></tbody></table></td></tr></tbody></table>
+
 
 
 
@@ -60,6 +62,7 @@ The_Grimoire_of_Marisa | 使用了翻译表的页面 | 普莉兹姆利巴三姐�
 
 
 
+
 ## 梅露兰·普莉兹姆利巴
 <center>第55页</center>
 [](./文件-GoM插图（梅露兰-LOGO）.jpg.md)  
@@ -76,6 +79,7 @@ The_Grimoire_of_Marisa | 使用了翻译表的页面 | 普莉兹姆利巴三姐�
 
 <table>
 <tbody><tr><td colspan="10" style="text-align:center; font-weight:bold;">管灵「Hino Phantasm」</td></tr><tr><td style="text-align:center;"><table class="bg-color-neutral-10" style="width:140px; float:left; border-collapse:collapse; margin:3px;"><tbody><tr><td style="height:160px; border:1px solid #CCCCCC; padding:0px;"><div class="center"><div class="floatnone"><a href="./文件-GoM插图（梅露兰-1-1）.jpg.md" class="image"><img alt="" src="https://upload.thwiki.cc/thumb/3/3e/GoM%E6%8F%92%E5%9B%BE%EF%BC%88%E6%A2%85%E9%9C%B2%E5%85%B0-1-1%EF%BC%89.jpg/120px-GoM%E6%8F%92%E5%9B%BE%EF%BC%88%E6%A2%85%E9%9C%B2%E5%85%B0-1-1%EF%BC%89.jpg" decoding="async" loading="lazy" width="120" height="140" class="thumbborder" srcset="https://upload.thwiki.cc/thumb/3/3e/GoM%E6%8F%92%E5%9B%BE%EF%BC%88%E6%A2%85%E9%9C%B2%E5%85%B0-1-1%EF%BC%89.jpg/180px-GoM%E6%8F%92%E5%9B%BE%EF%BC%88%E6%A2%85%E9%9C%B2%E5%85%B0-1-1%EF%BC%89.jpg 1.5x, https://upload.thwiki.cc/3/3e/GoM%E6%8F%92%E5%9B%BE%EF%BC%88%E6%A2%85%E9%9C%B2%E5%85%B0-1-1%EF%BC%89.jpg 2x" data-file-width="233" data-file-height="271"></a></div></div></td></tr></tbody></table><table class="bg-color-neutral-10" style="width:140px; float:left; border-collapse:collapse; margin:3px;"><tbody><tr><td style="height:160px; border:1px solid #CCCCCC; padding:0px;"><div class="center"><div class="floatnone"><a href="./文件-GoM插图（梅露兰-1-2）.jpg.md" class="image"><img alt="" src="https://upload.thwiki.cc/thumb/b/b3/GoM%E6%8F%92%E5%9B%BE%EF%BC%88%E6%A2%85%E9%9C%B2%E5%85%B0-1-2%EF%BC%89.jpg/120px-GoM%E6%8F%92%E5%9B%BE%EF%BC%88%E6%A2%85%E9%9C%B2%E5%85%B0-1-2%EF%BC%89.jpg" decoding="async" loading="lazy" width="120" height="140" class="thumbborder" srcset="https://upload.thwiki.cc/thumb/b/b3/GoM%E6%8F%92%E5%9B%BE%EF%BC%88%E6%A2%85%E9%9C%B2%E5%85%B0-1-2%EF%BC%89.jpg/180px-GoM%E6%8F%92%E5%9B%BE%EF%BC%88%E6%A2%85%E9%9C%B2%E5%85%B0-1-2%EF%BC%89.jpg 1.5x, https://upload.thwiki.cc/b/b3/GoM%E6%8F%92%E5%9B%BE%EF%BC%88%E6%A2%85%E9%9C%B2%E5%85%B0-1-2%EF%BC%89.jpg 2x" data-file-width="232" data-file-height="271"></a></div></div></td></tr></tbody></table><table class="bg-color-neutral-10" style="width:140px; float:left; border-collapse:collapse; margin:3px;"><tbody><tr><td style="height:160px; border:1px solid #CCCCCC; padding:0px;"><div class="center"><div class="floatnone"><a href="./文件-GoM插图（梅露兰-1-3）.jpg.md" class="image"><img alt="" src="https://upload.thwiki.cc/thumb/1/10/GoM%E6%8F%92%E5%9B%BE%EF%BC%88%E6%A2%85%E9%9C%B2%E5%85%B0-1-3%EF%BC%89.jpg/120px-GoM%E6%8F%92%E5%9B%BE%EF%BC%88%E6%A2%85%E9%9C%B2%E5%85%B0-1-3%EF%BC%89.jpg" decoding="async" loading="lazy" width="120" height="140" class="thumbborder" srcset="https://upload.thwiki.cc/thumb/1/10/GoM%E6%8F%92%E5%9B%BE%EF%BC%88%E6%A2%85%E9%9C%B2%E5%85%B0-1-3%EF%BC%89.jpg/180px-GoM%E6%8F%92%E5%9B%BE%EF%BC%88%E6%A2%85%E9%9C%B2%E5%85%B0-1-3%EF%BC%89.jpg 1.5x, https://upload.thwiki.cc/1/10/GoM%E6%8F%92%E5%9B%BE%EF%BC%88%E6%A2%85%E9%9C%B2%E5%85%B0-1-3%EF%BC%89.jpg 2x" data-file-width="233" data-file-height="271"></a></div></div></td></tr></tbody></table></td></tr></tbody></table>
+
 
 
 
@@ -117,6 +121,7 @@ The_Grimoire_of_Marisa | 使用了翻译表的页面 | 普莉兹姆利巴三姐�
 </center>
 
 [^cite_note-1]: 这里的“生き霊”（生灵）不是“有生命的东西”等意思，简单地说就是指活人的灵魂。人活着的时候灵魂也可以离开体内，由于抱有强烈的情感，如憎恶嫉妒等负面情感，或者爱情思乡等情感，都会使人的灵魂成为“生灵”。有时凭依到某人上，多会遭遇不幸。[生霊](http://ja.wikipedia.org/wiki/生霊)
+
 
 ## 词条导航
   

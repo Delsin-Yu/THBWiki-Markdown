@@ -4,7 +4,8 @@
 
 phase trax records ，主要制作 同人音乐 的台湾同人社团，主催是 3R2，当前状态为 休止
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -20,6 +21,7 @@ phase trax records ，主要制作 同人音乐 的台湾同人社团，主催�
 
 
 
+
 ## 社团信息
 [](./文件-phase_trax_recordslogo.png.md)  [](./文件-phase_trax_recordslogo.png.md)logo
 [](./文件-phase_trax_recordsbanner.png.md)  [](./文件-phase_trax_recordsbanner.png.md)banner
@@ -27,6 +29,7 @@ phase trax records ，主要制作 同人音乐 的台湾同人社团，主催�
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> phase trax records </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>主催</b></td><td> <a href="./3R2.md" title="3R2">3R2</a> </td></tr><tr><td><b>地区</b></td><td>台湾</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://phase-trax-records.weebly.com">http://phase-trax-records.weebly.com</a> <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><br><a rel="nofollow" class="external free" href="https://www.facebook.com/phasetraxrecords">https://www.facebook.com/phasetraxrecords</a> <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><br><a rel="nofollow" class="external free" href="http://www.plurk.com/phasetraxrecords">http://www.plurk.com/phasetraxrecords</a> <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span></td></tr></tbody></table>
 
 phase trax records（同人社团，同人音乐社团） - phase trax records ，主要制作 同人音乐 的台湾同人社团，主催是 3R2，当前状态为 休止
+
 ## 成员名单
 - [3R2](./3R2.md)
 - ／T (未找到链接)
@@ -42,13 +45,16 @@ phase trax records（同人社团，同人音乐社团） - phase trax records �
 
 : [SoundCloud: jioyi](https://soundcloud.com/jioyi)
 
+
 ## 作品列表
+
 ### 同人专辑
 [](./東方電音祭.md)[東方電音祭](./東方電音祭.md)首发日期：2014-07-26 （Fancy Frontier 24 (未找到链接)）PTRCD-004全长 （一般向）[](./Scarlet_Resonance.md)[Scarlet Resonance](./Scarlet_Resonance.md)首发日期：2015-06-06 （博麗神社例大祭 in 台灣1 (未找到链接)）PTRSP-002全长 （一般向）
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 其他信息

@@ -6,12 +6,15 @@
 
 本页是关于东方Project  
  **二次同人创作者** 的词条
+
 ## 基本信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="label"><b>名称</b></td><td> aji </td></tr><tr><td class="label"><b>所属社团</b></td><td><b>当前</b><div style="margin-left:2em;"><a href="./Brisa_Marina.md" title="Brisa Marina">Brisa Marina</a></div></td></tr><tr><td class="label"><b>职位</b></td><td>漫画家</td></tr><tr><td class="label"><b>个人页面</b></td><td><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><b>Twitter</b></td><td><a rel="nofollow" class="external free" href="https://twitter.com/aji082">https://twitter.com/aji082</a></td></tr><tr><td><b>Pixiv</b></td><td><a rel="nofollow" class="external free" href="https://www.pixiv.net/users/2990036">https://www.pixiv.net/users/2990036</a></td></tr></tbody></table></td></tr></tbody></table>
 
 aji（人物） - 现实人物
+
 ## 介绍
+
 ## 参与作品
 
 

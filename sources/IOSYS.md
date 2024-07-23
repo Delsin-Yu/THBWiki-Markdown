@@ -4,7 +4,8 @@
 
 イオシス（IOSYS） ，于 1998 年成立，主要制作 同人音乐 的日本同人社团，主催是 ARM，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 基础信息](#基础信息)
@@ -49,6 +50,7 @@
 
 
 
+
 ## 基础信息
 [](./文件-IOSYS.jpg.md)  [](./文件-IOSYS.jpg.md)logo
 [](./文件-IOSYSbanner.gif.md)  [](./文件-IOSYSbanner.gif.md)banner
@@ -56,14 +58,17 @@
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> イオシス（IOSYS） </td></tr><tr><td><b>中文名称</b></td><td>IOSYS</td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>1998-10-10</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="./ARM.md" title="ARM">ARM</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://www.iosysos.com/">http://www.iosysos.com/</a> 官网<br><a rel="nofollow" class="external free" href="https://twitter.com/IOSYS_OS">https://twitter.com/IOSYS_OS</a> Twitter<span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到需要翻墙网页">（需要翻墙）</span><br><a rel="nofollow" class="external free" href="https://www.youtube.com/channel/UC7_53g75aj47CXi2rVYDIKw">https://www.youtube.com/channel/UC7_53g75aj47CXi2rVYDIKw</a> YouTube<span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到需要翻墙网页">（需要翻墙）</span><br><a rel="nofollow" class="external free" href="https://www.bilibili.com/space/10923790">https://www.bilibili.com/space/10923790</a> 哔哩哔哩</td></tr></tbody></table>
 
 IOSYS（同人社团，同人音乐社团） - イオシス（IOSYS） ，于 1998 年成立，主要制作 同人音乐 的日本同人社团，主催是 ARM，当前状态为 活动
+
 ## 成员名单
+
 ### IOSYS CREATORS
 - [ARM](./ARM.md)：作曲・編曲 （[Twitter](https://twitter.com/ARM_IOSYS)）
-- しゃちょう (未找到链接)/[夕野ヨシミ](./夕野ヨシミ.md)：作詞・Design
-- [D.watt](./D.watt.md)/七条レタス (未找到链接)：作曲・編曲・作詞・脚本・DJ
-- [void](./void.md)/コバヤシユウヤ (未找到链接)：作曲・編曲
-- [uno](./uno.md)/RoughSketch (未找到链接)：作曲・編曲・DJ
+- [しゃちょう](./しゃちょう.md)/[夕野ヨシミ](./夕野ヨシミ.md)：作詞・Design
+- [D.watt](./D.watt.md)/[七条レタス](./七条レタス.md)：作曲・編曲・作詞・脚本・DJ
+- [void](./void.md)/[コバヤシユウヤ](./コバヤシユウヤ.md)：作曲・編曲
+- [uno](./uno.md)/[RoughSketch](./RoughSketch.md)：作曲・編曲・DJ
 - [まろん](./まろん.md)：作曲・編曲・作詞・DJ （[Twitter](https://twitter.com/maron47)）
+
 
 ### Other Members
 - たくや (未找到链接)：企画・編集・MC
@@ -83,18 +88,20 @@ IOSYS（同人社团，同人音乐社团） - イオシス（IOSYS） ，于 19
 - iTOK (未找到链接)：演奏
 - 石山田アサミ（アサミ閣下） (未找到链接)：Illustration
 
+
 ### Past Members
-- 96 (未找到链接)/[黒田椋子](./黒田椋子.md)：Vocal・作詞・Design
+- [96](./96.md)/[黒田椋子](./黒田椋子.md)：Vocal・作詞・Design
 - [あさな](./あさな.md)：Vocal
 - 高井さん (未找到链接)：Vocal
 - くれは (未找到链接)：Narration
 - タニタニ (未找到链接)/谷口雪斗 (未找到链接)：MC
 
+
 ### Guest
 - [miko](./miko.md) （Alternative ending (未找到链接)）：Vocal
 - [藤原鞠菜](./藤原鞠菜.md)：Vocal
 - イザベル (未找到链接)：Vocal
-- ペス (未找到链接)/[岩杉夏](./岩杉夏.md)：Vocal
+- [ペス](./ペス.md)/[岩杉夏](./岩杉夏.md)：Vocal
 - いか (未找到链接)：Design・VJ・編集
 - [カギ](./カギ.md) （locker room production）：Movie・Illustration・VJ
 - moyashi (未找到链接)：Illustration
@@ -104,7 +111,9 @@ IOSYS（同人社团，同人音乐社团） - イオシス（IOSYS） ，于 19
 - Dummy (未找到链接)：Vocal
 - うさこ (未找到链接)/月野夜うさこ (未找到链接)：DJ・撮影・Event主催
 
+
 ## 作品列表
+
 ### Best Album（精选辑）
 [](./Grimoire_of_IOSYS_–_東方BEST_ALBUM_vol.1.md)[Grimoire of IOSYS – 東方BEST ALBUM vol.1](./Grimoire_of_IOSYS_–_東方BEST_ALBUM_vol.1.md)首发日期：2011-07-10 （東方名月祭2 (未找到链接)）IO-0191精选集 （一般向）该专辑包含 3 张CD[](./Grimoire_of_IOSYS_–_東方BEST_ALBUM_vol.2.md)[Grimoire of IOSYS – 東方BEST ALBUM vol.2](./Grimoire_of_IOSYS_–_東方BEST_ALBUM_vol.2.md)首发日期：2012-02-29 IO-0199精选集 （一般向）该专辑包含 3 张CD[](./Grimoire_of_IOSYS_-_東方BEST_ALBUM_vol.3_-.md)[Grimoire of IOSYS - 東方BEST ALBUM vol.3 -](./Grimoire_of_IOSYS_-_東方BEST_ALBUM_vol.3_-.md)首发日期：2012-11-30 IO-0201精选集 （一般向）该专辑包含 3 张CD[](./re：takes_～best_of_minami's_toho_guitar_works～.md)[re:takes ～best of minami's toho guitar works～](./re：takes_～best_of_minami's_toho_guitar_works～.md)首发日期：2013-02-03 （大⑨州東方祭7 (未找到链接)）IO-0242精选集 （一般向）场贩之前已在Live (未找到链接)（2013年2月2日）中先行发售。并于2月3日开始通贩。[](./RoughSketch_TOHO_WORKS_2007-2012.md)[RoughSketch TOHO WORKS 2007-2012](./RoughSketch_TOHO_WORKS_2007-2012.md)首发日期：2013-05-26 （第十回 博麗神社例大祭 (未找到链接)）IO-0250精选集 （一般向）[](./miko_BEST_Toho_of_IOSYS.md)[miko BEST Toho of IOSYS](./miko_BEST_Toho_of_IOSYS.md)首发日期：2013-12-11 IO-0220精选集 （一般向）该专辑包含 2 张CD[](./IOSYS音ゲーBEST!!_―東方アレンジ編―.md)[IOSYS音ゲーBEST!! ―東方アレンジ編―](./IOSYS音ゲーBEST!!_―東方アレンジ編―.md)首发日期：2016-01-31 （大⑨州東方祭14 (未找到链接)）IO-0296精选集 （一般向）该专辑包含 2 张CD[](./きれいなイオシス.md)[きれいなイオシス](./きれいなイオシス.md)首发日期：2017-01-15 （大⑨州東方祭21 (未找到链接)）IO-0308精选集 （一般向）该专辑包含 2 张CD[](./スカーレット警察・総集編_春の特別警戒スペシャル.md)[スカーレット警察・総集編 春の特別警戒スペシャル](./スカーレット警察・総集編_春の特別警戒スペシャル.md)首发日期：2022-05-08 （第十九回 博麗神社例大祭 (未找到链接)）IO-0333精选集 （一般向）[](./IOSYS_ALL_TIME_TOHO_BEST_COLLECTION.md)[IOSYS ALL TIME TOHO BEST COLLECTION](./IOSYS_ALL_TIME_TOHO_BEST_COLLECTION.md)首发日期：2023-04-30 （M3-2023春 (未找到链接)）IO-0335精选集 （一般向）该专辑包含 3 张CD
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -127,6 +136,7 @@ IOSYS（同人社团，同人音乐社团） - イオシス（IOSYS） ，于 19
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ### Compilation Album
@@ -185,6 +195,7 @@ IOSYS（同人社团，同人音乐社团） - イオシス（IOSYS） ，于 19
 </table>
 
 
+
 ### げきおこ系列
 [](./げきおこ☆メイガス.md)[げきおこ☆メイガス](./げきおこ☆メイガス.md)首发日期：2013-05-26 （第十回 博麗神社例大祭 (未找到链接)）IO-0249全长 （一般向）[](./げきかわ☆ヴァンピン.md)[げきかわ☆ヴァンピン](./げきかわ☆ヴァンピン.md)首发日期：2013-12-30 （Comic Market 85 (未找到链接)）IO-0258全长 （一般向）[](./げきぴょす☆パペット.md)[げきぴょす☆パペット](./げきぴょす☆パペット.md)首发日期：2014-11-24 （第一回 博麗神社秋季例大祭 (未找到链接)）IO-0278全长 （一般向）[](./げきリミ！_─げきおこシリーズリミックス─.md)[げきリミ！ ─げきおこシリーズリミックス─](./げきリミ！_─げきおこシリーズリミックス─.md)首发日期：2015-12-28 （イオシス忘年会2015 (未找到链接)）IO-0298混音集 （一般向）本CD是对[げきおこ☆メイガス](./げきおこ☆メイガス.md)，[げきかわ☆ヴァンピン](./げきかわ☆ヴァンピン.md)，[げきぴょす☆パペット](./げきぴょす☆パペット.md)三张CD部分曲目的混音集。
 <table><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
@@ -197,6 +208,7 @@ IOSYS（同人社团，同人音乐社团） - イオシス（IOSYS） ，于 19
 </table>
 
 
+
 ### Punk Cover系列
 [](./PUNK_IT!_TOUHOU!_-IOSYS_HITS_PUNK_COVERS-.md)[PUNK IT! TOUHOU! -IOSYS HITS PUNK COVERS-](./PUNK_IT!_TOUHOU!_-IOSYS_HITS_PUNK_COVERS-.md)首发日期：2013-03-31 （新潟東方祭12 (未找到链接)）IO-0244混音集 （一般向）[](./PUNK_IT!TOUHOU!2_-IOSYS_HITS_PUNK_COVERS-.md)[PUNK IT!TOUHOU!2 -IOSYS HITS PUNK COVERS-](./PUNK_IT!TOUHOU!2_-IOSYS_HITS_PUNK_COVERS-.md)首发日期：2014-02-02 （大⑨州東方祭9 (未找到链接)）IO-0257混音集 （一般向）[](./PUNK_IT!TOUHOU!3_-IOSYS_HITS_PUNK_COVERS-.md)[PUNK IT!TOUHOU!3 -IOSYS HITS PUNK COVERS-](./PUNK_IT!TOUHOU!3_-IOSYS_HITS_PUNK_COVERS-.md)首发日期：2015-10-18 （第二回 博麗神社秋季例大祭 (未找到链接)）IO-0291混音集 （一般向）
 <table><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
@@ -205,6 +217,7 @@ IOSYS（同人社团，同人音乐社团） - イオシス（IOSYS） ，于 19
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ### ROCKIN'ON系列
@@ -233,6 +246,7 @@ IOSYS（同人社团，同人音乐社团） - イオシス（IOSYS） ，于 19
 </table>
 
 
+
 ### JAZZROCK系列
 [](./Night_Gypsy_-_東方JAZZROCK_-.md)[Night Gypsy - 東方JAZZROCK -](./Night_Gypsy_-_東方JAZZROCK_-.md)首发日期：2012-10-07 （東方紅楼夢8 (未找到链接)）IO-0238全长 （一般向）[](./Night_Zealot_-_東方JAZZROCK2_-.md)[Night Zealot - 東方JAZZROCK2 -](./Night_Zealot_-_東方JAZZROCK2_-.md)首发日期：2014-11-24 （第一回 博麗神社秋季例大祭 (未找到链接)）IO-0277全长 （一般向）
 <table><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
@@ -241,12 +255,14 @@ IOSYS（同人社团，同人音乐社团） - イオシス（IOSYS） ，于 19
 </table>
 
 
+
 ### Phantasmagoria系列
 [](./背徳のファンタスマゴリア.md)[背徳のファンタスマゴリア](./背徳のファンタスマゴリア.md)首发日期：2013-04-29 （M3-2013春 (未找到链接)）IO-0236全长 （一般向）[](./叛逆のファンタスマゴリア.md)[叛逆のファンタスマゴリア](./叛逆のファンタスマゴリア.md)首发日期：2014-05-11 （第十一回 博麗神社例大祭 (未找到链接)）IO-0265全长 （一般向）
 <table><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ### Club Arrange CD
@@ -269,6 +285,7 @@ IOSYS（同人社团，同人音乐社团） - イオシス（IOSYS） ，于 19
 </table>
 
 
+
 ### Remix Album
 [](./ごっすんリミックス_アイン.md)[ごっすんリミックス　アイン](./ごっすんリミックス_アイン.md)首发日期：2008-05-25 （第五回 博麗神社例大祭 (未找到链接)）IO-0143混音集 （一般向）[](./ごっすんリミックス_ツバイン.md)[ごっすんリミックス　ツバイン](./ごっすんリミックス_ツバイン.md)首发日期：2008-05-25 （第五回 博麗神社例大祭 (未找到链接)）IO-0144混音集 （一般向）[](./東方IO-BEST_BEATS.md)[東方IO-BEST BEATS](./東方IO-BEST_BEATS.md)首发日期：2010-09-19 （博麗神社例大祭SP1 (未找到链接)）IO-0180混音集、​全长 （一般向）[](./リ：キャンディッド！.md)[リ：キャンディッド！](./リ：キャンディッド！.md)首发日期：2011-03-13 IO-0190混音集 （一般向）[](./東方IO-BEST_BEATS2.md)[東方IO-BEST BEATS2](./東方IO-BEST_BEATS2.md)首发日期：2011-05-08 （第八回 博麗神社例大祭 (未找到链接)）IO-0192混音集、​全长 （一般向）[](./東方IO-BEST_BEATS3.md)[東方IO-BEST BEATS3](./東方IO-BEST_BEATS3.md)首发日期：2012-02-12 （東方椰麟祭 第三幕 (未找到链接)）IO-0210混音集、​全长 （一般向）
 <table><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
@@ -285,12 +302,14 @@ IOSYS（同人社团，同人音乐社团） - イオシス（IOSYS） ，于 19
 </table>
 
 
+
 ### EDM
 [](./TOHO_EDM（IOSYS）.md)[TOHO EDM](./TOHO_EDM（IOSYS）.md)首发日期：2012-12-30 （Comic Market 83 (未找到链接)）IO-0235全长 （一般向）场贩之前已在Live (未找到链接)（2012年12月9日）中先行发售。并于同天开始通贩。[](./Nothing_but_the_TOHO_EDM.md)[Nothing but the TOHO EDM](./Nothing_but_the_TOHO_EDM.md)首发日期：2014-03-30 （東方名華祭8 (未找到链接)）IO-0239全长 （一般向）
 <table><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ### アゲハ系列
@@ -301,6 +320,7 @@ IOSYS（同人社团，同人音乐社团） - イオシス（IOSYS） ，于 19
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ### Guitar Arrange CD
@@ -321,6 +341,7 @@ IOSYS（同人社团，同人音乐社团） - イオシス（IOSYS） ，于 19
 </table>
 
 
+
 ### カラオケCD
 [](./ごっすんとかのからおけ.md)[ごっすんとかのからおけ](./ごっすんとかのからおけ.md)首发日期：2007-11-11 IO-0095原声集 （一般向）[](./ねこみことかのからおけ.md)[ねこみことかのからおけ](./ねこみことかのからおけ.md)首发日期：2008-03-03 IO-0115混音集 （一般向）[](./おさいせんとかのからおけ.md)[おさいせんとかのからおけ](./おさいせんとかのからおけ.md)首发日期：2008-10-13 （M3-2008秋 (未找到链接)）IO-0138原声集 （一般向）[](./東方うたうチルノちゃん.md)[東方うたうチルノちゃん](./東方うたうチルノちゃん.md)首发日期：2010-08-14 （Comic Market 78 (未找到链接)）IO-0171原声集 （一般向）本CD为全部卡拉ok版本的精选集，适用于JOYSOUND系统[](./東方うたうちれいでん.md)[東方うたうちれいでん](./東方うたうちれいでん.md)首发日期：2012-07-14 IO-0175原声集 （一般向）本CD为全部卡拉ok版本的精选集，适用于JOYSOUND系统
 <table><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
@@ -333,6 +354,7 @@ IOSYS（同人社团，同人音乐社团） - イオシス（IOSYS） ，于 19
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ### 其他东方Arrange CD
@@ -387,6 +409,7 @@ IOSYS（同人社团，同人音乐社团） - イオシス（IOSYS） ，于 19
 </table>
 
 
+
 ### TOHO BOOTLEGS
 [](./TOHO_BOOTLEGS.md)[TOHO BOOTLEGS](./TOHO_BOOTLEGS.md)首发日期：2019-05-05 （第十六回 博麗神社例大祭 (未找到链接)）IO-0325全长 （一般向）[](./TOHO_BOOTLEGS_2.md)[TOHO BOOTLEGS2](./TOHO_BOOTLEGS_2.md)首发日期：2019-10-06 （第六回 博麗神社秋季例大祭 (未找到链接)）IO-0328全长 （一般向）[](./TOHO_BOOTLEGS_3.md)[TOHO BOOTLEGS3](./TOHO_BOOTLEGS_3.md)首发日期：2020-03-22 （エア例大祭17 (未找到链接)）IO-0329全长 （一般向）TOHO BOOTLEGS4 -0.7 封面图片 (未找到链接)[TOHO BOOTLEGS4 -0.7](./TOHO_BOOTLEGS4_-0.7.md)首发日期：2021-03-21 （第十八回 博麗神社例大祭 (未找到链接)）Demo （一般向）[](./TOHO_BOOTLEGS_4.md)[TOHO BOOTLEGS 4](./TOHO_BOOTLEGS_4.md)首发日期：2021-08-28 （東方ルナティックリリース (未找到链接)）IO-0332全长 （一般向）[](./TOHO_BOOTLEGS_5.md)[TOHO BOOTLEGS 5](./TOHO_BOOTLEGS_5.md)首发日期：2022-10-09 （東方紅楼夢18 (未找到链接)）IO-0334全长 （一般向）[](./TOHO_BOOTLEGS_6.md)[TOHO BOOTLEGS 6](./TOHO_BOOTLEGS_6.md)首发日期：2023-05-07 （第二十回 博麗神社例大祭 (未找到链接)）IO-0336全长 （一般向）[](./TOHO_BOOTLEGS_7.md)[TOHO BOOTLEGS 7](./TOHO_BOOTLEGS_7.md)首发日期：2023-10-15 （東方紅楼夢19 (未找到链接)）IO-0339全长 （一般向）
 <table><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
@@ -407,20 +430,24 @@ IOSYS（同人社团，同人音乐社团） - イオシス（IOSYS） ，于 19
 </table>
 
 
+
 ### ユウノウミ（夕野ヨシミ个人专辑）
   
 本部分专辑参见[夕野ヨシミ](./夕野ヨシミ.md)个人社团[ユウノウミ](./ユウノウミ.md)词条。
   
+
 
 ### monoROSETTA（void个人专辑）
   
 本部分专辑参见社团[monoROSETTA](./monoROSETTA.md)词条。
   
 
+
 ### ARMのArmageddon Records（ARM个人专辑）
   
 本部分专辑参见社团[ARMのArmageddon Records](./ARMのArmageddon_Records.md)词条。
   
+
 
 ### Other
 [](./東方ですけど何か？.md)[東方ですけど何か？](./東方ですけど何か？.md)首发日期：2006-05-21 （第三回 博麗神社例大祭 (未找到链接)）IO-0089配音作品 （一般向）[](./東方月燈籠.md)[東方月燈籠](./東方月燈籠.md)首发日期：2006-12-31 （Comic Market 71 (未找到链接)）IO-0117全长 （一般向）[](./東方_Faithful_Star_PREDICT.md)[東方 Faithful Star PREDICT](./東方_Faithful_Star_PREDICT.md)首发日期：2010-06-20 （とら祭り2010 (未找到链接)）Demo （一般向）本CD为2010年7月11日发行的专辑[東方 Faithful Star](./東方_Faithful_Star.md)的预告[](./gensou_teyaki_beats_vol.1.md)[gensou teyaki beats vol.1](./gensou_teyaki_beats_vol.1.md)首发日期：2011-09-11 （博麗神社例大祭SP2 (未找到链接)）IOSP-0290EP （一般向）レミリアのわんだー紅魔館 封面图片 (未找到链接)レミリアのわんだー紅魔館 (未找到链接)首发日期：未知 - [](./ミナミの奇妙な東方_Vol.1.md)[ミナミの奇妙な東方 Vol.1](./ミナミの奇妙な東方_Vol.1.md)首发日期：2011-09-11 （博麗神社例大祭SP2 (未找到链接)）Omake （一般向）[](./TOHO_OVERDRIVE_＃_001.md)[TOHO OVERDRIVE ＃ 001](./TOHO_OVERDRIVE_＃_001.md)首发日期：未知 Pi-Pi-002 (CD) / Pi-Pi-003（黑胶唱片）精选集 （一般向）该作品是与 [C.H.S](./C.H.S.md) 合作创作的法国地下厂牌介绍日本同人音乐而制作的采样辑；有CD和黑胶唱片版本[](./春だよ!イオシス大集合!_2012年版.md)[春だよ!イオシス大集合! 2012年版](./春だよ!イオシス大集合!_2012年版.md)首发日期：2012-04-30 （M3-2012春 (未找到链接)）精选集 （一般向）[](./Grimoire_of_IOSYS_-_東方BEST_ALBUM_vol.1_-_LIGHT.md)[Grimoire of IOSYS - 東方BEST ALBUM vol.1 - LIGHT](./Grimoire_of_IOSYS_-_東方BEST_ALBUM_vol.1_-_LIGHT.md)首发日期：2015-05-10 （第十二回 博麗神社例大祭 (未找到链接)）精选集、​重制 （一般向）该专辑包含 2 张CD本CD是发行于2011年7月10日的精选集[Grimoire of IOSYS – 東方BEST ALBUM vol.1](./Grimoire_of_IOSYS_–_東方BEST_ALBUM_vol.1.md)的简略版，相较于原碟的三碟，本CD去除了第三张碟。[](./Grimoire_of_IOSYS_-_東方BEST_ALBUM_vol.2_-_LIGHT.md)[Grimoire of IOSYS - 東方BEST ALBUM vol.2 - LIGHT](./Grimoire_of_IOSYS_-_東方BEST_ALBUM_vol.2_-_LIGHT.md)首发日期：2015-09-10 精选集、​重制 （一般向）该专辑包含 2 张CD本CD是发行于2011年7月10日的精选集[Grimoire of IOSYS – 東方BEST ALBUM vol.2](./Grimoire_of_IOSYS_–_東方BEST_ALBUM_vol.2.md)的简略版，相较于原碟的三碟，本CD去除了第三张碟。[](./ファンタジックぴこれーしょん!.md)[ファンタジックぴこれーしょん!](./ファンタジックぴこれーしょん!.md)首发日期：2016-04-24 （M3-2016春 (未找到链接)）全长 （一般向）[](./Grimoire_of_IOSYS_-_東方BEST_ALBUM_vol.3_-_LIGHT.md)[Grimoire of IOSYS - 東方BEST ALBUM vol.3 - LIGHT](./Grimoire_of_IOSYS_-_東方BEST_ALBUM_vol.3_-_LIGHT.md)首发日期：2016-07-10 IO-0201L精选集、​重制 （一般向）该专辑包含 2 张CD[](./アニソンをすごいオペラ声で歌ってみた+.md)[アニソンをすごいオペラ声で歌ってみた+](./アニソンをすごいオペラ声で歌ってみた+.md)首发日期：2018-04-29 （M3-2018春 (未找到链接)）IO-0318混音集 （一般向）[](./そだね～CD.md)[そだね～CD](./そだね～CD.md)首发日期：2018-04-29 （M3-2018春 (未找到链接)）单曲 （一般向）ロキノン東方新曲QRポストカード 封面图片 (未找到链接)[ロキノン東方新曲QRポストカード](./ロキノン東方新曲QRポストカード.md)首发日期：2020-10-11 （東方紅楼夢16 (未找到链接)）Demo （一般向）
@@ -455,15 +482,18 @@ IOSYS（同人社团，同人音乐社团） - イオシス（IOSYS） ，于 19
 </table>
 
 
+
 ### 同人志
 [](./東方楽団総譜.md)[東方楽団総譜](./東方楽団総譜.md)首发日期：2009-10-11 （東方紅楼夢5 (未找到链接)）IOB-0001其他 （一般向）B5&#160;尺寸 118&#160;页
 <table><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
 
 
+
 ## 参展信息
 
 <table><tbody><tr><th class="活动页面">活动页面</th><th class="活动名称">活动名称</th><th class="日期">日期</th><th class="举办地点">举办地点</th><th class="摊位编号">摊位编号</th><th class="宣传页面">宣传页面</th><th class="备注">备注</th></tr><tr data-row-number="1" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#21" title="博丽神社例大祭">博丽神社例大祭#21</a></span></td><td class="活动名称 smwtype_txt">第二十一回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2460433.5">2024-05-03</td><td class="举办地点 smwtype_txt">东京Big Sight 东展厅</td><td class="摊位编号 smwtype_txt">つ46ab</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="2" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E4%B8%9C%E6%96%B9%E5%90%8D%E5%8D%8E%E7%A5%AD#18" title="东方名华祭">东方名华祭#18</a></span></td><td class="活动名称 smwtype_txt">東方名華祭18</td><td class="日期 smwtype_dat" data-sort-value="2460400.5">2024-03-31</td><td class="举办地点 smwtype_txt">名古屋市国际展示场 第2展厅</td><td class="摊位编号 smwtype_txt">H05,06</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="3" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E7%A7%8B%E5%AD%A3%E4%BE%8B%E5%A4%A7%E7%A5%AD#10" title="博丽神社秋季例大祭">博丽神社秋季例大祭#10</a></span></td><td class="活动名称 smwtype_txt">第十回 博麗神社秋季例大祭</td><td class="日期 smwtype_dat" data-sort-value="2460260.5">2023-11-12</td><td class="举办地点 smwtype_txt">东京Big Sight 東展厅</td><td class="摊位编号 smwtype_txt">た01ab</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="4" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E4%B8%9C%E6%96%B9%E7%BA%A2%E6%A5%BC%E6%A2%A6#19" title="东方红楼梦">东方红楼梦#19</a></span></td><td class="活动名称 smwtype_txt">東方紅楼夢19</td><td class="日期 smwtype_dat" data-sort-value="2460232.5">2023-10-15</td><td class="举办地点 smwtype_txt">大阪国际展览中心 6号馆C・D区</td><td class="摊位编号 smwtype_txt">お-01ab</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="5" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E6%96%87%E6%96%87%E3%80%82%E6%96%B0%E9%97%BB%E5%8F%8B%E4%BA%BA%E9%9B%86%E4%BC%9A#14" title="文文。新闻友人集会">文文。新闻友人集会#14</a></span></td><td class="活动名称 smwtype_txt">第百三十八季 文々。新聞友の会</td><td class="日期 smwtype_dat" data-sort-value="2460190.5">2023-09-03</td><td class="举办地点 smwtype_txt">京都综合见本市会馆</td><td class="摊位编号 smwtype_txt">花-09</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="6" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E4%B8%9C%E6%96%B9%E5%90%8D%E5%8D%8E%E7%A5%AD#17" title="东方名华祭">东方名华祭#17</a></span></td><td class="活动名称 smwtype_txt">東方名華祭17</td><td class="日期 smwtype_dat" data-sort-value="2460120.5">2023-06-25</td><td class="举办地点 smwtype_txt">名古屋市国际展示场 第2展厅</td><td class="摊位编号 smwtype_txt">J13</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="7" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E6%9D%9C%E4%B9%8B%E5%A5%87%E8%BF%B9#29" title="杜之奇迹">杜之奇迹#29</a></span></td><td class="活动名称 smwtype_txt">杜の奇跡29</td><td class="日期 smwtype_dat" data-sort-value="2460099.5">2023-06-04</td><td class="举办地点 smwtype_txt">AER 仙台市中小企业活性化中心 5层大厅</td><td class="摊位编号 smwtype_txt">E-24</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="8" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#20" title="博丽神社例大祭">博丽神社例大祭#20</a></span></td><td class="活动名称 smwtype_txt">第二十回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2460071.5">2023-05-07</td><td class="举办地点 smwtype_txt">东京Big Sight 东展厅</td><td class="摊位编号 smwtype_txt">つ33ab</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="9" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E7%A7%8B%E5%AD%A3%E4%BE%8B%E5%A4%A7%E7%A5%AD#9" title="博丽神社秋季例大祭">博丽神社秋季例大祭#9</a></span></td><td class="活动名称 smwtype_txt">第九回 博麗神社秋季例大祭</td><td class="日期 smwtype_dat" data-sort-value="2459875.5">2022-10-23</td><td class="举办地点 smwtype_txt">东京Big Sight 西展厅</td><td class="摊位编号 smwtype_txt">い03ab</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="10" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E4%B8%9C%E6%96%B9%E7%BA%A2%E6%A5%BC%E6%A2%A6#18" title="东方红楼梦">东方红楼梦#18</a></span></td><td class="活动名称 smwtype_txt">東方紅楼夢18</td><td class="日期 smwtype_dat" data-sort-value="2459861.5">2022-10-09</td><td class="举办地点 smwtype_txt">大阪国际展览中心</td><td class="摊位编号 smwtype_txt">そ01-b</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr class="smwfooter row-odd"><td class="sortbottom" colspan="7"><span class="smw-broadtable-furtherresults"><a href="/%E7%89%B9%E6%AE%8A:%E8%AF%A2%E9%97%AE/-5B-5B%E6%91%8A%E4%BD%8D%E7%A4%BE%E5%9B%A2::IOSYS-5D-5D/-3F%E6%91%8A%E4%BD%8D%E6%B4%BB%E5%8A%A8%3D%E6%B4%BB%E5%8A%A8%E9%A1%B5%E9%9D%A2/-3F%E6%91%8A%E4%BD%8D%E6%B4%BB%E5%8A%A8.%E5%B1%95%E4%BC%9A%E5%90%8D%E7%A7%B0%3D%E6%B4%BB%E5%8A%A8%E5%90%8D%E7%A7%B0/-3F%E6%91%8A%E4%BD%8D%E6%B4%BB%E5%8A%A8.%E5%B1%95%E4%BC%9A%E6%97%A5%E6%9C%9F%3D%E6%97%A5%E6%9C%9F/-3F%E6%91%8A%E4%BD%8D%E6%B4%BB%E5%8A%A8.%E5%9C%B0%E7%82%B9%3D%E4%B8%BE%E5%8A%9E%E5%9C%B0%E7%82%B9/-3F%E6%91%8A%E4%BD%8D%E7%BC%96%E5%8F%B7/-3F%E6%91%8A%E4%BD%8D%E5%AE%A3%E4%BC%A0%E9%A1%B5%E9%9D%A2%3D%E5%AE%A3%E4%BC%A0%E9%A1%B5%E9%9D%A2-7C%2Bmany%3D-3Cbr-20-2F-3E/-3F%E6%91%8A%E4%BD%8D%E5%A4%87%E6%B3%A8%3D%E5%A4%87%E6%B3%A8/mainlabel%3D-20-2D/limit%3D10/order%3D-20descending/sort%3D-20%E6%91%8A%E4%BD%8D%E6%B4%BB%E5%8A%A8.%E5%B1%95%E4%BC%9A%E6%97%A5%E6%9C%9F/offset%3D10/format%3D-20broadtable/headers%3D-20plain" title="特殊:询问/-5B-5B摊位社团::IOSYS-5D-5D/-3F摊位活动=活动页面/-3F摊位活动.展会名称=活动名称/-3F摊位活动.展会日期=日期/-3F摊位活动.地点=举办地点/-3F摊位编号/-3F摊位宣传页面=宣传页面-7C+many=-3Cbr-20-2F-3E/-3F摊位备注=备注/mainlabel=-20-2D/limit=10/order=-20descending/sort=-20摊位活动.展会日期/offset=10/format=-20broadtable/headers=-20plain">...更多结果</a></span></td></tr></tbody></table>
+
 
 
 ## 其他信息

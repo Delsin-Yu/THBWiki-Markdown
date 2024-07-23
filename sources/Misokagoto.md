@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Misokagoto封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/1/15/Misokagoto%E5%B0%81%E9%9D%A2.png/168px-Misokagoto%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="168" height="224" srcset="https://upload.thwiki.cc/thumb/1/15/Misokagoto%E5%B0%81%E9%9D%A2.png/252px-Misokagoto%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/1/15/Misokagoto%E5%B0%81%E9%9D%A2.png/336px-Misokagoto%E5%B0%81%E9%9D%A2.png 2x" data-file-width="1918" data-file-height="2556"></a><div class="cover-char">角色：<a href="./鬼人正邪.md" title="鬼人正邪">鬼人正邪</a>，<a href="./少名针妙丸.md" title="少名针妙丸">少名针妙丸</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://sliding-bathroom.tumblr.com/post/665715684603527168/1024日秋季例大祭に出ますし34a">https://sliding-bathroom.tumblr.com/post/665715684603527168/1024日秋季例大祭に出ますし34a</a><br><a rel="nofollow" class="external free" href="https://twitter.com/slidingbathroom/status/1451192545510244366">https://twitter.com/slidingbathroom/status/1451192545510244366</a><br><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/93594341">https://www.pixiv.net/artworks/93594341</a></td></tr></tbody></table>
 
 Misokagoto（同人志，みんなの櫛，2021） - 2021年10月24日 由 みんなの櫛 于 博丽神社秋季例大祭8 发布的画集同人志，A5尺寸一共4页，登场人物有 鬼人正邪、少名针妙丸，分级为 一般向
+
 ## Staff
 - 稟太郎 (未找到链接)
+
 
 ## 评论
 

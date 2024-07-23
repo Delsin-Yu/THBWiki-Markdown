@@ -11,6 +11,7 @@ Readme | 东方天空璋 | 使用了翻译表的页面 | 附带文档
 : [日文版](http://omake.thwiki.cc/translate.php?u=附带文档:东方天空璋/Readme&amp;t=ja)
 : [汉化版](http://omake.thwiki.cc/translate.php?u=附带文档:东方天空璋/Readme&amp;t=zh)
 
+
 ## 目录
 
 - [1 问候](#问候)
@@ -33,10 +34,12 @@ Readme | 东方天空璋 | 使用了翻译表的页面 | 附带文档
 
 
 
+
 ###### 问候
 
 
 <table><tbody><tr class="tt-content" id="=-3" data-pos="&#91;&quot;=&quot;,3&#93;"><td class="tt-ja" lang="ja"><div class="poem">■１．挨拶<br>　　この度は、「東方天空璋　～ Hidden Star in Four Seasons. 」を<br>手にとって頂き、まことに有難う御座います。<br><br>　　何処かピントのずれた世界に何処かゆるいキャラ達が、とてつもなく激し<br>　い弾幕を繰り広げるシューティングゲームになっています。<br><br>　　弾幕ＳＴＧは最近めっきり少なくなった、ゲームらしいゲームだと思います。<br>　課金要素、コレクション要素、育成要素は特にないので、繰り返し遊んで<br>　自分を成長させる喜びを感じて下さい。クリアまで数十分なので、心地よい<br>　達成感を味わえることを願います。</div></td><td class="tt-zh" lang="zh"><div class="poem">■１．问候<br>　　这次能够购买「东方天空璋　～ Hidden Star in Four Seasons. 」，<br>　真是非常感谢。<br><br>　　这是一部在某个令人怀念的世界中，一群比较悠闲的角色展开无比激烈的<br>　弹幕的射击游戏。<br><br>　　我觉得弹幕ＳＴＧ是最近变得非常稀少的，像个游戏的游戏。<br>　没有什么课金要素、收集要素、养成要素，请通过反复的游玩<br>　来感受自己成长的喜悦。到通关为止只有数十分钟，希望您能够<br>　品尝到令人舒畅的成就感。</div></td></tr></tbody></table>
+
 
 
 
@@ -47,10 +50,12 @@ Readme | 东方天空璋 | 使用了翻译表的页面 | 附带文档
 
 
 
+
 ###### 卸载方法
 
 
 <table><tbody><tr class="tt-content" id="=-7" data-pos="&#91;&quot;=&quot;,7&#93;"><td class="tt-ja" lang="ja"><div class="poem">■３．アンインストール方法<br><br>　インストールでスタートメニューにアイコンを登録した場合は、<br>　上海アリス幻樂団＞東方天空璋＞アンインストール<br>　をクリックしてください。<br><br>　登録しなかった場合は、コントロールパネルの「プログラムの変更と削除」<br>　で東方天空璋を選択してください。</div></td><td class="tt-zh" lang="zh"><div class="poem">■３．卸载方式<br><br><br>　在安装过程中添加到了开始菜单，<br>　上海爱丽丝幻乐团＞东方天空璋＞卸载程序<br>　按照这样的顺序点击即可。<br><br>　如果没有添加，请打开控制面板中的「卸载或更改程序」，<br>　选择东方天空璋。</div></td></tr></tbody></table>
+
 
 
 
@@ -61,10 +66,12 @@ Readme | 东方天空璋 | 使用了翻译表的页面 | 附带文档
 
 
 
+
 ###### 如果没什么疑问
 
 
 <table><tbody><tr class="tt-content" id="=-11" data-pos="&#91;&quot;=&quot;,11&#93;"><td class="tt-ja" lang="ja"><div class="poem">■５．困ったことが無かったら<br>　お楽しみ下さい。</div></td><td class="tt-zh" lang="zh"><div class="poem">■５．如果没有什么疑问<br>　请享受游戏。</div></td></tr></tbody></table>
+
 
 
 

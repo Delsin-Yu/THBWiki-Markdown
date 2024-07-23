@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **东方风自作曲** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -28,11 +29,13 @@
 
 
 
+
 ## 基本信息
 
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">デスサイズパラダイス</td></tr><tr><td><b>译名</b></td><td>Deathscythe Paradise</td></tr><tr><td><b>作曲</b></td><td><a href="./Wanwan.md" title="Wanwan">Wanwan</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 Deathscythe Paradise（曲目） - 由 Wanwan 创作的东方风自作曲，原名 デスサイズパラダイス
+
 ## 出现作品
 
 <table>
@@ -41,8 +44,11 @@ Deathscythe Paradise（曲目） - 由 Wanwan 创作的东方风自作曲，原�
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ## 说明文本
+
 ### TriFocuser
 - Music Room (未找到链接)
 
@@ -58,8 +64,11 @@ Deathscythe Paradise（曲目） - 由 Wanwan 创作的东方风自作曲，原�
 话说死神的镰刀那可真是大得要死的镰刀啊。为撒死仄样捏。
   
 
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
 
 

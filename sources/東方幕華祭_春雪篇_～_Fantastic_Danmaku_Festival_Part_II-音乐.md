@@ -4,6 +4,7 @@
 
 东方幕华祭制作组
 
+
 ## Music Room
 
 <table>
@@ -71,7 +72,7 @@
 </td></tr>
 <tr valign="top">
 <td colspan="3" style="padding:1em; padding-left:2em;" lang="zh" width="30%">
-<p>原曲：<a href="/%E9%81%A0%E9%87%8E%E5%B9%BB%E6%83%B3%E7%89%A9%E8%AA%9E" class="mw-redirect" title="遠野幻想物語">遠野幻想物語</a><br>
+<p>原曲：<a href="./遠野幻想物語.md" class="mw-redirect" title="遠野幻想物語">遠野幻想物語</a><br>
 “来到这个地方，我就觉得浑身不自在。时不时还听见诡异的声音……”<br>
 包含着有趣的细节的一首曲子，仔细聆听一下吧
 </p>
@@ -90,7 +91,7 @@
 </td></tr>
 <tr valign="top">
 <td colspan="3" style="padding:1em; padding-left:2em;" lang="zh" width="30%">
-<p>原曲：<a href="/%E3%83%86%E3%82%A3%E3%82%A2%E3%82%AA%E3%82%A4%E3%82%A8%E3%83%84%E3%82%A9%E3%83%B3(withered_leaf)" class="mw-redirect" title="ティアオイエツォン(withered leaf)">ティアオイエツォン(withered leaf)</a><br>
+<p>原曲：<a href="./ティアオイエツォン(withered_leaf).md" class="mw-redirect" title="ティアオイエツォン(withered leaf)">ティアオイエツォン(withered leaf)</a><br>
 如果听过原曲，是不是有点惊讶？这是属于橙的旋律<br>
 这首曲子让人充满了战斗的欲望！
 </p>
@@ -109,7 +110,7 @@
 </td></tr>
 <tr valign="top">
 <td colspan="3" style="padding:1em; padding-left:2em;" lang="zh" width="30%">
-<p>原曲：<a href="/%E3%83%96%E3%82%AF%E3%83%AC%E3%82%B7%E3%83%A5%E3%83%86%E3%82%A3%E3%81%AE%E4%BA%BA%E5%BD%A2%E5%B8%AB" class="mw-redirect" title="ブクレシュティの人形師">ブクレシュティの人形師</a><br>
+<p>原曲：<a href="./ブクレシュティの人形師.md" class="mw-redirect" title="ブクレシュティの人形師">ブクレシュティの人形師</a><br>
 曲风突然有了变化，这也是首次尝试加入一些即兴的元素<br>
 不知道可爱的人偶们都喜欢什么样的音乐呢，但想必有喜欢西洋乐的吧
 </p>
@@ -128,7 +129,7 @@
 </td></tr>
 <tr valign="top">
 <td colspan="3" style="padding:1em; padding-left:2em;" lang="zh" width="30%">
-<p>原曲：<a href="/%E4%BA%BA%E5%BD%A2%E8%A3%81%E5%88%A4_%EF%BD%9E_%E4%BA%BA%E3%81%AE%E5%BD%A2%E5%BC%84%E3%81%B3%E3%81%97%E5%B0%91%E5%A5%B3" class="mw-redirect" title="人形裁判 ～ 人の形弄びし少女">人形裁判　～ 人の形弄びし少女</a><br>
+<p>原曲：<a href="./人形裁判_～_人の形弄びし少女.md" class="mw-redirect" title="人形裁判 ～ 人の形弄びし少女">人形裁判　～ 人の形弄びし少女</a><br>
 <br>
 这首曲子具有独特的异国风情，配合着人偶的演出，感觉十分有趣
 </p>
@@ -165,7 +166,7 @@
 </td></tr>
 <tr valign="top">
 <td colspan="3" style="padding:1em; padding-left:2em;" lang="zh" width="30%">
-<p>原曲：<a href="/%E5%A4%A9%E7%A9%BA%E3%81%AE%E8%8A%B1%E3%81%AE%E9%83%BD" class="mw-redirect" title="天空の花の都">天空の花の都</a><br>
+<p>原曲：<a href="./天空の花の都.md" class="mw-redirect" title="天空の花の都">天空の花の都</a><br>
 同样是原作中没有立绘的人物，于是进行了大胆的改编<br>
 中间的华尔兹真是让人陶醉
 </p>
@@ -184,7 +185,7 @@
 </td></tr>
 <tr valign="top">
 <td colspan="3" style="padding:1em; padding-left:2em;" lang="zh" width="30%">
-<p>原曲：<a href="/%E6%9D%B1%E6%96%B9%E5%A6%96%E3%80%85%E5%A4%A2_%EF%BD%9E_Ancient_Temple" class="mw-redirect" title="東方妖々夢 ～ Ancient Temple">東方妖々夢　～ Ancient Temple</a><br>
+<p>原曲：<a href="./東方妖々夢_～_Ancient_Temple.md" class="mw-redirect" title="東方妖々夢 ～ Ancient Temple">東方妖々夢　～ Ancient Temple</a><br>
 作为原作中极具代表性的旋律，改编自然也不能示弱<br>
 使用了不少和风乐器，同时也在努力表现出森严感
 </p>
@@ -203,7 +204,7 @@
 </td></tr>
 <tr valign="top">
 <td colspan="3" style="padding:1em; padding-left:2em;" lang="zh" width="30%">
-<p>原曲：<a href="/%E5%A6%96%E3%80%85%E8%B7%8B%E6%89%88_%EF%BD%9E_Who_done_it!" class="mw-redirect" title="妖々跋扈 ～ Who done it!">妖々跋扈　～ Who done it!</a><br>
+<p>原曲：<a href="./妖々跋扈_～_Who_done_it!.md" class="mw-redirect" title="妖々跋扈 ～ Who done it!">妖々跋扈　～ Who done it!</a><br>
 与原曲完全不一样的风格，体现着宗教的神圣和威严<br>
 值得一提的是，曲名来自于佛教用语
 </p>
@@ -240,7 +241,7 @@
 </td></tr>
 <tr valign="top">
 <td colspan="3" style="padding:1em; padding-left:2em;" lang="zh" width="30%">
-<p>原曲：<a href="/%E5%B9%BD%E9%9B%85%E3%81%AB%E5%92%B2%E3%81%8B%E3%81%9B%E3%80%81%E5%A2%A8%E6%9F%93%E3%81%AE%E6%A1%9C_%EF%BD%9E_Border_of_Life" class="mw-redirect" title="幽雅に咲かせ、墨染の桜 ～ Border of Life">幽雅に咲かせ、墨染の桜　～ Border of Life</a><br>
+<p>原曲：<a href="./幽雅に咲かせ、墨染の桜_～_Border_of_Life.md" class="mw-redirect" title="幽雅に咲かせ、墨染の桜 ～ Border of Life">幽雅に咲かせ、墨染の桜　～ Border of Life</a><br>
 这是一次全新的尝试，灵感来自于那些融合了和风和流行摇滚的乐队<br>
 这首曲子并没有加入原曲中的经典旋律，好戏要留在后头！
 </p>
@@ -259,7 +260,7 @@
 </td></tr>
 <tr valign="top">
 <td colspan="3" style="padding:1em; padding-left:2em;" lang="zh" width="30%">
-<p>原曲：<a href="/%E3%83%9C%E3%83%BC%E3%83%80%E3%83%BC%E3%82%AA%E3%83%96%E3%83%A9%E3%82%A4%E3%83%95" class="mw-redirect" title="ボーダーオブライフ">ボーダーオブライフ</a><br>
+<p>原曲：<a href="./ボーダーオブライフ.md" class="mw-redirect" title="ボーダーオブライフ">ボーダーオブライフ</a><br>
 终于，那个熟悉的旋律出现了！<br>
 这首曲子从经典旋律开始，在最后重新回到新的主题，意味深刻
 </p>
@@ -314,7 +315,7 @@
 </td></tr>
 <tr valign="top">
 <td colspan="3" style="padding:1em; padding-left:2em;" lang="zh" width="30%">
-<p>原曲：<a href="/%E6%86%91%E5%9D%90%E3%81%AF%E5%A4%A2%E3%81%A8%E7%8F%BE%E3%81%AE%E9%96%93%E3%81%AB_%EF%BD%9E_Necro-Fantasia" class="mw-redirect" title="憑坐は夢と現の間に ～ Necro-Fantasia">憑坐は夢と現の間に　～ Necro-Fantasia</a><br>
+<p>原曲：<a href="./憑坐は夢と現の間に_～_Necro-Fantasia.md" class="mw-redirect" title="憑坐は夢と現の間に ～ Necro-Fantasia">憑坐は夢と現の間に　～ Necro-Fantasia</a><br>
 改编自八云紫的主题曲之一，这次体现出了不一样的风格<br>
 伴随着充满了克苏鲁元素的弹幕，是否让你渐渐丧失理智了呢
 </p>
@@ -343,6 +344,7 @@
 </td>
 <td style="background: #dde6ff;" align="center" width="10%">♪ <i>StarX</i>
 </td></tr></tbody></table>
+
 
 
 ## 词条导航

@@ -8,10 +8,12 @@
 汉化已完成……
   
 
+
 ## 附带文档
 - 游戏内manual (未找到链接)
 - [readme](./東方桃源宮_～_Riverbed_Soul_Saver.-设定与剧情-readme.md)
 - [角色设定文档](./東方桃源宮_～_Riverbed_Soul_Saver.-设定与剧情-设定文档.md)
+
 
 ## 故事背景
 - [故事背景](./東方桃源宮_～_Riverbed_Soul_Saver.-设定与剧情-故事背景.md)
@@ -19,6 +21,7 @@
   
 EX故事背景写在[角色设定文档](./東方桃源宮_～_Riverbed_Soul_Saver.-设定与剧情-设定文档.md)中。
   
+
 
 ## 游戏对话
 - [神出鬼没的结界组（博丽灵梦&amp;八云紫） 游戏对话/结局](./東方桃源宮_～_Riverbed_Soul_Saver.-设定与剧情-神出鬼没的结界组.md)

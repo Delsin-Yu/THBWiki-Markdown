@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-RAIN_FALL封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/b/be/RAIN_FALL%E5%B0%81%E9%9D%A2.jpg/139px-RAIN_FALL%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="139" height="196" srcset="https://upload.thwiki.cc/thumb/b/be/RAIN_FALL%E5%B0%81%E9%9D%A2.jpg/208px-RAIN_FALL%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/b/be/RAIN_FALL%E5%B0%81%E9%9D%A2.jpg/278px-RAIN_FALL%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="319" data-file-height="450"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://zounose.jugem.jp/">http://zounose.jugem.jp/</a></td></tr></tbody></table>
 
 RAIN FALL（同人志，薬味さらい，2013） - 2013年5月26日 由 薬味さらい 于 博丽神社例大祭10 发布的漫画同人志，一共74页，登场人物有 博丽灵梦、洩矢诹访子、射命丸文、姬海棠果、八坂神奈子、犬走椛、东风谷早苗、上白泽慧音、藤原妹红、因幡天为、八意永琳、圣白莲、蓬莱山辉夜、铃仙·优昙华院·因幡、云居一轮、村纱水蜜、寅丸星、雾雨魔理沙、爱丽丝·玛格特洛依德、森近霖之助、比那名居天子、伊吹萃香、永江衣玖、八云紫、稗田阿求、水桥帕露西、黑谷山女、灵乌路空、星熊勇仪、十六夜咲夜、红美铃、帕秋莉·诺蕾姬、小恶魔、琪露诺、大妖精、米斯蒂娅·萝蕾拉、莉格露·奈特巴格、露米娅、蕾米莉亚·斯卡蕾特、芙兰朵露·斯卡蕾特、丰聪耳神子、物部布都、宫古芳香、霍青娥、苏我屠自古、火焰猫燐，分级为 一般向
+
 ## Staff
 - [ゾウノセ](./ゾウノセ.md)
+
 
 ## 评论
 

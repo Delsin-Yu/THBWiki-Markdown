@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-封獣ぬえ亜種ぬえちゃ合同2_Industrial_trash_girl封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/8/8d/%E5%B0%81%E7%8D%A3%E3%81%AC%E3%81%88%E4%BA%9C%E7%A8%AE%E3%81%AC%E3%81%88%E3%81%A1%E3%82%83%E5%90%88%E5%90%8C2_Industrial_trash_girl%E5%B0%81%E9%9D%A2.jpg/158px-%E5%B0%81%E7%8D%A3%E3%81%AC%E3%81%88%E4%BA%9C%E7%A8%AE%E3%81%AC%E3%81%88%E3%81%A1%E3%82%83%E5%90%88%E5%90%8C2_Industrial_trash_girl%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="158" height="224" srcset="https://upload.thwiki.cc/thumb/8/8d/%E5%B0%81%E7%8D%A3%E3%81%AC%E3%81%88%E4%BA%9C%E7%A8%AE%E3%81%AC%E3%81%88%E3%81%A1%E3%82%83%E5%90%88%E5%90%8C2_Industrial_trash_girl%E5%B0%81%E9%9D%A2.jpg/238px-%E5%B0%81%E7%8D%A3%E3%81%AC%E3%81%88%E4%BA%9C%E7%A8%AE%E3%81%AC%E3%81%88%E3%81%A1%E3%82%83%E5%90%88%E5%90%8C2_Industrial_trash_girl%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/8/8d/%E5%B0%81%E7%8D%A3%E3%81%AC%E3%81%88%E4%BA%9C%E7%A8%AE%E3%81%AC%E3%81%88%E3%81%A1%E3%82%83%E5%90%88%E5%90%8C2_Industrial_trash_girl%E5%B0%81%E9%9D%A2.jpg/317px-%E5%B0%81%E7%8D%A3%E3%81%AC%E3%81%88%E4%BA%9C%E7%A8%AE%E3%81%AC%E3%81%88%E3%81%A1%E3%82%83%E5%90%88%E5%90%8C2_Industrial_trash_girl%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="800" data-file-height="1130"></a><div class="cover-char">角色：<a href="./封兽鵺.md" title="封兽鵺">封兽鵺</a></div></td>
@@ -17,11 +18,14 @@
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://ec.toranoana.jp/tora_r/ec/item/040030046093">虎穴</a></td></tr></tbody></table>
 
 
+
 ## 预览
+
 ## Staff
 - 丹羽 (未找到链接)
 - ながみん (未找到链接)
 - 三三 (未找到链接)
+
 
 ## 评论
 

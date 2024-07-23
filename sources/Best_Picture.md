@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Best_Picture封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/3/3a/Best_Picture%E5%B0%81%E9%9D%A2.jpg/117px-Best_Picture%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="117" height="168" srcset="https://upload.thwiki.cc/thumb/3/3a/Best_Picture%E5%B0%81%E9%9D%A2.jpg/176px-Best_Picture%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/3/3a/Best_Picture%E5%B0%81%E9%9D%A2.jpg/234px-Best_Picture%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="268" data-file-height="384"></a><div class="cover-char">角色：<a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a></div></td>
@@ -13,9 +14,12 @@
 </tr><tr><td class="label">首发日期</td><td>2008-04-20&#160;（<a href="/展会作品列表?e=SunshineCreation%2339">SunshineCreation39</a>）</td></tr><tr><td class="label">类型</td><td>漫画</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">页数</td><td>20P</td></tr><tr><td class="label">登场人物</td><td><a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a></td></tr></tbody></table>
 
 Best Picture（同人志，すとらいぷぱたーん，2008） - 2008年4月20日 由 すとらいぷぱたーん 于 SunshineCreation39 发布的漫画同人志，一共20页，登场人物有 芙兰朵露·斯卡蕾特，分级为 一般向
+
 ## 预览
+
 ## Staff
 - しまどりる (未找到链接)
+
 
 ## 评论
 

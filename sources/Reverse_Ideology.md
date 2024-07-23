@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -42,11 +43,13 @@
 
 
 
+
 ## 基本信息
 
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">リバースイデオロギー</td></tr><tr><td><b>译名</b></td><td>Reverse Ideology</td></tr><tr><td><b>其他译名</b></td><td>颠倒世界观<br>倒转的世界观<br>颠倒的观念</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 Reverse Ideology（曲目） - 由 ZUN 创作的官方曲目，原名 リバースイデオロギー
+
 ## 出现作品
 
 <table>
@@ -56,7 +59,9 @@ Reverse Ideology（曲目） - 由 ZUN 创作的官方曲目，原名 リバー�
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 东方辉针城
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th14_11.mp3.md" title="文件:th14 11.mp3">th14_11.mp3</a><br><audio src="https://upload.thwiki.cc/4/49/th14_11.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>BGM\th14_11.wav</td></tr><tr><td><b>BGMForAll</b></td><td><div class="mw-collapsible mw-collapsed">
@@ -65,6 +70,7 @@ Reverse Ideology（曲目） - 由 ZUN 创作的官方曲目，原名 リバー�
 <div class="mw-collapsible-content">BGM = リバースイデオロギー, 0xD017D80, 0xE2140, 0xD0F9EC0, 0x1532610</div>
 </div>
 </td></tr></tbody></table>
+
 
 
 ### 弹幕天邪鬼
@@ -77,12 +83,15 @@ Reverse Ideology（曲目） - 由 ZUN 创作的官方曲目，原名 リバー�
 </td></tr></tbody></table>
 
 
+
 ### 旧约酒馆
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-hr10_03.mp3.md" title="文件:hr10 03.mp3">hr10_03.mp3</a><br><audio src="https://upload.thwiki.cc/1/1b/hr10_03.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track03.cda（CD）</td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 东方辉针城
 - Music Room (未找到链接)
 
@@ -92,12 +101,16 @@ Reverse Ideology（曲目） - 由 ZUN 创作的官方曲目，原名 リバー�
 结果，成了首调皮的曲子……不过很符合BOSS的节奏，很愉快吧。  
 虽然是率先去做别人讨厌的事的小人一般的BOSS，  
 但这就是这次的黑幕。
+
 ### 弹幕天邪鬼
 - Music Room (未找到链接)
 
 　重新收录自东方辉针城。
+
 ## 其他资料
+
 ### 乐理资讯
+
 #### 使用乐器
 - SD-90 St.Slow Str
 - SD-90 St.Sm Choir
@@ -107,6 +120,7 @@ Reverse Ideology（曲目） - 由 ZUN 创作的官方曲目，原名 リバー�
 - Retrologue Caesar
 - Groove Agent 2/3 Trance
 - EZdrummer Default Kit
+
 
 ### 分析考据
   
@@ -120,7 +134,7 @@ Reverse Ideology（曲目） - 由 ZUN 创作的官方曲目，原名 リバー�
 
 - イデオロギー（Ideology）
   - 主义、思想。
-    - 辉针城 (未找到链接)设定中提及，[鬼人正邪](./鬼人正邪.md)的野心即颠覆[幻想乡](./幻想乡.md)，转变为弱者统治强者的世界。
+    - [辉针城](./辉针城.md)设定中提及，[鬼人正邪](./鬼人正邪.md)的野心即颠覆[幻想乡](./幻想乡.md)，转变为弱者统治强者的世界。
 
 
 
@@ -137,6 +151,7 @@ Reverse Ideology（曲目） - 由 ZUN 创作的官方曲目，原名 リバー�
   
  *对于更多在旧约酒馆专辑中的该曲考据以及附带故事相关信息，可参见旧约酒馆专辑的[附带故事](./旧约酒馆-附带故事.md)与[分析考据](./旧约酒馆-分析考据.md)页面。* 
   
+
 
 ### 二次同人数据
 

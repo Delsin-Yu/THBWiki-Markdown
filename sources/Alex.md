@@ -6,17 +6,22 @@
 
 本页是关于东方Project  
  **二次同人创作者** 的词条
+
 ## 基本信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="label"><b>名称</b></td><td> Alex </td></tr><tr><td class="label"><b>别名</b></td><td>预言者之梦<br>A君</td></tr><tr><td class="label"><b>所属社团</b></td><td><b>当前</b><div style="margin-left:2em;">无所属社团</div><b>过往</b><div style="margin-left:2em;"><a href="./时魂躁裂.md" title="时魂躁裂">时魂躁裂</a></div></td></tr><tr><td class="label"><b>职位</b></td><td>编曲，演唱，演奏</td></tr><tr><td class="label"><b>参与社团</b></td><td><a href="./Driving_Kitchen.md" title="Driving Kitchen">Driving Kitchen</a> （演唱）<br><a href="./かぷりこーん.md" title="かぷりこーん">かぷりこーん</a> （编曲）<br><a href="./时魂躁裂.md" title="时魂躁裂">时魂躁裂</a> （编曲，演奏）</td></tr><tr><td class="label"><b>个人页面</b></td><td><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><b>bilibili</b></td><td><a rel="nofollow" class="external free" href="https://space.bilibili.com/128738">https://space.bilibili.com/128738</a></td></tr><tr><td><b>Weibo</b></td><td><a rel="nofollow" class="external free" href="https://weibo.com/810114514">https://weibo.com/810114514</a></td></tr><tr><td><b>NetEaseCloudMusic</b></td><td><a rel="nofollow" class="external free" href="https://music.163.com/#/artist?id=12228280">https://music.163.com/#/artist?id=12228280</a></td></tr></tbody></table></td></tr></tbody></table>
 
 Alex（人物） - 现实人物
+
 ## 介绍
+
 ## 参与作品
+
 ### 同人音乐
   
 模板:人物曲目列表 (未找到链接)
   
+
 
 ## 人际关系
 

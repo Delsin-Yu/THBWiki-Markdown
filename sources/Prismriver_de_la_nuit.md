@@ -4,7 +4,8 @@
 
 Prismriver de la nuit ，于 2016 年成立，主要制作 同人音乐 的中国大陆同人社团，主催是 小米茶恶劣，曾以 RedStone Café 名义活动，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -17,6 +18,7 @@ Prismriver de la nuit ，于 2016 年成立，主要制作 同人音乐 的中�
 
 
 - [5 参展信息](#参展信息)
+
 
 
 
@@ -44,6 +46,7 @@ Prismriver de la nuit ，于 2016 年成立，主要制作 同人音乐 的中�
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Prismriver de la nuit </td></tr><tr><td><b>中文名称</b></td><td>夜之骚灵</td></tr><tr><td><b>曾用名称</b></td><td> RedStone Café </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2016-08</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=%E5%B0%8F%E7%B1%B3%E8%8C%B6%E6%81%B6%E5%8A%A3&amp;action=edit&amp;redlink=1" class="new" title="小米茶恶劣（页面不存在）">小米茶恶劣</a> </td></tr><tr><td><b>地区</b></td><td>中国大陆</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://weibo.com/redstonecafe">http://weibo.com/redstonecafe</a> </td></tr></tbody></table>
 
 Prismriver de la nuit（同人社团，同人音乐社团） - Prismriver de la nuit ，于 2016 年成立，主要制作 同人音乐 的中国大陆同人社团，主催是 小米茶恶劣，曾以 RedStone Café 名义活动，当前状态为 活动
+
 ## 成员名单
 - 小米茶恶劣
 - 药丸Yaowan
@@ -54,12 +57,15 @@ Prismriver de la nuit（同人社团，同人音乐社团） - Prismriver de la 
 - 神楽坂南音
 - Aki
 
+
 ## 前成员名单
 - 昔风（前任主催）
 - 醋溜便当彩虹-RainbowSuika（已退出）
 - 闲人甲（因盗取他人社团曲目及贪污社团资金而退出）
 
+
 ## 作品列表
+
 ### 同人专辑
 [](./Destined_Ramification.md)[Destined Ramification](./Destined_Ramification.md)首发日期：2017-03-19 （COMIDAY19 (未找到链接)）RSCD-0001全长、​盒装 （一般向）[](./Le_petit_voyage.md)[Le petit voyage](./Le_petit_voyage.md)首发日期：2017-08-19 （第八届上海THONLY 東方蝉時歌～せみときのうた (未找到链接)）RSCD-0002全长 （一般向）[](./Seconda_Viaggio.md)[Seconda Viaggio](./Seconda_Viaggio.md)首发日期：2018-05-19 （COMICUP22 (未找到链接)）RSCD-0003全长 （一般向）[](./Touhou_Steps.md)[Touhou Steps](./Touhou_Steps.md)首发日期：2018-08-18 （第九届上海THONLY 東方蛍灯筏～ほたるびにいかだ (未找到链接)）PDLN-0001全长 （一般向）[](./Touhouklavier.md)[Touhouklavier](./Touhouklavier.md)首发日期：2019-08-17 （第十届上海THONLY 東方滴星盞～ほしをしたたるさかずき (未找到链接)）PDLN-0002全长 （一般向）[](./神灵十响.md)[神灵十响](./神灵十响.md)首发日期：2021-06-12 （COMICUP28 (未找到链接)）全长 （一般向）[](./辉光十色.md)[辉光十色](./辉光十色.md)首发日期：2023-08-19 （魅知幻想博览会 2023 星虹澄空 (未找到链接)）全长 （一般向）USB
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -76,6 +82,7 @@ Prismriver de la nuit（同人社团，同人音乐社团） - Prismriver de la 
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 参展信息

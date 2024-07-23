@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=THE_RUINS%E5%B0%81%E9%9D%A2.jpg" class="new" title="文件:THE RUINS封面.jpg">封面图片</a><div class="cover-char">角色：<a href="./玛艾露贝莉·赫恩.md" title="玛艾露贝莉·赫恩">玛艾露贝莉·赫恩</a></div></td>
@@ -14,7 +15,9 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://weibo.com/6663323453/IkEpmsc3Q">https://weibo.com/6663323453/IkEpmsc3Q</a></td></tr></tbody></table>
 
 THE RUINS（同人志，星月中枢站 StarryNightCentre，2019） - 2019年12月21日 由 星月中枢站 StarryNightCentre 于 COMICUP25 发布的其他同人志，21*21cm方形开本尺寸一共16页，分级为 一般向
+
 ## Staff
+
 ## 评论
 
 

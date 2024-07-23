@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Milky_Way_5封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/a/a4/Milky_Way_5%E5%B0%81%E9%9D%A2.jpg/157px-Milky_Way_5%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="157" height="224" srcset="https://upload.thwiki.cc/thumb/a/a4/Milky_Way_5%E5%B0%81%E9%9D%A2.jpg/235px-Milky_Way_5%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/a/a4/Milky_Way_5%E5%B0%81%E9%9D%A2.jpg/314px-Milky_Way_5%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1052" data-file-height="1501"></a><div class="cover-char">角色：<a href="./帕秋莉·诺蕾姬.md" title="帕秋莉·诺蕾姬">帕秋莉·诺蕾姬</a>，<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://reverse-noise.at.webry.info/200802/article_2.html">https://reverse-noise.at.webry.info/200802/article_2.html</a></td></tr></tbody></table>
 
 Milky Way 5（同人志，Reverse Noise，2008） - 2008年3月2日 由 Reverse Noise 于 大图书馆的读书会1 发布的漫画同人志，B5尺寸一共28页，登场人物有 小恶魔、雾雨魔理沙、帕秋莉·诺蕾姬，分级为 一般向
+
 ## Staff
 - [やむっ](./やむっ.md)
+
 
 ## 评论
 

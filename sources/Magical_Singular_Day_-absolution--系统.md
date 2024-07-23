@@ -8,6 +8,7 @@
 [我忘了搬运了……](https://tieba.baidu.com/p/3074232101)
   
 
+
 ## 目录
 
 - [1 脚本选择](#脚本选择)
@@ -39,6 +40,7 @@
 
 
 
+
 ## 脚本选择
 [](./文件-Magical_Singular_Day_-absolution-系统说明1.jpg.md)
   
@@ -54,6 +56,7 @@
 
 进入脚本③之后，将会看到图2，第一个高亮状态下的是进行游戏，进入之后可以选择机体（后介绍），之后即可开始游戏。下方一排是该脚本对应的Replay，选择则可以观看Replay。
   
+
 
 
 ## 菜单界面
@@ -74,6 +77,7 @@
   
 
 
+
 ## 基本操作
   
 射击/确认：Z  
@@ -92,6 +96,7 @@ Bomb/取消：X
 
 暂停选单：Esc
   
+
 
 ## 画面要素
 [](./文件-Magical_Singular_Day_-absolution-系统说明4.jpg.md)
@@ -129,17 +134,29 @@ Bomb/取消：X
   
 
 
+
 ## 机体说明
+
 ## 关卡内容
+
 ### 道中
+
 ### boss战
+
 ## 资源奖励
+
 ## Burst系统
+
 ### Burst Cancel和Burst Recharge
+
 ### Burst Rank
+
 ### 击返弹
+
 ### Rush槽和Rush Burst
+
 ## 通关结算
+
 ## 其他
 
 [^cite_note-1]: 待补充

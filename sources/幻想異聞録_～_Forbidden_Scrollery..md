@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-幻想異聞録_～_Forbidden_Scrollery.封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/6/6d/%E5%B9%BB%E6%83%B3%E7%95%B0%E8%81%9E%E9%8C%B2_%EF%BD%9E_Forbidden_Scrollery.%E5%B0%81%E9%9D%A2.jpg/147px-%E5%B9%BB%E6%83%B3%E7%95%B0%E8%81%9E%E9%8C%B2_%EF%BD%9E_Forbidden_Scrollery.%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="147" height="196" srcset="https://upload.thwiki.cc/thumb/6/6d/%E5%B9%BB%E6%83%B3%E7%95%B0%E8%81%9E%E9%8C%B2_%EF%BD%9E_Forbidden_Scrollery.%E5%B0%81%E9%9D%A2.jpg/220px-%E5%B9%BB%E6%83%B3%E7%95%B0%E8%81%9E%E9%8C%B2_%EF%BD%9E_Forbidden_Scrollery.%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/6/6d/%E5%B9%BB%E6%83%B3%E7%95%B0%E8%81%9E%E9%8C%B2_%EF%BD%9E_Forbidden_Scrollery.%E5%B0%81%E9%9D%A2.jpg/294px-%E5%B9%BB%E6%83%B3%E7%95%B0%E8%81%9E%E9%8C%B2_%EF%BD%9E_Forbidden_Scrollery.%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1536" data-file-height="2048"></a><div class="cover-char">角色：<a href="./本居小铃.md" title="本居小铃">本居小铃</a>，<a href="./宇佐见堇子.md" title="宇佐见堇子">宇佐见堇子</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/IshikawaP/status/1134989888669986817">https://twitter.com/IshikawaP/status/1134989888669986817</a></td></tr></tbody></table>
 
 幻想異聞録 ～ Forbidden Scrollery.（同人志，満月堂，2019） - 2019年6月2日 由 満月堂 于 铃奈幻想绘卷2 发布的漫画同人志，A5尺寸一共12页，分级为 一般向
+
 ## Staff
 : いしかわ (未找到链接)
+
 
 ## 评论
 

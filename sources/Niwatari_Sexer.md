@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Niwatari_Sexer封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/b/b1/Niwatari_Sexer%E5%B0%81%E9%9D%A2.jpg/224px-Niwatari_Sexer%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="212" srcset="https://upload.thwiki.cc/thumb/b/b1/Niwatari_Sexer%E5%B0%81%E9%9D%A2.jpg/336px-Niwatari_Sexer%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/b/b1/Niwatari_Sexer%E5%B0%81%E9%9D%A2.jpg/448px-Niwatari_Sexer%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="2122" data-file-height="2007"></a><div class="cover-char">角色：<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a>，<a href="./庭渡久侘歌.md" title="庭渡久侘歌">庭渡久侘歌</a>，<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></div></td>
@@ -14,9 +15,12 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/kokechankokko/status/1514761779821559811">https://twitter.com/kokechankokko/status/1514761779821559811</a><br><a rel="nofollow" class="external free" href="https://twitter.com/kokechankokko/status/1519314203060092934">https://twitter.com/kokechankokko/status/1519314203060092934</a></td></tr></tbody></table>
 
 Niwatari Sexer（同人志，鳥類の性決定，2022） - 2022年5月8日 由 鳥類の性決定 于 博丽神社例大祭19 发布的漫画同人志，A5尺寸一共28页，登场人物有 雾雨魔理沙、博丽灵梦、庭渡久侘歌，分级为 一般向
+
 ## 预览
+
 ## Staff
 - コケ矮 (未找到链接)
+
 
 ## 评论
 

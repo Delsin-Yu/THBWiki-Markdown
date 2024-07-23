@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -35,11 +36,13 @@
 
 
 
+
 ## 基本信息
 
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">逸脱者達の無礙光　～ Kingdom of Nothingness.</td></tr><tr><td><b>译名</b></td><td>越轨者们的无碍光 ～ Kingdom of Nothingness.</td></tr><tr><td><b>英文译名</b></td><td>The Deviants' Unobstructed Light ~ Kingdom of Nothingness.</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 越轨者们的无碍光 ～ Kingdom of Nothingness.（曲目） - 由 ZUN 创作的官方曲目，原名 逸脱者達の無礙光　～ Kingdom of Nothingness.
+
 ## 出现作品
 
 <table>
@@ -48,7 +51,9 @@
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 东方兽王园
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th19_09.mp3.md" title="文件:th19 09.mp3">th19_09.mp3</a><br><audio src="https://upload.thwiki.cc/9/9b/th19_09.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>BGM\th19_09.wav</td></tr><tr><td><b>BGMForAll</b></td><td><div class="mw-collapsible mw-collapsed">
@@ -59,7 +64,9 @@
 </td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 东方兽王园
 - Music Room (未找到链接)
 
@@ -69,10 +76,13 @@
 　在强力的乐句一次次反复的过程中，  
 　感情也在不断变化，非常有趣。  
 　这也体现着她立场和形象千变万化的魅力。
+
 ## 其他资料
+
 ### 乐理资讯
 - 使用乐器
   - Sonuscore - Mongolian Voices - Ancient Phrases (人声)
+
 
 
 ### 分析考据
@@ -82,7 +92,7 @@
 
 - 逸脱者
   - 指偏离常轨、超出常理、偏离正道之人。
-    - [东方兽王园](./东方兽王园.md)剧情中许多角色都在调查中迷失了方向，联系符卡「亡羊的王国」 (未找到链接)中的「亡羊」，歧路亡羊。
+    - [东方兽王园](./东方兽王园.md)剧情中许多角色都在调查中迷失了方向，联系符卡[「亡羊的王国」](./「亡羊的王国」.md)中的「亡羊」，歧路亡羊。
     - [东方兽王园](./东方兽王园.md)设定中提及，[日白残无](./日白残无.md)在日本战国时期偏离了正道，最终堕入[地狱](./地狱.md)。
 
 
@@ -114,6 +124,7 @@
 - Nothingness
   - 意为「虚无」。
     - [日白残无](./日白残无.md)名字里的「无」，以及其「操纵虚无程度的能力」。
+
 
 
 

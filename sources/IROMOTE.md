@@ -4,7 +4,8 @@
 
 IROMOTE ，主要制作 同人志 的日本同人社团，主催是 沙流，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -20,14 +21,17 @@ IROMOTE ，主要制作 同人志 的日本同人社团，主催是 沙流，当
 
 
 
+
 ## 社团信息
 文件:IROMOTEbanner.jpg (未找到链接)  banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> IROMOTE </td></tr><tr><td><b>主要作品类型</b></td><td>同人志</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="./沙流.md" title="沙流">沙流</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="https://twitter.com/Saryu42">https://twitter.com/Saryu42</a> <br><a rel="nofollow" class="external free" href="https://www.pixiv.net/member.php?id=316949">https://www.pixiv.net/member.php?id=316949</a></td></tr></tbody></table>
 
 IROMOTE（同人社团，同人志社团） - IROMOTE ，主要制作 同人志 的日本同人社团，主催是 沙流，当前状态为 活动
+
 ## 成员名单
 - [沙流](./沙流.md)
+
 
 ### 同人志
 
@@ -38,7 +42,9 @@ IROMOTE（同人社团，同人志社团） - IROMOTE ，主要制作 同人志 
 </table>
 
 
+
 ## 作品列表
+
 ## 其他信息
 
 

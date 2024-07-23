@@ -4,7 +4,8 @@
 
 STUDIO T.R.C. ，主要制作 同人志 的日本同人社团，主催是 麗魔事変，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -20,6 +21,7 @@ STUDIO T.R.C. ，主要制作 同人志 的日本同人社团，主催是 麗魔
 
 
 
+
 ## 社团信息
 文件:STUDIO T.R.C.banner.jpg (未找到链接)  banner
 文件:STUDIO T.R.C.banner2.jpg (未找到链接)  banner
@@ -27,12 +29,15 @@ STUDIO T.R.C. ，主要制作 同人志 的日本同人社团，主催是 麗魔
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> STUDIO T.R.C. </td></tr><tr><td><b>主要作品类型</b></td><td>同人志</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=%E9%BA%97%E9%AD%94%E4%BA%8B%E5%A4%89&amp;action=edit&amp;redlink=1" class="new" title="麗魔事変（页面不存在）">麗魔事変</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://studiotrc.asablo.jp/blog/">http://studiotrc.asablo.jp/blog/</a> <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><small>（<a rel="nofollow" class="external text" href="https://web.archive.org/web/20190330111245/http://studiotrc.asablo.jp/blog/">缓存页面</a>）</small><br><a rel="nofollow" class="external free" href="http://www.asahi-net.or.jp/~wc9f-ynym/">http://www.asahi-net.or.jp/~wc9f-ynym/</a> （旧官网）<span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><small>（<a rel="nofollow" class="external text" href="https://web.archive.org/web/20170325132355/http://www.asahi-net.or.jp/~wc9f-ynym/">缓存页面</a>）</small></td></tr></tbody></table>
 
 STUDIO T.R.C.（同人社团，同人志社团） - STUDIO T.R.C. ，主要制作 同人志 的日本同人社团，主催是 麗魔事変，当前状态为 活动
+
 ## 成员名单
 - 麗魔事変 (未找到链接)
 
 : [Pixiv ID: 59464](https://www.pixiv.net/users/59464), [Twitter: @fudu](https://twitter.com/fudu)
 
+
 ## 作品列表
+
 ### 同人志
 R7 封面图片 (未找到链接)R7 (未找到链接)首发日期：未知 - R8 封面图片 (未找到链接)R8 (未找到链接)首发日期：未知 - 東方麗魔事変 第一話 「魔女たちの密会」 封面图片 (未找到链接)東方麗魔事変 第一話 「魔女たちの密会」 (未找到链接)首发日期：未知 - 東方麗魔事変 第二話 「家族の晩餐」 封面图片 (未找到链接)東方麗魔事変 第二話 「家族の晩餐」 (未找到链接)首发日期：未知 - 東方麗魔事変 第三話 「おろかもの二人」 封面图片 (未找到链接)東方麗魔事変 第三話 「おろかもの二人」 (未找到链接)首发日期：未知 - 東方麗魔事変 2.5 封面图片 (未找到链接)東方麗魔事変 2.5 (未找到链接)首发日期：未知 - 東方麗魔事変 第四話 「山天大畜」 封面图片 (未找到链接)東方麗魔事変 第四話 「山天大畜」 (未找到链接)首发日期：未知 - 東方麗魔事変 第五話 「楽園の黄昏」 封面图片 (未找到链接)東方麗魔事変 第五話 「楽園の黄昏」 (未找到链接)首发日期：未知 - 東方麗魔事変 「あのこのおもいで」 封面图片 (未找到链接)東方麗魔事変 「あのこのおもいで」 (未找到链接)首发日期：未知 - 東方麗魔事変 第六話 其ノ一 封面图片 (未找到链接)東方麗魔事変 第六話 其ノ一 (未找到链接)首发日期：未知 - 東方麗魔事変 第六話 其ノ二 封面图片 (未找到链接)東方麗魔事変 第六話 其ノ二 (未找到链接)首发日期：未知 - 東方麗魔事変 第六話「星が流れた日(前編)」 封面图片 (未找到链接)東方麗魔事変 第六話「星が流れた日(前編)」 (未找到链接)首发日期：未知 - 麗魔事変を追う 封面图片 (未找到链接)麗魔事変を追う (未找到链接)首发日期：未知 - 東方麗魔事変 第七話 其ノ一 封面图片 (未找到链接)東方麗魔事変 第七話 其ノ一 (未找到链接)首发日期：未知 - 東方麗魔事変 第七話 其ノ二 封面图片 (未找到链接)東方麗魔事変 第七話 其ノ二 (未找到链接)首发日期：未知 - 東方麗魔事変 第七話 其ノ三plus 封面图片 (未找到链接)東方麗魔事変 第七話 其ノ三plus (未找到链接)首发日期：未知 - 東方麗魔事変 第七話「星が流れた日（後編）」 封面图片 (未找到链接)東方麗魔事変 第七話「星が流れた日（後編）」 (未找到链接)首发日期：未知 - 東方麗魔事変 第八話 其ノ一 封面图片 (未找到链接)東方麗魔事変 第八話 其ノ一 (未找到链接)首发日期：未知 - 東方麗魔事変 第八話 其ノ一 其ノ二 封面图片 (未找到链接)東方麗魔事変 第八話 其ノ一 其ノ二 (未找到链接)首发日期：未知 - 東方麗魔事変 第八話 其ノ三 封面图片 (未找到链接)東方麗魔事変 第八話 其ノ三 (未找到链接)首发日期：未知 - 東方麗魔事変 第八話 其ノ三 其ノ四 封面图片 (未找到链接)東方麗魔事変 第八話 其ノ三 其ノ四 (未找到链接)首发日期：未知 - 
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -56,6 +61,7 @@ R7 封面图片 (未找到链接)R7 (未找到链接)首发日期：未知 - R8 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458"></table>
+
 
 
 ## 参展信息

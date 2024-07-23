@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-幽幻天仪盘~meteors_of_triple_dimension_-星陨之夜-封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/5/55/%E5%B9%BD%E5%B9%BB%E5%A4%A9%E4%BB%AA%E7%9B%98~meteors_of_triple_dimension_-%E6%98%9F%E9%99%A8%E4%B9%8B%E5%A4%9C-%E5%B0%81%E9%9D%A2.png/139px-%E5%B9%BD%E5%B9%BB%E5%A4%A9%E4%BB%AA%E7%9B%98~meteors_of_triple_dimension_-%E6%98%9F%E9%99%A8%E4%B9%8B%E5%A4%9C-%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="139" height="196" srcset="https://upload.thwiki.cc/thumb/5/55/%E5%B9%BD%E5%B9%BB%E5%A4%A9%E4%BB%AA%E7%9B%98~meteors_of_triple_dimension_-%E6%98%9F%E9%99%A8%E4%B9%8B%E5%A4%9C-%E5%B0%81%E9%9D%A2.png/209px-%E5%B9%BD%E5%B9%BB%E5%A4%A9%E4%BB%AA%E7%9B%98~meteors_of_triple_dimension_-%E6%98%9F%E9%99%A8%E4%B9%8B%E5%A4%9C-%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/5/55/%E5%B9%BD%E5%B9%BB%E5%A4%A9%E4%BB%AA%E7%9B%98~meteors_of_triple_dimension_-%E6%98%9F%E9%99%A8%E4%B9%8B%E5%A4%9C-%E5%B0%81%E9%9D%A2.png/279px-%E5%B9%BD%E5%B9%BB%E5%A4%A9%E4%BB%AA%E7%9B%98~meteors_of_triple_dimension_-%E6%98%9F%E9%99%A8%E4%B9%8B%E5%A4%9C-%E5%B0%81%E9%9D%A2.png 2x" data-file-width="4366" data-file-height="6140"></a><div class="cover-char">角色：<a href="./本居小铃.md" title="本居小铃">本居小铃</a>，<a href="./魅魔.md" title="魅魔">魅魔</a></div></td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://www.forevershrine.net/">http://www.forevershrine.net/</a></td></tr></tbody></table>
 
 幽幻天仪盘~meteors of triple dimension -星陨之夜-（同人志，永动之龛，2017） - 2017年5月30日 由 永动之龛  发布的漫画同人志，一共76页，登场人物有 博丽灵梦、雾雨魔理沙、博丽灵梦（旧作角色）、卡娜·安娜贝拉尔、本居小铃、稗田阿求、菊理，分级为 一般向
+
 ## Staff
 
 

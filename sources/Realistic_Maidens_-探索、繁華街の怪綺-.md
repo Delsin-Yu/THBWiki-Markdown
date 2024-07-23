@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Realistic_Maidens_-探索、繁華街の怪綺-封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/f/f6/Realistic_Maidens_-%E6%8E%A2%E7%B4%A2%E3%80%81%E7%B9%81%E8%8F%AF%E8%A1%97%E3%81%AE%E6%80%AA%E7%B6%BA-%E5%B0%81%E9%9D%A2.jpg/159px-Realistic_Maidens_-%E6%8E%A2%E7%B4%A2%E3%80%81%E7%B9%81%E8%8F%AF%E8%A1%97%E3%81%AE%E6%80%AA%E7%B6%BA-%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="159" height="224" srcset="https://upload.thwiki.cc/thumb/f/f6/Realistic_Maidens_-%E6%8E%A2%E7%B4%A2%E3%80%81%E7%B9%81%E8%8F%AF%E8%A1%97%E3%81%AE%E6%80%AA%E7%B6%BA-%E5%B0%81%E9%9D%A2.jpg/238px-Realistic_Maidens_-%E6%8E%A2%E7%B4%A2%E3%80%81%E7%B9%81%E8%8F%AF%E8%A1%97%E3%81%AE%E6%80%AA%E7%B6%BA-%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/f/f6/Realistic_Maidens_-%E6%8E%A2%E7%B4%A2%E3%80%81%E7%B9%81%E8%8F%AF%E8%A1%97%E3%81%AE%E6%80%AA%E7%B6%BA-%E5%B0%81%E9%9D%A2.jpg/318px-Realistic_Maidens_-%E6%8E%A2%E7%B4%A2%E3%80%81%E7%B9%81%E8%8F%AF%E8%A1%97%E3%81%AE%E6%80%AA%E7%B6%BA-%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="827" data-file-height="1166"></a><div class="cover-char">角色：<a href="/index.php?title=%E5%8E%9F%E5%88%9B%E8%A7%92%E8%89%B2&amp;action=edit&amp;redlink=1" class="new" title="原创角色（页面不存在）">原创角色</a></div></td>
@@ -18,11 +19,13 @@ Realistic Maidens -探索、繁華街の怪綺-（同人志，Realista Libro，2
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=618028">蜜瓜</a></td></tr></tbody></table>
 
 
+
 ## Staff
 Author
 : 赤城のく （[Realista Libro](./Realista_Libro.md)）
 Illustrator
 : 瞳元 （[Realista Libro](./Realista_Libro.md)）
+
 
 ## 评论
 ```

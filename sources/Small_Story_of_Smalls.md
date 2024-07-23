@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><div class="cover-char">角色：<a href="./玛艾露贝莉·赫恩.md" title="玛艾露贝莉·赫恩">玛艾露贝莉·赫恩</a>，<a href="./宇佐见莲子.md" title="宇佐见莲子">宇佐见莲子</a></div></td>
@@ -14,11 +15,14 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/61973903">https://www.pixiv.net/artworks/61973903</a></td></tr></tbody></table>
 
 Small Story of Smalls（同人志，第九分岐点，2017） - 2017年3月26日 由 第九分岐点 于 境界所见到的外界4 发布的漫画同人志，B5尺寸一共24页，登场人物有 宇佐见莲子、玛艾露贝莉·赫恩，分级为 一般向
+
 ## 预览
 - [](./文件-Small_Story_of_Smalls预览图1.jpg.md)- [](./文件-Small_Story_of_Smalls预览图2.jpg.md)- [](./文件-Small_Story_of_Smalls预览图3.jpg.md)- [](./文件-Small_Story_of_Smalls预览图4.jpg.md)- [](./文件-Small_Story_of_Smalls预览图5.jpg.md)
 
+
 ## Staff
 - 篠原九 (未找到链接)
+
 
 ## 评论
 ```

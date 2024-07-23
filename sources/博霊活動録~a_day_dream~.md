@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 软件信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-博霊活動録~a_day_dream~封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/6/63/%E5%8D%9A%E9%9C%8A%E6%B4%BB%E5%8B%95%E9%8C%B2~a_day_dream~%E5%B0%81%E9%9D%A2.jpg/224px-%E5%8D%9A%E9%9C%8A%E6%B4%BB%E5%8B%95%E9%8C%B2~a_day_dream~%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="159" srcset="https://upload.thwiki.cc/thumb/6/63/%E5%8D%9A%E9%9C%8A%E6%B4%BB%E5%8B%95%E9%8C%B2~a_day_dream~%E5%B0%81%E9%9D%A2.jpg/336px-%E5%8D%9A%E9%9C%8A%E6%B4%BB%E5%8B%95%E9%8C%B2~a_day_dream~%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/6/63/%E5%8D%9A%E9%9C%8A%E6%B4%BB%E5%8B%95%E9%8C%B2~a_day_dream~%E5%B0%81%E9%9D%A2.jpg/448px-%E5%8D%9A%E9%9C%8A%E6%B4%BB%E5%8B%95%E9%8C%B2~a_day_dream~%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1000" data-file-height="709"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></div></td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://tsukikage.hp2.jp/index.html">http://tsukikage.hp2.jp/index.html</a></td></tr></tbody></table>
 
 博霊活動録~a day dream~（同人游戏，ツキカゲ企画，2017） - 2017年5月7日 由 ツキカゲ企画 于 博丽神社例大祭14 发布的ACT同人游戏，可在 Windows 系统上运行，游戏人数为 1人，分级为 一般向
+
 ## Staff
 
   

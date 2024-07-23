@@ -6,11 +6,13 @@
 
 本页是关于东方Project  
  **二次同人创作者** 的词条
+
 ## 基本信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="label"><b>名称</b></td><td> Nhato </td></tr><tr><td class="label"><b>真实名</b></td><td>福室達也</td></tr><tr><td class="label"><b>别名</b></td><td>Kyu</td></tr><tr><td class="label"><b>所属社团</b></td><td><b>当前</b><div style="margin-left:2em;"><a rel="nofollow" class="external text" href="http://www.otographicmusic.com">Otographic Music</a>，<a rel="nofollow" class="external text" href="http://wavforme.com/">wavforme</a>，<a rel="nofollow" class="external text" href="https://anagram-s.com/">ANAGRAM</a></div></td></tr><tr><td class="label"><b>职位</b></td><td>编曲</td></tr><tr><td class="label"><b>参与社团</b></td><td><a href="./ALiCE'S_EMOTiON.md" title="ALiCE&#39;S EMOTiON">ALiCE'S EMOTiON</a> （编曲）<br><a href="./Alstroemeria_Records.md" title="Alstroemeria Records">Alstroemeria Records</a> （编曲）<br><a href="./Amateras_Records.md" title="Amateras Records">Amateras Records</a> （编曲）<br><a href="./AniPix.md" title="AniPix">AniPix</a> （编曲）<br><a href="./Applice.md" title="Applice">Applice</a> （编曲）<br><a href="./CYTOKINE.md" title="CYTOKINE">CYTOKINE</a> （编曲）<br><a href="./Compllege.md" title="Compllege">Compllege</a> （编曲）<br><a href="./DiGiTAL_WiNG.md" title="DiGiTAL WiNG">DiGiTAL WiNG</a> （编曲）<br><a href="./ESQUARIA.md" title="ESQUARIA">ESQUARIA</a> （编曲）<br><a href="./Frozen_Starfall.md" title="Frozen Starfall">Frozen Starfall</a> （编曲）<br><a href="./Myui_Playing.md" title="Myui Playing">Myui Playing</a> （编曲）<br><a href="./Nami_Haven.md" title="Nami Haven">Nami Haven</a> （编曲）<br><a href="./SOUND_HOLIC.md" title="SOUND HOLIC">SOUND HOLIC</a> （编曲）<br><a href="./ShibayanRecords.md" title="ShibayanRecords">ShibayanRecords</a> （编曲）<br><a href="./Sound_Online.md" title="Sound Online">Sound Online</a> （编曲）<br><a href="./Studio_“Syrup_Comfiture”.md" title="Studio “Syrup Comfiture”">Studio “Syrup Comfiture”</a> （编曲）<br><a href="./XL_Project.md" title="XL Project">XL Project</a> （编曲）<br><a href="./ZYTOKINE.md" title="ZYTOKINE">ZYTOKINE</a> （编曲）</td></tr><tr><td class="label"><b>生日</b></td><td>1987-6-23（36岁）</td></tr></tbody></table>
 
 Nhato（人物） - 现实人物
+
 ## 介绍
   
 作曲、编曲、混音样样在行，电子音乐制作人兼DJ。
@@ -20,10 +22,12 @@ Nhato（人物） - 现实人物
 过去以Kyu的别名义在[XL Project](./XL_Project.md)活跃过。现在与电子音乐厂牌Otographic Music签约并发行作品，且为原创同人电音社团wavforme的一员，但仍然经常作为Guest在各种电音同人社团的专辑里出现。
   
 
+
 ## 参与曲目
   
 模板:人物曲目列表 (未找到链接)
   
+
 
 ## 人际关系
   

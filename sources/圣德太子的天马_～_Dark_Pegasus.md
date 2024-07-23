@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -36,11 +37,13 @@
 
 
 
+
 ## 基本信息
 
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">聖徳太子のペガサス　～ Dark Pegasus</td></tr><tr><td><b>译名</b></td><td>圣德太子的天马 ～ Dark Pegasus</td></tr><tr><td><b>英文译名</b></td><td>Prince Shoutoku's Pegasus ~ Dark Pegasus</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 圣德太子的天马 ～ Dark Pegasus（曲目） - 由 ZUN 创作的官方曲目，原名 聖徳太子のペガサス　～ Dark Pegasus
+
 ## 出现作品
 
 <table>
@@ -49,7 +52,9 @@
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 东方鬼形兽
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th17_15.mp3.md" title="文件:th17 15.mp3">th17_15.mp3</a><br><audio src="https://upload.thwiki.cc/9/90/th17_15.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>BGM\th17_15.wav</td></tr><tr><td><b>BGMForAll</b></td><td><div class="mw-collapsible mw-collapsed">
@@ -58,6 +63,7 @@
 <div class="mw-collapsible-content">BGM = 聖徳太子のペガサス　～ Dark Pegasus,0x15E86C2C ,0x455BC0 ,0x162DC7EC ,0x2232F40</div>
 </div>
 </td></tr></tbody></table>
+
 
 
 ### 东方兽王园
@@ -70,7 +76,9 @@
 </td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 东方鬼形兽
 - Music Room (未找到链接)
 
@@ -80,13 +88,16 @@
 　在畜生界中她是最给人一种安心感的。  
 　因为她是马，所以她的服装是牛仔女郎的风格，  
 　但仔细想想那是骑马的人穿的。不用仔细想也能知道。
+
 ### 东方兽王园
 - Music Room (未找到链接)
 
 　骊驹早鬼的主题曲。  
 　  
 　重编自鬼形兽曲目。
+
 ## 其他资料
+
 ### 乐理资讯
 - 使用乐器
   - SD-90 :St.Sm Choir
@@ -99,6 +110,7 @@
   - Electri6ity :Les Paul P90 Amped
   - Electri6ity&#160;:  Rickenbaker Amped
   - Groove Agent 4 :Elementic
+
 
 
 ### 分析考据
@@ -128,7 +140,8 @@
 - Dark Pegasus
   - 黑色的珀伽索斯。
   - 圣德太子的甲斐黑驹会飞但是没有翅膀。翅膀这一设定可能来自珀伽索斯。
-  - 早鬼的符卡劲疾技「黑色天马流星弹」 (未找到链接)。
+  - 早鬼的符卡[劲疾技「黑色天马流星弹」](./劲疾技「黑色天马流星弹」.md)。
+
 
 
 ### 二次同人数据

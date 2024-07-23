@@ -6,12 +6,14 @@
 
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 软件信息](#软件信息)
 - [2 Staff](#Staff)
 - [3 内容页面](#内容页面)
 - [4 评论](#评论)
+
 
 
 
@@ -36,17 +38,20 @@
 </tbody></table>
 
 
+
 ## Staff
 Planning, Story, Programming, Graphics, Music, Danmaku Design
 : Mc （[danmaq](./Danmaq.md)）
 Enemy Placement Design, Danmaku Design
 : ひがし （[ひがしのゲーム部屋](https://web.archive.org/web/20101013083634/http://senshirou.hp.infoseek.co.jp/) <small>（缓存页面）</small>）
 
+
 ## 内容页面
 - 游戏设定与剧情 (未找到链接)
 - 攻略 (未找到链接)
 - 其他信息 (未找到链接)
 - 原声集：[Leila Prismriver](./Leila_Prismriver.md)
+
 
 ## 评论
 

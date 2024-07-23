@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-CLAUDIN封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/d/d9/CLAUDIN%E5%B0%81%E9%9D%A2.png/160px-CLAUDIN%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="160" height="224" srcset="https://upload.thwiki.cc/thumb/d/d9/CLAUDIN%E5%B0%81%E9%9D%A2.png/239px-CLAUDIN%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/d/d9/CLAUDIN%E5%B0%81%E9%9D%A2.png/319px-CLAUDIN%E5%B0%81%E9%9D%A2.png 2x" data-file-width="1097" data-file-height="1539"></a><div class="cover-char">角色：<a href="./菊理.md" title="菊理">菊理</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://booth.pm/ja/items/1103497">https://booth.pm/ja/items/1103497</a></td></tr></tbody></table>
 
 CLAUDIN（同人志，シャレコーベ草原，2015） - 2015年5月10日 由 シャレコーベ草原 于 博丽神社例大祭12 发布的总集/漫画同人志，1097x1539尺寸一共198页，登场人物有 菊理、博丽灵梦、魅魔、矜羯罗、四季映姬·夜摩仙那度、古明地觉、古明地恋、幽幻魔眼、雾雨魔理沙、东风谷早苗、八坂神奈子、洩矢诹访子、神玉、蓬莱人形C63版碟面少女、依莉斯、萨丽爱尔、神绮、北白河千百合、冈崎梦美、雾雨魔理沙（旧作角色）、秦心、八意永琳、里香、萨拉、露易兹，分级为 一般向
+
 ## 预览
 - [](./文件-CLAUDIN预览图1.png.md)
+
 
 ## Staff
 主催
@@ -24,6 +27,7 @@ guest
 : カタケイ （型K式）
 guest
 : STR （おしゃれどろぼう）
+
 
 ## 评论
 

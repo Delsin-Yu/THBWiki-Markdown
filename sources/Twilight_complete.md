@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Twilight_complete封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/7/74/Twilight_complete%E5%B0%81%E9%9D%A2.jpg/224px-Twilight_complete%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="224" srcset="https://upload.thwiki.cc/thumb/7/74/Twilight_complete%E5%B0%81%E9%9D%A2.jpg/336px-Twilight_complete%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/7/74/Twilight_complete%E5%B0%81%E9%9D%A2.jpg/448px-Twilight_complete%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="500" data-file-height="500"></a><div class="cover-char">角色：<a href="./露米娅.md" title="露米娅">露米娅</a></div></td>
@@ -13,12 +14,15 @@
 </tr><tr><td class="label">首发日期</td><td>2019-08-12&#160;（<a href="/展会作品列表?e=Comic+Market%2396">Comic Market 96</a>）</td></tr><tr><td class="label">类型</td><td>精选集</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>18</td></tr><tr><td class="label">总时长</td><td>00:00</td></tr><tr><td class="label">售价</td><td>会场售价：1000日元</td></tr></tbody></table>
 
 Twilight complete（同人专辑，Blue Dream，2019） - 2019年8月12日 由 Blue Dream 于 Comic Market 96 发布的精选集同人专辑，分级为 一般向
+
 ## Staff
+
 ## 试听
   
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/645559140&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=false"></iframe>
 
   
+
 
 ## 曲目列表
 
@@ -40,6 +44,7 @@ Twilight complete（同人专辑，Blue Dream，2019） - 2019年8月12日 由 B
 <tr><td id="16" class="info"><b>16</b></td><td id="Rumiana_TOHO" colspan="2" class="title">Rumiana TOHO<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=Twilight_complete"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr>
 <tr><td id="17" class="info"><b>17</b></td><td id="ようまやこうFCふうあれんじ" colspan="2" class="title">ようまやこうFCふうあれんじ<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=Twilight_complete"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr>
 <tr><td id="18" class="info"><b>18</b></td><td id="Close_to_me" colspan="2" class="title">Close to me<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=Twilight_complete"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr></tbody></table>
+
 
 
 ## 评论

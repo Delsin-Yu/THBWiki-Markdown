@@ -4,6 +4,7 @@
 
 チキラータ | 社团LOGO
 
+
 ## 文件说明
   
 源地址：[direct image link](https://web.archive.org/web/20140108020828im_/http://d.hatena.ne.jp/images/diary/c/c-f-m/titleimg.jpg), [source page](https://web.archive.org/web/20120227093127/http://d.hatena.ne.jp/c-f-m/)

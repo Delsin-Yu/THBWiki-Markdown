@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-The_Empire_of_Corpses封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/3/3c/The_Empire_of_Corpses%E5%B0%81%E9%9D%A2.png/196px-The_Empire_of_Corpses%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="196" height="195" srcset="https://upload.thwiki.cc/thumb/3/3c/The_Empire_of_Corpses%E5%B0%81%E9%9D%A2.png/294px-The_Empire_of_Corpses%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/3/3c/The_Empire_of_Corpses%E5%B0%81%E9%9D%A2.png/392px-The_Empire_of_Corpses%E5%B0%81%E9%9D%A2.png 2x" data-file-width="1504" data-file-height="1500"></a><div class="cover-char">角色：<a href="./爱丽丝·玛格特洛依德.md" title="爱丽丝·玛格特洛依德">爱丽丝·玛格特洛依德</a></div></td>
@@ -16,6 +17,7 @@
 The Empire of Corpses（同人专辑，StarlessTrilogy，2019） - 2019年8月12日 由 StarlessTrilogy 于 Comic Market 96 发布的单曲同人专辑，分级为 一般向
 
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://itunes.apple.com/album/the-empire-of-corpses-single/1480818300">Apple Music</a>，<a rel="nofollow" class="external text" href="https://play.google.com/store/music/album?id=Bf4cmtpausd6rma6i4oqkbv7uem">Google Play Music</a>，<a rel="nofollow" class="external text" href="https://booth.pm/zh-cn/items/1581976">BoothDL</a></td></tr></tbody></table>
+
 
 
 ## Staff
@@ -33,6 +35,7 @@ The Empire of Corpses（同人专辑，StarlessTrilogy，2019） - 2019年8月12
 Illustration
 : namida （[Pixiv ID: 4140806](https://www.pixiv.net/users/4140806) / [Twitter: @n_md_33](https://twitter.com/n_md_33)）
 
+
 ## 试听
   
 BOOTH XFD   
@@ -40,13 +43,16 @@ BOOTH XFD
 
   
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="And_Then_There_Were_None" colspan="2" class="title">And Then There Were None<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=StarlessTrilogy&amp;ogmusic=U.N.オーエンは彼女なのか？&amp;fromwiki=The_Empire_of_Corpses"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:05</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./StarlessTrilogy.md" title="StarlessTrilogy">StarlessTrilogy</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，StarlessTrilogy&amp;fromwiki=The_Empire_of_Corpses"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演奏</td><td class="text" colspan="2">Guitar / Bass：yoppyyyy <br>Guitar：29_yama</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=U.N.オーエンは彼女なのか？&amp;fromwiki=The_Empire_of_Corpses"><span></span></a></span><div class="ogmusic"><a href="/U.N.%E3%82%AA%E3%83%BC%E3%82%A8%E3%83%B3%E3%81%AF%E5%BD%BC%E5%A5%B3%E3%81%AA%E3%81%AE%E3%81%8B%EF%BC%9F" class="mw-redirect" title="U.N.オーエンは彼女なのか？">U.N.オーエンは彼女なのか？</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E7%BA%A2%E9%AD%94%E4%B9%A1_%EF%BD%9E_the_Embodiment_of_Scarlet_Devil." class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr>
-<tr><td id="2" class="infoYD"><b>02</b></td><td id="The_Empire_of_Corpses" colspan="2" class="title">The Empire of Corpses<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=StarlessTrilogy&amp;ogmusic=the Grimoire of Alice&amp;fromwiki=The_Empire_of_Corpses"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:01</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./StarlessTrilogy.md" title="StarlessTrilogy">StarlessTrilogy</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，StarlessTrilogy&amp;fromwiki=The_Empire_of_Corpses"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演奏</td><td class="text" colspan="2">Guitar / Bass：yoppyyyy <br>Guitar：29_yama</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=the Grimoire of Alice&amp;fromwiki=The_Empire_of_Corpses"><span></span></a></span><div class="ogmusic"><a href="./the_Grimoire_of_Alice.md" title="the Grimoire of Alice">the Grimoire of Alice</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E6%80%AA%E7%BB%AE%E8%B0%88_%EF%BD%9E_Mystic_Square." class="mw-redirect" title="东方怪绮谈 ～ Mystic Square.">东方怪绮谈　～ Mystic Square.</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="And_Then_There_Were_None" colspan="2" class="title">And Then There Were None<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=StarlessTrilogy&amp;ogmusic=U.N.オーエンは彼女なのか？&amp;fromwiki=The_Empire_of_Corpses"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:05</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./StarlessTrilogy.md" title="StarlessTrilogy">StarlessTrilogy</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，StarlessTrilogy&amp;fromwiki=The_Empire_of_Corpses"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演奏</td><td class="text" colspan="2">Guitar / Bass：yoppyyyy <br>Guitar：29_yama</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=U.N.オーエンは彼女なのか？&amp;fromwiki=The_Empire_of_Corpses"><span></span></a></span><div class="ogmusic"><a href="./U.N.オーエンは彼女なのか？.md" class="mw-redirect" title="U.N.オーエンは彼女なのか？">U.N.オーエンは彼女なのか？</a></div><div class="source"><a href="./东方红魔乡_～_the_Embodiment_of_Scarlet_Devil..md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr>
+<tr><td id="2" class="infoYD"><b>02</b></td><td id="The_Empire_of_Corpses" colspan="2" class="title">The Empire of Corpses<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=StarlessTrilogy&amp;ogmusic=the Grimoire of Alice&amp;fromwiki=The_Empire_of_Corpses"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:01</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./StarlessTrilogy.md" title="StarlessTrilogy">StarlessTrilogy</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，StarlessTrilogy&amp;fromwiki=The_Empire_of_Corpses"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演奏</td><td class="text" colspan="2">Guitar / Bass：yoppyyyy <br>Guitar：29_yama</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=the Grimoire of Alice&amp;fromwiki=The_Empire_of_Corpses"><span></span></a></span><div class="ogmusic"><a href="./the_Grimoire_of_Alice.md" title="the Grimoire of Alice">the Grimoire of Alice</a></div><div class="source"><a href="./东方怪绮谈_～_Mystic_Square..md" class="mw-redirect" title="东方怪绮谈 ～ Mystic Square.">东方怪绮谈　～ Mystic Square.</a></div></td></tr></tbody></table>
+
 
 
 ## 评论
+
 ## 其他链接
   
 封面：[Pixiv](https://www.pixiv.net/artworks/76110556)

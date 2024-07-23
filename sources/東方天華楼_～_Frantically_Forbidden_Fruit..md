@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 软件信息](#软件信息)
@@ -14,6 +15,7 @@
 - [4 评论](#评论)
 - [5 下载](#下载)
 - [6 词条导航](#词条导航)
+
 
 
 
@@ -38,11 +40,13 @@
 </tbody></table>
 
 
+
 ## Staff
 程序
 : gore
 美工
 : gore
+
 
 ## 内容页面
 - [游戏设定与剧情](./東方天華楼_～_Frantically_Forbidden_Fruit.-设定与剧情.md)
@@ -53,7 +57,9 @@
 - 分数榜 (未找到链接)
 - 其他信息 (未找到链接)
 
+
 ## 评论
+
 ## 下载
   
 请注意：  
@@ -72,6 +78,7 @@
 <p><a rel="nofollow" class="external free" href="https://1drv.ms/u/s!AsZNX0Vtc-HLgSIDMm5oJoWUqUPw">https://1drv.ms/u/s!AsZNX0Vtc-HLgSIDMm5oJoWUqUPw</a> 官方Onedrive链接，V1.2.0完整包188MB<span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到需要翻墙网页">（需要翻墙）</span>
 </p>
 </td></tr></tbody></table>
+
 
 
 ## 词条导航

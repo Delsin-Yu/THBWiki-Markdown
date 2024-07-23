@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 软件信息](#软件信息)
@@ -13,6 +14,7 @@
 - [3 内容页面](#内容页面)
 - [4 Staff](#Staff)
 - [5 外部链接](#外部链接)
+
 
 
 
@@ -34,6 +36,7 @@
 <tbody><tr><th colspan="2">配置需求</th></tr>
 <tr><td style="width:120px;padding-left:7px;"><b>操作系统</b></td><td>Windows7</td></tr><tr><td style="width:120px;padding-left:7px;"><b>CPU</b></td><td>Intel i3 / AMD r3</td></tr><tr><td style="width:120px;padding-left:7px;"><b>内存</b></td><td>8 GB RAM</td></tr>
 </tbody></table>
+
 
 
 ## 游戏介绍
@@ -61,6 +64,7 @@
   
 
 
+
 ## 内容页面
 - 游戏设定与剧情 (未找到链接)
 - 游戏攻略 (未找到链接)
@@ -73,6 +77,7 @@
 - OST原声音乐集4 (未找到链接)
 - OST原声音乐集5 (未找到链接)
 - 其他信息 (未找到链接)
+
 
 ## Staff
 制作人
@@ -95,6 +100,7 @@ UI/视觉美术
 : Hannari (未找到链接)，[残实](./残实.md)，籽糖 (未找到链接)
 特效
 : 史莱姆人形 (未找到链接)
+
 
 ## 外部链接
   

@@ -4,6 +4,7 @@
 
 东方系列人气投票 | 活动Banner
 
+
 ## 摘要
   
 原图：[[1]](https://toho-vote.info/assets/banner-18ex-056f17b5.webp)

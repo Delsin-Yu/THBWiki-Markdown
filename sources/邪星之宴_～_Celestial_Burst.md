@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **东方风自作曲** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -27,11 +28,13 @@
 
 
 
+
 ## 基本信息
 
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">邪星の宴　～ Celestial Burst</td></tr><tr><td><b>译名</b></td><td>邪星之宴 ～ Celestial Burst</td></tr><tr><td><b>作曲</b></td><td><a href="./Wanwan.md" title="Wanwan">Wanwan</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 邪星之宴 ～ Celestial Burst（曲目） - 由 Wanwan 创作的东方风自作曲，原名 邪星の宴　～ Celestial Burst
+
 ## 出现作品
 
 <table>
@@ -39,7 +42,9 @@
 </tbody></table>
 
 
+
 ## 说明文本
+
 ### 东方邪星章
 - Music Room (未找到链接)
 
@@ -55,8 +60,11 @@
 在火花四散飞来的地方赏花是很危险的，千万不要这么做啊。
   
 
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
 
 

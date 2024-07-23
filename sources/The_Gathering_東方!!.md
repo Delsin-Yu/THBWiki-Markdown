@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-The_Gathering_東方!!封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/a/a7/The_Gathering_%E6%9D%B1%E6%96%B9%21%21%E5%B0%81%E9%9D%A2.jpg/158px-The_Gathering_%E6%9D%B1%E6%96%B9%21%21%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="158" height="224" srcset="https://upload.thwiki.cc/thumb/a/a7/The_Gathering_%E6%9D%B1%E6%96%B9%21%21%E5%B0%81%E9%9D%A2.jpg/237px-The_Gathering_%E6%9D%B1%E6%96%B9%21%21%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/a/a7/The_Gathering_%E6%9D%B1%E6%96%B9%21%21%E5%B0%81%E9%9D%A2.jpg/316px-The_Gathering_%E6%9D%B1%E6%96%B9%21%21%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="706" data-file-height="1000"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>，<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a>，<a href="./魅魔.md" title="魅魔">魅魔</a></div></td>
@@ -14,9 +15,12 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/29123819">https://www.pixiv.net/artworks/29123819</a></td></tr></tbody></table>
 
 The Gathering 東方!!（同人志，型K式，2012） - 2012年8月11日 由 型K式 于 Comic Market 82 发布的画集同人志，A5尺寸一共20页，登场人物有 博丽灵梦、雾雨魔理沙、冈崎梦美、神绮、魅魔，分级为 一般向
+
 ## 预览
+
 ## Staff
 - [カタケイ](./カタケイ.md)
+
 
 ## 评论
 

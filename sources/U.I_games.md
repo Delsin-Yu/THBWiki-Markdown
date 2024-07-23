@@ -4,7 +4,8 @@
 
 U.I games ，主要制作 同人游戏 的日本同人社团，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -21,15 +22,18 @@ U.I games ，主要制作 同人游戏 的日本同人社团，当前状态为 �
 
 
 
+
 ## 社团信息
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> U.I games </td></tr><tr><td><b>主要作品类型</b></td><td>同人游戏</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="https://twitter.com/UIgames2">https://twitter.com/UIgames2</a> <br><a rel="nofollow" class="external free" href="https://gamemarket.jp/booth/1705">https://gamemarket.jp/booth/1705</a><br><a rel="nofollow" class="external free" href="https://www.youtube.com/channel/UCJNG09fsRk8wkVW5OKMbyng">https://www.youtube.com/channel/UCJNG09fsRk8wkVW5OKMbyng</a><br><a rel="nofollow" class="external free" href="https://www.pixiv.net/users/17241924">https://www.pixiv.net/users/17241924</a></td></tr></tbody></table>
 
 U.I games（同人社团，同人游戏社团） - U.I games ，主要制作 同人游戏 的日本同人社团，当前状态为 活动
+
 ## 社团简介
   
  **U.I games** 是制作卡片和桌上游戏的社团。
   
+
 
 ## 成员名单
 - act.yuusuke (未找到链接)&#160;: game design
@@ -38,13 +42,16 @@ U.I games（同人社团，同人游戏社团） - U.I games ，主要制作 同
 
 : [Twitter: @yumebito92](https://twitter.com/yumebito92)
 
+
 ## 作品列表
+
 ### 同人游戏
 [](./蓮台野夜行～秘封ボードゲーム～.md)[蓮台野夜行～秘封ボードゲーム～](./蓮台野夜行～秘封ボードゲーム～.md)首发日期：2019-11-17 （科学世紀のカフェテラス（第9回） (未找到链接)）TAB （一般向）秘封ボードゲーム　夢違科学世紀 封面图片 (未找到链接)[秘封ボードゲーム　夢違科学世紀](./秘封ボードゲーム_夢違科学世紀.md)首发日期：2021-10-24 （第八回 博麗神社秋季例大祭 (未找到链接)）TAB （一般向）
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 参展信息

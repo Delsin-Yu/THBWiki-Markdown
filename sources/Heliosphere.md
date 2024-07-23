@@ -5,6 +5,7 @@
 Heliosphere ，主要制作 周边 的日本同人社团，主催是 Zan，当前状态为 活动
 
 本页是关于 **同人社团 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -16,19 +17,24 @@ Heliosphere ，主要制作 周边 的日本同人社团，主催是 Zan，当�
 
 
 
+
 ## 社团信息
 文件:Heliospherebanner.jpg (未找到链接)  banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Heliosphere </td></tr><tr><td><b>主要作品类型</b></td><td>周边</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=Zan&amp;action=edit&amp;redlink=1" class="new" title="Zan（页面不存在）">Zan</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="https://heliosphere.wixsite.com/collection">https://heliosphere.wixsite.com/collection</a> <br><a rel="nofollow" class="external free" href="https://heliospherecollection.tumblr.com">https://heliospherecollection.tumblr.com</a></td></tr></tbody></table>
 
 Heliosphere（同人社团，周边社团） - Heliosphere ，主要制作 周边 的日本同人社团，主催是 Zan，当前状态为 活动
+
 ## 成员名单
 - Zan (未找到链接)
 
+
 ## 作品列表
+
 ## 相关社团
 夢幻燈
 : Zan (未找到链接)成立的同人音乐社团。
+
 
 ## 参展信息
 

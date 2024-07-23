@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Ghaneveille_-収容幻想-_-Izanagi-封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/0/03/Ghaneveille_-%E5%8F%8E%E5%AE%B9%E5%B9%BB%E6%83%B3-_%22Izanagi%22%E5%B0%81%E9%9D%A2.jpg/125px-Ghaneveille_-%E5%8F%8E%E5%AE%B9%E5%B9%BB%E6%83%B3-_%22Izanagi%22%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="125" height="196" srcset="https://upload.thwiki.cc/thumb/0/03/Ghaneveille_-%E5%8F%8E%E5%AE%B9%E5%B9%BB%E6%83%B3-_%22Izanagi%22%E5%B0%81%E9%9D%A2.jpg/187px-Ghaneveille_-%E5%8F%8E%E5%AE%B9%E5%B9%BB%E6%83%B3-_%22Izanagi%22%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/0/03/Ghaneveille_-%E5%8F%8E%E5%AE%B9%E5%B9%BB%E6%83%B3-_%22Izanagi%22%E5%B0%81%E9%9D%A2.jpg/250px-Ghaneveille_-%E5%8F%8E%E5%AE%B9%E5%B9%BB%E6%83%B3-_%22Izanagi%22%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1527" data-file-height="2396"></a><div class="cover-char">角色：<a href="./宇佐见堇子.md" title="宇佐见堇子">宇佐见堇子</a>，<a href="./洩矢诹访子.md" title="洩矢诹访子">洩矢诹访子</a></div></td>
@@ -18,6 +19,7 @@ Ghaneveille -収容幻想- "Izanagi"（同人志，U京都怪奇倶楽部，2019
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=579636">蜜瓜</a></td></tr></tbody></table>
 
 
+
 ## Staff
 執筆
 : そひか
@@ -27,6 +29,7 @@ Webページ制作
 : Harada Kiyohide
 組版・デザイン
 : RF
+
 
 ## 评论
 

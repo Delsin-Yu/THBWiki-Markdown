@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -40,11 +41,13 @@
 
 
 
+
 ## 基本信息
 
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">リジッドパラダイス</td></tr><tr><td><b>译名</b></td><td>Rigid Paradise</td></tr><tr><td><b>其他译名</b></td><td>僵硬的乐园</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 Rigid Paradise（曲目） - 由 ZUN 创作的官方曲目，原名 リジッドパラダイス
+
 ## 出现作品
 
 <table>
@@ -53,8 +56,11 @@ Rigid Paradise（曲目） - 由 ZUN 创作的官方曲目，原名 リジッド
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 东方神灵庙
+
 #### 常规
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th13_07.mp3.md" title="文件:th13 07.mp3">th13_07.mp3</a><br><audio src="https://upload.thwiki.cc/8/82/th13_07.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>BGM\th13_07.wav</td></tr><tr><td><b>BGMForAll</b></td><td><div class="mw-collapsible mw-collapsed">
@@ -63,6 +69,7 @@ Rigid Paradise（曲目） - 由 ZUN 创作的官方曲目，原名 リジッド
 <div class="mw-collapsible-content">BGM = リジッドパラダイス, 0x8B6A738, 0xACD40, 0x8C17478, 0xC57D40</div>
 </div>
 </td></tr></tbody></table>
+
 
 
 #### 灵界
@@ -75,7 +82,9 @@ Rigid Paradise（曲目） - 由 ZUN 创作的官方曲目，原名 リジッド
 </td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 东方神灵庙
 - Music Room (未找到链接)
 
@@ -85,8 +94,11 @@ Rigid Paradise（曲目） - 由 ZUN 创作的官方曲目，原名 リジッド
 　异域风格的前奏。不过这曲子写到一半的时候我突然就  
 　注意到一件事，这前奏给人一种金字塔风格的感觉呢。  
 　那不就不是丧尸而变成了木乃伊了吗……
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
   
  **リジッドパラダイス**  Rigid Paradise（僵硬的乐园）
@@ -103,6 +115,7 @@ Rigid Paradise（曲目） - 由 ZUN 创作的官方曲目，原名 リジッド
     - 幻想乡。
     - 死后的世界。
     - 神灵庙第三面的场景命莲寺墓地。
+
 
 
 

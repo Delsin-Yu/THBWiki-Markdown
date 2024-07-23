@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 软件信息](#软件信息)
@@ -15,6 +16,7 @@
 - [5 评论](#评论)
 - [6 宣传视频](#宣传视频)
 - [7 词条导航](#词条导航)
+
 
 
 
@@ -38,11 +40,13 @@ F.U.M.O. Somniumism Archive（同人游戏，fumoism） - 2024年6月24日 由 f
 </tbody></table>
 
 
+
 ## Staff
 策划/程序/文案/音频/美术
 : FlutterWings
 美术/立绘
 : 绵羊
+
 
 ## 游戏介绍
 
@@ -63,17 +67,21 @@ The one who knows everything. The ambidexterity. Both in reality and in somnium.
   
 
 
+
 ## 内容页面
 - 游戏设定与剧情 (未找到链接)
 - 攻略 (未找到链接)
 - 使用说明 (未找到链接)
 - 其他信息 (未找到链接)
 
+
 ## 评论
+
 ## 宣传视频
   
 [初宣视频](https://fumoism.com/fumo/285)
   
+
 
 ## 词条导航
   

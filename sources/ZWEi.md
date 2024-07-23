@@ -4,7 +4,8 @@
 
 ZWEi ，于 2009 年成立，主要制作 同人游戏 的日本同人社团，主催是 ke-ke，当前状态为 转入非东方
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -20,12 +21,14 @@ ZWEi ，于 2009 年成立，主要制作 同人游戏 的日本同人社团，�
 
 
 
+
 ## 社团信息
 [](./文件-ZWEIbanner.jpg.md)  [](./文件-ZWEIbanner.jpg.md)banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> ZWEi </td></tr><tr><td><b>主要作品类型</b></td><td>同人游戏</td></tr><tr><td><b>成立时间</b></td><td>2009年</td></tr><tr><td><b>当前状态</b></td><td>转入非东方</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=ke-ke&amp;action=edit&amp;redlink=1" class="new" title="ke-ke（页面不存在）">ke-ke</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://www.team-zwei.com">http://www.team-zwei.com</a> <br><a rel="nofollow" class="external free" href="https://zwei.booth.pm/">https://zwei.booth.pm/</a><br><a rel="nofollow" class="external free" href="https://twitter.com/zweinovel">https://twitter.com/zweinovel</a></td></tr></tbody></table>
 
 ZWEi（同人社团，同人游戏社团） - ZWEi ，于 2009 年成立，主要制作 同人游戏 的日本同人社团，主催是 ke-ke，当前状态为 转入非东方
+
 ## 成员名单
 - ke-ke (未找到链接) (a.k.a.  **けーけ** )&#160;: project, CG, design
 
@@ -39,6 +42,7 @@ ZWEi（同人社团，同人游戏社团） - ZWEi ，于 2009 年成立，主�
 - 狸狐ろも (未找到链接)&#160;: scenario
 
 : [Twitter: @Rikoromo88](https://twitter.com/Rikoromo88)
+
 
 ## 作品列表
 [](./アタイの拳.md)[アタイの拳](./アタイの拳.md)首发日期：2010-03-14 （第七回 博麗神社例大祭 (未找到链接)）ACT （一般向）[](./アタイの拳～妖々夢編～.md)[アタイの拳～妖々夢編～](./アタイの拳～妖々夢編～.md)首发日期：2010-08-14 （Comic Market 78 (未找到链接)）ACT （一般向）[](./フルモッコにしてやんよ！.md)[フルモッコにしてやんよ！](./フルモッコにしてやんよ！.md)首发日期：2010-12-30 （Comic Market 79 (未找到链接)）RPG （一般向）[](./エンドレスサクヤ.md)[エンドレスサクヤ](./エンドレスサクヤ.md)首发日期：2011-08-13 （Comic Market 80 (未找到链接)）ACT （一般向）[](./ミョンムソー.md)[ミョンムソー](./ミョンムソー.md)首发日期：2011-12-30 （Comic Market 81 (未找到链接)）ACT、​RPG （一般向）[](./ソウルアンカー.md)[ソウルアンカー](./ソウルアンカー.md)首发日期：2012-08-11 （Comic Market 82 (未找到链接)）ACT （一般向）[](./ソウルアンカー２.md)[ソウルアンカー２](./ソウルアンカー２.md)首发日期：2012-12-30 （Comic Market 83 (未找到链接)）ACT （一般向）[](./アインスリング.md)[アインスリング](./アインスリング.md)首发日期：2013-08-12 （Comic Market 84 (未找到链接)）STG （一般向）[](./チルノフリーザー.md)[チルノフリーザー](./チルノフリーザー.md)首发日期：2014-05-11 （第十一回 博麗神社例大祭 (未找到链接)）ACT （一般向）
@@ -62,6 +66,7 @@ ZWEi（同人社团，同人游戏社团） - ZWEi ，于 2009 年成立，主�
 </table>
 
 
+
 ### 同人专辑
 エンドレスサクヤ SOUND TRACK 封面图片 (未找到链接)エンドレスサクヤ SOUND TRACK (未找到链接)首发日期：未知 - ミョンムソー SOUND TRACK 封面图片 (未找到链接)[ミョンムソー SOUND TRACK](./ミョンムソー_SOUND_TRACK.md)首发日期：2011-12-30 （Comic Market 81 (未找到链接)）原声集 （一般向）[](./ソウルアンカー_SOUND_TRACK.md)[ソウルアンカー SOUND TRACK](./ソウルアンカー_SOUND_TRACK.md)首发日期：2012-08-11 （Comic Market 82 (未找到链接)）ZWEI-008-ST原声集 （一般向）[](./ソウルアンカー２_SOUND_TRACK.md)[ソウルアンカー2 SOUND TRACK](./ソウルアンカー２_SOUND_TRACK.md)首发日期：2012-12-30 （Comic Market 83 (未找到链接)）ZWEI-009-ST原声集 （一般向）[](./アインスリング_SOUND_TRACK.md)[アインスリング SOUND TRACK](./アインスリング_SOUND_TRACK.md)首发日期：2013-08-12 （Comic Market 84 (未找到链接)）原声集 （一般向）チルノフリーザー SOUND TRACK 封面图片 (未找到链接)チルノフリーザー SOUND TRACK (未找到链接)首发日期：未知 - 
 <table><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
@@ -74,6 +79,7 @@ ZWEi（同人社团，同人游戏社团） - ZWEi ，于 2009 年成立，主�
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458"></table>
+
 
 
 ## 参展信息

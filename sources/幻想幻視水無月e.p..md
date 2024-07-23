@@ -18,6 +18,7 @@
 
 
 </center>
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-幻想幻視水無月e.p.封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/5/54/%E5%B9%BB%E6%83%B3%E5%B9%BB%E8%A6%96%E6%B0%B4%E7%84%A1%E6%9C%88e.p.%E5%B0%81%E9%9D%A2.jpg/168px-%E5%B9%BB%E6%83%B3%E5%B9%BB%E8%A6%96%E6%B0%B4%E7%84%A1%E6%9C%88e.p.%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="168" height="160" srcset="https://upload.thwiki.cc/thumb/5/54/%E5%B9%BB%E6%83%B3%E5%B9%BB%E8%A6%96%E6%B0%B4%E7%84%A1%E6%9C%88e.p.%E5%B0%81%E9%9D%A2.jpg/252px-%E5%B9%BB%E6%83%B3%E5%B9%BB%E8%A6%96%E6%B0%B4%E7%84%A1%E6%9C%88e.p.%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/5/54/%E5%B9%BB%E6%83%B3%E5%B9%BB%E8%A6%96%E6%B0%B4%E7%84%A1%E6%9C%88e.p.%E5%B0%81%E9%9D%A2.jpg/336px-%E5%B9%BB%E6%83%B3%E5%B9%BB%E8%A6%96%E6%B0%B4%E7%84%A1%E6%9C%88e.p.%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="384" data-file-height="365"></a><div class="cover-char">角色：<a href="./蓬莱山辉夜.md" title="蓬莱山辉夜">蓬莱山辉夜</a>，<a href="./莉格露·奈特巴格.md" title="莉格露·奈特巴格">莉格露·奈特巴格</a>，<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a></div></td>
@@ -25,15 +26,18 @@
 </tr><tr><td class="label">首发日期</td><td>2012-05-27&#160;（<a href="/展会作品列表?e=%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD%239">第九回 博麗神社例大祭</a>）</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>0</td></tr><tr><td class="label">总时长</td><td>00:00</td></tr></tbody></table>
 
 幻想幻視水無月e.p.（同人专辑，灯火浮遊戦，2012） - 2012年5月27日 由 灯火浮遊戦 于 博丽神社例大祭9 发布的同人专辑，分级为 一般向
+
 ## Staff
 Design
 : 设计师 （[网址 社团]）
 Illustration
 : 画师 （[网址 社团]）
 
+
 ## 曲目列表
 
 <table></table>
+
 
 
 ## 评论

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-VAMPIRE_SISTERS封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/c/cd/VAMPIRE_SISTERS%E5%B0%81%E9%9D%A2.jpg/138px-VAMPIRE_SISTERS%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="138" height="196" srcset="https://upload.thwiki.cc/thumb/c/cd/VAMPIRE_SISTERS%E5%B0%81%E9%9D%A2.jpg/208px-VAMPIRE_SISTERS%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/c/cd/VAMPIRE_SISTERS%E5%B0%81%E9%9D%A2.jpg/277px-VAMPIRE_SISTERS%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="495" data-file-height="700"></a><div class="cover-char">角色：<a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a></div></td>
@@ -14,10 +15,12 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/56720203">https://www.pixiv.net/artworks/56720203</a><br><a rel="nofollow" class="external free" href="https://twitter.com/_rimu/status/725691925500583937">https://twitter.com/_rimu/status/725691925500583937</a></td></tr><tr><td class="label">备注</td><td colspan="2">全彩</td></tr></tbody></table>
 
 VAMPIRE SISTERS（同人志，金魚オリジン，2016） - 2016年5月8日 由 金魚オリジン 于 博丽神社例大祭13 发布的画集同人志，B5尺寸一共16页，分级为 一般向
+
 ## Staff
 - 香山リム (未找到链接)
 - りぷとん (未找到链接) （[Pixiv ID&#160;: 1627697](https://www.pixiv.net/users/1627697)）
 - いがやん (未找到链接) （[Pixiv ID&#160;: 5037818](https://www.pixiv.net/users/5037818)）
+
 
 ## 评论
 

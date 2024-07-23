@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 软件信息](#软件信息)
@@ -19,6 +20,7 @@
 
 
 
+
 ## 软件信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-东方时裂空_～_Numerology_of_Artifacts.封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/d/d8/%E4%B8%9C%E6%96%B9%E6%97%B6%E8%A3%82%E7%A9%BA_%EF%BD%9E_Numerology_of_Artifacts.%E5%B0%81%E9%9D%A2.jpg/224px-%E4%B8%9C%E6%96%B9%E6%97%B6%E8%A3%82%E7%A9%BA_%EF%BD%9E_Numerology_of_Artifacts.%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="222" srcset="https://upload.thwiki.cc/thumb/d/d8/%E4%B8%9C%E6%96%B9%E6%97%B6%E8%A3%82%E7%A9%BA_%EF%BD%9E_Numerology_of_Artifacts.%E5%B0%81%E9%9D%A2.jpg/336px-%E4%B8%9C%E6%96%B9%E6%97%B6%E8%A3%82%E7%A9%BA_%EF%BD%9E_Numerology_of_Artifacts.%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/d/d8/%E4%B8%9C%E6%96%B9%E6%97%B6%E8%A3%82%E7%A9%BA_%EF%BD%9E_Numerology_of_Artifacts.%E5%B0%81%E9%9D%A2.jpg/448px-%E4%B8%9C%E6%96%B9%E6%97%B6%E8%A3%82%E7%A9%BA_%EF%BD%9E_Numerology_of_Artifacts.%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1024" data-file-height="1013"></a></td>
@@ -26,6 +28,7 @@
 </tr><tr><td class="label">首发日期</td><td>2019-05-12</td></tr><tr><td class="label">类型</td><td>游戏</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">游戏人数</td><td>单人模式</td></tr><tr><td class="label">游戏类型</td><td>STG</td></tr><tr><td class="label">运行平台</td><td>Windows</td></tr><tr><td class="label">语言</td><td>简体中文</td></tr><tr><td class="label">售价</td><td>免费</td></tr></tbody></table>
 
 东方时裂空 ～ Numerology of Artifacts.（同人游戏，顺毛犬制作组，2019） - 2019年5月12日 由 顺毛犬制作组  发布的STG同人游戏，可在 Windows 系统上运行，游戏人数为 单人模式，分级为 一般向
+
 ## Staff
 策划
 : XYXYcoord
@@ -42,6 +45,7 @@
 文案
 : XYXYcoord、MLAURIIGOI、霞之谷的神风
 
+
 ## 作品介绍
 
   
@@ -56,6 +60,7 @@
 - 本作为中国东方爱好者制作的东方二次同人STG。
 - 本作目前已发布了体验版。
 
+
 ## 内容页面
 - [游戏设定与剧情](./东方时裂空_～_Numerology_of_Artifacts.-设定与剧情.md)
 - 机体特性与系统说明 (未找到链接)
@@ -63,7 +68,9 @@
 - [音乐](./东方时裂空_～_Numerology_of_Artifacts.-音乐.md)
 - [其他相关资料](./东方时裂空_～_Numerology_of_Artifacts.-其他.md)
 
+
 ## 评论
+
 ## 下载
   
 请注意：  
@@ -80,6 +87,7 @@
 <tr>
 <td><a rel="nofollow" class="external text" href="https://pan.baidu.com/s/17R7SONjvb3QQW_kQKz5NBg">体验版密码:mkzk</a>
 </td></tr></tbody></table>
+
 
 
 ## 词条导航

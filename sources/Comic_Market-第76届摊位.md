@@ -32,7 +32,7 @@
 
  **摊位信息**   
 
-<table><tbody><tr><th>摊位编号</th><th>社团名称</th><th>官网页面</th><th>宣传页面</th><th>备注</th></tr><tr><td id="上海アリス幻樂団">東A-28a</td><td><a href="/%E4%B8%8A%E6%B5%B7%E3%82%A2%E3%83%AA%E3%82%B9%E5%B9%BB%E6%A8%82%E5%9B%A3" class="mw-redirect" title="上海アリス幻樂団">上海アリス幻樂団</a></td><td><a rel="nofollow" class="external text" href="https://www16.big.or.jp/~zun/">官网</a></td><td></td><td></td></tr></tbody></table>
+<table><tbody><tr><th>摊位编号</th><th>社团名称</th><th>官网页面</th><th>宣传页面</th><th>备注</th></tr><tr><td id="上海アリス幻樂団">東A-28a</td><td><a href="./上海アリス幻樂団.md" class="mw-redirect" title="上海アリス幻樂団">上海アリス幻樂団</a></td><td><a rel="nofollow" class="external text" href="https://www16.big.or.jp/~zun/">官网</a></td><td></td><td></td></tr></tbody></table>
 
 
 

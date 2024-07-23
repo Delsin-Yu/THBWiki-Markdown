@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-TO-HO-Twin-Gear-Compilation封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/9/9b/TO-HO-Twin-Gear-Compilation%E5%B0%81%E9%9D%A2.jpg/223px-TO-HO-Twin-Gear-Compilation%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="223" height="224" srcset="https://upload.thwiki.cc/thumb/9/9b/TO-HO-Twin-Gear-Compilation%E5%B0%81%E9%9D%A2.jpg/335px-TO-HO-Twin-Gear-Compilation%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/9/9b/TO-HO-Twin-Gear-Compilation%E5%B0%81%E9%9D%A2.jpg/446px-TO-HO-Twin-Gear-Compilation%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="510" data-file-height="512"></a><div class="cover-char">角色：<a href="./灵乌路空.md" title="灵乌路空">灵乌路空</a>，<a href="./八坂神奈子.md" title="八坂神奈子">八坂神奈子</a></div></td>
@@ -13,6 +14,7 @@
 </tr><tr><td class="label">首发日期</td><td>2015-05-10&#160;（<a href="/展会作品列表?e=%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD%2312">第十二回 博麗神社例大祭</a>）</td></tr><tr><td class="label">类型</td><td>全长</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>11</td></tr><tr><td class="label">总时长</td><td>00:00</td></tr><tr><td class="label">售价</td><td>会场售价：1000日元</td></tr></tbody></table>
 
 TO-HO-Twin-Gear-Compilation（同人专辑，red hair’s core，2015） - 2015年5月10日 由 red hair’s core 于 博丽神社例大祭12 发布的全长同人专辑，分级为 一般向
+
 ## Staff
   
  **Compose**   
@@ -24,6 +26,7 @@ Design
 : 设计师 （[网址 社团]）
 Illustration
 : 画师 （[网址 社团]）
+
 
 ## 曲目列表
 
@@ -38,6 +41,7 @@ Illustration
 <tr><td id="9" class="infoYL"><b>09</b></td><td id="Shrine_Maiden_Love" colspan="2" class="title">Shrine Maiden Love<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=GaziGaji&amp;fromwiki=TO-HO-Twin-Gear-Compilation"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=GaziGaji&amp;action=edit&amp;redlink=1" class="new" title="GaziGaji（页面不存在）">GaziGaji</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，GaziGaji&amp;fromwiki=TO-HO-Twin-Gear-Compilation"><span></span></a></span></td></tr>
 <tr><td id="10" class="infoYL"><b>10</b></td><td id="Shiny_Spark_&amp;_Dirty_Flowers_Ep.1_「Encounter」" colspan="2" class="title">Shiny Spark &#38; Dirty Flowers Ep.1 「Encounter」<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Len&amp;fromwiki=TO-HO-Twin-Gear-Compilation"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=Len&amp;action=edit&amp;redlink=1" class="new" title="Len（页面不存在）">Len</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Len&amp;fromwiki=TO-HO-Twin-Gear-Compilation"><span></span></a></span></td></tr>
 <tr><td id="11" class="infoYL"><b>11</b></td><td id="Heavy_Doll,_Baby_Doll" colspan="2" class="title">Heavy Doll, Baby Doll<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=MERU-&amp;fromwiki=TO-HO-Twin-Gear-Compilation"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=MERU-&amp;action=edit&amp;redlink=1" class="new" title="MERU-（页面不存在）">MERU-</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，MERU-&amp;fromwiki=TO-HO-Twin-Gear-Compilation"><span></span></a></span></td></tr></tbody></table>
+
 
 
 ## 评论

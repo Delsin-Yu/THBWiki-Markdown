@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-夢幻雨月郷_～_Alice_Magic封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/c/c2/%E5%A4%A2%E5%B9%BB%E9%9B%A8%E6%9C%88%E9%83%B7_%EF%BD%9E_Alice_Magic%E5%B0%81%E9%9D%A2.jpg/280px-%E5%A4%A2%E5%B9%BB%E9%9B%A8%E6%9C%88%E9%83%B7_%EF%BD%9E_Alice_Magic%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="280" height="280" srcset="https://upload.thwiki.cc/thumb/c/c2/%E5%A4%A2%E5%B9%BB%E9%9B%A8%E6%9C%88%E9%83%B7_%EF%BD%9E_Alice_Magic%E5%B0%81%E9%9D%A2.jpg/420px-%E5%A4%A2%E5%B9%BB%E9%9B%A8%E6%9C%88%E9%83%B7_%EF%BD%9E_Alice_Magic%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/c/c2/%E5%A4%A2%E5%B9%BB%E9%9B%A8%E6%9C%88%E9%83%B7_%EF%BD%9E_Alice_Magic%E5%B0%81%E9%9D%A2.jpg/560px-%E5%A4%A2%E5%B9%BB%E9%9B%A8%E6%9C%88%E9%83%B7_%EF%BD%9E_Alice_Magic%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="600" data-file-height="600"></a></td>
@@ -16,6 +17,7 @@
 夢幻雨月郷 ～ Alice Magic（同人专辑，夢想夏月郷，2020） - 2020年10月11日 由 夢想夏月郷 于 东方红楼梦16 发布的全长/印象集同人专辑，曲目主要风格是 民族，分级为 一般向
 
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=730155">蜜瓜</a>，<a rel="nofollow" class="external text" href="https://mazyu.booth.pm/items/2415641">Booth</a></td></tr></tbody></table>
+
 
 
 ## Staff
@@ -29,6 +31,7 @@ Design
 : 翡翠
 Illustration
 : 
+
 
 ## 试听
 
@@ -47,6 +50,7 @@ Illustration
 
   
 
+
 ## 曲目列表
 
 <table><tbody><tr><td id="1" class="infoYL"><b>01</b></td><td id="Lie" colspan="2" class="title">Lie<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=翡翠（人物）&amp;fromwiki=夢幻雨月郷_～_Alice_Magic"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./翡翠（人物）.md" title="翡翠（人物）">翡翠（人物）</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，翡翠（人物），&amp;fromwiki=夢幻雨月郷_～_Alice_Magic"><span></span></a></span></td></tr>
@@ -61,6 +65,7 @@ Illustration
 <tr><td id="10" class="infoYL"><b>10</b></td><td id="叛逆の魔法、霽月を祈り" colspan="2" class="title">叛逆の魔法、霽月を祈り<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=翡翠（人物）&amp;fromwiki=夢幻雨月郷_～_Alice_Magic"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./翡翠（人物）.md" title="翡翠（人物）">翡翠（人物）</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，翡翠（人物），&amp;fromwiki=夢幻雨月郷_～_Alice_Magic"><span></span></a></span></td></tr>
 <tr><td id="11" class="infoYL"><b>11</b></td><td id="月雨の巫女" colspan="2" class="title">月雨の巫女<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=翡翠（人物）&amp;fromwiki=夢幻雨月郷_～_Alice_Magic"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./翡翠（人物）.md" title="翡翠（人物）">翡翠（人物）</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，翡翠（人物），&amp;fromwiki=夢幻雨月郷_～_Alice_Magic"><span></span></a></span></td></tr>
 <tr><td id="12" class="infoYL"><b>12</b></td><td id="夢で嘘から貰った小さなプレゼント" colspan="2" class="title">夢で嘘から貰った小さなプレゼント<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=翡翠（人物）&amp;fromwiki=夢幻雨月郷_～_Alice_Magic"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./翡翠（人物）.md" title="翡翠（人物）">翡翠（人物）</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，翡翠（人物），&amp;fromwiki=夢幻雨月郷_～_Alice_Magic"><span></span></a></span></td></tr></tbody></table>
+
 
 
 ## 评论

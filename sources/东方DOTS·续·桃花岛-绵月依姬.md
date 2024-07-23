@@ -164,6 +164,7 @@
 [](./文件-THD2绵月依姬.png.md)
   
 
+
 ## 目录
 
 - [1 角色定位](#角色定位)
@@ -184,10 +185,12 @@
 
 
 
+
 ## 角色定位
   
 耐久 - 控制 - 逃生 - 先手 - 辅助
   
+
 
 ## 技能介绍
 
@@ -934,6 +937,7 @@
 部分技能图片来自DOTA2官网
   
 
+
 ## 天赋树
 
 
@@ -972,10 +976,12 @@
 </td></tr></tbody></table>
 
 
+
 ## 玩法参考
   
 由于天生的存在和强大的基础属性，游戏前中期的依姬在双人路上拥有近乎无赖的坦度和恢复能力，但由于2.0的攻击间隔和0的敏捷成长，扼杀了这名少女打核心的可能，最常见的还是作为辅助出场。依姬非常大的缺陷是在游戏的中后期作用会迅速下降，前期线上有多凶，后期团战就有多废，所以拿到依姬要么力求在20分钟建立胜势，要么利用自身强大的保三路队友的能力让后期有强大战斗力的队友成长起来，然后躺赢。
   
+
 
 ### 对线阶段
 
@@ -1005,6 +1011,7 @@
 4级的时候保证112的加点即可，这时开始要准备进行游走，多切屏去观察各条线上的形势，有机会的话可以用<a href="./文件-THD2绵月依姬_01.png.md" class="image"><img alt="THD2绵月依姬 01.png" src="https://upload.thwiki.cc/thumb/2/2a/THD2%E7%BB%B5%E6%9C%88%E4%BE%9D%E5%A7%AC_01.png/60px-THD2%E7%BB%B5%E6%9C%88%E4%BE%9D%E5%A7%AC_01.png" decoding="async" loading="lazy" width="60" height="60" srcset="https://upload.thwiki.cc/thumb/2/2a/THD2%E7%BB%B5%E6%9C%88%E4%BE%9D%E5%A7%AC_01.png/90px-THD2%E7%BB%B5%E6%9C%88%E4%BE%9D%E5%A7%AC_01.png 1.5x, https://upload.thwiki.cc/thumb/2/2a/THD2%E7%BB%B5%E6%9C%88%E4%BE%9D%E5%A7%AC_01.png/120px-THD2%E7%BB%B5%E6%9C%88%E4%BE%9D%E5%A7%AC_01.png 2x" data-file-width="128" data-file-height="128"></a>开冲，队友可以看见你冲的对象头上的标记，而对手是看不到的，所以很容易出其不意。在前期的团战中，有2~3层天生的依姬基本就是打不死的存在，只要没有什么高额纯粹伤害，就应该积极为队友吃技能。<br>如果没有明显的游走机会，可以进入对方野区去做视野、封野或是干扰对方打野，如果有危险就用<a href="./文件-THD2绵月依姬_01.png.md" class="image"><img alt="THD2绵月依姬 01.png" src="https://upload.thwiki.cc/thumb/2/2a/THD2%E7%BB%B5%E6%9C%88%E4%BE%9D%E5%A7%AC_01.png/60px-THD2%E7%BB%B5%E6%9C%88%E4%BE%9D%E5%A7%AC_01.png" decoding="async" loading="lazy" width="60" height="60" srcset="https://upload.thwiki.cc/thumb/2/2a/THD2%E7%BB%B5%E6%9C%88%E4%BE%9D%E5%A7%AC_01.png/90px-THD2%E7%BB%B5%E6%9C%88%E4%BE%9D%E5%A7%AC_01.png 1.5x, https://upload.thwiki.cc/thumb/2/2a/THD2%E7%BB%B5%E6%9C%88%E4%BE%9D%E5%A7%AC_01.png/120px-THD2%E7%BB%B5%E6%9C%88%E4%BE%9D%E5%A7%AC_01.png 2x" data-file-width="128" data-file-height="128"></a>来逃跑。<br>
 </p>
 </td></tr></tbody></table>
+
 
 
 ### 游戏中期
@@ -1053,6 +1060,7 @@
 </td></tr></tbody></table>
 
 
+
 ### 游戏后期
 
 <table>
@@ -1066,6 +1074,7 @@
 25级天赋一般选择左边加<a href="./文件-THD2绵月依姬_01.png.md" class="image"><img alt="THD2绵月依姬 01.png" src="https://upload.thwiki.cc/thumb/2/2a/THD2%E7%BB%B5%E6%9C%88%E4%BE%9D%E5%A7%AC_01.png/60px-THD2%E7%BB%B5%E6%9C%88%E4%BE%9D%E5%A7%AC_01.png" decoding="async" loading="lazy" width="60" height="60" srcset="https://upload.thwiki.cc/thumb/2/2a/THD2%E7%BB%B5%E6%9C%88%E4%BE%9D%E5%A7%AC_01.png/90px-THD2%E7%BB%B5%E6%9C%88%E4%BE%9D%E5%A7%AC_01.png 1.5x, https://upload.thwiki.cc/thumb/2/2a/THD2%E7%BB%B5%E6%9C%88%E4%BE%9D%E5%A7%AC_01.png/120px-THD2%E7%BB%B5%E6%9C%88%E4%BE%9D%E5%A7%AC_01.png 2x" data-file-width="128" data-file-height="128"></a>的眩晕/无敌时间，这个天赋对于依姬的先手和保人能力提升很大，但是依姬能到25级的战局实在是很罕见。
 </p>
 </td></tr></tbody></table>
+
 
 
 ## 技能加点
@@ -1130,6 +1139,7 @@
 </td></tr></tbody></table>
 
 
+
 ## 台词
 
 <table>
@@ -1183,6 +1193,7 @@
 </td>
 <td>
 </td></tr></tbody></table>
+
 
 
 ## 教学视频

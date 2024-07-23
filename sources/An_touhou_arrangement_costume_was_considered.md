@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-An_touhou_arrangement_costume_was_considered封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/d/d3/An_touhou_arrangement_costume_was_considered%E5%B0%81%E9%9D%A2.jpg/140px-An_touhou_arrangement_costume_was_considered%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="140" height="196" srcset="https://upload.thwiki.cc/thumb/d/d3/An_touhou_arrangement_costume_was_considered%E5%B0%81%E9%9D%A2.jpg/210px-An_touhou_arrangement_costume_was_considered%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/d/d3/An_touhou_arrangement_costume_was_considered%E5%B0%81%E9%9D%A2.jpg/280px-An_touhou_arrangement_costume_was_considered%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="800" data-file-height="1119"></a><div class="cover-char">角色：<a href="./八云紫.md" title="八云紫">八云紫</a>，<a href="./西行寺幽幽子.md" title="西行寺幽幽子">西行寺幽幽子</a></div></td>
@@ -14,7 +15,9 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/yutakasiumai/status/1503713152424620036">https://twitter.com/yutakasiumai/status/1503713152424620036</a></td></tr></tbody></table>
 
 An touhou arrangement costume was considered（同人志，しうまいを継ぐ者，2022） - 2022年3月20日 由 しうまいを継ぐ者 于 博丽神社例大祭 in 新潟1 发布的画集/摄影集/漫画同人志，一共28页，登场人物有 八云紫、西行寺幽幽子，分级为 一般向
+
 ## 预览
+
 ## Staff
 Model
 : うみ （[Twitter: @umizarasi](https://twitter.com/umizarasi)）
@@ -23,6 +26,7 @@ Costume Making
 : うみ
 Photography
 : 小出豊 （[しうまいを継ぐ者](./しうまいを継ぐ者.md)）
+
 
 ## 评论
 

@@ -4,7 +4,8 @@
 
 UNKNOWN BEATS ，主要制作 同人音乐 的日本同人社团，主催是 中村さん，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -20,12 +21,14 @@ UNKNOWN BEATS ，主要制作 同人音乐 的日本同人社团，主催是 中
 
 
 
+
 ## 社团信息
 [](./文件-UNKNOWN_BEATSlogo.jpg.md)  [](./文件-UNKNOWN_BEATSlogo.jpg.md)logo
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> UNKNOWN BEATS </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=%E4%B8%AD%E6%9D%91%E3%81%95%E3%82%93&amp;action=edit&amp;redlink=1" class="new" title="中村さん（页面不存在）">中村さん</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="https://twitter.com/UNKNOWN__BEATS">https://twitter.com/UNKNOWN__BEATS</a> <br><a rel="nofollow" class="external free" href="https://www.youtube.com/@unknownbeats7648">https://www.youtube.com/@unknownbeats7648</a><br><a rel="nofollow" class="external free" href="https://unknownbeats.booth.pm/">https://unknownbeats.booth.pm/</a></td></tr></tbody></table>
 
 UNKNOWN BEATS（同人社团，同人音乐社团） - UNKNOWN BEATS ，主要制作 同人音乐 的日本同人社团，主催是 中村さん，当前状态为 活动
+
 ## 成员名单
 - 中村さん (未找到链接)
 
@@ -43,7 +46,9 @@ UNKNOWN BEATS（同人社团，同人音乐社团） - UNKNOWN BEATS ，主要�
 
 : [Twitter: @fault_of_hope_](https://twitter.com/fault_of_hope_)
 
+
 ## 作品列表
+
 ### 同人专辑
 [](./UNKNOWN_BEAT.md)[UNKNOWN BEAT](./UNKNOWN_BEAT.md)首发日期：2023-02-18 单曲、​Demo （一般向）[](./ERROR.md)[ERROR](./ERROR.md)首发日期：2023-05-07 （第二十回 博麗神社例大祭 (未找到链接)）全长 （一般向）[](./No_continue.md)[No continue](./No_continue.md)首发日期：2023-11-12 （第十回 博麗神社秋季例大祭 (未找到链接)）全长 （一般向）[](./FAKE_KILL.md)[FAKE KILL](./FAKE_KILL.md)首发日期：2024-05-03 （第二十一回 博麗神社例大祭 (未找到链接)）全长 （一般向）
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -54,6 +59,7 @@ UNKNOWN BEATS（同人社团，同人音乐社团） - UNKNOWN BEATS ，主要�
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 参展信息

@@ -6,6 +6,7 @@ JynX作曲 | Moon_Child_～_Homunculus_Dream | 引用了翻译表的页面 | 连
 
 本页是关于 **向[东方Project](./东方Project.md)  
 致敬、形式类似的作品** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -28,6 +29,7 @@ JynX作曲 | Moon_Child_～_Homunculus_Dream | 引用了翻译表的页面 | 连
 
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
+
 
 
 
@@ -63,6 +65,7 @@ JynX作曲 | Moon_Child_～_Homunculus_Dream | 引用了翻译表的页面 | 连
 </td></tr></tbody></table>
 
 
+
 ## 出现作品
 
 <table>
@@ -72,7 +75,9 @@ JynX作曲 | Moon_Child_～_Homunculus_Dream | 引用了翻译表的页面 | 连
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 连缘灵烈传
 
 <table>
@@ -92,12 +97,15 @@ JynX作曲 | Moon_Child_～_Homunculus_Dream | 引用了翻译表的页面 | 连
 </td></tr></tbody></table>
 
 
+
 ### 连缘天影战记
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>MIDI格式</b></td><td>无播放信息</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-le04_BOSS_Fumikado.mp3.md" title="文件:le04 BOSS Fumikado.mp3">le04_BOSS_Fumikado.mp3</a><br><audio src="https://upload.thwiki.cc/8/80/le04_BOSS_Fumikado.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>未填写</td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 连缘灵烈传
 - Music Room (未找到链接)
 
@@ -116,6 +124,7 @@ JynX作曲 | Moon_Child_～_Homunculus_Dream | 引用了翻译表的页面 | 连
   
 因为是生化人，所以想要做出生化科技的氛围，  
 效果可好呢？
+
 ### 连缘天影战记
 - Music Room (未找到链接)
 
@@ -128,8 +137,11 @@ JynX作曲 | Moon_Child_～_Homunculus_Dream | 引用了翻译表的页面 | 连
 增加了和风要素，多少有些气度了吧？  
   
 也希望祂本人能学学啊。
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
 
 

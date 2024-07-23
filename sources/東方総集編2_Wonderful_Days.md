@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-東方総集編2_Wonderful_Days封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/7/79/%E6%9D%B1%E6%96%B9%E7%B7%8F%E9%9B%86%E7%B7%A82_Wonderful_Days%E5%B0%81%E9%9D%A2.jpg/101px-%E6%9D%B1%E6%96%B9%E7%B7%8F%E9%9B%86%E7%B7%A82_Wonderful_Days%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="101" height="140" srcset="https://upload.thwiki.cc/thumb/7/79/%E6%9D%B1%E6%96%B9%E7%B7%8F%E9%9B%86%E7%B7%A82_Wonderful_Days%E5%B0%81%E9%9D%A2.jpg/151px-%E6%9D%B1%E6%96%B9%E7%B7%8F%E9%9B%86%E7%B7%A82_Wonderful_Days%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/7/79/%E6%9D%B1%E6%96%B9%E7%B7%8F%E9%9B%86%E7%B7%A82_Wonderful_Days%E5%B0%81%E9%9D%A2.jpg/202px-%E6%9D%B1%E6%96%B9%E7%B7%8F%E9%9B%86%E7%B7%A82_Wonderful_Days%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="447" data-file-height="620"></a><div class="cover-char">角色：<a href="./魂魄妖梦.md" title="魂魄妖梦">魂魄妖梦</a>，<a href="./西行寺幽幽子.md" title="西行寺幽幽子">西行寺幽幽子</a></div></td>
@@ -17,8 +18,10 @@
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://gp-kids.booth.pm/items/64173">Booth</a></td></tr></tbody></table>
 
 
+
 ## Staff
 - [高菜しんの](./高菜しんの.md)
+
 
 ## 评论
 

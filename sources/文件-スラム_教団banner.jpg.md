@@ -4,6 +4,7 @@
 
 スラム_教団 | 社团LOGO
 
+
 ## 摘要
   
 源地址：[direct image link (max size)](https://2.bp.blogspot.com/-8d2Id5jzy8g/UHffB7DZEMI/AAAAAAAAABw/wenOlgkizEo/s0/74849_160463747410702_1873802535_n.jpg=s0?imgmax=0), [source page (circle blog header)](http://maximum-suramity.blogspot.com/)

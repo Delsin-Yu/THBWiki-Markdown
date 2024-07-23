@@ -6,11 +6,13 @@
 
 本页是关于东方Project  
  **二次同人创作者** 的词条
+
 ## 基本信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="label"><b>名称</b></td><td> EO </td></tr><tr><td class="label"><b>所属社团</b></td><td><b>当前</b><div style="margin-left:2em;"><a href="./Steel_Doll.md" title="Steel Doll">Steel Doll</a></div></td></tr><tr><td class="label"><b>职位</b></td><td>主催，绘师</td></tr><tr><td class="label"><b>个人页面</b></td><td><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><b>Official</b></td><td><a rel="nofollow" class="external free" href="http://blog.livedoor.jp/eodayo/">http://blog.livedoor.jp/eodayo/</a></td></tr><tr><td><b>bilibili</b></td><td><a rel="nofollow" class="external free" href="https://space.bilibili.com/2069618819">https://space.bilibili.com/2069618819</a></td></tr><tr><td><b>Twitter</b></td><td><a rel="nofollow" class="external free" href="https://twitter.com/EODAYO">https://twitter.com/EODAYO</a></td></tr><tr><td><b>Pixiv</b></td><td><a rel="nofollow" class="external free" href="https://www.pixiv.net/member.php?id=3261838">https://www.pixiv.net/member.php?id=3261838</a></td></tr><tr><td><b>Niconico</b></td><td><a rel="nofollow" class="external free" href="http://www.nicovideo.jp/user/22231125">http://www.nicovideo.jp/user/22231125</a></td></tr><tr><td><b>Youtube</b></td><td><a rel="nofollow" class="external free" href="https://www.youtube.com/c/EODAYO">https://www.youtube.com/c/EODAYO</a></td></tr></tbody></table></td></tr></tbody></table>
 
 EO（人物） - 现实人物
+
 ## 介绍
   
 为多本东方同人小说绘制插图，现正在为两部长篇连载东方同人小说绘制插图。  
@@ -22,6 +24,7 @@ EO（人物） - 现实人物
 R18 Twitter：[https://twitter.com/EODAYO_2](https://twitter.com/EODAYO_2)
   
 
+
 ## 参与作品
   
 这里是秘封侦探事务所/こちら秘封探偵事務所[[2]](http://longnovel.com/touhou001/) 著：浅木原忍 绘：EO  
@@ -29,6 +32,7 @@ R18 Twitter：[https://twitter.com/EODAYO_2](https://twitter.com/EODAYO_2)
 2XXX年的幻想少女/2XXX年の幻想少女[[3]](http://longnovel.com/touhou006/) 著：仮面の男 绘：EO  
 
   
+
 
 ## 人际关系
 人名

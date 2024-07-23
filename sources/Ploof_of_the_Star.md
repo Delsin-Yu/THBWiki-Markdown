@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Ploof_of_the_Star封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/3/32/Ploof_of_the_Star%E5%B0%81%E9%9D%A2.jpg/137px-Ploof_of_the_Star%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="137" height="196" srcset="https://upload.thwiki.cc/thumb/3/32/Ploof_of_the_Star%E5%B0%81%E9%9D%A2.jpg/206px-Ploof_of_the_Star%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/3/32/Ploof_of_the_Star%E5%B0%81%E9%9D%A2.jpg/275px-Ploof_of_the_Star%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="359" data-file-height="512"></a><div class="cover-char">角色：<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a></div></td>
@@ -14,11 +15,13 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://marisa-pudding.themedia.jp/">https://marisa-pudding.themedia.jp/</a></td></tr></tbody></table>
 
 Ploof of the Star（同人志，カラスのおうち，愛欲MOCK，2018） - 2018年5月6日 由 カラスのおうち，愛欲MOCK 于 博丽神社例大祭15 发布的合同志/漫画同人志，A5尺寸一共116页，分级为 一般向
+
 ## Staff
 主催
 : [高畠宗太](./高畠宗太.md)
 副主催
 : [もこきよ](./もこきよ.md)
+
 
 ## 评论
 

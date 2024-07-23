@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -40,11 +41,13 @@
 
 
 
+
 ## 基本信息
 
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">紅楼　～ Eastern Dream...</td></tr><tr><td><b>译名</b></td><td>红楼 ～ Eastern Dream...</td></tr><tr><td><b>英文译名</b></td><td>Scarlet Tower ~ Eastern Dream...</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 红楼 ～ Eastern Dream...（曲目） - 由 ZUN 创作的官方曲目，原名 紅楼　～ Eastern Dream...
+
 ## 出现作品
 
 <table>
@@ -52,8 +55,11 @@
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 东方红魔乡
+
 #### WAV
   
 WAV版是游戏的原声带。
@@ -68,6 +74,7 @@ WAV版是游戏的原声带。
 </td></tr></tbody></table>
 
 
+
 #### MIDI
   
 MIDI版由Roland Sound Canvas 88Pro实机录音得到。
@@ -77,7 +84,9 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td><a href="./文件-th06_17.mid.md" title="文件:th06 17.mid">th06_17.mid</a></td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th06_17_SC88Pro.mp3.md" title="文件:th06 17 SC88Pro.mp3">th06_17_SC88Pro.mp3</a><br><audio src="https://upload.thwiki.cc/2/23/th06_17_SC88Pro.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>th06_17.mid</td></tr><tr><td><b>音轨时长</b></td><td>1:44</td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 东方红魔乡
 - Music Room (未找到链接)
 
@@ -92,8 +101,11 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
 　  17．红楼　～ Eastern Dream...  
 　　说起来，我很久以前就有以“日文　~ 英文”这种格式来命名曲子的习惯了…  
 　　先不提这个了，我还有在制作人员名单主题曲里加上"什么什么Dream"的习惯，这次也如此了(^^;
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
   
  **紅楼　～ Eastern Dream...**  红楼　～ Eastern Dream...
@@ -113,6 +125,7 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
 - …
   - 语意未尽，让人思索。
     - 可能表示红魔乡是新作的开始，后期会有新的作品，最有可能指《东方妖妖梦》。
+
 
 
 

@@ -5,6 +5,7 @@
 引用了翻译表的页面 | 无官方MIDI曲目 | 童祭_～_for_Wedding
 
 本页是关于与ZUN有一定关联的东方同人作品 (未找到链接)的词条
+
 ## 目录
 
 - [1 概述](#概述)
@@ -19,6 +20,7 @@
 
 
 
+
 ## 概述
 [](./文件-童祭_～_for_Wedding合同企划壁纸1.png.md)  [](./文件-童祭_～_for_Wedding合同企划壁纸1.png.md)童祭 ～ for Wedding
   
@@ -26,6 +28,7 @@
 
 曲子为庆祝[ZUN](./ZUN.md)结婚而创作。
   
+
 
 ## 音乐文件
 
@@ -46,6 +49,7 @@
 </td></tr></tbody></table>
 
 
+
 ## 公布信息
 [](./文件-童祭_～_for_Wedding合同企划壁纸2.jpg.md)  [](./文件-童祭_～_for_Wedding合同企划壁纸2.jpg.md)童祭 ～ for Wedding
 - 2012年4月27日在Youtube上传了On Vocal版[^cite_note-1]。
@@ -55,6 +59,7 @@
 : 15:45 即卖会闭会，开始宣布企划
 : 15:50 合唱开始
 : 16:00 企划结束
+
 
 ## 歌词
   
@@ -78,6 +83,7 @@
 ります　お<ruby lang="ja"><rb>祝</rb><rp> (</rp><rt>いわ</rt><rp>) </rp></ruby>
 いの<ruby lang="ja"><rb>言葉</rb><rp> (</rp><rt>ことば</rt><rp>) </rp></ruby>
 を
+
 ## Staff
 编曲
 : [あきやまうに](./あきやまうに.md)（[黄昏边境](./黄昏边境.md)）
@@ -102,6 +108,7 @@ Mix
 Illustration
 : [TOKIAME](./TOKIAME.md)
 
+
 ## 视频
 
 <table>
@@ -123,6 +130,7 @@ Illustration
 <tr>
 <td><iframe width="560" height="315" src="//www.youtube-nocookie.com/embed/r-jepzKdWwc?" frameborder="0" allowfullscreen=""></iframe>
 </td></tr></tbody></table>
+
 
 
 ## 外部链接

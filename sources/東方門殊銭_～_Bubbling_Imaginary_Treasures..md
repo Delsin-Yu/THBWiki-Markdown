@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 软件信息](#软件信息)
@@ -29,6 +30,7 @@
 
 
 
+
 ## 软件信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-東方門殊銭_～_Bubbling_Imaginary_Treasures.封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/3/3d/%E6%9D%B1%E6%96%B9%E9%96%80%E6%AE%8A%E9%8A%AD_%EF%BD%9E_Bubbling_Imaginary_Treasures.%E5%B0%81%E9%9D%A2.jpg/224px-%E6%9D%B1%E6%96%B9%E9%96%80%E6%AE%8A%E9%8A%AD_%EF%BD%9E_Bubbling_Imaginary_Treasures.%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="224" srcset="https://upload.thwiki.cc/thumb/3/3d/%E6%9D%B1%E6%96%B9%E9%96%80%E6%AE%8A%E9%8A%AD_%EF%BD%9E_Bubbling_Imaginary_Treasures.%E5%B0%81%E9%9D%A2.jpg/336px-%E6%9D%B1%E6%96%B9%E9%96%80%E6%AE%8A%E9%8A%AD_%EF%BD%9E_Bubbling_Imaginary_Treasures.%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/3/3d/%E6%9D%B1%E6%96%B9%E9%96%80%E6%AE%8A%E9%8A%AD_%EF%BD%9E_Bubbling_Imaginary_Treasures.%E5%B0%81%E9%9D%A2.jpg/448px-%E6%9D%B1%E6%96%B9%E9%96%80%E6%AE%8A%E9%8A%AD_%EF%BD%9E_Bubbling_Imaginary_Treasures.%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="512" data-file-height="512"></a><div class="cover-char">角色：<a href="./文殊院善罪.md" title="文殊院善罪">文殊院善罪</a>，<a href="./右门金阁.md" title="右门金阁">右门金阁</a>，<a href="./左门银阁.md" title="左门银阁">左门银阁</a></div></td>
@@ -36,20 +38,25 @@
 </tr><tr><td class="label">首发日期</td><td>2021-11-11</td></tr><tr><td class="label">类型</td><td>游戏</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">游戏人数</td><td>单人模式</td></tr><tr><td class="label">游戏类型</td><td>STG</td></tr><tr><td class="label">运行平台</td><td>Windows</td></tr><tr><td class="label">语言</td><td>日文</td></tr><tr><td class="label">售价</td><td>免费</td></tr></tbody></table>
 
 東方門殊銭 ～ Bubbling Imaginary Treasures.（同人游戏，Gore，2021） - 2021年11月11日 由 Gore  发布的STG同人游戏，可在 Windows 系统上运行，游戏人数为 单人模式，分级为 一般向
+
 ## Staff
 - Gore
+
 
 ## 游戏介绍
 - 故事背景 (未找到链接)
 - EX故事背景 (未找到链接)
 
+
 ## 角色
+
 ### 自机
 
 <table><tbody><tr><td style="min-width:40px;" rowspan=""><div class="center"><div class="floatnone"><a href="./文件-博丽灵梦（门殊钱）.png.md" class="image" title="博丽灵梦"><img alt="博丽灵梦" src="https://upload.thwiki.cc/thumb/e/e0/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E9%97%A8%E6%AE%8A%E9%92%B1%EF%BC%89.png/28px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E9%97%A8%E6%AE%8A%E9%92%B1%EF%BC%89.png" decoding="async" loading="lazy" width="28" height="40" srcset="https://upload.thwiki.cc/thumb/e/e0/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E9%97%A8%E6%AE%8A%E9%92%B1%EF%BC%89.png/42px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E9%97%A8%E6%AE%8A%E9%92%B1%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/e/e0/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E9%97%A8%E6%AE%8A%E9%92%B1%EF%BC%89.png/55px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E9%97%A8%E6%AE%8A%E9%92%B1%EF%BC%89.png 2x" data-file-width="322" data-file-height="463"></a></div></div></td> <td style="width:150px;padding:3px 9px 3px 7px;" rowspan="">自由奔放且乐观的巫女 </td><td style="width:180px;padding:3px 9px 3px 7px;"><a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></td><td><a href="/index.php?title=%E6%B8%B8%E6%88%8F%E5%AF%B9%E8%AF%9D:%E6%9D%B1%E6%96%B9%E9%96%80%E6%AE%8A%E9%8A%AD_%EF%BD%9E_Bubbling_Imaginary_Treasures./%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6&amp;action=edit&amp;redlink=1" class="new" title="游戏对话:東方門殊銭 ～ Bubbling Imaginary Treasures./博丽灵梦（页面不存在）">游戏对话/结局</a><br><a href="/index.php?title=%E6%B8%B8%E6%88%8F%E5%AF%B9%E8%AF%9D:%E6%9D%B1%E6%96%B9%E9%96%80%E6%AE%8A%E9%8A%AD_%EF%BD%9E_Bubbling_Imaginary_Treasures./%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6_ExStory&amp;action=edit&amp;redlink=1" class="new" title="游戏对话:東方門殊銭 ～ Bubbling Imaginary Treasures./博丽灵梦 ExStory（页面不存在）">Extra游戏对话</a></td></tr>
 <tr><td style="min-width:40px;" rowspan=""><div class="center"><div class="floatnone"><a href="./文件-雾雨魔理沙（门殊钱）.png.md" class="image" title="雾雨魔理沙"><img alt="雾雨魔理沙" src="https://upload.thwiki.cc/thumb/9/9b/%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%EF%BC%88%E9%97%A8%E6%AE%8A%E9%92%B1%EF%BC%89.png/25px-%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%EF%BC%88%E9%97%A8%E6%AE%8A%E9%92%B1%EF%BC%89.png" decoding="async" loading="lazy" width="25" height="40" srcset="https://upload.thwiki.cc/thumb/9/9b/%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%EF%BC%88%E9%97%A8%E6%AE%8A%E9%92%B1%EF%BC%89.png/37px-%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%EF%BC%88%E9%97%A8%E6%AE%8A%E9%92%B1%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/9/9b/%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%EF%BC%88%E9%97%A8%E6%AE%8A%E9%92%B1%EF%BC%89.png/50px-%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%EF%BC%88%E9%97%A8%E6%AE%8A%E9%92%B1%EF%BC%89.png 2x" data-file-width="296" data-file-height="476"></a></div></div></td> <td style="width:150px;padding:3px 9px 3px 7px;" rowspan="">喜爱星星且率直的魔法使 </td><td style="width:180px;padding:3px 9px 3px 7px;"><a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a></td><td><a href="/index.php?title=%E6%B8%B8%E6%88%8F%E5%AF%B9%E8%AF%9D:%E6%9D%B1%E6%96%B9%E9%96%80%E6%AE%8A%E9%8A%AD_%EF%BD%9E_Bubbling_Imaginary_Treasures./%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99&amp;action=edit&amp;redlink=1" class="new" title="游戏对话:東方門殊銭 ～ Bubbling Imaginary Treasures./雾雨魔理沙（页面不存在）">游戏对话/结局</a><br><a href="/index.php?title=%E6%B8%B8%E6%88%8F%E5%AF%B9%E8%AF%9D:%E6%9D%B1%E6%96%B9%E9%96%80%E6%AE%8A%E9%8A%AD_%EF%BD%9E_Bubbling_Imaginary_Treasures./%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99_ExStory&amp;action=edit&amp;redlink=1" class="new" title="游戏对话:東方門殊銭 ～ Bubbling Imaginary Treasures./雾雨魔理沙 ExStory（页面不存在）">Extra游戏对话</a></td></tr>
 <tr><td style="min-width:40px;" rowspan=""><div class="center"><div class="floatnone"><a href="./文件-东风谷早苗（门殊钱）.png.md" class="image" title="东风谷早苗"><img alt="东风谷早苗" src="https://upload.thwiki.cc/thumb/a/a0/%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97%EF%BC%88%E9%97%A8%E6%AE%8A%E9%92%B1%EF%BC%89.png/22px-%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97%EF%BC%88%E9%97%A8%E6%AE%8A%E9%92%B1%EF%BC%89.png" decoding="async" loading="lazy" width="22" height="40" srcset="https://upload.thwiki.cc/thumb/a/a0/%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97%EF%BC%88%E9%97%A8%E6%AE%8A%E9%92%B1%EF%BC%89.png/33px-%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97%EF%BC%88%E9%97%A8%E6%AE%8A%E9%92%B1%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/a/a0/%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97%EF%BC%88%E9%97%A8%E6%AE%8A%E9%92%B1%EF%BC%89.png/44px-%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97%EF%BC%88%E9%97%A8%E6%AE%8A%E9%92%B1%EF%BC%89.png 2x" data-file-width="260" data-file-height="475"></a></div></div></td> <td style="width:150px;padding:3px 9px 3px 7px;" rowspan="">奇迹且如有神助的风祝 </td><td style="width:180px;padding:3px 9px 3px 7px;"><a href="./东风谷早苗.md" title="东风谷早苗">东风谷早苗</a></td><td><a href="/index.php?title=%E6%B8%B8%E6%88%8F%E5%AF%B9%E8%AF%9D:%E6%9D%B1%E6%96%B9%E9%96%80%E6%AE%8A%E9%8A%AD_%EF%BD%9E_Bubbling_Imaginary_Treasures./%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97&amp;action=edit&amp;redlink=1" class="new" title="游戏对话:東方門殊銭 ～ Bubbling Imaginary Treasures./东风谷早苗（页面不存在）">游戏对话/结局</a><br><a href="/index.php?title=%E6%B8%B8%E6%88%8F%E5%AF%B9%E8%AF%9D:%E6%9D%B1%E6%96%B9%E9%96%80%E6%AE%8A%E9%8A%AD_%EF%BD%9E_Bubbling_Imaginary_Treasures./%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97_ExStory&amp;action=edit&amp;redlink=1" class="new" title="游戏对话:東方門殊銭 ～ Bubbling Imaginary Treasures./东风谷早苗 ExStory（页面不存在）">Extra游戏对话</a></td></tr>
 <tr><td style="min-width:40px;" rowspan=""><div class="center"><div class="floatnone"><a href="./文件-小野塚小町（门殊钱）.png.md" class="image" title="小野塚小町"><img alt="小野塚小町" src="https://upload.thwiki.cc/thumb/0/09/%E5%B0%8F%E9%87%8E%E5%A1%9A%E5%B0%8F%E7%94%BA%EF%BC%88%E9%97%A8%E6%AE%8A%E9%92%B1%EF%BC%89.png/27px-%E5%B0%8F%E9%87%8E%E5%A1%9A%E5%B0%8F%E7%94%BA%EF%BC%88%E9%97%A8%E6%AE%8A%E9%92%B1%EF%BC%89.png" decoding="async" loading="lazy" width="27" height="40" srcset="https://upload.thwiki.cc/thumb/0/09/%E5%B0%8F%E9%87%8E%E5%A1%9A%E5%B0%8F%E7%94%BA%EF%BC%88%E9%97%A8%E6%AE%8A%E9%92%B1%EF%BC%89.png/40px-%E5%B0%8F%E9%87%8E%E5%A1%9A%E5%B0%8F%E7%94%BA%EF%BC%88%E9%97%A8%E6%AE%8A%E9%92%B1%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/0/09/%E5%B0%8F%E9%87%8E%E5%A1%9A%E5%B0%8F%E7%94%BA%EF%BC%88%E9%97%A8%E6%AE%8A%E9%92%B1%EF%BC%89.png/54px-%E5%B0%8F%E9%87%8E%E5%A1%9A%E5%B0%8F%E7%94%BA%EF%BC%88%E9%97%A8%E6%AE%8A%E9%92%B1%EF%BC%89.png 2x" data-file-width="311" data-file-height="460"></a></div></div></td> <td style="width:150px;padding:3px 9px 3px 7px;" rowspan="">江户人气质且开朗的死神 </td><td style="width:180px;padding:3px 9px 3px 7px;"><a href="./小野塚小町.md" title="小野塚小町">小野塚小町</a></td><td><a href="/index.php?title=%E6%B8%B8%E6%88%8F%E5%AF%B9%E8%AF%9D:%E6%9D%B1%E6%96%B9%E9%96%80%E6%AE%8A%E9%8A%AD_%EF%BD%9E_Bubbling_Imaginary_Treasures./%E5%B0%8F%E9%87%8E%E5%A1%9A%E5%B0%8F%E7%94%BA&amp;action=edit&amp;redlink=1" class="new" title="游戏对话:東方門殊銭 ～ Bubbling Imaginary Treasures./小野塚小町（页面不存在）">游戏对话/结局</a><br><a href="/index.php?title=%E6%B8%B8%E6%88%8F%E5%AF%B9%E8%AF%9D:%E6%9D%B1%E6%96%B9%E9%96%80%E6%AE%8A%E9%8A%AD_%EF%BD%9E_Bubbling_Imaginary_Treasures./%E5%B0%8F%E9%87%8E%E5%A1%9A%E5%B0%8F%E7%94%BA_ExStory&amp;action=edit&amp;redlink=1" class="new" title="游戏对话:東方門殊銭 ～ Bubbling Imaginary Treasures./小野塚小町 ExStory（页面不存在）">Extra游戏对话</a></td></tr></tbody></table>
+
 
 
 ### BOSS
@@ -63,7 +70,9 @@
 <tr><td rowspan="1" class="bg-color-info-10" style="min-width:100px"><b>EX面道中</b><br><i><a href="./Last_Remote.md" title="Last Remote">Last Remote</a></i></td><td style="min-width:35px" rowspan="1"><div class="center"><div class="floatnone"><a href="./文件-铃瑚（门殊钱）.png.md" class="image"><img alt="铃瑚（门殊钱）.png" src="https://upload.thwiki.cc/thumb/b/b3/%E9%93%83%E7%91%9A%EF%BC%88%E9%97%A8%E6%AE%8A%E9%92%B1%EF%BC%89.png/29px-%E9%93%83%E7%91%9A%EF%BC%88%E9%97%A8%E6%AE%8A%E9%92%B1%EF%BC%89.png" decoding="async" loading="lazy" width="29" height="40" srcset="https://upload.thwiki.cc/thumb/b/b3/%E9%93%83%E7%91%9A%EF%BC%88%E9%97%A8%E6%AE%8A%E9%92%B1%EF%BC%89.png/44px-%E9%93%83%E7%91%9A%EF%BC%88%E9%97%A8%E6%AE%8A%E9%92%B1%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/b/b3/%E9%93%83%E7%91%9A%EF%BC%88%E9%97%A8%E6%AE%8A%E9%92%B1%EF%BC%89.png/59px-%E9%93%83%E7%91%9A%EF%BC%88%E9%97%A8%E6%AE%8A%E9%92%B1%EF%BC%89.png 2x" data-file-width="346" data-file-height="469"></a></div></div></td>  <td style="width:150px;padding:3px 9px 3px 7px;" rowspan="1"> 天界第一美味</td><td style="width:180px;padding:3px 9px 3px 7px;" rowspan="1"> <a href="./铃瑚.md" title="铃瑚">铃瑚</a> </td></tr><tr><td rowspan="1" class="bg-color-info-10" style="min-width:100px"><b>EX面BOSS</b><br><i><a href="/index.php?title=%E7%8A%8D%E9%99%80%E7%BD%97%E7%9A%84%E7%90%86%E6%83%B3%E4%B9%A1&amp;action=edit&amp;redlink=1" class="new" title="犍陀罗的理想乡（页面不存在）">犍陀罗的理想乡</a></i></td><td style="min-width:35px" rowspan="1"><div class="center"><div class="floatnone"><a href="./文件-孙月孛.png.md" class="image"><img alt="孙月孛.png" src="https://upload.thwiki.cc/thumb/c/ce/%E5%AD%99%E6%9C%88%E5%AD%9B.png/29px-%E5%AD%99%E6%9C%88%E5%AD%9B.png" decoding="async" loading="lazy" width="29" height="40" srcset="https://upload.thwiki.cc/thumb/c/ce/%E5%AD%99%E6%9C%88%E5%AD%9B.png/44px-%E5%AD%99%E6%9C%88%E5%AD%9B.png 1.5x, https://upload.thwiki.cc/thumb/c/ce/%E5%AD%99%E6%9C%88%E5%AD%9B.png/58px-%E5%AD%99%E6%9C%88%E5%AD%9B.png 2x" data-file-width="349" data-file-height="478"></a></div></div></td>  <td style="width:150px;padding:3px 9px 3px 7px;" rowspan="1"> 凶兆与灾星的占卜师</td><td style="width:180px;padding:3px 9px 3px 7px;" rowspan="1"> <a href="./孙月孛.md" title="孙月孛">孙月孛</a> </td></tr></tbody></table>
 
 
+
 ### 其他角色
+
 ## 附带文档
 
 <table><tbody><tr>
@@ -75,6 +84,7 @@
 <li><a href="/index.php?title=%E6%9D%B1%E6%96%B9%E9%96%80%E6%AE%8A%E9%8A%AD_%EF%BD%9E_Bubbling_Imaginary_Treasures./Readme&amp;action=edit&amp;redlink=1" class="new" title="東方門殊銭 ～ Bubbling Imaginary Treasures./Readme（页面不存在）">Readme</a></li>
 <li><a href="/index.php?title=%E6%9D%B1%E6%96%B9%E9%96%80%E6%AE%8A%E9%8A%AD_%EF%BD%9E_Bubbling_Imaginary_Treasures./Omake&amp;action=edit&amp;redlink=1" class="new" title="東方門殊銭 ～ Bubbling Imaginary Treasures./Omake（页面不存在）">Omake</a></li></ul>
 </td></tr></tbody></table>
+
 
 
 ## 其他资料
@@ -97,8 +107,11 @@
 </td></tr></tbody></table>
 
 
+
 ## 评论
+
 ## 视频
+
 ## 下载
   
 请注意：  
@@ -114,6 +127,7 @@
 <tr>
 <td><a rel="nofollow" class="external text" href="https://mega.nz/folder/kcJnQSKR#Ijf-o7NyDPsy384fnFX6eQ">mega网盘镜像</a>
 </td></tr></tbody></table>
+
 
 
 ## 词条导航

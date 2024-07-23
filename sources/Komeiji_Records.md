@@ -4,7 +4,8 @@
 
 Komeiji Records ，于 2013 年成立，主要制作 同人音乐 的美国同人社团，主催是 DJ Koishi，DJ Satori，曾以 Wild Dak Paks，CirKit Records 名义活动，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -21,23 +22,27 @@ Komeiji Records ，于 2013 年成立，主要制作 同人音乐 的美国同�
 
 
 
+
 ## 社团信息
 [](./文件-Komeiji_Records.png.md)  [](./文件-Komeiji_Records.png.md)logo
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Komeiji Records </td></tr><tr><td><b>曾用名称</b></td><td> Wild Dak Paks，CirKit Records </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2013</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=DJ_Koishi&amp;action=edit&amp;redlink=1" class="new" title="DJ Koishi（页面不存在）">DJ Koishi</a> <br> <a href="/index.php?title=DJ_Satori&amp;action=edit&amp;redlink=1" class="new" title="DJ Satori（页面不存在）">DJ Satori</a> </td></tr><tr><td><b>地区</b></td><td>美国</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="https://wilddakpaks.bandcamp.com/">https://wilddakpaks.bandcamp.com/</a> </td></tr></tbody></table>
 
 Komeiji Records（同人社团，同人音乐社团） - Komeiji Records ，于 2013 年成立，主要制作 同人音乐 的美国同人社团，主催是 DJ Koishi，DJ Satori，曾以 Wild Dak Paks，CirKit Records 名义活动，当前状态为 活动
+
 ## 成员名单
 - DJ Koishi (未找到链接)
 - DJ Satori (未找到链接)
 - DJ Kitsuki (未找到链接)
 
+
 ## 社团简介
   
-该社团是由Wild Dak Paks (未找到链接)和CirKit Records (未找到链接)这两个社团合并组成的；  
+该社团是由[Wild Dak Paks](./Wild_Dak_Paks.md)和[CirKit Records](./CirKit_Records.md)这两个社团合并组成的；  
 
 专辑列表中的前4张专辑为两个社团合并之前的作品。
   
+
 
 ## 作品列表
 [](./Subterranean_Light_Show.md)[Subterranean Light Show](./Subterranean_Light_Show.md)首发日期：2013-04-03 全长 （一般向）[](./Faith_Foughten_Field.md)[Faith Foughten Field](./Faith_Foughten_Field.md)首发日期：2013-07-27 全长、​合作 （一般向）[](./Green_Fire_Concerto.md)[Green Fire Concerto](./Green_Fire_Concerto.md)首发日期：2013-07-14 全长 （一般向）[](./ONE_LAST_SHOW.md)[ONE LAST SHOW](./ONE_LAST_SHOW.md)首发日期：2013-08-23 全长 （一般向）[](./Hina's_Halloween_EP.md)[Hina's Halloween EP](./Hina's_Halloween_EP.md)首发日期：2013-11-20 EP （一般向）[](./An_Aya_Christmas_EP.md)[An Aya Christmas EP](./An_Aya_Christmas_EP.md)首发日期：2013-12-24 EP （一般向）[](./Komeiji_Club.md)[Komeiji Club](./Komeiji_Club.md)首发日期：2014-04-01 全长 （一般向）[](./420_Graze_It_EP.md)[420 Graze It EP](./420_Graze_It_EP.md)首发日期：2014-04-20 EP （一般向）[](./I_Dream_of_Rain.md)[I Dream of Rain](./I_Dream_of_Rain.md)首发日期：2014-07-17 全长 （一般向）[](./10／TENSHI.md)[10／TENSHI](./10／TENSHI.md)首发日期：2015-01-27 全长 （一般向）[](./Damage_Control.md)[Damage Control](./Damage_Control.md)首发日期：2015-08-04 全长 （一般向）[](./Awoo_Vol._2_EP.md)[Awoo Vol. 2 EP](./Awoo_Vol._2_EP.md)首发日期：2015-10-30 EP （一般向）[](./Sleepless_Dream.md)[Sleepless Dream](./Sleepless_Dream.md)首发日期：2017-08-11 （Comic Market 92 (未找到链接)）全长 （一般向）网络发布，并未参展
@@ -69,7 +74,9 @@ Komeiji Records（同人社团，同人音乐社团） - Komeiji Records ，于 
 </table>
 
 
+
 ## 其他信息
+
 ### 社团采访
 - [r/touhou AMA (ask me anything)](https://old.reddit.com/r/touhou/comments/3cu3o7/komeiji_records_in_the_house_ama/) (2015-07-10)
 

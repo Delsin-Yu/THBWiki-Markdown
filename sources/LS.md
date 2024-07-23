@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-LS封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/f/f6/LS%E5%B0%81%E9%9D%A2.jpg/140px-LS%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="140" height="196" srcset="https://upload.thwiki.cc/thumb/f/f6/LS%E5%B0%81%E9%9D%A2.jpg/209px-LS%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/f/f6/LS%E5%B0%81%E9%9D%A2.jpg/279px-LS%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="850" data-file-height="1193"></a><div class="cover-char">角色：<a href="./封兽鵺.md" title="封兽鵺">封兽鵺</a></div></td>
@@ -14,11 +15,14 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/107712667">https://www.pixiv.net/artworks/107712667</a></td></tr></tbody></table>
 
 LS（同人志，やっきょくや，2023） - 2023年5月7日 由 やっきょくや 于 博丽神社例大祭20 发布的绘本同人志，A4尺寸一共18页，分级为 一般向
+
 ## 预览
 - [](./文件-LS预览图1.jpg.md)
 
+
 ## Staff
 - ナツ (未找到链接)
+
 
 ## 评论
 

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-ZUNDER_TALE封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/6/67/ZUNDER_TALE%E5%B0%81%E9%9D%A2.jpg/100px-ZUNDER_TALE%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="100" height="140" srcset="https://upload.thwiki.cc/thumb/6/67/ZUNDER_TALE%E5%B0%81%E9%9D%A2.jpg/151px-ZUNDER_TALE%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/6/67/ZUNDER_TALE%E5%B0%81%E9%9D%A2.jpg/201px-ZUNDER_TALE%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="777" data-file-height="1082"></a><div class="cover-char">角色：<a href="/index.php?title=%E5%8E%9F%E5%88%9B%E8%A7%92%E8%89%B2&amp;action=edit&amp;redlink=1" class="new" title="原创角色（页面不存在）">原创角色</a>，<a href="./多多良小伞.md" title="多多良小伞">多多良小伞</a>，<a href="./魂魄妖梦.md" title="魂魄妖梦">魂魄妖梦</a>，<a href="./红美铃.md" title="红美铃">红美铃</a>，<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>，<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/nanasi3000/status/1372848943634079745">https://twitter.com/nanasi3000/status/1372848943634079745</a></td></tr></tbody></table>
 
 ZUNDER TALE（同人志，ナナシノ十字星団，2021） - 2021年3月21日 由 ナナシノ十字星団 于 博丽神社例大祭18 发布的漫画同人志，分级为 一般向
+
 ## Staff
 - 七篠創太 (未找到链接)
+
 
 ## 评论
 

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-秘密の人形庭園～Secret_Doll's_Garden～封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/e/e3/%E7%A7%98%E5%AF%86%E3%81%AE%E4%BA%BA%E5%BD%A2%E5%BA%AD%E5%9C%92%EF%BD%9ESecret_Doll%27s_Garden%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg/140px-%E7%A7%98%E5%AF%86%E3%81%AE%E4%BA%BA%E5%BD%A2%E5%BA%AD%E5%9C%92%EF%BD%9ESecret_Doll%27s_Garden%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="140" height="196" srcset="https://upload.thwiki.cc/thumb/e/e3/%E7%A7%98%E5%AF%86%E3%81%AE%E4%BA%BA%E5%BD%A2%E5%BA%AD%E5%9C%92%EF%BD%9ESecret_Doll%27s_Garden%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg/210px-%E7%A7%98%E5%AF%86%E3%81%AE%E4%BA%BA%E5%BD%A2%E5%BA%AD%E5%9C%92%EF%BD%9ESecret_Doll%27s_Garden%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/e/e3/%E7%A7%98%E5%AF%86%E3%81%AE%E4%BA%BA%E5%BD%A2%E5%BA%AD%E5%9C%92%EF%BD%9ESecret_Doll%27s_Garden%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg/280px-%E7%A7%98%E5%AF%86%E3%81%AE%E4%BA%BA%E5%BD%A2%E5%BA%AD%E5%9C%92%EF%BD%9ESecret_Doll%27s_Garden%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="646" data-file-height="904"></a><div class="cover-char">角色：<a href="./风见幽香.md" title="风见幽香">风见幽香</a>，<a href="./爱丽丝·玛格特洛依德.md" title="爱丽丝·玛格特洛依德">爱丽丝·玛格特洛依德</a></div></td>
@@ -14,7 +15,9 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://someis.wixsite.com/secret">https://someis.wixsite.com/secret</a><br><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/43328210">https://www.pixiv.net/artworks/43328210</a><br><a rel="nofollow" class="external free" href="https://twitter.com/OIL_kasin/status/462593518939041794">https://twitter.com/OIL_kasin/status/462593518939041794</a></td></tr></tbody></table>
 
 秘密の人形庭園～Secret Doll's Garden～（同人志，融解エメノイル，2014） - 2014年5月11日 由 融解エメノイル 于 博丽神社例大祭11 发布的绘本/合同志同人志，一共16页，登场人物有 爱丽丝·玛格特洛依德，分级为 一般向
+
 ## 预览
+
 ## Staff
 Organization &amp; Planning
 : OIL （[融解エメノイル](./融解エメノイル.md)）
@@ -28,6 +31,7 @@ Participants
 : いかまぐ （いかくし？ (未找到链接) / [Pixiv ID: 270899](https://www.pixiv.net/users/270899) / [Twitter: @ikamagu](https://twitter.com/ikamagu)）
 : 飛べないトド （ゴミの箱庭 (未找到链接) / [Pixiv ID: 10665](https://www.pixiv.net/users/10665) / [Twitter: @todo666](https://twitter.com/todo666)）
 : むく （[Pixiv ID: 250618](https://www.pixiv.net/users/250618) / [Twitter: @muku69komainu](https://twitter.com/muku69komainu)）
+
 
 ## 评论
 

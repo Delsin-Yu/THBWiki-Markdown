@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 软件信息](#软件信息)
@@ -13,6 +14,7 @@
 - [3 Staff](#Staff)
 - [4 内容页面](#内容页面)
 - [5 评论](#评论)
+
 
 
 
@@ -35,6 +37,7 @@
 <tbody><tr><th colspan="2">配置需求</th></tr>
 <tr><td style="width:120px;padding-left:7px;"><b>操作系统</b></td><td>Windows XP（推荐）／Vista／Win7</td></tr><tr><td style="width:120px;padding-left:7px;"><b>CPU</b></td><td>Pentium Ⅲ 266MHz以上</td></tr><tr><td style="width:120px;padding-left:7px;"><b>内存</b></td><td>1GB以上</td></tr><tr><td style="width:120px;padding-left:7px;"><b>硬盘需求</b></td><td>1.5GB以上</td></tr><tr><td style="width:120px;padding-left:7px;"><b>其他</b></td><td>繁体中文</td></tr>
 </tbody></table>
+
 
 
 ## PV
@@ -60,6 +63,7 @@
 </td></tr></tbody></table>
 
 
+
 ## Staff
 剧本
 : [啸风弄月](https://home.gamer.com.tw/homeindex.php?owner=hayui)
@@ -78,11 +82,13 @@ OP与PV
 : [剛果河馬](https://www.youtube.com/user/hippophoenix)  
  [呆毛、笑出免疫力（PVAMAZING）](https://pvamazing.com/)
 
+
 ## 内容页面
 - 游戏设定与剧情 (未找到链接)
-- 攻略与成就 (未找到链接)
+- [攻略与成就](./祈風_Episode.2-攻略.md)
 - 使用说明 (未找到链接)
 - 其他信息 (未找到链接)
+
 
 ## 评论
 

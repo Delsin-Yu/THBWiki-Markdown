@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-ORIENTAL_DECORATIONS封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/2/29/ORIENTAL_DECORATIONS%E5%B0%81%E9%9D%A2.jpg/118px-ORIENTAL_DECORATIONS%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="118" height="168" srcset="https://upload.thwiki.cc/thumb/2/29/ORIENTAL_DECORATIONS%E5%B0%81%E9%9D%A2.jpg/177px-ORIENTAL_DECORATIONS%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/2/29/ORIENTAL_DECORATIONS%E5%B0%81%E9%9D%A2.jpg/236px-ORIENTAL_DECORATIONS%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1031" data-file-height="1469"></a><div class="cover-char">角色：<a href="./奥莲姬.md" title="奥莲姬">奥莲姬</a></div></td>
@@ -18,11 +19,13 @@ ORIENTAL DECORATIONS（同人志，心病神社，2020） - 2020年5月17日 由
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://murmeltire1218.booth.pm/items/2448161">Booth</a></td></tr></tbody></table>
 
 
+
 ## Staff
 - 魅々熊 (未找到链接)
 - [もりのほん](./もりのほん.md)
 - 海原 (未找到链接)
 - 三栖戸 (未找到链接)
+
 
 ## 评论
 

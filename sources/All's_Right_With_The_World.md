@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2">无封面</td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/ill_sh/status/1373469413484109827">https://twitter.com/ill_sh/status/1373469413484109827</a></td></tr></tbody></table>
 
 All's Right With The World（同人专辑，Petrolatum box，2021） - 2021年3月21日 由 Petrolatum box 于 博丽神社例大祭18 发布的单曲同人专辑，分级为 一般向
+
 ## Staff
   
  **Arrangement**   
@@ -31,15 +33,18 @@ All's Right With The World（同人专辑，Petrolatum box，2021） - 2021年3�
 <table><tbody><tr><td><a href="/index.php?title=%E4%BB%8A%E5%B8%82_%E7%83%8F%E8%B3%8A%E4%B9%8B%E4%BB%8B&amp;action=edit&amp;redlink=1" class="new" title="今市 烏賊之介（页面不存在）">今市 烏賊之介</a></td><td></td><td>Tr.1</td></tr></tbody></table>
 
 
+
 ## 试听
   
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1012084978&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=false"></iframe>
 
   
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoRD"><b>01</b></td><td id="All&#39;s_Right_With_The_World" colspan="2" class="title"><span class="new" title="（歌词页面不存在）"><a href="/index.php?title=%E6%AD%8C%E8%AF%8D:All%27s_Right_With_The_World&amp;boilerplate=模板:页面模板/曲目歌词&amp;action=edit">All&#39;s Right With The World</a></span><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=イル&amp;vocal=イル&amp;lyric=今市 烏賊之介&amp;ogmusic=死体旅行　～ Be of good cheer!&amp;fromwiki=All's_Right_With_The_World"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E3%82%A4%E3%83%AB&amp;action=edit&amp;redlink=1" class="new" title="イル（页面不存在）">イル</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，イル&amp;fromwiki=All's_Right_With_The_World"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="/index.php?title=%E3%82%A4%E3%83%AB&amp;action=edit&amp;redlink=1" class="new" title="イル（页面不存在）">イル</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=イル&amp;fromwiki=All's_Right_With_The_World"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="/index.php?title=%E4%BB%8A%E5%B8%82_%E7%83%8F%E8%B3%8A%E4%B9%8B%E4%BB%8B&amp;action=edit&amp;redlink=1" class="new" title="今市 烏賊之介（页面不存在）">今市 烏賊之介</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?lyric=今市 烏賊之介&amp;fromwiki=All's_Right_With_The_World"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=死体旅行　～ Be of good cheer!&amp;fromwiki=All's_Right_With_The_World"><span></span></a></span><div class="ogmusic"><a href="/%E6%AD%BB%E4%BD%93%E6%97%85%E8%A1%8C_%EF%BD%9E_Be_of_good_cheer!" class="mw-redirect" title="死体旅行 ～ Be of good cheer!">死体旅行　～ Be of good cheer!</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E5%9C%B0%E7%81%B5%E6%AE%BF_%EF%BD%9E_Subterranean_Animism." class="mw-redirect" title="东方地灵殿 ～ Subterranean Animism.">东方地灵殿　～ Subterranean Animism.</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoRD"><b>01</b></td><td id="All&#39;s_Right_With_The_World" colspan="2" class="title"><span class="new" title="（歌词页面不存在）"><a href="/index.php?title=%E6%AD%8C%E8%AF%8D:All%27s_Right_With_The_World&amp;boilerplate=模板:页面模板/曲目歌词&amp;action=edit">All&#39;s Right With The World</a></span><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=イル&amp;vocal=イル&amp;lyric=今市 烏賊之介&amp;ogmusic=死体旅行　～ Be of good cheer!&amp;fromwiki=All's_Right_With_The_World"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E3%82%A4%E3%83%AB&amp;action=edit&amp;redlink=1" class="new" title="イル（页面不存在）">イル</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，イル&amp;fromwiki=All's_Right_With_The_World"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="/index.php?title=%E3%82%A4%E3%83%AB&amp;action=edit&amp;redlink=1" class="new" title="イル（页面不存在）">イル</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=イル&amp;fromwiki=All's_Right_With_The_World"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="/index.php?title=%E4%BB%8A%E5%B8%82_%E7%83%8F%E8%B3%8A%E4%B9%8B%E4%BB%8B&amp;action=edit&amp;redlink=1" class="new" title="今市 烏賊之介（页面不存在）">今市 烏賊之介</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?lyric=今市 烏賊之介&amp;fromwiki=All's_Right_With_The_World"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=死体旅行　～ Be of good cheer!&amp;fromwiki=All's_Right_With_The_World"><span></span></a></span><div class="ogmusic"><a href="./死体旅行_～_Be_of_good_cheer!.md" class="mw-redirect" title="死体旅行 ～ Be of good cheer!">死体旅行　～ Be of good cheer!</a></div><div class="source"><a href="./东方地灵殿_～_Subterranean_Animism..md" class="mw-redirect" title="东方地灵殿 ～ Subterranean Animism.">东方地灵殿　～ Subterranean Animism.</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

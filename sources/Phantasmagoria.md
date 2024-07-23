@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -36,11 +37,13 @@
 
 
 
+
 ## 基本信息
 
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">Phantasmagoria</td></tr><tr><td><b>译名</b></td><td>Phantasmagoria</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 Phantasmagoria（曲目） - 由 ZUN 创作的官方曲目，原名 Phantasmagoria
+
 ## 出现作品
 
 <table>
@@ -49,7 +52,9 @@ Phantasmagoria（曲目） - 由 ZUN 创作的官方曲目，原名 Phantasmagor
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 东方怪绮谈
   
 YM2608(OPNA)，FM86版。
@@ -59,12 +64,15 @@ YM2608(OPNA)，FM86版。
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th05_Y_24.ogg.md" title="文件:th05 Y 24.ogg">th05_Y_24.ogg</a><br><audio src="https://upload.thwiki.cc/a/a0/th05_Y_24.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>Y_NG02.M</td></tr><tr><td><b>音轨时长</b></td><td>1:42.351</td></tr></tbody></table>
 
 
+
 ### 幺乐团的历史 vol.4
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-ha04_24.mp3.md" title="文件:ha04 24.mp3">ha04_24.mp3</a><br><audio src="https://upload.thwiki.cc/8/84/ha04_24.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track24.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>3:59</td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 东方怪绮谈
 - Music Room (未找到链接)
 
@@ -80,8 +88,11 @@ YM2608(OPNA)，FM86版。
 爱莲・蓬松头・奥瑞斯的主题曲。（预定）  
 是假的。因为预定要作一首可爱系的曲子～  
 想要作一首稍微有影的曲子。
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
 - Phantasmagoria
   - 应该取自于TH03《梦时空》的英文副标题“Phantasmagoria of Dim.Dream.”
@@ -91,6 +102,7 @@ YM2608(OPNA)，FM86版。
 
 - 原名「Phantasmagoria　～はたらきもので日が暮れて」（Phantasmagoria　～在劳动中度过一天），在[东方怪绮谈](./东方怪绮谈.md)的Music Room中标注为[爱莲](./爱莲.md)原先预定的主题曲。
   - 标题出自竹本泉的『はたらきもの』。
+
 
 
 ### 二次同人数据

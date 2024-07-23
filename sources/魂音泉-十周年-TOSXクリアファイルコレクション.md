@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **相关实体周边 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 周边信息](#周边信息)
@@ -22,6 +23,7 @@
 
 
 
+
 ## 周边信息
 
 <table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> TOSXクリアファイルコレクション </td></tr><tr><td class="label">译名</td><td> 十周年文件夹套装 </td></tr><tr><td class="label">系列</td><td> 十周年 </td></tr><tr><td class="label">制作方</td><td><a href="./魂音泉.md" title="魂音泉">魂音泉</a></td></tr><tr><td class="label">首发日期</td><td>2019-05-28</td></tr><tr><td class="label">类型</td><td>文具</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>A4（31cm×22cm）</td></tr><tr><td class="label">材质</td><td>塑料（PP）</td></tr><tr><td class="label">角色</td><td><a href="./琪露诺.md" title="琪露诺">琪露诺</a><br><a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a><br><a href="./洩矢诹访子.md" title="洩矢诹访子">洩矢诹访子</a><br><a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a><br><a href="./帕秋莉·诺蕾姬.md" title="帕秋莉·诺蕾姬">帕秋莉·诺蕾姬</a><br><a href="./魂魄妖梦.md" title="魂魄妖梦">魂魄妖梦</a><br><a href="./藤原妹红.md" title="藤原妹红">藤原妹红</a><br><a href="./八云紫.md" title="八云紫">八云紫</a><br><a href="./河城荷取.md" title="河城荷取">河城荷取</a><br><a href="/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C" title="十六夜咲夜">十六夜咲夜</a><br><a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a></td></tr><tr><td class="label">售价</td><td>3241日元（不含税），120人民币一套（共11款）</td></tr>
@@ -33,20 +35,25 @@
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://tamaonsen-556.booth.pm/items/1479007">Booth</a></td></tr><tr><td class="label">授权代理</td><td colspan="2"><a rel="nofollow" class="external text" href="https://item.taobao.com/item.htm?spm=a312a.7700824.w4002-7360447977.91.3eb95def7knGml&amp;id=594755720699">淘宝</a></td></tr></tbody></table>
 
 
+
 ## 参考图
   
 周边宣传、售卖时使用的作为参考图的预览图或实物图的图片。
   
 
+
 ### 预览图
 - [](./文件-魂音泉／十周年／TOSXクリアファイルコレクション预览图1.jpg.md)
+
 
 ### 实物图
 - [](./文件-魂音泉／十周年／TOSXクリアファイルコレクション实物图1.jpg.md)- [](./文件-魂音泉／十周年／TOSXクリアファイルコレクション实物图2.jpg.md)- [](./文件-魂音泉／十周年／TOSXクリアファイルコレクション实物图3.jpg.md)- [](./文件-魂音泉／十周年／TOSXクリアファイルコレクション实物图4.jpg.md)- [](./文件-魂音泉／十周年／TOSXクリアファイルコレクション实物图5.jpg.md)
 
+
 ## Staff
 Illustration &amp; Design
 : [零 / Rei](./零（同人专辑）.md)
+
 
 ## 评论
 

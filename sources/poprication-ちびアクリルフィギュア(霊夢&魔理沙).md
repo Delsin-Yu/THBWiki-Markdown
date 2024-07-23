@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **相关实体周边 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 周边信息](#周边信息)
@@ -22,6 +23,7 @@
 
 
 
+
 ## 周边信息
 
 <table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> ちびアクリルフィギュア(霊夢&#38;魔理沙) </td></tr><tr><td class="label">制作方</td><td><a href="./poprication.md" title="poprication">poprication</a></td></tr><tr><td class="label">首发日期</td><td>2020-10-17</td></tr><tr><td class="label">类型</td><td>立牌</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">材质</td><td>亚克力</td></tr><tr><td class="label">角色</td><td><a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a><br><a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a></td></tr><tr><td class="label">售价</td><td>通贩售价：941日元</td></tr>
@@ -32,19 +34,24 @@ poprication/ちびアクリルフィギュア(霊夢&amp;魔理沙)（周边，p
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=743176">蜜瓜</a></td></tr></tbody></table>
 
 
+
 ## 参考图
   
 周边宣传、售卖时使用的作为参考图的预览图或实物图的图片。
   
 
+
 ### 预览图
 - [](./文件-poprication／ちびアクリルフィギュア(霊夢&魔理沙)预览图1.jpg.md)
+
 
 ### 实物图
 - [](./文件-poprication／ちびアクリルフィギュア(霊夢&魔理沙)实物图1.jpg.md)
 
+
 ## Staff
 - [べにしゃけ](./べにしゃけ.md)
+
 
 ## 评论
 

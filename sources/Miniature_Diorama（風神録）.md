@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Miniature_Diorama（風神録）封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/6/6b/Miniature_Diorama%EF%BC%88%E9%A2%A8%E7%A5%9E%E9%8C%B2%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/139px-Miniature_Diorama%EF%BC%88%E9%A2%A8%E7%A5%9E%E9%8C%B2%EF%BC%89%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="139" height="196" srcset="https://upload.thwiki.cc/thumb/6/6b/Miniature_Diorama%EF%BC%88%E9%A2%A8%E7%A5%9E%E9%8C%B2%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/209px-Miniature_Diorama%EF%BC%88%E9%A2%A8%E7%A5%9E%E9%8C%B2%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/6/6b/Miniature_Diorama%EF%BC%88%E9%A2%A8%E7%A5%9E%E9%8C%B2%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/278px-Miniature_Diorama%EF%BC%88%E9%A2%A8%E7%A5%9E%E9%8C%B2%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="800" data-file-height="1126"></a><div class="cover-char">角色：<a href="./东风谷早苗.md" title="东风谷早苗">东风谷早苗</a>，<a href="./洩矢诹访子.md" title="洩矢诹访子">洩矢诹访子</a></div></td>
@@ -18,8 +19,10 @@ Miniature Diorama（風神録）（同人志，なないろしっぽ団，2019�
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=573055">蜜瓜DL版</a>，<a rel="nofollow" class="external text" href="https://ec.toranoana.jp/tora_r/ec/item/040030781435">虎穴</a></td></tr></tbody></table>
 
 
+
 ## Staff
 - こはや (未找到链接)
+
 
 ## 评论
   

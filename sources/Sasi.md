@@ -6,11 +6,13 @@
 
 本页是关于东方Project  
  **二次同人创作者** 的词条
+
 ## 基本信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="label"><b>名称</b></td><td> Sasi </td></tr><tr><td class="label"><b>所属社团</b></td><td><b>当前</b><div style="margin-left:2em;"><a href="./BlossomNightfall.md" title="BlossomNightfall">BlossomNightfall</a>，<a href="./Frozen_Starfall.md" title="Frozen Starfall">Frozen Starfall</a></div><b>过往</b><div style="margin-left:2em;"><a href="./Babbe_Music.md" title="Babbe Music">Babbe Music</a></div></td></tr><tr><td class="label"><b>职位</b></td><td>作曲，编曲，演唱，作词</td></tr><tr><td class="label"><b>参与社团</b></td><td><a href="./Babbe_Music.md" title="Babbe Music">Babbe Music</a> （演唱，作词）<br><a href="./BlossomNightfall.md" title="BlossomNightfall">BlossomNightfall</a> （作曲，编曲，演唱，作词）<br><a href="./Frozen_Starfall.md" title="Frozen Starfall">Frozen Starfall</a> （编曲，演唱，作词）<br><a href="./Komeiji_Records.md" title="Komeiji Records">Komeiji Records</a> （演唱）<br><a href="./Last_Dream.md" title="Last Dream">Last Dream</a> （编曲，演唱，作词）<br><a href="./Norowareta_Night.md" title="Norowareta Night">Norowareta Night</a> （作曲，编曲，演唱，作词）<br><a href="./Sieudiver.md" title="Sieudiver">Sieudiver</a> （演唱）<br><a href="./Studio_“Syrup_Comfiture”.md" title="Studio “Syrup Comfiture”">Studio “Syrup Comfiture”</a> （编曲，演唱）<br><a href="./Takamachi_Walk.md" title="Takamachi Walk">Takamachi Walk</a> （编曲，演唱，作词）<br><a href="./Violet_Delta.md" title="Violet Delta">Violet Delta</a> （演唱，作词）</td></tr><tr><td class="label"><b>性别</b></td><td>女</td></tr><tr><td class="label"><b>个人页面</b></td><td><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><b>Twitter</b></td><td><a rel="nofollow" class="external free" href="https://twitter.com/x3Lielliax3">https://twitter.com/x3Lielliax3</a></td></tr><tr><td><b>Youtube</b></td><td><a rel="nofollow" class="external free" href="https://www.youtube.com/user/x3Lielliax3">https://www.youtube.com/user/x3Lielliax3</a></td></tr></tbody></table></td></tr></tbody></table>
 
 Sasi（人物） - 现实人物
+
 ## 介绍
 - [BlossomNightfall](./BlossomNightfall.md)的主催。
 

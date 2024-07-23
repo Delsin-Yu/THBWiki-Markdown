@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Partner_東方插畫集封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/4/4c/Partner_%E6%9D%B1%E6%96%B9%E6%8F%92%E7%95%AB%E9%9B%86%E5%B0%81%E9%9D%A2.jpg/196px-Partner_%E6%9D%B1%E6%96%B9%E6%8F%92%E7%95%AB%E9%9B%86%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="196" height="139" srcset="https://upload.thwiki.cc/thumb/4/4c/Partner_%E6%9D%B1%E6%96%B9%E6%8F%92%E7%95%AB%E9%9B%86%E5%B0%81%E9%9D%A2.jpg/294px-Partner_%E6%9D%B1%E6%96%B9%E6%8F%92%E7%95%AB%E9%9B%86%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/4/4c/Partner_%E6%9D%B1%E6%96%B9%E6%8F%92%E7%95%AB%E9%9B%86%E5%B0%81%E9%9D%A2.jpg/392px-Partner_%E6%9D%B1%E6%96%B9%E6%8F%92%E7%95%AB%E9%9B%86%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="500" data-file-height="355"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></div></td>
@@ -14,9 +15,11 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://ozero.blog10.fc2.com/blog-entry-186.html">http://ozero.blog10.fc2.com/blog-entry-186.html</a></td></tr><tr><td class="label">备注</td><td colspan="2">东方人物跟动物互动的插画本</td></tr></tbody></table>
 
 Partner 東方插畫集（同人志，OriginZero，2016） - 2016年2月20日 由 OriginZero 于 Comic Horizon1 发布的画集同人志，A4尺寸一共24页，分级为 一般向
+
 ## Staff
 - 千嗣 (未找到链接)
 - 定嵐 (未找到链接)
+
 
 ## 评论
 

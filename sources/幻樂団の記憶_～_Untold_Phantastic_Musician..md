@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-幻樂団の記憶_～_Untold_Phantastic_Musician.封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/2/2a/%E5%B9%BB%E6%A8%82%E5%9B%A3%E3%81%AE%E8%A8%98%E6%86%B6_%EF%BD%9E_Untold_Phantastic_Musician.%E5%B0%81%E9%9D%A2.jpg/157px-%E5%B9%BB%E6%A8%82%E5%9B%A3%E3%81%AE%E8%A8%98%E6%86%B6_%EF%BD%9E_Untold_Phantastic_Musician.%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="157" height="224" srcset="https://upload.thwiki.cc/thumb/2/2a/%E5%B9%BB%E6%A8%82%E5%9B%A3%E3%81%AE%E8%A8%98%E6%86%B6_%EF%BD%9E_Untold_Phantastic_Musician.%E5%B0%81%E9%9D%A2.jpg/235px-%E5%B9%BB%E6%A8%82%E5%9B%A3%E3%81%AE%E8%A8%98%E6%86%B6_%EF%BD%9E_Untold_Phantastic_Musician.%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/2/2a/%E5%B9%BB%E6%A8%82%E5%9B%A3%E3%81%AE%E8%A8%98%E6%86%B6_%EF%BD%9E_Untold_Phantastic_Musician.%E5%B0%81%E9%9D%A2.jpg/314px-%E5%B9%BB%E6%A8%82%E5%9B%A3%E3%81%AE%E8%A8%98%E6%86%B6_%EF%BD%9E_Untold_Phantastic_Musician.%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="841" data-file-height="1200"></a><div class="cover-char">角色：<a href="./冴月麟.md" title="冴月麟">冴月麟</a></div></td>
@@ -18,8 +19,10 @@
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://nostalgiclock.booth.pm/items/2048223">Booth</a></td></tr></tbody></table>
 
 
+
 ## Staff
 - [ねむ](./ねむ.md)
+
 
 ## 评论
 

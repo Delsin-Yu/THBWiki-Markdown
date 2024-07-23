@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-The_grimoire_of_Patchouli封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/0/09/The_grimoire_of_Patchouli%E5%B0%81%E9%9D%A2.jpg/163px-The_grimoire_of_Patchouli%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="163" height="224" srcset="https://upload.thwiki.cc/thumb/0/09/The_grimoire_of_Patchouli%E5%B0%81%E9%9D%A2.jpg/244px-The_grimoire_of_Patchouli%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/0/09/The_grimoire_of_Patchouli%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="300" data-file-height="413"></a><div class="cover-char">角色：<a href="./帕秋莉·诺蕾姬.md" title="帕秋莉·诺蕾姬">帕秋莉·诺蕾姬</a></div></td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://souffle12.web.fc2.com/reitaisai8/knowledge.html">http://souffle12.web.fc2.com/reitaisai8/knowledge.html</a></td></tr></tbody></table>
 
 The grimoire of Patchouli（同人志，全壊チャット，2011） - 2011年5月8日 由 全壊チャット 于 博丽神社例大祭8 发布的合同志同人志，A5尺寸一共14页，登场人物有 帕秋莉·诺蕾姬，分级为 一般向
+
 ## Staff
 - さぬきち (未找到链接) （[ミズイ亭](http://mizuitei.web.fc2.com/)）
 - びす (未找到链接) （[moromoro](http://linna.blog76.fc2.com/)）
@@ -25,6 +27,7 @@ The grimoire of Patchouli（同人志，全壊チャット，2011） - 2011年5�
 - かしま煌子 (未找到链接) （[DDD](http://dimdomdan.web.fc2.com/)（已经失效））
 - 天地マリリンモン郎 (未找到链接) （[ハムヲチャン](http://hmcn.web.fc2.com/)）
 - [うた](./UTA.md) （[Lapin!!!](http://lamentato.blog25.fc2.com/)）
+
 
 ## 评论
 

@@ -4,6 +4,7 @@
 
 ColorprisM | 社团LOGO
 
+
 ## 摘要
   
 源地址：[direct image link](https://web.archive.org/web/20101231022251im_/http://www.webof.net/colorprism/bannerA.jpg), [source page](https://web.archive.org/web/20120408205810/http://www.webof.net/colorprism/)

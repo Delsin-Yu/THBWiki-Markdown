@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Flower_crown封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/a/a1/Flower_crown%E5%B0%81%E9%9D%A2.png/165px-Flower_crown%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="165" height="224" srcset="https://upload.thwiki.cc/thumb/a/a1/Flower_crown%E5%B0%81%E9%9D%A2.png/247px-Flower_crown%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/a/a1/Flower_crown%E5%B0%81%E9%9D%A2.png/329px-Flower_crown%E5%B0%81%E9%9D%A2.png 2x" data-file-width="697" data-file-height="948"></a><div class="cover-char">角色：<a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a>，<a href="./古明地恋.md" title="古明地恋">古明地恋</a></div></td>
@@ -14,9 +15,12 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/stun_oyik/status/1582317102324555777">https://twitter.com/stun_oyik/status/1582317102324555777</a></td></tr></tbody></table>
 
 Flower crown（同人志，キヨナッツ，2022） - 2022年10月23日 由 キヨナッツ 于 博丽神社秋季例大祭9 发布的漫画同人志，B5尺寸一共18页，登场人物有 芙兰朵露·斯卡蕾特，分级为 一般向
+
 ## 预览
+
 ## Staff
 - [キヨナッツ](./キヨナッツ.md)
+
 
 ## 评论
 

@@ -6,12 +6,14 @@
 
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 软件信息](#软件信息)
 - [2 Staff](#Staff)
 - [3 内容页面](#内容页面)
 - [4 评论](#评论)
+
 
 
 
@@ -24,13 +26,16 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.bilibili.com/video/av23691309">https://www.bilibili.com/video/av23691309</a><br><span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span>发布视频页面</td></tr></tbody></table>
 
 東方謎域関 ~ Puzzles from the Mystic Dimension（同人游戏，RedstoneGate，2018） - 2018年5月20日 由 RedstoneGate  发布的STG同人游戏，可在 Windows 系统上运行，游戏人数为 单人模式，分级为 一般向
+
 ## Staff
 程序
 : RedStoneGate
 
+
 ## 内容页面
 - [攻略](https://www.bilibili.com/video/av23715012)
 - [符卡](./東方謎域関_~_Puzzles_from_the_Mystic_Dimension-符卡.md)
+
 
 ## 评论
 

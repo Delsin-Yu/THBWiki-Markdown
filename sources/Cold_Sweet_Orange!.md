@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Cold_Sweet_Orange!封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/5/54/Cold_Sweet_Orange%21%E5%B0%81%E9%9D%A2.jpg/119px-Cold_Sweet_Orange%21%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="119" height="168" srcset="https://upload.thwiki.cc/thumb/5/54/Cold_Sweet_Orange%21%E5%B0%81%E9%9D%A2.jpg/178px-Cold_Sweet_Orange%21%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/5/54/Cold_Sweet_Orange%21%E5%B0%81%E9%9D%A2.jpg/237px-Cold_Sweet_Orange%21%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="724" data-file-height="1024"></a><div class="cover-char">角色：<a href="./琪露诺.md" title="琪露诺">琪露诺</a>，<a href="./奥莲姬.md" title="奥莲姬">奥莲姬</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/76898134">https://www.pixiv.net/artworks/76898134</a></td></tr></tbody></table>
 
 Cold Sweet Orange!（同人志，北風ライラック6550，2019） - 2019年9月22日 由 北風ライラック6550 于 幺乐团嘉年华！9 发布的漫画同人志，一共16页，分级为 一般向
+
 ## Staff
 : [浜宮南瓜](./浜宮南瓜.md)
+
 
 ## 评论
 

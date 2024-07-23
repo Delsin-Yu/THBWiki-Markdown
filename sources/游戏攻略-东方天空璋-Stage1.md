@@ -23,6 +23,7 @@
 </center>
 - 本词条内容为官方游戏TH16 **东方天空璋** 的敌机符卡
 
+
 ## 爱塔妮缇拉尔瓦
 
 <table>
@@ -36,9 +37,10 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="/%E8%9D%B6%E7%AC%A6%E3%80%8C%E5%87%A4%E8%9D%B6%E7%9A%84%E9%B3%9E%E7%B2%89%E3%80%8D" class="mw-redirect" title="蝶符「凤蝶的鳞粉」">蝶符「凤蝶的鳞粉」</a>
+<p><a href="./蝶符「凤蝶的鳞粉」.md" class="mw-redirect" title="蝶符「凤蝶的鳞粉」">蝶符「凤蝶的鳞粉」</a>
 </p>
 </th></tr></tbody></table>
+
 
 
 ### 蝶符「凤蝶的鳞粉」
@@ -68,9 +70,10 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="/%E8%9D%B6%E7%AC%A6%E3%80%8C%E7%9B%9B%E5%A4%8F%E6%8C%AF%E7%BF%85%E3%80%8D" class="mw-redirect" title="蝶符「盛夏振翅」">蝶符「盛夏振翅」</a>
+<p><a href="./蝶符「盛夏振翅」.md" class="mw-redirect" title="蝶符「盛夏振翅」">蝶符「盛夏振翅」</a>
 </p>
 </th></tr></tbody></table>
+
 
 
 ### 蝶符「盛夏振翅」

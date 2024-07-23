@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-TOHO_ArrangeCD_Jackets_［Loom］封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/f/ff/TOHO_ArrangeCD_Jackets_%EF%BC%BBLoom%EF%BC%BD%E5%B0%81%E9%9D%A2.jpg/196px-TOHO_ArrangeCD_Jackets_%EF%BC%BBLoom%EF%BC%BD%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="196" height="162" srcset="https://upload.thwiki.cc/thumb/f/ff/TOHO_ArrangeCD_Jackets_%EF%BC%BBLoom%EF%BC%BD%E5%B0%81%E9%9D%A2.jpg/294px-TOHO_ArrangeCD_Jackets_%EF%BC%BBLoom%EF%BC%BD%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/f/ff/TOHO_ArrangeCD_Jackets_%EF%BC%BBLoom%EF%BC%BD%E5%B0%81%E9%9D%A2.jpg/392px-TOHO_ArrangeCD_Jackets_%EF%BC%BBLoom%EF%BC%BD%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="800" data-file-height="662"></a><div class="cover-char">角色：<a href="./八云紫.md" title="八云紫">八云紫</a>，<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>，<a href="./西行寺幽幽子.md" title="西行寺幽幽子">西行寺幽幽子</a>，<a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a>，<a href="./铃仙·优昙华院·因幡.md" title="铃仙·优昙华院·因幡">铃仙·优昙华院·因幡</a>，<a href="./封兽鵺.md" title="封兽鵺">封兽鵺</a>，<a href="./八意永琳.md" title="八意永琳">八意永琳</a>，<a href="./东风谷早苗.md" title="东风谷早苗">东风谷早苗</a>，<a href="./射命丸文.md" title="射命丸文">射命丸文</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/29170969">https://www.pixiv.net/artworks/29170969</a><br><a rel="nofollow" class="external free" href="http://taraspa.sakura.ne.jp/c82.html">http://taraspa.sakura.ne.jp/c82.html</a><br><span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><small>（<a rel="nofollow" class="external text" href="https://web.archive.org/web/20130120051609/http://taraspa.sakura.ne.jp/c82.html">缓存页面</a>）</small></td></tr><tr><td class="label">备注</td><td colspan="2">专辑封面总集</td></tr></tbody></table>
 
 TOHO ArrangeCD Jackets ［Loom］（同人志，タラコスパ，2012） - 2012年8月11日 由 タラコスパ 于 Comic Market 82 发布的画集/总集同人志，B5尺寸一共32页，分级为 一般向
+
 ## Staff
 - [ろんど（人物）](./Rondo.md)
+
 
 ## 评论
 

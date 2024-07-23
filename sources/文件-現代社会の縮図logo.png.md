@@ -4,6 +4,7 @@
 
 現代社会の縮図 | 社团LOGO
 
+
 ## 摘要
   
 源地址：[direct image link](http://gendaisyakainosyukuzu.web.fc2.com/img/toplogo02.png), [source page](http://gendaisyakainosyukuzu.web.fc2.com/)

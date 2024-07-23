@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Chaos（黒甜郷裏）封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/a/ac/Chaos%EF%BC%88%E9%BB%92%E7%94%9C%E9%83%B7%E8%A3%8F%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/99px-Chaos%EF%BC%88%E9%BB%92%E7%94%9C%E9%83%B7%E8%A3%8F%EF%BC%89%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="99" height="140" srcset="https://upload.thwiki.cc/thumb/a/ac/Chaos%EF%BC%88%E9%BB%92%E7%94%9C%E9%83%B7%E8%A3%8F%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/149px-Chaos%EF%BC%88%E9%BB%92%E7%94%9C%E9%83%B7%E8%A3%8F%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/a/ac/Chaos%EF%BC%88%E9%BB%92%E7%94%9C%E9%83%B7%E8%A3%8F%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/198px-Chaos%EF%BC%88%E9%BB%92%E7%94%9C%E9%83%B7%E8%A3%8F%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1280" data-file-height="1806"></a><div class="cover-char">角色：<a href="./宇佐见莲子.md" title="宇佐见莲子">宇佐见莲子</a>，<a href="./玛艾露贝莉·赫恩.md" title="玛艾露贝莉·赫恩">玛艾露贝莉·赫恩</a></div></td>
@@ -14,12 +15,15 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/kyoto_shirayui/status/1583418231817048065">https://twitter.com/kyoto_shirayui/status/1583418231817048065</a><br><a rel="nofollow" class="external free" href="https://twitter.com/kyoto_shirayui/status/1565951019997331456">https://twitter.com/kyoto_shirayui/status/1565951019997331456</a><br><a rel="nofollow" class="external free" href="https://sites.google.com/view/kokuten-kyori/秘封小説">https://sites.google.com/view/kokuten-kyori/秘封小説</a></td></tr></tbody></table>
 
 Chaos（同人志，黒甜郷裏，2022） - 2022年9月11日 由 黒甜郷裏 于 科学世纪的露天咖啡座11 发布的小说同人志，分级为 一般向
+
 ## 预览
+
 ## Staff
 Author
 : しらゆい （[黒甜郷裏](./黒甜郷裏.md)）
 Illustration
 : [マイナス](./マイナス.md)
+
 
 ## 评论
   

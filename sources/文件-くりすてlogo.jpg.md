@@ -4,6 +4,7 @@
 
 くりすて | 社团LOGO
 
+
 ## 文件说明
   
 源地址：[direct image link](https://web.archive.org/web/20101229190235im_/http://curisute.net/image/rogo.jpg), [source page](https://web.archive.org/web/20101229190133/http://curisute.net/)

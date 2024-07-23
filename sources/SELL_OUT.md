@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-SELL_OUT封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/5/54/SELL_OUT%E5%B0%81%E9%9D%A2.jpg/119px-SELL_OUT%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="119" height="168" srcset="https://upload.thwiki.cc/thumb/5/54/SELL_OUT%E5%B0%81%E9%9D%A2.jpg/178px-SELL_OUT%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/5/54/SELL_OUT%E5%B0%81%E9%9D%A2.jpg/238px-SELL_OUT%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="516" data-file-height="729"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>，<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a>，<a href="./幽谷响子.md" title="幽谷响子">幽谷响子</a></div></td>
@@ -14,9 +15,12 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/46268917">https://www.pixiv.net/artworks/46268917</a></td></tr></tbody></table>
 
 SELL OUT（同人志，マルハチレコード，2014） - 2014年10月12日 由 マルハチレコード 于 东方红楼梦10 发布的画集同人志，一共28页，登场人物有 博丽灵梦、雾雨魔理沙、幽谷响子、封兽鵺、米斯蒂娅·萝蕾拉、宇佐见莲子、玛艾露贝莉·赫恩，分级为 一般向
+
 ## 预览
+
 ## Staff
 - マルハチ (未找到链接)
+
 
 ## 评论
 

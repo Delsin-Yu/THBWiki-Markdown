@@ -4,7 +4,8 @@
 
 poplica* ，于 2008 年成立，主要制作 同人音乐 的日本同人社团，主催是 TAK-sk，当前状态为 休止
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -15,14 +16,17 @@ poplica* ，于 2008 年成立，主要制作 同人音乐 的日本同人社团
 
 
 
+
 ## 社团信息
 [](./文件-Poplica-_banner.png.md)  [](./文件-Poplica-_banner.png.md)Banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> poplica* </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2008</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>主催</b></td><td> <a href="./TAK-sk.md" title="TAK-sk">TAK-sk</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://poplica.info/">http://poplica.info/</a> <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span></td></tr></tbody></table>
 
 Poplica＊（同人社团，同人音乐社团） - poplica* ，于 2008 年成立，主要制作 同人音乐 的日本同人社团，主催是 TAK-sk，当前状态为 休止
+
 ## 成员名单
 - [TAK-sk](./TAK-sk.md)
+
 
 ## 作品列表
 [](./Replica＊.md)[Replica*](./Replica＊.md)首发日期：2010-08-14 （Comic Market 78 (未找到链接)）SSC-0004全长 （一般向）该作品是与 [Studio “Syrup Comfiture”](./Studio_“Syrup_Comfiture”.md) 合作创作的[](./Live_A-Round.md)[Live A-Round](./Live_A-Round.md)首发日期：2010-12-30 （Comic Market 79 (未找到链接)）SSC-0006全长 （一般向）该作品是与 [Studio “Syrup Comfiture”](./Studio_“Syrup_Comfiture”.md) 合作创作的[](./LoveBest.md)[LoveBest](./LoveBest.md)首发日期：2011-05-08 （第八回 博麗神社例大祭 (未找到链接)）SSC-0007精选集、​全长 （一般向）该作品是与 [Studio “Syrup Comfiture”](./Studio_“Syrup_Comfiture”.md) 合作创作的[](./love（Poplica＊）.md)[love](./love（Poplica＊）.md)首发日期：2011-08-13 （Comic Market 80 (未找到链接)）SSC-0009全长 （一般向）该作品是与 [Studio “Syrup Comfiture”](./Studio_“Syrup_Comfiture”.md) 合作创作的[](./Poptrick.md)[Poptrick](./Poptrick.md)首发日期：2012-05-27 （第九回 博麗神社例大祭 (未找到链接)）LICA-0001全长 （一般向）
@@ -36,6 +40,7 @@ Poplica＊（同人社团，同人音乐社团） - poplica* ，于 2008 年成�
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 其他信息

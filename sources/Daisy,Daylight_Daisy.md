@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Daisy,Daylight_Daisy封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/d/d0/Daisy%2CDaylight_Daisy%E5%B0%81%E9%9D%A2.jpg/161px-Daisy%2CDaylight_Daisy%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="161" height="224" srcset="https://upload.thwiki.cc/thumb/d/d0/Daisy%2CDaylight_Daisy%E5%B0%81%E9%9D%A2.jpg/241px-Daisy%2CDaylight_Daisy%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/d/d0/Daisy%2CDaylight_Daisy%E5%B0%81%E9%9D%A2.jpg/322px-Daisy%2CDaylight_Daisy%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="800" data-file-height="1113"></a><div class="cover-char">角色：<a href="./稗田阿求.md" title="稗田阿求">稗田阿求</a>，<a href="./风见幽香.md" title="风见幽香">风见幽香</a>，<a href="./射命丸文.md" title="射命丸文">射命丸文</a>，<a href="./伊吹萃香.md" title="伊吹萃香">伊吹萃香</a>，<a href="/index.php?title=%E5%8E%9F%E5%88%9B%E8%A7%92%E8%89%B2&amp;action=edit&amp;redlink=1" class="new" title="原创角色（页面不存在）">原创角色</a></div></td>
@@ -13,8 +14,10 @@
 </tr><tr><td class="label">首发日期</td><td>2008-12-29&#160;（<a href="/展会作品列表?e=Comic+Market%2375">Comic Market 75</a>）</td></tr><tr><td class="label">类型</td><td>漫画</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>B4</td></tr><tr><td class="label">页数</td><td>58P</td></tr><tr><td class="label">登场人物</td><td><a href="./稗田阿求.md" title="稗田阿求">稗田阿求</a>，<a href="./风见幽香.md" title="风见幽香">风见幽香</a></td></tr><tr><td class="label">售价</td><td>通贩售价：680日元</td></tr></tbody></table>
 
 Daisy,Daylight Daisy（同人志，ビタミンごはん，2008） - 2008年12月29日 由 ビタミンごはん 于 Comic Market 75 发布的漫画同人志，B4尺寸一共58页，登场人物有 稗田阿求、风见幽香，分级为 一般向
+
 ## Staff
 - はせがわけいた
+
 
 ## 评论
 

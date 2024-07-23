@@ -4,7 +4,8 @@
 
 Girl's short hair ，于 2009 年成立，主要制作 同人音乐 的日本同人社团，主催是 yonji，当前状态为 休止
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -15,16 +16,19 @@ Girl's short hair ，于 2009 年成立，主要制作 同人音乐 的日本同
 
 
 
+
 ## 社团信息
 [](./文件-Girl's_short_hair_banner.png.md)  [](./文件-Girl's_short_hair_banner.png.md)banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Girl&#39;s short hair </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2009</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>主催</b></td><td> <a href="./yonji.md" title="yonji">yonji</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://girlsshorthair.iaigiri.com">http://girlsshorthair.iaigiri.com</a> </td></tr></tbody></table>
 
 Girl's short hair（同人社团，同人音乐社团） - Girl's short hair ，于 2009 年成立，主要制作 同人音乐 的日本同人社团，主催是 yonji，当前状态为 休止
+
 ## 成员名单
 - [yonji](./yonji.md)
 - -nim- (未找到链接)
 - [やよいちゃん](./やよいちゃん.md)
+
 
 ## 作品列表
 [](./Silver_Blossom.md)[Silver Blossom](./Silver_Blossom.md)首发日期：2009-05-05 （M3-2009春 (未找到链接)）EP （一般向）[](./幻想夜景.md)[幻想夜景](./幻想夜景.md)首发日期：2009-08-15 （Comic Market 76 (未找到链接)）GSH-0001全长 （一般向）[](./境界線.md)[境界線](./境界線.md)首发日期：2009-12-30 （Comic Market 77 (未找到链接)）GSH-0002EP （一般向）[](./幻想魔法.md)[幻想魔法](./幻想魔法.md)首发日期：2010-03-14 （第七回 博麗神社例大祭 (未找到链接)）GSH-0003全长 （一般向）[](./迷い家へようこそ.md)[迷い家へようこそ](./迷い家へようこそ.md)首发日期：2010-05-05 （M3-2010春 (未找到链接)）GSH-0004EP （一般向）[](./幻想輪廻.md)[幻想輪廻](./幻想輪廻.md)首发日期：2010-12-30 （Comic Market 79 (未找到链接)）GSH-0005全长 （一般向）[](./流星スピード.md)[流星スピード](./流星スピード.md)首发日期：2011-05-08 （第八回 博麗神社例大祭 (未找到链接)）GSH-0006EP （一般向）[](./幻想世界.md)[幻想世界](./幻想世界.md)首发日期：2011-12-30 （Comic Market 81 (未找到链接)）GSH-0007全长 （一般向）[](./幻想夜景_-reboot-.md)[幻想夜景 -reboot-](./幻想夜景_-reboot-.md)首发日期：2012-05-27 （第九回 博麗神社例大祭 (未找到链接)）全长、​重制 （一般向）
@@ -46,6 +50,7 @@ Girl's short hair（同人社团，同人音乐社团） - Girl's short hair ，
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 参展信息

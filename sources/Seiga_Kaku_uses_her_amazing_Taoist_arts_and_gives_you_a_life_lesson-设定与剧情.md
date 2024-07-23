@@ -14,6 +14,7 @@ The wicked hermit Seiga Kaku uses her Taoist arts to help you achieve your goals
 霍青娥将会用她的道教理念帮助你实现你的目标，成为一个更好的人。
   
 
+
 ## 关于这款游戏
   
 Let the wicked hermit Seiga Kaku share her Taoist wisdom with you.  
@@ -36,6 +37,7 @@ And don't die.
 
 还有，别死。
   
+
 
 ## Features（特点）
   

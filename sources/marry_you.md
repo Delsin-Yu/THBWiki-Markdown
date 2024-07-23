@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-marry_you封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/9/98/marry_you%E5%B0%81%E9%9D%A2.jpg/222px-marry_you%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="222" height="224" srcset="https://upload.thwiki.cc/thumb/9/98/marry_you%E5%B0%81%E9%9D%A2.jpg/333px-marry_you%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/9/98/marry_you%E5%B0%81%E9%9D%A2.jpg/444px-marry_you%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1500" data-file-height="1512"></a><div class="cover-char">角色：<a href="./爱丽丝·玛格特洛依德.md" title="爱丽丝·玛格特洛依德">爱丽丝·玛格特洛依德</a>，<a href="./帕秋莉·诺蕾姬.md" title="帕秋莉·诺蕾姬">帕秋莉·诺蕾姬</a></div></td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://weibo.com/1751943294/Be2OTe9Ce">https://weibo.com/1751943294/Be2OTe9Ce</a></td></tr></tbody></table>
 
 marry you（同人专辑，雪见温泉社，2014） - 2014年7月19日 由 雪见温泉社 于 COMIDAY14 发布的全长同人专辑，分级为 一般向
+
 ## Staff
   
  **Compose**   
@@ -36,6 +38,7 @@ Design
 Illustration
 : 三千小纯
 
+
 ## 曲目列表
 
 <table><tbody><tr><td id="1" class="infoRL"><b>01</b></td><td id="幸せはそこに在る" colspan="2" class="title">幸せはそこに在る<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=跟弃&amp;vocal=步束，若池&amp;lyric=阿呆様&amp;fromwiki=marry_you"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:58</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=%E8%B7%9F%E5%BC%83&amp;action=edit&amp;redlink=1" class="new" title="跟弃（页面不存在）">跟弃</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，跟弃&amp;fromwiki=marry_you"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="/index.php?title=%E6%AD%A5%E6%9D%9F&amp;action=edit&amp;redlink=1" class="new" title="步束（页面不存在）">步束</a>，<a href="/index.php?title=%E8%8B%A5%E6%B1%A0&amp;action=edit&amp;redlink=1" class="new" title="若池（页面不存在）">若池</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=步束，若池&amp;fromwiki=marry_you"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="/index.php?title=%E9%98%BF%E5%91%86%E6%A7%98&amp;action=edit&amp;redlink=1" class="new" title="阿呆様（页面不存在）">阿呆様</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?lyric=阿呆様&amp;fromwiki=marry_you"><span></span></a></span></td></tr>
@@ -44,6 +47,7 @@ Illustration
 <tr><td id="4" class="infoYL"><b>04</b></td><td id="縁の糸-八音盒ver~星空の下の魔法~" colspan="2" class="title">縁の糸-八音盒ver~星空の下の魔法~<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=跟弃&amp;fromwiki=marry_you"><span title="搜索相似同人曲"></span></a></span></td><td class="time">01:25</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=%E8%B7%9F%E5%BC%83&amp;action=edit&amp;redlink=1" class="new" title="跟弃（页面不存在）">跟弃</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=跟弃，&amp;fromwiki=marry_you"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">初发布</td><td class="text" colspan="2"><a href="/marry_you#2" title="marry you">縁の糸</a><div class="source"><a class="mw-selflink selflink">marry you</a></div></td></tr>
 <tr><td id="5" class="infoYL"><b>05</b></td><td id="幸せはそこに在る(off_vocal)" colspan="2" class="title">幸せはそこに在る(off vocal)<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=跟弃&amp;fromwiki=marry_you"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:58</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=%E8%B7%9F%E5%BC%83&amp;action=edit&amp;redlink=1" class="new" title="跟弃（页面不存在）">跟弃</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=跟弃，&amp;fromwiki=marry_you"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">初发布</td><td class="text" colspan="2"><a href="/marry_you#1" title="marry you">幸せはそこに在る</a><div class="source"><a class="mw-selflink selflink">marry you</a></div></td></tr>
 <tr><td id="6" class="infoYL"><b>06</b></td><td id="縁の糸(off_vocal)" colspan="2" class="title">縁の糸(off vocal)<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=跟弃&amp;fromwiki=marry_you"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:50</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=%E8%B7%9F%E5%BC%83&amp;action=edit&amp;redlink=1" class="new" title="跟弃（页面不存在）">跟弃</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=跟弃，&amp;fromwiki=marry_you"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">初发布</td><td class="text" colspan="2"><a href="/marry_you#2" title="marry you">縁の糸</a><div class="source"><a class="mw-selflink selflink">marry you</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

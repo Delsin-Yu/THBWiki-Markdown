@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-My_present封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/3/33/My_present%E5%B0%81%E9%9D%A2.jpg/140px-My_present%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="140" height="196" srcset="https://upload.thwiki.cc/thumb/3/33/My_present%E5%B0%81%E9%9D%A2.jpg/211px-My_present%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/3/33/My_present%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="215" data-file-height="300"></a><div class="cover-char">角色：<a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://ffkaiura.sakura.ne.jp/kaiunhuruihon.html">http://ffkaiura.sakura.ne.jp/kaiunhuruihon.html</a></td></tr></tbody></table>
 
 My present（同人志，泥舟海運） - 2024年6月22日 由 泥舟海運  发布的漫画同人志，B5尺寸一共28页，分级为 一般向
+
 ## Staff
 - [こうば](./こうば.md)
+
 
 ## 评论
 

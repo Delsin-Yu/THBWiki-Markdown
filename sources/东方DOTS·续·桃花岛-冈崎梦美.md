@@ -164,6 +164,7 @@
 [](./文件-THD2冈崎梦美.png.md)
   
 
+
 ## 目录
 
 - [1 角色定位](#角色定位)
@@ -184,10 +185,12 @@
 
 
 
+
 ## 角色定位
   
 核心 - 逃生 - 爆发
   
+
 
 ## 技能介绍
 
@@ -789,6 +792,7 @@
 </td></tr></tbody></table>
 
 
+
 ## 天赋树
 
 
@@ -833,25 +837,30 @@
 Strawberry Crisis！！：「四次元核弹」引导时召唤6个十字架，每有一个十字架增加30伤害。召唤的6个十字架可在原有的基础上叠加
   
 
+
 #### 出门装备
 ```
 [](./文件-THD2衰人卡.png.md) [](./文件-THD2天狗护符.png.md) [](./文件-THD2思兼生命药.png.md) [](./文件-THD2雾雨魔力瓶.png.md)
 ```
+
 
 #### 前期装备
 ```
 [](./文件-THD2博丽供奉箱.png.md) [](./文件-THD2元素秘法石.png.md) [](./文件-THD2魔法使扫把.png.md)
 ```
 
+
 #### 核心装备
 ```
 [](./文件-THD2魔力扫把.png.md) [](./文件-THD2魔人经卷.png.md) [](./文件-THD2月面之弓弦.png.md)
 ```
 
+
 #### 可选装备
 ```
 [](./文件-THD2油库里之杖.png.md)  [](./文件-THD2神枪冈格尼尔.png.md)  [](./文件-THD2月曜秘石.png.md)  [](./文件-THD2月面之弩.png.md)  [](./文件-THD2楼观剑.png.md)  [](./文件-THD2博丽神社护身符.png.md)  [](./文件-THD2恶魔的乳牙.png.md)  [](./文件-THD2土蜘蛛之丝.png.md)  [](./文件-THD2魔法使的帽子.png.md)
 ```
+
 
 ## 技能加点
 
@@ -913,6 +922,7 @@ Strawberry Crisis！！：「四次元核弹」引导时召唤6个十字架，�
 <td><a href="./文件-DOTA黄点.png.md" class="image" title="+2 全属性"><img alt="+2 全属性" src="https://upload.thwiki.cc/thumb/d/da/DOTA%E9%BB%84%E7%82%B9.png/40px-DOTA%E9%BB%84%E7%82%B9.png" decoding="async" loading="lazy" width="40" height="40" srcset="https://upload.thwiki.cc/thumb/d/da/DOTA%E9%BB%84%E7%82%B9.png/60px-DOTA%E9%BB%84%E7%82%B9.png 1.5x, https://upload.thwiki.cc/thumb/d/da/DOTA%E9%BB%84%E7%82%B9.png/80px-DOTA%E9%BB%84%E7%82%B9.png 2x" data-file-width="128" data-file-height="128"></a></td>
 <td><a href="./文件-THD2天赋树25右.png.md" class="image" title="+1 十字架叠加"><img alt="+1 十字架叠加" src="https://upload.thwiki.cc/thumb/5/5b/THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%8F%B3.png/40px-THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%8F%B3.png" decoding="async" loading="lazy" width="40" height="40" srcset="https://upload.thwiki.cc/thumb/5/5b/THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%8F%B3.png/60px-THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%8F%B3.png 1.5x, https://upload.thwiki.cc/thumb/5/5b/THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%8F%B3.png/80px-THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%8F%B3.png 2x" data-file-width="103" data-file-height="103"></a>
 </td></tr></tbody></table>
+
 
 
 ## 台词
@@ -1104,6 +1114,7 @@ Strawberry Crisis！！：「四次元核弹」引导时召唤6个十字架，�
 </td>
 <td>やはり現実とは、幻想のレバース<br>[现实果然是幻想的反演]
 </td></tr></tbody></table>
+
 
 
 ## 教学视频

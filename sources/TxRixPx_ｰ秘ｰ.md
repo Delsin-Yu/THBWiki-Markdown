@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-TxRixPx_ｰ秘ｰ封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/9/9a/TxRixPx_%EF%BD%B0%E7%A7%98%EF%BD%B0%E5%B0%81%E9%9D%A2.png/99px-TxRixPx_%EF%BD%B0%E7%A7%98%EF%BD%B0%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="99" height="140" srcset="https://upload.thwiki.cc/thumb/9/9a/TxRixPx_%EF%BD%B0%E7%A7%98%EF%BD%B0%E5%B0%81%E9%9D%A2.png/148px-TxRixPx_%EF%BD%B0%E7%A7%98%EF%BD%B0%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/9/9a/TxRixPx_%EF%BD%B0%E7%A7%98%EF%BD%B0%E5%B0%81%E9%9D%A2.png/197px-TxRixPx_%EF%BD%B0%E7%A7%98%EF%BD%B0%E5%B0%81%E9%9D%A2.png 2x" data-file-width="2039" data-file-height="2893"></a></td>
@@ -14,10 +15,13 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/tennnoumi/status/1103624730571993089">https://twitter.com/tennnoumi/status/1103624730571993089</a><br><a rel="nofollow" class="external free" href="https://twitter.com/tennnoumi/status/1104337650398388225">https://twitter.com/tennnoumi/status/1104337650398388225</a></td></tr></tbody></table>
 
 TxRixPx ｰ秘ｰ（同人志，Parallel Station，2019） - 2019年3月10日 由 Parallel Station 于 御阿礼祭6 发布的小说同人志，分级为 一般向
+
 ## 预览
+
 ## Staff
 作者
 : てんのうみ （[Parallel Station](./Parallel_Station.md)）
+
 
 ## 评论
 

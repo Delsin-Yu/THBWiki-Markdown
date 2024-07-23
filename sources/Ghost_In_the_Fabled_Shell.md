@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Ghost_In_the_Fabled_Shell封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/5/55/Ghost_In_the_Fabled_Shell%E5%B0%81%E9%9D%A2.jpg/224px-Ghost_In_the_Fabled_Shell%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="224" srcset="https://upload.thwiki.cc/thumb/5/55/Ghost_In_the_Fabled_Shell%E5%B0%81%E9%9D%A2.jpg/336px-Ghost_In_the_Fabled_Shell%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/5/55/Ghost_In_the_Fabled_Shell%E5%B0%81%E9%9D%A2.jpg/448px-Ghost_In_the_Fabled_Shell%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1000" data-file-height="1000"></a><div class="cover-char">角色：<a href="/%E8%93%AC%E8%8E%B1%E4%BA%BA%E5%BD%A2#封面角色" title="蓬莱人形">蓬莱人形C62版碟面少女</a></div></td>
@@ -14,11 +15,13 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://music.163.com/#/album?id=149480729">https://music.163.com/#/album?id=149480729</a></td></tr><tr><td class="label">备注</td><td colspan="2">蓬莱人形20周年纪念</td></tr></tbody></table>
 
 Ghost In the Fabled Shell（同人专辑，Dia Schisma，2022） - 2022年8月10日 由 Dia Schisma  发布的单曲同人专辑，曲目主要风格是 古典、民族、其他电子，分级为 一般向
+
 ## Staff
   
  **Arrangement**   
 
 <table><tbody><tr><td><a href="/index.php?title=Avin&amp;action=edit&amp;redlink=1" class="new" title="Avin（页面不存在）">Avin</a></td><td><a href="./Dia_Schisma.md" title="Dia Schisma">Dia Schisma</a></td><td>Tr.1</td></tr></tbody></table>
+
 
 
 ## 试听
@@ -27,9 +30,11 @@ Ghost In the Fabled Shell（同人专辑，Dia Schisma，2022） - 2022年8月10
 
   
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Ghost_In_the_Fabled_Shell" colspan="2" class="title">Ghost In the Fabled Shell<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Avin&amp;ogmusic=蓬莱伝説&amp;fromwiki=Ghost_In_the_Fabled_Shell"><span title="搜索相似同人曲"></span></a></span></td><td class="time">06:29</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=Avin&amp;action=edit&amp;redlink=1" class="new" title="Avin（页面不存在）">Avin</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Avin&amp;fromwiki=Ghost_In_the_Fabled_Shell"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=蓬莱伝説&amp;fromwiki=Ghost_In_the_Fabled_Shell"><span></span></a></span><div class="ogmusic"><a href="/%E8%93%AC%E8%8E%B1%E4%BC%9D%E8%AA%AC" class="mw-redirect" title="蓬莱伝説">蓬莱伝説</a></div><div class="source"><a href="/%E8%93%AC%E8%8E%B1%E4%BA%BA%E5%BD%A2_%EF%BD%9E_Dolls_in_Pseudo_Paradise" class="mw-redirect" title="蓬莱人形 ～ Dolls in Pseudo Paradise">蓬莱人形　～ Dolls in Pseudo Paradise</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Ghost_In_the_Fabled_Shell" colspan="2" class="title">Ghost In the Fabled Shell<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Avin&amp;ogmusic=蓬莱伝説&amp;fromwiki=Ghost_In_the_Fabled_Shell"><span title="搜索相似同人曲"></span></a></span></td><td class="time">06:29</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=Avin&amp;action=edit&amp;redlink=1" class="new" title="Avin（页面不存在）">Avin</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Avin&amp;fromwiki=Ghost_In_the_Fabled_Shell"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=蓬莱伝説&amp;fromwiki=Ghost_In_the_Fabled_Shell"><span></span></a></span><div class="ogmusic"><a href="./蓬莱伝説.md" class="mw-redirect" title="蓬莱伝説">蓬莱伝説</a></div><div class="source"><a href="./蓬莱人形_～_Dolls_in_Pseudo_Paradise.md" class="mw-redirect" title="蓬莱人形 ～ Dolls in Pseudo Paradise">蓬莱人形　～ Dolls in Pseudo Paradise</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

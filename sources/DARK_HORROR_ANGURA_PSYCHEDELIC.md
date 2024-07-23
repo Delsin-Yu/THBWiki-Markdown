@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-DARK_HORROR_ANGURA_PSYCHEDELIC封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/6/6a/DARK_HORROR_ANGURA_PSYCHEDELIC%E5%B0%81%E9%9D%A2.png/119px-DARK_HORROR_ANGURA_PSYCHEDELIC%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="119" height="168" srcset="https://upload.thwiki.cc/thumb/6/6a/DARK_HORROR_ANGURA_PSYCHEDELIC%E5%B0%81%E9%9D%A2.png/179px-DARK_HORROR_ANGURA_PSYCHEDELIC%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/6/6a/DARK_HORROR_ANGURA_PSYCHEDELIC%E5%B0%81%E9%9D%A2.png/239px-DARK_HORROR_ANGURA_PSYCHEDELIC%E5%B0%81%E9%9D%A2.png 2x" data-file-width="2109" data-file-height="2963"></a><div class="cover-char">角色：<a href="./古明地恋.md" title="古明地恋">古明地恋</a></div></td>
@@ -16,6 +17,7 @@
 DARK HORROR ANGURA PSYCHEDELIC（同人志，東条堂，2020） - 2020年10月18日 由 東条堂 于 博丽神社秋季例大祭7 发布的合同志同人志，一共72页，分级为 一般向
 
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://eiji-toujyou.booth.pm/items/2450545">Booth</a></td></tr></tbody></table>
+
 
 
 ## Staff
@@ -42,6 +44,7 @@ DARK HORROR ANGURA PSYCHEDELIC（同人志，東条堂，2020） - 2020年10月1
 : ツナ爪 （[Twitter: @tunatume18](https://twitter.com/tunatume18)）
 : まみる （[Twitter: @aqua067](https://twitter.com/aqua067)）
 : 龍足 （毒毒園 (未找到链接)）
+
 
 ## 评论
 

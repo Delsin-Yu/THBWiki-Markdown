@@ -8,6 +8,7 @@ SlimeSmile
 本页面用于收录东方百花宴中使用的音乐素材及评论
   
 
+
 ## 目录
 
 - [1 花映冢 ～ after Higan Retour](#花映冢_～_after_Higan_Retour)
@@ -29,6 +30,7 @@ SlimeSmile
 
 
 
+
 ## 花映冢 ～ after Higan Retour
   
 花映冢的主题曲  
@@ -36,6 +38,7 @@ SlimeSmile
 出自「东方文花帖」附属CD。  
 
   
+
 
 ## 春色小路 ～ the Colorful Alley
   
@@ -45,6 +48,7 @@ SlimeSmile
 
   
 
+
 ## 悪戯に命を賭けて ～ Trick or Die
   
 出自「冰弹奏结界 妖精战奏曲」。  
@@ -53,6 +57,7 @@ SlimeSmile
 
   
 
+
 ## 嘆きのWhiteFlower
   
 出自「炼狱庭园」音乐素材屋  
@@ -60,6 +65,7 @@ SlimeSmile
 2面的节奏应该要慢一点，不过是不是有点太慢了…  
 
   
+
 
 ## Sleeping Terror
   
@@ -71,6 +77,7 @@ SlimeSmile
 
   
 
+
 ## 彼岸帰航 ～ Titanic of Stygian
   
 出自「深弹奏结界 散华嬉游曲」。  
@@ -79,6 +86,7 @@ SlimeSmile
 
   
 
+
 ## 火龍狂演-Karyuu Kyouen-
   
 出自「炼狱庭园」音乐素材屋  
@@ -86,6 +94,7 @@ SlimeSmile
 原作小町的BGM只有彼岸巡航，因此为3面的Boss战重选了这段曲子。实际上这段曲子后半段很不错，可惜游戏中只循环了前半部分…  
 
   
+
 
 ## 究極の真実　～ the Ultimate Truth
   
@@ -97,6 +106,7 @@ SlimeSmile
 
   
 
+
 ## Life stream -Sacrifice-
   
 出自「墨染 DISC 雅」  
@@ -105,6 +115,7 @@ SlimeSmile
 
   
 
+
 ## 未知の花 魅知の旅
   
 出自「未知の花 魅知の旅」（ZUN's Music Collection Vol.5.5）  
@@ -112,6 +123,7 @@ SlimeSmile
 和5面的主题还算贴切吧。  
 
   
+
 
 ## PHASE
   
@@ -125,6 +137,7 @@ SlimeSmile
 
   
 
+
 ## chloe
   
 出自十年前的动画「Noir」（黑街二人组）  
@@ -132,6 +145,7 @@ SlimeSmile
 动画中是克洛维的BGM，高贵冷艳而且无情的杀手，美丽而又琢磨不透，这不就是6面的感觉吗（误）  
 
   
+
 
 ## 死闘は凛然なりて
   
@@ -143,6 +157,7 @@ SlimeSmile
 
   
 
+
 ## 花は散り、罪は幻想に
   
 出自「深弹奏结界 散华嬉游曲」。  
@@ -150,6 +165,7 @@ SlimeSmile
 原曲是花映冢的ED曲。  
 
   
+
 
 ## 春色小径 ～ Colorful Path
   

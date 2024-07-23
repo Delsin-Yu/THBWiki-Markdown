@@ -4,8 +4,9 @@
 
 超東方LIVEステージ 在 日本千叶、川崎 举办的  东方同人LIVE活动，目前共举办了6届
 
-本页是关于 **同人展会 (未找到链接)**   
-及 **相关活动 (未找到链接)** 的词条
+本页是关于 **[同人展会](./同人展会.md#展会类活动)**   
+及 **[相关活动](./相关活动.md)** 的词条
+
 ## 目录
 
 - [1 概述](#概述)
@@ -20,6 +21,7 @@
 
 
 - [5 注释](#注释)
+
 
 
 
@@ -61,7 +63,7 @@
   
   
   
-日本 **千叶、川崎** 的东方Project Only **同人拼盘LIVE类活动 (未找到链接)** 。  
+日本 **千叶、川崎** 的东方Project Only **同人拼盘[LIVE类活动](./LIVE类活动.md#LIVE类活动)** 。  
   
 在千叶、川崎举办。  
 直到目前为止，已经举办了6届（包含已决定将会举办）。  
@@ -78,6 +80,7 @@
 官方推特： [https://twitter.com/hakurei_sukei](https://twitter.com/hakurei_sukei) （需要翻墙）  
   
 超东方LIVE舞台（活动，LIVE活动） - 超東方LIVEステージ 在 日本千叶、川崎 举办的  东方同人LIVE活动，目前共举办了6届
+
 ## 历届信息
 - 点击届数可进入对应分类页面
 
@@ -93,30 +96,35 @@
 </tbody></table>
 
 
+
 ## 演出社团及人员
 超东方LIVE舞台2018
 : [A-One](./A-One.md)、[魂音泉](./魂音泉.md)、[森羅万象](./森羅万象.md)、[IOSYS](./IOSYS.md)、[石鹸屋](./石鹸屋.md)、[幽闭星光](./幽闭星光.md)、[東京アクティブNEETs](./東京アクティブNEETs.md)、[少女フラクタル](./少女フラクタル.md)、[DiGiTAL WiNG](./DiGiTAL_WiNG.md)、[Alstroemeria Records](./Alstroemeria_Records.md)、[豚乙女](./豚乙女.md)、[COOL&amp;CREATE](./COOL&CREATE.md)
 超东方LIVE舞台2019
 : [IRON ATTACK!](./IRON_ATTACK!.md)、[EastNewSound](./EastNewSound.md)、[A-One](./A-One.md)、[COOL&amp;CREATE](./COOL&CREATE.md)、[石鹸屋](./石鹸屋.md)、[DiGiTAL WiNG](./DiGiTAL_WiNG.md)、[舞音KAGURA](./舞音KAGURA.md)、[Alstroemeria Records](./Alstroemeria_Records.md)、[岸田教团](./岸田教团.md)、[森羅万象](./森羅万象.md)、[魂音泉](./魂音泉.md)、[東京アクティブNEETs](./東京アクティブNEETs.md)、[豚乙女](./豚乙女.md)、[幽闭星光](./幽闭星光.md)
 超东方LIVE舞台2021
-: [A-One](./A-One.md)、[COOL&amp;CREATE](./COOL&CREATE.md)、[魂音泉](./魂音泉.md)、[東京アクティブNEETs](./東京アクティブNEETs.md)、幽閉サテライト (未找到链接)、[Alstroemeria Records](./Alstroemeria_Records.md)、[豚乙女](./豚乙女.md)、[石鹸屋](./石鹸屋.md)、[DiGiTAL WiNG](./DiGiTAL_WiNG.md)、[まらしぃ](./まらしぃ.md)
+: [A-One](./A-One.md)、[COOL&amp;CREATE](./COOL&CREATE.md)、[魂音泉](./魂音泉.md)、[東京アクティブNEETs](./東京アクティブNEETs.md)、[幽閉サテライト](./幽閉サテライト.md)、[Alstroemeria Records](./Alstroemeria_Records.md)、[豚乙女](./豚乙女.md)、[石鹸屋](./石鹸屋.md)、[DiGiTAL WiNG](./DiGiTAL_WiNG.md)、[まらしぃ](./まらしぃ.md)
 超东方LIVE舞台2022
-: [森羅万象](./森羅万象.md)、[DiGiTAL WiNG](./DiGiTAL_WiNG.md)、[Alstroemeria Records](./Alstroemeria_Records.md)、[TaNaBaTa](./TaNaBaTa.md)、[豚乙女](./豚乙女.md)、[岸田教団&amp;THE明星ロケッツ](./岸田教団&THE明星ロケッツ.md)、[IOSYS](./IOSYS.md)、[A-One](./A-One.md)、幽閉サテライト (未找到链接)、[COOL&amp;CREATE](./COOL&CREATE.md)、[東京アクティブNEETs](./東京アクティブNEETs.md)、[石鹸屋](./石鹸屋.md)
+: [森羅万象](./森羅万象.md)、[DiGiTAL WiNG](./DiGiTAL_WiNG.md)、[Alstroemeria Records](./Alstroemeria_Records.md)、[TaNaBaTa](./TaNaBaTa.md)、[豚乙女](./豚乙女.md)、[岸田教団&amp;THE明星ロケッツ](./岸田教団&THE明星ロケッツ.md)、[IOSYS](./IOSYS.md)、[A-One](./A-One.md)、[幽閉サテライト](./幽閉サテライト.md)、[COOL&amp;CREATE](./COOL&CREATE.md)、[東京アクティブNEETs](./東京アクティブNEETs.md)、[石鹸屋](./石鹸屋.md)
 超东方LIVE舞台2023
-: 幽閉サテライト (未找到链接)、[森羅万象](./森羅万象.md)、[IOSYS](./IOSYS.md)、[A-One](./A-One.md)、[TaNaBaTa](./TaNaBaTa.md)、[COOL&amp;CREATE](./COOL&CREATE.md)、[東京アクティブNEETs](./東京アクティブNEETs.md)、[DiGiTAL WiNG](./DiGiTAL_WiNG.md)、[Alstroemeria Records](./Alstroemeria_Records.md)、[豚乙女](./豚乙女.md)、[岸田教団&amp;THE明星ロケッツ](./岸田教団&THE明星ロケッツ.md)、[石鹸屋](./石鹸屋.md)
+: [幽閉サテライト](./幽閉サテライト.md)、[森羅万象](./森羅万象.md)、[IOSYS](./IOSYS.md)、[A-One](./A-One.md)、[TaNaBaTa](./TaNaBaTa.md)、[COOL&amp;CREATE](./COOL&CREATE.md)、[東京アクティブNEETs](./東京アクティブNEETs.md)、[DiGiTAL WiNG](./DiGiTAL_WiNG.md)、[Alstroemeria Records](./Alstroemeria_Records.md)、[豚乙女](./豚乙女.md)、[岸田教団&amp;THE明星ロケッツ](./岸田教団&THE明星ロケッツ.md)、[石鹸屋](./石鹸屋.md)
 超东方LIVE舞台2024
-: [TUMENECO](./TUMENECO.md)、[東京アクティブNEETs](./東京アクティブNEETs.md)、[Alstroemeria Records](./Alstroemeria_Records.md)、[TaNaBaTa](./TaNaBaTa.md)、[A-One](./A-One.md)、幽閉サテライト (未找到链接)、[森羅万象](./森羅万象.md)、[豚乙女](./豚乙女.md)、[DiGiTAL WiNG](./DiGiTAL_WiNG.md)、[石鹸屋](./石鹸屋.md)、[魂音泉](./魂音泉.md)、[岸田教団＆THE明星ロケッツ](./岸田教团.md)
+: [TUMENECO](./TUMENECO.md)、[東京アクティブNEETs](./東京アクティブNEETs.md)、[Alstroemeria Records](./Alstroemeria_Records.md)、[TaNaBaTa](./TaNaBaTa.md)、[A-One](./A-One.md)、[幽閉サテライト](./幽閉サテライト.md)、[森羅万象](./森羅万象.md)、[豚乙女](./豚乙女.md)、[DiGiTAL WiNG](./DiGiTAL_WiNG.md)、[石鹸屋](./石鹸屋.md)、[魂音泉](./魂音泉.md)、[岸田教団＆THE明星ロケッツ](./岸田教团.md)
+
 
 ## 历届宣传图
   
 网站首页使用的作为顶图或宣传图的图片。
   
 
+
 ### 第一届
 - [](./文件-超东方LIVE舞台2018插画1.png.md)插画（网站宣传图）- [](./文件-超东方LIVE舞台2018插画2.jpg.md)插画（宣传海报原图）
 
+
 ### 第二届至第四届
 - [](./文件-超东方LIVE舞台2019插画.png.md)超东方LIVE舞台2019插画- [](./文件-超东方LIVE舞台2021插画.png.md)超东方LIVE舞台2021插画- [](./文件-超东方LIVE舞台2022插画.jpg.md)超东方LIVE舞台2022插画
+
 
 ### 第五届至第六届
 - [](./文件-超东方LIVE舞台2023插画.jpg.md)超东方LIVE舞台2023插画- [](./文件-超东方LIVE舞台2024插画.jpg.md)超东方LIVE舞台2024插画

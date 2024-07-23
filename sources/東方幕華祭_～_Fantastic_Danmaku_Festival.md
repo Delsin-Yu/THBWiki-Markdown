@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 软件信息](#软件信息)
@@ -21,6 +22,7 @@
 
 
 - [7 衍生作品](#衍生作品)
+
 
 
 
@@ -46,6 +48,7 @@
 <tbody><tr><th colspan="2">配置需求</th></tr>
 <tr><td style="width:120px;padding-left:7px;"><b>操作系统</b></td><td>Windows 7 或以上</td></tr><tr><td style="width:120px;padding-left:7px;"><b>内存</b></td><td>1 GB RAM</td></tr><tr><td style="width:120px;padding-left:7px;"><b>显示卡</b></td><td>能够适配DirectX 9的显卡</td></tr><tr><td style="width:120px;padding-left:7px;"><b>硬盘需求</b></td><td>需要 600 MB 可用空间</td></tr>
 </tbody></table>
+
 
 
 ## Staff
@@ -83,6 +86,7 @@
 制作协力：katana、百目四一、等人、擦弹、Grape、MAT、紫夜幻晴、音咲
   
 
+
 ## 基本介绍
 
   
@@ -96,6 +100,7 @@
   
 
 
+
 ## 内容页面
 - [游戏设定与剧情](./東方幕華祭_～_Fantastic_Danmaku_Festival-设定与剧情.md)
 - [机体特性与系统说明](./東方幕華祭_～_Fantastic_Danmaku_Festival-系统.md)
@@ -104,8 +109,11 @@
 - [符卡](./東方幕華祭_～_Fantastic_Danmaku_Festival-符卡.md)
 - [其他相关资料](./東方幕華祭_～_Fantastic_Danmaku_Festival-其他.md)
 
+
 ## 评论
+
 ## 下载与购买
+
 ### Ver1.04版以及早期版本
   
 早期版本因为规约问题并没有在Steam发布，通过个人渠道免费公开  
@@ -124,10 +132,12 @@
 </td></tr></tbody></table>
 
 
+
 ### Ver1.05版本
   
 从Ver1.05版本开始，幕华祭开始在Steam发售，[点击此处可以前往Steam页面](https://store.steampowered.com/app/882710/)。
   
+
 
 ## 衍生作品
   

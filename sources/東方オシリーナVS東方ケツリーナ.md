@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-東方オシリーナVS東方ケツリーナ封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/0/01/%E6%9D%B1%E6%96%B9%E3%82%AA%E3%82%B7%E3%83%AA%E3%83%BC%E3%83%8AVS%E6%9D%B1%E6%96%B9%E3%82%B1%E3%83%84%E3%83%AA%E3%83%BC%E3%83%8A%E5%B0%81%E9%9D%A2.jpg/158px-%E6%9D%B1%E6%96%B9%E3%82%AA%E3%82%B7%E3%83%AA%E3%83%BC%E3%83%8AVS%E6%9D%B1%E6%96%B9%E3%82%B1%E3%83%84%E3%83%AA%E3%83%BC%E3%83%8A%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="158" height="224" srcset="https://upload.thwiki.cc/thumb/0/01/%E6%9D%B1%E6%96%B9%E3%82%AA%E3%82%B7%E3%83%AA%E3%83%BC%E3%83%8AVS%E6%9D%B1%E6%96%B9%E3%82%B1%E3%83%84%E3%83%AA%E3%83%BC%E3%83%8A%E5%B0%81%E9%9D%A2.jpg/236px-%E6%9D%B1%E6%96%B9%E3%82%AA%E3%82%B7%E3%83%AA%E3%83%BC%E3%83%8AVS%E6%9D%B1%E6%96%B9%E3%82%B1%E3%83%84%E3%83%AA%E3%83%BC%E3%83%8A%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/0/01/%E6%9D%B1%E6%96%B9%E3%82%AA%E3%82%B7%E3%83%AA%E3%83%BC%E3%83%8AVS%E6%9D%B1%E6%96%B9%E3%82%B1%E3%83%84%E3%83%AA%E3%83%BC%E3%83%8A%E5%B0%81%E9%9D%A2.jpg/315px-%E6%9D%B1%E6%96%B9%E3%82%AA%E3%82%B7%E3%83%AA%E3%83%BC%E3%83%8AVS%E6%9D%B1%E6%96%B9%E3%82%B1%E3%83%84%E3%83%AA%E3%83%BC%E3%83%8A%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="606" data-file-height="861"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>，<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a></div></td>
@@ -14,9 +15,12 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/23924777">https://www.pixiv.net/artworks/23924777</a></td></tr></tbody></table>
 
 東方オシリーナVS東方ケツリーナ（同人志，18sbunny，2011） - 2011年12月30日 由 18sbunny 于 Comic Market 81 发布的漫画同人志，B5尺寸一共36页，登场人物有 博丽灵梦、雾雨魔理沙，分级为 一般向
+
 ## 预览
+
 ## Staff
 - [浪咲ゆか](./浪咲ゆか.md)
+
 
 ## 评论
 

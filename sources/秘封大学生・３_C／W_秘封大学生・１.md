@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-秘封大学生・３_C／W_秘封大学生・１封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/f/fc/%E7%A7%98%E5%B0%81%E5%A4%A7%E5%AD%A6%E7%94%9F%E3%83%BB%EF%BC%93_C%EF%BC%8FW_%E7%A7%98%E5%B0%81%E5%A4%A7%E5%AD%A6%E7%94%9F%E3%83%BB%EF%BC%91%E5%B0%81%E9%9D%A2.jpg/137px-%E7%A7%98%E5%B0%81%E5%A4%A7%E5%AD%A6%E7%94%9F%E3%83%BB%EF%BC%93_C%EF%BC%8FW_%E7%A7%98%E5%B0%81%E5%A4%A7%E5%AD%A6%E7%94%9F%E3%83%BB%EF%BC%91%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="137" height="196" srcset="https://upload.thwiki.cc/thumb/f/fc/%E7%A7%98%E5%B0%81%E5%A4%A7%E5%AD%A6%E7%94%9F%E3%83%BB%EF%BC%93_C%EF%BC%8FW_%E7%A7%98%E5%B0%81%E5%A4%A7%E5%AD%A6%E7%94%9F%E3%83%BB%EF%BC%91%E5%B0%81%E9%9D%A2.jpg/206px-%E7%A7%98%E5%B0%81%E5%A4%A7%E5%AD%A6%E7%94%9F%E3%83%BB%EF%BC%93_C%EF%BC%8FW_%E7%A7%98%E5%B0%81%E5%A4%A7%E5%AD%A6%E7%94%9F%E3%83%BB%EF%BC%91%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/f/fc/%E7%A7%98%E5%B0%81%E5%A4%A7%E5%AD%A6%E7%94%9F%E3%83%BB%EF%BC%93_C%EF%BC%8FW_%E7%A7%98%E5%B0%81%E5%A4%A7%E5%AD%A6%E7%94%9F%E3%83%BB%EF%BC%91%E5%B0%81%E9%9D%A2.jpg/274px-%E7%A7%98%E5%B0%81%E5%A4%A7%E5%AD%A6%E7%94%9F%E3%83%BB%EF%BC%93_C%EF%BC%8FW_%E7%A7%98%E5%B0%81%E5%A4%A7%E5%AD%A6%E7%94%9F%E3%83%BB%EF%BC%91%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="623" data-file-height="890"></a><div class="cover-char">角色：<a href="./玛艾露贝莉·赫恩.md" title="玛艾露贝莉·赫恩">玛艾露贝莉·赫恩</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://blogs.yahoo.co.jp/nkdpq674/47282751.html">https://blogs.yahoo.co.jp/nkdpq674/47282751.html</a></td></tr></tbody></table>
 
 秘封大学生・３ C／W 秘封大学生・１（同人志，四ツ星レストランおかん，2013） - 2013年5月26日 由 四ツ星レストランおかん 于 博丽神社例大祭10 发布的漫画同人志，一共36页，登场人物有 玛艾露贝莉·赫恩、宇佐见莲子、原创角色，分级为 一般向
+
 ## Staff
 - [いまいともゆき](./いまいともゆき.md)
+
 
 ## 评论
 

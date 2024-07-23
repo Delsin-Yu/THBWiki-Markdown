@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-幽香vs白蓮resolution封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/a/a4/%E5%B9%BD%E9%A6%99vs%E7%99%BD%E8%93%AEresolution%E5%B0%81%E9%9D%A2.jpg/139px-%E5%B9%BD%E9%A6%99vs%E7%99%BD%E8%93%AEresolution%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="139" height="196" srcset="https://upload.thwiki.cc/thumb/a/a4/%E5%B9%BD%E9%A6%99vs%E7%99%BD%E8%93%AEresolution%E5%B0%81%E9%9D%A2.jpg/209px-%E5%B9%BD%E9%A6%99vs%E7%99%BD%E8%93%AEresolution%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/a/a4/%E5%B9%BD%E9%A6%99vs%E7%99%BD%E8%93%AEresolution%E5%B0%81%E9%9D%A2.jpg/279px-%E5%B9%BD%E9%A6%99vs%E7%99%BD%E8%93%AEresolution%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="427" data-file-height="600"></a><div class="cover-char">角色：<a href="./风见幽香.md" title="风见幽香">风见幽香</a>，<a href="./圣白莲.md" title="圣白莲">圣白莲</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://tohoni.blog4.fc2.com/blog-entry-247.html">http://tohoni.blog4.fc2.com/blog-entry-247.html</a></td></tr></tbody></table>
 
 幽香vs白蓮resolution（同人志，徒歩二分，2010） - 2010年8月14日 由 徒歩二分 于 Comic Market 78 发布的漫画同人志，B5尺寸一共60页，分级为 一般向
+
 ## Staff
 - [茶戸](./茶戸.md)
+
 
 ## 评论
 

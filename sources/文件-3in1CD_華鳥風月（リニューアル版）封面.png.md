@@ -4,6 +4,7 @@
 
 专辑封面 | 封面图片 | 幽闭星光
 
+
 ## 摘要
   
 源地址：[[1]](http://yuuhei-satellite.sakura.ne.jp/wp/wp-content/uploads/2022/12/YHST-0167_jaket.png)使用了本文件作封面图片的作品：

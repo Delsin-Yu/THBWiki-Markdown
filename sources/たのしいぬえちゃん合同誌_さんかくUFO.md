@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-たのしいぬえちゃん合同誌_さんかくUFO封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/0/06/%E3%81%9F%E3%81%AE%E3%81%97%E3%81%84%E3%81%AC%E3%81%88%E3%81%A1%E3%82%83%E3%82%93%E5%90%88%E5%90%8C%E8%AA%8C_%E3%81%95%E3%82%93%E3%81%8B%E3%81%8FUFO%E5%B0%81%E9%9D%A2.jpg/137px-%E3%81%9F%E3%81%AE%E3%81%97%E3%81%84%E3%81%AC%E3%81%88%E3%81%A1%E3%82%83%E3%82%93%E5%90%88%E5%90%8C%E8%AA%8C_%E3%81%95%E3%82%93%E3%81%8B%E3%81%8FUFO%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="137" height="196" srcset="https://upload.thwiki.cc/thumb/0/06/%E3%81%9F%E3%81%AE%E3%81%97%E3%81%84%E3%81%AC%E3%81%88%E3%81%A1%E3%82%83%E3%82%93%E5%90%88%E5%90%8C%E8%AA%8C_%E3%81%95%E3%82%93%E3%81%8B%E3%81%8FUFO%E5%B0%81%E9%9D%A2.jpg/206px-%E3%81%9F%E3%81%AE%E3%81%97%E3%81%84%E3%81%AC%E3%81%88%E3%81%A1%E3%82%83%E3%82%93%E5%90%88%E5%90%8C%E8%AA%8C_%E3%81%95%E3%82%93%E3%81%8B%E3%81%8FUFO%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/0/06/%E3%81%9F%E3%81%AE%E3%81%97%E3%81%84%E3%81%AC%E3%81%88%E3%81%A1%E3%82%83%E3%82%93%E5%90%88%E5%90%8C%E8%AA%8C_%E3%81%95%E3%82%93%E3%81%8B%E3%81%8FUFO%E5%B0%81%E9%9D%A2.jpg/275px-%E3%81%9F%E3%81%AE%E3%81%97%E3%81%84%E3%81%AC%E3%81%88%E3%81%A1%E3%82%83%E3%82%93%E5%90%88%E5%90%8C%E8%AA%8C_%E3%81%95%E3%82%93%E3%81%8B%E3%81%8FUFO%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="632" data-file-height="900"></a><div class="cover-char">角色：<a href="./封兽鵺.md" title="封兽鵺">封兽鵺</a></div></td>
@@ -13,11 +14,14 @@
 </tr><tr><td class="label">首发日期</td><td>2012-10-07&#160;（<a href="/展会作品列表?e=%E4%B8%9C%E6%96%B9%E7%BA%A2%E6%A5%BC%E6%A2%A6%238">東方紅楼夢8</a>）</td></tr><tr><td class="label">类型</td><td>漫画，合同志</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>B5</td></tr><tr><td class="label">页数</td><td>24P</td></tr><tr><td class="label">登场人物</td><td><a href="./封兽鵺.md" title="封兽鵺">封兽鵺</a></td></tr></tbody></table>
 
 たのしいぬえちゃん合同誌 さんかくUFO（同人志，オムチキン，あさつき堂，ふすま喫茶，2012） - 2012年10月7日 由 オムチキン，あさつき堂，ふすま喫茶 于 东方红楼梦8 发布的漫画/合同志同人志，B5尺寸一共24页，登场人物有 封兽鵺，分级为 一般向
+
 ## 预览
+
 ## Staff
 - 久林丼 (未找到链接)
 - うがつまつき (未找到链接)
 - [水中花火](./水中花火.md)
+
 
 ## 评论
 

@@ -23,6 +23,7 @@ KONAMI | 东方相关商业游戏 | 待完成页面
 <big> **pop'n music** </big>，是[KONAMI](./KONAMI.md)制作的音乐游戏，第一代于1998年09月28日推出。
   
 
+
 ## 目录
 
 - [1 介绍](#介绍)
@@ -33,15 +34,18 @@ KONAMI | 东方相关商业游戏 | 待完成页面
 
 
 
+
 ## 介绍
   
 待补
   
 
+
 ## 与东方Project的关联
   
 待补
   
+
 
 ## 游戏内收录的东方同人曲目
 
@@ -62,6 +66,7 @@ KONAMI | 东方相关商业游戏 | 待完成页面
 <tr><th colspan="2"></th></tr><tr><td colspan="2" style="padding-left: 1em;"><div class="floatright"><a href="./文件-BEMANI_presents_東方ULTIMATE_WEAPON封面.jpg.md" class="image" title="BEMANI presents 東方ULTIMATE WEAPON"><img alt="BEMANI presents 東方ULTIMATE WEAPON" src="https://upload.thwiki.cc/thumb/3/36/BEMANI_presents_%E6%9D%B1%E6%96%B9ULTIMATE_WEAPON%E5%B0%81%E9%9D%A2.jpg/100px-BEMANI_presents_%E6%9D%B1%E6%96%B9ULTIMATE_WEAPON%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="100" height="100" srcset="https://upload.thwiki.cc/thumb/3/36/BEMANI_presents_%E6%9D%B1%E6%96%B9ULTIMATE_WEAPON%E5%B0%81%E9%9D%A2.jpg/150px-BEMANI_presents_%E6%9D%B1%E6%96%B9ULTIMATE_WEAPON%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/3/36/BEMANI_presents_%E6%9D%B1%E6%96%B9ULTIMATE_WEAPON%E5%B0%81%E9%9D%A2.jpg/200px-BEMANI_presents_%E6%9D%B1%E6%96%B9ULTIMATE_WEAPON%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="400" data-file-height="400"></a></div><b><a href="/BEMANI_presents_%E6%9D%B1%E6%96%B9ULTIMATE_WEAPON#4" title="BEMANI presents 東方ULTIMATE WEAPON">GO²TOS</a></b> &#91;04:19&#93;<dl><dd><a href="./BEMANI_presents_東方ULTIMATE_WEAPON.md" title="BEMANI presents 東方ULTIMATE WEAPON">BEMANI presents 東方ULTIMATE WEAPON</a> （2021-02-05）<br>社团：<a href="./魂音泉.md" title="魂音泉">魂音泉</a><br>编曲：<a href="./Coro.md" title="Coro">Coro</a><br>演唱：<a href="./らっぷびと.md" title="らっぷびと">らっぷびと</a>，<a href="./雨天決行.md" title="雨天決行">雨天決行</a>，<a href="./AO.md" title="AO">AO</a>，<a href="./ill.bell.md" title="ill.bell">ill.bell</a><br>作词：<a href="./らっぷびと.md" title="らっぷびと">らっぷびと</a>，<a href="./雨天決行.md" title="雨天決行">雨天決行</a>，<a href="./AO.md" title="AO">AO</a>，<a href="./ill.bell.md" title="ill.bell">ill.bell</a><br>原曲：<a href="./Native_Faith.md" title="Native Faith" unred="">ネイティブフェイス</a><br></dd></dl></td></tr>
 <tr><th colspan="2"></th></tr><tr><td colspan="2" style="padding-left: 1em;"><div class="floatright"><a href="./文件-BEMANI_presents_東方ULTIMATE_WEAPON封面.jpg.md" class="image" title="BEMANI presents 東方ULTIMATE WEAPON"><img alt="BEMANI presents 東方ULTIMATE WEAPON" src="https://upload.thwiki.cc/thumb/3/36/BEMANI_presents_%E6%9D%B1%E6%96%B9ULTIMATE_WEAPON%E5%B0%81%E9%9D%A2.jpg/100px-BEMANI_presents_%E6%9D%B1%E6%96%B9ULTIMATE_WEAPON%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="100" height="100" srcset="https://upload.thwiki.cc/thumb/3/36/BEMANI_presents_%E6%9D%B1%E6%96%B9ULTIMATE_WEAPON%E5%B0%81%E9%9D%A2.jpg/150px-BEMANI_presents_%E6%9D%B1%E6%96%B9ULTIMATE_WEAPON%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/3/36/BEMANI_presents_%E6%9D%B1%E6%96%B9ULTIMATE_WEAPON%E5%B0%81%E9%9D%A2.jpg/200px-BEMANI_presents_%E6%9D%B1%E6%96%B9ULTIMATE_WEAPON%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="400" data-file-height="400"></a></div><b><a href="/BEMANI_presents_%E6%9D%B1%E6%96%B9ULTIMATE_WEAPON#1" title="BEMANI presents 東方ULTIMATE WEAPON">Jailbreaker</a></b> &#91;03:48&#93;<dl><dd><a href="./BEMANI_presents_東方ULTIMATE_WEAPON.md" title="BEMANI presents 東方ULTIMATE WEAPON">BEMANI presents 東方ULTIMATE WEAPON</a> （2021-02-05）<br>社团：<a href="./KONAMI.md" title="KONAMI">KONAMI</a><br>编曲：<a href="/index.php?title=Hommarju&amp;action=edit&amp;redlink=1" class="new" title="Hommarju（页面不存在）">Hommarju</a><br>演唱：<a href="/index.php?title=%E3%81%8B%E3%81%BC%E3%81%A1%E3%82%83&amp;action=edit&amp;redlink=1" class="new" title="かぼちゃ（页面不存在）">かぼちゃ</a><br>原曲：<a href="./U.N.OWEN就是她吗？.md" title="U.N.OWEN就是她吗？" unred="">U.N.オーエンは彼女なのか？</a><br></dd></dl></td></tr>
 <tr><th colspan="2"></th></tr><tr><td colspan="2" style="padding-left: 1em;"><div class="floatright"><a href="./文件-BEMANI_presents_東方ULTIMATE_WEAPON封面.jpg.md" class="image" title="BEMANI presents 東方ULTIMATE WEAPON"><img alt="BEMANI presents 東方ULTIMATE WEAPON" src="https://upload.thwiki.cc/thumb/3/36/BEMANI_presents_%E6%9D%B1%E6%96%B9ULTIMATE_WEAPON%E5%B0%81%E9%9D%A2.jpg/100px-BEMANI_presents_%E6%9D%B1%E6%96%B9ULTIMATE_WEAPON%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="100" height="100" srcset="https://upload.thwiki.cc/thumb/3/36/BEMANI_presents_%E6%9D%B1%E6%96%B9ULTIMATE_WEAPON%E5%B0%81%E9%9D%A2.jpg/150px-BEMANI_presents_%E6%9D%B1%E6%96%B9ULTIMATE_WEAPON%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/3/36/BEMANI_presents_%E6%9D%B1%E6%96%B9ULTIMATE_WEAPON%E5%B0%81%E9%9D%A2.jpg/200px-BEMANI_presents_%E6%9D%B1%E6%96%B9ULTIMATE_WEAPON%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="400" data-file-height="400"></a></div><b><a href="/BEMANI_presents_%E6%9D%B1%E6%96%B9ULTIMATE_WEAPON#10" title="BEMANI presents 東方ULTIMATE WEAPON">Empty Backdoor</a></b> &#91;04:45&#93;<dl><dd><a href="./BEMANI_presents_東方ULTIMATE_WEAPON.md" title="BEMANI presents 東方ULTIMATE WEAPON">BEMANI presents 東方ULTIMATE WEAPON</a> （2021-02-05）<br>社团：<a href="./森羅万象.md" title="森羅万象">森羅万象</a><br>编曲：<a href="./kaztora.md" title="kaztora">kaztora</a>，<a href="./Hedonist.md" title="Hedonist">Hedonist</a><br>演唱：<a href="./あよ.md" title="あよ">あよ</a><br>作词：<a href="./みゅい.md" title="みゅい">みゅい</a><br>原曲：<a href="./秘神摩多罗_～_Hidden_Star_in_All_Seasons..md" title="秘神摩多罗 ～ Hidden Star in All Seasons." unred="">秘神マターラ　～ Hidden Star in All Seasons.</a><br></dd></dl></td></tr></tbody></table>
+
 
 
 ## 参考资料

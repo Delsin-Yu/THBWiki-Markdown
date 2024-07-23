@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Violet_Candy封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/9/92/Violet_Candy%E5%B0%81%E9%9D%A2.jpg/139px-Violet_Candy%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="139" height="196" srcset="https://upload.thwiki.cc/thumb/9/92/Violet_Candy%E5%B0%81%E9%9D%A2.jpg/208px-Violet_Candy%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/9/92/Violet_Candy%E5%B0%81%E9%9D%A2.jpg/278px-Violet_Candy%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="319" data-file-height="450"></a><div class="cover-char">角色：<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a>，<a href="./帕秋莉·诺蕾姬.md" title="帕秋莉·诺蕾姬">帕秋莉·诺蕾姬</a>，<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/66492793">https://www.pixiv.net/artworks/66492793</a></td></tr></tbody></table>
 
 Violet Candy（同人志，ひとみしり，2017） - 2017年12月29日 由 ひとみしり 于 Comic Market 93 发布的画集同人志，B5尺寸一共20页，分级为 一般向
+
 ## Staff
 - [甘党](./甘党.md)
+
 
 ## 评论
 ```

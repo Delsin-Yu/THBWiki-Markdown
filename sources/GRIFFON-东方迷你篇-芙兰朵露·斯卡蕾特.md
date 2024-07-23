@@ -6,11 +6,13 @@
 
 本页是关于东方Project  
  **相关实体周边 (未找到链接)** 的词条
+
 ## 模型信息
 
 <table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 芙兰朵露·斯卡蕾特 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>东方迷你篇</td></tr><tr><td class="label">角色</td><td><a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a></td></tr><tr><td class="label">原型师</td><td><a href="/index.php?title=%E3%81%B2%E3%82%8D%E3%81%BE%E3%82%93&amp;action=edit&amp;redlink=1" class="new" title="ひろまん（页面不存在）">ひろまん</a></td></tr><tr><td class="label">比例</td><td>1/10</td></tr><tr><td class="label">尺寸</td><td>190mm</td></tr><tr><td class="label">状态</td><td>未发售</td></tr><tr><td class="label">售价</td><td>5900日元</td></tr><tr><td class="label">发售方</td><td><a href="/index.php?title=GRIFFON&amp;action=edit&amp;redlink=1" class="new" title="GRIFFON（页面不存在）">GRIFFON</a></td></tr><tr><td class="label">备注</td><td><span style="color:red;">发售终止</span></td></tr></tbody></table>
 
 GRIFFON/东方迷你篇/芙兰朵露·斯卡蕾特（周边） - 芙兰朵露·斯卡蕾特PVCFigure手办模型
+
 ## 参考图片
 
 

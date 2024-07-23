@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-ナズメイドPINK★封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/4/4c/%E3%83%8A%E3%82%BA%E3%83%A1%E3%82%A4%E3%83%89PINK%E2%98%85%E5%B0%81%E9%9D%A2.jpg/139px-%E3%83%8A%E3%82%BA%E3%83%A1%E3%82%A4%E3%83%89PINK%E2%98%85%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="139" height="196" srcset="https://upload.thwiki.cc/thumb/4/4c/%E3%83%8A%E3%82%BA%E3%83%A1%E3%82%A4%E3%83%89PINK%E2%98%85%E5%B0%81%E9%9D%A2.jpg/209px-%E3%83%8A%E3%82%BA%E3%83%A1%E3%82%A4%E3%83%89PINK%E2%98%85%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/4/4c/%E3%83%8A%E3%82%BA%E3%83%A1%E3%82%A4%E3%83%89PINK%E2%98%85%E5%B0%81%E9%9D%A2.jpg/279px-%E3%83%8A%E3%82%BA%E3%83%A1%E3%82%A4%E3%83%89PINK%E2%98%85%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="680" data-file-height="956"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>，<a href="./茨木华扇.md" title="茨木华扇">茨木华扇</a>，<a href="./娜兹玲.md" title="娜兹玲">娜兹玲</a></div></td>
@@ -14,10 +15,13 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/20670521">https://www.pixiv.net/artworks/20670521</a></td></tr></tbody></table>
 
 ナズメイドPINK★（同人志，安達貴族，2011） - 2011年8月13日 由 安達貴族 于 Comic Market 80 发布的漫画/合同志同人志，一共8页，登场人物有 博丽灵梦、茨木华扇、娜兹玲，分级为 一般向
+
 ## 预览
+
 ## Staff
 - 安達貴族（人物） (未找到链接)
 - 五味苺 (未找到链接)
+
 
 ## 评论
 

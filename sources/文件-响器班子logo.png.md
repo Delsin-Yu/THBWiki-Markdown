@@ -4,6 +4,7 @@
 
 响器班子 | 社团LOGO
 
+
 ## 摘要
   
 源地址：[direct image link](https://cdn.dizzylab.net/media/label_cover/响器班子.png), [source page (circle Dizzylab logo)](https://www.dizzylab.net/l/响器班子 Boomin&#39; Tribe/)

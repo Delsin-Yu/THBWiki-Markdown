@@ -6,6 +6,7 @@ JynX作曲 | Nightmare_Syndrome | 引用了翻译表的页面 | 连缘Project | 
 
 本页是关于 **向[东方Project](./东方Project.md)  
 致敬、形式类似的作品** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -26,6 +27,7 @@ JynX作曲 | Nightmare_Syndrome | 引用了翻译表的页面 | 连缘Project | 
 
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
+
 
 
 
@@ -61,6 +63,7 @@ JynX作曲 | Nightmare_Syndrome | 引用了翻译表的页面 | 连缘Project | 
 </td></tr></tbody></table>
 
 
+
 ## 出现作品
 
 <table>
@@ -69,7 +72,9 @@ JynX作曲 | Nightmare_Syndrome | 引用了翻译表的页面 | 连缘Project | 
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 连缘天影战记
 
 <table>
@@ -89,7 +94,9 @@ JynX作曲 | Nightmare_Syndrome | 引用了翻译表的页面 | 连缘Project | 
 </td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 连缘天影战记
 - Music Room (未找到链接)
 
@@ -99,8 +106,11 @@ JynX作曲 | Nightmare_Syndrome | 引用了翻译表的页面 | 连缘Project | 
 古怪满点，可爱半减的感觉呢  
 虽然没什么一面BOSS的感觉，不过这家伙可是相当的坏家伙呢  
 这样的曲子很合适吧，大概
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
 
 

@@ -6,21 +6,26 @@
 
 本页是关于东方Project  
  **二次同人创作者** 的词条
+
 ## 基本信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="label"><b>名称</b></td><td> sinθ </td></tr><tr><td class="label"><b>所属社团</b></td><td><b>当前</b><div style="margin-left:2em;"><a href="./プレイリーオイスター.md" title="プレイリーオイスター">プレイリーオイスター</a></div></td></tr><tr><td class="label"><b>职位</b></td><td>主催，编曲</td></tr><tr><td class="label"><b>参与社团</b></td><td><a href="./Aozora.md" title="Aozora">Aozora</a> （编曲）<br><a href="/index.php?title=TKG48&amp;action=edit&amp;redlink=1" class="new" title="TKG48（页面不存在）">TKG48</a> （编曲）<br><a href="./プレイリーオイスター.md" title="プレイリーオイスター">プレイリーオイスター</a> （编曲）<br><a href="./全ピ连.md" title="全ピ连">全ピ连</a> （编曲）<br><a href="./夕焼けコンテナ。.md" title="夕焼けコンテナ。">夕焼けコンテナ。</a> （编曲）</td></tr><tr><td class="label"><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://soundenjoy.blog34.fc2.com/">http://soundenjoy.blog34.fc2.com/</a></td></tr><tr><td class="label"><b>个人页面</b></td><td><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><b>Twitter</b></td><td><a rel="nofollow" class="external free" href="https://twitter.com/sin__theta">https://twitter.com/sin__theta</a></td></tr><tr><td><b>Soundcloud</b></td><td><a rel="nofollow" class="external free" href="http://soundcloud.com/sin-19">http://soundcloud.com/sin-19</a></td></tr></tbody></table></td></tr></tbody></table>
 
 sinθ（人物） - 现实人物
+
 ## 介绍
   
 东方同人音乐社团[プレイリーオイスター](./プレイリーオイスター.md)主催，现已停止活动。喜欢可口可乐、喜力啤酒。喜欢的角色是妖梦。
   
 
+
 ## 参与作品
+
 ### 同人音乐
   
 模板:人物曲目列表 (未找到链接)
   
+
 
 ## 人际关系
 人名

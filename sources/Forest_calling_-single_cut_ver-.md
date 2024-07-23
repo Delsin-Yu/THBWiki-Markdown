@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Forest_calling_-single_cut_ver-封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/0/0f/Forest_calling_-single_cut_ver-%E5%B0%81%E9%9D%A2.jpg/252px-Forest_calling_-single_cut_ver-%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="252" srcset="https://upload.thwiki.cc/thumb/0/0f/Forest_calling_-single_cut_ver-%E5%B0%81%E9%9D%A2.jpg/378px-Forest_calling_-single_cut_ver-%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/0/0f/Forest_calling_-single_cut_ver-%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="384" data-file-height="384"></a><div class="cover-char">角色：<a href="./键山雏.md" title="键山雏">键山雏</a></div></td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://ameblo.jp/kittybearsxxxtak/entry-11258824598.html">https://ameblo.jp/kittybearsxxxtak/entry-11258824598.html</a></td></tr></tbody></table>
 
 Forest calling -single cut ver-（同人专辑，10th Avenue Cafe，2012） - 2012年5月27日 由 10th Avenue Cafe 于 博丽神社例大祭9 发布的单曲同人专辑，曲目主要风格是 爵士，分级为 一般向
+
 ## Staff
   
  **Arrangement**   
@@ -26,9 +28,11 @@ Mixing
 Illustration
 : cosmic （[遊閑地](./遊閑地.md)）
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Forest_calling_-single_cut_ver-" colspan="2" class="title">Forest calling -single cut ver-<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=tak&amp;ogmusic=恋色マスタースパーク&amp;fromwiki=Forest_calling_-single_cut_ver-"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=tak&amp;action=edit&amp;redlink=1" class="new" title="tak（页面不存在）">tak</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，tak&amp;fromwiki=Forest_calling_-single_cut_ver-"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=恋色マスタースパーク&amp;fromwiki=Forest_calling_-single_cut_ver-"><span></span></a></span><div class="ogmusic"><a href="/%E6%81%8B%E8%89%B2%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%B9%E3%83%91%E3%83%BC%E3%82%AF" class="mw-redirect" title="恋色マスタースパーク">恋色マスタースパーク</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E6%B0%B8%E5%A4%9C%E6%8A%84_%EF%BD%9E_Imperishable_Night." class="mw-redirect" title="东方永夜抄 ～ Imperishable Night.">东方永夜抄　～ Imperishable Night.</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Forest_calling_-single_cut_ver-" colspan="2" class="title">Forest calling -single cut ver-<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=tak&amp;ogmusic=恋色マスタースパーク&amp;fromwiki=Forest_calling_-single_cut_ver-"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=tak&amp;action=edit&amp;redlink=1" class="new" title="tak（页面不存在）">tak</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，tak&amp;fromwiki=Forest_calling_-single_cut_ver-"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=恋色マスタースパーク&amp;fromwiki=Forest_calling_-single_cut_ver-"><span></span></a></span><div class="ogmusic"><a href="./恋色マスタースパーク.md" class="mw-redirect" title="恋色マスタースパーク">恋色マスタースパーク</a></div><div class="source"><a href="./东方永夜抄_～_Imperishable_Night..md" class="mw-redirect" title="东方永夜抄 ～ Imperishable Night.">东方永夜抄　～ Imperishable Night.</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

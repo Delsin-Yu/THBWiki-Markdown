@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **相关实体周边 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 周边信息](#周边信息)
@@ -21,20 +22,25 @@
 
 
 
+
 ## 周边信息
 
 <table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> FUMO捕捉包 </td></tr><tr><td class="label">制作方</td><td><a href="./fumoism.md" title="fumoism">fumoism</a></td></tr><tr><td class="label">首发日期</td><td>2022-07-17&#160;（<a href="/展会作品列表?e=FumoOnly%231">FumoOnly-东方湖歌宴</a>）</td></tr><tr><td class="label">类型</td><td>袋，文具</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">角色</td><td><a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a><br><a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a><br><a href="./琪露诺.md" title="琪露诺">琪露诺</a><br><a href="./丰聪耳神子.md" title="丰聪耳神子">丰聪耳神子</a><br><a href="./四季映姬·夜摩仙那度.md" title="四季映姬·夜摩仙那度">四季映姬·夜摩仙那度</a></td></tr><tr><td class="label">售价</td><td>50人民币</td></tr></tbody></table>
 
 fumoism/FUMO捕捉包（周边，fumoism，2022） - 2022年7月17日 由 fumoism 于 FumoOnly1 发布的袋/文具周边，分级为 一般向
+
 ## 参考图
   
 周边宣传、售卖时使用的作为参考图的预览图或实物图的图片。
   
 
+
 ### 预览图
 - [](./文件-fumoism／FUMO捕捉包预览图1.jpg.md)
 
+
 ## Staff
+
 ## 评论
 
 

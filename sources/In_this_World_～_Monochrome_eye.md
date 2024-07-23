@@ -6,6 +6,7 @@
 
 本页是关于 **向[东方Project](./东方Project.md)  
 致敬、形式类似的作品** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -35,11 +36,13 @@
 
 
 
+
 ## 基本信息
 
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">インディスワールド　～ Monochrome_eye</td></tr><tr><td><b>译名</b></td><td>In this World ～ Monochrome_eye</td></tr><tr><td><b>其他译名</b></td><td>在这世间 ～ Monochrome_eye</td></tr><tr><td><b>作曲</b></td><td><a href="./JynX.md" title="JynX">JynX</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 In this World ～ Monochrome eye（曲目） - 由 JynX 创作的东方风自作曲，原名 インディスワールド　～ Monochrome_eye
+
 ## 出现作品
 
 <table>
@@ -49,10 +52,13 @@ In this World ～ Monochrome eye（曲目） - 由 JynX 创作的东方风自作
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 连缘无现里
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>MIDI格式</b></td><td>无播放信息</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-le01_07.mp3.md" title="文件:le01 07.mp3">le01_07.mp3</a><br><audio src="https://upload.thwiki.cc/f/ff/le01_07.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>未填写</td></tr></tbody></table>
+
 
 
 ### 连缘天影战记
@@ -60,7 +66,9 @@ In this World ～ Monochrome eye（曲目） - 由 JynX 创作的东方风自作
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>MIDI格式</b></td><td>无播放信息</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-le04_BOSS_Tsubakura.mp3.md" title="文件:le04 BOSS Tsubakura.mp3">le04_BOSS_Tsubakura.mp3</a><br><audio src="https://upload.thwiki.cc/4/44/le04_BOSS_Tsubakura.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>未填写</td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 连缘无现里
 - Music Room (未找到链接)
 
@@ -72,6 +80,7 @@ In this World ～ Monochrome eye（曲目） - 由 JynX 创作的东方风自作
 （↑算是剧透了，赶紧挡住）  
 作这首曲子时还产生了两三首弃用曲，相当累人了。  
 但是我也不想丢掉弃用曲……在哪里用用看吧。
+
 ### 连缘天影战记
 - Music Room (未找到链接)
 
@@ -85,8 +94,11 @@ In this World ～ Monochrome eye（曲目） - 由 JynX 创作的东方风自作
   
 玄鸟迄今为止都很辛苦，  
 今后也会很辛苦的吧，抱歉啦
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
   
  **インディスワールド～ Monochrome_eye**   

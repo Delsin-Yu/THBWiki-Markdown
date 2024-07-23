@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=h%EF%BC%8A%E5%B0%81%E9%9D%A2.jpg" class="new" title="文件:h＊封面.jpg">封面图片</a></td>
@@ -14,12 +15,15 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://yumegoro.sumomo.ne.jp/doujin/kokuti10.html">http://yumegoro.sumomo.ne.jp/doujin/kokuti10.html</a><br><a rel="nofollow" class="external free" href="http://yumegoro.sumomo.ne.jp/nicky.cgi?DATE=201003?MODE=MONTH#20100308A">http://yumegoro.sumomo.ne.jp/nicky.cgi?DATE=201003?MODE=MONTH#20100308A</a><br><a rel="nofollow" class="external free" href="http://yumegoro.sumomo.ne.jp/y-info_2010.html">http://yumegoro.sumomo.ne.jp/y-info_2010.html</a></td></tr></tbody></table>
 
 h＊（同人志，ゆめいろごろも，2010） - 2010年3月14日 由 ゆめいろごろも 于 博丽神社例大祭7 发布的画集同人志，B5尺寸一共12页，分级为 一般向
+
 ## 预览
+
 ## Staff
 - 春日沙生 (未找到链接) （[ゆめいろごろも](./ゆめいろごろも.md)）
 - kazu (未找到链接) （guest; [夢中界](./夢中界.md)）
 - 萩原凛 (未找到链接) （guest; [vita](./vita.md)）
 - cis (未找到链接) （guest; [Carcharias](./Carcharias.md)）
+
 
 ## 评论
 

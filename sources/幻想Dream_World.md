@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-幻想Dream_World封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/d/df/%E5%B9%BB%E6%83%B3Dream_World%E5%B0%81%E9%9D%A2.jpg/196px-%E5%B9%BB%E6%83%B3Dream_World%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="196" height="138" srcset="https://upload.thwiki.cc/thumb/d/df/%E5%B9%BB%E6%83%B3Dream_World%E5%B0%81%E9%9D%A2.jpg/294px-%E5%B9%BB%E6%83%B3Dream_World%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/d/df/%E5%B9%BB%E6%83%B3Dream_World%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="300" data-file-height="211"></a><div class="cover-char">角色：<a href="./藤原妹红.md" title="藤原妹红">藤原妹红</a>，<a href="./西行寺幽幽子.md" title="西行寺幽幽子">西行寺幽幽子</a>，<a href="./古明地恋.md" title="古明地恋">古明地恋</a>，<a href="./因幡帝.md" title="因幡帝">因幡天为</a></div></td>
@@ -14,13 +15,16 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://blog.yam.com/ts01396924/article/39321609">http://blog.yam.com/ts01396924/article/39321609</a><br><span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><small>（<a rel="nofollow" class="external text" href="https://web.archive.org/web/20111208084711/http://blog.yam.com/ts01396924/article/39321609">缓存页面</a>）</small></td></tr></tbody></table>
 
 幻想Dream World（同人志，幻夢想之夜，2011） - 2011年7月30日 由 幻夢想之夜 于 Fancy Frontier18 发布的合同志/画集同人志，B5尺寸一共18页，分级为 一般向
+
 ## 预览
+
 ## Staff
 - 糟糕小兔 (未找到链接)
 - 小高 (未找到链接)
 - 墬落小貓 (未找到链接)
 - 月夜牙 (未找到链接)
 - 苦惱者 (未找到链接)
+
 
 ## 评论
 

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 软件信息](#软件信息)
@@ -13,6 +14,7 @@
 - [3 内容页面](#内容页面)
 - [4 评论](#评论)
 - [5 下载](#下载)
+
 
 
 
@@ -25,17 +27,21 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://gatling-cat.sakura.ne.jp/">http://gatling-cat.sakura.ne.jp/</a></td></tr></tbody></table>
 
 東方活劇綺談 ONLINE（同人游戏，GATLING CAT，2012） - 2012年8月11日 由 GATLING CAT 于 Comic Market 82 发布的ACT同人游戏，可在 Windows 系统上运行，游戏人数为 单人模式，分级为 一般向
+
 ## Staff
   
 とら
   
+
 
 ## 内容页面
 - 游戏设定与剧情 (未找到链接)
 - 攻略 (未找到链接)
 - 其他信息 (未找到链接)
 
+
 ## 评论
+
 ## 下载
   
 请注意：  

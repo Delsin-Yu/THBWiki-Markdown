@@ -164,6 +164,7 @@ AvalonStudioOfficial
 [](./文件-THD2八坂神奈子.png.md)
   
 
+
 ## 目录
 
 - [1 角色定位](#角色定位)
@@ -184,10 +185,12 @@ AvalonStudioOfficial
 
 
 
+
 ## 角色定位
   
 辅助 - 控制 - 耐久
   
+
 
 ## 技能介绍
 
@@ -1155,6 +1158,7 @@ AvalonStudioOfficial
 </td></tr></tbody></table>
 
 
+
 ## 天赋树
 
 
@@ -1193,25 +1197,30 @@ AvalonStudioOfficial
 </td></tr></tbody></table>
 
 
+
 #### 出门装备
 ```
 [](./文件-THD2爱人卡.png.md) [](./文件-THD2思兼生命药.png.md) [](./文件-THD2雾雨魔力瓶.png.md) [](./文件-THD2鬼天王腰带.png.md)
 ```
+
 
 #### 前期装备
 ```
 [](./文件-THD2很值钱的礼物.png.md) [](./文件-THD2博丽供奉箱.png.md) [](./文件-THD2元素秘法石.png.md)
 ```
 
+
 #### 核心装备
 ```
 [](./文件-THD2香霖的礼服.png.md) [](./文件-THD2月面之弩.png.md) [](./文件-THD2八云间隙发生器.png.md)
 ```
 
+
 #### 可选装备
 ```
 [](./文件-THD2奇迹之星.png.md) [](./文件-THD2亡灵送行提灯.png.md) [](./文件-THD2魔法使的帽子.png.md) [](./文件-THD2真澄之镜.png.md) [](./文件-THD2楼观剑.png.md) [](./文件-THD2恶魔的乳牙.png.md) [](./文件-THD2神枪冈格尼尔.png.md) [](./文件-THD2月兔幻觉兵器.png.md) [](./文件-THD2月曜秘石.png.md) [](./文件-THD2冰精完美钻石.png.md)
 ```
+
 
 ## 技能加点
 
@@ -1359,6 +1368,7 @@ AvalonStudioOfficial
 </td></tr></tbody></table>
 
 
+
 ## 台词
 
 <table>
@@ -1448,6 +1458,7 @@ AvalonStudioOfficial
 <td>わたしに信仰（しんこう）なさい <br>[信仰我吧]
 </td></tr>
 </tbody></table>
+
 
 
 ## 教学视频

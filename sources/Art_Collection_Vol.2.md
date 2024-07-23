@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Art_Collection_Vol.2封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/c/c6/Art_Collection_Vol.2%E5%B0%81%E9%9D%A2.jpg/138px-Art_Collection_Vol.2%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="138" height="196" srcset="https://upload.thwiki.cc/thumb/c/c6/Art_Collection_Vol.2%E5%B0%81%E9%9D%A2.jpg/207px-Art_Collection_Vol.2%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/c/c6/Art_Collection_Vol.2%E5%B0%81%E9%9D%A2.jpg/276px-Art_Collection_Vol.2%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="844" data-file-height="1200"></a><div class="cover-char">角色：<a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a>，<a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a></div></td>
@@ -14,11 +15,14 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/65531473">https://www.pixiv.net/artworks/65531473</a><br><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/65519246">https://www.pixiv.net/artworks/65519246</a><br><a rel="nofollow" class="external free" href="https://twitter.com/rice01200120/status/919894300070100992">https://twitter.com/rice01200120/status/919894300070100992</a><br><a rel="nofollow" class="external free" href="https://twitter.com/rice01200120/status/921389961558900736">https://twitter.com/rice01200120/status/921389961558900736</a><br><a rel="nofollow" class="external free" href="https://twitter.com/rice01200120/status/921700693739651073">https://twitter.com/rice01200120/status/921700693739651073</a><br><a rel="nofollow" class="external free" href="https://twitter.com/rice01200120/status/921702675250421760">https://twitter.com/rice01200120/status/921702675250421760</a></td></tr><tr><td class="label">备注</td><td colspan="2">らいす个人画集；2024年<a rel="nofollow" class="external text" href="https://www.pixiv.net/artworks/119491607">在Pixiv上公开</a></td></tr></tbody></table>
 
 Art Collection Vol.2（同人志，stump，2017） - 2017年10月22日 由 stump 于 东方红楼梦13 发布的画集同人志，B5尺寸一共24页，分级为 一般向
+
 ## 预览
+
 ## Staff
 - らいす (未找到链接)
 - ににゅ (未找到链接) （guest; [stump](./stump.md)）
 - ムルミ ナツル (未找到链接) （guest; [Twitter: @Murumi_Naturu](https://twitter.com/Murumi_Naturu) （已经失效））
+
 
 ## 评论
 

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-東方コピー本!!Lv.7封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/f/ff/%E6%9D%B1%E6%96%B9%E3%82%B3%E3%83%94%E3%83%BC%E6%9C%AC%21%21Lv.7%E5%B0%81%E9%9D%A2.jpg/168px-%E6%9D%B1%E6%96%B9%E3%82%B3%E3%83%94%E3%83%BC%E6%9C%AC%21%21Lv.7%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="168" height="119" srcset="https://upload.thwiki.cc/thumb/f/ff/%E6%9D%B1%E6%96%B9%E3%82%B3%E3%83%94%E3%83%BC%E6%9C%AC%21%21Lv.7%E5%B0%81%E9%9D%A2.jpg/252px-%E6%9D%B1%E6%96%B9%E3%82%B3%E3%83%94%E3%83%BC%E6%9C%AC%21%21Lv.7%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/f/ff/%E6%9D%B1%E6%96%B9%E3%82%B3%E3%83%94%E3%83%BC%E6%9C%AC%21%21Lv.7%E5%B0%81%E9%9D%A2.jpg/336px-%E6%9D%B1%E6%96%B9%E3%82%B3%E3%83%94%E3%83%BC%E6%9C%AC%21%21Lv.7%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1200" data-file-height="850"></a><div class="cover-char">角色：<a href="./西行寺幽幽子.md" title="西行寺幽幽子">西行寺幽幽子</a>，<a href="./魂魄妖梦.md" title="魂魄妖梦">魂魄妖梦</a>，<a href="./宫古芳香.md" title="宫古芳香">宫古芳香</a>，<a href="./霍青娥.md" title="霍青娥">霍青娥</a>，<a href="./物部布都.md" title="物部布都">物部布都</a>，<a href="./苏我屠自古.md" title="苏我屠自古">苏我屠自古</a>，<a href="./丰聪耳神子.md" title="丰聪耳神子">丰聪耳神子</a>，<a href="./二岩猯藏.md" title="二岩猯藏">二岩猯藏</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/26547344">https://www.pixiv.net/artworks/26547344</a></td></tr></tbody></table>
 
 東方コピー本!!Lv.7（同人志，落ち葉，2012） - 2012年4月22日 由 落ち葉 于 大⑨州东方祭6 发布的画集同人志，一共20页，分级为 一般向
+
 ## Staff
 - 秋乃 楓 (未找到链接)
+
 
 ## 评论
 

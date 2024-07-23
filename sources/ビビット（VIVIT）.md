@@ -7,6 +7,7 @@
 本页是关于  
 与ZUN有一定关联的非东方作品 (未找到链接)  
 中登场角色的词条
+
 ## 目录
 
 - [1 角色信息](#角色信息)
@@ -24,6 +25,7 @@
 - [3 其他内容](#其他内容)
 - [4 外部链接](#外部链接)
 - [5 词条导航](#词条导航)
+
 
 
 
@@ -46,9 +48,12 @@
 </tr><tr><th><b>作品名</b></th><th><b>位置</b></th><th><b>类型</b></th><th><b>称号</b></th><th><b>主题曲</b></th></tr><tr><td rowspan="1" style="width:120px"><b><a href="./秋霜玉.md" title="秋霜玉">秋霜玉</a></b></td><td style="width:130px">6面BOSS</td><td class="bg-color-danger-30" style="width:30px;">游戏</td><td style="width:180px">-</td><td style="width:200px"><i>夢機械　～ Innocent Power</i><br><a href="./梦机械_～_Innocent_Power.md" title="梦机械 ～ Innocent Power">梦机械　～ Innocent Power</a><br><i>幻想科学　～ Doll's Phantom</i><br><a href="./幻想科学_～_Doll's_Phantom.md" title="幻想科学 ～ Doll&#39;s Phantom">幻想科学　～ Doll's Phantom</a><br><i>少女神性　～ Pandora's Box</i><br><a href="./少女神性_～_Pandora's_Box.md" title="少女神性 ～ Pandora&#39;s Box">少女神性　～ Pandora's Box</a></td></tr></tbody></table>
 
 
+
 ## 一设资料
+
 ### 秋霜玉
 [](./文件-ビビット（秋霜玉立绘）.png.md)  [](./文件-ビビット（秋霜玉立绘）.png.md)秋霜玉立绘
+
 #### Music Room
   
  *稀翁玉 ビビット（第1阶段）的主题曲*   
@@ -103,6 +108,7 @@
 - 查看日文原文 (未找到链接)
 
 
+
 ## 其他内容
   
 <big>
@@ -113,8 +119,10 @@
 <big></big>
   
 
+
 ## 外部链接
 - 
+
 
 ## 词条导航
   

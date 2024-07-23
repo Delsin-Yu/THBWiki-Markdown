@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-SummerVacation（ZINFANDEL）封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/e/e9/SummerVacation%EF%BC%88ZINFANDEL%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/156px-SummerVacation%EF%BC%88ZINFANDEL%EF%BC%89%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="156" height="224" srcset="https://upload.thwiki.cc/thumb/e/e9/SummerVacation%EF%BC%88ZINFANDEL%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/234px-SummerVacation%EF%BC%88ZINFANDEL%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/e/e9/SummerVacation%EF%BC%88ZINFANDEL%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/311px-SummerVacation%EF%BC%88ZINFANDEL%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="313" data-file-height="450"></a><div class="cover-char">角色：<a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=387082">https://www.melonbooks.co.jp/detail/detail.php?product_id=387082</a></td></tr></tbody></table>
 
 SummerVacation（同人志，ZINFANDEL，2018） - 2018年8月10日 由 ZINFANDEL 于 Comic Market 94 发布的画集同人志，B5尺寸一共20页，登场人物有 博丽灵梦、蕾米莉亚·斯卡蕾特、芙兰朵露·斯卡蕾特，分级为 一般向
+
 ## Staff
 - [ひゅらさん](./ひゅらさん.md)
+
 
 ## 评论
 ```

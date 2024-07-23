@@ -6,11 +6,13 @@
 
 本页是关于东方Project  
  **二次同人创作者** 的词条
+
 ## 基本信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="label"><b>名称</b></td><td> Zekk </td></tr><tr><td class="label"><b>所属社团</b></td><td><b>当前</b><div style="margin-left:2em;"><a href="./Synthikate.md" title="Synthikate">Synthikate</a></div></td></tr><tr><td class="label"><b>职位</b></td><td>作曲，编曲</td></tr><tr><td class="label"><b>参与社团</b></td><td><a href="/index.php?title=HARDCORE_TANO*C&amp;action=edit&amp;redlink=1" class="new" title="HARDCORE TANO*C（页面不存在）">HARDCORE TANO*C</a> （作曲）<br><a href="./MAD_MIND_MACHINE.md" title="MAD MIND MACHINE">MAD MIND MACHINE</a> （编曲）<br><a href="./Marvelous.md" title="Marvelous">Marvelous</a> （作曲）<br><a href="./SPACELECTRO.md" title="SPACELECTRO">SPACELECTRO</a> （编曲）<br><a href="./少女夢想中.md" title="少女夢想中">少女夢想中</a> （编曲）</td></tr></tbody></table>
 
 Zekk（人物） - 现实人物
+
 ## 介绍
   
 EDM作曲家。擅长Future Bass。

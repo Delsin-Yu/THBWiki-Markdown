@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -41,11 +42,13 @@
 
 
 
+
 ## 基本信息
 
-<table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">懐かしき東方の血　～ Old World</td></tr><tr><td><b>译名</b></td><td>令人怀念的东方之血 ～ Old World</td></tr><tr><td><b>英文译名</b></td><td>Nostalgic Blood of the East ~ Old World</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>引用</td></tr><tr><td style="padding-left:15px"><b>原曲</b></td><td><a href="/%E3%83%97%E3%83%A9%E3%82%B9%E3%83%81%E3%83%83%E3%82%AF%E3%83%9E%E3%82%A4%E3%83%B3%E3%83%89" class="mw-redirect" title="プラスチックマインド">プラスチックマインド</a></td></tr><tr><td style="padding-left:15px"><b>　来源</b></td><td>东方怪绮谈　～ Mystic Square.</td></tr></tbody></table>
+<table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">懐かしき東方の血　～ Old World</td></tr><tr><td><b>译名</b></td><td>令人怀念的东方之血 ～ Old World</td></tr><tr><td><b>英文译名</b></td><td>Nostalgic Blood of the East ~ Old World</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>引用</td></tr><tr><td style="padding-left:15px"><b>原曲</b></td><td><a href="./プラスチックマインド.md" class="mw-redirect" title="プラスチックマインド">プラスチックマインド</a></td></tr><tr><td style="padding-left:15px"><b>　来源</b></td><td>东方怪绮谈　～ Mystic Square.</td></tr></tbody></table>
 
 令人怀念的东方之血 ～ Old World（曲目） - 由 ZUN 创作的官方曲目，原名 懐かしき東方の血　～ Old World
+
 ## 出现作品
 
 <table>
@@ -54,8 +57,11 @@
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 东方永夜抄
+
 #### WAV
   
 WAV版是游戏的原声带。
@@ -70,6 +76,7 @@ WAV版是游戏的原声带。
 </td></tr></tbody></table>
 
 
+
 #### MIDI
   
 MIDI版由Roland Sound Canvas 88Pro实机录音得到。
@@ -79,7 +86,9 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td><a href="./文件-th08_06.mid.md" title="文件:th08 06.mid">th08_06.mid</a></td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th08_06_SC88Pro.mp3.md" title="文件:th08 06 SC88Pro.mp3">th08_06_SC88Pro.mp3</a><br><audio src="https://upload.thwiki.cc/f/f2/th08_06_SC88Pro.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>th08_06.mid</td></tr><tr><td><b>音轨时长</b></td><td>1:17</td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 东方永夜抄
 - Music Room (未找到链接)
 
@@ -95,7 +104,9 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
 　　古老之地。  
 　　虽然地和血谐音，但意思是一样的。地是对于玩家来说的名字，而血当然是  
 　　对我来说的名字。
+
 ## 其他资料
+
 ### 乐理资讯
 - 【曲名】令人怀念的东方之血 ～ Old World
 
@@ -118,6 +129,7 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
   
 (d) 钢琴十六分音符跑动。
   
+
 
 ### 分析考据
   
@@ -165,6 +177,7 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
     - 该词一般指亚欧非大陆，相对于被称作「新世界」的南北美洲。
     - 旧作的世界？
     - 历史的世界？
+
 
 
 

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-KARASU_MELTDOWN!_Original_Soundtrack封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/1/1c/KARASU_MELTDOWN%21_Original_Soundtrack%E5%B0%81%E9%9D%A2.jpg/252px-KARASU_MELTDOWN%21_Original_Soundtrack%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="252" srcset="https://upload.thwiki.cc/thumb/1/1c/KARASU_MELTDOWN%21_Original_Soundtrack%E5%B0%81%E9%9D%A2.jpg/378px-KARASU_MELTDOWN%21_Original_Soundtrack%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/1/1c/KARASU_MELTDOWN%21_Original_Soundtrack%E5%B0%81%E9%9D%A2.jpg/504px-KARASU_MELTDOWN%21_Original_Soundtrack%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1200" data-file-height="1200"></a><div class="cover-char">角色：<a href="./灵乌路空.md" title="灵乌路空">灵乌路空</a>，<a href="./古明地觉.md" title="古明地觉">古明地觉</a></div></td>
@@ -18,6 +19,7 @@ KARASU MELTDOWN! Original Soundtrack（同人专辑，Seifuku Sound，2022） - 
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://seifukusound.bandcamp.com/album/karasu-meltdown-original-soundtrack">bandcamp</a></td></tr></tbody></table>
 
 
+
 ## Staff
   
  **Compose**   
@@ -28,12 +30,14 @@ KARASU MELTDOWN! Original Soundtrack（同人专辑，Seifuku Sound，2022） - 
 Artwork
 : Ripleybeagle （[itch.io: ripleybeagle](https://ripleybeagle.itch.io/) / [Twitter: @ripleybeagle](https://twitter.com/ripleybeagle)）
 
+
 ## 曲目列表
 
 <table><tbody><tr><td id="1" class="infoYL"><b>01</b></td><td id="KARASU_MELTDOWN!_Title_Screen" colspan="2" class="title">KARASU MELTDOWN! Title Screen<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Seifuku Sound&amp;fromwiki=KARASU_MELTDOWN!_Original_Soundtrack"><span title="搜索相似同人曲"></span></a></span></td><td class="time">01:23</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=Seifuku_Sound&amp;action=edit&amp;redlink=1" class="new" title="Seifuku Sound（页面不存在）">Seifuku Sound</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Seifuku Sound&amp;fromwiki=KARASU_MELTDOWN!_Original_Soundtrack"><span></span></a></span></td></tr>
 <tr><td id="2" class="infoYL"><b>02</b></td><td id="KARASU_MELTDOWN!_Stage_1" colspan="2" class="title">KARASU MELTDOWN! Stage 1<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Seifuku Sound&amp;fromwiki=KARASU_MELTDOWN!_Original_Soundtrack"><span title="搜索相似同人曲"></span></a></span></td><td class="time">02:21</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=Seifuku_Sound&amp;action=edit&amp;redlink=1" class="new" title="Seifuku Sound（页面不存在）">Seifuku Sound</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Seifuku Sound&amp;fromwiki=KARASU_MELTDOWN!_Original_Soundtrack"><span></span></a></span></td></tr>
 <tr><td id="3" class="infoYL"><b>03</b></td><td id="KARASU_MELTDOWN!_Stage_2" colspan="2" class="title">KARASU MELTDOWN! Stage 2<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Seifuku Sound&amp;fromwiki=KARASU_MELTDOWN!_Original_Soundtrack"><span title="搜索相似同人曲"></span></a></span></td><td class="time">01:36</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=Seifuku_Sound&amp;action=edit&amp;redlink=1" class="new" title="Seifuku Sound（页面不存在）">Seifuku Sound</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Seifuku Sound&amp;fromwiki=KARASU_MELTDOWN!_Original_Soundtrack"><span></span></a></span></td></tr>
 <tr><td id="4" class="infoYL"><b>04</b></td><td id="KARASU_MELTDOWN!_Clear_Jingle" colspan="2" class="title">KARASU MELTDOWN! Clear Jingle<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Seifuku Sound&amp;fromwiki=KARASU_MELTDOWN!_Original_Soundtrack"><span title="搜索相似同人曲"></span></a></span></td><td class="time">00:08</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=Seifuku_Sound&amp;action=edit&amp;redlink=1" class="new" title="Seifuku Sound（页面不存在）">Seifuku Sound</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Seifuku Sound&amp;fromwiki=KARASU_MELTDOWN!_Original_Soundtrack"><span></span></a></span></td></tr></tbody></table>
+
 
 
 ## 评论

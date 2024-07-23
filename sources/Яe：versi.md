@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%D0%AFe%EF%BC%9Aversi%E5%B0%81%E9%9D%A2.jpg" class="new" title="文件:Яe：versi封面.jpg">封面图片</a></td>
@@ -14,10 +15,13 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://amaotohistory.tumblr.com/post/131022973594/第二回博麗神社秋季例大祭新刊">https://amaotohistory.tumblr.com/post/131022973594/第二回博麗神社秋季例大祭新刊</a><br><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/53022162">https://www.pixiv.net/artworks/53022162</a><br><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/53012854">https://www.pixiv.net/artworks/53012854</a><br><a rel="nofollow" class="external free" href="https://dqnww.tumblr.com/post/131189542537">https://dqnww.tumblr.com/post/131189542537</a></td></tr></tbody></table>
 
 Яe：versi（同人志，-amaoto＊-，2015） - 2015年10月18日 由 -amaoto＊- 于 博丽神社秋季例大祭2 发布的画集同人志，分级为 一般向
+
 ## 预览
+
 ## Staff
 - ryu-ma (未找到链接)
 - DQN (未找到链接)
+
 
 ## 评论
 

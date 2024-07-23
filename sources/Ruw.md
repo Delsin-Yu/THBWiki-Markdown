@@ -10,6 +10,7 @@
 <table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td style="width:120px"><b>人物名</b></td><td style="min-width:300px">Ruw（小山田文雄）</td></tr><tr><td><b>日文名</b></td><td>ルー</td></tr><tr><td><b>性别</b></td><td>男</td></tr><tr><td><b>所属社团</b></td><td><a href="./D.N.A.Softwares.md" title="D.N.A.Softwares">D.N.A.Softwares</a></td></tr><tr><td><b>个人网页</b></td><td><a rel="nofollow" class="external text" href="https://twitter.com/Ruw">推特</a> <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到需要翻墙网页">（需要翻墙）</span></td></tr></tbody></table>
 
 
+
 ## 经历简介
   
 同人社团[D.N.A.Softwares](./D.N.A.Softwares.md)的成员，同人社团[吞兵卫会](./吞兵卫会.md)主催，[上海爱丽丝幻乐团](./上海爱丽丝幻乐团.md)成员，[株式会社香霖堂](./株式会社香霖堂.md)董事，[MediaScape株式会社](./MediaScape.md)董事。  

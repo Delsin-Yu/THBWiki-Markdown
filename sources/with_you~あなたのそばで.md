@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-with_you~あなたのそばで封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/b/bc/with_you~%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AE%E3%81%9D%E3%81%B0%E3%81%A7%E5%B0%81%E9%9D%A2.jpg/141px-with_you~%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AE%E3%81%9D%E3%81%B0%E3%81%A7%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="141" height="196" srcset="https://upload.thwiki.cc/thumb/b/bc/with_you~%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AE%E3%81%9D%E3%81%B0%E3%81%A7%E5%B0%81%E9%9D%A2.jpg/211px-with_you~%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AE%E3%81%9D%E3%81%B0%E3%81%A7%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/b/bc/with_you~%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AE%E3%81%9D%E3%81%B0%E3%81%A7%E5%B0%81%E9%9D%A2.jpg/281px-with_you~%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AE%E3%81%9D%E3%81%B0%E3%81%A7%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="2461" data-file-height="3427"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>，<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://doujin.bgm.tv/subject/16303">http://doujin.bgm.tv/subject/16303</a></td></tr><tr><td class="label">备注</td><td colspan="2">灵梦×魔理沙婚礼主题漫画本</td></tr></tbody></table>
 
 with you~あなたのそばで（同人志，雪见温泉社，2013） - 2013年7月27日 由 雪见温泉社 于 COMIDAY12 发布的漫画同人志，B5尺寸一共52页，分级为 一般向
+
 ## Staff
 - 三千小纯 (未找到链接)
+
 
 ## 评论
 

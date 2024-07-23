@@ -4,6 +4,7 @@
 
 My_Friend
 
+
 ## 文件说明
   
 源地址：[direct image link](http://project-d.biz/tohosaiji/wp-content/uploads/sites/8/2021/09/マイフレンド７キービジュアル（レイヤー統合）-3.jpg), [source page](http://project-d.biz/tohosaiji/?p=246)

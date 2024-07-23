@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 软件信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-AcTIVE封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/d/de/AcTIVE%E5%B0%81%E9%9D%A2.jpg/99px-AcTIVE%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="99" height="140" srcset="https://upload.thwiki.cc/thumb/d/de/AcTIVE%E5%B0%81%E9%9D%A2.jpg/148px-AcTIVE%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/d/de/AcTIVE%E5%B0%81%E9%9D%A2.jpg/198px-AcTIVE%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1000" data-file-height="1415"></a><div class="cover-char">角色：<a href="./圣白莲.md" title="圣白莲">圣白莲</a></div></td>
@@ -26,8 +27,10 @@ AcTIVE（同人软件，W.spice，2010） - 2010年12月30日 由 W.spice 于 Co
 </tbody></table>
 
 
+
 ## Staff
 - めたるわさび (未找到链接)
+
 
 ## 评论
 

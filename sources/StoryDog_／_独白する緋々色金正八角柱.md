@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-StoryDog_／_独白する緋々色金正八角柱封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/b/be/StoryDog_%EF%BC%8F_%E7%8B%AC%E7%99%BD%E3%81%99%E3%82%8B%E7%B7%8B%E3%80%85%E8%89%B2%E9%87%91%E6%AD%A3%E5%85%AB%E8%A7%92%E6%9F%B1%E5%B0%81%E9%9D%A2.png/136px-StoryDog_%EF%BC%8F_%E7%8B%AC%E7%99%BD%E3%81%99%E3%82%8B%E7%B7%8B%E3%80%85%E8%89%B2%E9%87%91%E6%AD%A3%E5%85%AB%E8%A7%92%E6%9F%B1%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="136" height="196" srcset="https://upload.thwiki.cc/thumb/b/be/StoryDog_%EF%BC%8F_%E7%8B%AC%E7%99%BD%E3%81%99%E3%82%8B%E7%B7%8B%E3%80%85%E8%89%B2%E9%87%91%E6%AD%A3%E5%85%AB%E8%A7%92%E6%9F%B1%E5%B0%81%E9%9D%A2.png/205px-StoryDog_%EF%BC%8F_%E7%8B%AC%E7%99%BD%E3%81%99%E3%82%8B%E7%B7%8B%E3%80%85%E8%89%B2%E9%87%91%E6%AD%A3%E5%85%AB%E8%A7%92%E6%9F%B1%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/b/be/StoryDog_%EF%BC%8F_%E7%8B%AC%E7%99%BD%E3%81%99%E3%82%8B%E7%B7%8B%E3%80%85%E8%89%B2%E9%87%91%E6%AD%A3%E5%85%AB%E8%A7%92%E6%9F%B1%E5%B0%81%E9%9D%A2.png/273px-StoryDog_%EF%BC%8F_%E7%8B%AC%E7%99%BD%E3%81%99%E3%82%8B%E7%B7%8B%E3%80%85%E8%89%B2%E9%87%91%E6%AD%A3%E5%85%AB%E8%A7%92%E6%9F%B1%E5%B0%81%E9%9D%A2.png 2x" data-file-width="1746" data-file-height="2508"></a><div class="cover-char">角色：<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a></div></td>
@@ -18,17 +19,21 @@ StoryDog ／ 独白する緋々色金正八角柱（同人志，すずだんご�
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://ec.toranoana.jp/tora_r/ec/item/040030468126">虎穴</a>，<a rel="nofollow" class="external text" href="https://suzudango.booth.pm/items/566138">Booth</a></td></tr></tbody></table>
 
 
+
 ## 预览
 - [](./文件-StoryDog_／_独白する緋々色金正八角柱预览图1.png.md)- [](./文件-StoryDog_／_独白する緋々色金正八角柱预览图2.jpg.md)- [](./文件-StoryDog_／_独白する緋々色金正八角柱预览图3.jpg.md)- [](./文件-StoryDog_／_独白する緋々色金正八角柱预览图4.png.md)- [](./文件-StoryDog_／_独白する緋々色金正八角柱预览图5.png.md)
+
 
 ## Staff
 - [土露団子](./土露団子.md)
 - 文月雨香 (未找到链接)
 
+
 ## 评论
   
  **虎穴：**   
-<unsupported html=blockquote>
+<blockquote><p><span lang="ja">魔理沙×八卦炉によるリバーシブル小説本。壊れた八卦炉を直そうとする魔理沙が身も心も壊れる話。</span></p></blockquote>
+
   
   
 
@@ -36,7 +41,14 @@ StoryDog ／ 独白する緋々色金正八角柱（同人志，すずだんご�
 
   
  **booth：**   
-<unsupported html=blockquote>
+<blockquote><span lang="ja">――今日から、貴方に頼るのを止めようと思う――
+<p>私には、貴方がいて。貴方が私の根本的な「力自体」。
+そんなことは、わざわざこうして表さなくても、幻想郷で私と対峙した大半のものに加えて、そうでない者にもとうに知れている事だとは思うが、あえて言及しておこうと思う。
+私が、最も大切なことを忘れず、同時に再認識できるように。
+</p><p>すずだんご×LU.Ma.Sの初コラボレーションとなった今作は、八卦炉と魔理沙によるリバーシブル合作小説本。
+</p>
+壊れた八卦炉と壊れていく魔理沙、その両者が行き着く果てにあるものとは……!?</span></blockquote>
+
   
   
 

@@ -4,7 +4,8 @@
 
 Kota-rocK ，主要制作 同人音乐 的日本同人社团，主催是 鼓太蝋，当前状态为 休止
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -15,14 +16,17 @@ Kota-rocK ，主要制作 同人音乐 的日本同人社团，主催是 鼓太�
 
 
 
+
 ## 社团信息
 [](./文件-Kota-rocKbanner.jpg.md)  [](./文件-Kota-rocKbanner.jpg.md)banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Kota-rocK </td></tr><tr><td><b>中文名称</b></td><td>2006</td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>主催</b></td><td> <a href="./鼓太蝋.md" title="鼓太蝋">鼓太蝋</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://kota-rock.com">http://kota-rock.com</a> <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span></td></tr></tbody></table>
 
 Kota-rocK（同人社团，同人音乐社团） - Kota-rocK ，主要制作 同人音乐 的日本同人社团，主催是 鼓太蝋，当前状态为 休止
+
 ## 成员名单
 - [鼓太蝋](./鼓太蝋.md)(こたろう)
+
 
 ## 作品列表
 [](./Karm：d.md)[Karm:d](./Karm：d.md)首发日期：2006-12-31 （Comic Market 71 (未找到链接)）KOCD-0001EP （一般向）[](./闇深祭_～darkness_illusion～.md)[闇深祭　～darkness illusion～](./闇深祭_～darkness_illusion～.md)首发日期：2007-08-17 （Comic Market 72 (未找到链接)）TOCD-0001全长 （一般向）[](./真遠の夜.md)[真遠の夜](./真遠の夜.md)首发日期：2007-12-31 （Comic Market 73 (未找到链接)）TOCD-0002全长 （一般向）[](./風の音塊_～道中編～.md)[風の音塊　～道中編～](./風の音塊_～道中編～.md)首发日期：2008-08-16 （Comic Market 74 (未找到链接)）TOKO-0003全长 （一般向）[](./風の音塊_～ボス編～.md)[風の音塊　～ボス編～](./風の音塊_～ボス編～.md)首发日期：2008-12-29 （Comic Market 75 (未找到链接)）TOKO-0004全长 （一般向）[](./Birth_of_Fire.md)[Birth of Fire](./Birth_of_Fire.md)首发日期：2009-08-15 （Comic Market 76 (未找到链接)）TOKO-0005全长 （一般向）[](./Ghost_dignity.md)[Ghost dignity](./Ghost_dignity.md)首发日期：2009-12-30 （Comic Market 77 (未找到链接)）TOKO-0006全长 （一般向）
@@ -42,9 +46,10 @@ Kota-rocK（同人社团，同人音乐社团） - Kota-rocK ，主要制作 同
 </table>
 
 
+
 ## 其他信息
   
-该社团是[C-CLAYS](./C-CLAYS.md)的こたろう (未找到链接)的个人社团
+该社团是[C-CLAYS](./C-CLAYS.md)的[こたろう](./こたろう.md)的个人社团
   
   
 于2010年8月29日在[blog上](https://web.archive.org/web/20101105134921/http://blog.kota-rock.com/?eid=1048124)宣布停止活动。 

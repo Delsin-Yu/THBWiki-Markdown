@@ -6,11 +6,13 @@
 
 本页是关于东方Project  
  **相关实体周边 (未找到链接)** 的词条
+
 ## 模型信息
 
 <table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 琪露诺 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>大粘土</td></tr><tr><td class="label">角色</td><td><a href="./琪露诺.md" title="琪露诺">琪露诺</a></td></tr><tr><td class="label">原型师</td><td><a href="/index.php?title=%E4%BD%90%E8%97%A4%E3%83%8E%E3%83%96%E3%83%92%E3%83%AD&amp;action=edit&amp;redlink=1" class="new" title="佐藤ノブヒロ（页面不存在）">佐藤ノブヒロ</a></td></tr><tr><td class="label">尺寸</td><td>100mm</td></tr><tr><td class="label">状态</td><td>已发售</td></tr><tr><td class="label">售价</td><td>2857日元</td></tr><tr><td class="label">首发日期</td><td>2011-08-02</td></tr><tr><td class="label">发售方</td><td><a href="./Good_Smile_Company.md" title="Good Smile Company">Good Smile Company</a></td></tr><tr><td class="label">备注</td><td>编号167</td></tr></tbody></table>
 
 Good Smile Company/大粘土/琪露诺（周边） - 琪露诺PVCFigure手办模型
+
 ## 参考图片
 
 

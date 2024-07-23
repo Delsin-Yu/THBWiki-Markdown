@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **相关实体周边 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 周边信息](#周边信息)
@@ -18,6 +19,7 @@
 
 - [3 Staff](#Staff)
 - [4 评论](#评论)
+
 
 
 
@@ -35,10 +37,12 @@
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">授权代理</td><td colspan="2"><a rel="nofollow" class="external text" href="https://item.taobao.com/item.htm?spm=a1z09.2.0.0.78172e8denzAlk&amp;id=569533928029&amp;_u=c2gr2linaeff">淘宝</a></td></tr></tbody></table>
 
 
+
 ## 参考图
   
 周边宣传、售卖时使用的作为参考图的预览图或实物图的图片。
   
+
 
 ### 预览图
 - K's Cirno ver.
@@ -48,12 +52,15 @@
 
 - [](./文件-魂音泉／楽曲モチーフ／メタルストラップ_Vol.1预览图1.jpg.md)- [](./文件-魂音泉／楽曲モチーフ／メタルストラップ_Vol.1预览图2.jpg.md)- [](./文件-魂音泉／楽曲モチーフ／メタルストラップ_Vol.1预览图3.jpg.md)- [](./文件-魂音泉／楽曲モチーフ／メタルストラップ_Vol.1预览图4.jpg.md)
 
+
 ### 实物图
 - [](./文件-魂音泉／楽曲モチーフ／メタルストラップ_Vol.1实物图1.jpg.md)- [](./文件-魂音泉／楽曲モチーフ／メタルストラップ_Vol.1实物图2.jpg.md)- [](./文件-魂音泉／楽曲モチーフ／メタルストラップ_Vol.1实物图3.jpg.md)- [](./文件-魂音泉／楽曲モチーフ／メタルストラップ_Vol.1实物图4.jpg.md)
+
 
 ## Staff
 Illustration &amp; Design
 : [レイ](./零（同人专辑）.md)
+
 
 ## 评论
 

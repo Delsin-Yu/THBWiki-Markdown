@@ -4,7 +4,8 @@
 
 D.A.S.I.A (Dimension-information Assessment and Special Investigation Agency) ，主要制作 同人志，同人游戏 的中国大陆同人社团，主催是 谢尔曼_杨，曾以 东方战争摄制组 名义活动，当前状态为 休止
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -21,16 +22,20 @@ D.A.S.I.A (Dimension-information Assessment and Special Investigation Agency) �
 
 
 
+
 ## 社团信息
 文件:D.A.S.I.Alogo.jpg (未找到链接)  logo
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> D.A.S.I.A (Dimension-information Assessment and Special Investigation Agency) </td></tr><tr><td><b>中文名称</b></td><td>维度情评估与特殊调查局</td></tr><tr><td><b>曾用名称</b></td><td> 东方战争摄制组 </td></tr><tr><td><b>主要作品类型</b></td><td>同人志，同人游戏</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=%E8%B0%A2%E5%B0%94%E6%9B%BC_%E6%9D%A8&amp;action=edit&amp;redlink=1" class="new" title="谢尔曼 杨（页面不存在）">谢尔曼_杨</a> </td></tr><tr><td><b>地区</b></td><td>中国大陆</td></tr></tbody></table>
 
 D.A.S.I.A（同人社团，同人志社团，同人游戏社团） - D.A.S.I.A (Dimension-information Assessment and Special Investigation Agency) ，主要制作 同人志，同人游戏 的中国大陆同人社团，主催是 谢尔曼_杨，曾以 东方战争摄制组 名义活动，当前状态为 休止
+
 ## 成员名单
 - 谢尔曼_杨 (未找到链接) (a.k.a. 十六夜的MP40)
 
+
 ## 作品列表
+
 ### 同人志
 东方战争：绯红破晓 封面图片 (未找到链接)东方战争：绯红破晓 (未找到链接)首发日期：未知 - 东方战争2：幻想乡之泪 封面图片 (未找到链接)东方战争2：幻想乡之泪 (未找到链接)首发日期：未知 - 东方战争编年史 封面图片 (未找到链接)东方战争编年史 (未找到链接)首发日期：未知 - 东方战争默示录：归乡 封面图片 (未找到链接)东方战争默示录：归乡 (未找到链接)首发日期：未知 - 
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -39,10 +44,12 @@ D.A.S.I.A（同人社团，同人志社团，同人游戏社团） - D.A.S.I.A (
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458"></table>
 
 
+
 ### 同人游戏
 
 <table><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 参展信息

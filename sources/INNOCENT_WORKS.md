@@ -4,7 +4,8 @@
 
 INNOCENT WORKS ，主要制作 同人志，同人音乐 的日本同人社团，主催是 SAVAN，当前状态为 休止
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -21,17 +22,21 @@ INNOCENT WORKS ，主要制作 同人志，同人音乐 的日本同人社团，
 
 
 
+
 ## 社团信息
 [](./文件-INNOCENT_WORKSbanner.jpg.md)  [](./文件-INNOCENT_WORKSbanner.jpg.md)banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> INNOCENT WORKS </td></tr><tr><td><b>主要作品类型</b></td><td>同人志，同人音乐</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=SAVAN&amp;action=edit&amp;redlink=1" class="new" title="SAVAN（页面不存在）">SAVAN</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://www.ab.auone-net.jp/~savan/">http://www.ab.auone-net.jp/~savan/</a> <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span></td></tr></tbody></table>
 
 INNOCENT WORKS（同人社团，同人志社团，同人音乐社团） - INNOCENT WORKS ，主要制作 同人志，同人音乐 的日本同人社团，主催是 SAVAN，当前状态为 休止
+
 ## 成员名单
 - SAVAN (未找到链接)
 - QLYNX. (未找到链接)
 
+
 ## 作品列表
+
 ### 同人志
 Session 封面图片 (未找到链接)Session（同人志） (未找到链接)首发日期：未知 - Session 2 封面图片 (未找到链接)Session 2 (未找到链接)首发日期：未知 - MOON STRUT 封面图片 (未找到链接)MOON STRUT (未找到链接)首发日期：未知 - My Funny Valentine 封面图片 (未找到链接)My Funny Valentine (未找到链接)首发日期：未知 - KEMURI side-A 封面图片 (未找到链接)KEMURI side-A (未找到链接)首发日期：未知 - KEMURI side-B 封面图片 (未找到链接)KEMURI side-B (未找到链接)首发日期：未知 - One or Eight 封面图片 (未找到链接)One or Eight (未找到链接)首发日期：未知 - TAKE FIVE 封面图片 (未找到链接)TAKE FIVE (未找到链接)首发日期：未知 - Speak Like A Child 封面图片 (未找到链接)Speak Like A Child（INNOCENT WORKS） (未找到链接)首发日期：未知 - 夕刻メテオ 封面图片 (未找到链接)夕刻メテオ (未找到链接)首发日期：未知 - A NIGHTS INTERLUDE 封面图片 (未找到链接)A NIGHTS INTERLUDE (未找到链接)首发日期：未知 - 浮雲 UKIGUMO 壱 封面图片 (未找到链接)浮雲 UKIGUMO 壱 (未找到链接)首发日期：未知 - 東方學園譚 一学期 封面图片 (未找到链接)東方學園譚 一学期 (未找到链接)首发日期：未知 - Cookie Bouquets 封面图片 (未找到链接)Cookie Bouquets (未找到链接)首发日期：未知 - 浮雲 UKIGUMO 弐 封面图片 (未找到链接)浮雲 UKIGUMO 弐 (未找到链接)首发日期：未知 - UNDERGROUND VIBES 封面图片 (未找到链接)UNDERGROUND VIBES (未找到链接)首发日期：未知 - 浮雲 UKIGUMO 参 封面图片 (未找到链接)浮雲 UKIGUMO 参 (未找到链接)首发日期：未知 - 浮雲 UKIGUMO 肆 封面图片 (未找到链接)浮雲 UKIGUMO 肆 (未找到链接)首发日期：未知 - FOLKLORE 封面图片 (未找到链接)FOLKLORE (未找到链接)首发日期：未知 - [](./浮雲_UKIGUMO_伍.md)[浮雲 UKIGUMO 伍](./浮雲_UKIGUMO_伍.md)首发日期：2011-10-16 （東方紅楼夢7 (未找到链接)）漫画 （一般向） 80&#160;页浮雲 UKIGUMO 陸 封面图片 (未找到链接)浮雲 UKIGUMO 陸 (未找到链接)首发日期：未知 - よせあつめブルース 封面图片 (未找到链接)よせあつめブルース (未找到链接)首发日期：未知 - 浮雲 UKIGUMO 漆 封面图片 (未找到链接)浮雲 UKIGUMO 漆 (未找到链接)首发日期：未知 - 東方レトロスペクティブ 封面图片 (未找到链接)東方レトロスペクティブ (未找到链接)首发日期：未知 - Marmalade Reverie 封面图片 (未找到链接)Marmalade Reverie (未找到链接)首发日期：未知 - 浮雲 捌 封面图片 (未找到链接)浮雲 捌 (未找到链接)首发日期：未知 - 浮雲 UKIGUMO 玖 封面图片 (未找到链接)浮雲 UKIGUMO 玖 (未找到链接)首发日期：未知 - 浮雲 UKIGUMO 拾 封面图片 (未找到链接)浮雲 UKIGUMO 拾 (未找到链接)首发日期：未知 - By-Path 封面图片 (未找到链接)By-Path (未找到链接)首发日期：未知 - 浮雲 UKIGUMO 拾壱 封面图片 (未找到链接)浮雲 UKIGUMO 拾壱 (未找到链接)首发日期：未知 - By-Path 2 封面图片 (未找到链接)By-Path 2 (未找到链接)首发日期：未知 - 浮雲 UKIGUMO 拾弐 封面图片 (未找到链接)浮雲 UKIGUMO 拾弐 (未找到链接)首发日期：未知 - 浮雲 UKIGUMO 2010～2012 封面图片 (未找到链接)浮雲 UKIGUMO 2010～2012 (未找到链接)首发日期：未知 - By-Path 3 封面图片 (未找到链接)By-Path 3 (未找到链接)首发日期：未知 - Fresh in my Mind 封面图片 (未找到链接)Fresh in my Mind (未找到链接)首发日期：未知 - 浮雲 UKIGUMO 2012～2014 封面图片 (未找到链接)浮雲 UKIGUMO 2012～2014 (未找到链接)首发日期：未知 - KEMURI + 封面图片 (未找到链接)KEMURI + (未找到链接)首发日期：未知 - 
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -74,6 +79,7 @@ Session 封面图片 (未找到链接)Session（同人志） (未找到链接)�
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458"></table>
 
 
+
 ### 同人专辑
 [](./ORIENTAL_VIBES.md)[ORIENTAL VIBES](./ORIENTAL_VIBES.md)首发日期：2009-08-15 （Comic Market 76 (未找到链接)）IWCD-002全长 （一般向）東方アレンジCD(仮) -DEMO disc- 封面图片 (未找到链接)東方アレンジCD(仮) -DEMO disc- (未找到链接)首发日期：未知 - 名称未設定 -DEMO disc- 封面图片 (未找到链接)名称未設定 -DEMO disc- (未找到链接)首发日期：未知 - 咲マリ合同誌特典CD-R 封面图片 (未找到链接)咲マリ合同誌特典CD-R (未找到链接)首发日期：未知 - 東方絢文録 坂東の巻 INNOCENT WORKS CD 封面图片 (未找到链接)[東方絢文録 坂東の巻 INNOCENT WORKS CD](./東方絢文録_坂東の巻_INNOCENT_WORKS_CD.md)首发日期：2010-04-04 （東方絢文禄 坂東の卷 第一弾 (未找到链接)）EP （一般向）
 <table><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
@@ -83,6 +89,7 @@ Session 封面图片 (未找到链接)Session（同人志） (未找到链接)�
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 参展信息

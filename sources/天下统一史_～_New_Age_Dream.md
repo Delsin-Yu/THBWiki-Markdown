@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **东方风自作曲** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -28,11 +29,13 @@
 
 
 
+
 ## 基本信息
 
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">天下統一ヒストリー　～ New Age Dream</td></tr><tr><td><b>译名</b></td><td>天下统一史 ～ New Age Dream</td></tr><tr><td><b>作曲</b></td><td><a href="./I_do.md" title="I do" unred="">ido</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 天下统一史 ～ New Age Dream（曲目） - 由 ido 创作的东方风自作曲，原名 天下統一ヒストリー　～ New Age Dream
+
 ## 出现作品
 
 <table>
@@ -41,8 +44,11 @@
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ## 说明文本
+
 ### 东方魔宝城
 - Music Room (未找到链接)
 
@@ -56,8 +62,11 @@
 不算…太阴暗的曲子吧？
   
 
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
 
 

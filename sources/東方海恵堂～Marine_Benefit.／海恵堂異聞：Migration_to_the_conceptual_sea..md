@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-東方海恵堂～Marine_Benefit.／海恵堂異聞：Migration_to_the_conceptual_sea.封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/1/1f/%E6%9D%B1%E6%96%B9%E6%B5%B7%E6%81%B5%E5%A0%82%EF%BD%9EMarine_Benefit.%EF%BC%8F%E6%B5%B7%E6%81%B5%E5%A0%82%E7%95%B0%E8%81%9E%EF%BC%9AMigration_to_the_conceptual_sea.%E5%B0%81%E9%9D%A2.jpg/196px-%E6%9D%B1%E6%96%B9%E6%B5%B7%E6%81%B5%E5%A0%82%EF%BD%9EMarine_Benefit.%EF%BC%8F%E6%B5%B7%E6%81%B5%E5%A0%82%E7%95%B0%E8%81%9E%EF%BC%9AMigration_to_the_conceptual_sea.%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="196" height="196" srcset="https://upload.thwiki.cc/thumb/1/1f/%E6%9D%B1%E6%96%B9%E6%B5%B7%E6%81%B5%E5%A0%82%EF%BD%9EMarine_Benefit.%EF%BC%8F%E6%B5%B7%E6%81%B5%E5%A0%82%E7%95%B0%E8%81%9E%EF%BC%9AMigration_to_the_conceptual_sea.%E5%B0%81%E9%9D%A2.jpg/294px-%E6%9D%B1%E6%96%B9%E6%B5%B7%E6%81%B5%E5%A0%82%EF%BD%9EMarine_Benefit.%EF%BC%8F%E6%B5%B7%E6%81%B5%E5%A0%82%E7%95%B0%E8%81%9E%EF%BC%9AMigration_to_the_conceptual_sea.%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/1/1f/%E6%9D%B1%E6%96%B9%E6%B5%B7%E6%81%B5%E5%A0%82%EF%BD%9EMarine_Benefit.%EF%BC%8F%E6%B5%B7%E6%81%B5%E5%A0%82%E7%95%B0%E8%81%9E%EF%BC%9AMigration_to_the_conceptual_sea.%E5%B0%81%E9%9D%A2.jpg/392px-%E6%9D%B1%E6%96%B9%E6%B5%B7%E6%81%B5%E5%A0%82%EF%BD%9EMarine_Benefit.%EF%BC%8F%E6%B5%B7%E6%81%B5%E5%A0%82%E7%95%B0%E8%81%9E%EF%BC%9AMigration_to_the_conceptual_sea.%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="512" data-file-height="512"></a><div class="cover-char">角色：<a href="./观福宫乙姬.md" title="观福宫乙姬">观福宫乙姬</a></div></td>
@@ -14,16 +15,20 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://ch.nicovideo.jp/crystalwings_Arts/blomaga/ar1046277">http://ch.nicovideo.jp/crystalwings_Arts/blomaga/ar1046277</a><br>（黑羽的nico空间）</td></tr></tbody></table>
 
 東方海恵堂～Marine Benefit.／海恵堂異聞：Migration to the conceptual sea.（同人专辑，海神書房，2016） - 2016年11月5日 由 海神書房  发布的全长同人专辑，分级为 一般向
+
 ## Staff
 - 黒羽 （[推特@crystalwings_](https://twitter.com/crystalwings_)）
 
+
 ## 曲目列表
+
 ### Chapter.1 「遷宮抄」
 
 <table><tbody><tr><td id="1" class="infoYL"><b>01</b></td><td id="海恵堂の四方山話" colspan="2" class="title">海恵堂の四方山話<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=黑羽&amp;fromwiki=東方海恵堂～Marine_Benefit.／海恵堂異聞：Migration_to_the_conceptual_sea."><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./黑羽.md" title="黑羽">黑羽</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，黑羽&amp;fromwiki=東方海恵堂～Marine_Benefit.／海恵堂異聞：Migration_to_the_conceptual_sea."><span></span></a></span></td></tr>
 <tr><td id="2" class="infoYL"><b>02</b></td><td id="神様の気ままな大遷宮" colspan="2" class="title">神様の気ままな大遷宮<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=黑羽&amp;fromwiki=東方海恵堂～Marine_Benefit.／海恵堂異聞：Migration_to_the_conceptual_sea."><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./黑羽.md" title="黑羽">黑羽</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，黑羽&amp;fromwiki=東方海恵堂～Marine_Benefit.／海恵堂異聞：Migration_to_the_conceptual_sea."><span></span></a></span></td></tr>
 <tr><td id="3" class="infoYL"><b>03</b></td><td id="新地探訪_～_Sea_of_stratagem" colspan="2" class="title">新地探訪　～ Sea of stratagem<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=黑羽&amp;fromwiki=東方海恵堂～Marine_Benefit.／海恵堂異聞：Migration_to_the_conceptual_sea."><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./黑羽.md" title="黑羽">黑羽</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，黑羽&amp;fromwiki=東方海恵堂～Marine_Benefit.／海恵堂異聞：Migration_to_the_conceptual_sea."><span></span></a></span></td></tr>
 <tr><td id="4" class="infoYL"><b>04</b></td><td id="綿津見の巫女さん" colspan="2" class="title">綿津見の巫女さん<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=黑羽&amp;fromwiki=東方海恵堂～Marine_Benefit.／海恵堂異聞：Migration_to_the_conceptual_sea."><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./黑羽.md" title="黑羽">黑羽</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，黑羽&amp;fromwiki=東方海恵堂～Marine_Benefit.／海恵堂異聞：Migration_to_the_conceptual_sea."><span></span></a></span></td></tr></tbody></table>
+
 
 
 ### Chapter.2「海探抄」
@@ -50,12 +55,14 @@
 <tr><td id="24" class="infoYL"><b>20</b></td><td id="上海詩歌_～_Journey_to_-Migrate-" colspan="2" class="title">上海詩歌 ～ Journey to -Migrate-<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=黑羽&amp;fromwiki=東方海恵堂～Marine_Benefit.／海恵堂異聞：Migration_to_the_conceptual_sea."><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./黑羽.md" title="黑羽">黑羽</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，黑羽&amp;fromwiki=東方海恵堂～Marine_Benefit.／海恵堂異聞：Migration_to_the_conceptual_sea."><span></span></a></span></td></tr></tbody></table>
 
 
+
 ## 概述
   
-《海恵堂異聞：Migration to the conceptual sea.》是[東方海恵堂 ～ Marine Benefit.](./東方海恵堂_～_Marine_Benefit..md)音乐作者黒羽 (未找到链接)的二次同人音乐集及同人小说企划。  
+《海恵堂異聞：Migration to the conceptual sea.》是[東方海恵堂 ～ Marine Benefit.](./東方海恵堂_～_Marine_Benefit..md)音乐作者[黒羽](./黒羽.md)的二次同人音乐集及同人小说企划。  
 
 音乐发表在Niconico Commons，而小说则发表于Niconico的博客，ブロマガ上。
   
+
 
 ## 内容页面
 - [海惠堂从者录](./東方海恵堂～Marine_Benefit.／海恵堂異聞：Migration_to_the_conceptual_sea.-海恵堂従者録.md)
@@ -63,6 +70,7 @@
 - [Chapter.2「海探抄」](./東方海恵堂～Marine_Benefit.／海恵堂異聞：Migration_to_the_conceptual_sea.-海探抄.md)
 - 角色 (未找到链接)
 - [其他文档](./東方海恵堂～Marine_Benefit.／海恵堂異聞：Migration_to_the_conceptual_sea.-其他文档.md)
+
 
 ## 评论
 

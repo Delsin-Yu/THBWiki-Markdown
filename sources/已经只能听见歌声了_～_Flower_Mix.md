@@ -1,0 +1,186 @@
+# 已经只能听见歌声了
+
+<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\2\2a\ns0%3A%E5%B7%B2%E7%BB%8F%E5%8F%AA%E8%83%BD%E5%90%AC%E8%A7%81%E6%AD%8C%E5%A3%B0%E4%BA%86.html -->
+
+由 ZUN 创作的官方曲目，原名 もう歌しか聞こえない
+
+本页是关于东方Project  
+ **原作音乐** 的词条
+
+## 目录
+
+- [1 基本信息](#基本信息)
+- [2 出现作品](#出现作品)
+- [3 音乐文件](#音乐文件)
+
+  - [3.1 东方永夜抄](#东方永夜抄)
+
+    - [3.1.1 WAV](#WAV)
+    - [3.1.2 MIDI](#MIDI)
+
+
+
+  - [3.2 东方花映塚](#东方花映塚)
+
+
+
+- [4 说明文本](#说明文本)
+
+  - [4.1 东方永夜抄](#东方永夜抄_2)
+  - [4.2 东方花映塚](#东方花映塚_2)
+
+
+
+- [5 其他资料](#其他资料)
+
+  - [5.1 乐理资讯](#乐理资讯)
+  - [5.2 分析考据](#分析考据)
+  - [5.3 二次同人数据](#二次同人数据)
+
+
+
+
+
+
+
+
+## 基本信息
+
+<table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">もう歌しか聞こえない</td></tr><tr><td><b>译名</b></td><td>已经只能听见歌声了</td></tr><tr><td><b>英文译名</b></td><td>Deaf to All but the Song</td></tr><tr><td><b>常见误译</b></td><td><s><i>只听见歌声</i></s></td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
+
+已经只能听见歌声了（曲目） - 由 ZUN 创作的官方曲目，原名 もう歌しか聞こえない
+
+## 出现作品
+
+<table>
+<tbody><tr><td>2004年4月18日（第一回 博丽神社例大祭）</td><td><b><a href="./东方永夜抄.md" title="东方永夜抄">东方永夜抄</a>体验版</b></td><td>2面BOSS<a href="./米斯蒂娅·萝蕾拉.md" title="米斯蒂娅·萝蕾拉">米斯蒂娅·萝蕾拉</a>的主题曲</td><td style="padding-left:5px;">もう歌しか聞こえない（已经只能听见歌声了）</td><td style="padding-left:10px;">作曲：ZUN</td></tr>
+<tr><td>2004年8月15日（Comic Market 66）</td><td><b><a href="./东方永夜抄.md" title="东方永夜抄">东方永夜抄</a>正式版</b></td><td>2面BOSS<a href="./米斯蒂娅·萝蕾拉.md" title="米斯蒂娅·萝蕾拉">米斯蒂娅·萝蕾拉</a>的主题曲</td><td style="padding-left:5px;">もう歌しか聞こえない（已经只能听见歌声了）</td><td style="padding-left:10px;">作曲：ZUN</td></tr>
+<tr><td>2005年8月14日（Comic Market 68）</td><td><b><a href="./东方花映塚.md" title="东方花映塚">东方花映塚</a></b></td><td><a href="./米斯蒂娅·萝蕾拉.md" title="米斯蒂娅·萝蕾拉">米斯蒂娅·萝蕾拉</a>的主题曲</td><td style="padding-left:5px;">もう歌しか聞こえない　～ Flower Mix（已经只能听见歌声了　～ Flower Mix）</td><td style="padding-left:10px;">编曲：ZUN</td></tr>
+</tbody></table>
+
+
+
+## 音乐文件
+
+### 东方永夜抄
+
+#### WAV
+  
+WAV版是游戏的原声带。
+  
+
+
+<table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td><a href="./文件-th08_05.mid.md" title="文件:th08 05.mid">th08_05.mid</a></td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th08_05.mp3.md" title="文件:th08 05.mp3">th08_05.mp3</a><br><audio src="https://upload.thwiki.cc/b/b4/th08_05.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>BGM\th08_05.wav</td></tr><tr><td><b>BGMForAll</b></td><td><div class="mw-collapsible mw-collapsed">
+<p><b>BGMForAll数据信息</b>
+</p>
+<div class="mw-collapsible-content">BGM = もう歌しか聞こえない, 0x487c010, 0x44d680, 0x4cc9690, 0xbe3a80</div>
+</div>
+</td></tr></tbody></table>
+
+
+
+#### MIDI
+  
+MIDI版由Roland Sound Canvas 88Pro实机录音得到。
+  
+
+
+<table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td><a href="./文件-th08_05.mid.md" title="文件:th08 05.mid">th08_05.mid</a></td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th08_05_SC88Pro.mp3.md" title="文件:th08 05 SC88Pro.mp3">th08_05_SC88Pro.mp3</a><br><audio src="https://upload.thwiki.cc/c/c6/th08_05_SC88Pro.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>th08_05.mid</td></tr><tr><td><b>音轨时长</b></td><td>1:30</td></tr></tbody></table>
+
+
+
+### 东方花映塚
+
+<table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td><a href="./文件-th09_09.mid.md" title="文件:th09 09.mid">th09_09.mid</a></td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th09_09.mp3.md" title="文件:th09 09.mp3">th09_09.mp3</a><br><audio src="https://upload.thwiki.cc/8/8e/th09_09.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>BGM\th09_09.wav</td></tr><tr><td><b>BGMForAll</b></td><td><div class="mw-collapsible mw-collapsed">
+<p><b>BGMForAll数据信息</b>
+</p>
+<div class="mw-collapsible-content">BGM = もう歌しか聞こえない ～ Flower Mix, 0x783FC10, 0x1B3C80, 0x79F3890, 0x1A41E40</div>
+</div>
+</td></tr></tbody></table>
+
+
+
+## 说明文本
+
+### 东方永夜抄
+- Music Room (未找到链接)
+
+　米斯蒂娅·萝蕾拉的主题曲。  
+　明明是２面BOSS却莫名给人一种强敌般感觉的曲子。  
+　神秘的部分和鸟一般的部分和夜晚一般的部分……，  
+　这种不明所以的主题统统不管，只是为了表现可爱与帅气  
+　而创作出来。  
+　由于敌人不是太大的反派，所以这首曲子比较悠闲。
+- 里音乐评论 (未找到链接)
+
+　5.已经只能听见歌声了  
+　　　这当然是和米斯蒂娅的弹幕相关的名字。只能听见歌声，那不是因为歌有魅力，  
+    而是因为这是半强制性的。
+
+### 东方花映塚
+- Music Room (未找到链接)
+
+　鸟，也就是，米斯蒂娅·萝蕾拉的主题曲。  
+　增加了三成的激烈度。  
+　说起来，虽然在途中成了失控般的Up Tempo，不过这是故意的。  
+　米斯蒂娅也醉心于花而兴致高昂。  
+　虽然说米斯蒂娅的歌令人发狂，  
+　不过只要听了她的歌，多难的歌都想唱唱试试。  
+　听了这种歌会变得奇怪，三半规管也会失常，真是朋克的妖怪啊。
+
+## 其他资料
+
+### 乐理资讯
+
+### 分析考据
+  
+ **もう歌しか聞こえない**  已经只能听见歌声了
+  
+
+- <ruby lang="ja"><rb>歌</rb><rp> (</rp><rt>うた</rt><rp>) </rp></ruby>
+
+  - 夜雀的歌声。
+  - 米斯蒂娅的能力与歌声有关。
+
+- <ruby lang="ja"><rb>歌</rb><rp> (</rp><rt>うた</rt><rp>) </rp></ruby>
+しか<ruby lang="ja"><rb>聞</rb><rp> (</rp><rt>き</rt><rp>) </rp></ruby>
+こえない（只能听见歌声）
+  - 米斯蒂娅会让人得夜盲症。
+
+
+
+### 二次同人数据
+
+<table><tbody><tr><th colspan="2">统计</th></tr>
+<tr><td>名称</td><td>已经只能听见歌声了</td></tr>
+<tr><td>别名</td><td>もう歌しか聞こえない<br>もう歌しか聞こえない ～ Flower Mix<br>已经只能听见歌声了 ～ Flower Mix</td></tr>
+<tr><td>首发作品</td><td>东方永夜抄体验版</td></tr>
+<tr><td>首发日期</td><td>2004-04-18</td></tr>
+<tr><td>总数</td><td>1075</td></tr>
+<tr><td>Vocal</td><td>326</td></tr>
+<tr><td>Arrange</td><td>749</td></tr>
+<tr><td>Vocal率</td><td>30.33%</td></tr>
+</tbody></table>
+
+
+
+
+  
+  
+
+  
+
+
+
+
+
+---
+
+此文档由 [THBWiki-Markdown-Builder](https://github.com/Delsin-Yu/THBWiki-Markdown-Builder) 构建。
+
+文档中的所有内容除特殊注明外，均在 [**知识共享(Creative Commons) 署名-非商业性使用-相同方式共享 3.0 协议**](https://creativecommons.org/licenses/by-sa/3.0/deed.zh-hans) 下提供，附加条款亦可能应用。
+
+引用类型与其他类型作品版权归原作者所有，如有作者授权则遵照授权协议使用。
+
+详细请查阅 [THBWiki：免责声明](https://thbwiki.cc/THBWiki:%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E)。
+

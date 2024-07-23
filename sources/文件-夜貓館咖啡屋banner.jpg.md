@@ -4,6 +4,7 @@
 
 夜貓館咖啡屋 | 社团LOGO
 
+
 ## 摘要
   
 源地址：[direct image link](https://web.archive.org/web/20111212020545im_/http://yamyoukan.net/YMKlogo.jpg), [source page](https://web.archive.org/web/20080604030627/http://www.chinesenewear.com/wolfenstein/blog/about/)

@@ -4,10 +4,12 @@
 
 笑点大喜利歌丸团
 
+
 ## 自机
 
 
 <table><tbody><tr><td align="center"><a rel="nofollow" class="external text" href="https://thwiki.cc/文件:圣白莲（伪笑点）.png">上传</a></td> <td style="width:150px;padding:3px 9px 3px 7px;">紫云环绕之寺的僧侣</td><td style="width:180px;padding:3px 9px 3px 7px;" rowspan="1"><a href="./圣白莲.md" title="圣白莲">圣白莲</a></td></tr><tr><td align="center"><a rel="nofollow" class="external text" href="https://thwiki.cc/文件:物部布都（伪笑点）.png">上传</a></td> <td style="width:150px;padding:3px 9px 3px 7px;">古代日本的风水师</td><td style="width:180px;padding:3px 9px 3px 7px;" rowspan="1"><a href="./物部布都.md" title="物部布都">物部布都</a></td></tr></tbody></table>
+
 
 
 ## 敌方角色

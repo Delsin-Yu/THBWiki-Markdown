@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-おどろき小箱_こがばんWeb再録本封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/d/d3/%E3%81%8A%E3%81%A9%E3%82%8D%E3%81%8D%E5%B0%8F%E7%AE%B1_%E3%81%93%E3%81%8C%E3%81%B0%E3%82%93Web%E5%86%8D%E9%8C%B2%E6%9C%AC%E5%B0%81%E9%9D%A2.jpg/157px-%E3%81%8A%E3%81%A9%E3%82%8D%E3%81%8D%E5%B0%8F%E7%AE%B1_%E3%81%93%E3%81%8C%E3%81%B0%E3%82%93Web%E5%86%8D%E9%8C%B2%E6%9C%AC%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="157" height="224" srcset="https://upload.thwiki.cc/thumb/d/d3/%E3%81%8A%E3%81%A9%E3%82%8D%E3%81%8D%E5%B0%8F%E7%AE%B1_%E3%81%93%E3%81%8C%E3%81%B0%E3%82%93Web%E5%86%8D%E9%8C%B2%E6%9C%AC%E5%B0%81%E9%9D%A2.jpg/236px-%E3%81%8A%E3%81%A9%E3%82%8D%E3%81%8D%E5%B0%8F%E7%AE%B1_%E3%81%93%E3%81%8C%E3%81%B0%E3%82%93Web%E5%86%8D%E9%8C%B2%E6%9C%AC%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/d/d3/%E3%81%8A%E3%81%A9%E3%82%8D%E3%81%8D%E5%B0%8F%E7%AE%B1_%E3%81%93%E3%81%8C%E3%81%B0%E3%82%93Web%E5%86%8D%E9%8C%B2%E6%9C%AC%E5%B0%81%E9%9D%A2.jpg/315px-%E3%81%8A%E3%81%A9%E3%82%8D%E3%81%8D%E5%B0%8F%E7%AE%B1_%E3%81%93%E3%81%8C%E3%81%B0%E3%82%93Web%E5%86%8D%E9%8C%B2%E6%9C%AC%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="633" data-file-height="900"></a><div class="cover-char">角色：<a href="./赤蛮奇.md" title="赤蛮奇">赤蛮奇</a>，<a href="./多多良小伞.md" title="多多良小伞">多多良小伞</a></div></td>
@@ -18,9 +19,12 @@
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=1985785">蜜瓜</a></td></tr></tbody></table>
 
 
+
 ## 预览
+
 ## Staff
 - ぷちみりん (未找到链接)
+
 
 ## 评论
 

@@ -4,7 +4,8 @@
 
 Mods Crisis ∞ ，于 2011 年成立，主要制作 同人音乐 的日本同人社团，当前状态为 解散
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -18,6 +19,7 @@ Mods Crisis ∞ ，于 2011 年成立，主要制作 同人音乐 的日本同�
 
 
 
+
 ## 社团信息
 文件:Mods Crisis ∞banner.jpg (未找到链接)  banner
 [](./文件-Mods_Crisis_∞logo.jpg.md)  [](./文件-Mods_Crisis_∞logo.jpg.md)logo
@@ -25,6 +27,7 @@ Mods Crisis ∞ ，于 2011 年成立，主要制作 同人音乐 的日本同�
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Mods Crisis ∞ </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2011</td></tr><tr><td><b>当前状态</b></td><td>解散</td></tr><tr><td><b>解散时间</b></td><td>2015-07-15</td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://modscrisis.wixsite.com/modscrisis/">http://modscrisis.wixsite.com/modscrisis/</a> <br><a rel="nofollow" class="external free" href="https://www.youtube.com/channel/UCpU470iJsQkZRenCEKuzu6A">https://www.youtube.com/channel/UCpU470iJsQkZRenCEKuzu6A</a><br><a rel="nofollow" class="external free" href="https://soundcloud.com/mods-crisis">https://soundcloud.com/mods-crisis</a><br><a rel="nofollow" class="external free" href="http://modscrisis.blog.fc2.com/">http://modscrisis.blog.fc2.com/</a> （旧官网）</td></tr></tbody></table>
 
 Mods Crisis ∞（同人社团，同人音乐社团） - Mods Crisis ∞ ，于 2011 年成立，主要制作 同人音乐 的日本同人社团，当前状态为 解散
+
 ## 社团简介
   
 流行性后硬核/金属核/电子核系社团。由[INFINITY](./INFINITY.md)的 **ぶーすと** 创建。
@@ -32,6 +35,7 @@ Mods Crisis ∞（同人社团，同人音乐社团） - Mods Crisis ∞ ，于 
   
 社团在2015年宣布解散[^cite_note-1][^cite_note-2]。
   
+
 
 ## 成员名单
 主要成员
@@ -54,6 +58,7 @@ Support
 - カレーせんべい (未找到链接) （已退出）: guitar
 - 天然水 (未找到链接) （已退出）: bass
 
+
 ## 作品列表
 [](./CRISIS_CORE.md)[CRISIS CORE](./CRISIS_CORE.md)首发日期：2011-08-13 （Comic Market 80 (未找到链接)）MODC-0001全长 （一般向）[](./Alices'cry_Vol.5_LIMITED_DEMO.md)[Alices'cry Vol.5 LIMITED DEMO](./Alices'cry_Vol.5_LIMITED_DEMO.md)首发日期：2011-10-22 （Alices'cryVol.5 (未找到链接)）Demo （一般向）[](./NEXSCREAM.md)[NEXSCREAM](./NEXSCREAM.md)首发日期：2011-12-30 （Comic Market 81 (未找到链接)）MODC-0002全长 （一般向）[](./Mods_Crisis_∞_Demo_CD_Vol.1.md)[Mods Crisis ∞ Demo CD Vol.1](./Mods_Crisis_∞_Demo_CD_Vol.1.md)首发日期：2012-08-11 （Comic Market 82 (未找到链接)）Demo （一般向）[](./Mods_Crisis_∞_Single.md)[Mods Crisis ∞ Single](./Mods_Crisis_∞_Single.md)首发日期：2012-08-11 （Comic Market 82 (未找到链接)）单曲 （一般向）[](./One_chance!!.md)[One chance!!](./One_chance!!.md)首发日期：2013-08-12 （Comic Market 84 (未找到链接)）MODC-0004全长 （一般向）[](./New_Age_Swag_E.P..md)[New Age Swag E.P.](./New_Age_Swag_E.P..md)首发日期：2013-12-30 （Comic Market 85 (未找到链接)）EP （一般向）该作品是与 [Register6](./Register6.md) 合作创作的[](./New_Age_Swager.md)[New Age Swager](./New_Age_Swager.md)首发日期：2014-08-16 （Comic Market 86 (未找到链接)）全长、​合作 （一般向）该作品是与 [Register6](./Register6.md) 合作创作的
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -74,13 +79,16 @@ Support
 </table>
 
 
+
 ## 参展信息
 
 <table><tbody><tr><th class="活动页面">活动页面</th><th class="活动名称">活动名称</th><th class="日期">日期</th><th class="举办地点">举办地点</th><th class="摊位编号">摊位编号</th><th class="宣传页面">宣传页面</th><th class="备注">备注</th></tr><tr data-row-number="1" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#11" title="博丽神社例大祭">博丽神社例大祭#11</a></span></td><td class="活动名称 smwtype_txt">第十一回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2456788.5">2014-05-11</td><td class="举办地点 smwtype_txt">东京Big Sight 东123456展厅</td><td class="摊位编号 smwtype_txt">う20b</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr></tbody></table>
 
 
+
 ## 其他信息
 - [旧官网缓存页面](https://web.archive.org/web/20111107211627/http://infinity-web.syncl.jp/)
+
 
 ## 参考链接
   

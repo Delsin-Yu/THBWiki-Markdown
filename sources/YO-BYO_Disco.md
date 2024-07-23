@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=YO-BYO_Disco%E5%B0%81%E9%9D%A2.jpg" class="new" title="文件:YO-BYO Disco封面.jpg">封面图片</a><div class="cover-char">角色：<a href="./橙.md" title="橙">橙</a></div></td>
@@ -18,18 +19,22 @@ YO-BYO Disco（同人专辑，鴉宮重工，2012） - 2012年9月16日 由 鴉�
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://karasumiyahi.booth.pm/items/5660596">Booth</a></td></tr></tbody></table>
 
 
+
 ## Staff
+
 ## 试听
   
 <iframe width="100%" height="180" src="https://ext.nicovideo.jp/thumb/sm18991066" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/watch/sm18991066">,</a></iframe>
 
   
 
+
 ## 曲目列表
 
 <table><tbody><tr><td id="1" class="info"><b>01</b></td><td id="YO-BYO_Disco" colspan="2" class="title">YO-BYO Disco<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=YO-BYO_Disco"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr>
 <tr><td id="2" class="info"><b>02</b></td><td id="ティアオイ・アンビエント" colspan="2" class="title">ティアオイ・アンビエント<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=YO-BYO_Disco"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr>
 <tr><td id="3" class="info"><b>03</b></td><td id="ユカシタ" colspan="2" class="title">ユカシタ<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=YO-BYO_Disco"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr></tbody></table>
+
 
 
 ## 评论

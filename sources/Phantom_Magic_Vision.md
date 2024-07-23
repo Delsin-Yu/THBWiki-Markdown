@@ -6,12 +6,14 @@
 
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 软件信息](#软件信息)
 - [2 Staff](#Staff)
 - [3 内容页面](#内容页面)
 - [4 评论](#评论)
+
 
 
 
@@ -24,8 +26,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://huyutuki.com/vision.html">http://huyutuki.com/vision.html</a></td></tr></tbody></table>
 
 Phantom Magic Vision（同人游戏，M.I.W，2007） - 2007年5月13日 由 M.I.W  发布的TAB同人游戏，可在 其他 系统上运行，游戏人数为 多人模式，分级为 一般向
+
 ## Staff
 - 制作者名单 (未找到链接)
+
 
 ## 内容页面
 - 游戏设定与剧情 (未找到链接)
@@ -33,6 +37,7 @@ Phantom Magic Vision（同人游戏，M.I.W，2007） - 2007年5月13日 由 M.I
 - 使用说明 (未找到链接)
 - 其他信息 (未找到链接)
 - 原声集：[Sound Vision ～幻視調律～](./Sound_Vision_～幻視調律～.md)
+
 
 ## 评论
 

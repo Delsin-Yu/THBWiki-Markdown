@@ -169,6 +169,7 @@ AvalonStudioOfficial
 [](./文件-THD2星熊勇仪.png.md)
   
 
+
 ## 目录
 
 - [1 角色定位](#角色定位)
@@ -188,10 +189,12 @@ AvalonStudioOfficial
 
 
 
+
 ## 角色定位
   
 耐久 - 控制 - 先手
   
+
 
 ## 技能介绍
 
@@ -667,6 +670,7 @@ AvalonStudioOfficial
 </td></tr></tbody></table>
 
 
+
 ## 天赋树
 
 
@@ -705,25 +709,30 @@ AvalonStudioOfficial
 </td></tr></tbody></table>
 
 
+
 ### 出门装备
 ```
 [](./文件-THD2木盾.png.md) [](./文件-THD2四叶草.png.md) [](./文件-THD2思兼生命药.png.md) [](./文件-THD2好人卡.png.md) [](./文件-THD2坏人卡.png.md)
 ```
+
 
 ### 前期装备
 ```
 [](./文件-THD2博丽供奉箱.png.md) [](./文件-THD2魔法使扫把.png.md) [](./文件-THD2护士人偶.png.md)
 ```
 
+
 ### 核心装备
 ```
 [](./文件-THD2替身人偶.png.md) [](./文件-THD2格斗扫把.png.md)
 ```
 
+
 ### 可选装备
 ```
 [](./文件-THD2亡灵送行提灯.png.md) [](./文件-THD2天界之桃.png.md) [](./文件-THD2龙星.png.md) [](./文件-THD2奇迹之星.png.md) [](./文件-THD2恶魔的乳牙.png.md) [](./文件-THD2花毒的连衣裙.png.md) [](./文件-THD2死神之大镰刀.png.md)
 ```
+
 
 ## 技能加点
 
@@ -869,6 +878,7 @@ AvalonStudioOfficial
 <td bgcolor="black" width="40px"><span style="color:black;"></span></td>
 <td bgcolor="gray" width="40px"><center><span style="color:white;"><b>25</b></span></center>
 </td></tr></tbody></table>
+
 
 
 ## 教学视频

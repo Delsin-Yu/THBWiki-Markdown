@@ -15,6 +15,7 @@
 
   
 
+
 ## 目录
 
 - [1 开始](#开始)
@@ -34,10 +35,12 @@
 
 
 
+
 ###### 开始
 
 
 <table><tbody><tr class="tt-content" id="=-3" data-pos="&#91;&quot;=&quot;,3&#93;"><td class="tt-ja" lang="ja"><div class="poem">■始めに<br><br><br><br>　　当テキストは、「秘封祭」におけるネタバレで構成されています。<br><br>　　具体的には、全てのエンディングに辿りつくためのフローチャート、<br>　およびエンディングリストとなります。<br>　　どうしても独力で全てのエンディングを網羅できない場合にのみ、自<br>　己責任でご使用頂けるようお願いいたします。<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>（ここからネタバレ）<br><br><br>――――――――<br></div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr></tbody></table>
+
 
 
 
@@ -48,10 +51,12 @@
 
 
 
+
 ###### 第1个选择分支全部通关后
 
 
 <table><tbody><tr class="tt-content" id="=-7" data-pos="&#91;&quot;=&quot;,7&#93;"><td class="tt-ja" lang="ja"><div class="poem">■第1選択肢・全クリア<br><br>１、私は、いつもの部屋で眼を覚ます。<br>	→第1選択肢へ<br>２、私は、いつもとは異なる目覚めを――<br>	→第2選択肢へ<br><br>――――――――<br></div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr></tbody></table>
+
 
 
 
@@ -62,10 +67,12 @@
 
 
 
+
 ###### 第2个选择分支全部通关
 
 
 <table><tbody><tr class="tt-content" id="=-11" data-pos="&#91;&quot;=&quot;,11&#93;"><td class="tt-ja" lang="ja"><div class="poem">■第2選択肢・全クリア<br><br>１、私は、宇佐見蓮子だ。<br>	→第2選択肢へ<br>２、私は、誰だろう。<br>	→第3選択肢へ<br><br>――――――――<br></div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr></tbody></table>
+
 
 
 
@@ -76,10 +83,12 @@
 
 
 
+
 ###### 第3个选择分支
 
 
 <table><tbody><tr class="tt-content" id="=-15" data-pos="&#91;&quot;=&quot;,15&#93;"><td class="tt-ja" lang="ja"><div class="poem">■第3選択肢・全クリア<br><br>・タイトル画面に新たにボタンが出現。EXTRAルートへ。<br><br><br>――――――――<br></div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr></tbody></table>
+
 
 
 

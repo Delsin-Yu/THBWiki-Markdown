@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-ORIENT_vol.2_The_Embodiment_of_Scarlet_Devil.封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/0/01/ORIENT_vol.2_The_Embodiment_of_Scarlet_Devil.%E5%B0%81%E9%9D%A2.jpg/159px-ORIENT_vol.2_The_Embodiment_of_Scarlet_Devil.%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="159" height="224" srcset="https://upload.thwiki.cc/thumb/0/01/ORIENT_vol.2_The_Embodiment_of_Scarlet_Devil.%E5%B0%81%E9%9D%A2.jpg/238px-ORIENT_vol.2_The_Embodiment_of_Scarlet_Devil.%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/0/01/ORIENT_vol.2_The_Embodiment_of_Scarlet_Devil.%E5%B0%81%E9%9D%A2.jpg/317px-ORIENT_vol.2_The_Embodiment_of_Scarlet_Devil.%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="726" data-file-height="1024"></a><div class="cover-char">角色：<a href="/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C" title="十六夜咲夜">十六夜咲夜</a></div></td>
@@ -18,12 +19,14 @@ ORIENT vol.2 The Embodiment of Scarlet Devil.（同人志，まっとかん。�
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://marl428.booth.pm/items/1903061">Booth</a></td></tr></tbody></table>
 
 
+
 ## Staff
 - マール (未找到链接)
 - あきかん。 (未找到链接)
 - P.rat (未找到链接)
 - 泡 (未找到链接)
 - [ワイテイ](./ワイテイ.md)
+
 
 ## 评论
 

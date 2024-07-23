@@ -4,6 +4,7 @@
 
 MineCraft幻想乡
 
+
 ## 目录
 
 - [1 1.12版本使用的音乐](#1.12版本使用的音乐)
@@ -46,7 +47,9 @@ MineCraft幻想乡
 
 
 
+
 ## 1.12版本使用的音乐
+
 ### 原创音乐
 - 帰るべき场所
   - 编曲：用户:Mochizuki_mk19 (未找到链接)
@@ -62,6 +65,7 @@ MineCraft幻想乡
 
 - 天狗要塞
   - 编曲：东方乐凌
+
 
 
 ### 其他社团的音乐
@@ -80,10 +84,13 @@ MineCraft幻想乡
 <tr><th colspan="2"></th></tr><tr><td colspan="2" style="padding-left: 1em;"><div class="floatright"><a href="./文件-Festival_ONE封面.jpg.md" class="image" title="Festival ONE"><img alt="Festival ONE" src="https://upload.thwiki.cc/thumb/f/f6/Festival_ONE%E5%B0%81%E9%9D%A2.jpg/200px-Festival_ONE%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="200" height="200" srcset="https://upload.thwiki.cc/thumb/f/f6/Festival_ONE%E5%B0%81%E9%9D%A2.jpg/300px-Festival_ONE%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/f/f6/Festival_ONE%E5%B0%81%E9%9D%A2.jpg/400px-Festival_ONE%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="999" data-file-height="999"></a></div>8. <b><a href="/Festival_ONE#6" title="Festival ONE">嫉妒的华尔兹 Waltz of Jealousy</a></b> &#91;03:59&#93;<dl><dd><a href="./Festival_ONE.md" title="Festival ONE">Festival ONE</a> （2017-03-11）<br>社团：<a href="./Prismriver_de_la_nuit.md" title="Prismriver de la nuit">Prismriver de la nuit</a><br>编曲：<a href="/index.php?title=%E9%86%8B%E6%BA%9C%E4%BE%BF%E5%BD%93%E5%BD%A9%E8%99%B9-RainbowSuika&amp;action=edit&amp;redlink=1" class="new" title="醋溜便当彩虹-RainbowSuika（页面不存在）">醋溜便当彩虹-RainbowSuika</a><br>原曲：<a href="./绿眼的嫉妒.md" title="绿眼的嫉妒" unred="">緑眼のジェラシー</a><br></dd></dl></td></tr></tbody></table>
 
 
+
 ## 视频作品使用的音乐
+
 ### 宴始～桃源梦乡～
 - [宴始～桃源夢鄉～](https://www.bilibili.com/audio/au739396)（哔哩哔哩音乐）
   - 编曲：ORin-风琴之绫
+
 
 
 ### 埴轮偶会梦见幻想乡吗？
@@ -95,16 +102,20 @@ MineCraft幻想乡
   - 编曲：RainbowSuika
 
 
+
 ### 爱丽丝梦游仙境
 
 <table><tbody><tr><th colspan="2">曲目信息</th></tr><tr><td colspan="2" style="padding-left: 1em;"><div class="floatright"><a href="./文件-あの日の夢のアリス封面.jpg.md" class="image" title="あの日の夢のアリス"><img alt="あの日の夢のアリス" src="https://upload.thwiki.cc/thumb/1/17/%E3%81%82%E3%81%AE%E6%97%A5%E3%81%AE%E5%A4%A2%E3%81%AE%E3%82%A2%E3%83%AA%E3%82%B9%E5%B0%81%E9%9D%A2.jpg/200px-%E3%81%82%E3%81%AE%E6%97%A5%E3%81%AE%E5%A4%A2%E3%81%AE%E3%82%A2%E3%83%AA%E3%82%B9%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="200" height="179" srcset="https://upload.thwiki.cc/thumb/1/17/%E3%81%82%E3%81%AE%E6%97%A5%E3%81%AE%E5%A4%A2%E3%81%AE%E3%82%A2%E3%83%AA%E3%82%B9%E5%B0%81%E9%9D%A2.jpg/300px-%E3%81%82%E3%81%AE%E6%97%A5%E3%81%AE%E5%A4%A2%E3%81%AE%E3%82%A2%E3%83%AA%E3%82%B9%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/1/17/%E3%81%82%E3%81%AE%E6%97%A5%E3%81%AE%E5%A4%A2%E3%81%AE%E3%82%A2%E3%83%AA%E3%82%B9%E5%B0%81%E9%9D%A2.jpg/400px-%E3%81%82%E3%81%AE%E6%97%A5%E3%81%AE%E5%A4%A2%E3%81%AE%E3%82%A2%E3%83%AA%E3%82%B9%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="450" data-file-height="403"></a></div>1. <b><a href="/%E3%81%82%E3%81%AE%E6%97%A5%E3%81%AE%E5%A4%A2%E3%81%AE%E3%82%A2%E3%83%AA%E3%82%B9#1" title="あの日の夢のアリス">あの日の夢のアリス</a></b> &#91;14:41&#93;<dl><dd><a href="./あの日の夢のアリス.md" title="あの日の夢のアリス">あの日の夢のアリス</a> （2012-05-27）<br>社团：<a href="./森羅万象.md" title="森羅万象">森羅万象</a><br>编曲：<a href="./kaztora.md" title="kaztora">kaztora</a><br>演唱：<a href="./めらみぽっぷ.md" title="めらみぽっぷ">めらみぽっぷ</a>，<a href="./みぃ.md" title="みぃ">みぃ</a>，<a href="/index.php?title=Candy&amp;action=edit&amp;redlink=1" class="new" title="Candy（页面不存在）">Candy</a>，<a href="/index.php?title=MIRI&amp;action=edit&amp;redlink=1" class="new" title="MIRI（页面不存在）">MIRI</a><br>配音：<a href="./めらみぽっぷ.md" title="めらみぽっぷ">めらみぽっぷ</a>，<a href="./みぃ.md" title="みぃ">みぃ</a>，<a href="/index.php?title=Candy&amp;action=edit&amp;redlink=1" class="new" title="Candy（页面不存在）">Candy</a>，<a href="/index.php?title=MIRI&amp;action=edit&amp;redlink=1" class="new" title="MIRI（页面不存在）">MIRI</a><br>作词：<a href="./azuki.md" title="azuki">azuki</a><br>原曲：<a href="./Plastic_Mind.md" title="Plastic Mind" unred="">プラスチックマインド</a>，<a href="./禁忌的魔法_～_Forbidden_Magic.md" title="禁忌的魔法 ～ Forbidden Magic" unred="">禁断の魔法　～ Forbidden Magic</a>，<a href="./神话幻想_～_Infinite_Being.md" title="神话幻想 ～ Infinite Being" unred="">神話幻想　～ Infinite Being</a>，<a href="./不可思议之国的爱丽丝.md" title="不可思议之国的爱丽丝" unred="">不思議の国のアリス</a>，<a href="./布加勒斯特的人偶师.md" title="布加勒斯特的人偶师" unred="">ブクレシュティの人形師</a>，<a href="./人偶裁判_～_玩弄人形的少女.md" title="人偶裁判 ～ 玩弄人形的少女" unred="">人形裁判　～ 人の形弄びし少女</a>，<a href="./Necro-Fantasia.md" title="Necro-Fantasia" unred="">ネクロファンタジア</a>，<a href="./小小的贤将.md" title="小小的贤将" unred="">小さな小さな賢将</a>，<a href="./平安时代的外星人.md" title="平安时代的外星人" unred="">平安のエイリアン</a>，<a href="./走在夜晚的莲台野.md" title="走在夜晚的莲台野" unred="">夜のデンデラ野を逝く</a>，<a href="./魔术师梅莉.md" title="魔术师梅莉" unred="">魔術師メリー</a>，<a href="./天空的格林尼治.md" title="天空的格林尼治" unred="">天空のグリニッジ</a>，<a href="./Romantic_Children.md" title="Romantic Children">Romantic Children</a><br></dd></dl></td></tr></tbody></table>
 
 
+
 ## 旧版本使用的音乐
+
 ### 地图音乐素材
   
 地图音乐素材的路径为 *\.minecraft\resourcepacks\MCgensoukyo 32x for 1.7.10\assets\minecraft\sounds* 。
   
+
 
 #### 主世界音乐素材
   
@@ -126,6 +137,7 @@ MineCraft幻想乡
 <tr><th colspan="2"></th></tr><tr><td colspan="2" style="padding-left: 1em;"><div class="floatright"><a href="./文件-Lupinus_幻想写景_-風-封面.png.md" class="image" title="Lupinus 幻想写景 -風-"><img alt="Lupinus 幻想写景 -風-" src="https://upload.thwiki.cc/thumb/f/f1/Lupinus_%E5%B9%BB%E6%83%B3%E5%86%99%E6%99%AF_-%E9%A2%A8-%E5%B0%81%E9%9D%A2.png/200px-Lupinus_%E5%B9%BB%E6%83%B3%E5%86%99%E6%99%AF_-%E9%A2%A8-%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="200" height="200" srcset="https://upload.thwiki.cc/thumb/f/f1/Lupinus_%E5%B9%BB%E6%83%B3%E5%86%99%E6%99%AF_-%E9%A2%A8-%E5%B0%81%E9%9D%A2.png/300px-Lupinus_%E5%B9%BB%E6%83%B3%E5%86%99%E6%99%AF_-%E9%A2%A8-%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/f/f1/Lupinus_%E5%B9%BB%E6%83%B3%E5%86%99%E6%99%AF_-%E9%A2%A8-%E5%B0%81%E9%9D%A2.png/400px-Lupinus_%E5%B9%BB%E6%83%B3%E5%86%99%E6%99%AF_-%E9%A2%A8-%E5%B0%81%E9%9D%A2.png 2x" data-file-width="1024" data-file-height="1024"></a></div>12. <b><a href="/Lupinus_%E5%B9%BB%E6%83%B3%E5%86%99%E6%99%AF_-%E9%A2%A8-#5" title="Lupinus 幻想写景 -風-">Mysterious Road</a></b> &#91;02:50&#93;<dl><dd><a href="./Lupinus_幻想写景_-風-.md" title="Lupinus 幻想写景 -風-">Lupinus　幻想写景 -風-</a> （2010-12-30）<br>社团：<a href="./Foxtail-Grass_Studio.md" title="Foxtail-Grass Studio">Foxtail-Grass Studio</a><br>编曲：<a href="./ハム.md" title="ハム">ハム</a><br>原曲：<a href="./命运的阴暗面.md" title="命运的阴暗面" unred="">運命のダークサイド</a><br></dd></dl></td></tr></tbody></table>
 
 
+
 #### 创造世界音乐素材
   
 创造世界地图的音乐素材路径为 *……sounds\music\game\creative* 。
@@ -140,6 +152,7 @@ MineCraft幻想乡
 <tr><th colspan="2"></th></tr><tr><td colspan="2" style="padding-left: 1em;"><div class="floatright"><a href="./文件-風神さまの箱庭封面.jpg.md" class="image" title="風神さまの箱庭"><img alt="風神さまの箱庭" src="https://upload.thwiki.cc/thumb/c/cf/%E9%A2%A8%E7%A5%9E%E3%81%95%E3%81%BE%E3%81%AE%E7%AE%B1%E5%BA%AD%E5%B0%81%E9%9D%A2.jpg/200px-%E9%A2%A8%E7%A5%9E%E3%81%95%E3%81%BE%E3%81%AE%E7%AE%B1%E5%BA%AD%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="200" height="200" srcset="https://upload.thwiki.cc/thumb/c/cf/%E9%A2%A8%E7%A5%9E%E3%81%95%E3%81%BE%E3%81%AE%E7%AE%B1%E5%BA%AD%E5%B0%81%E9%9D%A2.jpg/300px-%E9%A2%A8%E7%A5%9E%E3%81%95%E3%81%BE%E3%81%AE%E7%AE%B1%E5%BA%AD%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/c/cf/%E9%A2%A8%E7%A5%9E%E3%81%95%E3%81%BE%E3%81%AE%E7%AE%B1%E5%BA%AD%E5%B0%81%E9%9D%A2.jpg/400px-%E9%A2%A8%E7%A5%9E%E3%81%95%E3%81%BE%E3%81%AE%E7%AE%B1%E5%BA%AD%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="800" data-file-height="800"></a></div>6. <b><a href="/%E9%A2%A8%E7%A5%9E%E3%81%95%E3%81%BE%E3%81%AE%E7%AE%B1%E5%BA%AD#8" title="風神さまの箱庭">アンノウンＸ　～ Unfound Adventure</a></b> &#91;04:04&#93;<dl><dd><a href="./風神さまの箱庭.md" title="風神さまの箱庭">風神さまの箱庭</a> （2012-08-11）<br>社团：<a href="./Assaultdoor.md" title="Assaultdoor">Assaultdoor</a><br>编曲：<a href="/index.php?title=%E3%83%9E%E3%83%83%E3%82%AF%E3%81%AE%E4%BA%BA&amp;action=edit&amp;redlink=1" class="new" title="マックの人（页面不存在）">マックの人</a><br>原曲：<a href="./未知物Ｘ_～_Unfound_Adventure.md" title="未知物Ｘ ～ Unfound Adventure" unred="">アンノウンＸ　～ Unfound Adventure</a><br></dd></dl></td></tr></tbody></table>
 
 
+
 #### 地底世界音乐素材
   
 地底世界地图的音乐素材路径为 *……sounds\music\game\nether* 。
@@ -150,6 +163,7 @@ MineCraft幻想乡
 <tr><th colspan="2"></th></tr><tr><td colspan="2" style="padding-left: 1em;"><div class="floatright"><a href="./文件-東方鍵瑞祀封面.jpg.md" class="image" title="東方鍵瑞祀"><img alt="東方鍵瑞祀" src="https://upload.thwiki.cc/thumb/a/ad/%E6%9D%B1%E6%96%B9%E9%8D%B5%E7%91%9E%E7%A5%80%E5%B0%81%E9%9D%A2.jpg/200px-%E6%9D%B1%E6%96%B9%E9%8D%B5%E7%91%9E%E7%A5%80%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="200" height="200" srcset="https://upload.thwiki.cc/thumb/a/ad/%E6%9D%B1%E6%96%B9%E9%8D%B5%E7%91%9E%E7%A5%80%E5%B0%81%E9%9D%A2.jpg/300px-%E6%9D%B1%E6%96%B9%E9%8D%B5%E7%91%9E%E7%A5%80%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/a/ad/%E6%9D%B1%E6%96%B9%E9%8D%B5%E7%91%9E%E7%A5%80%E5%B0%81%E9%9D%A2.jpg/400px-%E6%9D%B1%E6%96%B9%E9%8D%B5%E7%91%9E%E7%A5%80%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="500" data-file-height="500"></a></div>2. <b><a href="/%E6%9D%B1%E6%96%B9%E9%8D%B5%E7%91%9E%E7%A5%80#5" title="東方鍵瑞祀">旧地獄街道を行く</a></b> &#91;03:20&#93;<dl><dd><a href="./東方鍵瑞祀.md" title="東方鍵瑞祀">東方鍵瑞祀</a> （2010-12-30）<br>社团：<a href="./はちみつくまさん.md" title="はちみつくまさん">はちみつくまさん</a><br>编曲：<a href="/index.php?title=ReSoundWave&amp;action=edit&amp;redlink=1" class="new" title="ReSoundWave（页面不存在）">ReSoundWave</a><br>原曲：<a href="./漫游旧地狱街道.md" title="漫游旧地狱街道" unred="">旧地獄街道を行く</a><br></dd></dl></td></tr>
 <tr><th colspan="2"></th></tr><tr><td colspan="2" style="padding-left: 1em;"><div class="floatright"><a href="./文件-東方猫鍵盤6封面.jpg.md" class="image" title="東方猫鍵盤6"><img alt="東方猫鍵盤6" src="https://upload.thwiki.cc/thumb/8/82/%E6%9D%B1%E6%96%B9%E7%8C%AB%E9%8D%B5%E7%9B%A46%E5%B0%81%E9%9D%A2.jpg/200px-%E6%9D%B1%E6%96%B9%E7%8C%AB%E9%8D%B5%E7%9B%A46%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="200" height="200" srcset="https://upload.thwiki.cc/thumb/8/82/%E6%9D%B1%E6%96%B9%E7%8C%AB%E9%8D%B5%E7%9B%A46%E5%B0%81%E9%9D%A2.jpg/299px-%E6%9D%B1%E6%96%B9%E7%8C%AB%E9%8D%B5%E7%9B%A46%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/8/82/%E6%9D%B1%E6%96%B9%E7%8C%AB%E9%8D%B5%E7%9B%A46%E5%B0%81%E9%9D%A2.jpg/399px-%E6%9D%B1%E6%96%B9%E7%8C%AB%E9%8D%B5%E7%9B%A46%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="450" data-file-height="451"></a></div>3. <b><a href="/%E6%9D%B1%E6%96%B9%E7%8C%AB%E9%8D%B5%E7%9B%A46#4" title="東方猫鍵盤6">不安の種</a></b> &#91;05:10&#93;<dl><dd><a href="./東方猫鍵盤6.md" title="東方猫鍵盤6">東方猫鍵盤6</a> （2012-12-30）<br>社团：<a href="./豚乙女.md" title="豚乙女">豚乙女</a><br>编曲：<a href="./パプリカ.md" title="パプリカ">パプリカ</a><br>原曲：<a href="./少女觉_～_3rd_eye.md" title="少女觉 ～ 3rd eye" unred="">少女さとり　～ 3rd eye</a>，<a href="./哈德曼的妖怪少女.md" title="哈德曼的妖怪少女" unred="">ハルトマンの妖怪少女</a><br></dd></dl></td></tr>
 <tr><th colspan="2"></th></tr><tr><td colspan="2" style="padding-left: 1em;"><div class="floatright"><a href="./文件-ほしくずアテリア封面.jpg.md" class="image" title="ほしくずアテリア"><img alt="ほしくずアテリア" src="https://upload.thwiki.cc/thumb/3/3d/%E3%81%BB%E3%81%97%E3%81%8F%E3%81%9A%E3%82%A2%E3%83%86%E3%83%AA%E3%82%A2%E5%B0%81%E9%9D%A2.jpg/200px-%E3%81%BB%E3%81%97%E3%81%8F%E3%81%9A%E3%82%A2%E3%83%86%E3%83%AA%E3%82%A2%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="200" height="200" srcset="https://upload.thwiki.cc/thumb/3/3d/%E3%81%BB%E3%81%97%E3%81%8F%E3%81%9A%E3%82%A2%E3%83%86%E3%83%AA%E3%82%A2%E5%B0%81%E9%9D%A2.jpg/300px-%E3%81%BB%E3%81%97%E3%81%8F%E3%81%9A%E3%82%A2%E3%83%86%E3%83%AA%E3%82%A2%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/3/3d/%E3%81%BB%E3%81%97%E3%81%8F%E3%81%9A%E3%82%A2%E3%83%86%E3%83%AA%E3%82%A2%E5%B0%81%E9%9D%A2.jpg/400px-%E3%81%BB%E3%81%97%E3%81%8F%E3%81%9A%E3%82%A2%E3%83%86%E3%83%AA%E3%82%A2%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="600" data-file-height="600"></a></div>4. <b><a href="/%E3%81%BB%E3%81%97%E3%81%8F%E3%81%9A%E3%82%A2%E3%83%86%E3%83%AA%E3%82%A2#3" title="ほしくずアテリア">雨待ち傘</a></b> &#91;03:18&#93;<dl><dd><a href="./ほしくずアテリア.md" title="ほしくずアテリア">ほしくずアテリア</a> （2014-12-29）<br>社团：<a href="./Foxtail-Grass_Studio.md" title="Foxtail-Grass Studio">Foxtail-Grass Studio</a><br>编曲：<a href="./ハム.md" title="ハム">ハム</a><br>原曲：<a href="./绿眼的嫉妒.md" title="绿眼的嫉妒" unred="">緑眼のジェラシー</a><br></dd></dl></td></tr></tbody></table>
+
 
 
 ### 客户端界面音乐素材
@@ -164,10 +178,12 @@ MineCraft幻想乡
 <tr><th colspan="2"></th></tr><tr><td colspan="2" style="padding-left: 1em;"><div class="floatright"><a href="./文件-Remember＊C_－summer－封面.jpg.md" class="image" title="Remember＊C －summer－"><img alt="Remember＊C －summer－" src="https://upload.thwiki.cc/thumb/3/31/Remember%EF%BC%8AC_%EF%BC%8Dsummer%EF%BC%8D%E5%B0%81%E9%9D%A2.jpg/200px-Remember%EF%BC%8AC_%EF%BC%8Dsummer%EF%BC%8D%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="200" height="182" srcset="https://upload.thwiki.cc/thumb/3/31/Remember%EF%BC%8AC_%EF%BC%8Dsummer%EF%BC%8D%E5%B0%81%E9%9D%A2.jpg/300px-Remember%EF%BC%8AC_%EF%BC%8Dsummer%EF%BC%8D%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/3/31/Remember%EF%BC%8AC_%EF%BC%8Dsummer%EF%BC%8D%E5%B0%81%E9%9D%A2.jpg/400px-Remember%EF%BC%8AC_%EF%BC%8Dsummer%EF%BC%8D%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="3289" data-file-height="2991"></a></div>4. <b><a href="/Remember%EF%BC%8AC_%EF%BC%8Dsummer%EF%BC%8D#1" title="Remember＊C －summer－">アサガオ</a></b> &#91;01:09&#93;<dl><dd><a href="./Remember＊C_－summer－.md" title="Remember＊C －summer－">Remember*C -summer-</a> （2011-08-13）<br>社团：<a href="./Foxtail-Grass_Studio.md" title="Foxtail-Grass Studio">Foxtail-Grass Studio</a><br>编曲：<a href="./ハム.md" title="ハム">ハム</a><br>原曲：<a href="./欢迎来到月面旅行团.md" title="欢迎来到月面旅行团" unred="">月面ツアーへようこそ</a><br></dd></dl></td></tr></tbody></table>
 
 
+
 ### 唱片音乐素材
   
 唱片音乐素材的路径为 *……sounds\records* 。
   
+
 
 #### 官方音乐曲目列表
 1 [幽玄の槭樹　～ Eternal Dream](./Eternal_Dream_～_幽玄的枫树.md)
@@ -177,6 +193,7 @@ MineCraft幻想乡
 5 [東方緋想天](./东方绯想天（曲目）.md)
 6 [神々が恋した幻想郷](./众神眷恋的幻想乡.md)
 7 [明日ハレの日、ケの昨日](./明日之盛，昨日之俗.md)
+
 
 #### 同人音乐曲目列表
 

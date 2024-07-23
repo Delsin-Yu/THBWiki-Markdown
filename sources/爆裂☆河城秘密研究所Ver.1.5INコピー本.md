@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-爆裂☆河城秘密研究所Ver.1.5INコピー本封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/e/ec/%E7%88%86%E8%A3%82%E2%98%86%E6%B2%B3%E5%9F%8E%E7%A7%98%E5%AF%86%E7%A0%94%E7%A9%B6%E6%89%80Ver.1.5IN%E3%82%B3%E3%83%94%E3%83%BC%E6%9C%AC%E5%B0%81%E9%9D%A2.jpg/119px-%E7%88%86%E8%A3%82%E2%98%86%E6%B2%B3%E5%9F%8E%E7%A7%98%E5%AF%86%E7%A0%94%E7%A9%B6%E6%89%80Ver.1.5IN%E3%82%B3%E3%83%94%E3%83%BC%E6%9C%AC%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="119" height="168" srcset="https://upload.thwiki.cc/thumb/e/ec/%E7%88%86%E8%A3%82%E2%98%86%E6%B2%B3%E5%9F%8E%E7%A7%98%E5%AF%86%E7%A0%94%E7%A9%B6%E6%89%80Ver.1.5IN%E3%82%B3%E3%83%94%E3%83%BC%E6%9C%AC%E5%B0%81%E9%9D%A2.jpg/178px-%E7%88%86%E8%A3%82%E2%98%86%E6%B2%B3%E5%9F%8E%E7%A7%98%E5%AF%86%E7%A0%94%E7%A9%B6%E6%89%80Ver.1.5IN%E3%82%B3%E3%83%94%E3%83%BC%E6%9C%AC%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/e/ec/%E7%88%86%E8%A3%82%E2%98%86%E6%B2%B3%E5%9F%8E%E7%A7%98%E5%AF%86%E7%A0%94%E7%A9%B6%E6%89%80Ver.1.5IN%E3%82%B3%E3%83%94%E3%83%BC%E6%9C%AC%E5%B0%81%E9%9D%A2.jpg/237px-%E7%88%86%E8%A3%82%E2%98%86%E6%B2%B3%E5%9F%8E%E7%A7%98%E5%AF%86%E7%A0%94%E7%A9%B6%E6%89%80Ver.1.5IN%E3%82%B3%E3%83%94%E3%83%BC%E6%9C%AC%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="848" data-file-height="1200"></a><div class="cover-char">角色：<a href="./射命丸文.md" title="射命丸文">射命丸文</a>，<a href="./河城荷取.md" title="河城荷取">河城荷取</a>，<a href="./键山雏.md" title="键山雏">键山雏</a></div></td>
@@ -14,9 +15,12 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/43537013">https://www.pixiv.net/artworks/43537013</a></td></tr></tbody></table>
 
 爆裂☆河城秘密研究所Ver.1.5INコピー本（同人志，和がらし屋，2014） - 2014年5月11日 由 和がらし屋 于 博丽神社例大祭11 发布的漫画同人志，登场人物有 射命丸文、河城荷取、键山雏、霍青娥，分级为 一般向
+
 ## 预览
+
 ## Staff
 - はたすろ主任 (未找到链接)
+
 
 ## 评论
 

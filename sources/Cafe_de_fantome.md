@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Cafe_de_fantome封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/2/29/Cafe_de_fantome%E5%B0%81%E9%9D%A2.png/122px-Cafe_de_fantome%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="122" height="168" srcset="https://upload.thwiki.cc/thumb/2/29/Cafe_de_fantome%E5%B0%81%E9%9D%A2.png/184px-Cafe_de_fantome%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/2/29/Cafe_de_fantome%E5%B0%81%E9%9D%A2.png/245px-Cafe_de_fantome%E5%B0%81%E9%9D%A2.png 2x" data-file-width="1199" data-file-height="1644"></a><div class="cover-char">角色：<a href="./橙.md" title="橙">橙</a>，<a href="./娜兹玲.md" title="娜兹玲">娜兹玲</a>，<a href="./因幡帝.md" title="因幡帝">因幡天为</a></div></td>
@@ -14,9 +15,12 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/5635775">https://www.pixiv.net/artworks/5635775</a></td></tr></tbody></table>
 
 Cafe de fantome（同人志，フミンバイン，2009） - 2009年8月15日 由 フミンバイン 于 Comic Market 76 发布的漫画同人志，一共16页，登场人物有 八云紫、八云蓝、橙、娜兹玲、因幡天为、火焰猫燐、绵月依姬、绵月丰姬、四季映姬·夜摩仙那度，分级为 一般向
+
 ## 预览
+
 ## Staff
 - [bkub](./bkub.md)
+
 
 ## 评论
 

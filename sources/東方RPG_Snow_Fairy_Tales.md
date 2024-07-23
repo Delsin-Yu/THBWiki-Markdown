@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-東方RPG_Snow_Fairy_Tales封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/0/0c/%E6%9D%B1%E6%96%B9RPG_Snow_Fairy_Tales%E5%B0%81%E9%9D%A2.jpg/80px-%E6%9D%B1%E6%96%B9RPG_Snow_Fairy_Tales%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="80" height="112" srcset="https://upload.thwiki.cc/thumb/0/0c/%E6%9D%B1%E6%96%B9RPG_Snow_Fairy_Tales%E5%B0%81%E9%9D%A2.jpg/120px-%E6%9D%B1%E6%96%B9RPG_Snow_Fairy_Tales%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/0/0c/%E6%9D%B1%E6%96%B9RPG_Snow_Fairy_Tales%E5%B0%81%E9%9D%A2.jpg/160px-%E6%9D%B1%E6%96%B9RPG_Snow_Fairy_Tales%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="290" data-file-height="406"></a><div class="cover-char">角色：<a href="./琪露诺.md" title="琪露诺">琪露诺</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://mitukihiro.blog22.fc2.com/blog-entry-7.html">http://mitukihiro.blog22.fc2.com/blog-entry-7.html</a><br><a rel="nofollow" class="external free" href="http://mitukihiro.web.fc2.com/douzin.html">http://mitukihiro.web.fc2.com/douzin.html</a></td></tr><tr><td class="label">备注</td><td colspan="2"><a href="./SNOW_FAIRY_TALES_IMAGE_TRACKS.md" title="SNOW FAIRY TALES IMAGE TRACKS">SNOW FAIRY TALES IMAGE TRACKS</a></td></tr></tbody></table>
 
 東方RPG Snow Fairy Tales（同人志，タイムトラベラーズ，2010） - 2010年3月14日 由 タイムトラベラーズ 于 博丽神社例大祭7 发布的同人志，分级为 一般向
+
 ## Staff
 - 美月ヒロ (未找到链接)
+
 
 ## 评论
 

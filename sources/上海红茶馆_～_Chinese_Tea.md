@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -43,11 +44,13 @@
 
 
 
+
 ## 基本信息
 
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">上海紅茶館　～ Chinese Tea</td></tr><tr><td><b>译名</b></td><td>上海红茶馆 ～ Chinese Tea</td></tr><tr><td><b>英文译名</b></td><td>Shanghai Scarlet Teahouse ~ Chinese Tea</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 上海红茶馆 ～ Chinese Tea（曲目） - 由 ZUN 创作的官方曲目，原名 上海紅茶館　～ Chinese Tea
+
 ## 出现作品
 
 <table>
@@ -59,8 +62,11 @@
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 东方红魔乡
+
 #### WAV
   
 WAV版是游戏的原声带。
@@ -75,6 +81,7 @@ WAV版是游戏的原声带。
 </td></tr></tbody></table>
 
 
+
 #### MIDI
   
 MIDI版由Roland Sound Canvas 88Pro实机录音得到。
@@ -84,9 +91,11 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td><a href="./文件-th06_06.mid.md" title="文件:th06 06.mid">th06_06.mid</a></td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th06_06_SC88Pro.mp3.md" title="文件:th06 06 SC88Pro.mp3">th06_06_SC88Pro.mp3</a><br><audio src="https://upload.thwiki.cc/4/4d/th06_06_SC88Pro.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>th06_06.mid</td></tr><tr><td><b>音轨时长</b></td><td>2:20</td></tr></tbody></table>
 
 
+
 ### 梦违科学世纪
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-hr03_03.mp3.md" title="文件:hr03 03.mp3">hr03_03.mp3</a><br><audio src="https://upload.thwiki.cc/f/f9/hr03_03.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track03.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>5:17</td></tr></tbody></table>
+
 
 
 ### 核热造神非想天则
@@ -94,7 +103,9 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-TFM-004_05.mp3.md" title="文件:TFM-004 05.mp3">TFM-004_05.mp3</a><br><audio src="https://upload.thwiki.cc/b/be/TFM-004_05.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track05.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>3:03</td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 东方红魔乡
 - Music Room (未找到链接)
 
@@ -109,13 +120,17 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
 　　本来是打算弄成中国风味的曲子，结果弄得并不是很像（汗）  
 　　最近都没怎么喝红茶呢。血之红茶真是罪孽深重呢。  
 　　不过，蕾米莉亚她们喝的红茶其实只是人的血，真的可以称之为茶吗？
+
 ### 东方文花帖（书籍）
 - 幻想的音觉 (未找到链接)
 
 （『[东方红魔乡](./东方红魔乡.md)』/『[梦违科学世纪](./梦违科学世纪.md)』收录曲）　　为了能让气氛总是沉重又灰暗的射击游戏的曲子有一点儿清爽明快的感觉，作这首曲子时可让我吃了不少苦头。射击游戏里既有帅气的曲子又有诸如流行曲或是舞曲之类的曲子，不过明快些的曲子我觉得倒是意外地少。  
 　　一听这首曲子，脑中仿佛就会出现没有阴云的东方幻想天空的景象，眼前也会浮现出如桃源乡美景般的幻觉。另外，说起为什么要用上海红茶馆给曲子命名，那是因为红魔乡在当初开发的时候题目定的是东方红茶馆。我想让这首曲子成为主印象曲所以就用游戏的题目给曲子命名了。只是后来故事情节固定下来后游戏的题目就换了。
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
   
  **上海紅茶館　～ Chinese Tea**   上海红茶馆　～ Chinese Tea
@@ -159,6 +174,7 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
 
 - Chinese Tea
   - 正山小种红茶产于福建武夷山，是中国著名的历史名茶，早在17世纪初就远销欧洲，并大受欢迎，曾经被当时的英格兰皇家选为皇家红茶。
+
 
 
 ### 二次同人数据

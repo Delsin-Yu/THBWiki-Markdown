@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-AKI_no_SAKENOMITAKATTA.封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/f/f1/AKI_no_SAKENOMITAKATTA.%E5%B0%81%E9%9D%A2.jpg/98px-AKI_no_SAKENOMITAKATTA.%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="98" height="140" srcset="https://upload.thwiki.cc/thumb/f/f1/AKI_no_SAKENOMITAKATTA.%E5%B0%81%E9%9D%A2.jpg/147px-AKI_no_SAKENOMITAKATTA.%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/f/f1/AKI_no_SAKENOMITAKATTA.%E5%B0%81%E9%9D%A2.jpg/196px-AKI_no_SAKENOMITAKATTA.%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="359" data-file-height="512"></a><div class="cover-char">角色：<a href="./绵月丰姬.md" title="绵月丰姬">绵月丰姬</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/54326732">https://www.pixiv.net/artworks/54326732</a></td></tr></tbody></table>
 
 AKI no SAKENOMITAKATTA.（同人志，SWAY WIND，2015） - 2015年12月30日 由 SWAY WIND 于 Comic Market 89 发布的画集同人志，一共8页，分级为 一般向
+
 ## Staff
 - [TOKIAME](./TOKIAME.md)
+
 
 ## 评论
 

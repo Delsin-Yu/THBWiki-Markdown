@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-RECYCLE_OR_DIE封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/5/5f/RECYCLE_OR_DIE%E5%B0%81%E9%9D%A2.png/99px-RECYCLE_OR_DIE%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="99" height="140" srcset="https://upload.thwiki.cc/thumb/5/5f/RECYCLE_OR_DIE%E5%B0%81%E9%9D%A2.png/149px-RECYCLE_OR_DIE%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/5/5f/RECYCLE_OR_DIE%E5%B0%81%E9%9D%A2.png/198px-RECYCLE_OR_DIE%E5%B0%81%E9%9D%A2.png 2x" data-file-width="199" data-file-height="281"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://dai-oki.s10.xrea.com">http://dai-oki.s10.xrea.com</a><br><span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><small>（<a rel="nofollow" class="external text" href="https://web.archive.org/web/20060616181641/http://dai-oki.s10.xrea.com/">缓存页面</a>）</small></td></tr></tbody></table>
 
 RECYCLE OR DIE（同人志，ダイオキシン，2006） - 2006年6月18日 由 ダイオキシン 于 SunshineCreation32 发布的漫画同人志，一共24页，分级为 一般向
+
 ## Staff
 - 大冲 (未找到链接)
+
 
 ## 评论
 

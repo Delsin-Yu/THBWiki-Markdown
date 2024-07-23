@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-鬼day封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/b/b2/%E9%AC%BCday%E5%B0%81%E9%9D%A2.jpg/80px-%E9%AC%BCday%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="80" height="112" srcset="https://upload.thwiki.cc/thumb/b/b2/%E9%AC%BCday%E5%B0%81%E9%9D%A2.jpg/121px-%E9%AC%BCday%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/b/b2/%E9%AC%BCday%E5%B0%81%E9%9D%A2.jpg/161px-%E9%AC%BCday%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="216" data-file-height="300"></a><div class="cover-char">角色：<a href="./伊吹萃香.md" title="伊吹萃香">伊吹萃香</a></div></td>
@@ -13,8 +14,10 @@
 </tr><tr><td class="label">首发日期</td><td>2006-02-12&#160;（<a href="/展会作品列表?e=%E4%B8%9C%E6%96%B9%E6%BC%AB%E7%94%BB%E7%A5%AD%231">東方まんがまつり</a>）</td></tr><tr><td class="label">类型</td><td>漫画</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr></tbody></table>
 
 鬼day（同人志，泥舟海運，2006） - 2006年2月12日 由 泥舟海運 于 东方漫画祭1 发布的漫画同人志，分级为 一般向
+
 ## Staff
 - [こうば](./こうば.md)
+
 
 ## 评论
 

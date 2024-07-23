@@ -4,8 +4,9 @@
 
 ニコニコ自作ゲームフェス 在 日本 举办的  全类型同人创作活动，目前共举办了13届
 
-本页是关于 **同人展会 (未找到链接)**   
-及 **相关活动 (未找到链接)** 的词条
+本页是关于 **[同人展会](./同人展会.md#展会类活动)**   
+及 **[相关活动](./相关活动.md)** 的词条
+
 ## 目录
 
 - [1 概述](#概述)
@@ -27,6 +28,7 @@
 
 
 - [6 注释](#注释)
+
 
 
 
@@ -94,7 +96,7 @@ niconico原创游戏祭文化祭LOGO
   
   
   
-日本 **** 线上的全类型 **同人创作类活动 (未找到链接)** 。  
+日本 **** 线上的全类型 **同人[创作类活动](./创作类活动.md#创作类活动)** 。  
   
 在线上举办。  
 直到目前为止，已经举办了13届（包含已决定将会举办）。  
@@ -126,6 +128,7 @@ niconico原创游戏祭是niconico channel（ニコニコチャンネル）下�
 官方推特： [https://twitter.com/nico_indiesgame](https://twitter.com/nico_indiesgame) （需要翻墙）  
   
 niconico原创游戏祭（活动，创作活动） - ニコニコ自作ゲームフェス 在 日本 举办的  全类型同人创作活动，目前共举办了13届
+
 ## 历届信息
 - 点击届数可进入对应分类页面。
 - 举办日期以当地日期为准。
@@ -149,6 +152,7 @@ niconico原创游戏祭（活动，创作活动） - ニコニコ自作ゲーム
 </tbody></table>
 
 
+
 ## ZUN奖
   
  **ZUN奖** （ZUN賞）为ZUN所颁布的奖项。  
@@ -166,9 +170,11 @@ niconico原创游戏祭（活动，创作活动） - ニコニコ自作ゲーム
 ZUN会给获奖游戏写一段评语。
   
 
+
 ### niconico原创游戏祭4
 
 <table><tbody><tr class="tt-header" id="niconico原创游戏祭4-1" data-pos="&#91;&quot;niconico\u539f\u521b\u6e38\u620f\u796d4&quot;,1&#93;"><td colspan="2" id="获奖游戏：アトの跡" class="tt-header" lang="zh"><div class="poem">获奖游戏：アトの跡</div></td></tr><tr class="tt-text-header" id="niconico原创游戏祭4-2" data-pos="&#91;&quot;niconico\u539f\u521b\u6e38\u620f\u796d4&quot;,2&#93;"><td colspan="2" class="tt-text" lang="zh"><div class="poem">制作者：チャレヒト<br>游戏视频：<a rel="nofollow" class="external free" href="http://www.nicovideo.jp/watch/sm24670760">http://www.nicovideo.jp/watch/sm24670760</a></div></td></tr><tr class="tt-content" id="niconico原创游戏祭4-3" data-pos="&#91;&quot;niconico\u539f\u521b\u6e38\u620f\u796d4&quot;,3&#93;"><td class="tt-ja" lang="ja"><div class="poem">まだプロトタイプですが、作りが非常に丁寧で操作感に癖が無く、キャラクターを動かして敵を倒しているだけで楽しくなるように作っていることが伝わってきました。<br>細かいところにツッコミを入れるのならいくつかありますが、全体的に変な外連味もなく、無理な背伸びもしていないゲームになっていて、個人的に大好きです。<br>　まだステージらしいステージが完成していない状態で選ぶのはどうかと思いましたが、是非満足のいく完成版まで作っていただきたいと思い選びました。<br>　あとはステージやギミック、ボス、ストーリー等の部分を付けるのでしょうが、そこが一番作業量が多く大変で、そして最終的なゲームの出来に関わる重要な作業になると思います。気持ちよく操作でき、本当の難敵に立ち向かう赤い彼の姿が見られる日をお待ちしております。</div></td><td class="tt-zh" lang="zh"><div class="poem">虽然还是原型，不过，制作非常谨慎操作感也没有坏习惯，传达了只要移动角色打倒敌人就会变得快乐的事。<br>如果在细节处吐槽的话有好几个，但是整体上没有奇怪的坏习惯，也不是勉强逞强的游戏，个人很喜欢。<br>觉得在还没有关卡风格的关卡的状态下进行选择怎么样，虽然这么想，但是我选择了一定要制作出令人满意的完成版。<br>之后会加上舞台、噱头、BOSS、故事情节等部分，这是工作量大、非常辛苦的地方，我认为这是关系到最终游戏完成的重要工作。轻松地操作，面对真正的敌人的红色的他的身影，期待见到的那一天。</div></td></tr></tbody></table>
+
 
 
 ### niconico原创游戏祭5
@@ -176,20 +182,25 @@ ZUN会给获奖游戏写一段评语。
 <table><tbody><tr class="tt-header" id="niconico原创游戏祭5-1" data-pos="&#91;&quot;niconico\u539f\u521b\u6e38\u620f\u796d5&quot;,1&#93;"><td colspan="2" id="获奖游戏：Dual_Prismくびきの檻" class="tt-header" lang="zh"><div class="poem">获奖游戏：Dual Prismくびきの檻</div></td></tr><tr class="tt-text-header" id="niconico原创游戏祭5-2" data-pos="&#91;&quot;niconico\u539f\u521b\u6e38\u620f\u796d5&quot;,2&#93;"><td colspan="2" class="tt-text" lang="zh"><div class="poem">制作者：bunaguchi<br>游戏视频：<a rel="nofollow" class="external free" href="http://www.nicovideo.jp/watch/sm25734796">http://www.nicovideo.jp/watch/sm25734796</a></div></td></tr><tr class="tt-content" id="niconico原创游戏祭5-3" data-pos="&#91;&quot;niconico\u539f\u521b\u6e38\u620f\u796d5&quot;,3&#93;"><td class="tt-ja" lang="ja"><div class="poem">絶望的な攻撃も繰り返し学習すれば、自分の腕だけで安定してクリア出来る様になっていて挑戦意欲がかき立てられました（まー相当難しかったです）。このゲームの特徴は独特な操作だと思うのですが、道中の殆どがレバー操作だけで進めると判るとシューティングを遊んでいる感じになるところも好感触でした。一見コミカルな主人公の動きも、操作に慣れてくると格好良く見えてくるから不思議です（笑）　自作ゲームフェスの趣旨とは外れるので評価には入れてませんが、二昔前のアーケードゲームっぽい作りも好みです。</div></td><td class="tt-zh" lang="zh"><div class="poem">如果反复学习绝望的攻击的话，只靠自己的本事就能稳定通关，激发了挑战欲望（嘛，相当难）。我觉得这个游戏的特征是独特的操作，道中几乎都是只用操作杆就可以进行，感觉就像在玩stg一样。乍看之下滑稽的主人公的动作，习惯了操作后会看起来很帅气，很不可思议（笑） 因为和自制游戏节的宗旨不符，所以没能得到好评，但我也很喜欢像以前街机游戏的制作。</div></td></tr></tbody></table>
 
 
+
 ### niconico原创游戏祭2016
 
 <table><tbody><tr class="tt-header" id="niconico原创游戏祭2016-1" data-pos="&#91;&quot;niconico\u539f\u521b\u6e38\u620f\u796d2016&quot;,1&#93;"><td colspan="2" id="获奖游戏：くびきの檻" class="tt-header" lang="zh"><div class="poem">获奖游戏：くびきの檻</div></td></tr><tr class="tt-text-header" id="niconico原创游戏祭2016-2" data-pos="&#91;&quot;niconico\u539f\u521b\u6e38\u620f\u796d2016&quot;,2&#93;"><td colspan="2" class="tt-text" lang="zh"><div class="poem">制作者：シロノギラボ<br>游戏视频：<a rel="nofollow" class="external free" href="http://www.nicovideo.jp/watch/sm27875430">http://www.nicovideo.jp/watch/sm27875430</a></div></td></tr><tr class="tt-content" id="niconico原创游戏祭2016-3" data-pos="&#91;&quot;niconico\u539f\u521b\u6e38\u620f\u796d2016&quot;,3&#93;"><td class="tt-ja" lang="ja"><div class="poem">絵、キャラ、音楽と統一された雰囲気が、シンプルな一画面ゲームを退屈させなくて素敵でした。<br>ゲーム内容は倉庫番ですが、箱を引いたり、二つ同時に箱を押せたり、ダッシュできたりと、元々の（悪い意味で）ストイックな部分を排除し、ライトに遊べる様になっていて好印象です。<br>敵を倒したり避けたりするアクション部分と、クリアブロックをゴールまで持っていくパズル部分は、本来相性が悪く、二つ混ぜてあるこのゲームは最初その点で失敗していると予想してましたが、クリア条件そのものをアクションステージとパズルステージに完全に分けるという思い切りが良かったです（ステージ最初にクリア条件を明示してくれるともっと良かったです）。そのお陰でステージ分岐もいかされていたと思います。<br>ボリュームは少なめでやや物足りないですが、丁度良い難易度の上がり方で軽快な音楽と共にボス戦を楽しめました。</div></td><td class="tt-zh" lang="zh"><div class="poem">与绘画、角色、音乐统一的氛围，不会让简单的单画面游戏感到无聊，很棒。<br>游戏的内容是仓库番（推箱子），可以拉箱子，可以同时推两个箱子，可以冲刺，排除原本（贬义）禁欲的部分，可以用灯光玩，给人留下了很好的印象。<br>将敌人打倒或避开的动作部分和将过关块拿到终点的谜题部分，本来就不太投缘，混合着这两点的这个游戏最初预想到会在这一点上失败。把通关条件完全分为动作关卡和谜题关卡，真是太好了（如果能在关卡开始时明确展示通关条件就更好了）。多亏了这个，我觉得关卡的分歧也被打乱了。<br>分量很少，稍微有点不足，但是正好提高了难度，和轻快的音乐一起享受了BOSS战。</div></td></tr></tbody></table>
+
 
 
 ## 相关内容
 - [「『东方Project』已经成为我毕生的事业」](./东方Project已经成为我毕生的事业.md)
 - 这就是游戏的文艺复兴吗？【原创游戏祭4PV】 (未找到链接)
 
+
 ## 关联活动
+
 ### niconico超会议
   
 参见 **[niconico超会议](./niconico超会议.md)** 。
   
+
 
 ### 斗会议
   

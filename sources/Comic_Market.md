@@ -14,8 +14,9 @@ Comic Market 从1975年开始，在 日本东京 举办的  全类型同人展�
 </tbody></table>
 
 
-本页是关于 **同人展会 (未找到链接)**   
-及 **相关活动 (未找到链接)** 的词条
+本页是关于 **[同人展会](./同人展会.md#展会类活动)**   
+及 **[相关活动](./相关活动.md)** 的词条
+
 ## 目录
 
 - [1 概述](#概述)
@@ -23,6 +24,7 @@ Comic Market 从1975年开始，在 日本东京 举办的  全类型同人展�
 - [3 历届信息](#历届信息)
 - [4 历届宣传图](#历届宣传图)
 - [5 注释](#注释)
+
 
 
 
@@ -53,8 +55,8 @@ Banner
   
   
   
-日本 **东京** 、 **全日本** 乃至 **全世界** 最大规模的全类型 **同人展会类活动 (未找到链接)** 。  
-为举办时间最早[^cite_note-2]，持续时间最长，参展社团和人数最多的大型全类型同人展会类活动 (未找到链接)[^cite_note-3]。  
+日本 **东京** 、 **全日本** 乃至 **全世界** 最大规模的全类型 **同人[展会类活动](./展会类活动.md#展会类活动)** 。  
+为举办时间最早[^cite_note-2]，持续时间最长，参展社团和人数最多的大型全类型同人[展会类活动](./展会类活动.md#展会类活动)[^cite_note-3]。  
   
 在东京举办，从1975年开始，每年1-3[^cite_note-4]次，每次持续2-4[^cite_note-5]天。  
 举办时间为：每日10:00-17:00[^cite_note-6]（当地时间）。  
@@ -74,6 +76,7 @@ Comic Market在较早期曾经多次迁移举办场所。
 官方推特： [https://twitter.com/comiketofficial](https://twitter.com/comiketofficial) （需要翻墙）（日文）  
   
 Comic Market（活动，展会活动） - Comic Market 从1975年开始，在 日本东京 举办的  全类型同人展会活动，每年1-3次，目前共举办了104届
+
 ## 东方Project相关摊位在Comic Market中的分类
   
 在C72之前，东方Project相关摊位并没有明确的分类。  
@@ -85,6 +88,7 @@ Comic Market（活动，展会活动） - Comic Market 从1975年开始，在 �
 从单独分类开始至今，「东方Project」分类下的摊位一般都集中在第二日的东展厅（包括东方Project原作者[ZUN](./ZUN.md)发布的作品）。  
 
   
+
 
 ## 历届信息
 - 只列出有东方Project相关社团参展的届数。
@@ -147,6 +151,7 @@ Comic Market（活动，展会活动） - Comic Market 从1975年开始，在 �
 <tr><td id="103"><b><a href="/展会作品列表?e=Comic+Market%23103">Comic Market 103</a></b></td><td id="ev-48">2023年12月30日至31日（第2日）</td><td>东京都 东京国际展示场<br><small><span style="color:grey;">東京都 東京国際展示場（東京ビッグサイト/Tokyo Big Sight）</span></small></td><td>770<br><a href="./Comic_Market-第103届摊位.md" title="Comic Market/第103届摊位">摊位列表</a></td><td>25840</td><td>2.98%</td><td></td></tr>
 <tr><td id="104"><b><a href="/展会作品列表?e=Comic+Market%23104">Comic Market 104</a></b></td><td id="ev-49">2024年08月11日至12日（第2日）</td><td>东京都 东京国际展示场<br><small><span style="color:grey;">東京都 東京国際展示場（東京ビッグサイト/Tokyo Big Sight）</span></small></td><td>674<br><a href="/index.php?title=Comic_Market/%E7%AC%AC104%E5%B1%8A%E6%91%8A%E4%BD%8D&amp;action=edit&amp;redlink=1" class="new" title="Comic Market/第104届摊位（页面不存在）">摊位列表</a></td><td>23858</td><td>2.83%</td><td></td></tr>
 </tbody></table>
+
 
 
 ## 历届宣传图

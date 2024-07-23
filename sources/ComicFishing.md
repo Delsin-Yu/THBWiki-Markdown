@@ -4,7 +4,8 @@
 
 ComicFishing ，于 2006 年成立，主要制作 同人音乐 的中国大陆同人社团，当前状态为 解散
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -21,14 +22,18 @@ ComicFishing ，于 2006 年成立，主要制作 同人音乐 的中国大陆�
 
 
 
+
 ## 社团信息
 [](./文件-ComicFishingLOGO.png.md)  [](./文件-ComicFishingLOGO.png.md)LOGO
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> ComicFishing </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2006</td></tr><tr><td><b>当前状态</b></td><td>解散</td></tr><tr><td><b>地区</b></td><td>中国大陆</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://www.comicfishing.com">http://www.comicfishing.com</a> </td></tr></tbody></table>
 
 ComicFishing（同人社团，同人音乐社团） - ComicFishing ，于 2006 年成立，主要制作 同人音乐 的中国大陆同人社团，当前状态为 解散
+
 ## 成员名单
+
 ## 作品列表
+
 ### 同人专辑
 [](./盈月紀年～Plenilune_Annals.md)[盈月紀年～Plenilune Annals](./盈月紀年～Plenilune_Annals.md)首发日期：2006-08-13 （Comic Market 70 (未找到链接)）全长 （一般向）[](./盈月紀年2_~_others_have_their_destiny,_we_have_our_own.md)[盈月紀年2 ~ others have their destiny, we have our own](./盈月紀年2_~_others_have_their_destiny,_we_have_our_own.md)首发日期：2007-07-21 （YACA24 (未找到链接)）全长 （一般向）[](./凤凰花开主题音乐CD.md)[凤凰花开主题音乐CD](./凤凰花开主题音乐CD.md)首发日期：2008-07-26 （COMIDAY2 (未找到链接)）EP、​单曲 （一般向）作为[凤凰花开 ～ Fantastic Land 第一卷](./凤凰花开_～_Fantastic_Land_第一卷.md)与[凤凰花开 ～ Fantastic Land 第二卷](./凤凰花开_～_Fantastic_Land_第二卷.md)同捆发售的CD
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -37,6 +42,7 @@ ComicFishing（同人社团，同人音乐社团） - ComicFishing ，于 2006 �
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ### 同人志
@@ -49,6 +55,7 @@ ComicFishing（同人社团，同人音乐社团） - ComicFishing ，于 2006 �
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 其他信息

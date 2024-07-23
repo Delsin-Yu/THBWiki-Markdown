@@ -6,12 +6,14 @@
 
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 软件信息](#软件信息)
 - [2 Staff](#Staff)
 - [3 内容页面](#内容页面)
 - [4 评论](#评论)
+
 
 
 
@@ -23,6 +25,7 @@
 </tr><tr><td class="label">首发日期</td><td>未知</td></tr><tr><td class="label">类型</td><td>游戏</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">游戏人数</td><td>单人模式，双人模式</td></tr><tr><td class="label">游戏类型</td><td>FTG，STG</td></tr><tr><td class="label">运行平台</td><td>Windows</td></tr><tr><td class="label">语言</td><td>简体中文</td></tr><tr><td class="label">售价</td><td>免费</td></tr></tbody></table>
 
 东方对战型STG（同人游戏，大崩砖） - 2024年6月22日 由 大崩砖  发布的FTG/STG同人游戏，可在 Windows 系统上运行，游戏人数为 单人模式，双人模式，分级为 一般向
+
 ## Staff
   
 策划，编程，绘图：大崩砖  
@@ -32,11 +35,13 @@
 作曲：不认识的孩子
   
 
+
 ## 内容页面
 - 游戏设定与剧情 (未找到链接)
 - 攻略 (未找到链接)
 - 使用说明 (未找到链接)
 - 其他信息 (未找到链接)
+
 
 ## 评论
 

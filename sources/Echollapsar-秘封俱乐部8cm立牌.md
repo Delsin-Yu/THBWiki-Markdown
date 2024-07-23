@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **相关实体周边 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 周边信息](#周边信息)
@@ -21,18 +22,23 @@
 
 
 
+
 ## 周边信息
 
 <table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> Echollapsar秘封俱乐部8cm立牌 </td></tr><tr><td class="label">制作方</td><td><a href="./Echollapsar.md" title="Echollapsar">Echollapsar</a></td></tr><tr><td class="label">首发日期</td><td>2019-08-17&#160;（<a href="/展会作品列表?e=%E4%B8%8A%E6%B5%B7THONLY%2310">第十届上海THONLY 東方滴星盞～ほしをしたたるさかずき</a>）</td></tr><tr><td class="label">类型</td><td>立牌</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>8cm</td></tr><tr><td class="label">材质</td><td>亚克力</td></tr><tr><td class="label">角色</td><td><a href="./玛艾露贝莉·赫恩.md" title="玛艾露贝莉·赫恩">玛艾露贝莉·赫恩</a><br><a href="./宇佐见莲子.md" title="宇佐见莲子">宇佐见莲子</a></td></tr><tr><td class="label">售价</td><td>1000日元</td></tr></tbody></table>
 
 Echollapsar/秘封俱乐部8cm立牌（周边，Echollapsar，2019） - 2019年8月17日 由 Echollapsar 于 上海THONLY10 发布的立牌周边，分级为 一般向
+
 ## 参考图
+
 ### 预览图
 - [](./文件-Echollapsar／秘封俱乐部8cm立牌预览图1.jpg.md)
+
 
 ## Staff
 画师
 : [Renka](./Renka.md)
+
 
 ## 评论
 

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-MACABRE_CIRCUS封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/8/8f/MACABRE_CIRCUS%E5%B0%81%E9%9D%A2.jpg/224px-MACABRE_CIRCUS%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="224" srcset="https://upload.thwiki.cc/thumb/8/8f/MACABRE_CIRCUS%E5%B0%81%E9%9D%A2.jpg/336px-MACABRE_CIRCUS%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/8/8f/MACABRE_CIRCUS%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="408" data-file-height="408"></a><div class="cover-char">角色：<a href="./玛艾露贝莉·赫恩.md" title="玛艾露贝莉·赫恩">玛艾露贝莉·赫恩</a></div></td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://alya.kakukaku-sikajika.com/mc/">http://alya.kakukaku-sikajika.com/mc/</a></td></tr></tbody></table>
 
 MACABRE CIRCUS（同人志，ゐた・せくすありあ，2015） - 2015年12月30日 由 ゐた・せくすありあ 于 Comic Market 89 发布的小说同人志，变形A5尺寸一共100页，登场人物有 宇佐见莲子、玛艾露贝莉·赫恩，分级为 一般向
+
 ## Staff
 小说
 : 鵜飼かいゆ （[Alya](./Alya.md)）
@@ -21,6 +23,7 @@ MACABRE CIRCUS（同人志，ゐた・せくすありあ，2015） - 2015年12�
 
 插画
 : STR （[おしゃれどろぼう](./おしゃれどろぼう.md)）
+
 
 ## 评论
 

@@ -11,6 +11,7 @@
 
   
 
+
 ## 目录
 
 - [1 软件信息](#软件信息)
@@ -18,6 +19,7 @@
 - [3 Staff](#Staff)
 - [4 内容页面](#内容页面)
 - [5 评论](#评论)
+
 
 
 
@@ -30,11 +32,13 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://46flare.net/asaduke/index.html">http://46flare.net/asaduke/index.html</a></td></tr></tbody></table>
 
 Spring Crisis 2（同人游戏，ほわいとふれあ，2016） - 2016年10月9日 由 ほわいとふれあ 于 东方红楼梦12 发布的ACT同人游戏，可在 Windows 系统上运行，游戏人数为 单人模式，分级为 一般向
+
 ## PV
   
 <iframe width="100%" height="180" src="https://ext.nicovideo.jp/thumb/sm29763132" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/watch/sm29763132">,</a></iframe>
 
   
+
 
 ## Staff
 封面・立绘・角色图像
@@ -58,11 +62,13 @@ Spring Crisis 2（同人游戏，ほわいとふれあ，2016） - 2016年10月9
 杂鱼角色及其他
 : 962 (未找到链接)（[ほわいとふれあ](./ほわいとふれあ.md) ）
 
+
 ## 内容页面
 - 游戏设定与剧情 (未找到链接)
 - 攻略 (未找到链接)
 - 使用说明 (未找到链接)
 - 其他信息 (未找到链接)
+
 
 ## 评论
 

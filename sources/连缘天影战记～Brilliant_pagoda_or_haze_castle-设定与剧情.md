@@ -4,6 +4,7 @@
 
 トリック・ノスタルジー
 
+
 ## 目录
 
 - [1 附带文档](#附带文档)
@@ -20,21 +21,27 @@
 
 
 
+
 ## 附带文档
+
 ### 体验版
 - [readme](./连缘天影战记～Brilliant_pagoda_or_haze_castle-设定与剧情-readme（体验版）.md)
 - FAQ (未找到链接)
+
 
 ### 正式版
 - [readme](./连缘天影战记～Brilliant_pagoda_or_haze_castle-设定与剧情-readme.md)
 - [FAQ](./连缘天影战记～Brilliant_pagoda_or_haze_castle-设定与剧情-FAQ.md)
 
+
 ## 故事背景
 - [story（体验版）](./连缘天影战记～Brilliant_pagoda_or_haze_castle-设定与剧情-story（体验版）.md)
 - [story（正式版）](./连缘天影战记～Brilliant_pagoda_or_haze_castle-设定与剧情-story.md)
 
+
 ## 游戏对话
 - [教程关卡](./连缘天影战记～Brilliant_pagoda_or_haze_castle-设定与剧情-tutorial.md)
+
 
 ## 词条导航
   

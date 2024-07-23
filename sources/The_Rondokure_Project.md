@@ -4,7 +4,8 @@
 
 The Rondokure Project ，主要制作 同人音乐 的印度尼西亚同人社团，主催是 Lamzi，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -20,21 +21,26 @@ The Rondokure Project ，主要制作 同人音乐 的印度尼西亚同人社�
 
 
 
+
 ## 社团信息
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> The Rondokure Project </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=Lamzi&amp;action=edit&amp;redlink=1" class="new" title="Lamzi（页面不存在）">Lamzi</a> </td></tr><tr><td><b>地区</b></td><td>印度尼西亚</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="https://www.facebook.com/rondokure.id">https://www.facebook.com/rondokure.id</a> <br><a rel="nofollow" class="external free" href="https://rondokure.bandcamp.com/">https://rondokure.bandcamp.com/</a><br><a rel="nofollow" class="external free" href="https://www.youtube.com/@rondokure_id">https://www.youtube.com/@rondokure_id</a><br><a rel="nofollow" class="external free" href="https://soundcloud.com/rondo-kure">https://soundcloud.com/rondo-kure</a></td></tr></tbody></table>
 
 The Rondokure Project（同人社团，同人音乐社团） - The Rondokure Project ，主要制作 同人音乐 的印度尼西亚同人社团，主催是 Lamzi，当前状态为 活动
+
 ## 成员名单
 - Lamzi (未找到链接)
 
+
 ## 作品列表
+
 ### 同人专辑
 [](./Touhou_Traque_Demo.md)[Touhou Traque Demo](./Touhou_Traque_Demo.md)首发日期：2023-03-20 Demo （一般向）[](./Scarlet_EP.md)[Scarlet EP](./Scarlet_EP.md)首发日期：2023-05-06 （Comic Frontier 16 (未找到链接)）EP （一般向）
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 参展信息

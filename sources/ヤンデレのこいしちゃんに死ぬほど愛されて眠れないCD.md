@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="/%E6%96%87%E4%BB%B6:%E3%83%A4%E3%83%B3%E3%83%87%E3%83%AC%E3%81%AE%E3%81%93%E3%81%84%E3%81%97%E3%81%A1%E3%82%83%E3%82%93%E3%81%AB%E6%AD%BB%E3%81%AC%E3%81%BB%E3%81%A9%E6%84%9B%E3%81%95%E3%82%8C%E3%81%A6%E7%9C%A0%E3%82%8C%E3%81%AA%E3%81%84CD%E5%B0%81%E9%9D%A2.jpg" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/b/b6/%E3%83%A4%E3%83%B3%E3%83%87%E3%83%AC%E3%81%AE%E3%81%93%E3%81%84%E3%81%97%E3%81%A1%E3%82%83%E3%82%93%E3%81%AB%E6%AD%BB%E3%81%AC%E3%81%BB%E3%81%A9%E6%84%9B%E3%81%95%E3%82%8C%E3%81%A6%E7%9C%A0%E3%82%8C%E3%81%AA%E3%81%84CD%E5%B0%81%E9%9D%A2.jpg/224px-%E3%83%A4%E3%83%B3%E3%83%87%E3%83%AC%E3%81%AE%E3%81%93%E3%81%84%E3%81%97%E3%81%A1%E3%82%83%E3%82%93%E3%81%AB%E6%AD%BB%E3%81%AC%E3%81%BB%E3%81%A9%E6%84%9B%E3%81%95%E3%82%8C%E3%81%A6%E7%9C%A0%E3%82%8C%E3%81%AA%E3%81%84CD%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="224" srcset="https://upload.thwiki.cc/thumb/b/b6/%E3%83%A4%E3%83%B3%E3%83%87%E3%83%AC%E3%81%AE%E3%81%93%E3%81%84%E3%81%97%E3%81%A1%E3%82%83%E3%82%93%E3%81%AB%E6%AD%BB%E3%81%AC%E3%81%BB%E3%81%A9%E6%84%9B%E3%81%95%E3%82%8C%E3%81%A6%E7%9C%A0%E3%82%8C%E3%81%AA%E3%81%84CD%E5%B0%81%E9%9D%A2.jpg/336px-%E3%83%A4%E3%83%B3%E3%83%87%E3%83%AC%E3%81%AE%E3%81%93%E3%81%84%E3%81%97%E3%81%A1%E3%82%83%E3%82%93%E3%81%AB%E6%AD%BB%E3%81%AC%E3%81%BB%E3%81%A9%E6%84%9B%E3%81%95%E3%82%8C%E3%81%A6%E7%9C%A0%E3%82%8C%E3%81%AA%E3%81%84CD%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/b/b6/%E3%83%A4%E3%83%B3%E3%83%87%E3%83%AC%E3%81%AE%E3%81%93%E3%81%84%E3%81%97%E3%81%A1%E3%82%83%E3%82%93%E3%81%AB%E6%AD%BB%E3%81%AC%E3%81%BB%E3%81%A9%E6%84%9B%E3%81%95%E3%82%8C%E3%81%A6%E7%9C%A0%E3%82%8C%E3%81%AA%E3%81%84CD%E5%B0%81%E9%9D%A2.jpg/448px-%E3%83%A4%E3%83%B3%E3%83%87%E3%83%AC%E3%81%AE%E3%81%93%E3%81%84%E3%81%97%E3%81%A1%E3%82%83%E3%82%93%E3%81%AB%E6%AD%BB%E3%81%AC%E3%81%BB%E3%81%A9%E6%84%9B%E3%81%95%E3%82%8C%E3%81%A6%E7%9C%A0%E3%82%8C%E3%81%AA%E3%81%84CD%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="515" data-file-height="515"></a><div class="cover-char">角色：<a href="./古明地恋.md" title="古明地恋">古明地恋</a></div></td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://helgaprison.zatunen.com/koishi.html">http://helgaprison.zatunen.com/koishi.html</a></td></tr></tbody></table>
 
 ヤンデレのこいしちゃんに死ぬほど愛されて眠れないCD（同人专辑，ヘルガプリズン，2011） - 2011年5月8日 由 ヘルガプリズン 于 博丽神社例大祭8 发布的配音作品同人专辑，曲目主要风格是 其他，分级为 一般向
+
 ## Staff
   
  **Voice**   
@@ -31,11 +33,13 @@ Illustration
 Support
 : キアリク （[the blankets](./the_blankets.md)）
 
+
 ## 试听
   
 <iframe width="100%" height="180" src="https://ext.nicovideo.jp/thumb/sm13985576" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/watch/sm13985576">,</a></iframe>
 
   
+
 
 ## 曲目列表
 
@@ -45,6 +49,7 @@ Support
 <tr><td id="4" class="infoG"><b>04</b></td><td id="声に出しても風見幽香さんを愛し続けた・その2" colspan="2" class="title">声に出しても風見幽香さんを愛し続けた・その2<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?dub=Clame&amp;script=東方の風見幽香さんを愛し続けてみた&amp;fromwiki=ヤンデレのこいしちゃんに死ぬほど愛されて眠れないCD"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">配音</td><td class="text" colspan="2"><a href="./clame.md" title="clame" unred="">Clame</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?dub=Clame&amp;fromwiki=ヤンデレのこいしちゃんに死ぬほど愛されて眠れないCD"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">剧本</td><td class="text" colspan="2"><a href="./東方の風見幽香さんを愛し続けてみた（同人志）.md" title="東方の風見幽香さんを愛し続けてみた（同人志）" unred="">東方の風見幽香さんを愛し続けてみた</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?script=東方の風見幽香さんを愛し続けてみた&amp;fromwiki=ヤンデレのこいしちゃんに死ぬほど愛されて眠れないCD"><span></span></a></span></td></tr>
 <tr><td id="5" class="infoG"><b>05</b></td><td id="声に出しても風見幽香さんを愛し続けた・その2" colspan="2" class="title">声に出しても風見幽香さんを愛し続けた・その2<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?dub=Clame&amp;script=東方の風見幽香さんを愛し続けてみた&amp;fromwiki=ヤンデレのこいしちゃんに死ぬほど愛されて眠れないCD"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">配音</td><td class="text" colspan="2"><a href="./clame.md" title="clame" unred="">Clame</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?dub=Clame&amp;fromwiki=ヤンデレのこいしちゃんに死ぬほど愛されて眠れないCD"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">剧本</td><td class="text" colspan="2"><a href="./東方の風見幽香さんを愛し続けてみた（同人志）.md" title="東方の風見幽香さんを愛し続けてみた（同人志）" unred="">東方の風見幽香さんを愛し続けてみた</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?script=東方の風見幽香さんを愛し続けてみた&amp;fromwiki=ヤンデレのこいしちゃんに死ぬほど愛されて眠れないCD"><span></span></a></span></td></tr>
 <tr><td id="6" class="infoG"><b>06</b></td><td id="お燐ちゃんとイチャついてみた！" colspan="2" class="title">お燐ちゃんとイチャついてみた！<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?dub=野老&amp;script=麻宮ミヤネ&amp;fromwiki=ヤンデレのこいしちゃんに死ぬほど愛されて眠れないCD"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">配音</td><td class="text" colspan="2"><a href="/index.php?title=%E9%87%8E%E8%80%81&amp;action=edit&amp;redlink=1" class="new" title="野老（页面不存在）">野老</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?dub=野老&amp;fromwiki=ヤンデレのこいしちゃんに死ぬほど愛されて眠れないCD"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">剧本</td><td class="text" colspan="2"><a href="./麻宮ミヤネ.md" title="麻宮ミヤネ">麻宮ミヤネ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?script=麻宮ミヤネ&amp;fromwiki=ヤンデレのこいしちゃんに死ぬほど愛されて眠れないCD"><span></span></a></span></td></tr></tbody></table>
+
 
 
 ## 评论

@@ -5,10 +5,10 @@
 官方新作游戏
 
 本页是关于东方Project **官方弹幕射击游戏 (未找到链接)** 的词条
+
 ## 概述
   
-<big> **东方Project CD**   
-</big>
+<big> **东方Project CD** </big>
 東方Project CD<small>（とうほう， *Touhou Project CD* ）</small>  
 
 本作是东方Project[官方游戏](./官方游戏.md)系列的旧作五作全收录的CD-ROM版，运行在[PC-98](./PC-98.md)平台上，属于（旧作 (未找到链接)）。  
@@ -25,6 +25,7 @@
 <tr><td style="width:150px"><b>制作方</b></td><td style="width:350px"><a href="./ZUNSoft.md" title="ZUNSoft">ZUNSoft</a></td></tr><tr><td><b>出版方</b></td><td><a href="./Amusement_Makers.md" title="Amusement Makers">Amusement Makers</a> </td></tr><tr><td><b>正式版发行日期</b></td><td>2002年5月1日 </td></tr><tr><td><b>运行平台</b></td><td>NEC PC-98 / EPSON PC-486/586</td></tr><tr><td><b>游戏类型</b></td><td>固定版面动作类游戏，纵版卷轴弹幕射击游戏</td></tr><tr><td><b>售价</b></td><td>通贩售价：2000日元</td></tr></tbody></table>
 
 东方Project旧作CD（官方游戏） - 官方新作游戏
+
 ## 游戏内容
   
  **详见** 
@@ -35,6 +36,7 @@
 - [东方梦时空 ～ Phantasmagoria of Dim. Dream.](./东方梦时空.md)
 - [东方幻想乡 ～ Lotus Land Story.](./东方幻想乡.md)
 - [东方怪绮谈 ～ Mystic Square.](./东方怪绮谈.md)
+
 
 ## Booklet
 

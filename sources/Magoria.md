@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Magoria封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/0/0c/Magoria%E5%B0%81%E9%9D%A2.jpg/280px-Magoria%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="280" height="280" srcset="https://upload.thwiki.cc/thumb/0/0c/Magoria%E5%B0%81%E9%9D%A2.jpg/420px-Magoria%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/0/0c/Magoria%E5%B0%81%E9%9D%A2.jpg/560px-Magoria%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1736" data-file-height="1736"></a></td>
@@ -18,6 +19,7 @@ Magoria（同人专辑，夢想夏月郷，2022） - 2022年5月8日 由 夢想�
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=1459071">蜜瓜</a>，<a rel="nofollow" class="external text" href="https://mazyu.booth.pm/items/3586151">Booth</a></td></tr></tbody></table>
 
 
+
 ## Staff
   
  **Compose**   
@@ -27,6 +29,7 @@ Magoria（同人专辑，夢想夏月郷，2022） - 2022年5月8日 由 夢想�
 
 Design
 : [翡翠（人物）](./翡翠（人物）.md)
+
 
 ## 试听
   
@@ -47,6 +50,7 @@ Design
 </td></tr></tbody></table>
 
 
+
 ## 曲目列表
 
 <table><tbody><tr><td id="1" class="infoYL"><b>01</b></td><td id="おとぎばなし" colspan="2" class="title">おとぎばなし<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=翡翠（人物）&amp;fromwiki=Magoria"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:25</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./翡翠（人物）.md" title="翡翠（人物）">翡翠（人物）</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，翡翠（人物）&amp;fromwiki=Magoria"><span></span></a></span></td></tr>
@@ -58,6 +62,7 @@ Design
 <tr><td id="7" class="infoYL"><b>07</b></td><td id="それは七色の、虹のような_～_Pure_Illusion" colspan="2" class="title">それは七色の、虹のような ～ Pure Illusion<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=翡翠（人物）&amp;fromwiki=Magoria"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:06</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./翡翠（人物）.md" title="翡翠（人物）">翡翠（人物）</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，翡翠（人物）&amp;fromwiki=Magoria"><span></span></a></span></td></tr>
 <tr><td id="8" class="infoYL"><b>08</b></td><td id="二人静に牡丹雪" colspan="2" class="title">二人静に牡丹雪<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=翡翠（人物）&amp;fromwiki=Magoria"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:12</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./翡翠（人物）.md" title="翡翠（人物）">翡翠（人物）</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，翡翠（人物）&amp;fromwiki=Magoria"><span></span></a></span></td></tr>
 <tr><td id="9" class="infoYL"><b>09</b></td><td id="Magoria" colspan="2" class="title">Magoria<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=翡翠（人物）&amp;fromwiki=Magoria"><span title="搜索相似同人曲"></span></a></span></td><td class="time">06:45</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./翡翠（人物）.md" title="翡翠（人物）">翡翠（人物）</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，翡翠（人物）&amp;fromwiki=Magoria"><span></span></a></span></td></tr></tbody></table>
+
 
 
 ## 评论

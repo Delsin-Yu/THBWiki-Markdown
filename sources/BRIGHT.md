@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-BRIGHT封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/8/86/BRIGHT%E5%B0%81%E9%9D%A2.png/139px-BRIGHT%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="139" height="196" srcset="https://upload.thwiki.cc/thumb/8/86/BRIGHT%E5%B0%81%E9%9D%A2.png/208px-BRIGHT%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/8/86/BRIGHT%E5%B0%81%E9%9D%A2.png/277px-BRIGHT%E5%B0%81%E9%9D%A2.png 2x" data-file-width="1099" data-file-height="1553"></a><div class="cover-char">角色：<a href="./少名针妙丸.md" title="少名针妙丸">少名针妙丸</a></div></td>
@@ -18,14 +19,18 @@ BRIGHT（同人志，全角入力，2023） - 2023年11月12日 由 全角入力
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://hangakuth.booth.pm/items/5255559">Booth</a></td></tr></tbody></table>
 
 
+
 ## 预览
+
 ## Staff
 - はんがく (未找到链接) （[全角入力](./全角入力.md)）
 - Ferdy's Lab (未找到链接) （[Twitter: @FerdysLab9](https://twitter.com/FerdysLab9)）
 - Rn(らん) (未找到链接) （珈琲花伝 (未找到链接) / [Twitter: @SBR2933090](https://twitter.com/SBR2933090)）
 - はまぐり (未找到链接) （[Twitter: @gk_kondor](https://twitter.com/gk_kondor) / [Pixiv ID: 82823271](https://www.pixiv.net/users/82823271)）
 
+
 ## 评论
+
 ## 其他链接
   
 封面（原画）：[Twitter](https://twitter.com/hangaku_th/status/1704894336679497968)

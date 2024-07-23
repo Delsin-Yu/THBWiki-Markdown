@@ -1,0 +1,208 @@
+# 音召缶
+
+<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\f\fc\ns0%3A%E9%9F%B3%E5%8F%AC%E7%BC%B6.html -->
+
+音召缶（OTOMEKAN） ，于 2009 年成立，主要制作 同人音乐 的日本同人社团，主催是 MUZIK SERVANT，当前状态为 活动
+
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
+## 目录
+
+- [1 社团信息](#社团信息)
+- [2 成员名单](#成员名单)
+- [3 作品列表](#作品列表)
+- [4 参展信息](#参展信息)
+- [5 其他信息](#其他信息)
+
+
+
+
+
+## 社团信息
+[](./文件-音召缶_banner.jpg.md)  [](./文件-音召缶_banner.jpg.md)Logo
+
+<table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> 音召缶（OTOMEKAN） </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2009</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="./MUZIK_SERVANT.md" title="MUZIK SERVANT">MUZIK SERVANT</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://otome-kan.net/">http://otome-kan.net/</a> （旧址）<span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><small>（<a rel="nofollow" class="external text" href="https://web.archive.org/web/20170419065753/http://otome-kan.net/">缓存页面</a>）</small><br><a rel="nofollow" class="external free" href="http://otomekan.net/">http://otomekan.net/</a> <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><small>（<a rel="nofollow" class="external text" href="https://web.archive.org/web/20210316151858/http://otomekan.net/">缓存页面</a>）</small><br><a rel="nofollow" class="external free" href="https://soundcloud.com/otomekan">https://soundcloud.com/otomekan</a></td></tr></tbody></table>
+
+音召缶（同人社团，同人音乐社团） - 音召缶（OTOMEKAN） ，于 2009 年成立，主要制作 同人音乐 的日本同人社团，主催是 MUZIK SERVANT，当前状态为 活动
+
+## 成员名单
+- [MUZIK SERVANT](./MUZIK_SERVANT.md)&#160;: Music, DJ
+- [LU-I](./LU-I.md)&#160;: Music, DJ
+
+
+## 作品列表
+[](./Border_of_Scarletech.md)[Border of Scarletech](./Border_of_Scarletech.md)首发日期：2009-08-15 （Comic Market 76 (未找到链接)）OVS-01全长 （一般向）[](./東方音対無-第壱局-.md)[東方音対無-第壱局-](./東方音対無-第壱局-.md)首发日期：2009-08-15 （Comic Market 76 (未找到链接)）ORC-01全长 （一般向）[](./東方音対無-第弐局-.md)[東方音対無-第弐局-](./東方音対無-第弐局-.md)首发日期：2009-10-11 （東方紅楼夢5 (未找到链接)）ORC-02全长 （一般向）[](./東方幻核禄_ーとうほうげんこあろくー.md)[東方幻核禄 ーとうほうげんこあろくー](./東方幻核禄_ーとうほうげんこあろくー.md)首发日期：2009-12-30 （Comic Market 77 (未找到链接)）OMK-01全长、​精选集 （一般向）[](./東方音対無-第参局-.md)[東方音対無-第参局-](./東方音対無-第参局-.md)首发日期：2009-12-30 （Comic Market 77 (未找到链接)）ORC-03全长 （一般向）[](./東方雅樂多箱_第弐幕_開催記念CD.md)[東方雅樂多箱 第弐幕 開催記念CD](./東方雅樂多箱_第弐幕_開催記念CD.md)首发日期：2010-01-30 （東方雅樂多箱 第弐幕 (未找到链接)）合作 （一般向）该作品是与 [荒御灵](./荒御灵.md) 合作创作的[](./東方幻夢奏_–_THE_First_Chapter_-.md)[東方幻夢奏 – THE First Chapter -](./東方幻夢奏_–_THE_First_Chapter_-.md)首发日期：2010-03-14 （第七回 博麗神社例大祭 (未找到链接)）OMK-02全长 （一般向）[](./Ultimate_Stars….md)[Ultimate Stars…](./Ultimate_Stars….md)首发日期：2010-03-14 （第七回 博麗神社例大祭 (未找到链接)）OMK-03全长 （一般向）[](./音召缶_Promotion_Disk.md)[音召缶 Promotion Disk](./音召缶_Promotion_Disk.md)首发日期：2010-03-14 （第七回 博麗神社例大祭 (未找到链接)）Omake （一般向）[](./Da_Devil_Night_E.P.md)[Da Devil Night E.P](./Da_Devil_Night_E.P.md)首发日期：2010-05-05 （紅月ノ宴肆 (未找到链接)）OMK-04EP （一般向）[](./Sacredess_Fantasy_Ship.md)[Sacredess Fantasy Ship](./Sacredess_Fantasy_Ship.md)首发日期：2010-08-14 （Comic Market 78 (未找到链接)）OMK-05全长 （一般向）[](./Dance_In_Da_Witches.md)[Dance In Da Witches](./Dance_In_Da_Witches.md)首发日期：2010-09-19 （博麗神社例大祭SP1 (未找到链接)）OMK-06全长 （一般向）[](./音召薬.md)[音召薬](./音召薬.md)首发日期：2010-10-11 （東方紅楼夢6 (未找到链接)）CNCD-0015、​OMK-07全长、​合作 （一般向）该作品是与 [こなぐすり](./こなぐすり.md) 合作创作的[](./OTOREMIXES_EP_-音召缶_REMIX-.md)[OTOREMIXES EP　-音召缶 REMIX-](./OTOREMIXES_EP_-音召缶_REMIX-.md)首发日期：2010-10-31 （M3-2010秋 (未找到链接)）OMK-08混音集 （一般向）[](./OTOMEKAN_TRAX_MIX-Style_of_HARDCORE-.md)[OTOMEKAN TRAX MIX-Style of HARDCORE-](./OTOMEKAN_TRAX_MIX-Style_of_HARDCORE-.md)首发日期：2010-10-31 （M3-2010秋 (未找到链接)）OMX-01Omake、​混音集 （一般向）[](./Fantastic_Judgirity_Beat.md)[Fantastic Judgirity Beat](./Fantastic_Judgirity_Beat.md)首发日期：2010-12-30 （Comic Market 79 (未找到链接)）OMK-09全长 （一般向）[](./SERVANT_TANZ_KLANGZ_-MUZIK_SERVANT_Instrumental_Trax_Best-.md)[SERVANT TANZ KLANGZ -MUZIK SERVANT Instrumental Trax Best-](./SERVANT_TANZ_KLANGZ_-MUZIK_SERVANT_Instrumental_Trax_Best-.md)首发日期：2011-03-13 （第八回 博麗神社例大祭 (未找到链接)）OMK-10精选集 （一般向）[](./Dance_in_Da_Secret_Seal.md)[Dance in Da Secret Seal](./Dance_in_Da_Secret_Seal.md)首发日期：2011-05-01 （M3-2011春 (未找到链接)）OMK-11全长 （一般向）[](./Azule_Crimson_Night.md)[Azule Crimson Night](./Azule_Crimson_Night.md)首发日期：2011-08-13 （Comic Market 80 (未找到链接)）OMK-12全长 （一般向）[](./Gensou_Clubbing.md)[Gensou Clubbing](./Gensou_Clubbing.md)首发日期：2011-08-13 （Comic Market 80 (未找到链接)）OMK-13全长 （一般向）[](./こな×おとREMIXES.md)[こな×おとREMIXES](./こな×おとREMIXES.md)首发日期：2011-09-11 （博麗神社例大祭SP2 (未找到链接)）CNCD-0019、​OMK-014混音集、​合作 （一般向）该作品是与 [こなぐすり](./こなぐすり.md) 合作创作的[](./Eternidad_Flamme_Night.md)[Eternidad Flamme Night](./Eternidad_Flamme_Night.md)首发日期：2011-10-16 （東方紅楼夢7 (未找到链接)）OMK-15全长 （一般向）[](./Lied_Baile_Auswahl.md)[Lied Baile Auswahl](./Lied_Baile_Auswahl.md)首发日期：2011-10-30 （M3-2011秋 (未找到链接)）OMK-16精选集 （一般向）[](./Realisierung_Alma.md)[Realisierung Alma](./Realisierung_Alma.md)首发日期：2011-12-30 （Comic Market 81 (未找到链接)）OMK-17全长 （一般向）[](./Escarlue_Heavenz_Energy.md)[Escarlue Heavenz Energy](./Escarlue_Heavenz_Energy.md)首发日期：2012-05-27 （第九回 博麗神社例大祭 (未找到链接)）OMK-18全长 （一般向）[](./Gensou_Raving!.md)[Gensou Raving!](./Gensou_Raving!.md)首发日期：2012-08-11 （Comic Market 82 (未找到链接)）OMK-19全长 （一般向）[](./響奏-きょうそう-.md)[響奏-きょうそう-](./響奏-きょうそう-.md)首发日期：2012-08-11 （Comic Market 82 (未找到链接)）OMK-20全长 （一般向）[](./音召缶C82会場限定特典音楽円盤.md)[音召缶C82会場限定特典音楽円盤](./音召缶C82会場限定特典音楽円盤.md)首发日期：2012-08-11 （Comic Market 82 (未找到链接)）全长、​精选集 （一般向）[](./Sound_Domestic_Colony_-OTOMEKAN_COLLECTION_rev1.md)[Sound Domestic Colony -OTOMEKAN COLLECTION rev1](./Sound_Domestic_Colony_-OTOMEKAN_COLLECTION_rev1.md)首发日期：2012-12-30 （Comic Market 83 (未找到链接)）OMK-21精选集 （一般向）该专辑包含 2 张CD[](./Insane_Adversary.md)[Insane Adversary](./Insane_Adversary.md)首发日期：2012-12-30 （Comic Market 83 (未找到链接)）OMK-22全长 （一般向）[](./C83_会場特典_Instrumental_Trax_Disk.md)[C83 会場特典 Instrumental Trax Disk](./C83_会場特典_Instrumental_Trax_Disk.md)首发日期：2012-12-30 （Comic Market 83 (未找到链接)）原声集、​Omake （一般向）原专辑：Tr.1-11 [Insane Adversary](./Insane_Adversary.md) Tr.12 [Sound Domestic Colony -OTOMEKAN COLLECTION rev1](./Sound_Domestic_Colony_-OTOMEKAN_COLLECTION_rev1.md)[](./Carmishen_Mound.md)[Carmishen Mound](./Carmishen_Mound.md)首发日期：2013-05-26 （第十回 博麗神社例大祭 (未找到链接)）OMK-23全长 （一般向）[](./OTOME_REMIX!_-ver.CHERICa-.md)[OTOME REMIX! -ver.CHERICa-](./OTOME_REMIX!_-ver.CHERICa-.md)首发日期：2013-06-16 （東方神居祭SP2 (未找到链接)）OMK-23.5混音集 （一般向）[](./Gensou_Raving!2.md)[Gensou Raving!2](./Gensou_Raving!2.md)首发日期：2013-08-12 （Comic Market 84 (未找到链接)）OMK-24全长 （一般向）[](./Ogrest_Karneval!.md)[Ogrest Karneval!](./Ogrest_Karneval!.md)首发日期：2013-08-12 （Comic Market 84 (未找到链接)）OMK-25全长 （一般向）[](./OTOME_REMIX!-_Chapter_1_-ver.CHERICa-.md)[OTOME REMIX!-　Chapter 1 -ver.CHERICa-](./OTOME_REMIX!-_Chapter_1_-ver.CHERICa-.md)首发日期：2013-08-12 （Comic Market 84 (未找到链接)）OMK-25.5混音集 （一般向）[](./Magical_Thrash.md)[Magical Thrash](./Magical_Thrash.md)首发日期：2013-12-30 （Comic Market 85 (未找到链接)）OMK-26全长 （一般向）[](./Revolt_Beats!.md)[Revolt Beats!](./Revolt_Beats!.md)首发日期：2013-12-30 （Comic Market 85 (未找到链接)）OMK-27全长 （一般向）[](./SERVANT_Conclusion_-MUZIK_SERVANT_Trax_Best-.md)[SERVANT Conclusion -MUZIK SERVANT Trax Best-](./SERVANT_Conclusion_-MUZIK_SERVANT_Trax_Best-.md)首发日期：2014-05-11 （第十一回 博麗神社例大祭 (未找到链接)）OMK-28全长、​精选集 （一般向）该专辑包含 2 张CD含特典[](./HAKUREI_JINJA_REITAISAI_11_SPECIAL_DISC.md)[HAKUREI JINJA REITAISAI 11 SPECIAL DISC](./HAKUREI_JINJA_REITAISAI_11_SPECIAL_DISC.md)首发日期：2014-05-11 （第十一回 博麗神社例大祭 (未找到链接)）Omake （一般向）该作品是与 [俺++(Includeore)](./俺++(Includeore).md) 合作创作的[](./Gensou_Raving_03.md)[Gensou Raving 03](./Gensou_Raving_03.md)首发日期：2014-08-16 （Comic Market 86 (未找到链接)）OMK-29全长、​合作 （一般向）[](./Treason_Vibes.md)[Treason Vibes](./Treason_Vibes.md)首发日期：2014-08-16 （Comic Market 86 (未找到链接)）OMK-30全长 （一般向）[](./Gods_Volost.md)[Gods Volost](./Gods_Volost.md)首发日期：2014-10-12 （東方紅楼夢10 (未找到链接)）OMK-31全长 （一般向）[](./Gensou_Hard_Dancing.md)[Gensou Hard Dancing](./Gensou_Hard_Dancing.md)首发日期：2014-12-29 （Comic Market 87 (未找到链接)）OMK-32全长 （一般向）[](./Herrter_Revolver.md)[Herrter Revolver](./Herrter_Revolver.md)首发日期：2014-12-29 （Comic Market 87 (未找到链接)）OMK-33全长 （一般向）[](./Gensou_Rave_Arena.md)[Gensou Rave Arena](./Gensou_Rave_Arena.md)首发日期：2015-05-10 （第十二回 博麗神社例大祭 (未找到链接)）OMK-34全长 （一般向）[](./Gensou_Raving_04.md)[Gensou Raving 04](./Gensou_Raving_04.md)首发日期：2015-08-14 （Comic Market 88 (未找到链接)）OMK-35全长 （一般向）[](./Gensou_E.S.P.md)[Gensou E.S.P](./Gensou_E.S.P.md)首发日期：2015-08-14 （Comic Market 88 (未找到链接)）OMK-36全长 （一般向）[](./Reboot（音召缶）.md)[Reboot](./Reboot（音召缶）.md)首发日期：2015-10-18 （第二回 博麗神社秋季例大祭 (未找到链接)）OMK-37全长、​混音集 （一般向）[](./Re;ent.md)[Re;ent](./Re;ent.md)首发日期：2015-11-01 （東方紅楼夢11 (未找到链接)）OMK-38全长 （一般向）[](./Gensou_Hard_Dancing_2.md)[Gensou Hard Dancing 2](./Gensou_Hard_Dancing_2.md)首发日期：2015-12-30 （Comic Market 89 (未找到链接)）OMK-39全长 （一般向）[](./Tried_Line.md)[Tried Line](./Tried_Line.md)首发日期：2015-12-30 （Comic Market 89 (未找到链接)）OMK-40全长 （一般向）[](./Rising_Tone.md)[Rising Tone](./Rising_Tone.md)首发日期：2016-05-08 （第十三回 博麗神社例大祭 (未找到链接)）OMK-41全长、​合作 （一般向）[](./Gensou_Raving_05.md)[Gensou Raving 05](./Gensou_Raving_05.md)首发日期：2016-08-13 （Comic Market 90 (未找到链接)）OMK-42全长、​合作 （一般向）[](./Vapor_Vamp.md)[Vapor Vamp](./Vapor_Vamp.md)首发日期：2016-08-13 （Comic Market 90 (未找到链接)）OMK-43全长、​合作 （一般向）[](./SERVANT_ConclusionⅡ-BLITZKRIEG-.md)[SERVANT ConclusionⅡ-BLITZKRIEG-](./SERVANT_ConclusionⅡ-BLITZKRIEG-.md)首发日期：2016-10-09 （東方紅楼夢12 (未找到链接)）OMK-44精选集 （一般向）[](./Eternal_Tanz.md)[Eternal Tanz](./Eternal_Tanz.md)首发日期：2016-12-29 （Comic Market 91 (未找到链接)）OMK-45精选集 （一般向）该专辑包含 2 张CD[](./Eternal_Lied.md)[Eternal Lied](./Eternal_Lied.md)首发日期：2016-12-29 （Comic Market 91 (未找到链接)）OMK-46精选集 （一般向）该专辑包含 2 张CD[](./Phantom_Bloom.md)[Phantom Bloom](./Phantom_Bloom.md)首发日期：2017-05-07 （第十四回 博麗神社例大祭 (未找到链接)）OMK-0048全长 （一般向）[](./Dancin'_Seasons.md)[Dancin' Seasons](./Dancin'_Seasons.md)首发日期：2017-10-15 （第四回 博麗神社秋季例大祭 (未找到链接)）OMK-50全长、​合作 （一般向）[](./Bullet_Rush.md)[Bullet Rush](./Bullet_Rush.md)首发日期：2018-05-06 （第十五回 博麗神社例大祭 (未找到链接)）OMK-52全长 （一般向）[](./Raving_Moon.md)[Raving Moon](./Raving_Moon.md)首发日期：2018-10-14 （第五回 博麗神社秋季例大祭 (未找到链接)）OMK-54全长 （一般向）[](./SERVANT_Conclusion_Ⅲ-Grand_Orbit-.md)[SERVANT Conclusion Ⅲ-Grand Orbit-](./SERVANT_Conclusion_Ⅲ-Grand_Orbit-.md)首发日期：2018-12-30 （Comic Market 95 (未找到链接)）OMK-55全长 （一般向）[](./BASE_GAZE.md)[BASE GAZE](./BASE_GAZE.md)首发日期：2019-05-05 （第十六回 博麗神社例大祭 (未找到链接)）OMK-57全长 （一般向）[](./Trip_of_Times_E.P.md)[Trip of Times E.P](./Trip_of_Times_E.P.md)首发日期：2019-08-12 （Comic Market 96 (未找到链接)）EP （一般向）[](./Gensou_Rave_Linker.md)[Gensou Rave Linker](./Gensou_Rave_Linker.md)首发日期：2019-10-06 （第六回 博麗神社秋季例大祭 (未找到链接)）OMK-58全长 （一般向）[](./Änderung_Mundo.md)[Änderung Mundo](./Änderung_Mundo.md)首发日期：2019-12-31 （Comic Market 97 (未找到链接)）OMK-59全长、​混音集 （一般向）[](./Schwer_Garden_EP.md)[Schwer Garden EP](./Schwer_Garden_EP.md)首发日期：2020-08-09 （東方名華祭14 (未找到链接)）OMK-60.5EP （一般向）[](./TAKE_DOWN.md)[TAKE DOWN](./TAKE_DOWN.md)首发日期：2020-10-11 （東方紅楼夢16 (未找到链接)）OMK-61EP （一般向）[](./Another_route.md)[Another route](./Another_route.md)首发日期：2021-10-24 （第八回 博麗神社秋季例大祭 (未找到链接)）全长 （一般向）LU-I曲集[](./FragmentsK.md)[FragmentsK](./FragmentsK.md)首发日期：2021-11-28 （東方紅楼夢17 (未找到链接)）OMK-62EP （一般向）[](./FragmentsM.md)[FragmentsM](./FragmentsM.md)首发日期：2021-11-28 （東方紅楼夢17 (未找到链接)）OMK-63EP （一般向）[](./Carve_of_Night.md)[Carve of Night](./Carve_of_Night.md)首发日期：2024-03-31 （東方名華祭18 (未找到链接)）OMK-64全长 （一般向）
+<table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
+
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
+
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
+
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
+
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
+
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
+
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
+
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
+
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
+
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
+
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
+
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
+
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
+
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
+
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
+
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
+
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
+
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
+
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
+
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
+
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
+
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
+
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
+
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
+
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
+
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
+
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
+
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
+
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
+
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
+
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
+
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
+
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
+
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
+
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
+
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
+
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
+
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
+
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
+
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
+
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
+
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
+
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
+
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
+
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
+
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
+
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
+
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
+
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
+
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
+
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
+
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
+
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
+
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
+
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
+
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
+
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
+
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
+
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
+
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
+
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
+
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
+
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
+
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
+
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
+
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
+
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
+
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
+
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
+
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
+
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
+
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
+
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
+</table>
+
+
+
+## 参展信息
+
+<table><tbody><tr><th class="活动页面">活动页面</th><th class="活动名称">活动名称</th><th class="日期">日期</th><th class="举办地点">举办地点</th><th class="摊位编号">摊位编号</th><th class="宣传页面">宣传页面</th><th class="备注">备注</th></tr><tr data-row-number="1" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E4%B8%9C%E6%96%B9%E5%90%8D%E5%8D%8E%E7%A5%AD#18" title="东方名华祭">东方名华祭#18</a></span></td><td class="活动名称 smwtype_txt">東方名華祭18</td><td class="日期 smwtype_dat" data-sort-value="2460400.5">2024-03-31</td><td class="举办地点 smwtype_txt">名古屋市国际展示场 第2展厅</td><td class="摊位编号 smwtype_txt">G06</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="2" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E4%B8%9C%E6%96%B9%E7%BA%A2%E6%A5%BC%E6%A2%A6#17" title="东方红楼梦">东方红楼梦#17</a></span></td><td class="活动名称 smwtype_txt">東方紅楼夢17</td><td class="日期 smwtype_dat" data-sort-value="2459546.5">2021-11-28</td><td class="举办地点 smwtype_txt">大阪国际展览中心</td><td class="摊位编号 smwtype_txt">う16</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="3" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E7%A7%8B%E5%AD%A3%E4%BE%8B%E5%A4%A7%E7%A5%AD#8" title="博丽神社秋季例大祭">博丽神社秋季例大祭#8</a></span></td><td class="活动名称 smwtype_txt">第八回 博麗神社秋季例大祭</td><td class="日期 smwtype_dat" data-sort-value="2459511.5">2021-10-24</td><td class="举办地点 smwtype_txt">东京Big Sight 青海展示厅</td><td class="摊位编号 smwtype_txt">と29a</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="4" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E4%B8%9C%E6%96%B9%E7%BA%A2%E6%A5%BC%E6%A2%A6#16" title="东方红楼梦">东方红楼梦#16</a></span></td><td class="活动名称 smwtype_txt">東方紅楼夢16</td><td class="日期 smwtype_dat" data-sort-value="2459133.5">2020-10-11</td><td class="举办地点 smwtype_txt">大阪国际展览中心</td><td class="摊位编号 smwtype_txt">し27</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="5" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E4%B8%9C%E6%96%B9%E5%90%8D%E5%8D%8E%E7%A5%AD#14" title="东方名华祭">东方名华祭#14</a></span></td><td class="活动名称 smwtype_txt">東方名華祭14</td><td class="日期 smwtype_dat" data-sort-value="2459070.5">2020-08-09</td><td class="举办地点 smwtype_txt">名古屋市国际展示场 第2展厅</td><td class="摊位编号 smwtype_txt">G38</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="6" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E4%B8%9C%E6%96%B9%E7%BA%A2%E6%A5%BC%E6%A2%A6#15" title="东方红楼梦">东方红楼梦#15</a></span></td><td class="活动名称 smwtype_txt">東方紅楼夢15</td><td class="日期 smwtype_dat" data-sort-value="2458769.5">2019-10-13</td><td class="举办地点 smwtype_txt">大阪国际展览中心</td><td class="摊位编号 smwtype_txt">い-24b</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="7" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E7%A7%8B%E5%AD%A3%E4%BE%8B%E5%A4%A7%E7%A5%AD#6" title="博丽神社秋季例大祭">博丽神社秋季例大祭#6</a></span></td><td class="活动名称 smwtype_txt">第六回 博麗神社秋季例大祭</td><td class="日期 smwtype_dat" data-sort-value="2458762.5">2019-10-06</td><td class="举办地点 smwtype_txt">东京Big Sight 西展厅</td><td class="摊位编号 smwtype_txt">B03a</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="8" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#16" title="博丽神社例大祭">博丽神社例大祭#16</a></span></td><td class="活动名称 smwtype_txt">第十六回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2458608.5">2019-05-05</td><td class="举办地点 smwtype_txt">东京Big Sight</td><td class="摊位编号 smwtype_txt">I07a</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="9" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E4%B8%9C%E6%96%B9%E7%BA%A2%E6%A5%BC%E6%A2%A6#14" title="东方红楼梦">东方红楼梦#14</a></span></td><td class="活动名称 smwtype_txt">東方紅楼夢14</td><td class="日期 smwtype_dat" data-sort-value="2458412.5">2018-10-21</td><td class="举办地点 smwtype_txt">大阪国际展览中心</td><td class="摊位编号 smwtype_txt">J-04a</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="10" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E7%A7%8B%E5%AD%A3%E4%BE%8B%E5%A4%A7%E7%A5%AD#5" title="博丽神社秋季例大祭">博丽神社秋季例大祭#5</a></span></td><td class="活动名称 smwtype_txt">第五回 博麗神社秋季例大祭</td><td class="日期 smwtype_dat" data-sort-value="2458405.5">2018-10-14</td><td class="举办地点 smwtype_txt">东京Big Sight 东展厅</td><td class="摊位编号 smwtype_txt">て01a</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr class="smwfooter row-odd"><td class="sortbottom" colspan="7"><span class="smw-broadtable-furtherresults"><a href="/%E7%89%B9%E6%AE%8A:%E8%AF%A2%E9%97%AE/-5B-5B%E6%91%8A%E4%BD%8D%E7%A4%BE%E5%9B%A2::%E9%9F%B3%E5%8F%AC%E7%BC%B6-5D-5D/-3F%E6%91%8A%E4%BD%8D%E6%B4%BB%E5%8A%A8%3D%E6%B4%BB%E5%8A%A8%E9%A1%B5%E9%9D%A2/-3F%E6%91%8A%E4%BD%8D%E6%B4%BB%E5%8A%A8.%E5%B1%95%E4%BC%9A%E5%90%8D%E7%A7%B0%3D%E6%B4%BB%E5%8A%A8%E5%90%8D%E7%A7%B0/-3F%E6%91%8A%E4%BD%8D%E6%B4%BB%E5%8A%A8.%E5%B1%95%E4%BC%9A%E6%97%A5%E6%9C%9F%3D%E6%97%A5%E6%9C%9F/-3F%E6%91%8A%E4%BD%8D%E6%B4%BB%E5%8A%A8.%E5%9C%B0%E7%82%B9%3D%E4%B8%BE%E5%8A%9E%E5%9C%B0%E7%82%B9/-3F%E6%91%8A%E4%BD%8D%E7%BC%96%E5%8F%B7/-3F%E6%91%8A%E4%BD%8D%E5%AE%A3%E4%BC%A0%E9%A1%B5%E9%9D%A2%3D%E5%AE%A3%E4%BC%A0%E9%A1%B5%E9%9D%A2-7C%2Bmany%3D-3Cbr-20-2F-3E/-3F%E6%91%8A%E4%BD%8D%E5%A4%87%E6%B3%A8%3D%E5%A4%87%E6%B3%A8/mainlabel%3D-20-2D/limit%3D10/order%3D-20descending/sort%3D-20%E6%91%8A%E4%BD%8D%E6%B4%BB%E5%8A%A8.%E5%B1%95%E4%BC%9A%E6%97%A5%E6%9C%9F/offset%3D10/format%3D-20broadtable/headers%3D-20plain" title="特殊:询问/-5B-5B摊位社团::音召缶-5D-5D/-3F摊位活动=活动页面/-3F摊位活动.展会名称=活动名称/-3F摊位活动.展会日期=日期/-3F摊位活动.地点=举办地点/-3F摊位编号/-3F摊位宣传页面=宣传页面-7C+many=-3Cbr-20-2F-3E/-3F摊位备注=备注/mainlabel=-20-2D/limit=10/order=-20descending/sort=-20摊位活动.展会日期/offset=10/format=-20broadtable/headers=-20plain">...更多结果</a></span></td></tr></tbody></table>
+
+
+
+## 其他信息
+  
+  
+
+
+
+
+
+
+---
+
+此文档由 [THBWiki-Markdown-Builder](https://github.com/Delsin-Yu/THBWiki-Markdown-Builder) 构建。
+
+文档中的所有内容除特殊注明外，均在 [**知识共享(Creative Commons) 署名-非商业性使用-相同方式共享 3.0 协议**](https://creativecommons.org/licenses/by-sa/3.0/deed.zh-hans) 下提供，附加条款亦可能应用。
+
+引用类型与其他类型作品版权归原作者所有，如有作者授权则遵照授权协议使用。
+
+详细请查阅 [THBWiki：免责声明](https://thbwiki.cc/THBWiki:%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E)。
+

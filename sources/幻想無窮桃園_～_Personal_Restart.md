@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-幻想無窮桃園_～_Personal_Restart封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/c/c0/%E5%B9%BB%E6%83%B3%E7%84%A1%E7%AA%AE%E6%A1%83%E5%9C%92_%EF%BD%9E_Personal_Restart%E5%B0%81%E9%9D%A2.jpg/119px-%E5%B9%BB%E6%83%B3%E7%84%A1%E7%AA%AE%E6%A1%83%E5%9C%92_%EF%BD%9E_Personal_Restart%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="119" height="168" srcset="https://upload.thwiki.cc/thumb/c/c0/%E5%B9%BB%E6%83%B3%E7%84%A1%E7%AA%AE%E6%A1%83%E5%9C%92_%EF%BD%9E_Personal_Restart%E5%B0%81%E9%9D%A2.jpg/178px-%E5%B9%BB%E6%83%B3%E7%84%A1%E7%AA%AE%E6%A1%83%E5%9C%92_%EF%BD%9E_Personal_Restart%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/c/c0/%E5%B9%BB%E6%83%B3%E7%84%A1%E7%AA%AE%E6%A1%83%E5%9C%92_%EF%BD%9E_Personal_Restart%E5%B0%81%E9%9D%A2.jpg/237px-%E5%B9%BB%E6%83%B3%E7%84%A1%E7%AA%AE%E6%A1%83%E5%9C%92_%EF%BD%9E_Personal_Restart%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="724" data-file-height="1024"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></div></td>
@@ -17,8 +18,10 @@
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://bivrache.booth.pm/items/2906211">Booth</a></td></tr></tbody></table>
 
 
+
 ## Staff
 - あすたー (未找到链接)
+
 
 ## 评论
 

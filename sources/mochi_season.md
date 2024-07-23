@@ -4,11 +4,12 @@
 
 mochi_season ，于 2011 年成立，主要制作 同人音乐 的日本同人社团，主催是 mochiton，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
   
   
 
   
+
 
 ## 目录
 
@@ -26,17 +27,21 @@ mochi_season ，于 2011 年成立，主要制作 同人音乐 的日本同人�
 
 
 
+
 ## 社团信息
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> mochi_season </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2011</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=mochiton&amp;action=edit&amp;redlink=1" class="new" title="mochiton（页面不存在）">mochiton</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="https://mochiseason2.wixsite.com/mochi-season">https://mochiseason2.wixsite.com/mochi-season</a> <br><a rel="nofollow" class="external free" href="http://mochiton.shakunage.net/">http://mochiton.shakunage.net/</a> （旧官网）</td></tr></tbody></table>
 
 mochi season（同人社团，同人音乐社团） - mochi_season ，于 2011 年成立，主要制作 同人音乐 的日本同人社团，主催是 mochiton，当前状态为 活动
+
 ## 成员名单
 - mochiton (未找到链接)
 
 : [Twitter: @mochiton](https://twitter.com/mochiton), [Bandcamp: mochiton](https://mochiton.bandcamp.com/)
 
+
 ## 作品列表
+
 ### 同人专辑
 [](./A_Resonant_Noise.md)[A Resonant Noise](./A_Resonant_Noise.md)首发日期：2012-05-27 （第九回 博麗神社例大祭 (未找到链接)）全长 （一般向）[](./無料CD_其の一.md)[無料CD 其の一](./無料CD_其の一.md)首发日期：2012-05-27 （第九回 博麗神社例大祭 (未找到链接)）Omake （一般向）[](./Quiet_dawn.md)[Quiet dawn](./Quiet_dawn.md)首发日期：2012-07-01 （遊音ファンタジウム1 (未找到链接)）全长 （一般向）[](./promise_of_eternity.md)[promise of eternity](./promise_of_eternity.md)首发日期：2012-09-09 （紅のひろば8 (未找到链接)）全长 （一般向）该作品是与 [pikapika](./pikapika.md) 合作创作的遊音ファンタジウム2用手焼きCD 封面图片 (未找到链接)[遊音ファンタジウム2用手焼きCD](./遊音ファンタジウム2用手焼きCD.md)首发日期：2013-01-27 （遊音ファンタジウム2 (未找到链接)）EP （一般向）[](./Various_tones.md)[Various tones](./Various_tones.md)首发日期：2013-05-26 （第十回 博麗神社例大祭 (未找到链接)）全长 （一般向）[](./遊音ファンタジウム3用手焼きCD.md)[遊音ファンタジウム3用手焼きCD](./遊音ファンタジウム3用手焼きCD.md)首发日期：2013-09-08 （遊音ファンタジウム3 (未找到链接)）EP （一般向）例大祭用手焼きCD 封面图片 (未找到链接)[例大祭用手焼きCD](./例大祭用手焼きCD.md)首发日期：2014-05-11 （第十一回 博麗神社例大祭 (未找到链接)）EP （一般向）[](./色彩の記憶_上.md)[色彩の記憶 上](./色彩の記憶_上.md)首发日期：2018-05-06 （第十五回 博麗神社例大祭 (未找到链接)）NMOC-002全长 （一般向）会場限定無料配布CD 封面图片 (未找到链接)[会場限定無料配布CD](./会場限定無料配布CD.md)首发日期：2018-05-06 （第十五回 博麗神社例大祭 (未找到链接)）Omake、​原声集 （一般向）[](./お歳暮のお餅ですよ。.md)[お歳暮のお餅ですよ。](./お歳暮のお餅ですよ。.md)首发日期：2020-12-30 （エアコミケ2 (未找到链接)）NMOC-003原声集 （一般向）[](./夜の帳に架かる夢.md)[夜の帳に架かる夢](./夜の帳に架かる夢.md)首发日期：2022-05-08 （第十九回 博麗神社例大祭 (未找到链接)）NMOC-008全长 （一般向）[](./鏡廻セレナーデ.md)[鏡廻セレナーデ](./鏡廻セレナーデ.md)首发日期：2023-05-07 （第二十回 博麗神社例大祭 (未找到链接)）NMOC-009EP （一般向）[](./25：01のシンデレラ.md)[25:01のシンデレラ](./25：01のシンデレラ.md)首发日期：2024-05-03 （第二十一回 博麗神社例大祭 (未找到链接)）NMOC-010EP （一般向）
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -69,9 +74,11 @@ mochi season（同人社团，同人音乐社团） - mochi_season ，于 2011 �
 </table>
 
 
+
 ## 参展信息
 
 <table><tbody><tr><th class="活动页面">活动页面</th><th class="活动名称">活动名称</th><th class="日期">日期</th><th class="举办地点">举办地点</th><th class="摊位编号">摊位编号</th><th class="宣传页面">宣传页面</th><th class="备注">备注</th></tr><tr data-row-number="1" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#21" title="博丽神社例大祭">博丽神社例大祭#21</a></span></td><td class="活动名称 smwtype_txt">第二十一回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2460433.5">2024-05-03</td><td class="举办地点 smwtype_txt">东京Big Sight 东展厅</td><td class="摊位编号 smwtype_txt">つ44a</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="2" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#20" title="博丽神社例大祭">博丽神社例大祭#20</a></span></td><td class="活动名称 smwtype_txt">第二十回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2460071.5">2023-05-07</td><td class="举办地点 smwtype_txt">东京Big Sight 东展厅</td><td class="摊位编号 smwtype_txt">た38a</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="3" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#19" title="博丽神社例大祭">博丽神社例大祭#19</a></span></td><td class="活动名称 smwtype_txt">第十九回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2459707.5">2022-05-08</td><td class="举办地点 smwtype_txt">东京Big Sight 东展厅</td><td class="摊位编号 smwtype_txt">う33a</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="4" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#15" title="博丽神社例大祭">博丽神社例大祭#15</a></span></td><td class="活动名称 smwtype_txt">第十五回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2458244.5">2018-05-06</td><td class="举办地点 smwtype_txt">东京Big Sight 东123456展厅</td><td class="摊位编号 smwtype_txt">H28a</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="5" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#12" title="博丽神社例大祭">博丽神社例大祭#12</a></span></td><td class="活动名称 smwtype_txt">第十二回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2457152.5">2015-05-10</td><td class="举办地点 smwtype_txt">东京Big Sight 东123456展厅</td><td class="摊位编号 smwtype_txt">え56b</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="6" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#11" title="博丽神社例大祭">博丽神社例大祭#11</a></span></td><td class="活动名称 smwtype_txt">第十一回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2456788.5">2014-05-11</td><td class="举办地点 smwtype_txt">东京Big Sight 东123456展厅</td><td class="摊位编号 smwtype_txt">お39a</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="7" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#10" title="博丽神社例大祭">博丽神社例大祭#10</a></span></td><td class="活动名称 smwtype_txt">第十回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2456438.5">2013-05-26</td><td class="举办地点 smwtype_txt">东京Big Sight 东123456展厅</td><td class="摊位编号 smwtype_txt">C31b</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="8" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#9" title="博丽神社例大祭">博丽神社例大祭#9</a></span></td><td class="活动名称 smwtype_txt">第九回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2456074.5">2012-05-27</td><td class="举办地点 smwtype_txt">东京Big Sight 东123456展厅</td><td class="摊位编号 smwtype_txt">お-27b</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr></tbody></table>
+
 
 
 ## 其他信息

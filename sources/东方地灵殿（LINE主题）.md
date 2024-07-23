@@ -7,10 +7,10 @@
 本页是关于东方Project  
  **相关实体周边 (未找到链接)** 的词条
 东方地灵殿（LINE主题） - 东方Project「东方地灵殿　～ Subterranean Animism.」的LINE主题皮肤
+
 ## 概述
   
-<big> **东方地灵殿 ～ Subterranean Animism.**   
-</big>
+<big> **东方地灵殿 ～ Subterranean Animism.** </big>
 東方地霊殿 ～ Subterranean Animism.  
 
   
@@ -31,6 +31,7 @@
   
 东方Project「东方地灵殿 ～ Subterranean Animism.」的主题皮肤。
   
+
 
 ## 主题展示
 

@@ -4,6 +4,7 @@
 
 Unit_GrowSphere | 社团LOGO
 
+
 ## 文件说明
   
 源地址：[direct image link](https://web.archive.org/web/20200801191640im_/http://www5.airnet.ne.jp/~krerik/ugs/imgs/ugs_logo_new.PNG), [source page](https://web.archive.org/web/20100119060603/http://www5.airnet.ne.jp:80/~krerik/ugs/)

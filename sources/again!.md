@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-again!封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/1/12/again%21%E5%B0%81%E9%9D%A2.jpg/136px-again%21%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="136" height="196" srcset="https://upload.thwiki.cc/thumb/1/12/again%21%E5%B0%81%E9%9D%A2.jpg/204px-again%21%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/1/12/again%21%E5%B0%81%E9%9D%A2.jpg/272px-again%21%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="312" data-file-height="450"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>，<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a></div></td>
@@ -18,8 +19,10 @@ again!（同人志，milky siesta，2018） - 2018年5月6日 由 milky siesta �
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://ec.toranoana.jp/tora_r/ec/item/040030625720">虎穴</a>，<a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=356602">蜜瓜</a></td></tr></tbody></table>
 
 
+
 ## Staff
 - 日向ばにら (未找到链接)
+
 
 ## 评论
 

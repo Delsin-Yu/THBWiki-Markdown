@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 软件信息](#软件信息)
@@ -19,6 +20,7 @@
 
 
 
+
 ## 软件信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-东方宵海格_～_the_Unvisible_Wing封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/1/16/%E4%B8%9C%E6%96%B9%E5%AE%B5%E6%B5%B7%E6%A0%BC_%EF%BD%9E_the_Unvisible_Wing%E5%B0%81%E9%9D%A2.jpg/224px-%E4%B8%9C%E6%96%B9%E5%AE%B5%E6%B5%B7%E6%A0%BC_%EF%BD%9E_the_Unvisible_Wing%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="224" srcset="https://upload.thwiki.cc/thumb/1/16/%E4%B8%9C%E6%96%B9%E5%AE%B5%E6%B5%B7%E6%A0%BC_%EF%BD%9E_the_Unvisible_Wing%E5%B0%81%E9%9D%A2.jpg/336px-%E4%B8%9C%E6%96%B9%E5%AE%B5%E6%B5%B7%E6%A0%BC_%EF%BD%9E_the_Unvisible_Wing%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/1/16/%E4%B8%9C%E6%96%B9%E5%AE%B5%E6%B5%B7%E6%A0%BC_%EF%BD%9E_the_Unvisible_Wing%E5%B0%81%E9%9D%A2.jpg/448px-%E4%B8%9C%E6%96%B9%E5%AE%B5%E6%B5%B7%E6%A0%BC_%EF%BD%9E_the_Unvisible_Wing%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="512" data-file-height="512"></a><div class="cover-char">角色：<a href="./西行寺幽幽子.md" title="西行寺幽幽子">西行寺幽幽子</a>，<a href="./魂魄妖梦.md" title="魂魄妖梦">魂魄妖梦</a></div></td>
@@ -26,6 +28,7 @@
 </tr><tr><td class="label">首发日期</td><td>2018-08-02</td></tr><tr><td class="label">类型</td><td>游戏</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">游戏人数</td><td>单人模式</td></tr><tr><td class="label">游戏类型</td><td>STG</td></tr><tr><td class="label">运行平台</td><td>Windows</td></tr><tr><td class="label">语言</td><td>简体中文</td></tr><tr><td class="label">售价</td><td>免费</td></tr></tbody></table>
 
 东方宵海格 ～ the Unvisible Wing（同人游戏，OSY搞事组，2018） - 2018年8月2日 由 OSY搞事组  发布的STG同人游戏，可在 Windows 系统上运行，游戏人数为 单人模式，分级为 一般向
+
 ## Staff
 主催
 : OLC
@@ -56,6 +59,7 @@
 特别鸣谢
 : Xrysnow，ESC，Xiliusha，砂砾籽
 
+
 ## 内容页面
 - [游戏设定与剧情](./东方宵海格_～_the_Unvisible_Wing-设定与剧情.md)
 - [机体特性与系统说明](./东方宵海格_～_the_Unvisible_Wing-系统.md)
@@ -64,7 +68,9 @@
 - [音乐](./东方宵海格_～_the_Unvisible_Wing-音乐.md)
 - 其他相关资料 (未找到链接)
 
+
 ## 评论
+
 ## 下载
   
 请注意：  
@@ -82,11 +88,13 @@
 </td></tr></tbody></table>
 
 
+
 ## 外部链接
   
 [碧蓝航线吧](https://tieba.baidu.com/p/5823240275)
 [东方吧](https://tieba.baidu.com/p/5823210954)
   
+
 
 ## 词条导航
   

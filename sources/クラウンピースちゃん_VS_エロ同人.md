@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-クラウンピースちゃん_VS_エロ同人封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/8/8a/%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%B3%E3%83%94%E3%83%BC%E3%82%B9%E3%81%A1%E3%82%83%E3%82%93_VS_%E3%82%A8%E3%83%AD%E5%90%8C%E4%BA%BA%E5%B0%81%E9%9D%A2.jpg/161px-%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%B3%E3%83%94%E3%83%BC%E3%82%B9%E3%81%A1%E3%82%83%E3%82%93_VS_%E3%82%A8%E3%83%AD%E5%90%8C%E4%BA%BA%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="161" height="224" srcset="https://upload.thwiki.cc/thumb/8/8a/%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%B3%E3%83%94%E3%83%BC%E3%82%B9%E3%81%A1%E3%82%83%E3%82%93_VS_%E3%82%A8%E3%83%AD%E5%90%8C%E4%BA%BA%E5%B0%81%E9%9D%A2.jpg/242px-%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%B3%E3%83%94%E3%83%BC%E3%82%B9%E3%81%A1%E3%82%83%E3%82%93_VS_%E3%82%A8%E3%83%AD%E5%90%8C%E4%BA%BA%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/8/8a/%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%B3%E3%83%94%E3%83%BC%E3%82%B9%E3%81%A1%E3%82%83%E3%82%93_VS_%E3%82%A8%E3%83%AD%E5%90%8C%E4%BA%BA%E5%B0%81%E9%9D%A2.jpg/322px-%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%B3%E3%83%94%E3%83%BC%E3%82%B9%E3%81%A1%E3%82%83%E3%82%93_VS_%E3%82%A8%E3%83%AD%E5%90%8C%E4%BA%BA%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="2646" data-file-height="3679"></a><div class="cover-char">角色：<a href="./克劳恩皮丝.md" title="克劳恩皮丝">克劳恩皮丝</a>，<a href="./东风谷早苗.md" title="东风谷早苗">东风谷早苗</a>，<a href="./纯狐.md" title="纯狐">纯狐</a>，<a href="./稀神探女.md" title="稀神探女">稀神探女</a>，<a href="./铃瑚.md" title="铃瑚">铃瑚</a>，<a href="./清兰.md" title="清兰">清兰</a>，<a href="./赫卡提亚·拉碧斯拉祖利.md" title="赫卡提亚·拉碧斯拉祖利">赫卡提亚·拉碧斯拉祖利</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/62699964">https://www.pixiv.net/artworks/62699964</a></td></tr></tbody></table>
 
 クラウンピースちゃん VS エロ同人（同人志，げるまにうむ，2017） - 2017年5月7日 由 げるまにうむ 于 博丽神社例大祭14 发布的漫画同人志，B5尺寸一共32页，登场人物有 铃瑚、清兰、稀神探女、克劳恩皮丝、纯狐、东风谷早苗、赫卡提亚·拉碧斯拉祖利、原创角色，分级为 一般向
+
 ## Staff
 - [なぎと](./なぎと.md)
+
 
 ## 评论
 

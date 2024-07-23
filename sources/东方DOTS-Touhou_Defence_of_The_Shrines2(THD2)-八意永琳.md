@@ -169,6 +169,7 @@ AvalonStudioOfficial
 [](./文件-THD2八意永琳.png.md)
   
 
+
 ## 目录
 
 - [1 角色介绍](#角色介绍)
@@ -196,6 +197,7 @@ AvalonStudioOfficial
 
 
 
+
 ## 角色介绍
   
 月人。制作所有药物的程度的能力。  
@@ -206,10 +208,12 @@ AvalonStudioOfficial
 [详见介绍](./八意永琳.md)
   
 
+
 ## 角色定位
   
 辅助 - 逃生 - 控制
   
+
 
 ## 技能介绍
 
@@ -812,6 +816,7 @@ AvalonStudioOfficial
 </td></tr></tbody></table>
 
 
+
 ### 优势
   
 神出鬼没的隐身能力、苏活「生命游戏」的大量伤害和治疗量，让她不仅拥有强力的进攻逃跑能力又有着无与伦比的团队续航能力。  
@@ -819,10 +824,12 @@ AvalonStudioOfficial
 终极技能的蓬莱之药更是让服用者几乎处于不死状态。
   
 
+
 ### 劣势
   
 脆弱的身板和缺乏机动能力，一旦被针对、敌人做好反隐的情况下，极为容易死于刺杀之中。
   
+
 
 ## 天赋树
 
@@ -862,25 +869,30 @@ AvalonStudioOfficial
 </td></tr></tbody></table>
 
 
+
 #### 出门装备
 ```
 [](./文件-THD2爱人卡.png.md)　[](./文件-THD2鬼天王腰带.png.md)　[](./文件-THD2动物信使.png.md) [](./文件-THD2雾雨魔力瓶.png.md)
 ```
+
 
 #### 前期装备
 ```
 [](./文件-THD2很值钱的礼物.png.md)　[](./文件-THD2魔法使扫把.png.md)　[](./文件-THD2护士人偶.png.md)
 ```
 
+
 #### 核心装备
 ```
 [](./文件-THD2月面之弓弦.png.md)　[](./文件-THD2格斗扫把.png.md) [](./文件-THD2香霖的礼服.png.md) [](./文件-THD2侦查守卫.png.md) [](./文件-THD2岗哨守卫.png.md)
 ```
 
+
 #### 可选装备
 ```
 [](./文件-THD2油库里之杖.png.md)　[](./文件-THD2奇迹之星.png.md)　[](./文件-THD2魔人经卷.png.md)　[](./文件-THD2月面之弩.png.md)　[](./文件-THD2亡灵送行提灯.png.md)　[](./文件-THD2楼观剑.png.md)　[](./文件-THD2博丽神社护身符.png.md)　[](./文件-THD2碎骨笛.png.md)
 ```
+
 
 ## 技能加点
 
@@ -1036,6 +1048,7 @@ AvalonStudioOfficial
 　
   
 
+
 ## 台词
 
 <table>
@@ -1147,6 +1160,7 @@ AvalonStudioOfficial
 </td>
 <td>あら、しかたないわ<br>[啊哈，这也是没办法的事啊]
 </td></tr></tbody></table>
+
 
 
 ## 教学视频

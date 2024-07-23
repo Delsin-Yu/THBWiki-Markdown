@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-ONE_FOR_ALL～ひとりはみんなのために～封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/d/d6/ONE_FOR_ALL%EF%BD%9E%E3%81%B2%E3%81%A8%E3%82%8A%E3%81%AF%E3%81%BF%E3%82%93%E3%81%AA%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AB%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg/139px-ONE_FOR_ALL%EF%BD%9E%E3%81%B2%E3%81%A8%E3%82%8A%E3%81%AF%E3%81%BF%E3%82%93%E3%81%AA%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AB%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="139" height="196" srcset="https://upload.thwiki.cc/thumb/d/d6/ONE_FOR_ALL%EF%BD%9E%E3%81%B2%E3%81%A8%E3%82%8A%E3%81%AF%E3%81%BF%E3%82%93%E3%81%AA%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AB%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg/208px-ONE_FOR_ALL%EF%BD%9E%E3%81%B2%E3%81%A8%E3%82%8A%E3%81%AF%E3%81%BF%E3%82%93%E3%81%AA%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AB%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/d/d6/ONE_FOR_ALL%EF%BD%9E%E3%81%B2%E3%81%A8%E3%82%8A%E3%81%AF%E3%81%BF%E3%82%93%E3%81%AA%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AB%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg/278px-ONE_FOR_ALL%EF%BD%9E%E3%81%B2%E3%81%A8%E3%82%8A%E3%81%AF%E3%81%BF%E3%82%93%E3%81%AA%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AB%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="850" data-file-height="1200"></a><div class="cover-char">角色：<a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a>，<a href="/index.php?title=%E5%8E%9F%E5%88%9B%E8%A7%92%E8%89%B2&amp;action=edit&amp;redlink=1" class="new" title="原创角色（页面不存在）">原创角色</a></div></td>
@@ -18,9 +19,12 @@ ONE FOR ALL～ひとりはみんなのために～（同人志，えび★ぴら
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://imijikumo36.booth.pm/items/1184550">Booth</a></td></tr></tbody></table>
 
 
+
 ## 预览
+
 ## Staff
 - じくも (未找到链接)
+
 
 ## 评论
 

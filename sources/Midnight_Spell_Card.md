@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -39,11 +40,13 @@
 
 
 
+
 ## 基本信息
 
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">ミッドナイトスペルカード</td></tr><tr><td><b>译名</b></td><td>Midnight Spell Card</td></tr><tr><td><b>其他译名</b></td><td>午夜符卡‎</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 Midnight Spell Card（曲目） - 由 ZUN 创作的官方曲目，原名 ミッドナイトスペルカード
+
 ## 出现作品
 
 <table>
@@ -51,7 +54,9 @@ Midnight Spell Card（曲目） - 由 ZUN 创作的官方曲目，原名 ミッ�
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 弹幕天邪鬼
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th14.3_03.mp3.md" title="文件:th14.3 03.mp3">th14.3_03.mp3</a><br><audio src="https://upload.thwiki.cc/c/cb/th14.3_03.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>BGM\th14.3_03.wav</td></tr><tr><td><b>BGMForAll</b></td><td><div class="mw-collapsible mw-collapsed">
@@ -62,7 +67,9 @@ Midnight Spell Card（曲目） - 由 ZUN 创作的官方曲目，原名 ミッ�
 </td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 弹幕天邪鬼
 - Music Room (未找到链接)
 
@@ -70,8 +77,11 @@ Midnight Spell Card（曲目） - 由 ZUN 创作的官方曲目，原名 ミッ�
   
 　以夜晚为舞台，作了一首有夜晚的感觉的曲子。  
 　这是首有疾速奔跑的感觉的曲子，所以不要在这里停滞。
+
 ## 其他资料
+
 ### 乐理资讯
+
 #### 使用乐器
 - SD-90 Romantic Tp
 - SD-90 Flute vib
@@ -81,6 +91,7 @@ Midnight Spell Card（曲目） - 由 ZUN 创作的官方曲目，原名 ミッ�
 - Trilian SH-101 Persistent 16ths
 - Retrologue Pristine Bell
 - EZdrummer Minimal MD Kit
+
 
 ### 分析考据
   
@@ -100,6 +111,7 @@ Midnight Spell Card（曲目） - 由 ZUN 创作的官方曲目，原名 ミッ�
 - ミッドナイトスペルカード（Midnight Spell Card）
   - 午夜符卡。
     - [鬼人正邪](./鬼人正邪.md)在午夜躲避敌人的犯规弹幕。
+
 
 
 

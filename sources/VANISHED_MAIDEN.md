@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 软件信息](#软件信息)
@@ -14,6 +15,7 @@
 - [4 评论](#评论)
 - [5 其他链接](#其他链接)
 - [6 词条导航](#词条导航)
+
 
 
 
@@ -38,6 +40,7 @@ VANISHED MAIDEN（同人游戏，disfact，2014） - 2014年8月16日 由 disfac
 </tbody></table>
 
 
+
 ## Staff
 Planning, Programming, Misc. Work
 : Fifteen （[disfact](./disfact.md)）
@@ -56,15 +59,19 @@ Map
 + [東方神鏡世界 ～ Reflection of This Fact.](./東方神鏡世界_～_Reflection_of_This_Fact..md) staff
   
 
+
 ## 内容页面
 - 游戏设定与剧情 (未找到链接)
 - 攻略 (未找到链接)
 - 其他信息 (未找到链接)
 - 原声集：[VANISHED MAIDEN サウンドトラック](./VANISHED_MAIDEN_サウンドトラック.md)
 
+
 ## 评论
+
 ## 其他链接
 - 封面原画：[https://www.pixiv.net/artworks/44274573](https://www.pixiv.net/artworks/44274573)
+
 
 ## 词条导航
   

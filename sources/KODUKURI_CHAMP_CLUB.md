@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=KODUKURI_CHAMP_CLUB%E5%B0%81%E9%9D%A2.jpg" class="new" title="文件:KODUKURI CHAMP CLUB封面.jpg">封面图片</a><div class="cover-char">角色：<a href="./宇佐见莲子.md" title="宇佐见莲子">宇佐见莲子</a>，<a href="./玛艾露贝莉·赫恩.md" title="玛艾露贝莉·赫恩">玛艾露贝莉·赫恩</a></div></td>
@@ -14,9 +15,11 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/hurohairu/status/908307253756813312">https://twitter.com/hurohairu/status/908307253756813312</a></td></tr></tbody></table>
 
 KODUKURI CHAMP CLUB（同人志，めがねぷりん，月曜猫，2017） - 2017年9月18日 由 めがねぷりん，月曜猫 于 科学世纪的露天咖啡座7 发布的漫画同人志，B5尺寸一共34页，登场人物有 宇佐见莲子、玛艾露贝莉·赫恩，分级为 一般向
+
 ## Staff
 : [ねねこゆき](./ねねこゆき.md)
 : 夏希 (未找到链接)
+
 
 ## 评论
 

@@ -4,7 +4,8 @@
 
 Red Bullet Sequence ，于 2008 年成立，主要制作 同人音乐 的日本同人社团，主催是 sgg，曾以 姥桜咲く 名义活动，当前状态为 休止
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -31,6 +32,7 @@ Red Bullet Sequence ，于 2008 年成立，主要制作 同人音乐 的日本�
 
 
 
+
 ## 社团信息
 [](./文件-Red_Bullet_Sequencebanner.png.md)  [](./文件-Red_Bullet_Sequencebanner.png.md)banner
 [](./文件-Red_Bullet_Sequencebanner2.jpg.md)  [](./文件-Red_Bullet_Sequencebanner2.jpg.md)旧banner（姥桜咲く）
@@ -38,22 +40,28 @@ Red Bullet Sequence ，于 2008 年成立，主要制作 同人音乐 的日本�
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Red Bullet Sequence </td></tr><tr><td><b>曾用名称</b></td><td> 姥桜咲く </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2008</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>主催</b></td><td> <a href="./sgg.md" title="sgg">sgg</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://599vtsgg.wixsite.com/redbulletsequence">http://599vtsgg.wixsite.com/redbulletsequence</a> <br><a rel="nofollow" class="external free" href="http://upupdowndown.sakura.ne.jp">http://upupdowndown.sakura.ne.jp</a> （旧官网）<span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><small>（<a rel="nofollow" class="external text" href="https://web.archive.org/web/20130307194305/http://upupdowndown.sakura.ne.jp:80/">缓存页面</a>）</small></td></tr></tbody></table>
 
 Red Bullet Sequence（同人社团，同人音乐社团） - Red Bullet Sequence ，于 2008 年成立，主要制作 同人音乐 的日本同人社团，主催是 sgg，曾以 姥桜咲く 名义活动，当前状态为 休止
+
 ## 社团简介
 - [sgg](./sgg.md)的个人社团。
 - 曾用名「姥桜咲く」（又称「海老桜咲く」、「桜海老吹く」、「生シラス吹く」、「本鮪飛ぶ」），也曾使用Raw Postlarvae Blown的名义发行专辑[Gensou Diary](./Gensou_Diary.md)。
 - 2010年更名为Red Bullet Sequence。
 
+
 ## 成员名单
 - [sgg](./sgg.md)
 
+
 ## 作品列表
+
 ### 同人专辑
+
 #### 姥桜咲く名义
 [](./Under_a_Crying_Moon.md)[Under a Crying Moon](./Under_a_Crying_Moon.md)首发日期：2008-12-29 （Comic Market 75 (未找到链接)）全长 （一般向）[](./死亡フラグなんてバッキバキにしてやんよ.md)[死亡フラグなんてバッキバキにしてやんよ](./死亡フラグなんてバッキバキにしてやんよ.md)首发日期：2009-03-08 （第六回 博麗神社例大祭 (未找到链接)）MMCD-0008全长 （一般向）该作品是与 [みかん箱](./みかん箱.md) 合作创作的
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 #### 海老咲く名义
@@ -64,10 +72,12 @@ Red Bullet Sequence（同人社团，同人音乐社团） - Red Bullet Sequence
 </table>
 
 
+
 #### Raw Postlarvae Blown 名义
 [](./Gensou_Diary.md)[Gensou Diary](./Gensou_Diary.md)首发日期：2009-10-11 （東方紅楼夢5 (未找到链接)）全长、​合作 （一般向）以  **Raw Postlarvae Blown**  社团为名义发布
 <table><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 #### sgg 名义
@@ -76,6 +86,7 @@ Red Bullet Sequence（同人社团，同人音乐社团） - Red Bullet Sequence
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 #### Red Bullet Sequence 名义
@@ -168,9 +179,11 @@ Red Bullet Sequence（同人社团，同人音乐社团） - Red Bullet Sequence
 </table>
 
 
+
 ## 参展信息
 
 <table><tbody><tr><th class="活动页面">活动页面</th><th class="活动名称">活动名称</th><th class="日期">日期</th><th class="举办地点">举办地点</th><th class="摊位编号">摊位编号</th><th class="宣传页面">宣传页面</th><th class="备注">备注</th></tr><tr data-row-number="1" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E4%B8%9C%E6%96%B9%E7%BA%A2%E6%A5%BC%E6%A2%A6#18" title="东方红楼梦">东方红楼梦#18</a></span></td><td class="活动名称 smwtype_txt">東方紅楼夢18</td><td class="日期 smwtype_dat" data-sort-value="2459861.5">2022-10-09</td><td class="举办地点 smwtype_txt">大阪国际展览中心</td><td class="摊位编号 smwtype_txt">す16-a</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="2" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E7%A7%91%E5%AD%A6%E4%B8%96%E7%BA%AA%E7%9A%84%E9%9C%B2%E5%A4%A9%E5%92%96%E5%95%A1%E5%BA%A7#10" title="科学世纪的露天咖啡座">科学世纪的露天咖啡座#10</a></span></td><td class="活动名称 smwtype_txt">科学世紀のカフェテラス（第10回）</td><td class="日期 smwtype_dat" data-sort-value="2459589.5">2022-01-10</td><td class="举办地点 smwtype_txt">京都综合见本市会馆</td><td class="摊位编号 smwtype_txt">部11</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="3" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E4%B8%9C%E6%96%B9%E5%90%8D%E5%8D%8E%E7%A5%AD#14" title="东方名华祭">东方名华祭#14</a></span></td><td class="活动名称 smwtype_txt">東方名華祭14</td><td class="日期 smwtype_dat" data-sort-value="2459070.5">2020-08-09</td><td class="举办地点 smwtype_txt">名古屋市国际展示场 第2展厅</td><td class="摊位编号 smwtype_txt">G16</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="4" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E7%A7%91%E5%AD%A6%E4%B8%96%E7%BA%AA%E7%9A%84%E9%9C%B2%E5%A4%A9%E5%92%96%E5%95%A1%E5%BA%A7#9" title="科学世纪的露天咖啡座">科学世纪的露天咖啡座#9</a></span></td><td class="活动名称 smwtype_txt">科学世紀のカフェテラス（第9回）</td><td class="日期 smwtype_dat" data-sort-value="2458804.5">2019-11-17</td><td class="举办地点 smwtype_txt">京都市劝业馆</td><td class="摊位编号 smwtype_txt">楽07</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="5" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E6%9E%81%E3%83%BB%E4%B8%9C%E6%96%B9%E7%A5%9E%E5%B1%85%E7%A5%AD#16" title="极・东方神居祭">极・东方神居祭#16</a></span></td><td class="活动名称 smwtype_txt">極・東方神居祭16</td><td class="日期 smwtype_dat" data-sort-value="2458782.5">2019-10-26</td><td class="举办地点 smwtype_txt">札幌 TKPガーデンシティPREMIUM札幌大通</td><td class="摊位编号 smwtype_txt">第2日　き01</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="6" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#16" title="博丽神社例大祭">博丽神社例大祭#16</a></span></td><td class="活动名称 smwtype_txt">第十六回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2458608.5">2019-05-05</td><td class="举办地点 smwtype_txt">东京Big Sight</td><td class="摊位编号 smwtype_txt">J41a</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="7" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E4%B8%9C%E6%96%B9%E5%90%8D%E5%8D%8E%E7%A5%AD#13" title="东方名华祭">东方名华祭#13</a></span></td><td class="活动名称 smwtype_txt">東方名華祭13</td><td class="日期 smwtype_dat" data-sort-value="2458559.5">2019-03-17</td><td class="举办地点 smwtype_txt">名古屋市国际展示场 第2展厅</td><td class="摊位编号 smwtype_txt">O-35</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="8" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E7%A7%91%E5%AD%A6%E4%B8%96%E7%BA%AA%E7%9A%84%E9%9C%B2%E5%A4%A9%E5%92%96%E5%95%A1%E5%BA%A7#8" title="科学世纪的露天咖啡座">科学世纪的露天咖啡座#8</a></span></td><td class="活动名称 smwtype_txt">科学世紀のカフェテラス（第8回）</td><td class="日期 smwtype_dat" data-sort-value="2458433.5">2018-11-11</td><td class="举办地点 smwtype_txt">京都市劝业馆</td><td class="摊位编号 smwtype_txt">猫06</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr></tbody></table>
+
 
 
 ## 其他信息

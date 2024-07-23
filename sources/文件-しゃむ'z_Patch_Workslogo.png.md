@@ -4,6 +4,7 @@
 
 しゃむ'z_Patch_Works | 社团LOGO
 
+
 ## 摘要
   
 源地址：[direct image link (original size)](https://yt3.googleusercontent.com/ytc/APkrFKazTFZxlyQsu4Z55jTceNIIqdZhiG8iir1b63jx=s0?imgmax=0), [source page (Youtube channel logo)](https://www.youtube.com/@sh1090mienaichikara)

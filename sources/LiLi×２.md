@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-LiLi×２封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/5/5d/LiLi%C3%97%EF%BC%92%E5%B0%81%E9%9D%A2.png/119px-LiLi%C3%97%EF%BC%92%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="119" height="168" srcset="https://upload.thwiki.cc/thumb/5/5d/LiLi%C3%97%EF%BC%92%E5%B0%81%E9%9D%A2.png/178px-LiLi%C3%97%EF%BC%92%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/5/5d/LiLi%C3%97%EF%BC%92%E5%B0%81%E9%9D%A2.png/238px-LiLi%C3%97%EF%BC%92%E5%B0%81%E9%9D%A2.png 2x" data-file-width="850" data-file-height="1200"></a><div class="cover-char">角色：<a href="./莉莉霍瓦特.md" title="莉莉霍瓦特">莉莉霍瓦特</a>，<a href="/%E8%8E%89%E8%8E%89%E9%9C%8D%E7%93%A6%E7%89%B9#莉莉霍瓦特（黑）" title="莉莉霍瓦特">莉莉黑</a></div></td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/43410546">https://www.pixiv.net/artworks/43410546</a></td></tr></tbody></table>
 
 LiLi×２（同人志，夢見里，2014） - 2014年5月11日 由 夢見里 于 博丽神社例大祭11 发布的漫画同人志，B5尺寸，分级为 一般向
+
 ## Staff
 - [ばくP](./ばくP.md)
 

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-秘封倶楽部コスプレ写真集『Artificial_Eden』封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/3/3f/%E7%A7%98%E5%B0%81%E5%80%B6%E6%A5%BD%E9%83%A8%E3%82%B3%E3%82%B9%E3%83%97%E3%83%AC%E5%86%99%E7%9C%9F%E9%9B%86%E3%80%8EArtificial_Eden%E3%80%8F%E5%B0%81%E9%9D%A2.jpg/224px-%E7%A7%98%E5%B0%81%E5%80%B6%E6%A5%BD%E9%83%A8%E3%82%B3%E3%82%B9%E3%83%97%E3%83%AC%E5%86%99%E7%9C%9F%E9%9B%86%E3%80%8EArtificial_Eden%E3%80%8F%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="224" srcset="https://upload.thwiki.cc/thumb/3/3f/%E7%A7%98%E5%B0%81%E5%80%B6%E6%A5%BD%E9%83%A8%E3%82%B3%E3%82%B9%E3%83%97%E3%83%AC%E5%86%99%E7%9C%9F%E9%9B%86%E3%80%8EArtificial_Eden%E3%80%8F%E5%B0%81%E9%9D%A2.jpg/336px-%E7%A7%98%E5%B0%81%E5%80%B6%E6%A5%BD%E9%83%A8%E3%82%B3%E3%82%B9%E3%83%97%E3%83%AC%E5%86%99%E7%9C%9F%E9%9B%86%E3%80%8EArtificial_Eden%E3%80%8F%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/3/3f/%E7%A7%98%E5%B0%81%E5%80%B6%E6%A5%BD%E9%83%A8%E3%82%B3%E3%82%B9%E3%83%97%E3%83%AC%E5%86%99%E7%9C%9F%E9%9B%86%E3%80%8EArtificial_Eden%E3%80%8F%E5%B0%81%E9%9D%A2.jpg/448px-%E7%A7%98%E5%B0%81%E5%80%B6%E6%A5%BD%E9%83%A8%E3%82%B3%E3%82%B9%E3%83%97%E3%83%AC%E5%86%99%E7%9C%9F%E9%9B%86%E3%80%8EArtificial_Eden%E3%80%8F%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1000" data-file-height="1000"></a><div class="cover-char">角色：<a href="./宇佐见莲子.md" title="宇佐见莲子">宇佐见莲子</a>，<a href="./玛艾露贝莉·赫恩.md" title="玛艾露贝莉·赫恩">玛艾露贝莉·赫恩</a></div></td>
@@ -16,6 +17,7 @@
 秘封倶楽部コスプレ写真集『Artificial Eden』（同人志，Echollapsar，2017） - 2017年3月26日 由 Echollapsar 于 境界所见到的外界4 发布的摄影集同人志，一共40页，登场人物有 宇佐见莲子、玛艾露贝莉·赫恩，分级为 一般向
 
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://item.taobao.com/item.htm?id=598381583668">淘宝</a></td></tr></tbody></table>
+
 
 
 ## Staff
@@ -30,6 +32,7 @@
 摄影
 
 - shivastill (未找到链接)
+
 
 ## 评论
 

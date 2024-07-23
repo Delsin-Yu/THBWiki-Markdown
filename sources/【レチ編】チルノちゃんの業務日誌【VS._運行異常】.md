@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-【レチ編】チルノちゃんの業務日誌【VS._運行異常】封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/6/62/%E3%80%90%E3%83%AC%E3%83%81%E7%B7%A8%E3%80%91%E3%83%81%E3%83%AB%E3%83%8E%E3%81%A1%E3%82%83%E3%82%93%E3%81%AE%E6%A5%AD%E5%8B%99%E6%97%A5%E8%AA%8C%E3%80%90VS._%E9%81%8B%E8%A1%8C%E7%95%B0%E5%B8%B8%E3%80%91%E5%B0%81%E9%9D%A2.png/119px-%E3%80%90%E3%83%AC%E3%83%81%E7%B7%A8%E3%80%91%E3%83%81%E3%83%AB%E3%83%8E%E3%81%A1%E3%82%83%E3%82%93%E3%81%AE%E6%A5%AD%E5%8B%99%E6%97%A5%E8%AA%8C%E3%80%90VS._%E9%81%8B%E8%A1%8C%E7%95%B0%E5%B8%B8%E3%80%91%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="119" height="168" srcset="https://upload.thwiki.cc/thumb/6/62/%E3%80%90%E3%83%AC%E3%83%81%E7%B7%A8%E3%80%91%E3%83%81%E3%83%AB%E3%83%8E%E3%81%A1%E3%82%83%E3%82%93%E3%81%AE%E6%A5%AD%E5%8B%99%E6%97%A5%E8%AA%8C%E3%80%90VS._%E9%81%8B%E8%A1%8C%E7%95%B0%E5%B8%B8%E3%80%91%E5%B0%81%E9%9D%A2.png/178px-%E3%80%90%E3%83%AC%E3%83%81%E7%B7%A8%E3%80%91%E3%83%81%E3%83%AB%E3%83%8E%E3%81%A1%E3%82%83%E3%82%93%E3%81%AE%E6%A5%AD%E5%8B%99%E6%97%A5%E8%AA%8C%E3%80%90VS._%E9%81%8B%E8%A1%8C%E7%95%B0%E5%B8%B8%E3%80%91%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/6/62/%E3%80%90%E3%83%AC%E3%83%81%E7%B7%A8%E3%80%91%E3%83%81%E3%83%AB%E3%83%8E%E3%81%A1%E3%82%83%E3%82%93%E3%81%AE%E6%A5%AD%E5%8B%99%E6%97%A5%E8%AA%8C%E3%80%90VS._%E9%81%8B%E8%A1%8C%E7%95%B0%E5%B8%B8%E3%80%91%E5%B0%81%E9%9D%A2.png/237px-%E3%80%90%E3%83%AC%E3%83%81%E7%B7%A8%E3%80%91%E3%83%81%E3%83%AB%E3%83%8E%E3%81%A1%E3%82%83%E3%82%93%E3%81%AE%E6%A5%AD%E5%8B%99%E6%97%A5%E8%AA%8C%E3%80%90VS._%E9%81%8B%E8%A1%8C%E7%95%B0%E5%B8%B8%E3%80%91%E5%B0%81%E9%9D%A2.png 2x" data-file-width="412" data-file-height="583"></a><div class="cover-char">角色：<a href="./琪露诺.md" title="琪露诺">琪露诺</a></div></td>
@@ -14,9 +15,12 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/Penntyann9/status/1708491545803198864">https://twitter.com/Penntyann9/status/1708491545803198864</a><br><a rel="nofollow" class="external free" href="https://twitter.com/Penntyann9/status/1722991296703307919">https://twitter.com/Penntyann9/status/1722991296703307919</a></td></tr></tbody></table>
 
 【レチ編】チルノちゃんの業務日誌【VS. 運行異常】（同人志，新日暮里駅務区，2023） - 2023年11月12日 由 新日暮里駅務区 于 博丽神社秋季例大祭10 发布的漫画同人志，登场人物有 琪露诺，分级为 一般向
+
 ## 预览
+
 ## Staff
 - ペンちゃん (未找到链接)
+
 
 ## 评论
 

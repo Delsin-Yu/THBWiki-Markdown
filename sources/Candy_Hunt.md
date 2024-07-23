@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Candy_Hunt封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/6/6a/Candy_Hunt%E5%B0%81%E9%9D%A2.png/140px-Candy_Hunt%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="140" height="196" srcset="https://upload.thwiki.cc/thumb/6/6a/Candy_Hunt%E5%B0%81%E9%9D%A2.png/210px-Candy_Hunt%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/6/6a/Candy_Hunt%E5%B0%81%E9%9D%A2.png/280px-Candy_Hunt%E5%B0%81%E9%9D%A2.png 2x" data-file-width="800" data-file-height="1119"></a><div class="cover-char">角色：<a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a>，<a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a></div></td>
@@ -18,8 +19,10 @@ Candy Hunt（同人志，hakamori，2018） - 2018年10月14日 由 hakamori 于
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://ec.toranoana.jp/tora_r/ec/item/040030676539">虎穴</a></td></tr></tbody></table>
 
 
+
 ## Staff
 - [墓場](./墓場.md)
+
 
 ## 评论
 

@@ -23,6 +23,7 @@
 </center>
 - 本词条内容为官方游戏TH15 **东方绀珠传** 的敌机符卡
 
+
 ## 目录
 
 - [1 铃瑚](#铃瑚)
@@ -65,6 +66,7 @@
 
 
 # 铃瑚
+
 ## 兔符「Strawberry Dango」
 
 <table>
@@ -83,6 +85,7 @@
 </th></tr></tbody></table>
 
 
+
 ### 符卡信息
 
 <table>
@@ -94,6 +97,7 @@
 <p>2面BOSS铃瑚Easy / Normal难度符卡。
 </p>
 </td></tr></tbody></table>
+
 
 
 
@@ -115,6 +119,7 @@
 </th></tr></tbody></table>
 
 
+
 ### 符卡信息
 
 <table>
@@ -126,6 +131,7 @@
 <p>2面BOSS铃瑚Hard / Lunatic难度符卡。
 </p>
 </td></tr></tbody></table>
+
 
 
 
@@ -147,6 +153,7 @@
 </th></tr></tbody></table>
 
 
+
 ### 符卡信息
 
 <table>
@@ -158,6 +165,7 @@
 <p>2面BOSS铃瑚Easy / Normal / Hard / Lunatic难度符卡。
 </p>
 </td></tr></tbody></table>
+
 
 
 
@@ -179,6 +187,7 @@
 </th></tr></tbody></table>
 
 
+
 ### 符卡信息
 
 <table>
@@ -190,6 +199,7 @@
 <p>2面BOSS铃瑚Easy / Normal / Hard难度符卡。
 </p>
 </td></tr></tbody></table>
+
 
 
 
@@ -209,6 +219,7 @@
 <p><a href="./September_Fullmoon.md" title="September Fullmoon" unred="">赏月酒「Lunatic September」</a>
 </p>
 </th></tr></tbody></table>
+
 
 
 ### 符卡信息

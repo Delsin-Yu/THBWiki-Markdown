@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 软件信息](#软件信息)
@@ -13,6 +14,7 @@
 - [3 内容页面](#内容页面)
 - [4 评论](#评论)
 - [5 下载](#下载)
+
 
 
 
@@ -25,13 +27,17 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://www.2demotion.com/iwannabetheshrinemaiden2.html">http://www.2demotion.com/iwannabetheshrinemaiden2.html</a></td></tr></tbody></table>
 
 I Wanna be the Shrine Maiden 2（同人游戏，2D Emotion，2010） - 2024年6月22日 由 2D Emotion  发布的ACT同人游戏，可在 Windows 系统上运行，游戏人数为 单人模式，分级为 一般向
+
 ## Staff
+
 ## 内容页面
 - 游戏设定与剧情 (未找到链接)
 - 攻略 (未找到链接)
 - 其他信息 (未找到链接)
 
+
 ## 评论
+
 ## 下载
   
 请注意：  

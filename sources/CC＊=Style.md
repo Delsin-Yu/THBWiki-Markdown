@@ -4,7 +4,8 @@
 
 CC*=Style ，于 2010 年成立，主要制作 同人音乐 的日本同人社团，主催是 Blue Twinkle，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -15,18 +16,21 @@ CC*=Style ，于 2010 年成立，主要制作 同人音乐 的日本同人社�
 
 
 
+
 ## 社团信息
 [](./文件-CC＊=Style_banner.gif.md)  [](./文件-CC＊=Style_banner.gif.md)Banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> CC*&#61;Style </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2010</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="./Blue_Twinkle.md" title="Blue Twinkle">Blue Twinkle</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://cc-style.net">http://cc-style.net</a> <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><small>（<a rel="nofollow" class="external text" href="https://web.archive.org/web/20110522053634/http://c2-style.com/">缓存页面</a>）</small></td></tr></tbody></table>
 
 CC＊=Style（同人社团，同人音乐社团） - CC*=Style ，于 2010 年成立，主要制作 同人音乐 的日本同人社团，主催是 Blue Twinkle，当前状态为 活动
+
 ## 成员名单
 - [Blue Twinkle](./Blue_Twinkle.md)
 - KMN (未找到链接)
 - F-B∞st (未找到链接)
 - DJ A.Q. (未找到链接)
 - MASAKARI (未找到链接)
+
 
 ## 作品列表
 [](./Crimson_Reflection.md)[Crimson Reflection](./Crimson_Reflection.md)首发日期：2010-03-14 （第七回 博麗神社例大祭 (未找到链接)）CCST-0001全长 （一般向）[](./Toho_Trance_Vision.md)[Toho Trance Vision](./Toho_Trance_Vision.md)首发日期：2011-03-13 （第八回 博麗神社例大祭 (未找到链接)）CCST-0002全长 （一般向）[](./Trance_Around_The_Toho.md)[Trance Around The Toho](./Trance_Around_The_Toho.md)首发日期：2011-05-08 （第八回 博麗神社例大祭 (未找到链接)）CCST-0003全长 （一般向）[](./Toho_Seiren_Sense.md)[Toho Seiren Sense](./Toho_Seiren_Sense.md)首发日期：2012-05-27 （第九回 博麗神社例大祭 (未找到链接)）CCST-0006全长 （一般向）
@@ -38,6 +42,7 @@ CC＊=Style（同人社团，同人音乐社团） - CC*=Style ，于 2010 年�
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 其他信息

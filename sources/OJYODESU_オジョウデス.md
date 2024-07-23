@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-OJYODESU_オジョウデス封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/a/a6/OJYODESU_%E3%82%AA%E3%82%B8%E3%83%A7%E3%82%A6%E3%83%87%E3%82%B9%E5%B0%81%E9%9D%A2.jpg/118px-OJYODESU_%E3%82%AA%E3%82%B8%E3%83%A7%E3%82%A6%E3%83%87%E3%82%B9%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="118" height="168" srcset="https://upload.thwiki.cc/thumb/a/a6/OJYODESU_%E3%82%AA%E3%82%B8%E3%83%A7%E3%82%A6%E3%83%87%E3%82%B9%E5%B0%81%E9%9D%A2.jpg/178px-OJYODESU_%E3%82%AA%E3%82%B8%E3%83%A7%E3%82%A6%E3%83%87%E3%82%B9%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/a/a6/OJYODESU_%E3%82%AA%E3%82%B8%E3%83%A7%E3%82%A6%E3%83%87%E3%82%B9%E5%B0%81%E9%9D%A2.jpg/237px-OJYODESU_%E3%82%AA%E3%82%B8%E3%83%A7%E3%82%A6%E3%83%87%E3%82%B9%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="500" data-file-height="709"></a><div class="cover-char">角色：<a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a></div></td>
@@ -13,9 +14,12 @@
 </tr><tr><td class="label">首发日期</td><td>2011-01-30&#160;（<a href="/展会作品列表?e=%E7%BA%A2%E4%B9%8B%E5%B9%BF%E5%9C%BA%235">紅のひろば5</a>）</td></tr><tr><td class="label">类型</td><td>漫画</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">页数</td><td>16P</td></tr><tr><td class="label">登场人物</td><td><a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a></td></tr></tbody></table>
 
 OJYODESU オジョウデス（同人志，羊箱，2011） - 2011年1月30日 由 羊箱 于 红之广场5 发布的漫画同人志，一共16页，登场人物有 蕾米莉亚·斯卡蕾特，分级为 一般向
+
 ## 预览
+
 ## Staff
 - [羊箱](./羊箱.md)
+
 
 ## 评论
 

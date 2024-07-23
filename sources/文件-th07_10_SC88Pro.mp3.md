@@ -4,6 +4,7 @@
 
 东方妖妖梦 | 东方妖妖梦_～_Ancient_Temple
 
+
 ## 文件说明
   
 東方妖々夢　～ Ancient Temple 东方妖妖梦5面道中曲MIDI版。由Roland Sound Canvas 88Pro实机录制；MP3采样率44.1KHz，码率192Kbps。  

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-HIHUU_WEDDING_-Welcome_to_Ghostly_Chapel-封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/1/1a/HIHUU_WEDDING_-Welcome_to_Ghostly_Chapel-%E5%B0%81%E9%9D%A2.jpg/158px-HIHUU_WEDDING_-Welcome_to_Ghostly_Chapel-%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="158" height="224" srcset="https://upload.thwiki.cc/thumb/1/1a/HIHUU_WEDDING_-Welcome_to_Ghostly_Chapel-%E5%B0%81%E9%9D%A2.jpg/237px-HIHUU_WEDDING_-Welcome_to_Ghostly_Chapel-%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/1/1a/HIHUU_WEDDING_-Welcome_to_Ghostly_Chapel-%E5%B0%81%E9%9D%A2.jpg/316px-HIHUU_WEDDING_-Welcome_to_Ghostly_Chapel-%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="595" data-file-height="842"></a><div class="cover-char">角色：<a href="./宇佐见莲子.md" title="宇佐见莲子">宇佐见莲子</a>，<a href="./玛艾露贝莉·赫恩.md" title="玛艾露贝莉·赫恩">玛艾露贝莉·赫恩</a></div></td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://allenemy.fc2web.com/hhw/index.html">http://allenemy.fc2web.com/hhw/index.html</a></td></tr></tbody></table>
 
 HIHUU WEDDING -Welcome to Ghostly Chapel-（同人志，四面楚歌，2015） - 2015年2月21日 由 四面楚歌 于 境界所见到的外界3 发布的画集同人志，A4尺寸一共44页，登场人物有 宇佐见莲子、玛艾露贝莉·赫恩，分级为 一般向
+
 ## Staff
 封面
 : kirero（[KirororO](./KirororO.md)）
@@ -21,7 +23,7 @@ HIHUU WEDDING -Welcome to Ghostly Chapel-（同人志，四面楚歌，2015） -
 : 彩社長（[極彩色](http://www.pixiv.net/member.php?id=110212)）
 : ukyo_rst（[U.M.E.Project](http://ume-project.jp/)）
 : おいもとじろう（おいもと (未找到链接)）
-: おにぎり（銀星糖 (未找到链接)）
+: おにぎり（[銀星糖](./銀星糖.md)）
 : かるなばる（[Ellectronics](http://lacaleche.web.fc2.com/)）
 : 菊壱モンジ（[1569](./1569.md)）
 : kirero（[KirororO](./KirororO.md)）
@@ -45,6 +47,7 @@ LOGO绘
 : まいこ（[トニカ](http://www.pixiv.net/member.php?id=196546)）
 贴纸
 : 暮浦鶏太（[鶏肉生活](http://poulet.sakura.ne.jp/)）
+
 
 ## 评论
 

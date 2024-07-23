@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Sleepless_Demo＃1封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/3/31/Sleepless_Demo%EF%BC%831%E5%B0%81%E9%9D%A2.jpg/252px-Sleepless_Demo%EF%BC%831%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="252" srcset="https://upload.thwiki.cc/thumb/3/31/Sleepless_Demo%EF%BC%831%E5%B0%81%E9%9D%A2.jpg/378px-Sleepless_Demo%EF%BC%831%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/3/31/Sleepless_Demo%EF%BC%831%E5%B0%81%E9%9D%A2.jpg/504px-Sleepless_Demo%EF%BC%831%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="727" data-file-height="727"></a></td>
@@ -14,11 +15,13 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://soundcloud.com/sctspl/sleepless-demo1-xfd">https://soundcloud.com/sctspl/sleepless-demo1-xfd</a></td></tr></tbody></table>
 
 Sleepless Demo＃1（同人专辑，Sleepless，2017） - 2017年9月20日 由 Sleepless  发布的Demo/EP同人专辑，曲目主要风格是 Trance，分级为 一般向
+
 ## Staff
   
  **Arrangement**   
 
 <table><tbody><tr><td><a href="/index.php?title=Seppel&amp;action=edit&amp;redlink=1" class="new" title="Seppel（页面不存在）">Seppel</a></td><td><a href="./Sleepless.md" title="Sleepless">Sleepless</a></td><td>Tr.1/2</td></tr></tbody></table>
+
 
 
 ## 试听
@@ -27,10 +30,12 @@ Sleepless Demo＃1（同人专辑，Sleepless，2017） - 2017年9月20日 由 S
 
   
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Old_Adam_Bar" colspan="2" class="title">Old Adam Bar<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Seppel&amp;ogmusic=バー・オールドアダム&amp;fromwiki=Sleepless_Demo＃1"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=Seppel&amp;action=edit&amp;redlink=1" class="new" title="Seppel（页面不存在）">Seppel</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Seppel&amp;fromwiki=Sleepless_Demo＃1"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=バー・オールドアダム&amp;fromwiki=Sleepless_Demo＃1"><span></span></a></span><div class="ogmusic"><a href="/%E3%83%90%E3%83%BC%E3%83%BB%E3%82%AA%E3%83%BC%E3%83%AB%E3%83%89%E3%82%A2%E3%83%80%E3%83%A0" class="mw-redirect" title="バー・オールドアダム">バー・オールドアダム</a></div><div class="source"><a href="/%E6%97%A7%E7%BA%A6%E9%85%92%E9%A6%86_%EF%BD%9E_Dateless_Bar_%22Old_Adam%22." class="mw-redirect" title="旧约酒馆 ～ Dateless Bar &quot;Old Adam&quot;.">旧约酒馆　～ Dateless Bar "Old Adam".</a></div></td></tr>
-<tr><td id="2" class="infoYD"><b>02</b></td><td id="Satori_Maiden_~_3rd_eye" colspan="2" class="title">Satori Maiden ~ 3rd eye<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Seppel&amp;ogmusic=少女さとり　～ 3rd eye&amp;fromwiki=Sleepless_Demo＃1"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=Seppel&amp;action=edit&amp;redlink=1" class="new" title="Seppel（页面不存在）">Seppel</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Seppel&amp;fromwiki=Sleepless_Demo＃1"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=少女さとり　～ 3rd eye&amp;fromwiki=Sleepless_Demo＃1"><span></span></a></span><div class="ogmusic"><a href="/%E5%B0%91%E5%A5%B3%E3%81%95%E3%81%A8%E3%82%8A_%EF%BD%9E_3rd_eye" class="mw-redirect" title="少女さとり ～ 3rd eye">少女さとり　～ 3rd eye</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E5%9C%B0%E7%81%B5%E6%AE%BF_%EF%BD%9E_Subterranean_Animism." class="mw-redirect" title="东方地灵殿 ～ Subterranean Animism.">东方地灵殿　～ Subterranean Animism.</a></div></td></tr><tr><td class="left"></td><td class="label">曲风</td><td class="text" colspan="2">Trance，Dance</td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Old_Adam_Bar" colspan="2" class="title">Old Adam Bar<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Seppel&amp;ogmusic=バー・オールドアダム&amp;fromwiki=Sleepless_Demo＃1"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=Seppel&amp;action=edit&amp;redlink=1" class="new" title="Seppel（页面不存在）">Seppel</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Seppel&amp;fromwiki=Sleepless_Demo＃1"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=バー・オールドアダム&amp;fromwiki=Sleepless_Demo＃1"><span></span></a></span><div class="ogmusic"><a href="./バー・オールドアダム.md" class="mw-redirect" title="バー・オールドアダム">バー・オールドアダム</a></div><div class="source"><a href="./旧约酒馆_～_Dateless_Bar_-Old_Adam-..md" class="mw-redirect" title="旧约酒馆 ～ Dateless Bar &quot;Old Adam&quot;.">旧约酒馆　～ Dateless Bar "Old Adam".</a></div></td></tr>
+<tr><td id="2" class="infoYD"><b>02</b></td><td id="Satori_Maiden_~_3rd_eye" colspan="2" class="title">Satori Maiden ~ 3rd eye<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Seppel&amp;ogmusic=少女さとり　～ 3rd eye&amp;fromwiki=Sleepless_Demo＃1"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=Seppel&amp;action=edit&amp;redlink=1" class="new" title="Seppel（页面不存在）">Seppel</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Seppel&amp;fromwiki=Sleepless_Demo＃1"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=少女さとり　～ 3rd eye&amp;fromwiki=Sleepless_Demo＃1"><span></span></a></span><div class="ogmusic"><a href="./少女さとり_～_3rd_eye.md" class="mw-redirect" title="少女さとり ～ 3rd eye">少女さとり　～ 3rd eye</a></div><div class="source"><a href="./东方地灵殿_～_Subterranean_Animism..md" class="mw-redirect" title="东方地灵殿 ～ Subterranean Animism.">东方地灵殿　～ Subterranean Animism.</a></div></td></tr><tr><td class="left"></td><td class="label">曲风</td><td class="text" colspan="2">Trance，Dance</td></tr></tbody></table>
+
 
 
 ## 评论

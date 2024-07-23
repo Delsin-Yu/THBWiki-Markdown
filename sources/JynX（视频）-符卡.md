@@ -10,6 +10,7 @@ JynX
 本页面用于收录[JynX](./JynX.md)的东方视频作品中出现的自制符卡。
   
 
+
 ## 目录
 
 - [1 東方廻怪綺談 ～ Re:Mystic Square](#東方廻怪綺談_～_Re:Mystic_Square)
@@ -27,6 +28,7 @@ JynX
 
 
 
+
 ## 東方廻怪綺談 ～ Re:Mystic Square
 
 <table><tbody><tr><th><b>中文名</b></th><th><b>日文名</b></th><th><b>出现位置</b></th></tr><tr><td style="width:200px">斩首「Convict Fellows」</td><td style="width:200px">斬首「コンビクトフェロシ」</td><td style="width:180px">梦子</td></tr>
@@ -36,6 +38,7 @@ JynX
 <tr><td style="width:200px">神业「An Other」（一个他者）</td><td style="width:200px">神業「アン・オーティール」</td><td style="width:180px">神绮</td></tr>
 <tr><td style="width:200px">「魔神降临」<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">2</a></sup></td><td style="width:200px">「魔神降臨」</td><td style="width:180px">神绮</td></tr>
 <tr><td style="width:200px">绮术「神绮冥道」</td><td style="width:200px">綺術「神綺冥道」</td><td style="width:180px">神绮</td></tr></tbody></table>
+
 
 
 ## 東方廻怪綺談Extra ～ Re:Mystic Square EX
@@ -48,6 +51,7 @@ JynX
 <tr><td style="width:200px">美味「Sashimi Fugu」（河豚刺身）<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">7</a></sup></td><td style="width:200px">美味「サシミオフノグ」</td><td style="width:180px">爱丽丝</td></tr></tbody></table>
 
 
+
 ## 東方懐幻想郷 ～ Re:Lotus Land Story
 
 <table><tbody><tr><th><b>中文名</b></th><th><b>日文名</b></th><th><b>出现位置</b></th></tr><tr><td style="width:200px">四华「月有丛云，花有风」<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">8</a></sup></td><td style="width:200px">四華「月に叢雲、花に風」</td><td style="width:180px">幽香</td></tr>
@@ -56,6 +60,7 @@ JynX
 <tr><td style="width:200px">幻想「啸风弄月」<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">10</a></sup></td><td style="width:200px">幻想「風に嘯さ月を弄ぶ」</td><td style="width:180px">幽香</td></tr>
 <tr><td style="width:200px">「噬鸟之花」</td><td style="width:200px">「噬鳥ノ花」</td><td style="width:180px">幽香</td></tr>
 <tr><td style="width:200px">「Master Spark」（极限火花）</td><td style="width:200px">「マスタースパーク」</td><td style="width:180px">幽香</td></tr></tbody></table>
+
 
 
 ## 東方懐幻想郷Extra ～ Re:Lotus Land Story EX
@@ -67,6 +72,7 @@ JynX
 <tr><td style="width:200px">「梦中长夜之饮」</td><td style="width:200px">「夢中の長夜之飲」</td><td style="width:180px">梦月</td></tr>
 <tr><td style="width:200px">「泡幻霜月闭花」</td><td style="width:200px">「泡幻霜月閉花」</td><td style="width:180px">幻月</td></tr>
 <tr><td style="width:200px">「梦幻的月夜」<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">11</a></sup></td><td style="width:200px">「夢幻の月夜」</td><td style="width:180px">梦月&amp;幻月</td></tr></tbody></table>
+
 
 
 ## 東方繪夢時空 ～ Re:Phantasmagoria of Dim.Dream
@@ -82,11 +88,13 @@ JynX
 <tr><td style="width:200px">梦幻传说</td><td style="width:200px">夢幻伝説</td><td style="width:180px">冈崎梦美</td></tr></tbody></table>
 
 
+
 ## 東方繪夢時空Extra ～ Re:Phantasmagoria of Dim.Dream EX
 
 <table><tbody><tr><th><b>中文名</b></th><th><b>日文名</b></th><th><b>出现位置</b></th></tr><tr><td style="width:200px">月有丛云，花有风</td><td style="width:200px">月に叢雲、花に風</td><td style="width:180px">幽香</td></tr>
 <tr><td style="width:200px">魔神降临</td><td style="width:200px">魔神降臨</td><td style="width:180px">神绮</td></tr>
 <tr><td style="width:200px">？？？？？</td><td style="width:200px">？？？？？</td><td style="width:180px">冴月麟</td></tr></tbody></table>
+
 
 
 ## 東方邂封魔録 ～ Re:Story of Eastern Wonderland
@@ -99,6 +107,7 @@ JynX
 <tr><td style="width:200px">「Reincarnation」（轮回转生）<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">15</a></sup></td><td style="width:200px">「リーインカーネイション」</td><td style="width:180px">魅魔</td></tr></tbody></table>
 
 
+
 ## 東方邂封魔録Extra ～ Re:Story of Eastern Wonderland EX
 
 <table><tbody><tr><th><b>中文名</b></th><th><b>日文名</b></th><th><b>出现位置</b></th></tr><tr><td style="width:200px">邪炮「914mm迫击魔炮」<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">16</a></sup></td><td style="width:200px">邪砲「914mm迫撃魔砲」</td><td style="width:180px">里香</td></tr>
@@ -107,9 +116,11 @@ JynX
 <tr><td style="width:200px">「She's in a temper!!」<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">19</a></sup></td><td style="width:200px">「She's in a temper!!」</td><td style="width:180px">里香</td></tr></tbody></table>
 
 
+
 ## 東方乖靈異伝（魔界线） ～ Re:Highly Responsive to Prayers
 
 <table><tbody><tr><th><b>中文名</b></th><th><b>日文名</b></th><th><b>出现位置</b></th></tr><tr><td style="width:200px">「Civilization of Magic」<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">20</a></sup>（魔法文明）</td><td style="width:200px">「Civilization of Magic」</td><td style="width:180px">萨丽爱尔</td></tr></tbody></table>
+
 
 
 ## 束方恋宴戦記

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-A.はい、大好きです。封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/1/12/A.%E3%81%AF%E3%81%84%E3%80%81%E5%A4%A7%E5%A5%BD%E3%81%8D%E3%81%A7%E3%81%99%E3%80%82%E5%B0%81%E9%9D%A2.jpg/139px-A.%E3%81%AF%E3%81%84%E3%80%81%E5%A4%A7%E5%A5%BD%E3%81%8D%E3%81%A7%E3%81%99%E3%80%82%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="139" height="196" srcset="https://upload.thwiki.cc/thumb/1/12/A.%E3%81%AF%E3%81%84%E3%80%81%E5%A4%A7%E5%A5%BD%E3%81%8D%E3%81%A7%E3%81%99%E3%80%82%E5%B0%81%E9%9D%A2.jpg/208px-A.%E3%81%AF%E3%81%84%E3%80%81%E5%A4%A7%E5%A5%BD%E3%81%8D%E3%81%A7%E3%81%99%E3%80%82%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/1/12/A.%E3%81%AF%E3%81%84%E3%80%81%E5%A4%A7%E5%A5%BD%E3%81%8D%E3%81%A7%E3%81%99%E3%80%82%E5%B0%81%E9%9D%A2.jpg/277px-A.%E3%81%AF%E3%81%84%E3%80%81%E5%A4%A7%E5%A5%BD%E3%81%8D%E3%81%A7%E3%81%99%E3%80%82%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="516" data-file-height="729"></a><div class="cover-char">角色：<a href="./四季映姬·夜摩仙那度.md" title="四季映姬·夜摩仙那度">四季映姬·夜摩仙那度</a>，<a href="./小野塚小町.md" title="小野塚小町">小野塚小町</a></div></td>
@@ -18,8 +19,10 @@ A.はい、大好きです。（同人志，山鳥エリア，2019） - 2019年1
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=569285">蜜瓜</a></td></tr></tbody></table>
 
 
+
 ## Staff
 - [山鳥おふう](./山鳥おふう.md)
+
 
 ## 评论
   

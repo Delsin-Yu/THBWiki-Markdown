@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-紅殻姫童体_STARBOW_BREAK_COMPLEX封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/8/80/%E7%B4%85%E6%AE%BB%E5%A7%AB%E7%AB%A5%E4%BD%93_STARBOW_BREAK_COMPLEX%E5%B0%81%E9%9D%A2.jpg/224px-%E7%B4%85%E6%AE%BB%E5%A7%AB%E7%AB%A5%E4%BD%93_STARBOW_BREAK_COMPLEX%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="224" srcset="https://upload.thwiki.cc/thumb/8/80/%E7%B4%85%E6%AE%BB%E5%A7%AB%E7%AB%A5%E4%BD%93_STARBOW_BREAK_COMPLEX%E5%B0%81%E9%9D%A2.jpg/336px-%E7%B4%85%E6%AE%BB%E5%A7%AB%E7%AB%A5%E4%BD%93_STARBOW_BREAK_COMPLEX%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/8/80/%E7%B4%85%E6%AE%BB%E5%A7%AB%E7%AB%A5%E4%BD%93_STARBOW_BREAK_COMPLEX%E5%B0%81%E9%9D%A2.jpg/448px-%E7%B4%85%E6%AE%BB%E5%A7%AB%E7%AB%A5%E4%BD%93_STARBOW_BREAK_COMPLEX%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="450" data-file-height="450"></a><div class="cover-char">角色：<a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a></div></td>
@@ -17,12 +18,15 @@
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=926989">蜜瓜</a>，<a rel="nofollow" class="external text" href="http://www.akibaoo.com/c/item/2500020283684/">Akibaoo</a>，<a rel="nofollow" class="external text" href="http://www.dlsite.com/home/work/=/product_id/RJ121827.html">DLsite</a></td></tr></tbody></table>
 
 
+
 ## Staff
+
 ## 试听
   
 <iframe width="100%" height="180" src="https://ext.nicovideo.jp/thumb/sm21480626" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/watch/sm21480626">,</a></iframe>
 
   
+
 
 ## 曲目列表
 
@@ -34,6 +38,7 @@
 <tr><td id="6" class="info"><b>06</b></td><td id="灼熱鴉の暴走癖" colspan="2" class="title">灼熱鴉の暴走癖<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=紅殻姫童体_STARBOW_BREAK_COMPLEX"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr>
 <tr><td id="7" class="info"><b>07</b></td><td id="覚醒た人形師の最終形態" colspan="2" class="title">覚醒た人形師の最終形態<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=紅殻姫童体_STARBOW_BREAK_COMPLEX"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr>
 <tr><td id="8" class="info"><b>08</b></td><td id="善の僧侶の強制終了" colspan="2" class="title">善の僧侶の強制終了<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=紅殻姫童体_STARBOW_BREAK_COMPLEX"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr></tbody></table>
+
 
 
 ## 评论

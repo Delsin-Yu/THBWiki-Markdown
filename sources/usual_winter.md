@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-usual_winter封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/1/15/usual_winter%E5%B0%81%E9%9D%A2.jpg/138px-usual_winter%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="138" height="196" srcset="https://upload.thwiki.cc/thumb/1/15/usual_winter%E5%B0%81%E9%9D%A2.jpg/207px-usual_winter%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/1/15/usual_winter%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="270" data-file-height="384"></a><div class="cover-char">角色：<a href="./灵乌路空.md" title="灵乌路空">灵乌路空</a>，<a href="./火焰猫燐.md" title="火焰猫燐">火焰猫燐</a></div></td>
@@ -14,10 +15,13 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://kumamichi.michikusa.jp/top.html">http://kumamichi.michikusa.jp/top.html</a></td></tr></tbody></table>
 
 usual winter（同人志，くまのとおるみち，並々食堂，2008） - 2008年12月29日 由 くまのとおるみち，並々食堂 于 Comic Market 75 发布的漫画同人志，B5尺寸一共32页，登场人物有 火焰猫燐、灵乌路空、雾雨魔理沙、河城荷取，分级为 一般向
+
 ## 预览
+
 ## Staff
 - くまだ (未找到链接)
 - 月並甲介 (未找到链接)
+
 
 ## 评论
 

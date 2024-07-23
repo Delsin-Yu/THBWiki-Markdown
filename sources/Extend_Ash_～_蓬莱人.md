@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -40,11 +41,13 @@
 
 
 
+
 ## 基本信息
 
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">エクステンドアッシュ　～ 蓬莱人</td></tr><tr><td><b>译名</b></td><td>Extend Ash ～ 蓬莱人</td></tr><tr><td><b>英文译名</b></td><td>Extend Ash ~ Person of Hourai</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 Extend Ash ～ 蓬莱人（曲目） - 由 ZUN 创作的官方曲目，原名 エクステンドアッシュ　～ 蓬莱人
+
 ## 出现作品
 
 <table>
@@ -52,8 +55,11 @@ Extend Ash ～ 蓬莱人（曲目） - 由 ZUN 创作的官方曲目，原名 �
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 东方永夜抄
+
 #### WAV
   
 WAV版是游戏的原声带。
@@ -68,6 +74,7 @@ WAV版是游戏的原声带。
 </td></tr></tbody></table>
 
 
+
 #### MIDI
   
 MIDI版由Roland Sound Canvas 88Pro实机录音得到。
@@ -77,7 +84,9 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td><a href="./文件-th08_18.mid.md" title="文件:th08 18.mid">th08_18.mid</a></td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th08_17_SC88Pro.mp3.md" title="文件:th08 17 SC88Pro.mp3">th08_17_SC88Pro.mp3</a><br><audio src="https://upload.thwiki.cc/7/7f/th08_17_SC88Pro.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>th08_18.mid</td></tr><tr><td><b>音轨时长</b></td><td>2:34</td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 东方永夜抄
 - Music Room (未找到链接)
 
@@ -92,13 +101,16 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
 　　蓬莱之药。  
 　　富士山没被选为世界遗产的真正理由。那是因为这是不能让世界来评选的灵峰。  
 　　话说，不要丢垃圾啊。
+
 ## 其他资料
+
 ### 乐理资讯
 - 速度
   - BPM 158
 
 - 调性
   - g小调
+
 
 
 ### 分析考据
@@ -133,6 +145,7 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
     - EX面BOSS藤原妹红。
       - 妹红的宿敌蓬莱山辉夜。
         - 辉夜也是蓬莱人。
+
 
 
 

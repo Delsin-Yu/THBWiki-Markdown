@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-东方寓梦粹_Prototype_01.5_雏梦本封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/7/75/%E4%B8%9C%E6%96%B9%E5%AF%93%E6%A2%A6%E7%B2%B9_Prototype_01.5_%E9%9B%8F%E6%A2%A6%E6%9C%AC%E5%B0%81%E9%9D%A2.jpg/158px-%E4%B8%9C%E6%96%B9%E5%AF%93%E6%A2%A6%E7%B2%B9_Prototype_01.5_%E9%9B%8F%E6%A2%A6%E6%9C%AC%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="158" height="224" srcset="https://upload.thwiki.cc/thumb/7/75/%E4%B8%9C%E6%96%B9%E5%AF%93%E6%A2%A6%E7%B2%B9_Prototype_01.5_%E9%9B%8F%E6%A2%A6%E6%9C%AC%E5%B0%81%E9%9D%A2.jpg/236px-%E4%B8%9C%E6%96%B9%E5%AF%93%E6%A2%A6%E7%B2%B9_Prototype_01.5_%E9%9B%8F%E6%A2%A6%E6%9C%AC%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/7/75/%E4%B8%9C%E6%96%B9%E5%AF%93%E6%A2%A6%E7%B2%B9_Prototype_01.5_%E9%9B%8F%E6%A2%A6%E6%9C%AC%E5%B0%81%E9%9D%A2.jpg/315px-%E4%B8%9C%E6%96%B9%E5%AF%93%E6%A2%A6%E7%B2%B9_Prototype_01.5_%E9%9B%8F%E6%A2%A6%E6%9C%AC%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1056" data-file-height="1500"></a><div class="cover-char">角色：<a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a></div></td>
@@ -13,6 +14,7 @@
 </tr><tr><td class="label">首发日期</td><td>2019-06-07&#160;（<a href="/展会作品列表?e=COMICUP%2324">COMICUP24</a>）</td></tr><tr><td class="label">类型</td><td>评论志，小说</td></tr><tr><td class="label">编号</td><td>THYMCMPN01.5</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>B5</td></tr><tr><td class="label">页数</td><td>72（含封面封底4页）</td></tr><tr><td class="label">售价</td><td>30人民币</td></tr></tbody></table>
 
 东方寓梦粹 Prototype 01.5 雏梦本（同人志，东方寓梦粹，2019） - 2019年6月7日 由 东方寓梦粹 于 COMICUP24 发布的评论志/小说同人志，B5尺寸一共72页，分级为 一般向
+
 ## Staff
 总编辑
 : 羽根White (未找到链接)（[微博](https://weibo.com/u/5453439257)）
@@ -32,6 +34,7 @@
 : 冴月燐 (未找到链接)（[微博](https://www.weibo.com/6400894377)）、药丸 (未找到链接)
 协力组织
 : 全国地方东方调查组 (未找到链接)（[微博](https://www.weibo.com/6659143656)）、幻想星华馆 (未找到链接)（东方Project微信公众号）（[微博](https://www.weibo.com/5228696286)）、成都外国语学校东方社 (未找到链接)
+
 
 ## 目录
   
@@ -89,6 +92,7 @@
  **<big>纸隔之境</big>**   
 
   
+
 
 ## 评论
 

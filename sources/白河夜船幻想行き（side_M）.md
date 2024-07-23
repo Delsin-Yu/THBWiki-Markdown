@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-白河夜船幻想行き（side_M）封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/a/ae/%E7%99%BD%E6%B2%B3%E5%A4%9C%E8%88%B9%E5%B9%BB%E6%83%B3%E8%A1%8C%E3%81%8D%EF%BC%88side_M%EF%BC%89%E5%B0%81%E9%9D%A2.png/78px-%E7%99%BD%E6%B2%B3%E5%A4%9C%E8%88%B9%E5%B9%BB%E6%83%B3%E8%A1%8C%E3%81%8D%EF%BC%88side_M%EF%BC%89%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="78" height="112" srcset="https://upload.thwiki.cc/thumb/a/ae/%E7%99%BD%E6%B2%B3%E5%A4%9C%E8%88%B9%E5%B9%BB%E6%83%B3%E8%A1%8C%E3%81%8D%EF%BC%88side_M%EF%BC%89%E5%B0%81%E9%9D%A2.png/118px-%E7%99%BD%E6%B2%B3%E5%A4%9C%E8%88%B9%E5%B9%BB%E6%83%B3%E8%A1%8C%E3%81%8D%EF%BC%88side_M%EF%BC%89%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/a/ae/%E7%99%BD%E6%B2%B3%E5%A4%9C%E8%88%B9%E5%B9%BB%E6%83%B3%E8%A1%8C%E3%81%8D%EF%BC%88side_M%EF%BC%89%E5%B0%81%E9%9D%A2.png/157px-%E7%99%BD%E6%B2%B3%E5%A4%9C%E8%88%B9%E5%B9%BB%E6%83%B3%E8%A1%8C%E3%81%8D%EF%BC%88side_M%EF%BC%89%E5%B0%81%E9%9D%A2.png 2x" data-file-width="587" data-file-height="836"></a><div class="cover-char">角色：<a href="./玛艾露贝莉·赫恩.md" title="玛艾露贝莉·赫恩">玛艾露贝莉·赫恩</a>，<a href="./宇佐见莲子.md" title="宇佐见莲子">宇佐见莲子</a></div></td>
@@ -14,11 +15,13 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/yuzuru_cb/status/1371448900272283652">https://twitter.com/yuzuru_cb/status/1371448900272283652</a></td></tr></tbody></table>
 
 白河夜船幻想行き（side M）（同人志，青夢倶楽部，2021） - 2021年3月21日 由 青夢倶楽部 于 博丽神社例大祭18 发布的小说同人志，分级为 一般向
+
 ## Staff
 作者
 : 鶴宮 諭弦 （[青夢倶楽部](./青夢倶楽部.md)）
 封面
 : 赤薄 紅 （[Twitter: @akausuko](https://twitter.com/akausuko)）
+
 
 ## 评论
 

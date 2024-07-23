@@ -4,8 +4,9 @@
 
 TOUHOU ROCK FES 在 日本东京 举办的  东方同人LIVE活动，目前共举办了1届
 
-本页是关于 **同人展会 (未找到链接)**   
-及 **相关活动 (未找到链接)** 的词条
+本页是关于 **[同人展会](./同人展会.md#展会类活动)**   
+及 **[相关活动](./相关活动.md)** 的词条
+
 ## 目录
 
 - [1 概述](#概述)
@@ -22,6 +23,7 @@ TOUHOU ROCK FES 在 日本东京 举办的  东方同人LIVE活动，目前共�
 
 
 
+
 ## 概述
 [](./文件-TOUHOU_ROCK_FES_LOGO.png.md)  [](./文件-TOUHOU_ROCK_FES_LOGO.png.md)TOUHOU ROCK FES LOGO
   
@@ -30,7 +32,7 @@ TOUHOU ROCK FES 在 日本东京 举办的  东方同人LIVE活动，目前共�
   
   
   
-日本 **东京** 的东方Project Only **同人拼盘LIVE类活动 (未找到链接)** 。  
+日本 **东京** 的东方Project Only **同人拼盘[LIVE类活动](./LIVE类活动.md#LIVE类活动)** 。  
   
 在东京举办。  
 直到目前为止，已经举办了1届（包含已决定将会举办）。  
@@ -42,6 +44,7 @@ TOUHOU ROCK FES 在 日本东京 举办的  东方同人LIVE活动，目前共�
 官方推特： [https://twitter.com/touhou_rock](https://twitter.com/touhou_rock) （需要翻墙）  
   
 TOUHOU ROCK FES（活动，LIVE活动） - TOUHOU ROCK FES 在 日本东京 举办的  东方同人LIVE活动，目前共举办了1届
+
 ## 历届信息
 - 点击届数可进入对应分类页面。
 - 举办日期以当地日期为准。
@@ -53,11 +56,14 @@ TOUHOU ROCK FES（活动，LIVE活动） - TOUHOU ROCK FES 在 日本东京 举�
 </tbody></table>
 
 
+
 ## 演出社团及人员
 TOUHOU ROCK FES 2019
 : [サンライズハイスクール](./サンライズハイスクール.md)、[はにーぽけっと](./はにーぽけっと.md)、[Spoo and Nick](./Spoo_and_Nick.md)、[Cry Of The Soul](./Cry_Of_The_Soul.md)、[Hungry Tiger](./Hungry_Tiger.md)
 
+
 ## 作品列表
+
 ### 同人专辑
 [](./TOUHOU_ROCK_FES_VOL.1.md)[TOUHOU ROCK FES VOL.1](./TOUHOU_ROCK_FES_VOL.1.md)首发日期：2018-10-14 （第五回 博麗神社秋季例大祭 (未找到链接)）全长 （一般向）
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>

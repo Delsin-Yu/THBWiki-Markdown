@@ -164,6 +164,7 @@ AvalonStudioOfficial
 [](./文件-THD2村纱水蜜.png.md)
   
 
+
 ## 目录
 
 - [1 角色定位](#角色定位)
@@ -184,10 +185,12 @@ AvalonStudioOfficial
 
 
 
+
 ## 角色定位
   
 核心 - 爆发 - 逃生 - 控制
   
+
 
 ## 技能介绍
 
@@ -671,6 +674,7 @@ AvalonStudioOfficial
 </td></tr></tbody></table>
 
 
+
 ## 天赋树
 
 
@@ -709,25 +713,30 @@ AvalonStudioOfficial
 </td></tr></tbody></table>
 
 
+
 ### 出门装备
 ```
  [](./文件-THD2木盾.png.md) [](./文件-THD2四叶草.png.md) [](./文件-THD2思兼生命药.png.md) [](./文件-THD2雾雨魔力瓶.png.md) [](./文件-THD2衰人卡.png.md) [](./文件-THD2好人卡.png.md)
 ```
+
 
 ### 前期装备
 ```
 [](./文件-THD2魔法使扫把.png.md) [](./文件-THD2博丽供奉箱.png.md) [](./文件-THD2初阶魔法书.png.md) [](./文件-THD2侦查守卫.png.md)
 ```
 
+
 ### 核心装备
 ```
  [](./文件-THD2魔力扫把.png.md) [](./文件-THD2红魔火箭1级.png.md) [](./文件-THD2油库里之杖.png.md) [](./文件-THD2月面之弓弦.png.md)
 ```
 
+
 ### 可选装备
 ```
 [](./文件-THD2不明的秒计时.png.md) [](./文件-THD2月兔粉碎巨刃.png.md) [](./文件-THD2恶魔的乳牙.png.md) [](./文件-THD2死神之大镰刀.png.md) [](./文件-THD2楼观剑.png.md) [](./文件-THD2亡灵送行提灯.png.md) [](./文件-THD2魔人经卷.png.md) [](./文件-THD2光龙雷云钻.png.md)
 ```
+
 
 ## 技能加点
 
@@ -875,6 +884,7 @@ AvalonStudioOfficial
 </td></tr></tbody></table>
 
 
+
 ## 台词
 
 <table>
@@ -958,6 +968,7 @@ AvalonStudioOfficial
 <p><br> あなたも人間（にんげん）をやめた方(かだ)？<br>[你也放弃做人类了吗？]
 </p>
 </td></tr></tbody></table>
+
 
 
 ## 教学视频

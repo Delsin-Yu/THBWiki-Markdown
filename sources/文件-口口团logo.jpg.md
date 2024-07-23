@@ -4,6 +4,7 @@
 
 口口团 | 社团LOGO
 
+
 ## 摘要
   
 源地址：[direct image link](https://web.archive.org/web/20160925023831im_/http://i42.tinypic.com/f9gy6s.jpg), [source page](https://web.archive.org/web/20100812055857/http://hi.baidu.com/roroalice/)

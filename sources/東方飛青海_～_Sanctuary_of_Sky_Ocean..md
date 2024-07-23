@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 软件信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-東方飛青海_~_Sanctuary_of_Sky_Ocean.封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/9/95/%E6%9D%B1%E6%96%B9%E9%A3%9B%E9%9D%92%E6%B5%B7_~_Sanctuary_of_Sky_Ocean.%E5%B0%81%E9%9D%A2.jpg/112px-%E6%9D%B1%E6%96%B9%E9%A3%9B%E9%9D%92%E6%B5%B7_~_Sanctuary_of_Sky_Ocean.%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="112" height="112" srcset="https://upload.thwiki.cc/thumb/9/95/%E6%9D%B1%E6%96%B9%E9%A3%9B%E9%9D%92%E6%B5%B7_~_Sanctuary_of_Sky_Ocean.%E5%B0%81%E9%9D%A2.jpg/168px-%E6%9D%B1%E6%96%B9%E9%A3%9B%E9%9D%92%E6%B5%B7_~_Sanctuary_of_Sky_Ocean.%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/9/95/%E6%9D%B1%E6%96%B9%E9%A3%9B%E9%9D%92%E6%B5%B7_~_Sanctuary_of_Sky_Ocean.%E5%B0%81%E9%9D%A2.jpg/224px-%E6%9D%B1%E6%96%B9%E9%A3%9B%E9%9D%92%E6%B5%B7_~_Sanctuary_of_Sky_Ocean.%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="650" data-file-height="650"></a><div class="cover-char">角色：<a href="./尼勒丝·艾斯莱特.md" title="尼勒丝·艾斯莱特">尼勒丝·艾斯莱特</a></div></td>
@@ -13,26 +14,33 @@
 </tr><tr><td class="label">首发日期</td><td>2010-11-14</td></tr><tr><td class="label">类型</td><td>设定集</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr></tbody></table>
 
 東方飛青海 ～ Sanctuary of Sky Ocean.（同人志，燕晩春：求）時間配分，2010） - 2010年11月14日 由 燕晩春：求）時間配分  发布的设定集同人志，分级为 一般向
+
 ## Staff
 剧情、人物设定、立绘
 : 燕晩春：求）時間配分 (未找到链接)
 
+
 ## 作品介绍
 - 本作是日本创作者燕晩春：求）時間配分 (未找到链接)创作的东方二次同人游戏设定集。
 - 本作包含了人物设定、文字剧情和场景立绘。
+
 
 ## 内容页面
 - [游戏设定与剧情](./東方飛青海_～_Sanctuary_of_Sky_Ocean.-设定与剧情.md)
 - [角色设定](./東方飛青海_～_Sanctuary_of_Sky_Ocean.-角色设定.md)
 - 其他相关资料 (未找到链接)
 
+
 ## 评论
+
 ## 外部链接
+
 ### 图像
   
 [Pixiv](https://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=14566039)  
 
   
+
 
 ## 词条导航
   

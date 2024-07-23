@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次同人创作者** 的词条
+
 ## 基本信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="label"><b>名称</b></td><td> Jon Rick Emerson </td></tr><tr><td class="label"><b>真实名</b></td><td>川口綾</td></tr><tr><td class="label">日文读音</td><td> かわぐち りょ <i>（Kawaguchi ryo）</i> </td></tr><tr><td class="label"><b>所属社团</b></td><td><b>当前</b><div style="margin-left:2em;">无所属社团</div></td></tr><tr><td class="label"><b>职位</b></td><td>编曲</td></tr><tr><td class="label"><b>参与社团</b></td><td><a href="./天秤亭.md" title="天秤亭">天秤亭</a> （编曲）</td></tr><tr><td class="label"><b>生日</b></td><td>3月4日</td></tr><tr><td class="label"><b>个人页面</b></td><td><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><b>Official</b></td><td><a rel="nofollow" class="external free" href="https://ryokeyboard.wixsite.com/ryo-kawaguchi-hp">https://ryokeyboard.wixsite.com/ryo-kawaguchi-hp</a></td></tr><tr><td><b>Twitter</b></td><td><a rel="nofollow" class="external free" href="https://twitter.com/r_k_keyboardist">https://twitter.com/r_k_keyboardist</a></td></tr><tr><td><b>Soundcloud</b></td><td><a rel="nofollow" class="external free" href="https://soundcloud.com/ryo-kawaguchi">https://soundcloud.com/ryo-kawaguchi</a></td></tr><tr><td><b>Youtube</b></td><td><a rel="nofollow" class="external free" href="https://www.youtube.com/@venpen">https://www.youtube.com/@venpen</a></td></tr></tbody></table></td></tr></tbody></table>

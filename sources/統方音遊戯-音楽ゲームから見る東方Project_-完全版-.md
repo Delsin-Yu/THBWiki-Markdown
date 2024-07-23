@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-統方音遊戯-音楽ゲームから見る東方Project_-完全版-封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/6/67/%E7%B5%B1%E6%96%B9%E9%9F%B3%E9%81%8A%E6%88%AF-%E9%9F%B3%E6%A5%BD%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%8B%E3%82%89%E8%A6%8B%E3%82%8B%E6%9D%B1%E6%96%B9Project_-%E5%AE%8C%E5%85%A8%E7%89%88-%E5%B0%81%E9%9D%A2.png/140px-%E7%B5%B1%E6%96%B9%E9%9F%B3%E9%81%8A%E6%88%AF-%E9%9F%B3%E6%A5%BD%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%8B%E3%82%89%E8%A6%8B%E3%82%8B%E6%9D%B1%E6%96%B9Project_-%E5%AE%8C%E5%85%A8%E7%89%88-%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="140" height="196" srcset="https://upload.thwiki.cc/thumb/6/67/%E7%B5%B1%E6%96%B9%E9%9F%B3%E9%81%8A%E6%88%AF-%E9%9F%B3%E6%A5%BD%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%8B%E3%82%89%E8%A6%8B%E3%82%8B%E6%9D%B1%E6%96%B9Project_-%E5%AE%8C%E5%85%A8%E7%89%88-%E5%B0%81%E9%9D%A2.png/210px-%E7%B5%B1%E6%96%B9%E9%9F%B3%E9%81%8A%E6%88%AF-%E9%9F%B3%E6%A5%BD%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%8B%E3%82%89%E8%A6%8B%E3%82%8B%E6%9D%B1%E6%96%B9Project_-%E5%AE%8C%E5%85%A8%E7%89%88-%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/6/67/%E7%B5%B1%E6%96%B9%E9%9F%B3%E9%81%8A%E6%88%AF-%E9%9F%B3%E6%A5%BD%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%8B%E3%82%89%E8%A6%8B%E3%82%8B%E6%9D%B1%E6%96%B9Project_-%E5%AE%8C%E5%85%A8%E7%89%88-%E5%B0%81%E9%9D%A2.png/279px-%E7%B5%B1%E6%96%B9%E9%9F%B3%E9%81%8A%E6%88%AF-%E9%9F%B3%E6%A5%BD%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%8B%E3%82%89%E8%A6%8B%E3%82%8B%E6%9D%B1%E6%96%B9Project_-%E5%AE%8C%E5%85%A8%E7%89%88-%E5%B0%81%E9%9D%A2.png 2x" data-file-width="1213" data-file-height="1701"></a></td>
@@ -18,9 +19,12 @@
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://futonmaki.booth.pm/items/2045046">Booth</a></td></tr></tbody></table>
 
 
+
 ## 预览
+
 ## Staff
 - [布団巻き](./布団巻き.md)
+
 
 ## 评论
 

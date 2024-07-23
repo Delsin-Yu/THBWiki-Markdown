@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-式日-day_of_a_ritual-封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/e/e2/%E5%BC%8F%E6%97%A5-day_of_a_ritual-%E5%B0%81%E9%9D%A2.jpg/158px-%E5%BC%8F%E6%97%A5-day_of_a_ritual-%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="158" height="224" srcset="https://upload.thwiki.cc/thumb/e/e2/%E5%BC%8F%E6%97%A5-day_of_a_ritual-%E5%B0%81%E9%9D%A2.jpg/236px-%E5%BC%8F%E6%97%A5-day_of_a_ritual-%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/e/e2/%E5%BC%8F%E6%97%A5-day_of_a_ritual-%E5%B0%81%E9%9D%A2.jpg/315px-%E5%BC%8F%E6%97%A5-day_of_a_ritual-%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="704" data-file-height="1000"></a><div class="cover-char">角色：<a href="/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C" title="十六夜咲夜">十六夜咲夜</a>，<a href="./红美铃.md" title="红美铃">红美铃</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=71225272">https://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=71225272</a></td></tr></tbody></table>
 
 式日-day of a ritual-（同人志，型K式，2018） - 2018年10月21日 由 型K式 于 东方红楼梦14 发布的漫画同人志，B5尺寸一共32页，登场人物有 十六夜咲夜、红美铃，分级为 一般向
+
 ## Staff
 - [カタケイ](./カタケイ.md)
+
 
 ## 评论
 

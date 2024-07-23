@@ -18,6 +18,7 @@
 
 
 </center>
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=River_Mist_V.S.Dark_Reunion%E5%B0%81%E9%9D%A2.jpg" class="new" title="文件:River Mist V.S.Dark Reunion封面.jpg">封面图片</a></td>
@@ -26,16 +27,20 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://rnohito.blog.shinobi.jp/お知らせ/例大祭9">http://rnohito.blog.shinobi.jp/お知らせ/例大祭9</a></td></tr></tbody></table>
 
 River Mist V.S.Dark Reunion（同人专辑，River Mist，Dark Reunion，2012） - 2012年5月27日 由 River Mist，Dark Reunion 于 博丽神社例大祭9 发布的合作同人专辑，曲目主要风格是 Rock、金属，分级为 一般向
+
 ## Staff
+
 ## 试听
   
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/47186569&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=false"></iframe>
 
   
 
+
 ## 曲目列表
 
 <table></table>
+
 
 
 ## 评论

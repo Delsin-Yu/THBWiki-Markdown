@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-VIOLET_BIBLIOPHILIA封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/5/59/VIOLET_BIBLIOPHILIA%E5%B0%81%E9%9D%A2.jpg/160px-VIOLET_BIBLIOPHILIA%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="160" height="224" srcset="https://upload.thwiki.cc/thumb/5/59/VIOLET_BIBLIOPHILIA%E5%B0%81%E9%9D%A2.jpg/240px-VIOLET_BIBLIOPHILIA%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/5/59/VIOLET_BIBLIOPHILIA%E5%B0%81%E9%9D%A2.jpg/320px-VIOLET_BIBLIOPHILIA%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="643" data-file-height="900"></a><div class="cover-char">角色：<a href="./古明地觉.md" title="古明地觉">古明地觉</a>，<a href="./帕秋莉·诺蕾姬.md" title="帕秋莉·诺蕾姬">帕秋莉·诺蕾姬</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://russia.sakura.ne.jp/doujin.htm">http://russia.sakura.ne.jp/doujin.htm</a><br><a rel="nofollow" class="external free" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=161143">https://www.melonbooks.co.jp/detail/detail.php?product_id=161143</a></td></tr></tbody></table>
 
 VIOLET BIBLIOPHILIA（同人志，ろしあですまん，2016） - 2016年5月8日 由 ろしあですまん 于 博丽神社例大祭13 发布的漫画同人志，B5尺寸一共36页，登场人物有 古明地觉、帕秋莉·诺蕾姬，分级为 一般向
+
 ## Staff
 - [黒鴉](./黒鴉.md)
+
 
 ## 评论
 ```

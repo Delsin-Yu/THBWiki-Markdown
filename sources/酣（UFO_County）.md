@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-酣（UFO_County）封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/a/ab/%E9%85%A3%EF%BC%88UFO_County%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/224px-%E9%85%A3%EF%BC%88UFO_County%EF%BC%89%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="224" srcset="https://upload.thwiki.cc/thumb/a/ab/%E9%85%A3%EF%BC%88UFO_County%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/336px-%E9%85%A3%EF%BC%88UFO_County%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/a/ab/%E9%85%A3%EF%BC%88UFO_County%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/448px-%E9%85%A3%EF%BC%88UFO_County%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="2268" data-file-height="2268"></a><div class="cover-char">角色：<a href="./犬走椛.md" title="犬走椛">犬走椛</a></div></td>
@@ -18,6 +19,7 @@
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=927104">蜜瓜DL版</a></td></tr></tbody></table>
 
 
+
 ## Staff
   
  **Arrangement**   
@@ -28,9 +30,11 @@
 イラスト／デザイン
 : くらげUFO
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="叢" colspan="2" class="title">叢<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=くらげUFO&amp;ogmusic=フォールオブフォール　～ 秋めく滝&amp;fromwiki=酣（UFO_County）"><span title="搜索相似同人曲"></span></a></span></td><td class="time">12:12</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E3%81%8F%E3%82%89%E3%81%92UFO&amp;action=edit&amp;redlink=1" class="new" title="くらげUFO（页面不存在）">くらげUFO</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，くらげUFO&amp;fromwiki=酣（UFO_County）"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=フォールオブフォール　～ 秋めく滝&amp;fromwiki=酣（UFO_County）"><span></span></a></span><div class="ogmusic"><a href="/%E3%83%95%E3%82%A9%E3%83%BC%E3%83%AB%E3%82%AA%E3%83%96%E3%83%95%E3%82%A9%E3%83%BC%E3%83%AB_%EF%BD%9E_%E7%A7%8B%E3%82%81%E3%81%8F%E6%BB%9D" class="mw-redirect" title="フォールオブフォール ～ 秋めく滝">フォールオブフォール　～ 秋めく滝</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E9%A3%8E%E7%A5%9E%E5%BD%95_%EF%BD%9E_Mountain_of_Faith." class="mw-redirect" title="东方风神录 ～ Mountain of Faith.">东方风神录　～ Mountain of Faith.</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="叢" colspan="2" class="title">叢<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=くらげUFO&amp;ogmusic=フォールオブフォール　～ 秋めく滝&amp;fromwiki=酣（UFO_County）"><span title="搜索相似同人曲"></span></a></span></td><td class="time">12:12</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E3%81%8F%E3%82%89%E3%81%92UFO&amp;action=edit&amp;redlink=1" class="new" title="くらげUFO（页面不存在）">くらげUFO</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，くらげUFO&amp;fromwiki=酣（UFO_County）"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=フォールオブフォール　～ 秋めく滝&amp;fromwiki=酣（UFO_County）"><span></span></a></span><div class="ogmusic"><a href="./フォールオブフォール_～_秋めく滝.md" class="mw-redirect" title="フォールオブフォール ～ 秋めく滝">フォールオブフォール　～ 秋めく滝</a></div><div class="source"><a href="./东方风神录_～_Mountain_of_Faith..md" class="mw-redirect" title="东方风神录 ～ Mountain of Faith.">东方风神录　～ Mountain of Faith.</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

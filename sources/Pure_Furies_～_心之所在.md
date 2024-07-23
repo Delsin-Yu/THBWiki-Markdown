@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -36,11 +37,13 @@
 
 
 
+
 ## 基本信息
 
-<table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">ピュアヒューリーズ　～ 心の在処</td></tr><tr><td><b>译名</b></td><td>Pure Furies ～ 心之所在</td></tr><tr><td><b>英文译名</b></td><td>Pure Furies ~ Whereabouts of the Heart</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>关联</td></tr><tr><td style="padding-left:15px"><b>相关曲</b></td><td><a href="/%E6%95%85%E9%83%B7%E3%81%AE%E6%98%9F%E3%81%8C%E6%98%A0%E3%82%8B%E6%B5%B7" class="mw-redirect" title="故郷の星が映る海">故郷の星が映る海</a></td></tr><tr><td style="padding-left:15px"><b>　来源</b></td><td>东方绀珠传　～ Legacy of Lunatic Kingdom.</td></tr></tbody></table>
+<table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">ピュアヒューリーズ　～ 心の在処</td></tr><tr><td><b>译名</b></td><td>Pure Furies ～ 心之所在</td></tr><tr><td><b>英文译名</b></td><td>Pure Furies ~ Whereabouts of the Heart</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>关联</td></tr><tr><td style="padding-left:15px"><b>相关曲</b></td><td><a href="./故郷の星が映る海.md" class="mw-redirect" title="故郷の星が映る海">故郷の星が映る海</a></td></tr><tr><td style="padding-left:15px"><b>　来源</b></td><td>东方绀珠传　～ Legacy of Lunatic Kingdom.</td></tr></tbody></table>
 
 Pure Furies ～ 心之所在（曲目） - 由 ZUN 创作的官方曲目，原名 ピュアヒューリーズ　～ 心の在処
+
 ## 出现作品
 
 <table>
@@ -49,7 +52,9 @@ Pure Furies ～ 心之所在（曲目） - 由 ZUN 创作的官方曲目，原�
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 东方绀珠传
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th15_13.mp3.md" title="文件:th15 13.mp3">th15_13.mp3</a><br><audio src="https://upload.thwiki.cc/5/57/th15_13.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>BGM\th15_13.wav</td></tr><tr><td><b>BGMForAll</b></td><td><div class="mw-collapsible mw-collapsed">
@@ -60,12 +65,15 @@ Pure Furies ～ 心之所在（曲目） - 由 ZUN 创作的官方曲目，原�
 </td></tr></tbody></table>
 
 
+
 ### 燕石博物志
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-hr09_10.mp3.md" title="文件:hr09 10.mp3">hr09_10.mp3</a><br><audio src="https://upload.thwiki.cc/d/d1/hr09_10.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track10.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>5:12</td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 东方绀珠传
 - Music Room (未找到链接)
 
@@ -75,8 +83,11 @@ Pure Furies ～ 心之所在（曲目） - 由 ZUN 创作的官方曲目，原�
 　我放弃了矫情、耍帅或是想得太多。  
   
 　请大家，简单、纯朴地享受弹幕吧。
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
   
  **ピュアヒューリーズ　～ 心の在処**  Pure Furies　～ 心之所在
@@ -98,9 +109,9 @@ Pure Furies ～ 心之所在（曲目） - 由 ZUN 创作的官方曲目，原�
   - 有观点认为「厄里倪厄斯」起源于血亲复仇，在没有法律的原始社会中，对杀人者施加制裁的唯一形式就是由被杀者的亲属进行复仇。
     - 「厄里倪厄斯」可以视作被杀者之愤怒的超自然人格化。
 
-  - 「厄里倪厄斯」与「赫卡忒」都可视作三位一体的女神，联系赫卡提亚 (未找到链接)。
+  - 「厄里倪厄斯」与「赫卡忒」都可视作三位一体的女神，联系[赫卡提亚](./赫卡提亚.md)。
     - 传说「厄里倪厄斯」平常居于深渊「塔耳塔洛斯」，只有执行复仇时才会来到地上。
-    - [纯狐](./纯狐.md)对[嫦娥](./嫦娥.md)的怒火已经纯化，和赫卡提亚 (未找到链接)一同谋划对[嫦娥](./嫦娥.md)的复仇。
+    - [纯狐](./纯狐.md)对[嫦娥](./嫦娥.md)的怒火已经纯化，和[赫卡提亚](./赫卡提亚.md)一同谋划对[嫦娥](./嫦娥.md)的复仇。
 
 
 - Pure Furies
@@ -111,7 +122,7 @@ Pure Furies ～ 心之所在（曲目） - 由 ZUN 创作的官方曲目，原�
 
 - 心
   - 除去外形的「心」，意指「纯粹的情感」。
-    - [燕石博物志](./燕石博物志-附带故事.md)中梅莉 (未找到链接)所说的，「在彼世中形体没有意义」。
+    - [燕石博物志](./燕石博物志-附带故事.md)中[梅莉](./梅莉.md)所说的，「在彼世中形体没有意义」。
 
 
 
@@ -122,7 +133,7 @@ Pure Furies ～ 心之所在（曲目） - 由 ZUN 创作的官方曲目，原�
 - 在処
   - 所在。
     - [纯狐](./纯狐.md)的心在[嫦娥](./嫦娥.md)。
-    - 梅莉 (未找到链接)的心在幻想。
+    - [梅莉](./梅莉.md)的心在幻想。
     - 参考燕石博物志[附带故事](./燕石博物志-附带故事.md)、[分析考据](./燕石博物志-分析考据.md)页面。
 
 
@@ -139,6 +150,7 @@ Pure Furies ～ 心之所在（曲目） - 由 ZUN 创作的官方曲目，原�
 自身也是被怨恨纯化的灵。
 她已经连自己是什么人的情报都不需要了。
 ```
+
 
 ### 二次同人数据
 

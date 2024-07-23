@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2">无封面</td>
@@ -14,11 +15,13 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/nohta130/status/1607957878656364545">https://twitter.com/nohta130/status/1607957878656364545</a></td></tr><tr><td class="label">备注</td><td colspan="2">DLカード</td></tr></tbody></table>
 
 Untwisted by degrees（同人专辑，Unity-Gain，2022） - 2022年12月31日 由 Unity-Gain 于 Comic Market 101 发布的单曲同人专辑，分级为 一般向
+
 ## Staff
   
  **Arrangement**   
 
 <table><tbody><tr><td><a href="/index.php?title=O%E5%A4%AA&amp;action=edit&amp;redlink=1" class="new" title="O太（页面不存在）">O太</a></td><td></td><td>Tr.1</td></tr></tbody></table>
+
 
 
 ## 试听
@@ -27,9 +30,11 @@ Untwisted by degrees（同人专辑，Unity-Gain，2022） - 2022年12月31日 �
 
   
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Untwisted_by_degrees" colspan="2" class="title">Untwisted by degrees<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=O太&amp;ogmusic=今宵は飄逸なエゴイスト(Live ver)　～ Egoistic Flowers.&amp;fromwiki=Untwisted_by_degrees"><span title="搜索相似同人曲"></span></a></span></td><td class="time">05:57</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=O%E5%A4%AA&amp;action=edit&amp;redlink=1" class="new" title="O太（页面不存在）">O太</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，O太&amp;fromwiki=Untwisted_by_degrees"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=今宵は飄逸なエゴイスト(Live ver)　～ Egoistic Flowers.&amp;fromwiki=Untwisted_by_degrees"><span></span></a></span><div class="ogmusic"><a href="/%E4%BB%8A%E5%AE%B5%E3%81%AF%E9%A3%84%E9%80%B8%E3%81%AA%E3%82%A8%E3%82%B4%E3%82%A4%E3%82%B9%E3%83%88(Live_ver)_%EF%BD%9E_Egoistic_Flowers." class="mw-redirect" title="今宵は飄逸なエゴイスト(Live ver) ～ Egoistic Flowers.">今宵は飄逸なエゴイスト(Live ver)　～ Egoistic Flowers.</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E5%87%AD%E4%BE%9D%E5%8D%8E_%EF%BD%9E_Antinomy_of_Common_Flowers." class="mw-redirect" title="东方凭依华 ～ Antinomy of Common Flowers.">东方凭依华　～ Antinomy of Common Flowers.</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Untwisted_by_degrees" colspan="2" class="title">Untwisted by degrees<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=O太&amp;ogmusic=今宵は飄逸なエゴイスト(Live ver)　～ Egoistic Flowers.&amp;fromwiki=Untwisted_by_degrees"><span title="搜索相似同人曲"></span></a></span></td><td class="time">05:57</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=O%E5%A4%AA&amp;action=edit&amp;redlink=1" class="new" title="O太（页面不存在）">O太</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，O太&amp;fromwiki=Untwisted_by_degrees"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=今宵は飄逸なエゴイスト(Live ver)　～ Egoistic Flowers.&amp;fromwiki=Untwisted_by_degrees"><span></span></a></span><div class="ogmusic"><a href="./今宵は飄逸なエゴイスト(Live_ver)_～_Egoistic_Flowers..md" class="mw-redirect" title="今宵は飄逸なエゴイスト(Live ver) ～ Egoistic Flowers.">今宵は飄逸なエゴイスト(Live ver)　～ Egoistic Flowers.</a></div><div class="source"><a href="./东方凭依华_～_Antinomy_of_Common_Flowers..md" class="mw-redirect" title="东方凭依华 ～ Antinomy of Common Flowers.">东方凭依华　～ Antinomy of Common Flowers.</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

@@ -5,6 +5,7 @@
 由ZUN原作，哑采弦二负责封面绘画，守姫武士负责内部插画的官方Fanbook。
 
 本页是关于东方Project **[官方书籍](./官方出版物.md)** 的词条
+
 ## 目录
 
 - [1 概述](#概述)
@@ -13,6 +14,7 @@
 - [4 外部链接](#外部链接)
 - [5 注释](#注释)
 - [6 词条导航](#词条导航)
+
 
 
 
@@ -40,8 +42,7 @@
 
 
   
-<big> **The Grimoire of Marisa**   
-</big>
+<big> **The Grimoire of Marisa** </big>
 The Grimoire of Marisa<small>（グリモワール オブ マリサ， *The Grimoire of Marisa* ，魔理沙的魔法书）</small>  
 
 本书是东方Project的官方Fanbook，由ZUN编写，使用角色[雾雨魔理沙](./雾雨魔理沙.md)的视角介绍幻想乡内角色们的符卡以及符卡规则本身。  
@@ -65,6 +66,7 @@ The Grimoire of Marisa<small>（グリモワール オブ マリサ， *The Grim
 </tr><tr><td><b>单行本出版社</b></td><td>一迅社</td></tr><tr><td><b>文字</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><td><b>封面</b></td><td><a href="./哑采弦二.md" title="哑采弦二">哑采弦二</a></td></tr><tr><td><b>插画</b></td><td><a href="/index.php?title=%E5%AE%88%E5%A7%AB%E6%AD%A6%E5%A3%AB&amp;action=edit&amp;redlink=1" class="new" title="守姫武士（页面不存在）">守姫武士</a></td></tr><tr><td><b>类型</b></td><td>插画设定集</td></tr></tbody></table>
 
 The Grimoire of Marisa（官方书籍） - 由ZUN原作，哑采弦二负责封面绘画，守姫武士负责内部插画的官方Fanbook。
+
 ## 目录
 - 封面
 - 第1页：封面
@@ -146,6 +148,7 @@ The Grimoire of Marisa（官方书籍） - 由ZUN原作，哑采弦二负责封�
 　which continues from the 20st century!
   
 
+
 ## 其他
 - [附属音乐CD](./The_Grimoire_of_Marisa-附属CD.md)
 - [单行本设计](./The_Grimoire_of_Marisa-单行本设计.md)
@@ -153,7 +156,9 @@ The Grimoire of Marisa（官方书籍） - 由ZUN原作，哑采弦二负责封�
 - [考据与分析](./The_Grimoire_of_Marisa-分析考据.md)
 - [单行本的错误订正](./The_Grimoire_of_Marisa-勘误.md)
 
+
 ## 外部链接
+
 
 ## 词条导航
   

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-東方ゴタ鍋MIX3封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/a/a6/%E6%9D%B1%E6%96%B9%E3%82%B4%E3%82%BF%E9%8D%8BMIX3%E5%B0%81%E9%9D%A2.jpg/161px-%E6%9D%B1%E6%96%B9%E3%82%B4%E3%82%BF%E9%8D%8BMIX3%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="161" height="224" srcset="https://upload.thwiki.cc/thumb/a/a6/%E6%9D%B1%E6%96%B9%E3%82%B4%E3%82%BF%E9%8D%8BMIX3%E5%B0%81%E9%9D%A2.jpg/241px-%E6%9D%B1%E6%96%B9%E3%82%B4%E3%82%BF%E9%8D%8BMIX3%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/a/a6/%E6%9D%B1%E6%96%B9%E3%82%B4%E3%82%BF%E9%8D%8BMIX3%E5%B0%81%E9%9D%A2.jpg/321px-%E6%9D%B1%E6%96%B9%E3%82%B4%E3%82%BF%E9%8D%8BMIX3%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="861" data-file-height="1200"></a><div class="cover-char">角色：<a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a>，<a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a>，<a href="./帕秋莉·诺蕾姬.md" title="帕秋莉·诺蕾姬">帕秋莉·诺蕾姬</a>，<a href="/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C" title="十六夜咲夜">十六夜咲夜</a>，<a href="./红美铃.md" title="红美铃">红美铃</a>，<a href="./露米娅.md" title="露米娅">露米娅</a></div></td>
@@ -18,8 +19,10 @@
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=388085">蜜瓜（特典）</a>，<a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=387948">蜜瓜2</a></td></tr></tbody></table>
 
 
+
 ## Staff
 - [ノヤマコト](./ノヤマコト.md)
+
 
 ## 评论
 

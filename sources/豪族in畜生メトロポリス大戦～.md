@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-豪族in畜生メトロポリス大戦～封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/b/b0/%E8%B1%AA%E6%97%8Fin%E7%95%9C%E7%94%9F%E3%83%A1%E3%83%88%E3%83%AD%E3%83%9D%E3%83%AA%E3%82%B9%E5%A4%A7%E6%88%A6%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg/157px-%E8%B1%AA%E6%97%8Fin%E7%95%9C%E7%94%9F%E3%83%A1%E3%83%88%E3%83%AD%E3%83%9D%E3%83%AA%E3%82%B9%E5%A4%A7%E6%88%A6%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="157" height="224" srcset="https://upload.thwiki.cc/thumb/b/b0/%E8%B1%AA%E6%97%8Fin%E7%95%9C%E7%94%9F%E3%83%A1%E3%83%88%E3%83%AD%E3%83%9D%E3%83%AA%E3%82%B9%E5%A4%A7%E6%88%A6%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg/235px-%E8%B1%AA%E6%97%8Fin%E7%95%9C%E7%94%9F%E3%83%A1%E3%83%88%E3%83%AD%E3%83%9D%E3%83%AA%E3%82%B9%E5%A4%A7%E6%88%A6%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/b/b0/%E8%B1%AA%E6%97%8Fin%E7%95%9C%E7%94%9F%E3%83%A1%E3%83%88%E3%83%AD%E3%83%9D%E3%83%AA%E3%82%B9%E5%A4%A7%E6%88%A6%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg/313px-%E8%B1%AA%E6%97%8Fin%E7%95%9C%E7%94%9F%E3%83%A1%E3%83%88%E3%83%AD%E3%83%9D%E3%83%AA%E3%82%B9%E5%A4%A7%E6%88%A6%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="840" data-file-height="1200"></a><div class="cover-char">角色：<a href="./物部布都.md" title="物部布都">物部布都</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/101736466">https://www.pixiv.net/artworks/101736466</a></td></tr></tbody></table>
 
 豪族in畜生メトロポリス大戦～（同人志，はじけ組っ!，2022） - 2022年10月9日 由 はじけ組っ! 于 东方红楼梦18 发布的漫画同人志，A5尺寸一共100页，登场人物有 物部布都、苏我屠自古、丰聪耳神子、吉吊八千慧、水獭灵，分级为 一般向
+
 ## Staff
 - はじけ☆ (未找到链接)
+
 
 ## 评论
 

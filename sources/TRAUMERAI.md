@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-TRAUMERAI封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/5/50/TRAUMERAI%E5%B0%81%E9%9D%A2.jpg/158px-TRAUMERAI%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="158" height="224" srcset="https://upload.thwiki.cc/thumb/5/50/TRAUMERAI%E5%B0%81%E9%9D%A2.jpg/237px-TRAUMERAI%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/5/50/TRAUMERAI%E5%B0%81%E9%9D%A2.jpg/316px-TRAUMERAI%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="842" data-file-height="1195"></a><div class="cover-char">角色：<a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a></div></td>
@@ -14,9 +15,12 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/107844038">https://www.pixiv.net/artworks/107844038</a><br><a rel="nofollow" class="external free" href="https://twitter.com/_Tonan_/status/1654442739453530113">https://twitter.com/_Tonan_/status/1654442739453530113</a></td></tr></tbody></table>
 
 TRAUMERAI（同人志，FelesVlinder，2023） - 2023年5月7日 由 FelesVlinder 于 博丽神社例大祭20 发布的画集同人志，A4尺寸一共20页，登场人物有 芙兰朵露·斯卡蕾特、娜兹玲、帕秋莉·诺蕾姬、古明地恋、西行寺幽幽子，分级为 一般向
+
 ## 预览
+
 ## Staff
 - Tonan (未找到链接)
+
 
 ## 评论
 

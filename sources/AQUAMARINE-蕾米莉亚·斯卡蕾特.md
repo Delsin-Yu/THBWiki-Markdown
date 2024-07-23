@@ -6,11 +6,13 @@
 
 本页是关于东方Project  
  **相关实体周边 (未找到链接)** 的词条
+
 ## 模型信息
 
 <table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 蕾米莉亚·斯卡蕾特 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>无</td></tr><tr><td class="label">角色</td><td><a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a></td></tr><tr><td class="label">原画师</td><td><a href="/index.php?title=%E3%81%88%E3%82%8C%E3%81%A3%E3%81%A8&amp;action=edit&amp;redlink=1" class="new" title="えれっと（页面不存在）">えれっと</a></td></tr><tr><td class="label">发售方</td><td><a href="/index.php?title=AQUAMARINE&amp;action=edit&amp;redlink=1" class="new" title="AQUAMARINE（页面不存在）">AQUAMARINE</a></td></tr></tbody></table>
 
 AQUAMARINE/蕾米莉亚·斯卡蕾特（周边） - 蕾米莉亚·斯卡蕾特PVCFigure手办模型
+
 ## 参考图片
 
 

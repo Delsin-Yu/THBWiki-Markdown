@@ -33,6 +33,7 @@ Gore | 含有受损文件链接的页面 | 待翻译页面
 
   
 </center>
+
 ## 目录
 
 - [1 永江衣玖](#永江衣玖)
@@ -44,6 +45,7 @@ Gore | 含有受损文件链接的页面 | 待翻译页面
 - [7 风见幽香](#风见幽香)
 - [8 铃仙·优昙华院·因幡](#铃仙·优昙华院·因幡)
 - [9 词条导航](#词条导航)
+
 
 
 
@@ -74,6 +76,7 @@ Gore | 含有受损文件链接的页面 | 待翻译页面
 <tbody><tr><td width="80">符卡编号</td><td width="400">046</td><td rowspan="4" width="120"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E4%B8%9C%E6%96%B9%E5%A4%A9%E5%8D%8E%E6%A5%BC%E7%AC%A6%E5%8D%A1046.jpg" class="new" title="文件:东方天华楼符卡046.jpg">文件:东方天华楼符卡046.jpg</a></td></tr>
 <tr><td>符卡原名</td><td>紫電「ミッドナイトフィーバー」</td></tr><tr><td>出现位置</td><td>Stage 4 - Lunatic（<a href="/index.php?title=%E6%9D%B1%E6%96%B9%E5%A4%A9%E8%8F%AF%E6%A5%BC_%EF%BD%9E_Frantically_Forbidden_Fruit./%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A&amp;action=edit&amp;redlink=1" class="new" title="東方天華楼 ～ Frantically Forbidden Fruit./角色设定（页面不存在）">永江衣玖</a>）</td></tr><tr><td>说明文本</td><td>荒ぶるエレキテルダンシング。
 そういえば作中では真夜中なんですよね。迷惑だなぁ</td></tr></tbody></table>
+
 
 
 ## 博丽灵梦
@@ -156,6 +159,7 @@ Gore | 含有受损文件链接的页面 | 待翻译页面
 <tbody><tr><td width="80">符卡编号</td><td width="400">058</td><td rowspan="4" width="120"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E4%B8%9C%E6%96%B9%E5%A4%A9%E5%8D%8E%E6%A5%BC%E7%AC%A6%E5%8D%A1058.jpg" class="new" title="文件:东方天华楼符卡058.jpg">文件:东方天华楼符卡058.jpg</a></td></tr>
 <tr><td>符卡原名</td><td>宝具「陰陽鬼神玉」</td></tr><tr><td>出现位置</td><td>Stage 4 - Lunatic（<a href="/index.php?title=%E6%9D%B1%E6%96%B9%E5%A4%A9%E8%8F%AF%E6%A5%BC_%EF%BD%9E_Frantically_Forbidden_Fruit./%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A&amp;action=edit&amp;redlink=1" class="new" title="東方天華楼 ～ Frantically Forbidden Fruit./角色设定（页面不存在）" unred="">博丽灵梦</a>）</td></tr><tr><td>说明文本</td><td>霊力で練り上げた特大陰陽玉で制圧。
 主人公は技が一杯あるから、弾幕作るのも楽だね。</td></tr></tbody></table>
+
 
 
 ## 雾雨魔理沙
@@ -241,11 +245,17 @@ Gore | 含有受损文件链接的页面 | 待翻译页面
 うねりが激しいブラックホール。手を出すと火傷するぞ。</td></tr></tbody></table>
 
 
+
 ## 十六夜咲夜
+
 ## 东风谷早苗
+
 ## 魂魄妖梦
+
 ## 风见幽香
+
 ## 铃仙·优昙华院·因幡
+
 ## 词条导航
   
   

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -41,11 +42,13 @@
 
 
 
+
 ## 基本信息
 
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">天鵞絨少女戦　～ Velvet Battle</td></tr><tr><td><b>译名</b></td><td>天鹅绒少女战 ～ Velvet Battle</td></tr><tr><td><b>英文译名</b></td><td>Velvet Maiden's War ~ Velvet Battle</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 天鹅绒少女战 ～ Velvet Battle（曲目） - 由 ZUN 创作的官方曲目，原名 天鵞絨少女戦　～ Velvet Battle
+
 ## 出现作品
 
 <table>
@@ -54,10 +57,12 @@
 </tbody></table>
 
 
+
 ## 音乐文件
   
 注：音轨长度以从游戏中提取的原MIDI和WAV文件为准。
   
+
 
 ### WAV版
   
@@ -73,19 +78,24 @@ MP3来源于官方WAV压缩、剪接。
 </td></tr></tbody></table>
 
 
+
 ### MIDI版
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td><a href="./文件-sh02_02.mid.md" title="文件:sh02 02.mid">sh02_02.mid</a></td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-sh02_02.mp3.md" title="文件:sh02 02.mp3">sh02_02.mp3</a><br><audio src="https://upload.thwiki.cc/c/cf/sh02_02.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>MUSIC\kog_01（MIDI）</td></tr><tr><td><b>音轨时长</b></td><td>7:49（MIDI）</td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 稀翁玉
+
 #### Music Room
 - Music Room (未找到链接)
 
 VIVIT 的主题曲。  
 说到女仆小姐，一般来说都是怕阳光的眼镜女，但这次我是以自己的女仆形象来创作曲子的。话说一直都是・・・  
 怎么说呢，只有不是东洋风这一点是确定的吧(^^;天鹅绒少女战　～ Velvet Battle天鹅绒少女战　～ Velvet Battle
+
 #### 创曲幻想
 - 创曲幻想 (未找到链接)
 
@@ -93,9 +103,13 @@ VIVIT 的主题曲。
 　　读作「びろおどしょうじょせん」吧。对，就这样。  
 　　曲子和曲名毫无关系（倒是有“哦，是融合乐”的感觉的地方。  
 　　完全是个人趣味（笑）
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
+
 ### 二次同人数据
 
 <table><tbody><tr><th colspan="2">统计</th></tr>

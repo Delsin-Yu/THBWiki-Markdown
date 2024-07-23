@@ -164,6 +164,7 @@ AvalonStudioOfficial
 [](./文件-THD2比那名居天子.png.md)
   
 
+
 ## 目录
 
 - [1 角色定位](#角色定位)
@@ -184,10 +185,12 @@ AvalonStudioOfficial
 
 
 
+
 ## 角色定位
   
 先手 - 控制 - 辅助 - 爆发 - 耐久
   
+
 
 ## 技能介绍
 
@@ -663,6 +666,7 @@ AvalonStudioOfficial
 </td></tr></tbody></table>
 
 
+
 ## 天赋树
 
 
@@ -701,25 +705,30 @@ AvalonStudioOfficial
 </td></tr></tbody></table>
 
 
+
 ### 出门装备
 ```
 [](./文件-THD2动物信使.png.md) [](./文件-THD2思兼生命药.png.md) [](./文件-THD2雾雨魔力瓶.png.md) [](./文件-THD2衰人卡.png.md)
 ```
+
 
 ### 前期装备
 ```
 [](./文件-THD2元素秘法石.png.md) [](./文件-THD2魔法使扫把.png.md) [](./文件-THD2爱人卡.png.md)
 ```
 
+
 ### 核心装备
 ```
 [](./文件-THD2冰精跳跃装置.png.md) [](./文件-THD2奇迹之星.png.md) [](./文件-THD2侦查守卫.png.md)
 ```
 
+
 ### 可选装备
 ```
 [](./文件-THD2香霖的礼服.png.md) [](./文件-THD2替身人偶.png.md) [](./文件-THD2油库里之杖.png.md) [](./文件-THD2花之领主阳伞.png.md) [](./文件-THD2思兼生命智慧.png.md) [](./文件-THD2鬼神镣铐.png.md) [](./文件-THD2花毒的连衣裙.png.md) [](./文件-THD2魔人经卷.png.md) [](./文件-THD2博丽神社护身符.png.md) [](./文件-THD2速融的核聚变棒.png.md)
 ```
+
 
 ## 技能加点
 
@@ -867,6 +876,7 @@ AvalonStudioOfficial
 </td></tr></tbody></table>
 
 
+
 ## 台词
 
 <table>
@@ -941,6 +951,7 @@ AvalonStudioOfficial
 <p><br>大（おお）きな地震（じしん）が起（お）こるわよ　なんか文句（もんく）ある？<br>[ 大地震要来了 有意见吗]
 </p>
 </td></tr></tbody></table>
+
 
 
 ## 教学视频

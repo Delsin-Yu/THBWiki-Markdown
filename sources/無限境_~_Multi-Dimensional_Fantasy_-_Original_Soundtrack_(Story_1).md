@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-無限境_~_Multi-Dimensional_Fantasy_-_Original_Soundtrack_(Story_1)封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/8/81/%E7%84%A1%E9%99%90%E5%A2%83_~_Multi-Dimensional_Fantasy_-_Original_Soundtrack_%28Story_1%29%E5%B0%81%E9%9D%A2.png/252px-%E7%84%A1%E9%99%90%E5%A2%83_~_Multi-Dimensional_Fantasy_-_Original_Soundtrack_%28Story_1%29%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="252" height="252" srcset="https://upload.thwiki.cc/thumb/8/81/%E7%84%A1%E9%99%90%E5%A2%83_~_Multi-Dimensional_Fantasy_-_Original_Soundtrack_%28Story_1%29%E5%B0%81%E9%9D%A2.png/378px-%E7%84%A1%E9%99%90%E5%A2%83_~_Multi-Dimensional_Fantasy_-_Original_Soundtrack_%28Story_1%29%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/8/81/%E7%84%A1%E9%99%90%E5%A2%83_~_Multi-Dimensional_Fantasy_-_Original_Soundtrack_%28Story_1%29%E5%B0%81%E9%9D%A2.png/504px-%E7%84%A1%E9%99%90%E5%A2%83_~_Multi-Dimensional_Fantasy_-_Original_Soundtrack_%28Story_1%29%E5%B0%81%E9%9D%A2.png 2x" data-file-width="1400" data-file-height="1400"></a></td>
@@ -14,11 +15,13 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://shinkonet.bandcamp.com/album/multi-dimensional-fantasy-original-soundtrack-story-1">https://shinkonet.bandcamp.com/album/multi-dimensional-fantasy-original-soundtrack-story-1</a></td></tr></tbody></table>
 
 無限境 ~ Multi-Dimensional Fantasy - Original Soundtrack (Story 1)（同人专辑，Netcavy Records，2020） - 2020年10月4日 由 Netcavy Records  发布的全长同人专辑，曲目主要风格是 游戏音乐，分级为 一般向
+
 ## Staff
   
  **Compose**   
 
 <table><tbody><tr><td><a href="/index.php?title=ShinkoNet&amp;action=edit&amp;redlink=1" class="new" title="ShinkoNet（页面不存在）">ShinkoNet</a></td><td></td><td>Tr.1-13</td></tr></tbody></table>
+
 
 
 ## 曲目列表
@@ -36,6 +39,7 @@
 <tr><td id="11" class="infoYL"><b>11</b></td><td id="The_Mad_Hatter&#39;s_Apprentice" colspan="2" class="title">The Mad Hatter&#39;s Apprentice<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=ShinkoNet&amp;fromwiki=無限境_~_Multi-Dimensional_Fantasy_-_Original_Soundtrack_(Story_1)"><span title="搜索相似同人曲"></span></a></span></td><td class="time">01:42</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=ShinkoNet&amp;action=edit&amp;redlink=1" class="new" title="ShinkoNet（页面不存在）">ShinkoNet</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，ShinkoNet，&amp;fromwiki=無限境_~_Multi-Dimensional_Fantasy_-_Original_Soundtrack_(Story_1)"><span></span></a></span></td></tr>
 <tr><td id="12" class="infoYL"><b>12</b></td><td id="Frontier_of_Breathless_Mystery" colspan="2" class="title">Frontier of Breathless Mystery<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=ShinkoNet&amp;fromwiki=無限境_~_Multi-Dimensional_Fantasy_-_Original_Soundtrack_(Story_1)"><span title="搜索相似同人曲"></span></a></span></td><td class="time">01:41</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=ShinkoNet&amp;action=edit&amp;redlink=1" class="new" title="ShinkoNet（页面不存在）">ShinkoNet</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，ShinkoNet，&amp;fromwiki=無限境_~_Multi-Dimensional_Fantasy_-_Original_Soundtrack_(Story_1)"><span></span></a></span></td></tr>
 <tr><td id="13" class="infoYL"><b>13</b></td><td id="Breathless_Light_~_Darkness_Dimension" colspan="2" class="title">Breathless Light ~ Darkness Dimension<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=ShinkoNet&amp;fromwiki=無限境_~_Multi-Dimensional_Fantasy_-_Original_Soundtrack_(Story_1)"><span title="搜索相似同人曲"></span></a></span></td><td class="time">02:54</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=ShinkoNet&amp;action=edit&amp;redlink=1" class="new" title="ShinkoNet（页面不存在）">ShinkoNet</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，ShinkoNet，&amp;fromwiki=無限境_~_Multi-Dimensional_Fantasy_-_Original_Soundtrack_(Story_1)"><span></span></a></span></td></tr></tbody></table>
+
 
 
 ## 评论

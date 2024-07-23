@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -43,11 +44,13 @@
 
 
 
+
 ## 基本信息
 
-<table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">妖々夢　～ Snow or Cherry Petal</td></tr><tr><td><b>译名</b></td><td>妖妖梦 ～ Snow or Cherry Petal</td></tr><tr><td><b>英文译名</b></td><td>Ghostly Dream ~ Snow or Cherry Petal</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>关联</td></tr><tr><td style="padding-left:15px"><b>相关曲</b></td><td><a href="/%E3%83%86%E3%83%BC%E3%83%9E%E3%83%BB%E3%82%AA%E3%83%96%E3%83%BB%E3%82%A4%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC" class="mw-redirect" title="テーマ・オブ・イースタンストーリー">テーマ・オブ・イースタンストーリー</a></td></tr><tr><td style="padding-left:15px"><b>　来源</b></td><td>幺乐团的历史　～ Akyu's Untouched Score vol.5</td></tr></tbody></table>
+<table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">妖々夢　～ Snow or Cherry Petal</td></tr><tr><td><b>译名</b></td><td>妖妖梦 ～ Snow or Cherry Petal</td></tr><tr><td><b>英文译名</b></td><td>Ghostly Dream ~ Snow or Cherry Petal</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>关联</td></tr><tr><td style="padding-left:15px"><b>相关曲</b></td><td><a href="./テーマ・オブ・イースタンストーリー.md" class="mw-redirect" title="テーマ・オブ・イースタンストーリー">テーマ・オブ・イースタンストーリー</a></td></tr><tr><td style="padding-left:15px"><b>　来源</b></td><td>幺乐团的历史　～ Akyu's Untouched Score vol.5</td></tr></tbody></table>
 
 妖妖梦 ～ Snow or Cherry Petal（曲目） - 由 ZUN 创作的官方曲目，原名 妖々夢　～ Snow or Cherry Petal
+
 ## 出现作品
 
 <table>
@@ -57,8 +60,11 @@
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 东方妖妖梦
+
 #### WAV
   
 WAV版是游戏的原声带。
@@ -73,6 +79,7 @@ WAV版是游戏的原声带。
 </td></tr></tbody></table>
 
 
+
 #### MIDI
   
 MIDI版由Roland Sound Canvas 88Pro实机录音得到。
@@ -82,12 +89,15 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td><a href="./文件-th07_01.mid.md" title="文件:th07 01.mid">th07_01.mid</a></td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th07_01_SC88Pro.mp3.md" title="文件:th07 01 SC88Pro.mp3">th07_01_SC88Pro.mp3</a><br><audio src="https://upload.thwiki.cc/4/42/th07_01_SC88Pro.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>th07_01.mid</td></tr><tr><td><b>音轨时长</b></td><td>1:29</td></tr></tbody></table>
 
 
+
 ### 东方紫香花
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-TORA-00009_08.mp3.md" title="文件:TORA-00009 08.mp3">TORA-00009_08.mp3</a><br><audio src="https://upload.thwiki.cc/4/43/TORA-00009_08.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track08.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>3:44</td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 东方妖妖梦
 - Music Room (未找到链接)
 
@@ -102,14 +112,18 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
     因为是标题曲，所以平静一些。  
     落在幻想乡中的，是雪还是樱。  
     这是饱含着我这种想法的曲名。
+
 ### 东方紫香花
 - 曲目说明 (未找到链接)
 
 我擅长的是使用「变节拍」的编曲，这也是「progressive」[^cite_note-1]音乐风格的特征，然而这次的arrange听上去像是「变节拍」，但实际上并不是，这是用了一个rhythm trick。  
 用足球来比喻的话，就是使用假动作、不碰到球就能使对手摔倒的技巧（反而更难懂了？）  
 如果不注意的话就会被ghost note[^cite_note-2]引起听觉上的错觉并无法摆脱。
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
   
  **妖々夢　～ Snow or Cherry Petal** 
@@ -137,6 +151,7 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
 -   -     - 神主在附带文章中说是怀有这种感觉所起的曲子名。
     - 樱吹雪。
     - 本作的异变与“樱花”和“雪”都有很大关系。
+
 
 
 

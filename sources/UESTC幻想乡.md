@@ -4,7 +4,8 @@
 
 UESTC幻想乡 ，于 2023 年成立，主要制作 同人志，周边 的中国大陆同人社团，主催是 霜夜，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -21,12 +22,14 @@ UESTC幻想乡 ，于 2023 年成立，主要制作 同人志，周边 的中国
 
 
 
+
 ## 社团信息
 [](./文件-UESTC幻想乡logo.png.md)  [](./文件-UESTC幻想乡logo.png.md)logo
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> UESTC幻想乡 </td></tr><tr><td><b>主要作品类型</b></td><td>同人志，周边</td></tr><tr><td><b>成立时间</b></td><td>2023</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=%E9%9C%9C%E5%A4%9C&amp;action=edit&amp;redlink=1" class="new" title="霜夜（页面不存在）">霜夜</a> </td></tr><tr><td><b>地区</b></td><td>中国大陆</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="https://space.bilibili.com/3546559320951638">https://space.bilibili.com/3546559320951638</a> 哔哩哔哩<br><a rel="nofollow" class="external free" href="https://weibo.com/u/7856295821">https://weibo.com/u/7856295821</a> 微博</td></tr></tbody></table>
 
 UESTC幻想乡（同人社团，同人志社团，周边社团） - UESTC幻想乡 ，于 2023 年成立，主要制作 同人志，周边 的中国大陆同人社团，主催是 霜夜，当前状态为 活动
+
 ## 成员名单
 - 霜夜 (未找到链接)
 - 七玖隐 (未找到链接)
@@ -37,11 +40,14 @@ UESTC幻想乡（同人社团，同人志社团，周边社团） - UESTC幻想�
 更多成员名单在此省略
   
 
+
 ## 作品列表
+
 ### 同人志
 [](./哈德曼综合征.md)[哈德曼综合征](./哈德曼综合征.md)首发日期：2023-08-12 （COMIDAY26 (未找到链接)）小说 （一般向）A5&#160;尺寸 444&#160;页
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
 </table>
+
 
 
 ## 社团简介
@@ -53,6 +59,7 @@ UESTC幻想乡（同人社团，同人志社团，周边社团） - UESTC幻想�
 
 UESTC幻想乡 QQ群号：586011595
   
+
 
 
 ## 参展信息

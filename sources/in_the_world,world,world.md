@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-in_the_world,world,world封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/6/69/in_the_world%2Cworld%2Cworld%E5%B0%81%E9%9D%A2.jpg/117px-in_the_world%2Cworld%2Cworld%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="117" height="168" srcset="https://upload.thwiki.cc/thumb/6/69/in_the_world%2Cworld%2Cworld%E5%B0%81%E9%9D%A2.jpg/175px-in_the_world%2Cworld%2Cworld%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/6/69/in_the_world%2Cworld%2Cworld%E5%B0%81%E9%9D%A2.jpg/233px-in_the_world%2Cworld%2Cworld%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="267" data-file-height="384"></a><div class="cover-char">角色：<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a>，<a href="./魅魔.md" title="魅魔">魅魔</a></div></td>
@@ -14,9 +15,12 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/7874781">https://www.pixiv.net/artworks/7874781</a></td></tr></tbody></table>
 
 in the world,world,world（同人志，型K式，2009） - 2009年12月30日 由 型K式 于 Comic Market 77 发布的漫画同人志，一共16页，登场人物有 神绮、圣白莲、雾雨魔理沙、魅魔，分级为 一般向
+
 ## 预览
+
 ## Staff
 - [カタケイ](./カタケイ.md)
+
 
 ## 评论
 

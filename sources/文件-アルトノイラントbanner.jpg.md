@@ -4,6 +4,7 @@
 
 アルトノイラント | 社团LOGO
 
+
 ## 文件说明
   
 源地址：[direct image link](https://web.archive.org/web/20071030100828im_/http://home.att.ne.jp/alpha/hiroyo/anlbanner.jpg), [source page](https://web.archive.org/web/20081219062802/http://home.att.ne.jp/alpha/hiroyo/)

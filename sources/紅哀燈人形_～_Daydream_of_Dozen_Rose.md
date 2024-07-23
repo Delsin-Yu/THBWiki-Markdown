@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-紅哀燈人形_～_Daydream_of_Dozen_Rose封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/d/d8/%E7%B4%85%E5%93%80%E7%87%88%E4%BA%BA%E5%BD%A2_%EF%BD%9E_Daydream_of_Dozen_Rose%E5%B0%81%E9%9D%A2.jpg/224px-%E7%B4%85%E5%93%80%E7%87%88%E4%BA%BA%E5%BD%A2_%EF%BD%9E_Daydream_of_Dozen_Rose%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="224" srcset="https://upload.thwiki.cc/thumb/d/d8/%E7%B4%85%E5%93%80%E7%87%88%E4%BA%BA%E5%BD%A2_%EF%BD%9E_Daydream_of_Dozen_Rose%E5%B0%81%E9%9D%A2.jpg/336px-%E7%B4%85%E5%93%80%E7%87%88%E4%BA%BA%E5%BD%A2_%EF%BD%9E_Daydream_of_Dozen_Rose%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/d/d8/%E7%B4%85%E5%93%80%E7%87%88%E4%BA%BA%E5%BD%A2_%EF%BD%9E_Daydream_of_Dozen_Rose%E5%B0%81%E9%9D%A2.jpg/448px-%E7%B4%85%E5%93%80%E7%87%88%E4%BA%BA%E5%BD%A2_%EF%BD%9E_Daydream_of_Dozen_Rose%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="868" data-file-height="868"></a></td>
@@ -18,6 +19,7 @@
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://mazyu.booth.pm/items/5683084">Booth</a></td></tr></tbody></table>
 
 
+
 ## Staff
   
  **Compose**   
@@ -27,6 +29,7 @@
 
 Design
 : [翡翠](./翡翠.md)
+
 
 ## 试听
 
@@ -38,6 +41,7 @@ Design
 <tr>
 <td><iframe width="560" height="315" src="//www.youtube-nocookie.com/embed/xAY4o9__tbI?" frameborder="0" allowfullscreen=""></iframe>
 </td></tr></tbody></table>
+
 
 
 ## 曲目列表
@@ -55,6 +59,7 @@ Design
 <tr><td id="11" class="infoYL"><b>11</b></td><td id="親愛なる日々へ_～_Even_if_All_Lies" colspan="2" class="title">親愛なる日々へ　～ Even if All Lies<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=翡翠&amp;fromwiki=紅哀燈人形_～_Daydream_of_Dozen_Rose"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./翡翠.md" title="翡翠">翡翠</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，翡翠&amp;fromwiki=紅哀燈人形_～_Daydream_of_Dozen_Rose"><span></span></a></span></td></tr>
 <tr><td id="12" class="infoYL"><b>12</b></td><td id="哀しい黒のアリアの少女" colspan="2" class="title">哀しい黒のアリアの少女<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=翡翠&amp;fromwiki=紅哀燈人形_～_Daydream_of_Dozen_Rose"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./翡翠.md" title="翡翠">翡翠</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，翡翠&amp;fromwiki=紅哀燈人形_～_Daydream_of_Dozen_Rose"><span></span></a></span></td></tr>
 <tr><td id="13" class="infoYL"><b>13</b></td><td id="Daydream" colspan="2" class="title">Daydream<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=翡翠&amp;fromwiki=紅哀燈人形_～_Daydream_of_Dozen_Rose"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./翡翠.md" title="翡翠">翡翠</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，翡翠&amp;fromwiki=紅哀燈人形_～_Daydream_of_Dozen_Rose"><span></span></a></span></td></tr></tbody></table>
+
 
 
 ## 评论

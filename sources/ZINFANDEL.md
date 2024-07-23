@@ -4,7 +4,8 @@
 
 ZINFANDEL ，主要制作 同人志 的日本同人社团，主催是 ひゅらさん，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -20,16 +21,20 @@ ZINFANDEL ，主要制作 同人志 的日本同人社团，主催是 ひゅら�
 
 
 
+
 ## 社团信息
 文件:ZINFANDELbanner.jpg (未找到链接)  banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> ZINFANDEL </td></tr><tr><td><b>主要作品类型</b></td><td>同人志</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="./ひゅらさん.md" title="ひゅらさん">ひゅらさん</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="https://hyura35.wixsite.com/zinfandel">https://hyura35.wixsite.com/zinfandel</a> 官网<br><a rel="nofollow" class="external free" href="https://www.pixiv.net/users/3684923">https://www.pixiv.net/users/3684923</a> Pixiv</td></tr></tbody></table>
 
 ZINFANDEL（同人社团，同人志社团） - ZINFANDEL ，主要制作 同人志 的日本同人社团，主催是 ひゅらさん，当前状态为 活动
+
 ## 成员名单
 - [ひゅらさん](./ひゅらさん.md)
 
+
 ## 作品列表
+
 ### 同人志
 [](./phntasm.md)[phntasm](./phntasm.md)首发日期：2015-05-10 （第十二回 博麗神社例大祭 (未找到链接)）画集、​合同志 （一般向）该作品是与 [CrerpSucre](./CrerpSucre.md) 合作创作的B5&#160;尺寸 20&#160;页[](./トロームメルヘン.md)[トロームメルヘン](./トロームメルヘン.md)首发日期：2015-11-01 （東方紅楼夢11 (未找到链接)）漫画、​合同志 （一般向）该作品是与 [CrerpSucre](./CrerpSucre.md) 合作创作的B5&#160;尺寸 [](./Rough_Medley.md)[Rough Medley](./Rough_Medley.md)首发日期：2015-12-30 （Comic Market 89 (未找到链接)）画集、​合同志 （一般向）该作品是与 [CrerpSucre](./CrerpSucre.md) 合作创作的 34&#160;页[](./Summer_Memories.md)[Summer Memories](./Summer_Memories.md)首发日期：2016-08-13 （Comic Market 90 (未找到链接)）画集、​合同志 （一般向）该作品是与 [CrerpSucre](./CrerpSucre.md) 合作创作的 28&#160;页[](./Wedding_My_Steady.md)[Wedding My Steady](./Wedding_My_Steady.md)首发日期：2017-05-07 （第十四回 博麗神社例大祭 (未找到链接)）合同志、​画集 （一般向）该作品是与 [CrerpSucre](./CrerpSucre.md) 合作创作的B5&#160;尺寸 36&#160;页[](./Noir_et_Blanc.md)[Noir et Blanc](./Noir_et_Blanc.md)首发日期：2017-05-07 （第十四回 博麗神社例大祭 (未找到链接)）画集、​合同志 （一般向）该作品是与 [CrerpSucre](./CrerpSucre.md) 合作创作的A4&#160;尺寸 28&#160;页レミリアの片想い～恋のかけひき～ 封面图片 (未找到链接)レミリアの片想い～恋のかけひき～ (未找到链接)首发日期：未知 - レミリアの片想い～勉強会～ 封面图片 (未找到链接)レミリアの片想い～勉強会～ (未找到链接)首发日期：未知 - レミリアの片想い 封面图片 (未找到链接)レミリアの片想い (未找到链接)首发日期：未知 - [](./SummerVacation（ZINFANDEL）.md)[SummerVacation](./SummerVacation（ZINFANDEL）.md)首发日期：2018-08-10 （Comic Market 94 (未找到链接)）画集 （一般向）B5&#160;尺寸 20&#160;页微睡みの記憶の中で 封面图片 (未找到链接)微睡みの記憶の中で (未找到链接)首发日期：未知 - [](./Glisten_Jewelry_box.md)[Glisten Jewelry box](./Glisten_Jewelry_box.md)首发日期：2019-10-06 （第六回 博麗神社秋季例大祭 (未找到链接)）画集、​合同志 （一般向）B5&#160;尺寸 34&#160;页[](./【総集編】レミリアの片想い.md)[【総集編】レミリアの片想い](./【総集編】レミリアの片想い.md)首发日期：2019-12-31 （Comic Market 97 (未找到链接)）漫画、​总集 （一般向）A5&#160;尺寸 186&#160;页[](./勇者霊夢と魔王レミリア.md)[勇者霊夢と魔王レミリア](./勇者霊夢と魔王レミリア.md)首发日期：2020-05-17 （第十七回 博麗神社例大祭 (未找到链接)）漫画 （一般向）B5&#160;尺寸 20&#160;页[](./Mement_Rubrum.md)[Mement Rubrum](./Mement_Rubrum.md)首发日期：2023-05-07 （第二十回 博麗神社例大祭 (未找到链接)）画集、​总集 （一般向）A4&#160;尺寸 74&#160;页
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -58,6 +63,7 @@ ZINFANDEL（同人社团，同人志社团） - ZINFANDEL ，主要制作 同人
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 参展信息

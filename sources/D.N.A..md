@@ -10,18 +10,23 @@
 <table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td style="width:120px"><b>人物名</b></td><td style="min-width:300px">D.N.A.（江崎望）</td></tr><tr><td><b>性别</b></td><td>男</td></tr><tr><td><b>生日</b></td><td>未知</td></tr><tr><td><b>所属公司</b></td><td><a href="./MediaScape.md" title="MediaScape">MediaScape</a></td></tr><tr><td><b>所属社团</b></td><td><a href="./D.N.A.Softwares.md" title="D.N.A.Softwares">D.N.A.Softwares</a></td></tr><tr><td><b>职业</b></td><td>社团代表</td></tr><tr><td><b>个人网页</b></td><td><a rel="nofollow" class="external text" href="https://twitter.com/dnasoftwares">推特</a> <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到需要翻墙网页">（需要翻墙）</span></td></tr></tbody></table>
 
 
+
 ## 简介
   
 D.N.A.是社团D.N.A.Softwares的代表，[数码游戏博览会](./数码游戏博览会.md)主办方数游博准备会的负责人，[Play,Doujin!](./Play,Doujin!.md)企划的相关负责人，[MediaScape](./MediaScape.md)的董事长。
   
 
+
 ## 主要作品
+
 ### ZUN参与过的东方二次同人
 - [神魔讨绮传 ～ Magus in Mystic Geometries.](./神魔討綺伝_～_Magus_in_Mystic_Geometries..md)（ZUN提供了音乐）
 - [东方幻想麻将 - Touhou Unreal Mahjong](./東方幻想麻雀.md)（ZUN提供了音乐）
 
+
 ### 参与创作的其他二次同人游戏（东方相关）
 - 作为D.N.A.Softwares的代表，D.N.A.Softwares的全部游戏均有参与。
+
 
 ## 其他资料
   

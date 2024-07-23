@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-早鬼VS八千慧封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/f/fd/%E6%97%A9%E9%AC%BCVS%E5%85%AB%E5%8D%83%E6%85%A7%E5%B0%81%E9%9D%A2.jpg/140px-%E6%97%A9%E9%AC%BCVS%E5%85%AB%E5%8D%83%E6%85%A7%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="140" height="196" srcset="https://upload.thwiki.cc/thumb/f/fd/%E6%97%A9%E9%AC%BCVS%E5%85%AB%E5%8D%83%E6%85%A7%E5%B0%81%E9%9D%A2.jpg/209px-%E6%97%A9%E9%AC%BCVS%E5%85%AB%E5%8D%83%E6%85%A7%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/f/fd/%E6%97%A9%E9%AC%BCVS%E5%85%AB%E5%8D%83%E6%85%A7%E5%B0%81%E9%9D%A2.jpg/279px-%E6%97%A9%E9%AC%BCVS%E5%85%AB%E5%8D%83%E6%85%A7%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="2122" data-file-height="2976"></a><div class="cover-char">角色：<a href="./吉吊八千慧.md" title="吉吊八千慧">吉吊八千慧</a>，<a href="./骊驹早鬼.md" title="骊驹早鬼">骊驹早鬼</a></div></td>
@@ -14,11 +15,13 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/98090900">https://www.pixiv.net/artworks/98090900</a></td></tr></tbody></table>
 
 早鬼VS八千慧（同人志，黒豆屋，2022） - 2022年5月8日 由 黒豆屋 于 博丽神社例大祭19 发布的漫画同人志，一共32页，登场人物有 吉吊八千慧、骊驹早鬼，分级为 一般向
+
 ## Staff
 Writer
 : カズナ (未找到链接)
 Illustration
 : カズナ (未找到链接)
+
 
 ## 评论
 

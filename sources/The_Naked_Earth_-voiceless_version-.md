@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-The_Naked_Earth_-voiceless_version-封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/9/94/The_Naked_Earth_-voiceless_version-%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="252" data-file-width="200" data-file-height="200"></a><div class="cover-char">角色：<a href="./帕秋莉·诺蕾姬.md" title="帕秋莉·诺蕾姬">帕秋莉·诺蕾姬</a>，<a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a>，<a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a></div></td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://kapparecords.com/MasashiOkagakiAndFriends/M_OKAGAKI_KPCR-91.html">https://kapparecords.com/MasashiOkagakiAndFriends/M_OKAGAKI_KPCR-91.html</a></td></tr></tbody></table>
 
 The Naked Earth -voiceless version-（同人专辑，岡垣正志＆フレンズ，2009） - 2009年12月30日 由 岡垣正志＆フレンズ 于 Comic Market 77 发布的Omake同人专辑，分级为 一般向
+
 ## Staff
   
  **Arrangement**   
@@ -31,9 +33,11 @@ Design
 Illustration
 : 画师 （[网址 社团]）
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="The_Naked_Earth_-voiceless_version-" colspan="2" class="title">The Naked Earth -voiceless version-<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=岡垣 “Jill” 正志&amp;ogmusic=月面ツアーへようこそ&amp;fromwiki=The_Naked_Earth_-voiceless_version-"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E5%B2%A1%E5%9E%A3_%E2%80%9CJill%E2%80%9D_%E6%AD%A3%E5%BF%97&amp;action=edit&amp;redlink=1" class="new" title="岡垣 “Jill” 正志（页面不存在）">岡垣 “Jill” 正志</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，岡垣 “Jill” 正志&amp;fromwiki=The_Naked_Earth_-voiceless_version-"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演奏</td><td class="text" colspan="2"><a href="/index.php?title=ANI-Katsu&amp;action=edit&amp;redlink=1" class="new" title="ANI-Katsu（页面不存在）">ANI-Katsu</a>，<a href="/index.php?title=Hiromi_Suzuki&amp;action=edit&amp;redlink=1" class="new" title="Hiromi Suzuki（页面不存在）">Hiromi Suzuki</a></td></tr><tr><td class="left"></td><td class="label">初发布</td><td class="text" colspan="2"><a href="/SCARLET_FANTASIA_IV#2" title="SCARLET FANTASIA IV">The Naked Earth</a><div class="source"><a href="./SCARLET_FANTASIA_IV.md" title="SCARLET FANTASIA IV">SCARLET FANTASIA IV</a></div></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=月面ツアーへようこそ&amp;fromwiki=The_Naked_Earth_-voiceless_version-"><span></span></a></span><div class="ogmusic"><a href="/%E6%9C%88%E9%9D%A2%E3%83%84%E3%82%A2%E3%83%BC%E3%81%B8%E3%82%88%E3%81%86%E3%81%93%E3%81%9D" class="mw-redirect" title="月面ツアーへようこそ">月面ツアーへようこそ</a></div><div class="source"><a href="/%E5%A4%A7%E7%A9%BA%E9%AD%94%E6%9C%AF_%EF%BD%9E_Magical_Astronomy" class="mw-redirect" title="大空魔术 ～ Magical Astronomy">大空魔术　～ Magical Astronomy</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="The_Naked_Earth_-voiceless_version-" colspan="2" class="title">The Naked Earth -voiceless version-<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=岡垣 “Jill” 正志&amp;ogmusic=月面ツアーへようこそ&amp;fromwiki=The_Naked_Earth_-voiceless_version-"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E5%B2%A1%E5%9E%A3_%E2%80%9CJill%E2%80%9D_%E6%AD%A3%E5%BF%97&amp;action=edit&amp;redlink=1" class="new" title="岡垣 “Jill” 正志（页面不存在）">岡垣 “Jill” 正志</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，岡垣 “Jill” 正志&amp;fromwiki=The_Naked_Earth_-voiceless_version-"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演奏</td><td class="text" colspan="2"><a href="/index.php?title=ANI-Katsu&amp;action=edit&amp;redlink=1" class="new" title="ANI-Katsu（页面不存在）">ANI-Katsu</a>，<a href="/index.php?title=Hiromi_Suzuki&amp;action=edit&amp;redlink=1" class="new" title="Hiromi Suzuki（页面不存在）">Hiromi Suzuki</a></td></tr><tr><td class="left"></td><td class="label">初发布</td><td class="text" colspan="2"><a href="/SCARLET_FANTASIA_IV#2" title="SCARLET FANTASIA IV">The Naked Earth</a><div class="source"><a href="./SCARLET_FANTASIA_IV.md" title="SCARLET FANTASIA IV">SCARLET FANTASIA IV</a></div></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=月面ツアーへようこそ&amp;fromwiki=The_Naked_Earth_-voiceless_version-"><span></span></a></span><div class="ogmusic"><a href="./月面ツアーへようこそ.md" class="mw-redirect" title="月面ツアーへようこそ">月面ツアーへようこそ</a></div><div class="source"><a href="./大空魔术_～_Magical_Astronomy.md" class="mw-redirect" title="大空魔术 ～ Magical Astronomy">大空魔术　～ Magical Astronomy</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

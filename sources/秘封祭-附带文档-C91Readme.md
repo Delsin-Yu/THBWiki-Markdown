@@ -10,6 +10,7 @@
 : [日文版](http://omake.thwiki.cc/translate.php?u=秘封祭/附带文档/C91Readme&amp;t=ja)
 : [汉化版](http://omake.thwiki.cc/translate.php?u=秘封祭/附带文档/C91Readme&amp;t=zh)
 
+
 ## 目录
 
 - [1 问候语](#问候语)
@@ -26,10 +27,12 @@
 
 
 
+
 ###### 问候语
 
 
 <table><tbody><tr class="tt-content" id="=-3" data-pos="&#91;&quot;=&quot;,3&#93;"><td class="tt-ja" lang="ja"><div class="poem">■１．挨拶<br><br>　　この度は、当ゲーム「秘封祭」の外伝ゲーム「新興宗教ルート」を手にと<br>　っていただきありがとうございます。<br><br>　　このゲームは、２０１６年の夏に頒布した秘封ノベルメリバゲーム「秘封<br>　祭」の外伝ゲームとなります。諸々の事情で「秘封祭」には収録されなかっ<br>　た、あるひとつの結末です。<br>　『深興宗教秘封倶楽部・召喚ルート』（話：卯月秋千）の続きです。<br><br>　　たぶんいないとは思いますが、もし「秘封祭」をしらない方がいましたら<br>　ぜひメロンブックスなどで手にとって頂けると喜びます。<br></div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr></tbody></table>
+
 
 
 
@@ -40,6 +43,7 @@
 
 
 
+
 ###### Staff
 
 
@@ -47,10 +51,12 @@
 
 
 
+
 ###### 如果还有疑问的话
 
 
 <table><tbody><tr class="tt-content" id="=-9" data-pos="&#91;&quot;=&quot;,9&#93;"><td class="tt-ja" lang="ja"><div class="poem">■４．困ったことがあったら<br><br>　　ホームページはこちら<br>           http://allenemy.fc2web.com/<br>    e-mail allenemy@hotmail.co.jp<br>　　代表者　人比良（四面楚歌）<br><br><br></div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr></tbody></table>
+
 
 
 

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-東方覇天港_～_the_Garden_of_sinners.封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/f/f6/%E6%9D%B1%E6%96%B9%E8%A6%87%E5%A4%A9%E6%B8%AF_%EF%BD%9E_the_Garden_of_sinners.%E5%B0%81%E9%9D%A2.jpg/252px-%E6%9D%B1%E6%96%B9%E8%A6%87%E5%A4%A9%E6%B8%AF_%EF%BD%9E_the_Garden_of_sinners.%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="252" srcset="https://upload.thwiki.cc/thumb/f/f6/%E6%9D%B1%E6%96%B9%E8%A6%87%E5%A4%A9%E6%B8%AF_%EF%BD%9E_the_Garden_of_sinners.%E5%B0%81%E9%9D%A2.jpg/378px-%E6%9D%B1%E6%96%B9%E8%A6%87%E5%A4%A9%E6%B8%AF_%EF%BD%9E_the_Garden_of_sinners.%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/f/f6/%E6%9D%B1%E6%96%B9%E8%A6%87%E5%A4%A9%E6%B8%AF_%EF%BD%9E_the_Garden_of_sinners.%E5%B0%81%E9%9D%A2.jpg/504px-%E6%9D%B1%E6%96%B9%E8%A6%87%E5%A4%A9%E6%B8%AF_%EF%BD%9E_the_Garden_of_sinners.%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1024" data-file-height="1024"></a><div class="cover-char">角色：<a href="./大村守因佐.md" title="大村守因佐">大村守因佐</a></div></td>
@@ -16,6 +17,7 @@
 東方覇天港 ～ the Garden of sinners.（同人专辑，風雲，2020） - 2020年7月3日 由 風雲 于 东方NICO童祭12 发布的全长同人专辑，曲目主要风格是 游戏音乐，分级为 一般向
 
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://booth.pm/zh-cn/items/3586941">Booth</a></td></tr></tbody></table>
+
 
 
 ## Staff
@@ -34,6 +36,7 @@ Illustration
 Guest
 : えばん，こまいぬ，あめん
 
+
 ## 试听
   
 
@@ -49,12 +52,15 @@ Guest
 
 
 
+
 ## 角色
+
 ### 自机
 
 <table><tbody><tr><td align="center" rowspan=""><a rel="nofollow" class="external text" href="https://thwiki.cc/文件:博丽灵梦（霸天港）.png">上传</a></td> <td style="width:150px;padding:3px 9px 3px 7px;" rowspan="">乐园的美妙巫女 </td><td style="width:180px;padding:3px 9px 3px 7px;"><a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></td><td><a href="/index.php?title=%E6%B8%B8%E6%88%8F%E5%AF%B9%E8%AF%9D:%E6%9D%B1%E6%96%B9%E8%A6%87%E5%A4%A9%E6%B8%AF_%EF%BD%9E_the_Garden_of_sinners./%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6&amp;action=edit&amp;redlink=1" class="new" title="游戏对话:東方覇天港 ～ the Garden of sinners./博丽灵梦（页面不存在）">游戏对话/结局</a><br><a href="/index.php?title=%E6%B8%B8%E6%88%8F%E5%AF%B9%E8%AF%9D:%E6%9D%B1%E6%96%B9%E8%A6%87%E5%A4%A9%E6%B8%AF_%EF%BD%9E_the_Garden_of_sinners./%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6_ExStory&amp;action=edit&amp;redlink=1" class="new" title="游戏对话:東方覇天港 ～ the Garden of sinners./博丽灵梦 ExStory（页面不存在）">Extra游戏对话</a></td></tr>
 <tr><td align="center" rowspan=""><a rel="nofollow" class="external text" href="https://thwiki.cc/文件:雾雨魔理沙（霸天港）.png">上传</a></td> <td style="width:150px;padding:3px 9px 3px 7px;" rowspan="">普通至极的魔法使 </td><td style="width:180px;padding:3px 9px 3px 7px;"><a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a></td><td><a href="/index.php?title=%E6%B8%B8%E6%88%8F%E5%AF%B9%E8%AF%9D:%E6%9D%B1%E6%96%B9%E8%A6%87%E5%A4%A9%E6%B8%AF_%EF%BD%9E_the_Garden_of_sinners./%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99&amp;action=edit&amp;redlink=1" class="new" title="游戏对话:東方覇天港 ～ the Garden of sinners./雾雨魔理沙（页面不存在）">游戏对话/结局</a><br><a href="/index.php?title=%E6%B8%B8%E6%88%8F%E5%AF%B9%E8%AF%9D:%E6%9D%B1%E6%96%B9%E8%A6%87%E5%A4%A9%E6%B8%AF_%EF%BD%9E_the_Garden_of_sinners./%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99_ExStory&amp;action=edit&amp;redlink=1" class="new" title="游戏对话:東方覇天港 ～ the Garden of sinners./雾雨魔理沙 ExStory（页面不存在）">Extra游戏对话</a></td></tr>
 <tr><td align="center" rowspan=""><a rel="nofollow" class="external text" href="https://thwiki.cc/文件:十六夜咲夜（霸天港）.png">上传</a></td> <td style="width:150px;padding:3px 9px 3px 7px;" rowspan="">红色恶魔的丫鬟 </td><td style="width:180px;padding:3px 9px 3px 7px;"><a href="/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C" title="十六夜咲夜">十六夜咲夜</a></td><td><a href="/index.php?title=%E6%B8%B8%E6%88%8F%E5%AF%B9%E8%AF%9D:%E6%9D%B1%E6%96%B9%E8%A6%87%E5%A4%A9%E6%B8%AF_%EF%BD%9E_the_Garden_of_sinners./%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C&amp;action=edit&amp;redlink=1" class="new" title="游戏对话:東方覇天港 ～ the Garden of sinners./十六夜咲夜（页面不存在）">游戏对话/结局</a><br><a href="/index.php?title=%E6%B8%B8%E6%88%8F%E5%AF%B9%E8%AF%9D:%E6%9D%B1%E6%96%B9%E8%A6%87%E5%A4%A9%E6%B8%AF_%EF%BD%9E_the_Garden_of_sinners./%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C_ExStory&amp;action=edit&amp;redlink=1" class="new" title="游戏对话:東方覇天港 ～ the Garden of sinners./十六夜咲夜 ExStory（页面不存在）">Extra游戏对话</a></td></tr></tbody></table>
+
 
 
 ### BOSS
@@ -66,6 +72,7 @@ Guest
 <tr> <td class="bg-color-info-10" style="min-width:100px"><b>五面道中</b><br><i><a href="/index.php?title=%E8%A2%AB%E6%96%AD%E7%BB%9D%E7%9A%84%E5%BC%82%E7%95%8C_%EF%BD%9E_Lost_Heaven&amp;action=edit&amp;redlink=1" class="new" title="被断绝的异界 ～ Lost Heaven（页面不存在）">被断绝的异界 ～ Lost Heaven</a></i></td> <td rowspan="2"><div class="center"><div class="floatnone"><a href="./文件-名居抚子.png.md" class="image" title="名居抚子"><img alt="名居抚子" src="https://upload.thwiki.cc/thumb/5/5c/%E5%90%8D%E5%B1%85%E6%8A%9A%E5%AD%90.png/40px-%E5%90%8D%E5%B1%85%E6%8A%9A%E5%AD%90.png" decoding="async" loading="lazy" width="40" height="40" srcset="https://upload.thwiki.cc/thumb/5/5c/%E5%90%8D%E5%B1%85%E6%8A%9A%E5%AD%90.png/60px-%E5%90%8D%E5%B1%85%E6%8A%9A%E5%AD%90.png 1.5x, https://upload.thwiki.cc/thumb/5/5c/%E5%90%8D%E5%B1%85%E6%8A%9A%E5%AD%90.png/80px-%E5%90%8D%E5%B1%85%E6%8A%9A%E5%AD%90.png 2x" data-file-width="1500" data-file-height="1500"></a></div></div></td> <td style="width:150px;padding:3px 9px 3px 7px;" rowspan="2"> 告知风云的童女</td><td style="width:180px;padding:3px 9px 3px 7px;" rowspan="2"> <a href="./名居抚子.md" title="名居抚子">名居抚子</a></td></tr><tr><td class="bg-color-info-10" style="min-width:100px"><b>五面BOSS</b><br><i><a href="/index.php?title=%E7%BB%AF%E5%A4%A9%E8%99%9A%E6%83%B3%E6%9B%B2&amp;action=edit&amp;redlink=1" class="new" title="绯天虚想曲（页面不存在）">绯天虚想曲</a></i></td></tr>
 <tr> <td class="bg-color-info-10" style="min-width:100px"><b>六面道中</b><br><i><a href="/index.php?title=%E6%A2%A6%E6%88%91%E7%9A%84%E5%A2%83%E6%99%BA&amp;action=edit&amp;redlink=1" class="new" title="梦我的境智（页面不存在）">梦我的境智</a></i></td> <td rowspan="2"><div class="center"><div class="floatnone"><a href="./文件-大村守因佐.png.md" class="image" title="大村守因佐"><img alt="大村守因佐" src="https://upload.thwiki.cc/thumb/4/43/%E5%A4%A7%E6%9D%91%E5%AE%88%E5%9B%A0%E4%BD%90.png/40px-%E5%A4%A7%E6%9D%91%E5%AE%88%E5%9B%A0%E4%BD%90.png" decoding="async" loading="lazy" width="40" height="40" srcset="https://upload.thwiki.cc/thumb/4/43/%E5%A4%A7%E6%9D%91%E5%AE%88%E5%9B%A0%E4%BD%90.png/60px-%E5%A4%A7%E6%9D%91%E5%AE%88%E5%9B%A0%E4%BD%90.png 1.5x, https://upload.thwiki.cc/thumb/4/43/%E5%A4%A7%E6%9D%91%E5%AE%88%E5%9B%A0%E4%BD%90.png/80px-%E5%A4%A7%E6%9D%91%E5%AE%88%E5%9B%A0%E4%BD%90.png 2x" data-file-width="1900" data-file-height="1900"></a></div></div></td> <td style="width:150px;padding:3px 9px 3px 7px;" rowspan="2"> 破天荒的雷神</td><td style="width:180px;padding:3px 9px 3px 7px;" rowspan="2"> <a href="./大村守因佐.md" title="大村守因佐">大村守因佐</a></td></tr><tr><td class="bg-color-info-10" style="min-width:100px"><b>六面BOSS</b><br><i><a href="/index.php?title=%E7%9F%A5%E6%99%93%E8%BD%AE%E5%9B%9E%E7%BC%9D%E9%9A%99%E4%B9%8B%E4%BA%BA%E5%95%8A_%EF%BD%9E_Traitor%27s_Requiem&amp;action=edit&amp;redlink=1" class="new" title="知晓轮回缝隙之人啊 ～ Traitor&#39;s Requiem（页面不存在）">知晓轮回缝隙之人啊 ～ Traitor's Requiem</a></i></td></tr>
 <tr> <td class="bg-color-info-10" style="min-width:100px"><b>EX面道中</b><br><i><a href="/index.php?title=%E7%BB%93%E7%95%8C%E5%85%89%E7%8E%AF&amp;action=edit&amp;redlink=1" class="new" title="结界光环（页面不存在）">结界光环</a></i></td> <td rowspan="2"><div class="center"><div class="floatnone"><a href="./文件-茅山绯依.png.md" class="image" title="茅山绯依"><img alt="茅山绯依" src="https://upload.thwiki.cc/thumb/0/0b/%E8%8C%85%E5%B1%B1%E7%BB%AF%E4%BE%9D.png/40px-%E8%8C%85%E5%B1%B1%E7%BB%AF%E4%BE%9D.png" decoding="async" loading="lazy" width="40" height="40" srcset="https://upload.thwiki.cc/thumb/0/0b/%E8%8C%85%E5%B1%B1%E7%BB%AF%E4%BE%9D.png/60px-%E8%8C%85%E5%B1%B1%E7%BB%AF%E4%BE%9D.png 1.5x, https://upload.thwiki.cc/thumb/0/0b/%E8%8C%85%E5%B1%B1%E7%BB%AF%E4%BE%9D.png/80px-%E8%8C%85%E5%B1%B1%E7%BB%AF%E4%BE%9D.png 2x" data-file-width="1500" data-file-height="1500"></a></div></div></td> <td style="width:150px;padding:3px 9px 3px 7px;" rowspan="2"> 焦急等待的日华少女</td><td style="width:180px;padding:3px 9px 3px 7px;" rowspan="2"> <a href="./茅山绯依.md" title="茅山绯依">茅山绯依</a></td></tr><tr><td class="bg-color-info-10" style="min-width:100px"><b>EX面BOSS</b><br><i><a href="/index.php?title=%E6%AE%8B%E7%85%A7%E7%9A%84%E4%B8%8D%E6%AD%BB%E5%B0%91%E5%A5%B3&amp;action=edit&amp;redlink=1" class="new" title="残照的不死少女（页面不存在）">残照的不死少女</a></i></td></tr></tbody></table>
+
 
 
 ## 曲目列表
@@ -92,7 +99,9 @@ Guest
 
 [^cite_note-1]: 角色设定于2022年1月29日投稿的完整版中添加。
 
+
 ## 评论
+
 ## 词条导航
   
   

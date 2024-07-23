@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-下剋上異変シリーズ⑤_Ruthless_Destroyer封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/b/b1/%E4%B8%8B%E5%89%8B%E4%B8%8A%E7%95%B0%E5%A4%89%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%E2%91%A4_Ruthless_Destroyer%E5%B0%81%E9%9D%A2.jpg/139px-%E4%B8%8B%E5%89%8B%E4%B8%8A%E7%95%B0%E5%A4%89%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%E2%91%A4_Ruthless_Destroyer%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="139" height="196" srcset="https://upload.thwiki.cc/thumb/b/b1/%E4%B8%8B%E5%89%8B%E4%B8%8A%E7%95%B0%E5%A4%89%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%E2%91%A4_Ruthless_Destroyer%E5%B0%81%E9%9D%A2.jpg/208px-%E4%B8%8B%E5%89%8B%E4%B8%8A%E7%95%B0%E5%A4%89%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%E2%91%A4_Ruthless_Destroyer%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/b/b1/%E4%B8%8B%E5%89%8B%E4%B8%8A%E7%95%B0%E5%A4%89%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%E2%91%A4_Ruthless_Destroyer%E5%B0%81%E9%9D%A2.jpg/278px-%E4%B8%8B%E5%89%8B%E4%B8%8A%E7%95%B0%E5%A4%89%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%E2%91%A4_Ruthless_Destroyer%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="850" data-file-height="1200"></a><div class="cover-char">角色：<a href="./玛艾露贝莉·赫恩.md" title="玛艾露贝莉·赫恩">玛艾露贝莉·赫恩</a>，<a href="./宇佐见莲子.md" title="宇佐见莲子">宇佐见莲子</a>，<a href="./鬼人正邪.md" title="鬼人正邪">鬼人正邪</a></div></td>
@@ -14,11 +15,13 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/48844222">https://www.pixiv.net/artworks/48844222</a></td></tr></tbody></table>
 
 下剋上異変シリーズ⑤ Ruthless Destroyer（同人志，黒豆屋，2015） - 2015年2月21日 由 黒豆屋 于 境界所见到的外界3 发布的漫画同人志，一共32页，登场人物有 玛艾露贝莉·赫恩、宇佐见莲子、鬼人正邪，分级为 一般向
+
 ## Staff
 Writer
 : カズナ (未找到链接)
 Illustration
 : カズナ (未找到链接)
+
 
 ## 评论
 

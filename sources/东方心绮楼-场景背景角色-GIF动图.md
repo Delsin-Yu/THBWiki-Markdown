@@ -22,6 +22,7 @@
 - 由于GIF格式不支持透明通道，图片边缘阴影、色彩等一些细节将会损失。
 - 拥有翅膀等特殊部件的角色留待以后更新像素绘：露娜切露德（翅膀）、桑尼米尔克（翅膀）、斯塔萨菲雅（翅膀）、琪露诺（翅膀）、妖梦（半灵）、梅露兰·普莉兹姆利巴（小号）、露娜萨·普莉兹姆利巴（小提琴）
 
+
 ## 目录
 
 - [1 博丽神社](#博丽神社)
@@ -71,8 +72,10 @@
 
 
 
+
 ## [博丽神社](./博丽神社.md)
 [](./文件-博丽神社（心绮楼场景）有人物.png.md)  [](./文件-博丽神社（心绮楼场景）有人物.png.md)博丽神社
+
 
 ### 角色
 
@@ -116,6 +119,7 @@
 </tbody></table>
 
 
+
 ### 妖精女仆
 
 <table>
@@ -134,8 +138,10 @@
 </tbody></table>
 
 
+
 ## [人类村落](./人类村落.md)
 [](./文件-人类村落（心绮楼场景）有人物.png.md)  [](./文件-人类村落（心绮楼场景）有人物.png.md)人类村落
+
 
 ### 角色
 
@@ -144,7 +150,7 @@
     <th>角色（11个）</th>
     <th><a href="./本居小铃.md" title="本居小铃">本居小铃</a></th>
     <th><a href="./森近霖之助.md" title="森近霖之助">森近霖之助</a></th>
-    <th><a href="/%E5%9B%A0%E5%B9%A1%E5%A4%A9%E4%B8%BA" class="mw-redirect" title="因幡天为">因幡天为</a></th>
+    <th><a href="./因幡天为.md" class="mw-redirect" title="因幡天为">因幡天为</a></th>
     <th><a href="./八意永琳.md" title="八意永琳">八意永琳</a></th>
     <th><a href="./蓬莱山辉夜.md" title="蓬莱山辉夜">蓬莱山辉夜</a></th>
     <th><a href="./铃仙·优昙华院·因幡.md" title="铃仙·优昙华院·因幡">铃仙·优昙华院·因幡</a></th>
@@ -183,6 +189,7 @@
     <td><a href="./文件-爱丽丝·玛格特洛依德（心绮楼背景像素绘）.gif.md" class="image"><img alt="爱丽丝·玛格特洛依德（心绮楼背景像素绘）.gif" src="https://upload.thwiki.cc/4/4b/%E7%88%B1%E4%B8%BD%E4%B8%9D%C2%B7%E7%8E%9B%E6%A0%BC%E7%89%B9%E6%B4%9B%E4%BE%9D%E5%BE%B7%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.gif" decoding="async" loading="lazy" width="65" height="107" data-file-width="65" data-file-height="107"></a></td>
   </tr>
 </tbody></table>
+
 
 
 ### 村民
@@ -229,6 +236,7 @@
 </tbody></table>
 
 
+
 ## [云上的宝船](./圣辇船.md)
 [](./文件-云上的宝船（心绮楼场景）有人物.png.md)  [](./文件-云上的宝船（心绮楼场景）有人物.png.md)圣辇船
 
@@ -273,8 +281,10 @@
 </tbody></table>
 
 
+
 ## [命莲寺](./命莲寺.md)
 [](./文件-命莲寺（心绮楼场景）有人物.png.md)  [](./文件-命莲寺（心绮楼场景）有人物.png.md)命莲寺
+
 
 ### 角色
 
@@ -306,6 +316,7 @@
 </tbody></table>
 
 
+
 ### 村民
 
 <table>
@@ -324,6 +335,7 @@
     <td><a href="./文件-村民K（心绮楼背景像素绘）.png.md" class="image"><img alt="村民K（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/9/99/%E6%9D%91%E6%B0%91K%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="59" height="117" data-file-width="59" data-file-height="117"></a></td>
   </tr>
 </tbody></table>
+
 
 
 ## [梦殿大祀庙](./梦殿大祀庙（场景）.md)
@@ -376,6 +388,7 @@
 </tbody></table>
 
 
+
 ## [神灵庙](./神灵庙（场景）.md)
 [](./文件-神灵庙（心绮楼场景）有人物.png.md)  [](./文件-神灵庙（心绮楼场景）有人物.png.md)神灵庙
 
@@ -423,8 +436,10 @@
 </tbody></table>
 
 
+
 ## [玄武涧](./玄武涧.md)
 [](./文件-玄武涧（心绮楼场景）有人物.png.md)  [](./文件-玄武涧（心绮楼场景）有人物.png.md)玄武涧
+
 
 ### 角色
 
@@ -465,6 +480,7 @@
 </tbody></table>
 
 
+
 ### 河童
 
 <table>
@@ -489,8 +505,10 @@
 </tbody></table>
 
 
+
 ## [地灵殿](./地灵殿（场景）.md)
 [](./文件-地灵殿（心绮楼场景）有人物.png.md)  [](./文件-地灵殿（心绮楼场景）有人物.png.md)地灵殿
+
 
 ### 角色
 
@@ -520,6 +538,7 @@
     <td><a href="./文件-火焰猫燐（心绮楼背景像素绘）.gif.md" class="image"><img alt="火焰猫燐（心绮楼背景像素绘）.gif" src="https://upload.thwiki.cc/e/e3/%E7%81%AB%E7%84%B0%E7%8C%AB%E7%87%90%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.gif" decoding="async" loading="lazy" width="100" height="123" data-file-width="100" data-file-height="123"></a></td>
   </tr>
 </tbody></table>
+
 
 
 ### 动物
@@ -570,6 +589,7 @@
 </tbody></table>
 
 
+
 ### 其他
 
 <table>
@@ -586,6 +606,7 @@
     <td><a href="./文件-骷髅B（心绮楼背景像素绘）.png.md" class="image"><img alt="骷髅B（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/f/ff/%E9%AA%B7%E9%AB%85B%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="45" height="46" data-file-width="45" data-file-height="46"></a></td>
   </tr>
 </tbody></table>
+
 
 
 ## [妖怪狸森林](./妖怪狸森林.md)
@@ -681,6 +702,7 @@
 </tbody></table>
 
 
+
 ## [妖怪狸森林](./妖怪狸森林.md)（夜）
 [](./文件-妖怪狸森林（心绮楼场景）有人物_夜.png.md)  [](./文件-妖怪狸森林（心绮楼场景）有人物_夜.png.md)妖怪狸森林（夜）
 
@@ -749,6 +771,7 @@
     <td><a href="./文件-狸T（心绮楼背景像素绘）.png.md" class="image"><img alt="狸T（心绮楼背景像素绘）.png" src="https://upload.thwiki.cc/1/19/%E7%8B%B8T%EF%BC%88%E5%BF%83%E7%BB%AE%E6%A5%BC%E8%83%8C%E6%99%AF%E5%83%8F%E7%B4%A0%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="54" height="51" data-file-width="54" data-file-height="51"></a></td>
   </tr>
 </tbody></table>
+
 
 
 ## [人类村落](./人类村落.md)（夜）

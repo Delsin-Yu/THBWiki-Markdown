@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2">无封面</td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.nicovideo.jp/watch/sm33530589">https://www.nicovideo.jp/watch/sm33530589</a></td></tr></tbody></table>
 
 東方新作書籍付属CDを聴いた気になれる動画（同人专辑，ゆずれす，2018） - 2018年7月15日 由 ゆずれす 于 东方NICO童祭10 发布的EP同人专辑，分级为 一般向
+
 ## Staff
   
  **Compose**   
@@ -26,17 +28,20 @@
 <table><tbody><tr><td><a href="./ゆずれす.md" title="ゆずれす">ゆずれす</a></td><td></td><td>Tr.2/3</td></tr></tbody></table>
 
 
+
 ## 试听
   
 <iframe width="100%" height="180" src="https://ext.nicovideo.jp/thumb/sm33530589" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/watch/sm33530589">,</a></iframe>
 
   
 
+
 ## 曲目列表
 
 <table><tbody><tr><td id="1" class="infoYL"><b>01</b></td><td id="終わらぬ夜は38万キロ" colspan="2" class="title">終わらぬ夜は38万キロ<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=ゆずれす&amp;fromwiki=東方新作書籍付属CDを聴いた気になれる動画"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./ゆずれす.md" title="ゆずれす">ゆずれす</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，ゆずれす&amp;fromwiki=東方新作書籍付属CDを聴いた気になれる動画"><span></span></a></span></td></tr>
-<tr><td id="2" class="infoYD"><b>02</b></td><td id="今昔幻想郷_～_Flower_Land" colspan="2" class="title">今昔幻想郷　～ Flower Land<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=ゆずれす&amp;ogmusic=今昔幻想郷　～ Flower Land&amp;fromwiki=東方新作書籍付属CDを聴いた気になれる動画"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./ゆずれす.md" title="ゆずれす">ゆずれす</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，ゆずれす&amp;fromwiki=東方新作書籍付属CDを聴いた気になれる動画"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=今昔幻想郷　～ Flower Land&amp;fromwiki=東方新作書籍付属CDを聴いた気になれる動画"><span></span></a></span><div class="ogmusic"><a href="/%E4%BB%8A%E6%98%94%E5%B9%BB%E6%83%B3%E9%83%B7_%EF%BD%9E_Flower_Land" class="mw-redirect" title="今昔幻想郷 ～ Flower Land">今昔幻想郷　～ Flower Land</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E8%8A%B1%E6%98%A0%E5%A1%9A_%EF%BD%9E_Phantasmagoria_of_Flower_View." class="mw-redirect" title="东方花映塚 ～ Phantasmagoria of Flower View.">东方花映塚　～ Phantasmagoria of Flower View.</a></div></td></tr>
-<tr><td id="3" class="infoYD"><b>03</b></td><td id="ヴォヤージュ1969" colspan="2" class="title">ヴォヤージュ1969<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=ゆずれす&amp;ogmusic=ヴォヤージュ1969&amp;fromwiki=東方新作書籍付属CDを聴いた気になれる動画"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./ゆずれす.md" title="ゆずれす">ゆずれす</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，ゆずれす&amp;fromwiki=東方新作書籍付属CDを聴いた気になれる動画"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=ヴォヤージュ1969&amp;fromwiki=東方新作書籍付属CDを聴いた気になれる動画"><span></span></a></span><div class="ogmusic"><a href="/%E3%83%B4%E3%82%A9%E3%83%A4%E3%83%BC%E3%82%B8%E3%83%A51969" class="mw-redirect" title="ヴォヤージュ1969">ヴォヤージュ1969</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E6%B0%B8%E5%A4%9C%E6%8A%84_%EF%BD%9E_Imperishable_Night." class="mw-redirect" title="东方永夜抄 ～ Imperishable Night.">东方永夜抄　～ Imperishable Night.</a></div></td></tr></tbody></table>
+<tr><td id="2" class="infoYD"><b>02</b></td><td id="今昔幻想郷_～_Flower_Land" colspan="2" class="title">今昔幻想郷　～ Flower Land<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=ゆずれす&amp;ogmusic=今昔幻想郷　～ Flower Land&amp;fromwiki=東方新作書籍付属CDを聴いた気になれる動画"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./ゆずれす.md" title="ゆずれす">ゆずれす</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，ゆずれす&amp;fromwiki=東方新作書籍付属CDを聴いた気になれる動画"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=今昔幻想郷　～ Flower Land&amp;fromwiki=東方新作書籍付属CDを聴いた気になれる動画"><span></span></a></span><div class="ogmusic"><a href="./今昔幻想郷_～_Flower_Land.md" class="mw-redirect" title="今昔幻想郷 ～ Flower Land">今昔幻想郷　～ Flower Land</a></div><div class="source"><a href="./东方花映塚_～_Phantasmagoria_of_Flower_View..md" class="mw-redirect" title="东方花映塚 ～ Phantasmagoria of Flower View.">东方花映塚　～ Phantasmagoria of Flower View.</a></div></td></tr>
+<tr><td id="3" class="infoYD"><b>03</b></td><td id="ヴォヤージュ1969" colspan="2" class="title">ヴォヤージュ1969<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=ゆずれす&amp;ogmusic=ヴォヤージュ1969&amp;fromwiki=東方新作書籍付属CDを聴いた気になれる動画"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./ゆずれす.md" title="ゆずれす">ゆずれす</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，ゆずれす&amp;fromwiki=東方新作書籍付属CDを聴いた気になれる動画"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=ヴォヤージュ1969&amp;fromwiki=東方新作書籍付属CDを聴いた気になれる動画"><span></span></a></span><div class="ogmusic"><a href="./ヴォヤージュ1969.md" class="mw-redirect" title="ヴォヤージュ1969">ヴォヤージュ1969</a></div><div class="source"><a href="./东方永夜抄_～_Imperishable_Night..md" class="mw-redirect" title="东方永夜抄 ～ Imperishable Night.">东方永夜抄　～ Imperishable Night.</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

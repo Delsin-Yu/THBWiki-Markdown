@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Maribel_in_Lotusland_～幻想の国メリー～封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/3/36/Maribel_in_Lotusland_%EF%BD%9E%E5%B9%BB%E6%83%B3%E3%81%AE%E5%9B%BD%E3%83%A1%E3%83%AA%E3%83%BC%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg/224px-Maribel_in_Lotusland_%EF%BD%9E%E5%B9%BB%E6%83%B3%E3%81%AE%E5%9B%BD%E3%83%A1%E3%83%AA%E3%83%BC%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="224" srcset="https://upload.thwiki.cc/thumb/3/36/Maribel_in_Lotusland_%EF%BD%9E%E5%B9%BB%E6%83%B3%E3%81%AE%E5%9B%BD%E3%83%A1%E3%83%AA%E3%83%BC%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg/336px-Maribel_in_Lotusland_%EF%BD%9E%E5%B9%BB%E6%83%B3%E3%81%AE%E5%9B%BD%E3%83%A1%E3%83%AA%E3%83%BC%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/3/36/Maribel_in_Lotusland_%EF%BD%9E%E5%B9%BB%E6%83%B3%E3%81%AE%E5%9B%BD%E3%83%A1%E3%83%AA%E3%83%BC%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="437" data-file-height="437"></a><div class="cover-char">角色：<a href="./玛艾露贝莉·赫恩.md" title="玛艾露贝莉·赫恩">玛艾露贝莉·赫恩</a>，<a href="./宇佐见莲子.md" title="宇佐见莲子">宇佐见莲子</a></div></td>
@@ -14,9 +15,11 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://dreambag.web.fc2.com/c78/c78_01/c78_02.html">http://dreambag.web.fc2.com/c78/c78_01/c78_02.html</a></td></tr></tbody></table>
 
 Maribel in Lotusland ～幻想の国メリー～（同人志，ゆめかばん，2010） - 2010年8月14日 由 ゆめかばん 于 Comic Market 78 发布的小说同人志，A5尺寸一共170页，登场人物有 玛艾露贝莉·赫恩、宇佐见莲子，分级为 一般向
+
 ## Staff
 - A-20 (未找到链接)
 - [みや](./みや.md)
+
 
 ## 评论
 

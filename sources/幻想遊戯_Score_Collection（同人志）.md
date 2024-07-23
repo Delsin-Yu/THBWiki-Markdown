@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-幻想遊戯_Score_Collection（同人志）封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/f/f4/%E5%B9%BB%E6%83%B3%E9%81%8A%E6%88%AF_Score_Collection%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/104px-%E5%B9%BB%E6%83%B3%E9%81%8A%E6%88%AF_Score_Collection%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="104" height="140" srcset="https://upload.thwiki.cc/thumb/f/f4/%E5%B9%BB%E6%83%B3%E9%81%8A%E6%88%AF_Score_Collection%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/157px-%E5%B9%BB%E6%83%B3%E9%81%8A%E6%88%AF_Score_Collection%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/f/f4/%E5%B9%BB%E6%83%B3%E9%81%8A%E6%88%AF_Score_Collection%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/209px-%E5%B9%BB%E6%83%B3%E9%81%8A%E6%88%AF_Score_Collection%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="626" data-file-height="838"></a><div class="cover-char">角色：<a href="./洩矢诹访子.md" title="洩矢诹访子">洩矢诹访子</a></div></td>
@@ -18,12 +19,15 @@
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://marasy8.booth.pm/items/4021755">Booth（限时商品）</a></td></tr></tbody></table>
 
 
+
 ## 预览
+
 ## Staff
 採譜 &amp; 楽譜浄書
 : 星出和宏 （[https://kazuhirohoshide.com/](https://kazuhirohoshide.com/)）
 Illustration &amp; Design
 : さきの新月 (未找到链接) （[Twitter](https://twitter.com/sakino_shingetu)）
+
 
 ## 评论
 

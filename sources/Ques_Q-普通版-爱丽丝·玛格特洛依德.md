@@ -6,11 +6,13 @@
 
 本页是关于东方Project  
  **相关实体周边 (未找到链接)** 的词条
+
 ## 模型信息
 
 <table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 爱丽丝·玛格特洛依德 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>普通版</td></tr><tr><td class="label">角色</td><td><a href="./爱丽丝·玛格特洛依德.md" title="爱丽丝·玛格特洛依德">爱丽丝·玛格特洛依德</a></td></tr><tr><td class="label">原型师</td><td><a href="/index.php?title=%E3%82%B1%E3%83%AD%E3%83%AA%E3%82%BD&amp;action=edit&amp;redlink=1" class="new" title="ケロリソ（页面不存在）">ケロリソ</a></td></tr><tr><td class="label">比例</td><td>1/8</td></tr><tr><td class="label">尺寸</td><td>210mm</td></tr><tr><td class="label">状态</td><td>已发售</td></tr><tr><td class="label">售价</td><td>9400日元</td></tr><tr><td class="label">首发日期</td><td>2011-11-29</td></tr><tr><td class="label">发售方</td><td><a href="/index.php?title=Ques_Q&amp;action=edit&amp;redlink=1" class="new" title="Ques Q（页面不存在）">Ques Q</a></td></tr><tr><td class="label">官网页面</td><td><a rel="nofollow" class="external free" href="http://www.quesq.net/">http://www.quesq.net/</a></td></tr><tr><td class="label">备注</td><td>附送两只人偶</td></tr></tbody></table>
 
 Ques Q/普通版/爱丽丝·玛格特洛依德（周边） - 爱丽丝·玛格特洛依德PVCFigure手办模型
+
 ## 参考图片
 
 

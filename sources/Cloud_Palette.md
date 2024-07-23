@@ -4,7 +4,8 @@
 
 Cloud Palette ，于 2007 年成立，主要制作 同人志 的日本同人社团，主催是 紅薙ようと，当前状态为 休止
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -20,16 +21,20 @@ Cloud Palette ，于 2007 年成立，主要制作 同人志 的日本同人社�
 
 
 
+
 ## 社团信息
 文件:Cloud Palettebanner.jpg (未找到链接)  banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Cloud Palette </td></tr><tr><td><b>主要作品类型</b></td><td>同人志</td></tr><tr><td><b>成立时间</b></td><td>2007</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=%E7%B4%85%E8%96%99%E3%82%88%E3%81%86%E3%81%A8&amp;action=edit&amp;redlink=1" class="new" title="紅薙ようと（页面不存在）">紅薙ようと</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://cloudpalette.ninja-web.net/">http://cloudpalette.ninja-web.net/</a> </td></tr></tbody></table>
 
 Cloud Palette（同人社团，同人志社团） - Cloud Palette ，于 2007 年成立，主要制作 同人志 的日本同人社团，主催是 紅薙ようと，当前状态为 休止
+
 ## 成员名单
 - 紅薙ようと (未找到链接)
 
+
 ## 作品列表
+
 ### 同人志
 真 弾幕無双 A’S 封面图片 (未找到链接)真 弾幕無双 A’S (未找到链接)首发日期：未知 - [](./My_Heart.md)[My Heart](./My_Heart.md)首发日期：2008-04-01 漫画 （一般向） 60&#160;页壊れた時刻 封面图片 (未找到链接)壊れた時刻 (未找到链接)首发日期：未知 - 壊れた時刻 完成版 封面图片 (未找到链接)壊れた時刻 完成版 (未找到链接)首发日期：未知 - [](./ふたりの。.md)[ふたりの。](./ふたりの。.md)首发日期：2009-03-21 （東方不敗小町5 (未找到链接)）漫画 （一般向） 40&#160;页Girls Don’t Cry 封面图片 (未找到链接)Girls Don’t Cry (未找到链接)首发日期：未知 - [](./STEP_BY_STEP.md)[STEP BY STEP](./STEP_BY_STEP.md)首发日期：2009-12-30 （Comic Market 77 (未找到链接)）漫画 （一般向） 44&#160;页[](./蓮の華と寅の仔.md)[蓮の華と寅の仔](./蓮の華と寅の仔.md)首发日期：2010-03-14 （第七回 博麗神社例大祭 (未找到链接)）漫画 （一般向） 48&#160;页まろんぐらっせ 封面图片 (未找到链接)まろんぐらっせ (未找到链接)首发日期：未知 - よるなんかこわくない 封面图片 (未找到链接)よるなんかこわくない (未找到链接)首发日期：未知 - 銀河美少女 封面图片 (未找到链接)銀河美少女 (未找到链接)首发日期：未知 - [](./風邪ひきの魔法使い.md)[風邪ひきの魔法使い](./風邪ひきの魔法使い.md)首发日期：2011-01-23 （東方レジャーランド 1 (未找到链接)）漫画 （一般向） 32&#160;页[](./Re_My_Heart.md)[Re My Heart](./Re_My_Heart.md)首发日期：2011-05-22 （七色魔女の人形舞踏会。1 (未找到链接)）漫画 （一般向） 64&#160;页Lonesome diamonde 上 封面图片 (未找到链接)Lonesome diamonde 上 (未找到链接)首发日期：未知 - sweet dreams. 封面图片 (未找到链接)sweet dreams. (未找到链接)首发日期：未知 - Tomorrow 封面图片 (未找到链接)Tomorrow (未找到链接)首发日期：未知 - アリマリ王国 封面图片 (未找到链接)アリマリ王国 (未找到链接)首发日期：未知 - DELICIOUS Rice 封面图片 (未找到链接)DELICIOUS Rice (未找到链接)首发日期：未知 - またここであいましょう 封面图片 (未找到链接)またここであいましょう (未找到链接)首发日期：未知 - [](./snow_light.md)[snow light](./snow_light.md)首发日期：2012-12-30 （Comic Market 83 (未找到链接)）漫画 （一般向） 32&#160;页アリマリこづくり 封面图片 (未找到链接)アリマリこづくり (未找到链接)首发日期：未知 - Little Sweet Smiles 封面图片 (未找到链接)Little Sweet Smiles (未找到链接)首发日期：未知 - DELICIOUS Rice おかわりっ★ 封面图片 (未找到链接)DELICIOUS Rice おかわりっ★ (未找到链接)首发日期：未知 - 夜想曲 封面图片 (未找到链接)夜想曲 (未找到链接)首发日期：未知 - kiss or kiss? 封面图片 (未找到链接)kiss or kiss? (未找到链接)首发日期：未知 - Shapes of love 封面图片 (未找到链接)Shapes of love (未找到链接)首发日期：未知 - さなえちゃんと保健体育 封面图片 (未找到链接)さなえちゃんと保健体育 (未找到链接)首发日期：未知 - ウッカリビャクレン 封面图片 (未找到链接)ウッカリビャクレン (未找到链接)首发日期：未知 - アリマリ童話 封面图片 (未找到链接)アリマリ童話 (未找到链接)首发日期：未知 - 水着さなえちゃんとおそとでせっくす! 封面图片 (未找到链接)水着さなえちゃんとおそとでせっくす! (未找到链接)首发日期：未知 - ドキドキ泥酔さなえちゃんとストーカー男 封面图片 (未找到链接)ドキドキ泥酔さなえちゃんとストーカー男 (未找到链接)首发日期：未知 - [](./魔法使いの日常.md)[魔法使いの日常](./魔法使いの日常.md)首发日期：2015-05-10 （第十二回 博麗神社例大祭 (未找到链接)）漫画 （一般向）わたしとひみつの儀式しませんか? 封面图片 (未找到链接)わたしとひみつの儀式しませんか? (未找到链接)首发日期：未知 - 早苗ちゃんと路地裏ックス! 封面图片 (未找到链接)早苗ちゃんと路地裏ックス! (未找到链接)首发日期：未知 - 廃屋でオナニーが止められない早苗さん 封面图片 (未找到链接)廃屋でオナニーが止められない早苗さん (未找到链接)首发日期：未知 - 缶詰天狗 封面图片 (未找到链接)缶詰天狗 (未找到链接)首发日期：未知 - [](./アンリアルフォトグラフメモリーズ.md)[アンリアルフォトグラフメモリーズ](./アンリアルフォトグラフメモリーズ.md)首发日期：2019-05-05 （第十六回 博麗神社例大祭 (未找到链接)）画集 （一般向）
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -78,6 +83,7 @@ Cloud Palette（同人社团，同人志社团） - Cloud Palette ，于 2007 �
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 参展信息

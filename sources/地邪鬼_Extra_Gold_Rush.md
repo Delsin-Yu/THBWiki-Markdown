@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-地邪鬼_Extra_Gold_Rush封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/c/c1/%E5%9C%B0%E9%82%AA%E9%AC%BC_Extra_Gold_Rush%E5%B0%81%E9%9D%A2.jpg/140px-%E5%9C%B0%E9%82%AA%E9%AC%BC_Extra_Gold_Rush%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="140" height="196" srcset="https://upload.thwiki.cc/thumb/c/c1/%E5%9C%B0%E9%82%AA%E9%AC%BC_Extra_Gold_Rush%E5%B0%81%E9%9D%A2.jpg/210px-%E5%9C%B0%E9%82%AA%E9%AC%BC_Extra_Gold_Rush%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/c/c1/%E5%9C%B0%E9%82%AA%E9%AC%BC_Extra_Gold_Rush%E5%B0%81%E9%9D%A2.jpg/280px-%E5%9C%B0%E9%82%AA%E9%AC%BC_Extra_Gold_Rush%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="2069" data-file-height="2899"></a><div class="cover-char">角色：<a href="./鬼人正邪.md" title="鬼人正邪">鬼人正邪</a>，<a href="./少名针妙丸.md" title="少名针妙丸">少名针妙丸</a>，<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>，<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a>，<a href="./爱丽丝·玛格特洛依德.md" title="爱丽丝·玛格特洛依德">爱丽丝·玛格特洛依德</a>，<a href="./八云紫.md" title="八云紫">八云紫</a></div></td>
@@ -23,9 +24,12 @@
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://kanesiro.booth.pm/items/663795">Booth</a>，<a rel="nofollow" class="external text" href="http://www.dlsite.com/home/work/=/product_id/RJ210731.html">DLsite</a></td></tr></tbody></table>
 
 
+
 ## 预览
+
 ## Staff
 - かねしろ (未找到链接)
+
 
 ## 评论
 

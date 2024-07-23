@@ -4,6 +4,7 @@
 
 Plain_Asia | 东方永夜抄
 
+
 ## 文件说明
   
 プレインエイジア 东方永夜抄3面Boss上白沢慧音的主题曲MIDI版。由Roland Sound Canvas 88Pro实机录制；MP3采样率44.1KHz，码率192Kbps。  

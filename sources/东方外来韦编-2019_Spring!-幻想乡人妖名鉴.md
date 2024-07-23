@@ -7,6 +7,7 @@
 - 该内容于杂志中页数：034-038
 - 翻译：玄鸟
 
+
 ## 目录
 
 - [1 圣白莲](#圣白莲)
@@ -15,6 +16,7 @@
 - [4 霍青娥&amp;宫古芳香](#霍青娥&amp;宫古芳香)
 - [5 寅丸星&amp;娜兹玲](#寅丸星&amp;娜兹玲)
 - [6 注释](#注释)
+
 
 
 
@@ -32,6 +34,7 @@
 <table><tbody><tr class="tt-content-header" id="圣白莲-10" data-pos="&#91;&quot;\u5723\u767d\u83b2&quot;,10&#93;"><td class="tt-jah" lang="ja"><div class="poem">Comment from ZUN</div></td><td class="tt-zhh" lang="zh"><div class="poem">Comment from ZUN</div></td></tr><tr class="tt-content" id="圣白莲-11" data-pos="&#91;&quot;\u5723\u767d\u83b2&quot;,11&#93;"><td class="tt-ja" lang="ja"><div class="poem">　東方で初のお坊さんキャラです。全くお坊さんらしくないキャラを出そうと思って。見た目はお経以外まったくお坊さんらしくないけど、中身はちゃんとお坊さんしてます。まあお坊さんが魔法使いになっちゃダメだよね。仏教の中でも密教のイメージが強い、仙人に近い感じを意識しています。魔法を唱えるんじゃなくて読経して強くなる、という謎の設定を考えてました。だから効果は物理系。仏教だけに「ブツ」理。</div></td><td class="tt-zh" lang="zh"><div class="poem">　这是东方系列中第一位尼僧角色。我是想设计一个看起来完全不像尼僧的角色的。外表上除了包裹周身的经文外完全没有尼僧的样子，但本质的的确确是个尼僧。不过尼僧变成魔法使是很不妙的事。在佛教里密宗给我的印象也是尤其地深刻，我在设计时有意识地让她更接近于仙人的感觉。并非咏唱魔法而是通过诵经来强化自身，我思考的是这种谜一样的设定。所以她诵经的效果是物理层面的。因为是佛教所以是「物」理<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">1</a></sup>。</div></td></tr></tbody></table>
 
 
+
 ## 丰聪耳神子
 
 <table><tbody><tr class="tt-content-header" id="丰聪耳神子-1" data-pos="&#91;&quot;\u4e30\u806a\u8033\u795e\u5b50&quot;,1&#93;"><td class="tt-jah" lang="ja"><div class="poem">幻想郷人妖名鑑<br><ruby lang="ja"><rb>豊</rb><rp> (</rp><rt>とよ</rt><rp>) </rp></ruby><ruby lang="ja"><rb>聡</rb><rp> (</rp><rt>さと</rt><rp>) </rp></ruby><ruby lang="ja"><rb>耳</rb><rp> (</rp><rt>みみの</rt><rp>) </rp></ruby><ruby lang="ja"><rb>神</rb><rp> (</rp><rt>み</rt><rp>) </rp></ruby><ruby lang="ja"><rb>子</rb><rp> (</rp><rt>こ</rt><rp>) </rp></ruby></div></td><td class="tt-zhh" lang="zh"><div class="poem">幻想乡人妖名鉴<br><a href="./丰聪耳神子.md" title="丰聪耳神子">丰聪耳神子</a></div></td></tr><tr class="tt-content" id="丰聪耳神子-2" data-pos="&#91;&quot;\u4e30\u806a\u8033\u795e\u5b50&quot;,2&#93;"><td class="tt-ja" lang="ja"><div class="poem"><b>種族</b>　　　　　　　　　聖人(※尸解仙)<br><b>活動範囲</b>　　　　　　　自分の仙界、幻想郷<br><b>主な能力</b>　　　　　　　十人の話を同時に聞く事が出来る程度の能力<br><b>活動</b>　　　　　　　　　修業</div></td><td class="tt-zh" lang="zh"><div class="poem"><b>种族</b>　　　　　　　　　圣人（※尸解仙）<br><b>活动范围</b>　　　　　　　自己的仙界、幻想乡<br><b>主要能力</b>　　　　　　　可以同时听清十个人说话程度的能力<br><b>活动</b>　　　　　　　　　修行</div></td></tr></tbody></table>
@@ -43,6 +46,7 @@
 
 
 <table><tbody><tr class="tt-content-header" id="丰聪耳神子-10" data-pos="&#91;&quot;\u4e30\u806a\u8033\u795e\u5b50&quot;,10&#93;"><td class="tt-jah" lang="ja"><div class="poem">Comment from ZUN</div></td><td class="tt-zhh" lang="zh"><div class="poem">Comment from ZUN</div></td></tr><tr class="tt-content" id="丰聪耳神子-11" data-pos="&#91;&quot;\u4e30\u806a\u8033\u795e\u5b50&quot;,11&#93;"><td class="tt-ja" lang="ja"><div class="poem">　元の人物のイメージが強いので、あまりそれを壊さないようにしています。でも仏教の人じゃなくて、日本でなじみの薄い道教の人として出すのが面白いかなって。「心綺楼」でマントを付けたら信長っぽいイメージになったけど（笑）。自分を超人的に見せるという意味では白蓮と似てるけど、神子のほうが超人感があって、登場後もがんばって超人をやってます。仙人たちの中では達観したほうですが、本人は修行中。</div></td><td class="tt-zh" lang="zh"><div class="poem">　原型人物给我的印象很深刻，所以我设计得尽量不要破坏其形象。不过不让其作为佛教势力登场，而是作为和日本联系较浅的道教势力登场我觉得应该会很有趣吧。在「心绮楼」中让她披上了斗篷之后倒是有点信长的风格了（笑）。以超人自居这一点和白莲很像，不过神子有更多的超人感，登场后也一直努力拗着超人的人设。在众多仙人中是属于看淡佛系的类型，不过本人还在不断修行中。</div></td></tr></tbody></table>
+
 
 
 ## 秦心
@@ -58,6 +62,7 @@
 <table><tbody><tr class="tt-content-header" id="秦心-11" data-pos="&#91;&quot;\u79e6\u5fc3&quot;,11&#93;"><td class="tt-jah" lang="ja"><div class="poem">Comment from ZUN</div></td><td class="tt-zhh" lang="zh"><div class="poem">Comment from ZUN</div></td></tr><tr class="tt-content" id="秦心-12" data-pos="&#91;&quot;\u79e6\u5fc3&quot;,12&#93;"><td class="tt-ja" lang="ja"><div class="poem">　無表情キャラなので、ぼーっとしていてお面にのっとられているような、幽霊っぽいイメージでした。結果的に激しい動きをしているけど（笑）。本体がお面なら、被る者が必要だろうってことで人間っぽい部分を用意したんだけど、結局なんなんだろうね。やっぱり霊？　こころのお面は基本は喜怒哀楽の四種で十分なんだけど、「喜」と「楽」って用途が被るよね。その使い分けには悩みました。</div></td><td class="tt-zh" lang="zh"><div class="poem">　因为是无表情角色，所以设想的是一种死气沉沉的被面具凭依一般的，幽灵一样的感觉。但结果是个手舞足蹈动作夸张的角色（笑）。本体是面具的话还是需要盖在一个什么人身上吧，因此用心设计了很像人类的部分，但怎么说呢。还是会像幽灵吧？心的面具基本是喜怒哀乐这四种，不过「喜」和「乐」的功能重叠了。这两者的区别令我烦恼了好一阵。</div></td></tr></tbody></table>
 
 
+
 ## 霍青娥&amp;宫古芳香
 
 <table><tbody><tr class="tt-content-header" id="霍青娥&amp;宫古芳香-1" data-pos="&#91;&quot;\u970d\u9752\u5a25\u0026\u5bab\u53e4\u82b3\u9999&quot;,1&#93;"><td class="tt-jah" lang="ja"><div class="poem">幻想郷人妖名鑑<br><ruby lang="ja"><rb>霍</rb><rp> (</rp><rt>かく</rt><rp>) </rp></ruby><ruby lang="ja"><rb>青</rb><rp> (</rp><rt>せい</rt><rp>) </rp></ruby><ruby lang="ja"><rb>娥</rb><rp> (</rp><rt>が</rt><rp>) </rp></ruby>&amp;<ruby lang="ja"><rb>宮</rb><rp> (</rp><rt>みや</rt><rp>) </rp></ruby><ruby lang="ja"><rb>古</rb><rp> (</rp><rt>こ</rt><rp>) </rp></ruby><ruby lang="ja"><rb>芳</rb><rp> (</rp><rt>よし</rt><rp>) </rp></ruby><ruby lang="ja"><rb>香</rb><rp> (</rp><rt>か</rt><rp>) </rp></ruby></div></td><td class="tt-zhh" lang="zh"><div class="poem">幻想乡人妖名鉴<br><a href="./霍青娥.md" title="霍青娥">霍青娥</a>&amp;<a href="./宫古芳香.md" title="宫古芳香">宫古芳香</a></div></td></tr><tr class="tt-content-header" id="霍青娥&amp;宫古芳香-2" data-pos="&#91;&quot;\u970d\u9752\u5a25\u0026\u5bab\u53e4\u82b3\u9999&quot;,2&#93;"><td class="tt-jah" lang="ja"><div class="poem">壁抜け仙人とキョンシー</div></td><td class="tt-zhh" lang="zh"><div class="poem">凿壁仙人与僵尸</div></td></tr><tr class="tt-content" id="霍青娥&amp;宫古芳香-3" data-pos="&#91;&quot;\u970d\u9752\u5a25\u0026\u5bab\u53e4\u82b3\u9999&quot;,3&#93;"><td class="tt-ja" lang="ja"><div class="poem">　青娥は仙人の中でも邪仙……考えや行いがよろしくないため、天人となる道が閉ざされた存在だ。「東方神霊廟」４面に初登場した際は、豊聡耳神子が眠る霊廟を手駒の宮古芳香とともに守っていて、その後は芳香とともに幻想郷で気ままな生活を続けている。</div></td><td class="tt-zh" lang="zh"><div class="poem">　青娥是仙人中的邪仙……思考和行动都颇为奇诡，因此被关闭了成为的天人的通道。「东方神灵庙」4面初登场的时候，她和身为喽啰的宫古芳香一起守护着丰聪耳神子所沉眠的灵庙，在那之后就和芳香一起在幻想乡过着悠闲自在的生活。</div></td></tr><tr class="tt-content" id="霍青娥&amp;宫古芳香-4" data-pos="&#91;&quot;\u970d\u9752\u5a25\u0026\u5bab\u53e4\u82b3\u9999&quot;,4&#93;"><td class="tt-ja" lang="ja"><div class="poem">　青娥の代表的な能力は、髪に刺した鑿（ノミ）による壁抜けで、だいたいどんなものでも穴を空けて通り抜けられる。この能力に満足した青娥は、ほかの仙術の修業はあまりしていないらしいが、それでも仙人の宿命である地獄からの使者は――自然に反して長すぎる寿命の者への、文字通りの「お迎え」――を１０００年以上の退け続けるだけの確かな実力を備えている。</div></td><td class="tt-zh" lang="zh"><div class="poem">　青娥的代表性能力是，用插在头发里的簪子凿开墙壁，能在大多数东西上开洞自由穿行。青娥对这一能力感到满足，几乎不怎么修行其他的仙术，但她还是有着足以应对仙人宿命中的地狱使者——对违背自然的长生者，前来字面意思上的「迎接」之人——和他们进行1000年以上的渡劫对抗的实实在在的实力的。</div></td></tr><tr class="tt-content" id="霍青娥&amp;宫古芳香-5" data-pos="&#91;&quot;\u970d\u9752\u5a25\u0026\u5bab\u53e4\u82b3\u9999&quot;,5&#93;"><td class="tt-ja" lang="ja"><div class="poem">　もともと興味本位で仙人になった青娥は、自分の力をひけらかすことが目的となっており、見込みのある人間にちょっかいをかけるのが趣味。日本に来たのも、豊聡耳神子に道教を勧めにきたのもそのためである。</div></td><td class="tt-zh" lang="zh"><div class="poem">　青娥曾经是一时兴起而成仙，目的只是为了显摆仙力，也以骚扰自己感兴趣的人类为乐。她来到日本，也正是为了劝诱丰聪耳神子信仰道教。</div></td></tr><tr class="tt-content" id="霍青娥&amp;宫古芳香-6" data-pos="&#91;&quot;\u970d\u9752\u5a25\u0026\u5bab\u53e4\u82b3\u9999&quot;,6&#93;"><td class="tt-ja" lang="ja"><div class="poem">　芳香はキョンシーだ。初登場の「東方神霊廟」３面では霊廟への侵入者を撃退するよう青娥に命じられていた。キョンシーの成りかたにもいくつかあるが、芳香は青娥が日本に来てから道術で作ったキョンシーで、古代日本人の死体をベースにしている。死体が腐り果てれば滅びる定めのキョンシーだが、芳香には防腐の呪がかけられているため主ともども健在である。ただし能が腐っているため意識はなく、額のお札に書かれた青娥の命令に従って行動している。札が外れたときに本来の芳香としての行動原理が現れるというが、その状態の目撃証言は少ない。</div></td><td class="tt-zh" lang="zh"><div class="poem">　芳香则是一只僵尸。在初次登场的「东方神灵庙」3面中她被青娥命令击退想要侵入灵庙的人。将人变成僵尸的方法有很多，芳香则是在青娥来日后被她用道术做成僵尸的，基底是古代日本人的尸体。僵尸在尸体腐烂后便会被消灭，但芳香被施加了防腐之咒因此和她的主人一样神气活现的。不过她的大脑已经腐烂了所以没有什么自我意识，只会按照额头符札上青娥写下的命令行动。如果摘下符札的话应该就会以芳香本来的身份来行动，不过几乎没有这一状态的目击证言。</div></td></tr></tbody></table>
@@ -65,6 +70,7 @@
 
 
 <table><tbody><tr class="tt-content-header" id="霍青娥&amp;宫古芳香-8" data-pos="&#91;&quot;\u970d\u9752\u5a25\u0026\u5bab\u53e4\u82b3\u9999&quot;,8&#93;"><td class="tt-jah" lang="ja"><div class="poem">Comment from ZUN</div></td><td class="tt-zhh" lang="zh"><div class="poem">Comment from ZUN</div></td></tr><tr class="tt-content" id="霍青娥&amp;宫古芳香-9" data-pos="&#91;&quot;\u970d\u9752\u5a25\u0026\u5bab\u53e4\u82b3\u9999&quot;,9&#93;"><td class="tt-ja" lang="ja"><div class="poem">　「神霊廟」は生まれ変わりがテーマだからいままで出てなかった人気キャラのゾンビを出したいな、と思ったのが芳香。道教もテーマだったので、キョンシーにしてね。当初はもっと皮膚の色が悪い予定だったけど、青すぎたので止めました。キョンシーは誰かが操るものなので、仙人の青娥はセット。キョンシーを使う奴がいい仙人のはず無いよねっていう。見た目的には、いちばん仙人っぽいキャラかもしれない。</div></td><td class="tt-zh" lang="zh"><div class="poem">　「神灵庙」的主题是重生所以想要让之前都没有出场过的人气设定丧尸来露个脸，如此就有了芳香。道教也是主题之一，所以就设定成了僵尸。当初是设计成肤色更差的，但画得实在太蓝了就放弃了。僵尸是要有人操纵的所以就和仙人青娥组上了。会操纵僵尸的人应该不是什么正经仙人吧。但从外貌来说，她应该是最有仙人特色的角色了。</div></td></tr></tbody></table>
+
 
 
 ## 寅丸星&amp;娜兹玲

@@ -164,6 +164,7 @@
 [](./文件-THD2寅丸星.png.md)
   
 
+
 ## 目录
 
 - [1 角色定位](#角色定位)
@@ -183,10 +184,12 @@
 
 
 
+
 ## 角色定位
   
 耐久 - 控制 - 先手 - 核心
   
+
 
 ## 技能介绍
 
@@ -787,6 +790,7 @@
 </td></tr></tbody></table>
 
 
+
 ## 天赋树
 
 
@@ -825,6 +829,7 @@
 </td></tr></tbody></table>
 
 
+
 ### 出门装备
   
 [](./文件-THD2练习手套.png.md) [](./文件-THD2练习手套.png.md) [](./文件-THD2练习手套.png.md) [](./文件-THD2神奇蘑菇.png.md)
@@ -832,6 +837,7 @@
   
 使用二技能[](./文件-THD2寅丸星_02.png.md)补刀的同时消耗对方想要上来补刀的少女，由于天生技能[](./文件-THD2寅丸星_天生.png.md)的存在，一般对线血量蓝量会基本处于一个健康的状态
   
+
 
 ### 前期装备
   
@@ -841,6 +847,7 @@
 扇子属性和主动都很适合，两个二技能加一个扇子主动基本就可以收下一波兵，增加刷钱的速度
   
 
+
 ### 核心装备
   
 [](./文件-THD2八云间隙发生器.png.md) [](./文件-THD2火凤凰之翼.png.md) [](./文件-THD2鬼神镣铐.png.md)
@@ -848,6 +855,7 @@
   
 团战放个好大招然后追着对方后排扔技能就完事了
   
+
 
 ### 可选装备
   
@@ -858,6 +866,7 @@
 
 肉与控制
   
+
 
 ## 技能加点
 
@@ -919,6 +928,7 @@
 <td><a href="./文件-DOTA黄点.png.md" class="image" title="+2 全属性"><img alt="+2 全属性" src="https://upload.thwiki.cc/thumb/d/da/DOTA%E9%BB%84%E7%82%B9.png/40px-DOTA%E9%BB%84%E7%82%B9.png" decoding="async" loading="lazy" width="40" height="40" srcset="https://upload.thwiki.cc/thumb/d/da/DOTA%E9%BB%84%E7%82%B9.png/60px-DOTA%E9%BB%84%E7%82%B9.png 1.5x, https://upload.thwiki.cc/thumb/d/da/DOTA%E9%BB%84%E7%82%B9.png/80px-DOTA%E9%BB%84%E7%82%B9.png 2x" data-file-width="128" data-file-height="128"></a></td>
 <td><a href="./文件-THD2天赋树25左.png.md" class="image" title="+2 净化之魔最大能量点数"><img alt="+2 净化之魔最大能量点数" src="https://upload.thwiki.cc/thumb/a/aa/THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%B7%A6.png/40px-THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%B7%A6.png" decoding="async" loading="lazy" width="40" height="40" srcset="https://upload.thwiki.cc/thumb/a/aa/THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%B7%A6.png/60px-THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%B7%A6.png 1.5x, https://upload.thwiki.cc/thumb/a/aa/THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%B7%A6.png/80px-THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%B7%A6.png 2x" data-file-width="103" data-file-height="103"></a>
 </td></tr></tbody></table>
+
 
 
 ## 教学视频

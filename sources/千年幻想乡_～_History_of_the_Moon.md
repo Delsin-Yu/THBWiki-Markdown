@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -44,11 +45,13 @@
 
 
 
+
 ## 基本信息
 
-<table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">千年幻想郷　～ History of the Moon</td></tr><tr><td><b>译名</b></td><td>千年幻想乡 ～ History of the Moon</td></tr><tr><td><b>英文译名</b></td><td>Gensokyo Millennium ~ History of the Moon</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>引用</td></tr><tr><td style="padding-left:15px"><b>原曲</b></td><td><a href="/%E8%93%AC%E8%8E%B1%E4%BC%9D%E8%AA%AC" class="mw-redirect" title="蓬莱伝説">蓬莱伝説</a></td></tr><tr><td style="padding-left:15px"><b>　来源</b></td><td>蓬莱人形　～ Dolls in Pseudo Paradise</td></tr></tbody></table>
+<table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">千年幻想郷　～ History of the Moon</td></tr><tr><td><b>译名</b></td><td>千年幻想乡 ～ History of the Moon</td></tr><tr><td><b>英文译名</b></td><td>Gensokyo Millennium ~ History of the Moon</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>引用</td></tr><tr><td style="padding-left:15px"><b>原曲</b></td><td><a href="./蓬莱伝説.md" class="mw-redirect" title="蓬莱伝説">蓬莱伝説</a></td></tr><tr><td style="padding-left:15px"><b>　来源</b></td><td>蓬莱人形　～ Dolls in Pseudo Paradise</td></tr></tbody></table>
 
 千年幻想乡 ～ History of the Moon（曲目） - 由 ZUN 创作的官方曲目，原名 千年幻想郷　～ History of the Moon
+
 ## 出现作品
 
 <table>
@@ -58,8 +61,11 @@
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 东方永夜抄
+
 #### WAV
   
 WAV版是游戏的原声带。
@@ -74,6 +80,7 @@ WAV版是游戏的原声带。
 </td></tr></tbody></table>
 
 
+
 #### MIDI
   
 MIDI版由Roland Sound Canvas 88Pro实机录音得到。
@@ -83,9 +90,11 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td><a href="./文件-th08_14.mid.md" title="文件:th08 14.mid">th08_14.mid</a></td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th08_14_SC88Pro.mp3.md" title="文件:th08 14 SC88Pro.mp3">th08_14_SC88Pro.mp3</a><br><audio src="https://upload.thwiki.cc/a/ab/th08_14_SC88Pro.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>th08_14.mid</td></tr><tr><td><b>音轨时长</b></td><td>2:50</td></tr></tbody></table>
 
 
+
 ### 东方紫香花
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-TORA-00009_04.mp3.md" title="文件:TORA-00009 04.mp3">TORA-00009_04.mp3</a><br><audio src="https://upload.thwiki.cc/8/85/TORA-00009_04.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track04.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>5:23</td></tr></tbody></table>
+
 
 
 ### 卯酉东海道
@@ -93,7 +102,9 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-hr04_10.mp3.md" title="文件:hr04 10.mp3">hr04_10.mp3</a><br><audio src="https://upload.thwiki.cc/4/4c/hr04_10.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track10.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>5:54</td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 东方永夜抄
 - Music Room (未找到链接)
 
@@ -109,13 +120,17 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
 　　月之都的历史。  
 　　月球的反面有个月之都。有着刚完成的幻想乡没法相比的古老历史。  
 　　这个月之都，现在稍微……
+
 ### 东方紫香花
 - 曲目说明 (未找到链接)
 
 山西利治：这些时，我让なみへい桑帮我弹伴奏吉他和吉他即兴，这次则编了首把吉他甩到正前面的曲子。哎呀，真的是なみへい桑没错。  
 なみへい：这首曲子也极具东方味，有着大陆风格的美妙旋律，所以我想不用软件而是现场演奏吉他会有怎样的氛围呢，不过帮忙改编成了首非常激烈的曲子也请各位务必感受下这种氛围。
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
   
  **千年幻想郷　～ History of the Moon**  千年幻想乡　～ History of the Moon
@@ -137,6 +152,7 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
 - History of the Moon
   - 月的历史。
   - 月之都是在永琳的帮助下建立的[&#91;儚月抄小说第三话&#93;](./东方儚月抄_～_Cage_in_Lunatic_Runagate.-第三话.md)，因此永琳见证了整个月之都的历史。
+
 
 
 ### 二次同人数据

@@ -6,6 +6,7 @@ PT Elex Media Komputindo，股份有限公司
 
 本页是关于东方Project  
  **相关公司会社** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -22,6 +23,7 @@ PT Elex Media Komputindo，股份有限公司
 
 
 - [4 其他说明](#其他说明)
+
 
 
 
@@ -44,7 +46,9 @@ PT Elex Media Komputindo，股份有限公司
 <td style="width:140px"><b>正式名称</b></td><td style="min-width:300px">PT Elex Media Komputindo</td></tr><tr><td><b>公司现状</b></td><td>持续营业中</td></tr><tr><td><b>公司种类</b></td><td>股份有限公司</td></tr><tr><td><b>成立日期</b></td><td>1985年1月25日</td></tr><tr><td><b>本社地址</b></td><td>雅加达首都特区Jl. Palmerah街道西29 - 37 Kompas Gramedia大楼</td></tr><tr><td><b>本社邮编</b></td><td>10270</td></tr><tr><td><b>官网地址</b></td><td><a rel="nofollow" class="external free" href="http://elexdigital.co.id/">http://elexdigital.co.id/</a></td></tr></tbody></table>
 
 Elex Media Komputindo（公司会社） - PT Elex Media Komputindo，股份有限公司
+
 ## 主要刊物
+
 ### 杂志
 - Hanalala
 - Shōnen Star
@@ -54,11 +58,14 @@ Elex Media Komputindo（公司会社） - PT Elex Media Komputindo，股份有�
 - Winnie The Pooh
 - Cars
 
+
 ## 与东方Project的关联
+
 ### 单行本与书籍
 - [东方儚月抄 ～ Silent Sinner in Blue. 上](./东方儚月抄_～_Silent_Sinner_in_Blue..md)（2014年4月16日出版的官方漫画单行本）
 - [东方儚月抄 ～ Silent Sinner in Blue. 中](./东方儚月抄_～_Silent_Sinner_in_Blue..md)（2014年4月16日出版的官方漫画单行本）
 - [东方儚月抄 ～ Silent Sinner in Blue. 底](./东方儚月抄_～_Silent_Sinner_in_Blue..md)（2014年5月21日出版的官方漫画单行本）
+
 
 ## 其他说明
 

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-秘々封々：Sweet封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/f/f9/%E7%A7%98%E3%80%85%E5%B0%81%E3%80%85%EF%BC%9ASweet%E5%B0%81%E9%9D%A2.jpg/161px-%E7%A7%98%E3%80%85%E5%B0%81%E3%80%85%EF%BC%9ASweet%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="161" height="224" srcset="https://upload.thwiki.cc/thumb/f/f9/%E7%A7%98%E3%80%85%E5%B0%81%E3%80%85%EF%BC%9ASweet%E5%B0%81%E9%9D%A2.jpg/242px-%E7%A7%98%E3%80%85%E5%B0%81%E3%80%85%EF%BC%9ASweet%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/f/f9/%E7%A7%98%E3%80%85%E5%B0%81%E3%80%85%EF%BC%9ASweet%E5%B0%81%E9%9D%A2.jpg/323px-%E7%A7%98%E3%80%85%E5%B0%81%E3%80%85%EF%BC%9ASweet%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1530" data-file-height="2122"></a><div class="cover-char">角色：<a href="./玛艾露贝莉·赫恩.md" title="玛艾露贝莉·赫恩">玛艾露贝莉·赫恩</a></div></td>
@@ -14,11 +15,13 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/A_kotiya/status/1368147246156410882">https://twitter.com/A_kotiya/status/1368147246156410882</a></td></tr></tbody></table>
 
 秘々封々：Sweet（同人志，一言芳恩社，2021） - 2021年3月21日 由 一言芳恩社 于 博丽神社例大祭18 发布的小说同人志，文库版尺寸一共32页，登场人物有 宇佐见莲子、玛艾露贝莉·赫恩，分级为 一般向
+
 ## Staff
 Cover Illustration
 : はわ男 （[不定形ロコモコメテオ](./不定形ロコモコメテオ.md)）
 Writing
 : 東風谷アオイ （[一言芳恩社](./一言芳恩社.md)）
+
 
 ## 评论
   

@@ -56,6 +56,7 @@
 <tr><td>符卡原名</td><td>幻技「八方灵缚阵」</td></tr><tr><td>出现位置</td><td>Stage 4A - Lunatic（<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>）</td></tr></tbody></table>
 
 
+
 ## 词条导航
   
   

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Un_color_y_luz封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/e/ec/Un_color_y_luz%E5%B0%81%E9%9D%A2.jpg/119px-Un_color_y_luz%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="119" height="168" srcset="https://upload.thwiki.cc/thumb/e/ec/Un_color_y_luz%E5%B0%81%E9%9D%A2.jpg/179px-Un_color_y_luz%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/e/ec/Un_color_y_luz%E5%B0%81%E9%9D%A2.jpg/239px-Un_color_y_luz%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1000" data-file-height="1406"></a><div class="cover-char">角色：<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/43387949">https://www.pixiv.net/artworks/43387949</a></td></tr></tbody></table>
 
 Un color y luz（同人志，Brisa Marina，2014） - 2014年5月11日 由 Brisa Marina 于 博丽神社例大祭11 发布的绘本同人志，一共8页，分级为 一般向
+
 ## Staff
 - [aji](./aji.md)
+
 
 ## 评论
 

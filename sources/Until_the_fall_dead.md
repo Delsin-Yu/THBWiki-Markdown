@@ -4,8 +4,9 @@
 
 Until the fall dead 在 日本名古屋 举办的  东方同人LIVE活动，目前共举办了2届
 
-本页是关于 **同人展会 (未找到链接)**   
-及 **相关活动 (未找到链接)** 的词条
+本页是关于 **[同人展会](./同人展会.md#展会类活动)**   
+及 **[相关活动](./相关活动.md)** 的词条
+
 ## 目录
 
 - [1 概述](#概述)
@@ -18,6 +19,7 @@ Until the fall dead 在 日本名古屋 举办的  东方同人LIVE活动，目�
 
 
 - [5 注释](#注释)
+
 
 
 
@@ -52,7 +54,7 @@ banner2
   
   
   
-日本 **名古屋** 的东方Project Only **同人拼盘LIVE类活动 (未找到链接)** 。  
+日本 **名古屋** 的东方Project Only **同人拼盘[LIVE类活动](./LIVE类活动.md#LIVE类活动)** 。  
   
 在名古屋举办。  
   
@@ -66,6 +68,7 @@ banner2
 过往官方网站： [https://mitakayuyu.wixsite.com/untilthefalldead](https://mitakayuyu.wixsite.com/untilthefalldead)   
   
 Until the fall dead（活动，LIVE活动） - Until the fall dead 在 日本名古屋 举办的  东方同人LIVE活动，目前共举办了2届
+
 ## 历届信息
 - 点击届数可进入对应分类页面。
 - 举办日期以当地日期为准。
@@ -78,6 +81,7 @@ Until the fall dead（活动，LIVE活动） - Until the fall dead 在 日本名
 </tbody></table>
 
 
+
 ## 演出社团及人员
 Until the fall dead 1
 : [LA KIA](./LA_KIA.md)、[KxFxCx](./KxFxCx.md)、[As Killing your Breakdown](./As_Killing_your_Breakdown.md)、[CLOCKWORKS TRACER](./CLOCKWORKS_TRACER.md)、[Discovering the Place](./Discovering_the_Place.md)、[Mods Crisis∞](./Mods_Crisis_∞.md)
@@ -85,8 +89,10 @@ Until the fall dead 1
 Until the fall dead 2
 : [Adust Rain](./Adust_Rain.md)、[CLOCKWORKS TRACER](./CLOCKWORKS_TRACER.md)、[Environmental Development](./Environmental_Development.md)、[As Killing your Breakdown](./As_Killing_your_Breakdown.md)、[Positive Suicide](./positive_suicide.md)、[The Dust Of Society](./The_Dust_of_Society.md)
 
+
 ## 历届宣传图
 - 网站首页使用的作为顶图或宣传图片的图片。
+
 
 ### 第一届至第二届
 - [](./文件-Until_the_fall_dead插画.jpg.md)第1届- [](./文件-Until_the_fall_dead1插画.jpg.md)第2届

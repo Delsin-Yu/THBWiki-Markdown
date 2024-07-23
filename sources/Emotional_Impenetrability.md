@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Emotional_Impenetrability封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/d/d3/Emotional_Impenetrability%E5%B0%81%E9%9D%A2.jpg/252px-Emotional_Impenetrability%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="252" srcset="https://upload.thwiki.cc/thumb/d/d3/Emotional_Impenetrability%E5%B0%81%E9%9D%A2.jpg/378px-Emotional_Impenetrability%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/d/d3/Emotional_Impenetrability%E5%B0%81%E9%9D%A2.jpg/504px-Emotional_Impenetrability%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1200" data-file-height="1200"></a><div class="cover-char">角色：<a href="./秦心.md" title="秦心">秦心</a></div></td>
@@ -16,6 +17,7 @@
 Emotional Impenetrability（同人专辑，The Last Battalion，2020） - 2020年9月6日 由 The Last Battalion  发布的单曲同人专辑，曲目主要风格是 金属，分级为 一般向
 
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://thelastbattalion.bandcamp.com/track/emotional-impenetrability">bandcamp</a></td></tr></tbody></table>
+
 
 
 ## Staff
@@ -30,6 +32,7 @@ Emotional Impenetrability（同人专辑，The Last Battalion，2020） - 2020�
 <table><tbody><tr><td><a href="/index.php?title=NiGaRi&amp;action=edit&amp;redlink=1" class="new" title="NiGaRi（页面不存在）">NiGaRi</a></td><td><a href="./The_Last_Battalion.md" title="The Last Battalion">The Last Battalion</a></td><td>Tr.1</td></tr></tbody></table>
 
 
+
 ## 试听
 
 <table>
@@ -42,9 +45,11 @@ Emotional Impenetrability（同人专辑，The Last Battalion，2020） - 2020�
 </td></tr></tbody></table>
 
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Emotional_Impenetrability" colspan="2" class="title">Emotional Impenetrability<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=NiGaRi&amp;ogmusic=亡失のエモーション&amp;fromwiki=Emotional_Impenetrability"><span title="搜索相似同人曲"></span></a></span></td><td class="time">05:23</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=NiGaRi&amp;action=edit&amp;redlink=1" class="new" title="NiGaRi（页面不存在）">NiGaRi</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，NiGaRi&amp;fromwiki=Emotional_Impenetrability"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演奏</td><td class="text" colspan="2"><a href="/index.php?title=NiGaRi&amp;action=edit&amp;redlink=1" class="new" title="NiGaRi（页面不存在）">NiGaRi</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=亡失のエモーション&amp;fromwiki=Emotional_Impenetrability"><span></span></a></span><div class="ogmusic"><a href="/%E4%BA%A1%E5%A4%B1%E3%81%AE%E3%82%A8%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3" class="mw-redirect" title="亡失のエモーション">亡失のエモーション</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E5%BF%83%E7%BB%AE%E6%A5%BC_%EF%BD%9E_Hopeless_Masquerade." class="mw-redirect" title="东方心绮楼 ～ Hopeless Masquerade.">东方心绮楼　～ Hopeless Masquerade.</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Emotional_Impenetrability" colspan="2" class="title">Emotional Impenetrability<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=NiGaRi&amp;ogmusic=亡失のエモーション&amp;fromwiki=Emotional_Impenetrability"><span title="搜索相似同人曲"></span></a></span></td><td class="time">05:23</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=NiGaRi&amp;action=edit&amp;redlink=1" class="new" title="NiGaRi（页面不存在）">NiGaRi</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，NiGaRi&amp;fromwiki=Emotional_Impenetrability"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演奏</td><td class="text" colspan="2"><a href="/index.php?title=NiGaRi&amp;action=edit&amp;redlink=1" class="new" title="NiGaRi（页面不存在）">NiGaRi</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=亡失のエモーション&amp;fromwiki=Emotional_Impenetrability"><span></span></a></span><div class="ogmusic"><a href="./亡失のエモーション.md" class="mw-redirect" title="亡失のエモーション">亡失のエモーション</a></div><div class="source"><a href="./东方心绮楼_～_Hopeless_Masquerade..md" class="mw-redirect" title="东方心绮楼 ～ Hopeless Masquerade.">东方心绮楼　～ Hopeless Masquerade.</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

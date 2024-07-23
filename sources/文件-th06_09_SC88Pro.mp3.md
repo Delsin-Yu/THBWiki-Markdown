@@ -4,6 +4,7 @@
 
 Locked_Girl_～_少女密室 | 东方红魔乡
 
+
 ## 文件说明
   
 ラクトガール　～ 少女密室 东方红魔乡4面Bossパチュリー・ノーレッジ的主题曲MIDI版。由Roland Sound Canvas 88Pro实机录制；MP3采样率44.1KHz，码率192Kbps。  

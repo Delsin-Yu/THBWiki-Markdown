@@ -4,7 +4,8 @@
 
 pixel phantom ，于 2002 年成立，主要制作 同人志 的日本同人社团，主催是 榎宮祐，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -20,16 +21,20 @@ pixel phantom ，于 2002 年成立，主要制作 同人志 的日本同人社�
 
 
 
+
 ## 社团信息
 [](./文件-pixel_phantombanner.jpg.md)  [](./文件-pixel_phantombanner.jpg.md)banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> pixel phantom </td></tr><tr><td><b>主要作品类型</b></td><td>同人志</td></tr><tr><td><b>成立时间</b></td><td>2002年</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="./榎宮祐.md" title="榎宮祐">榎宮祐</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://www.ykp2.com/">http://www.ykp2.com/</a> <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><small>（<a rel="nofollow" class="external text" href="https://web.archive.org/web/20161209105216/http://www.ykp2.com/">缓存页面1</a>, <a rel="nofollow" class="external text" href="https://web.archive.org/web/20070323104614/http://www.ykp2.com:80/">缓存页面2</a>）</small></td></tr></tbody></table>
 
 pixel phantom（同人社团，同人志社团） - pixel phantom ，于 2002 年成立，主要制作 同人志 的日本同人社团，主催是 榎宮祐，当前状态为 活动
+
 ## 成员名单
 - [榎宮祐](./榎宮祐.md)
 
+
 ## 作品列表
+
 ### 同人志
 [](./幻想郷デュエット.md)[幻想郷デュエット](./幻想郷デュエット.md)首发日期：2004-12-30 （Comic Market 67 (未找到链接)）漫画 （一般向） 24&#160;页[](./うどんげのしっぽ.md)[うどんげのしっぽ](./うどんげのしっぽ.md)首发日期：2005-03-21 （30周年記念24耐(!?) Comiket Special 4 (未找到链接)）漫画 （一般向） 20&#160;页[](./誰が為例大祭-.md)[誰が為例大祭?](./誰が為例大祭-.md)首发日期：2005-05-04 （第二回 博麗神社例大祭 (未找到链接)）漫画 （一般向）B5&#160;尺寸 20&#160;页[](./幻想郷カルテット.md)[幻想郷カルテット](./幻想郷カルテット.md)首发日期：2005-08-14 （Comic Market 68 (未找到链接)）合同志、​漫画 （一般向）该作品是与 [赤橙](./赤橙.md)、​[Twinkle Snows](./Twinkle_Snows.md)、​[猫のぱらいそ](./猫のぱらいそ.md) 合作创作的B5&#160;尺寸 48&#160;页[](./幻想郷デュエット_2.md)[幻想郷デュエット 2](./幻想郷デュエット_2.md)首发日期：2005-12-30 （Comic Market 69 (未找到链接)）漫画 （一般向）该作品是与 [Twinkle Snows](./Twinkle_Snows.md) 合作创作的[](./東の国の眠らない宴.md)[東の国の眠らない宴](./東の国の眠らない宴.md)首发日期：2006-05-21 （第三回 博麗神社例大祭 (未找到链接)）漫画 （一般向）该作品是与 [CHRONOLOG](./CHRONOLOG.md) 合作创作的 48&#160;页合同志[](./萃月符.md)[萃月符](./萃月符.md)首发日期：2006-12-31 （Comic Market 71 (未找到链接)）漫画 （一般向） 124&#160;页总集编[](./萃月符_廉.md)[萃月符 廉](./萃月符_廉.md)首发日期：2009-08-15 （Comic Market 76 (未找到链接)）漫画 （一般向） 174&#160;页总集编[](./色喰幻想モノクロマティック.md)[色喰幻想モノクロマティック](./色喰幻想モノクロマティック.md)首发日期：2009-08-15 （Comic Market 76 (未找到链接)）画集 （一般向）该作品是与 虹の先 (未找到链接) 合作创作的 98&#160;页合同志[](./To方LOVEる.md)[To方LOVEる](./To方LOVEる.md)首发日期：2010-03-14 （第七回 博麗神社例大祭 (未找到链接)）漫画 （一般向） 44&#160;页[](./ハートキャッチドラキュラ!.md)[ハートキャッチドラキュラ!](./ハートキャッチドラキュラ!.md)首发日期：2010-08-14 （Comic Market 78 (未找到链接)）漫画 （一般向）该作品是与 Eefy (未找到链接) 合作创作的 40&#160;页合同志[](./東方夢間禄_序.md)[東方夢間禄 序](./東方夢間禄_序.md)首发日期：2011-03-13 （第八回 博麗神社例大祭 (未找到链接)）漫画 （一般向） 32&#160;页[](./スターフィッシュ.md)[スターフィッシュ](./スターフィッシュ.md)首发日期：2011-08-13 （Comic Market 80 (未找到链接)）画集 （一般向） 40&#160;页[](./みみみみ.md)[みみみみ](./みみみみ.md)首发日期：2012-08-12 （Comic Market 82 (未找到链接)）画集 （一般向） 34&#160;页
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -64,6 +69,7 @@ pixel phantom（同人社团，同人志社团） - pixel phantom ，于 2002 �
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 参展信息

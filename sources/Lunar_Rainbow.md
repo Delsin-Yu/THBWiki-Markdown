@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -37,11 +38,13 @@
 
 
 
+
 ## 基本信息
 
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">ルナレインボー</td></tr><tr><td><b>译名</b></td><td>Lunar Rainbow</td></tr><tr><td><b>英文译名</b></td><td>Lunar Rainbow</td></tr><tr><td><b>其他译名</b></td><td>月虹</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 Lunar Rainbow（曲目） - 由 ZUN 创作的官方曲目，原名 ルナレインボー
+
 ## 出现作品
 
 <table>
@@ -50,7 +53,9 @@ Lunar Rainbow（曲目） - 由 ZUN 创作的官方曲目，原名 ルナレイ�
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 东方虹龙洞
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th18_12.mp3.md" title="文件:th18 12.mp3">th18_12.mp3</a><br><audio src="https://upload.thwiki.cc/0/03/th18_12.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>BGM\th18_12.wav</td></tr><tr><td><b>BGMForAll</b></td><td><div class="mw-collapsible mw-collapsed">
@@ -59,6 +64,7 @@ Lunar Rainbow（曲目） - 由 ZUN 创作的官方曲目，原名 ルナレイ�
 <div class="mw-collapsible-content">BGM = ルナレインボー, 0x1004CBAC, 0xB1040, 0x100FDBEC, 0x1B09200</div>
 </div>
 </td></tr></tbody></table>
+
 
 
 ### 弹幕狂们的黑市
@@ -71,7 +77,9 @@ Lunar Rainbow（曲目） - 由 ZUN 创作的官方曲目，原名 ルナレイ�
 </td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 东方虹龙洞
 - Music Room (未找到链接)
 
@@ -80,12 +88,16 @@ Lunar Rainbow（曲目） - 由 ZUN 创作的官方曲目，原名 ルナレイ�
 　为恍若幻境的夜空配上了轻快的节奏。  
 　说起来在我小时候，能清晰看见在月光照耀下自己落在地面上的影子。  
 　究竟是因为现在周围变亮了才看不到的呢，还是说这也是妖怪的把戏呢？
+
 ### 弹幕狂们的黑市
 - Music Room (未找到链接)
 
 　再录自《东方虹龙洞》。
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
   
  **ルナレインボー**  Lunar Rainbow
@@ -108,6 +120,7 @@ Lunar Rainbow（曲目） - 由 ZUN 创作的官方曲目，原名 ルナレイ�
 
 
 - [](./文件-月虹景象.jpg.md)月虹景象- [](./文件-月虹市场-月下（虹龙洞六面场景）.jpg.md)月虹市场-月下（虹龙洞六面场景）
+
 
 ### 二次同人数据
 

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Uprooted_collection封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/5/59/Uprooted_collection%E5%B0%81%E9%9D%A2.jpg/80px-Uprooted_collection%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="80" height="112" srcset="https://upload.thwiki.cc/thumb/5/59/Uprooted_collection%E5%B0%81%E9%9D%A2.jpg/120px-Uprooted_collection%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/5/59/Uprooted_collection%E5%B0%81%E9%9D%A2.jpg/160px-Uprooted_collection%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1309" data-file-height="1826"></a><div class="cover-char">角色：<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a></div></td>
@@ -14,11 +15,13 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/yutakasiumai/status/1608315928642727936">https://twitter.com/yutakasiumai/status/1608315928642727936</a></td></tr></tbody></table>
 
 Uprooted collection（同人志，しうまいを継ぐ者，2022） - 2022年12月31日 由 しうまいを継ぐ者 于 Comic Market 101 发布的漫画同人志，分级为 一般向
+
 ## Staff
 Illustration
 : 小出豊 (未找到链接)
 Writer
 : 小出豊 (未找到链接)
+
 
 ## 评论
 

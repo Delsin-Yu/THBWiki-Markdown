@@ -15,6 +15,7 @@
 
   
 
+
 ## 目录
 
 - [1 Google Play 组件](#Google_Play_组件)
@@ -22,6 +23,7 @@
 - [3 Google Pay](#Google_Pay)
 - [4 Android模拟器](#Android模拟器)
 - [5 引继](#引继)
+
 
 
 
@@ -731,6 +733,7 @@ Android TV是适合Android电视使用的版本，Wear OS是适合Wear OS手表�
 
   
 
+
 ## Google Play 商店
   
 Google Play Store是Android系统唯一真正意义上的官方应用商店，地位相当于苹果App Store对于iOS，提供了应用下载更新和正版付费应用购买等服务。此外，部分通过[东方同人音乐流通](./东方同人音乐流通.md)发行了的东方同人音乐也可以在这里试听和购买。使用Google Play 商店需要登录Google账号。  
@@ -816,6 +819,7 @@ Google Play Store是Android系统唯一真正意义上的官方应用商店，�
 除此之外，还有一些问题可能会导致无法换区；这种情况下最简单的解决办法是在其他区重新注册一个谷歌账号。
   
 
+
 ## Google Pay
   
 图省事的话可以直接在某购物平台寻找代充服务，虽然并不十分推荐这么做。  
@@ -831,6 +835,7 @@ Google Play Store是Android系统唯一真正意义上的官方应用商店，�
   
 
 - 自2021年6月起，谷歌公司对于礼品卡充值采取了更严格的限制措施。现除了要求礼品卡货币与账号所在区一致外，用户的IP地址同样需要在目标地区，并且封杀了部分常见的代理IP，购买礼品卡充值时需要更加谨慎。
+
 
 ## Android模拟器
   
@@ -850,6 +855,7 @@ Android 模拟器则是Android Studio的可选功能之一。相比其他第三�
 详见[在 Android 模拟器上运行应用](https://developer.android.com/studio/run/emulator)。  
 
   
+
 
 ## 引继
   

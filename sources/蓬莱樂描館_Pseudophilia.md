@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-蓬莱樂描館_Pseudophilia封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/0/0f/%E8%93%AC%E8%8E%B1%E6%A8%82%E6%8F%8F%E9%A4%A8_Pseudophilia%E5%B0%81%E9%9D%A2.jpg/98px-%E8%93%AC%E8%8E%B1%E6%A8%82%E6%8F%8F%E9%A4%A8_Pseudophilia%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="98" height="140" srcset="https://upload.thwiki.cc/thumb/0/0f/%E8%93%AC%E8%8E%B1%E6%A8%82%E6%8F%8F%E9%A4%A8_Pseudophilia%E5%B0%81%E9%9D%A2.jpg/148px-%E8%93%AC%E8%8E%B1%E6%A8%82%E6%8F%8F%E9%A4%A8_Pseudophilia%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/0/0f/%E8%93%AC%E8%8E%B1%E6%A8%82%E6%8F%8F%E9%A4%A8_Pseudophilia%E5%B0%81%E9%9D%A2.jpg/197px-%E8%93%AC%E8%8E%B1%E6%A8%82%E6%8F%8F%E9%A4%A8_Pseudophilia%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="2039" data-file-height="2894"></a><div class="cover-char">角色：<a href="/%E8%93%AC%E8%8E%B1%E4%BA%BA%E5%BD%A2#封面角色" title="蓬莱人形">蓬莱人形C63版碟面少女</a>，<a href="/%E8%93%AC%E8%8E%B1%E4%BA%BA%E5%BD%A2#封面角色" title="蓬莱人形">蓬莱人形C62版碟面少女</a></div></td>
@@ -14,9 +15,12 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/HyJkl_907/status/1809875157001048376">https://twitter.com/HyJkl_907/status/1809875157001048376</a></td></tr></tbody></table>
 
 蓬莱樂描館 Pseudophilia（同人志，ぼうしやヘンリィ，2024） - 2024年7月15日 由 ぼうしやヘンリィ 于 幺乐团嘉年华！13 发布的画集同人志，一共40页，分级为 一般向
+
 ## 预览
+
 ## Staff
 - Jekyll (未找到链接)
+
 
 ## 评论
 

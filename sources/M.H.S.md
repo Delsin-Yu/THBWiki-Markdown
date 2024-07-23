@@ -4,7 +4,8 @@
 
 M.H.S（Mizonokuchi Hole Studio，溝口ホール工房） ，主要制作 同人音乐 的日本同人社团，主催是 溝口ゆうま，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -15,14 +16,17 @@ M.H.S（Mizonokuchi Hole Studio，溝口ホール工房） ，主要制作 同�
 
 
 
+
 ## 社团信息
 [](./文件-M.H.Sbanner.png.md)  [](./文件-M.H.Sbanner.png.md)banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> M.H.S（Mizonokuchi Hole Studio，溝口ホール工房） </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="./溝口ゆうま.md" title="溝口ゆうま">溝口ゆうま</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://mizohole.psne.jp">http://mizohole.psne.jp</a> </td></tr></tbody></table>
 
 M.H.S（同人社团，同人音乐社团） - M.H.S（Mizonokuchi Hole Studio，溝口ホール工房） ，主要制作 同人音乐 的日本同人社团，主催是 溝口ゆうま，当前状态为 活动
+
 ## 成员名单
 - [溝口ゆうま](./溝口ゆうま.md)
+
 
 ## 作品列表
 [](./Yuma_the_Best_～_溝口ゆうま_東方ゲスト曲集_～.md)[Yuma the Best ～ 溝口ゆうま 東方ゲスト曲集 ～](./Yuma_the_Best_～_溝口ゆうま_東方ゲスト曲集_～.md)首发日期：2013-05-26 （第十回 博麗神社例大祭 (未找到链接)）MHS-001混音集 （一般向）[](./東方飛翔頭～トウホウフライングヘッド～.md)[東方飛翔頭～トウホウフライングヘッド～](./東方飛翔頭～トウホウフライングヘッド～.md)首发日期：2013-08-12 （Comic Market 84 (未找到链接)）MHS-002全长 （一般向）[](./東方課金厨.md)[東方課金厨](./東方課金厨.md)首发日期：2013-12-30 （Comic Market 85 (未找到链接)）MHS-004全长 （一般向）[](./C85_セブンスヘブンMAXION(SHM)_＆_溝口ホール工房(MHS)_会場特典DISK.md)[C85 セブンスヘブンMAXION(SHM) ＆ 溝口ホール工房(MHS) 会場特典DISK](./C85_セブンスヘブンMAXION(SHM)_＆_溝口ホール工房(MHS)_会場特典DISK.md)首发日期：2013-12-30 （Comic Market 85 (未找到链接)）EP （一般向）该作品是与 [セブンスヘブンMAXION](./セブンスヘブンMAXION.md) 合作创作的[](./東方地雷女！_-TOHO_CIRCLE_CLASHEEEEEER-.md)[東方地雷女！ -TOHO CIRCLE CLASHEEEEEER-](./東方地雷女！_-TOHO_CIRCLE_CLASHEEEEEER-.md)首发日期：2014-05-11 （第十一回 博麗神社例大祭 (未找到链接)）MHS-005全长 （一般向）[](./好敵性クォーラル.md)[好敵性クォーラル](./好敵性クォーラル.md)首发日期：2014-05-11 （第十一回 博麗神社例大祭 (未找到链接)）SHMHS-001合作 （一般向）该作品是与 [セブンスヘブンMAXION](./セブンスヘブンMAXION.md) 合作创作的[](./トウホウミュー！.md)[トウホウミュー！](./トウホウミュー！.md)首发日期：2014-08-16 （Comic Market 86 (未找到链接)）MHS-006全长 （一般向）[](./toho_POP_tunes_vol.1.md)[toho POP tunes vol.1](./toho_POP_tunes_vol.1.md)首发日期：2014-12-29 （Comic Market 87 (未找到链接)）MHS-007全长 （一般向）[](./C87会場限定オマケCD.md)[C87会場限定オマケCD](./C87会場限定オマケCD.md)首发日期：2014-12-29 （Comic Market 87 (未找到链接)）Omake （一般向）该作品是与 [セブンスヘブンMAXION](./セブンスヘブンMAXION.md) 合作创作的[](./Harmony_of_Twice.md)[Harmony of Twice](./Harmony_of_Twice.md)首发日期：2015-05-10 （第十二回 博麗神社例大祭 (未找到链接)）AMHS-0001全长 （一般向）该作品是与 [Amateras Records](./Amateras_Records.md) 合作创作的[](./toho_DANCE_tune_vol＿0.5.md)[toho DANCE tune vol＿0.5](./toho_DANCE_tune_vol＿0.5.md)首发日期：2015-08-14 （Comic Market 88 (未找到链接)）MHS-008全长 （一般向）[](./Phase_Transition.md)[Phase Transition](./Phase_Transition.md)首发日期：2016-05-08 （第十三回 博麗神社例大祭 (未找到链接)）AMHS-0002全长、​合作 （一般向）该作品是与 [Amateras Records](./Amateras_Records.md) 合作创作的[](./TOYBOX_Anniversary!!.md)[TOYBOX Anniversary!!](./TOYBOX_Anniversary!!.md)首发日期：2016-12-29 （Comic Market 91 (未找到链接)）MHS-009全长、​精选集 （一般向）该作品是与 [Innocent Key](./Innocent_Key.md) 合作创作的该专辑包含 2 张CD[](./Root_Consciousness.md)[Root Consciousness](./Root_Consciousness.md)首发日期：2017-05-07 （第十四回 博麗神社例大祭 (未找到链接)）MHS-011全长 （一般向）[](./DESIRE（M.H.S）.md)[DESIRE](./DESIRE（M.H.S）.md)首发日期：2019-05-05 （第十六回 博麗神社例大祭 (未找到链接)）EP （一般向）DL card
@@ -56,6 +60,7 @@ M.H.S（同人社团，同人音乐社团） - M.H.S（Mizonokuchi Hole Studio�
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 参展信息

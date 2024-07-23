@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-CYBER_2HU_PS1_AMIGA_MUSIC封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/1/18/CYBER_2HU_PS1_AMIGA_MUSIC%E5%B0%81%E9%9D%A2.png/252px-CYBER_2HU_PS1_AMIGA_MUSIC%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="252" height="252" srcset="https://upload.thwiki.cc/thumb/1/18/CYBER_2HU_PS1_AMIGA_MUSIC%E5%B0%81%E9%9D%A2.png/378px-CYBER_2HU_PS1_AMIGA_MUSIC%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/1/18/CYBER_2HU_PS1_AMIGA_MUSIC%E5%B0%81%E9%9D%A2.png/504px-CYBER_2HU_PS1_AMIGA_MUSIC%E5%B0%81%E9%9D%A2.png 2x" data-file-width="1400" data-file-height="1400"></a><div class="cover-char">角色：<a href="./魂魄妖梦.md" title="魂魄妖梦">魂魄妖梦</a></div></td>
@@ -18,6 +19,7 @@ CYBER 2HU PS1 AMIGA MUSIC（同人专辑，ARC＝SION＝CIRCLE，2021） - 2021�
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://arcsion.bandcamp.com/album/cyber-2hu-ps1-amiga-music">bandcamp</a></td></tr></tbody></table>
 
 
+
 ## Staff
   
  **Compose**   
@@ -25,11 +27,13 @@ CYBER 2HU PS1 AMIGA MUSIC（同人专辑，ARC＝SION＝CIRCLE，2021） - 2021�
 <table><tbody><tr><td><a href="/index.php?title=ARC%EF%BC%9DSION&amp;action=edit&amp;redlink=1" class="new" title="ARC＝SION（页面不存在）">ARC＝SION</a></td><td><a rel="nofollow" class="external text" href="https://twitter.com/arc_sion">Twitter: @arc_sion</a></td><td>Tr.1-3</td></tr></tbody></table>
 
 
+
 ## 曲目列表
 
 <table><tbody><tr><td id="1" class="infoYL"><b>01</b></td><td id="1CC_GENERATION" colspan="2" class="title">1CC GENERATION<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=ARC＝SION&amp;fromwiki=CYBER_2HU_PS1_AMIGA_MUSIC"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:22</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=ARC%EF%BC%9DSION&amp;action=edit&amp;redlink=1" class="new" title="ARC＝SION（页面不存在）">ARC＝SION</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，ARC＝SION&amp;fromwiki=CYBER_2HU_PS1_AMIGA_MUSIC"><span></span></a></span></td></tr>
 <tr><td id="2" class="infoYL"><b>02</b></td><td id="ghost_grrl~" colspan="2" class="title">ghost grrl~<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=ARC＝SION&amp;fromwiki=CYBER_2HU_PS1_AMIGA_MUSIC"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:00</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=ARC%EF%BC%9DSION&amp;action=edit&amp;redlink=1" class="new" title="ARC＝SION（页面不存在）">ARC＝SION</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，ARC＝SION&amp;fromwiki=CYBER_2HU_PS1_AMIGA_MUSIC"><span></span></a></span></td></tr>
 <tr><td id="3" class="infoYL"><b>03</b></td><td id="menu" colspan="2" class="title">menu<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=ARC＝SION&amp;fromwiki=CYBER_2HU_PS1_AMIGA_MUSIC"><span title="搜索相似同人曲"></span></a></span></td><td class="time">02:07</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=ARC%EF%BC%9DSION&amp;action=edit&amp;redlink=1" class="new" title="ARC＝SION（页面不存在）">ARC＝SION</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，ARC＝SION&amp;fromwiki=CYBER_2HU_PS1_AMIGA_MUSIC"><span></span></a></span></td></tr></tbody></table>
+
 
 
 ## 评论

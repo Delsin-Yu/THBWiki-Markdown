@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-地産地消インスト_vol.3封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/2/2b/%E5%9C%B0%E7%94%A3%E5%9C%B0%E6%B6%88%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88_vol.3%E5%B0%81%E9%9D%A2.png/224px-%E5%9C%B0%E7%94%A3%E5%9C%B0%E6%B6%88%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88_vol.3%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="224" height="224" srcset="https://upload.thwiki.cc/thumb/2/2b/%E5%9C%B0%E7%94%A3%E5%9C%B0%E6%B6%88%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88_vol.3%E5%B0%81%E9%9D%A2.png/336px-%E5%9C%B0%E7%94%A3%E5%9C%B0%E6%B6%88%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88_vol.3%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/2/2b/%E5%9C%B0%E7%94%A3%E5%9C%B0%E6%B6%88%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88_vol.3%E5%B0%81%E9%9D%A2.png/448px-%E5%9C%B0%E7%94%A3%E5%9C%B0%E6%B6%88%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88_vol.3%E5%B0%81%E9%9D%A2.png 2x" data-file-width="2067" data-file-height="2067"></a><div class="cover-char">角色：<a href="./玛艾露贝莉·赫恩.md" title="玛艾露贝莉·赫恩">玛艾露贝莉·赫恩</a></div></td>
@@ -16,6 +17,7 @@
 地産地消インスト vol.3（同人专辑，赤螢Clusters，2024） - 2024年6月1日 由 赤螢Clusters 于 梦之世纪 魅知之旅2 发布的单曲同人专辑，分级为 一般向
 
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://fireflycluster.booth.pm/items/5380851">Booth</a></td></tr></tbody></table>
+
 
 
 ## Staff
@@ -30,6 +32,7 @@ Illustration
 Design
 : メガネくん (未找到链接)
 
+
 ## 试听
 
 <table>
@@ -42,10 +45,12 @@ Design
 </td></tr></tbody></table>
 
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="3/4oz" colspan="2" class="title">3/4oz<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=グエン田中&amp;ogmusic=ネクロファンタジア&amp;fromwiki=地産地消インスト_vol.3"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E3%82%B0%E3%82%A8%E3%83%B3%E7%94%B0%E4%B8%AD&amp;action=edit&amp;redlink=1" class="new" title="グエン田中（页面不存在）">グエン田中</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，グエン田中&amp;fromwiki=地産地消インスト_vol.3"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=ネクロファンタジア&amp;fromwiki=地産地消インスト_vol.3"><span></span></a></span><div class="ogmusic"><a href="/%E3%83%8D%E3%82%AF%E3%83%AD%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%82%A2" class="mw-redirect" title="ネクロファンタジア">ネクロファンタジア</a></div><div class="source"><a href="/%E5%A4%A7%E7%A9%BA%E9%AD%94%E6%9C%AF_%EF%BD%9E_Magical_Astronomy" class="mw-redirect" title="大空魔术 ～ Magical Astronomy">大空魔术　～ Magical Astronomy</a></div></td></tr>
-<tr><td id="2" class="infoYD"><b>02</b></td><td id="Light_Rain" colspan="2" class="title">Light Rain<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=グエン田中&amp;ogmusic=他愛も無い二人の博物誌&amp;fromwiki=地産地消インスト_vol.3"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E3%82%B0%E3%82%A8%E3%83%B3%E7%94%B0%E4%B8%AD&amp;action=edit&amp;redlink=1" class="new" title="グエン田中（页面不存在）">グエン田中</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，グエン田中&amp;fromwiki=地産地消インスト_vol.3"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=他愛も無い二人の博物誌&amp;fromwiki=地産地消インスト_vol.3"><span></span></a></span><div class="ogmusic"><a href="/%E4%BB%96%E6%84%9B%E3%82%82%E7%84%A1%E3%81%84%E4%BA%8C%E4%BA%BA%E3%81%AE%E5%8D%9A%E7%89%A9%E8%AA%8C" class="mw-redirect" title="他愛も無い二人の博物誌">他愛も無い二人の博物誌</a></div><div class="source"><a href="/%E7%87%95%E7%9F%B3%E5%8D%9A%E7%89%A9%E5%BF%97_%EF%BD%9E_Dr.Latency%27s_Freak_Report." class="mw-redirect" title="燕石博物志 ～ Dr.Latency&#39;s Freak Report.">燕石博物志　～ Dr.Latency's Freak Report.</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="3/4oz" colspan="2" class="title">3/4oz<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=グエン田中&amp;ogmusic=ネクロファンタジア&amp;fromwiki=地産地消インスト_vol.3"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E3%82%B0%E3%82%A8%E3%83%B3%E7%94%B0%E4%B8%AD&amp;action=edit&amp;redlink=1" class="new" title="グエン田中（页面不存在）">グエン田中</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，グエン田中&amp;fromwiki=地産地消インスト_vol.3"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=ネクロファンタジア&amp;fromwiki=地産地消インスト_vol.3"><span></span></a></span><div class="ogmusic"><a href="./ネクロファンタジア.md" class="mw-redirect" title="ネクロファンタジア">ネクロファンタジア</a></div><div class="source"><a href="./大空魔术_～_Magical_Astronomy.md" class="mw-redirect" title="大空魔术 ～ Magical Astronomy">大空魔术　～ Magical Astronomy</a></div></td></tr>
+<tr><td id="2" class="infoYD"><b>02</b></td><td id="Light_Rain" colspan="2" class="title">Light Rain<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=グエン田中&amp;ogmusic=他愛も無い二人の博物誌&amp;fromwiki=地産地消インスト_vol.3"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E3%82%B0%E3%82%A8%E3%83%B3%E7%94%B0%E4%B8%AD&amp;action=edit&amp;redlink=1" class="new" title="グエン田中（页面不存在）">グエン田中</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，グエン田中&amp;fromwiki=地産地消インスト_vol.3"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=他愛も無い二人の博物誌&amp;fromwiki=地産地消インスト_vol.3"><span></span></a></span><div class="ogmusic"><a href="./他愛も無い二人の博物誌.md" class="mw-redirect" title="他愛も無い二人の博物誌">他愛も無い二人の博物誌</a></div><div class="source"><a href="./燕石博物志_～_Dr.Latency's_Freak_Report..md" class="mw-redirect" title="燕石博物志 ～ Dr.Latency&#39;s Freak Report.">燕石博物志　～ Dr.Latency's Freak Report.</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

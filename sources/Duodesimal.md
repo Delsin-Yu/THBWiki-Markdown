@@ -4,7 +4,8 @@
 
 Duodesimal ，主要制作 同人志，周边 的印度尼西亚同人社团，主催是 izha，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -20,17 +21,21 @@ Duodesimal ，主要制作 同人志，周边 的印度尼西亚同人社团，�
 
 
 
+
 ## 社团信息
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Duodesimal </td></tr><tr><td><b>主要作品类型</b></td><td>同人志，周边</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=izha&amp;action=edit&amp;redlink=1" class="new" title="izha（页面不存在）">izha</a> </td></tr><tr><td><b>地区</b></td><td>印度尼西亚</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="https://www.facebook.com/12seisfleur">https://www.facebook.com/12seisfleur</a> </td></tr></tbody></table>
 
 Duodesimal（同人社团，同人志社团，周边社团） - Duodesimal ，主要制作 同人志，周边 的印度尼西亚同人社团，主催是 izha，当前状态为 活动
+
 ## 成员名单
 - izha (未找到链接)
 
 : [Pixiv ID: 4228672](https://www.pixiv.net/users/4228672), [Twitter: @any_star_](https://twitter.com/any_star_), [Instagram: @izha.12](https://www.instagram.com/izha.12/)
 
+
 ## 作品列表
+
 ### 同人志
 Timur dan Barat 封面图片 (未找到链接)Timur dan Barat (未找到链接)首发日期：未知 - Temukan Aku 封面图片 (未找到链接)Temukan Aku (未找到链接)首发日期：未知 - Korek Api Hitam 封面图片 (未找到链接)Korek Api Hitam (未找到链接)首发日期：未知 - Pengantar Proyek Timur 封面图片 (未找到链接)Pengantar Proyek Timur (未找到链接)首发日期：未知 - Putaran Bulan 封面图片 (未找到链接)Putaran Bulan (未找到链接)首发日期：未知 - Kepingan Nostalgia 封面图片 (未找到链接)Kepingan Nostalgia (未找到链接)首发日期：未知 - Asa, Muara, Dahaga 封面图片 (未找到链接)Asa, Muara, Dahaga (未找到链接)首发日期：未知 - [](./Kyouko_Menyambut_Ramadhan？!.md)[Kyouko Menyambut Ramadhan?!](./Kyouko_Menyambut_Ramadhan？!.md)首发日期：2023-05-07 （Comic Frontier 16 (未找到链接)）漫画 （一般向）A6&#160;尺寸 24&#160;页
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -42,6 +47,7 @@ Timur dan Barat 封面图片 (未找到链接)Timur dan Barat (未找到链接)�
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 参展信息

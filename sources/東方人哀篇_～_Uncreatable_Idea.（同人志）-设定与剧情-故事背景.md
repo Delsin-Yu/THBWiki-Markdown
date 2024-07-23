@@ -9,6 +9,7 @@
 
   
 
+
 ## 目录
 
 - [1 故事背景](#故事背景)
@@ -19,9 +20,11 @@
 
 
 
+
 ## 故事背景
 
 <table><tbody><tr class="tt-content" id="故事背景-1" data-pos="&#91;&quot;\u6545\u4e8b\u80cc\u666f&quot;,1&#93;"><td class="tt-ja" lang="ja"><div class="poem">ある年の春。巫女は暇を持て余していた。<br>異変らしい異変がまったく起こらないのだ。<br>妖怪達は皆やけにやる気が無いばかりか、<br>幻想郷の中を出步くことさえしない。<br>幻想郷を沈黙の春が包んでいた。<br></div></td><td class="tt-zh" lang="zh"><div class="poem">这一年春天，巫女过得十分闲适。<br>完全没有异变要发生的异常迹象。<br>妖怪们全都懒懒散散，毫无干劲，<br>谁也没有在幻想乡里活动。<br>寂静的春天<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">1</a></sup>笼罩着幻想乡。<br></div></td></tr><tr class="tt-content" id="故事背景-2" data-pos="&#91;&quot;\u6545\u4e8b\u80cc\u666f&quot;,2&#93;"><td class="tt-ja" lang="ja"><div class="poem">最初こそ厄介事が減ったと喜んでいた巫女だが、<br>静寂の幻想郷を眺めるうちに<br>だんだんきな臭さを感じ始めた。<br>これは何かとんでもない<br>異変の前触れではないのか？<br>そう考えた巫女は、この<br>「異変が起こらないという異変」の調查のため<br>行動を開始することにする——<br></div></td><td class="tt-zh" lang="zh"><div class="poem">最初，巫女还为麻烦事减少了而欣喜不已，<br>但当她眺望着寂静的幻想乡时，<br>心中渐渐产生了奇怪的感觉。<br>这种什么都没有的现象，<br>或许正是异变发生的征兆？<br>想到这里，巫女决定，<br>为了调查这个“没有异变发生的异变”，<br>她要立即行动起来——<br></div></td></tr></tbody></table>
+
 
 
 ## EX故事背景
@@ -31,6 +34,7 @@
 
 
 [^cite_note-1]: 美国作家蕾切尔·卡逊的作品《寂静的春天》（Silent Spring），指出了农药的滥用和人类活动对于自然环境的危害。这部作品启发了现代环境保护思想的形成。
+
 
 ## 词条导航
   

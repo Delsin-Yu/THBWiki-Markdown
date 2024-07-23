@@ -10,6 +10,7 @@
 本页面用于收录yuke的东方视频作品中出现的自制符卡。
   
 
+
 ## 目录
 
 - [1 东方无问题 星莲船篇](#东方无问题_星莲船篇)
@@ -43,6 +44,7 @@
 
 
 
+
 ## 东方无问题 星莲船篇
 
 <table><tbody><tr><th><b>中文名</b></th><th><b>日文名</b></th><th><b>出现位置</b></th></tr><tr><td style="width:200px">磁符「Magnetism Hunt」（磁力狩猎）<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">1</a></sup></td><td style="width:200px">磁符「マグネティズムハント」</td><td style="width:180px">娜兹玲</td></tr>
@@ -52,6 +54,7 @@
 <tr><td style="width:200px">浸水「船底Diving（下潜）」</td><td style="width:200px">浸水「船底ダイビング」</td><td style="width:180px">村纱水蜜</td></tr>
 <tr><td style="width:200px">神刃「Purification Arch」（净化之拱）<sup id="cite_ref-拱_2-0" class="reference"><a href="#cite_note-拱-2">2</a></sup></td><td style="width:200px">神刃「プリフィケーションアーチ」</td><td style="width:180px">伊诺库（自机符卡）</td></tr>
 <tr><td style="width:200px">欲望「正直者之死」<sup id="cite_ref-正直者之死_3-0" class="reference"><a href="#cite_note-正直者之死-3">3</a></sup></td><td style="width:200px">欲望「正直者の死」</td><td style="width:180px">圣白莲</td></tr></tbody></table>
+
 
 
 ## 东方无问题 地灵殿篇
@@ -69,6 +72,7 @@
 <tr><td style="width:200px">天界奥义「Boost Spell -Arch-」（增强符咒 -拱-）<sup id="cite_ref-拱_2-2" class="reference"><a href="#cite_note-拱-2">2</a></sup></td><td style="width:200px">天界奥義「ブーストスペル　-アーチ-」</td><td style="width:180px">伊诺库（自机符卡）</td></tr></tbody></table>
 
 
+
 ## 东方无问题 风神录篇
 
 <table><tbody><tr><th><b>中文名</b></th><th><b>日文名</b></th><th><b>出现位置</b></th></tr><tr><td style="width:200px">秋符「成果的秋风」</td><td style="width:200px">秋符「成果の秋風」</td><td style="width:180px">秋静叶</td></tr>
@@ -84,11 +88,13 @@
 <tr><td style="width:200px">「众神的制裁」</td><td style="width:200px">「神々の裁き」</td><td style="width:180px">秋静叶&amp;秋穰子&amp;八坂神奈子&amp;洩矢诹访子&amp;伊诺库&amp;路西法（难度SANAE）</td></tr></tbody></table>
 
 
+
 ## 这样的东方才不要呢
 
 <table><tbody><tr><th><b>中文名</b></th><th><b>日文名</b></th><th><b>出现位置</b></th></tr><tr><td style="width:200px">阻符「无人漂流船」</td><td style="width:200px">阻符「無人漂流船」</td><td style="width:180px">村纱水蜜</td></tr>
 <tr><td style="width:200px">水符「Hydro Disturbance」（水能扰动）</td><td style="width:200px">水符「ハイドロディスターバンス」</td><td style="width:180px">河城荷取</td></tr>
 <tr><td style="width:200px">参拜「致外部神的大祈愿」</td><td style="width:200px">参拝「外方の神への大きな祈願」</td><td style="width:180px">洩矢诹访子</td></tr></tbody></table>
+
 
 
 ## 这样的东方也不要呢
@@ -112,6 +118,7 @@ Frost 琪露诺Cannon」（冰之超级无敌正义风暴混沌爆发流星永�
 ーフロストちるのキャノン」</td><td style="width:180px">琪露诺</td></tr></tbody></table>
 
 
+
 ## 这样的东方还是不要呢
 
 <table><tbody><tr><th><b>中文名</b></th><th><b>日文名</b></th><th><b>出现位置</b></th></tr><tr><td style="width:200px">匣符「不可思议Pendulum Box（摆锤盒）」</td><td style="width:200px">匣符「不可思議ペンデュラムボックス」</td><td style="width:180px">娜兹玲</td></tr>
@@ -119,6 +126,7 @@ Frost 琪露诺Cannon」（冰之超级无敌正义风暴混沌爆发流星永�
 <tr><td style="width:200px">刹那「天葬普罗米修斯·改」</td><td style="width:200px">刹那「天葬プロミネンス・改」</td><td style="width:180px">灵乌路空</td></tr>
 <tr><td style="width:200px">雾幻「龙神轰帝魔苍刃」</td><td style="width:200px">霧幻「龍神轟帝魔蒼刄」</td><td style="width:180px">灵乌路空</td></tr>
 <tr><td style="width:200px">格言「在这个幻想乡不能被常识所束缚！（颜文字）By东风谷早苗」<sup id="cite_ref-常识_11-5" class="reference"><a href="#cite_note-常识-11">11</a></sup><sup id="cite_ref-13" class="reference"><a href="#cite_note-13">13</a></sup></td><td style="width:200px">格言「この幻想郷では常識に囚われてはいけないのですね！（顔文字）By東風谷 早苗」</td><td style="width:180px">东风谷早苗</td></tr></tbody></table>
+
 
 
 ## 这样Lunatic的东方才不要呢
@@ -132,10 +140,12 @@ Frost 琪露诺Cannon」（冰之超级无敌正义风暴混沌爆发流星永�
 <tr><td style="width:200px">悖乱剣「拔刀断裂」<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">16</a></sup></td><td style="width:200px">悖乱剣「抜刀断裂」</td><td style="width:180px">魂魄妖梦</td></tr></tbody></table>
 
 
+
 ## 这样Phantasm的东方才不要呢
 
 <table><tbody><tr><th><b>中文名</b></th><th><b>日文名</b></th><th><b>出现位置</b></th></tr><tr><td style="width:200px">大喝「云居一轮巨眼」</td><td style="width:200px">大喝「雲居一輪大目玉」</td><td style="width:180px">云居一轮</td></tr>
 <tr><td style="width:200px">大魔法「魔人的制裁」</td><td style="width:200px">大魔法「魔人の裁き」</td><td style="width:180px">圣白莲</td></tr></tbody></table>
+
 
 
 ## 妖怪大战争BOSS RUSH
@@ -160,6 +170,7 @@ Frost 琪露诺Cannon」（冰之超级无敌正义风暴混沌爆发流星永�
 <tr><td style="width:200px">禁忌「只是个迷宫」<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">22</a></sup></td><td style="width:200px">禁忌「ただの迷路」</td><td style="width:180px">芙兰朵露·斯卡雷特</td></tr>
 <tr><td style="width:200px">未知「未知的（大量模糊的乱码）」<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">23</a></sup></td><td style="width:200px">正体不明「正体不明の（大量のぼかした文字化け）」</td><td style="width:180px">封兽鵺</td></tr>
 <tr><td style="width:200px">「冰精大战争」<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">24</a></sup></td><td style="width:200px">「氷精大戦争」</td><td style="width:180px">琪露诺</td></tr></tbody></table>
+
 
 
 ## 妖怪大战争AFTER STORY
@@ -188,6 +199,7 @@ Frost 琪露诺Cannon」（冰之超级无敌正义风暴混沌爆发流星永�
 <tr><td style="width:200px">「光之三妖精」</td><td style="width:200px">「光の三妖精」</td><td style="width:180px">三月精</td></tr></tbody></table>
 
 
+
 ## 与琪露诺一起学习的东方弹幕讲座 第二回
 
 <table><tbody><tr><th><b>中文名</b></th><th><b>日文名</b></th><th><b>出现位置</b></th></tr><tr><td style="width:200px">魔光「Stellar Association」（星协）</td><td style="width:200px">魔光「ステラアソシエーション」</td><td style="width:180px">雾雨魔理沙</td></tr>
@@ -197,9 +209,11 @@ Frost 琪露诺Cannon」（冰之超级无敌正义风暴混沌爆发流星永�
 <tr><td style="width:200px">「Supernova」（超新星）</td><td style="width:200px">「スーパーノヴァ」</td><td style="width:180px">雾雨魔理沙</td></tr></tbody></table>
 
 
+
 ## 铳击「Tiro Finale」
 
 <table><tbody><tr><th><b>中文名</b></th><th><b>日文名</b></th><th><b>出现位置</b></th></tr><tr><td style="width:200px">铳击「Tiro Finale」（最后一击）<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">31</a></sup></td><td style="width:200px">銃撃「ティロ・フィナーレ」</td><td style="width:180px">巴麻美</td></tr></tbody></table>
+
 
 
 ## 东方中二庙 ～ Black History.
@@ -217,6 +231,7 @@ Frost 琪露诺Cannon」（冰之超级无敌正义风暴混沌爆发流星永�
 <tr><td style="width:200px">「轮回转生Paradigm Shift（范式转变）」<sup id="cite_ref-英文汉字夹杂_37-3" class="reference"><a href="#cite_note-英文汉字夹杂-37">37</a></sup></td><td style="width:200px">「輪廻転生パラダイムシフト」</td><td style="width:180px">丰聪耳神子</td></tr></tbody></table>
 
 
+
 ## 东方初见杀 ～ Unreasonable Mechanism.
 
 <table><tbody><tr><th><b>中文名</b></th><th><b>日文名</b></th><th><b>出现位置</b></th></tr><tr><td style="width:200px">日符「Little Prominence」（小型日珥）<sup id="cite_ref-初见杀道中_38-0" class="reference"><a href="#cite_note-初见杀道中-38">38</a></sup></td><td style="width:200px">日符「リトルプロミネンス」</td><td style="width:180px">桑妮米尔克</td></tr>
@@ -227,6 +242,7 @@ Frost 琪露诺Cannon」（冰之超级无敌正义风暴混沌爆发流星永�
 <tr><td style="width:200px">光符「Impulsive Shoot」（脉冲型射击）</td><td style="width:200px">光符「インパルシブシュート」</td><td style="width:180px">雾雨魔理沙</td></tr>
 <tr><td style="width:200px">壁符「Great Wall」（星系巨墙）<sup id="cite_ref-41" class="reference"><a href="#cite_note-41">41</a></sup></td><td style="width:200px">壁符「グレートウォール」</td><td style="width:180px">雾雨魔理沙</td></tr>
 <tr><td style="width:200px">「Supernova」（超新星）</td><td style="width:200px">「スーパーノヴァ」</td><td style="width:180px">雾雨魔理沙</td></tr></tbody></table>
+
 
 
 ## 东方弹幕All Star
@@ -303,6 +319,7 @@ Frost 琪露诺Cannon」（冰之超级无敌正义风暴混沌爆发流星永�
 <tr><td style="width:200px">「幻想乡之境」<sup id="cite_ref-幻想之境_48-1" class="reference"><a href="#cite_note-幻想之境-48">48</a></sup></td><td style="width:200px">「幻想郷の境」</td><td style="width:180px">八云紫</td></tr></tbody></table>
 
 
+
 ## 东方风神录 AFTER EXTRA
 
 <table><tbody><tr><th><b>中文名</b></th><th><b>日文名</b></th><th><b>出现位置</b></th></tr><tr><td style="width:200px">标符「Unlimited Control」（无限控制）<sup id="cite_ref-79" class="reference"><a href="#cite_note-79">79</a></sup></td><td style="width:200px">標符「アンリミテツドコントロール」</td><td style="width:180px">河城见取</td></tr>
@@ -319,6 +336,7 @@ Frost 琪露诺Cannon」（冰之超级无敌正义风暴混沌爆发流星永�
 <tr><td style="width:200px">幻想「Anti-gravity Fall」（反重力瀑布）</td><td style="width:200px">幻想「アンチグラビティフォール」</td><td style="width:180px">河城荷取</td></tr>
 <tr><td style="width:200px">「几何学纹样的空隙」<sup id="cite_ref-83" class="reference"><a href="#cite_note-83">83</a></sup></td><td style="width:200px">「幾何学模様の空隙」</td><td style="width:180px">河城荷取</td></tr>
 <tr><td style="width:200px">「最终武器荷取」<sup id="cite_ref-84" class="reference"><a href="#cite_note-84">84</a></sup></td><td style="width:200px">「最終兵器にとり」</td><td style="width:180px">河城荷取</td></tr></tbody></table>
+
 
 
 ## 东方星莲船 AFTER EXTRA
@@ -338,6 +356,7 @@ Frost 琪露诺Cannon」（冰之超级无敌正义风暴混沌爆发流星永�
 <tr><td style="width:200px">神拳「入道百裂拳」<sup id="cite_ref-89" class="reference"><a href="#cite_note-89">89</a></sup></td><td style="width:200px">神拳「入道百裂拳」</td><td style="width:180px">云山</td></tr></tbody></table>
 
 
+
 ## 东方辉针城 AFTER EXTRA
 
 <table><tbody><tr><th><b>中文名</b></th><th><b>日文名</b></th><th><b>出现位置</b></th></tr><tr><td style="width:200px">逆符「翻天覆地」</td><td style="width:200px">逆符「回天同地」</td><td style="width:180px">鬼人正邪</td></tr>
@@ -353,6 +372,7 @@ Frost 琪露诺Cannon」（冰之超级无敌正义风暴混沌爆发流星永�
 <tr><td style="width:200px">束缚「Double Bind」（进退两难的困境）<sup id="cite_ref-安徒生_93-0" class="reference"><a href="#cite_note-安徒生-93">93</a></sup></td><td style="width:200px">束縛「ダブルバインド」</td><td style="width:180px">若鹭姬</td></tr>
 <tr><td style="width:200px">「梦幻的漩涡之中」</td><td style="width:200px">「夢幻の渦中」</td><td style="width:180px">若鹭姬</td></tr>
 <tr><td style="width:200px">「Radical Mermaid」（激进的人鱼）</td><td style="width:200px">「ラジカルマーメイド」</td><td style="width:180px">若鹭姬</td></tr></tbody></table>
+
 
 
 ## 东方若鹭姬
@@ -373,6 +393,7 @@ Frost 琪露诺Cannon」（冰之超级无敌正义风暴混沌爆发流星永�
 <tr><td style="width:200px">「Sidereal Linea」（恒星流线）</td><td style="width:200px">「サイデリアルリネア」</td><td style="width:180px">雾雨魔理沙</td></tr></tbody></table>
 
 
+
 ## 东方辉针城 AFTER EXTRA PLUS
 
 <table><tbody><tr><th><b>中文名</b></th><th><b>日文名</b></th><th><b>出现位置</b></th></tr><tr><td style="width:200px">逆符「翻天覆地的奇妙」</td><td style="width:200px">逆符「回天同地の面妖」</td><td style="width:180px">鬼人正邪</td></tr>
@@ -388,6 +409,7 @@ Frost 琪露诺Cannon」（冰之超级无敌正义风暴混沌爆发流星永�
 <tr><td style="width:200px">束缚「愿望的代价」<sup id="cite_ref-安徒生_93-1" class="reference"><a href="#cite_note-安徒生-93">93</a></sup></td><td style="width:200px">束縛「願いの代償」</td><td style="width:180px">若鹭姬</td></tr>
 <tr><td style="width:200px">「梦幻的漩涡」</td><td style="width:200px">「夢幻の渦」</td><td style="width:180px">若鹭姬</td></tr>
 <tr><td style="width:200px">「你给我变成鱼吧！」<sup id="cite_ref-99" class="reference"><a href="#cite_note-99">99</a></sup></td><td style="width:200px">「お前がお鱼になあれ」</td><td style="width:180px">若鹭姬</td></tr></tbody></table>
+
 
 
 ## 辉针城弹幕 BOSS RUSH
@@ -414,6 +436,7 @@ Frost 琪露诺Cannon」（冰之超级无敌正义风暴混沌爆发流星永�
 <tr><td style="width:200px">「宝力的循环」<sup id="cite_ref-108" class="reference"><a href="#cite_note-108">108</a></sup></td><td style="width:200px">「宝力の循環」</td><td style="width:180px">少名针妙丸</td></tr></tbody></table>
 
 
+
 ## 绀珠传弹幕 BOSS RUSH
 
 <table><tbody><tr><th><b>中文名</b></th><th><b>日文名</b></th><th><b>出现位置</b></th></tr><tr><td style="width:200px">狙符「Cryptic Snipe」（隐藏狙击）</td><td style="width:200px">狙符「クリプティックスナイプ」</td><td style="width:180px">清兰</td></tr>
@@ -438,12 +461,14 @@ Frost 琪露诺Cannon」（冰之超级无敌正义风暴混沌爆发流星永�
 <tr><td style="width:200px">「纯粹的知情意」<sup id="cite_ref-119" class="reference"><a href="#cite_note-119">119</a></sup></td><td style="width:200px">「純然たる知情意」</td><td style="width:180px">纯狐</td></tr></tbody></table>
 
 
+
 ## 东方兽友达
 
 <table><tbody><tr><th><b>中文名</b></th><th><b>日文名</b></th><th><b>出现位置</b></th></tr><tr><td style="width:200px">爪符「Savanna Clow」（热带稀树草原之爪）<sup id="cite_ref-120" class="reference"><a href="#cite_note-120">120</a></sup></td><td style="width:200px">爪符「サバンナクロー」</td><td style="width:180px">薮猫</td></tr>
 <tr><td style="width:200px">怪音「Havoc Song」（骚动之歌）<sup id="cite_ref-121" class="reference"><a href="#cite_note-121">121</a></sup></td><td style="width:200px">怪音「ハボックソンク」</td><td style="width:180px">朱鹮</td></tr>
 <tr><td style="width:200px">双狩「Silent Hunting」（无声狩猎）<sup id="cite_ref-122" class="reference"><a href="#cite_note-122">122</a></sup></td><td style="width:200px">双狩「サイレントハンティング」</td><td style="width:180px">白脸角鸮&amp;雕鸮</td></tr>
 <tr><td style="width:200px">洗符「弹幕Wash（清洗）」<sup id="cite_ref-123" class="reference"><a href="#cite_note-123">123</a></sup></td><td style="width:200px">洗符「弾幕ウォッシュ」</td><td style="width:180px">耳廓狐&amp;浣熊</td></tr></tbody></table>
+
 
 
 ## 若鹭姬 BOSS RUSH
@@ -461,6 +486,7 @@ Frost 琪露诺Cannon」（冰之超级无敌正义风暴混沌爆发流星永�
 <tr><td style="width:200px">活捕「鱼类捕捉结界」</td><td style="width:200px">生捕「魚類捕縛结界」</td><td style="width:180px">博丽灵梦</td></tr>
 <tr><td style="width:200px">灵玉「灵异的神妙」<sup id="cite_ref-125" class="reference"><a href="#cite_note-125">125</a></sup></td><td style="width:200px">霊玉「霊異の神妙」</td><td style="width:180px">博丽灵梦</td></tr>
 <tr><td style="width:200px">「梦穷跳跃」<sup id="cite_ref-梦穷跳跃_78-1" class="reference"><a href="#cite_note-梦穷跳跃-78">78</a></sup></td><td style="width:200px">「夢窮跳躣」</td><td style="width:180px">博丽灵梦</td></tr></tbody></table>
+
 
 
 ## 天空璋弹幕 BOSS RUSH
@@ -485,6 +511,7 @@ Frost 琪露诺Cannon」（冰之超级无敌正义风暴混沌爆发流星永�
 <tr><td style="width:200px">里符「四季应时的弹幕」<sup id="cite_ref-140" class="reference"><a href="#cite_note-140">140</a></sup></td><td style="width:200px">裏符「四季折々の弾幕」</td><td style="width:180px">摩多罗隐岐奈</td></tr>
 <tr><td style="width:200px">「联结表里的神扉」<sup id="cite_ref-141" class="reference"><a href="#cite_note-141">141</a></sup></td><td style="width:200px">「表と裏を繋ぐ神扉」</td><td style="width:180px">摩多罗隐岐奈</td></tr>
 <tr><td style="width:200px">「一心三观的天秤」<sup id="cite_ref-142" class="reference"><a href="#cite_note-142">142</a></sup></td><td style="width:200px">「一心三觀の天秤」</td><td style="width:180px">丁礼田舞&amp;尔子田里乃&amp;摩多罗隐岐奈</td></tr></tbody></table>
+
 
 
 ## 东方金阁寺 ～ Kinkaku-ji and Biased Empathy.

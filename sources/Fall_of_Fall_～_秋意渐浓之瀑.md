@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -34,11 +35,13 @@
 
 
 
+
 ## 基本信息
 
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">フォールオブフォール　～ 秋めく滝</td></tr><tr><td><b>译名</b></td><td>Fall of Fall ～ 秋意渐浓之瀑</td></tr><tr><td><b>英文译名</b></td><td>Fall of Fall ~ Autumnal Waterfall</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 Fall of Fall ～ 秋意渐浓之瀑（曲目） - 由 ZUN 创作的官方曲目，原名 フォールオブフォール　～ 秋めく滝
+
 ## 出现作品
 
 <table>
@@ -46,7 +49,9 @@ Fall of Fall ～ 秋意渐浓之瀑（曲目） - 由 ZUN 创作的官方曲目�
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 东方风神录
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th10_08.mp3.md" title="文件:th10 08.mp3">th10_08.mp3</a><br><audio src="https://upload.thwiki.cc/0/08/th10_08.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>BGM\th10_08.wav</td></tr><tr><td><b>BGMForAll</b></td><td><div class="mw-collapsible mw-collapsed">
@@ -57,7 +62,9 @@ Fall of Fall ～ 秋意渐浓之瀑（曲目） - 由 ZUN 创作的官方曲目�
 </td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 东方风神录
 - Music Room (未找到链接)
 
@@ -67,8 +74,11 @@ Fall of Fall ～ 秋意渐浓之瀑（曲目） - 由 ZUN 创作的官方曲目�
 　东方每一次给人感觉都很阴暗，这次试着营造了  
 　使人有拨云见日之感的曲子，觉得如何呢？  
 　秋天的瀑布。我认为与瀑布最相得益彰的莫过秋天了。
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
   
  **フォールオブフォール　～ 秋めく滝**  Fall of Fall　～ 秋意渐浓之瀑
@@ -92,6 +102,7 @@ Fall of Fall ～ 秋意渐浓之瀑（曲目） - 由 ZUN 创作的官方曲目�
 
 - 相关歌曲
   - 本曲的主旋律和日本乐队安全地带的歌曲『ブルーに泣いてる』副歌部分非常相似。『ブルーに泣いてる』出自1984年12月专辑『安全地帯III〜抱きしめたい』。
+
 
 
 ### 二次同人数据

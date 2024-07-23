@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Filebox封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/f/f3/Filebox%E5%B0%81%E9%9D%A2.jpg/159px-Filebox%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="159" height="224" srcset="https://upload.thwiki.cc/thumb/f/f3/Filebox%E5%B0%81%E9%9D%A2.jpg/239px-Filebox%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/f/f3/Filebox%E5%B0%81%E9%9D%A2.jpg/319px-Filebox%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="2522" data-file-height="3541"></a><div class="cover-char">角色：<a href="./古明地觉.md" title="古明地觉">古明地觉</a>，<a href="./古明地恋.md" title="古明地恋">古明地恋</a></div></td>
@@ -14,11 +15,14 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/93610166">https://www.pixiv.net/artworks/93610166</a><br><a rel="nofollow" class="external free" href="https://twitter.com/game_windboy/status/1451504198432935937">https://twitter.com/game_windboy/status/1451504198432935937</a><br><a rel="nofollow" class="external free" href="https://twitter.com/game_windboy/status/1451505878729822214">https://twitter.com/game_windboy/status/1451505878729822214</a></td></tr><tr><td class="label">备注</td><td colspan="2">会場限定 　Copy本总篇集</td></tr></tbody></table>
 
 Filebox（同人志，ばーちゃる被害妄想，2021） - 2021年10月24日 由 ばーちゃる被害妄想 于 博丽神社秋季例大祭8 发布的漫画同人志，B5尺寸一共24页，登场人物有 古明地觉、古明地恋、射命丸文、犬走椛、琪露诺、火焰猫燐，分级为 一般向
+
 ## 预览
 - [](./文件-Filebox预览图1.jpg.md)- [](./文件-Filebox预览图2.jpg.md)- [](./文件-Filebox预览图3.jpg.md)
 
+
 ## Staff
 - がめ (未找到链接)
+
 
 ## 评论
 

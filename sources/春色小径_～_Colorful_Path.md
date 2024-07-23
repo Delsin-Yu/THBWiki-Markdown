@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -37,11 +38,13 @@
 
 
 
+
 ## 基本信息
 
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">春色小径　～ Colorful Path</td></tr><tr><td><b>译名</b></td><td>春色小径 ～ Colorful Path</td></tr><tr><td><b>英文译名</b></td><td>Spring Lane ~ Colorful Path</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 春色小径 ～ Colorful Path（曲目） - 由 ZUN 创作的官方曲目，原名 春色小径　～ Colorful Path
+
 ## 出现作品
 
 <table>
@@ -55,7 +58,9 @@
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 东方花映塚
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td><a href="./文件-th09_02.mid.md" title="文件:th09 02.mid">th09_02.mid</a></td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th09_02.mp3.md" title="文件:th09 02.mp3">th09_02.mp3</a><br><audio src="https://upload.thwiki.cc/6/69/th09_02.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>BGM\th09_02.wav</td></tr><tr><td><b>BGMForAll</b></td><td><div class="mw-collapsible mw-collapsed">
@@ -64,6 +69,7 @@
 <div class="mw-collapsible-content">BGM = 春色小径 ～ Colorful Path, 0x2E77C10, 0x170280, 0x2FE7E90, 0x196ED80</div>
 </div>
 </td></tr></tbody></table>
+
 
 
 ### 暗黑能乐集心绮楼
@@ -75,7 +81,9 @@
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-TFM-006b_04.mp3.md" title="文件:TFM-006b 04.mp3">TFM-006b_04.mp3</a><br><audio src="https://upload.thwiki.cc/9/92/TFM-006b_04.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track04.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>0:22</td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 东方花映塚
 - Music Room (未找到链接)
 
@@ -86,18 +94,23 @@
 　盘算着即使成为持久战也不会使人疲劳的程度比较好。  
 　虽然控制在这样的节奏下，但是和其他过于激烈的曲子混在一起，  
 　显得有点安稳，有灵梦的样子吗？
+
 ### 东方心绮楼
 - Music Room (未找到链接)
 
 这种编曲如果一个劲地使用贝斯之类的话就感觉不像是应有的风格了，所以主要依  
 赖于演奏的力量，编曲本身没有进行太大的努力。  
 ——努力的是，没错，有史以来最多的吊镲数。　　　　　　　　　吉他. にいむ
+
 ### 暗黑能乐集心绮楼
 - あきやまうに的文本 (未找到链接)
 
 人气爆发／为了让人知道进入了人气爆发状态，所以全员都是相似的编曲。时间也是固定20秒，所以拍速相同，小节数也相同。
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
   
  **春色小径　～ Colorful Path** 
@@ -105,7 +118,7 @@
   
 
 - 春色
-  - [博丽灵梦](./博丽灵梦.md)在妖妖梦 (未找到链接)中被吐槽满脑子都是春。
+  - [博丽灵梦](./博丽灵梦.md)在[妖妖梦](./妖妖梦.md)中被吐槽满脑子都是春。
 
 
 
@@ -120,6 +133,7 @@
 
 - Colorful Path
   - 春天开满鲜花的小径总是缤纷多彩。
+
 
 
 ### 二次同人数据

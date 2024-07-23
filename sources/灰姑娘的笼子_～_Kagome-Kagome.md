@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -44,21 +45,26 @@
 
 
 
+
 ## 基本信息
 
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">シンデレラケージ　～ Kagome-Kagome</td></tr><tr><td><b>译名</b></td><td>灰姑娘的笼子 ～ Kagome-Kagome</td></tr><tr><td><b>英文译名</b></td><td>Cinderella Cage ~ Kagome-Kagome</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 灰姑娘的笼子 ～ Kagome-Kagome（曲目） - 由 ZUN 创作的官方曲目，原名 シンデレラケージ　～ Kagome-Kagome
+
 ## 出现作品
 
 <table>
 <tbody><tr><td>2004年8月15日（Comic Market 66）</td><td><b><a href="./东方永夜抄.md" title="东方永夜抄">东方永夜抄</a></b></td><td>5面主题曲</td><td style="padding-left:5px;">シンデレラケージ　～ Kagome-Kagome（灰姑娘的笼子 ～ Kagome-Kagome）</td><td style="padding-left:10px;">作曲：ZUN</td></tr>
-<tr><td>2004年8月15日（Comic Market 66）</td><td><b><a href="/Cradle_-_%E4%B8%9C%E6%96%B9%E5%B9%BB%E4%B9%90%E7%A5%80%E5%85%B8" class="mw-redirect" title="Cradle - 东方幻乐祀典">Cradle - 东方幻乐祀典</a></b></td><td>DISC1 第16轨</td><td style="padding-left:5px;">シンデレラケージ　～ Kagome-Kagome（灰姑娘的笼子 ～ Kagome-Kagome）</td><td style="padding-left:10px;">编曲：ZUN</td></tr>
+<tr><td>2004年8月15日（Comic Market 66）</td><td><b><a href="./Cradle_-_东方幻乐祀典.md" class="mw-redirect" title="Cradle - 东方幻乐祀典">Cradle - 东方幻乐祀典</a></b></td><td>DISC1 第16轨</td><td style="padding-left:5px;">シンデレラケージ　～ Kagome-Kagome（灰姑娘的笼子 ～ Kagome-Kagome）</td><td style="padding-left:10px;">编曲：ZUN</td></tr>
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 东方永夜抄
+
 #### WAV
   
 WAV版是游戏的原声带。
@@ -73,6 +79,7 @@ WAV版是游戏的原声带。
 </td></tr></tbody></table>
 
 
+
 #### MIDI
   
 MIDI版由Roland Sound Canvas 88Pro实机录音得到。
@@ -82,12 +89,15 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td><a href="./文件-th08_11.mid.md" title="文件:th08 11.mid">th08_11.mid</a></td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th08_11_SC88Pro.mp3.md" title="文件:th08 11 SC88Pro.mp3">th08_11_SC88Pro.mp3</a><br><audio src="https://upload.thwiki.cc/9/91/th08_11_SC88Pro.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>th08_11.mid</td></tr><tr><td><b>音轨时长</b></td><td>2:48</td></tr></tbody></table>
 
 
+
 ### Cradle - 东方幻乐祀典
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-sound_sepher_-_シンデレラケージ.mp3.md" title="文件:sound sepher - シンデレラケージ.mp3">sound sepher - シンデレラケージ.mp3</a><br><audio src="https://upload.thwiki.cc/1/14/sound_sepher_-_%E3%82%B7%E3%83%B3%E3%83%87%E3%83%AC%E3%83%A9%E3%82%B1%E3%83%BC%E3%82%B8.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track16.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>5:42</td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 东方永夜抄
 - Music Room (未找到链接)
 
@@ -103,18 +113,23 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
 　　隐藏着日本的灰姑娘的牢笼，即使你想强行把她救走，公主也绝对不会出去。  
 　　这是笼目导致的。  
 　　但是，因为天人的一句话，门就全开了。
+
 ### 东方文花帖（书籍）
 - 幻想的音觉 (未找到链接)
 
 （『[东方永夜抄](./东方永夜抄.md)』收录曲）　　考虑到是和プレインエイジア相近的曲子，这边更加露骨地使用了日本的旋律和声音。这首曲子就是根据日本人谁都知道的『KAGOMEKAGOME』以自己的解释做出了东方风的重制。  
 　　原曲的部分已经是能让人动摇的东西了，在我心目中和『とうりゃんせ』并称为有力量的日本两大幻觉童谣。即使到了这里变成其他的曲子的话，这种力量也不会减弱。也就是说我这种水平不管怎么摆弄都不可能让原曲的力量消失的。这样的话最好考虑一下这种力量的利用方式。  
 　　顺带一提，灰姑娘是外国的童话。诶？你说知道？抱歉。
+
 ### 东方Project人气投票
 - 日文东方人气投票记录 (未找到链接)
 
 因为评论什么的在游戏里写过了啊。有人不小心读成了Cinderella Gauge的吗？被欺负的同时游戏在积累着[^cite_note-1]并前进，MAX时会脱下水晶鞋。
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
   
  **シンデレラケージ　～ Kagome-Kagome**  灰姑娘的笼子　～ Kagome-Kagome
@@ -159,6 +174,7 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
   - 《笼女》，日本传统民歌，本曲中开头含有其旋律。
   - 辉夜出生在竹子（笼子）中。
   - 原曲的最后一句“後ろの正面誰”，这里暗示即将见到异变真正的黑幕？
+
 
 
 ### 二次同人数据

@@ -4,7 +4,8 @@
 
 Chaos Core Recordings ，主要制作 同人音乐 的日本同人社团，主催是 くら峰，当前状态为 休止
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -20,16 +21,20 @@ Chaos Core Recordings ，主要制作 同人音乐 的日本同人社团，主�
 
 
 
+
 ## 社团信息
 文件:Chaos Core Recordingsbanner.jpg (未找到链接)  banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Chaos Core Recordings </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=%E3%81%8F%E3%82%89%E5%B3%B0&amp;action=edit&amp;redlink=1" class="new" title="くら峰（页面不存在）">くら峰</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://chaos-core.com/">http://chaos-core.com/</a> </td></tr></tbody></table>
 
 Chaos Core Recordings（同人社团，同人音乐社团） - Chaos Core Recordings ，主要制作 同人音乐 的日本同人社团，主催是 くら峰，当前状态为 休止
+
 ## 成员名单
 - くら峰 (未找到链接)
 
+
 ## 作品列表
+
 ### 同人专辑
 [](./東方精神裁判.md)[東方精神裁判](./東方精神裁判.md)首发日期：2009-12-30 （Comic Market 77 (未找到链接)）CCRC-0001全长 （一般向）[](./えれくとろ喫茶会.md)[えれくとろ喫茶会](./えれくとろ喫茶会.md)首发日期：2011-08-13 （Comic Market 80 (未找到链接)）BTMH-0002全长、​精选集 （一般向）该作品是与 [ほりっくさーびす](./ほりっくさーびす.md)、​[ばーどちゅーん](./ばーどちゅーん.md)、​[だいじょうぶ堂](./だいじょうぶ堂.md) 合作创作的[](./東方精神依存.md)[東方精神依存](./東方精神依存.md)首发日期：2011-08-13 （Comic Market 80 (未找到链接)）CCCR-0002全长 （一般向）该作品是与 [だいじょうぶ堂](./だいじょうぶ堂.md) 合作创作的[](./東方精神裁判２.md)[東方精神裁判２](./東方精神裁判２.md)首发日期：2013-05-26 （第十回 博麗神社例大祭 (未找到链接)）CCCR0003全长 （一般向）该作品是与 [だいじょうぶ堂](./だいじょうぶ堂.md) 合作创作的
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -40,6 +45,7 @@ Chaos Core Recordings（同人社团，同人音乐社团） - Chaos Core Record
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 参展信息

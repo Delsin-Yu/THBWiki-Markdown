@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-東方山海傳_~_the_Potential_Crisis封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/d/db/%E6%9D%B1%E6%96%B9%E5%B1%B1%E6%B5%B7%E5%82%B3_~_the_Potential_Crisis%E5%B0%81%E9%9D%A2.png/252px-%E6%9D%B1%E6%96%B9%E5%B1%B1%E6%B5%B7%E5%82%B3_~_the_Potential_Crisis%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="252" height="250" srcset="https://upload.thwiki.cc/thumb/d/db/%E6%9D%B1%E6%96%B9%E5%B1%B1%E6%B5%B7%E5%82%B3_~_the_Potential_Crisis%E5%B0%81%E9%9D%A2.png/378px-%E6%9D%B1%E6%96%B9%E5%B1%B1%E6%B5%B7%E5%82%B3_~_the_Potential_Crisis%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/d/db/%E6%9D%B1%E6%96%B9%E5%B1%B1%E6%B5%B7%E5%82%B3_~_the_Potential_Crisis%E5%B0%81%E9%9D%A2.png/504px-%E6%9D%B1%E6%96%B9%E5%B1%B1%E6%B5%B7%E5%82%B3_~_the_Potential_Crisis%E5%B0%81%E9%9D%A2.png 2x" data-file-width="902" data-file-height="894"></a><div class="cover-char">角色：<a href="./落霞.md" title="落霞">落霞</a></div></td>
@@ -13,6 +14,7 @@
 </tr><tr><td class="label">首发日期</td><td>2023-09-23</td></tr><tr><td class="label">类型</td><td>印象集</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>0</td></tr><tr><td class="label">音轨数</td><td>0</td></tr><tr><td class="label">总时长</td><td>00:00</td></tr><tr><td class="label">风格类型</td><td>游戏音乐</td></tr><tr><td class="label">售价</td><td>30人民币</td></tr></tbody></table>
 
 東方山海傳 ~ the Potential Crisis（同人专辑，旧雨忆梦幻想乐团，2023） - 2023年9月23日 由 旧雨忆梦幻想乐团  发布的印象集同人专辑，曲目主要风格是 游戏音乐，分级为 一般向
+
 ## Staff
 剧情原案
 : 穆然皎若
@@ -30,6 +32,7 @@
 视频制作
 : 穆然皎若
 
+
 ## 作品介绍
 - 该作前身为穆然皎若独立创作的东方风自作曲集，在旧雨忆梦幻想乐团成立之后于2023年8月27日0:00于bilibili发布同名自作曲集的体验版。
 
@@ -37,17 +40,21 @@
 于2023年9月23日0:00发布正式版。
   
 
+
 ## 游戏介绍
 - [故事背景](./東方山海傳_~_the_Potential_Crisis-故事背景.md)
 - [EX故事背景](./東方山海傳_~_the_Potential_Crisis-ExStory.md)
 
+
 ## 角色
+
 ### 自机
 
 <table><tbody><tr><td style="min-width:40px;" rowspan=""><div class="center"><div class="floatnone"><a href="./文件-博丽灵梦（山海传）.png.md" class="image" title="博丽灵梦"><img alt="博丽灵梦" src="https://upload.thwiki.cc/thumb/a/af/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E5%B1%B1%E6%B5%B7%E4%BC%A0%EF%BC%89.png/29px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E5%B1%B1%E6%B5%B7%E4%BC%A0%EF%BC%89.png" decoding="async" loading="lazy" width="29" height="40" srcset="https://upload.thwiki.cc/thumb/a/af/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E5%B1%B1%E6%B5%B7%E4%BC%A0%EF%BC%89.png/44px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E5%B1%B1%E6%B5%B7%E4%BC%A0%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/a/af/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E5%B1%B1%E6%B5%B7%E4%BC%A0%EF%BC%89.png/58px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E5%B1%B1%E6%B5%B7%E4%BC%A0%EF%BC%89.png 2x" data-file-width="2460" data-file-height="3375"></a></div></div></td> <td style="width:150px;padding:3px 9px 3px 7px;" rowspan="">梅染的乐园巫女 </td><td style="width:180px;padding:3px 9px 3px 7px;"><a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></td><td><a href="/index.php?title=%E6%9D%B1%E6%96%B9%E5%B1%B1%E6%B5%B7%E5%82%B3_~_the_Potential_Crisis/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6&amp;action=edit&amp;redlink=1" class="new" title="東方山海傳 ~ the Potential Crisis/博丽灵梦（页面不存在）">游戏对话/结局</a><br><a href="/index.php?title=%E6%9D%B1%E6%96%B9%E5%B1%B1%E6%B5%B7%E5%82%B3_~_the_Potential_Crisis/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6_ExStory&amp;action=edit&amp;redlink=1" class="new" title="東方山海傳 ~ the Potential Crisis/博丽灵梦 ExStory（页面不存在）">Extra游戏对话</a></td></tr>
 <tr><td style="min-width:40px;" rowspan=""><div class="center"><div class="floatnone"><a href="./文件-雾雨魔理沙（山海传）.png.md" class="image" title="雾雨魔理沙"><img alt="雾雨魔理沙" src="https://upload.thwiki.cc/thumb/4/44/%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%EF%BC%88%E5%B1%B1%E6%B5%B7%E4%BC%A0%EF%BC%89.png/22px-%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%EF%BC%88%E5%B1%B1%E6%B5%B7%E4%BC%A0%EF%BC%89.png" decoding="async" loading="lazy" width="22" height="40" srcset="https://upload.thwiki.cc/thumb/4/44/%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%EF%BC%88%E5%B1%B1%E6%B5%B7%E4%BC%A0%EF%BC%89.png/32px-%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%EF%BC%88%E5%B1%B1%E6%B5%B7%E4%BC%A0%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/4/44/%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%EF%BC%88%E5%B1%B1%E6%B5%B7%E4%BC%A0%EF%BC%89.png/43px-%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%EF%BC%88%E5%B1%B1%E6%B5%B7%E4%BC%A0%EF%BC%89.png 2x" data-file-width="1770" data-file-height="3246"></a></div></div></td> <td style="width:150px;padding:3px 9px 3px 7px;" rowspan="">玄青色的魔法使 </td><td style="width:180px;padding:3px 9px 3px 7px;"><a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a></td><td><a href="./東方山海傳_~_the_Potential_Crisis-雾雨魔理沙.md" title="東方山海傳 ~ the Potential Crisis/雾雨魔理沙">游戏对话/结局</a><br><a href="./東方山海傳_~_the_Potential_Crisis-雾雨魔理沙_ExStory.md" title="東方山海傳 ~ the Potential Crisis/雾雨魔理沙 ExStory">Extra游戏对话</a></td></tr>
 <tr><td style="min-width:40px;" rowspan=""><div class="center"><div class="floatnone"><a href="./文件-东风谷早苗（山海传）.png.md" class="image" title="东风谷早苗"><img alt="东风谷早苗" src="https://upload.thwiki.cc/thumb/3/3d/%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97%EF%BC%88%E5%B1%B1%E6%B5%B7%E4%BC%A0%EF%BC%89.png/31px-%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97%EF%BC%88%E5%B1%B1%E6%B5%B7%E4%BC%A0%EF%BC%89.png" decoding="async" loading="lazy" width="31" height="40" srcset="https://upload.thwiki.cc/thumb/3/3d/%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97%EF%BC%88%E5%B1%B1%E6%B5%B7%E4%BC%A0%EF%BC%89.png/47px-%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97%EF%BC%88%E5%B1%B1%E6%B5%B7%E4%BC%A0%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/3/3d/%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97%EF%BC%88%E5%B1%B1%E6%B5%B7%E4%BC%A0%EF%BC%89.png/63px-%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97%EF%BC%88%E5%B1%B1%E6%B5%B7%E4%BC%A0%EF%BC%89.png 2x" data-file-width="2480" data-file-height="3160"></a></div></div></td> <td style="width:150px;padding:3px 9px 3px 7px;" rowspan="">竹青的奇迹之人 </td><td style="width:180px;padding:3px 9px 3px 7px;"><a href="./东风谷早苗.md" title="东风谷早苗">东风谷早苗</a></td><td><a href="/index.php?title=%E6%9D%B1%E6%96%B9%E5%B1%B1%E6%B5%B7%E5%82%B3_~_the_Potential_Crisis/%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97&amp;action=edit&amp;redlink=1" class="new" title="東方山海傳 ~ the Potential Crisis/东风谷早苗（页面不存在）">游戏对话/结局</a><br><a href="/index.php?title=%E6%9D%B1%E6%96%B9%E5%B1%B1%E6%B5%B7%E5%82%B3_~_the_Potential_Crisis/%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97_ExStory&amp;action=edit&amp;redlink=1" class="new" title="東方山海傳 ~ the Potential Crisis/东风谷早苗 ExStory（页面不存在）">Extra游戏对话</a></td></tr>
 <tr><td style="min-width:40px;" rowspan=""><div class="center"><div class="floatnone"><a href="./文件-射命丸文（山海传）.png.md" class="image" title="射命丸文"><img alt="射命丸文" src="https://upload.thwiki.cc/thumb/5/5f/%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87%EF%BC%88%E5%B1%B1%E6%B5%B7%E4%BC%A0%EF%BC%89.png/26px-%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87%EF%BC%88%E5%B1%B1%E6%B5%B7%E4%BC%A0%EF%BC%89.png" decoding="async" loading="lazy" width="26" height="40" srcset="https://upload.thwiki.cc/thumb/5/5f/%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87%EF%BC%88%E5%B1%B1%E6%B5%B7%E4%BC%A0%EF%BC%89.png/38px-%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87%EF%BC%88%E5%B1%B1%E6%B5%B7%E4%BC%A0%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/5/5f/%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87%EF%BC%88%E5%B1%B1%E6%B5%B7%E4%BC%A0%EF%BC%89.png/51px-%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87%EF%BC%88%E5%B1%B1%E6%B5%B7%E4%BC%A0%EF%BC%89.png 2x" data-file-width="2125" data-file-height="3310"></a></div></div></td> <td style="width:150px;padding:3px 9px 3px 7px;" rowspan="">湘妃的新闻记者 </td><td style="width:180px;padding:3px 9px 3px 7px;"><a href="./射命丸文.md" title="射命丸文">射命丸文</a></td><td><a href="/index.php?title=%E6%9D%B1%E6%96%B9%E5%B1%B1%E6%B5%B7%E5%82%B3_~_the_Potential_Crisis/%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87&amp;action=edit&amp;redlink=1" class="new" title="東方山海傳 ~ the Potential Crisis/射命丸文（页面不存在）">游戏对话/结局</a><br><a href="/index.php?title=%E6%9D%B1%E6%96%B9%E5%B1%B1%E6%B5%B7%E5%82%B3_~_the_Potential_Crisis/%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87_ExStory&amp;action=edit&amp;redlink=1" class="new" title="東方山海傳 ~ the Potential Crisis/射命丸文 ExStory（页面不存在）">Extra游戏对话</a></td></tr></tbody></table>
+
 
 
 ### BOSS
@@ -62,6 +69,7 @@
 <tr><td rowspan="2" class="bg-color-info-10" style="min-width:100px"><b>EX面道中</b><br><i><a href="/index.php?title=%E5%B0%91%E5%A5%B3%E6%9B%BE%E8%A7%81%E7%9A%84%E5%8F%A4%E7%93%B7%E4%B9%8B%E5%B1%B1%E5%B7%85_~_Mountain_And_Sea&amp;action=edit&amp;redlink=1" class="new" title="少女曾见的古瓷之山巅 ~ Mountain And Sea（页面不存在）">少女曾见的古瓷之山巅 ~ Mountain And Sea</a></i><br><i><a href="/index.php?title=%E5%B9%BB%E6%83%B3%E4%B9%A1%E7%9A%84%E5%AD%98%E4%BA%A1%E6%97%B6%E5%88%BB_~_To_Be%EF%BC%8Cor_Not_to_Be&amp;action=edit&amp;redlink=1" class="new" title="幻想乡的存亡时刻 ~ To Be，or Not to Be（页面不存在）">幻想乡的存亡时刻 ~ To Be，or Not to Be</a></i></td><td style="min-width:35px" rowspan="1"><div class="center"><div class="floatnone"><a href="./文件-东风谷早苗（山海传）.png.md" class="image"><img alt="东风谷早苗（山海传）.png" src="https://upload.thwiki.cc/thumb/3/3d/%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97%EF%BC%88%E5%B1%B1%E6%B5%B7%E4%BC%A0%EF%BC%89.png/31px-%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97%EF%BC%88%E5%B1%B1%E6%B5%B7%E4%BC%A0%EF%BC%89.png" decoding="async" loading="lazy" width="31" height="40" srcset="https://upload.thwiki.cc/thumb/3/3d/%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97%EF%BC%88%E5%B1%B1%E6%B5%B7%E4%BC%A0%EF%BC%89.png/47px-%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97%EF%BC%88%E5%B1%B1%E6%B5%B7%E4%BC%A0%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/3/3d/%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97%EF%BC%88%E5%B1%B1%E6%B5%B7%E4%BC%A0%EF%BC%89.png/63px-%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97%EF%BC%88%E5%B1%B1%E6%B5%B7%E4%BC%A0%EF%BC%89.png 2x" data-file-width="2480" data-file-height="3160"></a></div></div></td>  <td style="width:150px;padding:3px 9px 3px 7px;" rowspan="1"> 被蛊惑的巫女</td><td style="width:180px;padding:3px 9px 3px 7px;" rowspan="1"> <a href="./东风谷早苗.md" title="东风谷早苗">东风谷早苗</a> </td></tr><tr><td style="min-width:35px" rowspan="1"><div class="center"><div class="floatnone"><a href="./文件-凌司.png.md" class="image"><img alt="凌司.png" src="https://upload.thwiki.cc/thumb/6/69/%E5%87%8C%E5%8F%B8.png/20px-%E5%87%8C%E5%8F%B8.png" decoding="async" loading="lazy" width="20" height="40" srcset="https://upload.thwiki.cc/thumb/6/69/%E5%87%8C%E5%8F%B8.png/30px-%E5%87%8C%E5%8F%B8.png 1.5x, https://upload.thwiki.cc/thumb/6/69/%E5%87%8C%E5%8F%B8.png/40px-%E5%87%8C%E5%8F%B8.png 2x" data-file-width="1836" data-file-height="3664"></a></div></div></td>  <td style="width:150px;padding:3px 9px 3px 7px;" rowspan="1"> 谨小慎微的仙兽</td><td style="width:180px;padding:3px 9px 3px 7px;" rowspan="1"> <a href="./凌司.md" title="凌司">凌司</a> </td></tr><tr><td rowspan="1" class="bg-color-info-10" style="min-width:100px"><b>EX面BOSS</b><br><i><a href="/index.php?title=%E8%A1%80%E6%9C%88%E9%99%8D%E8%87%B3%EF%BC%81%E7%8B%90%E7%A5%9E%E9%99%8D%E4%B8%B4%E4%B9%8B%E5%A4%9C&amp;action=edit&amp;redlink=1" class="new" title="血月降至！狐神降临之夜（页面不存在）">血月降至！狐神降临之夜</a></i></td><td style="min-width:35px" rowspan="1"><div class="center"><div class="floatnone"><a href="./文件-慕容月.png.md" class="image"><img alt="慕容月.png" src="https://upload.thwiki.cc/thumb/3/35/%E6%85%95%E5%AE%B9%E6%9C%88.png/40px-%E6%85%95%E5%AE%B9%E6%9C%88.png" decoding="async" loading="lazy" width="40" height="40" srcset="https://upload.thwiki.cc/thumb/3/35/%E6%85%95%E5%AE%B9%E6%9C%88.png/60px-%E6%85%95%E5%AE%B9%E6%9C%88.png 1.5x, https://upload.thwiki.cc/thumb/3/35/%E6%85%95%E5%AE%B9%E6%9C%88.png/80px-%E6%85%95%E5%AE%B9%E6%9C%88.png 2x" data-file-width="2452" data-file-height="2448"></a></div></div></td>  <td style="width:150px;padding:3px 9px 3px 7px;" rowspan="1"> 嗜血而生的愚心九尾</td><td style="width:180px;padding:3px 9px 3px 7px;" rowspan="1"> <a href="./慕容月.md" title="慕容月">慕容月</a> </td></tr></tbody></table>
 
 
+
 ## 附带文档
 
 <table><tbody><tr>
@@ -71,6 +79,7 @@
 <ul><li><a href="/index.php?title=%E6%9D%B1%E6%96%B9%E5%B1%B1%E6%B5%B7%E5%82%B3_~_the_Potential_Crisis/Readme&amp;action=edit&amp;redlink=1" class="new" title="東方山海傳 ~ the Potential Crisis/Readme（页面不存在）">Readme</a></li>
 <li><a href="/index.php?title=%E6%9D%B1%E6%96%B9%E5%B1%B1%E6%B5%B7%E5%82%B3_~_the_Potential_Crisis/Omake&amp;action=edit&amp;redlink=1" class="new" title="東方山海傳 ~ the Potential Crisis/Omake（页面不存在）">Omake</a></li></ul>
 </td></tr></tbody></table>
+
 
 
 ## 其他资料
@@ -91,8 +100,11 @@
 </td></tr></tbody></table>
 
 
+
 ## 评论
+
 ## 外部链接
+
 ## 词条导航
   
   

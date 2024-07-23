@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=The_entrance_of_the_underground(demo)%E5%B0%81%E9%9D%A2.jpg" class="new" title="文件:The entrance of the underground(demo)封面.jpg">封面图片</a><div class="cover-char">角色：<a href="./灵乌路空.md" title="灵乌路空">灵乌路空</a>，<a href="./火焰猫燐.md" title="火焰猫燐">火焰猫燐</a></div></td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://foxlake.webcrow.jp/html/news.html#event_20181014">http://foxlake.webcrow.jp/html/news.html#event_20181014</a><br><a rel="nofollow" class="external free" href="https://twitter.com/fox_prayer/status/1050749161472053248">https://twitter.com/fox_prayer/status/1050749161472053248</a></td></tr></tbody></table>
 
 The entrance of the underground(demo)（同人专辑，狐の居る湖，2018） - 2018年10月14日 由 狐の居る湖 于 博丽神社秋季例大祭5 发布的单曲/Demo同人专辑，分级为 一般向
+
 ## Staff
   
  **Arrangement**   
@@ -24,9 +26,11 @@ The entrance of the underground(demo)（同人专辑，狐の居る湖，2018）
 Illustration
 : みどり （[みどりねこ](./みどりねこ.md)）
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="ラストリモート" colspan="2" class="title">ラストリモート<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Fox_Prayer&amp;ogmusic=ラストリモート&amp;fromwiki=The_entrance_of_the_underground(demo)"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=Fox_Prayer&amp;action=edit&amp;redlink=1" class="new" title="Fox Prayer（页面不存在）">Fox_Prayer</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Fox_Prayer&amp;fromwiki=The_entrance_of_the_underground(demo)"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=ラストリモート&amp;fromwiki=The_entrance_of_the_underground(demo)"><span></span></a></span><div class="ogmusic"><a href="/%E3%83%A9%E3%82%B9%E3%83%88%E3%83%AA%E3%83%A2%E3%83%BC%E3%83%88" class="mw-redirect" title="ラストリモート">ラストリモート</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E5%9C%B0%E7%81%B5%E6%AE%BF_%EF%BD%9E_Subterranean_Animism." class="mw-redirect" title="东方地灵殿 ～ Subterranean Animism.">东方地灵殿　～ Subterranean Animism.</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="ラストリモート" colspan="2" class="title">ラストリモート<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Fox_Prayer&amp;ogmusic=ラストリモート&amp;fromwiki=The_entrance_of_the_underground(demo)"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=Fox_Prayer&amp;action=edit&amp;redlink=1" class="new" title="Fox Prayer（页面不存在）">Fox_Prayer</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Fox_Prayer&amp;fromwiki=The_entrance_of_the_underground(demo)"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=ラストリモート&amp;fromwiki=The_entrance_of_the_underground(demo)"><span></span></a></span><div class="ogmusic"><a href="./ラストリモート.md" class="mw-redirect" title="ラストリモート">ラストリモート</a></div><div class="source"><a href="./东方地灵殿_～_Subterranean_Animism..md" class="mw-redirect" title="东方地灵殿 ～ Subterranean Animism.">东方地灵殿　～ Subterranean Animism.</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

@@ -4,6 +4,7 @@
 
 LAVO | 社团LOGO
 
+
 ## 文件说明
   
 源地址：[direct image link (edited from original)](https://web.archive.org/web/20131225021614im_/http://www.llaavvoo.com/common/images/header_bg.jpg), [source page](https://web.archive.org/web/20140102095117/http://llaavvoo.com/)

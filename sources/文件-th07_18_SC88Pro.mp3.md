@@ -4,6 +4,7 @@
 
 Necro-Fantasia | 东方妖妖梦
 
+
 ## 文件说明
   
 ネクロファンタジア 东方妖妖梦Phantasm面Boss八雲紫的主题曲MIDI版。由Roland Sound Canvas 88Pro实机录制；MP3采样率44.1KHz，码率192Kbps。  

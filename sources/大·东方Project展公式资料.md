@@ -6,6 +6,7 @@
 
 - 本页面收录了展出于[大·东方Project展](./大·东方Project展.md)中，由ZUN提供的一部分公式资料内容。
 
+
 ## 目录
 
 - [1 手稿部分](#手稿部分)
@@ -24,7 +25,9 @@
 
 
 
+
 ## 手稿部分
+
 ### 第一届展出手稿
 - 展会的第二展区公开了30张ZUN的原作手稿，巡回至大阪时又追加了少量原稿。
 - 其中有22张为成品公开的手稿，其余8张为设定稿。
@@ -100,7 +103,9 @@
 </td></tr></tbody></table>
 
 
+
 ### 第二届展出手稿
+
 ## 茨歌仙初期案
 [](./文件-大东方展茨歌仙.jpg.md)  [](./文件-大东方展茨歌仙.jpg.md)茨歌仙初期案
 
@@ -109,6 +114,7 @@
 
 
 <table><tbody><tr class="tt-content" id="茨歌仙初期案-3" data-pos="&#91;&quot;\u8328\u6b4c\u4ed9\u521d\u671f\u6848&quot;,3&#93;"><td class="tt-ja" lang="ja"><div class="poem">〈コミックでのお話の進め方〉<br>基本的にいつもの面子の日常を第三者の視点で観察し、時々姿を現してアドバイスをしたり説教をしたり、時には自らの糧にしたりする。<br>普段は冷静かつ温厚なのだが、死神や妖怪退治を仕事とする者や鬼には異常な反応を見せる。<br>ちなみに普段は片腕を捜したりする事は無い。</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr></tbody></table>
+
 
 
 ## 红魔乡角色介绍
@@ -156,6 +162,7 @@
 <table><tbody><tr class="tt-content-header" id="红魔乡角色介绍-25" data-pos="&#91;&quot;\u7ea2\u9b54\u4e61\u89d2\u8272\u4ecb\u7ecd&quot;,25&#93;"><td class="tt-jah" lang="ja"><div class="poem">フランドール・スカーレット</div></td><td class="tt-zhh" lang="zh"><div class="poem">芙兰朵露·斯卡蕾特</div></td></tr><tr class="tt-content" id="红魔乡角色介绍-26" data-pos="&#91;&quot;\u7ea2\u9b54\u4e61\u89d2\u8272\u4ecb\u7ecd&quot;,26&#93;"><td class="tt-ja" lang="ja"><div class="poem">レミリアの妹です。性格も能力も破滅的で、紅魔館の問題児です。登場頻度は低いのですが、特に若いファンに人気があるという不思議なキャラです。<br>吸血鬼だから蝙蝠の羽を付けた、というレミリアに対し、正体不明の羽を付けた結果、吸血鬼に見えなくなりました。このひねくれ具合が実に東方っぽく、そして鵺的な妖怪が蔓延る幻想郷に戻ってきた気がして、後の東方の世界観が繋がっているのかなーと思っています。</div></td><td class="tt-zh" lang="zh"><div class="poem">她是蕾米莉亚的妹妹。性格和能力均为破灭级的红魔馆问题儿童。登场频次很低，但是在低龄粉丝中非常受欢迎，十分奇妙。<br>蕾米莉亚因为是吸血鬼而加上了蝙蝠翅膀，而与此相对，她有一双真身不明的翅膀，所以看起来不像吸血鬼了。这种别扭的状态其实很有东方感，有种回到了全是真身不明妖怪的幻想乡的感觉，大概算是和之后东方的世界观建立了联系吧。</div></td></tr></tbody></table>
 
 
+
 ## 妖妖梦角色介绍
 [](./文件-大东方展博丽灵梦2.jpg.md)  [](./文件-大东方展博丽灵梦2.jpg.md)
 
@@ -200,6 +207,7 @@
 [](./文件-大东方展八云紫.jpg.md)  [](./文件-大东方展八云紫.jpg.md)
 
 <table><tbody><tr class="tt-content-header" id="妖妖梦角色介绍-25" data-pos="&#91;&quot;\u5996\u5996\u68a6\u89d2\u8272\u4ecb\u7ecd&quot;,25&#93;"><td class="tt-jah" lang="ja"><div class="poem">八雲紫</div></td><td class="tt-zhh" lang="zh"><div class="poem">八云紫</div></td></tr><tr class="tt-content" id="妖妖梦角色介绍-26" data-pos="&#91;&quot;\u5996\u5996\u68a6\u89d2\u8272\u4ecb\u7ecd&quot;,26&#93;"><td class="tt-ja" lang="ja"><div class="poem">真のラスボスの様に登場し、気が付くと消えている不思議な妖怪です。隙間に潜み、境界を弄くるという彼女の能力は、幻想郷という隔離世界において最も重要な能力の一つです。紫という色も、可視光線の境界に位置しています（紅魔郷の紅と対を成しています）。紫の向こうは人間の目に見えない世界なのです。神出鬼没の彼女は、この後色んな作品で出てくる様になります。ゲーム世界とプレイヤー世界を隔てているのも、彼女の力なのかも知れませんね。</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr></tbody></table>
+
 
 
 ## 访谈内容

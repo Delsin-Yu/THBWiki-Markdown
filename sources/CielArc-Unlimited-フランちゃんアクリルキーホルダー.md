@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **相关实体周边 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 周边信息](#周边信息)
@@ -21,6 +22,7 @@
 
 
 
+
 ## 周边信息
 
 <table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> フランちゃんアクリルキーホルダー </td></tr><tr><td class="label">译名</td><td> 芙兰酱亚克力钥匙扣 </td></tr><tr><td class="label">系列</td><td> Unlimited </td></tr><tr><td class="label">制作方</td><td><a href="./CielArc.md" title="CielArc">CielArc</a></td></tr><tr><td class="label">首发日期</td><td>2018-12-30&#160;（<a href="/展会作品列表?e=Comic+Market%2395">Comic Market 95</a>）</td></tr><tr><td class="label">类型</td><td>挂件</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">材质</td><td>亚克力</td></tr><tr><td class="label">角色</td><td><a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a></td></tr><tr><td class="label">售价</td><td>500日元</td></tr>
@@ -28,13 +30,17 @@
 <span style="color:grey;">京田スズカ老师的新作，摇滚风的<a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰酱</a>，利用了<a href="./CielArc.md" title="CielArc">CielArc</a>的编曲<a href="./MxRxI.md" title="MxRxI">MxRxI</a>爱用的LES PAUL电吉他作为想象元素</span></td></tr></tbody></table>
 
 CielArc/Unlimited/フランちゃんアクリルキーホルダー（周边，CielArc，2018） - 2018年12月30日 由 CielArc 于 Comic Market 95 发布的挂件周边，分级为 一般向
+
 ## 参考图片
+
 ### 预览图
 - [](./文件-CielArc／Unlimited／フランちゃんアクリルキーホルダー预览图1.jpg.md)
+
 
 ## Staff
 Illustration
 : [京田スズカ](./京田スズカ.md)
+
 
 ## 评论
 

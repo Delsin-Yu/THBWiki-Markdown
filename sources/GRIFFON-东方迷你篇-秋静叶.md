@@ -6,11 +6,13 @@
 
 本页是关于东方Project  
  **相关实体周边 (未找到链接)** 的词条
+
 ## 模型信息
 
 <table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 秋静叶 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>东方迷你篇</td></tr><tr><td class="label">角色</td><td><a href="./秋静叶.md" title="秋静叶">秋静叶</a></td></tr><tr><td class="label">比例</td><td>1/10</td></tr><tr><td class="label">状态</td><td>未发售</td></tr><tr><td class="label">发售方</td><td><a href="/index.php?title=GRIFFON&amp;action=edit&amp;redlink=1" class="new" title="GRIFFON（页面不存在）">GRIFFON</a></td></tr><tr><td class="label">备注</td><td>发售终止</td></tr></tbody></table>
 
 GRIFFON/东方迷你篇/秋静叶（周边） - 秋静叶PVCFigure手办模型
+
 ## 参考图片
 
 

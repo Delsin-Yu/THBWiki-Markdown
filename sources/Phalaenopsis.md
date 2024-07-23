@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Phalaenopsis封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/c/ca/Phalaenopsis%E5%B0%81%E9%9D%A2.jpg/158px-Phalaenopsis%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="158" height="224" srcset="https://upload.thwiki.cc/thumb/c/ca/Phalaenopsis%E5%B0%81%E9%9D%A2.jpg/237px-Phalaenopsis%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/c/ca/Phalaenopsis%E5%B0%81%E9%9D%A2.jpg/316px-Phalaenopsis%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="500" data-file-height="708"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>，<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/51588318">https://www.pixiv.net/artworks/51588318</a></td></tr></tbody></table>
 
 Phalaenopsis（同人志，お月見団子，2015） - 2015年8月14日 由 お月見団子 于 Comic Market 88 发布的漫画同人志，B5尺寸一共54页，登场人物有 博丽灵梦、雾雨魔理沙，分级为 一般向
+
 ## Staff
 - うるう (未找到链接)
+
 
 ## 评论
 ```

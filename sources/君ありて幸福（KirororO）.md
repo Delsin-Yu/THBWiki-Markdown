@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-君ありて幸福（KirororO）封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/8/87/%E5%90%9B%E3%81%82%E3%82%8A%E3%81%A6%E5%B9%B8%E7%A6%8F%EF%BC%88KirororO%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/155px-%E5%90%9B%E3%81%82%E3%82%8A%E3%81%A6%E5%B9%B8%E7%A6%8F%EF%BC%88KirororO%EF%BC%89%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="155" height="224" srcset="https://upload.thwiki.cc/thumb/8/87/%E5%90%9B%E3%81%82%E3%82%8A%E3%81%A6%E5%B9%B8%E7%A6%8F%EF%BC%88KirororO%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/233px-%E5%90%9B%E3%81%82%E3%82%8A%E3%81%A6%E5%B9%B8%E7%A6%8F%EF%BC%88KirororO%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/8/87/%E5%90%9B%E3%81%82%E3%82%8A%E3%81%A6%E5%B9%B8%E7%A6%8F%EF%BC%88KirororO%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/311px-%E5%90%9B%E3%81%82%E3%82%8A%E3%81%A6%E5%B9%B8%E7%A6%8F%EF%BC%88KirororO%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="674" data-file-height="970"></a><div class="cover-char">角色：<a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a>，<a href="/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C" title="十六夜咲夜">十六夜咲夜</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://kirero.xxxxxxxx.jp/">http://kirero.xxxxxxxx.jp/</a><br><a rel="nofollow" class="external free" href="https://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=56703691">https://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=56703691</a></td></tr></tbody></table>
 
 君ありて幸福（同人志，KirororO，2016） - 2016年5月8日 由 KirororO 于 博丽神社例大祭13 发布的漫画同人志，B5尺寸一共28页，登场人物有 蕾米莉亚·斯卡蕾特、十六夜咲夜、红美铃、帕秋莉·诺蕾姬，分级为 一般向
+
 ## Staff
 - [kirero](./kirero.md)
+
 
 ## 评论
 - 作者评论

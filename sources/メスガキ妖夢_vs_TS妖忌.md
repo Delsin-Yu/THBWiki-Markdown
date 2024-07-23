@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-メスガキ妖夢_vs_TS妖忌封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/8/86/%E3%83%A1%E3%82%B9%E3%82%AC%E3%82%AD%E5%A6%96%E5%A4%A2_vs_TS%E5%A6%96%E5%BF%8C%E5%B0%81%E9%9D%A2.jpg/158px-%E3%83%A1%E3%82%B9%E3%82%AC%E3%82%AD%E5%A6%96%E5%A4%A2_vs_TS%E5%A6%96%E5%BF%8C%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="158" height="224" srcset="https://upload.thwiki.cc/thumb/8/86/%E3%83%A1%E3%82%B9%E3%82%AC%E3%82%AD%E5%A6%96%E5%A4%A2_vs_TS%E5%A6%96%E5%BF%8C%E5%B0%81%E9%9D%A2.jpg/237px-%E3%83%A1%E3%82%B9%E3%82%AC%E3%82%AD%E5%A6%96%E5%A4%A2_vs_TS%E5%A6%96%E5%BF%8C%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/8/86/%E3%83%A1%E3%82%B9%E3%82%AC%E3%82%AD%E5%A6%96%E5%A4%A2_vs_TS%E5%A6%96%E5%BF%8C%E5%B0%81%E9%9D%A2.jpg/315px-%E3%83%A1%E3%82%B9%E3%82%AC%E3%82%AD%E5%A6%96%E5%A4%A2_vs_TS%E5%A6%96%E5%BF%8C%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="317" data-file-height="450"></a><div class="cover-char">角色：<a href="./魂魄妖梦.md" title="魂魄妖梦">魂魄妖梦</a>，<a href="./魂魄妖忌.md" title="魂魄妖忌">魂魄妖忌</a></div></td>
@@ -18,8 +19,10 @@
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=695408">蜜瓜</a>，<a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=707780">蜜瓜（电子版）</a></td></tr></tbody></table>
 
 
+
 ## Staff
 - インド僧 (未找到链接)
+
 
 ## 评论
 

@@ -4,7 +4,8 @@
 
 Journey Railway ，于 2020 年成立，主要制作 同人志 的日本同人社团，主催是 ysk，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -20,18 +21,22 @@ Journey Railway ，于 2020 年成立，主要制作 同人志 的日本同人�
 
 
 
+
 ## 社团信息
 文件:Journey Railwaybanner.jpg (未找到链接)  banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Journey Railway </td></tr><tr><td><b>主要作品类型</b></td><td>同人志</td></tr><tr><td><b>成立时间</b></td><td>2020</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="./ysk.md" title="ysk">ysk</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr></tbody></table>
 
 Journey Railway（同人社团，同人志社团） - Journey Railway ，于 2020 年成立，主要制作 同人志 的日本同人社团，主催是 ysk，当前状态为 活动
+
 ## 成员名单
 - [ysk](./ysk.md)
 
 : [Pixiv ID: 17791802](https://www.pixiv.net/users/17791802), [Twitter: @JR_E127ysk](https://twitter.com/JR_E127ysk)
 
+
 ## 作品列表
+
 ### 同人志
 [](./東方25周年記念合同.md)[東方25周年記念合同](./東方25周年記念合同.md)首发日期：2020-10-18 （第七回 博麗神社秋季例大祭 (未找到链接)）合同志 （一般向） 216&#160;页東方紅魔郷・蓬莱人形20周年記念合同 封面图片 (未找到链接)東方紅魔郷・蓬莱人形20周年記念合同 (未找到链接)首发日期：未知 - [](./東方妖々夢・蓮台野夜行20周年記念合同.md)[東方妖々夢・蓮台野夜行20周年記念合同](./東方妖々夢・蓮台野夜行20周年記念合同.md)首发日期：2023-11-12 （第十回 博麗神社秋季例大祭 (未找到链接)）合同志 （一般向）B5&#160;尺寸 108&#160;页
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -39,6 +44,7 @@ Journey Railway（同人社团，同人志社团） - Journey Railway ，于 202
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 参展信息

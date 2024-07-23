@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Brave_Soul封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/6/61/Brave_Soul%E5%B0%81%E9%9D%A2.jpg/252px-Brave_Soul%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="252" srcset="https://upload.thwiki.cc/thumb/6/61/Brave_Soul%E5%B0%81%E9%9D%A2.jpg/378px-Brave_Soul%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/6/61/Brave_Soul%E5%B0%81%E9%9D%A2.jpg/504px-Brave_Soul%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="3000" data-file-height="3000"></a><div class="cover-char">角色：<a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a>，<a href="./小恶魔.md" title="小恶魔">小恶魔</a></div></td>
@@ -18,6 +19,7 @@ Brave Soul（同人专辑，Suiren ：MusicStorage，2023） - 2023年11月12日
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=2140006">蜜瓜</a>，<a rel="nofollow" class="external text" href="https://storagestore.booth.pm/items/5234174">Booth</a></td></tr></tbody></table>
 
 
+
 ## Staff
   
  **Arrangement**   
@@ -27,6 +29,7 @@ Brave Soul（同人专辑，Suiren ：MusicStorage，2023） - 2023年11月12日
 
 Illustration
 : 猫丸りお (未找到链接) （[X&#160;: @nekomarurio](https://twitter.com/nekomarurio)）
+
 
 ## 试听
 
@@ -40,9 +43,11 @@ Illustration
 </td></tr></tbody></table>
 
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Brave_Soul" colspan="2" class="title">Brave Soul<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Suiren&amp;ogmusic=亡き王女の為のセプテット&amp;fromwiki=Brave_Soul"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:26</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=Suiren&amp;action=edit&amp;redlink=1" class="new" title="Suiren（页面不存在）">Suiren</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Suiren&amp;fromwiki=Brave_Soul"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=亡き王女の為のセプテット&amp;fromwiki=Brave_Soul"><span></span></a></span><div class="ogmusic"><a href="/%E4%BA%A1%E3%81%8D%E7%8E%8B%E5%A5%B3%E3%81%AE%E7%82%BA%E3%81%AE%E3%82%BB%E3%83%97%E3%83%86%E3%83%83%E3%83%88" class="mw-redirect" title="亡き王女の為のセプテット">亡き王女の為のセプテット</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E7%BA%A2%E9%AD%94%E4%B9%A1_%EF%BD%9E_the_Embodiment_of_Scarlet_Devil." class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Brave_Soul" colspan="2" class="title">Brave Soul<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Suiren&amp;ogmusic=亡き王女の為のセプテット&amp;fromwiki=Brave_Soul"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:26</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=Suiren&amp;action=edit&amp;redlink=1" class="new" title="Suiren（页面不存在）">Suiren</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Suiren&amp;fromwiki=Brave_Soul"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=亡き王女の為のセプテット&amp;fromwiki=Brave_Soul"><span></span></a></span><div class="ogmusic"><a href="./亡き王女の為のセプテット.md" class="mw-redirect" title="亡き王女の為のセプテット">亡き王女の為のセプテット</a></div><div class="source"><a href="./东方红魔乡_～_the_Embodiment_of_Scarlet_Devil..md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

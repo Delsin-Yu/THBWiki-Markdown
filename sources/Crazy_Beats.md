@@ -4,7 +4,8 @@
 
 Crazy Beats ，于 2015 年成立，主要制作 同人音乐 的日本同人社团，主催是 DJ もっちー，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -30,19 +31,23 @@ Crazy Beats ，于 2015 年成立，主要制作 同人音乐 的日本同人社
 
 
 
+
 ## 社团信息
 [](./文件-Crazy_Beatsbanner.jpg.md)  [](./文件-Crazy_Beatsbanner.jpg.md)banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Crazy Beats </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2015</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=DJ_%E3%82%82%E3%81%A3%E3%81%A1%E3%83%BC&amp;action=edit&amp;redlink=1" class="new" title="DJ もっちー（页面不存在）">DJ もっちー</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://crazy-beats.jp/">http://crazy-beats.jp/</a> <br><a rel="nofollow" class="external free" href="https://soundcloud.com/crazybeats-official">https://soundcloud.com/crazybeats-official</a><br><a rel="nofollow" class="external free" href="https://twitter.com/crazybeats141">https://twitter.com/crazybeats141</a><br><a rel="nofollow" class="external free" href="https://www.youtube.com/channel/UCWu-ZWMEJJeOVn1ZxE3avzw">https://www.youtube.com/channel/UCWu-ZWMEJJeOVn1ZxE3avzw</a></td></tr></tbody></table>
 
 Crazy Beats（同人社团，同人音乐社团） - Crazy Beats ，于 2015 年成立，主要制作 同人音乐 的日本同人社团，主催是 DJ もっちー，当前状态为 活动
+
 ## 成员名单
 - DJ もっちー (未找到链接)
 - [Tsukasa](./Tsukasa.md)
 - さいとうかおり (未找到链接)
 - NAGISA (未找到链接)
 
+
 ## 作品列表
+
 ### 頭文字T T-SELECTION
 [](./頭文字T_T-SELECTION_Vol.01.md)[頭文字T T-SELECTION Vol.01](./頭文字T_T-SELECTION_Vol.01.md)首发日期：2015-08-14 （Comic Market 88 (未找到链接)）CBIT-0001全长 （一般向）[](./頭文字T_T-SELECTION_Vol.02.md)[頭文字T T-SELECTION Vol.02](./頭文字T_T-SELECTION_Vol.02.md)首发日期：2015-12-30 （Comic Market 89 (未找到链接)）CBIT-0002全长 （一般向）[](./頭文字T_T-SELECTION_Vol.03.md)[頭文字T T-SELECTION Vol.03](./頭文字T_T-SELECTION_Vol.03.md)首发日期：2016-08-13 （Comic Market 90 (未找到链接)）CBIT-0003全长 （一般向）[](./頭文字T_T-SELECTION_Vol.04.md)[頭文字T T-SELECTION Vol.04](./頭文字T_T-SELECTION_Vol.04.md)首发日期：2016-12-29 （Comic Market 91 (未找到链接)）CBIT-0005全长 （一般向）[](./頭文字T_T-SELECTION_Vol.05.md)[頭文字T T-SELECTION Vol.05](./頭文字T_T-SELECTION_Vol.05.md)首发日期：2017-08-11 （Comic Market 92 (未找到链接)）CBIT-0007全长 （一般向）[](./THE_BEST_OF_頭文字T「SHOCKING_BEST」.md)[THE BEST OF 頭文字T「SHOCKING BEST」](./THE_BEST_OF_頭文字T「SHOCKING_BEST」.md)首发日期：2017-12-29 （Comic Market 93 (未找到链接)）CBIT-0011精选集、​混音集 （一般向）[](./頭文字T_T-SELECTION_VOL.06.md)[頭文字T T-SELECTION Vol.06](./頭文字T_T-SELECTION_VOL.06.md)首发日期：2017-12-29 （Comic Market 93 (未找到链接)）CBIT-0010全长 （一般向）[](./頭文字T_T-SELECTION_Vol.07.md)[頭文字T T-SELECTION Vol.07](./頭文字T_T-SELECTION_Vol.07.md)首发日期：2018-08-10 （Comic Market 94 (未找到链接)）CBIT-0013全长 （一般向）[](./頭文字T_T-SELECTION_Vol.08.md)[頭文字T T-SELECTION Vol.08](./頭文字T_T-SELECTION_Vol.08.md)首发日期：2018-12-30 （Comic Market 95 (未找到链接)）CBIT-0016全长 （一般向）[](./頭文字T_T-SELECTION_Vol.09.md)[頭文字T T-SELECTION Vol.09](./頭文字T_T-SELECTION_Vol.09.md)首发日期：2019-08-12 （Comic Market 96 (未找到链接)）CBIT-0018全长、​混音集 （一般向）[](./頭文字T_T-SELECTION_Vol.10.md)[頭文字T T-SELECTION Vol.10](./頭文字T_T-SELECTION_Vol.10.md)首发日期：2019-12-31 （Comic Market 97 (未找到链接)）CBIT-0021全长 （一般向）[](./THE_BEST_OF_頭文字T「EXCITING_BEST」.md)[THE BEST OF 頭文字T「EXCITING BEST」](./THE_BEST_OF_頭文字T「EXCITING_BEST」.md)首发日期：2019-12-31 （Comic Market 97 (未找到链接)）CBIT-0023精选集 （一般向）[](./THE_BEST_OF_頭文字T「AMAZING_BEST」.md)[THE BEST OF 頭文字T「AMAZING BEST」](./THE_BEST_OF_頭文字T「AMAZING_BEST」.md)首发日期：2021-12-31 （Comic Market 99 (未找到链接)）CBIT-0029精选集 （一般向）该专辑包含 2 张CD
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -73,6 +78,7 @@ Crazy Beats（同人社团，同人音乐社团） - Crazy Beats ，于 2015 年
 </table>
 
 
+
 ### TOHO EURO NIGHT
 [](./TOHO_EURO_NIGHT_ONE.md)[TOHO EURO NIGHT ONE](./TOHO_EURO_NIGHT_ONE.md)首发日期：2016-08-13 （Comic Market 90 (未找到链接)）CBIT-0004精选集 （一般向）[](./TOHO_EURO_NIGHT_TWO.md)[TOHO EURO NIGHT TWO](./TOHO_EURO_NIGHT_TWO.md)首发日期：2017-08-11 （Comic Market 92 (未找到链接)）CBIT-0008全长、​混音集 （一般向）[](./TOHO_EURO_NIGHT_THREE.md)[TOHO EURO NIGHT THREE](./TOHO_EURO_NIGHT_THREE.md)首发日期：2018-08-10 （Comic Market 94 (未找到链接)）CBIT-0014混音集、​精选集 （一般向）[](./TOHO_EURO_NIGHT_FOUR.md)[TOHO EURO NIGHT FOUR](./TOHO_EURO_NIGHT_FOUR.md)首发日期：2019-08-12 （Comic Market 96 (未找到链接)）CBIT-0019全长、​混音集 （一般向）[](./TOHO_EURO_NIGHT_FIVE.md)[TOHO EURO NIGHT FIVE](./TOHO_EURO_NIGHT_FIVE.md)首发日期：2021-03-21 （第十八回 博麗神社例大祭 (未找到链接)）CBIT-0026全长、​精选集 （一般向）
 <table><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
@@ -87,6 +93,7 @@ Crazy Beats（同人社团，同人音乐社团） - Crazy Beats ，于 2015 年
 </table>
 
 
+
 ### TOHO DANCE PARTY
 [](./TOHO_DANCE_PARTY_01.md)[TOHO DANCE PARTY 01](./TOHO_DANCE_PARTY_01.md)首发日期：2019-08-12 （Comic Market 96 (未找到链接)）CBIT-0020全长、​混音集 （一般向）[](./TOHO_DANCE_PARTY_02.md)[TOHO DANCE PARTY 02](./TOHO_DANCE_PARTY_02.md)首发日期：2019-12-31 （Comic Market 97 (未找到链接)）CBIT-0022混音集 （一般向）[](./TOHO_DANCE_MIX.md)[TOHO DANCE MIX](./TOHO_DANCE_MIX.md)首发日期：2020-08-09 （東方名華祭14 (未找到链接)）CBIT-0024混音集 （一般向）
 <table><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
@@ -97,12 +104,14 @@ Crazy Beats（同人社团，同人音乐社团） - Crazy Beats ，于 2015 年
 </table>
 
 
+
 ### GENSOU DANCE FESTIVAL
 [](./GENSOU_DANCE_FESTIVAL_01.md)[GENSOU DANCE FESTIVAL 01](./GENSOU_DANCE_FESTIVAL_01.md)首发日期：2021-03-21 （第十八回 博麗神社例大祭 (未找到链接)）CBIT-0027全长 （一般向）[](./GENSOU_DANCE_FESTIVAL_02.md)[GENSOU DANCE FESTIVAL 02](./GENSOU_DANCE_FESTIVAL_02.md)首发日期：2021-10-24 （第八回 博麗神社秋季例大祭 (未找到链接)）CBIT-0028全长 （一般向）
 <table><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ### BEST
@@ -117,16 +126,19 @@ Crazy Beats（同人社团，同人音乐社团） - Crazy Beats ，于 2015 年
 </table>
 
 
+
 ### TOHO EURO SPLASH
 [](./TOHO_EURO_SPLASH_1.md)[TOHO EURO SPLASH 1](./TOHO_EURO_SPLASH_1.md)首发日期：2020-10-11 （東方紅楼夢16 (未找到链接)）CBIT-0025全长、​混音集 （一般向）
 <table><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
 
 
+
 ### Remix
 [](./CRAZY_REMIXES_01.md)[CRAZY REMIXES 01](./CRAZY_REMIXES_01.md)首发日期：2022-08-14 （Comic Market 100 (未找到链接)）CBIT-0030混音集 （一般向）
 <table><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ### SUPER MUSIC SELECTIONS
@@ -137,10 +149,12 @@ Crazy Beats（同人社团，同人音乐社团） - Crazy Beats ，于 2015 年
 </table>
 
 
+
 ### HARENO HONOKA MUSIC SELECTIONS
 HARENO HONOKA MUSIC SELECTIONS Vol.01 封面图片 (未找到链接)[HARENO HONOKA MUSIC SELECTIONS Vol.01](./HARENO_HONOKA_MUSIC_SELECTIONS_Vol.01.md)首发日期：2024-05-03 （第二十一回 博麗神社例大祭 (未找到链接)）HHRM-001单曲 （一般向）
 <table><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ### TOHO INST-COLLECTION
@@ -167,12 +181,14 @@ HARENO HONOKA MUSIC SELECTIONS Vol.01 封面图片 (未找到链接)[HARENO HONO
 </table>
 
 
+
 ### 限定
 [](./C97同時購入特典.md)[C97同時購入特典](./C97同時購入特典.md)首发日期：2019-12-31 （Comic Market 97 (未找到链接)）Omake （一般向）该作品是与 [NJK Record](./NJK_Record.md) 合作创作的冬コミ限定特典CD 封面图片 (未找到链接)[冬コミ限定特典CD](./冬コミ限定特典CD.md)首发日期：2021-12-31 （Comic Market 99 (未找到链接)）Omake （一般向）该作品是与 [K2E†Cradle](./K2E†Cradle.md) 合作创作的
 <table><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 参展信息

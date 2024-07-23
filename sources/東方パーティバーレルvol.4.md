@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-東方パーティバーレルvol.4封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/e/ee/%E6%9D%B1%E6%96%B9%E3%83%91%E3%83%BC%E3%83%86%E3%82%A3%E3%83%90%E3%83%BC%E3%83%AC%E3%83%ABvol.4%E5%B0%81%E9%9D%A2.jpg/140px-%E6%9D%B1%E6%96%B9%E3%83%91%E3%83%BC%E3%83%86%E3%82%A3%E3%83%90%E3%83%BC%E3%83%AC%E3%83%ABvol.4%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="140" height="196" srcset="https://upload.thwiki.cc/thumb/e/ee/%E6%9D%B1%E6%96%B9%E3%83%91%E3%83%BC%E3%83%86%E3%82%A3%E3%83%90%E3%83%BC%E3%83%AC%E3%83%ABvol.4%E5%B0%81%E9%9D%A2.jpg/210px-%E6%9D%B1%E6%96%B9%E3%83%91%E3%83%BC%E3%83%86%E3%82%A3%E3%83%90%E3%83%BC%E3%83%AC%E3%83%ABvol.4%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/e/ee/%E6%9D%B1%E6%96%B9%E3%83%91%E3%83%BC%E3%83%86%E3%82%A3%E3%83%90%E3%83%BC%E3%83%AC%E3%83%ABvol.4%E5%B0%81%E9%9D%A2.jpg/280px-%E6%9D%B1%E6%96%B9%E3%83%91%E3%83%BC%E3%83%86%E3%82%A3%E3%83%90%E3%83%BC%E3%83%AC%E3%83%ABvol.4%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="500" data-file-height="699"></a><div class="cover-char">角色：<a href="./河城荷取.md" title="河城荷取">河城荷取</a>，<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://karaageyasan.blog38.fc2.com/blog-entry-118.html">http://karaageyasan.blog38.fc2.com/blog-entry-118.html</a></td></tr></tbody></table>
 
 東方パーティバーレルvol.4（同人志，からあげ屋さん，2010） - 2010年12月30日 由 からあげ屋さん 于 Comic Market 79 发布的漫画同人志，B5尺寸一共28页，分级为 一般向
+
 ## Staff
 - からあげ太郎
+
 
 ## 评论
 

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -38,21 +39,25 @@
 
 
 
+
 ## 基本信息
 
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">悲しき人形　～ Doll of Misery</td></tr><tr><td><b>译名</b></td><td>可悲的人偶 ～ Doll of Misery</td></tr><tr><td><b>英文译名</b></td><td>Doll of Misery</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 可悲的人偶 ～ Doll of Misery（曲目） - 由 ZUN 创作的官方曲目，原名 悲しき人形　～ Doll of Misery
+
 ## 出现作品
 
 <table>
 <tbody><tr><td>1998年12月30日（Comic Market 55）</td><td><b><a href="./东方怪绮谈.md" title="东方怪绮谈">东方怪绮谈</a></b></td><td>5面BOSS<a href="./梦子.md" title="梦子">梦子</a>的主题曲</td><td style="padding-left:5px;">悲しき人形　～ Doll of Misery（可悲的人偶 ～ Doll of Misery）</td><td style="padding-left:10px;">作曲：ZUN</td></tr>
 <tr><td>2001年8月27日（非展会）</td><td><b><a href="./东方幻想怀古曲.md" title="东方幻想怀古曲">东方幻想怀古曲</a></b></td><td>东方怪绮谈</td><td style="padding-left:5px;">悲しき人形　～ Doll of Misery（可悲的人偶 ～ Doll of Misery）</td><td style="padding-left:10px;">作曲：ZUN</td></tr>
-<tr><td>2006年12月31日（Comic Market 71）</td><td><b><a href="/%E5%B9%BA%E4%B9%90%E5%9B%A2%E7%9A%84%E5%8E%86%E5%8F%B2_vol.2" class="mw-redirect" title="幺乐团的历史 vol.2">幺乐团的历史 vol.2</a></b></td><td>第13轨</td><td style="padding-left:5px;">悲しき人形　～ Doll of Misery（可悲的人偶 ～ Doll of Misery）</td><td style="padding-left:10px;">编曲：ZUN</td></tr>
+<tr><td>2006年12月31日（Comic Market 71）</td><td><b><a href="./幺乐团的历史_vol.2.md" class="mw-redirect" title="幺乐团的历史 vol.2">幺乐团的历史 vol.2</a></b></td><td>第13轨</td><td style="padding-left:5px;">悲しき人形　～ Doll of Misery（可悲的人偶 ～ Doll of Misery）</td><td style="padding-left:10px;">编曲：ZUN</td></tr>
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 东方怪绮谈
   
 YM2203(OPN)，FM26K音源版。
@@ -70,9 +75,11 @@ YM2608(OPNA)，FM86音源版。
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th05_13_86.ogg.md" title="文件:th05 13 86.ogg">th05_13_86.ogg</a><br><audio src="https://upload.thwiki.cc/6/6b/th05_13_86.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>ST04B.M2</td></tr><tr><td><b>音轨时长</b></td><td>1:49.515</td></tr></tbody></table>
 
 
+
 ### 东方幻想怀古曲
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-thgs05_13.ogg.md" title="文件:thgs05 13.ogg">thgs05_13.ogg</a><br><audio src="https://upload.thwiki.cc/3/31/thgs05_13.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>th5_13.m</td></tr><tr><td><b>音轨时长</b></td><td>1:49.515</td></tr></tbody></table>
+
 
 
 ### 幺乐团的历史 vol.2
@@ -80,7 +87,9 @@ YM2608(OPNA)，FM86音源版。
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-ha02_13.mp3.md" title="文件:ha02 13.mp3">ha02_13.mp3</a><br><audio src="https://upload.thwiki.cc/b/b4/ha02_13.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track13.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>3:53</td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 东方怪绮谈
 - Music Room (未找到链接)
 
@@ -95,6 +104,7 @@ YM2608(OPNA)，FM86音源版。
 ＺＵＮ（太田）  
 怪绮谈5面boss的曲子  
 说不定确实稍微有些疯狂呢（笑）。
+
 ### 东方幻想怀古曲
 - th5_13pmd.txt (未找到链接)
 
@@ -131,8 +141,11 @@ YM2608(OPNA)，FM86音源版。
 曲子的感想、请求等，这边请  
 　东方幻想空间　「博丽神社」 [http://www16.big.or.jp/~zun/](http://www16.big.or.jp/~zun/)  
 　e-Mail　　　　　　　　　　 zun@big.or.jp
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
   
  **悲しき人形　～ Doll of Misery** 
@@ -159,6 +172,7 @@ YM2608(OPNA)，FM86音源版。
 
 - 人偶
   - 梦子是神绮创造的“人偶”？
+
 
 
 ### 二次同人数据

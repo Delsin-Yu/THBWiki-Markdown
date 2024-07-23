@@ -4,7 +4,8 @@
 
 Palais der Arien ，主要制作 同人音乐 的国际同人社团，当前状态为 休止
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -25,11 +26,13 @@ Palais der Arien ，主要制作 同人音乐 的国际同人社团，当前状�
 
 
 
+
 ## 社团信息
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Palais der Arien </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>地区</b></td><td>国际</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://kaiserdom.web.fc2.com/">http://kaiserdom.web.fc2.com/</a> <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span></td></tr></tbody></table>
 
 Palais der Arien（同人社团，同人音乐社团） - Palais der Arien ，主要制作 同人音乐 的国际同人社团，当前状态为 休止
+
 ## 成员名单
 - Marly (未找到链接)
 - Muesli (未找到链接)
@@ -40,7 +43,9 @@ Palais der Arien（同人社团，同人音乐社团） - Palais der Arien ，�
 
 : [Youtube user: ImperialLeon](https://www.youtube.com/user/ImperialLeon), [Twitter: @aensland_ksrdm](https://twitter.com/aensland_ksrdm)
 
+
 ## 作品列表
+
 ### 同人专辑
 [](./Symphony_No._1_-_Forgotten_opus_of_sacred_history.md)[Symphony No. 1 - Forgotten opus of sacred history](./Symphony_No._1_-_Forgotten_opus_of_sacred_history.md)首发日期：未知 PDA-001全长 （一般向）专辑分为四部分:  
 First Movement ~ Day (Tr. 1-3)  
@@ -55,7 +60,9 @@ Fourth Movement ~ Dawn (Tr. 10-11)[](./Concerto_No._1_~_Royal_cadenza_of_world's
 </table>
 
 
+
 ## 其他信息
+
 ### 相关社团
 - [Grimoire Technology](./Grimoire_Technology.md)（Marly的个人社团）
 

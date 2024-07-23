@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -42,11 +43,13 @@
 
 
 
+
 ## 基本信息
 
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">プレインエイジア</td></tr><tr><td><b>译名</b></td><td>Plain Asia</td></tr><tr><td><b>其他译名</b></td><td>一如既往的东方</td></tr><tr><td><b>常见误译</b></td><td><s><i>东方的平原</i></s></td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 Plain Asia（曲目） - 由 ZUN 创作的官方曲目，原名 プレインエイジア
+
 ## 出现作品
 
 <table>
@@ -55,8 +58,11 @@ Plain Asia（曲目） - 由 ZUN 创作的官方曲目，原名 プレインエ�
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 东方永夜抄
+
 #### WAV
   
 WAV版是游戏的原声带。
@@ -71,6 +77,7 @@ WAV版是游戏的原声带。
 </td></tr></tbody></table>
 
 
+
 #### MIDI
   
 MIDI版由Roland Sound Canvas 88Pro实机录音得到。
@@ -80,7 +87,9 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td><a href="./文件-th08_07.mid.md" title="文件:th08 07.mid">th08_07.mid</a></td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th08_07_SC88Pro.mp3.md" title="文件:th08 07 SC88Pro.mp3">th08_07_SC88Pro.mp3</a><br><audio src="https://upload.thwiki.cc/5/55/th08_07_SC88Pro.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>th08_07.mid</td></tr><tr><td><b>音轨时长</b></td><td>1:02</td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 东方永夜抄
 - Music Room (未找到链接)
 
@@ -95,17 +104,22 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
 　7.Plain Asia  
 　　普通的东方。  
 　　曲名连后缀都没有。
+
 ### 东方文花帖（书籍）
 - 幻想的音觉 (未找到链接)
 
 （『[东方永夜抄](./东方永夜抄.md)』收录曲）　　这才是日本人眼中的日本，我是抱着这种干劲来作曲的。尽管所谓的纯和风音乐也是有的，但那完全是被虚构出来的日本。看起来日本人使得历史之物再次成长，但其实那意味着开始分隔历史和现代。实际上，由于使用了现代风的手段，我觉得自然而言的就应该以在某些地方带入日本元素为目标。  
 　　这首曲子是当前我心目中的日本之歌。并不局限于三味线和尺八，也不是只用日本独有的音阶，而是通过某种东西来表现。听到这种曲子的时候，会有种“生在日本真好啊”的幻觉。诶，幻觉？不不，幻觉不是固执己见之类的。
+
 ### 东方Project人气投票
 - 日文东方人气投票记录 (未找到链接)
 
 从前奏开始印象就十分强烈，很像是我作曲卡壳时，能无意识地弹出的曲子。
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
   
  **プレインエイジア**  Plain Asia
@@ -116,6 +130,7 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
 
 - エイジア（Asia）
   - 亚洲。全称“亚细亚洲”。亚细亚，古希腊语，意为“太阳升起的东方”。
+
 
 
 ### 二次同人数据

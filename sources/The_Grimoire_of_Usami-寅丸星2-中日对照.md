@@ -12,7 +12,7 @@ The_Grimoire_of_Usami | 使用了翻译表的页面 | 宇佐见的魔法书 | �
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./The_Grimoire_of_Usami-村纱水蜜2-中日对照.md" title="The Grimoire of Usami/村纱水蜜2/中日对照">村纱水蜜2</a>&#160;
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="/%E5%AE%87%E4%BD%90%E8%A7%81%E7%9A%84%E9%AD%94%E6%B3%95%E4%B9%A6" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a>&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="./宇佐见的魔法书.md" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a>&#160;
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">&#160;<a href="./The_Grimoire_of_Usami-圣白莲2-中日对照.md" title="The Grimoire of Usami/圣白莲2/中日对照">圣白莲2</a>
 </td>
@@ -25,7 +25,7 @@ The_Grimoire_of_Usami | 使用了翻译表的页面 | 宇佐见的魔法书 | �
 - 翻译：Keroism
 
 
-<table><tbody><tr class="tt-content-header" id="=-1" data-pos="&#91;&quot;=&quot;,1&#93;"><td class="tt-jah" lang="ja"><div class="poem">「コンプリートクラリフィケイション」</div></td><td class="tt-zhh" lang="zh"><div class="poem"><a href="/%E3%80%8CComplete_Clarification%E3%80%8D" class="mw-redirect" title="「Complete Clarification」">「Complete Clarification」</a></div></td></tr><tr class="tt-content" id="=-2" data-pos="&#91;&quot;=&quot;,2&#93;"><td class="tt-ja" lang="ja"><div class="poem">使用者：寅丸星</div></td><td class="tt-zh" lang="zh"><div class="poem">使用者：<a href="./寅丸星.md" title="寅丸星">寅丸星</a></div></td></tr><tr class="tt-content" id="=-3" data-pos="&#91;&quot;=&quot;,3&#93;"><td class="tt-ja" lang="ja"><div class="poem">ふふふ、<br>殺意が解禁されたのね。<br>弾幕はやっぱり<br>こうじゃないとねぇ。<br><big>獣の血が<br>騒ぐ……！</big></div></td><td class="tt-zh" lang="zh"><div class="poem">呵呵呵，<br>杀意解禁了呀。<br>弹幕果然还是<br>得要像这样才行呢。<br><big>兽性之血<br>正在沸腾……！</big></div></td></tr><tr class="tt-header" id="=-4" data-pos="&#91;&quot;=&quot;,4&#93;"><td colspan="2" id="宇佐见堇子" class="tt-header" lang="zh"><div class="poem">宇佐见堇子</div></td></tr><tr class="tt-content" id="=-5" data-pos="&#91;&quot;=&quot;,5&#93;"><td class="tt-ja" lang="ja"><div class="poem">もの凄く整った弾幕から崩れて散っていくまで、変化に富んだ弾幕です。格好良いなぁ。</div></td><td class="tt-zh" lang="zh"><div class="poem">从整齐排列到四处散乱，富有变化的弹幕。真帅啊。</div></td></tr><tr class="tt-header" id="=-6" data-pos="&#91;&quot;=&quot;,6&#93;"><td colspan="2" id="八云紫" class="tt-header" lang="zh"><div class="poem">八云紫</div></td></tr><tr class="tt-content" id="=-7" data-pos="&#91;&quot;=&quot;,7&#93;"><td class="tt-ja" lang="ja"><div class="poem">これはね、法の光に見せかけて、竹林の中に潜む獰猛な虎を表現しているのよ。人間なんか一呑みする妖怪だわ。</div></td><td class="tt-zh" lang="zh"><div class="poem">这个呀，表面上看起来是法之光，其实是在表现潜行于竹林中的猛虎啊。这可是能把人类什么的一口吞下的妖怪哦。</div></td></tr><tr class="tt-header" id="=-8" data-pos="&#91;&quot;=&quot;,8&#93;"><td colspan="2" id="鬼人正邪" class="tt-header" lang="zh"><div class="poem">鬼人正邪</div></td></tr><tr class="tt-content" id="=-9" data-pos="&#91;&quot;=&quot;,9&#93;"><td class="tt-ja" lang="ja"><div class="poem">獣のくせに格好付けてんじゃねーよ。本能のままに肉を食え、酒を呑め。</div></td><td class="tt-zh" lang="zh"><div class="poem">区区兽类在耍什——么帅呢。给我顺从本能吃肉喝酒吧。</div></td></tr></tbody></table>
+<table><tbody><tr class="tt-content-header" id="=-1" data-pos="&#91;&quot;=&quot;,1&#93;"><td class="tt-jah" lang="ja"><div class="poem">「コンプリートクラリフィケイション」</div></td><td class="tt-zhh" lang="zh"><div class="poem"><a href="./「Complete_Clarification」.md" class="mw-redirect" title="「Complete Clarification」">「Complete Clarification」</a></div></td></tr><tr class="tt-content" id="=-2" data-pos="&#91;&quot;=&quot;,2&#93;"><td class="tt-ja" lang="ja"><div class="poem">使用者：寅丸星</div></td><td class="tt-zh" lang="zh"><div class="poem">使用者：<a href="./寅丸星.md" title="寅丸星">寅丸星</a></div></td></tr><tr class="tt-content" id="=-3" data-pos="&#91;&quot;=&quot;,3&#93;"><td class="tt-ja" lang="ja"><div class="poem">ふふふ、<br>殺意が解禁されたのね。<br>弾幕はやっぱり<br>こうじゃないとねぇ。<br><big>獣の血が<br>騒ぐ……！</big></div></td><td class="tt-zh" lang="zh"><div class="poem">呵呵呵，<br>杀意解禁了呀。<br>弹幕果然还是<br>得要像这样才行呢。<br><big>兽性之血<br>正在沸腾……！</big></div></td></tr><tr class="tt-header" id="=-4" data-pos="&#91;&quot;=&quot;,4&#93;"><td colspan="2" id="宇佐见堇子" class="tt-header" lang="zh"><div class="poem">宇佐见堇子</div></td></tr><tr class="tt-content" id="=-5" data-pos="&#91;&quot;=&quot;,5&#93;"><td class="tt-ja" lang="ja"><div class="poem">もの凄く整った弾幕から崩れて散っていくまで、変化に富んだ弾幕です。格好良いなぁ。</div></td><td class="tt-zh" lang="zh"><div class="poem">从整齐排列到四处散乱，富有变化的弹幕。真帅啊。</div></td></tr><tr class="tt-header" id="=-6" data-pos="&#91;&quot;=&quot;,6&#93;"><td colspan="2" id="八云紫" class="tt-header" lang="zh"><div class="poem">八云紫</div></td></tr><tr class="tt-content" id="=-7" data-pos="&#91;&quot;=&quot;,7&#93;"><td class="tt-ja" lang="ja"><div class="poem">これはね、法の光に見せかけて、竹林の中に潜む獰猛な虎を表現しているのよ。人間なんか一呑みする妖怪だわ。</div></td><td class="tt-zh" lang="zh"><div class="poem">这个呀，表面上看起来是法之光，其实是在表现潜行于竹林中的猛虎啊。这可是能把人类什么的一口吞下的妖怪哦。</div></td></tr><tr class="tt-header" id="=-8" data-pos="&#91;&quot;=&quot;,8&#93;"><td colspan="2" id="鬼人正邪" class="tt-header" lang="zh"><div class="poem">鬼人正邪</div></td></tr><tr class="tt-content" id="=-9" data-pos="&#91;&quot;=&quot;,9&#93;"><td class="tt-ja" lang="ja"><div class="poem">獣のくせに格好付けてんじゃねーよ。本能のままに肉を食え、酒を呑め。</div></td><td class="tt-zh" lang="zh"><div class="poem">区区兽类在耍什——么帅呢。给我顺从本能吃肉喝酒吧。</div></td></tr></tbody></table>
 
 
 <center>
@@ -36,7 +36,7 @@ The_Grimoire_of_Usami | 使用了翻译表的页面 | 宇佐见的魔法书 | �
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./The_Grimoire_of_Usami-村纱水蜜2-中日对照.md" title="The Grimoire of Usami/村纱水蜜2/中日对照">村纱水蜜2</a>&#160;
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="/%E5%AE%87%E4%BD%90%E8%A7%81%E7%9A%84%E9%AD%94%E6%B3%95%E4%B9%A6" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a>&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="./宇佐见的魔法书.md" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a>&#160;
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">&#160;<a href="./The_Grimoire_of_Usami-圣白莲2-中日对照.md" title="The Grimoire of Usami/圣白莲2/中日对照">圣白莲2</a>
 </td>
@@ -45,6 +45,7 @@ The_Grimoire_of_Usami | 使用了翻译表的页面 | 宇佐见的魔法书 | �
 
   
 </center>
+
 
 ## 词条导航
   

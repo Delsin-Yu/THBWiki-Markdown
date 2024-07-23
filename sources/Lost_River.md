@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -34,11 +35,13 @@
 
 
 
+
 ## 基本信息
 
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">ロストリバー</td></tr><tr><td><b>译名</b></td><td>Lost River</td></tr><tr><td><b>其他译名</b></td><td>迷失之河<br>失落之河</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 Lost River（曲目） - 由 ZUN 创作的官方曲目，原名 ロストリバー
+
 ## 出现作品
 
 <table>
@@ -47,7 +50,9 @@ Lost River（曲目） - 由 ZUN 创作的官方曲目，原名 ロストリバ�
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 东方鬼形兽
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th17_04.mp3.md" title="文件:th17 04.mp3">th17_04.mp3</a><br><audio src="https://upload.thwiki.cc/a/a0/th17_04.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>BGM\th17_04.wav</td></tr><tr><td><b>BGMForAll</b></td><td><div class="mw-collapsible mw-collapsed">
@@ -58,7 +63,9 @@ Lost River（曲目） - 由 ZUN 创作的官方曲目，原名 ロストリバ�
 </td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 东方鬼形兽
 - Music Room (未找到链接)
 
@@ -68,8 +75,11 @@ Lost River（曲目） - 由 ZUN 创作的官方曲目，原名 ロストリバ�
 　比起河，不如说是以海上的战斗为印象创作了这首曲子。  
 　栖息在水中的鱼类，可能也包含已经灭绝的古代鱼，  
 　甚至是蛇颈龙。真是让人浮想联翩。
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
   
  **ロストリバー**  Lost River
@@ -79,6 +89,7 @@ Lost River（曲目） - 由 ZUN 创作的官方曲目，原名 ロストリバ�
   - 迷失。
     - 迷失之河。
       - 指魂魄妖梦和雾雨魔理沙于三途河迷失方向？
+
 
 
 

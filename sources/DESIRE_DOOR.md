@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-DESIRE_DOOR封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/c/c2/DESIRE_DOOR%E5%B0%81%E9%9D%A2.jpg/159px-DESIRE_DOOR%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="159" height="224" srcset="https://upload.thwiki.cc/c/c2/DESIRE_DOOR%E5%B0%81%E9%9D%A2.jpg 1.5x" data-file-width="200" data-file-height="282"></a><div class="cover-char">角色：<a href="./宇佐见莲子.md" title="宇佐见莲子">宇佐见莲子</a>，<a href="./玛艾露贝莉·赫恩.md" title="玛艾露贝莉·赫恩">玛艾露贝莉·赫恩</a></div></td>
@@ -13,8 +14,10 @@
 </tr><tr><td class="label">首发日期</td><td>2012-09-09&#160;（<a href="/展会作品列表?e=%E5%A2%83%E7%95%8C%E6%89%80%E8%A7%81%E5%88%B0%E7%9A%84%E5%A4%96%E7%95%8C%232">境界から視えた外界 -廻-</a>）</td></tr><tr><td class="label">类型</td><td>漫画</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>B5</td></tr><tr><td class="label">页数</td><td>44P</td></tr><tr><td class="label">登场人物</td><td><a href="./宇佐见莲子.md" title="宇佐见莲子">宇佐见莲子</a>，<a href="./玛艾露贝莉·赫恩.md" title="玛艾露贝莉·赫恩">玛艾露贝莉·赫恩</a></td></tr><tr><td class="label">售价</td><td>会场售价：500日元<br>通贩售价：630日元</td></tr></tbody></table>
 
 DESIRE DOOR（同人志，ふあん亭，2012） - 2012年9月9日 由 ふあん亭 于 境界所见到的外界2 发布的漫画同人志，B5尺寸一共44页，登场人物有 宇佐见莲子、玛艾露贝莉·赫恩，分级为 一般向
+
 ## Staff
 - フラリ（米泥棒）
+
 
 ## 评论
 

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Un_Viento_Rojo封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/3/3d/Un_Viento_Rojo%E5%B0%81%E9%9D%A2.jpg/98px-Un_Viento_Rojo%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="98" height="140" srcset="https://upload.thwiki.cc/thumb/3/3d/Un_Viento_Rojo%E5%B0%81%E9%9D%A2.jpg/148px-Un_Viento_Rojo%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/3/3d/Un_Viento_Rojo%E5%B0%81%E9%9D%A2.jpg/197px-Un_Viento_Rojo%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="270" data-file-height="384"></a><div class="cover-char">角色：<a href="./射命丸文.md" title="射命丸文">射命丸文</a>，<a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a></div></td>
@@ -14,9 +15,11 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/en/artworks/30565119">https://www.pixiv.net/en/artworks/30565119</a></td></tr></tbody></table>
 
 Un Viento Rojo（同人志，Brisa Marina，2012） - 2012年10月7日 由 Brisa Marina 于 东方红楼梦8 发布的绘本同人志，一共16页，分级为 一般向
+
 ## Staff
 - [aji](./aji.md)
 - トイト (未找到链接)
+
 
 ## 评论
 

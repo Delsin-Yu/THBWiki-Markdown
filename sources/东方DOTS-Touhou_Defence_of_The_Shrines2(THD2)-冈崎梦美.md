@@ -164,6 +164,7 @@ AvalonStudioOfficial
 [](./文件-THD2冈崎梦美.png.md)
   
 
+
 ## 目录
 
 - [1 角色定位](#角色定位)
@@ -184,10 +185,12 @@ AvalonStudioOfficial
 
 
 
+
 ## 角色定位
   
 逃生 - 推进
   
+
 
 ## 技能介绍
 
@@ -781,6 +784,7 @@ AvalonStudioOfficial
 </td></tr></tbody></table>
 
 
+
 ## 天赋树
 
 
@@ -819,25 +823,30 @@ AvalonStudioOfficial
 </td></tr></tbody></table>
 
 
+
 #### 出门装备
 ```
 [](./文件-THD2衰人卡.png.md) [](./文件-THD2天狗护符.png.md) [](./文件-THD2思兼生命药.png.md) [](./文件-THD2雾雨魔力瓶.png.md)
 ```
+
 
 #### 前期装备
 ```
 [](./文件-THD2博丽供奉箱.png.md) [](./文件-THD2元素秘法石.png.md) [](./文件-THD2魔法使扫把.png.md)
 ```
 
+
 #### 核心装备
 ```
 [](./文件-THD2魔力扫把.png.md) [](./文件-THD2魔人经卷.png.md) [](./文件-THD2月面之弓弦.png.md)
 ```
 
+
 #### 可选装备
 ```
 [](./文件-THD2油库里之杖.png.md)  [](./文件-THD2神枪冈格尼尔.png.md)  [](./文件-THD2月曜秘石.png.md)  [](./文件-THD2月面之弩.png.md)  [](./文件-THD2楼观剑.png.md)  [](./文件-THD2博丽神社护身符.png.md)  [](./文件-THD2恶魔的乳牙.png.md)  [](./文件-THD2土蜘蛛之丝.png.md)  [](./文件-THD2魔法使的帽子.png.md)
 ```
+
 
 ## 技能加点
 
@@ -983,6 +992,7 @@ AvalonStudioOfficial
 <td bgcolor="black" width="40px"><span style="color:black;"></span></td>
 <td bgcolor="gray" width="40px"><center><span style="color:white;"><b>25</b></span></center>
 </td></tr></tbody></table>
+
 
 
 ## 台词
@@ -1174,6 +1184,7 @@ AvalonStudioOfficial
 </td>
 <td>やはり現実とは、幻想のレバース<br>[现实果然是幻想的反演]
 </td></tr></tbody></table>
+
 
 
 ## 教学视频

@@ -14,7 +14,7 @@ The_Grimoire_of_Usami | 使用了翻译表的页面 | 八云紫 | 博丽灵梦 |
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./The_Grimoire_of_Usami-猯藏&鵺.md" title="The Grimoire of Usami/猯藏&amp;鵺">猯藏&amp;鵺</a>&#160;
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="/%E5%AE%87%E4%BD%90%E8%A7%81%E7%9A%84%E9%AD%94%E6%B3%95%E4%B9%A6" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a>&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="./宇佐见的魔法书.md" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a>&#160;
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">&#160;<a href="./The_Grimoire_of_Usami-宇佐见堇子的后记.md" title="The Grimoire of Usami/宇佐见堇子的后记">宇佐见堇子的后记</a>
 </td>
@@ -25,7 +25,7 @@ The_Grimoire_of_Usami | 使用了翻译表的页面 | 八云紫 | 博丽灵梦 |
 </center>
 <center>第155页</center>
 
-<table><tbody><tr align="left" valign="top"><td style="min-width:200px;"><div class="tt-zhh tt-type-setting" lang="zh"><div class="poem"><a href="/%E3%80%8C%E6%9C%AA%E7%BB%8F%E8%AE%B8%E5%8F%AF%E7%A6%81%E6%AD%A2%E5%BC%B9%E5%B9%95%E6%91%84%E5%BD%B1%E3%80%8D" class="mw-redirect" title="「未经许可禁止弹幕摄影」">「未经许可禁止弹幕摄影」</a></div></div><div class="tt-zh tt-type-setting" lang="zh"><div class="poem">使用者：<a href="./博丽灵梦.md" title="博丽灵梦">灵梦</a>&amp;<a href="./八云紫.md" title="八云紫">紫</a></div></div><div class="tt-header tt-type-setting" lang="zh"><div class="poem">宇佐见堇子</div></div><div class="tt-zh tt-type-setting" lang="zh"><div class="poem">拍了好多张啊……话说，别在最后说啊～（汗）</div></div><div class="tt-header tt-type-setting" lang="zh"><div class="poem">东风谷早苗</div></div><div class="tt-zh tt-type-setting" lang="zh"><div class="poem">天狗们也拍了很多哦。这种警示得在最开始说才行……</div></div><div class="tt-header tt-type-setting" lang="zh"><div class="poem">魂魄妖梦</div></div><div class="tt-zh tt-type-setting" lang="zh"><div class="poem">就算警示了，天狗们也绝对会拍的啊。</div></div></td><td width="200px"><div class="thumb tleft"><div class="thumbinner" style="width:202px;"><a href="./文件-The_Grimoire_of_Usami（灵梦&紫1）.jpg.md" class="image"><img alt="" src="https://upload.thwiki.cc/thumb/0/0f/The_Grimoire_of_Usami%EF%BC%88%E7%81%B5%E6%A2%A6%26%E7%B4%AB1%EF%BC%89.jpg/200px-The_Grimoire_of_Usami%EF%BC%88%E7%81%B5%E6%A2%A6%26%E7%B4%AB1%EF%BC%89.jpg" decoding="async" loading="lazy" width="200" height="284" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/0/0f/The_Grimoire_of_Usami%EF%BC%88%E7%81%B5%E6%A2%A6%26%E7%B4%AB1%EF%BC%89.jpg/300px-The_Grimoire_of_Usami%EF%BC%88%E7%81%B5%E6%A2%A6%26%E7%B4%AB1%EF%BC%89.jpg 1.5x, https://upload.thwiki.cc/thumb/0/0f/The_Grimoire_of_Usami%EF%BC%88%E7%81%B5%E6%A2%A6%26%E7%B4%AB1%EF%BC%89.jpg/400px-The_Grimoire_of_Usami%EF%BC%88%E7%81%B5%E6%A2%A6%26%E7%B4%AB1%EF%BC%89.jpg 2x" data-file-width="1266" data-file-height="1800"></a>  <div class="thumbcaption"><div class="magnify"><a href="./文件-The_Grimoire_of_Usami（灵梦&紫1）.jpg.md" class="internal" title="放大"></a></div>P155</div></div></div></td></tr></tbody></table>
+<table><tbody><tr align="left" valign="top"><td style="min-width:200px;"><div class="tt-zhh tt-type-setting" lang="zh"><div class="poem"><a href="./「未经许可禁止弹幕摄影」.md" class="mw-redirect" title="「未经许可禁止弹幕摄影」">「未经许可禁止弹幕摄影」</a></div></div><div class="tt-zh tt-type-setting" lang="zh"><div class="poem">使用者：<a href="./博丽灵梦.md" title="博丽灵梦">灵梦</a>&amp;<a href="./八云紫.md" title="八云紫">紫</a></div></div><div class="tt-header tt-type-setting" lang="zh"><div class="poem">宇佐见堇子</div></div><div class="tt-zh tt-type-setting" lang="zh"><div class="poem">拍了好多张啊……话说，别在最后说啊～（汗）</div></div><div class="tt-header tt-type-setting" lang="zh"><div class="poem">东风谷早苗</div></div><div class="tt-zh tt-type-setting" lang="zh"><div class="poem">天狗们也拍了很多哦。这种警示得在最开始说才行……</div></div><div class="tt-header tt-type-setting" lang="zh"><div class="poem">魂魄妖梦</div></div><div class="tt-zh tt-type-setting" lang="zh"><div class="poem">就算警示了，天狗们也绝对会拍的啊。</div></div></td><td width="200px"><div class="thumb tleft"><div class="thumbinner" style="width:202px;"><a href="./文件-The_Grimoire_of_Usami（灵梦&紫1）.jpg.md" class="image"><img alt="" src="https://upload.thwiki.cc/thumb/0/0f/The_Grimoire_of_Usami%EF%BC%88%E7%81%B5%E6%A2%A6%26%E7%B4%AB1%EF%BC%89.jpg/200px-The_Grimoire_of_Usami%EF%BC%88%E7%81%B5%E6%A2%A6%26%E7%B4%AB1%EF%BC%89.jpg" decoding="async" loading="lazy" width="200" height="284" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/0/0f/The_Grimoire_of_Usami%EF%BC%88%E7%81%B5%E6%A2%A6%26%E7%B4%AB1%EF%BC%89.jpg/300px-The_Grimoire_of_Usami%EF%BC%88%E7%81%B5%E6%A2%A6%26%E7%B4%AB1%EF%BC%89.jpg 1.5x, https://upload.thwiki.cc/thumb/0/0f/The_Grimoire_of_Usami%EF%BC%88%E7%81%B5%E6%A2%A6%26%E7%B4%AB1%EF%BC%89.jpg/400px-The_Grimoire_of_Usami%EF%BC%88%E7%81%B5%E6%A2%A6%26%E7%B4%AB1%EF%BC%89.jpg 2x" data-file-width="1266" data-file-height="1800"></a>  <div class="thumbcaption"><div class="magnify"><a href="./文件-The_Grimoire_of_Usami（灵梦&紫1）.jpg.md" class="internal" title="放大"></a></div>P155</div></div></div></td></tr></tbody></table>
 
 
 
@@ -37,7 +37,7 @@ The_Grimoire_of_Usami | 使用了翻译表的页面 | 八云紫 | 博丽灵梦 |
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./The_Grimoire_of_Usami-猯藏&鵺.md" title="The Grimoire of Usami/猯藏&amp;鵺">猯藏&amp;鵺</a>&#160;
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="/%E5%AE%87%E4%BD%90%E8%A7%81%E7%9A%84%E9%AD%94%E6%B3%95%E4%B9%A6" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a>&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="./宇佐见的魔法书.md" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a>&#160;
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">&#160;<a href="./The_Grimoire_of_Usami-宇佐见堇子的后记.md" title="The Grimoire of Usami/宇佐见堇子的后记">宇佐见堇子的后记</a>
 </td>
@@ -46,6 +46,7 @@ The_Grimoire_of_Usami | 使用了翻译表的页面 | 八云紫 | 博丽灵梦 |
 
   
 </center>
+
 
 ## 词条导航
   

@@ -4,7 +4,8 @@
 
 Crawford Project ，于 2005 年成立，主要制作 同人游戏 的日本同人社团，主催是 黒乃アリス，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -20,19 +21,23 @@ Crawford Project ，于 2005 年成立，主要制作 同人游戏 的日本同�
 
 
 
+
 ## 社团信息
 [](./文件-Crawford_Project_LOGO.png.md)  [](./文件-Crawford_Project_LOGO.png.md)banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Crawford Project </td></tr><tr><td><b>主要作品类型</b></td><td>同人游戏</td></tr><tr><td><b>成立时间</b></td><td>2005</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=%E9%BB%92%E4%B9%83%E3%82%A2%E3%83%AA%E3%82%B9&amp;action=edit&amp;redlink=1" class="new" title="黒乃アリス（页面不存在）">黒乃アリス</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://1st.geocities.jp/crawfordproject/c_home.html">http://1st.geocities.jp/crawfordproject/c_home.html</a> </td></tr></tbody></table>
 
 Crawford Project（同人社团，同人游戏社团） - Crawford Project ，于 2005 年成立，主要制作 同人游戏 的日本同人社团，主催是 黒乃アリス，当前状态为 活动
+
 ## 成员名单
   
 黒乃アリス (未找到链接)(主催、剧本、游戏程序、原画)  
 ソシア ユイ (未找到链接)(原画、贩售)
   
 
+
 ## 作品列表
+
 ### 游戏
 東方回胴遊戯 - パチスロ「まるきゅうチルノR」 封面图片 (未找到链接)東方回胴遊戯 - パチスロ「まるきゅうチルノR」 (未找到链接)首发日期：未知 - 東方回胴遊戯 - パチスロ「まるきゅうチルノV」 封面图片 (未找到链接)東方回胴遊戯 - パチスロ「まるきゅうチルノV」 (未找到链接)首发日期：未知 - Ｃ（地霊殿）カード 封面图片 (未找到链接)Ｃ（地霊殿）カード (未找到链接)首发日期：未知 - [](./トウホウダンマクロンパ_CHAPTER_01.md)[トウホウダンマクロンパ CHAPTER 01](./トウホウダンマクロンパ_CHAPTER_01.md)首发日期：2017-05-07 （第十四回 博麗神社例大祭 (未找到链接)）AVG （一般向）
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -40,6 +45,7 @@ Crawford Project（同人社团，同人游戏社团） - Crawford Project ，�
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 其他信息

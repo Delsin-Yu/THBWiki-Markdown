@@ -4,6 +4,7 @@
 
 东方封魔录 | 战车娘所做的梦
 
+
 ## 文件说明
   
 戦車むすめのみるゆめ 东方封魔录Extra面Boss里香的主题曲MIDI版。由Roland Sound Canvas 88Pro实机录制；MP3采样率44.1KHz，码率192Kbps。  

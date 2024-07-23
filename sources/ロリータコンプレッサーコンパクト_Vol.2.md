@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E3%83%AD%E3%83%AA%E3%83%BC%E3%82%BF%E3%82%B3%E3%83%B3%E3%83%97%E3%83%AC%E3%83%83%E3%82%B5%E3%83%BC%E3%82%B3%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88_Vol.2%E5%B0%81%E9%9D%A2.jpg" class="new" title="文件:ロリータコンプレッサーコンパクト Vol.2封面.jpg">封面图片</a><div class="cover-char">角色：<a href="./饭纲丸龙.md" title="饭纲丸龙">饭纲丸龙</a></div></td>
@@ -14,14 +15,17 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/Kuarisu/status/1740671187746001307/photo/1">https://twitter.com/Kuarisu/status/1740671187746001307/photo/1</a></td></tr></tbody></table>
 
 ロリータコンプレッサーコンパクト Vol.2（同人专辑，LCMF，2023） - 2023年12月31日 由 LCMF 于 Comic Market 103 发布的同人专辑，分级为 一般向
+
 ## Staff
   
 }}
   
 
+
 ## 曲目列表
 
 <table></table>
+
 
 
 ## 评论

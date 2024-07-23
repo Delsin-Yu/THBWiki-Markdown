@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-ワスレナグサ・ブルー_Forget-Me-Not-Blue封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/0/05/%E3%83%AF%E3%82%B9%E3%83%AC%E3%83%8A%E3%82%B0%E3%82%B5%E3%83%BB%E3%83%96%E3%83%AB%E3%83%BC_Forget-Me-Not-Blue%E5%B0%81%E9%9D%A2.jpg/99px-%E3%83%AF%E3%82%B9%E3%83%AC%E3%83%8A%E3%82%B0%E3%82%B5%E3%83%BB%E3%83%96%E3%83%AB%E3%83%BC_Forget-Me-Not-Blue%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="99" height="140" srcset="https://upload.thwiki.cc/thumb/0/05/%E3%83%AF%E3%82%B9%E3%83%AC%E3%83%8A%E3%82%B0%E3%82%B5%E3%83%BB%E3%83%96%E3%83%AB%E3%83%BC_Forget-Me-Not-Blue%E5%B0%81%E9%9D%A2.jpg/149px-%E3%83%AF%E3%82%B9%E3%83%AC%E3%83%8A%E3%82%B0%E3%82%B5%E3%83%BB%E3%83%96%E3%83%AB%E3%83%BC_Forget-Me-Not-Blue%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/0/05/%E3%83%AF%E3%82%B9%E3%83%AC%E3%83%8A%E3%82%B0%E3%82%B5%E3%83%BB%E3%83%96%E3%83%AB%E3%83%BC_Forget-Me-Not-Blue%E5%B0%81%E9%9D%A2.jpg/198px-%E3%83%AF%E3%82%B9%E3%83%AC%E3%83%8A%E3%82%B0%E3%82%B5%E3%83%BB%E3%83%96%E3%83%AB%E3%83%BC_Forget-Me-Not-Blue%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="594" data-file-height="838"></a><div class="cover-char">角色：<a href="./爱丽丝·玛格特洛依德.md" title="爱丽丝·玛格特洛依德">爱丽丝·玛格特洛依德</a>，<a href="./藤原妹红.md" title="藤原妹红">藤原妹红</a></div></td>
@@ -14,9 +15,11 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/Miluda/status/728326632621015040">https://twitter.com/Miluda/status/728326632621015040</a><br><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/56737255">https://www.pixiv.net/artworks/56737255</a></td></tr></tbody></table>
 
 ワスレナグサ・ブルー Forget-Me-Not-Blue（同人志，太陽光工場，2016） - 2016年5月8日 由 太陽光工場 于 博丽神社例大祭13 发布的漫画同人志，登场人物有 爱丽丝·玛格特洛依德、藤原妹红，分级为 一般向
+
 ## Staff
 Comic
 : Miluda （[太陽光工場](./太陽光工場.md)）
+
 
 ## 评论
 ```

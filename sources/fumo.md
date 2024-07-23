@@ -7,17 +7,22 @@
 fumo - 现实人物
 本页是关于东方Project  
  **二次同人创作者** 的词条
+
 ## 基本信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="label"><b>名称</b></td><td> fumo </td></tr><tr><td class="label"><b>所属社团</b></td><td><b>当前</b><div style="margin-left:2em;"><a href="./Hyperdimension!.md" title="Hyperdimension!">Hyperdimension!</a></div></td></tr><tr><td class="label"><b>职位</b></td><td>主催，编曲</td></tr><tr><td class="label"><b>参与社团</b></td><td><a href="./Hyperdimension!.md" title="Hyperdimension!">Hyperdimension!</a> （编曲）<br><a href="./denshūto.md" title="denshūto">denshūto</a> （编曲）<br><a href="./the_distant_journey_to_you.md" title="the distant journey to you">the distant journey to you</a> （编曲）<br><a href="/index.php?title=%EF%BC%8Fjp%EF%BC%8F&amp;action=edit&amp;redlink=1" class="new" title="／jp／（页面不存在）">／jp／</a> （编曲）</td></tr><tr><td class="label"><b>个人页面</b></td><td><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><b>Twitter</b></td><td><a rel="nofollow" class="external free" href="https://twitter.com/dekafumo">https://twitter.com/dekafumo</a></td></tr><tr><td><b>Soundcloud</b></td><td><a rel="nofollow" class="external free" href="https://soundcloud.com/dekafumo">https://soundcloud.com/dekafumo</a></td></tr></tbody></table></td></tr></tbody></table>
 
 fumo（人物） - 现实人物
+
 ## 介绍
+
 ## 参与作品
+
 ### 同人音乐
   
 模板:人物曲目列表 (未找到链接)
   
+
 
 ## 人际关系
 人名

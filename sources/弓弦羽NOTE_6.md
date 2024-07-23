@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-弓弦羽NOTE_6封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/5/53/%E5%BC%93%E5%BC%A6%E7%BE%BDNOTE_6%E5%B0%81%E9%9D%A2.jpg/120px-%E5%BC%93%E5%BC%A6%E7%BE%BDNOTE_6%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="120" height="168" srcset="https://upload.thwiki.cc/thumb/5/53/%E5%BC%93%E5%BC%A6%E7%BE%BDNOTE_6%E5%B0%81%E9%9D%A2.jpg/180px-%E5%BC%93%E5%BC%A6%E7%BE%BDNOTE_6%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/5/53/%E5%BC%93%E5%BC%A6%E7%BE%BDNOTE_6%E5%B0%81%E9%9D%A2.jpg/240px-%E5%BC%93%E5%BC%A6%E7%BE%BDNOTE_6%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="443" data-file-height="620"></a><div class="cover-char">角色：<a href="./卡娜·安娜贝拉尔.md" title="卡娜·安娜贝拉尔">卡娜·安娜贝拉尔</a>，<a href="./里香.md" title="里香">里香</a>，<a href="./冈崎梦美.md" title="冈崎梦美">冈崎梦美</a>，<a href="./萨丽爱尔.md" title="萨丽爱尔">萨丽爱尔</a>，<a href="./依莉斯.md" title="依莉斯">依莉斯</a>，<a href="/%E8%93%AC%E8%8E%B1%E4%BA%BA%E5%BD%A2#封面角色" title="蓬莱人形">蓬莱人形C63版碟面少女</a>，<a href="/%E8%93%AC%E8%8E%B1%E4%BA%BA%E5%BD%A2#封面角色" title="蓬莱人形">蓬莱人形C6２版碟面少女</a>，<a href="./梦月.md" title="梦月">梦月</a>，<a href="./幻月.md" title="幻月">幻月</a></div></td>
@@ -17,8 +18,10 @@
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://yadoyuki.booth.pm/items/1642185">Booth</a></td></tr></tbody></table>
 
 
+
 ## Staff
 : 宿雪 (未找到链接)
+
 
 ## 评论
 

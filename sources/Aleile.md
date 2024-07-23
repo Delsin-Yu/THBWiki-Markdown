@@ -4,13 +4,15 @@
 
 Aleile ，于 2013 年成立，主要制作 同人音乐 的日本同人社团，主催是 Ciela，当前状态为 休止
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
 - [2 成员名单](#成员名单)
 - [3 作品列表](#作品列表)
 - [4 参展信息](#参展信息)
+
 
 
 
@@ -22,8 +24,10 @@ Aleile ，于 2013 年成立，主要制作 同人音乐 的日本同人社团�
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Aleile </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2013</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=Ciela&amp;action=edit&amp;redlink=1" class="new" title="Ciela（页面不存在）">Ciela</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="https://aleile.com/">https://aleile.com/</a> </td></tr></tbody></table>
 
 Aleile（同人社团，同人音乐社团） - Aleile ，于 2013 年成立，主要制作 同人音乐 的日本同人社团，主催是 Ciela，当前状态为 休止
+
 ## 成员名单
 - Ciela (未找到链接)
+
 
 ## 作品列表
 Beauteous Rain 封面图片 (未找到链接)[Beauteous Rain](./Beauteous_Rain.md)首发日期：2008-08-16 （Comic Market 74 (未找到链接)）全长 （一般向）[](./雨上ガリ.md)[雨上ガリ](./雨上ガリ.md)首发日期：2011-03-13 （第八回 博麗神社例大祭 (未找到链接)）MM-15全长、​合作 （一般向）该作品是与 [街角麻婆豆](./街角麻婆豆.md) 合作创作的[](./イヤシノオト.md)[イヤシノオト](./イヤシノオト.md)首发日期：2011-12-30 （Comic Market 81 (未找到链接)）FEAL-0001全长 （一般向）该作品是与 Studio FE (未找到链接) 合作创作的
@@ -33,6 +37,7 @@ Beauteous Rain 封面图片 (未找到链接)[Beauteous Rain](./Beauteous_Rain.m
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 参展信息

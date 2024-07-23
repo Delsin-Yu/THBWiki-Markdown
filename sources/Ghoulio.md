@@ -4,7 +4,8 @@
 
 Ghoulio ，主要制作 同人音乐 的俄罗斯同人社团，主催是 Ghoulio，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -20,15 +21,19 @@ Ghoulio ，主要制作 同人音乐 的俄罗斯同人社团，主催是 Ghouli
 
 
 
+
 ## 社团信息
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Ghoulio </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a class="mw-selflink selflink">Ghoulio</a> </td></tr><tr><td><b>地区</b></td><td>俄罗斯</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="https://milleoculos.bandcamp.com/music">https://milleoculos.bandcamp.com/music</a> </td></tr></tbody></table>
 
 Ghoulio（同人社团，同人音乐社团） - Ghoulio ，主要制作 同人音乐 的俄罗斯同人社团，主催是 Ghoulio，当前状态为 活动
+
 ## 成员名单
 - Ghoulio (a.k.a. Ghoulio Deficiente)
 
+
 ## 作品列表
+
 ### 同人专辑
 [](./Lunar_Deity.md)[Lunar Deity](./Lunar_Deity.md)首发日期：2016-12-21 全长 （一般向）[](./Solar_Deity.md)[Solar Deity](./Solar_Deity.md)首发日期：2017-06-20 全长 （一般向）Play of Light 封面图片 (未找到链接)[Play of Light](./Play_of_Light.md)首发日期：2017-10-20 全长 （一般向）[](./Phosphorus.md)[Phosphorus](./Phosphorus.md)首发日期：2018-08-08 EP （一般向）[](./Acidic_Turquoise.md)[Acidic Turquoise](./Acidic_Turquoise.md)首发日期：2019-01-27 全长 （一般向）[](./Mysteries_of_Eastern_Creatures_Demo.md)[Mysteries of Eastern Creatures Demo](./Mysteries_of_Eastern_Creatures_Demo.md)首发日期：2019-04-04 全长、​原声集 （一般向）[](./UFOPORNO_Yöllä_Taivaalla.md)[UFOPORNO Yöllä Taivaalla](./UFOPORNO_Yöllä_Taivaalla.md)首发日期：2019-06-01 EP （一般向）[](./Nebula.md)[Nebula](./Nebula.md)首发日期：2019-12-22 全长 （一般向）[](./Mirage.md)[Mirage](./Mirage.md)首发日期：2019-12-22 全长 （一般向）
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -49,6 +54,7 @@ Ghoulio（同人社团，同人音乐社团） - Ghoulio ，主要制作 同人�
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 其他信息

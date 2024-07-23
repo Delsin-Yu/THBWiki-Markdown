@@ -6,6 +6,7 @@ Northern_Mind
 
 - 本词条内容为同人游戏 **东方觉醒珠** 的地珠内容说明。
 
+
 ## 目录
 
 - [1 一星地珠](#一星地珠)
@@ -72,7 +73,9 @@ Northern_Mind
 
 
 
+
 ## 一星地珠
+
 ### 博丽神社
 
 
@@ -96,6 +99,7 @@ Northern_Mind
 
 
 <table><tbody><tr><td style="min-width:125px"><b>名称</b></td><td style="min-width:125px"><a href="./博丽神社.md" title="博丽神社">博丽神社</a></td><td style="min-width:100px" lang="ja">博麗神社</td></tr><tr><td style="min-width:125px"><b>弹幕出典</b></td><td style="min-width:125px">『<a href="./东方天空璋.md" title="东方天空璋">东方天空璋</a>』<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">1</a></sup></td><td style="min-width:100px" lang="ja">『東方天空璋』</td></tr><tr><td style="min-width:125px"><b>地珠属性</b></td><td style="min-width:125px">红/白</td><td style="min-width:100px" lang="ja">赤/白</td></tr><tr><td style="min-width:125px"><b>星级</b></td><td style="min-width:125px"><span>★</span></td><td style="min-width:100px" lang="ja"><span>★</span></td></tr><tr><td style="min-width:125px"><b>HP</b></td><td style="min-width:125px">1600</td><td style="min-width:100px" lang="ja">1600</td></tr><tr><td style="min-width:125px"><b>攻击力</b></td><td style="min-width:125px">700</td><td style="min-width:100px" lang="ja">700</td></tr><tr><td style="min-width:125px"><b>回复力</b></td><td style="min-width:125px">240</td><td style="min-width:100px" lang="ja">240</td></tr><tr><td style="min-width:125px"><b>符卡充能效率<sup id="cite_ref-符卡充能效率_2-0" class="reference"><a href="#cite_note-符卡充能效率-2">2</a></sup></b></td><td style="min-width:125px">3</td><td style="min-width:100px" lang="ja">3</td></tr><tr><td style="min-width:125px"><b>能力效果</b></td><td style="min-width:125px">判定点缩小</td><td style="min-width:100px" lang="ja">当たり判定が小さくをる</td></tr></tbody></table>
+
 
 
 ### 魔法之森
@@ -123,6 +127,7 @@ Northern_Mind
 <table><tbody><tr><td style="min-width:125px"><b>名称</b></td><td style="min-width:125px"><a href="./魔法森林.md" title="魔法森林" unred="">魔法之森</a></td><td style="min-width:100px" lang="ja">魔法の森</td></tr><tr><td style="min-width:125px"><b>弹幕出典</b></td><td style="min-width:125px">『<a href="./妖精大战争.md" title="妖精大战争">妖精大战争</a>』<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">3</a></sup></td><td style="min-width:100px" lang="ja">『妖精大戦争』</td></tr><tr><td style="min-width:125px"><b>地珠属性</b></td><td style="min-width:125px">红/白</td><td style="min-width:100px" lang="ja">赤/白</td></tr><tr><td style="min-width:125px"><b>星级</b></td><td style="min-width:125px"><span>★</span></td><td style="min-width:100px" lang="ja"><span>★</span></td></tr><tr><td style="min-width:125px"><b>HP</b></td><td style="min-width:125px">1500</td><td style="min-width:100px" lang="ja">1500</td></tr><tr><td style="min-width:125px"><b>攻击力</b></td><td style="min-width:125px">720</td><td style="min-width:100px" lang="ja">720</td></tr><tr><td style="min-width:125px"><b>回复力</b></td><td style="min-width:125px">240</td><td style="min-width:100px" lang="ja">240</td></tr><tr><td style="min-width:125px"><b>符卡充能效率<sup id="cite_ref-符卡充能效率_2-1" class="reference"><a href="#cite_note-符卡充能效率-2">2</a></sup></b></td><td style="min-width:125px">3</td><td style="min-width:100px" lang="ja">3</td></tr><tr><td style="min-width:125px"><b>能力效果</b></td><td style="min-width:125px">道具吸收范围扩大</td><td style="min-width:100px" lang="ja">アイテム吸収範囲が広がる</td></tr></tbody></table>
 
 
+
 ### 外界
 
 
@@ -148,7 +153,9 @@ Northern_Mind
 <table><tbody><tr><td style="min-width:125px"><b>名称</b></td><td style="min-width:125px"><a href="./外界.md" title="外界">外界</a></td><td style="min-width:100px" lang="ja">外の世界</td></tr><tr><td style="min-width:125px"><b>弹幕出典</b></td><td style="min-width:125px">『<a href="./东方深秘录.md" title="东方深秘录">东方深秘录</a>』怪Last Word演出<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">4</a></sup></td><td style="min-width:100px" lang="ja">『東方深秘録』怪ラストワード演出</td></tr><tr><td style="min-width:125px"><b>地珠属性</b></td><td style="min-width:125px">红/白</td><td style="min-width:100px" lang="ja">赤/白</td></tr><tr><td style="min-width:125px"><b>星级</b></td><td style="min-width:125px"><span>★</span></td><td style="min-width:100px" lang="ja"><span>★</span></td></tr><tr><td style="min-width:125px"><b>HP</b></td><td style="min-width:125px">1400</td><td style="min-width:100px" lang="ja">1400</td></tr><tr><td style="min-width:125px"><b>攻击力</b></td><td style="min-width:125px">740</td><td style="min-width:100px" lang="ja">740</td></tr><tr><td style="min-width:125px"><b>回复力</b></td><td style="min-width:125px">240</td><td style="min-width:100px" lang="ja">240</td></tr><tr><td style="min-width:125px"><b>符卡充能效率<sup id="cite_ref-符卡充能效率_2-2" class="reference"><a href="#cite_note-符卡充能效率-2">2</a></sup></b></td><td style="min-width:125px">3</td><td style="min-width:100px" lang="ja">3</td></tr><tr><td style="min-width:125px"><b>能力效果</b></td><td style="min-width:125px">当有弹幕靠近判定点时，会显示警示圈</td><td style="min-width:100px" lang="ja">当たり判定ヤンサーが見える<br>※最も近い当たり判定までの円が表示される</td></tr></tbody></table>
 
 
+
 ## 二星地珠
+
 ### 村中的道路
 
 
@@ -172,6 +179,7 @@ Northern_Mind
 
 
 <table><tbody><tr><td style="min-width:125px"><b>名称</b></td><td style="min-width:125px">村中的道路</td><td style="min-width:100px" lang="ja">里への道</td></tr><tr><td style="min-width:125px"><b>弹幕出典</b></td><td style="min-width:125px">『<a href="./东方永夜抄.md" title="东方永夜抄">东方永夜抄</a>』<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">5</a></sup></td><td style="min-width:100px" lang="ja">『東方永夜抄』</td></tr><tr><td style="min-width:125px"><b>地珠属性</b></td><td style="min-width:125px">红/白</td><td style="min-width:100px" lang="ja">赤/白</td></tr><tr><td style="min-width:125px"><b>星级</b></td><td style="min-width:125px"><span>★★</span></td><td style="min-width:100px" lang="ja"><span>★★</span></td></tr><tr><td style="min-width:125px"><b>HP</b></td><td style="min-width:125px">1760</td><td style="min-width:100px" lang="ja">1760</td></tr><tr><td style="min-width:125px"><b>攻击力</b></td><td style="min-width:125px">750</td><td style="min-width:100px" lang="ja">750</td></tr><tr><td style="min-width:125px"><b>回复力</b></td><td style="min-width:125px">100</td><td style="min-width:100px" lang="ja">100</td></tr><tr><td style="min-width:125px"><b>符卡充能效率<sup id="cite_ref-符卡充能效率_2-3" class="reference"><a href="#cite_note-符卡充能效率-2">2</a></sup></b></td><td style="min-width:125px">4</td><td style="min-width:100px" lang="ja">4</td></tr><tr><td style="min-width:125px"><b>能力效果</b></td><td style="min-width:125px">单位攻击力提升</td><td style="min-width:100px" lang="ja">ユニット攻撃力が上がる</td></tr></tbody></table>
+
 
 
 ### 无名之丘
@@ -199,6 +207,7 @@ Northern_Mind
 <table><tbody><tr><td style="min-width:125px"><b>名称</b></td><td style="min-width:125px"><a href="./无名之丘.md" title="无名之丘">无名之丘</a></td><td style="min-width:100px" lang="ja">無名の丘</td></tr><tr><td style="min-width:125px"><b>弹幕出典</b></td><td style="min-width:125px">『<a href="./东方花映塚.md" title="东方花映塚">东方花映塚</a>』<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">6</a></sup></td><td style="min-width:100px" lang="ja">『東方花映塚』</td></tr><tr><td style="min-width:125px"><b>地珠属性</b></td><td style="min-width:125px">红/白</td><td style="min-width:100px" lang="ja">赤/白</td></tr><tr><td style="min-width:125px"><b>星级</b></td><td style="min-width:125px"><span>★★</span></td><td style="min-width:100px" lang="ja"><span>★★</span></td></tr><tr><td style="min-width:125px"><b>HP</b></td><td style="min-width:125px">1880</td><td style="min-width:100px" lang="ja">1880</td></tr><tr><td style="min-width:125px"><b>攻击力</b></td><td style="min-width:125px">900</td><td style="min-width:100px" lang="ja">900</td></tr><tr><td style="min-width:125px"><b>回复力</b></td><td style="min-width:125px">180</td><td style="min-width:100px" lang="ja">180</td></tr><tr><td style="min-width:125px"><b>符卡充能效率<sup id="cite_ref-符卡充能效率_2-4" class="reference"><a href="#cite_note-符卡充能效率-2">2</a></sup></b></td><td style="min-width:125px">4</td><td style="min-width:100px" lang="ja">4</td></tr><tr><td style="min-width:125px"><b>能力效果</b></td><td style="min-width:125px">擦弹判定增大</td><td style="min-width:100px" lang="ja">グレイズ判定が增大する</td></tr></tbody></table>
 
 
+
 ### 太阳花田
 
 
@@ -222,6 +231,7 @@ Northern_Mind
 
 
 <table><tbody><tr><td style="min-width:125px"><b>名称</b></td><td style="min-width:125px"><a href="./太阳花田.md" title="太阳花田">太阳花田</a></td><td style="min-width:100px" lang="ja">太陽の畑</td></tr><tr><td style="min-width:125px"><b>弹幕出典</b></td><td style="min-width:125px">『<a href="./东方花映塚.md" title="东方花映塚">东方花映塚</a>』<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">7</a></sup></td><td style="min-width:100px" lang="ja">『東方花映塚』</td></tr><tr><td style="min-width:125px"><b>地珠属性</b></td><td style="min-width:125px">红/白</td><td style="min-width:100px" lang="ja">赤/白</td></tr><tr><td style="min-width:125px"><b>星级</b></td><td style="min-width:125px"><span>★★</span></td><td style="min-width:100px" lang="ja"><span>★★</span></td></tr><tr><td style="min-width:125px"><b>HP</b></td><td style="min-width:125px">1810</td><td style="min-width:100px" lang="ja">1810</td></tr><tr><td style="min-width:125px"><b>攻击力</b></td><td style="min-width:125px">810</td><td style="min-width:100px" lang="ja">810</td></tr><tr><td style="min-width:125px"><b>回复力</b></td><td style="min-width:125px">180</td><td style="min-width:100px" lang="ja">180</td></tr><tr><td style="min-width:125px"><b>符卡充能效率<sup id="cite_ref-符卡充能效率_2-5" class="reference"><a href="#cite_note-符卡充能效率-2">2</a></sup></b></td><td style="min-width:125px">4</td><td style="min-width:100px" lang="ja">4</td></tr><tr><td style="min-width:125px"><b>能力效果</b></td><td style="min-width:125px">自机攻击的中弹判定增大</td><td style="min-width:100px" lang="ja">自機の攻撃の当たり判定が增大する</td></tr></tbody></table>
+
 
 
 ### 再思之道
@@ -249,6 +259,7 @@ Northern_Mind
 <table><tbody><tr><td style="min-width:125px"><b>名称</b></td><td style="min-width:125px"><a href="./再思之道.md" title="再思之道">再思之道</a></td><td style="min-width:100px" lang="ja">再思の道</td></tr><tr><td style="min-width:125px"><b>弹幕出典</b></td><td style="min-width:125px">『<a href="./东方花映塚.md" title="东方花映塚">东方花映塚</a>』<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">8</a></sup></td><td style="min-width:100px" lang="ja">『東方花映塚』</td></tr><tr><td style="min-width:125px"><b>地珠属性</b></td><td style="min-width:125px">红/白</td><td style="min-width:100px" lang="ja">赤/白</td></tr><tr><td style="min-width:125px"><b>星级</b></td><td style="min-width:125px"><span>★★</span></td><td style="min-width:100px" lang="ja"><span>★★</span></td></tr><tr><td style="min-width:125px"><b>HP</b></td><td style="min-width:125px">1770</td><td style="min-width:100px" lang="ja">1770</td></tr><tr><td style="min-width:125px"><b>攻击力</b></td><td style="min-width:125px">770</td><td style="min-width:100px" lang="ja">770</td></tr><tr><td style="min-width:125px"><b>回复力</b></td><td style="min-width:125px">200</td><td style="min-width:100px" lang="ja">200</td></tr><tr><td style="min-width:125px"><b>符卡充能效率<sup id="cite_ref-符卡充能效率_2-6" class="reference"><a href="#cite_note-符卡充能效率-2">2</a></sup></b></td><td style="min-width:125px">4</td><td style="min-width:100px" lang="ja">4</td></tr><tr><td style="min-width:125px"><b>能力效果</b></td><td style="min-width:125px">被弹bomb允许时间变长</td><td style="min-width:100px" lang="ja">喰らいボム受付時間が伸びる</td></tr></tbody></table>
 
 
+
 ### 幻想乡上空
 
 
@@ -272,6 +283,7 @@ Northern_Mind
 
 
 <table><tbody><tr><td style="min-width:125px"><b>名称</b></td><td style="min-width:125px"><a href="./幻想乡上空.md" title="幻想乡上空">幻想乡上空</a></td><td style="min-width:100px" lang="ja">幻想郷上空</td></tr><tr><td style="min-width:125px"><b>弹幕出典</b></td><td style="min-width:125px">『<a href="./东方妖妖梦.md" title="东方妖妖梦">东方妖妖梦</a>』<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">9</a></sup></td><td style="min-width:100px" lang="ja">『東方妖々夢』</td></tr><tr><td style="min-width:125px"><b>地珠属性</b></td><td style="min-width:125px">红/白</td><td style="min-width:100px" lang="ja">赤/白</td></tr><tr><td style="min-width:125px"><b>星级</b></td><td style="min-width:125px"><span>★★</span></td><td style="min-width:100px" lang="ja"><span>★★</span></td></tr><tr><td style="min-width:125px"><b>HP</b></td><td style="min-width:125px">1840</td><td style="min-width:100px" lang="ja">1840</td></tr><tr><td style="min-width:125px"><b>攻击力</b></td><td style="min-width:125px">910</td><td style="min-width:100px" lang="ja">910</td></tr><tr><td style="min-width:125px"><b>回复力</b></td><td style="min-width:125px">160</td><td style="min-width:100px" lang="ja">160</td></tr><tr><td style="min-width:125px"><b>符卡充能效率<sup id="cite_ref-符卡充能效率_2-7" class="reference"><a href="#cite_note-符卡充能效率-2">2</a></sup></b></td><td style="min-width:125px">4</td><td style="min-width:100px" lang="ja">4</td></tr><tr><td style="min-width:125px"><b>能力效果</b></td><td style="min-width:125px">道具自动回收线降低</td><td style="min-width:100px" lang="ja">アイテム自動回収ラインが下がる</td></tr></tbody></table>
+
 
 
 ### 无限街道
@@ -299,7 +311,9 @@ Northern_Mind
 <table><tbody><tr><td style="min-width:125px"><b>名称</b></td><td style="min-width:125px">无限街道</td><td style="min-width:100px" lang="ja">無限街道</td></tr><tr><td style="min-width:125px"><b>弹幕出典<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">10</a></sup></b></td><td style="min-width:125px">-</td><td style="min-width:100px" lang="ja">-</td></tr><tr><td style="min-width:125px"><b>地珠属性</b></td><td style="min-width:125px">红/白</td><td style="min-width:100px" lang="ja">赤/白</td></tr><tr><td style="min-width:125px"><b>星级</b></td><td style="min-width:125px"><span>★★</span></td><td style="min-width:100px" lang="ja"><span>★★</span></td></tr><tr><td style="min-width:125px"><b>HP</b></td><td style="min-width:125px">1860</td><td style="min-width:100px" lang="ja">1860</td></tr><tr><td style="min-width:125px"><b>攻击力</b></td><td style="min-width:125px">920</td><td style="min-width:100px" lang="ja">920</td></tr><tr><td style="min-width:125px"><b>回复力</b></td><td style="min-width:125px">180</td><td style="min-width:100px" lang="ja">180</td></tr><tr><td style="min-width:125px"><b>符卡充能效率<sup id="cite_ref-符卡充能效率_2-8" class="reference"><a href="#cite_note-符卡充能效率-2">2</a></sup></b></td><td style="min-width:125px">4</td><td style="min-width:100px" lang="ja">4</td></tr><tr><td style="min-width:125px"><b>能力效果</b></td><td style="min-width:125px">移动时可以稍稍越过画面的边界</td><td style="min-width:100px" lang="ja">ゲーム画面の境界より少し広い範囲を行動できる</td></tr></tbody></table>
 
 
+
 ## 三星地珠
+
 ### 地下图书馆
 
 
@@ -323,6 +337,7 @@ Northern_Mind
 
 
 <table><tbody><tr><td style="min-width:125px"><b>名称</b></td><td style="min-width:125px"><a href="./红魔馆.md" title="红魔馆" unred="">地下图书馆</a></td><td style="min-width:100px" lang="ja">地下図書館</td></tr><tr><td style="min-width:125px"><b>弹幕出典</b></td><td style="min-width:125px">『<a href="./东方红魔乡.md" title="东方红魔乡">东方红魔乡</a>』<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">11</a></sup></td><td style="min-width:100px" lang="ja">『東方紅魔郷』</td></tr><tr><td style="min-width:125px"><b>地珠属性</b></td><td style="min-width:125px">红/白</td><td style="min-width:100px" lang="ja">赤/白</td></tr><tr><td style="min-width:125px"><b>星级</b></td><td style="min-width:125px"><span>★★★</span></td><td style="min-width:100px" lang="ja"><span>★★★</span></td></tr><tr><td style="min-width:125px"><b>HP</b></td><td style="min-width:125px">1940</td><td style="min-width:100px" lang="ja">1940</td></tr><tr><td style="min-width:125px"><b>攻击力</b></td><td style="min-width:125px">930</td><td style="min-width:100px" lang="ja">930</td></tr><tr><td style="min-width:125px"><b>回复力</b></td><td style="min-width:125px">110</td><td style="min-width:100px" lang="ja">110</td></tr><tr><td style="min-width:125px"><b>符卡充能效率<sup id="cite_ref-符卡充能效率_2-9" class="reference"><a href="#cite_note-符卡充能效率-2">2</a></sup></b></td><td style="min-width:125px">4</td><td style="min-width:100px" lang="ja">4</td></tr><tr><td style="min-width:125px"><b>能力效果</b></td><td style="min-width:125px">低速移动速度降低</td><td style="min-width:100px" lang="ja">低速移動速度が下がる</td></tr></tbody></table>
+
 
 
 ### 人类村落
@@ -350,6 +365,7 @@ Northern_Mind
 <table><tbody><tr><td style="min-width:125px"><b>名称</b></td><td style="min-width:125px"><a href="./人类村落.md" title="人类村落">人类村落</a></td><td style="min-width:100px" lang="ja">人間の里</td></tr><tr><td style="min-width:125px"><b>弹幕出典</b></td><td style="min-width:125px">『<a href="./东方永夜抄.md" title="东方永夜抄">东方永夜抄</a>』<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">12</a></sup></td><td style="min-width:100px" lang="ja">『東方永夜抄』</td></tr><tr><td style="min-width:125px"><b>地珠属性</b></td><td style="min-width:125px">红/白</td><td style="min-width:100px" lang="ja">赤/白</td></tr><tr><td style="min-width:125px"><b>星级</b></td><td style="min-width:125px"><span>★★★</span></td><td style="min-width:100px" lang="ja"><span>★★★</span></td></tr><tr><td style="min-width:125px"><b>HP</b></td><td style="min-width:125px">2000</td><td style="min-width:100px" lang="ja">2000</td></tr><tr><td style="min-width:125px"><b>攻击力</b></td><td style="min-width:125px">1000</td><td style="min-width:100px" lang="ja">1000</td></tr><tr><td style="min-width:125px"><b>回复力</b></td><td style="min-width:125px">100</td><td style="min-width:100px" lang="ja">100</td></tr><tr><td style="min-width:125px"><b>符卡充能效率<sup id="cite_ref-符卡充能效率_2-10" class="reference"><a href="#cite_note-符卡充能效率-2">2</a></sup></b></td><td style="min-width:125px">4</td><td style="min-width:100px" lang="ja">4</td></tr><tr><td style="min-width:125px"><b>能力效果</b></td><td style="min-width:125px">-</td><td style="min-width:100px" lang="ja">-</td></tr></tbody></table>
 
 
+
 ### 迷途之家
 
 
@@ -373,6 +389,7 @@ Northern_Mind
 
 
 <table><tbody><tr><td style="min-width:125px"><b>名称</b></td><td style="min-width:125px"><a href="./迷途之家.md" title="迷途之家">迷途之家</a></td><td style="min-width:100px" lang="ja">マヨヒガ</td></tr><tr><td style="min-width:125px"><b>弹幕出典</b></td><td style="min-width:125px">『<a href="./东方妖妖梦.md" title="东方妖妖梦">东方妖妖梦</a>』<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">13</a></sup></td><td style="min-width:100px" lang="ja">『東方妖々夢』</td></tr><tr><td style="min-width:125px"><b>地珠属性</b></td><td style="min-width:125px">红/白</td><td style="min-width:100px" lang="ja">赤/白</td></tr><tr><td style="min-width:125px"><b>星级</b></td><td style="min-width:125px"><span>★★★</span></td><td style="min-width:100px" lang="ja"><span>★★★</span></td></tr><tr><td style="min-width:125px"><b>HP</b></td><td style="min-width:125px">1910</td><td style="min-width:100px" lang="ja">1910</td></tr><tr><td style="min-width:125px"><b>攻击力</b></td><td style="min-width:125px">1000</td><td style="min-width:100px" lang="ja">1000</td></tr><tr><td style="min-width:125px"><b>回复力</b></td><td style="min-width:125px">100</td><td style="min-width:100px" lang="ja">100</td></tr><tr><td style="min-width:125px"><b>符卡充能效率<sup id="cite_ref-符卡充能效率_2-11" class="reference"><a href="#cite_note-符卡充能效率-2">2</a></sup></b></td><td style="min-width:125px">4</td><td style="min-width:100px" lang="ja">4</td></tr><tr><td style="min-width:125px"><b>能力效果</b></td><td style="min-width:125px">高速移动速度提升</td><td style="min-width:100px" lang="ja">高速移動速度が上がる</td></tr></tbody></table>
+
 
 
 ### 迷途竹林
@@ -400,6 +417,7 @@ Northern_Mind
 <table><tbody><tr><td style="min-width:125px"><b>名称</b></td><td style="min-width:125px"><a href="./迷途竹林.md" title="迷途竹林">迷途竹林</a></td><td style="min-width:100px" lang="ja">迷いの竹林</td></tr><tr><td style="min-width:125px"><b>弹幕出典</b></td><td style="min-width:125px">『<a href="./东方永夜抄.md" title="东方永夜抄">东方永夜抄</a>』<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">14</a></sup></td><td style="min-width:100px" lang="ja">『東方永夜抄』</td></tr><tr><td style="min-width:125px"><b>地珠属性</b></td><td style="min-width:125px">红/白</td><td style="min-width:100px" lang="ja">赤/白</td></tr><tr><td style="min-width:125px"><b>星级</b></td><td style="min-width:125px"><span>★★★</span></td><td style="min-width:100px" lang="ja"><span>★★★</span></td></tr><tr><td style="min-width:125px"><b>HP</b></td><td style="min-width:125px">1890</td><td style="min-width:100px" lang="ja">1890</td></tr><tr><td style="min-width:125px"><b>攻击力</b></td><td style="min-width:125px">1020</td><td style="min-width:100px" lang="ja">1020</td></tr><tr><td style="min-width:125px"><b>回复力</b></td><td style="min-width:125px">120</td><td style="min-width:100px" lang="ja">120</td></tr><tr><td style="min-width:125px"><b>符卡充能效率<sup id="cite_ref-符卡充能效率_2-12" class="reference"><a href="#cite_note-符卡充能效率-2">2</a></sup></b></td><td style="min-width:125px">4</td><td style="min-width:100px" lang="ja">4</td></tr><tr><td style="min-width:125px"><b>能力效果</b></td><td style="min-width:125px">发动符卡及miss后无敌时间变长</td><td style="min-width:100px" lang="ja">スペル発動後やミスの後の無敵時間が伸びる</td></tr></tbody></table>
 
 
+
 ### 妖怪之山
 
 
@@ -423,6 +441,7 @@ Northern_Mind
 
 
 <table><tbody><tr><td style="min-width:125px"><b>名称</b></td><td style="min-width:125px"><a href="./妖怪之山.md" title="妖怪之山">妖怪之山</a></td><td style="min-width:100px" lang="ja">妖怪の山</td></tr><tr><td style="min-width:125px"><b>弹幕出典</b></td><td style="min-width:125px">『<a href="./东方风神录.md" title="东方风神录">东方风神录</a>』<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">15</a></sup></td><td style="min-width:100px" lang="ja">『東方風神録』</td></tr><tr><td style="min-width:125px"><b>地珠属性</b></td><td style="min-width:125px">红/白</td><td style="min-width:100px" lang="ja">赤/白</td></tr><tr><td style="min-width:125px"><b>星级</b></td><td style="min-width:125px"><span>★★★</span></td><td style="min-width:100px" lang="ja"><span>★★★</span></td></tr><tr><td style="min-width:125px"><b>HP</b></td><td style="min-width:125px">2020</td><td style="min-width:100px" lang="ja">2020</td></tr><tr><td style="min-width:125px"><b>攻击力</b></td><td style="min-width:125px">1050</td><td style="min-width:100px" lang="ja">1050</td></tr><tr><td style="min-width:125px"><b>回复力</b></td><td style="min-width:125px">100</td><td style="min-width:100px" lang="ja">100</td></tr><tr><td style="min-width:125px"><b>符卡充能效率<sup id="cite_ref-符卡充能效率_2-13" class="reference"><a href="#cite_note-符卡充能效率-2">2</a></sup></b></td><td style="min-width:125px">4</td><td style="min-width:100px" lang="ja">4</td></tr><tr><td style="min-width:125px"><b>能力效果</b></td><td style="min-width:125px">移动速度提升</td><td style="min-width:100px" lang="ja">移動速度が上がる</td></tr></tbody></table>
+
 
 
 ### 守矢神社
@@ -450,6 +469,7 @@ Northern_Mind
 <table><tbody><tr><td style="min-width:125px"><b>名称</b></td><td style="min-width:125px"><a href="./守矢神社.md" title="守矢神社">守矢神社</a></td><td style="min-width:100px" lang="ja">守矢神社</td></tr><tr><td style="min-width:125px"><b>弹幕出典</b></td><td style="min-width:125px">『<a href="./东方地灵殿.md" title="东方地灵殿">东方地灵殿</a>』<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">16</a></sup></td><td style="min-width:100px" lang="ja">『東方地霊殿』</td></tr><tr><td style="min-width:125px"><b>地珠属性</b></td><td style="min-width:125px">红/白</td><td style="min-width:100px" lang="ja">赤/白</td></tr><tr><td style="min-width:125px"><b>星级</b></td><td style="min-width:125px"><span>★★★</span></td><td style="min-width:100px" lang="ja"><span>★★★</span></td></tr><tr><td style="min-width:125px"><b>HP</b></td><td style="min-width:125px">1960</td><td style="min-width:100px" lang="ja">1960</td></tr><tr><td style="min-width:125px"><b>攻击力</b></td><td style="min-width:125px">990</td><td style="min-width:100px" lang="ja">990</td></tr><tr><td style="min-width:125px"><b>回复力</b></td><td style="min-width:125px">100</td><td style="min-width:100px" lang="ja">100</td></tr><tr><td style="min-width:125px"><b>符卡充能效率<sup id="cite_ref-符卡充能效率_2-14" class="reference"><a href="#cite_note-符卡充能效率-2">2</a></sup></b></td><td style="min-width:125px">5</td><td style="min-width:100px" lang="ja">5</td></tr><tr><td style="min-width:125px"><b>能力效果</b></td><td style="min-width:125px">发动Bomb时会恢复生命值</td><td style="min-width:100px" lang="ja">スペルに参加するかわりに、HPを回復する</td></tr></tbody></table>
 
 
+
 ### 圣辇船
 
 
@@ -473,6 +493,7 @@ Northern_Mind
 
 
 <table><tbody><tr><td style="min-width:125px"><b>名称</b></td><td style="min-width:125px"><a href="./圣辇船.md" title="圣辇船">圣辇船</a></td><td style="min-width:100px" lang="ja">聖輦船</td></tr><tr><td style="min-width:125px"><b>弹幕出典</b></td><td style="min-width:125px">『<a href="./东方星莲船.md" title="东方星莲船">东方星莲船</a>』<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">17</a></sup></td><td style="min-width:100px" lang="ja">『東方星蓮船』</td></tr><tr><td style="min-width:125px"><b>地珠属性</b></td><td style="min-width:125px">红/白</td><td style="min-width:100px" lang="ja">赤/白</td></tr><tr><td style="min-width:125px"><b>星级</b></td><td style="min-width:125px"><span>★★★</span></td><td style="min-width:100px" lang="ja"><span>★★★</span></td></tr><tr><td style="min-width:125px"><b>HP</b></td><td style="min-width:125px">2000</td><td style="min-width:100px" lang="ja">2000</td></tr><tr><td style="min-width:125px"><b>攻击力</b></td><td style="min-width:125px">1010</td><td style="min-width:100px" lang="ja">1010</td></tr><tr><td style="min-width:125px"><b>回复力</b></td><td style="min-width:125px">100</td><td style="min-width:100px" lang="ja">100</td></tr><tr><td style="min-width:125px"><b>符卡充能效率<sup id="cite_ref-符卡充能效率_2-15" class="reference"><a href="#cite_note-符卡充能效率-2">2</a></sup></b></td><td style="min-width:125px">5</td><td style="min-width:100px" lang="ja">5</td></tr><tr><td style="min-width:125px"><b>能力效果</b></td><td style="min-width:125px">在Bomb发动时自动吸取道具</td><td style="min-width:100px" lang="ja">スペル発動中、アイテムを吸収しつづける</td></tr></tbody></table>
+
 
 
 ### 命莲寺
@@ -500,6 +521,7 @@ Northern_Mind
 <table><tbody><tr><td style="min-width:125px"><b>名称</b></td><td style="min-width:125px"><a href="./命莲寺.md" title="命莲寺">命莲寺</a></td><td style="min-width:100px" lang="ja">命蓮寺</td></tr><tr><td style="min-width:125px"><b>弹幕出典</b></td><td style="min-width:125px">『<a href="./东方神灵庙.md" title="东方神灵庙">东方神灵庙</a>』<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">18</a></sup></td><td style="min-width:100px" lang="ja">『東方神霊廟』</td></tr><tr><td style="min-width:125px"><b>地珠属性</b></td><td style="min-width:125px">红/白</td><td style="min-width:100px" lang="ja">赤/白</td></tr><tr><td style="min-width:125px"><b>星级</b></td><td style="min-width:125px"><span>★★★</span></td><td style="min-width:100px" lang="ja"><span>★★★</span></td></tr><tr><td style="min-width:125px"><b>HP</b></td><td style="min-width:125px">2020</td><td style="min-width:100px" lang="ja">2020</td></tr><tr><td style="min-width:125px"><b>攻击力</b></td><td style="min-width:125px">1040</td><td style="min-width:100px" lang="ja">1040</td></tr><tr><td style="min-width:125px"><b>回复力</b></td><td style="min-width:125px">130</td><td style="min-width:100px" lang="ja">130</td></tr><tr><td style="min-width:125px"><b>符卡充能效率<sup id="cite_ref-符卡充能效率_2-16" class="reference"><a href="#cite_note-符卡充能效率-2">2</a></sup></b></td><td style="min-width:125px">5</td><td style="min-width:100px" lang="ja">5</td></tr><tr><td style="min-width:125px"><b>能力效果</b></td><td style="min-width:125px">发动符卡后，全屏消弹</td><td style="min-width:100px" lang="ja">スペル発動後、全ての弾を消す</td></tr></tbody></table>
 
 
+
 ### 大祀庙
 
 
@@ -523,6 +545,7 @@ Northern_Mind
 
 
 <table><tbody><tr><td style="min-width:125px"><b>名称</b></td><td style="min-width:125px"><a href="./梦殿大祀庙（场景）.md" title="梦殿大祀庙（场景）">大祀庙</a></td><td style="min-width:100px" lang="ja">大祀廟</td></tr><tr><td style="min-width:125px"><b>弹幕出典</b></td><td style="min-width:125px">『<a href="./东方神灵庙.md" title="东方神灵庙">东方神灵庙</a>』<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">19</a></sup></td><td style="min-width:100px" lang="ja">『東方神霊廟』</td></tr><tr><td style="min-width:125px"><b>地珠属性</b></td><td style="min-width:125px">红/白</td><td style="min-width:100px" lang="ja">赤/白</td></tr><tr><td style="min-width:125px"><b>星级</b></td><td style="min-width:125px"><span>★★★</span></td><td style="min-width:100px" lang="ja"><span>★★★</span></td></tr><tr><td style="min-width:125px"><b>HP</b></td><td style="min-width:125px">1930</td><td style="min-width:100px" lang="ja">1930</td></tr><tr><td style="min-width:125px"><b>攻击力</b></td><td style="min-width:125px">1060</td><td style="min-width:100px" lang="ja">1060</td></tr><tr><td style="min-width:125px"><b>回复力</b></td><td style="min-width:125px">210</td><td style="min-width:100px" lang="ja">210</td></tr><tr><td style="min-width:125px"><b>符卡充能效率<sup id="cite_ref-符卡充能效率_2-17" class="reference"><a href="#cite_note-符卡充能效率-2">2</a></sup></b></td><td style="min-width:125px">5</td><td style="min-width:100px" lang="ja">5</td></tr><tr><td style="min-width:125px"><b>能力效果</b></td><td style="min-width:125px">在被弹到miss之间追加一段无敌时间</td><td style="min-width:100px" lang="ja">被弾してからミスになるまでを遅らせる</td></tr></tbody></table>
+
 
 
 ### 柳之运河
@@ -550,6 +573,7 @@ Northern_Mind
 <table><tbody><tr><td style="min-width:125px"><b>名称</b></td><td style="min-width:125px"><a href="./柳之运河.md" title="柳之运河">柳之运河</a></td><td style="min-width:100px" lang="ja">柳の運河</td></tr><tr><td style="min-width:125px"><b>弹幕出典</b></td><td style="min-width:125px">『<a href="./东方辉针城.md" title="东方辉针城">东方辉针城</a>』<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">20</a></sup></td><td style="min-width:100px" lang="ja">『東方輝針城』</td></tr><tr><td style="min-width:125px"><b>地珠属性</b></td><td style="min-width:125px">红/白</td><td style="min-width:100px" lang="ja">赤/白</td></tr><tr><td style="min-width:125px"><b>星级</b></td><td style="min-width:125px"><span>★★★</span></td><td style="min-width:100px" lang="ja"><span>★★★</span></td></tr><tr><td style="min-width:125px"><b>HP</b></td><td style="min-width:125px">1820</td><td style="min-width:100px" lang="ja">1820</td></tr><tr><td style="min-width:125px"><b>攻击力</b></td><td style="min-width:125px">960</td><td style="min-width:100px" lang="ja">960</td></tr><tr><td style="min-width:125px"><b>回复力</b></td><td style="min-width:125px">120</td><td style="min-width:100px" lang="ja">120</td></tr><tr><td style="min-width:125px"><b>符卡充能效率<sup id="cite_ref-符卡充能效率_2-18" class="reference"><a href="#cite_note-符卡充能效率-2">2</a></sup></b></td><td style="min-width:125px">5</td><td style="min-width:100px" lang="ja">5</td></tr><tr><td style="min-width:125px"><b>能力效果</b></td><td style="min-width:125px">在回收大量道具后为一个Bomb充能<br>※需要一次性回收</td><td style="min-width:100px" lang="ja">アイテムを大量に回収すると、スペルターンを1チャージする<br>※一気に回収する必要がある</td></tr></tbody></table>
 
 
+
 ### 山吹之都
 
 
@@ -575,7 +599,9 @@ Northern_Mind
 <table><tbody><tr><td style="min-width:125px"><b>名称</b></td><td style="min-width:125px">山吹之都</td><td style="min-width:100px" lang="ja">山吹の都</td></tr><tr><td style="min-width:125px"><b>弹幕出典<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">21</a></sup></b></td><td style="min-width:125px">-</td><td style="min-width:100px" lang="ja">-</td></tr><tr><td style="min-width:125px"><b>地珠属性</b></td><td style="min-width:125px">红/白</td><td style="min-width:100px" lang="ja">赤/白</td></tr><tr><td style="min-width:125px"><b>星级</b></td><td style="min-width:125px"><span>★★★</span></td><td style="min-width:100px" lang="ja"><span>★★★</span></td></tr><tr><td style="min-width:125px"><b>HP</b></td><td style="min-width:125px">1900</td><td style="min-width:100px" lang="ja">1900</td></tr><tr><td style="min-width:125px"><b>攻击力</b></td><td style="min-width:125px">720</td><td style="min-width:100px" lang="ja">720</td></tr><tr><td style="min-width:125px"><b>回复力</b></td><td style="min-width:125px">100</td><td style="min-width:100px" lang="ja">100</td></tr><tr><td style="min-width:125px"><b>符卡充能效率<sup id="cite_ref-符卡充能效率_2-19" class="reference"><a href="#cite_note-符卡充能效率-2">2</a></sup></b></td><td style="min-width:125px">6</td><td style="min-width:100px" lang="ja">6</td></tr><tr><td style="min-width:125px"><b>能力效果</b></td><td style="min-width:125px">红白二色的道具都可为其充能</td><td style="min-width:100px" lang="ja">このユニットは赤・白どちらのアイテムもチャージすることができる</td></tr></tbody></table>
 
 
+
 ## 四星地珠
+
 ### 雾之湖
 
 
@@ -595,6 +621,7 @@ Northern_Mind
 
 
 <table><tbody><tr><td style="min-width:125px"><b>名称</b></td><td style="min-width:125px"><a href="./雾之湖.md" title="雾之湖">雾之湖</a></td><td style="min-width:100px" lang="ja">霧の湖</td></tr><tr><td style="min-width:125px"><b>弹幕出典</b></td><td style="min-width:125px">『<a href="./东方红魔乡.md" title="东方红魔乡">东方红魔乡</a>』<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">22</a></sup></td><td style="min-width:100px" lang="ja">『東方紅魔郷』</td></tr><tr><td style="min-width:125px"><b>地珠属性</b></td><td style="min-width:125px">白</td><td style="min-width:100px" lang="ja">白</td></tr><tr><td style="min-width:125px"><b>星级</b></td><td style="min-width:125px"><span>★★★★</span></td><td style="min-width:100px" lang="ja"><span>★★★★</span></td></tr><tr><td style="min-width:125px"><b>HP</b></td><td style="min-width:125px">1990</td><td style="min-width:100px" lang="ja">1990</td></tr><tr><td style="min-width:125px"><b>攻击力</b></td><td style="min-width:125px">830</td><td style="min-width:100px" lang="ja">830</td></tr><tr><td style="min-width:125px"><b>回复力</b></td><td style="min-width:125px">160</td><td style="min-width:100px" lang="ja">160</td></tr><tr><td style="min-width:125px"><b>符卡充能效率<sup id="cite_ref-符卡充能效率_2-20" class="reference"><a href="#cite_note-符卡充能效率-2">2</a></sup></b></td><td style="min-width:125px">6</td><td style="min-width:100px" lang="ja">6</td></tr><tr><td style="min-width:125px"><b>能力效果</b></td><td style="min-width:125px">即使在BOSS战中中弹，也能得到回复道具</td><td style="min-width:100px" lang="ja">ボス戦でミスしても、回復アイテムが手に入る</td></tr></tbody></table>
+
 
 
 ### 红魔馆
@@ -618,6 +645,7 @@ Northern_Mind
 <table><tbody><tr><td style="min-width:125px"><b>名称</b></td><td style="min-width:125px"><a href="./红魔馆.md" title="红魔馆">红魔馆</a></td><td style="min-width:100px" lang="ja">紅魔館</td></tr><tr><td style="min-width:125px"><b>弹幕出典</b></td><td style="min-width:125px">『<a href="./东方红魔乡.md" title="东方红魔乡">东方红魔乡</a>』<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">23</a></sup></td><td style="min-width:100px" lang="ja">『東方紅魔郷』</td></tr><tr><td style="min-width:125px"><b>地珠属性</b></td><td style="min-width:125px">红</td><td style="min-width:100px" lang="ja">赤</td></tr><tr><td style="min-width:125px"><b>星级</b></td><td style="min-width:125px"><span>★★★★</span></td><td style="min-width:100px" lang="ja"><span>★★★★</span></td></tr><tr><td style="min-width:125px"><b>HP</b></td><td style="min-width:125px">2060</td><td style="min-width:100px" lang="ja">2060</td></tr><tr><td style="min-width:125px"><b>攻击力</b></td><td style="min-width:125px">1180</td><td style="min-width:100px" lang="ja">1180</td></tr><tr><td style="min-width:125px"><b>回复力</b></td><td style="min-width:125px">170</td><td style="min-width:100px" lang="ja">170</td></tr><tr><td style="min-width:125px"><b>符卡充能效率<sup id="cite_ref-符卡充能效率_2-21" class="reference"><a href="#cite_note-符卡充能效率-2">2</a></sup></b></td><td style="min-width:125px">6</td><td style="min-width:100px" lang="ja">6</td></tr><tr><td style="min-width:125px"><b>能力效果</b></td><td style="min-width:125px">道具下落速度降低</td><td style="min-width:100px" lang="ja">アイテムの落下速度が下がる</td></tr></tbody></table>
 
 
+
 ### 幽明结界
 
 
@@ -637,6 +665,7 @@ Northern_Mind
 
 
 <table><tbody><tr><td style="min-width:125px"><b>名称</b></td><td style="min-width:125px"><a href="./幽明结界.md" title="幽明结界">幽明结界</a></td><td style="min-width:100px" lang="ja">幽明結界</td></tr><tr><td style="min-width:125px"><b>弹幕出典</b></td><td style="min-width:125px">『<a href="./东方妖妖梦.md" title="东方妖妖梦">东方妖妖梦</a>』<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">24</a></sup></td><td style="min-width:100px" lang="ja">『東方妖々夢』</td></tr><tr><td style="min-width:125px"><b>地珠属性</b></td><td style="min-width:125px">白</td><td style="min-width:100px" lang="ja">白</td></tr><tr><td style="min-width:125px"><b>星级</b></td><td style="min-width:125px"><span>★★★★</span></td><td style="min-width:100px" lang="ja"><span>★★★★</span></td></tr><tr><td style="min-width:125px"><b>HP</b></td><td style="min-width:125px">1980</td><td style="min-width:100px" lang="ja">1980</td></tr><tr><td style="min-width:125px"><b>攻击力</b></td><td style="min-width:125px">1140</td><td style="min-width:100px" lang="ja">1140</td></tr><tr><td style="min-width:125px"><b>回复力</b></td><td style="min-width:125px">210</td><td style="min-width:100px" lang="ja">210</td></tr><tr><td style="min-width:125px"><b>符卡充能效率<sup id="cite_ref-符卡充能效率_2-22" class="reference"><a href="#cite_note-符卡充能效率-2">2</a></sup></b></td><td style="min-width:125px">6</td><td style="min-width:100px" lang="ja">6</td></tr><tr><td style="min-width:125px"><b>能力效果</b></td><td style="min-width:125px">当Bomb效果来自该单位时，张开一个可以使一次被弹无效化的结界<br>※自机的判定会变得稍大</td><td style="min-width:100px" lang="ja">スペルに参加するかわりに、被弾を一度だけ無效化するバリアを張る<br>※バリアの当たり判定は自機の当たり判定よりも大きい</td></tr></tbody></table>
+
 
 
 ### 永远亭
@@ -660,6 +689,7 @@ Northern_Mind
 <table><tbody><tr><td style="min-width:125px"><b>名称</b></td><td style="min-width:125px"><a href="./永远亭.md" title="永远亭">永远亭</a></td><td style="min-width:100px" lang="ja">永遠亭</td></tr><tr><td style="min-width:125px"><b>弹幕出典</b></td><td style="min-width:125px">『<a href="./东方永夜抄.md" title="东方永夜抄">东方永夜抄</a>』<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">25</a></sup></td><td style="min-width:100px" lang="ja">『東方永夜抄』</td></tr><tr><td style="min-width:125px"><b>地珠属性</b></td><td style="min-width:125px">红</td><td style="min-width:100px" lang="ja">赤</td></tr><tr><td style="min-width:125px"><b>星级</b></td><td style="min-width:125px"><span>★★★★</span></td><td style="min-width:100px" lang="ja"><span>★★★★</span></td></tr><tr><td style="min-width:125px"><b>HP</b></td><td style="min-width:125px">1940</td><td style="min-width:100px" lang="ja">1940</td></tr><tr><td style="min-width:125px"><b>攻击力</b></td><td style="min-width:125px">1190</td><td style="min-width:100px" lang="ja">1190</td></tr><tr><td style="min-width:125px"><b>回复力</b></td><td style="min-width:125px">180</td><td style="min-width:100px" lang="ja">180</td></tr><tr><td style="min-width:125px"><b>符卡充能效率<sup id="cite_ref-符卡充能效率_2-23" class="reference"><a href="#cite_note-符卡充能效率-2">2</a></sup></b></td><td style="min-width:125px">6</td><td style="min-width:100px" lang="ja">6</td></tr><tr><td style="min-width:125px"><b>能力效果</b></td><td style="min-width:125px">当Bomb效果来自该单位时，张开一个可以使一次被弹无效化的结界<br>※自机的判定会变得稍大</td><td style="min-width:100px" lang="ja">スペルに参加するかわりに、被弾を一度だけ無效化するバリアを張る<br>※バリアの当たり判定は自機の当たり判定よりも大きい</td></tr></tbody></table>
 
 
+
 ### 香霖堂
 
 
@@ -679,6 +709,7 @@ Northern_Mind
 
 
 <table><tbody><tr><td style="min-width:125px"><b>名称</b></td><td style="min-width:125px"><a href="./香霖堂.md" title="香霖堂">香霖堂</a></td><td style="min-width:100px" lang="ja">香霖堂</td></tr><tr><td style="min-width:125px"><b>弹幕出典</b></td><td style="min-width:125px">-</td><td style="min-width:100px" lang="ja">-</td></tr><tr><td style="min-width:125px"><b>地珠属性</b></td><td style="min-width:125px">白</td><td style="min-width:100px" lang="ja">白</td></tr><tr><td style="min-width:125px"><b>星级</b></td><td style="min-width:125px"><span>★★★★</span></td><td style="min-width:100px" lang="ja"><span>★★★★</span></td></tr><tr><td style="min-width:125px"><b>HP</b></td><td style="min-width:125px">2200</td><td style="min-width:100px" lang="ja">2200</td></tr><tr><td style="min-width:125px"><b>攻击力</b></td><td style="min-width:125px">1200</td><td style="min-width:100px" lang="ja">1200</td></tr><tr><td style="min-width:125px"><b>回复力</b></td><td style="min-width:125px">200</td><td style="min-width:100px" lang="ja">200</td></tr><tr><td style="min-width:125px"><b>符卡充能效率<sup id="cite_ref-符卡充能效率_2-24" class="reference"><a href="#cite_note-符卡充能效率-2">2</a></sup></b></td><td style="min-width:125px">5</td><td style="min-width:100px" lang="ja">5</td></tr><tr><td style="min-width:125px"><b>能力效果</b></td><td style="min-width:125px">使子弹看起来更大<br>※不影响实际判定</td><td style="min-width:100px" lang="ja">小さな弾が大きく見える<br>※当たり判定はそのまま</td></tr></tbody></table>
+
 
 
 ### 无缘塚
@@ -702,7 +733,9 @@ Northern_Mind
 <table><tbody><tr><td style="min-width:125px"><b>名称</b></td><td style="min-width:125px"><a href="./无缘塚.md" title="无缘塚">无缘塚</a></td><td style="min-width:100px" lang="ja">無縁塚</td></tr><tr><td style="min-width:125px"><b>弹幕出典</b></td><td style="min-width:125px">『<a href="./东方花映塚.md" title="东方花映塚">东方花映塚</a>』<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">26</a></sup></td><td style="min-width:100px" lang="ja">『東方花映塚』</td></tr><tr><td style="min-width:125px"><b>地珠属性</b></td><td style="min-width:125px">红</td><td style="min-width:100px" lang="ja">赤</td></tr><tr><td style="min-width:125px"><b>星级</b></td><td style="min-width:125px"><span>★★★★</span></td><td style="min-width:100px" lang="ja"><span>★★★★</span></td></tr><tr><td style="min-width:125px"><b>HP</b></td><td style="min-width:125px">2140</td><td style="min-width:100px" lang="ja">2140</td></tr><tr><td style="min-width:125px"><b>攻击力</b></td><td style="min-width:125px">1120</td><td style="min-width:100px" lang="ja">1120</td></tr><tr><td style="min-width:125px"><b>回复力</b></td><td style="min-width:125px">150</td><td style="min-width:100px" lang="ja">150</td></tr><tr><td style="min-width:125px"><b>符卡充能效率<sup id="cite_ref-符卡充能效率_2-25" class="reference"><a href="#cite_note-符卡充能效率-2">2</a></sup></b></td><td style="min-width:125px">6</td><td style="min-width:100px" lang="ja">6</td></tr><tr><td style="min-width:125px"><b>能力效果</b></td><td style="min-width:125px">可以在画面的左端和右端之间穿越<br>※在画面边缘按方向键发动</td><td style="min-width:100px" lang="ja">画面の左端と右端の間をワープできる<br>※画面端に向かって方向キーを入力すると発動する</td></tr></tbody></table>
 
 
+
 ## 五星地珠
+
 ### 湖之冷气
 
 
@@ -722,6 +755,7 @@ Northern_Mind
 
 
 <table><tbody><tr><td style="min-width:125px"><b>名称</b></td><td style="min-width:125px"><a href="./琪露诺.md" title="琪露诺">湖之冷气</a></td><td style="min-width:100px" lang="ja">湖の冷気</td></tr><tr><td style="min-width:125px"><b>弹幕出典</b></td><td style="min-width:125px">『<a href="./东方红魔乡.md" title="东方红魔乡">东方红魔乡</a>』<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">27</a></sup></td><td style="min-width:100px" lang="ja">『東方紅魔郷』</td></tr><tr><td style="min-width:125px"><b>地珠属性</b></td><td style="min-width:125px">白</td><td style="min-width:100px" lang="ja">白</td></tr><tr><td style="min-width:125px"><b>星级</b></td><td style="min-width:125px"><span>★★★★★</span></td><td style="min-width:100px" lang="ja"><span>★★★★★</span></td></tr><tr><td style="min-width:125px"><b>HP</b></td><td style="min-width:125px">2000</td><td style="min-width:100px" lang="ja">2000</td></tr><tr><td style="min-width:125px"><b>攻击力</b></td><td style="min-width:125px">1300</td><td style="min-width:100px" lang="ja">1300</td></tr><tr><td style="min-width:125px"><b>回复力</b></td><td style="min-width:125px">0</td><td style="min-width:100px" lang="ja">0</td></tr><tr><td style="min-width:125px"><b>符卡充能效率<sup id="cite_ref-符卡充能效率_2-26" class="reference"><a href="#cite_note-符卡充能效率-2">2</a></sup></b></td><td style="min-width:125px">7</td><td style="min-width:100px" lang="ja">7</td></tr><tr><td style="min-width:125px"><b>能力效果</b></td><td style="min-width:125px">回复道具对于生命值的回复无视生命值上限</td><td style="min-width:100px" lang="ja">回復アイテムでHPを無限に回復できる</td></tr></tbody></table>
+
 
 
 ### 日之光
@@ -745,6 +779,7 @@ Northern_Mind
 <table><tbody><tr><td style="min-width:125px"><b>名称</b></td><td style="min-width:125px"><a href="./桑尼米尔克.md" title="桑尼米尔克">日之光</a></td><td style="min-width:100px" lang="ja">日の光</td></tr><tr><td style="min-width:125px"><b>弹幕出典</b></td><td style="min-width:125px">『<a href="./妖精大战争.md" title="妖精大战争">妖精大战争</a>』<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">28</a></sup></td><td style="min-width:100px" lang="ja">『妖精大戦争』</td></tr><tr><td style="min-width:125px"><b>地珠属性</b></td><td style="min-width:125px">红</td><td style="min-width:100px" lang="ja">赤</td></tr><tr><td style="min-width:125px"><b>星级</b></td><td style="min-width:125px"><span>★★★★★</span></td><td style="min-width:100px" lang="ja"><span>★★★★★</span></td></tr><tr><td style="min-width:125px"><b>HP</b></td><td style="min-width:125px">2200</td><td style="min-width:100px" lang="ja">2200</td></tr><tr><td style="min-width:125px"><b>攻击力</b></td><td style="min-width:125px">1200</td><td style="min-width:100px" lang="ja">1200</td></tr><tr><td style="min-width:125px"><b>回复力</b></td><td style="min-width:125px">50</td><td style="min-width:100px" lang="ja">50</td></tr><tr><td style="min-width:125px"><b>符卡充能效率<sup id="cite_ref-符卡充能效率_2-27" class="reference"><a href="#cite_note-符卡充能效率-2">2</a></sup></b></td><td style="min-width:125px">6</td><td style="min-width:100px" lang="ja">6</td></tr><tr><td style="min-width:125px"><b>能力效果</b></td><td style="min-width:125px">敌方的自机狙会变为随机弹</td><td style="min-width:100px" lang="ja">敵の自機狙いがデタラメになる</td></tr></tbody></table>
 
 
+
 ### 月之光
 
 
@@ -764,6 +799,7 @@ Northern_Mind
 
 
 <table><tbody><tr><td style="min-width:125px"><b>名称</b></td><td style="min-width:125px"><a href="./露娜切露德.md" title="露娜切露德">月之光</a></td><td style="min-width:100px" lang="ja">月の光</td></tr><tr><td style="min-width:125px"><b>弹幕出典</b></td><td style="min-width:125px">『<a href="./妖精大战争.md" title="妖精大战争">妖精大战争</a>』<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">29</a></sup></td><td style="min-width:100px" lang="ja">『妖精大戦争』</td></tr><tr><td style="min-width:125px"><b>地珠属性</b></td><td style="min-width:125px">白</td><td style="min-width:100px" lang="ja">白</td></tr><tr><td style="min-width:125px"><b>星级</b></td><td style="min-width:125px"><span>★★★★★</span></td><td style="min-width:100px" lang="ja"><span>★★★★★</span></td></tr><tr><td style="min-width:125px"><b>HP</b></td><td style="min-width:125px">2200</td><td style="min-width:100px" lang="ja">2200</td></tr><tr><td style="min-width:125px"><b>攻击力</b></td><td style="min-width:125px">1200</td><td style="min-width:100px" lang="ja">1200</td></tr><tr><td style="min-width:125px"><b>回复力</b></td><td style="min-width:125px">50</td><td style="min-width:100px" lang="ja">50</td></tr><tr><td style="min-width:125px"><b>符卡充能效率<sup id="cite_ref-符卡充能效率_2-28" class="reference"><a href="#cite_note-符卡充能效率-2">2</a></sup></b></td><td style="min-width:125px">6</td><td style="min-width:100px" lang="ja">6</td></tr><tr><td style="min-width:125px"><b>能力效果</b></td><td style="min-width:125px">自机狙只会来自于曾被攻击的敌人</td><td style="min-width:100px" lang="ja">まだ攻撃を当てていない敵からは自機狙いをされなくなる</td></tr></tbody></table>
+
 
 
 ### 星之光
@@ -787,6 +823,7 @@ Northern_Mind
 <table><tbody><tr><td style="min-width:125px"><b>名称</b></td><td style="min-width:125px"><a href="./斯塔萨菲雅.md" title="斯塔萨菲雅">星之光</a></td><td style="min-width:100px" lang="ja">星の光</td></tr><tr><td style="min-width:125px"><b>弹幕出典</b></td><td style="min-width:125px">『<a href="./妖精大战争.md" title="妖精大战争">妖精大战争</a>』<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">30</a></sup></td><td style="min-width:100px" lang="ja">『妖精大戦争』</td></tr><tr><td style="min-width:125px"><b>地珠属性</b></td><td style="min-width:125px">白</td><td style="min-width:100px" lang="ja">白</td></tr><tr><td style="min-width:125px"><b>星级</b></td><td style="min-width:125px"><span>★★★★★</span></td><td style="min-width:100px" lang="ja"><span>★★★★★</span></td></tr><tr><td style="min-width:125px"><b>HP</b></td><td style="min-width:125px">2200</td><td style="min-width:100px" lang="ja">2200</td></tr><tr><td style="min-width:125px"><b>攻击力</b></td><td style="min-width:125px">1200</td><td style="min-width:100px" lang="ja">1200</td></tr><tr><td style="min-width:125px"><b>回复力</b></td><td style="min-width:125px">50</td><td style="min-width:100px" lang="ja">50</td></tr><tr><td style="min-width:125px"><b>符卡充能效率<sup id="cite_ref-符卡充能效率_2-29" class="reference"><a href="#cite_note-符卡充能效率-2">2</a></sup></b></td><td style="min-width:125px">6</td><td style="min-width:100px" lang="ja">6</td></tr><tr><td style="min-width:125px"><b>能力效果</b></td><td style="min-width:125px">如果迅速离开，则撞击敌人并不会导致miss</td><td style="min-width:100px" lang="ja">敵に直接当たっても、すぐに離れればミスにならない</td></tr></tbody></table>
 
 
+
 ### 盛夏的扬羽蝶
 
 
@@ -808,6 +845,7 @@ Northern_Mind
 <table><tbody><tr><td style="min-width:125px"><b>名称</b></td><td style="min-width:125px"><a href="./爱塔妮缇拉尔瓦.md" title="爱塔妮缇拉尔瓦">盛夏的扬羽蝶</a></td><td style="min-width:100px" lang="ja">真夏の揚羽蝶</td></tr><tr><td style="min-width:125px"><b>弹幕出典</b></td><td style="min-width:125px">『<a href="./东方天空璋.md" title="东方天空璋">东方天空璋</a>』<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">31</a></sup></td><td style="min-width:100px" lang="ja">『東方天空璋』</td></tr><tr><td style="min-width:125px"><b>地珠属性</b></td><td style="min-width:125px">红</td><td style="min-width:100px" lang="ja">赤</td></tr><tr><td style="min-width:125px"><b>星级</b></td><td style="min-width:125px"><span>★★★★★</span></td><td style="min-width:100px" lang="ja"><span>★★★★★</span></td></tr><tr><td style="min-width:125px"><b>HP</b></td><td style="min-width:125px">2050</td><td style="min-width:100px" lang="ja">2050</td></tr><tr><td style="min-width:125px"><b>攻击力</b></td><td style="min-width:125px">1120</td><td style="min-width:100px" lang="ja">1120</td></tr><tr><td style="min-width:125px"><b>回复力</b></td><td style="min-width:125px">50</td><td style="min-width:100px" lang="ja">50</td></tr><tr><td style="min-width:125px"><b>符卡充能效率<sup id="cite_ref-符卡充能效率_2-30" class="reference"><a href="#cite_note-符卡充能效率-2">2</a></sup></b></td><td style="min-width:125px">5</td><td style="min-width:100px" lang="ja">5</td></tr><tr><td style="min-width:125px"><b>能力效果</b></td><td style="min-width:125px">来自该单位的Bomb将会优先发动</td><td style="min-width:100px" lang="ja">このユニットは優先的にスペルを発動する</td></tr></tbody></table>
 
 
+
 ### 地狱的狂气
 
 
@@ -827,6 +865,7 @@ Northern_Mind
 
 
 <table><tbody><tr><td style="min-width:125px"><b>名称</b></td><td style="min-width:125px"><a href="./克劳恩皮丝.md" title="克劳恩皮丝">地狱的狂气</a></td><td style="min-width:100px" lang="ja">地獄の狂気</td></tr><tr><td style="min-width:125px"><b>弹幕出典</b></td><td style="min-width:125px">『<a href="./东方绀珠传.md" title="东方绀珠传">东方绀珠传</a>』<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">32</a></sup></td><td style="min-width:100px" lang="ja">『東方紺珠伝』</td></tr><tr><td style="min-width:125px"><b>地珠属性</b></td><td style="min-width:125px">红</td><td style="min-width:100px" lang="ja">赤</td></tr><tr><td style="min-width:125px"><b>星级</b></td><td style="min-width:125px"><span>★★★★★</span></td><td style="min-width:100px" lang="ja"><span>★★★★★</span></td></tr><tr><td style="min-width:125px"><b>HP</b></td><td style="min-width:125px">3000</td><td style="min-width:100px" lang="ja">3000</td></tr><tr><td style="min-width:125px"><b>攻击力</b></td><td style="min-width:125px">2000</td><td style="min-width:100px" lang="ja">2000</td></tr><tr><td style="min-width:125px"><b>回复力</b></td><td style="min-width:125px">0</td><td style="min-width:100px" lang="ja">0</td></tr><tr><td style="min-width:125px"><b>符卡充能效率<sup id="cite_ref-符卡充能效率_2-31" class="reference"><a href="#cite_note-符卡充能效率-2">2</a></sup></b></td><td style="min-width:125px">3</td><td style="min-width:100px" lang="ja">3</td></tr><tr><td style="min-width:125px"><b>能力效果</b></td><td style="min-width:125px">被弹时游戏即结束</td><td style="min-width:100px" lang="ja">被弹をするとゲームオーバーになってしまう</td></tr></tbody></table>
+
 
 
 ### 万华
@@ -856,6 +895,7 @@ Northern_Mind
 
 
 [^cite_note-1]: 为[东方天空璋](./东方天空璋.md)中，三面妖精释放的弹幕。
+
 
 ## 词条导航
   

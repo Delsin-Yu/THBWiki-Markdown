@@ -4,6 +4,7 @@
 
 东方封魔录 | 以死相赌
 
+
 ## 文件说明
   
 死を賭して 东方封魔录3面Boss的主题曲MIDI版。由Roland Sound Canvas 88Pro实机录制；MP3采样率44.1KHz，码率192Kbps。  

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-HOME～月と太陽が出会う場所～④封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/a/ac/HOME%EF%BD%9E%E6%9C%88%E3%81%A8%E5%A4%AA%E9%99%BD%E3%81%8C%E5%87%BA%E4%BC%9A%E3%81%86%E5%A0%B4%E6%89%80%EF%BD%9E%E2%91%A3%E5%B0%81%E9%9D%A2.png/160px-HOME%EF%BD%9E%E6%9C%88%E3%81%A8%E5%A4%AA%E9%99%BD%E3%81%8C%E5%87%BA%E4%BC%9A%E3%81%86%E5%A0%B4%E6%89%80%EF%BD%9E%E2%91%A3%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="160" height="224" srcset="https://upload.thwiki.cc/thumb/a/ac/HOME%EF%BD%9E%E6%9C%88%E3%81%A8%E5%A4%AA%E9%99%BD%E3%81%8C%E5%87%BA%E4%BC%9A%E3%81%86%E5%A0%B4%E6%89%80%EF%BD%9E%E2%91%A3%E5%B0%81%E9%9D%A2.png/240px-HOME%EF%BD%9E%E6%9C%88%E3%81%A8%E5%A4%AA%E9%99%BD%E3%81%8C%E5%87%BA%E4%BC%9A%E3%81%86%E5%A0%B4%E6%89%80%EF%BD%9E%E2%91%A3%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/a/ac/HOME%EF%BD%9E%E6%9C%88%E3%81%A8%E5%A4%AA%E9%99%BD%E3%81%8C%E5%87%BA%E4%BC%9A%E3%81%86%E5%A0%B4%E6%89%80%EF%BD%9E%E2%91%A3%E5%B0%81%E9%9D%A2.png/320px-HOME%EF%BD%9E%E6%9C%88%E3%81%A8%E5%A4%AA%E9%99%BD%E3%81%8C%E5%87%BA%E4%BC%9A%E3%81%86%E5%A0%B4%E6%89%80%EF%BD%9E%E2%91%A3%E5%B0%81%E9%9D%A2.png 2x" data-file-width="1480" data-file-height="2071"></a><div class="cover-char">角色：<a href="./胡桃.md" title="胡桃">胡桃</a>，<a href="./奥莲姬.md" title="奥莲姬">奥莲姬</a>，<a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a></div></td>
@@ -18,8 +19,10 @@ HOME～月と太陽が出会う場所～④（同人志，ForestRest，2018） -
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=394260">蜜瓜</a></td></tr></tbody></table>
 
 
+
 ## Staff
 - [もりのほん](./もりのほん.md)
+
 
 ## 评论
   

@@ -11,6 +11,7 @@
 
   
 
+
 ## 目录
 
 - [1 角色信息](#角色信息)
@@ -23,6 +24,7 @@
 - [3 符卡](#符卡)
 
   - [3.1 东方阴阳洞](#东方阴阳洞)
+
 
 
 
@@ -49,7 +51,9 @@ NIF（同人角色，同人角色） - 二次同人角色
 </tr><tr><th><b>作品名</b></th><th><b>位置</b></th><th><b>类型</b></th><th><b>称号</b></th><th><b>主题曲</b></th></tr><tr><td rowspan="1" style="width:120px"><b><a href="./东方阴阳洞_~_阴阳玉滞销危机.md" title="东方阴阳洞 ~ 阴阳玉滞销危机">东方阴阳洞 ~ 阴阳玉滞销危机</a></b></td><td style="width:130px">EXTRA面BOSS</td><td class="bg-color-danger-30" style="width:30px;">游戏</td><td style="width:180px">改变世界的黑幕</td><td style="width:200px">NOTINKFELL'S MEGALOVANIA</td></tr></tbody></table>
 
 
+
 ## 设定
+
 ### 东方阴阳洞 设定
 ```
  性别：NIF
@@ -88,7 +92,9 @@ NIF（同人角色，同人角色） - 二次同人角色
  “EXTRA面BOSS当的有些乏力，什么时候画个自机点图当自机去”（结果真画出来了，甚至还经常用）
 ```
 
+
 ## 符卡
+
 ### 东方阴阳洞
 [](./文件-NIF.png.md)  [](./文件-NIF.png.md)NIF立绘（东方阴阳洞）
 

@@ -4,6 +4,7 @@
 
 Border_of_Life | 东方妖妖梦
 
+
 ## 文件说明
   
 ボーダーオブライフ 东方妖妖梦6面Boss西行寺幽々子的主题曲2MIDI版。由Roland Sound Canvas 88Pro实机录制；MP3采样率44.1KHz，码率192Kbps。  

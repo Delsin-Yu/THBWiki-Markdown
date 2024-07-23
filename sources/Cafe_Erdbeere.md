@@ -4,7 +4,8 @@
 
 Cafe Erdbeere ，主要制作 同人志 的日本同人社团，主催是 朱澄はや天，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -20,18 +21,22 @@ Cafe Erdbeere ，主要制作 同人志 的日本同人社团，主催是 朱澄
 
 
 
+
 ## 社团信息
 [](./文件-Cafe_Erdbeerelogo.jpg.md)  [](./文件-Cafe_Erdbeerelogo.jpg.md)logo
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Cafe Erdbeere </td></tr><tr><td><b>主要作品类型</b></td><td>同人志</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="./朱澄はや天.md" title="朱澄はや天">朱澄はや天</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="https://cafe-erdbeere.booth.pm/">https://cafe-erdbeere.booth.pm/</a> <br><a rel="nofollow" class="external free" href="https://twitter.com/CafeErdbeere">https://twitter.com/CafeErdbeere</a> <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span></td></tr></tbody></table>
 
 Cafe Erdbeere（同人社团，同人志社团） - Cafe Erdbeere ，主要制作 同人志 的日本同人社团，主催是 朱澄はや天，当前状态为 活动
+
 ## 成员名单
 - [朱澄はや天](./朱澄はや天.md) (a.k.a.  **Asumi Hayaten** )
 
 : [Twitter: @Prof_Hayaten](https://twitter.com/Prof_Hayaten)
 
+
 ## 作品列表
+
 ### 同人志
 [](./ぬりえ「秘封倶楽部」.md)[ぬりえ「秘封倶楽部」](./ぬりえ「秘封倶楽部」.md)首发日期：2017-09-18 （科学世紀のカフェテラス（第7回） (未找到链接)）漫画 （一般向）B5&#160;尺寸 8&#160;页[](./岡崎研活動報告書.md)[岡崎研活動報告書](./岡崎研活動報告書.md)首发日期：2018-04-15 （げんましんⅤ～俺達の花嫁～ (未找到链接)）合同志、​漫画、​画集、​小说 （一般向）B5&#160;尺寸 74&#160;页[](./はじめての大学東方サークル.md)[はじめての大学東方サークル](./はじめての大学東方サークル.md)首发日期：2018-08-10 （Comic Market 94 (未找到链接)）其他 （一般向）A5&#160;尺寸 62&#160;页介绍大学的东方社团[](./れんこちゃんのひらめき.md)[れんこちゃんのひらめき](./れんこちゃんのひらめき.md)首发日期：2018-11-11 （科学世紀のカフェテラス（第8回） (未找到链接)）漫画 （一般向）A5&#160;尺寸 12&#160;页[](./うさみが来ない.md)[うさみが来ない](./うさみが来ない.md)首发日期：2019-05-05 （第十六回 博麗神社例大祭 (未找到链接)）小说 （一般向）造形神の創造 封面图片 (未找到链接)造形神の創造 (未找到链接)首发日期：未知 - 記憶の中にいる師匠 封面图片 (未找到链接)[記憶の中にいる師匠](./記憶の中にいる師匠.md)首发日期：2019-11-17 （科学世紀のカフェテラス（第9回） (未找到链接)）小说 （一般向）A5&#160;尺寸 8&#160;页[](./1から！大学東方サークル.md)[1から！大学東方サークル](./1から！大学東方サークル.md)首发日期：2020-08-09 （東方名華祭14 (未找到链接)）评论志 （一般向）A5&#160;尺寸 88&#160;页介绍大学东方社团建立的过程[](./8／12_メリーと。.md)[8／12 メリーと。](./8／12_メリーと。.md)首发日期：2021-03-21 （第十八回 博麗神社例大祭 (未找到链接)）摄影集 （一般向）A5&#160;尺寸 16&#160;页[](./Erdbeergarten.md)[Erdbeergarten](./Erdbeergarten.md)首发日期：2022-05-08 （第十九回 博麗神社例大祭 (未找到链接)）其他 （一般向）B5&#160;尺寸 64&#160;页『　』 封面图片 (未找到链接)『 』（同人志） (未找到链接)首发日期：未知 - 
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -54,6 +59,7 @@ Cafe Erdbeere（同人社团，同人志社团） - Cafe Erdbeere ，主要制�
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458"></table>
+
 
 
 ## 参展信息

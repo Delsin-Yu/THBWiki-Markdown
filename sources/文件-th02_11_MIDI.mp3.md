@@ -4,6 +4,7 @@
 
 Complete_Darkness | 东方封魔录
 
+
 ## 文件说明
   
 Complete Darkness 东方封魔录5面Boss魅魔的主题曲MIDI版。由Roland Sound Canvas 88Pro实机录制；MP3采样率44.1KHz，码率192Kbps。  

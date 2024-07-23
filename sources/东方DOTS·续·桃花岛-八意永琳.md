@@ -169,6 +169,7 @@
 [](./文件-THD2八意永琳.png.md)
   
 
+
 ## 目录
 
 - [1 角色介绍](#角色介绍)
@@ -196,6 +197,7 @@
 
 
 
+
 ## 角色介绍
   
 月人。制作所有药物的程度的能力。  
@@ -206,10 +208,12 @@
 [详见介绍](./八意永琳.md)
   
 
+
 ## 角色定位
   
 爆发 - 逃生 - 推进 - 辅助
   
+
 
 ## 技能介绍
 
@@ -803,6 +807,7 @@
 </td></tr></tbody></table>
 
 
+
 ### 优势
   
 神出鬼没的隐身能力、苏活「生命游戏」的大量伤害和治疗量，让她不仅拥有强力的进攻逃跑能力又有着无与伦比的团队续航能力。  
@@ -810,10 +815,12 @@
 终极技能的蓬莱之药更是让服用者几乎处于不死状态。
   
 
+
 ### 劣势
   
 脆弱的身板和缺乏机动能力，一旦被针对、敌人做好反隐的情况下，极为容易死于刺杀之中。
   
+
 
 ## 天赋树
 
@@ -857,6 +864,7 @@
 「永夜归隐」额外作用于自身一次：若施放「永夜归隐」指定的主目标即为自身，则提供的所有加成数值翻倍。
   
 
+
 #### 出门装备
 ```
 [](./文件-THD2爱人卡.png.md)　[](./文件-THD2鬼天王腰带.png.md)　[](./文件-THD2无色水晶.png.md)
@@ -865,6 +873,7 @@
   
 出门尽早合出礼物[](./文件-THD2很值钱的礼物.png.md)，由于八意永琳本身没有打钱清线技能，在没有节奏时经济基本靠跳钱装备给，正确释放2技能[](./文件-THD2八意永琳_02.png.md)和天生[](./文件-THD2八意永琳_天生.jpg.md)同一路大哥基本不会存在线上压力特别大的情况，如果蓝量不够可以后面买[](./文件-THD2雾雨魔力瓶.png.md)，注意2技能[](./文件-THD2八意永琳_02.png.md)释放前示意队友，否则很容易出现技能放空的情况，2技能前期的冷却时间很长，不正确的使用时机会导致线上压力增大
   
+
 
 #### 前期装备
 ```
@@ -877,6 +886,7 @@
 利用3技能[](./文件-THD2八意永琳_03.png.md)可以做视野，让队友更容易打出先手，大招[](./文件-THD2八意永琳_04.png.md)救人，2技能[](./文件-THD2八意永琳_02.png.md)加血
   
 
+
 #### 核心装备
 ```
 [](./文件-THD2香霖的礼服.png.md)　[](./文件-THD2冰精跳跃装置.png.md) [](./文件-THD2侦查守卫.png.md) [](./文件-THD2岗哨守卫.png.md)
@@ -885,6 +895,7 @@
   
 九球[](./文件-THD2冰精跳跃装置.png.md)增加生存能力，需要立刻做出关键装备但是缺钱可以把[](./文件-THD2香霖的礼服.png.md)鼠标左键点击用掉
   
+
 
 #### 可选装备
 ```
@@ -896,6 +907,7 @@
 
 缺控制出第一件，缺解控制出第二件，缺先手出第三件，对方物理伤害威胁大出第四件
   
+
 
 ## 技能加点
 
@@ -957,6 +969,7 @@
 <td><a href="./文件-DOTA黄点.png.md" class="image" title="+2 全属性"><img alt="+2 全属性" src="https://upload.thwiki.cc/thumb/d/da/DOTA%E9%BB%84%E7%82%B9.png/40px-DOTA%E9%BB%84%E7%82%B9.png" decoding="async" loading="lazy" width="40" height="40" srcset="https://upload.thwiki.cc/thumb/d/da/DOTA%E9%BB%84%E7%82%B9.png/60px-DOTA%E9%BB%84%E7%82%B9.png 1.5x, https://upload.thwiki.cc/thumb/d/da/DOTA%E9%BB%84%E7%82%B9.png/80px-DOTA%E9%BB%84%E7%82%B9.png 2x" data-file-width="128" data-file-height="128"></a></td>
 <td><a href="./文件-THD2天赋树25右.png.md" class="image" title="-60秒「蓬莱之药」冷却时间"><img alt="-60秒「蓬莱之药」冷却时间" src="https://upload.thwiki.cc/thumb/5/5b/THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%8F%B3.png/40px-THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%8F%B3.png" decoding="async" loading="lazy" width="40" height="40" srcset="https://upload.thwiki.cc/thumb/5/5b/THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%8F%B3.png/60px-THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%8F%B3.png 1.5x, https://upload.thwiki.cc/thumb/5/5b/THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%8F%B3.png/80px-THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%8F%B3.png 2x" data-file-width="103" data-file-height="103"></a>
 </td></tr></tbody></table>
+
 
 
 ## 台词
@@ -1070,6 +1083,7 @@
 </td>
 <td>あら、しかたないわ<br>[啊哈，这也是没办法的事啊]
 </td></tr></tbody></table>
+
 
 
 ## 教学视频

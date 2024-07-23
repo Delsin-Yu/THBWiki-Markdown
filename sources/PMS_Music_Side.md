@@ -4,7 +4,8 @@
 
 PMS Music Side ，主要制作 同人音乐 的日本同人社团，当前状态为 休止
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -20,15 +21,19 @@ PMS Music Side ，主要制作 同人音乐 的日本同人社团，当前状态
 
 
 
+
 ## 社团信息
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> PMS Music Side </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://homepage2.nifty.com/pms_music_info/">http://homepage2.nifty.com/pms_music_info/</a> <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span></td></tr></tbody></table>
 
 PMS Music Side（同人社团，同人音乐社团） - PMS Music Side ，主要制作 同人音乐 的日本同人社团，当前状态为 休止
+
 ## 成员名单
 - 陵ゆきの (未找到链接)
 
+
 ## 作品列表
+
 ### 同人专辑
 [](./東方錬精華.md)[東方錬精華](./東方錬精華.md)首发日期：2005-08-14 （Comic Market 68 (未找到链接)）PMS-AMCD-0004全长 （一般向）[](./まりスペ_Marisa_Special.md)[まりスペ Marisa Special](./まりスペ_Marisa_Special.md)首发日期：2005-10-30 （恋色マジック1 (未找到链接)）PMS-AMCD-0005EP （一般向）[](./郷花愁咲.md)[郷花愁咲](./郷花愁咲.md)首发日期：2006-05-21 （第三回 博麗神社例大祭 (未找到链接)）PMS-AMCD-0006EP （一般向）[](./紅月奏夜.md)[紅月奏夜](./紅月奏夜.md)首发日期：2006-09-03 （紅月ノ宴一 (未找到链接)）PMS-AMCD-0007全长 （一般向）[](./回顧的_京都小旅行_(一泊二日).md)[回顧的 京都小旅行 (一泊二日)](./回顧的_京都小旅行_(一泊二日).md)首发日期：2006-11-12 （東方紅楼夢2 (未找到链接)）PMS-AMCD-0008EP （一般向）[](./Blue_Blossom’s_Flagments_5分咲き_Disc.md)[Blue Blossom's Flagments 5分咲き Disc](./Blue_Blossom’s_Flagments_5分咲き_Disc.md)首发日期：2007-11-24 （東方不敗小町4 (未找到链接)）EP （一般向）[](./Blue_Blossom's_Fragments.md)[Blue Blossom's Fragments](./Blue_Blossom's_Fragments.md)首发日期：2008-05-25 （第五回 博麗神社例大祭 (未找到链接)）PMS-AMCD-0009全长 （一般向）[](./風神ノ詞_～かぜのうた～.md)[風神の詞 ～かぜのうた～](./風神ノ詞_～かぜのうた～.md)首发日期：2009-10-25 （御射宫司祭 (未找到链接)）PMS-AMCD-0010EP （一般向）
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -47,6 +52,7 @@ PMS Music Side（同人社团，同人音乐社团） - PMS Music Side ，主要
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 参展信息

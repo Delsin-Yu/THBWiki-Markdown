@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Reach_For_The_Moon_-Aphrodite_voiceless_version-封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/3/35/Reach_For_The_Moon_-Aphrodite_voiceless_version-%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="252" data-file-width="200" data-file-height="200"></a></td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://kapparecords.com/MasashiOkagakiAndFriends/M_OKAGAKI_KPCR-113.html">https://kapparecords.com/MasashiOkagakiAndFriends/M_OKAGAKI_KPCR-113.html</a></td></tr><tr><td class="label">备注</td><td colspan="2">Aphrodite -SCARLET FANTASIA VII- Present Disc</td></tr></tbody></table>
 
 Reach For The Moon -Aphrodite voiceless version-（同人专辑，岡垣正志＆フレンズ，2011） - 2011年5月1日 由 岡垣正志＆フレンズ 于 M3-2011春 发布的Omake同人专辑，分级为 一般向
+
 ## Staff
   
  **Arrangement**   
@@ -26,9 +28,11 @@ Reach For The Moon -Aphrodite voiceless version-（同人专辑，岡垣正志�
 <table><tbody><tr><td><a href="/index.php?title=%E5%B2%A1%E5%9E%A3_%E2%80%9CJill%E2%80%9D_%E6%AD%A3%E5%BF%97&amp;action=edit&amp;redlink=1" class="new" title="岡垣 “Jill” 正志（页面不存在）">岡垣 “Jill” 正志</a></td><td></td><td>Tr.1</td></tr><tr><td><a href="/index.php?title=ANI-Katsu&amp;action=edit&amp;redlink=1" class="new" title="ANI-Katsu（页面不存在）">ANI-Katsu</a></td><td></td><td>Tr.1</td></tr><tr><td><a href="/index.php?title=Hiromi_Suzuki&amp;action=edit&amp;redlink=1" class="new" title="Hiromi Suzuki（页面不存在）">Hiromi Suzuki</a></td><td></td><td>Tr.1</td></tr></tbody></table>
 
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Reach_For_The_Moon_-Aphrodite_voiceless_version-" colspan="2" class="title">Reach For The Moon -Aphrodite voiceless version-<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=岡垣 “Jill” 正志&amp;ogmusic=妖怪宇宙旅行&amp;fromwiki=Reach_For_The_Moon_-Aphrodite_voiceless_version-"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E5%B2%A1%E5%9E%A3_%E2%80%9CJill%E2%80%9D_%E6%AD%A3%E5%BF%97&amp;action=edit&amp;redlink=1" class="new" title="岡垣 “Jill” 正志（页面不存在）">岡垣 “Jill” 正志</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，岡垣 “Jill” 正志&amp;fromwiki=Reach_For_The_Moon_-Aphrodite_voiceless_version-"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演奏</td><td class="text" colspan="2">Keyboard：岡垣 “Jill” 正志 <br>Guitar：Hiromi Suzuki <br>Bass：ANI-Katsu</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=妖怪宇宙旅行&amp;fromwiki=Reach_For_The_Moon_-Aphrodite_voiceless_version-"><span></span></a></span><div class="ogmusic"><a href="./妖怪宇宙旅行.md" title="妖怪宇宙旅行">妖怪宇宙旅行</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E5%84%9A%E6%9C%88%E6%8A%84_%EF%BD%9E_Silent_Sinner_in_Blue._%E9%99%84%E5%B1%9ECD" class="mw-redirect" title="东方儚月抄 ～ Silent Sinner in Blue. 附属CD">东方儚月抄 ～ Silent Sinner in Blue. 附属CD</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Reach_For_The_Moon_-Aphrodite_voiceless_version-" colspan="2" class="title">Reach For The Moon -Aphrodite voiceless version-<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=岡垣 “Jill” 正志&amp;ogmusic=妖怪宇宙旅行&amp;fromwiki=Reach_For_The_Moon_-Aphrodite_voiceless_version-"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E5%B2%A1%E5%9E%A3_%E2%80%9CJill%E2%80%9D_%E6%AD%A3%E5%BF%97&amp;action=edit&amp;redlink=1" class="new" title="岡垣 “Jill” 正志（页面不存在）">岡垣 “Jill” 正志</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，岡垣 “Jill” 正志&amp;fromwiki=Reach_For_The_Moon_-Aphrodite_voiceless_version-"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演奏</td><td class="text" colspan="2">Keyboard：岡垣 “Jill” 正志 <br>Guitar：Hiromi Suzuki <br>Bass：ANI-Katsu</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=妖怪宇宙旅行&amp;fromwiki=Reach_For_The_Moon_-Aphrodite_voiceless_version-"><span></span></a></span><div class="ogmusic"><a href="./妖怪宇宙旅行.md" title="妖怪宇宙旅行">妖怪宇宙旅行</a></div><div class="source"><a href="./东方儚月抄_～_Silent_Sinner_in_Blue._附属CD.md" class="mw-redirect" title="东方儚月抄 ～ Silent Sinner in Blue. 附属CD">东方儚月抄 ～ Silent Sinner in Blue. 附属CD</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

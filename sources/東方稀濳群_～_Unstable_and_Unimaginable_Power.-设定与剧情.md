@@ -4,9 +4,11 @@
 
 Team_Magnitude_Manipulators
 
+
 ## 故事背景
 - 故事背景 (未找到链接)
 - Ex 故事背景 (未找到链接)
+
 
 ## 游戏对话
 - 博丽灵梦 游戏对话/结局 (未找到链接)
@@ -16,6 +18,7 @@ Team_Magnitude_Manipulators
   
 本作本篇游戏只能使用灵梦机体，Extra只能使用魔理沙机体。
   
+
 
 ## 附带文档
 - Readme (未找到链接)

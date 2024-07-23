@@ -164,6 +164,7 @@ AvalonStudioOfficial
 [](./文件-THD2魂魄妖梦.png.md)
   
 
+
 ## 目录
 
 - [1 角色定位](#角色定位)
@@ -184,10 +185,12 @@ AvalonStudioOfficial
 
 
 
+
 ## 角色定位
   
 核心 - 逃生 - 爆发
   
+
 
 ## 技能介绍
 
@@ -665,6 +668,7 @@ AvalonStudioOfficial
 </td></tr></tbody></table>
 
 
+
 ## 天赋树
 
 
@@ -703,25 +707,30 @@ AvalonStudioOfficial
 </td></tr></tbody></table>
 
 
+
 ### 出门装备
   
 [](./文件-THD2妖精护符.png.md) [](./文件-THD2四叶草.png.md) [](./文件-THD2思兼生命药.png.md)[](./文件-THD2思兼生命药.png.md) [](./文件-THD2爱人卡.png.md) [](./文件-THD2好人卡.png.md)
   
+
 
 ### 前期装备
 ```
 [](./文件-THD2魔法使扫把.png.md) [](./文件-THD2妖精护符.png.md) [](./文件-THD2初阶魔法书.png.md)
 ```
 
+
 ### 核心装备
 ```
 [](./文件-THD2迅捷扫把.png.md) [](./文件-THD2不明的秒计时.png.md)
 ```
 
+
 ### 可选装备
 ```
 [](./文件-THD2神枪冈格尼尔.png.md) [](./文件-THD2月兔粉碎巨刃.png.md) [](./文件-THD2白楼剑.png.md) [](./文件-THD2亡灵送行提灯.png.md) [](./文件-THD2油库里之杖.png.md) [](./文件-THD2月面之弓弦.png.md) [](./文件-THD2博丽神社护身符.png.md) [](./文件-THD2魔人经卷.png.md) [](./文件-THD2龙星.png.md) [](./文件-THD2恶魔的乳牙.png.md) [](./文件-THD2真澄之镜.png.md) [](./文件-THD2光龙雷云钻.png.md)
 ```
+
 
 ## 技能加点
 
@@ -869,6 +878,7 @@ AvalonStudioOfficial
 </td></tr></tbody></table>
 
 
+
 ## 台词
 
 <table>
@@ -937,6 +947,7 @@ AvalonStudioOfficial
 そうした　臆（おく）したか<br>[怎么了 怕了吗]
 </p>
 </td></tr></tbody></table>
+
 
 
 ## 教学视频

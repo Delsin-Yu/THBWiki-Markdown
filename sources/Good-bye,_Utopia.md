@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Good-bye,_Utopia封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/c/c1/Good-bye%2C_Utopia%E5%B0%81%E9%9D%A2.jpg/142px-Good-bye%2C_Utopia%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="142" height="196" srcset="https://upload.thwiki.cc/thumb/c/c1/Good-bye%2C_Utopia%E5%B0%81%E9%9D%A2.jpg/213px-Good-bye%2C_Utopia%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/c/c1/Good-bye%2C_Utopia%E5%B0%81%E9%9D%A2.jpg/284px-Good-bye%2C_Utopia%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="870" data-file-height="1200"></a><div class="cover-char">角色：<a href="./宇佐见堇子.md" title="宇佐见堇子">宇佐见堇子</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/60584097">https://www.pixiv.net/artworks/60584097</a></td></tr></tbody></table>
 
 Good-bye, Utopia（同人志，スプリンタム，2016） - 2016年10月9日 由 スプリンタム 于 东方红楼梦12 发布的漫画同人志，登场人物有 宇佐见堇子、玛艾露贝莉·赫恩，分级为 一般向
+
 ## Staff
 - 煌ハルアキラ (未找到链接)
+
 
 ## 评论
 

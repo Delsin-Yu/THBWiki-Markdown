@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-SAKUYA_LOVELY封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/4/47/SAKUYA_LOVELY%E5%B0%81%E9%9D%A2.jpg/159px-SAKUYA_LOVELY%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="159" height="224" srcset="https://upload.thwiki.cc/thumb/4/47/SAKUYA_LOVELY%E5%B0%81%E9%9D%A2.jpg/239px-SAKUYA_LOVELY%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/4/47/SAKUYA_LOVELY%E5%B0%81%E9%9D%A2.jpg/319px-SAKUYA_LOVELY%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="570" data-file-height="800"></a><div class="cover-char">角色：<a href="/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C" title="十六夜咲夜">十六夜咲夜</a></div></td>
@@ -14,9 +15,11 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://gyokusai.icca.jp/tamayokudakero_web/item_399.html">http://gyokusai.icca.jp/tamayokudakero_web/item_399.html</a><br><span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><small>（<a rel="nofollow" class="external text" href="https://web.archive.org/web/20110718045417/http://gyokusai.icca.jp/tamayokudakero_web/item_399.html">缓存页面</a>）</small></td></tr></tbody></table>
 
 SAKUYA LOVELY（同人志，玉よ砕けろ，IMINIC，2010） - 2010年12月30日 由 玉よ砕けろ，IMINIC 于 Comic Market 79 发布的小说同人志，A5尺寸一共84页，登场人物有 十六夜咲夜，分级为 一般向
+
 ## Staff
 - 三等兵 (未找到链接)
 - [威未図](./威未図.md)
+
 
 ## 评论
 

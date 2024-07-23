@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E5%86%AC%E8%A8%AASWIM%E8%A3%85%E5%B0%81%E9%9D%A2.jpg" class="new" title="文件:冬訪SWIM装封面.jpg">封面图片</a><div class="cover-char">角色：<a href="./秋静叶.md" title="秋静叶">秋静叶</a>，<a href="./秋穰子.md" title="秋穰子">秋穰子</a></div></td>
@@ -13,9 +14,12 @@
 </tr><tr><td class="label">首发日期</td><td>2010-01-17&#160;（<a href="/展会作品列表?e=ComicTreasure%2315">こみっく★トレジャー15</a>）</td></tr><tr><td class="label">类型</td><td>漫画</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">登场人物</td><td><a href="./秋静叶.md" title="秋静叶">秋静叶</a>，<a href="./秋穰子.md" title="秋穰子">秋穰子</a></td></tr><tr><td class="label">售价</td><td>会场售价：100日元</td></tr></tbody></table>
 
 冬訪SWIM装（同人志，苦笑邸，2010） - 2010年1月17日 由 苦笑邸 于 ComicTreasure 15 发布的漫画同人志，登场人物有 秋静叶、秋穰子，分级为 一般向
+
 ## 预览
+
 ## Staff
 - 狛 (未找到链接)
+
 
 ## 评论
 

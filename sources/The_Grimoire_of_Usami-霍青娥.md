@@ -14,7 +14,7 @@ The_Grimoire_of_Usami | 使用了翻译表的页面 | 宇佐见的魔法书 | �
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./The_Grimoire_of_Usami-宫古芳香.md" title="The Grimoire of Usami/宫古芳香">宫古芳香</a>&#160;
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="/%E5%AE%87%E4%BD%90%E8%A7%81%E7%9A%84%E9%AD%94%E6%B3%95%E4%B9%A6" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a>&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="./宇佐见的魔法书.md" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a>&#160;
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">&#160;<a href="./The_Grimoire_of_Usami-清兰.md" title="The Grimoire of Usami/清兰">清兰</a>
 </td>
@@ -25,7 +25,7 @@ The_Grimoire_of_Usami | 使用了翻译表的页面 | 宇佐见的魔法书 | �
 </center>
 <center>第104页</center>
 
-<table><tbody><tr align="left" valign="top"><td style="min-width:200px;"><div class="tt-zhh tt-type-setting" lang="zh"><div class="poem"><a href="/%E9%81%93%E7%AC%A6%E3%80%8CTAO%E8%83%8E%E5%8A%A8_%EF%BD%9E%E9%81%93%EF%BD%9E%E3%80%8D" class="mw-redirect" title="道符「TAO胎动 ～道～」">道符「TAO胎动　～道～」</a></div></div><div class="tt-zh tt-type-setting" lang="zh"><div class="poem">使用者：<a href="./霍青娥.md" title="霍青娥">霍青娥</a></div></div><div class="tt-zh tt-type-setting" lang="zh"><div class="poem">哎呀真是有多冒犯。<br>我家的芳香似乎给各位添麻烦了……<br>那孩子，一陷入奇怪的欲望，就会不听我话<br>擅自行动呢。<br>不过，这次<br>像是被谁<br>引导着一样……</div></div><div class="tt-header tt-type-setting" lang="zh"><div class="poem">少名针妙丸</div></div><div class="tt-zh tt-type-setting" lang="zh"><div class="poem">哼哼哼，那僵尸是我叫来的。没想到连邪仙也钓来了啊。</div></div><div class="tt-header tt-type-setting" lang="zh"><div class="poem">八云紫</div></div><div class="tt-zh tt-type-setting" lang="zh"><div class="poem">哎呀哎呀，居然连僵尸都叫来，真是细致呢，不愧是小人。</div></div><div class="tt-header tt-type-setting" lang="zh"><div class="poem">宇佐见堇子</div></div><div class="tt-zh tt-type-setting" lang="zh"><div class="poem">哇啊，那仙人一来，僵尸就完全变成了别的东西！相当不祥的弹幕！</div></div></td><td width="200px"><div class="thumb tleft"><div class="thumbinner" style="width:202px;"><a href="./文件-The_Grimoire_of_Usami（霍青娥1）.jpg.md" class="image"><img alt="" src="https://upload.thwiki.cc/thumb/3/3e/The_Grimoire_of_Usami%EF%BC%88%E9%9C%8D%E9%9D%92%E5%A8%A51%EF%BC%89.jpg/200px-The_Grimoire_of_Usami%EF%BC%88%E9%9C%8D%E9%9D%92%E5%A8%A51%EF%BC%89.jpg" decoding="async" loading="lazy" width="200" height="284" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/3/3e/The_Grimoire_of_Usami%EF%BC%88%E9%9C%8D%E9%9D%92%E5%A8%A51%EF%BC%89.jpg/300px-The_Grimoire_of_Usami%EF%BC%88%E9%9C%8D%E9%9D%92%E5%A8%A51%EF%BC%89.jpg 1.5x, https://upload.thwiki.cc/thumb/3/3e/The_Grimoire_of_Usami%EF%BC%88%E9%9C%8D%E9%9D%92%E5%A8%A51%EF%BC%89.jpg/400px-The_Grimoire_of_Usami%EF%BC%88%E9%9C%8D%E9%9D%92%E5%A8%A51%EF%BC%89.jpg 2x" data-file-width="1266" data-file-height="1800"></a>  <div class="thumbcaption"><div class="magnify"><a href="./文件-The_Grimoire_of_Usami（霍青娥1）.jpg.md" class="internal" title="放大"></a></div>P104</div></div></div></td></tr></tbody></table>
+<table><tbody><tr align="left" valign="top"><td style="min-width:200px;"><div class="tt-zhh tt-type-setting" lang="zh"><div class="poem"><a href="./道符「TAO胎动_～道～」.md" class="mw-redirect" title="道符「TAO胎动 ～道～」">道符「TAO胎动　～道～」</a></div></div><div class="tt-zh tt-type-setting" lang="zh"><div class="poem">使用者：<a href="./霍青娥.md" title="霍青娥">霍青娥</a></div></div><div class="tt-zh tt-type-setting" lang="zh"><div class="poem">哎呀真是有多冒犯。<br>我家的芳香似乎给各位添麻烦了……<br>那孩子，一陷入奇怪的欲望，就会不听我话<br>擅自行动呢。<br>不过，这次<br>像是被谁<br>引导着一样……</div></div><div class="tt-header tt-type-setting" lang="zh"><div class="poem">少名针妙丸</div></div><div class="tt-zh tt-type-setting" lang="zh"><div class="poem">哼哼哼，那僵尸是我叫来的。没想到连邪仙也钓来了啊。</div></div><div class="tt-header tt-type-setting" lang="zh"><div class="poem">八云紫</div></div><div class="tt-zh tt-type-setting" lang="zh"><div class="poem">哎呀哎呀，居然连僵尸都叫来，真是细致呢，不愧是小人。</div></div><div class="tt-header tt-type-setting" lang="zh"><div class="poem">宇佐见堇子</div></div><div class="tt-zh tt-type-setting" lang="zh"><div class="poem">哇啊，那仙人一来，僵尸就完全变成了别的东西！相当不祥的弹幕！</div></div></td><td width="200px"><div class="thumb tleft"><div class="thumbinner" style="width:202px;"><a href="./文件-The_Grimoire_of_Usami（霍青娥1）.jpg.md" class="image"><img alt="" src="https://upload.thwiki.cc/thumb/3/3e/The_Grimoire_of_Usami%EF%BC%88%E9%9C%8D%E9%9D%92%E5%A8%A51%EF%BC%89.jpg/200px-The_Grimoire_of_Usami%EF%BC%88%E9%9C%8D%E9%9D%92%E5%A8%A51%EF%BC%89.jpg" decoding="async" loading="lazy" width="200" height="284" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/3/3e/The_Grimoire_of_Usami%EF%BC%88%E9%9C%8D%E9%9D%92%E5%A8%A51%EF%BC%89.jpg/300px-The_Grimoire_of_Usami%EF%BC%88%E9%9C%8D%E9%9D%92%E5%A8%A51%EF%BC%89.jpg 1.5x, https://upload.thwiki.cc/thumb/3/3e/The_Grimoire_of_Usami%EF%BC%88%E9%9C%8D%E9%9D%92%E5%A8%A51%EF%BC%89.jpg/400px-The_Grimoire_of_Usami%EF%BC%88%E9%9C%8D%E9%9D%92%E5%A8%A51%EF%BC%89.jpg 2x" data-file-width="1266" data-file-height="1800"></a>  <div class="thumbcaption"><div class="magnify"><a href="./文件-The_Grimoire_of_Usami（霍青娥1）.jpg.md" class="internal" title="放大"></a></div>P104</div></div></div></td></tr></tbody></table>
 
 
 
@@ -37,7 +37,7 @@ The_Grimoire_of_Usami | 使用了翻译表的页面 | 宇佐见的魔法书 | �
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./The_Grimoire_of_Usami-宫古芳香.md" title="The Grimoire of Usami/宫古芳香">宫古芳香</a>&#160;
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="/%E5%AE%87%E4%BD%90%E8%A7%81%E7%9A%84%E9%AD%94%E6%B3%95%E4%B9%A6" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a>&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="./宇佐见的魔法书.md" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a>&#160;
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">&#160;<a href="./The_Grimoire_of_Usami-清兰.md" title="The Grimoire of Usami/清兰">清兰</a>
 </td>
@@ -46,6 +46,7 @@ The_Grimoire_of_Usami | 使用了翻译表的页面 | 宇佐见的魔法书 | �
 
   
 </center>
+
 
 ## 词条导航
   

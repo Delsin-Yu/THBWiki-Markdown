@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="/%E6%96%87%E4%BB%B6:S.T.A.L.K.E.R.%EF%BD%9E%E5%B0%8F%E3%81%95%E3%81%AA%E5%A4%A7%E5%B0%86%E3%81%8C%E3%83%81%E3%82%A7%E3%83%AB%E3%83%8E%E3%83%96%E3%82%A4%E3%83%AA%E3%81%AB%E6%97%85%E7%AB%8B%E3%81%A4%E3%82%88%E3%81%86%E3%81%A7%E3%81%99%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/5/5c/S.T.A.L.K.E.R.%EF%BD%9E%E5%B0%8F%E3%81%95%E3%81%AA%E5%A4%A7%E5%B0%86%E3%81%8C%E3%83%81%E3%82%A7%E3%83%AB%E3%83%8E%E3%83%96%E3%82%A4%E3%83%AA%E3%81%AB%E6%97%85%E7%AB%8B%E3%81%A4%E3%82%88%E3%81%86%E3%81%A7%E3%81%99%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg/196px-S.T.A.L.K.E.R.%EF%BD%9E%E5%B0%8F%E3%81%95%E3%81%AA%E5%A4%A7%E5%B0%86%E3%81%8C%E3%83%81%E3%82%A7%E3%83%AB%E3%83%8E%E3%83%96%E3%82%A4%E3%83%AA%E3%81%AB%E6%97%85%E7%AB%8B%E3%81%A4%E3%82%88%E3%81%86%E3%81%A7%E3%81%99%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="196" height="195" srcset="https://upload.thwiki.cc/thumb/5/5c/S.T.A.L.K.E.R.%EF%BD%9E%E5%B0%8F%E3%81%95%E3%81%AA%E5%A4%A7%E5%B0%86%E3%81%8C%E3%83%81%E3%82%A7%E3%83%AB%E3%83%8E%E3%83%96%E3%82%A4%E3%83%AA%E3%81%AB%E6%97%85%E7%AB%8B%E3%81%A4%E3%82%88%E3%81%86%E3%81%A7%E3%81%99%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg/294px-S.T.A.L.K.E.R.%EF%BD%9E%E5%B0%8F%E3%81%95%E3%81%AA%E5%A4%A7%E5%B0%86%E3%81%8C%E3%83%81%E3%82%A7%E3%83%AB%E3%83%8E%E3%83%96%E3%82%A4%E3%83%AA%E3%81%AB%E6%97%85%E7%AB%8B%E3%81%A4%E3%82%88%E3%81%86%E3%81%A7%E3%81%99%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/5/5c/S.T.A.L.K.E.R.%EF%BD%9E%E5%B0%8F%E3%81%95%E3%81%AA%E5%A4%A7%E5%B0%86%E3%81%8C%E3%83%81%E3%82%A7%E3%83%AB%E3%83%8E%E3%83%96%E3%82%A4%E3%83%AA%E3%81%AB%E6%97%85%E7%AB%8B%E3%81%A4%E3%82%88%E3%81%86%E3%81%A7%E3%81%99%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg/392px-S.T.A.L.K.E.R.%EF%BD%9E%E5%B0%8F%E3%81%95%E3%81%AA%E5%A4%A7%E5%B0%86%E3%81%8C%E3%83%81%E3%82%A7%E3%83%AB%E3%83%8E%E3%83%96%E3%82%A4%E3%83%AA%E3%81%AB%E6%97%85%E7%AB%8B%E3%81%A4%E3%82%88%E3%81%86%E3%81%A7%E3%81%99%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="512" data-file-height="510"></a><div class="cover-char">角色：<a href="./娜兹玲.md" title="娜兹玲">娜兹玲</a></div></td>
@@ -14,9 +15,11 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/12946801">https://www.pixiv.net/artworks/12946801</a></td></tr></tbody></table>
 
 S.T.A.L.K.E.R.～小さな大将がチェルノブイリに旅立つようです～（同人专辑，Five-seveN，2010） - 2010年9月19日 由 Five-seveN 于 博丽神社例大祭SP1 发布的全长同人专辑，分级为 一般向
+
 ## Staff
 Jacket illustration
 : [Five-seveN](./Five-seveN.md)
+
 
 ## 曲目列表
 
@@ -31,6 +34,7 @@ Jacket illustration
 <tr><td id="9" class="info"><b>09</b></td><td id="SAFEHOUSE_LABRATORY" colspan="2" class="title">SAFEHOUSE LABRATORY<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=S.T.A.L.K.E.R.～小さな大将がチェルノブイリに旅立つようです～"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr>
 <tr><td id="10" class="info"><b>10</b></td><td id="WILD_ROSE" colspan="2" class="title">WILD ROSE<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=S.T.A.L.K.E.R.～小さな大将がチェルノブイリに旅立つようです～"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr>
 <tr><td id="11" class="info"><b>11</b></td><td id="THE_TINE_TINE_CLEVER_COMMANDER_～_&quot;FIREDRAKE&quot;_REMIX" colspan="2" class="title">THE TINE TINE CLEVER COMMANDER ～ &#34;FIREDRAKE&#34; REMIX<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=S.T.A.L.K.E.R.～小さな大将がチェルノブイリに旅立つようです～"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr></tbody></table>
+
 
 
 ## 评论

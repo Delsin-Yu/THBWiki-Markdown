@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -34,11 +35,13 @@
 
 
 
+
 ## 基本信息
 
-<table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">デザイアドリーム</td></tr><tr><td><b>译名</b></td><td>Desire Dream</td></tr><tr><td><b>其他译名</b></td><td>欲之梦<br>欲望之梦</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>再编</td></tr><tr><td style="padding-left:15px"><b>原曲</b></td><td><a href="/%E3%83%87%E3%82%B6%E3%82%A4%E3%82%A2%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96" class="mw-redirect" title="デザイアドライブ">デザイアドライブ</a></td></tr><tr><td style="padding-left:15px"><b>　来源</b></td><td>东方神灵庙　～ Ten Desires.</td></tr></tbody></table>
+<table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">デザイアドリーム</td></tr><tr><td><b>译名</b></td><td>Desire Dream</td></tr><tr><td><b>其他译名</b></td><td>欲之梦<br>欲望之梦</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>再编</td></tr><tr><td style="padding-left:15px"><b>原曲</b></td><td><a href="./デザイアドライブ.md" class="mw-redirect" title="デザイアドライブ">デザイアドライブ</a></td></tr><tr><td style="padding-left:15px"><b>　来源</b></td><td>东方神灵庙　～ Ten Desires.</td></tr></tbody></table>
 
 Desire Dream（曲目） - 由 ZUN 创作的官方曲目，原名 デザイアドリーム
+
 ## 出现作品
 
 <table>
@@ -46,7 +49,9 @@ Desire Dream（曲目） - 由 ZUN 创作的官方曲目，原名 デザイア�
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 东方神灵庙
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th13_17.mp3.md" title="文件:th13 17.mp3">th13_17.mp3</a><br><audio src="https://upload.thwiki.cc/1/12/th13_17.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>BGM\th13_17.wav</td></tr><tr><td><b>BGMForAll</b></td><td><div class="mw-collapsible mw-collapsed">
@@ -57,7 +62,9 @@ Desire Dream（曲目） - 由 ZUN 创作的官方曲目，原名 デザイア�
 </td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 东方神灵庙
 - Music Room (未找到链接)
 
@@ -66,7 +73,9 @@ Desire Dream（曲目） - 由 ZUN 创作的官方曲目，原名 デザイア�
 　这是Desire Drive的另一个版本。  
 　虽然速度感降低了，不过却产生浮游感了吧。  
 　最近，职员表的存在意义已经产生了严重的危机。
+
 ## 其他资料
+
 ### 乐理资讯
 - 使用乐器
   - The Grand 3 :Model D Close
@@ -78,6 +87,7 @@ Desire Dream（曲目） - 由 ZUN 创作的官方曲目，原名 デザイア�
   - Trilian :Loop ID 303
   - Groove Agent 3:Mini Works
   - Groove Agent 3:Trance
+
 
 
 ### 分析考据
@@ -96,6 +106,7 @@ Desire Dream（曲目） - 由 ZUN 创作的官方曲目，原名 デザイア�
 - デザイアドリーム（Desire Dream）
   - 欲望之梦。
     - 梦中会出现欲望的具现。
+
 
 
 

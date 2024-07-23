@@ -4,7 +4,8 @@
 
 BlackEditionFX ，主要制作 同人志 的日本同人社团，主催是 GmoT，当前状态为 休止
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -20,19 +21,23 @@ BlackEditionFX ，主要制作 同人志 的日本同人社团，主催是 GmoT�
 
 
 
+
 ## 社团信息
 [](./文件-BlackEditionFXbanner.jpg.md)  [](./文件-BlackEditionFXbanner.jpg.md)banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> BlackEditionFX </td></tr><tr><td><b>主要作品类型</b></td><td>同人志</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=GmoT&amp;action=edit&amp;redlink=1" class="new" title="GmoT（页面不存在）">GmoT</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://gmot1illust.blog65.fc2.com/">http://gmot1illust.blog65.fc2.com/</a> </td></tr></tbody></table>
 
 BlackEditionFX（同人社团，同人志社团） - BlackEditionFX ，主要制作 同人志 的日本同人社团，主催是 GmoT，当前状态为 休止
+
 ## 成员名单
 - GmoT (未找到链接) (a.k.a.  **ジモティー** )
 
 : 个人blog: [http://gmot1pc.blog60.fc2.com/](http://gmot1pc.blog60.fc2.com/)
 : [Twitter: @_GmoT_](https://twitter.com/_GmoT_), [Pixiv ID: 1117905](https://www.pixiv.net/users/1117905)
 
+
 ## 作品列表
+
 ### 同人志
 [](./FX.md)[FX](./FX.md)首发日期：2013-05-26 （第十回 博麗神社例大祭 (未找到链接)）画集 （一般向）A4&#160;尺寸 24&#160;页以 **Black Edition FX** 名义发布[](./Lunatic_Break.md)[Lunatic Break](./Lunatic_Break.md)首发日期：2013-08-12 （Comic Market 84 (未找到链接)）画集 （一般向）A4&#160;尺寸 20&#160;页以 **Black Edition FX** 名义发布[](./-_Various_-.md)[- Various -](./-_Various_-.md)首发日期：2013-12-30 （Comic Market 85 (未找到链接)）画集 （一般向）A4&#160;尺寸 20&#160;页[](./PHANTASM_WORLD..md)[PHANTASM WORLD.](./PHANTASM_WORLD..md)首发日期：2014-05-11 （第十一回 博麗神社例大祭 (未找到链接)）画集 （一般向）A4&#160;尺寸 20&#160;页[](./-_Dress_-.md)[- Dress -](./-_Dress_-.md)首发日期：2014-12-29 （Comic Market 87 (未找到链接)）画集 （一般向）A4&#160;尺寸 20&#160;页[](./Abyss_Nova..md)[Abyss Nova.](./Abyss_Nova..md)首发日期：2015-05-10 （第十二回 博麗神社例大祭 (未找到链接)）画集 （一般向）A4&#160;尺寸 20&#160;页[](./-_All_of_the_Fantasies_-.md)[- All of the Fantasies -](./-_All_of_the_Fantasies_-.md)首发日期：2016-12-29 （Comic Market 91 (未找到链接)）画集、​总集 （一般向）A4&#160;尺寸 32&#160;页
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -51,6 +56,7 @@ BlackEditionFX（同人社团，同人志社团） - BlackEditionFX ，主要制
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 参展信息

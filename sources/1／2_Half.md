@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-1／2_Half封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/e/ef/1%EF%BC%8F2_Half%E5%B0%81%E9%9D%A2.jpg/139px-1%EF%BC%8F2_Half%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="139" height="196" srcset="https://upload.thwiki.cc/thumb/e/ef/1%EF%BC%8F2_Half%E5%B0%81%E9%9D%A2.jpg/208px-1%EF%BC%8F2_Half%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/e/ef/1%EF%BC%8F2_Half%E5%B0%81%E9%9D%A2.jpg/277px-1%EF%BC%8F2_Half%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1062" data-file-height="1500"></a><div class="cover-char">角色：<a href="./东风谷早苗.md" title="东风谷早苗">东风谷早苗</a></div></td>
@@ -18,8 +19,10 @@
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=821136">蜜瓜</a></td></tr></tbody></table>
 
 
+
 ## Staff
 - [FULE](./FULE.md)
+
 
 ## 评论
 

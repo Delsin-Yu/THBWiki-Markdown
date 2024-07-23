@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-神战诗乐录_-「Glorious」封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/a/ae/%E7%A5%9E%E6%88%98%E8%AF%97%E4%B9%90%E5%BD%95_-%E3%80%8CGlorious%E3%80%8D%E5%B0%81%E9%9D%A2.jpg/280px-%E7%A5%9E%E6%88%98%E8%AF%97%E4%B9%90%E5%BD%95_-%E3%80%8CGlorious%E3%80%8D%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="280" height="280" srcset="https://upload.thwiki.cc/thumb/a/ae/%E7%A5%9E%E6%88%98%E8%AF%97%E4%B9%90%E5%BD%95_-%E3%80%8CGlorious%E3%80%8D%E5%B0%81%E9%9D%A2.jpg/420px-%E7%A5%9E%E6%88%98%E8%AF%97%E4%B9%90%E5%BD%95_-%E3%80%8CGlorious%E3%80%8D%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/a/ae/%E7%A5%9E%E6%88%98%E8%AF%97%E4%B9%90%E5%BD%95_-%E3%80%8CGlorious%E3%80%8D%E5%B0%81%E9%9D%A2.jpg/560px-%E7%A5%9E%E6%88%98%E8%AF%97%E4%B9%90%E5%BD%95_-%E3%80%8CGlorious%E3%80%8D%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="900" data-file-height="900"></a><div class="cover-char">角色：<a href="./砂砾籽.md" title="砂砾籽">砂砾籽</a>，<a href="./无耳.md" title="无耳">无耳</a></div></td>
@@ -13,7 +14,9 @@
 </tr><tr><td class="label">首发日期</td><td>2018-08-18&#160;（<a href="/展会作品列表?e=%E4%B8%8A%E6%B5%B7THONLY%239">第九届上海THONLY 東方蛍灯筏～ほたるびにいかだ</a>）</td></tr><tr><td class="label">类型</td><td>原声集（<a href="./弹幕逸群歌_～_the_Battle_of_Gs..md" title="弹幕逸群歌 ～ the Battle of Gs.">弹幕逸群歌 ～ the Battle of Gs.</a>的原声集）</td></tr><tr><td class="label">编号</td><td>MXB-004</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>3</td></tr><tr><td class="label">音轨数</td><td>13 + 16 + 11 = 40</td></tr><tr><td class="label">总时长</td><td>49:04 + 01:02:42 + 35:25 = 02:27:11</td></tr><tr><td class="label">风格类型</td><td>游戏音乐</td></tr><tr><td class="label">售价</td><td>会场售价：80人民币<br>通贩售价：100人民币</td></tr></tbody></table>
 
 神战诗乐录 -「Glorious」（同人专辑，梦现彼岸结界社，2018） - 2018年8月18日 由 梦现彼岸结界社 于 上海THONLY9 发布的原声集同人专辑，曲目主要风格是 游戏音乐，分级为 一般向
+
 ## Staff
+
 ### Disc 1
   
  **Compose**   
@@ -21,11 +24,13 @@
 <table><tbody><tr><td><a href="/index.php?title=ILLusionMin&amp;action=edit&amp;redlink=1" class="new" title="ILLusionMin（页面不存在）">ILLusionMin</a></td><td></td><td>Tr.1</td></tr><tr><td><a href="./void.md" title="void">void</a></td><td></td><td>Tr.2/3</td></tr><tr><td><a href="./百灵箫.md" title="百灵箫">百灵箫</a></td><td></td><td>Tr.4/5/13</td></tr><tr><td><a href="./猫步.md" title="猫步">猫步</a></td><td></td><td>Tr.5-13</td></tr><tr><td><a href="./11.md" title="11">11</a></td><td></td><td>Tr.10</td></tr></tbody></table>
 
 
+
 ### Disc 2
   
  **Compose**   
 
 <table><tbody><tr><td><a href="./11.md" title="11">11</a></td><td></td><td>Tr.1/2/5/13/14</td></tr><tr><td><a href="./猫步.md" title="猫步">猫步</a></td><td></td><td>Tr.3/4/6/13</td></tr><tr><td><a href="./百灵箫.md" title="百灵箫">百灵箫</a></td><td></td><td>Tr.7-10</td></tr><tr><td><a href="/index.php?title=%E6%9C%9B%E8%BF%9C%E9%95%9C&amp;action=edit&amp;redlink=1" class="new" title="望远镜（页面不存在）">望远镜</a></td><td></td><td>Tr.11</td></tr><tr><td><a href="./void.md" title="void">void</a></td><td></td><td>Tr.12</td></tr><tr><td><a href="/index.php?title=ILLusionMin&amp;action=edit&amp;redlink=1" class="new" title="ILLusionMin（页面不存在）">ILLusionMin</a></td><td></td><td>Tr.15/16</td></tr></tbody></table>
+
 
 
 ### Disc 3
@@ -39,7 +44,8 @@ Story
 : 
 Illustration
 : ID菌 (未找到链接)（[微博](https://weibo.com/u/6030097783)）  
-蠢岚岚岚 (未找到链接) （[微博](https://www.weibo.com/AlanFXY)）
+[蠢岚岚岚](./蠢岚岚岚.md) （[微博](https://www.weibo.com/AlanFXY)）
+
 
 ## 试听
   
@@ -56,11 +62,14 @@ Illustration
 
 
 
+
 ## 附带故事
 - [附带故事](./神战诗乐录_-「Glorious」-附带故事.md)
 - 后记 (未找到链接)
 
+
 ## 曲目列表
+
 ### Disc 1
 
 <table><tbody><tr><td id="1" class="infoYL"><b>01</b></td><td id="似曾相识之春" colspan="2" class="title">似曾相识之春<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=ILLusionMin&amp;fromwiki=神战诗乐录_-「Glorious」"><span title="搜索相似同人曲"></span></a></span></td><td class="time">02:04</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=ILLusionMin&amp;action=edit&amp;redlink=1" class="new" title="ILLusionMin（页面不存在）">ILLusionMin</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，ILLusionMin&amp;fromwiki=神战诗乐录_-「Glorious」"><span></span></a></span></td></tr>
@@ -76,6 +85,7 @@ Illustration
 <tr><td id="11" class="infoYL"><b>11</b></td><td id="黑白的日记" colspan="2" class="title">黑白的日记<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=猫步&amp;fromwiki=神战诗乐录_-「Glorious」"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:57</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./猫步.md" title="猫步">猫步</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，猫步&amp;fromwiki=神战诗乐录_-「Glorious」"><span></span></a></span></td></tr>
 <tr><td id="12" class="infoYL"><b>12</b></td><td id="星空下的树海漫步" colspan="2" class="title">星空下的树海漫步<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=猫步&amp;fromwiki=神战诗乐录_-「Glorious」"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:36</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./猫步.md" title="猫步">猫步</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，猫步&amp;fromwiki=神战诗乐录_-「Glorious」"><span></span></a></span></td></tr>
 <tr><td id="13" class="infoYL"><b>13</b></td><td id="秋之忧郁_～_Unstoppable_Wither." colspan="2" class="title">秋之忧郁　～ Unstoppable Wither.<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=猫步，百灵箫&amp;fromwiki=神战诗乐录_-「Glorious」"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:20</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./猫步.md" title="猫步">猫步</a>，<a href="./百灵箫.md" title="百灵箫">百灵箫</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，猫步，百灵箫&amp;fromwiki=神战诗乐录_-「Glorious」"><span></span></a></span></td></tr></tbody></table>
+
 
 
 ### Disc 2
@@ -98,6 +108,7 @@ Illustration
 <tr><td id="29" class="infoYL"><b>16</b></td><td id="雷命堂演鼓" colspan="2" class="title">雷命堂演鼓<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=ILLusionMin&amp;fromwiki=神战诗乐录_-「Glorious」"><span title="搜索相似同人曲"></span></a></span></td><td class="time">05:21</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=ILLusionMin&amp;action=edit&amp;redlink=1" class="new" title="ILLusionMin（页面不存在）">ILLusionMin</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，ILLusionMin&amp;fromwiki=神战诗乐录_-「Glorious」"><span></span></a></span></td></tr></tbody></table>
 
 
+
 ### Disc 3
 
 <table><tbody><tr><td id="30" class="infoYL"><b>01</b></td><td id="尘染幽廊" colspan="2" class="title">尘染幽廊<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=11&amp;fromwiki=神战诗乐录_-「Glorious」"><span title="搜索相似同人曲"></span></a></span></td><td class="time">02:48</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./11.md" title="11">11</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，11&amp;fromwiki=神战诗乐录_-「Glorious」"><span></span></a></span></td></tr>
@@ -111,6 +122,7 @@ Illustration
 <tr><td id="38" class="infoYL"><b>09</b></td><td id="无色的墨痕" colspan="2" class="title">无色的墨痕<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=猫步&amp;fromwiki=神战诗乐录_-「Glorious」"><span title="搜索相似同人曲"></span></a></span></td><td class="time">01:08</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./猫步.md" title="猫步">猫步</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，猫步&amp;fromwiki=神战诗乐录_-「Glorious」"><span></span></a></span></td></tr>
 <tr><td id="39" class="infoYL"><b>10</b></td><td id="无声的回响" colspan="2" class="title">无声的回响<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=猫步&amp;fromwiki=神战诗乐录_-「Glorious」"><span title="搜索相似同人曲"></span></a></span></td><td class="time">01:01</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./猫步.md" title="猫步">猫步</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，猫步&amp;fromwiki=神战诗乐录_-「Glorious」"><span></span></a></span></td></tr>
 <tr><td id="40" class="infoYL"><b>11</b></td><td id="幻想旅者_～_Déjà_vu" colspan="2" class="title">幻想旅者　～ Déjà vu<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=ILLusionMin&amp;fromwiki=神战诗乐录_-「Glorious」"><span title="搜索相似同人曲"></span></a></span></td><td class="time">01:30</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=ILLusionMin&amp;action=edit&amp;redlink=1" class="new" title="ILLusionMin（页面不存在）">ILLusionMin</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，ILLusionMin&amp;fromwiki=神战诗乐录_-「Glorious」"><span></span></a></span></td></tr></tbody></table>
+
 
 
 ## 评论

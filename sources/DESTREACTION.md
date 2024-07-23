@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 软件信息](#软件信息)
@@ -14,6 +15,7 @@
 - [4 BGM](#BGM)
 - [5 内容页面](#内容页面)
 - [6 评论](#评论)
+
 
 
 
@@ -38,6 +40,7 @@ DESTREACTION（同人游戏，DEADFACTORY，2012） - 2012年12月30日 由 DEAD
 </tbody></table>
 
 
+
 ## PV
   
 <iframe width="100%" height="180" src="https://ext.nicovideo.jp/thumb/sm19672976" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/watch/sm19672976">,</a></iframe>
@@ -55,8 +58,10 @@ DESTREACTION（同人游戏，DEADFACTORY，2012） - 2012年12月30日 由 DEAD
 </td></tr></tbody></table>
 
 
+
 ## Staff
 - シンダ (未找到链接)
+
 
 ## BGM
   
@@ -64,10 +69,12 @@ DESTREACTION（同人游戏，DEADFACTORY，2012） - 2012年12月30日 由 DEAD
 
   
 
+
 ## 内容页面
 - 游戏设定与剧情 (未找到链接)
 - 攻略 (未找到链接)
 - 其他信息 (未找到链接)
+
 
 ## 评论
 

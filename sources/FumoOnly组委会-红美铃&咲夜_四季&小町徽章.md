@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **相关实体周边 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 周边信息](#周边信息)
@@ -21,20 +22,25 @@
 
 
 
+
 ## 周边信息
 
 <table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 红美铃&#38;咲夜 四季&#38;小町徽章 </td></tr><tr><td class="label">制作方</td><td><a href="./FumoOnly组委会.md" title="FumoOnly组委会">FumoOnly组委会</a></td></tr><tr><td class="label">首发日期</td><td>2023-05-02&#160;（<a href="/展会作品列表?e=COMICUP%2329">COMICUP29</a>）</td></tr><tr><td class="label">类型</td><td>徽章</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">角色</td><td><a href="./红美铃.md" title="红美铃">红美铃</a><br><a href="/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C" title="十六夜咲夜">十六夜咲夜</a><br><a href="./四季映姬·夜摩仙那度.md" title="四季映姬·夜摩仙那度">四季映姬·夜摩仙那度</a><br><a href="./小野塚小町.md" title="小野塚小町">小野塚小町</a></td></tr><tr><td class="label">售价</td><td>10人民币</td></tr></tbody></table>
 
 FumoOnly组委会/红美铃&amp;咲夜 四季&amp;小町徽章（周边，FumoOnly组委会，2023） - 2023年5月2日 由 FumoOnly组委会 于 COMICUP29 发布的徽章周边，分级为 一般向
+
 ## 参考图
   
 周边宣传、售卖时使用的作为参考图的预览图或实物图的图片。
   
 
+
 ### 预览图
 - [](./文件-FumoOnly组委会／红美铃&咲夜_四季&小町徽章预览图1.jpg.md)
 
+
 ## Staff
+
 ## 评论
 
 

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-アメスク舞ちゃん_THE_FINAL封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/9/97/%E3%82%A2%E3%83%A1%E3%82%B9%E3%82%AF%E8%88%9E%E3%81%A1%E3%82%83%E3%82%93_THE_FINAL%E5%B0%81%E9%9D%A2.jpg/100px-%E3%82%A2%E3%83%A1%E3%82%B9%E3%82%AF%E8%88%9E%E3%81%A1%E3%82%83%E3%82%93_THE_FINAL%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="100" height="140" srcset="https://upload.thwiki.cc/thumb/9/97/%E3%82%A2%E3%83%A1%E3%82%B9%E3%82%AF%E8%88%9E%E3%81%A1%E3%82%83%E3%82%93_THE_FINAL%E5%B0%81%E9%9D%A2.jpg/150px-%E3%82%A2%E3%83%A1%E3%82%B9%E3%82%AF%E8%88%9E%E3%81%A1%E3%82%83%E3%82%93_THE_FINAL%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/9/97/%E3%82%A2%E3%83%A1%E3%82%B9%E3%82%AF%E8%88%9E%E3%81%A1%E3%82%83%E3%82%93_THE_FINAL%E5%B0%81%E9%9D%A2.jpg/200px-%E3%82%A2%E3%83%A1%E3%82%B9%E3%82%AF%E8%88%9E%E3%81%A1%E3%82%83%E3%82%93_THE_FINAL%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1464" data-file-height="2048"></a><div class="cover-char">角色：<a href="./丁礼田舞.md" title="丁礼田舞">丁礼田舞</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/Ascalon0006/status/1579837508140965888">https://twitter.com/Ascalon0006/status/1579837508140965888</a></td></tr></tbody></table>
 
 アメスク舞ちゃん THE FINAL（同人志，リンドヴルム。，2022） - 2022年10月23日 由 リンドヴルム。 于 博丽神社秋季例大祭9 发布的漫画同人志，分级为 一般向
+
 ## Staff
 - ファバル (未找到链接)
+
 
 ## 评论
 

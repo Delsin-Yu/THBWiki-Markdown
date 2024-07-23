@@ -4,6 +4,7 @@
 
 东方文花帖DS
 
+
 ## 标题
   
 Double Spoiler
@@ -13,6 +14,7 @@ Double Spoiler
   - Spoiler:搅局者
 
 - 标题所指的是游戏的两个自机射命丸文和姬海棠果，同时，"Spoiler"也是文花帖DS的一系列隐藏符卡。
+
 
 ## 背景图片
   
@@ -325,6 +327,7 @@ CD封面上的花
 CD背面的图案  
 
   
+
 
 ## 参考资料
 - 東方備望録：[東方素材集·文花帖DS](http://ohgosho.ehoh.net/sozai/th125.htm)．

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 软件信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-taisei-project封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/1/13/taisei-project%E5%B0%81%E9%9D%A2.jpg/224px-taisei-project%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="168" srcset="https://upload.thwiki.cc/thumb/1/13/taisei-project%E5%B0%81%E9%9D%A2.jpg/336px-taisei-project%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/1/13/taisei-project%E5%B0%81%E9%9D%A2.jpg/448px-taisei-project%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="799" data-file-height="600"></a></td>
@@ -26,11 +27,13 @@ taisei-project（同人游戏，taisei-project orgnization，2010） - 2010年10
 </tbody></table>
 
 
+
 ## 内容页面
 - [游戏设定与剧情](./taisei-project-设定与剧情.md)
 - 攻略 (未找到链接)
 - 使用说明 (未找到链接)
 - 其他信息 (未找到链接)
+
 
 ## 评论
 

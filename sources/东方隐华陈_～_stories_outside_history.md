@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 软件信息](#软件信息)
@@ -20,6 +21,7 @@
 
 
 
+
 ## 软件信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-东方隐华陈_～_stories_outside_history封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/4/47/%E4%B8%9C%E6%96%B9%E9%9A%90%E5%8D%8E%E9%99%88_%EF%BD%9E_stories_outside_history%E5%B0%81%E9%9D%A2.png/224px-%E4%B8%9C%E6%96%B9%E9%9A%90%E5%8D%8E%E9%99%88_%EF%BD%9E_stories_outside_history%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="224" height="213" srcset="https://upload.thwiki.cc/thumb/4/47/%E4%B8%9C%E6%96%B9%E9%9A%90%E5%8D%8E%E9%99%88_%EF%BD%9E_stories_outside_history%E5%B0%81%E9%9D%A2.png/336px-%E4%B8%9C%E6%96%B9%E9%9A%90%E5%8D%8E%E9%99%88_%EF%BD%9E_stories_outside_history%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/4/47/%E4%B8%9C%E6%96%B9%E9%9A%90%E5%8D%8E%E9%99%88_%EF%BD%9E_stories_outside_history%E5%B0%81%E9%9D%A2.png 2x" data-file-width="420" data-file-height="400"></a></td>
@@ -27,6 +29,7 @@
 </tr><tr><td class="label">首发日期</td><td>2023-09-29</td></tr><tr><td class="label">类型</td><td>游戏</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">游戏人数</td><td>单人模式</td></tr><tr><td class="label">游戏类型</td><td>STG</td></tr><tr><td class="label">运行平台</td><td>Windows</td></tr><tr><td class="label">语言</td><td>简体中文</td></tr><tr><td class="label">售价</td><td>免费</td></tr></tbody></table>
 
 东方隐华陈 ～ stories outside history（同人游戏，边境幻想，2023） - 2023年9月29日 由 边境幻想  发布的STG同人游戏，可在 Windows 系统上运行，游戏人数为 单人模式，分级为 一般向
+
 ## 剧情与对话
 - 故事背景 (未找到链接)
 - Ex 故事背景 (未找到链接)
@@ -35,7 +38,9 @@
 具体的游戏剧情请到游戏中亲自体验，或参照以下的词条：
   
 
+
 ## 角色
+
 ### 自机
 
 <table><tbody><tr><td style="min-width:40px;" rowspan=""><div class="center"><div class="floatnone"><a href="./文件-博丽灵梦（东方隐华陈立绘）.png.md" class="image" title="博丽灵梦"><img alt="博丽灵梦" src="https://upload.thwiki.cc/thumb/e/e1/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E4%B8%9C%E6%96%B9%E9%9A%90%E5%8D%8E%E9%99%88%E7%AB%8B%E7%BB%98%EF%BC%89.png/34px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E4%B8%9C%E6%96%B9%E9%9A%90%E5%8D%8E%E9%99%88%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="34" height="40" srcset="https://upload.thwiki.cc/thumb/e/e1/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E4%B8%9C%E6%96%B9%E9%9A%90%E5%8D%8E%E9%99%88%E7%AB%8B%E7%BB%98%EF%BC%89.png/51px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E4%B8%9C%E6%96%B9%E9%9A%90%E5%8D%8E%E9%99%88%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/e/e1/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E4%B8%9C%E6%96%B9%E9%9A%90%E5%8D%8E%E9%99%88%E7%AB%8B%E7%BB%98%EF%BC%89.png/68px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E4%B8%9C%E6%96%B9%E9%9A%90%E5%8D%8E%E9%99%88%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="3010" data-file-height="3541"></a></div></div></td> <td style="width:150px;padding:3px 9px 3px 7px;" rowspan="">未在雨中的红白巫女 </td><td style="width:180px;padding:3px 9px 3px 7px;"><a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></td><td><a href="/index.php?title=%E4%B8%9C%E6%96%B9%E9%9A%90%E5%8D%8E%E9%99%88_%EF%BD%9E_stories_outside_history/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6&amp;action=edit&amp;redlink=1" class="new" title="东方隐华陈 ～ stories outside history/博丽灵梦（页面不存在）">游戏对话/结局</a><br><a href="/index.php?title=%E4%B8%9C%E6%96%B9%E9%9A%90%E5%8D%8E%E9%99%88_%EF%BD%9E_stories_outside_history/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6_ExStory&amp;action=edit&amp;redlink=1" class="new" title="东方隐华陈 ～ stories outside history/博丽灵梦 ExStory（页面不存在）">Extra游戏对话</a></td></tr>

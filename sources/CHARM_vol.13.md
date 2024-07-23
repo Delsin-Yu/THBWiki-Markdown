@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-CHARM_vol.13封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/f/f4/CHARM_vol.13%E5%B0%81%E9%9D%A2.jpg/118px-CHARM_vol.13%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="118" height="168" srcset="https://upload.thwiki.cc/thumb/f/f4/CHARM_vol.13%E5%B0%81%E9%9D%A2.jpg/177px-CHARM_vol.13%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/f/f4/CHARM_vol.13%E5%B0%81%E9%9D%A2.jpg/237px-CHARM_vol.13%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="800" data-file-height="1135"></a><div class="cover-char">角色：<a href="./橙.md" title="橙">橙</a></div></td>
@@ -14,9 +15,12 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/28952568">https://www.pixiv.net/artworks/28952568</a></td></tr></tbody></table>
 
 CHARM vol.13（同人志，フミンバイン，2012） - 2012年8月11日 由 フミンバイン 于 Comic Market 82 发布的漫画同人志，一共16页，登场人物有 八云紫、八云蓝、橙、因幡天为、娜兹玲、爱丽丝·玛格特洛依德，分级为 一般向
+
 ## 预览
+
 ## Staff
 - [bkub](./bkub.md)
+
 
 ## 评论
 

@@ -24,6 +24,7 @@
 
 
 </center>
+
 ## 目录
 
 - [1 游戏信息](#游戏信息)
@@ -42,6 +43,7 @@
 - [7 游戏视频](#游戏视频)
 - [8 游戏新闻专题](#游戏新闻专题)
 - [9 编辑帮助](#编辑帮助)
+
 
 
 
@@ -79,6 +81,7 @@ Steam创意工坊页面：[东方Dots](http://steamcommunity.com/sharedfiles/fil
 （最低配置要求以[DOTA2官网](http://www.dota2.com.cn/download/)显示为准）
   
 
+
 ## 游戏介绍
   
 幻想乡，是人与鬼与妖与神的最后一片净土。   
@@ -94,6 +97,7 @@ Steam创意工坊页面：[东方Dots](http://steamcommunity.com/sharedfiles/fil
 围绕信仰，即使是幻想乡也无法避免战争的发生。   
 
   
+
 
 ## Staff
   
@@ -186,6 +190,7 @@ BUG搜集及社区管理：青葱抄肉粉
 
   
 
+
 ## 游戏开始方式
   
 一、[平台-DOTA2国服注册、安装](./东方DOTS-Touhou_Defence_of_The_Shrines2(THD2)-平台-DOTA2国服注册、安装.md)  
@@ -196,10 +201,13 @@ BUG搜集及社区管理：青葱抄肉粉
 
   
 
+
 ## 角色
 - [](./东方DOTS-Touhou_Defence_of_The_Shrines2(THD2)-伊吹萃香.md)- [](./东方DOTS-Touhou_Defence_of_The_Shrines2(THD2)-星熊勇仪.md)- [](./东方DOTS-Touhou_Defence_of_The_Shrines2(THD2)-村纱水蜜.md)- [](./东方DOTS-Touhou_Defence_of_The_Shrines2(THD2)-比那名居天子.md)- [](./东方DOTS-Touhou_Defence_of_The_Shrines2(THD2)-灵乌路空.md)- [](./东方DOTS-Touhou_Defence_of_The_Shrines2(THD2)-琪露诺.md)- [](./东方DOTS-Touhou_Defence_of_The_Shrines2(THD2)-秋穰子.md)- [](./东方DOTS-Touhou_Defence_of_The_Shrines2(THD2)-藤原妹红.md)- [](./东方DOTS-Touhou_Defence_of_The_Shrines2(THD2)-露米娅.md)- [](./东方DOTS-Touhou_Defence_of_The_Shrines2(THD2)-风见幽香.md)- [](./东方DOTS-Touhou_Defence_of_The_Shrines2(THD2)-十六夜咲夜.md)- [](./东方DOTS-Touhou_Defence_of_The_Shrines2(THD2)-古明地恋.md)- [](./东方DOTS-Touhou_Defence_of_The_Shrines2(THD2)-封兽鵺.md)- [](./东方DOTS-Touhou_Defence_of_The_Shrines2(THD2)-射命丸文.md)- [](./东方DOTS-Touhou_Defence_of_The_Shrines2(THD2)-永江衣玖.md)- [](./东方DOTS-Touhou_Defence_of_The_Shrines2(THD2)-犬走椛.md)- [](./东方DOTS-Touhou_Defence_of_The_Shrines2(THD2)-芙兰朵露·斯卡雷特.md)- [](./东方DOTS-Touhou_Defence_of_The_Shrines2(THD2)-莉格露·奈特巴格.md)- [](./东方DOTS-Touhou_Defence_of_The_Shrines2(THD2)-铃仙·优昙华院·因幡.md)- [](./东方DOTS-Touhou_Defence_of_The_Shrines2(THD2)-魂魄妖梦.md)- [](./东方DOTS-Touhou_Defence_of_The_Shrines2(THD2)-东风谷早苗.md)- [](./东方DOTS-Touhou_Defence_of_The_Shrines2(THD2)-八云紫.md)- [](./东方DOTS-Touhou_Defence_of_The_Shrines2(THD2)-八云蓝.md)- [](./东方DOTS-Touhou_Defence_of_The_Shrines2(THD2)-八坂神奈子.md)- [](./东方DOTS-Touhou_Defence_of_The_Shrines2(THD2)-八意永琳.md)- [](./东方DOTS-Touhou_Defence_of_The_Shrines2(THD2)-冈崎梦美.md)- [](./东方DOTS-Touhou_Defence_of_The_Shrines2(THD2)-博丽灵梦.md)- [](./东方DOTS-Touhou_Defence_of_The_Shrines2(THD2)-四季映姬·亚玛萨那度.md)- [](./东方DOTS-Touhou_Defence_of_The_Shrines2(THD2)-圣白莲.md)- [](./东方DOTS-Touhou_Defence_of_The_Shrines2(THD2)-爱丽丝·玛格特罗依德.md)- [](./东方DOTS-Touhou_Defence_of_The_Shrines2(THD2)-蓬莱山辉夜.md)- [](./东方DOTS-Touhou_Defence_of_The_Shrines2(THD2)-蕾米莉亚·斯卡雷特.md)- [](./东方DOTS-Touhou_Defence_of_The_Shrines2(THD2)-西行寺幽幽子.md)- [](./东方DOTS-Touhou_Defence_of_The_Shrines2(THD2)-雾雨魔理沙.md)
 
+
 ## 游戏资料
+
 ### 物品资料
 - [物品资料](./东方DOTS-Touhou_Defence_of_The_Shrines2(THD2)-物品.md)
 
@@ -210,10 +218,12 @@ BUG搜集及社区管理：青葱抄肉粉
 
   
 
+
 ### 更新日志
   
 [steam社区:东方Dots-改动说明](http://steamcommunity.com/sharedfiles/filedetails/changelog/616333146)
   
+
 
 ### 特色系统
   
@@ -228,6 +238,7 @@ BUG搜集及社区管理：青葱抄肉粉
 
   
 
+
 ## 游戏视频
 
 <table>
@@ -240,11 +251,13 @@ BUG搜集及社区管理：青葱抄肉粉
 </td></tr></tbody></table>
 
 
+
 ## 游戏新闻专题
   
 [游戏风云THD2专题](http://thd2.gamefy.cn/)
 [https://tieba.baidu.com/f?kw=thd2&amp;fr=ala0&amp;loc=rec](https://tieba.baidu.com/f?kw=thd2&amp;fr=ala0&amp;loc=rec)
   
+
 
 ## 编辑帮助
   

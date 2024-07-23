@@ -169,6 +169,7 @@ AvalonStudioOfficial
 [](./文件-THD2爱丽丝·玛格特罗依德.png.md)
   
 
+
 ## 目录
 
 - [1 角色定位](#角色定位)
@@ -189,10 +190,12 @@ AvalonStudioOfficial
 
 
 
+
 ## 角色定位
   
 爆发 - 控制 - 先手 - 推进
   
+
 
 ## 技能介绍
 
@@ -798,25 +801,30 @@ AvalonStudioOfficial
 </td></tr></tbody></table>
 
 
+
 #### 出门装备
 ```
 [](./文件-THD2思兼生命药.png.md)　[](./文件-THD2雾雨魔力瓶.png.md) [](./文件-THD2秘银戒指.png.md) [](./文件-THD2衰人卡.png.md)
 ```
+
 
 #### 前期装备
 ```
 [](./文件-THD2元素秘法石.png.md)　[](./文件-THD2很值钱的礼物.png.md)　[](./文件-THD2魔法使扫把.png.md)
 ```
 
+
 #### 核心装备
 ```
 [](./文件-THD2冰精跳跃装置.png.md)　[](./文件-THD2油库里之杖.png.md)　[](./文件-THD2香霖的礼服.png.md)
 ```
 
+
 #### 可选装备
 ```
 [](./文件-THD2亡灵送行提灯.png.md)　[](./文件-THD2迷你八卦炉.png.md)　[](./文件-THD2魔法使的帽子.png.md)　[](./文件-THD2奇迹之星.png.md)　[](./文件-THD2碎骨笛.png.md) [](./文件-THD2破魔净灵札.png.md) [](./文件-THD2八云间隙发生器.png.md)
 ```
+
 
 ## 天赋树
 
@@ -854,6 +862,7 @@ AvalonStudioOfficial
 </td>
 <td width="240">+60  金钱/分
 </td></tr></tbody></table>
+
 
 
 ## 技能加点
@@ -1002,6 +1011,7 @@ AvalonStudioOfficial
 </td></tr></tbody></table>
 
 
+
 ## 台词
 
 <table>
@@ -1142,6 +1152,7 @@ AvalonStudioOfficial
 </td>
 <td>こうなったら、新しい闘い方（たたかいかた）の研究に余念（よねん）がないね<br>[都没有余力去研究新的战斗方法了]
 </td></tr></tbody></table>
+
 
 
 ## 教学视频

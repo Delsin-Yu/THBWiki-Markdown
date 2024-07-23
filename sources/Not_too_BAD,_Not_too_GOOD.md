@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Not_too_BAD,_Not_too_GOOD封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/4/4a/Not_too_BAD%2C_Not_too_GOOD%E5%B0%81%E9%9D%A2.png/196px-Not_too_BAD%2C_Not_too_GOOD%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="196" height="136" srcset="https://upload.thwiki.cc/thumb/4/4a/Not_too_BAD%2C_Not_too_GOOD%E5%B0%81%E9%9D%A2.png/294px-Not_too_BAD%2C_Not_too_GOOD%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/4/4a/Not_too_BAD%2C_Not_too_GOOD%E5%B0%81%E9%9D%A2.png/392px-Not_too_BAD%2C_Not_too_GOOD%E5%B0%81%E9%9D%A2.png 2x" data-file-width="737" data-file-height="510"></a><div class="cover-char">角色：<a href="./依神女苑.md" title="依神女苑">依神女苑</a>，<a href="./依神紫苑.md" title="依神紫苑">依神紫苑</a></div></td>
@@ -14,9 +15,12 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/72214848">https://www.pixiv.net/artworks/72214848</a></td></tr></tbody></table>
 
 Not too BAD, Not too GOOD（同人志，折葉坂三番地，2018） - 2018年12月30日 由 折葉坂三番地 于 Comic Market 95 发布的小说同人志，文库版尺寸一共46页，分级为 一般向
+
 ## 预览
+
 ## Staff
 - [銅折葉](./銅折葉.md)
+
 
 ## 评论
 

@@ -4,6 +4,7 @@
 
 妄想caution | 社团LOGO
 
+
 ## 摘要
   
 源地址：[direct image link](http://daiaru.com/assets/img/banner.png), [source page](http://daiaru.com/)

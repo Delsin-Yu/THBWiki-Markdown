@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-東方砂紋宮_～_Wonderful_Wander.封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/b/bd/%E6%9D%B1%E6%96%B9%E7%A0%82%E7%B4%8B%E5%AE%AE_%EF%BD%9E_Wonderful_Wander.%E5%B0%81%E9%9D%A2.jpg/112px-%E6%9D%B1%E6%96%B9%E7%A0%82%E7%B4%8B%E5%AE%AE_%EF%BD%9E_Wonderful_Wander.%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="112" height="112" srcset="https://upload.thwiki.cc/thumb/b/bd/%E6%9D%B1%E6%96%B9%E7%A0%82%E7%B4%8B%E5%AE%AE_%EF%BD%9E_Wonderful_Wander.%E5%B0%81%E9%9D%A2.jpg/168px-%E6%9D%B1%E6%96%B9%E7%A0%82%E7%B4%8B%E5%AE%AE_%EF%BD%9E_Wonderful_Wander.%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/b/bd/%E6%9D%B1%E6%96%B9%E7%A0%82%E7%B4%8B%E5%AE%AE_%EF%BD%9E_Wonderful_Wander.%E5%B0%81%E9%9D%A2.jpg/224px-%E6%9D%B1%E6%96%B9%E7%A0%82%E7%B4%8B%E5%AE%AE_%EF%BD%9E_Wonderful_Wander.%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="500" data-file-height="500"></a><div class="cover-char">角色：<a href="./奥黛丽·克雷斯顿.md" title="奥黛丽·克雷斯顿">奥黛丽·克雷斯顿</a></div></td>
@@ -13,13 +14,16 @@
 </tr><tr><td class="label">首发日期</td><td>2010-07-26</td></tr><tr><td class="label">类型</td><td>设定集</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr></tbody></table>
 
 東方砂紋宮 ～ Wonderful Wander.（同人志，鹿子，2010） - 2010年7月26日 由 鹿子  发布的设定集同人志，分级为 一般向
+
 ## Staff
 剧情、人物设定、立绘
 : 鹿子
 
+
 ## 游戏介绍
 - [故事背景](./東方砂紋宮_～_Wonderful_Wander.-故事背景.md)
 - [EX故事背景](./東方砂紋宮_～_Wonderful_Wander.-ExStory.md)
+
 
 ### BOSS
 
@@ -30,6 +34,7 @@
 <tr> <td class="bg-color-info-10" style="min-width:100px"><b>五面道中</b><br><i><a href="/index.php?title=%E8%BF%BD%E6%86%B6%E3%82%B9%E3%83%91%E3%82%A4%E3%83%A9%E3%83%AB&amp;action=edit&amp;redlink=1" class="new" title="追憶スパイラル（页面不存在）">追憶スパイラル</a></i></td> <td rowspan="2"><div class="center"><div class="floatnone"><a href="./文件-珍妮帕·赫拉德.png.md" class="image" title="珍妮帕·赫拉德"><img alt="珍妮帕·赫拉德" src="https://upload.thwiki.cc/thumb/c/c7/%E7%8F%8D%E5%A6%AE%E5%B8%95%C2%B7%E8%B5%AB%E6%8B%89%E5%BE%B7.png/26px-%E7%8F%8D%E5%A6%AE%E5%B8%95%C2%B7%E8%B5%AB%E6%8B%89%E5%BE%B7.png" decoding="async" loading="lazy" width="26" height="40" srcset="https://upload.thwiki.cc/thumb/c/c7/%E7%8F%8D%E5%A6%AE%E5%B8%95%C2%B7%E8%B5%AB%E6%8B%89%E5%BE%B7.png/40px-%E7%8F%8D%E5%A6%AE%E5%B8%95%C2%B7%E8%B5%AB%E6%8B%89%E5%BE%B7.png 1.5x, https://upload.thwiki.cc/thumb/c/c7/%E7%8F%8D%E5%A6%AE%E5%B8%95%C2%B7%E8%B5%AB%E6%8B%89%E5%BE%B7.png/53px-%E7%8F%8D%E5%A6%AE%E5%B8%95%C2%B7%E8%B5%AB%E6%8B%89%E5%BE%B7.png 2x" data-file-width="300" data-file-height="450"></a></div></div></td> <td style="width:150px;padding:3px 9px 3px 7px;" rowspan="2"> 指环之魔人</td><td style="width:180px;padding:3px 9px 3px 7px;" rowspan="2"> <a href="./珍妮帕·赫拉德.md" title="珍妮帕·赫拉德">珍妮帕·赫拉德</a></td></tr><tr><td class="bg-color-info-10" style="min-width:100px"><b>五面BOSS</b><br><i><a href="/index.php?title=%E5%A4%9A%E4%B8%96%E7%95%8C%E4%B8%80%E5%91%A8_%EF%BD%9E_Wishing_Ring&amp;action=edit&amp;redlink=1" class="new" title="多世界一周 ～ Wishing Ring（页面不存在）">多世界一周　～ Wishing Ring</a></i></td></tr>
 <tr><td rowspan="1" class="bg-color-info-10" style="min-width:100px"><b>六面道中</b><br><i><a href="/index.php?title=%E7%A9%BA%E6%83%B3%E5%B0%91%E5%A5%B3%E3%81%AE%E5%B0%8F%E5%AE%87%E5%AE%99&amp;action=edit&amp;redlink=1" class="new" title="空想少女の小宇宙（页面不存在）">空想少女の小宇宙</a></i></td><td style="min-width:35px" rowspan="1"><div class="center"><div class="floatnone"><a href="./文件-珍妮帕·赫拉德.png.md" class="image"><img alt="珍妮帕·赫拉德.png" src="https://upload.thwiki.cc/thumb/c/c7/%E7%8F%8D%E5%A6%AE%E5%B8%95%C2%B7%E8%B5%AB%E6%8B%89%E5%BE%B7.png/26px-%E7%8F%8D%E5%A6%AE%E5%B8%95%C2%B7%E8%B5%AB%E6%8B%89%E5%BE%B7.png" decoding="async" loading="lazy" width="26" height="40" srcset="https://upload.thwiki.cc/thumb/c/c7/%E7%8F%8D%E5%A6%AE%E5%B8%95%C2%B7%E8%B5%AB%E6%8B%89%E5%BE%B7.png/40px-%E7%8F%8D%E5%A6%AE%E5%B8%95%C2%B7%E8%B5%AB%E6%8B%89%E5%BE%B7.png 1.5x, https://upload.thwiki.cc/thumb/c/c7/%E7%8F%8D%E5%A6%AE%E5%B8%95%C2%B7%E8%B5%AB%E6%8B%89%E5%BE%B7.png/53px-%E7%8F%8D%E5%A6%AE%E5%B8%95%C2%B7%E8%B5%AB%E6%8B%89%E5%BE%B7.png 2x" data-file-width="300" data-file-height="450"></a></div></div></td>  <td style="width:150px;padding:3px 9px 3px 7px;" rowspan="1"> 指环之魔人</td><td style="width:180px;padding:3px 9px 3px 7px;" rowspan="1"> <a href="./珍妮帕·赫拉德.md" title="珍妮帕·赫拉德">珍妮帕·赫拉德</a> </td></tr><tr><td rowspan="1" class="bg-color-info-10" style="min-width:100px"><b>六面BOSS</b><br><i><a href="/index.php?title=%E5%A4%A9%E8%B7%AF%E9%9D%A9%E5%91%BD_%EF%BD%9E_Paradigm_Revolution&amp;action=edit&amp;redlink=1" class="new" title="天路革命 ～ Paradigm Revolution（页面不存在）">天路革命　～ Paradigm Revolution</a></i></td><td style="min-width:35px" rowspan="1"><div class="center"><div class="floatnone"><a href="./文件-奥黛丽·克雷斯顿.png.md" class="image"><img alt="奥黛丽·克雷斯顿.png" src="https://upload.thwiki.cc/thumb/b/b7/%E5%A5%A5%E9%BB%9B%E4%B8%BD%C2%B7%E5%85%8B%E9%9B%B7%E6%96%AF%E9%A1%BF.png/31px-%E5%A5%A5%E9%BB%9B%E4%B8%BD%C2%B7%E5%85%8B%E9%9B%B7%E6%96%AF%E9%A1%BF.png" decoding="async" loading="lazy" width="31" height="40" srcset="https://upload.thwiki.cc/thumb/b/b7/%E5%A5%A5%E9%BB%9B%E4%B8%BD%C2%B7%E5%85%8B%E9%9B%B7%E6%96%AF%E9%A1%BF.png/47px-%E5%A5%A5%E9%BB%9B%E4%B8%BD%C2%B7%E5%85%8B%E9%9B%B7%E6%96%AF%E9%A1%BF.png 1.5x, https://upload.thwiki.cc/thumb/b/b7/%E5%A5%A5%E9%BB%9B%E4%B8%BD%C2%B7%E5%85%8B%E9%9B%B7%E6%96%AF%E9%A1%BF.png/62px-%E5%A5%A5%E9%BB%9B%E4%B8%BD%C2%B7%E5%85%8B%E9%9B%B7%E6%96%AF%E9%A1%BF.png 2x" data-file-width="350" data-file-height="450"></a></div></div></td>  <td style="width:150px;padding:3px 9px 3px 7px;" rowspan="1"> 好运的探险者</td><td style="width:180px;padding:3px 9px 3px 7px;" rowspan="1"> <a href="./奥黛丽·克雷斯顿.md" title="奥黛丽·克雷斯顿">奥黛丽·克雷斯顿</a> </td></tr>
 <tr><td rowspan="1" class="bg-color-info-10" style="min-width:100px"><b>EX面道中</b><br><i><a href="/index.php?title=%E5%A4%9C%E4%B8%AD%E9%81%8A%E8%A1%8C%E7%89%A9%E8%AA%9E&amp;action=edit&amp;redlink=1" class="new" title="夜中遊行物語（页面不存在）">夜中遊行物語</a></i></td><td style="min-width:35px" rowspan="1"><div class="center"><div class="floatnone"><a href="./文件-砂楼真纱子.png.md" class="image"><img alt="砂楼真纱子.png" src="https://upload.thwiki.cc/thumb/8/8a/%E7%A0%82%E6%A5%BC%E7%9C%9F%E7%BA%B1%E5%AD%90.png/24px-%E7%A0%82%E6%A5%BC%E7%9C%9F%E7%BA%B1%E5%AD%90.png" decoding="async" loading="lazy" width="24" height="40" srcset="https://upload.thwiki.cc/thumb/8/8a/%E7%A0%82%E6%A5%BC%E7%9C%9F%E7%BA%B1%E5%AD%90.png/36px-%E7%A0%82%E6%A5%BC%E7%9C%9F%E7%BA%B1%E5%AD%90.png 1.5x, https://upload.thwiki.cc/thumb/8/8a/%E7%A0%82%E6%A5%BC%E7%9C%9F%E7%BA%B1%E5%AD%90.png/48px-%E7%A0%82%E6%A5%BC%E7%9C%9F%E7%BA%B1%E5%AD%90.png 2x" data-file-width="270" data-file-height="450"></a></div></div></td>  <td style="width:150px;padding:3px 9px 3px 7px;" rowspan="1"> 沙尘的魔术师</td><td style="width:180px;padding:3px 9px 3px 7px;" rowspan="1"> <a href="./砂楼真纱子.md" title="砂楼真纱子">砂楼真纱子</a> </td></tr><tr><td rowspan="1" class="bg-color-info-10" style="min-width:100px"><b>EX面BOSS</b><br><i><a href="/index.php?title=%E3%83%9F%E3%83%83%E3%83%89%E3%83%8A%E3%82%A4%E3%83%88%E3%83%95%E3%82%A3%E3%83%BC%E3%82%B9%E3%83%88&amp;action=edit&amp;redlink=1" class="new" title="ミッドナイトフィースト（页面不存在）">ミッドナイトフィースト</a></i></td><td style="min-width:35px" rowspan="1"><div class="center"><div class="floatnone"><a href="./文件-獏枕寝寝.jpg.md" class="image"><img alt="獏枕寝寝.jpg" src="https://upload.thwiki.cc/thumb/8/8c/%E7%8D%8F%E6%9E%95%E5%AF%9D%E5%AF%9D.jpg/27px-%E7%8D%8F%E6%9E%95%E5%AF%9D%E5%AF%9D.jpg" decoding="async" loading="lazy" width="27" height="40" srcset="https://upload.thwiki.cc/thumb/8/8c/%E7%8D%8F%E6%9E%95%E5%AF%9D%E5%AF%9D.jpg/41px-%E7%8D%8F%E6%9E%95%E5%AF%9D%E5%AF%9D.jpg 1.5x, https://upload.thwiki.cc/thumb/8/8c/%E7%8D%8F%E6%9E%95%E5%AF%9D%E5%AF%9D.jpg/55px-%E7%8D%8F%E6%9E%95%E5%AF%9D%E5%AF%9D.jpg 2x" data-file-width="300" data-file-height="434"></a></div></div></td>  <td style="width:150px;padding:3px 9px 3px 7px;" rowspan="1"> 一千零十夜的放浪少女</td><td style="width:180px;padding:3px 9px 3px 7px;" rowspan="1"> <a href="./貘枕寝寝.md" title="貘枕寝寝">貘枕寝寝</a> </td></tr></tbody></table>
+
 
 
 ## 其他资料
@@ -44,13 +49,16 @@
 </td></tr></tbody></table>
 
 
+
 ## 评论
+
 ## 外部链接
   
 [東方砂紋宮（完成版）](https://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=12132457)
   
 [東方砂紋宮　あらすじ・設定・元ネタ集](https://www.pixiv.net/novel/show.php?id=48843)
   
+
 
 ## 词条导航
   

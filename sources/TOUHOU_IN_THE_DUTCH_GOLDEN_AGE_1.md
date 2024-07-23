@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-TOUHOU_IN_THE_DUTCH_GOLDEN_AGE_1封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/3/35/TOUHOU_IN_THE_DUTCH_GOLDEN_AGE_1%E5%B0%81%E9%9D%A2.jpg/136px-TOUHOU_IN_THE_DUTCH_GOLDEN_AGE_1%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="136" height="168" srcset="https://upload.thwiki.cc/thumb/3/35/TOUHOU_IN_THE_DUTCH_GOLDEN_AGE_1%E5%B0%81%E9%9D%A2.jpg/203px-TOUHOU_IN_THE_DUTCH_GOLDEN_AGE_1%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/3/35/TOUHOU_IN_THE_DUTCH_GOLDEN_AGE_1%E5%B0%81%E9%9D%A2.jpg/271px-TOUHOU_IN_THE_DUTCH_GOLDEN_AGE_1%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="800" data-file-height="991"></a><div class="cover-char">角色：<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a>，<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></div></td>
@@ -17,8 +18,10 @@ TOUHOU IN THE DUTCH GOLDEN AGE 1（同人志，乌有社，2018） - 2018年8月
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://ec.toranoana.jp/tora_r/ec/item/040030651494">虎穴</a></td></tr></tbody></table>
 
 
+
 ## Staff
 : [Amibazh](./Amibazh.md)
+
 
 ## 评论
 

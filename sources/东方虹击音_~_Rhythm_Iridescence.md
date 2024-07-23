@@ -4,7 +4,8 @@
 
 东方虹击音 ~ Rhythm Iridescence ，于 2021 年成立，主要制作 其他 的中国大陆同人社团，主催是 用户:冰雪金瞳，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -22,24 +23,30 @@
 
 
 
+
 ## 社团信息
 [](./文件-东方虹击音TH_RI.png.md)  [](./文件-东方虹击音TH_RI.png.md)东方虹击音
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> 东方虹击音 ~ Rhythm Iridescence </td></tr><tr><td><b>主要作品类型</b></td><td>其他</td></tr><tr><td><b>成立时间</b></td><td>2021</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="/%E7%94%A8%E6%88%B7:%E5%86%B0%E9%9B%AA%E9%87%91%E7%9E%B3" title="用户:冰雪金瞳"><img class="useravatar" src="https://avatar.thwiki.cc/thwikicc_wiki_19812_m.jpg?r=1690736790">用户:冰雪金瞳</a><a class="achievtitle" title="4展会及活动编辑达成" src="https://static.thwiki.cc/template/event.png">〈鸦天狗新闻工作者〉</a> </td></tr><tr><td><b>地区</b></td><td>中国大陆</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="https://space.bilibili.com/2021071246">https://space.bilibili.com/2021071246</a> </td></tr></tbody></table>
 
 东方虹击音 ~ Rhythm Iridescence（同人社团，其他社团） - 东方虹击音 ~ Rhythm Iridescence ，于 2021 年成立，主要制作 其他 的中国大陆同人社团，主催是 用户:冰雪金瞳，当前状态为 活动
+
 ## 成员名单
+
 #### 主催
   
 神咲幸子 (未找到链接)
   
+
 
 #### 成员
   
 桂圆 (未找到链接)
   
 
+
 ## 作品列表
+
 ## 社团简介
   
 东方虹击音 ~ Rhythm Iridescence：770794993
@@ -48,6 +55,7 @@
 社团群提供东方众音游壬的交流场所（东方、音游、其他游戏相关），每年有至少两个群活，每年有至少一次比赛（一般在双长假）
 未来会在北方（秦岭淮河分界线）（更侧重于东北地区以及内蒙古地区）TouhouOnly、聚会、茶会等线下展会的摊位放置音游手台提供给东方众们免费游玩（搞坏了是要赔偿的啦x） 或 举行线下东方主题音游比赛
   
+
 
 ## 参展信息
 

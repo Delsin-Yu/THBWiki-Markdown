@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **相关公司会社** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -13,6 +14,7 @@
 - [3 公司历史](#公司历史)
 - [4 与东方Project的关联](#与东方Project的关联)
 - [5 注释](#注释)
+
 
 
 
@@ -35,6 +37,7 @@
 <td style="width:140px"><b>正式名称</b></td><td style="min-width:300px">株式会社Phoenixx</td></tr><tr><td><b>英文名称</b></td><td>Phoenixx Inc.</td></tr><tr><td><b>公司现状</b></td><td>持续营业中</td></tr><tr><td><b>公司种类</b></td><td>股份有限公司（株式会社）</td></tr><tr><td><b>股市信息</b></td><td>非上市</td></tr><tr><td><b>成立日期</b></td><td>2019年10月</td></tr><tr><td><b>公司代表</b></td><td>坂本和则</td></tr><tr><td><b>本社地址</b></td><td>东京都千代田区二番町9-3　THE BASE 麹町</td></tr><tr><td><b>本社邮编</b></td><td>〒102−0084</td></tr><tr><td><b>网络贩售</b></td><td><a rel="nofollow" class="external free" href="https://store.steampowered.com/publisher/phoenixx/">https://store.steampowered.com/publisher/phoenixx/</a></td></tr><tr><td><b>官网地址</b></td><td><a rel="nofollow" class="external free" href="https://phoenixx.ne.jp/">https://phoenixx.ne.jp/</a> <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到日文网页">（日文）</span></td></tr></tbody></table>
 
 Phoenixx（公司会社） - 株式会社Phoenixx，股份有限公司（株式会社）
+
 ## 公司简介
   
 作为游戏发行商，在Nintendo Switch，Sony PlayStation，PC（Valve Steam和Epic Games）等平台代理发行和运营了一些独立游戏。  
@@ -43,11 +46,13 @@ Phoenixx的形成观念是“以创造者为中心”，旨在帮助日本独立
 
   
 
+
 ## 公司历史
 [](./文件-UNTIES_LOGO.png.md)  [](./文件-UNTIES_LOGO.png.md)UNTIES LOGO
 - 株式会社Phoenixx的前身是<big> **UNTIES（アンティーズ）** </big>，是索尼音乐娱乐公司（Sony Music Entertainment Inc.，简称SME）旗下的一个子品牌，于2017年10月成立，致力于在各游戏主机（不仅限于索尼Play Station）与PC等多平台上发行和推广各种独立游戏。UNTIES的负责人，坂本和则，原本是SME的音乐唱片部门的一名员工。同人游戏社团[AQUA STYLE](./AQUA_STYLE.md)的主催[JYUNYA](./JYUNYA.md)，同时也是在索尼该部门工作的另一名员工，当时这么评价UNTIES：“虽然是在SME这个大公司里，却感觉像是按自由意志活动的抵抗组织一样，超开心的。”[^cite_note-1]
 - 而随着行业的发展，为了兼顾到索尼内部的其他游戏领域相关业务，UNTIES不得不被重新考虑。2019年10月，坂本和则创立了新公司Phoenixx，接过了UNTIES原有的所有业务并转移了全部员工。在UNTIES时代提出的“多平台发布”与“面向全球”的观念也得到了继承。
 - UNTIES则于2020年正式宣布停止活动。
+
 
 ## 与东方Project的关联
 - UNTIES/Phoenixx Inc.是在Steam上为数不多的 **受[上海爱丽丝幻乐团](./上海爱丽丝幻乐团.md)官方认可的游戏发行商。[&#91;关于东方二次创作游戏的下载发布&#93;](./关于东方二次创作游戏的下载发布.md)** 

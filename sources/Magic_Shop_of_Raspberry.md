@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -35,11 +36,13 @@
 
 
 
+
 ## 基本信息
 
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">Magic Shop of Raspberry</td></tr><tr><td><b>译名</b></td><td>Magic Shop of Raspberry</td></tr><tr><td><b>其他译名</b></td><td>树莓魔法商店<br>树莓魔法店</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 Magic Shop of Raspberry（曲目） - 由 ZUN 创作的官方曲目，原名 Magic Shop of Raspberry
+
 ## 出现作品
 
 <table>
@@ -48,7 +51,9 @@ Magic Shop of Raspberry（曲目） - 由 ZUN 创作的官方曲目，原名 Mag
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 东方怪绮谈
   
 YM2203(OPN)，FM26K音源版。
@@ -66,12 +71,15 @@ YM2608(OPNA)，FM86音源版。
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th05_G_27_86.ogg.md" title="文件:th05 G 27 86.ogg">th05_G_27_86.ogg</a><br><audio src="https://upload.thwiki.cc/c/ca/th05_G_27_86.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>G_NG04.M2</td></tr><tr><td><b>音轨时长</b></td><td>3:21.066</td></tr></tbody></table>
 
 
+
 ### 幺乐团的历史 vol.1
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-ha01b_12.mp3.md" title="文件:ha01b 12.mp3">ha01b_12.mp3</a><br><audio src="https://upload.thwiki.cc/6/6f/ha01b_12.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track12.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>4:15</td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 东方怪绮谈
 - Music Room (未找到链接)
 
@@ -83,8 +91,11 @@ YM2608(OPNA)，FM86音源版。
 ＺＵＮ（太田）  
 EX面的曲子  
 乱七八糟
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
   
  **Magic Shop of Raspberry** 
@@ -103,6 +114,7 @@ EX面的曲子
 
 
 <table><tbody><tr class="tt-content" id="曲名解说-3" data-pos="&#91;&quot;\u66f2\u540d\u89e3\u8bf4&quot;,3&#93;"><td class="tt-ja" lang="ja"><div class="poem">【 フォルスストロベリー 】１面テーマ<br><br>False Strawberry ：偽苺<br>設定より、植物はほぼ全て偽物、と言うことと、草原ステージから。<br>ベリー系の植物は大好きです、響きが（笑）</div></td><td class="tt-zh" lang="zh"><div class="poem">【 False Strawberry 】1面主题曲<br><br>False Strawberry ：伪莓<br>根据设定，植物几乎都是假的，还有，因为这一关的舞台是草原。<br>我很喜欢浆果类<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">1</a></sup>的植物，也很好听（笑）<br></div></td></tr></tbody></table>
+
 
 
 ### 二次同人数据

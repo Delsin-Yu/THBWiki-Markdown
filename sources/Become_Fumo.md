@@ -6,12 +6,14 @@
 
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 软件信息](#软件信息)
 - [2 Staff](#Staff)
 - [3 内容页面](#内容页面)
 - [4 评论](#评论)
+
 
 
 
@@ -36,6 +38,7 @@ Become Fumo（同人软件，Okuechi，2021） - 2021年1月14日 由 Okuechi  �
 </tbody></table>
 
 
+
 ## Staff
 Production
 : Okuechi (未找到链接)(曾用名:scary08) ([Twitter: @scary08rblx](https://twitter.com/scary08rblx))
@@ -44,9 +47,11 @@ Special Thanks (Fumo Modeling)
 Special Thanks (Maps and Posters for Miko Borger)
 : blackboxbug
 
+
 ## 内容页面
 - [人物翻译](./Become_Fumo-人物.md)
 - [指令隐藏房间](./Become_Fumo-攻略.md)
+
 
 ## 评论
 

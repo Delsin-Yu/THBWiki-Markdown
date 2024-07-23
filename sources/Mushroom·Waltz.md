@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -28,11 +29,13 @@
 
 
 
+
 ## 基本信息
 
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">マッシュルーム・ワルツ</td></tr><tr><td><b>译名</b></td><td>Mushroom·Waltz</td></tr><tr><td><b>英文译名</b></td><td>Mushroom Waltz</td></tr><tr><td><b>其他译名</b></td><td>蘑菇华尔兹</td></tr><tr><td><b>作曲</b></td><td><a href="./あきやまうに.md" title="あきやまうに">あきやまうに</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 Mushroom·Waltz（曲目） - 由 あきやまうに 创作的官方曲目，原名 マッシュルーム・ワルツ
+
 ## 出现作品
 
 <table>
@@ -43,14 +46,19 @@ Mushroom·Waltz（曲目） - 由 あきやまうに 创作的官方曲目，原
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 完全凭依唱片名录
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-TFM-009a_04.mp3.md" title="文件:TFM-009a 04.mp3">TFM-009a_04.mp3</a><br><audio src="https://upload.thwiki.cc/7/71/TFM-009a_04.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track04.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>3:29</td></tr></tbody></table>
 
 
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
   
  **マッシュルーム・ワルツ**  Mushroom·Waltz
@@ -78,6 +86,7 @@ Mushroom·Waltz（曲目） - 由 あきやまうに 创作的官方曲目，原
     - 有冬虫夏草的印象？
 
   - 在体验版中，不灭的赤魂可能被随机选为该场景的战斗曲。
+
 
 
 ### 二次同人数据

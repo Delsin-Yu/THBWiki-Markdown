@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人视频 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-主角组的trust_me(七夕快乐！）封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/3/35/%E4%B8%BB%E8%A7%92%E7%BB%84%E7%9A%84trust_me%28%E4%B8%83%E5%A4%95%E5%BF%AB%E4%B9%90%EF%BC%81%EF%BC%89%E5%B0%81%E9%9D%A2.png/168px-%E4%B8%BB%E8%A7%92%E7%BB%84%E7%9A%84trust_me%28%E4%B8%83%E5%A4%95%E5%BF%AB%E4%B9%90%EF%BC%81%EF%BC%89%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="168" height="105" srcset="https://upload.thwiki.cc/thumb/3/35/%E4%B8%BB%E8%A7%92%E7%BB%84%E7%9A%84trust_me%28%E4%B8%83%E5%A4%95%E5%BF%AB%E4%B9%90%EF%BC%81%EF%BC%89%E5%B0%81%E9%9D%A2.png/252px-%E4%B8%BB%E8%A7%92%E7%BB%84%E7%9A%84trust_me%28%E4%B8%83%E5%A4%95%E5%BF%AB%E4%B9%90%EF%BC%81%EF%BC%89%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/3/35/%E4%B8%BB%E8%A7%92%E7%BB%84%E7%9A%84trust_me%28%E4%B8%83%E5%A4%95%E5%BF%AB%E4%B9%90%EF%BC%81%EF%BC%89%E5%B0%81%E9%9D%A2.png/336px-%E4%B8%BB%E8%A7%92%E7%BB%84%E7%9A%84trust_me%28%E4%B8%83%E5%A4%95%E5%BF%AB%E4%B9%90%EF%BC%81%EF%BC%89%E5%B0%81%E9%9D%A2.png 2x" data-file-width="1024" data-file-height="642"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>，<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a></div></td>
@@ -14,11 +15,13 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.bilibili.com/video/BV1Jy4y1V7En">https://www.bilibili.com/video/BV1Jy4y1V7En</a></td></tr><tr><td class="label">备注</td><td colspan="2">于主角组茶会“七夕节活动”中发布</td></tr></tbody></table>
 
 主角组的trust me(七夕快乐！）（同人视频，恋色绮想花火会，2021） - 2021年8月14日 由 恋色绮想花火会  发布的手书同人视频，总长 0小时1分钟，分级为 一般向
+
 ## Staff
 视频制作
 : 钒桥、Ryuu
 画师
 : 山奈、阿鹫、朋友塔、辣酱、黙星、蓝凝、苟七、罢、轨躅、苟七、小源、里奈、石灰
+
 
 ## 评论
 

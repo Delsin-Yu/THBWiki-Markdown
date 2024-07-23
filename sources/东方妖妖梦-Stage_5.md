@@ -23,6 +23,7 @@
 </center>
 - 本词条内容为官方游戏TH07 **东方妖妖梦** 的敌机符卡
 
+
 ## 目录
 
 - [1 魂魄妖梦](#魂魄妖梦)
@@ -119,6 +120,7 @@
 
 
 # 魂魄妖梦
+
 ## No.69、70
 
 <table>
@@ -135,6 +137,7 @@
 <p><a href="./妖童饿鬼之断食.md" title="妖童饿鬼之断食" unred="">幽鬼剑「妖童饿鬼之断食」</a>
 </p>
 </th></tr></tbody></table>
+
 
 
 ### 符卡信息
@@ -162,6 +165,7 @@
 
 
 
+
 ## No.71
 
 <table>
@@ -178,6 +182,7 @@
 <p><a href="./妖童饿鬼之断食.md" title="妖童饿鬼之断食" unred="">饿鬼剑「饿鬼道草纸」</a>
 </p>
 </th></tr></tbody></table>
+
 
 
 ### 符卡信息
@@ -205,6 +210,7 @@
 
 
 
+
 ## No.72
 
 <table>
@@ -221,6 +227,7 @@
 <p><a href="./妖童饿鬼之断食.md" title="妖童饿鬼之断食" unred="">饿王剑「饿鬼十王的报应」</a>
 </p>
 </th></tr></tbody></table>
+
 
 
 ### 符卡信息
@@ -248,6 +255,7 @@
 
 
 
+
 ## No.73、74
 
 <table>
@@ -266,6 +274,7 @@
 </th></tr></tbody></table>
 
 
+
 ### 符卡信息
 
 <table>
@@ -277,6 +286,7 @@
 <p>5面BOSS魂魄妖梦Easy / Normal难度符卡。
 </p>
 </td></tr></tbody></table>
+
 
 
 
@@ -298,6 +308,7 @@
 </th></tr></tbody></table>
 
 
+
 ### 符卡信息
 
 <table>
@@ -309,6 +320,7 @@
 <p>5面BOSS魂魄妖梦Hard难度符卡。
 </p>
 </td></tr></tbody></table>
+
 
 
 
@@ -330,6 +342,7 @@
 </th></tr></tbody></table>
 
 
+
 ### 符卡信息
 
 <table>
@@ -341,6 +354,7 @@
 <p>5面BOSS魂魄妖梦Lunatic难度符卡。
 </p>
 </td></tr></tbody></table>
+
 
 
 
@@ -362,6 +376,7 @@
 </th></tr></tbody></table>
 
 
+
 ### 符卡信息
 
 <table>
@@ -373,6 +388,7 @@
 <p>5面BOSS魂魄妖梦Easy / Normal难度符卡。
 </p>
 </td></tr></tbody></table>
+
 
 
 
@@ -394,6 +410,7 @@
 </th></tr></tbody></table>
 
 
+
 ### 符卡信息
 
 <table>
@@ -405,6 +422,7 @@
 <p>5面BOSS魂魄妖梦Hard / Lunatic难度符卡。
 </p>
 </td></tr></tbody></table>
+
 
 
 
@@ -426,6 +444,7 @@
 </th></tr></tbody></table>
 
 
+
 ### 符卡信息
 
 <table>
@@ -437,6 +456,7 @@
 <p>5面BOSS魂魄妖梦Easy / Normal难度符卡。
 </p>
 </td></tr></tbody></table>
+
 
 
 
@@ -458,6 +478,7 @@
 </th></tr></tbody></table>
 
 
+
 ### 符卡信息
 
 <table>
@@ -469,6 +490,7 @@
 <p>5面BOSS魂魄妖梦Hard难度符卡。
 </p>
 </td></tr></tbody></table>
+
 
 
 
@@ -490,6 +512,7 @@
 </th></tr></tbody></table>
 
 
+
 ### 符卡信息
 
 <table>
@@ -501,6 +524,7 @@
 <p>5面BOSS魂魄妖梦Lunatic难度符卡。
 </p>
 </td></tr></tbody></table>
+
 
 
 
@@ -520,6 +544,7 @@
 <p><a href="./天人之五衰.md" title="天人之五衰" unred="">天上剑「天人之五衰」</a>
 </p>
 </th></tr></tbody></table>
+
 
 
 ### 符卡信息
@@ -547,6 +572,7 @@
 
 
 
+
 ## No.87
 
 <table>
@@ -563,6 +589,7 @@
 <p><a href="./天人之五衰.md" title="天人之五衰" unred="">天界剑「七魄忌讳」</a>
 </p>
 </th></tr></tbody></table>
+
 
 
 ### 符卡信息
@@ -590,6 +617,7 @@
 
 
 
+
 ## No.88
 
 <table>
@@ -606,6 +634,7 @@
 <p><a href="./天人之五衰.md" title="天人之五衰" unred="">天神剑「三魂七魄」</a>
 </p>
 </th></tr></tbody></table>
+
 
 
 ### 符卡信息

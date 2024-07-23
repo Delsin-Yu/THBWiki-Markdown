@@ -6,11 +6,13 @@
 
 本页是关于东方Project  
  **相关实体周边 (未找到链接)** 的词条
+
 ## 模型信息
 
 <table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 比那名居天子 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>志上限定</td></tr><tr><td class="label">角色</td><td><a href="./比那名居天子.md" title="比那名居天子">比那名居天子</a></td></tr><tr><td class="label">原型师</td><td><a href="/index.php?title=%E3%81%B2%E3%82%8D%E3%81%97_(%E6%A1%9C%E5%89%8D%E7%B7%9A)&amp;action=edit&amp;redlink=1" class="new" title="ひろし (桜前線)（页面不存在）">ひろし (桜前線)</a></td></tr><tr><td class="label">比例</td><td>1/8</td></tr><tr><td class="label">尺寸</td><td>240 mm</td></tr><tr><td class="label">状态</td><td>已发售</td></tr><tr><td class="label">售价</td><td>6648日元</td></tr><tr><td class="label">首发日期</td><td>2012-08-31</td></tr><tr><td class="label">发售方</td><td><a href="/index.php?title=%E5%AF%BF%E5%B1%8BKOTOBUKIYA&amp;action=edit&amp;redlink=1" class="new" title="寿屋KOTOBUKIYA（页面不存在）">寿屋KOTOBUKIYA</a><br><a href="/index.php?title=Hobby_Japan&amp;action=edit&amp;redlink=1" class="new" title="Hobby Japan（页面不存在）">Hobby Japan</a></td></tr><tr><td class="label">官网页面</td><td><a rel="nofollow" class="external free" href="http://www.amakuni.info/index.php">http://www.amakuni.info/index.php</a></td></tr><tr><td class="label">备注</td><td>云雾效果是用附赠的棉花做出来的<br style="clear:both;">Hobby Japan 2012年3/4月 邮件预约限定</td></tr></tbody></table>
 
 AMAKUNI/志上限定/比那名居天子（周边，寿屋KOTOBUKIYA，Hobby Japan） - 比那名居天子PVCFigure手办模型
+
 ## 参考图片
 
 

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-依神姉妹vsブラックバス封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/c/cc/%E4%BE%9D%E7%A5%9E%E5%A7%89%E5%A6%B9vs%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%83%90%E3%82%B9%E5%B0%81%E9%9D%A2.jpg/80px-%E4%BE%9D%E7%A5%9E%E5%A7%89%E5%A6%B9vs%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%83%90%E3%82%B9%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="80" height="112" srcset="https://upload.thwiki.cc/thumb/c/cc/%E4%BE%9D%E7%A5%9E%E5%A7%89%E5%A6%B9vs%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%83%90%E3%82%B9%E5%B0%81%E9%9D%A2.jpg/120px-%E4%BE%9D%E7%A5%9E%E5%A7%89%E5%A6%B9vs%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%83%90%E3%82%B9%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/c/cc/%E4%BE%9D%E7%A5%9E%E5%A7%89%E5%A6%B9vs%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%83%90%E3%82%B9%E5%B0%81%E9%9D%A2.jpg/160px-%E4%BE%9D%E7%A5%9E%E5%A7%89%E5%A6%B9vs%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%83%90%E3%82%B9%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="858" data-file-height="1200"></a><div class="cover-char">角色：<a href="./依神女苑.md" title="依神女苑">依神女苑</a>，<a href="./依神紫苑.md" title="依神紫苑">依神紫苑</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/en/artworks/70104616">https://www.pixiv.net/en/artworks/70104616</a></td></tr></tbody></table>
 
 依神姉妹vsブラックバス（同人志，ほたるかまぼこ，2018） - 2018年8月10日 由 ほたるかまぼこ 于 Comic Market 94 发布的漫画同人志，分级为 一般向
+
 ## Staff
 : くろの (未找到链接)
+
 
 ## 评论
 

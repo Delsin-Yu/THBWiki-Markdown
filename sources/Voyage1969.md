@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -42,11 +43,13 @@
 
 
 
+
 ## 基本信息
 
-<table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">ヴォヤージュ1969</td></tr><tr><td><b>译名</b></td><td>Voyage1969</td></tr><tr><td><b>英文译名</b></td><td>Voyage 1969</td></tr><tr><td><b>其他译名</b></td><td>旅人1969</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>关联</td></tr><tr><td style="padding-left:15px"><b>相关曲</b></td><td><a href="/%E3%83%B4%E3%82%A9%E3%83%A4%E3%83%BC%E3%82%B8%E3%83%A51970" class="mw-redirect" title="ヴォヤージュ1970">ヴォヤージュ1970</a></td></tr><tr><td style="padding-left:15px"><b>　来源</b></td><td>东方永夜抄　～ Imperishable Night.</td></tr></tbody></table>
+<table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">ヴォヤージュ1969</td></tr><tr><td><b>译名</b></td><td>Voyage1969</td></tr><tr><td><b>英文译名</b></td><td>Voyage 1969</td></tr><tr><td><b>其他译名</b></td><td>旅人1969</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>关联</td></tr><tr><td style="padding-left:15px"><b>相关曲</b></td><td><a href="./ヴォヤージュ1970.md" class="mw-redirect" title="ヴォヤージュ1970">ヴォヤージュ1970</a></td></tr><tr><td style="padding-left:15px"><b>　来源</b></td><td>东方永夜抄　～ Imperishable Night.</td></tr></tbody></table>
 
 Voyage1969（曲目） - 由 ZUN 创作的官方曲目，原名 ヴォヤージュ1969
+
 ## 出现作品
 
 <table>
@@ -55,8 +58,11 @@ Voyage1969（曲目） - 由 ZUN 创作的官方曲目，原名 ヴォヤージ�
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 东方永夜抄
+
 #### WAV
   
 WAV版是游戏的原声带。
@@ -71,6 +77,7 @@ WAV版是游戏的原声带。
 </td></tr></tbody></table>
 
 
+
 #### MIDI
   
 MIDI版由Roland Sound Canvas 88Pro实机录音得到。
@@ -80,12 +87,15 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td><a href="./文件-th08_13.mid.md" title="文件:th08 13.mid">th08_13.mid</a></td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th08_13_SC88Pro.mp3.md" title="文件:th08 13 SC88Pro.mp3">th08_13_SC88Pro.mp3</a><br><audio src="https://upload.thwiki.cc/9/91/th08_13_SC88Pro.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>th08_13.mid</td></tr><tr><td><b>音轨时长</b></td><td>1:17</td></tr></tbody></table>
 
 
+
 ### 梦违科学世纪
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-hr03_04.mp3.md" title="文件:hr03 04.mp3">hr03_04.mp3</a><br><audio src="https://upload.thwiki.cc/e/ef/hr03_04.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track04.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>3:59</td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 东方永夜抄
 - Music Room (未找到链接)
 
@@ -100,8 +110,11 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
 　13.Voyage1969  
 　　旅人。  
 　　灵梦她们，不小心就来了大气层外，并不是因为想去那里旅行才去的。
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
   
  **ヴォヤージュ1969**  Voyage1969
@@ -109,7 +122,7 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
 
 - ヴォヤージュ（voyage）
   - 旅途，旅程。
-    - 永夜抄 (未找到链接)中自机们的旅途。她们被虚假之月所引导穿越大气层。
+    - [永夜抄](./永夜抄.md)中自机们的旅途。她们被虚假之月所引导穿越大气层。
     - [梦违科学世纪](./梦违科学世纪.md)中梅莉的旅途。
     - 阿波罗11号的宇航员的旅途。
 
@@ -122,7 +135,7 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
 
 - 1969
   - 美国的阿波罗11号于1969年发射。该任务中，人类第一次登上月球。
-  - 关于阿波罗11号可参见八意永琳的符卡天咒「Apollo 13」 (未找到链接)的[分析考据](./Apollo_13-分析与考据.md)。
+  - 关于阿波罗11号可参见八意永琳的符卡[天咒「Apollo 13」](./天咒「Apollo_13」.md)的[分析考据](./Apollo_13-分析与考据.md)。
 
 - 梦违科学世纪中该曲的副标题：1969, from Cape Canaveral
   - Cape Canaveral
@@ -130,6 +143,7 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
       - 位于美国佛罗里达州布里瓦德郡大西洋沿岸的一条狭长的陆地。
       - 附近有肯尼迪航天中心和卡纳维拉尔角空军基地，美国的航天飞机都是从这两个地方发射，所以卡纳维拉尔角成了它们的代名词。
       - 阿波罗11号就是从肯尼迪航空中心发射的。
+
 
 
 

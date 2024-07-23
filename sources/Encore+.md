@@ -5,6 +5,7 @@
 Encore+ ，主要制作 同人动画 的日本同人社团，主催是 夜好ころろ，当前状态为 活动
 
 本页是关于 **同人社团 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -15,16 +16,20 @@ Encore+ ，主要制作 同人动画 的日本同人社团，主催是 夜好こ
 
 
 
+
 ## 社团信息
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Encore+ </td></tr><tr><td><b>主要作品类型</b></td><td>同人动画</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=%E5%A4%9C%E5%A5%BD%E3%81%93%E3%82%8D%E3%82%8D&amp;action=edit&amp;redlink=1" class="new" title="夜好ころろ（页面不存在）">夜好ころろ</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="https://www.youtube.com/channel/UCdNq6QyWhsDAf3q10NNsi6A">https://www.youtube.com/channel/UCdNq6QyWhsDAf3q10NNsi6A</a> <br><a rel="nofollow" class="external free" href="https://twitter.com/Kororo_Midnight">https://twitter.com/Kororo_Midnight</a></td></tr></tbody></table>
 
 Encore+（同人社团，同人动画社团） - Encore+ ，主要制作 同人动画 的日本同人社团，主催是 夜好ころろ，当前状态为 活动
+
 ## 成员名单
 - 夜好ころろ (未找到链接)
 - イス (未找到链接)
 
+
 ## 作品列表
+
 ## 其他信息
 
 

@@ -21,12 +21,14 @@
 
   
 </center>
+
 ## 目录
 
 - [1 概述](#概述)
 - [2 目录](#目录)
 - [3 其他](#其他)
 - [4 注释](#注释)
+
 
 
 
@@ -54,12 +56,12 @@
 
 
   
-<big> **东方外来韦编 Strange Creators of Outer World. 2019 Spring!**   
-</big>
+<big> **东方外来韦编 Strange Creators of Outer World. 2019 Spring!** </big>
 東方外來韋編 Strange Creators of Outer World. 2019 Spring!<small>（とうほうがいらいいへん よん， *Touhou Gairaiihen* ）</small>  
 
 本杂志是[东方外来韦编](./东方外来韦编.md)系列杂志的第七号，发售于2019年03月04日。
   
+
 
 ## 目录
 - 封面
@@ -119,6 +121,7 @@
 - 第136页：出版信息
 - 特别附录 东方Project [登场角色一别符卡一览](./东方外来韦编-2019_Spring!-附录.md)
 - 封底
+
 
 ## 其他
 - 其他相关信息 (未找到链接)

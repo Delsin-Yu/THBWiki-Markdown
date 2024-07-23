@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-THE_LONG_AFTERNOON_OF_GENSOKYO封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/5/5f/THE_LONG_AFTERNOON_OF_GENSOKYO%E5%B0%81%E9%9D%A2.jpg/219px-THE_LONG_AFTERNOON_OF_GENSOKYO%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="219" height="224" srcset="https://upload.thwiki.cc/thumb/5/5f/THE_LONG_AFTERNOON_OF_GENSOKYO%E5%B0%81%E9%9D%A2.jpg/328px-THE_LONG_AFTERNOON_OF_GENSOKYO%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/5/5f/THE_LONG_AFTERNOON_OF_GENSOKYO%E5%B0%81%E9%9D%A2.jpg/438px-THE_LONG_AFTERNOON_OF_GENSOKYO%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="586" data-file-height="600"></a><div class="cover-char">角色：<a href="./帕秋莉·诺蕾姬.md" title="帕秋莉·诺蕾姬">帕秋莉·诺蕾姬</a></div></td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.starlesstrilogy.com/discography">https://www.starlesstrilogy.com/discography</a></td></tr></tbody></table>
 
 THE LONG AFTERNOON OF GENSOKYO（同人专辑，StarlessTrilogy，2022） - 2022年5月8日 由 StarlessTrilogy 于 博丽神社例大祭19 发布的单曲同人专辑，分级为 一般向
+
 ## Staff
   
  **Arrangement**   
@@ -24,12 +26,15 @@ THE LONG AFTERNOON OF GENSOKYO（同人专辑，StarlessTrilogy，2022） - 2022
 Illustration
 : namida （[Pixiv ID: 4140806](https://www.pixiv.net/users/4140806) / [Twitter: @n_md_33](https://twitter.com/n_md_33)）
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="THE_LONG_AFTERNOON_OF_GENSOKYO" colspan="2" class="title">THE LONG AFTERNOON OF GENSOKYO<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=yoppyyyy&amp;ogmusic=ヴワル魔法図書館&amp;fromwiki=THE_LONG_AFTERNOON_OF_GENSOKYO"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:20</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=yoppyyyy&amp;action=edit&amp;redlink=1" class="new" title="yoppyyyy（页面不存在）">yoppyyyy</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，yoppyyyy&amp;fromwiki=THE_LONG_AFTERNOON_OF_GENSOKYO"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=ヴワル魔法図書館&amp;fromwiki=THE_LONG_AFTERNOON_OF_GENSOKYO"><span></span></a></span><div class="ogmusic"><a href="/%E3%83%B4%E3%83%AF%E3%83%AB%E9%AD%94%E6%B3%95%E5%9B%B3%E6%9B%B8%E9%A4%A8" class="mw-redirect" title="ヴワル魔法図書館">ヴワル魔法図書館</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E7%BA%A2%E9%AD%94%E4%B9%A1_%EF%BD%9E_the_Embodiment_of_Scarlet_Devil." class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="THE_LONG_AFTERNOON_OF_GENSOKYO" colspan="2" class="title">THE LONG AFTERNOON OF GENSOKYO<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=yoppyyyy&amp;ogmusic=ヴワル魔法図書館&amp;fromwiki=THE_LONG_AFTERNOON_OF_GENSOKYO"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:20</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=yoppyyyy&amp;action=edit&amp;redlink=1" class="new" title="yoppyyyy（页面不存在）">yoppyyyy</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，yoppyyyy&amp;fromwiki=THE_LONG_AFTERNOON_OF_GENSOKYO"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=ヴワル魔法図書館&amp;fromwiki=THE_LONG_AFTERNOON_OF_GENSOKYO"><span></span></a></span><div class="ogmusic"><a href="./ヴワル魔法図書館.md" class="mw-redirect" title="ヴワル魔法図書館">ヴワル魔法図書館</a></div><div class="source"><a href="./东方红魔乡_～_the_Embodiment_of_Scarlet_Devil..md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr></tbody></table>
+
 
 
 ## 评论
+
 ## 其他链接
   
 封面：[Pixiv](https://www.pixiv.net/artworks/98183146)

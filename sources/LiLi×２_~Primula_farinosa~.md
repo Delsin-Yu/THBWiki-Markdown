@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-LiLi×２_~Primula_farinosa~封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/c/c9/LiLi%C3%97%EF%BC%92_~Primula_farinosa~%E5%B0%81%E9%9D%A2.png/139px-LiLi%C3%97%EF%BC%92_~Primula_farinosa~%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="139" height="196" srcset="https://upload.thwiki.cc/thumb/c/c9/LiLi%C3%97%EF%BC%92_~Primula_farinosa~%E5%B0%81%E9%9D%A2.png/208px-LiLi%C3%97%EF%BC%92_~Primula_farinosa~%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/c/c9/LiLi%C3%97%EF%BC%92_~Primula_farinosa~%E5%B0%81%E9%9D%A2.png/277px-LiLi%C3%97%EF%BC%92_~Primula_farinosa~%E5%B0%81%E9%9D%A2.png 2x" data-file-width="1062" data-file-height="1500"></a><div class="cover-char">角色：<a href="./莉莉霍瓦特.md" title="莉莉霍瓦特">莉莉霍瓦特</a>，<a href="/%E8%8E%89%E8%8E%89%E9%9C%8D%E7%93%A6%E7%89%B9#莉莉霍瓦特（黑）" title="莉莉霍瓦特">莉莉黑</a></div></td>
@@ -18,8 +19,10 @@ LiLi×２ ~Primula farinosa~（同人志，夢見里，2015） - 2015年5月10�
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://ec.toranoana.jp/tora_r/ec/item/040030311116">虎穴</a></td></tr></tbody></table>
 
 
+
 ## Staff
 - [ばくP](./ばくP.md)
+
 
 ## 评论
   

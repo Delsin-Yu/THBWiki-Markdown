@@ -4,7 +4,8 @@
 
 2SP+C'K ，主要制作 同人音乐 的日本同人社团，当前状态为 休止
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -21,17 +22,21 @@
 
 
 
+
 ## 社团信息
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> 2SP+C&#39;K </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>解散时间</b></td><td>2009</td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://www.daqua.ac/">http://www.daqua.ac/</a> <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><br><a rel="nofollow" class="external free" href="http://ckrock.blog53.fc2.com/">http://ckrock.blog53.fc2.com/</a> <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><br><a rel="nofollow" class="external free" href="http://kataichi.blog91.fc2.com/">http://kataichi.blog91.fc2.com/</a></td></tr></tbody></table>
 
 2SP＋C'K（同人社团，同人音乐社团） - 2SP+C'K ，主要制作 同人音乐 的日本同人社团，当前状态为 休止
+
 ## 成员名单
 - DAQUA (未找到链接)
 - ぬぼ～ん (未找到链接)
 - KATACHI (未找到链接)
 
+
 ## 作品列表
+
 ### 同人专辑
 STAR FRUIT 封面图片 (未找到链接)[STAR FRUIT](./STAR_FRUIT.md)首发日期：2006-08-13 （Comic Market 70 (未找到链接)）全长 （一般向）Fall into Heaven 封面图片 (未找到链接)[Fall into Heaven](./Fall_into_Heaven.md)首发日期：2007-12-31 （Comic Market 73 (未找到链接)）EP （一般向）青天サイダー 封面图片 (未找到链接)[青天サイダー](./青天サイダー.md)首发日期：2008-10-13 （M3-2008秋 (未找到链接)）全长 （一般向）[](./当方似非々々夢_-not_possible_to_read-.md)[当方似非々々夢 -not possible to read-](./当方似非々々夢_-not_possible_to_read-.md)首发日期：2009-10-11 （M3-2009秋 (未找到链接)）全长 （一般向）
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -44,9 +49,11 @@ STAR FRUIT 封面图片 (未找到链接)[STAR FRUIT](./STAR_FRUIT.md)首发日�
 </table>
 
 
+
 ### 同人志
 
 <table><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458"></table>
+
 
 
 ## 其他信息

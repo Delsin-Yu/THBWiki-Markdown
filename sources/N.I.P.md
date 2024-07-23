@@ -4,7 +4,8 @@
 
 N.I.P ，主要制作 同人志，周边 的日本同人社团，主催是 しぐれM，GRM，当前状态为 休止
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -21,12 +22,14 @@ N.I.P ，主要制作 同人志，周边 的日本同人社团，主催是 し�
 
 
 
+
 ## 社团信息
 文件:N.I.Pbanner.jpg (未找到链接)  banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> N.I.P </td></tr><tr><td><b>主要作品类型</b></td><td>同人志，周边</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=%E3%81%97%E3%81%90%E3%82%8CM&amp;action=edit&amp;redlink=1" class="new" title="しぐれM（页面不存在）">しぐれM</a> <br> <a href="/index.php?title=GRM&amp;action=edit&amp;redlink=1" class="new" title="GRM（页面不存在）">GRM</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://www.geocities.jp/nip_sigurem/">http://www.geocities.jp/nip_sigurem/</a> <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><small>（<a rel="nofollow" class="external text" href="https://web.archive.org/web/20190330070239/http://www.geocities.jp/nip_sigurem/">缓存页面</a>）</small></td></tr></tbody></table>
 
 N.I.P（同人社团，同人志社团，周边社团） - N.I.P ，主要制作 同人志，周边 的日本同人社团，主催是 しぐれM，GRM，当前状态为 休止
+
 ## 成员名单
 - しぐれM (未找到链接)
 
@@ -34,7 +37,9 @@ N.I.P（同人社团，同人志社团，周边社团） - N.I.P ，主要制作
 
 - GRM (未找到链接)
 
+
 ## 作品列表
+
 ### 同人志
 こいみみ夜想 封面图片 (未找到链接)こいみみ夜想 (未找到链接)首发日期：未知 - Spark to Spark&#160;! 封面图片 (未找到链接)Spark to Spark&#160;! (未找到链接)首发日期：未知 - ブレイジングフェスティバー！ 封面图片 (未找到链接)ブレイジングフェスティバー！ (未找到链接)首发日期：未知 - 東方幻想郷ジョーク 封面图片 (未找到链接)東方幻想郷ジョーク (未找到链接)首发日期：未知 - と～ほ～らいふ 封面图片 (未找到链接)と～ほ～らいふ (未找到链接)首发日期：未知 - カイカツハナゲシキ（仮 封面图片 (未找到链接)カイカツハナゲシキ（仮 (未找到链接)首发日期：未知 - カイカツハナゲシキ 封面图片 (未找到链接)カイカツハナゲシキ (未找到链接)首发日期：未知 - Circadian Wonder! 封面图片 (未找到链接)Circadian Wonder! (未找到链接)首发日期：未知 - 追憶花景色（仮）～ハナゲシキシリーズその2～ 封面图片 (未找到链接)追憶花景色（仮）～ハナゲシキシリーズその2～ (未找到链接)首发日期：未知 - 追憶花景色～花景色シリーズ其ノ弐～ 封面图片 (未找到链接)追憶花景色～花景色シリーズ其ノ弐～ (未找到链接)首发日期：未知 - きみのしらないはなげしき（仮） 封面图片 (未找到链接)きみのしらないはなげしき（仮） (未找到链接)首发日期：未知 - きみのしらないはなげしき～花景色シリーズ其ノ参～ 封面图片 (未找到链接)きみのしらないはなげしき～花景色シリーズ其ノ参～ (未找到链接)首发日期：未知 - たわいもない話 封面图片 (未找到链接)たわいもない話 (未找到链接)首发日期：未知 - ジュンシンハナゲシキ～花景色シリーズ其ノ肆～ 封面图片 (未找到链接)ジュンシンハナゲシキ～花景色シリーズ其ノ肆～ (未找到链接)首发日期：未知 - そして、いつかの、この場所の。 封面图片 (未找到链接)そして、いつかの、この場所の。 (未找到链接)首发日期：未知 - カラクリシチセキ 封面图片 (未找到链接)カラクリシチセキ (未找到链接)首发日期：未知 - 酔夢花景色～花景色シリーズ其ノ伍～ 封面图片 (未找到链接)酔夢花景色～花景色シリーズ其ノ伍～ (未找到链接)首发日期：未知 - そ～れ～っ信仰！ 封面图片 (未找到链接)そ～れ～っ信仰！ (未找到链接)首发日期：未知 - きみとみつめるはなげしき～花景色シリーズ其ノ陸～ 封面图片 (未找到链接)きみとみつめるはなげしき～花景色シリーズ其ノ陸～ (未找到链接)首发日期：未知 - めるでぃ 封面图片 (未找到链接)めるでぃ (未找到链接)首发日期：未知 - アコガレハナゲシキ（仮） 封面图片 (未找到链接)アコガレハナゲシキ（仮） (未找到链接)首发日期：未知 - ドウケイハナゲシキ～花景色シリーズ其ノ漆～ 封面图片 (未找到链接)ドウケイハナゲシキ～花景色シリーズ其ノ漆～ (未找到链接)首发日期：未知 - めるでぃ 封面图片 (未找到链接)めるでぃ (未找到链接)首发日期：未知 - めりぐる 封面图片 (未找到链接)めりぐる (未找到链接)首发日期：未知 - ビア充のススメ 封面图片 (未找到链接)ビア充のススメ (未找到链接)首发日期：未知 - さんせっとぷれいす 封面图片 (未找到链接)さんせっとぷれいす (未找到链接)首发日期：未知 - 
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -65,10 +70,12 @@ N.I.P（同人社团，同人志社团，周边社团） - N.I.P ，主要制作
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458"></table>
 
 
+
 ### 周边
 N.I.P/徳利＆ぐい呑みセット (未找到链接)首发日期：未知 - N.I.P/八角形の枡 (未找到链接)首发日期：未知 - 
 <table><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458"></table>
+
 
 
 ## 参展信息

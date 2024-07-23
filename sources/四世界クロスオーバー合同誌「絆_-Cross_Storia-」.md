@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-四世界クロスオーバー合同誌「絆_-Cross_Storia-」封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/1/1a/%E5%9B%9B%E4%B8%96%E7%95%8C%E3%82%AF%E3%83%AD%E3%82%B9%E3%82%AA%E3%83%BC%E3%83%90%E3%83%BC%E5%90%88%E5%90%8C%E8%AA%8C%E3%80%8C%E7%B5%86_-Cross_Storia-%E3%80%8D%E5%B0%81%E9%9D%A2.jpg/138px-%E5%9B%9B%E4%B8%96%E7%95%8C%E3%82%AF%E3%83%AD%E3%82%B9%E3%82%AA%E3%83%BC%E3%83%90%E3%83%BC%E5%90%88%E5%90%8C%E8%AA%8C%E3%80%8C%E7%B5%86_-Cross_Storia-%E3%80%8D%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="138" height="196" srcset="https://upload.thwiki.cc/thumb/1/1a/%E5%9B%9B%E4%B8%96%E7%95%8C%E3%82%AF%E3%83%AD%E3%82%B9%E3%82%AA%E3%83%BC%E3%83%90%E3%83%BC%E5%90%88%E5%90%8C%E8%AA%8C%E3%80%8C%E7%B5%86_-Cross_Storia-%E3%80%8D%E5%B0%81%E9%9D%A2.jpg/207px-%E5%9B%9B%E4%B8%96%E7%95%8C%E3%82%AF%E3%83%AD%E3%82%B9%E3%82%AA%E3%83%BC%E3%83%90%E3%83%BC%E5%90%88%E5%90%8C%E8%AA%8C%E3%80%8C%E7%B5%86_-Cross_Storia-%E3%80%8D%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/1/1a/%E5%9B%9B%E4%B8%96%E7%95%8C%E3%82%AF%E3%83%AD%E3%82%B9%E3%82%AA%E3%83%BC%E3%83%90%E3%83%BC%E5%90%88%E5%90%8C%E8%AA%8C%E3%80%8C%E7%B5%86_-Cross_Storia-%E3%80%8D%E5%B0%81%E9%9D%A2.jpg/276px-%E5%9B%9B%E4%B8%96%E7%95%8C%E3%82%AF%E3%83%AD%E3%82%B9%E3%82%AA%E3%83%BC%E3%83%90%E3%83%BC%E5%90%88%E5%90%8C%E8%AA%8C%E3%80%8C%E7%B5%86_-Cross_Storia-%E3%80%8D%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="563" data-file-height="800"></a><div class="cover-char">角色：<a href="/index.php?title=%E9%9C%B2%E8%8E%89%E4%BA%9A&amp;action=edit&amp;redlink=1" class="new" title="露莉亚（页面不存在）">露莉亚</a>，<a href="/index.php?title=%E5%8E%9F%E5%88%9B%E8%A7%92%E8%89%B2&amp;action=edit&amp;redlink=1" class="new" title="原创角色（页面不存在）">原创角色</a>，<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>，<a href="/index.php?title=%E7%8E%9B%E4%BF%AE%C2%B7%E5%9F%BA%E5%88%97%E8%8E%B1%E7%89%B9&amp;action=edit&amp;redlink=1" class="new" title="玛修·基列莱特（页面不存在）">玛修·基列莱特</a></div></td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://unlockerfield.com/c93/">https://unlockerfield.com/c93/</a></td></tr><tr><td class="label">备注</td><td colspan="2">東方Project / 艦隊これくしょん / Fate/GrandOrder / グランブルーファンタジー クロスオーバー合同誌</td></tr></tbody></table>
 
 四世界クロスオーバー合同誌「絆 -Cross Storia-」（同人志，unlockerfield，2017） - 2017年12月29日 由 unlockerfield 于 Comic Market 93 发布的合同志/漫画/小说同人志，A5尺寸一共158页，分级为 一般向
+
 ## Staff
 封面
 : よぬ （[よぬりめ](./よぬりめ.md)）
@@ -38,6 +40,7 @@
 - fu kka （[西明石俗物園](./西明石俗物園.md)）
 - もなつ （[贖罪](https://www.pixiv.net/users/1035509)）
 - 竜 （[つきのゆき](./つきのゆき.md)）
+
 
 ## 评论
 

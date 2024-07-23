@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-東方久交承_～_Rainbow_Ashes,_Smoke_and_……封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/d/d6/%E6%9D%B1%E6%96%B9%E4%B9%85%E4%BA%A4%E6%89%BF_%EF%BD%9E_Rainbow_Ashes%2C_Smoke_and_%E2%80%A6%E2%80%A6%E5%B0%81%E9%9D%A2.png/252px-%E6%9D%B1%E6%96%B9%E4%B9%85%E4%BA%A4%E6%89%BF_%EF%BD%9E_Rainbow_Ashes%2C_Smoke_and_%E2%80%A6%E2%80%A6%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="252" height="248" srcset="https://upload.thwiki.cc/thumb/d/d6/%E6%9D%B1%E6%96%B9%E4%B9%85%E4%BA%A4%E6%89%BF_%EF%BD%9E_Rainbow_Ashes%2C_Smoke_and_%E2%80%A6%E2%80%A6%E5%B0%81%E9%9D%A2.png/378px-%E6%9D%B1%E6%96%B9%E4%B9%85%E4%BA%A4%E6%89%BF_%EF%BD%9E_Rainbow_Ashes%2C_Smoke_and_%E2%80%A6%E2%80%A6%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/d/d6/%E6%9D%B1%E6%96%B9%E4%B9%85%E4%BA%A4%E6%89%BF_%EF%BD%9E_Rainbow_Ashes%2C_Smoke_and_%E2%80%A6%E2%80%A6%E5%B0%81%E9%9D%A2.png/504px-%E6%9D%B1%E6%96%B9%E4%B9%85%E4%BA%A4%E6%89%BF_%EF%BD%9E_Rainbow_Ashes%2C_Smoke_and_%E2%80%A6%E2%80%A6%E5%B0%81%E9%9D%A2.png 2x" data-file-width="1432" data-file-height="1411"></a></td>
@@ -18,11 +19,13 @@
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://cradle-to-grave.booth.pm/items/5241096">BoothDL</a></td></tr></tbody></table>
 
 
+
 ## Staff
   
  **Compose**   
 
 <table><tbody><tr><td><a href="/index.php?title=%E3%81%AA%E3%81%AA%E3%81%A4%E3%82%81%EF%BC%88Yurihaka%EF%BC%89&amp;action=edit&amp;redlink=1" class="new" title="ななつめ（Yurihaka）（页面不存在）">ななつめ（Yurihaka）</a></td><td></td><td>Tr.1-7</td></tr><tr><td><a href="/index.php?title=%E3%82%AB%E3%83%96%E3%83%AC%E3%82%A4&amp;action=edit&amp;redlink=1" class="new" title="カブレイ（页面不存在）">カブレイ</a></td><td></td><td>Tr.4/5</td></tr></tbody></table>
+
 
 
 ## 试听
@@ -37,6 +40,7 @@
 </td></tr></tbody></table>
 
 
+
 ## 曲目列表
 
 <table><tbody><tr><td id="1" class="infoYL"><b>01</b></td><td id="灰都を抱く細雨" colspan="2" class="title">灰都を抱く細雨<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=ななつめ（Yurihaka）&amp;fromwiki=東方久交承_～_Rainbow_Ashes,_Smoke_and_……"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=%E3%81%AA%E3%81%AA%E3%81%A4%E3%82%81%EF%BC%88Yurihaka%EF%BC%89&amp;action=edit&amp;redlink=1" class="new" title="ななつめ（Yurihaka）（页面不存在）">ななつめ（Yurihaka）</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=ななつめ（Yurihaka），&amp;fromwiki=東方久交承_～_Rainbow_Ashes,_Smoke_and_……"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">初发布</td><td class="text" colspan="2"><a href="/%E6%9D%B1%E6%96%B9%E4%B9%85%E4%BA%A4%E6%89%BF_%EF%BD%9E_Rainbow_Ashes,_Smoke_and_%E2%80%A6%E2%80%A6_%E3%81%8A%E3%81%BE%E3%81%91#1" title="東方久交承 ～ Rainbow Ashes, Smoke and …… おまけ">灰都を抱く細雨</a><div class="source"><a href="./東方久交承_～_Rainbow_Ashes,_Smoke_and_……_おまけ.md" title="東方久交承 ～ Rainbow Ashes, Smoke and …… おまけ">東方久交承 ～ Rainbow Ashes, Smoke and …… おまけ</a></div></td></tr>
@@ -46,6 +50,7 @@
 <tr><td id="5" class="infoYL"><b>05</b></td><td id="幻想のアーモロート_～_in_the_Cage." colspan="2" class="title">幻想のアーモロート　～ in the Cage.<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=カブレイ，ななつめ（Yurihaka）&amp;fromwiki=東方久交承_～_Rainbow_Ashes,_Smoke_and_……"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=%E3%82%AB%E3%83%96%E3%83%AC%E3%82%A4&amp;action=edit&amp;redlink=1" class="new" title="カブレイ（页面不存在）">カブレイ</a>，<a href="/index.php?title=%E3%81%AA%E3%81%AA%E3%81%A4%E3%82%81%EF%BC%88Yurihaka%EF%BC%89&amp;action=edit&amp;redlink=1" class="new" title="ななつめ（Yurihaka）（页面不存在）">ななつめ（Yurihaka）</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=カブレイ，ななつめ（Yurihaka）&amp;fromwiki=東方久交承_～_Rainbow_Ashes,_Smoke_and_……"><span></span></a></span></td></tr>
 <tr><td id="6" class="infoYL"><b>06</b></td><td id="デフォーレランヴェール" colspan="2" class="title">デフォーレランヴェール<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=ななつめ（Yurihaka）&amp;fromwiki=東方久交承_～_Rainbow_Ashes,_Smoke_and_……"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=%E3%81%AA%E3%81%AA%E3%81%A4%E3%82%81%EF%BC%88Yurihaka%EF%BC%89&amp;action=edit&amp;redlink=1" class="new" title="ななつめ（Yurihaka）（页面不存在）">ななつめ（Yurihaka）</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，ななつめ（Yurihaka）&amp;fromwiki=東方久交承_～_Rainbow_Ashes,_Smoke_and_……"><span></span></a></span></td></tr>
 <tr><td id="7" class="infoYL"><b>07</b></td><td id="永遠に憂鬱なバーブイリム" colspan="2" class="title">永遠に憂鬱なバーブイリム<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=ななつめ（Yurihaka）&amp;fromwiki=東方久交承_～_Rainbow_Ashes,_Smoke_and_……"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=%E3%81%AA%E3%81%AA%E3%81%A4%E3%82%81%EF%BC%88Yurihaka%EF%BC%89&amp;action=edit&amp;redlink=1" class="new" title="ななつめ（Yurihaka）（页面不存在）">ななつめ（Yurihaka）</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，ななつめ（Yurihaka）&amp;fromwiki=東方久交承_～_Rainbow_Ashes,_Smoke_and_……"><span></span></a></span></td></tr></tbody></table>
+
 
 
 ## 评论

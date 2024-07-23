@@ -4,7 +4,8 @@
 
 Feather's Snow ，主要制作 同人志 的日本同人社团，主催是 はね～～，当前状态为 休止
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -20,16 +21,20 @@ Feather's Snow ，主要制作 同人志 的日本同人社团，主催是 は�
 
 
 
+
 ## 社团信息
 文件:Feather's Snowbanner.jpg (未找到链接)  banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Feather&#39;s Snow </td></tr><tr><td><b>主要作品类型</b></td><td>同人志</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=%E3%81%AF%E3%81%AD%EF%BD%9E%EF%BD%9E&amp;action=edit&amp;redlink=1" class="new" title="はね～～（页面不存在）">はね～～</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://www.geocities.jp/doublehane/">http://www.geocities.jp/doublehane/</a> <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><small>（<a rel="nofollow" class="external text" href="https://web.archive.org/web/20190210045647/www.geocities.jp/doublehane/">缓存页面</a>）</small><br><a rel="nofollow" class="external free" href="http://doublehane.blog.shinobi.jp/">http://doublehane.blog.shinobi.jp/</a> （blog）</td></tr></tbody></table>
 
 Feather's Snow（同人社团，同人志社团） - Feather's Snow ，主要制作 同人志 的日本同人社团，主催是 はね～～，当前状态为 休止
+
 ## 成员名单
 - はね～～ (未找到链接)
 
+
 ## 作品列表
+
 ### 同人志
 東方七星剣 封面图片 (未找到链接)東方七星剣 (未找到链接)首发日期：未知 - 夏の日の極めて強引な涼み方 封面图片 (未找到链接)夏の日の極めて強引な涼み方 (未找到链接)首发日期：未知 - 夏の日シリーズ ＜総集編＞ 封面图片 (未找到链接)夏の日シリーズ ＜総集編＞ (未找到链接)首发日期：未知 - 東方十本刀 封面图片 (未找到链接)東方十本刀 (未找到链接)首发日期：未知 - カゴメ カゴメ 封面图片 (未找到链接)カゴメ カゴメ（Feather's Snow） (未找到链接)首发日期：未知 - 東方双剣舞 【幻】 封面图片 (未找到链接)東方双剣舞 【幻】 (未找到链接)首发日期：未知 - 東方双剣舞 【想】 封面图片 (未找到链接)東方双剣舞 【想】 (未找到链接)首发日期：未知 - 八雲一家の風呂事情 封面图片 (未找到链接)八雲一家の風呂事情 (未找到链接)首发日期：未知 - [](./Super_Marisa_World_小説版.md)[Super Marisa World 小説版](./Super_Marisa_World_小説版.md)首发日期：2008-05-25 （第五回 博麗神社例大祭 (未找到链接)）小说 （一般向）文库版&#160;尺寸 186&#160;页大正十五年の上海アリス 封面图片 (未找到链接)大正十五年の上海アリス (未找到链接)首发日期：未知 - 遠野発：岩手銀河鉄道 ＜前編っ＞ 封面图片 (未找到链接)遠野発：岩手銀河鉄道 ＜前編っ＞ (未找到链接)首发日期：未知 - 遠野発 岩手銀河鉄道 封面图片 (未找到链接)遠野発 岩手銀河鉄道 (未找到链接)首发日期：未知 - 夢か現か幻か 封面图片 (未找到链接)夢か現か幻か (未找到链接)首发日期：未知 - とらいあんぐる☆らぶはーと 封面图片 (未找到链接)とらいあんぐる☆らぶはーと (未找到链接)首发日期：未知 - アメリカ横断秘封倶楽部 封面图片 (未找到链接)アメリカ横断秘封倶楽部 (未找到链接)首发日期：未知 - 冬の日の極めて無茶な暖まり方!! 封面图片 (未找到链接)冬の日の極めて無茶な暖まり方!! (未找到链接)首发日期：未知 - 
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -49,6 +54,7 @@ Feather's Snow（同人社团，同人志社团） - Feather's Snow ，主要制
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458"></table>
+
 
 
 ## 参展信息

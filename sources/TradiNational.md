@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-TradiNational封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/9/96/TradiNational%E5%B0%81%E9%9D%A2.jpg/100px-TradiNational%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="100" height="140" srcset="https://upload.thwiki.cc/thumb/9/96/TradiNational%E5%B0%81%E9%9D%A2.jpg/150px-TradiNational%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/9/96/TradiNational%E5%B0%81%E9%9D%A2.jpg/200px-TradiNational%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="2591" data-file-height="3624"></a><div class="cover-char">角色：<a href="./依神女苑.md" title="依神女苑">依神女苑</a>，<a href="./依神紫苑.md" title="依神紫苑">依神紫苑</a></div></td>
@@ -14,7 +15,9 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/GSX250R_ANZIO/status/1515268766162198529">https://twitter.com/GSX250R_ANZIO/status/1515268766162198529</a></td></tr><tr><td class="label">备注</td><td colspan="2">東方民族衣装合同</td></tr></tbody></table>
 
 TradiNational（同人志，GOOD LUC9，2022） - 2022年5月8日 由 GOOD LUC9 于 博丽神社例大祭19 发布的合同志/画集同人志，分级为 一般向
+
 ## 预览
+
 ## Staff
 封面
 : ヨノイ （[解剖学の少年](./解剖学の少年.md)）
@@ -43,6 +46,7 @@ TradiNational（同人志，GOOD LUC9，2022） - 2022年5月8日 由 GOOD LUC9 
 : もす （れっとうかん (未找到链接)）
 : もずくず （[ちどりあし](./ちどりあし.md)）
 : さんまるに （[Twitter: @siro302](https://twitter.com/siro302)）
+
 
 ## 评论
 

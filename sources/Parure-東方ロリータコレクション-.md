@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=Parure-%E6%9D%B1%E6%96%B9%E3%83%AD%E3%83%AA%E3%83%BC%E3%82%BF%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3-%E5%B0%81%E9%9D%A2.jpg" class="new" title="文件:Parure-東方ロリータコレクション-封面.jpg">封面图片</a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>，<a href="./本居小铃.md" title="本居小铃">本居小铃</a></div></td>
@@ -14,11 +15,14 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://qwilism.blog118.fc2.com/blog-entry-93.html">http://qwilism.blog118.fc2.com/blog-entry-93.html</a><br><a rel="nofollow" class="external free" href="https://twitter.com/9wilism/status/400276520737837058">https://twitter.com/9wilism/status/400276520737837058</a><br><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/39020620">https://www.pixiv.net/artworks/39020620</a></td></tr></tbody></table>
 
 Parure-東方ロリータコレクション-（同人志，steo ∞ haon，2013） - 2013年10月13日 由 steo ∞ haon 于 东方红楼梦9 发布的画集同人志，B5尺寸一共28页，分级为 一般向
+
 ## 预览
+
 ## Staff
 - いちは (未找到链接)
 - 稔梨 (未找到链接)
 - 垣ポピンズ崎 (未找到链接)
+
 
 ## 评论
 

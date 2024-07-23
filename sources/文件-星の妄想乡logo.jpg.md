@@ -4,6 +4,7 @@
 
 星の妄想乡 | 社团LOGO
 
+
 ## 摘要
   
 源地址：[direct image link](https://lain.bgm.tv/pic/club/icon/l/000/00/51/5195.jpg), [source page](https://doujin.bgm.tv/club/STD)

@@ -4,7 +4,8 @@
 
 Midnight Dessert ，主要制作 同人志 的台湾同人社团，主催是 kurudaz，当前状态为 休止
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -20,6 +21,7 @@ Midnight Dessert ，主要制作 同人志 的台湾同人社团，主催是 kur
 
 
 
+
 ## 社团信息
 [](./文件-Midnight_Dessertbanner.jpg.md)  [](./文件-Midnight_Dessertbanner.jpg.md)logo
 [](./文件-Midnight_Dessertbanner2.gif.md)  [](./文件-Midnight_Dessertbanner2.gif.md)banner
@@ -27,12 +29,15 @@ Midnight Dessert ，主要制作 同人志 的台湾同人社团，主催是 kur
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Midnight Dessert </td></tr><tr><td><b>主要作品类型</b></td><td>同人志</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=kurudaz&amp;action=edit&amp;redlink=1" class="new" title="kurudaz（页面不存在）">kurudaz</a> </td></tr><tr><td><b>地区</b></td><td>台湾</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="https://kurudaz.exblog.jp/">https://kurudaz.exblog.jp/</a> <br><a rel="nofollow" class="external free" href="https://www.plurk.com/MidnightDessert/">https://www.plurk.com/MidnightDessert/</a><br><a rel="nofollow" class="external free" href="http://ysrpg.hp.infoseek.co.jp/kurudaz/">http://ysrpg.hp.infoseek.co.jp/kurudaz/</a> （旧官网）<span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><small>（<a rel="nofollow" class="external text" href="https://web.archive.org/web/20050525094422/http://ysrpg.hp.infoseek.co.jp/kurudaz/">缓存页面</a>）</small></td></tr></tbody></table>
 
 Midnight Dessert（同人社团，同人志社团） - Midnight Dessert ，主要制作 同人志 的台湾同人社团，主催是 kurudaz，当前状态为 休止
+
 ## 成员名单
 - kurudaz (未找到链接)
 
 : [Twitter: @kurudaz](https://twitter.com/kurudaz), [Pixiv ID: 74740](https://www.pixiv.net/users/74740)
 
+
 ## 作品列表
+
 ### 同人志
 [](./東方綺想.md)[東方綺想](./東方綺想.md)首发日期：2005-02-19 （Fancy Frontier 5 (未找到链接)）漫画 （一般向）B5&#160;尺寸 28&#160;页[](./詠蝶綻放.md)[詠蝶綻放](./詠蝶綻放.md)首发日期：2006-02-04 （Fancy Frontier 7 (未找到链接)）小说 （一般向）B5&#160;尺寸 40&#160;页[](./幻想符式繪.md)[幻想符式繪](./幻想符式繪.md)首发日期：2006-05-13 （東方絢櫻祭 (未找到链接)）画集、​漫画 （一般向）该作品是与 [ELField](./ELField.md) 合作创作的A4&#160;尺寸 24&#160;页[](./彼岸色画.md)[彼岸色画](./彼岸色画.md)首发日期：2007-05-26 （東方絢櫻祭2 -絢櫻再盛- (未找到链接)）画集 （一般向）B5&#160;尺寸 32&#160;页[](./風紅葉落.md)[風紅葉落](./風紅葉落.md)首发日期：2008-02-16 （Fancy Frontier 11 (未找到链接)）漫画、​画集 （一般向）A4&#160;尺寸 16&#160;页[](./Fair_Wind.md)[Fair Wind](./Fair_Wind.md)首发日期：2008-05-31 （東方絢櫻祭3 -櫻華永燦- (未找到链接)）漫画 （一般向）B5&#160;尺寸 32&#160;页[](./天外空彩.md)[天外空彩](./天外空彩.md)首发日期：2008-07-26 （Fancy Frontier 12 (未找到链接)）画集 （一般向）A4&#160;尺寸 16&#160;页[](./So_long...md)[So long..](./So_long...md)首发日期：2009-03-08 （第六回 博麗神社例大祭 (未找到链接)）漫画 （一般向）B5&#160;尺寸 40&#160;页[](./詠蝶綻放-上-.md)[詠蝶綻放 -上-](./詠蝶綻放-上-.md)首发日期：2009-08-15 （Comic Market 76 (未找到链接)）漫画 （一般向）B5&#160;尺寸 32&#160;页原作为小说[詠蝶綻放](./詠蝶綻放.md)[](./融解心核.md)[融解心核](./融解心核.md)首发日期：2009-10-11 （東方紅楼夢5 (未找到链接)）画集 （一般向）B5&#160;尺寸 20&#160;页[](./東華乱舞.md)[東華乱舞](./東華乱舞.md)首发日期：2010-03-14 （第七回 博麗神社例大祭 (未找到链接)）画集 （一般向） 24&#160;页[](./詠蝶綻放-下-.md)[詠蝶綻放 -下-](./詠蝶綻放-下-.md)首发日期：2010-03-14 （第七回 博麗神社例大祭 (未找到链接)）漫画 （一般向）B5&#160;尺寸 48&#160;页原作为小说[詠蝶綻放](./詠蝶綻放.md)[](./結界_SIDE_EMOTION.md)[結界 SIDE EMOTION](./結界_SIDE_EMOTION.md)首发日期：2010-08-14 （Comic Market 78 (未找到链接)）漫画 （一般向）[](./文花色盤.md)[文花色盤](./文花色盤.md)首发日期：2011-02-19 （Fancy Frontier 17 (未找到链接)）漫画 （一般向） 20&#160;页[](./幻水墨想.md)[幻水墨想](./幻水墨想.md)首发日期：2011-04-23 （Petit Fancy14 (未找到链接)）画集 （一般向） 16&#160;页[](./風の地から星空へ.md)[風の地から星空へ](./風の地から星空へ.md)首发日期：2011-05-14 （東方絢櫻祭5 -再續櫻緣- (未找到链接)）漫画 （一般向）B5&#160;尺寸 24&#160;页[](./Moonlight_Recipe.md)[Moonlight Recipe](./Moonlight_Recipe.md)首发日期：2011-07-30 （Fancy Frontier 18 (未找到链接)）漫画 （一般向）A5&#160;尺寸 16&#160;页[](./STARDUST_INFLECTION.md)[STARDUST INFLECTION](./STARDUST_INFLECTION.md)首发日期：2011-11-20 （東方楓華宴2 (未找到链接)）漫画 （一般向）B5&#160;尺寸 32&#160;页[](./悠幽胥夢.md)[悠幽胥夢](./悠幽胥夢.md)首发日期：2012-05-27 （第九回 博麗神社例大祭 (未找到链接)）画集 （一般向）B5&#160;尺寸 16&#160;页[](./Fair_wind／So_long...md)[Fair Wind/So long..](./Fair_wind／So_long...md)首发日期：2012-08-11 （Comic Market 82 (未找到链接)）漫画、​总集 （一般向）B5&#160;尺寸 72&#160;页[Fair Wind](./Fair_Wind.md)和[So long..](./So_long...md)的合集[](./See_you_again..md)[See you again.](./See_you_again..md)首发日期：2012-08-11 （Comic Market 82 (未找到链接)）漫画 （一般向）B5&#160;尺寸 24&#160;页[Fair Wind/So long..](./Fair_wind／So_long...md)的后日谈[](./喧鬧的舊地獄街.md)[喧鬧的舊地獄街](./喧鬧的舊地獄街.md)首发日期：2011-01-23 漫画 （一般向）B5&#160;尺寸 30&#160;页[](./戀之覺.md)[戀之覺](./戀之覺.md)首发日期：未知 漫画 （一般向）B5&#160;尺寸 30&#160;页
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -81,6 +86,7 @@ Midnight Dessert（同人社团，同人志社团） - Midnight Dessert ，主�
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 参展信息

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-YUI_TOHO_ART_COLLECTION_2_-迹-封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/d/d8/YUI_TOHO_ART_COLLECTION_2_-%E8%BF%B9-%E5%B0%81%E9%9D%A2.jpg/139px-YUI_TOHO_ART_COLLECTION_2_-%E8%BF%B9-%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="139" height="196" srcset="https://upload.thwiki.cc/thumb/d/d8/YUI_TOHO_ART_COLLECTION_2_-%E8%BF%B9-%E5%B0%81%E9%9D%A2.jpg/208px-YUI_TOHO_ART_COLLECTION_2_-%E8%BF%B9-%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/d/d8/YUI_TOHO_ART_COLLECTION_2_-%E8%BF%B9-%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="220" data-file-height="311"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></div></td>
@@ -14,10 +15,13 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://doujin.bgm.tv/subject/7382">https://doujin.bgm.tv/subject/7382</a></td></tr></tbody></table>
 
 YUI TOHO ART COLLECTION 2 -迹-（同人志，弐維鏡像，2012） - 2012年7月21日 由 弐維鏡像 于 COMIDAY10 发布的画集同人志，A4尺寸一共36页，分级为 一般向
+
 ## 预览
+
 ## Staff
 画师
 : 唯
+
 
 ## 评论
   

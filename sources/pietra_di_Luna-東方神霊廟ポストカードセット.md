@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **相关实体周边 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 周边信息](#周边信息)
@@ -21,6 +22,7 @@
 
 
 
+
 ## 周边信息
 
 <table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 東方神霊廟ポストカードセット </td></tr><tr><td class="label">制作方</td><td><a href="./pietra_di_Luna.md" title="pietra di Luna">pietra di Luna</a></td></tr><tr><td class="label">首发日期</td><td>2015-11-08&#160;（<a href="/展会作品列表?e=%E5%A4%A7%E2%91%A8%E5%B7%9E%E4%B8%9C%E6%96%B9%E7%A5%AD%2313">大⑨州東方祭13</a>）</td></tr><tr><td class="label">类型</td><td>明信片</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">角色</td><td><a href="./苏我屠自古.md" title="苏我屠自古">苏我屠自古</a><br><a href="./丰聪耳神子.md" title="丰聪耳神子">丰聪耳神子</a><br><a href="./物部布都.md" title="物部布都">物部布都</a></td></tr><tr><td class="label">售价</td><td>会场售价：300日元</td></tr></tbody></table>
@@ -30,16 +32,20 @@ pietra di Luna/東方神霊廟ポストカードセット（周边，pietra di L
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://pietra-di-luna.booth.pm/items/619210">Booth</a></td></tr></tbody></table>
 
 
+
 ## 参考图
   
 周边宣传、售卖时使用的作为参考图的预览图或实物图的图片。
   
 
+
 ### 预览图
 - [](./文件-pietra_di_Luna／東方神霊廟ポストカードセット预览图1.jpg.md)
 
+
 ## Staff
 : Luna (未找到链接)
+
 
 ## 评论
 

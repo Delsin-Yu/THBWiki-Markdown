@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-堀川雷鼓合同誌Vol.3_-Drum_up_Worlds-封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/8/8a/%E5%A0%80%E5%B7%9D%E9%9B%B7%E9%BC%93%E5%90%88%E5%90%8C%E8%AA%8CVol.3_-Drum_up_Worlds-%E5%B0%81%E9%9D%A2.jpg/140px-%E5%A0%80%E5%B7%9D%E9%9B%B7%E9%BC%93%E5%90%88%E5%90%8C%E8%AA%8CVol.3_-Drum_up_Worlds-%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="140" height="196" srcset="https://upload.thwiki.cc/thumb/8/8a/%E5%A0%80%E5%B7%9D%E9%9B%B7%E9%BC%93%E5%90%88%E5%90%8C%E8%AA%8CVol.3_-Drum_up_Worlds-%E5%B0%81%E9%9D%A2.jpg/210px-%E5%A0%80%E5%B7%9D%E9%9B%B7%E9%BC%93%E5%90%88%E5%90%8C%E8%AA%8CVol.3_-Drum_up_Worlds-%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/8/8a/%E5%A0%80%E5%B7%9D%E9%9B%B7%E9%BC%93%E5%90%88%E5%90%8C%E8%AA%8CVol.3_-Drum_up_Worlds-%E5%B0%81%E9%9D%A2.jpg/280px-%E5%A0%80%E5%B7%9D%E9%9B%B7%E9%BC%93%E5%90%88%E5%90%8C%E8%AA%8CVol.3_-Drum_up_Worlds-%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="733" data-file-height="1024"></a><div class="cover-char">角色：<a href="./堀川雷鼓.md" title="堀川雷鼓">堀川雷鼓</a></div></td>
@@ -18,9 +19,12 @@
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://raikolover.booth.pm/items/3290803">Booth</a></td></tr></tbody></table>
 
 
+
 ## 预览
+
 ## Staff
 - 8y (未找到链接)
+
 
 ## 评论
 

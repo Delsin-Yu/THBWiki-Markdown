@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Ensemble_of_Gensokyo_10_-_Verus_Decima封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/1/14/Ensemble_of_Gensokyo_10_-_Verus_Decima%E5%B0%81%E9%9D%A2.jpg/224px-Ensemble_of_Gensokyo_10_-_Verus_Decima%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="224" srcset="https://upload.thwiki.cc/thumb/1/14/Ensemble_of_Gensokyo_10_-_Verus_Decima%E5%B0%81%E9%9D%A2.jpg/336px-Ensemble_of_Gensokyo_10_-_Verus_Decima%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/1/14/Ensemble_of_Gensokyo_10_-_Verus_Decima%E5%B0%81%E9%9D%A2.jpg/448px-Ensemble_of_Gensokyo_10_-_Verus_Decima%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="2000" data-file-height="2000"></a><div class="cover-char">角色：<a href="./魅魔.md" title="魅魔">魅魔</a></div></td>
@@ -18,6 +19,7 @@ Ensemble of Gensokyo 10 - Verus Decima（同人专辑，Dex Hexallion，2013） 
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://dexhexallion.bandcamp.com/album/ensemble-of-gensokyo-verus-decima">bandcamp</a></td></tr></tbody></table>
 
 
+
 ## Staff
   
  **Compose**   
@@ -25,10 +27,12 @@ Ensemble of Gensokyo 10 - Verus Decima（同人专辑，Dex Hexallion，2013） 
 <table><tbody><tr><td><a href="/index.php?title=Kazami_Shintaro&amp;action=edit&amp;redlink=1" class="new" title="Kazami Shintaro（页面不存在）">Kazami Shintaro</a></td><td></td><td>Tr.1-12</td></tr></tbody></table>
 
 
+
 ## 试听
   
 暂不支援此类型
   
+
 
 ## 曲目列表
 
@@ -44,6 +48,7 @@ Ensemble of Gensokyo 10 - Verus Decima（同人专辑，Dex Hexallion，2013） 
 <tr><td id="10" class="infoYL"><b>10</b></td><td id="Lies_of_The_Goddess" colspan="2" class="title">Lies of The Goddess<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Kazami Shintaro&amp;fromwiki=Ensemble_of_Gensokyo_10_-_Verus_Decima"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:54</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=Kazami_Shintaro&amp;action=edit&amp;redlink=1" class="new" title="Kazami Shintaro（页面不存在）">Kazami Shintaro</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Kazami Shintaro&amp;fromwiki=Ensemble_of_Gensokyo_10_-_Verus_Decima"><span></span></a></span></td></tr>
 <tr><td id="11" class="infoYL"><b>11</b></td><td id="Bells_of_Avici_~_Infinite_Nightmare_&#91;KzMShintaro_Emo_Rock_Mix&#93;" colspan="2" class="title">Bells of Avici ~ Infinite Nightmare &#91;KzMShintaro Emo Rock Mix&#93;<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Kazami Shintaro&amp;fromwiki=Ensemble_of_Gensokyo_10_-_Verus_Decima"><span title="搜索相似同人曲"></span></a></span></td><td class="time">02:28</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=Kazami_Shintaro&amp;action=edit&amp;redlink=1" class="new" title="Kazami Shintaro（页面不存在）">Kazami Shintaro</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Kazami Shintaro&amp;fromwiki=Ensemble_of_Gensokyo_10_-_Verus_Decima"><span></span></a></span></td></tr>
 <tr><td id="12" class="infoYL"><b>12</b></td><td id="&#91;Verus_Decima_ED&#93;_Heir_of_the_Divine_Heaven_Palace" colspan="2" class="title">&#91;Verus Decima ED&#93; Heir of the Divine Heaven Palace<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Kazami Shintaro&amp;fromwiki=Ensemble_of_Gensokyo_10_-_Verus_Decima"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:03</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=Kazami_Shintaro&amp;action=edit&amp;redlink=1" class="new" title="Kazami Shintaro（页面不存在）">Kazami Shintaro</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Kazami Shintaro&amp;fromwiki=Ensemble_of_Gensokyo_10_-_Verus_Decima"><span></span></a></span></td></tr></tbody></table>
+
 
 
 ## 评论

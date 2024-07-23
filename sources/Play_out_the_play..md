@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Play_out_the_play.封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/1/17/Play_out_the_play.%E5%B0%81%E9%9D%A2.jpg/139px-Play_out_the_play.%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="139" height="196" srcset="https://upload.thwiki.cc/thumb/1/17/Play_out_the_play.%E5%B0%81%E9%9D%A2.jpg/209px-Play_out_the_play.%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/1/17/Play_out_the_play.%E5%B0%81%E9%9D%A2.jpg/278px-Play_out_the_play.%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="710" data-file-height="1000"></a><div class="cover-char">角色：<a href="./宇佐见莲子.md" title="宇佐见莲子">宇佐见莲子</a></div></td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://sakura1017.wixsite.com/re15">https://sakura1017.wixsite.com/re15</a></td></tr></tbody></table>
 
 Play out the play.（同人志，ローリィ＊ポップ，2018） - 2018年5月6日 由 ローリィ＊ポップ 于 博丽神社例大祭15 发布的摄影集同人志，A6尺寸一共56页，分级为 一般向
+
 ## Staff
   
 Model　桜りせ  
@@ -22,6 +24,7 @@ Photo　銀寺　蒼騎ちはや　れいちぇる　asa
 
 Guest　雪だるま　月那
   
+
 
 ## 评论
 

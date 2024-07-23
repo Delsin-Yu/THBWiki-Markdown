@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-CANNA_Extra封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/f/fd/CANNA_Extra%E5%B0%81%E9%9D%A2.jpg/117px-CANNA_Extra%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="117" height="168" srcset="https://upload.thwiki.cc/thumb/f/fd/CANNA_Extra%E5%B0%81%E9%9D%A2.jpg/175px-CANNA_Extra%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/f/fd/CANNA_Extra%E5%B0%81%E9%9D%A2.jpg/234px-CANNA_Extra%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="629" data-file-height="903"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></div></td>
@@ -18,11 +19,14 @@ CANNA Extra（同人志，あずまあや，2020） - 2020年3月22日 由 あ�
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://azmaya.booth.pm/items/1909262">Booth</a></td></tr></tbody></table>
 
 
+
 ## 预览
 - [](./文件-CANNA_Extra预览图1.jpg.md)
 
+
 ## Staff
 - [あずまあや](./あずまあや.md)
+
 
 ## 评论
 

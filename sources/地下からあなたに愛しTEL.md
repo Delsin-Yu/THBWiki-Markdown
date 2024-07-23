@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-地下からあなたに愛しTEL封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/d/d2/%E5%9C%B0%E4%B8%8B%E3%81%8B%E3%82%89%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AB%E6%84%9B%E3%81%97TEL%E5%B0%81%E9%9D%A2.jpg/158px-%E5%9C%B0%E4%B8%8B%E3%81%8B%E3%82%89%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AB%E6%84%9B%E3%81%97TEL%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="158" height="224" srcset="https://upload.thwiki.cc/thumb/d/d2/%E5%9C%B0%E4%B8%8B%E3%81%8B%E3%82%89%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AB%E6%84%9B%E3%81%97TEL%E5%B0%81%E9%9D%A2.jpg/237px-%E5%9C%B0%E4%B8%8B%E3%81%8B%E3%82%89%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AB%E6%84%9B%E3%81%97TEL%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/d/d2/%E5%9C%B0%E4%B8%8B%E3%81%8B%E3%82%89%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AB%E6%84%9B%E3%81%97TEL%E5%B0%81%E9%9D%A2.jpg/316px-%E5%9C%B0%E4%B8%8B%E3%81%8B%E3%82%89%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AB%E6%84%9B%E3%81%97TEL%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1280" data-file-height="1812"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>，<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a>，<a href="./射命丸文.md" title="射命丸文">射命丸文</a>，<a href="./东风谷早苗.md" title="东风谷早苗">东风谷早苗</a>，<a href="./伊吹萃香.md" title="伊吹萃香">伊吹萃香</a>，<a href="./水桥帕露西.md" title="水桥帕露西">水桥帕露西</a></div></td>
@@ -14,10 +15,13 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://sankibadog.web.fc2.com/2010/2010-12.html">http://sankibadog.web.fc2.com/2010/2010-12.html</a></td></tr></tbody></table>
 
 地下からあなたに愛しTEL（同人志，小さい方がいい。，むぎじるし，2010） - 2010年12月30日 由 小さい方がいい。，むぎじるし 于 Comic Market 79 发布的漫画同人志，B5尺寸一共12页，登场人物有 博丽灵梦、雾雨魔理沙、射命丸文、东风谷早苗、伊吹萃香、水桥帕露西、星熊勇仪、古明地觉、灵乌路空、八云紫，分级为 一般向
+
 ## 预览
+
 ## Staff
 - asaki (未找到链接) （[小さい方がいい。](./小さい方がいい。.md)）
 - タイリ (未找到链接) （[むぎじるし](./むぎじるし.md)）
+
 
 ## 评论
 

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=log(o)ic%E5%B0%81%E9%9D%A2.jpg" class="new" title="文件:log(o)ic封面.jpg">封面图片</a></td>
@@ -14,11 +15,13 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://cmyk.tobiiro.jp/">http://cmyk.tobiiro.jp/</a><br><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/39060658">https://www.pixiv.net/artworks/39060658</a></td></tr></tbody></table>
 
 log(o)ic（同人志，Colors MY Key，2013） - 2013年10月13日 由 Colors MY Key 于 东方红楼梦9 发布的其他同人志，A5尺寸一共12页，分级为 一般向
+
 ## Staff
 Design
 : 中澤柚 （[minamo strobo lights](http://minamosl.kitunebi.com/)）
 : 白露 （[色色*ドロップ](./色色＊ドロップ.md)）
 : nigori （[Lily liddy pocket](https://li-pocket.web.wox.cc/)）
+
 
 ## 评论
 

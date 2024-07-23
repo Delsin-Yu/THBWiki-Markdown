@@ -12,7 +12,7 @@ The_Grimoire_of_Usami | 使用了翻译表的页面 | 宇佐见的魔法书 | �
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./The_Grimoire_of_Usami-古明地恋2-中日对照.md" title="The Grimoire of Usami/古明地恋2/中日对照">古明地恋2</a>&#160;
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="/%E5%AE%87%E4%BD%90%E8%A7%81%E7%9A%84%E9%AD%94%E6%B3%95%E4%B9%A6" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a>&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="./宇佐见的魔法书.md" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a>&#160;
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">&#160;<a href="./The_Grimoire_of_Usami-伊吹萃香-中日对照.md" title="The Grimoire of Usami/伊吹萃香/中日对照">伊吹萃香</a>
 </td>
@@ -25,7 +25,7 @@ The_Grimoire_of_Usami | 使用了翻译表的页面 | 宇佐见的魔法书 | �
 - 翻译：fumika_zero
 
 
-<table><tbody><tr class="tt-content-header" id="=-1" data-pos="&#91;&quot;=&quot;,1&#93;"><td class="tt-jah" lang="ja"><div class="poem">鬼声「壊滅の咆哮」</div></td><td class="tt-zhh" lang="zh"><div class="poem"><a href="/%E9%AC%BC%E5%A3%B0%E3%80%8C%E6%AF%81%E7%81%AD%E4%B9%8B%E5%92%86%E5%93%AE%E3%80%8D" class="mw-redirect" title="鬼声「毁灭之咆哮」">鬼声「毁灭之咆哮」</a></div></td></tr><tr class="tt-content" id="=-2" data-pos="&#91;&quot;=&quot;,2&#93;"><td class="tt-ja" lang="ja"><div class="poem">使用者：星熊勇儀</div></td><td class="tt-zh" lang="zh"><div class="poem">使用者：<a href="./星熊勇仪.md" title="星熊勇仪">星熊勇仪</a></div></td></tr><tr class="tt-content" id="=-3" data-pos="&#91;&quot;=&quot;,3&#93;"><td class="tt-ja" lang="ja"><div class="poem">地上も壊れてきたなぁ。<br>こんなに暴れても良いなんて<br>素敵じゃないか。<br>酒も回って<br>気持ちよくなってきたし、<br>そろそろ出番かな！</div></td><td class="tt-zh" lang="zh"><div class="poem">地上也开始崩坏了啊。<br>居然闹到这种程度也行<br>真是棒啊。<br>酒劲儿也上来<br>舒服起来了，<br>差不多到我出场了吧！</div></td></tr><tr class="tt-header" id="=-4" data-pos="&#91;&quot;=&quot;,4&#93;"><td colspan="2" id="鬼人正邪" class="tt-header" lang="zh"><div class="poem">鬼人正邪</div></td></tr><tr class="tt-content" id="=-5" data-pos="&#91;&quot;=&quot;,5&#93;"><td class="tt-ja" lang="ja"><div class="poem">凄い大声！　屋台も壊れて、被害は甚大だ！　あはは、可哀想だ。</div></td><td class="tt-zh" lang="zh"><div class="poem">好大声！摊位也坏了，受害很严重！啊哈哈，真可怜。</div></td></tr><tr class="tt-header" id="=-6" data-pos="&#91;&quot;=&quot;,6&#93;"><td colspan="2" id="摩多罗隐岐奈" class="tt-header" lang="zh"><div class="poem">摩多罗隐岐奈</div></td></tr><tr class="tt-content" id="=-7" data-pos="&#91;&quot;=&quot;,7&#93;"><td class="tt-ja" lang="ja"><div class="poem">これはちょっとうるさいなぁ。まあよし、豪快なのも鬼の魅力だな。</div></td><td class="tt-zh" lang="zh"><div class="poem">这有点儿吵啊。哎好吧，豪快也是鬼的魅力啊。</div></td></tr><tr class="tt-header" id="=-8" data-pos="&#91;&quot;=&quot;,8&#93;"><td colspan="2" id="宇佐见堇子" class="tt-header" lang="zh"><div class="poem">宇佐见堇子</div></td></tr><tr class="tt-content" id="=-9" data-pos="&#91;&quot;=&quot;,9&#93;"><td class="tt-ja" lang="ja"><div class="poem">うるさーい。この大会、大声大会と勘違いしている奴多すぎない！？</div></td><td class="tt-zh" lang="zh"><div class="poem">好吵～把这个大会，误会成大嗓门大会的家伙是不是太多了！？</div></td></tr></tbody></table>
+<table><tbody><tr class="tt-content-header" id="=-1" data-pos="&#91;&quot;=&quot;,1&#93;"><td class="tt-jah" lang="ja"><div class="poem">鬼声「壊滅の咆哮」</div></td><td class="tt-zhh" lang="zh"><div class="poem"><a href="./鬼声「毁灭之咆哮」.md" class="mw-redirect" title="鬼声「毁灭之咆哮」">鬼声「毁灭之咆哮」</a></div></td></tr><tr class="tt-content" id="=-2" data-pos="&#91;&quot;=&quot;,2&#93;"><td class="tt-ja" lang="ja"><div class="poem">使用者：星熊勇儀</div></td><td class="tt-zh" lang="zh"><div class="poem">使用者：<a href="./星熊勇仪.md" title="星熊勇仪">星熊勇仪</a></div></td></tr><tr class="tt-content" id="=-3" data-pos="&#91;&quot;=&quot;,3&#93;"><td class="tt-ja" lang="ja"><div class="poem">地上も壊れてきたなぁ。<br>こんなに暴れても良いなんて<br>素敵じゃないか。<br>酒も回って<br>気持ちよくなってきたし、<br>そろそろ出番かな！</div></td><td class="tt-zh" lang="zh"><div class="poem">地上也开始崩坏了啊。<br>居然闹到这种程度也行<br>真是棒啊。<br>酒劲儿也上来<br>舒服起来了，<br>差不多到我出场了吧！</div></td></tr><tr class="tt-header" id="=-4" data-pos="&#91;&quot;=&quot;,4&#93;"><td colspan="2" id="鬼人正邪" class="tt-header" lang="zh"><div class="poem">鬼人正邪</div></td></tr><tr class="tt-content" id="=-5" data-pos="&#91;&quot;=&quot;,5&#93;"><td class="tt-ja" lang="ja"><div class="poem">凄い大声！　屋台も壊れて、被害は甚大だ！　あはは、可哀想だ。</div></td><td class="tt-zh" lang="zh"><div class="poem">好大声！摊位也坏了，受害很严重！啊哈哈，真可怜。</div></td></tr><tr class="tt-header" id="=-6" data-pos="&#91;&quot;=&quot;,6&#93;"><td colspan="2" id="摩多罗隐岐奈" class="tt-header" lang="zh"><div class="poem">摩多罗隐岐奈</div></td></tr><tr class="tt-content" id="=-7" data-pos="&#91;&quot;=&quot;,7&#93;"><td class="tt-ja" lang="ja"><div class="poem">これはちょっとうるさいなぁ。まあよし、豪快なのも鬼の魅力だな。</div></td><td class="tt-zh" lang="zh"><div class="poem">这有点儿吵啊。哎好吧，豪快也是鬼的魅力啊。</div></td></tr><tr class="tt-header" id="=-8" data-pos="&#91;&quot;=&quot;,8&#93;"><td colspan="2" id="宇佐见堇子" class="tt-header" lang="zh"><div class="poem">宇佐见堇子</div></td></tr><tr class="tt-content" id="=-9" data-pos="&#91;&quot;=&quot;,9&#93;"><td class="tt-ja" lang="ja"><div class="poem">うるさーい。この大会、大声大会と勘違いしている奴多すぎない！？</div></td><td class="tt-zh" lang="zh"><div class="poem">好吵～把这个大会，误会成大嗓门大会的家伙是不是太多了！？</div></td></tr></tbody></table>
 
 
 <center>
@@ -36,7 +36,7 @@ The_Grimoire_of_Usami | 使用了翻译表的页面 | 宇佐见的魔法书 | �
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./The_Grimoire_of_Usami-古明地恋2-中日对照.md" title="The Grimoire of Usami/古明地恋2/中日对照">古明地恋2</a>&#160;
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="/%E5%AE%87%E4%BD%90%E8%A7%81%E7%9A%84%E9%AD%94%E6%B3%95%E4%B9%A6" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a>&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="./宇佐见的魔法书.md" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a>&#160;
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">&#160;<a href="./The_Grimoire_of_Usami-伊吹萃香-中日对照.md" title="The Grimoire of Usami/伊吹萃香/中日对照">伊吹萃香</a>
 </td>
@@ -45,6 +45,7 @@ The_Grimoire_of_Usami | 使用了翻译表的页面 | 宇佐见的魔法书 | �
 
   
 </center>
+
 
 ## 词条导航
   

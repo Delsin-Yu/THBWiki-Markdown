@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-SEIGA_～第一章_愛欲之章～封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/4/46/SEIGA_%EF%BD%9E%E7%AC%AC%E4%B8%80%E7%AB%A0_%E6%84%9B%E6%AC%B2%E4%B9%8B%E7%AB%A0%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg/136px-SEIGA_%EF%BD%9E%E7%AC%AC%E4%B8%80%E7%AB%A0_%E6%84%9B%E6%AC%B2%E4%B9%8B%E7%AB%A0%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="136" height="196" srcset="https://upload.thwiki.cc/thumb/4/46/SEIGA_%EF%BD%9E%E7%AC%AC%E4%B8%80%E7%AB%A0_%E6%84%9B%E6%AC%B2%E4%B9%8B%E7%AB%A0%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg/204px-SEIGA_%EF%BD%9E%E7%AC%AC%E4%B8%80%E7%AB%A0_%E6%84%9B%E6%AC%B2%E4%B9%8B%E7%AB%A0%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/4/46/SEIGA_%EF%BD%9E%E7%AC%AC%E4%B8%80%E7%AB%A0_%E6%84%9B%E6%AC%B2%E4%B9%8B%E7%AB%A0%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg/272px-SEIGA_%EF%BD%9E%E7%AC%AC%E4%B8%80%E7%AB%A0_%E6%84%9B%E6%AC%B2%E4%B9%8B%E7%AB%A0%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="678" data-file-height="977"></a><div class="cover-char">角色：<a href="./霍青娥.md" title="霍青娥">霍青娥</a></div></td>
@@ -21,6 +22,7 @@ SEIGA ～第一章 愛欲之章～（同人志，Ulka Graphy，2016） - 2016年
 
 - [Promo MV](https://www.youtube.com/watch?v=VOJGQmYxRRU)
 
+
 ## Staff
 Web
 : Pyrovers (未找到链接)
@@ -31,6 +33,7 @@ Illustration
 : 卜部ミチルさん (未找到链接)
 Special thanks
 : [Shibayan Records](./ShibayanRecords.md)
+
 
 ## 评论
 

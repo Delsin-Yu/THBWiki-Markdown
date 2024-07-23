@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-IF_ALL'S_POOR封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/a/ad/IF_ALL%27S_POOR%E5%B0%81%E9%9D%A2.jpg/280px-IF_ALL%27S_POOR%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="280" height="280" srcset="https://upload.thwiki.cc/thumb/a/ad/IF_ALL%27S_POOR%E5%B0%81%E9%9D%A2.jpg/420px-IF_ALL%27S_POOR%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/a/ad/IF_ALL%27S_POOR%E5%B0%81%E9%9D%A2.jpg/560px-IF_ALL%27S_POOR%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1200" data-file-height="1200"></a><div class="cover-char">角色：<a href="./赤蛮奇.md" title="赤蛮奇">赤蛮奇</a></div></td>
@@ -18,6 +19,7 @@ IF ALL'S POOR（同人专辑，Find Your Way，2017） - 2017年4月1日 由 Fin
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://youwillfindyourway.bandcamp.com/album/if-alls-poor">bandcamp</a></td></tr></tbody></table>
 
 
+
 ## Staff
   
  **Arrangement**   
@@ -25,17 +27,20 @@ IF ALL'S POOR（同人专辑，Find Your Way，2017） - 2017年4月1日 由 Fin
 <table><tbody><tr><td><a href="./Veto.md" title="Veto">Veto</a></td><td><a href="./Find_Your_Way.md" title="Find Your Way">Find Your Way</a></td><td>Tr.1/2</td></tr></tbody></table>
 
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Don&#39;t_Boil_Your_Hot_Dogs_Goddammit!" colspan="2" class="title">Don&#39;t Boil Your Hot Dogs Goddammit!<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Veto&amp;ogmusic=運河を行き交う人妖&amp;fromwiki=IF_ALL'S_POOR"><span title="搜索相似同人曲"></span></a></span></td><td class="time">01:16</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Veto.md" title="Veto">Veto</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Veto&amp;fromwiki=IF_ALL'S_POOR"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">初发布</td><td class="text" colspan="2"><a href="/MOM_EP#2" title="MOM EP">Don&#39;t Boil Your Hot Dogs Goddammit!</a><div class="source"><a href="./MOM_EP.md" title="MOM EP">MOM EP</a></div></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=運河を行き交う人妖&amp;fromwiki=IF_ALL'S_POOR"><span></span></a></span><div class="ogmusic"><a href="/%E9%81%8B%E6%B2%B3%E3%82%92%E8%A1%8C%E3%81%8D%E4%BA%A4%E3%81%86%E4%BA%BA%E5%A6%96" class="mw-redirect" title="運河を行き交う人妖">運河を行き交う人妖</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E8%BE%89%E9%92%88%E5%9F%8E_%EF%BD%9E_Double_Dealing_Character." class="mw-redirect" title="东方辉针城 ～ Double Dealing Character.">东方辉针城　～ Double Dealing Character.</a></div></td></tr>
-<tr><td id="2" class="infoYD"><b>02</b></td><td id="Headspace" colspan="2" class="title">Headspace<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Veto&amp;ogmusic=柳の下のデュラハン&amp;fromwiki=IF_ALL'S_POOR"><span title="搜索相似同人曲"></span></a></span></td><td class="time">06:19</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Veto.md" title="Veto">Veto</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Veto&amp;fromwiki=IF_ALL'S_POOR"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=柳の下のデュラハン&amp;fromwiki=IF_ALL'S_POOR"><span></span></a></span><div class="ogmusic"><a href="/%E6%9F%B3%E3%81%AE%E4%B8%8B%E3%81%AE%E3%83%87%E3%83%A5%E3%83%A9%E3%83%8F%E3%83%B3" class="mw-redirect" title="柳の下のデュラハン">柳の下のデュラハン</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E8%BE%89%E9%92%88%E5%9F%8E_%EF%BD%9E_Double_Dealing_Character." class="mw-redirect" title="东方辉针城 ～ Double Dealing Character.">东方辉针城　～ Double Dealing Character.</a></div></td></tr>
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Don&#39;t_Boil_Your_Hot_Dogs_Goddammit!" colspan="2" class="title">Don&#39;t Boil Your Hot Dogs Goddammit!<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Veto&amp;ogmusic=運河を行き交う人妖&amp;fromwiki=IF_ALL'S_POOR"><span title="搜索相似同人曲"></span></a></span></td><td class="time">01:16</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Veto.md" title="Veto">Veto</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Veto&amp;fromwiki=IF_ALL'S_POOR"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">初发布</td><td class="text" colspan="2"><a href="/MOM_EP#2" title="MOM EP">Don&#39;t Boil Your Hot Dogs Goddammit!</a><div class="source"><a href="./MOM_EP.md" title="MOM EP">MOM EP</a></div></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=運河を行き交う人妖&amp;fromwiki=IF_ALL'S_POOR"><span></span></a></span><div class="ogmusic"><a href="./運河を行き交う人妖.md" class="mw-redirect" title="運河を行き交う人妖">運河を行き交う人妖</a></div><div class="source"><a href="./东方辉针城_～_Double_Dealing_Character..md" class="mw-redirect" title="东方辉针城 ～ Double Dealing Character.">东方辉针城　～ Double Dealing Character.</a></div></td></tr>
+<tr><td id="2" class="infoYD"><b>02</b></td><td id="Headspace" colspan="2" class="title">Headspace<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Veto&amp;ogmusic=柳の下のデュラハン&amp;fromwiki=IF_ALL'S_POOR"><span title="搜索相似同人曲"></span></a></span></td><td class="time">06:19</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Veto.md" title="Veto">Veto</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Veto&amp;fromwiki=IF_ALL'S_POOR"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=柳の下のデュラハン&amp;fromwiki=IF_ALL'S_POOR"><span></span></a></span><div class="ogmusic"><a href="./柳の下のデュラハン.md" class="mw-redirect" title="柳の下のデュラハン">柳の下のデュラハン</a></div><div class="source"><a href="./东方辉针城_～_Double_Dealing_Character..md" class="mw-redirect" title="东方辉针城 ～ Double Dealing Character.">东方辉针城　～ Double Dealing Character.</a></div></td></tr>
 <tr><td id="3" class="info"><b>03</b></td><td id="「沈黙エエエ」" colspan="2" class="title">「沈黙エエエ」<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=IF_ALL'S_POOR"><span title="搜索相似同人曲"></span></a></span></td><td class="time">10:00</td></tr></tbody></table>
+
 
 
 ## 其他信息
   
 专辑名是“April Fools'”（愚人节）的易位构词。
   
+
 
 ## 评论
 

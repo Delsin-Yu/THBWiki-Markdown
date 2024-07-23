@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-あなたのことが知りたい：_REIMU_SIDE封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/8/86/%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AE%E3%81%93%E3%81%A8%E3%81%8C%E7%9F%A5%E3%82%8A%E3%81%9F%E3%81%84%EF%BC%9A_REIMU_SIDE%E5%B0%81%E9%9D%A2.jpg/165px-%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AE%E3%81%93%E3%81%A8%E3%81%8C%E7%9F%A5%E3%82%8A%E3%81%9F%E3%81%84%EF%BC%9A_REIMU_SIDE%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="165" height="224" srcset="https://upload.thwiki.cc/thumb/8/86/%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AE%E3%81%93%E3%81%A8%E3%81%8C%E7%9F%A5%E3%82%8A%E3%81%9F%E3%81%84%EF%BC%9A_REIMU_SIDE%E5%B0%81%E9%9D%A2.jpg/248px-%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AE%E3%81%93%E3%81%A8%E3%81%8C%E7%9F%A5%E3%82%8A%E3%81%9F%E3%81%84%EF%BC%9A_REIMU_SIDE%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/8/86/%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AE%E3%81%93%E3%81%A8%E3%81%8C%E7%9F%A5%E3%82%8A%E3%81%9F%E3%81%84%EF%BC%9A_REIMU_SIDE%E5%B0%81%E9%9D%A2.jpg/331px-%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AE%E3%81%93%E3%81%A8%E3%81%8C%E7%9F%A5%E3%82%8A%E3%81%9F%E3%81%84%EF%BC%9A_REIMU_SIDE%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="524" data-file-height="709"></a><div class="cover-char">角色：<a href="./爱丽丝·玛格特洛依德.md" title="爱丽丝·玛格特洛依德">爱丽丝·玛格特洛依德</a>，<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></div></td>
@@ -18,6 +19,7 @@
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://miluda.booth.pm/items/238">Booth</a></td></tr></tbody></table>
 
 
+
 ## Staff
 Comic &amp; Cover Art
 : Miluda （[太陽光工場](./太陽光工場.md)）
@@ -27,6 +29,7 @@ Guest Illustration
 : 祤 （[Fragment.](http://fragment.o-oi.net/)）
 : KRBI （[BAT★STAR](http://batstar.web.fc2.com/)）
 : [Rabid Potato](http://rabidpotato.com/) （已经失效）
+
 
 ## 评论
 ```

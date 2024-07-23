@@ -4,6 +4,7 @@
 
 东方DOTS玩家社群
 
+
 ## 英雄
   
 注：以下为简称，省略了“npc_dota_hero_”，全称例：npc_dota_hero_slark（射命丸文）
@@ -373,6 +374,7 @@
 <td>zuus</td>
 <td>八坂神奈子
 </td></tr></tbody></table>
+
 
 
 ## 物品

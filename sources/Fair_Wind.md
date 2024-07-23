@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Fair_Wind封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/5/58/Fair_Wind%E5%B0%81%E9%9D%A2.jpg/156px-Fair_Wind%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="156" height="224" srcset="https://upload.thwiki.cc/thumb/5/58/Fair_Wind%E5%B0%81%E9%9D%A2.jpg/234px-Fair_Wind%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/5/58/Fair_Wind%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="268" data-file-height="384"></a><div class="cover-char">角色：<a href="./东风谷早苗.md" title="东风谷早苗">东风谷早苗</a></div></td>
@@ -14,9 +15,12 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://kurudaz.exblog.jp/8668715/">https://kurudaz.exblog.jp/8668715/</a></td></tr></tbody></table>
 
 Fair Wind（同人志，Midnight Dessert，2008） - 2008年5月31日 由 Midnight Dessert 于 东方绚樱祭3 发布的漫画同人志，B5尺寸一共32页，登场人物有 东风谷早苗，分级为 一般向
+
 ## 预览
+
 ## Staff
 - kurudaz (未找到链接)
+
 
 ## 评论
 

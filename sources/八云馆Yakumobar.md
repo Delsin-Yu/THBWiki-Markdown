@@ -4,7 +4,8 @@
 
 八云馆Yakumobar ，于 2022 年成立，主要制作 周边 的中国大陆同人社团，主催是 八云一郎，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -20,12 +21,14 @@
 
 
 
+
 ## 社团信息
 [](./文件-八云馆Yakumobarlogo.png.md)  [](./文件-八云馆Yakumobarlogo.png.md)logo
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> 八云馆Yakumobar </td></tr><tr><td><b>中文名称</b></td><td>八云馆</td></tr><tr><td><b>主要作品类型</b></td><td>周边</td></tr><tr><td><b>成立时间</b></td><td>2022-11-19</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=%E5%85%AB%E4%BA%91%E4%B8%80%E9%83%8E&amp;action=edit&amp;redlink=1" class="new" title="八云一郎（页面不存在）">八云一郎</a> </td></tr><tr><td><b>地区</b></td><td>中国大陆</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="https://space.bilibili.com/2146027596">https://space.bilibili.com/2146027596</a> 哔哩哔哩<br><a rel="nofollow" class="external free" href="https://weibo.com/u/7747606549">https://weibo.com/u/7747606549</a> 微博</td></tr></tbody></table>
 
 八云馆Yakumobar（同人社团，周边社团） - 八云馆Yakumobar ，于 2022 年成立，主要制作 周边 的中国大陆同人社团，主催是 八云一郎，当前状态为 活动
+
 ## 成员名单
   
 八云一郎
@@ -35,7 +38,9 @@
 QQ:2248485486
 ```
 
+
 ## 作品列表
+
 ### 周边
 [](./八云馆Yakumobar-最棒的礼物.md)[八云馆Yakumobar/最棒的礼物](./八云馆Yakumobar-最棒的礼物.md)首发日期：2023-04-30 （长安THONLY-星祈景风 (未找到链接)）衣服 （一般向）围裙[](./八云馆Yakumobar-我们的日常.md)[八云馆Yakumobar/我们的日常](./八云馆Yakumobar-我们的日常.md)首发日期：2023-03-04 （北京THP-帝都兔踊宴 (未找到链接)）色纸 （一般向）210mmx128mm[](./八云馆Yakumobar-角色日书签.md)[八云馆Yakumobar/角色日书签](./八云馆Yakumobar-角色日书签.md)首发日期：未知 书签 （一般向）一套15元，单买7元[](./八云馆Yakumobar-汤系列钥匙扣.md)[八云馆Yakumobar/汤系列钥匙扣](./八云馆Yakumobar-汤系列钥匙扣.md)首发日期：2023-04-30 （长安THONLY-星祈景风 (未找到链接)）钥匙扣 （一般向）一件15元，一套40元八云馆Yakumobar/周年纪念挂画 (未找到链接)首发日期：未知 - 八云馆Yakumobar/八云蓝角色日透卡 (未找到链接)首发日期：未知 - 
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -48,6 +53,7 @@ QQ:2248485486
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458"></table>
+
 
 
 ## 参展信息

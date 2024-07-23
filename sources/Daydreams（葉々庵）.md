@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Daydreams（葉々庵）封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/b/b6/Daydreams%EF%BC%88%E8%91%89%E3%80%85%E5%BA%B5%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/157px-Daydreams%EF%BC%88%E8%91%89%E3%80%85%E5%BA%B5%EF%BC%89%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="157" height="224" srcset="https://upload.thwiki.cc/thumb/b/b6/Daydreams%EF%BC%88%E8%91%89%E3%80%85%E5%BA%B5%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/236px-Daydreams%EF%BC%88%E8%91%89%E3%80%85%E5%BA%B5%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/b/b6/Daydreams%EF%BC%88%E8%91%89%E3%80%85%E5%BA%B5%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/314px-Daydreams%EF%BC%88%E8%91%89%E3%80%85%E5%BA%B5%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="316" data-file-height="450"></a><div class="cover-char">角色：<a href="./四季映姬·夜摩仙那度.md" title="四季映姬·夜摩仙那度">四季映姬·夜摩仙那度</a>，<a href="./小野塚小町.md" title="小野塚小町">小野塚小町</a></div></td>
@@ -18,9 +19,11 @@ Daydreams（同人志，葉々庵，2019） - 2019年5月5日 由 葉々庵 于 
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=505950">蜜瓜特典</a></td></tr></tbody></table>
 
 
+
 ## Staff
 主催
 : [きつね丸](./きつね丸.md)
+
 
 ## 评论
   

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-ユーロバカ一代_VERSION_0.5封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/b/b6/%E3%83%A6%E3%83%BC%E3%83%AD%E3%83%90%E3%82%AB%E4%B8%80%E4%BB%A3_VERSION_0.5%E5%B0%81%E9%9D%A2.jpg/224px-%E3%83%A6%E3%83%BC%E3%83%AD%E3%83%90%E3%82%AB%E4%B8%80%E4%BB%A3_VERSION_0.5%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="224" srcset="https://upload.thwiki.cc/thumb/b/b6/%E3%83%A6%E3%83%BC%E3%83%AD%E3%83%90%E3%82%AB%E4%B8%80%E4%BB%A3_VERSION_0.5%E5%B0%81%E9%9D%A2.jpg/336px-%E3%83%A6%E3%83%BC%E3%83%AD%E3%83%90%E3%82%AB%E4%B8%80%E4%BB%A3_VERSION_0.5%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/b/b6/%E3%83%A6%E3%83%BC%E3%83%AD%E3%83%90%E3%82%AB%E4%B8%80%E4%BB%A3_VERSION_0.5%E5%B0%81%E9%9D%A2.jpg/448px-%E3%83%A6%E3%83%BC%E3%83%AD%E3%83%90%E3%82%AB%E4%B8%80%E4%BB%A3_VERSION_0.5%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1400" data-file-height="1400"></a><div class="cover-char">角色：<a href="/index.php?title=%E5%8E%9F%E5%88%9B%E8%A7%92%E8%89%B2&amp;action=edit&amp;redlink=1" class="new" title="原创角色（页面不存在）">原创角色</a></div></td>
@@ -17,11 +18,14 @@
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://eurobeatunion.booth.pm/items/2068487">Booth</a></td></tr></tbody></table>
 
 
+
 ## Staff
+
 ## 试听
   
 暂不支援此类型
   
+
 
 ## 曲目列表
 
@@ -56,6 +60,7 @@
 <tr><td id="29" class="info"><b>29</b></td><td id="押忍!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!" colspan="2" class="title">押忍!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=ユーロバカ一代_VERSION_0.5"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr>
 <tr><td id="30" class="info"><b>30</b></td><td id="ユーロの道は_”押忍”_の道ッッッ" colspan="2" class="title">ユーロの道は ”押忍” の道ッッッ<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=ユーロバカ一代_VERSION_0.5"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr>
 <tr><td id="31" class="info"><b>31</b></td><td id="DJ_Command_+_FN2_+_ネ申" colspan="2" class="title">DJ Command + FN2 + ネ申<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=ユーロバカ一代_VERSION_0.5"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr></tbody></table>
+
 
 
 ## 评论

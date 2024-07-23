@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Spoil_上封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/6/6e/Spoil_%E4%B8%8A%E5%B0%81%E9%9D%A2.jpg/161px-Spoil_%E4%B8%8A%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="161" height="224" srcset="https://upload.thwiki.cc/thumb/6/6e/Spoil_%E4%B8%8A%E5%B0%81%E9%9D%A2.jpg/241px-Spoil_%E4%B8%8A%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/6/6e/Spoil_%E4%B8%8A%E5%B0%81%E9%9D%A2.jpg/322px-Spoil_%E4%B8%8A%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="647" data-file-height="900"></a><div class="cover-char">角色：<a href="./射命丸文.md" title="射命丸文">射命丸文</a>，<a href="./姬海棠果.md" title="姬海棠果">姬海棠果</a>，<a href="./东风谷早苗.md" title="东风谷早苗">东风谷早苗</a>，<a href="./洩矢诹访子.md" title="洩矢诹访子">洩矢诹访子</a>，<a href="./八坂神奈子.md" title="八坂神奈子">八坂神奈子</a></div></td>
@@ -18,9 +19,12 @@ Spoil 上（同人志，砂亭，2016） - 2016年10月9日 由 砂亭 于 东�
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=185701">蜜瓜</a>，<a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=238452">蜜瓜DL版</a>，<a rel="nofollow" class="external text" href="https://ec.toranoana.jp/tora_r/ec/item/040030464630">虎穴</a>，<a rel="nofollow" class="external text" href="https://s73d.booth.pm/items/346250">Booth</a>，<a rel="nofollow" class="external text" href="http://www.dlsite.com/home/work/=/product_id/RJ186806.html">DLsite</a></td></tr></tbody></table>
 
 
+
 ## 预览
+
 ## Staff
 - 砂(s73d) (未找到链接)
+
 
 ## 评论
 

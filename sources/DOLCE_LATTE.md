@@ -4,7 +4,8 @@
 
 DOLCE LATTE ，主要制作 同人志 的日本同人社团，主催是 龍胆祭，当前状态为 转入非东方
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -20,16 +21,20 @@ DOLCE LATTE ，主要制作 同人志 的日本同人社团，主催是 龍胆�
 
 
 
+
 ## 社团信息
 [](./文件-DOLCE_LATTEbanner.jpg.md)  [](./文件-DOLCE_LATTEbanner.jpg.md)banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> DOLCE LATTE </td></tr><tr><td><b>主要作品类型</b></td><td>同人志</td></tr><tr><td><b>当前状态</b></td><td>转入非东方</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=%E9%BE%8D%E8%83%86%E7%A5%AD&amp;action=edit&amp;redlink=1" class="new" title="龍胆祭（页面不存在）">龍胆祭</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="https://www.pixiv.net/users/180920">https://www.pixiv.net/users/180920</a> <br><a rel="nofollow" class="external free" href="https://twitter.com/m_treee">https://twitter.com/m_treee</a><br><a rel="nofollow" class="external free" href="https://dolcelatte.blog71.fc2.com/">https://dolcelatte.blog71.fc2.com/</a></td></tr></tbody></table>
 
 DOLCE LATTE（同人社团，同人志社团） - DOLCE LATTE ，主要制作 同人志 的日本同人社团，主催是 龍胆祭，当前状态为 转入非东方
+
 ## 成员名单
 - 龍胆祭 (未找到链接)
 
+
 ## 作品列表
+
 ### 同人志
 [](./WHATEVER.md)[WHATEVER](./WHATEVER.md)首发日期：2008-06-08 （Comic Communication12 (未找到链接)）漫画 （一般向） 16&#160;页[](./夕霧草.md)[夕霧草](./夕霧草.md)首发日期：2008-09-07 漫画 （一般向） 12&#160;页[](./朝顔.md)[朝顔](./朝顔.md)首发日期：2008-11-02 （東方紅楼夢4 (未找到链接)）漫画 （一般向） 20&#160;页[](./月下美人（DOLCE_LATTE）.md)[月下美人](./月下美人（DOLCE_LATTE）.md)首发日期：2008-12-29 （Comic Market 75 (未找到链接)）漫画 （一般向） 60&#160;页[](./蓮華草.md)[蓮華草](./蓮華草.md)首发日期：2009-03-08 （第六回 博麗神社例大祭 (未找到链接)）漫画 （一般向） 40&#160;页[](./梅枝_-紅梅-.md)[梅枝 -紅梅-](./梅枝_-紅梅-.md)首发日期：2009-10-11 （東方紅楼夢5 (未找到链接)）漫画 （一般向） 76&#160;页[](./柚子化粧.md)[柚子化粧](./柚子化粧.md)首发日期：2009-12-30 （Comic Market 77 (未找到链接)）漫画 （一般向）B5&#160;尺寸 36&#160;页[](./梅枝_二-輪違-.md)[梅枝 二-輪違-](./梅枝_二-輪違-.md)首发日期：2010-03-14 （第七回 博麗神社例大祭 (未找到链接)）漫画 （一般向） 60&#160;页暁ヲ覚エズ 封面图片 (未找到链接)[暁ヲ覚エズ](./暁ヲ覚エズ.md)首发日期：2010-04-29 （大⑨州東方祭2 (未找到链接)）漫画 （一般向）[](./梅枝_三-白梅-.md)[梅枝 三-白梅-](./梅枝_三-白梅-.md)首发日期：2010-08-14 （Comic Market 78 (未找到链接)）漫画 （一般向）B5&#160;尺寸 88&#160;页[](./ことはあそび.md)[ことはあそび](./ことはあそび.md)首发日期：2010-10-11 （東方紅楼夢6 (未找到链接)）漫画 （一般向）B5&#160;尺寸 36&#160;页[](./アカイハナ_シロイハナ.md)[アカイハナ シロイハナ](./アカイハナ_シロイハナ.md)首发日期：2010-12-30 （Comic Market 79 (未找到链接)）漫画 （一般向）B5&#160;尺寸 44&#160;页[](./光芒小夜曲.md)[光芒小夜曲](./光芒小夜曲.md)首发日期：2011-03-13 （Air第八回博麗神社例大祭 (未找到链接)）漫画 （一般向）B5&#160;尺寸 52&#160;页[](./スタンバってました.md)[スタンバってました](./スタンバってました.md)首发日期：2011-05-08 （第八回 博麗神社例大祭 (未找到链接)）漫画 （一般向）B5&#160;尺寸 12&#160;页[](./このろくでもない素晴らしい世界.md)[このろくでもない素晴らしい世界](./このろくでもない素晴らしい世界.md)首发日期：2011-08-13 （Comic Market 80 (未找到链接)）漫画 （一般向） 56&#160;页[](./1000001回目の。.md)[1000001回目の。](./1000001回目の。.md)首发日期：2011-10-16 （東方紅楼夢7 (未找到链接)）漫画 （一般向）B5&#160;尺寸 36&#160;页[](./PRANZO.md)[PRANZO](./PRANZO.md)首发日期：2011-12-30 （Comic Market 81 (未找到链接)）漫画 （一般向） 20&#160;页[](./はねいちもんめ_前編.md)[はねいちもんめ 前編](./はねいちもんめ_前編.md)首发日期：2012-08-11 （Comic Market 82 (未找到链接)）漫画 （一般向）B5&#160;尺寸 68&#160;页[](./あきゅ～びずむ！.md)[あきゅ～びずむ！](./あきゅ～びずむ！.md)首发日期：2012-10-07 （東方紅楼夢8 (未找到链接)）漫画 （一般向）B5&#160;尺寸 24&#160;页[](./さざんか賛歌.md)[さざんか賛歌](./さざんか賛歌.md)首发日期：2012-12-30 （Comic Market 83 (未找到链接)）漫画 （一般向）B5&#160;尺寸 32&#160;页[](./はねいちもんめ_中編.md)[はねいちもんめ 中編](./はねいちもんめ_中編.md)首发日期：2013-05-26 （第十回 博麗神社例大祭 (未找到链接)）漫画 （一般向）B5&#160;尺寸 60&#160;页[](./Natural_Gensokyo_Marriage.md)[Natural Gensokyo Marriage](./Natural_Gensokyo_Marriage.md)首发日期：2013-08-12 （Comic Market 84 (未找到链接)）漫画 （一般向）B5&#160;尺寸 24&#160;页[](./オオカミトライアングル.md)[オオカミトライアングル](./オオカミトライアングル.md)首发日期：2013-10-13 （東方紅楼夢9 (未找到链接)）漫画 （一般向）B5&#160;尺寸 40&#160;页[](./はねいちもんめ_後編.md)[はねいちもんめ 後編](./はねいちもんめ_後編.md)首发日期：2013-12-30 （Comic Market 85 (未找到链接)）漫画 （一般向）B5&#160;尺寸 80&#160;页[](./DOLCE_LATTE_mokou_assort_book.md)[DOLCE LATTE mokou assort book](./DOLCE_LATTE_mokou_assort_book.md)首发日期：2014-02-23 （滅罪寺院ヴォルケイノ1 (未找到链接)）画集 （一般向）B5&#160;尺寸 16&#160;页[](./あかつき＊あけぼの.md)[あかつき＊あけぼの](./あかつき＊あけぼの.md)首发日期：2014-05-11 （第十一回 博麗神社例大祭 (未找到链接)）漫画 （一般向）B5&#160;尺寸 32&#160;页[](./カサネイロメ_藍.md)[カサネイロメ 藍](./カサネイロメ_藍.md)首发日期：2014-08-16 （Comic Market 86 (未找到链接)）漫画 （一般向）B5&#160;尺寸 28&#160;页[](./M.C.I！.md)[M.C.I！](./M.C.I！.md)首发日期：2014-10-12 （東方紅楼夢10 (未找到链接)）画集 （一般向）B5&#160;尺寸 20&#160;页[](./カサネイロメ_緑.md)[カサネイロメ 緑](./カサネイロメ_緑.md)首发日期：2014-12-29 （Comic Market 87 (未找到链接)）漫画 （一般向）B5&#160;尺寸 52&#160;页[](./カサネイロメ_黄.md)[カサネイロメ 黄](./カサネイロメ_黄.md)首发日期：2015-05-10 （第十二回 博麗神社例大祭 (未找到链接)）漫画 （一般向）B5&#160;尺寸 48&#160;页[](./カサネイロメ_紅.md)[カサネイロメ 紅](./カサネイロメ_紅.md)首发日期：2015-08-14 （Comic Market 88 (未找到链接)）漫画 （一般向）B5&#160;尺寸 60&#160;页[](./TEA_TIME.md)[TEA TIME](./TEA_TIME.md)首发日期：2015-10-12 （求代目の紅茶会（第5回） (未找到链接)）画集 （一般向）B5&#160;尺寸 12&#160;页[](./聲.md)[聲](./聲.md)首发日期：2015-11-01 （東方紅楼夢11 (未找到链接)）漫画 （一般向）B5&#160;尺寸 20&#160;页ワンドロまとめ2015 封面图片 (未找到链接)[ワンドロまとめ2015](./ワンドロまとめ2015.md)首发日期：2015-12-30 （Comic Market 89 (未找到链接)）漫画 （一般向）[](./けいようしであそぼう.md)[けいようしであそぼう](./けいようしであそぼう.md)首发日期：2016-03-13 （東方名華祭10 (未找到链接)）漫画 （一般向）B5&#160;尺寸 16&#160;页[](./寺子屋活性化推進委員会を開催します。.md)[寺子屋活性化推進委員会を開催します。](./寺子屋活性化推進委員会を開催します。.md)首发日期：2016-05-08 （第十三回 博麗神社例大祭 (未找到链接)）漫画 （一般向）B5&#160;尺寸 20&#160;页[](./CHANGE_THE_WORLD（DOLCE_LATTE）.md)[CHANGE THE WORLD](./CHANGE_THE_WORLD（DOLCE_LATTE）.md)首发日期：2016-08-13 （Comic Market 90 (未找到链接)）漫画 （一般向）B5&#160;尺寸 20&#160;页
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -108,6 +113,7 @@ DOLCE LATTE（同人社团，同人志社团） - DOLCE LATTE ，主要制作 �
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 参展信息

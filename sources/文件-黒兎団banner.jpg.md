@@ -4,6 +4,7 @@
 
 社团LOGO | 黒兎団
 
+
 ## 摘要
   
 源地址：[direct image link](https://web.archive.org/web/20070815082612im_/http://kurousagidan.net/kurousa_b.jpg), [source page](https://web.archive.org/web/20070629235938/http://kurousagidan.net:80/about/about.html)

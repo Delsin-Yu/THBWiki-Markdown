@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-霧雨魔理沙合同誌_恋色白書～Magical_Sketch～封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/8/80/%E9%9C%A7%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%E5%90%88%E5%90%8C%E8%AA%8C_%E6%81%8B%E8%89%B2%E7%99%BD%E6%9B%B8%EF%BD%9EMagical_Sketch%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg/117px-%E9%9C%A7%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%E5%90%88%E5%90%8C%E8%AA%8C_%E6%81%8B%E8%89%B2%E7%99%BD%E6%9B%B8%EF%BD%9EMagical_Sketch%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="117" height="168" srcset="https://upload.thwiki.cc/thumb/8/80/%E9%9C%A7%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%E5%90%88%E5%90%8C%E8%AA%8C_%E6%81%8B%E8%89%B2%E7%99%BD%E6%9B%B8%EF%BD%9EMagical_Sketch%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg/176px-%E9%9C%A7%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%E5%90%88%E5%90%8C%E8%AA%8C_%E6%81%8B%E8%89%B2%E7%99%BD%E6%9B%B8%EF%BD%9EMagical_Sketch%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/8/80/%E9%9C%A7%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%E5%90%88%E5%90%8C%E8%AA%8C_%E6%81%8B%E8%89%B2%E7%99%BD%E6%9B%B8%EF%BD%9EMagical_Sketch%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg/234px-%E9%9C%A7%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%E5%90%88%E5%90%8C%E8%AA%8C_%E6%81%8B%E8%89%B2%E7%99%BD%E6%9B%B8%EF%BD%9EMagical_Sketch%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="268" data-file-height="384"></a><div class="cover-char">角色：<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a></div></td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://www7a.biglobe.ne.jp/~aozora-market/marisa_goudou.html">http://www7a.biglobe.ne.jp/~aozora-market/marisa_goudou.html</a><br><span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span></td></tr></tbody></table>
 
 霧雨魔理沙合同誌 恋色白書～Magical Sketch～（同人志，蒼空市場，2007） - 2007年5月20日 由 蒼空市場 于 博丽神社例大祭4 发布的漫画/合同志同人志，一共212页，分级为 一般向
+
 ## Staff
 主催
 : 蒼 （[蒼空市場](./蒼空市場.md)）
@@ -52,6 +54,7 @@
 : 結城えいし （[月夜幻想](./月夜幻想.md)）
 : 由岐シュウカ （[るくしあ大陸](./るくしあ大陸.md)）
 : レイぽそ （[れいてぃ屋](./れいてぃ屋.md)）
+
 
 ## 评论
 

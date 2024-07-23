@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-OUTBREAK封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/8/83/OUTBREAK%E5%B0%81%E9%9D%A2.png/224px-OUTBREAK%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="224" height="224" srcset="https://upload.thwiki.cc/8/83/OUTBREAK%E5%B0%81%E9%9D%A2.png 1.5x" data-file-width="250" data-file-height="250"></a><div class="cover-char">角色：<a href="/index.php?title=%E5%8E%9F%E5%88%9B%E8%A7%92%E8%89%B2&amp;action=edit&amp;redlink=1" class="new" title="原创角色（页面不存在）">原创角色</a></div></td>
@@ -14,9 +15,11 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://lollol.client.jp/c78tokusetsu.html">http://lollol.client.jp/c78tokusetsu.html</a></td></tr></tbody></table>
 
 OUTBREAK（同人专辑，laughing out loud，2010） - 2010年8月14日 由 laughing out loud 于 Comic Market 78 发布的全长同人专辑，分级为 一般向
+
 ## Staff
 Illustration
 : ピロ水 (未找到链接) （まほ～びん (未找到链接)）
+
 
 ## 曲目列表
 
@@ -29,8 +32,9 @@ Illustration
 <tr><td id="7" class="info"><b>07</b></td><td id="Time_to_live" colspan="2" class="title">Time to live<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=OUTBREAK"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr>
 <tr><td id="8" class="info"><b>08</b></td><td id="Future_Gate" colspan="2" class="title">Future Gate<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=OUTBREAK"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr>
 <tr><td id="9" class="info"><b>09</b></td><td id="SUPERNOVA_-reach_for_ambient-" colspan="2" class="title">SUPERNOVA -reach for ambient-<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=OUTBREAK"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr>
-<tr><td id="10" class="info"><b>10</b></td><td id="砕月_-Remix-" colspan="2" class="title">砕月 -Remix-<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=砕月&amp;fromwiki=OUTBREAK"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=砕月&amp;fromwiki=OUTBREAK"><span></span></a></span><div class="ogmusic"><a href="/%E7%A0%95%E6%9C%88" class="mw-redirect" title="砕月">砕月</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E8%90%83%E6%A2%A6%E6%83%B3_%EF%BD%9E_Immaterial_and_Missing_Power." class="mw-redirect" title="东方萃梦想 ～ Immaterial and Missing Power.">东方萃梦想　～ Immaterial and Missing Power.</a></div></td></tr>
-<tr><td id="11" class="info"><b>11</b></td><td id="恋色マスタースパーク_-OUTBREAK_Mix-" colspan="2" class="title">恋色マスタースパーク -OUTBREAK Mix-<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=恋色マスタースパーク&amp;fromwiki=OUTBREAK"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=恋色マスタースパーク&amp;fromwiki=OUTBREAK"><span></span></a></span><div class="ogmusic"><a href="/%E6%81%8B%E8%89%B2%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%B9%E3%83%91%E3%83%BC%E3%82%AF" class="mw-redirect" title="恋色マスタースパーク">恋色マスタースパーク</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E6%B0%B8%E5%A4%9C%E6%8A%84_%EF%BD%9E_Imperishable_Night." class="mw-redirect" title="东方永夜抄 ～ Imperishable Night.">东方永夜抄　～ Imperishable Night.</a></div></td></tr></tbody></table>
+<tr><td id="10" class="info"><b>10</b></td><td id="砕月_-Remix-" colspan="2" class="title">砕月 -Remix-<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=砕月&amp;fromwiki=OUTBREAK"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=砕月&amp;fromwiki=OUTBREAK"><span></span></a></span><div class="ogmusic"><a href="./砕月.md" class="mw-redirect" title="砕月">砕月</a></div><div class="source"><a href="./东方萃梦想_～_Immaterial_and_Missing_Power..md" class="mw-redirect" title="东方萃梦想 ～ Immaterial and Missing Power.">东方萃梦想　～ Immaterial and Missing Power.</a></div></td></tr>
+<tr><td id="11" class="info"><b>11</b></td><td id="恋色マスタースパーク_-OUTBREAK_Mix-" colspan="2" class="title">恋色マスタースパーク -OUTBREAK Mix-<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=恋色マスタースパーク&amp;fromwiki=OUTBREAK"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=恋色マスタースパーク&amp;fromwiki=OUTBREAK"><span></span></a></span><div class="ogmusic"><a href="./恋色マスタースパーク.md" class="mw-redirect" title="恋色マスタースパーク">恋色マスタースパーク</a></div><div class="source"><a href="./东方永夜抄_～_Imperishable_Night..md" class="mw-redirect" title="东方永夜抄 ～ Imperishable Night.">东方永夜抄　～ Imperishable Night.</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

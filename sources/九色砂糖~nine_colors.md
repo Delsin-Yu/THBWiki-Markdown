@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-九色砂糖~nine_colors封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/e/e7/%E4%B9%9D%E8%89%B2%E7%A0%82%E7%B3%96~nine_colors%E5%B0%81%E9%9D%A2.jpg/171px-%E4%B9%9D%E8%89%B2%E7%A0%82%E7%B3%96~nine_colors%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="171" height="224" srcset="https://upload.thwiki.cc/thumb/e/e7/%E4%B9%9D%E8%89%B2%E7%A0%82%E7%B3%96~nine_colors%E5%B0%81%E9%9D%A2.jpg/257px-%E4%B9%9D%E8%89%B2%E7%A0%82%E7%B3%96~nine_colors%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/e/e7/%E4%B9%9D%E8%89%B2%E7%A0%82%E7%B3%96~nine_colors%E5%B0%81%E9%9D%A2.jpg/343px-%E4%B9%9D%E8%89%B2%E7%A0%82%E7%B3%96~nine_colors%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="475" data-file-height="620"></a><div class="cover-char">角色：<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a>，<a href="./爱丽丝·玛格特洛依德.md" title="爱丽丝·玛格特洛依德">爱丽丝·玛格特洛依德</a></div></td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.bilibili.com/video/av673882/">https://www.bilibili.com/video/av673882/</a><br><a rel="nofollow" class="external free" href="https://doujin.bgm.tv/subject/16060">https://doujin.bgm.tv/subject/16060</a></td></tr><tr><td class="label">备注</td><td colspan="2">以<b>爱丽丝总攻会</b>名义发布</td></tr></tbody></table>
 
 九色砂糖~nine colors（同人志，星光現象-Asterism-，2013） - 2013年7月27日 由 星光現象-Asterism- 于 Fancy Frontier22 发布的漫画/合同志同人志，B5尺寸一共176页，登场人物有 雾雨魔理沙、爱丽丝·玛格特洛依德，分级为 一般向
+
 ## Staff
 主催
 : 板车C (未找到链接)，haru晴 (未找到链接)，豆露 (未找到链接)
@@ -86,6 +88,7 @@ PV音乐
 Special Thanks
 : 棍儿哥，Shizuku雫，Huey，浪灵，GEN，初空，祤，美少女催催墨鱼酱，Carin_かりん
 
+
 ## PV
   
 
@@ -96,6 +99,7 @@ Special Thanks
 <tr><th style="text-align: center;"><a class="bilibili-title external text" target="_blank" rel="nofollow" style="margin: 0 0.4em 0 0.2em;"></a><input type="button" class="bilibili-toggle" value="显示视频" style="float: right;"></th></tr>
 <tr class="bilibili-video" style="display: none;"><td></td></tr>
 </table>
+
 
 
 

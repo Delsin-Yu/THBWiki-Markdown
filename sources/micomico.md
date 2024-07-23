@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-micomico封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/e/ed/micomico%E5%B0%81%E9%9D%A2.jpg/119px-micomico%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="119" height="168" srcset="https://upload.thwiki.cc/thumb/e/ed/micomico%E5%B0%81%E9%9D%A2.jpg/178px-micomico%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/e/ed/micomico%E5%B0%81%E9%9D%A2.jpg/237px-micomico%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="534" data-file-height="756"></a><div class="cover-char">角色：<a href="./苏我屠自古.md" title="苏我屠自古">苏我屠自古</a>，<a href="./丰聪耳神子.md" title="丰聪耳神子">丰聪耳神子</a>，<a href="./物部布都.md" title="物部布都">物部布都</a></div></td>
@@ -18,8 +19,10 @@ micomico（同人志，雛粉餅＊，2011） - 2011年11月20日 由 雛粉餅�
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://ec.toranoana.jp/tora_r/ec/item/040030008490">虎穴</a></td></tr></tbody></table>
 
 
+
 ## Staff
 - [餅ひな子](./餅ひな子.md)
+
 
 ## 评论
 

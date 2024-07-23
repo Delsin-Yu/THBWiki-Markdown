@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-スパ_in_キング封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/3/34/%E3%82%B9%E3%83%91_in_%E3%82%AD%E3%83%B3%E3%82%B0%E5%B0%81%E9%9D%A2.jpg/144px-%E3%82%B9%E3%83%91_in_%E3%82%AD%E3%83%B3%E3%82%B0%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="144" height="196" srcset="https://upload.thwiki.cc/thumb/3/34/%E3%82%B9%E3%83%91_in_%E3%82%AD%E3%83%B3%E3%82%B0%E5%B0%81%E9%9D%A2.jpg/215px-%E3%82%B9%E3%83%91_in_%E3%82%AD%E3%83%B3%E3%82%B0%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/3/34/%E3%82%B9%E3%83%91_in_%E3%82%AD%E3%83%B3%E3%82%B0%E5%B0%81%E9%9D%A2.jpg/287px-%E3%82%B9%E3%83%91_in_%E3%82%AD%E3%83%B3%E3%82%B0%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="440" data-file-height="600"></a><div class="cover-char">角色：<a href="./帕秋莉·诺蕾姬.md" title="帕秋莉·诺蕾姬">帕秋莉·诺蕾姬</a>，<a href="./爱丽丝·玛格特洛依德.md" title="爱丽丝·玛格特洛依德">爱丽丝·玛格特洛依德</a>，<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=23971627">https://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=23971627</a></td></tr></tbody></table>
 
 スパ in キング（同人志，犬屋敷！，2011） - 2011年12月30日 由 犬屋敷！ 于 Comic Market 81 发布的漫画同人志，B5尺寸一共26页，分级为 一般向
+
 ## Staff
 - まゆげ犬 (未找到链接)
+
 
 ## 评论
 

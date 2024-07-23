@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-KOROMOGAE封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/1/1d/KOROMOGAE%E5%B0%81%E9%9D%A2.png/139px-KOROMOGAE%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="139" height="196" srcset="https://upload.thwiki.cc/thumb/1/1d/KOROMOGAE%E5%B0%81%E9%9D%A2.png/208px-KOROMOGAE%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/1/1d/KOROMOGAE%E5%B0%81%E9%9D%A2.png/278px-KOROMOGAE%E5%B0%81%E9%9D%A2.png 2x" data-file-width="600" data-file-height="846"></a><div class="cover-char">角色：<a href="./古明地觉.md" title="古明地觉">古明地觉</a></div></td>
@@ -14,9 +15,12 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/xxminoruxx/status/548791737666125824">https://twitter.com/xxminoruxx/status/548791737666125824</a><br><a rel="nofollow" class="external free" href="http://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=47479283">http://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=47479283</a><br><span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><small>（无缓存页面）</small></td></tr></tbody></table>
 
 KOROMOGAE（同人志，NERCO，2014） - 2014年12月29日 由 NERCO 于 Comic Market 87 发布的画集同人志，B5尺寸一共20页，分级为 一般向
+
 ## 预览
+
 ## Staff
 - 恋河ミノル (未找到链接)
+
 
 ## 评论
 

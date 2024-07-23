@@ -18,6 +18,7 @@
 
 
 </center>
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=ROCKESTRANCE%E5%B0%81%E9%9D%A2.jpg" class="new" title="文件:ROCKESTRANCE封面.jpg">封面图片</a><div class="cover-char">角色：<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a></div></td>
@@ -26,18 +27,22 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/paragunasatsuki/status/413167236686180352">https://twitter.com/paragunasatsuki/status/413167236686180352</a><br><a rel="nofollow" class="external free" href="https://twitter.com/paragunasatsuki/status/415756773404856321">https://twitter.com/paragunasatsuki/status/415756773404856321</a></td></tr></tbody></table>
 
 ROCKESTRANCE（同人专辑，NATSUKI RECORDS，2013） - 2013年12月28日 由 NATSUKI RECORDS 于 Comic Frontier 3 发布的EP同人专辑，分级为 一般向
+
 ## Staff
 Illustration
 : Dunceney （[Pixiv ID: 5944871](https://www.pixiv.net/users/5944871)）
+
 
 ## 试听
   
 暂不支援此类型
   
 
+
 ## 曲目列表
 
 <table></table>
+
 
 
 ## 评论

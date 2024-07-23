@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-静-Silence,_Shizuoka,_and_so_on.封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/f/fd/%E9%9D%99-Silence%2C_Shizuoka%2C_and_so_on.%E5%B0%81%E9%9D%A2.jpg/143px-%E9%9D%99-Silence%2C_Shizuoka%2C_and_so_on.%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="143" height="196" srcset="https://upload.thwiki.cc/thumb/f/fd/%E9%9D%99-Silence%2C_Shizuoka%2C_and_so_on.%E5%B0%81%E9%9D%A2.jpg/215px-%E9%9D%99-Silence%2C_Shizuoka%2C_and_so_on.%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/f/fd/%E9%9D%99-Silence%2C_Shizuoka%2C_and_so_on.%E5%B0%81%E9%9D%A2.jpg/287px-%E9%9D%99-Silence%2C_Shizuoka%2C_and_so_on.%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1506" data-file-height="2056"></a><div class="cover-char">角色：<a href="./宇佐见莲子.md" title="宇佐见莲子">宇佐见莲子</a>，<a href="./玛艾露贝莉·赫恩.md" title="玛艾露贝莉·赫恩">玛艾露贝莉·赫恩</a></div></td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/puwawagawa/status/1373126591119650816">https://twitter.com/puwawagawa/status/1373126591119650816</a><br><a rel="nofollow" class="external free" href="https://twitter.com/puwawagawa/status/1373197642545602562">https://twitter.com/puwawagawa/status/1373197642545602562</a></td></tr></tbody></table>
 
 静-Silence, Shizuoka, and so on.（同人志，ふーせんがくだん，2021） - 2021年3月21日 由 ふーせんがくだん 于 博丽神社例大祭18 发布的合同志/小说同人志，文库版尺寸一共66页，分级为 一般向
+
 ## Staff
   
  **ある音楽の話** 
@@ -43,6 +45,7 @@ ___
 
 封面
 : 柏森たま。 （[Twitter: @tama0104](https://twitter.com/tama0104) / [Youtube](https://www.youtube.com/channel/UC0ZhyV7tMSblGsyM-AKEmZw)）
+
 
 ## 评论
   

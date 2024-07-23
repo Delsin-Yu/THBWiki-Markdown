@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-LOTUS_LAND_LIFE_＃1_Welcome_to_Lotus_Land封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/8/89/LOTUS_LAND_LIFE_%EF%BC%831_Welcome_to_Lotus_Land%E5%B0%81%E9%9D%A2.jpg/157px-LOTUS_LAND_LIFE_%EF%BC%831_Welcome_to_Lotus_Land%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="157" height="224" srcset="https://upload.thwiki.cc/thumb/8/89/LOTUS_LAND_LIFE_%EF%BC%831_Welcome_to_Lotus_Land%E5%B0%81%E9%9D%A2.jpg/235px-LOTUS_LAND_LIFE_%EF%BC%831_Welcome_to_Lotus_Land%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/8/89/LOTUS_LAND_LIFE_%EF%BC%831_Welcome_to_Lotus_Land%E5%B0%81%E9%9D%A2.jpg/314px-LOTUS_LAND_LIFE_%EF%BC%831_Welcome_to_Lotus_Land%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="820" data-file-height="1171"></a><div class="cover-char">角色：<a href="./东风谷早苗.md" title="东风谷早苗">东风谷早苗</a></div></td>
@@ -14,9 +15,12 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/53038688">https://www.pixiv.net/artworks/53038688</a></td></tr></tbody></table>
 
 LOTUS LAND LIFE ＃1 Welcome to Lotus Land（同人志，球体の杜，2015） - 2015年10月18日 由 球体の杜 于 博丽神社秋季例大祭2 发布的漫画同人志，A5尺寸一共44页，登场人物有 东风谷早苗、博丽灵梦、雾雨魔理沙、上白泽慧音，分级为 一般向
+
 ## 预览
+
 ## Staff
 - あかいわ (未找到链接)
+
 
 ## 评论
 

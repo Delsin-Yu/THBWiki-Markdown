@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-PERFECT_WORLD_The_Another_Edition封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/5/50/PERFECT_WORLD_The_Another_Edition%E5%B0%81%E9%9D%A2.jpg/159px-PERFECT_WORLD_The_Another_Edition%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="159" height="224" srcset="https://upload.thwiki.cc/thumb/5/50/PERFECT_WORLD_The_Another_Edition%E5%B0%81%E9%9D%A2.jpg/239px-PERFECT_WORLD_The_Another_Edition%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/5/50/PERFECT_WORLD_The_Another_Edition%E5%B0%81%E9%9D%A2.jpg/318px-PERFECT_WORLD_The_Another_Edition%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="800" data-file-height="1125"></a><div class="cover-char">角色：<a href="./鬼人正邪.md" title="鬼人正邪">鬼人正邪</a>，<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>，<a href="./九十九弁弁.md" title="九十九弁弁">九十九弁弁</a>，<a href="./九十九八桥.md" title="九十九八桥">九十九八桥</a>，<a href="./堀川雷鼓.md" title="堀川雷鼓">堀川雷鼓</a>，<a href="./少名针妙丸.md" title="少名针妙丸">少名针妙丸</a></div></td>
@@ -18,9 +19,12 @@ PERFECT WORLD The Another Edition（同人志，シュガレット，2014） - 2
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="http://www.dlsite.com/home/work/=/product_id/RJ147568.html">DLsite</a></td></tr></tbody></table>
 
 
+
 ## 预览
+
 ## Staff
 - 秋沙 (未找到链接)
+
 
 ## 评论
 

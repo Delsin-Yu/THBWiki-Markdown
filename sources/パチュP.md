@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-パチュP封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/6/66/%E3%83%91%E3%83%81%E3%83%A5P%E5%B0%81%E9%9D%A2.jpg/161px-%E3%83%91%E3%83%81%E3%83%A5P%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="161" height="224" srcset="https://upload.thwiki.cc/thumb/6/66/%E3%83%91%E3%83%81%E3%83%A5P%E5%B0%81%E9%9D%A2.jpg/241px-%E3%83%91%E3%83%81%E3%83%A5P%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/6/66/%E3%83%91%E3%83%81%E3%83%A5P%E5%B0%81%E9%9D%A2.jpg/322px-%E3%83%91%E3%83%81%E3%83%A5P%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="800" data-file-height="1113"></a><div class="cover-char">角色：<a href="./帕秋莉·诺蕾姬.md" title="帕秋莉·诺蕾姬">帕秋莉·诺蕾姬</a>，<a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a>，<a href="./小恶魔.md" title="小恶魔">小恶魔</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=76097708">https://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=76097708</a></td></tr></tbody></table>
 
 パチュP（同人志，なるこれぷしー，2019） - 2019年8月12日 由 なるこれぷしー 于 Comic Market 96 发布的漫画同人志，B5尺寸一共24页，登场人物有 帕秋莉·诺蕾姬、蕾米莉亚·斯卡蕾特、小恶魔、雾雨魔理沙、爱丽丝·玛格特洛依德、琪露诺，分级为 一般向
+
 ## Staff
 - ふかぢあ
+
 
 ## 评论
 

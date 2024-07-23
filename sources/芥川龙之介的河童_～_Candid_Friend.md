@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -39,11 +40,13 @@
 
 
 
+
 ## 基本信息
 
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">芥川龍之介の河童　～ Candid Friend</td></tr><tr><td><b>译名</b></td><td>芥川龙之介的河童 ～ Candid Friend</td></tr><tr><td><b>英文译名</b></td><td>Akutagawa Ryuunosuke's "Kappa" ~ Candid Friend</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 芥川龙之介的河童 ～ Candid Friend（曲目） - 由 ZUN 创作的官方曲目，原名 芥川龍之介の河童　～ Candid Friend
+
 ## 出现作品
 
 <table>
@@ -60,7 +63,9 @@
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 东方风神录
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th10_07.mp3.md" title="文件:th10 07.mp3">th10_07.mp3</a><br><audio src="https://upload.thwiki.cc/4/4e/th10_07.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>BGM\th10_07.wav</td></tr><tr><td><b>BGMForAll</b></td><td><div class="mw-collapsible mw-collapsed">
@@ -69,6 +74,7 @@
 <div class="mw-collapsible-content">BGM = 芥川龍之介の河童 ～ Candid Friend, 0x7176A10, 0x1AA800, 0x7321210, 0x16EDD00</div>
 </div>
 </td></tr></tbody></table>
+
 
 
 ### 暗黑能乐集心绮楼
@@ -84,12 +90,15 @@
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-TFM-006b_17.mp3.md" title="文件:TFM-006b 17.mp3">TFM-006b_17.mp3</a><br><audio src="https://upload.thwiki.cc/c/c3/TFM-006b_17.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track17.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>1:58</td></tr></tbody></table>
 
 
+
 ### 深秘乐曲集
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-TFM-007b_07.mp3.md" title="文件:TFM-007b 07.mp3">TFM-007b_07.mp3</a><br><audio src="https://upload.thwiki.cc/9/91/TFM-007b_07.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track07.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>4:39</td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 东方风神录
 - Music Room (未找到链接)
 
@@ -99,15 +108,20 @@
 　我一开始就想好了要让这首曲子可以听很长时间。  
 　最初听到时产生的印象，会随着曲子的进行而徐徐产生变化。  
 　听到最后的话应该会颇为揪心吧？
+
 ### 东方心绮楼
 - Music Room (未找到链接)
+
 
 ### 暗黑能乐集心绮楼
 - あきやまうに的文本 (未找到链接)
 
 人气爆发／为了让人知道进入了人气爆发状态，所以全员都是相似的编曲。时间也是固定20秒，所以拍速相同，小节数也相同。
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
   
  **芥川龍之介の河童　～ Candid Friend**  芥川龙之介的河童　～ Candid Friend
@@ -131,6 +145,7 @@
 - Friend
   - 朋友。
   - 在东方的故事中，河童与人类的关系很好[&#91;求闻史纪&#93;](./东方求闻史纪-河童.md)。
+
 
 
 ### 二次同人数据

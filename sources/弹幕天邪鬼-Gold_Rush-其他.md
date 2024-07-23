@@ -9,12 +9,14 @@
 
   
 
+
 ## 目录
 
 - [1 游戏内音乐](#游戏内音乐)
 - [2 场景标题](#场景标题)
 - [3 结算界面文字](#结算界面文字)
 - [4 注释](#注释)
+
 
 
 
@@ -34,9 +36,11 @@
 </td></tr></tbody></table>
 
 
+
 ## 场景标题
 
 <table><tbody><tr class="tt-content" id="场景标题-1" data-pos="&#91;&quot;\u573a\u666f\u6807\u9898&quot;,1&#93;"><td class="tt-ja" lang="ja"><div class="poem">シーンEX 異次元の金融緩和</div></td><td class="tt-zh" lang="zh"><div class="poem">场景ＥＸ 异次元的金融缓和<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">1</a></sup></div></td></tr><tr class="tt-content" id="场景标题-2" data-pos="&#91;&quot;\u573a\u666f\u6807\u9898&quot;,2&#93;"><td class="tt-ja" lang="ja"><div class="poem">守矢神社</div></td><td class="tt-zh" lang="zh"><div class="poem">守矢神社</div></td></tr></tbody></table>
+
 
 
 ## 结算界面文字

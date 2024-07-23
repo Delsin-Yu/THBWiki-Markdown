@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Ruler_of_the_time封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/d/d5/Ruler_of_the_time%E5%B0%81%E9%9D%A2.png/224px-Ruler_of_the_time%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="224" height="160" srcset="https://upload.thwiki.cc/thumb/d/d5/Ruler_of_the_time%E5%B0%81%E9%9D%A2.png/336px-Ruler_of_the_time%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/d/d5/Ruler_of_the_time%E5%B0%81%E9%9D%A2.png/448px-Ruler_of_the_time%E5%B0%81%E9%9D%A2.png 2x" data-file-width="1600" data-file-height="1140"></a><div class="cover-char">角色：<a href="/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C" title="十六夜咲夜">十六夜咲夜</a></div></td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://ngnl-rott.tumblr.com/">https://ngnl-rott.tumblr.com/</a></td></tr></tbody></table>
 
 Ruler of the time（同人专辑，No Gimmick No Life，2017） - 2017年10月15日 由 No Gimmick No Life 于 博丽神社秋季例大祭4 发布的单曲同人专辑，分级为 一般向
+
 ## Staff
   
  **Arrangement**   
@@ -36,15 +38,18 @@ Mastering
 Illustration
 : たかの椎矢 （[Website](http://silver.twinstar.jp/)）
 
+
 ## 试听
   
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/345854228&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=false"></iframe>
 
   
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoRD"><b>01</b></td><td id="Ruler_of_the_time" colspan="2" class="title"><span class="new" title="（歌词页面不存在）"><a href="/index.php?title=%E6%AD%8C%E8%AF%8D:Ruler_of_the_time&amp;boilerplate=模板:页面模板/曲目歌词&amp;action=edit">Ruler of the time</a></span><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=ゆうね&amp;vocal=葛城ユイ&amp;lyric=葛城ユイ&amp;ogmusic=月時計　～ ルナ・ダイアル&amp;fromwiki=Ruler_of_the_time"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E3%82%86%E3%81%86%E3%81%AD&amp;action=edit&amp;redlink=1" class="new" title="ゆうね（页面不存在）">ゆうね</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，ゆうね&amp;fromwiki=Ruler_of_the_time"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="./葛城ユイ.md" title="葛城ユイ">葛城ユイ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=葛城ユイ&amp;fromwiki=Ruler_of_the_time"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="./葛城ユイ.md" title="葛城ユイ">葛城ユイ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?lyric=葛城ユイ&amp;fromwiki=Ruler_of_the_time"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=月時計　～ ルナ・ダイアル&amp;fromwiki=Ruler_of_the_time"><span></span></a></span><div class="ogmusic"><a href="/%E6%9C%88%E6%99%82%E8%A8%88_%EF%BD%9E_%E3%83%AB%E3%83%8A%E3%83%BB%E3%83%80%E3%82%A4%E3%82%A2%E3%83%AB" class="mw-redirect" title="月時計 ～ ルナ・ダイアル">月時計　～ ルナ・ダイアル</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E7%BA%A2%E9%AD%94%E4%B9%A1_%EF%BD%9E_the_Embodiment_of_Scarlet_Devil." class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoRD"><b>01</b></td><td id="Ruler_of_the_time" colspan="2" class="title"><span class="new" title="（歌词页面不存在）"><a href="/index.php?title=%E6%AD%8C%E8%AF%8D:Ruler_of_the_time&amp;boilerplate=模板:页面模板/曲目歌词&amp;action=edit">Ruler of the time</a></span><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=ゆうね&amp;vocal=葛城ユイ&amp;lyric=葛城ユイ&amp;ogmusic=月時計　～ ルナ・ダイアル&amp;fromwiki=Ruler_of_the_time"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E3%82%86%E3%81%86%E3%81%AD&amp;action=edit&amp;redlink=1" class="new" title="ゆうね（页面不存在）">ゆうね</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，ゆうね&amp;fromwiki=Ruler_of_the_time"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="./葛城ユイ.md" title="葛城ユイ">葛城ユイ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=葛城ユイ&amp;fromwiki=Ruler_of_the_time"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="./葛城ユイ.md" title="葛城ユイ">葛城ユイ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?lyric=葛城ユイ&amp;fromwiki=Ruler_of_the_time"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=月時計　～ ルナ・ダイアル&amp;fromwiki=Ruler_of_the_time"><span></span></a></span><div class="ogmusic"><a href="./月時計_～_ルナ・ダイアル.md" class="mw-redirect" title="月時計 ～ ルナ・ダイアル">月時計　～ ルナ・ダイアル</a></div><div class="source"><a href="./东方红魔乡_～_the_Embodiment_of_Scarlet_Devil..md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

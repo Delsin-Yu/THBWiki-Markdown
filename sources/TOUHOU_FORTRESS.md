@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-TOUHOU_FORTRESS封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/1/1a/TOUHOU_FORTRESS%E5%B0%81%E9%9D%A2.jpg/224px-TOUHOU_FORTRESS%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="159" srcset="https://upload.thwiki.cc/thumb/1/1a/TOUHOU_FORTRESS%E5%B0%81%E9%9D%A2.jpg/336px-TOUHOU_FORTRESS%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/1/1a/TOUHOU_FORTRESS%E5%B0%81%E9%9D%A2.jpg/448px-TOUHOU_FORTRESS%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1310" data-file-height="930"></a><div class="cover-char">角色：<a href="./八意永琳.md" title="八意永琳">八意永琳</a>，<a href="./蓬莱山辉夜.md" title="蓬莱山辉夜">蓬莱山辉夜</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://milksea.pixnet.net/blog/post/27756187">https://milksea.pixnet.net/blog/post/27756187</a></td></tr><tr><td class="label">备注</td><td colspan="2">东方×绝地要塞2</td></tr></tbody></table>
 
 TOUHOU FORTRESS（同人志，Milksea，2012） - 2012年2月4日 由 Milksea 于 Fancy Frontier19 发布的漫画同人志，B5尺寸一共30页，登场人物有 八意永琳、蓬莱山辉夜、铃仙·优昙华院·因幡、因幡天为、藤原妹红，分级为 一般向
+
 ## Staff
 - [Milksea](./Milksea.md)
+
 
 ## 评论
 

@@ -4,7 +4,8 @@
 
 Lunatic Locus ，于 2010 年成立，主要制作 同人音乐 的日本同人社团，主催是 るぅなん，当前状态为 转入非东方
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -22,6 +23,7 @@ Lunatic Locus ，于 2010 年成立，主要制作 同人音乐 的日本同人�
 
 
 
+
 ## 社团信息
 [](./文件-Lunatic_Locusbanner.png.md)  [](./文件-Lunatic_Locusbanner.png.md)Banner
 [](./文件-Lunatic_Locusbanner2.png.md)  [](./文件-Lunatic_Locusbanner2.png.md)Banner 2
@@ -29,8 +31,10 @@ Lunatic Locus ，于 2010 年成立，主要制作 同人音乐 的日本同人�
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Lunatic Locus </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2010</td></tr><tr><td><b>当前状态</b></td><td>转入非东方</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=%E3%82%8B%E3%81%85%E3%81%AA%E3%82%93&amp;action=edit&amp;redlink=1" class="new" title="るぅなん（页面不存在）">るぅなん</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://lu-narn.net/">http://lu-narn.net/</a> <br><a rel="nofollow" class="external free" href="http://lunarn.iza-yoi.net/">http://lunarn.iza-yoi.net/</a> （旧官网）</td></tr></tbody></table>
 
 Lunatic Locus（同人社团，同人音乐社团） - Lunatic Locus ，于 2010 年成立，主要制作 同人音乐 的日本同人社团，主催是 るぅなん，当前状态为 转入非东方
+
 ## 成员名单
 - るぅなん (未找到链接)
+
 
 ## 作品列表
 [](./ふわふわ☆げんそうきょう.md)[ふわふわ☆げんそうきょう](./ふわふわ☆げんそうきょう.md)首发日期：2012-05-27 （第九回 博麗神社例大祭 (未找到链接)）LLCD0001全长、​合作 （一般向）[](./three-four_time_capsule..md)[Three-Four Time Capsule.](./three-four_time_capsule..md)首发日期：2012-08-11 （Comic Market 82 (未找到链接)）LLCD0002全长 （一般向）[](./きらきら☆げんそうきょう_-_trial_CD.md)[きらきら☆げんそうきょう - trial CD](./きらきら☆げんそうきょう_-_trial_CD.md)首发日期：2013-05-26 （第十回 博麗神社例大祭 (未找到链接)）Demo （一般向）[](./きらきら☆げんそうきょう.md)[きらきら☆げんそうきょう](./きらきら☆げんそうきょう.md)首发日期：2013-08-12 （Comic Market 84 (未找到链接)）LLCD0003全长 （一般向）[](./冬、来たりなば.md)[冬、来たりなば](./冬、来たりなば.md)首发日期：2014-05-11 （第十一回 博麗神社例大祭 (未找到链接)）LLCD0004EP （一般向）
@@ -44,6 +48,7 @@ Lunatic Locus（同人社团，同人音乐社团） - Lunatic Locus ，于 2010
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ### いん・ざ・こーろーむ
@@ -60,15 +65,18 @@ Lunatic Locus（同人社团，同人音乐社团） - Lunatic Locus ，于 2010
 </table>
 
 
+
 ### 東方アレンジ曲
 東方アレンジ曲 封面图片 (未找到链接)[東方アレンジ曲](./東方アレンジ曲.md)首发日期：2009-09-25 单曲 （一般向）
 <table><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
 
 
+
 ## 参展信息
 
 <table><tbody><tr><th class="活动页面">活动页面</th><th class="活动名称">活动名称</th><th class="日期">日期</th><th class="举办地点">举办地点</th><th class="摊位编号">摊位编号</th><th class="宣传页面">宣传页面</th><th class="备注">备注</th></tr><tr data-row-number="1" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E4%B8%9C%E6%96%B9%E7%BA%A2%E6%A5%BC%E6%A2%A6#10" title="东方红楼梦">东方红楼梦#10</a></span></td><td class="活动名称 smwtype_txt">東方紅楼夢10</td><td class="日期 smwtype_dat" data-sort-value="2456942.5">2014-10-12</td><td class="举办地点 smwtype_txt">大阪国际展览中心 4号馆・6号馆B区</td><td class="摊位编号 smwtype_txt">え-6b</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="2" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#11" title="博丽神社例大祭">博丽神社例大祭#11</a></span></td><td class="活动名称 smwtype_txt">第十一回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2456788.5">2014-05-11</td><td class="举办地点 smwtype_txt">东京Big Sight 东123456展厅</td><td class="摊位编号 smwtype_txt">え34b</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="3" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#10" title="博丽神社例大祭">博丽神社例大祭#10</a></span></td><td class="活动名称 smwtype_txt">第十回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2456438.5">2013-05-26</td><td class="举办地点 smwtype_txt">东京Big Sight 东123456展厅</td><td class="摊位编号 smwtype_txt">E27b</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="4" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#9" title="博丽神社例大祭">博丽神社例大祭#9</a></span></td><td class="活动名称 smwtype_txt">第九回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2456074.5">2012-05-27</td><td class="举办地点 smwtype_txt">东京Big Sight 东123456展厅</td><td class="摊位编号 smwtype_txt">え-55a</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr></tbody></table>
+
 
 
 ## 其他信息

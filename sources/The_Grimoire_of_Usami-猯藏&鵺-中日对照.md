@@ -12,7 +12,7 @@ The_Grimoire_of_Usami | 二岩猯藏 | 使用了翻译表的页面 | 宇佐见�
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./The_Grimoire_of_Usami-永琳&辉夜-中日对照.md" title="The Grimoire of Usami/永琳&amp;辉夜/中日对照">永琳&amp;辉夜</a>&#160;
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="/%E5%AE%87%E4%BD%90%E8%A7%81%E7%9A%84%E9%AD%94%E6%B3%95%E4%B9%A6" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a>&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="./宇佐见的魔法书.md" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a>&#160;
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">&#160;<a href="./The_Grimoire_of_Usami-灵梦&紫-中日对照.md" title="The Grimoire of Usami/灵梦&amp;紫/中日对照">灵梦&amp;紫</a>
 </td>
@@ -25,7 +25,7 @@ The_Grimoire_of_Usami | 二岩猯藏 | 使用了翻译表的页面 | 宇佐见�
 - 翻译：fumika_zero
 
 
-<table><tbody><tr class="tt-content-header" id="=-1" data-pos="&#91;&quot;=&quot;,1&#93;"><td class="tt-jah" lang="ja"><div class="poem">神星符「正体不明の怪光人だかり」</div></td><td class="tt-zhh" lang="zh"><div class="poem"><a href="/%E7%A5%9E%E6%98%9F%E7%AC%A6%E3%80%8C%E7%9C%9F%E7%9B%B8%E4%B8%8D%E6%98%8E%E7%9A%84%E6%80%AA%E5%85%89%E4%BA%BA%E6%BD%AE%E3%80%8D" class="mw-redirect" title="神星符「真相不明的怪光人潮」">神星符「真相不明的怪光人潮」</a></div></td></tr><tr class="tt-content" id="=-2" data-pos="&#91;&quot;=&quot;,2&#93;"><td class="tt-ja" lang="ja"><div class="poem">使用者：マミゾウ&amp;ぬえ</div></td><td class="tt-zh" lang="zh"><div class="poem">使用者：<a href="./二岩猯藏.md" title="二岩猯藏">猯藏</a>&amp;<a href="./封兽鵺.md" title="封兽鵺">鵺</a></div></td></tr><tr class="tt-header" id="=-3" data-pos="&#91;&quot;=&quot;,3&#93;"><td colspan="2" id="摩多罗隐岐奈" class="tt-header" lang="zh"><div class="poem">摩多罗隐岐奈</div></td></tr><tr class="tt-content" id="=-4" data-pos="&#91;&quot;=&quot;,4&#93;"><td class="tt-ja" lang="ja"><div class="poem">なる程……即興弾幕か。この大会自体を表した弾幕を見せるとは、面白い奴らだな。</div></td><td class="tt-zh" lang="zh"><div class="poem">原来如此……即兴弹幕吗。居然展示表现这场大会本身的弹幕，真是有趣的家伙们啊。</div></td></tr><tr class="tt-header" id="=-5" data-pos="&#91;&quot;=&quot;,5&#93;"><td colspan="2" id="雾雨魔理沙" class="tt-header" lang="zh"><div class="poem">雾雨魔理沙</div></td></tr><tr class="tt-content" id="=-6" data-pos="&#91;&quot;=&quot;,6&#93;"><td class="tt-ja" lang="ja"><div class="poem">おお、そういうことか。弾幕を見て右往左往する観客達って訳か。趣味が悪い奴らだなぁ。</div></td><td class="tt-zh" lang="zh"><div class="poem">哦哦，是这样吗。是看着弹幕四处乱窜的观众们吗。真是恶趣味的家伙们啊。</div></td></tr></tbody></table>
+<table><tbody><tr class="tt-content-header" id="=-1" data-pos="&#91;&quot;=&quot;,1&#93;"><td class="tt-jah" lang="ja"><div class="poem">神星符「正体不明の怪光人だかり」</div></td><td class="tt-zhh" lang="zh"><div class="poem"><a href="./神星符「真相不明的怪光人潮」.md" class="mw-redirect" title="神星符「真相不明的怪光人潮」">神星符「真相不明的怪光人潮」</a></div></td></tr><tr class="tt-content" id="=-2" data-pos="&#91;&quot;=&quot;,2&#93;"><td class="tt-ja" lang="ja"><div class="poem">使用者：マミゾウ&amp;ぬえ</div></td><td class="tt-zh" lang="zh"><div class="poem">使用者：<a href="./二岩猯藏.md" title="二岩猯藏">猯藏</a>&amp;<a href="./封兽鵺.md" title="封兽鵺">鵺</a></div></td></tr><tr class="tt-header" id="=-3" data-pos="&#91;&quot;=&quot;,3&#93;"><td colspan="2" id="摩多罗隐岐奈" class="tt-header" lang="zh"><div class="poem">摩多罗隐岐奈</div></td></tr><tr class="tt-content" id="=-4" data-pos="&#91;&quot;=&quot;,4&#93;"><td class="tt-ja" lang="ja"><div class="poem">なる程……即興弾幕か。この大会自体を表した弾幕を見せるとは、面白い奴らだな。</div></td><td class="tt-zh" lang="zh"><div class="poem">原来如此……即兴弹幕吗。居然展示表现这场大会本身的弹幕，真是有趣的家伙们啊。</div></td></tr><tr class="tt-header" id="=-5" data-pos="&#91;&quot;=&quot;,5&#93;"><td colspan="2" id="雾雨魔理沙" class="tt-header" lang="zh"><div class="poem">雾雨魔理沙</div></td></tr><tr class="tt-content" id="=-6" data-pos="&#91;&quot;=&quot;,6&#93;"><td class="tt-ja" lang="ja"><div class="poem">おお、そういうことか。弾幕を見て右往左往する観客達って訳か。趣味が悪い奴らだなぁ。</div></td><td class="tt-zh" lang="zh"><div class="poem">哦哦，是这样吗。是看着弹幕四处乱窜的观众们吗。真是恶趣味的家伙们啊。</div></td></tr></tbody></table>
 
 
 <center>
@@ -36,7 +36,7 @@ The_Grimoire_of_Usami | 二岩猯藏 | 使用了翻译表的页面 | 宇佐见�
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./The_Grimoire_of_Usami-永琳&辉夜-中日对照.md" title="The Grimoire of Usami/永琳&amp;辉夜/中日对照">永琳&amp;辉夜</a>&#160;
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="/%E5%AE%87%E4%BD%90%E8%A7%81%E7%9A%84%E9%AD%94%E6%B3%95%E4%B9%A6" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a>&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="./宇佐见的魔法书.md" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a>&#160;
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">&#160;<a href="./The_Grimoire_of_Usami-灵梦&紫-中日对照.md" title="The Grimoire of Usami/灵梦&amp;紫/中日对照">灵梦&amp;紫</a>
 </td>
@@ -45,6 +45,7 @@ The_Grimoire_of_Usami | 二岩猯藏 | 使用了翻译表的页面 | 宇佐见�
 
   
 </center>
+
 
 ## 词条导航
   

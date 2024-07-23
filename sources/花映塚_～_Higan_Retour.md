@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -36,11 +37,13 @@
 
 
 
+
 ## 基本信息
 
-<table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">花映塚　～ Higan Retour</td></tr><tr><td><b>译名</b></td><td>花映塚 ～ Higan Retour</td></tr><tr><td><b>英文译名</b></td><td>Flower Reflecting Mound ~ Higan Retour</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>关联</td></tr><tr><td style="padding-left:15px"><b>相关曲</b></td><td><a href="/%E3%83%86%E3%83%BC%E3%83%9E%E3%83%BB%E3%82%AA%E3%83%96%E3%83%BB%E3%82%A4%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC" class="mw-redirect" title="テーマ・オブ・イースタンストーリー">テーマ・オブ・イースタンストーリー</a></td></tr><tr><td style="padding-left:15px"><b>　来源</b></td><td>幺乐团的历史　～ Akyu's Untouched Score vol.5</td></tr></tbody></table>
+<table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">花映塚　～ Higan Retour</td></tr><tr><td><b>译名</b></td><td>花映塚 ～ Higan Retour</td></tr><tr><td><b>英文译名</b></td><td>Flower Reflecting Mound ~ Higan Retour</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>关联</td></tr><tr><td style="padding-left:15px"><b>相关曲</b></td><td><a href="./テーマ・オブ・イースタンストーリー.md" class="mw-redirect" title="テーマ・オブ・イースタンストーリー">テーマ・オブ・イースタンストーリー</a></td></tr><tr><td style="padding-left:15px"><b>　来源</b></td><td>幺乐团的历史　～ Akyu's Untouched Score vol.5</td></tr></tbody></table>
 
 花映塚 ～ Higan Retour（曲目） - 由 ZUN 创作的官方曲目，原名 花映塚　～ Higan Retour
+
 ## 出现作品
 
 <table>
@@ -50,7 +53,9 @@
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 东方花映塚
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td><a href="./文件-th09_01.mid.md" title="文件:th09 01.mid">th09_01.mid</a></td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th09_01.mp3.md" title="文件:th09 01.mp3">th09_01.mp3</a><br><audio src="https://upload.thwiki.cc/6/67/th09_01.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>BGM\th09_01.wav</td></tr><tr><td><b>BGMForAll</b></td><td><div class="mw-collapsible mw-collapsed">
@@ -61,12 +66,15 @@
 </td></tr></tbody></table>
 
 
+
 ### 东方文花帖（书籍）附属CD
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-BAiJR_03.mp3.md" title="文件:BAiJR 03.mp3">BAiJR_03.mp3</a><br><audio src="https://upload.thwiki.cc/7/72/BAiJR_03.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track03.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>3:24</td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 东方花映塚
 - Music Room (未找到链接)
 
@@ -75,13 +83,17 @@
 　游戏本身明明是这老长一段时间中最为笨蛋的，  
 　但是只有这曲子一成不变呢。  
 　说不定有点笨蛋度不足，只有这里是幻想乡。
+
 ### 东方文花帖（书籍）
 - 幻想的音觉 (未找到链接)
 
 （『[东方花映塚](./东方花映塚.md)』收录曲）　　标题画面的曲子，可以说几乎是同一主题的听上去非常熟悉的曲子。已经是可以说即使是第一次听也不像是第一次听的程度了。不过并非是想改编，旋律说是完全相同其实也并非如此，仅仅只是氛围相同呢。  
 　因为是标题画面的曲子，就有点担心，想要做到不会有讨厌的感觉的，不会在头脑过多残留。虽说不一定能把那做出来，但我还是想要作出静静地玩游戏的感觉。
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
   
  **花映塚　～ Higan Retour**  花映塚　～ Higan Retour
@@ -107,6 +119,7 @@
 
   - 小町的主题曲《彼岸归航》。
   - 外界的灵魂借助花儿回归现世。
+
 
 
 ### 二次同人数据

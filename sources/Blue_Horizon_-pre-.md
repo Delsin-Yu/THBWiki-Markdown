@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Blue_Horizon_-pre-封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/a/ae/Blue_Horizon_-pre-%E5%B0%81%E9%9D%A2.jpg/196px-Blue_Horizon_-pre-%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="196" height="196" srcset="https://upload.thwiki.cc/thumb/a/ae/Blue_Horizon_-pre-%E5%B0%81%E9%9D%A2.jpg/294px-Blue_Horizon_-pre-%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/a/ae/Blue_Horizon_-pre-%E5%B0%81%E9%9D%A2.jpg/392px-Blue_Horizon_-pre-%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="500" data-file-height="500"></a></td>
@@ -14,9 +15,11 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://soundcloud.com/rashana_spac_002/xfdblue-horizon-pre-53b-cloister-notes">https://soundcloud.com/rashana_spac_002/xfdblue-horizon-pre-53b-cloister-notes</a></td></tr></tbody></table>
 
 Blue Horizon -pre-（同人专辑，Cloister Notes，2015） - 2015年5月10日 由 Cloister Notes 于 博丽神社例大祭12 发布的Demo同人专辑，分级为 一般向
+
 ## Staff
 Design
 : Cloister Notes
+
 
 ## 试听
   
@@ -24,11 +27,13 @@ Design
 
   
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="info"><b>01</b></td><td id="Judgement" colspan="2" class="title">Judgement<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=六十年目の東方裁判　～ Fate of Sixty Years&amp;fromwiki=Blue_Horizon_-pre-"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=六十年目の東方裁判　～ Fate of Sixty Years&amp;fromwiki=Blue_Horizon_-pre-"><span></span></a></span><div class="ogmusic"><a href="/%E5%85%AD%E5%8D%81%E5%B9%B4%E7%9B%AE%E3%81%AE%E6%9D%B1%E6%96%B9%E8%A3%81%E5%88%A4_%EF%BD%9E_Fate_of_Sixty_Years" class="mw-redirect" title="六十年目の東方裁判 ～ Fate of Sixty Years">六十年目の東方裁判　～ Fate of Sixty Years</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E8%8A%B1%E6%98%A0%E5%A1%9A_%EF%BD%9E_Phantasmagoria_of_Flower_View." class="mw-redirect" title="东方花映塚 ～ Phantasmagoria of Flower View.">东方花映塚　～ Phantasmagoria of Flower View.</a></div></td></tr>
-<tr><td id="2" class="info"><b>02</b></td><td id="Muddy_Stream" colspan="2" class="title">Muddy Stream<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=彼岸帰航　～ Riverside View&amp;fromwiki=Blue_Horizon_-pre-"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=彼岸帰航　～ Riverside View&amp;fromwiki=Blue_Horizon_-pre-"><span></span></a></span><div class="ogmusic"><a href="/%E5%BD%BC%E5%B2%B8%E5%B8%B0%E8%88%AA_%EF%BD%9E_Riverside_View" class="mw-redirect" title="彼岸帰航 ～ Riverside View">彼岸帰航　～ Riverside View</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E8%8A%B1%E6%98%A0%E5%A1%9A_%EF%BD%9E_Phantasmagoria_of_Flower_View." class="mw-redirect" title="东方花映塚 ～ Phantasmagoria of Flower View.">东方花映塚　～ Phantasmagoria of Flower View.</a></div></td></tr>
-<tr><td id="3" class="info"><b>03</b></td><td id="Hakurei&#39;s_Devil" colspan="2" class="title">Hakurei&#39;s Devil<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=春色小径　～ Colorful Path&amp;fromwiki=Blue_Horizon_-pre-"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=春色小径　～ Colorful Path&amp;fromwiki=Blue_Horizon_-pre-"><span></span></a></span><div class="ogmusic"><a href="./春色小径_～_Colorful_Path.md" title="春色小径 ～ Colorful Path">春色小径　～ Colorful Path</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E8%8A%B1%E6%98%A0%E5%A1%9A_%EF%BD%9E_Phantasmagoria_of_Flower_View." class="mw-redirect" title="东方花映塚 ～ Phantasmagoria of Flower View.">东方花映塚　～ Phantasmagoria of Flower View.</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="info"><b>01</b></td><td id="Judgement" colspan="2" class="title">Judgement<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=六十年目の東方裁判　～ Fate of Sixty Years&amp;fromwiki=Blue_Horizon_-pre-"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=六十年目の東方裁判　～ Fate of Sixty Years&amp;fromwiki=Blue_Horizon_-pre-"><span></span></a></span><div class="ogmusic"><a href="./六十年目の東方裁判_～_Fate_of_Sixty_Years.md" class="mw-redirect" title="六十年目の東方裁判 ～ Fate of Sixty Years">六十年目の東方裁判　～ Fate of Sixty Years</a></div><div class="source"><a href="./东方花映塚_～_Phantasmagoria_of_Flower_View..md" class="mw-redirect" title="东方花映塚 ～ Phantasmagoria of Flower View.">东方花映塚　～ Phantasmagoria of Flower View.</a></div></td></tr>
+<tr><td id="2" class="info"><b>02</b></td><td id="Muddy_Stream" colspan="2" class="title">Muddy Stream<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=彼岸帰航　～ Riverside View&amp;fromwiki=Blue_Horizon_-pre-"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=彼岸帰航　～ Riverside View&amp;fromwiki=Blue_Horizon_-pre-"><span></span></a></span><div class="ogmusic"><a href="./彼岸帰航_～_Riverside_View.md" class="mw-redirect" title="彼岸帰航 ～ Riverside View">彼岸帰航　～ Riverside View</a></div><div class="source"><a href="./东方花映塚_～_Phantasmagoria_of_Flower_View..md" class="mw-redirect" title="东方花映塚 ～ Phantasmagoria of Flower View.">东方花映塚　～ Phantasmagoria of Flower View.</a></div></td></tr>
+<tr><td id="3" class="info"><b>03</b></td><td id="Hakurei&#39;s_Devil" colspan="2" class="title">Hakurei&#39;s Devil<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=春色小径　～ Colorful Path&amp;fromwiki=Blue_Horizon_-pre-"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=春色小径　～ Colorful Path&amp;fromwiki=Blue_Horizon_-pre-"><span></span></a></span><div class="ogmusic"><a href="./春色小径_～_Colorful_Path.md" title="春色小径 ～ Colorful Path">春色小径　～ Colorful Path</a></div><div class="source"><a href="./东方花映塚_～_Phantasmagoria_of_Flower_View..md" class="mw-redirect" title="东方花映塚 ～ Phantasmagoria of Flower View.">东方花映塚　～ Phantasmagoria of Flower View.</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

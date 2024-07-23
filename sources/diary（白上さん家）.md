@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-diary（白上さん家）封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/b/b5/diary%EF%BC%88%E7%99%BD%E4%B8%8A%E3%81%95%E3%82%93%E5%AE%B6%EF%BC%89%E5%B0%81%E9%9D%A2.png/138px-diary%EF%BC%88%E7%99%BD%E4%B8%8A%E3%81%95%E3%82%93%E5%AE%B6%EF%BC%89%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="138" height="196" srcset="https://upload.thwiki.cc/thumb/b/b5/diary%EF%BC%88%E7%99%BD%E4%B8%8A%E3%81%95%E3%82%93%E5%AE%B6%EF%BC%89%E5%B0%81%E9%9D%A2.png/207px-diary%EF%BC%88%E7%99%BD%E4%B8%8A%E3%81%95%E3%82%93%E5%AE%B6%EF%BC%89%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/b/b5/diary%EF%BC%88%E7%99%BD%E4%B8%8A%E3%81%95%E3%82%93%E5%AE%B6%EF%BC%89%E5%B0%81%E9%9D%A2.png/277px-diary%EF%BC%88%E7%99%BD%E4%B8%8A%E3%81%95%E3%82%93%E5%AE%B6%EF%BC%89%E5%B0%81%E9%9D%A2.png 2x" data-file-width="300" data-file-height="425"></a></td>
@@ -14,11 +15,14 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://dreambag.web.fc2.com/hihu/hihu.html">http://dreambag.web.fc2.com/hihu/hihu.html</a></td></tr></tbody></table>
 
 diary（同人志，白上さん家，ゆめかばん，2010） - 2010年11月28日 由 白上さん家，ゆめかばん 于 境界所见到的外界1 发布的小说/合同志同人志，B5尺寸一共40页，分级为 一般向
+
 ## 预览
+
 ## Staff
 - A-20 (未找到链接)
 - [白上めりと](./白上めりと.md)
 - [きぃ（人物）](./KI.md)
+
 
 ## 评论
 

@@ -4,7 +4,8 @@
 
 Active Sounds Zone ，于 2013 年成立，主要制作 同人音乐 的日本同人社团，主催是 radianic，当前状态为 解散
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -20,16 +21,20 @@ Active Sounds Zone ，于 2013 年成立，主要制作 同人音乐 的日本�
 
 
 
+
 ## 社团信息
 [](./文件-Active_Sounds_Zonebanner.jpg.md)  [](./文件-Active_Sounds_Zonebanner.jpg.md)banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Active Sounds Zone </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2013-09-20</td></tr><tr><td><b>当前状态</b></td><td>解散</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=radianic&amp;action=edit&amp;redlink=1" class="new" title="radianic（页面不存在）">radianic</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://aszr.info/">http://aszr.info/</a> <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span></td></tr></tbody></table>
 
 Active Sounds Zone（同人社团，同人音乐社团） - Active Sounds Zone ，于 2013 年成立，主要制作 同人音乐 的日本同人社团，主催是 radianic，当前状态为 解散
+
 ## 成员名单
 - [radianic](https://twitter.com/radianic)
 
+
 ## 作品列表
+
 ### 同人专辑
 Eternal is Real Normal Calculation Equation 封面图片 (未找到链接)[Eternal is Real Normal Calculation Equation](./Eternal_is_Real_Normal_Calculation_Equation.md)首发日期：未知 ASZM-0001全长 （一般向）Eternal is Restria Calculation Equation 封面图片 (未找到链接)[Eternal is Restria Calculation Equation](./Eternal_is_Restria_Calculation_Equation.md)首发日期：未知 ASZM-0002全长 （一般向）1st Aggressive 封面图片 (未找到链接)[1st Aggressive](./1st_Aggressive.md)首发日期：未知 ASZM-0005全长 （一般向）2nd Aggressive 封面图片 (未找到链接)[2nd Aggressive](./2nd_Aggressive.md)首发日期：未知 ASZM-0006全长 （一般向）[](./TH0X_Chaos_Trance_Zero.md)[TH0X Chaos Trance Zero](./TH0X_Chaos_Trance_Zero.md)首发日期：2014-03-18 ASZM-0009EP （一般向）[](./Extra_Arrange.md)[Extra Arrange](./Extra_Arrange.md)首发日期：2014-03-19 ASZM-0010EP （一般向）[](./TH08_EndOfMinimalEasternNight.md)[TH08 EndOfMinimalEasternNight](./TH08_EndOfMinimalEasternNight.md)首发日期：2015-06-27 ASZM-0013合作 （一般向）该专辑包含 3 张CD[](./PENTAGRAM.md)[PENTAGRAM](./PENTAGRAM.md)首发日期：2016-06-17 （APOLLO 第4回 (未找到链接)）ASZI-001EP （一般向）[](./THE_FINAL_THEORY.md)[THE FINAL THEORY](./THE_FINAL_THEORY.md)首发日期：2016-11-18 （APOLLO 第5回 (未找到链接)）ASZI-002合作 （一般向）该专辑包含 2 张CD[](./TH0X_Chaos_Trance_Zero_Re：incarnation.md)[TH0X Chaos Trance Zero Re:incarnation](./TH0X_Chaos_Trance_Zero_Re：incarnation.md)首发日期：2016-11-18 （APOLLO 第5回 (未找到链接)）ASZM-0014混音集、​EP （一般向）[](./3RD_GENERATION（Active_Sounds_Zone）.md)[3RD GENERATION](./3RD_GENERATION（Active_Sounds_Zone）.md)首发日期：2017-03-01 ASZM-0015EP （一般向）
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -54,6 +59,7 @@ Eternal is Real Normal Calculation Equation 封面图片 (未找到链接)[Etern
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 其他信息

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-東方架空園_～_Magician's_Aerial_Dream._（布都ルート）封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/1/1e/%E6%9D%B1%E6%96%B9%E6%9E%B6%E7%A9%BA%E5%9C%92_%EF%BD%9E_Magician%27s_Aerial_Dream._%EF%BC%88%E5%B8%83%E9%83%BD%E3%83%AB%E3%83%BC%E3%83%88%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/155px-%E6%9D%B1%E6%96%B9%E6%9E%B6%E7%A9%BA%E5%9C%92_%EF%BD%9E_Magician%27s_Aerial_Dream._%EF%BC%88%E5%B8%83%E9%83%BD%E3%83%AB%E3%83%BC%E3%83%88%EF%BC%89%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="155" height="224" srcset="https://upload.thwiki.cc/thumb/1/1e/%E6%9D%B1%E6%96%B9%E6%9E%B6%E7%A9%BA%E5%9C%92_%EF%BD%9E_Magician%27s_Aerial_Dream._%EF%BC%88%E5%B8%83%E9%83%BD%E3%83%AB%E3%83%BC%E3%83%88%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/232px-%E6%9D%B1%E6%96%B9%E6%9E%B6%E7%A9%BA%E5%9C%92_%EF%BD%9E_Magician%27s_Aerial_Dream._%EF%BC%88%E5%B8%83%E9%83%BD%E3%83%AB%E3%83%BC%E3%83%88%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/1/1e/%E6%9D%B1%E6%96%B9%E6%9E%B6%E7%A9%BA%E5%9C%92_%EF%BD%9E_Magician%27s_Aerial_Dream._%EF%BC%88%E5%B8%83%E9%83%BD%E3%83%AB%E3%83%BC%E3%83%88%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/310px-%E6%9D%B1%E6%96%B9%E6%9E%B6%E7%A9%BA%E5%9C%92_%EF%BD%9E_Magician%27s_Aerial_Dream._%EF%BC%88%E5%B8%83%E9%83%BD%E3%83%AB%E3%83%BC%E3%83%88%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="601" data-file-height="869"></a><div class="cover-char">角色：<a href="./别蕾.md" title="别蕾">别蕾</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/107607271">https://www.pixiv.net/artworks/107607271</a></td></tr></tbody></table>
 
 東方架空園 ～ Magician's Aerial Dream. （布都ルート）（同人志，東方幕府，2023） - 2023年5月7日 由 東方幕府 于 博丽神社例大祭20 发布的漫画同人志，A5尺寸一共146页，登场人物有 物部布都、原创角色，分级为 一般向
+
 ## Staff
 - 徳川ほおずき (未找到链接)
+
 
 ## 评论
 

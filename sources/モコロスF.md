@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-モコロスF封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/3/3a/%E3%83%A2%E3%82%B3%E3%83%AD%E3%82%B9F%E5%B0%81%E9%9D%A2.jpg/120px-%E3%83%A2%E3%82%B3%E3%83%AD%E3%82%B9F%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="120" height="168" srcset="https://upload.thwiki.cc/thumb/3/3a/%E3%83%A2%E3%82%B3%E3%83%AD%E3%82%B9F%E5%B0%81%E9%9D%A2.jpg/180px-%E3%83%A2%E3%82%B3%E3%83%AD%E3%82%B9F%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/3/3a/%E3%83%A2%E3%82%B3%E3%83%AD%E3%82%B9F%E5%B0%81%E9%9D%A2.jpg/240px-%E3%83%A2%E3%82%B3%E3%83%AD%E3%82%B9F%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="856" data-file-height="1200"></a><div class="cover-char">角色：<a href="./米斯蒂娅·萝蕾拉.md" title="米斯蒂娅·萝蕾拉">米斯蒂娅·萝蕾拉</a>，<a href="./藤原妹红.md" title="藤原妹红">藤原妹红</a>，<a href="./上白泽慧音.md" title="上白泽慧音">上白泽慧音</a></div></td>
@@ -14,9 +15,12 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/27459951">https://www.pixiv.net/artworks/27459951</a></td></tr></tbody></table>
 
 モコロスF（同人志，のっつぉGT，2012） - 2012年5月27日 由 のっつぉGT 于 博丽神社例大祭9 发布的漫画同人志，一共24页，登场人物有 米斯蒂娅·萝蕾拉、藤原妹红、上白泽慧音、射命丸文、蓬莱山辉夜、八意永琳、铃仙·优昙华院·因幡、因幡天为、莉格露·奈特巴格，分级为 一般向
+
 ## 预览
+
 ## Staff
 - たいし (未找到链接)
+
 
 ## 评论
 

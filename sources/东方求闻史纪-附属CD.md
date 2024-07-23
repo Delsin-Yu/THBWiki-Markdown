@@ -17,13 +17,13 @@
 
 东方求闻史纪/附属CD（官方专辑） - 官方专辑
 ## 相关信息
-- 曲目说明 (未找到链接)
+- [曲目说明](./东方求闻史纪-附属CD-曲目说明.md)
 
 ## 曲目
 
-<table><tbody><tr><td class="infoYD"><b>01</b></td><td colspan="2" class="title"><a href="./Japanese_Saga.md" title="Japanese Saga">Japanese Saga</a></td><td class="time">04:22</td></tr><tr><td class="left"></td><td colspan="3" class="bigtext"><a href="/%E3%82%B8%E3%83%A3%E3%83%91%E3%83%8B%E3%83%BC%E3%82%BA%E3%82%B5%E3%83%BC%E3%82%AC" class="mw-redirect" title="ジャパニーズサーガ">ジャパニーズサーガ</a></td></tr>
-<tr><td class="infoYD"><b>02</b></td><td colspan="2" class="title"><a href="./阿礼的孩子.md" title="阿礼的孩子">阿礼的孩子</a></td><td class="time">03:02</td></tr><tr><td class="left"></td><td colspan="3" class="bigtext"><a href="/%E9%98%BF%E7%A4%BC%E3%81%AE%E5%AD%90%E4%BE%9B" class="mw-redirect" title="阿礼の子供">阿礼の子供</a></td></tr>
-<tr><td class="infoRD"><b>03</b></td><td colspan="2" class="title"><a href="/%E9%A3%9E%E7%BF%94%E5%9C%A8%E5%A4%9C%E6%99%9A%E7%9A%84%E9%B8%A0%E5%B1%B1_-Power_MIX" class="mw-redirect" title="飞翔在夜晚的鸠山 -Power MIX">飞翔在夜晚的鸠山 -Power MIX</a></td><td class="time">05:44</td></tr><tr><td class="left"></td><td colspan="3" class="bigtext"><a href="/%E5%A4%9C%E3%81%AE%E9%B3%A9%E5%B1%B1%E3%82%92%E9%A3%9B%E3%81%B6_-Power_MIX" class="mw-redirect" title="夜の鳩山を飛ぶ -Power MIX">夜の鳩山を飛ぶ -Power MIX</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2">夜の鳩山を飛ぶ</td></tr><tr><td class="left"></td><td class="label">来源</td><td class="text" colspan="2"><a href="./秋霜玉.md" title="秋霜玉">秋霜玉</a></td></tr></tbody></table>
+<table><tbody><tr><td class="infoYD"><b>01</b></td><td colspan="2" class="title"><a href="./Japanese_Saga.md" title="Japanese Saga">Japanese Saga</a></td><td class="time">04:22</td></tr><tr><td class="left"></td><td colspan="3" class="bigtext"><a href="./ジャパニーズサーガ.md" class="mw-redirect" title="ジャパニーズサーガ">ジャパニーズサーガ</a></td></tr>
+<tr><td class="infoYD"><b>02</b></td><td colspan="2" class="title"><a href="./阿礼的孩子.md" title="阿礼的孩子">阿礼的孩子</a></td><td class="time">03:02</td></tr><tr><td class="left"></td><td colspan="3" class="bigtext"><a href="./阿礼の子供.md" class="mw-redirect" title="阿礼の子供">阿礼の子供</a></td></tr>
+<tr><td class="infoRD"><b>03</b></td><td colspan="2" class="title"><a href="./飞翔在夜晚的鸠山_-Power_MIX.md" class="mw-redirect" title="飞翔在夜晚的鸠山 -Power MIX">飞翔在夜晚的鸠山 -Power MIX</a></td><td class="time">05:44</td></tr><tr><td class="left"></td><td colspan="3" class="bigtext"><a href="./夜の鳩山を飛ぶ_-Power_MIX.md" class="mw-redirect" title="夜の鳩山を飛ぶ -Power MIX">夜の鳩山を飛ぶ -Power MIX</a></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2">夜の鳩山を飛ぶ</td></tr><tr><td class="left"></td><td class="label">来源</td><td class="text" colspan="2"><a href="./秋霜玉.md" title="秋霜玉">秋霜玉</a></td></tr></tbody></table>
 
 
   

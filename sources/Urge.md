@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Urge封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/2/2c/Urge%E5%B0%81%E9%9D%A2.jpg/138px-Urge%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="138" height="196" srcset="https://upload.thwiki.cc/thumb/2/2c/Urge%E5%B0%81%E9%9D%A2.jpg/207px-Urge%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/2/2c/Urge%E5%B0%81%E9%9D%A2.jpg/276px-Urge%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1248" data-file-height="1771"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>，<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a>，<a href="./爱丽丝·玛格特洛依德.md" title="爱丽丝·玛格特洛依德">爱丽丝·玛格特洛依德</a></div></td>
@@ -18,11 +19,13 @@ Urge（同人志，AM：TIGER，凋叶棕，2019） - 2019年12月31日 由 AM�
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=611458">蜜瓜</a></td></tr></tbody></table>
 
 
+
 ## Staff
 シナリオ、構成
 : [RD-Sounds](./RD-Sounds.md)
 企画・作画
 : [とらん](./とらん.md)
+
 
 ## 评论
 

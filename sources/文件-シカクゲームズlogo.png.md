@@ -4,6 +4,7 @@
 
 シカクゲームズ | 社团LOGO
 
+
 ## 摘要
   
 源地址：[direct image link (max size)](https://cdn.amebaowndme.com/madrid-prd/madrid-web/images/sites/293529/34d83f90baaec13d63b5d63b6f6be97c_3e177530502b4f6da4a48120ba411294.png), [source page (circle website)](https://sikakugames.amebaownd.com/)

@@ -4,7 +4,8 @@
 
 BAD QUALITY ，主要制作 同人音乐 的日本同人社团，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -20,14 +21,18 @@ BAD QUALITY ，主要制作 同人音乐 的日本同人社团，当前状态为
 
 
 
+
 ## 社团信息
 文件:BAD QUALITYbanner.jpg (未找到链接)  banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> BAD QUALITY </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>地区</b></td><td>日本</td></tr></tbody></table>
 
 BAD QUALITY（同人社团，同人音乐社团） - BAD QUALITY ，主要制作 同人音乐 的日本同人社团，当前状态为 活动
+
 ## 成员名单
+
 ## 作品列表
+
 ### 同人专辑
 NOT GO WITH THE &quot;FLOW&quot; 封面图片 (未找到链接)NOT GO WITH THE "FLOW" (未找到链接)首发日期：未知 - STRONG!! 封面图片 (未找到链接)STRONG!! (未找到链接)首发日期：未知 - 馨のdemo 封面图片 (未找到链接)馨のdemo (未找到链接)首发日期：未知 - [](./東方阿波音子.md)[東方阿波音子](./東方阿波音子.md)首发日期：2017-03-26 （東方いよしこく祭5 (未找到链接)）全长、​合作 （一般向）该作品是与 [月猫工房](./月猫工房.md)、​犬助 (未找到链接) 合作创作的[](./Groove＆Freak.md)[Groove＆Freak](./Groove＆Freak.md)首发日期：2017-05-07 （第十四回 博麗神社例大祭 (未找到链接)）全长 （一般向） (未找到链接)歳月-Single- (未找到链接)首发日期：未知 - [](./眉唾之式.md)[眉唾之式](./眉唾之式.md)首发日期：2017-11-26 （東方いよしこく祭7 (未找到链接)）BQCD-08全长 （一般向）[](./情動.md)[情動](./情動.md)首发日期：2017-11-26 （東方いよしこく祭7 (未找到链接)）EP （一般向）
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -42,6 +47,7 @@ NOT GO WITH THE &quot;FLOW&quot; 封面图片 (未找到链接)NOT GO WITH THE "
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 其他信息

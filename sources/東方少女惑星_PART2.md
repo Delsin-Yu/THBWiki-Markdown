@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E6%9D%B1%E6%96%B9%E5%B0%91%E5%A5%B3%E6%83%91%E6%98%9F_PART2%E5%B0%81%E9%9D%A2.jpg" class="new" title="文件:東方少女惑星 PART2封面.jpg">封面图片</a><div class="cover-char">角色：<a href="./八云紫.md" title="八云紫">八云紫</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.plurk.com/p/da26la">https://www.plurk.com/p/da26la</a></td></tr><tr><td class="label">备注</td><td colspan="2"><a href="./東方少女惑星.md" title="東方少女惑星">東方少女惑星</a>花絮本; 购买附赠</td></tr></tbody></table>
 
 東方少女惑星 PART2（同人志，氣球魚屋，2011） - 2011年7月29日 由 氣球魚屋 于 香港电玩动漫节2011 发布的漫画同人志，B5尺寸一共16页，分级为 一般向
+
 ## Staff
 - HECO (未找到链接)
+
 
 ## 评论
 

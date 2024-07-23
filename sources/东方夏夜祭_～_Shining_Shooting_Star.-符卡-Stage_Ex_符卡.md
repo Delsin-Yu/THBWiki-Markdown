@@ -21,6 +21,7 @@
 
   
 </center>
+
 ## 目录
 
 - [1 符卡信息](#符卡信息)
@@ -39,10 +40,12 @@
 
 
 
+
 ## 符卡信息
   
  **本面BOSS符卡因角色而异，编号按符卡顺序优先，(菜单)角色选择顺序其次原则编写，为了方便阅览，单个角色线符卡放在一起。** 
   
+
 
 ### 全线符卡
 
@@ -61,6 +64,7 @@
 <table>
 <tbody><tr><td width="80">符卡编号</td><td width="400">061</td><td rowspan="3" width="120"><a href="./文件-蝶恋「千年之愿」.png.md" class="image"><img alt="蝶恋「千年之愿」.png" src="https://upload.thwiki.cc/thumb/9/91/%E8%9D%B6%E6%81%8B%E3%80%8C%E5%8D%83%E5%B9%B4%E4%B9%8B%E6%84%BF%E3%80%8D.png/120px-%E8%9D%B6%E6%81%8B%E3%80%8C%E5%8D%83%E5%B9%B4%E4%B9%8B%E6%84%BF%E3%80%8D.png" decoding="async" loading="lazy" width="120" height="139" srcset="https://upload.thwiki.cc/thumb/9/91/%E8%9D%B6%E6%81%8B%E3%80%8C%E5%8D%83%E5%B9%B4%E4%B9%8B%E6%84%BF%E3%80%8D.png/180px-%E8%9D%B6%E6%81%8B%E3%80%8C%E5%8D%83%E5%B9%B4%E4%B9%8B%E6%84%BF%E3%80%8D.png 1.5x, https://upload.thwiki.cc/thumb/9/91/%E8%9D%B6%E6%81%8B%E3%80%8C%E5%8D%83%E5%B9%B4%E4%B9%8B%E6%84%BF%E3%80%8D.png/240px-%E8%9D%B6%E6%81%8B%E3%80%8C%E5%8D%83%E5%B9%B4%E4%B9%8B%E6%84%BF%E3%80%8D.png 2x" data-file-width="611" data-file-height="706"></a></td></tr>
 <tr><td>符卡原名</td><td>蝶恋「千年之愿」</td></tr><tr><td>出现位置</td><td>Stage EX - Extra（<a href="./夏青柳.md" title="夏青柳">夏青柳</a>）</td></tr></tbody></table>
+
 
 
 ### [博丽灵梦&amp;少名针妙丸](./东方夏夜祭_～_Shining_Shooting_Star.-设定与剧情-博丽灵梦&少名针妙丸Ex.md)线符卡
@@ -106,6 +110,7 @@
 <tr><td>符卡原名</td><td>「雾隐流剑技~血染之樱」</td></tr><tr><td>出现位置</td><td>Stage EX - Extra（<a href="./雾隐梨花.md" title="雾隐梨花">雾隐梨花</a>）</td></tr></tbody></table>
 
 
+
 ### [雾雨魔理沙](./东方夏夜祭_～_Shining_Shooting_Star.-设定与剧情-雾雨魔理沙Ex.md)线符卡
 
 <table>
@@ -147,6 +152,7 @@
 <table>
 <tbody><tr><td width="80">符卡编号</td><td width="400">087</td><td rowspan="3" width="120"><a href="./文件-「雾隐流剑技~天地银蛇」.png.md" class="image"><img alt="「雾隐流剑技~天地银蛇」.png" src="https://upload.thwiki.cc/thumb/f/f5/%E3%80%8C%E9%9B%BE%E9%9A%90%E6%B5%81%E5%89%91%E6%8A%80~%E5%A4%A9%E5%9C%B0%E9%93%B6%E8%9B%87%E3%80%8D.png/120px-%E3%80%8C%E9%9B%BE%E9%9A%90%E6%B5%81%E5%89%91%E6%8A%80~%E5%A4%A9%E5%9C%B0%E9%93%B6%E8%9B%87%E3%80%8D.png" decoding="async" loading="lazy" width="120" height="138" srcset="https://upload.thwiki.cc/thumb/f/f5/%E3%80%8C%E9%9B%BE%E9%9A%90%E6%B5%81%E5%89%91%E6%8A%80~%E5%A4%A9%E5%9C%B0%E9%93%B6%E8%9B%87%E3%80%8D.png/180px-%E3%80%8C%E9%9B%BE%E9%9A%90%E6%B5%81%E5%89%91%E6%8A%80~%E5%A4%A9%E5%9C%B0%E9%93%B6%E8%9B%87%E3%80%8D.png 1.5x, https://upload.thwiki.cc/thumb/f/f5/%E3%80%8C%E9%9B%BE%E9%9A%90%E6%B5%81%E5%89%91%E6%8A%80~%E5%A4%A9%E5%9C%B0%E9%93%B6%E8%9B%87%E3%80%8D.png/240px-%E3%80%8C%E9%9B%BE%E9%9A%90%E6%B5%81%E5%89%91%E6%8A%80~%E5%A4%A9%E5%9C%B0%E9%93%B6%E8%9B%87%E3%80%8D.png 2x" data-file-width="617" data-file-height="711"></a></td></tr>
 <tr><td>符卡原名</td><td>「雾隐流剑技~天地银蛇」</td></tr><tr><td>出现位置</td><td>Stage EX - Extra（<a href="./雾隐梨花.md" title="雾隐梨花">雾隐梨花</a>）</td></tr></tbody></table>
+
 
 
 ### [东风谷早苗](./东方夏夜祭_～_Shining_Shooting_Star.-设定与剧情-东风谷早苗Ex.md)线符卡
@@ -192,6 +198,7 @@
 <tr><td>符卡原名</td><td>「雾隐流剑技~暴风疾斩」</td></tr><tr><td>出现位置</td><td>Stage EX - Extra（<a href="./雾隐梨花.md" title="雾隐梨花">雾隐梨花</a>）</td></tr></tbody></table>
 
 
+
 ### [古明地恋](./东方夏夜祭_～_Shining_Shooting_Star.-设定与剧情-古明地恋Ex.md)线
 
 <table>
@@ -233,6 +240,7 @@
 <table>
 <tbody><tr><td width="80">符卡编号</td><td width="400">089</td><td rowspan="3" width="120"><a href="./文件-「雾隐流剑技~落雪凝霜」.png.md" class="image"><img alt="「雾隐流剑技~落雪凝霜」.png" src="https://upload.thwiki.cc/thumb/9/93/%E3%80%8C%E9%9B%BE%E9%9A%90%E6%B5%81%E5%89%91%E6%8A%80~%E8%90%BD%E9%9B%AA%E5%87%9D%E9%9C%9C%E3%80%8D.png/120px-%E3%80%8C%E9%9B%BE%E9%9A%90%E6%B5%81%E5%89%91%E6%8A%80~%E8%90%BD%E9%9B%AA%E5%87%9D%E9%9C%9C%E3%80%8D.png" decoding="async" loading="lazy" width="120" height="139" srcset="https://upload.thwiki.cc/thumb/9/93/%E3%80%8C%E9%9B%BE%E9%9A%90%E6%B5%81%E5%89%91%E6%8A%80~%E8%90%BD%E9%9B%AA%E5%87%9D%E9%9C%9C%E3%80%8D.png/180px-%E3%80%8C%E9%9B%BE%E9%9A%90%E6%B5%81%E5%89%91%E6%8A%80~%E8%90%BD%E9%9B%AA%E5%87%9D%E9%9C%9C%E3%80%8D.png 1.5x, https://upload.thwiki.cc/thumb/9/93/%E3%80%8C%E9%9B%BE%E9%9A%90%E6%B5%81%E5%89%91%E6%8A%80~%E8%90%BD%E9%9B%AA%E5%87%9D%E9%9C%9C%E3%80%8D.png/240px-%E3%80%8C%E9%9B%BE%E9%9A%90%E6%B5%81%E5%89%91%E6%8A%80~%E8%90%BD%E9%9B%AA%E5%87%9D%E9%9C%9C%E3%80%8D.png 2x" data-file-width="611" data-file-height="706"></a></td></tr>
 <tr><td>符卡原名</td><td>「雾隐流剑技~落雪凝霜」</td></tr><tr><td>出现位置</td><td>Stage EX - Extra（<a href="./雾隐梨花.md" title="雾隐梨花">雾隐梨花</a>）</td></tr></tbody></table>
+
 
 
 ### 全线符卡
@@ -277,6 +285,7 @@
 
   
 </center>
+
 ## 词条导航
   
   

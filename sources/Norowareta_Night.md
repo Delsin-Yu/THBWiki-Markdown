@@ -4,13 +4,15 @@
 
 Norowareta Night ，于 2016 年成立，主要制作 同人音乐 的德国同人社团，主催是 Milkychan，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
 - [2 成员名单](#成员名单)
 - [3 作品列表](#作品列表)
 - [4 其他信息](#其他信息)
+
 
 
 
@@ -22,8 +24,10 @@ Norowareta Night ，于 2016 年成立，主要制作 同人音乐 的德国同�
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Norowareta Night </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2016</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="./Milkychan.md" title="Milkychan">Milkychan</a> </td></tr><tr><td><b>地区</b></td><td>德国</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="https://norowaretanight.bandcamp.com/">https://norowaretanight.bandcamp.com/</a> </td></tr></tbody></table>
 
 Norowareta Night（同人社团，同人音乐社团） - Norowareta Night ，于 2016 年成立，主要制作 同人音乐 的德国同人社团，主催是 Milkychan，当前状态为 活动
+
 ## 成员名单
 - [Milkychan](./Milkychan.md)：[Youtube](http://www.youtube.com/user/xXMilkychanXx)
+
 
 ## 作品列表
 [](./Light_a_Fire_EP.md)[Light a Fire EP](./Light_a_Fire_EP.md)首发日期：2016-07-16 （Redditaisai 2016 (未找到链接)）EP （一般向）[](./Dissonance.md)[Dissonance](./Dissonance.md)首发日期：2016-08-12 全长 （一般向）[](./：Continue.md)[:Continue](./：Continue.md)首发日期：2016-12-29 （Comic Market 91 (未找到链接)）全长 （一般向）[](./Open_up_your_Heart.md)[Open up your Heart](./Open_up_your_Heart.md)首发日期：2017-08-11 （Comic Market 92 (未找到链接)）全长 （一般向）[](./Spectrum（同人专辑）.md)[Spectrum](./Spectrum（同人专辑）.md)首发日期：2017-12-29 （Comic Market 93 (未找到链接)）全长 （一般向）[](./Instrumental_Collection_Vol.1（Norowareta_Night）.md)[Instrumental Collection Vol.1](./Instrumental_Collection_Vol.1（Norowareta_Night）.md)首发日期：2018-08-10 （Comic Market 94 (未找到链接)）原声集 （一般向）[](./Million_Stars.md)[Million Stars](./Million_Stars.md)首发日期：2018-12-29 全长 （一般向）[](./RADIANT.md)[RADIANT](./RADIANT.md)首发日期：2020-01-18 全长 （一般向）
@@ -43,6 +47,7 @@ Norowareta Night（同人社团，同人音乐社团） - Norowareta Night ，�
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 其他信息

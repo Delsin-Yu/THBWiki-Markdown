@@ -4,12 +4,14 @@
 
 ZUN | mixi
 
+
 ## 目录
 
 - [1 mixi简介](#mixi简介)
 - [2 关于ZUN的mixi](#关于ZUN的mixi)
 - [3 mixi好友对ZUN的介绍语](#mixi好友对ZUN的介绍语)
 - [4 注释](#注释)
+
 
 
 
@@ -22,6 +24,7 @@ mixi的名称源于“mix（交流）”与“i（人）的组合自造词”，
 
 但大多数服务内容必须登录帐号，无法以匿名方式发布内容或查看他人信息。
   
+
 
 ## 关于ZUN的mixi
   
@@ -102,6 +105,7 @@ ZUN曾以mixi日记作为[太田顺也](./ZUN.md)个人名义的非公开日记�
 </th>
 <td>喝Hoppy
 </td></tr></tbody></table>
+
 
 
 ## mixi好友对ZUN的介绍语

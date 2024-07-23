@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-東西すごい合同誌_Vol.2封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/a/ad/%E6%9D%B1%E8%A5%BF%E3%81%99%E3%81%94%E3%81%84%E5%90%88%E5%90%8C%E8%AA%8C_Vol.2%E5%B0%81%E9%9D%A2.jpg/120px-%E6%9D%B1%E8%A5%BF%E3%81%99%E3%81%94%E3%81%84%E5%90%88%E5%90%8C%E8%AA%8C_Vol.2%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="120" height="168" srcset="https://upload.thwiki.cc/thumb/a/ad/%E6%9D%B1%E8%A5%BF%E3%81%99%E3%81%94%E3%81%84%E5%90%88%E5%90%8C%E8%AA%8C_Vol.2%E5%B0%81%E9%9D%A2.jpg/180px-%E6%9D%B1%E8%A5%BF%E3%81%99%E3%81%94%E3%81%84%E5%90%88%E5%90%8C%E8%AA%8C_Vol.2%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/a/ad/%E6%9D%B1%E8%A5%BF%E3%81%99%E3%81%94%E3%81%84%E5%90%88%E5%90%8C%E8%AA%8C_Vol.2%E5%B0%81%E9%9D%A2.jpg/240px-%E6%9D%B1%E8%A5%BF%E3%81%99%E3%81%94%E3%81%84%E5%90%88%E5%90%8C%E8%AA%8C_Vol.2%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="2221" data-file-height="3107"></a><div class="cover-char">角色：<a href="./依神女苑.md" title="依神女苑">依神女苑</a>，<a href="./依神紫苑.md" title="依神紫苑">依神紫苑</a></div></td>
@@ -17,7 +18,9 @@
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://sweetest.booth.pm/items/1454989">Booth</a></td></tr></tbody></table>
 
 
+
 ## 预览
+
 ## Staff
   
  **西から東へ大移動するせいサグ** 
@@ -123,6 +126,7 @@ Piano
 : wat （Wat is this？ (未找到链接) / [Twitter: @wat3030](https://twitter.com/wat3030)）
 Organizer
 : 甘雲 柑曇 （[Twitter: @tsuttsu_toho](https://twitter.com/tsuttsu_toho)）
+
 
 ## 评论
 

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="/%E6%96%87%E4%BB%B6:%E3%81%82%E3%81%BE%E3%81%A8%E3%82%8D%E3%81%94%E5%A5%89%E4%BB%95%EF%BD%9E%E8%8F%85%E7%89%A7%E5%85%B8%E3%81%AB%E7%99%92%E3%81%95%E3%82%8C%E3%81%A6%E3%81%82%E3%81%BE%EF%BD%9E%E3%81%8F%E3%81%A8%E3%82%8D%E3%81%91%E3%82%8BASMR%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/c/c6/%E3%81%82%E3%81%BE%E3%81%A8%E3%82%8D%E3%81%94%E5%A5%89%E4%BB%95%EF%BD%9E%E8%8F%85%E7%89%A7%E5%85%B8%E3%81%AB%E7%99%92%E3%81%95%E3%82%8C%E3%81%A6%E3%81%82%E3%81%BE%EF%BD%9E%E3%81%8F%E3%81%A8%E3%82%8D%E3%81%91%E3%82%8BASMR%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg/252px-%E3%81%82%E3%81%BE%E3%81%A8%E3%82%8D%E3%81%94%E5%A5%89%E4%BB%95%EF%BD%9E%E8%8F%85%E7%89%A7%E5%85%B8%E3%81%AB%E7%99%92%E3%81%95%E3%82%8C%E3%81%A6%E3%81%82%E3%81%BE%EF%BD%9E%E3%81%8F%E3%81%A8%E3%82%8D%E3%81%91%E3%82%8BASMR%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="249" srcset="https://upload.thwiki.cc/thumb/c/c6/%E3%81%82%E3%81%BE%E3%81%A8%E3%82%8D%E3%81%94%E5%A5%89%E4%BB%95%EF%BD%9E%E8%8F%85%E7%89%A7%E5%85%B8%E3%81%AB%E7%99%92%E3%81%95%E3%82%8C%E3%81%A6%E3%81%82%E3%81%BE%EF%BD%9E%E3%81%8F%E3%81%A8%E3%82%8D%E3%81%91%E3%82%8BASMR%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg/378px-%E3%81%82%E3%81%BE%E3%81%A8%E3%82%8D%E3%81%94%E5%A5%89%E4%BB%95%EF%BD%9E%E8%8F%85%E7%89%A7%E5%85%B8%E3%81%AB%E7%99%92%E3%81%95%E3%82%8C%E3%81%A6%E3%81%82%E3%81%BE%EF%BD%9E%E3%81%8F%E3%81%A8%E3%82%8D%E3%81%91%E3%82%8BASMR%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/c/c6/%E3%81%82%E3%81%BE%E3%81%A8%E3%82%8D%E3%81%94%E5%A5%89%E4%BB%95%EF%BD%9E%E8%8F%85%E7%89%A7%E5%85%B8%E3%81%AB%E7%99%92%E3%81%95%E3%82%8C%E3%81%A6%E3%81%82%E3%81%BE%EF%BD%9E%E3%81%8F%E3%81%A8%E3%82%8D%E3%81%91%E3%82%8BASMR%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg/504px-%E3%81%82%E3%81%BE%E3%81%A8%E3%82%8D%E3%81%94%E5%A5%89%E4%BB%95%EF%BD%9E%E8%8F%85%E7%89%A7%E5%85%B8%E3%81%AB%E7%99%92%E3%81%95%E3%82%8C%E3%81%A6%E3%81%82%E3%81%BE%EF%BD%9E%E3%81%8F%E3%81%A8%E3%82%8D%E3%81%91%E3%82%8BASMR%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="900" data-file-height="890"></a><div class="cover-char">角色：<a href="./菅牧典.md" title="菅牧典">菅牧典</a></div></td>
@@ -16,6 +17,7 @@
 あまとろご奉仕～菅牧典に癒されてあま～くとろけるASMR～（同人专辑，アールグレイ，2023） - 2023年11月12日 由 アールグレイ 于 博丽神社秋季例大祭10 发布的配音作品同人专辑，分级为 一般向
 
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=2123229">蜜瓜</a>，<a rel="nofollow" class="external text" href="http://www.dlsite.com/home/work/=/product_id/RJ01115897.html">DLsite</a></td></tr></tbody></table>
+
 
 
 ## Staff
@@ -32,6 +34,7 @@
 
 Illustration
 : かまぼこRED (未找到链接) （[X&#160;: @_kamaboko_](https://twitter.com/_kamaboko_)）
+
 
 ## 试听
   
@@ -50,7 +53,9 @@ Illustration
 </td></tr></tbody></table>
 
 
+
 ## 曲目列表
+
 ### Disc 1
 
 <table><tbody><tr><td id="1" class="infoG"><b>01</b></td><td id="管狐に出会い摘ままれ弄ばれる" colspan="2" class="title">管狐に出会い摘ままれ弄ばれる<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?dub=希水しお&amp;script=湊川紗弥&amp;fromwiki=あまとろご奉仕～菅牧典に癒されてあま～くとろけるASMR～"><span title="搜索相似同人曲"></span></a></span></td><td class="time">17:55</td></tr><tr><td class="left"></td><td class="label">配音</td><td class="text" colspan="2">菅牧典（<a href="/index.php?title=%E5%B8%8C%E6%B0%B4%E3%81%97%E3%81%8A&amp;action=edit&amp;redlink=1" class="new" title="希水しお（页面不存在）">希水しお</a>）<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?dub=希水しお&amp;fromwiki=あまとろご奉仕～菅牧典に癒されてあま～くとろけるASMR～"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">剧本</td><td class="text" colspan="2"><a href="/index.php?title=%E6%B9%8A%E5%B7%9D%E7%B4%97%E5%BC%A5&amp;action=edit&amp;redlink=1" class="new" title="湊川紗弥（页面不存在）">湊川紗弥</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?script=湊川紗弥&amp;fromwiki=あまとろご奉仕～菅牧典に癒されてあま～くとろけるASMR～"><span></span></a></span></td></tr>
@@ -58,10 +63,12 @@ Illustration
 <tr><td id="3" class="infoG"><b>03</b></td><td id="狭いところで一緒に好き好き2人きり" colspan="2" class="title">狭いところで一緒に好き好き2人きり<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?dub=希水しお&amp;script=湊川紗弥&amp;fromwiki=あまとろご奉仕～菅牧典に癒されてあま～くとろけるASMR～"><span title="搜索相似同人曲"></span></a></span></td><td class="time">17:48</td></tr><tr><td class="left"></td><td class="label">配音</td><td class="text" colspan="2">菅牧典（<a href="/index.php?title=%E5%B8%8C%E6%B0%B4%E3%81%97%E3%81%8A&amp;action=edit&amp;redlink=1" class="new" title="希水しお（页面不存在）">希水しお</a>）<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?dub=希水しお&amp;fromwiki=あまとろご奉仕～菅牧典に癒されてあま～くとろけるASMR～"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">剧本</td><td class="text" colspan="2"><a href="/index.php?title=%E6%B9%8A%E5%B7%9D%E7%B4%97%E5%BC%A5&amp;action=edit&amp;redlink=1" class="new" title="湊川紗弥（页面不存在）">湊川紗弥</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?script=湊川紗弥&amp;fromwiki=あまとろご奉仕～菅牧典に癒されてあま～くとろけるASMR～"><span></span></a></span></td></tr></tbody></table>
 
 
+
 ### Disc 2
 
 <table><tbody><tr><td id="4" class="infoG"><b>01</b></td><td id="あまとろループトラック・右耳" colspan="2" class="title">あまとろループトラック・右耳<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?dub=希水しお&amp;script=湊川紗弥&amp;fromwiki=あまとろご奉仕～菅牧典に癒されてあま～くとろけるASMR～"><span title="搜索相似同人曲"></span></a></span></td><td class="time">08:49</td></tr><tr><td class="left"></td><td class="label">配音</td><td class="text" colspan="2">菅牧典（<a href="/index.php?title=%E5%B8%8C%E6%B0%B4%E3%81%97%E3%81%8A&amp;action=edit&amp;redlink=1" class="new" title="希水しお（页面不存在）">希水しお</a>）<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?dub=希水しお&amp;fromwiki=あまとろご奉仕～菅牧典に癒されてあま～くとろけるASMR～"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">剧本</td><td class="text" colspan="2"><a href="/index.php?title=%E6%B9%8A%E5%B7%9D%E7%B4%97%E5%BC%A5&amp;action=edit&amp;redlink=1" class="new" title="湊川紗弥（页面不存在）">湊川紗弥</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?script=湊川紗弥&amp;fromwiki=あまとろご奉仕～菅牧典に癒されてあま～くとろけるASMR～"><span></span></a></span></td></tr>
 <tr><td id="5" class="infoG"><b>02</b></td><td id="あまとろループトラック・左耳" colspan="2" class="title">あまとろループトラック・左耳<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?dub=希水しお&amp;script=湊川紗弥&amp;fromwiki=あまとろご奉仕～菅牧典に癒されてあま～くとろけるASMR～"><span title="搜索相似同人曲"></span></a></span></td><td class="time">09:56</td></tr><tr><td class="left"></td><td class="label">配音</td><td class="text" colspan="2">菅牧典（<a href="/index.php?title=%E5%B8%8C%E6%B0%B4%E3%81%97%E3%81%8A&amp;action=edit&amp;redlink=1" class="new" title="希水しお（页面不存在）">希水しお</a>）<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?dub=希水しお&amp;fromwiki=あまとろご奉仕～菅牧典に癒されてあま～くとろけるASMR～"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">剧本</td><td class="text" colspan="2"><a href="/index.php?title=%E6%B9%8A%E5%B7%9D%E7%B4%97%E5%BC%A5&amp;action=edit&amp;redlink=1" class="new" title="湊川紗弥（页面不存在）">湊川紗弥</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?script=湊川紗弥&amp;fromwiki=あまとろご奉仕～菅牧典に癒されてあま～くとろけるASMR～"><span></span></a></span></td></tr></tbody></table>
+
 
 
 ## 评论

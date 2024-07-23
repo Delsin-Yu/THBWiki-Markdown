@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-WITNESS_ME！！_JOUGAAA！！！封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/2/20/WITNESS_ME%EF%BC%81%EF%BC%81_JOUGAAA%EF%BC%81%EF%BC%81%EF%BC%81%E5%B0%81%E9%9D%A2.jpg/120px-WITNESS_ME%EF%BC%81%EF%BC%81_JOUGAAA%EF%BC%81%EF%BC%81%EF%BC%81%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="120" height="168" srcset="https://upload.thwiki.cc/thumb/2/20/WITNESS_ME%EF%BC%81%EF%BC%81_JOUGAAA%EF%BC%81%EF%BC%81%EF%BC%81%E5%B0%81%E9%9D%A2.jpg/181px-WITNESS_ME%EF%BC%81%EF%BC%81_JOUGAAA%EF%BC%81%EF%BC%81%EF%BC%81%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/2/20/WITNESS_ME%EF%BC%81%EF%BC%81_JOUGAAA%EF%BC%81%EF%BC%81%EF%BC%81%E5%B0%81%E9%9D%A2.jpg/241px-WITNESS_ME%EF%BC%81%EF%BC%81_JOUGAAA%EF%BC%81%EF%BC%81%EF%BC%81%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="861" data-file-height="1200"></a><div class="cover-char">角色：<a href="./赫卡提亚·拉碧斯拉祖利.md" title="赫卡提亚·拉碧斯拉祖利">赫卡提亚·拉碧斯拉祖利</a>，<a href="./纯狐.md" title="纯狐">纯狐</a>，<a href="./克劳恩皮丝.md" title="克劳恩皮丝">克劳恩皮丝</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/56577873">https://www.pixiv.net/artworks/56577873</a><br><a rel="nofollow" class="external free" href="https://twitter.com/Are_men/status/725673138843844608">https://twitter.com/Are_men/status/725673138843844608</a><br><a rel="nofollow" class="external free" href="https://twitter.com/Are_men/status/727675419160272897">https://twitter.com/Are_men/status/727675419160272897</a></td></tr></tbody></table>
 
 WITNESS ME！！ JOUGAAA！！！（同人志，荒巻シェイカー，2016） - 2016年5月8日 由 荒巻シェイカー 于 博丽神社例大祭13 发布的漫画同人志，登场人物有 清兰、铃瑚、哆来咪·苏伊特、稀神探女、克劳恩皮丝、纯狐、赫卡提亚·拉碧斯拉祖利，分级为 一般向
+
 ## Staff
 - あー麺 (未找到链接)
+
 
 ## 评论
 

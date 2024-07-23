@@ -4,6 +4,7 @@
 
 焼菓一心 | 社团LOGO
 
+
 ## 摘要
   
 源地址：[direct image link (max size)](https://s2.booth.pm/c2ee05eb-1710-45a6-9b2d-1bc971bee406/c4e108e0-ce5c-4b4a-add8-93778ea77ded.png), [source page (circle Booth banner)](https://shoukaissin.booth.pm/)

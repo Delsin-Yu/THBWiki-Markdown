@@ -11,6 +11,7 @@ Readme | 东方辉针城 | 使用了翻译表的页面 | 附带文档
 : [日文版](http://omake.thwiki.cc/translate.php?u=附带文档:东方辉针城/Readme&amp;t=ja)
 : [汉化版](http://omake.thwiki.cc/translate.php?u=附带文档:东方辉针城/Readme&amp;t=zh)
 
+
 ## 目录
 
 - [1 问候](#问候)
@@ -33,6 +34,7 @@ Readme | 东方辉针城 | 使用了翻译表的页面 | 附带文档
 
 
 
+
 ###### 问候
 
   
@@ -45,6 +47,7 @@ Readme | 东方辉针城 | 使用了翻译表的页面 | 附带文档
 
 
 
+
 ###### 安装方法
 
 
@@ -52,10 +55,12 @@ Readme | 东方辉针城 | 使用了翻译表的页面 | 附带文档
 
 
 
+
 ###### 卸载方法
 
 
 <table><tbody><tr class="tt-content" id="=-7" data-pos="&#91;&quot;=&quot;,7&#93;"><td class="tt-ja" lang="ja"><div class="poem">■３．アンインストール方法<br><br>　インストールでスタートメニューにアイコンを登録した場合は、<br>　上海アリス幻樂団＞東方輝針城＞アンインストール<br>　をクリックしてください。<br><br>　登録しなかった場合は、コントロールパネルの「プログラムの変更と削除」<br>　で東方輝針城を選択してください。</div></td><td class="tt-zh" lang="zh"><div class="poem">■３．卸载方式<br><br>  在安装过程中添加到了开始菜单，<br>  请点击上海爱丽丝幻乐团＞东方辉针城＞卸载程序。<br><br>  如果没有添加，请打开控制面板中的「卸载或更改程序」，<br>  选择东方辉针城。<br></div></td></tr></tbody></table>
+
 
 
 
@@ -71,10 +76,12 @@ Readme | 东方辉针城 | 使用了翻译表的页面 | 附带文档
 
 
 
+
 ###### 没问题的话
 
 
 <table><tbody><tr class="tt-content" id="=-11" data-pos="&#91;&quot;=&quot;,11&#93;"><td class="tt-ja" lang="ja"><div class="poem">■５．困ったことが無かったら<br>　お楽しみ下さい。</div></td><td class="tt-zh" lang="zh"><div class="poem">■５．如果没有什么疑问<br>  请享受游戏。<br></div></td></tr></tbody></table>
+
 
 
 

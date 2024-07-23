@@ -4,6 +4,7 @@
 
 FOSSIL_ANTIQUE | 社团LOGO
 
+
 ## 摘要
   
 源地址：[direct image link](https://web.archive.org/web/20061130000935im_/http://fossil-antique.com/facom.gif), [source page](https://web.archive.org/web/20090703170543/http://www.fossil-antique.com/blog/)

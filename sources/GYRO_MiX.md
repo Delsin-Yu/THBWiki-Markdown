@@ -4,7 +4,8 @@
 
 GYRO MiX ，于 2007 年成立，主要制作 同人音乐 的日本同人社团，主催是 椎名治美，当前状态为 解散
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -16,19 +17,23 @@ GYRO MiX ，于 2007 年成立，主要制作 同人音乐 的日本同人社团
 
 
 
+
 ## 社团信息
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> GYRO MiX </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2007</td></tr><tr><td><b>当前状态</b></td><td>解散</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=%E6%A4%8E%E5%90%8D%E6%B2%BB%E7%BE%8E&amp;action=edit&amp;redlink=1" class="new" title="椎名治美（页面不存在）">椎名治美</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr></tbody></table>
 
 GYRO MiX（同人社团，同人音乐社团） - GYRO MiX ，于 2007 年成立，主要制作 同人音乐 的日本同人社团，主催是 椎名治美，当前状态为 解散
+
 ## 社团简介
   
 [Mad Tea Party](./Mad_Tea_Party.md)是该社团的后续社团。
   
 
+
 ## 成员名单
 - 椎名治美 (未找到链接) (a.k.a. しいな はるみ)
 - 石川直人 (未找到链接) (a.k.a. いしかわ なおと)
+
 
 ## 作品列表
 [](./CatHolic.md)[CatHolic](./CatHolic.md)首发日期：2007-09-09 GMIX-0001全长 （一般向）[](./Witch_Craft.md)[Witch Craft](./Witch_Craft.md)首发日期：2008-04-20 （SunshineCreation39 (未找到链接)）GMIX-0002全长 （一般向）[](./SCAPEGOAT（同人专辑）.md)[SCAPEGOAT](./SCAPEGOAT（同人专辑）.md)首发日期：2008-12-29 （Comic Market 75 (未找到链接)）GMIX-0004全长 （一般向）
@@ -38,6 +43,7 @@ GYRO MiX（同人社团，同人音乐社团） - GYRO MiX ，于 2007 年成立
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 其他信息

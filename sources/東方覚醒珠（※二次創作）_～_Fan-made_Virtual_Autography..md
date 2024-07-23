@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 软件信息](#软件信息)
@@ -28,6 +29,7 @@
 
 
 
+
 ## 软件信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-東方覚醒珠（※二次創作）_～_Fan-made_Virtual_Autography.封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/1/1c/%E6%9D%B1%E6%96%B9%E8%A6%9A%E9%86%92%E7%8F%A0%EF%BC%88%E2%80%BB%E4%BA%8C%E6%AC%A1%E5%89%B5%E4%BD%9C%EF%BC%89_%EF%BD%9E_Fan-made_Virtual_Autography.%E5%B0%81%E9%9D%A2.jpg/224px-%E6%9D%B1%E6%96%B9%E8%A6%9A%E9%86%92%E7%8F%A0%EF%BC%88%E2%80%BB%E4%BA%8C%E6%AC%A1%E5%89%B5%E4%BD%9C%EF%BC%89_%EF%BD%9E_Fan-made_Virtual_Autography.%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="105" srcset="https://upload.thwiki.cc/thumb/1/1c/%E6%9D%B1%E6%96%B9%E8%A6%9A%E9%86%92%E7%8F%A0%EF%BC%88%E2%80%BB%E4%BA%8C%E6%AC%A1%E5%89%B5%E4%BD%9C%EF%BC%89_%EF%BD%9E_Fan-made_Virtual_Autography.%E5%B0%81%E9%9D%A2.jpg/336px-%E6%9D%B1%E6%96%B9%E8%A6%9A%E9%86%92%E7%8F%A0%EF%BC%88%E2%80%BB%E4%BA%8C%E6%AC%A1%E5%89%B5%E4%BD%9C%EF%BC%89_%EF%BD%9E_Fan-made_Virtual_Autography.%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/1/1c/%E6%9D%B1%E6%96%B9%E8%A6%9A%E9%86%92%E7%8F%A0%EF%BC%88%E2%80%BB%E4%BA%8C%E6%AC%A1%E5%89%B5%E4%BD%9C%EF%BC%89_%EF%BD%9E_Fan-made_Virtual_Autography.%E5%B0%81%E9%9D%A2.jpg/448px-%E6%9D%B1%E6%96%B9%E8%A6%9A%E9%86%92%E7%8F%A0%EF%BC%88%E2%80%BB%E4%BA%8C%E6%AC%A1%E5%89%B5%E4%BD%9C%EF%BC%89_%EF%BD%9E_Fan-made_Virtual_Autography.%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="460" data-file-height="215"></a><div class="cover-char">角色：<a href="./大伴家珠叶.md" title="大伴家珠叶">大伴家珠叶</a></div></td>
@@ -40,6 +42,7 @@
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://store.steampowered.com/app/1104610">Steam</a>，<a rel="nofollow" class="external text" href="https://ec.nintendo.com//JP/ja/titles/70010000047218">eShop</a></td></tr></tbody></table>
 
 
+
 ## Staff
 综合制作
 : 峅井はで（@kraihd）
@@ -50,15 +53,19 @@
 英语翻译
 : 望月 亮
 
+
 ## 游戏介绍
 - [故事背景](./東方覚醒珠（※二次創作）_～_Fan-made_Virtual_Autography.-故事背景.md)
 
+
 ## 角色
+
 ### 自机
 
 <table><tbody><tr><td style="min-width:40px;" rowspan=""><div class="center"><div class="floatnone"><a href="./文件-博丽灵梦（觉醒珠）.png.md" class="image" title="博丽灵梦"><img alt="博丽灵梦" src="https://upload.thwiki.cc/thumb/9/9f/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E8%A7%89%E9%86%92%E7%8F%A0%EF%BC%89.png/30px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E8%A7%89%E9%86%92%E7%8F%A0%EF%BC%89.png" decoding="async" loading="lazy" width="30" height="40" srcset="https://upload.thwiki.cc/thumb/9/9f/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E8%A7%89%E9%86%92%E7%8F%A0%EF%BC%89.png/45px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E8%A7%89%E9%86%92%E7%8F%A0%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/9/9f/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E8%A7%89%E9%86%92%E7%8F%A0%EF%BC%89.png/61px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E8%A7%89%E9%86%92%E7%8F%A0%EF%BC%89.png 2x" data-file-width="418" data-file-height="551"></a></div></div></td> <td style="width:150px;padding:3px 9px 3px 7px;" rowspan="">乐园的可爱巫女 </td><td style="width:180px;padding:3px 9px 3px 7px;"><a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></td><td><a href="./東方覚醒珠（※二次創作）_～_Fan-made_Virtual_Autography.-博丽灵梦.md" title="東方覚醒珠（※二次創作） ～ Fan-made Virtual Autography./博丽灵梦">游戏对话/结局</a><br><a href="./東方覚醒珠（※二次創作）_～_Fan-made_Virtual_Autography.-博丽灵梦_ExStory.md" title="東方覚醒珠（※二次創作） ～ Fan-made Virtual Autography./博丽灵梦 ExStory">Extra游戏对话</a></td></tr>
 <tr><td style="min-width:40px;" rowspan=""><div class="center"><div class="floatnone"><a href="./文件-雾雨魔理沙（觉醒珠）.png.md" class="image" title="雾雨魔理沙"><img alt="雾雨魔理沙" src="https://upload.thwiki.cc/thumb/c/c7/%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%EF%BC%88%E8%A7%89%E9%86%92%E7%8F%A0%EF%BC%89.png/20px-%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%EF%BC%88%E8%A7%89%E9%86%92%E7%8F%A0%EF%BC%89.png" decoding="async" loading="lazy" width="20" height="40" srcset="https://upload.thwiki.cc/thumb/c/c7/%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%EF%BC%88%E8%A7%89%E9%86%92%E7%8F%A0%EF%BC%89.png/30px-%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%EF%BC%88%E8%A7%89%E9%86%92%E7%8F%A0%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/c/c7/%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%EF%BC%88%E8%A7%89%E9%86%92%E7%8F%A0%EF%BC%89.png/40px-%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99%EF%BC%88%E8%A7%89%E9%86%92%E7%8F%A0%EF%BC%89.png 2x" data-file-width="282" data-file-height="554"></a></div></div></td> <td style="width:150px;padding:3px 9px 3px 7px;" rowspan="">普通的魔法使 </td><td style="width:180px;padding:3px 9px 3px 7px;"><a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a></td><td><a href="./東方覚醒珠（※二次創作）_～_Fan-made_Virtual_Autography.-雾雨魔理沙.md" title="東方覚醒珠（※二次創作） ～ Fan-made Virtual Autography./雾雨魔理沙">游戏对话/结局</a><br><a href="./東方覚醒珠（※二次創作）_～_Fan-made_Virtual_Autography.-雾雨魔理沙_ExStory.md" title="東方覚醒珠（※二次創作） ～ Fan-made Virtual Autography./雾雨魔理沙 ExStory">Extra游戏对话</a></td></tr>
 <tr><td style="min-width:40px;" rowspan=""><div class="center"><div class="floatnone"><a href="./文件-宇佐见堇子（觉醒珠）.png.md" class="image" title="宇佐见堇子"><img alt="宇佐见堇子" src="https://upload.thwiki.cc/thumb/5/52/%E5%AE%87%E4%BD%90%E8%A7%81%E5%A0%87%E5%AD%90%EF%BC%88%E8%A7%89%E9%86%92%E7%8F%A0%EF%BC%89.png/25px-%E5%AE%87%E4%BD%90%E8%A7%81%E5%A0%87%E5%AD%90%EF%BC%88%E8%A7%89%E9%86%92%E7%8F%A0%EF%BC%89.png" decoding="async" loading="lazy" width="25" height="40" srcset="https://upload.thwiki.cc/thumb/5/52/%E5%AE%87%E4%BD%90%E8%A7%81%E5%A0%87%E5%AD%90%EF%BC%88%E8%A7%89%E9%86%92%E7%8F%A0%EF%BC%89.png/38px-%E5%AE%87%E4%BD%90%E8%A7%81%E5%A0%87%E5%AD%90%EF%BC%88%E8%A7%89%E9%86%92%E7%8F%A0%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/5/52/%E5%AE%87%E4%BD%90%E8%A7%81%E5%A0%87%E5%AD%90%EF%BC%88%E8%A7%89%E9%86%92%E7%8F%A0%EF%BC%89.png/51px-%E5%AE%87%E4%BD%90%E8%A7%81%E5%A0%87%E5%AD%90%EF%BC%88%E8%A7%89%E9%86%92%E7%8F%A0%EF%BC%89.png 2x" data-file-width="348" data-file-height="546"></a></div></div></td> <td style="width:150px;padding:3px 9px 3px 7px;" rowspan="">多梦的访问者 </td><td style="width:180px;padding:3px 9px 3px 7px;"><a href="./宇佐见堇子.md" title="宇佐见堇子">宇佐见堇子</a></td><td><a href="./東方覚醒珠（※二次創作）_～_Fan-made_Virtual_Autography.-宇佐见堇子.md" title="東方覚醒珠（※二次創作） ～ Fan-made Virtual Autography./宇佐见堇子">游戏对话/结局</a><br><a href="./東方覚醒珠（※二次創作）_～_Fan-made_Virtual_Autography.-宇佐见堇子_ExStory.md" title="東方覚醒珠（※二次創作） ～ Fan-made Virtual Autography./宇佐见堇子 ExStory">Extra游戏对话</a></td></tr></tbody></table>
+
 
 
 ### BOSS
@@ -72,9 +79,11 @@
 <tr><td rowspan="1" class="bg-color-info-10" style="min-width:100px"><b>EX面道中</b><br><i><a href="/index.php?title=Go_behind_the_scene!_%EF%BD%9E_%E9%96%89%E9%A0%98%E5%9F%9F%E3%81%AE%E3%82%B2%E3%83%BC%E3%83%A0&amp;action=edit&amp;redlink=1" class="new" title="Go behind the scene! ～ 閉領域のゲーム（页面不存在）">Go behind the scene! ～ 閉領域のゲーム</a></i></td><td style="min-width:35px" rowspan="1"><div class="center"><div class="floatnone"><a href="./文件-藏人未见.png.md" class="image"><img alt="藏人未见.png" src="https://upload.thwiki.cc/thumb/6/69/%E8%97%8F%E4%BA%BA%E6%9C%AA%E8%A7%81.png/21px-%E8%97%8F%E4%BA%BA%E6%9C%AA%E8%A7%81.png" decoding="async" loading="lazy" width="21" height="40" srcset="https://upload.thwiki.cc/thumb/6/69/%E8%97%8F%E4%BA%BA%E6%9C%AA%E8%A7%81.png/31px-%E8%97%8F%E4%BA%BA%E6%9C%AA%E8%A7%81.png 1.5x, https://upload.thwiki.cc/thumb/6/69/%E8%97%8F%E4%BA%BA%E6%9C%AA%E8%A7%81.png/42px-%E8%97%8F%E4%BA%BA%E6%9C%AA%E8%A7%81.png 2x" data-file-width="287" data-file-height="547"></a></div></div></td>  <td style="width:150px;padding:3px 9px 3px 7px;" rowspan="1"> 恋路的小车</td><td style="width:180px;padding:3px 9px 3px 7px;" rowspan="1"> <a href="./藏人未见.md" title="藏人未见">藏人未见</a> </td></tr><tr><td rowspan="1" class="bg-color-info-10" style="min-width:100px"><b>EX面BOSS</b><br><i><a href="/index.php?title=%E3%83%89%E3%83%83%E3%83%88%E3%83%9E%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9%E3%83%90%E3%83%88%E3%83%A9%E3%83%BC%E3%82%BA&amp;action=edit&amp;redlink=1" class="new" title="ドットマトリクスバトラーズ（页面不存在）">ドットマトリクスバトラーズ</a></i></td><td style="min-width:35px" rowspan="1"><div class="center"><div class="floatnone"><a href="./文件-轩端目目.png.md" class="image"><img alt="轩端目目.png" src="https://upload.thwiki.cc/thumb/6/68/%E8%BD%A9%E7%AB%AF%E7%9B%AE%E7%9B%AE.png/40px-%E8%BD%A9%E7%AB%AF%E7%9B%AE%E7%9B%AE.png" decoding="async" loading="lazy" width="40" height="36" srcset="https://upload.thwiki.cc/thumb/6/68/%E8%BD%A9%E7%AB%AF%E7%9B%AE%E7%9B%AE.png/60px-%E8%BD%A9%E7%AB%AF%E7%9B%AE%E7%9B%AE.png 1.5x, https://upload.thwiki.cc/thumb/6/68/%E8%BD%A9%E7%AB%AF%E7%9B%AE%E7%9B%AE.png/80px-%E8%BD%A9%E7%AB%AF%E7%9B%AE%E7%9B%AE.png 2x" data-file-width="1000" data-file-height="900"></a></div></div></td>  <td style="width:150px;padding:3px 9px 3px 7px;" rowspan="1"> 血腥的怀旧游戏</td><td style="width:180px;padding:3px 9px 3px 7px;" rowspan="1"> <a href="./轩端目目.md" title="轩端目目">轩端目目</a> </td></tr></tbody></table>
 
 
+
 ## 附带文档
 - 游戏内Manual (未找到链接)
 - [Omake](./東方覚醒珠（※二次創作）_～_Fan-made_Virtual_Autography.-Omake.md)
+
 
 ## 其他资料
 
@@ -106,8 +115,11 @@
 </td></tr></tbody></table>
 
 
+
 ## 评论
+
 ## 视频
+
 ## 下载
   
 请注意：  
@@ -123,6 +135,7 @@
 <tr>
 <td><a rel="nofollow" class="external text" href="https://store.steampowered.com/app/1104610/">steam</a>
 </td></tr></tbody></table>
+
 
 
 ## 词条导航

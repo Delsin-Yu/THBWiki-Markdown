@@ -4,7 +4,8 @@
 
 dizzic ，主要制作 同人音乐 的日本同人社团
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -15,16 +16,19 @@ dizzic ，主要制作 同人音乐 的日本同人社团
 
 
 
+
 ## 社团信息
 文件:dizzicbanner.jpg (未找到链接)  banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> dizzic </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>当前状态</b></td><td>未知</td></tr><tr><td><b>地区</b></td><td>日本</td></tr></tbody></table>
 
 dizzic（同人社团，同人音乐社团） - dizzic ，主要制作 同人音乐 的日本同人社团
+
 ## 成员名单
 - ゆっきゅん (未找到链接) (yukkyun)
 - メゾフォルテ (未找到链接)
 - ぐろっく (未找到链接)
+
 
 ## 作品列表
 [](./CRIMSON_BLACK.md)[CRIMSON BLACK](./CRIMSON_BLACK.md)首发日期：2011-05-08 （第八回 博麗神社例大祭 (未找到链接)）EP （一般向）[](./Vampire_Night.md)[Vampire Night](./Vampire_Night.md)首发日期：未知 EP （一般向）
@@ -32,6 +36,7 @@ dizzic（同人社团，同人音乐社团） - dizzic ，主要制作 同人音
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 其他信息

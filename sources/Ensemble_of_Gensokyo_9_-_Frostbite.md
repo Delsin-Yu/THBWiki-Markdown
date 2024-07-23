@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Ensemble_of_Gensokyo_9_-_Frostbite封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/2/26/Ensemble_of_Gensokyo_9_-_Frostbite%E5%B0%81%E9%9D%A2.png/224px-Ensemble_of_Gensokyo_9_-_Frostbite%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="224" height="224" srcset="https://upload.thwiki.cc/thumb/2/26/Ensemble_of_Gensokyo_9_-_Frostbite%E5%B0%81%E9%9D%A2.png/336px-Ensemble_of_Gensokyo_9_-_Frostbite%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/2/26/Ensemble_of_Gensokyo_9_-_Frostbite%E5%B0%81%E9%9D%A2.png/448px-Ensemble_of_Gensokyo_9_-_Frostbite%E5%B0%81%E9%9D%A2.png 2x" data-file-width="1000" data-file-height="1000"></a><div class="cover-char">角色：<a href="./琪露诺.md" title="琪露诺">琪露诺</a></div></td>
@@ -18,6 +19,7 @@ Ensemble of Gensokyo 9 - Frostbite（同人专辑，Dex Hexallion，2012） - 20
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://dexhexallion.bandcamp.com/album/ensemble-of-gensokyo-frostbite">bandcamp</a></td></tr></tbody></table>
 
 
+
 ## Staff
   
  **Compose**   
@@ -25,10 +27,12 @@ Ensemble of Gensokyo 9 - Frostbite（同人专辑，Dex Hexallion，2012） - 20
 <table><tbody><tr><td><a href="/index.php?title=Kazami_Shintaro&amp;action=edit&amp;redlink=1" class="new" title="Kazami Shintaro（页面不存在）">Kazami Shintaro</a></td><td></td><td>Tr.1-11</td></tr></tbody></table>
 
 
+
 ## 试听
   
 暂不支援此类型
   
+
 
 ## 曲目列表
 
@@ -43,6 +47,7 @@ Ensemble of Gensokyo 9 - Frostbite（同人专辑，Dex Hexallion，2012） - 20
 <tr><td id="9" class="infoYL"><b>09</b></td><td id="9_-_Monochrome_Star_~_Drizzle_Solemn" colspan="2" class="title">9 - Monochrome Star ~ Drizzle Solemn<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Kazami Shintaro&amp;fromwiki=Ensemble_of_Gensokyo_9_-_Frostbite"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:48</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=Kazami_Shintaro&amp;action=edit&amp;redlink=1" class="new" title="Kazami Shintaro（页面不存在）">Kazami Shintaro</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Kazami Shintaro&amp;fromwiki=Ensemble_of_Gensokyo_9_-_Frostbite"><span></span></a></span></td></tr>
 <tr><td id="10" class="infoYL"><b>10</b></td><td id="10_-_Delusion_Sympathy" colspan="2" class="title">10 - Delusion Sympathy<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Kazami Shintaro&amp;fromwiki=Ensemble_of_Gensokyo_9_-_Frostbite"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:36</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=Kazami_Shintaro&amp;action=edit&amp;redlink=1" class="new" title="Kazami Shintaro（页面不存在）">Kazami Shintaro</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Kazami Shintaro&amp;fromwiki=Ensemble_of_Gensokyo_9_-_Frostbite"><span></span></a></span></td></tr>
 <tr><td id="11" class="infoYL"><b>11</b></td><td id="11_-_BAD_APPLE!!_FEAT_NOMICO._&#91;Dubmix_Extend&#93;" colspan="2" class="title">11 - BAD APPLE!! FEAT NOMICO. &#91;Dubmix Extend&#93;<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Kazami Shintaro&amp;fromwiki=Ensemble_of_Gensokyo_9_-_Frostbite"><span title="搜索相似同人曲"></span></a></span></td><td class="time">05:25</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=Kazami_Shintaro&amp;action=edit&amp;redlink=1" class="new" title="Kazami Shintaro（页面不存在）">Kazami Shintaro</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Kazami Shintaro&amp;fromwiki=Ensemble_of_Gensokyo_9_-_Frostbite"><span></span></a></span></td></tr></tbody></table>
+
 
 
 ## 评论

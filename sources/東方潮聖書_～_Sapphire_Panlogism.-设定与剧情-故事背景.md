@@ -9,6 +9,7 @@ Team_Urban_Magic | 使用了翻译表的页面
 
   
 
+
 ## 目录
 
 - [1 故事背景](#故事背景)
@@ -20,9 +21,11 @@ Team_Urban_Magic | 使用了翻译表的页面
 
 
 
+
 ## 故事背景
 
 <table><tbody><tr class="tt-content" id="故事背景-1" data-pos="&#91;&quot;\u6545\u4e8b\u80cc\u666f&quot;,1&#93;"><td class="tt-ja" lang="ja"><div class="poem">The rain really was that terrible.<br>Living her life in Gensokyo,a landlocked world<br>of fantasy,it hadn't occurred to her before.<br>But it was true!<br><br>It really was raining oceanwater.<br><br>By the time she had realized that,the usual<br>troublemakers from her shrine had already<br>all disappeared.<br>In exchange,droves of unfamiliar foreign<br>fairies were descending from the sky.<br><br>Magic all around Gensokyo was disrupted,<br>the Human  Village was anticipating crop failure,<br>youkai-- the ones who hadn't vanished-- had to<br>endure saltwater falling from the skies.<br><br>And the rain wouldn't end.<br>Really,this was an incident bigger than Reimu<br>could have ever expected.</div></td><td class="tt-zh" lang="zh"><div class="poem">这场雨真是太糟了。<br>生活在幻想乡这样一个内陆的幻想世界，<br>她从未经历过这种事情。<br>但这是真的。<br><br>真的有海水如雨般落下。<br><br>当她意识到这一点时，<br>神社里惯常的那些捣蛋鬼们<br>都已经消失了。<br>取而代之的是，成群的异域妖精<br>正从天空中飞降而下。<br><br>幻想乡全境范围内的魔法都受到了干扰，<br>人类村落的人们预见了谷物的歉收，<br>妖怪们——那些还尚未消失的——<br>不得不忍受从天空中降下的咸水。<br><br>而这场雨是不会停下的。<br>说实在的，这是一场<br>比灵梦想象中要更大的异变。<br></div></td></tr></tbody></table>
+
 
 
 ## 序章
@@ -30,6 +33,7 @@ Team_Urban_Magic | 使用了翻译表的页面
 
 
 <table><tbody><tr class="tt-content" id="序章-1" data-pos="&#91;&quot;\u5e8f\u7ae0&quot;,1&#93;"><td class="tt-ja" lang="ja"><div class="poem"><br>﻿﻿--------------------------------------------------------------------<br>◇Prologue<br>--------------------------------------------------------------------<br>―The Hakurei Shrine, void of the typical nuisances.<br>For past few weeks, the youkai world had been sent into a panic at the sudden disappearance of quite a few of its members. <br>Humans, however, were busy dealing with a rather turbulent rainy season.<br><br>    「Reimu」 “It wouldn’t be so chilly if the Hell Fairy was back under the shrine.”<br>    「Marisa」 “Really, now? So she’s gone too...”<br><br>The rain was much heavier than in years past, and had continued through both day and night. <br>There was a certain suspicious quality to this rain, too. <br>Reimu Hakurei and Marisa Kirisame were unable to put a name to it.<br><br>Through the vacuum of moisture and mist, an avatar emerged.<br>Of course, Shou Toramaru had come drenched, being without an umbrella.<br><br>    「Shou」 “Hijiri had said you would be here, so I arrived as soon as I could.”<br>    「Reimu and Marisa」 “Eh?”<br><br>The disciple of Vaisvanara explained the ongoing issue at Myouren Temple.<br>A strange weather phenomena had begun to affect the faithful coming from Youkai Mountain. <br>Those sent to investigate the matter had disappeared entirely.<br><br>    「Reimu」 “Disappearances of youkai again and more weird weather...”<br>    「Marisa」 “Y’know, it was suspicious when it started messing with my fire magic.”<br>    「Shou」 “It was the intention of Hijiri that we collaborate on the matter.”<br>    「???」 “Really, now?”<br><br>The Goddess of Hell revealed herself, having eavesdropped the whole time.<br><br>    「Hecatia」 “I wasn’t expecting everyone to be in a tussle, aw.”<br>    「Shou」 “...Ah?”<br>    「Reimu」 “Erm, why are you at my shrine?”<br><br>Hecatia gestured to the sky and collected some rain into her palm.<br>    <br>    「Hecatia」 “I was suspicious when my little Clownpiece disappeared, but…<br>               This is all definitely part of what you guys call an ‘incident’.<br>               I came here to tell you that.”<br>    「Marisa」 “Whaddya mean?”<br>    「Hecatia」 “Starting off, no natural rain should smell like this.<br>               Don’t you recognize the smell? It’s seawater.”<br><br>A saltwater deluge had spread itself across Gensokyo’s skies.<br>If allowed to go on for too long, it would spell absolute crop failure for all in Gensokyo, and that would only be the beginning of problems.<br>Besides, neither human or youkai would be able to endure an endless rainy season.<br><br>A group of foreign fairies were in a suspicious cluster. <br><br><br><br><br><br><br><br><br><br><br>**Spoilers for the main game and Extra Stage past this point!**<br><br><br>             4005 fathoms below<br>                      ↓<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></div></td><td class="tt-zh" lang="zh"><div class="poem"><br>﻿﻿--------------------------------------------------------------------<br>◇背景故事<br>--------------------------------------------------------------------<br>—— 摆脱了平日的吵闹的，博丽神社。<br>过去的几周间，妖怪们陷入了对于同伴频频失踪的恐慌中。<br>而人类，正在与相当烦人的雨季斗争着。<br><br>    灵梦　「如果那个地狱妖精回到神社地下的话就不会这么冷了。」<br>    魔理沙「真的吗？所以她也不见了啊……」<br><br>这次的雨比往年的大得多，而且昼夜不断。<br>这雨水中也包含着某种可疑的性质，<br>是灵梦和魔理沙无法言状的。<br><br>在湿气和雾气的空隙中，一位化身出现了。<br>当然，寅丸星没带伞，已经淋湿了。<br><br>    星　　　　　「圣说你们会在这儿，所以我尽快赶过来了。」<br>    灵梦＆魔理沙「嗯？」<br><br>这位毗沙门天<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">1</a></sup>的信徒告诉了她们命莲寺里正发生的事。<br>奇怪的天气现象已经开始影响到来自妖怪之山的信徒。<br>那些被派去调查这件事的家伙都消失得无影无踪。<br><br>    灵梦　「又一次的妖怪失踪和更多奇怪的天气吗……」<br>    魔理沙「你知道的，当我的火魔法被弄得一团糟的时候就已经很可疑了。」<br>    星　　「圣的想法是我们合作调查这件事。」<br>    ？？？「真的吗？」<br><br>旁听了她们的整场谈话的地狱的女神，现身了。<br><br>    赫卡提亚「我没想到每个人都陷入麻烦了啊。」<br>    星　　　「……啊？」<br>    灵梦　　「额，为什么你在我的神社这儿？」<br><br>赫卡提亚向空中伸出手，接了些雨水到掌心。<br>    <br>    赫卡提亚「自从我的小皮丝不见了开始我就很怀疑了，但是……<br>　　　　　　这些事情显然都是你们口中的『异变』的一部分。<br>　　　　　　我来这里就是来告诉你们这个的。」<br>    魔理沙　「啥意思？」<br>    赫卡提亚「首先，自然的雨不可能有这种气味。<br>　　　　　　你们没发现吗？这是海水啊。」<br><br>海水在幻想乡的空中泛滥。<br>如果放任此事太久的话，能够预见的是全幻想乡境内必然发生的农作物灾害，而那只会是问题的开端。<br>而且，不管是人类还是妖怪都无法忍受这样一个无尽的雨季。<br><br>一群外来的妖精正在可疑地聚集起来。<br><br><br><br><br><br><br><br><br><br><br>**从这往后是正篇和Extra关卡的剧透！**<br><br><br>                 4005英寻之下<br>                      ↓<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></div></td></tr></tbody></table>
+
 
 
 ## Ex背景故事
@@ -41,6 +45,7 @@ Team_Urban_Magic | 使用了翻译表的页面
 
 
 [^cite_note-1]: 此处原文用词疑误，原文用词为Vaishvanara，为印度的火神阿耆尼，与剧情信息不符合。
+
 
 ## 词条导航
   

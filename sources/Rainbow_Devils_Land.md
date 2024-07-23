@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Rainbow_Devils_Land封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/e/e7/Rainbow_Devils_Land%E5%B0%81%E9%9D%A2.jpg/117px-Rainbow_Devils_Land%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="117" height="168" srcset="https://upload.thwiki.cc/thumb/e/e7/Rainbow_Devils_Land%E5%B0%81%E9%9D%A2.jpg/176px-Rainbow_Devils_Land%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/e/e7/Rainbow_Devils_Land%E5%B0%81%E9%9D%A2.jpg/234px-Rainbow_Devils_Land%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="268" data-file-height="384"></a><div class="cover-char">角色：<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a></div></td>
@@ -14,10 +15,12 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://milkbar.holy.jp/milkbar.htm">http://milkbar.holy.jp/milkbar.htm</a></td></tr></tbody></table>
 
 Rainbow Devils Land（同人志，MILK BAR，2005） - 2005年10月30日 由 MILK BAR  发布的漫画同人志，一共20页，登场人物有 雾雨魔理沙，分级为 一般向
+
 ## Staff
   
 シロガネヒナ
   
+
 
 ## 评论
 

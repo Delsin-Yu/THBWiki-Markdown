@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -34,11 +35,13 @@
 
 
 
+
 ## 基本信息
 
-<table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">オリエンタルダークフライト</td></tr><tr><td><b>译名</b></td><td>Oriental Dark Flight</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>引用</td></tr><tr><td style="padding-left:15px"><b>原曲</b></td><td><a href="/%E6%9D%B1%E6%96%B9%E5%B0%81%E9%AD%94%E9%8C%B2_%EF%BD%9E%E6%B5%84%E5%9C%9F%E6%9B%BC%E8%8D%BC%E7%BE%85" class="mw-redirect" title="東方封魔録 ～浄土曼荼羅">東方封魔録　～浄土曼荼羅</a></td></tr><tr><td style="padding-left:15px"><b>　来源</b></td><td>东方封魔录　～ the Story of Eastern Wonderland.</td></tr></tbody></table>
+<table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">オリエンタルダークフライト</td></tr><tr><td><b>译名</b></td><td>Oriental Dark Flight</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>引用</td></tr><tr><td style="padding-left:15px"><b>原曲</b></td><td><a href="./東方封魔録_～浄土曼荼羅.md" class="mw-redirect" title="東方封魔録 ～浄土曼荼羅">東方封魔録　～浄土曼荼羅</a></td></tr><tr><td style="padding-left:15px"><b>　来源</b></td><td>东方封魔录　～ the Story of Eastern Wonderland.</td></tr></tbody></table>
 
 Oriental Dark Flight（曲目） - 由 ZUN 创作的官方曲目，原名 オリエンタルダークフライト
+
 ## 出现作品
 
 <table>
@@ -47,7 +50,9 @@ Oriental Dark Flight（曲目） - 由 ZUN 创作的官方曲目，原名 オリ
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 东方花映塚
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td><a href="./文件-th09_03.mid.md" title="文件:th09 03.mid">th09_03.mid</a></td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th09_03.mp3.md" title="文件:th09 03.mp3">th09_03.mp3</a><br><audio src="https://upload.thwiki.cc/3/31/th09_03.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>BGM\th09_03.wav</td></tr><tr><td><b>BGMForAll</b></td><td><div class="mw-collapsible mw-collapsed">
@@ -58,7 +63,9 @@ Oriental Dark Flight（曲目） - 由 ZUN 创作的官方曲目，原名 オリ
 </td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 东方花映塚
 - Music Room (未找到链接)
 
@@ -69,8 +76,11 @@ Oriental Dark Flight（曲目） - 由 ZUN 创作的官方曲目，原名 オリ
 　这样的话，副歌带入了些微的中东味可不得了。  
 　只是，由于这次的游戏性质，游戏表现出了没完没了的潮流般的高速  
 感和浮游感，所以还是想要相信乐曲在那方面还是有所表现的啊。
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
   
  **オリエンタルダークフライト**  Oriental Dark Flight
@@ -88,6 +98,7 @@ Oriental Dark Flight（曲目） - 由 ZUN 创作的官方曲目，原名 オリ
 - フライト（flight）
   - 飞行，飞翔。
   - 魔理沙的高速飞行。
+
 
 
 ### 二次同人数据

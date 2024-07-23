@@ -4,6 +4,7 @@
 
 弦奏楽団 | 社团LOGO
 
+
 ## 摘要
   
 源地址：[[1]](http://gakudan.jp/i/banner.png)

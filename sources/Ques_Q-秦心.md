@@ -6,11 +6,13 @@
 
 本页是关于东方Project  
  **相关实体周边 (未找到链接)** 的词条
+
 ## 模型信息
 
 <table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 秦心 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>无</td></tr><tr><td class="label">角色</td><td><a href="./秦心.md" title="秦心">秦心</a></td></tr><tr><td class="label">原型师</td><td><a href="/index.php?title=%E7%9B%AE%E5%87%BA%E3%83%AB%E9%87%91&amp;action=edit&amp;redlink=1" class="new" title="目出ル金（页面不存在）">目出ル金</a></td></tr><tr><td class="label">原画师</td><td><a href="/index.php?title=%E5%90%9B%E3%81%A8%E5%AD%90%E9%9F%B3&amp;action=edit&amp;redlink=1" class="new" title="君と子音（页面不存在）">君と子音</a></td></tr><tr><td class="label">比例</td><td>1/8</td></tr><tr><td class="label">尺寸</td><td>21cm</td></tr><tr><td class="label">状态</td><td>未发售</td></tr><tr><td class="label">售价</td><td>22400日元</td></tr><tr><td class="label">发售方</td><td><a href="/index.php?title=Ques_Q&amp;action=edit&amp;redlink=1" class="new" title="Ques Q（页面不存在）">Ques Q</a></td></tr><tr><td class="label">官网页面</td><td><a rel="nofollow" class="external free" href="http://www.quesq.net/products/touhou_kokoro/index.html">http://www.quesq.net/products/touhou_kokoro/index.html</a></td></tr></tbody></table>
 
 Ques Q/秦心（周边，Ques Q） - 秦心PVCFigure手办模型
+
 ## 参考图片
 
 

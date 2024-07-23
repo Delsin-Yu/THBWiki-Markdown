@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-命名決闘のススメ_Vol._2封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/c/ca/%E5%91%BD%E5%90%8D%E6%B1%BA%E9%97%98%E3%81%AE%E3%82%B9%E3%82%B9%E3%83%A1_Vol._2%E5%B0%81%E9%9D%A2.jpg/138px-%E5%91%BD%E5%90%8D%E6%B1%BA%E9%97%98%E3%81%AE%E3%82%B9%E3%82%B9%E3%83%A1_Vol._2%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="138" height="196" srcset="https://upload.thwiki.cc/thumb/c/ca/%E5%91%BD%E5%90%8D%E6%B1%BA%E9%97%98%E3%81%AE%E3%82%B9%E3%82%B9%E3%83%A1_Vol._2%E5%B0%81%E9%9D%A2.jpg/207px-%E5%91%BD%E5%90%8D%E6%B1%BA%E9%97%98%E3%81%AE%E3%82%B9%E3%82%B9%E3%83%A1_Vol._2%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/c/ca/%E5%91%BD%E5%90%8D%E6%B1%BA%E9%97%98%E3%81%AE%E3%82%B9%E3%82%B9%E3%83%A1_Vol._2%E5%B0%81%E9%9D%A2.jpg/277px-%E5%91%BD%E5%90%8D%E6%B1%BA%E9%97%98%E3%81%AE%E3%82%B9%E3%82%B9%E3%83%A1_Vol._2%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="565" data-file-height="800"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></div></td>
@@ -14,11 +15,14 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://ogikaze.seesaa.net/article/142688446.html">http://ogikaze.seesaa.net/article/142688446.html</a></td></tr></tbody></table>
 
 命名決闘のススメ Vol. 2（同人志，Flypaper，2010） - 2010年3月14日 由 Flypaper 于 博丽神社例大祭7 发布的画集同人志，A4尺寸一共25页，分级为 一般向
+
 ## 预览
 - [](./文件-命名決闘のススメ_Vol._2预览图1.jpg.md)- [](./文件-命名決闘のススメ_Vol._2预览图2.jpg.md)- [](./文件-命名決闘のススメ_Vol._2预览图3.jpg.md)
 
+
 ## Staff
 - [ぢん](./ぢん.md)
+
 
 ## 评论
 

@@ -4,7 +4,8 @@
 
 Kick-started Speed ，主要制作 同人志 的日本同人社团，主催是 高鐘きち，当前状态为 休止
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -21,17 +22,21 @@ Kick-started Speed ，主要制作 同人志 的日本同人社团，主催是 �
 
 
 
+
 ## 社团信息
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Kick-started Speed </td></tr><tr><td><b>主要作品类型</b></td><td>同人志</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=%E9%AB%98%E9%90%98%E3%81%8D%E3%81%A1&amp;action=edit&amp;redlink=1" class="new" title="高鐘きち（页面不存在）">高鐘きち</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr></tbody></table>
 
 Kick-started Speed（同人社团，同人志社团） - Kick-started Speed ，主要制作 同人志 的日本同人社团，主催是 高鐘きち，当前状态为 休止
+
 ## 成员名单
 - きちべる (未找到链接) (a.k.a.  **kichibell** ,  **高鐘きち** )
 
 : [个人网站](http://kichi.ganriki.net/), [Twitter: @kichbell](https://twitter.com/kichbell), [Pixiv artwork ID: 372055](https://www.pixiv.net/users/372055)
 
+
 ## 作品列表
+
 ### 同人志
 [](./Candid_Heart.md)[Candid Heart](./Candid_Heart.md)首发日期：2011-10-16 （東方紅楼夢7 (未找到链接)）漫画 （一般向） 20&#160;页[](./-ONE_DAY-_r_u_happy？.md)[-ONE DAY- r u happy？](./-ONE_DAY-_r_u_happy？.md)首发日期：2011-10-16 （東方紅楼夢7 (未找到链接)）漫画 （一般向） 20&#160;页[](./私達が愛した幻想郷.md)[私達が愛した幻想郷](./私達が愛した幻想郷.md)首发日期：2012-08-11 （Comic Market 82 (未找到链接)）- （一般向）[](./にとりさんは働きたてない！！.md)[にとりさんは働きたてない！！](./にとりさんは働きたてない！！.md)首发日期：2016-12-29 （Comic Market 91 (未找到链接)）漫画 （一般向）
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -44,9 +49,11 @@ Kick-started Speed（同人社团，同人志社团） - Kick-started Speed ，�
 </table>
 
 
+
 ## 参展信息
 
 <table><tbody><tr><th class="活动页面">活动页面</th><th class="活动名称">活动名称</th><th class="日期">日期</th><th class="举办地点">举办地点</th><th class="摊位编号">摊位编号</th><th class="宣传页面">宣传页面</th><th class="备注">备注</th></tr><tr data-row-number="1" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/Comic_Market#95" title="Comic Market">Comic Market#95</a></span></td><td class="活动名称 smwtype_txt">Comic Market 95</td><td class="日期 smwtype_dat" data-sort-value="2458482.5">2018-12-30</td><td class="举办地点 smwtype_txt">东京都 东京国际展示场 东1-8展厅、西1-4展厅</td><td class="摊位编号 smwtype_txt">東ユ-02a</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="2" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E6%96%87%E6%96%87%E3%80%82%E6%96%B0%E9%97%BB%E5%8F%8B%E4%BA%BA%E9%9B%86%E4%BC%9A#6" title="文文。新闻友人集会">文文。新闻友人集会#6</a></span></td><td class="活动名称 smwtype_txt">第百三十季 文々。新聞友の会</td><td class="日期 smwtype_dat" data-sort-value="2457307.5">2015-10-12</td><td class="举办地点 smwtype_txt">京都市劝业馆 3层 第3展厅</td><td class="摊位编号 smwtype_txt">射-29</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="3" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#12" title="博丽神社例大祭">博丽神社例大祭#12</a></span></td><td class="活动名称 smwtype_txt">第十二回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2457152.5">2015-05-10</td><td class="举办地点 smwtype_txt">东京Big Sight 东123456展厅</td><td class="摊位编号 smwtype_txt">L26b</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="4" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#11" title="博丽神社例大祭">博丽神社例大祭#11</a></span></td><td class="活动名称 smwtype_txt">第十一回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2456788.5">2014-05-11</td><td class="举办地点 smwtype_txt">东京Big Sight 东123456展厅</td><td class="摊位编号 smwtype_txt">た26b</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr></tbody></table>
+
 
 
 ## 相关社团

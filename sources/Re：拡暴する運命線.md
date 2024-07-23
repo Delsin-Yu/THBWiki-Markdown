@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Re：拡暴する運命線封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/a/af/Re%EF%BC%9A%E6%8B%A1%E6%9A%B4%E3%81%99%E3%82%8B%E9%81%8B%E5%91%BD%E7%B7%9A%E5%B0%81%E9%9D%A2.jpg/158px-Re%EF%BC%9A%E6%8B%A1%E6%9A%B4%E3%81%99%E3%82%8B%E9%81%8B%E5%91%BD%E7%B7%9A%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="158" height="224" srcset="https://upload.thwiki.cc/thumb/a/af/Re%EF%BC%9A%E6%8B%A1%E6%9A%B4%E3%81%99%E3%82%8B%E9%81%8B%E5%91%BD%E7%B7%9A%E5%B0%81%E9%9D%A2.jpg/237px-Re%EF%BC%9A%E6%8B%A1%E6%9A%B4%E3%81%99%E3%82%8B%E9%81%8B%E5%91%BD%E7%B7%9A%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/a/af/Re%EF%BC%9A%E6%8B%A1%E6%9A%B4%E3%81%99%E3%82%8B%E9%81%8B%E5%91%BD%E7%B7%9A%E5%B0%81%E9%9D%A2.jpg/316px-Re%EF%BC%9A%E6%8B%A1%E6%9A%B4%E3%81%99%E3%82%8B%E9%81%8B%E5%91%BD%E7%B7%9A%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="636" data-file-height="900"></a><div class="cover-char">角色：<a href="./宇佐见莲子.md" title="宇佐见莲子">宇佐见莲子</a>，<a href="./玛艾露贝莉·赫恩.md" title="玛艾露贝莉·赫恩">玛艾露贝莉·赫恩</a></div></td>
@@ -14,9 +15,11 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://mementmori14.tumblr.com/post/111373913626">https://mementmori14.tumblr.com/post/111373913626</a></td></tr></tbody></table>
 
 Re：拡暴する運命線（同人志，MEMENT MORI，2015） - 2015年2月21日 由 MEMENT MORI 于 境界所见到的外界3 发布的漫画同人志，B5尺寸一共88页，登场人物有 宇佐见莲子、玛艾露贝莉·赫恩，分级为 一般向
+
 ## Staff
 Art, writing
 : 14 (未找到链接) （[MEMENT MORI](./MEMENT_MORI.md)）
+
 
 ## 评论
   

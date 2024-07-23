@@ -4,6 +4,7 @@
 
 东方红魔乡 | 妖魔夜行
 
+
 ## 文件说明
   
 妖魔夜行 东方红魔乡1面Bossルーミア的主题曲MIDI版。由Roland Sound Canvas 88Pro实机录制；MP3采样率44.1KHz，码率192Kbps。  

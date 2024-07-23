@@ -164,6 +164,7 @@
 [](./文件-THD2雾雨魔理沙.png.md)
   
 
+
 ## 目录
 
 - [1 角色定位](#角色定位)
@@ -184,10 +185,12 @@
 
 
 
+
 ## 角色定位
   
 爆发 - 逃生 - 推进 - 核心 - 先手
   
+
 
 ## 技能介绍
 
@@ -783,6 +786,7 @@
 </td></tr></tbody></table>
 
 
+
 ## 天赋树
 
 
@@ -825,25 +829,30 @@
 「光影银河系」：天仪射程提升至800，且攻击速度和弹道速度提升至极限。不过对建筑伤害再减半。
   
 
+
 ### 出门装备
 ```
 [](./文件-THD2衰人卡.png.md) [](./文件-THD2无色水晶.png.md) [](./文件-THD2思兼生命药.png.md) [](./文件-THD2雾雨魔力瓶.png.md)
 ```
+
 
 ### 前期装备
 ```
 [](./文件-THD2元素秘法石.png.md) [](./文件-THD2魔法使扫把.png.md)
 ```
 
+
 ### 核心装备
 ```
 [](./文件-THD2不明的秒计时.png.md) [](./文件-THD2八云间隙发生器.png.md) [](./文件-THD2油库里之杖.png.md) [](./文件-THD2亡灵送行提灯.png.md)
 ```
 
+
 ### 可选装备
 ```
 [](./文件-THD2巴瓦鲁幽魂之书.png.md) [](./文件-THD2迷你八卦炉.png.md) [](./文件-THD2破魔净灵札.png.md) [](./文件-THD2魔法使的帽子.png.md) [](./文件-THD2红魔火箭1级.png.md) [](./文件-THD2速融的核聚变棒.png.md)
 ```
+
 
 ## 技能加点
 
@@ -905,6 +914,7 @@
 <td><a href="./文件-DOTA黄点.png.md" class="image" title="+2 全属性"><img alt="+2 全属性" src="https://upload.thwiki.cc/thumb/d/da/DOTA%E9%BB%84%E7%82%B9.png/40px-DOTA%E9%BB%84%E7%82%B9.png" decoding="async" loading="lazy" width="40" height="40" srcset="https://upload.thwiki.cc/thumb/d/da/DOTA%E9%BB%84%E7%82%B9.png/60px-DOTA%E9%BB%84%E7%82%B9.png 1.5x, https://upload.thwiki.cc/thumb/d/da/DOTA%E9%BB%84%E7%82%B9.png/80px-DOTA%E9%BB%84%E7%82%B9.png 2x" data-file-width="128" data-file-height="128"></a></td>
 <td><a href="./文件-THD2天赋树25左.png.md" class="image" title="-50秒 魔炮冷却"><img alt="-50秒 魔炮冷却" src="https://upload.thwiki.cc/thumb/a/aa/THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%B7%A6.png/40px-THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%B7%A6.png" decoding="async" loading="lazy" width="40" height="40" srcset="https://upload.thwiki.cc/thumb/a/aa/THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%B7%A6.png/60px-THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%B7%A6.png 1.5x, https://upload.thwiki.cc/thumb/a/aa/THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%B7%A6.png/80px-THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%B7%A6.png 2x" data-file-width="103" data-file-height="103"></a>
 </td></tr></tbody></table>
+
 
 
 ## 台词
@@ -1022,6 +1032,7 @@
 </td>
 <td>もう一度(いちど)あっちから魔法書(まほうしょ)を借り(かり)なきゃ～<br>[不从那里再借一次魔法书的话......]
 </td></tr></tbody></table>
+
 
 
 ## 教学视频

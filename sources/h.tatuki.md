@@ -6,17 +6,22 @@
 
 本页是关于东方Project  
  **二次同人创作者** 的词条
+
 ## 基本信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="label"><b>名称</b></td><td> h.tatuki </td></tr><tr><td class="label"><b>真实名</b></td><td>原田樹季</td></tr><tr><td class="label"><b>译名</b></td><td>Tatuki Harada</td></tr><tr><td class="label"><b>所属社团</b></td><td><b>当前</b><div style="margin-left:2em;">无所属社团</div></td></tr><tr><td class="label"><b>职位</b></td><td>编曲，贝斯，演奏</td></tr><tr><td class="label"><b>参与社团</b></td><td><a href="./Adameggs.md" title="Adameggs">Adameggs</a> （演奏）<br><a href="./DDBY.md" title="DDBY">DDBY</a> （编曲）<br><a href="./GET_IN_THE_RING.md" title="GET IN THE RING">GET IN THE RING</a> （演奏）<br><a href="./Sound_CYCLONE.md" title="Sound CYCLONE">Sound CYCLONE</a> （演奏）<br><a href="./TUMENECO.md" title="TUMENECO">TUMENECO</a> （编曲，演奏）<br><a href="./Water_Color_Melody..md" title="Water Color Melody.">Water Color Melody.</a> （演奏）<br><a href="./overTuner.md" title="overTuner">overTuner</a> （演奏）<br><a href="./音召缶.md" title="音召缶">音召缶</a> （编曲）</td></tr><tr><td class="label"><b>性别</b></td><td>男</td></tr><tr><td class="label"><b>生日</b></td><td>1991-10-03（32岁）</td></tr><tr><td class="label"><b>个人页面</b></td><td><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><b>Twitter</b></td><td><a rel="nofollow" class="external free" href="https://twitter.com/tatukiintheUK">https://twitter.com/tatukiintheUK</a></td></tr><tr><td><b>Soundcloud</b></td><td><a rel="nofollow" class="external free" href="https://soundcloud.com/tatukiintheuk">https://soundcloud.com/tatukiintheuk</a></td></tr><tr><td><b>Email</b></td><td>h.tatuki@gmail.com</td></tr></tbody></table></td></tr></tbody></table>
 
 h.tatuki（人物） - 现实人物
+
 ## 介绍
+
 ## 参与作品
+
 ### 同人音乐
   
 模板:人物曲目列表 (未找到链接)
   
+
 
 ## 人际关系
 人名

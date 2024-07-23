@@ -9,12 +9,14 @@
 
   
 
+
 ## 目录
 
 - [1 菜单标题及说明文字](#菜单标题及说明文字)
 - [2 关卡标题与导言](#关卡标题与导言)
 - [3 通关后的提示文字](#通关后的提示文字)
 - [4 注释](#注释)
+
 
 
 
@@ -101,9 +103,11 @@
 </tbody></table>
 
 
+
 ## 关卡标题与导言
 
 <table><tbody><tr class="tt-content" id="关卡标题与导言-1" data-pos="&#91;&quot;\u5173\u5361\u6807\u9898\u4e0e\u5bfc\u8a00&quot;,1&#93;"><td class="tt-ja" lang="ja"><div class="poem">波の皇帝と利用された策士<br>Stage1 春の小怪・深夜<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">6</a></sup><br><br>夜道に張り巡らされた錯覚の<br>罠はいかなる者の仕業か？宵<br>闇に紛れ、恐るべき波が忍び<br>寄る。</div></td><td class="tt-zh" lang="zh"><div class="poem">波之皇帝与被利用的谋士<br>Stage1 春之小径・深夜<br><br>在夜路上设下错觉陷阱的究竟是谁？<br>混入宵暗之中，令人恐惧的波动正悄然接近。</div></td></tr><tr class="tt-content" id="关卡标题与导言-2" data-pos="&#91;&quot;\u5173\u5361\u6807\u9898\u4e0e\u5bfc\u8a00&quot;,2&#93;"><td class="tt-ja" lang="ja"><div class="poem">霧の中の影と蛇 <br>Stage2 妖怪の山·麓<br><br>空は少しずつ明るみを帯びて<br>来ている。月光の元で踊る魔<br>女達の宴も終焉に近づいてい<br>た。</div></td><td class="tt-zh" lang="zh"><div class="poem">雾中之影与蛇<br>Stage2 妖怪之山·麓<br><br>天空正被日光逐层点亮。<br>在月光中起舞的魔女之宴也将迎来终结。</div></td></tr><tr class="tt-content" id="关卡标题与导言-3" data-pos="&#91;&quot;\u5173\u5361\u6807\u9898\u4e0e\u5bfc\u8a00&quot;,3&#93;"><td class="tt-ja" lang="ja"><div class="poem">三者三様の見解<br>Stage3 無名の丘 <br><br>草原を照らす朝の陽ざしは、<br>暗礁に乗り上げた推理を真実<br>へと導くのか？</div></td><td class="tt-zh" lang="zh"><div class="poem">三人三种见解<br>Stage3 无名之丘<br><br>照亮草原的朝阳之光，<br>能否将触礁的推理引向真相？</div></td></tr><tr class="tt-content" id="关卡标题与导言-4" data-pos="&#91;&quot;\u5173\u5361\u6807\u9898\u4e0e\u5bfc\u8a00&quot;,4&#93;"><td class="tt-ja" lang="ja"><div class="poem">真実の行方を求めて<br>ExtraStage 高天原への天空航路 <br><br>天は真実を求めし者を気象を<br>以って歓迎するだろう。もっ<br>とも、その歓迎に耐えられる<br>者にしか用は無いのだが。</div></td><td class="tt-zh" lang="zh"><div class="poem">探求那真实之路<br>ExtraStage 通往高天原的天空航路<br><br>天以气象欢迎求实之人。<br>然无法承受者，皆不得其门。<br></div></td></tr></tbody></table>
+
 
 
 ## 通关后的提示文字

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -37,24 +38,28 @@
 
 
 
+
 ## 基本信息
 
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">ラストオカルティズム　～ 現し世の秘術師</td></tr><tr><td><b>译名</b></td><td>Last Occultism ～ 现世的秘术师</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 Last Occultism ～ 现世的秘术师（曲目） - 由 ZUN 创作的官方曲目，原名 ラストオカルティズム　～ 現し世の秘術師
+
 ## 出现作品
 
 <table>
-<tbody><tr><td>2015年5月10日（第十二回 博丽神社例大祭）</td><td><b><a href="./东方深秘录.md" title="东方深秘录">东方深秘录</a>正式版</b></td><td><a href="./宇佐见堇子.md" title="宇佐见堇子">宇佐见堇子</a>的主题曲、<a href="/%E5%A4%96%E9%9D%A2%E4%B8%96%E7%95%8C" class="mw-redirect" title="外面世界">外面世界</a>场景音乐</td><td style="padding-left:5px;">ラストオカルティズム　～ 現し世の秘術師（Last Occultism ～ 现世的秘术师）</td><td style="padding-left:10px;">作曲：ZUN</td></tr>
+<tbody><tr><td>2015年5月10日（第十二回 博丽神社例大祭）</td><td><b><a href="./东方深秘录.md" title="东方深秘录">东方深秘录</a>正式版</b></td><td><a href="./宇佐见堇子.md" title="宇佐见堇子">宇佐见堇子</a>的主题曲、<a href="./外面世界.md" class="mw-redirect" title="外面世界">外面世界</a>场景音乐</td><td style="padding-left:5px;">ラストオカルティズム　～ 現し世の秘術師（Last Occultism ～ 现世的秘术师）</td><td style="padding-left:10px;">作曲：ZUN</td></tr>
 <tr><td>2015年8月14日（Comic Market 88）</td><td><b><a href="./深秘乐曲集.md" title="深秘乐曲集">深秘乐曲集</a></b></td><td>ORIGINAL DISC 第16轨</td><td style="padding-left:5px;">ラストオカルティズム　～ 現し世の秘術師（Last Occultism　～ 现世的秘术师）</td><td style="padding-left:10px;">作曲：ZUN</td></tr>
 <tr><td>2015年8月14日（Comic Market 88）</td><td><b><a href="./深秘乐曲集.md" title="深秘乐曲集">深秘乐曲集</a></b></td><td>ARRANGE DISC 第14轨</td><td style="padding-left:5px;">ラストオカルティズム　～ 現し世の秘術師（Last Occultism　～ 现世的秘术师）</td><td style="padding-left:10px;">编曲：あきやまうに</td></tr>
 <tr><td>2016年6月30日（非展会）</td><td><b><a href="./东方外来韦编.md" title="东方外来韦编">东方外来韦编</a>弐</b></td><td>附属CD第3轨</td><td style="padding-left:5px;">ラストオカルティズム　～ 現し世の秘術師（Last Occultism ～ 现世的秘术师）</td><td style="padding-left:10px;">作曲：ZUN</td></tr>
-<tr><td>2017年12月29日（Comic Market 93）</td><td><b><a href="./东方凭依华.md" title="东方凭依华">东方凭依华</a>正式版</b></td><td><a href="./宇佐见堇子.md" title="宇佐见堇子">宇佐见堇子</a>的主题曲、<a href="/%E5%A4%96%E9%9D%A2%E4%B8%96%E7%95%8C" class="mw-redirect" title="外面世界">外面世界</a>场景音乐</td><td style="padding-left:5px;">ラストオカルティズム　～ 現し世の秘術師（Last Occultism ～ 现世的秘术师）</td><td style="padding-left:10px;">编曲：ARM</td></tr>
+<tr><td>2017年12月29日（Comic Market 93）</td><td><b><a href="./东方凭依华.md" title="东方凭依华">东方凭依华</a>正式版</b></td><td><a href="./宇佐见堇子.md" title="宇佐见堇子">宇佐见堇子</a>的主题曲、<a href="./外面世界.md" class="mw-redirect" title="外面世界">外面世界</a>场景音乐</td><td style="padding-left:5px;">ラストオカルティズム　～ 現し世の秘術師（Last Occultism ～ 现世的秘术师）</td><td style="padding-left:10px;">编曲：ARM</td></tr>
 <tr><td>2018年5月6日（第十五回 博丽神社例大祭）</td><td><b><a href="./完全凭依唱片名录.md" title="完全凭依唱片名录">完全凭依唱片名录</a></b></td><td>Arrange Disc Tr.2</td><td style="padding-left:5px;">ラストオカルティズム　～ 現し世の秘術師（Last Occultism ～ 现世的秘术师）</td><td style="padding-left:10px;">编曲：ARM</td></tr>
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 深秘乐曲集
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-TFM-007a_16.mp3.md" title="文件:TFM-007a 16.mp3">TFM-007a_16.mp3</a><br><audio src="https://upload.thwiki.cc/a/a5/TFM-007a_16.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track16.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>7:51</td></tr></tbody></table>
@@ -64,9 +69,11 @@ Last Occultism ～ 现世的秘术师（曲目） - 由 ZUN 创作的官方曲�
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-TFM-007b_14.mp3.md" title="文件:TFM-007b 14.mp3">TFM-007b_14.mp3</a><br><audio src="https://upload.thwiki.cc/6/64/TFM-007b_14.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track14.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>4:36</td></tr></tbody></table>
 
 
+
 ### 东方外来韦编弐
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-SCoOW02_03.mp3.md" title="文件:SCoOW02 03.mp3">SCoOW02_03.mp3</a><br><audio src="https://upload.thwiki.cc/e/e5/SCoOW02_03.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track03.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>4:42</td></tr></tbody></table>
+
 
 
 ### 完全凭依唱片名录
@@ -74,14 +81,19 @@ Last Occultism ～ 现世的秘术师（曲目） - 由 ZUN 创作的官方曲�
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-TFM-009c_02.mp3.md" title="文件:TFM-009c 02.mp3">TFM-009c_02.mp3</a><br><audio src="https://upload.thwiki.cc/2/26/TFM-009c_02.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track02.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>4:30</td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 东方外来韦编弐
 「深秘录」中堇子的曲子。比起在游戏中使用的版本，  
 在音量和节拍之类的地方上，单纯作为音乐来听会让人感觉更加动听。  
 是不是更有堇子的感觉呢？  
 &lt;comment from ZUN&gt;
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
   
  **ラストオカルティズム　～ 現し世の秘術師**  Last Occultism　～ 现世的秘术师
@@ -102,6 +114,7 @@ Last Occultism ～ 现世的秘术师（曲目） - 由 ZUN 创作的官方曲�
   - 宇佐见堇子拥有操纵超能力程度的能力。
 
 
+
 ### 二次同人数据
 
 <table><tbody><tr><th colspan="2">统计</th></tr>
@@ -114,6 +127,7 @@ Last Occultism ～ 现世的秘术师（曲目） - 由 ZUN 创作的官方曲�
 <tr><td>Arrange</td><td>216</td></tr>
 <tr><td>Vocal率</td><td>26.53%</td></tr>
 </tbody></table>
+
 
 
 

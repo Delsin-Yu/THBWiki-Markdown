@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Synthetic_Shore封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/8/8b/Synthetic_Shore%E5%B0%81%E9%9D%A2.jpg/252px-Synthetic_Shore%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="252" srcset="https://upload.thwiki.cc/thumb/8/8b/Synthetic_Shore%E5%B0%81%E9%9D%A2.jpg/378px-Synthetic_Shore%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/8/8b/Synthetic_Shore%E5%B0%81%E9%9D%A2.jpg/504px-Synthetic_Shore%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1200" data-file-height="1200"></a></td>
@@ -16,6 +17,7 @@
 Synthetic Shore（同人专辑，greenscarf，2020） - 2020年6月14日 由 greenscarf  发布的单曲同人专辑，曲目主要风格是 House，分级为 一般向
 
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://greenscarf.bandcamp.com/track/synthetic-shore">bandcamp</a></td></tr></tbody></table>
+
 
 
 ## Staff
@@ -30,6 +32,7 @@ Design
 Illustration
 : 
 
+
 ## 试听
 
 <table>
@@ -42,9 +45,11 @@ Illustration
 </td></tr></tbody></table>
 
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Synthetic_Shore" colspan="2" class="title">Synthetic Shore<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=greenscarf&amp;ogmusic=53ミニッツの青い海&amp;fromwiki=Synthetic_Shore"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:52</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./greenscarf.md" title="greenscarf">greenscarf</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，greenscarf，&amp;fromwiki=Synthetic_Shore"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=53ミニッツの青い海&amp;fromwiki=Synthetic_Shore"><span></span></a></span><div class="ogmusic"><a href="/53%E3%83%9F%E3%83%8B%E3%83%83%E3%83%84%E3%81%AE%E9%9D%92%E3%81%84%E6%B5%B7" class="mw-redirect" title="53ミニッツの青い海">53ミニッツの青い海</a></div><div class="source"><a href="/%E5%8D%AF%E9%85%89%E4%B8%9C%E6%B5%B7%E9%81%93_%EF%BD%9E_Retrospective_53_minutes" class="mw-redirect" title="卯酉东海道 ～ Retrospective 53 minutes">卯酉东海道　～ Retrospective 53 minutes</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Synthetic_Shore" colspan="2" class="title">Synthetic Shore<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=greenscarf&amp;ogmusic=53ミニッツの青い海&amp;fromwiki=Synthetic_Shore"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:52</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./greenscarf.md" title="greenscarf">greenscarf</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，greenscarf，&amp;fromwiki=Synthetic_Shore"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=53ミニッツの青い海&amp;fromwiki=Synthetic_Shore"><span></span></a></span><div class="ogmusic"><a href="./53ミニッツの青い海.md" class="mw-redirect" title="53ミニッツの青い海">53ミニッツの青い海</a></div><div class="source"><a href="./卯酉东海道_～_Retrospective_53_minutes.md" class="mw-redirect" title="卯酉东海道 ～ Retrospective 53 minutes">卯酉东海道　～ Retrospective 53 minutes</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

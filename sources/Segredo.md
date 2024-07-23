@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Segredo封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/f/fe/Segredo%E5%B0%81%E9%9D%A2.jpg/177px-Segredo%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="177" height="252" srcset="https://upload.thwiki.cc/thumb/f/fe/Segredo%E5%B0%81%E9%9D%A2.jpg/266px-Segredo%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/f/fe/Segredo%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="270" data-file-height="384"></a><div class="cover-char">角色：<a href="./上白泽慧音.md" title="上白泽慧音">上白泽慧音</a></div></td>
@@ -16,6 +17,7 @@
 Segredo（同人专辑，発熱巫女～ず，2012） - 2012年5月27日 由 発熱巫女～ず 于 博丽神社例大祭9 发布的单曲/Omake同人专辑，曲目主要风格是 Jpop，分级为 一般向
 
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://touhou-music.booth.pm/items/1484256">Booth（2016 Re-Treatment FLAC）</a>，<a rel="nofollow" class="external text" href="https://touhou-music.booth.pm/items/1484231">Booth（2016 Re-Treatment mp3）</a></td></tr></tbody></table>
+
 
 
 ## Staff
@@ -51,16 +53,19 @@ Design
 : Tomoyuki “tats” Arima （[TATSDESIGN](http://www.tatsdesign.com/)）
 : Carmine （[clocknote.](./clocknote..md)）
 
+
 ## 试听
   
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/46949473&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=false"></iframe>
 
   
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoRD"><b>01</b></td><td id="Segredo" colspan="2" class="title"><a href="./歌词-Segredo.md" title="歌词:Segredo">Segredo</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Tim Vegas&amp;vocal=Vivienne&amp;lyric=Laura April&amp;ogmusic=プレインエイジア&amp;fromwiki=Segredo"><span title="搜索相似同人曲"></span></a></span></td><td class="time">08:06</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Tim_Vegas.md" title="Tim Vegas">Tim Vegas</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Tim Vegas&amp;fromwiki=Segredo"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="./Vivienne.md" title="Vivienne">Vivienne</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=Vivienne&amp;fromwiki=Segredo"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="/index.php?title=Laura_April&amp;action=edit&amp;redlink=1" class="new" title="Laura April（页面不存在）">Laura April</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?lyric=Laura April&amp;fromwiki=Segredo"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演奏</td><td class="text" colspan="2">Guitars：コンドルKING <br>Additional Programmings：Maurits"禅"Cornelis</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=プレインエイジア&amp;fromwiki=Segredo"><span></span></a></span><div class="ogmusic"><a href="/%E3%83%97%E3%83%AC%E3%82%A4%E3%83%B3%E3%82%A8%E3%82%A4%E3%82%B8%E3%82%A2" class="mw-redirect" title="プレインエイジア">プレインエイジア</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E6%B0%B8%E5%A4%9C%E6%8A%84_%EF%BD%9E_Imperishable_Night." class="mw-redirect" title="东方永夜抄 ～ Imperishable Night.">东方永夜抄　～ Imperishable Night.</a></div></td></tr>
+<table><tbody><tr><td id="1" class="infoRD"><b>01</b></td><td id="Segredo" colspan="2" class="title"><a href="./歌词-Segredo.md" title="歌词:Segredo">Segredo</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Tim Vegas&amp;vocal=Vivienne&amp;lyric=Laura April&amp;ogmusic=プレインエイジア&amp;fromwiki=Segredo"><span title="搜索相似同人曲"></span></a></span></td><td class="time">08:06</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Tim_Vegas.md" title="Tim Vegas">Tim Vegas</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Tim Vegas&amp;fromwiki=Segredo"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="./Vivienne.md" title="Vivienne">Vivienne</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=Vivienne&amp;fromwiki=Segredo"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="/index.php?title=Laura_April&amp;action=edit&amp;redlink=1" class="new" title="Laura April（页面不存在）">Laura April</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?lyric=Laura April&amp;fromwiki=Segredo"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演奏</td><td class="text" colspan="2">Guitars：コンドルKING <br>Additional Programmings：Maurits"禅"Cornelis</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=プレインエイジア&amp;fromwiki=Segredo"><span></span></a></span><div class="ogmusic"><a href="./プレインエイジア.md" class="mw-redirect" title="プレインエイジア">プレインエイジア</a></div><div class="source"><a href="./东方永夜抄_～_Imperishable_Night..md" class="mw-redirect" title="东方永夜抄 ～ Imperishable Night.">东方永夜抄　～ Imperishable Night.</a></div></td></tr>
 <tr><td id="2" class="infoYL"><b>02</b></td><td id="61803398874989484820" colspan="2" class="title">61803398874989484820<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Maurits&quot;禅&quot;Cornelis&amp;fromwiki=Segredo"><span title="搜索相似同人曲"></span></a></span></td><td class="time">07:34</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./Maurits-禅-Cornelis.md" title="Maurits&quot;禅&quot;Cornelis">Maurits"禅"Cornelis</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Maurits&quot;禅&quot;Cornelis&amp;fromwiki=Segredo"><span></span></a></span></td></tr></tbody></table>
+
 
 
 ## 评论

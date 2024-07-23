@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Autumn_Children封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/2/2e/Autumn_Children%E5%B0%81%E9%9D%A2.jpg/160px-Autumn_Children%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="160" height="224" srcset="https://upload.thwiki.cc/thumb/2/2e/Autumn_Children%E5%B0%81%E9%9D%A2.jpg/241px-Autumn_Children%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/2/2e/Autumn_Children%E5%B0%81%E9%9D%A2.jpg/321px-Autumn_Children%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="640" data-file-height="893"></a><div class="cover-char">角色：<a href="./秋静叶.md" title="秋静叶">秋静叶</a>，<a href="./露娜萨·普莉兹姆利巴.md" title="露娜萨·普莉兹姆利巴">露娜萨·普莉兹姆利巴</a></div></td>
@@ -14,17 +15,20 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/32677922">https://www.pixiv.net/artworks/32677922</a><br><a rel="nofollow" class="external free" href="http://www.doujinpress.com/products/89304~autumn-children-lunasa-shizuha-touhou/">http://www.doujinpress.com/products/89304~autumn-children-lunasa-shizuha-touhou/</a><br><span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><small>（<a rel="nofollow" class="external text" href="https://web.archive.org/web/20130131072821/http://www.doujinpress.com/products/89304~autumn-children-lunasa-shizuha-touhou/">缓存页面</a>）</small></td></tr><tr><td class="label">备注</td><td colspan="2"><a href="https://www.pixiv.net/artworks/41891638" class="extiw" title="p:41891638">日文翻译版</a></td></tr></tbody></table>
 
 Autumn Children（同人志，House of Sixten，2013） - 2013年1月5日 由 House of Sixten  发布的漫画同人志，B5尺寸一共50页，登场人物有 秋静叶、露娜萨·普莉兹姆利巴，分级为 一般向
+
 ## Staff
 Script &amp; Artwork
 : sixten (未找到链接) （[House of Sixten](./House_of_Sixten.md)）
 Japanese Translation
 : モトマチ店長 （[Pixiv ID: 4065991](https://www.pixiv.net/users/4065991)）
 
+
 ### Misc. Credits
 Cover Illustration Reference Photo
 : "Autumn Sunrise" by [Gary McParland](https://www.garymcparland.com/)
 Screentones
 : Mandi  （[Shounen Ai GO!!](http://shounenaigo.comicgenesis.com/tone/)）
+
 
 ## 评论
   

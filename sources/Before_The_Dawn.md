@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Before_The_Dawn封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/7/7a/Before_The_Dawn%E5%B0%81%E9%9D%A2.jpg/280px-Before_The_Dawn%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="280" height="280" srcset="https://upload.thwiki.cc/thumb/7/7a/Before_The_Dawn%E5%B0%81%E9%9D%A2.jpg/420px-Before_The_Dawn%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/7/7a/Before_The_Dawn%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="500" data-file-height="500"></a><div class="cover-char">角色：<a href="./魂魄妖梦.md" title="魂魄妖梦">魂魄妖梦</a></div></td>
@@ -14,11 +15,13 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://soundcloud.com/straw_owt/before-the-dawn">https://soundcloud.com/straw_owt/before-the-dawn</a><br><a rel="nofollow" class="external free" href="https://twitter.com/straw_owt/status/465139625686618112">https://twitter.com/straw_owt/status/465139625686618112</a></td></tr></tbody></table>
 
 Before The Dawn（同人专辑，Strawhat Works，2014） - 2014年5月11日 由 Strawhat Works 于 博丽神社例大祭11 发布的EP同人专辑，曲目主要风格是 Rock，内容以 东方妖妖梦为题材，分级为 一般向
+
 ## Staff
 Design
 : 设计师 （[网址 社团]）
 Illustration
 : 画师 （[网址 社团]）
+
 
 ## 试听
   
@@ -26,9 +29,11 @@ Illustration
 
   
 
+
 ## 曲目列表
 
 <table></table>
+
 
 
 ## 评论

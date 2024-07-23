@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 软件信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>，<a href="./东风谷早苗.md" title="东风谷早苗">东风谷早苗</a>，<a href="./琪露诺.md" title="琪露诺">琪露诺</a>，<a href="./姬海棠果.md" title="姬海棠果">姬海棠果</a>，<a href="./丰聪耳神子.md" title="丰聪耳神子">丰聪耳神子</a>，<a href="./物部布都.md" title="物部布都">物部布都</a></div></td>
@@ -26,6 +27,7 @@
 </tbody></table>
 
 
+
 ## Staff
 程序，企划，美术
 : 道長 （[未完童話](./未完童話.md)）
@@ -39,6 +41,7 @@
 : 嘯風弄月 （[Twilight~日月之境~](./Twilight~日月之境~.md)）
 BGM
 : Kiyoma （[Golden City Factory](./Golden_City_Factory.md)）
+
 
 ## 内容页面
 - 游戏设定与剧情 (未找到链接)

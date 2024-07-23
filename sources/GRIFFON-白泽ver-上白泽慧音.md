@@ -6,11 +6,13 @@
 
 本页是关于东方Project  
  **相关实体周边 (未找到链接)** 的词条
+
 ## 模型信息
 
 <table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 上白泽慧音 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>白泽ver</td></tr><tr><td class="label">角色</td><td><a href="./上白泽慧音.md" title="上白泽慧音">上白泽慧音</a></td></tr><tr><td class="label">原型师</td><td><a href="/index.php?title=%E3%81%A7%E3%82%8B&amp;action=edit&amp;redlink=1" class="new" title="でる（页面不存在）">でる</a></td></tr><tr><td class="label">比例</td><td>1/8</td></tr><tr><td class="label">尺寸</td><td>180mm</td></tr><tr><td class="label">状态</td><td>已发售</td></tr><tr><td class="label">售价</td><td>8000日元</td></tr><tr><td class="label">首发日期</td><td>2012-12</td></tr><tr><td class="label">发售方</td><td><a href="/index.php?title=GRIFFON&amp;action=edit&amp;redlink=1" class="new" title="GRIFFON（页面不存在）">GRIFFON</a></td></tr><tr><td class="label">官网页面</td><td><a rel="nofollow" class="external free" href="http://www.griffon.co.jp/toho/">http://www.griffon.co.jp/toho/</a></td></tr></tbody></table>
 
 GRIFFON/白泽ver/上白泽慧音（周边） - 上白泽慧音PVCFigure手办模型
+
 ## 参考图片
 
 

@@ -4,7 +4,8 @@
 
 AZUKI SHOT ，主要制作 同人志 的日本同人社团，主催是 アズキ，曾以 [[おぞうにの楽園]] 名义活动，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -22,18 +23,22 @@ AZUKI SHOT ，主要制作 同人志 的日本同人社团，主催是 アズキ
 
 
 
+
 ## 社团信息
 文件:AZUKI SHOTbanner.jpg (未找到链接)  banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> AZUKI SHOT </td></tr><tr><td><b>曾用名称</b></td><td> <a href="./おぞうにの楽園.md" title="おぞうにの楽園">おぞうにの楽園</a> </td></tr><tr><td><b>主要作品类型</b></td><td>同人志</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="./azuki.md" title="azuki" unred="">アズキ</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr></tbody></table>
 
 AZUKI SHOT（同人社团，同人志社团） - AZUKI SHOT ，主要制作 同人志 的日本同人社团，主催是 アズキ，曾以 [おぞうにの楽園](./おぞうにの楽園.md) 名义活动，当前状态为 活动
+
 ## 成员名单
 - [アズキ](./azuki.md)
   - [Pixiv ID：445565](https://www.pixiv.net/users/445565)
 
 
+
 ## 作品列表
+
 ### 同人志
 [](./3×2_EX.md)[3×2　EX](./3×2_EX.md)首发日期：2015-12-30 （Comic Market 89 (未找到链接)）漫画 （一般向）B5&#160;尺寸 36&#160;页[](./稀神サグメの穢れ飯.md)[稀神サグメの穢れ飯](./稀神サグメの穢れ飯.md)首发日期：2016-05-08 （第十三回 博麗神社例大祭 (未找到链接)）漫画 （一般向）B5&#160;尺寸 40&#160;页[](./Ears_Gazing_On.md)[Ears Gazing On](./Ears_Gazing_On.md)首发日期：2016-10-16 （第三回 博麗神社秋季例大祭 (未找到链接)）漫画 （一般向）B5&#160;尺寸 50&#160;页[](./カミナリノハナ.md)[カミナリノハナ](./カミナリノハナ.md)首发日期：2017-10-15 （第四回 博麗神社秋季例大祭 (未找到链接)）漫画 （一般向）B5&#160;尺寸 48&#160;页[](./稀神サグメの試し飯.md)[稀神サグメの試し飯](./稀神サグメの試し飯.md)首发日期：2017-10-15 （第四回 博麗神社秋季例大祭 (未找到链接)）漫画 （一般向）B5&#160;尺寸 36&#160;页[](./プリズムリバーウィズH代打合同『代わりに打楽器』.md)[プリズムリバーウィズH代打合同『代わりに打楽器』](./プリズムリバーウィズH代打合同『代わりに打楽器』.md)首发日期：2018-10-14 （第五回 博麗神社秋季例大祭 (未找到链接)）漫画 （一般向）B5&#160;尺寸 64&#160;页[](./稀神サグメの招き飯.md)[稀神サグメの招き飯](./稀神サグメの招き飯.md)首发日期：2019-10-06 （第六回 博麗神社秋季例大祭 (未找到链接)）漫画 （一般向）B5&#160;尺寸 48&#160;页[](./神子えもん～こころの畜生界探索.md)[神子えもん～こころの畜生界探索](./神子えもん～こころの畜生界探索.md)首发日期：2020-10-18 （第七回 博麗神社秋季例大祭 (未找到链接)）漫画 （一般向）B5&#160;尺寸 40&#160;页
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -52,6 +57,7 @@ AZUKI SHOT（同人社团，同人志社团） - AZUKI SHOT ，主要制作 同�
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ### 同人志
@@ -76,9 +82,11 @@ AZUKI SHOT（同人社团，同人志社团） - AZUKI SHOT ，主要制作 同�
 </table>
 
 
+
 ## 参展信息
 
 <table><tbody><tr><th class="活动页面">活动页面</th><th class="活动名称">活动名称</th><th class="日期">日期</th><th class="举办地点">举办地点</th><th class="摊位编号">摊位编号</th><th class="宣传页面">宣传页面</th><th class="备注">备注</th></tr><tr data-row-number="1" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E7%A7%8B%E5%AD%A3%E4%BE%8B%E5%A4%A7%E7%A5%AD#7" title="博丽神社秋季例大祭">博丽神社秋季例大祭#7</a></span></td><td class="活动名称 smwtype_txt">第七回 博麗神社秋季例大祭</td><td class="日期 smwtype_dat" data-sort-value="2459140.5">2020-10-18</td><td class="举办地点 smwtype_txt">东京Big Sight 西展厅</td><td class="摊位编号 smwtype_txt">ぬ04ab</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="2" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#17" title="博丽神社例大祭">博丽神社例大祭#17</a></span></td><td class="活动名称 smwtype_txt">第十七回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2458986.5">2020-05-17</td><td class="举办地点 smwtype_txt">静冈双子展览馆</td><td class="摊位编号 smwtype_txt">Z11b</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="3" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E7%A7%8B%E5%AD%A3%E4%BE%8B%E5%A4%A7%E7%A5%AD#6" title="博丽神社秋季例大祭">博丽神社秋季例大祭#6</a></span></td><td class="活动名称 smwtype_txt">第六回 博麗神社秋季例大祭</td><td class="日期 smwtype_dat" data-sort-value="2458762.5">2019-10-06</td><td class="举办地点 smwtype_txt">东京Big Sight 西展厅</td><td class="摊位编号 smwtype_txt">に06a</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="4" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#16" title="博丽神社例大祭">博丽神社例大祭#16</a></span></td><td class="活动名称 smwtype_txt">第十六回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2458608.5">2019-05-05</td><td class="举办地点 smwtype_txt">东京Big Sight</td><td class="摊位编号 smwtype_txt">ふ26b</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="5" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E7%A7%8B%E5%AD%A3%E4%BE%8B%E5%A4%A7%E7%A5%AD#5" title="博丽神社秋季例大祭">博丽神社秋季例大祭#5</a></span></td><td class="活动名称 smwtype_txt">第五回 博麗神社秋季例大祭</td><td class="日期 smwtype_dat" data-sort-value="2458405.5">2018-10-14</td><td class="举办地点 smwtype_txt">东京Big Sight 东展厅</td><td class="摊位编号 smwtype_txt">す36b</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="6" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#15" title="博丽神社例大祭">博丽神社例大祭#15</a></span></td><td class="活动名称 smwtype_txt">第十五回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2458244.5">2018-05-06</td><td class="举办地点 smwtype_txt">东京Big Sight 东123456展厅</td><td class="摊位编号 smwtype_txt">ぬ05a</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="7" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E7%A7%8B%E5%AD%A3%E4%BE%8B%E5%A4%A7%E7%A5%AD#4" title="博丽神社秋季例大祭">博丽神社秋季例大祭#4</a></span></td><td class="活动名称 smwtype_txt">第四回 博麗神社秋季例大祭</td><td class="日期 smwtype_dat" data-sort-value="2458041.5">2017-10-15</td><td class="举办地点 smwtype_txt">东京Big Sight 东123展厅</td><td class="摊位编号 smwtype_txt">つ13a</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="8" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#14" title="博丽神社例大祭">博丽神社例大祭#14</a></span></td><td class="活动名称 smwtype_txt">第十四回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2457880.5">2017-05-07</td><td class="举办地点 smwtype_txt">东京Big Sight 东123456展厅</td><td class="摊位编号 smwtype_txt">J35b</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="9" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E7%A7%8B%E5%AD%A3%E4%BE%8B%E5%A4%A7%E7%A5%AD#3" title="博丽神社秋季例大祭">博丽神社秋季例大祭#3</a></span></td><td class="活动名称 smwtype_txt">第三回 博麗神社秋季例大祭</td><td class="日期 smwtype_dat" data-sort-value="2457677.5">2016-10-16</td><td class="举办地点 smwtype_txt">东京Big Sight 东123展厅</td><td class="摊位编号 smwtype_txt">ち-18a</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="10" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#13" title="博丽神社例大祭">博丽神社例大祭#13</a></span></td><td class="活动名称 smwtype_txt">第十三回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2457516.5">2016-05-08</td><td class="举办地点 smwtype_txt">东京Big Sight 东123456展厅</td><td class="摊位编号 smwtype_txt">そ53a</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr class="smwfooter row-odd"><td class="sortbottom" colspan="7"><span class="smw-broadtable-furtherresults"><a href="/%E7%89%B9%E6%AE%8A:%E8%AF%A2%E9%97%AE/-5B-5B%E6%91%8A%E4%BD%8D%E7%A4%BE%E5%9B%A2::AZUKI-20SHOT-5D-5D/-3F%E6%91%8A%E4%BD%8D%E6%B4%BB%E5%8A%A8%3D%E6%B4%BB%E5%8A%A8%E9%A1%B5%E9%9D%A2/-3F%E6%91%8A%E4%BD%8D%E6%B4%BB%E5%8A%A8.%E5%B1%95%E4%BC%9A%E5%90%8D%E7%A7%B0%3D%E6%B4%BB%E5%8A%A8%E5%90%8D%E7%A7%B0/-3F%E6%91%8A%E4%BD%8D%E6%B4%BB%E5%8A%A8.%E5%B1%95%E4%BC%9A%E6%97%A5%E6%9C%9F%3D%E6%97%A5%E6%9C%9F/-3F%E6%91%8A%E4%BD%8D%E6%B4%BB%E5%8A%A8.%E5%9C%B0%E7%82%B9%3D%E4%B8%BE%E5%8A%9E%E5%9C%B0%E7%82%B9/-3F%E6%91%8A%E4%BD%8D%E7%BC%96%E5%8F%B7/-3F%E6%91%8A%E4%BD%8D%E5%AE%A3%E4%BC%A0%E9%A1%B5%E9%9D%A2%3D%E5%AE%A3%E4%BC%A0%E9%A1%B5%E9%9D%A2-7C%2Bmany%3D-3Cbr-20-2F-3E/-3F%E6%91%8A%E4%BD%8D%E5%A4%87%E6%B3%A8%3D%E5%A4%87%E6%B3%A8/mainlabel%3D-20-2D/limit%3D10/order%3D-20descending/sort%3D-20%E6%91%8A%E4%BD%8D%E6%B4%BB%E5%8A%A8.%E5%B1%95%E4%BC%9A%E6%97%A5%E6%9C%9F/offset%3D10/format%3D-20broadtable/headers%3D-20plain" title="特殊:询问/-5B-5B摊位社团::AZUKI-20SHOT-5D-5D/-3F摊位活动=活动页面/-3F摊位活动.展会名称=活动名称/-3F摊位活动.展会日期=日期/-3F摊位活动.地点=举办地点/-3F摊位编号/-3F摊位宣传页面=宣传页面-7C+many=-3Cbr-20-2F-3E/-3F摊位备注=备注/mainlabel=-20-2D/limit=10/order=-20descending/sort=-20摊位活动.展会日期/offset=10/format=-20broadtable/headers=-20plain">...更多结果</a></span></td></tr></tbody></table>
+
 
 
 ## 其他信息

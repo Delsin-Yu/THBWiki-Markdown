@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Invisible_Horizons(Intro.)封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/d/dd/Invisible_Horizons%28Intro.%29%E5%B0%81%E9%9D%A2.jpg/140px-Invisible_Horizons%28Intro.%29%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="140" height="99" srcset="https://upload.thwiki.cc/thumb/d/dd/Invisible_Horizons%28Intro.%29%E5%B0%81%E9%9D%A2.jpg/210px-Invisible_Horizons%28Intro.%29%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/d/dd/Invisible_Horizons%28Intro.%29%E5%B0%81%E9%9D%A2.jpg/280px-Invisible_Horizons%28Intro.%29%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="2141" data-file-height="1512"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>，<a href="./八云紫.md" title="八云紫">八云紫</a>，<a href="./西行寺幽幽子.md" title="西行寺幽幽子">西行寺幽幽子</a>，<a href="./爱丽丝·玛格特洛依德.md" title="爱丽丝·玛格特洛依德">爱丽丝·玛格特洛依德</a>，<a href="./魂魄妖梦.md" title="魂魄妖梦">魂魄妖梦</a>，<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a>，<a href="./伊吹萃香.md" title="伊吹萃香">伊吹萃香</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://www.age.ne.jp/x/karma/circle/c71/index.html">http://www.age.ne.jp/x/karma/circle/c71/index.html</a></td></tr></tbody></table>
 
 Invisible Horizons(Intro.)（同人志，ノザクマソフト，2006） - 2006年12月31日 由 ノザクマソフト 于 Comic Market 71 发布的漫画同人志，一共26页，分级为 一般向
+
 ## Staff
 - ノザクマ (未找到链接)
+
 
 ## 评论
 

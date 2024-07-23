@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Cheerful_GodS!!_～すばらしきこの幻想郷で～封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/8/83/Cheerful_GodS%21%21_%EF%BD%9E%E3%81%99%E3%81%B0%E3%82%89%E3%81%97%E3%81%8D%E3%81%93%E3%81%AE%E5%B9%BB%E6%83%B3%E9%83%B7%E3%81%A7%EF%BD%9E%E5%B0%81%E9%9D%A2.png/158px-Cheerful_GodS%21%21_%EF%BD%9E%E3%81%99%E3%81%B0%E3%82%89%E3%81%97%E3%81%8D%E3%81%93%E3%81%AE%E5%B9%BB%E6%83%B3%E9%83%B7%E3%81%A7%EF%BD%9E%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="158" height="224" srcset="https://upload.thwiki.cc/thumb/8/83/Cheerful_GodS%21%21_%EF%BD%9E%E3%81%99%E3%81%B0%E3%82%89%E3%81%97%E3%81%8D%E3%81%93%E3%81%AE%E5%B9%BB%E6%83%B3%E9%83%B7%E3%81%A7%EF%BD%9E%E5%B0%81%E9%9D%A2.png/238px-Cheerful_GodS%21%21_%EF%BD%9E%E3%81%99%E3%81%B0%E3%82%89%E3%81%97%E3%81%8D%E3%81%93%E3%81%AE%E5%B9%BB%E6%83%B3%E9%83%B7%E3%81%A7%EF%BD%9E%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/8/83/Cheerful_GodS%21%21_%EF%BD%9E%E3%81%99%E3%81%B0%E3%82%89%E3%81%97%E3%81%8D%E3%81%93%E3%81%AE%E5%B9%BB%E6%83%B3%E9%83%B7%E3%81%A7%EF%BD%9E%E5%B0%81%E9%9D%A2.png/317px-Cheerful_GodS%21%21_%EF%BD%9E%E3%81%99%E3%81%B0%E3%82%89%E3%81%97%E3%81%8D%E3%81%93%E3%81%AE%E5%B9%BB%E6%83%B3%E9%83%B7%E3%81%A7%EF%BD%9E%E5%B0%81%E9%9D%A2.png 2x" data-file-width="800" data-file-height="1130"></a><div class="cover-char">角色：<a href="./洩矢诹访子.md" title="洩矢诹访子">洩矢诹访子</a>，<a href="./八坂神奈子.md" title="八坂神奈子">八坂神奈子</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://yuzumomo-jam.blogspot.com/p/blog-page_12.html">http://yuzumomo-jam.blogspot.com/p/blog-page_12.html</a></td></tr></tbody></table>
 
 Cheerful GodS!! ～すばらしきこの幻想郷で～（同人志，柚子桃ジャム，2007） - 2007年11月4日 由 柚子桃ジャム 于 东方红楼梦3 发布的漫画同人志，B5尺寸一共36页，登场人物有 雾雨魔理沙、洩矢诹访子、八坂神奈子，分级为 一般向
+
 ## Staff
 - 柚子桃 (未找到链接)
+
 
 ## 评论
 ```

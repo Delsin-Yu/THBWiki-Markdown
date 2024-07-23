@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-RMS2_~東方の着せ替えほん~封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/3/31/RMS2_~%E6%9D%B1%E6%96%B9%E3%81%AE%E7%9D%80%E3%81%9B%E6%9B%BF%E3%81%88%E3%81%BB%E3%82%93~%E5%B0%81%E9%9D%A2.jpg/120px-RMS2_~%E6%9D%B1%E6%96%B9%E3%81%AE%E7%9D%80%E3%81%9B%E6%9B%BF%E3%81%88%E3%81%BB%E3%82%93~%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="120" height="168" srcset="https://upload.thwiki.cc/thumb/3/31/RMS2_~%E6%9D%B1%E6%96%B9%E3%81%AE%E7%9D%80%E3%81%9B%E6%9B%BF%E3%81%88%E3%81%BB%E3%82%93~%E5%B0%81%E9%9D%A2.jpg/180px-RMS2_~%E6%9D%B1%E6%96%B9%E3%81%AE%E7%9D%80%E3%81%9B%E6%9B%BF%E3%81%88%E3%81%BB%E3%82%93~%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/3/31/RMS2_~%E6%9D%B1%E6%96%B9%E3%81%AE%E7%9D%80%E3%81%9B%E6%9B%BF%E3%81%88%E3%81%BB%E3%82%93~%E5%B0%81%E9%9D%A2.jpg/240px-RMS2_~%E6%9D%B1%E6%96%B9%E3%81%AE%E7%9D%80%E3%81%9B%E6%9B%BF%E3%81%88%E3%81%BB%E3%82%93~%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1080" data-file-height="1510"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>，<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a>，<a href="./橙.md" title="橙">橙</a></div></td>
@@ -13,8 +14,10 @@
 </tr><tr><td class="label">首发日期</td><td>2004-02-15&#160;（<a href="/展会作品列表?e=Costume+Cafe%2312">コスチュームカフェ 12号店</a>）</td></tr><tr><td class="label">类型</td><td>漫画</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>B5</td></tr><tr><td class="label">页数</td><td>12P</td></tr></tbody></table>
 
 RMS2 ~東方の着せ替えほん~（同人志，DPSの奴隷達，2004） - 2004年2月15日 由 DPSの奴隷達 于 Costume Cafe 12 发布的漫画同人志，B5尺寸一共12页，分级为 一般向
+
 ## Staff
 - もんじ (未找到链接)
+
 
 ## 评论
 

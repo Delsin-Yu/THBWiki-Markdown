@@ -6,6 +6,7 @@
 
 -  **本词条内容为[东方幻想空间琪软公司](./东方幻想空间琪软公司.md)的所有软件** 
 
+
 ## 目录
 
 - [1 Staff](#Staff)
@@ -29,12 +30,15 @@
 
 
 
+
 ## Staff
   
 盒纸君
   
 
+
 ## 介绍
+
 ### 琪露诺计算器
 [](./文件-琪露诺计算器_图标.png.md)  [](./文件-琪露诺计算器_图标.png.md)琪露诺计算器 图标
   
@@ -43,11 +47,13 @@
   
 
 
+
 ### 八云蓝模拟器
 [](./文件-八云蓝模拟器_图标.png.md)  [](./文件-八云蓝模拟器_图标.png.md)图标
   
 使八云蓝在各种人物身上旋转，实际上是一个音乐播放器
   
+
 
 
 ### 文文新闻生成器
@@ -58,6 +64,7 @@
   
 
 
+
 ### 一键山雏
 [](./文件-一键山雏_图标.png.md)  [](./文件-一键山雏_图标.png.md)图标
   
@@ -66,12 +73,14 @@
   
 
 
+
 ### P点模拟器
 [](./文件-Cirnosoft_Ppoint_Icon.png.md)  [](./文件-Cirnosoft_Ppoint_Icon.png.md)图标
   
 调整P点生成与吸收数据
 移动鼠标以收集P点
   
+
 
 
 ### 让我们展示足技吧~Scarlet Police
@@ -86,6 +95,7 @@
 - 四面：ZUN
 
 
+
 ### Cirnosoft Matara
 [](./文件-Cirnosoft_Matara_Icon.png.md)  [](./文件-Cirnosoft_Matara_Icon.png.md)图标
   
@@ -95,11 +105,13 @@
 - 注：巴士为随机生成，有一定几率会生成三辆并排的
 
 
+
 ### Cirnosoft Kosuzu
 [](./文件-Cirnosoft_Kosuzu_Icon.png.md)  [](./文件-Cirnosoft_Kosuzu_Icon.png.md)图标
   
 普通的弹球游戏，需要防止小铃掉进任务栏
   
+
 
 
 ### Cirnosoft Fumo
@@ -109,12 +121,14 @@
   
 
 
+
 ### Cirnosoft Flandre
 [](./文件-Cirnosoft_Flandre_Icon.png.md)  [](./文件-Cirnosoft_Flandre_Icon.png.md)图标
   
 斯卡蕾特姐妹正在抱头蹲防，时不时会探出头来
 使用鼠标指针点击她们，使她们继续抱头蹲防
   
+
 
 
 ## 评论

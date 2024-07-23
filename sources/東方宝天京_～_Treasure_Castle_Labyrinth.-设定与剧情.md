@@ -4,6 +4,7 @@
 
 東方宝天京制作委员会 | 色色堂
 
+
 ## 目录
 
 - [1 附带文档](#附带文档)
@@ -20,11 +21,13 @@
 
 
 
+
 ## 附带文档
 - [changelog](./東方宝天京_～_Treasure_Castle_Labyrinth.-设定与剧情-changelog.md)
 - [DISCLAIMER](./東方宝天京_～_Treasure_Castle_Labyrinth.-设定与剧情-DISCLAIMER.md)
 - [readme](./東方宝天京_～_Treasure_Castle_Labyrinth.-设定与剧情-readme（旧版）.md)
 - story (未找到链接)
+
 
 ### 旧版本附带文档
 - [Comment（旧版）](./東方宝天京_～_Treasure_Castle_Labyrinth.-设定与剧情-Comment（旧版）.md)
@@ -32,8 +35,10 @@
 - [Seeting](./東方宝天京_～_Treasure_Castle_Labyrinth.-设定与剧情-Seeting.md)
 - [readme（旧版）](./東方宝天京_～_Treasure_Castle_Labyrinth.-设定与剧情-readme（旧版）.md)
 
+
 ## 故事背景
 - [故事背景](./東方宝天京_～_Treasure_Castle_Labyrinth.-设定与剧情-故事背景.md)
+
 
 ## 游戏对话
 - [博丽灵梦&amp;比那名居天子 游戏对话/结局](./東方宝天京_～_Treasure_Castle_Labyrinth.-设定与剧情-博丽灵梦&比那名居天子.md)
@@ -63,6 +68,7 @@
 - 博丽灵梦&amp;比那名居天子 Sequel游戏对话 (未找到链接)
 - 雾雨魔理沙&amp;圣白莲 Sequel游戏对话 (未找到链接)
 - 东风谷早苗&amp;物部布都 Sequel游戏对话 (未找到链接)
+
 
 
 ## 词条导航

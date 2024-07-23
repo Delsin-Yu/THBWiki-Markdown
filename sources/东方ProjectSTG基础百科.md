@@ -6,6 +6,7 @@
 
 本页是整理东方Project  
  **相关资料** 的词条
+
 ## 目录
 
 - [1 概述](#概述)
@@ -23,7 +24,9 @@
 
 
 
+
 ## 概述
+
 ## 目录
 - 第1页：[第三版编者的话](./东方ProjectSTG基础百科-第三版编者的话.md)[^cite_note-1]
 - 第2页：[再版编者的话](./东方ProjectSTG基础百科-再版编者的话.md)
@@ -43,7 +46,9 @@
   - 第88-89页：[附录4 常用辅助练习工具简介](./游戏攻略-STG常用工具.md)
 
 
+
 ## Staff
+
 ### 初版Staff
 原文主编
 : LMAX
@@ -54,6 +59,7 @@
 主审
 : Slice&#160;&#160; SaturdayOnline
 
+
 ### 再版Staff
 主编
 : 雨天放晴
@@ -61,6 +67,7 @@
 : sjf_101s Xnozero Canaria_19 alax919 星喵子 漠漠 八云封 北欧晨风
 特别感谢
 : 悠然飘过 囧仙 星期六上线
+
 
 ## 外部链接
 - 下载地址：[http://pan.baidu.com/share/link?shareid=1868460612&amp;uk=3037574828](http://pan.baidu.com/share/link?shareid=1868460612&amp;uk=3037574828) （百度网盘）

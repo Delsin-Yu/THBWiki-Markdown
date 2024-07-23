@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-くるくるR封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/e/e8/%E3%81%8F%E3%82%8B%E3%81%8F%E3%82%8BR%E5%B0%81%E9%9D%A2.jpg/140px-%E3%81%8F%E3%82%8B%E3%81%8F%E3%82%8BR%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="140" height="100" srcset="https://upload.thwiki.cc/thumb/e/e8/%E3%81%8F%E3%82%8B%E3%81%8F%E3%82%8BR%E5%B0%81%E9%9D%A2.jpg/210px-%E3%81%8F%E3%82%8B%E3%81%8F%E3%82%8BR%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/e/e8/%E3%81%8F%E3%82%8B%E3%81%8F%E3%82%8BR%E5%B0%81%E9%9D%A2.jpg/280px-%E3%81%8F%E3%82%8B%E3%81%8F%E3%82%8BR%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="2658" data-file-height="1892"></a><div class="cover-char">角色：<a href="./鬼人正邪.md" title="鬼人正邪">鬼人正邪</a></div></td>
@@ -14,10 +15,13 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/47134799">https://www.pixiv.net/artworks/47134799</a></td></tr></tbody></table>
 
 くるくるR（同人志，MILKPOP，2014） - 2014年11月24日 由 MILKPOP 于 博丽神社秋季例大祭1 发布的漫画同人志，登场人物有 琪露诺、若鹭姬、鬼人正邪、幽谷响子、赤蛮奇、今泉影狼、上白泽慧音、藤原妹红、宫古芳香、霍青娥、九十九弁弁、九十九八桥、堀川雷鼓、雾雨魔理沙、物部布都、苏我屠自古、西行寺幽幽子、十六夜咲夜、八坂神奈子、丰聪耳神子、圣白莲、八云紫、少名针妙丸，分级为 一般向
+
 ## 预览
+
 ## Staff
 - レキシタイふのじ (未找到链接)
 - 壱百号 (未找到链接)
+
 
 ## 评论
 

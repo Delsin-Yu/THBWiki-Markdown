@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-KILL_GEPPU_COMPLETE封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/e/e3/KILL_GEPPU_COMPLETE%E5%B0%81%E9%9D%A2.jpg/140px-KILL_GEPPU_COMPLETE%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="140" height="196" srcset="https://upload.thwiki.cc/thumb/e/e3/KILL_GEPPU_COMPLETE%E5%B0%81%E9%9D%A2.jpg/210px-KILL_GEPPU_COMPLETE%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/e/e3/KILL_GEPPU_COMPLETE%E5%B0%81%E9%9D%A2.jpg/280px-KILL_GEPPU_COMPLETE%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="572" data-file-height="800"></a><div class="cover-char">角色：<a href="./星熊勇仪.md" title="星熊勇仪">星熊勇仪</a></div></td>
@@ -14,9 +15,12 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/23505170">https://www.pixiv.net/artworks/23505170</a></td></tr></tbody></table>
 
 KILL GEPPU COMPLETE（同人志，IMINIC，2011） - 2011年12月30日 由 IMINIC 于 Comic Market 81 发布的漫画同人志，一共40页，登场人物有 星熊勇仪、博丽灵梦、雾雨魔理沙、东风谷早苗、蕾米莉亚·斯卡蕾特、八坂神奈子、伊吹萃香，分级为 一般向
+
 ## 预览
+
 ## Staff
 - [威未図](./威未図.md)
+
 
 ## 评论
 

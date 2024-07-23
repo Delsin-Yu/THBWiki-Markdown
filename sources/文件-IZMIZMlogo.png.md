@@ -4,6 +4,7 @@
 
 IZMIZM | 社团LOGO
 
+
 ## 摘要
   
 源地址：[direct image link (edited from original to only have the logo)](https://web.archive.org/web/20160412162928im_/http://izmizm.net/wp/wp-content/themes/izmizm/images/logo.jpg), [source page](https://web.archive.org/web/20170516113045/http://izmizm.net/)

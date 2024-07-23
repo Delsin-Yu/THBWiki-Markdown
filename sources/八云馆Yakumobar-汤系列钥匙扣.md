@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **相关实体周边 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 周边信息](#周边信息)
@@ -21,20 +22,25 @@
 
 
 
+
 ## 周边信息
 
 <table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 汤系列钥匙扣 </td></tr><tr><td class="label">制作方</td><td><a href="./八云馆Yakumobar.md" title="八云馆Yakumobar">八云馆Yakumobar</a></td></tr><tr><td class="label">首发日期</td><td>2023-04-30&#160;（<a href="/展会作品列表?e=%E9%95%BF%E4%B9%90%E6%9C%AA%E5%A4%AE%234">长安THONLY-星祈景风</a>）</td></tr><tr><td class="label">类型</td><td>钥匙扣</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">角色</td><td><a href="./八云紫.md" title="八云紫">八云紫</a><br><a href="./八云蓝.md" title="八云蓝">八云蓝</a><br><a href="./橙.md" title="橙">橙</a></td></tr><tr><td class="label">售价</td><td>40人民币</td></tr><tr><td class="label">备注</td><td>一件15元，一套40元</td></tr></tbody></table>
 
 八云馆Yakumobar/汤系列钥匙扣（周边，八云馆Yakumobar，2023） - 2023年4月30日 由 八云馆Yakumobar 于 长乐未央4 发布的钥匙扣周边，分级为 一般向
+
 ## 参考图
   
 周边宣传、售卖时使用的作为参考图的预览图或实物图的图片。
   
 
+
 ### 预览图
 - [](./文件-八云馆Yakumobar／汤系列钥匙扣预览图1.jpg.md)
 
+
 ## Staff
+
 ## 评论
 
 

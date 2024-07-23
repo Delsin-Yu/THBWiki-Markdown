@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 软件信息](#软件信息)
@@ -13,6 +14,7 @@
 - [3 内容页面](#内容页面)
 - [4 评论](#评论)
 - [5 下载](#下载)
+
 
 
 
@@ -36,15 +38,18 @@ Hecataker ～東方紺珠伝～（同人游戏，ルナティック少年院，2
 </tbody></table>
 
 
+
 ## Staff
 程序、绘画
 : 悪餓鬼
 BGM
 : Mittsies様
 
+
 ## 内容页面
 - [使用说明](./Hecataker_～東方紺珠伝～-说明.md)
 - [其他信息](./Hecataker_～東方紺珠伝～-杂项.md)
+
 
 ## 评论
 
@@ -57,6 +62,7 @@ Helltakerが好き過ぎたので自分でも作ってみました。
 
 This is a Fan Fiction of "Helltaker" x "Touhou Project".It has nothing to do with the original author.
   
+
 
 
 ## 下载

@@ -6,12 +6,14 @@
 
 本页是关于东方Project  
  **相关实体周边 (未找到链接)** 的词条
+
 ## 模型信息
 
 <table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 琪露诺 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>歌姬ver</td></tr><tr><td class="label">角色</td><td><a href="./琪露诺.md" title="琪露诺">琪露诺</a></td></tr><tr><td class="label">原型师</td><td><a href="/index.php?title=%E3%81%A1%E3%81%8F%E3%81%9F%E3%81%8F%E3%82%89%E3%81%B3%E3%81%A3%E3%81%A8&amp;action=edit&amp;redlink=1" class="new" title="ちくたくらびっと（页面不存在）">ちくたくらびっと</a></td></tr><tr><td class="label">原画师</td><td><a href="/index.php?title=%E6%A8%B9%E4%BA%BA&amp;action=edit&amp;redlink=1" class="new" title="樹人（页面不存在）">樹人</a></td></tr><tr><td class="label">比例</td><td>1/8</td></tr><tr><td class="label">尺寸</td><td>150mm</td></tr><tr><td class="label">状态</td><td>已发售</td></tr><tr><td class="label">售价</td><td>7600日元</td></tr><tr><td class="label">首发日期</td><td>2012-05-11</td></tr><tr><td class="label">发售方</td><td><a href="/index.php?title=%E6%B0%B4%E6%97%8F%E9%A6%86&amp;action=edit&amp;redlink=1" class="new" title="水族馆（页面不存在）">水族馆</a></td></tr><tr><td class="label">官网页面</td><td><a rel="nofollow" class="external free" href="http://www.aq-marine.jp/cirno.html">http://www.aq-marine.jp/cirno.html</a></td></tr><tr><td class="label">备注</td><td>同人音楽サークルIOSYS(イオシス)の東方Projectアレンジ
 <br style="clear:both;">『東方うたうチルノちゃん』より、CDジャケット絵の立体化です。</td></tr></tbody></table>
 
 水族馆/歌姬ver/琪露诺（周边） - 琪露诺PVCFigure手办模型
+
 ## 参考图片
 
 

@@ -4,6 +4,7 @@
 
 トリック・ノスタルジー
 
+
 ## 目录
 
 - [1 基本操作](#基本操作)
@@ -41,7 +42,9 @@
 
 
 
+
 ## 基本操作
+
 ### 操作方法
 -  **方向键**  移动角色
 -  **Z键**  射击/确认/继续对话
@@ -49,7 +52,9 @@
 -  **Shift键**  进入低速模式
 -  **Esc键**  游戏暂停/退出replay
 
+
 ## 特殊系统
+
 ### 自机组合
   
 本作的自机为两人一组，分别为 **神社组、开瓶器组、奴隶商人组** 以及隐藏的？？？组，但是和[东方永夜抄](./东方永夜抄.md)并不相同，可以选择组合中的一个角色开始游戏，没有被选择的组合角色会成为备用角色，在屏幕下方缓慢移动。
@@ -64,6 +69,7 @@
   
 
 - 可以设置成不交换角色，但是你的游戏分数无法记录。（录像保存不受影响）
+
 
 ### 「瓶中天模式」
   
@@ -80,7 +86,9 @@
 
 - 在EX关中收集1000以上灵魂强制开启EX+α关，boss会夺走你的所有灵魂(清零)然后开始战斗。
 
+
 ## 机体说明
+
 ### 神社组
 
 <table><tbody><tr><td><div class="center"><div class="floatnone"><a href="./文件-凤联薮雨（灵烈传）.png.md" class="image" title="天衣无缝的乐天派 凤联薮雨"><img alt="天衣无缝的乐天派 凤联薮雨" src="https://upload.thwiki.cc/thumb/c/ce/%E5%87%A4%E8%81%94%E8%96%AE%E9%9B%A8%EF%BC%88%E7%81%B5%E7%83%88%E4%BC%A0%EF%BC%89.png/22px-%E5%87%A4%E8%81%94%E8%96%AE%E9%9B%A8%EF%BC%88%E7%81%B5%E7%83%88%E4%BC%A0%EF%BC%89.png" decoding="async" loading="lazy" width="22" height="40" srcset="https://upload.thwiki.cc/thumb/c/ce/%E5%87%A4%E8%81%94%E8%96%AE%E9%9B%A8%EF%BC%88%E7%81%B5%E7%83%88%E4%BC%A0%EF%BC%89.png/32px-%E5%87%A4%E8%81%94%E8%96%AE%E9%9B%A8%EF%BC%88%E7%81%B5%E7%83%88%E4%BC%A0%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/c/ce/%E5%87%A4%E8%81%94%E8%96%AE%E9%9B%A8%EF%BC%88%E7%81%B5%E7%83%88%E4%BC%A0%EF%BC%89.png/43px-%E5%87%A4%E8%81%94%E8%96%AE%E9%9B%A8%EF%BC%88%E7%81%B5%E7%83%88%E4%BC%A0%EF%BC%89.png 2x" data-file-width="250" data-file-height="460"></a></div></div></td> <td style="width:150px;padding:3px 9px 3px 7px;">天衣无缝的乐天派</td><td style="width:180px;padding:3px 9px 3px 7px;"> <a href="./凤联薮雨.md" title="凤联薮雨">凤联薮雨</a></td></tr><tr><td><div class="center"><div class="floatnone"><a href="./文件-燕乐玄鸟（灵烈传）.png.md" class="image" title="酒囊饭袋的单彩 燕乐玄鸟"><img alt="酒囊饭袋的单彩 燕乐玄鸟" src="https://upload.thwiki.cc/thumb/d/d2/%E7%87%95%E4%B9%90%E7%8E%84%E9%B8%9F%EF%BC%88%E7%81%B5%E7%83%88%E4%BC%A0%EF%BC%89.png/27px-%E7%87%95%E4%B9%90%E7%8E%84%E9%B8%9F%EF%BC%88%E7%81%B5%E7%83%88%E4%BC%A0%EF%BC%89.png" decoding="async" loading="lazy" width="27" height="40" srcset="https://upload.thwiki.cc/thumb/d/d2/%E7%87%95%E4%B9%90%E7%8E%84%E9%B8%9F%EF%BC%88%E7%81%B5%E7%83%88%E4%BC%A0%EF%BC%89.png/41px-%E7%87%95%E4%B9%90%E7%8E%84%E9%B8%9F%EF%BC%88%E7%81%B5%E7%83%88%E4%BC%A0%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/d/d2/%E7%87%95%E4%B9%90%E7%8E%84%E9%B8%9F%EF%BC%88%E7%81%B5%E7%83%88%E4%BC%A0%EF%BC%89.png/55px-%E7%87%95%E4%B9%90%E7%8E%84%E9%B8%9F%EF%BC%88%E7%81%B5%E7%83%88%E4%BC%A0%EF%BC%89.png 2x" data-file-width="257" data-file-height="375"></a></div></div></td> <td style="width:150px;padding:3px 9px 3px 7px;">酒囊饭袋的单彩</td><td style="width:180px;padding:3px 9px 3px 7px;"> <a href="./燕乐玄鸟.md" title="燕乐玄鸟">燕乐玄鸟</a></td></tr></tbody></table>
@@ -137,6 +145,7 @@
 
 - 操作中的自机变得可以收集灵魂（无法吸引）
 
+
 ### 开瓶器组
 
 <table><tbody><tr><td><div class="center"><div class="floatnone"><a href="./文件-徒云八尾吕智（灵烈传）.png.md" class="image" title="大蛇的末裔 徒云八尾吕智"><img alt="大蛇的末裔 徒云八尾吕智" src="https://upload.thwiki.cc/thumb/f/fb/%E5%BE%92%E4%BA%91%E5%85%AB%E5%B0%BE%E5%90%95%E6%99%BA%EF%BC%88%E7%81%B5%E7%83%88%E4%BC%A0%EF%BC%89.png/26px-%E5%BE%92%E4%BA%91%E5%85%AB%E5%B0%BE%E5%90%95%E6%99%BA%EF%BC%88%E7%81%B5%E7%83%88%E4%BC%A0%EF%BC%89.png" decoding="async" loading="lazy" width="26" height="40" srcset="https://upload.thwiki.cc/thumb/f/fb/%E5%BE%92%E4%BA%91%E5%85%AB%E5%B0%BE%E5%90%95%E6%99%BA%EF%BC%88%E7%81%B5%E7%83%88%E4%BC%A0%EF%BC%89.png/39px-%E5%BE%92%E4%BA%91%E5%85%AB%E5%B0%BE%E5%90%95%E6%99%BA%EF%BC%88%E7%81%B5%E7%83%88%E4%BC%A0%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/f/fb/%E5%BE%92%E4%BA%91%E5%85%AB%E5%B0%BE%E5%90%95%E6%99%BA%EF%BC%88%E7%81%B5%E7%83%88%E4%BC%A0%EF%BC%89.png/52px-%E5%BE%92%E4%BA%91%E5%85%AB%E5%B0%BE%E5%90%95%E6%99%BA%EF%BC%88%E7%81%B5%E7%83%88%E4%BC%A0%EF%BC%89.png 2x" data-file-width="282" data-file-height="429"></a></div></div></td> <td style="width:150px;padding:3px 9px 3px 7px;">大蛇的末裔</td><td style="width:180px;padding:3px 9px 3px 7px;"> <a href="./徒云八尾吕智.md" title="徒云八尾吕智">徒云八尾吕智</a></td></tr><tr><td><div class="center"><div class="floatnone"><a href="./文件-片野宿祢（灵烈传）.png.md" class="image" title="无垢的天才埴轮 片野宿祢"><img alt="无垢的天才埴轮 片野宿祢" src="https://upload.thwiki.cc/thumb/a/ad/%E7%89%87%E9%87%8E%E5%AE%BF%E7%A5%A2%EF%BC%88%E7%81%B5%E7%83%88%E4%BC%A0%EF%BC%89.png/40px-%E7%89%87%E9%87%8E%E5%AE%BF%E7%A5%A2%EF%BC%88%E7%81%B5%E7%83%88%E4%BC%A0%EF%BC%89.png" decoding="async" loading="lazy" width="40" height="35" srcset="https://upload.thwiki.cc/thumb/a/ad/%E7%89%87%E9%87%8E%E5%AE%BF%E7%A5%A2%EF%BC%88%E7%81%B5%E7%83%88%E4%BC%A0%EF%BC%89.png/60px-%E7%89%87%E9%87%8E%E5%AE%BF%E7%A5%A2%EF%BC%88%E7%81%B5%E7%83%88%E4%BC%A0%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/a/ad/%E7%89%87%E9%87%8E%E5%AE%BF%E7%A5%A2%EF%BC%88%E7%81%B5%E7%83%88%E4%BC%A0%EF%BC%89.png/80px-%E7%89%87%E9%87%8E%E5%AE%BF%E7%A5%A2%EF%BC%88%E7%81%B5%E7%83%88%E4%BC%A0%EF%BC%89.png 2x" data-file-width="421" data-file-height="370"></a></div></div></td> <td style="width:150px;padding:3px 9px 3px 7px;">无垢的天才埴轮</td><td style="width:180px;padding:3px 9px 3px 7px;"> <a href="./片野宿祢.md" title="片野宿祢">片野宿祢</a></td></tr></tbody></table>
@@ -189,6 +198,7 @@ FAEB「埴轮爆弹」
   
 
 - 道具会稍稍向自机靠拢
+
 
 ### 奴隶商人组
 
@@ -243,6 +253,7 @@ FAEB「埴轮爆弹」
 
 - 瞬雷槽会自动积累
 
+
 ### 隐藏机体
 
 <table>
@@ -274,12 +285,14 @@ FAEB「埴轮爆弹」
 </td></tr></tbody></table>
 
 
+
 ## 使用策略
   
 混关的话，本篇全关首推大蛇组（单大蛇更不重规划，然而无法录分）；EX全关推荐大蛇组（只有组合机）。  
 
 就混关的话，大蛇组难度是远低于其他所有组合机的。避弹的话，雀巳性能是相对不错的。
   
+
 
 ### 神社组
   
@@ -294,6 +307,7 @@ FAEB「埴轮爆弹」
 神社组最大的缺陷在于低P循环，玄鸟低p的时候（特别是&lt;3p）火力很差，如果处理不慎可能导致死宛五连被磨掉很多残机（多1000灵魂也就是多3残左右），加上雷比开瓶器组少，就亏回去了。  
 
   
+
 
 ### 开瓶器组
   
@@ -325,6 +339,7 @@ aex的话，因为弹幕压力非常大，碎尘的规划输出变得非常重�
 
   
 
+
 ### 奴隶商人组
   
 能够深度背板精确执行的话性能是足够高的，避弹性能也较为优秀，但混关方面，雷少造成资源匮乏，容错低。  
@@ -349,6 +364,7 @@ aex的话，因为弹幕压力非常大，碎尘的规划输出变得非常重�
 
 但是一残只带两个雷造成了明显的低容错，尽管机体性能还算强，但是意外撞一下就是巨大损失。
   
+
 
 ### ？？？组
 

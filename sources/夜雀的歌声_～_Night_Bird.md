@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -40,11 +41,13 @@
 
 
 
+
 ## 基本信息
 
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">夜雀の歌声　～ Night Bird</td></tr><tr><td><b>译名</b></td><td>夜雀的歌声 ～ Night Bird</td></tr><tr><td><b>英文译名</b></td><td>Song of the Night Sparrow ~ Night Bird</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 夜雀的歌声 ～ Night Bird（曲目） - 由 ZUN 创作的官方曲目，原名 夜雀の歌声　～ Night Bird
+
 ## 出现作品
 
 <table>
@@ -53,8 +56,11 @@
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 东方永夜抄
+
 #### WAV
   
 WAV版是游戏的原声带。
@@ -69,6 +75,7 @@ WAV版是游戏的原声带。
 </td></tr></tbody></table>
 
 
+
 #### MIDI
   
 MIDI版由Roland Sound Canvas 88Pro实机录音得到。
@@ -78,7 +85,9 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td><a href="./文件-th08_04.mid.md" title="文件:th08 04.mid">th08_04.mid</a></td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th08_04_SC88Pro.mp3.md" title="文件:th08 04 SC88Pro.mp3">th08_04_SC88Pro.mp3</a><br><audio src="https://upload.thwiki.cc/d/d6/th08_04_SC88Pro.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>th08_04.mid</td></tr><tr><td><b>音轨时长</b></td><td>2:26</td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 东方永夜抄
 - Music Room (未找到链接)
 
@@ -92,8 +101,11 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
 
 　4.夜雀的歌声　～ Night Bird  
 　　夜雀是平时不露面的声之妖怪。虽然鸟的歌声什么的也没什么大不了的。
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
   
  **夜雀の歌声　～ Night Bird**  夜雀的歌声　～ Night Bird
@@ -109,7 +121,8 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
 - Night Bird
   - 夜晚的鸟。
   - 夜雀。
-  - 参见露米娅的同名符卡夜符「Night Bird」 (未找到链接)的[分析考据](./Night_Bird-分析与考据.md)。
+  - 参见露米娅的同名符卡[夜符「Night Bird」](./夜符「Night_Bird」.md)的[分析考据](./Night_Bird-分析与考据.md)。
+
 
 
 ### 二次同人数据

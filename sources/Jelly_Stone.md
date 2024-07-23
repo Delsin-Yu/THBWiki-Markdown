@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -34,11 +35,13 @@
 
 
 
+
 ## 基本信息
 
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">ジェリーストーン</td></tr><tr><td><b>译名</b></td><td>Jelly Stone</td></tr><tr><td><b>其他译名</b></td><td>水母石</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 Jelly Stone（曲目） - 由 ZUN 创作的官方曲目，原名 ジェリーストーン
+
 ## 出现作品
 
 <table>
@@ -47,7 +50,9 @@ Jelly Stone（曲目） - 由 ZUN 创作的官方曲目，原名 ジェリース
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 东方鬼形兽
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th17_03.mp3.md" title="文件:th17 03.mp3">th17_03.mp3</a><br><audio src="https://upload.thwiki.cc/f/f2/th17_03.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>BGM\th17_03.wav</td></tr><tr><td><b>BGMForAll</b></td><td><div class="mw-collapsible mw-collapsed">
@@ -58,7 +63,9 @@ Jelly Stone（曲目） - 由 ZUN 创作的官方曲目，原名 ジェリース
 </td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 东方鬼形兽
 - Music Room (未找到链接)
 
@@ -68,8 +75,11 @@ Jelly Stone（曲目） - 由 ZUN 创作的官方曲目，原名 ジェリース
 　从黑暗的前奏开始，继而成为如小孩子一般轻快的旋律，  
 　是一首惹人怜爱的曲子。  
 　我也加入了水母一般的轻飘飘的感觉。
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
   
  **ジェリーストーン**  Jelly Stone
@@ -85,6 +95,7 @@ Jelly Stone（曲目） - 由 ZUN 创作的官方曲目，原名 ジェリース
   - 石头。
     - [赛之河原](./赛之河原.md)上水子们垒起的石堆。
     - [戎璎花](./戎璎花.md)的能力为「擅长垒石头程度的能力」。
+
 
 
 

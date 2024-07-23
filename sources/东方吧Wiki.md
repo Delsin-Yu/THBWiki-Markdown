@@ -16,6 +16,7 @@
 
 
 </center>
+
 ## 简介
   
 <big>东方吧Wiki</big>（Touhou  **Bar**  Wiki）  

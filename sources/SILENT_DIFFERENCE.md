@@ -4,15 +4,18 @@
 
 SILENT DIFFERENCE ，主要制作 同人音乐 的日本同人社团，主催是 しるへい
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 社团信息
 [](./文件-SILENT_DIFFERENCEbanner.jpg.md)  [](./文件-SILENT_DIFFERENCEbanner.jpg.md)SILENT DIFFERENCE
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> SILENT DIFFERENCE </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>当前状态</b></td><td>未知</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=%E3%81%97%E3%82%8B%E3%81%B8%E3%81%84&amp;action=edit&amp;redlink=1" class="new" title="しるへい（页面不存在）">しるへい</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://silentdifference.com/">http://silentdifference.com/</a> </td></tr></tbody></table>
 
 SILENT DIFFERENCE（同人社团，同人音乐社团） - SILENT DIFFERENCE ，主要制作 同人音乐 的日本同人社团，主催是 しるへい
+
 ## 成员名单
 - しるへい (未找到链接)
+
 
 ## 作品列表
 [](./Vengeance_from_dark.md)[Vengeance from dark](./Vengeance_from_dark.md)首发日期：2011-08-13 （Comic Market 80 (未找到链接)）LKA-003全长、​合作 （一般向）该作品是与 [LA KIA](./LA_KIA.md) 合作创作的[](./LEFT_BEHIND（同人专辑）.md)[LEFT BEHIND](./LEFT_BEHIND（同人专辑）.md)首发日期：2011-12-30 （Comic Market 81 (未找到链接)）SIL-000单曲 （一般向）[](./BELIAL.md)[BELIAL](./BELIAL.md)首发日期：2012-08-11 （Comic Market 82 (未找到链接)）SDCD-001全长 （一般向）[](./INVISIBLE_CORE.md)[INVISIBLE CORE](./INVISIBLE_CORE.md)首发日期：2012-12-30 （Comic Market 83 (未找到链接)）SDCD-002单曲 （一般向）LEFT BEHIND -2nd Press- 封面图片 (未找到链接)LEFT BEHIND -2nd Press- (未找到链接)首发日期：未知 - 

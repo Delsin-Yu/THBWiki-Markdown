@@ -5,6 +5,7 @@
 东方Project官方出版物，也是'''东方Project人妖名鉴'''系列插画设定集的第一册。
 
 本页是关于东方Project **[官方书籍](./官方出版物.md)** 的词条
+
 ## 目录
 
 - [1 概述](#概述)
@@ -12,6 +13,7 @@
 - [3 目录](#目录)
 - [4 其他](#其他)
 - [5 注释](#注释)
+
 
 
 
@@ -39,8 +41,7 @@
 
 
   
-<big> **东方Project人妖名鉴 宵暗篇**   
-</big>
+<big> **东方Project人妖名鉴 宵暗篇** </big>
 東方Project人妖名鑑 宵闇編<small>（トウホウプロジェクトジンヨウメイカン ヨイヤミヘン）</small>  
 
 本书是东方Project的官方出版物，也是[东方Project人妖名鉴](./东方Project人妖名鉴.md)系列的第一册。  
@@ -58,9 +59,10 @@
 </tr>
 <tr>
 <td style="width:140px"><b>出版方</b></td><td style="min-width:300px">角川集团</td>
-</tr><tr><td><b>版权方</b></td><td>上海爱丽丝幻乐团</td></tr><tr><td><b>作者</b></td><td>ZUN</td></tr><tr><td><b>文字</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a> 等</td></tr><tr><td><b>封面</b></td><td><a href="/%E5%94%96%E9%87%87%E5%BC%A6%E4%BA%8C" class="mw-redirect" title="唖采弦二">唖采弦二</a></td></tr><tr><td><b>插画</b></td><td><a href="./あずまあや.md" title="あずまあや">あずまあや</a>，<a href="./shnva.md" title="shnva">shnva</a>，<a href="./水中花火.md" title="水中花火">水中花火</a>，<a href="/index.php?title=%E6%9F%8A%E6%9A%81%E7%94%9F&amp;action=edit&amp;redlink=1" class="new" title="柊暁生（页面不存在）">柊暁生</a>，<a href="./べにしゃけ.md" title="べにしゃけ">べにしゃけ</a>，<a href="/index.php?title=%E7%B4%85%E3%82%B7%E3%83%A3%E3%82%B1&amp;action=edit&amp;redlink=1" class="new" title="紅シャケ（页面不存在）">紅シャケ</a>，<a href="/index.php?title=%E5%8C%A1%E5%90%89&amp;action=edit&amp;redlink=1" class="new" title="匡吉（页面不存在）">匡吉</a></td></tr><tr><td><b>设计</b></td><td>渡辺淳子</td></tr><tr><td><b>编辑</b></td><td>电击G'sComic编辑部</td></tr><tr><td><b>发行人</b></td><td>青柳昌行</td></tr><tr><td><b>类型</b></td><td>插画设定集</td></tr></tbody></table>
+</tr><tr><td><b>版权方</b></td><td>上海爱丽丝幻乐团</td></tr><tr><td><b>作者</b></td><td>ZUN</td></tr><tr><td><b>文字</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a> 等</td></tr><tr><td><b>封面</b></td><td><a href="./唖采弦二.md" class="mw-redirect" title="唖采弦二">唖采弦二</a></td></tr><tr><td><b>插画</b></td><td><a href="./あずまあや.md" title="あずまあや">あずまあや</a>，<a href="./shnva.md" title="shnva">shnva</a>，<a href="./水中花火.md" title="水中花火">水中花火</a>，<a href="/index.php?title=%E6%9F%8A%E6%9A%81%E7%94%9F&amp;action=edit&amp;redlink=1" class="new" title="柊暁生（页面不存在）">柊暁生</a>，<a href="./べにしゃけ.md" title="べにしゃけ">べにしゃけ</a>，<a href="/index.php?title=%E7%B4%85%E3%82%B7%E3%83%A3%E3%82%B1&amp;action=edit&amp;redlink=1" class="new" title="紅シャケ（页面不存在）">紅シャケ</a>，<a href="/index.php?title=%E5%8C%A1%E5%90%89&amp;action=edit&amp;redlink=1" class="new" title="匡吉（页面不存在）">匡吉</a></td></tr><tr><td><b>设计</b></td><td>渡辺淳子</td></tr><tr><td><b>编辑</b></td><td>电击G'sComic编辑部</td></tr><tr><td><b>发行人</b></td><td>青柳昌行</td></tr><tr><td><b>类型</b></td><td>插画设定集</td></tr></tbody></table>
 
 东方Project人妖名鉴 宵暗篇（官方书籍） - 东方Project官方出版物，也是 **东方Project人妖名鉴** 系列插画设定集的第一册。
+
 ## 官方宣传词
   
  **作者披露的「东方角色制作方法」**   
@@ -72,6 +74,7 @@
 在官方杂志集《[东方外来韦编](./东方外来韦编.md)》中已刊登的角色自不必说，还会收录众多新绘插画！  
 
   
+
 
 ## 目录
 - 简体中文版本各页相比角川版本提前1-2页，这主要是因为四川美术出版社版没有将扉页和目录分别标注在角川版标注为1和2的页号.
@@ -131,6 +134,7 @@
 - 第095页：ZUN的后记 (未找到链接)
 - 第096页：版权页
 - 封底
+
 
 ## 其他
 - [单行本设计](./东方Project人妖名鉴_宵暗篇-单行本设计.md)

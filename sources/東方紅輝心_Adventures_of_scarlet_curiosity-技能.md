@@ -42,6 +42,7 @@
 攻击命中、技能命中、符卡命中时，按照hit数增长符力槽，符卡命中每hit的符力槽大约为攻击和技能的一半。
   
 
+
 ## 蕾米莉亚
 
 <table>
@@ -199,6 +200,7 @@
 <tr><td style="width:120px;padding-left:7px;"><b>译名</b></td><td>红符「红色不夜城」</td></tr><tr><td style="width:120px;padding-left:7px;"><b>类型</b></td><td>符卡</td></tr><tr><td style="width:120px;padding-left:7px;"><b>伤害</b></td><td>3倍攻击力*8hit</td></tr><tr><td style="width:120px;padding-left:7px;"><b>备注</b></td><td>LV32时获得。<br>攻击范围较近。</td></tr></tbody></table>
 
 
+
 ## 十六夜咲夜
   
 咲夜的所有技能均无法消弹，只有普通攻击可以消弹。
@@ -316,6 +318,7 @@
 <table>
 <tbody><tr><td style="width:120px;padding-left:7px;"><b>名称</b></td><td width="350">傷魂「ソウルスカルプチュア」</td><td rowspan="7" width="190"><a href="./文件-东方红辉心符卡103.jpg.md" class="image"><img alt="东方红辉心符卡103.jpg" src="https://upload.thwiki.cc/thumb/c/ca/%E4%B8%9C%E6%96%B9%E7%BA%A2%E8%BE%89%E5%BF%83%E7%AC%A6%E5%8D%A1103.jpg/190px-%E4%B8%9C%E6%96%B9%E7%BA%A2%E8%BE%89%E5%BF%83%E7%AC%A6%E5%8D%A1103.jpg" decoding="async" loading="lazy" width="190" height="96" srcset="https://upload.thwiki.cc/thumb/c/ca/%E4%B8%9C%E6%96%B9%E7%BA%A2%E8%BE%89%E5%BF%83%E7%AC%A6%E5%8D%A1103.jpg/285px-%E4%B8%9C%E6%96%B9%E7%BA%A2%E8%BE%89%E5%BF%83%E7%AC%A6%E5%8D%A1103.jpg 1.5x, https://upload.thwiki.cc/thumb/c/ca/%E4%B8%9C%E6%96%B9%E7%BA%A2%E8%BE%89%E5%BF%83%E7%AC%A6%E5%8D%A1103.jpg/380px-%E4%B8%9C%E6%96%B9%E7%BA%A2%E8%BE%89%E5%BF%83%E7%AC%A6%E5%8D%A1103.jpg 2x" data-file-width="598" data-file-height="303"></a></td></tr>
 <tr><td style="width:120px;padding-left:7px;"><b>译名</b></td><td>伤魂「灵魂雕塑」</td></tr><tr><td style="width:120px;padding-left:7px;"><b>类型</b></td><td>符卡</td></tr><tr><td style="width:120px;padding-left:7px;"><b>伤害</b></td><td>2.4倍攻击力*10hit</td></tr><tr><td style="width:120px;padding-left:7px;"><b>备注</b></td><td>LV32时获得。</td></tr></tbody></table>
+
 
 
 ## 芙兰朵露

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-chiaro_di_Luna_vol.2封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/1/1e/chiaro_di_Luna_vol.2%E5%B0%81%E9%9D%A2.jpg/80px-chiaro_di_Luna_vol.2%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="80" height="112" srcset="https://upload.thwiki.cc/thumb/1/1e/chiaro_di_Luna_vol.2%E5%B0%81%E9%9D%A2.jpg/120px-chiaro_di_Luna_vol.2%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/1/1e/chiaro_di_Luna_vol.2%E5%B0%81%E9%9D%A2.jpg/160px-chiaro_di_Luna_vol.2%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="443" data-file-height="620"></a><div class="cover-char">角色：<a href="./苏我屠自古.md" title="苏我屠自古">苏我屠自古</a></div></td>
@@ -17,8 +18,10 @@ chiaro di Luna vol.2（同人志，pietra di Luna，2016） - 2016年8月13日 �
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://pietra-di-luna.booth.pm/items/345582">Booth</a></td></tr></tbody></table>
 
 
+
 ## Staff
 : Luna (未找到链接)
+
 
 ## 评论
 

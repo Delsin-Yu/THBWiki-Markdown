@@ -4,7 +4,8 @@
 
 8 Groove Records ，于 2018 年成立，主要制作 同人音乐 的日本同人社团，主催是 SOALAR，当前状态为 休止
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -15,20 +16,24 @@
 
 
 
+
 ## 社团信息
 文件:8 Groove Recordsbanner.jpg (未找到链接)  banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> 8 Groove Records </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2018</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=SOALAR&amp;action=edit&amp;redlink=1" class="new" title="SOALAR（页面不存在）">SOALAR</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://8groove.com/">http://8groove.com/</a> </td></tr></tbody></table>
 
 8 Groove Records（同人社团，同人音乐社团） - 8 Groove Records ，于 2018 年成立，主要制作 同人音乐 的日本同人社团，主催是 SOALAR，当前状态为 休止
+
 ## 成员名单
 - SOALAR (未找到链接)
-- adaptor (未找到链接)
+- [adaptor](./adaptor.md)
+
 
 ## 作品列表
 [](./東方大鼓動.md)[東方大鼓動](./東方大鼓動.md)首发日期：2018-05-06 （第十五回 博麗神社例大祭 (未找到链接)）EGRR-0003全长 （一般向）
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
 </table>
+
 
 
 ## 参展信息

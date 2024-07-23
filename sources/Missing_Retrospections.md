@@ -4,7 +4,8 @@
 
 Missing Retrospections ，于 2020 年成立，主要制作 同人音乐 的波兰同人社团，主催是 Wolfie，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -16,6 +17,7 @@ Missing Retrospections ，于 2020 年成立，主要制作 同人音乐 的波�
 
 
 - [4 其他信息](#其他信息)
+
 
 
 
@@ -36,14 +38,18 @@ Missing Retrospections（同人社团，同人音乐社团） - Missing Retrospe
 - [https://missingretrospections.tumblr.com/](https://missingretrospections.tumblr.com/)
 - [https://missingretrospections.bandcamp.com/](https://missingretrospections.bandcamp.com/)
 
+
 ## 成员名单
 - Wolfie (未找到链接)
 
+
 ## 作品列表
+
 ### 同人专辑
 [](./Gungnir_and_LÆvateinn.md)[Gungnir and LÆvateinn](./Gungnir_and_LÆvateinn.md)首发日期：2020-07-28 全长 （一般向）
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
 </table>
+
 
 
 ## 其他信息

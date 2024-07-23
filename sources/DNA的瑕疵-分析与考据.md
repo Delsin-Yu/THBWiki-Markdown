@@ -4,12 +4,14 @@
 
 古明地恋 | 符卡
 
+
 ## 目录
 
 - [1 分析考据](#分析考据)
 - [2 注释](#注释)
 - [3 参见](#参见)
 - [4 导航](#导航)
+
 
 
 
@@ -67,8 +69,10 @@
 
 [^cite_note-1]: 英文维基百科：[Genetic memory (psychology)](https://en.wikipedia.org/wiki/en:Genetic_memory_(psychology))
 
+
 ## 参见
 - [古明地恋/分析考据](./古明地恋-分析考据.md)
+
 
 ## 导航
 

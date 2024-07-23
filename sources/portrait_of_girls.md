@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-portrait_of_girls封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/3/30/portrait_of_girls%E5%B0%81%E9%9D%A2.jpg/98px-portrait_of_girls%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="98" height="140" srcset="https://upload.thwiki.cc/thumb/3/30/portrait_of_girls%E5%B0%81%E9%9D%A2.jpg/147px-portrait_of_girls%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/3/30/portrait_of_girls%E5%B0%81%E9%9D%A2.jpg/196px-portrait_of_girls%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="421" data-file-height="600"></a><div class="cover-char">角色：<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a></div></td>
@@ -13,8 +14,10 @@
 </tr><tr><td class="label">首发日期</td><td>2010-12-30&#160;（<a href="/展会作品列表?e=Comic+Market%2379">Comic Market 79</a>）</td></tr><tr><td class="label">类型</td><td>画集</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">页数</td><td>28P</td></tr></tbody></table>
 
 portrait of girls（同人志，ひとみしり，2010） - 2010年12月30日 由 ひとみしり 于 Comic Market 79 发布的画集同人志，一共28页，分级为 一般向
+
 ## Staff
 - [甘党](./甘党.md)
+
 
 ## 评论
 

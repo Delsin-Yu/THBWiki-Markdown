@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -36,11 +37,13 @@
 
 
 
+
 ## 基本信息
 
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">バー・オールドアダム</td></tr><tr><td><b>译名</b></td><td>Bar·Old Adam</td></tr><tr><td><b>英文译名</b></td><td>"Old Adam" Bar</td></tr><tr><td><b>其他译名</b></td><td>老亚当酒吧</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 Bar·Old Adam（曲目） - 由 ZUN 创作的官方曲目，原名 バー・オールドアダム
+
 ## 出现作品
 
 <table>
@@ -49,10 +52,13 @@ Bar·Old Adam（曲目） - 由 ZUN 创作的官方曲目，原名 バー・オ�
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 旧约酒馆
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-hr10_01.mp3.md" title="文件:hr10 01.mp3">hr10_01.mp3</a><br><audio src="https://upload.thwiki.cc/4/4c/hr10_01.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track01.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>3:56</td></tr></tbody></table>
+
 
 
 ### 秘封噩梦日记
@@ -65,15 +71,20 @@ Bar·Old Adam（曲目） - 由 ZUN 创作的官方曲目，原名 バー・オ�
 </td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 秘封噩梦日记
 - Music Room (未找到链接)
 
 　剧情主题曲其1。  
 　  
 　＊选自 旧约酒馆　～ Dateless Bar "Old Adam"
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
   
  **バー・オールドアダム**  Bar·Old Adam
@@ -101,6 +112,7 @@ old Adam一词是用以对应区别第二位亚当或称新亚当，即耶稣[^c
   
  *对于更多该曲考据以及附带故事相关信息，可参见旧约酒馆专辑的[附带故事](./旧约酒馆-附带故事.md)与[分析考据](./旧约酒馆-分析考据.md)页面。* 
   
+
 
 ### 二次同人数据
 

@@ -4,6 +4,7 @@
 
 东方永夜抄 | 狂气之瞳_～_Invisible_Full_Moon
 
+
 ## 文件说明
   
 狂気の瞳　～ Invisible Full Moon 东方永夜抄5面Boss鈴仙・優曇華院・イナバ的主题曲MIDI版。由Roland Sound Canvas 88Pro实机录制；MP3采样率44.1KHz，码率192Kbps。  

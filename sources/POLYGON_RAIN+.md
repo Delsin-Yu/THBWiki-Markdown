@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-POLYGON_RAIN+封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/c/c0/POLYGON_RAIN%2B%E5%B0%81%E9%9D%A2.jpg/138px-POLYGON_RAIN%2B%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="138" height="196" srcset="https://upload.thwiki.cc/thumb/c/c0/POLYGON_RAIN%2B%E5%B0%81%E9%9D%A2.jpg/207px-POLYGON_RAIN%2B%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/c/c0/POLYGON_RAIN%2B%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="270" data-file-height="384"></a><div class="cover-char">角色：<a href="./古明地觉.md" title="古明地觉">古明地觉</a>，<a href="./火焰猫燐.md" title="火焰猫燐">火焰猫燐</a></div></td>
@@ -14,9 +15,12 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://www.erimo-works.com/nicky/nicky.cgi?DT=20090307A#20090307A">http://www.erimo-works.com/nicky/nicky.cgi?DT=20090307A#20090307A</a></td></tr><tr><td class="label">备注</td><td colspan="2"><a href="./POLYGON_RAIN.md" title="POLYGON RAIN">POLYGON RAIN</a>发布纪念本</td></tr></tbody></table>
 
 POLYGON RAIN+（同人志，ERIMO，2009） - 2009年3月8日 由 ERIMO 于 博丽神社例大祭6 发布的画集同人志，B5尺寸一共12页，分级为 一般向
+
 ## 预览
+
 ## Staff
 - eri (未找到链接)
+
 
 ## 评论
 

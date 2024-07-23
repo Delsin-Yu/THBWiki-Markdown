@@ -4,6 +4,7 @@
 
 Consonances&Dissonances | 明ノ宮_飛鳥
 
+
 ## 故事背景
   
 幻想乡的夏日，今年也按时降临了。  

@@ -6,12 +6,14 @@
 
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 软件信息](#软件信息)
 - [2 Staff](#Staff)
 - [3 内容页面](#内容页面)
 - [4 评论](#评论)
+
 
 
 
@@ -45,6 +47,7 @@
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://store.steampowered.com/app/765030">Steam</a></td></tr></tbody></table>
 
 
+
 ## Staff
   
 Munchem（主创）
@@ -70,6 +73,7 @@ Guest：
 じーー
   
 
+
 ## 内容页面
 - [游戏设定与剧情](./樱雪集~Yuyuko's_Butterfly_Dream-设定与剧情.md)
 
@@ -87,6 +91,7 @@ Guest：
 ```
      游戏锐意开发中。最新消息欢迎关注微博@Munchem-慕尼。
 ```
+
 
 ## 评论
 文件:樱雪集临时封面.png (未找到链接)  樱雪集临时封面

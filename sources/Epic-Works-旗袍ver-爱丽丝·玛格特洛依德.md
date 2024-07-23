@@ -6,12 +6,14 @@
 
 本页是关于东方Project  
  **相关实体周边 (未找到链接)** 的词条
+
 ## 模型信息
 [](./文件-Epic-Works／旗袍ver／爱丽丝·玛格特洛依德封面.png.md)  [](./文件-Epic-Works／旗袍ver／爱丽丝·玛格特洛依德封面.png.md)预览图
 
 <table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 爱丽丝·玛格特洛依德 </td></tr><tr><td class="label">类别</td><td>GarageKit</td></tr><tr><td class="label">译名</td><td>东方Project 爱丽丝·玛格特洛依德</td></tr><tr><td class="label">系列</td><td>旗袍ver</td></tr><tr><td class="label">角色</td><td><a href="./爱丽丝·玛格特洛依德.md" title="爱丽丝·玛格特洛依德">爱丽丝·玛格特洛依德</a></td></tr><tr><td class="label">原画师</td><td><a href="/index.php?title=shelli&amp;action=edit&amp;redlink=1" class="new" title="shelli（页面不存在）">shelli</a></td></tr><tr><td class="label">比例</td><td>1/7</td></tr><tr><td class="label">状态</td><td>已发售</td></tr><tr><td class="label">售价</td><td>950人民币（红色版，蓝色版为960人民币）</td></tr><tr><td class="label">首发日期</td><td>2019-01</td></tr><tr><td class="label">出品方</td><td><a href="./Epic-Works.md" title="Epic-Works">Epic-Works</a></td></tr></tbody></table>
 
 Epic-Works/旗袍ver/爱丽丝·玛格特洛依德（周边，Epic-Works） - 爱丽丝·玛格特洛依德GarageKit手办模型
+
 ## 参考图片
 
 

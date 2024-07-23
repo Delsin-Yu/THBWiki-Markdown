@@ -6,17 +6,22 @@
 
 本页是关于东方Project  
  **二次同人创作者** 的词条
+
 ## 基本信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="label"><b>名称</b></td><td> Ginryu </td></tr><tr><td class="label"><b>别名</b></td><td>V.M.OG</td></tr><tr><td class="label"><b>所属社团</b></td><td><b>当前</b><div style="margin-left:2em;"><a href="./魂音泉.md" title="魂音泉">魂音泉</a></div></td></tr><tr><td class="label"><b>职位</b></td><td>编曲，演唱，作词</td></tr><tr><td class="label"><b>参与社团</b></td><td><a href="./logical_emotion.md" title="logical emotion">logical emotion</a> （演唱，作词）<br><a href="./魂音泉.md" title="魂音泉">魂音泉</a> （编曲，演唱，作词）</td></tr><tr><td class="label"><b>个人页面</b></td><td><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><b>Twitter</b></td><td><a rel="nofollow" class="external free" href="https://twitter.com/v_m_og">https://twitter.com/v_m_og</a></td></tr><tr><td><b>Email</b></td><td>ogingin_land@yahoo.co.jp</td></tr><tr><td><b>Youtube</b></td><td><a rel="nofollow" class="external free" href="https://www.youtube.com/channel/UCMi8abJhWv_kM2S-oF3ZAlQ">https://www.youtube.com/channel/UCMi8abJhWv_kM2S-oF3ZAlQ</a></td></tr></tbody></table></td></tr></tbody></table>
 
 Ginryu（人物） - 现实人物
+
 ## 介绍
+
 ## 参与作品
+
 ### 同人音乐
   
 模板:人物曲目列表 (未找到链接)
   
+
 
 ## 人际关系
 人名

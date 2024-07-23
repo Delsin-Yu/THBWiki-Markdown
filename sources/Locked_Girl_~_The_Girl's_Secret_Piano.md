@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Locked_Girl_~_The_Girl's_Secret_Piano封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/a/ae/Locked_Girl_~_The_Girl%27s_Secret_Piano%E5%B0%81%E9%9D%A2.jpg/252px-Locked_Girl_~_The_Girl%27s_Secret_Piano%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="252" srcset="https://upload.thwiki.cc/thumb/a/ae/Locked_Girl_~_The_Girl%27s_Secret_Piano%E5%B0%81%E9%9D%A2.jpg/378px-Locked_Girl_~_The_Girl%27s_Secret_Piano%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/a/ae/Locked_Girl_~_The_Girl%27s_Secret_Piano%E5%B0%81%E9%9D%A2.jpg/504px-Locked_Girl_~_The_Girl%27s_Secret_Piano%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1200" data-file-height="1200"></a></td>
@@ -18,6 +19,7 @@ Locked Girl ~ The Girl's Secret Piano（同人专辑，Misfortune Productions，
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://misfortuneproductions.bandcamp.com/track/locked-girl-the-girls-secret-piano">bandcamp</a></td></tr></tbody></table>
 
 
+
 ## Staff
   
  **Arrangement**   
@@ -28,9 +30,11 @@ Locked Girl ~ The Girl's Secret Piano（同人专辑，Misfortune Productions，
 Album Artwork
 : ハルヒ （[Nocturnal Aura](./Nocturnal_Aura.md)）
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Locked_Girl_~_The_Girl&#39;s_Secret_Piano" colspan="2" class="title">Locked Girl ~ The Girl&#39;s Secret Piano<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=KagiSame&amp;ogmusic=ラクトガール　～ 少女密室&amp;fromwiki=Locked_Girl_~_The_Girl's_Secret_Piano"><span title="搜索相似同人曲"></span></a></span></td><td class="time">01:57</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=KagiSame&amp;action=edit&amp;redlink=1" class="new" title="KagiSame（页面不存在）">KagiSame</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，KagiSame&amp;fromwiki=Locked_Girl_~_The_Girl's_Secret_Piano"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=ラクトガール　～ 少女密室&amp;fromwiki=Locked_Girl_~_The_Girl's_Secret_Piano"><span></span></a></span><div class="ogmusic"><a href="/%E3%83%A9%E3%82%AF%E3%83%88%E3%82%AC%E3%83%BC%E3%83%AB_%EF%BD%9E_%E5%B0%91%E5%A5%B3%E5%AF%86%E5%AE%A4" class="mw-redirect" title="ラクトガール ～ 少女密室">ラクトガール　～ 少女密室</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E7%BA%A2%E9%AD%94%E4%B9%A1_%EF%BD%9E_the_Embodiment_of_Scarlet_Devil." class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="Locked_Girl_~_The_Girl&#39;s_Secret_Piano" colspan="2" class="title">Locked Girl ~ The Girl&#39;s Secret Piano<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=KagiSame&amp;ogmusic=ラクトガール　～ 少女密室&amp;fromwiki=Locked_Girl_~_The_Girl's_Secret_Piano"><span title="搜索相似同人曲"></span></a></span></td><td class="time">01:57</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=KagiSame&amp;action=edit&amp;redlink=1" class="new" title="KagiSame（页面不存在）">KagiSame</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，KagiSame&amp;fromwiki=Locked_Girl_~_The_Girl's_Secret_Piano"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=ラクトガール　～ 少女密室&amp;fromwiki=Locked_Girl_~_The_Girl's_Secret_Piano"><span></span></a></span><div class="ogmusic"><a href="./ラクトガール_～_少女密室.md" class="mw-redirect" title="ラクトガール ～ 少女密室">ラクトガール　～ 少女密室</a></div><div class="source"><a href="./东方红魔乡_～_the_Embodiment_of_Scarlet_Devil..md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

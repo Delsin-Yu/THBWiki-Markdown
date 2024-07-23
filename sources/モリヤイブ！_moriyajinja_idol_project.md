@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-モリヤイブ！_moriyajinja_idol_project封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/c/c6/%E3%83%A2%E3%83%AA%E3%83%A4%E3%82%A4%E3%83%96%EF%BC%81_moriyajinja_idol_project%E5%B0%81%E9%9D%A2.jpg/120px-%E3%83%A2%E3%83%AA%E3%83%A4%E3%82%A4%E3%83%96%EF%BC%81_moriyajinja_idol_project%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="120" height="168" srcset="https://upload.thwiki.cc/thumb/c/c6/%E3%83%A2%E3%83%AA%E3%83%A4%E3%82%A4%E3%83%96%EF%BC%81_moriyajinja_idol_project%E5%B0%81%E9%9D%A2.jpg/180px-%E3%83%A2%E3%83%AA%E3%83%A4%E3%82%A4%E3%83%96%EF%BC%81_moriyajinja_idol_project%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/c/c6/%E3%83%A2%E3%83%AA%E3%83%A4%E3%82%A4%E3%83%96%EF%BC%81_moriyajinja_idol_project%E5%B0%81%E9%9D%A2.jpg/240px-%E3%83%A2%E3%83%AA%E3%83%A4%E3%82%A4%E3%83%96%EF%BC%81_moriyajinja_idol_project%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="858" data-file-height="1200"></a><div class="cover-char">角色：<a href="./东风谷早苗.md" title="东风谷早苗">东风谷早苗</a>，<a href="./洩矢诹访子.md" title="洩矢诹访子">洩矢诹访子</a>，<a href="./八坂神奈子.md" title="八坂神奈子">八坂神奈子</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/76093363">https://www.pixiv.net/artworks/76093363</a><br><a rel="nofollow" class="external free" href="https://twitter.com/aayyay_ayyay/status/1157997463124316162">https://twitter.com/aayyay_ayyay/status/1157997463124316162</a></td></tr></tbody></table>
 
 モリヤイブ！ moriyajinja idol project（同人志，彩雲グラフィティ，2019） - 2019年8月12日 由 彩雲グラフィティ 于 Comic Market 96 发布的漫画同人志，登场人物有 东风谷早苗、洩矢诹访子、八坂神奈子，分级为 一般向
+
 ## Staff
 - 東雲のめ (未找到链接)
+
 
 ## 评论
 

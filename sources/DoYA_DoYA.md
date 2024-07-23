@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-DoYA_DoYA封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/b/b0/DoYA_DoYA%E5%B0%81%E9%9D%A2.jpg/157px-DoYA_DoYA%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="157" height="224" srcset="https://upload.thwiki.cc/thumb/b/b0/DoYA_DoYA%E5%B0%81%E9%9D%A2.jpg/236px-DoYA_DoYA%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/b/b0/DoYA_DoYA%E5%B0%81%E9%9D%A2.jpg/315px-DoYA_DoYA%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="600" data-file-height="853"></a><div class="cover-char">角色：<a href="./物部布都.md" title="物部布都">物部布都</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://burst.blog.shinobi.jp/イベント情報的な。/例大祭のこととか。_198">http://burst.blog.shinobi.jp/イベント情報的な。/例大祭のこととか。_198</a></td></tr></tbody></table>
 
 DoYA DoYA（同人志，アインス，2012） - 2012年5月27日 由 アインス 于 博丽神社例大祭9 发布的绘本同人志，B5尺寸一共12页，登场人物有 物部布都，分级为 一般向
+
 ## Staff
 - [倉田友弓](./倉田友弓.md)
+
 
 ## 评论
 

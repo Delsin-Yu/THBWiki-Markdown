@@ -4,7 +4,8 @@
 
 Sounds of Liberation ，于 2007 年成立，主要制作 同人音乐 的日本同人社团，主催是 満天星躑躅，当前状态为 转入非东方
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -15,14 +16,17 @@ Sounds of Liberation ，于 2007 年成立，主要制作 同人音乐 的日本
 
 
 
+
 ## 社团信息
 [](./文件-Sounds_of_Liberation_banner.jpg.md)  [](./文件-Sounds_of_Liberation_banner.jpg.md)Banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Sounds of Liberation </td></tr><tr><td><b>中文名称</b></td><td>解放之声</td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2007</td></tr><tr><td><b>当前状态</b></td><td>转入非东方</td></tr><tr><td><b>主催</b></td><td> <a href="./ドウダンツツジ.md" title="ドウダンツツジ" unred="">満天星躑躅</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://www.s-liberation.net/">http://www.s-liberation.net/</a> </td></tr></tbody></table>
 
 Sounds of Liberation（同人社团，同人音乐社团） - Sounds of Liberation ，于 2007 年成立，主要制作 同人音乐 的日本同人社团，主催是 満天星躑躅，当前状态为 转入非东方
+
 ## 成员名单
 - [満天星躑躅](./ドウダンツツジ.md)
+
 
 ## 作品列表
 [](./遊星幻想曲集.md)[遊星幻想曲集](./遊星幻想曲集.md)首发日期：2007-10-08 （M3-2007秋 (未找到链接)）SLCD-0001全长 （一般向）[](./百万鬼騒宴.md)[百万鬼騒宴](./百万鬼騒宴.md)首发日期：2007-12-31 （Comic Market 73 (未找到链接)）SLCD-0002全长 （一般向）[](./紅白矩形樂.md)[紅白矩形樂](./紅白矩形樂.md)首发日期：2008-05-11 （M3-2008春 (未找到链接)）SLCD-0003全长 （一般向）[](./夕陰魔道逸書.md)[夕陰魔道逸書](./夕陰魔道逸書.md)首发日期：2008-08-16 （Comic Market 74 (未找到链接)）SLCD-0004全长 （一般向）[](./夕陰魔道逸書_古書DISC.md)[夕陰魔道逸書 古書DISC](./夕陰魔道逸書_古書DISC.md)首发日期：2008-08-16 （Comic Market 74 (未找到链接)）混音集 （一般向）[](./レトロスペクティブ遊戯箱.md)[レトロスペクティブ遊戯箱](./レトロスペクティブ遊戯箱.md)首发日期：2008-11-02 （東方紅楼夢4 (未找到链接)）SLCD-0005全长 （一般向）[](./梦現怪異譚.md)[梦現怪異譚](./梦現怪異譚.md)首发日期：2008-12-29 （Comic Market 75 (未找到链接)）SLCD-0006全长 （一般向）[](./客星狂想曲集_Preview.md)[客星狂想曲集 Preview](./客星狂想曲集_Preview.md)首发日期：2009-03-08 （第六回 博麗神社例大祭 (未找到链接)）Demo （一般向）本专辑为[客星狂想曲集](./客星狂想曲集.md)的预览CD[](./客星狂想曲集.md)[客星狂想曲集](./客星狂想曲集.md)首发日期：2009-08-15 （Comic Market 76 (未找到链接)）SLCD-0007全长 （一般向）[](./Monochrome_Anachronism.md)[Monochrome Anachronism](./Monochrome_Anachronism.md)首发日期：2009-10-11 （東方紅楼夢5 (未找到链接)）SLCD-0008全长 （一般向）[](./綺想曲拾遺.md)[綺想曲拾遺](./綺想曲拾遺.md)首发日期：2009-12-30 （Comic Market 77 (未找到链接)）SLCD-0009全长 （一般向）[](./違式幻双譚.md)[違式幻双譚](./違式幻双譚.md)首发日期：2010-10-11 （東方紅楼夢6 (未找到链接)）SLCD-0010全长 （一般向）[](./異聞幻双譚.md)[異聞幻双譚](./異聞幻双譚.md)首发日期：2010-12-30 （Comic Market 79 (未找到链接)）SLCD-0012全长 （一般向）
@@ -52,6 +56,7 @@ Sounds of Liberation（同人社团，同人音乐社团） - Sounds of Liberati
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 其他信息

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-My_Nazrin2封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/4/46/My_Nazrin2%E5%B0%81%E9%9D%A2.jpg/140px-My_Nazrin2%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="140" height="196" srcset="https://upload.thwiki.cc/thumb/4/46/My_Nazrin2%E5%B0%81%E9%9D%A2.jpg/210px-My_Nazrin2%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/4/46/My_Nazrin2%E5%B0%81%E9%9D%A2.jpg/280px-My_Nazrin2%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="648" data-file-height="906"></a><div class="cover-char">角色：<a href="./娜兹玲.md" title="娜兹玲">娜兹玲</a></div></td>
@@ -14,9 +15,12 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/66508340">https://www.pixiv.net/artworks/66508340</a><br><a rel="nofollow" class="external free" href="https://twitter.com/iris_anemone/status/946193241136775168">https://twitter.com/iris_anemone/status/946193241136775168</a></td></tr></tbody></table>
 
 My Nazrin2（同人志，またたびガーデン，2017） - 2017年12月29日 由 またたびガーデン 于 Comic Market 93 发布的画集同人志，一共12页，登场人物有 娜兹玲，分级为 一般向
+
 ## 预览
+
 ## Staff
 - あいりす（人物） (未找到链接)
+
 
 ## 评论
 

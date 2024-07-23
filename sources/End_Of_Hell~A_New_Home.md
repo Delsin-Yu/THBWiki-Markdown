@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-End_Of_Hell~A_New_Home封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/3/3c/End_Of_Hell~A_New_Home%E5%B0%81%E9%9D%A2.jpg/224px-End_Of_Hell~A_New_Home%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="224" srcset="https://upload.thwiki.cc/thumb/3/3c/End_Of_Hell~A_New_Home%E5%B0%81%E9%9D%A2.jpg/336px-End_Of_Hell~A_New_Home%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/3/3c/End_Of_Hell~A_New_Home%E5%B0%81%E9%9D%A2.jpg/448px-End_Of_Hell~A_New_Home%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="3000" data-file-height="3000"></a><div class="cover-char">角色：<a href="./圣白莲.md" title="圣白莲">圣白莲</a>，<a href="/index.php?title=%E5%8E%9F%E5%88%9B%E8%A7%92%E8%89%B2&amp;action=edit&amp;redlink=1" class="new" title="原创角色（页面不存在）">原创角色</a></div></td>
@@ -18,11 +19,13 @@ End Of Hell~A New Home（同人专辑，Border Of Nightmares，2018） - 2018年
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://borderofnightmares.bandcamp.com/album/end-of-hell-a-new-home">bandcamp</a></td></tr></tbody></table>
 
 
+
 ## Staff
   
  **Compose**   
 
 <table><tbody><tr><td><a href="/index.php?title=LeiYunWolfy&amp;action=edit&amp;redlink=1" class="new" title="LeiYunWolfy（页面不存在）">LeiYunWolfy</a></td><td></td><td>Tr.1-12</td></tr></tbody></table>
+
 
 
 ## 试听
@@ -35,6 +38,7 @@ End Of Hell~A New Home（同人专辑，Border Of Nightmares，2018） - 2018年
 <tr>
 <td><iframe width="560" height="315" src="//www.youtube-nocookie.com/embed/oeDfoF-2HLU?" frameborder="0" allowfullscreen=""></iframe>
 </td></tr></tbody></table>
+
 
 
 ## 曲目列表
@@ -51,6 +55,7 @@ End Of Hell~A New Home（同人专辑，Border Of Nightmares，2018） - 2018年
 <tr><td id="10" class="infoYL"><b>10</b></td><td id="Border_Of_Eternity" colspan="2" class="title">Border Of Eternity<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=LeiYunWolfy&amp;fromwiki=End_Of_Hell~A_New_Home"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:49</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=LeiYunWolfy&amp;action=edit&amp;redlink=1" class="new" title="LeiYunWolfy（页面不存在）">LeiYunWolfy</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，LeiYunWolfy&amp;fromwiki=End_Of_Hell~A_New_Home"><span></span></a></span></td></tr>
 <tr><td id="11" class="infoYL"><b>11</b></td><td id="Keep_The_Hope_Alive" colspan="2" class="title">Keep The Hope Alive<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=LeiYunWolfy&amp;fromwiki=End_Of_Hell~A_New_Home"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:27</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=LeiYunWolfy&amp;action=edit&amp;redlink=1" class="new" title="LeiYunWolfy（页面不存在）">LeiYunWolfy</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，LeiYunWolfy&amp;fromwiki=End_Of_Hell~A_New_Home"><span></span></a></span></td></tr>
 <tr><td id="12" class="infoYL"><b>12</b></td><td id="Dharma_&amp;_Tao~A_Battle_For_Knowledge" colspan="2" class="title">Dharma &#38; Tao~A Battle For Knowledge<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=LeiYunWolfy&amp;fromwiki=End_Of_Hell~A_New_Home"><span title="搜索相似同人曲"></span></a></span></td><td class="time">07:31</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=LeiYunWolfy&amp;action=edit&amp;redlink=1" class="new" title="LeiYunWolfy（页面不存在）">LeiYunWolfy</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，LeiYunWolfy&amp;fromwiki=End_Of_Hell~A_New_Home"><span></span></a></span></td></tr></tbody></table>
+
 
 
 ## 评论

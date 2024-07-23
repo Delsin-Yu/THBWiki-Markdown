@@ -6,15 +6,19 @@
 
 本页是关于东方Project  
  **二次同人创作者** 的词条
+
 ## 基本信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="label"><b>名称</b></td><td> kapokunc </td></tr><tr><td class="label"><b>别名</b></td><td>塔子</td></tr><tr><td class="label"><b>所属社团</b></td><td><b>当前</b><div style="margin-left:2em;"><a href="./幻想乡键盘规划院.md" title="幻想乡键盘规划院">幻想乡键盘规划院</a></div></td></tr><tr><td class="label"><b>职位</b></td><td>主催、文案及资料收集、部分负责照相取材</td></tr><tr><td class="label"><b>生日</b></td><td>2000.9.9</td></tr><tr><td class="label"><b>个人页面</b></td><td><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><b>bilibili</b></td><td><a rel="nofollow" class="external free" href="https://space.bilibili.com/39188378">https://space.bilibili.com/39188378</a></td></tr></tbody></table></td></tr></tbody></table>
 
 kapokunc（人物） - 现实人物
+
 ## 介绍
 - [幻想乡键盘规划院](./幻想乡键盘规划院.md)的主催。
 
+
 ## 参与作品
+
 ### 同人画集
 - [东方游车映写 ～ Herz in Canton](./东方游车映写_～_Herz_in_Canton.md)
 - [东方游车映写 ～ Flying Heart Way](./东方游车映写_～_Flying_Heart_Way.md)
@@ -22,6 +26,7 @@ kapokunc（人物） - 现实人物
 - [东方游车映写 ～ 优昙昙华](./东方游车映写_～_优昙昙华.md)
 - [东方游车映写 ～ 幽玄银杏](./东方游车映写_～_幽玄银杏.md)
 - [东方游车映写 ～ 槿绣桂野](./东方游车映写_～_槿绣桂野.md)
+
 
 ## 人际关系
 人名

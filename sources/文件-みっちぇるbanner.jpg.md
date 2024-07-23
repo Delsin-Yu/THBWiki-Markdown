@@ -4,6 +4,7 @@
 
 みっちぇる | 社团LOGO
 
+
 ## 摘要
   
 源地址：[direct image link](https://web.archive.org/web/20061030112844im_/http://www18.ocn.ne.jp/~mitchell/images/bana.jpg), [source page](https://web.archive.org/web/20071116035334/http://www18.ocn.ne.jp/~mitchell/about.html)

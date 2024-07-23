@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Reminiscence_e.p.封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/4/4c/Reminiscence_e.p.%E5%B0%81%E9%9D%A2.jpg/252px-Reminiscence_e.p.%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="249" srcset="https://upload.thwiki.cc/thumb/4/4c/Reminiscence_e.p.%E5%B0%81%E9%9D%A2.jpg/378px-Reminiscence_e.p.%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/4/4c/Reminiscence_e.p.%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="500" data-file-height="494"></a><div class="cover-char">角色：<a href="./橙.md" title="橙">橙</a></div></td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://furtheraheadofwarp.com/old/reminiscence.html">http://furtheraheadofwarp.com/old/reminiscence.html</a></td></tr></tbody></table>
 
 reminiscence e.p.（同人专辑，Further Ahead Of Warp，2013） - 2013年8月12日 由 Further Ahead Of Warp 于 Comic Market 84 发布的EP同人专辑，曲目主要风格是 硬核，分级为 一般向
+
 ## Staff
   
  **Compose**   
@@ -39,6 +41,7 @@ reminiscence e.p.（同人专辑，Further Ahead Of Warp，2013） - 2013年8月
 Illustration
 : 九条ナツメ（[pu:459874](https://www.pixiv.net/users/459874))
 
+
 ## 试听
   
 XFD试听   
@@ -48,10 +51,12 @@ XFD试听
 
   
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoRD"><b>01</b></td><td id="I&#39;ll_Never_Forget" colspan="2" class="title"><span class="new" title="（歌词页面不存在）"><a href="/index.php?title=%E6%AD%8C%E8%AF%8D:I%27ll_Never_Forget&amp;boilerplate=模板:页面模板/曲目歌词&amp;action=edit">I&#39;ll Never Forget</a></span><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=縫糸&amp;vocal=きょーこ，縫糸&amp;lyric=縫糸&amp;ogmusic=ティアオイエツォン(withered leaf)&amp;fromwiki=reminiscence_e.p."><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:55</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./縫糸.md" title="縫糸">縫糸</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，縫糸&amp;fromwiki=reminiscence_e.p."><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="/index.php?title=%E3%81%8D%E3%82%87%E3%83%BC%E3%81%93&amp;action=edit&amp;redlink=1" class="new" title="きょーこ（页面不存在）">きょーこ</a>，<a href="./縫糸.md" title="縫糸">縫糸</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=きょーこ，縫糸&amp;fromwiki=reminiscence_e.p."><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="./縫糸.md" title="縫糸">縫糸</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?lyric=縫糸&amp;fromwiki=reminiscence_e.p."><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=ティアオイエツォン(withered leaf)&amp;fromwiki=reminiscence_e.p."><span></span></a></span><div class="ogmusic"><a href="/%E3%83%86%E3%82%A3%E3%82%A2%E3%82%AA%E3%82%A4%E3%82%A8%E3%83%84%E3%82%A9%E3%83%B3(withered_leaf)" class="mw-redirect" title="ティアオイエツォン(withered leaf)">ティアオイエツォン(withered leaf)</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E5%A6%96%E5%A6%96%E6%A2%A6_%EF%BD%9E_Perfect_Cherry_Blossom." class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr>
+<table><tbody><tr><td id="1" class="infoRD"><b>01</b></td><td id="I&#39;ll_Never_Forget" colspan="2" class="title"><span class="new" title="（歌词页面不存在）"><a href="/index.php?title=%E6%AD%8C%E8%AF%8D:I%27ll_Never_Forget&amp;boilerplate=模板:页面模板/曲目歌词&amp;action=edit">I&#39;ll Never Forget</a></span><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=縫糸&amp;vocal=きょーこ，縫糸&amp;lyric=縫糸&amp;ogmusic=ティアオイエツォン(withered leaf)&amp;fromwiki=reminiscence_e.p."><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:55</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./縫糸.md" title="縫糸">縫糸</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，縫糸&amp;fromwiki=reminiscence_e.p."><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="/index.php?title=%E3%81%8D%E3%82%87%E3%83%BC%E3%81%93&amp;action=edit&amp;redlink=1" class="new" title="きょーこ（页面不存在）">きょーこ</a>，<a href="./縫糸.md" title="縫糸">縫糸</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=きょーこ，縫糸&amp;fromwiki=reminiscence_e.p."><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="./縫糸.md" title="縫糸">縫糸</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?lyric=縫糸&amp;fromwiki=reminiscence_e.p."><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=ティアオイエツォン(withered leaf)&amp;fromwiki=reminiscence_e.p."><span></span></a></span><div class="ogmusic"><a href="./ティアオイエツォン(withered_leaf).md" class="mw-redirect" title="ティアオイエツォン(withered leaf)">ティアオイエツォン(withered leaf)</a></div><div class="source"><a href="./东方妖妖梦_～_Perfect_Cherry_Blossom..md" class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr>
 <tr><td id="2" class="infoRL"><b>02</b></td><td id="Your_Lie,_Your_Crime,_Your_Name" colspan="2" class="title">Your Lie, Your Crime, Your Name<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=縫糸&amp;vocal=きょーこ，縫糸&amp;lyric=縫糸&amp;fromwiki=reminiscence_e.p."><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:11</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./縫糸.md" title="縫糸">縫糸</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，縫糸&amp;fromwiki=reminiscence_e.p."><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="/index.php?title=%E3%81%8D%E3%82%87%E3%83%BC%E3%81%93&amp;action=edit&amp;redlink=1" class="new" title="きょーこ（页面不存在）">きょーこ</a>，<a href="./縫糸.md" title="縫糸">縫糸</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=きょーこ，縫糸&amp;fromwiki=reminiscence_e.p."><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="./縫糸.md" title="縫糸">縫糸</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?lyric=縫糸&amp;fromwiki=reminiscence_e.p."><span></span></a></span></td></tr></tbody></table>
+
 
 
 ## 评论

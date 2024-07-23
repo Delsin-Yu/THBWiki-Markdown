@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次同人创作者** 的词条
+
 ## 基本信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="label"><b>名称</b></td><td> Blue E </td></tr><tr><td class="label"><b>所属社团</b></td><td><b>当前</b><div style="margin-left:2em;"><a href="./SOUND_HOLIC.md" title="SOUND HOLIC">SOUND HOLIC</a></div></td></tr><tr><td class="label"><b>职位</b></td><td>作词</td></tr><tr><td class="label"><b>参与社团</b></td><td><a href="./Eurobeat_Union.md" title="Eurobeat Union">Eurobeat Union</a> （作词）<br><a href="./SOUND_HOLIC.md" title="SOUND HOLIC">SOUND HOLIC</a> （作词）<br><a href="./SPACELECTRO.md" title="SPACELECTRO">SPACELECTRO</a> （作词）<br><a href="./SWING_HOLIC.md" title="SWING HOLIC">SWING HOLIC</a> （作词）<br><a href="./虎之穴.md" title="虎之穴">虎之穴</a> （作词）</td></tr></tbody></table>

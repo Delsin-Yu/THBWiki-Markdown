@@ -4,6 +4,7 @@
 
 夢幻藝術幻想団 | 社团LOGO
 
+
 ## 摘要
   
 源地址：[direct image link](https://blog-imgs-49-origin.fc2.com/m/u/g/mugenhome/20110729180127daa.jpg), [source page](http://mugenhome.blog.fc2.com/)

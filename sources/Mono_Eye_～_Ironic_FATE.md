@@ -6,6 +6,7 @@ JynX作曲 | Mono_Eye_～_Ironic_FATE | 引用了翻译表的页面 | 连缘Proj
 
 本页是关于 **向[东方Project](./东方Project.md)  
 致敬、形式类似的作品** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -28,6 +29,7 @@ JynX作曲 | Mono_Eye_～_Ironic_FATE | 引用了翻译表的页面 | 连缘Proj
 
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
+
 
 
 
@@ -59,6 +61,7 @@ JynX作曲 | Mono_Eye_～_Ironic_FATE | 引用了翻译表的页面 | 连缘Proj
 </td></tr></tbody></table>
 
 
+
 ## 出现作品
 
 <table>
@@ -68,10 +71,13 @@ JynX作曲 | Mono_Eye_～_Ironic_FATE | 引用了翻译表的页面 | 连缘Proj
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 连缘蛇丛剑
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>MIDI格式</b></td><td>无播放信息</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-le02_16.mp3.md" title="文件:le02 16.mp3">le02_16.mp3</a><br><audio src="https://upload.thwiki.cc/c/c0/le02_16.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>未填写</td></tr></tbody></table>
+
 
 
 ### 连缘天影战记
@@ -79,7 +85,9 @@ JynX作曲 | Mono_Eye_～_Ironic_FATE | 引用了翻译表的页面 | 连缘Proj
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>MIDI格式</b></td><td>无播放信息</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-le04_BOSS_Saragimaru.mp3.md" title="文件:le04 BOSS Saragimaru.mp3">le04_BOSS_Saragimaru.mp3</a><br><audio src="https://upload.thwiki.cc/5/5e/le04_BOSS_Saragimaru.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>未填写</td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 连缘蛇丛剑
 - Music Room (未找到链接)
 
@@ -97,6 +105,7 @@ EX头目 徒云蛇穴丸的主题曲。
   
 自相矛盾地生存着的人，不可能没有两面性。  
 全是八嘎的故事中，正常人华丽地登场！
+
 ### 连缘天影战记
 - Music Room (未找到链接)
 
@@ -109,8 +118,11 @@ EX头目 徒云蛇穴丸的主题曲。
 但从实力上来算可能差不多？  
   
 因为原来的曲子很长，花了一番功夫去缩短
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
 - モノアイ
   - Mono Eye

@@ -4,6 +4,7 @@
 
 Consonances&Dissonances | 明ノ宮_飛鳥
 
+
 ## EXTRA 故事背景（灵梦线）
   
 异变过后，第二天的深夜。  
@@ -37,6 +38,7 @@ Consonances&Dissonances | 明ノ宮_飛鳥
 就这样，灵梦虽然不情愿，却还是再一次动身前往那片原野……  
 
   
+
 
 ## EXTRA 故事背景（魔理沙线）
   
@@ -83,6 +85,7 @@ Consonances&Dissonances | 明ノ宮_飛鳥
 就这样，魔理沙虽然有点贪心，但还是抱着斗志，再一次踏上了去往莳梦原的路。  
 
   
+
 
 ## EXTRA 故事背景（清姬线）
   

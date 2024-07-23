@@ -4,6 +4,7 @@
 
 N.B.W | 社团LOGO
 
+
 ## 摘要
   
 源地址：[direct image link (original size)](http://n-b-w.tokyo/wp-content/uploads/2020/04/サークルロゴ.jpg), [source page](http://n-b-w.tokyo/2020/04/14/about/)

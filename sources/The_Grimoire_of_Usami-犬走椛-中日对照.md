@@ -12,7 +12,7 @@ The_Grimoire_of_Usami | 使用了翻译表的页面 | 宇佐见的魔法书 | �
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./The_Grimoire_of_Usami-二岩猯藏2-中日对照.md" title="The Grimoire of Usami/二岩猯藏2/中日对照">二岩猯藏2</a>&#160;
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="/%E5%AE%87%E4%BD%90%E8%A7%81%E7%9A%84%E9%AD%94%E6%B3%95%E4%B9%A6" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a>&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="./宇佐见的魔法书.md" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a>&#160;
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">&#160;<a href="./The_Grimoire_of_Usami-火焰猫燐-中日对照.md" title="The Grimoire of Usami/火焰猫燐/中日对照">火焰猫燐</a>
 </td>
@@ -25,7 +25,7 @@ The_Grimoire_of_Usami | 使用了翻译表的页面 | 宇佐见的魔法书 | �
 - 翻译：Keroism
 
 
-<table><tbody><tr class="tt-content-header" id="=-1" data-pos="&#91;&quot;=&quot;,1&#93;"><td class="tt-jah" lang="ja"><div class="poem">牙符「咀嚼玩味」</div></td><td class="tt-zhh" lang="zh"><div class="poem"><a href="/%E7%89%99%E7%AC%A6%E3%80%8C%E5%92%80%E5%9A%BC%E7%8E%A9%E5%91%B3%E3%80%8D" class="mw-redirect" title="牙符「咀嚼玩味」">牙符「咀嚼玩味」</a></div></td></tr><tr class="tt-content" id="=-2" data-pos="&#91;&quot;=&quot;,2&#93;"><td class="tt-ja" lang="ja"><div class="poem">使用者：犬走椛</div></td><td class="tt-zh" lang="zh"><div class="poem">使用者：<a href="./犬走椛.md" title="犬走椛">犬走椛</a></div></td></tr><tr class="tt-content" id="=-3" data-pos="&#91;&quot;=&quot;,3&#93;"><td class="tt-ja" lang="ja"><div class="poem">獣が大量に駆け巡ったかと思ったら、<br>全部弾に変化しちゃったよ。<br>そんな貧弱じゃあ獣の沽券に関わるよ。<br><big>見せてやるよ、<br>本物の獣を！</big></div></td><td class="tt-zh" lang="zh"><div class="poem">本以为出现了大量的野兽四处奔腾，<br>结果原来全都是子弹变的啊。<br>这么弱小的话可有损兽类的形象啊。<br><big>就让你们看看吧，<br>什么才是真正的兽类！</big></div></td></tr><tr class="tt-header" id="=-4" data-pos="&#91;&quot;=&quot;,4&#93;"><td colspan="2" id="鬼人正邪" class="tt-header" lang="zh"><div class="poem">鬼人正邪</div></td></tr><tr class="tt-content" id="=-5" data-pos="&#91;&quot;=&quot;,5&#93;"><td class="tt-ja" lang="ja"><div class="poem">そうそう、獣は豪快に食らい付くくらいじゃないとな！</div></td><td class="tt-zh" lang="zh"><div class="poem">没错没错，兽类就得爽快地咬上去才行啊！</div></td></tr><tr class="tt-header" id="=-6" data-pos="&#91;&quot;=&quot;,6&#93;"><td colspan="2" id="八云紫" class="tt-header" lang="zh"><div class="poem">八云紫</div></td></tr><tr class="tt-content" id="=-7" data-pos="&#91;&quot;=&quot;,7&#93;"><td class="tt-ja" lang="ja"><div class="poem">あら、使役者と観客とは別の世界の観測者に噛みついたのね。妖怪らしい表現だわ。</div></td><td class="tt-zh" lang="zh"><div class="poem">哎呀，原来是咬向了与使用者和观众处于不同世界的观测者啊。还真是有妖怪特色的表现方法。</div></td></tr><tr class="tt-header" id="=-8" data-pos="&#91;&quot;=&quot;,8&#93;"><td colspan="2" id="宇佐见堇子" class="tt-header" lang="zh"><div class="poem">宇佐见堇子</div></td></tr><tr class="tt-content" id="=-9" data-pos="&#91;&quot;=&quot;,9&#93;"><td class="tt-ja" lang="ja"><div class="poem">よく判らないんだけど、画面が噛みつかれたってこと？　みんなにはここにゲーム画面か何かが見えてるの？</div></td><td class="tt-zh" lang="zh"><div class="poem">我搞不太懂，不过也就是说画面被咬住了？在大家眼里这里看起来就和游戏画面之类的差不多吗？</div></td></tr></tbody></table>
+<table><tbody><tr class="tt-content-header" id="=-1" data-pos="&#91;&quot;=&quot;,1&#93;"><td class="tt-jah" lang="ja"><div class="poem">牙符「咀嚼玩味」</div></td><td class="tt-zhh" lang="zh"><div class="poem"><a href="./牙符「咀嚼玩味」.md" class="mw-redirect" title="牙符「咀嚼玩味」">牙符「咀嚼玩味」</a></div></td></tr><tr class="tt-content" id="=-2" data-pos="&#91;&quot;=&quot;,2&#93;"><td class="tt-ja" lang="ja"><div class="poem">使用者：犬走椛</div></td><td class="tt-zh" lang="zh"><div class="poem">使用者：<a href="./犬走椛.md" title="犬走椛">犬走椛</a></div></td></tr><tr class="tt-content" id="=-3" data-pos="&#91;&quot;=&quot;,3&#93;"><td class="tt-ja" lang="ja"><div class="poem">獣が大量に駆け巡ったかと思ったら、<br>全部弾に変化しちゃったよ。<br>そんな貧弱じゃあ獣の沽券に関わるよ。<br><big>見せてやるよ、<br>本物の獣を！</big></div></td><td class="tt-zh" lang="zh"><div class="poem">本以为出现了大量的野兽四处奔腾，<br>结果原来全都是子弹变的啊。<br>这么弱小的话可有损兽类的形象啊。<br><big>就让你们看看吧，<br>什么才是真正的兽类！</big></div></td></tr><tr class="tt-header" id="=-4" data-pos="&#91;&quot;=&quot;,4&#93;"><td colspan="2" id="鬼人正邪" class="tt-header" lang="zh"><div class="poem">鬼人正邪</div></td></tr><tr class="tt-content" id="=-5" data-pos="&#91;&quot;=&quot;,5&#93;"><td class="tt-ja" lang="ja"><div class="poem">そうそう、獣は豪快に食らい付くくらいじゃないとな！</div></td><td class="tt-zh" lang="zh"><div class="poem">没错没错，兽类就得爽快地咬上去才行啊！</div></td></tr><tr class="tt-header" id="=-6" data-pos="&#91;&quot;=&quot;,6&#93;"><td colspan="2" id="八云紫" class="tt-header" lang="zh"><div class="poem">八云紫</div></td></tr><tr class="tt-content" id="=-7" data-pos="&#91;&quot;=&quot;,7&#93;"><td class="tt-ja" lang="ja"><div class="poem">あら、使役者と観客とは別の世界の観測者に噛みついたのね。妖怪らしい表現だわ。</div></td><td class="tt-zh" lang="zh"><div class="poem">哎呀，原来是咬向了与使用者和观众处于不同世界的观测者啊。还真是有妖怪特色的表现方法。</div></td></tr><tr class="tt-header" id="=-8" data-pos="&#91;&quot;=&quot;,8&#93;"><td colspan="2" id="宇佐见堇子" class="tt-header" lang="zh"><div class="poem">宇佐见堇子</div></td></tr><tr class="tt-content" id="=-9" data-pos="&#91;&quot;=&quot;,9&#93;"><td class="tt-ja" lang="ja"><div class="poem">よく判らないんだけど、画面が噛みつかれたってこと？　みんなにはここにゲーム画面か何かが見えてるの？</div></td><td class="tt-zh" lang="zh"><div class="poem">我搞不太懂，不过也就是说画面被咬住了？在大家眼里这里看起来就和游戏画面之类的差不多吗？</div></td></tr></tbody></table>
 
 
 <center>
@@ -36,7 +36,7 @@ The_Grimoire_of_Usami | 使用了翻译表的页面 | 宇佐见的魔法书 | �
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./The_Grimoire_of_Usami-二岩猯藏2-中日对照.md" title="The Grimoire of Usami/二岩猯藏2/中日对照">二岩猯藏2</a>&#160;
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="/%E5%AE%87%E4%BD%90%E8%A7%81%E7%9A%84%E9%AD%94%E6%B3%95%E4%B9%A6" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a>&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="./宇佐见的魔法书.md" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a>&#160;
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">&#160;<a href="./The_Grimoire_of_Usami-火焰猫燐-中日对照.md" title="The Grimoire of Usami/火焰猫燐/中日对照">火焰猫燐</a>
 </td>
@@ -45,6 +45,7 @@ The_Grimoire_of_Usami | 使用了翻译表的页面 | 宇佐见的魔法书 | �
 
   
 </center>
+
 
 ## 词条导航
   

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="/%E6%96%87%E4%BB%B6:%E8%8F%AF%E6%89%87%E3%81%A1%E3%82%83%E3%82%93%E3%81%AB%E8%87%AA%E6%85%A2%E3%81%AE%E3%83%9A%E3%83%83%E3%83%88%E3%82%92NTR%E3%82%8C%E3%81%A6%E6%B6%99%E7%9B%AE%E3%81%95%E3%81%A8%E3%82%8A%E3%82%93%E3%83%97%E3%83%81%E5%90%88%E5%90%8C%E5%B0%81%E9%9D%A2.jpg" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/a/a1/%E8%8F%AF%E6%89%87%E3%81%A1%E3%82%83%E3%82%93%E3%81%AB%E8%87%AA%E6%85%A2%E3%81%AE%E3%83%9A%E3%83%83%E3%83%88%E3%82%92NTR%E3%82%8C%E3%81%A6%E6%B6%99%E7%9B%AE%E3%81%95%E3%81%A8%E3%82%8A%E3%82%93%E3%83%97%E3%83%81%E5%90%88%E5%90%8C%E5%B0%81%E9%9D%A2.jpg/160px-%E8%8F%AF%E6%89%87%E3%81%A1%E3%82%83%E3%82%93%E3%81%AB%E8%87%AA%E6%85%A2%E3%81%AE%E3%83%9A%E3%83%83%E3%83%88%E3%82%92NTR%E3%82%8C%E3%81%A6%E6%B6%99%E7%9B%AE%E3%81%95%E3%81%A8%E3%82%8A%E3%82%93%E3%83%97%E3%83%81%E5%90%88%E5%90%8C%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="160" height="224" srcset="https://upload.thwiki.cc/thumb/a/a1/%E8%8F%AF%E6%89%87%E3%81%A1%E3%82%83%E3%82%93%E3%81%AB%E8%87%AA%E6%85%A2%E3%81%AE%E3%83%9A%E3%83%83%E3%83%88%E3%82%92NTR%E3%82%8C%E3%81%A6%E6%B6%99%E7%9B%AE%E3%81%95%E3%81%A8%E3%82%8A%E3%82%93%E3%83%97%E3%83%81%E5%90%88%E5%90%8C%E5%B0%81%E9%9D%A2.jpg/240px-%E8%8F%AF%E6%89%87%E3%81%A1%E3%82%83%E3%82%93%E3%81%AB%E8%87%AA%E6%85%A2%E3%81%AE%E3%83%9A%E3%83%83%E3%83%88%E3%82%92NTR%E3%82%8C%E3%81%A6%E6%B6%99%E7%9B%AE%E3%81%95%E3%81%A8%E3%82%8A%E3%82%93%E3%83%97%E3%83%81%E5%90%88%E5%90%8C%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/a/a1/%E8%8F%AF%E6%89%87%E3%81%A1%E3%82%83%E3%82%93%E3%81%AB%E8%87%AA%E6%85%A2%E3%81%AE%E3%83%9A%E3%83%83%E3%83%88%E3%82%92NTR%E3%82%8C%E3%81%A6%E6%B6%99%E7%9B%AE%E3%81%95%E3%81%A8%E3%82%8A%E3%82%93%E3%83%97%E3%83%81%E5%90%88%E5%90%8C%E5%B0%81%E9%9D%A2.jpg/320px-%E8%8F%AF%E6%89%87%E3%81%A1%E3%82%83%E3%82%93%E3%81%AB%E8%87%AA%E6%85%A2%E3%81%AE%E3%83%9A%E3%83%83%E3%83%88%E3%82%92NTR%E3%82%8C%E3%81%A6%E6%B6%99%E7%9B%AE%E3%81%95%E3%81%A8%E3%82%8A%E3%82%93%E3%83%97%E3%83%81%E5%90%88%E5%90%8C%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="572" data-file-height="800"></a><div class="cover-char">角色：<a href="./古明地觉.md" title="古明地觉">古明地觉</a></div></td>
@@ -14,7 +15,9 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/28987036">https://www.pixiv.net/artworks/28987036</a></td></tr></tbody></table>
 
 華扇ちゃんに自慢のペットをNTRれて涙目さとりんプチ合同（同人志，安達貴族，2012） - 2012年8月11日 由 安達貴族 于 Comic Market 82 发布的漫画/合同志同人志，B5尺寸一共44页，登场人物有 古明地觉、古明地恋、茨木华扇、火焰猫燐、灵乌路空，分级为 一般向
+
 ## 预览
+
 ## Staff
 - 安達貴族（人物） (未找到链接)
 - ゆぬきうた (未找到链接)
@@ -36,6 +39,7 @@
 - [GEN（人物）](./GEN（人物）.md)
 - クロツク (未找到链接)
 - 股漏 (未找到链接)
+
 
 ## 评论
 

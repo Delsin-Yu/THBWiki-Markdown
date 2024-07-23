@@ -4,7 +4,8 @@
 
 DESTRUCTIVE ANGEL ，于 2009 年成立，主要制作 同人音乐 的日本同人社团，主催是 神斬ゼロ式，曾以 [[ っ´Д`)っゼロ式の家]] 名义活动，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -15,14 +16,17 @@ DESTRUCTIVE ANGEL ，于 2009 年成立，主要制作 同人音乐 的日本同
 
 
 
+
 ## 社团信息
 文件:DESTRUCTIVE ANGELbanner.jpg (未找到链接)  banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> DESTRUCTIVE ANGEL </td></tr><tr><td><b>曾用名称</b></td><td> <a href="./っ´Д`)っゼロ式の家.md" title="っ´Д`)っゼロ式の家">っ´Д`)っゼロ式の家</a> </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2009</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="./神斬ゼロ式.md" title="神斬ゼロ式">神斬ゼロ式</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://destructiveangel.dou-jin.com/">http://destructiveangel.dou-jin.com/</a> </td></tr></tbody></table>
 
 DESTRUCTIVE ANGEL（同人社团，同人音乐社团） - DESTRUCTIVE ANGEL ，于 2009 年成立，主要制作 同人音乐 的日本同人社团，主催是 神斬ゼロ式，曾以 [っ´Д`)っゼロ式の家](./っ´Д`)っゼロ式の家.md) 名义活动，当前状态为 活动
+
 ## 成员名单
 - [神斬ゼロ式](./神斬ゼロ式.md)
+
 
 ## 作品列表
 [](./Extreme_Genocide_Force.md)[Extreme Genocide Force](./Extreme_Genocide_Force.md)首发日期：2009-12-30 （Comic Market 77 (未找到链接)）DAAT-0001全长 （一般向）[](./幻想郷が俺にもっと輝けと囁いている.md)[幻想郷が俺にもっと輝けと囁いている](./幻想郷が俺にもっと輝けと囁いている.md)首发日期：2010-03-14 （第七回 博麗神社例大祭 (未找到链接)）DAAT-0002全长 （一般向）[](./幻想郷が俺にもっと輝けと囁いている_Remake2.md)[幻想郷が俺にもっと輝けと囁いている Remake2](./幻想郷が俺にもっと輝けと囁いている_Remake2.md)首发日期：2010-12-30 （Comic Market 79 (未找到链接)）DAAT-0003全长 （一般向）[](./魔法少女まりさ☆マギカ.md)[魔法少女まりさ☆マギカ](./魔法少女まりさ☆マギカ.md)首发日期：2011-05-08 （第八回 博麗神社例大祭 (未找到链接)）DAAT-0004EP （一般向）[](./I-PAD.md)[I-PAD](./I-PAD.md)首发日期：2011-05-08 （第八回 博麗神社例大祭 (未找到链接)）DAAT-0005EP （一般向）
@@ -36,6 +40,7 @@ DESTRUCTIVE ANGEL（同人社团，同人音乐社团） - DESTRUCTIVE ANGEL ，
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 其他信息

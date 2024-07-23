@@ -14,7 +14,7 @@ The_Grimoire_of_Usami | 使用了翻译表的页面 | 宇佐见的魔法书 | �
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./The_Grimoire_of_Usami-键山雏.md" title="The Grimoire of Usami/键山雏">键山雏</a>&#160;
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="/%E5%AE%87%E4%BD%90%E8%A7%81%E7%9A%84%E9%AD%94%E6%B3%95%E4%B9%A6" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a>&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="./宇佐见的魔法书.md" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a>&#160;
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">&#160;<a href="./The_Grimoire_of_Usami-坂田合欢.md" title="The Grimoire of Usami/坂田合欢">坂田合欢</a>
 </td>
@@ -25,7 +25,7 @@ The_Grimoire_of_Usami | 使用了翻译表的页面 | 宇佐见的魔法书 | �
 </center>
 <center>第101页</center>
 
-<table><tbody><tr align="left" valign="top"><td style="min-width:200px;"><div class="tt-zhh tt-type-setting" lang="zh"><div class="poem"><a href="/%E9%A3%9E%E9%A6%96%E3%80%8CExtreme_Long_Neck%E3%80%8D" class="mw-redirect" title="飞首「Extreme Long Neck」">飞首「Extreme Long Neck」</a></div></div><div class="tt-zh tt-type-setting" lang="zh"><div class="poem">使用者：<a href="./赤蛮奇.md" title="赤蛮奇">赤蛮奇</a></div></div><div class="tt-zh tt-type-setting" lang="zh"><div class="poem">目标是幻想乡最长记录！<br>挑战一下极限看能伸到哪里～！<br>假如说，要是能成功零距离看遍<br>所有观众的脸，就请大家送上掌声～！</div></div><div class="tt-header tt-type-setting" lang="zh"><div class="poem">鬼人正邪（0）</div></div><div class="tt-zh tt-type-setting" lang="zh"><div class="poem">仿佛惊吓妖怪表演啊。这种也能叫做弹幕吗？不，显然能啊。</div></div><div class="tt-header tt-type-setting" lang="zh"><div class="poem">少名针妙丸</div></div><div class="tt-zh tt-type-setting" lang="zh"><div class="poem">虽然在干着评委的活，但全都是0分的话就用不着分数了吧？</div></div><div class="tt-header tt-type-setting" lang="zh"><div class="poem">宇佐见堇子</div></div><div class="tt-zh tt-type-setting" lang="zh"><div class="poem">呜哇啊，是辘轳首～是古典的妖怪～！哎，有人往这边来了哦……？是新评委吗。</div></div></td><td width="200px"><div class="thumb tleft"><div class="thumbinner" style="width:202px;"><a href="./文件-The_Grimoire_of_Usami（赤蛮奇1）.jpg.md" class="image"><img alt="" src="https://upload.thwiki.cc/thumb/6/6b/The_Grimoire_of_Usami%EF%BC%88%E8%B5%A4%E8%9B%AE%E5%A5%871%EF%BC%89.jpg/200px-The_Grimoire_of_Usami%EF%BC%88%E8%B5%A4%E8%9B%AE%E5%A5%871%EF%BC%89.jpg" decoding="async" loading="lazy" width="200" height="284" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/6/6b/The_Grimoire_of_Usami%EF%BC%88%E8%B5%A4%E8%9B%AE%E5%A5%871%EF%BC%89.jpg/300px-The_Grimoire_of_Usami%EF%BC%88%E8%B5%A4%E8%9B%AE%E5%A5%871%EF%BC%89.jpg 1.5x, https://upload.thwiki.cc/thumb/6/6b/The_Grimoire_of_Usami%EF%BC%88%E8%B5%A4%E8%9B%AE%E5%A5%871%EF%BC%89.jpg/400px-The_Grimoire_of_Usami%EF%BC%88%E8%B5%A4%E8%9B%AE%E5%A5%871%EF%BC%89.jpg 2x" data-file-width="1266" data-file-height="1800"></a>  <div class="thumbcaption"><div class="magnify"><a href="./文件-The_Grimoire_of_Usami（赤蛮奇1）.jpg.md" class="internal" title="放大"></a></div>P101</div></div></div></td></tr></tbody></table>
+<table><tbody><tr align="left" valign="top"><td style="min-width:200px;"><div class="tt-zhh tt-type-setting" lang="zh"><div class="poem"><a href="./飞首「Extreme_Long_Neck」.md" class="mw-redirect" title="飞首「Extreme Long Neck」">飞首「Extreme Long Neck」</a></div></div><div class="tt-zh tt-type-setting" lang="zh"><div class="poem">使用者：<a href="./赤蛮奇.md" title="赤蛮奇">赤蛮奇</a></div></div><div class="tt-zh tt-type-setting" lang="zh"><div class="poem">目标是幻想乡最长记录！<br>挑战一下极限看能伸到哪里～！<br>假如说，要是能成功零距离看遍<br>所有观众的脸，就请大家送上掌声～！</div></div><div class="tt-header tt-type-setting" lang="zh"><div class="poem">鬼人正邪（0）</div></div><div class="tt-zh tt-type-setting" lang="zh"><div class="poem">仿佛惊吓妖怪表演啊。这种也能叫做弹幕吗？不，显然能啊。</div></div><div class="tt-header tt-type-setting" lang="zh"><div class="poem">少名针妙丸</div></div><div class="tt-zh tt-type-setting" lang="zh"><div class="poem">虽然在干着评委的活，但全都是0分的话就用不着分数了吧？</div></div><div class="tt-header tt-type-setting" lang="zh"><div class="poem">宇佐见堇子</div></div><div class="tt-zh tt-type-setting" lang="zh"><div class="poem">呜哇啊，是辘轳首～是古典的妖怪～！哎，有人往这边来了哦……？是新评委吗。</div></div></td><td width="200px"><div class="thumb tleft"><div class="thumbinner" style="width:202px;"><a href="./文件-The_Grimoire_of_Usami（赤蛮奇1）.jpg.md" class="image"><img alt="" src="https://upload.thwiki.cc/thumb/6/6b/The_Grimoire_of_Usami%EF%BC%88%E8%B5%A4%E8%9B%AE%E5%A5%871%EF%BC%89.jpg/200px-The_Grimoire_of_Usami%EF%BC%88%E8%B5%A4%E8%9B%AE%E5%A5%871%EF%BC%89.jpg" decoding="async" loading="lazy" width="200" height="284" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/6/6b/The_Grimoire_of_Usami%EF%BC%88%E8%B5%A4%E8%9B%AE%E5%A5%871%EF%BC%89.jpg/300px-The_Grimoire_of_Usami%EF%BC%88%E8%B5%A4%E8%9B%AE%E5%A5%871%EF%BC%89.jpg 1.5x, https://upload.thwiki.cc/thumb/6/6b/The_Grimoire_of_Usami%EF%BC%88%E8%B5%A4%E8%9B%AE%E5%A5%871%EF%BC%89.jpg/400px-The_Grimoire_of_Usami%EF%BC%88%E8%B5%A4%E8%9B%AE%E5%A5%871%EF%BC%89.jpg 2x" data-file-width="1266" data-file-height="1800"></a>  <div class="thumbcaption"><div class="magnify"><a href="./文件-The_Grimoire_of_Usami（赤蛮奇1）.jpg.md" class="internal" title="放大"></a></div>P101</div></div></div></td></tr></tbody></table>
 
 
 
@@ -37,7 +37,7 @@ The_Grimoire_of_Usami | 使用了翻译表的页面 | 宇佐见的魔法书 | �
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./The_Grimoire_of_Usami-键山雏.md" title="The Grimoire of Usami/键山雏">键山雏</a>&#160;
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="/%E5%AE%87%E4%BD%90%E8%A7%81%E7%9A%84%E9%AD%94%E6%B3%95%E4%B9%A6" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a>&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="./宇佐见的魔法书.md" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a>&#160;
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">&#160;<a href="./The_Grimoire_of_Usami-坂田合欢.md" title="The Grimoire of Usami/坂田合欢">坂田合欢</a>
 </td>
@@ -46,6 +46,7 @@ The_Grimoire_of_Usami | 使用了翻译表的页面 | 宇佐见的魔法书 | �
 
   
 </center>
+
 
 ## 词条导航
   

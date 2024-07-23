@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -34,11 +35,13 @@
 
 
 
+
 ## 基本信息
 
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">ジャパニーズサーガ</td></tr><tr><td><b>译名</b></td><td>Japanese Saga</td></tr><tr><td><b>其他译名</b></td><td>日本的传奇<br>日本物语</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 Japanese Saga（曲目） - 由 ZUN 创作的官方曲目，原名 ジャパニーズサーガ
+
 ## 出现作品
 
 <table>
@@ -46,13 +49,17 @@ Japanese Saga（曲目） - 由 ZUN 创作的官方曲目，原名 ジャパニ�
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 东方求闻史纪附属CD
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-PMiSS_01.mp3.md" title="文件:PMiSS 01.mp3">PMiSS_01.mp3</a><br><audio src="https://upload.thwiki.cc/9/91/PMiSS_01.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track01.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>4:22</td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 东方求闻史纪
 - 幺乐团传单 (未找到链接)
 
@@ -61,8 +68,11 @@ Japanese Saga（曲目） - 由 ZUN 创作的官方曲目，原名 ジャパニ�
 总觉得现在明显变少了。  
 不过我很喜欢这种曲子，有些寂寞的感觉。  
 人生需要更多传奇（冒险故事）！
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
   
  **ジャパニーズサーガ**  Japanese Saga
@@ -85,6 +95,7 @@ Japanese Saga（曲目） - 由 ZUN 创作的官方曲目，原名 ジャパニ�
 
 - ジャパニーズサーガ（Japanese Saga）
   - 可能指历代御阿礼之子撰写的《幻想乡缘起》。
+
 
 
 ### 二次同人数据

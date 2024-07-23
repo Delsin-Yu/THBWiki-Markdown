@@ -29,10 +29,12 @@
 
 
 
+
 ###### 问候
 
 
 <table><tbody><tr class="tt-content" id="=-3" data-pos="&#91;&quot;=&quot;,3&#93;"><td class="tt-ja" lang="ja"><div class="poem">■１．<br>　　Thank you for download.<br><br>　　This script is fan game.</div></td><td class="tt-zh" lang="zh"><div class="poem">■１．问候<br>　　感谢下载。<br>　<br>　　本脚本是同人游戏。</div></td></tr></tbody></table>
+
 
 
 
@@ -43,10 +45,12 @@
 
 
 
+
 ###### 卸载方法
 
 
 <table><tbody><tr class="tt-content" id="=-7" data-pos="&#91;&quot;=&quot;,7&#93;"><td class="tt-ja" lang="ja"><div class="poem">■３．Uninstall<br><br>　Delete the "東方導命樹" folder.</div></td><td class="tt-zh" lang="zh"><div class="poem">■３．卸载方法<br><br>　删除「东方导命树」文件夹。</div></td></tr></tbody></table>
+
 
 
 
@@ -57,6 +61,7 @@
 
 
 
+
 ###### 如果没什么疑问
 
 
@@ -64,10 +69,12 @@
 
 
 
+
 ###### 注意事项，以及您大概早就知道的事情
 
 
 <table><tbody><tr class="tt-content" id="=-13" data-pos="&#91;&quot;=&quot;,13&#93;"><td class="tt-ja" lang="ja"><div class="poem">■６．Caution!<br>　Please refrain from the remodeling of the program.<br><br>　Question:　Key configuration possible?<br>　Answer:　Launch the "config.exe" in the "東方導命樹" folder.<br>　　　　　Select the key field of the tab.<br>　　　　　"左"			Light button<br>　　　　　"右"			Right button<br>　　　　　"上"			UP button<br>　　　　　"下"			DOWN button<br>　　　　　"決定"		Decision button<br>　　　　　"キャンセル"	        Cancel button<br>　　　　　"ショット"	        Shot button<br>　　　　　"スペル"		Spell button<br>　　　　　"低速移動"	        Low-speed movement button<br>　　　　　"ユーザ定義1"	        Special 1.　The default setting "C"<br>　　　　　"ユーザ定義2"	        Special 2.　The default setting "V"<br>　　　　　"ポーズ"		Pause button<br><br>　Question:　Processing heavy.<br>　Answer:　From the game menu, select the Option.<br>　　　　　Please increase the number of cut effect.<br>　　　　　Larger the value, I will reduce the effects of many.<br><br>　Question:　Replay does not work properly.<br>　Answer:　When a file with the same name already exists, you will not be able to play normally.<br><br>　Question:　I can not clear Lunatic!<br>　Answer:　Let's use a lot of bomb!!!!</div></td><td class="tt-zh" lang="zh"><div class="poem">■６．注意！<br>　请不要改造程序。<br><br>　Question:　可以改键吗？<br>　Answer:　启动「东方导命树」文件夹下的「config.exe」。<br>　　　　　更改各键值卡。<br>　　　　　"左"			左键<br>　　　　　"右"			右键<br>　　　　　"上"			上键<br>　　　　　"下"			下键<br>　　　　　"決定"		确定键<br>　　　　　"キャンセル"	        取消键<br>　　　　　"ショット"	        射击键<br>　　　　　"スペル"		符卡键<br>　　　　　"低速移動"	        低速移动键<br>　　　　　"ユーザ定義1"	        特殊键一。　默认为"C"<br>　　　　　"ユーザ定義2"	        特殊键二。　默认为"V"<br>　　　　　"ポーズ"		暂停键<br><br>　Question:　好沉。<br>　Answer:　请在游戏内的「Option」中选择Effect Cut。<br>　　　　　增加其数字。<br>　　　　　该值越高，效果削减越多。<br><br>　Question:　Replay不能看。<br>　Answer:　若有同名的relay文件，有可能无法正常运行。<br><br>　Question:　Lunatic难度打不通。<br>　Answer:　炸炸炸炸炸！！！！</div></td></tr></tbody></table>
+
 
 
 

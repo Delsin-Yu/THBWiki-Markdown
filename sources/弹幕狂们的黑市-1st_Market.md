@@ -23,6 +23,7 @@
 </center>
 - 本词条内容为官方游戏TH18.5 **弹幕狂们的黑市** 的敌机符卡
 
+
 ## 目录
 
 - [1 豪德寺三花](#豪德寺三花)
@@ -74,7 +75,9 @@
 
 
 
+
 ## 豪德寺三花
+
 ### 金符「对三花猫谈小判」
 
 <table>
@@ -88,9 +91,10 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="/%E9%87%91%E7%AC%A6%E3%80%8C%E5%AF%B9%E4%B8%89%E8%8A%B1%E7%8C%AB%E8%B0%88%E5%B0%8F%E5%88%A4%E3%80%8D" class="mw-redirect" title="金符「对三花猫谈小判」">金符「对三花猫谈小判」</a>
+<p><a href="./金符「对三花猫谈小判」.md" class="mw-redirect" title="金符「对三花猫谈小判」">金符「对三花猫谈小判」</a>
 </p>
 </th></tr></tbody></table>
+
 
 
 #### 符卡信息
@@ -112,7 +116,9 @@
 
   
 
+
 ## 秋穰子
+
 ### 秋符「五谷丰穰波」
 
 <table>
@@ -126,9 +132,10 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="/%E7%A7%8B%E7%AC%A6%E3%80%8C%E4%BA%94%E8%B0%B7%E4%B8%B0%E7%A9%B0%E6%B3%A2%E3%80%8D" class="mw-redirect" title="秋符「五谷丰穰波」">秋符「五谷丰穰波」</a>
+<p><a href="./秋符「五谷丰穰波」.md" class="mw-redirect" title="秋符「五谷丰穰波」">秋符「五谷丰穰波」</a>
 </p>
 </th></tr></tbody></table>
+
 
 
 #### 符卡信息
@@ -150,7 +157,9 @@
 
   
 
+
 ## 爱塔妮缇拉尔瓦
+
 ### 蝶符「Deadly Butterfly」（致命飞蝶）
 
 <table>
@@ -164,9 +173,10 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="/%E8%9D%B6%E7%AC%A6%E3%80%8CDeadly_Butterfly%E3%80%8D" class="mw-redirect" title="蝶符「Deadly Butterfly」">蝶符「Deadly Butterfly」</a>
+<p><a href="./蝶符「Deadly_Butterfly」.md" class="mw-redirect" title="蝶符「Deadly Butterfly」">蝶符「Deadly Butterfly」</a>
 </p>
 </th></tr></tbody></table>
+
 
 
 #### 符卡信息
@@ -188,7 +198,9 @@
 
   
 
+
 ## 坂田合欢
+
 ### 菜刀「斩至崩口卷刃」
 
 <table>
@@ -202,9 +214,10 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="/%E8%8F%9C%E5%88%80%E3%80%8C%E6%96%A9%E8%87%B3%E5%B4%A9%E5%8F%A3%E5%8D%B7%E5%88%83%E3%80%8D" class="mw-redirect" title="菜刀「斩至崩口卷刃」">菜刀「斩至崩口卷刃」</a>
+<p><a href="./菜刀「斩至崩口卷刃」.md" class="mw-redirect" title="菜刀「斩至崩口卷刃」">菜刀「斩至崩口卷刃」</a>
 </p>
 </th></tr></tbody></table>
+
 
 
 #### 符卡信息
@@ -225,6 +238,7 @@
   
 
   
+
 
 ## 导航
   

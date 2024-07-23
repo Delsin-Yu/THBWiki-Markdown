@@ -4,6 +4,7 @@
 
 ひよこ印の音楽屋さん | 社团LOGO
 
+
 ## 文件说明
   
 源地址：[direct image link](https://web.archive.org/web/20140822154229im_/http://www.cranberry-studio.com/hiyoko/bana/hiyokojirushi-bn.jpg), [source page](http://www.cranberry-studio.com/hiyoko/files/Link.html)

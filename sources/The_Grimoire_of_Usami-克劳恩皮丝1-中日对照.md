@@ -12,7 +12,7 @@ The_Grimoire_of_Usami | 使用了翻译表的页面 | 克劳恩皮丝 | 宇佐�
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./The_Grimoire_of_Usami-鬼人正邪-中日对照.md" title="The Grimoire of Usami/鬼人正邪/中日对照">鬼人正邪</a>&#160;
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="/%E5%AE%87%E4%BD%90%E8%A7%81%E7%9A%84%E9%AD%94%E6%B3%95%E4%B9%A6" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a>&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="./宇佐见的魔法书.md" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a>&#160;
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">&#160;<a href="./The_Grimoire_of_Usami-黑谷山女-中日对照.md" title="The Grimoire of Usami/黑谷山女/中日对照">黑谷山女</a>
 </td>
@@ -25,7 +25,7 @@ The_Grimoire_of_Usami | 使用了翻译表的页面 | 克劳恩皮丝 | 宇佐�
 - 翻译：fumika_zero
 
 
-<table><tbody><tr class="tt-content-header" id="=-1" data-pos="&#91;&quot;=&quot;,1&#93;"><td class="tt-jah" lang="ja"><div class="poem">獄符「地獄の蝕」</div></td><td class="tt-zhh" lang="zh"><div class="poem"><a href="/%E7%8B%B1%E7%AC%A6%E3%80%8C%E5%9C%B0%E7%8B%B1%E4%B9%8B%E8%9A%80%E3%80%8D" class="mw-redirect" title="狱符「地狱之蚀」">狱符「地狱之蚀」</a></div></td></tr><tr class="tt-content" id="=-2" data-pos="&#91;&quot;=&quot;,2&#93;"><td class="tt-ja" lang="ja"><div class="poem">使用者：クラウンピース</div></td><td class="tt-zh" lang="zh"><div class="poem">使用者：<a href="./克劳恩皮丝.md" title="克劳恩皮丝">克劳恩皮丝</a></div></td></tr><tr class="tt-content" id="=-3" data-pos="&#91;&quot;=&quot;,3&#93;"><td class="tt-ja" lang="ja"><div class="poem">こんな機会滅多にないぜー！<br>思いっきり地獄の弾幕を使って<br>良いのなら、あたいの出番だぜ！<br><big>花火大会を<br>地獄の炎で<br>焼き尽くしてやる！</big></div></td><td class="tt-zh" lang="zh"><div class="poem">这种机会很难得啊！<br>如果是可以随意<br>使用地狱的弹幕，就轮到人家出场啦！<br><big>看我把烟花大会<br>用地狱之炎<br>烧个精光吧！</big></div></td></tr><tr class="tt-header" id="=-4" data-pos="&#91;&quot;=&quot;,4&#93;"><td colspan="2" id="宇佐见堇子" class="tt-header" lang="zh"><div class="poem">宇佐见堇子</div></td></tr><tr class="tt-content" id="=-5" data-pos="&#91;&quot;=&quot;,5&#93;"><td class="tt-ja" lang="ja"><div class="poem">あ、暑い……。これは洒落にならないです。でも、あの巨大な岩石がガードしてくれている様にも見えるけど……。</div></td><td class="tt-zh" lang="zh"><div class="poem">好、好热……这可不是闹着玩的。不过，感觉那块巨大的岩石也像是在保护我们……</div></td></tr><tr class="tt-header" id="=-6" data-pos="&#91;&quot;=&quot;,6&#93;"><td colspan="2" id="鬼人正邪" class="tt-header" lang="zh"><div class="poem">鬼人正邪</div></td></tr><tr class="tt-content" id="=-7" data-pos="&#91;&quot;=&quot;,7&#93;"><td class="tt-ja" lang="ja"><div class="poem">よっこらしょ、0点。ふーここで審査員として地獄を眺めるとするか。よろしくな、外の人間。これから面白くなりそうだろ？</div></td><td class="tt-zh" lang="zh"><div class="poem">哟嗬，0分。呼～在这里作为评委眺望地狱吧。请多关照啊，外面的人类。接下来会变得有趣吧？</div></td></tr></tbody></table>
+<table><tbody><tr class="tt-content-header" id="=-1" data-pos="&#91;&quot;=&quot;,1&#93;"><td class="tt-jah" lang="ja"><div class="poem">獄符「地獄の蝕」</div></td><td class="tt-zhh" lang="zh"><div class="poem"><a href="./狱符「地狱之蚀」.md" class="mw-redirect" title="狱符「地狱之蚀」">狱符「地狱之蚀」</a></div></td></tr><tr class="tt-content" id="=-2" data-pos="&#91;&quot;=&quot;,2&#93;"><td class="tt-ja" lang="ja"><div class="poem">使用者：クラウンピース</div></td><td class="tt-zh" lang="zh"><div class="poem">使用者：<a href="./克劳恩皮丝.md" title="克劳恩皮丝">克劳恩皮丝</a></div></td></tr><tr class="tt-content" id="=-3" data-pos="&#91;&quot;=&quot;,3&#93;"><td class="tt-ja" lang="ja"><div class="poem">こんな機会滅多にないぜー！<br>思いっきり地獄の弾幕を使って<br>良いのなら、あたいの出番だぜ！<br><big>花火大会を<br>地獄の炎で<br>焼き尽くしてやる！</big></div></td><td class="tt-zh" lang="zh"><div class="poem">这种机会很难得啊！<br>如果是可以随意<br>使用地狱的弹幕，就轮到人家出场啦！<br><big>看我把烟花大会<br>用地狱之炎<br>烧个精光吧！</big></div></td></tr><tr class="tt-header" id="=-4" data-pos="&#91;&quot;=&quot;,4&#93;"><td colspan="2" id="宇佐见堇子" class="tt-header" lang="zh"><div class="poem">宇佐见堇子</div></td></tr><tr class="tt-content" id="=-5" data-pos="&#91;&quot;=&quot;,5&#93;"><td class="tt-ja" lang="ja"><div class="poem">あ、暑い……。これは洒落にならないです。でも、あの巨大な岩石がガードしてくれている様にも見えるけど……。</div></td><td class="tt-zh" lang="zh"><div class="poem">好、好热……这可不是闹着玩的。不过，感觉那块巨大的岩石也像是在保护我们……</div></td></tr><tr class="tt-header" id="=-6" data-pos="&#91;&quot;=&quot;,6&#93;"><td colspan="2" id="鬼人正邪" class="tt-header" lang="zh"><div class="poem">鬼人正邪</div></td></tr><tr class="tt-content" id="=-7" data-pos="&#91;&quot;=&quot;,7&#93;"><td class="tt-ja" lang="ja"><div class="poem">よっこらしょ、0点。ふーここで審査員として地獄を眺めるとするか。よろしくな、外の人間。これから面白くなりそうだろ？</div></td><td class="tt-zh" lang="zh"><div class="poem">哟嗬，0分。呼～在这里作为评委眺望地狱吧。请多关照啊，外面的人类。接下来会变得有趣吧？</div></td></tr></tbody></table>
 
 
 <center>
@@ -36,7 +36,7 @@ The_Grimoire_of_Usami | 使用了翻译表的页面 | 克劳恩皮丝 | 宇佐�
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./The_Grimoire_of_Usami-鬼人正邪-中日对照.md" title="The Grimoire of Usami/鬼人正邪/中日对照">鬼人正邪</a>&#160;
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="/%E5%AE%87%E4%BD%90%E8%A7%81%E7%9A%84%E9%AD%94%E6%B3%95%E4%B9%A6" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a>&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="./宇佐见的魔法书.md" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a>&#160;
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">&#160;<a href="./The_Grimoire_of_Usami-黑谷山女-中日对照.md" title="The Grimoire of Usami/黑谷山女/中日对照">黑谷山女</a>
 </td>
@@ -45,6 +45,7 @@ The_Grimoire_of_Usami | 使用了翻译表的页面 | 克劳恩皮丝 | 宇佐�
 
   
 </center>
+
 
 ## 词条导航
   

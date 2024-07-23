@@ -4,6 +4,7 @@
 
 活动LOGO | 那天所看见的幻想
 
+
 ## 文件说明
   
 [[1]](http://hanipoke.com/special/anohi_mita_gensou/chapter4/logo.png)

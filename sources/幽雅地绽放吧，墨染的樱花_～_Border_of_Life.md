@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -43,11 +44,13 @@
 
 
 
+
 ## 基本信息
 
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">幽雅に咲かせ、墨染の桜　～ Border of Life</td></tr><tr><td><b>译名</b></td><td>幽雅地绽放吧，墨染的樱花　～ Border of Life</td></tr><tr><td><b>英文译名</b></td><td>Bloom Nobly, Ink-Black Cherry Blossom ~ Border of Life</td></tr><tr><td><b>其他译名</b></td><td>幽雅地绽放吧，墨染之樱 ～ Border of Life</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 幽雅地绽放吧，墨染的樱花 ～ Border of Life（曲目） - 由 ZUN 创作的官方曲目，原名 幽雅に咲かせ、墨染の桜　～ Border of Life
+
 ## 出现作品
 
 <table>
@@ -59,8 +62,11 @@
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 东方妖妖梦
+
 #### WAV
   
 WAV版是游戏的原声带。
@@ -75,6 +81,7 @@ WAV版是游戏的原声带。
 </td></tr></tbody></table>
 
 
+
 #### MIDI
   
 MIDI版由Roland Sound Canvas 88Pro实机录音得到。
@@ -84,9 +91,11 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td><a href="./文件-th07_13.mid.md" title="文件:th07 13.mid">th07_13.mid</a></td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th07_13_SC88Pro.mp3.md" title="文件:th07 13 SC88Pro.mp3">th07_13_SC88Pro.mp3</a><br><audio src="https://upload.thwiki.cc/a/a5/th07_13_SC88Pro.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>th07_13.mid</td></tr><tr><td><b>音轨时长</b></td><td>2:20</td></tr></tbody></table>
 
 
+
 ### 幻想曲拔萃
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-TFM-001a_14.mp3.md" title="文件:TFM-001a 14.mp3">TFM-001a_14.mp3</a><br><audio src="https://upload.thwiki.cc/5/5d/TFM-001a_14.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track14.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>1:50</td></tr></tbody></table>
+
 
 
 ### 全人类的天乐录
@@ -94,7 +103,9 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-TFM-003A_08.mp3.md" title="文件:TFM-003A 08.mp3">TFM-003A_08.mp3</a><br><audio src="https://upload.thwiki.cc/0/00/TFM-003A_08.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track08.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>2:56</td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 东方妖妖梦
 - Music Room (未找到链接)
 
@@ -109,14 +120,18 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
     最为直白的曲名。  
     没什么可说的。  
     这也是，樱花的魅力吗……
+
 ### 东方萃梦想
 - Music Room (未找到链接)
 
 由东方妖妖梦中幽幽子的主题曲改编而来。  
 假设是不平和的丑三时。  
 虽然是以梦幻告终――。
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
   
  **幽雅に咲かせ、墨染の桜　～ Border of Life**  幽雅地绽放吧，墨染的樱花　～ Border of Life
@@ -154,6 +169,7 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
   - 生命的界线、生死的界线。
     - [西行寺幽幽子](./西行寺幽幽子.md)试图复活「西行妖」下埋葬的亡骸，由死复生挑战着生死的界线。
     - [八云紫](./八云紫.md)的符卡[结界「生与死的境界」](./生与死的境界.md)。
+
 
 
 

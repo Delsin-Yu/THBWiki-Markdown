@@ -4,6 +4,7 @@
 
 东方封魔录 | 传说中的仙境
 
+
 ## 文件说明
   
 昔話わんだーらんど 东方封魔录STAFF主题曲MIDI版。由Roland Sound Canvas 88Pro实机录制；MP3采样率44.1KHz，码率192Kbps。  

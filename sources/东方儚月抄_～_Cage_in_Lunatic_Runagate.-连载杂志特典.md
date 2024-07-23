@@ -4,6 +4,7 @@
 
 东方儚月抄_～_Cage_in_Lunatic_Runagate. | 官方特典 | 杂志连载特典
 
+
 ## 杂志读者赠品
 - 东方儚月抄 ～ Cage in Lunatic Runagate.连载杂志 **Chara☆Mel** 特典
 

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Drawers_Collection_2封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/2/2e/Drawers_Collection_2%E5%B0%81%E9%9D%A2.jpg/224px-Drawers_Collection_2%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="159" srcset="https://upload.thwiki.cc/thumb/2/2e/Drawers_Collection_2%E5%B0%81%E9%9D%A2.jpg/336px-Drawers_Collection_2%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/2/2e/Drawers_Collection_2%E5%B0%81%E9%9D%A2.jpg/448px-Drawers_Collection_2%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1024" data-file-height="728"></a><div class="cover-char">角色：<a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a>，<a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a></div></td>
@@ -17,12 +18,14 @@ Drawers Collection 2（同人志，Drawers Come True，2017） - 2017年10月15�
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://nyuma.booth.pm/items/658319">Booth</a></td></tr></tbody></table>
 
 
+
 ## Staff
 模特
 : しろうさぎさん （[Twitter：@sh1r0usagi0620](https://twitter.com/sh1r0usagi0620)）
 : 由綏さん （[Twitter：@yuta1a0d](https://twitter.com/yuta1a0d)）
 撮影
 : にゅま
+
 
 ## 评论
 

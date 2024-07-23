@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次同人创作者** 的词条
+
 ## 基本信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="label"><b>名称</b></td><td> haLRu </td></tr><tr><td class="label"><b>所属社团</b></td><td><b>当前</b><div style="margin-left:2em;"><a href="./MONOMIND.md" title="MONOMIND">MONOMIND</a></div></td></tr><tr><td class="label"><b>职位</b></td><td>作曲，编曲</td></tr><tr><td class="label"><b>参与社团</b></td><td><a href="./CUBETYPE.md" title="CUBETYPE">CUBETYPE</a> （编曲）<br><a href="./DDBY.md" title="DDBY">DDBY</a> （编曲）<br><a href="./MONOMIND.md" title="MONOMIND">MONOMIND</a> （作曲，编曲）<br><a href="./WIND_MAIL.md" title="WIND MAIL">WIND MAIL</a> （编曲）<br><a href="./ロマンチックメロウ.md" title="ロマンチックメロウ">ロマンチックメロウ</a> （编曲）<br><a href="./梶迫小道具店.md" title="梶迫小道具店">梶迫小道具店</a> （编曲）<br><a href="./荒御灵.md" title="荒御灵">荒御灵</a> （编曲）<br><a href="./音召缶.md" title="音召缶">音召缶</a> （编曲）</td></tr><tr><td class="label"><b>生日</b></td><td>8-21</td></tr><tr><td class="label"><b>个人页面</b></td><td><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><b>Twitter</b></td><td><a rel="nofollow" class="external free" href="https://twitter.com/haLRu">https://twitter.com/haLRu</a></td></tr></tbody></table></td></tr></tbody></table>

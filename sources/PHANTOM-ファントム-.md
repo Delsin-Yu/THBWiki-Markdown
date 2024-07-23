@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-PHANTOM-ファントム-封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/d/d3/PHANTOM-%E3%83%95%E3%82%A1%E3%83%B3%E3%83%88%E3%83%A0-%E5%B0%81%E9%9D%A2.jpg/158px-PHANTOM-%E3%83%95%E3%82%A1%E3%83%B3%E3%83%88%E3%83%A0-%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="158" height="224" srcset="https://upload.thwiki.cc/thumb/d/d3/PHANTOM-%E3%83%95%E3%82%A1%E3%83%B3%E3%83%88%E3%83%A0-%E5%B0%81%E9%9D%A2.jpg/237px-PHANTOM-%E3%83%95%E3%82%A1%E3%83%B3%E3%83%88%E3%83%A0-%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/d/d3/PHANTOM-%E3%83%95%E3%82%A1%E3%83%B3%E3%83%88%E3%83%A0-%E5%B0%81%E9%9D%A2.jpg/316px-PHANTOM-%E3%83%95%E3%82%A1%E3%83%B3%E3%83%88%E3%83%A0-%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="848" data-file-height="1200"></a><div class="cover-char">角色：<a href="./西行寺幽幽子.md" title="西行寺幽幽子">西行寺幽幽子</a></div></td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/riuha1000/status/1462778816573493253">https://twitter.com/riuha1000/status/1462778816573493253</a><br><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/94397937">https://www.pixiv.net/artworks/94397937</a></td></tr></tbody></table>
 
 PHANTOM-ファントム-（同人志，サークル青藍号，2021） - 2021年11月28日 由 サークル青藍号 于 东方红楼梦17 发布的摄影集/画集同人志，B5尺寸一共28页，登场人物有 埴安神袿姬、天弓千亦、豪德寺三花、牛崎润美，分级为 一般向
+
 ## Staff
 - 寝好き (未找到链接) （[サークル青藍号](./サークル青藍号.md)）
 
@@ -23,6 +25,7 @@ Guest
 - 常陸 (未找到链接) （常陸ノ國 (未找到链接)）
 - しおこしょう (未找到链接) （[Twitter: @siokoshoooo](https://twitter.com/siokoshoooo)）
 - 小猫 (未找到链接) （[上井草うどん](./上井草うどん.md)）
+
 
 ## 评论
 

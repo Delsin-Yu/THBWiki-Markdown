@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **东方风自作曲** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -22,16 +23,19 @@
 
 
 
+
 ## 基本信息
 
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">凝霜的魇花~Profound Spirit</td></tr><tr><td><b>译名</b></td><td>凝霜的魇花~Profound Spirit</td></tr><tr><td><b>作曲</b></td><td><a href="./11.md" title="11">11</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 凝霜的魇花~Profound Spirit（曲目） - 由 11 创作的东方风自作曲，原名 凝霜的魇花~Profound Spirit
+
 ## 出现作品
 
 <table>
 <tbody><tr><td>2020年11月18日（非展会）</td><td><b><a href="./東方冰魇华~Saintlike_Icy_Blossom.md" title="東方冰魇华~Saintlike Icy Blossom" unred="">东方冰魇华</a></b></td><td>BOSS战主题曲</td><td style="padding-left:5px;">凝霜的魇花~Profound Spirit（凝霜的魇花~Profound Spirit）</td><td style="padding-left:10px;">作曲：11是谁啊</td></tr>
 </tbody></table>
+
 
 
 ## 视频
@@ -50,8 +54,11 @@
 
 
 
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
 
 

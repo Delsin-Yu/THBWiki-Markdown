@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-YEAH_YEAH_YEAH封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/a/a4/YEAH_YEAH_YEAH%E5%B0%81%E9%9D%A2.jpg/158px-YEAH_YEAH_YEAH%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="158" height="224" srcset="https://upload.thwiki.cc/thumb/a/a4/YEAH_YEAH_YEAH%E5%B0%81%E9%9D%A2.jpg/238px-YEAH_YEAH_YEAH%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/a/a4/YEAH_YEAH_YEAH%E5%B0%81%E9%9D%A2.jpg/317px-YEAH_YEAH_YEAH%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="637" data-file-height="900"></a><div class="cover-char">角色：<a href="./因幡帝.md" title="因幡帝">因幡天为</a>，<a href="./橙.md" title="橙">橙</a></div></td>
@@ -18,9 +19,12 @@ YEAH YEAH YEAH（同人志，フミンバイン，2015） - 2015年5月30日 由
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=128742">蜜瓜</a></td></tr></tbody></table>
 
 
+
 ## 预览
+
 ## Staff
 - [bkub](./bkub.md)
+
 
 ## 评论
 

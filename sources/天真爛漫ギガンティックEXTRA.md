@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-天真爛漫ギガンティックEXTRA封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/d/d4/%E5%A4%A9%E7%9C%9F%E7%88%9B%E6%BC%AB%E3%82%AE%E3%82%AC%E3%83%B3%E3%83%86%E3%82%A3%E3%83%83%E3%82%AFEXTRA%E5%B0%81%E9%9D%A2.jpg/158px-%E5%A4%A9%E7%9C%9F%E7%88%9B%E6%BC%AB%E3%82%AE%E3%82%AC%E3%83%B3%E3%83%86%E3%82%A3%E3%83%83%E3%82%AFEXTRA%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="158" height="224" srcset="https://upload.thwiki.cc/thumb/d/d4/%E5%A4%A9%E7%9C%9F%E7%88%9B%E6%BC%AB%E3%82%AE%E3%82%AC%E3%83%B3%E3%83%86%E3%82%A3%E3%83%83%E3%82%AFEXTRA%E5%B0%81%E9%9D%A2.jpg/237px-%E5%A4%A9%E7%9C%9F%E7%88%9B%E6%BC%AB%E3%82%AE%E3%82%AC%E3%83%B3%E3%83%86%E3%82%A3%E3%83%83%E3%82%AFEXTRA%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/d/d4/%E5%A4%A9%E7%9C%9F%E7%88%9B%E6%BC%AB%E3%82%AE%E3%82%AC%E3%83%B3%E3%83%86%E3%82%A3%E3%83%83%E3%82%AFEXTRA%E5%B0%81%E9%9D%A2.jpg/316px-%E5%A4%A9%E7%9C%9F%E7%88%9B%E6%BC%AB%E3%82%AE%E3%82%AC%E3%83%B3%E3%83%86%E3%82%A3%E3%83%83%E3%82%AFEXTRA%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="635" data-file-height="900"></a><div class="cover-char">角色：<a href="/index.php?title=%E7%90%AA%E5%A7%AC&amp;action=edit&amp;redlink=1" class="new" title="琪姬（页面不存在）">琪姬</a></div></td>
@@ -18,7 +19,9 @@
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=392738">蜜瓜</a>，<a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=478547">蜜瓜DL</a>，<a rel="nofollow" class="external text" href="https://calmblue.booth.pm/items/1786262">Booth</a></td></tr></tbody></table>
 
 
+
 ## 预览
+
 ## Staff
 - 蒼凪依翅 (未找到链接)
 - 黒烏龍 (未找到链接)
@@ -30,6 +33,7 @@
 - 灯（现实人物） (未找到链接)
 - ぴー（现实人物） (未找到链接)
 - レヴァリエ (未找到链接)
+
 
 ## 评论
 

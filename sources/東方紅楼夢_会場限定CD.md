@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-東方紅楼夢_会場限定CD封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/c/c4/%E6%9D%B1%E6%96%B9%E7%B4%85%E6%A5%BC%E5%A4%A2_%E4%BC%9A%E5%A0%B4%E9%99%90%E5%AE%9ACD%E5%B0%81%E9%9D%A2.jpg/224px-%E6%9D%B1%E6%96%B9%E7%B4%85%E6%A5%BC%E5%A4%A2_%E4%BC%9A%E5%A0%B4%E9%99%90%E5%AE%9ACD%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="202" srcset="https://upload.thwiki.cc/thumb/c/c4/%E6%9D%B1%E6%96%B9%E7%B4%85%E6%A5%BC%E5%A4%A2_%E4%BC%9A%E5%A0%B4%E9%99%90%E5%AE%9ACD%E5%B0%81%E9%9D%A2.jpg/336px-%E6%9D%B1%E6%96%B9%E7%B4%85%E6%A5%BC%E5%A4%A2_%E4%BC%9A%E5%A0%B4%E9%99%90%E5%AE%9ACD%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/c/c4/%E6%9D%B1%E6%96%B9%E7%B4%85%E6%A5%BC%E5%A4%A2_%E4%BC%9A%E5%A0%B4%E9%99%90%E5%AE%9ACD%E5%B0%81%E9%9D%A2.jpg/448px-%E6%9D%B1%E6%96%B9%E7%B4%85%E6%A5%BC%E5%A4%A2_%E4%BC%9A%E5%A0%B4%E9%99%90%E5%AE%9ACD%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="672" data-file-height="606"></a><div class="cover-char">角色：<a href="./幽香.md" title="幽香">幽香</a></div></td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/pizuya/status/782557156092424192">https://twitter.com/pizuya/status/782557156092424192</a></td></tr></tbody></table>
 
 東方紅楼夢 会場限定CD（同人专辑，Pizuya's Cell，2016） - 2016年10月9日 由 Pizuya's Cell 于 东方红楼梦12 发布的单曲同人专辑，分级为 一般向
+
 ## Staff
   
  **Arrangement**   
@@ -24,9 +26,11 @@
 Illustration
 : 普透明度
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="眠れる恐怖_～_Sleeping_Terror" colspan="2" class="title">眠れる恐怖　～ Sleeping Terror<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Pizuya's Cell&amp;ogmusic=眠れる恐怖　～Sleeping Terror&amp;fromwiki=東方紅楼夢_会場限定CD"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Pizuya's_Cell.md" title="Pizuya&#39;s Cell">Pizuya's Cell</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Pizuya's Cell&amp;fromwiki=東方紅楼夢_会場限定CD"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=眠れる恐怖　～Sleeping Terror&amp;fromwiki=東方紅楼夢_会場限定CD"><span></span></a></span><div class="ogmusic"><a href="/%E7%9C%A0%E3%82%8C%E3%82%8B%E6%81%90%E6%80%96_%EF%BD%9ESleeping_Terror" class="mw-redirect" title="眠れる恐怖 ～Sleeping Terror">眠れる恐怖　～Sleeping Terror</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E5%B9%BB%E6%83%B3%E4%B9%A1_%EF%BD%9E_Lotus_Land_Story." class="mw-redirect" title="东方幻想乡 ～ Lotus Land Story.">东方幻想乡　～ Lotus Land Story.</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="眠れる恐怖_～_Sleeping_Terror" colspan="2" class="title">眠れる恐怖　～ Sleeping Terror<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Pizuya's Cell&amp;ogmusic=眠れる恐怖　～Sleeping Terror&amp;fromwiki=東方紅楼夢_会場限定CD"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Pizuya's_Cell.md" title="Pizuya&#39;s Cell">Pizuya's Cell</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Pizuya's Cell&amp;fromwiki=東方紅楼夢_会場限定CD"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=眠れる恐怖　～Sleeping Terror&amp;fromwiki=東方紅楼夢_会場限定CD"><span></span></a></span><div class="ogmusic"><a href="./眠れる恐怖_～Sleeping_Terror.md" class="mw-redirect" title="眠れる恐怖 ～Sleeping Terror">眠れる恐怖　～Sleeping Terror</a></div><div class="source"><a href="./东方幻想乡_～_Lotus_Land_Story..md" class="mw-redirect" title="东方幻想乡 ～ Lotus Land Story.">东方幻想乡　～ Lotus Land Story.</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

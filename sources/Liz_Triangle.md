@@ -4,7 +4,8 @@
 
 Liz Triangle（りすとら） ，于 2008 年成立，主要制作 同人音乐 的日本同人社团，主催是 kaztora，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -28,12 +29,14 @@ Liz Triangle（りすとら） ，于 2008 年成立，主要制作 同人音乐
 
 
 
+
 ## 社团信息
 [](./文件-Liz_triangle_banner.jpg.md)  [](./文件-Liz_triangle_banner.jpg.md)Banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Liz Triangle（りすとら） </td></tr><tr><td><b>中文名称</b></td><td>Liz三角</td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2008</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="./kaztora.md" title="kaztora">kaztora</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://liz-tora.com/liz-tora/">http://liz-tora.com/liz-tora/</a> 官网<br><a rel="nofollow" class="external free" href="https://www.twitter.com/LiztoraOfficial">https://www.twitter.com/LiztoraOfficial</a> Twitter<br><a rel="nofollow" class="external free" href="https://www.youtube.com/channel/UCSd7ccLUkv6qcn87V_Kt1jg">https://www.youtube.com/channel/UCSd7ccLUkv6qcn87V_Kt1jg</a> YouTube<br><a rel="nofollow" class="external free" href="https://liztora.booth.pm/">https://liztora.booth.pm/</a> Booth</td></tr></tbody></table>
 
 Liz Triangle（同人社团，同人音乐社团） - Liz Triangle（りすとら） ，于 2008 年成立，主要制作 同人音乐 的日本同人社团，主催是 kaztora，当前状态为 活动
+
 ## 社团简介
   
 社团最开始叫做[森羅万象](./森羅万象.md)，在以这个名义发布第一张专辑[東方連歌](./東方連歌.md)后，改名为Liz Triangle。2012年[kaztora](./kaztora.md)重新使用[森羅万象](./森羅万象.md)之名建立社团。
@@ -73,6 +76,7 @@ Liz Triangle（同人社团，同人音乐社团） - Liz Triangle（りすと�
 </td></tr></tbody></table>
 
 
+
 ## 成员名单
 - [kaztora](./kaztora.md)：编曲
 - [lily-an](./lily-an.md)：演唱，歌词，绘画，设计
@@ -81,7 +85,9 @@ Liz Triangle（同人社团，同人音乐社团） - Liz Triangle（りすと�
 - Peko (未找到链接)：编曲，作词，演唱
 - eba (未找到链接)：编曲
 
+
 ## 作品列表
+
 ### 专辑
 [](./SYMPATHY_QUARTETTO.md)[SYMPATHY QUARTETTO](./SYMPATHY_QUARTETTO.md)首发日期：2008-11-02 （東方紅楼夢4 (未找到链接)）LTCD-0002EP （一般向）[](./散花（Liz_Triangle）.md)[散花](./散花（Liz_Triangle）.md)首发日期：2009-03-08 （第六回 博麗神社例大祭 (未找到链接)）LTCD-0003全长 （一般向）[](./AQUA（Liz_Triangle）.md)[AQUA](./AQUA（Liz_Triangle）.md)首发日期：2009-08-15 （Comic Market 76 (未找到链接)）LTCD-0005EP （一般向）[](./White_lotus....md)[White lotus...](./White_lotus....md)首发日期：2009-10-11 （東方紅楼夢5 (未找到链接)）LTCD-0006全长 （一般向）[](./神風（同人专辑）.md)[神風](./神風（同人专辑）.md)首发日期：2009-12-30 （Comic Market 77 (未找到链接)）LTCD-0007全长 （一般向）[](./B1.md)[B1](./B1.md)首发日期：2010-03-14 （第七回 博麗神社例大祭 (未找到链接)）LTCD-0008全长 （一般向）[](./DOUBLE_NINE.md)[DOUBLE NINE](./DOUBLE_NINE.md)首发日期：2010-09-19 （博麗神社例大祭SP1 (未找到链接)）LTCD-0009单曲 （一般向）[](./B2（同人专辑）.md)[B2](./B2（同人专辑）.md)首发日期：2010-10-11 （東方紅楼夢6 (未找到链接)）LTCD-0010全长 （一般向）[](./S4U.md)[S4U](./S4U.md)首发日期：2010-12-30 （Comic Market 79 (未找到链接)）LTCD-0011全长 （一般向）[](./refrain／shall_we_dance？.md)[refrain／shall we dance？](./refrain／shall_we_dance？.md)首发日期：2011-04-17 （秋葉文化祭〜第一章〜　Akiba Cultural Festival (未找到链接)）Demo （一般向）[](./Mémoire.md)[Mémoire](./Mémoire.md)首发日期：2011-08-13 （Comic Market 80 (未找到链接)）LTCD-0012全长 （一般向）[](./HIEROGLYPH.md)[HIEROGLYPH](./HIEROGLYPH.md)首发日期：2011-08-13 （Comic Market 80 (未找到链接)）LTCD-0013全长 （一般向）[](./reunion（Liz_Triangle）.md)[reunion](./reunion（Liz_Triangle）.md)首发日期：2011-12-30 （Comic Market 81 (未找到链接)）LTCD-0014全长 （一般向）[](./夏凛.md)[夏凛](./夏凛.md)首发日期：2012-08-11 （Comic Market 82 (未找到链接)）LTCD-0015全长 （一般向）[](./冬蛍.md)[冬蛍](./冬蛍.md)首发日期：2012-12-30 （Comic Market 83 (未找到链接)）LTCD-0016全长 （一般向）[](./ポーカーフェイサー.md)[ポーカーフェイサー](./ポーカーフェイサー.md)首发日期：2013-08-12 （Comic Market 84 (未找到链接)）LTCD-0017全长 （一般向）[](./カラスとウサギ（同人专辑）.md)[カラスとウサギ](./カラスとウサギ（同人专辑）.md)首发日期：2013-12-30 （Comic Market 85 (未找到链接)）LTCD-0018全长 （一般向）[](./CYAN.md)[CYAN](./CYAN.md)首发日期：2014-08-16 （Comic Market 86 (未找到链接)）LTCD-0019精选集 （一般向）[](./MAGENTA.md)[MAGENTA](./MAGENTA.md)首发日期：2014-11-24 （第一回 博麗神社秋季例大祭 (未找到链接)）LTCD-0021全长 （一般向）[](./laglange_point.md)[laglange point](./laglange_point.md)首发日期：2014-11-24 （第一回 博麗神社秋季例大祭 (未找到链接)）LTCD-0022全长 （一般向）[](./インモータル_フィロソフィー.md)[インモータル フィロソフィー](./インモータル_フィロソフィー.md)首发日期：2015-08-14 （Comic Market 88 (未找到链接)）LTCD-0023全长 （一般向）[](./ether.md)[ether](./ether.md)首发日期：2015-12-30 （Comic Market 89 (未找到链接)）LTCD-0025全长 （一般向）[](./シンソウダイバー.md)[シンソウダイバー](./シンソウダイバー.md)首发日期：2016-08-13 （Comic Market 90 (未找到链接)）LTCD-0026全长 （一般向）[](./Yellow（同人专辑）.md)[YELLOW](./Yellow（同人专辑）.md)首发日期：2016-08-13 （Comic Market 90 (未找到链接)）LTCD-0027精选集 （一般向）[](./ヒミツパビリオン.md)[ヒミツパビリオン](./ヒミツパビリオン.md)首发日期：2016-12-29 （Comic Market 91 (未找到链接)）LTCD-0028全长 （一般向）[](./GRAY（同人专辑）.md)[GRAY](./GRAY（同人专辑）.md)首发日期：2017-08-11 （Comic Market 92 (未找到链接)）LTCD-0029全长、​精选集 （一般向）[](./TRIANGLE（Liz_Triangle）.md)[TRIANGLE](./TRIANGLE（Liz_Triangle）.md)首发日期：2017-12-29 （Comic Market 93 (未找到链接)）LTCD-0030全长 （一般向）[](./STARTER_LIZ_TRIANGLE_BEST.md)[STARTER LIZ TRIANGLE BEST](./STARTER_LIZ_TRIANGLE_BEST.md)首发日期：2022-03-20 （博麗神社例大祭 in 新潟1 (未找到链接)）LTCD-0032精选集 （一般向）[](./RETURNER（Liz_Triangle）.md)[RETURNER](./RETURNER（Liz_Triangle）.md)首发日期：2022-05-08 （第十九回 博麗神社例大祭 (未找到链接)）LTCD-0033全长 （一般向）[](./White（Liz_Triangle）.md)[White](./White（Liz_Triangle）.md)首发日期：2023-08-13 （Comic Market 102 (未找到链接)）LTCD-0034混音集 （一般向）[](./サイレンスムジカ.md)[サイレンスムジカ](./サイレンスムジカ.md)首发日期：2023-11-12 （第十回 博麗神社秋季例大祭 (未找到链接)）全长 （一般向）初发布时为DL下载卡，至C103上才发布CD版。
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -148,6 +154,7 @@ Liz Triangle（同人社团，同人音乐社团） - Liz Triangle（りすと�
 </table>
 
 
+
 ### Collab
 [](./LR_First_Strike!.md)[LR First Strike!](./LR_First_Strike!.md)首发日期：2009-02-08 （SunshineCreation42 (未找到链接)）LR-0001全长 （一般向）该作品是与 [Like a rabbit](./Like_a_rabbit.md) 合作创作的[](./First_Memory／Next_Memory.md)[First Memory/Next Memory](./First_Memory／Next_Memory.md)首发日期：2016-05-08 （第十三回 博麗神社例大祭 (未找到链接)）ALCD-0001全长、​合作 （一般向）该作品是与 [暁Records](./暁Records.md) 合作创作的[](./シンラトライアングル.md)[シンラトライアングル](./シンラトライアングル.md)首发日期：2023-05-07 （第二十回 博麗神社例大祭 (未找到链接)）SLCD-0001全长、​合作 （一般向）该作品是与 [森羅万象](./森羅万象.md) 合作创作的
 <table><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
@@ -156,6 +163,7 @@ Liz Triangle（同人社团，同人音乐社团） - Liz Triangle（りすと�
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ### 限定シングル &amp; Omake
@@ -170,6 +178,7 @@ Liz Triangle（同人社团，同人音乐社团） - Liz Triangle（りすと�
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ### ピアノシングル
@@ -192,10 +201,12 @@ Liz Triangle（同人社团，同人音乐社团） - Liz Triangle（りすと�
 </table>
 
 
+
 ### Omake
 [](./第20回博麗神社例大祭会場限定おまけCD（森羅万象）.md)[第20回博麗神社例大祭会場限定おまけCD](./第20回博麗神社例大祭会場限定おまけCD（森羅万象）.md)首发日期：2023-05-07 （第二十回 博麗神社例大祭 (未找到链接)）Omake （一般向）该作品是与 [森羅万象](./森羅万象.md) 合作创作的
 <table><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ### 同人视频
@@ -208,9 +219,11 @@ Liz Triangle（同人社团，同人音乐社团） - Liz Triangle（りすと�
 </table>
 
 
+
 ## 相关社团
 森羅万象
 : [kaztora](./kaztora.md)主催的另一社团。
+
 
 ## 参展信息
 

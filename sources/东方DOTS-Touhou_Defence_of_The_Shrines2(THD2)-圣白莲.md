@@ -169,6 +169,7 @@ AvalonStudioOfficial
 [](./文件-THD2圣白莲.png.md)
   
 
+
 ## 目录
 
 - [1 角色定位](#角色定位)
@@ -189,10 +190,12 @@ AvalonStudioOfficial
 
 
 
+
 ## 角色定位
   
 核心 - 控制 - 耐久 - 先手 - 辅助
   
+
 
 ## 技能介绍
 
@@ -667,6 +670,7 @@ AvalonStudioOfficial
 </td></tr></tbody></table>
 
 
+
 ## 天赋树
 
 
@@ -705,25 +709,30 @@ AvalonStudioOfficial
 </td></tr></tbody></table>
 
 
+
 ### 出门装备
 ```
 [](./文件-THD2木盾.png.md) [](./文件-THD2新月头饰.png.md) [](./文件-THD2爱人卡.png.md) [](./文件-THD2思兼生命药.png.md)
 ```
+
 
 ### 前期装备
 ```
 [](./文件-THD2博丽供奉箱.png.md) [](./文件-THD2魔力扫把.png.md) [](./文件-THD2护士人偶.png.md)
 ```
 
+
 ### 核心装备
 ```
 [](./文件-THD2魔力扫把.png.md) [](./文件-THD2天界之桃.png.md) [](./文件-THD2月面之弓弦.png.md) [](./文件-THD2亡灵送行提灯.png.md) [](./文件-THD2魔人经卷.png.md)
 ```
 
+
 ### 可选装备
 ```
 [](./文件-THD2油库里之杖.png.md) [](./文件-THD2龙星.png.md) [](./文件-THD2博丽神社护身符.png.md) [](./文件-THD2神枪冈格尼尔.png.md) [](./文件-THD2念缚灵的船勾.png.md) [](./文件-THD2破魔净灵札.png.md)
 ```
+
 
 ## 技能加点
 
@@ -871,6 +880,7 @@ AvalonStudioOfficial
 </td></tr></tbody></table>
 
 
+
 ## 台词
 
 <table>
@@ -942,6 +952,7 @@ AvalonStudioOfficial
 </p>
 </td></tr>
 </tbody></table>
+
 
 
 ## 教学视频

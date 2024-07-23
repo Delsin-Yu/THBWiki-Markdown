@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-身近な法律バラエティ白黒つけまSHOW封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/2/2d/%E8%BA%AB%E8%BF%91%E3%81%AA%E6%B3%95%E5%BE%8B%E3%83%90%E3%83%A9%E3%82%A8%E3%83%86%E3%82%A3%E7%99%BD%E9%BB%92%E3%81%A4%E3%81%91%E3%81%BESHOW%E5%B0%81%E9%9D%A2.jpg/224px-%E8%BA%AB%E8%BF%91%E3%81%AA%E6%B3%95%E5%BE%8B%E3%83%90%E3%83%A9%E3%82%A8%E3%83%86%E3%82%A3%E7%99%BD%E9%BB%92%E3%81%A4%E3%81%91%E3%81%BESHOW%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="224" srcset="https://upload.thwiki.cc/thumb/2/2d/%E8%BA%AB%E8%BF%91%E3%81%AA%E6%B3%95%E5%BE%8B%E3%83%90%E3%83%A9%E3%82%A8%E3%83%86%E3%82%A3%E7%99%BD%E9%BB%92%E3%81%A4%E3%81%91%E3%81%BESHOW%E5%B0%81%E9%9D%A2.jpg/336px-%E8%BA%AB%E8%BF%91%E3%81%AA%E6%B3%95%E5%BE%8B%E3%83%90%E3%83%A9%E3%82%A8%E3%83%86%E3%82%A3%E7%99%BD%E9%BB%92%E3%81%A4%E3%81%91%E3%81%BESHOW%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/2/2d/%E8%BA%AB%E8%BF%91%E3%81%AA%E6%B3%95%E5%BE%8B%E3%83%90%E3%83%A9%E3%82%A8%E3%83%86%E3%82%A3%E7%99%BD%E9%BB%92%E3%81%A4%E3%81%91%E3%81%BESHOW%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="400" data-file-height="400"></a><div class="cover-char">角色：<a href="./风见幽香.md" title="风见幽香">风见幽香</a>，<a href="./莉莉霍瓦特.md" title="莉莉霍瓦特">莉莉霍瓦特</a>，<a href="./秋穰子.md" title="秋穰子">秋穰子</a>，<a href="./蕾蒂·霍瓦特洛克.md" title="蕾蒂·霍瓦特洛克">蕾蒂·霍瓦特洛克</a>，<a href="./爱丽丝·玛格特洛依德.md" title="爱丽丝·玛格特洛依德">爱丽丝·玛格特洛依德</a>，<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a>，<a href="./森近霖之助.md" title="森近霖之助">森近霖之助</a>，<a href="./四季映姬·夜摩仙那度.md" title="四季映姬·夜摩仙那度">四季映姬·夜摩仙那度</a></div></td>
@@ -17,9 +18,11 @@
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=962019">蜜瓜</a>，<a rel="nofollow" class="external text" href="http://www.dlsite.com/home/work/=/product_id/RJ116667.html">DLsite</a></td></tr></tbody></table>
 
 
+
 ## Staff
 Scenario
 : 八神翔太 (未找到链接)
+
 
 ## 试听
   
@@ -27,9 +30,11 @@ Scenario
 
   
 
+
 ## 曲目列表
 
 <table></table>
+
 
 
 ## 评论

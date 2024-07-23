@@ -9,6 +9,7 @@
 本作品部分内容由 **人工智能辅助创作** ，  
 可能存在准确性及知识产权等问题，请注意甄别。  
 涉及部分： **插画** 
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-A.I._love_you封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/7/73/A.I._love_you%E5%B0%81%E9%9D%A2.jpg/161px-A.I._love_you%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="161" height="224" srcset="https://upload.thwiki.cc/thumb/7/73/A.I._love_you%E5%B0%81%E9%9D%A2.jpg/241px-A.I._love_you%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/7/73/A.I._love_you%E5%B0%81%E9%9D%A2.jpg/322px-A.I._love_you%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="863" data-file-height="1200"></a><div class="cover-char">角色：<a href="./宇佐见堇子.md" title="宇佐见堇子">宇佐见堇子</a></div></td>
@@ -17,10 +18,13 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/puzukith/status/1568223290870890496">https://twitter.com/puzukith/status/1568223290870890496</a></td></tr></tbody></table>
 
 A.I. love you（同人志，相乗り回転ブランコ，2022） - 2022年9月11日 由 相乗り回転ブランコ 于 科学世纪的露天咖啡座11 发布的小说同人志，A6尺寸一共28页，登场人物有 宇佐见堇子，分级为 一般向
+
 ## 预览
+
 ## Staff
 - [卯月秋千](./卯月秋千.md)
 - Midjourney×心葉御影 (未找到链接)
+
 
 ## 评论
 

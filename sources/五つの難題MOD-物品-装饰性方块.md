@@ -4,6 +4,7 @@
 
 くろあんこ | 五つの難題MOD
 
+
 ## 弹幕工作台
 
 <table>
@@ -22,6 +23,7 @@
 会发出等级15的光</td></tr><tr><td style="width:120px;padding-left:7px;"><b>备注</b></td><td></td></tr></tbody></table>
 
 
+
 ## 激光工作台
 
 <table>
@@ -38,6 +40,7 @@
 </tr>
 </tbody></table></td></tr><tr><td style="width:120px;padding-left:7px;"><b>功能</b></td><td>通过激光、蓝点（得分道具）和红点（灵力提升道具）合成弹幕或升级弹幕，详见<a href="./五つの難題MOD-工作台说明.md" title="五つの難題MOD/工作台说明">模组工作台使用说明</a><br>
 会发出等级14的光</td></tr><tr><td style="width:120px;padding-left:7px;"><b>备注</b></td><td></td></tr></tbody></table>
+
 
 
 ## 小神灵

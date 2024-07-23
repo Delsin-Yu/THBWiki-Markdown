@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 软件信息](#软件信息)
@@ -14,6 +15,7 @@
 - [4 内容页面](#内容页面)
 - [5 评论](#评论)
 - [6 视频](#视频)
+
 
 
 
@@ -36,6 +38,7 @@
 <tbody><tr><th colspan="2">配置需求</th></tr>
 <tr><td style="width:120px;padding-left:7px;"><b>操作系统</b></td><td>Windows 2000/XP/Vista</td></tr><tr><td style="width:120px;padding-left:7px;"><b>CPU</b></td><td>Pentium4 540以上/AthlonXP 3200+以上</td></tr><tr><td style="width:120px;padding-left:7px;"><b>内存</b></td><td>512MB以上</td></tr><tr><td style="width:120px;padding-left:7px;"><b>显示卡</b></td><td>nVidia GeForceFX5700/ATi RADEON8500/i945G Express 以上</td></tr><tr><td style="width:120px;padding-left:7px;"><b>硬盘需求</b></td><td>600MB以上空闲空间</td></tr><tr><td style="width:120px;padding-left:7px;"><b>其他</b></td><td>显存64MB以上</td></tr>
 </tbody></table>
+
 
 
 ## Staff
@@ -74,9 +77,10 @@ Sound Effects
 Music
 : みょん （[MyonMyon](./MyonMyon.md)）
 
+
 ## 游戏介绍
   
- **东方梦终剧　～ 隐瞒的结局** （東方夢終劇（とうほうむついげき） ～ Concealed the Conclusion、Touhou Mutsuigeki）是[danmaq](./Danmaq.md)制作的二次同人弹幕游戏，使用东方弹幕风 (未找到链接)平台，之后使用[Microsoft XNA](https://en.wikipedia.org/wiki/zh:XNA_Game_Studio_Express)重制。这是[danmaq](./Danmaq.md)的第二部东方同人作品，第一部则为东方时封城 (未找到链接)。
+ **东方梦终剧　～ 隐瞒的结局** （東方夢終劇（とうほうむついげき） ～ Concealed the Conclusion、Touhou Mutsuigeki）是[danmaq](./Danmaq.md)制作的二次同人弹幕游戏，使用东方弹幕风 (未找到链接)平台，之后使用[Microsoft XNA](https://en.wikipedia.org/wiki/zh:XNA_Game_Studio_Express)重制。这是[danmaq](./Danmaq.md)的第二部东方同人作品，第一部则为[东方时封城](./东方时封城.md)。
   
   
 这是幻想乡里普通的一天，直到魔理沙发现灵梦消失以及神社上锁了为止。
@@ -84,6 +88,7 @@ Music
   
 使用四个不同的装备以及阴阳玉，从四条不同的途径闯过6关以及两个EX关卡，来察看这个催泪的故事。
   
+
 
 ## 内容页面
 - [游戏设定与剧情](./東方夢終劇_～_Concealed_the_Conclusion-设定与剧情.md)
@@ -93,10 +98,12 @@ Music
 - [符卡](./東方夢終劇_～_Concealed_the_Conclusion-符卡.md)
 - 其他相关资料 (未找到链接)
 
+
 ## 评论
   
 2017年7月7日，制作组在游戏官网宣布本游戏可以免费下载。[下载链接（Github）](https://github.com/danmaq/touhou-ctc-danmakufu/releases/tag/v2.01)
   
+
 
 ## 视频
   

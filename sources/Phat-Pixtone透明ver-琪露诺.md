@@ -6,11 +6,13 @@
 
 本页是关于东方Project  
  **相关实体周边 (未找到链接)** 的词条
+
 ## 模型信息
 
 <table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 琪露诺 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>Pixtone透明ver</td></tr><tr><td class="label">角色</td><td><a href="./琪露诺.md" title="琪露诺">琪露诺</a></td></tr><tr><td class="label">尺寸</td><td>40mm</td></tr><tr><td class="label">状态</td><td>已发售</td></tr><tr><td class="label">展会限定</td><td>例大祭8</td></tr><tr><td class="label">售价</td><td>3000円</td></tr><tr><td class="label">首发日期</td><td>2011-05-08</td></tr><tr><td class="label">发售方</td><td><a href="/index.php?title=Phat&amp;action=edit&amp;redlink=1" class="new" title="Phat（页面不存在）">Phat</a></td></tr><tr><td class="label">官网页面</td><td><a rel="nofollow" class="external free" href="http://ameblo.jp/phatcompany/archive1-201102.html">http://ameblo.jp/phatcompany/archive1-201102.html</a></td></tr><tr><td class="label">备注</td><td>与印有Pixtone琪露诺的T恤同捆发售</td></tr></tbody></table>
 
 Phat/Pixtone透明ver/琪露诺（周边） - 琪露诺PVCFigure手办模型
+
 ## 参考图片
 
 

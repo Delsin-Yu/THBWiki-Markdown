@@ -4,8 +4,9 @@
 
 Group of Doujin Game Developers 在 日本东京 举办的 同人游戏Only 全类型同人会议活动，目前共举办了2届
 
-本页是关于 **同人展会 (未找到链接)**   
-及 **相关活动 (未找到链接)** 的词条
+本页是关于 **[同人展会](./同人展会.md#展会类活动)**   
+及 **[相关活动](./相关活动.md)** 的词条
+
 ## 目录
 
 - [1 概述](#概述)
@@ -23,6 +24,7 @@ Group of Doujin Game Developers 在 日本东京 举办的 同人游戏Only 全�
 
 
 
+
 ## 概述
 [](./文件-Group_of_Doujin_Game_Developers_LOGO.png.md)  [](./文件-Group_of_Doujin_Game_Developers_LOGO.png.md)Group of Doujin Game Developers LOGO
   
@@ -31,7 +33,7 @@ Group of Doujin Game Developers 在 日本东京 举办的 同人游戏Only 全�
   
   
   
- **同人游戏** Only全类型 **同人会议类活动 (未找到链接)** 。  
+ **同人游戏** Only全类型 **同人[会议类活动](./会议类活动.md#会议类活动)** 。  
 由[D.N.A.Softwares](./D.N.A.Softwares.md)成员[Ruw](./Ruw.md)所组织。  
   
 在东京举办。  
@@ -52,6 +54,7 @@ Group of Doujin Game Developers 在 日本东京 举办的 同人游戏Only 全�
 主办方： **Group of Doujin Game Developers** （Group of Doujin Game Developers）  
   
 Group of Doujin Game Developers（活动，会议活动） - Group of Doujin Game Developers 在 日本东京 举办的 同人游戏Only 全类型同人会议活动，目前共举办了2届
+
 ## 历届信息
 - 点击届数可进入对应分类页面。
 
@@ -63,6 +66,7 @@ Group of Doujin Game Developers（活动，会议活动） - Group of Doujin Gam
 </tbody></table>
 
 
+
 ## 参与嘉宾
 Group of Doujin Game Developers 第1回脱口秀
 : [ZUN](./ZUN.md)（[上海爱丽丝幻乐团](./上海爱丽丝幻乐团.md) 代表）、[D.N.A.](./D.N.A..md)（[D.N.A. Softwares](./D.N.A.Softwares.md) 代表）、なりたのぶや（[フランスパン](https://ja.wikipedia.org/wiki/フランスパン) 董事）、heppoko（[永久る～ぷ](http://www85.sakura.ne.jp/~loop/) 程序员）、紫雨陽樹（[PlatineDispositif](https://ja.wikipedia.org/wiki/PlatineDispositif) 代表）
@@ -70,9 +74,12 @@ Group of Doujin Game Developers 第1回脱口秀
 Group of Doujin Game Developers 第2回脱口秀
 : HAta（[小松菜屋](http://www.komatsuna-ya.com/index.htm) 代表）、muracha（[EasyGameStation](https://en.wikipedia.org/wiki/EasyGameStation) 成员）、[tbn](./TBN.md)（[大雪戦](./大雪戦.md) 成员）、Fifteen (未找到链接)（[disfact](./disfact.md) 代表）、naoki sagawa（[こびとスタジオ](http://www.angelword.net/kobitostudio/index.html) 代表）
 
+
 ## 演出节目表
+
 ### 第一届
 - 以专题讨论小组的形式，由同人游戏的开发者和管理者根据主题进行的交流及讨论。
+
 
 ### 第二届
 - HAta（小松菜屋 代表）

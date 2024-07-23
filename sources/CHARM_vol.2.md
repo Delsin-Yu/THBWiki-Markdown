@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-CHARM_vol.2封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/1/18/CHARM_vol.2%E5%B0%81%E9%9D%A2.jpg/99px-CHARM_vol.2%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="99" height="140" srcset="https://upload.thwiki.cc/thumb/1/18/CHARM_vol.2%E5%B0%81%E9%9D%A2.jpg/149px-CHARM_vol.2%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/1/18/CHARM_vol.2%E5%B0%81%E9%9D%A2.jpg/199px-CHARM_vol.2%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="568" data-file-height="800"></a><div class="cover-char">角色：<a href="./橙.md" title="橙">橙</a></div></td>
@@ -14,9 +15,12 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/9239130">https://www.pixiv.net/artworks/9239130</a></td></tr></tbody></table>
 
 CHARM vol.2（同人志，フミンバイン，2010） - 2010年3月14日 由 フミンバイン 于 博丽神社例大祭7 发布的漫画同人志，登场人物有 八云紫、八云蓝、橙、因幡天为、娜兹玲、射命丸文、博丽灵梦、洩矢诹访子、伊吹萃香、四季映姬·夜摩仙那度、藤原妹红、上白泽慧音，分级为 一般向
+
 ## 预览
+
 ## Staff
 - [bkub](./bkub.md)
+
 
 ## 评论
 

@@ -20,6 +20,7 @@
 本词条介绍的是超东方LIVE舞台第2届 **超东方LIVE舞台2019** 的曲目信息。
   
 
+
 ## 目录
 
 - [1 第一天](#第一天)
@@ -50,20 +51,35 @@
 
 
 
+
 ## 第一天
+
 ### EastNewSound
+
 ### 舞音KAGURA
+
 ### A-One
+
 ### IRON ATTACK!
+
 ### DiGiTAL WiNG
+
 ### 石鹸屋
+
 ### COOL&amp;CREATE
+
 ## 第二天
+
 ### 幽闭星光
+
 ### 魂音泉
+
 ### 東京アクティブNEETs
+
 ### 森羅万象
+
 ### Alstroemeria Records
+
 ### 豚乙女
 
 <table><tbody><tr><th colspan="2">曲目信息</th></tr><tr><td colspan="2" style="padding-left: 1em;"><div class="floatright"><a href="./文件-縁封面.jpg.md" class="image" title="縁"><img alt="縁" src="https://upload.thwiki.cc/thumb/b/b7/%E7%B8%81%E5%B0%81%E9%9D%A2.jpg/100px-%E7%B8%81%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="100" height="100" srcset="https://upload.thwiki.cc/thumb/b/b7/%E7%B8%81%E5%B0%81%E9%9D%A2.jpg/150px-%E7%B8%81%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/b/b7/%E7%B8%81%E5%B0%81%E9%9D%A2.jpg/200px-%E7%B8%81%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="600" data-file-height="600"></a></div><b><a href="/%E7%B8%81#8" title="縁">響縁</a></b> &#91;04:18&#93;<dl><dd><a href="./縁.md" title="縁">縁</a> （2010-12-30）<br>社团：<a href="./豚乙女.md" title="豚乙女">豚乙女</a><br>编曲：<a href="./コンプ.md" title="コンプ">コンプ</a><br>演唱：<a href="./ランコ.md" title="ランコ">ランコ</a><br>作词：<a href="./コンプ.md" title="コンプ">コンプ</a><br>原曲：<a href="./少女绮想曲_～_Capriccio.md" title="少女绮想曲 ～ Capriccio" unred="">少女綺想曲　～ Capriccio</a><br></dd></dl></td></tr>
@@ -73,6 +89,7 @@
 <tr><th colspan="2"></th></tr><tr><td colspan="2" style="padding-left: 1em;"><div class="floatright"><a href="./文件-大貧民封面.jpg.md" class="image" title="大貧民"><img alt="大貧民" src="https://upload.thwiki.cc/thumb/d/d5/%E5%A4%A7%E8%B2%A7%E6%B0%91%E5%B0%81%E9%9D%A2.jpg/100px-%E5%A4%A7%E8%B2%A7%E6%B0%91%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="100" height="99" srcset="https://upload.thwiki.cc/thumb/d/d5/%E5%A4%A7%E8%B2%A7%E6%B0%91%E5%B0%81%E9%9D%A2.jpg/150px-%E5%A4%A7%E8%B2%A7%E6%B0%91%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/d/d5/%E5%A4%A7%E8%B2%A7%E6%B0%91%E5%B0%81%E9%9D%A2.jpg/200px-%E5%A4%A7%E8%B2%A7%E6%B0%91%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1000" data-file-height="988"></a></div><b><a href="/%E5%A4%A7%E8%B2%A7%E6%B0%91#1" title="大貧民">ソリッド</a></b> &#91;03:07&#93;<dl><dd><a href="./大貧民.md" title="大貧民">大貧民</a> （2018-05-06）<br>社团：<a href="./豚乙女.md" title="豚乙女">豚乙女</a><br>编曲：<a href="./コンプ.md" title="コンプ">コンプ</a><br>演唱：<a href="./ランコ.md" title="ランコ">ランコ</a><br>作词：<a href="./コンプ.md" title="コンプ">コンプ</a><br>原曲：<a href="./今宵是飘逸的利己主义者_～_Egoistic_Flowers..md" title="今宵是飘逸的利己主义者 ～ Egoistic Flowers." unred="">今宵は飄逸なエゴイスト　～ Egoistic Flowers.</a><br></dd></dl></td></tr>
 <tr><th colspan="2"></th></tr><tr><td colspan="2" style="padding-left: 1em;"><div class="floatright"><a href="./文件-黄昏エレジー封面.jpg.md" class="image" title="黄昏エレジー"><img alt="黄昏エレジー" src="https://upload.thwiki.cc/thumb/a/ad/%E9%BB%84%E6%98%8F%E3%82%A8%E3%83%AC%E3%82%B8%E3%83%BC%E5%B0%81%E9%9D%A2.jpg/100px-%E9%BB%84%E6%98%8F%E3%82%A8%E3%83%AC%E3%82%B8%E3%83%BC%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="100" height="97" srcset="https://upload.thwiki.cc/thumb/a/ad/%E9%BB%84%E6%98%8F%E3%82%A8%E3%83%AC%E3%82%B8%E3%83%BC%E5%B0%81%E9%9D%A2.jpg/150px-%E9%BB%84%E6%98%8F%E3%82%A8%E3%83%AC%E3%82%B8%E3%83%BC%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/a/ad/%E9%BB%84%E6%98%8F%E3%82%A8%E3%83%AC%E3%82%B8%E3%83%BC%E5%B0%81%E9%9D%A2.jpg/200px-%E9%BB%84%E6%98%8F%E3%82%A8%E3%83%AC%E3%82%B8%E3%83%BC%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="550" data-file-height="535"></a></div><b><a href="/%E9%BB%84%E6%98%8F%E3%82%A8%E3%83%AC%E3%82%B8%E3%83%BC#7" title="黄昏エレジー">囲い無き世は一期の月影</a></b> &#91;03:07&#93;<dl><dd><a href="./黄昏エレジー.md" title="黄昏エレジー">黄昏エレジー</a> （2010-10-11）<br>社团：<a href="./豚乙女.md" title="豚乙女">豚乙女</a><br>编曲：<a href="./コンプ.md" title="コンプ">コンプ</a><br>演唱：<a href="./ランコ.md" title="ランコ">ランコ</a><br>作词：<a href="./コンプ.md" title="コンプ">コンプ</a><br>原曲：<a href="./竹取飞翔_～_Lunatic_Princess.md" title="竹取飞翔 ～ Lunatic Princess" unred="">竹取飛翔　～ Lunatic Princess</a><br></dd></dl></td></tr>
 <tr><th colspan="2"></th></tr><tr><td colspan="2" style="padding-left: 1em;"><div class="floatright"><a href="./文件-エピタフ封面.png.md" class="image" title="エピタフ"><img alt="エピタフ" src="https://upload.thwiki.cc/thumb/5/5d/%E3%82%A8%E3%83%94%E3%82%BF%E3%83%95%E5%B0%81%E9%9D%A2.png/100px-%E3%82%A8%E3%83%94%E3%82%BF%E3%83%95%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="100" height="99" srcset="https://upload.thwiki.cc/thumb/5/5d/%E3%82%A8%E3%83%94%E3%82%BF%E3%83%95%E5%B0%81%E9%9D%A2.png/150px-%E3%82%A8%E3%83%94%E3%82%BF%E3%83%95%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/5/5d/%E3%82%A8%E3%83%94%E3%82%BF%E3%83%95%E5%B0%81%E9%9D%A2.png/200px-%E3%82%A8%E3%83%94%E3%82%BF%E3%83%95%E5%B0%81%E9%9D%A2.png 2x" data-file-width="900" data-file-height="889"></a></div><b><a href="/%E3%82%A8%E3%83%94%E3%82%BF%E3%83%95#8" title="エピタフ">春の雪</a></b> &#91;02:29&#93;<dl><dd><a href="./エピタフ.md" title="エピタフ">epitaph[エピタフ]</a> （2019-05-05）<br>社团：<a href="./豚乙女.md" title="豚乙女">豚乙女</a><br>编曲：<a href="./コンプ.md" title="コンプ">コンプ</a><br>演唱：<a href="./ランコ.md" title="ランコ">ランコ</a><br>作词：<a href="./コンプ.md" title="コンプ">コンプ</a><br>原曲：<a href="./无何有之乡_～_Deep_Mountain.md" title="无何有之乡 ～ Deep Mountain" unred="">無何有の郷　～ Deep Mountain</a><br></dd></dl></td></tr></tbody></table>
+
 
 
 ### 岸田教团

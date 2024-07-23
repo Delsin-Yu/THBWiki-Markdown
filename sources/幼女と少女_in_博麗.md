@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-幼女と少女_in_博麗封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/f/ff/%E5%B9%BC%E5%A5%B3%E3%81%A8%E5%B0%91%E5%A5%B3_in_%E5%8D%9A%E9%BA%97%E5%B0%81%E9%9D%A2.jpg/140px-%E5%B9%BC%E5%A5%B3%E3%81%A8%E5%B0%91%E5%A5%B3_in_%E5%8D%9A%E9%BA%97%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="140" height="196" srcset="https://upload.thwiki.cc/thumb/f/ff/%E5%B9%BC%E5%A5%B3%E3%81%A8%E5%B0%91%E5%A5%B3_in_%E5%8D%9A%E9%BA%97%E5%B0%81%E9%9D%A2.jpg/210px-%E5%B9%BC%E5%A5%B3%E3%81%A8%E5%B0%91%E5%A5%B3_in_%E5%8D%9A%E9%BA%97%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/f/ff/%E5%B9%BC%E5%A5%B3%E3%81%A8%E5%B0%91%E5%A5%B3_in_%E5%8D%9A%E9%BA%97%E5%B0%81%E9%9D%A2.jpg/280px-%E5%B9%BC%E5%A5%B3%E3%81%A8%E5%B0%91%E5%A5%B3_in_%E5%8D%9A%E9%BA%97%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="607" data-file-height="850"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>，<a href="./八云紫.md" title="八云紫">八云紫</a>，<a href="./伊吹萃香.md" title="伊吹萃香">伊吹萃香</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://percol.blog.shinobi.jp/発行物/紅楼夢_137">http://percol.blog.shinobi.jp/%E7%99%BA%E8%A1%8C%E7%89%A9/%E7%B4%85%E6%A5%BC%E5%A4%A2_137</a></td></tr></tbody></table>
 
 幼女と少女 in 博麗（同人志，PERSONAL COLOR，2008） - 2008年11月2日 由 PERSONAL COLOR 于 东方红楼梦4 发布的漫画同人志，一共26页，登场人物有 博丽灵梦、八云紫、雾雨魔理沙、伊吹萃香、东风谷早苗、洩矢诹访子、爱丽丝·玛格特洛依德、射命丸文，分级为 一般向
+
 ## Staff
 - 桜庭友紀
+
 
 ## 评论
 

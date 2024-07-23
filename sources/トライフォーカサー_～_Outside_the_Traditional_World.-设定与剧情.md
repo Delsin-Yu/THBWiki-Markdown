@@ -4,13 +4,16 @@
 
 東方邪星章製作チーム
 
+
 ## 附带文档
 - [readme](./トライフォーカサー_～_Outside_the_Traditional_World.-设定与剧情-readme.md)
 - [omake](./トライフォーカサー_～_Outside_the_Traditional_World.-设定与剧情-omake.md)
 - [素材相关](./トライフォーカサー_～_Outside_the_Traditional_World.-设定与剧情-素材.md)
 
+
 ## 游戏对话
 - [游戏对话](./トライフォーカサー_～_Outside_the_Traditional_World.-设定与剧情-游戏对话.md)
+
 
 ## 其他
 - 游戏内manual (未找到链接)&lt;===和文花帖DS的manual几乎一样，懒得录入了。

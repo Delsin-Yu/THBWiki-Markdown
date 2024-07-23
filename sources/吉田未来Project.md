@@ -4,7 +4,8 @@
 
 吉田未来Project (Yoshida Mirai Project) ，主要制作 同人音乐 的日本同人社团，当前状态为 休止
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -21,19 +22,24 @@
 
 
 
+
 ## 社团信息
 [](./文件-吉田未来Projectbanner.gif.md)  [](./文件-吉田未来Projectbanner.gif.md)banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> 吉田未来Project (Yoshida Mirai Project) </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://sound.jp/yoshipro/">http://sound.jp/yoshipro/</a> </td></tr></tbody></table>
 
 吉田未来Project（同人社团，同人音乐社团） - 吉田未来Project (Yoshida Mirai Project) ，主要制作 同人音乐 的日本同人社团，当前状态为 休止
+
 ## 介绍
   
 吉田未来Project是由音乐社团 **吉田音楽製作所** 和 **未来研究会** 成员组成的游戏音乐再编曲社团。
   
 
+
 ## 成员名单
+
 ## 作品列表
+
 ### 同人专辑
 [](./東方テレポート.md)[東方テレポート](./東方テレポート.md)首发日期：2007-01-21 （こみっく★トレジャー9 (未找到链接)）KTFR-01EP （一般向）[](./東方サナトリウム.md)[東方サナトリウム](./東方サナトリウム.md)首发日期：2007-08-26 （こみっく★トレジャー10 (未找到链接)）KTFR-02全长 （一般向）[](./東方モラトリアム.md)[東方モラトリアム](./東方モラトリアム.md)首发日期：2008-08-16 （Comic Market 74 (未找到链接)）KTFR-04全长 （一般向）[](./東方アンプラグド.md)[東方アンプラグド](./東方アンプラグド.md)首发日期：2009-01-18 （こみっく★トレジャー13 (未找到链接)）KTFR-05全长 （一般向）[](./東方ギムナジウム.md)[東方ギムナジウム](./東方ギムナジウム.md)首发日期：2009-12-30 （Comic Market 77 (未找到链接)）KTFR-06全长 （一般向）[](./Floods_of_Sounds.md)[Floods of Sounds](./Floods_of_Sounds.md)首发日期：2010-03-14 （第七回 博麗神社例大祭 (未找到链接)）KTFR-07全长 （一般向）
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -48,6 +54,7 @@
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 其他信息

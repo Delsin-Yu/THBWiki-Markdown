@@ -4,7 +4,8 @@
 
 the distant journey to you ，于 2013 年成立，主要制作 同人音乐 的美国同人社团，主催是 Veto，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -15,14 +16,17 @@ the distant journey to you ，于 2013 年成立，主要制作 同人音乐 的
 
 
 
+
 ## 社团信息
 [](./文件-The_Distant_Journey_To_You_banner.png.md)  [](./文件-The_Distant_Journey_To_You_banner.png.md)banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> the distant journey to you </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2013年</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="./Veto.md" title="Veto">Veto</a> </td></tr><tr><td><b>地区</b></td><td>美国</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://thedistantjourneytoyou.bandcamp.com/">http://thedistantjourneytoyou.bandcamp.com/</a> </td></tr></tbody></table>
 
 the distant journey to you（同人社团，同人音乐社团） - the distant journey to you ，于 2013 年成立，主要制作 同人音乐 的美国同人社团，主催是 Veto，当前状态为 活动
+
 ## 成员名单
 - [Veto](./Veto.md)
+
 
 ## 作品列表
 [](./Proof_of_Existence.md)[Proof of Existence](./Proof_of_Existence.md)首发日期：2013-12-30 （Comic Market 85 (未找到链接)）DJTY-0001EP （一般向）[](./untitled（the_distant_journey_to_you）.md)[untitled](./untitled（the_distant_journey_to_you）.md)首发日期：2014-08-16 DJTY-0002EP （一般向）该作品是与 [denshūto](./denshūto.md) 合作创作的[](./morningview.md)[morningview](./morningview.md)首发日期：2014-12-29 DJTY-0003、​DJTY-0004全长 （一般向）社团在C88发布了该专辑的remastered版本（即DJTY-0004），并且发布CD版本[](./untitled-2.md)[untitled-2](./untitled-2.md)首发日期：2015-12-30 DJTY-0005EP、​合作 （一般向）该作品是与 [denshūto](./denshūto.md)、​[Hyperdimension!](./Hyperdimension!.md) 合作创作的[](./never_knows_best.md)[never knows best](./never_knows_best.md)首发日期：2016-05-08 （第十三回 博麗神社例大祭 (未找到链接)）单曲 （一般向）[](./untitled_split_3.md)[untitled split 3](./untitled_split_3.md)首发日期：2018-08-10 DJTY-0007EP、​合作 （一般向）该作品是与 [denshūto](./denshūto.md)、​[Hyperdimension!](./Hyperdimension!.md) 合作创作的[](./10th_Anniversary_Demo.md)[10th Anniversary Demo](./10th_Anniversary_Demo.md)首发日期：2023-12-31 （Comic Market 103 (未找到链接)）DJTY-0008Demo （一般向）eventide 封面图片 (未找到链接)eventide (未找到链接)首发日期：未知 - 
@@ -41,6 +45,7 @@ the distant journey to you（同人社团，同人音乐社团） - the distant 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458"></table>
+
 
 
 ## 其他信息

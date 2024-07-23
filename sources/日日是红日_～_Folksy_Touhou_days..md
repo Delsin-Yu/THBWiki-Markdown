@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -36,11 +37,13 @@
 
 
 
+
 ## 基本信息
 
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">日々是紅日　～ Folksy Touhou days.</td></tr><tr><td><b>译名</b></td><td>日日是红日 ～ Folksy Touhou days.</td></tr><tr><td><b>英文译名</b></td><td>Every Day a Red Day ～ Folksy Touhou days.</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>关联</td></tr><tr><td style="padding-left:15px"><b>相关曲</b></td><td><a href="./Theme_of_Eastern_Story.md" title="Theme of Eastern Story" unred="">テーマ・オブ・イースタンストーリー</a></td></tr><tr><td style="padding-left:15px"><b>　来源</b></td><td>幺乐团的历史　～ Akyu's Untouched Score vol.5</td></tr><tr><td style="padding-left:15px"><b>相关曲</b></td><td><a href="./少女绮想曲_～_Capriccio.md" title="少女绮想曲 ～ Capriccio" unred="">少女綺想曲　～ Dream Battle</a></td></tr><tr><td style="padding-left:15px"><b>　来源</b></td><td>东方永夜抄　～ Imperishable Night.</td></tr></tbody></table>
 
 日日是红日 ～ Folksy Touhou days.（曲目） - 由 ZUN 创作的官方曲目，原名 日々是紅日　～ Folksy Touhou days.
+
 ## 出现作品
 
 <table>
@@ -48,10 +51,13 @@
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 音频
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-Folksy_Touhou_days.mp3.md" title="文件:Folksy Touhou days.mp3">Folksy Touhou days.mp3</a><br><audio src="https://upload.thwiki.cc/7/76/Folksy_Touhou_days.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track01.cda（CD）</td></tr></tbody></table>
+
 
 
 ### 视频
@@ -66,6 +72,7 @@
 </td></tr></tbody></table>
 
 
+
 ## 说明文本
 - [查看日文原文](./日日是红日_～_Folksy_Touhou_days.-说明文本.md)
 
@@ -78,8 +85,11 @@
   
 是一首将博丽神社那种日常般有些静不下心来的不安定感，  
 与乐天派的东方感交织而成的曲子。
+
 ## 其他资料
+
 ### 乐理资讯
+
 #### 使用乐器
 - SD-90 Romantic Tp
 - SD-90 Loose Lips
@@ -95,6 +105,7 @@
 - Triebwerk Drum Kit 6
 - Groove Agent 5 Elementic
 - 音・辞典 VOL.3 A3_03023 複数の雷 2
+
 
 ### 分析考据
   
@@ -125,6 +136,7 @@
   - 日语「<ruby lang="ja"><rb>東方</rb><rp> (</rp><rt>とうほう</rt><rp>) </rp></ruby>
 」的罗马字转写。
     - [东方Project](./东方Project.md)
+
 
 
 

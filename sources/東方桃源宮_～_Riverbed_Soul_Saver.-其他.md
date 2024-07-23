@@ -4,6 +4,7 @@
 
 東方邪星章製作チーム
 
+
 ## 难度标题及说明文字
 
 <table>
@@ -89,6 +90,7 @@
 <td><center><big><big>REPLAY</big></big><br>異界記錄</center>
 </td></tr>
 </tbody></table>
+
 
 
 ## 关卡标题

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-IdoL.封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/4/46/IdoL.%E5%B0%81%E9%9D%A2.png/157px-IdoL.%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="157" height="224" srcset="https://upload.thwiki.cc/thumb/4/46/IdoL.%E5%B0%81%E9%9D%A2.png/236px-IdoL.%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/4/46/IdoL.%E5%B0%81%E9%9D%A2.png/315px-IdoL.%E5%B0%81%E9%9D%A2.png 2x" data-file-width="996" data-file-height="1416"></a><div class="cover-char">角色：<a href="./庭渡久侘歌.md" title="庭渡久侘歌">庭渡久侘歌</a>，<a href="./山城高岭.md" title="山城高岭">山城高岭</a></div></td>
@@ -18,9 +19,12 @@ IdoL.（同人志，茜根屋，2023） - 2023年11月12日 由 茜根屋 于 �
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=2139851">蜜瓜</a></td></tr></tbody></table>
 
 
+
 ## 预览
+
 ## Staff
 - kajatony (未找到链接)
+
 
 ## 评论
   

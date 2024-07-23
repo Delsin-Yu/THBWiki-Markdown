@@ -4,7 +4,8 @@
 
 sugilight (スギライト) ，主要制作 同人志 的日本同人社团，主催是 スギ，当前状态为 休止
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -20,18 +21,22 @@ sugilight (スギライト) ，主要制作 同人志 的日本同人社团，�
 
 
 
+
 ## 社团信息
 文件:sugilightbanner.jpg (未找到链接)  banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> sugilight (スギライト) </td></tr><tr><td><b>主要作品类型</b></td><td>同人志</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=%E3%82%B9%E3%82%AE&amp;action=edit&amp;redlink=1" class="new" title="スギ（页面不存在）">スギ</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://www5.pf-x.net/~sugilight/">http://www5.pf-x.net/~sugilight/</a> <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><small>（<a rel="nofollow" class="external text" href="https://web.archive.org/web/20160720163330/http://www5.pf-x.net/~sugilight/">缓存页面</a>）</small><br><a rel="nofollow" class="external free" href="http://sugilight.jugem.jp/">http://sugilight.jugem.jp/</a> （Blog）<span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><small>（<a rel="nofollow" class="external text" href="https://web.archive.org/web/20151021201816/http://sugilight.jugem.jp/">缓存页面</a>）</small><br><a rel="nofollow" class="external free" href="http://www.sugi.eeejp.com/">http://www.sugi.eeejp.com/</a> （旧官网）<span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><small>（<a rel="nofollow" class="external text" href="https://web.archive.org/web/20090904164956/http://www.sugi.eeejp.com/">缓存页面</a>）</small></td></tr></tbody></table>
 
 sugilight（同人社团，同人志社团） - sugilight (スギライト) ，主要制作 同人志 的日本同人社团，主催是 スギ，当前状态为 休止
+
 ## 成员名单
 - スギ (未找到链接)
 
 : [Tumblr: sugi-o](https://sugi-o.tumblr.com/), [Twitter: @sugilight](https://twitter.com/sugilight), [Pixiv ID: 20146](https://www.pixiv.net/users/20146)
 
+
 ## 作品列表
+
 ### 同人志
 Twincast 封面图片 (未找到链接)Twincast (未找到链接)首发日期：未知 - Blood Moon 封面图片 (未找到链接)Blood Moon (未找到链接)首发日期：未知 - 月を射る夜 封面图片 (未找到链接)月を射る夜 (未找到链接)首发日期：未知 - メリーと紅い屋根の大きなお家 封面图片 (未找到链接)メリーと紅い屋根の大きなお家 (未找到链接)首发日期：未知 - COLORFUL LIBRARY 封面图片 (未找到链接)COLORFUL LIBRARY (未找到链接)首发日期：未知 - 東方女子高生~冬の食卓~ 封面图片 (未找到链接)東方女子高生~冬の食卓~ (未找到链接)首发日期：未知 - sugilight free paper 封面图片 (未找到链接)sugilight free paper (未找到链接)首发日期：未知 - 小鳥の頃&lt;上&gt; 封面图片 (未找到链接)小鳥の頃＜上＞ (未找到链接)首发日期：未知 - 東方女子高生~春の日差し~ 封面图片 (未找到链接)東方女子高生~春の日差し~ (未找到链接)首发日期：未知 - 東方女子高生 梅雨の帰り道 封面图片 (未找到链接)東方女子高生 梅雨の帰り道 (未找到链接)首发日期：未知 - 秋と幻想 封面图片 (未找到链接)秋と幻想 (未找到链接)首发日期：未知 - [](./総天然色映像解説本_ラストリモート.md)[総天然色映像解説本 ラストリモート](./総天然色映像解説本_ラストリモート.md)首发日期：2011-12-30 （Comic Market 81 (未找到链接)）其他 （一般向）该作品是与 [君の美術館](./君の美術館.md)、​[Antp](./Antp.md) 合作创作的 24&#160;页君の美術館VJ视频解说知識の落葉 封面图片 (未找到链接)知識の落葉 (未找到链接)首发日期：未知 - 悪魔のナイフ 封面图片 (未找到链接)悪魔のナイフ (未找到链接)首发日期：未知 - 小鳥の頃&lt;中&gt; 封面图片 (未找到链接)小鳥の頃＜中＞ (未找到链接)首发日期：未知 - 魔女の尊厳 封面图片 (未找到链接)魔女の尊厳 (未找到链接)首发日期：未知 - 揺れる秒針 封面图片 (未找到链接)揺れる秒針 (未找到链接)首发日期：未知 - プレスメモリアル 封面图片 (未找到链接)プレスメモリアル (未找到链接)首发日期：未知 - がんばれ咲夜さん 封面图片 (未找到链接)がんばれ咲夜さん (未找到链接)首发日期：未知 - 小鳥の頃&lt;下&gt; 封面图片 (未找到链接)小鳥の頃＜下＞ (未找到链接)首发日期：未知 - 
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -55,6 +60,7 @@ Twincast 封面图片 (未找到链接)Twincast (未找到链接)首发日期：
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458"></table>
+
 
 
 ## 参展信息

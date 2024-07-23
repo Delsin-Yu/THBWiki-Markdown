@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -38,11 +39,13 @@
 
 
 
+
 ## 基本信息
 
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">妖怪の山　～ Mysterious Mountain</td></tr><tr><td><b>译名</b></td><td>妖怪之山 ～ Mysterious Mountain</td></tr><tr><td><b>英文译名</b></td><td>Youkai Mountain ~ Mysterious Mountain</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 妖怪之山 ～ Mysterious Mountain（曲目） - 由 ZUN 创作的官方曲目，原名 妖怪の山　～ Mysterious Mountain
+
 ## 出现作品
 
 <table>
@@ -52,7 +55,9 @@
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 东方风神录
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th10_09.mp3.md" title="文件:th10 09.mp3">th10_09.mp3</a><br><audio src="https://upload.thwiki.cc/e/e4/th10_09.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>BGM\th10_09.wav</td></tr><tr><td><b>BGMForAll</b></td><td><div class="mw-collapsible mw-collapsed">
@@ -61,6 +66,7 @@
 <div class="mw-collapsible-content">BGM = 妖怪の山 ～ Mysterious Mountain, 0xAC61710, 0x193800, 0xADF4F10, 0xC7F600</div>
 </div>
 </td></tr></tbody></table>
+
 
 
 ### 东方文花帖DS
@@ -73,6 +79,7 @@
 </td></tr></tbody></table>
 
 
+
 ### 弹幕天邪鬼
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th14.3_09.mp3.md" title="文件:th14.3 09.mp3">th14.3_09.mp3</a><br><audio src="https://upload.thwiki.cc/0/0d/th14.3_09.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>BGM\th14.3_09.wav</td></tr><tr><td><b>BGMForAll</b></td><td><div class="mw-collapsible mw-collapsed">
@@ -83,7 +90,9 @@
 </td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 东方风神录
 - Music Room (未找到链接)
 
@@ -93,6 +102,7 @@
 　这次的着重点则更偏向于日本自古栖居的妖怪“天狗”的形象。  
 　如果莫名其妙地开始产生怀旧情结的话那你也就成为妖怪的一员了。  
 　啊啊，真是令人怀念啊。
+
 ### 东方文花帖DS
 - Music Room (未找到链接)
 
@@ -102,12 +112,16 @@
 　努力提高各自的拍照技术罢了呀。  
 　虽然姑且算是最终级别但绝不表示难度很高  
 　所以能来到这里的玩家应该都能轻松应对的吧。
+
 ### 弹幕天邪鬼
 - Music Room (未找到链接)
 
 　重新收录自东方风神录。
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
   
  **妖怪の山　～ Mysterious Mountain**  妖怪之山　～ Mysterious Mountain
@@ -135,6 +149,7 @@
     - 为霍夫哈奈斯的第二交响曲，也是他的成名作品。
     - 根据他的说法，山是一种符号，象征探索神明和灵性。
     - 对一些人来说它如鬼如魅，高不可测，对一些人来说它虽是孤山一座，却具有支配性的力量。
+
 
 
 

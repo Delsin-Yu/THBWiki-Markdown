@@ -4,11 +4,14 @@
 
 SlimeSmile
 
+
 ## 附带文档
 - [readme](./东方百花宴～the_Flower_Shooter-设定与剧情-readme.md)
 
+
 ## 故事背景
 - [故事背景](./东方百花宴～the_Flower_Shooter-设定与剧情-故事背景.md)
+
 
 ## 游戏对话
 - [射命丸文 游戏对话/结局](./东方百花宴～the_Flower_Shooter-设定与剧情-射命丸文.md)

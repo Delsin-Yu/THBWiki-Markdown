@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-仙-G.S-封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/b/b7/%E4%BB%99-G.S-%E5%B0%81%E9%9D%A2.jpg/158px-%E4%BB%99-G.S-%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="158" height="224" srcset="https://upload.thwiki.cc/thumb/b/b7/%E4%BB%99-G.S-%E5%B0%81%E9%9D%A2.jpg/238px-%E4%BB%99-G.S-%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/b/b7/%E4%BB%99-G.S-%E5%B0%81%E9%9D%A2.jpg/317px-%E4%BB%99-G.S-%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="600" data-file-height="848"></a><div class="cover-char">角色：<a href="./霍青娥.md" title="霍青娥">霍青娥</a></div></td>
@@ -14,9 +15,11 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://raptor7.blog.fc2.com/blog-entry-22.html">http://raptor7.blog.fc2.com/blog-entry-22.html</a></td></tr></tbody></table>
 
 仙-G.S-（同人志，武器櫃，2012） - 2012年10月20日 由 武器櫃 于 东方枫华宴3 发布的画集同人志，B5尺寸一共8页，登场人物有 霍青娥、茨木华扇，分级为 一般向
+
 ## Staff
 作者
 : ラプトル７
+
 
 ## 评论
 

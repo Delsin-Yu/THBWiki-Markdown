@@ -4,12 +4,14 @@
 
 ZUN
 
+
 ## 简介
   
 本页是在2013年9月27-29日，ZUN氏作为嘉宾参加亚特兰大第19回Anime Weekend Atlanta座谈会的谈话内容转述，并非完整记录。
   
 
 - 翻译：atrican，Sorpfenvier
+
 
 ## 目录
 
@@ -27,7 +29,9 @@ ZUN
 
 
 
+
 ## 中文翻译
+
 ### Helvetica版
 - 原文地址：[A Weekend of a Lifetime](https://www.shrinemaiden.org/2014/01/07/a-weekend-of-a-lifetime-anime-weekend-atlanta-2013/)
 
@@ -355,6 +359,7 @@ Solamarle
 ZUN
 : 不知道。
 
+
 ### Ruka版
 - ZUN在亚特兰大漫展的第一项官方活动是回答观众提问。以下是一位美国东方爱好者Ruka对第一日座谈内容的记录。
 
@@ -582,6 +587,7 @@ ZUN不会去了解二设人物，因为不想受二设影响。
   
 ZUN在周六和周日[^cite_note-2]（亚特兰大时间）还有两个座谈活动。在展会期间，ZUN会和普通的观众一样到处走动，他说遇到他请打声招呼。
   
+
 
 ### Chang Kim版
 - 原文地址：[ZUN AWA Panel: Recap](http://www.wordofthenerdonline.com/zun-awa-panel-recap/)

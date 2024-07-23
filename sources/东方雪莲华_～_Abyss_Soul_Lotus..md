@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 软件信息](#软件信息)
@@ -24,6 +25,7 @@
 - [7 评论](#评论)
 - [8 正式版PV](#正式版PV)
 - [9 词条导航](#词条导航)
+
 
 
 
@@ -47,6 +49,7 @@
 </tbody></table>
 
 
+
 ## Staff
 主催
 : 北欧晨风
@@ -68,6 +71,7 @@ DD
 文案
 : 深海盐Salt
 
+
 ## 剧情与对话
 - [故事背景](./东方雪莲华_～_Abyss_Soul_Lotus.-故事背景.md)
 
@@ -75,12 +79,15 @@ DD
 具体的游戏剧情请到游戏中亲自体验，或参照以下的词条：
   
 
+
 ## 角色
+
 ### 自机
 
 <table><tbody><tr><td style="min-width:40px;" rowspan="2"><div class="center"><div class="floatnone"><a href="./文件-雪莲华_紫和灵梦.png.md" class="image" title="八云紫&amp;博丽灵梦"><img alt="八云紫&amp;博丽灵梦" src="https://upload.thwiki.cc/thumb/6/64/%E9%9B%AA%E8%8E%B2%E5%8D%8E_%E7%B4%AB%E5%92%8C%E7%81%B5%E6%A2%A6.png/40px-%E9%9B%AA%E8%8E%B2%E5%8D%8E_%E7%B4%AB%E5%92%8C%E7%81%B5%E6%A2%A6.png" decoding="async" loading="lazy" width="40" height="30" srcset="https://upload.thwiki.cc/thumb/6/64/%E9%9B%AA%E8%8E%B2%E5%8D%8E_%E7%B4%AB%E5%92%8C%E7%81%B5%E6%A2%A6.png/60px-%E9%9B%AA%E8%8E%B2%E5%8D%8E_%E7%B4%AB%E5%92%8C%E7%81%B5%E6%A2%A6.png 1.5x, https://upload.thwiki.cc/thumb/6/64/%E9%9B%AA%E8%8E%B2%E5%8D%8E_%E7%B4%AB%E5%92%8C%E7%81%B5%E6%A2%A6.png/80px-%E9%9B%AA%E8%8E%B2%E5%8D%8E_%E7%B4%AB%E5%92%8C%E7%81%B5%E6%A2%A6.png 2x" data-file-width="1280" data-file-height="960"></a></div></div></td> <td style="width:150px;padding:3px 9px 3px 7px;" rowspan="2">境界的妖怪<br>乐园的巫女 </td><td style="width:180px;padding:3px 9px 3px 7px;" rowspan="2">八云紫&amp;博丽灵梦</td><td style="width:180px;padding:3px 9px 3px 7px;"> <a href="./八云紫.md" title="八云紫">八云紫</a></td><td rowspan="2"><a href="./东方雪莲华_～_Abyss_Soul_Lotus.-八云紫&博丽灵梦.md" title="东方雪莲华 ～ Abyss Soul Lotus./八云紫&amp;博丽灵梦">游戏对话/结局</a><br><a href="./东方雪莲华_～_Abyss_Soul_Lotus.-八云紫&博丽灵梦_ExStory.md" title="东方雪莲华 ～ Abyss Soul Lotus./八云紫&amp;博丽灵梦 ExStory">Extra游戏对话</a></td></tr><tr><td style="width:150px;padding:3px 9px 3px 7px;"><a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></td></tr>
 <tr><td style="min-width:40px;" rowspan="2"><div class="center"><div class="floatnone"><a href="./文件-雪莲华_隐岐奈和魔理沙.png.md" class="image" title="摩多罗隐岐奈&amp;雾雨魔理沙"><img alt="摩多罗隐岐奈&amp;雾雨魔理沙" src="https://upload.thwiki.cc/thumb/2/28/%E9%9B%AA%E8%8E%B2%E5%8D%8E_%E9%9A%90%E5%B2%90%E5%A5%88%E5%92%8C%E9%AD%94%E7%90%86%E6%B2%99.png/40px-%E9%9B%AA%E8%8E%B2%E5%8D%8E_%E9%9A%90%E5%B2%90%E5%A5%88%E5%92%8C%E9%AD%94%E7%90%86%E6%B2%99.png" decoding="async" loading="lazy" width="40" height="30" srcset="https://upload.thwiki.cc/thumb/2/28/%E9%9B%AA%E8%8E%B2%E5%8D%8E_%E9%9A%90%E5%B2%90%E5%A5%88%E5%92%8C%E9%AD%94%E7%90%86%E6%B2%99.png/60px-%E9%9B%AA%E8%8E%B2%E5%8D%8E_%E9%9A%90%E5%B2%90%E5%A5%88%E5%92%8C%E9%AD%94%E7%90%86%E6%B2%99.png 1.5x, https://upload.thwiki.cc/thumb/2/28/%E9%9B%AA%E8%8E%B2%E5%8D%8E_%E9%9A%90%E5%B2%90%E5%A5%88%E5%92%8C%E9%AD%94%E7%90%86%E6%B2%99.png/80px-%E9%9B%AA%E8%8E%B2%E5%8D%8E_%E9%9A%90%E5%B2%90%E5%A5%88%E5%92%8C%E9%AD%94%E7%90%86%E6%B2%99.png 2x" data-file-width="1280" data-file-height="960"></a></div></div></td> <td style="width:150px;padding:3px 9px 3px 7px;" rowspan="2">究极的绝对秘神<br>普通的魔法使 </td><td style="width:180px;padding:3px 9px 3px 7px;" rowspan="2">摩多罗隐岐奈&amp;雾雨魔理沙</td><td style="width:180px;padding:3px 9px 3px 7px;"> <a href="./摩多罗隐岐奈.md" title="摩多罗隐岐奈">摩多罗隐岐奈</a></td><td rowspan="2"><a href="./东方雪莲华_～_Abyss_Soul_Lotus.-摩多罗隐岐奈&雾雨魔理沙.md" title="东方雪莲华 ～ Abyss Soul Lotus./摩多罗隐岐奈&amp;雾雨魔理沙">游戏对话/结局</a><br><a href="./东方雪莲华_～_Abyss_Soul_Lotus.-摩多罗隐岐奈&雾雨魔理沙_ExStory.md" title="东方雪莲华 ～ Abyss Soul Lotus./摩多罗隐岐奈&amp;雾雨魔理沙 ExStory">Extra游戏对话</a></td></tr><tr><td style="width:150px;padding:3px 9px 3px 7px;"><a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a></td></tr>
 <tr><td style="min-width:40px;" rowspan="2"><div class="center"><div class="floatnone"><a href="./文件-雪莲华_神子和白莲.png.md" class="image" title="丰聪耳神子&amp;圣白莲"><img alt="丰聪耳神子&amp;圣白莲" src="https://upload.thwiki.cc/thumb/0/0b/%E9%9B%AA%E8%8E%B2%E5%8D%8E_%E7%A5%9E%E5%AD%90%E5%92%8C%E7%99%BD%E8%8E%B2.png/40px-%E9%9B%AA%E8%8E%B2%E5%8D%8E_%E7%A5%9E%E5%AD%90%E5%92%8C%E7%99%BD%E8%8E%B2.png" decoding="async" loading="lazy" width="40" height="31" srcset="https://upload.thwiki.cc/thumb/0/0b/%E9%9B%AA%E8%8E%B2%E5%8D%8E_%E7%A5%9E%E5%AD%90%E5%92%8C%E7%99%BD%E8%8E%B2.png/60px-%E9%9B%AA%E8%8E%B2%E5%8D%8E_%E7%A5%9E%E5%AD%90%E5%92%8C%E7%99%BD%E8%8E%B2.png 1.5x, https://upload.thwiki.cc/thumb/0/0b/%E9%9B%AA%E8%8E%B2%E5%8D%8E_%E7%A5%9E%E5%AD%90%E5%92%8C%E7%99%BD%E8%8E%B2.png/80px-%E9%9B%AA%E8%8E%B2%E5%8D%8E_%E7%A5%9E%E5%AD%90%E5%92%8C%E7%99%BD%E8%8E%B2.png 2x" data-file-width="3774" data-file-height="2905"></a></div></div></td> <td style="width:150px;padding:3px 9px 3px 7px;" rowspan="2">司掌宇宙的全能道士<br>超越了灵长类的阿阇梨 </td><td style="width:180px;padding:3px 9px 3px 7px;" rowspan="2">丰聪耳神子&amp;圣白莲</td><td style="width:180px;padding:3px 9px 3px 7px;"> <a href="./丰聪耳神子.md" title="丰聪耳神子">丰聪耳神子</a></td><td rowspan="2"><a href="./东方雪莲华_～_Abyss_Soul_Lotus.-丰聪耳神子&圣白莲.md" title="东方雪莲华 ～ Abyss Soul Lotus./丰聪耳神子&amp;圣白莲">游戏对话/结局</a><br><a href="./东方雪莲华_～_Abyss_Soul_Lotus.-丰聪耳神子&圣白莲_ExStory.md" title="东方雪莲华 ～ Abyss Soul Lotus./丰聪耳神子&amp;圣白莲 ExStory">Extra游戏对话</a></td></tr><tr><td style="width:150px;padding:3px 9px 3px 7px;"><a href="./圣白莲.md" title="圣白莲">圣白莲</a></td></tr></tbody></table>
+
 
 
 ### BOSS
@@ -94,11 +101,13 @@ DD
 <tr><td rowspan="1" class="bg-color-info-10" style="min-width:100px"><b>EX面道中</b><br><i><a href="./被遗忘的无名者.md" title="被遗忘的无名者">被遗忘的无名者</a></i></td><td style="min-width:35px" rowspan="1"><div class="center"><div class="floatnone"><a href="./文件-莉帕斯·缇米蒂丝·白雪.png.md" class="image"><img alt="莉帕斯·缇米蒂丝·白雪.png" src="https://upload.thwiki.cc/thumb/0/09/%E8%8E%89%E5%B8%95%E6%96%AF%C2%B7%E7%BC%87%E7%B1%B3%E8%92%82%E4%B8%9D%C2%B7%E7%99%BD%E9%9B%AA.png/28px-%E8%8E%89%E5%B8%95%E6%96%AF%C2%B7%E7%BC%87%E7%B1%B3%E8%92%82%E4%B8%9D%C2%B7%E7%99%BD%E9%9B%AA.png" decoding="async" loading="lazy" width="28" height="40" srcset="https://upload.thwiki.cc/thumb/0/09/%E8%8E%89%E5%B8%95%E6%96%AF%C2%B7%E7%BC%87%E7%B1%B3%E8%92%82%E4%B8%9D%C2%B7%E7%99%BD%E9%9B%AA.png/42px-%E8%8E%89%E5%B8%95%E6%96%AF%C2%B7%E7%BC%87%E7%B1%B3%E8%92%82%E4%B8%9D%C2%B7%E7%99%BD%E9%9B%AA.png 1.5x, https://upload.thwiki.cc/thumb/0/09/%E8%8E%89%E5%B8%95%E6%96%AF%C2%B7%E7%BC%87%E7%B1%B3%E8%92%82%E4%B8%9D%C2%B7%E7%99%BD%E9%9B%AA.png/56px-%E8%8E%89%E5%B8%95%E6%96%AF%C2%B7%E7%BC%87%E7%B1%B3%E8%92%82%E4%B8%9D%C2%B7%E7%99%BD%E9%9B%AA.png 2x" data-file-width="3507" data-file-height="4960"></a></div></div></td>  <td style="width:150px;padding:3px 9px 3px 7px;" rowspan="1"> 雪兔怪盗</td><td style="width:180px;padding:3px 9px 3px 7px;" rowspan="1"> <a href="./莉帕斯·缇米蒂丝·白雪.md" title="莉帕斯·缇米蒂丝·白雪">莉帕斯·缇米蒂丝·白雪</a> </td></tr><tr><td rowspan="1" class="bg-color-info-10" style="min-width:100px"><b>EX面BOSS</b><br><i><a href="./不灭之魂_～_Everlasting_Volition.md" title="不灭之魂 ～ Everlasting Volition">不灭之魂 ～ Everlasting Volition</a></i></td><td style="min-width:35px" rowspan="1"><div class="center"><div class="floatnone"><a href="./文件-蚀神星罗.png.md" class="image"><img alt="蚀神星罗.png" src="https://upload.thwiki.cc/thumb/4/49/%E8%9A%80%E7%A5%9E%E6%98%9F%E7%BD%97.png/33px-%E8%9A%80%E7%A5%9E%E6%98%9F%E7%BD%97.png" decoding="async" loading="lazy" width="33" height="40" srcset="https://upload.thwiki.cc/thumb/4/49/%E8%9A%80%E7%A5%9E%E6%98%9F%E7%BD%97.png/50px-%E8%9A%80%E7%A5%9E%E6%98%9F%E7%BD%97.png 1.5x, https://upload.thwiki.cc/thumb/4/49/%E8%9A%80%E7%A5%9E%E6%98%9F%E7%BD%97.png/66px-%E8%9A%80%E7%A5%9E%E6%98%9F%E7%BD%97.png 2x" data-file-width="3400" data-file-height="4100"></a></div></div></td>  <td style="width:150px;padding:3px 9px 3px 7px;" rowspan="1"> 遮蔽日月的黑暗星</td><td style="width:180px;padding:3px 9px 3px 7px;" rowspan="1"> <a href="./蚀神星罗.md" title="蚀神星罗">蚀神星罗</a> </td></tr></tbody></table>
 
 
+
 ### 其他角色
 
 <table><tbody><tr><td align="center">暂无<br>图片</td> <td style="width:150px;padding:3px 9px 3px 7px;">出现：<a href="/%E4%B8%9C%E6%96%B9%E9%9B%AA%E8%8E%B2%E5%8D%8E_%EF%BD%9E_Abyss_Soul_Lotus./%E5%85%AB%E4%BA%91%E7%B4%AB%26%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6#Ending_No._01" title="东方雪莲华 ～ Abyss Soul Lotus./八云紫&amp;博丽灵梦">八云紫&amp;博丽灵梦 结局</a> </td><td style="width:180px;padding:3px 9px 3px 7px;"><a href="./四季映姬·夜摩仙那度.md" title="四季映姬·夜摩仙那度">四季映姬·夜摩仙那度</a></td></tr>
 <tr><td align="center">暂无<br>图片</td> <td style="width:150px;padding:3px 9px 3px 7px;">出现：<a href="/%E4%B8%9C%E6%96%B9%E9%9B%AA%E8%8E%B2%E5%8D%8E_%EF%BD%9E_Abyss_Soul_Lotus./%E6%91%A9%E5%A4%9A%E7%BD%97%E9%9A%90%E5%B2%90%E5%A5%88%26%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99#Ending_No._02" title="东方雪莲华 ～ Abyss Soul Lotus./摩多罗隐岐奈&amp;雾雨魔理沙">摩多罗隐岐奈&amp;雾雨魔理沙 结局</a> </td><td style="width:180px;padding:3px 9px 3px 7px;"><a href="./赫卡提亚·拉碧斯拉祖利.md" title="赫卡提亚·拉碧斯拉祖利">赫卡提亚·拉碧斯拉祖利</a></td></tr>
 <tr><td align="center">暂无<br>图片</td> <td style="width:150px;padding:3px 9px 3px 7px;">出现：<a href="/%E4%B8%9C%E6%96%B9%E9%9B%AA%E8%8E%B2%E5%8D%8E_%EF%BD%9E_Abyss_Soul_Lotus./%E4%B8%B0%E8%81%AA%E8%80%B3%E7%A5%9E%E5%AD%90%26%E5%9C%A3%E7%99%BD%E8%8E%B2#Ending_No._03" title="东方雪莲华 ～ Abyss Soul Lotus./丰聪耳神子&amp;圣白莲">丰聪耳神子&amp;圣白莲 结局</a> </td><td style="width:180px;padding:3px 9px 3px 7px;"><a href="./茨木华扇.md" title="茨木华扇">茨木华扇</a></td></tr></tbody></table>
+
 
 
 ## 附带文档
@@ -110,6 +119,7 @@ DD
 <ul><li><a href="./东方雪莲华_～_Abyss_Soul_Lotus.-游戏内Manual.md" title="东方雪莲华 ～ Abyss Soul Lotus./游戏内Manual">游戏内Manual</a></li>
 <li><a href="./东方雪莲华_～_Abyss_Soul_Lotus.-角色设定.md" title="东方雪莲华 ～ Abyss Soul Lotus./角色设定">角色设定</a></li></ul>
 </td></tr></tbody></table>
+
 
 
 ## 其他资料
@@ -142,7 +152,9 @@ DD
 </td></tr></tbody></table>
 
 
+
 ## 评论
+
 ## 正式版PV
   
 
@@ -153,6 +165,7 @@ DD
 <tr><th style="text-align: center;"><a class="bilibili-title external text" target="_blank" rel="nofollow" style="margin: 0 0.4em 0 0.2em;"></a><input type="button" class="bilibili-toggle" value="显示视频" style="float: right;"></th></tr>
 <tr class="bilibili-video" style="display: none;"><td></td></tr>
 </table>
+
 
 
 

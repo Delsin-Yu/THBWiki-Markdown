@@ -4,7 +4,8 @@
 
 fromadistance ，于 2009 年成立，主要制作 同人音乐 的日本同人社团，主催是 spctrm，当前状态为 转入非东方
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -16,14 +17,17 @@ fromadistance ，于 2009 年成立，主要制作 同人音乐 的日本同人�
 
 
 
+
 ## 社团信息
 [](./文件-fromadistance.jpg.md)  [](./文件-fromadistance.jpg.md)banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> fromadistance </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2009</td></tr><tr><td><b>当前状态</b></td><td>转入非东方</td></tr><tr><td><b>主催</b></td><td> <a href="./spctrm.md" title="spctrm">spctrm</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://fromadistance.info/">http://fromadistance.info/</a> </td></tr></tbody></table>
 
 fromadistance（同人社团，同人音乐社团） - fromadistance ，于 2009 年成立，主要制作 同人音乐 的日本同人社团，主催是 spctrm，当前状态为 转入非东方
+
 ## 成员名单
 - [spctrm](./spctrm.md)：编曲
+
 
 ## 作品列表
 [](./eureka（同人专辑）.md)[eureka](./eureka（同人专辑）.md)首发日期：2009-12-30 （Comic Market 77 (未找到链接)）FROM-0001全长 （一般向）[](./historie.md)[historie](./historie.md)首发日期：2010-08-14 （Comic Market 78 (未找到链接)）FROM-0002全长 （一般向）[](./Duende.md)[Duende](./Duende.md)首发日期：2011-08-13 （Comic Market 80 (未找到链接)）FROM-0003全长 （一般向）[](./生年不滿百.md)[生年不滿百](./生年不滿百.md)首发日期：2013-12-30 （Comic Market 85 (未找到链接)）FROM-0004全长 （一般向）
@@ -37,7 +41,9 @@ fromadistance（同人社团，同人音乐社团） - fromadistance ，于 2009
 </table>
 
 
+
 ## 参展信息
+
 ## 其他信息
 
 

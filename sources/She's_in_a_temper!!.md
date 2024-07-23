@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -38,11 +39,13 @@
 
 
 
+
 ## 基本信息
 
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">She's in a temper!!</td></tr><tr><td><b>译名</b></td><td>She&#39;s in a temper!!</td></tr><tr><td><b>其他译名</b></td><td>她怒了！！</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 She's in a temper!!（曲目） - 由 ZUN 创作的官方曲目，原名 She's in a temper!!
+
 ## 出现作品
 
 <table>
@@ -52,7 +55,9 @@ She's in a temper!!（曲目） - 由 ZUN 创作的官方曲目，原名 She's i
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 东方封魔录
   
 FM86版，由PMDPlay导出。
@@ -70,6 +75,7 @@ MIDI版，由Roland Sound Canvas 88Pro实机录音得到。
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td><a href="./文件-th02_07.MID.md" title="文件:th02 07.MID">th02_07.MID</a></td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th02_07_MIDI.mp3.md" title="文件:th02 07 MIDI.mp3">th02_07_MIDI.mp3</a><br><audio src="https://upload.thwiki.cc/d/d8/th02_07_MIDI.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>BOSS1.MMD</td></tr><tr><td><b>音轨时长</b></td><td>0:51</td></tr></tbody></table>
 
 
+
 ### 东方怪绮谈
   
 YM2608(OPNA)，FM86版。
@@ -79,12 +85,15 @@ YM2608(OPNA)，FM86版。
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th05_H_03.ogg.md" title="文件:th05 H 03.ogg">th05_H_03.ogg</a><br><audio src="https://upload.thwiki.cc/7/7c/th05_H_03.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>H_ST00B.M</td></tr><tr><td><b>音轨时长</b></td><td>1:03.213</td></tr></tbody></table>
 
 
+
 ### 幺乐团的历史 vol.3
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-ha03_03.mp3.md" title="文件:ha03 03.mp3">ha03_03.mp3</a><br><audio src="https://upload.thwiki.cc/3/3c/ha03_03.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track03.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>2:32</td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 东方封魔录
 - Music Mode (未找到链接)
 
@@ -97,6 +106,7 @@ FM版一面BOSS的主题曲。
 ＺＵＮ（太田）  
 １、２面的boss  
 　的确很弱的啊BOSS1.MMDShe's in a temper!!                                    ＺＵＮ
+
 ### 东方怪绮谈
 - Music Room (未找到链接)
 
@@ -105,8 +115,11 @@ FM版一面BOSS的主题曲。
 ＺＵＮ（太田）  
 1、2面的boss[^cite_note-1]  
 的确很弱的啊
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
   
  **She's in a temper!!** 
@@ -119,6 +132,7 @@ FM版一面BOSS的主题曲。
   - 一面BOSS里香
 
 - in a temper，生气了
+
 
 ### 二次同人数据
 

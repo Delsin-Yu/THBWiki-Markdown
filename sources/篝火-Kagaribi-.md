@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-篝火-Kagaribi-封面.jpeg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/c/c4/%E7%AF%9D%E7%81%AB-Kagaribi-%E5%B0%81%E9%9D%A2.jpeg/252px-%E7%AF%9D%E7%81%AB-Kagaribi-%E5%B0%81%E9%9D%A2.jpeg" decoding="async" loading="lazy" width="252" height="227" srcset="https://upload.thwiki.cc/thumb/c/c4/%E7%AF%9D%E7%81%AB-Kagaribi-%E5%B0%81%E9%9D%A2.jpeg/378px-%E7%AF%9D%E7%81%AB-Kagaribi-%E5%B0%81%E9%9D%A2.jpeg 1.5x, https://upload.thwiki.cc/thumb/c/c4/%E7%AF%9D%E7%81%AB-Kagaribi-%E5%B0%81%E9%9D%A2.jpeg/504px-%E7%AF%9D%E7%81%AB-Kagaribi-%E5%B0%81%E9%9D%A2.jpeg 2x" data-file-width="1000" data-file-height="902"></a><div class="cover-char">角色：<a href="./伊吹萃香.md" title="伊吹萃香">伊吹萃香</a></div></td>
@@ -16,6 +17,7 @@
 篝火-Kagaribi-（同人专辑，舞风，2021） - 2021年10月24日 由 舞风 于 博丽神社秋季例大祭8 发布的EP同人专辑，分级为 一般向
 
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://maikazeshop.booth.pm/items/3189521">Booth</a></td></tr></tbody></table>
+
 
 
 ## Staff
@@ -35,6 +37,7 @@
 <table><tbody><tr><td><a href="./時音.md" title="時音">時音</a></td><td><a href="./舞风.md" title="舞风">舞风</a></td><td>Tr.1</td></tr></tbody></table>
 
 
+
 ## 曲目列表
 
 <table><tbody><tr><td id="1" class="infoRL"><b>01</b></td><td id="篝火" colspan="2" class="title"><a href="./歌词-篝火.md" title="歌词:篝火">篝火</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=時音&amp;vocal=時音&amp;lyric=時音&amp;fromwiki=篝火-Kagaribi-"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:16</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./時音.md" title="時音">時音</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，時音&amp;fromwiki=篝火-Kagaribi-"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="./時音.md" title="時音">時音</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=時音&amp;fromwiki=篝火-Kagaribi-"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="./時音.md" title="時音">時音</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?lyric=時音&amp;fromwiki=篝火-Kagaribi-"><span></span></a></span></td></tr>
@@ -43,8 +46,10 @@
 <tr><td id="4" class="infoYL"><b>04</b></td><td id="篝火_(no_vocal_track)" colspan="2" class="title">篝火 (no vocal track)<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=時音&amp;fromwiki=篝火-Kagaribi-"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:15</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./時音.md" title="時音">時音</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，時音&amp;fromwiki=篝火-Kagaribi-"><span></span></a></span></td></tr></tbody></table>
 
 
+
 ## 预览
 - [](./文件-篝火-Kagaribi-预览图1.jpg.md)
+
 
 ## 评论
 

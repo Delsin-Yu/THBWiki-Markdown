@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-ポチ喰ひ_Petit_Summer（2022）封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/a/ae/%E3%83%9D%E3%83%81%E5%96%B0%E3%81%B2_Petit_Summer%EF%BC%882022%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/224px-%E3%83%9D%E3%83%81%E5%96%B0%E3%81%B2_Petit_Summer%EF%BC%882022%EF%BC%89%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="224" srcset="https://upload.thwiki.cc/thumb/a/ae/%E3%83%9D%E3%83%81%E5%96%B0%E3%81%B2_Petit_Summer%EF%BC%882022%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/336px-%E3%83%9D%E3%83%81%E5%96%B0%E3%81%B2_Petit_Summer%EF%BC%882022%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/a/ae/%E3%83%9D%E3%83%81%E5%96%B0%E3%81%B2_Petit_Summer%EF%BC%882022%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/448px-%E3%83%9D%E3%83%81%E5%96%B0%E3%81%B2_Petit_Summer%EF%BC%882022%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="899" data-file-height="900"></a><div class="cover-char">角色：<a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a></div></td>
@@ -18,11 +19,13 @@
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=1614207">蜜瓜</a></td></tr></tbody></table>
 
 
+
 ## Staff
   
  **Arrangement**   
 
 <table><tbody><tr><td><a href="/index.php?title=%E3%81%BE%EF%BD%9E&amp;action=edit&amp;redlink=1" class="new" title="ま～（页面不存在）">ま～</a></td><td><a href="./ポチとてぬぐひ.md" title="ポチとてぬぐひ">ポチとてぬぐひ</a></td><td>Tr.1</td></tr></tbody></table>
+
 
 
 ## 试听
@@ -37,9 +40,11 @@
 </td></tr></tbody></table>
 
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="亡き王女の為のセプテット～pastel_sweets_mix～" colspan="2" class="title">亡き王女の為のセプテット～pastel sweets mix～<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=ま～&amp;ogmusic=亡き王女の為のセプテット&amp;fromwiki=ポチ喰ひ_Petit_Summer（2022）"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E3%81%BE%EF%BD%9E&amp;action=edit&amp;redlink=1" class="new" title="ま～（页面不存在）">ま～</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，ま～&amp;fromwiki=ポチ喰ひ_Petit_Summer（2022）"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=亡き王女の為のセプテット&amp;fromwiki=ポチ喰ひ_Petit_Summer（2022）"><span></span></a></span><div class="ogmusic"><a href="/%E4%BA%A1%E3%81%8D%E7%8E%8B%E5%A5%B3%E3%81%AE%E7%82%BA%E3%81%AE%E3%82%BB%E3%83%97%E3%83%86%E3%83%83%E3%83%88" class="mw-redirect" title="亡き王女の為のセプテット">亡き王女の為のセプテット</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E7%BA%A2%E9%AD%94%E4%B9%A1_%EF%BD%9E_the_Embodiment_of_Scarlet_Devil." class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="亡き王女の為のセプテット～pastel_sweets_mix～" colspan="2" class="title">亡き王女の為のセプテット～pastel sweets mix～<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=ま～&amp;ogmusic=亡き王女の為のセプテット&amp;fromwiki=ポチ喰ひ_Petit_Summer（2022）"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E3%81%BE%EF%BD%9E&amp;action=edit&amp;redlink=1" class="new" title="ま～（页面不存在）">ま～</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，ま～&amp;fromwiki=ポチ喰ひ_Petit_Summer（2022）"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=亡き王女の為のセプテット&amp;fromwiki=ポチ喰ひ_Petit_Summer（2022）"><span></span></a></span><div class="ogmusic"><a href="./亡き王女の為のセプテット.md" class="mw-redirect" title="亡き王女の為のセプテット">亡き王女の為のセプテット</a></div><div class="source"><a href="./东方红魔乡_～_the_Embodiment_of_Scarlet_Devil..md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

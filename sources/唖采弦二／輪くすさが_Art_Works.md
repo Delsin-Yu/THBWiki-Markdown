@@ -24,6 +24,7 @@
 
   
 
+
 ## 目录
 
 - [1 概述](#概述)
@@ -44,6 +45,7 @@
   - [3.12 深夜 しんや](#深夜_しんや)
   - [3.13 花詠束 -hanataba-](#花詠束_-hanataba-)
   - [3.14 东方香霖堂](#东方香霖堂)
+
 
 
 
@@ -74,8 +76,7 @@
 
 
   
-<big> **哑采弦二／轮KUSUGA Art Works**   
-</big>
+<big> **哑采弦二／轮KUSUGA Art Works** </big>
 唖采弦二／輪くすさが Art Works  
 
 本书是东方官方画师之一[哑采弦二](./哑采弦二.md)的个人作品集，收录了哑采弦二的绘画作品与相关点评。  
@@ -84,6 +85,7 @@
 
 ZUN为本作品提供了腰封文字撰写。
   
+
 
 
 ## 目录
@@ -202,7 +204,9 @@ ZUN为本作品提供了腰封文字撰写。
 </td></tr></tbody></table>
 
 
+
 ## 东方相关内容
+
 ### 腰封
 - 腰封文字为ZUN撰写
 
@@ -210,9 +214,11 @@ ZUN为本作品提供了腰封文字撰写。
 <table><tbody><tr class="tt-content" id="腰封-1" data-pos="&#91;&quot;\u8170\u5c01&quot;,1&#93;"><td class="tt-ja" lang="ja"><div class="poem"></div></td><td class="tt-zh" lang="zh"><div class="poem">作品的世界观有多深，与插图有着分不开的关系。<br>本书作者能用一张插画创造一个比游戏本体还深远的世界。<br><br>上海爱丽丝幻乐团<br>ZUN</div></td></tr></tbody></table>
 
 
+
 ### 东方文花帖
 
 <table><tbody><tr class="tt-content" id="东方文花帖-1" data-pos="&#91;&quot;\u4e1c\u65b9\u6587\u82b1\u5e16&quot;,1&#93;"><td class="tt-ja" lang="ja"><div class="poem"></div></td><td class="tt-zh" lang="zh"><div class="poem">我是哑采弦二/轮KUSUGA！能够连这种边角都读到的读者各位，真是感激不尽。基本上写在这里的都是作者的傻话，如果有哪位读完觉得“老子人生都被你浪费了傻蛋作者啊啊啊”，那真是万分抱歉。<br>那么，这张插图是最早的东方丛书的封面……画的好崩啊。越看越糟糕，死了算了……（上来就要死是要哪样）。实话实说，这也是十多年前画的了，当年追忆，云里雾里，事到如今，又有何言。听上去很像汉诗吗，可是根本没有这样的诗哈哈。总而言之，这样记不起来是怎么画的插图，今后也决定就用胡言乱语搪塞过去了！（还有没有下限）</div></td></tr><tr class="tt-content" id="东方文花帖-2" data-pos="&#91;&quot;\u4e1c\u65b9\u6587\u82b1\u5e16&quot;,2&#93;"><td class="tt-ja" lang="ja"><div class="poem"></div></td><td class="tt-zh" lang="zh"><div class="poem">作为画师，一般是不想把半成品登出来的。不过想到大家看了草图，可能会更容易理解插画师的工作，所以决定鼓起勇气放在这里！<br>可不是为了凑页数哦（就是在凑页数）。<br>以前每次项目都会画很多种构图的草稿，不过现在已经变成几乎每次都只画一种了。<br>基本上，甲方对于构图其实并没有一个具体的想法（所以才会来找画师）。所以比起画很多种构图然后拿给甲方问“哪个最好呢？”，还不如喊着“我觉得就是他了！”然后把自己心里的第一方案拍到雇主的桌子上，这样做决定快也能节约时间。<br>人都是选择越多越痛苦，一旦发现有很多路可走，就会陷入迷惘之中。<br>越是不会画画的人（甲方）越容易这样，所以，插画师必须能够提出非常清晰的构想来。<br>但是显然，“准确领会雇主意图”也是插画师的必备能力，插画并不是只要好看就没问题，个中奥秘就只能靠日积月累了。<br>真的不是因为草图画起来太麻烦了哦（就是很麻烦）。</div></td></tr></tbody></table>
+
 
 
 ### 东方求闻史纪
@@ -220,9 +226,11 @@ ZUN为本作品提供了腰封文字撰写。
 <table><tbody><tr class="tt-content" id="东方求闻史纪-1" data-pos="&#91;&quot;\u4e1c\u65b9\u6c42\u95fb\u53f2\u7eaa&quot;,1&#93;"><td class="tt-ja" lang="ja"><div class="poem"></div></td><td class="tt-zh" lang="zh"><div class="poem">只能想起当年画的时候累的要死要活的。<br>嗯，还有什么别的回忆吗…。<br>啊！当年画的时候真是生不如死啊（果然想不起来别的了）。</div></td></tr><tr class="tt-content" id="东方求闻史纪-2" data-pos="&#91;&quot;\u4e1c\u65b9\u6c42\u95fb\u53f2\u7eaa&quot;,2&#93;"><td class="tt-ja" lang="ja"><div class="poem"></div></td><td class="tt-zh" lang="zh"><div class="poem">各种累死累活，什么都记不得了。<br>真是没话可写啊……。<br>……。<br>……。<br>……。<br>嗯！出发去京都吧！（去了又能怎样）<br><br>……哦想起来了！当年曾经后悔没有在阿求笔下的文字里多插一些恶搞。<br>嗯比如说“死骸”啥的……（真是去死好了）。</div></td></tr></tbody></table>
 
 
+
 ### 魔理沙的魔法书
 
 <table><tbody><tr class="tt-content" id="魔理沙的魔法书-1" data-pos="&#91;&quot;\u9b54\u7406\u6c99\u7684\u9b54\u6cd5\u4e66&quot;,1&#93;"><td class="tt-ja" lang="ja"><div class="poem"></div></td><td class="tt-zh" lang="zh"><div class="poem">这幅画是我很喜欢的一幅。魔理沙的姿势画的很顺，之后就是水到渠成了。<br>嘛，最终完成的时候花了超多的时间，所以说这个渠很长……（够冷）。</div></td></tr><tr class="tt-content" id="魔理沙的魔法书-2" data-pos="&#91;&quot;\u9b54\u7406\u6c99\u7684\u9b54\u6cd5\u4e66&quot;,2&#93;"><td class="tt-ja" lang="ja"><div class="poem"></div></td><td class="tt-zh" lang="zh"><div class="poem">做画师的工作最重要的就是构图，也就是“布局能不能引人注意”和“有没有一个明确的概念在画里”。<br>素描呀上色呀都是次要的啦（明明是你自己不擅长）。<br>概念，换个说法就是“梗”。有概念的画作才能惹人注意，让人记住。还有就是和甲方说明的时候也很方便（必须的）。<br>当然，压倒性的画功也是很重要的，不过嘛，咱不是，没那个自信嘛……。<br>这就要靠咱身经百战的经验来弥补……。<br>呃，好像也没那么多经验……（药丸）。</div></td></tr></tbody></table>
+
 
 
 ### 东方幻想画报
@@ -230,9 +238,11 @@ ZUN为本作品提供了腰封文字撰写。
 <table><tbody><tr class="tt-content" id="东方幻想画报-1" data-pos="&#91;&quot;\u4e1c\u65b9\u5e7b\u60f3\u753b\u62a5&quot;,1&#93;"><td class="tt-ja" lang="ja"><div class="poem"></div></td><td class="tt-zh" lang="zh"><div class="poem">离地74米之魔天地狱……走钢丝！这幅画的构图就是灵梦在上走，魔理沙在下边看，不过先把两人放一边（放得下才有鬼）。</div></td></tr><tr class="tt-content" id="东方幻想画报-2" data-pos="&#91;&quot;\u4e1c\u65b9\u5e7b\u60f3\u753b\u62a5&quot;,2&#93;"><td class="tt-ja" lang="ja"><div class="poem"></div></td><td class="tt-zh" lang="zh"><div class="poem">在这里的背景采用了均匀的荧光浅绿色，光是背景就让这个封面很有冲击力。<br>……说起来，只要背景貌似就不错了……（还要不要挣钱了？）。<br>世上的事都是这样：比起把一堆细节塞在一起，不如大刀阔斧地削去多余的要素，反而能明确要传递的信息，发挥更好的效果。<br>工作的时候，这种果断是很重要的。<br>好了好了！“这幅画真的塞得很满耶”这种槽就不要吐了！</div></td></tr></tbody></table>
 
 
+
 ### 东方幻想画报 弐
 
 <table><tbody><tr class="tt-content" id="东方幻想画报_弐-1" data-pos="&#91;&quot;\u4e1c\u65b9\u5e7b\u60f3\u753b\u62a5 \u5f10&quot;,1&#93;"><td class="tt-ja" lang="ja"><div class="poem"></div></td><td class="tt-zh" lang="zh"><div class="poem">抱歉！本页的右半边，画的太惨实在不忍再看！<br>麻烦撕掉！（别扯淡了）<br></div></td></tr></tbody></table>
+
 
 
 ### 东方外来韦编 壱
@@ -240,9 +250,11 @@ ZUN为本作品提供了腰封文字撰写。
 <table><tbody><tr class="tt-content" id="东方外来韦编_壱-1" data-pos="&#91;&quot;\u4e1c\u65b9\u5916\u6765\u97e6\u7f16 \u58f1&quot;,1&#93;"><td class="tt-ja" lang="ja"><div class="poem"></div></td><td class="tt-zh" lang="zh"><div class="poem">现在这么多画师画的东方世界都很美，像我这样的小人物已经没有资格去画了！<br>……抱着这样的想法，我在几年之前退出了作画阵容。而这幅东方则是时隔多年后又来画的。<br>想着如果还和以前画的一样就太无聊了，于是尝试做了很多改变，其结果就是现在的样子。<br>……有些邯郸学步吧。脑袋里明明有特别厉害的点子，可是现在的我并没有足够的画功来表现它。<br>（这段话的意义在于说明这幅画本来可能有多完美）</div></td></tr></tbody></table>
 
 
+
 ### 东方外来韦编 弐
 
 <table><tbody><tr class="tt-content" id="东方外来韦编_弐-1" data-pos="&#91;&quot;\u4e1c\u65b9\u5916\u6765\u97e6\u7f16 \u5f10&quot;,1&#93;"><td class="tt-ja" lang="ja"><div class="poem"></div></td><td class="tt-zh" lang="zh"><div class="poem">书是纵向排版，那为啥要画个这么又矮又宽的呢！虽然很想自己给自己吐槽，不过不知为啥就变成这样了（巴嘎）。<br>其实我有个毛病，只要自己有了灵感，不管是不是杂志有需要都会先画了再说。虽然很想管住自己，不过艺术本来也来源于冲动，所以很是烦恼。<br>……嗯，其实有更多该烦恼的事情吧。</div></td></tr></tbody></table>
+
 
 
 ### 关于新服装角色设定
@@ -250,9 +262,11 @@ ZUN为本作品提供了腰封文字撰写。
 <table><tbody><tr class="tt-content" id="关于新服装角色设定-1" data-pos="&#91;&quot;\u5173\u4e8e\u65b0\u670d\u88c5\u89d2\u8272\u8bbe\u5b9a&quot;,1&#93;"><td class="tt-ja" lang="ja"><div class="poem"></div></td><td class="tt-zh" lang="zh"><div class="poem">出身于游戏业界的插画师在设计角色时，最重视的就是角色的“剪影”和“配色”。这是为了要让角色站在画面中时能够一眼就被认出来。<br>在东方Project里也一样，往往剪影和配色的平衡就决定了一个角色的设定（连手持的道具也都设计好了）。为了漫画或者插画设计的角色，其实应该换个别的思路吧！（为啥要咆哮呢）<br>不过我只会这么设计角色啊啊啊。</div></td></tr></tbody></table>
 
 
+
 ### 东方香霖堂 外来韦编第一话
 
 <table><tbody><tr class="tt-content" id="东方香霖堂_外来韦编第一话-1" data-pos="&#91;&quot;\u4e1c\u65b9\u9999\u9716\u5802 \u5916\u6765\u97e6\u7f16\u7b2c\u4e00\u8bdd&quot;,1&#93;"><td class="tt-ja" lang="ja"><div class="poem"></div></td><td class="tt-zh" lang="zh"><div class="poem">新连载的《香霖堂》，第一感受是“好多眼镜！”。<br>香霖堂的作者ZUN桑对于细节管的很少，作为画师可以放手去创作。<br>特别是关于服装的设计里硬生生加入了我个人喜欢的要素，连我自己都经常会想这么搞是不是太出格了。<br>每次画画的时候都会抱着“我只管往前冲，ZUN桑要帮我踩刹车啊！”的心情，不过ZUN桑的话，估计会微笑着看我一头冲下山谷的吧（个人猜想）。</div></td></tr></tbody></table>
+
 
 
 ### 东方香霖堂 外来韦编第二话
@@ -260,14 +274,17 @@ ZUN为本作品提供了腰封文字撰写。
 <table><tbody><tr class="tt-content" id="东方香霖堂_外来韦编第二话-1" data-pos="&#91;&quot;\u4e1c\u65b9\u9999\u9716\u5802 \u5916\u6765\u97e6\u7f16\u7b2c\u4e8c\u8bdd&quot;,1&#93;"><td class="tt-ja" lang="ja"><div class="poem"></div></td><td class="tt-zh" lang="zh"><div class="poem">到了第二话，总算有不是眼镜的角色了！<br>总算是舒了一口长气（有这么严重吗？）。<br>……我可不是因为讨厌眼镜，是因为画不好啊。</div></td></tr></tbody></table>
 
 
+
 ### 深夜 しんや
 
 <table><tbody><tr class="tt-content" id="深夜_しんや-1" data-pos="&#91;&quot;\u6df1\u591c \u3057\u3093\u3084&quot;,1&#93;"><td class="tt-ja" lang="ja"><div class="poem"></div></td><td class="tt-zh" lang="zh"><div class="poem">因为CD的标题是“深夜”我却画了一幅很开朗的插画，结果被要求返工，改成了一幅黑暗的。<br>真是活该。</div></td></tr></tbody></table>
 
 
+
 ### 花詠束 -hanataba-
 
 <table><tbody><tr class="tt-content" id="花詠束_-hanataba--1" data-pos="&#91;&quot;\u82b1\u8a60\u675f -hanataba-&quot;,1&#93;"><td class="tt-ja" lang="ja"><div class="poem"></div></td><td class="tt-zh" lang="zh"><div class="poem">我觉得荧光橙色的封面还是很有震撼力的，不过这一手法和东方幻想画报是一样的吧。<br>抱歉抱歉，今后一定改正哦（真必须反省啊）。</div></td></tr></tbody></table>
+
 
 
 ### 东方香霖堂

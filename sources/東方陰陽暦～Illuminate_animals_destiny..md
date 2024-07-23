@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 软件信息](#软件信息)
@@ -25,6 +26,7 @@
 
 
 
+
 ## 软件信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-東方陰陽暦～Illuminate_animals_destiny.封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/e/e6/%E6%9D%B1%E6%96%B9%E9%99%B0%E9%99%BD%E6%9A%A6%EF%BD%9EIlluminate_animals_destiny.%E5%B0%81%E9%9D%A2.png/224px-%E6%9D%B1%E6%96%B9%E9%99%B0%E9%99%BD%E6%9A%A6%EF%BD%9EIlluminate_animals_destiny.%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="224" height="168" srcset="https://upload.thwiki.cc/thumb/e/e6/%E6%9D%B1%E6%96%B9%E9%99%B0%E9%99%BD%E6%9A%A6%EF%BD%9EIlluminate_animals_destiny.%E5%B0%81%E9%9D%A2.png/336px-%E6%9D%B1%E6%96%B9%E9%99%B0%E9%99%BD%E6%9A%A6%EF%BD%9EIlluminate_animals_destiny.%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/e/e6/%E6%9D%B1%E6%96%B9%E9%99%B0%E9%99%BD%E6%9A%A6%EF%BD%9EIlluminate_animals_destiny.%E5%B0%81%E9%9D%A2.png/448px-%E6%9D%B1%E6%96%B9%E9%99%B0%E9%99%BD%E6%9A%A6%EF%BD%9EIlluminate_animals_destiny.%E5%B0%81%E9%9D%A2.png 2x" data-file-width="640" data-file-height="480"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></div></td>
@@ -33,9 +35,11 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.freem.ne.jp/win/game/29885">https://www.freem.ne.jp/win/game/29885</a></td></tr></tbody></table>
 
 東方陰陽暦～Illuminate animals destiny.（同人游戏，まりもmarimoチャンネル，2022） - 2022年10月26日 由 まりもmarimoチャンネル  发布的STG同人游戏，可在 Windows 系统上运行，游戏人数为 单人模式，分级为 一般向
+
 ## Staff
 - 東方前線おすろ
 - まりもmarimoチャンネル
+
 
 ## 游戏简介
 
@@ -58,7 +62,9 @@
   
 
 
+
 ## 角色
+
 ### 自机
 
 <table><tbody><tr><td style="min-width:40px;" rowspan=""><div class="center"><div class="floatnone"><a href="./文件-博丽灵梦（阴阳历）.png.md" class="image" title="博丽灵梦"><img alt="博丽灵梦" src="https://upload.thwiki.cc/thumb/b/bc/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E9%98%B4%E9%98%B3%E5%8E%86%EF%BC%89.png/40px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E9%98%B4%E9%98%B3%E5%8E%86%EF%BC%89.png" decoding="async" loading="lazy" width="40" height="40" srcset="https://upload.thwiki.cc/thumb/b/bc/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E9%98%B4%E9%98%B3%E5%8E%86%EF%BC%89.png/60px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E9%98%B4%E9%98%B3%E5%8E%86%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/b/bc/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E9%98%B4%E9%98%B3%E5%8E%86%EF%BC%89.png/80px-%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6%EF%BC%88%E9%98%B4%E9%98%B3%E5%8E%86%EF%BC%89.png 2x" data-file-width="384" data-file-height="384"></a></div></div></td> <td style="width:150px;padding:3px 9px 3px 7px;" rowspan="">乐园里美丽的巫女 </td><td style="width:180px;padding:3px 9px 3px 7px;"><a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></td><td><a href="/index.php?title=%E6%9D%B1%E6%96%B9%E9%99%B0%E9%99%BD%E6%9A%A6%EF%BD%9EIlluminate_animals_destiny./%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6&amp;action=edit&amp;redlink=1" class="new" title="東方陰陽暦～Illuminate animals destiny./博丽灵梦（页面不存在）">游戏对话/结局</a><br><a href="/index.php?title=%E6%9D%B1%E6%96%B9%E9%99%B0%E9%99%BD%E6%9A%A6%EF%BD%9EIlluminate_animals_destiny./%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6_ExStory&amp;action=edit&amp;redlink=1" class="new" title="東方陰陽暦～Illuminate animals destiny./博丽灵梦 ExStory（页面不存在）">Extra游戏对话</a></td></tr>
@@ -66,6 +72,7 @@
 <tr><td style="min-width:40px;" rowspan=""><div class="center"><div class="floatnone"><a href="./文件-魂魄妖梦（阴阳历）.png.md" class="image" title="魂魄妖梦"><img alt="魂魄妖梦" src="https://upload.thwiki.cc/thumb/e/e5/%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6%EF%BC%88%E9%98%B4%E9%98%B3%E5%8E%86%EF%BC%89.png/40px-%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6%EF%BC%88%E9%98%B4%E9%98%B3%E5%8E%86%EF%BC%89.png" decoding="async" loading="lazy" width="40" height="40" srcset="https://upload.thwiki.cc/thumb/e/e5/%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6%EF%BC%88%E9%98%B4%E9%98%B3%E5%8E%86%EF%BC%89.png/60px-%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6%EF%BC%88%E9%98%B4%E9%98%B3%E5%8E%86%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/e/e5/%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6%EF%BC%88%E9%98%B4%E9%98%B3%E5%8E%86%EF%BC%89.png/80px-%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6%EF%BC%88%E9%98%B4%E9%98%B3%E5%8E%86%EF%BC%89.png 2x" data-file-width="384" data-file-height="384"></a></div></div></td> <td style="width:150px;padding:3px 9px 3px 7px;" rowspan="">半人半灵的二刀剑士 </td><td style="width:180px;padding:3px 9px 3px 7px;"><a href="./魂魄妖梦.md" title="魂魄妖梦">魂魄妖梦</a></td><td><a href="/index.php?title=%E6%9D%B1%E6%96%B9%E9%99%B0%E9%99%BD%E6%9A%A6%EF%BD%9EIlluminate_animals_destiny./%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6&amp;action=edit&amp;redlink=1" class="new" title="東方陰陽暦～Illuminate animals destiny./魂魄妖梦（页面不存在）">游戏对话/结局</a><br><a href="/index.php?title=%E6%9D%B1%E6%96%B9%E9%99%B0%E9%99%BD%E6%9A%A6%EF%BD%9EIlluminate_animals_destiny./%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6_ExStory&amp;action=edit&amp;redlink=1" class="new" title="東方陰陽暦～Illuminate animals destiny./魂魄妖梦 ExStory（页面不存在）">Extra游戏对话</a></td></tr>
 <tr><td style="min-width:40px;" rowspan=""><div class="center"><div class="floatnone"><a href="./文件-芙兰朵露·斯卡蕾特（阴阳历）.png.md" class="image" title="芙兰朵露·斯卡蕾特"><img alt="芙兰朵露·斯卡蕾特" src="https://upload.thwiki.cc/thumb/b/bf/%E8%8A%99%E5%85%B0%E6%9C%B5%E9%9C%B2%C2%B7%E6%96%AF%E5%8D%A1%E8%95%BE%E7%89%B9%EF%BC%88%E9%98%B4%E9%98%B3%E5%8E%86%EF%BC%89.png/40px-%E8%8A%99%E5%85%B0%E6%9C%B5%E9%9C%B2%C2%B7%E6%96%AF%E5%8D%A1%E8%95%BE%E7%89%B9%EF%BC%88%E9%98%B4%E9%98%B3%E5%8E%86%EF%BC%89.png" decoding="async" loading="lazy" width="40" height="40" srcset="https://upload.thwiki.cc/thumb/b/bf/%E8%8A%99%E5%85%B0%E6%9C%B5%E9%9C%B2%C2%B7%E6%96%AF%E5%8D%A1%E8%95%BE%E7%89%B9%EF%BC%88%E9%98%B4%E9%98%B3%E5%8E%86%EF%BC%89.png/60px-%E8%8A%99%E5%85%B0%E6%9C%B5%E9%9C%B2%C2%B7%E6%96%AF%E5%8D%A1%E8%95%BE%E7%89%B9%EF%BC%88%E9%98%B4%E9%98%B3%E5%8E%86%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/b/bf/%E8%8A%99%E5%85%B0%E6%9C%B5%E9%9C%B2%C2%B7%E6%96%AF%E5%8D%A1%E8%95%BE%E7%89%B9%EF%BC%88%E9%98%B4%E9%98%B3%E5%8E%86%EF%BC%89.png/80px-%E8%8A%99%E5%85%B0%E6%9C%B5%E9%9C%B2%C2%B7%E6%96%AF%E5%8D%A1%E8%95%BE%E7%89%B9%EF%BC%88%E9%98%B4%E9%98%B3%E5%8E%86%EF%BC%89.png 2x" data-file-width="384" data-file-height="384"></a></div></div></td> <td style="width:150px;padding:3px 9px 3px 7px;" rowspan="">恶魔之妹 </td><td style="width:180px;padding:3px 9px 3px 7px;"><a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a></td><td><a href="/index.php?title=%E6%9D%B1%E6%96%B9%E9%99%B0%E9%99%BD%E6%9A%A6%EF%BD%9EIlluminate_animals_destiny./%E8%8A%99%E5%85%B0%E6%9C%B5%E9%9C%B2%C2%B7%E6%96%AF%E5%8D%A1%E8%95%BE%E7%89%B9&amp;action=edit&amp;redlink=1" class="new" title="東方陰陽暦～Illuminate animals destiny./芙兰朵露·斯卡蕾特（页面不存在）">游戏对话/结局</a><br><a href="/index.php?title=%E6%9D%B1%E6%96%B9%E9%99%B0%E9%99%BD%E6%9A%A6%EF%BD%9EIlluminate_animals_destiny./%E8%8A%99%E5%85%B0%E6%9C%B5%E9%9C%B2%C2%B7%E6%96%AF%E5%8D%A1%E8%95%BE%E7%89%B9_ExStory&amp;action=edit&amp;redlink=1" class="new" title="東方陰陽暦～Illuminate animals destiny./芙兰朵露·斯卡蕾特 ExStory（页面不存在）">Extra游戏对话</a></td></tr>
 <tr><td style="min-width:40px;" rowspan=""><div class="center"><div class="floatnone"><a href="./文件-MJ（阴阳历）.png.md" class="image" title="MJ"><img alt="MJ" src="https://upload.thwiki.cc/thumb/f/ff/MJ%EF%BC%88%E9%98%B4%E9%98%B3%E5%8E%86%EF%BC%89.png/40px-MJ%EF%BC%88%E9%98%B4%E9%98%B3%E5%8E%86%EF%BC%89.png" decoding="async" loading="lazy" width="40" height="40" srcset="https://upload.thwiki.cc/thumb/f/ff/MJ%EF%BC%88%E9%98%B4%E9%98%B3%E5%8E%86%EF%BC%89.png/60px-MJ%EF%BC%88%E9%98%B4%E9%98%B3%E5%8E%86%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/f/ff/MJ%EF%BC%88%E9%98%B4%E9%98%B3%E5%8E%86%EF%BC%89.png/80px-MJ%EF%BC%88%E9%98%B4%E9%98%B3%E5%8E%86%EF%BC%89.png 2x" data-file-width="384" data-file-height="384"></a></div></div></td> <td style="width:150px;padding:3px 9px 3px 7px;" rowspan="">河童的助手 </td><td style="width:180px;padding:3px 9px 3px 7px;"><a href="./MJ.md" title="MJ">MJ</a></td><td><a href="/index.php?title=%E6%9D%B1%E6%96%B9%E9%99%B0%E9%99%BD%E6%9A%A6%EF%BD%9EIlluminate_animals_destiny./MJ&amp;action=edit&amp;redlink=1" class="new" title="東方陰陽暦～Illuminate animals destiny./MJ（页面不存在）">游戏对话/结局</a><br><a href="/index.php?title=%E6%9D%B1%E6%96%B9%E9%99%B0%E9%99%BD%E6%9A%A6%EF%BD%9EIlluminate_animals_destiny./MJ_ExStory&amp;action=edit&amp;redlink=1" class="new" title="東方陰陽暦～Illuminate animals destiny./MJ ExStory（页面不存在）">Extra游戏对话</a></td></tr></tbody></table>
+
 
 
 ### BOSS
@@ -79,6 +86,7 @@
 <tr><td rowspan="1" class="bg-color-info-10" style="min-width:100px"><b>EX面道中</b></td><td align="center">暂无<br>图片</td>  <td style="width:150px;padding:3px 9px 3px 7px;" rowspan="1"> 无翼明眸的吸血姬</td><td style="width:180px;padding:3px 9px 3px 7px;" rowspan="1"> <a href="/index.php?title=%E4%BC%8A%E9%B2%81%E7%B1%B3%E5%A8%9C&amp;action=edit&amp;redlink=1" class="new" title="伊鲁米娜（页面不存在）">伊鲁米娜</a> </td></tr><tr><td rowspan="1" class="bg-color-info-10" style="min-width:100px"><b>EX面BOSS</b></td><td style="min-width:35px" rowspan="1"><div class="center"><div class="floatnone"><a href="./文件-月夜见阴翳（阴阳历）.png.md" class="image"><img alt="月夜见阴翳（阴阳历）.png" src="https://upload.thwiki.cc/thumb/f/fc/%E6%9C%88%E5%A4%9C%E8%A7%81%E9%98%B4%E7%BF%B3%EF%BC%88%E9%98%B4%E9%98%B3%E5%8E%86%EF%BC%89.png/40px-%E6%9C%88%E5%A4%9C%E8%A7%81%E9%98%B4%E7%BF%B3%EF%BC%88%E9%98%B4%E9%98%B3%E5%8E%86%EF%BC%89.png" decoding="async" loading="lazy" width="40" height="40" srcset="https://upload.thwiki.cc/thumb/f/fc/%E6%9C%88%E5%A4%9C%E8%A7%81%E9%98%B4%E7%BF%B3%EF%BC%88%E9%98%B4%E9%98%B3%E5%8E%86%EF%BC%89.png/60px-%E6%9C%88%E5%A4%9C%E8%A7%81%E9%98%B4%E7%BF%B3%EF%BC%88%E9%98%B4%E9%98%B3%E5%8E%86%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/f/fc/%E6%9C%88%E5%A4%9C%E8%A7%81%E9%98%B4%E7%BF%B3%EF%BC%88%E9%98%B4%E9%98%B3%E5%8E%86%EF%BC%89.png/80px-%E6%9C%88%E5%A4%9C%E8%A7%81%E9%98%B4%E7%BF%B3%EF%BC%88%E9%98%B4%E9%98%B3%E5%8E%86%EF%BC%89.png 2x" data-file-width="384" data-file-height="384"></a></div></div></td>  <td style="width:150px;padding:3px 9px 3px 7px;" rowspan="1"> 统摄月光的幼影</td><td style="width:180px;padding:3px 9px 3px 7px;" rowspan="1"> <a href="/index.php?title=%E6%9C%88%E5%A4%9C%E8%A7%81%E9%98%B4%E7%BF%B3&amp;action=edit&amp;redlink=1" class="new" title="月夜见阴翳（页面不存在）">月夜见阴翳</a> </td></tr></tbody></table>
 
 
+
 ## 附带文档
 
 <table><tbody><tr>
@@ -90,6 +98,7 @@
 <li><a href="./東方陰陽暦～Illuminate_animals_destiny.-Readme.md" title="東方陰陽暦～Illuminate animals destiny./Readme">Readme</a></li>
 <li><a href="./東方陰陽暦～Illuminate_animals_destiny.-Omake.md" title="東方陰陽暦～Illuminate animals destiny./Omake">Omake</a></li></ul>
 </td></tr></tbody></table>
+
 
 
 ## 其他资料
@@ -107,6 +116,7 @@
 <ul><li><a href="/index.php?title=%E6%9D%B1%E6%96%B9%E9%99%B0%E9%99%BD%E6%9A%A6%EF%BD%9EIlluminate_animals_destiny./%E5%85%B6%E4%BB%96&amp;action=edit&amp;redlink=1" class="new" title="東方陰陽暦～Illuminate animals destiny./其他（页面不存在）">其他相关资料</a></li>
 <li><a href="/index.php?title=%E6%9D%B1%E6%96%B9%E9%99%B0%E9%99%BD%E6%9A%A6%EF%BD%9EIlluminate_animals_destiny./%E7%B3%BB%E7%BB%9F&amp;action=edit&amp;redlink=1" class="new" title="東方陰陽暦～Illuminate animals destiny./系统（页面不存在）">机体特性与系统说明</a></li></ul>
 </td></tr></tbody></table>
+
 
 
 ## 词条导航

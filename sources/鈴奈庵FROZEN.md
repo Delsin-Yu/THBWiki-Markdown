@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-鈴奈庵FROZEN封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/2/24/%E9%88%B4%E5%A5%88%E5%BA%B5FROZEN%E5%B0%81%E9%9D%A2.png/80px-%E9%88%B4%E5%A5%88%E5%BA%B5FROZEN%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="80" height="112" srcset="https://upload.thwiki.cc/thumb/2/24/%E9%88%B4%E5%A5%88%E5%BA%B5FROZEN%E5%B0%81%E9%9D%A2.png/120px-%E9%88%B4%E5%A5%88%E5%BA%B5FROZEN%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/2/24/%E9%88%B4%E5%A5%88%E5%BA%B5FROZEN%E5%B0%81%E9%9D%A2.png/160px-%E9%88%B4%E5%A5%88%E5%BA%B5FROZEN%E5%B0%81%E9%9D%A2.png 2x" data-file-width="637" data-file-height="893"></a><div class="cover-char">角色：<a href="./本居小铃.md" title="本居小铃">本居小铃</a>，<a href="./稗田阿求.md" title="稗田阿求">稗田阿求</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/88515264">https://www.pixiv.net/artworks/88515264</a></td></tr></tbody></table>
 
 鈴奈庵FROZEN（同人志，なかもず火災保険，2020） - 2020年10月11日 由 なかもず火災保険 于 东方红楼梦16 发布的漫画同人志，分级为 一般向
+
 ## Staff
 - [mozu](./mozu.md)
+
 
 ## 评论
 

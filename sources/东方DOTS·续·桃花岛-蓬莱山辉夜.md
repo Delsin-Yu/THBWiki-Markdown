@@ -169,6 +169,7 @@
 [](./文件-THD2蓬莱山辉夜.png.md)
   
 
+
 ## 目录
 
 - [1 角色定位](#角色定位)
@@ -188,10 +189,12 @@
 
 
 
+
 ## 角色定位
   
 爆发 - 打野 - 控制 - 逃生 - 推进 - 先手 - 耐久
   
+
 
 ## 技能介绍
 
@@ -789,6 +792,7 @@
 </td></tr></tbody></table>
 
 
+
 ## 天赋树
 
 
@@ -832,20 +836,24 @@
 “光明之世”：夜晚1.5倍魔法回复速度，白天2倍魔法回复速度。
   
 
+
 ### 出门装备
 ```
 [](./文件-THD2魔法使扫把.png.md) [](./文件-THD2思兼生命药.png.md) [](./文件-THD2爱人卡.png.md) [](./文件-THD2四叶草.png.md)
 ```
+
 
 ### 前期装备
 ```
 [](./文件-THD2冰精跳跃装置.png.md) [](./文件-THD2西尔芙灵纹.png.md)
 ```
 
+
 ### 核心装备
 ```
 [](./文件-THD2不明的秒计时.png.md) [](./文件-THD2亡灵送行提灯.png.md) [](./文件-THD2油库里之杖.png.md) [](./文件-THD2侦查守卫.png.md) [](./文件-THD2岗哨守卫.png.md)
 ```
+
 
 ### 可选装备
 ```
@@ -920,6 +928,7 @@
 <td><a href="./文件-DOTA黄点.png.md" class="image" title="+2 全属性"><img alt="+2 全属性" src="https://upload.thwiki.cc/thumb/d/da/DOTA%E9%BB%84%E7%82%B9.png/40px-DOTA%E9%BB%84%E7%82%B9.png" decoding="async" loading="lazy" width="40" height="40" srcset="https://upload.thwiki.cc/thumb/d/da/DOTA%E9%BB%84%E7%82%B9.png/60px-DOTA%E9%BB%84%E7%82%B9.png 1.5x, https://upload.thwiki.cc/thumb/d/da/DOTA%E9%BB%84%E7%82%B9.png/80px-DOTA%E9%BB%84%E7%82%B9.png 2x" data-file-width="128" data-file-height="128"></a></td>
 <td><a href="./文件-THD2天赋树25右.png.md" class="image" title="四重神宝同时存在"><img alt="四重神宝同时存在" src="https://upload.thwiki.cc/thumb/5/5b/THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%8F%B3.png/40px-THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%8F%B3.png" decoding="async" loading="lazy" width="40" height="40" srcset="https://upload.thwiki.cc/thumb/5/5b/THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%8F%B3.png/60px-THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%8F%B3.png 1.5x, https://upload.thwiki.cc/thumb/5/5b/THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%8F%B3.png/80px-THD2%E5%A4%A9%E8%B5%8B%E6%A0%9125%E5%8F%B3.png 2x" data-file-width="103" data-file-height="103"></a>
 </td></tr></tbody></table>
+
 
 
 ## 台词
@@ -1002,6 +1011,7 @@
 </td>
 <td>はめられる前(まえ )にはめるのです <br>[被人算计前先算计人]
 </td></tr></tbody></table>
+
 
 
 ## 教学视频

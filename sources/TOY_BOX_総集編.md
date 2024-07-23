@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-TOY_BOX_総集編封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/9/96/TOY_BOX_%E7%B7%8F%E9%9B%86%E7%B7%A8%E5%B0%81%E9%9D%A2.jpg/136px-TOY_BOX_%E7%B7%8F%E9%9B%86%E7%B7%A8%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="136" height="196" srcset="https://upload.thwiki.cc/thumb/9/96/TOY_BOX_%E7%B7%8F%E9%9B%86%E7%B7%A8%E5%B0%81%E9%9D%A2.jpg/204px-TOY_BOX_%E7%B7%8F%E9%9B%86%E7%B7%A8%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/9/96/TOY_BOX_%E7%B7%8F%E9%9B%86%E7%B7%A8%E5%B0%81%E9%9D%A2.jpg/272px-TOY_BOX_%E7%B7%8F%E9%9B%86%E7%B7%A8%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="879" data-file-height="1266"></a><div class="cover-char">角色：<a href="./琪露诺.md" title="琪露诺">琪露诺</a></div></td>
@@ -18,11 +19,14 @@ TOY BOX 総集編（同人志，北国もやし製造所，2018） - 2018年5月
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=358116">蜜瓜</a></td></tr></tbody></table>
 
 
+
 ## 预览
 - [](./文件-TOY_BOX_総集編预览图1.jpg.md)- [](./文件-TOY_BOX_総集編预览图2.jpg.md)- [](./文件-TOY_BOX_総集編预览图3.jpg.md)
 
+
 ## Staff
 - [もや造](./もや造.md)
+
 
 ## 评论
 

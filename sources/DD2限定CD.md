@@ -18,6 +18,7 @@
 
 
 </center>
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=DD2%E9%99%90%E5%AE%9ACD%E5%B0%81%E9%9D%A2.jpg" class="new" title="文件:DD2限定CD封面.jpg">封面图片</a><div class="cover-char">角色：<a href="./霍青娥.md" title="霍青娥">霍青娥</a></div></td>
@@ -26,17 +27,20 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/subachoco/status/1634182630047633408">https://twitter.com/subachoco/status/1634182630047633408</a></td></tr></tbody></table>
 
 DD2限定CD（同人专辑，ちょこふぁん，2023） - 2023年3月11日 由 ちょこふぁん 于 DESIRE D LIVE!2 发布的Omake同人专辑，分级为 一般向
+
 ## Staff
 Design
 : 设计师 （[网址 社团]）
 Illustration
 : 画师 （[网址 社团]）
 
+
 ## 曲目列表
 
 <table><tbody><tr><td id="1" class="info"><b>01</b></td><td id="???" colspan="2" class="title">???<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=DD2限定CD"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr>
 <tr><td id="2" class="info"><b>02</b></td><td id="???" colspan="2" class="title">???<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=DD2限定CD"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr>
 <tr><td id="3" class="info"><b>03</b></td><td id="???" colspan="2" class="title">???<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=DD2限定CD"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr></tbody></table>
+
 
 
 ## 评论

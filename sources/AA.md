@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-AA封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/d/d7/AA%E5%B0%81%E9%9D%A2.jpg/158px-AA%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="158" height="224" srcset="https://upload.thwiki.cc/thumb/d/d7/AA%E5%B0%81%E9%9D%A2.jpg/237px-AA%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/d/d7/AA%E5%B0%81%E9%9D%A2.jpg/316px-AA%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="600" data-file-height="851"></a><div class="cover-char">角色：<a href="./爱丽丝·玛格特洛依德.md" title="爱丽丝·玛格特洛依德">爱丽丝·玛格特洛依德</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://azure.genin.jp/dojin/aa.html">http://azure.genin.jp/dojin/aa.html</a></td></tr><tr><td class="label">备注</td><td colspan="2">全彩</td></tr></tbody></table>
 
 AA（同人志，そらひま，2010） - 2010年12月30日 由 そらひま 于 Comic Market 79 发布的画集同人志，A4尺寸一共20页，登场人物有 爱丽丝·玛格特洛依德，分级为 一般向
+
 ## Staff
 - 日向あずり (未找到链接)
+
 
 ## 评论
 

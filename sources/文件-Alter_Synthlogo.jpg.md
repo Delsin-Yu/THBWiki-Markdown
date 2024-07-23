@@ -4,6 +4,7 @@
 
 Alter_Synth | 社团LOGO
 
+
 ## 摘要
   
 同人音乐社团Alter Synth的logo

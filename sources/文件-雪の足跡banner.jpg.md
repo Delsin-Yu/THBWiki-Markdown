@@ -4,6 +4,7 @@
 
 社团LOGO | 雪の足跡
 
+
 ## 摘要
   
 源地址：[direct image link](http://yukiato.sakura.ne.jp/banner/yuki_banner.jpg), [source page](http://yukiato.sakura.ne.jp/link.html)

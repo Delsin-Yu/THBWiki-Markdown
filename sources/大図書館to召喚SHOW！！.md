@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-大図書館to召喚SHOW！！封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/d/d9/%E5%A4%A7%E5%9B%B3%E6%9B%B8%E9%A4%A8to%E5%8F%AC%E5%96%9ASHOW%EF%BC%81%EF%BC%81%E5%B0%81%E9%9D%A2.png/140px-%E5%A4%A7%E5%9B%B3%E6%9B%B8%E9%A4%A8to%E5%8F%AC%E5%96%9ASHOW%EF%BC%81%EF%BC%81%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="140" height="196" srcset="https://upload.thwiki.cc/thumb/d/d9/%E5%A4%A7%E5%9B%B3%E6%9B%B8%E9%A4%A8to%E5%8F%AC%E5%96%9ASHOW%EF%BC%81%EF%BC%81%E5%B0%81%E9%9D%A2.png/210px-%E5%A4%A7%E5%9B%B3%E6%9B%B8%E9%A4%A8to%E5%8F%AC%E5%96%9ASHOW%EF%BC%81%EF%BC%81%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/d/d9/%E5%A4%A7%E5%9B%B3%E6%9B%B8%E9%A4%A8to%E5%8F%AC%E5%96%9ASHOW%EF%BC%81%EF%BC%81%E5%B0%81%E9%9D%A2.png/280px-%E5%A4%A7%E5%9B%B3%E6%9B%B8%E9%A4%A8to%E5%8F%AC%E5%96%9ASHOW%EF%BC%81%EF%BC%81%E5%B0%81%E9%9D%A2.png 2x" data-file-width="550" data-file-height="769"></a><div class="cover-char">角色：<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a>，<a href="./爱丽丝·玛格特洛依德.md" title="爱丽丝·玛格特洛依德">爱丽丝·玛格特洛依德</a>，<a href="./帕秋莉·诺蕾姬.md" title="帕秋莉·诺蕾姬">帕秋莉·诺蕾姬</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://scichil.blog92.fc2.com/blog-entry-59.html">http://scichil.blog92.fc2.com/blog-entry-59.html</a><br><a rel="nofollow" class="external free" href="https://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=20798807">https://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=20798807</a></td></tr></tbody></table>
 
 大図書館to召喚SHOW！！（同人志，サイチル，2012） - 2012年5月27日 由 サイチル 于 博丽神社例大祭9 发布的漫画同人志，B5尺寸一共44页，分级为 一般向
+
 ## Staff
 - [北斗](./北斗.md)
+
 
 ## 评论
 

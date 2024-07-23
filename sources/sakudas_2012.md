@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-sakudas_2012封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/9/9d/sakudas_2012%E5%B0%81%E9%9D%A2.jpg/118px-sakudas_2012%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="118" height="168" srcset="https://upload.thwiki.cc/thumb/9/9d/sakudas_2012%E5%B0%81%E9%9D%A2.jpg/177px-sakudas_2012%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/9/9d/sakudas_2012%E5%B0%81%E9%9D%A2.jpg/236px-sakudas_2012%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="728" data-file-height="1035"></a><div class="cover-char">角色：<a href="/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C" title="十六夜咲夜">十六夜咲夜</a>，<a href="./红美铃.md" title="红美铃">红美铃</a></div></td>
@@ -14,9 +15,12 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/26262642">https://www.pixiv.net/artworks/26262642</a></td></tr></tbody></table>
 
 sakudas 2012（同人志，鳩血，2012） - 2012年5月27日 由 鳩血 于 博丽神社例大祭9 发布的漫画/总集同人志，一共140页，登场人物有 十六夜咲夜、红美铃，分级为 一般向
+
 ## 预览
+
 ## Staff
 - 麻生シン (未找到链接)
+
 
 ## 评论
 

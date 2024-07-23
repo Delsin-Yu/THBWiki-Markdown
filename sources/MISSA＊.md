@@ -4,7 +4,8 @@
 
 MISSA* ，主要制作 同人志 的日本同人社团，主催是 美里みゆ，当前状态为 转入非东方
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -20,17 +21,21 @@ MISSA* ，主要制作 同人志 的日本同人社团，主催是 美里みゆ�
 
 
 
+
 ## 社团信息
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> MISSA* </td></tr><tr><td><b>主要作品类型</b></td><td>同人志</td></tr><tr><td><b>当前状态</b></td><td>转入非东方</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=%E7%BE%8E%E9%87%8C%E3%81%BF%E3%82%86&amp;action=edit&amp;redlink=1" class="new" title="美里みゆ（页面不存在）">美里みゆ</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://missa-log.jugem.jp">http://missa-log.jugem.jp</a> </td></tr></tbody></table>
 
 MISSA＊（同人社团，同人志社团） - MISSA* ，主要制作 同人志 的日本同人社团，主催是 美里みゆ，当前状态为 转入非东方
+
 ## 成员名单
 - 美里みゆ (未找到链接) a.k.a. みゆぴよ
   - [Pixiv ID&#160;: 317283](https://www.pixiv.net/users/317283)，[Twitter&#160;: @miyu_misato](https://twitter.com/miyu_misato)
 
 
+
 ## 作品列表
+
 ### 同人志
 [](./みんなのやくがみさま＆あるかさのおはなし.md)[みんなのやくがみさま＆あるかさのおはなし](./みんなのやくがみさま＆あるかさのおはなし.md)首发日期：2010-03-14 （第七回 博麗神社例大祭 (未找到链接)）绘本 （一般向）该作品是与 星天月花 (未找到链接) 合作创作的A5&#160;尺寸 28&#160;页Alice White Day 封面图片 (未找到链接)[Alice White Day](./Alice_White_Day.md)首发日期：2010-03-14 （第七回 博麗神社例大祭 (未找到链接)）漫画 （一般向）[](./パチュリーさんがごきげんななめなんだぜ!!.md)[パチュリーさんがごきげんななめなんだぜ!!](./パチュリーさんがごきげんななめなんだぜ!!.md)首发日期：2010-10-11 （東方紅楼夢6 (未找到链接)）漫画 （一般向）A5&#160;尺寸 20&#160;页[](./ココロマドイ.md)[ココロマドイ](./ココロマドイ.md)首发日期：2011-01-23 （こみっく★トレジャー17 (未找到链接)）漫画 （一般向） 12&#160;页[](./REALIZES.md)[REALIZES](./REALIZES.md)首发日期：2011-05-08 （第八回 博麗神社例大祭 (未找到链接)）漫画 （一般向）フランちゃんの恋事情(仮)お試し本 封面图片 (未找到链接)[フランちゃんの恋事情(仮)お試し本](./フランちゃんの恋事情(仮)お試し本.md)首发日期：2011-10-16 （東方紅楼夢7 (未找到链接)）漫画 （一般向）[](./恋情フィソロフィー.md)[恋情フィソロフィー](./恋情フィソロフィー.md)首发日期：2012-12-30 （Comic Market 83 (未找到链接)）漫画 （一般向）
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -47,6 +52,7 @@ MISSA＊（同人社团，同人志社团） - MISSA* ，主要制作 同人志 
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 参展信息

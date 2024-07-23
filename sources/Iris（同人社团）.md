@@ -4,11 +4,12 @@
 
 Iris ，于 2019 年成立，主要制作 同人音乐 的中国大陆同人社团，主催是 神绮（人物），曾以 アイリス 名义活动，当前状态为 休止
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
   
   
 
   
+
 
 ## 目录
 
@@ -26,12 +27,14 @@ Iris ，于 2019 年成立，主要制作 同人音乐 的中国大陆同人社�
 
 
 
+
 ## 社团信息
 [](./文件-Iris（同人社团）banner.jpg.md)  [](./文件-Iris（同人社团）banner.jpg.md)banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Iris </td></tr><tr><td><b>中文名称</b></td><td>鸢尾</td></tr><tr><td><b>曾用名称</b></td><td> アイリス </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2019-07-04</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>主催</b></td><td> <a href="./神绮（人物）.md" title="神绮（人物）">神绮（人物）</a> </td></tr><tr><td><b>地区</b></td><td>中国大陆</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="https://weibo.com/p/1005057217509487">https://weibo.com/p/1005057217509487</a> 微博</td></tr></tbody></table>
 
 Iris（同人社团，同人音乐社团） - Iris ，于 2019 年成立，主要制作 同人音乐 的中国大陆同人社团，主催是 神绮（人物），曾以 アイリス 名义活动，当前状态为 休止
+
 ## 成员名单
 主催
 : [神绮](./神绮（人物）.md)
@@ -57,7 +60,9 @@ Iris（同人社团，同人音乐社团） - Iris ，于 2019 年成立，主�
 : Ayami
 : GeTe-哥特
 
+
 ## 作品列表
+
 ### 同人专辑
 [](./旧巷夜谈～Acataleptic_Akashic.md)[旧巷夜谈～Acataleptic Akashic](./旧巷夜谈～Acataleptic_Akashic.md)首发日期：2018-08-18 （第九届上海THONLY 東方蛍灯筏～ほたるびにいかだ (未找到链接)）HYCD-001全长 （一般向）该作品是与 [幻想跃迁实验室](./幻想跃迁实验室.md) 合作创作的[](./灵寄夜想～Mortal_Leader.md)[灵寄夜想～Mortal Leader](./灵寄夜想～Mortal_Leader.md)首发日期：2019-08-17 （第十届上海THONLY 東方滴星盞～ほしをしたたるさかずき (未找到链接)）IRIS-001全长 （一般向）
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -66,10 +71,12 @@ Iris（同人社团，同人音乐社团） - Iris ，于 2019 年成立，主�
 </table>
 
 
+
 ## 其他信息
   
 Iris（鸢尾团）由原[幻想跃迁实验室](./幻想跃迁实验室.md)同音工作组独立出来的新同音社团，同时收录[幻想跃迁实验室](./幻想跃迁实验室.md)的原专辑。其实就是马甲团
   
+
 
 ## 社团参展情况
 

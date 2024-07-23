@@ -4,7 +4,8 @@
 
 Watergate Ruin ，于 2007 年成立，主要制作 同人志 的日本同人社团，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -15,13 +16,16 @@ Watergate Ruin ，于 2007 年成立，主要制作 同人志 的日本同人社
 
 
 
+
 ## 社团信息
 文件:Watergate Ruinbanner.jpg (未找到链接)  banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Watergate Ruin </td></tr><tr><td><b>主要作品类型</b></td><td>同人志</td></tr><tr><td><b>成立时间</b></td><td>2007</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://watergateruin.iza-yoi.net/">http://watergateruin.iza-yoi.net/</a> </td></tr></tbody></table>
 
 Watergate Ruin（同人社团，同人志社团） - Watergate Ruin ，于 2007 年成立，主要制作 同人志 的日本同人社团，当前状态为 活动
+
 ## 成员名单
+
 ## 作品列表
 As Usual 封面图片 (未找到链接)As Usual (未找到链接)首发日期：未知 - 紅き月への前奏曲 封面图片 (未找到链接)紅き月への前奏曲 (未找到链接)首发日期：未知 - 東方遊奇談 封面图片 (未找到链接)東方遊奇談 (未找到链接)首发日期：未知 - DAILY HAPPENING! 封面图片 (未找到链接)DAILY HAPPENING! (未找到链接)首发日期：未知 - 鬼ノ子砕々 封面图片 (未找到链接)鬼ノ子砕々 (未找到链接)首发日期：未知 - こちけい！　こちや幻想郷守矢神社境内前 封面图片 (未找到链接)こちけい！ こちや幻想郷守矢神社境内前 (未找到链接)首发日期：未知 - 
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -30,6 +34,7 @@ As Usual 封面图片 (未找到链接)As Usual (未找到链接)首发日期：
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458"></table>
+
 
 
 ## 其他信息

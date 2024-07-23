@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-IF地霊殿封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/b/b0/IF%E5%9C%B0%E9%9C%8A%E6%AE%BF%E5%B0%81%E9%9D%A2.jpg/138px-IF%E5%9C%B0%E9%9C%8A%E6%AE%BF%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="138" height="196" srcset="https://upload.thwiki.cc/thumb/b/b0/IF%E5%9C%B0%E9%9C%8A%E6%AE%BF%E5%B0%81%E9%9D%A2.jpg/207px-IF%E5%9C%B0%E9%9C%8A%E6%AE%BF%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/b/b0/IF%E5%9C%B0%E9%9C%8A%E6%AE%BF%E5%B0%81%E9%9D%A2.jpg/276px-IF%E5%9C%B0%E9%9C%8A%E6%AE%BF%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="633" data-file-height="900"></a><div class="cover-char">角色：<a href="./火焰猫燐.md" title="火焰猫燐">火焰猫燐</a>，<a href="./灵乌路空.md" title="灵乌路空">灵乌路空</a>，<a href="./古明地恋.md" title="古明地恋">古明地恋</a>，<a href="./古明地觉.md" title="古明地觉">古明地觉</a></div></td>
@@ -18,9 +19,12 @@ IF地霊殿（同人志，キラカレー!!!，2022） - 2022年10月23日 由 �
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=2145787">蜜瓜</a></td></tr></tbody></table>
 
 
+
 ## 预览
+
 ## Staff
 - きらまるこう (未找到链接)
+
 
 ## 评论
 

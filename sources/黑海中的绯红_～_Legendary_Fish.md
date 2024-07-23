@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -40,11 +41,13 @@
 
 
 
+
 ## 基本信息
 
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">黒い海に紅く　～ Legendary Fish</td></tr><tr><td><b>译名</b></td><td>黑海中的绯红 ～ Legendary Fish</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 黑海中的绯红 ～ Legendary Fish（曲目） - 由 ZUN 创作的官方曲目，原名 黒い海に紅く　～ Legendary Fish
+
 ## 出现作品
 
 <table>
@@ -54,11 +57,15 @@
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 全人类的天乐录
+
 #### DISC1
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-TFM-003O_13.mp3.md" title="文件:TFM-003O 13.mp3">TFM-003O_13.mp3</a><br><audio src="https://upload.thwiki.cc/6/65/TFM-003O_13.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track13.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>5:36</td></tr></tbody></table>
+
 
 
 #### DISC2
@@ -66,7 +73,9 @@
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-TFM-003A_15.mp3.md" title="文件:TFM-003A 15.mp3">TFM-003A_15.mp3</a><br><audio src="https://upload.thwiki.cc/7/7f/TFM-003A_15.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track15.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>4:10</td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 东方绯想天
 - 曲评 (未找到链接)
 
@@ -80,8 +89,11 @@
 　　我怎么也没法相信，那形状怪异的鱼类是存在于这个世界的生物。  
   
 　　就是这样子的衣玖主题曲。
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
   
  **黒い海に紅く　～ Legendary Fish**  黑海中的绯红　～ Legendary Fish
@@ -115,6 +127,7 @@
 
 
 - [](./文件-皇带鱼.jpg.md)皇带鱼- [](./文件-永江衣玖（绯想天立绘）.png.md)永江衣玖（绯想天立绘）
+
 
 ### 二次同人数据
 

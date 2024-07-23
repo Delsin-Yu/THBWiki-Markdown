@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Subterranean_Animism_10th_Illustration_Fanbook封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/2/2e/Subterranean_Animism_10th_Illustration_Fanbook%E5%B0%81%E9%9D%A2.png/140px-Subterranean_Animism_10th_Illustration_Fanbook%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="140" height="140" srcset="https://upload.thwiki.cc/thumb/2/2e/Subterranean_Animism_10th_Illustration_Fanbook%E5%B0%81%E9%9D%A2.png/210px-Subterranean_Animism_10th_Illustration_Fanbook%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/2/2e/Subterranean_Animism_10th_Illustration_Fanbook%E5%B0%81%E9%9D%A2.png/280px-Subterranean_Animism_10th_Illustration_Fanbook%E5%B0%81%E9%9D%A2.png 2x" data-file-width="1000" data-file-height="1000"></a><div class="cover-char">角色：<a href="./古明地觉.md" title="古明地觉">古明地觉</a>，<a href="./古明地恋.md" title="古明地恋">古明地恋</a></div></td>
@@ -14,9 +15,12 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/69031518">https://www.pixiv.net/artworks/69031518</a><br><a rel="nofollow" class="external free" href="https://twitter.com/nig_18/status/1002210145827405824">https://twitter.com/nig_18/status/1002210145827405824</a><br><a rel="nofollow" class="external free" href="https://twitter.com/nig_18/status/1002618294715613184">https://twitter.com/nig_18/status/1002618294715613184</a></td></tr></tbody></table>
 
 Subterranean Animism 10th Illustration Fanbook（同人志，いちたすいちは，2018） - 2018年6月3日 由 いちたすいちは 于 古明地情结5 发布的画集同人志，分级为 一般向
+
 ## 预览
+
 ## Staff
 - いちは (未找到链接)
+
 
 ## 评论
 

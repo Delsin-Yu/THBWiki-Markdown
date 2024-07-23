@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-SUTEKI_WARSⅢ封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/4/46/SUTEKI_WARS%E2%85%A2%E5%B0%81%E9%9D%A2.jpg/140px-SUTEKI_WARS%E2%85%A2%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="140" height="196" srcset="https://upload.thwiki.cc/thumb/4/46/SUTEKI_WARS%E2%85%A2%E5%B0%81%E9%9D%A2.jpg/210px-SUTEKI_WARS%E2%85%A2%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/4/46/SUTEKI_WARS%E2%85%A2%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="214" data-file-height="300"></a><div class="cover-char">角色：<a href="./蓬莱山辉夜.md" title="蓬莱山辉夜">蓬莱山辉夜</a>，<a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a>，<a href="./伊吹萃香.md" title="伊吹萃香">伊吹萃香</a>，<a href="./东风谷早苗.md" title="东风谷早苗">东风谷早苗</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://ffkaiura.sakura.ne.jp/kaiunhuruihon.html">http://ffkaiura.sakura.ne.jp/kaiunhuruihon.html</a></td></tr></tbody></table>
 
 SUTEKI WARSⅢ（同人志，泥舟海運，2008） - 2008年11月2日 由 泥舟海運 于 东方红楼梦4 发布的漫画同人志，B5尺寸一共116页，分级为 一般向
+
 ## Staff
 - [こうば](./こうば.md)
+
 
 ## 评论
 

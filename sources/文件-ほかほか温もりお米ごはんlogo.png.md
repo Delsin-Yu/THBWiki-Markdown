@@ -4,6 +4,7 @@
 
 ほかほか温もりお米ごはん | 社团LOGO
 
+
 ## 摘要
   
 源地址：[direct image link](https://xxichigo.web.fc2.com/hokanuku/img/logo2.png), [source page](https://xxichigo.web.fc2.com/hokanuku/)

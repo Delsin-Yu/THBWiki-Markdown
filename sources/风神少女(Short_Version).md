@@ -1,0 +1,196 @@
+# 风神少女
+
+<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\3\3a\ns0%3A%E9%A3%8E%E7%A5%9E%E5%B0%91%E5%A5%B3.html -->
+
+由 ZUN 创作的官方曲目，原名 風神少女
+
+本页是关于东方Project  
+ **原作音乐** 的词条
+
+## 目录
+
+- [1 基本信息](#基本信息)
+- [2 出现作品](#出现作品)
+- [3 音乐文件](#音乐文件)
+
+  - [3.1 东方文花帖（书籍）附属CD](#东方文花帖（书籍）附属CD)
+  - [3.2 东方花映塚](#东方花映塚)
+  - [3.3 东方文花帖](#东方文花帖)
+  - [3.4 全人类的天乐录](#全人类的天乐录)
+
+
+
+- [4 说明文本](#说明文本)
+
+  - [4.1 东方文花帖](#东方文花帖_2)
+  - [4.2 东方花映塚](#东方花映塚_2)
+  - [4.3 东方文花帖（书籍）](#东方文花帖（书籍）)
+
+
+
+- [5 其他资料](#其他资料)
+
+  - [5.1 乐理资讯](#乐理资讯)
+  - [5.2 分析考据](#分析考据)
+  - [5.3 二次同人数据](#二次同人数据)
+
+
+
+
+
+
+
+
+## 基本信息
+
+<table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">風神少女</td></tr><tr><td><b>译名</b></td><td>风神少女</td></tr><tr><td><b>英文译名</b></td><td>Wind God Girl</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
+
+风神少女（曲目） - 由 ZUN 创作的官方曲目，原名 風神少女
+
+## 出现作品
+
+<table>
+<tbody><tr><td>2005年8月11日（非展会）</td><td><b><a href="./东方文花帖（书籍）.md" title="东方文花帖（书籍）">东方文花帖（书籍）</a></b></td><td>附属CD 第1轨</td><td style="padding-left:5px;">風神少女（风神少女）</td><td style="padding-left:10px;">作曲：ZUN</td></tr>
+<tr><td>2005年8月14日（Comic Market 68）</td><td><b><a href="./东方花映塚.md" title="东方花映塚">东方花映塚</a>正式版</b></td><td><a href="./射命丸文.md" title="射命丸文">射命丸文</a>的主题曲</td><td style="padding-left:5px;">風神少女(Short Version)（风神少女(Short Version)）</td><td style="padding-left:10px;">编曲：ZUN</td></tr>
+<tr><td>2005年12月30日（Comic Market 69）</td><td><b><a href="./东方文花帖.md" title="东方文花帖">东方文花帖</a></b></td><td>Level 10场景音乐</td><td style="padding-left:5px;">風神少女（风神少女）</td><td style="padding-left:10px;">编曲：ZUN</td></tr>
+<tr><td>2008年5月25日（第五回 博丽神社例大祭）</td><td><b><a href="./东方绯想天.md" title="东方绯想天">东方绯想天</a>正式版</b></td><td><a href="./妖怪之山.md" title="妖怪之山">妖怪之山</a>场景音乐</td><td style="padding-left:5px;">風神少女（风神少女）</td><td style="padding-left:10px;">编曲：あきやまうに</td></tr>
+<tr><td>2008年8月16日（Comic Market 74）</td><td><b><a href="./全人类的天乐录.md" title="全人类的天乐录">全人类的天乐录</a></b></td><td>DISC2 第13轨</td><td style="padding-left:5px;">風神少女（风神少女）</td><td style="padding-left:10px;">编曲：あきやまうに</td></tr>
+</tbody></table>
+
+
+
+## 音乐文件
+
+### 东方文花帖（书籍）附属CD
+
+<table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-BAiJR_01.mp3.md" title="文件:BAiJR 01.mp3">BAiJR_01.mp3</a><br><audio src="https://upload.thwiki.cc/4/47/BAiJR_01.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track01.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>6:12</td></tr></tbody></table>
+
+
+
+### 东方花映塚
+
+<table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th09_11.mp3.md" title="文件:th09 11.mp3">th09_11.mp3</a><br><audio src="https://upload.thwiki.cc/e/e9/th09_11.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>BGM\th09_11.wav</td></tr><tr><td><b>BGMForAll</b></td><td><div class="mw-collapsible mw-collapsed">
+<p><b>BGMForAll数据信息</b>
+</p>
+<div class="mw-collapsible-content">BGM = 風神少女 (Short Version), 0xC6B9810, 0x2AFC00, 0xC969410, 0x1B62000</div>
+</div>
+</td></tr></tbody></table>
+
+
+
+### 东方文花帖
+
+<table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th09.5_06.mp3.md" title="文件:th09.5 06.mp3">th09.5_06.mp3</a><br><audio src="https://upload.thwiki.cc/5/53/th09.5_06.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>BGM\th09.5_06.wav</td></tr><tr><td><b>BGMForAll</b></td><td><div class="mw-collapsible mw-collapsed">
+<p><b>BGMForAll数据信息</b>
+</p>
+<div class="mw-collapsible-content">BGM = 風神少女, 0x05965930, 0x002AFD00, 0x5C15630, 0x1B61D00</div>
+</div>
+</td></tr></tbody></table>
+
+
+
+### 全人类的天乐录
+
+<table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-TFM-003A_13.mp3.md" title="文件:TFM-003A 13.mp3">TFM-003A_13.mp3</a><br><audio src="https://upload.thwiki.cc/0/09/TFM-003A_13.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track13.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>4:07</td></tr></tbody></table>
+
+
+
+## 说明文本
+
+### 东方文花帖
+- Music Room (未找到链接)
+
+　摄影用曲５。  
+  
+　这首曲子因为是文花帖的主题曲，不编入是不行的。  
+　虽然在本篇几乎不大用到:-)
+
+### 东方花映塚
+- Music Room (未找到链接)
+
+　射命丸文的主题曲  
+　这一首，是「东方文花帖」之曲的Short Version。  
+　原曲是６分钟左右的长曲，但是因为在这个游戏里无法达到那么长时  
+间的对战，所以仅仅把主要的部分循环了一下。  
+　想着天狗少女酷酷地吹着小号而作的曲。  
+　痛快地翱翔于风之世界。  
+　正如花映塚的印象。
+
+### 东方文花帖（书籍）
+- 幻想的音觉 (未找到链接)
+
+（『[东方花映塚](./东方花映塚.md)』收录曲）　　这是非常有节奏感的曲子。虽然也是有新曲的原因在里面，这是一首非常接近我心目中东方的印象的曲子。自然的，少女般的可爱，洒脱的感觉，让人浮现出日本的感觉的东洋风，毫不影响节奏感的适合射击游戏的地方，偶尔有这种曲子也不错呢（说得好像是事不关己啊）  
+　　是的，我也曾经吹过小号也有过自己的小号。我觉得这样的曲子用小号吹出来一定很帅气。  
+　　顺带一提这首曲子主要用小号，是来自吹进风。
+
+## 其他资料
+
+### 乐理资讯
+
+### 分析考据
+  
+ **風神少女**  风神少女
+  
+
+- 風神
+  - 设定中[射命丸文](./射命丸文.md)拥有操纵风程度的能力，能够掀起狂风。
+    - 在[东方求闻史纪](./东方求闻史纪-天狗.md)中，[天狗](./天狗.md)被认为是栖息在山中的神格化的妖怪，其篇名也是「天狗～卷起狂风的山神～」。
+
+
+
+
+<table><tbody><tr class="tt-content-header" id="=-1" data-pos="&#91;&quot;=&quot;,1&#93;"><td class="tt-jah" lang="ja"><div class="poem">天狗～風を起こす山の神～</div></td><td class="tt-zhh" lang="zh"><div class="poem">天狗～卷起狂风的山神～<br></div></td></tr><tr class="tt-text-header" id="=-2" data-pos="&#91;&quot;=&quot;,2&#93;"><td colspan="2" class="tt-text" lang="zh"><div class="poem"></div></td></tr><tr class="tt-content-header" id="=-3" data-pos="&#91;&quot;=&quot;,3&#93;"><td class="tt-jah" lang="ja"><div class="poem">天狗</div></td><td class="tt-zhh" lang="zh"><div class="poem">天狗<br><br></div></td></tr></tbody></table>
+
+
+
+<table><tbody><tr class="tt-content" id="=-11" data-pos="&#91;&quot;=&quot;,11&#93;"><td class="tt-ja" lang="ja"><div class="poem">　　山に棲む神格化された妖怪である。幻想郷でも古来より馴染みの深い妖怪で、独自の社会を作り、排他的な生活を送る。</div></td><td class="tt-zh" lang="zh"><div class="poem">　　天狗是栖息在山中的神格化的妖怪。在幻想乡之中也是和古代渊源密切的妖怪，过着独自排外的社会生活。<br><br></div></td></tr></tbody></table>
+
+
+- 少女
+  - 天狗少女[射命丸文](./射命丸文.md)。
+    - [花映塚乐评](./东方花映塚-Music.md)：
+
+
+
+```
+想着天狗少女酷酷地吹着小号而作的曲。
+痛快地翱翔于风之世界。
+正如花映塚的印象。
+```
+
+
+### 二次同人数据
+
+<table><tbody><tr><th colspan="2">统计</th></tr>
+<tr><td>名称</td><td>风神少女</td></tr>
+<tr><td>别名</td><td>風神少女(Short Version)<br>风神少女(Short Version)<br>風神少女</td></tr>
+<tr><td>首发作品</td><td>东方文花帖（书籍）</td></tr>
+<tr><td>首发日期</td><td>2005-08-11</td></tr>
+<tr><td>总数</td><td>1597</td></tr>
+<tr><td>Vocal</td><td>568</td></tr>
+<tr><td>Arrange</td><td>1029</td></tr>
+<tr><td>Vocal率</td><td>35.57%</td></tr>
+</tbody></table>
+
+
+
+
+  
+  
+
+  
+
+
+
+
+
+---
+
+此文档由 [THBWiki-Markdown-Builder](https://github.com/Delsin-Yu/THBWiki-Markdown-Builder) 构建。
+
+文档中的所有内容除特殊注明外，均在 [**知识共享(Creative Commons) 署名-非商业性使用-相同方式共享 3.0 协议**](https://creativecommons.org/licenses/by-sa/3.0/deed.zh-hans) 下提供，附加条款亦可能应用。
+
+引用类型与其他类型作品版权归原作者所有，如有作者授权则遵照授权协议使用。
+
+详细请查阅 [THBWiki：免责声明](https://thbwiki.cc/THBWiki:%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E)。
+

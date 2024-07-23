@@ -12,6 +12,7 @@ ZUN | 东方揭示板 | 使用了翻译表的页面
 - 本页面内容是东方揭示板中ZUN部分发言的摘录。
 - 请注意：由于年代久远，揭示板上的部分内容实际已经丢失。部分ZUN已经回复但回复本身丢失的帖子，本页面不予收录。
 
+
 ## 永夜抄揭示板
 
 <table><tbody><tr class="tt-content-header" id="永夜抄揭示板-1" data-pos="&#91;&quot;\u6c38\u591c\u6284\u63ed\u793a\u677f&quot;,1&#93;"><td class="tt-jah" lang="ja"><div class="poem">東方永夜抄サポート掲示板</div></td><td class="tt-zhh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-content" id="永夜抄揭示板-2" data-pos="&#91;&quot;\u6c38\u591c\u6284\u63ed\u793a\u677f&quot;,2&#93;"><td class="tt-ja" lang="ja"><div class="poem">ここは、東方永夜抄専用のサポート掲示板です。以下の事に注意して書き込み、閲覧をお願いします。<br><br>・件名は「ver1.00 ５面ボスで呪われる（結界組のみ、再現率10回に1回程度）」の様に、現象が伝わりやすいように書いてください。<br><br>・書き込む前に必ず、ＦＡＱ、タッカーさんの所の動作情報のページ、及び過去のログを確認してください。重複している場合は削除する可能性もあります。<br><br>・あと、スタッフの人員不足により、サポートは確実に出来るとは限りませんm(__)m<br>　もし過去に既に出た内容や、解決手段が判っている方がいましたら、私の代わりに（丁寧な口調で）書き込んで頂ければ大変嬉しく思います。<br><br>・また、ここでは雑談、及びゲーム内容、販売情報に関する質問、要望は一切受け付けておりませんので、<br>　そういったスレッドは削除する可能性があります。<br><br>・ネタバレをしないとサポートできませんので、この掲示板では確実にネタバレします。気を付けたい人は気を付けて。<br><br>・完全に解決したら、投稿者がスレッドの時間を停止させちゃってください。ほったらかしの場合、私が勝手に停止させる事もあります。</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr></tbody></table>
@@ -105,6 +106,7 @@ ZUN | 东方揭示板 | 使用了翻译表的页面
 <table><tbody><tr class="tt-content-header" id="永夜抄揭示板-105" data-pos="&#91;&quot;\u6c38\u591c\u6284\u63ed\u793a\u677f&quot;,105&#93;"><td class="tt-jah" lang="ja"><div class="poem">ver 1.00a アップデータを公開しました</div></td><td class="tt-zhh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-content" id="永夜抄揭示板-106" data-pos="&#91;&quot;\u6c38\u591c\u6284\u63ed\u793a\u677f&quot;,106&#93;"><td class="tt-ja" lang="ja"><div class="poem">日時： 2004/08/19 12:49<br>名前： ＺＵＮ＠管理人<br>参照： <a rel="nofollow" class="external free" href="http://www16.big.or.jp/~zun/">http://www16.big.or.jp/~zun/</a><br><br>以降、バグ報告は最新バージョンで行うようにお願いいたします。<br><br>2004/08/18 ver 1.00a<br>　・最終面選択が出来なくなる不具合を修正<br>　・ファイナルスペルで、リプレイ時のみ刻が進んでしまう不具合を修正<br>　・ＢＧＭをメモリに読み込む設定時、エンディングの曲が流れなくなる不具合を修正<br>　・スペカプラクティスの毒蛾の鱗粉と毒蛾の暗闇演舞が天蛾の蠱道になってしまっている不具合を修正<br>　・魔理沙単体でアイテム募集が出来ない不具合を修正<br>　・BGMをMIDIにするとスペルカードプラクティスで音樂がならない不具合を修正<br>　・5面のリプレイが、ボス戦再生モードで正常に再生されない不具合を修正<br>　・スペルプラクティスとエキストラのキャラ選択で霊夢単体が出てくる事がある不具合を修正<br>　・プラクティスのハイスコアが記録されない不具合を修正<br>　・音樂室で"Now Playing"に表示される曲のタイトルが、再生中のものと異なっている不具合を修正<br>　・クリア回数とコンティニューのTotalが加算されていなかった不具合を修正<br>　・ゲーム本編のスペルカードのナンバーとリプレイビュアーでみる情報が異なっていた不具合を修正<br><br>　なお、このバージョンアップでリプレイが正常に再生されなくなる可能性が<br>　（５面をはさむ場合、魔理沙単独使用の場合は特に）ありますが、一応互換性を残して<br>　おきました。ver1.00のリプレイを公開したい場合、正常に再生されるか一度確認をする事をお勧めします。<br><br><br><br>また、誤字脱字などは沢山ありそうなので、<br>誤植スレッドを立てますので、新規スレッドは立てずそこにレスするように報告してください。</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr></tbody></table>
 
 
+
 ## 花映塚揭示板
 
 <table><tbody><tr class="tt-content-header" id="花映塚揭示板-1" data-pos="&#91;&quot;\u82b1\u6620\u585a\u63ed\u793a\u677f&quot;,1&#93;"><td class="tt-jah" lang="ja"><div class="poem">東方花映塚サポート掲示板</div></td><td class="tt-zhh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-content" id="花映塚揭示板-2" data-pos="&#91;&quot;\u82b1\u6620\u585a\u63ed\u793a\u677f&quot;,2&#93;"><td class="tt-ja" lang="ja"><div class="poem">ここは、東方花映塚専用のサポート掲示板です。以下の事に注意して書き込み、閲覧をお願いします。<br><br>・件名は「ver0.02a スコアが記録されない」の様に、現象が伝わりやすいように書いてください。<br><br>・書き込む前に必ず過去のログを確認してください。重複している場合は削除する可能性もあります。<br><br>・代理の管理人にお任せしているため、技術的な質問は返答は遅れる事があります<br><br>・完全に解決したら、投稿者がスレッドの時間を停止させちゃってください</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr></tbody></table>
@@ -112,6 +114,7 @@ ZUN | 东方揭示板 | 使用了翻译表的页面
 
 
 <table><tbody><tr class="tt-content-header" id="花映塚揭示板-4" data-pos="&#91;&quot;\u82b1\u6620\u585a\u63ed\u793a\u677f&quot;,4&#93;"><td class="tt-jah" lang="ja"><div class="poem">東方花映塚体験版の最新バージョンは ver 0.02aです</div></td><td class="tt-zhh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-content" id="花映塚揭示板-5" data-pos="&#91;&quot;\u82b1\u6620\u585a\u63ed\u793a\u677f&quot;,5&#93;"><td class="tt-ja" lang="ja"><div class="poem">日時： 2005/06/14 01:09<br>名前： ZUN＠管理人<br><br>東方花映塚体験版の最新バージョンは ver 0.02aです。<br>東方遊技のページからダウンロード出来ます。<br><br>では、後は管理人代理の方にお願いしますのでー</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr></tbody></table>
+
 
 
 ## 其他作品揭示板

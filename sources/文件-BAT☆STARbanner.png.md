@@ -4,6 +4,7 @@
 
 BAT☆STAR | 社团LOGO
 
+
 ## 摘要
   
 源地址：[direct image link (max size)](https://blog-imgs-57-origin.fc2.com/b/a/t/batstar/logo3.png), [source page](http://batstar.blog.fc2.com/blog-entry-1.html)

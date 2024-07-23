@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-東方吹奏樂団_第七回演奏会_生演奏CD封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/e/ee/%E6%9D%B1%E6%96%B9%E5%90%B9%E5%A5%8F%E6%A8%82%E5%9B%A3_%E7%AC%AC%E4%B8%83%E5%9B%9E%E6%BC%94%E5%A5%8F%E4%BC%9A_%E7%94%9F%E6%BC%94%E5%A5%8FCD%E5%B0%81%E9%9D%A2.jpg/252px-%E6%9D%B1%E6%96%B9%E5%90%B9%E5%A5%8F%E6%A8%82%E5%9B%A3_%E7%AC%AC%E4%B8%83%E5%9B%9E%E6%BC%94%E5%A5%8F%E4%BC%9A_%E7%94%9F%E6%BC%94%E5%A5%8FCD%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="252" srcset="https://upload.thwiki.cc/thumb/e/ee/%E6%9D%B1%E6%96%B9%E5%90%B9%E5%A5%8F%E6%A8%82%E5%9B%A3_%E7%AC%AC%E4%B8%83%E5%9B%9E%E6%BC%94%E5%A5%8F%E4%BC%9A_%E7%94%9F%E6%BC%94%E5%A5%8FCD%E5%B0%81%E9%9D%A2.jpg/378px-%E6%9D%B1%E6%96%B9%E5%90%B9%E5%A5%8F%E6%A8%82%E5%9B%A3_%E7%AC%AC%E4%B8%83%E5%9B%9E%E6%BC%94%E5%A5%8F%E4%BC%9A_%E7%94%9F%E6%BC%94%E5%A5%8FCD%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/e/ee/%E6%9D%B1%E6%96%B9%E5%90%B9%E5%A5%8F%E6%A8%82%E5%9B%A3_%E7%AC%AC%E4%B8%83%E5%9B%9E%E6%BC%94%E5%A5%8F%E4%BC%9A_%E7%94%9F%E6%BC%94%E5%A5%8FCD%E5%B0%81%E9%9D%A2.jpg/504px-%E6%9D%B1%E6%96%B9%E5%90%B9%E5%A5%8F%E6%A8%82%E5%9B%A3_%E7%AC%AC%E4%B8%83%E5%9B%9E%E6%BC%94%E5%A5%8F%E4%BC%9A_%E7%94%9F%E6%BC%94%E5%A5%8FCD%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="900" data-file-height="899"></a></td>
@@ -17,7 +18,9 @@
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=1815572">蜜瓜</a></td></tr></tbody></table>
 
 
+
 ## Staff
+
 ## 曲目列表
 
 <table><tbody><tr><td id="1" class="info"><b>01</b></td><td id="行進曲「博麗の力」" colspan="2" class="title">行進曲「博麗の力」<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=東方吹奏樂団_第七回演奏会_生演奏CD"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr>
@@ -32,6 +35,7 @@
 <tr><td id="10" class="info"><b>10</b></td><td id="春陽の煌めきと聴東風のあそび-吹奏楽のための流体力学的論考-" colspan="2" class="title">春陽の煌めきと聴東風のあそび-吹奏楽のための流体力学的論考-<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=東方吹奏樂団_第七回演奏会_生演奏CD"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr>
 <tr><td id="11" class="info"><b>11</b></td><td id="金木犀の香りに包まれて_～_秋の小路を往く" colspan="2" class="title">金木犀の香りに包まれて　～ 秋の小路を往く<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=東方吹奏樂団_第七回演奏会_生演奏CD"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr>
 <tr><td id="12" class="info"><b>12</b></td><td id="ぼくらの非想天則" colspan="2" class="title">ぼくらの非想天則<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=東方吹奏樂団_第七回演奏会_生演奏CD"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr></tbody></table>
+
 
 
 ## 评论

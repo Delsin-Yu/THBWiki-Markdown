@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-End_of_Life封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/5/5a/End_of_Life%E5%B0%81%E9%9D%A2.jpg/224px-End_of_Life%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="224" srcset="https://upload.thwiki.cc/thumb/5/5a/End_of_Life%E5%B0%81%E9%9D%A2.jpg/336px-End_of_Life%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/5/5a/End_of_Life%E5%B0%81%E9%9D%A2.jpg/448px-End_of_Life%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1200" data-file-height="1200"></a></td>
@@ -18,11 +19,13 @@ End of Life（同人专辑，inori，2021） - 2021年6月26日 由 inori 于 �
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://aohisui.bandcamp.com/track/end-of-life">bandcamp</a>，<a rel="nofollow" class="external text" href="https://bluegreen-music.booth.pm/items/807291">BoothDL</a></td></tr></tbody></table>
 
 
+
 ## Staff
   
  **Arrangement**   
 
-<table><tbody><tr><td><a href="/Inori_Tsuyuki" class="mw-redirect" title="Inori Tsuyuki">Inori Tsuyuki</a></td><td></td><td>Tr.1/2</td></tr></tbody></table>
+<table><tbody><tr><td><a href="./Inori_Tsuyuki.md" class="mw-redirect" title="Inori Tsuyuki">Inori Tsuyuki</a></td><td></td><td>Tr.1/2</td></tr></tbody></table>
+
 
 
 ## 试听
@@ -31,10 +34,12 @@ End of Life（同人专辑，inori，2021） - 2021年6月26日 由 inori 于 �
 
   
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="End_of_Life" colspan="2" class="title">End of Life<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Inori Tsuyuki&amp;ogmusic=東方妖々夢　～ Ancient Temple&amp;fromwiki=End_of_Life"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/Inori_Tsuyuki" class="mw-redirect" title="Inori Tsuyuki">Inori Tsuyuki</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Inori Tsuyuki&amp;fromwiki=End_of_Life"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=東方妖々夢　～ Ancient Temple&amp;fromwiki=End_of_Life"><span></span></a></span><div class="ogmusic"><a href="/%E6%9D%B1%E6%96%B9%E5%A6%96%E3%80%85%E5%A4%A2_%EF%BD%9E_Ancient_Temple" class="mw-redirect" title="東方妖々夢 ～ Ancient Temple">東方妖々夢　～ Ancient Temple</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E5%A6%96%E5%A6%96%E6%A2%A6_%EF%BD%9E_Perfect_Cherry_Blossom." class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr>
-<tr><td id="2" class="infoYD"><b>02</b></td><td id="End_of_Life_-another_version-" colspan="2" class="title">End of Life -another version-<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Inori Tsuyuki&amp;ogmusic=東方妖々夢　～ Ancient Temple&amp;fromwiki=End_of_Life"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/Inori_Tsuyuki" class="mw-redirect" title="Inori Tsuyuki">Inori Tsuyuki</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Inori Tsuyuki&amp;fromwiki=End_of_Life"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=東方妖々夢　～ Ancient Temple&amp;fromwiki=End_of_Life"><span></span></a></span><div class="ogmusic"><a href="/%E6%9D%B1%E6%96%B9%E5%A6%96%E3%80%85%E5%A4%A2_%EF%BD%9E_Ancient_Temple" class="mw-redirect" title="東方妖々夢 ～ Ancient Temple">東方妖々夢　～ Ancient Temple</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E5%A6%96%E5%A6%96%E6%A2%A6_%EF%BD%9E_Perfect_Cherry_Blossom." class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="End_of_Life" colspan="2" class="title">End of Life<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Inori Tsuyuki&amp;ogmusic=東方妖々夢　～ Ancient Temple&amp;fromwiki=End_of_Life"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Inori_Tsuyuki.md" class="mw-redirect" title="Inori Tsuyuki">Inori Tsuyuki</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Inori Tsuyuki&amp;fromwiki=End_of_Life"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=東方妖々夢　～ Ancient Temple&amp;fromwiki=End_of_Life"><span></span></a></span><div class="ogmusic"><a href="./東方妖々夢_～_Ancient_Temple.md" class="mw-redirect" title="東方妖々夢 ～ Ancient Temple">東方妖々夢　～ Ancient Temple</a></div><div class="source"><a href="./东方妖妖梦_～_Perfect_Cherry_Blossom..md" class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr>
+<tr><td id="2" class="infoYD"><b>02</b></td><td id="End_of_Life_-another_version-" colspan="2" class="title">End of Life -another version-<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Inori Tsuyuki&amp;ogmusic=東方妖々夢　～ Ancient Temple&amp;fromwiki=End_of_Life"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./Inori_Tsuyuki.md" class="mw-redirect" title="Inori Tsuyuki">Inori Tsuyuki</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Inori Tsuyuki&amp;fromwiki=End_of_Life"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=東方妖々夢　～ Ancient Temple&amp;fromwiki=End_of_Life"><span></span></a></span><div class="ogmusic"><a href="./東方妖々夢_～_Ancient_Temple.md" class="mw-redirect" title="東方妖々夢 ～ Ancient Temple">東方妖々夢　～ Ancient Temple</a></div><div class="source"><a href="./东方妖妖梦_～_Perfect_Cherry_Blossom..md" class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

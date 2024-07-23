@@ -4,6 +4,7 @@
 
 东方封魔录 | 博丽_～Eastern_Wind
 
+
 ## 文件说明
   
 博麗　～Eastern Wind 东方封魔录1面道中曲MIDI版。由Roland Sound Canvas 88Pro实机录制；MP3采样率44.1KHz，码率192Kbps。  

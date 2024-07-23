@@ -6,11 +6,13 @@
 
 本页是关于东方Project  
  **二次同人创作者** 的词条
+
 ## 基本信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="label"><b>名称</b></td><td> Mokousoft </td></tr><tr><td class="label"><b>别名</b></td><td>龙脊山辉夜/华清宫辉夜</td></tr><tr><td class="label"><b>所属社团</b></td><td><b>当前</b><div style="margin-left:2em;"><a href="./永远幻想矩阵.md" title="永远幻想矩阵">永远幻想矩阵</a></div></td></tr><tr><td class="label"><b>职位</b></td><td>永远幻想矩阵主催，幻想乡键盘规划院美工</td></tr><tr><td class="label"><b>性别</b></td><td>男</td></tr><tr><td class="label"><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="https://dreammatrix.cc">https://dreammatrix.cc</a></td></tr><tr><td class="label"><b>个人页面</b></td><td><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><b>Official</b></td><td><a rel="nofollow" class="external free" href="https://dreammatrix.cc">https://dreammatrix.cc</a></td></tr><tr><td><b>bilibili</b></td><td><a rel="nofollow" class="external free" href="https://space.bilibili.com/160788733">https://space.bilibili.com/160788733</a></td></tr></tbody></table></td></tr></tbody></table>
 
 Mokousoft（人物） - 现实人物
+
 ## 介绍
   
 Mokousoft，有时又被称为“龙脊山辉夜"或”“华清宫辉夜”，在2022年创立了“雾之湖铁路”（后更名为永远幻想矩阵）社团，目前是该社团唯一的成员。
@@ -18,15 +20,18 @@ Mokousoft，有时又被称为“龙脊山辉夜"或”“华清宫辉夜”，�
 绝大部分时候永远幻想矩阵的社团业务为一人全役
   
 
+
 ## 参与作品
   
 MataraKick
   
 
+
 ### 同人音乐
   
 模板:人物曲目列表 (未找到链接)
   
+
 
 ## 人际关系
 

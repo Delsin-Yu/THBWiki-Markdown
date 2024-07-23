@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=Find_star%E5%B0%81%E9%9D%A2.jpg" class="new" title="文件:Find star封面.jpg">封面图片</a><div class="cover-char">角色：<a href="./寅丸星.md" title="寅丸星">寅丸星</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/en/artworks/50265561">https://www.pixiv.net/en/artworks/50265561</a></td></tr></tbody></table>
 
 Find star（同人志，京眠兎，2015） - 2015年5月10日 由 京眠兎 于 博丽神社例大祭12 发布的漫画同人志，A5尺寸一共8页，分级为 一般向
+
 ## Staff
 - えゐみー (未找到链接)
+
 
 ## 评论
 

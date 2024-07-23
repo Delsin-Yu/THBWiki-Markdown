@@ -7,6 +7,7 @@ VIVIT-99
 - 本词条内容为官方游戏西方Project系列第四作 **VIVIT-99** 的Music Room
 - 如果发现翻译问题可进行改正
 
+
 ## MusicRoom
 
 <table>

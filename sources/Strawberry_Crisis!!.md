@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -43,11 +44,13 @@
 
 
 
+
 ## 基本信息
 
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">Strawberry Crisis!!</td></tr><tr><td><b>译名</b></td><td>Strawberry Crisis!!</td></tr><tr><td><b>其他译名</b></td><td>草莓危机！！</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 Strawberry Crisis!!（曲目） - 由 ZUN 创作的官方曲目，原名 Strawberry Crisis!!
+
 ## 出现作品
 
 <table>
@@ -56,11 +59,13 @@ Strawberry Crisis!!（曲目） - 由 ZUN 创作的官方曲目，原名 Strawbe
 <tr><td>1998年12月30日（Comic Market 55）</td><td><b><a href="./东方怪绮谈.md" title="东方怪绮谈">东方怪绮谈</a></b></td><td>Music Room</td><td style="padding-left:5px;">Strawberry Crisis!!（Strawberry Crisis!!）</td><td style="padding-left:10px;">作曲：ZUN</td></tr>
 <tr><td>2000年10月18日（非展会）</td><td><b><a href="./东方幻想怀古曲.md" title="东方幻想怀古曲">东方幻想怀古曲</a></b></td><td>东方梦时空</td><td style="padding-left:5px;">Strawberry Crisis（Strawberry Crisis）</td><td style="padding-left:10px;">作曲：ZUN</td></tr>
 <tr><td>2005年10月1日（非展会）</td><td><b><a href="./东方紫香花.md" title="东方紫香花">东方紫香花</a></b></td><td>附属CD 第7轨</td><td style="padding-left:5px;">蓬莱の冠雪に何を思うか（对蓬莱的积雪何所思）</td><td style="padding-left:10px;">编曲：矢鴇つかさ</td></tr>
-<tr><td>2007年12月31日（Comic Market 73）</td><td><b><a href="/%E5%B9%BA%E4%B9%90%E5%9B%A2%E7%9A%84%E5%8E%86%E5%8F%B2_vol.4" class="mw-redirect" title="幺乐团的历史 vol.4">幺乐团的历史 vol.4</a></b></td><td>第15轨</td><td style="padding-left:5px;">Strawberry Crisis!!（Strawberry Crisis!!）</td><td style="padding-left:10px;">编曲：ZUN</td></tr>
+<tr><td>2007年12月31日（Comic Market 73）</td><td><b><a href="./幺乐团的历史_vol.4.md" class="mw-redirect" title="幺乐团的历史 vol.4">幺乐团的历史 vol.4</a></b></td><td>第15轨</td><td style="padding-left:5px;">Strawberry Crisis!!（Strawberry Crisis!!）</td><td style="padding-left:10px;">编曲：ZUN</td></tr>
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 东方梦时空
   
 YM2608(OPNA)，FM86版。
@@ -68,6 +73,7 @@ YM2608(OPNA)，FM86版。
 
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th03_12.ogg.md" title="文件:th03 12.ogg">th03_12.ogg</a><br><audio src="https://upload.thwiki.cc/6/60/th03_12.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>08MM.M</td></tr><tr><td><b>音轨时长</b></td><td>2:49.940</td></tr></tbody></table>
+
 
 
 ### 东方幻想乡
@@ -79,6 +85,7 @@ YM2608(OPNA)，FM86版。
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th04_Y_12.ogg.md" title="文件:th04 Y 12.ogg">th04_Y_12.ogg</a><br><audio src="https://upload.thwiki.cc/4/4f/th04_Y_12.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>YUNE9_86.M</td></tr><tr><td><b>音轨时长</b></td><td>2:49.940</td></tr></tbody></table>
 
 
+
 ### 东方怪绮谈
   
 YM2608(OPNA)，FM86版。
@@ -88,9 +95,11 @@ YM2608(OPNA)，FM86版。
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th05_Y_12.ogg.md" title="文件:th05 Y 12.ogg">th05_Y_12.ogg</a><br><audio src="https://upload.thwiki.cc/6/65/th05_Y_12.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>Y_08MM.M</td></tr><tr><td><b>音轨时长</b></td><td>2:49.940</td></tr></tbody></table>
 
 
+
 ### 东方幻想怀古曲
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-thgs03_12.ogg.md" title="文件:thgs03 12.ogg">thgs03_12.ogg</a><br><audio src="https://upload.thwiki.cc/e/ec/thgs03_12.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>th3_12.M</td></tr><tr><td><b>音轨时长</b></td><td>2:49.940</td></tr></tbody></table>
+
 
 
 ### 东方紫香花
@@ -98,12 +107,15 @@ YM2608(OPNA)，FM86版。
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-TORA-00009_07.mp3.md" title="文件:TORA-00009 07.mp3">TORA-00009_07.mp3</a><br><audio src="https://upload.thwiki.cc/b/b7/TORA-00009_07.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track07.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>6:20</td></tr></tbody></table>
 
 
+
 ### 幺乐团的历史 vol.4
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-ha04_15.mp3.md" title="文件:ha04 15.mp3">ha04_15.mp3</a><br><audio src="https://upload.thwiki.cc/6/66/ha04_15.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track15.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>6:00</td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 东方梦时空
 - Music Room (未找到链接)
 
@@ -120,6 +132,7 @@ YM2608(OPNA)，FM86版。
 用于东方梦时空的曲子  
 最终boss 冈崎　梦美的主题曲。  
 说不定常见的，罕见曲子（对我来说）
+
 ### 东方怪绮谈
 - Music Room (未找到链接)
 
@@ -129,6 +142,7 @@ YM2608(OPNA)，FM86版。
 用于东方梦时空的曲子  
 最终boss 冈崎　梦美的主题曲。  
 说不定常见的，罕见曲子（对我来说）
+
 ### 东方幻想怀古曲
 - th3_12pmd.txt (未找到链接)
 
@@ -166,6 +180,7 @@ YM2608(OPNA)，FM86版。
 曲子的感想、请求等，这边请  
 　东方幻想空间　「博丽神社」 [http://www16.big.or.jp/~zun/](http://www16.big.or.jp/~zun/)  
 　e-Mail                     zun@big.or.jp
+
 ### 东方紫香花
 - 曲目说明 (未找到链接)
 
@@ -173,8 +188,11 @@ YM2608(OPNA)，FM86版。
 你觉得Strawberry Crisis!!的编曲好听吗？  
 开始和结尾如此宁静，是因为ZUN指定了像亲眼见到「下雪时杳无人迹的圣山」时的印象。  
 今年也会发布一张个人的东方曲CD，也请多多关照。
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
   
  **Strawberry Crisis!!** 
@@ -189,6 +207,7 @@ YM2608(OPNA)，FM86版。
 - crisis，危机
   - 梦美来到魔法世界，企图将魔力最强者带走
   - 梦美在结局时企图毁灭地球（但是被阻止）
+
 
 
 ### 二次同人数据

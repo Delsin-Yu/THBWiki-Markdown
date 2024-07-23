@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-东方嘘伪话_~Anthology_of_Forgotten_Fables.封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/c/ce/%E4%B8%9C%E6%96%B9%E5%98%98%E4%BC%AA%E8%AF%9D_~Anthology_of_Forgotten_Fables.%E5%B0%81%E9%9D%A2.jpg/224px-%E4%B8%9C%E6%96%B9%E5%98%98%E4%BC%AA%E8%AF%9D_~Anthology_of_Forgotten_Fables.%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="224" srcset="https://upload.thwiki.cc/thumb/c/ce/%E4%B8%9C%E6%96%B9%E5%98%98%E4%BC%AA%E8%AF%9D_~Anthology_of_Forgotten_Fables.%E5%B0%81%E9%9D%A2.jpg/336px-%E4%B8%9C%E6%96%B9%E5%98%98%E4%BC%AA%E8%AF%9D_~Anthology_of_Forgotten_Fables.%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/c/ce/%E4%B8%9C%E6%96%B9%E5%98%98%E4%BC%AA%E8%AF%9D_~Anthology_of_Forgotten_Fables.%E5%B0%81%E9%9D%A2.jpg/448px-%E4%B8%9C%E6%96%B9%E5%98%98%E4%BC%AA%E8%AF%9D_~Anthology_of_Forgotten_Fables.%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="700" data-file-height="700"></a><div class="cover-char">角色：<a href="/index.php?title=%E9%82%AA%E9%AC%BC%E5%AD%90_%E6%BB%9D%E5%A4%9C%E5%8F%89&amp;action=edit&amp;redlink=1" class="new" title="邪鬼子 滝夜叉（页面不存在）">邪鬼子 滝夜叉</a></div></td>
@@ -18,11 +19,13 @@
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://consonancesdissonances.bandcamp.com/album/anthology-of-forgotten-fables">bandcamp</a></td></tr></tbody></table>
 
 
+
 ## Staff
   
  **Compose**   
 
 <table><tbody><tr><td><a href="/index.php?title=Kale_Hakaido&amp;action=edit&amp;redlink=1" class="new" title="Kale Hakaido（页面不存在）">Kale Hakaido</a></td><td></td><td>Tr.1</td></tr><tr><td><a href="/index.php?title=ivanlychkov&amp;action=edit&amp;redlink=1" class="new" title="ivanlychkov（页面不存在）">ivanlychkov</a></td><td></td><td>Tr.2/21</td></tr><tr><td><a href="/index.php?title=RaysonWilliams&amp;action=edit&amp;redlink=1" class="new" title="RaysonWilliams（页面不存在）">RaysonWilliams</a></td><td></td><td>Tr.3</td></tr><tr><td><a href="/index.php?title=Kale_Haikaido&amp;action=edit&amp;redlink=1" class="new" title="Kale Haikaido（页面不存在）">Kale Haikaido</a></td><td></td><td>Tr.4</td></tr><tr><td><a href="/index.php?title=Purulixir&amp;action=edit&amp;redlink=1" class="new" title="Purulixir（页面不存在）">Purulixir</a></td><td></td><td>Tr.5</td></tr><tr><td><a href="/index.php?title=Artifex&amp;action=edit&amp;redlink=1" class="new" title="Artifex（页面不存在）">Artifex</a></td><td></td><td>Tr.6</td></tr><tr><td><a href="/index.php?title=RickyRister&amp;action=edit&amp;redlink=1" class="new" title="RickyRister（页面不存在）">RickyRister</a></td><td></td><td>Tr.7/10/12/17</td></tr><tr><td><a href="/index.php?title=ScarletKnives&amp;action=edit&amp;redlink=1" class="new" title="ScarletKnives（页面不存在）">ScarletKnives</a></td><td></td><td>Tr.7</td></tr><tr><td><a href="/index.php?title=Sodacat&amp;action=edit&amp;redlink=1" class="new" title="Sodacat（页面不存在）">Sodacat</a></td><td></td><td>Tr.7/8/11/12/18</td></tr><tr><td><a href="/index.php?title=Anyatsu&amp;action=edit&amp;redlink=1" class="new" title="Anyatsu（页面不存在）">Anyatsu</a></td><td></td><td>Tr.9</td></tr><tr><td><a href="/index.php?title=Ocha&amp;action=edit&amp;redlink=1" class="new" title="Ocha（页面不存在）">Ocha</a></td><td></td><td>Tr.10/13/15/18-20</td></tr><tr><td><a href="/index.php?title=FanTBS&amp;action=edit&amp;redlink=1" class="new" title="FanTBS（页面不存在）">FanTBS</a></td><td></td><td>Tr.11</td></tr><tr><td><a href="/index.php?title=Broken_Moon&amp;action=edit&amp;redlink=1" class="new" title="Broken Moon（页面不存在）">Broken Moon</a></td><td></td><td>Tr.11/18</td></tr><tr><td><a href="/index.php?title=Zen_Saikara&amp;action=edit&amp;redlink=1" class="new" title="Zen Saikara（页面不存在）">Zen Saikara</a></td><td></td><td>Tr.13</td></tr><tr><td><a href="/index.php?title=Compound&amp;action=edit&amp;redlink=1" class="new" title="Compound（页面不存在）">Compound</a></td><td></td><td>Tr.14/16/17</td></tr><tr><td><a href="/index.php?title=Praeto&amp;action=edit&amp;redlink=1" class="new" title="Praeto（页面不存在）">Praeto</a></td><td></td><td>Tr.15</td></tr><tr><td><a href="/index.php?title=Puruluxir&amp;action=edit&amp;redlink=1" class="new" title="Puruluxir（页面不存在）">Puruluxir</a></td><td></td><td>Tr.18</td></tr><tr><td><a href="./爱莲.md" title="爱莲" unred="">Eren</a></td><td></td><td>Tr.18-20</td></tr></tbody></table>
+
 
 
 ## 试听
@@ -49,6 +52,7 @@
 <tr>
 <td><iframe width="560" height="315" src="//www.youtube-nocookie.com/embed/x_94W_QHWEg?" frameborder="0" allowfullscreen=""></iframe>
 </td></tr></tbody></table>
+
 
 
 ## 曲目列表
@@ -78,6 +82,7 @@
 <tr><td id="19" class="infoYL"><b>19</b></td><td id="Grim_Reaper&#39;s_Distorted_Wife_~Song_of_Despair" colspan="2" class="title">Grim Reaper&#39;s Distorted Wife ~Song of Despair<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Ocha，Eren&amp;fromwiki=东方嘘伪话_~Anthology_of_Forgotten_Fables."><span title="搜索相似同人曲"></span></a></span></td><td class="time">05:29</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=Ocha&amp;action=edit&amp;redlink=1" class="new" title="Ocha（页面不存在）">Ocha</a>，<a href="./爱莲.md" title="爱莲" unred="">Eren</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Ocha，Eren&amp;fromwiki=东方嘘伪话_~Anthology_of_Forgotten_Fables."><span></span></a></span></td></tr>
 <tr><td id="20" class="infoYL"><b>20</b></td><td id="Fables&#39;_End" colspan="2" class="title">Fables&#39; End<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Ocha，Eren&amp;fromwiki=东方嘘伪话_~Anthology_of_Forgotten_Fables."><span title="搜索相似同人曲"></span></a></span></td><td class="time">02:44</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=Ocha&amp;action=edit&amp;redlink=1" class="new" title="Ocha（页面不存在）">Ocha</a>，<a href="./爱莲.md" title="爱莲" unred="">Eren</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Ocha，Eren&amp;fromwiki=东方嘘伪话_~Anthology_of_Forgotten_Fables."><span></span></a></span></td></tr>
 <tr><td id="21" class="infoYL"><b>21</b></td><td id="Sayonara" colspan="2" class="title">Sayonara<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=ivanlychkov&amp;fromwiki=东方嘘伪话_~Anthology_of_Forgotten_Fables."><span title="搜索相似同人曲"></span></a></span></td><td class="time">02:29</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=ivanlychkov&amp;action=edit&amp;redlink=1" class="new" title="ivanlychkov（页面不存在）">ivanlychkov</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，ivanlychkov&amp;fromwiki=东方嘘伪话_~Anthology_of_Forgotten_Fables."><span></span></a></span></td></tr></tbody></table>
+
 
 
 ## 评论

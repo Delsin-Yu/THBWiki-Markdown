@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-東方COLOR四コマ_紅+妖封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/5/59/%E6%9D%B1%E6%96%B9COLOR%E5%9B%9B%E3%82%B3%E3%83%9E_%E7%B4%85%2B%E5%A6%96%E5%B0%81%E9%9D%A2.jpg/79px-%E6%9D%B1%E6%96%B9COLOR%E5%9B%9B%E3%82%B3%E3%83%9E_%E7%B4%85%2B%E5%A6%96%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="79" height="112" srcset="https://upload.thwiki.cc/thumb/5/59/%E6%9D%B1%E6%96%B9COLOR%E5%9B%9B%E3%82%B3%E3%83%9E_%E7%B4%85%2B%E5%A6%96%E5%B0%81%E9%9D%A2.jpg/119px-%E6%9D%B1%E6%96%B9COLOR%E5%9B%9B%E3%82%B3%E3%83%9E_%E7%B4%85%2B%E5%A6%96%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/5/59/%E6%9D%B1%E6%96%B9COLOR%E5%9B%9B%E3%82%B3%E3%83%9E_%E7%B4%85%2B%E5%A6%96%E5%B0%81%E9%9D%A2.jpg/158px-%E6%9D%B1%E6%96%B9COLOR%E5%9B%9B%E3%82%B3%E3%83%9E_%E7%B4%85%2B%E5%A6%96%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="424" data-file-height="600"></a><div class="cover-char">角色：<a href="./魂魄妖梦.md" title="魂魄妖梦">魂魄妖梦</a>，<a href="./西行寺幽幽子.md" title="西行寺幽幽子">西行寺幽幽子</a>，<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>，<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a>，<a href="./八云紫.md" title="八云紫">八云紫</a>，<a href="./八云蓝.md" title="八云蓝">八云蓝</a>，<a href="./橙.md" title="橙">橙</a>，<a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a>，<a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a>，<a href="/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C" title="十六夜咲夜">十六夜咲夜</a>，<a href="./帕秋莉·诺蕾姬.md" title="帕秋莉·诺蕾姬">帕秋莉·诺蕾姬</a>，<a href="./红美铃.md" title="红美铃">红美铃</a>，<a href="./蕾蒂·霍瓦特洛克.md" title="蕾蒂·霍瓦特洛克">蕾蒂·霍瓦特洛克</a></div></td>
@@ -17,8 +18,10 @@
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://ec.toranoana.jp/tora_r/ec/item/040010260311">虎穴</a></td></tr></tbody></table>
 
 
+
 ## Staff
 - ぱげらった (未找到链接)
+
 
 ## 评论
 

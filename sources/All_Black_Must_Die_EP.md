@@ -18,6 +18,7 @@
 
 
 </center>
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-All_Black_Must_Die_EP封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/d/db/All_Black_Must_Die_EP%E5%B0%81%E9%9D%A2.jpg/251px-All_Black_Must_Die_EP%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="251" height="252" srcset="https://upload.thwiki.cc/thumb/d/db/All_Black_Must_Die_EP%E5%B0%81%E9%9D%A2.jpg/376px-All_Black_Must_Die_EP%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/d/db/All_Black_Must_Die_EP%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="382" data-file-height="384"></a></td>
@@ -26,16 +27,19 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://rnohito.blog.shinobi.jp/雑記/all black must die ep">http://rnohito.blog.shinobi.jp/雑記/all%20black%20must%20die%20ep</a></td></tr></tbody></table>
 
 All Black Must Die EP（同人专辑，River Mist，2012） - 2012年12月30日 由 River Mist 于 Comic Market 83 发布的EP同人专辑，曲目主要风格是 Rock、金属，分级为 一般向
+
 ## Staff
+
 ## 试听
   
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/72415780&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=false"></iframe>
 
   
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="info"><b>01</b></td><td id="Borderlands" colspan="2" class="title">Borderlands<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=恋色マスタースパーク&amp;fromwiki=All_Black_Must_Die_EP"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=恋色マスタースパーク&amp;fromwiki=All_Black_Must_Die_EP"><span></span></a></span><div class="ogmusic"><a href="/%E6%81%8B%E8%89%B2%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%B9%E3%83%91%E3%83%BC%E3%82%AF" class="mw-redirect" title="恋色マスタースパーク">恋色マスタースパーク</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E6%B0%B8%E5%A4%9C%E6%8A%84_%EF%BD%9E_Imperishable_Night." class="mw-redirect" title="东方永夜抄 ～ Imperishable Night.">东方永夜抄　～ Imperishable Night.</a></div></td></tr>
+<table><tbody><tr><td id="1" class="info"><b>01</b></td><td id="Borderlands" colspan="2" class="title">Borderlands<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=恋色マスタースパーク&amp;fromwiki=All_Black_Must_Die_EP"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=恋色マスタースパーク&amp;fromwiki=All_Black_Must_Die_EP"><span></span></a></span><div class="ogmusic"><a href="./恋色マスタースパーク.md" class="mw-redirect" title="恋色マスタースパーク">恋色マスタースパーク</a></div><div class="source"><a href="./东方永夜抄_～_Imperishable_Night..md" class="mw-redirect" title="东方永夜抄 ～ Imperishable Night.">东方永夜抄　～ Imperishable Night.</a></div></td></tr>
 <tr><td id="2" class="info"><b>02</b></td><td id="Sagami_River_feat.カナガワ" colspan="2" class="title">Sagami River　feat.カナガワ<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=All_Black_Must_Die_EP"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr>
 <tr><td id="3" class="info"><b>03</b></td><td id="30min" colspan="2" class="title">30min<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=All_Black_Must_Die_EP"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr>
 <tr><td id="4" class="info"><b>04</b></td><td id="3h" colspan="2" class="title">3h<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=All_Black_Must_Die_EP"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr>
@@ -48,6 +52,7 @@ All Black Must Die EP（同人专辑，River Mist，2012） - 2012年12月30日 
 <tr><td id="11" class="info"><b>11</b></td><td id="The_Sea" colspan="2" class="title">The Sea<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=All_Black_Must_Die_EP"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr>
 <tr><td id="12" class="info"><b>12</b></td><td id="Indy_Road" colspan="2" class="title">Indy Road<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=All_Black_Must_Die_EP"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr>
 <tr><td id="13" class="info"><b>13</b></td><td id="Feeling_out" colspan="2" class="title">Feeling out<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=All_Black_Must_Die_EP"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr></tbody></table>
+
 
 
 ## 评论

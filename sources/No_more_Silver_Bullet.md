@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-No_more_Silver_Bullet封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/8/89/No_more_Silver_Bullet%E5%B0%81%E9%9D%A2.jpg/140px-No_more_Silver_Bullet%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="140" height="196" srcset="https://upload.thwiki.cc/thumb/8/89/No_more_Silver_Bullet%E5%B0%81%E9%9D%A2.jpg/211px-No_more_Silver_Bullet%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/8/89/No_more_Silver_Bullet%E5%B0%81%E9%9D%A2.jpg/281px-No_more_Silver_Bullet%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="570" data-file-height="795"></a><div class="cover-char">角色：<a href="./宇佐见莲子.md" title="宇佐见莲子">宇佐见莲子</a>，<a href="./玛艾露贝莉·赫恩.md" title="玛艾露贝莉·赫恩">玛艾露贝莉·赫恩</a>，<a href="./冈崎梦美.md" title="冈崎梦美">冈崎梦美</a>，<a href="./北白河千百合.md" title="北白河千百合">北白河千百合</a>，<a href="./娜兹玲.md" title="娜兹玲">娜兹玲</a></div></td>
@@ -14,9 +15,12 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://oruhazaka.dojin.com/infoblog/既刊情報/既刊／２０１２年/新刊情報-3">http://oruhazaka.dojin.com/infoblog/%e6%97%a2%e5%88%8a%e6%83%85%e5%a0%b1/%e6%97%a2%e5%88%8a%ef%bc%8f%ef%bc%92%ef%bc%90%ef%bc%91%ef%bc%92%e5%b9%b4/%e6%96%b0%e5%88%8a%e6%83%85%e5%a0%b1-3</a></td></tr></tbody></table>
 
 No more Silver Bullet（同人志，折葉坂三番地，2012） - 2012年11月4日 由 折葉坂三番地 于 科学世纪的露天咖啡座2 发布的小说同人志，A5尺寸一共40页，分级为 一般向
+
 ## 预览
+
 ## Staff
 - [銅折葉](./銅折葉.md)
+
 
 ## 评论
 

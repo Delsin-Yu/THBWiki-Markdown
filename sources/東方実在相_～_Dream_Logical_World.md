@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 软件信息](#软件信息)
@@ -16,6 +17,7 @@
 - [6 下载](#下载)
 - [7 外部链接](#外部链接)
 - [8 词条导航](#词条导航)
+
 
 
 
@@ -32,10 +34,13 @@
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://store.steampowered.com/app/1664410">Steam</a></td></tr></tbody></table>
 
 
+
 ## Staff
+
 ## 作品介绍
 - 本作为欧美东方爱好者制作的东方二次同人STG。
 - 本作目前已发布了正式版。
+
 
 ## 内容页面
 - [游戏设定与剧情](./東方実在相_～_Dream_Logical_World-设定与剧情.md)
@@ -44,7 +49,9 @@
 - [音乐](./東方実在相_～_Dream_Logical_World-音乐.md)
 - 其他相关资料 (未找到链接)
 
+
 ## 评论
+
 ## 下载
   
 请注意：  
@@ -63,10 +70,12 @@
 </td></tr></tbody></table>
 
 
+
 ## 外部链接
   
 [英文维基](https://en.touhouwiki.net/wiki/Dream_Logical_World)
   
+
 
 ## 词条导航
   

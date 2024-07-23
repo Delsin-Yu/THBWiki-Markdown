@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Mermaid_in_a_Dreambox封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/c/cd/Mermaid_in_a_Dreambox%E5%B0%81%E9%9D%A2.jpg/224px-Mermaid_in_a_Dreambox%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="163" srcset="https://upload.thwiki.cc/thumb/c/cd/Mermaid_in_a_Dreambox%E5%B0%81%E9%9D%A2.jpg/336px-Mermaid_in_a_Dreambox%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/c/cd/Mermaid_in_a_Dreambox%E5%B0%81%E9%9D%A2.jpg/448px-Mermaid_in_a_Dreambox%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1373" data-file-height="1000"></a><div class="cover-char">角色：<a href="./宇佐见莲子.md" title="宇佐见莲子">宇佐见莲子</a>，<a href="./玛艾露贝莉·赫恩.md" title="玛艾露贝莉·赫恩">玛艾露贝莉·赫恩</a></div></td>
@@ -16,6 +17,7 @@
 Mermaid in a Dreambox（同人志，魔女喜劇，2021） - 2021年6月12日 由 魔女喜劇 于 COMICUP28 发布的摄影集同人志，B5尺寸一共88页，登场人物有 宇佐见莲子、玛艾露贝莉·赫恩、东风谷早苗、八云紫，分级为 一般向
 
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://item.taobao.com/item.htm?id=644401860926">淘宝（囧仙子通贩）</a></td></tr></tbody></table>
+
 
 
 ## Staff
@@ -54,6 +56,7 @@ Mermaid in a Dreambox（同人志，魔女喜劇，2021） - 2021年6月12日 �
 : 玛艾露贝莉·赫恩/八云紫&#160;: コナミ
 : 宇佐见莲子/东风谷早苗&#160;: あんね
 
+
 ## PV
   
 
@@ -64,6 +67,7 @@ Mermaid in a Dreambox（同人志，魔女喜劇，2021） - 2021年6月12日 �
 <tr><th style="text-align: center;"><a class="bilibili-title external text" target="_blank" rel="nofollow" style="margin: 0 0.4em 0 0.2em;"></a><input type="button" class="bilibili-toggle" value="显示视频" style="float: right;"></th></tr>
 <tr class="bilibili-video" style="display: none;"><td></td></tr>
 </table>
+
 
 
 

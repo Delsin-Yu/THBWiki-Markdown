@@ -4,8 +4,9 @@
 
 Flowering Night 从2006年开始，在 日本东京、川崎 举办的  东方同人LIVE活动，每年1次，目前共举办了9届
 
-本页是关于 **同人展会 (未找到链接)**   
-及 **相关活动 (未找到链接)** 的词条
+本页是关于 **[同人展会](./同人展会.md#展会类活动)**   
+及 **[相关活动](./相关活动.md)** 的词条
+
 ## 目录
 
 - [1 概述](#概述)
@@ -34,6 +35,7 @@ Flowering Night 从2006年开始，在 日本东京、川崎 举办的  东方�
 
 
 - [6 注释](#注释)
+
 
 
 
@@ -121,8 +123,8 @@ Flowering Night LOGO/Banner
   
   
   
-日本 **东京、川崎** 的东方Project Only **同人拼盘LIVE类活动 (未找到链接)** 。  
-为举办时间最早的东方Project Only同人LIVE活动 (未找到链接)。  
+日本 **东京、川崎** 的东方Project Only **同人拼盘[LIVE类活动](./LIVE类活动.md#LIVE类活动)** 。  
+为举办时间最早的东方Project Only同人[LIVE活动](./LIVE活动.md#LIVE类活动)。  
   
 主要在东京、川崎举办，从2006年开始，每年1[^cite_note-1]次，每次持续1-2天，亦曾在千叶举办过。  
 付费入场。  
@@ -143,6 +145,7 @@ Flowering Night LOGO/Banner
 官方推特3： [https://twitter.com/fn2013_staff/](https://twitter.com/fn2013_staff/) （需要翻墙）（日文）（第7届）  
   
 Flowering Night（活动，LIVE活动） - Flowering Night 从2006年开始，在 日本东京、川崎 举办的  东方同人LIVE活动，每年1次，目前共举办了9届
+
 ## 历届信息
 - 点击届数可进入对应分类页面。
 
@@ -159,6 +162,7 @@ Flowering Night（活动，LIVE活动） - Flowering Night 从2006年开始，�
 <tr><td id="8"><b><a href="/展会作品列表?e=Flowering+Night%EF%BC%88%E6%B4%BB%E5%8A%A8%EF%BC%89%238">Flowering Night 2020 ～幽雅地绽放吧～</a></b></td><td id="ev-8">2020年07月04日</td><td>川崎市 CLUB CITTA'<br><small><span style="color:grey;">川崎市 CLUB CITTA'</span></small></td><td><a href="#第8届">参见</a></td><td><a href="./Flowering_Night（活动）-第8届.md" title="Flowering Night（活动）/第8届">参见</a></td><td><a rel="nofollow" class="external autonumber" href="https://floweringnight2020.web.fc2.com/">[8]</a></td></tr>
 <tr><td id="9"><b><a href="/展会作品列表?e=Flowering+Night%EF%BC%88%E6%B4%BB%E5%8A%A8%EF%BC%89%239">Flowering Night 2021</a></b></td><td id="ev-9">2021年07月03日</td><td>川崎市 CLUB CITTA'<br><small><span style="color:grey;">川崎市 CLUB CITTA'</span></small></td><td><a href="#第9届">参见</a></td><td><a href="/index.php?title=Flowering_Night%EF%BC%88%E6%B4%BB%E5%8A%A8%EF%BC%89/%E7%AC%AC9%E5%B1%8A&amp;action=edit&amp;redlink=1" class="new" title="Flowering Night（活动）/第9届（页面不存在）">参见</a></td><td></td></tr>
 </tbody></table>
+
 
 
 ## 演出社团及人员
@@ -181,12 +185,12 @@ Flowering Night 2011 -你与魔理沙的两个夜晚-
  **第2日：** [石鹸屋](./石鹸屋.md)、[COOL&amp;CREATE](./COOL&CREATE.md)、[SOS -Sound of Swing-](./SOS_-Sound_of_Swing-.md)、[Sound CYCLONE](./Sound_CYCLONE.md)、[Silver Forest](./Silver_Forest.md)
 
 Flowering Night 2012 -博丽神社红白歌合战-
-:  **第1日：** [C-CLAYS](./C-CLAYS.md)、[豚乙女](./豚乙女.md)、[Unlucky Morpheus](./Unlucky_Morpheus.md)、[Sound CYCLONE](./Sound_CYCLONE.md)、幽閉サテライト (未找到链接)  
+:  **第1日：** [C-CLAYS](./C-CLAYS.md)、[豚乙女](./豚乙女.md)、[Unlucky Morpheus](./Unlucky_Morpheus.md)、[Sound CYCLONE](./Sound_CYCLONE.md)、[幽閉サテライト](./幽閉サテライト.md)  
  **第2日：** [岸田教団＆THE明星ロケッツ](./岸田教团.md)、[SOS -Sound of Swing-](./SOS_-Sound_of_Swing-.md)、[TaNaBaTa](./TaNaBaTa.md)、[回路-kairo-](./回路-kairo-.md)、[君の美術館](./君の美術館.md)  
  **MC** ：[A-One](./A-One.md)、[クロ](./KURO.md)（映像技術部 (未找到链接)）
 
 Flowering Night 2013 -博丽神社红白歌合战-
-: [Unlucky Morpheus](./Unlucky_Morpheus.md)、[Sound CYCLONE](./Sound_CYCLONE.md)、[回路-kairo-](./回路-kairo-.md)、[SOS -Sound of Swing-](./SOS_-Sound_of_Swing-.md)、[Liz Triangle](./Liz_Triangle.md)、幽閉サテライト (未找到链接)
+: [Unlucky Morpheus](./Unlucky_Morpheus.md)、[Sound CYCLONE](./Sound_CYCLONE.md)、[回路-kairo-](./回路-kairo-.md)、[SOS -Sound of Swing-](./SOS_-Sound_of_Swing-.md)、[Liz Triangle](./Liz_Triangle.md)、[幽閉サテライト](./幽閉サテライト.md)
 
 Flowering Night 2020 ～幽雅地绽放吧～
 : [石鹸屋](./石鹸屋.md)、[TaNaBaTa](./TaNaBaTa.md)、[豚乙女](./豚乙女.md)、[岸田教団＆THE明星ロケッツ](./岸田教团.md)、[COOL&amp;CREATE](./COOL&CREATE.md)
@@ -194,7 +198,9 @@ Flowering Night 2020 ～幽雅地绽放吧～
 Flowering Night 2021
 : 
 
+
 ## 作品列表
+
 ### 同人专辑
 [](./Flowering_Night_2006_幽雅に騒げ_～_Live_in_博麗神社_おまけCD.md)[Flowering Night 2006　幽雅に騒げ ～ Live in 博麗神社 おまけCD](./Flowering_Night_2006_幽雅に騒げ_～_Live_in_博麗神社_おまけCD.md)首发日期：2006-03-05 （Flowering Night 2006 ～幽雅に騒げ、Live in 博麗神社～ (未找到链接)）全长 （一般向）该作品是与 [博丽神社事务所](./博丽神社事务所.md)、​[Flowering Night 実行委員会](./Flowering_Night_実行委員会.md) 合作创作的[](./Flowering_Night_2007_公演記念CD.md)[Flowering Night 2007 公演記念CD](./Flowering_Night_2007_公演記念CD.md)首发日期：2007-03-21 （Flowering Night 2007 ～月まで届け、最強のあたい～ (未找到链接)）FR-3150全长 （一般向）该作品是与 [Flowering Night 実行委員会](./Flowering_Night_実行委員会.md) 合作创作的[](./FLOWERING_NIGHT_2011_OPENING_BGM.md)[FLOWERING NIGHT 2011 OPENING BGM](./FLOWERING_NIGHT_2011_OPENING_BGM.md)首发日期：2011-05-14 （Flowering Night 2011 -君と魔理沙と二つの夜- (未找到链接)）FNOP-2011全长 （一般向）该作品是与 [Flowering Night 実行委員会](./Flowering_Night_実行委員会.md) 合作创作的[](./Flowering_Night_2012_Special_Limited_CD.md)[Flowering Night 2012 Special Limited CD](./Flowering_Night_2012_Special_Limited_CD.md)首发日期：2012-04-13 FNCD-001S全长 （一般向）该作品是与 [Flowering Night 実行委員会](./Flowering_Night_実行委員会.md) 合作创作的[](./FLOWERING_NIGHT_2012_OPENING_BGM.md)[FLOWERING NIGHT 2012 OPENING BGM](./FLOWERING_NIGHT_2012_OPENING_BGM.md)首发日期：2012-05-12 （Flowering Night 2012 -博麗神社紅白歌合戦- (未找到链接)）全长 （一般向）该作品是与 [Flowering Night 実行委員会](./Flowering_Night_実行委員会.md) 合作创作的
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -207,6 +213,7 @@ Flowering Night 2021
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ### 同人视频
@@ -225,21 +232,28 @@ Flowering Night 2021
 </table>
 
 
+
 ## 历届宣传图
 - 活动官方使用的作为网站首页顶图或宣传图的图片。
+
 
 ### 第一届至第四届
 - [](./文件-Flowering_Night_2006.jpg.md)第1届- [](./文件-Flowering_Night_2007.jpg.md)第2届- [](./文件-Flowering_Night_2008.jpg.md)第3届- [](./文件-Flowering_Night_2009.jpg.md)第4届
 
+
 ### 第五届
 - [](./文件-Flowering_Night_2011插画1.jpg.md)第5届 宣传图1- [](./文件-Flowering_Night_2011插画2.jpg.md)第5届 宣传图2
+
 
 ### 第六届至第七届
 - [](./文件-Flowering_Night_2012.jpg.md)第6届- [](./文件-Flowering_Night_2013.jpg.md)第7届- [](./文件-Flowering_Night_2020.jpg.md)第9届
 
+
 ### 大Banner
+
 #### 第一届至第三届
 - [](./文件-Flowering_Night_2006_banner1.jpg.md)第1届 大Banner- [](./文件-Flowering_Night_2007_banner1.jpg.md)第2届 大Banner- [](./文件-Flowering_Night_2008_banner1.jpg.md)第3届 大Banner
+
 
 #### 第四届至第五届
 - [](./文件-Flowering_Night_2009_banner1.jpg.md)第4届 大Banner- [](./文件-Flowering_Night_2011_banner1.jpg.md)第5届 大Banner

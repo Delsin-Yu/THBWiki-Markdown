@@ -6,11 +6,13 @@
 
 本页是关于东方Project  
  **相关实体周边 (未找到链接)** 的词条
+
 ## 模型信息
 
 <table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 蕾米莉亚·斯卡蕾特 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>红魔城传说ver</td></tr><tr><td class="label">角色</td><td><a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a></td></tr><tr><td class="label">原型师</td><td><a href="/index.php?title=Sec.C.Noin&amp;action=edit&amp;redlink=1" class="new" title="Sec.C.Noin（页面不存在）">Sec.C.Noin</a></td></tr><tr><td class="label">原画师</td><td><a href="/index.php?title=%E6%99%A9%E6%9D%AF_%E3%81%82%E3%81%8D%E3%82%89&amp;action=edit&amp;redlink=1" class="new" title="晩杯 あきら（页面不存在）">晩杯 あきら</a></td></tr><tr><td class="label">比例</td><td>1/8</td></tr><tr><td class="label">状态</td><td>已发售</td></tr><tr><td class="label">售价</td><td>16500円</td></tr><tr><td class="label">首发日期</td><td>2016-11-01</td></tr><tr><td class="label">发售方</td><td><a href="/index.php?title=Ques_Q&amp;action=edit&amp;redlink=1" class="new" title="Ques Q（页面不存在）">Ques Q</a></td></tr></tbody></table>
 
 Ques Q/红魔城传说ver/蕾米莉亚·斯卡蕾特（周边） - 蕾米莉亚·斯卡蕾特PVCFigure手办模型
+
 ## 参考图片
 
 

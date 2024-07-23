@@ -6,11 +6,13 @@
 
 本页是关于东方Project  
  **二次同人创作者** 的词条
+
 ## 基本信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="label"><b>名称</b></td><td> Swing Holic Band </td></tr><tr><td class="label"><b>所属社团</b></td><td><b>当前</b><div style="margin-left:2em;">无所属社团</div></td></tr><tr><td class="label"><b>职位</b></td><td>作曲，编曲，演奏</td></tr><tr><td class="label"><b>参与社团</b></td><td><a href="./CYTOKINE.md" title="CYTOKINE">CYTOKINE</a> （演奏）<br><a href="./IOSYS.md" title="IOSYS">IOSYS</a> （编曲）<br><a href="./Melonbooks_Records.md" title="Melonbooks Records">Melonbooks Records</a> （编曲）<br><a href="./SOUND_HOLIC.md" title="SOUND HOLIC">SOUND HOLIC</a> （编曲，演奏）<br><a href="./SWING_HOLIC.md" title="SWING HOLIC">SWING HOLIC</a> （作曲，编曲，演奏）</td></tr></tbody></table>
 
 Swing Holic Band（人物） - 现实人物
+
 ## 介绍
 Members
 : [panoman](./panoman.md)：Piano
@@ -18,7 +20,9 @@ Members
 : 岡山晃久 (未找到链接)：Drums
 : 山田洋介 (未找到链接)：Bass
 
+
 ## 参与作品
+
 ### 同人音乐
   
 模板:人物曲目列表 (未找到链接)

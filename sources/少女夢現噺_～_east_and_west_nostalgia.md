@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-少女夢現噺_～_east_and_west_nostalgia封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/f/f2/%E5%B0%91%E5%A5%B3%E5%A4%A2%E7%8F%BE%E5%99%BA_%EF%BD%9E_east_and_west_nostalgia%E5%B0%81%E9%9D%A2.jpg/252px-%E5%B0%91%E5%A5%B3%E5%A4%A2%E7%8F%BE%E5%99%BA_%EF%BD%9E_east_and_west_nostalgia%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="252" srcset="https://upload.thwiki.cc/thumb/f/f2/%E5%B0%91%E5%A5%B3%E5%A4%A2%E7%8F%BE%E5%99%BA_%EF%BD%9E_east_and_west_nostalgia%E5%B0%81%E9%9D%A2.jpg/378px-%E5%B0%91%E5%A5%B3%E5%A4%A2%E7%8F%BE%E5%99%BA_%EF%BD%9E_east_and_west_nostalgia%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/f/f2/%E5%B0%91%E5%A5%B3%E5%A4%A2%E7%8F%BE%E5%99%BA_%EF%BD%9E_east_and_west_nostalgia%E5%B0%81%E9%9D%A2.jpg/504px-%E5%B0%91%E5%A5%B3%E5%A4%A2%E7%8F%BE%E5%99%BA_%EF%BD%9E_east_and_west_nostalgia%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="705" data-file-height="705"></a><div class="cover-char">角色：<a href="/index.php?title=%E5%8E%9F%E5%88%9B%E8%A7%92%E8%89%B2&amp;action=edit&amp;redlink=1" class="new" title="原创角色（页面不存在）">原创角色</a></div></td>
@@ -18,6 +19,7 @@
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://mazyu.booth.pm/items/2377616">Booth（2020.10.30后下架。已失效）</a></td></tr></tbody></table>
 
 
+
 ## Staff
   
  **Compose**   
@@ -28,11 +30,13 @@
 Design&amp;Story
 : [翡翠（人物）](./翡翠（人物）.md)
 
+
 ## 试听
   
 <iframe width="100%" height="180" src="https://ext.nicovideo.jp/thumb/sm37524230" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/watch/sm37524230">,</a></iframe>
 
   
+
 
 ## 曲目列表
 
@@ -45,6 +49,7 @@ Design&amp;Story
 <tr><td id="7" class="infoYL"><b>07</b></td><td id="深い月夜のセレナーデ" colspan="2" class="title">深い月夜のセレナーデ<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=翡翠（人物）&amp;fromwiki=少女夢現噺_～_east_and_west_nostalgia"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./翡翠（人物）.md" title="翡翠（人物）">翡翠（人物）</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，翡翠（人物）&amp;fromwiki=少女夢現噺_～_east_and_west_nostalgia"><span></span></a></span></td></tr>
 <tr><td id="8" class="infoYL"><b>08</b></td><td id="彩雲の夜空、ピエロの夢～Dream_land" colspan="2" class="title">彩雲の夜空、ピエロの夢～Dream land<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=翡翠（人物）&amp;fromwiki=少女夢現噺_～_east_and_west_nostalgia"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./翡翠（人物）.md" title="翡翠（人物）">翡翠（人物）</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，翡翠（人物）&amp;fromwiki=少女夢現噺_～_east_and_west_nostalgia"><span></span></a></span></td></tr>
 <tr><td id="9" class="infoYL"><b>09</b></td><td id="翡翠色にさざめく境内" colspan="2" class="title">翡翠色にさざめく境内<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=翡翠（人物）&amp;fromwiki=少女夢現噺_～_east_and_west_nostalgia"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./翡翠（人物）.md" title="翡翠（人物）">翡翠（人物）</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，翡翠（人物）&amp;fromwiki=少女夢現噺_～_east_and_west_nostalgia"><span></span></a></span></td></tr></tbody></table>
+
 
 
 ## 评论

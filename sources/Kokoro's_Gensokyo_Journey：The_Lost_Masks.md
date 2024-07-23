@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 软件信息](#软件信息)
@@ -13,6 +14,7 @@
 - [3 内容页面](#内容页面)
 - [4 评论](#评论)
 - [5 外部链接](#外部链接)
+
 
 
 
@@ -35,13 +37,17 @@ Kokoro's Gensokyo Journey：The Lost Masks（同人游戏，CygnusA-1，2022） 
 </tbody></table>
 
 
+
 ## Staff
+
 ## 内容页面
 - 游戏设定与剧情 (未找到链接)
 - 攻略 (未找到链接)
 - 其他信息 (未找到链接)
 
+
 ## 评论
+
 ## 外部链接
 - [Steam上的Kokoro's Gensokyo Journey: The Lost Masks](https://store.steampowered.com/app/2057980/Kokoros_Gensokyo_Journey_The_Lost_Masks/)
 

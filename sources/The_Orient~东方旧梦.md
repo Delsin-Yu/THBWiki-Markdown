@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-The_Orient~东方旧梦封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/e/e6/The_Orient~%E4%B8%9C%E6%96%B9%E6%97%A7%E6%A2%A6%E5%B0%81%E9%9D%A2.jpg/196px-The_Orient~%E4%B8%9C%E6%96%B9%E6%97%A7%E6%A2%A6%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="196" height="168" srcset="https://upload.thwiki.cc/thumb/e/e6/The_Orient~%E4%B8%9C%E6%96%B9%E6%97%A7%E6%A2%A6%E5%B0%81%E9%9D%A2.jpg/294px-The_Orient~%E4%B8%9C%E6%96%B9%E6%97%A7%E6%A2%A6%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/e/e6/The_Orient~%E4%B8%9C%E6%96%B9%E6%97%A7%E6%A2%A6%E5%B0%81%E9%9D%A2.jpg/392px-The_Orient~%E4%B8%9C%E6%96%B9%E6%97%A7%E6%A2%A6%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1920" data-file-height="1645"></a></td>
@@ -13,6 +14,7 @@
 </tr><tr><td class="label">首发日期</td><td>2013-10-01</td></tr><tr><td class="label">类型</td><td>全长</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>10</td></tr><tr><td class="label">总时长</td><td>58:35</td></tr></tbody></table>
 
 The Orient~东方旧梦（同人专辑，Dia Schisma，2013） - 2013年10月1日 由 Dia Schisma  发布的全长同人专辑，分级为 一般向
+
 ## Staff
   
  **Compose**   
@@ -20,11 +22,13 @@ The Orient~东方旧梦（同人专辑，Dia Schisma，2013） - 2013年10月1�
 <table><tbody><tr><td><a href="/index.php?title=Avin&amp;action=edit&amp;redlink=1" class="new" title="Avin（页面不存在）">Avin</a></td><td></td><td>Tr.1-10</td></tr></tbody></table>
 
 
+
 ## 试听
   
 <iframe width="330" height="450" scrolling="no" frameborder="no" marginwidth="0" marginheight="0" sandbox="allow-scripts allow-same-origin" src="//music.163.com/outchain/player?type=1&amp;id=34892701&amp;height=430"></iframe>
 
   
+
 
 ## 曲目列表
 
@@ -38,6 +42,7 @@ The Orient~东方旧梦（同人专辑，Dia Schisma，2013） - 2013年10月1�
 <tr><td id="8" class="infoYL"><b>08</b></td><td id="为亡去英灵所作的波尔卡" colspan="2" class="title">为亡去英灵所作的波尔卡<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Avin&amp;fromwiki=The_Orient~东方旧梦"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:55</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=Avin&amp;action=edit&amp;redlink=1" class="new" title="Avin（页面不存在）">Avin</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Avin&amp;fromwiki=The_Orient~东方旧梦"><span></span></a></span></td></tr>
 <tr><td id="9" class="infoYL"><b>09</b></td><td id="众神追复的幻想乡" colspan="2" class="title">众神追复的幻想乡<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Avin&amp;fromwiki=The_Orient~东方旧梦"><span title="搜索相似同人曲"></span></a></span></td><td class="time">06:10</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=Avin&amp;action=edit&amp;redlink=1" class="new" title="Avin（页面不存在）">Avin</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Avin&amp;fromwiki=The_Orient~东方旧梦"><span></span></a></span></td></tr>
 <tr><td id="10" class="infoYL"><b>10</b></td><td id="蓬莱红楼梦" colspan="2" class="title">蓬莱红楼梦<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Avin&amp;fromwiki=The_Orient~东方旧梦"><span title="搜索相似同人曲"></span></a></span></td><td class="time">09:50</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=Avin&amp;action=edit&amp;redlink=1" class="new" title="Avin（页面不存在）">Avin</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Avin&amp;fromwiki=The_Orient~东方旧梦"><span></span></a></span></td></tr></tbody></table>
+
 
 
 ## 评论

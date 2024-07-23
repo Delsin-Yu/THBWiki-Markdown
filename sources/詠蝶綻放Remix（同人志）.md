@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-咏蝶绽放Remix（同人志）封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/4/46/%E5%92%8F%E8%9D%B6%E7%BB%BD%E6%94%BERemix%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/160px-%E5%92%8F%E8%9D%B6%E7%BB%BD%E6%94%BERemix%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="160" height="224" srcset="https://upload.thwiki.cc/thumb/4/46/%E5%92%8F%E8%9D%B6%E7%BB%BD%E6%94%BERemix%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/240px-%E5%92%8F%E8%9D%B6%E7%BB%BD%E6%94%BERemix%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/4/46/%E5%92%8F%E8%9D%B6%E7%BB%BD%E6%94%BERemix%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/320px-%E5%92%8F%E8%9D%B6%E7%BB%BD%E6%94%BERemix%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="2000" data-file-height="2798"></a><div class="cover-char">角色：<a href="./西行寺幽幽子.md" title="西行寺幽幽子">西行寺幽幽子</a>，<a href="./八云紫.md" title="八云紫">八云紫</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://weibo.com/1865954684/H6jse4hEl">https://weibo.com/1865954684/H6jse4hEl</a></td></tr><tr><td class="label">备注</td><td colspan="2">是<a href="./詠蝶綻放.md" title="詠蝶綻放" unred="">咏蝶绽放</a>的重制版，与专辑<a href="./詠蝶綻放Remix（同人专辑）.md" title="詠蝶綻放Remix（同人专辑）">咏蝶绽放Remix</a>一同发售，不单独售卖</td></tr></tbody></table>
 
 詠蝶綻放Remix（同人志，U235核燃动力，2018） - 2018年12月15日 由 U235核燃动力 于 COMICUP23 发布的漫画同人志，B5尺寸一共32页，登场人物有 西行寺幽幽子、八云紫、魂魄妖梦、雾雨魔理沙、爱丽丝·玛格特洛依德、蕾米莉亚·斯卡蕾特、十六夜咲夜、帕秋莉·诺蕾姬、红美铃、博丽灵梦、八云蓝、橙、原创角色，分级为 一般向
+
 ## Staff
 - 香香 (未找到链接)
+
 
 ## 评论
 

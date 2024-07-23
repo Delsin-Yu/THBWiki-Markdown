@@ -4,6 +4,7 @@
 
 天空音匣 | 社团LOGO
 
+
 ## 摘要
   
 源地址：[direct image link](http://sky-attic.net/pic/ban/sabanner00g.gif), [source page](http://sky-attic.net/sa02c.html)

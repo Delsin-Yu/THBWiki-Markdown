@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-THE_ROAD_OF_THE_TAO封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/b/b5/THE_ROAD_OF_THE_TAO%E5%B0%81%E9%9D%A2.jpg/139px-THE_ROAD_OF_THE_TAO%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="139" height="196" srcset="https://upload.thwiki.cc/thumb/b/b5/THE_ROAD_OF_THE_TAO%E5%B0%81%E9%9D%A2.jpg/208px-THE_ROAD_OF_THE_TAO%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/b/b5/THE_ROAD_OF_THE_TAO%E5%B0%81%E9%9D%A2.jpg/277px-THE_ROAD_OF_THE_TAO%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="725" data-file-height="1024"></a><div class="cover-char">角色：<a href="./丰聪耳神子.md" title="丰聪耳神子">丰聪耳神子</a>，<a href="./苏我屠自古.md" title="苏我屠自古">苏我屠自古</a>，<a href="./物部布都.md" title="物部布都">物部布都</a>，<a href="./霍青娥.md" title="霍青娥">霍青娥</a>，<a href="./宫古芳香.md" title="宫古芳香">宫古芳香</a></div></td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://sichirin.blog45.fc2.com//blog-entry-107.html">http://sichirin.blog45.fc2.com//blog-entry-107.html</a></td></tr></tbody></table>
 
 THE ROAD OF THE TAO（同人志，七輪大社，2011） - 2011年12月30日 由 七輪大社 于 Comic Market 81 发布的漫画同人志，B5尺寸一共48页，分级为 一般向
+
 ## Staff
   
 作画：  
@@ -26,6 +28,7 @@ Y2 (未找到链接)
 
 （作画顺序）
   
+
 
 ## 评论
 

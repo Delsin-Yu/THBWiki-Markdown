@@ -4,6 +4,7 @@
 
 RoarAddiction | 社团LOGO
 
+
 ## 文件说明
   
 源地址：[direct image link](https://web.archive.org/web/20140803144556im_/http://roaraddiction.mods.jp/BANNER.PNG), [source page](https://web.archive.org/web/20140803144554/http://roaraddiction.mods.jp/)

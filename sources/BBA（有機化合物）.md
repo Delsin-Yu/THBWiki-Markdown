@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-BBA（有機化合物）封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/5/57/BBA%EF%BC%88%E6%9C%89%E6%A9%9F%E5%8C%96%E5%90%88%E7%89%A9%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/140px-BBA%EF%BC%88%E6%9C%89%E6%A9%9F%E5%8C%96%E5%90%88%E7%89%A9%EF%BC%89%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="140" height="196" srcset="https://upload.thwiki.cc/thumb/5/57/BBA%EF%BC%88%E6%9C%89%E6%A9%9F%E5%8C%96%E5%90%88%E7%89%A9%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/210px-BBA%EF%BC%88%E6%9C%89%E6%A9%9F%E5%8C%96%E5%90%88%E7%89%A9%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/5/57/BBA%EF%BC%88%E6%9C%89%E6%A9%9F%E5%8C%96%E5%90%88%E7%89%A9%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/280px-BBA%EF%BC%88%E6%9C%89%E6%A9%9F%E5%8C%96%E5%90%88%E7%89%A9%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="700" data-file-height="979"></a><div class="cover-char">角色：<a href="./八云紫.md" title="八云紫">八云紫</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://yuuki.kagou.main.jp/?eid=20">http://yuuki.kagou.main.jp/?eid=20</a></td></tr></tbody></table>
 
 BBA（同人志，有機化合物，2013） - 2013年5月26日 由 有機化合物 于 博丽神社例大祭10 发布的漫画同人志，B5尺寸一共32页，分级为 一般向
+
 ## Staff
 - [さとうユーキ](./さとうユーキ.md)
+
 
 ## 评论
 

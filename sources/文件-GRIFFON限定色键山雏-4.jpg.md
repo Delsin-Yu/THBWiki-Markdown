@@ -4,6 +4,7 @@
 
 GRIFFON | 模型预览图片 | 键山雏
 
+
 ## 文件说明
   
 [[1]](https://web.archive.org/web/20130329071358im_/http://www.griffon.co.jp/figure_toys/event/reitaisai_09/images/index_06.jpg)

@@ -18,6 +18,7 @@
 
 
 </center>
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=Daylight,_Twilight_and_Dark_night%E5%B0%81%E9%9D%A2.jpg" class="new" title="文件:Daylight, Twilight and Dark night封面.jpg">封面图片</a><div class="cover-char">角色：<a href="./琪露诺.md" title="琪露诺">琪露诺</a>，<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a></div></td>
@@ -26,6 +27,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.nicovideo.jp/watch/sm26203487">https://www.nicovideo.jp/watch/sm26203487</a></td></tr></tbody></table>
 
 Daylight, Twilight and Dark night（同人专辑，The Imperial Diet，2015） - 2015年5月10日 由 The Imperial Diet 于 博丽神社例大祭12 发布的EP同人专辑，曲目主要风格是 Rock，分级为 一般向
+
 ## Staff
   
  **Arrangement**   
@@ -46,6 +48,7 @@ Daylight, Twilight and Dark night（同人专辑，The Imperial Diet，2015） -
 Illustration
 : 綾城大福 (未找到链接) （[Pixiv ID: 106903](https://www.pixiv.net/users/106903)）
 
+
 ## 试听
   
 <iframe width="100%" height="180" src="https://ext.nicovideo.jp/thumb/sm26203487" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/watch/sm26203487">,</a></iframe>
@@ -54,9 +57,11 @@ Illustration
 
   
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoRD"><b>01</b></td><td id="星の器" colspan="2" class="title"><span class="new" title="（歌词页面不存在）"><a href="/index.php?title=%E6%AD%8C%E8%AF%8D:%E6%98%9F%E3%81%AE%E5%99%A8&amp;boilerplate=模板:页面模板/曲目歌词&amp;action=edit">星の器</a></span><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=腎炎&amp;vocal=六（现实人物）&amp;lyric=腎炎&amp;ogmusic=星の器　～ Casket of Star&amp;fromwiki=Daylight,_Twilight_and_Dark_night"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E8%85%8E%E7%82%8E&amp;action=edit&amp;redlink=1" class="new" title="腎炎（页面不存在）">腎炎</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，腎炎&amp;fromwiki=Daylight,_Twilight_and_Dark_night"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="/index.php?title=%E5%85%AD%EF%BC%88%E7%8E%B0%E5%AE%9E%E4%BA%BA%E7%89%A9%EF%BC%89&amp;action=edit&amp;redlink=1" class="new" title="六（现实人物）（页面不存在）">六（现实人物）</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=六（现实人物）&amp;fromwiki=Daylight,_Twilight_and_Dark_night"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="/index.php?title=%E8%85%8E%E7%82%8E&amp;action=edit&amp;redlink=1" class="new" title="腎炎（页面不存在）">腎炎</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?lyric=腎炎&amp;fromwiki=Daylight,_Twilight_and_Dark_night"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=星の器　～ Casket of Star&amp;fromwiki=Daylight,_Twilight_and_Dark_night"><span></span></a></span><div class="ogmusic"><a href="/%E6%98%9F%E3%81%AE%E5%99%A8_%EF%BD%9E_Casket_of_Star" class="mw-redirect" title="星の器 ～ Casket of Star">星の器　～ Casket of Star</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E5%B9%BB%E6%83%B3%E4%B9%A1_%EF%BD%9E_Lotus_Land_Story." class="mw-redirect" title="东方幻想乡 ～ Lotus Land Story.">东方幻想乡　～ Lotus Land Story.</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoRD"><b>01</b></td><td id="星の器" colspan="2" class="title"><span class="new" title="（歌词页面不存在）"><a href="/index.php?title=%E6%AD%8C%E8%AF%8D:%E6%98%9F%E3%81%AE%E5%99%A8&amp;boilerplate=模板:页面模板/曲目歌词&amp;action=edit">星の器</a></span><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=腎炎&amp;vocal=六（现实人物）&amp;lyric=腎炎&amp;ogmusic=星の器　～ Casket of Star&amp;fromwiki=Daylight,_Twilight_and_Dark_night"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E8%85%8E%E7%82%8E&amp;action=edit&amp;redlink=1" class="new" title="腎炎（页面不存在）">腎炎</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，腎炎&amp;fromwiki=Daylight,_Twilight_and_Dark_night"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="/index.php?title=%E5%85%AD%EF%BC%88%E7%8E%B0%E5%AE%9E%E4%BA%BA%E7%89%A9%EF%BC%89&amp;action=edit&amp;redlink=1" class="new" title="六（现实人物）（页面不存在）">六（现实人物）</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=六（现实人物）&amp;fromwiki=Daylight,_Twilight_and_Dark_night"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="/index.php?title=%E8%85%8E%E7%82%8E&amp;action=edit&amp;redlink=1" class="new" title="腎炎（页面不存在）">腎炎</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?lyric=腎炎&amp;fromwiki=Daylight,_Twilight_and_Dark_night"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=星の器　～ Casket of Star&amp;fromwiki=Daylight,_Twilight_and_Dark_night"><span></span></a></span><div class="ogmusic"><a href="./星の器_～_Casket_of_Star.md" class="mw-redirect" title="星の器 ～ Casket of Star">星の器　～ Casket of Star</a></div><div class="source"><a href="./东方幻想乡_～_Lotus_Land_Story..md" class="mw-redirect" title="东方幻想乡 ～ Lotus Land Story.">东方幻想乡　～ Lotus Land Story.</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

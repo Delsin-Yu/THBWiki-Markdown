@@ -23,6 +23,7 @@
 </center>
 - 本词条内容为官方游戏TH16 **东方天空璋** 的敌机符卡
 
+
 ## 目录
 
 - [1 莉莉霍瓦特](#莉莉霍瓦特)
@@ -43,6 +44,7 @@
 
 
 
+
 ## 莉莉霍瓦特
 
 <table>
@@ -56,9 +58,10 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="/%E6%98%A5%E7%AC%A6%E3%80%8CSurprise_Spring%E3%80%8D" class="mw-redirect" title="春符「Surprise Spring」">春符「Surprise Spring」</a>
+<p><a href="./春符「Surprise_Spring」.md" class="mw-redirect" title="春符「Surprise Spring」">春符「Surprise Spring」</a>
 </p>
 </th></tr></tbody></table>
+
 
 
 ### 春符「Surprise Spring」
@@ -74,6 +77,7 @@
 
   
 
+
 ## 高丽野阿吽
 
 <table>
@@ -87,9 +91,10 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="/%E7%8B%97%E7%AC%A6%E3%80%8C%E5%B1%B1%E7%8B%97%E7%9A%84%E6%95%A3%E6%AD%A5%E3%80%8D" class="mw-redirect" title="狗符「山狗的散步」">狗符「山狗的散步」</a>
+<p><a href="./狗符「山狗的散步」.md" class="mw-redirect" title="狗符「山狗的散步」">狗符「山狗的散步」</a>
 </p>
 </th></tr></tbody></table>
+
 
 
 ### 狗符「山狗的散步」
@@ -117,9 +122,10 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="/%E9%99%80%E8%9E%BA%E3%80%8CCurl_Up_and_Die%E3%80%8D" class="mw-redirect" title="陀螺「Curl Up and Die」">陀螺「Curl Up and Die」</a>
+<p><a href="./陀螺「Curl_Up_and_Die」.md" class="mw-redirect" title="陀螺「Curl Up and Die」">陀螺「Curl Up and Die」</a>
 </p>
 </th></tr></tbody></table>
+
 
 
 ### 陀螺「Curl Up and Die」
@@ -151,9 +157,10 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="/%E7%8B%9B%E7%AC%A6%E3%80%8C%E5%8D%95%E4%BA%BA%E5%BC%8F%E9%98%BF%E5%90%BD%E7%9A%84%E5%91%BC%E5%90%B8%E3%80%8D" class="mw-redirect" title="狛符「单人式阿吽的呼吸」">狛符「单人式阿吽的呼吸」</a>
+<p><a href="./狛符「单人式阿吽的呼吸」.md" class="mw-redirect" title="狛符「单人式阿吽的呼吸」">狛符「单人式阿吽的呼吸」</a>
 </p>
 </th></tr></tbody></table>
+
 
 
 ### 狛符「单人式阿吽的呼吸」

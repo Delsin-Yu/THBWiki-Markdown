@@ -4,7 +4,8 @@
 
 Micazuki-Mo ，主要制作 同人志 的日本同人社团，主催是 みかづき星雅，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -20,17 +21,21 @@ Micazuki-Mo ，主要制作 同人志 的日本同人社团，主催是 みか�
 
 
 
+
 ## 社团信息
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Micazuki-Mo </td></tr><tr><td><b>主要作品类型</b></td><td>同人志</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=%E3%81%BF%E3%81%8B%E3%81%A5%E3%81%8D%E6%98%9F%E9%9B%85&amp;action=edit&amp;redlink=1" class="new" title="みかづき星雅（页面不存在）">みかづき星雅</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr></tbody></table>
 
 Micazuki-Mo（同人社团，同人志社团） - Micazuki-Mo ，主要制作 同人志 的日本同人社团，主催是 みかづき星雅，当前状态为 活动
+
 ## 成员名单
 - みかづき星雅 (未找到链接) (a.k.a.  **Seiga** )
 
 : [Twitter: fore_seiga](https://twitter.com/fore_seiga), [Pixiv ID: 8860366](https://www.pixiv.net/users/8860366)
 
+
 ## 作品列表
+
 ### 同人志
 [](./If_I_Make_It_Through_The_Hell,_You're_Just_Still_Here..md)[If I Make It Through The Hell, You're Just Still Here.](./If_I_Make_It_Through_The_Hell,_You're_Just_Still_Here..md)首发日期：2020-10-11 （東方紅楼夢16 (未找到链接)）画集 （一般向）B5&#160;尺寸 8&#160;页[会场特典 制作资料集](./If_I_Make_It_Through_The_Hell,_You're_Just_Still_Here._購入特典_製作資料集.md); [Pixiv上再录](https://www.pixiv.net/artworks/91171671)[](./If_I_Make_It_Through_The_Hell,_You're_Just_Still_Here._購入特典_製作資料集.md)[If I Make It Through The Hell, You're Just Still Here. 購入特典 製作資料集](./If_I_Make_It_Through_The_Hell,_You're_Just_Still_Here._購入特典_製作資料集.md)首发日期：2020-10-11 （東方紅楼夢16 (未找到链接)）其他 （一般向） 12&#160;页[Pixiv上再录](https://www.pixiv.net/artworks/91171813)[](./The_Lines.md)[The Lines](./The_Lines.md)首发日期：2021-03-21 （第十八回 博麗神社例大祭 (未找到链接)）画集 （一般向）B5&#160;尺寸 20&#160;页东方×music video[](./A_Eulogy_For_Those_Still_Here.md)[A Eulogy For Those Still Here](./A_Eulogy_For_Those_Still_Here.md)首发日期：2022-12-31 （Comic Market 101 (未找到链接)）MKZK-0003画集 （一般向）[](./水無し児の頌＜上＞.md)[水無し児の頌&lt;上&gt;](./水無し児の頌＜上＞.md)首发日期：2023-08-13 （Comic Market 102 (未找到链接)）小说 （一般向） 140&#160;页[](./けっして、眠らない梦.md)[けっして、眠らない梦](./けっして、眠らない梦.md)首发日期：2023-12-31 （Comic Market 103 (未找到链接)）小说 （一般向） 20&#160;页[](./芥.md)[芥](./芥.md)首发日期：2023-12-31 （Comic Market 103 (未找到链接)）其他 （一般向） 48&#160;页诗集
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -47,6 +52,7 @@ Micazuki-Mo（同人社团，同人志社团） - Micazuki-Mo ，主要制作 �
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 参展信息

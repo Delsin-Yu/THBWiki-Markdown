@@ -4,7 +4,8 @@
 
 ImagiMate ，主要制作 同人志 的日本同人社团，主催是 上条怜祇，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -20,17 +21,21 @@ ImagiMate ，主要制作 同人志 的日本同人社团，主催是 上条怜�
 
 
 
+
 ## 社团信息
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> ImagiMate </td></tr><tr><td><b>主要作品类型</b></td><td>同人志</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="./上条怜祇.md" title="上条怜祇">上条怜祇</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="https://kamijo-satoshi.tumblr.com/">https://kamijo-satoshi.tumblr.com/</a> </td></tr></tbody></table>
 
 ImagiMate（同人社团，同人志社团） - ImagiMate ，主要制作 同人志 的日本同人社团，主催是 上条怜祇，当前状态为 活动
+
 ## 成员名单
 - [上条怜祇](./上条怜祇.md)
 
 : [Twitter: @kamijo_lincochu](https://twitter.com/kamijo_lincochu)
 
+
 ## 作品列表
+
 ### 同人志
 覺妖夢十夜 封面图片 (未找到链接)覺妖夢十夜 (未找到链接)首发日期：未知 - お姉ちゃんの日常 封面图片 (未找到链接)お姉ちゃんの日常 (未找到链接)首发日期：未知 - 古明地こいし詩集 封面图片 (未找到链接)古明地こいし詩集 (未找到链接)首发日期：未知 - 最愛の人　～ My better half 封面图片 (未找到链接)最愛の人 ～ My better half (未找到链接)首发日期：未知 - 拝啓、私のお姉ちゃん 封面图片 (未找到链接)拝啓、私のお姉ちゃん (未找到链接)首发日期：未知 - [](./東方児童文学合同誌【赤い鳥】.md)[東方児童文学合同誌【赤い鳥】](./東方児童文学合同誌【赤い鳥】.md)首发日期：2021-03-21 （第十八回 博麗神社例大祭 (未找到链接)）合同志、​小说 （一般向）A5&#160;尺寸 242&#160;页[日文Wikipedia: 赤い鳥](https://ja.wikipedia.org/wiki/赤い鳥)
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -40,6 +45,7 @@ ImagiMate（同人社团，同人志社团） - ImagiMate ，主要制作 同人
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 参展信息

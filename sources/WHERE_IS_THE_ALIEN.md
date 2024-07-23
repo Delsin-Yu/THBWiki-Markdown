@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-WHERE_IS_THE_ALIEN封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/e/e7/WHERE_IS_THE_ALIEN%E5%B0%81%E9%9D%A2.jpg/280px-WHERE_IS_THE_ALIEN%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="280" height="280" srcset="https://upload.thwiki.cc/thumb/e/e7/WHERE_IS_THE_ALIEN%E5%B0%81%E9%9D%A2.jpg/420px-WHERE_IS_THE_ALIEN%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/e/e7/WHERE_IS_THE_ALIEN%E5%B0%81%E9%9D%A2.jpg/560px-WHERE_IS_THE_ALIEN%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="2048" data-file-height="2048"></a><div class="cover-char">角色：<a href="./封兽鵺.md" title="封兽鵺">封兽鵺</a></div></td>
@@ -18,11 +19,13 @@ WHERE IS THE ALIEN（同人专辑，Psysia（同人社团），2019） - 2019年
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.dizzylab.net/d/LHEP001">dizzylab</a></td></tr></tbody></table>
 
 
+
 ## Staff
   
  **Arrangement**   
 
 <table><tbody><tr><td><a href="./林河桑.md" title="林河桑">林河桑</a></td><td><a href="./Psysia（同人社团）.md" title="Psysia（同人社团）">Psysia（同人社团）</a></td><td>Tr.1/2</td></tr></tbody></table>
+
 
 
 ## 试听
@@ -50,10 +53,12 @@ WHERE IS THE ALIEN（同人专辑，Psysia（同人社团），2019） - 2019年
 
 
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="WHERE_IS_THE_ALIEN" colspan="2" class="title">WHERE IS THE ALIEN<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=林河桑&amp;ogmusic=平安のエイリアン&amp;fromwiki=WHERE_IS_THE_ALIEN"><span title="搜索相似同人曲"></span></a></span></td><td class="time">05:18</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./林河桑.md" title="林河桑">林河桑</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，林河桑，&amp;fromwiki=WHERE_IS_THE_ALIEN"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=平安のエイリアン&amp;fromwiki=WHERE_IS_THE_ALIEN"><span></span></a></span><div class="ogmusic"><a href="/%E5%B9%B3%E5%AE%89%E3%81%AE%E3%82%A8%E3%82%A4%E3%83%AA%E3%82%A2%E3%83%B3" class="mw-redirect" title="平安のエイリアン">平安のエイリアン</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E6%98%9F%E8%8E%B2%E8%88%B9_%EF%BD%9E_Undefined_Fantastic_Object." class="mw-redirect" title="东方星莲船 ～ Undefined Fantastic Object.">东方星莲船　～ Undefined Fantastic Object.</a></div></td></tr>
-<tr><td id="2" class="infoYD"><b>02</b></td><td id="REVERSER" colspan="2" class="title">REVERSER<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=林河桑&amp;ogmusic=リバースイデオロギー&amp;fromwiki=WHERE_IS_THE_ALIEN"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:22</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./林河桑.md" title="林河桑">林河桑</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，林河桑&amp;fromwiki=WHERE_IS_THE_ALIEN"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=リバースイデオロギー&amp;fromwiki=WHERE_IS_THE_ALIEN"><span></span></a></span><div class="ogmusic"><a href="/%E3%83%AA%E3%83%90%E3%83%BC%E3%82%B9%E3%82%A4%E3%83%87%E3%82%AA%E3%83%AD%E3%82%AE%E3%83%BC" class="mw-redirect" title="リバースイデオロギー">リバースイデオロギー</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E8%BE%89%E9%92%88%E5%9F%8E_%EF%BD%9E_Double_Dealing_Character." class="mw-redirect" title="东方辉针城 ～ Double Dealing Character.">东方辉针城　～ Double Dealing Character.</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="WHERE_IS_THE_ALIEN" colspan="2" class="title">WHERE IS THE ALIEN<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=林河桑&amp;ogmusic=平安のエイリアン&amp;fromwiki=WHERE_IS_THE_ALIEN"><span title="搜索相似同人曲"></span></a></span></td><td class="time">05:18</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./林河桑.md" title="林河桑">林河桑</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，林河桑，&amp;fromwiki=WHERE_IS_THE_ALIEN"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=平安のエイリアン&amp;fromwiki=WHERE_IS_THE_ALIEN"><span></span></a></span><div class="ogmusic"><a href="./平安のエイリアン.md" class="mw-redirect" title="平安のエイリアン">平安のエイリアン</a></div><div class="source"><a href="./东方星莲船_～_Undefined_Fantastic_Object..md" class="mw-redirect" title="东方星莲船 ～ Undefined Fantastic Object.">东方星莲船　～ Undefined Fantastic Object.</a></div></td></tr>
+<tr><td id="2" class="infoYD"><b>02</b></td><td id="REVERSER" colspan="2" class="title">REVERSER<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=林河桑&amp;ogmusic=リバースイデオロギー&amp;fromwiki=WHERE_IS_THE_ALIEN"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:22</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./林河桑.md" title="林河桑">林河桑</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，林河桑&amp;fromwiki=WHERE_IS_THE_ALIEN"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=リバースイデオロギー&amp;fromwiki=WHERE_IS_THE_ALIEN"><span></span></a></span><div class="ogmusic"><a href="./リバースイデオロギー.md" class="mw-redirect" title="リバースイデオロギー">リバースイデオロギー</a></div><div class="source"><a href="./东方辉针城_～_Double_Dealing_Character..md" class="mw-redirect" title="东方辉针城 ～ Double Dealing Character.">东方辉针城　～ Double Dealing Character.</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -48,11 +49,13 @@
 
 
 
+
 ## 基本信息
 
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">アンティークテラー</td></tr><tr><td><b>译名</b></td><td>Antique Terror</td></tr><tr><td><b>其他译名</b></td><td>古老的恐怖</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 Antique Terror（曲目） - 由 ZUN 创作的官方曲目，原名 アンティークテラー
+
 ## 出现作品
 
 <table>
@@ -61,7 +64,9 @@ Antique Terror（曲目） - 由 ZUN 创作的官方曲目，原名 アンティ
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 秋霜玉
   
 MP3由Roland SC-88Pro 实机录制。官方只发布MIDI而未发布MP3，故音轨长度以从游戏中提取的原MIDI文件为准。
@@ -69,6 +74,7 @@ MP3由Roland SC-88Pro 实机录制。官方只发布MIDI而未发布MP3，故音
 
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td><a href="./文件-sh01_12.mid.md" title="文件:sh01 12.mid">sh01_12.mid</a></td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-SE01_12.mp3.md" title="文件:SE01 12.mp3">SE01_12.mp3</a><br><audio src="https://upload.thwiki.cc/5/54/SE01_12.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>MUSIC\DATA0011（MIDI）</td></tr><tr><td><b>音轨时长</b></td><td>5:31</td></tr></tbody></table>
+
 
 
 ### 东方幻想的音乐
@@ -80,8 +86,11 @@ MP3由Roland SC-88Pro 实机录制。官方只发布MIDI而未发布MP3，故音
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td><a href="./文件-ssg_12.mid.md" title="文件:ssg 12.mid">ssg_12.mid</a></td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-ssg_12.mp3.md" title="文件:ssg 12.mp3">ssg_12.mp3</a><br><audio src="https://upload.thwiki.cc/d/df/ssg_12.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td><a rel="nofollow" class="external free" href="http://www16.big.or.jp/~zun/html/music_old.html">http://www16.big.or.jp/~zun/html/music_old.html</a></td></tr><tr><td><b>音轨时长</b></td><td>4:20</td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 秋霜玉
+
 #### Music Room
 - Music Room (未找到链接)
 
@@ -93,6 +102,7 @@ MP3由Roland SC-88Pro 实机录制。官方只发布MIDI而未发布MP3，故音
 主题是战斗女仆。  
   
 话说，这样的话，其他曲子是什么呢？Antique Terror
+
 #### 创曲幻想
 - 创曲幻想 (未找到链接)
 
@@ -101,7 +111,9 @@ MP3由Roland SC-88Pro 实机录制。官方只发布MIDI而未发布MP3，故音
 Antique Terror ： 令人怀念的感情（恐怖）  
 对未知之物的恐惧和勇气，还有不知为何涌现的怀古之情。  
 虽然想表现那样的东西，但幸亏曲调变掉了（汗）
+
 ### 东方幻想的音乐
+
 #### 秋霜玉
 - 东方幻想的音乐 (未找到链接)
 
@@ -139,8 +151,11 @@ Antique Terror ： 令人怀念的感情（恐怖）
 曲子的感想、请求等，这边请  
 　东方幻想空间　「博丽神社」 [http://www16.big.or.jp/~zun/](http://www16.big.or.jp/~zun/)  
 　e-Mail                     zun@big.or.jp
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
   
  **アンティークテラー**  
@@ -158,6 +173,7 @@ Antique Terror
   - ‎恐惧、恐怖
     - VIVIT对最终面的场景氛围感到恐惧
     - ZUN想在此曲中表现出对未知之物的恐惧和勇气
+
 
 
 

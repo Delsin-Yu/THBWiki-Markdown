@@ -4,6 +4,7 @@
 
 东方永夜抄 | 少女绮想曲_～_Dream_Battle
 
+
 ## 文件说明
   
 少女綺想曲　～ Dream Battle 东方永夜抄4面Boss博麗霊夢的主题曲MIDI版。由Roland Sound Canvas 88Pro实机录制；MP3采样率44.1KHz，码率192Kbps。  

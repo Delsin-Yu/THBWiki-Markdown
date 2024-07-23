@@ -4,7 +4,8 @@
 
 M字ハゲフィールド ，主要制作 同人志 的日本同人社团，主催是 タイニー，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -20,18 +21,22 @@ M字ハゲフィールド ，主要制作 同人志 的日本同人社团，主�
 
 
 
+
 ## 社团信息
 文件:M字ハゲフィールドbanner.jpg (未找到链接)  banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> M字ハゲフィールド </td></tr><tr><td><b>主要作品类型</b></td><td>同人志</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=%E3%82%BF%E3%82%A4%E3%83%8B%E3%83%BC&amp;action=edit&amp;redlink=1" class="new" title="タイニー（页面不存在）">タイニー</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr></tbody></table>
 
 M字ハゲフィールド（同人社团，同人志社团） - M字ハゲフィールド ，主要制作 同人志 的日本同人社团，主催是 タイニー，当前状态为 活动
+
 ## 成员名单
 - タイニー (未找到链接)
   - [[Twitter；@Tiny_J_T](https://twitter.com/Tiny_J_T), [Pixiv](https://www.pixiv.net/users/803837)
 
 
+
 ## 作品列表
+
 ### 同人志
 太子、乳を揉みにいく！ 封面图片 (未找到链接)太子、乳を揉みにいく！ (未找到链接)首发日期：未知 - 太子、また乳を揉みにいく！ 封面图片 (未找到链接)太子、また乳を揉みにいく！ (未找到链接)首发日期：未知 - ReiSakullection 封面图片 (未找到链接)ReiSakullection (未找到链接)首发日期：未知 - 太子、懲りずに乳を揉みにいく！ 封面图片 (未找到链接)太子、懲りずに乳を揉みにいく！ (未找到链接)首发日期：未知 - SmileSmileRemy 封面图片 (未找到链接)SmileSmileRemy (未找到链接)首发日期：未知 - 瀟洒乱 封面图片 (未找到链接)瀟洒乱 (未找到链接)首发日期：未知 - お出かけ咲夜 封面图片 (未找到链接)お出かけ咲夜 (未找到链接)首发日期：未知 - 徒者夜換会（仮） 封面图片 (未找到链接)徒者夜換会（仮） (未找到链接)首发日期：未知 - 
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -43,6 +48,7 @@ M字ハゲフィールド（同人社团，同人志社团） - M字ハゲフィ
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458"></table>
+
 
 
 ## 参展信息

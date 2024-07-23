@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-MAJUTSUSHI_CREEPINESS封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/4/43/MAJUTSUSHI_CREEPINESS%E5%B0%81%E9%9D%A2.jpg/280px-MAJUTSUSHI_CREEPINESS%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="280" height="280" srcset="https://upload.thwiki.cc/thumb/4/43/MAJUTSUSHI_CREEPINESS%E5%B0%81%E9%9D%A2.jpg/420px-MAJUTSUSHI_CREEPINESS%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/4/43/MAJUTSUSHI_CREEPINESS%E5%B0%81%E9%9D%A2.jpg/560px-MAJUTSUSHI_CREEPINESS%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1488" data-file-height="1488"></a><div class="cover-char">角色：<a href="./玛艾露贝莉·赫恩.md" title="玛艾露贝莉·赫恩">玛艾露贝莉·赫恩</a></div></td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/sunagak1/status/1782429899342676366">https://twitter.com/sunagak1/status/1782429899342676366</a></td></tr></tbody></table>
 
 MAJUTSUSHI CREEPINESS（同人专辑，Melancholic Fanclub，2024） - 2024年5月3日 由 Melancholic Fanclub 于 博丽神社例大祭21 发布的单曲同人专辑，曲目主要风格是 Rock，分级为 一般向
+
 ## Staff
   
  **Arrangement**   
@@ -23,6 +25,7 @@ MAJUTSUSHI CREEPINESS（同人专辑，Melancholic Fanclub，2024） - 2024年5�
 
 Illustration
 : すながき (未找到链接) （[Melancholic Fanclub](./Melancholic_Fanclub.md)）
+
 
 ## 试听
 
@@ -36,10 +39,12 @@ Illustration
 </td></tr></tbody></table>
 
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="MAJUTSUSHI_CREEPINESS" colspan="2" class="title">MAJUTSUSHI CREEPINESS<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=すながき&amp;ogmusic=魔術師メリー&amp;fromwiki=MAJUTSUSHI_CREEPINESS"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E3%81%99%E3%81%AA%E3%81%8C%E3%81%8D&amp;action=edit&amp;redlink=1" class="new" title="すながき（页面不存在）">すながき</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，すながき&amp;fromwiki=MAJUTSUSHI_CREEPINESS"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=魔術師メリー&amp;fromwiki=MAJUTSUSHI_CREEPINESS"><span></span></a></span><div class="ogmusic"><a href="/%E9%AD%94%E8%A1%93%E5%B8%AB%E3%83%A1%E3%83%AA%E3%83%BC" class="mw-redirect" title="魔術師メリー">魔術師メリー</a></div><div class="source"><a href="/%E8%8E%B2%E5%8F%B0%E9%87%8E%E5%A4%9C%E8%A1%8C_%EF%BD%9E_Ghostly_Field_Club." class="mw-redirect" title="莲台野夜行 ～ Ghostly Field Club.">莲台野夜行　～ Ghostly Field Club.</a></div></td></tr>
-<tr><td id="2" class="infoYD"><b>02</b></td><td id="MAJUTSUSHI_CREEPINESS_(Demo)" colspan="2" class="title">MAJUTSUSHI CREEPINESS (Demo)<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=すながき&amp;ogmusic=魔術師メリー&amp;fromwiki=MAJUTSUSHI_CREEPINESS"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E3%81%99%E3%81%AA%E3%81%8C%E3%81%8D&amp;action=edit&amp;redlink=1" class="new" title="すながき（页面不存在）">すながき</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，すながき&amp;fromwiki=MAJUTSUSHI_CREEPINESS"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=魔術師メリー&amp;fromwiki=MAJUTSUSHI_CREEPINESS"><span></span></a></span><div class="ogmusic"><a href="/%E9%AD%94%E8%A1%93%E5%B8%AB%E3%83%A1%E3%83%AA%E3%83%BC" class="mw-redirect" title="魔術師メリー">魔術師メリー</a></div><div class="source"><a href="/%E8%8E%B2%E5%8F%B0%E9%87%8E%E5%A4%9C%E8%A1%8C_%EF%BD%9E_Ghostly_Field_Club." class="mw-redirect" title="莲台野夜行 ～ Ghostly Field Club.">莲台野夜行　～ Ghostly Field Club.</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="MAJUTSUSHI_CREEPINESS" colspan="2" class="title">MAJUTSUSHI CREEPINESS<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=すながき&amp;ogmusic=魔術師メリー&amp;fromwiki=MAJUTSUSHI_CREEPINESS"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E3%81%99%E3%81%AA%E3%81%8C%E3%81%8D&amp;action=edit&amp;redlink=1" class="new" title="すながき（页面不存在）">すながき</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，すながき&amp;fromwiki=MAJUTSUSHI_CREEPINESS"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=魔術師メリー&amp;fromwiki=MAJUTSUSHI_CREEPINESS"><span></span></a></span><div class="ogmusic"><a href="./魔術師メリー.md" class="mw-redirect" title="魔術師メリー">魔術師メリー</a></div><div class="source"><a href="./莲台野夜行_～_Ghostly_Field_Club..md" class="mw-redirect" title="莲台野夜行 ～ Ghostly Field Club.">莲台野夜行　～ Ghostly Field Club.</a></div></td></tr>
+<tr><td id="2" class="infoYD"><b>02</b></td><td id="MAJUTSUSHI_CREEPINESS_(Demo)" colspan="2" class="title">MAJUTSUSHI CREEPINESS (Demo)<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=すながき&amp;ogmusic=魔術師メリー&amp;fromwiki=MAJUTSUSHI_CREEPINESS"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E3%81%99%E3%81%AA%E3%81%8C%E3%81%8D&amp;action=edit&amp;redlink=1" class="new" title="すながき（页面不存在）">すながき</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，すながき&amp;fromwiki=MAJUTSUSHI_CREEPINESS"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=魔術師メリー&amp;fromwiki=MAJUTSUSHI_CREEPINESS"><span></span></a></span><div class="ogmusic"><a href="./魔術師メリー.md" class="mw-redirect" title="魔術師メリー">魔術師メリー</a></div><div class="source"><a href="./莲台野夜行_～_Ghostly_Field_Club..md" class="mw-redirect" title="莲台野夜行 ～ Ghostly Field Club.">莲台野夜行　～ Ghostly Field Club.</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

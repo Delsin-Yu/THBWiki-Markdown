@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=Border_of_illusion%E5%B0%81%E9%9D%A2.jpg" class="new" title="文件:Border of illusion封面.jpg">封面图片</a><div class="cover-char">角色：<a href="./玛艾露贝莉·赫恩.md" title="玛艾露贝莉·赫恩">玛艾露贝莉·赫恩</a></div></td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/mai_nishijima/status/1794701101205500184">https://twitter.com/mai_nishijima/status/1794701101205500184</a></td></tr></tbody></table>
 
 Border of illusion（同人专辑，舞々，2024） - 2024年6月1日 由 舞々 于 东方红楼梦19.5 发布的单曲同人专辑，分级为 一般向
+
 ## Staff
   
  **Vocal**   
@@ -21,9 +23,11 @@ Border of illusion（同人专辑，舞々，2024） - 2024年6月1日 由 舞�
 <table><tbody><tr><td><a href="./にしじままい.md" title="にしじままい">にしじままい</a></td><td></td><td>Tr.1</td></tr></tbody></table>
 
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoRD"><b>01</b></td><td id="Border_of_illusion" colspan="2" class="title"><span class="new" title="（歌词页面不存在）"><a href="/index.php?title=%E6%AD%8C%E8%AF%8D:Border_of_illusion&amp;boilerplate=模板:页面模板/曲目歌词&amp;action=edit">Border of illusion</a></span><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=にしじままい&amp;ogmusic=魔術師メリー&amp;fromwiki=Border_of_illusion"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="./にしじままい.md" title="にしじままい">にしじままい</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=にしじままい&amp;fromwiki=Border_of_illusion"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=魔術師メリー&amp;fromwiki=Border_of_illusion"><span></span></a></span><div class="ogmusic"><a href="/%E9%AD%94%E8%A1%93%E5%B8%AB%E3%83%A1%E3%83%AA%E3%83%BC" class="mw-redirect" title="魔術師メリー">魔術師メリー</a></div><div class="source"><a href="/%E8%8E%B2%E5%8F%B0%E9%87%8E%E5%A4%9C%E8%A1%8C_%EF%BD%9E_Ghostly_Field_Club." class="mw-redirect" title="莲台野夜行 ～ Ghostly Field Club.">莲台野夜行　～ Ghostly Field Club.</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoRD"><b>01</b></td><td id="Border_of_illusion" colspan="2" class="title"><span class="new" title="（歌词页面不存在）"><a href="/index.php?title=%E6%AD%8C%E8%AF%8D:Border_of_illusion&amp;boilerplate=模板:页面模板/曲目歌词&amp;action=edit">Border of illusion</a></span><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=にしじままい&amp;ogmusic=魔術師メリー&amp;fromwiki=Border_of_illusion"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="./にしじままい.md" title="にしじままい">にしじままい</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=にしじままい&amp;fromwiki=Border_of_illusion"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=魔術師メリー&amp;fromwiki=Border_of_illusion"><span></span></a></span><div class="ogmusic"><a href="./魔術師メリー.md" class="mw-redirect" title="魔術師メリー">魔術師メリー</a></div><div class="source"><a href="./莲台野夜行_～_Ghostly_Field_Club..md" class="mw-redirect" title="莲台野夜行 ～ Ghostly Field Club.">莲台野夜行　～ Ghostly Field Club.</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

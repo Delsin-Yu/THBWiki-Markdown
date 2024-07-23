@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Resistance_Colorfuls_-レジスタンスカラフルズ-封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/9/96/Resistance_Colorfuls_-%E3%83%AC%E3%82%B8%E3%82%B9%E3%82%BF%E3%83%B3%E3%82%B9%E3%82%AB%E3%83%A9%E3%83%95%E3%83%AB%E3%82%BA-%E5%B0%81%E9%9D%A2.jpg/157px-Resistance_Colorfuls_-%E3%83%AC%E3%82%B8%E3%82%B9%E3%82%BF%E3%83%B3%E3%82%B9%E3%82%AB%E3%83%A9%E3%83%95%E3%83%AB%E3%82%BA-%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="157" height="224" srcset="https://upload.thwiki.cc/thumb/9/96/Resistance_Colorfuls_-%E3%83%AC%E3%82%B8%E3%82%B9%E3%82%BF%E3%83%B3%E3%82%B9%E3%82%AB%E3%83%A9%E3%83%95%E3%83%AB%E3%82%BA-%E5%B0%81%E9%9D%A2.jpg/235px-Resistance_Colorfuls_-%E3%83%AC%E3%82%B8%E3%82%B9%E3%82%BF%E3%83%B3%E3%82%B9%E3%82%AB%E3%83%A9%E3%83%95%E3%83%AB%E3%82%BA-%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/9/96/Resistance_Colorfuls_-%E3%83%AC%E3%82%B8%E3%82%B9%E3%82%BF%E3%83%B3%E3%82%B9%E3%82%AB%E3%83%A9%E3%83%95%E3%83%AB%E3%82%BA-%E5%B0%81%E9%9D%A2.jpg/314px-Resistance_Colorfuls_-%E3%83%AC%E3%82%B8%E3%82%B9%E3%82%BF%E3%83%B3%E3%82%B9%E3%82%AB%E3%83%A9%E3%83%95%E3%83%AB%E3%82%BA-%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="631" data-file-height="900"></a><div class="cover-char">角色：<a href="./鬼人正邪.md" title="鬼人正邪">鬼人正邪</a>，<a href="./少名针妙丸.md" title="少名针妙丸">少名针妙丸</a></div></td>
@@ -18,7 +19,9 @@ Resistance Colorfuls -レジスタンスカラフルズ-（同人志，シュガ
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=160221">蜜瓜</a></td></tr></tbody></table>
 
 
+
 ## 预览
+
 ## Staff
 - 神無月羽兎 (未找到链接)（[winter scenery](./winter_scenery.md)）
 - [suい](./スイ.md)（[coccinelle](./coccinelle.md)）
@@ -29,8 +32,9 @@ Resistance Colorfuls -レジスタンスカラフルズ-（同人志，シュガ
 - [山桃](./山桃.md)（[ビネットの箱庭](./ビネットの箱庭.md)）
 - [さとうユーキ](./さとうユーキ.md)（[有機化合物](./有機化合物.md)）
 - 夢見 (未找到链接)（[夢見屋さん](./夢見屋さん.md)）
-- 稟太郎 (未找到链接)（スライディング銭湯 (未找到链接)）
+- 稟太郎 (未找到链接)（[スライディング銭湯](./スライディング銭湯.md)）
 - 秋沙 (未找到链接)（[シュガレット](./シュガレット.md)）
+
 
 ## 评论
 

@@ -4,7 +4,8 @@
 
 Sensitive Heart ，于 2004 年成立，主要制作 同人音乐 的日本同人社团，主催是 koutaq，当前状态为 休止
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -15,14 +16,17 @@ Sensitive Heart ，于 2004 年成立，主要制作 同人音乐 的日本同�
 
 
 
+
 ## 社团信息
 [](./文件-Sensitive_Heart_banner.png.md)  [](./文件-Sensitive_Heart_banner.png.md)Banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Sensitive Heart </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2004</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>主催</b></td><td> <a href="./koutaq.md" title="koutaq">koutaq</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://kt-9.cute.bz/">http://kt-9.cute.bz/</a> </td></tr></tbody></table>
 
 Sensitive Heart（同人社团，同人音乐社团） - Sensitive Heart ，于 2004 年成立，主要制作 同人音乐 的日本同人社团，主催是 koutaq，当前状态为 休止
+
 ## 成员名单
 - [koutaq](./koutaq.md)
+
 
 ## 作品列表
 [](./桜幻樂典_～_Fantasic_record_of_Cherry-blossom.md)[桜幻樂典 ～ Fantasic record of Cherry-blossom](./桜幻樂典_～_Fantasic_record_of_Cherry-blossom.md)首发日期：2004-10-09 （M3-2004秋 (未找到链接)）SHAC-0002全长 （一般向）[](./月射録_～_The_Moon-shooter.md)[月射録 ～ The Moon-shooter](./月射録_～_The_Moon-shooter.md)首发日期：2005-05-04 （第二回 博麗神社例大祭 (未找到链接)）SHAC-0003全长 （一般向）[](./SCARLET_DESTINY(仮)_Preview_Disc.md)[SCARLET DESTINY(仮) Preview Disc](./SCARLET_DESTINY(仮)_Preview_Disc.md)首发日期：2006-02-12 （東方まんがまつり (未找到链接)）Demo （一般向）[](./Scarlet_Destiny（同人专辑）.md)[Scarlet Destiny](./Scarlet_Destiny（同人专辑）.md)首发日期：2006-05-21 （第三回 博麗神社例大祭 (未找到链接)）SHAC-0004全长 （一般向）[](./Fallusion_Preview_Disc.md)[Fallusion Preview Disc](./Fallusion_Preview_Disc.md)首发日期：2008-05-25 （第五回 博麗神社例大祭 (未找到链接)）Demo （一般向）[](./Fallusion_-風神小紀行-.md)[Fallusion -風神小紀行-](./Fallusion_-風神小紀行-.md)首发日期：2009-03-08 （第六回 博麗神社例大祭 (未找到链接)）SHAC-0005全长 （一般向）
@@ -38,6 +42,7 @@ Sensitive Heart（同人社团，同人音乐社团） - Sensitive Heart ，于 
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 其他信息

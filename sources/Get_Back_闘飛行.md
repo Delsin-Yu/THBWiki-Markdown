@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Get_Back_闘飛行封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/e/e1/Get_Back_%E9%97%98%E9%A3%9B%E8%A1%8C%E5%B0%81%E9%9D%A2.jpg/224px-Get_Back_%E9%97%98%E9%A3%9B%E8%A1%8C%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="224" srcset="https://upload.thwiki.cc/thumb/e/e1/Get_Back_%E9%97%98%E9%A3%9B%E8%A1%8C%E5%B0%81%E9%9D%A2.jpg/336px-Get_Back_%E9%97%98%E9%A3%9B%E8%A1%8C%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/e/e1/Get_Back_%E9%97%98%E9%A3%9B%E8%A1%8C%E5%B0%81%E9%9D%A2.jpg/448px-Get_Back_%E9%97%98%E9%A3%9B%E8%A1%8C%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="500" data-file-height="500"></a><div class="cover-char">角色：<a href="./鬼人正邪.md" title="鬼人正邪">鬼人正邪</a></div></td>
@@ -13,6 +14,7 @@
 </tr><tr><td class="label">首发日期</td><td>2016-10-16&#160;（<a href="/展会作品列表?e=%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E7%A7%8B%E5%AD%A3%E4%BE%8B%E5%A4%A7%E7%A5%AD%233">第三回 博麗神社秋季例大祭</a>）</td></tr><tr><td class="label">类型</td><td>单曲</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>2</td></tr><tr><td class="label">总时长</td><td>00:00</td></tr><tr><td class="label">售价</td><td>会场售价：100日元</td></tr></tbody></table>
 
 Get Back 闘飛行（同人专辑，ぎがらんち，2016） - 2016年10月16日 由 ぎがらんち 于 博丽神社秋季例大祭3 发布的单曲同人专辑，分级为 一般向
+
 ## Staff
   
  **Arrangement**   
@@ -42,16 +44,19 @@ Logo design
 Illustration
 : かさぴー
 
+
 ## 试听
   
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/287948479&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=false"></iframe>
 
   
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoRD"><b>01</b></td><td id="Get_Back_闘飛行" colspan="2" class="title"><span class="new" title="（歌词页面不存在）"><a href="/index.php?title=%E6%AD%8C%E8%AF%8D:Get_Back_%E9%97%98%E9%A3%9B%E8%A1%8C&amp;boilerplate=模板:页面模板/曲目歌词&amp;action=edit">Get Back 闘飛行</a></span><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=やみしー&amp;vocal=雷ぷりん&amp;lyric=かさぴー&amp;ogmusic=ロマンチック逃飛行&amp;fromwiki=Get_Back_闘飛行"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E3%82%84%E3%81%BF%E3%81%97%E3%83%BC&amp;action=edit&amp;redlink=1" class="new" title="やみしー（页面不存在）">やみしー</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，やみしー&amp;fromwiki=Get_Back_闘飛行"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="/index.php?title=%E9%9B%B7%E3%81%B7%E3%82%8A%E3%82%93&amp;action=edit&amp;redlink=1" class="new" title="雷ぷりん（页面不存在）">雷ぷりん</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=雷ぷりん&amp;fromwiki=Get_Back_闘飛行"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="/index.php?title=%E3%81%8B%E3%81%95%E3%81%B4%E3%83%BC&amp;action=edit&amp;redlink=1" class="new" title="かさぴー（页面不存在）">かさぴー</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?lyric=かさぴー&amp;fromwiki=Get_Back_闘飛行"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演奏</td><td class="text" colspan="2">Guitar, Bass &amp; Chorus：やみしー <br>Chorus：かさぴー <br>Drums &amp; Chorus：SGTK</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=ロマンチック逃飛行&amp;fromwiki=Get_Back_闘飛行"><span></span></a></span><div class="ogmusic"><a href="/%E3%83%AD%E3%83%9E%E3%83%B3%E3%83%81%E3%83%83%E3%82%AF%E9%80%83%E9%A3%9B%E8%A1%8C" class="mw-redirect" title="ロマンチック逃飛行">ロマンチック逃飛行</a></div><div class="source"><a href="/%E5%BC%B9%E5%B9%95%E5%A4%A9%E9%82%AA%E9%AC%BC_%EF%BD%9E_Impossible_Spell_Card." class="mw-redirect" title="弹幕天邪鬼 ～ Impossible Spell Card.">弹幕天邪鬼　～ Impossible Spell Card.</a></div></td></tr>
+<table><tbody><tr><td id="1" class="infoRD"><b>01</b></td><td id="Get_Back_闘飛行" colspan="2" class="title"><span class="new" title="（歌词页面不存在）"><a href="/index.php?title=%E6%AD%8C%E8%AF%8D:Get_Back_%E9%97%98%E9%A3%9B%E8%A1%8C&amp;boilerplate=模板:页面模板/曲目歌词&amp;action=edit">Get Back 闘飛行</a></span><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=やみしー&amp;vocal=雷ぷりん&amp;lyric=かさぴー&amp;ogmusic=ロマンチック逃飛行&amp;fromwiki=Get_Back_闘飛行"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E3%82%84%E3%81%BF%E3%81%97%E3%83%BC&amp;action=edit&amp;redlink=1" class="new" title="やみしー（页面不存在）">やみしー</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，やみしー&amp;fromwiki=Get_Back_闘飛行"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="/index.php?title=%E9%9B%B7%E3%81%B7%E3%82%8A%E3%82%93&amp;action=edit&amp;redlink=1" class="new" title="雷ぷりん（页面不存在）">雷ぷりん</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=雷ぷりん&amp;fromwiki=Get_Back_闘飛行"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="/index.php?title=%E3%81%8B%E3%81%95%E3%81%B4%E3%83%BC&amp;action=edit&amp;redlink=1" class="new" title="かさぴー（页面不存在）">かさぴー</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?lyric=かさぴー&amp;fromwiki=Get_Back_闘飛行"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演奏</td><td class="text" colspan="2">Guitar, Bass &amp; Chorus：やみしー <br>Chorus：かさぴー <br>Drums &amp; Chorus：SGTK</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=ロマンチック逃飛行&amp;fromwiki=Get_Back_闘飛行"><span></span></a></span><div class="ogmusic"><a href="./ロマンチック逃飛行.md" class="mw-redirect" title="ロマンチック逃飛行">ロマンチック逃飛行</a></div><div class="source"><a href="./弹幕天邪鬼_～_Impossible_Spell_Card..md" class="mw-redirect" title="弹幕天邪鬼 ～ Impossible Spell Card.">弹幕天邪鬼　～ Impossible Spell Card.</a></div></td></tr>
 <tr><td id="2" class="info"><b>02</b></td><td id="ぎがらんち袋とじ" colspan="2" class="title">ぎがらんち袋とじ<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=Get_Back_闘飛行"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr></tbody></table>
+
 
 
 ## 评论

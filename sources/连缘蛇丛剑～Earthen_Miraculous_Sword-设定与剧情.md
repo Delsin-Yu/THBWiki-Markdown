@@ -4,6 +4,7 @@
 
 トリック・ノスタルジー
 
+
 ## 目录
 
 - [1 附带文档](#附带文档)
@@ -14,12 +15,15 @@
 
 
 
+
 ## 附带文档
 - [readme](./连缘蛇丛剑～Earthen_Miraculous_Sword-设定与剧情-readme.md)
+
 
 ## 故事背景
 - [故事背景](./连缘蛇丛剑～Earthen_Miraculous_Sword-设定与剧情-故事背景.md)
 - [Ex故事背景](./连缘蛇丛剑～Earthen_Miraculous_Sword-设定与剧情-Ex故事背景.md)
+
 
 ## 游戏对话
 - [凤联薮雨 游戏对话/结局](./游戏对话-连缘蛇丛剑～Earthen_Miraculous_Sword-凤联薮雨.md)
@@ -31,6 +35,7 @@
 - [燕乐玄鸟 Ex游戏对话](./游戏对话-连缘蛇丛剑～Earthen_Miraculous_Sword-燕乐玄鸟_ExStory.md)
 - [鹀黑巫鸟 Ex游戏对话](./游戏对话-连缘蛇丛剑～Earthen_Miraculous_Sword-鹀黑巫鸟_ExStory.md)
 - [国主雀巳 Ex游戏对话](./游戏对话-连缘蛇丛剑～Earthen_Miraculous_Sword-国主雀巳_ExStory.md)
+
 
 ## 词条导航
   

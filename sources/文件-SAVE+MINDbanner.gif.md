@@ -4,6 +4,7 @@
 
 SAVE+MIND | 社团LOGO
 
+
 ## 摘要
   
 源地址：[direct image link](https://web.archive.org/web/20070211010628im_/http://www13.plala.or.jp/savemind/image/bn.gif), [source page](https://web.archive.org/web/20070220161424/http://www13.plala.or.jp/savemind/about.htm)

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Lunatic_Break封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/d/db/Lunatic_Break%E5%B0%81%E9%9D%A2.png/138px-Lunatic_Break%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="138" height="196" srcset="https://upload.thwiki.cc/thumb/d/db/Lunatic_Break%E5%B0%81%E9%9D%A2.png/208px-Lunatic_Break%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/d/db/Lunatic_Break%E5%B0%81%E9%9D%A2.png/277px-Lunatic_Break%E5%B0%81%E9%9D%A2.png 2x" data-file-width="750" data-file-height="1061"></a><div class="cover-char">角色：<a href="./灵乌路空.md" title="灵乌路空">灵乌路空</a></div></td>
@@ -14,9 +15,12 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://gmot1illust.blog65.fc2.com/blog-entry-890.html">http://gmot1illust.blog65.fc2.com/blog-entry-890.html</a><br><a rel="nofollow" class="external free" href="https://twitter.com/_GmoT_/status/366532560894951424">https://twitter.com/_GmoT_/status/366532560894951424</a><br><a rel="nofollow" class="external free" href="https://seiga.nicovideo.jp/seiga/im3267701">https://seiga.nicovideo.jp/seiga/im3267701</a><br><a rel="nofollow" class="external free" href="https://seiga.nicovideo.jp/seiga/im3338937">https://seiga.nicovideo.jp/seiga/im3338937</a><br><a rel="nofollow" class="external free" href="http://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=37066338">http://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=37066338</a><br><span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><small>（无缓存页面）</small></td></tr><tr><td class="label">备注</td><td colspan="2">以<b>Black Edition FX</b>名义发布</td></tr></tbody></table>
 
 Lunatic Break（同人志，BlackEditionFX，2013） - 2013年8月12日 由 BlackEditionFX 于 Comic Market 84 发布的画集同人志，A4尺寸一共20页，分级为 一般向
+
 ## 预览
+
 ## Staff
 - GmoT (未找到链接)
+
 
 ## 评论
 

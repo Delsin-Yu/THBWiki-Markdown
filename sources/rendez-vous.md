@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-rendez-vous封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/9/96/rendez-vous%E5%B0%81%E9%9D%A2.jpg/118px-rendez-vous%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="118" height="168" srcset="https://upload.thwiki.cc/thumb/9/96/rendez-vous%E5%B0%81%E9%9D%A2.jpg/178px-rendez-vous%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/9/96/rendez-vous%E5%B0%81%E9%9D%A2.jpg/237px-rendez-vous%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="723" data-file-height="1024"></a><div class="cover-char">角色：<a href="./风见幽香.md" title="风见幽香">风见幽香</a>，<a href="./幽香.md" title="幽香">幽香</a></div></td>
@@ -17,8 +18,10 @@ rendez-vous（同人志，餅月トランペット） - 2024年6月22日 由 餅
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://kinuekun.booth.pm/items/1440915">Booth</a></td></tr></tbody></table>
 
 
+
 ## Staff
 - 若宮絹江 (未找到链接)（[Pixiv ID: 5452381](https://www.pixiv.net/users/5452381)）
+
 
 ## 评论
 

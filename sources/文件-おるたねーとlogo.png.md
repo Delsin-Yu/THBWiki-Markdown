@@ -4,6 +4,7 @@
 
 おるたねーと | 社团LOGO
 
+
 ## 摘要
   
 源地址：[direct image link (max size)](https://blog-imgs-52-origin.fc2.com/o/r/u/orutaneito/2012042500000466d.png), [source page (circle blog)](http://orutaneito.blog56.fc2.com/)

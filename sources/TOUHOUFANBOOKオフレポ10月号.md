@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-TOUHOUFANBOOKオフレポ10月号封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/0/09/TOUHOUFANBOOK%E3%82%AA%E3%83%95%E3%83%AC%E3%83%9D10%E6%9C%88%E5%8F%B7%E5%B0%81%E9%9D%A2.jpg/140px-TOUHOUFANBOOK%E3%82%AA%E3%83%95%E3%83%AC%E3%83%9D10%E6%9C%88%E5%8F%B7%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="140" height="196" srcset="https://upload.thwiki.cc/thumb/0/09/TOUHOUFANBOOK%E3%82%AA%E3%83%95%E3%83%AC%E3%83%9D10%E6%9C%88%E5%8F%B7%E5%B0%81%E9%9D%A2.jpg/210px-TOUHOUFANBOOK%E3%82%AA%E3%83%95%E3%83%AC%E3%83%9D10%E6%9C%88%E5%8F%B7%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/0/09/TOUHOUFANBOOK%E3%82%AA%E3%83%95%E3%83%AC%E3%83%9D10%E6%9C%88%E5%8F%B7%E5%B0%81%E9%9D%A2.jpg/280px-TOUHOUFANBOOK%E3%82%AA%E3%83%95%E3%83%AC%E3%83%9D10%E6%9C%88%E5%8F%B7%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="2596" data-file-height="3631"></a><div class="cover-char">角色：<a href="./本居小铃.md" title="本居小铃">本居小铃</a>，<a href="./少名针妙丸.md" title="少名针妙丸">少名针妙丸</a></div></td>
@@ -18,11 +19,14 @@ TOUHOUFANBOOKオフレポ10月号（同人志，baba精米所，2014） - 2014�
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=238931">蜜瓜DL版</a></td></tr></tbody></table>
 
 
+
 ## 预览
+
 ## Staff
 - baba (未找到链接)
 - しょぺ (未找到链接)
 - りんどう (未找到链接)
+
 
 ## 评论
 

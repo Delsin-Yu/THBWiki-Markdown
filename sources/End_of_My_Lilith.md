@@ -4,7 +4,8 @@
 
 End of My Lilith ，于 2023 年成立，主要制作 同人志 的日本同人社团，主催是 れう すずらぎ，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -20,24 +21,29 @@ End of My Lilith ，于 2023 年成立，主要制作 同人志 的日本同人�
 
 
 
+
 ## 社团信息
 文件:End of My Lilithbanner.jpg (未找到链接)  banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> End of My Lilith </td></tr><tr><td><b>主要作品类型</b></td><td>同人志</td></tr><tr><td><b>成立时间</b></td><td>2023</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=%E3%82%8C%E3%81%86_%E3%81%99%E3%81%9A%E3%82%89%E3%81%8E&amp;action=edit&amp;redlink=1" class="new" title="れう すずらぎ（页面不存在）">れう すずらぎ</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr></tbody></table>
 
 End of My Lilith（同人社团，同人志社团） - End of My Lilith ，于 2023 年成立，主要制作 同人志 的日本同人社团，主催是 れう すずらぎ，当前状态为 活动
+
 ## 成员名单
 - れう すずらぎ (未找到链接)
 
 : [Twitter: @RUSnRG1](https://twitter.com/RUSnRG1), [Pixiv ID: 16726323](https://www.pixiv.net/users/16726323)
 
+
 ## 作品列表
+
 ### 同人志
 [](./Frandle,_For_Frandle.md)[Frandle, For Frandle](./Frandle,_For_Frandle.md)首发日期：2023-05-07 （第二十回 博麗神社例大祭 (未找到链接)）小说 （一般向）A5&#160;尺寸 92&#160;页[](./中華美食探訪.md)[中華美食探訪](./中華美食探訪.md)首发日期：2023-10-15 （東方紅楼夢19 (未找到链接)）漫画 （一般向）B5&#160;尺寸 14&#160;页
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 参展信息

@@ -18,6 +18,7 @@
 
 
 </center>
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-DROP_DEAD封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/f/f2/DROP_DEAD%E5%B0%81%E9%9D%A2.jpg/224px-DROP_DEAD%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="219" srcset="https://upload.thwiki.cc/thumb/f/f2/DROP_DEAD%E5%B0%81%E9%9D%A2.jpg/336px-DROP_DEAD%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/f/f2/DROP_DEAD%E5%B0%81%E9%9D%A2.jpg/448px-DROP_DEAD%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="625" data-file-height="610"></a><div class="cover-char">角色：<a href="./娜兹玲.md" title="娜兹玲">娜兹玲</a>，<a href="./圣白莲.md" title="圣白莲">圣白莲</a>，<a href="./寅丸星.md" title="寅丸星">寅丸星</a></div></td>
@@ -26,11 +27,13 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://bouon-ji.blogspot.com/2014/03/blog-post.html">http://bouon-ji.blogspot.com/2014/03/blog-post.html</a></td></tr></tbody></table>
 
 DROP DEAD（同人专辑，暴音寺，2014） - 2014年3月30日 由 暴音寺 于 东方名华祭8 发布的全长同人专辑，曲目主要风格是 Rock，分级为 一般向
+
 ## Staff
   
  **Compose**   
 
 <table><tbody><tr><td><a href="/index.php?title=m.o.b&amp;action=edit&amp;redlink=1" class="new" title="m.o.b（页面不存在）">m.o.b</a></td><td><a href="./暴音寺.md" title="暴音寺">暴音寺</a></td><td>Tr.1-4</td></tr></tbody></table>
+
 
 
 ## 试听
@@ -39,12 +42,14 @@ DROP DEAD（同人专辑，暴音寺，2014） - 2014年3月30日 由 暴音寺 
 
   
 
+
 ## 曲目列表
 
 <table><tbody><tr><td id="1" class="infoYL"><b>01</b></td><td id="開経偈" colspan="2" class="title">開経偈<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=m.o.b&amp;fromwiki=DROP_DEAD"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=m.o.b&amp;action=edit&amp;redlink=1" class="new" title="m.o.b（页面不存在）">m.o.b</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，m.o.b&amp;fromwiki=DROP_DEAD"><span></span></a></span></td></tr>
 <tr><td id="2" class="infoYL"><b>02</b></td><td id="信仰偈" colspan="2" class="title">信仰偈<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=m.o.b&amp;fromwiki=DROP_DEAD"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=m.o.b&amp;action=edit&amp;redlink=1" class="new" title="m.o.b（页面不存在）">m.o.b</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，m.o.b&amp;fromwiki=DROP_DEAD"><span></span></a></span></td></tr>
 <tr><td id="3" class="infoYL"><b>03</b></td><td id="VOID()" colspan="2" class="title">VOID()<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=m.o.b&amp;fromwiki=DROP_DEAD"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=m.o.b&amp;action=edit&amp;redlink=1" class="new" title="m.o.b（页面不存在）">m.o.b</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，m.o.b&amp;fromwiki=DROP_DEAD"><span></span></a></span></td></tr>
 <tr><td id="4" class="infoYL"><b>04</b></td><td id="甘露鬥" colspan="2" class="title">甘露鬥<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=m.o.b&amp;fromwiki=DROP_DEAD"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=m.o.b&amp;action=edit&amp;redlink=1" class="new" title="m.o.b（页面不存在）">m.o.b</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，m.o.b&amp;fromwiki=DROP_DEAD"><span></span></a></span></td></tr></tbody></table>
+
 
 
 ## 评论

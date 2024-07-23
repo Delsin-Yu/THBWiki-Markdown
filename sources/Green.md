@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Green封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/6/65/Green%E5%B0%81%E9%9D%A2.jpg/196px-Green%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="196" height="138" srcset="https://upload.thwiki.cc/thumb/6/65/Green%E5%B0%81%E9%9D%A2.jpg/294px-Green%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/6/65/Green%E5%B0%81%E9%9D%A2.jpg/392px-Green%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1148" data-file-height="811"></a><div class="cover-char">角色：<a href="./宫古芳香.md" title="宫古芳香">宫古芳香</a></div></td>
@@ -14,15 +15,18 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/22706593">https://www.pixiv.net/artworks/22706593</a></td></tr></tbody></table>
 
 Green（同人志，ドリル乳繰り，2011） - 2011年11月6日 由 ドリル乳繰り 于 大⑨州东方祭5 发布的漫画同人志，一共50页，登场人物有 魂魄妖梦、西行寺幽幽子、魂魄妖忌、多多良小伞、雾雨魔理沙、宫古芳香、霍青娥、秋静叶、秋穰子、比那名居天子、永江衣玖，分级为 一般向
+
 ## 预览
 - [Pixiv（悪餓鬼）](https://www.pixiv.net/artworks/22706593)
 - [Pixiv（竜一）](https://www.pixiv.net/artworks/22706600)
 - [Pixiv（ベガス）](https://www.pixiv.net/artworks/22706521)
 
+
 ## Staff
 - [悪餓鬼](./悪餓鬼.md)
 - [竜一](./竜一.md)
 - [ベガス](./ベガス.md)
+
 
 ## 评论
 

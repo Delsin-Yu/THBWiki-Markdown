@@ -4,7 +4,8 @@
 
 Carcharias（カルカリアス） ，于 2009 年成立，主要制作 同人志 的日本同人社团，主催是 Cis，当前状态为 休止
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -16,6 +17,7 @@ Carcharias（カルカリアス） ，于 2009 年成立，主要制作 同人�
 
 
 - [4 参展信息](#参展信息)
+
 
 
 
@@ -44,11 +46,14 @@ Banners
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Carcharias（カルカリアス） </td></tr><tr><td><b>主要作品类型</b></td><td>同人志</td></tr><tr><td><b>成立时间</b></td><td>2009</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=Cis&amp;action=edit&amp;redlink=1" class="new" title="Cis（页面不存在）">Cis</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://carcharias.3rin.net/">http://carcharias.3rin.net/</a> <br><a rel="nofollow" class="external free" href="http://makuraco.tumblr.com/">http://makuraco.tumblr.com/</a><br><a rel="nofollow" class="external free" href="http://www.pixiv.net/users/27883304/">http://www.pixiv.net/users/27883304/</a><br><a rel="nofollow" class="external free" href="http://patitcarol.xxxxxxxx.jp/">http://patitcarol.xxxxxxxx.jp/</a> （旧官网）</td></tr></tbody></table>
 
 Carcharias（同人社团，同人志社团） - Carcharias（カルカリアス） ，于 2009 年成立，主要制作 同人志 的日本同人社团，主催是 Cis，当前状态为 休止
+
 ## 成员名单
 - cis (未找到链接)
 - [N](./N.md)
 
+
 ## 作品列表
+
 ### 同人志
  (未找到链接)ゲンソウキョウドウデショウ戦記 サナエー・ナイト・フィーバー (未找到链接)首发日期：2008-08-16 （Comic Market 74 (未找到链接)）漫画 （一般向）该作品是与 [カゲ路](./カゲ路.md) 合作创作的 26&#160;页 (未找到链接)ゲンソウキョウドウデショウ戦記 第二次諏訪大戦 ~カナコ対スワコ~ (未找到链接)首发日期：2008-08-16 （Comic Market 74 (未找到链接)）漫画 （一般向）该作品是与 [カゲ路](./カゲ路.md) 合作创作的 26&#160;页[](./お米がないっ!.md)[お米がないっ!](./お米がないっ!.md)首发日期：2009-10-11 （東方紅楼夢5 (未找到链接)）漫画 （一般向） 44&#160;页[](./誅々ラブリー無理ムリ南無三ー!.md)[誅々ラブリー無理ムリ南無三ー!](./誅々ラブリー無理ムリ南無三ー!.md)首发日期：2009-12-30 （Comic Market 77 (未找到链接)）漫画 （一般向） 46&#160;页[](./そして仏滅_宇留吐羅そぉい!.md)[そして仏滅 宇留吐羅そぉい!](./そして仏滅_宇留吐羅そぉい!.md)首发日期：2010-02-07 （SunshineCreation46 (未找到链接)）漫画 （一般向） 32&#160;页[](./南無三録御柱_ナムサロクオンライン.md)[南無三録御柱 ナムサロクオンライン](./南無三録御柱_ナムサロクオンライン.md)首发日期：2010-03-14 （第七回 博麗神社例大祭 (未找到链接)）漫画 （一般向） 34&#160;页[](./蓮の花咲くこの場所で.md)[蓮の花咲くこの場所で](./蓮の花咲くこの場所で.md)首发日期：2010-08-14 （Comic Market 78 (未找到链接)）漫画 （一般向）该作品是与 桃のカンヅメ (未找到链接) 合作创作的B5&#160;尺寸 120&#160;页合同志[](./Tiger_Install.md)[Tiger Install](./Tiger_Install.md)首发日期：2010-10-11 （東方紅楼夢6 (未找到链接)）漫画 （一般向） 40&#160;页[](./このこどこのこかえるのこ.md)[このこどこのこかえるのこ](./このこどこのこかえるのこ.md)首发日期：2010-12-30 （Comic Market 79 (未找到链接)）漫画 （一般向） 28&#160;页 (未找到链接)神仏習合☆昇天ミシャグジMIRACLE盛り ～そして寺院（テラ）へ～ (未找到链接)首发日期：2011-05-08 （第八回 博麗神社例大祭 (未找到链接)）漫画 （一般向） 210&#160;页总集编[](./秒速七六三○○センチメンタル.md)[秒速七六三○○センチメンタル](./秒速七六三○○センチメンタル.md)首发日期：2011-08-13 （Comic Market 80 (未找到链接)）漫画 （一般向） 44&#160;页[](./あなたのアイをくださいな_上巻.md)[あなたのアイをくださいな 上巻](./あなたのアイをくださいな_上巻.md)首发日期：2011-10-16 （東方紅楼夢7 (未找到链接)）漫画 （一般向） 28&#160;页[](./あなたのアイをくださいな_下巻.md)[あなたのアイをくださいな 下巻](./あなたのアイをくださいな_下巻.md)首发日期：2011-12-30 （Comic Market 81 (未找到链接)）漫画 （一般向） 40&#160;页[](./蘇我屠自古は語らない_和の章.md)[蘇我屠自古は語らない 和の章](./蘇我屠自古は語らない_和の章.md)首发日期：2012-05-27 （第九回 博麗神社例大祭 (未找到链接)）漫画 （一般向） 38&#160;页[](./蘇我屠自古は語らない_荒の章.md)[蘇我屠自古は語らない 荒の章](./蘇我屠自古は語らない_荒の章.md)首发日期：2012-10-07 （東方紅楼夢8 (未找到链接)）漫画 （一般向） 66&#160;页[](./蘇我屠自古は語らない_奇の章.md)[蘇我屠自古は語らない 奇の章](./蘇我屠自古は語らない_奇の章.md)首发日期：2012-12-30 （Comic Market 83 (未找到链接)）漫画 （一般向） 48&#160;页[](./蘇我屠自古は語らない_設定資料集＆神霊廟アイデア集.md)[蘇我屠自古は語らない 設定資料集＆神霊廟アイデア集](./蘇我屠自古は語らない_設定資料集＆神霊廟アイデア集.md)首发日期：2012-12-30 （Comic Market 83 (未找到链接)）设定集 （一般向） 50&#160;页 (未找到链接)蘇我屠自古は語らない設定資料集＆神霊廟アイデア集 第二版 (未找到链接)首发日期：2013-05-26 （第十回 博麗神社例大祭 (未找到链接)）设定集 （一般向） 80&#160;页[](./蘇我屠自古は語らない_外伝_～物部布都はかく語りき～.md)[蘇我屠自古は語らない 外伝 ～物部布都はかく語りき～](./蘇我屠自古は語らない_外伝_～物部布都はかく語りき～.md)首发日期：2013-05-26 （第十回 博麗神社例大祭 (未找到链接)）漫画、​小说 （一般向） 90&#160;页[](./蘇我屠自古は語らない_幸の章_前編.md)[蘇我屠自古は語らない 幸の章 前編](./蘇我屠自古は語らない_幸の章_前編.md)首发日期：2013-08-12 （Comic Market 84 (未找到链接)）漫画 （一般向） 44&#160;页[](./腐ってたって乙女ですから!.md)[腐ってたって乙女ですから!](./腐ってたって乙女ですから!.md)首发日期：2013-10-13 （東方紅楼夢9 (未找到链接)）漫画 （一般向） 36&#160;页[](./憂サレ珠.md)[憂サレ珠](./憂サレ珠.md)首发日期：2014-10-12 （東方紅楼夢10 (未找到链接)）漫画 （一般向）B5&#160;尺寸 42&#160;页[](./蘇我屠自古は語らない_番外編_～宮古芳香は語れない～.md)[蘇我屠自古は語らない 番外編 ～宮古芳香は語れない～](./蘇我屠自古は語らない_番外編_～宮古芳香は語れない～.md)首发日期：2014-05-11 （第十一回 博麗神社例大祭 (未找到链接)）漫画 （一般向）A5&#160;尺寸 40&#160;页[](./蘇我屠自古は語らない_幸の章_中編.md)[蘇我屠自古は語らない 幸の章 中編](./蘇我屠自古は語らない_幸の章_中編.md)首发日期：2015-08-14 （Comic Market 88 (未找到链接)）漫画 （一般向）B5&#160;尺寸 30&#160;页[](./天照ラス_前編.md)[天照ラス 前編](./天照ラス_前編.md)首发日期：2015-10-18 （第二回 博麗神社秋季例大祭 (未找到链接)）漫画 （一般向）
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -101,6 +106,7 @@ Carcharias（同人社团，同人志社团） - Carcharias（カルカリアス
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 参展信息

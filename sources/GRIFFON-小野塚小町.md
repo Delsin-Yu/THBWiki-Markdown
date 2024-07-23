@@ -6,11 +6,13 @@
 
 本页是关于东方Project  
  **相关实体周边 (未找到链接)** 的词条
+
 ## 模型信息
 
 <table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 小野塚小町 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>GRIFFON</td></tr><tr><td class="label">角色</td><td><a href="./小野塚小町.md" title="小野塚小町">小野塚小町</a></td></tr><tr><td class="label">原型师</td><td><a href="/index.php?title=I-con&amp;action=edit&amp;redlink=1" class="new" title="I-con（页面不存在）">I-con</a><br><a href="/index.php?title=%E5%B1%B1%E6%9C%AC_%E9%9B%85%E5%BC%98&amp;action=edit&amp;redlink=1" class="new" title="山本 雅弘（页面不存在）">山本 雅弘</a></td></tr><tr><td class="label">比例</td><td>1/8</td></tr><tr><td class="label">尺寸</td><td>240 mm</td></tr><tr><td class="label">状态</td><td>已发售</td></tr><tr><td class="label">售价</td><td>7400円</td></tr><tr><td class="label">首发日期</td><td>2010-4-19</td></tr><tr><td class="label">发售方</td><td><a href="/index.php?title=GRIFFON&amp;action=edit&amp;redlink=1" class="new" title="GRIFFON（页面不存在）">GRIFFON</a></td></tr><tr><td class="label">再版日期</td><td>2011-12，2012-04-19</td></tr><tr><td class="label">官网页面</td><td><a rel="nofollow" class="external free" href="http://www.griffon.co.jp/toho/products/comachi/comachi.html">http://www.griffon.co.jp/toho/products/comachi/comachi.html</a></td></tr></tbody></table>
 
 GRIFFON/小野塚小町（周边） - 小野塚小町PVCFigure手办模型
+
 ## 参考图片
 - [](./文件-GRIFFON小野塚小町-1.jpg.md)预览图1- [](./文件-GRIFFON小野塚小町-2.jpg.md)预览图2- [](./文件-GRIFFON小野塚小町-3.jpg.md)预览图3
 

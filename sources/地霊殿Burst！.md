@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-地霊殿Burst！封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/4/40/%E5%9C%B0%E9%9C%8A%E6%AE%BFBurst%EF%BC%81%E5%B0%81%E9%9D%A2.jpg/140px-%E5%9C%B0%E9%9C%8A%E6%AE%BFBurst%EF%BC%81%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="140" height="196" srcset="https://upload.thwiki.cc/thumb/4/40/%E5%9C%B0%E9%9C%8A%E6%AE%BFBurst%EF%BC%81%E5%B0%81%E9%9D%A2.jpg/209px-%E5%9C%B0%E9%9C%8A%E6%AE%BFBurst%EF%BC%81%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/4/40/%E5%9C%B0%E9%9C%8A%E6%AE%BFBurst%EF%BC%81%E5%B0%81%E9%9D%A2.jpg/279px-%E5%9C%B0%E9%9C%8A%E6%AE%BFBurst%EF%BC%81%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="600" data-file-height="842"></a><div class="cover-char">角色：<a href="./灵乌路空.md" title="灵乌路空">灵乌路空</a></div></td>
@@ -14,9 +15,12 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/7081359">https://www.pixiv.net/artworks/7081359</a></td></tr></tbody></table>
 
 地霊殿Burst！（同人志，下水道生活，2009） - 2009年11月8日 由 下水道生活 于 东方不败小町SP 发布的漫画同人志，一共16页，登场人物有 灵乌路空、博丽灵梦、东风谷早苗，分级为 一般向
+
 ## 预览
+
 ## Staff
 - 毬弥 (未找到链接)
+
 
 ## 评论
 

@@ -23,6 +23,7 @@
 
   
 
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -37,6 +38,7 @@
 
 - [5 其他](#其他)
 - [6 参见](#参见)
+
 
 
 
@@ -59,17 +61,21 @@
 <td style="width:140px"><b>正式名称</b></td><td style="min-width:300px">コナミホールディングス株式会社</td></tr><tr><td><b>英文名称</b></td><td>KONAMI HOLDINGS CORPORATION</td></tr><tr><td><b>公司现状</b></td><td>持续营业中</td></tr><tr><td><b>成立日期</b></td><td>1973年3月19日</td></tr><tr><td><b>员工数量</b></td><td>4706名（2018年3月31日）</td></tr><tr><td><b>官网地址</b></td><td><a rel="nofollow" class="external free" href="https://www.konami.com/ja/">https://www.konami.com/ja/</a> <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到日文网页">（日文）</span></td></tr></tbody></table>
 
 KONAMI（公司会社） - コナミホールディングス株式会社，商业公司
+
 ## 公司历史
   
 待补
   
+
 
 ## 与东方Project的关联
   
 待补
   
 
+
 ## 作品列表
+
 ### 与东方Project相关的游戏作品
 - [DanceDanceRevolution](./DanceDanceRevolution.md)
 - [pop'n music](./pop'n_music.md)
@@ -81,6 +87,7 @@ KONAMI（公司会社） - コナミホールディングス株式会社，商�
 - [BeatStream](./BeatStream.md)
 - [MÚSECA](./MÚSECA.md)
 - [NOSTALGIA](./NOSTALGIA（Sound_Online）.md)
+
 
 ### 同人专辑
 [](./SOUND_VOLTEX_ULTIMATE_TRACKS_-_東方紅魔郷REMIX_-.md)[SOUND VOLTEX ULTIMATE TRACKS - 東方紅魔郷REMIX -](./SOUND_VOLTEX_ULTIMATE_TRACKS_-_東方紅魔郷REMIX_-.md)首发日期：2014-05-11 （第十一回 博麗神社例大祭 (未找到链接)）GFCA-369合作、​全长 （一般向）该专辑包含 2 张CD[](./BEMANI×東方Project_Ultimate_MasterPieces.md)[BEMANI×東方Project Ultimate MasterPieces](./BEMANI×東方Project_Ultimate_MasterPieces.md)首发日期：2015-05-10 （第十二回 博麗神社例大祭 (未找到链接)）合作、​全长 （一般向）[](./SOUND_VOLTEX×東方Project_ULTIMATE_XROSS_ARRANGE_BATTLE.md)[SOUND VOLTEX×東方Project ULTIMATE XROSS ARRANGE BATTLE](./SOUND_VOLTEX×東方Project_ULTIMATE_XROSS_ARRANGE_BATTLE.md)首发日期：2015-10-18 （第二回 博麗神社秋季例大祭 (未找到链接)）KFC-1521全长、​合作 （一般向）[](./SOUND_VOLTEX×東方Project_ULTIMATE_COMPILATION_REITAISAI_13th.md)[SOUND VOLTEX×東方Project ULTIMATE COMPILATION REITAISAI 13th](./SOUND_VOLTEX×東方Project_ULTIMATE_COMPILATION_REITAISAI_13th.md)首发日期：2016-06-30 KFC-1660合作 （一般向）[](./SOUND_VOLTEX_ULTIMATE_TRACKS_-東方妖々夢&輝針城_REMIX-.md)[SOUND VOLTEX ULTIMATE TRACKS -東方妖々夢&amp;輝針城 REMIX-](./SOUND_VOLTEX_ULTIMATE_TRACKS_-東方妖々夢&輝針城_REMIX-.md)首发日期：2016-11-23 LC2301、​LC2302全长、​合作 （一般向）该专辑包含 2 张CD[](./SOUND_VOLTEX×東方Project_ULTIMATE_COMPILATION_REITAISAI_14th.md)[SOUND VOLTEX×東方Project ULTIMATE COMPILATION REITAISAI 14th](./SOUND_VOLTEX×東方Project_ULTIMATE_COMPILATION_REITAISAI_14th.md)首发日期：2017-05-07 （第十四回 博麗神社例大祭 (未找到链接)）KFC-1705全长、​合作 （一般向）[](./SOUND_VOLTEX×東方Project_ULTIMATE_COMPILATION_REITAISAI_15th.md)[SOUND VOLTEX×東方Project ULTIMATE COMPILATION REITAISAI 15th](./SOUND_VOLTEX×東方Project_ULTIMATE_COMPILATION_REITAISAI_15th.md)首发日期：2018-05-06 （第十五回 博麗神社例大祭 (未找到链接)）KFC-1805全长、​合作 （一般向）[](./SOUND_VOLTEX×東方Project_TOHOMATION_PARADISE_MIX_vol.1.md)[SOUND VOLTEX×東方Project TOHOMATION PARADISE MIX vol.1](./SOUND_VOLTEX×東方Project_TOHOMATION_PARADISE_MIX_vol.1.md)首发日期：2019-07-01 KFC-1906合作、​全长 （一般向）[](./NOSTALGIA_Music_Collection_～Op.1～.md)[NOSTALGIA Music Collection ～Op.1～](./NOSTALGIA_Music_Collection_～Op.1～.md)首发日期：2020-08-19 原声集 （一般向）该专辑包含 3 张CD[](./BEMANI_presents_東方ULTIMATE_WEAPON.md)[BEMANI presents 東方ULTIMATE WEAPON](./BEMANI_presents_東方ULTIMATE_WEAPON.md)首发日期：2021-02-05 全长、​合作 （一般向）
@@ -106,10 +113,12 @@ KONAMI（公司会社） - コナミホールディングス株式会社，商�
 </table>
 
 
+
 ## 其他
   
 待补
   
+
 
 ## 参见
   

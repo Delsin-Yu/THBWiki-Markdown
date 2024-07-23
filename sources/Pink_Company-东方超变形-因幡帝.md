@@ -6,11 +6,13 @@
 
 本页是关于东方Project  
  **相关实体周边 (未找到链接)** 的词条
+
 ## 模型信息
 
 <table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 因幡帝 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>东方超变形</td></tr><tr><td class="label">角色</td><td><a href="./因幡帝.md" title="因幡帝">因幡帝</a></td></tr><tr><td class="label">原型师</td><td><a href="/index.php?title=Sposhiki&amp;action=edit&amp;redlink=1" class="new" title="Sposhiki（页面不存在）">Sposhiki</a></td></tr><tr><td class="label">尺寸</td><td>80mm</td></tr><tr><td class="label">状态</td><td>已发售</td></tr><tr><td class="label">编号</td><td>08</td></tr><tr><td class="label">售价</td><td>1905日元</td></tr><tr><td class="label">首发日期</td><td>2010-03</td></tr><tr><td class="label">发售方</td><td><a href="/index.php?title=Pink_Company&amp;action=edit&amp;redlink=1" class="new" title="Pink Company（页面不存在）">Pink Company</a></td></tr><tr><td class="label">官网页面</td><td><a rel="nofollow" class="external free" href="http://phatcompany.jp/">http://phatcompany.jp/</a></td></tr></tbody></table>
 
 Pink Company/东方超变形/因幡帝（周边） - 因幡帝PVCFigure手办模型
+
 ## 参考图片
 
 

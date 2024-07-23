@@ -4,7 +4,8 @@
 
 Lost Garden ，主要制作 同人音乐 的日本同人社团，主催是 kaguraduki，bane，当前状态为 转入非东方
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -15,15 +16,18 @@ Lost Garden ，主要制作 同人音乐 的日本同人社团，主催是 kagur
 
 
 
+
 ## 社团信息
 [](./文件-Lost_Gardenbanner.jpg.md)  [](./文件-Lost_Gardenbanner.jpg.md)banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Lost Garden </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>当前状态</b></td><td>转入非东方</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=kaguraduki&amp;action=edit&amp;redlink=1" class="new" title="kaguraduki（页面不存在）">kaguraduki</a> <br> <a href="/index.php?title=bane&amp;action=edit&amp;redlink=1" class="new" title="bane（页面不存在）">bane</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://lost-garden.info/">http://lost-garden.info/</a> <br><a rel="nofollow" class="external free" href="http://lostgarden.coresv.com/">http://lostgarden.coresv.com/</a> （旧官网）<span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><small>（<a rel="nofollow" class="external text" href="https://web.archive.org/web/20120512230904/http://lostgarden.coresv.com:80/">缓存页面</a>）</small></td></tr></tbody></table>
 
 Lost Garden（同人社团，同人音乐社团） - Lost Garden ，主要制作 同人音乐 的日本同人社团，主催是 kaguraduki，bane，当前状态为 转入非东方
+
 ## 成员名单
 - kaguraduki (未找到链接)
 - bane (未找到链接)
+
 
 ## 作品列表
 [](./幻舞式_-The_wind_has_shifted_to_East-.md)[幻舞式 -The wind has shifted to East-](./幻舞式_-The_wind_has_shifted_to_East-.md)首发日期：2007-08-17 （Comic Market 72 (未找到链接)）LGCD-0004全长 （一般向）[](./Preview_CD_vol.1.md)[Preview CD vol.1](./Preview_CD_vol.1.md)首发日期：2007-10-08 （M3-2007秋 (未找到链接)）Demo （一般向）[](./Sakura_Heart.md)[Sakura Heart](./Sakura_Heart.md)首发日期：2008-08-16 （Comic Market 74 (未找到链接)）LGCD-006全长 （一般向）[](./Lost_Garden_Preview_CD_vol.2.md)[Lost Garden Preview CD vol.2](./Lost_Garden_Preview_CD_vol.2.md)首发日期：2009-10-11 （M3-2009秋 (未找到链接)）LGCD-0008Demo （一般向）[](./Kalanchoe_tomentosa.md)[Kalanchoe tomentosa](./Kalanchoe_tomentosa.md)首发日期：2009-12-30 （Comic Market 77 (未找到链接)）LGCD-0009全长 （一般向）[](./Rayer.md)[Rayer](./Rayer.md)首发日期：2010-08-14 （Comic Market 78 (未找到链接)）LGCD-0010全长 （一般向）[](./Calm.md)[Calm](./Calm.md)首发日期：2010-12-30 （Comic Market 79 (未找到链接)）LGCD-0011全长 （一般向）[](./Mariage.md)[Mariage](./Mariage.md)首发日期：2012-05-27 （第九回 博麗神社例大祭 (未找到链接)）LGCD-0014全长 （一般向）[](./Eden's_Pattern.md)[Eden's Pattern](./Eden's_Pattern.md)首发日期：2012-08-11 （Comic Market 82 (未找到链接)）LGCD-0015全长 （一般向）[](./Everlasting_Wonderland.md)[Everlasting Wonderland](./Everlasting_Wonderland.md)首发日期：2013-08-12 （Comic Market 84 (未找到链接)）LGCD-0018全长 （一般向）
@@ -47,6 +51,7 @@ Lost Garden（同人社团，同人音乐社团） - Lost Garden ，主要制作
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 其他信息

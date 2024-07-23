@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><div class="cover-char">角色：<a href="./四季映姬·夜摩仙那度.md" title="四季映姬·夜摩仙那度">四季映姬·夜摩仙那度</a></div></td>
@@ -14,14 +15,17 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/20372062">https://www.pixiv.net/artworks/20372062</a></td></tr></tbody></table>
 
 Indigo（同人志，ドリル乳繰り，2011） - 2011年7月24日 由 ドリル乳繰り 于 大⑨州东方祭4 发布的漫画同人志，44尺寸，登场人物有 四季映姬·夜摩仙那度、铃仙·优昙华院·因幡、因幡天为、蓬莱山辉夜、八意永琳、原创角色，分级为 R18G
+
 ## 预览
 - [Pixiv（悪餓鬼）](https://www.pixiv.net/artworks/20372062)
 - [Pixiv（竜一）](https://www.pixiv.net/artworks/20378688)
+
 
 ## Staff
 - [悪餓鬼](./悪餓鬼.md)
 - [竜一](./竜一.md)
 - [ベガス](./ベガス.md)
+
 
 ## 评论
 

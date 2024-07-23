@@ -4,6 +4,7 @@
 
 符卡 | 赤蛮奇
 
+
 ## 目录
 
 - [1 分析与考据](#分析与考据)
@@ -21,7 +22,9 @@
 
 
 
+
 ## 分析与考据
+
 ### 飛頭「マルチプリケイティブヘッド」
   
  **飛頭「マルチプリケイティブヘッド」**  飞头「Multiplicative Head」（倍增之头）
@@ -33,6 +36,7 @@
 
 - マルチプリケイティブ（multiplicative）
   - 英语：乘法的；成倍增加的。
+
 
 
 ### 飛頭「セブンズヘッド」
@@ -59,6 +63,7 @@
 <img alt="Corner bracket left sh1.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Corner_bracket_left_sh1.svg/langzh-20px-Corner_bracket_left_sh1.svg.png" decoding="async" loading="lazy" width="20" height="29" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Corner_bracket_left_sh1.svg/langzh-30px-Corner_bracket_left_sh1.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Corner_bracket_left_sh1.svg/langzh-40px-Corner_bracket_left_sh1.svg.png 2x" data-file-width="220" data-file-height="320">
 将門に相も変らぬ人体同じく六人あり。<img alt="Corner bracket right sh1.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Corner_bracket_right_sh1.svg/langzh-20px-Corner_bracket_right_sh1.svg.png" decoding="async" loading="lazy" width="20" height="29" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Corner_bracket_right_sh1.svg/langzh-30px-Corner_bracket_right_sh1.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Corner_bracket_right_sh1.svg/langzh-40px-Corner_bracket_right_sh1.svg.png 2x" data-file-width="220" data-file-height="320">
 ——《俵藤太物语·下》[^cite_note-3]
+
 ### 飛頭「ナインズヘッド」
   
  **飛頭「ナインズヘッド」**  飞头「Ninth Head」（第九个头）
@@ -73,8 +78,10 @@
 
 [^cite_note-1]: 中文维基百科：[平将门](https://en.wikipedia.org/wiki/zh:平将门)
 
+
 ## 参见
 - [赤蛮奇/分析考据](./赤蛮奇-分析考据.md)
+
 
 ## 导航
 

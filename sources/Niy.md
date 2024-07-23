@@ -6,11 +6,13 @@
 
 本页是关于东方Project  
  **二次同人创作者** 的词条
+
 ## 基本信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="label"><b>名称</b></td><td> Niy </td></tr><tr><td class="label"><b>所属社团</b></td><td><b>当前</b><div style="margin-left:2em;"><a href="./ニイ工房.md" title="ニイ工房">ニイ工房</a></div></td></tr><tr><td class="label"><b>职位</b></td><td>主催，漫画家，插画家</td></tr><tr><td class="label"><b>性别</b></td><td>男</td></tr><tr><td class="label"><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="https://www.pixiv.net/member_illust.php?id=165186">https://www.pixiv.net/member_illust.php?id=165186</a></td></tr><tr><td class="label"><b>个人页面</b></td><td><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><b>Twitter</b></td><td><a rel="nofollow" class="external free" href="https://twitter.com/Niy_Koubou">https://twitter.com/Niy_Koubou</a></td></tr><tr><td><b>Pixiv</b></td><td><a rel="nofollow" class="external free" href="https://www.pixiv.net/member_illust.php?id=165186">https://www.pixiv.net/member_illust.php?id=165186</a></td></tr></tbody></table></td></tr></tbody></table>
 
 Niy（人物） - 现实人物
+
 ## 介绍
   
 绘画以厚涂风格为主，画面往往具有强烈的历史感与厚重感。  
@@ -18,7 +20,9 @@ Niy（人物） - 现实人物
 其同人志内容中，也多与历史相关，剧情亦较具有严肃性。
   
 
+
 ## 参与作品
+
 ## 人际关系
 なまうに
 : 妻子

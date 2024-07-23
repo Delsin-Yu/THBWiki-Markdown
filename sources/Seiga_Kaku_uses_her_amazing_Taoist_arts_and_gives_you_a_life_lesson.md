@@ -6,12 +6,14 @@
 
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 软件信息](#软件信息)
 - [2 Staff](#Staff)
 - [3 内容页面](#内容页面)
 - [4 外部链接](#外部链接)
+
 
 
 
@@ -69,6 +71,7 @@ Seiga Kaku uses her amazing Taoist arts and gives you a life lesson（同人游�
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://store.steampowered.com/app/1459710">Steam</a></td></tr></tbody></table>
 
 
+
 ## Staff
   
 Original ZUN-style art by Ryann1908  
@@ -81,11 +84,13 @@ Original meditative music by Bahia
 
   
 
+
 ## 内容页面
 - [游戏设定与剧情](./Seiga_Kaku_uses_her_amazing_Taoist_arts_and_gives_you_a_life_lesson-设定与剧情.md)
 - 攻略 (未找到链接)
 - [使用说明](./Seiga_Kaku_uses_her_amazing_Taoist_arts_and_gives_you_a_life_lesson-说明.md)
 - 其他信息 (未找到链接)
+
 
 ## 外部链接
   

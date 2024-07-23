@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-不可能な境界Rewrite_外伝Ⅰ封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/b/b8/%E4%B8%8D%E5%8F%AF%E8%83%BD%E3%81%AA%E5%A2%83%E7%95%8CRewrite_%E5%A4%96%E4%BC%9D%E2%85%A0%E5%B0%81%E9%9D%A2.jpg/140px-%E4%B8%8D%E5%8F%AF%E8%83%BD%E3%81%AA%E5%A2%83%E7%95%8CRewrite_%E5%A4%96%E4%BC%9D%E2%85%A0%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="140" height="196" srcset="https://upload.thwiki.cc/thumb/b/b8/%E4%B8%8D%E5%8F%AF%E8%83%BD%E3%81%AA%E5%A2%83%E7%95%8CRewrite_%E5%A4%96%E4%BC%9D%E2%85%A0%E5%B0%81%E9%9D%A2.jpg/211px-%E4%B8%8D%E5%8F%AF%E8%83%BD%E3%81%AA%E5%A2%83%E7%95%8CRewrite_%E5%A4%96%E4%BC%9D%E2%85%A0%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/b/b8/%E4%B8%8D%E5%8F%AF%E8%83%BD%E3%81%AA%E5%A2%83%E7%95%8CRewrite_%E5%A4%96%E4%BC%9D%E2%85%A0%E5%B0%81%E9%9D%A2.jpg/281px-%E4%B8%8D%E5%8F%AF%E8%83%BD%E3%81%AA%E5%A2%83%E7%95%8CRewrite_%E5%A4%96%E4%BC%9D%E2%85%A0%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1495" data-file-height="2085"></a><div class="cover-char">角色：<a href="./八云紫.md" title="八云紫">八云紫</a></div></td>
@@ -14,9 +15,12 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/haruhikasa/status/464741426484752384">https://twitter.com/haruhikasa/status/464741426484752384</a></td></tr></tbody></table>
 
 不可能な境界Rewrite 外伝Ⅰ（同人志，雅趣雅俗，2014） - 2014年5月11日 由 雅趣雅俗 于 博丽神社例大祭11 发布的小说同人志，一共30页，登场人物有 八云紫，分级为 一般向
+
 ## 预览
+
 ## Staff
 - 春日傘 (未找到链接)
+
 
 ## 评论
 

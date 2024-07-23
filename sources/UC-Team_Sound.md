@@ -4,7 +4,8 @@
 
 UC-Team Sound ，主要制作 同人音乐 的日本同人社团，主催是 GU-Note，当前状态为 转入非东方
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -20,16 +21,20 @@ UC-Team Sound ，主要制作 同人音乐 的日本同人社团，主催是 GU-
 
 
 
+
 ## 社团信息
 文件:UC-Team Soundbanner.jpg (未找到链接)  banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> UC-Team Sound </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>当前状态</b></td><td>转入非东方</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=GU-Note&amp;action=edit&amp;redlink=1" class="new" title="GU-Note（页面不存在）">GU-Note</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="https://ucteamsound.wixsite.com/maho-shojo-bu">https://ucteamsound.wixsite.com/maho-shojo-bu</a> </td></tr></tbody></table>
 
 UC-Team Sound（同人社团，同人音乐社团） - UC-Team Sound ，主要制作 同人音乐 的日本同人社团，主催是 GU-Note，当前状态为 转入非东方
+
 ## 成员名单
 - GU-Note (未找到链接)
 
+
 ## 作品列表
+
 ### 同人专辑
 [](./魔法少女部活動報告.md)[魔法少女部活動報告](./魔法少女部活動報告.md)首发日期：2014-04-27 （M3-2014春 (未找到链接)）全长 （一般向）[](./魔法少女部活動報告_三報_Alfa.md)[魔法少女部活動報告 三報　Alfa](./魔法少女部活動報告_三報_Alfa.md)首发日期：2015-08-14 （Comic Market 88 (未找到链接)）全长 （一般向）[](./魔法少女部活動報告_四報_Spica.md)[魔法少女部活動報告 四報　Spica](./魔法少女部活動報告_四報_Spica.md)首发日期：2016-08-13 （Comic Market 90 (未找到链接)）全长 （一般向）[](./魔法少女部活動報告_五報_Villain.md)[魔法少女部活動報告 五報　Villain](./魔法少女部活動報告_五報_Villain.md)首发日期：2017-08-11 （Comic Market 92 (未找到链接)）全长 （一般向）[](./魔法少女部活動報告_六報_Holy_Piece.md)[魔法少女部活動報告 六報　Holy Piece](./魔法少女部活動報告_六報_Holy_Piece.md)首发日期：2019-10-27 （M3-2019秋 (未找到链接)）全长 （一般向）
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -42,6 +47,7 @@ UC-Team Sound（同人社团，同人音乐社团） - UC-Team Sound ，主要�
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 参展信息

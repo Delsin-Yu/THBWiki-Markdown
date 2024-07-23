@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人视频 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-fanciful_promotion封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/9/9a/fanciful_promotion%E5%B0%81%E9%9D%A2.jpg/140px-fanciful_promotion%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="140" height="140" srcset="https://upload.thwiki.cc/thumb/9/9a/fanciful_promotion%E5%B0%81%E9%9D%A2.jpg/210px-fanciful_promotion%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/9/9a/fanciful_promotion%E5%B0%81%E9%9D%A2.jpg/280px-fanciful_promotion%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="512" data-file-height="511"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>，<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a>，<a href="./八云紫.md" title="八云紫">八云紫</a>，<a href="./物部布都.md" title="物部布都">物部布都</a>，<a href="./丰聪耳神子.md" title="丰聪耳神子">丰聪耳神子</a></div></td>
@@ -14,24 +15,30 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.tumblr.com/one-matt/126419263482/c88-新作fanciful-promotion">https://www.tumblr.com/one-matt/126419263482/c88-新作fanciful-promotion</a></td></tr></tbody></table>
 
 fanciful promotion（同人视频，一畳未満，2015） - 2015年8月14日 由 一畳未満 于 Comic Market 88 发布的音乐同人视频，分级为 一般向
+
 ## Aside
+
 ### Staff
 Movie
 : 春夏冬　秋夢 (未找到链接) （[一畳未満](./一畳未満.md)）
 Illustration
 : 小枝まめ子 (未找到链接) （colony* (未找到链接)）
 
+
 ### 评论
 
 <table><tbody><tr><td id="1" class="infoRL"><b>01</b></td><td id="冥界の桜" colspan="2" class="title">冥界の桜<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=柊秀雪&amp;vocal=Atori&amp;lyric=Atori&amp;fromwiki=fanciful_promotion"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./柊秀雪.md" title="柊秀雪">柊秀雪</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，柊秀雪&amp;fromwiki=fanciful_promotion"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="./Atori.md" title="Atori">Atori</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=Atori&amp;fromwiki=fanciful_promotion"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="./Atori.md" title="Atori">Atori</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?lyric=Atori&amp;fromwiki=fanciful_promotion"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">社团</td><td class="text" colspan="2"><a href="/As%EF%BC%8FHi_Soundworks" title="As／Hi Soundworks">As／Hi Soundworks</a></td></tr></tbody></table>
 
 
+
 ## Bside
+
 ### Staff
 Movie
 : [モイモイ](./モイモイ.md) （誰がこまどり殺したの？ (未找到链接)）
 Illustration
 : おいもとじろう (未找到链接) （おいもと (未找到链接)）
+
 
 ### 评论
 

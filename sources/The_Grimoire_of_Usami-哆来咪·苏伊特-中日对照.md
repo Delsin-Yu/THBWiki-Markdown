@@ -12,7 +12,7 @@ The_Grimoire_of_Usami | 使用了翻译表的页面 | 哆来咪·苏伊特 | 宇
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./The_Grimoire_of_Usami-铃瑚-中日对照.md" title="The Grimoire of Usami/铃瑚/中日对照">铃瑚</a>&#160;
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="/%E5%AE%87%E4%BD%90%E8%A7%81%E7%9A%84%E9%AD%94%E6%B3%95%E4%B9%A6" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a>&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="./宇佐见的魔法书.md" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a>&#160;
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">&#160;<a href="./The_Grimoire_of_Usami-灵乌路空-中日对照.md" title="The Grimoire of Usami/灵乌路空/中日对照">灵乌路空</a>
 </td>
@@ -25,7 +25,7 @@ The_Grimoire_of_Usami | 使用了翻译表的页面 | 哆来咪·苏伊特 | 宇
 - 翻译：田中太郎
 
 
-<table><tbody><tr class="tt-content-header" id="=-1" data-pos="&#91;&quot;=&quot;,1&#93;"><td class="tt-jah" lang="ja"><div class="poem">夢符「刈安色の錯綜迷夢」</div></td><td class="tt-zhh" lang="zh"><div class="poem"><a href="/%E6%A2%A6%E7%AC%A6%E3%80%8C%E5%88%88%E5%AE%89%E8%89%B2%E7%9A%84%E9%94%99%E7%BB%BC%E8%BF%B7%E6%A2%A6%E3%80%8D" class="mw-redirect" title="梦符「刈安色的错综迷梦」">梦符「刈安色的错综迷梦」</a></div></td></tr><tr class="tt-content" id="=-2" data-pos="&#91;&quot;=&quot;,2&#93;"><td class="tt-ja" lang="ja"><div class="poem">使用者：ドレミー・スイート</div></td><td class="tt-zh" lang="zh"><div class="poem">使用者：<a href="./哆来咪·苏伊特.md" title="哆来咪·苏伊特">哆来咪·苏伊特</a></div></td></tr><tr class="tt-content" id="=-3" data-pos="&#91;&quot;=&quot;,3&#93;"><td class="tt-ja" lang="ja"><div class="poem">追われる夢、囲まれる夢、<br>自由に動けなくなる夢……。<br>全てよく見る悪夢です。<br>そして、<br>全てを表現できるのが弾幕。<br>弾幕とは<br>悪夢そのものなのです。</div></td><td class="tt-zh" lang="zh"><div class="poem">被追赶的梦、被包围的梦、<br>无法自由行动的梦……<br>这些全都是十分常见的噩梦。<br>而弹幕<br>则能将这些噩梦完全表现出来。<br>所谓弹幕<br>便是噩梦本身。</div></td></tr><tr class="tt-header" id="=-4" data-pos="&#91;&quot;=&quot;,4&#93;"><td colspan="2" id="少名针妙丸" class="tt-header" lang="zh"><div class="poem">少名针妙丸</div></td></tr><tr class="tt-content" id="=-5" data-pos="&#91;&quot;=&quot;,5&#93;"><td class="tt-ja" lang="ja"><div class="poem">こいつ面白い奴なんだよねー。強そうなことを言って、実際には大したこと出来ないみたいだし。所詮夢だし。</div></td><td class="tt-zh" lang="zh"><div class="poem">这可真是个有趣的家伙啊。说着看起来很强的台词，其实根本没什么大不了的。毕竟说到底就只是个梦而已。</div></td></tr><tr class="tt-header" id="=-6" data-pos="&#91;&quot;=&quot;,6&#93;"><td colspan="2" id="宇佐见堇子" class="tt-header" lang="zh"><div class="poem">宇佐见堇子</div></td></tr><tr class="tt-content" id="=-7" data-pos="&#91;&quot;=&quot;,7&#93;"><td class="tt-ja" lang="ja"><div class="poem">貴方は、えーっとどこかで会った事あったような。無かったような……。</div></td><td class="tt-zh" lang="zh"><div class="poem">我们，这个这个是不是好像在哪里见过。又好像没有见过……</div></td></tr><tr class="tt-header" id="=-8" data-pos="&#91;&quot;=&quot;,8&#93;"><td colspan="2" id="摩多罗隐岐奈" class="tt-header" lang="zh"><div class="poem">摩多罗隐岐奈</div></td></tr><tr class="tt-content" id="=-9" data-pos="&#91;&quot;=&quot;,9&#93;"><td class="tt-ja" lang="ja"><div class="poem">やあ、外来人。元気にしてた？　あら、紫もいたの。相変わらず、幻想郷一の好事家だねぇ。</div></td><td class="tt-zh" lang="zh"><div class="poem">你好啊，外来人。过的还好吗？啊呀，紫也在。果然，你还是一如既往的幻想乡第一好事者啊。</div></td></tr></tbody></table>
+<table><tbody><tr class="tt-content-header" id="=-1" data-pos="&#91;&quot;=&quot;,1&#93;"><td class="tt-jah" lang="ja"><div class="poem">夢符「刈安色の錯綜迷夢」</div></td><td class="tt-zhh" lang="zh"><div class="poem"><a href="./梦符「刈安色的错综迷梦」.md" class="mw-redirect" title="梦符「刈安色的错综迷梦」">梦符「刈安色的错综迷梦」</a></div></td></tr><tr class="tt-content" id="=-2" data-pos="&#91;&quot;=&quot;,2&#93;"><td class="tt-ja" lang="ja"><div class="poem">使用者：ドレミー・スイート</div></td><td class="tt-zh" lang="zh"><div class="poem">使用者：<a href="./哆来咪·苏伊特.md" title="哆来咪·苏伊特">哆来咪·苏伊特</a></div></td></tr><tr class="tt-content" id="=-3" data-pos="&#91;&quot;=&quot;,3&#93;"><td class="tt-ja" lang="ja"><div class="poem">追われる夢、囲まれる夢、<br>自由に動けなくなる夢……。<br>全てよく見る悪夢です。<br>そして、<br>全てを表現できるのが弾幕。<br>弾幕とは<br>悪夢そのものなのです。</div></td><td class="tt-zh" lang="zh"><div class="poem">被追赶的梦、被包围的梦、<br>无法自由行动的梦……<br>这些全都是十分常见的噩梦。<br>而弹幕<br>则能将这些噩梦完全表现出来。<br>所谓弹幕<br>便是噩梦本身。</div></td></tr><tr class="tt-header" id="=-4" data-pos="&#91;&quot;=&quot;,4&#93;"><td colspan="2" id="少名针妙丸" class="tt-header" lang="zh"><div class="poem">少名针妙丸</div></td></tr><tr class="tt-content" id="=-5" data-pos="&#91;&quot;=&quot;,5&#93;"><td class="tt-ja" lang="ja"><div class="poem">こいつ面白い奴なんだよねー。強そうなことを言って、実際には大したこと出来ないみたいだし。所詮夢だし。</div></td><td class="tt-zh" lang="zh"><div class="poem">这可真是个有趣的家伙啊。说着看起来很强的台词，其实根本没什么大不了的。毕竟说到底就只是个梦而已。</div></td></tr><tr class="tt-header" id="=-6" data-pos="&#91;&quot;=&quot;,6&#93;"><td colspan="2" id="宇佐见堇子" class="tt-header" lang="zh"><div class="poem">宇佐见堇子</div></td></tr><tr class="tt-content" id="=-7" data-pos="&#91;&quot;=&quot;,7&#93;"><td class="tt-ja" lang="ja"><div class="poem">貴方は、えーっとどこかで会った事あったような。無かったような……。</div></td><td class="tt-zh" lang="zh"><div class="poem">我们，这个这个是不是好像在哪里见过。又好像没有见过……</div></td></tr><tr class="tt-header" id="=-8" data-pos="&#91;&quot;=&quot;,8&#93;"><td colspan="2" id="摩多罗隐岐奈" class="tt-header" lang="zh"><div class="poem">摩多罗隐岐奈</div></td></tr><tr class="tt-content" id="=-9" data-pos="&#91;&quot;=&quot;,9&#93;"><td class="tt-ja" lang="ja"><div class="poem">やあ、外来人。元気にしてた？　あら、紫もいたの。相変わらず、幻想郷一の好事家だねぇ。</div></td><td class="tt-zh" lang="zh"><div class="poem">你好啊，外来人。过的还好吗？啊呀，紫也在。果然，你还是一如既往的幻想乡第一好事者啊。</div></td></tr></tbody></table>
 
 
 <center>
@@ -36,7 +36,7 @@ The_Grimoire_of_Usami | 使用了翻译表的页面 | 哆来咪·苏伊特 | 宇
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: right"><a href="./The_Grimoire_of_Usami-铃瑚-中日对照.md" title="The Grimoire of Usami/铃瑚/中日对照">铃瑚</a>&#160;
 </td>
-<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="/%E5%AE%87%E4%BD%90%E8%A7%81%E7%9A%84%E9%AD%94%E6%B3%95%E4%B9%A6" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a>&#160;
+<td style="text-align: center; border-left: 1px solid #aaaaaa; border-right: 1px solid #aaaaaa; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa;">&#160;<a href="./宇佐见的魔法书.md" class="mw-redirect" title="宇佐见的魔法书">宇佐见的魔法书</a>&#160;
 </td>
 <td style="border-top: 1px solid #aaaaaa; border-bottom: 1px solid #aaaaaa; width: 50%; text-align: left">&#160;<a href="./The_Grimoire_of_Usami-灵乌路空-中日对照.md" title="The Grimoire of Usami/灵乌路空/中日对照">灵乌路空</a>
 </td>
@@ -45,6 +45,7 @@ The_Grimoire_of_Usami | 使用了翻译表的页面 | 哆来咪·苏伊特 | 宇
 
   
 </center>
+
 
 ## 词条导航
   

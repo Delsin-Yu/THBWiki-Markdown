@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-東方多淫症_Retro_Evolved封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/a/a8/%E6%9D%B1%E6%96%B9%E5%A4%9A%E6%B7%AB%E7%97%87_Retro_Evolved%E5%B0%81%E9%9D%A2.jpg/100px-%E6%9D%B1%E6%96%B9%E5%A4%9A%E6%B7%AB%E7%97%87_Retro_Evolved%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="100" height="140" srcset="https://upload.thwiki.cc/thumb/a/a8/%E6%9D%B1%E6%96%B9%E5%A4%9A%E6%B7%AB%E7%97%87_Retro_Evolved%E5%B0%81%E9%9D%A2.jpg/150px-%E6%9D%B1%E6%96%B9%E5%A4%9A%E6%B7%AB%E7%97%87_Retro_Evolved%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/a/a8/%E6%9D%B1%E6%96%B9%E5%A4%9A%E6%B7%AB%E7%97%87_Retro_Evolved%E5%B0%81%E9%9D%A2.jpg/200px-%E6%9D%B1%E6%96%B9%E5%A4%9A%E6%B7%AB%E7%97%87_Retro_Evolved%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="533" data-file-height="746"></a><div class="cover-char">角色：<a href="./姬海棠果.md" title="姬海棠果">姬海棠果</a>，<a href="./射命丸文.md" title="射命丸文">射命丸文</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/35758661">https://www.pixiv.net/artworks/35758661</a></td></tr></tbody></table>
 
 東方多淫症 Retro Evolved（同人志，ミツメ書房，2013） - 2013年5月26日 由 ミツメ書房 于 博丽神社例大祭10 发布的漫画同人志，登场人物有 姬海棠果、射命丸文，分级为 一般向
+
 ## Staff
 : 額縁あいこ (未找到链接)
+
 
 ## 评论
 

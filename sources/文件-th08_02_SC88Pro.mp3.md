@@ -4,6 +4,7 @@
 
 东方永夜抄 | 幻视之夜_～_Ghostly_Eyes
 
+
 ## 文件说明
   
 幻視の夜　～ Ghostly Eyes 东方永夜抄1面道中曲MIDI版。由Roland Sound Canvas 88Pro实机录制；MP3采样率44.1KHz，码率192Kbps。  

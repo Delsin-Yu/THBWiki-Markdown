@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-CAMELLIA（P＿C＿B）封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/6/6d/CAMELLIA%EF%BC%88P%EF%BC%BFC%EF%BC%BFB%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/79px-CAMELLIA%EF%BC%88P%EF%BC%BFC%EF%BC%BFB%EF%BC%89%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="79" height="112" srcset="https://upload.thwiki.cc/thumb/6/6d/CAMELLIA%EF%BC%88P%EF%BC%BFC%EF%BC%BFB%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/119px-CAMELLIA%EF%BC%88P%EF%BC%BFC%EF%BC%BFB%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/6/6d/CAMELLIA%EF%BC%88P%EF%BC%BFC%EF%BC%BFB%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/158px-CAMELLIA%EF%BC%88P%EF%BC%BFC%EF%BC%BFB%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="565" data-file-height="800"></a><div class="cover-char">角色：<a href="./赤蛮奇.md" title="赤蛮奇">赤蛮奇</a></div></td>
@@ -14,11 +15,13 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/P_C_B/status/858629984994250752">https://twitter.com/P_C_B/status/858629984994250752</a></td></tr></tbody></table>
 
 CAMELLIA（同人志，P＿C＿B，2017） - 2017年5月7日 由 P＿C＿B 于 博丽神社例大祭14 发布的摄影集同人志，分级为 一般向
+
 ## Staff
 Model
 : 椎果 (未找到链接)
 Photo
 : 銀寺 (未找到链接)
+
 
 ## 评论
 

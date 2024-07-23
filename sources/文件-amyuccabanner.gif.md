@@ -4,6 +4,7 @@
 
 amyucca | 社团LOGO
 
+
 ## 文件说明
   
 源地址：[direct image link](http://jam0v0.soragoto.net/banner.gif), [source page](http://jam0v0.soragoto.net/about.html)

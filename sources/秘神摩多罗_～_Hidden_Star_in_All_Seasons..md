@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -35,11 +36,13 @@
 
 
 
+
 ## 基本信息
 
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">秘神マターラ　～ Hidden Star in All Seasons.</td></tr><tr><td><b>译名</b></td><td>秘神摩多罗 ～ Hidden Star in All Seasons.</td></tr><tr><td><b>英文译名</b></td><td>Secret God Matara ~ Hidden Star in All Seasons.</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 秘神摩多罗 ～ Hidden Star in All Seasons.（曲目） - 由 ZUN 创作的官方曲目，原名 秘神マターラ　～ Hidden Star in All Seasons.
+
 ## 出现作品
 
 <table>
@@ -48,7 +51,9 @@
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 东方天空璋
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th16_15.mp3.md" title="文件:th16 15.mp3">th16_15.mp3</a><br><audio src="https://upload.thwiki.cc/b/b0/th16_15.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>BGM\th16_15.wav</td></tr><tr><td><b>BGMForAll</b></td><td><div class="mw-collapsible mw-collapsed">
@@ -59,12 +64,15 @@
 </td></tr></tbody></table>
 
 
+
 ### 东方刚欲异闻
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th175_24.mp3.md" title="文件:th175 24.mp3">th175_24.mp3</a><br><audio src="https://upload.thwiki.cc/a/ae/th175_24.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>okina1.ogg</td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 东方天空璋
 - Music Room (未找到链接)
 
@@ -74,8 +82,11 @@
 　既然是要和真正的隐岐奈战斗，便全部去除了大自然的清爽感  
 　又加强了旋律之后呈上了一首像个真正的最终BOSS一样的曲子。  
 　说实话，我最讨厌背后阴人的攻击啦！
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
   
  **秘神マターラ　～ Hidden Star in All Seasons.**  秘神摩多罗　～ Hidden Star in All Seasons.
@@ -96,7 +107,7 @@
     - 北斗七星中天璇与二星指北极星，北斗一年围绕北极星旋转一周，斗魁东向则春，南向则夏，西向则秋，北向则冬；而北斗星的消隐则意味着季节规律的无常。
     - 北斗七星和摩多罗神有关联，在摩多罗神的画像中，其顶上之云中挂有北斗七星，而摩多罗神为隐岐奈的艺术原型。
       - “隐岐奈”的日语读音与“翁”相同。根据金春禅竹的《明宿集》记载，“翁”指的是司掌星宿的“宿神”，亦即北极星神。
-      - 北斗七星的图案或意向在天空璋中多次出现，如符卡秘仪「七星之剑」 (未找到链接)及场景[后户之国](./后户之国.md)地面上的图案。
+      - 北斗七星的图案或意向在天空璋中多次出现，如符卡[秘仪「七星之剑」](./秘仪「七星之剑」.md)及场景[后户之国](./后户之国.md)地面上的图案。
 
 
   - 隐岐奈有星宿之神的身份。
@@ -106,6 +117,7 @@
 - All Seasons
   - 天空璋的副标题和六面副标题为“Hidden Star in Four Seasons”，EX面的副标题为“Hidden Star in Fifth Season”。
     - 差别在于季节的间隙，第五季节“土用”？
+
 
 
 

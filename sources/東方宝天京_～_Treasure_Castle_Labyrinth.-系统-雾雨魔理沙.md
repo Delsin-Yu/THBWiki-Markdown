@@ -21,12 +21,14 @@
 
   
 </center>
+
 ## 说明文本
 [](./文件-雾雨魔理沙&圣白莲组合.jpg.md)  [](./文件-雾雨魔理沙&圣白莲组合.jpg.md)雾雨魔理沙&amp;圣白莲
 
 <table><tbody><tr><td style="min-width:200px" colspan="2" align="center"><b>火力&amp;速度重视类型</b></td><td style="min-width:150px" colspan="2" align="center" lang="ja"><b>パワー＆スビード重視タイプ</b></td></tr><tr><td style="min-width:125px"><b>支援</b></td><td style="min-width:125px">（高速时）/（低速时）<br></td><td style="min-width:100px" lang="ja">（高速時）/（低速時）<br></td></tr><tr><td style="min-width:125px"><b>支援角色</b></td><td style="min-width:125px">雾雨魔理沙/圣白莲<br></td><td style="min-width:100px" lang="ja">霧雨魔理沙/聖白蓮<br></td></tr>
 <tr><td style="min-width:200px" colspan="2" align="center"><b>雾雨魔理沙</b></td><td style="min-width:150px" colspan="2" align="center" lang="ja"><b>霧雨魔理沙</b></td></tr><tr><td style="min-width:125px"><b>火力</b></td><td style="min-width:125px">☆☆☆☆☆☆<br></td><td style="min-width:100px" lang="ja">☆☆☆☆☆☆<br></td></tr><tr><td style="min-width:125px"><b>速度</b></td><td style="min-width:125px">☆☆☆☆☆<br></td><td style="min-width:100px" lang="ja">☆☆☆☆☆<br></td></tr><tr><td style="min-width:125px"><b>通常射击</b></td><td style="min-width:125px">「Magic Slave 改」<br></td><td style="min-width:100px" lang="ja">「マジックスレイプ 改」<br></td></tr><tr><td style="min-width:125px"><b>通常bomb</b></td><td style="min-width:125px">超光「Galactic Attractor」（银河吸引子）<br></td><td style="min-width:100px" lang="ja">超光「ギャラクシックアトラクター」<br></td></tr>
 <tr><td style="min-width:200px" colspan="2" align="center"><b>圣白莲</b></td><td style="min-width:150px" colspan="2" align="center" lang="ja"><b>聖白蓮</b></td></tr><tr><td style="min-width:125px"><b>火力</b></td><td style="min-width:125px">☆<br></td><td style="min-width:100px" lang="ja">☆<br></td></tr><tr><td style="min-width:125px"><b>速度</b></td><td style="min-width:125px">☆☆☆☆☆☆<br></td><td style="min-width:100px" lang="ja">☆☆☆☆☆☆<br></td></tr><tr><td style="min-width:125px"><b>通常射击</b></td><td style="min-width:125px">「Nirguna Brahman」（涅槃婆罗门）<br></td><td style="min-width:100px" lang="ja">「ニルグナ・ブラフマン」<br></td></tr><tr><td style="min-width:125px"><b>通常bomb</b></td><td style="min-width:125px">圆环「Chakra Ascension」（脉轮提升）<br></td><td style="min-width:100px" lang="ja">円環「チャクラアセンション」<br></td></tr></tbody></table>
+
 
 
 

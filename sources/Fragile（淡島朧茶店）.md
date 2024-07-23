@@ -18,6 +18,7 @@
 
 
 </center>
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=Fragile%EF%BC%88%E6%B7%A1%E5%B3%B6%E6%9C%A7%E8%8C%B6%E5%BA%97%EF%BC%89%E5%B0%81%E9%9D%A2.jpg" class="new" title="文件:Fragile（淡島朧茶店）封面.jpg">封面图片</a><div class="cover-char">角色：<a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a></div></td>
@@ -25,9 +26,11 @@
 </tr><tr><td class="label">首发日期</td><td>2013-09-01&#160;（<a href="/展会作品列表?e=ComicTreasure%2322">こみっく★トレジャー22</a>）</td></tr><tr><td class="label">类型</td><td>EP</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">碟数</td><td>1</td></tr><tr><td class="label">音轨数</td><td>0</td></tr><tr><td class="label">总时长</td><td>00:00</td></tr><tr><td class="label">售价</td><td>会场售价：500日元</td></tr></tbody></table>
 
 Fragile（同人专辑，淡島朧茶店，2013） - 2013年9月1日 由 淡島朧茶店 于 ComicTreasure 22 发布的EP同人专辑，分级为 一般向
+
 ## Staff
 Illustration
 : みゅーと
+
 
 ## 试听
   
@@ -35,9 +38,11 @@ Illustration
 
   
 
+
 ## 曲目列表
 
 <table></table>
+
 
 
 ## 评论

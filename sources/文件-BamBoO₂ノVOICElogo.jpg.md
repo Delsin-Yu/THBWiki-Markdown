@@ -4,6 +4,7 @@
 
 BamBoO₂ノVOICE | 社团LOGO
 
+
 ## 文件说明
   
 源地址：[direct image link](https://cdn.dizzylab.net/media/label_cover/2EA2BDEA3C5BB98841E9CD1DA7AC8039.jpg), [from circle Dizzylab](https://www.dizzylab.net/l/BamBoO₂ノVOICE/)

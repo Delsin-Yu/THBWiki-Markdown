@@ -4,7 +4,8 @@
 
 Karkan ，于 2008 年成立，主要制作 同人音乐，同人志 的日本同人社团，主催是 銅螺子，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -15,12 +16,14 @@ Karkan ，于 2008 年成立，主要制作 同人音乐，同人志 的日本�
 
 
 
+
 ## 社团信息
 [](./文件-Karkan.png.md)  [](./文件-Karkan.png.md)Banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Karkan </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐，同人志</td></tr><tr><td><b>成立时间</b></td><td>2008</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=%E9%8A%85%E8%9E%BA%E5%AD%90&amp;action=edit&amp;redlink=1" class="new" title="銅螺子（页面不存在）">銅螺子</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://www.karkan.net/">http://www.karkan.net/</a> </td></tr></tbody></table>
 
 Karkan（同人社团，同人音乐社团，同人志社团） - Karkan ，于 2008 年成立，主要制作 同人音乐，同人志 的日本同人社团，主催是 銅螺子，当前状态为 活动
+
 ## 成员名单
 - 銅螺子 (未找到链接)
 
@@ -31,6 +34,7 @@ Karkan（同人社团，同人音乐社团，同人志社团） - Karkan ，于 
 - 金ラメタキシード (未找到链接)
 - AOiRO_Manbow (未找到链接)
 - 神方山祈 (未找到链接)
+
 
 ## 作品列表
 [](./幻想英雄譚.md)[幻想英雄譚](./幻想英雄譚.md)首发日期：2008-08-16 （Comic Market 74 (未找到链接)）KRKN-0001全长 （一般向）東方 × ファルコム アレンジアルバム[](./Rebirth（Karkan）.md)[Rebirth](./Rebirth（Karkan）.md)首发日期：2009-08-15 （Comic Market 76 (未找到链接)）KRKN-0002全长 （一般向）[](./宵星標.md)[宵星標](./宵星標.md)首发日期：2009-12-30 （Comic Market 77 (未找到链接)）KRKN-0003EP （一般向）[](./明星標.md)[明星標](./明星標.md)首发日期：2010-08-14 （Comic Market 78 (未找到链接)）KRKN-0004全长 （一般向）[](./Arkham_Edge.md)[Arkham Edge](./Arkham_Edge.md)首发日期：2011-08-13 （Comic Market 80 (未找到链接)）KRKN-0005全长 （一般向）[](./現し月小路.md)[現し月小路](./現し月小路.md)首发日期：2012-08-11 （Comic Market 82 (未找到链接)）KRKN-0006全长 （一般向）[](./Believe_in_my_little_intention.md)[Believe in my little intention](./Believe_in_my_little_intention.md)首发日期：2012-08-11 （Comic Market 82 (未找到链接)）KRKN-0007单曲 （一般向）
@@ -48,6 +52,7 @@ Karkan（同人社团，同人音乐社团，同人志社团） - Karkan ，于 
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 其他信息

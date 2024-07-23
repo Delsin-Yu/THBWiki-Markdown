@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-sepia（ひとみしり）封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/1/11/sepia%EF%BC%88%E3%81%B2%E3%81%A8%E3%81%BF%E3%81%97%E3%82%8A%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/120px-sepia%EF%BC%88%E3%81%B2%E3%81%A8%E3%81%BF%E3%81%97%E3%82%8A%EF%BC%89%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="120" height="168" srcset="https://upload.thwiki.cc/thumb/1/11/sepia%EF%BC%88%E3%81%B2%E3%81%A8%E3%81%BF%E3%81%97%E3%82%8A%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/180px-sepia%EF%BC%88%E3%81%B2%E3%81%A8%E3%81%BF%E3%81%97%E3%82%8A%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/1/11/sepia%EF%BC%88%E3%81%B2%E3%81%A8%E3%81%BF%E3%81%97%E3%82%8A%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/240px-sepia%EF%BC%88%E3%81%B2%E3%81%A8%E3%81%BF%E3%81%97%E3%82%8A%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="518" data-file-height="725"></a><div class="cover-char">角色：<a href="./帕秋莉·诺蕾姬.md" title="帕秋莉·诺蕾姬">帕秋莉·诺蕾姬</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://amatouchocolate.web.fc2.com">http://amatouchocolate.web.fc2.com</a><br><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/18694243">https://www.pixiv.net/artworks/18694243</a></td></tr></tbody></table>
 
 sepia（同人志，ひとみしり，2011） - 2011年5月8日 由 ひとみしり 于 博丽神社例大祭8 发布的漫画同人志，一共20页，登场人物有 帕秋莉·诺蕾姬、雾雨魔理沙，分级为 一般向
+
 ## Staff
 - [甘党](./甘党.md)
+
 
 ## 评论
 - 作者

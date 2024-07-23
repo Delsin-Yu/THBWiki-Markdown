@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-NO_BORDER封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/a/af/NO_BORDER%E5%B0%81%E9%9D%A2.jpg/119px-NO_BORDER%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="119" height="168" srcset="https://upload.thwiki.cc/thumb/a/af/NO_BORDER%E5%B0%81%E9%9D%A2.jpg/178px-NO_BORDER%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/a/af/NO_BORDER%E5%B0%81%E9%9D%A2.jpg/238px-NO_BORDER%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="850" data-file-height="1200"></a><div class="cover-char">角色：<a href="./因幡帝.md" title="因幡帝">因幡天为</a>，<a href="./蓬莱山辉夜.md" title="蓬莱山辉夜">蓬莱山辉夜</a></div></td>
@@ -16,6 +17,7 @@
 NO BORDER（同人志，イスタンブール・ハイソックス，2015） - 2015年6月6日 由 イスタンブール・ハイソックス 于 博丽神社例大祭 in 台湾1 发布的漫画/合同志同人志，B5尺寸一共84页，分级为 一般向
 
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=131517">蜜瓜</a>，<a rel="nofollow" class="external text" href="https://ec.toranoana.jp/tora_r/ec/item/040030324510">虎穴</a></td></tr></tbody></table>
+
 
 
 ## Staff
@@ -29,6 +31,7 @@ NO BORDER（同人志，イスタンブール・ハイソックス，2015） - 2
 - にひまる (未找到链接)
 - [フウザサ](./フウザサ.md)
 - [至る](./至る.md)
+
 
 ## 评论
 

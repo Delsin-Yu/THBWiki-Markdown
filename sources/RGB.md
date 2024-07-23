@@ -18,6 +18,7 @@
 
 
 </center>
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-RGB封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/4/46/RGB%E5%B0%81%E9%9D%A2.jpg/112px-RGB%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="112" height="168" srcset="https://upload.thwiki.cc/thumb/4/46/RGB%E5%B0%81%E9%9D%A2.jpg/168px-RGB%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/4/46/RGB%E5%B0%81%E9%9D%A2.jpg/224px-RGB%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="800" data-file-height="1200"></a><div class="cover-char">角色：<a href="./秋静叶.md" title="秋静叶">秋静叶</a>，<a href="./秋穰子.md" title="秋穰子">秋穰子</a>，<a href="./水桥帕露西.md" title="水桥帕露西">水桥帕露西</a>，<a href="./蓬莱山辉夜.md" title="蓬莱山辉夜">蓬莱山辉夜</a></div></td>
@@ -30,6 +31,7 @@ RGB（同人志，Ragathol Enterprises，2011） - 2024年6月22日 由 Ragathol
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://ragathol.gumroad.com/l/IzvmwC">其他平台（英文）</a>，<a rel="nofollow" class="external text" href="https://ragathol.gumroad.com/l/LfXGE">其他平台（日文）</a></td></tr></tbody></table>
 
 
+
 ## 预览
   
 Pixiv&#160;: [1](https://www.pixiv.net/artworks/18626611), [2](https://www.pixiv.net/artworks/18627120)
@@ -38,9 +40,11 @@ Pixiv&#160;: [1](https://www.pixiv.net/artworks/18626611), [2](https://www.pixiv
 DeviantArt: [1](https://www.deviantart.com/ragathol/art/New-Comic-1-206753041), [2](https://www.deviantart.com/ragathol/art/New-Comic-2-206753123)
   
 
+
 ## Staff
 Art &amp; Story
 : Ragathol （[Ragathol Enterprises](./Ragathol_Enterprises.md)）
+
 
 ## 评论
 

@@ -28,6 +28,7 @@
 </tbody></table>
 
 
+
 ## 目录
 
 - [1 角色信息](#角色信息)
@@ -38,6 +39,7 @@
 
 
 - [2 词条导航](#词条导航)
+
 
 
 
@@ -53,6 +55,7 @@
 </tr><tr><td><b>日文名</b></td><td>ニル</td></tr><tr><td><b>英文名</b></td><td>NiLU</td></tr><tr><td><b>种族</b></td><td><a href="/index.php?title=%E9%BB%91%E7%99%BD%E6%9C%BA%E5%99%A8%E4%BA%BA&amp;action=edit&amp;redlink=1" class="new" title="黑白机器人（页面不存在）">黑白机器人</a>（Monochroid）</td></tr></tbody></table>
 
 NiLU（同人角色） - 二次同人角色
+
 ### 角色介绍
   
  **NiLU** ，全名 **Monochroid[niLu] = _Type_iX■[■■■];** ，是《[连缘Project](./连缘Project.md)》系列中登场的角色，玄鸟与他人共同制造的黑白机器人之一，与[Tom C. Zemlja](./Tom_C._Zemlja.md)共同为《[连缘咖啡](./连缘咖啡厅_～_BOOK_of_the_CAFE.md)》的主角。《连缘咖啡》的主线剧情，即是NiLU和Tom在经营咖啡店的同时，进入NiLU的记忆中寻找情报的故事。作为丢失记忆的机器人，NiLU不太了解人类情感，笑点奇异，常常把Tom的发言误认为是玩笑。  
@@ -65,6 +68,7 @@ NiLU名字中所含的nil指计算机语言中的无值值，这点和同为黑�
 
   
 
+
 ### 外貌特征
   
 戴着一顶黑红相间的奇异帽子，眼睛处缠有白色绷带。左眼形似阐里之瞳，但可以闭上。  
@@ -73,6 +77,7 @@ NiLU身穿黑色披风，用分别为白色、紫色、红色、蓝色的四条�
   
 
 - [](./文件-NiLU的预告.jpg.md)NiLU的预告[&#91;https://twitter.com/mugen_Jinx/status/1180659424949522432%5D](https://twitter.com/mugen_Jinx/status/1180659424949522432])- [](./文件-2020年连缘圣诞贺图.png.md)2020年连缘圣诞贺图
+
 
 ## 词条导航
   

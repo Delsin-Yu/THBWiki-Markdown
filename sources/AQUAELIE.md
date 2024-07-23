@@ -4,7 +4,8 @@
 
 AQUAELIE ，于 2008 年成立，主要制作 同人音乐 的日本同人社团，主催是 Xi
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -15,14 +16,17 @@ AQUAELIE ，于 2008 年成立，主要制作 同人音乐 的日本同人社团
 
 
 
+
 ## 社团信息
 [](./文件-AQUAELIE_banner.gif.md)  [](./文件-AQUAELIE_banner.gif.md)Banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> AQUAELIE </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2008</td></tr><tr><td><b>当前状态</b></td><td>未知</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=Xi&amp;action=edit&amp;redlink=1" class="new" title="Xi（页面不存在）">Xi</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://www.k4.dion.ne.jp/~aquaelie/">http://www.k4.dion.ne.jp/~aquaelie/</a> </td></tr></tbody></table>
 
 AQUAELIE（同人社团，同人音乐社团） - AQUAELIE ，于 2008 年成立，主要制作 同人音乐 的日本同人社团，主催是 Xi
+
 ## 成员名单
 - Xi (未找到链接)
+
 
 ## 作品列表
 [](./疾走大結界_Plastic_mind_in_Casket_of_star.md)[疾走大結界 Plastic mind in Casket of star](./疾走大結界_Plastic_mind_in_Casket_of_star.md)首发日期：2008-08-16 （Comic Market 74 (未找到链接)）AQEL-0001全长 （一般向）[](./神速裁判_～_Rapidity_is_a_justice.md)[神速裁判 ～ Rapidity is a justice](./神速裁判_～_Rapidity_is_a_justice.md)首发日期：2009-03-08 （第六回 博麗神社例大祭 (未找到链接)）AQEL-0002全长 （一般向）[](./あくえり！～_AQUAELIE_fanDISC_vol.1.md)[あくえり！～ AQUAELIE fanDISC vol.1](./あくえり！～_AQUAELIE_fanDISC_vol.1.md)首发日期：2009-08-15 （Comic Market 76 (未找到链接)）EP （一般向）[](./Unbeatable_Accomplice.md)[Unbeatable Accomplice](./Unbeatable_Accomplice.md)首发日期：2009-10-11 （東方紅楼夢5 (未找到链接)）ANKM-0005全长、​合作 （一般向）该作品是与 [Unlucky Morpheus](./Unlucky_Morpheus.md) 合作创作的[](./あくえり２～_AQUAELIE_fanDISC_vol.2.md)[あくえり２～ AQUAELIE fanDISC vol.2](./あくえり２～_AQUAELIE_fanDISC_vol.2.md)首发日期：2009-12-30 （Comic Market 77 (未找到链接)）Demo （一般向）[](./ultimate_cherry_blossoms.md)[ultimate cherry blossoms](./ultimate_cherry_blossoms.md)首发日期：2010-03-14 （第七回 博麗神社例大祭 (未找到链接)）AQEL-0003EP （一般向）[](./あくえり３～_AQUAELIE_fanDISC_vol.3.md)[あくえり３～ AQUAELIE fanDISC vol.3](./あくえり３～_AQUAELIE_fanDISC_vol.3.md)首发日期：2010-08-14 （Comic Market 78 (未找到链接)）Demo （一般向）[](./あくえり４～_AQUAELIE_fanDISC_vol.4.md)[あくえり４～ AQUAELIE fanDISC vol.4](./あくえり４～_AQUAELIE_fanDISC_vol.4.md)首发日期：2010-12-30 （Comic Market 79 (未找到链接)）Demo （一般向）[](./あくえり５～_AQUAELIE_fanDISC_vol.5.md)[あくえり５～ AQUAELIE fanDISC vol.5](./あくえり５～_AQUAELIE_fanDISC_vol.5.md)首发日期：2011-05-08 （第八回 博麗神社例大祭 (未找到链接)）Demo （一般向）[](./あくえり６～_AQUAELIE_fanDISC_vol.6.md)[あくえり６～ AQUAELIE fanDISC vol.6](./あくえり６～_AQUAELIE_fanDISC_vol.6.md)首发日期：2011-08-13 （Comic Market 80 (未找到链接)）Demo （一般向）[](./東方鋼宴会～Best_of_AQUAELIE.md)[東方鋼宴会～Best of AQUAELIE](./東方鋼宴会～Best_of_AQUAELIE.md)首发日期：2012-05-27 （第九回 博麗神社例大祭 (未找到链接)）AQEL-0004精选集 （一般向）[](./あくえり７～_AQUAELIE_fanDISC_vol.7.md)[あくえり７～ AQUAELIE fanDISC vol.7](./あくえり７～_AQUAELIE_fanDISC_vol.7.md)首发日期：2014-05-11 （第十一回 博麗神社例大祭 (未找到链接)）EP （一般向）
@@ -50,6 +54,7 @@ AQUAELIE（同人社团，同人音乐社团） - AQUAELIE ，于 2008 年成立
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 其他信息

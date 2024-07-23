@@ -4,7 +4,8 @@
 
 Eurobeat Union ，于 2013 年成立，主要制作 同人音乐 的日本同人社团，主催是 DJ Command，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -33,6 +34,7 @@ Eurobeat Union ，于 2013 年成立，主要制作 同人音乐 的日本同人
 
 
 
+
 ## 社团信息
 [](./文件-Eurobeat_Unionbanner.png.md)  [](./文件-Eurobeat_Unionbanner.png.md)banner
 [](./文件-Eurobeat_Unionlogo.png.md)  [](./文件-Eurobeat_Unionlogo.png.md)logo
@@ -40,14 +42,18 @@ Eurobeat Union ，于 2013 年成立，主要制作 同人音乐 的日本同人
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Eurobeat Union </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2013</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="./DJ_Command.md" title="DJ Command">DJ Command</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="https://eurobeatunion.com/">https://eurobeatunion.com/</a> 官网<br><a rel="nofollow" class="external free" href="http://eurobeatunion.blog.fc2.com/">http://eurobeatunion.blog.fc2.com/</a> 旧官网<br><a rel="nofollow" class="external free" href="https://www.youtube.com/c/EurobeatUnion">https://www.youtube.com/c/EurobeatUnion</a> YouTube<br><a rel="nofollow" class="external free" href="https://com.nicovideo.jp/community/co2378113">https://com.nicovideo.jp/community/co2378113</a> Niconico<br><a rel="nofollow" class="external free" href="https://soundcloud.com/eurobeat_union">https://soundcloud.com/eurobeat_union</a> SoundCloud</td></tr></tbody></table>
 
 Eurobeat Union（同人社团，同人音乐社团） - Eurobeat Union ，于 2013 年成立，主要制作 同人音乐 的日本同人社团，主催是 DJ Command，当前状态为 活动
+
 ## 成员名单
 - [DJ Command](./DJ_Command.md)：Arrange
 - [FN2](./FN2.md)：Arrange
 - Cocoa (未找到链接)：Vocal
 - [LAN.na](./LAN.na.md)：作詞作曲編曲,動画 （[Twitter](https://twitter.com/LANna_Plum)，[Soundcloud](https://soundcloud.com/mizuho_lanna)）
 
+
 ## 作品列表
+
 ### 同人专辑
+
 #### EURO BAKAICHIDAI
   
 系列原名ユーロバカ一代，从系列第15个作品开始，为了国际化，改用罗马字作为系列名。
@@ -120,6 +126,7 @@ Eurobeat Union（同人社团，同人音乐社团） - Eurobeat Union ，于 20
 </table>
 
 
+
 #### EURO BAKAICHIDAI THE BEST
 [](./THE_BEST_OF_COCOA_EUROBEAT.md)[THE BEST OF COCOA EUROBEAT](./THE_BEST_OF_COCOA_EUROBEAT.md)首发日期：2016-05-08 （第十三回 博麗神社例大祭 (未找到链接)）EUCD-B001全长、​精选集 （一般向）[](./THE_BEST_TOHO_EURO_OF_DJ_Command.md)[THE BEST TOHO EURO OF DJ Command](./THE_BEST_TOHO_EURO_OF_DJ_Command.md)首发日期：2016-08-13 （Comic Market 90 (未找到链接)）EUCD-B002精选集 （一般向）[](./THE_BEST_OF_NU-KO_EUROBEAT.md)[THE BEST OF NU-KO EUROBEAT](./THE_BEST_OF_NU-KO_EUROBEAT.md)首发日期：2017-08-11 （Comic Market 92 (未找到链接)）EUCD-B003精选集 （一般向）[](./THE_BEST_OF_ユーロバカ一代_sato._NON-STOP_MIX.md)[THE BEST OF ユーロバカ一代 sato. NON-STOP MIX](./THE_BEST_OF_ユーロバカ一代_sato._NON-STOP_MIX.md)首发日期：2018-04-29 （M3-2018春 (未找到链接)）混音集 （一般向）[](./THE_BEST_OF_NU-KO_EUROBEAT_2.md)[THE BEST OF NU-KO EUROBEAT 2](./THE_BEST_OF_NU-KO_EUROBEAT_2.md)首发日期：2021-10-03 EUCD-B006精选集 （一般向）该专辑包含 2 张CD
 <table><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
@@ -132,6 +139,7 @@ Eurobeat Union（同人社团，同人音乐社团） - Eurobeat Union ，于 20
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 #### DUB-MIX COLLECTION
@@ -152,6 +160,7 @@ Eurobeat Union（同人社团，同人音乐社团） - Eurobeat Union ，于 20
 </table>
 
 
+
 #### TOHO COLLECTION
 [](./TOHO_COLLECTION_VOL.1.md)[TOHO COLLECTION VOL.1](./TOHO_COLLECTION_VOL.1.md)首发日期：2022-05-01 全长、​精选集 （一般向）[](./TOHO_COLLECTION_VOL.2.md)[TOHO COLLECTION VOL.2](./TOHO_COLLECTION_VOL.2.md)首发日期：2022-10-02 全长、​精选集 （一般向）[](./TOHO_COLLECTION_VOL.3.md)[TOHO COLLECTION VOL.3](./TOHO_COLLECTION_VOL.3.md)首发日期：2022-12-24 精选集 （一般向）[](./TOHO_COLLECTION_VOL.4.md)[TOHO COLLECTION VOL.4](./TOHO_COLLECTION_VOL.4.md)首发日期：2023-05-01 全长、​精选集 （一般向）[](./TOHO_COLLECTION_VOL.5.md)[TOHO COLLECTION VOL.5](./TOHO_COLLECTION_VOL.5.md)首发日期：2023-10-01 全长 （一般向）[](./TOHO_COLLECTION_VOL.6.md)[TOHO COLLECTION VOL.6](./TOHO_COLLECTION_VOL.6.md)首发日期：2024-04-21 精选集 （一般向）
 <table><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
@@ -168,12 +177,14 @@ Eurobeat Union（同人社团，同人音乐社团） - Eurobeat Union ，于 20
 </table>
 
 
+
 #### ユーロビート制作キット
 [](./ユーロバカ一代_VERSION_0.5.md)[ユーロバカ一代 VERSION 0.5](./ユーロバカ一代_VERSION_0.5.md)首发日期：2013-12-30 （Comic Market 85 (未找到链接)）全长 （一般向）[](./ユーロバカ一代_VERSION_0.87_ADD-ON_SOUND_SUPER_EURO_BRASS_1.md)[ユーロバカ一代 VERSION 0.87 ADD-ON SOUND SUPER EURO BRASS 1](./ユーロバカ一代_VERSION_0.87_ADD-ON_SOUND_SUPER_EURO_BRASS_1.md)首发日期：2014-12-29 （Comic Market 87 (未找到链接)）全长、​精选集 （一般向）
 <table><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 #### EUROBEAT HOLIC
@@ -194,6 +205,7 @@ Eurobeat Union（同人社团，同人音乐社团） - Eurobeat Union ，于 20
 </table>
 
 
+
 #### 其他
 [](./ユーロバカ一代_SPECIAL_NON-STOP_MIX_VOL.1.md)[ユーロバカ一代 SPECIAL NON-STOP MIX VOL.1](./ユーロバカ一代_SPECIAL_NON-STOP_MIX_VOL.1.md)首发日期：2015-04-19 （東方名華祭9 (未找到链接)）EUCD-S001混音集 （一般向）[](./マスターカルテットスパーク!!.md)[マスターカルテットスパーク!!](./マスターカルテットスパーク!!.md)首发日期：2015-06-21 （とら祭り2015 (未找到链接)）AKHE-0001Demo （一般向）该作品是与 [A-One](./A-One.md)、​[はにーぽけっと](./はにーぽけっと.md)、​[歌恋人](./歌恋人.md) 合作创作的ユーロバカ一代 I.E.G.P. COLLECTION -SELECTION 1- 封面图片 (未找到链接)ユーロバカ一代 I.E.G.P. COLLECTION -SELECTION 1- (未找到链接)首发日期：未知 - 
 <table><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
@@ -203,6 +215,7 @@ Eurobeat Union（同人社团，同人音乐社团） - Eurobeat Union ，于 20
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458"></table>
 
 
+
 ### 同人视频
 [](./ユーロバカ一代_VOL.7_THE_MAKING.md)[ユーロバカ一代 VOL.7 THE MAKING](./ユーロバカ一代_VOL.7_THE_MAKING.md)首发日期：2016-12-29 （Comic Market 91 (未找到链接)）EUCD-0007B音乐 （一般向）ユーロバカ一代 LIVE -2017.3.4 零の陣- 封面图片 (未找到链接)ユーロバカ一代 LIVE -2017.3.4 零の陣- (未找到链接)首发日期：未知 - 
 <table><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
@@ -210,9 +223,11 @@ Eurobeat Union（同人社团，同人音乐社团） - Eurobeat Union ，于 20
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458"></table>
 
 
+
 ## 参展信息
 
 <table><tbody><tr><th class="活动页面">活动页面</th><th class="活动名称">活动名称</th><th class="日期">日期</th><th class="举办地点">举办地点</th><th class="摊位编号">摊位编号</th><th class="宣传页面">宣传页面</th><th class="备注">备注</th></tr><tr data-row-number="1" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#21" title="博丽神社例大祭">博丽神社例大祭#21</a></span></td><td class="活动名称 smwtype_txt">第二十一回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2460433.5">2024-05-03</td><td class="举办地点 smwtype_txt">东京Big Sight 东展厅</td><td class="摊位编号 smwtype_txt">て08ab</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="2" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E4%B8%9C%E6%96%B9%E5%90%8D%E5%8D%8E%E7%A5%AD#18" title="东方名华祭">东方名华祭#18</a></span></td><td class="活动名称 smwtype_txt">東方名華祭18</td><td class="日期 smwtype_dat" data-sort-value="2460400.5">2024-03-31</td><td class="举办地点 smwtype_txt">名古屋市国际展示场 第2展厅</td><td class="摊位编号 smwtype_txt">F27,28</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="3" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/Comic_Market#103" title="Comic Market">Comic Market#103</a></span></td><td class="活动名称 smwtype_txt">Comic Market 103</td><td class="日期 smwtype_dat" data-sort-value="2460309.5">2023-12-31</td><td class="举办地点 smwtype_txt">东京都 东京国际展示场</td><td class="摊位编号 smwtype_txt">西あ01b</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="4" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E7%A7%8B%E5%AD%A3%E4%BE%8B%E5%A4%A7%E7%A5%AD#10" title="博丽神社秋季例大祭">博丽神社秋季例大祭#10</a></span></td><td class="活动名称 smwtype_txt">第十回 博麗神社秋季例大祭</td><td class="日期 smwtype_dat" data-sort-value="2460260.5">2023-11-12</td><td class="举办地点 smwtype_txt">东京Big Sight 東展厅</td><td class="摊位编号 smwtype_txt">た51ab</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="5" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/Comic_Market#102" title="Comic Market">Comic Market#102</a></span></td><td class="活动名称 smwtype_txt">Comic Market 102</td><td class="日期 smwtype_dat" data-sort-value="2460169.5">2023-08-13</td><td class="举办地点 smwtype_txt">东京都 东京国际展示场</td><td class="摊位编号 smwtype_txt">東A78b</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="6" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E4%B8%9C%E6%96%B9%E5%90%8D%E5%8D%8E%E7%A5%AD#17" title="东方名华祭">东方名华祭#17</a></span></td><td class="活动名称 smwtype_txt">東方名華祭17</td><td class="日期 smwtype_dat" data-sort-value="2460120.5">2023-06-25</td><td class="举办地点 smwtype_txt">名古屋市国际展示场 第2展厅</td><td class="摊位编号 smwtype_txt">K07,08</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="7" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#20" title="博丽神社例大祭">博丽神社例大祭#20</a></span></td><td class="活动名称 smwtype_txt">第二十回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2460071.5">2023-05-07</td><td class="举办地点 smwtype_txt">东京Big Sight 东展厅</td><td class="摊位编号 smwtype_txt">つ29ab</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="8" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E7%A7%8B%E5%AD%A3%E4%BE%8B%E5%A4%A7%E7%A5%AD#9" title="博丽神社秋季例大祭">博丽神社秋季例大祭#9</a></span></td><td class="活动名称 smwtype_txt">第九回 博麗神社秋季例大祭</td><td class="日期 smwtype_dat" data-sort-value="2459875.5">2022-10-23</td><td class="举办地点 smwtype_txt">东京Big Sight 西展厅</td><td class="摊位编号 smwtype_txt">う13ab</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="9" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E4%B8%9C%E6%96%B9%E5%90%8D%E5%8D%8E%E7%A5%AD#16" title="东方名华祭">东方名华祭#16</a></span></td><td class="活动名称 smwtype_txt">東方名華祭16</td><td class="日期 smwtype_dat" data-sort-value="2459735.5">2022-06-05</td><td class="举办地点 smwtype_txt">名古屋市国际展示场 第2展厅</td><td class="摊位编号 smwtype_txt">E-31,32</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="10" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#19" title="博丽神社例大祭">博丽神社例大祭#19</a></span></td><td class="活动名称 smwtype_txt">第十九回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2459707.5">2022-05-08</td><td class="举办地点 smwtype_txt">东京Big Sight 东展厅</td><td class="摊位编号 smwtype_txt">い39ab</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr class="smwfooter row-odd"><td class="sortbottom" colspan="7"><span class="smw-broadtable-furtherresults"><a href="/%E7%89%B9%E6%AE%8A:%E8%AF%A2%E9%97%AE/-5B-5B%E6%91%8A%E4%BD%8D%E7%A4%BE%E5%9B%A2::Eurobeat-20Union-5D-5D/-3F%E6%91%8A%E4%BD%8D%E6%B4%BB%E5%8A%A8%3D%E6%B4%BB%E5%8A%A8%E9%A1%B5%E9%9D%A2/-3F%E6%91%8A%E4%BD%8D%E6%B4%BB%E5%8A%A8.%E5%B1%95%E4%BC%9A%E5%90%8D%E7%A7%B0%3D%E6%B4%BB%E5%8A%A8%E5%90%8D%E7%A7%B0/-3F%E6%91%8A%E4%BD%8D%E6%B4%BB%E5%8A%A8.%E5%B1%95%E4%BC%9A%E6%97%A5%E6%9C%9F%3D%E6%97%A5%E6%9C%9F/-3F%E6%91%8A%E4%BD%8D%E6%B4%BB%E5%8A%A8.%E5%9C%B0%E7%82%B9%3D%E4%B8%BE%E5%8A%9E%E5%9C%B0%E7%82%B9/-3F%E6%91%8A%E4%BD%8D%E7%BC%96%E5%8F%B7/-3F%E6%91%8A%E4%BD%8D%E5%AE%A3%E4%BC%A0%E9%A1%B5%E9%9D%A2%3D%E5%AE%A3%E4%BC%A0%E9%A1%B5%E9%9D%A2-7C%2Bmany%3D-3Cbr-20-2F-3E/-3F%E6%91%8A%E4%BD%8D%E5%A4%87%E6%B3%A8%3D%E5%A4%87%E6%B3%A8/mainlabel%3D-20-2D/limit%3D10/order%3D-20descending/sort%3D-20%E6%91%8A%E4%BD%8D%E6%B4%BB%E5%8A%A8.%E5%B1%95%E4%BC%9A%E6%97%A5%E6%9C%9F/offset%3D10/format%3D-20broadtable/headers%3D-20plain" title="特殊:询问/-5B-5B摊位社团::Eurobeat-20Union-5D-5D/-3F摊位活动=活动页面/-3F摊位活动.展会名称=活动名称/-3F摊位活动.展会日期=日期/-3F摊位活动.地点=举办地点/-3F摊位编号/-3F摊位宣传页面=宣传页面-7C+many=-3Cbr-20-2F-3E/-3F摊位备注=备注/mainlabel=-20-2D/limit=10/order=-20descending/sort=-20摊位活动.展会日期/offset=10/format=-20broadtable/headers=-20plain">...更多结果</a></span></td></tr></tbody></table>
+
 
 
 ## 其他信息

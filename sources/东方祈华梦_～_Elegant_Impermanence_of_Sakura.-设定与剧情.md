@@ -4,6 +4,7 @@
 
 东方祈华梦制作组
 
+
 ## 目录
 
 - [1 附带文档](#附带文档)
@@ -14,11 +15,13 @@
 
 
 
+
 ## 附带文档
 - [角色设定](./东方祈华梦_～_Elegant_Impermanence_of_Sakura.-设定与剧情-角色设定.md)
 - [Omake](./东方祈华梦_～_Elegant_Impermanence_of_Sakura.-设定与剧情-Omake.md)
 - [Manual](./东方祈华梦_～_Elegant_Impermanence_of_Sakura.-设定与剧情-Manual.md)
 - [疑难解答](./东方祈华梦_～_Elegant_Impermanence_of_Sakura.-设定与剧情-疑难解答.md)
+
 
 ## 故事背景
 - [故事背景](./东方祈华梦_～_Elegant_Impermanence_of_Sakura.-设定与剧情-故事背景.md)
@@ -26,6 +29,7 @@
   
 EX故事背景写在设定文档 (未找到链接)中。
   
+
 
 ## 游戏对话
 - [博丽灵梦&amp;八云紫 游戏对话/结局](./东方祈华梦_～_Elegant_Impermanence_of_Sakura.-幻想乡的维护者.md)
@@ -42,6 +46,7 @@ EX故事背景写在设定文档 (未找到链接)中。
   
 具体的故事背景与游戏剧情请参照上面的词条或到游戏中亲自体验。
   
+
 
 ## 词条导航
   

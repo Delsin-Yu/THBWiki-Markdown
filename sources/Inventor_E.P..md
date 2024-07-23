@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=Inventor_E.P.%E5%B0%81%E9%9D%A2.jpg" class="new" title="文件:Inventor E.P.封面.jpg">封面图片</a><div class="cover-char">角色：<a href="/index.php?title=%E5%8E%9F%E5%88%9B%E8%A7%92%E8%89%B2&amp;action=edit&amp;redlink=1" class="new" title="原创角色（页面不存在）">原创角色</a></div></td>
@@ -14,11 +15,13 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/i/events/895626993881960449">https://twitter.com/i/events/895626993881960449</a><br><a rel="nofollow" class="external free" href="https://twitter.com/Herbivora_/status/895807423415373825">https://twitter.com/Herbivora_/status/895807423415373825</a></td></tr></tbody></table>
 
 Inventor E.P.（同人专辑，Herbivora，2017） - 2017年8月11日 由 Herbivora 于 Comic Market 92 发布的EP同人专辑，曲目主要风格是 金属，分级为 一般向
+
 ## Staff
   
  **Arrangement**   
 
 <table><tbody><tr><td><a href="./あにょ.md" title="あにょ">あにょ</a></td><td><a href="./Herbivora.md" title="Herbivora">Herbivora</a></td><td>Tr.1-3</td></tr><tr><td><a href="/index.php?title=Yuta&amp;action=edit&amp;redlink=1" class="new" title="Yuta（页面不存在）">Yuta</a></td><td><a rel="nofollow" class="external text" href="https://hz3software.com/">HZ3 Software</a></td><td>Tr.1/3</td></tr></tbody></table>
+
 
 
 ## 试听
@@ -27,11 +30,13 @@ Inventor E.P.（同人专辑，Herbivora，2017） - 2017年8月11日 由 Herbiv
 
   
 
+
 ## 曲目列表
 
 <table><tbody><tr><td id="1" class="infoO"><b>01</b></td><td id="Strange_Telephone" colspan="2" class="title">Strange Telephone<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Yuta，あにょ&amp;ogmusic=Strange Telephone&amp;fromwiki=Inventor_E.P."><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=Yuta&amp;action=edit&amp;redlink=1" class="new" title="Yuta（页面不存在）">Yuta</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Yuta&amp;fromwiki=Inventor_E.P."><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">再编曲</td><td class="text" colspan="2"><a href="./あにょ.md" title="あにょ">あにょ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=あにょ&amp;fromwiki=Inventor_E.P."><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=Strange Telephone&amp;fromwiki=Inventor_E.P."><span></span></a></span><div class="ogmusic">Strange Telephone</div><div class="source">Strange Telephone</div></td></tr>
-<tr><td id="2" class="infoYD"><b>02</b></td><td id="Old_World" colspan="2" class="title">Old World<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=あにょ&amp;ogmusic=懐かしき東方の血　～ Old World&amp;fromwiki=Inventor_E.P."><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./あにょ.md" title="あにょ">あにょ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，あにょ&amp;fromwiki=Inventor_E.P."><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=懐かしき東方の血　～ Old World&amp;fromwiki=Inventor_E.P."><span></span></a></span><div class="ogmusic"><a href="/%E6%87%90%E3%81%8B%E3%81%97%E3%81%8D%E6%9D%B1%E6%96%B9%E3%81%AE%E8%A1%80_%EF%BD%9E_Old_World" class="mw-redirect" title="懐かしき東方の血 ～ Old World">懐かしき東方の血　～ Old World</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E6%B0%B8%E5%A4%9C%E6%8A%84_%EF%BD%9E_Imperishable_Night." class="mw-redirect" title="东方永夜抄 ～ Imperishable Night.">东方永夜抄　～ Imperishable Night.</a></div></td></tr>
+<tr><td id="2" class="infoYD"><b>02</b></td><td id="Old_World" colspan="2" class="title">Old World<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=あにょ&amp;ogmusic=懐かしき東方の血　～ Old World&amp;fromwiki=Inventor_E.P."><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./あにょ.md" title="あにょ">あにょ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，あにょ&amp;fromwiki=Inventor_E.P."><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=懐かしき東方の血　～ Old World&amp;fromwiki=Inventor_E.P."><span></span></a></span><div class="ogmusic"><a href="./懐かしき東方の血_～_Old_World.md" class="mw-redirect" title="懐かしき東方の血 ～ Old World">懐かしき東方の血　～ Old World</a></div><div class="source"><a href="./东方永夜抄_～_Imperishable_Night..md" class="mw-redirect" title="东方永夜抄 ～ Imperishable Night.">东方永夜抄　～ Imperishable Night.</a></div></td></tr>
 <tr><td id="3" class="infoO"><b>03</b></td><td id="Inventor" colspan="2" class="title">Inventor<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Yuta，あにょ&amp;ogmusic=Time Flow&amp;fromwiki=Inventor_E.P."><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=Yuta&amp;action=edit&amp;redlink=1" class="new" title="Yuta（页面不存在）">Yuta</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Yuta&amp;fromwiki=Inventor_E.P."><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">再编曲</td><td class="text" colspan="2"><a href="./あにょ.md" title="あにょ">あにょ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=あにょ&amp;fromwiki=Inventor_E.P."><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=Time Flow&amp;fromwiki=Inventor_E.P."><span></span></a></span><div class="ogmusic">Time Flow</div><div class="source">Strange Telephone</div></td></tr></tbody></table>
+
 
 
 ## 评论

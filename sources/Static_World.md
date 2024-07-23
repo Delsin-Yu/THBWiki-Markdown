@@ -4,7 +4,8 @@
 
 Static World ，于 2011 年成立，主要制作 同人音乐 的中国大陆同人社团，主催是 魂纸(MiraGevot)，踊音(Odoriin)，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -15,12 +16,14 @@ Static World ，于 2011 年成立，主要制作 同人音乐 的中国大陆�
 
 
 
+
 ## 社团信息
 [](./文件-Static_World_banner.jpg.md)  [](./文件-Static_World_banner.jpg.md)Static World banner
 
-<table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Static World </td></tr><tr><td><b>中文名称</b></td><td>静止世界</td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2011-12-15</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="/%E9%AD%82%E7%BA%B8(MiraGevot)" class="mw-redirect" title="魂纸(MiraGevot)">魂纸(MiraGevot)</a> <br> <a href="./Odoriin.md" title="Odoriin" unred="">踊音(Odoriin)</a> </td></tr><tr><td><b>地区</b></td><td>中国大陆</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="https://weibo.com/u/2246753633">https://weibo.com/u/2246753633</a> 微博<br><a rel="nofollow" class="external free" href="http://blog.sina.com.cn/u/2246753633">http://blog.sina.com.cn/u/2246753633</a><br><a rel="nofollow" class="external free" href="https://space.bilibili.com/371385">https://space.bilibili.com/371385</a> bilibili（主催）</td></tr></tbody></table>
+<table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Static World </td></tr><tr><td><b>中文名称</b></td><td>静止世界</td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2011-12-15</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="./魂纸(MiraGevot).md" class="mw-redirect" title="魂纸(MiraGevot)">魂纸(MiraGevot)</a> <br> <a href="./Odoriin.md" title="Odoriin" unred="">踊音(Odoriin)</a> </td></tr><tr><td><b>地区</b></td><td>中国大陆</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="https://weibo.com/u/2246753633">https://weibo.com/u/2246753633</a> 微博<br><a rel="nofollow" class="external free" href="http://blog.sina.com.cn/u/2246753633">http://blog.sina.com.cn/u/2246753633</a><br><a rel="nofollow" class="external free" href="https://space.bilibili.com/371385">https://space.bilibili.com/371385</a> bilibili（主催）</td></tr></tbody></table>
 
 Static World（同人社团，同人音乐社团） - Static World ，于 2011 年成立，主要制作 同人音乐 的中国大陆同人社团，主催是 魂纸(MiraGevot)，踊音(Odoriin)，当前状态为 活动
+
 ## 成员名单
 主催
 : [魂纸](./魂纸.md)(MiraGevot)
@@ -28,17 +31,18 @@ Static World（同人社团，同人音乐社团） - Static World ，于 2011 �
 : [魂纸](./魂纸.md)(MiraGevot)  
 御法野见 (未找到链接)
 歌手
-: 踊音 (未找到链接)(Odoriin)  
+: [踊音](./踊音.md)(Odoriin)  
 Kimi (未找到链接)(Retsugo)  
 古冥空 (未找到链接)
 歌词
-: 凤尾P (未找到链接)
+: [凤尾P](./凤尾P.md)
 画师
 : 狼 (未找到链接)  
 六仔 (未找到链接)
 设计
 : 绫洛纷菲 (未找到链接)  
 六仔 (未找到链接)
+
 
 ## 作品列表
 [](./夢憶霊音.md)[夢憶霊音](./夢憶霊音.md)首发日期：2012-08-04 （上海ComiCon11 (未找到链接)）SWCD-001全长 （一般向）[](./蜃-mirage-.md)[蜃-mirage-](./蜃-mirage-.md)首发日期：2014-01-01 （A.D.S.L本土动漫创作作品展14 (未找到链接)）SWCD-002全长 （一般向）[](./镜水澄音.md)[镜水澄音](./镜水澄音.md)首发日期：2016-04-30 （YACA48 (未找到链接)）SWCD-004全长 （一般向）[](./Reflection（Static_World）.md)[Reflection](./Reflection（Static_World）.md)首发日期：2016-12-03 （COMICUP19 (未找到链接)）SWCD-005全长 （一般向）[](./月溯莲台.md)[月溯莲台](./月溯莲台.md)首发日期：2017-05-30 （博丽仲夏祭 (未找到链接)）SWCD-006全长 （一般向）[](./末紀天穹.md)[末紀天穹](./末紀天穹.md)首发日期：2017-12-30 （广州萤火虫动漫游戏嘉年华17 (未找到链接)）SWCD-007全长 （一般向）[](./幻跡蜃星.md)[幻跡蜃星](./幻跡蜃星.md)首发日期：2018-07-14 （Tongren World18 (未找到链接)）SWCD-002全长 （一般向）本专辑为 [蜃-mirage-](./蜃-mirage-.md) 的重置版[](./朱落秋乡.md)[朱落秋乡](./朱落秋乡.md)首发日期：2018-12-15 （COMICUP23 (未找到链接)）SWCD-009全长 （一般向）[](./Merry_Ring.md)[Merry Ring](./Merry_Ring.md)首发日期：2018-12-15 （COMICUP23 (未找到链接)）SWCD-010全长 （一般向）[](./东方桨灯影_会场限定无料CD.md)[东方桨灯影 会场限定无料CD](./东方桨灯影_会场限定无料CD.md)首发日期：2018-12-31 （南京THO-東方槳灯影 (未找到链接)）SWCD-SP1活动纪念 （一般向）该作品是与 南京THO组委会 (未找到链接) 合作创作的[](./心庭荧彩.md)[心庭荧彩](./心庭荧彩.md)首发日期：2019-07-18 （广州萤火虫动漫游戏嘉年华22 (未找到链接)）SWCD-011全长 （一般向）[](./東方覚夢境会场限定CD.md)[東方覚夢境会场限定CD](./東方覚夢境会场限定CD.md)首发日期：2019-07-20 （鄭州THO-東方覚夢境 (未找到链接)）SWCD-SP2活动纪念 （一般向）该作品是与 [郑州THO组委会](./郑州THO组委会.md) 合作创作的[](./Dream_Diary.md)[Dream Diary](./Dream_Diary.md)首发日期：2019-12-21 （COMICUP25 (未找到链接)）SWCD-012全长 （一般向）[](./鸣凤月谣.md)[鸣凤月谣](./鸣凤月谣.md)首发日期：2020-12-26 （南京THO-金陵幻梦行 (未找到链接)）SWCD-014全长 （一般向）[](./Angel_Bell.md)[Angel Bell](./Angel_Bell.md)首发日期：2021-08-28 SWCD-015全长 （一般向）[](./月临寐乡.md)[月临寐乡](./月临寐乡.md)首发日期：2022-07-02 SWCD-016全长 （一般向）[](./黄昏街景.md)[黄昏街景](./黄昏街景.md)首发日期：2023-01-19 EP （一般向）[](./Static_World_会場限定CD.md)[Static World 会場限定CD](./Static_World_会場限定CD.md)首发日期：2023-05-07 （第二十回 博麗神社例大祭 (未找到链接)）EP （一般向）[](./秋光流萤.md)[秋光流萤](./秋光流萤.md)首发日期：2023-10-01 SWCD-017全长 （一般向）
@@ -80,6 +84,7 @@ Kimi (未找到链接)(Retsugo)
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 社团参展情况

@@ -4,7 +4,8 @@
 
 Starlight Garden ，主要制作 同人音乐 的日本同人社团，主催是 蒼原響，当前状态为 休止
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -20,22 +21,27 @@ Starlight Garden ，主要制作 同人音乐 的日本同人社团，主催是 
 
 
 
+
 ## 社团信息
 文件:Starlight Gardenbanner.jpg (未找到链接)  banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Starlight Garden </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>主催</b></td><td> <a href="./蒼原響.md" title="蒼原響">蒼原響</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://kuronowish.com/~blue-meadow">http://kuronowish.com/~blue-meadow</a> <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><small>（<a rel="nofollow" class="external text" href="https://web.archive.org/web/20161110130652/http://www.kuronowish.com/~blue-meadow/">缓存页面</a>）</small></td></tr></tbody></table>
 
 Starlight Garden（同人社团，同人音乐社团） - Starlight Garden ，主要制作 同人音乐 的日本同人社团，主催是 蒼原響，当前状态为 休止
+
 ## 成员名单
 - [蒼原響](./蒼原響.md)
 
+
 ## 作品列表
+
 ### 同人专辑
 [](./Scarlet_House.md)[Scarlet House](./Scarlet_House.md)首发日期：2008-11-02 （東方紅楼夢4 (未找到链接)）SGCD-0001全长 （一般向）[](./Toho_Starlight_Club.md)[Toho Starlight Club](./Toho_Starlight_Club.md)首发日期：2013-12-30 （Comic Market 85 (未找到链接)）SGCD-0002全长 （一般向）
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 参展信息

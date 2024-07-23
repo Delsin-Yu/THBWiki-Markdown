@@ -6,16 +6,20 @@
 
 本页是关于东方Project  
  **二次同人创作者** 的词条
+
 ## 基本信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="label"><b>名称</b></td><td> Blue Twinkle </td></tr><tr><td class="label"><b>真实名</b></td><td>沢倉麗</td></tr><tr><td class="label"><b>所属社团</b></td><td><b>当前</b><div style="margin-left:2em;"><a href="./CC＊=Style.md" title="CC＊=Style" unred="">CC*=Style</a></div></td></tr><tr><td class="label"><b>职位</b></td><td>编曲</td></tr><tr><td class="label"><b>参与社团</b></td><td><a href="./Amateras_Records.md" title="Amateras Records">Amateras Records</a> （编曲）<br><a href="./CC＊=Style.md" title="CC＊=Style">CC＊=Style</a> （编曲）<br><a href="./Halozy.md" title="Halozy">Halozy</a> （编曲）<br><a href="./SunLight_Records.md" title="SunLight Records">SunLight Records</a> （编曲）<br><a href="./signum／ii.md" title="signum／ii">signum／ii</a> （编曲）<br><a href="./音召缶.md" title="音召缶">音召缶</a> （编曲）</td></tr><tr><td class="label"><b>性别</b></td><td>男</td></tr><tr><td class="label"><b>生日</b></td><td>1990-9-26（33岁）</td></tr><tr><td class="label"><b>个人页面</b></td><td><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><b>Twitter</b></td><td><a rel="nofollow" class="external free" href="https://twitter.com/Blue_Twinkle">https://twitter.com/Blue_Twinkle</a></td></tr><tr><td><b>Facebook</b></td><td><a rel="nofollow" class="external free" href="https://www.facebook.com/twinkle.blue.58">https://www.facebook.com/twinkle.blue.58</a></td></tr><tr><td><b>Niconico</b></td><td><a rel="nofollow" class="external free" href="https://www.nicovideo.jp/user/4845661">https://www.nicovideo.jp/user/4845661</a></td></tr></tbody></table></td></tr></tbody></table>
 
 Blue Twinkle（人物） - 现实人物
+
 ## 介绍
+
 ## 参与曲目
   
 模板:人物曲目列表 (未找到链接)
   
+
 
 ## 人际关系
 

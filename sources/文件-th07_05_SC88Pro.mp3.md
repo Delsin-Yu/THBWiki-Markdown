@@ -4,6 +4,7 @@
 
 东方妖妖梦 | 凋叶棕（withered_leaf）
 
+
 ## 文件说明
   
 ティアオイエツォン(withered leaf) 东方妖妖梦2面Boss橙的主题曲MIDI版。由Roland Sound Canvas 88Pro实机录制；MP3采样率44.1KHz，码率192Kbps。  

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人视频 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-東方アールグレイラジオ_Vol.4封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/4/45/%E6%9D%B1%E6%96%B9%E3%82%A2%E3%83%BC%E3%83%AB%E3%82%B0%E3%83%AC%E3%82%A4%E3%83%A9%E3%82%B8%E3%82%AA_Vol.4%E5%B0%81%E9%9D%A2.jpg/123px-%E6%9D%B1%E6%96%B9%E3%82%A2%E3%83%BC%E3%83%AB%E3%82%B0%E3%83%AC%E3%82%A4%E3%83%A9%E3%82%B8%E3%82%AA_Vol.4%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="123" height="168" srcset="https://upload.thwiki.cc/thumb/4/45/%E6%9D%B1%E6%96%B9%E3%82%A2%E3%83%BC%E3%83%AB%E3%82%B0%E3%83%AC%E3%82%A4%E3%83%A9%E3%82%B8%E3%82%AA_Vol.4%E5%B0%81%E9%9D%A2.jpg/185px-%E6%9D%B1%E6%96%B9%E3%82%A2%E3%83%BC%E3%83%AB%E3%82%B0%E3%83%AC%E3%82%A4%E3%83%A9%E3%82%B8%E3%82%AA_Vol.4%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/4/45/%E6%9D%B1%E6%96%B9%E3%82%A2%E3%83%BC%E3%83%AB%E3%82%B0%E3%83%AC%E3%82%A4%E3%83%A9%E3%82%B8%E3%82%AA_Vol.4%E5%B0%81%E9%9D%A2.jpg/247px-%E6%9D%B1%E6%96%B9%E3%82%A2%E3%83%BC%E3%83%AB%E3%82%B0%E3%83%AC%E3%82%A4%E3%83%A9%E3%82%B8%E3%82%AA_Vol.4%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="662" data-file-height="900"></a><div class="cover-char">角色：<a href="./射命丸文.md" title="射命丸文">射命丸文</a>，<a href="./河城荷取.md" title="河城荷取">河城荷取</a>，<a href="./八云紫.md" title="八云紫">八云紫</a></div></td>
@@ -18,12 +19,14 @@
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=32577">蜜瓜</a>，<a rel="nofollow" class="external text" href="http://www.dlsite.com/home/work/=/product_id/RJ219004.html">DLsite</a></td></tr></tbody></table>
 
 
+
 ## Staff
 声优
 : 藤村歩 (未找到链接)
 : 神田理江 (未找到链接)
 イラスト
 : juno
+
 
 ## 评论
 

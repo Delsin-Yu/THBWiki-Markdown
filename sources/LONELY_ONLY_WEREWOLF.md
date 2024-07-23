@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-LONELY_ONLY_WEREWOLF封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/a/ad/LONELY_ONLY_WEREWOLF%E5%B0%81%E9%9D%A2.jpg/224px-LONELY_ONLY_WEREWOLF%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="224" srcset="https://upload.thwiki.cc/thumb/a/ad/LONELY_ONLY_WEREWOLF%E5%B0%81%E9%9D%A2.jpg/336px-LONELY_ONLY_WEREWOLF%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/a/ad/LONELY_ONLY_WEREWOLF%E5%B0%81%E9%9D%A2.jpg/448px-LONELY_ONLY_WEREWOLF%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="800" data-file-height="800"></a><div class="cover-char">角色：<a href="./今泉影狼.md" title="今泉影狼">今泉影狼</a></div></td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://sekken.sakura.ne.jp/works/36low/">http://sekken.sakura.ne.jp/works/36low/</a></td></tr><tr><td class="label">备注</td><td colspan="2">hellnian手焼きCD</td></tr></tbody></table>
 
 LONELY ONLY WEREWOLF（同人专辑，石鹸屋，2015） - 2015年5月10日 由 石鹸屋 于 博丽神社例大祭12 发布的单曲同人专辑，分级为 一般向
+
 ## Staff
   
  **Arrangement**   
@@ -28,9 +30,11 @@ Graphic
 Special thanks
 : 鷹（人物），ぴずや，あきやまうに，秀三，いのはん，ムッシュ☆ミドルソン
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="LONELY_ONLY_WEREWOLF" colspan="2" class="title">LONELY ONLY WEREWOLF<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=hellnian&amp;ogmusic=孤独なウェアウルフ&amp;fromwiki=LONELY_ONLY_WEREWOLF"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./hellnian.md" title="hellnian">hellnian</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，hellnian，&amp;fromwiki=LONELY_ONLY_WEREWOLF"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=孤独なウェアウルフ&amp;fromwiki=LONELY_ONLY_WEREWOLF"><span></span></a></span><div class="ogmusic"><a href="/%E5%AD%A4%E7%8B%AC%E3%81%AA%E3%82%A6%E3%82%A7%E3%82%A2%E3%82%A6%E3%83%AB%E3%83%95" class="mw-redirect" title="孤独なウェアウルフ">孤独なウェアウルフ</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E8%BE%89%E9%92%88%E5%9F%8E_%EF%BD%9E_Double_Dealing_Character." class="mw-redirect" title="东方辉针城 ～ Double Dealing Character.">东方辉针城　～ Double Dealing Character.</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="LONELY_ONLY_WEREWOLF" colspan="2" class="title">LONELY ONLY WEREWOLF<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=hellnian&amp;ogmusic=孤独なウェアウルフ&amp;fromwiki=LONELY_ONLY_WEREWOLF"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./hellnian.md" title="hellnian">hellnian</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，hellnian，&amp;fromwiki=LONELY_ONLY_WEREWOLF"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=孤独なウェアウルフ&amp;fromwiki=LONELY_ONLY_WEREWOLF"><span></span></a></span><div class="ogmusic"><a href="./孤独なウェアウルフ.md" class="mw-redirect" title="孤独なウェアウルフ">孤独なウェアウルフ</a></div><div class="source"><a href="./东方辉针城_～_Double_Dealing_Character..md" class="mw-redirect" title="东方辉针城 ～ Double Dealing Character.">东方辉针城　～ Double Dealing Character.</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

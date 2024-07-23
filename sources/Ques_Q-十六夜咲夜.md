@@ -6,11 +6,13 @@
 
 本页是关于东方Project  
  **相关实体周边 (未找到链接)** 的词条
+
 ## 模型信息
 
 <table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 十六夜咲夜 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>无</td></tr><tr><td class="label">角色</td><td><a href="/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C" title="十六夜咲夜">十六夜咲夜</a></td></tr><tr><td class="label">原型师</td><td><a href="/index.php?title=%E5%B2%A9%E6%9C%AC_%E3%82%B8%E3%82%A7%E3%82%A4%E3%83%A0%E3%82%BA&amp;action=edit&amp;redlink=1" class="new" title="岩本 ジェイムズ（页面不存在）">岩本 ジェイムズ</a></td></tr><tr><td class="label">比例</td><td>1/8</td></tr><tr><td class="label">尺寸</td><td>200mm</td></tr><tr><td class="label">状态</td><td>已发售</td></tr><tr><td class="label">售价</td><td>7600日元</td></tr><tr><td class="label">首发日期</td><td>2011-11-27</td></tr><tr><td class="label">发售方</td><td><a href="/index.php?title=Ques_Q&amp;action=edit&amp;redlink=1" class="new" title="Ques Q（页面不存在）">Ques Q</a></td></tr><tr><td class="label">再版日期</td><td>2013-03</td></tr></tbody></table>
 
 Ques Q/十六夜咲夜（周边） - 十六夜咲夜PVCFigure手办模型
+
 ## 参考图片
 
 

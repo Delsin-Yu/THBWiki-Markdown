@@ -23,6 +23,7 @@
 </center>
 - 本词条内容为官方游戏TH07 **东方妖妖梦** 的敌机符卡
 
+
 ## 目录
 
 - [1 八云蓝](#八云蓝)
@@ -118,6 +119,7 @@
 
 
 # 八云蓝
+
 ## No.129
 
 <table>
@@ -136,6 +138,7 @@
 </th></tr></tbody></table>
 
 
+
 ### 符卡信息
 
 <table>
@@ -147,6 +150,7 @@
 <p>Phantasm面道中BOSS八云蓝符卡。
 </p>
 </td></tr></tbody></table>
+
 
 
 
@@ -168,6 +172,7 @@
 </th></tr></tbody></table>
 
 
+
 ### 符卡信息
 
 <table>
@@ -183,6 +188,7 @@
 
 
 # 八云紫
+
 ## No.131
 
 <table>
@@ -201,6 +207,7 @@
 </th></tr></tbody></table>
 
 
+
 ### 符卡信息
 
 <table>
@@ -212,6 +219,7 @@
 <p>Phantasm面BOSS八云紫符卡。
 </p>
 </td></tr></tbody></table>
+
 
 
 
@@ -233,6 +241,7 @@
 </th></tr></tbody></table>
 
 
+
 ### 符卡信息
 
 <table>
@@ -244,6 +253,7 @@
 <p>Phantasm面BOSS八云紫符卡。
 </p>
 </td></tr></tbody></table>
+
 
 
 
@@ -265,6 +275,7 @@
 </th></tr></tbody></table>
 
 
+
 ### 符卡信息
 
 <table>
@@ -276,6 +287,7 @@
 <p>Phantasm面BOSS八云紫符卡。
 </p>
 </td></tr></tbody></table>
+
 
 
 
@@ -297,6 +309,7 @@
 </th></tr></tbody></table>
 
 
+
 ### 符卡信息
 
 <table>
@@ -308,6 +321,7 @@
 <p>Phantasm面BOSS八云紫符卡。
 </p>
 </td></tr></tbody></table>
+
 
 
 
@@ -329,6 +343,7 @@
 </th></tr></tbody></table>
 
 
+
 ### 符卡信息
 
 <table>
@@ -340,6 +355,7 @@
 <p>Phantasm面BOSS八云紫符卡。
 </p>
 </td></tr></tbody></table>
+
 
 
 
@@ -361,6 +377,7 @@
 </th></tr></tbody></table>
 
 
+
 ### 符卡信息
 
 <table>
@@ -372,6 +389,7 @@
 <p>Phantasm面BOSS八云紫符卡。
 </p>
 </td></tr></tbody></table>
+
 
 
 
@@ -393,6 +411,7 @@
 </th></tr></tbody></table>
 
 
+
 ### 符卡信息
 
 <table>
@@ -404,6 +423,7 @@
 <p>Phantasm面BOSS八云紫符卡。
 </p>
 </td></tr></tbody></table>
+
 
 
 
@@ -425,6 +445,7 @@
 </th></tr></tbody></table>
 
 
+
 ### 符卡信息
 
 <table>
@@ -436,6 +457,7 @@
 <p>Phantasm面BOSS八云紫符卡。
 </p>
 </td></tr></tbody></table>
+
 
 
 
@@ -457,6 +479,7 @@
 </th></tr></tbody></table>
 
 
+
 ### 符卡信息
 
 <table>
@@ -468,6 +491,7 @@
 <p>Phantasm面BOSS八云紫符卡。
 </p>
 </td></tr></tbody></table>
+
 
 
 
@@ -489,6 +513,7 @@
 </th></tr></tbody></table>
 
 
+
 ### 符卡信息
 
 <table>
@@ -500,6 +525,7 @@
 <p>Phantasm面BOSS八云紫符卡。
 </p>
 </td></tr></tbody></table>
+
 
 
 
@@ -519,6 +545,7 @@
 <p><a href="./弹幕结界.md" title="弹幕结界" unred="">紫奥义「弹幕结界」</a>
 </p>
 </th></tr></tbody></table>
+
 
 
 ### 符卡信息

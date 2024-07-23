@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -45,11 +46,13 @@
 
 
 
+
 ## 基本信息
 
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">U.N.オーエンは彼女なのか？</td></tr><tr><td><b>译名</b></td><td>U.N.OWEN就是她吗？</td></tr><tr><td><b>英文译名</b></td><td>U.N. Owen Was Her?</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 U.N.OWEN就是她吗？（曲目） - 由 ZUN 创作的官方曲目，原名 U.N.オーエンは彼女なのか？
+
 ## 出现作品
 
 <table>
@@ -61,8 +64,11 @@ U.N.OWEN就是她吗？（曲目） - 由 ZUN 创作的官方曲目，原名 U.N
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 东方红魔乡
+
 #### WAV
   
 WAV版是游戏的原声带。
@@ -77,6 +83,7 @@ WAV版是游戏的原声带。
 </td></tr></tbody></table>
 
 
+
 #### MIDI
   
 MIDI版由Roland Sound Canvas 88Pro实机录音得到。
@@ -86,14 +93,17 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td><a href="./文件-th06_15.mid.md" title="文件:th06 15.mid">th06_15.mid</a></td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th06_15_SC88Pro.mp3.md" title="文件:th06 15 SC88Pro.mp3">th06_15_SC88Pro.mp3</a><br><audio src="https://upload.thwiki.cc/b/b7/th06_15_SC88Pro.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>th06_15.mid</td></tr><tr><td><b>音轨时长</b></td><td>2:03</td></tr></tbody></table>
 
 
+
 ### 蓬莱人形
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-hr01_11.mp3.md" title="文件:hr01 11.mp3">hr01_11.mp3</a><br><audio src="https://upload.thwiki.cc/5/5a/hr01_11.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track11.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>4:47</td></tr></tbody></table>
 
 
+
 ### 贪欲之兽的音乐
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-TFM-010b_05.mp3.md" title="文件:TFM-010b 05.mp3">TFM-010b_05.mp3</a><br><audio src="https://upload.thwiki.cc/e/e1/TFM-010b_05.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track05.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>4:32</td></tr></tbody></table>
+
 
 
 ### 东方弹幕神乐：失落幻想 数字原声集
@@ -104,7 +114,9 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-U.N._Owen_Was_Hero-.mp3.md" title="文件:U.N. Owen Was Hero?.mp3">U.N. Owen Was Hero?.mp3</a><br><audio src="https://upload.thwiki.cc/0/04/U.N._Owen_Was_Hero%3F.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>U.N. Owen Was Hero?.mp3</td></tr><tr><td><b>音轨时长</b></td><td>2:52</td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 东方红魔乡
 - Music Room (未找到链接)
 
@@ -121,14 +133,18 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
 　　至于为什么要把欧文这个名字写成罗马字母呢，  
 　　那是为了让玩家对芙兰朵露有种「她到底是谁」的印象。  
 　　芙兰朵露的第9张符卡，也是那个的戏仿。[^cite_note-1]
+
 ### 东方文花帖（书籍）
 - 幻想的音觉 (未找到链接)
 
 （『[东方红魔乡](./东方红魔乡.md)』／『[蓬莱人形](./蓬莱人形.md)』收录曲）　　东方红魔乡是东方作品的第六部。不过，无论从哪个角度来看红魔乡都算是出道作了。于是我想出道作就不能突然做出出人意料的事情吗，结果，我想到“东方这个标题会让人想到东洋风的东西吧，那么第一作就不做成东洋风吧”。这首曲子也是成果之一。  
 　　听了这首曲子会变得很不安。是带着个人感情的幻觉吧，是不知何处不安定的音乐循环往复的轻快旋律。这就是这首曲子的意图不明的不适感。  
 　　偶尔作一首这样的曲子也不错吧。就是和现在的漫不经心的幻想乡的人们不合是个问题呢。
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
   
  **U.N.オーエンは彼女なのか？**  U.N.OWEN就是她吗？
@@ -136,7 +152,7 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
 
 - U.N.オーエン（U.N.Owen）
   - U·N·欧文。阿加莎·克里斯蒂的推理小说《无人生还》中犯人所使用的假名。读起来像英语词“Unknown”（未知的）。
-    - 这本小说的标题也出现在芙兰朵露的符卡秘弹「之后就一个人都没有了吗？」 (未找到链接)。
+    - 这本小说的标题也出现在芙兰朵露的符卡[秘弹「之后就一个人都没有了吗？」](./秘弹「之后就一个人都没有了吗？」.md)。
 
   - 可能指《[蓬莱人形](./蓬莱人形.md)》C62版的[附带故事](./蓬莱人形C62版-附带故事.md)中的犯人？
     - 该故事与《无人生还》很相似。
@@ -147,6 +163,7 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
   - 引起骚动的芙兰朵露。
   - 《蓬莱人形》C62版故事中的「头发金黄的巫女」。
     - 该曲是《蓬莱人形》第11轨，其对应的片段中提到了这位出现在正直者面前的巫女。
+
 
 
 

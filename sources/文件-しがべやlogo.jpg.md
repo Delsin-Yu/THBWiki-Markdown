@@ -4,6 +4,7 @@
 
 しがべや | 社团LOGO
 
+
 ## 文件说明
   
 源地址：[direct image link (original size)](https://i1.sndcdn.com/avatars-000320349620-zlbupi-original.jpg), [source page](https://soundcloud.com/naquaji)

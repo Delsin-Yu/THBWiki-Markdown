@@ -4,7 +4,8 @@
 
 Dark Sky Empire ，于 2018 年成立，主要制作 同人游戏 的中国大陆同人社团，主催是 飞越无尽暗空，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -19,12 +20,15 @@ Dark Sky Empire ，于 2018 年成立，主要制作 同人游戏 的中国大�
 
 
 
+
 ## 社团信息
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Dark Sky Empire </td></tr><tr><td><b>中文名称</b></td><td>黑暗天空帝国</td></tr><tr><td><b>主要作品类型</b></td><td>同人游戏</td></tr><tr><td><b>成立时间</b></td><td>2018</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="./飞越无尽暗空.md" title="飞越无尽暗空">飞越无尽暗空</a> </td></tr><tr><td><b>地区</b></td><td>中国大陆</td></tr></tbody></table>
 
 Dark Sky Empire（同人社团，同人游戏社团） - Dark Sky Empire ，于 2018 年成立，主要制作 同人游戏 的中国大陆同人社团，主催是 飞越无尽暗空，当前状态为 活动
+
 ## 作品列表
+
 ### 同人游戏
 [](./Little_Marisa's_Disaster_Journey.md)[Little Marisa's Disaster Journey](./Little_Marisa's_Disaster_Journey.md)首发日期：2018-04-29 ACT （一般向）[](./Rumia_in_the_darkness.md)[Rumia in the darkness](./Rumia_in_the_darkness.md)首发日期：2019-08-01 RPG （一般向）[](./Marisa's_Inconceivable_Journey.md)[Marisa's Inconceivable Journey](./Marisa's_Inconceivable_Journey.md)首发日期：2022-06-04 RPG （一般向）
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -33,6 +37,7 @@ Dark Sky Empire（同人社团，同人游戏社团） - Dark Sky Empire ，于 
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 其他信息

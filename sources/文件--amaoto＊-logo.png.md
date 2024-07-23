@@ -4,6 +4,7 @@
 
 -amaoto＊- | 社团LOGO
 
+
 ## 摘要
   
 源地址：[direct image link](https://64.media.tumblr.com/ea3b31205aa6451573266c24142f16ac/tumblr_nvvknxmfX91uhjyzjo1_1280.png), [source page](https://amaotohistory.tumblr.com/)

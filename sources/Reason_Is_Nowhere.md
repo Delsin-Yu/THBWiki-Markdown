@@ -4,7 +4,8 @@
 
 Reason Is Nowhere ，主要制作 同人音乐 的日本同人社团，主催是 A.S-Leaf，当前状态为 休止
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -21,18 +22,22 @@ Reason Is Nowhere ，主要制作 同人音乐 的日本同人社团，主催是
 
 
 
+
 ## 社团信息
 文件:Reason Is Nowherebanner.jpg (未找到链接)  banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Reason Is Nowhere </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=A.S-Leaf&amp;action=edit&amp;redlink=1" class="new" title="A.S-Leaf（页面不存在）">A.S-Leaf</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://autumn4s2leaf8.web.fc2.com/">http://autumn4s2leaf8.web.fc2.com/</a> <br><a rel="nofollow" class="external free" href="http://autumn4s2leaf8.blog.fc2.com/">http://autumn4s2leaf8.blog.fc2.com/</a> （blog）</td></tr></tbody></table>
 
 Reason Is Nowhere（同人社团，同人音乐社团） - Reason Is Nowhere ，主要制作 同人音乐 的日本同人社团，主催是 A.S-Leaf，当前状态为 休止
+
 ## 成员名单
 - A.S-Leaf (未找到链接)
   - [Twitter：@aki_sizukan](https://twitter.com/aki_sizukan)，[SoundCloud](https://soundcloud.com/autumn4s2leaf8)
 
 
+
 ## 作品列表
+
 ### 同人专辑
 [](./Window_of_Winds.md)[Window of Winds](./Window_of_Winds.md)首发日期：2013-10-13 （東方紅楼夢9 (未找到链接)）RIN-0001全长 （一般向）[](./destrUctioN_＜=＞_resurrectiON.md)[destrUctioN ＜=＞ resurrectiON](./destrUctioN_＜=＞_resurrectiON.md)首发日期：2013-12-30 （Comic Market 85 (未找到链接)）合作、​全长 （一般向）该作品是与 [ガネメ](./ガネメ.md) 合作创作的[](./MANTLE_MELTDOWN.md)[MANTLE MELTDOWN](./MANTLE_MELTDOWN.md)首发日期：2014-02-23 （幻想郷サミット2 (未找到链接)）RIN-0002全长 （一般向）[](./Fate_of_Two_～Lost～.md)[Fate of Two ～Lost～](./Fate_of_Two_～Lost～.md)首发日期：2014-05-11 （第十一回 博麗神社例大祭 (未找到链接)）RIN-0003全长 （一般向）[](./Peaceful_Phosphorus.md)[Peaceful Phosphorus](./Peaceful_Phosphorus.md)首发日期：2014-10-12 （東方紅楼夢10 (未找到链接)）全长、​合作 （一般向）[](./Sphere_of_Spirit.md)[Sphere of Spirit](./Sphere_of_Spirit.md)首发日期：2014-12-29 （Comic Market 87 (未找到链接)）RIN-0004全长 （一般向）散写燦妖物語 封面图片 (未找到链接)[散写燦妖物語](./散写燦妖物語.md)首发日期：2015-05-10 （第十二回 博麗神社例大祭 (未找到链接)）EP （一般向）
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -51,9 +56,11 @@ Reason Is Nowhere（同人社团，同人音乐社团） - Reason Is Nowhere ，
 </table>
 
 
+
 ## 参展信息
 
 <table><tbody><tr><th class="活动页面">活动页面</th><th class="活动名称">活动名称</th><th class="日期">日期</th><th class="举办地点">举办地点</th><th class="摊位编号">摊位编号</th><th class="宣传页面">宣传页面</th><th class="备注">备注</th></tr><tr data-row-number="1" class="row-odd"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E4%B8%9C%E6%96%B9%E7%BA%A2%E6%A5%BC%E6%A2%A6#10" title="东方红楼梦">东方红楼梦#10</a></span></td><td class="活动名称 smwtype_txt">東方紅楼夢10</td><td class="日期 smwtype_dat" data-sort-value="2456942.5">2014-10-12</td><td class="举办地点 smwtype_txt">大阪国际展览中心 4号馆・6号馆B区</td><td class="摊位编号 smwtype_txt">う-3b</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr><tr data-row-number="2" class="row-even"><td class="活动页面 smwtype_wpg"><span class="smw-subobject-entity"><a href="/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD#11" title="博丽神社例大祭">博丽神社例大祭#11</a></span></td><td class="活动名称 smwtype_txt">第十一回 博麗神社例大祭</td><td class="日期 smwtype_dat" data-sort-value="2456788.5">2014-05-11</td><td class="举办地点 smwtype_txt">东京Big Sight 东123456展厅</td><td class="摊位编号 smwtype_txt">い23a</td><td class="宣传页面 smwtype_lin"></td><td class="备注 smwtype_txt"></td></tr></tbody></table>
+
 
 
 ## 其他信息

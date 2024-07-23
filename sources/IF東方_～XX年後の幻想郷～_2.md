@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-IF東方_～XX年後の幻想郷～_2封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/1/1c/IF%E6%9D%B1%E6%96%B9_%EF%BD%9EXX%E5%B9%B4%E5%BE%8C%E3%81%AE%E5%B9%BB%E6%83%B3%E9%83%B7%EF%BD%9E_2%E5%B0%81%E9%9D%A2.png/160px-IF%E6%9D%B1%E6%96%B9_%EF%BD%9EXX%E5%B9%B4%E5%BE%8C%E3%81%AE%E5%B9%BB%E6%83%B3%E9%83%B7%EF%BD%9E_2%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="160" height="224" srcset="https://upload.thwiki.cc/thumb/1/1c/IF%E6%9D%B1%E6%96%B9_%EF%BD%9EXX%E5%B9%B4%E5%BE%8C%E3%81%AE%E5%B9%BB%E6%83%B3%E9%83%B7%EF%BD%9E_2%E5%B0%81%E9%9D%A2.png/240px-IF%E6%9D%B1%E6%96%B9_%EF%BD%9EXX%E5%B9%B4%E5%BE%8C%E3%81%AE%E5%B9%BB%E6%83%B3%E9%83%B7%EF%BD%9E_2%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/1/1c/IF%E6%9D%B1%E6%96%B9_%EF%BD%9EXX%E5%B9%B4%E5%BE%8C%E3%81%AE%E5%B9%BB%E6%83%B3%E9%83%B7%EF%BD%9E_2%E5%B0%81%E9%9D%A2.png/320px-IF%E6%9D%B1%E6%96%B9_%EF%BD%9EXX%E5%B9%B4%E5%BE%8C%E3%81%AE%E5%B9%BB%E6%83%B3%E9%83%B7%EF%BD%9E_2%E5%B0%81%E9%9D%A2.png 2x" data-file-width="800" data-file-height="1119"></a><div class="cover-char">角色：<a href="/index.php?title=%E5%8E%9F%E5%88%9B%E8%A7%92%E8%89%B2&amp;action=edit&amp;redlink=1" class="new" title="原创角色（页面不存在）">原创角色</a>，<a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a>，<a href="./红美铃.md" title="红美铃">红美铃</a>，<a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a>，<a href="./帕秋莉·诺蕾姬.md" title="帕秋莉·诺蕾姬">帕秋莉·诺蕾姬</a>，<a href="./小恶魔.md" title="小恶魔">小恶魔</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://yuzumomo-jam.blogspot.com/p/if.html">http://yuzumomo-jam.blogspot.com/p/if.html</a></td></tr></tbody></table>
 
 IF東方 ～XX年後の幻想郷～ 2（同人志，柚子桃ジャム，2010） - 2010年10月11日 由 柚子桃ジャム 于 东方红楼梦6 发布的漫画同人志，B5尺寸一共30页，登场人物有 原创角色、芙兰朵露·斯卡蕾特、蕾米莉亚·斯卡蕾特、帕秋莉·诺蕾姬、小恶魔、红美铃、十六夜咲夜，分级为 一般向
+
 ## Staff
 - 柚子桃 (未找到链接)
+
 
 ## 评论
 ```

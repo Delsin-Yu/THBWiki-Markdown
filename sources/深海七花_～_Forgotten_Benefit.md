@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **东方风自作曲** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -28,11 +29,13 @@
 
 
 
+
 ## 基本信息
 
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">深海七花　～ Forgotten Benefit</td></tr><tr><td><b>译名</b></td><td>深海七花 ～ Forgotten Benefit</td></tr><tr><td><b>作曲</b></td><td><a href="./黑羽.md" title="黑羽" unred="">黒羽</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 深海七花 ～ Forgotten Benefit（曲目） - 由 黒羽 创作的东方风自作曲，原名 深海七花　～ Forgotten Benefit
+
 ## 出现作品
 
 <table>
@@ -41,8 +44,11 @@
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ## 说明文本
+
 ### 东方海惠堂
 - Music Room (未找到链接)
 
@@ -69,8 +75,11 @@ Seven Flowers of the Deep Sea ~ Forgotten Benefit
 ＊关于这首曲子，这里是唯一一个可以喊「最终Boss啦！！！」的地方，因此根据这个写了首有些暴走感觉的曲子。据此反复尝试了不少曲子构想……有时候会看着无声的游戏画面，十分苦恼到底该怎么办，这么一首曲子。大概是所有曲子里最让我烦恼的曲子第二名了。
   
 
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
 
 

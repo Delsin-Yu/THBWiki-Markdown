@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-UMA×UMA封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/d/d4/UMA%C3%97UMA%E5%B0%81%E9%9D%A2.jpg/119px-UMA%C3%97UMA%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="119" height="168" srcset="https://upload.thwiki.cc/thumb/d/d4/UMA%C3%97UMA%E5%B0%81%E9%9D%A2.jpg/178px-UMA%C3%97UMA%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/d/d4/UMA%C3%97UMA%E5%B0%81%E9%9D%A2.jpg/237px-UMA%C3%97UMA%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1060" data-file-height="1500"></a><div class="cover-char">角色：<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a>，<a href="./爱丽丝·玛格特洛依德.md" title="爱丽丝·玛格特洛依德">爱丽丝·玛格特洛依德</a></div></td>
@@ -13,9 +14,12 @@
 </tr><tr><td class="label">首发日期</td><td>2008-03-02&#160;（<a href="/展会作品列表?e=%E4%BA%BA%E5%81%B6%E4%BD%BF%E7%9A%84Tea+Party%231">人形遣いのTea Party 1</a>）</td></tr><tr><td class="label">类型</td><td>漫画</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>B5</td></tr><tr><td class="label">页数</td><td>24P</td></tr></tbody></table>
 
 UMA×UMA（同人志，犬と下僕の会，2008） - 2008年3月2日 由 犬と下僕の会 于 人偶使的Tea Party 1 发布的漫画同人志，B5尺寸一共24页，分级为 一般向
+
 ## 预览
+
 ## Staff
 - [二ノ宮ルリ](./二ノ宫ルリ.md)
+
 
 ## 评论
 

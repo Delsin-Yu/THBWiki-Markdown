@@ -4,6 +4,7 @@
 
 石読工房 | 社团LOGO
 
+
 ## 文件说明
   
 源地址：[direct image link](http://ishiyomi.main.jp/wp/wp-content/uploads/logoai.png), [source page](http://ishiyomi.main.jp/)

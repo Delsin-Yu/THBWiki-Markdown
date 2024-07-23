@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-PLAY_ME封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/c/c6/PLAY_ME%E5%B0%81%E9%9D%A2.jpg/137px-PLAY_ME%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="137" height="196" srcset="https://upload.thwiki.cc/thumb/c/c6/PLAY_ME%E5%B0%81%E9%9D%A2.jpg/206px-PLAY_ME%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/c/c6/PLAY_ME%E5%B0%81%E9%9D%A2.jpg/275px-PLAY_ME%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1060" data-file-height="1510"></a><div class="cover-char">角色：<a href="./东风谷早苗.md" title="东风谷早苗">东风谷早苗</a></div></td>
@@ -13,8 +14,10 @@
 </tr><tr><td class="label">首发日期</td><td>2009-08-15&#160;（<a href="/展会作品列表?e=Comic+Market%2376">Comic Market 76</a>）</td></tr><tr><td class="label">类型</td><td>漫画</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">尺寸</td><td>B5</td></tr><tr><td class="label">页数</td><td>16P</td></tr><tr><td class="label">售价</td><td>免费</td></tr></tbody></table>
 
 PLAY ME（同人志，ふあん亭，2009） - 2009年8月15日 由 ふあん亭 于 Comic Market 76 发布的漫画同人志，B5尺寸一共16页，分级为 一般向
+
 ## Staff
-- フラリ通る (未找到链接)
+- [フラリ通る](./フラリ通る.md)
+
 
 ## 评论
 

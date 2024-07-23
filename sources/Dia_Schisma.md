@@ -4,7 +4,8 @@
 
 Dia Schisma ，于 2014 年成立，主要制作 同人音乐 的中国大陆同人社团，主催是 Avin，曾以 HOMURA·TITOR，HOMURA·TITOR Project，HT同音社 名义活动，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -20,11 +21,13 @@ Dia Schisma ，于 2014 年成立，主要制作 同人音乐 的中国大陆同
 
 
 
+
 ## 社团信息
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Dia Schisma </td></tr><tr><td><b>曾用名称</b></td><td> HOMURA·TITOR，HOMURA·TITOR Project，HT同音社 </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2014-3-1</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=Avin&amp;action=edit&amp;redlink=1" class="new" title="Avin（页面不存在）">Avin</a> </td></tr><tr><td><b>地区</b></td><td>中国大陆</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="https://music.163.com/#/artist?id=12128212">https://music.163.com/#/artist?id=12128212</a> <br><a rel="nofollow" class="external free" href="http://doujin.bgm.tv/club/homuratitor">http://doujin.bgm.tv/club/homuratitor</a></td></tr></tbody></table>
 
 Dia Schisma（同人社团，同人音乐社团） - Dia Schisma ，于 2014 年成立，主要制作 同人音乐 的中国大陆同人社团，主催是 Avin，曾以 HOMURA·TITOR，HOMURA·TITOR Project，HT同音社 名义活动，当前状态为 活动
+
 ## 成员名单
 - Avin (未找到链接)&#160;: 主催、音乐
 
@@ -33,7 +36,9 @@ Dia Schisma（同人社团，同人音乐社团） - Dia Schisma ，于 2014 年
 - 仓颉 (未找到链接)&#160;: 画师
 - Mariko (未找到链接)&#160;: 画师
 
+
 ## 作品列表
+
 ### 同人专辑
 [](./The_Orient~东方旧梦.md)[The Orient~东方旧梦](./The_Orient~东方旧梦.md)首发日期：2013-10-01 全长 （一般向）[](./The_Rare_Emotions~幻想眾神創世經.md)[The Rare Emotions~幻想眾神創世經](./The_Rare_Emotions~幻想眾神創世經.md)首发日期：2014-07-10 全长 （一般向）该专辑包含 2 张CD以 **HOMURA·TITOR** 名义发布[](./The_Price_of_Peace~东方以和为贵.md)[The Price of Peace~东方以和为贵](./The_Price_of_Peace~东方以和为贵.md)首发日期：2020-05-02 全长 （一般向）[](./Ghost_In_the_Fabled_Shell.md)[Ghost In the Fabled Shell](./Ghost_In_the_Fabled_Shell.md)首发日期：2022-08-10 单曲 （一般向）蓬莱人形20周年纪念
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -44,6 +49,7 @@ Dia Schisma（同人社团，同人音乐社团） - Dia Schisma ，于 2014 年
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 其他信息

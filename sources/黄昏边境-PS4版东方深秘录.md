@@ -9,6 +9,7 @@
 
   
 
+
 ## 目录
 
 - [1 介绍](#介绍)
@@ -16,6 +17,7 @@
 - [3 内容](#内容)
 - [4 注释](#注释)
 - [5 词条导航](#词条导航)
+
 
 
 
@@ -31,6 +33,7 @@
   
 社团黄昏边境的 **PS4版[东方深秘录](./东方深秘录.md)** 官方网站。
   
+
 
 ## 导航
 
@@ -66,10 +69,12 @@
 </td></tr></tbody></table>
 
 
+
 ## 内容
 [](./文件-东方深秘录（PS4）coverB.jpg.md)
 
 <table><tbody><tr class="tt-content-header" id="内容-1" data-pos="&#91;&quot;\u5185\u5bb9&quot;,1&#93;"><td class="tt-jah" lang="ja"><div class="poem">都市伝説は終わらない──東方の決闘は地に足つかず。</div></td><td class="tt-zhh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-content" id="内容-2" data-pos="&#91;&quot;\u5185\u5bb9&quot;,2&#93;"><td class="tt-ja" lang="ja"><div class="poem">人気同人ゲーム「東方Project」シリーズから、空中を舞台に繰り広げられる異色の対戦ゲーム「東方深秘録」の移植が実現！<br>人間と妖怪の共存する「幻想郷」に突如、都市伝説の噂が現実になるという異常事態が発生。<br>異変と共に現れたオカルトボールと思惑をめぐって、華麗なアクションが、弾幕が、スペルカードがぶつかり合う、オカルトボール争奪戦が繰り広げられる！<br>パソコン版から新たなキャラとストーリーも加わり、さらにパワーアップした空中弾幕対戦アクションをPlayStation®4で堪能しよう！</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr></tbody></table>
+
 
 
 

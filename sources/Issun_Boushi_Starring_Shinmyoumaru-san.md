@@ -6,12 +6,14 @@
 
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 软件信息](#软件信息)
 - [2 Staff](#Staff)
 - [3 内容页面](#内容页面)
 - [4 评论](#评论)
+
 
 
 
@@ -36,17 +38,20 @@ Issun Boushi Starring Shinmyoumaru-san（同人游戏，Shpuld，2020） - 2020�
 </tbody></table>
 
 
+
 ## Staff
 Visuals, Code, Level design
 : Shp （[itch.io: shp](https://shp.itch.io/)）
 Audio, Music, Level design
 : Leonovsky （[itch.io: leonovsky](https://leonovsky.itch.io/)）
 
+
 ## 内容页面
 - 游戏设定与剧情 (未找到链接)
 - 攻略 (未找到链接)
 - 其他信息 (未找到链接)
 - 原声集：[Beats by Touhou](./Beats_by_Touhou.md)
+
 
 ## 评论
 

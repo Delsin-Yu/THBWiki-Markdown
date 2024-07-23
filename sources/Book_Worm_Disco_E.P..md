@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Book_Worm_Disco_E.P.封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/8/81/Book_Worm_Disco_E.P.%E5%B0%81%E9%9D%A2.jpg/168px-Book_Worm_Disco_E.P.%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="168" height="168" srcset="https://upload.thwiki.cc/thumb/8/81/Book_Worm_Disco_E.P.%E5%B0%81%E9%9D%A2.jpg/252px-Book_Worm_Disco_E.P.%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/8/81/Book_Worm_Disco_E.P.%E5%B0%81%E9%9D%A2.jpg/336px-Book_Worm_Disco_E.P.%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="384" data-file-height="384"></a><div class="cover-char">角色：<a href="./帕秋莉·诺蕾姬.md" title="帕秋莉·诺蕾姬">帕秋莉·诺蕾姬</a></div></td>
@@ -14,20 +15,24 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://midicondria.6.ql.bz/">http://midicondria.6.ql.bz/</a></td></tr></tbody></table>
 
 Book Worm Disco E.P.（同人专辑，Midicondria，2011） - 2011年9月11日 由 Midicondria 于 博丽神社例大祭SP2 发布的同人专辑，分级为 一般向
+
 ## Staff
 Design
 : 设计师 （[网址 社团]）
 Illustration
 : 画师 （[网址 社团]）
 
+
 ## 试听
   
 暂不支援此类型
   
 
+
 ## 曲目列表
 
 <table></table>
+
 
 
 ## 评论

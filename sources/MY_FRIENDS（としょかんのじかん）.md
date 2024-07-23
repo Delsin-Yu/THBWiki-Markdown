@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-MY_FRIENDS（としょかんのじかん）封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/7/78/MY_FRIENDS%EF%BC%88%E3%81%A8%E3%81%97%E3%82%87%E3%81%8B%E3%82%93%E3%81%AE%E3%81%98%E3%81%8B%E3%82%93%EF%BC%89%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="141" height="196" data-file-width="138" data-file-height="192"></a><div class="cover-char">角色：<a href="./米斯蒂娅·萝蕾拉.md" title="米斯蒂娅·萝蕾拉">米斯蒂娅·萝蕾拉</a>，<a href="./露米娅.md" title="露米娅">露米娅</a>，<a href="./琪露诺.md" title="琪露诺">琪露诺</a>，<a href="./灵乌路空.md" title="灵乌路空">灵乌路空</a>，<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></div></td>
@@ -14,7 +15,9 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://alibrarytime.web.fc2.com/myfriends.html">http://alibrarytime.web.fc2.com/myfriends.html</a></td></tr></tbody></table>
 
 MY FRIENDS（同人志，としょかんのじかん，2010） - 2010年8月14日 由 としょかんのじかん 于 Comic Market 78 发布的小说同人志，一共100页，登场人物有 米斯蒂娅·萝蕾拉、露米娅、琪露诺、灵乌路空、博丽灵梦，分级为 一般向
+
 ## Staff
+
 ## 评论
 
 

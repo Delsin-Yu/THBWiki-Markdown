@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-CHECK!!!CHECK!!!CHECK!!!封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/c/c5/CHECK%21%21%21CHECK%21%21%21CHECK%21%21%21%E5%B0%81%E9%9D%A2.jpg/160px-CHECK%21%21%21CHECK%21%21%21CHECK%21%21%21%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="160" height="224" srcset="https://upload.thwiki.cc/thumb/c/c5/CHECK%21%21%21CHECK%21%21%21CHECK%21%21%21%E5%B0%81%E9%9D%A2.jpg/240px-CHECK%21%21%21CHECK%21%21%21CHECK%21%21%21%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/c/c5/CHECK%21%21%21CHECK%21%21%21CHECK%21%21%21%E5%B0%81%E9%9D%A2.jpg/320px-CHECK%21%21%21CHECK%21%21%21CHECK%21%21%21%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="647" data-file-height="906"></a><div class="cover-char">角色：<a href="./秦心.md" title="秦心">秦心</a>，<a href="./风见幽香.md" title="风见幽香">风见幽香</a>，<a href="./八云紫.md" title="八云紫">八云紫</a></div></td>
@@ -14,9 +15,12 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://kujiratoikkakujyu.blog.fc2.com/blog-entry-14.html">http://kujiratoikkakujyu.blog.fc2.com/blog-entry-14.html</a><br><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/40563442">https://www.pixiv.net/artworks/40563442</a></td></tr></tbody></table>
 
 CHECK!!!CHECK!!!CHECK!!!（同人志，遊星，2013） - 2013年12月30日 由 遊星 于 Comic Market 85 发布的漫画同人志，B5尺寸一共16页，登场人物有 秦心、风见幽香、八云紫，分级为 一般向
+
 ## 预览
+
 ## Staff
 - 雷汰* (未找到链接)
+
 
 ## 评论
 

@@ -23,6 +23,7 @@
 </center>
 - 本词条内容为官方游戏TH15 **东方绀珠传** 的敌机符卡
 
+
 ## 目录
 
 - [1 纯狐](#纯狐)
@@ -95,6 +96,7 @@
 
 
 # 纯狐
+
 ## 「掌上的纯光」
 
 <table>
@@ -111,6 +113,7 @@
 <p><a href="./掌上的纯光.md" title="掌上的纯光" unred="">「掌上的纯光」</a>
 </p>
 </th></tr></tbody></table>
+
 
 
 ### 符卡信息
@@ -137,6 +140,7 @@
 </td></tr></tbody></table>
 
 
+
 ## 「杀意的百合」
 
 <table>
@@ -155,6 +159,7 @@
 </th></tr></tbody></table>
 
 
+
 ### 符卡信息
 
 <table>
@@ -166,6 +171,7 @@
 <p>6面BOSS纯狐Easy / Normal / Hard / Lunatic难度符卡。
 </p>
 </td></tr></tbody></table>
+
 
 
 
@@ -187,6 +193,7 @@
 </th></tr></tbody></table>
 
 
+
 ### 符卡信息
 
 <table>
@@ -198,6 +205,7 @@
 <p>6面BOSS纯狐Easy / Normal难度符卡。
 </p>
 </td></tr></tbody></table>
+
 
 
 
@@ -219,6 +227,7 @@
 </th></tr></tbody></table>
 
 
+
 ### 符卡信息
 
 <table>
@@ -230,6 +239,7 @@
 <p>6面BOSS纯狐Hard / Lunatic难度符卡。
 </p>
 </td></tr></tbody></table>
+
 
 
 
@@ -251,6 +261,7 @@
 </th></tr></tbody></table>
 
 
+
 ### 符卡信息
 
 <table>
@@ -262,6 +273,7 @@
 <p>6面BOSS纯狐Easy / Normal / Hard / Lunatic难度符卡。
 </p>
 </td></tr></tbody></table>
+
 
 
 
@@ -283,6 +295,7 @@
 </th></tr></tbody></table>
 
 
+
 ### 符卡信息
 
 <table>
@@ -294,6 +307,7 @@
 <p>6面BOSS纯狐Easy / Normal / Hard / Lunatic难度符卡。
 </p>
 </td></tr></tbody></table>
+
 
 
 
@@ -315,6 +329,7 @@
 </th></tr></tbody></table>
 
 
+
 ### 符卡信息
 
 <table>
@@ -326,6 +341,7 @@
 <p>6面BOSS纯狐Easy / Normal / Hard难度符卡。
 </p>
 </td></tr></tbody></table>
+
 
 
 
@@ -347,6 +363,7 @@
 </th></tr></tbody></table>
 
 
+
 ### 符卡信息
 
 <table>
@@ -358,6 +375,7 @@
 <p>6面BOSS纯狐Lunatic难度符卡。
 </p>
 </td></tr></tbody></table>
+
 
 
 
@@ -377,6 +395,7 @@
 <p><a href="./Purely_Bullet_Hell.md" title="Purely Bullet Hell" unred="">纯符「Purely Bullet Hell」</a>
 </p>
 </th></tr></tbody></table>
+
 
 
 ### 符卡信息
@@ -410,6 +429,7 @@
 
 
 
+
 ## 纯符「纯粹的弹幕地狱」
 
 <table>
@@ -426,6 +446,7 @@
 <p><a href="./Purely_Bullet_Hell.md" title="Purely Bullet Hell" unred="">纯符「纯粹的弹幕地狱」</a>
 </p>
 </th></tr></tbody></table>
+
 
 
 ### 符卡信息

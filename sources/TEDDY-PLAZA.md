@@ -4,7 +4,8 @@
 
 TEDDY-PLAZA ，于 2007 年成立，主要制作 同人志 的日本同人社团，主催是 瀬尾辰也，当前状态为 转入非东方
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -20,16 +21,20 @@ TEDDY-PLAZA ，于 2007 年成立，主要制作 同人志 的日本同人社团
 
 
 
+
 ## 社团信息
 文件:TEDDY-PLAZAbanner.jpg (未找到链接)  banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> TEDDY-PLAZA </td></tr><tr><td><b>主要作品类型</b></td><td>同人志</td></tr><tr><td><b>成立时间</b></td><td>2007</td></tr><tr><td><b>当前状态</b></td><td>转入非东方</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=%E7%80%AC%E5%B0%BE%E8%BE%B0%E4%B9%9F&amp;action=edit&amp;redlink=1" class="new" title="瀬尾辰也（页面不存在）">瀬尾辰也</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://teddy-plaza.sakura.ne.jp/">http://teddy-plaza.sakura.ne.jp/</a> <br><a rel="nofollow" class="external free" href="http://theodore.ikebukuro.cc">http://theodore.ikebukuro.cc</a> <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span></td></tr></tbody></table>
 
 TEDDY-PLAZA（同人社团，同人志社团） - TEDDY-PLAZA ，于 2007 年成立，主要制作 同人志 的日本同人社团，主催是 瀬尾辰也，当前状态为 转入非东方
+
 ## 成员名单
 - 瀬尾辰也 (未找到链接)
 
+
 ## 作品列表
+
 ### 同人志
 Less is bore 封面图片 (未找到链接)Less is bore (未找到链接)首发日期：未知 - FROM SKYSCRAPER 封面图片 (未找到链接)FROM SKYSCRAPER (未找到链接)首发日期：未知 - COLLATERAL JUNKIE 封面图片 (未找到链接)COLLATERAL JUNKIE (未找到链接)首发日期：未知 - Davy Crockett 封面图片 (未找到链接)Davy Crockett (未找到链接)首发日期：未知 - [](./Maple_Leaf.md)[Maple Leaf](./Maple_Leaf.md)首发日期：2007-12-31 （Comic Market 73 (未找到链接)）漫画 （一般向） 54&#160;页Urarakani 封面图片 (未找到链接)Urarakani (未找到链接)首发日期：未知 - 第九の黙示録 封面图片 (未找到链接)第九の黙示録 (未找到链接)首发日期：未知 - [](./THE_TENKOMORI.md)[THE TENKOMORI](./THE_TENKOMORI.md)首发日期：2008-08-16 （Comic Market 74 (未找到链接)）漫画 （一般向） 60&#160;页悠久摩天楼 封面图片 (未找到链接)悠久摩天楼 (未找到链接)首发日期：未知 - Fantastic Summervacation 封面图片 (未找到链接)Fantastic Summervacation (未找到链接)首发日期：未知 - 紅魔館 封面图片 (未找到链接)紅魔館（同人志） (未找到链接)首发日期：未知 - COLLATERAL JUNKIE 2 封面图片 (未找到链接)COLLATERAL JUNKIE 2 (未找到链接)首发日期：未知 - 天スマス 封面图片 (未找到链接)天スマス (未找到链接)首发日期：未知 - TEDDY-PLAZA総集編 -射命丸文の最後の報告書- 封面图片 (未找到链接)TEDDY-PLAZA総集編 -射命丸文の最後の報告書- (未找到链接)首发日期：未知 - YUKATEN DAYS ゆかてんな日々 封面图片 (未找到链接)YUKATEN DAYS ゆかてんな日々 (未找到链接)首发日期：未知 - ユメだけどユメじゃなかった 封面图片 (未找到链接)ユメだけどユメじゃなかった (未找到链接)首发日期：未知 - 人里 part0 封面图片 (未找到链接)人里 part0 (未找到链接)首发日期：未知 - テンコトピア TENKOTOPIA 封面图片 (未找到链接)テンコトピア TENKOTOPIA (未找到链接)首发日期：未知 - 気に入った ウチに来て家をファックしていいぞ 封面图片 (未找到链接)気に入った ウチに来て家をファックしていいぞ (未找到链接)首发日期：未知 - 稗田阿求の憂鬱 封面图片 (未找到链接)稗田阿求の憂鬱 (未找到链接)首发日期：未知 - テンコトピア TENKOTOPIA 前 封面图片 (未找到链接)テンコトピア TENKOTOPIA 前 (未找到链接)首发日期：未知 - THE TENKOTOPIA テンコトピア 夏 封面图片 (未找到链接)THE TENKOTOPIA テンコトピア 夏 (未找到链接)首发日期：未知 - 犬走椛をもう一度 封面图片 (未找到链接)犬走椛をもう一度 (未找到链接)首发日期：未知 - 犬走椛をもう一度2 封面图片 (未找到链接)犬走椛をもう一度2 (未找到链接)首发日期：未知 - TFC BUSTERS 封面图片 (未找到链接)TFC BUSTERS (未找到链接)首发日期：未知 - 射命丸教授の比率的愛情 封面图片 (未找到链接)射命丸教授の比率的愛情 (未找到链接)首发日期：未知 - 
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -60,6 +65,7 @@ Less is bore 封面图片 (未找到链接)Less is bore (未找到链接)首发�
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458"></table>
+
 
 
 ## 参展信息

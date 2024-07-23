@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 软件信息](#软件信息)
@@ -19,6 +20,7 @@
 
 
 
+
 ## 软件信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-東方命雨滴_～_Unification_of_the_Artful_Rain.封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/f/f0/%E6%9D%B1%E6%96%B9%E5%91%BD%E9%9B%A8%E6%BB%B4_%EF%BD%9E_Unification_of_the_Artful_Rain.%E5%B0%81%E9%9D%A2.png/224px-%E6%9D%B1%E6%96%B9%E5%91%BD%E9%9B%A8%E6%BB%B4_%EF%BD%9E_Unification_of_the_Artful_Rain.%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="224" height="168" srcset="https://upload.thwiki.cc/thumb/f/f0/%E6%9D%B1%E6%96%B9%E5%91%BD%E9%9B%A8%E6%BB%B4_%EF%BD%9E_Unification_of_the_Artful_Rain.%E5%B0%81%E9%9D%A2.png/336px-%E6%9D%B1%E6%96%B9%E5%91%BD%E9%9B%A8%E6%BB%B4_%EF%BD%9E_Unification_of_the_Artful_Rain.%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/f/f0/%E6%9D%B1%E6%96%B9%E5%91%BD%E9%9B%A8%E6%BB%B4_%EF%BD%9E_Unification_of_the_Artful_Rain.%E5%B0%81%E9%9D%A2.png/448px-%E6%9D%B1%E6%96%B9%E5%91%BD%E9%9B%A8%E6%BB%B4_%EF%BD%9E_Unification_of_the_Artful_Rain.%E5%B0%81%E9%9D%A2.png 2x" data-file-width="640" data-file-height="480"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></div></td>
@@ -27,11 +29,14 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://teamaltend.blog.fc2.com/">http://teamaltend.blog.fc2.com/</a></td></tr></tbody></table>
 
 東方命雨滴 ～ Unification of the Artful Rain.（同人游戏，Τeam αlternative Σnding，2018） - 2018年7月8日 由 Τeam αlternative Σnding  发布的STG同人游戏，可在 Windows 系统上运行，游戏人数为 单人模式，分级为 一般向
+
 ## Staff
+
 ## 作品介绍
 - 本作为欧美东方爱好者制作的东方二次同人STG。
 - 本作目前已发布了体验版。
 - 本作原为东方风自作曲集[东方幻想降雨](./东方幻想降雨.md)（[youtube](https://www.youtube.com/playlist?list=PLTM_Nwv7Z_HTAIpyQND5zBk_CqUBu78ui)，[bilibili](https://www.bilibili.com/video/av26816588/?p=1)），后据此创作出了游戏。
+
 
 ## 内容页面
 - [游戏设定与剧情](./東方命雨滴_～_Unification_of_the_Artful_Rain.-设定与剧情.md)
@@ -41,7 +46,9 @@
 - [音乐](./東方命雨滴_～_Unification_of_the_Artful_Rain.-音乐.md)
 - 其他相关资料 (未找到链接)
 
+
 ## 评论
+
 ## 下载
   
 请注意：  
@@ -58,6 +65,7 @@
 <tr>
 <td><a rel="nofollow" class="external text" href="https://pan.baidu.com/s/1LETXSaKSPItpjyn7IWS7Cg">体验版密码:aq9d</a><br><a rel="nofollow" class="external text" href="http://www.bulletforge.org/u/akakyu/p/dong-fang-ming-yu-di-unification-of-the-artful-rain">bulletforge</a>
 </td></tr></tbody></table>
+
 
 
 ## 词条导航

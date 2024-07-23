@@ -6,6 +6,7 @@
 
 本页是关于  
 与ZUN有一定关联的非东方作品 (未找到链接)的词条
+
 ## 目录
 
 - [1 概述](#概述)
@@ -34,10 +35,10 @@
 
 
 
+
 ## 概述
   
-<big> **Torte Le Magic**   
-</big>
+<big> **Torte Le Magic** </big>
 Torte Le Magic<small>（トルテルマジック）</small>  
 
 本作是 **[ぴえとろ](#ぴえとろ)** 制作的习作类纵版卷轴弹幕游戏。取材自近藤るるる的漫画《天降托蒂！》（天からトルテ！）。  
@@ -84,12 +85,15 @@ Torte Le Magic（官方游戏） - 与ZUN有一定关联的非东方同人游戏
 </tbody></table>
 
 
+
 ## ぴえとろ
   
 ぴえとろ是一个游戏社团，主催是小川久。仅制作了唯一一款游戏Torte Le Magic。
   
 
+
 ## 游戏系统
+
 ## 剧情与对话
 - 故事背景 (未找到链接)
 - [游戏对话与结局](./游戏对话-Torte_Le_Magic.md)
@@ -101,10 +105,13 @@ Torte Le Magic（官方游戏） - 与ZUN有一定关联的非东方同人游戏
 具体的故事背景与游戏剧情请参照上面的词条或到游戏中亲自体验。
   
 
+
 ## 角色
+
 ### 自机
 
 <table><tbody><tr><td><div class="center"><div class="floatnone"><a href="./文件-托蒂（TLM标题立绘）.png.md" class="image" title="托蒂"><img alt="托蒂" src="https://upload.thwiki.cc/thumb/7/70/%E6%89%98%E8%92%82%EF%BC%88TLM%E6%A0%87%E9%A2%98%E7%AB%8B%E7%BB%98%EF%BC%89.png/40px-%E6%89%98%E8%92%82%EF%BC%88TLM%E6%A0%87%E9%A2%98%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="40" height="35" srcset="https://upload.thwiki.cc/thumb/7/70/%E6%89%98%E8%92%82%EF%BC%88TLM%E6%A0%87%E9%A2%98%E7%AB%8B%E7%BB%98%EF%BC%89.png/60px-%E6%89%98%E8%92%82%EF%BC%88TLM%E6%A0%87%E9%A2%98%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/7/70/%E6%89%98%E8%92%82%EF%BC%88TLM%E6%A0%87%E9%A2%98%E7%AB%8B%E7%BB%98%EF%BC%89.png/80px-%E6%89%98%E8%92%82%EF%BC%88TLM%E6%A0%87%E9%A2%98%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="361" data-file-height="314"></a></div></div></td> <td style="width:150px;padding:3px 9px 3px 7px;"><a href="./托蒂.md" title="托蒂">托蒂</a></td></tr></tbody></table>
+
 
 
 ### BOSS
@@ -113,19 +120,25 @@ Torte Le Magic（官方游戏） - 与ZUN有一定关联的非东方同人游戏
 <tr><td rowspan="1" class="bg-color-info-10" style="min-width:100px"><b>一面BOSS</b><br><i><a href="./Sacred_Battle.md" title="Sacred Battle">Sacred Battle</a></i></td><td style="min-width:35px" rowspan="1"><div class="center"><div class="floatnone"><a href="./文件-君度（TLM立绘）.png.md" class="image"><img alt="君度（TLM立绘）.png" src="https://upload.thwiki.cc/thumb/d/df/%E5%90%9B%E5%BA%A6%EF%BC%88TLM%E7%AB%8B%E7%BB%98%EF%BC%89.png/32px-%E5%90%9B%E5%BA%A6%EF%BC%88TLM%E7%AB%8B%E7%BB%98%EF%BC%89.png" decoding="async" loading="lazy" width="32" height="40" srcset="https://upload.thwiki.cc/thumb/d/df/%E5%90%9B%E5%BA%A6%EF%BC%88TLM%E7%AB%8B%E7%BB%98%EF%BC%89.png/48px-%E5%90%9B%E5%BA%A6%EF%BC%88TLM%E7%AB%8B%E7%BB%98%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/d/df/%E5%90%9B%E5%BA%A6%EF%BC%88TLM%E7%AB%8B%E7%BB%98%EF%BC%89.png/64px-%E5%90%9B%E5%BA%A6%EF%BC%88TLM%E7%AB%8B%E7%BB%98%EF%BC%89.png 2x" data-file-width="164" data-file-height="205"></a></div></div></td>  <td style="width:150px;padding:3px 9px 3px 7px;" colspan="2" rowspan="1"> <a href="./君度.md" title="君度">君度</a> </td></tr></tbody></table>
 
 
+
 ## 附带文档
 - [tmgc100+](./附带文档-Torte_Le_Magic-tmgc100+.md)
 
+
 ## 其他资料
+
 ### 音乐
 - [Music](./Torte_Le_Magic-Music.md)
+
 
 ### 其他
 - [其他相关资料](./Torte_Le_Magic-其他.md)
 - 游戏攻略 (未找到链接)
 
+
 ## 外部链接
 - [ぴえとろ 官方网站](http://isweb1.infoseek.co.jp/)  **失效** 
+
 
 ## 下载
   
@@ -142,6 +155,7 @@ Torte Le Magic（官方游戏） - 与ZUN有一定关联的非东方同人游戏
 <tr>
 <td><a rel="nofollow" class="external text" href="https://wwwy.lanzoum.com/iEcVO0r5iq1i/">蓝奏云下载链接</a>
 </td></tr></tbody></table>
+
 
 
 ## 词条导航

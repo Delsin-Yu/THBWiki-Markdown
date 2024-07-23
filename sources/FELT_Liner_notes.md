@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-FELT_Liner_notes封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/3/3f/FELT_Liner_notes%E5%B0%81%E9%9D%A2.jpg/159px-FELT_Liner_notes%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="159" height="224" srcset="https://upload.thwiki.cc/thumb/3/3f/FELT_Liner_notes%E5%B0%81%E9%9D%A2.jpg/239px-FELT_Liner_notes%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/3/3f/FELT_Liner_notes%E5%B0%81%E9%9D%A2.jpg/318px-FELT_Liner_notes%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="711" data-file-height="1000"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></div></td>
@@ -18,8 +19,10 @@ FELT Liner notes（同人志，FELT，2021） - 2021年12月31日 由 FELT 于 C
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=1173436">蜜瓜</a>，<a rel="nofollow" class="external text" href="https://ec.toranoana.jp/tora_r/ec/item/040030955128">虎穴</a>，<a rel="nofollow" class="external text" href="http://www.akibaoo.com/c/item/2500020510575/">Akibaoo</a>，<a rel="nofollow" class="external text" href="https://shop.akbh.jp/products/2100000126514">AkibaHOBBY</a>，<a rel="nofollow" class="external text" href="https://www.grep-tsuhan.net/?pid=168447288">Grep（新）</a></td></tr></tbody></table>
 
 
+
 ## 预览
 - [](./文件-FELT_Liner_notes预览图1.jpg.md)
+
 
 ## Staff
   
@@ -55,6 +58,7 @@ tokey [Web Coding]
   
 AO [Illustrations &amp; Graphic Designed]
   
+
 
 ## 评论
 

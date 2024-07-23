@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-ALFA_and_OMEGA封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/8/85/ALFA_and_OMEGA%E5%B0%81%E9%9D%A2.jpg/158px-ALFA_and_OMEGA%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="158" height="224" srcset="https://upload.thwiki.cc/thumb/8/85/ALFA_and_OMEGA%E5%B0%81%E9%9D%A2.jpg/238px-ALFA_and_OMEGA%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/8/85/ALFA_and_OMEGA%E5%B0%81%E9%9D%A2.jpg/317px-ALFA_and_OMEGA%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="906" data-file-height="1280"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>，<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a>，<a href="./伊吹萃香.md" title="伊吹萃香">伊吹萃香</a>，<a href="./爱丽丝·玛格特洛依德.md" title="爱丽丝·玛格特洛依德">爱丽丝·玛格特洛依德</a>，<a href="./西行寺幽幽子.md" title="西行寺幽幽子">西行寺幽幽子</a>，<a href="./森近霖之助.md" title="森近霖之助">森近霖之助</a></div></td>
@@ -18,10 +19,12 @@ ALFA and OMEGA（同人志，DEMOUR402，2006） - 2006年12月31日 由 DEMOUR4
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://ec.toranoana.jp/tora_r/ec/item/040010113796">虎穴</a></td></tr></tbody></table>
 
 
+
 ## Staff
   
 ツヤダシシュウジ
   
+
 
 ## 评论
 

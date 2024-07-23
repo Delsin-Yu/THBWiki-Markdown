@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-To方LOVEる封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/2/26/To%E6%96%B9LOVE%E3%82%8B%E5%B0%81%E9%9D%A2.jpg/117px-To%E6%96%B9LOVE%E3%82%8B%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="117" height="168" srcset="https://upload.thwiki.cc/thumb/2/26/To%E6%96%B9LOVE%E3%82%8B%E5%B0%81%E9%9D%A2.jpg/176px-To%E6%96%B9LOVE%E3%82%8B%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/2/26/To%E6%96%B9LOVE%E3%82%8B%E5%B0%81%E9%9D%A2.jpg/234px-To%E6%96%B9LOVE%E3%82%8B%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="268" data-file-height="384"></a><div class="cover-char">角色：<a href="./铃仙·优昙华院·因幡.md" title="铃仙·优昙华院·因幡">铃仙·优昙华院·因幡</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://www.ykp2.com/">http://www.ykp2.com/</a><br><span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span></td></tr></tbody></table>
 
 To方LOVEる（同人志，pixel phantom，2010） - 2010年3月14日 由 pixel phantom 于 博丽神社例大祭7 发布的漫画同人志，一共44页，分级为 一般向
+
 ## Staff
 - [榎宮祐](./榎宮祐.md)
+
 
 ## 评论
 

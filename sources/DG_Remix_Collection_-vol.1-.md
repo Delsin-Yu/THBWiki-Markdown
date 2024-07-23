@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-DG_Remix_Collection_-vol.1-封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/a/aa/DG_Remix_Collection_-vol.1-%E5%B0%81%E9%9D%A2.jpg/196px-DG_Remix_Collection_-vol.1-%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="196" height="173" srcset="https://upload.thwiki.cc/thumb/a/aa/DG_Remix_Collection_-vol.1-%E5%B0%81%E9%9D%A2.jpg/294px-DG_Remix_Collection_-vol.1-%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/a/aa/DG_Remix_Collection_-vol.1-%E5%B0%81%E9%9D%A2.jpg/392px-DG_Remix_Collection_-vol.1-%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1608" data-file-height="1418"></a><div class="cover-char">角色：<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a></div></td>
@@ -14,20 +15,24 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://dimensionsgate.com/16-1">https://dimensionsgate.com/16-1</a></td></tr></tbody></table>
 
 DG Remix Collection -vol.1-（同人专辑，Dimension's Gate，2020） - 2020年10月18日 由 Dimension's Gate 于 博丽神社秋季例大祭7 发布的全长/混音集同人专辑，分级为 一般向
+
 ## Staff
 Design
 : 设计师 （[网址 社团]）
 Illustration
 : 画师 （[网址 社团]）
 
+
 ## 试听
   
 暂不支援此类型
   
 
+
 ## 曲目列表
 
 <table></table>
+
 
 
 ## 评论

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-弓弦羽NOTE_4封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/5/56/%E5%BC%93%E5%BC%A6%E7%BE%BDNOTE_4%E5%B0%81%E9%9D%A2.jpg/119px-%E5%BC%93%E5%BC%A6%E7%BE%BDNOTE_4%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="119" height="168" srcset="https://upload.thwiki.cc/thumb/5/56/%E5%BC%93%E5%BC%A6%E7%BE%BDNOTE_4%E5%B0%81%E9%9D%A2.jpg/179px-%E5%BC%93%E5%BC%A6%E7%BE%BDNOTE_4%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/5/56/%E5%BC%93%E5%BC%A6%E7%BE%BDNOTE_4%E5%B0%81%E9%9D%A2.jpg/238px-%E5%BC%93%E5%BC%A6%E7%BE%BDNOTE_4%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="363" data-file-height="512"></a><div class="cover-char">角色：<a href="./蕾蒂·霍瓦特洛克.md" title="蕾蒂·霍瓦特洛克">蕾蒂·霍瓦特洛克</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/o_yado/status/1090317776692998144">https://twitter.com/o_yado/status/1090317776692998144</a></td></tr></tbody></table>
 
 弓弦羽NOTE 4（同人志，弓弦羽Konzert，2019） - 2019年2月10日 由 弓弦羽Konzert 于 东方辉针祭2 发布的漫画/绘本同人志，一共20页，分级为 一般向
+
 ## Staff
 : 宿雪 (未找到链接)
+
 
 ## 评论
 

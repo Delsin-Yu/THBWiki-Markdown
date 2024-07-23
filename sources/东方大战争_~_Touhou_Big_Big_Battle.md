@@ -6,12 +6,14 @@
 
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 软件信息](#软件信息)
 - [2 概述](#概述)
 - [3 内容页面](#内容页面)
 - [4 外部链接](#外部链接)
+
 
 
 
@@ -33,6 +35,7 @@
 
 
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://store.steampowered.com/app/878380">Steam</a></td></tr></tbody></table>
+
 
 
 ## 概述
@@ -75,9 +78,11 @@
 游戏开发：MyACG Studio
   
 
+
 ## 内容页面
 - 攻略 (未找到链接)
 - 其他信息 (未找到链接)
+
 
 ## 外部链接
 

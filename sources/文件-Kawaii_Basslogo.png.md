@@ -4,6 +4,7 @@
 
 Kawaii_Bass | 社团LOGO
 
+
 ## 摘要
   
 源地址：[direct image link](https://www.kawaiibass.com/images/kb-logo-shadow.png), [source page](https://www.kawaiibass.com/)

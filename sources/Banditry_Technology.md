@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -40,11 +41,13 @@
 
 
 
+
 ## 基本信息
 
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">バンデットリィテクノロジー</td></tr><tr><td><b>译名</b></td><td>Banditry Technology</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 Banditry Technology（曲目） - 由 ZUN 创作的官方曲目，原名 バンデットリィテクノロジー
+
 ## 出现作品
 
 <table>
@@ -53,7 +56,9 @@ Banditry Technology（曲目） - 由 ZUN 创作的官方曲目，原名 バン�
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 东方虹龙洞
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th18_05.mp3.md" title="文件:th18 05.mp3">th18_05.mp3</a><br><audio src="https://upload.thwiki.cc/a/a8/th18_05.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>BGM\th18_05.wav</td></tr><tr><td><b>BGMForAll</b></td><td><div class="mw-collapsible mw-collapsed">
@@ -64,7 +69,9 @@ Banditry Technology（曲目） - 由 ZUN 创作的官方曲目，原名 バン�
 </td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 东方虹龙洞
 - Music Room (未找到链接)
 
@@ -74,8 +81,11 @@ Banditry Technology（曲目） - 由 ZUN 创作的官方曲目，原名 バン�
 　她似乎是头脑派妖怪（？），  
 　所以曲子也变成了边玩边战斗的感觉。  
 　曲子也有点怀念的感觉，非常有趣。
+
 ## 其他资料
+
 ### 乐理资讯
+
 #### 使用乐器
 - SD-90 Romantic Tp
 - SD-90 Early Ens
@@ -85,6 +95,7 @@ Banditry Technology（曲目） - 由 ZUN 创作的官方曲目，原名 バン�
 - Retrologue Compact Comp
 - The Grand 3 Yamaha C7 Player
 - Electri6ity Rickenbacker Amped
+
 
 ### 分析考据
   
@@ -100,7 +111,7 @@ Banditry Technology（曲目） - 由 ZUN 创作的官方曲目，原名 バン�
 
 - テクノロジー（Technology）
   - 技术、工艺。
-    - 设定中山童 (未找到链接)与河童掌握着先进的技术，山童尤其精于经济研究。
+    - 设定中[山童](./山童.md#山童)与河童掌握着先进的技术，山童尤其精于经济研究。
 
 
 
@@ -110,6 +121,7 @@ Banditry Technology（曲目） - 由 ZUN 创作的官方曲目，原名 バン�
 
                                     ——东方虹龙洞设定文档
 ```
+
 
 ### 二次同人数据
 

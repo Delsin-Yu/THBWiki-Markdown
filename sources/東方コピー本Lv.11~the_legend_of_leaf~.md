@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-東方コピー本Lv.11~the_legend_of_leaf~封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/4/4f/%E6%9D%B1%E6%96%B9%E3%82%B3%E3%83%94%E3%83%BC%E6%9C%ACLv.11~the_legend_of_leaf~%E5%B0%81%E9%9D%A2.jpg/100px-%E6%9D%B1%E6%96%B9%E3%82%B3%E3%83%94%E3%83%BC%E6%9C%ACLv.11~the_legend_of_leaf~%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="100" height="140" srcset="https://upload.thwiki.cc/thumb/4/4f/%E6%9D%B1%E6%96%B9%E3%82%B3%E3%83%94%E3%83%BC%E6%9C%ACLv.11~the_legend_of_leaf~%E5%B0%81%E9%9D%A2.jpg/149px-%E6%9D%B1%E6%96%B9%E3%82%B3%E3%83%94%E3%83%BC%E6%9C%ACLv.11~the_legend_of_leaf~%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/4/4f/%E6%9D%B1%E6%96%B9%E3%82%B3%E3%83%94%E3%83%BC%E6%9C%ACLv.11~the_legend_of_leaf~%E5%B0%81%E9%9D%A2.jpg/199px-%E6%9D%B1%E6%96%B9%E3%82%B3%E3%83%94%E3%83%BC%E6%9C%ACLv.11~the_legend_of_leaf~%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="855" data-file-height="1200"></a><div class="cover-char">角色：<a href="./幽谷响子.md" title="幽谷响子">幽谷响子</a>，<a href="./今泉影狼.md" title="今泉影狼">今泉影狼</a>，<a href="./赤蛮奇.md" title="赤蛮奇">赤蛮奇</a>，<a href="./若鹭姬.md" title="若鹭姬">若鹭姬</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/38515336">https://www.pixiv.net/artworks/38515336</a></td></tr></tbody></table>
 
 東方コピー本Lv.11~the legend of leaf~（同人志，落ち葉，2013） - 2013年9月22日 由 落ち葉 于 大⑨州东方祭8 发布的漫画同人志，分级为 一般向
+
 ## Staff
 - 秋乃 楓 (未找到链接)
+
 
 ## 评论
 

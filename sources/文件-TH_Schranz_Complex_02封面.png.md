@@ -11,6 +11,7 @@ C9 | 专辑封面 | 封面图片
 - [TH Schranz Complex 02](./TH_Schranz_Complex_02.md)  
 该封面包含的角色：- [博丽灵梦](./博丽灵梦.md)
 
+
 ## 文件说明
   
 源地址：[图片链接](https://f4.bcbits.com/img/a2438209339_0.jpg) [bandcamp](https://cirwo.bandcamp.com/album/th-schranz-complex-02)

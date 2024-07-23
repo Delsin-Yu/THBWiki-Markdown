@@ -6,12 +6,14 @@
 
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 软件信息](#软件信息)
 - [2 Staff](#Staff)
 - [3 内容页面](#内容页面)
 - [4 评论](#评论)
+
 
 
 
@@ -35,6 +37,7 @@ Touhou Mecha（同人游戏，Dai-Sukima Dan，2012） - 2012年4月3日 由 Dai
 </tbody></table>
 
 
+
 ## Staff
 剧本和绘图
 : Daniel Chan
@@ -48,11 +51,13 @@ Touhou Mecha（同人游戏，Dai-Sukima Dan，2012） - 2012年4月3日 由 Dai
 Blog 论坛站长
 : Sigma
 
+
 ## 内容页面
 - 游戏设定与剧情 (未找到链接)
 - 攻略 (未找到链接)
 - 其他信息 (未找到链接)
 - 原声集：[Touhou Mecha Original Soundtrack](./Touhou_Mecha_Original_Soundtrack.md)
+
 
 ## 评论
 

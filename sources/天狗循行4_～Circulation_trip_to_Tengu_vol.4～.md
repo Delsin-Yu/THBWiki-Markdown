@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-天狗循行4_～Circulation_trip_to_Tengu_vol.4～封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/7/71/%E5%A4%A9%E7%8B%97%E5%BE%AA%E8%A1%8C4_%EF%BD%9ECirculation_trip_to_Tengu_vol.4%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg/137px-%E5%A4%A9%E7%8B%97%E5%BE%AA%E8%A1%8C4_%EF%BD%9ECirculation_trip_to_Tengu_vol.4%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="137" height="196" srcset="https://upload.thwiki.cc/thumb/7/71/%E5%A4%A9%E7%8B%97%E5%BE%AA%E8%A1%8C4_%EF%BD%9ECirculation_trip_to_Tengu_vol.4%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg/206px-%E5%A4%A9%E7%8B%97%E5%BE%AA%E8%A1%8C4_%EF%BD%9ECirculation_trip_to_Tengu_vol.4%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/7/71/%E5%A4%A9%E7%8B%97%E5%BE%AA%E8%A1%8C4_%EF%BD%9ECirculation_trip_to_Tengu_vol.4%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg/274px-%E5%A4%A9%E7%8B%97%E5%BE%AA%E8%A1%8C4_%EF%BD%9ECirculation_trip_to_Tengu_vol.4%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1261" data-file-height="1800"></a></td>
@@ -14,9 +15,12 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/71503952">https://www.pixiv.net/artworks/71503952</a></td></tr></tbody></table>
 
 天狗循行4 ～Circulation trip to Tengu vol.4～（同人志，鴉天狗鉄道，2018） - 2018年11月11日 由 鴉天狗鉄道 于 文文。新闻友人集会9 发布的评论志/画集同人志，一共58页，登场人物有 射命丸文、姬海棠果，分级为 一般向
+
 ## 预览
+
 ## Staff
 - こばしゅ (未找到链接)
+
 
 ## 评论
 

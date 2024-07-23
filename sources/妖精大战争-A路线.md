@@ -6,6 +6,7 @@
 
 - 本词条内容为官方游戏TH128 **妖精大战争** 的符卡
 
+
 ## 目录
 
 - [1 A-1路线](#A-1路线)
@@ -185,8 +186,11 @@
 
 
 
+
 ## A-1路线
+
 ### Stage 1
+
 #### 月符「Lunatic Rain」
 
 <table>
@@ -200,9 +204,10 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="/%E6%9C%88%E7%AC%A6%E3%80%8CLunatic_Rain%E3%80%8D" class="mw-redirect" title="月符「Lunatic Rain」">月符「Lunatic Rain」</a>
+<p><a href="./月符「Lunatic_Rain」.md" class="mw-redirect" title="月符「Lunatic Rain」">月符「Lunatic Rain」</a>
 </p>
 </th></tr></tbody></table>
+
 
 
 ##### 符卡信息
@@ -219,6 +224,7 @@
 
 
 
+
 #### 月符「Luna Cyclone」
 
 <table>
@@ -232,9 +238,10 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="/%E6%9C%88%E7%AC%A6%E3%80%8CLuna_Cyclone%E3%80%8D" class="mw-redirect" title="月符「Luna Cyclone」">月符「Luna Cyclone」</a>
+<p><a href="./月符「Luna_Cyclone」.md" class="mw-redirect" title="月符「Luna Cyclone」">月符「Luna Cyclone」</a>
 </p>
 </th></tr></tbody></table>
+
 
 
 ##### 符卡信息
@@ -251,7 +258,9 @@
 
 
 
+
 ### Stage 2
+
 #### 流星「Petit Comet」
 
 <table>
@@ -265,9 +274,10 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="/%E6%B5%81%E6%98%9F%E3%80%8CPetit_Comet%E3%80%8D" class="mw-redirect" title="流星「Petit Comet」">流星「Petit Comet」</a>
+<p><a href="./流星「Petit_Comet」.md" class="mw-redirect" title="流星「Petit Comet」">流星「Petit Comet」</a>
 </p>
 </th></tr></tbody></table>
+
 
 
 ##### 符卡信息
@@ -284,6 +294,7 @@
 
 
 
+
 #### 星粒「Sprinkle Piece」
 
 <table>
@@ -297,9 +308,10 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="/%E6%98%9F%E7%B2%92%E3%80%8CSprinkle_Piece%E3%80%8D" class="mw-redirect" title="星粒「Sprinkle Piece」">星粒「Sprinkle Piece」</a>
+<p><a href="./星粒「Sprinkle_Piece」.md" class="mw-redirect" title="星粒「Sprinkle Piece」">星粒「Sprinkle Piece」</a>
 </p>
 </th></tr></tbody></table>
+
 
 
 ##### 符卡信息
@@ -316,6 +328,7 @@
 
 
 
+
 #### 星符「Twinkle Sapphire」
 
 <table>
@@ -329,9 +342,10 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="/%E6%98%9F%E7%AC%A6%E3%80%8CTwinkle_Sapphire%E3%80%8D" class="mw-redirect" title="星符「Twinkle Sapphire」">星符「Twinkle Sapphire」</a>
+<p><a href="./星符「Twinkle_Sapphire」.md" class="mw-redirect" title="星符「Twinkle Sapphire」">星符「Twinkle Sapphire」</a>
 </p>
 </th></tr></tbody></table>
+
 
 
 ##### 符卡信息
@@ -348,7 +362,9 @@
 
 
 
+
 ### Stage 3
+
 #### 阳光「Sunshine Blast」
 
 <table>
@@ -362,9 +378,10 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="/%E9%98%B3%E5%85%89%E3%80%8CSunshine_Blast%E3%80%8D" class="mw-redirect" title="阳光「Sunshine Blast」">阳光「Sunshine Blast」</a>
+<p><a href="./阳光「Sunshine_Blast」.md" class="mw-redirect" title="阳光「Sunshine Blast」">阳光「Sunshine Blast」</a>
 </p>
 </th></tr></tbody></table>
+
 
 
 ##### 符卡信息
@@ -381,6 +398,7 @@
 
 
 
+
 #### 光符「Rutile Flection」
 
 <table>
@@ -394,9 +412,10 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="/%E5%85%89%E7%AC%A6%E3%80%8CRutile_Flection%E3%80%8D" class="mw-redirect" title="光符「Rutile Flection」">光符「Rutile Flection」</a>
+<p><a href="./光符「Rutile_Flection」.md" class="mw-redirect" title="光符「Rutile Flection」">光符「Rutile Flection」</a>
 </p>
 </th></tr></tbody></table>
+
 
 
 ##### 符卡信息
@@ -413,6 +432,7 @@
 
 
 
+
 #### 日热「Ice Dissolver」
 
 <table>
@@ -426,9 +446,10 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="/%E6%97%A5%E7%83%AD%E3%80%8CIce_Dissolver%E3%80%8D" class="mw-redirect" title="日热「Ice Dissolver」">日热「Ice Dissolver」</a>
+<p><a href="./日热「Ice_Dissolver」.md" class="mw-redirect" title="日热「Ice Dissolver」">日热「Ice Dissolver」</a>
 </p>
 </th></tr></tbody></table>
+
 
 
 ##### 符卡信息
@@ -445,6 +466,7 @@
 
 
 
+
 #### 空符「Elfin Canopy」
 
 <table>
@@ -458,9 +480,10 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="/%E7%A9%BA%E7%AC%A6%E3%80%8CElfin_Canopy%E3%80%8D" class="mw-redirect" title="空符「Elfin Canopy」">空符「Elfin Canopy」</a>
+<p><a href="./空符「Elfin_Canopy」.md" class="mw-redirect" title="空符「Elfin Canopy」">空符「Elfin Canopy」</a>
 </p>
 </th></tr></tbody></table>
+
 
 
 ##### 符卡信息
@@ -477,6 +500,7 @@
 
 
 
+
 #### 协力技「Fairy Overdrive」
 
 <table>
@@ -490,9 +514,10 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="/%E5%8D%8F%E5%8A%9B%E6%8A%80%E3%80%8CFairy_Overdrive%E3%80%8D" class="mw-redirect" title="协力技「Fairy Overdrive」">协力技「Fairy Overdrive」</a>
+<p><a href="./协力技「Fairy_Overdrive」.md" class="mw-redirect" title="协力技「Fairy Overdrive」">协力技「Fairy Overdrive」</a>
 </p>
 </th></tr></tbody></table>
+
 
 
 ##### 符卡信息
@@ -509,6 +534,7 @@
 
 
 
+
 #### 「Three Fairies」
 
 <table>
@@ -522,9 +548,10 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="/%E3%80%8CThree_Fairies%E3%80%8D" class="mw-redirect" title="「Three Fairies」">「Three Fairies」</a>
+<p><a href="./「Three_Fairies」.md" class="mw-redirect" title="「Three Fairies」">「Three Fairies」</a>
 </p>
 </th></tr></tbody></table>
+
 
 
 ##### 符卡信息
@@ -541,8 +568,11 @@
 
 
 
+
 ## A-2路线
+
 ### Stage 1
+
 #### 月符「Lunatic Rain」
 
 <table>
@@ -556,9 +586,10 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="/%E6%9C%88%E7%AC%A6%E3%80%8CLunatic_Rain%E3%80%8D" class="mw-redirect" title="月符「Lunatic Rain」">月符「Lunatic Rain」</a>
+<p><a href="./月符「Lunatic_Rain」.md" class="mw-redirect" title="月符「Lunatic Rain」">月符「Lunatic Rain」</a>
 </p>
 </th></tr></tbody></table>
+
 
 
 ##### 符卡信息
@@ -575,6 +606,7 @@
 
 
 
+
 #### 月符「Luna Cyclone」
 
 <table>
@@ -588,9 +620,10 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="/%E6%9C%88%E7%AC%A6%E3%80%8CLuna_Cyclone%E3%80%8D" class="mw-redirect" title="月符「Luna Cyclone」">月符「Luna Cyclone」</a>
+<p><a href="./月符「Luna_Cyclone」.md" class="mw-redirect" title="月符「Luna Cyclone」">月符「Luna Cyclone」</a>
 </p>
 </th></tr></tbody></table>
+
 
 
 ##### 符卡信息
@@ -607,7 +640,9 @@
 
 
 
+
 ### Stage 2
+
 #### 虹光「Prism Flash」
 
 <table>
@@ -621,9 +656,10 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="/%E8%99%B9%E5%85%89%E3%80%8CPrism_Flash%E3%80%8D" class="mw-redirect" title="虹光「Prism Flash」">虹光「Prism Flash」</a>
+<p><a href="./虹光「Prism_Flash」.md" class="mw-redirect" title="虹光「Prism Flash」">虹光「Prism Flash」</a>
 </p>
 </th></tr></tbody></table>
+
 
 
 ##### 符卡信息
@@ -640,6 +676,7 @@
 
 
 
+
 #### 光精「Diamond Ring」
 
 <table>
@@ -653,9 +690,10 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="/%E5%85%89%E7%B2%BE%E3%80%8CDiamond_Ring%E3%80%8D" class="mw-redirect" title="光精「Diamond Ring」">光精「Diamond Ring」</a>
+<p><a href="./光精「Diamond_Ring」.md" class="mw-redirect" title="光精「Diamond Ring」">光精「Diamond Ring」</a>
 </p>
 </th></tr></tbody></table>
+
 
 
 ##### 符卡信息
@@ -672,6 +710,7 @@
 
 
 
+
 #### 光符「Blue Deflection」
 
 <table>
@@ -685,9 +724,10 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="/%E5%85%89%E7%AC%A6%E3%80%8CBlue_Deflection%E3%80%8D" class="mw-redirect" title="光符「Blue Deflection」">光符「Blue Deflection」</a>
+<p><a href="./光符「Blue_Deflection」.md" class="mw-redirect" title="光符「Blue Deflection」">光符「Blue Deflection」</a>
 </p>
 </th></tr></tbody></table>
+
 
 
 ##### 符卡信息
@@ -704,7 +744,9 @@
 
 
 
+
 ### Stage 3
+
 #### 星光「Star Laser」
 
 <table>
@@ -718,9 +760,10 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="/%E6%98%9F%E5%85%89%E3%80%8CStar_Laser%E3%80%8D" class="mw-redirect" title="星光「Star Laser」">星光「Star Laser」</a>
+<p><a href="./星光「Star_Laser」.md" class="mw-redirect" title="星光「Star Laser」">星光「Star Laser」</a>
 </p>
 </th></tr></tbody></table>
+
 
 
 ##### 符卡信息
@@ -737,6 +780,7 @@
 
 
 
+
 #### 光符「Triple Meteor」
 
 <table>
@@ -750,9 +794,10 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="/%E5%85%89%E7%AC%A6%E3%80%8CTriple_Meteor%E3%80%8D" class="mw-redirect" title="光符「Triple Meteor」">光符「Triple Meteor」</a>
+<p><a href="./光符「Triple_Meteor」.md" class="mw-redirect" title="光符「Triple Meteor」">光符「Triple Meteor」</a>
 </p>
 </th></tr></tbody></table>
+
 
 
 ##### 符卡信息
@@ -769,6 +814,7 @@
 
 
 
+
 #### 星热「Ice Dissolver」
 
 <table>
@@ -782,9 +828,10 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="/%E6%98%9F%E7%83%AD%E3%80%8CIce_Dissolver%E3%80%8D" class="mw-redirect" title="星热「Ice Dissolver」">星热「Ice Dissolver」</a>
+<p><a href="./星热「Ice_Dissolver」.md" class="mw-redirect" title="星热「Ice Dissolver」">星热「Ice Dissolver」</a>
 </p>
 </th></tr></tbody></table>
+
 
 
 ##### 符卡信息
@@ -801,6 +848,7 @@
 
 
 
+
 #### 光星「Orion Belt」
 
 <table>
@@ -814,9 +862,10 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="/%E5%85%89%E6%98%9F%E3%80%8COrion_Belt%E3%80%8D" class="mw-redirect" title="光星「Orion Belt」">光星「Orion Belt」</a>
+<p><a href="./光星「Orion_Belt」.md" class="mw-redirect" title="光星「Orion Belt」">光星「Orion Belt」</a>
 </p>
 </th></tr></tbody></table>
+
 
 
 ##### 符卡信息
@@ -833,6 +882,7 @@
 
 
 
+
 #### 协力技「Fairy Overdrive」
 
 <table>
@@ -846,9 +896,10 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="/%E5%8D%8F%E5%8A%9B%E6%8A%80%E3%80%8CFairy_Overdrive%E3%80%8D" class="mw-redirect" title="协力技「Fairy Overdrive」">协力技「Fairy Overdrive」</a>
+<p><a href="./协力技「Fairy_Overdrive」.md" class="mw-redirect" title="协力技「Fairy Overdrive」">协力技「Fairy Overdrive」</a>
 </p>
 </th></tr></tbody></table>
+
 
 
 ##### 符卡信息
@@ -865,6 +916,7 @@
 
 
 
+
 #### 「Three Fairies」
 
 <table>
@@ -878,9 +930,10 @@
 <th style="border-left:none; padding-left:1em;">
 </th>
 <th class="zhh1" width="50%">
-<p><a href="/%E3%80%8CThree_Fairies%E3%80%8D" class="mw-redirect" title="「Three Fairies」">「Three Fairies」</a>
+<p><a href="./「Three_Fairies」.md" class="mw-redirect" title="「Three Fairies」">「Three Fairies」</a>
 </p>
 </th></tr></tbody></table>
+
 
 
 ##### 符卡信息
@@ -897,11 +950,12 @@
 
 
 
+
 ## 导航
   
   
 
-<table><tbody><tr><td><table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;;;"><tbody><tr><th style=";" colspan="3" class="navbox-title"><div class="navbar"><div class="noprint plainlinksneverexpand" style="background-color:transparent; padding:0; font-weight:normal; font-size:80%; white-space:nowrap;"><a href="./模板-妖精大战争导航.md" title="模板:妖精大战争导航"><span style=";;border:none;" title="查看这个模板">查</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<a href="/index.php?title=%E6%A8%A1%E6%9D%BF:%E5%A6%96%E7%B2%BE%E5%A4%A7%E6%88%98%E4%BA%89%E5%AF%BC%E8%88%AA&amp;action=edit"><span style=";;border:none;" title="您可以编辑这个模板。请在储存变更之前先预览">编</span></a></div></div><span><a href="./妖精大战争.md" title="妖精大战争">妖精大战争</a></span></th></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">角色</td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>自机</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./琪露诺.md" title="琪露诺">琪露诺</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>BOSS</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./大妖精.md" title="大妖精">大妖精</a> &#8226; <a href="./莉莉霍瓦特.md" title="莉莉霍瓦特">莉莉霍瓦特</a> &#8226; <a href="./桑尼米尔克.md" title="桑尼米尔克">桑尼米尔克</a> &#8226; <a href="./露娜切露德.md" title="露娜切露德">露娜切露德</a> &#8226; <a href="./斯塔萨菲雅.md" title="斯塔萨菲雅">斯塔萨菲雅</a> &#8226; <a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a></div></td></tr></tbody></table><div></div></td><td class="navbox-image" style="" rowspan="11"><a href="./文件-妖精大战争载入界面.jpg.md" class="image"><img alt="妖精大战争载入界面.jpg" src="https://upload.thwiki.cc/thumb/d/da/%E5%A6%96%E7%B2%BE%E5%A4%A7%E6%88%98%E4%BA%89%E8%BD%BD%E5%85%A5%E7%95%8C%E9%9D%A2.jpg/160px-%E5%A6%96%E7%B2%BE%E5%A4%A7%E6%88%98%E4%BA%89%E8%BD%BD%E5%85%A5%E7%95%8C%E9%9D%A2.jpg" decoding="async" loading="lazy" width="160" height="120" srcset="https://upload.thwiki.cc/thumb/d/da/%E5%A6%96%E7%B2%BE%E5%A4%A7%E6%88%98%E4%BA%89%E8%BD%BD%E5%85%A5%E7%95%8C%E9%9D%A2.jpg/240px-%E5%A6%96%E7%B2%BE%E5%A4%A7%E6%88%98%E4%BA%89%E8%BD%BD%E5%85%A5%E7%95%8C%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/d/da/%E5%A6%96%E7%B2%BE%E5%A4%A7%E6%88%98%E4%BA%89%E8%BD%BD%E5%85%A5%E7%95%8C%E9%9D%A2.jpg/320px-%E5%A6%96%E7%B2%BE%E5%A4%A7%E6%88%98%E4%BA%89%E8%BD%BD%E5%85%A5%E7%95%8C%E9%9D%A2.jpg 2x" data-file-width="640" data-file-height="480"></a></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">剧情</td><td style=";;" class="navbox-list navbox-even"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>剧情文本</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="/%E6%B8%B8%E6%88%8F%E5%AF%B9%E8%AF%9D:%E5%A6%96%E7%B2%BE%E5%A4%A7%E6%88%98%E4%BA%89/%E6%95%85%E4%BA%8B%E8%83%8C%E6%99%AF" class="mw-redirect" title="游戏对话:妖精大战争/故事背景">故事背景</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>游戏对话&amp;结局</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./游戏对话-妖精大战争-琪露诺（A路线）.md" title="游戏对话:妖精大战争/琪露诺（A路线）">A路线</a> &#8226; <a href="./游戏对话-妖精大战争-琪露诺（B路线）.md" title="游戏对话:妖精大战争/琪露诺（B路线）">B路线</a> &#8226; <a href="./游戏对话-妖精大战争-琪露诺（C路线）.md" title="游戏对话:妖精大战争/琪露诺（C路线）">C路线</a> &#8226; <a href="./游戏对话-妖精大战争-琪露诺（Extra路线）.md" title="游戏对话:妖精大战争/琪露诺（Extra路线）">Extra路线</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>其他相关</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="/%E4%B8%9C%E6%96%B9%E4%B8%89%E6%9C%88%E7%B2%BES#番外篇_妖精大战争" class="mw-redirect" title="东方三月精S">东方三月精 妖精大战争（漫画）</a></div></td></tr></tbody></table><div></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">场景</td><td style=";;" class="navbox-list navbox-odd"><div><a href="./春之小径.md" title="春之小径">春之小径</a> &#8226; <a href="./雾之湖.md" title="雾之湖">雾之湖</a> &#8226; <a href="./魔法森林.md" title="魔法森林">魔法森林</a> &#8226; <a href="./夜樱怪道.md" title="夜樱怪道">夜樱怪道</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">音乐</td><td style=";;" class="navbox-list navbox-even"><div><a href="./妖精大战争-Music.md" title="妖精大战争/Music">Music Room</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="/%E5%A6%96%E7%B2%BE%E5%A4%A7%E6%88%98%E4%BA%89#附带文档" title="妖精大战争">附带文档</a></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./附带文档-妖精大战争-Omake.md" title="附带文档:妖精大战争/Omake">Omake</a> &#8226; <a href="./附带文档-妖精大战争-Readme.md" title="附带文档:妖精大战争/Readme">Readme</a> &#8226; <a href="./附带文档-妖精大战争-游戏内Manual.md" title="附带文档:妖精大战争/游戏内Manual">游戏内Manual</a> &#8226; <a href="./附带文档-妖精大战争-光盘说明书.md" title="附带文档:妖精大战争/光盘说明书">光盘说明书</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="./妖精大战争.md" title="妖精大战争">符卡</a></td><td style=";;" class="navbox-list navbox-even"><div><a class="mw-selflink selflink">A路线</a> &#8226; <a href="./妖精大战争-B路线.md" title="妖精大战争/B路线">B路线</a> &#8226; <a href="./妖精大战争-C路线.md" title="妖精大战争/C路线">C路线</a> &#8226; <a href="./妖精大战争-Extra路线.md" title="妖精大战争/Extra路线">Extra路线</a></div></td></tr></tbody></table></td></tr></tbody></table>
+<table><tbody><tr><td><table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;;;"><tbody><tr><th style=";" colspan="3" class="navbox-title"><div class="navbar"><div class="noprint plainlinksneverexpand" style="background-color:transparent; padding:0; font-weight:normal; font-size:80%; white-space:nowrap;"><a href="./模板-妖精大战争导航.md" title="模板:妖精大战争导航"><span style=";;border:none;" title="查看这个模板">查</span></a>&#160;<span style="font-size:80%;">•</span>&#160;<a href="/index.php?title=%E6%A8%A1%E6%9D%BF:%E5%A6%96%E7%B2%BE%E5%A4%A7%E6%88%98%E4%BA%89%E5%AF%BC%E8%88%AA&amp;action=edit"><span style=";;border:none;" title="您可以编辑这个模板。请在储存变更之前先预览">编</span></a></div></div><span><a href="./妖精大战争.md" title="妖精大战争">妖精大战争</a></span></th></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">角色</td><td style=";;" class="navbox-list navbox-odd"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>自机</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./琪露诺.md" title="琪露诺">琪露诺</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>BOSS</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./大妖精.md" title="大妖精">大妖精</a> &#8226; <a href="./莉莉霍瓦特.md" title="莉莉霍瓦特">莉莉霍瓦特</a> &#8226; <a href="./桑尼米尔克.md" title="桑尼米尔克">桑尼米尔克</a> &#8226; <a href="./露娜切露德.md" title="露娜切露德">露娜切露德</a> &#8226; <a href="./斯塔萨菲雅.md" title="斯塔萨菲雅">斯塔萨菲雅</a> &#8226; <a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a></div></td></tr></tbody></table><div></div></td><td class="navbox-image" style="" rowspan="11"><a href="./文件-妖精大战争载入界面.jpg.md" class="image"><img alt="妖精大战争载入界面.jpg" src="https://upload.thwiki.cc/thumb/d/da/%E5%A6%96%E7%B2%BE%E5%A4%A7%E6%88%98%E4%BA%89%E8%BD%BD%E5%85%A5%E7%95%8C%E9%9D%A2.jpg/160px-%E5%A6%96%E7%B2%BE%E5%A4%A7%E6%88%98%E4%BA%89%E8%BD%BD%E5%85%A5%E7%95%8C%E9%9D%A2.jpg" decoding="async" loading="lazy" width="160" height="120" srcset="https://upload.thwiki.cc/thumb/d/da/%E5%A6%96%E7%B2%BE%E5%A4%A7%E6%88%98%E4%BA%89%E8%BD%BD%E5%85%A5%E7%95%8C%E9%9D%A2.jpg/240px-%E5%A6%96%E7%B2%BE%E5%A4%A7%E6%88%98%E4%BA%89%E8%BD%BD%E5%85%A5%E7%95%8C%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/d/da/%E5%A6%96%E7%B2%BE%E5%A4%A7%E6%88%98%E4%BA%89%E8%BD%BD%E5%85%A5%E7%95%8C%E9%9D%A2.jpg/320px-%E5%A6%96%E7%B2%BE%E5%A4%A7%E6%88%98%E4%BA%89%E8%BD%BD%E5%85%A5%E7%95%8C%E9%9D%A2.jpg 2x" data-file-width="640" data-file-height="480"></a></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">剧情</td><td style=";;" class="navbox-list navbox-even"><div></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;"><div>剧情文本</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./游戏对话-妖精大战争-故事背景.md" class="mw-redirect" title="游戏对话:妖精大战争/故事背景">故事背景</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>游戏对话&amp;结局</div></td><td style=";;" class="navbox-list navbox-even"><div><a href="./游戏对话-妖精大战争-琪露诺（A路线）.md" title="游戏对话:妖精大战争/琪露诺（A路线）">A路线</a> &#8226; <a href="./游戏对话-妖精大战争-琪露诺（B路线）.md" title="游戏对话:妖精大战争/琪露诺（B路线）">B路线</a> &#8226; <a href="./游戏对话-妖精大战争-琪露诺（C路线）.md" title="游戏对话:妖精大战争/琪露诺（C路线）">C路线</a> &#8226; <a href="./游戏对话-妖精大战争-琪露诺（Extra路线）.md" title="游戏对话:妖精大战争/琪露诺（Extra路线）">Extra路线</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><div>其他相关</div></td><td style=";;" class="navbox-list navbox-odd"><div><a href="/%E4%B8%9C%E6%96%B9%E4%B8%89%E6%9C%88%E7%B2%BES#番外篇_妖精大战争" class="mw-redirect" title="东方三月精S">东方三月精 妖精大战争（漫画）</a></div></td></tr></tbody></table><div></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">场景</td><td style=";;" class="navbox-list navbox-odd"><div><a href="./春之小径.md" title="春之小径">春之小径</a> &#8226; <a href="./雾之湖.md" title="雾之湖">雾之湖</a> &#8226; <a href="./魔法森林.md" title="魔法森林">魔法森林</a> &#8226; <a href="./夜樱怪道.md" title="夜樱怪道">夜樱怪道</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;">音乐</td><td style=";;" class="navbox-list navbox-even"><div><a href="./妖精大战争-Music.md" title="妖精大战争/Music">Music Room</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="/%E5%A6%96%E7%B2%BE%E5%A4%A7%E6%88%98%E4%BA%89#附带文档" title="妖精大战争">附带文档</a></td><td style=";;" class="navbox-list navbox-odd"><div><a href="./附带文档-妖精大战争-Omake.md" title="附带文档:妖精大战争/Omake">Omake</a> &#8226; <a href="./附带文档-妖精大战争-Readme.md" title="附带文档:妖精大战争/Readme">Readme</a> &#8226; <a href="./附带文档-妖精大战争-游戏内Manual.md" title="附带文档:妖精大战争/游戏内Manual">游戏内Manual</a> &#8226; <a href="./附带文档-妖精大战争-光盘说明书.md" title="附带文档:妖精大战争/光盘说明书">光盘说明书</a></div></td></tr><tr><td></td></tr><tr><td class="navbox-group" style=";;"><a href="./妖精大战争.md" title="妖精大战争">符卡</a></td><td style=";;" class="navbox-list navbox-even"><div><a class="mw-selflink selflink">A路线</a> &#8226; <a href="./妖精大战争-B路线.md" title="妖精大战争/B路线">B路线</a> &#8226; <a href="./妖精大战争-C路线.md" title="妖精大战争/C路线">C路线</a> &#8226; <a href="./妖精大战争-Extra路线.md" title="妖精大战争/Extra路线">Extra路线</a></div></td></tr></tbody></table></td></tr></tbody></table>
 
 
 

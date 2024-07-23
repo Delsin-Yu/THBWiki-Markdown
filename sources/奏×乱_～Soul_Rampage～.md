@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-奏×乱_～Soul_Rampage～封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/c/c6/%E5%A5%8F%C3%97%E4%B9%B1_%EF%BD%9ESoul_Rampage%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg/224px-%E5%A5%8F%C3%97%E4%B9%B1_%EF%BD%9ESoul_Rampage%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="168" srcset="https://upload.thwiki.cc/thumb/c/c6/%E5%A5%8F%C3%97%E4%B9%B1_%EF%BD%9ESoul_Rampage%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg/336px-%E5%A5%8F%C3%97%E4%B9%B1_%EF%BD%9ESoul_Rampage%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/c/c6/%E5%A5%8F%C3%97%E4%B9%B1_%EF%BD%9ESoul_Rampage%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg/448px-%E5%A5%8F%C3%97%E4%B9%B1_%EF%BD%9ESoul_Rampage%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="560" data-file-height="420"></a><div class="cover-char">角色：<a href="./河城荷取.md" title="河城荷取">河城荷取</a></div></td>
@@ -15,6 +16,7 @@
 奏×乱 ～Soul Rampage～（同人专辑，十六神数，2015） - 2015年8月14日 由 十六神数 于 Comic Market 88 发布的全长同人专辑，分级为 一般向
 
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="http://www.dlsite.com/home/work/=/product_id/RJ160485.html">DLsite</a></td></tr></tbody></table>
+
 
 
 ## Staff
@@ -32,11 +34,13 @@
 Illustration
 : けっきー
 
+
 ## 试听
   
 <iframe width="100%" height="180" src="https://ext.nicovideo.jp/thumb/sm26797780" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/watch/sm26797780">,</a></iframe>
 
   
+
 
 ## 曲目列表
 
@@ -63,7 +67,8 @@ Illustration
 <tr><td id="21" class="info"><b>21</b></td><td id="VOLtAGE_MAXiMUM↑↑↑/Active-R" colspan="2" class="title">VOLtAGE MAXiMUM↑↑↑/Active-R<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=奏×乱_～Soul_Rampage～"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr>
 <tr><td id="22" class="infoYL"><b>22</b></td><td id="La_datra_di_70_anni" colspan="2" class="title">La datra di 70 anni<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=KANATA&amp;fromwiki=奏×乱_～Soul_Rampage～"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="/index.php?title=KANATA&amp;action=edit&amp;redlink=1" class="new" title="KANATA（页面不存在）">KANATA</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，KANATA&amp;fromwiki=奏×乱_～Soul_Rampage～"><span></span></a></span></td></tr>
 <tr><td id="23" class="info"><b>23</b></td><td id="Illuminate~_光あれ~" colspan="2" class="title">Illuminate~ 光あれ~<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=奏×乱_～Soul_Rampage～"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr>
-<tr><td id="24" class="infoYD"><b>24</b></td><td id="？？？？" colspan="2" class="title">？？？？<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=大日本蹴倶楽部&amp;ogmusic=芥川龍之介の河童　～ Candid Friend&amp;fromwiki=奏×乱_～Soul_Rampage～"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E5%A4%A7%E6%97%A5%E6%9C%AC%E8%B9%B4%E5%80%B6%E6%A5%BD%E9%83%A8&amp;action=edit&amp;redlink=1" class="new" title="大日本蹴倶楽部（页面不存在）">大日本蹴倶楽部</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，大日本蹴倶楽部&amp;fromwiki=奏×乱_～Soul_Rampage～"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=芥川龍之介の河童　～ Candid Friend&amp;fromwiki=奏×乱_～Soul_Rampage～"><span></span></a></span><div class="ogmusic"><a href="/%E8%8A%A5%E5%B7%9D%E9%BE%8D%E4%B9%8B%E4%BB%8B%E3%81%AE%E6%B2%B3%E7%AB%A5_%EF%BD%9E_Candid_Friend" class="mw-redirect" title="芥川龍之介の河童 ～ Candid Friend">芥川龍之介の河童　～ Candid Friend</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E9%A3%8E%E7%A5%9E%E5%BD%95_%EF%BD%9E_Mountain_of_Faith." class="mw-redirect" title="东方风神录 ～ Mountain of Faith.">东方风神录　～ Mountain of Faith.</a></div></td></tr></tbody></table>
+<tr><td id="24" class="infoYD"><b>24</b></td><td id="？？？？" colspan="2" class="title">？？？？<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=大日本蹴倶楽部&amp;ogmusic=芥川龍之介の河童　～ Candid Friend&amp;fromwiki=奏×乱_～Soul_Rampage～"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E5%A4%A7%E6%97%A5%E6%9C%AC%E8%B9%B4%E5%80%B6%E6%A5%BD%E9%83%A8&amp;action=edit&amp;redlink=1" class="new" title="大日本蹴倶楽部（页面不存在）">大日本蹴倶楽部</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，大日本蹴倶楽部&amp;fromwiki=奏×乱_～Soul_Rampage～"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=芥川龍之介の河童　～ Candid Friend&amp;fromwiki=奏×乱_～Soul_Rampage～"><span></span></a></span><div class="ogmusic"><a href="./芥川龍之介の河童_～_Candid_Friend.md" class="mw-redirect" title="芥川龍之介の河童 ～ Candid Friend">芥川龍之介の河童　～ Candid Friend</a></div><div class="source"><a href="./东方风神录_～_Mountain_of_Faith..md" class="mw-redirect" title="东方风神录 ～ Mountain of Faith.">东方风神录　～ Mountain of Faith.</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

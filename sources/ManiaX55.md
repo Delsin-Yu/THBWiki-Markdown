@@ -4,7 +4,8 @@
 
 ManiaX55 ，主要制作 同人志 的日本同人社团，主催是 x6suke，当前状态为 休止
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -20,21 +21,26 @@ ManiaX55 ，主要制作 同人志 的日本同人社团，主催是 x6suke，�
 
 
 
+
 ## 社团信息
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> ManiaX55 </td></tr><tr><td><b>主要作品类型</b></td><td>同人志</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=x6suke&amp;action=edit&amp;redlink=1" class="new" title="x6suke（页面不存在）">x6suke</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://maniax55.blogspot.com/">http://maniax55.blogspot.com/</a> <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><small>（<a rel="nofollow" class="external text" href="https://web.archive.org/web/20191204050122/http://maniax55.blogspot.com/">缓存页面</a>）</small><br><a rel="nofollow" class="external free" href="http://himitsukichi.com/~x6suke/">http://himitsukichi.com/~x6suke/</a> （旧官网）<span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><small>（<a rel="nofollow" class="external text" href="https://web.archive.org/web/20090216114040/http://himitsukichi.com/~x6suke/">缓存页面</a>）</small></td></tr></tbody></table>
 
 ManiaX55（同人社团，同人志社团） - ManiaX55 ，主要制作 同人志 的日本同人社团，主催是 x6suke，当前状态为 休止
+
 ## 成员名单
 - x6suke (未找到链接)
 
 : [Twitter: @x6suke](https://twitter.com/x6suke), [Pixiv ID: 6496670](https://www.pixiv.net/users/6496670)
 
+
 ## 作品列表
+
 ### 同人志
 [](./東方色々式.md)[東方色々式](./東方色々式.md)首发日期：2007-12-31 （Comic Market 73 (未找到链接)）画集 （一般向） 16&#160;页
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
 </table>
+
 
 
 ## 参展信息

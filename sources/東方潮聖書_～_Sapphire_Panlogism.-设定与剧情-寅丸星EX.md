@@ -4,6 +4,7 @@
 
 Team_Urban_Magic | 使用了翻译表的页面 | 同人游戏对话
 
+
 ## Stage Extra
 [](./文件-东方潮圣书stex.png.md)  [](./文件-东方潮圣书stex.png.md)EX面场景
 
@@ -12,6 +13,7 @@ Team_Urban_Magic | 使用了翻译表的页面 | 同人游戏对话
 
 
 [^cite_note-1]: 「Annunciation」指基督教中，天使向圣母玛利亚告知其将诞下神子之事，一般称为「受胎告知」、「天使报喜」。
+
 
 ## 词条导航
   

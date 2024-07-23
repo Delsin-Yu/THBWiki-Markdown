@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-CRIMSON'S_CREED_IV封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/d/db/CRIMSON%27S_CREED_IV%E5%B0%81%E9%9D%A2.jpg/159px-CRIMSON%27S_CREED_IV%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="159" height="224" srcset="https://upload.thwiki.cc/thumb/d/db/CRIMSON%27S_CREED_IV%E5%B0%81%E9%9D%A2.jpg/239px-CRIMSON%27S_CREED_IV%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/d/db/CRIMSON%27S_CREED_IV%E5%B0%81%E9%9D%A2.jpg/318px-CRIMSON%27S_CREED_IV%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="320" data-file-height="450"></a><div class="cover-char">角色：<a href="./帕秋莉·诺蕾姬.md" title="帕秋莉·诺蕾姬">帕秋莉·诺蕾姬</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=56721655">http://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=56721655</a></td></tr></tbody></table>
 
 CRIMSON'S CREED IV（同人志，Fifiruu.FIF，2016） - 2016年5月8日 由 Fifiruu.FIF 于 博丽神社例大祭13 发布的漫画同人志，B5尺寸一共152页，登场人物有 红美铃、蕾米莉亚·斯卡蕾特、卡娜·安娜贝拉尔、原创角色、露米娅、芙兰朵露·斯卡蕾特、十六夜咲夜、露娜萨·普莉兹姆利巴、梅露兰·普莉兹姆利巴、莉莉卡·普莉兹姆利巴、哆来咪·苏伊特、赫卡提亚·拉碧斯拉祖利、霍青娥、米斯蒂娅·萝蕾拉、小恶魔、帕秋莉·诺蕾姬、八云紫、八云蓝、蕾拉·普莉兹姆利巴，分级为 一般向
+
 ## Staff
 - [Fifiruu](./Fifiruu.md)
+
 
 ## 评论
 

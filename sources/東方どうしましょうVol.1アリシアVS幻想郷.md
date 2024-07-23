@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-東方どうしましょうVol.1アリシアVS幻想郷封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/c/cc/%E6%9D%B1%E6%96%B9%E3%81%A9%E3%81%86%E3%81%97%E3%81%BE%E3%81%97%E3%82%87%E3%81%86Vol.1%E3%82%A2%E3%83%AA%E3%82%B7%E3%82%A2VS%E5%B9%BB%E6%83%B3%E9%83%B7%E5%B0%81%E9%9D%A2.png/139px-%E6%9D%B1%E6%96%B9%E3%81%A9%E3%81%86%E3%81%97%E3%81%BE%E3%81%97%E3%82%87%E3%81%86Vol.1%E3%82%A2%E3%83%AA%E3%82%B7%E3%82%A2VS%E5%B9%BB%E6%83%B3%E9%83%B7%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="139" height="196" srcset="https://upload.thwiki.cc/thumb/c/cc/%E6%9D%B1%E6%96%B9%E3%81%A9%E3%81%86%E3%81%97%E3%81%BE%E3%81%97%E3%82%87%E3%81%86Vol.1%E3%82%A2%E3%83%AA%E3%82%B7%E3%82%A2VS%E5%B9%BB%E6%83%B3%E9%83%B7%E5%B0%81%E9%9D%A2.png/208px-%E6%9D%B1%E6%96%B9%E3%81%A9%E3%81%86%E3%81%97%E3%81%BE%E3%81%97%E3%82%87%E3%81%86Vol.1%E3%82%A2%E3%83%AA%E3%82%B7%E3%82%A2VS%E5%B9%BB%E6%83%B3%E9%83%B7%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/c/cc/%E6%9D%B1%E6%96%B9%E3%81%A9%E3%81%86%E3%81%97%E3%81%BE%E3%81%97%E3%82%87%E3%81%86Vol.1%E3%82%A2%E3%83%AA%E3%82%B7%E3%82%A2VS%E5%B9%BB%E6%83%B3%E9%83%B7%E5%B0%81%E9%9D%A2.png/277px-%E6%9D%B1%E6%96%B9%E3%81%A9%E3%81%86%E3%81%97%E3%81%BE%E3%81%97%E3%82%87%E3%81%86Vol.1%E3%82%A2%E3%83%AA%E3%82%B7%E3%82%A2VS%E5%B9%BB%E6%83%B3%E9%83%B7%E5%B0%81%E9%9D%A2.png 2x" data-file-width="525" data-file-height="742"></a><div class="cover-char">角色：<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a>，<a href="./米斯蒂娅·萝蕾拉.md" title="米斯蒂娅·萝蕾拉">米斯蒂娅·萝蕾拉</a>，<a href="/index.php?title=%E3%82%A2%E3%83%AA%E3%82%B7%E3%82%A2&amp;action=edit&amp;redlink=1" class="new" title="アリシア（页面不存在）">アリシア</a></div></td>
@@ -14,9 +15,11 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://pandaza.hanagumori.com/kokuchi/avp/avp.html">http://pandaza.hanagumori.com/kokuchi/avp/avp.html</a></td></tr><tr><td class="label">备注</td><td colspan="2">東方×BULLET WITCH</td></tr></tbody></table>
 
 東方どうしましょうVol.1アリシアVS幻想郷（同人志，大熊猫飯店，Wi-Z GARAGE，2011） - 2011年12月30日 由 大熊猫飯店，Wi-Z GARAGE 于 Comic Market 81 发布的漫画同人志，B5尺寸一共36页，分级为 一般向
+
 ## Staff
 - 岡平閑 (未找到链接)
 - [Wi-Z GARAGE](./Wi-Z_GARAGE.md)
+
 
 ## 评论
 

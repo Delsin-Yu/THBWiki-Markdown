@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Jiangshi_Collection封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/0/0b/Jiangshi_Collection%E5%B0%81%E9%9D%A2.png/121px-Jiangshi_Collection%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="121" height="168" srcset="https://upload.thwiki.cc/thumb/0/0b/Jiangshi_Collection%E5%B0%81%E9%9D%A2.png/181px-Jiangshi_Collection%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/0/0b/Jiangshi_Collection%E5%B0%81%E9%9D%A2.png/241px-Jiangshi_Collection%E5%B0%81%E9%9D%A2.png 2x" data-file-width="503" data-file-height="700"></a><div class="cover-char">角色：<a href="./宫古芳香.md" title="宫古芳香">宫古芳香</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/uruchikome/status/656812509177905152">https://twitter.com/uruchikome/status/656812509177905152</a><br><a rel="nofollow" class="external free" href="https://twitter.com/uruchikome/status/658941110480322560">https://twitter.com/uruchikome/status/658941110480322560</a><br><a rel="nofollow" class="external free" href="https://twitter.com/uruchikome/status/659371108123066368">https://twitter.com/uruchikome/status/659371108123066368</a><br><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/53193324">https://www.pixiv.net/artworks/53193324</a></td></tr></tbody></table>
 
 Jiangshi Collection（同人志，HEPTAD，2015） - 2015年11月1日 由 HEPTAD 于 东方红楼梦11 发布的画集同人志，登场人物有 宫古芳香、霍青娥，分级为 一般向
+
 ## Staff
 - うるち米 (未找到链接)
+
 
 ## 评论
 

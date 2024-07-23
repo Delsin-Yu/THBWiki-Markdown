@@ -18,6 +18,7 @@
 
 
 </center>
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=TUMENECO%EF%BC%8FShoyuSound%E4%BC%9A%E5%A0%B4%E9%99%90%E5%AE%9A%E6%96%B0%E4%BD%9CCD%E5%B0%81%E9%9D%A2.jpg" class="new" title="文件:TUMENECO／ShoyuSound会場限定新作CD封面.jpg">封面图片</a></td>
@@ -26,6 +27,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/TUMENECO/status/1608967093852200961">https://twitter.com/TUMENECO/status/1608967093852200961</a></td></tr></tbody></table>
 
 TUMENECO／ShoyuSound会場限定新作CD（同人专辑，TUMENECO，ShoyuSound，2022） - 2022年12月31日 由 TUMENECO，ShoyuSound 于 Comic Market 101 发布的EP同人专辑，分级为 一般向
+
 ## Staff
   
  **Compose**   
@@ -43,11 +45,13 @@ TUMENECO／ShoyuSound会場限定新作CD（同人专辑，TUMENECO，ShoyuSound
 <table><tbody><tr><td><a href="./yukina.md" title="yukina">yukina</a></td><td></td><td>Tr.1</td></tr></tbody></table>
 
 
+
 ## 曲目列表
 
 <table><tbody><tr><td id="1" class="infoRL"><b>01</b></td><td id="サクラノサイン" colspan="2" class="title">サクラノサイン<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=tomoya&amp;vocal=yukina&amp;lyric=yukina&amp;fromwiki=TUMENECO／ShoyuSound会場限定新作CD"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./tomoya.md" title="tomoya">tomoya</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，tomoya&amp;fromwiki=TUMENECO／ShoyuSound会場限定新作CD"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="./yukina.md" title="yukina">yukina</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=yukina&amp;fromwiki=TUMENECO／ShoyuSound会場限定新作CD"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">作词</td><td class="text" colspan="2"><a href="./yukina.md" title="yukina">yukina</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?lyric=yukina&amp;fromwiki=TUMENECO／ShoyuSound会場限定新作CD"><span></span></a></span></td></tr>
 <tr><td id="2" class="infoYL"><b>02</b></td><td id="フワフワメリー" colspan="2" class="title">フワフワメリー<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=tomoya&amp;fromwiki=TUMENECO／ShoyuSound会場限定新作CD"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./tomoya.md" title="tomoya">tomoya</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，tomoya&amp;fromwiki=TUMENECO／ShoyuSound会場限定新作CD"><span></span></a></span></td></tr>
 <tr><td id="3" class="infoYL"><b>03</b></td><td id="サクラノサイン_-instrumental-" colspan="2" class="title">サクラノサイン -instrumental-　<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=tomoya&amp;fromwiki=TUMENECO／ShoyuSound会場限定新作CD"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./tomoya.md" title="tomoya">tomoya</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，tomoya&amp;fromwiki=TUMENECO／ShoyuSound会場限定新作CD"><span></span></a></span></td></tr></tbody></table>
+
 
 
 ## 评论

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 软件信息](#软件信息)
@@ -18,6 +19,7 @@
 
 
 
+
 ## 软件信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-幻想戦劇夢_～Wonderful_battle_dreamer.封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/5/5b/%E5%B9%BB%E6%83%B3%E6%88%A6%E5%8A%87%E5%A4%A2_%EF%BD%9EWonderful_battle_dreamer.%E5%B0%81%E9%9D%A2.jpg/196px-%E5%B9%BB%E6%83%B3%E6%88%A6%E5%8A%87%E5%A4%A2_%EF%BD%9EWonderful_battle_dreamer.%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="196" height="147" srcset="https://upload.thwiki.cc/thumb/5/5b/%E5%B9%BB%E6%83%B3%E6%88%A6%E5%8A%87%E5%A4%A2_%EF%BD%9EWonderful_battle_dreamer.%E5%B0%81%E9%9D%A2.jpg/294px-%E5%B9%BB%E6%83%B3%E6%88%A6%E5%8A%87%E5%A4%A2_%EF%BD%9EWonderful_battle_dreamer.%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/5/5b/%E5%B9%BB%E6%83%B3%E6%88%A6%E5%8A%87%E5%A4%A2_%EF%BD%9EWonderful_battle_dreamer.%E5%B0%81%E9%9D%A2.jpg/392px-%E5%B9%BB%E6%83%B3%E6%88%A6%E5%8A%87%E5%A4%A2_%EF%BD%9EWonderful_battle_dreamer.%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1280" data-file-height="960"></a></td>
@@ -26,10 +28,13 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/Unfit_Tir">https://twitter.com/Unfit_Tir</a></td></tr></tbody></table>
 
 幻想戦劇夢 ～Wonderful battle dreamer.（同人游戏，TEAM:SOCIALLY UNFIT，2018） - 2018年7月7日 由 TEAM:SOCIALLY UNFIT  发布的STG同人游戏，可在 Windows 系统上运行，游戏人数为 单人模式，分级为 一般向
+
 ## Staff
+
 ## 作品介绍
 - 本作目前已发布了体验版。
 - 本作游戏模式类似花映塚
+
 
 ## 内容页面
 - 游戏设定与剧情 (未找到链接)
@@ -37,7 +42,9 @@
 - 使用说明 (未找到链接)
 - 其他信息 (未找到链接)
 
+
 ## 评论
+
 ## 下载
   
 请注意：  

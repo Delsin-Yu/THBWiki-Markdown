@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -49,11 +50,13 @@
 
 
 
+
 ## 基本信息
 
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">東方妖々夢　～ Ancient Temple</td></tr><tr><td><b>译名</b></td><td>东方妖妖梦 ～ Ancient Temple</td></tr><tr><td><b>英文译名</b></td><td>Eastern Ghostly Dream ~ Ancient Temple</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 东方妖妖梦 ～ Ancient Temple（曲目） - 由 ZUN 创作的官方曲目，原名 東方妖々夢　～ Ancient Temple
+
 ## 出现作品
 
 <table>
@@ -66,8 +69,11 @@
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 东方妖妖梦
+
 #### WAV
   
 WAV版是游戏的原声带。
@@ -82,6 +88,7 @@ WAV版是游戏的原声带。
 </td></tr></tbody></table>
 
 
+
 #### MIDI
   
 MIDI版由Roland Sound Canvas 88Pro实机录音得到。
@@ -91,9 +98,11 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td><a href="./文件-th07_10.mid.md" title="文件:th07 10.mid">th07_10.mid</a></td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th07_10_SC88Pro.mp3.md" title="文件:th07 10 SC88Pro.mp3">th07_10_SC88Pro.mp3</a><br><audio src="https://upload.thwiki.cc/5/54/th07_10_SC88Pro.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>th07_10.mid</td></tr><tr><td><b>音轨时长</b></td><td>2:19</td></tr></tbody></table>
 
 
+
 ### 莲台野夜行
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-hr02_03.mp3.md" title="文件:hr02 03.mp3">hr02_03.mp3</a><br><audio src="https://upload.thwiki.cc/0/07/hr02_03.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track03.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>5:56</td></tr></tbody></table>
+
 
 
 ### 幻想曲拔萃
@@ -101,9 +110,11 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-TFM-001b_12.mp3.md" title="文件:TFM-001b 12.mp3">TFM-001b_12.mp3</a><br><audio src="https://upload.thwiki.cc/c/cb/TFM-001b_12.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track12.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>2:49</td></tr></tbody></table>
 
 
+
 ### 东方紫香花
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-TORA-00009_10.mp3.md" title="文件:TORA-00009 10.mp3">TORA-00009_10.mp3</a><br><audio src="https://upload.thwiki.cc/d/dd/TORA-00009_10.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track10.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>5:09</td></tr></tbody></table>
+
 
 
 ### 东方花映塚
@@ -116,7 +127,9 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
 </td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 东方妖妖梦
 - Music Room (未找到链接)
 
@@ -131,17 +144,20 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
     古老的寺院。  
     突然，令空气的温度变化的曲子。  
     而且，因为这个是最有东方妖妖梦的感觉的曲子，所以是这个标题。
+
 ### 东方萃梦想
 - Music Room (未找到链接)
 
 妖梦的夜晚关卡曲。  
 我认为这首曲格外平常地使用了原曲的旋律。  
 虽然作为格斗游戏来说序曲并不太好，但是如果在对话中曲子变更的时机比较好而进入战斗的话，说不定可能会听起来不错。
+
 ### 东方紫香花
 - 曲目说明 (未找到链接)
 
 欸——喝醉了酒，平常的毛病就蹦出来了，人们把这叫做上户[^cite_note-1]，不过上户也分笑上户[^cite_note-2]和哭上户[^cite_note-3]呢。  
 那么平常有斩东西毛病的人喝醉了，是否可以称其为斩上户呢。然后，正月。幻想乡的居民们聚在一起，相互打声新年的问候，宴席上的园艺师小姑娘发现了甜酒小嘬了一口，然而就发展成了“再来一杯、再来一杯”的结局，最后醉得不省人事。……就是这么个故事。
+
 ### 东方花映塚
 - Music Room (未找到链接)
 
@@ -150,6 +166,7 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
 　传达了更为寒冷的冥界空气。  
 　虽然其他角色都使用了BOSS的曲子，但是我还是觉得妖梦更适合这首  
 曲子，说起来还是喜欢这首曲子。
+
 ### 东方文花帖（书籍）
 - 幻想的音觉 (未找到链接)
 
@@ -157,6 +174,7 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
 　　这首曲子与其说是故事不如说是地点印象曲，听了这种曲子大概会有想去这个地方的感觉吧。不过，这个曲子给人的感觉却是“虽然是非常美丽的场所，却不想留在这里”。  
 　　听着这首曲子，就会隐约看到无比古老的时代的日本。那个世界是已经消亡的世界，所以这个幻觉不是偶然，这才真正是幻觉。  
 　　印象派的曲子多用于游戏标题画面，这首曲子就是其中之一。
+
 ### 东方Project人气投票
 - 日文东方人气投票记录 (未找到链接)
 
@@ -164,8 +182,11 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
 拥有东方幻想气息的前奏，格外舒服的旋律，如同欢乐的少女一般的副歌。  
 非常理想的东方。
 果然有着冥界的氛围。比起妖妖梦，永夜抄有着更冷的印象。因为是夜。
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
   
  **東方妖々夢　～ Ancient Temple**  东方妖妖梦　～ Ancient Temple
@@ -173,11 +194,11 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
 
 - 东方妖妖梦
   - [东方妖妖梦](./东方妖妖梦.md)游戏标题。
-    - 五面关底BOSS为[魂魄妖梦](./魂魄妖梦.md)，另外在[萃梦想](./东方萃梦想.md)、花映塚 (未找到链接)中作为其主题曲。
+    - 五面关底BOSS为[魂魄妖梦](./魂魄妖梦.md)，另外在[萃梦想](./东方萃梦想.md)、[花映塚](./花映塚.md)中作为其主题曲。
 
 
 - Ancient Temple
-  - 古老的寺庙，在妖妖梦 (未找到链接)中可能指[白玉楼](./白玉楼.md)？
+  - 古老的寺庙，在[妖妖梦](./妖妖梦.md)中可能指[白玉楼](./白玉楼.md)？
   - [西行寺幽幽子](./西行寺幽幽子.md)的姓氏「西行寺」，可能取自盛持寺「西行庵」或弘川寺「西行堂」。[^cite_note-4][^cite_note-5]
     - 收录在[莲台野夜行](./莲台野夜行.md)中的[古老的冥界寺](./古老的冥界寺.md)。
     - 在[莲台野夜行](./莲台野夜行.md)中，本曲对应的段落也提及[冥界](./冥界.md)与古寺。
@@ -191,6 +212,7 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
 
 
 <table><tbody><tr class="tt-comment" id="音乐专栏-39" data-pos="&#91;&quot;\u97f3\u4e50\u4e13\u680f&quot;,39&#93;"><td colspan="2" class="tt-ja" lang="ja"><div class="poem">　　曲名とテーマは、明らかにストーリーから決めたもの。この曲自体が境界という役割を持ちつつ、実は境界自体は曲の中にも封じ込めてある。二重の結界です。と言うのも、イントロまでは明らかに夢である事を意識していて、メインのメロディ自体は現実を意識しているからです。<br>　　まぁ、曲自体はどうなのか？　という感じもしなくもないですが、そういった意味を持った曲と言うのも、意味さえ分かれば楽しめます。逆に言えば、曲の中の幻覚のバランスが大きいのでしょう。</div></td><td colspan="2" class="tt-zh" lang="zh"><div class="poem">　　曲名和主题，很明显是从故事中决定的。这首曲子本身有着被称为界线的职责，实际上界线自身也已经封印在曲子中了。所谓二重界线。这也就是说，直到序曲还是很明确的意识到这是梦的事情，主体的旋律自身就能意识到是现实了。<br>　　嘛，曲子本身到底如何呢？也不是说没有这样去感受过，虽说也有曲子有这样说的意义，只要明白这个意义就很开心了。反过来说，曲中的幻觉平衡是很重要的。<br></div></td></tr></tbody></table>
+
 
 
 ### 二次同人数据

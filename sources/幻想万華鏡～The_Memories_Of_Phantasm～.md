@@ -18,6 +18,7 @@
 
 
 </center>
+
 ## 视频信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-幻想万華鏡～The_Memories_Of_Phantasm～封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/0/00/%E5%B9%BB%E6%83%B3%E4%B8%87%E8%8F%AF%E9%8F%A1%EF%BD%9EThe_Memories_Of_Phantasm%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg/140px-%E5%B9%BB%E6%83%B3%E4%B8%87%E8%8F%AF%E9%8F%A1%EF%BD%9EThe_Memories_Of_Phantasm%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="140" height="140" srcset="https://upload.thwiki.cc/thumb/0/00/%E5%B9%BB%E6%83%B3%E4%B8%87%E8%8F%AF%E9%8F%A1%EF%BD%9EThe_Memories_Of_Phantasm%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg/210px-%E5%B9%BB%E6%83%B3%E4%B8%87%E8%8F%AF%E9%8F%A1%EF%BD%9EThe_Memories_Of_Phantasm%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/0/00/%E5%B9%BB%E6%83%B3%E4%B8%87%E8%8F%AF%E9%8F%A1%EF%BD%9EThe_Memories_Of_Phantasm%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg/280px-%E5%B9%BB%E6%83%B3%E4%B8%87%E8%8F%AF%E9%8F%A1%EF%BD%9EThe_Memories_Of_Phantasm%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="400" data-file-height="400"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></div></td>

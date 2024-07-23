@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-KOISHI_BABY_DOLL_COLLECTION封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/1/12/KOISHI_BABY_DOLL_COLLECTION%E5%B0%81%E9%9D%A2.png/119px-KOISHI_BABY_DOLL_COLLECTION%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="119" height="168" srcset="https://upload.thwiki.cc/thumb/1/12/KOISHI_BABY_DOLL_COLLECTION%E5%B0%81%E9%9D%A2.png/179px-KOISHI_BABY_DOLL_COLLECTION%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/1/12/KOISHI_BABY_DOLL_COLLECTION%E5%B0%81%E9%9D%A2.png/239px-KOISHI_BABY_DOLL_COLLECTION%E5%B0%81%E9%9D%A2.png 2x" data-file-width="647" data-file-height="909"></a><div class="cover-char">角色：<a href="./古明地恋.md" title="古明地恋">古明地恋</a></div></td>
@@ -14,13 +15,16 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/45737513">https://www.pixiv.net/artworks/45737513</a></td></tr></tbody></table>
 
 KOISHI BABY DOLL COLLECTION（同人志，うさゆりぽっぷ，2014） - 2014年9月14日 由 うさゆりぽっぷ 于 大⑨州东方祭10 发布的画集/合同志同人志，一共24页，登场人物有 古明地恋，分级为 一般向
+
 ## 预览
+
 ## Staff
 - [ゆりあ](./ゆりあ.md)
 - 杏飴 (未找到链接)
 - はづりん (未找到链接)
 - ちゃんゆり (未找到链接)
 - 銀月りんご (未找到链接)
+
 
 ## 评论
 

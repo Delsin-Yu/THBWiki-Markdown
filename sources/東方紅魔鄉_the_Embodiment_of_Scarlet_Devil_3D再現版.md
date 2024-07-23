@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 软件信息](#软件信息)
@@ -18,6 +19,7 @@
 
 
 
+
 ## 软件信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-東方紅魔鄉_the_Embodiment_of_Scarlet_Devil_3D再現版封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/6/6f/%E6%9D%B1%E6%96%B9%E7%B4%85%E9%AD%94%E9%84%89_the_Embodiment_of_Scarlet_Devil_3D%E5%86%8D%E7%8F%BE%E7%89%88%E5%B0%81%E9%9D%A2.jpg/196px-%E6%9D%B1%E6%96%B9%E7%B4%85%E9%AD%94%E9%84%89_the_Embodiment_of_Scarlet_Devil_3D%E5%86%8D%E7%8F%BE%E7%89%88%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="196" height="147" srcset="https://upload.thwiki.cc/thumb/6/6f/%E6%9D%B1%E6%96%B9%E7%B4%85%E9%AD%94%E9%84%89_the_Embodiment_of_Scarlet_Devil_3D%E5%86%8D%E7%8F%BE%E7%89%88%E5%B0%81%E9%9D%A2.jpg/294px-%E6%9D%B1%E6%96%B9%E7%B4%85%E9%AD%94%E9%84%89_the_Embodiment_of_Scarlet_Devil_3D%E5%86%8D%E7%8F%BE%E7%89%88%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/6/6f/%E6%9D%B1%E6%96%B9%E7%B4%85%E9%AD%94%E9%84%89_the_Embodiment_of_Scarlet_Devil_3D%E5%86%8D%E7%8F%BE%E7%89%88%E5%B0%81%E9%9D%A2.jpg/392px-%E6%9D%B1%E6%96%B9%E7%B4%85%E9%AD%94%E9%84%89_the_Embodiment_of_Scarlet_Devil_3D%E5%86%8D%E7%8F%BE%E7%89%88%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="600" data-file-height="450"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></div></td>
@@ -26,6 +28,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://3dgm.blog137.fc2.com/">http://3dgm.blog137.fc2.com/</a></td></tr></tbody></table>
 
 東方紅魔鄉 the Embodiment of Scarlet Devil 3D再現版（同人游戏，カスタム団，2009） - 2009年9月13日 由 カスタム団  发布的3D STG同人游戏，可在 Windows 系统上运行，游戏人数为 单人模式，分级为 一般向
+
 ## Staff
 
 <table>
@@ -138,6 +141,7 @@ Shig様<br>
 </td></tr></tbody></table>
 
 
+
 ## 介绍
   
 如果出现乱码请挂载applocale启动
@@ -177,10 +181,13 @@ reply小技巧：reply选项中设置自由相机，采用顶视图观看reply�
 新添加BGM： 妖魔飞翔（原曲：rumia.wav都懂吧)  See←|→manipulates（原曲：魔术师メリー） 无间の钟　～ Infinite Nightmare
   
 
+
 ## 内容页面
 - 其他相关资料 (未找到链接)
 
+
 ## 评论
+
 ## 视频
   
 请注意：  

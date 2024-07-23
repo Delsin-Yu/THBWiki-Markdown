@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-LostPhantasm_Prologue封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/f/fe/LostPhantasm_Prologue%E5%B0%81%E9%9D%A2.jpg/160px-LostPhantasm_Prologue%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="160" height="224" srcset="https://upload.thwiki.cc/thumb/f/fe/LostPhantasm_Prologue%E5%B0%81%E9%9D%A2.jpg/240px-LostPhantasm_Prologue%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/f/fe/LostPhantasm_Prologue%E5%B0%81%E9%9D%A2.jpg/320px-LostPhantasm_Prologue%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="777" data-file-height="1087"></a><div class="cover-char">角色：<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a>，<a href="./宇佐见莲子.md" title="宇佐见莲子">宇佐见莲子</a>，<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/70047251">https://www.pixiv.net/artworks/70047251</a><br><a rel="nofollow" class="external free" href="http://www7a.biglobe.ne.jp/~hosizora/lp000.htm">http://www7a.biglobe.ne.jp/~hosizora/lp000.htm</a></td></tr></tbody></table>
 
 LostPhantasm Prologue（同人志，ナナシノ十字星団，2018） - 2018年8月10日 由 ナナシノ十字星団 于 Comic Market 94 发布的漫画同人志，B5尺寸一共76页，登场人物有 宇佐见莲子、玛艾露贝莉·赫恩、雾雨魔理沙，分级为 一般向
+
 ## Staff
 : 七篠創太 (未找到链接)
+
 
 ## 评论
 

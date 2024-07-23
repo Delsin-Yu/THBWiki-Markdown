@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-RESOLUTION_-voiceless_version-封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/7/7d/RESOLUTION_-voiceless_version-%E5%B0%81%E9%9D%A2.jpg/252px-RESOLUTION_-voiceless_version-%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="252" height="252" srcset="https://upload.thwiki.cc/thumb/7/7d/RESOLUTION_-voiceless_version-%E5%B0%81%E9%9D%A2.jpg/378px-RESOLUTION_-voiceless_version-%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/7/7d/RESOLUTION_-voiceless_version-%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="500" data-file-height="500"></a><div class="cover-char">角色：<a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a></div></td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://kapparecords.com/MasashiOkagakiAndFriends/M_OKAGAKI_KPCR-88.html">https://kapparecords.com/MasashiOkagakiAndFriends/M_OKAGAKI_KPCR-88.html</a></td></tr></tbody></table>
 
 RESOLUTION -voiceless version-（同人专辑，岡垣正志＆フレンズ，2009） - 2009年11月29日 由 岡垣正志＆フレンズ 于 东方崇敬祭3 发布的Omake同人专辑，分级为 一般向
+
 ## Staff
   
  **Arrangement**   
@@ -26,9 +28,11 @@ RESOLUTION -voiceless version-（同人专辑，岡垣正志＆フレンズ，20
 <table><tbody><tr><td><a href="/index.php?title=%E5%B2%A1%E5%9E%A3_%E2%80%9CJill%E2%80%9D_%E6%AD%A3%E5%BF%97&amp;action=edit&amp;redlink=1" class="new" title="岡垣 “Jill” 正志（页面不存在）">岡垣 “Jill” 正志</a></td><td></td><td>Tr.1</td></tr><tr><td><a href="/index.php?title=Yukihisa_Kanatani&amp;action=edit&amp;redlink=1" class="new" title="Yukihisa Kanatani（页面不存在）">Yukihisa Kanatani</a></td><td></td><td>Tr.1</td></tr><tr><td><a href="/index.php?title=Ryusuke_Chinen&amp;action=edit&amp;redlink=1" class="new" title="Ryusuke Chinen（页面不存在）">Ryusuke Chinen</a></td><td></td><td>Tr.1</td></tr></tbody></table>
 
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="RESOLUTION_-voiceless_version-" colspan="2" class="title">RESOLUTION -voiceless version-<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=岡垣 “Jill” 正志&amp;ogmusic=魔法少女十字軍&amp;fromwiki=RESOLUTION_-voiceless_version-"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E5%B2%A1%E5%9E%A3_%E2%80%9CJill%E2%80%9D_%E6%AD%A3%E5%BF%97&amp;action=edit&amp;redlink=1" class="new" title="岡垣 “Jill” 正志（页面不存在）">岡垣 “Jill” 正志</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，岡垣 “Jill” 正志&amp;fromwiki=RESOLUTION_-voiceless_version-"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演奏</td><td class="text" colspan="2">Keyboards：岡垣 “Jill” 正志 <br>Guitar：Yukihisa Kanatani <br>Bass：Ryusuke Chinen</td></tr><tr><td class="left"></td><td class="label">初发布</td><td class="text" colspan="2"><a href="/SCARLET_FANTASIA_-REVIVE-#1" title="SCARLET FANTASIA -REVIVE-">RESOLUTION</a><div class="source"><a href="./SCARLET_FANTASIA_-REVIVE-.md" title="SCARLET FANTASIA -REVIVE-">SCARLET FANTASIA -REVIVE-</a></div></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=魔法少女十字軍&amp;fromwiki=RESOLUTION_-voiceless_version-"><span></span></a></span><div class="ogmusic"><a href="/%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E5%8D%81%E5%AD%97%E8%BB%8D" class="mw-redirect" title="魔法少女十字軍">魔法少女十字軍</a></div><div class="source"><a href="./秋霜玉.md" title="秋霜玉">秋霜玉</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="RESOLUTION_-voiceless_version-" colspan="2" class="title">RESOLUTION -voiceless version-<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=岡垣 “Jill” 正志&amp;ogmusic=魔法少女十字軍&amp;fromwiki=RESOLUTION_-voiceless_version-"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E5%B2%A1%E5%9E%A3_%E2%80%9CJill%E2%80%9D_%E6%AD%A3%E5%BF%97&amp;action=edit&amp;redlink=1" class="new" title="岡垣 “Jill” 正志（页面不存在）">岡垣 “Jill” 正志</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，岡垣 “Jill” 正志&amp;fromwiki=RESOLUTION_-voiceless_version-"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演奏</td><td class="text" colspan="2">Keyboards：岡垣 “Jill” 正志 <br>Guitar：Yukihisa Kanatani <br>Bass：Ryusuke Chinen</td></tr><tr><td class="left"></td><td class="label">初发布</td><td class="text" colspan="2"><a href="/SCARLET_FANTASIA_-REVIVE-#1" title="SCARLET FANTASIA -REVIVE-">RESOLUTION</a><div class="source"><a href="./SCARLET_FANTASIA_-REVIVE-.md" title="SCARLET FANTASIA -REVIVE-">SCARLET FANTASIA -REVIVE-</a></div></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=魔法少女十字軍&amp;fromwiki=RESOLUTION_-voiceless_version-"><span></span></a></span><div class="ogmusic"><a href="./魔法少女十字軍.md" class="mw-redirect" title="魔法少女十字軍">魔法少女十字軍</a></div><div class="source"><a href="./秋霜玉.md" title="秋霜玉">秋霜玉</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

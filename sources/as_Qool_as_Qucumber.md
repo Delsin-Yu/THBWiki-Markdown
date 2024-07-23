@@ -4,7 +4,8 @@
 
 as Qool as Qucumber ，主要制作 同人音乐 的日本同人社团，主催是 瑞々，当前状态为 休止
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -21,6 +22,7 @@ as Qool as Qucumber ，主要制作 同人音乐 的日本同人社团，主催�
 
 
 
+
 ## 社团信息
 [](./文件-as_Qool_as_Qucumberbanner.jpg.md)  [](./文件-as_Qool_as_Qucumberbanner.jpg.md)banner
 [](./文件-as_Qool_as_Qucumberbanner2.jpg.md)  [](./文件-as_Qool_as_Qucumberbanner2.jpg.md)banner2
@@ -28,10 +30,13 @@ as Qool as Qucumber ，主要制作 同人音乐 的日本同人社团，主催�
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> as Qool as Qucumber </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=%E7%91%9E%E3%80%85&amp;action=edit&amp;redlink=1" class="new" title="瑞々（页面不存在）">瑞々</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://acacmizu.blog130.fc2.com/">http://acacmizu.blog130.fc2.com/</a> </td></tr></tbody></table>
 
 as Qool as Qucumber（同人社团，同人音乐社团） - as Qool as Qucumber ，主要制作 同人音乐 的日本同人社团，主催是 瑞々，当前状态为 休止
+
 ## 成员名单
 - 瑞々 (未找到链接)： [Nico](http://www.nicovideo.jp/mylist/14165315) [Twitter](https://twitter.com/mizumizu25)
 
+
 ## 作品列表
+
 ### 同人专辑
 [](./夢幻現想ディザテーション.md)[夢幻現想ディザテーション](./夢幻現想ディザテーション.md)首发日期：2011-05-22 （幺樂団カァニバル！2 (未找到链接)）全长 （一般向）[](./放浪ノープラン紀行.md)[放浪ノープラン紀行](./放浪ノープラン紀行.md)首发日期：2012-05-27 （第九回 博麗神社例大祭 (未找到链接)）全长 （一般向）[](./Whereabouts_of_Sealed_Boundary.md)[Whereabouts of Sealed Boundary](./Whereabouts_of_Sealed_Boundary.md)首发日期：2012-11-04 （科学世紀のカフェテラス（第2回） (未找到链接)）合作 （一般向）该专辑包含 4 张CD[](./焼胡瓜.md)[焼胡瓜](./焼胡瓜.md)首发日期：2012-05-06 （幺樂団カァニバル！3 (未找到链接)）Omake （一般向）[](./夢満ちゆ（同人专辑）.md)[夢満ちゆ](./夢満ちゆ（同人专辑）.md)首发日期：2012-12-30 （Comic Market 83 (未找到链接)）全长、​合作 （一般向）同人志[夢満ちゆ](./夢満ちゆ（同人志）.md)[](./Have_a_Good_Nightmare.md)[Have a Good Nightmare](./Have_a_Good_Nightmare.md)首发日期：2015-05-10 （第十二回 博麗神社例大祭 (未找到链接)）全长 （一般向）[](./夢満ちゆ2（同人专辑）.md)[夢満ちゆ2](./夢満ちゆ2（同人专辑）.md)首发日期：2018-05-06 （第十五回 博麗神社例大祭 (未找到链接)）全长、​合作 （一般向）同人志[夢満ちゆ2](./夢満ちゆ2（同人志）.md)
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -50,12 +55,14 @@ as Qool as Qucumber（同人社团，同人音乐社团） - as Qool as Qucumber
 </table>
 
 
+
 ### 同人志
 [](./夢満ちゆ（同人志）.md)[夢満ちゆ](./夢満ちゆ（同人志）.md)首发日期：2012-12-30 （Comic Market 83 (未找到链接)）漫画、​画集、​小说、​合同志 （一般向） 124&#160;页专辑[夢満ちゆ](./夢満ちゆ（同人专辑）.md)[](./夢満ちゆ2（同人志）.md)[夢満ちゆ2](./夢満ちゆ2（同人志）.md)首发日期：2018-05-06 （第十五回 博麗神社例大祭 (未找到链接)）漫画、​画集、​小说、​合同志 （一般向）B5&#160;尺寸 110&#160;页专辑[夢満ちゆ2](./夢満ちゆ2（同人专辑）.md)
 <table><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 参展信息

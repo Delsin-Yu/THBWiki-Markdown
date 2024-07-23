@@ -4,7 +4,8 @@
 
 奏空音戯-Melodious Noises ，于 2012 年成立，主要制作 同人音乐 的日本同人社团，主催是 雛廼こと，当前状态为 解散
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -20,17 +21,21 @@
 
 
 
+
 ## 社团信息
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> 奏空音戯-Melodious Noises </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2012</td></tr><tr><td><b>当前状态</b></td><td>解散</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=%E9%9B%9B%E5%BB%BC%E3%81%93%E3%81%A8&amp;action=edit&amp;redlink=1" class="new" title="雛廼こと（页面不存在）">雛廼こと</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://melodiousnoises.blog.fc2.com">http://melodiousnoises.blog.fc2.com</a> <br><a rel="nofollow" class="external free" href="https://com.nicovideo.jp/community/co1653573">https://com.nicovideo.jp/community/co1653573</a></td></tr></tbody></table>
 
 奏空音戯-Melodious Noises（同人社团，同人音乐社团） - 奏空音戯-Melodious Noises ，于 2012 年成立，主要制作 同人音乐 的日本同人社团，主催是 雛廼こと，当前状态为 解散
+
 ## 成员名单
 - 雛廼こと (未找到链接)
 - 空牙翔 (未找到链接)
 - あまきこくあ (未找到链接)
 
+
 ## 作品列表
+
 ### 同人专辑
 東方貧議談 封面图片 (未找到链接)東方貧議談 (未找到链接)首发日期：未知 - [](./東方帰暖家.md)[東方帰暖家](./東方帰暖家.md)首发日期：2012-12-30 （Comic Market 83 (未找到链接)）配音作品 （一般向）東方奏桜宴 封面图片 (未找到链接)東方奏桜宴 (未找到链接)首发日期：未知 - 東方紅水記 封面图片 (未找到链接)東方紅水記 (未找到链接)首发日期：未知 - 東方現魔帳 封面图片 (未找到链接)東方現魔帳 (未找到链接)首发日期：未知 - 
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -39,6 +44,7 @@
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458"></table>
+
 
 
 ## 参展信息

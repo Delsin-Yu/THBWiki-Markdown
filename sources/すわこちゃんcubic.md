@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人软件 (未找到链接)** 的词条
+
 ## 目录
 
 - [1 软件信息](#软件信息)
@@ -15,6 +16,7 @@
 - [5 评论](#评论)
 - [6 视频](#视频)
 - [7 下载](#下载)
+
 
 
 
@@ -37,6 +39,7 @@
 <tbody><tr><th colspan="2">配置需求</th></tr>
 <tr><td style="width:120px;padding-left:7px;"><b>操作系统</b></td><td>Windows XP(SP3以上) / Vista(SP2以上) / 7(SP1以上)</td></tr><tr><td style="width:120px;padding-left:7px;"><b>CPU</b></td><td>Intel Core2 Duo以上</td></tr><tr><td style="width:120px;padding-left:7px;"><b>内存</b></td><td>1GB以上</td></tr><tr><td style="width:120px;padding-left:7px;"><b>显示卡</b></td><td>支持DirectX9以上</td></tr><tr><td style="width:120px;padding-left:7px;"><b>硬盘需求</b></td><td>1GB以上</td></tr>
 </tbody></table>
+
 
 
 ## Staff
@@ -74,6 +77,7 @@ UTG Software
   
 
 
+
 ## 概述
   
 最大的特点就是视角独特，虽然比起普通的2Dstg上手时肯定需要一些时间适应，但是实际效果比别的大多数3Dstg要好得多。而且可以自由调节视角，选择自己最习惯的角度操作，整体的游戏性也因此大幅提高。 
@@ -96,13 +100,16 @@ UTG Software
 哦对了UTG似乎散了……
   
 
+
 ## 内容页面
 - [游戏设定与剧情](./すわこちゃんcubic-设定与剧情.md)
 - [系统说明](./すわこちゃんcubic-系统.md)
 - 音乐 (未找到链接)
 - 其他相关资料 (未找到链接)
 
+
 ## 评论
+
 ## 视频
   
 请注意：  
@@ -114,6 +121,7 @@ UTG Software
 [Extra](http://www.tudou.com/programs/view/di5RLiVbxq0/?resourceId=0_06_02_99)
 [FD](http://www.tudou.com/programs/view/kyNbTR3y-jo/?resourceId=0_06_02_99)
   
+
 
 ## 下载
   

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-天狗循行2_～Circulation_trip_to_Tengu_vol.2～封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/d/dd/%E5%A4%A9%E7%8B%97%E5%BE%AA%E8%A1%8C2_%EF%BD%9ECirculation_trip_to_Tengu_vol.2%EF%BD%9E%E5%B0%81%E9%9D%A2.png/117px-%E5%A4%A9%E7%8B%97%E5%BE%AA%E8%A1%8C2_%EF%BD%9ECirculation_trip_to_Tengu_vol.2%EF%BD%9E%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="117" height="168" srcset="https://upload.thwiki.cc/thumb/d/dd/%E5%A4%A9%E7%8B%97%E5%BE%AA%E8%A1%8C2_%EF%BD%9ECirculation_trip_to_Tengu_vol.2%EF%BD%9E%E5%B0%81%E9%9D%A2.png/176px-%E5%A4%A9%E7%8B%97%E5%BE%AA%E8%A1%8C2_%EF%BD%9ECirculation_trip_to_Tengu_vol.2%EF%BD%9E%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/d/dd/%E5%A4%A9%E7%8B%97%E5%BE%AA%E8%A1%8C2_%EF%BD%9ECirculation_trip_to_Tengu_vol.2%EF%BD%9E%E5%B0%81%E9%9D%A2.png/235px-%E5%A4%A9%E7%8B%97%E5%BE%AA%E8%A1%8C2_%EF%BD%9ECirculation_trip_to_Tengu_vol.2%EF%BD%9E%E5%B0%81%E9%9D%A2.png 2x" data-file-width="900" data-file-height="1287"></a></td>
@@ -18,9 +19,12 @@
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://karasu-tengu-t.booth.pm/items/2843483">Booth</a></td></tr></tbody></table>
 
 
+
 ## 预览
+
 ## Staff
 - こばしゅ (未找到链接)
+
 
 ## 评论
 

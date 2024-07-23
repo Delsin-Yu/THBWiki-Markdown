@@ -6,6 +6,7 @@ JynX作曲 | 引用了翻译表的页面 | 蓊翳逝去的现实_～_human_VISIO
 
 本页是关于 **向[东方Project](./东方Project.md)  
 致敬、形式类似的作品** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -26,6 +27,7 @@ JynX作曲 | 引用了翻译表的页面 | 蓊翳逝去的现实_～_human_VISIO
 
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
+
 
 
 
@@ -57,6 +59,7 @@ JynX作曲 | 引用了翻译表的页面 | 蓊翳逝去的现实_～_human_VISIO
 </td></tr></tbody></table>
 
 
+
 ## 出现作品
 
 <table>
@@ -65,13 +68,17 @@ JynX作曲 | 引用了翻译表的页面 | 蓊翳逝去的现实_～_human_VISIO
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 连缘无现里
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>MIDI格式</b></td><td>无播放信息</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-le01_18.mp3.md" title="文件:le01 18.mp3">le01_18.mp3</a><br><audio src="https://upload.thwiki.cc/5/5d/le01_18.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>未填写</td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 连缘无现里
 - Music Room (未找到链接)
 
@@ -81,8 +88,11 @@ ED曲。
 ED本身也很短，就算很想努力去作曲，也做不出什么花头。  
 作曲时间也是本作最短，大概只花了20分钟吧？  
 比起曲子，还是画ED下的工夫更多w
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
 
 

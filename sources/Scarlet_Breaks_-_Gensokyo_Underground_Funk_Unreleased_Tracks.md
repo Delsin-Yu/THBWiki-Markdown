@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Scarlet_Breaks_-_Gensokyo_Underground_Funk_Unreleased_Tracks封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/2/22/Scarlet_Breaks_-_Gensokyo_Underground_Funk_Unreleased_Tracks%E5%B0%81%E9%9D%A2.jpg/224px-Scarlet_Breaks_-_Gensokyo_Underground_Funk_Unreleased_Tracks%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="224" srcset="https://upload.thwiki.cc/thumb/2/22/Scarlet_Breaks_-_Gensokyo_Underground_Funk_Unreleased_Tracks%E5%B0%81%E9%9D%A2.jpg/336px-Scarlet_Breaks_-_Gensokyo_Underground_Funk_Unreleased_Tracks%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/2/22/Scarlet_Breaks_-_Gensokyo_Underground_Funk_Unreleased_Tracks%E5%B0%81%E9%9D%A2.jpg/448px-Scarlet_Breaks_-_Gensokyo_Underground_Funk_Unreleased_Tracks%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1200" data-file-height="1200"></a><div class="cover-char">角色：<a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a>，<a href="./古明地恋.md" title="古明地恋">古明地恋</a></div></td>
@@ -17,11 +18,13 @@ Scarlet Breaks - Gensokyo Underground Funk Unreleased Tracks（同人专辑，Ze
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://zextillion.bandcamp.com/album/scarlet-breaks-gensokyo-underground-funk-unreleased-tracks-2">bandcamp</a></td></tr></tbody></table>
 
 
+
 ## Staff
   
  **Compose**   
 
 <table><tbody><tr><td><a href="./Zextillion.md" title="Zextillion">Zextillion</a></td><td></td><td>Tr.1-20</td></tr></tbody></table>
+
 
 
 ## 曲目列表
@@ -46,6 +49,7 @@ Scarlet Breaks - Gensokyo Underground Funk Unreleased Tracks（同人专辑，Ze
 <tr><td id="18" class="infoYL"><b>18</b></td><td id="Lunar_Expedition_Original_Part_2" colspan="2" class="title">Lunar Expedition Original Part 2<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Zextillion&amp;fromwiki=Scarlet_Breaks_-_Gensokyo_Underground_Funk_Unreleased_Tracks"><span title="搜索相似同人曲"></span></a></span></td><td class="time">02:55</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./Zextillion.md" title="Zextillion">Zextillion</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Zextillion&amp;fromwiki=Scarlet_Breaks_-_Gensokyo_Underground_Funk_Unreleased_Tracks"><span></span></a></span></td></tr>
 <tr><td id="19" class="infoYL"><b>19</b></td><td id="Scarlet_Rush_Original" colspan="2" class="title">Scarlet Rush Original<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Zextillion&amp;fromwiki=Scarlet_Breaks_-_Gensokyo_Underground_Funk_Unreleased_Tracks"><span title="搜索相似同人曲"></span></a></span></td><td class="time">03:31</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./Zextillion.md" title="Zextillion">Zextillion</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Zextillion&amp;fromwiki=Scarlet_Breaks_-_Gensokyo_Underground_Funk_Unreleased_Tracks"><span></span></a></span></td></tr>
 <tr><td id="20" class="infoYL"><b>20</b></td><td id="Scarlet_Breaks" colspan="2" class="title">Scarlet Breaks<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Zextillion&amp;fromwiki=Scarlet_Breaks_-_Gensokyo_Underground_Funk_Unreleased_Tracks"><span title="搜索相似同人曲"></span></a></span></td><td class="time">04:03</td></tr><tr><td class="left"></td><td class="label">作曲</td><td class="text" colspan="2"><a href="./Zextillion.md" title="Zextillion">Zextillion</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Zextillion&amp;fromwiki=Scarlet_Breaks_-_Gensokyo_Underground_Funk_Unreleased_Tracks"><span></span></a></span></td></tr></tbody></table>
+
 
 
 ## 评论

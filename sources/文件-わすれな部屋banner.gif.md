@@ -4,6 +4,7 @@
 
 わすれな部屋 | 社团LOGO
 
+
 ## 文件说明
   
 源地址：[[1]](https://web.archive.org/web/20130516072431im_/http://www.maroon.dti.ne.jp/wasurenabeya/banner/wasurena200.gif)

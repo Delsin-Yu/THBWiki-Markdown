@@ -1,0 +1,122 @@
+# 幺乐团的历史1
+
+<!-- source html: G:\repos\THBWiki-Markdown-Builder\THBWikiMarkdown\Temp\main\d\dd\ns0%3A%E5%B9%BA%E4%B9%90%E5%9B%A2%E7%9A%84%E5%8E%86%E5%8F%B21.html -->
+
+官方专辑
+
+本页是关于东方Project  
+ **幺乐团的历史系列专辑 (未找到链接)** 的词条
+
+## 目录
+
+- [1 概述](#概述)
+- [2 相关信息](#相关信息)
+- [3 附带故事与光盘扫图](#附带故事与光盘扫图)
+- [4 曲目](#曲目)
+
+  - [4.1 Disc A](#Disc_A)
+  - [4.2 Disc B](#Disc_B)
+
+
+
+- [5 其他信息](#其他信息)
+- [6 注释](#注释)
+- [7 导航](#导航)
+
+
+
+
+
+## 概述
+  
+<big> **幺乐团的历史　～ Akyu's Untouched Score vol.1** </big>
+幺樂団の歴史　～ Akyu's Untouched Score vol.1<small>（ようがくだんのれきしいち， *Yougakudan no Rekishi* ）</small>  
+
+本CD是幺乐团的历史 (未找到链接)系列的第一份专辑，收录了游戏TH04[东方幻想乡](./东方幻想乡.md)中的全部BGM，与[东方怪绮谈](./东方怪绮谈.md)的Music Room中的一致[^cite_note-1]，2CD。
+  
+
+[](./文件-幺乐团的历史1封面.jpg.md)  [](./文件-幺乐团的历史1封面.jpg.md)幺乐团的历史1封面
+
+<table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td style="width:120px"><b>制作方</b></td><td style="width:300px"><a href="./上海爱丽丝幻乐团.md" title="上海爱丽丝幻乐团">上海爱丽丝幻乐团</a></td></tr><tr><td><b>发行日期</b></td><td>2006年5月21日 （第三回 博丽神社例大祭）</td></tr><tr><td><b>音轨数</b></td><td>15 + 15 = 30</td></tr><tr><td><b>总时长</b></td><td>57:28 + 52:52 = 1:50:20</td></tr><tr><td><b>编号</b></td><td>ZCDS-0005~6</td></tr><tr><td><b>售价</b></td><td>会场售价：700日元（C86贩卖既刊时定价为500日元）<br>通贩售价：1000日元</td></tr></tbody></table>
+
+幺乐团的历史1（官方专辑） - 官方专辑
+
+## 相关信息
+- [上海音乐室　～ Music CD](http://www16.big.or.jp/~zun/html/mcdtop.html) （日文）
+- [博麗幻想書譜 2006年05月05日 例大祭新作紹介です](http://kourindou.exblog.jp/3366837/) （日文）
+
+
+## 附带故事与光盘扫图
+- [ZUN的文本&amp;光盘扫图](./幺乐团的历史1-ZUN的文本.md)
+- [幺乐团的历史 背景](./幺乐团的历史-背景.md)
+- 关于曲目评价文字请参见：[东方幻想乡MusicRoom](./东方幻想乡-Music.md)
+- [公式站的说明](./幺乐团的历史1-公式站介绍.md)
+
+
+## 曲目
+
+### Disc A
+
+<table><tbody><tr><td class="infoYD"><b>01</b></td><td colspan="2" class="title"><a href="./幻想乡_～_Lotus_Land_Story.md" title="幻想乡 ～ Lotus Land Story">幻想乡　～ Lotus Land Story</a></td><td class="time">03:47</td></tr><tr><td class="left"></td><td colspan="3" class="bigtext"><a href="./幻想郷_～_Lotus_Land_Story.md" class="mw-redirect" title="幻想郷 ～ Lotus Land Story">幻想郷　～ Lotus Land Story</a></td></tr>
+<tr><td class="infoYD"><b>02</b></td><td colspan="2" class="title"><a href="./Witching_Dream.md" title="Witching Dream">Witching Dream</a></td><td class="time">02:40</td></tr><tr><td class="left"></td><td colspan="3" class="bigtext"><a href="./Witching_Dream.md" title="Witching Dream">Witching Dream</a></td></tr>
+<tr><td class="infoYD"><b>03</b></td><td colspan="2" class="title"><a href="./Selene's_light.md" title="Selene&#39;s light">Selene's light</a></td><td class="time">02:43</td></tr><tr><td class="left"></td><td colspan="3" class="bigtext"><a href="./Selene's_light.md" title="Selene&#39;s light">Selene's light</a></td></tr>
+<tr><td class="infoYD"><b>04</b></td><td colspan="2" class="title"><a href="./装饰战_～_Decoration_Battle.md" title="装饰战 ～ Decoration Battle">装饰战　～ Decoration Battle</a></td><td class="time">02:40</td></tr><tr><td class="left"></td><td colspan="3" class="bigtext"><a href="./装飾戦_～_Decoration_Battle.md" class="mw-redirect" title="装飾戦 ～ Decoration Battle">装飾戦　～ Decoration Battle</a></td></tr>
+<tr><td class="infoYD"><b>05</b></td><td colspan="2" class="title"><a href="./Break_the_Sabbath.md" title="Break the Sabbath">Break the Sabbath</a></td><td class="time">02:48</td></tr><tr><td class="left"></td><td colspan="3" class="bigtext"><a href="./Break_the_Sabbath.md" title="Break the Sabbath">Break the Sabbath</a></td></tr>
+<tr><td class="infoYD"><b>06</b></td><td colspan="2" class="title"><a href="./红响曲_～_Scarlet_Phoneme.md" title="红响曲 ～ Scarlet Phoneme">红响曲　～ Scarlet Phoneme</a></td><td class="time">02:42</td></tr><tr><td class="left"></td><td colspan="3" class="bigtext"><a href="./紅響曲_～_Scarlet_Phoneme.md" class="mw-redirect" title="紅響曲 ～ Scarlet Phoneme">紅響曲　～ Scarlet Phoneme</a></td></tr>
+<tr><td class="infoYD"><b>07</b></td><td colspan="2" class="title"><a href="./Bad_Apple!!.md" title="Bad Apple!!">Bad Apple!!</a></td><td class="time">03:15</td></tr><tr><td class="left"></td><td colspan="3" class="bigtext"><a href="./Bad_Apple!!.md" title="Bad Apple!!">Bad Apple!!</a></td></tr>
+<tr><td class="infoYD"><b>08</b></td><td colspan="2" class="title"><a href="./灵战_～_Perdition_crisis.md" title="灵战 ～ Perdition crisis">灵战　～ Perdition crisis</a></td><td class="time">03:50</td></tr><tr><td class="left"></td><td colspan="3" class="bigtext"><a href="./霊戦_～_Perdition_crisis.md" class="mw-redirect" title="霊戦 ～ Perdition crisis">霊戦　～ Perdition crisis</a></td></tr>
+<tr><td class="infoYD"><b>09</b></td><td colspan="2" class="title"><a href="./Alice_Maestra.md" title="Alice Maestra">Alice Maestra</a></td><td class="time">05:48</td></tr><tr><td class="left"></td><td colspan="3" class="bigtext"><a href="./アリスマエステラ.md" class="mw-redirect" title="アリスマエステラ">アリスマエステラ</a></td></tr>
+<tr><td class="infoYD"><b>10</b></td><td colspan="2" class="title"><a href="./少女绮想曲_～_Capriccio.md" title="少女绮想曲 ～ Capriccio">少女绮想曲　～ Capriccio</a></td><td class="time">03:10</td></tr><tr><td class="left"></td><td colspan="3" class="bigtext"><a href="./少女綺想曲_～_Capriccio.md" class="mw-redirect" title="少女綺想曲 ～ Capriccio">少女綺想曲　～ Capriccio</a></td></tr>
+<tr><td class="infoYD"><b>11</b></td><td colspan="2" class="title"><a href="./星之器_～_Casket_of_Star.md" title="星之器 ～ Casket of Star">星之器　～ Casket of Star</a></td><td class="time">02:54</td></tr><tr><td class="left"></td><td colspan="3" class="bigtext"><a href="./星の器_～_Casket_of_Star.md" class="mw-redirect" title="星の器 ～ Casket of Star">星の器　～ Casket of Star</a></td></tr>
+<tr><td class="infoYD"><b>12</b></td><td colspan="2" class="title"><a href="./Lotus_Love.md" title="Lotus Love">Lotus Love</a></td><td class="time">04:10</td></tr><tr><td class="left"></td><td colspan="3" class="bigtext"><a href="./Lotus_Love.md" title="Lotus Love">Lotus Love</a></td></tr>
+<tr><td class="infoYD"><b>13</b></td><td colspan="2" class="title"><a href="./沉睡的恐怖_～_Sleeping_Terror.md" title="沉睡的恐怖 ～ Sleeping Terror">沉睡的恐怖　～ Sleeping Terror</a></td><td class="time">05:02</td></tr><tr><td class="left"></td><td colspan="3" class="bigtext"><a href="./沉睡的恐怖_～_Sleeping_Terror.md" title="沉睡的恐怖 ～ Sleeping Terror" unred="">眠れる恐怖　～ Sleeping Terror</a></td></tr>
+<tr><td class="infoYD"><b>14</b></td><td colspan="2" class="title"><a href="./Dream_Land.md" title="Dream Land">Dream Land</a></td><td class="time">03:20</td></tr><tr><td class="left"></td><td colspan="3" class="bigtext"><a href="./Dream_Land.md" title="Dream Land">Dream Land</a></td></tr>
+<tr><td class="infoYD"><b>15</b></td><td colspan="2" class="title"><a href="./幽梦_～_Inanimate_Dream.md" title="幽梦 ～ Inanimate Dream">幽梦　～ Inanimate Dream</a></td><td class="time">05:14</td></tr><tr><td class="left"></td><td colspan="3" class="bigtext"><a href="./幽夢_～_Inanimate_Dream.md" class="mw-redirect" title="幽夢 ～ Inanimate Dream">幽夢　～ Inanimate Dream</a></td></tr></tbody></table>
+
+
+
+### Disc B
+
+<table><tbody><tr><td class="infoYD"><b>01</b></td><td colspan="2" class="title"><a href="./不可不禁止的游戏.md" title="不可不禁止的游戏">不可不禁止的游戏</a></td><td class="time">04:42</td></tr><tr><td class="left"></td><td colspan="3" class="bigtext"><a href="./禁じざるをえない遊戯.md" class="mw-redirect" title="禁じざるをえない遊戯">禁じざるをえない遊戯</a></td></tr>
+<tr><td class="infoYD"><b>02</b></td><td colspan="2" class="title"><a href="./女仆幻想_～_Icemilk_Magic.md" title="女仆幻想 ～ Icemilk Magic">女仆幻想　～ Icemilk Magic</a></td><td class="time">03:20</td></tr><tr><td class="left"></td><td colspan="3" class="bigtext"><a href="./メイド幻想_～_Icemilk_Magic.md" class="mw-redirect" title="メイド幻想 ～ Icemilk Magic">メイド幻想　～ Icemilk Magic</a></td></tr>
+<tr><td class="infoYD"><b>03</b></td><td colspan="2" class="title"><a href="./可爱的恶魔_～_Innocence.md" title="可爱的恶魔 ～ Innocence">可爱的恶魔　～ Innocence</a></td><td class="time">05:05</td></tr><tr><td class="left"></td><td colspan="3" class="bigtext"><a href="./かわいい悪魔_～_Innocence.md" class="mw-redirect" title="かわいい悪魔 ～ Innocence">かわいい悪魔　～ Innocence</a></td></tr>
+<tr><td class="infoYD"><b>04</b></td><td colspan="2" class="title"><a href="./Days.md" title="Days">Days</a></td><td class="time">02:37</td></tr><tr><td class="left"></td><td colspan="3" class="bigtext"><a href="./Days.md" title="Days">Days</a></td></tr>
+<tr><td class="infoYD"><b>05</b></td><td colspan="2" class="title"><a href="./Peaceful.md" title="Peaceful">Peaceful</a></td><td class="time">02:50</td></tr><tr><td class="left"></td><td colspan="3" class="bigtext"><a href="./Peaceful.md" title="Peaceful">Peaceful</a></td></tr>
+<tr><td class="infoYD"><b>06</b></td><td colspan="2" class="title"><a href="./Arcadian_Dream.md" title="Arcadian Dream">Arcadian Dream</a></td><td class="time">04:20</td></tr><tr><td class="left"></td><td colspan="3" class="bigtext"><a href="./Arcadian_Dream.md" title="Arcadian Dream">Arcadian Dream</a></td></tr>
+<tr><td class="infoYD"><b>07</b></td><td colspan="2" class="title"><a href="./幻想的居民.md" title="幻想的居民">幻想的居民</a></td><td class="time">02:25</td></tr><tr><td class="left"></td><td colspan="3" class="bigtext"><a href="./幻想の住人.md" class="mw-redirect" title="幻想の住人">幻想の住人</a></td></tr>
+<tr><td class="infoYD"><b>08</b></td><td colspan="2" class="title"><a href="./Lotus_Road.md" title="Lotus Road">Lotus Road</a></td><td class="time">03:52</td></tr><tr><td class="left"></td><td colspan="3" class="bigtext"><a href="./Lotus_Road.md" title="Lotus Road">Lotus Road</a></td></tr>
+<tr><td class="infoYD"><b>09</b></td><td colspan="2" class="title"><a href="./Dreamy_pilot.md" title="Dreamy pilot">Dreamy pilot</a></td><td class="time">03:34</td></tr><tr><td class="left"></td><td colspan="3" class="bigtext"><a href="./Dreamy_pilot.md" title="Dreamy pilot">Dreamy pilot</a></td></tr>
+<tr><td class="infoYD"><b>10</b></td><td colspan="2" class="title"><a href="./Incomplete_Plot.md" title="Incomplete Plot">Incomplete Plot</a></td><td class="time">04:01</td></tr><tr><td class="left"></td><td colspan="3" class="bigtext"><a href="./Incomplete_Plot.md" title="Incomplete Plot">Incomplete Plot</a></td></tr>
+<tr><td class="infoYD"><b>11</b></td><td colspan="2" class="title"><a href="./Border_Land.md" title="Border Land">Border Land</a></td><td class="time">02:41</td></tr><tr><td class="left"></td><td colspan="3" class="bigtext"><a href="./Border_Land.md" title="Border Land">Border Land</a></td></tr>
+<tr><td class="infoYD"><b>12</b></td><td colspan="2" class="title"><a href="./Magic_Shop_of_Raspberry.md" title="Magic Shop of Raspberry">Magic Shop of Raspberry</a></td><td class="time">04:15</td></tr><tr><td class="left"></td><td colspan="3" class="bigtext"><a href="./Magic_Shop_of_Raspberry.md" title="Magic Shop of Raspberry">Magic Shop of Raspberry</a></td></tr>
+<tr><td class="infoYD"><b>13</b></td><td colspan="2" class="title"><a href="./Crescent_Dream.md" title="Crescent Dream">Crescent Dream</a></td><td class="time">02:42</td></tr><tr><td class="left"></td><td colspan="3" class="bigtext"><a href="./Crescent_Dream.md" title="Crescent Dream">Crescent Dream</a></td></tr>
+<tr><td class="infoYD"><b>14</b></td><td colspan="2" class="title"><a href="./装饰战_～_Decoration_Battle（未使用版本）.md" class="mw-redirect" title="装饰战 ～ Decoration Battle（未使用版本）">装饰战　～ Decoration Battle（未使用版本）</a></td><td class="time">02:20</td></tr><tr><td class="left"></td><td colspan="3" class="bigtext"><a href="./装飾戦_～_Decoration_Battle（未使用バージョン）.md" class="mw-redirect" title="装飾戦 ～ Decoration Battle（未使用バージョン）">装飾戦　～ Decoration Battle（未使用バージョン）</a></td></tr>
+<tr><td class="infoYD"><b>15</b></td><td colspan="2" class="title"><a href="./幽梦_～_Inanimate_Dream（未使用版本）.md" class="mw-redirect" title="幽梦 ～ Inanimate Dream（未使用版本）">幽梦　～ Inanimate Dream（未使用版本）</a></td><td class="time">04:08</td></tr><tr><td class="left"></td><td colspan="3" class="bigtext"><a href="./幽夢_～_Inanimate_Dream（未使用バージョン）.md" class="mw-redirect" title="幽夢 ～ Inanimate Dream（未使用バージョン）">幽夢　～ Inanimate Dream（未使用バージョン）</a></td></tr></tbody></table>
+
+
+
+## 其他信息
+- [分析与考据](./幺乐团的历史1-分析考据.md)
+
+
+[^cite_note-1]: 旧作1-4的BGM都在怪绮谈的MusicRoom中收录并进行了部分改动。
+
+
+## 导航
+  
+  
+
+
+
+
+
+---
+
+此文档由 [THBWiki-Markdown-Builder](https://github.com/Delsin-Yu/THBWiki-Markdown-Builder) 构建。
+
+文档中的所有内容除特殊注明外，均在 [**知识共享(Creative Commons) 署名-非商业性使用-相同方式共享 3.0 协议**](https://creativecommons.org/licenses/by-sa/3.0/deed.zh-hans) 下提供，附加条款亦可能应用。
+
+引用类型与其他类型作品版权归原作者所有，如有作者授权则遵照授权协议使用。
+
+详细请查阅 [THBWiki：免责声明](https://thbwiki.cc/THBWiki:%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E)。
+

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Momizi_Collection+封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/0/02/Momizi_Collection%2B%E5%B0%81%E9%9D%A2.jpg/156px-Momizi_Collection%2B%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="156" height="196" srcset="https://upload.thwiki.cc/thumb/0/02/Momizi_Collection%2B%E5%B0%81%E9%9D%A2.jpg/235px-Momizi_Collection%2B%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/0/02/Momizi_Collection%2B%E5%B0%81%E9%9D%A2.jpg/313px-Momizi_Collection%2B%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="480" data-file-height="601"></a><div class="cover-char">角色：<a href="./犬走椛.md" title="犬走椛">犬走椛</a>，<a href="./射命丸文.md" title="射命丸文">射命丸文</a>，<a href="./姬海棠果.md" title="姬海棠果">姬海棠果</a>，<a href="./河城荷取.md" title="河城荷取">河城荷取</a></div></td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://rainbowvanilla.blog117.fc2.com/blog-entry-190.html">http://rainbowvanilla.blog117.fc2.com/blog-entry-190.html</a><br><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/11085159">https://www.pixiv.net/artworks/11085159</a></td></tr></tbody></table>
 
 Momizi Collection+（同人志，Rainbow Vanilla，2010） - 2010年6月13日 由 Rainbow Vanilla 于 东方素艺祭1 发布的漫画同人志，变形A4尺寸一共44页，分级为 一般向
+
 ## Staff
 - [祭唄](./祭唄.md)
 

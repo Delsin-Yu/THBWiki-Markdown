@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-ANSWER（白上さん家）封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/5/57/ANSWER%EF%BC%88%E7%99%BD%E4%B8%8A%E3%81%95%E3%82%93%E5%AE%B6%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/120px-ANSWER%EF%BC%88%E7%99%BD%E4%B8%8A%E3%81%95%E3%82%93%E5%AE%B6%EF%BC%89%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="120" height="196" srcset="https://upload.thwiki.cc/thumb/5/57/ANSWER%EF%BC%88%E7%99%BD%E4%B8%8A%E3%81%95%E3%82%93%E5%AE%B6%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/180px-ANSWER%EF%BC%88%E7%99%BD%E4%B8%8A%E3%81%95%E3%82%93%E5%AE%B6%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/5/57/ANSWER%EF%BC%88%E7%99%BD%E4%B8%8A%E3%81%95%E3%82%93%E5%AE%B6%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/240px-ANSWER%EF%BC%88%E7%99%BD%E4%B8%8A%E3%81%95%E3%82%93%E5%AE%B6%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="450" data-file-height="735"></a><div class="cover-char">角色：<a href="./宇佐见莲子.md" title="宇佐见莲子">宇佐见莲子</a>，<a href="./玛艾露贝莉·赫恩.md" title="玛艾露贝莉·赫恩">玛艾露贝莉·赫恩</a></div></td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://sirakamisanti-ao.sakura.ne.jp/answer/answer.html">http://sirakamisanti-ao.sakura.ne.jp/answer/answer.html</a></td></tr></tbody></table>
 
 ANSWER（同人志，白上さん家，2012） - 2012年5月27日 由 白上さん家 于 博丽神社例大祭9 发布的小说同人志，新书尺寸一共392页，分级为 一般向
+
 ## Staff
 著
 
@@ -33,6 +35,7 @@ Design
 Web
 
 - しんわく (未找到链接)(Aquarell-C (未找到链接))
+
 
 ## 评论
 

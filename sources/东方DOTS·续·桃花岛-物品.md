@@ -4,6 +4,7 @@
 
 东方DOTS玩家社群
 
+
 ## 目录
 
 - [1 基础物品](#基础物品)
@@ -31,10 +32,12 @@
 
 
 
+
 ##  **<big>基础物品</big>** 
   
 直接购买就可以使用或者获得属性。
   
+
 
 ###  **<big>消耗品</big>** 
 
@@ -81,6 +84,7 @@
 </td></tr></tbody></table>
 
 
+
 ### <big> **属性** </big>
 
 <table>
@@ -114,6 +118,7 @@
 </td></tr></tbody></table>
 
 
+
 ###  **<big>装备</big>** 
 
 <table>
@@ -143,6 +148,7 @@
 </td>
 <td><a href="./文件-THD2木盾.png.md" class="image" title="木盾"><img alt="木盾" src="https://upload.thwiki.cc/b/b2/THD2%E6%9C%A8%E7%9B%BE.png" decoding="async" loading="lazy" width="88" height="64" data-file-width="88" data-file-height="64"></a><b> <big>木盾</big> <a href="./文件-THD2G.png.md" class="image" title="金钱"><img alt="金钱" src="https://upload.thwiki.cc/4/48/THD2G.png" decoding="async" loading="lazy" width="25" height="17" data-file-width="25" data-file-height="17"></a>200<br>被动：伤害格挡-有一定几率格挡普通攻击的伤害。</b><br>多个不叠加概率，与<b>哨戒天狗护盾</b>不叠加。<br>格挡概率：60%<br>格挡伤害：40%（至多18）<br><small><i>铁奶罩！。</i></small><br><br><br>
 </td></tr></tbody></table>
+
 
 
 ###  **<big>神秘商店</big>** 
@@ -185,6 +191,7 @@
 </td></tr></tbody></table>
 
 
+
 ### <big> **其他** </big>
 
 <table>
@@ -221,10 +228,12 @@
 </td></tr></tbody></table>
 
 
+
 ## <big> **升级物品** </big>
   
 升级物品需要通过基础物品或再加上合成卷轴才获得。
   
+
 
 ### <big> **配件** </big>
 
@@ -275,6 +284,7 @@
 </td></tr></tbody></table>
 
 
+
 ### <big> **辅助** </big>
 
 <table>
@@ -317,6 +327,7 @@
 </td></tr></tbody></table>
 
 
+
 ###  **<big>法器</big>** 
 
 <table>
@@ -357,6 +368,7 @@
 </td>
 <td><a href="./文件-THD2读心之心眼.png.md" class="image" title="读心之心眼"><img alt="读心之心眼" src="https://upload.thwiki.cc/9/98/THD2%E8%AF%BB%E5%BF%83%E4%B9%8B%E5%BF%83%E7%9C%BC.png" decoding="async" loading="lazy" width="128" height="64" data-file-width="128" data-file-height="64"></a><b><big>读心之心眼</big> <a href="./文件-THD2G.png.md" class="image" title="金钱"><img alt="金钱" src="https://upload.thwiki.cc/4/48/THD2G.png" decoding="async" loading="lazy" width="25" height="17" data-file-width="25" data-file-height="17"></a>3000<br><small>恶魔洋装(1200)+红魔挂件（540）+使魔斗篷(1100)+卷轴：读心之心眼(160)</small><br>主动：内心侵蚀-使目标敌方少女5秒内受到的生命回复效果降低35%，并每秒受到40点纯粹伤害；若持续时间内该少女受到来自任何技能造成的魔法伤害，此效果会延长1秒，最多延长至10秒。</b><br>+3智力<br>+18%魔法抗性<br>+15力量<br>+3敏捷<br>+10护甲<br>施法距离：600<br><a href="./文件-THD2冷却时间图标.png.md" class="image" title="冷却时间（秒）"><img alt="冷却时间（秒）" src="https://upload.thwiki.cc/f/f8/THD2%E5%86%B7%E5%8D%B4%E6%97%B6%E9%97%B4%E5%9B%BE%E6%A0%87.png" decoding="async" loading="lazy" width="22" height="22" data-file-width="22" data-file-height="22"></a> 25　<a href="./文件-THD2法力消耗图标.png.md" class="image" title="法力消耗"><img alt="法力消耗" src="https://upload.thwiki.cc/d/d6/THD2%E6%B3%95%E5%8A%9B%E6%B6%88%E8%80%97%E5%9B%BE%E6%A0%87.png" decoding="async" loading="lazy" width="22" height="22" data-file-width="22" data-file-height="22"></a> 85<br><br><br>
 </td></tr></tbody></table>
+
 
 
 ### <big> **兵刃** </big>
@@ -417,6 +429,7 @@
 </td></tr></tbody></table>
 
 
+
 ###  **<big>防具</big>** 
 
 <table>
@@ -455,6 +468,7 @@
 </td>
 <td><a href="./文件-THD2替身地藏.png.md" class="image" title="THD2替身地藏"><img alt="THD2替身地藏" src="https://upload.thwiki.cc/8/84/THD2%E6%9B%BF%E8%BA%AB%E5%9C%B0%E8%97%8F.png" decoding="async" loading="lazy" width="124" height="64" data-file-width="124" data-file-height="64"></a><b><big>替身地藏</big> <a href="./文件-THD2G.png.md" class="image" title="金钱"><img alt="金钱" src="https://upload.thwiki.cc/4/48/THD2G.png" decoding="async" loading="lazy" width="25" height="17" data-file-width="25" data-file-height="17"></a>3500<br>幽灵木勺(1500)+贤者之石（1200）+图纸：替身地藏(800)<br>被动：连招规避-当受到伤害后生命值低于80%时，会对少女施加一个强驱散效果，0.5秒内提升100%状态抗性，且所有受到和造成的伤害全部归零。初始时间30秒，每次触发均会延长5s冷却时间，最大50秒。</b><br>+250魔法值<br>+250生命值<br>+5全属性<br><a href="./文件-THD2冷却时间图标.png.md" class="image" title="冷却时间（秒）"><img alt="冷却时间（秒）" src="https://upload.thwiki.cc/f/f8/THD2%E5%86%B7%E5%8D%B4%E6%97%B6%E9%97%B4%E5%9B%BE%E6%A0%87.png" decoding="async" loading="lazy" width="22" height="22" data-file-width="22" data-file-height="22"></a> 30<br><br><br>
 </td></tr></tbody></table>
+
 
 
 ### <big> **宝物** </big>

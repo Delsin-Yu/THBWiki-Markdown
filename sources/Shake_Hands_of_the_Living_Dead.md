@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Shake_Hands_of_the_Living_Dead封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/a/ad/Shake_Hands_of_the_Living_Dead%E5%B0%81%E9%9D%A2.png/99px-Shake_Hands_of_the_Living_Dead%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="99" height="140" srcset="https://upload.thwiki.cc/thumb/a/ad/Shake_Hands_of_the_Living_Dead%E5%B0%81%E9%9D%A2.png/148px-Shake_Hands_of_the_Living_Dead%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/a/ad/Shake_Hands_of_the_Living_Dead%E5%B0%81%E9%9D%A2.png/198px-Shake_Hands_of_the_Living_Dead%E5%B0%81%E9%9D%A2.png 2x" data-file-width="566" data-file-height="800"></a><div class="cover-char">角色：<a href="./古明地觉.md" title="古明地觉">古明地觉</a>，<a href="./古明地恋.md" title="古明地恋">古明地恋</a>，<a href="./灵乌路空.md" title="灵乌路空">灵乌路空</a></div></td>
@@ -14,9 +15,12 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/13032950">https://www.pixiv.net/artworks/13032950</a></td></tr></tbody></table>
 
 Shake Hands of the Living Dead（同人志，シュミセンジル，2010） - 2010年9月19日 由 シュミセンジル 于 博丽神社例大祭SP1 发布的漫画同人志，登场人物有 古明地觉、古明地恋、灵乌路空、火焰猫燐、大妖精、琪露诺，分级为 一般向
+
 ## 预览
+
 ## Staff
 - [八代 涼](./八代_涼.md)
+
 
 ## 评论
 

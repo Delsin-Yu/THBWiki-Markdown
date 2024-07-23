@@ -4,6 +4,7 @@
 
 TTL_SOUND | 专辑封面 | 封面图片
 
+
 ## 摘要
   
 東方EUROBEAT CITY 2封面

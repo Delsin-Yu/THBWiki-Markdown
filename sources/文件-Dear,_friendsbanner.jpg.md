@@ -4,6 +4,7 @@
 
 Dear,_friends | 社团LOGO
 
+
 ## 摘要
   
 源地址：[direct image link](https://web.archive.org/web/20061013120929im_/http://www.dearfriends.sakura.ne.jp/img/banner.jpg), [source page](https://web.archive.org/web/20061010145257/http://www.dearfriends.sakura.ne.jp/link.htm)

@@ -4,6 +4,7 @@
 
 Mace's_Secret_Base | 東方邪星章製作チーム
 
+
 ## 目录
 
 - [1 难度标题及说明文字](#难度标题及说明文字)
@@ -16,6 +17,7 @@ Mace's_Secret_Base | 東方邪星章製作チーム
 
 - [4 注释](#注释)
 - [5 词条导航](#词条导航)
+
 
 
 
@@ -107,6 +109,7 @@ Mace's_Secret_Base | 東方邪星章製作チーム
 </tbody></table>
 
 
+
 ## 通关后的提示文字
 
 <table>
@@ -126,6 +129,7 @@ Mace's_Secret_Base | 東方邪星章製作チーム
 <td align="center">Thank you for Playing!<br>遊んでくれた貴方の願いが叶いますように。</td>
 <td align="center">感谢游玩！<br>愿玩了这个游戏的你的愿望也能实现。
 </td></tr></tbody></table>
+
 
 
 ## 通关等级评定
@@ -197,6 +201,7 @@ Mace's_Secret_Base | 東方邪星章製作チーム
 <td>骗人的！这怎么可能！<br>请一定来找我并亲口<br>告诉我「我将夜晚烧尽了」。
 </td></tr>
 </tbody></table>
+
 
 
 ### 通关等级评定方法
@@ -293,6 +298,7 @@ k是一个与难度相关的系数，在Easy/Normal/Hard/Lunatic难度下分别�
 
 
 [^cite_note-1]: 视星等从高到低排列，也就是越来越亮。
+
 
 ## 词条导航
   

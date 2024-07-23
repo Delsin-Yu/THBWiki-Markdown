@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-エニグマティクドール_EP封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/f/f1/%E3%82%A8%E3%83%8B%E3%82%B0%E3%83%9E%E3%83%86%E3%82%A3%E3%82%AF%E3%83%89%E3%83%BC%E3%83%AB_EP%E5%B0%81%E9%9D%A2.jpg/224px-%E3%82%A8%E3%83%8B%E3%82%B0%E3%83%9E%E3%83%86%E3%82%A3%E3%82%AF%E3%83%89%E3%83%BC%E3%83%AB_EP%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="224" srcset="https://upload.thwiki.cc/thumb/f/f1/%E3%82%A8%E3%83%8B%E3%82%B0%E3%83%9E%E3%83%86%E3%82%A3%E3%82%AF%E3%83%89%E3%83%BC%E3%83%AB_EP%E5%B0%81%E9%9D%A2.jpg/336px-%E3%82%A8%E3%83%8B%E3%82%B0%E3%83%9E%E3%83%86%E3%82%A3%E3%82%AF%E3%83%89%E3%83%BC%E3%83%AB_EP%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/f/f1/%E3%82%A8%E3%83%8B%E3%82%B0%E3%83%9E%E3%83%86%E3%82%A3%E3%82%AF%E3%83%89%E3%83%BC%E3%83%AB_EP%E5%B0%81%E9%9D%A2.jpg/448px-%E3%82%A8%E3%83%8B%E3%82%B0%E3%83%9E%E3%83%86%E3%82%A3%E3%82%AF%E3%83%89%E3%83%BC%E3%83%AB_EP%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1024" data-file-height="1024"></a><div class="cover-char">角色：<a href="/%E8%93%AC%E8%8E%B1%E4%BA%BA%E5%BD%A2#封面角色" title="蓬莱人形">蓬莱人形C63版碟面少女</a></div></td>
@@ -18,11 +19,13 @@
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://axeempty.booth.pm/items/3468346">Booth</a></td></tr></tbody></table>
 
 
+
 ## Staff
   
  **Arrangement**   
 
 <table><tbody><tr><td><a href="./オノ.md" title="オノ">オノ</a></td><td></td><td>Tr.1/2</td></tr></tbody></table>
+
 
 
 ## 试听
@@ -31,10 +34,12 @@
 
   
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="エニグマティクドール" colspan="2" class="title">エニグマティクドール<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=オノ&amp;ogmusic=エニグマティクドール&amp;fromwiki=エニグマティクドール_EP"><span title="搜索相似同人曲"></span></a></span></td><td class="time">01:58</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./オノ.md" title="オノ">オノ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，オノ&amp;fromwiki=エニグマティクドール_EP"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=エニグマティクドール&amp;fromwiki=エニグマティクドール_EP"><span></span></a></span><div class="ogmusic"><a href="/%E3%82%A8%E3%83%8B%E3%82%B0%E3%83%9E%E3%83%86%E3%82%A3%E3%82%AF%E3%83%89%E3%83%BC%E3%83%AB" class="mw-redirect" title="エニグマティクドール">エニグマティクドール</a></div><div class="source"><a href="/%E8%93%AC%E8%8E%B1%E4%BA%BA%E5%BD%A2_%EF%BD%9E_Dolls_in_Pseudo_Paradise" class="mw-redirect" title="蓬莱人形 ～ Dolls in Pseudo Paradise">蓬莱人形　～ Dolls in Pseudo Paradise</a></div></td></tr>
-<tr><td id="2" class="infoYD"><b>02</b></td><td id="二色蓮花蝶" colspan="2" class="title">二色蓮花蝶<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=オノ&amp;ogmusic=二色蓮花蝶　～ Red and White&amp;fromwiki=エニグマティクドール_EP"><span title="搜索相似同人曲"></span></a></span></td><td class="time">02:02</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./オノ.md" title="オノ">オノ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，オノ&amp;fromwiki=エニグマティクドール_EP"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=二色蓮花蝶　～ Red and White&amp;fromwiki=エニグマティクドール_EP"><span></span></a></span><div class="ogmusic"><a href="/%E4%BA%8C%E8%89%B2%E8%93%AE%E8%8A%B1%E8%9D%B6_%EF%BD%9E_Red_and_White" class="mw-redirect" title="二色蓮花蝶 ～ Red and White">二色蓮花蝶　～ Red and White</a></div><div class="source"><a href="/%E8%93%AC%E8%8E%B1%E4%BA%BA%E5%BD%A2_%EF%BD%9E_Dolls_in_Pseudo_Paradise" class="mw-redirect" title="蓬莱人形 ～ Dolls in Pseudo Paradise">蓬莱人形　～ Dolls in Pseudo Paradise</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="エニグマティクドール" colspan="2" class="title">エニグマティクドール<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=オノ&amp;ogmusic=エニグマティクドール&amp;fromwiki=エニグマティクドール_EP"><span title="搜索相似同人曲"></span></a></span></td><td class="time">01:58</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./オノ.md" title="オノ">オノ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，オノ&amp;fromwiki=エニグマティクドール_EP"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=エニグマティクドール&amp;fromwiki=エニグマティクドール_EP"><span></span></a></span><div class="ogmusic"><a href="./エニグマティクドール.md" class="mw-redirect" title="エニグマティクドール">エニグマティクドール</a></div><div class="source"><a href="./蓬莱人形_～_Dolls_in_Pseudo_Paradise.md" class="mw-redirect" title="蓬莱人形 ～ Dolls in Pseudo Paradise">蓬莱人形　～ Dolls in Pseudo Paradise</a></div></td></tr>
+<tr><td id="2" class="infoYD"><b>02</b></td><td id="二色蓮花蝶" colspan="2" class="title">二色蓮花蝶<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=オノ&amp;ogmusic=二色蓮花蝶　～ Red and White&amp;fromwiki=エニグマティクドール_EP"><span title="搜索相似同人曲"></span></a></span></td><td class="time">02:02</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./オノ.md" title="オノ">オノ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，オノ&amp;fromwiki=エニグマティクドール_EP"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=二色蓮花蝶　～ Red and White&amp;fromwiki=エニグマティクドール_EP"><span></span></a></span><div class="ogmusic"><a href="./二色蓮花蝶_～_Red_and_White.md" class="mw-redirect" title="二色蓮花蝶 ～ Red and White">二色蓮花蝶　～ Red and White</a></div><div class="source"><a href="./蓬莱人形_～_Dolls_in_Pseudo_Paradise.md" class="mw-redirect" title="蓬莱人形 ～ Dolls in Pseudo Paradise">蓬莱人形　～ Dolls in Pseudo Paradise</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

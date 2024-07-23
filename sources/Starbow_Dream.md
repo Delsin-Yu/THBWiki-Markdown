@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -36,11 +37,13 @@
 
 
 
+
 ## 基本信息
 
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">スターボウドリーム</td></tr><tr><td><b>译名</b></td><td>Starbow Dream</td></tr><tr><td><b>其他译名</b></td><td>星弧之梦</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 Starbow Dream（曲目） - 由 ZUN 创作的官方曲目，原名 スターボウドリーム
+
 ## 出现作品
 
 <table>
@@ -49,7 +52,9 @@ Starbow Dream（曲目） - 由 ZUN 创作的官方曲目，原名 スターボ�
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 东方怪绮谈
   
 YM2608(OPNA)，FM86版。
@@ -59,12 +64,15 @@ YM2608(OPNA)，FM86版。
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th05_Y_23.ogg.md" title="文件:th05 Y 23.ogg">th05_Y_23.ogg</a><br><audio src="https://upload.thwiki.cc/d/d6/th05_Y_23.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>Y_NG01.M</td></tr><tr><td><b>音轨时长</b></td><td>1:44.031</td></tr></tbody></table>
 
 
+
 ### 幺乐团的历史 vol.4
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-ha04_23.mp3.md" title="文件:ha04 23.mp3">ha04_23.mp3</a><br><audio src="https://upload.thwiki.cc/f/f3/ha04_23.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track23.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>2:03</td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 东方怪绮谈
 - Music Room (未找到链接)
 
@@ -79,8 +87,11 @@ YM2608(OPNA)，FM86版。
 ＺＵＮ（太田）  
 用于东方梦时空的曲子  
 宇宙就是这种感觉吗？
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
   
  **スターボウドリーム**  Starbow Dream
@@ -98,6 +109,7 @@ YM2608(OPNA)，FM86版。
 
 - ドリーム（dream）
   - 英语：梦。
+
 
 
 ### 二次同人数据

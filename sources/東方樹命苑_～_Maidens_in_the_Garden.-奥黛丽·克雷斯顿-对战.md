@@ -21,6 +21,7 @@
 
   
 
+
 ## 目录
 
 - [1 通用胜利对话](#通用胜利对话)
@@ -35,9 +36,11 @@
 
 
 
+
 ## 通用胜利对话
 
 <table><tbody><tr class="tt-content" id="通用胜利对话-1" data-pos="&#91;&quot;\u901a\u7528\u80dc\u5229\u5bf9\u8bdd&quot;,1&#93;"><td id="奥黛丽·克雷斯顿" class="tt-char" lang="zh"><div class="poem">奥黛丽·克雷斯顿</div></td><td class="tt-ja" lang="ja"><div class="poem">私の力に不可能という言葉はありえない！</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-content" id="通用胜利对话-2" data-pos="&#91;&quot;\u901a\u7528\u80dc\u5229\u5bf9\u8bdd&quot;,2&#93;"><td id="奥黛丽·克雷斯顿" class="tt-char" lang="zh"><div class="poem">奥黛丽·克雷斯顿</div></td><td class="tt-ja" lang="ja"><div class="poem">気に入ったわ貴女。<br>私の宮殿のゲストにならない？</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr></tbody></table>
+
 
 
 ## 奥黛丽·克雷斯顿 击败 奥黛丽·克雷斯顿
@@ -45,9 +48,11 @@
 <table><tbody><tr class="tt-content" id="奥黛丽·克雷斯顿_击败_奥黛丽·克雷斯顿-1" data-pos="&#91;&quot;\u5965\u9edb\u4e3d\u00b7\u514b\u96f7\u65af\u987f \u51fb\u8d25 \u5965\u9edb\u4e3d\u00b7\u514b\u96f7\u65af\u987f&quot;,1&#93;"><td id="奥黛丽·克雷斯顿" class="tt-char" lang="zh"><div class="poem">奥黛丽·克雷斯顿</div></td><td class="tt-ja" lang="ja"><div class="poem">解けない謎なんて、自分しかいないわ！</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr></tbody></table>
 
 
+
 ## 奥黛丽·克雷斯顿 击败 佐比持海波
 
 <table><tbody><tr class="tt-content" id="奥黛丽·克雷斯顿_击败_佐比持海波-1" data-pos="&#91;&quot;\u5965\u9edb\u4e3d\u00b7\u514b\u96f7\u65af\u987f \u51fb\u8d25 \u4f50\u6bd4\u6301\u6d77\u6ce2&quot;,1&#93;"><td id="奥黛丽·克雷斯顿" class="tt-char" lang="zh"><div class="poem">奥黛丽·克雷斯顿</div></td><td class="tt-ja" lang="ja"><div class="poem">鍛錬なんてしなくても<br>勝負に勝てればいいのよ。勝てれば。</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-content" id="奥黛丽·克雷斯顿_击败_佐比持海波-2" data-pos="&#91;&quot;\u5965\u9edb\u4e3d\u00b7\u514b\u96f7\u65af\u987f \u51fb\u8d25 \u4f50\u6bd4\u6301\u6d77\u6ce2&quot;,2&#93;"><td id="奥黛丽·克雷斯顿" class="tt-char" lang="zh"><div class="poem">奥黛丽·克雷斯顿</div></td><td class="tt-ja" lang="ja"><div class="poem">え、あんた鮫なの？<br>…成程、進化してる訳ね。</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr></tbody></table>
+
 
 
 ## 奥黛丽·克雷斯顿 击败 山渊炼
@@ -55,9 +60,11 @@
 <table><tbody><tr class="tt-content" id="奥黛丽·克雷斯顿_击败_山渊炼-1" data-pos="&#91;&quot;\u5965\u9edb\u4e3d\u00b7\u514b\u96f7\u65af\u987f \u51fb\u8d25 \u5c71\u6e0a\u70bc&quot;,1&#93;"><td id="奥黛丽·克雷斯顿" class="tt-char" lang="zh"><div class="poem">奥黛丽·克雷斯顿</div></td><td class="tt-ja" lang="ja"><div class="poem">何あんた、探偵気取り？<br>気に食わないわね。</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-content" id="奥黛丽·克雷斯顿_击败_山渊炼-2" data-pos="&#91;&quot;\u5965\u9edb\u4e3d\u00b7\u514b\u96f7\u65af\u987f \u51fb\u8d25 \u5c71\u6e0a\u70bc&quot;,2&#93;"><td id="奥黛丽·克雷斯顿" class="tt-char" lang="zh"><div class="poem">奥黛丽·克雷斯顿</div></td><td class="tt-ja" lang="ja"><div class="poem">へえ、その耳と尻尾は本物なの。<br>負けたんだからちょっと触らせなさいよ。</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr></tbody></table>
 
 
+
 ## 奥黛丽·克雷斯顿 击败 铃鹿玉枝
 
 <table><tbody><tr class="tt-content" id="奥黛丽·克雷斯顿_击败_铃鹿玉枝-1" data-pos="&#91;&quot;\u5965\u9edb\u4e3d\u00b7\u514b\u96f7\u65af\u987f \u51fb\u8d25 \u94c3\u9e7f\u7389\u679d&quot;,1&#93;"><td id="奥黛丽·克雷斯顿" class="tt-char" lang="zh"><div class="poem">奥黛丽·克雷斯顿</div></td><td class="tt-ja" lang="ja"><div class="poem">縁が無いなら、自力で結ぶまでよ。<br>それが興味あるものだったらの話だけど。</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-content" id="奥黛丽·克雷斯顿_击败_铃鹿玉枝-2" data-pos="&#91;&quot;\u5965\u9edb\u4e3d\u00b7\u514b\u96f7\u65af\u987f \u51fb\u8d25 \u94c3\u9e7f\u7389\u679d&quot;,2&#93;"><td id="奥黛丽·克雷斯顿" class="tt-char" lang="zh"><div class="poem">奥黛丽·克雷斯顿</div></td><td class="tt-ja" lang="ja"><div class="poem">鬼？…にしては呆けた顔してるわね貴女。<br>威圧感に欠けるというか…。</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr></tbody></table>
+
 
 
 ## 奥黛丽·克雷斯顿 击败 宇田杜草庵
@@ -65,9 +72,11 @@
 <table><tbody><tr class="tt-content" id="奥黛丽·克雷斯顿_击败_宇田杜草庵-1" data-pos="&#91;&quot;\u5965\u9edb\u4e3d\u00b7\u514b\u96f7\u65af\u987f \u51fb\u8d25 \u5b87\u7530\u675c\u8349\u5eb5&quot;,1&#93;"><td id="奥黛丽·克雷斯顿" class="tt-char" lang="zh"><div class="poem">奥黛丽·克雷斯顿</div></td><td class="tt-ja" lang="ja"><div class="poem">私は動物の方が好きよ。<br>だって、からかいがいがあるじゃない。</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-content" id="奥黛丽·克雷斯顿_击败_宇田杜草庵-2" data-pos="&#91;&quot;\u5965\u9edb\u4e3d\u00b7\u514b\u96f7\u65af\u987f \u51fb\u8d25 \u5b87\u7530\u675c\u8349\u5eb5&quot;,2&#93;"><td id="奥黛丽·克雷斯顿" class="tt-char" lang="zh"><div class="poem">奥黛丽·克雷斯顿</div></td><td class="tt-ja" lang="ja"><div class="poem">はんっ、上には上がいるのよ。<br>たとえこの地上に住んでいてもね。</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr></tbody></table>
 
 
+
 ## 奥黛丽·克雷斯顿 击败 珠林苑玲珑
 
 <table><tbody><tr class="tt-content" id="奥黛丽·克雷斯顿_击败_珠林苑玲珑-1" data-pos="&#91;&quot;\u5965\u9edb\u4e3d\u00b7\u514b\u96f7\u65af\u987f \u51fb\u8d25 \u73e0\u6797\u82d1\u73b2\u73d1&quot;,1&#93;"><td id="奥黛丽·克雷斯顿" class="tt-char" lang="zh"><div class="poem">奥黛丽·克雷斯顿</div></td><td class="tt-ja" lang="ja"><div class="poem">天界か…ふふ、考えといても損はないわね。</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr><tr class="tt-content" id="奥黛丽·克雷斯顿_击败_珠林苑玲珑-2" data-pos="&#91;&quot;\u5965\u9edb\u4e3d\u00b7\u514b\u96f7\u65af\u987f \u51fb\u8d25 \u73e0\u6797\u82d1\u73b2\u73d1&quot;,2&#93;"><td id="奥黛丽·克雷斯顿" class="tt-char" lang="zh"><div class="poem">奥黛丽·克雷斯顿</div></td><td class="tt-ja" lang="ja"><div class="poem">遊びに来てもらう為に宝石ばら撒いてたわけ？<br>なーんか、違うと思うんだけど。</div></td><td class="tt-zh" lang="zh"><div class="poem"></div></td></tr></tbody></table>
+
 
 
 ## 奥黛丽·克雷斯顿 击败 柊命花

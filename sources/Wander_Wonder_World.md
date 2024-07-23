@@ -18,6 +18,7 @@
 
 
 </center>
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Wander_Wonder_World封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/f/f1/Wander_Wonder_World%E5%B0%81%E9%9D%A2.jpg/224px-Wander_Wonder_World%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="224" srcset="https://upload.thwiki.cc/thumb/f/f1/Wander_Wonder_World%E5%B0%81%E9%9D%A2.jpg/336px-Wander_Wonder_World%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/f/f1/Wander_Wonder_World%E5%B0%81%E9%9D%A2.jpg/448px-Wander_Wonder_World%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1024" data-file-height="1024"></a><div class="cover-char">角色：<a href="/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C" title="十六夜咲夜">十六夜咲夜</a>，<a href="./红美铃.md" title="红美铃">红美铃</a>，<a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a></div></td>
@@ -26,7 +27,9 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/hgu_clubDTM/status/500634359322255360">https://twitter.com/hgu_clubDTM/status/500634359322255360</a></td></tr></tbody></table>
 
 Wander Wonder World（同人专辑，club-DTM，2014） - 2014年8月31日 由 club-DTM 于 极・东方神居祭1 发布的全长同人专辑，分级为 一般向
+
 ## Staff
+
 ## 曲目列表
 
 <table><tbody><tr><td id="1" class="info"><b>01</b></td><td id="サイケ人形師" colspan="2" class="title">サイケ人形師<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=Wander_Wonder_World"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr>
@@ -40,6 +43,7 @@ Wander Wonder World（同人专辑，club-DTM，2014） - 2014年8月31日 由 c
 <tr><td id="9" class="info"><b>09</b></td><td id="Sakuya’s_Rainbow" colspan="2" class="title">Sakuya’s Rainbow<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=Wander_Wonder_World"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr>
 <tr><td id="10" class="info"><b>10</b></td><td id="shotoku_legends" colspan="2" class="title">shotoku legends<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=Wander_Wonder_World"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr>
 <tr><td id="11" class="info"><b>11</b></td><td id="Lake_Side" colspan="2" class="title">Lake Side<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=Wander_Wonder_World"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr></tbody></table>
+
 
 
 ## 评论

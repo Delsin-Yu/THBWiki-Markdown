@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-風祝紅魔郷_Re：Birth封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/e/e6/%E9%A2%A8%E7%A5%9D%E7%B4%85%E9%AD%94%E9%83%B7_Re%EF%BC%9ABirth%E5%B0%81%E9%9D%A2.png/139px-%E9%A2%A8%E7%A5%9D%E7%B4%85%E9%AD%94%E9%83%B7_Re%EF%BC%9ABirth%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="139" height="196" srcset="https://upload.thwiki.cc/thumb/e/e6/%E9%A2%A8%E7%A5%9D%E7%B4%85%E9%AD%94%E9%83%B7_Re%EF%BC%9ABirth%E5%B0%81%E9%9D%A2.png/208px-%E9%A2%A8%E7%A5%9D%E7%B4%85%E9%AD%94%E9%83%B7_Re%EF%BC%9ABirth%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/e/e6/%E9%A2%A8%E7%A5%9D%E7%B4%85%E9%AD%94%E9%83%B7_Re%EF%BC%9ABirth%E5%B0%81%E9%9D%A2.png/277px-%E9%A2%A8%E7%A5%9D%E7%B4%85%E9%AD%94%E9%83%B7_Re%EF%BC%9ABirth%E5%B0%81%E9%9D%A2.png 2x" data-file-width="378" data-file-height="534"></a><div class="cover-char">角色：<a href="./东风谷早苗.md" title="东风谷早苗">东风谷早苗</a>，<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>，<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a>，<a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a></div></td>
@@ -14,11 +15,13 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://suihanjar.web.fc2.com/C88.html">http://suihanjar.web.fc2.com/C88.html</a></td></tr></tbody></table>
 
 風祝紅魔郷 Re：Birth（同人志，すいはんじゃー，2015） - 2015年8月14日 由 すいはんじゃー 于 Comic Market 88 发布的小说同人志，文库版尺寸一共250页，分级为 一般向
+
 ## Staff
 作者
 : キィ （[すいはんじゃー](./すいはんじゃー.md)）
 封面，插画
 : 金子ねコ （[優先席](./優先席.md)）
+
 
 ## 评论
 

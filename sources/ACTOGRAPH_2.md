@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-ACTOGRAPH_2封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/d/d7/ACTOGRAPH_2%E5%B0%81%E9%9D%A2.jpg/158px-ACTOGRAPH_2%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="158" height="224" srcset="https://upload.thwiki.cc/thumb/d/d7/ACTOGRAPH_2%E5%B0%81%E9%9D%A2.jpg/237px-ACTOGRAPH_2%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/d/d7/ACTOGRAPH_2%E5%B0%81%E9%9D%A2.jpg/315px-ACTOGRAPH_2%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="317" data-file-height="450"></a><div class="cover-char">角色：<a href="./宇佐见莲子.md" title="宇佐见莲子">宇佐见莲子</a>，<a href="./玛艾露贝莉·赫恩.md" title="玛艾露贝莉·赫恩">玛艾露贝莉·赫恩</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://altomo.blog59.fc2.com/blog-entry-252.html">http://altomo.blog59.fc2.com/blog-entry-252.html</a></td></tr></tbody></table>
 
 ACTOGRAPH 2（同人志，四方山，2016） - 2016年12月29日 由 四方山 于 Comic Market 91 发布的漫画/总集同人志，A5尺寸一共156页，登场人物有 宇佐见莲子、玛艾露贝莉·赫恩，分级为 一般向
+
 ## Staff
 - [金成](./金成.md)
+
 
 ## 收录作品
 - [ふたりにたりないさんぼると](./ふたりにたりないさんぼると.md)
@@ -29,6 +32,7 @@ ACTOGRAPH 2（同人志，四方山，2016） - 2016年12月29日 由 四方山 
   
 + 描き下ろし漫画
   
+
 
 ## 评论
 

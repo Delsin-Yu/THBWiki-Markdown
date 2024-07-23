@@ -6,6 +6,7 @@ JynX作曲 | 井绳嘶鸣通小路_～_Stream_VISION | 引用了翻译表的页�
 
 本页是关于 **向[东方Project](./东方Project.md)  
 致敬、形式类似的作品** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -26,6 +27,7 @@ JynX作曲 | 井绳嘶鸣通小路_～_Stream_VISION | 引用了翻译表的页�
 
   - [5.1 乐理资讯](#乐理资讯)
   - [5.2 分析考据](#分析考据)
+
 
 
 
@@ -57,6 +59,7 @@ JynX作曲 | 井绳嘶鸣通小路_～_Stream_VISION | 引用了翻译表的页�
 </td></tr></tbody></table>
 
 
+
 ## 出现作品
 
 <table>
@@ -65,13 +68,17 @@ JynX作曲 | 井绳嘶鸣通小路_～_Stream_VISION | 引用了翻译表的页�
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 连缘蛇丛剑
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>MIDI格式</b></td><td>无播放信息</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-le02_18.mp3.md" title="文件:le02 18.mp3">le02_18.mp3</a><br><audio src="https://upload.thwiki.cc/1/18/le02_18.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>未填写</td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 连缘蛇丛剑
 - Music Room (未找到链接)
 
@@ -89,8 +96,11 @@ staff曲。
   
 只要staff数量不变，这种曲子就不会变长。  
 只有这才是我能预见的未来。
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
 - 朽縄啼き
   - 取自日本谚语“蛇に噛まれて朽縄に怖じる”，意近中国谚语“一朝被蛇咬，十年怕井绳”。

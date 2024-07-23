@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-LOTUS_LAND_LIFE_＃2_Gourmet_of_Phantasmagoria【Apart】封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/1/10/LOTUS_LAND_LIFE_%EF%BC%832_Gourmet_of_Phantasmagoria%E3%80%90Apart%E3%80%91%E5%B0%81%E9%9D%A2.jpg/135px-LOTUS_LAND_LIFE_%EF%BC%832_Gourmet_of_Phantasmagoria%E3%80%90Apart%E3%80%91%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="135" height="196" srcset="https://upload.thwiki.cc/thumb/1/10/LOTUS_LAND_LIFE_%EF%BC%832_Gourmet_of_Phantasmagoria%E3%80%90Apart%E3%80%91%E5%B0%81%E9%9D%A2.jpg/202px-LOTUS_LAND_LIFE_%EF%BC%832_Gourmet_of_Phantasmagoria%E3%80%90Apart%E3%80%91%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/1/10/LOTUS_LAND_LIFE_%EF%BC%832_Gourmet_of_Phantasmagoria%E3%80%90Apart%E3%80%91%E5%B0%81%E9%9D%A2.jpg/269px-LOTUS_LAND_LIFE_%EF%BC%832_Gourmet_of_Phantasmagoria%E3%80%90Apart%E3%80%91%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="650" data-file-height="945"></a><div class="cover-char">角色：<a href="./东风谷早苗.md" title="东风谷早苗">东风谷早苗</a></div></td>
@@ -14,9 +15,12 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/71255140">https://www.pixiv.net/artworks/71255140</a></td></tr></tbody></table>
 
 LOTUS LAND LIFE ＃2 Gourmet of Phantasmagoria【Apart】（同人志，球体の杜，2018） - 2018年10月21日 由 球体の杜 于 东方红楼梦14 发布的漫画同人志，一共28页，登场人物有 东风谷早苗、物部布都、依神女苑、云居一轮，分级为 一般向
+
 ## 预览
+
 ## Staff
 - あかいわ (未找到链接)
+
 
 ## 评论
 

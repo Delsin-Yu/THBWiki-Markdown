@@ -18,6 +18,7 @@
 
 
 </center>
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=SUPER_KOISHI_BEAT%E5%B0%81%E9%9D%A2.jpg" class="new" title="文件:SUPER KOISHI BEAT封面.jpg">封面图片</a><div class="cover-char">角色：<a href="./古明地恋.md" title="古明地恋">古明地恋</a></div></td>
@@ -26,9 +27,11 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/judgmentsp0414/status/738269813114429441">https://twitter.com/judgmentsp0414/status/738269813114429441</a><br><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/56851240">https://www.pixiv.net/artworks/56851240</a></td></tr><tr><td class="label">备注</td><td colspan="2">以<b>ちょこばなな！</b>名义发布</td></tr></tbody></table>
 
 SUPER KOISHI BEAT（同人专辑，みずいろシャボン，2016） - 2016年6月5日 由 みずいろシャボン 于 古明地情结3 发布的同人专辑，曲目主要风格是 Eurobeat，分级为 一般向
+
 ## Staff
 Illustration
-: Yoi （ちょこばなな！ (未找到链接)）
+: Yoi （[ちょこばなな！](./ちょこばなな！.md)）
+
 
 ## 试听
   
@@ -38,9 +41,11 @@ Illustration
 
   
 
+
 ## 曲目列表
 
 <table></table>
+
 
 
 ## 评论

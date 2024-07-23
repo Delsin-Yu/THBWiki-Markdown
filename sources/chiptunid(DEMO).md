@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2">无封面</td>
@@ -18,6 +19,7 @@ chiptunid(DEMO)（同人专辑，悦楽舎，2020） - 2020年10月11日 由 悦
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://hoshi.bandcamp.com/album/chiptunid-demo">bandcamp</a></td></tr></tbody></table>
 
 
+
 ## Staff
   
  **Arrangement**   
@@ -25,10 +27,12 @@ chiptunid(DEMO)（同人专辑，悦楽舎，2020） - 2020年10月11日 由 悦
 <table><tbody><tr><td><a href="./hoshi.md" title="hoshi">hoshi</a></td><td></td><td>Tr.1/2</td></tr></tbody></table>
 
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="The_Ladle_Seeker_GB_(Prototype)" colspan="2" class="title">The Ladle Seeker GB (Prototype)<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=hoshi&amp;ogmusic=キャプテン・ムラサ&amp;fromwiki=chiptunid(DEMO)"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./hoshi.md" title="hoshi">hoshi</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，hoshi&amp;fromwiki=chiptunid(DEMO)"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=キャプテン・ムラサ&amp;fromwiki=chiptunid(DEMO)"><span></span></a></span><div class="ogmusic"><a href="/%E3%82%AD%E3%83%A3%E3%83%97%E3%83%86%E3%83%B3%E3%83%BB%E3%83%A0%E3%83%A9%E3%82%B5" class="mw-redirect" title="キャプテン・ムラサ">キャプテン・ムラサ</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E6%98%9F%E8%8E%B2%E8%88%B9_%EF%BD%9E_Undefined_Fantastic_Object." class="mw-redirect" title="东方星莲船 ～ Undefined Fantastic Object.">东方星莲船　～ Undefined Fantastic Object.</a></div></td></tr>
-<tr><td id="2" class="infoYD"><b>02</b></td><td id="幽霊客船の時空を越えた旅_(LSDj_Edit)" colspan="2" class="title">幽霊客船の時空を越えた旅 (LSDj Edit)<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=hoshi&amp;ogmusic=幽霊客船の時空を越えた旅&amp;fromwiki=chiptunid(DEMO)"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./hoshi.md" title="hoshi">hoshi</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，hoshi&amp;fromwiki=chiptunid(DEMO)"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=幽霊客船の時空を越えた旅&amp;fromwiki=chiptunid(DEMO)"><span></span></a></span><div class="ogmusic"><a href="/%E5%B9%BD%E9%9C%8A%E5%AE%A2%E8%88%B9%E3%81%AE%E6%99%82%E7%A9%BA%E3%82%92%E8%B6%8A%E3%81%88%E3%81%9F%E6%97%85" class="mw-redirect" title="幽霊客船の時空を越えた旅">幽霊客船の時空を越えた旅</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E6%98%9F%E8%8E%B2%E8%88%B9_%EF%BD%9E_Undefined_Fantastic_Object." class="mw-redirect" title="东方星莲船 ～ Undefined Fantastic Object.">东方星莲船　～ Undefined Fantastic Object.</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="The_Ladle_Seeker_GB_(Prototype)" colspan="2" class="title">The Ladle Seeker GB (Prototype)<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=hoshi&amp;ogmusic=キャプテン・ムラサ&amp;fromwiki=chiptunid(DEMO)"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./hoshi.md" title="hoshi">hoshi</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，hoshi&amp;fromwiki=chiptunid(DEMO)"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=キャプテン・ムラサ&amp;fromwiki=chiptunid(DEMO)"><span></span></a></span><div class="ogmusic"><a href="./キャプテン・ムラサ.md" class="mw-redirect" title="キャプテン・ムラサ">キャプテン・ムラサ</a></div><div class="source"><a href="./东方星莲船_～_Undefined_Fantastic_Object..md" class="mw-redirect" title="东方星莲船 ～ Undefined Fantastic Object.">东方星莲船　～ Undefined Fantastic Object.</a></div></td></tr>
+<tr><td id="2" class="infoYD"><b>02</b></td><td id="幽霊客船の時空を越えた旅_(LSDj_Edit)" colspan="2" class="title">幽霊客船の時空を越えた旅 (LSDj Edit)<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=hoshi&amp;ogmusic=幽霊客船の時空を越えた旅&amp;fromwiki=chiptunid(DEMO)"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="./hoshi.md" title="hoshi">hoshi</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，hoshi&amp;fromwiki=chiptunid(DEMO)"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=幽霊客船の時空を越えた旅&amp;fromwiki=chiptunid(DEMO)"><span></span></a></span><div class="ogmusic"><a href="./幽霊客船の時空を越えた旅.md" class="mw-redirect" title="幽霊客船の時空を越えた旅">幽霊客船の時空を越えた旅</a></div><div class="source"><a href="./东方星莲船_～_Undefined_Fantastic_Object..md" class="mw-redirect" title="东方星莲船 ～ Undefined Fantastic Object.">东方星莲船　～ Undefined Fantastic Object.</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

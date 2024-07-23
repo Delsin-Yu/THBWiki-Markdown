@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-東方革金機_~_The_Golden_Age_Will_Return_Again封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/1/12/%E6%9D%B1%E6%96%B9%E9%9D%A9%E9%87%91%E6%A9%9F_~_The_Golden_Age_Will_Return_Again%E5%B0%81%E9%9D%A2.png/224px-%E6%9D%B1%E6%96%B9%E9%9D%A9%E9%87%91%E6%A9%9F_~_The_Golden_Age_Will_Return_Again%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="224" height="222" srcset="https://upload.thwiki.cc/thumb/1/12/%E6%9D%B1%E6%96%B9%E9%9D%A9%E9%87%91%E6%A9%9F_~_The_Golden_Age_Will_Return_Again%E5%B0%81%E9%9D%A2.png/336px-%E6%9D%B1%E6%96%B9%E9%9D%A9%E9%87%91%E6%A9%9F_~_The_Golden_Age_Will_Return_Again%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/1/12/%E6%9D%B1%E6%96%B9%E9%9D%A9%E9%87%91%E6%A9%9F_~_The_Golden_Age_Will_Return_Again%E5%B0%81%E9%9D%A2.png/448px-%E6%9D%B1%E6%96%B9%E9%9D%A9%E9%87%91%E6%A9%9F_~_The_Golden_Age_Will_Return_Again%E5%B0%81%E9%9D%A2.png 2x" data-file-width="451" data-file-height="447"></a><div class="cover-char">角色：<a href="./安妮·威廉.md" title="安妮·威廉">安妮·威廉</a></div></td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.bilibili.com/read/cv25673361">https://www.bilibili.com/read/cv25673361</a></td></tr></tbody></table>
 
 東方革金機 ~ The Golden Age Will Return Again（同人专辑，旧雨忆梦幻想乐团，2023） - 2023年8月11日 由 旧雨忆梦幻想乐团  发布的印象集同人专辑，分级为 一般向
+
 ## Staff
 剧情、人物设定、立绘
 : 鸢子
@@ -30,6 +32,7 @@
 : 穆然皎若
 : 鸢子
 
+
 ## 游戏介绍
   
 原为鸢鸢鸢鸢子在bilibili上发布的设定集，在之后由旧雨忆梦幻想乐团制作成曲集。
@@ -39,13 +42,16 @@
 - [故事背景](./東方革金機_~_The_Golden_Age_Will_Return_Again-故事背景.md)
 - [EX故事背景](./東方革金機_~_The_Golden_Age_Will_Return_Again-ExStory.md)
 
+
 ## 角色
+
 ### 自机
 
 <table><tbody><tr><td align="center" rowspan=""><a rel="nofollow" class="external text" href="https://thwiki.cc/文件:博丽灵梦（革金机）.png">上传</a></td> <td style="width:150px;padding:3px 9px 3px 7px;" rowspan="">乐园的美妙巫女 </td><td style="width:180px;padding:3px 9px 3px 7px;"><a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></td><td><a href="./東方革金機_~_The_Golden_Age_Will_Return_Again-博丽灵梦.md" title="東方革金機 ~ The Golden Age Will Return Again/博丽灵梦">游戏对话/结局</a><br><a href="/index.php?title=%E6%9D%B1%E6%96%B9%E9%9D%A9%E9%87%91%E6%A9%9F_~_The_Golden_Age_Will_Return_Again/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6_ExStory&amp;action=edit&amp;redlink=1" class="new" title="東方革金機 ~ The Golden Age Will Return Again/博丽灵梦 ExStory（页面不存在）">Extra游戏对话</a></td></tr>
 <tr><td align="center" rowspan=""><a rel="nofollow" class="external text" href="https://thwiki.cc/文件:雾雨魔理沙（革金机）.png">上传</a></td> <td style="width:150px;padding:3px 9px 3px 7px;" rowspan="">普通的魔法使 </td><td style="width:180px;padding:3px 9px 3px 7px;"><a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a></td><td><a href="/index.php?title=%E6%9D%B1%E6%96%B9%E9%9D%A9%E9%87%91%E6%A9%9F_~_The_Golden_Age_Will_Return_Again/%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99&amp;action=edit&amp;redlink=1" class="new" title="東方革金機 ~ The Golden Age Will Return Again/雾雨魔理沙（页面不存在）">游戏对话/结局</a><br><a href="/index.php?title=%E6%9D%B1%E6%96%B9%E9%9D%A9%E9%87%91%E6%A9%9F_~_The_Golden_Age_Will_Return_Again/%E9%9B%BE%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99_ExStory&amp;action=edit&amp;redlink=1" class="new" title="東方革金機 ~ The Golden Age Will Return Again/雾雨魔理沙 ExStory（页面不存在）">Extra游戏对话</a></td></tr>
 <tr><td align="center" rowspan=""><a rel="nofollow" class="external text" href="https://thwiki.cc/文件:东风谷早苗（革金机）.png">上传</a></td> <td style="width:150px;padding:3px 9px 3px 7px;" rowspan="">呼唤奇迹的现人神巫女 </td><td style="width:180px;padding:3px 9px 3px 7px;"><a href="./东风谷早苗.md" title="东风谷早苗">东风谷早苗</a></td><td><a href="/index.php?title=%E6%9D%B1%E6%96%B9%E9%9D%A9%E9%87%91%E6%A9%9F_~_The_Golden_Age_Will_Return_Again/%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97&amp;action=edit&amp;redlink=1" class="new" title="東方革金機 ~ The Golden Age Will Return Again/东风谷早苗（页面不存在）">游戏对话/结局</a><br><a href="/index.php?title=%E6%9D%B1%E6%96%B9%E9%9D%A9%E9%87%91%E6%A9%9F_~_The_Golden_Age_Will_Return_Again/%E4%B8%9C%E9%A3%8E%E8%B0%B7%E6%97%A9%E8%8B%97_ExStory&amp;action=edit&amp;redlink=1" class="new" title="東方革金機 ~ The Golden Age Will Return Again/东风谷早苗 ExStory（页面不存在）">Extra游戏对话</a></td></tr>
 <tr><td style="min-width:40px;" rowspan=""><div class="center"><div class="floatnone"><a href="./文件-凌司（革金机）.png.md" class="image" title="凌司"><img alt="凌司" src="https://upload.thwiki.cc/thumb/e/e0/%E5%87%8C%E5%8F%B8%EF%BC%88%E9%9D%A9%E9%87%91%E6%9C%BA%EF%BC%89.png/26px-%E5%87%8C%E5%8F%B8%EF%BC%88%E9%9D%A9%E9%87%91%E6%9C%BA%EF%BC%89.png" decoding="async" loading="lazy" width="26" height="40" srcset="https://upload.thwiki.cc/thumb/e/e0/%E5%87%8C%E5%8F%B8%EF%BC%88%E9%9D%A9%E9%87%91%E6%9C%BA%EF%BC%89.png/39px-%E5%87%8C%E5%8F%B8%EF%BC%88%E9%9D%A9%E9%87%91%E6%9C%BA%EF%BC%89.png 1.5x, https://upload.thwiki.cc/thumb/e/e0/%E5%87%8C%E5%8F%B8%EF%BC%88%E9%9D%A9%E9%87%91%E6%9C%BA%EF%BC%89.png/52px-%E5%87%8C%E5%8F%B8%EF%BC%88%E9%9D%A9%E9%87%91%E6%9C%BA%EF%BC%89.png 2x" data-file-width="2016" data-file-height="3064"></a></div></div></td> <td style="width:150px;padding:3px 9px 3px 7px;" rowspan="">探索世界的小小仙兽 </td><td style="width:180px;padding:3px 9px 3px 7px;"><a href="./凌司.md" title="凌司">凌司</a></td><td><a href="./東方革金機_~_The_Golden_Age_Will_Return_Again-凌司.md" title="東方革金機 ~ The Golden Age Will Return Again/凌司">游戏对话/结局</a><br><a href="/index.php?title=%E6%9D%B1%E6%96%B9%E9%9D%A9%E9%87%91%E6%A9%9F_~_The_Golden_Age_Will_Return_Again/%E5%87%8C%E5%8F%B8_ExStory&amp;action=edit&amp;redlink=1" class="new" title="東方革金機 ~ The Golden Age Will Return Again/凌司 ExStory（页面不存在）">Extra游戏对话</a></td></tr></tbody></table>
+
 
 
 ### BOSS
@@ -59,6 +65,7 @@
 <tr> <td class="bg-color-info-10" style="min-width:100px"><b>EX面道中</b><br><i><a href="/index.php?title=%E5%B9%BB%E6%83%B3%E4%B9%8B%E6%B0%B4%E4%B8%8E%E7%8E%B0%E5%AE%9E%E4%B9%8B%E6%B5%B7&amp;action=edit&amp;redlink=1" class="new" title="幻想之水与现实之海（页面不存在）">幻想之水与现实之海</a></i></td> <td rowspan="2"><div class="center"><div class="floatnone"><a href="./文件-宗行旅洛绘.jpg.md" class="image" title="宗行旅洛绘"><img alt="宗行旅洛绘" src="https://upload.thwiki.cc/thumb/c/ca/%E5%AE%97%E8%A1%8C%E6%97%85%E6%B4%9B%E7%BB%98.jpg/22px-%E5%AE%97%E8%A1%8C%E6%97%85%E6%B4%9B%E7%BB%98.jpg" decoding="async" loading="lazy" width="22" height="40" srcset="https://upload.thwiki.cc/thumb/c/ca/%E5%AE%97%E8%A1%8C%E6%97%85%E6%B4%9B%E7%BB%98.jpg/33px-%E5%AE%97%E8%A1%8C%E6%97%85%E6%B4%9B%E7%BB%98.jpg 1.5x, https://upload.thwiki.cc/thumb/c/ca/%E5%AE%97%E8%A1%8C%E6%97%85%E6%B4%9B%E7%BB%98.jpg/44px-%E5%AE%97%E8%A1%8C%E6%97%85%E6%B4%9B%E7%BB%98.jpg 2x" data-file-width="1696" data-file-height="3036"></a></div></div></td> <td style="width:150px;padding:3px 9px 3px 7px;" rowspan="2"> 周转大陆间的航海商人</td><td style="width:180px;padding:3px 9px 3px 7px;" rowspan="2"> <a href="./宗行旅洛绘.md" title="宗行旅洛绘">宗行旅洛绘</a></td></tr><tr><td class="bg-color-info-10" style="min-width:100px"><b>EX面BOSS</b><br><i><a href="/index.php?title=%E6%96%B0%E5%B0%BC%E5%BE%B7%E5%85%B0%E7%9A%84%E6%B5%B7%E4%B8%8A%E8%B4%B8%E6%98%93_~_Fourth_Voyage&amp;action=edit&amp;redlink=1" class="new" title="新尼德兰的海上贸易 ~ Fourth Voyage（页面不存在）">新尼德兰的海上贸易 ~ Fourth Voyage</a></i></td></tr></tbody></table>
 
 
+
 ## 附带文档
 
 <table><tbody><tr>
@@ -70,6 +77,7 @@
 <li><a href="/index.php?title=%E9%99%84%E5%B8%A6%E6%96%87%E6%A1%A3:%E6%9D%B1%E6%96%B9%E9%9D%A9%E9%87%91%E6%A9%9F_~_The_Golden_Age_Will_Return_Again/Readme&amp;action=edit&amp;redlink=1" class="new" title="附带文档:東方革金機 ~ The Golden Age Will Return Again/Readme（页面不存在）">Readme</a></li>
 <li><a href="/index.php?title=%E9%99%84%E5%B8%A6%E6%96%87%E6%A1%A3:%E6%9D%B1%E6%96%B9%E9%9D%A9%E9%87%91%E6%A9%9F_~_The_Golden_Age_Will_Return_Again/Omake&amp;action=edit&amp;redlink=1" class="new" title="附带文档:東方革金機 ~ The Golden Age Will Return Again/Omake（页面不存在）">Omake</a></li></ul>
 </td></tr></tbody></table>
+
 
 
 ## 其他资料
@@ -90,10 +98,14 @@
 </td></tr></tbody></table>
 
 
+
 ## 评论
+
 ## 外部链接
+
 ### B站地址
 - 设定集：[[1]](https://www.bilibili.com/read/cv25673361)  
+
 
 
 ## 词条导航

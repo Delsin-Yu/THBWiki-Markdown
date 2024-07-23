@@ -4,7 +4,8 @@
 
 MyonMyon ，于 2007 年成立，主要制作 同人音乐 的日本同人社团，主催是 みょん，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -22,16 +23,20 @@ MyonMyon ，于 2007 年成立，主要制作 同人音乐 的日本同人社团
 
 
 
+
 ## 社团信息
 [](./文件-MyonMyon_banner.gif.md)  [](./文件-MyonMyon_banner.gif.md)Banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> MyonMyon </td></tr><tr><td><b>中文名称</b></td><td>MyonMyon</td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2007</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="./みょん.md" title="みょん">みょん</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://www.myonmyon.com/">http://www.myonmyon.com/</a> <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><small>（<a rel="nofollow" class="external text" href="https://web.archive.org/web/20110823105452/http://www.myonmyon.com/">缓存页面</a>）</small></td></tr></tbody></table>
 
 MyonMyon（同人社团，同人音乐社团） - MyonMyon ，于 2007 年成立，主要制作 同人音乐 的日本同人社团，主催是 みょん，当前状态为 活动
+
 ## 成员名单
 - [みょん](./みょん.md)
 
+
 ## 作品列表
+
 ### 同人专辑
 [](./Steel_of_Scarlet.md)[Steel of Scarlet](./Steel_of_Scarlet.md)首发日期：2007-05-20 （第四回 博麗神社例大祭 (未找到链接)）MM-0001全长 （一般向）[](./Mountain_of_Faith～神々への信仰～.md)[Mountain of Faith～神々への信仰～](./Mountain_of_Faith～神々への信仰～.md)首发日期：2007-12-31 （Comic Market 73 (未找到链接)）MM-0002全长 （一般向）[](./蓬莱姫譚.md)[蓬莱姫譚](./蓬莱姫譚.md)首发日期：2008-05-25 （第五回 博麗神社例大祭 (未找到链接)）EP （一般向）[](./The_Grimoire_Of_Alice（同人专辑）.md)[The Grimoire Of Alice](./The_Grimoire_Of_Alice（同人专辑）.md)首发日期：2008-11-02 （東方紅楼夢4 (未找到链接)）PCMM-0001全长、​合作 （一般向）该作品是与 [Pizuya's Cell](./Pizuya's_Cell.md) 合作创作的[](./Prunus_Subhirtella.md)[Prunus Subhirtella](./Prunus_Subhirtella.md)首发日期：2008-12-29 （Comic Market 75 (未找到链接)）PCMM-0002全长、​合作 （一般向）该作品是与 [Pizuya's Cell](./Pizuya's_Cell.md) 合作创作的[](./Chaoscillation_Game.md)[Chaoscillation Game](./Chaoscillation_Game.md)首发日期：2008-12-29 （Comic Market 75 (未找到链接)）PCMM-0003全长、​合作、​混音集 （一般向）该作品是与 [Pizuya's Cell](./Pizuya's_Cell.md) 合作创作的[](./Yellow_Cake.md)[Yellow Cake](./Yellow_Cake.md)首发日期：2009-03-08 （第六回 博麗神社例大祭 (未找到链接)）Demo （一般向）该作品是与 [Pizuya's Cell](./Pizuya's_Cell.md) 合作创作的[](./Nuclear_Blast（Pizuya's_Cell）.md)[Nuclear Blast](./Nuclear_Blast（Pizuya's_Cell）.md)首发日期：2009-08-15 （Comic Market 76 (未找到链接)）PCMM-0004全长、​合作 （一般向）该作品是与 [Pizuya's Cell](./Pizuya's_Cell.md) 合作创作的[](./Resurrection_Ballad.md)[Resurrection Ballad](./Resurrection_Ballad.md)首发日期：2009-12-30 （Comic Market 77 (未找到链接)）PCMM-0005合作 （一般向）该作品是与 [Pizuya's Cell](./Pizuya's_Cell.md) 合作创作的[](./Border_Of_Sanctuary.md)[Border Of Sanctuary](./Border_Of_Sanctuary.md)首发日期：2010-08-14 （Comic Market 78 (未找到链接)）全长 （一般向）[](./Innocent_Chain.md)[Innocent Chain](./Innocent_Chain.md)首发日期：2011-05-08 （第八回 博麗神社例大祭 (未找到链接)）MM-0005全长 （一般向）
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -58,15 +63,18 @@ MyonMyon（同人社团，同人音乐社团） - MyonMyon ，于 2007 年成立
 </table>
 
 
+
 ### 游戏音乐制作
 [](./東方夢終劇_～_Concealed_the_Conclusion.md)[東方夢終劇 ～ Concealed the Conclusion](./東方夢終劇_～_Concealed_the_Conclusion.md)首发日期：2006-12-31 （Comic Market 71 (未找到链接)）STG （一般向）该作品是与 [Danmaq](./Danmaq.md) 合作创作的
 <table><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
 
 
+
 ## 其他信息
 - 旧官网1: [http://luigia.ddo.jp/sb/](http://luigia.ddo.jp/sb/) （已经失效）
 - 旧官网2: [http://blog.livedoor.jp/luigia/](http://blog.livedoor.jp/luigia/)
+
 
 ## 参展信息
 

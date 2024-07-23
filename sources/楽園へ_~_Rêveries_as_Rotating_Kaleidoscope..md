@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-楽園へ_~_Rêveries_as_Rotating_Kaleidoscope.封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/c/ca/%E6%A5%BD%E5%9C%92%E3%81%B8_~_R%C3%AAveries_as_Rotating_Kaleidoscope.%E5%B0%81%E9%9D%A2.jpg/119px-%E6%A5%BD%E5%9C%92%E3%81%B8_~_R%C3%AAveries_as_Rotating_Kaleidoscope.%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="119" height="168" srcset="https://upload.thwiki.cc/thumb/c/ca/%E6%A5%BD%E5%9C%92%E3%81%B8_~_R%C3%AAveries_as_Rotating_Kaleidoscope.%E5%B0%81%E9%9D%A2.jpg/179px-%E6%A5%BD%E5%9C%92%E3%81%B8_~_R%C3%AAveries_as_Rotating_Kaleidoscope.%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/c/ca/%E6%A5%BD%E5%9C%92%E3%81%B8_~_R%C3%AAveries_as_Rotating_Kaleidoscope.%E5%B0%81%E9%9D%A2.jpg/238px-%E6%A5%BD%E5%9C%92%E3%81%B8_~_R%C3%AAveries_as_Rotating_Kaleidoscope.%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1484" data-file-height="2091"></a><div class="cover-char">角色：<a href="/%E8%93%AC%E8%8E%B1%E4%BA%BA%E5%BD%A2#封面角色" title="蓬莱人形">蓬莱人形C63版碟面少女</a></div></td>
@@ -18,11 +19,13 @@
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://amesakasama.booth.pm/items/1051092">Booth</a>，<a rel="nofollow" class="external text" href="https://amesakasama.booth.pm/items/804585">Booth（试读版）</a></td></tr></tbody></table>
 
 
+
 ## Staff
 Writing and Composition
 : 雨朔いめ （[雨さかさまが夢のよう](./雨さかさまが夢のよう.md)）
 Illustration
 : 観後家 華埖
+
 
 ## 评论
 

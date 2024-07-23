@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Prismatic（同人志）封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/8/86/Prismatic%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/119px-Prismatic%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="119" height="168" srcset="https://upload.thwiki.cc/thumb/8/86/Prismatic%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/178px-Prismatic%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/8/86/Prismatic%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/238px-Prismatic%EF%BC%88%E5%90%8C%E4%BA%BA%E5%BF%97%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1505" data-file-height="2125"></a><div class="cover-char">角色：<a href="./圣白莲.md" title="圣白莲">圣白莲</a>，<a href="./比那名居天子.md" title="比那名居天子">比那名居天子</a>，<a href="./西行寺幽幽子.md" title="西行寺幽幽子">西行寺幽幽子</a></div></td>
@@ -17,13 +18,16 @@ Prismatic（同人志，EdelSounds，2016） - 2016年10月9日 由 EdelSounds �
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://edel-sounds.booth.pm/items/1508017">Booth</a></td></tr></tbody></table>
 
 
+
 ## 预览
 - [](./文件-Prismatic（同人志）预览图1.jpg.md)- [](./文件-Prismatic（同人志）预览图2.jpg.md)- [](./文件-Prismatic（同人志）预览图3.jpg.md)
+
 
 ## Staff
 - イズ (未找到链接)
 - そうび (未找到链接)
 - ゆなか (未找到链接)
+
 
 ## 评论
 

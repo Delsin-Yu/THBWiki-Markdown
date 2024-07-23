@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -52,11 +53,13 @@
 
 
 
+
 ## 基本信息
 
-<table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">少女綺想曲　～ Capriccio</td></tr><tr><td><b>译名</b></td><td>少女绮想曲 ～ Capriccio</td></tr><tr><td><b>英文译名</b></td><td>Maiden's Capriccio</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>引用</td></tr><tr><td style="padding-left:15px"><b>原曲</b></td><td><a href="/%E9%AD%94%E9%8F%A1" class="mw-redirect" title="魔鏡">魔鏡</a></td></tr><tr><td style="padding-left:15px"><b>　来源</b></td><td>东方灵异传　～ Highly Responsive to Prayers.</td></tr></tbody></table>
+<table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">少女綺想曲　～ Capriccio</td></tr><tr><td><b>译名</b></td><td>少女绮想曲 ～ Capriccio</td></tr><tr><td><b>英文译名</b></td><td>Maiden's Capriccio</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>引用</td></tr><tr><td style="padding-left:15px"><b>原曲</b></td><td><a href="./魔鏡.md" class="mw-redirect" title="魔鏡">魔鏡</a></td></tr><tr><td style="padding-left:15px"><b>　来源</b></td><td>东方灵异传　～ Highly Responsive to Prayers.</td></tr></tbody></table>
 
 少女绮想曲 ～ Capriccio（曲目） - 由 ZUN 创作的官方曲目，原名 少女綺想曲　～ Capriccio
+
 ## 出现作品
 
 <table>
@@ -67,14 +70,16 @@
 <tr><td>2004年8月15日（Comic Market 66）</td><td><b><a href="./东方永夜抄.md" title="东方永夜抄">东方永夜抄</a></b></td><td>4面BOSS<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>的主题曲</td><td style="padding-left:5px;">少女綺想曲　～ Dream Battle（少女绮想曲　～ Dream Battle）</td><td style="padding-left:10px;">编曲：ZUN</td></tr>
 <tr><td>2004年12月30日（Comic Market 67）</td><td><b><a href="./东方萃梦想.md" title="东方萃梦想">东方萃梦想</a>正式版</b></td><td><a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>的夜晚主题曲</td><td style="padding-left:5px;">少女綺想曲　～ Capriccio（少女绮想曲 ～ Capriccio）</td><td style="padding-left:10px;">编曲：あきやまうに</td></tr>
 <tr><td>2005年8月14日（Comic Market 68）</td><td><b><a href="./幻想曲拔萃.md" title="幻想曲拔萃">幻想曲拔萃</a></b></td><td>Night Disc 第2轨</td><td style="padding-left:5px;">少女綺想曲　～ Capriccio（少女绮想曲 ～ Capriccio）</td><td style="padding-left:10px;">编曲：あきやまうに</td></tr>
-<tr><td>2006年5月21日（第三回 博丽神社例大祭）</td><td><b><a href="/%E5%B9%BA%E4%B9%90%E5%9B%A2%E7%9A%84%E5%8E%86%E5%8F%B2_vol.1" class="mw-redirect" title="幺乐团的历史 vol.1">幺乐团的历史 vol.1</a></b></td><td>DISC A 第10轨</td><td style="padding-left:5px;">少女綺想曲　～ Capriccio（少女绮想曲 ～ Capriccio）</td><td style="padding-left:10px;">编曲：ZUN</td></tr>
+<tr><td>2006年5月21日（第三回 博丽神社例大祭）</td><td><b><a href="./幺乐团的历史_vol.1.md" class="mw-redirect" title="幺乐团的历史 vol.1">幺乐团的历史 vol.1</a></b></td><td>DISC A 第10轨</td><td style="padding-left:5px;">少女綺想曲　～ Capriccio（少女绮想曲 ～ Capriccio）</td><td style="padding-left:10px;">编曲：ZUN</td></tr>
 <tr><td>2020年10月18日（第七回 博丽神社秋季例大祭）</td><td><b><a href="./东方刚欲异闻.md" title="东方刚欲异闻">东方刚欲异闻</a>秋体验版</b></td><td><a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>的主题曲</td><td style="padding-left:5px;">少女綺想曲（少女绮想曲）</td><td style="padding-left:10px;">编曲：ziki_7</td></tr>
 <tr><td>2021年10月24日（第八回 博丽神社秋季例大祭）</td><td><b><a href="./东方刚欲异闻.md" title="东方刚欲异闻">东方刚欲异闻</a>正式版</b></td><td><a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>的主题曲</td><td style="padding-left:5px;">少女綺想曲（少女绮想曲）</td><td style="padding-left:10px;">编曲：ziki_7</td></tr>
 <tr><td>2021年11月28日（东方红楼梦17）</td><td><b><a href="./贪欲之兽的音乐.md" title="贪欲之兽的音乐">贪欲之兽的音乐</a></b></td><td>Original Disc 1 Tr.4</td><td style="padding-left:5px;">少女綺想曲（少女绮想曲）</td><td style="padding-left:10px;">编曲：ziki_7</td></tr>
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 东方幻想乡
   
 YM2203(OPN)，FM26K音源版。
@@ -90,6 +95,7 @@ YM2608(OPNA)，FM86音源版。
 
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th04_10_86.ogg.md" title="文件:th04 10 86.ogg">th04_10_86.ogg</a><br><audio src="https://upload.thwiki.cc/d/d7/th04_10_86.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>ST03C.M86</td></tr><tr><td><b>音轨时长</b></td><td>1:17.927</td></tr></tbody></table>
+
 
 
 ### 东方怪绮谈
@@ -109,9 +115,11 @@ YM2608(OPNA)，FM86音源版。
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th05_G_10_86.ogg.md" title="文件:th05 G 10 86.ogg">th05_G_10_86.ogg</a><br><audio src="https://upload.thwiki.cc/9/97/th05_G_10_86.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>G_ST03C.M2</td></tr><tr><td><b>音轨时长</b></td><td>1:17.927</td></tr></tbody></table>
 
 
+
 ### 东方幻想的音乐
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td><a href="./文件-th4_09.mid.md" title="文件:th4 09.mid">th4_09.mid</a></td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th4_09.mp3.md" title="文件:th4 09.mp3">th4_09.mp3</a><br><audio src="https://upload.thwiki.cc/7/77/th4_09.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>th4_09.mid</td></tr><tr><td><b>音轨时长</b></td><td>2:46</td></tr></tbody></table>
+
 
 
 ### 东方幻想怀古曲
@@ -119,7 +127,9 @@ YM2608(OPNA)，FM86音源版。
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-thgs04_09.ogg.md" title="文件:thgs04 09.ogg">thgs04_09.ogg</a><br><audio src="https://upload.thwiki.cc/6/68/thgs04_09.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>th4_09.M</td></tr><tr><td><b>音轨时长</b></td><td>1:17.927</td></tr></tbody></table>
 
 
+
 ### 东方永夜抄
+
 #### WAV
   
 WAV版是游戏的原声带。
@@ -134,6 +144,7 @@ WAV版是游戏的原声带。
 </td></tr></tbody></table>
 
 
+
 #### MIDI
   
 MIDI版由Roland Sound Canvas 88Pro实机录音得到。
@@ -143,9 +154,11 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td><a href="./文件-th08_09.mid.md" title="文件:th08 09.mid">th08_09.mid</a></td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th08_09_SC88Pro.mp3.md" title="文件:th08 09 SC88Pro.mp3">th08_09_SC88Pro.mp3</a><br><audio src="https://upload.thwiki.cc/9/9b/th08_09_SC88Pro.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>th08_09.mid</td></tr><tr><td><b>音轨时长</b></td><td>2:36</td></tr></tbody></table>
 
 
+
 ### 幻想曲拔萃
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-TFM-001b_02.mp3.md" title="文件:TFM-001b 02.mp3">TFM-001b_02.mp3</a><br><audio src="https://upload.thwiki.cc/3/3a/TFM-001b_02.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track02.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>2:25</td></tr></tbody></table>
+
 
 
 ### 幺乐团的历史 vol.1
@@ -153,12 +166,15 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-ha01a_10.mp3.md" title="文件:ha01a 10.mp3">ha01a_10.mp3</a><br><audio src="https://upload.thwiki.cc/2/2e/ha01a_10.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track10.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>3:10</td></tr></tbody></table>
 
 
+
 ### 贪欲之兽的音乐
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-TFM-010a_04.mp3.md" title="文件:TFM-010a 04.mp3">TFM-010a_04.mp3</a><br><audio src="https://upload.thwiki.cc/b/b2/TFM-010a_04.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track04.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>3:44</td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 东方幻想乡
 - Music Room (未找到链接)
 
@@ -173,6 +189,7 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
 ＺＵＮ（太田）  
 ４boss的曲子。  
 这个还差一些。
+
 ### 东方怪绮谈
 - Music Room (未找到链接)
 
@@ -180,6 +197,7 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
 ＺＵＮ（太田）  
 4boss曲。  
 这个还差一些。
+
 ### 东方幻想的音乐
 - th4_09.txt (未找到链接)
 
@@ -204,6 +222,7 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
   
   
 那么，下次曲子再见吧　ＺＵＮ
+
 ### 东方幻想怀古曲
 - th4_09pmd.txt (未找到链接)
 
@@ -244,6 +263,7 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
 曲子的感想、请求等，这边请  
 　东方幻想空间　「博丽神社」 [http://www16.big.or.jp/~zun/](http://www16.big.or.jp/~zun/)  
 　e-Mail                     zun@big.or.jp
+
 ### 东方永夜抄
 - Music Room (未找到链接)
 
@@ -258,6 +278,7 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
 　9.少女绮想曲　～ Dream Battle  
 　　梦想战。  
 　　Dream是灵梦的梦。决不是玩家的梦。
+
 ### 东方萃梦想
 - Music Room (未找到链接)
 
@@ -265,8 +286,11 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
 说到神社就做成伪和风的感觉了。大概。  
 虽说在夏前便已经做完，不过听过了永夜抄中的少女绮想曲之后，就变成了『改动的位置可能搞错了吧』——这种微妙的心情。  
 不过算了，如果向同一方向去作的话，就变成单单的劣化副本了，所以我认为这样也有这样才好的感觉。
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
   
  ** 少女綺想曲　～ Capriccio** 
@@ -312,6 +336,7 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
 
 
 <table><tbody><tr class="tt-content" id="里音乐评论-10" data-pos="&#91;&quot;\u91cc\u97f3\u4e50\u8bc4\u8bba&quot;,10&#93;"><td class="tt-ja" lang="ja"><div class="poem">　９．少女綺想曲　～ Dream Battle<br>　　　夢想戦。<br>　　　Dreamは霊夢の夢。決してプレイヤーの夢ではない。</div></td><td class="tt-zh" lang="zh"><div class="poem">　9.少女绮想曲　～ Dream Battle<br>　　梦想战。<br>　　Dream是灵梦的梦。决不是玩家的梦。</div></td></tr></tbody></table>
+
 
 
 ### 二次同人数据

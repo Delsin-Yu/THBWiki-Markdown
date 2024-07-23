@@ -4,6 +4,7 @@
 
 AvalonStudioOfficial
 
+
 ## 目录
 
 - [1 基础物品](#基础物品)
@@ -30,10 +31,12 @@ AvalonStudioOfficial
 
 
 
+
 ##  **<big>基础物品</big>** 
   
 直接购买就可以使用或者获得属性。
   
+
 
 ###  **<big>消耗品</big>** 
 
@@ -71,6 +74,7 @@ AvalonStudioOfficial
 </td></tr></tbody></table>
 
 
+
 ### <big> **属性** </big>
 
 <table>
@@ -101,6 +105,7 @@ AvalonStudioOfficial
 </tbody></table>
 
 
+
 ###  **<big>军备</big>** 
 
 <table>
@@ -121,6 +126,7 @@ AvalonStudioOfficial
 <td><a href="./文件-THD2魔女披风.png.md" class="image" title="魔女披风"><img alt="魔女披风" src="https://upload.thwiki.cc/6/61/THD2%E9%AD%94%E5%A5%B3%E6%8A%AB%E9%A3%8E.png" decoding="async" loading="lazy" width="88" height="64" data-file-width="88" data-file-height="64"></a><br><b> <big>魔女披风</big><br><a href="./文件-THD2G.png.md" class="image" title="金钱"><img alt="金钱" src="https://upload.thwiki.cc/4/48/THD2G.png" decoding="async" loading="lazy" width="25" height="17" data-file-width="25" data-file-height="17"></a>950<br>+3护甲<br>+3生命回复<br>+9魔法抗性</b><br></td>
 <td><a href="./文件-THD2木盾.png.md" class="image" title="木盾"><img alt="木盾" src="https://upload.thwiki.cc/b/b2/THD2%E6%9C%A8%E7%9B%BE.png" decoding="async" loading="lazy" width="88" height="64" data-file-width="88" data-file-height="64"></a><b> <big>木盾</big> <a href="./文件-THD2G.png.md" class="image" title="金钱"><img alt="金钱" src="https://upload.thwiki.cc/4/48/THD2G.png" decoding="async" loading="lazy" width="25" height="17" data-file-width="25" data-file-height="17"></a>300<br>被动：伤害格挡-有一定几率格挡普通攻击的伤害。</b><br>格挡概率：40%<br>格挡伤害：20<br><small><i>多个不叠加概率。</i></small><small><i>极低概率完全格挡一次攻击。</i><br><br></small>
 </td></tr></tbody></table>
+
 
 
 ### <big> **奥术** </big>
@@ -164,10 +170,12 @@ AvalonStudioOfficial
 </td></tr></tbody></table>
 
 
+
 ## <big> **升级物品** </big>
   
 升级物品需要通过基础物品或再加上合成卷轴才获得。
   
+
 
 ### <big> **普通** </big>
 
@@ -203,6 +211,7 @@ AvalonStudioOfficial
 </small></td></tr></tbody></table>
 
 
+
 ### <big> **辅助** </big>
 
 <table>
@@ -228,6 +237,7 @@ AvalonStudioOfficial
 <td><a href="./文件-THD2月曜秘石.png.md" class="image" title="月曜秘石"><img alt="月曜秘石" src="https://upload.thwiki.cc/f/f1/THD2%E6%9C%88%E6%9B%9C%E7%A7%98%E7%9F%B3.png" decoding="async" loading="lazy" width="88" height="64" data-file-width="88" data-file-height="64"></a><b><big>月耀秘石</big> <a href="./文件-THD2G.png.md" class="image" title="金钱"><img alt="金钱" src="https://upload.thwiki.cc/4/48/THD2G.png" decoding="async" loading="lazy" width="25" height="17" data-file-width="25" data-file-height="17"></a>3650<br><small>元素秘法石(1625)+七色水晶(875)+七色水晶(875)<br>+卷轴：月曜秘石(275)</small><br>持续施法：恢复附近友军单位的魔法值，持续5秒。</b><br>+200魔法值<br>+5生命回复<br>+2.4魔法回复<br>+2护甲<br>魔法回复半径：600<br>魔法回复总量：180<br>持续时间：5<br><a href="./文件-THD2冷却时间图标.png.md" class="image" title="冷却时间（秒）"><img alt="冷却时间（秒）" src="https://upload.thwiki.cc/f/f8/THD2%E5%86%B7%E5%8D%B4%E6%97%B6%E9%97%B4%E5%9B%BE%E6%A0%87.png" decoding="async" loading="lazy" width="22" height="22" data-file-width="22" data-file-height="22"></a> 45<br><small>持续施法。</small></td>
 <td>
 </td></tr></tbody></table>
+
 
 
 ###  **<big>法器</big>** 
@@ -276,6 +286,7 @@ AvalonStudioOfficial
 </td></tr></tbody></table>
 
 
+
 ### <big> **武器** </big>
 
 <table>
@@ -306,6 +317,7 @@ AvalonStudioOfficial
 <td><a href="./文件-THD2神枪冈格尼尔.png.md" class="image" title="神枪冈格尼尔"><img alt="神枪冈格尼尔" src="https://upload.thwiki.cc/d/d0/THD2%E7%A5%9E%E6%9E%AA%E5%86%88%E6%A0%BC%E5%B0%BC%E5%B0%94.png" decoding="async" loading="lazy" width="88" height="64" data-file-width="88" data-file-height="64"></a><b><big>神枪冈格尼尔</big> <a href="./文件-THD2G.png.md" class="image" title="金钱"><img alt="金钱" src="https://upload.thwiki.cc/4/48/THD2G.png" decoding="async" loading="lazy" width="25" height="17" data-file-width="25" data-file-height="17"></a>5500<br><small>魔术师银匕首(3000)+白狼天狗巨刃(1000)+妖精之刃(1000)+卷轴：神枪冈格尼尔(500)</small><br>被动：永恒之枪-造成伤害时附加10%额外伤害,攻击不会落空。</b><br>+60攻击力<br>+16力量<br>+16敏捷<br><small>多个神枪不叠加</small><br><br><br></td>
 <td><a href="./文件-THD2月面之弩.png.md" class="image" title="月面之弩"><img alt="月面之弩" src="https://upload.thwiki.cc/0/0e/THD2%E6%9C%88%E9%9D%A2%E4%B9%8B%E5%BC%A9.png" decoding="async" loading="lazy" width="88" height="64" data-file-width="88" data-file-height="64"></a><b><big>月面之弩</big> <a href="./文件-THD2G.png.md" class="image" title="金钱"><img alt="金钱" src="https://upload.thwiki.cc/4/48/THD2G.png" decoding="async" loading="lazy" width="25" height="17" data-file-width="25" data-file-height="17"></a>4350<br><small>半灵练习剑(1500)+伊吹瓢(2100)+卷轴：月面之弩(750)</small><br>被动：提升175攻击距离,攻击时降低敌方护甲。</b><br>+16攻击力<br>+20力量<br>护甲降低:3<br>持续时间:5s<br><small>减甲先于伤害产生,不可与同名道具叠加，可以与半灵练习剑、月面之弩叠加。</small><br><br>
 </td></tr></tbody></table>
+
 
 
 ###  **<big>防具</big>** 
@@ -349,6 +361,7 @@ AvalonStudioOfficial
 <br>
 </p>
 </td></tr></tbody></table>
+
 
 
 ### <big> **圣物** </big>

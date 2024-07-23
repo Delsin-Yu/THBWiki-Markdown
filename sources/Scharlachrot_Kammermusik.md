@@ -4,7 +4,8 @@
 
 Scharlachrot Kammermusik ，于 2019 年成立，主要制作 同人音乐 的中国大陆同人社团，主催是 用户:库雷什尼克|赫尔-血族骑士道，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -27,16 +28,20 @@ Scharlachrot Kammermusik ，于 2019 年成立，主要制作 同人音乐 的�
 
 
 
+
 ## 社团信息
 [](./文件-Scharlachrot_KammermusikLOGO.png.md)  [](./文件-Scharlachrot_KammermusikLOGO.png.md)社团logo
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Scharlachrot Kammermusik </td></tr><tr><td><b>中文名称</b></td><td>绯红室内乐团</td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2019年5月25日</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="/%E7%94%A8%E6%88%B7:%E5%BA%93%E9%9B%B7%E4%BB%80%E5%B0%BC%E5%85%8B" title="用户:库雷什尼克"><img class="useravatar" src="https://avatar.thwiki.cc/thwikicc_wiki_16243_m.jpg?r=1690736761">赫尔-血族骑士道</a><a class="achievtitle" title="出席 第七届北京大学动漫文化高端讲座" src="https://static.thwiki.cc/template/pku.png">〈神主见证者〉</a> </td></tr><tr><td><b>地区</b></td><td>中国大陆</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="https://weibo.com/u/6368777069">https://weibo.com/u/6368777069</a> </td></tr></tbody></table>
 
 Scharlachrot Kammermusik（同人社团，同人音乐社团） - Scharlachrot Kammermusik ，于 2019 年成立，主要制作 同人音乐 的中国大陆同人社团，主催是 用户:库雷什尼克|赫尔-血族骑士道，当前状态为 活动
+
 ## 成员名单
+
 ### 作曲/编曲
 - damSXN
 - Sakino
+
 
 ### 乐手
 - Flute:KC-233
@@ -50,12 +55,15 @@ Scharlachrot Kammermusik（同人社团，同人音乐社团） - Scharlachrot K
 - Violincello:C.c
 - Bass:[喵燐](https://space.bilibili.com/7524712)
 
+
 ### 画师/后期
 - [蠢岚岚岚](https://weibo.com/2885871612)
 - 葵子
 - 马猴烧酒
 
+
 ## 作品列表
+
 ### 同人专辑
 [](./幻想鄉世界～Die_Welt_dieser_Fantasiestadt.md)[幻想鄉世界～Die Welt dieser Fantasiestadt](./幻想鄉世界～Die_Welt_dieser_Fantasiestadt.md)首发日期：2019-12-07 （2019 WePlay游戏文化展 (未找到链接)）SWV1全长、​实录 （一般向）[](./今昔.md)[今昔](./今昔.md)首发日期：2021-09-23 SWV2实录 （一般向）[](./Touhou_Standards_1.md)[Touhou Standards 1](./Touhou_Standards_1.md)首发日期：2023-08-19 （魅知幻想博览会 2023 星虹澄空 (未找到链接)）SWV3实录 （一般向）
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -64,6 +72,7 @@ Scharlachrot Kammermusik（同人社团，同人音乐社团） - Scharlachrot K
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ### 参展信息

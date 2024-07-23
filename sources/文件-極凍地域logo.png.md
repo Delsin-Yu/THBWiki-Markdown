@@ -4,6 +4,7 @@
 
 極凍地域 | 社团LOGO
 
+
 ## 摘要
   
 源地址：[direct image link (original size, cropped to remove huge empty border)](https://s2.booth.pm/87b1f4a9-5ebb-4809-8d13-c29330d79d26/7b0b7a13-729f-4118-a4fc-08e6c84b68c0.png), [source page (circle Booth header)](https://equality-t.booth.pm/)

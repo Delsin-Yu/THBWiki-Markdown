@@ -4,9 +4,11 @@
 
 使用了翻译表的页面
 
+
 ## 一.幻想梦斗符是什么？ What is“Dream Battle of SpellCard”
 
 <table><tbody><tr class="tt-header-white" id="一.幻想梦斗符是什么？_What_is“Dream_Battle_of_SpellCard”-1" data-pos="&#91;&quot;\u4e00.\u5e7b\u60f3\u68a6\u6597\u7b26\u662f\u4ec0\u4e48\uff1f What is\u201cDream Battle of SpellCard\u201d&quot;,1&#93;"><td id="" class="tt-w" lang="zh"><div class="poem"></div></td><td class="tt-jaw" lang="ja"><div class="poem">《幻想梦斗符》是由“丝风”自主创作的以东方Project为题材的同人TCG卡牌游戏企划，它独创性地抛开了召唤怪兽的玩法，开辟了“集换式符卡决斗游戏”的先河。<br>在本作中，您可以选择一位或多位广受欢迎的东方角色，通过搭配组合她们所对应的独特符卡、技能，动用操作技巧与战术布局击破对手，或以华丽的命中动作的积累取得人气胜利。<br></div></td><td class="tt-zhw" lang="zh"><div class="poem">“Dream Batlle of Spellcard”（Hereinafter referred to as DBS）is a doujin TCG of Touhou Project that created by Zephyr.<br>In DBS，you can choose one or even more characters from Touhou Project，then straight defeat your opponents by matching up the characters’ own unique Spellcards and skills.In addition,you can also defeat opponents by accumulating the scores of Spellcards.<br></div></td></tr></tbody></table>
+
 
 
 ## 二.胜利条件 The Victory Conditions
@@ -14,9 +16,11 @@
 <table><tbody><tr class="tt-header-white" id="二.胜利条件_The_Victory_Conditions-1" data-pos="&#91;&quot;\u4e8c.\u80dc\u5229\u6761\u4ef6 The Victory Conditions&quot;,1&#93;"><td id="" class="tt-w" lang="zh"><div class="poem"></div></td><td class="tt-jaw" lang="ja"><div class="poem">A.特殊胜利：由卡面效果或其他效果导致的特殊胜利方式。<br>B.击坠胜利：其中一方玩家体力值低于0，另一方玩家获胜。（体力为0时视为决死，不视为被击坠）<br>C.人气胜利：当其中一方玩家须执行一次准备阶段的抽卡时无牌可摸。此时计算双方宣言区符卡的总华丽度，总华丽度高的玩家获胜。（抽多张卡时卡组数量不够但仍抽取了一张以上的牌时不视为无牌可摸）<br>一旦满足以上其中一项胜利条件，立即停止所有结算，开始胜负判定。<br>同一时点的游戏胜利结算优先度：A&gt;B&gt;C</div></td><td class="tt-zhw" lang="zh"><div class="poem">A.Specially triumph:The Victory that is caused by special effects<br>B.Knock Out:When the LP of one side is lower than 0,the other side wins the game.If the LP is just 0,this situation won’t be considered as K.O.<br>C.Smack Down:If one side needs to draw cards from deck,at the same time the deck is empty,both of the players need to calculate the total Level of Spellcards.The final winner is the player who has the higher total Level of Spellcards.<br>Once any of victory conditions is attained,all the settlement will be shutdown,then the decision of victory starts at once.Priority：A&gt;B&gt;C<br></div></td></tr></tbody></table>
 
 
+
 ## 三.卡组准备 Preparation of game
 
 <table><tbody><tr class="tt-header-white" id="三.卡组准备_Preparation_of_game-1" data-pos="&#91;&quot;\u4e09.\u5361\u7ec4\u51c6\u5907 Preparation of game&quot;,1&#93;"><td id="" class="tt-w" lang="zh"><div class="poem"></div></td><td class="tt-jaw" lang="ja"><div class="poem">1.双方玩家须各自准备好数量为40-50张卡的梦斗符卡组一套，不可少于40或多于50.<br>2.在卡组中，任何同编号的卡片只可存在最多3张，并且这套卡组中必须存在至少1张角色卡。<br></div></td><td class="tt-zhw" lang="zh"><div class="poem">①Both of players need to prepare own decks（Including 40-50 cards)<br>②In the deck,the amount of the cards with same number must be less than 3(3 is the upper ceiling）.And this deck must contain at least 1 character.<br><br></div></td></tr></tbody></table>
+
 
 
 ## 四.游戏开局 Opening.
@@ -24,9 +28,11 @@
 <table><tbody><tr class="tt-header-white" id="四.游戏开局_Opening.-1" data-pos="&#91;&quot;\u56db.\u6e38\u620f\u5f00\u5c40 Opening.&quot;,1&#93;"><td id="" class="tt-w" lang="zh"><div class="poem"></div></td><td class="tt-jaw" lang="ja"><div class="poem">1.场地设置：将双方体力调整为10000，五张灵力背面朝上竖置于灵力区，双方玩家须将卡组中的一张角色卡横置于己方角色区内。<br>2.初始配牌：双方互相洗切对方的卡组后，各自从卡组顶抽4张卡作为初始手牌。<br>3.初始检索：双方分别检视各自卡组，同时展示其中任意一张卡片并加入手牌，然后洗切各自卡组。<br>此后协商决定先攻方，决定后游戏从先攻玩家的进攻回合开始。</div></td><td class="tt-zhw" lang="zh"><div class="poem">①.intial set:Both of the players need to adjust the LP to 10000 at first.Both of the players have 5 full beads(face-down,).Both of the players can choose a character from own decks,then put her(tapped) into character area.<br>②：intial hand:After shuffling decks each other,draw 4 cards from your own deck as the intial hand.<br>③：intial retrieval：Before initiating,both of the players can inspect their own decks,and add a card from decks into hand,then shuffle the decks. .<br></div></td></tr></tbody></table>
 
 
+
 ## 五.卡牌种类/信息解释/场地布置 The properties of cards
 
 <table><tbody><tr class="tt-header-white" id="五.卡牌种类/信息解释/场地布置_The_properties_of_cards-1" data-pos="&#91;&quot;\u4e94.\u5361\u724c\u79cd\u7c7b\/\u4fe1\u606f\u89e3\u91ca\/\u573a\u5730\u5e03\u7f6e The properties of cards&quot;,1&#93;"><td id="" class="tt-w" lang="zh"><div class="poem"></div></td><td class="tt-jaw" lang="ja"><div class="poem">战斗符卡：标有战力和华丽度的卡片，在战斗阶段宣言。<br>状态符卡：能够带来持续效果的卡片，卡面上会标明发动的时点。<br>陷阱符卡：必须要暗置于装备区后才可以发动的卡片，卡面上会标明发动的时点。<br>瞬时道具卡：标有“瞬”的道具卡，满足条件直接从手牌发动。<br>永续道具卡：标有“延”的道具卡，需要在你的攻击阶段消耗灵力设置于装备区，在场上能持续发动效果的道具。<br>你的符力区、装备区、角色区以及宣言区这四个区域统称为场上。<br>战斗符卡、状态符卡、陷阱符卡、道具卡统称为符卡。（角色卡不为符卡）<br></div></td><td class="tt-zhw" lang="zh"><div class="poem">Battle Spellcards:The cards that have attack points and gorgeous degrees,and usually be declared in Battle Phases.<br>Buff:The cards that give different influences,including Buff and Debuff.The occasions of declaring will be labelled in the descriptions.<br>Trap:The cards that must be set in Item Area,Occasions of declaring also will be labelled in the descriptions.<br>Instant:The item cards with “Instant” label.It could be declared from hands when the conditions are attained.<br>Constant:The item cards with “Constant” label.It should be set in your Item Area before your Battle Stage starts,They can keep taking affect until they are replaced or destroyed.<br>Battleground including “Item Area”,”Extra SP Area”,””Character Area”and”Spell Chain”.<br>Spellcards including ”Battle Spellcards”,”Buff”,”Trap”,“Instant” and ”Constant”.<br></div></td></tr></tbody></table>
+
 
 
 ## 六.回合流程与阶段说明 Explanation of the Procedure and Phases

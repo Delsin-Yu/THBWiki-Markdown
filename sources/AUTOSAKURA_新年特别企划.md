@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-AUTOSAKURA_新年特别企划封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/5/5f/AUTOSAKURA_%E6%96%B0%E5%B9%B4%E7%89%B9%E5%88%AB%E4%BC%81%E5%88%92%E5%B0%81%E9%9D%A2.jpg/158px-AUTOSAKURA_%E6%96%B0%E5%B9%B4%E7%89%B9%E5%88%AB%E4%BC%81%E5%88%92%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="158" height="224" srcset="https://upload.thwiki.cc/thumb/5/5f/AUTOSAKURA_%E6%96%B0%E5%B9%B4%E7%89%B9%E5%88%AB%E4%BC%81%E5%88%92%E5%B0%81%E9%9D%A2.jpg/237px-AUTOSAKURA_%E6%96%B0%E5%B9%B4%E7%89%B9%E5%88%AB%E4%BC%81%E5%88%92%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/5/5f/AUTOSAKURA_%E6%96%B0%E5%B9%B4%E7%89%B9%E5%88%AB%E4%BC%81%E5%88%92%E5%B0%81%E9%9D%A2.jpg/316px-AUTOSAKURA_%E6%96%B0%E5%B9%B4%E7%89%B9%E5%88%AB%E4%BC%81%E5%88%92%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1357" data-file-height="1920"></a><div class="cover-char">角色：<a href="./东风谷早苗.md" title="东风谷早苗">东风谷早苗</a></div></td>
@@ -14,11 +15,13 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://weibo.com/6868180126/JzwcotbQe">https://weibo.com/6868180126/JzwcotbQe</a></td></tr><tr><td class="label">备注</td><td colspan="2">28P本体+q头九宫格方巾（赠送小圣诞帽+珠光明信片）</td></tr></tbody></table>
 
 AUTOSAKURA 新年特别企划（同人志，AUTOSAKURA，2021） - 2021年1月1日 由 AUTOSAKURA 于 COMICUP27 发布的小说同人志，A5尺寸一共28页，登场人物有 东风谷早苗、雾雨魔理沙、博丽灵梦、洩矢诹访子、八坂神奈子、射命丸文、四季映姬·夜摩仙那度、小野塚小町、依神女苑、依神紫苑、姬海棠果，分级为 一般向
+
 ## Staff
 封面
 : 坪至 (未找到链接)
 图文
 : 下马坊梅花糕 (未找到链接)
+
 
 ## 评论
   

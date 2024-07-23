@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人视频 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-東方活動写真館～終幕～_Bluray&DVD封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/8/85/%E6%9D%B1%E6%96%B9%E6%B4%BB%E5%8B%95%E5%86%99%E7%9C%9F%E9%A4%A8%EF%BD%9E%E7%B5%82%E5%B9%95%EF%BD%9E_Bluray%26DVD%E5%B0%81%E9%9D%A2.jpg/118px-%E6%9D%B1%E6%96%B9%E6%B4%BB%E5%8B%95%E5%86%99%E7%9C%9F%E9%A4%A8%EF%BD%9E%E7%B5%82%E5%B9%95%EF%BD%9E_Bluray%26DVD%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="118" height="168" srcset="https://upload.thwiki.cc/thumb/8/85/%E6%9D%B1%E6%96%B9%E6%B4%BB%E5%8B%95%E5%86%99%E7%9C%9F%E9%A4%A8%EF%BD%9E%E7%B5%82%E5%B9%95%EF%BD%9E_Bluray%26DVD%E5%B0%81%E9%9D%A2.jpg/178px-%E6%9D%B1%E6%96%B9%E6%B4%BB%E5%8B%95%E5%86%99%E7%9C%9F%E9%A4%A8%EF%BD%9E%E7%B5%82%E5%B9%95%EF%BD%9E_Bluray%26DVD%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/8/85/%E6%9D%B1%E6%96%B9%E6%B4%BB%E5%8B%95%E5%86%99%E7%9C%9F%E9%A4%A8%EF%BD%9E%E7%B5%82%E5%B9%95%EF%BD%9E_Bluray%26DVD%E5%B0%81%E9%9D%A2.jpg/237px-%E6%9D%B1%E6%96%B9%E6%B4%BB%E5%8B%95%E5%86%99%E7%9C%9F%E9%A4%A8%EF%BD%9E%E7%B5%82%E5%B9%95%EF%BD%9E_Bluray%26DVD%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="763" data-file-height="1082"></a><div class="cover-char">角色：<a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a>，<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>，<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a>，<a href="/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C" title="十六夜咲夜">十六夜咲夜</a>，<a href="./魂魄妖梦.md" title="魂魄妖梦">魂魄妖梦</a>，<a href="./风见幽香.md" title="风见幽香">风见幽香</a>，<a href="./犬走椛.md" title="犬走椛">犬走椛</a>，<a href="./八云紫.md" title="八云紫">八云紫</a></div></td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://www.tohokinemakan.jp/">http://www.tohokinemakan.jp/</a></td></tr></tbody></table>
 
 東方活動写真館～終幕～ Bluray&amp;DVD（同人视频，東方活動写真館，2011） - 2011年8月13日 由 東方活動写真館 于 Comic Market 80 发布的传统动画同人视频，总长 1小时10分钟，分级为 一般向
+
 ## Staff
 监督 &amp; 分镜绘制 &amp; 摄影
 : Yoshihide Ibata (未找到链接)
@@ -34,6 +36,7 @@
 特殊摄影
 : Yoshio.K (未找到链接)
 
+
 ## 动画详情
   
 『东方活动写真馆～终幕～』是 **东方活动写真馆** 所有作品的合集。
@@ -47,6 +50,7 @@
         [東方恋隣童-Toho kourindo-](./東方恋隣童-Toho_kourindo-.md)
         [東方白昼夢](./東方白昼夢.md)
 ```
+
 
 ## 评论
 

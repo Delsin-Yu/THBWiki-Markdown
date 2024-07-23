@@ -4,7 +4,8 @@
 
 POCAPOCA ，主要制作 同人志 的日本同人社团，主催是 ぽっか，曾以 [[蛙讃歌]] 名义活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -20,16 +21,20 @@ POCAPOCA ，主要制作 同人志 的日本同人社团，主催是 ぽっか�
 
 
 
+
 ## 社团信息
 文件:POCAPOCAbanner.jpg (未找到链接)  banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> POCAPOCA </td></tr><tr><td><b>曾用名称</b></td><td> <a href="./蛙讃歌.md" title="蛙讃歌">蛙讃歌</a> </td></tr><tr><td><b>主要作品类型</b></td><td>同人志</td></tr><tr><td><b>当前状态</b></td><td>未知</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=%E3%81%BD%E3%81%A3%E3%81%8B&amp;action=edit&amp;redlink=1" class="new" title="ぽっか（页面不存在）">ぽっか</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://pppoka.web.fc2.com/">http://pppoka.web.fc2.com/</a> （旧）<br><a rel="nofollow" class="external free" href="https://pppoka.tumblr.com/">https://pppoka.tumblr.com/</a></td></tr></tbody></table>
 
 POCAPOCA（同人社团，同人志社团） - POCAPOCA ，主要制作 同人志 的日本同人社团，主催是 ぽっか，曾以 [蛙讃歌](./蛙讃歌.md) 名义活动
+
 ## 成员名单
 - ぽっか (未找到链接)
 
+
 ## 作品列表
+
 ### 同人志
 [](./GOOD_TIME_COMMUNICATION.md)[GOOD TIME COMMUNICATION](./GOOD_TIME_COMMUNICATION.md)首发日期：2011-10-16 （東方紅楼夢7 (未找到链接)）漫画 （一般向）B5&#160;尺寸 24&#160;页[](./ゆめをみさせて.md)[ゆめをみさせて](./ゆめをみさせて.md)首发日期：2011-10-16 （東方紅楼夢7 (未找到链接)）漫画 （一般向）B5&#160;尺寸 24&#160;页[](./はやくしあわせになりたい!.md)[はやくしあわせになりたい!](./はやくしあわせになりたい!.md)首发日期：2012-01-22 （SunshineCreation54 (未找到链接)）漫画 （一般向）B5&#160;尺寸 20&#160;页[](./FLOWER_POSTGIRL.md)[FLOWER POSTGIRL](./FLOWER_POSTGIRL.md)首发日期：2012-03-11 （華激ノ宴1 (未找到链接)）漫画 （一般向）B5&#160;尺寸 48&#160;页[](./身体なんていらないほんとうの理由.md)[身体なんていらないほんとうの理由](./身体なんていらないほんとうの理由.md)首发日期：2012-03-25 （東方不敗小町ぷちこまち2 (未找到链接)）漫画 （一般向）B4&#160;尺寸 24&#160;页[](./物部の涙.md)[物部の涙](./物部の涙.md)首发日期：2012-05-27 （第九回 博麗神社例大祭 (未找到链接)）漫画 （一般向）B5&#160;尺寸 32&#160;页[](./FTMIX!.md)[FTMIX!](./FTMIX!.md)首发日期：2012-08-11 （Comic Market 82 (未找到链接)）漫画、​绘本 （一般向）B5&#160;尺寸 52&#160;页[](./太子様コンプレックス.md)[太子様コンプレックス](./太子様コンプレックス.md)首发日期：2012-10-07 （東方紅楼夢8 (未找到链接)）漫画 （一般向）B5&#160;尺寸 32&#160;页[](./吸血少女は夢をみる.md)[吸血少女は夢をみる](./吸血少女は夢をみる.md)首发日期：2012-10-07 （東方紅楼夢8 (未找到链接)）漫画 （一般向）B5&#160;尺寸 24&#160;页[](./もしも奇跡がおきるなら.md)[もしも奇跡がおきるなら](./もしも奇跡がおきるなら.md)首发日期：2012-12-30 （Comic Market 83 (未找到链接)）漫画 （一般向）B5&#160;尺寸 40&#160;页[](./うそつきようかい.md)[うそつきようかい](./うそつきようかい.md)首发日期：2013-01-27 （このはな咲夜4 (未找到链接)）漫画 （一般向）B5&#160;尺寸 20&#160;页[](./探しものは何ですか.md)[探しものは何ですか](./探しものは何ですか.md)首发日期：2013-04-07 （太子さま復活祭1 (未找到链接)）漫画 （一般向）B5&#160;尺寸 20&#160;页[](./私は恋をしました.md)[私は恋をしました](./私は恋をしました.md)首发日期：2013-05-04 （再誕之儀2 (未找到链接)）漫画 （一般向）B5&#160;尺寸 17&#160;页[](./迷宮少女.md)[迷宮少女](./迷宮少女.md)首发日期：2013-05-26 （第十回 博麗神社例大祭 (未找到链接)）漫画 （一般向）B5&#160;尺寸 52&#160;页[](./KIRA★KIRA.md)[KIRA★KIRA](./KIRA★KIRA.md)首发日期：2013-08-12 （Comic Market 84 (未找到链接)）漫画 （一般向）A5&#160;尺寸 96&#160;页[](./鬼殺し姫.md)[鬼殺し姫](./鬼殺し姫.md)首发日期：2013-12-30 （Comic Market 85 (未找到链接)）漫画 （一般向）B5&#160;尺寸 32&#160;页[](./RED_SHOOTING_STAR.md)[RED SHOOTING STAR](./RED_SHOOTING_STAR.md)首发日期：2014-02-02 （マイフレンド1 (未找到链接)）漫画 （一般向）B5&#160;尺寸 24&#160;页[](./Irresistiblement.md)[Irresistiblement](./Irresistiblement.md)首发日期：2014-08-16 （Comic Market 86 (未找到链接)）漫画 （一般向）[](./光り射す場所へ.md)[光り射す場所へ](./光り射す場所へ.md)首发日期：2014-12-29 （Comic Market 87 (未找到链接)）漫画、​画集 （一般向）A5&#160;尺寸 94&#160;页
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -70,6 +75,7 @@ POCAPOCA（同人社团，同人志社团） - POCAPOCA ，主要制作 同人�
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 参展信息

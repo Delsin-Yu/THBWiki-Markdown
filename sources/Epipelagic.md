@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=Epipelagic%E5%B0%81%E9%9D%A2.jpg" class="new" title="文件:Epipelagic封面.jpg">封面图片</a></td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://oar-fish.seesaa.net/article/396757238.html">http://oar-fish.seesaa.net/article/396757238.html</a></td></tr></tbody></table>
 
 Epipelagic（同人专辑，＠RFiSH，2014） - 2014年5月11日 由 ＠RFiSH 于 博丽神社例大祭11 发布的EP同人专辑，分级为 一般向
+
 ## Staff
   
  **Arrangement**   
@@ -26,16 +28,19 @@ Design
 Illustration
 : 画师 （[网址 社团]）
 
+
 ## 试听
   
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/148904324&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=false"></iframe>
 
   
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="???" colspan="2" class="title">???<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Tel&amp;ogmusic=廃獄ララバイ&amp;fromwiki=Epipelagic"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=Tel&amp;action=edit&amp;redlink=1" class="new" title="Tel（页面不存在）">Tel</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Tel&amp;fromwiki=Epipelagic"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=廃獄ララバイ&amp;fromwiki=Epipelagic"><span></span></a></span><div class="ogmusic"><a href="/%E5%BB%83%E7%8D%84%E3%83%A9%E3%83%A9%E3%83%90%E3%82%A4" class="mw-redirect" title="廃獄ララバイ">廃獄ララバイ</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E5%9C%B0%E7%81%B5%E6%AE%BF_%EF%BD%9E_Subterranean_Animism." class="mw-redirect" title="东方地灵殿 ～ Subterranean Animism.">东方地灵殿　～ Subterranean Animism.</a></div></td></tr>
-<tr><td id="2" class="infoYD"><b>02</b></td><td id="Almost_Spring" colspan="2" class="title">Almost Spring<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Tel&amp;ogmusic=クリスタライズシルバー&amp;fromwiki=Epipelagic"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=Tel&amp;action=edit&amp;redlink=1" class="new" title="Tel（页面不存在）">Tel</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Tel&amp;fromwiki=Epipelagic"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=クリスタライズシルバー&amp;fromwiki=Epipelagic"><span></span></a></span><div class="ogmusic"><a href="/%E3%82%AF%E3%83%AA%E3%82%B9%E3%82%BF%E3%83%A9%E3%82%A4%E3%82%BA%E3%82%B7%E3%83%AB%E3%83%90%E3%83%BC" class="mw-redirect" title="クリスタライズシルバー">クリスタライズシルバー</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E5%A6%96%E5%A6%96%E6%A2%A6_%EF%BD%9E_Perfect_Cherry_Blossom." class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="???" colspan="2" class="title">???<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Tel&amp;ogmusic=廃獄ララバイ&amp;fromwiki=Epipelagic"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=Tel&amp;action=edit&amp;redlink=1" class="new" title="Tel（页面不存在）">Tel</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Tel&amp;fromwiki=Epipelagic"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=廃獄ララバイ&amp;fromwiki=Epipelagic"><span></span></a></span><div class="ogmusic"><a href="./廃獄ララバイ.md" class="mw-redirect" title="廃獄ララバイ">廃獄ララバイ</a></div><div class="source"><a href="./东方地灵殿_～_Subterranean_Animism..md" class="mw-redirect" title="东方地灵殿 ～ Subterranean Animism.">东方地灵殿　～ Subterranean Animism.</a></div></td></tr>
+<tr><td id="2" class="infoYD"><b>02</b></td><td id="Almost_Spring" colspan="2" class="title">Almost Spring<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=Tel&amp;ogmusic=クリスタライズシルバー&amp;fromwiki=Epipelagic"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=Tel&amp;action=edit&amp;redlink=1" class="new" title="Tel（页面不存在）">Tel</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，Tel&amp;fromwiki=Epipelagic"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=クリスタライズシルバー&amp;fromwiki=Epipelagic"><span></span></a></span><div class="ogmusic"><a href="./クリスタライズシルバー.md" class="mw-redirect" title="クリスタライズシルバー">クリスタライズシルバー</a></div><div class="source"><a href="./东方妖妖梦_～_Perfect_Cherry_Blossom..md" class="mw-redirect" title="东方妖妖梦 ～ Perfect Cherry Blossom.">东方妖妖梦　～ Perfect Cherry Blossom.</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

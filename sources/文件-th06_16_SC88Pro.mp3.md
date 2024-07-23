@@ -4,6 +4,7 @@
 
 东方红魔乡 | 比红色更虚无的永远
 
+
 ## 文件说明
   
 紅より儚い永遠 东方红魔乡END曲MIDI版。由Roland Sound Canvas 88Pro实机录制；MP3采样率44.1KHz，码率192Kbps。  

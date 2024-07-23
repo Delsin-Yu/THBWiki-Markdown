@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Kyouko_Menyambut_Ramadhan？!封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/c/ca/Kyouko_Menyambut_Ramadhan%EF%BC%9F%21%E5%B0%81%E9%9D%A2.jpg/159px-Kyouko_Menyambut_Ramadhan%EF%BC%9F%21%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="159" height="224" srcset="https://upload.thwiki.cc/thumb/c/ca/Kyouko_Menyambut_Ramadhan%EF%BC%9F%21%E5%B0%81%E9%9D%A2.jpg/238px-Kyouko_Menyambut_Ramadhan%EF%BC%9F%21%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/c/ca/Kyouko_Menyambut_Ramadhan%EF%BC%9F%21%E5%B0%81%E9%9D%A2.jpg/318px-Kyouko_Menyambut_Ramadhan%EF%BC%9F%21%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1447" data-file-height="2039"></a><div class="cover-char">角色：<a href="./幽谷响子.md" title="幽谷响子">幽谷响子</a></div></td>
@@ -14,11 +15,14 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.facebook.com/photo/?fbid=933912957572277&amp;set=pb.100028607454825.-2207520000">https://www.facebook.com/photo/?fbid=933912957572277&amp;set=pb.100028607454825.-2207520000</a><br><a rel="nofollow" class="external free" href="https://twitter.com/any_star_/status/1653390982237265920">https://twitter.com/any_star_/status/1653390982237265920</a><br><a rel="nofollow" class="external free" href="https://twitter.com/any_star_/status/1654869483109122051">https://twitter.com/any_star_/status/1654869483109122051</a></td></tr></tbody></table>
 
 Kyouko Menyambut Ramadhan？!（同人志，Duodesimal，2023） - 2023年5月7日 由 Duodesimal 于 Comic Frontier 16 发布的漫画同人志，A6尺寸一共24页，登场人物有 幽谷响子、云居一轮、云山，分级为 一般向
+
 ## 预览
 - [](./文件-Kyouko_Menyambut_Ramadhan？!预览图1.jpg.md)- [](./文件-Kyouko_Menyambut_Ramadhan？!预览图2.jpg.md)- [](./文件-Kyouko_Menyambut_Ramadhan？!预览图3.jpg.md)- [](./文件-Kyouko_Menyambut_Ramadhan？!预览图4.jpg.md)
 
+
 ## Staff
 - izha (未找到链接)
+
 
 ## 评论
 

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -34,11 +35,13 @@
 
 
 
+
 ## 基本信息
 
-<table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">エレクトリックヘリテージ</td></tr><tr><td><b>译名</b></td><td>Electric Heritage</td></tr><tr><td><b>其他译名</b></td><td>电子遗产</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>关联</td></tr><tr><td style="padding-left:15px"><b>相关曲</b></td><td><a href="/%E5%81%B6%E5%83%8F%E3%81%AB%E4%B8%96%E7%95%8C%E3%82%92%E5%A7%94%E3%81%AD%E3%81%A6_%EF%BD%9E_Idoratrize_World" class="mw-redirect" title="偶像に世界を委ねて ～ Idoratrize World">偶像に世界を委ねて　～ Idoratrize World</a></td></tr><tr><td style="padding-left:15px"><b>　来源</b></td><td>东方鬼形兽　～ Wily Beast and Weakest Creature.</td></tr></tbody></table>
+<table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">エレクトリックヘリテージ</td></tr><tr><td><b>译名</b></td><td>Electric Heritage</td></tr><tr><td><b>其他译名</b></td><td>电子遗产</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>关联</td></tr><tr><td style="padding-left:15px"><b>相关曲</b></td><td><a href="./偶像に世界を委ねて_～_Idoratrize_World.md" class="mw-redirect" title="偶像に世界を委ねて ～ Idoratrize World">偶像に世界を委ねて　～ Idoratrize World</a></td></tr><tr><td style="padding-left:15px"><b>　来源</b></td><td>东方鬼形兽　～ Wily Beast and Weakest Creature.</td></tr></tbody></table>
 
 Electric Heritage（曲目） - 由 ZUN 创作的官方曲目，原名 エレクトリックヘリテージ
+
 ## 出现作品
 
 <table>
@@ -46,7 +49,9 @@ Electric Heritage（曲目） - 由 ZUN 创作的官方曲目，原名 エレク
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 东方鬼形兽
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th17_12.mp3.md" title="文件:th17 12.mp3">th17_12.mp3</a><br><audio src="https://upload.thwiki.cc/7/7f/th17_12.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>BGM\th17_12.wav</td></tr><tr><td><b>BGMForAll</b></td><td><div class="mw-collapsible mw-collapsed">
@@ -57,7 +62,9 @@ Electric Heritage（曲目） - 由 ZUN 创作的官方曲目，原名 エレク
 </td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 东方鬼形兽
 - Music Room (未找到链接)
 
@@ -67,8 +74,11 @@ Electric Heritage（曲目） - 由 ZUN 创作的官方曲目，原名 エレク
 　说起来仁德天皇陵古坟成了世界遗产。不过，  
 　因为没有宫内厅的许可就无法进入内部进行调查，  
 　所以实际上并不知道这到底是谁的陵墓。让人十分向往。
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
   
  **エレクトリックヘリテージ**  Electric Heritage
@@ -76,7 +86,7 @@ Electric Heritage（曲目） - 由 ZUN 创作的官方曲目，原名 エレク
 
 - エレクトリック（Electric）
   - 电动的、电力的，电的。
-    - 鬼形兽 (未找到链接)六面场景具有科技感，四周出现电子屏。
+    - [鬼形兽](./鬼形兽.md)六面场景具有科技感，四周出现电子屏。
     - 乐曲本身也带有强烈的电子感、科技感。
 
 
@@ -85,7 +95,7 @@ Electric Heritage（曲目） - 由 ZUN 创作的官方曲目，原名 エレク
 
 - ヘリテージ（Heritage）
   - 历史遗产，遗产。
-    - 此处可能指作为灵长园 (未找到链接)设计原型的「仁德天皇陵」。
+    - 此处可能指作为[灵长园](./灵长园.md#灵长园)设计原型的「仁德天皇陵」。
     - 「仁德天皇陵」为最知名的前方后圆古坟之一，2014年被列入世界文化遗产。
 
 
@@ -99,6 +109,7 @@ Electric Heritage（曲目） - 由 ZUN 创作的官方曲目，原名 エレク
 
 
 - [](./文件-仁德天皇陵.jpg.md)仁德天皇陵
+
 
 ### 二次同人数据
 

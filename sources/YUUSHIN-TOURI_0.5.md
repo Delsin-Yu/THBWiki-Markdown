@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-YUUSHIN-TOURI_0.5封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/a/aa/YUUSHIN-TOURI_0.5%E5%B0%81%E9%9D%A2.jpg/196px-YUUSHIN-TOURI_0.5%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="196" height="136" srcset="https://upload.thwiki.cc/thumb/a/aa/YUUSHIN-TOURI_0.5%E5%B0%81%E9%9D%A2.jpg/294px-YUUSHIN-TOURI_0.5%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/a/aa/YUUSHIN-TOURI_0.5%E5%B0%81%E9%9D%A2.jpg/392px-YUUSHIN-TOURI_0.5%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="746" data-file-height="519"></a><div class="cover-char">角色：<a href="./古明地觉.md" title="古明地觉">古明地觉</a>，<a href="./古明地恋.md" title="古明地恋">古明地恋</a></div></td>
@@ -14,13 +15,16 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://ayamiguma.exblog.jp/16094796/">https://ayamiguma.exblog.jp/16094796/</a><br><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/20964122">https://www.pixiv.net/artworks/20964122</a></td></tr></tbody></table>
 
 YUUSHIN-TOURI 0.5（同人志，疲労熊，2011） - 2011年8月13日 由 疲労熊 于 Comic Market 80 发布的画集同人志，B5尺寸一共12页，分级为 一般向
+
 ## 预览
   
 [Pixiv](https://www.pixiv.net/artworks/20964122)
   
 
+
 ## Staff
 - [綾見ちは](./綾見ちは.md)
+
 
 ## 评论
 - 作者

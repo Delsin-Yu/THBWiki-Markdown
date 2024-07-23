@@ -4,6 +4,7 @@
 
 东方永夜抄 | 令人怀念的东方之血_～_Old_World
 
+
 ## 文件说明
   
 懐かしき東方の血　～ Old World 东方永夜抄3面道中曲MIDI版。由Roland Sound Canvas 88Pro实机录制；MP3采样率44.1KHz，码率192Kbps。  

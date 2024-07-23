@@ -18,6 +18,7 @@
 
 
 </center>
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=RHR_%E3%83%87%E3%83%A2CD1%E5%B0%81%E9%9D%A2.jpg" class="new" title="文件:RHR デモCD1封面.jpg">封面图片</a></td>
@@ -26,6 +27,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://rhr.karakasa.com/discography.html">http://rhr.karakasa.com/discography.html</a><br><span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span></td></tr></tbody></table>
 
 RHR デモCD1（同人专辑，RHR，2011） - 2011年10月30日 由 RHR 于 M3-2011秋 发布的Demo同人专辑，分级为 一般向
+
 ## Staff
   
  **Arrangement**   
@@ -38,15 +40,18 @@ Design
 Illustration
 : 画师 （[网址 社团]）
 
+
 ## 试听
   
 暂不支援此类型
   
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="再会デザイア" colspan="2" class="title">再会デザイア<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=ギョクリュウ&amp;ogmusic=デザイアドライブ&amp;fromwiki=RHR_デモCD1"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E3%82%AE%E3%83%A7%E3%82%AF%E3%83%AA%E3%83%A5%E3%82%A6&amp;action=edit&amp;redlink=1" class="new" title="ギョクリュウ（页面不存在）">ギョクリュウ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，ギョクリュウ&amp;fromwiki=RHR_デモCD1"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=デザイアドライブ&amp;fromwiki=RHR_デモCD1"><span></span></a></span><div class="ogmusic"><a href="/%E3%83%87%E3%82%B6%E3%82%A4%E3%82%A2%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96" class="mw-redirect" title="デザイアドライブ">デザイアドライブ</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E7%A5%9E%E7%81%B5%E5%BA%99_%EF%BD%9E_Ten_Desires." class="mw-redirect" title="东方神灵庙 ～ Ten Desires.">东方神灵庙　～ Ten Desires.</a></div></td></tr>
-<tr><td id="2" class="infoYD"><b>02</b></td><td id="アイ_ドント_ヘイト_ユー" colspan="2" class="title">アイ ドント ヘイト ユー<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=ギョクリュウ&amp;ogmusic=千年幻想郷　～ History of the Moon&amp;fromwiki=RHR_デモCD1"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E3%82%AE%E3%83%A7%E3%82%AF%E3%83%AA%E3%83%A5%E3%82%A6&amp;action=edit&amp;redlink=1" class="new" title="ギョクリュウ（页面不存在）">ギョクリュウ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，ギョクリュウ&amp;fromwiki=RHR_デモCD1"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=千年幻想郷　～ History of the Moon&amp;fromwiki=RHR_デモCD1"><span></span></a></span><div class="ogmusic"><a href="/%E5%8D%83%E5%B9%B4%E5%B9%BB%E6%83%B3%E9%83%B7_%EF%BD%9E_History_of_the_Moon" class="mw-redirect" title="千年幻想郷 ～ History of the Moon">千年幻想郷　～ History of the Moon</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E6%B0%B8%E5%A4%9C%E6%8A%84_%EF%BD%9E_Imperishable_Night." class="mw-redirect" title="东方永夜抄 ～ Imperishable Night.">东方永夜抄　～ Imperishable Night.</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="再会デザイア" colspan="2" class="title">再会デザイア<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=ギョクリュウ&amp;ogmusic=デザイアドライブ&amp;fromwiki=RHR_デモCD1"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E3%82%AE%E3%83%A7%E3%82%AF%E3%83%AA%E3%83%A5%E3%82%A6&amp;action=edit&amp;redlink=1" class="new" title="ギョクリュウ（页面不存在）">ギョクリュウ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，ギョクリュウ&amp;fromwiki=RHR_デモCD1"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=デザイアドライブ&amp;fromwiki=RHR_デモCD1"><span></span></a></span><div class="ogmusic"><a href="./デザイアドライブ.md" class="mw-redirect" title="デザイアドライブ">デザイアドライブ</a></div><div class="source"><a href="./东方神灵庙_～_Ten_Desires..md" class="mw-redirect" title="东方神灵庙 ～ Ten Desires.">东方神灵庙　～ Ten Desires.</a></div></td></tr>
+<tr><td id="2" class="infoYD"><b>02</b></td><td id="アイ_ドント_ヘイト_ユー" colspan="2" class="title">アイ ドント ヘイト ユー<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=ギョクリュウ&amp;ogmusic=千年幻想郷　～ History of the Moon&amp;fromwiki=RHR_デモCD1"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E3%82%AE%E3%83%A7%E3%82%AF%E3%83%AA%E3%83%A5%E3%82%A6&amp;action=edit&amp;redlink=1" class="new" title="ギョクリュウ（页面不存在）">ギョクリュウ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，ギョクリュウ&amp;fromwiki=RHR_デモCD1"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=千年幻想郷　～ History of the Moon&amp;fromwiki=RHR_デモCD1"><span></span></a></span><div class="ogmusic"><a href="./千年幻想郷_～_History_of_the_Moon.md" class="mw-redirect" title="千年幻想郷 ～ History of the Moon">千年幻想郷　～ History of the Moon</a></div><div class="source"><a href="./东方永夜抄_～_Imperishable_Night..md" class="mw-redirect" title="东方永夜抄 ～ Imperishable Night.">东方永夜抄　～ Imperishable Night.</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

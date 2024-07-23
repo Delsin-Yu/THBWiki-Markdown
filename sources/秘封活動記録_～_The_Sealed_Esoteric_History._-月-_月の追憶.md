@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-秘封活動記録_～_The_Sealed_Esoteric_History._-月-_月の追憶封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/1/15/%E7%A7%98%E5%B0%81%E6%B4%BB%E5%8B%95%E8%A8%98%E9%8C%B2_%EF%BD%9E_The_Sealed_Esoteric_History._-%E6%9C%88-_%E6%9C%88%E3%81%AE%E8%BF%BD%E6%86%B6%E5%B0%81%E9%9D%A2.jpg/140px-%E7%A7%98%E5%B0%81%E6%B4%BB%E5%8B%95%E8%A8%98%E9%8C%B2_%EF%BD%9E_The_Sealed_Esoteric_History._-%E6%9C%88-_%E6%9C%88%E3%81%AE%E8%BF%BD%E6%86%B6%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="140" height="196" srcset="https://upload.thwiki.cc/thumb/1/15/%E7%A7%98%E5%B0%81%E6%B4%BB%E5%8B%95%E8%A8%98%E9%8C%B2_%EF%BD%9E_The_Sealed_Esoteric_History._-%E6%9C%88-_%E6%9C%88%E3%81%AE%E8%BF%BD%E6%86%B6%E5%B0%81%E9%9D%A2.jpg/210px-%E7%A7%98%E5%B0%81%E6%B4%BB%E5%8B%95%E8%A8%98%E9%8C%B2_%EF%BD%9E_The_Sealed_Esoteric_History._-%E6%9C%88-_%E6%9C%88%E3%81%AE%E8%BF%BD%E6%86%B6%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/1/15/%E7%A7%98%E5%B0%81%E6%B4%BB%E5%8B%95%E8%A8%98%E9%8C%B2_%EF%BD%9E_The_Sealed_Esoteric_History._-%E6%9C%88-_%E6%9C%88%E3%81%AE%E8%BF%BD%E6%86%B6%E5%B0%81%E9%9D%A2.jpg/280px-%E7%A7%98%E5%B0%81%E6%B4%BB%E5%8B%95%E8%A8%98%E9%8C%B2_%EF%BD%9E_The_Sealed_Esoteric_History._-%E6%9C%88-_%E6%9C%88%E3%81%AE%E8%BF%BD%E6%86%B6%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="714" data-file-height="1000"></a><div class="cover-char">角色：<a href="./蓬莱山辉夜.md" title="蓬莱山辉夜">蓬莱山辉夜</a>，<a href="./八意永琳.md" title="八意永琳">八意永琳</a></div></td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://kyotofantasytroupe.net/">http://kyotofantasytroupe.net/</a></td></tr></tbody></table>
 
 秘封活動記録 ～ The Sealed Esoteric History. -月- 月の追憶（同人志，京都幻想剧团，2015） - 2015年5月10日 由 京都幻想剧团 于 博丽神社例大祭12 发布的漫画同人志，一共90页，登场人物有 玛艾露贝莉·赫恩、宇佐见莲子、八意永琳、蓬莱山辉夜、绵月丰姬、绵月依姬、瑞江浦岛子、嫦娥、月夜见、因幡天为、茨木华扇、伊吹萃香、星熊勇仪、大天狗、都久亲王、细爱亲王、桂里亲王、千酌亲王、余美亲王、垂根亲王，分级为 一般向
+
 ## Staff
 剧本
 : 囧仙 (未找到链接)
@@ -23,6 +25,7 @@
 : mamou
 排版
 : 宇佐見メリー
+
 
 ## 动态漫画
   
@@ -34,6 +37,7 @@
 <tr><th style="text-align: center;"><a class="bilibili-title external text" target="_blank" rel="nofollow" style="margin: 0 0.4em 0 0.2em;"></a><input type="button" class="bilibili-toggle" value="显示视频" style="float: right;"></th></tr>
 <tr class="bilibili-video" style="display: none;"><td></td></tr>
 </table>
+
 
 
 

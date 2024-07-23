@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Vanisher封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/d/d8/Vanisher%E5%B0%81%E9%9D%A2.jpg/118px-Vanisher%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="118" height="168" srcset="https://upload.thwiki.cc/thumb/d/d8/Vanisher%E5%B0%81%E9%9D%A2.jpg/176px-Vanisher%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/d/d8/Vanisher%E5%B0%81%E9%9D%A2.jpg/235px-Vanisher%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="269" data-file-height="384"></a><div class="cover-char">角色：<a href="./古明地觉.md" title="古明地觉">古明地觉</a>，<a href="./古明地恋.md" title="古明地恋">古明地恋</a>，<a href="./灵乌路空.md" title="灵乌路空">灵乌路空</a>，<a href="./火焰猫燐.md" title="火焰猫燐">火焰猫燐</a></div></td>
@@ -13,9 +14,12 @@
 </tr><tr><td class="label">首发日期</td><td>2013-05-26&#160;（<a href="/展会作品列表?e=%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD%2310">第十回 博麗神社例大祭</a>）</td></tr><tr><td class="label">类型</td><td>漫画</td></tr><tr><td class="label">分级指定</td><td>一般向</td></tr><tr><td class="label">页数</td><td>32P</td></tr><tr><td class="label">登场人物</td><td><a href="./古明地觉.md" title="古明地觉">古明地觉</a>，<a href="./古明地恋.md" title="古明地恋">古明地恋</a>，<a href="./灵乌路空.md" title="灵乌路空">灵乌路空</a>，<a href="./火焰猫燐.md" title="火焰猫燐">火焰猫燐</a>，<a href="./伊吹萃香.md" title="伊吹萃香">伊吹萃香</a>，<a href="./星熊勇仪.md" title="星熊勇仪">星熊勇仪</a>，<a href="./黑谷山女.md" title="黑谷山女">黑谷山女</a>，<a href="./琪斯美.md" title="琪斯美">琪斯美</a>，<a href="./水桥帕露西.md" title="水桥帕露西">水桥帕露西</a></td></tr></tbody></table>
 
 Vanisher（同人志，煎，2013） - 2013年5月26日 由 煎 于 博丽神社例大祭10 发布的漫画同人志，一共32页，登场人物有 古明地觉、古明地恋、灵乌路空、火焰猫燐、伊吹萃香、星熊勇仪、黑谷山女、琪斯美、水桥帕露西，分级为 一般向
+
 ## 预览
+
 ## Staff
 - おこげ煎餅 (未找到链接)
+
 
 ## 评论
 

@@ -18,6 +18,7 @@
 
 
 </center>
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-EG_おまけDX_Vol.1封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/c/c0/EG_%E3%81%8A%E3%81%BE%E3%81%91DX_Vol.1%E5%B0%81%E9%9D%A2.png/280px-EG_%E3%81%8A%E3%81%BE%E3%81%91DX_Vol.1%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="280" height="278" srcset="https://upload.thwiki.cc/thumb/c/c0/EG_%E3%81%8A%E3%81%BE%E3%81%91DX_Vol.1%E5%B0%81%E9%9D%A2.png/420px-EG_%E3%81%8A%E3%81%BE%E3%81%91DX_Vol.1%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/c/c0/EG_%E3%81%8A%E3%81%BE%E3%81%91DX_Vol.1%E5%B0%81%E9%9D%A2.png/560px-EG_%E3%81%8A%E3%81%BE%E3%81%91DX_Vol.1%E5%B0%81%E9%9D%A2.png 2x" data-file-width="1366" data-file-height="1356"></a><div class="cover-char">角色：<a href="./蕾米莉亚·斯卡蕾特.md" title="蕾米莉亚·斯卡蕾特">蕾米莉亚·斯卡蕾特</a>，<a href="./芙兰朵露·斯卡蕾特.md" title="芙兰朵露·斯卡蕾特">芙兰朵露·斯卡蕾特</a>，<a href="./古明地觉.md" title="古明地觉">古明地觉</a>，<a href="./古明地恋.md" title="古明地恋">古明地恋</a>，<a href="./射命丸文.md" title="射命丸文">射命丸文</a>，<a href="./河城荷取.md" title="河城荷取">河城荷取</a></div></td>
@@ -30,16 +31,19 @@ EG おまけDX Vol.1（同人专辑，アールグレイ，2018） - 2018年8月
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=382069">蜜瓜</a></td></tr></tbody></table>
 
 
+
 ## Staff
 Design
 : 设计师 （[网址 社团]）
 Illustration
 : 画师 （[网址 社团]）
 
+
 ## 试听
   
 暂不支援此类型
   
+
 
 ## 曲目列表
 
@@ -48,6 +52,7 @@ Illustration
 <tr><td id="3" class="info"><b>03</b></td><td id="レミィとフランの水浴びディスク" colspan="2" class="title">レミィとフランの水浴びディスク<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=EG_おまけDX_Vol.1"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr>
 <tr><td id="4" class="info"><b>04</b></td><td id="あやにと_ダブルあまあまディスク" colspan="2" class="title">あやにと ダブルあまあまディスク<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=EG_おまけDX_Vol.1"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr>
 <tr><td id="5" class="info"><b>05</b></td><td id="東風谷早苗のおまけボイス" colspan="2" class="title">東風谷早苗のおまけボイス<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?&amp;fromwiki=EG_おまけDX_Vol.1"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr></tbody></table>
+
 
 
 ## 评论

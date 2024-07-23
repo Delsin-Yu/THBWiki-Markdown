@@ -18,6 +18,7 @@
 
 
 </center>
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Traumerei_Vol.6封面.png.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/b/b7/Traumerei_Vol.6%E5%B0%81%E9%9D%A2.png/99px-Traumerei_Vol.6%E5%B0%81%E9%9D%A2.png" decoding="async" loading="lazy" width="99" height="140" srcset="https://upload.thwiki.cc/thumb/b/b7/Traumerei_Vol.6%E5%B0%81%E9%9D%A2.png/149px-Traumerei_Vol.6%E5%B0%81%E9%9D%A2.png 1.5x, https://upload.thwiki.cc/thumb/b/b7/Traumerei_Vol.6%E5%B0%81%E9%9D%A2.png/198px-Traumerei_Vol.6%E5%B0%81%E9%9D%A2.png 2x" data-file-width="638" data-file-height="900"></a><div class="cover-char">角色：<a href="./铃仙·优昙华院·因幡.md" title="铃仙·优昙华院·因幡">铃仙·优昙华院·因幡</a>，<a href="./水桥帕露西.md" title="水桥帕露西">水桥帕露西</a>，<a href="./稀神探女.md" title="稀神探女">稀神探女</a>，<a href="./八坂神奈子.md" title="八坂神奈子">八坂神奈子</a></div></td>
@@ -26,8 +27,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/56644488">https://www.pixiv.net/artworks/56644488</a></td></tr></tbody></table>
 
 Traumerei Vol.6（同人志，黒獅子帝，2016） - 2016年5月8日 由 黒獅子帝 于 博丽神社例大祭13 发布的画集同人志，分级为 一般向
+
 ## Staff
 - カイザ閣下 (未找到链接)
+
 
 ## 评论
 

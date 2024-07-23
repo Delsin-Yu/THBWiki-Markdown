@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -41,16 +42,18 @@
 
 
 
+
 ## 基本信息
 
-<table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">メイガスナイト</td></tr><tr><td><b>译名</b></td><td>Magus Night</td></tr><tr><td><b>其他译名</b></td><td>魔法使之夜<br>魔法师之夜<br>贤者之夜</td></tr><tr><td><b>常见误译</b></td><td><s><i>魔法骑士<br>魔法师骑士<br>Magus Knight<br>祭司骑士</i></s></td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>再编</td></tr><tr><td style="padding-left:15px"><b>原曲</b></td><td><a href="/%E9%AD%94%E5%A5%B3%E9%81%94%E3%81%AE%E8%88%9E%E8%B8%8F%E4%BC%9A_%EF%BD%9E_Magus" class="mw-redirect" title="魔女達の舞踏会 ～ Magus">魔女達の舞踏会　～ Magus</a></td></tr><tr><td style="padding-left:15px"><b>　来源</b></td><td>秋霜玉</td></tr></tbody></table>
+<table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">メイガスナイト</td></tr><tr><td><b>译名</b></td><td>Magus Night</td></tr><tr><td><b>其他译名</b></td><td>魔法使之夜<br>魔法师之夜<br>贤者之夜</td></tr><tr><td><b>常见误译</b></td><td><s><i>魔法骑士<br>魔法师骑士<br>Magus Knight<br>祭司骑士</i></s></td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>再编</td></tr><tr><td style="padding-left:15px"><b>原曲</b></td><td><a href="./魔女達の舞踏会_～_Magus.md" class="mw-redirect" title="魔女達の舞踏会 ～ Magus">魔女達の舞踏会　～ Magus</a></td></tr><tr><td style="padding-left:15px"><b>　来源</b></td><td>秋霜玉</td></tr></tbody></table>
 
 Magus Night（曲目） - 由 ZUN 创作的官方曲目，原名 メイガスナイト
+
 ## 出现作品
 
 <table>
 <tbody><tr><td>2010年8月14日（Comic Market 78）</td><td><b><a href="./妖精大战争.md" title="妖精大战争">妖精大战争</a></b></td><td>Extra面BOSS<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a>的主题曲</td><td style="padding-left:5px;">メイガスナイト（Magus Night）</td><td style="padding-left:10px;">作曲：ZUN</td></tr>
-<tr><td>2012年3月26日（非展会）</td><td><b><a href="/%E4%B8%9C%E6%96%B9%E4%B8%89%E6%9C%88%E7%B2%BEO" class="mw-redirect" title="东方三月精O">东方三月精O</a>3</b></td><td>附属CD 第1轨</td><td style="padding-left:5px;">メイガスナイト（Magus Night）</td><td style="padding-left:10px;">编曲：ZUN</td></tr>
+<tr><td>2012年3月26日（非展会）</td><td><b><a href="./东方三月精O.md" class="mw-redirect" title="东方三月精O">东方三月精O</a>3</b></td><td>附属CD 第1轨</td><td style="padding-left:5px;">メイガスナイト（Magus Night）</td><td style="padding-left:10px;">编曲：ZUN</td></tr>
 <tr><td>2012年12月30日（Comic Market 83）</td><td><b><a href="./东方心绮楼.md" title="东方心绮楼">东方心绮楼</a>体验版</b></td><td><a href="./人类村落.md" title="人类村落">人类村落</a>场景音乐</td><td style="padding-left:5px;">メイガスナイト（Magus Night）</td><td style="padding-left:10px;">编曲：あきやまうに</td></tr>
 <tr><td>2013年5月26日（第十回 博丽神社例大祭）</td><td><b><a href="./东方心绮楼.md" title="东方心绮楼">东方心绮楼</a>正式版</b></td><td><a href="./人类村落.md" title="人类村落">人类村落</a>场景音乐</td><td style="padding-left:5px;">メイガスナイト（Magus Night）</td><td style="padding-left:10px;">编曲：あきやまうに</td></tr>
 <tr><td>2013年8月9日（非展会）</td><td><b><a href="./东方心绮楼.md" title="东方心绮楼">东方心绮楼</a>正式版ver1.20</b></td><td><a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a>满人气背景音乐</td><td style="padding-left:5px;">人気爆発／霧雨魔理沙（人气爆发／雾雨魔理沙）</td><td style="padding-left:10px;">编曲：あきやまうに</td></tr>
@@ -59,7 +62,9 @@ Magus Night（曲目） - 由 ZUN 创作的官方曲目，原名 メイガスナ
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 妖精大战争
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th12.8_08.mp3.md" title="文件:th12.8 08.mp3">th12.8_08.mp3</a><br><audio src="https://upload.thwiki.cc/3/33/th12.8_08.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>BGM\th12.8_08.wav</td></tr><tr><td><b>BGMForAll</b></td><td><div class="mw-collapsible mw-collapsed">
@@ -70,9 +75,11 @@ Magus Night（曲目） - 由 ZUN 创作的官方曲目，原名 メイガスナ
 </td></tr></tbody></table>
 
 
+
 ### 东方三月精（第三季）附属CD3
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-OSP03_01.mp3.md" title="文件:OSP03 01.mp3">OSP03_01.mp3</a><br><audio src="https://upload.thwiki.cc/c/cc/OSP03_01.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track01.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>4:39</td></tr></tbody></table>
+
 
 
 ### 暗黑能乐集心绮楼
@@ -84,7 +91,9 @@ Magus Night（曲目） - 由 ZUN 创作的官方曲目，原名 メイガスナ
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-TFM-006b_05.mp3.md" title="文件:TFM-006b 05.mp3">TFM-006b_05.mp3</a><br><audio src="https://upload.thwiki.cc/2/29/TFM-006b_05.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track05.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>0:22</td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 妖精大战争
 - Music Room (未找到链接)
 
@@ -94,22 +103,28 @@ Magus Night（曲目） - 由 ZUN 创作的官方曲目，原名 メイガスナ
 　只凭借残留在心底的印象结果完全变成了别的曲子……  
 　作曲者本人来改编的话不构成改编，原来是这么一回事么。  
 　不过，很帅气的曲子吧—。只要曲子好就得了。
+
 ### 东方三月精 ～ Oriental Sacred Place.
 - CD解说 (未找到链接)
 
 由于是最后一卷，因此选了几首风格较为激烈的曲子。这一首是琪露诺与魔理沙对战时的主题曲，其实原本和三妖精无关，不过就算把琪露诺替换成三妖精，这首曲子也没问题。虽然压根就不是认真对战，但对方很明显是个强敌，就是以这种印象来作的曲。最喜欢进入副歌时那种视野突然开阔的感觉。
+
 ### 东方心绮楼
 - Music Room (未找到链接)
 
 这次最有干劲的曲子。不过swing比例的手动变更，录制音乐的编辑之类的，麻烦  
 的工作太多了，很辛苦。写曲子的评论更辛苦。如果不写曲评估计角色的颜色样式  
 还会更多，就是这么麻烦。　　　　　　　　　　　　　　　　　小提琴. ＪＵＮ
+
 ### 暗黑能乐集心绮楼
 - あきやまうに的文本 (未找到链接)
 
 人气爆发／为了让人知道进入了人气爆发状态，所以全员都是相似的编曲。时间也是固定20秒，所以拍速相同，小节数也相同。
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 原曲
 
 <table>
@@ -120,6 +135,7 @@ Magus Night（曲目） - 由 ZUN 创作的官方曲目，原名 メイガスナ
 <tr><td><b>使用乐器</b></td><td>VirtualGuitarist<br>Romantic Tp/SD-90</td></tr>
 <tr><td><b>和弦</b></td><td>【前奏】<br><span style="margin-left:2em;">Em Edim ｜D♯dim Em ｜ ...4x｜</span><br>【A段旋律】<br><span style="margin-left:2em;">Em Edim ｜D♯dim Em ｜Em A ｜B♯ ｜~</span><br><span style="margin-left:2em;">Em Edim ｜D♯dim Em ｜C D ｜E ｜...2x｜</span><br>【A段结尾】<br><span style="margin-left:2em;">Em Edim ｜D♯dim Em ｜ ...4x｜</span><br>【B段前奏】<br><span style="margin-left:2em;">C♯m C♯dim ｜B♯dim C♯m ｜ ...4x｜</span><br>【B段旋律】<br><span style="margin-left:2em;">C♯m C♯dim ｜B♯dim C♯m ｜C♯m F♯ ｜G♯ ｜~</span><br><span style="margin-left:2em;">C♯m C♯dim ｜B♯dim C♯m ｜A B ｜C♯ ｜...2x｜</span><br>【副歌1】<br><span style="margin-left:2em;">D E ｜F♯m ｜...3x｜D B ｜C♯ ｜</span><br><span style="margin-left:2em;">D E ｜F♯m ｜...3x｜D E ｜F♯ ｜</span><br>【副歌2】<br><span style="margin-left:2em;">G♭ A♭ ｜B♭m ｜...3x｜G♭ E♭ ｜F ｜</span><br><span style="margin-left:2em;">G♭ A♭ ｜B♭m ｜...3x｜G♭ A♭ ｜B♭ ｜</span></td></tr>
 </tbody></table>
+
 
 
 ### 分析考据
@@ -144,6 +160,7 @@ Magus Night（曲目） - 由 ZUN 创作的官方曲目，原名 メイガスナ
 
 - 本曲是以改编[魔女们的舞会 ～ Magus](./魔女们的舞会_～_Magus.md)为本开始做的曲子。&#91;妖精大战争Music Room&#93; (未找到链接)
 
+
 ### 二次同人数据
 
 <table><tbody><tr><th colspan="2">统计</th></tr>
@@ -156,6 +173,7 @@ Magus Night（曲目） - 由 ZUN 创作的官方曲目，原名 メイガスナ
 <tr><td>Arrange</td><td>553</td></tr>
 <tr><td>Vocal率</td><td>36.07%</td></tr>
 </tbody></table>
+
 
 
 

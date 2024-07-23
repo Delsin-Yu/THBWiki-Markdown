@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-描_東方描綴_Vol.05封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/5/5e/%E6%8F%8F_%E6%9D%B1%E6%96%B9%E6%8F%8F%E7%B6%B4_Vol.05%E5%B0%81%E9%9D%A2.jpg/168px-%E6%8F%8F_%E6%9D%B1%E6%96%B9%E6%8F%8F%E7%B6%B4_Vol.05%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="168" height="118" srcset="https://upload.thwiki.cc/thumb/5/5e/%E6%8F%8F_%E6%9D%B1%E6%96%B9%E6%8F%8F%E7%B6%B4_Vol.05%E5%B0%81%E9%9D%A2.jpg/252px-%E6%8F%8F_%E6%9D%B1%E6%96%B9%E6%8F%8F%E7%B6%B4_Vol.05%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/5/5e/%E6%8F%8F_%E6%9D%B1%E6%96%B9%E6%8F%8F%E7%B6%B4_Vol.05%E5%B0%81%E9%9D%A2.jpg/336px-%E6%8F%8F_%E6%9D%B1%E6%96%B9%E6%8F%8F%E7%B6%B4_Vol.05%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="800" data-file-height="562"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>，<a href="./帕秋莉·诺蕾姬.md" title="帕秋莉·诺蕾姬">帕秋莉·诺蕾姬</a>，<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a>，<a href="./魂魄妖梦.md" title="魂魄妖梦">魂魄妖梦</a>，<a href="./蓬莱山辉夜.md" title="蓬莱山辉夜">蓬莱山辉夜</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://xel.skr.jp/tokiame/20111224432/doujin/">http://xel.skr.jp/tokiame/20111224432/doujin/</a></td></tr></tbody></table>
 
 描 東方描綴 Vol.05（同人志，SWAY WIND，2011） - 2011年12月30日 由 SWAY WIND 于 Comic Market 81 发布的绘本同人志，B5尺寸一共20页，分级为 一般向
+
 ## Staff
 - [TOKIAME](./TOKIAME.md)
+
 
 ## 评论
 

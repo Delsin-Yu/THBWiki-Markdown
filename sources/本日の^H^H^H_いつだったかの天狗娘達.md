@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-本日の^H^H^H_いつだったかの天狗娘達封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/9/9f/%E6%9C%AC%E6%97%A5%E3%81%AE%5EH%5EH%5EH_%E3%81%84%E3%81%A4%E3%81%A0%E3%81%A3%E3%81%9F%E3%81%8B%E3%81%AE%E5%A4%A9%E7%8B%97%E5%A8%98%E9%81%94%E5%B0%81%E9%9D%A2.jpg/161px-%E6%9C%AC%E6%97%A5%E3%81%AE%5EH%5EH%5EH_%E3%81%84%E3%81%A4%E3%81%A0%E3%81%A3%E3%81%9F%E3%81%8B%E3%81%AE%E5%A4%A9%E7%8B%97%E5%A8%98%E9%81%94%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="161" height="224" srcset="https://upload.thwiki.cc/thumb/9/9f/%E6%9C%AC%E6%97%A5%E3%81%AE%5EH%5EH%5EH_%E3%81%84%E3%81%A4%E3%81%A0%E3%81%A3%E3%81%9F%E3%81%8B%E3%81%AE%E5%A4%A9%E7%8B%97%E5%A8%98%E9%81%94%E5%B0%81%E9%9D%A2.jpg/241px-%E6%9C%AC%E6%97%A5%E3%81%AE%5EH%5EH%5EH_%E3%81%84%E3%81%A4%E3%81%A0%E3%81%A3%E3%81%9F%E3%81%8B%E3%81%AE%E5%A4%A9%E7%8B%97%E5%A8%98%E9%81%94%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/9/9f/%E6%9C%AC%E6%97%A5%E3%81%AE%5EH%5EH%5EH_%E3%81%84%E3%81%A4%E3%81%A0%E3%81%A3%E3%81%9F%E3%81%8B%E3%81%AE%E5%A4%A9%E7%8B%97%E5%A8%98%E9%81%94%E5%B0%81%E9%9D%A2.jpg/322px-%E6%9C%AC%E6%97%A5%E3%81%AE%5EH%5EH%5EH_%E3%81%84%E3%81%A4%E3%81%A0%E3%81%A3%E3%81%9F%E3%81%8B%E3%81%AE%E5%A4%A9%E7%8B%97%E5%A8%98%E9%81%94%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="860" data-file-height="1196"></a><div class="cover-char">角色：<a href="./射命丸文.md" title="射命丸文">射命丸文</a>，<a href="./姬海棠果.md" title="姬海棠果">姬海棠果</a>，<a href="./犬走椛.md" title="犬走椛">犬走椛</a></div></td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/53106152">https://www.pixiv.net/artworks/53106152</a></td></tr></tbody></table>
 
 本日の^H^H^H いつだったかの天狗娘達（同人志，Infrontia，2012） - 2012年11月4日 由 Infrontia 于 文文。新闻友人集会3 发布的漫画同人志，B5尺寸一共12页，登场人物有 射命丸文、姬海棠果、犬走椛、琪露诺，分级为 一般向
+
 ## Staff
 - [山県ひでと](./山県ひでと.md)
 

@@ -4,8 +4,9 @@
 
 THV求闻视祭 在 中国 举办的  东方同人创作活动，目前共举办了2届
 
-本页是关于 **同人展会 (未找到链接)**   
-及 **相关活动 (未找到链接)** 的词条
+本页是关于 **[同人展会](./同人展会.md#展会类活动)**   
+及 **[相关活动](./相关活动.md)** 的词条
+
 ## 目录
 
 - [1 概述](#概述)
@@ -18,6 +19,7 @@ THV求闻视祭 在 中国 举办的  东方同人创作活动，目前共举办
 
 
 
+
 ## 概述
 文件:THV求闻视祭LOGO.jpg (未找到链接)  THV求闻视祭 LOGO
   
@@ -26,7 +28,7 @@ THV求闻视祭 在 中国 举办的  东方同人创作活动，目前共举办
   
   
   
-中国 **** 线上的东方Project Only **同人创作类活动 (未找到链接)** 。  
+中国 **** 线上的东方Project Only **同人[创作类活动](./创作类活动.md#创作类活动)** 。  
   
 在线上举办。  
   
@@ -54,6 +56,7 @@ THV求闻视祭 在 中国 举办的  东方同人创作活动，目前共举办
 主办方： **[THVideo.tv](http://thvideo.tv/)（已经失效）**   
   
 THV求闻视祭（活动，创作活动） - THV求闻视祭 在 中国 举办的  东方同人创作活动，目前共举办了2届
+
 ## 历届信息
 - 点击届数可进入对应分类页面。
 - 请注意，摊位数统计可能不准确。
@@ -65,6 +68,7 @@ THV求闻视祭（活动，创作活动） - THV求闻视祭 在 中国 举办�
 <tr><td id="1"><b><a href="/展会作品列表?e=THV%E6%B1%82%E9%97%BB%E8%A7%86%E7%A5%AD%231">第一届THV求闻视祭</a></b></td><td id="ev-1">2014年10月05日至07日</td><td>THVideo<br><small><span style="color:grey;"></span></small></td></tr>
 <tr><td id="2"><b><a href="/展会作品列表?e=THV%E6%B1%82%E9%97%BB%E8%A7%86%E7%A5%AD%232">第二届THV求闻视祭</a></b></td><td id="ev-2">2015年10月02日至04日</td><td>THVideo<br><small><span style="color:grey;"></span></small></td></tr>
 </tbody></table>
+
 
 
 ## THV求闻视祭
@@ -125,6 +129,7 @@ THV求闻视祭（活动，创作活动） - THV求闻视祭 在 中国 举办�
 【THV求闻视祭OP】[THV](http://thvideo.tv/v/th2598)（已经失效） [bilibili](https://www.bilibili.com/video/av1594130/)
   
 
+
 ## 第2届THV求闻视祭
   
 活动名： THV求闻视祭  
@@ -177,6 +182,7 @@ THV求闻视祭（活动，创作活动） - THV求闻视祭 在 中国 举办�
 
 【第2届THV求闻视祭OP】 [THV](http://thvideo.tv/v/th4689)（已经失效） [bilibili](https://www.bilibili.com/video/av2992195)
   
+
 
 ## 外部链接
 - 【THV求闻视祭作品列表】[THV](http://thvideo.tv/mylist136)（已经失效）[^cite_note-3][bilibili现存重新整理](https://space.bilibili.com/87694046/favlist?fid=1644951746)

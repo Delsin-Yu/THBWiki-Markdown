@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-Ring_of_The_7_Deadly_Sins封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/7/71/Ring_of_The_7_Deadly_Sins%E5%B0%81%E9%9D%A2.jpg/139px-Ring_of_The_7_Deadly_Sins%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="139" height="196" srcset="https://upload.thwiki.cc/thumb/7/71/Ring_of_The_7_Deadly_Sins%E5%B0%81%E9%9D%A2.jpg/208px-Ring_of_The_7_Deadly_Sins%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/7/71/Ring_of_The_7_Deadly_Sins%E5%B0%81%E9%9D%A2.jpg/277px-Ring_of_The_7_Deadly_Sins%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="566" data-file-height="800"></a></td>
@@ -14,9 +15,11 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://aquarell-c.sakura.ne.jp/circle/c80/index.html">http://aquarell-c.sakura.ne.jp/circle/c80/index.html</a></td></tr></tbody></table>
 
 Ring of The 7 Deadly Sins（同人志，ゆめかばん，2011） - 2011年8月13日 由 ゆめかばん 于 Comic Market 80 发布的小说同人志，A5尺寸一共184页，登场人物有 古明地觉、古明地恋、梅蒂欣·梅兰可莉、键山雏、爱丽丝·玛格特洛依德、十六夜咲夜、蕾米莉亚·斯卡蕾特、芙兰朵露·斯卡蕾特、宇佐见莲子、玛艾露贝莉·赫恩，分级为 一般向
+
 ## Staff
 - A-20
 - ホシ　ナヲキ
+
 
 ## 评论
 

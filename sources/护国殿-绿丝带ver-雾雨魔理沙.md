@@ -6,11 +6,13 @@
 
 本页是关于东方Project  
  **相关实体周边 (未找到链接)** 的词条
+
 ## 模型信息
 
 <table><tbody><tr><th colspan="2">基本信息</th></tr><tr><td class="label">名称</td><td> 雾雨魔理沙 </td></tr><tr><td class="label">类别</td><td>PVCFigure</td></tr><tr><td class="label">系列</td><td>绿丝带ver</td></tr><tr><td class="label">角色</td><td><a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a></td></tr><tr><td class="label">原型师</td><td><a href="/index.php?title=YOSHI&amp;action=edit&amp;redlink=1" class="new" title="YOSHI（页面不存在）">YOSHI</a></td></tr><tr><td class="label">比例</td><td>1/7</td></tr><tr><td class="label">尺寸</td><td>250mm</td></tr><tr><td class="label">状态</td><td>已发售</td></tr><tr><td class="label">展会限定</td><td>Wonder Festival-2013夏</td></tr><tr><td class="label">售价</td><td>7619日元</td></tr><tr><td class="label">首发日期</td><td>2013-07-28</td></tr><tr><td class="label">发售方</td><td><a href="/index.php?title=%E6%8A%A4%E5%9B%BD%E6%AE%BF&amp;action=edit&amp;redlink=1" class="new" title="护国殿（页面不存在）">护国殿</a><br><a href="/index.php?title=Algernon_Product&amp;action=edit&amp;redlink=1" class="new" title="Algernon Product（页面不存在）">Algernon Product</a></td></tr><tr><td class="label">官网页面</td><td><a rel="nofollow" class="external free" href="http://www.algernonproduct.co.jp/index.htm">http://www.algernonproduct.co.jp/index.htm</a></td></tr><tr><td class="label">备注</td><td>数量限定300个</td></tr></tbody></table>
 
 护国殿/绿丝带ver/雾雨魔理沙（周边，护国殿，Algernon Product） - 雾雨魔理沙PVCFigure手办模型
+
 ## 参考图片
 
 

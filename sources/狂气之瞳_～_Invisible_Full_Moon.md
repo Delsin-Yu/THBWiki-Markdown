@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -45,11 +46,13 @@
 
 
 
+
 ## 基本信息
 
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">狂気の瞳　～ Invisible Full Moon</td></tr><tr><td><b>译名</b></td><td>狂气之瞳 ～ Invisible Full Moon</td></tr><tr><td><b>英文译名</b></td><td>Lunatic Eyes ~ Invisible Full Moon</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 狂气之瞳 ～ Invisible Full Moon（曲目） - 由 ZUN 创作的官方曲目，原名 狂気の瞳　～ Invisible Full Moon
+
 ## 出现作品
 
 <table>
@@ -58,13 +61,16 @@
 <tr><td>2008年5月25日（第五回 博丽神社例大祭）</td><td><b><a href="./东方绯想天.md" title="东方绯想天">东方绯想天</a>正式版</b></td><td><a href="./迷途竹林.md" title="迷途竹林">迷途竹林</a>场景音乐</td><td style="padding-left:5px;">狂気の瞳　～ Invisible Full Moon（狂气之瞳 ～ Invisible Full Moon）</td><td style="padding-left:10px;">编曲：あきやまうに</td></tr>
 <tr><td>2008年8月16日（Comic Market 74）</td><td><b><a href="./全人类的天乐录.md" title="全人类的天乐录">全人类的天乐录</a></b></td><td>Arrange Disc 第12轨</td><td style="padding-left:5px;">狂気の瞳　～ Invisible Full Moon（狂气之瞳 ～ Invisible Full Moon）</td><td style="padding-left:10px;">编曲：あきやまうに</td></tr>
 <tr><td>2016年12月8日（非展会）</td><td><b><a href="./东方深秘录.md" title="东方深秘录">东方深秘录</a>PS4版</b></td><td><a href="./永远亭.md" title="永远亭">永远亭</a>场景音乐</td><td style="padding-left:5px;">狂気の瞳　～ Invisible Full Moon（狂气之瞳 ～ Invisible Full Moon）</td><td style="padding-left:10px;">编曲：ビートまりお</td></tr>
-<tr><td>2016年12月8日（非展会）</td><td><b><a href="/%E6%B7%B1%E7%A7%98%E4%B9%90%E6%9B%B2%E9%9B%86%C2%B7%E8%A1%A5" class="mw-redirect" title="深秘乐曲集·补">深秘乐曲集·补</a></b></td><td>EXTRA DISC 第1轨</td><td style="padding-left:5px;">狂気の瞳　～ Invisible Full Moon（狂气之瞳　～ Invisible Full Moon）</td><td style="padding-left:10px;">编曲：ビートまりお</td></tr>
+<tr><td>2016年12月8日（非展会）</td><td><b><a href="./深秘乐曲集·补.md" class="mw-redirect" title="深秘乐曲集·补">深秘乐曲集·补</a></b></td><td>EXTRA DISC 第1轨</td><td style="padding-left:5px;">狂気の瞳　～ Invisible Full Moon（狂气之瞳　～ Invisible Full Moon）</td><td style="padding-left:10px;">编曲：ビートまりお</td></tr>
 <tr><td>2017年12月29日（Comic Market 93）</td><td><b><a href="./东方凭依华.md" title="东方凭依华">东方凭依华</a>正式版</b></td><td><a href="./铃仙·优昙华院·因幡.md" title="铃仙·优昙华院·因幡">铃仙·优昙华院·因幡</a>的主题曲、<a href="./永远亭.md" title="永远亭">永远亭</a>场景音乐</td><td style="padding-left:5px;">狂気の瞳　～ Invisible Full Moon（狂气之瞳 ～ Invisible Full Moon）</td><td style="padding-left:10px;">编曲：ビートまりお</td></tr>
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 东方永夜抄
+
 #### WAV
   
 WAV版是游戏的原声带。
@@ -79,6 +85,7 @@ WAV版是游戏的原声带。
 </td></tr></tbody></table>
 
 
+
 #### MIDI
   
 MIDI版由Roland Sound Canvas 88Pro实机录音得到。
@@ -86,6 +93,7 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
 
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td><a href="./文件-th08_12.mid.md" title="文件:th08 12.mid">th08_12.mid</a></td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th08_12_SC88Pro.mp3.md" title="文件:th08 12 SC88Pro.mp3">th08_12_SC88Pro.mp3</a><br><audio src="https://upload.thwiki.cc/b/b3/th08_12_SC88Pro.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>th08_12.mid</td></tr><tr><td><b>音轨时长</b></td><td>1:58</td></tr></tbody></table>
+
 
 
 ### 东方花映塚
@@ -98,9 +106,11 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
 </td></tr></tbody></table>
 
 
+
 ### 全人类的天乐录
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-TFM-003A_12.mp3.md" title="文件:TFM-003A 12.mp3">TFM-003A_12.mp3</a><br><audio src="https://upload.thwiki.cc/5/5a/TFM-003A_12.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track12.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>3:06</td></tr></tbody></table>
+
 
 
 ### 深秘乐曲集·补
@@ -108,7 +118,9 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-TFM-008_01.mp3.md" title="文件:TFM-008 01.mp3">TFM-008_01.mp3</a><br><audio src="https://upload.thwiki.cc/5/5b/TFM-008_01.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track01.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>4:30</td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 东方永夜抄
 - Music Room (未找到链接)
 
@@ -124,6 +136,7 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
 　　看不见的满月。  
 　　在月球上住的家伙都发狂了，那是因为波长不一样的缘故。只是在常人看来，  
 　　会觉得很奇怪。比红色更红的，那是红外线。人类是看不见的。
+
 ### 东方花映塚
 - Music Room (未找到链接)
 
@@ -134,8 +147,11 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
 　说起来永夜抄的曲子，整体性的有点过于激烈了呢。  
 　因为以夜和时间为主题，反倒是也能理解。  
 　因为这次是以花和笨蛋为主题呐（才怪）。
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
   
  **狂気の瞳　～ Invisible Full Moon**  狂气之瞳　～ Invisible Full Moon
@@ -157,6 +173,7 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
   - 满月。
     - 永琳将真实的满月隐藏并用虚假之月替换。
     - 辉夜？
+
 
 
 

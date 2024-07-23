@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-东方博丽莊_~_The_bizarre_apartment_~封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/9/97/%E4%B8%9C%E6%96%B9%E5%8D%9A%E4%B8%BD%E8%8E%8A_~_The_bizarre_apartment_~%E5%B0%81%E9%9D%A2.jpg/141px-%E4%B8%9C%E6%96%B9%E5%8D%9A%E4%B8%BD%E8%8E%8A_~_The_bizarre_apartment_~%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="141" height="196" srcset="https://upload.thwiki.cc/thumb/9/97/%E4%B8%9C%E6%96%B9%E5%8D%9A%E4%B8%BD%E8%8E%8A_~_The_bizarre_apartment_~%E5%B0%81%E9%9D%A2.jpg/211px-%E4%B8%9C%E6%96%B9%E5%8D%9A%E4%B8%BD%E8%8E%8A_~_The_bizarre_apartment_~%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/9/97/%E4%B8%9C%E6%96%B9%E5%8D%9A%E4%B8%BD%E8%8E%8A_~_The_bizarre_apartment_~%E5%B0%81%E9%9D%A2.jpg/282px-%E4%B8%9C%E6%96%B9%E5%8D%9A%E4%B8%BD%E8%8E%8A_~_The_bizarre_apartment_~%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="2480" data-file-height="3449"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a></div></td>
@@ -16,6 +17,7 @@
 东方博丽莊 ~ The bizarre apartment ~（同人志，弐維鏡像，2014） - 2014年6月1日 由 弐維鏡像 于 COMICUP14 发布的漫画同人志，B5尺寸一共148页，分级为 一般向
 
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external free" href="https://item.taobao.com/item.htm?spm=a1z10.5-c-s.w4002-17780475621.75.52e52e7cJshUyF&amp;id=563970690140">https://item.taobao.com/item.htm?spm=a1z10.5-c-s.w4002-17780475621.75.52e52e7cJshUyF&amp;id=563970690140</a></td></tr></tbody></table>
+
 
 
 ## Staff
@@ -35,6 +37,7 @@ guest
 : 兔子  
 布莱特  
 Aria
+
 
 ## 评论
 

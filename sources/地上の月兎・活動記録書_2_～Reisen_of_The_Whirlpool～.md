@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-地上の月兎・活動記録書_2_～Reisen_of_The_Whirlpool～封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/7/7c/%E5%9C%B0%E4%B8%8A%E3%81%AE%E6%9C%88%E5%85%8E%E3%83%BB%E6%B4%BB%E5%8B%95%E8%A8%98%E9%8C%B2%E6%9B%B8_2_%EF%BD%9EReisen_of_The_Whirlpool%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg/158px-%E5%9C%B0%E4%B8%8A%E3%81%AE%E6%9C%88%E5%85%8E%E3%83%BB%E6%B4%BB%E5%8B%95%E8%A8%98%E9%8C%B2%E6%9B%B8_2_%EF%BD%9EReisen_of_The_Whirlpool%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="158" height="224" srcset="https://upload.thwiki.cc/thumb/7/7c/%E5%9C%B0%E4%B8%8A%E3%81%AE%E6%9C%88%E5%85%8E%E3%83%BB%E6%B4%BB%E5%8B%95%E8%A8%98%E9%8C%B2%E6%9B%B8_2_%EF%BD%9EReisen_of_The_Whirlpool%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg/237px-%E5%9C%B0%E4%B8%8A%E3%81%AE%E6%9C%88%E5%85%8E%E3%83%BB%E6%B4%BB%E5%8B%95%E8%A8%98%E9%8C%B2%E6%9B%B8_2_%EF%BD%9EReisen_of_The_Whirlpool%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/7/7c/%E5%9C%B0%E4%B8%8A%E3%81%AE%E6%9C%88%E5%85%8E%E3%83%BB%E6%B4%BB%E5%8B%95%E8%A8%98%E9%8C%B2%E6%9B%B8_2_%EF%BD%9EReisen_of_The_Whirlpool%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg/316px-%E5%9C%B0%E4%B8%8A%E3%81%AE%E6%9C%88%E5%85%8E%E3%83%BB%E6%B4%BB%E5%8B%95%E8%A8%98%E9%8C%B2%E6%9B%B8_2_%EF%BD%9EReisen_of_The_Whirlpool%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="722" data-file-height="1024"></a><div class="cover-char">角色：<a href="./铃仙·优昙华院·因幡.md" title="铃仙·优昙华院·因幡">铃仙·优昙华院·因幡</a>，<a href="./露娜切露德.md" title="露娜切露德">露娜切露德</a>，<a href="./铃瑚.md" title="铃瑚">铃瑚</a></div></td>
@@ -18,8 +19,10 @@
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://booth.pm/ja/items/1365981">Booth</a></td></tr></tbody></table>
 
 
+
 ## Staff
 : カルオス (未找到链接)
+
 
 ## 评论
 

@@ -4,7 +4,8 @@
 
 Bar カルテット ，于 2013 年成立，主要制作 同人志 的日本同人社团，主催是 工ド，当前状态为 活动
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -20,15 +21,19 @@ Bar カルテット ，于 2013 年成立，主要制作 同人志 的日本同�
 
 
 
+
 ## 社团信息
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Bar カルテット </td></tr><tr><td><b>主要作品类型</b></td><td>同人志</td></tr><tr><td><b>成立时间</b></td><td>2013-10-24</td></tr><tr><td><b>当前状态</b></td><td>活动</td></tr><tr><td><b>主催</b></td><td> <a href="/index.php?title=%E5%B7%A5%E3%83%89&amp;action=edit&amp;redlink=1" class="new" title="工ド（页面不存在）">工ド</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://kudokemisati.dou-jin.com/">http://kudokemisati.dou-jin.com/</a> </td></tr></tbody></table>
 
 Bar カルテット（同人社团，同人志社团） - Bar カルテット ，于 2013 年成立，主要制作 同人志 的日本同人社团，主催是 工ド，当前状态为 活动
+
 ## 成员名单
 - 工ド (未找到链接)
 
+
 ## 作品列表
+
 ### 同人志
 Aqua Vitae ～Vol.1 紅魔郷イメージカクテル～ 封面图片 (未找到链接)Aqua Vitae ～Vol.1 紅魔郷イメージカクテル～ (未找到链接)首发日期：未知 - Aqua Vitae ～Vol.2 妖々夢イメージカクテル～ 封面图片 (未找到链接)Aqua Vitae ～Vol.2 妖々夢イメージカクテル～ (未找到链接)首发日期：未知 - Aqua Vitae ～Vol.3 永夜抄イメージカクテル～ 封面图片 (未找到链接)Aqua Vitae ～Vol.3 永夜抄イメージカクテル～ (未找到链接)首发日期：未知 - Aqua Vitae ～Vol.4 風神録イメージカクテル～ 封面图片 (未找到链接)Aqua Vitae ～Vol.4 風神録イメージカクテル～ (未找到链接)首发日期：未知 - Aqua Vitae ～Vol.4.5 東方キャラクターイメージカクテル～ 封面图片 (未找到链接)Aqua Vitae ～Vol.4.5 東方キャラクターイメージカクテル～ (未找到链接)首发日期：未知 - Aqua Vitae ～Vol.5 地霊殿イメージカクテル～ 封面图片 (未找到链接)Aqua Vitae ～Vol.5 地霊殿イメージカクテル～ (未找到链接)首发日期：未知 - Aqua Vitae ～Vol.6 星蓮船イメージカクテル～ 封面图片 (未找到链接)Aqua Vitae ～Vol.6 星蓮船イメージカクテル～ (未找到链接)首发日期：未知 - [](./Aqua_Vitae_～Vol.7_神霊廟イメージカクテル～.md)[Aqua Vitae ～Vol.7 神霊廟イメージカクテル～](./Aqua_Vitae_～Vol.7_神霊廟イメージカクテル～.md)首发日期：2018-10-21 （東方紅楼夢14 (未找到链接)）摄影集 （一般向）A5&#160;尺寸 28&#160;页
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -40,6 +45,7 @@ Aqua Vitae ～Vol.1 紅魔郷イメージカクテル～ 封面图片 (未找到
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 参展信息

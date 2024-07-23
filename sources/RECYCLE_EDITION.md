@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-RECYCLE_EDITION封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/1/1d/RECYCLE_EDITION%E5%B0%81%E9%9D%A2.jpg/160px-RECYCLE_EDITION%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="160" height="224" srcset="https://upload.thwiki.cc/thumb/1/1d/RECYCLE_EDITION%E5%B0%81%E9%9D%A2.jpg/240px-RECYCLE_EDITION%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/1/1d/RECYCLE_EDITION%E5%B0%81%E9%9D%A2.jpg/320px-RECYCLE_EDITION%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="850" data-file-height="1191"></a><div class="cover-char">角色：<a href="./鬼人正邪.md" title="鬼人正邪">鬼人正邪</a>，<a href="./少名针妙丸.md" title="少名针妙丸">少名针妙丸</a></div></td>
@@ -14,8 +15,10 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/73518063">https://www.pixiv.net/artworks/73518063</a></td></tr></tbody></table>
 
 RECYCLE EDITION（同人志，ネジロメイション!，2019） - 2019年3月17日 由 ネジロメイション! 于 东方名华祭13 发布的漫画同人志，A5尺寸一共24页，登场人物有 姬海棠果、今泉影狼、八意永琳、多多良小伞、玛艾露贝莉·赫恩、赤蛮奇、芙兰朵露·斯卡蕾特、犬走椛、火焰猫燐、帕秋莉·诺蕾姬、无名的读书妖怪、秋穰子、若鹭姬、键山雏、茨木华扇、博丽灵梦、小野塚小町、风见幽香、藤原妹红、琪露诺、鬼人正邪、物部布都，分级为 一般向
+
 ## Staff
 : ネジロメ (未找到链接)
+
 
 ## 评论
 

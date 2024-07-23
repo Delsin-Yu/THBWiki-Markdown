@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=%E3%82%A4%E3%83%BC%E3%82%B8%E3%83%BC%E3%83%BB%E3%83%AA%E3%82%B9%E3%83%8B%E3%83%B3%E3%82%B0%E7%B4%85%E9%AD%94%E9%A4%A8_Vol.2%E5%B0%81%E9%9D%A2.jpg" class="new" title="文件:イージー・リスニング紅魔館 Vol.2封面.jpg">封面图片</a><div class="cover-char">角色：<a href="./帕秋莉·诺蕾姬.md" title="帕秋莉·诺蕾姬">帕秋莉·诺蕾姬</a></div></td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/nenobeam3/status/596938451234066432">https://twitter.com/nenobeam3/status/596938451234066432</a></td></tr></tbody></table>
 
 イージー・リスニング紅魔館 Vol.2（同人专辑，ねの屋，2015） - 2015年5月10日 由 ねの屋 于 博丽神社例大祭12 发布的单曲同人专辑，分级为 一般向
+
 ## Staff
   
  **Arrangement**   
@@ -25,6 +27,7 @@ Design
 : 设计师 （[网址 社团]）
 Illustration
 : 画师 （[网址 社团]）
+
 
 ## 试听
 
@@ -49,10 +52,12 @@ Illustration
 </td></tr></tbody></table>
 
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="青空大図書館" colspan="2" class="title">青空大図書館<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=ねのーん&amp;ogmusic=ヴワル魔法図書館&amp;fromwiki=イージー・リスニング紅魔館_Vol.2"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E3%81%AD%E3%81%AE%E3%83%BC%E3%82%93&amp;action=edit&amp;redlink=1" class="new" title="ねのーん（页面不存在）">ねのーん</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，ねのーん&amp;fromwiki=イージー・リスニング紅魔館_Vol.2"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=ヴワル魔法図書館&amp;fromwiki=イージー・リスニング紅魔館_Vol.2"><span></span></a></span><div class="ogmusic"><a href="/%E3%83%B4%E3%83%AF%E3%83%AB%E9%AD%94%E6%B3%95%E5%9B%B3%E6%9B%B8%E9%A4%A8" class="mw-redirect" title="ヴワル魔法図書館">ヴワル魔法図書館</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E7%BA%A2%E9%AD%94%E4%B9%A1_%EF%BD%9E_the_Embodiment_of_Scarlet_Devil." class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr>
-<tr><td id="2" class="infoYD"><b>02</b></td><td id="動かない魔女の休日" colspan="2" class="title">動かない魔女の休日<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=ねのーん&amp;ogmusic=ラクトガール　～ 少女密室&amp;fromwiki=イージー・リスニング紅魔館_Vol.2"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E3%81%AD%E3%81%AE%E3%83%BC%E3%82%93&amp;action=edit&amp;redlink=1" class="new" title="ねのーん（页面不存在）">ねのーん</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，ねのーん&amp;fromwiki=イージー・リスニング紅魔館_Vol.2"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=ラクトガール　～ 少女密室&amp;fromwiki=イージー・リスニング紅魔館_Vol.2"><span></span></a></span><div class="ogmusic"><a href="/%E3%83%A9%E3%82%AF%E3%83%88%E3%82%AC%E3%83%BC%E3%83%AB_%EF%BD%9E_%E5%B0%91%E5%A5%B3%E5%AF%86%E5%AE%A4" class="mw-redirect" title="ラクトガール ～ 少女密室">ラクトガール　～ 少女密室</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E7%BA%A2%E9%AD%94%E4%B9%A1_%EF%BD%9E_the_Embodiment_of_Scarlet_Devil." class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="青空大図書館" colspan="2" class="title">青空大図書館<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=ねのーん&amp;ogmusic=ヴワル魔法図書館&amp;fromwiki=イージー・リスニング紅魔館_Vol.2"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E3%81%AD%E3%81%AE%E3%83%BC%E3%82%93&amp;action=edit&amp;redlink=1" class="new" title="ねのーん（页面不存在）">ねのーん</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，ねのーん&amp;fromwiki=イージー・リスニング紅魔館_Vol.2"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=ヴワル魔法図書館&amp;fromwiki=イージー・リスニング紅魔館_Vol.2"><span></span></a></span><div class="ogmusic"><a href="./ヴワル魔法図書館.md" class="mw-redirect" title="ヴワル魔法図書館">ヴワル魔法図書館</a></div><div class="source"><a href="./东方红魔乡_～_the_Embodiment_of_Scarlet_Devil..md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr>
+<tr><td id="2" class="infoYD"><b>02</b></td><td id="動かない魔女の休日" colspan="2" class="title">動かない魔女の休日<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=ねのーん&amp;ogmusic=ラクトガール　～ 少女密室&amp;fromwiki=イージー・リスニング紅魔館_Vol.2"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=%E3%81%AD%E3%81%AE%E3%83%BC%E3%82%93&amp;action=edit&amp;redlink=1" class="new" title="ねのーん（页面不存在）">ねのーん</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，ねのーん&amp;fromwiki=イージー・リスニング紅魔館_Vol.2"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=ラクトガール　～ 少女密室&amp;fromwiki=イージー・リスニング紅魔館_Vol.2"><span></span></a></span><div class="ogmusic"><a href="./ラクトガール_～_少女密室.md" class="mw-redirect" title="ラクトガール ～ 少女密室">ラクトガール　～ 少女密室</a></div><div class="source"><a href="./东方红魔乡_～_the_Embodiment_of_Scarlet_Devil..md" class="mw-redirect" title="东方红魔乡 ～ the Embodiment of Scarlet Devil.">东方红魔乡　～ the Embodiment of Scarlet Devil.</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

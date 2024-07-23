@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-HELLO注意報_2封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/c/c4/HELLO%E6%B3%A8%E6%84%8F%E5%A0%B1_2%E5%B0%81%E9%9D%A2.jpg/139px-HELLO%E6%B3%A8%E6%84%8F%E5%A0%B1_2%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="139" height="196" srcset="https://upload.thwiki.cc/thumb/c/c4/HELLO%E6%B3%A8%E6%84%8F%E5%A0%B1_2%E5%B0%81%E9%9D%A2.jpg/208px-HELLO%E6%B3%A8%E6%84%8F%E5%A0%B1_2%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/c/c4/HELLO%E6%B3%A8%E6%84%8F%E5%A0%B1_2%E5%B0%81%E9%9D%A2.jpg/278px-HELLO%E6%B3%A8%E6%84%8F%E5%A0%B1_2%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="516" data-file-height="728"></a><div class="cover-char">角色：<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a></div></td>
@@ -14,9 +15,11 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="http://morinohon.blog66.fc2.com/blog-entry-119.html">http://morinohon.blog66.fc2.com/blog-entry-119.html</a></td></tr></tbody></table>
 
 HELLO注意報 2（同人志，森の蟲，2011） - 2011年5月29日 由 森の蟲 于 东方四国祭3 发布的漫画同人志，一共52页，登场人物有 原创角色、雾雨魔理沙、博丽灵梦、伊吹萃香、比那名居天子、永江衣玖、琪斯美、黑谷山女、水桥帕露西、星熊勇仪、古明地觉、古明地恋、火焰猫燐、灵乌路空、多多良小伞、东风谷早苗、云山、云居一轮、娜兹玲、寅丸星、村纱水蜜、封兽鵺、圣白莲、射命丸文、姬海棠果、犬走椛、琪露诺、桑尼米尔克、露娜切露德、斯塔萨菲雅，分级为 一般向
+
 ## Staff
 - [もりのほん](./もりのほん.md)
 - N2FC (未找到链接)
+
 
 ## 评论
 

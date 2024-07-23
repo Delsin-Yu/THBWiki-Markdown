@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -37,11 +38,13 @@
 
 
 
+
 ## 基本信息
 
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">A Sacred Lot</td></tr><tr><td><b>译名</b></td><td>A Sacred Lot</td></tr><tr><td><b>其他译名</b></td><td>神圣之地<br>神圣的命运</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 A Sacred Lot（曲目） - 由 ZUN 创作的官方曲目，原名 A Sacred Lot
+
 ## 出现作品
 
 <table>
@@ -51,10 +54,13 @@ A Sacred Lot（曲目） - 由 ZUN 创作的官方曲目，原名 A Sacred Lot
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 东方灵异传
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-A_Sacret_Lot_0.mp3.md" title="文件:A Sacret Lot 0.mp3">A_Sacret_Lot_0.mp3</a><br><audio src="https://upload.thwiki.cc/0/0b/A_Sacret_Lot_0.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>REIMU.MDT</td></tr><tr><td><b>音轨时长</b></td><td>3:31</td></tr></tbody></table>
+
 
 
 ### 东方怪绮谈
@@ -74,16 +80,20 @@ YM2608(OPNA)，FM86音源版。
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th05_R_01_2.ogg.md" title="文件:th05 R 01 2.ogg">th05_R_01_2.ogg</a><br><audio src="https://upload.thwiki.cc/b/b2/th05_R_01_2.ogg" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>R_00.M2</td></tr><tr><td><b>音轨时长</b></td><td>1:29.964</td></tr></tbody></table>
 
 
+
 ### 幺乐团的历史 vol.5
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-ha05_01.mp3.md" title="文件:ha05 01.mp3">ha05_01.mp3</a><br><audio src="https://upload.thwiki.cc/3/32/ha05_01.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track01.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>3:20</td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 东方灵异传
 - Music Test (未找到链接)
 
 　A Sacred Lot     　　　　　　　　　　　　　                Composer  ZUN
+
 ### 东方怪绮谈
 - Music Room (未找到链接)
 
@@ -95,10 +105,13 @@ YM2608(OPNA)，FM86音源版。
 ＺＵＮ（太田）  
 灵异传曲目。  
 特别Arrange版
+
 ## 其他资料
+
 ### 乐理资讯
 - BPM
   - 152.03
+
 
 
 ### 分析考据
@@ -118,6 +131,7 @@ YM2608(OPNA)，FM86音源版。
 - lot：有特殊用途的土地；被确定的命运；宿命。
 - sacred lot：①圣域？②祭献给神的命运？
   - ①关卡后期发生在魔界和地狱。②巫女侍奉神灵。
+
 
 
 ### 二次同人数据

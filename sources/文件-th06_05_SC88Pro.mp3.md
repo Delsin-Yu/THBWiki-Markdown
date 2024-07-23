@@ -4,6 +4,7 @@
 
 东方红魔乡 | 活泼的纯情小姑娘
 
+
 ## 文件说明
   
 おてんば恋娘 东方红魔乡2面Bossチルノ的主题曲MIDI版。由Roland Sound Canvas 88Pro实机录制；MP3采样率44.1KHz，码率192Kbps。  

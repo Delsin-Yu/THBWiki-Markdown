@@ -4,7 +4,8 @@
 
 MATILDA ，于 2008 年成立，主要制作 同人志 的日本同人社团，主催是 matilda，当前状态为 转入非东方
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -20,16 +21,20 @@ MATILDA ，于 2008 年成立，主要制作 同人志 的日本同人社团，�
 
 
 
+
 ## 社团信息
 [](./文件-MATILDAbanner.gif.md)  [](./文件-MATILDAbanner.gif.md)banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> MATILDA </td></tr><tr><td><b>主要作品类型</b></td><td>同人志</td></tr><tr><td><b>成立时间</b></td><td>2008</td></tr><tr><td><b>当前状态</b></td><td>转入非东方</td></tr><tr><td><b>主催</b></td><td> <a href="./MATILDA.md" title="MATILDA" unred="">matilda</a> </td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://matilda666.blog.shinobi.jp/">http://matilda666.blog.shinobi.jp/</a> <br><a rel="nofollow" class="external free" href="https://www.pixiv.net/member.php?id=20644">https://www.pixiv.net/member.php?id=20644</a><br><a rel="nofollow" class="external free" href="https://twitter.com/matildax">https://twitter.com/matildax</a></td></tr></tbody></table>
 
 MATILDA（同人社团，同人志社团） - MATILDA ，于 2008 年成立，主要制作 同人志 的日本同人社团，主催是 matilda，当前状态为 转入非东方
+
 ## 成员名单
 - [matilda](./MATILDA.md)
 
+
 ## 作品列表
+
 ### 同人志
 [](./スケルトンライアー.md)[スケルトンライアー](./スケルトンライアー.md)首发日期：2008-06-15 （SunshineCreation40 (未找到链接)）漫画 （一般向）B5&#160;尺寸 36&#160;页[](./おいでませ幻想郷(表)湯けむり酩酊ミラクルフルーツアー.md)[おいでませ幻想郷(表)湯けむり酩酊ミラクルフルーツアー](./おいでませ幻想郷(表)湯けむり酩酊ミラクルフルーツアー.md)首发日期：2008-10-05 （SunshineCreation41 (未找到链接)）漫画 （一般向）B5&#160;尺寸 30&#160;页[](./寂しがりやの言葉たち.md)[寂しがりやの言葉たち](./寂しがりやの言葉たち.md)首发日期：2008-11-02 （東方紅楼夢4 (未找到链接)）漫画 （一般向）B5&#160;尺寸 32&#160;页[](./貴女と私にできること.md)[貴女と私にできること](./貴女と私にできること.md)首发日期：2008-12-29 （Comic Market 75 (未找到链接)）漫画 （一般向）B5&#160;尺寸 28&#160;页[](./SKELETON_IN_THE_CLOSET_part1.md)[SKELETON IN THE CLOSET part1](./SKELETON_IN_THE_CLOSET_part1.md)首发日期：2009-03-08 （第六回 博麗神社例大祭 (未找到链接)）漫画 （一般向）B5&#160;尺寸 40&#160;页[](./A_Lollypop_And_A_Bullet.md)[A Lollypop And A Bullet](./A_Lollypop_And_A_Bullet.md)首发日期：2009-05-06 （紅月ノ宴参 (未找到链接)）漫画 （一般向）B5&#160;尺寸 36&#160;页[](./Preserved_flower（同人志）.md)[Preserved flower](./Preserved_flower（同人志）.md)首发日期：2009-08-15 （Comic Market 76 (未找到链接)）漫画 （一般向）B5&#160;尺寸 36&#160;页[](./ふたりぼっち時間.md)[ふたりぼっち時間](./ふたりぼっち時間.md)首发日期：2009-10-11 （東方紅楼夢5 (未找到链接)）漫画 （一般向）B5&#160;尺寸 36&#160;页ヲチビサン。～幼々夢編～ 封面图片 (未找到链接)ヲチビサン。～幼々夢編～ (未找到链接)首发日期：未知 - ユメ一夜 封面图片 (未找到链接)ユメ一夜 (未找到链接)首发日期：未知 - [ユメ二夜 上](./ユメ二夜_上.md)首发日期：2011-05-08 （第八回 博麗神社例大祭 (未找到链接)）漫画 （一般向） 36&#160;页[](./JKマリサと十六夜会長.md)[JKマリサと十六夜会長](./JKマリサと十六夜会長.md)首发日期：2013-05-26 （第十回 博麗神社例大祭 (未找到链接)）漫画 （一般向） 28&#160;页
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -62,6 +67,7 @@ MATILDA（同人社团，同人志社团） - MATILDA ，于 2008 年成立，�
 
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 参展信息

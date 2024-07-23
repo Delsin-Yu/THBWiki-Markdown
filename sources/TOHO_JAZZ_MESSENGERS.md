@@ -4,7 +4,8 @@
 
 TOHO JAZZ MESSENGERS ，于 2010 年成立，主要制作 同人音乐 的日本同人社团，当前状态为 休止
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -17,25 +18,29 @@ TOHO JAZZ MESSENGERS ，于 2010 年成立，主要制作 同人音乐 的日本
 
 
 
+
 ## 社团信息
 [](./文件-TOHO_JAZZ_MESSENGERS_banner.jpg.md)  [](./文件-TOHO_JAZZ_MESSENGERS_banner.jpg.md)Banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> TOHO JAZZ MESSENGERS </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐</td></tr><tr><td><b>成立时间</b></td><td>2010</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>地区</b></td><td>日本</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://tjm.go-th.net/">http://tjm.go-th.net/</a> </td></tr></tbody></table>
 
 TOHO JAZZ MESSENGERS（同人社团，同人音乐社团） - TOHO JAZZ MESSENGERS ，于 2010 年成立，主要制作 同人音乐 的日本同人社团，当前状态为 休止
+
 ## 社团简介
   
 由多个东方同人社团组成的爵士社团。社团名neta爵士鼓手[Art Blakey](https://en.wikipedia.org/wiki/Art_Blakey)的组合[The Jazz Messengers](https://en.wikipedia.org/wiki/The_Jazz_Messengers)。
   
+
 
 ## 成员名单
 - [TLi-synth](./TLi-synth.md)
 - [flap+frog](./flap+frog.md)
 - [OrangeCoffee](./OrangeCoffee.md)
 - [トマト組](./トマト組.md)
-- シュールレアチーズ (未找到链接)
+- [シュールレアチーズ](./シュールレアチーズ.md)
 - [minimum electric design](./minimum_electric_design.md)
 - [Driving Kitchen](./Driving_Kitchen.md)
+
 
 ## 作品列表
 [](./girls_apartment.md)[girls apartment](./girls_apartment.md)首发日期：2010-08-14 （Comic Market 78 (未找到链接)）THJM-0010合作 （一般向）[](./girls_apartment_2.md)[girls apartment 2](./girls_apartment_2.md)首发日期：2011-08-13 （Comic Market 80 (未找到链接)）THJM-0020合作 （一般向）
@@ -45,7 +50,9 @@ TOHO JAZZ MESSENGERS（同人社团，同人音乐社团） - TOHO JAZZ MESSENGE
 </table>
 
 
+
 ## 参展信息
+
 ## 其他信息
 
 

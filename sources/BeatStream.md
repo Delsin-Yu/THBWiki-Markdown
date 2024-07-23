@@ -20,12 +20,14 @@ KONAMI | 东方相关商业游戏
 
   
 
+
 ## 目录
 
 - [1 介绍](#介绍)
 - [2 与东方Project的关联](#与东方Project的关联)
 - [3 游戏内收录的东方同人曲目](#游戏内收录的东方同人曲目)
 - [4 参考资料](#参考资料)
+
 
 
 
@@ -45,10 +47,12 @@ KONAMI | 东方相关商业游戏
 
   
 
+
 ## 与东方Project的关联
   
 待补
   
+
 
 ## 游戏内收录的东方同人曲目
 
@@ -104,6 +108,7 @@ KONAMI | 东方相关商业游戏
 <tr><th colspan="2"></th></tr><tr><td colspan="2" style="padding-left: 1em;"><div class="floatright"><a href="./文件-廃弾奏結界_鬼譚奏鳴曲_Demon_tale_sonata封面.jpg.md" class="image" title="廃弾奏結界 鬼譚奏鳴曲 Demon tale sonata"><img alt="廃弾奏結界 鬼譚奏鳴曲 Demon tale sonata" src="https://upload.thwiki.cc/thumb/5/59/%E5%BB%83%E5%BC%BE%E5%A5%8F%E7%B5%90%E7%95%8C_%E9%AC%BC%E8%AD%9A%E5%A5%8F%E9%B3%B4%E6%9B%B2_Demon_tale_sonata%E5%B0%81%E9%9D%A2.jpg/100px-%E5%BB%83%E5%BC%BE%E5%A5%8F%E7%B5%90%E7%95%8C_%E9%AC%BC%E8%AD%9A%E5%A5%8F%E9%B3%B4%E6%9B%B2_Demon_tale_sonata%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="100" height="100" srcset="https://upload.thwiki.cc/thumb/5/59/%E5%BB%83%E5%BC%BE%E5%A5%8F%E7%B5%90%E7%95%8C_%E9%AC%BC%E8%AD%9A%E5%A5%8F%E9%B3%B4%E6%9B%B2_Demon_tale_sonata%E5%B0%81%E9%9D%A2.jpg/150px-%E5%BB%83%E5%BC%BE%E5%A5%8F%E7%B5%90%E7%95%8C_%E9%AC%BC%E8%AD%9A%E5%A5%8F%E9%B3%B4%E6%9B%B2_Demon_tale_sonata%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/5/59/%E5%BB%83%E5%BC%BE%E5%A5%8F%E7%B5%90%E7%95%8C_%E9%AC%BC%E8%AD%9A%E5%A5%8F%E9%B3%B4%E6%9B%B2_Demon_tale_sonata%E5%B0%81%E9%9D%A2.jpg/200px-%E5%BB%83%E5%BC%BE%E5%A5%8F%E7%B5%90%E7%95%8C_%E9%AC%BC%E8%AD%9A%E5%A5%8F%E9%B3%B4%E6%9B%B2_Demon_tale_sonata%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="600" data-file-height="600"></a></div><b><a href="/%E5%BB%83%E5%BC%BE%E5%A5%8F%E7%B5%90%E7%95%8C_%E9%AC%BC%E8%AD%9A%E5%A5%8F%E9%B3%B4%E6%9B%B2_Demon_tale_sonata#12" title="廃弾奏結界 鬼譚奏鳴曲 Demon tale sonata">忌憚騒命曲 ～ Demon tale sonata</a></b> &#91;05:03&#93;<dl><dd><a href="./廃弾奏結界_鬼譚奏鳴曲_Demon_tale_sonata.md" title="廃弾奏結界 鬼譚奏鳴曲 Demon tale sonata">廃弾奏結界　鬼譚奏鳴曲　Demon tale sonata</a> （2008-12-29）<br>社团：<a href="./dBu_music.md" title="dBu music">dBu music</a><br>编曲：<a href="./どぶウサギ.md" title="どぶウサギ">どぶウサギ</a><br>原曲：<a href="./哈德曼的妖怪少女.md" title="哈德曼的妖怪少女" unred="">ハルトマンの妖怪少女</a><br></dd></dl></td></tr>
 <tr><th colspan="2"></th></tr><tr><td colspan="2" style="padding-left: 1em;"><div class="floatright"><a href="./文件-スーパーシャッターガール封面.jpg.md" class="image" title="スーパーシャッターガール"><img alt="スーパーシャッターガール" src="https://upload.thwiki.cc/thumb/9/9e/%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%83%E3%82%BF%E3%83%BC%E3%82%AC%E3%83%BC%E3%83%AB%E5%B0%81%E9%9D%A2.jpg/100px-%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%83%E3%82%BF%E3%83%BC%E3%82%AC%E3%83%BC%E3%83%AB%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="100" height="100" srcset="https://upload.thwiki.cc/thumb/9/9e/%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%83%E3%82%BF%E3%83%BC%E3%82%AC%E3%83%BC%E3%83%AB%E5%B0%81%E9%9D%A2.jpg/150px-%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%83%E3%82%BF%E3%83%BC%E3%82%AC%E3%83%BC%E3%83%AB%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/9/9e/%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%83%E3%82%BF%E3%83%BC%E3%82%AC%E3%83%BC%E3%83%AB%E5%B0%81%E9%9D%A2.jpg/200px-%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%83%E3%82%BF%E3%83%BC%E3%82%AC%E3%83%BC%E3%83%AB%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="599" data-file-height="600"></a></div><b><a href="/%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%83%E3%82%BF%E3%83%BC%E3%82%AC%E3%83%BC%E3%83%AB#3" title="スーパーシャッターガール">人間が大好きなこわれた妖怪の唄</a></b> &#91;05:02&#93;<dl><dd><a href="./スーパーシャッターガール.md" title="スーパーシャッターガール">スーパーシャッターガール</a> （2008-05-25）<br>社团：<a href="./COOL&CREATE.md" title="COOL&amp;CREATE">COOL&amp;CREATE</a><br>编曲：<a href="./myu314.md" title="myu314">myu314</a><br>演唱：<a href="./ビートまりお.md" title="ビートまりお">ビートまりお</a><br>作词：<a href="./ビートまりお.md" title="ビートまりお">ビートまりお</a><br>原曲：<a href="./芥川龙之介的河童_～_Candid_Friend.md" title="芥川龙之介的河童 ～ Candid Friend" unred="">芥川龍之介の河童　～ Candid Friend</a><br></dd></dl></td></tr>
 <tr><th colspan="2"></th></tr><tr><td colspan="2" style="padding-left: 1em;"><div class="floatright"><a href="./文件-DREAM_TO_MUSIC_TOHO封面.jpg.md" class="image" title="DREAM TO MUSIC TOHO"><img alt="DREAM TO MUSIC TOHO" src="https://upload.thwiki.cc/thumb/d/d0/DREAM_TO_MUSIC_TOHO%E5%B0%81%E9%9D%A2.jpg/100px-DREAM_TO_MUSIC_TOHO%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="100" height="100" srcset="https://upload.thwiki.cc/thumb/d/d0/DREAM_TO_MUSIC_TOHO%E5%B0%81%E9%9D%A2.jpg/150px-DREAM_TO_MUSIC_TOHO%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/d/d0/DREAM_TO_MUSIC_TOHO%E5%B0%81%E9%9D%A2.jpg/200px-DREAM_TO_MUSIC_TOHO%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1000" data-file-height="1000"></a></div><b><a href="/DREAM_TO_MUSIC_TOHO#1" title="DREAM TO MUSIC TOHO">鈴瑚のお団子ジャングルジム</a></b> &#91;03:17&#93;<dl><dd><a href="./DREAM_TO_MUSIC_TOHO.md" title="DREAM TO MUSIC TOHO">DREAM TO MUSIC TOHO</a> （2016-03-13）<br>社团：<a href="./IOSYS.md" title="IOSYS">IOSYS</a><br>编曲：<a href="./ARM.md" title="ARM">ARM</a><br>演唱：<a href="./ななひら.md" title="ななひら">ななひら</a><br>作词：<a href="./狐夢想.md" title="狐夢想">狐夢想</a><br>原曲：<a href="./九月的南瓜.md" title="九月的南瓜" unred="">九月のパンプキン</a><br></dd></dl></td></tr></tbody></table>
+
 
 
 ## 参考资料

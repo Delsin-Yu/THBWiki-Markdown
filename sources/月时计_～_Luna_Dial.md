@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **原作音乐** 的词条
+
 ## 目录
 
 - [1 基本信息](#基本信息)
@@ -42,11 +43,13 @@
 
 
 
+
 ## 基本信息
 
 <table><tbody><tr><td style="width:120px"><b>曲名</b></td><td style="width:320px">月時計　～ ルナ・ダイアル</td></tr><tr><td><b>译名</b></td><td>月时计 ～ Luna Dial</td></tr><tr><td><b>英文译名</b></td><td>Lunar Clock ~ Luna Dial</td></tr><tr><td><b>作曲</b></td><td><a href="./ZUN.md" title="ZUN">ZUN</a></td></tr><tr><th style="text-align: left;"><b>类型</b></th><td>新曲</td></tr></tbody></table>
 
 月时计 ～ Luna Dial（曲目） - 由 ZUN 创作的官方曲目，原名 月時計　～ ルナ・ダイアル
+
 ## 出现作品
 
 <table>
@@ -56,8 +59,11 @@
 </tbody></table>
 
 
+
 ## 音乐文件
+
 ### 东方红魔乡
+
 #### WAV
   
 WAV版是游戏的原声带。
@@ -72,6 +78,7 @@ WAV版是游戏的原声带。
 </td></tr></tbody></table>
 
 
+
 #### MIDI
   
 MIDI版由Roland Sound Canvas 88Pro实机录音得到。
@@ -81,12 +88,15 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td><a href="./文件-th06_11.mid.md" title="文件:th06 11.mid">th06_11.mid</a></td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-th06_11_SC88Pro.mp3.md" title="文件:th06 11 SC88Pro.mp3">th06_11_SC88Pro.mp3</a><br><audio src="https://upload.thwiki.cc/f/fb/th06_11_SC88Pro.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>th06_11.mid</td></tr><tr><td><b>音轨时长</b></td><td>1:23</td></tr></tbody></table>
 
 
+
 ### 幻想曲拔萃
 
 <table><tbody><tr class="mw-empty-elt"></tr><tr><td width="100"><b>官方MIDI</b></td><td>无官方MIDI</td></tr><tr><td><b>MP3格式</b></td><td><a href="./文件-TFM-001b_06.mp3.md" title="文件:TFM-001b 06.mp3">TFM-001b_06.mp3</a><br><audio src="https://upload.thwiki.cc/4/40/TFM-001b_06.mp3" loop="" controls="" preload="none"></audio></td></tr><tr><td><b>源文件格式</b></td><td>track06.cda（CD）</td></tr><tr><td><b>音轨时长</b></td><td>3:01</td></tr></tbody></table>
 
 
+
 ## 说明文本
+
 ### 东方红魔乡
 - Music Room (未找到链接)
 
@@ -105,6 +115,7 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
 　　那个小说中提到的灵气琴，  
 　　我在1，2年前终于知道是怎样的乐器了(^^;  
 　　不过，即使是明治时期的上流阶级，家中会放这种东西么？灵气琴（特雷门琴）
+
 ### 东方萃梦想
 - Music Room (未找到链接)
 
@@ -112,8 +123,11 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
 比起原曲，有点去掉了边边角角的感觉，稍微有点太干净了也说不定。捏造部分又这么多。  
 这首曲子，虽然也想过努力用原声吉他弹一下，但因为发生了很多事情，最终没能实现。  
 如果有机会的话还想悄悄重新做一遍试试。
+
 ## 其他资料
+
 ### 乐理资讯
+
 ### 分析考据
   
  **月時計　～ ルナ・ダイアル**  月时计　～ Luna Dial
@@ -149,6 +163,7 @@ MIDI版由Roland Sound Canvas 88Pro实机录音得到。
 - dial
   - 刻度盘，表盘。
     - 钟表的表盘？
+
 
 
 

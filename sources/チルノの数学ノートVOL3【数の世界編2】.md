@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-チルノの数学ノートVOL3【数の世界編2】封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/f/fb/%E3%83%81%E3%83%AB%E3%83%8E%E3%81%AE%E6%95%B0%E5%AD%A6%E3%83%8E%E3%83%BC%E3%83%88VOL3%E3%80%90%E6%95%B0%E3%81%AE%E4%B8%96%E7%95%8C%E7%B7%A82%E3%80%91%E5%B0%81%E9%9D%A2.jpg/119px-%E3%83%81%E3%83%AB%E3%83%8E%E3%81%AE%E6%95%B0%E5%AD%A6%E3%83%8E%E3%83%BC%E3%83%88VOL3%E3%80%90%E6%95%B0%E3%81%AE%E4%B8%96%E7%95%8C%E7%B7%A82%E3%80%91%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="119" height="168" srcset="https://upload.thwiki.cc/thumb/f/fb/%E3%83%81%E3%83%AB%E3%83%8E%E3%81%AE%E6%95%B0%E5%AD%A6%E3%83%8E%E3%83%BC%E3%83%88VOL3%E3%80%90%E6%95%B0%E3%81%AE%E4%B8%96%E7%95%8C%E7%B7%A82%E3%80%91%E5%B0%81%E9%9D%A2.jpg/179px-%E3%83%81%E3%83%AB%E3%83%8E%E3%81%AE%E6%95%B0%E5%AD%A6%E3%83%8E%E3%83%BC%E3%83%88VOL3%E3%80%90%E6%95%B0%E3%81%AE%E4%B8%96%E7%95%8C%E7%B7%A82%E3%80%91%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/f/fb/%E3%83%81%E3%83%AB%E3%83%8E%E3%81%AE%E6%95%B0%E5%AD%A6%E3%83%8E%E3%83%BC%E3%83%88VOL3%E3%80%90%E6%95%B0%E3%81%AE%E4%B8%96%E7%95%8C%E7%B7%A82%E3%80%91%E5%B0%81%E9%9D%A2.jpg/238px-%E3%83%81%E3%83%AB%E3%83%8E%E3%81%AE%E6%95%B0%E5%AD%A6%E3%83%8E%E3%83%BC%E3%83%88VOL3%E3%80%90%E6%95%B0%E3%81%AE%E4%B8%96%E7%95%8C%E7%B7%A82%E3%80%91%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="852" data-file-height="1200"></a><div class="cover-char">角色：<a href="./琪露诺.md" title="琪露诺">琪露诺</a></div></td>
@@ -18,8 +19,10 @@
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://keyneqmath.booth.pm/items/1223128">Booth</a></td></tr></tbody></table>
 
 
+
 ## Staff
 - きいねく (未找到链接)
+
 
 ## 评论
 

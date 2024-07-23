@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-サクララインep封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/c/c7/%E3%82%B5%E3%82%AF%E3%83%A9%E3%83%A9%E3%82%A4%E3%83%B3ep%E5%B0%81%E9%9D%A2.jpg/224px-%E3%82%B5%E3%82%AF%E3%83%A9%E3%83%A9%E3%82%A4%E3%83%B3ep%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="224" srcset="https://upload.thwiki.cc/thumb/c/c7/%E3%82%B5%E3%82%AF%E3%83%A9%E3%83%A9%E3%82%A4%E3%83%B3ep%E5%B0%81%E9%9D%A2.jpg/336px-%E3%82%B5%E3%82%AF%E3%83%A9%E3%83%A9%E3%82%A4%E3%83%B3ep%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/c/c7/%E3%82%B5%E3%82%AF%E3%83%A9%E3%83%A9%E3%82%A4%E3%83%B3ep%E5%B0%81%E9%9D%A2.jpg/448px-%E3%82%B5%E3%82%AF%E3%83%A9%E3%83%A9%E3%82%A4%E3%83%B3ep%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="1200" data-file-height="1198"></a><div class="cover-char">角色：<a href="./西行寺幽幽子.md" title="西行寺幽幽子">西行寺幽幽子</a></div></td>
@@ -14,6 +15,7 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://twitter.com/telelelecastar/status/992064842654662656">https://twitter.com/telelelecastar/status/992064842654662656</a></td></tr></tbody></table>
 
 サクララインep（同人专辑，Boogie's good electric，2018） - 2018年5月6日 由 Boogie's good electric 于 博丽神社例大祭15 发布的EP同人专辑，分级为 一般向
+
 ## Staff
   
  **Vocal**   
@@ -29,6 +31,7 @@
 Design
 : romiy
 
+
 ## 试听
 
 <table>
@@ -41,10 +44,12 @@ Design
 </td></tr></tbody></table>
 
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoRD"><b>01</b></td><td id="夜桜前線" colspan="2" class="title"><span class="new" title="（歌词页面不存在）"><a href="/index.php?title=%E6%AD%8C%E8%AF%8D:%E5%A4%9C%E6%A1%9C%E5%89%8D%E7%B7%9A&amp;boilerplate=模板:页面模板/曲目歌词&amp;action=edit">夜桜前線</a></span><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=めらみぽっぷ&amp;ogmusic=死霊の夜桜&amp;fromwiki=サクララインep"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="./めらみぽっぷ.md" title="めらみぽっぷ">めらみぽっぷ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=めらみぽっぷ&amp;fromwiki=サクララインep"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演奏</td><td class="text" colspan="2">Guitar：諸々 <br>Guitar：柳生 <br>Bass：掛川</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=死霊の夜桜&amp;fromwiki=サクララインep"><span></span></a></span><div class="ogmusic"><a href="/%E6%AD%BB%E9%9C%8A%E3%81%AE%E5%A4%9C%E6%A1%9C" class="mw-redirect" title="死霊の夜桜">死霊の夜桜</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E7%A5%9E%E7%81%B5%E5%BA%99_%EF%BD%9E_Ten_Desires." class="mw-redirect" title="东方神灵庙 ～ Ten Desires.">东方神灵庙　～ Ten Desires.</a></div></td></tr>
-<tr><td id="2" class="infoRD"><b>02</b></td><td id="サクラライン" colspan="2" class="title"><span class="new" title="（歌词页面不存在）"><a href="/index.php?title=%E6%AD%8C%E8%AF%8D:%E3%82%B5%E3%82%AF%E3%83%A9%E3%83%A9%E3%82%A4%E3%83%B3&amp;boilerplate=模板:页面模板/曲目歌词&amp;action=edit">サクラライン</a></span><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=めらみぽっぷ&amp;ogmusic=桜花之恋塚　～ Japanese Flower&amp;fromwiki=サクララインep"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="./めらみぽっぷ.md" title="めらみぽっぷ">めらみぽっぷ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=めらみぽっぷ&amp;fromwiki=サクララインep"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演奏</td><td class="text" colspan="2">Guitar：諸々 <br>Guitar：柳生 <br>Bass：掛川</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=桜花之恋塚　～ Japanese Flower&amp;fromwiki=サクララインep"><span></span></a></span><div class="ogmusic"><a href="/%E6%A1%9C%E8%8A%B1%E4%B9%8B%E6%81%8B%E5%A1%9A_%EF%BD%9E_Japanese_Flower" class="mw-redirect" title="桜花之恋塚 ～ Japanese Flower">桜花之恋塚　～ Japanese Flower</a></div><div class="source"><a href="/%E8%93%AC%E8%8E%B1%E4%BA%BA%E5%BD%A2_%EF%BD%9E_Dolls_in_Pseudo_Paradise" class="mw-redirect" title="蓬莱人形 ～ Dolls in Pseudo Paradise">蓬莱人形　～ Dolls in Pseudo Paradise</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoRD"><b>01</b></td><td id="夜桜前線" colspan="2" class="title"><span class="new" title="（歌词页面不存在）"><a href="/index.php?title=%E6%AD%8C%E8%AF%8D:%E5%A4%9C%E6%A1%9C%E5%89%8D%E7%B7%9A&amp;boilerplate=模板:页面模板/曲目歌词&amp;action=edit">夜桜前線</a></span><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=めらみぽっぷ&amp;ogmusic=死霊の夜桜&amp;fromwiki=サクララインep"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="./めらみぽっぷ.md" title="めらみぽっぷ">めらみぽっぷ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=めらみぽっぷ&amp;fromwiki=サクララインep"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演奏</td><td class="text" colspan="2">Guitar：諸々 <br>Guitar：柳生 <br>Bass：掛川</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=死霊の夜桜&amp;fromwiki=サクララインep"><span></span></a></span><div class="ogmusic"><a href="./死霊の夜桜.md" class="mw-redirect" title="死霊の夜桜">死霊の夜桜</a></div><div class="source"><a href="./东方神灵庙_～_Ten_Desires..md" class="mw-redirect" title="东方神灵庙 ～ Ten Desires.">东方神灵庙　～ Ten Desires.</a></div></td></tr>
+<tr><td id="2" class="infoRD"><b>02</b></td><td id="サクラライン" colspan="2" class="title"><span class="new" title="（歌词页面不存在）"><a href="/index.php?title=%E6%AD%8C%E8%AF%8D:%E3%82%B5%E3%82%AF%E3%83%A9%E3%83%A9%E3%82%A4%E3%83%B3&amp;boilerplate=模板:页面模板/曲目歌词&amp;action=edit">サクラライン</a></span><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=めらみぽっぷ&amp;ogmusic=桜花之恋塚　～ Japanese Flower&amp;fromwiki=サクララインep"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">演唱</td><td class="text" colspan="2"><a href="./めらみぽっぷ.md" title="めらみぽっぷ">めらみぽっぷ</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?vocal=めらみぽっぷ&amp;fromwiki=サクララインep"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">演奏</td><td class="text" colspan="2">Guitar：諸々 <br>Guitar：柳生 <br>Bass：掛川</td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=桜花之恋塚　～ Japanese Flower&amp;fromwiki=サクララインep"><span></span></a></span><div class="ogmusic"><a href="./桜花之恋塚_～_Japanese_Flower.md" class="mw-redirect" title="桜花之恋塚 ～ Japanese Flower">桜花之恋塚　～ Japanese Flower</a></div><div class="source"><a href="./蓬莱人形_～_Dolls_in_Pseudo_Paradise.md" class="mw-redirect" title="蓬莱人形 ～ Dolls in Pseudo Paradise">蓬莱人形　～ Dolls in Pseudo Paradise</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

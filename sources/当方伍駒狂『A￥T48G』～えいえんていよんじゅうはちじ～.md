@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="/%E6%96%87%E4%BB%B6:%E5%BD%93%E6%96%B9%E4%BC%8D%E9%A7%92%E7%8B%82%E3%80%8EA%EF%BF%A5T48G%E3%80%8F%EF%BD%9E%E3%81%88%E3%81%84%E3%81%88%E3%82%93%E3%81%A6%E3%81%84%E3%82%88%E3%82%93%E3%81%98%E3%82%85%E3%81%86%E3%81%AF%E3%81%A1%E3%81%98%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/8/83/%E5%BD%93%E6%96%B9%E4%BC%8D%E9%A7%92%E7%8B%82%E3%80%8EA%EF%BF%A5T48G%E3%80%8F%EF%BD%9E%E3%81%88%E3%81%84%E3%81%88%E3%82%93%E3%81%A6%E3%81%84%E3%82%88%E3%82%93%E3%81%98%E3%82%85%E3%81%86%E3%81%AF%E3%81%A1%E3%81%98%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg/139px-%E5%BD%93%E6%96%B9%E4%BC%8D%E9%A7%92%E7%8B%82%E3%80%8EA%EF%BF%A5T48G%E3%80%8F%EF%BD%9E%E3%81%88%E3%81%84%E3%81%88%E3%82%93%E3%81%A6%E3%81%84%E3%82%88%E3%82%93%E3%81%98%E3%82%85%E3%81%86%E3%81%AF%E3%81%A1%E3%81%98%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="139" height="196" srcset="https://upload.thwiki.cc/thumb/8/83/%E5%BD%93%E6%96%B9%E4%BC%8D%E9%A7%92%E7%8B%82%E3%80%8EA%EF%BF%A5T48G%E3%80%8F%EF%BD%9E%E3%81%88%E3%81%84%E3%81%88%E3%82%93%E3%81%A6%E3%81%84%E3%82%88%E3%82%93%E3%81%98%E3%82%85%E3%81%86%E3%81%AF%E3%81%A1%E3%81%98%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg/208px-%E5%BD%93%E6%96%B9%E4%BC%8D%E9%A7%92%E7%8B%82%E3%80%8EA%EF%BF%A5T48G%E3%80%8F%EF%BD%9E%E3%81%88%E3%81%84%E3%81%88%E3%82%93%E3%81%A6%E3%81%84%E3%82%88%E3%82%93%E3%81%98%E3%82%85%E3%81%86%E3%81%AF%E3%81%A1%E3%81%98%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/8/83/%E5%BD%93%E6%96%B9%E4%BC%8D%E9%A7%92%E7%8B%82%E3%80%8EA%EF%BF%A5T48G%E3%80%8F%EF%BD%9E%E3%81%88%E3%81%84%E3%81%88%E3%82%93%E3%81%A6%E3%81%84%E3%82%88%E3%82%93%E3%81%98%E3%82%85%E3%81%86%E3%81%AF%E3%81%A1%E3%81%98%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg/277px-%E5%BD%93%E6%96%B9%E4%BC%8D%E9%A7%92%E7%8B%82%E3%80%8EA%EF%BF%A5T48G%E3%80%8F%EF%BD%9E%E3%81%88%E3%81%84%E3%81%88%E3%82%93%E3%81%A6%E3%81%84%E3%82%88%E3%82%93%E3%81%98%E3%82%85%E3%81%86%E3%81%AF%E3%81%A1%E3%81%98%EF%BD%9E%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="849" data-file-height="1200"></a><div class="cover-char">角色：<a href="./蓬莱山辉夜.md" title="蓬莱山辉夜">蓬莱山辉夜</a>，<a href="./因幡帝.md" title="因幡帝">因幡天为</a></div></td>
@@ -14,9 +15,12 @@
 <tr><td class="label">官网页面</td><td colspan="2"><a rel="nofollow" class="external free" href="https://www.pixiv.net/artworks/22344017">https://www.pixiv.net/artworks/22344017</a></td></tr></tbody></table>
 
 当方伍駒狂『A￥T48G』～えいえんていよんじゅうはちじ～（同人志，りとる・ずぅ，2011） - 2011年10月16日 由 りとる・ずぅ 于 东方红楼梦7 发布的漫画同人志，一共32页，登场人物有 蓬莱山辉夜、因幡天为、八意永琳、铃仙·优昙华院·因幡、莉格露·奈特巴格、森近霖之助、藤原妹红、橙，分级为 一般向
+
 ## 预览
+
 ## Staff
 - キョケ=カー (未找到链接)
+
 
 ## 评论
 

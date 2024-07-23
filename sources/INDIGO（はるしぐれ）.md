@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-INDIGO（はるしぐれ）封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/a/a6/INDIGO%EF%BC%88%E3%81%AF%E3%82%8B%E3%81%97%E3%81%90%E3%82%8C%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/158px-INDIGO%EF%BC%88%E3%81%AF%E3%82%8B%E3%81%97%E3%81%90%E3%82%8C%EF%BC%89%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="158" height="224" srcset="https://upload.thwiki.cc/thumb/a/a6/INDIGO%EF%BC%88%E3%81%AF%E3%82%8B%E3%81%97%E3%81%90%E3%82%8C%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/237px-INDIGO%EF%BC%88%E3%81%AF%E3%82%8B%E3%81%97%E3%81%90%E3%82%8C%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/a/a6/INDIGO%EF%BC%88%E3%81%AF%E3%82%8B%E3%81%97%E3%81%90%E3%82%8C%EF%BC%89%E5%B0%81%E9%9D%A2.jpg/316px-INDIGO%EF%BC%88%E3%81%AF%E3%82%8B%E3%81%97%E3%81%90%E3%82%8C%EF%BC%89%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="600" data-file-height="849"></a><div class="cover-char">角色：<a href="./键山雏.md" title="键山雏">键山雏</a></div></td>
@@ -18,11 +19,14 @@ INDIGO（同人志，はるしぐれ，2016） - 2016年8月13日 由 はるし�
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://www.melonbooks.co.jp/detail/detail.php?product_id=173265">蜜瓜</a></td></tr></tbody></table>
 
 
+
 ## 预览
 - [](./文件-INDIGO（はるしぐれ）预览图1.jpg.md)- [](./文件-INDIGO（はるしぐれ）预览图2.jpg.md)- [](./文件-INDIGO（はるしぐれ）预览图3.jpg.md)
 
+
 ## Staff
 - はるとき (未找到链接)
+
 
 ## 评论
 ```

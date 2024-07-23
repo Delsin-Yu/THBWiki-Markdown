@@ -4,7 +4,8 @@
 
 Saikoro Club Network ，主要制作 同人音乐，同人游戏 的同人社团，当前状态为 休止
 
-本页是关于 **同人社团 (未找到链接)** 的词条
+本页是关于 **[同人社团](./同人社团.md#同人社团)** 的词条
+
 ## 目录
 
 - [1 社团信息](#社团信息)
@@ -22,17 +23,21 @@ Saikoro Club Network ，主要制作 同人音乐，同人游戏 的同人社团
 
 
 
+
 ## 社团信息
 [](./文件-Saikoro_Club_Networkbanner.gif.md)  [](./文件-Saikoro_Club_Networkbanner.gif.md)banner
 
 <table><tbody><tr><td style="width:120px"><b>社团名称</b></td><td style="min-width:300px"> Saikoro Club Network </td></tr><tr><td><b>主要作品类型</b></td><td>同人音乐，同人游戏</td></tr><tr><td><b>当前状态</b></td><td>休止</td></tr><tr><td><b>官网页面</b></td><td><a rel="nofollow" class="external free" href="http://www.saikoroclub.net/">http://www.saikoroclub.net/</a> <span style="font-family: sans-serif; cursor: default; color:#555; font-size: 0.8em; bottom: 0.1em; font-weight: bold;" title="连接到已经失效网页">（已经失效）</span><small>（<a rel="nofollow" class="external text" href="https://web.archive.org/web/20111128222649/http://www.saikoroclub.net/">缓存页面</a>）</small></td></tr></tbody></table>
 
 Saikoro Club Network（同人社团，同人音乐社团，同人游戏社团） - Saikoro Club Network ，主要制作 同人音乐，同人游戏 的同人社团，当前状态为 休止
+
 ## 成员名单
 - hanekin (未找到链接)
 - 葵実樹 (未找到链接)
 
+
 ## 作品列表
+
 ### 同人专辑
 幻想鏡らびリンス　～ Welcome to Lunatic Festival!! 封面图片 (未找到链接)幻想鏡らびリンス ～ Welcome to Lunatic Festival!!（同人专辑） (未找到链接)首发日期：未知 - [](./black_history_extra.md)[black history extra](./black_history_extra.md)首发日期：2009-03-01 （るなフェス3 (未找到链接)）SCN-BHE1全长 （一般向）[](./black_history2_-_Crimson_Label.md)[black history2 - Crimson Label](./black_history2_-_Crimson_Label.md)首发日期：2009-05-06 （紅月ノ宴参 (未找到链接)）SCN-BH02EP （一般向）[](./因任自重_～_Original_Sound_Track..md)[因任自重　～ Original Sound Track.](./因任自重_～_Original_Sound_Track..md)首发日期：2009-09-22 （月の宴2 (未找到链接)）SCN-TCN3-S原声集 （一般向）[](./black_history3_-_Viridian_Label.md)[black history3 - Viridian Label](./black_history3_-_Viridian_Label.md)首发日期：2009-10-25 （御射宫司祭 (未找到链接)）SCN-BH03EP （一般向）[](./black_history4_-_Sakurairo_Label.md)[black history4 - Sakurairo Label](./black_history4_-_Sakurairo_Label.md)首发日期：2010-05-04 （幽明櫻 (未找到链接)）SCN-BH04EP （一般向）[](./black_history5_-_Violet_Label.md)[black history5 - Violet Label](./black_history5_-_Violet_Label.md)首发日期：2010-10-11 （東方紅楼夢6 (未找到链接)）SCN-BH05EP （一般向）[](./新·空即是紫記音源録～TOHO_TEMPEST_PHANTASM_I.md)[新·空即是紫記音源録～TOHO TEMPEST PHANTASM I](./新·空即是紫記音源録～TOHO_TEMPEST_PHANTASM_I.md)首发日期：2010-08-14 （Comic Market 78 (未找到链接)）SCDA-1014原声集 （一般向）该作品是与 [Sonic Hybrid Orchestra](./Sonic_Hybrid_Orchestra.md) 合作创作的[](./新·空即是紫記音源録～TOHO_TEMPEST_PHANTASM_II.md)[新·空即是紫記音源録～TOHO TEMPEST PHANTASM II](./新·空即是紫記音源録～TOHO_TEMPEST_PHANTASM_II.md)首发日期：2010-10-31 （M3-2010秋 (未找到链接)）SCDA-1015原声集 （一般向）该作品是与 [Sonic Hybrid Orchestra](./Sonic_Hybrid_Orchestra.md) 合作创作的
 <table><style data-mw-deduplicate="TemplateStyles:r686458">.mw-parser-output .simple_work{display:grid;min-height:calc(120px + 0.5rem);grid-template-columns:calc(120px + 0.5rem)1fr;grid-template-rows:auto 1fr;grid-template-areas:"cover title""cover props";overflow:hidden}.mw-parser-output .simple_work-cover{grid-area:cover;align-self:center;justify-self:center;overflow:hidden;max-width:100%;max-height:100%;padding:0.25rem;word-break:break-all}.mw-parser-output .simple_work-cover a.new{display:block;text-align:center;padding:0.25rem}.mw-parser-output .simple_work-title{grid-area:title;margin-top:0.25rem;padding-left:0.25rem;font-weight:bold}.mw-parser-output .simple_work-props{grid-area:props;padding-left:0.25rem}.mw-parser-output .simple_work-prop{margin:0.125rem 0}</style>
@@ -54,6 +59,7 @@ Saikoro Club Network（同人社团，同人音乐社团，同人游戏社团）
 </table>
 
 
+
 ### 同人游戏
 紅紫混同 - Koshi-KonDo!? 封面图片 (未找到链接)紅紫混同 - Koshi-KonDo!? (未找到链接)首发日期：未知 - 幽従不断 - Daily life of ghost attendant. 封面图片 (未找到链接)幽従不断 - Daily life of ghost attendant. (未找到链接)首发日期：未知 - 空即是紫記　～ Emptiness in the True Memory. 封面图片 (未找到链接)空即是紫記 ～ Emptiness in the True Memory. (未找到链接)首发日期：未知 - 因任自重　～ Haphazard Crib Paradise 封面图片 (未找到链接)因任自重 ～ Haphazard Crib Paradise (未找到链接)首发日期：未知 - にとりタイプ 封面图片 (未找到链接)にとりタイプ (未找到链接)首发日期：未知 - 早苗さんRPG(仮) 封面图片 (未找到链接)早苗さんRPG(仮) (未找到链接)首发日期：未知 - 白黒さん ～罰地の冒険 封面图片 (未找到链接)白黒さん ～罰地の冒険 (未找到链接)首发日期：未知 - 空即是紫記RPG 封面图片 (未找到链接)空即是紫記RPG (未找到链接)首发日期：未知 - 白黒大罰地 封面图片 (未找到链接)白黒大罰地 (未找到链接)首发日期：未知 - 
 <table><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
@@ -67,10 +73,12 @@ Saikoro Club Network（同人社团，同人音乐社团，同人游戏社团）
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458"></table>
 
 
+
 ### 同人志
 [](./にとり三昧.md)[にとり三昧](./にとり三昧.md)首发日期：2009-03-01 （るなフェス3 (未找到链接)）漫画、​合同志 （一般向）该作品是与 [catwalk](./catwalk.md)、​[霧笛堂工房](./霧笛堂工房.md)、​[青空キックバック](./青空キックバック.md) 合作创作的A5&#160;尺寸 28&#160;页附送同人游戏にとりタイプ (未找到链接)
 <table><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r686458">
 </table>
+
 
 
 ## 参展信息

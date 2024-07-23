@@ -17,11 +17,13 @@
   
 
 <big><big>后记</big></big>
+
 ## ZUN的后记
 - 本章节于书中页数：第318页。
 
 
 <table><tbody><tr align="left" valign="top"><td style="min-width:200px;"><div class="tt-ja tt-type-omake" lang="ja"><div class="poem">　どうもZUNです。スポットのフレーバーテキストを描きました。情報を並べた設定資料というよりは、その場所の空気感を感じられるようなテキストになるように注意して書きました。TRPGのシナリオを楽しんで作れるような感じになっているといいな、と思っています。<br><br>　TRPGというと、遥か昔（30年以上前）に色々やってたのですが、その頃よりもシステム的に進化していて、遊びやすくなっているもんですね。東方のキャラに成りきって遊ぶというのは中々恥ずかしいものもありますが、キャラの性格に引きずられてシナリオが面白い方に進むのは新鮮でした。<br>　どうもおっさん世代には、名前も自画像も性格から何まで、一からキャラメイクして、キャラメイクが終わったときにはもうお腹いっぱい……、なんてイメージがあるんですがね（笑）。遊びやすく進化してたんですねぇ。<br><br>　あと、キャラのセリフ例も書きました。セリフに困ったらこれを使ってください、みたいのを用意して……、て言われたんですが、殆どのセリフ、どんな場面で使えば良いのか判りませんね。何ならどんな場面で発した台詞なのかも全く判りません（笑）。ま、気にせず好きにロールプレイしてくださいね。<br><br>　それでは、TRPG初心者の方も上級者の方も楽しんで下さいね。</div></div><div class="tt-jar tt-type-omake" lang="ja"><div class="poem">ZUN</div></div></td><td width="200px"><div class="thumb tleft"><div class="thumbinner" style="width:202px;"><a href="./文件-幻想Narrato_Graph（ZUN的后记）.jpg.md" class="image"><img alt="" src="https://upload.thwiki.cc/thumb/6/65/%E5%B9%BB%E6%83%B3Narrato_Graph%EF%BC%88ZUN%E7%9A%84%E5%90%8E%E8%AE%B0%EF%BC%89.jpg/200px-%E5%B9%BB%E6%83%B3Narrato_Graph%EF%BC%88ZUN%E7%9A%84%E5%90%8E%E8%AE%B0%EF%BC%89.jpg" decoding="async" loading="lazy" width="200" height="284" class="thumbimage" srcset="https://upload.thwiki.cc/thumb/6/65/%E5%B9%BB%E6%83%B3Narrato_Graph%EF%BC%88ZUN%E7%9A%84%E5%90%8E%E8%AE%B0%EF%BC%89.jpg/300px-%E5%B9%BB%E6%83%B3Narrato_Graph%EF%BC%88ZUN%E7%9A%84%E5%90%8E%E8%AE%B0%EF%BC%89.jpg 1.5x, https://upload.thwiki.cc/thumb/6/65/%E5%B9%BB%E6%83%B3Narrato_Graph%EF%BC%88ZUN%E7%9A%84%E5%90%8E%E8%AE%B0%EF%BC%89.jpg/400px-%E5%B9%BB%E6%83%B3Narrato_Graph%EF%BC%88ZUN%E7%9A%84%E5%90%8E%E8%AE%B0%EF%BC%89.jpg 2x" data-file-width="1444" data-file-height="2048"></a>  <div class="thumbcaption"><div class="magnify"><a href="./文件-幻想Narrato_Graph（ZUN的后记）.jpg.md" class="internal" title="放大"></a></div>P318</div></div></div></td></tr></tbody></table>
+
 
 
 ## 中西咏介／冒险企划局的后记

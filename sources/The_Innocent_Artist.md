@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人专辑 (未找到链接)** 的词条
+
 ## 专辑信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-The_Innocent_Artist封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/8/8e/The_Innocent_Artist%E5%B0%81%E9%9D%A2.jpg/224px-The_Innocent_Artist%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="224" height="196" srcset="https://upload.thwiki.cc/thumb/8/8e/The_Innocent_Artist%E5%B0%81%E9%9D%A2.jpg/336px-The_Innocent_Artist%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/thumb/8/8e/The_Innocent_Artist%E5%B0%81%E9%9D%A2.jpg/448px-The_Innocent_Artist%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="620" data-file-height="543"></a><div class="cover-char">角色：<a href="./埴安神袿姬.md" title="埴安神袿姬">埴安神袿姬</a></div></td>
@@ -18,6 +19,7 @@ The Innocent Artist（同人专辑，Floresta Prateada，2019） - 2019年11月2
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://flopra.booth.pm/items/1684483">Booth</a></td></tr></tbody></table>
 
 
+
 ## Staff
   
  **Arrangement**   
@@ -27,6 +29,7 @@ The Innocent Artist（同人专辑，Floresta Prateada，2019） - 2019年11月2
 
 Illustration
 : 筅 氷雨
+
 
 ## 试听
 
@@ -40,9 +43,11 @@ Illustration
 </td></tr></tbody></table>
 
 
+
 ## 曲目列表
 
-<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="The_Innocent_Artist" colspan="2" class="title">The Innocent Artist<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=efufp&amp;ogmusic=偶像に世界を委ねて　～ Idoratrize World&amp;fromwiki=The_Innocent_Artist"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=efufp&amp;action=edit&amp;redlink=1" class="new" title="efufp（页面不存在）">efufp</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，efufp&amp;fromwiki=The_Innocent_Artist"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=偶像に世界を委ねて　～ Idoratrize World&amp;fromwiki=The_Innocent_Artist"><span></span></a></span><div class="ogmusic"><a href="/%E5%81%B6%E5%83%8F%E3%81%AB%E4%B8%96%E7%95%8C%E3%82%92%E5%A7%94%E3%81%AD%E3%81%A6_%EF%BD%9E_Idoratrize_World" class="mw-redirect" title="偶像に世界を委ねて ～ Idoratrize World">偶像に世界を委ねて　～ Idoratrize World</a></div><div class="source"><a href="/%E4%B8%9C%E6%96%B9%E9%AC%BC%E5%BD%A2%E5%85%BD_%EF%BD%9E_Wily_Beast_and_Weakest_Creature." class="mw-redirect" title="东方鬼形兽 ～ Wily Beast and Weakest Creature.">东方鬼形兽　～ Wily Beast and Weakest Creature.</a></div></td></tr></tbody></table>
+<table><tbody><tr><td id="1" class="infoYD"><b>01</b></td><td id="The_Innocent_Artist" colspan="2" class="title">The Innocent Artist<span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=efufp&amp;ogmusic=偶像に世界を委ねて　～ Idoratrize World&amp;fromwiki=The_Innocent_Artist"><span title="搜索相似同人曲"></span></a></span></td><td class="time">-</td></tr><tr><td class="left"></td><td class="label">编曲</td><td class="text" colspan="2"><a href="/index.php?title=efufp&amp;action=edit&amp;redlink=1" class="new" title="efufp（页面不存在）">efufp</a><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?arrange=，efufp&amp;fromwiki=The_Innocent_Artist"><span></span></a></span></td></tr><tr><td class="left"></td><td class="label">原曲</td><td class="text" colspan="2"><span class="thcsearchlinks"><a rel="nofollow" class="external text" href="https://cd.thwiki.cc?ogmusic=偶像に世界を委ねて　～ Idoratrize World&amp;fromwiki=The_Innocent_Artist"><span></span></a></span><div class="ogmusic"><a href="./偶像に世界を委ねて_～_Idoratrize_World.md" class="mw-redirect" title="偶像に世界を委ねて ～ Idoratrize World">偶像に世界を委ねて　～ Idoratrize World</a></div><div class="source"><a href="./东方鬼形兽_～_Wily_Beast_and_Weakest_Creature..md" class="mw-redirect" title="东方鬼形兽 ～ Wily Beast and Weakest Creature.">东方鬼形兽　～ Wily Beast and Weakest Creature.</a></div></td></tr></tbody></table>
+
 
 
 ## 评论

@@ -6,6 +6,7 @@
 
 本页是关于东方Project  
  **二次创作同人志 (未找到链接)** 的词条
+
 ## 作品信息
 
 <table><tbody><tr><th colspan="3">基本信息</th></tr><tr><td class="cover-artwork-mobile" colspan="2"><a href="./文件-L'oiseau_Bleu封面.jpg.md" class="image" title="封面图片"><img alt="封面图片" src="https://upload.thwiki.cc/thumb/9/92/L%27oiseau_Bleu%E5%B0%81%E9%9D%A2.jpg/157px-L%27oiseau_Bleu%E5%B0%81%E9%9D%A2.jpg" decoding="async" loading="lazy" width="157" height="224" srcset="https://upload.thwiki.cc/thumb/9/92/L%27oiseau_Bleu%E5%B0%81%E9%9D%A2.jpg/236px-L%27oiseau_Bleu%E5%B0%81%E9%9D%A2.jpg 1.5x, https://upload.thwiki.cc/9/92/L%27oiseau_Bleu%E5%B0%81%E9%9D%A2.jpg 2x" data-file-width="270" data-file-height="384"></a><div class="cover-char">角色：<a href="./博丽灵梦.md" title="博丽灵梦">博丽灵梦</a>，<a href="./雾雨魔理沙.md" title="雾雨魔理沙">雾雨魔理沙</a>，<a href="/%E5%8D%81%E5%85%AD%E5%A4%9C%E5%92%B2%E5%A4%9C" title="十六夜咲夜">十六夜咲夜</a></div></td>
@@ -18,10 +19,12 @@ L'oiseau Bleu（同人志，DEMOUR402，2006） - 2006年8月13日 由 DEMOUR402
 <table><tbody><tr><th colspan="3">通贩信息</th></tr><tr><td class="label">官方通贩</td><td colspan="2"><a rel="nofollow" class="external text" href="https://ec.toranoana.jp/tora_r/ec/item/040010104046">虎穴</a></td></tr></tbody></table>
 
 
+
 ## Staff
   
 ツヤダシシュウジ
   
+
 
 ## 评论
 

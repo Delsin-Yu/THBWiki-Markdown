@@ -4,6 +4,7 @@
 
 使用了翻译表的页面
 
+
 ## 目录
 
 - [1 问候](#问候)
@@ -23,10 +24,12 @@
 
 
 
+
 ###### 问候
 
 
 <table><tbody><tr class="tt-content" id="=-3" data-pos="&#91;&quot;=&quot;,3&#93;"><td class="tt-zh" lang="zh"><div class="poem">■１．问候<br>　　　非常感谢各位能前来支持我们的第一作：<br>　「东方谜缘塔　～ Forsaken Labyrinth. 」的体验版。<br><br>　　　本次游戏是在紧张的异变前提下，熟悉的角色们先后出动、<br>　一步步挖掘异变真相的激烈弹幕决斗体验。<br><br>　　　STG游戏的发展已经过去了挺久了。<br>　个人感觉，有些弹幕STG依然秉持“重心放在弹幕和特效上，<br>　而对故事没有特别在意”的理念。<br>　　　这倒也没什么不好，STG游戏没有游戏性那还叫啥游戏（哎呀哎呀）；<br>　　只是我个人其实很喜欢那种比较有内容的剧情，因此<br>　也希望能给大家带来这种体验。（汗——）<br>　　　至于到底怎么样，还劳烦亲自体验，我们期待各位的反馈。<br><br>　　　另外，因为是体验版，所以有可能在毫无通告的情况下改变游戏的一些设计。<br>　　同时，可能会存在多个体验版，届时我们会以更新的形式放送。</div></td></tr></tbody></table>
+
 
 
 
@@ -37,10 +40,12 @@
 
 
 
+
 ###### 卸载方式
 
 
 <table><tbody><tr class="tt-content" id="=-7" data-pos="&#91;&quot;=&quot;,7&#93;"><td class="tt-zh" lang="zh"><div class="poem">■３．卸载方式<br>　　　按照其他同平台的游戏的卸载方式即可。<br>　　如果是拿取的压缩包，则直接删除解压缩的文件夹就好。</div></td></tr></tbody></table>
+
 
 
 
@@ -51,10 +56,12 @@
 
 
 
+
 ###### 如果没有什么疑问
 
 
 <table><tbody><tr class="tt-content" id="=-11" data-pos="&#91;&quot;=&quot;,11&#93;"><td class="tt-zh" lang="zh"><div class="poem">■５．如果没有什么疑问<br>　　请享受游戏。</div></td></tr></tbody></table>
+
 
 
 
